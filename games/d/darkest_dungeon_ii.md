@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 5.00% | ~80 |
+| Malpractice Assurance | 5.00% | ~81 |
 | This Belongs in a Museum | 2.00% | ~2,535 |
 | Catch and Decease | 2.00% | ~2,535 |
 | Escape from the Black Hole | 2.00% | ~2,535 |
@@ -23,12 +23,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 0.80% | ~1,014 |
 | To Grandmother's House | 0.80% | ~1,014 |
 | FNG | 0.80% | ~1,014 |
+| Friends 'Til the End | 0.80% | ~13 |
 | Don't Make Me Turn This Coach Around | 0.70% | ~887 |
 | It Rings a Bell | 0.70% | ~887 |
 | Dissector | 0.70% | ~887 |
 | It Happens | 0.70% | ~887 |
 | Nope | 0.70% | ~887 |
-| Friends 'Til the End | 0.70% | ~11 |
 | Banishment | 0.60% | ~760 |
 | Deprogramming | 0.60% | ~760 |
 | Merry Time | 0.60% | ~760 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,734 (Ranked 84)  
+Progressed: 126,744 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 3 (0.00%) (Ranked 374)
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
-| 2023-12-14 | 126,734 | 3 |
+| 2023-12-14 | 126,744 | 3 |
 ## Awards
 Max (Character Customization): 7,665  (Ranked 52)  
 Sum: 20,347 (Ranked 59)  

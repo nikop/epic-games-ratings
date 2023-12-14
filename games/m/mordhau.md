@@ -5,16 +5,16 @@ Rating: 4.38 (Ranked 771)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~769,762 |
-| The ABCs | 43.00% | ~675,505 |
-| Home Run | 41.00% | ~644,086 |
-| Keeps Coming Off | 41.00% | ~644,086 |
-| Guts | 20.00% | ~314,188 |
-| Meat Grinder | 19.00% | ~298,479 |
-| Burning Man | 16.00% | ~251,351 |
-| Lived to Tell the Tale | 12.00% | ~188,513 |
-| Highlander | 10.00% | ~157,094 |
-| Unstoppable | 10.00% | ~157,094 |
+| Justice from the Grave | 49.00% | ~769,765 |
+| The ABCs | 43.00% | ~675,508 |
+| Home Run | 41.00% | ~644,089 |
+| Keeps Coming Off | 41.00% | ~644,089 |
+| Guts | 20.00% | ~314,190 |
+| Meat Grinder | 19.00% | ~298,480 |
+| Burning Man | 16.00% | ~251,352 |
+| Lived to Tell the Tale | 12.00% | ~188,514 |
+| Highlander | 10.00% | ~157,095 |
+| Unstoppable | 10.00% | ~157,095 |
 | Just a Scratch | 9.00% | ~141,385 |
 | Tough Nut to Crack | 6.00% | ~94,257 |
 | Yoink | 6.00% | ~94,257 |
@@ -30,9 +30,9 @@ Rating: 4.38 (Ranked 771)
 | You’re Welcome | 2.00% | ~31,419 |
 | Chambermaid | 1.00% | ~15,709 |
 | Coming Through | 1.00% | ~15,709 |
-| Boxer | 0.90% | ~14,138 |
-| Flyswatter | 0.90% | ~14,138 |
-| Training Accident | 0.90% | ~14,138 |
+| Boxer | 0.90% | ~14,139 |
+| Flyswatter | 0.90% | ~14,139 |
+| Training Accident | 0.90% | ~14,139 |
 | Friend Indeed | 0.70% | ~10,997 |
 | Rock’n’Roll | 0.70% | ~10,997 |
 | Virtuoso | 0.70% | ~10,997 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 771)
 | That’s No Ordinary Cold | 0.10% | ~1,571 |
 | Stairway to Hell | 0.10% | ~1,571 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,570,942 (Ranked 7)  
+Progressed: 1,570,948 (Ranked 7)  
 Completed: 70 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 70 (0.00%) (Ranked 374)
 | 2023-12-11 | 1,570,104 | 70 |
 | 2023-12-12 | 1,570,508 | 70 |
 | 2023-12-13 | 1,570,880 | 70 |
-| 2023-12-14 | 1,570,942 | 70 |
+| 2023-12-14 | 1,570,948 | 70 |
 ## Awards
 Max (Diverse Characters): 1,047  (Ranked 152)  
 Sum: 5,478 (Ranked 135)  

@@ -2,13 +2,13 @@
   "ID": "a64d4c5460384218b17de5bd785085f8",
   "Name": "Train Sim World\u00AE 3: Standard Edition",
   "ProductSlug": "train-sim-world-3",
-  "Ranking_Rating": 517,
+  "Ranking_Rating": 516,
   "Ranking_Popularity": 239,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -3338,6 +3338,6 @@
   "FirstSeenRating": "2022-09-07T06:00:21.7269742+00:00",
   "LastChanged": "2023-12-12T20:02:52.7566106+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.1308084+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:25:19.2418121+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:26:55.6705124+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:03:30.7223512+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:05:10.4171638+00:00"
 }

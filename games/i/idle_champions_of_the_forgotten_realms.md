@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sigil | 0.30% | ~618 |
+| Welcome to Sigil | 0.30% | ~619 |
 | Fast Food | 0.20% | ~412 |
 | A Brief Tour of the Realms | 0.10% | ~240 |
 | Maddening | 0.10% | ~240 |
@@ -16,6 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cold as Ice | 0.10% | ~206 |
 | Keep Your Friends Close | 0.10% | ~206 |
 | Friends and Foes | 0.10% | ~206 |
+| And Your Enemies Closer | 0.10% | ~206 |
 | Tall Tales | 0.10% | ~206 |
 | Nightmare Rats! | 0.10% | ~206 |
 | An Unexpected Geist | 0.10% | ~206 |
@@ -27,6 +28,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thieves of the Coven | 0.10% | ~206 |
 | Sticky Fingers | 0.10% | ~206 |
 | Patron Party | 0.10% | ~206 |
+| Go Fourth | 0.10% | ~206 |
 | Hither of the Feywild | 0.10% | ~206 |
 | Don't Breathe the Marsh Gas | 0.10% | ~206 |
 | Don't Blast the Brigands | 0.10% | ~206 |
@@ -37,13 +39,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Lesson in Classes | 0.10% | ~206 |
 | The Prince of a Thousand Enemies | 0.10% | ~206 |
 | Uncommon Allies | 0.10% | ~206 |
+| The Birds | 0.10% | ~206 |
 | Where the Magic Happens | 0.10% | ~206 |
 | Downfall | 0.10% | ~206 |
+| First Third Out | 0.10% | ~206 |
+| Second Third Out | 0.10% | ~206 |
 | The Silken Swamp | 0.10% | ~240 |
 | Slack-jawed Lorna | 0.10% | ~206 |
+| I'm Sure I Saw It Move! | 0.10% | ~206 |
 | End of the Line | 0.10% | ~206 |
 | A Steadfast Love | 0.10% | ~206 |
 | The Fairy Rings of Thither | 0.10% | ~206 |
+| Zarak's Revenge | 0.10% | ~206 |
 | Bully for You! | 0.10% | ~206 |
 | Beast Intentions | 0.10% | ~240 |
 | Wet Feet | 0.10% | ~240 |
@@ -64,10 +71,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Demon Lords of the Abyss | 0.10% | ~206 |
 | Speed Demons | 0.10% | ~206 |
 | Will of the Feywild | 0.10% | ~206 |
+| All Damage, All The Time | 0.10% | ~206 |
 | The Roots of Loomlurch | 0.10% | ~206 |
 | The Lutes of Loomlurch | 0.10% | ~206 |
 | Supply Run | 0.10% | ~240 |
 | Best Laid Plans | 0.10% | ~206 |
+| Pincushion Party | 0.10% | ~206 |
 | The Howling Peaks of Yon | 0.10% | ~206 |
 | Strength of Character | 0.10% | ~206 |
 | Heavy Burden | 0.10% | ~240 |
@@ -95,6 +104,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frail Doesn't Mean Broken | 0.10% | ~206 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~206 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~206 |
+| The Sanctum of the Sword | 0.10% | ~206 |
 | Kas the Bloody Handed | 0.10% | ~206 |
 | Were-verpowered | 0.10% | ~240 |
 | Checkmate | 0.10% | ~206 |
@@ -267,6 +277,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sunless Citadel | 0.10% | ~240 |
 | Veteran Brigade | 0.10% | ~240 |
 | Social Grace | 0.10% | ~206 |
+| Evergreens with an Evergreen | 0.10% | ~206 |
 | Meepo's Quest | 0.10% | ~240 |
 | She's Harmless! | 0.10% | ~240 |
 | The Tallest of Kobolds | 0.10% | ~206 |
@@ -341,6 +352,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Madcap Adventures Redux | 0.10% | ~206 |
 | When the Going Gets Tough | 0.10% | ~206 |
 | Tiamat's Army | 0.10% | ~206 |
+| Show of Strength | 0.10% | ~206 |
 | Fight Dragons with Dragons | 0.10% | ~206 |
 | Questlines | 0.10% | ~206 |
 | Raggadragga's Crew | 0.10% | ~206 |
@@ -495,24 +507,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mental Gymnastics | 0.10% | ~206 |
 | Don't Lose Your Head | 0.10% | ~206 |
 | Mind Spike | 0.10% | ~206 |
-| And Your Enemies Closer | 0.00% | ~0 |
-| Go Fourth | 0.00% | ~0 |
 | Don't Squeeze the Spiders | 0.00% | ~0 |
-| The Birds | 0.00% | ~0 |
-| First Third Out | 0.00% | ~0 |
-| Second Third Out | 0.00% | ~0 |
 | Third Third Out | 0.00% | ~0 |
-| I'm Sure I Saw It Move! | 0.00% | ~0 |
-| Zarak's Revenge | 0.00% | ~0 |
-| All Damage, All The Time | 0.00% | ~0 |
 | Will of the Frozen Feywild | 0.00% | ~0 |
 | The Loots of Loomlurch | 0.00% | ~0 |
-| Pincushion Party | 0.00% | ~0 |
 | G. O. A. T. | 0.00% | ~0 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
 | More Than Well Equipped | 0.00% | ~0 |
 | The Castle of a Thousand Vecnas | 0.00% | ~0 |
-| The Sanctum of the Sword | 0.00% | ~0 |
 | Get Back In The Castle | 0.00% | ~0 |
 | Kas the Destroyer | 0.00% | ~0 |
 | Vecna Out! | 0.00% | ~0 |
@@ -526,13 +528,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | No One Can Hear You Scream | 0.00% | ~0 |
 | Enter the Sargauth | 0.00% | ~0 |
-| Evergreens with an Evergreen | 0.00% | ~0 |
 | Vault of Cuteness | 0.00% | ~0 |
 | Smooth Talkers | 0.00% | ~0 |
 | An Owlbear of an Undertaking | 0.00% | ~0 |
 | Déjà Vu All Over Again | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
-| Show of Strength | 0.00% | ~0 |
 | Bel's Forge | 0.00% | ~0 |
 | An Awakened Axe | 0.00% | ~0 |
 | How Far Away is Thay | 0.00% | ~0 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Time Out | 0.00% | ~0 |
 | The End is the Beginning | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,890 (Ranked 65)  
-Completed: 2,519 (1.05%) (Ranked 167)  
+Progressed: 239,906 (Ranked 65)  
+Completed: 2,520 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -791,7 +791,7 @@ Completed: 2,519 (1.05%) (Ranked 167)
 | 2023-12-11 | 239,456 | 2,517 |
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
-| 2023-12-14 | 239,890 | 2,519 |
+| 2023-12-14 | 239,906 | 2,520 |
 ## Awards
 Max (Great for Beginners): 5,624  (Ranked 70)  
 Sum: 32,848 (Ranked 41)  

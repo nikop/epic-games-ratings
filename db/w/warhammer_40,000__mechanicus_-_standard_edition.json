@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -934,10 +934,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2210,
       "NumberOfAwardsMax": 291
+    },
+    {
+      "Time": "2023-12-14T02:58:28.5187274+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2211,
+      "NumberOfAwardsMax": 291
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2210,
+  "NumberOfAwards": 2211,
   "NumberOfAwardsMax": 291,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -981,7 +987,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 216
+      "Count": 217
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1002,7 +1008,7 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 229324,
+  "EOS_Progressed": 229325,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 0,
@@ -26957,6 +26963,11 @@
       "Time": "2023-12-14T02:31:54.294085+00:00",
       "NumProgressed": 229324,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-14T03:09:59.3097169+00:00",
+      "NumProgressed": 229325,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -27048,7 +27059,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13759
+      "UsersEstimate": 13760
     },
     {
       "ID": "ACH_BASE_20",
@@ -27239,16 +27250,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 229324,
+      "Progressed": 229325,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-12-13T06:57:45.4416447+00:00",
-  "LastChanged_Achievements": "2023-12-14T02:31:54.2940848+00:00",
+  "LastChanged": "2023-12-14T02:58:28.5187272+00:00",
+  "LastChanged_Achievements": "2023-12-14T03:09:59.3097166+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.549712+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:19:57.6474625+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:31:54.2942095+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:58:28.5187277+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:09:59.3098494+00:00"
 }

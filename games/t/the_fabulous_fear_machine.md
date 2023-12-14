@@ -10,13 +10,13 @@
 | The battle of Great Britain | 21.00% | ~10 |
 | Pulp! Where Monsters Dwell | 21.00% | ~10 |
 | A continent with chemistry | 19.00% | ~9 |
+| The happy farmer girl | 17.00% | ~8 |
 | Giant | 15.00% | ~7 |
 | The seer | 15.00% | ~7 |
 | Pulp! Terror Tales in the Night | 15.00% | ~7 |
-| The happy farmer girl | 15.00% | ~7 |
+| A rival with no options | 13.00% | ~6 |
 | The artist | 13.00% | ~6 |
 | Pulp! Out of this World | 13.00% | ~6 |
-| A rival with no options | 10.00% | ~5 |
 | Pulp! Adventures into the Unknown | 10.00% | ~5 |
 | Diagnosis: fear | 10.00% | ~5 |
 | Ambition is... blind | 10.00% | ~5 |
@@ -52,7 +52,7 @@
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48 (Ranked 514)  
+Progressed: 48 (Ranked 515)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |

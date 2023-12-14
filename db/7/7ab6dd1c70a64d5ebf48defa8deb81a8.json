@@ -2,9 +2,9 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 368,
+  "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 290,
+  "EOS_Progressed": 292,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -1115,6 +1115,11 @@
       "Time": "2023-12-14T02:31:57.2380813+00:00",
       "NumProgressed": 290,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T03:10:02.4323509+00:00",
+      "NumProgressed": 292,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1150,23 +1155,23 @@
       "Name": "Calm before the Storm",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_05",
       "SetID": "efe2lj",
       "Name": "To Battle",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_06",
       "SetID": "efe2lj",
       "Name": "Godslayer",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_07",
@@ -1294,7 +1299,7 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_23",
@@ -1358,7 +1363,7 @@
       "Name": "Alchemist",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_31",
@@ -1413,14 +1418,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 290,
+      "Progressed": 292,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-14T02:31:57.2380811+00:00",
+  "LastChanged_Achievements": "2023-12-14T03:10:02.4323506+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:19:29.5091684+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:31:57.2381094+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:58:01.4501308+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:10:02.4323771+00:00"
 }

@@ -413,9 +413,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 328442,
+  "EOS_Progressed": 328452,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3412,
+  "EOS_NewPlayers": 3417,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9523,6 +9523,11 @@
       "Time": "2023-12-14T02:28:26.9549803+00:00",
       "NumProgressed": 328442,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-14T03:06:43.4354556+00:00",
+      "NumProgressed": 328452,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9535,7 +9540,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9853
+      "UsersEstimate": 9854
     },
     {
       "ID": "S02_BRDA",
@@ -9671,7 +9676,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9853
+      "UsersEstimate": 9854
     },
     {
       "ID": "S19_CHALLENGES",
@@ -9847,14 +9852,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3284
+      "UsersEstimate": 3285
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 328442,
+      "Progressed": 328452,
       "Completed": 5
     }
   ],
@@ -9862,8 +9867,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-13T03:57:02.1052572+00:00",
-  "LastChanged_Achievements": "2023-12-14T02:28:26.9549799+00:00",
+  "LastChanged_Achievements": "2023-12-14T03:06:43.4354553+00:00",
   "LastUpdate_AppInfo": "2023-12-07T20:57:05.8241643+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:19:25.7566513+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:28:26.9550484+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:57:57.6250642+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:06:43.4355095+00:00"
 }

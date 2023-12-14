@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2145,9 +2145,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 21499,
+  "EOS_Progressed": 21500,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11270,6 +11270,11 @@
       "Time": "2023-12-13T23:08:16.873507+00:00",
       "NumProgressed": 21499,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-14T03:06:51.9707493+00:00",
+      "NumProgressed": 21500,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -11329,7 +11334,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20424
+      "UsersEstimate": 20425
     },
     {
       "ID": "GameOver",
@@ -11337,7 +11342,7 @@
       "Name": "Game Over",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "GorgioShanua",
@@ -11353,7 +11358,7 @@
       "Name": "Wall Street Shark",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "JimmyTraitor",
@@ -11401,7 +11406,7 @@
       "Name": "Negotiator",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "Perfectionist",
@@ -11464,15 +11469,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21499,
+      "Progressed": 21500,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-10T14:57:24.5394548+00:00",
-  "LastChanged_Achievements": "2023-12-14T02:30:16.5982697+00:00",
+  "LastChanged_Achievements": "2023-12-14T03:06:51.9707489+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:23.2037957+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:20:55.1616755+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:30:16.5983178+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:59:25.4984541+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:06:51.9707928+00:00"
 }

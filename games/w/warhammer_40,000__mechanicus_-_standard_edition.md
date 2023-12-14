@@ -13,7 +13,7 @@ Rating: 4.43 (Ranked 699)
 | Power Ranger | 9.00% | ~20,639 |
 | Taser Goad | 9.00% | ~20,639 |
 | Half a cog | 9.00% | ~20,639 |
-| Watch them crumble | 6.00% | ~13,759 |
+| Watch them crumble | 6.00% | ~13,760 |
 | Competent Cohort | 4.00% | ~9,173 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,173 |
 | One with the Machine | 4.00% | ~9,173 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 699)
 | Perma-live | 0.10% | ~229 |
 | Purge the Heretek | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,324 (Ranked 70)  
+Progressed: 229,325 (Ranked 70)  
 Completed: 5 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,10 +278,10 @@ Completed: 5 (0.00%) (Ranked 374)
 | 2023-12-11 | 229,164 | 5 |
 | 2023-12-12 | 229,245 | 5 |
 | 2023-12-13 | 229,316 | 5 |
-| 2023-12-14 | 229,324 | 5 |
+| 2023-12-14 | 229,325 | 5 |
 ## Awards
 Max (Highly Recommended): 291  (Ranked 258)  
-Sum: 2,210 (Ranked 206)  
+Sum: 2,211 (Ranked 206)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -292,7 +292,7 @@ Diff (max vs sum): 52
 | This game has Diverse Characters | 269 |
 | This game has Amazing Storytelling | 251 |
 | This game is Relaxing | 244 |
-| This game has Unique Visuals | 216 |
+| This game has Unique Visuals | 217 |
 | This game has a Creative Community | 101 |
 | This game is Great for Beginners | 63 |
 ## Ratings History
@@ -403,3 +403,4 @@ Diff (max vs sum): 52
 | 2023-12-09 | 4.43 | 291 | 2,207 |
 | 2023-12-10 | 4.43 | 291 | 2,209 |
 | 2023-12-13 | 4.43 | 291 | 2,210 |
+| 2023-12-14 | 4.43 | 291 | 2,211 |

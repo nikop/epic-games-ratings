@@ -4,8 +4,8 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128,
+  "EOS_Progressed": 129,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -629,6 +629,11 @@
       "Time": "2023-12-03T14:09:51.1873209+00:00",
       "NumProgressed": 128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T03:10:03.0337241+00:00",
+      "NumProgressed": 129,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -678,9 +683,9 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -718,9 +723,9 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -1055,13 +1060,13 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 128,
+      "Progressed": 129,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 117
     }
   ],
@@ -1069,8 +1074,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-12-14T02:31:58.0232993+00:00",
+  "LastChanged_Achievements": "2023-12-14T03:10:03.0337239+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:22.962757+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:21:46.047272+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:31:58.0233441+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:00:19.9421806+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:10:03.0337729+00:00"
 }

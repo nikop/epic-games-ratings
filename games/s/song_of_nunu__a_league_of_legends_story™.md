@@ -28,18 +28,18 @@ Rating: 4.57 (Ranked 482)
 | The Finisher | 43.00% | ~487 |
 | You Get Used To It | 42.00% | ~476 |
 | Family | 40.00% | ~453 |
+| Biggest Snowball Ever | 40.00% | ~453 |
 | True Legends | 40.00% | ~453 |
 | Boosted! | 40.00% | ~453 |
-| Biggest Snowball Ever | 39.00% | ~442 |
+| Deadliest and Biggest Snowball Ever! | 40.00% | ~453 |
 | Freeze The Ice Witch | 39.00% | ~442 |
-| Deadliest and Biggest Snowball Ever! | 39.00% | ~442 |
 | Bullseye | 37.00% | ~419 |
 | It Is Not Over | 36.00% | ~408 |
 | On The Rocks | 35.00% | ~397 |
 | Snowy Poro | 32.00% | ~363 |
 | Never Gets Old | 32.00% | ~363 |
 | Vertical Power | 28.00% | ~317 |
-| One From The Heart | 14.00% | ~159 |
+| One From The Heart | 15.00% | ~170 |
 | Yummy | 10.00% | ~113 |
 | Snowball Fightn't | 10.00% | ~113 |
 | It Was Him | 8.00% | ~91 |

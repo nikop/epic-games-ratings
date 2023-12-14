@@ -5,15 +5,15 @@ Rating: 4.56 (Ranked 498)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 1.00% | ~749 |
-| I've Had Enough! | 0.80% | ~599 |
-| Fists, Fury & a lot of Rage | 0.60% | ~449 |
-| Seasoned Fighter | 0.50% | ~374 |
-| All For One and One For All | 0.40% | ~299 |
+| All Grown Up! | 1.00% | ~750 |
+| I've Had Enough! | 0.90% | ~675 |
+| Fists, Fury & a lot of Rage | 0.60% | ~450 |
+| All For One and One For All | 0.50% | ~375 |
+| Seasoned Fighter | 0.50% | ~375 |
+| Home Sweet Home? | 0.40% | ~300 |
+| Symbiotic | 0.30% | ~225 |
 | A New Age | 0.30% | ~225 |
-| Home Sweet Home? | 0.30% | ~225 |
 | Oh Baby, A Triple | 0.20% | ~150 |
-| Symbiotic | 0.20% | ~150 |
 | Battle Hardened | 0.10% | ~75 |
 | Cautious Veteran | 0.10% | ~75 |
 | Double Punch! | 0.10% | ~75 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 498)
 | Apocalypse Mode | 0.00% | ~0 |
 | What's Mine is Yours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,869 (Ranked 101)  
+Progressed: 75,040 (Ranked 101)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 49,284 | 0 |
 | 2023-12-12 | 62,591 | 0 |
 | 2023-12-13 | 74,092 | 0 |
-| 2023-12-14 | 74,869 | 0 |
+| 2023-12-14 | 75,040 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 554)  
 Sum: 20 (Ranked 556)  

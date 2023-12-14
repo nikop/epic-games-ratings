@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8737,10 +8737,10 @@
       "Count": 3571
     }
   ],
-  "EOS_Progressed": 239890,
-  "EOS_Completed": 2519,
-  "EOS_NewPlayers": 1212,
-  "EOS_NewCompleters": 17,
+  "EOS_Progressed": 239906,
+  "EOS_Completed": 2520,
+  "EOS_NewPlayers": 1227,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -35507,6 +35507,11 @@
       "Time": "2023-12-14T02:32:04.2128539+00:00",
       "NumProgressed": 239890,
       "NumCompleted": 2519
+    },
+    {
+      "Time": "2023-12-14T03:10:08.7173312+00:00",
+      "NumProgressed": 239906,
+      "NumCompleted": 2520
     }
   ],
   "TotalAchievements": 546,
@@ -35580,9 +35585,9 @@
       "ID": "objective_completed_1046",
       "SetID": "415jc5c",
       "Name": "And Your Enemies Closer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1050",
@@ -35676,9 +35681,9 @@
       "ID": "objective_completed_1063",
       "SetID": "415jc5c",
       "Name": "Go Fourth",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1065",
@@ -35772,9 +35777,9 @@
       "ID": "objective_completed_1082",
       "SetID": "415jc5c",
       "Name": "The Birds",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1083",
@@ -35796,17 +35801,17 @@
       "ID": "objective_completed_1086",
       "SetID": "415jc5c",
       "Name": "First Third Out",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1087",
       "SetID": "415jc5c",
       "Name": "Second Third Out",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1088",
@@ -35836,9 +35841,9 @@
       "ID": "objective_completed_1091",
       "SetID": "415jc5c",
       "Name": "I\u0027m Sure I Saw It Move!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1092",
@@ -35868,9 +35873,9 @@
       "ID": "objective_completed_1096",
       "SetID": "415jc5c",
       "Name": "Zarak\u0027s Revenge",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1097",
@@ -36036,9 +36041,9 @@
       "ID": "objective_completed_1133",
       "SetID": "415jc5c",
       "Name": "All Damage, All The Time",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1134",
@@ -36092,9 +36097,9 @@
       "ID": "objective_completed_1143",
       "SetID": "415jc5c",
       "Name": "Pincushion Party",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1144",
@@ -36348,9 +36353,9 @@
       "ID": "objective_completed_1193",
       "SetID": "415jc5c",
       "Name": "The Sanctum of the Sword",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1194",
@@ -37836,9 +37841,9 @@
       "ID": "objective_completed_563",
       "SetID": "415jc5c",
       "Name": "Evergreens with an Evergreen",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_565",
@@ -38476,9 +38481,9 @@
       "ID": "objective_completed_666",
       "SetID": "415jc5c",
       "Name": "Show of Strength",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_667",
@@ -39806,7 +39811,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "objective_completed_1558",
@@ -39885,21 +39890,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 206164,
+      "Progressed": 206180,
       "Completed": 3968
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 239890,
-      "Completed": 2519
+      "Progressed": 239906,
+      "Completed": 2520
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-14T02:19:16.5415371+00:00",
-  "LastChanged_Achievements": "2023-12-14T02:32:04.2128535+00:00",
+  "LastChanged_Achievements": "2023-12-14T03:10:08.7173311+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:19:16.5415377+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:32:04.215144+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:57:46.4840308+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:10:08.719716+00:00"
 }

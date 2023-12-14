@@ -204,6 +204,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Punic Wars | 0.20% | ~32 |
 | Word of God | 0.20% | ~32 |
 | Role-Playing | 0.20% | ~32 |
+| Pilgrimage | 0.20% | ~32 |
 | Hypatia the Teacher | 0.20% | ~32 |
 | Kmt Golden Age | 0.20% | ~32 |
 | Glory to The Aten | 0.20% | ~32 |
@@ -306,7 +307,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Play-By-Cloud Game | 0.10% | ~16 |
 | Five Cults | 0.10% | ~16 |
 | The Mythical Beast | 0.10% | ~16 |
-| Pilgrimage | 0.10% | ~16 |
 | Patriarch St Paul | 0.10% | ~16 |
 | Only Kem | 0.10% | ~16 |
 | Sepat Wase Forever | 0.10% | ~16 |

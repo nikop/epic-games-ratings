@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 566,
+  "EOS_Progressed": 567,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1645,6 +1645,11 @@
       "Time": "2023-12-14T01:55:59.0643696+00:00",
       "NumProgressed": 566,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T03:09:23.328328+00:00",
+      "NumProgressed": 567,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1831,9 +1836,9 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 335
     },
     {
       "ID": "AchvReachCity",
@@ -1849,7 +1854,7 @@
       "Name": "The Condor",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "AchvSurvivors",
@@ -1857,7 +1862,7 @@
       "Name": "Survivors",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1888,14 +1893,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 566,
+      "Progressed": 567,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-14T02:31:17.8850579+00:00",
+  "LastChanged_Achievements": "2023-12-14T03:09:23.3283277+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.1415487+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:21:04.6379994+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:31:17.8850893+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:59:35.603264+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:09:23.3283576+00:00"
 }

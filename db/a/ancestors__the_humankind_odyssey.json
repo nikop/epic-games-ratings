@@ -4,11 +4,11 @@
   "ProductSlug": "ancestors",
   "Ranking_Rating": 453,
   "Ranking_Popularity": 453,
-  "Ranking_PopularitySum": 386,
+  "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2019-08-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -769,6 +769,6 @@
   "FirstSeen": "2022-07-22T20:21:27.180823+00:00",
   "LastChanged": "2023-11-23T08:02:43.8862839+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:33.426409+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:22:09.7727604+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:26:44.5224463+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:00:42.2189491+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:04:59.2325888+00:00"
 }

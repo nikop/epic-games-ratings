@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-08-04T15:00:00+00:00",
     "PcReleaseDate": "2022-08-04T15:00:00+00:00",
@@ -171,9 +171,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 74869,
+  "EOS_Progressed": 75040,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73670,
+  "EOS_NewPlayers": 73841,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -666,6 +666,11 @@
       "Time": "2023-12-14T02:27:41.8897212+00:00",
       "NumProgressed": 74869,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T03:05:56.9813939+00:00",
+      "NumProgressed": 75040,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -742,7 +747,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH_GROWNUP",
@@ -750,7 +755,7 @@
       "Name": "All Grown Up!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -772,9 +777,9 @@
       "ID": "ACH_KONGKRETE",
       "SetID": "3k5ibhn",
       "Name": "I\u0027ve Had Enough!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 675
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -828,9 +833,9 @@
       "ID": "ACH_PIPIJURAS_STORY",
       "SetID": "3k5ibhn",
       "Name": "All For One and One For All",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 375
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -846,7 +851,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -884,9 +889,9 @@
       "ID": "ACH_TAGTEAM",
       "SetID": "3k5ibhn",
       "Name": "Symbiotic",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_TASTE_YOUR_OWN_MEDICINE",
@@ -940,9 +945,9 @@
       "ID": "ACH_WOOLLEY_STORY",
       "SetID": "3k5ibhn",
       "Name": "Home Sweet Home?",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -957,7 +962,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 74869,
+      "Progressed": 75040,
       "Completed": 0
     }
   ],
@@ -965,8 +970,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2023-12-13T04:01:04.0140462+00:00",
-  "LastChanged_Achievements": "2023-12-14T02:27:41.8897208+00:00",
+  "LastChanged_Achievements": "2023-12-14T03:05:56.9813936+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:41.917793+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:24:41.9298605+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:27:41.8897441+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:00:53.7860827+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:05:56.9814144+00:00"
 }

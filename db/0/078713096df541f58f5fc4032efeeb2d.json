@@ -2,10 +2,10 @@
   "ID": "078713096df541f58f5fc4032efeeb2d",
   "Name": "Creepy Tale 3 - Ingrid Penance",
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
-  "Ranking_EOS_Progress": 562,
+  "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23,
+  "EOS_Progressed": 24,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -139,6 +139,11 @@
       "Time": "2023-12-13T18:04:21.4629738+00:00",
       "NumProgressed": 23,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T03:04:12.7040318+00:00",
+      "NumProgressed": 24,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:05:23.4224547+00:00",
@@ -165,7 +170,7 @@
       "ID": "creepytale3_ach_11",
       "SetID": "7idcjbn",
       "Name": "Dexterity",
-      "Percentage": 70,
+      "Percentage": 67,
       "XP": 30,
       "UsersEstimate": 16
     },
@@ -173,7 +178,7 @@
       "ID": "creepytale3_ach_12",
       "SetID": "7idcjbn",
       "Name": "Exchange of pleasantries",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -181,7 +186,7 @@
       "ID": "creepytale3_ach_14",
       "SetID": "7idcjbn",
       "Name": "Dinner is served!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -189,7 +194,7 @@
       "ID": "creepytale3_ach_15",
       "SetID": "7idcjbn",
       "Name": "Bathing time!",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -197,7 +202,7 @@
       "ID": "creepytale3_ach_17",
       "SetID": "7idcjbn",
       "Name": "Pain lover",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -213,7 +218,7 @@
       "ID": "creepytale3_ach_19",
       "SetID": "7idcjbn",
       "Name": "A deal, there is a deal.",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -237,7 +242,7 @@
       "ID": "creepytale3_ach_21",
       "SetID": "7idcjbn",
       "Name": "Larva",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -253,7 +258,7 @@
       "ID": "creepytale3_ach_23",
       "SetID": "7idcjbn",
       "Name": "Who wrote this stuff?",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -261,7 +266,7 @@
       "ID": "creepytale3_ach_24",
       "SetID": "7idcjbn",
       "Name": "Boring book!",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -301,7 +306,7 @@
       "ID": "creepytale3_ach_32",
       "SetID": "7idcjbn",
       "Name": "Classic",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -317,7 +322,7 @@
       "ID": "creepytale3_ach_34",
       "SetID": "7idcjbn",
       "Name": "Harvest",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -325,7 +330,7 @@
       "ID": "creepytale3_ach_35",
       "SetID": "7idcjbn",
       "Name": "Heartfelt conversations",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -357,7 +362,7 @@
       "ID": "creepytale3_ach_39",
       "SetID": "7idcjbn",
       "Name": "Picklock style",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -373,7 +378,7 @@
       "ID": "creepytale3_ach_5",
       "SetID": "7idcjbn",
       "Name": "Bloodthirsty",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 35,
       "UsersEstimate": 6
     },
@@ -397,7 +402,7 @@
       "ID": "creepytale3_ach_8",
       "SetID": "7idcjbn",
       "Name": "Save mission",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -414,14 +419,14 @@
     {
       "ID": "7idcjbn",
       "IsBase": true,
-      "Progressed": 23,
+      "Progressed": 24,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-14T02:25:58.0347661+00:00",
+  "LastChanged_Achievements": "2023-12-14T03:04:12.7040316+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.5738942+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:20:51.7351643+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:25:58.034788+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:59:22.9240617+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:04:12.7040696+00:00"
 }

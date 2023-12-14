@@ -707,9 +707,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 14120,
+  "EOS_Progressed": 14121,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -12207,6 +12207,11 @@
       "Time": "2023-12-14T02:27:22.4238632+00:00",
       "NumProgressed": 14120,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-14T03:05:37.65942+00:00",
+      "NumProgressed": 14121,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 35,
@@ -12218,7 +12223,7 @@
       "Name": "Under a New Sun",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 13132
+      "UsersEstimate": 13133
     },
     {
       "ID": "ACH_02",
@@ -12226,7 +12231,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 11155
+      "UsersEstimate": 11156
     },
     {
       "ID": "ACH_03",
@@ -12234,7 +12239,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 10449
+      "UsersEstimate": 10450
     },
     {
       "ID": "ACH_04",
@@ -12242,7 +12247,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 10025
+      "UsersEstimate": 10026
     },
     {
       "ID": "ACH_05",
@@ -12258,7 +12263,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 9319
+      "UsersEstimate": 9320
     },
     {
       "ID": "ACH_07",
@@ -12274,7 +12279,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 8754
+      "UsersEstimate": 8755
     },
     {
       "ID": "ACH_09",
@@ -12306,7 +12311,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 6636
+      "UsersEstimate": 6637
     },
     {
       "ID": "ACH_13",
@@ -12386,7 +12391,7 @@
       "Name": "Not a toy anymore",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "ACH_23",
@@ -12410,7 +12415,7 @@
       "Name": "Effective instruments",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 3106
+      "UsersEstimate": 3107
     },
     {
       "ID": "ACH_26",
@@ -12418,7 +12423,7 @@
       "Name": "Pocket laboratory",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "ACH_27",
@@ -12474,7 +12479,7 @@
       "Name": "Perfect throw",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 3106
+      "UsersEstimate": 3107
     },
     {
       "ID": "ACH_34",
@@ -12497,7 +12502,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 14120,
+      "Progressed": 14121,
       "Completed": 57
     }
   ],
@@ -12505,8 +12510,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-12-13T16:01:00.8437212+00:00",
-  "LastChanged_Achievements": "2023-12-14T02:27:22.4238629+00:00",
+  "LastChanged_Achievements": "2023-12-14T03:05:37.6594199+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:21.8341782+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:21:43.8999886+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:27:22.4239205+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:00:17.0591698+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:05:37.6594775+00:00"
 }

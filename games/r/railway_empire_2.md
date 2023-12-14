@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.42 (Ranked 718)  
+Rating: 4.42 (Ranked 719)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,8 +20,8 @@ Rating: 4.42 (Ranked 718)
 | Facility Manager | 54.00% | ~1,286 |
 | Poor Devil | 54.00% | ~1,286 |
 | Producer | 51.00% | ~1,214 |
+| Apprentice | 42.00% | ~1,000 |
 | Bridge Builder | 42.00% | ~1,000 |
-| Apprentice | 41.00% | ~976 |
 | Going once, going twice, sold | 36.00% | ~857 |
 | Access granted | 35.00% | ~833 |
 | Bull and bear | 34.00% | ~810 |

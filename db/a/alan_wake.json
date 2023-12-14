@@ -2,13 +2,13 @@
   "ID": "00b9ec358e1f46daa4f8e1194d5081d8",
   "Name": "Alan Wake",
   "ProductSlug": "alan-wake",
-  "Ranking_Rating": 498,
+  "Ranking_Rating": 516,
   "Ranking_Popularity": 562,
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2016-02-16T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.55,
   "NumberOfRatings": 419,
   "RatingHistory": [
     {
@@ -487,6 +487,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-14T02:59:29.659139+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -504,8 +510,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:21.5062168+00:00",
-  "LastChanged": "2023-12-13T02:59:10.67867+00:00",
+  "LastChanged": "2023-12-14T02:59:29.6591388+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:55.4236639+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:20:59.2288464+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:30:12.0766594+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:59:29.6591393+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:06:47.4180019+00:00"
 }

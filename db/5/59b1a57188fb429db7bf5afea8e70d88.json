@@ -2,10 +2,10 @@
   "ID": "59b1a57188fb429db7bf5afea8e70d88",
   "Name": "Dinobreak",
   "ProductSlug": "dinobreak-307b09",
-  "Ranking_EOS_Progress": 562,
+  "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-04T14:00:00+00:00",
     "PcReleaseDate": "2023-10-04T14:00:00+00:00",
@@ -176,9 +176,9 @@
       "ID": "DINO_CHOW_ACH",
       "SetID": "7jaf9il",
       "Name": "Dino Chow",
-      "Percentage": 35,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "DINO_HUNTER_ACH",
@@ -200,9 +200,9 @@
       "ID": "HERE_WE_GO_AGAIN_ACH",
       "SetID": "7jaf9il",
       "Name": "Here We Go Again",
-      "Percentage": 74,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "HEROIC_RESCUE_ACH",
@@ -280,9 +280,9 @@
       "ID": "SOMETHING_ISNT_RIGHT_ACH",
       "SetID": "7jaf9il",
       "Name": "Something Isn\u0027t Right",
-      "Percentage": 61,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SPEED_RUNNER_ACH",
@@ -296,9 +296,9 @@
       "ID": "TAPE_IT_BACK_TOGETHER_ACH",
       "SetID": "7jaf9il",
       "Name": "Tape It Back Together",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TEMPORARY_SHELTER_ACH",
@@ -351,8 +351,8 @@
   ],
   "FirstSeen": "2023-10-10T23:57:30.9159633+00:00",
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2023-12-14T02:26:53.849431+00:00",
+  "LastChanged_Achievements": "2023-12-14T03:05:08.6663963+00:00",
   "LastUpdate_AppInfo": "2023-12-14T01:44:00.8921286+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:25:02.7396918+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:26:53.8494465+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:03:14.2296337+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:05:08.6664103+00:00"
 }

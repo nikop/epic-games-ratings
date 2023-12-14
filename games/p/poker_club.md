@@ -5,24 +5,24 @@ Rating: 3.83 (Ranked 1,043)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~412,700 |
-| Handy | 42.00% | ~228,071 |
-| Cold Caller | 40.00% | ~217,210 |
-| A Bit On The Side | 27.00% | ~146,617 |
-| Backdoor | 25.00% | ~135,756 |
-| Rank Amateur | 22.00% | ~119,466 |
-| Three Way | 19.00% | ~103,175 |
-| Deadly Assassin | 16.00% | ~86,884 |
+| Pro Creation | 76.00% | ~412,704 |
+| Handy | 42.00% | ~228,073 |
+| Cold Caller | 40.00% | ~217,213 |
+| A Bit On The Side | 27.00% | ~146,619 |
+| Backdoor | 25.00% | ~135,758 |
+| Rank Amateur | 22.00% | ~119,467 |
+| Three Way | 19.00% | ~103,176 |
+| Deadly Assassin | 16.00% | ~86,885 |
 | Gutshot | 14.00% | ~76,024 |
 | Risk It For A Biscuit | 14.00% | ~76,024 |
-| Showoff | 13.00% | ~70,593 |
-| W.H.I.P. | 12.00% | ~65,163 |
+| Showoff | 13.00% | ~70,594 |
+| W.H.I.P. | 12.00% | ~65,164 |
 | Bet Bet Bet | 10.00% | ~54,303 |
-| Blindman's Bluff | 9.00% | ~48,872 |
-| Poker Joker | 9.00% | ~48,872 |
-| Never Give Up | 8.00% | ~43,442 |
-| The Bigger They Are | 8.00% | ~43,442 |
-| Total Knock Out | 8.00% | ~43,442 |
+| Blindman's Bluff | 9.00% | ~48,873 |
+| Poker Joker | 9.00% | ~48,873 |
+| Never Give Up | 8.00% | ~43,443 |
+| The Bigger They Are | 8.00% | ~43,443 |
+| Total Knock Out | 8.00% | ~43,443 |
 | Dog Eat Dog | 7.00% | ~38,012 |
 | Quack Quack | 7.00% | ~38,012 |
 | Give Your Regards To Broadway | 6.00% | ~32,582 |
@@ -51,7 +51,7 @@ Rating: 3.83 (Ranked 1,043)
 | Rounder | 0.10% | ~543 |
 | Top Dog | 0.10% | ~543 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 543,026 (Ranked 33)  
+Progressed: 543,032 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 2 (0.00%) (Ranked 374)
 | 2023-12-11 | 542,722 | 2 |
 | 2023-12-12 | 542,846 | 2 |
 | 2023-12-13 | 543,008 | 2 |
-| 2023-12-14 | 543,026 | 2 |
+| 2023-12-14 | 543,032 | 2 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 415)  
 Sum: 189 (Ranked 413)  

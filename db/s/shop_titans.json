@@ -7543,9 +7543,9 @@
       "Count": 3795
     }
   ],
-  "EOS_Progressed": 145139,
+  "EOS_Progressed": 145148,
   "EOS_Completed": 298,
-  "EOS_NewPlayers": 1076,
+  "EOS_NewPlayers": 1081,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -32323,6 +32323,11 @@
       "Time": "2023-12-14T02:26:04.9494123+00:00",
       "NumProgressed": 145139,
       "NumCompleted": 298
+    },
+    {
+      "Time": "2023-12-14T03:04:19.5314515+00:00",
+      "NumProgressed": 145148,
+      "NumCompleted": 298
     }
   ],
   "TotalAchievements": 112,
@@ -32502,7 +32507,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11611
+      "UsersEstimate": 11612
     },
     {
       "ID": "chest02",
@@ -33150,7 +33155,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11611
+      "UsersEstimate": 11612
     },
     {
       "ID": "twinenchant01",
@@ -33229,15 +33234,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 145139,
+      "Progressed": 145148,
       "Completed": 298
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-14T01:50:00.1597878+00:00",
-  "LastChanged_Achievements": "2023-12-14T02:26:04.9494118+00:00",
+  "LastChanged_Achievements": "2023-12-14T03:04:19.5314512+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2420411+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:25:11.9146354+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:26:04.9496371+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:03:23.7708068+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:04:19.5317399+00:00"
 }

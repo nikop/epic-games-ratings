@@ -2,10 +2,10 @@
   "ID": "0407f287e7574d88b7c00895f14628d8",
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
-  "Ranking_EOS_Progress": 594,
+  "Ranking_EOS_Progress": 595,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -119,9 +119,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 35,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "dl2",
@@ -191,9 +191,9 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 35,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "g2",
@@ -207,9 +207,9 @@
       "ID": "g3",
       "SetID": "b1ggf28",
       "Name": "Handcart",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "j1",
@@ -399,9 +399,9 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 53,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "w2",
@@ -501,8 +501,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-14T02:25:32.5156886+00:00",
+  "LastChanged_Achievements": "2023-12-14T03:03:46.2356145+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:24:51.1891967+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:25:32.5157285+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:03:02.3972951+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:03:46.235641+00:00"
 }

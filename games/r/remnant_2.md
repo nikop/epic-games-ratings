@@ -6,23 +6,23 @@ Rating: 4.75 (Ranked 148)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.90% | ~2,157 |
-| First of Many | 0.80% | ~1,917 |
+| First of Many | 0.80% | ~1,918 |
 | Regicide | 0.80% | ~151 |
 | Master of the Dark Arts | 0.80% | ~151 |
 | Expanding Horizons | 0.60% | ~1,438 |
 | Not Your Average Trait | 0.60% | ~1,438 |
-| Am I Seeing This? | 0.50% | ~1,198 |
-| Gleaming the Cube | 0.50% | ~1,198 |
-| Not So Special Now | 0.50% | ~1,198 |
-| Quest for Survival | 0.50% | ~1,198 |
-| Not a Janitor | 0.50% | ~1,198 |
-| Familiar Face | 0.50% | ~1,198 |
-| Duality | 0.50% | ~1,198 |
-| Top Performer | 0.50% | ~1,198 |
-| Boss'n Up | 0.50% | ~1,198 |
-| Almost There | 0.50% | ~1,198 |
-| Good, But Could Be Better! | 0.50% | ~1,198 |
-| Trait Chaser | 0.50% | ~1,198 |
+| Am I Seeing This? | 0.50% | ~1,199 |
+| Gleaming the Cube | 0.50% | ~1,199 |
+| Not So Special Now | 0.50% | ~1,199 |
+| Quest for Survival | 0.50% | ~1,199 |
+| Not a Janitor | 0.50% | ~1,199 |
+| Familiar Face | 0.50% | ~1,199 |
+| Duality | 0.50% | ~1,199 |
+| Top Performer | 0.50% | ~1,199 |
+| Boss'n Up | 0.50% | ~1,199 |
+| Almost There | 0.50% | ~1,199 |
+| Good, But Could Be Better! | 0.50% | ~1,199 |
+| Trait Chaser | 0.50% | ~1,199 |
 | Chaos | 0.40% | ~959 |
 | Traitor | 0.40% | ~959 |
 | Forever is a Long Time Coming | 0.40% | ~959 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | You Shall Pass | 0.20% | ~38 |
 | A Foul Feast | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,679 (Ranked 66)  
+Progressed: 239,704 (Ranked 66)  
 Completed: 584 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 584 (0.24%) (Ranked 252)
 | 2023-12-11 | 238,673 | 579 |
 | 2023-12-12 | 239,053 | 581 |
 | 2023-12-13 | 239,544 | 584 |
-| 2023-12-14 | 239,679 | 584 |
+| 2023-12-14 | 239,704 | 584 |
 ## Awards
 Max (Great Boss Battles): 2,741  (Ranked 102)  
 Sum: 6,871 (Ranked 126)  

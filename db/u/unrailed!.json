@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2873,9 +2873,9 @@
       "Count": 150
     }
   ],
-  "EOS_Progressed": 669826,
+  "EOS_Progressed": 669830,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1869,
+  "EOS_NewPlayers": 1872,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30063,6 +30063,11 @@
       "Time": "2023-12-14T02:31:55.7960794+00:00",
       "NumProgressed": 669826,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-14T03:10:00.7137222+00:00",
+      "NumProgressed": 669830,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -30082,7 +30087,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 80379
+      "UsersEstimate": 80380
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -30122,7 +30127,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 87077
+      "UsersEstimate": 87078
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -30394,7 +30399,7 @@
       "Name": "Climate Change",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 107172
+      "UsersEstimate": 107173
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -30489,15 +30494,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 669826,
+      "Progressed": 669830,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-12-13T14:59:17.4448444+00:00",
-  "LastChanged_Achievements": "2023-12-14T02:31:55.7960791+00:00",
+  "LastChanged_Achievements": "2023-12-14T03:10:00.7137219+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.2669458+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:21:03.9057892+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:31:55.7962138+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:59:34.5061408+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:10:00.7138886+00:00"
 }

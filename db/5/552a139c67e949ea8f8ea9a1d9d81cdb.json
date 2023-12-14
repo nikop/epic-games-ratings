@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1323,
+  "EOS_Progressed": 1324,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3072,6 +3072,11 @@
       "Time": "2023-12-14T01:50:55.7971809+00:00",
       "NumProgressed": 1323,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T03:04:22.4302022+00:00",
+      "NumProgressed": 1324,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3084,7 +3089,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3146,9 +3151,9 @@
       "ID": "ML_ACHIEVEMENT_09",
       "SetID": "5k00jcd",
       "Name": "Masterful!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 79
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -3164,7 +3169,7 @@
       "Name": "It\u0027s me you have to beat",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -3226,9 +3231,9 @@
       "ID": "ML_ACHIEVEMENT_19",
       "SetID": "5k00jcd",
       "Name": "Well begun\u2026",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 530
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -3324,7 +3329,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -3340,7 +3345,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -3364,7 +3369,7 @@
       "Name": "Perfectionist",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -3427,20 +3432,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1323,
+      "Progressed": 1324,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 991,
-      "Completed": 991
+      "Progressed": 992,
+      "Completed": 992
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-14T02:26:07.8723805+00:00",
-  "LastUpdate_AppInfo": "2023-12-07T02:57:05.8729105+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:18:57.3959137+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:26:07.87242+00:00"
+  "LastChanged_Achievements": "2023-12-14T03:04:22.430202+00:00",
+  "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
+  "LastUpdate_Ratings": "2023-12-14T02:57:25.7258952+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:04:22.4302548+00:00"
 }

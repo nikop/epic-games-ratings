@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -19955,9 +19955,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_PILGRIMAGE",
       "SetID": "9201eeb",
       "Name": "Pilgrimage",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_POET_LEADER",
@@ -20377,8 +20377,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-11T20:02:33.8046701+00:00",
-  "LastChanged_Achievements": "2023-12-14T02:31:04.7237742+00:00",
+  "LastChanged_Achievements": "2023-12-14T03:09:10.359114+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:32.9927843+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:24:58.3750224+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:31:04.7246994+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:03:09.6385647+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:09:10.3600273+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -534,9 +534,9 @@
       "ID": "UpUpAndAway",
       "SetID": "4bd750m",
       "Name": "Up, Up And Away!",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Whoa",
@@ -565,8 +565,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-14T02:26:48.8899379+00:00",
+  "LastChanged_Achievements": "2023-12-14T03:05:03.5479289+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:13.5200104+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:25:13.3494784+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:26:48.8899516+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:03:25.1745175+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:05:03.547946+00:00"
 }

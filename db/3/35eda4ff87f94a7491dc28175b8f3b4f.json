@@ -5,10 +5,10 @@
   "Ranking_Rating": 833,
   "Ranking_Popularity": 562,
   "Ranking_PopularitySum": 562,
-  "Ranking_EOS_Progress": 157,
+  "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14411,
+  "EOS_Progressed": 14418,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1798,
+  "EOS_NewPlayers": 1799,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -4271,6 +4271,11 @@
       "Time": "2023-12-14T02:26:00.1139337+00:00",
       "NumProgressed": 14411,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-14T03:04:14.5612597+00:00",
+      "NumProgressed": 14418,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -4283,7 +4288,7 @@
       "Name": "Avid Reader",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "BEAM_ME_UP_SCOTTY_1_7",
@@ -4299,7 +4304,7 @@
       "Name": "Good Listener",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "MORBIDLY_CURIOUS_1_8",
@@ -4315,7 +4320,7 @@
       "Name": "Savior",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -4331,7 +4336,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -4362,7 +4367,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 14411,
+      "Progressed": 14418,
       "Completed": 53
     }
   ],
@@ -4370,8 +4375,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-12T14:00:02.3951365+00:00",
-  "LastChanged_Achievements": "2023-12-14T02:26:00.1139333+00:00",
+  "LastChanged_Achievements": "2023-12-14T03:04:14.5612595+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:57.9778302+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:21:39.5172466+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:26:00.1139611+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:00:12.3120757+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:04:14.5612838+00:00"
 }

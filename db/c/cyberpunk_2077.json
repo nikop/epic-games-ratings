@@ -16604,7 +16604,7 @@
       "Count": 15506
     }
   ],
-  "EOS_Progressed": 975561,
+  "EOS_Progressed": 975571,
   "EOS_Completed": 2900,
   "EOS_NewPlayers": 4149,
   "EOS_NewCompleters": 52,
@@ -43664,6 +43664,11 @@
       "Time": "2023-12-14T02:28:21.0217407+00:00",
       "NumProgressed": 975561,
       "NumCompleted": 2900
+    },
+    {
+      "Time": "2023-12-14T03:06:37.2032625+00:00",
+      "NumProgressed": 975571,
+      "NumCompleted": 2900
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -43700,7 +43705,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39022
+      "UsersEstimate": 39023
     },
     {
       "ID": "Denied",
@@ -43748,7 +43753,7 @@
       "Name": "Gun Fu",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68289
+      "UsersEstimate": 68290
     },
     {
       "ID": "Gunslinger",
@@ -43852,7 +43857,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39022
+      "UsersEstimate": 39023
     },
     {
       "ID": "Specialist",
@@ -43860,7 +43865,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7804
+      "UsersEstimate": 7805
     },
     {
       "ID": "Temperance",
@@ -43916,7 +43921,7 @@
       "Name": "The Lovers",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48778
+      "UsersEstimate": 48779
     },
     {
       "ID": "TheStar",
@@ -43932,7 +43937,7 @@
       "Name": "The Sun",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7804
+      "UsersEstimate": 7805
     },
     {
       "ID": "TheWheelOfFortune",
@@ -43940,7 +43945,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39022
+      "UsersEstimate": 39023
     },
     {
       "ID": "TheWorld",
@@ -43972,7 +43977,7 @@
       "Name": "True Soldier",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 39022
+      "UsersEstimate": 39023
     },
     {
       "ID": "TrueWarrior",
@@ -44004,7 +44009,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117067
+      "UsersEstimate": 117069
     },
     {
       "ID": "YipMan",
@@ -44132,7 +44137,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4167
+      "UsersEstimate": 4168
     },
     {
       "ID": "HydraIsDead",
@@ -44196,7 +44201,7 @@
       "Name": "Dirty Deeds",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "EasyComeEasyGo",
@@ -44211,21 +44216,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 975561,
+      "Progressed": 975571,
       "Completed": 2900
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 104184,
-      "Completed": 10362
+      "Progressed": 104194,
+      "Completed": 10363
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-14T01:49:54.5007945+00:00",
-  "LastChanged_Achievements": "2023-12-14T02:28:21.0217404+00:00",
+  "LastChanged_Achievements": "2023-12-14T03:06:37.2032621+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:22.348953+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:25:06.1354027+00:00",
-  "LastUpdate_Achievements": "2023-12-14T02:28:21.021923+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:03:17.6275966+00:00",
+  "LastUpdate_Achievements": "2023-12-14T03:06:37.2034365+00:00"
 }
