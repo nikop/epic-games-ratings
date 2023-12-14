@@ -3,8 +3,8 @@
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 354,
-  "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_Completed": 157,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 328,
+  "EOS_Progressed": 329,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
@@ -716,6 +716,11 @@
       "Time": "2023-12-14T16:09:55.0471592+00:00",
       "NumProgressed": 328,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-14T17:09:35.7922405+00:00",
+      "NumProgressed": 329,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 19,
@@ -767,7 +772,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ryan_date2_all",
@@ -829,9 +834,9 @@
       "ID": "success_jake",
       "SetID": "6h5h9ho",
       "Name": "The nice guy",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 43
+      "UsersEstimate": 39
     },
     {
       "ID": "success_kathleen",
@@ -839,7 +844,7 @@
       "Name": "The intellectual",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "success_lucas",
@@ -855,7 +860,7 @@
       "Name": "The athlete",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "success_ty",
@@ -878,7 +883,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 328,
+      "Progressed": 329,
       "Completed": 4
     }
   ],
@@ -886,8 +891,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:09:55.0471589+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:09:35.7922398+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:57.5745757+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:57:09.2487254+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:09:55.0471741+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:57:35.0218474+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:09:35.7922562+00:00"
 }

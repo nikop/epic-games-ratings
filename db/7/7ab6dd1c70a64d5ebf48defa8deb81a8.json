@@ -4,8 +4,8 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 339,
+  "EOS_Progressed": 343,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.88,
+  "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -1180,6 +1180,11 @@
       "Time": "2023-12-14T16:10:43.682945+00:00",
       "NumProgressed": 339,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T17:10:10.6398519+00:00",
+      "NumProgressed": 343,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1189,9 +1194,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_02",
@@ -1237,9 +1242,9 @@
       "ID": "ACH_07",
       "SetID": "efe2lj",
       "Name": "Clear Sight",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_08",
@@ -1255,7 +1260,7 @@
       "Name": "The Mentor",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_10",
@@ -1311,7 +1316,7 @@
       "Name": "Essence Blow",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_17",
@@ -1389,9 +1394,9 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_27",
@@ -1405,9 +1410,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_29",
@@ -1478,14 +1483,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 339,
+      "Progressed": 343,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:10:43.6829447+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:10:10.6398514+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:58:13.4600162+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:10:43.6829705+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:58:17.8195919+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:10:10.6398844+00:00"
 }

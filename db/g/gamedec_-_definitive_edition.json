@@ -495,9 +495,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 254616,
+  "EOS_Progressed": 254618,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27120,6 +27120,11 @@
       "Time": "2023-12-14T16:05:56.4182063+00:00",
       "NumProgressed": 254616,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-14T17:05:29.0470966+00:00",
+      "NumProgressed": 254618,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -27131,7 +27136,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 68746
+      "UsersEstimate": 68747
     },
     {
       "ID": "ACH_AON",
@@ -27203,7 +27208,7 @@
       "Name": "Hoarder",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7638
+      "UsersEstimate": 7639
     },
     {
       "ID": "ACH_HERCULESBEPROUD",
@@ -27211,7 +27216,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22915
+      "UsersEstimate": 22916
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -27251,7 +27256,7 @@
       "Name": "I like to sniff around",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7638
+      "UsersEstimate": 7639
     },
     {
       "ID": "ACH_IRONDEC",
@@ -27427,7 +27432,7 @@
       "Name": "Mind reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7638
+      "UsersEstimate": 7639
     },
     {
       "ID": "ACH_NOSTRINGS",
@@ -27546,7 +27551,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 254616,
+      "Progressed": 254618,
       "Completed": 7
     }
   ],
@@ -27554,8 +27559,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-30T10:59:11.8312964+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:05:56.418206+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:05:29.0470963+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:18.8009639+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:02:59.0902707+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:05:56.4183364+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:03:06.103844+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:05:29.0472988+00:00"
 }

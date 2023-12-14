@@ -6,9 +6,9 @@
   "Ranking_Popularity": 563,
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 197,
-  "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4368,
+  "EOS_Progressed": 4369,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1667,6 +1667,11 @@
       "Time": "2023-12-14T13:16:51.1937816+00:00",
       "NumProgressed": 4368,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-14T17:10:16.4605841+00:00",
+      "NumProgressed": 4369,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -1910,7 +1915,7 @@
       "Name": "Builder I",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACHIEVEMENT_POPULATION2",
@@ -1950,7 +1955,7 @@
       "Name": "An honorable Governor I",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACHIEVEMENT_PRESTIGE2",
@@ -2006,7 +2011,7 @@
       "Name": "Full-time job I",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACHIEVEMENT_REPAIR2",
@@ -2038,7 +2043,7 @@
       "Name": "Researcher",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED3",
@@ -2334,7 +2339,7 @@
       "Name": "Tax-man II",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACHIEVEMENT_TAXES3",
@@ -2428,9 +2433,9 @@
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION01",
       "SetID": "9eacipp",
       "Name": "A new beginning",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 568
+      "UsersEstimate": 524
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
@@ -2438,7 +2443,7 @@
       "Name": "Friends from the past",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION03",
@@ -2446,7 +2451,7 @@
       "Name": "Time for some trade",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION04",
@@ -2485,15 +2490,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4368,
+      "Progressed": 4369,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-04T22:59:34.0965429+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:10:50.9998666+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:10:16.4605835+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:57.9071019+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:58:23.1201484+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:10:50.9999651+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:58:24.3149214+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:10:16.4606846+00:00"
 }

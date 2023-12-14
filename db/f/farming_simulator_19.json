@@ -2,12 +2,12 @@
   "ID": "493e9ad801e8487497fe7840cb8404bb",
   "Name": "Farming Simulator 19",
   "ProductSlug": "farming-simulator-19",
-  "Ranking_Rating": 232,
+  "Ranking_Rating": 233,
   "Ranking_Popularity": 47,
   "Ranking_PopularitySum": 26,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 485,
+  "Ranking_EOS_NewPlayers": 489,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-07-20T16:00:00+00:00",
@@ -11718,6 +11718,6 @@
   "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
   "LastChanged": "2023-12-14T10:01:15.9529658+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.290902+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:01:09.7079882+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:08:55.7766378+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:00:13.3922044+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:08:53.6925942+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 35,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -413,9 +413,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 328740,
+  "EOS_Progressed": 328764,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3469,
+  "EOS_NewPlayers": 3473,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9593,6 +9593,11 @@
       "Time": "2023-12-14T16:08:14.5136325+00:00",
       "NumProgressed": 328740,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-14T17:08:25.1946077+00:00",
+      "NumProgressed": 328764,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9605,7 +9610,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9862
+      "UsersEstimate": 9863
     },
     {
       "ID": "S02_BRDA",
@@ -9629,7 +9634,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "S05_SWRA",
@@ -9741,7 +9746,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9862
+      "UsersEstimate": 9863
     },
     {
       "ID": "S19_CHALLENGES",
@@ -9813,7 +9818,7 @@
       "Name": "Their fate is sealed",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "S28_CTHB",
@@ -9821,7 +9826,7 @@
       "Name": "Not even from this world",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "S29_RECOVER",
@@ -9901,7 +9906,7 @@
       "Name": "Chaos be damned!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "S39_END_RAPTURE",
@@ -9917,14 +9922,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3287
+      "UsersEstimate": 3288
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 328740,
+      "Progressed": 328764,
       "Completed": 5
     }
   ],
@@ -9932,8 +9937,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-13T03:57:02.1052572+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:08:14.513632+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:08:25.1946072+00:00",
   "LastUpdate_AppInfo": "2023-12-07T20:57:05.8241643+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:58:07.4621843+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:08:14.5137086+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:58:13.8520541+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:08:25.1946798+00:00"
 }

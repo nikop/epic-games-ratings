@@ -6,29 +6,29 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~872 |
-| My little farm | 64.00% | ~689 |
-| Every beginning is difficult | 63.00% | ~678 |
-| Gofer | 57.00% | ~613 |
-| 3, 2, 1, mine | 55.00% | ~592 |
-| O Captain! My Captain! | 55.00% | ~592 |
-| Seafarer | 51.00% | ~549 |
-| Greed for gold | 43.00% | ~463 |
-| Intangible | 42.00% | ~452 |
-| I'm out of here for a while | 42.00% | ~452 |
-| In a mint condition | 38.00% | ~409 |
-| Licence to Kill | 37.00% | ~398 |
+| Cabin boy | 81.00% | ~873 |
+| My little farm | 64.00% | ~690 |
+| Every beginning is difficult | 63.00% | ~679 |
+| Gofer | 57.00% | ~614 |
+| 3, 2, 1, mine | 55.00% | ~593 |
+| O Captain! My Captain! | 55.00% | ~593 |
+| Seafarer | 51.00% | ~550 |
+| Greed for gold | 43.00% | ~464 |
+| Intangible | 42.00% | ~453 |
+| I'm out of here for a while | 42.00% | ~453 |
+| In a mint condition | 38.00% | ~410 |
+| Licence to Kill | 37.00% | ~399 |
 | Pirates! | 35.00% | ~377 |
-| Collectionitis | 29.00% | ~312 |
-| Megalomania | 29.00% | ~312 |
-| Christening | 28.00% | ~301 |
+| Collectionitis | 29.00% | ~313 |
+| Megalomania | 29.00% | ~313 |
+| Christening | 28.00% | ~302 |
 | Groundskeeper | 26.00% | ~280 |
 | Walk the plank | 22.00% | ~237 |
 | Wholesale | 22.00% | ~237 |
 | Pearly gates | 18.00% | ~194 |
 | My precious! | 18.00% | ~194 |
 | Conquistador | 14.00% | ~151 |
-| Panic buying | 11.00% | ~118 |
+| Panic buying | 11.00% | ~119 |
 | Your vessel, my vessel | 10.00% | ~108 |
 | Just a scratch | 9.00% | ~97 |
 | All mine! | 9.00% | ~97 |
@@ -57,8 +57,8 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.70% | ~8 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,076 (Ranked 268)  
-Completed: 1 (0.09%) (Ranked 302)  
+Progressed: 1,078 (Ranked 268)  
+Completed: 1 (0.09%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -262,7 +262,7 @@ Completed: 1 (0.09%) (Ranked 302)
 | 2023-12-11 | 1,070 | 1 |
 | 2023-12-12 | 1,072 | 1 |
 | 2023-12-13 | 1,073 | 1 |
-| 2023-12-14 | 1,076 | 1 |
+| 2023-12-14 | 1,078 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

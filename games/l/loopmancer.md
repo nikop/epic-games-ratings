@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Black Cat's Warning | 108.00% | ~109 |
-| Break no Sweat | 102.00% | ~103 |
+| Break no Sweat | 103.00% | ~104 |
 | Every little bit counts | 100.00% | ~101 |
 | Growth | 85.00% | ~86 |
 | Targeting the Enemy | 68.00% | ~69 |

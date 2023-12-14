@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1857,9 +1857,9 @@
       "ID": "ach_tripleKill",
       "SetID": "cmg602e",
       "Name": "Triple Kill",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 217
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -2049,9 +2049,9 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 180
     },
     {
       "ID": "ach_x_peastol_healing_done",
@@ -2152,8 +2152,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:07:07.887144+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:06:18.7766851+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:14.0226849+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:00:54.0038178+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:07:07.8872173+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:00:03.0910428+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:06:18.776758+00:00"
 }

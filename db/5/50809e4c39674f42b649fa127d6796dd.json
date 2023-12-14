@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -1264,9 +1264,9 @@
       "ID": "FIRST_FISHING_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "Big Encounter",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 109
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -1304,9 +1304,9 @@
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 209
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1519,8 +1519,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:04:20.7031309+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:04:22.1107976+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:06.567221+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:03:11.3003956+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:04:20.7031637+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:03:14.4759223+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:04:22.1108292+00:00"
 }

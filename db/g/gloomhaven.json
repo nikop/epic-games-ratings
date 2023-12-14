@@ -2651,9 +2651,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 26263,
+  "EOS_Progressed": 26265,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1202,
+  "EOS_NewPlayers": 1197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12981,6 +12981,11 @@
       "Time": "2023-12-14T16:09:34.9895045+00:00",
       "NumProgressed": 26263,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T17:09:21.3600452+00:00",
+      "NumProgressed": 26265,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -13169,7 +13174,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3939
+      "UsersEstimate": 3940
     },
     {
       "ID": "Achievement_Trophy24",
@@ -13177,7 +13182,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10768
+      "UsersEstimate": 10769
     },
     {
       "ID": "Achievement_Trophy25",
@@ -13193,7 +13198,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8929
+      "UsersEstimate": 8930
     },
     {
       "ID": "Achievement_Trophy27",
@@ -13225,7 +13230,7 @@
       "Name": "Spread the plague",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7616
+      "UsersEstimate": 7617
     },
     {
       "ID": "Achievement_Trophy31",
@@ -13377,7 +13382,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3939
+      "UsersEstimate": 3940
     },
     {
       "ID": "Achievement_Trophy50",
@@ -13480,7 +13485,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 26263,
+      "Progressed": 26265,
       "Completed": 1
     }
   ],
@@ -13488,8 +13493,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-14T07:03:15.1510005+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:09:34.9895043+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:09:21.3600443+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:42.7229324+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:57:02.4974576+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:09:34.9895835+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:57:30.5165378+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:09:21.3601741+00:00"
 }

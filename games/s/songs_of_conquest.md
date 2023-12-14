@@ -1,16 +1,16 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.69 (Ranked 232)  
+Rating: 4.69 (Ranked 233)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 38.00% | ~174 |
-| Double Kill | 29.00% | ~133 |
-| Critical Hit | 17.00% | ~78 |
-| Veteran | 16.00% | ~73 |
-| Dressed For Success | 11.00% | ~50 |
+| Adept | 38.00% | ~176 |
+| Double Kill | 29.00% | ~134 |
+| Critical Hit | 17.00% | ~79 |
+| Veteran | 16.00% | ~74 |
+| Dressed For Success | 11.00% | ~51 |
 | Humiliation | 8.00% | ~37 |
 | Sorcerous Spree | 7.00% | ~32 |
 | Veni, Vidi, Vici | 6.00% | ~28 |
@@ -32,8 +32,8 @@ Number of Ratings: 292  (23.09.2022)
 | Grand Master | 1.00% | ~5 |
 | Get Over Here! | 0.90% | ~4 |
 | Ultra Kill | 0.90% | ~4 |
-| Unlimited Power! | 0.70% | ~3 |
-| Together For Her | 0.70% | ~3 |
+| Unlimited Power! | 0.60% | ~3 |
+| Together For Her | 0.60% | ~3 |
 | Death To Diplomacy | 0.40% | ~2 |
 | Coming Through! | 0.40% | ~2 |
 | Barbecue | 0.40% | ~2 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459 (Ranked 323)  
+Progressed: 462 (Ranked 323)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 421 | 0 |
 | 2023-12-12 | 434 | 0 |
 | 2023-12-13 | 447 | 0 |
-| 2023-12-14 | 459 | 0 |
+| 2023-12-14 | 462 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 518)  
 Sum: 194 (Ranked 409)  

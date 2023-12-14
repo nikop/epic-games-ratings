@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
     "PcReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -215,11 +215,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2617,
+  "EOS_Progressed": 2618,
   "EOS_Completed": 187,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 7.15,
+  "EOS_Completed_Percentage": 7.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.2661107+00:00",
@@ -3815,6 +3815,11 @@
       "Time": "2023-12-14T16:06:44.4022503+00:00",
       "NumProgressed": 2617,
       "NumCompleted": 187
+    },
+    {
+      "Time": "2023-12-14T17:06:02.741552+00:00",
+      "NumProgressed": 2618,
+      "NumCompleted": 187
     }
   ],
   "TotalAchievements": 12,
@@ -3858,7 +3863,7 @@
       "Name": "005",
       "Percentage": 14,
       "XP": 80,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "006",
@@ -3921,7 +3926,7 @@
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2617,
+      "Progressed": 2618,
       "Completed": 187
     }
   ],
@@ -3929,8 +3934,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-11-28T11:59:38.0602265+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:06:44.4022499+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:06:02.7415516+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.1690917+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:00:54.6634968+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:06:44.4022789+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:00:03.5491759+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:06:02.7415825+00:00"
 }

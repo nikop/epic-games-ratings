@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
@@ -305,9 +305,9 @@
       "ID": "ACH_03_MODEL",
       "SetID": "9loam6m",
       "Name": "Model",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_04_NIGHT_BENEATH_STARS",
@@ -481,9 +481,9 @@
       "ID": "ACH_25_BALLOON_GAME",
       "SetID": "9loam6m",
       "Name": "Balloon game",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_26_BALLOON_PARTY",
@@ -545,9 +545,9 @@
       "ID": "ACH_33_LOVELY_VIEW",
       "SetID": "9loam6m",
       "Name": "Lovely view",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_34_HAZELWOOD",
@@ -632,8 +632,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:08:24.7306889+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:08:32.4559465+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:17.0329934+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:59:38.8502695+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:08:24.7307168+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:59:12.783147+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:08:32.4559707+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 226,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -773,8 +773,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:04:14.9125558+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:04:18.1368649+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:59.4034255+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:00:35.7902391+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:04:14.9125801+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:59:50.7822841+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:04:18.1368816+00:00"
 }

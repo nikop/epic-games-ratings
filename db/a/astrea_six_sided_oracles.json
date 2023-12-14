@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -592,9 +592,9 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AnomalyMaster",
@@ -672,9 +672,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "AstralSeeker",
@@ -816,9 +816,9 @@
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -944,9 +944,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1080,17 +1080,17 @@
       "ID": "StarKiller",
       "SetID": "1jeo1g7",
       "Name": "Star Killer",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "StellarDismantler",
       "SetID": "1jeo1g7",
       "Name": "Stellar Dismantler",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "StellarHaste",
@@ -1320,9 +1320,9 @@
       "ID": "LacertianChampion",
       "SetID": "1jeo1g7",
       "Name": "Lacertian Champion",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "LacertianHero",
@@ -1344,9 +1344,9 @@
       "ID": "NoctuanChampion",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Champion",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "NoctuanHero",
@@ -1375,8 +1375,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:07:25.9907172+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:06:31.5854087+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.3287789+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:58:49.5195764+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:07:25.9908042+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:58:41.5067862+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:06:31.5854867+00:00"
 }

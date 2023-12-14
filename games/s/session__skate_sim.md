@@ -1,18 +1,18 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.69 (Ranked 232)  
+Rating: 4.69 (Ranked 233)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,915 |
+| You're free now! | 61.00% | ~1,917 |
 | Keeping it classy | 29.00% | ~911 |
 | Welcome to the family | 22.00% | ~691 |
-| The finer things in life | 20.00% | ~628 |
+| The finer things in life | 20.00% | ~629 |
 | Backpacker | 15.00% | ~471 |
 | Go with the Flow | 14.00% | ~440 |
-| The flip trick crown jewel | 11.00% | ~345 |
+| The flip trick crown jewel | 11.00% | ~346 |
 | Keep the dream alive | 10.00% | ~314 |
 | Plastic Surgeon | 10.00% | ~314 |
 | The hard way | 10.00% | ~314 |
@@ -25,14 +25,14 @@ Number of Ratings: 111  (23.09.2022)
 | Tight lipslides | 8.00% | ~251 |
 | Fulfilled the dream | 7.00% | ~220 |
 | G'Day Mate! | 7.00% | ~220 |
-| Commence the Hijinx! | 6.00% | ~188 |
-| DIY Boss | 6.00% | ~188 |
-| Globetrotter | 6.00% | ~188 |
-| Laid back | 6.00% | ~188 |
-| NAHELL! | 6.00% | ~188 |
-| Purple passion | 6.00% | ~188 |
-| Squad goals | 6.00% | ~188 |
-| Sup widdit big dog! | 6.00% | ~188 |
+| Commence the Hijinx! | 6.00% | ~189 |
+| DIY Boss | 6.00% | ~189 |
+| Globetrotter | 6.00% | ~189 |
+| Laid back | 6.00% | ~189 |
+| NAHELL! | 6.00% | ~189 |
+| Purple passion | 6.00% | ~189 |
+| Squad goals | 6.00% | ~189 |
+| Sup widdit big dog! | 6.00% | ~189 |
 | Cops called! | 5.00% | ~157 |
 | Lines for days | 5.00% | ~157 |
 | Manny Destroys All | 5.00% | ~157 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,140 (Ranked 214)  
+Progressed: 3,143 (Ranked 214)  
 Completed: 2 (0.06%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 2 (0.06%) (Ranked 316)
 | 2023-12-11 | 3,112 | 2 |
 | 2023-12-12 | 3,114 | 2 |
 | 2023-12-13 | 3,118 | 2 |
-| 2023-12-14 | 3,140 | 2 |
+| 2023-12-14 | 3,143 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 420)  
 Sum: 563 (Ranked 320)  

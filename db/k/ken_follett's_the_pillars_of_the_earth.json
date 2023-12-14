@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -564,9 +564,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 17029,
+  "EOS_Progressed": 17030,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -16074,6 +16074,11 @@
       "Time": "2023-12-14T15:05:52.0017288+00:00",
       "NumProgressed": 17029,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-14T17:06:27.0933552+00:00",
+      "NumProgressed": 17030,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16109,7 +16114,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "tpote_achievement_13",
@@ -16117,7 +16122,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "tpote_achievement_14",
@@ -16189,7 +16194,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 4938
+      "UsersEstimate": 4939
     },
     {
       "ID": "tpote_achievement_22",
@@ -16245,7 +16250,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     },
     {
       "ID": "tpote_achievement_29",
@@ -16325,7 +16330,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "tpote_achievement_38",
@@ -16412,15 +16417,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17029,
+      "Progressed": 17030,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-13T16:01:07.6767372+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:07:19.7803775+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:06:27.0933544+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:23.5508408+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:01:43.9902465+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:07:19.7804816+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:00:36.7318524+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:06:27.0934319+00:00"
 }

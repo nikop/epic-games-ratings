@@ -73,7 +73,7 @@
   "Tags": [],
   "EOS_Progressed": 1219,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3111,9 +3111,9 @@
       "ID": "ACH_CAR_WASH_01",
       "SetID": "5fn8ia4",
       "Name": "Restored the Car Wash",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 597
+      "UsersEstimate": 610
     },
     {
       "ID": "ACH_CAR_WASH_02",
@@ -3503,9 +3503,9 @@
       "ID": "GSS_ACH_41_PARTY_BUS",
       "SetID": "5fn8ia4",
       "Name": "Party Bus",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 805
+      "UsersEstimate": 817
     },
     {
       "ID": "GSS_ACH_42_CARAVAN_01",
@@ -3848,8 +3848,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:04:29.8404993+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:04:28.2460582+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:02:36.477552+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:04:29.8405959+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:02:51.0940992+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:04:28.2461694+00:00"
 }

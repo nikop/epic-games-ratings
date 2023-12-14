@@ -2,9 +2,9 @@
   "ID": "97e89a0da1004cdfb0661afb798fc495",
   "Name": "Stone Guardian",
   "ProductSlug": "stone-guardian-81fcc1",
-  "Ranking_EOS_Progress": 694,
+  "Ranking_EOS_Progress": 679,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 485,
+  "Ranking_EOS_NewPlayers": 434,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-12-07T08:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37,6 +37,11 @@
       "Time": "2023-12-07T13:09:34.9552607+00:00",
       "NumProgressed": 2,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T17:04:36.6463634+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T19:03:44.7323973+00:00",
@@ -47,7 +52,7 @@
       "ID": "01_Sailor",
       "SetID": "dm5l9m1",
       "Name": "Sailor",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -55,7 +60,7 @@
       "ID": "02_MusicianHelper",
       "SetID": "dm5l9m1",
       "Name": "Musician helper",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -63,7 +68,7 @@
       "ID": "03_CarCrasher",
       "SetID": "dm5l9m1",
       "Name": "Car crasher",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -71,7 +76,7 @@
       "ID": "04_FlowerPicker",
       "SetID": "dm5l9m1",
       "Name": "Flower picker",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -79,7 +84,7 @@
       "ID": "05_LandExplorer",
       "SetID": "dm5l9m1",
       "Name": "Land explorer",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -87,7 +92,7 @@
       "ID": "06_FlightMaster",
       "SetID": "dm5l9m1",
       "Name": "Flight master",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -95,7 +100,7 @@
       "ID": "07_SnowRider",
       "SetID": "dm5l9m1",
       "Name": "Snow rider",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -103,7 +108,7 @@
       "ID": "08_MazeRunner",
       "SetID": "dm5l9m1",
       "Name": "Maze runner",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -111,7 +116,7 @@
       "ID": "09_Courier",
       "SetID": "dm5l9m1",
       "Name": "Courier",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -119,7 +124,7 @@
       "ID": "10_MooseTamer",
       "SetID": "dm5l9m1",
       "Name": "Moose tamer",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -127,7 +132,7 @@
       "ID": "11_DragonMaster",
       "SetID": "dm5l9m1",
       "Name": "Dragon master",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -135,7 +140,7 @@
       "ID": "12_TrapMaster",
       "SetID": "dm5l9m1",
       "Name": "Trap master",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -143,7 +148,7 @@
       "ID": "13_OnDuty",
       "SetID": "dm5l9m1",
       "Name": "On duty",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -151,7 +156,7 @@
       "ID": "14_StoneGuardian",
       "SetID": "dm5l9m1",
       "Name": "The Stone Guardian",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -159,7 +164,7 @@
       "ID": "15_StoneCollector",
       "SetID": "dm5l9m1",
       "Name": "Stone collector",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -167,7 +172,7 @@
       "ID": "16_TheSkilledOne",
       "SetID": "dm5l9m1",
       "Name": "The skilled one",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 200,
       "UsersEstimate": 1
     }
@@ -176,13 +181,13 @@
     {
       "ID": "dm5l9m1",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-05T19:03:44.7323973+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:04:42.1118449+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:04:36.646363+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:05.9698106+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:58:26.686968+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:04:42.111853+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:58:26.7280156+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:04:36.6463727+00:00"
 }

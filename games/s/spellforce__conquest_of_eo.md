@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Enough rooms to swing a cat | 91.00% | ~41 |
-| Home Sweet Home | 91.00% | ~41 |
-| First to the post | 89.00% | ~40 |
-| A kind of Magic | 84.00% | ~38 |
-| Connected | 78.00% | ~35 |
-| Expansion | 76.00% | ~34 |
-| Harvest Time | 69.00% | ~31 |
-| Mine! | 67.00% | ~30 |
-| Artificer's Apprentice | 64.00% | ~29 |
-| Get out of here! | 56.00% | ~25 |
-| Fly the friendly Sky | 53.00% | ~24 |
-| Necromancer's Apprentice | 51.00% | ~23 |
-| The Circle | 47.00% | ~21 |
-| Alchemist's Apprentice | 47.00% | ~21 |
-| Friend of Lyraine | 47.00% | ~21 |
-| Redecorating | 40.00% | ~18 |
-| Slave to the rhythm | 29.00% | ~13 |
-| Bad JuJu | 29.00% | ~13 |
-| Friend of Sevenkeeps | 27.00% | ~12 |
+| Enough rooms to swing a cat | 89.00% | ~41 |
+| Home Sweet Home | 89.00% | ~41 |
+| First to the post | 87.00% | ~40 |
+| A kind of Magic | 83.00% | ~38 |
+| Connected | 76.00% | ~35 |
+| Expansion | 74.00% | ~34 |
+| Harvest Time | 67.00% | ~31 |
+| Mine! | 65.00% | ~30 |
+| Artificer's Apprentice | 63.00% | ~29 |
+| Get out of here! | 54.00% | ~25 |
+| Fly the friendly Sky | 52.00% | ~24 |
+| Necromancer's Apprentice | 50.00% | ~23 |
+| The Circle | 46.00% | ~21 |
+| Alchemist's Apprentice | 46.00% | ~21 |
+| Friend of Lyraine | 46.00% | ~21 |
+| Redecorating | 39.00% | ~18 |
+| Slave to the rhythm | 28.00% | ~13 |
+| Bad JuJu | 28.00% | ~13 |
+| Friend of Sevenkeeps | 26.00% | ~12 |
 | Castle Meldec | 22.00% | ~10 |
 | Sevenkeeps Seat of Kings | 22.00% | ~10 |
 | Friend of Gillyshire | 20.00% | ~9 |
 | Friend of Connach | 20.00% | ~9 |
-| Friend of Alluvyan | 18.00% | ~8 |
-| Friend of Bastion | 18.00% | ~8 |
-| Break Free | 18.00% | ~8 |
-| Philo's Tale | 16.00% | ~7 |
-| Stormwatch Faste | 16.00% | ~7 |
-| Friend of Orgash | 16.00% | ~7 |
+| Friend of Alluvyan | 17.00% | ~8 |
+| Friend of Bastion | 17.00% | ~8 |
+| Break Free | 17.00% | ~8 |
+| Philo's Tale | 15.00% | ~7 |
+| Stormwatch Faste | 15.00% | ~7 |
+| Friend of Orgash | 15.00% | ~7 |
 | Defeat Gor | 13.00% | ~6 |
 | The Forge of Regan Gor | 13.00% | ~6 |
 | Friend of Silver Drift Hollow | 13.00% | ~6 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45 (Ranked 522)  
+Progressed: 46 (Ranked 519)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-06 | 41 | 0 |
 | 2023-12-10 | 42 | 0 |
 | 2023-12-13 | 43 | 0 |
-| 2023-12-14 | 45 | 0 |
+| 2023-12-14 | 46 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

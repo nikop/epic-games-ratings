@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9610,10 +9610,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20395,
       "NumberOfAwardsMax": 7689
+    },
+    {
+      "Time": "2023-12-14T17:00:13.8205862+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20408,
+      "NumberOfAwardsMax": 7689
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20395,
+  "NumberOfAwards": 20408,
   "NumberOfAwardsMax": 7689,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9633,7 +9639,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1506
+      "Count": 1519
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9690,9 +9696,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126985,
+  "EOS_Progressed": 127003,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1234,
+  "EOS_NewPlayers": 1245,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35000,6 +35006,11 @@
       "Time": "2023-12-14T16:09:27.3451935+00:00",
       "NumProgressed": 126985,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T17:09:15.8878206+00:00",
+      "NumProgressed": 127003,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35049,9 +35060,9 @@
       "ID": "altar_of_hope_unlock_hero_hellion",
       "SetID": "64l4lke",
       "Name": "Unleash Hell",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 762
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -35465,9 +35476,9 @@
       "ID": "run_victory_act01",
       "SetID": "64l4lke",
       "Name": "Unshackled",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 635
+      "UsersEstimate": 762
     },
     {
       "ID": "run_victory_act02",
@@ -35547,7 +35558,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "combat_kill_collector",
@@ -35642,21 +35653,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126985,
+      "Progressed": 127003,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1854,
+      "Progressed": 1872,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-14T13:06:19.2097812+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:09:27.3451933+00:00",
+  "LastChanged": "2023-12-14T17:00:13.820586+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:09:15.8878199+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:01:10.4604621+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:09:27.3453637+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:00:13.8205865+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:09:15.8879679+00:00"
 }

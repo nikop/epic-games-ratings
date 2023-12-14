@@ -2,9 +2,9 @@
   "ID": "bf3261d8abc64fdfb73c3f9c4f7870e0",
   "Name": "Ash of Gods: Redemption",
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
-  "Ranking_EOS_Progress": 596,
+  "Ranking_EOS_Progress": 589,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17,
+  "EOS_Progressed": 18,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -99,6 +99,11 @@
       "Time": "2023-12-14T15:08:56.724872+00:00",
       "NumProgressed": 17,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T17:09:08.2536417+00:00",
+      "NumProgressed": 18,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-11T10:03:42.0552866+00:00",
@@ -165,7 +170,7 @@
       "ID": "achievement_berserk",
       "SetID": "bngbnfb",
       "Name": "Berserker",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -317,7 +322,7 @@
       "ID": "achievement_last_word",
       "SetID": "bngbnfb",
       "Name": "The last word",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -349,7 +354,7 @@
       "ID": "achievement_meet_vay",
       "SetID": "bngbnfb",
       "Name": "The monk",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -373,7 +378,7 @@
       "ID": "achievement_not_energetic",
       "SetID": "bngbnfb",
       "Name": "Not energetic",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -381,7 +386,7 @@
       "ID": "achievement_not_risky",
       "SetID": "bngbnfb",
       "Name": "Not a daredevil",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -510,14 +515,14 @@
     {
       "ID": "bngbnfb",
       "IsBase": true,
-      "Progressed": 17,
+      "Progressed": 18,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:09:16.5985138+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:09:08.2536411+00:00",
   "LastUpdate_AppInfo": "2023-12-13T14:57:06.6138532+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:59:09.6456119+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:09:16.5985487+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:58:54.5584688+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:09:08.2536732+00:00"
 }

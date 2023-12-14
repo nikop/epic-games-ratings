@@ -2,12 +2,12 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 232,
+  "Ranking_Rating": 233,
   "Ranking_Popularity": 420,
   "Ranking_PopularitySum": 320,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1261,9 +1261,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 3140,
+  "EOS_Progressed": 3143,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6096,6 +6096,11 @@
       "Time": "2023-12-14T16:04:12.9200368+00:00",
       "NumProgressed": 3140,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-14T17:04:16.6915685+00:00",
+      "NumProgressed": 3143,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -6131,7 +6136,7 @@
       "Name": "Commence the Hijinx!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_COPS-CALLED",
@@ -6163,7 +6168,7 @@
       "Name": "DIY Boss",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_FASHIONISTA",
@@ -6203,7 +6208,7 @@
       "Name": "Globetrotter",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_GO-WITH-THE-FLOW",
@@ -6267,7 +6272,7 @@
       "Name": "Laid back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_LINES-FOR-DAYS",
@@ -6307,7 +6312,7 @@
       "Name": "NAHELL!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_PEW-PEW",
@@ -6339,7 +6344,7 @@
       "Name": "Purple passion",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_RENAISSANCE-MAN",
@@ -6363,7 +6368,7 @@
       "Name": "Squad goals",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_SUP-WIDDIT-BIG-DOG",
@@ -6371,7 +6376,7 @@
       "Name": "Sup widdit big dog!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_TANK-COMMANDER",
@@ -6411,7 +6416,7 @@
       "Name": "The finer things in life",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -6419,7 +6424,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -6483,22 +6488,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1917
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3140,
+      "Progressed": 3143,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-14T04:59:46.4781556+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:04:12.9200364+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:04:16.691568+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:24.2282938+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:00:05.8863481+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:04:12.920095+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:59:31.7489981+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:04:16.6916318+00:00"
 }

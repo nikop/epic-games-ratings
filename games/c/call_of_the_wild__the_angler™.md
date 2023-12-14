@@ -6,32 +6,32 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 6.00% | ~412 |
+| Fish Just Got Reel | 6.00% | ~413 |
 | Hey Good Hookin | 5.00% | ~344 |
 | More Fish in the Sea | 5.00% | ~344 |
 | Scaling up | 5.00% | ~344 |
 | Can you smell what the Rod is Hooking | 4.00% | ~275 |
 | I'm on a Boat! | 4.00% | ~275 |
 | Ready to Rod and Roll | 3.00% | ~206 |
-| Fish Out of Water | 3.00% | ~206 |
 | Things that go Splash in the Night | 3.00% | ~206 |
-| License to Gill | 2.00% | ~137 |
-| Goldfish? | 2.00% | ~137 |
-| Going for Gold | 2.00% | ~137 |
-| School's Out for Summer | 2.00% | ~137 |
+| Fish Out of Water | 2.00% | ~138 |
+| License to Gill | 2.00% | ~138 |
+| Goldfish? | 2.00% | ~138 |
+| Going for Gold | 2.00% | ~138 |
+| School's Out for Summer | 2.00% | ~138 |
 | I'm Hooked! | 1.00% | ~69 |
 | I'm the Captain Now | 0.60% | ~41 |
 | Marathon | 0.60% | ~41 |
 | Diamond in the Rough | 0.60% | ~41 |
 | Hook, Line and Sinker | 0.50% | ~34 |
-| More than a Tourist | 0.40% | ~27 |
-| No Fin left to give | 0.40% | ~27 |
+| More than a Tourist | 0.40% | ~28 |
+| No Fin left to give | 0.40% | ~28 |
 | Gonna Need a Bigger Boat | 0.30% | ~21 |
 | Aguas Claras Conquistador | 0.30% | ~19 |
 | Big Fish Small Pond | 0.20% | ~14 |
-| Live by the Rod, Diez by the Rod! | 0.20% | ~12 |
-| All Good Kings Must Come to an End | 0.20% | ~12 |
-| Three Square Meals | 0.20% | ~12 |
+| Live by the Rod, Diez by the Rod! | 0.20% | ~13 |
+| All Good Kings Must Come to an End | 0.20% | ~13 |
+| Three Square Meals | 0.20% | ~13 |
 | Head for Heights | 0.10% | ~7 |
 | The Beetles | 0.10% | ~7 |
 | Lake Me up Before You Go Go | 0.10% | ~7 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,870 (Ranked 184)  
+Progressed: 6,881 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 6,766 | 0 |
 | 2023-12-12 | 6,776 | 0 |
 | 2023-12-13 | 6,783 | 0 |
-| 2023-12-14 | 6,870 | 0 |
+| 2023-12-14 | 6,881 | 0 |
 ## Awards
 Max (Relaxing): 38  (Ranked 469)  
 Sum: 201 (Ranked 403)  

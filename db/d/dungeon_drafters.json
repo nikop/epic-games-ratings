@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -513,9 +513,9 @@
       "ID": "GL_complete",
       "SetID": "3b8n56h",
       "Name": "The Apprentice",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "InnkeeperQuestlineFirst",
@@ -529,9 +529,9 @@
       "ID": "InnkeeperQuestlineLast",
       "SetID": "3b8n56h",
       "Name": "Braving Miasma",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "InnkeeperQuestlineThird",
@@ -834,8 +834,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:06:25.3667116+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:05:49.5227614+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.046054+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:00:27.6963331+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:06:25.3667358+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:59:45.5659262+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:05:49.5227954+00:00"
 }

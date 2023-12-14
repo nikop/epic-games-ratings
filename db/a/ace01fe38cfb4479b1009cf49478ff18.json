@@ -2,9 +2,9 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 397,
+  "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199,
+  "EOS_Progressed": 202,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -879,6 +879,11 @@
       "Time": "2023-12-14T16:05:03.2738638+00:00",
       "NumProgressed": 199,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T17:04:51.225495+00:00",
+      "NumProgressed": 202,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -897,9 +902,9 @@
       "ID": "ach_chapter_complete_2",
       "SetID": "d499apg",
       "Name": "Chapter II - Complete",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -921,9 +926,9 @@
       "ID": "ach_complete_difficulty_extreme",
       "SetID": "d499apg",
       "Name": "Exterminatus",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 175,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_complete_difficulty_hard",
@@ -945,25 +950,25 @@
       "ID": "ach_defeat_great_unclean_one",
       "SetID": "d499apg",
       "Name": "Defeat a Great Unclean One",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 45,
-      "UsersEstimate": 56
+      "UsersEstimate": 55
     },
     {
       "ID": "ach_find_all_secrets_c1",
       "SetID": "d499apg",
       "Name": "Find all Secrets - Chapter 1",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 95,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_find_all_secrets_c2",
@@ -986,14 +991,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 199,
+      "Progressed": 202,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:05:03.2738633+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:04:51.2254941+00:00",
   "LastUpdate_AppInfo": "2023-12-08T13:57:10.1011387+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:58:39.4599884+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:05:03.2738839+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:58:35.0427114+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:04:51.2255127+00:00"
 }

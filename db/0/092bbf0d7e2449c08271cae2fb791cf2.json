@@ -2,9 +2,9 @@
   "ID": "092bbf0d7e2449c08271cae2fb791cf2",
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
-  "Ranking_EOS_Progress": 499,
+  "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 63,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -259,6 +259,11 @@
       "Time": "2023-12-14T16:08:41.6296244+00:00",
       "NumProgressed": 60,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T17:08:44.3047955+00:00",
+      "NumProgressed": 63,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -277,9 +282,9 @@
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 145,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "ach3",
@@ -293,15 +298,15 @@
       "ID": "ach4",
       "SetID": "796kfpa",
       "Name": "Three Caps",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 140,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach5",
       "SetID": "796kfpa",
       "Name": "Cloudbuster",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 140,
       "UsersEstimate": 4
     },
@@ -326,14 +331,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 63,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:08:41.6296241+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:08:44.304795+00:00",
   "LastUpdate_AppInfo": "2023-12-13T18:57:12.2683005+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:01:16.95564+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:08:41.6296305+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:00:18.1006233+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:08:44.3048073+00:00"
 }

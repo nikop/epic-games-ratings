@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 60.00% | ~218 |
+| In the Black | 60.00% | ~219 |
 | Starting Skyward | 54.00% | ~197 |
-| Grime is Not Good | 48.00% | ~175 |
-| Floor Galore | 41.00% | ~149 |
-| Dinner Dash | 41.00% | ~149 |
+| Grime is Not Good | 47.00% | ~172 |
+| Floor Galore | 41.00% | ~150 |
+| Dinner Dash | 41.00% | ~150 |
 | Campaign Launch | 40.00% | ~146 |
-| Need a Consult | 38.00% | ~138 |
+| Need a Consult | 38.00% | ~139 |
 | It's Technical | 37.00% | ~135 |
 | Upgrade Unlock | 36.00% | ~131 |
 | Delegate Maintenance | 34.00% | ~124 |
-| Proper Walls | 32.00% | ~116 |
-| Destination Destiny | 32.00% | ~116 |
+| Proper Walls | 32.00% | ~117 |
+| Destination Destiny | 32.00% | ~117 |
 | Happy Tenants | 26.00% | ~95 |
 | Potent Potables | 26.00% | ~95 |
-| Smooth Service | 26.00% | ~95 |
-| Your Prestige is Rising | 24.00% | ~87 |
-| Retail Revenue | 24.00% | ~87 |
+| Smooth Service | 25.00% | ~91 |
+| Your Prestige is Rising | 24.00% | ~88 |
+| Retail Revenue | 24.00% | ~88 |
 | Don't Feel a Loan | 23.00% | ~84 |
 | People Mover | 22.00% | ~80 |
-| Lux Living | 21.00% | ~76 |
-| Artfully Done | 21.00% | ~76 |
-| Leveled Up Shops | 21.00% | ~76 |
+| Lux Living | 21.00% | ~77 |
+| Artfully Done | 21.00% | ~77 |
+| Leveled Up Shops | 21.00% | ~77 |
 | Emporium Empire | 20.00% | ~73 |
 | Get Electrified | 20.00% | ~73 |
 | Rehab Expert | 19.00% | ~69 |
@@ -48,12 +48,12 @@
 | Phoning It In | 9.00% | ~33 |
 | First 100 Days | 8.00% | ~29 |
 | Water Features | 8.00% | ~29 |
-| Careful Constructor | 7.00% | ~25 |
-| Meet Me at HQ | 7.00% | ~25 |
-| Maximum Reuse | 7.00% | ~25 |
-| Revenue Royalty | 7.00% | ~25 |
-| Golden Opportunity | 7.00% | ~25 |
-| Pipe Up | 7.00% | ~25 |
+| Careful Constructor | 7.00% | ~26 |
+| Meet Me at HQ | 7.00% | ~26 |
+| Maximum Reuse | 7.00% | ~26 |
+| Revenue Royalty | 7.00% | ~26 |
+| Golden Opportunity | 7.00% | ~26 |
+| Pipe Up | 7.00% | ~26 |
 | I'm Busy Ruling | 6.00% | ~22 |
 | Profound Proceeds | 6.00% | ~22 |
 | Tuned In | 6.00% | ~22 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 364 (Ranked 342)  
+Progressed: 365 (Ranked 342)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-11-30 | 356 | 0 |
 | 2023-12-03 | 357 | 0 |
 | 2023-12-13 | 360 | 0 |
-| 2023-12-14 | 364 | 0 |
+| 2023-12-14 | 365 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "974d75969ed043489745f61eb0a25baf",
   "Name": "SteamWorld Build",
   "ProductSlug": "steamworld-build-71ee6c",
-  "Ranking_EOS_Progress": 460,
+  "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -367,9 +367,9 @@
       "ID": "Aristocratic",
       "SetID": "4bd750m",
       "Name": "Aristocratic",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Botropolis",
@@ -423,9 +423,9 @@
       "ID": "GottaGoFast",
       "SetID": "4bd750m",
       "Name": "Gotta Go Fast",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ImALumberbot",
@@ -447,9 +447,9 @@
       "ID": "ItsYoursMyFriend",
       "SetID": "4bd750m",
       "Name": "It\u0027s Yours, My Friend",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ManicMechanic",
@@ -590,8 +590,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:05:57.1694136+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:05:29.5697408+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:13.5200104+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:03:21.0174332+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:05:57.1694318+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:03:40.210924+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:05:29.5697565+00:00"
 }

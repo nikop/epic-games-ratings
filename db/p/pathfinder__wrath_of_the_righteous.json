@@ -4565,9 +4565,9 @@
       "Count": 400
     }
   ],
-  "EOS_Progressed": 12320,
+  "EOS_Progressed": 12322,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16835,6 +16835,11 @@
       "Time": "2023-12-14T15:09:53.7310974+00:00",
       "NumProgressed": 12320,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T17:10:05.0532663+00:00",
+      "NumProgressed": 12322,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -16846,7 +16851,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3326
+      "UsersEstimate": 3327
     },
     {
       "ID": "02_BurningCity",
@@ -16878,7 +16883,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -16902,7 +16907,7 @@
       "Name": "Path of the Angel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "09_PathOfDemon",
@@ -17046,7 +17051,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "28_GreatUpstart",
@@ -17094,7 +17099,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -17238,7 +17243,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -17773,21 +17778,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11102,
+      "Progressed": 11104,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12320,
+      "Progressed": 12322,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-14T11:59:03.9871765+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:10:36.5478162+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:10:05.0532659+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:58:45.6108899+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:10:36.5479751+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:58:39.1906682+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:10:05.0534317+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -1346,9 +1346,9 @@
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 102
     },
     {
       "ID": "Remake_010",
@@ -1378,9 +1378,9 @@
       "ID": "Remake_13",
       "SetID": "5pi96jj",
       "Name": "Toasted",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 67
     },
     {
       "ID": "Remake_14",
@@ -1465,8 +1465,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:03:56.0605716+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:04:04.3798871+00:00",
   "LastUpdate_AppInfo": "2023-12-11T23:56:59.5421023+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:00:03.3257012+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:03:56.0607818+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:59:29.9880151+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:04:04.3799251+00:00"
 }

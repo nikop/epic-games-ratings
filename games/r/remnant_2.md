@@ -5,37 +5,37 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 2.00% | ~4,832 |
-| First of Many | 1.00% | ~2,416 |
-| Not Your Average Trait | 0.80% | ~1,933 |
-| Regicide | 0.80% | ~166 |
-| Master of the Dark Arts | 0.80% | ~166 |
-| Expanding Horizons | 0.70% | ~1,691 |
+| The Killing Jar | 2.00% | ~4,835 |
+| First of Many | 1.00% | ~2,417 |
+| Not Your Average Trait | 0.90% | ~2,176 |
+| Regicide | 0.80% | ~167 |
+| Master of the Dark Arts | 0.80% | ~167 |
+| Expanding Horizons | 0.70% | ~1,692 |
 | Gleaming the Cube | 0.60% | ~1,450 |
 | Quest for Survival | 0.60% | ~1,450 |
 | Not a Janitor | 0.60% | ~1,450 |
 | Familiar Face | 0.60% | ~1,450 |
 | Boss'n Up | 0.60% | ~1,450 |
-| Am I Seeing This? | 0.50% | ~1,208 |
-| Not So Special Now | 0.50% | ~1,208 |
-| Equal Measures | 0.50% | ~1,208 |
-| Blue Goddess | 0.50% | ~1,208 |
-| Duality | 0.50% | ~1,208 |
-| Top Performer | 0.50% | ~1,208 |
-| Almost There | 0.50% | ~1,208 |
-| Make Some Room | 0.50% | ~1,208 |
-| Good, But Could Be Better! | 0.50% | ~1,208 |
-| Trait Chaser | 0.50% | ~1,208 |
-| Chaos | 0.40% | ~966 |
-| Traitor | 0.40% | ~966 |
-| Forever is a Long Time Coming | 0.40% | ~966 |
-| Power Surge | 0.40% | ~966 |
-| The God Gambit | 0.40% | ~966 |
-| Dark Designs | 0.40% | ~966 |
-| Shhh...It's a Secret | 0.40% | ~966 |
-| Was This Supposed To Happen? | 0.40% | ~966 |
-| Scrap Collector | 0.40% | ~966 |
-| All These Traits� | 0.40% | ~966 |
+| Trait Chaser | 0.60% | ~1,450 |
+| Am I Seeing This? | 0.50% | ~1,209 |
+| Not So Special Now | 0.50% | ~1,209 |
+| Equal Measures | 0.50% | ~1,209 |
+| Blue Goddess | 0.50% | ~1,209 |
+| Duality | 0.50% | ~1,209 |
+| Top Performer | 0.50% | ~1,209 |
+| Almost There | 0.50% | ~1,209 |
+| Make Some Room | 0.50% | ~1,209 |
+| Good, But Could Be Better! | 0.50% | ~1,209 |
+| Chaos | 0.40% | ~967 |
+| Traitor | 0.40% | ~967 |
+| Forever is a Long Time Coming | 0.40% | ~967 |
+| Power Surge | 0.40% | ~967 |
+| The God Gambit | 0.40% | ~967 |
+| Dark Designs | 0.40% | ~967 |
+| Shhh...It's a Secret | 0.40% | ~967 |
+| Was This Supposed To Happen? | 0.40% | ~967 |
+| Scrap Collector | 0.40% | ~967 |
+| All These Traits� | 0.40% | ~967 |
 | Ghost in the Machine | 0.30% | ~725 |
 | Madman's Paradise | 0.30% | ~725 |
 | The Agenda | 0.30% | ~725 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 150)
 | You Shall Pass | 0.20% | ~42 |
 | A Foul Feast | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,611 (Ranked 64)  
+Progressed: 241,734 (Ranked 64)  
 Completed: 584 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 584 (0.24%) (Ranked 252)
 | 2023-12-11 | 238,673 | 579 |
 | 2023-12-12 | 239,053 | 581 |
 | 2023-12-13 | 239,544 | 584 |
-| 2023-12-14 | 241,611 | 584 |
+| 2023-12-14 | 241,734 | 584 |
 ## Awards
 Max (Great Boss Battles): 2,741  (Ranked 102)  
 Sum: 6,889 (Ranked 126)  

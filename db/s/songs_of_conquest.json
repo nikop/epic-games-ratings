@@ -2,12 +2,12 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 232,
+  "Ranking_Rating": 233,
   "Ranking_Popularity": 518,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 459,
+  "EOS_Progressed": 462,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1953,6 +1953,11 @@
       "Time": "2023-12-14T16:08:36.5537253+00:00",
       "NumProgressed": 459,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T17:08:40.8221482+00:00",
+      "NumProgressed": 462,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1989,7 +1994,7 @@
       "Name": "Dressed For Success",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "AttackCount",
@@ -2043,7 +2048,7 @@
       "ID": "ChainLightningKills",
       "SetID": "71c0n9i",
       "Name": "Unlimited Power!",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -2069,7 +2074,7 @@
       "Name": "Critical Hit",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Deepstrike",
@@ -2109,7 +2114,7 @@
       "Name": "Double Kill",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2155,7 +2160,7 @@
       "ID": "LothCampaign",
       "SetID": "71c0n9i",
       "Name": "Together For Her",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -2293,7 +2298,7 @@
       "Name": "Adept",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 176
     },
     {
       "ID": "WielderLevel2",
@@ -2301,7 +2306,7 @@
       "Name": "Veteran",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "WielderLevel3",
@@ -2396,15 +2401,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 459,
+      "Progressed": 462,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:08:36.5537248+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:08:40.8221476+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:59:25.040837+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:08:36.5537695+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:59:04.1054738+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:08:40.8221887+00:00"
 }

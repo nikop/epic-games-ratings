@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 5.00% | ~93 |
+| Malpractice Assurance | 5.00% | ~94 |
 | This guy... again? | 3.00% | ~56 |
 | Lost and Found | 3.00% | ~56 |
 | This Belongs in a Museum | 2.00% | ~2,540 |
@@ -37,14 +37,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 0.70% | ~889 |
 | Worldly Traveller | 0.70% | ~889 |
 | Road Trip | 0.70% | ~889 |
+| Unleash Hell | 0.60% | ~762 |
 | Unfulfilled Desires | 0.60% | ~762 |
 | Predator | 0.60% | ~762 |
 | Now Stay Dead | 0.60% | ~762 |
 | Reverse Banditry | 0.60% | ~762 |
 | Spelunker | 0.60% | ~762 |
 | Ramble On | 0.60% | ~762 |
+| Unshackled | 0.60% | ~762 |
 | Resurrection | 0.50% | ~635 |
-| Unleash Hell | 0.50% | ~635 |
 | Funny Guy | 0.50% | ~635 |
 | Long Live the King | 0.50% | ~635 |
 | Wyrdly Reconstructed | 0.50% | ~635 |
@@ -53,7 +54,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 0.50% | ~635 |
 | When You Want Something Done Right | 0.50% | ~635 |
 | Utopia | 0.50% | ~635 |
-| Unshackled | 0.50% | ~635 |
 | Hope Rekindled | 0.40% | ~508 |
 | No More Mouths to Feed | 0.40% | ~508 |
 | Hot Air | 0.40% | ~508 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,985 (Ranked 84)  
+Progressed: 127,003 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,17 +314,17 @@ Completed: 3 (0.00%) (Ranked 374)
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
-| 2023-12-14 | 126,985 | 3 |
+| 2023-12-14 | 127,003 | 3 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 51)  
-Sum: 20,395 (Ranked 59)  
+Sum: 20,408 (Ranked 59)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,689 |
 | This game has Diverse Characters | 1,685 |
 | This game has Challenging Combat | 1,576 |
-| This game is Highly Recommended | 1,506 |
+| This game is Highly Recommended | 1,519 |
 | This game is Extremely Fun | 1,444 |
 | This game has Amazing Characters | 1,442 |
 | This game has Amazing Storytelling | 1,370 |
@@ -656,4 +656,4 @@ Diff (max vs sum): -8
 | 2023-12-11 | 4.68 | - | 7,586 | 20,081 |
 | 2023-12-12 | 4.68 | - | 7,622 | 20,221 |
 | 2023-12-13 | 4.68 | - | 7,665 | 20,333 |
-| 2023-12-14 | 4.68 | - | 7,689 | 20,395 |
+| 2023-12-14 | 4.68 | - | 7,689 | 20,408 |

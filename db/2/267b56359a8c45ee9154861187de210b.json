@@ -2,9 +2,9 @@
   "ID": "267b56359a8c45ee9154861187de210b",
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
-  "Ranking_EOS_Progress": 502,
+  "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58,
+  "EOS_Progressed": 59,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -284,6 +284,11 @@
       "Time": "2023-12-14T11:03:59.2793079+00:00",
       "NumProgressed": 58,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T17:04:10.6081419+00:00",
+      "NumProgressed": 59,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -422,7 +427,7 @@
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
       "UsersEstimate": 34
     },
@@ -870,7 +875,7 @@
       "ID": "rolldist_mid",
       "SetID": "3448go",
       "Name": "Marathon",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -878,7 +883,7 @@
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 5,
       "UsersEstimate": 40
     },
@@ -983,14 +988,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 58,
+      "Progressed": 59,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:04:04.4339701+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:04:10.6081414+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:19.378274+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:02:00.917318+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:04:04.43405+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:00:49.4205543+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:04:10.6082159+00:00"
 }

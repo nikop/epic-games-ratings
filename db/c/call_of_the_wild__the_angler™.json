@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -955,9 +955,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 6870,
+  "EOS_Progressed": 6881,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11055,6 +11055,11 @@
       "Time": "2023-12-14T16:04:27.1966607+00:00",
       "NumProgressed": 6870,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T17:04:26.3466187+00:00",
+      "NumProgressed": 6881,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11066,7 +11071,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -11096,9 +11101,9 @@
       "ID": "ACHIEVEMENT_005",
       "SetID": "1a05lfd",
       "Name": "Fish Out of Water",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -11138,7 +11143,7 @@
       "Name": "License to Gill",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -11146,7 +11151,7 @@
       "Name": "More than a Tourist",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -11170,7 +11175,7 @@
       "Name": "Goldfish?",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -11178,7 +11183,7 @@
       "Name": "Going for Gold",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -11186,7 +11191,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -11242,7 +11247,7 @@
       "Name": "No Fin left to give",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_024",
@@ -11354,7 +11359,7 @@
       "Name": "Live by the Rod, Diez by the Rod!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_039",
@@ -11370,7 +11375,7 @@
       "Name": "All Good Kings Must Come to an End",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_041",
@@ -11378,20 +11383,20 @@
       "Name": "Three Square Meals",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6870,
+      "Progressed": 6881,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6242,
+      "Progressed": 6253,
       "Completed": 113
     }
   ],
@@ -11399,8 +11404,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-13T00:00:03.8951361+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:04:27.1966604+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:04:26.3466182+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:44.0991613+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:57:25.6093206+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:04:27.1967458+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:57:45.7054726+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:04:26.3466946+00:00"
 }

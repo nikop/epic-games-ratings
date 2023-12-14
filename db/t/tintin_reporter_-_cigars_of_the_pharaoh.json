@@ -2,7 +2,7 @@
   "ID": "506c2b96b8e3483d9fa335d37ebe9d6b",
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
-  "Ranking_EOS_Progress": 460,
+  "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 126,
@@ -595,9 +595,9 @@
       "ID": "Achievement3",
       "SetID": "9fa3l5n",
       "Name": "Abandon Ship!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Achievement30",
@@ -667,9 +667,9 @@
       "ID": "Achievement4",
       "SetID": "9fa3l5n",
       "Name": "The Tomb of Kih-Oskh",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achievement5",
@@ -722,8 +722,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:08:52.0525531+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:08:51.2768753+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:01.5960329+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:58:07.0724577+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:08:52.0525778+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:58:13.6073239+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:08:51.2769017+00:00"
 }

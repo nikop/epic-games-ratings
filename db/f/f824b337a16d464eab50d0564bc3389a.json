@@ -4,7 +4,7 @@
   "ProductSlug": "abtos-covert-8e83e8",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 485,
+  "Ranking_EOS_NewPlayers": 489,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-05T11:03:59.4637564+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:04:12.8070696+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:04:16.4781483+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.3125538+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:01:37.2872038+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:04:12.8070733+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:00:32.5082617+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:04:16.4781518+00:00"
 }

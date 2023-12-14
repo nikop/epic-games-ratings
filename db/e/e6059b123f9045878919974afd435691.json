@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -3186,9 +3186,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "End the Infestation",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 98
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -3393,8 +3393,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:10:49.3088215+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:10:14.9929683+00:00",
   "LastUpdate_AppInfo": "2023-12-08T02:20:37.1231344+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:57:04.8813819+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:10:49.308889+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:57:32.11993+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:10:14.9930467+00:00"
 }

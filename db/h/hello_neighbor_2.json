@@ -5,10 +5,10 @@
   "Ranking_Rating": 682,
   "Ranking_Popularity": 563,
   "Ranking_PopularitySum": 563,
-  "Ranking_EOS_Progress": 212,
+  "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -471,9 +471,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3356,
+  "EOS_Progressed": 3357,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.11,
   "EosHistory": [
@@ -5341,6 +5341,11 @@
       "Time": "2023-12-14T16:07:54.4191102+00:00",
       "NumProgressed": 3356,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-12-14T17:06:51.2783112+00:00",
+      "NumProgressed": 3357,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 14,
@@ -5400,7 +5405,7 @@
       "Name": "Family Lost",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -5416,7 +5421,7 @@
       "Name": "Imprisonment",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -5424,7 +5429,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ACH_REUNION",
@@ -5432,7 +5437,7 @@
       "Name": "Reunion",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -5448,7 +5453,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -5463,7 +5468,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3356,
+      "Progressed": 3357,
       "Completed": 138
     }
   ],
@@ -5471,8 +5476,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-18T13:02:58.1900278+00:00",
-  "LastChanged_Achievements": "2023-12-14T16:07:54.4191098+00:00",
+  "LastChanged_Achievements": "2023-12-14T17:06:51.2783107+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:09.6040213+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:01:05.0289468+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:07:54.4191448+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:00:10.3576516+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:06:51.2783418+00:00"
 }

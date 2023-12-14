@@ -4,7 +4,7 @@
   "ProductSlug": "pumpkin-jack",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 485,
+  "Ranking_EOS_NewPlayers": 489,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-10-23T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:13.9710962+00:00",
   "LastChanged": "2023-03-31T05:57:13.9710963+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:58.6866229+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:57:19.6425086+00:00",
-  "LastUpdate_Achievements": "2023-12-14T16:10:14.0444645+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:57:41.8581348+00:00",
+  "LastUpdate_Achievements": "2023-12-14T17:09:49.1732943+00:00"
 }

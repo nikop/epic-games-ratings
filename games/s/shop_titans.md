@@ -6,31 +6,31 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,627 |
-| Titan's First Steps | 8.00% | ~11,627 |
-| Basic in Bulk | 7.00% | ~10,174 |
-| Tinkle of Coins | 7.00% | ~10,174 |
-| Disintermediation | 5.00% | ~7,267 |
-| It's Free Real Estate | 5.00% | ~7,267 |
-| Budding Merchant | 5.00% | ~7,267 |
-| Capitalism Ho! | 5.00% | ~7,267 |
-| One Easy Payment | 4.00% | ~5,814 |
-| Some Assembly Required | 4.00% | ~5,814 |
-| Another Satisfied Customer | 4.00% | ~5,814 |
-| Pretty Penny | 4.00% | ~5,814 |
-| One-Armed Bandit | 4.00% | ~5,814 |
-| Own the Means of Production | 4.00% | ~5,814 |
-| The Daily Grind | 3.00% | ~4,360 |
-| Bounty Hunters | 3.00% | ~4,360 |
-| Demand for Supplies | 3.00% | ~4,360 |
-| Flooding the Market | 3.00% | ~4,360 |
-| Where it Hurts | 3.00% | ~4,360 |
-| Gild-Gotten Goods | 3.00% | ~4,360 |
-| Accomplished Merchant | 3.00% | ~4,360 |
-| Dungeon Imports | 3.00% | ~4,360 |
-| Through Repetition, Perfection | 3.00% | ~4,360 |
-| Did we pack lunch? | 3.00% | ~4,360 |
-| Arcane Industries | 3.00% | ~4,360 |
+| Sponsored by Argon | 8.00% | ~11,629 |
+| Titan's First Steps | 8.00% | ~11,629 |
+| Basic in Bulk | 7.00% | ~10,176 |
+| Tinkle of Coins | 7.00% | ~10,176 |
+| Disintermediation | 5.00% | ~7,268 |
+| It's Free Real Estate | 5.00% | ~7,268 |
+| Budding Merchant | 5.00% | ~7,268 |
+| Capitalism Ho! | 5.00% | ~7,268 |
+| One Easy Payment | 4.00% | ~5,815 |
+| Some Assembly Required | 4.00% | ~5,815 |
+| Another Satisfied Customer | 4.00% | ~5,815 |
+| Pretty Penny | 4.00% | ~5,815 |
+| One-Armed Bandit | 4.00% | ~5,815 |
+| Own the Means of Production | 4.00% | ~5,815 |
+| The Daily Grind | 3.00% | ~4,361 |
+| Bounty Hunters | 3.00% | ~4,361 |
+| Demand for Supplies | 3.00% | ~4,361 |
+| Flooding the Market | 3.00% | ~4,361 |
+| Where it Hurts | 3.00% | ~4,361 |
+| Gild-Gotten Goods | 3.00% | ~4,361 |
+| Accomplished Merchant | 3.00% | ~4,361 |
+| Dungeon Imports | 3.00% | ~4,361 |
+| Through Repetition, Perfection | 3.00% | ~4,361 |
+| Did we pack lunch? | 3.00% | ~4,361 |
+| Arcane Industries | 3.00% | ~4,361 |
 | On the Path to Greatness | 2.00% | ~2,907 |
 | A Notch Above the Rest | 2.00% | ~2,907 |
 | Cream of the Crop | 2.00% | ~2,907 |
@@ -39,6 +39,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tax not Included | 2.00% | ~2,907 |
 | The King's Caprice | 2.00% | ~2,907 |
 | Research & Development | 2.00% | ~2,907 |
+| Thirst for Knowledge | 2.00% | ~2,907 |
 | Vanity, Verily | 2.00% | ~2,907 |
 | Big Game Hunting | 2.00% | ~2,907 |
 | Fated Encounters | 2.00% | ~2,907 |
@@ -46,6 +47,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Booty by the Boatload | 2.00% | ~2,907 |
 | Blank Page Syndrome | 2.00% | ~2,907 |
 | Scrapbooker | 2.00% | ~2,907 |
+| Archivist | 2.00% | ~2,907 |
 | Locally Sourced | 2.00% | ~2,907 |
 | Flying off the Shelves | 2.00% | ~2,907 |
 | This Power Level...! | 2.00% | ~2,907 |
@@ -74,6 +76,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 2.00% | ~2,907 |
 | Natural 20 | 2.00% | ~2,907 |
 | Seasoned Journeyman | 2.00% | ~2,907 |
+| Precision Engineering | 2.00% | ~2,907 |
 | Scourge of the Seas | 2.00% | ~2,907 |
 | Attrition Mission | 2.00% | ~2,907 |
 | Glittering Collection | 2.00% | ~2,907 |
@@ -84,31 +87,28 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 2.00% | ~2,907 |
 | Exotic Commodities | 2.00% | ~2,907 |
 | Complete Monopoly | 2.00% | ~2,907 |
-| Top of the World | 1.00% | ~1,453 |
-| Proud Paladin | 1.00% | ~1,453 |
-| Constellated | 1.00% | ~1,453 |
-| A Ronin Reborn | 1.00% | ~1,453 |
-| Thirst for Knowledge | 1.00% | ~1,453 |
-| Archivist | 1.00% | ~1,453 |
-| The Free Encyclopedia | 1.00% | ~1,453 |
-| Fillin' the Bin | 1.00% | ~1,453 |
-| Industrial Evolution | 1.00% | ~1,453 |
-| Thank You Tom Nook | 1.00% | ~1,453 |
-| A Legend is Born | 1.00% | ~1,453 |
-| Necromancer Queen | 1.00% | ~1,453 |
-| Jackpot! | 1.00% | ~1,453 |
-| Bountiful Harvest | 1.00% | ~1,453 |
-| Precision Engineering | 1.00% | ~1,453 |
-| Eternal Crusade | 1.00% | ~1,453 |
-| Moment of Respite | 1.00% | ~1,453 |
-| King's Shadow | 1.00% | ~1,453 |
-| All Accounted For | 1.00% | ~1,453 |
-| Economy of Scarce | 1.00% | ~1,453 |
-| King's Blade | 1.00% | ~1,453 |
+| Top of the World | 1.00% | ~1,454 |
+| Proud Paladin | 1.00% | ~1,454 |
+| Constellated | 1.00% | ~1,454 |
+| A Ronin Reborn | 1.00% | ~1,454 |
+| The Free Encyclopedia | 1.00% | ~1,454 |
+| Fillin' the Bin | 1.00% | ~1,454 |
+| Industrial Evolution | 1.00% | ~1,454 |
+| Thank You Tom Nook | 1.00% | ~1,454 |
+| A Legend is Born | 1.00% | ~1,454 |
+| Necromancer Queen | 1.00% | ~1,454 |
+| Jackpot! | 1.00% | ~1,454 |
+| Bountiful Harvest | 1.00% | ~1,454 |
+| Eternal Crusade | 1.00% | ~1,454 |
+| Moment of Respite | 1.00% | ~1,454 |
+| King's Shadow | 1.00% | ~1,454 |
+| All Accounted For | 1.00% | ~1,454 |
+| Economy of Scarce | 1.00% | ~1,454 |
+| King's Blade | 1.00% | ~1,454 |
 | All or Nothing! | 0.80% | ~1,163 |
-| Anything not Nailed Down | 0.70% | ~1,017 |
-| The Greatest Grind | 0.70% | ~1,017 |
-| Marvels from the World Over | 0.70% | ~1,017 |
+| Anything not Nailed Down | 0.70% | ~1,018 |
+| The Greatest Grind | 0.70% | ~1,018 |
+| Marvels from the World Over | 0.70% | ~1,018 |
 | Bane of Legends | 0.60% | ~872 |
 | Ultimate Collector | 0.50% | ~727 |
 | Unleashed Potential | 0.50% | ~727 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~436 |
 | Capitalist Camaraderie | 0.20% | ~291 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,340 (Ranked 80)  
+Progressed: 145,368 (Ranked 80)  
 Completed: 304 (0.21%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 304 (0.21%) (Ranked 258)
 | 2023-12-11 | 144,756 | 293 |
 | 2023-12-12 | 144,871 | 294 |
 | 2023-12-13 | 145,093 | 297 |
-| 2023-12-14 | 145,340 | 304 |
+| 2023-12-14 | 145,368 | 304 |
 ## Awards
 Max (Great for Beginners): 4,882  (Ranked 75)  
 Sum: 27,712 (Ranked 51)  
