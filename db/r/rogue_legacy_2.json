@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23847,
+  "EOS_Progressed": 23882,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10470,6 +10470,11 @@
       "Time": "2023-12-14T09:10:11.447145+00:00",
       "NumProgressed": 23847,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-14T10:10:44.5493452+00:00",
+      "NumProgressed": 23882,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10545,7 +10550,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -10561,7 +10566,7 @@
       "Name": "Spells and Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -10577,7 +10582,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -10593,7 +10598,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -10609,7 +10614,7 @@
       "Name": "Harvest and Home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -10625,7 +10630,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -10633,7 +10638,7 @@
       "Name": "For Love",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "BossStudyDefeated",
@@ -10641,7 +10646,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -10657,7 +10662,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "BoxerBoss",
@@ -10673,7 +10678,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "EndTimerFail",
@@ -10737,7 +10742,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "RogueMode",
@@ -10777,7 +10782,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "UnlockHighestUnity",
@@ -10785,28 +10790,28 @@
       "Name": "Color Coordination",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23847,
+      "Progressed": 23882,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2777,
+      "Progressed": 2812,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-14T09:10:11.4471444+00:00",
+  "LastChanged_Achievements": "2023-12-14T10:10:44.5493448+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:17.8828255+00:00",
-  "LastUpdate_Ratings": "2023-12-14T08:59:17.061104+00:00",
-  "LastUpdate_Achievements": "2023-12-14T09:10:11.4471993+00:00"
+  "LastUpdate_Ratings": "2023-12-14T09:59:33.5509138+00:00",
+  "LastUpdate_Achievements": "2023-12-14T10:10:44.5493991+00:00"
 }

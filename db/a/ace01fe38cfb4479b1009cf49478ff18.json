@@ -2,9 +2,9 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 188,
+  "EOS_Progressed": 189,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -849,6 +849,11 @@
       "Time": "2023-12-14T09:04:59.5252758+00:00",
       "NumProgressed": 188,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T10:05:31.6094115+00:00",
+      "NumProgressed": 189,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -859,9 +864,9 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 45,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -877,7 +882,7 @@
       "Name": "Chapter III - Complete",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_complete_difficulty_easy",
@@ -885,7 +890,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -915,9 +920,9 @@
       "ID": "ach_defeat_great_unclean_one",
       "SetID": "d499apg",
       "Name": "Defeat a Great Unclean One",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 45,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -956,14 +961,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 188,
+      "Progressed": 189,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-14T09:04:59.5252753+00:00",
+  "LastChanged_Achievements": "2023-12-14T10:05:31.6094112+00:00",
   "LastUpdate_AppInfo": "2023-12-08T13:57:10.1011387+00:00",
-  "LastUpdate_Ratings": "2023-12-14T08:58:33.2858819+00:00",
-  "LastUpdate_Achievements": "2023-12-14T09:04:59.5252888+00:00"
+  "LastUpdate_Ratings": "2023-12-14T09:58:45.1481047+00:00",
+  "LastUpdate_Achievements": "2023-12-14T10:05:31.609424+00:00"
 }

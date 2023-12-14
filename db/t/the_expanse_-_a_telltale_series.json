@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16157,
+  "EOS_Progressed": 16159,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -13772,6 +13772,11 @@
       "Time": "2023-12-14T09:07:49.0587257+00:00",
       "NumProgressed": 16157,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-14T10:08:32.7394968+00:00",
+      "NumProgressed": 16159,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13816,7 +13821,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "14",
@@ -13832,7 +13837,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "16",
@@ -13848,7 +13853,7 @@
       "Name": "Spore Taste",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "18",
@@ -13928,7 +13933,7 @@
       "Name": "Call it Even",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "27",
@@ -14048,7 +14053,7 @@
       "Name": "Master Negotiator",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "35",
@@ -14063,22 +14068,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16157,
+      "Progressed": 16159,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2111,
-      "Completed": 881
+      "Progressed": 2113,
+      "Completed": 882
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-14T09:07:49.0587252+00:00",
+  "LastChanged_Achievements": "2023-12-14T10:08:32.7394965+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-14T08:57:21.4285264+00:00",
-  "LastUpdate_Achievements": "2023-12-14T09:07:49.0588043+00:00"
+  "LastUpdate_Ratings": "2023-12-14T09:57:29.2089564+00:00",
+  "LastUpdate_Achievements": "2023-12-14T10:08:32.7395878+00:00"
 }

@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 88.00% | ~483 |
 | Thalya – Simply Immortal | 88.00% | ~483 |
-| For the Horde! | 82.00% | ~450 |
-| Hammer Time, Round Two | 80.00% | ~439 |
+| For the Horde! | 83.00% | ~456 |
+| Hammer Time, Round Two | 81.00% | ~445 |
 | The Hellwoods | 77.00% | ~423 |
 | The Plains of Strothalm | 72.00% | ~395 |
 | Experienced Thalya | 72.00% | ~395 |
@@ -16,7 +16,7 @@
 | Heroes’ Gorge | 66.00% | ~362 |
 | Master of Magic | 64.00% | ~351 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~340 |
-| Magic Accidents | 59.00% | ~324 |
+| Magic Accidents | 60.00% | ~329 |
 | The Ascent | 59.00% | ~324 |
 | It's Warm and Cozy at Home | 59.00% | ~324 |
 | Trap Master | 55.00% | ~302 |

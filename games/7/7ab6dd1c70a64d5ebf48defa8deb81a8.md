@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 20.00% | ~61 |
+| Break Out | 20.00% | ~62 |
 | Trinity | 13.00% | ~40 |
 | Find Allies | 11.00% | ~34 |
 | Powerful Allies | 10.00% | ~31 |
@@ -18,8 +18,8 @@
 | Scholar | 9.00% | ~28 |
 | I Found It | 9.00% | ~28 |
 | Stone Collection | 9.00% | ~28 |
-| Big Bazar | 8.00% | ~24 |
-| The Mentor | 7.00% | ~21 |
+| The Mentor | 7.00% | ~22 |
+| Big Bazar | 7.00% | ~22 |
 | Calm before the Storm | 6.00% | ~18 |
 | Essence Blow | 6.00% | ~18 |
 | Alchemist | 6.00% | ~18 |
@@ -41,8 +41,8 @@
 | Shardbearer | 1.00% | ~3 |
 | Feeling Fancy | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 306 (Ranked 360)  
-Completed: 3 (0.98%) (Ranked 172)  
+Progressed: 308 (Ranked 360)  
+Completed: 3 (0.97%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,4 +104,4 @@ Completed: 3 (0.98%) (Ranked 172)
 | 2023-12-11 | 264 | 2 |
 | 2023-12-12 | 265 | 2 |
 | 2023-12-13 | 282 | 3 |
-| 2023-12-14 | 306 | 3 |
+| 2023-12-14 | 308 | 3 |

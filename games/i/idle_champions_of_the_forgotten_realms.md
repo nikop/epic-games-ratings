@@ -9,6 +9,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to Sigil | 0.40% | ~825 |
 | Fast Food | 0.30% | ~619 |
 | Misaligned in Sigil | 0.20% | ~413 |
+| Chaos Theory | 0.20% | ~413 |
 | A Brief Tour of the Realms | 0.10% | ~240 |
 | Maddening | 0.10% | ~240 |
 | Pros and CONs | 0.10% | ~240 |
@@ -33,6 +34,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hither of the Feywild | 0.10% | ~206 |
 | Don't Breathe the Marsh Gas | 0.10% | ~206 |
 | Don't Blast the Brigands | 0.10% | ~206 |
+| Don't Squeeze the Spiders | 0.10% | ~206 |
 | The Spire of Iriolarthas | 0.10% | ~206 |
 | Always Watching | 0.10% | ~206 |
 | The Fall of Ythryn | 0.10% | ~206 |
@@ -306,6 +308,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Dragons | 0.10% | ~240 |
 | Vault of Pixies | 0.10% | ~240 |
 | Vault of Poison | 0.10% | ~240 |
+| Vault of Cuteness | 0.10% | ~206 |
 | Champions of Waterdeep | 0.10% | ~240 |
 | On The Job Learning | 0.10% | ~240 |
 | Strike! | 0.10% | ~206 |
@@ -335,6 +338,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wyllowwood | 0.10% | ~240 |
 | Displaced Anger | 0.10% | ~240 |
 | Ettercap Swarm | 0.10% | ~206 |
+| Smooth Talkers | 0.10% | ~206 |
 | Relay Race | 0.10% | ~240 |
 | An Illithid Undertaking | 0.10% | ~206 |
 | An Illithid Ambush | 0.10% | ~206 |
@@ -403,6 +407,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.10% | ~240 |
 | Overdue Rendezvous | 0.10% | ~240 |
 | Moose Tracks | 0.10% | ~206 |
+| An Awakened Axe | 0.10% | ~206 |
 | CONtagious Cold | 0.10% | ~206 |
 | Ten in Ten-Towns | 0.10% | ~206 |
 | Civilization | 0.10% | ~206 |
@@ -531,14 +536,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Brains of an Illithid's Desire | 0.10% | ~206 |
 | Arcane Suppression | 0.10% | ~206 |
 | Welcome to the Vrocks | 0.10% | ~206 |
-| Chaos Theory | 0.10% | ~206 |
 | The Overgrown Grove | 0.10% | ~206 |
 | When Tentacles Attack | 0.10% | ~206 |
 | Flames of Avernus | 0.10% | ~206 |
 | Mental Gymnastics | 0.10% | ~206 |
 | Don't Lose Your Head | 0.10% | ~206 |
 | Mind Spike | 0.10% | ~206 |
-| Don't Squeeze the Spiders | 0.00% | ~0 |
 | Will of the Frozen Feywild | 0.00% | ~0 |
 | G. O. A. T. | 0.00% | ~0 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
@@ -547,13 +550,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Play's the Thing! | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | No One Can Hear You Scream | 0.00% | ~0 |
-| Vault of Cuteness | 0.00% | ~0 |
-| Smooth Talkers | 0.00% | ~0 |
-| An Awakened Axe | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,030 (Ranked 66)  
+Progressed: 240,047 (Ranked 66)  
 Completed: 2,524 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -791,10 +791,10 @@ Completed: 2,524 (1.05%) (Ranked 167)
 | 2023-12-11 | 239,456 | 2,517 |
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
-| 2023-12-14 | 240,030 | 2,524 |
+| 2023-12-14 | 240,047 | 2,524 |
 ## Awards
 Max (Great for Beginners): 5,624  (Ranked 70)  
-Sum: 32,848 (Ranked 41)  
+Sum: 32,852 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -803,7 +803,7 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 4,841 |
 | This game is Relaxing | 4,726 |
 | This game has Amazing Characters | 4,250 |
-| This game is Highly Recommended | 4,242 |
+| This game is Highly Recommended | 4,246 |
 | This game has Playful Visuals | 3,571 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1130,4 +1130,4 @@ Diff (max vs sum): 29
 | 2023-12-11 | 4.06 | - | 5,622 | 32,826 |
 | 2023-12-12 | 4.06 | - | 5,622 | 32,830 |
 | 2023-12-13 | 4.06 | - | 5,624 | 32,841 |
-| 2023-12-14 | 4.06 | - | 5,624 | 32,848 |
+| 2023-12-14 | 4.06 | - | 5,624 | 32,852 |

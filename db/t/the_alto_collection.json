@@ -904,9 +904,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 50057,
+  "EOS_Progressed": 50060,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 881,
+  "EOS_NewPlayers": 875,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27874,6 +27874,11 @@
       "Time": "2023-12-14T09:05:07.4249753+00:00",
       "NumProgressed": 50057,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-14T10:05:39.978204+00:00",
+      "NumProgressed": 50060,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -27909,7 +27914,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5506
+      "UsersEstimate": 5507
     },
     {
       "ID": "distance500000",
@@ -27925,7 +27930,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 13515
+      "UsersEstimate": 13516
     },
     {
       "ID": "goals180",
@@ -27965,7 +27970,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3003
+      "UsersEstimate": 3004
     },
     {
       "ID": "journeyer",
@@ -28013,7 +28018,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 8009
+      "UsersEstimate": 8010
     },
     {
       "ID": "playerFelipe",
@@ -28093,7 +28098,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 12514
+      "UsersEstimate": 12515
     },
     {
       "ID": "sandboarder",
@@ -28109,7 +28114,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5506
+      "UsersEstimate": 5507
     },
     {
       "ID": "ultimate",
@@ -28196,15 +28201,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 50057,
+      "Progressed": 50060,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-12-12T13:06:02.672626+00:00",
-  "LastChanged_Achievements": "2023-12-14T09:05:07.4249748+00:00",
+  "LastChanged_Achievements": "2023-12-14T10:05:39.9782037+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.4724862+00:00",
-  "LastUpdate_Ratings": "2023-12-14T08:58:05.7356167+00:00",
-  "LastUpdate_Achievements": "2023-12-14T09:05:07.4251556+00:00"
+  "LastUpdate_Ratings": "2023-12-14T09:58:17.0413838+00:00",
+  "LastUpdate_Achievements": "2023-12-14T10:05:39.9783207+00:00"
 }

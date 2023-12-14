@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 60.00% | ~218 |
-| Starting Skyward | 53.00% | ~192 |
+| Starting Skyward | 54.00% | ~196 |
 | Grime is Not Good | 48.00% | ~174 |
-| Floor Galore | 41.00% | ~149 |
+| Floor Galore | 42.00% | ~152 |
 | Dinner Dash | 41.00% | ~149 |
 | Campaign Launch | 40.00% | ~145 |
 | Need a Consult | 38.00% | ~138 |
@@ -32,8 +32,8 @@
 | Tasty Profits | 19.00% | ~69 |
 | We Don't Need No Education | 19.00% | ~69 |
 | Established Fame | 18.00% | ~65 |
+| Under One Roof | 17.00% | ~62 |
 | Cashflow Chief | 17.00% | ~62 |
-| Under One Roof | 16.00% | ~58 |
 | Starred Dining | 15.00% | ~54 |
 | Smooth Operator | 14.00% | ~51 |
 | Boutique Benefits | 14.00% | ~51 |

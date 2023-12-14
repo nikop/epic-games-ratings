@@ -6,7 +6,7 @@
   "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 78,
-  "Ranking_EOS_Completed": 266,
+  "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
@@ -1657,10 +1657,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 162458,
-  "EOS_Completed": 315,
-  "EOS_NewPlayers": 936,
-  "EOS_NewCompleters": 96,
+  "EOS_Progressed": 162466,
+  "EOS_Completed": 316,
+  "EOS_NewPlayers": 942,
+  "EOS_NewCompleters": 97,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
@@ -19152,6 +19152,11 @@
       "Time": "2023-12-14T09:07:39.9224278+00:00",
       "NumProgressed": 162458,
       "NumCompleted": 315
+    },
+    {
+      "Time": "2023-12-14T10:08:23.3537531+00:00",
+      "NumProgressed": 162466,
+      "NumCompleted": 316
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -19434,9 +19439,9 @@
       "ID": "MISC_REACHMAXARDOR",
       "SetID": "ccc0dlh",
       "Name": "Ravenous",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1300
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -19531,21 +19536,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 162041,
+      "Progressed": 162049,
       "Completed": 1237
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 162458,
-      "Completed": 315
+      "Progressed": 162466,
+      "Completed": 316
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-12T15:59:50.786914+00:00",
-  "LastChanged_Achievements": "2023-12-14T09:07:39.9224274+00:00",
+  "LastChanged_Achievements": "2023-12-14T10:08:23.3537526+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-14T09:00:49.2670784+00:00",
-  "LastUpdate_Achievements": "2023-12-14T09:07:39.9225327+00:00"
+  "LastUpdate_Ratings": "2023-12-14T10:01:13.4837853+00:00",
+  "LastUpdate_Achievements": "2023-12-14T10:08:23.3538668+00:00"
 }

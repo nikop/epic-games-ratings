@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3839,
+  "EOS_Progressed": 3840,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -4817,6 +4817,11 @@
       "Time": "2023-12-14T07:07:52.2967876+00:00",
       "NumProgressed": 3839,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-14T10:07:55.382819+00:00",
+      "NumProgressed": 3840,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4876,7 +4881,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3340
+      "UsersEstimate": 3341
     },
     {
       "ID": "campaign10",
@@ -4980,7 +4985,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2265
+      "UsersEstimate": 2266
     },
     {
       "ID": "campaign4",
@@ -4988,7 +4993,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "campaign5",
@@ -5091,7 +5096,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3839,
+      "Progressed": 3840,
       "Completed": 11
     }
   ],
@@ -5099,8 +5104,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-14T09:07:13.9620188+00:00",
+  "LastChanged_Achievements": "2023-12-14T10:07:55.3828186+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.2611829+00:00",
-  "LastUpdate_Ratings": "2023-12-14T08:58:39.5827362+00:00",
-  "LastUpdate_Achievements": "2023-12-14T09:07:13.9620502+00:00"
+  "LastUpdate_Ratings": "2023-12-14T09:58:52.0728286+00:00",
+  "LastUpdate_Achievements": "2023-12-14T10:07:55.3828531+00:00"
 }

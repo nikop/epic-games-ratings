@@ -3,8 +3,8 @@
   "Name": "JARS",
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 448,
-  "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 418,
+  "Ranking_EOS_Completed": 76,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 102,
+  "EOS_Progressed": 103,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.9,
+  "EOS_Completed_Percentage": 4.85,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:38.9338531+00:00",
@@ -379,6 +379,11 @@
       "Time": "2023-12-14T00:04:37.1060819+00:00",
       "NumProgressed": 102,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-14T10:05:35.8645353+00:00",
+      "NumProgressed": 103,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 20,
@@ -396,7 +401,7 @@
       "ID": "ACH_100_MINIONS_PLACED",
       "SetID": "3jfhgga",
       "Name": "I have an army!",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 25,
       "UsersEstimate": 62
     },
@@ -412,7 +417,7 @@
       "ID": "ACH_CHAPTER_0_DONE",
       "SetID": "3jfhgga",
       "Name": "The child of the night",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 50,
       "UsersEstimate": 74
     },
@@ -428,7 +433,7 @@
       "ID": "ACH_CHAPTER_2_DONE",
       "SetID": "3jfhgga",
       "Name": "Fangs",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 18
     },
@@ -468,7 +473,7 @@
       "ID": "ACH_EQUIP_PERK",
       "SetID": "3jfhgga",
       "Name": "It fits. IT FITS!",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 25,
       "UsersEstimate": 74
     },
@@ -532,7 +537,7 @@
       "ID": "ACH_SHOP_FIRST_PURCHASE",
       "SetID": "3jfhgga",
       "Name": "Uncle will be happy",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 25,
       "UsersEstimate": 66
     },
@@ -549,7 +554,7 @@
     {
       "ID": "3jfhgga",
       "IsBase": true,
-      "Progressed": 102,
+      "Progressed": 103,
       "Completed": 5
     }
   ],
@@ -557,8 +562,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-12-14T09:05:03.4154537+00:00",
+  "LastChanged_Achievements": "2023-12-14T10:05:35.8645348+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:08.447638+00:00",
-  "LastUpdate_Ratings": "2023-12-14T08:58:14.3126564+00:00",
-  "LastUpdate_Achievements": "2023-12-14T09:05:03.4154647+00:00"
+  "LastUpdate_Ratings": "2023-12-14T09:58:26.1304458+00:00",
+  "LastUpdate_Achievements": "2023-12-14T10:05:35.8645547+00:00"
 }

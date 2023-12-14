@@ -6,7 +6,7 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 37.00% | ~168 |
+| Adept | 38.00% | ~172 |
 | Double Kill | 29.00% | ~131 |
 | Critical Hit | 17.00% | ~77 |
 | Veteran | 15.00% | ~68 |
@@ -30,10 +30,10 @@ Number of Ratings: 292  (23.09.2022)
 | Pyrrhic Victory | 2.00% | ~9 |
 | Infernal Influence | 1.00% | ~5 |
 | Grand Master | 1.00% | ~5 |
+| Get Over Here! | 0.90% | ~4 |
 | Ultra Kill | 0.90% | ~4 |
 | Unlimited Power! | 0.70% | ~3 |
 | Together For Her | 0.70% | ~3 |
-| Get Over Here! | 0.70% | ~3 |
 | Death To Diplomacy | 0.40% | ~2 |
 | Coming Through! | 0.40% | ~2 |
 | Barbecue | 0.40% | ~2 |

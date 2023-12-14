@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9678,9 +9678,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126840,
+  "EOS_Progressed": 126865,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1102,
+  "EOS_NewPlayers": 1125,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34953,6 +34953,11 @@
       "Time": "2023-12-14T09:09:28.4075507+00:00",
       "NumProgressed": 126840,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T10:09:58.0174553+00:00",
+      "NumProgressed": 126865,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -34970,9 +34975,9 @@
       "ID": "affinity_resolute_first_time",
       "SetID": "64l4lke",
       "Name": "Serenity Now!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1269
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -35082,9 +35087,9 @@
       "ID": "combat_kill_animal",
       "SetID": "64l4lke",
       "Name": "Predator",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 761
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -35124,7 +35129,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35164,7 +35169,7 @@
       "Name": "Meat and Greet",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35194,9 +35199,9 @@
       "ID": "combat_kill_pillagers",
       "SetID": "64l4lke",
       "Name": "Reverse Banditry",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 761
     },
     {
       "ID": "combat_kill_shambler",
@@ -35290,9 +35295,9 @@
       "ID": "driving_distance_easy",
       "SetID": "64l4lke",
       "Name": "Ramble On",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 761
     },
     {
       "ID": "driving_distance_hard",
@@ -35370,9 +35375,9 @@
       "ID": "inn_replacement_hero_add",
       "SetID": "64l4lke",
       "Name": "FNG",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1142
     },
     {
       "ID": "inn_visit_all_variants",
@@ -35500,7 +35505,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "combat_kill_collector",
@@ -35508,7 +35513,7 @@
       "Name": "This guy... again?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35556,7 +35561,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "quest_complete_crusader",
@@ -35564,7 +35569,7 @@
       "Name": "Lost and Found",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35595,21 +35600,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126840,
+      "Progressed": 126865,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1709,
-      "Completed": 800
+      "Progressed": 1734,
+      "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-14T05:00:52.0976777+00:00",
-  "LastChanged_Achievements": "2023-12-14T09:09:28.4075502+00:00",
+  "LastChanged_Achievements": "2023-12-14T10:09:58.0174548+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T09:00:51.805397+00:00",
-  "LastUpdate_Achievements": "2023-12-14T09:09:28.4076948+00:00"
+  "LastUpdate_Ratings": "2023-12-14T10:01:16.5617935+00:00",
+  "LastUpdate_Achievements": "2023-12-14T10:09:58.0176007+00:00"
 }

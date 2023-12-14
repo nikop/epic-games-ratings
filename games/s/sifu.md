@@ -6,50 +6,50 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 1.00% | ~289 |
-| The Old Grandmaster | 0.90% | ~6,476 |
-| The Assault | 0.80% | ~5,757 |
-| The Hateful Pole Fighter | 0.80% | ~5,757 |
-| Life is your teacher | 0.80% | ~5,757 |
-| State of constant learning | 0.80% | ~5,757 |
-| Qi Gong: Breath | 0.80% | ~5,757 |
-| Lightning Hands | 0.80% | ~5,757 |
-| Project Arena | 0.80% | ~231 |
-| A Lady's Blood in the Snow | 0.70% | ~5,037 |
-| Qi Gong: Essence | 0.70% | ~5,037 |
-| Path of the Prospect | 0.70% | ~5,037 |
-| Rumble in the Hangar | 0.70% | ~5,037 |
-| Lady Wing Chun | 0.60% | ~4,318 |
-| Furious Fists | 0.60% | ~4,318 |
-| Kill Nil | 0.60% | ~4,318 |
-| Stuntmaster | 0.60% | ~4,318 |
-| Street Fighting | 0.60% | ~4,318 |
-| Old Child | 0.60% | ~4,318 |
-| Take damage to save time | 0.60% | ~4,318 |
-| Fight the way you practice | 0.60% | ~173 |
-| Scareless | 0.50% | ~3,598 |
-| Qi Gong: Mind | 0.50% | ~3,598 |
-| I know Kung-Fu | 0.50% | ~3,598 |
-| Kung-Fu Tussle | 0.50% | ~3,598 |
-| Martial Hub | 0.50% | ~144 |
-| Dance of the Praying Mantis | 0.40% | ~2,878 |
-| Bloody Sport | 0.40% | ~116 |
-| Muk Yan Master | 0.30% | ~2,159 |
-| Tiger on Fire | 0.30% | ~2,159 |
-| Source of Flying Daggers | 0.30% | ~2,159 |
-| Iron Money | 0.30% | ~2,159 |
-| Legendary Talismans of Wuxing | 0.30% | ~2,159 |
-| Detective Story | 0.30% | ~2,159 |
-| The best strikes are the ones we avoid | 0.30% | ~87 |
-| Prodigal Child | 0.20% | ~1,439 |
-| Knowledge Greed | 0.20% | ~1,439 |
-| The 36th Chamber of Kung-Fu | 0.20% | ~1,439 |
-| Sword Stained With Blood | 0.20% | ~1,439 |
-| The Pit Protector | 0.20% | ~1,439 |
-| Deadly Venom | 0.20% | ~58 |
-| A Touch of Acumen | 0.20% | ~58 |
-| Skill and an even stronger will | 0.20% | ~58 |
-| Beatmaker | 0.20% | ~58 |
+| Diligence as a goal | 1.00% | ~293 |
+| The Old Grandmaster | 0.90% | ~6,480 |
+| Life is your teacher | 0.90% | ~6,480 |
+| The Assault | 0.80% | ~5,760 |
+| The Hateful Pole Fighter | 0.80% | ~5,760 |
+| State of constant learning | 0.80% | ~5,760 |
+| Qi Gong: Breath | 0.80% | ~5,760 |
+| Lightning Hands | 0.80% | ~5,760 |
+| Project Arena | 0.80% | ~234 |
+| A Lady's Blood in the Snow | 0.70% | ~5,040 |
+| Qi Gong: Essence | 0.70% | ~5,040 |
+| Path of the Prospect | 0.70% | ~5,040 |
+| Rumble in the Hangar | 0.70% | ~5,040 |
+| Lady Wing Chun | 0.60% | ~4,320 |
+| Furious Fists | 0.60% | ~4,320 |
+| Kill Nil | 0.60% | ~4,320 |
+| Stuntmaster | 0.60% | ~4,320 |
+| Street Fighting | 0.60% | ~4,320 |
+| Old Child | 0.60% | ~4,320 |
+| Take damage to save time | 0.60% | ~4,320 |
+| Fight the way you practice | 0.60% | ~176 |
+| Scareless | 0.50% | ~3,600 |
+| Qi Gong: Mind | 0.50% | ~3,600 |
+| I know Kung-Fu | 0.50% | ~3,600 |
+| Kung-Fu Tussle | 0.50% | ~3,600 |
+| Martial Hub | 0.50% | ~146 |
+| Dance of the Praying Mantis | 0.40% | ~2,880 |
+| Bloody Sport | 0.40% | ~117 |
+| Muk Yan Master | 0.30% | ~2,160 |
+| Tiger on Fire | 0.30% | ~2,160 |
+| Source of Flying Daggers | 0.30% | ~2,160 |
+| Iron Money | 0.30% | ~2,160 |
+| Legendary Talismans of Wuxing | 0.30% | ~2,160 |
+| Detective Story | 0.30% | ~2,160 |
+| The best strikes are the ones we avoid | 0.30% | ~88 |
+| Prodigal Child | 0.20% | ~1,440 |
+| Knowledge Greed | 0.20% | ~1,440 |
+| The 36th Chamber of Kung-Fu | 0.20% | ~1,440 |
+| Sword Stained With Blood | 0.20% | ~1,440 |
+| The Pit Protector | 0.20% | ~1,440 |
+| Deadly Venom | 0.20% | ~59 |
+| A Touch of Acumen | 0.20% | ~59 |
+| Skill and an even stronger will | 0.20% | ~59 |
+| Beatmaker | 0.20% | ~59 |
 | Drunken Fighter | 0.10% | ~720 |
 | Martial Artist | 0.10% | ~720 |
 | Healing Memory | 0.10% | ~720 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~29 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,597 (Ranked 23)  
+Progressed: 719,958 (Ranked 23)  
 Completed: 12,953 (1.80%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 12,953 (1.80%) (Ranked 136)
 | 2023-12-11 | 717,971 | 12,952 |
 | 2023-12-12 | 717,993 | 12,952 |
 | 2023-12-13 | 718,112 | 12,953 |
-| 2023-12-14 | 719,597 | 12,953 |
+| 2023-12-14 | 719,958 | 12,953 |
 ## Awards
 Max (Great Boss Battles): 6,923  (Ranked 55)  
 Sum: 12,152 (Ranked 83)  

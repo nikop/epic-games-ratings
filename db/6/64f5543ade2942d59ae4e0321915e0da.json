@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -581,9 +581,9 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -693,9 +693,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -732,8 +732,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-14T09:05:05.0322299+00:00",
+  "LastChanged_Achievements": "2023-12-14T10:05:37.4924362+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:56.8907916+00:00",
-  "LastUpdate_Ratings": "2023-12-14T09:02:57.2730343+00:00",
-  "LastUpdate_Achievements": "2023-12-14T09:05:05.0322603+00:00"
+  "LastUpdate_Ratings": "2023-12-14T10:03:15.6045963+00:00",
+  "LastUpdate_Achievements": "2023-12-14T10:05:37.4924632+00:00"
 }

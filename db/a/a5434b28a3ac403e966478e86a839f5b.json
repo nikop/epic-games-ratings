@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 614,
+  "EOS_Progressed": 615,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
@@ -2060,6 +2060,11 @@
       "Time": "2023-12-14T05:07:21.8764373+00:00",
       "NumProgressed": 614,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-14T10:07:52.0657256+00:00",
+      "NumProgressed": 615,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2072,7 +2077,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 17,
       "XP": 120,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_eou1",
@@ -2080,7 +2085,7 @@
       "Name": "Establish Communications",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACH_eou2",
@@ -2175,14 +2180,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 614,
+      "Progressed": 615,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-14T09:07:10.8775087+00:00",
+  "LastChanged_Achievements": "2023-12-14T10:07:52.0657253+00:00",
   "LastUpdate_AppInfo": "2023-12-08T03:57:10.4045302+00:00",
-  "LastUpdate_Ratings": "2023-12-14T09:01:31.3808384+00:00",
-  "LastUpdate_Achievements": "2023-12-14T09:07:10.8775359+00:00"
+  "LastUpdate_Ratings": "2023-12-14T10:01:56.3596071+00:00",
+  "LastUpdate_Achievements": "2023-12-14T10:07:52.0657431+00:00"
 }

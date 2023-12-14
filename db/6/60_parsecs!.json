@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 781,
+  "EOS_Progressed": 782,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1026,6 +1026,11 @@
       "Time": "2023-12-13T23:08:22.2189703+00:00",
       "NumProgressed": 781,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T10:08:59.4409701+00:00",
+      "NumProgressed": 782,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -1099,9 +1104,9 @@
       "ID": "Achievement_Crafty",
       "SetID": "c01p6e5",
       "Name": "Crafty",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 375
     },
     {
       "ID": "Achievement_DontPanic",
@@ -1109,7 +1114,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "Achievement_DustToDust",
@@ -1165,7 +1170,7 @@
       "Name": "Fix-It Felix",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Achievement_ForScience",
@@ -1173,7 +1178,7 @@
       "Name": "For Science!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "Achievement_Friendzone",
@@ -1181,7 +1186,7 @@
       "Name": "Friendzone",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -1229,7 +1234,7 @@
       "Name": "Intergalactic Breakup",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Achievement_KIA",
@@ -1269,7 +1274,7 @@
       "Name": "Mutiny in making",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "Achievement_Muttnik",
@@ -1301,7 +1306,7 @@
       "Name": "Second Life",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Achievement_SmallStep",
@@ -1357,7 +1362,7 @@
       "Name": "Stay Cool",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "Achievement_ThatsNoMoon",
@@ -1373,7 +1378,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "Achievement_Traitor",
@@ -1388,7 +1393,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 781,
+      "Progressed": 782,
       "Completed": 1
     }
   ],
@@ -1396,8 +1401,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-12-14T09:08:34.5533859+00:00",
+  "LastChanged_Achievements": "2023-12-14T10:08:59.4409697+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:57.9722804+00:00",
-  "LastUpdate_Ratings": "2023-12-14T09:01:48.700839+00:00",
-  "LastUpdate_Achievements": "2023-12-14T09:08:34.5534149+00:00"
+  "LastUpdate_Ratings": "2023-12-14T10:02:55.168139+00:00",
+  "LastUpdate_Achievements": "2023-12-14T10:08:59.4409972+00:00"
 }

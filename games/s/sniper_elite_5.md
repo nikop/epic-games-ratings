@@ -6,19 +6,19 @@ Rating: 4.44 (Ranked 682)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,885 |
-| Confirming Suspicions | 42.00% | ~1,684 |
+| Confirming Suspicions | 42.00% | ~1,685 |
 | The Kraken Wakes | 37.00% | ~1,484 |
-| It's Starting to Crack | 34.00% | ~1,363 |
+| It's Starting to Crack | 34.00% | ~1,364 |
 | Lord of War | 31.00% | ~1,243 |
 | Change the Channel | 31.00% | ~1,243 |
-| Taking it back | 30.00% | ~1,203 |
-| Resourceful | 28.00% | ~1,123 |
+| Taking it back | 29.00% | ~1,163 |
+| Resourceful | 27.00% | ~1,083 |
 | Target America | 27.00% | ~1,083 |
-| The Kraken Sleeps | 25.00% | ~1,002 |
-| As Quiet as a Mouse | 24.00% | ~962 |
-| Liberté | 23.00% | ~922 |
-| Organ Grinder | 23.00% | ~922 |
-| Sharpshooter | 23.00% | ~922 |
+| The Kraken Sleeps | 25.00% | ~1,003 |
+| As Quiet as a Mouse | 24.00% | ~963 |
+| Liberté | 23.00% | ~923 |
+| Organ Grinder | 23.00% | ~923 |
+| Sharpshooter | 23.00% | ~923 |
 | Gunslinger | 19.00% | ~762 |
 | Explosive Efficiency | 19.00% | ~762 |
 | Climbing the Ladder | 17.00% | ~682 |
@@ -30,9 +30,9 @@ Rating: 4.44 (Ranked 682)
 | No Stone Unturned | 15.00% | ~602 |
 | Skirmisher | 15.00% | ~602 |
 | Die Nussknacker Sweet! | 15.00% | ~602 |
-| Opposing Force | 14.00% | ~561 |
-| Enemy at the Gates | 14.00% | ~561 |
-| Fields of Glory | 14.00% | ~561 |
+| Opposing Force | 14.00% | ~562 |
+| Enemy at the Gates | 14.00% | ~562 |
+| Fields of Glory | 14.00% | ~562 |
 | Set Europe Ablaze | 13.00% | ~521 |
 | Precision Is Key | 10.00% | ~401 |
 | My Little Friend | 10.00% | ~401 |
@@ -40,11 +40,11 @@ Rating: 4.44 (Ranked 682)
 | Herr Today, Gone Tomorrow | 7.00% | ~277 |
 | The Long Game | 6.00% | ~241 |
 | Operation Foxley | 6.00% | ~238 |
-| Strategist | 5.00% | ~200 |
-| Tinkerer | 5.00% | ~200 |
-| It'll Buff Right Out | 5.00% | ~200 |
-| Road Rage | 5.00% | ~200 |
-| Don't hold your breath | 5.00% | ~200 |
+| Strategist | 5.00% | ~201 |
+| Tinkerer | 5.00% | ~201 |
+| It'll Buff Right Out | 5.00% | ~201 |
+| Road Rage | 5.00% | ~201 |
+| Don't hold your breath | 5.00% | ~201 |
 | Last Resort | 5.00% | ~198 |
 | Siegebreaker | 5.00% | ~198 |
 | Ghost of Falaise | 5.00% | ~198 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 682)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,010 (Ranked 199)  
+Progressed: 4,011 (Ranked 199)  
 Completed: 11 (0.27%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 11 (0.27%) (Ranked 246)
 | 2023-12-11 | 4,003 | 11 |
 | 2023-12-12 | 4,006 | 11 |
 | 2023-12-13 | 4,009 | 11 |
-| 2023-12-14 | 4,010 | 11 |
+| 2023-12-14 | 4,011 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 512)  
 Sum: 28 (Ranked 527)  

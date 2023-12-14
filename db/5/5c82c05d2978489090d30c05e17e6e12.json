@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 41,
+  "Ranking_EOS_NewPlayers": 42,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66711,
+  "EOS_Progressed": 66718,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 2471,
+  "EOS_NewPlayers": 2468,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3501,6 +3501,11 @@
       "Time": "2023-12-14T09:05:23.8555693+00:00",
       "NumProgressed": 66711,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-12-14T10:05:57.2790883+00:00",
+      "NumProgressed": 66718,
+      "NumCompleted": 77
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -3513,7 +3518,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 24683
+      "UsersEstimate": 24686
     },
     {
       "ID": "Achievement_10",
@@ -3545,7 +3550,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "Achievement_14",
@@ -3601,7 +3606,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 18012
+      "UsersEstimate": 18014
     },
     {
       "ID": "Achievement_20",
@@ -3641,7 +3646,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2668
+      "UsersEstimate": 2669
     },
     {
       "ID": "Achievement_25",
@@ -3689,7 +3694,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8005
+      "UsersEstimate": 8006
     },
     {
       "ID": "Achievement_30",
@@ -3753,7 +3758,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2668
+      "UsersEstimate": 2669
     },
     {
       "ID": "Achievement_7",
@@ -3761,7 +3766,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "Achievement_8",
@@ -3784,7 +3789,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 66711,
+      "Progressed": 66718,
       "Completed": 77
     }
   ],
@@ -3792,8 +3797,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-13T02:27:02.0751001+00:00",
-  "LastChanged_Achievements": "2023-12-14T09:05:23.8555684+00:00",
+  "LastChanged_Achievements": "2023-12-14T10:05:57.2790879+00:00",
   "LastUpdate_AppInfo": "2023-12-07T13:57:23.1238271+00:00",
-  "LastUpdate_Ratings": "2023-12-14T09:03:23.6179469+00:00",
-  "LastUpdate_Achievements": "2023-12-14T09:05:23.8556169+00:00"
+  "LastUpdate_Ratings": "2023-12-14T10:03:45.5823527+00:00",
+  "LastUpdate_Achievements": "2023-12-14T10:05:57.2791301+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -123,10 +123,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80552,
-  "EOS_Completed": 876,
-  "EOS_NewPlayers": 573,
-  "EOS_NewCompleters": 11,
+  "EOS_Progressed": 80554,
+  "EOS_Completed": 877,
+  "EOS_NewPlayers": 570,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
     {
@@ -26603,6 +26603,11 @@
       "Time": "2023-12-14T09:04:04.3404436+00:00",
       "NumProgressed": 80552,
       "NumCompleted": 876
+    },
+    {
+      "Time": "2023-12-14T10:04:32.0890972+00:00",
+      "NumProgressed": 80554,
+      "NumCompleted": 877
     }
   ],
   "TotalAchievements": 25,
@@ -26646,7 +26651,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17721
+      "UsersEstimate": 17722
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -26654,7 +26659,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14499
+      "UsersEstimate": 14500
     },
     {
       "ID": "Butcher",
@@ -26686,7 +26691,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16110
+      "UsersEstimate": 16111
     },
     {
       "ID": "Hearty",
@@ -26742,7 +26747,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12888
+      "UsersEstimate": 12889
     },
     {
       "ID": "Nothing Left to Say",
@@ -26766,7 +26771,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11277
+      "UsersEstimate": 11278
     },
     {
       "ID": "Sniper",
@@ -26813,16 +26818,16 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 80552,
-      "Completed": 876
+      "Progressed": 80554,
+      "Completed": 877
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-14T09:04:04.3404433+00:00",
+  "LastChanged_Achievements": "2023-12-14T10:04:32.0890969+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:29.3194806+00:00",
   "LastUpdate_Ratings": "2023-12-14T09:01:42.4338718+00:00",
-  "LastUpdate_Achievements": "2023-12-14T09:04:04.3406171+00:00"
+  "LastUpdate_Achievements": "2023-12-14T10:04:32.0892352+00:00"
 }

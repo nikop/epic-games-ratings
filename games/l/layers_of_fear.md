@@ -5,24 +5,24 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Something important | 78.00% | ~87 |
-| Wanderer | 77.00% | ~85 |
-| A piece of the story | 59.00% | ~65 |
-| Do what you have to | 46.00% | ~51 |
+| Wanderer | 76.00% | ~85 |
+| A piece of the story | 59.00% | ~66 |
+| Do what you have to | 46.00% | ~52 |
 | It's covered up for a reason | 45.00% | ~50 |
 | Scraps of love | 44.00% | ~49 |
 | The artist’s impression | 44.00% | ~49 |
-| Refuse to look | 38.00% | ~42 |
-| Sign of weakness | 38.00% | ~42 |
+| Refuse to look | 38.00% | ~43 |
+| Sign of weakness | 38.00% | ~43 |
 | Finished it | 32.00% | ~36 |
-| Face your fears | 30.00% | ~33 |
+| Face your fears | 29.00% | ~32 |
 | Whispers long forgotten | 18.00% | ~20 |
-| Debut | 14.00% | ~16 |
 | Playtime | 14.00% | ~16 |
-| The art of movement | 14.00% | ~16 |
-| The tragedy unfolds | 14.00% | ~16 |
 | Tough conversation | 14.00% | ~16 |
-| A Slice of Life | 13.00% | ~14 |
-| First steps | 13.00% | ~14 |
+| A Slice of Life | 13.00% | ~15 |
+| Debut | 13.00% | ~15 |
+| First steps | 13.00% | ~15 |
+| The art of movement | 13.00% | ~15 |
+| The tragedy unfolds | 13.00% | ~15 |
 | A new way | 12.00% | ~13 |
 | Sound Bite | 12.00% | ~13 |
 | Another perspective | 11.00% | ~12 |
@@ -33,10 +33,10 @@
 | Heavy Burden | 8.00% | ~9 |
 | Fisherman | 7.00% | ~8 |
 | We Are Not Alone | 5.00% | ~6 |
-| The Perfect Storm | 5.00% | ~6 |
 | Something to think about | 4.00% | ~4 |
 | I remember It Like Was Yesterday | 4.00% | ~4 |
 | Body of Work | 4.00% | ~4 |
+| The Perfect Storm | 4.00% | ~4 |
 | Instinct of self-preservation | 4.00% | ~4 |
 | Dark correspondence | 3.00% | ~3 |
 | It was worth a try | 3.00% | ~3 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111 (Ranked 438)  
+Progressed: 112 (Ranked 438)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,4 +109,4 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-08 | 107 | 0 |
 | 2023-12-09 | 108 | 0 |
 | 2023-12-13 | 109 | 0 |
-| 2023-12-14 | 111 | 0 |
+| 2023-12-14 | 112 | 0 |

@@ -4,57 +4,57 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 99.00% | ~402 |
-| Hidden History | 81.00% | ~329 |
-| Commencing of Quests | 73.00% | ~296 |
-| Budding Conjuror | 71.00% | ~288 |
-| Man-Machine Master | 62.00% | ~252 |
-| Charmed by the Hunt | 62.00% | ~252 |
-| Fusion Conjuror | 61.00% | ~248 |
-| Mountain Splitter | 61.00% | ~248 |
-| Subsistence Skills | 61.00% | ~248 |
-| Memory Rouser | 60.00% | ~244 |
-| Kemono Hunter | 56.00% | ~227 |
-| Expert Conjuror | 53.00% | ~215 |
-| Flawless Crystal | 52.00% | ~211 |
-| Distance Devourer | 50.00% | ~203 |
-| Bonds of Enmity | 50.00% | ~203 |
-| Helpful Heart | 50.00% | ~203 |
-| Master of the Skies | 46.00% | ~187 |
-| Counter Specialist | 46.00% | ~187 |
-| Axer of Auspice | 43.00% | ~175 |
-| Mighty Marmelizer | 41.00% | ~166 |
-| Fair Means or Foul | 41.00% | ~166 |
-| Kemono at Heart | 38.00% | ~154 |
-| Single Minded | 37.00% | ~150 |
-| Snare Specialist | 37.00% | ~150 |
-| Artful Assister | 35.00% | ~142 |
-| Karakuri Trail | 34.00% | ~138 |
-| Team Hunter | 32.00% | ~130 |
-| Reincarnation Cycle Stopper | 32.00% | ~130 |
-| Karakuri Isle | 30.00% | ~122 |
-| Unrivaled in Arms | 26.00% | ~106 |
-| Left Arm Leverager | 25.00% | ~102 |
-| Style Seeker | 25.00% | ~102 |
-| Human Believer | 25.00% | ~102 |
-| Canyon of Karakuri | 24.00% | ~97 |
-| Karakuri Minato | 24.00% | ~97 |
-| Threaded Harmony | 23.00% | ~93 |
-| Quintessence of Form | 21.00% | ~85 |
-| Karakuri Fortress | 19.00% | ~77 |
-| Jack of All Trades | 19.00% | ~77 |
-| Haven Hunter | 18.00% | ~73 |
-| Volatile Vocation | 17.00% | ~69 |
-| Tender Touch | 16.00% | ~65 |
-| Superlative View | 16.00% | ~65 |
-| Relentless Kemono Hunter | 13.00% | ~53 |
-| Vanquisher of the Volatile | 13.00% | ~53 |
-| Big Spender | 11.00% | ~45 |
-| Bewitched by Bathing | 10.00% | ~41 |
-| Tsukumo Whisperer | 6.00% | ~24 |
+| Land of the Rising Sun | 99.00% | ~408 |
+| Hidden History | 80.00% | ~330 |
+| Commencing of Quests | 72.00% | ~297 |
+| Budding Conjuror | 71.00% | ~293 |
+| Man-Machine Master | 61.00% | ~251 |
+| Charmed by the Hunt | 61.00% | ~251 |
+| Fusion Conjuror | 60.00% | ~247 |
+| Mountain Splitter | 60.00% | ~247 |
+| Subsistence Skills | 60.00% | ~247 |
+| Memory Rouser | 59.00% | ~243 |
+| Kemono Hunter | 55.00% | ~227 |
+| Expert Conjuror | 52.00% | ~214 |
+| Flawless Crystal | 51.00% | ~210 |
+| Bonds of Enmity | 50.00% | ~206 |
+| Helpful Heart | 50.00% | ~206 |
+| Distance Devourer | 49.00% | ~202 |
+| Master of the Skies | 45.00% | ~185 |
+| Counter Specialist | 45.00% | ~185 |
+| Axer of Auspice | 42.00% | ~173 |
+| Mighty Marmelizer | 40.00% | ~165 |
+| Fair Means or Foul | 40.00% | ~165 |
+| Single Minded | 37.00% | ~152 |
+| Kemono at Heart | 37.00% | ~152 |
+| Snare Specialist | 36.00% | ~148 |
+| Artful Assister | 35.00% | ~144 |
+| Karakuri Trail | 33.00% | ~136 |
+| Team Hunter | 32.00% | ~132 |
+| Reincarnation Cycle Stopper | 31.00% | ~128 |
+| Karakuri Isle | 29.00% | ~119 |
+| Unrivaled in Arms | 26.00% | ~107 |
+| Left Arm Leverager | 25.00% | ~103 |
+| Style Seeker | 25.00% | ~103 |
+| Human Believer | 25.00% | ~103 |
+| Karakuri Minato | 24.00% | ~99 |
+| Canyon of Karakuri | 23.00% | ~95 |
+| Threaded Harmony | 23.00% | ~95 |
+| Quintessence of Form | 20.00% | ~82 |
+| Karakuri Fortress | 19.00% | ~78 |
+| Jack of All Trades | 19.00% | ~78 |
+| Haven Hunter | 18.00% | ~74 |
+| Volatile Vocation | 17.00% | ~70 |
+| Tender Touch | 16.00% | ~66 |
+| Superlative View | 16.00% | ~66 |
+| Relentless Kemono Hunter | 13.00% | ~54 |
+| Vanquisher of the Volatile | 12.00% | ~49 |
+| Big Spender | 10.00% | ~41 |
+| Bewitched by Bathing | 9.00% | ~37 |
+| Tsukumo Whisperer | 6.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406 (Ranked 335)  
-Completed: 8 (1.97%) (Ranked 130)  
+Progressed: 412 (Ranked 336)  
+Completed: 8 (1.94%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -143,4 +143,4 @@ Completed: 8 (1.97%) (Ranked 130)
 | 2023-12-11 | 381 | 8 |
 | 2023-12-12 | 384 | 8 |
 | 2023-12-13 | 394 | 8 |
-| 2023-12-14 | 406 | 8 |
+| 2023-12-14 | 412 | 8 |

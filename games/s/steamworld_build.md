@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Mathematic | 85.00% | ~73 |
 | It's Yours, My Friend | 71.00% | ~61 |
-| Going Places | 69.00% | ~59 |
+| Going Places | 70.00% | ~60 |
 | Conducted Trade | 67.00% | ~58 |
 | Aristocratic | 64.00% | ~55 |
 | Digging a Hole | 64.00% | ~55 |

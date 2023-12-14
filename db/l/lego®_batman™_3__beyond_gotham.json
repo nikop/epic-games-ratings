@@ -3,11 +3,11 @@
   "Name": "LEGO\u00AE Batman\u2122 3: Beyond Gotham",
   "ProductSlug": "lego-batman-3",
   "Ranking_Rating": 453,
-  "Ranking_Popularity": 274,
+  "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 391,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 477,
+  "Ranking_EOS_NewPlayers": 478,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2014-11-11T15:00:00+00:00",
@@ -708,6 +708,6 @@
   "FirstSeen": "2022-07-22T20:28:16.9494589+00:00",
   "LastChanged": "2023-12-09T01:44:59.7557368+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:12.8178158+00:00",
-  "LastUpdate_Ratings": "2023-12-14T09:00:48.7338986+00:00",
-  "LastUpdate_Achievements": "2023-12-14T09:04:43.8183587+00:00"
+  "LastUpdate_Ratings": "2023-12-14T10:01:13.040155+00:00",
+  "LastUpdate_Achievements": "2023-12-14T10:05:15.0310859+00:00"
 }

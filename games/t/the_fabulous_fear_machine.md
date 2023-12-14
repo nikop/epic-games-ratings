@@ -20,14 +20,14 @@
 | Pulp! Adventures into the Unknown | 13.00% | ~6 |
 | Diagnosis: fear | 13.00% | ~6 |
 | Ambition is... blind | 13.00% | ~6 |
-| You have two wishes left | 10.00% | ~5 |
+| You have two wishes left | 13.00% | ~6 |
 | You had one wish left | 8.00% | ~4 |
+| Et in arcadia ego | 8.00% | ~4 |
 | Kirlian's best disciple | 8.00% | ~4 |
 | You've awakened the beast | 6.00% | ~3 |
 | Hate is... addictive | 6.00% | ~3 |
 | Bread and bocaua | 6.00% | ~3 |
 | Fanatacism is... poisonous | 6.00% | ~3 |
-| Et in arcadia ego | 6.00% | ~3 |
 | The bully | 6.00% | ~3 |
 | The adventurer | 6.00% | ~3 |
 | ECO mode | 6.00% | ~3 |

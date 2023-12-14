@@ -6,25 +6,25 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 5.00% | ~85 |
-| This guy... again? | 3.00% | ~51 |
+| Malpractice Assurance | 5.00% | ~87 |
+| This guy... again? | 3.00% | ~52 |
 | This Belongs in a Museum | 2.00% | ~2,537 |
 | Not Today! | 2.00% | ~2,537 |
 | Catch and Decease | 2.00% | ~2,537 |
 | Overdue Notice | 2.00% | ~2,537 |
 | Escape from the Black Hole | 2.00% | ~2,537 |
 | Autodidact | 2.00% | ~2,537 |
-| Bloody Graduation | 2.00% | ~34 |
-| Lost and Found | 2.00% | ~34 |
-| Creep and Sleep | 1.00% | ~1,268 |
-| Meat and Greet | 1.00% | ~1,268 |
+| Bloody Graduation | 2.00% | ~35 |
+| Lost and Found | 2.00% | ~35 |
+| Serenity Now! | 1.00% | ~1,269 |
+| Creep and Sleep | 1.00% | ~1,269 |
+| Meat and Greet | 1.00% | ~1,269 |
 | Ploughshares to Swords | 1.00% | ~17 |
-| Serenity Now! | 0.90% | ~1,142 |
 | Rush Hour | 0.90% | ~1,142 |
 | To Grandmother's House | 0.90% | ~1,142 |
+| FNG | 0.90% | ~1,142 |
 | Don't Make Me Turn This Coach Around | 0.80% | ~1,015 |
 | It Rings a Bell | 0.80% | ~1,015 |
-| FNG | 0.80% | ~1,015 |
 | Friends 'Til the End | 0.80% | ~14 |
 | Dissector | 0.70% | ~888 |
 | Deprogramming | 0.70% | ~888 |
@@ -35,9 +35,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 0.70% | ~888 |
 | Worldly Traveller | 0.70% | ~888 |
 | Nope | 0.70% | ~888 |
+| Predator | 0.60% | ~761 |
 | Banishment | 0.60% | ~761 |
 | Now Stay Dead | 0.60% | ~761 |
+| Reverse Banditry | 0.60% | ~761 |
 | Spelunker | 0.60% | ~761 |
+| Ramble On | 0.60% | ~761 |
 | Road Trip | 0.60% | ~761 |
 | Resurrection | 0.50% | ~634 |
 | Unleash Hell | 0.50% | ~634 |
@@ -46,9 +49,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Wyrdly Reconstructed | 0.50% | ~634 |
 | Boxcar Kid | 0.50% | ~634 |
 | Unfulfilled Desires | 0.50% | ~634 |
-| Predator | 0.50% | ~634 |
-| Reverse Banditry | 0.50% | ~634 |
-| Ramble On | 0.50% | ~634 |
 | A Clear Conscience | 0.50% | ~634 |
 | When You Want Something Done Right | 0.50% | ~634 |
 | Unshackled | 0.50% | ~634 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,840 (Ranked 84)  
+Progressed: 126,865 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 3 (0.00%) (Ranked 374)
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
-| 2023-12-14 | 126,840 | 3 |
+| 2023-12-14 | 126,865 | 3 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 51)  
 Sum: 20,380 (Ranked 59)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1783,
+  "EOS_Progressed": 1784,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4568,6 +4568,11 @@
       "Time": "2023-12-14T00:09:02.3547861+00:00",
       "NumProgressed": 1783,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T10:09:58.3248939+00:00",
+      "NumProgressed": 1784,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4611,7 +4616,7 @@
       "Name": "Hard Landing",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT_HISTORICAL_PLACES",
@@ -4699,7 +4704,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -4755,7 +4760,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -4849,9 +4854,9 @@
       "ID": "NEW_ACHIEVEMENT_OCCUPY_MARS",
       "SetID": "l546gc",
       "Name": "Occupy Mars!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 535
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -4962,7 +4967,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1783,
+      "Progressed": 1784,
       "Completed": 0
     }
   ],
@@ -4970,8 +4975,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-06T17:58:25.3194639+00:00",
-  "LastChanged_Achievements": "2023-12-14T09:09:28.7016158+00:00",
+  "LastChanged_Achievements": "2023-12-14T10:09:58.3248934+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:00.8104796+00:00",
-  "LastUpdate_Ratings": "2023-12-14T08:59:22.509551+00:00",
-  "LastUpdate_Achievements": "2023-12-14T09:09:28.7016573+00:00"
+  "LastUpdate_Ratings": "2023-12-14T09:59:39.3235847+00:00",
+  "LastUpdate_Achievements": "2023-12-14T10:09:58.3249478+00:00"
 }
