@@ -397,6 +397,7 @@
 | [Imagine Earth](../games/i/imagine_earth.md) | 24 | 1,000 |
 | [Immortals of Aveum™](../games/i/immortals_of_aveum™.md) | 47 | 1,000 |
 | [Indoor Kickball](../games/i/indoor_kickball.md) | 40 | 1,000 |
+| [Indoorlands](../games/e/e920c823522745c88a85e396965afc62.md) | 31 | 1,000 |
 | [Infindustry](../games/i/infindustry.md) | 12 | 1,000 |
 | [Influent](../games/3/3d27fbb922a04299b8401e1b50c55619.md) | 12 | 1,000 |
 | [Insomnis](../games/i/insomnis.md) | 27 | 1,000 |
