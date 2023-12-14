@@ -6,17 +6,17 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~448,769 |
-| The Three | 64.00% | ~346,039 |
-| The Banquet | 40.00% | ~216,274 |
+| Find Sanctuary | 83.00% | ~448,771 |
+| The Three | 64.00% | ~346,040 |
+| The Banquet | 40.00% | ~216,275 |
 | Devara's Light | 31.00% | ~167,613 |
-| The Iron Ones | 19.00% | ~102,730 |
+| The Iron Ones | 19.00% | ~102,731 |
 | The Village | 17.00% | ~91,917 |
 | The Forest | 15.00% | ~81,103 |
 | The Imposter | 14.00% | ~75,696 |
 | The Keep | 14.00% | ~75,696 |
 | Branded | 13.00% | ~70,289 |
-| The Castle | 11.00% | ~59,475 |
+| The Castle | 11.00% | ~59,476 |
 | The Dome | 9.00% | ~48,662 |
 | The Red Hall | 9.00% | ~48,662 |
 | The Sacrifice | 9.00% | ~48,662 |
@@ -30,10 +30,10 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Ruins | 6.00% | ~32,441 |
 | The Alkymancery | 5.00% | ~27,034 |
 | The Pitchwoods | 5.00% | ~27,034 |
-| Honed | 4.00% | ~21,627 |
-| The House of Splendor | 4.00% | ~21,627 |
-| The Crypt | 4.00% | ~21,627 |
-| The Palace | 4.00% | ~21,627 |
+| Honed | 4.00% | ~21,628 |
+| The House of Splendor | 4.00% | ~21,628 |
+| The Crypt | 4.00% | ~21,628 |
+| The Palace | 4.00% | ~21,628 |
 | Find Salvation | 3.00% | ~16,221 |
 | The Unspeakable Deep | 3.00% | ~16,221 |
 | Coastrock | 2.00% | ~10,814 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,814 |
 | Fading Fast | 1.00% | ~5,407 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 540,686 (Ranked 34)  
+Progressed: 540,688 (Ranked 34)  
 Completed: 1,643 (0.30%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,10 +282,10 @@ Completed: 1,643 (0.30%) (Ranked 241)
 | 2023-12-11 | 540,544 | 1,641 |
 | 2023-12-12 | 540,612 | 1,641 |
 | 2023-12-13 | 540,678 | 1,642 |
-| 2023-12-14 | 540,686 | 1,643 |
+| 2023-12-14 | 540,688 | 1,643 |
 ## Awards
 Max (Challenging Combat): 294  (Ranked 257)  
-Sum: 2,008 (Ranked 215)  
+Sum: 2,009 (Ranked 215)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -295,7 +295,7 @@ Diff (max vs sum): 42
 | This game is Extremely Fun | 246 |
 | This game has Diverse Characters | 245 |
 | This game has Amazing Storytelling | 236 |
-| This game has Amazing Characters | 231 |
+| This game has Amazing Characters | 232 |
 | This game has Unique Visuals | 227 |
 | This game has Obsessive Gameplay | 164 |
 | This game has a Creative Community | 94 |
@@ -492,3 +492,4 @@ Diff (max vs sum): 42
 | 2023-11-29 | 4.61 | - | 294 | 2,006 |
 | 2023-12-07 | 4.61 | - | 294 | 2,007 |
 | 2023-12-11 | 4.61 | - | 294 | 2,008 |
+| 2023-12-14 | 4.61 | - | 294 | 2,009 |

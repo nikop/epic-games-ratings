@@ -1219,10 +1219,16 @@
       "Rating": 4.15,
       "NumberOfAwards": 414,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2023-12-14T03:59:20.2278124+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 416,
+      "NumberOfAwardsMax": 104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 414,
+  "NumberOfAwards": 416,
   "NumberOfAwardsMax": 104,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1272,7 +1278,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 47
+      "Count": 49
     },
     {
       "Text": "This game is Relaxing",
@@ -1287,9 +1293,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 68570,
+  "EOS_Progressed": 68573,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -12487,6 +12493,11 @@
       "Time": "2023-12-14T03:05:34.1416617+00:00",
       "NumProgressed": 68570,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-14T04:05:51.3417474+00:00",
+      "NumProgressed": 68573,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -12499,7 +12510,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 24685
+      "UsersEstimate": 24686
     },
     {
       "ID": "10",
@@ -12626,16 +12637,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 68570,
+      "Progressed": 68573,
       "Completed": 39
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-12-13T17:59:28.7415942+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:05:34.1416615+00:00",
+  "LastChanged": "2023-12-14T03:59:20.2278123+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:05:51.3417462+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:19.3364255+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:59:15.2381833+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:05:34.1417078+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:59:20.2278128+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:05:51.3418123+00:00"
 }

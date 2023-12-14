@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -789,9 +789,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3353,
+  "EOS_Progressed": 3354,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4124,6 +4124,11 @@
       "Time": "2023-12-14T01:53:03.9432312+00:00",
       "NumProgressed": 3353,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T04:06:55.9178141+00:00",
+      "NumProgressed": 3354,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4285,9 +4290,9 @@
       "ID": "KadexCaptured",
       "SetID": "3jha1np",
       "Name": "Daemonkeeper",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 67
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -4605,9 +4610,9 @@
       "ID": "AllAssassinsAcquired",
       "SetID": "2im8phi",
       "Name": "Execution Force",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 67
     },
     {
       "ID": "ExperiencedCallidus",
@@ -4678,21 +4683,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3353,
+      "Progressed": 3354,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3353,
+      "Progressed": 3354,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-12T16:03:26.7422514+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:06:31.5384364+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:06:55.9178137+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:10.0749768+00:00",
-  "LastUpdate_Ratings": "2023-12-14T03:03:20.6259553+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:06:31.5384913+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:03:21.1114258+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:06:55.9178781+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1328,
+  "EOS_Progressed": 1329,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.52,
+  "EOS_Completed_Percentage": 4.51,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -2794,6 +2794,11 @@
       "Time": "2023-12-14T02:31:39.5908616+00:00",
       "NumProgressed": 1328,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-14T04:10:00.6013836+00:00",
+      "NumProgressed": 1329,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 16,
@@ -2813,7 +2818,7 @@
       "Name": "Deep Listener",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -2859,17 +2864,17 @@
       "ID": "ACH_HOMELEAVER",
       "SetID": "7pam6gn",
       "Name": "Home Leaver",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1090
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
       "SetID": "7pam6gn",
       "Name": "Journal Beautifier",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1090
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -2893,7 +2898,7 @@
       "Name": "Outside World Seer",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -2925,14 +2930,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1328,
+      "Progressed": 1329,
       "Completed": 60
     }
   ],
@@ -2940,8 +2945,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:09:44.8569506+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:10:00.601383+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:10.6887118+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:57:44.4615859+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:09:44.8569728+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:57:39.5418072+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:10:00.6014062+00:00"
 }

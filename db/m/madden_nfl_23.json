@@ -4,10 +4,10 @@
   "ProductSlug": "madden-nfl-23",
   "Ranking_Rating": 864,
   "Ranking_Popularity": 461,
-  "Ranking_PopularitySum": 434,
+  "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -881,18 +881,24 @@
       "Rating": 4.28,
       "NumberOfAwards": 141,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2023-12-14T04:03:15.2277547+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 142,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 141,
-  "NumberOfAwardsMax": 41,
+  "NumberOfAwards": 142,
+  "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has a Competitive Community",
@@ -919,9 +925,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3967,
+  "EOS_Progressed": 3969,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7044,6 +7050,11 @@
       "Time": "2023-12-14T01:51:49.7095434+00:00",
       "NumProgressed": 3967,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T04:05:31.7149238+00:00",
+      "NumProgressed": 3969,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7064,7 +7075,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "achievement_11",
@@ -7080,7 +7091,7 @@
       "Name": "Stud Finder",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "achievement_13",
@@ -7088,7 +7099,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2103
+      "UsersEstimate": 2104
     },
     {
       "ID": "achievement_14",
@@ -7096,7 +7107,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "achievement_15",
@@ -7104,7 +7115,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2142
+      "UsersEstimate": 2143
     },
     {
       "ID": "achievement_16",
@@ -7112,7 +7123,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "achievement_17",
@@ -7166,9 +7177,9 @@
       "ID": "achievement_3",
       "SetID": "c8fif6p",
       "Name": "Throwin\u2019 Dots",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 674
+      "UsersEstimate": 714
     },
     {
       "ID": "achievement_4",
@@ -7184,7 +7195,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "achievement_6",
@@ -7223,16 +7234,16 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3967,
+      "Progressed": 3969,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-10-21T06:01:19.8599973+00:00",
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
-  "LastChanged": "2023-12-12T01:51:23.6885803+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:05:16.172101+00:00",
+  "LastChanged": "2023-12-14T04:03:15.2277546+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:05:31.7149234+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:06.4979086+00:00",
-  "LastUpdate_Ratings": "2023-12-14T03:03:15.3784981+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:05:16.1721361+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:03:15.227755+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:05:31.7149639+00:00"
 }

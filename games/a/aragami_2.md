@@ -1,24 +1,24 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.56 (Ranked 498)  
+Rating: 4.56 (Ranked 499)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,203 |
-| First Steps | 80.00% | ~35,443 |
-| Control the Shadows | 67.00% | ~29,684 |
-| Tools of the Trade | 63.00% | ~27,912 |
-| Apprentice | 60.00% | ~26,582 |
-| Secret Seeker | 57.00% | ~25,253 |
-| Forge of Assassins | 55.00% | ~24,367 |
-| Revenant | 52.00% | ~23,038 |
-| I don’t Care! | 45.00% | ~19,937 |
-| Bird of Prey | 37.00% | ~16,392 |
-| Engraved with Power | 32.00% | ~14,177 |
-| Lady | 31.00% | ~13,734 |
-| Fashionable Assassin | 27.00% | ~11,962 |
+| Awakening | 93.00% | ~41,205 |
+| First Steps | 80.00% | ~35,445 |
+| Control the Shadows | 67.00% | ~29,685 |
+| Tools of the Trade | 63.00% | ~27,913 |
+| Apprentice | 60.00% | ~26,584 |
+| Secret Seeker | 57.00% | ~25,254 |
+| Forge of Assassins | 55.00% | ~24,368 |
+| Revenant | 52.00% | ~23,039 |
+| I don’t Care! | 45.00% | ~19,938 |
+| Bird of Prey | 37.00% | ~16,393 |
+| Engraved with Power | 32.00% | ~14,178 |
+| Lady | 31.00% | ~13,735 |
+| Fashionable Assassin | 27.00% | ~11,963 |
 | Apex Predator | 24.00% | ~10,633 |
 | Soul Reaver | 23.00% | ~10,190 |
 | Embers | 22.00% | ~9,747 |
@@ -30,12 +30,12 @@ Number of Ratings: 88  (23.09.2022)
 | Family | 14.00% | ~6,203 |
 | War Engines | 14.00% | ~6,203 |
 | Signature Move | 14.00% | ~6,203 |
-| Ruse | 12.00% | ~5,316 |
-| Master Ninja | 11.00% | ~4,873 |
-| Hatching | 10.00% | ~4,430 |
-| Bonds | 9.00% | ~3,987 |
-| Get Over Here | 9.00% | ~3,987 |
-| The Hidden Village | 9.00% | ~3,987 |
+| Ruse | 12.00% | ~5,317 |
+| Master Ninja | 11.00% | ~4,874 |
+| Hatching | 10.00% | ~4,431 |
+| Bonds | 9.00% | ~3,988 |
+| Get Over Here | 9.00% | ~3,988 |
+| The Hidden Village | 9.00% | ~3,988 |
 | Denouement | 8.00% | ~3,544 |
 | A Pleasant Stay | 8.00% | ~3,544 |
 | Pilgrimage | 7.00% | ~3,101 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~886 |
 | Legacy | 2.00% | ~886 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,304 (Ranked 117)  
+Progressed: 44,306 (Ranked 117)  
 Completed: 245 (0.55%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,6 +289,7 @@ Completed: 245 (0.55%) (Ranked 203)
 | 2023-12-11 | 44,290 | 245 |
 | 2023-12-12 | 44,300 | 245 |
 | 2023-12-13 | 44,304 | 245 |
+| 2023-12-14 | 44,306 | 245 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

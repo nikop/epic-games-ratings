@@ -3,11 +3,11 @@
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_Rating": 389,
-  "Ranking_Popularity": 562,
-  "Ranking_PopularitySum": 562,
+  "Ranking_Popularity": 563,
+  "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -3320,9 +3320,9 @@
       "ID": "GSS_ACH_19_RUDY",
       "SetID": "5fn8ia4",
       "Name": "Rudy!",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1166
     },
     {
       "ID": "GSS_ACH_20_DECORATION_01",
@@ -3833,8 +3833,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:04:03.2507777+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:04:09.3109374+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-14T03:00:50.4273542+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:04:03.250871+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:01:07.9004381+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:04:09.3110345+00:00"
 }

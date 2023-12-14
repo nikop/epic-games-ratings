@@ -3,8 +3,8 @@
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
   "Ranking_Rating": 654,
-  "Ranking_Popularity": 562,
-  "Ranking_PopularitySum": 562,
+  "Ranking_Popularity": 563,
+  "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 146,
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252119,
+  "EOS_Progressed": 252120,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21217,6 +21217,11 @@
       "Time": "2023-12-14T03:09:48.2314469+00:00",
       "NumProgressed": 252119,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-14T04:10:04.4153969+00:00",
+      "NumProgressed": 252120,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -21324,7 +21329,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45381
+      "UsersEstimate": 45382
     },
     {
       "ID": "curator",
@@ -21404,7 +21409,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133623
+      "UsersEstimate": 133624
     },
     {
       "ID": "indegestible",
@@ -21548,7 +21553,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32775
+      "UsersEstimate": 32776
     },
     {
       "ID": "treeMedalist",
@@ -21595,7 +21600,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252119,
+      "Progressed": 252120,
       "Completed": 6
     }
   ],
@@ -21603,8 +21608,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:09:48.2314466+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:10:04.4153966+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.3008765+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:59:43.4365533+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:09:48.231552+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:59:53.1616007+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:10:04.4154947+00:00"
 }

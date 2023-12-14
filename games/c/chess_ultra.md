@@ -5,30 +5,30 @@ Rating: 4.30 (Ranked 850)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~155,309 |
-| Doubled Pawn | 57.00% | ~126,466 |
-| Check | 55.00% | ~122,029 |
-| Absolute pin | 47.00% | ~104,279 |
-| Promotion | 31.00% | ~68,780 |
-| Checkmate | 30.00% | ~66,561 |
-| O-O | 24.00% | ~53,249 |
-| Spanish Bishop | 21.00% | ~46,593 |
-| Queen Sacrifice | 20.00% | ~44,374 |
-| Stalemate | 18.00% | ~39,937 |
-| O-O-O | 13.00% | ~28,843 |
-| Octopus | 13.00% | ~28,843 |
-| Stranger Danger | 12.00% | ~26,624 |
-| En Passant | 9.00% | ~19,968 |
+| Chop Wood | 70.00% | ~155,314 |
+| Doubled Pawn | 57.00% | ~126,470 |
+| Check | 55.00% | ~122,032 |
+| Absolute pin | 47.00% | ~104,282 |
+| Promotion | 31.00% | ~68,782 |
+| Checkmate | 30.00% | ~66,563 |
+| O-O | 24.00% | ~53,250 |
+| Spanish Bishop | 21.00% | ~46,594 |
+| Queen Sacrifice | 20.00% | ~44,375 |
+| Stalemate | 18.00% | ~39,938 |
+| O-O-O | 13.00% | ~28,844 |
+| Octopus | 13.00% | ~28,844 |
+| Stranger Danger | 12.00% | ~26,625 |
+| En Passant | 9.00% | ~19,969 |
 | Double Check | 7.00% | ~15,531 |
-| Family Fork | 6.00% | ~13,312 |
-| Piece Collector | 6.00% | ~13,312 |
+| Family Fork | 6.00% | ~13,313 |
+| Piece Collector | 6.00% | ~13,313 |
 | ELO | 5.00% | ~11,094 |
 | Friendly Fire | 5.00% | ~11,094 |
 | Underpromote | 4.00% | ~8,875 |
 | ELO ELO | 3.00% | ~6,656 |
 | Learner | 3.00% | ~6,656 |
-| Blind Pigs | 2.00% | ~4,437 |
-| ELO ELO ELO | 2.00% | ~4,437 |
+| Blind Pigs | 2.00% | ~4,438 |
+| ELO ELO ELO | 2.00% | ~4,438 |
 | Bobby Time | 1.00% | ~2,219 |
 | Back-rank Mate | 0.90% | ~1,997 |
 | Chess Champion | 0.30% | ~666 |
@@ -44,7 +44,7 @@ Rating: 4.30 (Ranked 850)
 | Tournament Master | 0.10% | ~222 |
 | Tournament Pro | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,870 (Ranked 71)  
+Progressed: 221,877 (Ranked 71)  
 Completed: 2 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 2 (0.00%) (Ranked 374)
 | 2023-12-11 | 221,614 | 2 |
 | 2023-12-12 | 221,723 | 2 |
 | 2023-12-13 | 221,839 | 2 |
-| 2023-12-14 | 221,870 | 2 |
+| 2023-12-14 | 221,877 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

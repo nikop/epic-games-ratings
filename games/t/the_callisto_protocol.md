@@ -1,26 +1,26 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 938)  
+Rating: 4.19 (Ranked 939)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 10.00% | ~1,659 |
-| Paper Jams | 9.00% | ~1,493 |
-| Flesh Wound | 8.00% | ~1,327 |
-| Float Like A Butterfly | 8.00% | ~1,327 |
-| Chew 'Em Up | 7.00% | ~1,161 |
-| The Outer Way | 7.00% | ~1,161 |
-| Two Heads Are Better Than One | 6.00% | ~995 |
-| Workplace Hazard | 6.00% | ~995 |
-| Reforged | 6.00% | ~995 |
-| If the SHU Fits... | 6.00% | ~995 |
-| Without A Paddle | 6.00% | ~995 |
-| In the Pipe, Five by Five | 6.00% | ~995 |
-| Desperate Times | 6.00% | ~995 |
-| Crash Site | 6.00% | ~995 |
-| Full Circle | 6.00% | ~995 |
-| Power Up | 6.00% | ~995 |
+| Get a Grip | 10.00% | ~1,660 |
+| Paper Jams | 9.00% | ~1,494 |
+| Flesh Wound | 8.00% | ~1,328 |
+| Float Like A Butterfly | 8.00% | ~1,328 |
+| Chew 'Em Up | 7.00% | ~1,162 |
+| The Outer Way | 7.00% | ~1,162 |
+| Two Heads Are Better Than One | 6.00% | ~996 |
+| Workplace Hazard | 6.00% | ~996 |
+| Reforged | 6.00% | ~996 |
+| If the SHU Fits... | 6.00% | ~996 |
+| Without A Paddle | 6.00% | ~996 |
+| In the Pipe, Five by Five | 6.00% | ~996 |
+| Desperate Times | 6.00% | ~996 |
+| Crash Site | 6.00% | ~996 |
+| Full Circle | 6.00% | ~996 |
+| Power Up | 6.00% | ~996 |
 | Keep Fighting | 6.00% | ~271 |
 | You Need a Gun | 5.00% | ~830 |
 | I Do Belong Here | 5.00% | ~830 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 938)
 | Bear Trap | 0.10% | ~5 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,591 (Ranked 150)  
+Progressed: 16,597 (Ranked 150)  
 Completed: 81 (0.49%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 81 (0.49%) (Ranked 213)
 | 2023-12-10 | 16,523 | 81 |
 | 2023-12-11 | 16,525 | 81 |
 | 2023-12-13 | 16,561 | 81 |
-| 2023-12-14 | 16,591 | 81 |
+| 2023-12-14 | 16,597 | 81 |
 ## Awards
 Max (Quickly Understood Controls): 85  (Ranked 389)  
 Sum: 506 (Ranked 327)  

@@ -4,7 +4,7 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
@@ -1912,9 +1912,9 @@
       "ID": "ACH_GO_TO_MISSION_WITHOUT_NEEDED_ITEMS",
       "SetID": "al4k4nh",
       "Name": "I like the risk",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_LISTEN_ALL_MUSIC",
@@ -1999,8 +1999,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:09:33.5030071+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:09:47.3096437+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:19.9363988+00:00",
-  "LastUpdate_Ratings": "2023-12-14T03:00:37.1840083+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:09:33.5030289+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:00:53.2535111+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:09:47.3096669+00:00"
 }

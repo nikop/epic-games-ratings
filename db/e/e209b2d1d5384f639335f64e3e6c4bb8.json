@@ -3,8 +3,8 @@
   "Name": "Homeworld: Deserts of Kharak",
   "ProductSlug": "homeworld-deserts-of-kharak",
   "Ranking_Rating": 728,
-  "Ranking_Popularity": 554,
-  "Ranking_PopularitySum": 556,
+  "Ranking_Popularity": 555,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 45,
@@ -263,9 +263,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 331806,
+  "EOS_Progressed": 331816,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1936,
+  "EOS_NewPlayers": 1943,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13643,6 +13643,11 @@
       "Time": "2023-12-14T03:05:33.8573114+00:00",
       "NumProgressed": 331806,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T04:05:51.1405145+00:00",
+      "NumProgressed": 331816,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -13679,7 +13684,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 145995
+      "UsersEstimate": 145999
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -13687,7 +13692,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 106178
+      "UsersEstimate": 106181
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -13695,7 +13700,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 69679
+      "UsersEstimate": 69681
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -13703,7 +13708,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 49771
+      "UsersEstimate": 49772
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -13711,7 +13716,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 39817
+      "UsersEstimate": 39818
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -13719,7 +13724,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 33181
+      "UsersEstimate": 33182
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -13743,7 +13748,7 @@
       "Name": "The Whispering Gallery",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 26544
+      "UsersEstimate": 26545
     },
     {
       "ID": "ACHV_M10_COMPLETE",
@@ -13751,7 +13756,7 @@
       "Name": "Khashar Approach",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 26544
+      "UsersEstimate": 26545
     },
     {
       "ID": "ACHV_M11_COMPLETE",
@@ -13759,7 +13764,7 @@
       "Name": "Khashar Plateau",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 23226
+      "UsersEstimate": 23227
     },
     {
       "ID": "ACHV_M12_COMPLETE",
@@ -13767,7 +13772,7 @@
       "Name": "Torin Crater",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 23226
+      "UsersEstimate": 23227
     },
     {
       "ID": "ACHV_M13_COMPLETE",
@@ -13775,7 +13780,7 @@
       "Name": "Khar-Toba Site",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 19908
+      "UsersEstimate": 19909
     },
     {
       "ID": "ACHV_MP_1V1_TIER_LV_1",
@@ -14031,20 +14036,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 169221
+      "UsersEstimate": 169226
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 331806,
+      "Progressed": 331816,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 331795,
+      "Progressed": 331805,
       "Completed": 1
     }
   ],
@@ -14052,8 +14057,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-12-11T01:46:59.4340581+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:05:33.8573111+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:05:51.1405139+00:00",
   "LastUpdate_AppInfo": "2023-12-08T02:20:40.3139242+00:00",
-  "LastUpdate_Ratings": "2023-12-14T03:00:35.2437525+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:05:33.8574245+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:00:51.052866+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:05:51.1405995+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "e6059b123f9045878919974afd435691",
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
-  "Ranking_EOS_Progress": 266,
+  "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1083,
+  "EOS_Progressed": 1084,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2819,6 +2819,11 @@
       "Time": "2023-12-13T22:10:03.2563696+00:00",
       "NumProgressed": 1083,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T04:10:25.1730228+00:00",
+      "NumProgressed": 1084,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2846,7 +2851,7 @@
       "Name": "FULLCLIP",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -2974,7 +2979,7 @@
       "Name": "Completing The Duty",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "BURN_ACHIEVEMENT_5",
@@ -3030,7 +3035,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -3046,7 +3051,7 @@
       "Name": "Fire Alarm",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -3150,7 +3155,7 @@
       "Name": "And There We Go",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -3166,7 +3171,7 @@
       "Name": "50 Shades of Lackeys",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "KLEECHER_ACHIEVEMENT_1",
@@ -3174,7 +3179,7 @@
       "Name": "Bad Leecher, Bad Leecher!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "KLEECHER_ACHIEVEMENT_2",
@@ -3204,9 +3209,9 @@
       "ID": "MARY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Hostage of the Elderly",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 282
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -3214,7 +3219,7 @@
       "Name": "10 Hugs from Grandma",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "MEAT_ACHIEVEMENT_1",
@@ -3222,7 +3227,7 @@
       "Name": "Night Snack",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -3294,7 +3299,7 @@
       "Name": "Heavy Burden",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_4",
@@ -3342,7 +3347,7 @@
       "Name": "Guardian Angel",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "WINS_ACHIEVEMENT_1",
@@ -3357,14 +3362,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1083,
+      "Progressed": 1084,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:10:06.6458307+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:10:25.1730225+00:00",
   "LastUpdate_AppInfo": "2023-12-08T02:20:37.1231344+00:00",
-  "LastUpdate_Ratings": "2023-12-14T03:00:56.399996+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:10:06.6458927+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:02:54.6690197+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:10:25.1730851+00:00"
 }

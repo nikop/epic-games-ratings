@@ -5,12 +5,12 @@ Rating: 4.75 (Ranked 148)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 0.90% | ~2,157 |
+| The Killing Jar | 0.90% | ~2,158 |
 | First of Many | 0.80% | ~1,918 |
 | Regicide | 0.80% | ~151 |
 | Master of the Dark Arts | 0.80% | ~151 |
-| Expanding Horizons | 0.60% | ~1,438 |
-| Not Your Average Trait | 0.60% | ~1,438 |
+| Expanding Horizons | 0.60% | ~1,439 |
+| Not Your Average Trait | 0.60% | ~1,439 |
 | Am I Seeing This? | 0.50% | ~1,199 |
 | Gleaming the Cube | 0.50% | ~1,199 |
 | Not So Special Now | 0.50% | ~1,199 |
@@ -24,7 +24,6 @@ Rating: 4.75 (Ranked 148)
 | Good, But Could Be Better! | 0.50% | ~1,199 |
 | Trait Chaser | 0.50% | ~1,199 |
 | Chaos | 0.40% | ~959 |
-| Traitor | 0.40% | ~959 |
 | Forever is a Long Time Coming | 0.40% | ~959 |
 | Power Surge | 0.40% | ~959 |
 | The God Gambit | 0.40% | ~959 |
@@ -37,6 +36,7 @@ Rating: 4.75 (Ranked 148)
 | All These Traits� | 0.40% | ~959 |
 | Make Some Room | 0.40% | ~959 |
 | Ghost in the Machine | 0.30% | ~719 |
+| Traitor | 0.30% | ~719 |
 | Madman's Paradise | 0.30% | ~719 |
 | The Agenda | 0.30% | ~719 |
 | Tall Tales | 0.30% | ~719 |
@@ -48,20 +48,20 @@ Rating: 4.75 (Ranked 148)
 | The Ultimate Weapon | 0.30% | ~719 |
 | No One Should Have All That Power | 0.30% | ~719 |
 | Transmutate | 0.30% | ~719 |
-| Crafty | 0.20% | ~479 |
-| Only Human | 0.20% | ~479 |
-| Red Room | 0.20% | ~479 |
-| The Trigger | 0.20% | ~479 |
-| Cutting Edge | 0.20% | ~479 |
-| The Collector | 0.20% | ~479 |
-| Proving Grounds | 0.20% | ~479 |
-| Carnage in C-Minor | 0.20% | ~479 |
-| Maxed Out! | 0.20% | ~479 |
+| Crafty | 0.20% | ~480 |
+| Only Human | 0.20% | ~480 |
+| Red Room | 0.20% | ~480 |
+| The Trigger | 0.20% | ~480 |
+| Cutting Edge | 0.20% | ~480 |
+| The Collector | 0.20% | ~480 |
+| Proving Grounds | 0.20% | ~480 |
+| Carnage in C-Minor | 0.20% | ~480 |
+| Maxed Out! | 0.20% | ~480 |
 | Succession | 0.20% | ~38 |
 | You Shall Pass | 0.20% | ~38 |
 | A Foul Feast | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,704 (Ranked 66)  
+Progressed: 239,762 (Ranked 66)  
 Completed: 584 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 584 (0.24%) (Ranked 252)
 | 2023-12-11 | 238,673 | 579 |
 | 2023-12-12 | 239,053 | 581 |
 | 2023-12-13 | 239,544 | 584 |
-| 2023-12-14 | 239,704 | 584 |
+| 2023-12-14 | 239,762 | 584 |
 ## Awards
 Max (Great Boss Battles): 2,741  (Ranked 102)  
 Sum: 6,871 (Ranked 126)  

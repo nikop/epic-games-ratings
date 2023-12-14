@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -194,9 +194,9 @@
       "ID": "creepytale3_ach_15",
       "SetID": "7idcjbn",
       "Name": "Bathing time!",
-      "Percentage": 42,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "creepytale3_ach_17",
@@ -425,8 +425,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:04:12.7040316+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:04:19.8380674+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.5738942+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:59:22.9240617+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:04:12.7040696+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:59:29.2315094+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:04:19.8380924+00:00"
 }

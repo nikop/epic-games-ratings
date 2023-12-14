@@ -93,6 +93,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Loots! | 0.10% | ~206 |
 | Well Equipped | 0.10% | ~206 |
 | Friends of the Forest | 0.10% | ~240 |
+| More Than Well Equipped | 0.10% | ~206 |
 | Return to the Tomb | 0.10% | ~206 |
 | Arcane Efforts | 0.10% | ~206 |
 | Keep Your Distance | 0.10% | ~206 |
@@ -102,6 +103,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.10% | ~206 |
 | Weak Doesn't Mean Feeble | 0.10% | ~206 |
 | Frail Doesn't Mean Broken | 0.10% | ~206 |
+| The Castle of a Thousand Vecnas | 0.10% | ~206 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~206 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~206 |
 | The Sanctum of the Sword | 0.10% | ~206 |
@@ -109,6 +111,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.10% | ~240 |
 | Checkmate | 0.10% | ~206 |
 | Pin and Skewer | 0.10% | ~206 |
+| Clowning Around | 0.10% | ~206 |
 | Xanathaaaaaaar! | 0.10% | ~206 |
 | A Whale of a Time | 0.10% | ~206 |
 | Homecoming | 0.10% | ~240 |
@@ -243,6 +246,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cramped Quarters | 0.10% | ~240 |
 | Flame(skull) War | 0.10% | ~240 |
 | Servants of the Demon Prince | 0.10% | ~206 |
+| Enter the Sargauth | 0.10% | ~240 |
 | Elder Rune Madness | 0.10% | ~240 |
 | The Madness Grows | 0.10% | ~240 |
 | The Madness Peaks | 0.10% | ~206 |
@@ -329,6 +333,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Déjà Vu | 0.10% | ~206 |
 | Wait, What? | 0.10% | ~206 |
 | Ireena von Zarovich | 0.10% | ~206 |
+| Déjà Vu All Over Again | 0.10% | ~206 |
 | Into The Fire | 0.10% | ~206 |
 | A Difficult Descent | 0.10% | ~206 |
 | The Devil Arrives | 0.10% | ~206 |
@@ -421,6 +426,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waiting on Sunrise | 0.10% | ~206 |
 | Frontline Fighters | 0.10% | ~206 |
 | A Chilling Encounter | 0.10% | ~206 |
+| How Far Away is Thay | 0.10% | ~206 |
 | Deekin's Mission | 0.10% | ~206 |
 | Dive Bomb | 0.10% | ~206 |
 | Fire and Ice | 0.10% | ~206 |
@@ -457,6 +463,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maroon Madness | 0.10% | ~206 |
 | The Rite of the Arcane Octad | 0.10% | ~206 |
 | Alien Allies | 0.10% | ~206 |
+| An Icewind Dale Reunion | 0.10% | ~206 |
 | The Netherese Necropolis | 0.10% | ~206 |
 | Ineffectual Intellectuals | 0.10% | ~206 |
 | The Archaeologist and the Sailor | 0.10% | ~206 |
@@ -464,10 +471,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Haunted Jungle | 0.10% | ~240 |
 | Overwhelming Force | 0.10% | ~240 |
 | Rescue in the Jungle | 0.10% | ~240 |
+| The Court of Storms | 0.10% | ~206 |
 | Coasting to the Finish | 0.10% | ~206 |
+| Beware the Jabberwock | 0.10% | ~206 |
 | Willing to Sacrifice | 0.10% | ~206 |
 | Devilishly Cold | 0.10% | ~206 |
 | The Champion's Guide to Wildspace | 0.10% | ~206 |
+| Not That Type of Helm! | 0.10% | ~206 |
 | Calcryx Tricks | 0.10% | ~206 |
 | Goblin Halls: the Next Generation | 0.10% | ~206 |
 | Bazaar Companions | 0.10% | ~206 |
@@ -476,12 +486,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Luigi After Hours | 0.10% | ~206 |
 | Rock and Roll | 0.10% | ~206 |
 | Electric Mayhem | 0.10% | ~206 |
+| Flight of the Kindori Pod | 0.10% | ~206 |
+| 3,720 to 1 | 0.10% | ~206 |
 | Topolah's Tower | 0.10% | ~206 |
 | Krux's Speed Run | 0.10% | ~206 |
 | Animated Giff | 0.10% | ~206 |
 | The Hunt for The Last Breath | 0.10% | ~206 |
 | The Chaotic Hunt for The Last Breath | 0.10% | ~206 |
 | To Infinity's and Beyond | 0.10% | ~206 |
+| There's a Flying Snake in my Boot! | 0.10% | ~206 |
 | Legends and Lore | 0.10% | ~206 |
 | Unearthed Arcana | 0.10% | ~206 |
 | The End | 0.10% | ~206 |
@@ -489,9 +502,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Jungles of Doomspace | 0.10% | ~206 |
 | Slow Down Showdown | 0.10% | ~206 |
 | The Arena of Blood | 0.10% | ~206 |
+| Entrance of the Gladiators | 0.10% | ~206 |
 | Foul Play | 0.10% | ~206 |
 | Fowl Play | 0.10% | ~206 |
 | Spelljammers in Training | 0.10% | ~206 |
+| Time Out | 0.10% | ~206 |
 | The Beginning is the End | 0.10% | ~206 |
 | Tomb of Champions | 0.10% | ~206 |
 | See You on the Flipside | 0.10% | ~206 |
@@ -513,47 +528,32 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Loots of Loomlurch | 0.00% | ~0 |
 | G. O. A. T. | 0.00% | ~0 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
-| More Than Well Equipped | 0.00% | ~0 |
-| The Castle of a Thousand Vecnas | 0.00% | ~0 |
 | Get Back In The Castle | 0.00% | ~0 |
 | Kas the Destroyer | 0.00% | ~0 |
 | Vecna Out! | 0.00% | ~0 |
 | Bully for Vecna | 0.00% | ~0 |
 | Who Lurks Below? | 0.00% | ~0 |
-| Clowning Around | 0.00% | ~0 |
 | The Minions of Endelyn Moongrave | 0.00% | ~0 |
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
 | The Play's the Thing! | 0.00% | ~0 |
 | The Bitter End | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | No One Can Hear You Scream | 0.00% | ~0 |
-| Enter the Sargauth | 0.00% | ~0 |
 | Vault of Cuteness | 0.00% | ~0 |
 | Smooth Talkers | 0.00% | ~0 |
 | An Owlbear of an Undertaking | 0.00% | ~0 |
-| Déjà Vu All Over Again | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | Bel's Forge | 0.00% | ~0 |
 | An Awakened Axe | 0.00% | ~0 |
-| How Far Away is Thay | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | Tekeli-li's Hunt | 0.00% | ~0 |
-| An Icewind Dale Reunion | 0.00% | ~0 |
 | Poor Guidance | 0.00% | ~0 |
-| The Court of Storms | 0.00% | ~0 |
-| Beware the Jabberwock | 0.00% | ~0 |
 | Quick or Quack | 0.00% | ~0 |
-| Not That Type of Helm! | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 | All The World's A Stage | 0.00% | ~0 |
-| Flight of the Kindori Pod | 0.00% | ~0 |
-| 3,720 to 1 | 0.00% | ~0 |
-| There's a Flying Snake in my Boot! | 0.00% | ~0 |
-| Entrance of the Gladiators | 0.00% | ~0 |
-| Time Out | 0.00% | ~0 |
 | The End is the Beginning | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,906 (Ranked 65)  
+Progressed: 239,933 (Ranked 65)  
 Completed: 2,520 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -791,7 +791,7 @@ Completed: 2,520 (1.05%) (Ranked 167)
 | 2023-12-11 | 239,456 | 2,517 |
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
-| 2023-12-14 | 239,906 | 2,520 |
+| 2023-12-14 | 239,933 | 2,520 |
 ## Awards
 Max (Great for Beginners): 5,624  (Ranked 70)  
 Sum: 32,848 (Ranked 41)  

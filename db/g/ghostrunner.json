@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -1449,9 +1449,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 24066,
+  "EOS_Progressed": 24067,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -27004,6 +27004,11 @@
       "Time": "2023-12-14T03:05:41.1311432+00:00",
       "NumProgressed": 24066,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-12-14T04:05:59.2308226+00:00",
+      "NumProgressed": 24067,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 45,
@@ -27031,7 +27036,7 @@
       "Name": "Artificial selection",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 6738
+      "UsersEstimate": 6739
     },
     {
       "ID": "BackToHell",
@@ -27039,7 +27044,7 @@
       "Name": "Back to hell",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 8904
+      "UsersEstimate": 8905
     },
     {
       "ID": "CantRunCantHide",
@@ -27111,7 +27116,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 10348
+      "UsersEstimate": 10349
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -27151,7 +27156,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 18290
+      "UsersEstimate": 18291
     },
     {
       "ID": "MoreThanHuman",
@@ -27287,7 +27292,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 14680
+      "UsersEstimate": 14681
     },
     {
       "ID": "SwordToAGunfight",
@@ -27335,7 +27340,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 12755
+      "UsersEstimate": 12756
     },
     {
       "ID": "WaveOfMutilation",
@@ -27351,7 +27356,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 9626
+      "UsersEstimate": 9627
     },
     {
       "ID": "WhereHeStood",
@@ -27374,21 +27379,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 24066,
+      "Progressed": 24067,
       "Completed": 63
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 24066,
+      "Progressed": 24067,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-12-14T02:21:30.3234843+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:05:41.1311429+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:05:59.2308223+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:13.9393312+00:00",
-  "LastUpdate_Ratings": "2023-12-14T03:00:03.1732533+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:05:41.1313142+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:00:14.1804981+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:05:59.2309515+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
   "Ranking_Rating": 825,
-  "Ranking_Popularity": 562,
-  "Ranking_PopularitySum": 562,
+  "Ranking_Popularity": 563,
+  "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 226,
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6574,
+  "EOS_Progressed": 6575,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6717,6 +6717,11 @@
       "Time": "2023-12-14T01:50:42.2511153+00:00",
       "NumProgressed": 6574,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T04:04:15.6374717+00:00",
+      "NumProgressed": 6575,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6864,7 +6869,7 @@
       "Name": "Drunk and Disorderly: Stephanie",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "DoNotBurn",
@@ -7279,21 +7284,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3613,
+      "Progressed": 3614,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6574,
+      "Progressed": 6575,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:04:08.9362947+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:04:15.6374714+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.173705+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:59:30.4292566+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:04:08.936384+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:59:38.8452393+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:04:15.6375525+00:00"
 }

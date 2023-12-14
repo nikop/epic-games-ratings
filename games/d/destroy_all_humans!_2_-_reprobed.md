@@ -8,8 +8,8 @@ Number of Ratings: 90  (23.09.2022)
 | ---- | ---------- | ----- |
 | Mash Machine | 50.00% | ~25 |
 | Rock of the Bay | 48.00% | ~24 |
-| Ducks in a Row, Fish in a Barrel | 34.00% | ~17 |
-| Furon Fashion | 26.00% | ~13 |
+| Ducks in a Row, Fish in a Barrel | 36.00% | ~18 |
+| Furon Fashion | 28.00% | ~14 |
 | Shop Til They Drop | 26.00% | ~13 |
 | I Look Up As I Walk to Takoshima | 18.00% | ~9 |
 | Earthly Pleasures | 18.00% | ~9 |

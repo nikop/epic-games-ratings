@@ -2,7 +2,7 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 498,
+  "Ranking_Rating": 499,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 204,
@@ -535,9 +535,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3744,
+  "EOS_Progressed": 3745,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5940,6 +5940,11 @@
       "Time": "2023-12-14T03:06:18.0445708+00:00",
       "NumProgressed": 3744,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-14T04:06:41.2527861+00:00",
+      "NumProgressed": 3745,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5951,7 +5956,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "AceDetective_9",
@@ -6021,9 +6026,9 @@
       "ID": "ExceptionalSkill_24",
       "SetID": "c4hee28",
       "Name": "Exceptional Skill",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 899
+      "UsersEstimate": 861
     },
     {
       "ID": "ForAllAurai_8",
@@ -6135,7 +6140,7 @@
       "Name": "Ready for Summer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "ReadyforWinter_42",
@@ -6215,7 +6220,7 @@
       "Name": "The Power of Family",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -6271,7 +6276,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2845
+      "UsersEstimate": 2846
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6286,15 +6291,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3744,
+      "Progressed": 3745,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-01T16:57:27.3862191+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:06:18.0445706+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:06:41.2527857+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:46.9668311+00:00",
-  "LastUpdate_Ratings": "2023-12-14T03:00:57.2559715+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:06:18.0446102+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:02:56.0286952+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:06:41.252829+00:00"
 }

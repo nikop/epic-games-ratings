@@ -548,9 +548,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -628,9 +628,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -877,8 +877,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:08:47.5716409+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:08:56.0213464+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:04.5493724+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:58:45.8575048+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:08:47.5716696+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:58:48.6431413+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:08:56.0213728+00:00"
 }

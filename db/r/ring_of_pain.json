@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 86,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3652,9 +3652,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 240994,
+  "EOS_Progressed": 240997,
   "EOS_Completed": 298,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -28122,6 +28122,11 @@
       "Time": "2023-12-14T02:32:02.6006999+00:00",
       "NumProgressed": 240994,
       "NumCompleted": 298
+    },
+    {
+      "Time": "2023-12-14T04:10:26.2255513+00:00",
+      "NumProgressed": 240997,
+      "NumCompleted": 298
     }
   ],
   "TotalAchievements": 138,
@@ -28819,9 +28824,9 @@
       "ID": "POISONEDTWICEIN1TURN",
       "SetID": "5l8oe0h",
       "Name": "Acid Bath",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 964
     },
     {
       "ID": "POISONSELF20",
@@ -29236,13 +29241,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240994,
+      "Progressed": 240997,
       "Completed": 298
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2474,
+      "Progressed": 2477,
       "Completed": 403
     }
   ],
@@ -29250,8 +29255,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-13T20:59:38.9026811+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:10:07.7212464+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:10:26.2255509+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:59:58.6008717+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:10:07.7215115+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:00:09.0806604+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:10:26.2257946+00:00"
 }

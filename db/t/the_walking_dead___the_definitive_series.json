@@ -1450,18 +1450,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 851,
       "NumberOfAwardsMax": 557
+    },
+    {
+      "Time": "2023-12-14T04:00:37.7019449+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 854,
+      "NumberOfAwardsMax": 559
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 851,
-  "NumberOfAwardsMax": 557,
+  "NumberOfAwards": 854,
+  "NumberOfAwardsMax": 559,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 557
+      "Count": 559
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1521,7 +1527,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -1535,8 +1541,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2023-12-13T15:00:09.7746688+00:00",
+  "LastChanged": "2023-12-14T04:00:37.7019447+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.452254+00:00",
-  "LastUpdate_Ratings": "2023-12-14T03:00:23.8435629+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:06:21.126186+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:00:37.7019451+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:06:44.6711799+00:00"
 }

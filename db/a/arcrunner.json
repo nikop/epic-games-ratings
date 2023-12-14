@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 867,
+  "EOS_Progressed": 868,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2021,6 +2021,11 @@
       "Time": "2023-12-13T21:09:11.4995585+00:00",
       "NumProgressed": 867,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T04:09:37.8921671+00:00",
+      "NumProgressed": 868,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -2032,7 +2037,7 @@
       "Name": "Augmented",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -2230,9 +2235,9 @@
       "ID": "ACHV_UNLOCKEDANDLOADED",
       "SetID": "cceobco",
       "Name": "Unlocked and Loaded",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 217
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -2263,13 +2268,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 867,
+      "Progressed": 868,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 293,
+      "Progressed": 294,
       "Completed": 3
     }
   ],
@@ -2277,8 +2282,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:09:24.9656967+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:09:37.8921666+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:16.1200559+00:00",
-  "LastUpdate_Ratings": "2023-12-14T03:00:41.2317031+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:09:24.9657235+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:00:58.0071808+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:09:37.8922027+00:00"
 }

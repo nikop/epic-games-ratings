@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 58.00% | ~60 |
-| Purification Pioneer | 56.00% | ~58 |
-| Mechanical Buddy | 51.00% | ~53 |
+| Meissa's Savior | 59.00% | ~62 |
+| Purification Pioneer | 57.00% | ~60 |
 | Dicesmithing Time! | 50.00% | ~52 |
-| Endless Tricks | 46.00% | ~47 |
-| Sanctuary Guardian | 45.00% | ~46 |
-| Mind Illuminator | 39.00% | ~40 |
-| Wild's Keeper | 37.00% | ~38 |
-| Noctuan Champion | 37.00% | ~38 |
-| Stellar Dismantler | 34.00% | ~35 |
+| Mechanical Buddy | 50.00% | ~52 |
+| Endless Tricks | 45.00% | ~47 |
+| Sanctuary Guardian | 44.00% | ~46 |
+| Mind Illuminator | 38.00% | ~40 |
+| Wild's Keeper | 36.00% | ~38 |
+| Noctuan Champion | 36.00% | ~38 |
+| Stellar Dismantler | 33.00% | ~35 |
 | Eridanian Champion | 29.00% | ~30 |
 | Lacertian Champion | 29.00% | ~30 |
 | Anomaly Destroyer | 28.00% | ~29 |
@@ -24,15 +24,15 @@
 | Behenian Champion | 22.00% | ~23 |
 | Shard Spender | 18.00% | ~19 |
 | Unbeatable | 17.00% | ~18 |
-| Aquarian Champion | 16.00% | ~16 |
-| Astral Seeker | 15.00% | ~15 |
-| Heart Gate | 14.00% | ~14 |
-| Stellar Haste | 14.00% | ~14 |
-| Favored by the Cosmos | 13.00% | ~13 |
-| The Corruption Goddess | 13.00% | ~13 |
-| The Goddes Avatar | 13.00% | ~13 |
-| Sadistic Plan | 12.00% | ~12 |
-| Heavy Purger | 11.00% | ~11 |
+| Aquarian Champion | 15.00% | ~16 |
+| Astral Seeker | 14.00% | ~15 |
+| Heart Gate | 13.00% | ~14 |
+| Stellar Haste | 13.00% | ~14 |
+| Favored by the Cosmos | 12.00% | ~13 |
+| The Corruption Goddess | 12.00% | ~13 |
+| The Goddes Avatar | 12.00% | ~13 |
+| Sadistic Plan | 11.00% | ~12 |
+| Heavy Purger | 10.00% | ~10 |
 | Apian Hero | 10.00% | ~10 |
 | Anomaly Control | 9.00% | ~9 |
 | Wave Bender | 9.00% | ~9 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103 (Ranked 446)  
+Progressed: 105 (Ranked 445)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,4 +152,4 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 99 | 0 |
 | 2023-12-12 | 100 | 0 |
 | 2023-12-13 | 102 | 0 |
-| 2023-12-14 | 103 | 0 |
+| 2023-12-14 | 105 | 0 |

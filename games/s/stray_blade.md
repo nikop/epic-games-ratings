@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Self-Defence | 7.00% | ~9 |
 | Tinkerer | 5.00% | ~6 |
+| A new World ahead | 3.00% | ~4 |
 | Craftsmen | 2.00% | ~3 |
 | Welcome to the Club | 2.00% | ~3 |
 | Don't Cry Wolf | 2.00% | ~3 |
-| A new World ahead | 2.00% | ~3 |
 | Can't touch this | 2.00% | ~3 |
 | Apprentice | 2.00% | ~3 |
 | Sponsor | 0.80% | ~1 |

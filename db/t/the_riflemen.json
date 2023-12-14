@@ -3,8 +3,8 @@
   "Name": "The Riflemen",
   "ProductSlug": "the-riflemen-8be608",
   "Ranking_Rating": 814,
-  "Ranking_Popularity": 562,
-  "Ranking_PopularitySum": 562,
+  "Ranking_Popularity": 563,
+  "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 20,
   "Ranking_EOS_NewPlayers": 24,
@@ -161,11 +161,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54144,
+  "EOS_Progressed": 54159,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 4131,
+  "EOS_NewPlayers": 4120,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 21.72,
+  "EOS_Completed_Percentage": 21.71,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -12796,6 +12796,11 @@
       "Time": "2023-12-14T03:09:19.6388017+00:00",
       "NumProgressed": 54144,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-12-14T04:09:32.004391+00:00",
+      "NumProgressed": 54159,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -12816,7 +12821,7 @@
       "Name": "First blood",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 39525
+      "UsersEstimate": 39536
     },
     {
       "ID": "grenadeKills",
@@ -12872,7 +12877,7 @@
       "Name": "It\u0027s a piece of cake",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "revengeMedal",
@@ -12919,7 +12924,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 54144,
+      "Progressed": 54159,
       "Completed": 11759
     }
   ],
@@ -12927,8 +12932,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2023-12-08T14:58:39.5420526+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:09:19.6388014+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:09:32.0043904+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:59.5320614+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:58:09.5715635+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:09:19.638873+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:58:05.9350337+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:09:32.0044644+00:00"
 }

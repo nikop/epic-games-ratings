@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 505,
+  "EOS_Progressed": 507,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1124,6 +1124,11 @@
       "Time": "2023-12-13T23:10:45.2937642+00:00",
       "NumProgressed": 505,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T04:10:22.1408262+00:00",
+      "NumProgressed": 507,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1167,7 +1172,7 @@
       "Name": "Boss Killer",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "BugHunter",
@@ -1175,7 +1180,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "Cryomancer",
@@ -1255,7 +1260,7 @@
       "Name": "Inquisitor",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Librarian",
@@ -1295,7 +1300,7 @@
       "Name": "Money Swag",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Necromancer",
@@ -1309,9 +1314,9 @@
       "ID": "Oops",
       "SetID": "82505mn",
       "Name": "Oops",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 35
     },
     {
       "ID": "OrcMustDie",
@@ -1357,9 +1362,9 @@
       "ID": "ShieldCrusher",
       "SetID": "82505mn",
       "Name": "Shield Crusher",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 35
     },
     {
       "ID": "SlingOfDavid",
@@ -1454,7 +1459,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 505,
+      "Progressed": 507,
       "Completed": 1
     }
   ],
@@ -1462,8 +1467,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:10:03.8537919+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:10:22.140826+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:26.5642933+00:00",
-  "LastUpdate_Ratings": "2023-12-14T03:00:28.0010071+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:10:03.8538296+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:00:42.6750617+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:10:22.14085+00:00"
 }

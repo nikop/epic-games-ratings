@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9672,9 +9672,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126744,
+  "EOS_Progressed": 126750,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1026,
+  "EOS_NewPlayers": 1028,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34917,6 +34917,11 @@
       "Time": "2023-12-14T03:09:08.0131771+00:00",
       "NumProgressed": 126744,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T04:09:19.0463208+00:00",
+      "NumProgressed": 126750,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -34926,9 +34931,9 @@
       "ID": "affinity_meltdown_first_time",
       "SetID": "64l4lke",
       "Name": "Don\u0027t Make Me Turn This Coach Around",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 1014
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -35030,9 +35035,9 @@
       "ID": "altar_of_hope_upgrade_total_quarter",
       "SetID": "64l4lke",
       "Name": "Hope Rekindled",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 507
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -35080,7 +35085,7 @@
       "Name": "Not Today!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35088,7 +35093,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35128,7 +35133,7 @@
       "Name": "Meat and Greet",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35136,7 +35141,7 @@
       "Name": "Clearing the Ledger",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "combat_kill_leviathan",
@@ -35152,7 +35157,7 @@
       "Name": "Overdue Notice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35184,7 +35189,7 @@
       "Name": "Bacon Bits",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "combat_party_wipe_all_run_bosses",
@@ -35280,7 +35285,7 @@
       "Name": "Autodidact",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "hero_story_complete_all",
@@ -35288,7 +35293,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "hero_story_complete_any",
@@ -35408,7 +35413,7 @@
       "Name": "Handled",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "run_victory_act05",
@@ -35470,9 +35475,9 @@
       "ID": "combat_kill_collector",
       "SetID": "d3bcpc8",
       "Name": "This guy... again?",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 49
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35559,21 +35564,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126744,
+      "Progressed": 126750,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1613,
+      "Progressed": 1619,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-14T01:46:33.3984307+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:09:08.0131769+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:09:19.0463204+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:59:59.7123791+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:09:08.0133273+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:00:10.1095912+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:09:19.04649+00:00"
 }

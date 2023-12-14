@@ -1556,9 +1556,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131979,
+  "EOS_Progressed": 131984,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -24671,6 +24671,11 @@
       "Time": "2023-12-14T03:06:43.0683126+00:00",
       "NumProgressed": 131979,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-14T04:07:08.6183112+00:00",
+      "NumProgressed": 131984,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -24706,7 +24711,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3959
+      "UsersEstimate": 3960
     },
     {
       "ID": "ACH_COP_ART",
@@ -24714,7 +24719,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23756
+      "UsersEstimate": 23757
     },
     {
       "ID": "ACH_COP_BAD",
@@ -24730,7 +24735,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11878
+      "UsersEstimate": 11879
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -24738,7 +24743,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31675
+      "UsersEstimate": 31676
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -24746,7 +24751,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11878
+      "UsersEstimate": 11879
     },
     {
       "ID": "ACH_COP_DORK",
@@ -24762,7 +24767,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36954
+      "UsersEstimate": 36956
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -24794,7 +24799,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27716
+      "UsersEstimate": 27717
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -24810,7 +24815,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17157
+      "UsersEstimate": 17158
     },
     {
       "ID": "ACH_COP_STAR",
@@ -24898,7 +24903,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18477
+      "UsersEstimate": 18478
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -24906,7 +24911,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3959
+      "UsersEstimate": 3960
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -24962,7 +24967,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18477
+      "UsersEstimate": 18478
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -25001,15 +25006,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131979,
+      "Progressed": 131984,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-12-13T19:59:58.7676582+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:06:43.0683123+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:07:08.6183107+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:13.3373755+00:00",
-  "LastUpdate_Ratings": "2023-12-14T03:00:01.6840509+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:06:43.0684126+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:00:12.4520383+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:07:08.6184326+00:00"
 }

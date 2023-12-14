@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 75,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 9.33,
   "EosHistory": [
@@ -520,8 +520,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:09:58.2426435+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:10:15.8801829+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.952085+00:00",
   "LastUpdate_Ratings": "2023-12-14T03:00:51.5555604+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:09:58.2426539+00:00"
+  "LastUpdate_Achievements": "2023-12-14T04:10:15.8801915+00:00"
 }

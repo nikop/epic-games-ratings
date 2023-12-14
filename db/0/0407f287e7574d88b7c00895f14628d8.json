@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 595,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -191,9 +191,9 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 41,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "g2",
@@ -501,8 +501,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:03:46.2356145+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:03:50.7865922+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-14T03:03:02.3972951+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:03:46.235641+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:03:00.7844847+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:03:50.7866263+00:00"
 }

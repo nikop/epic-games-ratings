@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 78.00% | ~90 |
+| Iceberg Theory | 79.00% | ~92 |
 | Gear Up | 66.00% | ~77 |
 | A Grand Show | 66.00% | ~77 |
 | Freshen Up | 54.00% | ~63 |
 | GG EZ | 54.00% | ~63 |
-| Hydrophobia | 39.00% | ~45 |
+| Hydrophobia | 38.00% | ~44 |
 | Ka-Ching! | 31.00% | ~36 |
-| Stop Right There | 27.00% | ~31 |
+| Stop Right There | 26.00% | ~30 |
 | Get to the Point | 25.00% | ~29 |
 | Mr. Want It All | 16.00% | ~19 |
-| Toe to Toe | 16.00% | ~19 |
 | Phew! | 16.00% | ~19 |
+| Toe to Toe | 15.00% | ~18 |
 | The Hidden Secret | 14.00% | ~16 |
 | The Abyss Conqueror | 11.00% | ~13 |
 | Space Warrior: Prologue | 10.00% | ~12 |
-| The Fortress Conqueror | 9.00% | ~10 |
-| Grand Escape | 9.00% | ~10 |
+| The Fortress Conqueror | 9.00% | ~11 |
+| Grand Escape | 9.00% | ~11 |
 | Keep it Up, rookie! | 7.00% | ~8 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~7 |
 | he Ultra Fortress Conqueror | 6.00% | ~7 |
@@ -36,13 +36,13 @@
 | Death Bringer Conqueror | 4.00% | ~5 |
 | Rapidfire | 4.00% | ~5 |
 | Air Interception | 4.00% | ~5 |
-| The Looping Space Conqueror | 3.00% | ~3 |
-| Break Through the Forbidden | 3.00% | ~3 |
-| Space Ranger: Prologue | 3.00% | ~3 |
-| Breaking the Limit | 3.00% | ~3 |
-| The Truth? | 3.00% | ~3 |
-| Proliferation | 3.00% | ~3 |
-| Burn After Reading | 3.00% | ~3 |
+| The Looping Space Conqueror | 3.00% | ~4 |
+| Break Through the Forbidden | 3.00% | ~4 |
+| Space Ranger: Prologue | 3.00% | ~4 |
+| Breaking the Limit | 3.00% | ~4 |
+| The Truth? | 3.00% | ~4 |
+| Proliferation | 3.00% | ~4 |
+| Burn After Reading | 3.00% | ~4 |
 | Alloy Rangers, Assemble! | 2.00% | ~2 |
 | Pumped Up | 2.00% | ~2 |
 | Easy Peasy | 2.00% | ~2 |
@@ -55,8 +55,8 @@
 | Bullets Fear Me | 0.90% | ~1 |
 | Super Alloy Ranger! | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 431)  
-Completed: 1 (0.86%) (Ranked 180)  
+Progressed: 117 (Ranked 431)  
+Completed: 1 (0.85%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -124,6 +124,7 @@ Completed: 1 (0.86%) (Ranked 180)
 | 2023-11-19 | 114 | 1 |
 | 2023-11-28 | 115 | 1 |
 | 2023-12-06 | 116 | 1 |
+| 2023-12-14 | 117 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

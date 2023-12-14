@@ -4,7 +4,7 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 184,
+  "EOS_Progressed": 185,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -829,6 +829,11 @@
       "Time": "2023-12-14T01:50:59.7430153+00:00",
       "NumProgressed": 184,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T04:04:35.3626064+00:00",
+      "NumProgressed": 185,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -849,7 +854,7 @@
       "Name": "Chapter II - Complete",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -905,7 +910,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 30,
       "XP": 45,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -936,14 +941,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 184,
+      "Progressed": 185,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-14T03:04:26.5692212+00:00",
+  "LastChanged_Achievements": "2023-12-14T04:04:35.3626058+00:00",
   "LastUpdate_AppInfo": "2023-12-08T13:57:10.1011387+00:00",
-  "LastUpdate_Ratings": "2023-12-14T02:58:18.2547121+00:00",
-  "LastUpdate_Achievements": "2023-12-14T03:04:26.5692313+00:00"
+  "LastUpdate_Ratings": "2023-12-14T03:58:16.9184087+00:00",
+  "LastUpdate_Achievements": "2023-12-14T04:04:35.3626175+00:00"
 }

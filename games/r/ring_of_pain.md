@@ -45,6 +45,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Save Our Souls | 0.40% | ~964 |
 | Destroy Your Fears | 0.40% | ~964 |
 | Stone Touch | 0.40% | ~964 |
+| Acid Bath | 0.40% | ~964 |
 | New Perspectives | 0.40% | ~964 |
 | Shadow Walker | 0.40% | ~964 |
 | Flesh Wound | 0.40% | ~964 |
@@ -63,7 +64,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Chain Reaction | 0.30% | ~723 |
 | Doing Time | 0.30% | ~723 |
 | Spreading Plague | 0.30% | ~723 |
-| Acid Bath | 0.30% | ~723 |
 | Antivenom | 0.30% | ~723 |
 | The Long Run | 0.30% | ~723 |
 | Who Needs Luck? | 0.30% | ~7 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,994 (Ranked 64)  
+Progressed: 240,997 (Ranked 64)  
 Completed: 298 (0.12%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -383,7 +383,7 @@ Completed: 298 (0.12%) (Ranked 286)
 | 2023-12-11 | 240,899 | 294 |
 | 2023-12-12 | 240,936 | 296 |
 | 2023-12-13 | 240,984 | 298 |
-| 2023-12-14 | 240,994 | 298 |
+| 2023-12-14 | 240,997 | 298 |
 ## Awards
 Max (Quickly Understood Controls): 1,508  (Ranked 134)  
 Sum: 11,729 (Ranked 86)  
