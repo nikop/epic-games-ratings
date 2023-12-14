@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 3730,
+  "Ranking_EOS_NewCompleters": 3731,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3431,9 +3431,9 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 18071,
+  "EOS_Progressed": 18074,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": -7,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15636,6 +15636,11 @@
       "Time": "2023-12-14T07:04:25.6509404+00:00",
       "NumProgressed": 18071,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-14T08:03:55.6952711+00:00",
+      "NumProgressed": 18074,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15742,9 +15747,9 @@
       "ID": "WinHard",
       "SetID": "cfbk359",
       "Name": "Overcoming Difficulty",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 361
     },
     {
       "ID": "WinImpossible",
@@ -15760,7 +15765,7 @@
       "Name": "Ruined Armory",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "WinNearBandit",
@@ -15776,7 +15781,7 @@
       "Name": "Barren Lands",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "WinNearBattleground",
@@ -15840,7 +15845,7 @@
       "Name": "Levitating Monument",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "WinNearMines",
@@ -15870,9 +15875,9 @@
       "ID": "WinNearRuins",
       "SetID": "cfbk359",
       "Name": "Lost Colonies",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 181
     },
     {
       "ID": "WinNearStatue",
@@ -15896,7 +15901,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "WinNearWatchtower",
@@ -15910,9 +15915,9 @@
       "ID": "WinOnCoral",
       "SetID": "cfbk359",
       "Name": "Coral Forest",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 361
     },
     {
       "ID": "WinOnCursed",
@@ -16016,7 +16021,7 @@
       "Name": "Trade Baron",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "WinWithoutDeath",
@@ -16119,15 +16124,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18071,
+      "Progressed": 18074,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-13T10:59:18.3182302+00:00",
-  "LastChanged_Achievements": "2023-12-14T07:04:25.6509401+00:00",
+  "LastChanged_Achievements": "2023-12-14T08:03:55.6952707+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-14T07:01:19.9970186+00:00",
-  "LastUpdate_Achievements": "2023-12-14T07:04:25.6510493+00:00"
+  "LastUpdate_Ratings": "2023-12-14T08:00:31.2977496+00:00",
+  "LastUpdate_Achievements": "2023-12-14T08:03:55.6953922+00:00"
 }

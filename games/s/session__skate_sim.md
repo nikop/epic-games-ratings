@@ -6,23 +6,23 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,910 |
-| Keeping it classy | 29.00% | ~908 |
-| Welcome to the family | 23.00% | ~720 |
-| The finer things in life | 20.00% | ~626 |
+| You're free now! | 61.00% | ~1,911 |
+| Keeping it classy | 29.00% | ~909 |
+| Welcome to the family | 23.00% | ~721 |
+| The finer things in life | 20.00% | ~627 |
 | Backpacker | 15.00% | ~470 |
-| Go with the Flow | 14.00% | ~438 |
-| The flip trick crown jewel | 11.00% | ~344 |
+| Go with the Flow | 14.00% | ~439 |
+| The flip trick crown jewel | 11.00% | ~345 |
 | Keep the dream alive | 10.00% | ~313 |
 | Plastic Surgeon | 10.00% | ~313 |
 | The hard way | 10.00% | ~313 |
 | Upfront shredder | 10.00% | ~313 |
 | Good vibes | 9.00% | ~282 |
-| Bottom ply killer | 8.00% | ~250 |
-| Fashionista | 8.00% | ~250 |
-| Finally he zips it | 8.00% | ~250 |
-| That pinch! | 8.00% | ~250 |
-| Tight lipslides | 8.00% | ~250 |
+| Bottom ply killer | 8.00% | ~251 |
+| Fashionista | 8.00% | ~251 |
+| Finally he zips it | 8.00% | ~251 |
+| That pinch! | 8.00% | ~251 |
+| Tight lipslides | 8.00% | ~251 |
 | Fulfilled the dream | 7.00% | ~219 |
 | G'Day Mate! | 7.00% | ~219 |
 | Commence the Hijinx! | 6.00% | ~188 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,131 (Ranked 214)  
+Progressed: 3,133 (Ranked 214)  
 Completed: 2 (0.06%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 2 (0.06%) (Ranked 316)
 | 2023-12-11 | 3,112 | 2 |
 | 2023-12-12 | 3,114 | 2 |
 | 2023-12-13 | 3,118 | 2 |
-| 2023-12-14 | 3,131 | 2 |
+| 2023-12-14 | 3,133 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 420)  
 Sum: 563 (Ranked 320)  

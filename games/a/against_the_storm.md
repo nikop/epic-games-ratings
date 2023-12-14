@@ -14,26 +14,26 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ominous Presence | 3.00% | ~542 |
 | Gathering Storm | 3.00% | ~542 |
 | First Real Expedition | 2.00% | ~361 |
+| Overcoming Difficulty | 2.00% | ~361 |
+| Coral Forest | 2.00% | ~361 |
 | The Marshlands | 2.00% | ~361 |
 | Taking Action | 2.00% | ~361 |
 | No Deaths | 2.00% | ~361 |
 | Untamed Wilds | 2.00% | ~361 |
-| Overcoming Difficulty | 1.00% | ~181 |
 | Fertile Meadows | 1.00% | ~181 |
 | Royal Outpost | 1.00% | ~181 |
+| Lost Colonies | 1.00% | ~181 |
 | Watchtower | 1.00% | ~181 |
-| Coral Forest | 1.00% | ~181 |
 | The Scarlet Orchard | 1.00% | ~181 |
 | Homesick | 0.90% | ~163 |
-| Lost Colonies | 0.90% | ~163 |
 | Bandit Camp | 0.80% | ~145 |
 | Monastery of the Holy Flame | 0.80% | ~145 |
 | A Real Challenge | 0.80% | ~145 |
-| Ruined Armory | 0.70% | ~126 |
-| Barren Lands | 0.70% | ~126 |
-| Levitating Monument | 0.70% | ~126 |
-| Corrosive Torrent | 0.70% | ~126 |
-| Trade Baron | 0.70% | ~126 |
+| Ruined Armory | 0.70% | ~127 |
+| Barren Lands | 0.70% | ~127 |
+| Levitating Monument | 0.70% | ~127 |
+| Corrosive Torrent | 0.70% | ~127 |
+| Trade Baron | 0.70% | ~127 |
 | Ancient Battleground | 0.60% | ~108 |
 | Statue of the Forefathers | 0.60% | ~108 |
 | Cursed Lands | 0.60% | ~108 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,071 (Ranked 147)  
+Progressed: 18,074 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 40 (0.22%) (Ranked 256)
 | 2023-12-11 | 17,957 | 41 |
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
-| 2023-12-14 | 18,071 | 40 |
+| 2023-12-14 | 18,074 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 226)  
 Sum: 3,256 (Ranked 175)  

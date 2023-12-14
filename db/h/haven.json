@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1570,
+  "EOS_Progressed": 1571,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -2338,6 +2338,11 @@
       "Time": "2023-12-14T07:07:23.2631912+00:00",
       "NumProgressed": 1570,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-14T08:06:43.6557883+00:00",
+      "NumProgressed": 1571,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2349,7 +2354,7 @@
       "Name": "Lovebirds",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "10",
@@ -2397,7 +2402,7 @@
       "Name": "Back to rust",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "16",
@@ -2437,7 +2442,7 @@
       "Name": "Flower Powered",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "20",
@@ -2461,7 +2466,7 @@
       "Name": "Can\u0027t get wetter...",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "23",
@@ -2509,7 +2514,7 @@
       "Name": "Hug therapy",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "30",
@@ -2533,7 +2538,7 @@
       "Name": "Spring cleaning",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "4",
@@ -2549,7 +2554,7 @@
       "Name": "An eye for an eye",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "6",
@@ -2588,15 +2593,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1570,
+      "Progressed": 1571,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-14T07:07:23.263191+00:00",
+  "LastChanged_Achievements": "2023-12-14T08:06:43.6557878+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:06.0236888+00:00",
-  "LastUpdate_Ratings": "2023-12-14T07:01:04.9887286+00:00",
-  "LastUpdate_Achievements": "2023-12-14T07:07:23.263219+00:00"
+  "LastUpdate_Ratings": "2023-12-14T08:00:17.9265641+00:00",
+  "LastUpdate_Achievements": "2023-12-14T08:06:43.6558173+00:00"
 }

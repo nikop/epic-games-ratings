@@ -6,50 +6,50 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~398,127 |
-| Happy Returns | 78.00% | ~383,382 |
-| Hey! That's mine! | 78.00% | ~383,382 |
-| Field Promotion | 74.00% | ~363,721 |
-| Leadhead | 71.00% | ~348,976 |
-| Eradicator | 67.00% | ~329,315 |
-| Surplus | 65.00% | ~319,485 |
-| I Spy | 64.00% | ~314,570 |
-| Burn Baby Burn | 59.00% | ~289,994 |
-| Yellow Beats Green | 56.00% | ~275,248 |
-| Salvage Rights | 53.00% | ~260,503 |
-| What IS that? | 51.00% | ~250,673 |
+| First Blood | 81.00% | ~398,129 |
+| Happy Returns | 78.00% | ~383,383 |
+| Hey! That's mine! | 78.00% | ~383,383 |
+| Field Promotion | 74.00% | ~363,723 |
+| Leadhead | 71.00% | ~348,977 |
+| Eradicator | 67.00% | ~329,316 |
+| Surplus | 65.00% | ~319,486 |
+| I Spy | 64.00% | ~314,571 |
+| Burn Baby Burn | 59.00% | ~289,995 |
+| Yellow Beats Green | 56.00% | ~275,250 |
+| Salvage Rights | 53.00% | ~260,504 |
+| What IS that? | 51.00% | ~250,674 |
 | Close Call | 50.00% | ~245,758 |
 | Pew Pew | 50.00% | ~245,758 |
-| Penny Pincher | 49.00% | ~240,842 |
-| Arsenal | 46.00% | ~226,097 |
-| Boot Camp | 45.00% | ~221,182 |
-| Flawless Victory | 42.00% | ~206,436 |
-| Confident | 41.00% | ~201,521 |
-| Exterminator | 36.00% | ~176,945 |
-| Sharpshooter | 34.00% | ~167,115 |
-| Not So Fast | 33.00% | ~162,200 |
+| Penny Pincher | 49.00% | ~240,843 |
+| Arsenal | 46.00% | ~226,098 |
+| Boot Camp | 45.00% | ~221,183 |
+| Flawless Victory | 42.00% | ~206,437 |
+| Confident | 41.00% | ~201,522 |
+| Exterminator | 36.00% | ~176,946 |
+| Sharpshooter | 34.00% | ~167,116 |
+| Not So Fast | 33.00% | ~162,201 |
 | Great Ball of Fire | 32.00% | ~157,285 |
 | No Sale | 31.00% | ~152,370 |
-| Kaboom! | 30.00% | ~147,454 |
-| Liquidator | 29.00% | ~142,539 |
+| Kaboom! | 30.00% | ~147,455 |
+| Liquidator | 29.00% | ~142,540 |
 | High Voltage | 24.00% | ~117,964 |
 | Filthy Rich | 20.00% | ~98,303 |
 | Pyrrhic Victory | 18.00% | ~88,473 |
 | The Not-So-Friendly Skies | 18.00% | ~88,473 |
 | Power Builder | 17.00% | ~83,558 |
-| Death From Above | 16.00% | ~78,642 |
-| Retry | 16.00% | ~78,642 |
+| Death From Above | 16.00% | ~78,643 |
+| Retry | 16.00% | ~78,643 |
 | Head Trauma | 12.00% | ~58,982 |
 | Full Defense | 10.00% | ~49,152 |
-| Overseer | 9.00% | ~44,236 |
+| Overseer | 9.00% | ~44,237 |
 | Annihilator | 8.00% | ~39,321 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~39,321 |
 | Indecisive | 6.00% | ~29,491 |
 | Base Defender | 5.00% | ~24,576 |
 | Relay Race | 5.00% | ~24,576 |
 | Tower Expert | 4.00% | ~19,661 |
-| Diversity | 3.00% | ~14,745 |
-| Full Potential | 3.00% | ~14,745 |
+| Diversity | 3.00% | ~14,746 |
+| Full Potential | 3.00% | ~14,746 |
 | Minimalist | 2.00% | ~9,830 |
 | Nail Biter | 2.00% | ~9,830 |
 | Siege Breaker | 2.00% | ~9,830 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~492 |
 | You Monster | 0.10% | ~492 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 491,515 (Ranked 38)  
+Progressed: 491,517 (Ranked 38)  
 Completed: 5 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,10 +332,10 @@ Completed: 5 (0.00%) (Ranked 374)
 | 2023-12-11 | 491,393 | 5 |
 | 2023-12-12 | 491,440 | 5 |
 | 2023-12-13 | 491,493 | 5 |
-| 2023-12-14 | 491,515 | 5 |
+| 2023-12-14 | 491,517 | 5 |
 ## Awards
 Max (Great for Beginners): 262  (Ranked 268)  
-Sum: 1,735 (Ranked 222)  
+Sum: 1,736 (Ranked 222)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
@@ -347,7 +347,7 @@ Diff (max vs sum): 46
 | This game has Challenging Combat | 186 |
 | This game has Amazing Storytelling | 183 |
 | This game has Amazing Characters | 175 |
-| This game has a Creative Community | 73 |
+| This game has a Creative Community | 74 |
 | This game has Playful Visuals | 38 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -507,3 +507,4 @@ Diff (max vs sum): 46
 | 2023-11-29 | 4.45 | - | 261 | 1,733 |
 | 2023-12-08 | 4.45 | - | 261 | 1,734 |
 | 2023-12-12 | 4.45 | - | 262 | 1,735 |
+| 2023-12-14 | 4.45 | - | 262 | 1,736 |

@@ -19,9 +19,9 @@ Rating: 4.39 (Ranked 757)
 | Vandalism | 4.00% | ~10,373 |
 | Capitalist I | 4.00% | ~10,373 |
 | Fixer II | 3.00% | ~7,780 |
+| It took a while | 3.00% | ~7,780 |
 | Adrenaline | 3.00% | ~7,780 |
 | By a hair | 2.00% | ~5,186 |
-| It took a while | 2.00% | ~5,186 |
 | Samurai | 2.00% | ~5,186 |
 | I Left You a Present | 2.00% | ~5,186 |
 | Predator II | 2.00% | ~5,186 |

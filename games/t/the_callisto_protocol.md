@@ -5,12 +5,12 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 10.00% | ~1,661 |
-| Paper Jams | 9.00% | ~1,495 |
-| Flesh Wound | 8.00% | ~1,329 |
-| Float Like A Butterfly | 8.00% | ~1,329 |
-| Chew 'Em Up | 7.00% | ~1,163 |
-| The Outer Way | 7.00% | ~1,163 |
+| Get a Grip | 10.00% | ~1,662 |
+| Paper Jams | 9.00% | ~1,496 |
+| Flesh Wound | 8.00% | ~1,330 |
+| Float Like A Butterfly | 8.00% | ~1,330 |
+| Chew 'Em Up | 7.00% | ~1,164 |
+| The Outer Way | 7.00% | ~1,164 |
 | Two Heads Are Better Than One | 6.00% | ~997 |
 | Workplace Hazard | 6.00% | ~997 |
 | Reforged | 6.00% | ~997 |
@@ -21,18 +21,18 @@ Rating: 4.19 (Ranked 939)
 | Crash Site | 6.00% | ~997 |
 | Full Circle | 6.00% | ~997 |
 | Power Up | 6.00% | ~997 |
-| Keep Fighting | 6.00% | ~272 |
+| Keep Fighting | 6.00% | ~273 |
 | You Need a Gun | 5.00% | ~831 |
 | I Do Belong Here | 5.00% | ~831 |
 | Terminated | 5.00% | ~831 |
 | What Lies Beneath | 5.00% | ~831 |
-| It's Time | 5.00% | ~227 |
+| It's Time | 5.00% | ~228 |
 | Giving Back | 4.00% | ~665 |
-| The Commonality | 3.00% | ~498 |
+| The Commonality | 3.00% | ~499 |
 | One Last Job | 3.00% | ~136 |
 | In Striking Distance | 2.00% | ~332 |
-| Big Spender | 1.00% | ~45 |
-| This Isn't About Escape | 1.00% | ~45 |
+| Big Spender | 1.00% | ~46 |
+| This Isn't About Escape | 1.00% | ~46 |
 | Armed to the Teeth | 0.90% | ~41 |
 | Grim Reaper | 0.80% | ~133 |
 | Parole Denied | 0.80% | ~36 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~5 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,614 (Ranked 150)  
+Progressed: 16,624 (Ranked 150)  
 Completed: 81 (0.49%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 81 (0.49%) (Ranked 213)
 | 2023-12-10 | 16,523 | 81 |
 | 2023-12-11 | 16,525 | 81 |
 | 2023-12-13 | 16,561 | 81 |
-| 2023-12-14 | 16,614 | 81 |
+| 2023-12-14 | 16,624 | 81 |
 ## Awards
 Max (Quickly Understood Controls): 85  (Ranked 389)  
 Sum: 506 (Ranked 327)  

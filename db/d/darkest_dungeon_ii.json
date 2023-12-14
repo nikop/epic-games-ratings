@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9678,9 +9678,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126808,
+  "EOS_Progressed": 126822,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1077,
+  "EOS_NewPlayers": 1086,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34943,6 +34943,11 @@
       "Time": "2023-12-14T07:09:54.074811+00:00",
       "NumProgressed": 126808,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T08:09:39.1101288+00:00",
+      "NumProgressed": 126822,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -34954,7 +34959,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -34968,9 +34973,9 @@
       "ID": "altar_of_hope_memory_equip_first_time",
       "SetID": "64l4lke",
       "Name": "It Rings a Bell",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 888
+      "UsersEstimate": 1015
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -35120,9 +35125,9 @@
       "ID": "combat_kill_fanatics",
       "SetID": "64l4lke",
       "Name": "Deprogramming",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 888
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -35344,9 +35349,9 @@
       "ID": "inn_first_time",
       "SetID": "64l4lke",
       "Name": "A Place to Lay Your Head",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 888
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -35362,15 +35367,15 @@
       "Name": "FNG",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "inn_visit_all_variants",
       "SetID": "64l4lke",
       "Name": "Worldly Traveller",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 761
+      "UsersEstimate": 888
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -35490,7 +35495,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "combat_kill_collector",
@@ -35498,7 +35503,7 @@
       "Name": "This guy... again?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35562,7 +35567,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -35585,21 +35590,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126808,
+      "Progressed": 126822,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1677,
+      "Progressed": 1691,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-14T05:00:52.0976777+00:00",
-  "LastChanged_Achievements": "2023-12-14T07:09:54.0748108+00:00",
+  "LastChanged_Achievements": "2023-12-14T08:09:39.1101283+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T07:01:26.4105779+00:00",
-  "LastUpdate_Achievements": "2023-12-14T07:09:54.0749563+00:00"
+  "LastUpdate_Ratings": "2023-12-14T08:00:37.4298092+00:00",
+  "LastUpdate_Achievements": "2023-12-14T08:09:39.110291+00:00"
 }

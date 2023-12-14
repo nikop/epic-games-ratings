@@ -2,7 +2,7 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 927,
+  "Ranking_Rating": 928,
   "Ranking_Popularity": 411,
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 52,
@@ -413,9 +413,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 328523,
+  "EOS_Progressed": 328546,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3425,
+  "EOS_NewPlayers": 3433,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9548,6 +9548,11 @@
       "Time": "2023-12-14T07:08:41.1292834+00:00",
       "NumProgressed": 328523,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-14T08:08:28.7812141+00:00",
+      "NumProgressed": 328546,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9568,7 +9573,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6570
+      "UsersEstimate": 6571
     },
     {
       "ID": "S03_OTWA",
@@ -9879,7 +9884,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 328523,
+      "Progressed": 328546,
       "Completed": 5
     }
   ],
@@ -9887,8 +9892,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-13T03:57:02.1052572+00:00",
-  "LastChanged_Achievements": "2023-12-14T07:08:41.1292832+00:00",
+  "LastChanged_Achievements": "2023-12-14T08:08:28.7812136+00:00",
   "LastUpdate_AppInfo": "2023-12-07T20:57:05.8241643+00:00",
-  "LastUpdate_Ratings": "2023-12-14T06:58:22.8772643+00:00",
-  "LastUpdate_Achievements": "2023-12-14T07:08:41.1293392+00:00"
+  "LastUpdate_Ratings": "2023-12-14T07:57:52.1292413+00:00",
+  "LastUpdate_Achievements": "2023-12-14T08:08:28.7812726+00:00"
 }

@@ -5,24 +5,24 @@ Rating: 4.75 (Ranked 148)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 1.00% | ~2,400 |
-| First of Many | 0.90% | ~2,160 |
-| Regicide | 0.80% | ~153 |
-| Master of the Dark Arts | 0.80% | ~153 |
-| Expanding Horizons | 0.60% | ~1,440 |
-| Quest for Survival | 0.60% | ~1,440 |
-| Not Your Average Trait | 0.60% | ~1,440 |
-| Am I Seeing This? | 0.50% | ~1,200 |
-| Gleaming the Cube | 0.50% | ~1,200 |
-| Not So Special Now | 0.50% | ~1,200 |
-| Not a Janitor | 0.50% | ~1,200 |
-| Familiar Face | 0.50% | ~1,200 |
-| Duality | 0.50% | ~1,200 |
-| Top Performer | 0.50% | ~1,200 |
-| Boss'n Up | 0.50% | ~1,200 |
-| Almost There | 0.50% | ~1,200 |
-| Good, But Could Be Better! | 0.50% | ~1,200 |
-| Trait Chaser | 0.50% | ~1,200 |
+| The Killing Jar | 1.00% | ~2,401 |
+| First of Many | 0.90% | ~2,161 |
+| Regicide | 0.80% | ~154 |
+| Master of the Dark Arts | 0.80% | ~154 |
+| Not Your Average Trait | 0.70% | ~1,681 |
+| Expanding Horizons | 0.60% | ~1,441 |
+| Quest for Survival | 0.60% | ~1,441 |
+| Am I Seeing This? | 0.50% | ~1,201 |
+| Gleaming the Cube | 0.50% | ~1,201 |
+| Not So Special Now | 0.50% | ~1,201 |
+| Not a Janitor | 0.50% | ~1,201 |
+| Familiar Face | 0.50% | ~1,201 |
+| Duality | 0.50% | ~1,201 |
+| Top Performer | 0.50% | ~1,201 |
+| Boss'n Up | 0.50% | ~1,201 |
+| Almost There | 0.50% | ~1,201 |
+| Good, But Could Be Better! | 0.50% | ~1,201 |
+| Trait Chaser | 0.50% | ~1,201 |
 | Chaos | 0.40% | ~960 |
 | Traitor | 0.40% | ~960 |
 | Forever is a Long Time Coming | 0.40% | ~960 |
@@ -57,11 +57,11 @@ Rating: 4.75 (Ranked 148)
 | Proving Grounds | 0.20% | ~480 |
 | Carnage in C-Minor | 0.20% | ~480 |
 | Maxed Out! | 0.20% | ~480 |
-| Succession | 0.20% | ~38 |
-| You Shall Pass | 0.20% | ~38 |
+| Succession | 0.20% | ~39 |
+| You Shall Pass | 0.20% | ~39 |
 | A Foul Feast | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,006 (Ranked 65)  
+Progressed: 240,122 (Ranked 65)  
 Completed: 584 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 584 (0.24%) (Ranked 252)
 | 2023-12-11 | 238,673 | 579 |
 | 2023-12-12 | 239,053 | 581 |
 | 2023-12-13 | 239,544 | 584 |
-| 2023-12-14 | 240,006 | 584 |
+| 2023-12-14 | 240,122 | 584 |
 ## Awards
 Max (Great Boss Battles): 2,741  (Ranked 102)  
 Sum: 6,884 (Ranked 126)  

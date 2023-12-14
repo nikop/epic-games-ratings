@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8737,9 +8737,9 @@
       "Count": 3571
     }
   ],
-  "EOS_Progressed": 239992,
+  "EOS_Progressed": 240009,
   "EOS_Completed": 2522,
-  "EOS_NewPlayers": 1299,
+  "EOS_NewPlayers": 1312,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -35532,6 +35532,11 @@
       "Time": "2023-12-14T07:11:19.4315472+00:00",
       "NumProgressed": 239992,
       "NumCompleted": 2522
+    },
+    {
+      "Time": "2023-12-14T08:10:58.5981748+00:00",
+      "NumProgressed": 240009,
+      "NumCompleted": 2522
     }
   ],
   "TotalAchievements": 546,
@@ -36085,9 +36090,9 @@
       "ID": "objective_completed_1138",
       "SetID": "415jc5c",
       "Name": "The Loots of Loomlurch",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1139",
@@ -36397,9 +36402,9 @@
       "ID": "objective_completed_1199",
       "SetID": "415jc5c",
       "Name": "Kas the Destroyer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_12",
@@ -36581,9 +36586,9 @@
       "ID": "objective_completed_1335",
       "SetID": "415jc5c",
       "Name": "The Bitter End",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1336",
@@ -39525,9 +39530,9 @@
       "ID": "objective_completed_1332",
       "SetID": "415jc5c",
       "Name": "All The World\u0027s A Stage",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_568",
@@ -39829,9 +39834,9 @@
       "ID": "objective_completed_1557",
       "SetID": "415jc5c",
       "Name": "Welcome to Sigil",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 619
+      "UsersEstimate": 825
     },
     {
       "ID": "objective_completed_1558",
@@ -39910,21 +39915,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 206266,
-      "Completed": 3971
+      "Progressed": 206283,
+      "Completed": 3972
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 239992,
+      "Progressed": 240009,
       "Completed": 2522
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-14T02:19:16.5415371+00:00",
-  "LastChanged_Achievements": "2023-12-14T07:11:19.4315465+00:00",
+  "LastChanged_Achievements": "2023-12-14T08:10:58.5981744+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-14T06:58:08.8658086+00:00",
-  "LastUpdate_Achievements": "2023-12-14T07:11:19.433829+00:00"
+  "LastUpdate_Ratings": "2023-12-14T07:57:39.2966066+00:00",
+  "LastUpdate_Achievements": "2023-12-14T08:10:58.6009423+00:00"
 }

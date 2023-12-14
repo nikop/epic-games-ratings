@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 596,
+  "EOS_Progressed": 597,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1927,6 +1927,11 @@
       "Time": "2023-12-14T06:09:16.7376677+00:00",
       "NumProgressed": 596,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T08:09:33.0277024+00:00",
+      "NumProgressed": 597,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1938,7 +1943,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1986,7 +1991,7 @@
       "Name": "Furious Scorpion Killer",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -1994,7 +1999,7 @@
       "Name": "Lethal Blade Mantis Killer",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -2002,7 +2007,7 @@
       "Name": "Squeaky Clean",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -2010,7 +2015,7 @@
       "Name": "Kind Adventurer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -2018,7 +2023,7 @@
       "Name": "Mermaid Killer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -2026,7 +2031,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2034,7 +2039,7 @@
       "Name": "Cave Master",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -2042,7 +2047,7 @@
       "Name": "Face Slapper",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -2066,7 +2071,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2082,15 +2087,15 @@
       "Name": "Master Artificer",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 310
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2106,7 +2111,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2266,7 +2271,7 @@
       "Name": "Flower Thief",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2288,16 +2293,16 @@
       "ID": "ACHIEVEMENT_9",
       "SetID": "7pimpda",
       "Name": "Handyman",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 161
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 596,
+      "Progressed": 597,
       "Completed": 1
     }
   ],
@@ -2305,8 +2310,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-14T07:09:47.7576664+00:00",
+  "LastChanged_Achievements": "2023-12-14T08:09:33.0277021+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.1790952+00:00",
-  "LastUpdate_Ratings": "2023-12-14T06:58:37.729495+00:00",
-  "LastUpdate_Achievements": "2023-12-14T07:09:47.7577076+00:00"
+  "LastUpdate_Ratings": "2023-12-14T07:58:05.8788348+00:00",
+  "LastUpdate_Achievements": "2023-12-14T08:09:33.0277421+00:00"
 }

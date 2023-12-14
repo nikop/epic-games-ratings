@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -824,7 +824,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5486,
+  "EOS_Progressed": 5487,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
@@ -10984,6 +10984,11 @@
       "Time": "2023-12-14T07:06:35.3507176+00:00",
       "NumProgressed": 5486,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-14T08:05:58.4589558+00:00",
+      "NumProgressed": 5487,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11044,7 +11049,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11092,7 +11097,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -11148,7 +11153,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -11179,15 +11184,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5486,
+      "Progressed": 5487,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-11T15:58:13.4917399+00:00",
-  "LastChanged_Achievements": "2023-12-14T07:06:35.3507172+00:00",
+  "LastChanged_Achievements": "2023-12-14T08:05:58.4589553+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.410244+00:00",
-  "LastUpdate_Ratings": "2023-12-14T07:01:18.1846252+00:00",
-  "LastUpdate_Achievements": "2023-12-14T07:06:35.3507777+00:00"
+  "LastUpdate_Ratings": "2023-12-14T08:00:29.7564161+00:00",
+  "LastUpdate_Achievements": "2023-12-14T08:05:58.4590069+00:00"
 }

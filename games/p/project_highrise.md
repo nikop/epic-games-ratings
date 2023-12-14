@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 60.00% | ~217 |
-| Starting Skyward | 54.00% | ~195 |
+| In the Black | 60.00% | ~218 |
+| Starting Skyward | 53.00% | ~192 |
 | Grime is Not Good | 48.00% | ~174 |
-| Floor Galore | 41.00% | ~148 |
-| Campaign Launch | 41.00% | ~148 |
-| Dinner Dash | 41.00% | ~148 |
+| Floor Galore | 41.00% | ~149 |
+| Dinner Dash | 41.00% | ~149 |
+| Campaign Launch | 40.00% | ~145 |
 | Need a Consult | 38.00% | ~138 |
-| It's Technical | 38.00% | ~138 |
-| Upgrade Unlock | 36.00% | ~130 |
-| Delegate Maintenance | 35.00% | ~127 |
+| It's Technical | 37.00% | ~134 |
+| Upgrade Unlock | 36.00% | ~131 |
+| Delegate Maintenance | 34.00% | ~123 |
 | Proper Walls | 32.00% | ~116 |
 | Destination Destiny | 32.00% | ~116 |
 | Happy Tenants | 26.00% | ~94 |
 | Potent Potables | 26.00% | ~94 |
 | Smooth Service | 26.00% | ~94 |
-| Retail Revenue | 25.00% | ~90 |
+| Retail Revenue | 25.00% | ~91 |
 | Your Prestige is Rising | 24.00% | ~87 |
 | Don't Feel a Loan | 23.00% | ~83 |
 | People Mover | 22.00% | ~80 |
 | Lux Living | 21.00% | ~76 |
 | Artfully Done | 21.00% | ~76 |
 | Leveled Up Shops | 21.00% | ~76 |
-| Emporium Empire | 20.00% | ~72 |
-| Get Electrified | 20.00% | ~72 |
+| Emporium Empire | 20.00% | ~73 |
+| Get Electrified | 20.00% | ~73 |
 | Rehab Expert | 19.00% | ~69 |
 | Tasty Profits | 19.00% | ~69 |
 | We Don't Need No Education | 19.00% | ~69 |
@@ -37,8 +37,8 @@
 | Starred Dining | 15.00% | ~54 |
 | Smooth Operator | 14.00% | ~51 |
 | Boutique Benefits | 14.00% | ~51 |
-| Thrilled Tenants | 14.00% | ~51 |
 | Terrifically Trashed | 13.00% | ~47 |
+| Thrilled Tenants | 13.00% | ~47 |
 | 28 Days Later | 11.00% | ~40 |
 | Swimming in Surplus | 11.00% | ~40 |
 | Aestheticly Pleased | 10.00% | ~36 |
@@ -62,9 +62,9 @@
 | It's a Gas | 6.00% | ~22 |
 | Meet ADA/360 | 5.00% | ~18 |
 | Baron of Business | 5.00% | ~18 |
-| Office Bigwigs | 4.00% | ~14 |
-| Three of a Kind | 4.00% | ~14 |
-| Sandbagger | 4.00% | ~14 |
+| Office Bigwigs | 4.00% | ~15 |
+| Three of a Kind | 4.00% | ~15 |
+| Sandbagger | 4.00% | ~15 |
 | Decorator's Touch | 3.00% | ~11 |
 | Apartment Awareness | 3.00% | ~11 |
 | Luxury Boutiques | 3.00% | ~11 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 362 (Ranked 342)  
+Progressed: 363 (Ranked 342)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-11-30 | 356 | 0 |
 | 2023-12-03 | 357 | 0 |
 | 2023-12-13 | 360 | 0 |
-| 2023-12-14 | 362 | 0 |
+| 2023-12-14 | 363 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

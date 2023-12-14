@@ -2,9 +2,9 @@
   "ID": "cc0a46b0f9844d79a343e2d394ac0598",
   "Name": "Rise of the Third Power",
   "ProductSlug": "rise-of-the-third-power-682886",
-  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 150,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.03,
+  "EOS_Completed_Percentage": 4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.958758+00:00",
@@ -199,6 +199,11 @@
       "Time": "2023-12-07T15:04:28.3048608+00:00",
       "NumProgressed": 149,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-14T08:04:52.2378654+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 21,
@@ -232,7 +237,7 @@
       "ID": "Bloodlust",
       "SetID": "4nce15l",
       "Name": "Bloodlust",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 80
     },
@@ -264,9 +269,9 @@
       "ID": "Feast",
       "SetID": "4nce15l",
       "Name": "Feast",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "Geared",
@@ -274,7 +279,7 @@
       "Name": "Geared",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "GettingItDone",
@@ -282,7 +287,7 @@
       "Name": "Gettin\u0027 It Done",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "MasterCrafter",
@@ -290,7 +295,7 @@
       "Name": "Master Crafter",
       "Percentage": 13,
       "XP": 130,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "MasterTrader",
@@ -298,7 +303,7 @@
       "Name": "Master Trader",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "MysteriesOfRin",
@@ -306,7 +311,7 @@
       "Name": "Mysteries of Rin",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Opulent",
@@ -320,9 +325,9 @@
       "ID": "Overpowered",
       "SetID": "4nce15l",
       "Name": "Overpowered",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 118
     },
     {
       "ID": "Patience",
@@ -344,17 +349,17 @@
       "ID": "SideJob",
       "SetID": "4nce15l",
       "Name": "Side Job",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 114
     },
     {
       "ID": "Sparkly",
       "SetID": "4nce15l",
       "Name": "Sparkly",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 44
     },
     {
       "ID": "Specialist",
@@ -377,7 +382,7 @@
     {
       "ID": "4nce15l",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 6
     }
   ],
@@ -385,8 +390,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-12-14T07:05:24.7775643+00:00",
+  "LastChanged_Achievements": "2023-12-14T08:04:52.2378649+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:57.2570638+00:00",
-  "LastUpdate_Ratings": "2023-12-14T06:58:23.8566202+00:00",
-  "LastUpdate_Achievements": "2023-12-14T07:05:24.7775857+00:00"
+  "LastUpdate_Ratings": "2023-12-14T07:57:53.2267522+00:00",
+  "LastUpdate_Achievements": "2023-12-14T08:04:52.237882+00:00"
 }

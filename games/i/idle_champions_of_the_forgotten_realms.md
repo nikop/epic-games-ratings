@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sigil | 0.30% | ~619 |
+| Welcome to Sigil | 0.40% | ~825 |
 | Fast Food | 0.30% | ~619 |
 | A Brief Tour of the Realms | 0.10% | ~240 |
 | Maddening | 0.10% | ~240 |
@@ -73,6 +73,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Will of the Feywild | 0.10% | ~206 |
 | All Damage, All The Time | 0.10% | ~206 |
 | The Roots of Loomlurch | 0.10% | ~206 |
+| The Loots of Loomlurch | 0.10% | ~206 |
 | The Lutes of Loomlurch | 0.10% | ~206 |
 | Supply Run | 0.10% | ~240 |
 | Best Laid Plans | 0.10% | ~206 |
@@ -109,6 +110,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sanctum of the Sword | 0.10% | ~206 |
 | Kas the Bloody Handed | 0.10% | ~206 |
 | Get Back In The Castle | 0.10% | ~206 |
+| Kas the Destroyer | 0.10% | ~206 |
 | Were-verpowered | 0.10% | ~240 |
 | Checkmate | 0.10% | ~206 |
 | Pin and Skewer | 0.10% | ~206 |
@@ -128,6 +130,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Taking Responsibility | 0.10% | ~240 |
 | The Minions of Endelyn Moongrave | 0.10% | ~206 |
 | Love Unsoiled | 0.10% | ~206 |
+| The Bitter End | 0.10% | ~206 |
 | A Nimble Approach | 0.10% | ~206 |
 | The Palace of Heart's Desire | 0.10% | ~206 |
 | Anchors Aweigh | 0.10% | ~206 |
@@ -486,6 +489,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Devilishly Cold | 0.10% | ~206 |
 | The Champion's Guide to Wildspace | 0.10% | ~206 |
 | Not That Type of Helm! | 0.10% | ~206 |
+| All The World's A Stage | 0.10% | ~206 |
 | Calcryx Tricks | 0.10% | ~206 |
 | Goblin Halls: the Next Generation | 0.10% | ~206 |
 | Bazaar Companions | 0.10% | ~206 |
@@ -534,14 +538,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Squeeze the Spiders | 0.00% | ~0 |
 | Third Third Out | 0.00% | ~0 |
 | Will of the Frozen Feywild | 0.00% | ~0 |
-| The Loots of Loomlurch | 0.00% | ~0 |
 | G. O. A. T. | 0.00% | ~0 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
-| Kas the Destroyer | 0.00% | ~0 |
 | Who Lurks Below? | 0.00% | ~0 |
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
 | The Play's the Thing! | 0.00% | ~0 |
-| The Bitter End | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | No One Can Hear You Scream | 0.00% | ~0 |
 | Vault of Cuteness | 0.00% | ~0 |
@@ -551,9 +552,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | Tekeli-li's Hunt | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
-| All The World's A Stage | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,992 (Ranked 66)  
+Progressed: 240,009 (Ranked 66)  
 Completed: 2,522 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -791,7 +791,7 @@ Completed: 2,522 (1.05%) (Ranked 167)
 | 2023-12-11 | 239,456 | 2,517 |
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
-| 2023-12-14 | 239,992 | 2,522 |
+| 2023-12-14 | 240,009 | 2,522 |
 ## Awards
 Max (Great for Beginners): 5,624  (Ranked 70)  
 Sum: 32,848 (Ranked 41)  

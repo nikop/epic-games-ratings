@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -143,9 +143,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15116,
+  "EOS_Progressed": 15118,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3593,6 +3593,11 @@
       "Time": "2023-12-14T07:10:09.5225353+00:00",
       "NumProgressed": 15116,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-14T08:09:53.8334834+00:00",
+      "NumProgressed": 15118,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -3605,7 +3610,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5744
+      "UsersEstimate": 5745
     },
     {
       "ID": "ACH_AE_10",
@@ -3613,7 +3618,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "ACH_AE_11",
@@ -3637,7 +3642,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11337
+      "UsersEstimate": 11338
     },
     {
       "ID": "ACH_AE_14",
@@ -3685,7 +3690,7 @@
       "Name": "Signature Style",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH_AE_2",
@@ -3773,7 +3778,7 @@
       "Name": "Swiped Right",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ACH_AE_3",
@@ -3884,7 +3889,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15116,
+      "Progressed": 15118,
       "Completed": 15
     }
   ],
@@ -3892,8 +3897,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-13T16:00:23.030195+00:00",
-  "LastChanged_Achievements": "2023-12-14T07:10:09.5225347+00:00",
+  "LastChanged_Achievements": "2023-12-14T08:09:53.8334826+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:28.350985+00:00",
-  "LastUpdate_Ratings": "2023-12-14T07:01:11.0552092+00:00",
-  "LastUpdate_Achievements": "2023-12-14T07:10:09.5225732+00:00"
+  "LastUpdate_Ratings": "2023-12-14T08:00:23.4658906+00:00",
+  "LastUpdate_Achievements": "2023-12-14T08:09:53.8335169+00:00"
 }

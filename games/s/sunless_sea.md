@@ -6,7 +6,7 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~15,179 |
+| Sink Beneath the Waves | 36.00% | ~15,180 |
 | Sweet Sorrow | 18.00% | ~7,590 |
 | Rules the Waves | 17.00% | ~7,168 |
 | Thou, All-Shaking Thunder | 15.00% | ~6,325 |
@@ -37,15 +37,15 @@ Number of Ratings: 401  (23.09.2022)
 | Knife, Cup and Bone | 1.00% | ~422 |
 | Rosewater sailor | 1.00% | ~422 |
 | A current under zee | 1.00% | ~422 |
-| Never Stop Sinking... | 0.90% | ~379 |
-| His bones in whispers | 0.90% | ~379 |
-| The beauty of the deep | 0.90% | ~379 |
-| The dragon in the zee | 0.90% | ~379 |
-| Thanks for all the fish | 0.90% | ~379 |
-| Those are pearls that were his eyes | 0.90% | ~379 |
-| No regrets | 0.90% | ~379 |
-| Under the zee | 0.90% | ~379 |
-| Depth charge | 0.90% | ~379 |
+| Never Stop Sinking... | 0.90% | ~380 |
+| His bones in whispers | 0.90% | ~380 |
+| The beauty of the deep | 0.90% | ~380 |
+| The dragon in the zee | 0.90% | ~380 |
+| Thanks for all the fish | 0.90% | ~380 |
+| Those are pearls that were his eyes | 0.90% | ~380 |
+| No regrets | 0.90% | ~380 |
+| Under the zee | 0.90% | ~380 |
+| Depth charge | 0.90% | ~380 |
 | A zee-change | 0.80% | ~337 |
 | Leviathan | 0.80% | ~337 |
 | What lies beneath | 0.70% | ~295 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~42 |
 | Ten Years at Zee | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,165 (Ranked 122)  
+Progressed: 42,167 (Ranked 122)  
 Completed: 4 (0.01%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 4 (0.01%) (Ranked 351)
 | 2023-12-11 | 42,065 | 4 |
 | 2023-12-12 | 42,103 | 4 |
 | 2023-12-13 | 42,152 | 4 |
-| 2023-12-14 | 42,165 | 4 |
+| 2023-12-14 | 42,167 | 4 |
 ## Awards
 Max (Character Customization): 219  (Ranked 284)  
 Sum: 313 (Ranked 365)  

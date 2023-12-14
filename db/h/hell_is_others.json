@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1329,7 +1329,7 @@
   ],
   "EOS_Progressed": 259322,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24311,9 +24311,9 @@
       "ID": "KillCrawlingThing",
       "SetID": "3l9dm1h",
       "Name": "It took a while",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5186
+      "UsersEstimate": 7780
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -24528,8 +24528,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-13T14:02:36.8931746+00:00",
-  "LastChanged_Achievements": "2023-12-14T07:05:18.1629899+00:00",
+  "LastChanged_Achievements": "2023-12-14T08:04:46.0006102+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:52.9725586+00:00",
-  "LastUpdate_Ratings": "2023-12-14T07:03:23.6353567+00:00",
-  "LastUpdate_Achievements": "2023-12-14T07:05:18.1631507+00:00"
+  "LastUpdate_Ratings": "2023-12-14T08:02:56.7025714+00:00",
+  "LastUpdate_Achievements": "2023-12-14T08:04:46.0007867+00:00"
 }

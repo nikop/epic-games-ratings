@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 3730,
+  "Ranking_EOS_NewPlayers": 3731,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -609,9 +609,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 18195,
+  "EOS_Progressed": 18194,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": -68,
+  "EOS_NewPlayers": -69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10699,6 +10699,11 @@
       "Time": "2023-12-14T01:53:21.2302682+00:00",
       "NumProgressed": 18195,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-12-14T08:08:33.6537333+00:00",
+      "NumProgressed": 18194,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 37,
@@ -10718,7 +10723,7 @@
       "Name": "Helper of the People",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 7642
+      "UsersEstimate": 7641
     },
     {
       "ID": "ach.030.deertastic",
@@ -10742,7 +10747,7 @@
       "Name": "Builder",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 16194
+      "UsersEstimate": 16193
     },
     {
       "ID": "ach.060.goingdistance",
@@ -10774,7 +10779,7 @@
       "Name": "Perfectionist",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4549
+      "UsersEstimate": 4548
     },
     {
       "ID": "ach.100.indecisive",
@@ -10806,7 +10811,7 @@
       "Name": "Minimalist",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 17649
+      "UsersEstimate": 17648
     },
     {
       "ID": "ach.140.legacy",
@@ -10814,7 +10819,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 105,
       "XP": 60,
-      "UsersEstimate": 19105
+      "UsersEstimate": 19104
     },
     {
       "ID": "ach.150.pocket",
@@ -10846,7 +10851,7 @@
       "Name": "Inspector",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 11463
+      "UsersEstimate": 11462
     },
     {
       "ID": "ach.190.scenic",
@@ -10870,7 +10875,7 @@
       "Name": "Oil Baron",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 8188
+      "UsersEstimate": 8187
     },
     {
       "ID": "ach.220.hot",
@@ -10894,7 +10899,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 8188
+      "UsersEstimate": 8187
     },
     {
       "ID": "ach.250.downfall",
@@ -10902,7 +10907,7 @@
       "Name": "Before the Downfall",
       "Percentage": 100,
       "XP": 60,
-      "UsersEstimate": 18195
+      "UsersEstimate": 18194
     },
     {
       "ID": "ach.260.investor",
@@ -10958,7 +10963,7 @@
       "Name": "Industrialist",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 4913
+      "UsersEstimate": 4912
     },
     {
       "ID": "ach.330.water",
@@ -10966,7 +10971,7 @@
       "Name": "Money like Water",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 17831
+      "UsersEstimate": 17830
     },
     {
       "ID": "ach.340.steel",
@@ -10982,7 +10987,7 @@
       "Name": "Trains over Pipes",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4549
+      "UsersEstimate": 4548
     },
     {
       "ID": "ach.360.lightning",
@@ -11005,7 +11010,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18195,
+      "Progressed": 18194,
       "Completed": 27
     }
   ],
@@ -11013,8 +11018,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-12-10T14:59:42.7930094+00:00",
-  "LastChanged_Achievements": "2023-12-14T07:08:46.3116582+00:00",
+  "LastChanged_Achievements": "2023-12-14T08:08:33.6537328+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:15.202308+00:00",
-  "LastUpdate_Ratings": "2023-12-14T06:58:34.681151+00:00",
-  "LastUpdate_Achievements": "2023-12-14T07:08:46.3117329+00:00"
+  "LastUpdate_Ratings": "2023-12-14T07:58:02.9998508+00:00",
+  "LastUpdate_Achievements": "2023-12-14T08:08:33.6538121+00:00"
 }

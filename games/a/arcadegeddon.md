@@ -6,17 +6,17 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 87.00% | ~8,615 |
+| Let's Get This Party Started | 87.00% | ~8,616 |
 | Photogenic | 83.00% | ~8,219 |
 | Surge Gauntlet Jockey | 80.00% | ~7,922 |
 | Plug It In | 79.00% | ~7,823 |
 | Adventure Time | 76.00% | ~7,526 |
-| Playing With Power | 73.00% | ~7,228 |
-| Coup d'Etat | 56.00% | ~5,545 |
-| You're Fired | 55.00% | ~5,446 |
-| Get Furious | 54.00% | ~5,347 |
-| Hacks In Stacks | 53.00% | ~5,248 |
-| Gunplay And Cosplay | 52.00% | ~5,149 |
+| Playing With Power | 73.00% | ~7,229 |
+| Coup d'Etat | 56.00% | ~5,546 |
+| Get Furious | 54.00% | ~5,348 |
+| You're Fired | 54.00% | ~5,348 |
+| Hacks In Stacks | 53.00% | ~5,249 |
+| Gunplay And Cosplay | 52.00% | ~5,150 |
 | Meching Enemies | 46.00% | ~4,555 |
 | Ticket Toddler | 42.00% | ~4,159 |
 | Booty Bashing | 37.00% | ~3,664 |
@@ -26,8 +26,8 @@ Number of Ratings: 801  (23.09.2022)
 | Surge Ahead | 29.00% | ~2,872 |
 | The Full Monty | 29.00% | ~2,872 |
 | Guardian Angel | 26.00% | ~2,575 |
-| Poppin Noggins | 23.00% | ~2,277 |
-| Clips and Crits | 18.00% | ~1,782 |
+| Poppin Noggins | 23.00% | ~2,278 |
+| Clips and Crits | 18.00% | ~1,783 |
 | Grey Goo | 16.00% | ~1,584 |
 | Boss of Bosses | 15.00% | ~1,485 |
 | The Final Blow | 14.00% | ~1,386 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~40 |
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,902 (Ranked 168)  
+Progressed: 9,903 (Ranked 168)  
 Completed: 2 (0.02%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,11 +295,11 @@ Completed: 2 (0.02%) (Ranked 343)
 | 2023-12-11 | 9,870 | 2 |
 | 2023-12-12 | 9,880 | 2 |
 | 2023-12-13 | 9,897 | 2 |
-| 2023-12-14 | 9,902 | 2 |
+| 2023-12-14 | 9,903 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 413)  
-Sum: 465 (Ranked 334)  
-Diff (max vs sum): 79  
+Sum: 465 (Ranked 335)  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 65 |

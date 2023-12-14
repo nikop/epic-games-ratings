@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2239,
+  "EOS_Progressed": 2240,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3952,6 +3952,11 @@
       "Time": "2023-12-14T07:06:08.4117912+00:00",
       "NumProgressed": 2239,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-14T08:05:33.2444538+00:00",
+      "NumProgressed": 2240,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 30,
@@ -3963,7 +3968,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "Collect20Gold",
@@ -4043,7 +4048,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1836
+      "UsersEstimate": 1837
     },
     {
       "ID": "CompleteHunterFaction",
@@ -4065,9 +4070,9 @@
       "ID": "DefeatAvor",
       "SetID": "9lj35g4",
       "Name": "Defeat Avor Warden of the Northern Wastes",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 470
+      "UsersEstimate": 448
     },
     {
       "ID": "DefeatMoziQueen",
@@ -4099,7 +4104,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "GetRangedWeapon",
@@ -4107,7 +4112,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "GetTHWeapon",
@@ -4115,7 +4120,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "Kill25Bugs",
@@ -4139,7 +4144,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "MeetTheMoles",
@@ -4155,7 +4160,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "RepairChef",
@@ -4179,7 +4184,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "RescueBrothers",
@@ -4187,7 +4192,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "ReturnPowerInMines",
@@ -4202,22 +4207,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2239,
+      "Progressed": 2240,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 880,
-      "Completed": 880
+      "Progressed": 881,
+      "Completed": 881
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-12-14T07:06:08.411791+00:00",
+  "LastChanged_Achievements": "2023-12-14T08:05:33.2444529+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:13.9280126+00:00",
-  "LastUpdate_Ratings": "2023-12-14T06:58:29.535341+00:00",
-  "LastUpdate_Achievements": "2023-12-14T07:06:08.4118236+00:00"
+  "LastUpdate_Ratings": "2023-12-14T07:57:58.3733082+00:00",
+  "LastUpdate_Achievements": "2023-12-14T08:05:33.2444851+00:00"
 }

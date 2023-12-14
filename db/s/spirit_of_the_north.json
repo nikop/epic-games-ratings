@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 76719,
+  "EOS_Progressed": 76721,
   "EOS_Completed": 413,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -26509,6 +26509,11 @@
       "Time": "2023-12-14T07:10:30.2619138+00:00",
       "NumProgressed": 76719,
       "NumCompleted": 413
+    },
+    {
+      "Time": "2023-12-14T08:10:12.7214038+00:00",
+      "NumProgressed": 76721,
+      "NumCompleted": 413
     }
   ],
   "TotalAchievements": 24,
@@ -26528,7 +26533,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16878
+      "UsersEstimate": 16879
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -26536,7 +26541,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 52936
+      "UsersEstimate": 52937
     },
     {
       "ID": "BEST_FRIENDS",
@@ -26544,7 +26549,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16878
+      "UsersEstimate": 16879
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -26568,7 +26573,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21481
+      "UsersEstimate": 21482
     },
     {
       "ID": "FOXIN_AROUND",
@@ -26592,7 +26597,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 13809
+      "UsersEstimate": 13810
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -26600,7 +26605,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 40661
+      "UsersEstimate": 40662
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -26680,7 +26685,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 13042
+      "UsersEstimate": 13043
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -26696,7 +26701,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 9206
+      "UsersEstimate": 9207
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -26711,7 +26716,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 76719,
+      "Progressed": 76721,
       "Completed": 413
     }
   ],
@@ -26719,8 +26724,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2023-12-14T07:10:30.2619135+00:00",
+  "LastChanged_Achievements": "2023-12-14T08:10:12.7214032+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:25.3960201+00:00",
-  "LastUpdate_Ratings": "2023-12-14T07:03:33.225721+00:00",
-  "LastUpdate_Achievements": "2023-12-14T07:10:30.2620499+00:00"
+  "LastUpdate_Ratings": "2023-12-14T08:03:05.5532304+00:00",
+  "LastUpdate_Achievements": "2023-12-14T08:10:12.721518+00:00"
 }
