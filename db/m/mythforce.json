@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -824,9 +824,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5487,
+  "EOS_Progressed": 5489,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -10989,6 +10989,11 @@
       "Time": "2023-12-14T08:05:58.4589558+00:00",
       "NumProgressed": 5487,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-14T09:06:01.5206123+00:00",
+      "NumProgressed": 5489,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11017,7 +11022,7 @@
       "Name": "Deadication",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -11057,7 +11062,7 @@
       "Name": "First Strike",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -11113,7 +11118,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -11145,7 +11150,7 @@
       "Name": "Season Finale",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -11184,15 +11189,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5487,
+      "Progressed": 5489,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-11T15:58:13.4917399+00:00",
-  "LastChanged_Achievements": "2023-12-14T08:05:58.4589553+00:00",
+  "LastChanged_Achievements": "2023-12-14T09:06:01.5206117+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.410244+00:00",
-  "LastUpdate_Ratings": "2023-12-14T08:00:29.7564161+00:00",
-  "LastUpdate_Achievements": "2023-12-14T08:05:58.4590069+00:00"
+  "LastUpdate_Ratings": "2023-12-14T09:00:43.7051019+00:00",
+  "LastUpdate_Achievements": "2023-12-14T09:06:01.5206713+00:00"
 }

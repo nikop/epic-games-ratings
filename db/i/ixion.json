@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3435,
+  "EOS_Progressed": 3437,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6256,6 +6256,11 @@
       "Time": "2023-12-14T08:05:04.9196046+00:00",
       "NumProgressed": 3435,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T09:05:08.1418044+00:00",
+      "NumProgressed": 3437,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6267,7 +6272,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "ACH_BASE_10",
@@ -6355,7 +6360,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "ACH_BASE_22",
@@ -6379,7 +6384,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "ACH_BASE_25",
@@ -6395,7 +6400,7 @@
       "Name": "Sightseeing",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_BASE_27",
@@ -6419,7 +6424,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ACH_BASE_3",
@@ -6467,7 +6472,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ACH_BASE_35",
@@ -6491,7 +6496,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_BASE_38",
@@ -6699,7 +6704,7 @@
       "Name": "From the Past",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_BASE_8",
@@ -6722,13 +6727,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1619,
+      "Progressed": 1621,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3435,
+      "Progressed": 3437,
       "Completed": 0
     }
   ],
@@ -6736,8 +6741,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-14T08:05:04.9196044+00:00",
+  "LastChanged_Achievements": "2023-12-14T09:05:08.141804+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4855137+00:00",
-  "LastUpdate_Ratings": "2023-12-14T07:57:03.5086434+00:00",
-  "LastUpdate_Achievements": "2023-12-14T08:05:04.9196785+00:00"
+  "LastUpdate_Ratings": "2023-12-14T08:57:12.9828991+00:00",
+  "LastUpdate_Achievements": "2023-12-14T09:05:08.1418887+00:00"
 }

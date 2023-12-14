@@ -12,9 +12,9 @@
 | Artifact Collector | 20.00% | ~102 |
 | Trap Master | 19.00% | ~97 |
 | Ghost Buster | 16.00% | ~82 |
+| Reincarnation | 16.00% | ~82 |
 | Iconoclasm | 15.00% | ~76 |
-| Reincarnation | 15.00% | ~76 |
-| Librarian | 13.00% | ~66 |
+| Librarian | 14.00% | ~71 |
 | Lumberjack | 13.00% | ~66 |
 | Orcs Must Die! | 13.00% | ~66 |
 | Gladiator | 12.00% | ~61 |

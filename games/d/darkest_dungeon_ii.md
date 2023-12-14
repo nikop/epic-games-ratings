@@ -8,20 +8,20 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 5.00% | ~85 |
 | This guy... again? | 3.00% | ~51 |
-| This Belongs in a Museum | 2.00% | ~2,536 |
-| Not Today! | 2.00% | ~2,536 |
-| Catch and Decease | 2.00% | ~2,536 |
-| Overdue Notice | 2.00% | ~2,536 |
-| Escape from the Black Hole | 2.00% | ~2,536 |
-| Autodidact | 2.00% | ~2,536 |
+| This Belongs in a Museum | 2.00% | ~2,537 |
+| Not Today! | 2.00% | ~2,537 |
+| Catch and Decease | 2.00% | ~2,537 |
+| Overdue Notice | 2.00% | ~2,537 |
+| Escape from the Black Hole | 2.00% | ~2,537 |
+| Autodidact | 2.00% | ~2,537 |
 | Bloody Graduation | 2.00% | ~34 |
 | Lost and Found | 2.00% | ~34 |
 | Creep and Sleep | 1.00% | ~1,268 |
 | Meat and Greet | 1.00% | ~1,268 |
 | Ploughshares to Swords | 1.00% | ~17 |
-| Serenity Now! | 0.90% | ~1,141 |
-| Rush Hour | 0.90% | ~1,141 |
-| To Grandmother's House | 0.90% | ~1,141 |
+| Serenity Now! | 0.90% | ~1,142 |
+| Rush Hour | 0.90% | ~1,142 |
+| To Grandmother's House | 0.90% | ~1,142 |
 | Don't Make Me Turn This Coach Around | 0.80% | ~1,015 |
 | It Rings a Bell | 0.80% | ~1,015 |
 | FNG | 0.80% | ~1,015 |
@@ -37,6 +37,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 0.70% | ~888 |
 | Banishment | 0.60% | ~761 |
 | Now Stay Dead | 0.60% | ~761 |
+| Spelunker | 0.60% | ~761 |
 | Road Trip | 0.60% | ~761 |
 | Resurrection | 0.50% | ~634 |
 | Unleash Hell | 0.50% | ~634 |
@@ -47,7 +48,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unfulfilled Desires | 0.50% | ~634 |
 | Predator | 0.50% | ~634 |
 | Reverse Banditry | 0.50% | ~634 |
-| Spelunker | 0.50% | ~634 |
 | Ramble On | 0.50% | ~634 |
 | A Clear Conscience | 0.50% | ~634 |
 | When You Want Something Done Right | 0.50% | ~634 |
@@ -57,10 +57,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | No More Mouths to Feed | 0.40% | ~507 |
 | Utopia | 0.40% | ~507 |
 | Slap on the Wrist | 0.40% | ~7 |
-| This Looks Familiar | 0.30% | ~380 |
-| Hot Air | 0.30% | ~380 |
-| Eyes Up | 0.30% | ~380 |
-| Body of Work | 0.30% | ~380 |
+| This Looks Familiar | 0.30% | ~381 |
+| Hot Air | 0.30% | ~381 |
+| Eyes Up | 0.30% | ~381 |
+| Body of Work | 0.30% | ~381 |
 | Maître De La Lame | 0.30% | ~5 |
 | Et Tu, Riposte? | 0.30% | ~5 |
 | Clearing the Ledger | 0.20% | ~254 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,822 (Ranked 84)  
+Progressed: 126,840 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 3 (0.00%) (Ranked 374)
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
-| 2023-12-14 | 126,822 | 3 |
+| 2023-12-14 | 126,840 | 3 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 51)  
 Sum: 20,380 (Ranked 59)  

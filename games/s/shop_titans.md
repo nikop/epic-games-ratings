@@ -6,31 +6,31 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,617 |
-| Titan's First Steps | 8.00% | ~11,617 |
-| Basic in Bulk | 7.00% | ~10,165 |
-| Tinkle of Coins | 7.00% | ~10,165 |
+| Sponsored by Argon | 8.00% | ~11,618 |
+| Titan's First Steps | 8.00% | ~11,618 |
+| Basic in Bulk | 7.00% | ~10,166 |
+| Tinkle of Coins | 7.00% | ~10,166 |
 | Disintermediation | 5.00% | ~7,261 |
 | It's Free Real Estate | 5.00% | ~7,261 |
 | Budding Merchant | 5.00% | ~7,261 |
 | Capitalism Ho! | 5.00% | ~7,261 |
-| One Easy Payment | 4.00% | ~5,808 |
-| Some Assembly Required | 4.00% | ~5,808 |
-| Another Satisfied Customer | 4.00% | ~5,808 |
-| Pretty Penny | 4.00% | ~5,808 |
-| Own the Means of Production | 4.00% | ~5,808 |
-| The Daily Grind | 3.00% | ~4,356 |
-| Bounty Hunters | 3.00% | ~4,356 |
-| Demand for Supplies | 3.00% | ~4,356 |
-| Flooding the Market | 3.00% | ~4,356 |
-| Where it Hurts | 3.00% | ~4,356 |
-| Gild-Gotten Goods | 3.00% | ~4,356 |
-| One-Armed Bandit | 3.00% | ~4,356 |
-| Accomplished Merchant | 3.00% | ~4,356 |
-| Dungeon Imports | 3.00% | ~4,356 |
-| Through Repetition, Perfection | 3.00% | ~4,356 |
-| Did we pack lunch? | 3.00% | ~4,356 |
-| Arcane Industries | 3.00% | ~4,356 |
+| One Easy Payment | 4.00% | ~5,809 |
+| Some Assembly Required | 4.00% | ~5,809 |
+| Another Satisfied Customer | 4.00% | ~5,809 |
+| Pretty Penny | 4.00% | ~5,809 |
+| Own the Means of Production | 4.00% | ~5,809 |
+| The Daily Grind | 3.00% | ~4,357 |
+| Bounty Hunters | 3.00% | ~4,357 |
+| Demand for Supplies | 3.00% | ~4,357 |
+| Flooding the Market | 3.00% | ~4,357 |
+| Where it Hurts | 3.00% | ~4,357 |
+| Gild-Gotten Goods | 3.00% | ~4,357 |
+| One-Armed Bandit | 3.00% | ~4,357 |
+| Accomplished Merchant | 3.00% | ~4,357 |
+| Dungeon Imports | 3.00% | ~4,357 |
+| Through Repetition, Perfection | 3.00% | ~4,357 |
+| Did we pack lunch? | 3.00% | ~4,357 |
+| Arcane Industries | 3.00% | ~4,357 |
 | On the Path to Greatness | 2.00% | ~2,904 |
 | A Notch Above the Rest | 2.00% | ~2,904 |
 | Cream of the Crop | 2.00% | ~2,904 |
@@ -106,8 +106,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 1.00% | ~1,452 |
 | The Free Encyclopedia | 0.90% | ~1,307 |
 | All or Nothing! | 0.80% | ~1,162 |
-| The Greatest Grind | 0.70% | ~1,016 |
-| Marvels from the World Over | 0.70% | ~1,016 |
+| The Greatest Grind | 0.70% | ~1,017 |
+| Marvels from the World Over | 0.70% | ~1,017 |
 | Bane of Legends | 0.60% | ~871 |
 | Anything not Nailed Down | 0.60% | ~871 |
 | Ultimate Collector | 0.50% | ~726 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~436 |
 | Capitalist Camaraderie | 0.20% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,211 (Ranked 80)  
-Completed: 300 (0.21%) (Ranked 258)  
+Progressed: 145,224 (Ranked 80)  
+Completed: 301 (0.21%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -357,17 +357,17 @@ Completed: 300 (0.21%) (Ranked 258)
 | 2023-12-11 | 144,756 | 293 |
 | 2023-12-12 | 144,871 | 294 |
 | 2023-12-13 | 145,093 | 297 |
-| 2023-12-14 | 145,211 | 300 |
+| 2023-12-14 | 145,224 | 301 |
 ## Awards
 Max (Great for Beginners): 4,882  (Ranked 75)  
-Sum: 27,711 (Ranked 51)  
+Sum: 27,712 (Ranked 51)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,882 |
 | This game is Relaxing | 4,059 |
 | This game has Quickly Understood Controls | 4,043 |
-| This game has Diverse Characters | 3,970 |
+| This game has Diverse Characters | 3,971 |
 | This game is Highly Recommended | 3,795 |
 | This game has Easy Combat | 3,744 |
 | This game has Playful Visuals | 3,218 |
@@ -692,4 +692,4 @@ Diff (max vs sum): 24
 | 2023-12-11 | 3.99 | - | 4,875 | 27,691 |
 | 2023-12-12 | 3.99 | - | 4,878 | 27,700 |
 | 2023-12-13 | 3.99 | - | 4,882 | 27,707 |
-| 2023-12-14 | 3.99 | - | 4,882 | 27,711 |
+| 2023-12-14 | 3.99 | - | 4,882 | 27,712 |

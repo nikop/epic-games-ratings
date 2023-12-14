@@ -6,18 +6,18 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~728,592 |
-| The Blues | 85.00% | ~625,559 |
-| Fast | 66.00% | ~485,728 |
+| Out of bed | 99.00% | ~728,593 |
+| The Blues | 85.00% | ~625,560 |
+| Fast | 66.00% | ~485,729 |
 | Healthbar | 55.00% | ~404,774 |
 | Force Cube | 53.00% | ~390,055 |
 | Double Jump | 48.00% | ~353,257 |
-| Regeneration | 47.00% | ~345,897 |
-| Triple Jump | 43.00% | ~316,459 |
+| Regeneration | 47.00% | ~345,898 |
+| Triple Jump | 43.00% | ~316,460 |
 | Climb the hill | 42.00% | ~309,100 |
-| Through the fire pipe | 39.00% | ~287,021 |
+| Through the fire pipe | 39.00% | ~287,022 |
 | MacGuffin | 38.00% | ~279,662 |
-| Just once | 37.00% | ~272,302 |
+| Just once | 37.00% | ~272,303 |
 | Armor | 30.00% | ~220,786 |
 | True holy spirit | 28.00% | ~206,067 |
 | That's how electronics work obviously | 27.00% | ~198,707 |
@@ -27,8 +27,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | Freed from prison | 21.00% | ~154,550 |
 | Stomp | 21.00% | ~154,550 |
 | Double Health | 19.00% | ~139,831 |
-| Buckle | 18.00% | ~132,471 |
-| Green Keycard | 18.00% | ~132,471 |
+| Buckle | 18.00% | ~132,472 |
+| Green Keycard | 18.00% | ~132,472 |
 | Rattle Hag | 16.00% | ~117,752 |
 | All Shells | 15.00% | ~110,393 |
 | Beam | 14.00% | ~103,033 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~736 |
 | DLC: Top of the world | 0.10% | ~736 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735,952 (Ranked 20)  
+Progressed: 735,953 (Ranked 20)  
 Completed: 769 (0.10%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 769 (0.10%) (Ranked 294)
 | 2023-12-11 | 735,777 | 769 |
 | 2023-12-12 | 735,839 | 769 |
 | 2023-12-13 | 735,921 | 769 |
-| 2023-12-14 | 735,952 | 769 |
+| 2023-12-14 | 735,953 | 769 |
 ## Awards
 Max (Challenging Puzzles): 7,745  (Ranked 50)  
 Sum: 10,106 (Ranked 92)  

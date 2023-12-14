@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 582,
+  "EOS_Progressed": 583,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
@@ -2534,6 +2534,11 @@
       "Time": "2023-12-13T17:04:26.9891041+00:00",
       "NumProgressed": 582,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-14T09:05:06.0593734+00:00",
+      "NumProgressed": 583,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2545,7 +2550,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2593,7 +2598,7 @@
       "Name": "The path to enlightenment",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2656,14 +2661,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 582,
+      "Progressed": 583,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-14T08:05:02.7465643+00:00",
+  "LastChanged_Achievements": "2023-12-14T09:05:06.0593729+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:59.8289904+00:00",
-  "LastUpdate_Ratings": "2023-12-14T07:57:56.4486162+00:00",
-  "LastUpdate_Achievements": "2023-12-14T08:05:02.7465914+00:00"
+  "LastUpdate_Ratings": "2023-12-14T08:58:07.7730629+00:00",
+  "LastUpdate_Achievements": "2023-12-14T09:05:06.0593935+00:00"
 }

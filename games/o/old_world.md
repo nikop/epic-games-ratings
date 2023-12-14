@@ -188,6 +188,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Medo-Babylonian Conquest | 0.30% | ~47 |
 | Pantheon in Roma | 0.30% | ~47 |
 | Randomized Leaders | 0.30% | ~47 |
+| Future Regicide | 0.20% | ~32 |
 | Barbarian Horde | 0.20% | ~32 |
 | Blade of the Monkey | 0.20% | ~32 |
 | Gold Victory (Carthage 2) | 0.20% | ~32 |
@@ -215,7 +216,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse in Alexandria | 0.10% | ~16 |
 | Musaeum in Alexandria | 0.10% | ~16 |
 | Alliance Victory | 0.10% | ~16 |
-| Future Regicide | 0.10% | ~16 |
 | Acropolis in Athenai | 0.10% | ~16 |
 | The Great Raging Horde | 0.10% | ~16 |
 | United Against The Horde | 0.10% | ~16 |

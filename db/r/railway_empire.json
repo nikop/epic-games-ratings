@@ -4,10 +4,10 @@
   "ProductSlug": "railway-empire",
   "Ranking_Rating": 576,
   "Ranking_Popularity": 246,
-  "Ranking_PopularitySum": 199,
+  "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 478,
+  "Ranking_EOS_NewPlayers": 477,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-09-10T15:00:00+00:00",
@@ -3699,10 +3699,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 2446,
       "NumberOfAwardsMax": 338
+    },
+    {
+      "Time": "2023-12-14T08:58:30.1037747+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2448,
+      "NumberOfAwardsMax": 338
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2446,
+  "NumberOfAwards": 2448,
   "NumberOfAwardsMax": 338,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3716,7 +3722,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 308
+      "Count": 310
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3786,9 +3792,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:36.383576+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.8826483+00:00",
-  "LastChanged": "2023-12-14T05:58:33.2600973+00:00",
-  "LastChanged_Achievements": "2023-12-14T08:04:57.6801017+00:00",
+  "LastChanged": "2023-12-14T08:58:30.1037744+00:00",
+  "LastChanged_Achievements": "2023-12-14T09:05:01.0086472+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:14.7872408+00:00",
-  "LastUpdate_Ratings": "2023-12-14T07:58:17.7449388+00:00",
-  "LastUpdate_Achievements": "2023-12-14T08:04:57.6801035+00:00"
+  "LastUpdate_Ratings": "2023-12-14T08:58:30.103775+00:00",
+  "LastUpdate_Achievements": "2023-12-14T09:05:01.0086499+00:00"
 }

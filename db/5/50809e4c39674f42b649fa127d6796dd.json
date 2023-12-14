@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 452,
+  "EOS_Progressed": 453,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1167,6 +1167,11 @@
       "Time": "2023-12-14T01:50:30.598464+00:00",
       "NumProgressed": 452,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T09:04:20.8754024+00:00",
+      "NumProgressed": 453,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1235,7 +1240,7 @@
       "Name": "Combo Convert",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1299,7 +1304,7 @@
       "Name": "Superior Ranking",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1331,7 +1336,7 @@
       "Name": "The Beginning",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1371,7 +1376,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1498,14 +1503,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 452,
+      "Progressed": 453,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-14T08:04:17.2796092+00:00",
+  "LastChanged_Achievements": "2023-12-14T09:04:20.8754005+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:06.567221+00:00",
-  "LastUpdate_Ratings": "2023-12-14T08:03:22.9282863+00:00",
-  "LastUpdate_Achievements": "2023-12-14T08:04:17.2796487+00:00"
+  "LastUpdate_Ratings": "2023-12-14T09:03:27.235756+00:00",
+  "LastUpdate_Achievements": "2023-12-14T09:04:20.8754363+00:00"
 }

@@ -319,9 +319,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 233538,
+  "EOS_Progressed": 233540,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24399,6 +24399,11 @@
       "Time": "2023-12-14T08:09:45.0920139+00:00",
       "NumProgressed": 233538,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-14T09:09:34.1579003+00:00",
+      "NumProgressed": 233540,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -24554,7 +24559,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79403
+      "UsersEstimate": 79404
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -24570,7 +24575,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51378
+      "UsersEstimate": 51379
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -24618,7 +24623,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39701
+      "UsersEstimate": 39702
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -24633,7 +24638,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 233538,
+      "Progressed": 233540,
       "Completed": 5
     }
   ],
@@ -24641,8 +24646,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-08T19:00:51.9158199+00:00",
-  "LastChanged_Achievements": "2023-12-14T08:09:45.0920134+00:00",
+  "LastChanged_Achievements": "2023-12-14T09:09:34.1578998+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:19.2756281+00:00",
-  "LastUpdate_Ratings": "2023-12-14T08:00:54.3130666+00:00",
-  "LastUpdate_Achievements": "2023-12-14T08:09:45.0921359+00:00"
+  "LastUpdate_Ratings": "2023-12-14T09:01:10.8393275+00:00",
+  "LastUpdate_Achievements": "2023-12-14T09:09:34.1580223+00:00"
 }

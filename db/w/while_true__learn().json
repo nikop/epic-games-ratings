@@ -497,23 +497,29 @@
       "Rating": 4.51,
       "NumberOfAwards": 138,
       "NumberOfAwardsMax": 138
+    },
+    {
+      "Time": "2023-12-14T08:59:50.8437197+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 139,
+      "NumberOfAwardsMax": 139
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 138,
-  "NumberOfAwardsMax": 138,
+  "NumberOfAwards": 139,
+  "NumberOfAwardsMax": 139,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 138
+      "Count": 139
     }
   ],
-  "EOS_Progressed": 613792,
+  "EOS_Progressed": 613793,
   "EOS_Completed": 555,
-  "EOS_NewPlayers": 766,
+  "EOS_NewPlayers": 765,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -27266,6 +27272,11 @@
       "Time": "2023-12-14T08:09:15.9010446+00:00",
       "NumProgressed": 613792,
       "NumCompleted": 555
+    },
+    {
+      "Time": "2023-12-14T09:09:05.5739209+00:00",
+      "NumProgressed": 613793,
+      "NumCompleted": 555
     }
   ],
   "TotalAchievements": 28,
@@ -27341,7 +27352,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 374413
+      "UsersEstimate": 374414
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -27357,7 +27368,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 270068
+      "UsersEstimate": 270069
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -27389,7 +27400,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 294620
+      "UsersEstimate": 294621
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -27500,15 +27511,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 613792,
+      "Progressed": 613793,
       "Completed": 555
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
-  "LastChanged": "2023-11-16T16:58:16.9123223+00:00",
-  "LastChanged_Achievements": "2023-12-14T08:09:15.901044+00:00",
+  "LastChanged": "2023-12-14T08:59:50.8437194+00:00",
+  "LastChanged_Achievements": "2023-12-14T09:09:05.5739204+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:44.8137954+00:00",
-  "LastUpdate_Ratings": "2023-12-14T07:59:38.4664948+00:00",
-  "LastUpdate_Achievements": "2023-12-14T08:09:15.9011973+00:00"
+  "LastUpdate_Ratings": "2023-12-14T08:59:50.84372+00:00",
+  "LastUpdate_Achievements": "2023-12-14T09:09:05.5740356+00:00"
 }

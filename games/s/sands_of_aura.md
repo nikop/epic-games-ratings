@@ -9,10 +9,10 @@
 | Dousing a Venerable Flame | 11.00% | ~12 |
 | Advanced Armaments | 11.00% | ~12 |
 | Spirit Within | 11.00% | ~12 |
+| Leisis Bless You | 9.00% | ~10 |
 | Rain Must Fall | 8.00% | ~9 |
 | Overboard | 8.00% | ~9 |
 | Bladesmith | 8.00% | ~9 |
-| Leisis Bless You | 8.00% | ~9 |
 | Explorer | 6.00% | ~6 |
 | The Guardian of Fire | 6.00% | ~6 |
 | Sovereignty of Irons | 6.00% | ~6 |
@@ -63,7 +63,7 @@
 | Holding Out | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108 (Ranked 442)  
+Progressed: 108 (Ranked 444)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |

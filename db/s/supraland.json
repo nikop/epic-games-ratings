@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
     "PcReleaseDate": "2018-03-09T19:16:06+00:00",
@@ -3271,9 +3271,9 @@
       "Count": 196
     }
   ],
-  "EOS_Progressed": 735952,
+  "EOS_Progressed": 735953,
   "EOS_Completed": 769,
-  "EOS_NewPlayers": 706,
+  "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -30051,6 +30051,11 @@
       "Time": "2023-12-14T08:10:37.5183785+00:00",
       "NumProgressed": 735952,
       "NumCompleted": 769
+    },
+    {
+      "Time": "2023-12-14T09:10:26.1760513+00:00",
+      "NumProgressed": 735953,
+      "NumCompleted": 769
     }
   ],
   "TotalAchievements": 98,
@@ -30150,7 +30155,7 @@
       "Name": "Buckle",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 132471
+      "UsersEstimate": 132472
     },
     {
       "ID": "Burglar1",
@@ -30294,7 +30299,7 @@
       "Name": "Through the fire pipe",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 287021
+      "UsersEstimate": 287022
     },
     {
       "ID": "FliesBeam",
@@ -30382,7 +30387,7 @@
       "Name": "Green Keycard",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 132471
+      "UsersEstimate": 132472
     },
     {
       "ID": "GreenMoonDoor",
@@ -30430,7 +30435,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 345897
+      "UsersEstimate": 345898
     },
     {
       "ID": "HelpedAStar",
@@ -30502,7 +30507,7 @@
       "Name": "Just once",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 272302
+      "UsersEstimate": 272303
     },
     {
       "ID": "MacGuffin",
@@ -30574,7 +30579,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 728592
+      "UsersEstimate": 728593
     },
     {
       "ID": "PanicLights",
@@ -30694,7 +30699,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 485728
+      "UsersEstimate": 485729
     },
     {
       "ID": "Strong",
@@ -30734,7 +30739,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 625559
+      "UsersEstimate": 625560
     },
     {
       "ID": "ThroughPipe",
@@ -30774,7 +30779,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 316459
+      "UsersEstimate": 316460
     },
     {
       "ID": "True_Holy_Spirit",
@@ -30845,15 +30850,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 735952,
+      "Progressed": 735953,
       "Completed": 769
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-12-12T13:08:37.4213801+00:00",
-  "LastChanged_Achievements": "2023-12-14T08:10:37.5183781+00:00",
+  "LastChanged_Achievements": "2023-12-14T09:10:26.1760507+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:05.2624045+00:00",
-  "LastUpdate_Ratings": "2023-12-14T08:03:14.4305147+00:00",
-  "LastUpdate_Achievements": "2023-12-14T08:10:37.5185661+00:00"
+  "LastUpdate_Ratings": "2023-12-14T09:03:19.7246409+00:00",
+  "LastUpdate_Achievements": "2023-12-14T09:10:26.1762271+00:00"
 }

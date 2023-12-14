@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 93.00% | ~1,494 |
-| Spectre Inductee | 79.00% | ~1,269 |
-| Medal of Exploration I | 72.00% | ~1,156 |
-| Recruit | 68.00% | ~1,092 |
-| Search and Rescue | 67.00% | ~1,076 |
+| Distinguished Service Medal | 93.00% | ~1,495 |
+| Spectre Inductee | 79.00% | ~1,270 |
+| Medal of Exploration I | 72.00% | ~1,157 |
+| Recruit | 68.00% | ~1,093 |
+| Search and Rescue | 67.00% | ~1,077 |
 | Quarian Ally | 64.00% | ~1,028 |
 | Medal of Heroism | 60.00% | ~964 |
 | Honorarium of Corporate Service | 60.00% | ~964 |
-| Council Legion of Merit | 55.00% | ~883 |
-| Medal of Exploration II | 54.00% | ~867 |
-| Medal of Honor | 52.00% | ~835 |
-| Meritorious Service Medal | 52.00% | ~835 |
-| Turian Ally | 52.00% | ~835 |
-| Charismatic | 51.00% | ~819 |
-| Soldier | 50.00% | ~803 |
-| Asari Ally | 48.00% | ~771 |
+| Council Legion of Merit | 55.00% | ~884 |
+| Medal of Exploration II | 54.00% | ~868 |
+| Medal of Honor | 52.00% | ~836 |
+| Meritorious Service Medal | 52.00% | ~836 |
+| Turian Ally | 52.00% | ~836 |
+| Charismatic | 51.00% | ~820 |
+| Soldier | 50.00% | ~804 |
 | Soldier Ally | 47.00% | ~755 |
+| Asari Ally | 47.00% | ~755 |
 | Principled | 46.00% | ~739 |
 | Medal of Exploration III | 45.00% | ~723 |
 | Paramour I | 44.00% | ~707 |
@@ -30,15 +30,15 @@
 | Scientist | 43.00% | ~691 |
 | Krogan Ally | 42.00% | ~675 |
 | Merciless | 42.00% | ~675 |
-| Sentinel Ally | 41.00% | ~658 |
-| Head Hunter | 40.00% | ~642 |
-| Scholar | 40.00% | ~642 |
-| Operative | 39.00% | ~626 |
-| Veteran | 38.00% | ~610 |
-| The Archangel | 38.00% | ~610 |
-| The Professor | 38.00% | ~610 |
-| Power Full | 37.00% | ~594 |
-| The Convict | 36.00% | ~578 |
+| Sentinel Ally | 41.00% | ~659 |
+| Head Hunter | 40.00% | ~643 |
+| Scholar | 40.00% | ~643 |
+| Operative | 39.00% | ~627 |
+| Veteran | 38.00% | ~611 |
+| The Archangel | 38.00% | ~611 |
+| The Professor | 38.00% | ~611 |
+| Power Full | 37.00% | ~595 |
+| The Convict | 36.00% | ~579 |
 | Colony Defense | 35.00% | ~562 |
 | The Krogan | 35.00% | ~562 |
 | Broke, Blind, and Bedlam | 34.00% | ~546 |
@@ -54,15 +54,14 @@
 | Ghost of the Father | 32.00% | ~514 |
 | The Cure | 32.00% | ~514 |
 | The Prodigal | 32.00% | ~514 |
-| Revenge! | 32.00% | ~514 |
 | Focused | 31.00% | ~498 |
 | Completionist | 31.00% | ~498 |
 | Battlemaster | 31.00% | ~498 |
 | Fade Away | 31.00% | ~498 |
 | Big Game Hunter | 31.00% | ~498 |
+| Revenge! | 31.00% | ~498 |
 | Heart of Darkness | 31.00% | ~498 |
 | Bringer of War | 31.00% | ~498 |
-| Cat's in the Cradle | 30.00% | ~482 |
 | Doppelganger | 30.00% | ~482 |
 | Treason | 30.00% | ~482 |
 | Agent | 30.00% | ~482 |
@@ -73,6 +72,7 @@
 | Suicide Mission | 29.00% | ~466 |
 | Against All Odds | 29.00% | ~466 |
 | Friend or Foe | 29.00% | ~466 |
+| Cat's in the Cradle | 29.00% | ~466 |
 | Mobilizer | 29.00% | ~466 |
 | Giant Killer | 28.00% | ~450 |
 | A House Divided | 28.00% | ~450 |
@@ -85,13 +85,13 @@
 | First Aid Specialist | 25.00% | ~402 |
 | Arbiter | 25.00% | ~402 |
 | Lost and Found | 25.00% | ~402 |
-| Weapon Specialist | 24.00% | ~385 |
-| Paramour II | 23.00% | ~369 |
-| Party Crasher | 23.00% | ~369 |
-| Hard Target | 22.00% | ~353 |
-| Last Witness | 22.00% | ~353 |
-| Fact Finder | 22.00% | ~353 |
-| Problem Solver | 22.00% | ~353 |
+| Weapon Specialist | 24.00% | ~386 |
+| Paramour II | 23.00% | ~370 |
+| Party Crasher | 23.00% | ~370 |
+| Hard Target | 22.00% | ~354 |
+| Last Witness | 22.00% | ~354 |
+| Fact Finder | 22.00% | ~354 |
+| Problem Solver | 22.00% | ~354 |
 | Under Pressure | 21.00% | ~337 |
 | Last Resort | 21.00% | ~337 |
 | Saboteur | 21.00% | ~337 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~16 |
 | The One and Only | 0.90% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,606 (Ranked 243)  
+Progressed: 1,607 (Ranked 243)  
 Completed: 7 (0.44%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,4 +222,4 @@ Completed: 7 (0.44%) (Ranked 219)
 | 2023-12-11 | 1,574 | 7 |
 | 2023-12-12 | 1,585 | 7 |
 | 2023-12-13 | 1,595 | 7 |
-| 2023-12-14 | 1,606 | 7 |
+| 2023-12-14 | 1,607 | 7 |

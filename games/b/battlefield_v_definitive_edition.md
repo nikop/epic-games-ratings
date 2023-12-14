@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 93.00% | ~24,216 |
-| Grim Reaper | 75.00% | ~19,529 |
-| Enemy Attrition | 75.00% | ~19,529 |
-| Heads Down | 73.00% | ~19,008 |
-| Not On My Watch | 70.00% | ~18,227 |
-| Combat Engineer | 53.00% | ~13,801 |
-| Eager Beaver | 47.00% | ~12,238 |
-| Call ’em in! | 42.00% | ~10,936 |
-| Lovely | 38.00% | ~9,895 |
-| Elite | 26.00% | ~6,770 |
-| Store fuglar fanga ingi flugor | 25.00% | ~6,510 |
-| Ou La Mort | 23.00% | ~5,989 |
-| Fender Bender | 16.00% | ~4,166 |
-| Globetrotter | 13.00% | ~3,385 |
-| Jack of All Trades | 11.00% | ~2,864 |
-| Storyteller | 7.00% | ~1,823 |
-| Off-hand | 5.00% | ~1,302 |
-| Death from Above | 4.00% | ~1,042 |
-| Veteran | 1.00% | ~260 |
-| Hoist the Flag | 0.50% | ~130 |
-| Sins of the Fathers | 0.40% | ~104 |
+| Last Man Standing | 93.00% | ~24,368 |
+| Grim Reaper | 75.00% | ~19,652 |
+| Enemy Attrition | 74.00% | ~19,389 |
+| Heads Down | 73.00% | ~19,127 |
+| Not On My Watch | 70.00% | ~18,341 |
+| Combat Engineer | 53.00% | ~13,887 |
+| Eager Beaver | 47.00% | ~12,315 |
+| Call ’em in! | 42.00% | ~11,005 |
+| Lovely | 37.00% | ~9,695 |
+| Elite | 26.00% | ~6,813 |
+| Store fuglar fanga ingi flugor | 25.00% | ~6,550 |
+| Ou La Mort | 23.00% | ~6,026 |
+| Fender Bender | 16.00% | ~4,192 |
+| Globetrotter | 13.00% | ~3,406 |
+| Jack of All Trades | 11.00% | ~2,882 |
+| Storyteller | 7.00% | ~1,834 |
+| Off-hand | 5.00% | ~1,310 |
+| Death from Above | 4.00% | ~1,048 |
+| Veteran | 1.00% | ~262 |
+| Hoist the Flag | 0.50% | ~131 |
+| Sins of the Fathers | 0.40% | ~105 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,039 (Ranked 134)  
+Progressed: 26,202 (Ranked 133)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,4 +115,4 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 24,888 | 0 |
 | 2023-12-12 | 24,993 | 0 |
 | 2023-12-13 | 25,198 | 0 |
-| 2023-12-14 | 26,039 | 0 |
+| 2023-12-14 | 26,202 | 0 |

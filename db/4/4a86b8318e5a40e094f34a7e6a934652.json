@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1160,9 +1160,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 175
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1224,9 +1224,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -1311,8 +1311,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-14T08:07:27.7273921+00:00",
+  "LastChanged_Achievements": "2023-12-14T09:07:29.50502+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.1278188+00:00",
-  "LastUpdate_Ratings": "2023-12-14T08:00:18.3919093+00:00",
-  "LastUpdate_Achievements": "2023-12-14T08:07:27.727408+00:00"
+  "LastUpdate_Ratings": "2023-12-14T09:00:31.804715+00:00",
+  "LastUpdate_Achievements": "2023-12-14T09:07:29.5050388+00:00"
 }

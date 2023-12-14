@@ -6,16 +6,16 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~259,967 |
-| Cavalier | 25.00% | ~203,100 |
-| Fatso | 23.00% | ~186,852 |
-| Awakening | 21.00% | ~170,604 |
-| Ranger | 20.00% | ~162,480 |
-| Scrooge | 20.00% | ~162,480 |
-| Anorectic | 16.00% | ~129,984 |
-| Firestarter | 16.00% | ~129,984 |
-| Bookworm | 15.00% | ~121,860 |
-| Insomniac | 13.00% | ~105,612 |
+| Blacksmith's Son | 32.00% | ~259,969 |
+| Cavalier | 25.00% | ~203,101 |
+| Fatso | 23.00% | ~186,853 |
+| Awakening | 21.00% | ~170,605 |
+| Ranger | 20.00% | ~162,481 |
+| Scrooge | 20.00% | ~162,481 |
+| Anorectic | 16.00% | ~129,985 |
+| Firestarter | 16.00% | ~129,985 |
+| Bookworm | 15.00% | ~121,861 |
+| Insomniac | 13.00% | ~105,613 |
 | Buddy | 12.00% | ~97,488 |
 | Thief | 12.00% | ~97,488 |
 | Sinner | 11.00% | ~89,364 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~812 |
 | Wingman | 0.10% | ~812 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 812,398 (Ranked 17)  
+Progressed: 812,404 (Ranked 17)  
 Completed: 52 (0.01%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,10 +327,10 @@ Completed: 52 (0.01%) (Ranked 351)
 | 2023-12-11 | 812,130 | 52 |
 | 2023-12-12 | 812,234 | 52 |
 | 2023-12-13 | 812,359 | 52 |
-| 2023-12-14 | 812,398 | 52 |
+| 2023-12-14 | 812,404 | 52 |
 ## Awards
 Max (Character Customization): 7,668  (Ranked 52)  
-Sum: 28,487 (Ranked 50)  
+Sum: 28,490 (Ranked 50)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -339,10 +339,10 @@ Diff (max vs sum): 2
 | This game has Challenging Combat | 1,787 |
 | This game has Diverse Characters | 1,749 |
 | This game has Amazing Storytelling | 1,735 |
-| This game is Highly Recommended | 1,708 |
+| This game is Highly Recommended | 1,710 |
 | This game is Extremely Fun | 1,701 |
 | This game has Realistic Visuals | 1,682 |
-| This game has Amazing Characters | 1,679 |
+| This game has Amazing Characters | 1,680 |
 | This game is Educational | 1,618 |
 | This game is Relaxing | 1,548 |
 | This game has Obsessive Gameplay | 1,048 |
@@ -670,3 +670,4 @@ Diff (max vs sum): 2
 | 2023-12-11 | 4.71 | - | 7,664 | 28,471 |
 | 2023-12-12 | 4.71 | - | 7,664 | 28,479 |
 | 2023-12-13 | 4.71 | - | 7,668 | 28,487 |
+| 2023-12-14 | 4.71 | - | 7,668 | 28,490 |

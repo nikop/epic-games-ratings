@@ -11,7 +11,7 @@
 | Your first job | 83.00% | ~305 |
 | Fitness professional | 79.00% | ~290 |
 | Old movies enjoyer | 79.00% | ~290 |
-| Depressed visitor | 78.00% | ~286 |
+| Depressed visitor | 79.00% | ~290 |
 | Neurotrainer – power gainer! | 78.00% | ~286 |
 | Employee of the week | 78.00% | ~286 |
 | Your own amateur gym | 74.00% | ~272 |
@@ -36,7 +36,7 @@
 | Legal courier | 56.00% | ~206 |
 | Extreme neuropower! | 55.00% | ~202 |
 | Escaped from a big trouble | 52.00% | ~191 |
-| Now you are worthy | 48.00% | ~176 |
+| Now you are worthy | 49.00% | ~180 |
 | Fight is life | 48.00% | ~176 |
 | Mysterious voice | 47.00% | ~172 |
 | Guiding on the right path | 47.00% | ~172 |
@@ -50,8 +50,8 @@
 | Poisoned fighter | 40.00% | ~147 |
 | The die is cast | 40.00% | ~147 |
 | Get out of my apartment! | 38.00% | ~139 |
+| Seashell hunter | 38.00% | ~139 |
 | Gang wrangler | 37.00% | ~136 |
-| Seashell hunter | 37.00% | ~136 |
 | Undercover robot | 37.00% | ~136 |
 | Problems of cyborgs | 36.00% | ~132 |
 | Absolute Champion! | 36.00% | ~132 |

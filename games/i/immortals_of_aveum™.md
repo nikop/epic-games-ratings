@@ -5,30 +5,30 @@ Rating: 4.05 (Ranked 1,002)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~358 |
-| Battlefields Have Memories | 82.00% | ~330 |
-| Enlisted | 78.00% | ~314 |
-| Maybe Engage a Little | 72.00% | ~289 |
-| No More Names | 60.00% | ~241 |
-| Initiate | 49.00% | ~197 |
-| Thrada-Kul | 45.00% | ~181 |
-| Gravity-Challenged Rocks | 37.00% | ~149 |
-| Soldier | 32.00% | ~129 |
-| All the Major Food Groups | 32.00% | ~129 |
-| Beggars Would Ride | 29.00% | ~117 |
+| Unforeseen | 90.00% | ~364 |
+| Battlefields Have Memories | 83.00% | ~336 |
+| Enlisted | 78.00% | ~316 |
+| Maybe Engage a Little | 72.00% | ~292 |
+| No More Names | 60.00% | ~243 |
+| Initiate | 48.00% | ~194 |
+| Thrada-Kul | 45.00% | ~182 |
+| Gravity-Challenged Rocks | 36.00% | ~146 |
+| Soldier | 32.00% | ~130 |
+| All the Major Food Groups | 31.00% | ~126 |
+| Beggars Would Ride | 28.00% | ~113 |
 | Control is an Illusion | 26.00% | ~105 |
 | Socialite | 26.00% | ~105 |
-| The Means to Save It | 23.00% | ~92 |
-| Resilience to Sin | 21.00% | ~84 |
-| A Familiar Nest | 20.00% | ~80 |
-| Periapt Alizarin | 20.00% | ~80 |
-| Geas Aristeya | 19.00% | ~76 |
-| A Perfect Cycle | 18.00% | ~72 |
-| Recruit | 17.00% | ~68 |
-| Armsman | 15.00% | ~60 |
-| Lights Army | 12.00% | ~48 |
-| Periapt Cerulean | 11.00% | ~44 |
-| Good Boy | 11.00% | ~44 |
+| The Means to Save It | 23.00% | ~93 |
+| Resilience to Sin | 21.00% | ~85 |
+| A Familiar Nest | 20.00% | ~81 |
+| Periapt Alizarin | 20.00% | ~81 |
+| Geas Aristeya | 19.00% | ~77 |
+| A Perfect Cycle | 18.00% | ~73 |
+| Recruit | 17.00% | ~69 |
+| Armsman | 15.00% | ~61 |
+| Lights Army | 12.00% | ~49 |
+| Periapt Cerulean | 11.00% | ~45 |
+| Good Boy | 11.00% | ~45 |
 | Periapt Viridian | 8.00% | ~32 |
 | Best Dressed | 7.00% | ~28 |
 | Armaments Azure | 7.00% | ~28 |
@@ -53,8 +53,8 @@ Rating: 4.05 (Ranked 1,002)
 | Out of Time | 0.50% | ~2 |
 | Fowl Play | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 402 (Ranked 336)  
-Completed: 2 (0.50%) (Ranked 209)  
+Progressed: 405 (Ranked 336)  
+Completed: 2 (0.49%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -130,7 +130,7 @@ Completed: 2 (0.50%) (Ranked 209)
 | 2023-12-10 | 331 | 1 |
 | 2023-12-11 | 331 | 2 |
 | 2023-12-13 | 357 | 2 |
-| 2023-12-14 | 402 | 2 |
+| 2023-12-14 | 405 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

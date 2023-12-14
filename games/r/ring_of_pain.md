@@ -11,6 +11,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Uncharted Territory | 0.80% | ~1,928 |
 | Getting A Glimpse | 0.70% | ~1,687 |
 | Not Touching You | 0.70% | ~17 |
+| Nothing To Lose | 0.60% | ~1,446 |
 | Heavy Hitter | 0.60% | ~1,446 |
 | That Was Quick | 0.60% | ~1,446 |
 | Colorful Corpse | 0.60% | ~1,446 |
@@ -21,7 +22,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Explorer | 0.60% | ~1,446 |
 | An Offering | 0.60% | ~1,446 |
 | Ambitious Intent | 0.50% | ~1,205 |
-| Nothing To Lose | 0.50% | ~1,205 |
 | Delving Deeper | 0.50% | ~1,205 |
 | R.I.P | 0.50% | ~1,205 |
 | Cold Hearted | 0.50% | ~1,205 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,007 (Ranked 64)  
+Progressed: 241,009 (Ranked 64)  
 Completed: 298 (0.12%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -383,7 +383,7 @@ Completed: 298 (0.12%) (Ranked 286)
 | 2023-12-11 | 240,899 | 294 |
 | 2023-12-12 | 240,936 | 296 |
 | 2023-12-13 | 240,984 | 298 |
-| 2023-12-14 | 241,007 | 298 |
+| 2023-12-14 | 241,009 | 298 |
 ## Awards
 Max (Quickly Understood Controls): 1,508  (Ranked 134)  
 Sum: 11,730 (Ranked 86)  

@@ -5,28 +5,28 @@ Rating: 4.56 (Ranked 499)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~11,546 |
-| Pay 'n' Spray | 51.00% | ~7,181 |
-| All Dressed Up for San Fierro | 26.00% | ~3,661 |
-| The American Dream | 20.00% | ~2,816 |
-| School's Out | 19.00% | ~2,675 |
-| Smooth Moves | 17.00% | ~2,394 |
-| What happens in Las Venturas... | 16.00% | ~2,253 |
-| Today Was a Good Day | 16.00% | ~2,253 |
-| Horror of the Santa Maria | 11.00% | ~1,549 |
-| Liberty City State of Mind | 10.00% | ~1,408 |
-| Original Gangster | 9.00% | ~1,267 |
-| The End of the Line | 8.00% | ~1,126 |
-| With Extra Dip | 7.00% | ~986 |
-| Saviour | 6.00% | ~845 |
-| They Can’t Stop All of Us | 5.00% | ~704 |
-| Rescue a Kitten Too? | 5.00% | ~704 |
-| What are the Odds | 4.00% | ~563 |
-| I’ll Have Two Number 9s | 3.00% | ~422 |
-| Bike or Biker | 3.00% | ~422 |
-| What the City Needs | 3.00% | ~422 |
-| Yes I Speak English | 3.00% | ~422 |
-| Public Enemy No. 1 | 3.00% | ~422 |
+| Getting Started | 82.00% | ~11,557 |
+| Pay 'n' Spray | 51.00% | ~7,188 |
+| All Dressed Up for San Fierro | 26.00% | ~3,664 |
+| The American Dream | 20.00% | ~2,819 |
+| School's Out | 19.00% | ~2,678 |
+| Smooth Moves | 17.00% | ~2,396 |
+| What happens in Las Venturas... | 16.00% | ~2,255 |
+| Today Was a Good Day | 16.00% | ~2,255 |
+| Horror of the Santa Maria | 11.00% | ~1,550 |
+| Liberty City State of Mind | 10.00% | ~1,409 |
+| Original Gangster | 9.00% | ~1,268 |
+| The End of the Line | 8.00% | ~1,128 |
+| With Extra Dip | 7.00% | ~987 |
+| Saviour | 6.00% | ~846 |
+| They Can’t Stop All of Us | 5.00% | ~705 |
+| Rescue a Kitten Too? | 5.00% | ~705 |
+| What are the Odds | 4.00% | ~564 |
+| I’ll Have Two Number 9s | 3.00% | ~423 |
+| Bike or Biker | 3.00% | ~423 |
+| What the City Needs | 3.00% | ~423 |
+| Yes I Speak English | 3.00% | ~423 |
+| Public Enemy No. 1 | 3.00% | ~423 |
 | A Legitimate Business | 2.00% | ~282 |
 | Who Needs Directions? | 2.00% | ~282 |
 | Swiss Army Strife | 2.00% | ~282 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 499)
 | ...Here we go again | 0.50% | ~70 |
 | I Ain't No Buster | 0.40% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,080 (Ranked 160)  
+Progressed: 14,094 (Ranked 160)  
 Completed: 57 (0.40%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 57 (0.40%) (Ranked 224)
 | 2023-12-11 | 13,941 | 57 |
 | 2023-12-12 | 13,961 | 57 |
 | 2023-12-13 | 14,007 | 57 |
-| 2023-12-14 | 14,080 | 57 |
+| 2023-12-14 | 14,094 | 57 |
 ## Awards
 Max (Great Boss Battles): 442  (Ranked 226)  
 Sum: 723 (Ranked 297)  

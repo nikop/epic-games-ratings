@@ -1008,9 +1008,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 229338,
+  "EOS_Progressed": 229341,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 550,
+  "EOS_NewPlayers": 548,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26993,6 +26993,11 @@
       "Time": "2023-12-14T08:10:46.9947305+00:00",
       "NumProgressed": 229338,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-14T09:10:35.5241048+00:00",
+      "NumProgressed": 229341,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -27012,7 +27017,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59628
+      "UsersEstimate": 59629
     },
     {
       "ID": "ACH_BASE_11",
@@ -27044,7 +27049,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20640
+      "UsersEstimate": 20641
     },
     {
       "ID": "ACH_BASE_16",
@@ -27060,7 +27065,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20640
+      "UsersEstimate": 20641
     },
     {
       "ID": "ACH_BASE_18",
@@ -27268,14 +27273,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20640
+      "UsersEstimate": 20641
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 229338,
+      "Progressed": 229341,
       "Completed": 5
     }
   ],
@@ -27283,8 +27288,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-14T02:58:28.5187272+00:00",
-  "LastChanged_Achievements": "2023-12-14T08:10:46.9947303+00:00",
+  "LastChanged_Achievements": "2023-12-14T09:10:35.5241044+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.549712+00:00",
-  "LastUpdate_Ratings": "2023-12-14T07:58:35.8565435+00:00",
-  "LastUpdate_Achievements": "2023-12-14T08:10:46.9949022+00:00"
+  "LastUpdate_Ratings": "2023-12-14T08:58:47.9489314+00:00",
+  "LastUpdate_Achievements": "2023-12-14T09:10:35.5242339+00:00"
 }

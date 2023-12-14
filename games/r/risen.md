@@ -13,7 +13,7 @@ Rating: 4.58 (Ranked 453)
 | Archer | 52.00% | ~37 |
 | Field hand | 48.00% | ~34 |
 | Samaritan | 46.00% | ~33 |
-| The merciful one | 41.00% | ~29 |
+| The merciful one | 42.00% | ~30 |
 | Well-to-do | 41.00% | ~29 |
 | Ladies' man | 41.00% | ~29 |
 | Ferocious wild boars | 32.00% | ~23 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1332,7 +1332,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 30319,
+  "EOS_Progressed": 30321,
   "EOS_Completed": 83,
   "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 1,
@@ -26802,6 +26802,11 @@
       "Time": "2023-12-14T08:10:26.2765593+00:00",
       "NumProgressed": 30319,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-12-14T09:10:14.8891147+00:00",
+      "NumProgressed": 30321,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 22,
@@ -26917,7 +26922,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5457
+      "UsersEstimate": 5458
     },
     {
       "ID": "1029",
@@ -26941,7 +26946,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3941
+      "UsersEstimate": 3942
     },
     {
       "ID": "1032",
@@ -26973,7 +26978,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3941
+      "UsersEstimate": 3942
     },
     {
       "ID": "1036",
@@ -26988,15 +26993,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 30319,
+      "Progressed": 30321,
       "Completed": 83
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-03T18:00:24.3998169+00:00",
-  "LastChanged_Achievements": "2023-12-14T08:10:26.2765589+00:00",
+  "LastChanged_Achievements": "2023-12-14T09:10:14.8891142+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:17.8374063+00:00",
-  "LastUpdate_Ratings": "2023-12-14T07:59:53.25407+00:00",
-  "LastUpdate_Achievements": "2023-12-14T08:10:26.2767139+00:00"
+  "LastUpdate_Ratings": "2023-12-14T09:00:06.1265569+00:00",
+  "LastUpdate_Achievements": "2023-12-14T09:10:14.8892686+00:00"
 }

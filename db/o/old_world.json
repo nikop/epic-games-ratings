@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -17701,9 +17701,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
       "SetID": "9201eeb",
       "Name": "Future Regicide",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_ATHENS_ACROPOLIS",
@@ -20387,8 +20387,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-11T20:02:33.8046701+00:00",
-  "LastChanged_Achievements": "2023-12-14T08:09:43.2704058+00:00",
+  "LastChanged_Achievements": "2023-12-14T09:09:32.7063795+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:32.9927843+00:00",
-  "LastUpdate_Ratings": "2023-12-14T08:03:08.5575587+00:00",
-  "LastUpdate_Achievements": "2023-12-14T08:09:43.2713739+00:00"
+  "LastUpdate_Ratings": "2023-12-14T09:03:13.9781457+00:00",
+  "LastUpdate_Achievements": "2023-12-14T09:09:32.7072966+00:00"
 }

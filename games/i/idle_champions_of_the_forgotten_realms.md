@@ -8,6 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | Welcome to Sigil | 0.40% | ~825 |
 | Fast Food | 0.30% | ~619 |
+| Misaligned in Sigil | 0.20% | ~413 |
 | A Brief Tour of the Realms | 0.10% | ~240 |
 | Maddening | 0.10% | ~240 |
 | Pros and CONs | 0.10% | ~240 |
@@ -44,6 +45,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Downfall | 0.10% | ~206 |
 | First Third Out | 0.10% | ~206 |
 | Second Third Out | 0.10% | ~206 |
+| Third Third Out | 0.10% | ~206 |
 | The Silken Swamp | 0.10% | ~240 |
 | Slack-jawed Lorna | 0.10% | ~206 |
 | I'm Sure I Saw It Move! | 0.10% | ~206 |
@@ -361,6 +363,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alterdeep | 0.10% | ~206 |
 | Elder Rune Attack | 0.10% | ~206 |
 | The Gargoyle | 0.10% | ~206 |
+| Ulkoria's Escape from Alterdeep | 0.10% | ~206 |
 | The Wandering Emporium | 0.10% | ~206 |
 | Madcap Adventures Redux | 0.10% | ~206 |
 | When the Going Gets Tough | 0.10% | ~206 |
@@ -462,6 +465,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mysteries Unlocked | 0.10% | ~206 |
 | Male Pattern Boldness | 0.10% | ~206 |
 | Pure Energy | 0.10% | ~240 |
+| Tekeli-li's Hunt | 0.10% | ~206 |
 | Cackling Horror | 0.10% | ~206 |
 | Working for the Weak End | 0.10% | ~206 |
 | Neutral No More | 0.10% | ~206 |
@@ -527,7 +531,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Brains of an Illithid's Desire | 0.10% | ~206 |
 | Arcane Suppression | 0.10% | ~206 |
 | Welcome to the Vrocks | 0.10% | ~206 |
-| Misaligned in Sigil | 0.10% | ~206 |
 | Chaos Theory | 0.10% | ~206 |
 | The Overgrown Grove | 0.10% | ~206 |
 | When Tentacles Attack | 0.10% | ~206 |
@@ -536,7 +539,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Lose Your Head | 0.10% | ~206 |
 | Mind Spike | 0.10% | ~206 |
 | Don't Squeeze the Spiders | 0.00% | ~0 |
-| Third Third Out | 0.00% | ~0 |
 | Will of the Frozen Feywild | 0.00% | ~0 |
 | G. O. A. T. | 0.00% | ~0 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
@@ -547,14 +549,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.00% | ~0 |
 | Vault of Cuteness | 0.00% | ~0 |
 | Smooth Talkers | 0.00% | ~0 |
-| Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | An Awakened Axe | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
-| Tekeli-li's Hunt | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,009 (Ranked 66)  
-Completed: 2,522 (1.05%) (Ranked 167)  
+Progressed: 240,030 (Ranked 66)  
+Completed: 2,524 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -791,7 +791,7 @@ Completed: 2,522 (1.05%) (Ranked 167)
 | 2023-12-11 | 239,456 | 2,517 |
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
-| 2023-12-14 | 240,009 | 2,522 |
+| 2023-12-14 | 240,030 | 2,524 |
 ## Awards
 Max (Great for Beginners): 5,624  (Ranked 70)  
 Sum: 32,848 (Ranked 41)  

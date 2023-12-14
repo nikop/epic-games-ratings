@@ -22,7 +22,7 @@
 | Trap Master | 55.00% | ~302 |
 | Minions, Minions! | 55.00% | ~302 |
 | The Big Eaty | 54.00% | ~296 |
-| Hard Work | 52.00% | ~285 |
+| Hard Work | 53.00% | ~291 |
 | “… like son” | 51.00% | ~280 |
 | YOU SHALL NOT PASS! | 50.00% | ~274 |
 | The Cathedral of Light | 47.00% | ~258 |
