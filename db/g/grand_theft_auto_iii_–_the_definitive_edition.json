@@ -559,9 +559,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8878,
+  "EOS_Progressed": 8880,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -12074,6 +12074,11 @@
       "Time": "2023-12-14T01:50:56.9632237+00:00",
       "NumProgressed": 8878,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-14T02:26:09.4482848+00:00",
+      "NumProgressed": 8880,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 29,
@@ -12085,7 +12090,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7369
+      "UsersEstimate": 7370
     },
     {
       "ID": "ACH02",
@@ -12189,7 +12194,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "ACH15",
@@ -12205,7 +12210,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "ACH17",
@@ -12229,7 +12234,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH20",
@@ -12316,7 +12321,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8878,
+      "Progressed": 8880,
       "Completed": 60
     }
   ],
@@ -12324,8 +12329,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-13T01:46:30.4576886+00:00",
-  "LastChanged_Achievements": "2023-12-14T01:50:56.9632233+00:00",
+  "LastChanged_Achievements": "2023-12-14T02:26:09.4482845+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:03.1675394+00:00",
-  "LastUpdate_Ratings": "2023-12-14T01:45:52.2023203+00:00",
-  "LastUpdate_Achievements": "2023-12-14T01:50:56.9633215+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:20:46.5500268+00:00",
+  "LastUpdate_Achievements": "2023-12-14T02:26:09.4483601+00:00"
 }

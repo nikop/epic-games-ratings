@@ -5,11 +5,11 @@ Rating: 4.54 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~22,041 |
-| Welcome To Hell-A | 3.00% | ~22,041 |
-| One of Us | 3.00% | ~1,807 |
-| Whatever It Takes | 3.00% | ~1,807 |
-| Pork Chopped | 3.00% | ~1,807 |
+| Hotel California | 3.00% | ~22,042 |
+| Welcome To Hell-A | 3.00% | ~22,042 |
+| One of Us | 3.00% | ~1,808 |
+| Whatever It Takes | 3.00% | ~1,808 |
+| Pork Chopped | 3.00% | ~1,808 |
 | Dr. Reed, I Presume? | 2.00% | ~14,694 |
 | Git Gutte! | 2.00% | ~14,694 |
 | Anger Management | 2.00% | ~14,694 |
@@ -40,24 +40,24 @@ Rating: 4.54 (Ranked 534)
 | Jumbo Keyring | 0.90% | ~6,612 |
 | Go, Bobcats! | 0.90% | ~6,612 |
 | Rising Star | 0.90% | ~6,612 |
-| Not Even My Final Form | 0.80% | ~5,877 |
+| Not Even My Final Form | 0.80% | ~5,878 |
 | Smorgasbord | 0.70% | ~5,143 |
 | Internet Famous | 0.70% | ~5,143 |
 | Make it So | 0.60% | ~4,408 |
 | On Safari | 0.60% | ~4,408 |
 | Variety is the Spice of Death | 0.60% | ~4,408 |
-| LA Influential | 0.50% | ~3,673 |
-| Gore Horse | 0.50% | ~3,673 |
+| LA Influential | 0.50% | ~3,674 |
+| Gore Horse | 0.50% | ~3,674 |
 | Sole Survivor | 0.40% | ~2,939 |
 | Sharpest Tool in the Box | 0.40% | ~2,939 |
 | Top That, Tisha! | 0.40% | ~241 |
 | Survival Skills | 0.30% | ~2,204 |
-| Lawn and Order | 0.20% | ~120 |
+| Lawn and Order | 0.20% | ~121 |
 | Donk! | 0.10% | ~735 |
 | Bucket List | 0.10% | ~735 |
 | Wilhelm | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734,684 (Ranked 21)  
+Progressed: 734,719 (Ranked 21)  
 Completed: 2,482 (0.34%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 2,482 (0.34%) (Ranked 235)
 | 2023-12-11 | 733,504 | 2,477 |
 | 2023-12-12 | 733,868 | 2,480 |
 | 2023-12-13 | 734,518 | 2,482 |
-| 2023-12-14 | 734,684 | 2,482 |
+| 2023-12-14 | 734,719 | 2,482 |
 ## Awards
 Max (Great Boss Battles): 8,125  (Ranked 49)  
 Sum: 12,507 (Ranked 81)  

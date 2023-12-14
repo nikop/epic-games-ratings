@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 34,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -12396,7 +12396,7 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 55638,
+  "EOS_Progressed": 55639,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 661,
   "EOS_NewCompleters": 0,
@@ -34406,6 +34406,11 @@
       "Time": "2023-12-14T01:53:37.0075594+00:00",
       "NumProgressed": 55638,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-14T02:30:27.3900546+00:00",
+      "NumProgressed": 55639,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -34513,7 +34518,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 32826
+      "UsersEstimate": 32827
     },
     {
       "ID": "DeliveryGrapes",
@@ -34553,7 +34558,7 @@
       "Name": "Plant get enough",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 32826
+      "UsersEstimate": 32827
     },
     {
       "ID": "Harvested",
@@ -34569,7 +34574,7 @@
       "Name": "Own use",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 41172
+      "UsersEstimate": 41173
     },
     {
       "ID": "HorseJumps",
@@ -34593,7 +34598,7 @@
       "Name": "Giddy-up!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5007
+      "UsersEstimate": 5008
     },
     {
       "ID": "LoadedOldSavegame",
@@ -34625,7 +34630,7 @@
       "Name": "Hard work pays off",
       "Percentage": 51,
       "XP": 55,
-      "UsersEstimate": 28375
+      "UsersEstimate": 28376
     },
     {
       "ID": "NumBeehives",
@@ -34649,7 +34654,7 @@
       "Name": "All out of Land",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 23924
+      "UsersEstimate": 23925
     },
     {
       "ID": "NumProductionPoints",
@@ -34665,7 +34670,7 @@
       "Name": "Vehicle fleet",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 12240
+      "UsersEstimate": 12241
     },
     {
       "ID": "NumVehiclesSmall",
@@ -34673,7 +34678,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 31157
+      "UsersEstimate": 31158
     },
     {
       "ID": "PetDog",
@@ -34681,7 +34686,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 15022
+      "UsersEstimate": 15023
     },
     {
       "ID": "PlayTime",
@@ -34705,7 +34710,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 33939
+      "UsersEstimate": 33940
     },
     {
       "ID": "Stones",
@@ -34760,15 +34765,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 55638,
+      "Progressed": 55639,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-12-13T20:59:01.1939109+00:00",
-  "LastChanged_Achievements": "2023-12-14T01:53:37.0075589+00:00",
+  "LastChanged_Achievements": "2023-12-14T02:30:27.3900542+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:21.0443716+00:00",
-  "LastUpdate_Ratings": "2023-12-14T01:45:55.1377626+00:00",
-  "LastUpdate_Achievements": "2023-12-14T01:53:37.007675+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:20:49.6077676+00:00",
+  "LastUpdate_Achievements": "2023-12-14T02:30:27.390153+00:00"
 }

@@ -8681,10 +8681,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32846,
       "NumberOfAwardsMax": 5624
+    },
+    {
+      "Time": "2023-12-14T02:19:16.5415373+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32848,
+      "NumberOfAwardsMax": 5624
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32846,
+  "NumberOfAwards": 32848,
   "NumberOfAwardsMax": 5624,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8698,7 +8704,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5592
+      "Count": 5594
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8731,9 +8737,9 @@
       "Count": 3571
     }
   ],
-  "EOS_Progressed": 239882,
+  "EOS_Progressed": 239890,
   "EOS_Completed": 2519,
-  "EOS_NewPlayers": 1204,
+  "EOS_NewPlayers": 1212,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -35496,6 +35502,11 @@
       "Time": "2023-12-14T01:56:45.0880334+00:00",
       "NumProgressed": 239882,
       "NumCompleted": 2519
+    },
+    {
+      "Time": "2023-12-14T02:32:04.2128539+00:00",
+      "NumProgressed": 239890,
+      "NumCompleted": 2519
     }
   ],
   "TotalAchievements": 546,
@@ -35929,9 +35940,9 @@
       "ID": "objective_completed_1107",
       "SetID": "415jc5c",
       "Name": "Brains on Ice",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_111",
@@ -36241,9 +36252,9 @@
       "ID": "objective_completed_1173",
       "SetID": "415jc5c",
       "Name": "Return to the Tomb",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1174",
@@ -36305,9 +36316,9 @@
       "ID": "objective_completed_1185",
       "SetID": "415jc5c",
       "Name": "Frail Doesn\u0027t Mean Broken",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1188",
@@ -39233,9 +39244,9 @@
       "ID": "objective_completed_898",
       "SetID": "415jc5c",
       "Name": "Mysteries Unlocked",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_899",
@@ -39521,9 +39532,9 @@
       "ID": "objective_completed_668",
       "SetID": "415jc5c",
       "Name": "Bahamut\u0027s Army",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1375",
@@ -39609,9 +39620,9 @@
       "ID": "objective_completed_1396",
       "SetID": "415jc5c",
       "Name": "The Chaotic Hunt for The Last Breath",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1400",
@@ -39793,9 +39804,9 @@
       "ID": "objective_completed_1557",
       "SetID": "415jc5c",
       "Name": "Welcome to Sigil",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 412
+      "UsersEstimate": 618
     },
     {
       "ID": "objective_completed_1558",
@@ -39874,21 +39885,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 206156,
-      "Completed": 3967
+      "Progressed": 206164,
+      "Completed": 3968
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 239882,
+      "Progressed": 239890,
       "Completed": 2519
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-14T01:44:19.9440183+00:00",
-  "LastChanged_Achievements": "2023-12-14T01:56:45.088033+00:00",
+  "LastChanged": "2023-12-14T02:19:16.5415371+00:00",
+  "LastChanged_Achievements": "2023-12-14T02:32:04.2128535+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-14T01:44:19.9440188+00:00",
-  "LastUpdate_Achievements": "2023-12-14T01:56:45.0902753+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:19:16.5415377+00:00",
+  "LastUpdate_Achievements": "2023-12-14T02:32:04.215144+00:00"
 }

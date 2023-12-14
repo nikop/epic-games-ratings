@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Enough rooms to swing a cat | 91.00% | ~40 |
 | Home Sweet Home | 91.00% | ~40 |
-| Enough rooms to swing a cat | 89.00% | ~39 |
 | First to the post | 86.00% | ~38 |
 | A kind of Magic | 82.00% | ~36 |
 | Connected | 80.00% | ~35 |
 | Expansion | 77.00% | ~34 |
-| Harvest Time | 68.00% | ~30 |
+| Harvest Time | 70.00% | ~31 |
 | Mine! | 66.00% | ~29 |
 | Artificer's Apprentice | 61.00% | ~27 |
 | Get out of here! | 57.00% | ~25 |
 | Fly the friendly Sky | 55.00% | ~24 |
 | Necromancer's Apprentice | 52.00% | ~23 |
 | The Circle | 48.00% | ~21 |
+| Alchemist's Apprentice | 48.00% | ~21 |
 | Friend of Lyraine | 48.00% | ~21 |
-| Alchemist's Apprentice | 45.00% | ~20 |
 | Redecorating | 41.00% | ~18 |
 | Slave to the rhythm | 30.00% | ~13 |
 | Bad JuJu | 30.00% | ~13 |

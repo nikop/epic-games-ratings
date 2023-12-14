@@ -5,9 +5,9 @@
   "Ranking_Rating": 1002,
   "Ranking_Popularity": 562,
   "Ranking_PopularitySum": 562,
-  "Ranking_EOS_Progress": 340,
+  "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 369,
+  "EOS_Progressed": 373,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -1647,6 +1647,11 @@
       "Time": "2023-12-14T01:56:12.852462+00:00",
       "NumProgressed": 369,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-14T02:31:31.7086587+00:00",
+      "NumProgressed": 373,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1657,7 +1662,7 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 10,
       "UsersEstimate": 332
     },
@@ -1665,9 +1670,9 @@
       "ID": "achievement_10",
       "SetID": "18al4io",
       "Name": "Control is an Illusion",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 104
     },
     {
       "ID": "achievement_11",
@@ -1675,7 +1680,7 @@
       "Name": "The Means to Save It",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_12",
@@ -1683,7 +1688,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_13",
@@ -1691,7 +1696,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_14",
@@ -1699,7 +1704,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_15",
@@ -1707,7 +1712,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_16",
@@ -1715,7 +1720,7 @@
       "Name": "Recruit",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_17",
@@ -1739,15 +1744,15 @@
       "Name": "Socialite",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 313
     },
     {
       "ID": "achievement_20",
@@ -1795,7 +1800,7 @@
       "Name": "Scholar",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_3",
@@ -1803,15 +1808,15 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 283
     },
     {
       "ID": "achievement_36",
       "SetID": "18al4io",
       "Name": "Armsman",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_37",
@@ -1819,7 +1824,7 @@
       "Name": "Kitted Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_38",
@@ -1835,7 +1840,7 @@
       "Name": "No More Names",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_41",
@@ -1867,7 +1872,7 @@
       "Name": "Periapt Cerulean",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_45",
@@ -1875,7 +1880,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_46",
@@ -1883,7 +1888,7 @@
       "Name": "Periapt Viridian",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_48",
@@ -1891,7 +1896,7 @@
       "Name": "Enlisted",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 302
     },
     {
       "ID": "achievement_49",
@@ -1899,15 +1904,15 @@
       "Name": "Soldier",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 131
     },
     {
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 190
     },
     {
       "ID": "achievement_50",
@@ -1953,9 +1958,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_60",
@@ -2003,15 +2008,15 @@
       "Name": "Good Boy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_7",
       "SetID": "18al4io",
       "Name": "Gravity-Challenged Rocks",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 145
     },
     {
       "ID": "achievement_8",
@@ -2019,7 +2024,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_9",
@@ -2027,14 +2032,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 369,
+      "Progressed": 373,
       "Completed": 2
     }
   ],
@@ -2042,8 +2047,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-09T15:57:09.3357471+00:00",
-  "LastChanged_Achievements": "2023-12-14T01:56:12.8524617+00:00",
+  "LastChanged_Achievements": "2023-12-14T02:31:31.7086582+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9844668+00:00",
-  "LastUpdate_Ratings": "2023-12-14T01:46:33.8280809+00:00",
-  "LastUpdate_Achievements": "2023-12-14T01:56:12.8525019+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:21:27.3381474+00:00",
+  "LastUpdate_Achievements": "2023-12-14T02:31:31.7086919+00:00"
 }

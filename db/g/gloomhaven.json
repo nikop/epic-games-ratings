@@ -2645,9 +2645,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 26177,
+  "EOS_Progressed": 26179,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1189,
+  "EOS_NewPlayers": 1186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12900,6 +12900,11 @@
       "Time": "2023-12-14T01:55:49.6341531+00:00",
       "NumProgressed": 26177,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T02:31:08.4141585+00:00",
+      "NumProgressed": 26179,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -12952,7 +12957,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2879
+      "UsersEstimate": 2880
     },
     {
       "ID": "Achievement_Trophy07",
@@ -13112,7 +13117,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8900
+      "UsersEstimate": 8901
     },
     {
       "ID": "Achievement_Trophy27",
@@ -13128,7 +13133,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 8638
+      "UsersEstimate": 8639
     },
     {
       "ID": "Achievement_Trophy29",
@@ -13144,7 +13149,7 @@
       "Name": "Spread the plague",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7591
+      "UsersEstimate": 7592
     },
     {
       "ID": "Achievement_Trophy31",
@@ -13176,7 +13181,7 @@
       "Name": "Augmented rat",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2879
+      "UsersEstimate": 2880
     },
     {
       "ID": "Achievement_Trophy35",
@@ -13200,7 +13205,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6544
+      "UsersEstimate": 6545
     },
     {
       "ID": "Achievement_Trophy38",
@@ -13399,7 +13404,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 26177,
+      "Progressed": 26179,
       "Completed": 1
     }
   ],
@@ -13407,8 +13412,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-12T01:47:51.3395701+00:00",
-  "LastChanged_Achievements": "2023-12-14T01:55:49.6341528+00:00",
+  "LastChanged_Achievements": "2023-12-14T02:31:08.414158+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:42.7229324+00:00",
-  "LastUpdate_Ratings": "2023-12-14T01:47:30.3169117+00:00",
-  "LastUpdate_Achievements": "2023-12-14T01:55:49.6342686+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:24:43.09652+00:00",
+  "LastUpdate_Achievements": "2023-12-14T02:31:08.4142841+00:00"
 }

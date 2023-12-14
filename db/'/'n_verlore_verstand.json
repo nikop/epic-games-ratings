@@ -4,7 +4,7 @@
   "ProductSlug": "n-verlore-verstand-1d7f5b",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
@@ -311,73 +311,73 @@
       "ID": "10",
       "SetID": "6m1k8ai",
       "Name": "A Dangerous Road",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "11",
       "SetID": "6m1k8ai",
       "Name": "Scorched Ruins",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "12",
       "SetID": "6m1k8ai",
       "Name": "City of Illusion",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "13",
       "SetID": "6m1k8ai",
       "Name": "Kill the Flames",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "14",
       "SetID": "6m1k8ai",
       "Name": "Find the Light",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "15",
       "SetID": "6m1k8ai",
       "Name": "Fight and Overcome",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "16",
       "SetID": "6m1k8ai",
       "Name": "A Walk to the End",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "17",
       "SetID": "6m1k8ai",
       "Name": "The Final Test",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "18",
       "SetID": "6m1k8ai",
       "Name": "A Journey\u0027s End",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "19",
@@ -655,33 +655,33 @@
       "ID": "6",
       "SetID": "6m1k8ai",
       "Name": "City of Puzzles",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "7",
       "SetID": "6m1k8ai",
       "Name": "This field of danger",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "8",
       "SetID": "6m1k8ai",
       "Name": "Labyrinths of the Mind",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "9",
       "SetID": "6m1k8ai",
       "Name": "A Terrifying Blizzard",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -694,8 +694,8 @@
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-12-14T01:51:41.0167978+00:00",
+  "LastChanged_Achievements": "2023-12-14T02:26:52.8731226+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:08.7526355+00:00",
-  "LastUpdate_Ratings": "2023-12-14T01:49:56.1017049+00:00",
-  "LastUpdate_Achievements": "2023-12-14T01:51:41.0168557+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:25:07.6224721+00:00",
+  "LastUpdate_Achievements": "2023-12-14T02:26:52.8731512+00:00"
 }

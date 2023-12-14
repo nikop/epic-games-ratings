@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8259,9 +8259,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 718164,
+  "EOS_Progressed": 718194,
   "EOS_Completed": 12953,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -29259,6 +29259,11 @@
       "Time": "2023-12-14T01:55:20.5399373+00:00",
       "NumProgressed": 718164,
       "NumCompleted": 12953
+    },
+    {
+      "Time": "2023-12-14T02:30:40.1365447+00:00",
+      "NumProgressed": 718194,
+      "NumCompleted": 12953
     }
   ],
   "TotalAchievements": 60,
@@ -29318,7 +29323,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "08_Wude_H2",
@@ -29326,7 +29331,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "09_Wude_H3",
@@ -29334,7 +29339,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "10_Wude_H4",
@@ -29342,7 +29347,7 @@
       "Name": "Iron Money",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "11_Wude_H5",
@@ -29382,7 +29387,7 @@
       "Name": "Detective Story",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "16_Detective_H2",
@@ -29470,7 +29475,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5745
+      "UsersEstimate": 5746
     },
     {
       "ID": "27_ShrineBody",
@@ -29749,21 +29754,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 27465,
+      "Progressed": 27495,
       "Completed": 10770
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 718164,
+      "Progressed": 718194,
       "Completed": 12953
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-14T01:49:50.3511384+00:00",
-  "LastChanged_Achievements": "2023-12-14T01:55:20.5399369+00:00",
+  "LastChanged_Achievements": "2023-12-14T02:30:40.1365443+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:05.3418066+00:00",
-  "LastUpdate_Ratings": "2023-12-14T01:49:50.3511389+00:00",
-  "LastUpdate_Achievements": "2023-12-14T01:55:20.5400493+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:25:02.006641+00:00",
+  "LastUpdate_Achievements": "2023-12-14T02:30:40.1366564+00:00"
 }

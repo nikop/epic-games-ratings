@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -275,9 +275,9 @@
       "ID": "Build_First_Room",
       "SetID": "7b9f97e",
       "Name": "Enough rooms to swing a cat",
-      "Percentage": 89,
+      "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Build_First_Room_Extension",
@@ -323,9 +323,9 @@
       "ID": "Craft_First_Potion",
       "SetID": "7b9f97e",
       "Name": "Alchemist\u0027s Apprentice",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Craft_First_Undead",
@@ -435,9 +435,9 @@
       "ID": "Harvest_First_Plant",
       "SetID": "7b9f97e",
       "Name": "Harvest Time",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "HeroStory_Elynn",
@@ -828,8 +828,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-14T01:55:41.9198816+00:00",
+  "LastChanged_Achievements": "2023-12-14T02:31:00.8692488+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:57.4155187+00:00",
-  "LastUpdate_Ratings": "2023-12-14T01:47:20.7119619+00:00",
-  "LastUpdate_Achievements": "2023-12-14T01:55:41.9199285+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:22:13.710998+00:00",
+  "LastUpdate_Achievements": "2023-12-14T02:31:00.8692945+00:00"
 }

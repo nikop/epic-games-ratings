@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sigil | 0.20% | ~412 |
+| Welcome to Sigil | 0.30% | ~618 |
 | Fast Food | 0.20% | ~412 |
 | A Brief Tour of the Realms | 0.10% | ~240 |
 | Maddening | 0.10% | ~240 |
@@ -52,6 +52,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdark Chill | 0.10% | ~206 |
 | The Alien Underdark | 0.10% | ~206 |
 | Thoughts on the Menu | 0.10% | ~206 |
+| Brains on Ice | 0.10% | ~206 |
 | Hatchlings Underfoot | 0.10% | ~240 |
 | The Oozing Hunger | 0.10% | ~206 |
 | Levelheaded | 0.10% | ~206 |
@@ -83,6 +84,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Loots! | 0.10% | ~206 |
 | Well Equipped | 0.10% | ~206 |
 | Friends of the Forest | 0.10% | ~240 |
+| Return to the Tomb | 0.10% | ~206 |
 | Arcane Efforts | 0.10% | ~206 |
 | Keep Your Distance | 0.10% | ~206 |
 | Heatwave | 0.10% | ~206 |
@@ -90,6 +92,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.10% | ~206 |
 | The Dread Domain of Tovag | 0.10% | ~206 |
 | Weak Doesn't Mean Feeble | 0.10% | ~206 |
+| Frail Doesn't Mean Broken | 0.10% | ~206 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~206 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~206 |
 | Kas the Bloody Handed | 0.10% | ~206 |
@@ -429,6 +432,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ending the Rime - Part 2 | 0.10% | ~206 |
 | Ambitious Speakers - Part 2 | 0.10% | ~206 |
 | Reghed Glacier Mysteries | 0.10% | ~206 |
+| Mysteries Unlocked | 0.10% | ~206 |
 | Male Pattern Boldness | 0.10% | ~206 |
 | Pure Energy | 0.10% | ~240 |
 | Cackling Horror | 0.10% | ~206 |
@@ -455,6 +459,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Calcryx Tricks | 0.10% | ~206 |
 | Goblin Halls: the Next Generation | 0.10% | ~206 |
 | Bazaar Companions | 0.10% | ~206 |
+| Bahamut's Army | 0.10% | ~206 |
 | Rocky Reception | 0.10% | ~206 |
 | Luigi After Hours | 0.10% | ~206 |
 | Rock and Roll | 0.10% | ~206 |
@@ -463,6 +468,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~206 |
 | Animated Giff | 0.10% | ~206 |
 | The Hunt for The Last Breath | 0.10% | ~206 |
+| The Chaotic Hunt for The Last Breath | 0.10% | ~206 |
 | To Infinity's and Beyond | 0.10% | ~206 |
 | Legends and Lore | 0.10% | ~206 |
 | Unearthed Arcana | 0.10% | ~206 |
@@ -498,7 +504,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Third Third Out | 0.00% | ~0 |
 | I'm Sure I Saw It Move! | 0.00% | ~0 |
 | Zarak's Revenge | 0.00% | ~0 |
-| Brains on Ice | 0.00% | ~0 |
 | All Damage, All The Time | 0.00% | ~0 |
 | Will of the Frozen Feywild | 0.00% | ~0 |
 | The Loots of Loomlurch | 0.00% | ~0 |
@@ -506,8 +511,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | G. O. A. T. | 0.00% | ~0 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
 | More Than Well Equipped | 0.00% | ~0 |
-| Return to the Tomb | 0.00% | ~0 |
-| Frail Doesn't Mean Broken | 0.00% | ~0 |
 | The Castle of a Thousand Vecnas | 0.00% | ~0 |
 | The Sanctum of the Sword | 0.00% | ~0 |
 | Get Back In The Castle | 0.00% | ~0 |
@@ -534,7 +537,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Awakened Axe | 0.00% | ~0 |
 | How Far Away is Thay | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
-| Mysteries Unlocked | 0.00% | ~0 |
 | Tekeli-li's Hunt | 0.00% | ~0 |
 | An Icewind Dale Reunion | 0.00% | ~0 |
 | Poor Guidance | 0.00% | ~0 |
@@ -544,16 +546,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Not That Type of Helm! | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 | All The World's A Stage | 0.00% | ~0 |
-| Bahamut's Army | 0.00% | ~0 |
 | Flight of the Kindori Pod | 0.00% | ~0 |
 | 3,720 to 1 | 0.00% | ~0 |
-| The Chaotic Hunt for The Last Breath | 0.00% | ~0 |
 | There's a Flying Snake in my Boot! | 0.00% | ~0 |
 | Entrance of the Gladiators | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
 | The End is the Beginning | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,882 (Ranked 65)  
+Progressed: 239,890 (Ranked 65)  
 Completed: 2,519 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -791,15 +791,15 @@ Completed: 2,519 (1.05%) (Ranked 167)
 | 2023-12-11 | 239,456 | 2,517 |
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
-| 2023-12-14 | 239,882 | 2,519 |
+| 2023-12-14 | 239,890 | 2,519 |
 ## Awards
 Max (Great for Beginners): 5,624  (Ranked 70)  
-Sum: 32,846 (Ranked 41)  
+Sum: 32,848 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,624 |
-| This game has Diverse Characters | 5,592 |
+| This game has Diverse Characters | 5,594 |
 | This game has Quickly Understood Controls | 4,841 |
 | This game is Relaxing | 4,726 |
 | This game has Amazing Characters | 4,250 |
@@ -1130,4 +1130,4 @@ Diff (max vs sum): 29
 | 2023-12-11 | 4.06 | - | 5,622 | 32,826 |
 | 2023-12-12 | 4.06 | - | 5,622 | 32,830 |
 | 2023-12-13 | 4.06 | - | 5,624 | 32,841 |
-| 2023-12-14 | 4.06 | - | 5,624 | 32,846 |
+| 2023-12-14 | 4.06 | - | 5,624 | 32,848 |

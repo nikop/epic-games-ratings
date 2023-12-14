@@ -49,10 +49,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Efficient Explorer | 0.30% | ~54 |
 | Refinery | 0.30% | ~54 |
 | Dangerous Lands | 0.30% | ~54 |
+| Forbidden Lands | 0.30% | ~54 |
 | Forsaken Gods Temple | 0.30% | ~54 |
 | Into the Forest | 0.30% | ~54 |
 | Feeding The People | 0.20% | ~36 |
-| Forbidden Lands | 0.20% | ~36 |
 | Like a Machine | 0.20% | ~36 |
 | Paradise | 0.10% | ~18 |
 | Higher Needs | 0.10% | ~18 |

@@ -7,7 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 1.00% | ~275 |
-| Qi Gong: Breath | 0.80% | ~5,745 |
+| Qi Gong: Breath | 0.80% | ~5,746 |
 | Project Arena | 0.80% | ~220 |
 | The Old Grandmaster | 0.70% | ~5,027 |
 | The Assault | 0.70% | ~5,027 |
@@ -34,11 +34,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 0.40% | ~2,873 |
 | I know Kung-Fu | 0.40% | ~2,873 |
 | Bloody Sport | 0.40% | ~110 |
-| Muk Yan Master | 0.30% | ~2,154 |
-| Tiger on Fire | 0.30% | ~2,154 |
-| Source of Flying Daggers | 0.30% | ~2,154 |
-| Iron Money | 0.30% | ~2,154 |
-| Detective Story | 0.30% | ~2,154 |
+| Muk Yan Master | 0.30% | ~2,155 |
+| Tiger on Fire | 0.30% | ~2,155 |
+| Source of Flying Daggers | 0.30% | ~2,155 |
+| Iron Money | 0.30% | ~2,155 |
+| Detective Story | 0.30% | ~2,155 |
 | The best strikes are the ones we avoid | 0.30% | ~82 |
 | Legendary Talismans of Wuxing | 0.20% | ~1,436 |
 | Prodigal Child | 0.20% | ~1,436 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,164 (Ranked 24)  
+Progressed: 718,194 (Ranked 24)  
 Completed: 12,953 (1.80%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 12,953 (1.80%) (Ranked 136)
 | 2023-12-11 | 717,971 | 12,952 |
 | 2023-12-12 | 717,993 | 12,952 |
 | 2023-12-13 | 718,112 | 12,953 |
-| 2023-12-14 | 718,164 | 12,953 |
+| 2023-12-14 | 718,194 | 12,953 |
 ## Awards
 Max (Great Boss Battles): 6,923  (Ranked 55)  
 Sum: 12,152 (Ranked 83)  

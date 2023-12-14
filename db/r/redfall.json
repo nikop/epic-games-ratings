@@ -2781,9 +2781,9 @@
       "ID": "Achievement_043",
       "SetID": "6b34g18",
       "Name": "Starve the Beast",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_044",
@@ -2998,8 +2998,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-10T01:51:29.5345174+00:00",
-  "LastChanged_Achievements": "2023-12-14T01:51:51.1886507+00:00",
+  "LastChanged_Achievements": "2023-12-14T02:27:02.7065644+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:19.3114561+00:00",
-  "LastUpdate_Ratings": "2023-12-14T01:44:44.3239456+00:00",
-  "LastUpdate_Achievements": "2023-12-14T01:51:51.1887133+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:19:40.7682066+00:00",
+  "LastUpdate_Achievements": "2023-12-14T02:27:02.7066192+00:00"
 }

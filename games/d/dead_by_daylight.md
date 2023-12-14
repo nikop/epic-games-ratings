@@ -6,55 +6,55 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~32,791 |
-| Skillful | 3.00% | ~32,791 |
-| Zealous | 2.00% | ~21,861 |
-| Not half bad | 2.00% | ~21,861 |
-| Apt Survivor | 2.00% | ~21,861 |
-| Survival Treasures | 2.00% | ~21,861 |
-| I | 2.00% | ~21,861 |
-| Make Some Noise | 2.00% | ~21,861 |
-| The Grand Sacrifice | 1.00% | ~10,930 |
-| Agonizing Escape | 1.00% | ~10,930 |
-| Backdoor Escape | 1.00% | ~10,930 |
-| I've got your back | 1.00% | ~10,930 |
-| No one left behind | 1.00% | ~10,930 |
-| Medic | 1.00% | ~10,930 |
-| Handyman | 1.00% | ~10,930 |
-| Perfect Escape | 1.00% | ~10,930 |
-| Perfect Killing | 1.00% | ~10,930 |
-| Bloody Millionaire | 1.00% | ~10,930 |
-| Risk it all | 1.00% | ~10,930 |
-| II | 1.00% | ~10,930 |
-| Engineer | 1.00% | ~10,930 |
-| Sorted | 1.00% | ~10,930 |
-| Healthy Obsession | 1.00% | ~10,930 |
-| Resurgence | 1.00% | ~10,930 |
-| Close Shave | 1.00% | ~10,930 |
-| Preemptive Strike | 1.00% | ~10,930 |
-| Humanitarian | 1.00% | ~10,930 |
-| Apt Killer | 0.90% | ~9,837 |
-| Wounded Healer | 0.90% | ~9,837 |
-| Vulture | 0.80% | ~8,744 |
-| III | 0.80% | ~8,744 |
-| Lifting The Fog | 0.80% | ~8,744 |
-| Blood on your hands | 0.70% | ~7,651 |
-| Escape Artist | 0.70% | ~7,651 |
-| First to the Punch | 0.70% | ~7,651 |
-| Operation: Survival | 0.70% | ~7,651 |
-| Every Last Drop | 0.70% | ~7,651 |
-| With Scars to Show | 0.70% | ~7,651 |
-| Flight to Freedom | 0.70% | ~7,651 |
-| Second Act | 0.70% | ~7,651 |
-| Gifts for the Fog | 0.60% | ~6,558 |
-| III-50 | 0.60% | ~6,558 |
-| Item of Obsession | 0.60% | ~6,558 |
-| Cherish your Life | 0.60% | ~6,558 |
-| Unforgettable Getaway | 0.60% | ~6,558 |
-| Old West Oasis | 0.60% | ~6,558 |
-| Classy Act | 0.60% | ~6,558 |
-| Raccoon City Recruit | 0.60% | ~6,558 |
-| Chorus of Chaos | 0.60% | ~6,558 |
+| It wakes | 3.00% | ~32,793 |
+| Skillful | 3.00% | ~32,793 |
+| Zealous | 2.00% | ~21,862 |
+| Not half bad | 2.00% | ~21,862 |
+| Apt Survivor | 2.00% | ~21,862 |
+| Survival Treasures | 2.00% | ~21,862 |
+| I | 2.00% | ~21,862 |
+| Make Some Noise | 2.00% | ~21,862 |
+| The Grand Sacrifice | 1.00% | ~10,931 |
+| Agonizing Escape | 1.00% | ~10,931 |
+| Backdoor Escape | 1.00% | ~10,931 |
+| I've got your back | 1.00% | ~10,931 |
+| No one left behind | 1.00% | ~10,931 |
+| Medic | 1.00% | ~10,931 |
+| Handyman | 1.00% | ~10,931 |
+| Perfect Escape | 1.00% | ~10,931 |
+| Perfect Killing | 1.00% | ~10,931 |
+| Bloody Millionaire | 1.00% | ~10,931 |
+| Risk it all | 1.00% | ~10,931 |
+| II | 1.00% | ~10,931 |
+| Engineer | 1.00% | ~10,931 |
+| Sorted | 1.00% | ~10,931 |
+| Healthy Obsession | 1.00% | ~10,931 |
+| Resurgence | 1.00% | ~10,931 |
+| Close Shave | 1.00% | ~10,931 |
+| Preemptive Strike | 1.00% | ~10,931 |
+| Humanitarian | 1.00% | ~10,931 |
+| Apt Killer | 0.90% | ~9,838 |
+| Wounded Healer | 0.90% | ~9,838 |
+| Vulture | 0.80% | ~8,745 |
+| III | 0.80% | ~8,745 |
+| Lifting The Fog | 0.80% | ~8,745 |
+| Blood on your hands | 0.70% | ~7,652 |
+| Escape Artist | 0.70% | ~7,652 |
+| First to the Punch | 0.70% | ~7,652 |
+| Operation: Survival | 0.70% | ~7,652 |
+| Every Last Drop | 0.70% | ~7,652 |
+| With Scars to Show | 0.70% | ~7,652 |
+| Flight to Freedom | 0.70% | ~7,652 |
+| Second Act | 0.70% | ~7,652 |
+| Gifts for the Fog | 0.60% | ~6,559 |
+| III-50 | 0.60% | ~6,559 |
+| Item of Obsession | 0.60% | ~6,559 |
+| Cherish your Life | 0.60% | ~6,559 |
+| Unforgettable Getaway | 0.60% | ~6,559 |
+| Old West Oasis | 0.60% | ~6,559 |
+| Classy Act | 0.60% | ~6,559 |
+| Raccoon City Recruit | 0.60% | ~6,559 |
+| Chorus of Chaos | 0.60% | ~6,559 |
 | Made it out alive! | 0.50% | ~5,465 |
 | Nerves of steel | 0.50% | ~5,465 |
 | Shock Therapy | 0.50% | ~5,465 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,093 |
 | Adept Good Guy | 0.10% | ~1,093 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,093,048 (Ranked 12)  
+Progressed: 1,093,094 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -477,7 +477,7 @@ Completed: 62 (0.01%) (Ranked 351)
 | 2023-12-11 | 1,088,746 | 62 |
 | 2023-12-12 | 1,090,736 | 62 |
 | 2023-12-13 | 1,092,812 | 62 |
-| 2023-12-14 | 1,093,048 | 62 |
+| 2023-12-14 | 1,093,094 | 62 |
 ## Awards
 Max (Diverse Characters): 37,782  (Ranked 15)  
 Sum: 286,420 (Ranked 12)  

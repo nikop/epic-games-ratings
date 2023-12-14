@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7956,
+  "EOS_Progressed": 7957,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -9006,6 +9006,11 @@
       "Time": "2023-12-14T01:52:40.3714676+00:00",
       "NumProgressed": 7956,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-14T02:27:52.4706092+00:00",
+      "NumProgressed": 7957,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9033,7 +9038,7 @@
       "Name": "Audiophile",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -9184,7 +9189,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7956,
+      "Progressed": 7957,
       "Completed": 34
     }
   ],
@@ -9192,8 +9197,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-14T01:52:40.3714672+00:00",
+  "LastChanged_Achievements": "2023-12-14T02:27:52.4706089+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:30.6418185+00:00",
-  "LastUpdate_Ratings": "2023-12-14T01:49:44.7971539+00:00",
-  "LastUpdate_Achievements": "2023-12-14T01:52:40.3715178+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:24:56.5201598+00:00",
+  "LastUpdate_Achievements": "2023-12-14T02:27:52.4706548+00:00"
 }

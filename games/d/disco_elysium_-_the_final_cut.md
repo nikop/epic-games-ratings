@@ -9,25 +9,25 @@ Number of Ratings: 1,611  (23.09.2022)
 | Goodest Of The Good Cops | 28.00% | ~36,953 |
 | Biggest Communism Builder | 24.00% | ~31,674 |
 | The World's Most Laughable Centrist | 21.00% | ~27,715 |
-| Il Coppo Del'Arte! | 18.00% | ~23,755 |
+| Il Coppo Del'Arte! | 18.00% | ~23,756 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,116 |
 | Hyperstellar Law Official | 16.00% | ~21,116 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,476 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,476 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,477 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,477 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~17,157 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,517 |
-| The Figurines Won't Win Her Back | 10.00% | ~13,197 |
+| The Figurines Won't Win Her Back | 10.00% | ~13,198 |
 | Unbelievably Boring **** | 9.00% | ~11,878 |
 | Enemy Of The Physical Realm | 9.00% | ~11,878 |
-| Hardie's Heroes | 6.00% | ~7,918 |
+| Hardie's Heroes | 6.00% | ~7,919 |
 | The Lawbringer | 4.00% | ~5,279 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,279 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,959 |
 | Bother Kim After Hours | 3.00% | ~3,959 |
-| Baddest Of the Bad Cops | 2.00% | ~2,639 |
-| Expert Advanced Remote Viewer | 2.00% | ~2,639 |
-| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,639 |
-| Wheel of Pleasure and Light | 2.00% | ~2,639 |
+| Baddest Of the Bad Cops | 2.00% | ~2,640 |
+| Expert Advanced Remote Viewer | 2.00% | ~2,640 |
+| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,640 |
+| Wheel of Pleasure and Light | 2.00% | ~2,640 |
 | Massive Torque Dork | 1.00% | ~1,320 |
 | Avowed Inframaterialist | 1.00% | ~1,320 |
 | Committee of la Responsabilité | 0.90% | ~1,188 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~132 |
 | What body? | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,974 (Ranked 83)  
+Progressed: 131,976 (Ranked 83)  
 Completed: 28 (0.02%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 28 (0.02%) (Ranked 343)
 | 2023-12-11 | 131,883 | 28 |
 | 2023-12-12 | 131,916 | 28 |
 | 2023-12-13 | 131,965 | 28 |
-| 2023-12-14 | 131,974 | 28 |
+| 2023-12-14 | 131,976 | 28 |
 ## Awards
 Max (Character Customization): 746  (Ranked 183)  
 Sum: 1,139 (Ranked 256)  

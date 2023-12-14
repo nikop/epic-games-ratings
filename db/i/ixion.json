@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3429,
+  "EOS_Progressed": 3430,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6231,6 +6231,11 @@
       "Time": "2023-12-13T22:04:15.0990661+00:00",
       "NumProgressed": 3429,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T02:26:18.0735033+00:00",
+      "NumProgressed": 3430,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6274,7 +6279,7 @@
       "Name": "Oats",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_BASE_15",
@@ -6298,7 +6303,7 @@
       "Name": "What They Hide From Us",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_BASE_18",
@@ -6306,7 +6311,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "ACH_BASE_19",
@@ -6314,7 +6319,7 @@
       "Name": "...  in a finite world",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_BASE_2",
@@ -6410,7 +6415,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_BASE_31",
@@ -6450,7 +6455,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_BASE_36",
@@ -6578,7 +6583,7 @@
       "Name": "BRAWL!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_BASE_53",
@@ -6610,7 +6615,7 @@
       "Name": "Drill-dozer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_BASE_59",
@@ -6626,7 +6631,7 @@
       "Name": "Hope Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_BASE_60",
@@ -6682,7 +6687,7 @@
       "Name": "What the Ruins Teach Us",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_BASE_9",
@@ -6697,13 +6702,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1613,
+      "Progressed": 1614,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3429,
+      "Progressed": 3430,
       "Completed": 0
     }
   ],
@@ -6711,8 +6716,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-14T01:51:05.896424+00:00",
+  "LastChanged_Achievements": "2023-12-14T02:26:18.0735029+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4855137+00:00",
-  "LastUpdate_Ratings": "2023-12-14T01:47:20.3242682+00:00",
-  "LastUpdate_Achievements": "2023-12-14T01:51:05.8965154+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:22:13.3528128+00:00",
+  "LastUpdate_Achievements": "2023-12-14T02:26:18.073603+00:00"
 }

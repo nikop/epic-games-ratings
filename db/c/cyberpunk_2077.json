@@ -16604,9 +16604,9 @@
       "Count": 15506
     }
   ],
-  "EOS_Progressed": 975552,
+  "EOS_Progressed": 975561,
   "EOS_Completed": 2900,
-  "EOS_NewPlayers": 4150,
+  "EOS_NewPlayers": 4149,
   "EOS_NewCompleters": 52,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -43659,6 +43659,11 @@
       "Time": "2023-12-14T01:53:09.8015042+00:00",
       "NumProgressed": 975552,
       "NumCompleted": 2900
+    },
+    {
+      "Time": "2023-12-14T02:28:21.0217407+00:00",
+      "NumProgressed": 975561,
+      "NumCompleted": 2900
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -43703,7 +43708,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58533
+      "UsersEstimate": 58534
     },
     {
       "ID": "FollowingTheRiver",
@@ -43887,7 +43892,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58533
+      "UsersEstimate": 58534
     },
     {
       "ID": "TheHermit",
@@ -43981,9 +43986,9 @@
       "ID": "TwoHeadsOneBullet",
       "SetID": "47clieb",
       "Name": "Two Heads, One Bullet",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9756
+      "UsersEstimate": 19511
     },
     {
       "ID": "UnderPressure",
@@ -43999,7 +44004,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117066
+      "UsersEstimate": 117067
     },
     {
       "ID": "YipMan",
@@ -44111,7 +44116,7 @@
       "Name": "Relic Ruler",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3125
+      "UsersEstimate": 3126
     },
     {
       "ID": "UltimateSurvivor",
@@ -44143,7 +44148,7 @@
       "Name": "Arachnophobia",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3125
+      "UsersEstimate": 3126
     },
     {
       "ID": "KingOfTheCups",
@@ -44206,21 +44211,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 975552,
+      "Progressed": 975561,
       "Completed": 2900
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 104175,
+      "Progressed": 104184,
       "Completed": 10362
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-14T01:49:54.5007945+00:00",
-  "LastChanged_Achievements": "2023-12-14T01:53:09.8015039+00:00",
+  "LastChanged_Achievements": "2023-12-14T02:28:21.0217404+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:22.348953+00:00",
-  "LastUpdate_Ratings": "2023-12-14T01:49:54.500795+00:00",
-  "LastUpdate_Achievements": "2023-12-14T01:53:09.8016666+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:25:06.1354027+00:00",
+  "LastUpdate_Achievements": "2023-12-14T02:28:21.021923+00:00"
 }

@@ -6,10 +6,10 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,066 |
+| V for Vendetta | 12.00% | ~117,067 |
 | Gun Fu | 7.00% | ~68,289 |
-| Right Back At Ya | 6.00% | ~58,533 |
-| The Fool | 6.00% | ~58,533 |
+| Right Back At Ya | 6.00% | ~58,534 |
+| The Fool | 6.00% | ~58,534 |
 | The Lovers | 5.00% | ~48,778 |
 | Full Body Conversion | 4.00% | ~39,022 |
 | Stanislavski's Method | 4.00% | ~39,022 |
@@ -21,18 +21,18 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 3.00% | ~29,267 |
 | True Warrior | 3.00% | ~29,267 |
 | Legend of The Afterlife | 3.00% | ~29,267 |
-| Relic Ruler | 3.00% | ~3,125 |
-| Arachnophobia | 3.00% | ~3,125 |
+| Relic Ruler | 3.00% | ~3,126 |
+| Arachnophobia | 3.00% | ~3,126 |
 | Bushido and Chill | 2.00% | ~19,511 |
 | Master Crafter | 2.00% | ~19,511 |
 | I Am The Law | 2.00% | ~19,511 |
 | The Quick and the Dead | 2.00% | ~19,511 |
 | Life of the Road | 2.00% | ~19,511 |
 | The World | 2.00% | ~19,511 |
+| Two Heads, One Bullet | 2.00% | ~19,511 |
 | Judy vs Night City | 2.00% | ~19,511 |
 | To Protect and Serve | 1.00% | ~9,756 |
 | The Wandering Fool | 1.00% | ~9,756 |
-| Two Heads, One Bullet | 1.00% | ~9,756 |
 | Spin Doctor | 1.00% | ~1,042 |
 | Easy Come, Easy Go | 1.00% | ~1,042 |
 | King of Wands | 0.90% | ~938 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975,552 (Ranked 15)  
+Progressed: 975,561 (Ranked 15)  
 Completed: 2,900 (0.30%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 2,900 (0.30%) (Ranked 241)
 | 2023-12-11 | 974,702 | 2,886 |
 | 2023-12-12 | 975,121 | 2,891 |
 | 2023-12-13 | 975,519 | 2,900 |
-| 2023-12-14 | 975,552 | 2,900 |
+| 2023-12-14 | 975,561 | 2,900 |
 ## Awards
 Max (Character Customization): 122,342  (Ranked 9)  
 Sum: 416,214 (Ranked 9)  

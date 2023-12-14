@@ -2,9 +2,9 @@
   "ID": "0407f287e7574d88b7c00895f14628d8",
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
-  "Ranking_EOS_Progress": 598,
+  "Ranking_EOS_Progress": 594,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -72,6 +72,11 @@
       "Time": "2023-12-14T01:50:20.0997616+00:00",
       "NumProgressed": 16,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T02:25:32.515689+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -114,7 +119,7 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 38,
+      "Percentage": 35,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -162,9 +167,9 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "fw2",
@@ -186,7 +191,7 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 38,
+      "Percentage": 35,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -234,9 +239,9 @@
       "ID": "jg1",
       "SetID": "b1ggf28",
       "Name": "Infrastructure",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "jg2",
@@ -258,7 +263,7 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -290,7 +295,7 @@
       "ID": "jz2",
       "SetID": "b1ggf28",
       "Name": "Architect",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -394,9 +399,9 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "w2",
@@ -491,13 +496,13 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-14T01:50:20.099761+00:00",
+  "LastChanged_Achievements": "2023-12-14T02:25:32.5156886+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-14T01:49:39.482121+00:00",
-  "LastUpdate_Achievements": "2023-12-14T01:50:20.0998019+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:24:51.1891967+00:00",
+  "LastUpdate_Achievements": "2023-12-14T02:25:32.5157285+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "necroland-undead-corps",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 472,
+  "Ranking_EOS_NewPlayers": 473,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-06-30T17:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:26.8269401+00:00",
   "LastChanged": "2023-03-31T05:57:26.8269402+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.8599539+00:00",
-  "LastUpdate_Ratings": "2023-12-14T01:47:22.3603744+00:00",
-  "LastUpdate_Achievements": "2023-12-14T01:51:31.5077177+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:22:15.4503968+00:00",
+  "LastUpdate_Achievements": "2023-12-14T02:26:43.2390253+00:00"
 }

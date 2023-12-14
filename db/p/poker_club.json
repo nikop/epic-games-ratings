@@ -1015,9 +1015,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 543025,
+  "EOS_Progressed": 543026,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1269,
+  "EOS_NewPlayers": 1268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28010,6 +28010,11 @@
       "Time": "2023-12-14T01:55:37.8068893+00:00",
       "NumProgressed": 543025,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-14T02:30:56.9445451+00:00",
+      "NumProgressed": 543026,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -28037,7 +28042,7 @@
       "Name": "Before You Wreck Yourself",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10860
+      "UsersEstimate": 10861
     },
     {
       "ID": "BetBetBet",
@@ -28045,7 +28050,7 @@
       "Name": "Bet Bet Bet",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 54302
+      "UsersEstimate": 54303
     },
     {
       "ID": "BlindmansBluff",
@@ -28173,7 +28178,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 228070
+      "UsersEstimate": 228071
     },
     {
       "ID": "HoldingYourOwn",
@@ -28181,7 +28186,7 @@
       "Name": "Holding Your Own",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10860
+      "UsersEstimate": 10861
     },
     {
       "ID": "HowIRoll",
@@ -28205,7 +28210,7 @@
       "Name": "Keep Your Heads Up",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10860
+      "UsersEstimate": 10861
     },
     {
       "ID": "Moneymaker",
@@ -28269,7 +28274,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 412699
+      "UsersEstimate": 412700
     },
     {
       "ID": "ProPlayer",
@@ -28380,7 +28385,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 543025,
+      "Progressed": 543026,
       "Completed": 2
     }
   ],
@@ -28388,8 +28393,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-12-13T17:56:55.9576887+00:00",
-  "LastChanged_Achievements": "2023-12-14T01:55:37.806889+00:00",
+  "LastChanged_Achievements": "2023-12-14T02:30:56.9445447+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:41.1804314+00:00",
-  "LastUpdate_Ratings": "2023-12-14T01:44:07.7541746+00:00",
-  "LastUpdate_Achievements": "2023-12-14T01:55:37.8070078+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:19:04.2020438+00:00",
+  "LastUpdate_Achievements": "2023-12-14T02:30:56.9446855+00:00"
 }

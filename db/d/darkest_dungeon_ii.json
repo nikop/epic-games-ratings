@@ -9672,9 +9672,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126729,
+  "EOS_Progressed": 126734,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1016,
+  "EOS_NewPlayers": 1019,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34907,6 +34907,11 @@
       "Time": "2023-12-14T01:55:43.6998729+00:00",
       "NumProgressed": 126729,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T02:31:02.65678+00:00",
+      "NumProgressed": 126734,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35124,9 +35129,9 @@
       "ID": "combat_kill_lair_boss_bounty_hunter",
       "SetID": "64l4lke",
       "Name": "Clearing the Ledger",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 253
     },
     {
       "ID": "combat_kill_leviathan",
@@ -35500,9 +35505,9 @@
       "ID": "hero_story_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Ploughshares to Swords",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -35549,21 +35554,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126729,
+      "Progressed": 126734,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1598,
+      "Progressed": 1603,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-14T01:46:33.3984307+00:00",
-  "LastChanged_Achievements": "2023-12-14T01:55:43.6998724+00:00",
+  "LastChanged_Achievements": "2023-12-14T02:31:02.6567798+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T01:46:33.3984312+00:00",
-  "LastUpdate_Achievements": "2023-12-14T01:55:43.7000319+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:21:26.985995+00:00",
+  "LastUpdate_Achievements": "2023-12-14T02:31:02.6569379+00:00"
 }

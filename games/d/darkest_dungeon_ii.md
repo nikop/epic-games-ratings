@@ -18,8 +18,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Meat and Greet | 1.00% | ~1,267 |
 | Overdue Notice | 1.00% | ~1,267 |
 | Autodidact | 1.00% | ~1,267 |
+| Ploughshares to Swords | 1.00% | ~16 |
 | Serenity Now! | 0.90% | ~1,141 |
-| Ploughshares to Swords | 0.90% | ~14 |
 | Rush Hour | 0.80% | ~1,014 |
 | To Grandmother's House | 0.80% | ~1,014 |
 | FNG | 0.80% | ~1,014 |
@@ -63,6 +63,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 0.30% | ~380 |
 | Maître De La Lame | 0.30% | ~5 |
 | Et Tu, Riposte? | 0.30% | ~5 |
+| Clearing the Ledger | 0.20% | ~253 |
 | Bacon Bits | 0.20% | ~253 |
 | Shrine of Reflection | 0.20% | ~253 |
 | Handled | 0.20% | ~253 |
@@ -71,7 +72,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Life Well Lived | 0.10% | ~127 |
 | The World As It Was | 0.10% | ~127 |
 | Loop Year | 0.10% | ~127 |
-| Clearing the Ledger | 0.10% | ~127 |
 | Circle of Life | 0.10% | ~127 |
 | No Gravestone Left Unturned | 0.10% | ~127 |
 | Hat Trick | 0.10% | ~127 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,729 (Ranked 84)  
+Progressed: 126,734 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 3 (0.00%) (Ranked 374)
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
-| 2023-12-14 | 126,729 | 3 |
+| 2023-12-14 | 126,734 | 3 |
 ## Awards
 Max (Character Customization): 7,665  (Ranked 52)  
 Sum: 20,347 (Ranked 59)  

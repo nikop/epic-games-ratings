@@ -7,11 +7,11 @@ Number of Ratings: 68  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I'm not dead yet | 41.00% | ~10,733 |
-| Overkill | 34.00% | ~8,900 |
-| Vaccine Incoming | 33.00% | ~8,638 |
+| Overkill | 34.00% | ~8,901 |
+| Vaccine Incoming | 33.00% | ~8,639 |
 | A normal day in Gloomhaven | 31.00% | ~8,115 |
-| Spread the plague | 29.00% | ~7,591 |
-| Get over here! | 25.00% | ~6,544 |
+| Spread the plague | 29.00% | ~7,592 |
+| Get over here! | 25.00% | ~6,545 |
 | Just when I thought I was out... | 19.00% | ~4,974 |
 | Precious! | 17.00% | ~4,450 |
 | Mine... All Mine... | 17.00% | ~4,450 |
@@ -20,8 +20,8 @@ Number of Ratings: 68  (23.09.2022)
 | Obstacle race | 13.00% | ~3,403 |
 | Light of my life | 13.00% | ~3,403 |
 | You activated my trap card! | 12.00% | ~3,141 |
-| Who's the Boss? | 11.00% | ~2,879 |
-| Augmented rat | 11.00% | ~2,879 |
+| Who's the Boss? | 11.00% | ~2,880 |
+| Augmented rat | 11.00% | ~2,880 |
 | Doom and gloom | 10.00% | ~2,618 |
 | Dungeon Veteran | 9.00% | ~2,356 |
 | Pack leader | 8.00% | ~2,094 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~26 |
 | Hard-travelling Heroes | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,177 (Ranked 132)  
+Progressed: 26,179 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 1 (0.00%) (Ranked 374)
 | 2023-12-11 | 25,874 | 1 |
 | 2023-12-12 | 26,015 | 1 |
 | 2023-12-13 | 26,164 | 1 |
-| 2023-12-14 | 26,177 | 1 |
+| 2023-12-14 | 26,179 | 1 |
 ## Awards
 Max (Character Customization): 3,598  (Ranked 90)  
 Sum: 8,408 (Ranked 102)  

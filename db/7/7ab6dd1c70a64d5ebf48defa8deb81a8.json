@@ -3,8 +3,8 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 368,
-  "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_Completed": 170,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 289,
+  "EOS_Progressed": 290,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.04,
+  "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -1110,6 +1110,11 @@
       "Time": "2023-12-14T01:56:38.2489226+00:00",
       "NumProgressed": 289,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T02:31:57.2380813+00:00",
+      "NumProgressed": 290,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1193,7 +1198,7 @@
       "Name": "Trinity",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_11",
@@ -1408,14 +1413,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 289,
+      "Progressed": 290,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-14T01:56:38.2489222+00:00",
+  "LastChanged_Achievements": "2023-12-14T02:31:57.2380811+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-14T01:44:33.0682172+00:00",
-  "LastUpdate_Achievements": "2023-12-14T01:56:38.2489441+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:19:29.5091684+00:00",
+  "LastUpdate_Achievements": "2023-12-14T02:31:57.2381094+00:00"
 }

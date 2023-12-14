@@ -5,8 +5,8 @@ Rating: 3.83 (Ranked 1,043)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~412,699 |
-| Handy | 42.00% | ~228,070 |
+| Pro Creation | 76.00% | ~412,700 |
+| Handy | 42.00% | ~228,071 |
 | Cold Caller | 40.00% | ~217,210 |
 | A Bit On The Side | 27.00% | ~146,617 |
 | Backdoor | 25.00% | ~135,756 |
@@ -17,7 +17,7 @@ Rating: 3.83 (Ranked 1,043)
 | Risk It For A Biscuit | 14.00% | ~76,024 |
 | Showoff | 13.00% | ~70,593 |
 | W.H.I.P. | 12.00% | ~65,163 |
-| Bet Bet Bet | 10.00% | ~54,302 |
+| Bet Bet Bet | 10.00% | ~54,303 |
 | Blindman's Bluff | 9.00% | ~48,872 |
 | Poker Joker | 9.00% | ~48,872 |
 | Never Give Up | 8.00% | ~43,442 |
@@ -30,9 +30,9 @@ Rating: 3.83 (Ranked 1,043)
 | Moneymaker | 4.00% | ~21,721 |
 | In The Gang | 3.00% | ~16,291 |
 | On The Button | 3.00% | ~16,291 |
-| Before You Wreck Yourself | 2.00% | ~10,860 |
-| Holding Your Own | 2.00% | ~10,860 |
-| Keep Your Heads Up | 2.00% | ~10,860 |
+| Before You Wreck Yourself | 2.00% | ~10,861 |
+| Holding Your Own | 2.00% | ~10,861 |
+| Keep Your Heads Up | 2.00% | ~10,861 |
 | Bluffing Eh? | 1.00% | ~5,430 |
 | Go For It | 1.00% | ~5,430 |
 | Regular Punter | 0.70% | ~3,801 |
@@ -51,7 +51,7 @@ Rating: 3.83 (Ranked 1,043)
 | Rounder | 0.10% | ~543 |
 | Top Dog | 0.10% | ~543 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 543,025 (Ranked 33)  
+Progressed: 543,026 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 2 (0.00%) (Ranked 374)
 | 2023-12-11 | 542,722 | 2 |
 | 2023-12-12 | 542,846 | 2 |
 | 2023-12-13 | 543,008 | 2 |
-| 2023-12-14 | 543,025 | 2 |
+| 2023-12-14 | 543,026 | 2 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 415)  
 Sum: 189 (Ranked 413)  

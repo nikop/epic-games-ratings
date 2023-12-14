@@ -10,19 +10,19 @@
 | Brace the cold | 44.00% | ~25 |
 | A Long Walk | 42.00% | ~24 |
 | Dont mind the heat | 18.00% | ~10 |
-| City of Puzzles | 11.00% | ~6 |
-| This field of danger | 11.00% | ~6 |
-| Labyrinths of the Mind | 11.00% | ~6 |
-| A Terrifying Blizzard | 7.00% | ~4 |
-| A Dangerous Road | 5.00% | ~3 |
-| Scorched Ruins | 4.00% | ~2 |
-| City of Illusion | 4.00% | ~2 |
-| Kill the Flames | 4.00% | ~2 |
-| Find the Light | 4.00% | ~2 |
-| Fight and Overcome | 4.00% | ~2 |
-| A Walk to the End | 4.00% | ~2 |
-| The Final Test | 4.00% | ~2 |
-| A Journey's End | 4.00% | ~2 |
+| City of Puzzles | 12.00% | ~7 |
+| This field of danger | 12.00% | ~7 |
+| Labyrinths of the Mind | 12.00% | ~7 |
+| A Terrifying Blizzard | 9.00% | ~5 |
+| A Dangerous Road | 7.00% | ~4 |
+| Scorched Ruins | 5.00% | ~3 |
+| City of Illusion | 5.00% | ~3 |
+| Kill the Flames | 5.00% | ~3 |
+| Find the Light | 5.00% | ~3 |
+| Fight and Overcome | 5.00% | ~3 |
+| A Walk to the End | 5.00% | ~3 |
+| The Final Test | 5.00% | ~3 |
+| A Journey's End | 5.00% | ~3 |
 | A Stone Left Unturned | 2.00% | ~1 |
 | Celibacy/Delicacy | 2.00% | ~1 |
 | No End is Eternal | 0.00% | ~0 |

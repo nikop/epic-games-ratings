@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3143,
+  "EOS_Progressed": 3157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3139,
+  "EOS_NewPlayers": 3153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -836,6 +836,11 @@
       "Time": "2023-12-14T01:56:08.7388862+00:00",
       "NumProgressed": 3143,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T02:31:27.3886445+00:00",
+      "NumProgressed": 3157,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -848,7 +853,7 @@
       "Name": "Conspiracy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1705
     },
     {
       "ID": "03_TheStolenStar",
@@ -856,7 +861,7 @@
       "Name": "Stolen Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 537
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -944,7 +949,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "15_Pentakill",
@@ -952,7 +957,7 @@
       "Name": "Pentakill",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "16_TheRise",
@@ -960,7 +965,7 @@
       "Name": "The Rise",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 503
+      "UsersEstimate": 505
     },
     {
       "ID": "17_TheExemplar",
@@ -976,7 +981,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 503
+      "UsersEstimate": 505
     },
     {
       "ID": "19_TheVoidWolf",
@@ -984,7 +989,7 @@
       "Name": "Void Wolf",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -1008,7 +1013,7 @@
       "Name": "Perfect Timing",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "23_DynastyRestored",
@@ -1056,7 +1061,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 316
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -1064,7 +1069,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1610
     },
     {
       "ID": "30_The GreatestExploration",
@@ -1078,9 +1083,9 @@
       "ID": "31_DontTouchThis",
       "SetID": "37a94m8",
       "Name": "Don\u0027t Touch This",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 158
     },
     {
       "ID": "32_AviationSaviour",
@@ -1088,7 +1093,7 @@
       "Name": "Aviation Saviour",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "33_TzeentchCleaning",
@@ -1096,7 +1101,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 503
+      "UsersEstimate": 505
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -1104,7 +1109,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -1168,7 +1173,7 @@
       "Name": "Iron Judgement",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -1200,7 +1205,7 @@
       "Name": "A Spark",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 660
+      "UsersEstimate": 663
     },
     {
       "ID": "47_AFlame",
@@ -1288,7 +1293,7 @@
       "Name": "Burning Inheritance",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -1367,7 +1372,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 3143,
+      "Progressed": 3157,
       "Completed": 0
     }
   ],
@@ -1375,8 +1380,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-13T15:57:56.1803279+00:00",
-  "LastChanged_Achievements": "2023-12-14T01:56:08.7388859+00:00",
+  "LastChanged_Achievements": "2023-12-14T02:31:27.3886442+00:00",
   "LastUpdate_AppInfo": "2023-12-07T02:20:41.4107807+00:00",
-  "LastUpdate_Ratings": "2023-12-14T01:44:33.713904+00:00",
-  "LastUpdate_Achievements": "2023-12-14T01:56:08.7389306+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:19:30.2764199+00:00",
+  "LastUpdate_Achievements": "2023-12-14T02:31:27.3886888+00:00"
 }

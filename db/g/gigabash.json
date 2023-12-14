@@ -171,9 +171,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 74719,
+  "EOS_Progressed": 74869,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73520,
+  "EOS_NewPlayers": 73670,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -661,6 +661,11 @@
       "Time": "2023-12-14T01:52:29.9611369+00:00",
       "NumProgressed": 74719,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T02:27:41.8897212+00:00",
+      "NumProgressed": 74869,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -673,7 +678,7 @@
       "Name": "Oh Baby, A Triple",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_5_STAGES_OF_GRIEF",
@@ -735,17 +740,17 @@
       "ID": "ACH_GOROGONG_STORY",
       "SetID": "3k5ibhn",
       "Name": "Fists, Fury \u0026 a lot of Rage",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 449
     },
     {
       "ID": "ACH_GROWNUP",
       "SetID": "3k5ibhn",
       "Name": "All Grown Up!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 672
+      "UsersEstimate": 749
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -769,7 +774,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -839,9 +844,9 @@
       "ID": "ACH_SEASONED_FIGHTER",
       "SetID": "3k5ibhn",
       "Name": "Seasoned Fighter",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -881,7 +886,7 @@
       "Name": "Symbiotic",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_TASTE_YOUR_OWN_MEDICINE",
@@ -897,7 +902,7 @@
       "Name": "A New Age",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_TOP_OF_THE_FOOD_CHAIN",
@@ -937,7 +942,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -952,7 +957,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 74719,
+      "Progressed": 74869,
       "Completed": 0
     }
   ],
@@ -960,8 +965,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2023-12-13T04:01:04.0140462+00:00",
-  "LastChanged_Achievements": "2023-12-14T01:52:29.9611365+00:00",
+  "LastChanged_Achievements": "2023-12-14T02:27:41.8897208+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:41.917793+00:00",
-  "LastUpdate_Ratings": "2023-12-14T01:47:29.2963949+00:00",
-  "LastUpdate_Achievements": "2023-12-14T01:52:29.9611563+00:00"
+  "LastUpdate_Ratings": "2023-12-14T02:24:41.9298605+00:00",
+  "LastUpdate_Achievements": "2023-12-14T02:27:41.8897441+00:00"
 }

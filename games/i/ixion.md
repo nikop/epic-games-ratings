@@ -7,7 +7,7 @@ Rating: 4.58 (Ranked 453)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 30.00% | ~1,029 |
 | Sputnik 2049 | 26.00% | ~892 |
-| Infinite Growth... | 25.00% | ~857 |
+| Infinite Growth... | 25.00% | ~858 |
 | Without Breaking Some Eggs... | 24.00% | ~823 |
 | A Thousand Strong | 18.00% | ~617 |
 | Ready for a New World | 18.00% | ~617 |
@@ -17,9 +17,9 @@ Rating: 4.58 (Ranked 453)
 | Ain't Nobody Got Time for That | 14.00% | ~480 |
 | The Ship of Theseus | 14.00% | ~480 |
 | Guy de Borderlands | 13.00% | ~446 |
-| Exceeding Capacity | 12.00% | ~411 |
-| Breaking Protocol | 12.00% | ~411 |
-| Hope Seeker | 12.00% | ~411 |
+| Exceeding Capacity | 12.00% | ~412 |
+| Breaking Protocol | 12.00% | ~412 |
+| Hope Seeker | 12.00% | ~412 |
 | A Hunk of Junk | 11.00% | ~377 |
 | Man's Best Friend | 9.00% | ~309 |
 | Power Outage | 9.00% | ~309 |
@@ -30,12 +30,12 @@ Rating: 4.58 (Ranked 453)
 | From the Past | 7.00% | ~240 |
 | Access Granted | 6.00% | ~206 |
 | All in Good Health | 6.00% | ~206 |
-| Oats | 5.00% | ~171 |
-| What They Hide From Us | 5.00% | ~171 |
-| ...  in a finite world | 5.00% | ~171 |
-| BRAWL! | 5.00% | ~171 |
-| Drill-dozer | 5.00% | ~171 |
-| What the Ruins Teach Us | 5.00% | ~171 |
+| Oats | 5.00% | ~172 |
+| What They Hide From Us | 5.00% | ~172 |
+| ...  in a finite world | 5.00% | ~172 |
+| BRAWL! | 5.00% | ~172 |
+| Drill-dozer | 5.00% | ~172 |
+| What the Ruins Teach Us | 5.00% | ~172 |
 | Sustainable Energy | 4.00% | ~137 |
 | In Dolos We Trust | 4.00% | ~137 |
 | Pedal to the Metal | 4.00% | ~137 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 453)
 | This is Fine | 0.10% | ~3 |
 | Suburban Perfection | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,429 (Ranked 209)  
+Progressed: 3,430 (Ranked 209)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,6 +291,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-10 | 3,420 | 0 |
 | 2023-12-11 | 3,423 | 0 |
 | 2023-12-13 | 3,429 | 0 |
+| 2023-12-14 | 3,430 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

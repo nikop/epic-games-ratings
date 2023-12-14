@@ -6,9 +6,9 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mash Machine | 48.00% | ~23 |
+| Mash Machine | 50.00% | ~24 |
 | Rock of the Bay | 48.00% | ~23 |
-| Ducks in a Row, Fish in a Barrel | 33.00% | ~16 |
+| Ducks in a Row, Fish in a Barrel | 35.00% | ~17 |
 | Furon Fashion | 27.00% | ~13 |
 | Shop Til They Drop | 27.00% | ~13 |
 | I Look Up As I Walk to Takoshima | 19.00% | ~9 |
@@ -19,10 +19,10 @@ Number of Ratings: 90  (23.09.2022)
 | Bodied Sattva | 13.00% | ~6 |
 | Perfect Probulator | 10.00% | ~5 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 10.00% | ~5 |
+| Transmitting From Sol-3 | 8.00% | ~4 |
 | Lie Back and Think of Albion | 8.00% | ~4 |
 | Fly Me to the Moon Base | 8.00% | ~4 |
 | Dusted | 8.00% | ~4 |
-| Transmitting From Sol-3 | 6.00% | ~3 |
 | Freshly Squeezed | 6.00% | ~3 |
 | Die Nasty | 6.00% | ~3 |
 | Scuttled | 6.00% | ~3 |
@@ -32,6 +32,7 @@ Number of Ratings: 90  (23.09.2022)
 | Forbidden Donut | 2.00% | ~1 |
 | Deincarnated | 2.00% | ~1 |
 | Yettisoned | 2.00% | ~1 |
+| Re-Return of the Clone of the Invasion II-2 | 2.00% | ~1 |
 | Arkvoodle Doodle | 2.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
 | PK Slam Dunk | 0.00% | ~0 |
@@ -44,7 +45,6 @@ Number of Ratings: 90  (23.09.2022)
 | Ouch of Body Experience | 0.00% | ~0 |
 | The Optional Mandate | 0.00% | ~0 |
 | Higher Than the Futen Zoku | 0.00% | ~0 |
-| Re-Return of the Clone of the Invasion II-2 | 0.00% | ~0 |
 | To Russia With Love | 0.00% | ~0 |
 | If You Know What I Mean | 0.00% | ~0 |
 | Steezy Down the Spine | 0.00% | ~0 |
