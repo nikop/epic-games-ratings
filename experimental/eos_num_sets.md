@@ -28,7 +28,7 @@
 | [Hi-Fi RUSH](../games/h/hi-fi_rush.md) | 71 | 1,250 | 2 |
 | [High On Life](../games/h/high_on_life.md) | 44 | 1,195 | 2 |
 | [Homeworld: Deserts of Kharak](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 48 | 1,440 | 2 |
-| [HOT WHEELS UNLEASHED™ 2 - Turbocharged](../games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 43 | 1,000 | 2 |
+| [HOT WHEELS UNLEASHED™ 2 - Turbocharged](../games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 46 | 1,045 | 2 |
 | [House Party](../games/h/house_party.md) | 69 | 1,040 | 2 |
 | [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 546 | 2,730 | 2 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 | 2 |

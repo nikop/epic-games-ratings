@@ -216,6 +216,7 @@
 | [Agatha Christie - Hercule Poirot: The London Case](../games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 46 | 1,000 |
 | [Blasphemous 2](../games/c/c2890856ddb844f1a7d552fc929838a7.md) | 46 | 1,000 |
 | [Hercule Poirot - The First Cases](../games/h/hercule_poirot_-_the_first_cases.md) | 46 | 1,000 |
+| [HOT WHEELS UNLEASHED™ 2 - Turbocharged](../games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 46 | 1,045 |
 | [Runbow](../games/r/runbow.md) | 46 | 1,000 |
 | [Shin-chan Me and the Professor on Summer Vacation](../games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 46 | 1,000 |
 | [Silence](../games/s/silence.md) | 46 | 1,000 |
@@ -253,7 +254,6 @@
 | [Chorus](../games/c/chorus.md) | 43 | 1,000 |
 | [DNF Duel](../games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 43 | 1,000 |
 | [Farming Simulator 22](../games/f/farming_simulator_22.md) | 43 | 1,000 |
-| [HOT WHEELS UNLEASHED™ 2 - Turbocharged](../games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 43 | 1,000 |
 | [Persha and the Magic Labyrinth -Arabian Nyaights-](../games/3/3645577654d440e4a833ce60dac7ccf3.md) | 43 | 1,000 |
 | [SPACE WAR - INFINITY](../games/7/72714161da094789aec500130c8530fa.md) | 43 | 1,000 |
 | [STAR WARS™ Battlefront™ II: Celebration Edition](../games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 43 | 1,045 |

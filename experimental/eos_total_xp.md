@@ -56,6 +56,7 @@
 | [Galactic Civilizations IV: Supernova](../games/g/galactic_civilizations_iv__supernova.md) | 77 | 1,060 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 |
 | [Mega City Force](../games/m/mega_city_police.md) | 27 | 1,050 |
+| [HOT WHEELS UNLEASHED™ 2 - Turbocharged](../games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 46 | 1,045 |
 | [STAR WARS™ Battlefront™ II: Celebration Edition](../games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 43 | 1,045 |
 | [House Party](../games/h/house_party.md) | 69 | 1,040 |
 | ['n Verlore Verstand](../games/'/'n_verlore_verstand.md) | 48 | 1,000 |
@@ -381,7 +382,6 @@
 | [HORSE CLUB Adventures 2 - Hazelwood Stories](../games/f/f03926dee08f4c29b20d907c4cb5f9e4.md) | 42 | 1,000 |
 | [Horse Racing](../games/e/e4e71e80487245b682ed399fa518964e.md) | 9 | 1,000 |
 | [Horse Tales - Emerald Valley Ranch](../games/h/horse_tales_-_emerald_valley_ranch.md) | 33 | 1,000 |
-| [HOT WHEELS UNLEASHED™ 2 - Turbocharged](../games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 43 | 1,000 |
 | [Hotel Renovator](../games/h/hotel_renovator.md) | 27 | 1,000 |
 | [Hotel: A Resort Simulator](../games/b/b6a1a2bc8ab94b7fab473216aee35a3e.md) | 27 | 1,000 |
 | [House Flipper](../games/h/house_flipper.md) | 23 | 1,000 |
