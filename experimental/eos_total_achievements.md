@@ -253,6 +253,7 @@
 | [Art of Rally](../games/a/art_of_rally_1.md) | 43 | 1,000 |
 | [Chorus](../games/c/chorus.md) | 43 | 1,000 |
 | [DNF Duel](../games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 43 | 1,000 |
+| [Fae Farm](../games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 43 | 1,300 |
 | [Farming Simulator 22](../games/f/farming_simulator_22.md) | 43 | 1,000 |
 | [Persha and the Magic Labyrinth -Arabian Nyaights-](../games/3/3645577654d440e4a833ce60dac7ccf3.md) | 43 | 1,000 |
 | [SPACE WAR - INFINITY](../games/7/72714161da094789aec500130c8530fa.md) | 43 | 1,000 |
@@ -351,7 +352,6 @@
 | [Busway Islands - Puzzle](../games/b/busway_islands_-_puzzle.md) | 35 | 1,000 |
 | [Despot's Game](../games/d/despot's_game.md) | 35 | 1,000 |
 | [Engine Evolution 2023](../games/6/6a47fb709a8c4f68b7638c29ea628194.md) | 35 | 1,000 |
-| [Fae Farm](../games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 35 | 1,000 |
 | [GigaBash](../games/g/gigabash.md) | 35 | 1,000 |
 | [Grand Theft Auto: San Andreas – The Definitive Edition](../games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 35 | 1,000 |
 | [greensheen Production](../games/g/greensheen_production.md) | 35 | 1,000 |

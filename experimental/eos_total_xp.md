@@ -25,6 +25,7 @@
 | [Probo Rush](../games/p/probo_rush.md) | 17 | 1,400 |
 | [The Tenants](../games/t/the_tenants.md) | 86 | 1,400 |
 | [Gotham Knights](../games/g/gotham_knights.md) | 61 | 1,390 |
+| [Fae Farm](../games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 43 | 1,300 |
 | [Serial Cleaners](../games/s/serial_cleaners.md) | 24 | 1,300 |
 | [Showgunners](../games/s/showgunners.md) | 54 | 1,300 |
 | [Train Valley 2](../games/t/train_valley_2.md) | 89 | 1,300 |
@@ -289,7 +290,6 @@
 | [F1® 22 Standard Edition](../games/f/f1®_22_standard_edition.md) | 50 | 1,000 |
 | [F1® 23](../games/f/f1®_23_standard_edition.md) | 49 | 1,000 |
 | [Fabular: Once Upon a Spacetime](../games/f/fabular__once_upon_a_spacetime.md) | 8 | 1,000 |
-| [Fae Farm](../games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 35 | 1,000 |
 | [Fall Guys](../games/f/fall_guys.md) | 34 | 1,000 |
 | [Fall of Porcupine](../games/a/aba40ee99a904fe8891fddc8f88a1f65.md) | 19 | 1,000 |
 | [Faraday Protocol](../games/f/faraday_protocol.md) | 17 | 1,000 |
