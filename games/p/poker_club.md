@@ -5,21 +5,21 @@ Rating: 3.83 (Ranked 1,043)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~412,718 |
-| Handy | 42.00% | ~228,081 |
-| Cold Caller | 40.00% | ~217,220 |
-| A Bit On The Side | 27.00% | ~146,624 |
-| Backdoor | 25.00% | ~135,762 |
-| Rank Amateur | 22.00% | ~119,471 |
-| Three Way | 19.00% | ~103,180 |
-| Deadly Assassin | 16.00% | ~86,888 |
-| Gutshot | 14.00% | ~76,027 |
-| Risk It For A Biscuit | 14.00% | ~76,027 |
-| Showoff | 13.00% | ~70,596 |
-| W.H.I.P. | 12.00% | ~65,166 |
-| Bet Bet Bet | 10.00% | ~54,305 |
-| Blindman's Bluff | 9.00% | ~48,874 |
-| Poker Joker | 9.00% | ~48,874 |
+| Pro Creation | 76.00% | ~412,723 |
+| Handy | 42.00% | ~228,084 |
+| Cold Caller | 40.00% | ~217,222 |
+| A Bit On The Side | 27.00% | ~146,625 |
+| Backdoor | 25.00% | ~135,764 |
+| Rank Amateur | 22.00% | ~119,472 |
+| Three Way | 19.00% | ~103,181 |
+| Deadly Assassin | 16.00% | ~86,889 |
+| Gutshot | 14.00% | ~76,028 |
+| Risk It For A Biscuit | 14.00% | ~76,028 |
+| Showoff | 13.00% | ~70,597 |
+| W.H.I.P. | 12.00% | ~65,167 |
+| Bet Bet Bet | 10.00% | ~54,306 |
+| Blindman's Bluff | 9.00% | ~48,875 |
+| Poker Joker | 9.00% | ~48,875 |
 | Never Give Up | 8.00% | ~43,444 |
 | The Bigger They Are | 8.00% | ~43,444 |
 | Total Knock Out | 8.00% | ~43,444 |
@@ -33,8 +33,8 @@ Rating: 3.83 (Ranked 1,043)
 | Before You Wreck Yourself | 2.00% | ~10,861 |
 | Holding Your Own | 2.00% | ~10,861 |
 | Keep Your Heads Up | 2.00% | ~10,861 |
-| Bluffing Eh? | 1.00% | ~5,430 |
-| Go For It | 1.00% | ~5,430 |
+| Bluffing Eh? | 1.00% | ~5,431 |
+| Go For It | 1.00% | ~5,431 |
 | Regular Punter | 0.70% | ~3,801 |
 | How I Roll | 0.60% | ~3,258 |
 | Club Legend | 0.50% | ~2,715 |
@@ -51,7 +51,7 @@ Rating: 3.83 (Ranked 1,043)
 | Rounder | 0.10% | ~543 |
 | Top Dog | 0.10% | ~543 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 543,050 (Ranked 33)  
+Progressed: 543,056 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 2 (0.00%) (Ranked 374)
 | 2023-12-11 | 542,722 | 2 |
 | 2023-12-12 | 542,846 | 2 |
 | 2023-12-13 | 543,008 | 2 |
-| 2023-12-14 | 543,050 | 2 |
+| 2023-12-14 | 543,056 | 2 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 415)  
 Sum: 189 (Ranked 413)  

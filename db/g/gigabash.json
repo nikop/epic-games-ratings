@@ -3,8 +3,8 @@
   "Name": "GigaBash",
   "ProductSlug": "gigabash",
   "Ranking_Rating": 482,
-  "Ranking_Popularity": 555,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 527,
+  "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 3,
@@ -163,23 +163,29 @@
       "Rating": 4.57,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2023-12-14T06:03:07.2839773+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 25,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
+  "NumberOfAwards": 25,
+  "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 20
+      "Count": 25
     }
   ],
-  "EOS_Progressed": 75642,
+  "EOS_Progressed": 75918,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74443,
+  "EOS_NewPlayers": 74719,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -687,6 +693,11 @@
       "Time": "2023-12-14T05:07:09.1429607+00:00",
       "NumProgressed": 75642,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T06:07:12.8116092+00:00",
+      "NumProgressed": 75918,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -697,9 +708,9 @@
       "ID": "ACH_3_TITANS_1_STONE",
       "SetID": "3k5ibhn",
       "Name": "Oh Baby, A Triple",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_5_STAGES_OF_GRIEF",
@@ -721,9 +732,9 @@
       "ID": "ACH_BATTLE_HARDENED",
       "SetID": "3k5ibhn",
       "Name": "Battle Hardened",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_CAUTIOUS_VETERAN",
@@ -761,17 +772,17 @@
       "ID": "ACH_GOROGONG_STORY",
       "SetID": "3k5ibhn",
       "Name": "Fists, Fury \u0026 a lot of Rage",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 683
     },
     {
       "ID": "ACH_GROWNUP",
       "SetID": "3k5ibhn",
       "Name": "All Grown Up!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 756
+      "UsersEstimate": 1518
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -795,7 +806,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 756
+      "UsersEstimate": 759
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -819,7 +830,7 @@
       "Name": "Master of Disguise",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_MAYHEM",
@@ -849,25 +860,25 @@
       "ID": "ACH_PIPIJURAS_STORY",
       "SetID": "3k5ibhn",
       "Name": "All For One and One For All",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 531
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
       "SetID": "3k5ibhn",
       "Name": "Right back at\u0027cha",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_SEASONED_FIGHTER",
       "SetID": "3k5ibhn",
       "Name": "Seasoned Fighter",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -907,7 +918,7 @@
       "Name": "Symbiotic",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_TASTE_YOUR_OWN_MEDICINE",
@@ -923,7 +934,7 @@
       "Name": "A New Age",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_TOP_OF_THE_FOOD_CHAIN",
@@ -963,7 +974,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -978,16 +989,16 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 75642,
+      "Progressed": 75918,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-08-05T02:02:12.3319338+00:00",
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
-  "LastChanged": "2023-12-14T04:02:51.6460809+00:00",
-  "LastChanged_Achievements": "2023-12-14T05:07:09.1429601+00:00",
+  "LastChanged": "2023-12-14T06:03:07.2839771+00:00",
+  "LastChanged_Achievements": "2023-12-14T06:07:12.8116089+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:41.917793+00:00",
-  "LastUpdate_Ratings": "2023-12-14T05:02:41.7910712+00:00",
-  "LastUpdate_Achievements": "2023-12-14T05:07:09.142986+00:00"
+  "LastUpdate_Ratings": "2023-12-14T06:03:07.2839775+00:00",
+  "LastUpdate_Achievements": "2023-12-14T06:07:12.8116273+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1657,10 +1657,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 162441,
-  "EOS_Completed": 311,
-  "EOS_NewPlayers": 932,
-  "EOS_NewCompleters": 92,
+  "EOS_Progressed": 162446,
+  "EOS_Completed": 314,
+  "EOS_NewPlayers": 937,
+  "EOS_NewCompleters": 95,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
@@ -19132,6 +19132,11 @@
       "Time": "2023-12-14T05:07:53.050895+00:00",
       "NumProgressed": 162441,
       "NumCompleted": 311
+    },
+    {
+      "Time": "2023-12-14T06:07:53.7370843+00:00",
+      "NumProgressed": 162446,
+      "NumCompleted": 314
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -19302,9 +19307,9 @@
       "ID": "DEFEAT_PERFORMER",
       "SetID": "ccc0dlh",
       "Name": "Celebration",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 162
+      "UsersEstimate": 325
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -19511,21 +19516,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 162024,
+      "Progressed": 162029,
       "Completed": 1237
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 162441,
-      "Completed": 311
+      "Progressed": 162446,
+      "Completed": 314
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-12T15:59:50.786914+00:00",
-  "LastChanged_Achievements": "2023-12-14T05:07:53.0508946+00:00",
+  "LastChanged_Achievements": "2023-12-14T06:07:53.737084+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-14T05:00:49.4048327+00:00",
-  "LastUpdate_Achievements": "2023-12-14T05:07:53.0510353+00:00"
+  "LastUpdate_Ratings": "2023-12-14T06:00:51.1167047+00:00",
+  "LastUpdate_Achievements": "2023-12-14T06:07:53.7371799+00:00"
 }

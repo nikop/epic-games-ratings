@@ -6,33 +6,34 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 5.00% | ~82 |
-| This guy... again? | 3.00% | ~49 |
-| This Belongs in a Museum | 2.00% | ~2,535 |
-| Not Today! | 2.00% | ~2,535 |
-| Catch and Decease | 2.00% | ~2,535 |
-| Overdue Notice | 2.00% | ~2,535 |
-| Escape from the Black Hole | 2.00% | ~2,535 |
-| Autodidact | 2.00% | ~2,535 |
+| Malpractice Assurance | 5.00% | ~83 |
+| This guy... again? | 3.00% | ~50 |
+| This Belongs in a Museum | 2.00% | ~2,536 |
+| Not Today! | 2.00% | ~2,536 |
+| Catch and Decease | 2.00% | ~2,536 |
+| Overdue Notice | 2.00% | ~2,536 |
+| Escape from the Black Hole | 2.00% | ~2,536 |
+| Autodidact | 2.00% | ~2,536 |
 | Bloody Graduation | 2.00% | ~33 |
 | Lost and Found | 2.00% | ~33 |
 | Creep and Sleep | 1.00% | ~1,268 |
 | Meat and Greet | 1.00% | ~1,268 |
-| Ploughshares to Swords | 1.00% | ~16 |
+| Ploughshares to Swords | 1.00% | ~17 |
 | Serenity Now! | 0.90% | ~1,141 |
 | To Grandmother's House | 0.90% | ~1,141 |
 | Don't Make Me Turn This Coach Around | 0.80% | ~1,014 |
 | Rush Hour | 0.80% | ~1,014 |
 | FNG | 0.80% | ~1,014 |
 | Friends 'Til the End | 0.80% | ~13 |
-| It Rings a Bell | 0.70% | ~887 |
-| Dissector | 0.70% | ~887 |
-| It Happens | 0.70% | ~887 |
-| Merry Time | 0.70% | ~887 |
-| Nope | 0.70% | ~887 |
+| It Rings a Bell | 0.70% | ~888 |
+| Dissector | 0.70% | ~888 |
+| It Happens | 0.70% | ~888 |
+| Merry Time | 0.70% | ~888 |
+| Harvest Festival | 0.70% | ~888 |
+| Nope | 0.70% | ~888 |
 | Banishment | 0.60% | ~761 |
 | Deprogramming | 0.60% | ~761 |
-| Harvest Festival | 0.60% | ~761 |
+| Now Stay Dead | 0.60% | ~761 |
 | Whale | 0.60% | ~761 |
 | A Place to Lay Your Head | 0.60% | ~761 |
 | Worldly Traveller | 0.60% | ~761 |
@@ -44,17 +45,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | Boxcar Kid | 0.50% | ~634 |
 | Unfulfilled Desires | 0.50% | ~634 |
 | Predator | 0.50% | ~634 |
-| Now Stay Dead | 0.50% | ~634 |
 | Reverse Banditry | 0.50% | ~634 |
 | Spelunker | 0.50% | ~634 |
 | Ramble On | 0.50% | ~634 |
+| A Clear Conscience | 0.50% | ~634 |
+| When You Want Something Done Right | 0.50% | ~634 |
 | Unshackled | 0.50% | ~634 |
 | Wyrdly Reconstructed | 0.40% | ~507 |
 | Hope Rekindled | 0.40% | ~507 |
 | Ichthyophobic | 0.40% | ~507 |
 | No More Mouths to Feed | 0.40% | ~507 |
-| A Clear Conscience | 0.40% | ~507 |
-| When You Want Something Done Right | 0.40% | ~507 |
 | Utopia | 0.40% | ~507 |
 | Slap on the Wrist | 0.40% | ~7 |
 | This Looks Familiar | 0.30% | ~380 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,772 (Ranked 84)  
+Progressed: 126,793 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 3 (0.00%) (Ranked 374)
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
-| 2023-12-14 | 126,772 | 3 |
+| 2023-12-14 | 126,793 | 3 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 51)  
 Sum: 20,380 (Ranked 59)  

@@ -725,7 +725,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 237497,
+  "EOS_Progressed": 237503,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1113,
   "EOS_NewCompleters": 0,
@@ -17335,6 +17335,11 @@
       "Time": "2023-12-14T05:10:43.382187+00:00",
       "NumProgressed": 237497,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T06:10:40.1132963+00:00",
+      "NumProgressed": 237503,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -17403,7 +17408,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49874
+      "UsersEstimate": 49876
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -17483,7 +17488,7 @@
       "Name": "Keepers of Sajuuk Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "HW2_MISSION11_COMPLETE",
@@ -17491,7 +17496,7 @@
       "Name": "Sacrifice Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "HW2_MISSION12_COMPLETE",
@@ -17499,7 +17504,7 @@
       "Name": "Thaddis Sabbah Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "HW2_MISSION13_COMPLETE",
@@ -17515,7 +17520,7 @@
       "Name": "Balcora Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "HW2_MISSION15_COMPLETE",
@@ -17523,7 +17528,7 @@
       "Name": "Return to Hiigara Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "HW2_MISSION1_COMPLETE",
@@ -17579,7 +17584,7 @@
       "Name": "Derelicts Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "HW2_MISSION8_COMPLETE",
@@ -17587,7 +17592,7 @@
       "Name": "Dreadnaught Berth Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "HW2_MISSION9_COMPLETE",
@@ -17595,7 +17600,7 @@
       "Name": "Counter Attack Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "HW2_TUTORIAL_COMPLETE",
@@ -17603,7 +17608,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59374
+      "UsersEstimate": 59376
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -17618,7 +17623,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 237497,
+      "Progressed": 237503,
       "Completed": 0
     }
   ],
@@ -17626,8 +17631,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-13T11:02:58.9435598+00:00",
-  "LastChanged_Achievements": "2023-12-14T05:10:43.3821865+00:00",
+  "LastChanged_Achievements": "2023-12-14T06:10:40.1132959+00:00",
   "LastUpdate_AppInfo": "2023-12-08T03:57:08.4919895+00:00",
-  "LastUpdate_Ratings": "2023-12-14T05:03:01.8888182+00:00",
-  "LastUpdate_Achievements": "2023-12-14T05:10:43.3823098+00:00"
+  "LastUpdate_Ratings": "2023-12-14T06:03:26.7338029+00:00",
+  "LastUpdate_Achievements": "2023-12-14T06:10:40.1133742+00:00"
 }

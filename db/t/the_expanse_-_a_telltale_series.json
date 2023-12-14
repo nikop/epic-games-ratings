@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16149,
+  "EOS_Progressed": 16151,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -13752,6 +13752,11 @@
       "Time": "2023-12-14T05:08:02.8628067+00:00",
       "NumProgressed": 16149,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-14T06:08:02.7458948+00:00",
+      "NumProgressed": 16151,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13788,7 +13793,7 @@
       "Name": "Data Archivist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "13",
@@ -13796,7 +13801,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2100
     },
     {
       "ID": "14",
@@ -13804,7 +13809,7 @@
       "Name": "Doctor Approved",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "15",
@@ -13820,7 +13825,7 @@
       "Name": "Drug Gifter",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "17",
@@ -13836,7 +13841,7 @@
       "Name": "Bottoms up!",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "19",
@@ -13844,7 +13849,7 @@
       "Name": "Martian Music",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "2",
@@ -13868,7 +13873,7 @@
       "Name": "Drone Dodger",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "22",
@@ -13876,7 +13881,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "23",
@@ -13884,7 +13889,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "24",
@@ -13892,7 +13897,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "25",
@@ -13948,7 +13953,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "4",
@@ -13956,7 +13961,7 @@
       "Name": "Debris Spree",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "5",
@@ -13988,7 +13993,7 @@
       "Name": "Data Recoverer",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "9",
@@ -14043,13 +14048,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16149,
+      "Progressed": 16151,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2103,
+      "Progressed": 2105,
       "Completed": 881
     }
   ],
@@ -14057,8 +14062,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-14T05:08:02.8628062+00:00",
+  "LastChanged_Achievements": "2023-12-14T06:08:02.7458943+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-14T04:57:03.9387675+00:00",
-  "LastUpdate_Achievements": "2023-12-14T05:08:02.8629256+00:00"
+  "LastUpdate_Ratings": "2023-12-14T05:57:26.7090567+00:00",
+  "LastUpdate_Achievements": "2023-12-14T06:08:02.7459786+00:00"
 }

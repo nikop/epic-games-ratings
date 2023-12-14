@@ -2645,7 +2645,7 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 26196,
+  "EOS_Progressed": 26200,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1191,
   "EOS_NewCompleters": 0,
@@ -12920,6 +12920,11 @@
       "Time": "2023-12-14T05:09:38.8602995+00:00",
       "NumProgressed": 26196,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T06:09:40.3480861+00:00",
+      "NumProgressed": 26200,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -13100,7 +13105,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4453
+      "UsersEstimate": 4454
     },
     {
       "ID": "Achievement_Trophy23",
@@ -13108,7 +13113,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3929
+      "UsersEstimate": 3930
     },
     {
       "ID": "Achievement_Trophy24",
@@ -13116,7 +13121,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10740
+      "UsersEstimate": 10742
     },
     {
       "ID": "Achievement_Trophy25",
@@ -13132,7 +13137,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8907
+      "UsersEstimate": 8908
     },
     {
       "ID": "Achievement_Trophy27",
@@ -13148,7 +13153,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 8645
+      "UsersEstimate": 8646
     },
     {
       "ID": "Achievement_Trophy29",
@@ -13164,7 +13169,7 @@
       "Name": "Spread the plague",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7597
+      "UsersEstimate": 7598
     },
     {
       "ID": "Achievement_Trophy31",
@@ -13172,7 +13177,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 8121
+      "UsersEstimate": 8122
     },
     {
       "ID": "Achievement_Trophy32",
@@ -13220,7 +13225,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6549
+      "UsersEstimate": 6550
     },
     {
       "ID": "Achievement_Trophy38",
@@ -13228,7 +13233,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4453
+      "UsersEstimate": 4454
     },
     {
       "ID": "Achievement_Trophy39",
@@ -13236,7 +13241,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4977
+      "UsersEstimate": 4978
     },
     {
       "ID": "Achievement_Trophy40",
@@ -13252,7 +13257,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3405
+      "UsersEstimate": 3406
     },
     {
       "ID": "Achievement_Trophy42",
@@ -13268,7 +13273,7 @@
       "Name": "Light of my life",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3405
+      "UsersEstimate": 3406
     },
     {
       "ID": "Achievement_Trophy44",
@@ -13316,7 +13321,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3929
+      "UsersEstimate": 3930
     },
     {
       "ID": "Achievement_Trophy50",
@@ -13419,7 +13424,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 26196,
+      "Progressed": 26200,
       "Completed": 1
     }
   ],
@@ -13427,8 +13432,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-12T01:47:51.3395701+00:00",
-  "LastChanged_Achievements": "2023-12-14T05:09:38.860299+00:00",
+  "LastChanged_Achievements": "2023-12-14T06:09:40.3480856+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:42.7229324+00:00",
-  "LastUpdate_Ratings": "2023-12-14T05:02:43.3415971+00:00",
-  "LastUpdate_Achievements": "2023-12-14T05:09:38.8604142+00:00"
+  "LastUpdate_Ratings": "2023-12-14T06:03:08.7005544+00:00",
+  "LastUpdate_Achievements": "2023-12-14T06:09:40.3481596+00:00"
 }

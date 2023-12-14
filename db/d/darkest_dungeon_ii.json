@@ -9678,9 +9678,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126772,
+  "EOS_Progressed": 126793,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1047,
+  "EOS_NewPlayers": 1064,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34933,6 +34933,11 @@
       "Time": "2023-12-14T05:09:30.7199218+00:00",
       "NumProgressed": 126772,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T06:09:33.0313893+00:00",
+      "NumProgressed": 126793,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -34960,7 +34965,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -35072,7 +35077,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35080,7 +35085,7 @@
       "Name": "Dissector",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "combat_kill_cosmic",
@@ -35096,7 +35101,7 @@
       "Name": "Not Today!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35126,9 +35131,9 @@
       "ID": "combat_kill_gaunts",
       "SetID": "64l4lke",
       "Name": "Now Stay Dead",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 761
     },
     {
       "ID": "combat_kill_gentry",
@@ -35160,7 +35165,7 @@
       "Name": "Catch and Decease",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "combat_kill_librarian",
@@ -35168,7 +35173,7 @@
       "Name": "Overdue Notice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35184,7 +35189,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35216,7 +35221,7 @@
       "Name": "It Happens",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -35248,15 +35253,15 @@
       "Name": "Merry Time",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "driving_biome_clear_farm",
       "SetID": "64l4lke",
       "Name": "Harvest Festival",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 888
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -35296,7 +35301,7 @@
       "Name": "Autodidact",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "hero_story_complete_all",
@@ -35310,9 +35315,9 @@
       "ID": "hero_story_complete_any",
       "SetID": "64l4lke",
       "Name": "A Clear Conscience",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 634
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -35342,9 +35347,9 @@
       "ID": "inn_hire_mercenary_bounty_hunter",
       "SetID": "64l4lke",
       "Name": "When You Want Something Done Right",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 634
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -35392,7 +35397,7 @@
       "Name": "Nope",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "run_victory_act01",
@@ -35480,7 +35485,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "combat_kill_collector",
@@ -35488,7 +35493,7 @@
       "Name": "This guy... again?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35528,7 +35533,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -35575,21 +35580,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126772,
+      "Progressed": 126793,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1641,
+      "Progressed": 1662,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-14T05:00:52.0976777+00:00",
-  "LastChanged_Achievements": "2023-12-14T05:09:30.7199214+00:00",
+  "LastChanged_Achievements": "2023-12-14T06:09:33.0313888+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T05:00:52.0976787+00:00",
-  "LastUpdate_Achievements": "2023-12-14T05:09:30.7201514+00:00"
+  "LastUpdate_Ratings": "2023-12-14T06:00:53.6344313+00:00",
+  "LastUpdate_Achievements": "2023-12-14T06:09:33.0315499+00:00"
 }

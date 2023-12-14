@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 698,
+  "EOS_Progressed": 699,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -698,6 +698,11 @@
       "Time": "2023-12-13T20:05:47.2068763+00:00",
       "NumProgressed": 698,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T06:06:43.9455832+00:00",
+      "NumProgressed": 699,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -757,7 +762,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "AhoyTrophy",
@@ -829,7 +834,7 @@
       "Name": "Bug Fixer",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "DreadTrophy",
@@ -837,7 +842,7 @@
       "Name": "Existential dread",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "DropBallTrophy",
@@ -853,7 +858,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "Ext4Trophy",
@@ -885,7 +890,7 @@
       "Name": "Machine Maxed",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "GoldGuyTrophy",
@@ -989,7 +994,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "MaxPriceTrophy",
@@ -1107,9 +1112,9 @@
       "ID": "TrashTrophy",
       "SetID": "32aeje8",
       "Name": "Clean up on Aisle 9",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 280
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -1117,7 +1122,7 @@
       "Name": "Gerald of Riviera",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "YouthTrophy",
@@ -1140,7 +1145,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 698,
+      "Progressed": 699,
       "Completed": 0
     }
   ],
@@ -1148,8 +1153,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-10-15T06:02:18.0550602+00:00",
-  "LastChanged_Achievements": "2023-12-14T05:06:37.4349171+00:00",
+  "LastChanged_Achievements": "2023-12-14T06:06:43.9455827+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.4672594+00:00",
-  "LastUpdate_Ratings": "2023-12-14T05:01:37.2419346+00:00",
-  "LastUpdate_Achievements": "2023-12-14T05:06:37.4349746+00:00"
+  "LastUpdate_Ratings": "2023-12-14T06:01:36.470995+00:00",
+  "LastUpdate_Achievements": "2023-12-14T06:06:43.9456361+00:00"
 }

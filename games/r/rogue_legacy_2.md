@@ -6,22 +6,22 @@ Number of Ratings: 1,331  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spells and Swords | 4.00% | ~950 |
-| Captain and Crew | 3.00% | ~712 |
+| Spells and Swords | 4.00% | ~951 |
+| Captain and Crew | 3.00% | ~713 |
 | Hands and Hammers | 2.00% | ~475 |
 | Harvest and Home | 2.00% | ~475 |
 | Poise and Poisons | 2.00% | ~475 |
 | Suns and Soldiers | 2.00% | ~475 |
 | No Harm in Looking | 2.00% | ~475 |
-| King and Kin | 1.00% | ~237 |
-| Progenitor and Protégé | 1.00% | ~237 |
-| Prequel to the Sequel | 1.00% | ~237 |
+| King and Kin | 1.00% | ~238 |
+| Progenitor and Protégé | 1.00% | ~238 |
+| Prequel to the Sequel | 1.00% | ~238 |
 | For Glory | 0.80% | ~190 |
 | Pillow Investments | 0.70% | ~166 |
 | Looks Familiar | 0.70% | ~166 |
-| Truly Blessed | 0.60% | ~142 |
-| For Justice | 0.60% | ~142 |
-| Good Boy! | 0.60% | ~142 |
+| Truly Blessed | 0.60% | ~143 |
+| For Justice | 0.60% | ~143 |
+| Good Boy! | 0.60% | ~143 |
 | For Survival | 0.50% | ~119 |
 | For Love | 0.40% | ~95 |
 | Jack of all Trades | 0.40% | ~95 |
@@ -31,12 +31,12 @@ Number of Ratings: 1,331  (23.09.2022)
 | K.O. | 0.30% | ~71 |
 | Just the Beginning | 0.30% | ~71 |
 | Wasted Betrayal | 0.30% | ~71 |
-| Black-shoppe | 0.20% | ~47 |
-| For Greed | 0.20% | ~47 |
-| For Penance | 0.20% | ~47 |
-| Good Practice | 0.20% | ~47 |
-| Maybe Wax Doesn't Melt | 0.20% | ~47 |
-| A Glimpse of the Future | 0.20% | ~47 |
+| Black-shoppe | 0.20% | ~48 |
+| For Greed | 0.20% | ~48 |
+| For Penance | 0.20% | ~48 |
+| Good Practice | 0.20% | ~48 |
+| Maybe Wax Doesn't Melt | 0.20% | ~48 |
+| A Glimpse of the Future | 0.20% | ~48 |
 | Full House | 0.10% | ~24 |
 | Erebus Purified | 0.10% | ~24 |
 | It Was Just an Estimate | 0.10% | ~24 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,740 (Ranked 139)  
+Progressed: 23,764 (Ranked 139)  
 Completed: 35 (0.15%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 35 (0.15%) (Ranked 279)
 | 2023-12-11 | 23,696 | 35 |
 | 2023-12-12 | 23,703 | 35 |
 | 2023-12-13 | 23,710 | 35 |
-| 2023-12-14 | 23,740 | 35 |
+| 2023-12-14 | 23,764 | 35 |
 ## Awards
 Max (Extremely Fun): 223  (Ranked 282)  
 Sum: 1,704 (Ranked 225)  

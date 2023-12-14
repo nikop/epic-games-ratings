@@ -4,7 +4,7 @@
   "ProductSlug": "filament-332a92",
   "Ranking_Rating": 825,
   "Ranking_Popularity": 204,
-  "Ranking_PopularitySum": 309,
+  "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 123,
@@ -304,10 +304,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 673,
       "NumberOfAwardsMax": 578
+    },
+    {
+      "Time": "2023-12-14T06:00:19.5432932+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 693,
+      "NumberOfAwardsMax": 578
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 673,
+  "NumberOfAwards": 693,
   "NumberOfAwardsMax": 578,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -352,11 +358,17 @@
       "Prefix": "This game is",
       "Type": "Educational",
       "Count": 21
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 206994,
+  "EOS_Progressed": 206996,
   "EOS_Completed": 540,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -25739,6 +25751,11 @@
       "Time": "2023-12-14T05:07:32.4714999+00:00",
       "NumProgressed": 206994,
       "NumCompleted": 540
+    },
+    {
+      "Time": "2023-12-14T06:07:34.1870361+00:00",
+      "NumProgressed": 206996,
+      "NumCompleted": 540
     }
   ],
   "TotalAchievements": 29,
@@ -25774,7 +25791,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 194574
+      "UsersEstimate": 194576
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -25934,7 +25951,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20699
+      "UsersEstimate": 20700
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -25981,16 +25998,16 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 206994,
+      "Progressed": 206996,
       "Completed": 540
     }
   ],
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
-  "LastChanged": "2023-12-11T02:21:32.1838327+00:00",
-  "LastChanged_Achievements": "2023-12-14T05:07:32.4714995+00:00",
+  "LastChanged": "2023-12-14T06:00:19.5432929+00:00",
+  "LastChanged_Achievements": "2023-12-14T06:07:34.1870356+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:21.2833289+00:00",
-  "LastUpdate_Ratings": "2023-12-14T05:00:13.1154936+00:00",
-  "LastUpdate_Achievements": "2023-12-14T05:07:32.4716914+00:00"
+  "LastUpdate_Ratings": "2023-12-14T06:00:19.5432935+00:00",
+  "LastUpdate_Achievements": "2023-12-14T06:07:34.1871914+00:00"
 }

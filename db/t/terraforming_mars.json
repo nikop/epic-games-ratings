@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -3337,9 +3337,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 86020,
+  "EOS_Progressed": 86022,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 752,
+  "EOS_NewPlayers": 754,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -29887,6 +29887,11 @@
       "Time": "2023-12-14T05:04:32.2682557+00:00",
       "NumProgressed": 86020,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-12-14T06:04:49.5274045+00:00",
+      "NumProgressed": 86022,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 30,
@@ -29978,7 +29983,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 31827
+      "UsersEstimate": 31828
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -29994,7 +29999,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 27526
+      "UsersEstimate": 27527
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -30034,7 +30039,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 22365
+      "UsersEstimate": 22366
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -30050,7 +30055,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 18064
+      "UsersEstimate": 18065
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -30058,7 +30063,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 10322
+      "UsersEstimate": 10323
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -30074,7 +30079,7 @@
       "Name": "Final touch",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 30107
+      "UsersEstimate": 30108
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -30082,7 +30087,7 @@
       "Name": "Self-sufficient",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 14623
+      "UsersEstimate": 14624
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -30137,15 +30142,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 86020,
+      "Progressed": 86022,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-12-13T20:58:38.8126258+00:00",
-  "LastChanged_Achievements": "2023-12-14T05:04:32.2682552+00:00",
+  "LastChanged_Achievements": "2023-12-14T06:04:49.527404+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:46.6200613+00:00",
-  "LastUpdate_Ratings": "2023-12-14T04:59:21.0963797+00:00",
-  "LastUpdate_Achievements": "2023-12-14T05:04:32.268432+00:00"
+  "LastUpdate_Ratings": "2023-12-14T05:59:30.5742219+00:00",
+  "LastUpdate_Achievements": "2023-12-14T06:04:49.527511+00:00"
 }

@@ -475,9 +475,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 43647,
+  "EOS_Progressed": 43653,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15010,6 +15010,11 @@
       "Time": "2023-12-14T05:08:58.7265929+00:00",
       "NumProgressed": 43647,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T06:08:53.782017+00:00",
+      "NumProgressed": 43653,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15085,7 +15090,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -15117,7 +15122,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -15125,7 +15130,7 @@
       "Name": "The Truth Will Out",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -15133,7 +15138,7 @@
       "Name": "Breaking Point",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "CHAPTER_10_CLEAR",
@@ -15141,7 +15146,7 @@
       "Name": "None the Wiser",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "CHAPTER_11_CLEAR",
@@ -15149,7 +15154,7 @@
       "Name": "Forspoken",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -15173,7 +15178,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3055
+      "UsersEstimate": 3056
     },
     {
       "ID": "CUFF_ATTACK",
@@ -15181,7 +15186,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -15197,7 +15202,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "JUSTCOUNTER",
@@ -15237,7 +15242,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -15317,7 +15322,7 @@
       "Name": "Pilgrimage: Novice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "PARKOUR_DISTANCE",
@@ -15325,7 +15330,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "PARKOUR_TIME",
@@ -15357,7 +15362,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3928
+      "UsersEstimate": 3929
     },
     {
       "ID": "SPRING_ALL",
@@ -15444,22 +15449,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43647,
+      "Progressed": 43653,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8484,
-      "Completed": 8484
+      "Progressed": 8490,
+      "Completed": 8490
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-12T05:01:14.3926085+00:00",
-  "LastChanged_Achievements": "2023-12-14T05:08:58.7265925+00:00",
+  "LastChanged_Achievements": "2023-12-14T06:08:53.7820167+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:12.2339808+00:00",
-  "LastUpdate_Ratings": "2023-12-14T04:56:58.8416087+00:00",
-  "LastUpdate_Achievements": "2023-12-14T05:08:58.7267272+00:00"
+  "LastUpdate_Ratings": "2023-12-14T05:57:22.099788+00:00",
+  "LastUpdate_Achievements": "2023-12-14T06:08:53.7821133+00:00"
 }

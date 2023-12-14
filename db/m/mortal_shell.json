@@ -3,11 +3,11 @@
   "Name": "Mortal Shell",
   "ProductSlug": "mortal-shell",
   "Ranking_Rating": 873,
-  "Ranking_Popularity": 555,
+  "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewPlayers": 477,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-08-18T12:00:00+00:00",
@@ -676,6 +676,6 @@
   "FirstSeen": "2022-07-22T20:19:45.0826323+00:00",
   "LastChanged": "2023-11-19T17:00:16.1144404+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:04.1413841+00:00",
-  "LastUpdate_Ratings": "2023-12-14T05:03:07.3069288+00:00",
-  "LastUpdate_Achievements": "2023-12-14T05:04:33.8730135+00:00"
+  "LastUpdate_Ratings": "2023-12-14T06:03:32.2598549+00:00",
+  "LastUpdate_Achievements": "2023-12-14T06:04:50.9610931+00:00"
 }

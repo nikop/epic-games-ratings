@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -244,9 +244,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 41998,
+  "EOS_Progressed": 42001,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -26039,6 +26039,11 @@
       "Time": "2023-12-14T05:05:08.6973075+00:00",
       "NumProgressed": 41998,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-12-14T06:05:22.4454908+00:00",
+      "NumProgressed": 42001,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 29,
@@ -26168,17 +26173,17 @@
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
       "SetID": "443p4o4",
       "Name": "Ice To See You",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_18_DEFEATED_IMP",
       "SetID": "443p4o4",
       "Name": "Smack My Imp Up",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_19_DEFEATED_HOGRE",
@@ -26281,7 +26286,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 41998,
+      "Progressed": 42001,
       "Completed": 29
     }
   ],
@@ -26289,8 +26294,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-02T18:57:45.107059+00:00",
-  "LastChanged_Achievements": "2023-12-14T05:05:08.6973069+00:00",
+  "LastChanged_Achievements": "2023-12-14T06:05:22.4454906+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:15.3748793+00:00",
-  "LastUpdate_Ratings": "2023-12-14T05:01:30.8525122+00:00",
-  "LastUpdate_Achievements": "2023-12-14T05:05:08.6974841+00:00"
+  "LastUpdate_Ratings": "2023-12-14T06:01:30.5719673+00:00",
+  "LastUpdate_Achievements": "2023-12-14T06:05:22.4456141+00:00"
 }

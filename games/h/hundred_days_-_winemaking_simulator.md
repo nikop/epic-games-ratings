@@ -6,19 +6,19 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 42.00% | ~6,657 |
-| It's a good start | 10.00% | ~1,585 |
+| Bye Bye | 42.00% | ~6,659 |
+| It's a good start | 10.00% | ~1,586 |
 | Bonjour! | 8.00% | ~1,268 |
 | Quack | 8.00% | ~1,268 |
 | The Assistant | 6.00% | ~951 |
 | The Blue Marl | 6.00% | ~951 |
-| Ostinata | 5.00% | ~792 |
-| Better than nothing? | 5.00% | ~792 |
+| Ostinata | 5.00% | ~793 |
+| Better than nothing? | 5.00% | ~793 |
 | A long journey | 4.00% | ~634 |
-| Big Money | 3.00% | ~475 |
-| Keep the doctor away | 3.00% | ~475 |
-| Surprise of Langhe | 3.00% | ~475 |
-| Famous | 3.00% | ~475 |
+| Big Money | 3.00% | ~476 |
+| Keep the doctor away | 3.00% | ~476 |
+| Surprise of Langhe | 3.00% | ~476 |
+| Famous | 3.00% | ~476 |
 | What is that? A castle? | 2.00% | ~317 |
 | A lot of space | 2.00% | ~317 |
 | A big garage | 2.00% | ~317 |
@@ -26,9 +26,9 @@ Number of Ratings: 7,669  (23.09.2022)
 | Exotic | 2.00% | ~317 |
 | Welcome to the club | 2.00% | ~317 |
 | Very Important Winemaker | 2.00% | ~317 |
-| Pastry Chef | 1.00% | ~158 |
-| King of Langhe | 1.00% | ~158 |
-| Gem of Monferrato | 1.00% | ~158 |
+| Pastry Chef | 1.00% | ~159 |
+| King of Langhe | 1.00% | ~159 |
+| Gem of Monferrato | 1.00% | ~159 |
 | Treasure of Roero | 0.70% | ~111 |
 | Knight of Langhe | 0.50% | ~79 |
 | King of red wines | 0.20% | ~32 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Big deals | 0.10% | ~16 |
 | Master Winemaker | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,849 (Ranked 153)  
+Progressed: 15,855 (Ranked 153)  
 Completed: 12 (0.08%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 12 (0.08%) (Ranked 307)
 | 2023-12-11 | 15,647 | 12 |
 | 2023-12-12 | 15,728 | 12 |
 | 2023-12-13 | 15,829 | 12 |
-| 2023-12-14 | 15,849 | 12 |
+| 2023-12-14 | 15,855 | 12 |
 ## Awards
 Max (Relaxing): 207  (Ranked 287)  
 Sum: 1,730 (Ranked 223)  

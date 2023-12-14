@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1846,
+  "EOS_Progressed": 1847,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4379,6 +4379,11 @@
       "Time": "2023-12-13T16:09:52.2662535+00:00",
       "NumProgressed": 1846,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-14T06:09:48.5832598+00:00",
+      "NumProgressed": 1847,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4390,7 +4395,7 @@
       "Name": "Agent 47",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "Auditor",
@@ -4478,7 +4483,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "Experienced_strategist",
@@ -4518,7 +4523,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "High_noon",
@@ -4566,7 +4571,7 @@
       "Name": "One by One",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "Miner",
@@ -4574,7 +4579,7 @@
       "Name": "Bomberman",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "MoskitoBite",
@@ -4629,15 +4634,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1846,
+      "Progressed": 1847,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-14T05:09:47.8761049+00:00",
+  "LastChanged_Achievements": "2023-12-14T06:09:48.5832594+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:20.564195+00:00",
-  "LastUpdate_Ratings": "2023-12-14T05:02:58.9379268+00:00",
-  "LastUpdate_Achievements": "2023-12-14T05:09:47.8761583+00:00"
+  "LastUpdate_Ratings": "2023-12-14T06:03:23.9221018+00:00",
+  "LastUpdate_Achievements": "2023-12-14T06:09:48.5832877+00:00"
 }

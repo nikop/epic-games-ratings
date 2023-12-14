@@ -8,8 +8,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 8.00% | ~11,614 |
 | Titan's First Steps | 8.00% | ~11,614 |
-| Basic in Bulk | 7.00% | ~10,162 |
-| Tinkle of Coins | 7.00% | ~10,162 |
+| Basic in Bulk | 7.00% | ~10,163 |
+| Tinkle of Coins | 7.00% | ~10,163 |
 | Disintermediation | 5.00% | ~7,259 |
 | It's Free Real Estate | 5.00% | ~7,259 |
 | Budding Merchant | 5.00% | ~7,259 |
@@ -31,59 +31,59 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 3.00% | ~4,355 |
 | Did we pack lunch? | 3.00% | ~4,355 |
 | Arcane Industries | 3.00% | ~4,355 |
-| On the Path to Greatness | 2.00% | ~2,903 |
-| A Notch Above the Rest | 2.00% | ~2,903 |
-| Cream of the Crop | 2.00% | ~2,903 |
-| Ascended | 2.00% | ~2,903 |
-| Above the Norm | 2.00% | ~2,903 |
-| Tax not Included | 2.00% | ~2,903 |
-| The King's Caprice | 2.00% | ~2,903 |
-| Research & Development | 2.00% | ~2,903 |
-| Vanity, Verily | 2.00% | ~2,903 |
-| Big Game Hunting | 2.00% | ~2,903 |
-| Fated Encounters | 2.00% | ~2,903 |
-| For the Hoard! | 2.00% | ~2,903 |
-| Booty by the Boatload | 2.00% | ~2,903 |
-| Blank Page Syndrome | 2.00% | ~2,903 |
-| Scrapbooker | 2.00% | ~2,903 |
-| Locally Sourced | 2.00% | ~2,903 |
-| Flying off the Shelves | 2.00% | ~2,903 |
-| This Power Level...! | 2.00% | ~2,903 |
-| Omae wa Mou Shindeiru | 2.00% | ~2,903 |
-| Master of Transmutation | 2.00% | ~2,903 |
-| Hidden Potential | 2.00% | ~2,903 |
-| Power of Love | 2.00% | ~2,903 |
-| Supercharged | 2.00% | ~2,903 |
-| Expansion in Session | 2.00% | ~2,903 |
-| Ritualist | 2.00% | ~2,903 |
-| Efficient Floor Space | 2.00% | ~2,903 |
-| Cranked up to 11 | 2.00% | ~2,903 |
-| Fit for a King | 2.00% | ~2,903 |
-| By Your Powers Combined... | 2.00% | ~2,903 |
-| Flawless Fusion | 2.00% | ~2,903 |
-| Trash to Treasure | 2.00% | ~2,903 |
-| Gem Expert | 2.00% | ~2,903 |
-| Royal Ransom | 2.00% | ~2,903 |
-| Mammonite | 2.00% | ~2,903 |
-| Wealth Beyond Measure | 2.00% | ~2,903 |
-| Helping Hand | 2.00% | ~2,903 |
-| Fat Cat Tag Team | 2.00% | ~2,903 |
-| Item of Renown | 2.00% | ~2,903 |
-| Master Merchant | 2.00% | ~2,903 |
-| Miracle Alchemist | 2.00% | ~2,903 |
-| Laden with Loot | 2.00% | ~2,903 |
-| Natural 20 | 2.00% | ~2,903 |
-| Seasoned Journeyman | 2.00% | ~2,903 |
-| Scourge of the Seas | 2.00% | ~2,903 |
-| Attrition Mission | 2.00% | ~2,903 |
-| Glittering Collection | 2.00% | ~2,903 |
-| Treasure Trove | 2.00% | ~2,903 |
-| Black Friday Special | 2.00% | ~2,903 |
-| Master Recycler | 2.00% | ~2,903 |
-| Magical Harmony | 2.00% | ~2,903 |
-| Special Ingredient | 2.00% | ~2,903 |
-| Exotic Commodities | 2.00% | ~2,903 |
-| Complete Monopoly | 2.00% | ~2,903 |
+| On the Path to Greatness | 2.00% | ~2,904 |
+| A Notch Above the Rest | 2.00% | ~2,904 |
+| Cream of the Crop | 2.00% | ~2,904 |
+| Ascended | 2.00% | ~2,904 |
+| Above the Norm | 2.00% | ~2,904 |
+| Tax not Included | 2.00% | ~2,904 |
+| The King's Caprice | 2.00% | ~2,904 |
+| Research & Development | 2.00% | ~2,904 |
+| Vanity, Verily | 2.00% | ~2,904 |
+| Big Game Hunting | 2.00% | ~2,904 |
+| Fated Encounters | 2.00% | ~2,904 |
+| For the Hoard! | 2.00% | ~2,904 |
+| Booty by the Boatload | 2.00% | ~2,904 |
+| Blank Page Syndrome | 2.00% | ~2,904 |
+| Scrapbooker | 2.00% | ~2,904 |
+| Locally Sourced | 2.00% | ~2,904 |
+| Flying off the Shelves | 2.00% | ~2,904 |
+| This Power Level...! | 2.00% | ~2,904 |
+| Omae wa Mou Shindeiru | 2.00% | ~2,904 |
+| Master of Transmutation | 2.00% | ~2,904 |
+| Hidden Potential | 2.00% | ~2,904 |
+| Power of Love | 2.00% | ~2,904 |
+| Supercharged | 2.00% | ~2,904 |
+| Expansion in Session | 2.00% | ~2,904 |
+| Ritualist | 2.00% | ~2,904 |
+| Efficient Floor Space | 2.00% | ~2,904 |
+| Cranked up to 11 | 2.00% | ~2,904 |
+| Fit for a King | 2.00% | ~2,904 |
+| By Your Powers Combined... | 2.00% | ~2,904 |
+| Flawless Fusion | 2.00% | ~2,904 |
+| Trash to Treasure | 2.00% | ~2,904 |
+| Gem Expert | 2.00% | ~2,904 |
+| Royal Ransom | 2.00% | ~2,904 |
+| Mammonite | 2.00% | ~2,904 |
+| Wealth Beyond Measure | 2.00% | ~2,904 |
+| Helping Hand | 2.00% | ~2,904 |
+| Fat Cat Tag Team | 2.00% | ~2,904 |
+| Item of Renown | 2.00% | ~2,904 |
+| Master Merchant | 2.00% | ~2,904 |
+| Miracle Alchemist | 2.00% | ~2,904 |
+| Laden with Loot | 2.00% | ~2,904 |
+| Natural 20 | 2.00% | ~2,904 |
+| Seasoned Journeyman | 2.00% | ~2,904 |
+| Scourge of the Seas | 2.00% | ~2,904 |
+| Attrition Mission | 2.00% | ~2,904 |
+| Glittering Collection | 2.00% | ~2,904 |
+| Treasure Trove | 2.00% | ~2,904 |
+| Black Friday Special | 2.00% | ~2,904 |
+| Master Recycler | 2.00% | ~2,904 |
+| Magical Harmony | 2.00% | ~2,904 |
+| Special Ingredient | 2.00% | ~2,904 |
+| Exotic Commodities | 2.00% | ~2,904 |
+| Complete Monopoly | 2.00% | ~2,904 |
 | Top of the World | 1.00% | ~1,452 |
 | Proud Paladin | 1.00% | ~1,452 |
 | Constellated | 1.00% | ~1,452 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~436 |
 | Capitalist Camaraderie | 0.20% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,172 (Ranked 80)  
+Progressed: 145,180 (Ranked 80)  
 Completed: 298 (0.21%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 298 (0.21%) (Ranked 258)
 | 2023-12-11 | 144,756 | 293 |
 | 2023-12-12 | 144,871 | 294 |
 | 2023-12-13 | 145,093 | 297 |
-| 2023-12-14 | 145,172 | 298 |
+| 2023-12-14 | 145,180 | 298 |
 ## Awards
 Max (Great for Beginners): 4,882  (Ranked 75)  
 Sum: 27,710 (Ranked 51)  

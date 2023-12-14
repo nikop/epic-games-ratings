@@ -149,9 +149,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1131,
+  "EOS_Progressed": 1132,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.83,
   "EosHistory": [
@@ -3789,6 +3789,11 @@
       "Time": "2023-12-14T05:05:56.3111126+00:00",
       "NumProgressed": 1131,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-14T06:06:06.2540845+00:00",
+      "NumProgressed": 1132,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3801,7 +3806,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -3823,9 +3828,9 @@
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 385
+      "UsersEstimate": 374
     },
     {
       "ID": "_05_FinishAct2",
@@ -3833,7 +3838,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3857,7 +3862,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "_09_Completion_20",
@@ -3865,7 +3870,7 @@
       "Name": "Powder Monkey",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "_10_Completion_30",
@@ -3921,7 +3926,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -3929,7 +3934,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3993,7 +3998,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -4008,7 +4013,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1131,
+      "Progressed": 1132,
       "Completed": 32
     }
   ],
@@ -4016,8 +4021,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-14T05:05:56.3111121+00:00",
+  "LastChanged_Achievements": "2023-12-14T06:06:06.2540839+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-14T04:58:57.1139818+00:00",
-  "LastUpdate_Achievements": "2023-12-14T05:05:56.3111556+00:00"
+  "LastUpdate_Ratings": "2023-12-14T05:59:08.4861481+00:00",
+  "LastUpdate_Achievements": "2023-12-14T06:06:06.2541263+00:00"
 }

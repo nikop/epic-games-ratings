@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Sigil | 0.30% | ~619 |
-| Fast Food | 0.20% | ~412 |
+| Fast Food | 0.30% | ~619 |
 | A Brief Tour of the Realms | 0.10% | ~240 |
 | Maddening | 0.10% | ~240 |
 | Pros and CONs | 0.10% | ~240 |
@@ -366,6 +366,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Questlines | 0.10% | ~206 |
 | Raggadragga's Crew | 0.10% | ~206 |
 | Just The Worst | 0.10% | ~206 |
+| Bel's Forge | 0.10% | ~206 |
 | Extreme Heat | 0.10% | ~206 |
 | Fire and Brimstone | 0.10% | ~206 |
 | Into the Unknown | 0.10% | ~206 |
@@ -473,11 +474,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~206 |
 | The Templar's Camp | 0.10% | ~240 |
 | The Haunted Jungle | 0.10% | ~240 |
+| Poor Guidance | 0.10% | ~240 |
 | Overwhelming Force | 0.10% | ~240 |
 | Rescue in the Jungle | 0.10% | ~240 |
 | The Court of Storms | 0.10% | ~206 |
 | Coasting to the Finish | 0.10% | ~206 |
 | Beware the Jabberwock | 0.10% | ~206 |
+| Quick or Quack | 0.10% | ~206 |
 | Willing to Sacrifice | 0.10% | ~206 |
 | Devilishly Cold | 0.10% | ~206 |
 | The Champion's Guide to Wildspace | 0.10% | ~206 |
@@ -544,17 +547,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Smooth Talkers | 0.00% | ~0 |
 | An Owlbear of an Undertaking | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
-| Bel's Forge | 0.00% | ~0 |
 | An Awakened Axe | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | Tekeli-li's Hunt | 0.00% | ~0 |
-| Poor Guidance | 0.00% | ~0 |
-| Quick or Quack | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 | All The World's A Stage | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,954 (Ranked 65)  
-Completed: 2,521 (1.05%) (Ranked 167)  
+Progressed: 239,968 (Ranked 65)  
+Completed: 2,522 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -791,7 +791,7 @@ Completed: 2,521 (1.05%) (Ranked 167)
 | 2023-12-11 | 239,456 | 2,517 |
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
-| 2023-12-14 | 239,954 | 2,521 |
+| 2023-12-14 | 239,968 | 2,522 |
 ## Awards
 Max (Great for Beginners): 5,624  (Ranked 70)  
 Sum: 32,848 (Ranked 41)  

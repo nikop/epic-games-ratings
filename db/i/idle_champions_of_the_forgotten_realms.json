@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8737,10 +8737,10 @@
       "Count": 3571
     }
   ],
-  "EOS_Progressed": 239954,
-  "EOS_Completed": 2521,
-  "EOS_NewPlayers": 1266,
-  "EOS_NewCompleters": 19,
+  "EOS_Progressed": 239968,
+  "EOS_Completed": 2522,
+  "EOS_NewPlayers": 1277,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -35522,6 +35522,11 @@
       "Time": "2023-12-14T05:10:55.528686+00:00",
       "NumProgressed": 239954,
       "NumCompleted": 2521
+    },
+    {
+      "Time": "2023-12-14T06:10:51.7649972+00:00",
+      "NumProgressed": 239968,
+      "NumCompleted": 2522
     }
   ],
   "TotalAchievements": 546,
@@ -38531,9 +38536,9 @@
       "ID": "objective_completed_675",
       "SetID": "415jc5c",
       "Name": "Bel\u0027s Forge",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_676",
@@ -39419,9 +39424,9 @@
       "ID": "objective_completed_96",
       "SetID": "cc37lbc",
       "Name": "Poor Guidance",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 240
     },
     {
       "ID": "objective_completed_97",
@@ -39467,9 +39472,9 @@
       "ID": "objective_completed_1361",
       "SetID": "415jc5c",
       "Name": "Quick or Quack",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1042",
@@ -39835,9 +39840,9 @@
       "ID": "objective_completed_1562",
       "SetID": "415jc5c",
       "Name": "Fast Food",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 412
+      "UsersEstimate": 619
     },
     {
       "ID": "objective_completed_1563",
@@ -39900,21 +39905,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 206228,
-      "Completed": 3969
+      "Progressed": 206242,
+      "Completed": 3970
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 239954,
-      "Completed": 2521
+      "Progressed": 239968,
+      "Completed": 2522
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-14T02:19:16.5415371+00:00",
-  "LastChanged_Achievements": "2023-12-14T05:10:55.5286854+00:00",
+  "LastChanged_Achievements": "2023-12-14T06:10:51.7649968+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-14T04:57:34.9646858+00:00",
-  "LastUpdate_Achievements": "2023-12-14T05:10:55.5313892+00:00"
+  "LastUpdate_Ratings": "2023-12-14T05:57:54.697074+00:00",
+  "LastUpdate_Achievements": "2023-12-14T06:10:51.767303+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 38.00% | ~171 |
+| Adept | 37.00% | ~167 |
 | Double Kill | 28.00% | ~126 |
-| Critical Hit | 17.00% | ~76 |
+| Critical Hit | 17.00% | ~77 |
 | Veteran | 15.00% | ~68 |
 | Dressed For Success | 10.00% | ~45 |
 | Humiliation | 8.00% | ~36 |
 | Sorcerous Spree | 7.00% | ~32 |
 | Multi Kill | 6.00% | ~27 |
 | Veni, Vidi, Vici | 6.00% | ~27 |
-| Landlord Extraordinaire | 5.00% | ~22 |
-| Master | 5.00% | ~22 |
+| Landlord Extraordinaire | 5.00% | ~23 |
+| Master | 5.00% | ~23 |
 | Whoops! | 4.00% | ~18 |
 | Expert Essence Employment | 4.00% | ~18 |
 | Trojan Horse | 3.00% | ~14 |
@@ -28,8 +28,8 @@ Number of Ratings: 292  (23.09.2022)
 | Don't Touch My Stuff | 2.00% | ~9 |
 | Such A Fungi | 2.00% | ~9 |
 | Pyrrhic Victory | 2.00% | ~9 |
-| Infernal Influence | 1.00% | ~4 |
-| Grand Master | 1.00% | ~4 |
+| Infernal Influence | 1.00% | ~5 |
+| Grand Master | 1.00% | ~5 |
 | Ultra Kill | 0.90% | ~4 |
 | Unlimited Power! | 0.70% | ~3 |
 | Together For Her | 0.70% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450 (Ranked 326)  
+Progressed: 451 (Ranked 326)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 421 | 0 |
 | 2023-12-12 | 434 | 0 |
 | 2023-12-13 | 447 | 0 |
-| 2023-12-14 | 450 | 0 |
+| 2023-12-14 | 451 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 518)  
 Sum: 194 (Ranked 409)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1895,9 +1895,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 66262,
+  "EOS_Progressed": 66263,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28040,6 +28040,11 @@
       "Time": "2023-12-14T04:05:42.5692892+00:00",
       "NumProgressed": 66262,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-14T06:06:32.1078586+00:00",
+      "NumProgressed": 66263,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -28051,7 +28056,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 36444
+      "UsersEstimate": 36445
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -28099,7 +28104,7 @@
       "Name": "Advance Australia",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "VERDUN_ACH_BELGIANS",
@@ -28123,7 +28128,7 @@
       "Name": "We Stand on Guard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "VERDUN_ACH_CHASSEURS",
@@ -28131,7 +28136,7 @@
       "Name": "Sidi Brahim",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "VERDUN_ACH_COOP1",
@@ -28139,7 +28144,7 @@
       "Name": "War is better with friends I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "VERDUN_ACH_COOP2",
@@ -28219,7 +28224,7 @@
       "Name": "Let them, come to us",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "VERDUN_ACH_GOLD10_FLBESTSQUAD",
@@ -28323,7 +28328,7 @@
       "Name": "Corpseman II",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "VERDUN_ACH_KILLS3",
@@ -28339,7 +28344,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 41745
+      "UsersEstimate": 41746
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -28347,7 +28352,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7951
+      "UsersEstimate": 7952
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -28419,7 +28424,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 51684
+      "UsersEstimate": 51685
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -28522,15 +28527,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 66262,
+      "Progressed": 66263,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-13T22:59:35.2096179+00:00",
-  "LastChanged_Achievements": "2023-12-14T05:06:24.6456306+00:00",
+  "LastChanged_Achievements": "2023-12-14T06:06:32.1078582+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:19.0626719+00:00",
-  "LastUpdate_Ratings": "2023-12-14T04:59:47.9994893+00:00",
-  "LastUpdate_Achievements": "2023-12-14T05:06:24.6458403+00:00"
+  "LastUpdate_Ratings": "2023-12-14T05:59:55.254852+00:00",
+  "LastUpdate_Achievements": "2023-12-14T06:06:32.1079897+00:00"
 }

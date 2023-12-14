@@ -12,14 +12,14 @@
 | A continent with chemistry | 19.00% | ~9 |
 | The happy farmer girl | 17.00% | ~8 |
 | Giant | 15.00% | ~7 |
+| The artist | 15.00% | ~7 |
 | The seer | 15.00% | ~7 |
 | Pulp! Terror Tales in the Night | 15.00% | ~7 |
 | Pulp! Out of this World | 15.00% | ~7 |
 | A rival with no options | 13.00% | ~6 |
-| The artist | 13.00% | ~6 |
-| Pulp! Adventures into the Unknown | 10.00% | ~5 |
-| Diagnosis: fear | 10.00% | ~5 |
-| Ambition is... blind | 10.00% | ~5 |
+| Pulp! Adventures into the Unknown | 13.00% | ~6 |
+| Diagnosis: fear | 13.00% | ~6 |
+| Ambition is... blind | 13.00% | ~6 |
 | You have two wishes left | 10.00% | ~5 |
 | You had one wish left | 8.00% | ~4 |
 | Kirlian's best disciple | 8.00% | ~4 |
@@ -35,6 +35,7 @@
 | Blood Red Island | 4.00% | ~2 |
 | The scholar | 4.00% | ~2 |
 | Pulp! The Beyond | 4.00% | ~2 |
+| Vaccine fans | 4.00% | ~2 |
 | Blessed antennas | 2.00% | ~1 |
 | The beast in the Oval Office | 2.00% | ~1 |
 | Pulp! Weird Science | 2.00% | ~1 |
@@ -44,7 +45,6 @@
 | Thirst for Oleum | 2.00% | ~1 |
 | The barbarian invasions | 2.00% | ~1 |
 | America had no Faith | 2.00% | ~1 |
-| Vaccine fans | 2.00% | ~1 |
 | Troy is burning! | 2.00% | ~1 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Mister Mystery | 0.00% | ~0 |

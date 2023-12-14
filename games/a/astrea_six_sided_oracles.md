@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 59.00% | ~62 |
+| Meissa's Savior | 58.00% | ~61 |
 | Purification Pioneer | 57.00% | ~60 |
-| Mechanical Buddy | 51.00% | ~54 |
-| Dicesmithing Time! | 50.00% | ~52 |
-| Endless Tricks | 45.00% | ~47 |
-| Sanctuary Guardian | 45.00% | ~47 |
+| Mechanical Buddy | 52.00% | ~55 |
+| Dicesmithing Time! | 49.00% | ~52 |
+| Sanctuary Guardian | 45.00% | ~48 |
+| Endless Tricks | 44.00% | ~47 |
 | Mind Illuminator | 38.00% | ~40 |
 | Wild's Keeper | 36.00% | ~38 |
 | Noctuan Champion | 36.00% | ~38 |
 | Stellar Dismantler | 33.00% | ~35 |
-| Eridanian Champion | 29.00% | ~30 |
-| Lacertian Champion | 29.00% | ~30 |
-| Anomaly Destroyer | 28.00% | ~29 |
-| Astral Adventurer | 27.00% | ~28 |
+| Eridanian Champion | 28.00% | ~30 |
+| Lacertian Champion | 28.00% | ~30 |
+| Anomaly Destroyer | 27.00% | ~29 |
+| Astral Adventurer | 26.00% | ~28 |
 | Loyal Partner | 25.00% | ~26 |
 | Star Killer | 25.00% | ~26 |
 | Apian Champion | 25.00% | ~26 |
@@ -32,13 +32,13 @@
 | The Corruption Goddess | 12.00% | ~13 |
 | The Goddes Avatar | 12.00% | ~13 |
 | Sadistic Plan | 11.00% | ~12 |
-| Heavy Purger | 10.00% | ~10 |
-| Apian Hero | 10.00% | ~10 |
-| Anomaly Control | 9.00% | ~9 |
-| Wave Bender | 9.00% | ~9 |
+| Heavy Purger | 10.00% | ~11 |
+| Apian Hero | 9.00% | ~10 |
+| Anomaly Control | 8.00% | ~8 |
 | Can't touch this | 8.00% | ~8 |
 | The Chaos Artisan | 8.00% | ~8 |
 | The Dark Moon | 8.00% | ~8 |
+| Wave Bender | 8.00% | ~8 |
 | Behenian Hero | 8.00% | ~8 |
 | Lacertian Hero | 8.00% | ~8 |
 | Artificer | 7.00% | ~7 |
@@ -65,17 +65,17 @@
 | Prestidigitation | 2.00% | ~2 |
 | Royal Choir | 2.00% | ~2 |
 | Sentinelphobic | 2.00% | ~2 |
-| Anomaly Master | 1.00% | ~1 |
-| Arch-Oracle | 1.00% | ~1 |
-| Astrea's Saviors | 1.00% | ~1 |
-| Astrium Specialist | 1.00% | ~1 |
-| Gotta tinker'em all! | 1.00% | ~1 |
-| Plague Doctor | 1.00% | ~1 |
-| Pocket Astrarium | 1.00% | ~1 |
-| Six-Sided Mastery | 1.00% | ~1 |
-| This is Fine | 1.00% | ~1 |
-| Virtuous Warrior | 1.00% | ~1 |
-| Apian Mastery | 1.00% | ~1 |
+| Anomaly Master | 0.90% | ~1 |
+| Arch-Oracle | 0.90% | ~1 |
+| Astrea's Saviors | 0.90% | ~1 |
+| Astrium Specialist | 0.90% | ~1 |
+| Gotta tinker'em all! | 0.90% | ~1 |
+| Plague Doctor | 0.90% | ~1 |
+| Pocket Astrarium | 0.90% | ~1 |
+| Six-Sided Mastery | 0.90% | ~1 |
+| This is Fine | 0.90% | ~1 |
+| Virtuous Warrior | 0.90% | ~1 |
+| Apian Mastery | 0.90% | ~1 |
 | Apian Champion | 0.00% | ~0 |
 | Apian Hero | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 445)  
+Progressed: 106 (Ranked 444)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,4 +152,4 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 99 | 0 |
 | 2023-12-12 | 100 | 0 |
 | 2023-12-13 | 102 | 0 |
-| 2023-12-14 | 105 | 0 |
+| 2023-12-14 | 106 | 0 |

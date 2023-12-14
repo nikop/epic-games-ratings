@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8426,
+  "EOS_Progressed": 8428,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8432,6 +8432,11 @@
       "Time": "2023-12-14T03:10:03.693849+00:00",
       "NumProgressed": 8426,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T06:10:45.4050174+00:00",
+      "NumProgressed": 8428,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8444,7 +8449,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 6067
+      "UsersEstimate": 6068
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -8452,7 +8457,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5898
+      "UsersEstimate": 5900
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -8468,7 +8473,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -8532,7 +8537,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -8540,7 +8545,7 @@
       "Name": "Miner 49er",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3707
+      "UsersEstimate": 3708
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -8548,7 +8553,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 4129
+      "UsersEstimate": 4130
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -8580,7 +8585,7 @@
       "Name": "Humble Collector",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3623
+      "UsersEstimate": 3624
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -8596,7 +8601,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 5140
+      "UsersEstimate": 5141
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -8620,7 +8625,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3960
+      "UsersEstimate": 3961
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -8668,7 +8673,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -8716,29 +8721,29 @@
       "Name": "Skilled",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8426,
+      "Progressed": 8428,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1043,
-      "Completed": 1043
+      "Progressed": 1045,
+      "Completed": 1045
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-11T03:03:30.2960645+00:00",
-  "LastChanged_Achievements": "2023-12-14T05:10:48.8863707+00:00",
+  "LastChanged_Achievements": "2023-12-14T06:10:45.4050171+00:00",
   "LastUpdate_AppInfo": "2023-12-08T10:57:06.6464777+00:00",
-  "LastUpdate_Ratings": "2023-12-14T05:03:28.0434975+00:00",
-  "LastUpdate_Achievements": "2023-12-14T05:10:48.8864432+00:00"
+  "LastUpdate_Ratings": "2023-12-14T06:03:50.7211654+00:00",
+  "LastUpdate_Achievements": "2023-12-14T06:10:45.4050772+00:00"
 }

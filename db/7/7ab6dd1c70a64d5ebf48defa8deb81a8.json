@@ -2,9 +2,9 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 366,
-  "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_Progress": 365,
+  "Ranking_EOS_Completed": 172,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 297,
+  "EOS_Progressed": 299,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.01,
+  "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -1130,6 +1130,11 @@
       "Time": "2023-12-14T05:10:47.2731295+00:00",
       "NumProgressed": 297,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T06:10:43.7981119+00:00",
+      "NumProgressed": 299,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1141,7 +1146,7 @@
       "Name": "Break Out",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_02",
@@ -1428,14 +1433,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 297,
+      "Progressed": 299,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-14T05:10:47.2731285+00:00",
+  "LastChanged_Achievements": "2023-12-14T06:10:43.7981115+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-14T04:57:55.2816909+00:00",
-  "LastUpdate_Achievements": "2023-12-14T05:10:47.273161+00:00"
+  "LastUpdate_Ratings": "2023-12-14T05:58:13.182274+00:00",
+  "LastUpdate_Achievements": "2023-12-14T06:10:43.7981342+00:00"
 }

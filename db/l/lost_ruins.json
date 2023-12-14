@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 508,
+  "EOS_Progressed": 509,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1134,6 +1134,11 @@
       "Time": "2023-12-14T05:10:49.1678994+00:00",
       "NumProgressed": 508,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T06:10:45.7100362+00:00",
+      "NumProgressed": 509,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1201,7 +1206,7 @@
       "Name": "Explorer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "GhostBuster",
@@ -1225,7 +1230,7 @@
       "Name": "Goblin Tales",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Hardboiled",
@@ -1417,7 +1422,7 @@
       "Name": "Trio",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "TrapMaster",
@@ -1464,7 +1469,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 508,
+      "Progressed": 509,
       "Completed": 1
     }
   ],
@@ -1472,8 +1477,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-14T05:10:49.1678991+00:00",
+  "LastChanged_Achievements": "2023-12-14T06:10:45.710036+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:26.5642933+00:00",
-  "LastUpdate_Ratings": "2023-12-14T05:01:34.3516562+00:00",
-  "LastUpdate_Achievements": "2023-12-14T05:10:49.167933+00:00"
+  "LastUpdate_Ratings": "2023-12-14T06:01:33.7977737+00:00",
+  "LastUpdate_Achievements": "2023-12-14T06:10:45.7100603+00:00"
 }
