@@ -2,10 +2,10 @@
   "ID": "dad208fc27084f0fa6ac1cd333c53f57",
   "Name": "The Hidden Room",
   "ProductSlug": "the-hidden-room-1a63ec",
-  "Ranking_EOS_Progress": 192,
+  "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
     "PcReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5346,
+  "EOS_Progressed": 5347,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -4909,6 +4909,11 @@
       "Time": "2023-12-14T12:09:23.628636+00:00",
       "NumProgressed": 5346,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-14T13:15:31.3842807+00:00",
+      "NumProgressed": 5347,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -4969,7 +4974,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 3047
+      "UsersEstimate": 3048
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -4977,7 +4982,7 @@
       "Name": "Wrong passcode",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 4277
+      "UsersEstimate": 4278
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -5048,14 +5053,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 5346,
+      "Progressed": 5347,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-14T12:09:23.6286359+00:00",
+  "LastChanged_Achievements": "2023-12-14T13:15:31.3842801+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:54.5364953+00:00",
-  "LastUpdate_Ratings": "2023-12-14T12:01:38.156155+00:00",
-  "LastUpdate_Achievements": "2023-12-14T12:09:23.6286628+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:06:27.7790191+00:00",
+  "LastUpdate_Achievements": "2023-12-14T13:15:31.3843094+00:00"
 }

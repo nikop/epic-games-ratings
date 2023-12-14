@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -299,9 +299,9 @@
       "ID": "jz1",
       "SetID": "b1ggf28",
       "Name": "Builder",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "jz2",
@@ -443,9 +443,9 @@
       "ID": "x2",
       "SetID": "b1ggf28",
       "Name": "Hard-Drinking",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "x3",
@@ -514,8 +514,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-14T12:04:30.0956887+00:00",
+  "LastChanged_Achievements": "2023-12-14T13:10:21.0399179+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-14T12:03:19.2034417+00:00",
-  "LastUpdate_Achievements": "2023-12-14T12:04:30.0957273+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:09:33.9497831+00:00",
+  "LastUpdate_Achievements": "2023-12-14T13:10:21.0399442+00:00"
 }

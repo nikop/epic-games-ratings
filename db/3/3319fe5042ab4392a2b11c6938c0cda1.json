@@ -4,7 +4,7 @@
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 612,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -124,9 +124,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "ae95dh3",
       "Name": "Child of the Shadows",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -252,9 +252,9 @@
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "ae95dh3",
       "Name": "Lockdown",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
@@ -387,8 +387,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-14T12:04:24.8146368+00:00",
+  "LastChanged_Achievements": "2023-12-14T13:10:17.2511137+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184739+00:00",
-  "LastUpdate_Ratings": "2023-12-14T11:57:54.241471+00:00",
-  "LastUpdate_Achievements": "2023-12-14T12:04:24.8146588+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:03:59.0331854+00:00",
+  "LastUpdate_Achievements": "2023-12-14T13:10:17.2511304+00:00"
 }

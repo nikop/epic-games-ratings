@@ -11,7 +11,7 @@ Number of Ratings: 90  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 36.00% | ~19 |
 | Furon Fashion | 26.00% | ~14 |
 | Shop Til They Drop | 25.00% | ~13 |
-| I Look Up As I Walk to Takoshima | 17.00% | ~9 |
+| I Look Up As I Walk to Takoshima | 19.00% | ~10 |
 | Earthly Pleasures | 17.00% | ~9 |
 | Upgreatest | 17.00% | ~9 |
 | Pimp My Raid | 13.00% | ~7 |
@@ -22,9 +22,9 @@ Number of Ratings: 90  (23.09.2022)
 | Transmitting From Sol-3 | 8.00% | ~4 |
 | Lie Back and Think of Albion | 8.00% | ~4 |
 | Fly Me to the Moon Base | 8.00% | ~4 |
+| Die Nasty | 8.00% | ~4 |
 | Dusted | 8.00% | ~4 |
 | Freshly Squeezed | 6.00% | ~3 |
-| Die Nasty | 6.00% | ~3 |
 | Scuttled | 6.00% | ~3 |
 | Kaijuiced | 4.00% | ~2 |
 | Lobster Blisque | 4.00% | ~2 |

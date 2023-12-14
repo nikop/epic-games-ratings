@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Enough rooms to swing a cat | 91.00% | ~40 |
-| Home Sweet Home | 91.00% | ~40 |
-| First to the post | 86.00% | ~38 |
-| A kind of Magic | 82.00% | ~36 |
-| Connected | 80.00% | ~35 |
-| Expansion | 77.00% | ~34 |
-| Harvest Time | 70.00% | ~31 |
-| Mine! | 66.00% | ~29 |
-| Artificer's Apprentice | 61.00% | ~27 |
-| Get out of here! | 57.00% | ~25 |
-| Fly the friendly Sky | 55.00% | ~24 |
-| Necromancer's Apprentice | 52.00% | ~23 |
-| The Circle | 48.00% | ~21 |
-| Alchemist's Apprentice | 48.00% | ~21 |
-| Friend of Lyraine | 48.00% | ~21 |
-| Redecorating | 41.00% | ~18 |
-| Slave to the rhythm | 30.00% | ~13 |
-| Bad JuJu | 30.00% | ~13 |
+| Home Sweet Home | 91.00% | ~41 |
+| Enough rooms to swing a cat | 89.00% | ~40 |
+| First to the post | 84.00% | ~38 |
+| A kind of Magic | 80.00% | ~36 |
+| Connected | 78.00% | ~35 |
+| Expansion | 76.00% | ~34 |
+| Harvest Time | 69.00% | ~31 |
+| Mine! | 64.00% | ~29 |
+| Artificer's Apprentice | 60.00% | ~27 |
+| Get out of here! | 56.00% | ~25 |
+| Fly the friendly Sky | 53.00% | ~24 |
+| Necromancer's Apprentice | 51.00% | ~23 |
+| The Circle | 47.00% | ~21 |
+| Alchemist's Apprentice | 47.00% | ~21 |
+| Friend of Lyraine | 47.00% | ~21 |
+| Redecorating | 40.00% | ~18 |
+| Slave to the rhythm | 29.00% | ~13 |
+| Bad JuJu | 29.00% | ~13 |
 | Friend of Sevenkeeps | 27.00% | ~12 |
-| Castle Meldec | 23.00% | ~10 |
-| Sevenkeeps Seat of Kings | 23.00% | ~10 |
+| Castle Meldec | 22.00% | ~10 |
+| Sevenkeeps Seat of Kings | 22.00% | ~10 |
 | Friend of Gillyshire | 20.00% | ~9 |
 | Friend of Connach | 20.00% | ~9 |
 | Friend of Alluvyan | 18.00% | ~8 |
@@ -33,10 +33,10 @@
 | Philo's Tale | 16.00% | ~7 |
 | Stormwatch Faste | 16.00% | ~7 |
 | Friend of Orgash | 16.00% | ~7 |
-| Defeat Gor | 14.00% | ~6 |
-| The Forge of Regan Gor | 14.00% | ~6 |
-| Friend of Silver Drift Hollow | 14.00% | ~6 |
-| Friend of Windholme | 14.00% | ~6 |
+| Defeat Gor | 13.00% | ~6 |
+| The Forge of Regan Gor | 13.00% | ~6 |
+| Friend of Silver Drift Hollow | 13.00% | ~6 |
+| Friend of Windholme | 13.00% | ~6 |
 | Defeat Uram | 11.00% | ~5 |
 | Lore's Tale | 11.00% | ~5 |
 | Yngrid's Tale | 11.00% | ~5 |
@@ -62,11 +62,11 @@
 | Heroes | 7.00% | ~3 |
 | Balanced | 7.00% | ~3 |
 | Friend of Uram Gor | 7.00% | ~3 |
-| Defeat Raith | 5.00% | ~2 |
-| Fireforge | 5.00% | ~2 |
-| Master Artificer | 5.00% | ~2 |
-| Breaking the circle | 5.00% | ~2 |
-| My Friends! | 5.00% | ~2 |
+| Defeat Raith | 4.00% | ~2 |
+| Fireforge | 4.00% | ~2 |
+| Master Artificer | 4.00% | ~2 |
+| Breaking the circle | 4.00% | ~2 |
+| My Friends! | 4.00% | ~2 |
 | Misty Coast Dragonbones | 2.00% | ~1 |
 | Master Necromancer | 2.00% | ~1 |
 | Hard Life | 0.00% | ~0 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 524)  
+Progressed: 45 (Ranked 522)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-06 | 41 | 0 |
 | 2023-12-10 | 42 | 0 |
 | 2023-12-13 | 43 | 0 |
-| 2023-12-14 | 44 | 0 |
+| 2023-12-14 | 45 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

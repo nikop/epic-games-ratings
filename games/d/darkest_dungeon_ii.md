@@ -6,42 +6,42 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 5.00% | ~88 |
-| This guy... again? | 3.00% | ~53 |
+| Malpractice Assurance | 5.00% | ~89 |
+| This guy... again? | 3.00% | ~54 |
+| Lost and Found | 3.00% | ~54 |
 | This Belongs in a Museum | 2.00% | ~2,538 |
 | Not Today! | 2.00% | ~2,538 |
+| Creep and Sleep | 2.00% | ~2,538 |
 | Catch and Decease | 2.00% | ~2,538 |
 | Overdue Notice | 2.00% | ~2,538 |
 | Escape from the Black Hole | 2.00% | ~2,538 |
 | Autodidact | 2.00% | ~2,538 |
-| Bloody Graduation | 2.00% | ~35 |
-| Lost and Found | 2.00% | ~35 |
+| Bloody Graduation | 2.00% | ~36 |
 | Serenity Now! | 1.00% | ~1,269 |
-| Creep and Sleep | 1.00% | ~1,269 |
 | Meat and Greet | 1.00% | ~1,269 |
 | Ploughshares to Swords | 1.00% | ~18 |
+| Don't Make Me Turn This Coach Around | 0.90% | ~1,142 |
 | Rush Hour | 0.90% | ~1,142 |
 | To Grandmother's House | 0.90% | ~1,142 |
 | FNG | 0.90% | ~1,142 |
 | Friends 'Til the End | 0.90% | ~16 |
-| Don't Make Me Turn This Coach Around | 0.80% | ~1,015 |
 | It Rings a Bell | 0.80% | ~1,015 |
+| It Happens | 0.80% | ~1,015 |
+| Nope | 0.80% | ~1,015 |
 | Dissector | 0.70% | ~888 |
 | Deprogramming | 0.70% | ~888 |
-| It Happens | 0.70% | ~888 |
 | Merry Time | 0.70% | ~888 |
 | Harvest Festival | 0.70% | ~888 |
 | Whale | 0.70% | ~888 |
 | A Place to Lay Your Head | 0.70% | ~888 |
 | Worldly Traveller | 0.70% | ~888 |
-| Nope | 0.70% | ~888 |
-| Predator | 0.60% | ~761 |
-| Banishment | 0.60% | ~761 |
-| Now Stay Dead | 0.60% | ~761 |
-| Reverse Banditry | 0.60% | ~761 |
-| Spelunker | 0.60% | ~761 |
-| Ramble On | 0.60% | ~761 |
-| Road Trip | 0.60% | ~761 |
+| Predator | 0.60% | ~762 |
+| Banishment | 0.60% | ~762 |
+| Now Stay Dead | 0.60% | ~762 |
+| Reverse Banditry | 0.60% | ~762 |
+| Spelunker | 0.60% | ~762 |
+| Ramble On | 0.60% | ~762 |
+| Road Trip | 0.60% | ~762 |
 | Resurrection | 0.50% | ~635 |
 | Unleash Hell | 0.50% | ~635 |
 | Funny Guy | 0.50% | ~635 |
@@ -56,19 +56,19 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ichthyophobic | 0.40% | ~508 |
 | No More Mouths to Feed | 0.40% | ~508 |
 | Utopia | 0.40% | ~508 |
+| Hot Air | 0.40% | ~508 |
 | Slap on the Wrist | 0.40% | ~7 |
 | This Looks Familiar | 0.30% | ~381 |
-| Hot Air | 0.30% | ~381 |
 | Eyes Up | 0.30% | ~381 |
+| Handled | 0.30% | ~381 |
 | Body of Work | 0.30% | ~381 |
 | Maître De La Lame | 0.30% | ~5 |
 | Et Tu, Riposte? | 0.30% | ~5 |
+| For Old Time' Sake | 0.30% | ~5 |
 | Clearing the Ledger | 0.20% | ~254 |
 | Bacon Bits | 0.20% | ~254 |
 | Shrine of Reflection | 0.20% | ~254 |
-| Handled | 0.20% | ~254 |
 | Battle Hardened | 0.20% | ~4 |
-| For Old Time' Sake | 0.20% | ~4 |
 | A Life Well Lived | 0.10% | ~127 |
 | The World As It Was | 0.10% | ~127 |
 | Loop Year | 0.10% | ~127 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,901 (Ranked 84)  
+Progressed: 126,918 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,15 +314,15 @@ Completed: 3 (0.00%) (Ranked 374)
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
-| 2023-12-14 | 126,901 | 3 |
+| 2023-12-14 | 126,918 | 3 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 51)  
-Sum: 20,385 (Ranked 59)  
+Sum: 20,395 (Ranked 59)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,689 |
-| This game has Diverse Characters | 1,675 |
+| This game has Diverse Characters | 1,685 |
 | This game has Challenging Combat | 1,576 |
 | This game is Highly Recommended | 1,506 |
 | This game is Extremely Fun | 1,444 |
@@ -656,4 +656,4 @@ Diff (max vs sum): -8
 | 2023-12-11 | 4.68 | - | 7,586 | 20,081 |
 | 2023-12-12 | 4.68 | - | 7,622 | 20,221 |
 | 2023-12-13 | 4.68 | - | 7,665 | 20,333 |
-| 2023-12-14 | 4.68 | - | 7,689 | 20,385 |
+| 2023-12-14 | 4.68 | - | 7,689 | 20,395 |

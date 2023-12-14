@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 36.00% | ~366 |
-| Welcome to the Tower | 34.00% | ~346 |
-| The great escape | 29.00% | ~295 |
-| The Preacher's fate | 28.00% | ~285 |
-| A new dawn | 24.00% | ~244 |
-| A good beginning | 22.00% | ~224 |
-| Scholar | 22.00% | ~224 |
-| The darkness | 22.00% | ~224 |
+| That's the spirit | 36.00% | ~368 |
+| Welcome to the Tower | 34.00% | ~347 |
+| The great escape | 29.00% | ~296 |
+| The Preacher's fate | 28.00% | ~286 |
+| A new dawn | 24.00% | ~245 |
+| A good beginning | 22.00% | ~225 |
+| Scholar | 22.00% | ~225 |
+| The darkness | 22.00% | ~225 |
 | True G3M4R | 21.00% | ~214 |
-| One last step | 21.00% | ~214 |
-| I did it | 20.00% | ~203 |
-| Cable guy | 20.00% | ~203 |
-| Half the way | 20.00% | ~203 |
-| In this together | 19.00% | ~193 |
-| Peace walker | 19.00% | ~193 |
-| Champollion | 19.00% | ~193 |
+| I did it | 20.00% | ~204 |
+| Cable guy | 20.00% | ~204 |
+| Half the way | 20.00% | ~204 |
+| One last step | 20.00% | ~204 |
+| In this together | 19.00% | ~194 |
+| Peace walker | 19.00% | ~194 |
+| Champollion | 19.00% | ~194 |
 | Open door | 16.00% | ~163 |
 | Feels like springtime | 16.00% | ~163 |
 | Alchemists Express | 16.00% | ~163 |
-| Free at last | 14.00% | ~142 |
-| Rascal | 14.00% | ~142 |
-| A Link to the Past | 12.00% | ~122 |
+| Free at last | 14.00% | ~143 |
+| Rascal | 14.00% | ~143 |
+| A Link to the Past | 12.00% | ~123 |
 | A great audience | 11.00% | ~112 |
 | For its own good | 10.00% | ~102 |
 | Fashion victim | 5.00% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,017 (Ranked 270)  
-Completed: 56 (5.51%) (Ranked 72)  
+Progressed: 1,021 (Ranked 270)  
+Completed: 56 (5.48%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -175,4 +175,4 @@ Completed: 56 (5.51%) (Ranked 72)
 | 2023-12-11 | 953 | 54 |
 | 2023-12-12 | 962 | 55 |
 | 2023-12-13 | 981 | 56 |
-| 2023-12-14 | 1,017 | 56 |
+| 2023-12-14 | 1,021 | 56 |

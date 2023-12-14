@@ -4565,9 +4565,9 @@
       "Count": 400
     }
   ],
-  "EOS_Progressed": 12312,
+  "EOS_Progressed": 12314,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16820,6 +16820,11 @@
       "Time": "2023-12-14T12:10:57.8207344+00:00",
       "NumProgressed": 12312,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T13:16:38.9873669+00:00",
+      "NumProgressed": 12314,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -16831,7 +16836,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3324
+      "UsersEstimate": 3325
     },
     {
       "ID": "02_BurningCity",
@@ -16839,7 +16844,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2216
+      "UsersEstimate": 2217
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -16871,7 +16876,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "07_FinalThreshold",
@@ -17031,7 +17036,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "28_GreatUpstart",
@@ -17063,7 +17068,7 @@
       "Name": "Divide and Rule",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "32_MythicReinforcements",
@@ -17071,7 +17076,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "33_DefendersHeart",
@@ -17199,7 +17204,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "49_Flame",
@@ -17215,7 +17220,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -17758,21 +17763,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11094,
+      "Progressed": 11096,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12312,
+      "Progressed": 12314,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-14T11:59:03.9871765+00:00",
-  "LastChanged_Achievements": "2023-12-14T12:10:57.8207343+00:00",
+  "LastChanged_Achievements": "2023-12-14T13:16:38.9873666+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-14T11:59:03.987177+00:00",
-  "LastUpdate_Achievements": "2023-12-14T12:10:57.8208846+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:04:44.5997557+00:00",
+  "LastUpdate_Achievements": "2023-12-14T13:16:38.987519+00:00"
 }

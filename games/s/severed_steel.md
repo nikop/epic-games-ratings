@@ -5,26 +5,26 @@ Rating: 4.69 (Ranked 232)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 32.00% | ~218,394 |
-| 50 HEADSHOTS | 29.00% | ~197,919 |
-| SCIENCE AND INDUSTRY | 28.00% | ~191,095 |
-| FINISHED CHAPTER 1 | 27.00% | ~184,270 |
-| FINISHED CHAPTER 2 | 20.00% | ~136,496 |
-| 200 HEADSHOTS | 18.00% | ~122,847 |
-| FINISHED CHAPTER 3 | 17.00% | ~116,022 |
-| FINISHED CHAPTER 4 | 15.00% | ~102,372 |
-| FINISH CHAPTER 5 | 12.00% | ~81,898 |
-| CATHARTIC ESCAPISM | 11.00% | ~75,073 |
-| FINISH CHAPTER 6 | 10.00% | ~68,248 |
-| 1000 KILLS | 9.00% | ~61,423 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,299 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,650 |
-| FIRST BLOOD | 2.00% | ~13,650 |
-| PACEMAKER | 1.00% | ~6,825 |
-| TIME PARADOX | 1.00% | ~6,825 |
+| 100 KILLS | 32.00% | ~218,372 |
+| 50 HEADSHOTS | 29.00% | ~197,899 |
+| SCIENCE AND INDUSTRY | 28.00% | ~191,075 |
+| FINISHED CHAPTER 1 | 27.00% | ~184,251 |
+| FINISHED CHAPTER 2 | 20.00% | ~136,482 |
+| 200 HEADSHOTS | 18.00% | ~122,834 |
+| FINISHED CHAPTER 3 | 17.00% | ~116,010 |
+| FINISHED CHAPTER 4 | 15.00% | ~102,362 |
+| FINISH CHAPTER 5 | 12.00% | ~81,889 |
+| CATHARTIC ESCAPISM | 11.00% | ~75,065 |
+| FINISH CHAPTER 6 | 10.00% | ~68,241 |
+| 1000 KILLS | 9.00% | ~61,417 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,296 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,648 |
+| FIRST BLOOD | 2.00% | ~13,648 |
+| PACEMAKER | 1.00% | ~6,824 |
+| TIME PARADOX | 1.00% | ~6,824 |
 | FIREFIGHT LEVEL 30 | 0.90% | ~6,142 |
 | OUT OF ORDER | 0.90% | ~6,142 |
-| PARTYHARD | 0.80% | ~5,460 |
+| PARTYHARD | 0.80% | ~5,459 |
 | NEW GAME PLUS | 0.70% | ~4,777 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,412 |
 | CHURCH | 0.40% | ~2,730 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 232)
 | THE GAMBLER | 0.10% | ~682 |
 | WARRIOR IN A GARDEN | 0.10% | ~682 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682,481 (Ranked 28)  
+Progressed: 682,411 (Ranked 28)  
 Completed: 72 (0.01%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |

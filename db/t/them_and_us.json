@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 319,
+  "EOS_Progressed": 320,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1396,6 +1396,11 @@
       "Time": "2023-12-14T12:05:05.1854743+00:00",
       "NumProgressed": 319,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T13:10:46.9090143+00:00",
+      "NumProgressed": 320,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1501,9 +1506,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 218
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1583,7 +1588,7 @@
       "Name": "Parasite Exterminated",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ETUA_Researcher",
@@ -1726,7 +1731,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 319,
+      "Progressed": 320,
       "Completed": 1
     }
   ],
@@ -1734,8 +1739,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-12-14T12:05:05.185474+00:00",
+  "LastChanged_Achievements": "2023-12-14T13:10:46.909014+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.0829701+00:00",
-  "LastUpdate_Ratings": "2023-12-14T12:02:19.7481564+00:00",
-  "LastUpdate_Achievements": "2023-12-14T12:05:05.1855016+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:06:55.6988705+00:00",
+  "LastUpdate_Achievements": "2023-12-14T13:10:46.9090473+00:00"
 }

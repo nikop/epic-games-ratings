@@ -4,7 +4,7 @@
   "ProductSlug": "geometric-sniper-z-ef97ef",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewPlayers": 427,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-08T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 152,
+  "EOS_Progressed": 153,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -554,6 +554,11 @@
       "Time": "2023-12-08T01:53:39.5459967+00:00",
       "NumProgressed": 152,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T13:10:28.9885477+00:00",
+      "NumProgressed": 153,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-28T19:04:41.1727076+00:00",
@@ -566,23 +571,23 @@
       "Name": "MISSION 01",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACHIEVEMENT_AV_02",
       "SetID": "b50kim2",
       "Name": "MISSION 02",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHIEVEMENT_AV_03",
       "SetID": "b50kim2",
       "Name": "MISSION 03",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_AV_04",
@@ -756,25 +761,25 @@
       "ID": "ACHIEVEMENT_MRE_07",
       "SetID": "b50kim2",
       "Name": "Bullseye",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_MR_01",
       "SetID": "b50kim2",
       "Name": "MY 1ST REWARD",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_MR_02",
       "SetID": "b50kim2",
       "Name": "MY 2ND REWARD",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_MR_03",
@@ -820,9 +825,9 @@
       "ID": "ACHIEVEMENT_RW_01",
       "SetID": "b50kim2",
       "Name": "RUNAWAY 01",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_RW_02",
@@ -924,9 +929,9 @@
       "ID": "ACHIEVEMENT_SURV_01",
       "SetID": "b50kim2",
       "Name": "SURVIVE MAP 01",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_SURV_02",
@@ -965,14 +970,14 @@
     {
       "ID": "b50kim2",
       "IsBase": true,
-      "Progressed": 152,
+      "Progressed": 153,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-12-14T12:04:41.1065157+00:00",
+  "LastChanged_Achievements": "2023-12-14T13:10:28.9885475+00:00",
   "LastUpdate_AppInfo": "2023-12-12T07:57:15.5904158+00:00",
-  "LastUpdate_Ratings": "2023-12-14T11:59:10.363572+00:00",
-  "LastUpdate_Achievements": "2023-12-14T12:04:41.1065488+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:04:48.2809552+00:00",
+  "LastUpdate_Achievements": "2023-12-14T13:10:28.9885773+00:00"
 }

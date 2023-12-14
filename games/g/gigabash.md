@@ -5,35 +5,35 @@ Rating: 4.57 (Ranked 484)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 3.00% | ~2,322 |
-| Fists, Fury & a lot of Rage | 2.00% | ~1,548 |
-| I've Had Enough! | 2.00% | ~1,548 |
-| All For One and One For All | 1.00% | ~774 |
-| Seasoned Fighter | 1.00% | ~774 |
-| Home Sweet Home? | 0.80% | ~619 |
-| A New Age | 0.70% | ~542 |
-| Oh Baby, A Triple | 0.40% | ~310 |
-| Symbiotic | 0.40% | ~310 |
-| Master of Disguise | 0.30% | ~232 |
-| Right back at'cha | 0.30% | ~232 |
-| Battle Hardened | 0.20% | ~155 |
-| Cautious Veteran | 0.20% | ~155 |
-| Double Punch! | 0.20% | ~155 |
-| It's Mayhem! | 0.20% | ~155 |
-| Spectacular Finisher | 0.20% | ~155 |
-| Eye of the Titan | 0.10% | ~77 |
-| Just Getting Warmed Up | 0.10% | ~77 |
-| Katamari | 0.10% | ~77 |
-| Let Them Fight | 0.10% | ~77 |
-| Martyrdom | 0.10% | ~77 |
-| Ninja Reflex | 0.10% | ~77 |
-| This is GigaBash! | 0.10% | ~77 |
-| Sidetracked... | 0.10% | ~77 |
-| Apex Mode | 0.10% | ~77 |
-| Taste Your Own Medicine | 0.10% | ~77 |
-| Top of the Food Chain | 0.10% | ~77 |
-| Watchful Sentinel | 0.10% | ~77 |
-| Zero-sum Game | 0.10% | ~77 |
+| All Grown Up! | 3.00% | ~2,333 |
+| Fists, Fury & a lot of Rage | 2.00% | ~1,556 |
+| I've Had Enough! | 2.00% | ~1,556 |
+| All For One and One For All | 1.00% | ~778 |
+| Seasoned Fighter | 1.00% | ~778 |
+| Home Sweet Home? | 0.90% | ~700 |
+| A New Age | 0.80% | ~622 |
+| Oh Baby, A Triple | 0.50% | ~389 |
+| Symbiotic | 0.50% | ~389 |
+| Battle Hardened | 0.30% | ~233 |
+| Master of Disguise | 0.30% | ~233 |
+| Right back at'cha | 0.30% | ~233 |
+| Cautious Veteran | 0.20% | ~156 |
+| Double Punch! | 0.20% | ~156 |
+| It's Mayhem! | 0.20% | ~156 |
+| Spectacular Finisher | 0.20% | ~156 |
+| Zero-sum Game | 0.20% | ~156 |
+| Eye of the Titan | 0.10% | ~78 |
+| Just Getting Warmed Up | 0.10% | ~78 |
+| Katamari | 0.10% | ~78 |
+| Let Them Fight | 0.10% | ~78 |
+| Martyrdom | 0.10% | ~78 |
+| Ninja Reflex | 0.10% | ~78 |
+| This is GigaBash! | 0.10% | ~78 |
+| Sidetracked... | 0.10% | ~78 |
+| Apex Mode | 0.10% | ~78 |
+| Taste Your Own Medicine | 0.10% | ~78 |
+| Top of the Food Chain | 0.10% | ~78 |
+| Watchful Sentinel | 0.10% | ~78 |
 | 5 Stages of Grief | 0.00% | ~0 |
 | Bastion of Humanity | 0.00% | ~0 |
 | Keeper of Knowledge | 0.00% | ~0 |
@@ -41,7 +41,7 @@ Rating: 4.57 (Ranked 484)
 | Apocalypse Mode | 0.00% | ~0 |
 | What's Mine is Yours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,389 (Ranked 100)  
+Progressed: 77,781 (Ranked 100)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 49,284 | 0 |
 | 2023-12-12 | 62,591 | 0 |
 | 2023-12-13 | 74,092 | 0 |
-| 2023-12-14 | 77,389 | 0 |
+| 2023-12-14 | 77,781 | 0 |
 ## Awards
 Max (Great Boss Battles): 25  (Ranked 527)  
 Sum: 25 (Ranked 535)  

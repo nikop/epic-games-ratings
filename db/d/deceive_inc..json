@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19039,
+  "EOS_Progressed": 19041,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13639,6 +13639,11 @@
       "Time": "2023-12-14T09:07:50.5675065+00:00",
       "NumProgressed": 19039,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-14T13:13:12.3901935+00:00",
+      "NumProgressed": 19041,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13738,7 +13743,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3046
+      "UsersEstimate": 3047
     },
     {
       "ID": "0013",
@@ -13754,7 +13759,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3046
+      "UsersEstimate": 3047
     },
     {
       "ID": "0015",
@@ -13858,7 +13863,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "0028",
@@ -13890,7 +13895,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "0032",
@@ -13898,7 +13903,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "0033",
@@ -13906,7 +13911,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "0034",
@@ -13937,7 +13942,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19039,
+      "Progressed": 19041,
       "Completed": 4
     }
   ],
@@ -13945,8 +13950,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-14T12:08:27.9662614+00:00",
+  "LastChanged_Achievements": "2023-12-14T13:13:12.3901932+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:34.3621794+00:00",
-  "LastUpdate_Ratings": "2023-12-14T11:59:50.6061339+00:00",
-  "LastUpdate_Achievements": "2023-12-14T12:08:27.9663322+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:05:14.7618733+00:00",
+  "LastUpdate_Achievements": "2023-12-14T13:13:12.3902726+00:00"
 }

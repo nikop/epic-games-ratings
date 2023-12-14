@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2469,
+  "EOS_Progressed": 2471,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
@@ -3174,6 +3174,11 @@
       "Time": "2023-12-14T11:04:05.4876468+00:00",
       "NumProgressed": 2469,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T13:10:25.4007319+00:00",
+      "NumProgressed": 2471,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T10:03:34.0451585+00:00",
@@ -3392,9 +3397,9 @@
       "ID": "ACH_NoPirateLifeForMe",
       "SetID": "ai9gp4m",
       "Name": "No Pirate Life For Me",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_PartOfTheHerd",
@@ -3473,14 +3478,14 @@
     {
       "ID": "ai9gp4m",
       "IsBase": true,
-      "Progressed": 2469,
+      "Progressed": 2471,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T17:12:11.6441417+00:00",
   "FirstSeenAchievements": "2023-11-07T10:03:34.0451584+00:00",
-  "LastChanged_Achievements": "2023-12-14T12:04:36.0246844+00:00",
+  "LastChanged_Achievements": "2023-12-14T13:10:25.4007318+00:00",
   "LastUpdate_AppInfo": "2023-12-12T11:56:59.8380517+00:00",
-  "LastUpdate_Ratings": "2023-12-14T11:58:33.8269425+00:00",
-  "LastUpdate_Achievements": "2023-12-14T12:04:36.0247236+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:04:24.7287718+00:00",
+  "LastUpdate_Achievements": "2023-12-14T13:10:25.4007607+00:00"
 }

@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 784,
+  "EOS_Progressed": 785,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2015,6 +2015,11 @@
       "Time": "2023-12-11T13:17:07.983393+00:00",
       "NumProgressed": 784,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T13:16:42.6802883+00:00",
+      "NumProgressed": 785,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -2083,7 +2088,7 @@
       "Name": "Class Act",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_17",
@@ -2091,7 +2096,7 @@
       "Name": "Your first time?",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "achievement_18",
@@ -2155,7 +2160,7 @@
       "Name": "Miracle in the Mountains",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_25",
@@ -2169,9 +2174,9 @@
       "ID": "achievement_26",
       "SetID": "jnappp",
       "Name": "Driver\u0027s Alliance",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_3",
@@ -2234,7 +2239,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 784,
+      "Progressed": 785,
       "Completed": 0
     }
   ],
@@ -2242,8 +2247,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-12T18:00:04.2414234+00:00",
-  "LastChanged_Achievements": "2023-12-14T12:11:02.5432558+00:00",
+  "LastChanged_Achievements": "2023-12-14T13:16:42.6802881+00:00",
   "LastUpdate_AppInfo": "2023-12-12T21:57:15.1465415+00:00",
-  "LastUpdate_Ratings": "2023-12-14T12:03:15.8465777+00:00",
-  "LastUpdate_Achievements": "2023-12-14T12:11:02.5432743+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:09:31.9728766+00:00",
+  "LastUpdate_Achievements": "2023-12-14T13:16:42.6803074+00:00"
 }

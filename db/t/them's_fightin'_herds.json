@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
@@ -319,9 +319,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 233549,
+  "EOS_Progressed": 233550,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24419,6 +24419,11 @@
       "Time": "2023-12-14T12:09:56.7406386+00:00",
       "NumProgressed": 233549,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-14T13:15:54.6749279+00:00",
+      "NumProgressed": 233550,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -24566,7 +24571,7 @@
       "Name": "Champ\u0027een of The Praire",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2335
+      "UsersEstimate": 2336
     },
     {
       "ID": "COMPLETE_THE_STORY_MODE_PROLOGUE",
@@ -24638,7 +24643,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39703
+      "UsersEstimate": 39704
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -24646,14 +24651,14 @@
       "Name": "Come At Me!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2335
+      "UsersEstimate": 2336
     }
   ],
   "AchievementSets": [
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 233549,
+      "Progressed": 233550,
       "Completed": 5
     }
   ],
@@ -24661,8 +24666,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-08T19:00:51.9158199+00:00",
-  "LastChanged_Achievements": "2023-12-14T12:09:56.7406382+00:00",
+  "LastChanged_Achievements": "2023-12-14T13:15:54.6749275+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:19.2756281+00:00",
-  "LastUpdate_Ratings": "2023-12-14T12:01:43.1055585+00:00",
-  "LastUpdate_Achievements": "2023-12-14T12:09:56.7407566+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:06:31.1673149+00:00",
+  "LastUpdate_Achievements": "2023-12-14T13:15:54.6750265+00:00"
 }

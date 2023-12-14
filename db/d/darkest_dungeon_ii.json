@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9604,10 +9604,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20385,
       "NumberOfAwardsMax": 7689
+    },
+    {
+      "Time": "2023-12-14T13:06:19.2097814+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20395,
+      "NumberOfAwardsMax": 7689
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20385,
+  "NumberOfAwards": 20395,
   "NumberOfAwardsMax": 7689,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9657,7 +9663,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1675
+      "Count": 1685
     },
     {
       "Text": "This game is Relaxing",
@@ -9684,9 +9690,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126901,
+  "EOS_Progressed": 126918,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1158,
+  "EOS_NewPlayers": 1173,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34974,6 +34980,11 @@
       "Time": "2023-12-14T12:09:50.1947335+00:00",
       "NumProgressed": 126901,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T13:15:50.3402813+00:00",
+      "NumProgressed": 126918,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -34983,9 +34994,9 @@
       "ID": "affinity_meltdown_first_time",
       "SetID": "64l4lke",
       "Name": "Don\u0027t Make Me Turn This Coach Around",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1142
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -35105,7 +35116,7 @@
       "Name": "Predator",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -35129,7 +35140,7 @@
       "Name": "Banishment",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "combat_kill_death",
@@ -35143,9 +35154,9 @@
       "ID": "combat_kill_dreaming_general",
       "SetID": "64l4lke",
       "Name": "Creep and Sleep",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 2538
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35169,7 +35180,7 @@
       "Name": "Now Stay Dead",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "combat_kill_gentry",
@@ -35217,7 +35228,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "combat_kill_shambler",
@@ -35255,9 +35266,9 @@
       "ID": "combat_party_wipe_any_run_boss",
       "SetID": "64l4lke",
       "Name": "It Happens",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 888
+      "UsersEstimate": 1015
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -35273,7 +35284,7 @@
       "Name": "Spelunker",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "driving_biome_clear_city",
@@ -35313,7 +35324,7 @@
       "Name": "Ramble On",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "driving_distance_hard",
@@ -35431,9 +35442,9 @@
       "ID": "run_end_abandon",
       "SetID": "64l4lke",
       "Name": "Nope",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 888
+      "UsersEstimate": 1015
     },
     {
       "ID": "run_victory_act01",
@@ -35447,9 +35458,9 @@
       "ID": "run_victory_act02",
       "SetID": "64l4lke",
       "Name": "Hot Air",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 381
+      "UsersEstimate": 508
     },
     {
       "ID": "run_victory_act03",
@@ -35463,9 +35474,9 @@
       "ID": "run_victory_act04",
       "SetID": "64l4lke",
       "Name": "Handled",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 381
     },
     {
       "ID": "run_victory_act05",
@@ -35497,7 +35508,7 @@
       "Name": "Road Trip",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -35521,7 +35532,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "combat_kill_collector",
@@ -35529,7 +35540,7 @@
       "Name": "This guy... again?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35577,15 +35588,15 @@
       "Name": "Bloody Graduation",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "quest_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Lost and Found",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 54
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35599,9 +35610,9 @@
       "ID": "run_victory_any_ves_pd_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "For Old Time\u0027 Sake",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -35616,21 +35627,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126901,
+      "Progressed": 126918,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1770,
+      "Progressed": 1787,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-14T12:01:24.8153283+00:00",
-  "LastChanged_Achievements": "2023-12-14T12:09:50.1947331+00:00",
+  "LastChanged": "2023-12-14T13:06:19.2097812+00:00",
+  "LastChanged_Achievements": "2023-12-14T13:15:50.3402809+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T12:01:24.8153288+00:00",
-  "LastUpdate_Achievements": "2023-12-14T12:09:50.1948772+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:06:19.2097818+00:00",
+  "LastUpdate_Achievements": "2023-12-14T13:15:50.3404651+00:00"
 }

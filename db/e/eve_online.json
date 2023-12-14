@@ -4,10 +4,10 @@
   "ProductSlug": "eve-online",
   "Ranking_Rating": 897,
   "Ranking_Popularity": 143,
-  "Ranking_PopularitySum": 185,
+  "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewPlayers": 485,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -3172,10 +3172,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 2745,
       "NumberOfAwardsMax": 1159
+    },
+    {
+      "Time": "2023-12-14T13:05:06.9593343+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 2746,
+      "NumberOfAwardsMax": 1159
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2745,
+  "NumberOfAwards": 2746,
   "NumberOfAwardsMax": 1159,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3195,7 +3201,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 219
+      "Count": 220
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3257,8 +3263,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2023-12-14T06:59:36.4476731+00:00",
+  "LastChanged": "2023-12-14T13:05:06.9593342+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:04.3892049+00:00",
-  "LastUpdate_Ratings": "2023-12-14T11:59:38.7899899+00:00",
-  "LastUpdate_Achievements": "2023-12-14T12:09:45.8028936+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:05:06.9593347+00:00",
+  "LastUpdate_Achievements": "2023-12-14T13:15:47.1671101+00:00"
 }

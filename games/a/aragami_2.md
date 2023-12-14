@@ -6,23 +6,23 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,205 |
-| First Steps | 80.00% | ~35,445 |
-| Control the Shadows | 67.00% | ~29,685 |
-| Tools of the Trade | 63.00% | ~27,913 |
-| Apprentice | 60.00% | ~26,584 |
-| Secret Seeker | 57.00% | ~25,254 |
-| Forge of Assassins | 55.00% | ~24,368 |
-| Revenant | 52.00% | ~23,039 |
-| I don’t Care! | 45.00% | ~19,938 |
-| Bird of Prey | 37.00% | ~16,393 |
-| Engraved with Power | 32.00% | ~14,178 |
+| Awakening | 93.00% | ~41,206 |
+| First Steps | 80.00% | ~35,446 |
+| Control the Shadows | 67.00% | ~29,686 |
+| Tools of the Trade | 63.00% | ~27,914 |
+| Apprentice | 60.00% | ~26,585 |
+| Secret Seeker | 57.00% | ~25,256 |
+| Forge of Assassins | 55.00% | ~24,369 |
+| Revenant | 52.00% | ~23,040 |
+| I don’t Care! | 45.00% | ~19,939 |
+| Bird of Prey | 37.00% | ~16,394 |
+| Engraved with Power | 32.00% | ~14,179 |
 | Lady | 31.00% | ~13,735 |
 | Fashionable Assassin | 27.00% | ~11,963 |
-| Apex Predator | 24.00% | ~10,633 |
-| Soul Reaver | 23.00% | ~10,190 |
-| Embers | 22.00% | ~9,747 |
-| Wall Lizard | 20.00% | ~8,861 |
+| Apex Predator | 24.00% | ~10,634 |
+| Soul Reaver | 23.00% | ~10,191 |
+| Embers | 22.00% | ~9,748 |
+| Wall Lizard | 20.00% | ~8,862 |
 | Clinging to Life | 18.00% | ~7,975 |
 | Burning | 17.00% | ~7,532 |
 | Look Behind You | 16.00% | ~7,089 |
@@ -36,9 +36,9 @@ Number of Ratings: 88  (23.09.2022)
 | Bonds | 9.00% | ~3,988 |
 | Get Over Here | 9.00% | ~3,988 |
 | The Hidden Village | 9.00% | ~3,988 |
-| Denouement | 8.00% | ~3,544 |
-| A Pleasant Stay | 8.00% | ~3,544 |
-| Pilgrimage | 7.00% | ~3,101 |
+| Denouement | 8.00% | ~3,545 |
+| A Pleasant Stay | 8.00% | ~3,545 |
+| Pilgrimage | 7.00% | ~3,102 |
 | The Lookout | 5.00% | ~2,215 |
 | The Spirit of Vengeance | 5.00% | ~2,215 |
 | Hollow | 5.00% | ~2,215 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~886 |
 | Legacy | 2.00% | ~886 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,306 (Ranked 117)  
+Progressed: 44,308 (Ranked 117)  
 Completed: 245 (0.55%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 245 (0.55%) (Ranked 203)
 | 2023-12-11 | 44,290 | 245 |
 | 2023-12-12 | 44,300 | 245 |
 | 2023-12-13 | 44,304 | 245 |
-| 2023-12-14 | 44,306 | 245 |
+| 2023-12-14 | 44,308 | 245 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

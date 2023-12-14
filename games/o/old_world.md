@@ -151,6 +151,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.70% | ~110 |
 | Beja Archer | 0.70% | ~110 |
 | Glorious Difficulty | 0.60% | ~95 |
+| Persia | 0.60% | ~95 |
 | Capturing Cities | 0.60% | ~95 |
 | Ten Crowns | 0.60% | ~95 |
 | Siege Tower | 0.60% | ~95 |
@@ -159,7 +160,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent Difficulty | 0.50% | ~79 |
 | The Eternal Treaty | 0.50% | ~79 |
 | Hatti | 0.50% | ~79 |
-| Persia | 0.50% | ~79 |
 | Pantheon of Gods | 0.50% | ~79 |
 | Play a Network Game | 0.50% | ~79 |
 | Three Man Chariot | 0.50% | ~79 |

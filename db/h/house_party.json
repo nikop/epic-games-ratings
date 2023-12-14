@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6582,
+  "EOS_Progressed": 6584,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6747,6 +6747,11 @@
       "Time": "2023-12-14T10:05:07.217728+00:00",
       "NumProgressed": 6582,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T13:10:43.723383+00:00",
+      "NumProgressed": 6584,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6814,7 +6819,7 @@
       "Name": "The Brahdyssey",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Bride",
@@ -6846,7 +6851,7 @@
       "Name": "Caught in the Act",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "CongratsACelebrityHatesYou",
@@ -7022,7 +7027,7 @@
       "Name": "Katherine",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "LCA",
@@ -7070,7 +7075,7 @@
       "Name": "Now It\u0027s a Party!",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Pat_Relentless",
@@ -7078,7 +7083,7 @@
       "Name": "Relentless",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Penguinfucker",
@@ -7166,7 +7171,7 @@
       "Name": "If at First You Don\u0027t Succeed...",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "SuckerPunch",
@@ -7302,28 +7307,28 @@
       "Name": "Te Amo Lety",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     }
   ],
   "AchievementSets": [
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3621,
+      "Progressed": 3623,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6582,
+      "Progressed": 6584,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-14T12:05:00.8028353+00:00",
+  "LastChanged_Achievements": "2023-12-14T13:10:43.7233828+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.173705+00:00",
-  "LastUpdate_Ratings": "2023-12-14T12:00:43.7847631+00:00",
-  "LastUpdate_Achievements": "2023-12-14T12:05:00.8029152+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:05:50.9669038+00:00",
+  "LastUpdate_Achievements": "2023-12-14T13:10:43.7234505+00:00"
 }

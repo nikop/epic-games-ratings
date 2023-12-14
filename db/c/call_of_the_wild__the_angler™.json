@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -955,9 +955,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 6841,
+  "EOS_Progressed": 6850,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11035,6 +11035,11 @@
       "Time": "2023-12-14T12:04:50.4322509+00:00",
       "NumProgressed": 6841,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T13:10:36.0265439+00:00",
+      "NumProgressed": 6850,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11046,7 +11051,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -11070,7 +11075,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -11110,7 +11115,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -11365,13 +11370,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6841,
+      "Progressed": 6850,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6213,
+      "Progressed": 6222,
       "Completed": 113
     }
   ],
@@ -11379,8 +11384,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-13T00:00:03.8951361+00:00",
-  "LastChanged_Achievements": "2023-12-14T12:04:50.4322506+00:00",
+  "LastChanged_Achievements": "2023-12-14T13:10:36.0265435+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:44.0991613+00:00",
-  "LastUpdate_Ratings": "2023-12-14T11:57:44.2485528+00:00",
-  "LastUpdate_Achievements": "2023-12-14T12:04:50.4323301+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:03:52.3042228+00:00",
+  "LastUpdate_Achievements": "2023-12-14T13:10:36.0266196+00:00"
 }

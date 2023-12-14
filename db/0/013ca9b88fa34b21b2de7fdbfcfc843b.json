@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8429,
+  "EOS_Progressed": 8430,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8442,6 +8442,11 @@
       "Time": "2023-12-14T07:11:12.6819137+00:00",
       "NumProgressed": 8429,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T13:16:46.0948725+00:00",
+      "NumProgressed": 8430,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8454,7 +8459,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 6069
+      "UsersEstimate": 6070
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -8462,7 +8467,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5900
+      "UsersEstimate": 5901
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -8548,9 +8553,9 @@
       "ID": "COLLECT_MINERALS",
       "SetID": "9eia0f5",
       "Name": "Miner 49er",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3709
+      "UsersEstimate": 3625
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -8558,7 +8563,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 4130
+      "UsersEstimate": 4131
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -8590,7 +8595,7 @@
       "Name": "Humble Collector",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3624
+      "UsersEstimate": 3625
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -8654,7 +8659,7 @@
       "Name": "I Now Pronounce You...",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "MAKE_FRIENDS_1",
@@ -8733,22 +8738,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8429,
+      "Progressed": 8430,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1046,
-      "Completed": 1046
+      "Progressed": 1047,
+      "Completed": 1047
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-11T03:03:30.2960645+00:00",
-  "LastChanged_Achievements": "2023-12-14T12:11:06.9016058+00:00",
+  "LastChanged_Achievements": "2023-12-14T13:16:46.094872+00:00",
   "LastUpdate_AppInfo": "2023-12-08T10:57:06.6464777+00:00",
-  "LastUpdate_Ratings": "2023-12-14T12:03:53.1827058+00:00",
-  "LastUpdate_Achievements": "2023-12-14T12:11:06.9016648+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:09:55.3505815+00:00",
+  "LastUpdate_Achievements": "2023-12-14T13:16:46.0949191+00:00"
 }

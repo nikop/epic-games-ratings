@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -143,9 +143,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15128,
+  "EOS_Progressed": 15131,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3618,6 +3618,11 @@
       "Time": "2023-12-14T12:10:05.6252049+00:00",
       "NumProgressed": 15128,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-14T13:16:01.0106574+00:00",
+      "NumProgressed": 15131,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -3630,7 +3635,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5749
+      "UsersEstimate": 5750
     },
     {
       "ID": "ACH_AE_10",
@@ -3646,7 +3651,7 @@
       "Name": "One-Track Mind",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ACH_AE_12",
@@ -3662,7 +3667,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11346
+      "UsersEstimate": 11348
     },
     {
       "ID": "ACH_AE_14",
@@ -3670,7 +3675,7 @@
       "Name": "Sticky Situation",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2874
+      "UsersEstimate": 2875
     },
     {
       "ID": "ACH_AE_15",
@@ -3678,7 +3683,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3328
+      "UsersEstimate": 3329
     },
     {
       "ID": "ACH_AE_16",
@@ -3718,7 +3723,7 @@
       "Name": "Back to School",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3479
+      "UsersEstimate": 3480
     },
     {
       "ID": "ACH_AE_20",
@@ -3742,7 +3747,7 @@
       "Name": "The High Road",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 3479
+      "UsersEstimate": 3480
     },
     {
       "ID": "ACH_AE_23",
@@ -3870,7 +3875,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "ACH_AE_6",
@@ -3909,7 +3914,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15128,
+      "Progressed": 15131,
       "Completed": 15
     }
   ],
@@ -3917,8 +3922,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-13T16:00:23.030195+00:00",
-  "LastChanged_Achievements": "2023-12-14T12:10:05.6252047+00:00",
+  "LastChanged_Achievements": "2023-12-14T13:16:01.0106567+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:28.350985+00:00",
-  "LastUpdate_Ratings": "2023-12-14T12:01:10.096943+00:00",
-  "LastUpdate_Achievements": "2023-12-14T12:10:05.6252366+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:06:09.2369841+00:00",
+  "LastUpdate_Achievements": "2023-12-14T13:16:01.0106945+00:00"
 }

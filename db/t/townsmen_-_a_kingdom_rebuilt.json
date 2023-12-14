@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 385,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4367,
+  "EOS_Progressed": 4368,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1662,6 +1662,11 @@
       "Time": "2023-12-14T08:10:57.2931132+00:00",
       "NumProgressed": 4367,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-14T13:16:51.1937816+00:00",
+      "NumProgressed": 4368,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -2423,9 +2428,9 @@
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION01",
       "SetID": "9eacipp",
       "Name": "A new beginning",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 524
+      "UsersEstimate": 568
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
@@ -2480,15 +2485,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4367,
+      "Progressed": 4368,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-04T22:59:34.0965429+00:00",
-  "LastChanged_Achievements": "2023-12-14T12:11:12.090678+00:00",
+  "LastChanged_Achievements": "2023-12-14T13:16:51.1937812+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:57.9071019+00:00",
-  "LastUpdate_Ratings": "2023-12-14T11:58:42.3414874+00:00",
-  "LastUpdate_Achievements": "2023-12-14T12:11:12.0907761+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:04:29.8242468+00:00",
+  "LastUpdate_Achievements": "2023-12-14T13:16:51.193881+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 9.00% | ~302 |
+| Executioner | 10.00% | ~336 |
 | Look Over There! | 8.00% | ~269 |
 | Not So Fast... | 8.00% | ~269 |
 | Watch Where You Step... | 8.00% | ~269 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,359 (Ranked 211)  
+Progressed: 3,360 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-10 | 3,346 | 0 |
 | 2023-12-12 | 3,348 | 0 |
 | 2023-12-13 | 3,351 | 0 |
-| 2023-12-14 | 3,359 | 0 |
+| 2023-12-14 | 3,360 | 0 |
 ## Awards
 Max (Character Customization): 227  (Ranked 278)  
 Sum: 488 (Ranked 332)  

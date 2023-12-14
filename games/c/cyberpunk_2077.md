@@ -6,23 +6,23 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,094 |
-| Gun Fu | 7.00% | ~68,305 |
-| Right Back At Ya | 6.00% | ~58,547 |
-| The Fool | 6.00% | ~58,547 |
-| The Lovers | 5.00% | ~48,789 |
-| Full Body Conversion | 4.00% | ~39,031 |
-| Stanislavski's Method | 4.00% | ~39,031 |
-| The Wheel of Fortune | 4.00% | ~39,031 |
-| True Soldier | 4.00% | ~39,031 |
-| All the President's Men | 4.00% | ~4,176 |
-| Christmas Tree Attack | 3.00% | ~29,273 |
-| The Hermit | 3.00% | ~29,273 |
-| The High Priestess | 3.00% | ~29,273 |
-| True Warrior | 3.00% | ~29,273 |
-| Legend of The Afterlife | 3.00% | ~29,273 |
-| Relic Ruler | 3.00% | ~3,132 |
-| Arachnophobia | 3.00% | ~3,132 |
+| V for Vendetta | 12.00% | ~117,098 |
+| Gun Fu | 7.00% | ~68,307 |
+| Right Back At Ya | 6.00% | ~58,549 |
+| The Fool | 6.00% | ~58,549 |
+| The Lovers | 5.00% | ~48,791 |
+| Full Body Conversion | 4.00% | ~39,033 |
+| Stanislavski's Method | 4.00% | ~39,033 |
+| The Wheel of Fortune | 4.00% | ~39,033 |
+| True Soldier | 4.00% | ~39,033 |
+| All the President's Men | 4.00% | ~4,178 |
+| Christmas Tree Attack | 3.00% | ~29,275 |
+| The Hermit | 3.00% | ~29,275 |
+| The High Priestess | 3.00% | ~29,275 |
+| True Warrior | 3.00% | ~29,275 |
+| Legend of The Afterlife | 3.00% | ~29,275 |
+| Relic Ruler | 3.00% | ~3,133 |
+| Arachnophobia | 3.00% | ~3,133 |
 | Bushido and Chill | 2.00% | ~19,516 |
 | Master Crafter | 2.00% | ~19,516 |
 | I Am The Law | 2.00% | ~19,516 |
@@ -36,11 +36,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Spin Doctor | 1.00% | ~1,044 |
 | Easy Come, Easy Go | 1.00% | ~1,044 |
 | King of Wands | 0.90% | ~940 |
-| Ten out of Ten | 0.80% | ~7,806 |
-| The Sun | 0.80% | ~7,806 |
-| Dirty Deeds | 0.80% | ~835 |
-| To Bad Decisions! | 0.70% | ~6,830 |
-| The Star | 0.70% | ~6,830 |
+| Ten out of Ten | 0.80% | ~7,807 |
+| The Sun | 0.80% | ~7,807 |
+| Dirty Deeds | 0.80% | ~836 |
+| To Bad Decisions! | 0.70% | ~6,831 |
+| The Star | 0.70% | ~6,831 |
 | Breathtaking | 0.60% | ~5,855 |
 | Autojock | 0.50% | ~4,879 |
 | Must Be Rats | 0.50% | ~4,879 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975,783 (Ranked 15)  
+Progressed: 975,818 (Ranked 15)  
 Completed: 2,903 (0.30%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 2,903 (0.30%) (Ranked 241)
 | 2023-12-11 | 974,702 | 2,886 |
 | 2023-12-12 | 975,121 | 2,891 |
 | 2023-12-13 | 975,519 | 2,900 |
-| 2023-12-14 | 975,783 | 2,903 |
+| 2023-12-14 | 975,818 | 2,903 |
 ## Awards
 Max (Character Customization): 122,342  (Ranked 9)  
 Sum: 417,115 (Ranked 9)  

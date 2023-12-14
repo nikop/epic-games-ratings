@@ -13,12 +13,12 @@ Rating: 3.95 (Ranked 1,026)
 | King of the Hill | 2.00% | ~1,838 |
 | Fancy Pants | 2.00% | ~1,838 |
 | Off the Rocks | 2.00% | ~1,838 |
+| Raider’s Ruin | 2.00% | ~1,838 |
 | Dragonslayer | 2.00% | ~1,838 |
 | Roid Ranger | 1.00% | ~919 |
 | Hidden Sonata | 1.00% | ~919 |
 | Case Closed | 1.00% | ~919 |
 | True Player | 1.00% | ~919 |
-| Raider’s Ruin | 1.00% | ~919 |
 | Rockay Rex | 1.00% | ~919 |
 | Track Star | 0.90% | ~827 |
 | Headhunter | 0.80% | ~735 |

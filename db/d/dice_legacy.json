@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -53,9 +53,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1193,
+  "EOS_Progressed": 1195,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2278,6 +2278,11 @@
       "Time": "2023-12-13T20:08:34.0818414+00:00",
       "NumProgressed": 1193,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T13:15:09.736781+00:00",
+      "NumProgressed": 1195,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2409,7 +2414,7 @@
       "Name": "Manipulating Fate",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "DIE_MAX_POWER",
@@ -2513,7 +2518,7 @@
       "Name": "We made it",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -2648,7 +2653,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1193,
+      "Progressed": 1195,
       "Completed": 0
     }
   ],
@@ -2656,8 +2661,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-11-18T18:58:25.1922744+00:00",
-  "LastChanged_Achievements": "2023-12-14T12:08:52.8367996+00:00",
+  "LastChanged_Achievements": "2023-12-14T13:15:09.7367807+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:06.2219482+00:00",
-  "LastUpdate_Ratings": "2023-12-14T12:03:35.6124521+00:00",
-  "LastUpdate_Achievements": "2023-12-14T12:08:52.8368407+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:09:44.3026934+00:00",
+  "LastUpdate_Achievements": "2023-12-14T13:15:09.7368147+00:00"
 }

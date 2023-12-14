@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1613,
+  "EOS_Progressed": 1614,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
@@ -4763,6 +4763,11 @@
       "Time": "2023-12-14T12:10:53.887195+00:00",
       "NumProgressed": 1613,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-14T13:16:36.1954676+00:00",
+      "NumProgressed": 1614,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -4973,9 +4978,9 @@
       "ID": "achievement_121",
       "SetID": "d252ncf",
       "Name": "Paramour II",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 371
+      "UsersEstimate": 355
     },
     {
       "ID": "achievement_122",
@@ -4983,7 +4988,7 @@
       "Name": "Paramour III",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_123",
@@ -4997,9 +5002,9 @@
       "ID": "achievement_124",
       "SetID": "d252ncf",
       "Name": "Recruit",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1081
     },
     {
       "ID": "achievement_125",
@@ -5007,7 +5012,7 @@
       "Name": "Soldier",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "achievement_126",
@@ -5055,7 +5060,7 @@
       "Name": "First Aid Specialist",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "achievement_17",
@@ -5103,7 +5108,7 @@
       "Name": "Medal of Exploration I",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "achievement_22",
@@ -5127,7 +5132,7 @@
       "Name": "Soldier Ally",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "achievement_25",
@@ -5135,7 +5140,7 @@
       "Name": "Sentinel Ally",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "achievement_26",
@@ -5143,7 +5148,7 @@
       "Name": "Krogan Ally",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "achievement_27",
@@ -5159,7 +5164,7 @@
       "Name": "Quarian Ally",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "achievement_29",
@@ -5167,7 +5172,7 @@
       "Name": "Asari Ally",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "achievement_3",
@@ -5175,7 +5180,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "achievement_30",
@@ -5191,7 +5196,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "achievement_32",
@@ -5255,7 +5260,7 @@
       "Name": "Ghost Ship",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "achievement_4",
@@ -5263,7 +5268,7 @@
       "Name": "Council Legion of Merit",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "achievement_40",
@@ -5359,7 +5364,7 @@
       "Name": "The Quarian",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "achievement_51",
@@ -5463,7 +5468,7 @@
       "Name": "Head Hunter",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "achievement_63",
@@ -5479,7 +5484,7 @@
       "Name": "Merciless",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "achievement_65",
@@ -5487,7 +5492,7 @@
       "Name": "Overload Specialist",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_66",
@@ -5519,7 +5524,7 @@
       "Name": "Galactic Explorer",
       "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "achievement_7",
@@ -5559,7 +5564,7 @@
       "Name": "Scholar",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "achievement_74",
@@ -5583,7 +5588,7 @@
       "Name": "Broke, Blind, and Bedlam",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "achievement_77",
@@ -5615,7 +5620,7 @@
       "Name": "Warp Mastery",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_80",
@@ -5647,7 +5652,7 @@
       "Name": "Pathfinder",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "achievement_84",
@@ -5655,15 +5660,15 @@
       "Name": "Tunnel Rat",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "achievement_85",
       "SetID": "d252ncf",
       "Name": "Party Crasher",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 355
     },
     {
       "ID": "achievement_86",
@@ -5687,7 +5692,7 @@
       "Name": "Arbiter",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "achievement_89",
@@ -5711,7 +5716,7 @@
       "Name": "Executioner",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "achievement_91",
@@ -5751,7 +5756,7 @@
       "Name": "Patriot",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "achievement_96",
@@ -5759,7 +5764,7 @@
       "Name": "Legend",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "achievement_97",
@@ -5767,7 +5772,7 @@
       "Name": "Shopaholic",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "achievement_98",
@@ -5775,7 +5780,7 @@
       "Name": "Master and Commander",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "achievement_99",
@@ -5790,19 +5795,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 1613,
+      "Progressed": 1614,
       "Completed": 7
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 1613,
+      "Progressed": 1614,
       "Completed": 6
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-14T12:10:53.8871948+00:00",
+  "LastChanged_Achievements": "2023-12-14T13:16:36.1954671+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:15.2992366+00:00",
-  "LastUpdate_Ratings": "2023-12-14T12:03:57.6156698+00:00",
-  "LastUpdate_Achievements": "2023-12-14T12:10:53.8873512+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:09:57.9931091+00:00",
+  "LastUpdate_Achievements": "2023-12-14T13:16:36.1956235+00:00"
 }
