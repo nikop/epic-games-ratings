@@ -6,7 +6,7 @@
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
 | 5 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 55.56% |
 | 6 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.69% |
-| 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.53% |
+| 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.21% |
 | 8 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 38.36% |
 | 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 37.67% |
@@ -19,7 +19,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 21.73% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 21.72% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -167,10 +167,10 @@
 | 165 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.14% |
 | 166 | [Adios](games/a/adios.md) | 1.09% |
 | 167 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
-| 168 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 1.04% |
 | 168 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 1.04% |
 | 168 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
-| 171 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.03% |
+| 170 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 1.03% |
+| 170 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.03% |
 | 172 | [Sable](games/s/sable.md) | 1.01% |
 | 173 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.98% |
 | 174 | [Trifox](games/t/trifox.md) | 0.96% |
@@ -216,8 +216,8 @@
 | 214 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.48% |
 | 214 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
 | 216 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.47% |
-| 217 | [Eternights](games/e/eternights.md) | 0.46% |
-| 218 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
+| 217 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
+| 217 | [Eternights](games/e/eternights.md) | 0.45% |
 | 219 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
 | 219 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.44% |
 | 219 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.44% |
@@ -230,10 +230,10 @@
 | 228 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
 | 228 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.39% |
 | 228 | [Wildermyth](games/w/wildermyth.md) | 0.39% |
+| 231 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.37% |
 | 231 | [The Surge](games/t/the_surge.md) | 0.37% |
 | 231 | [Train Valley](games/t/train_valley.md) | 0.37% |
-| 233 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.36% |
-| 233 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.36% |
+| 234 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.36% |
 | 235 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
 | 235 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.34% |
 | 235 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
@@ -259,12 +259,12 @@
 | 256 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.22% |
 | 258 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 258 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
+| 258 | [Shop Titans](games/s/shop_titans.md) | 0.21% |
 | 258 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.21% |
-| 261 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.20% |
-| 261 | [Lost Ruins](games/l/lost_ruins.md) | 0.20% |
-| 261 | [Scrapnaut](games/s/scrapnaut.md) | 0.20% |
-| 261 | [Shop Titans](games/s/shop_titans.md) | 0.20% |
-| 261 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
+| 262 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.20% |
+| 262 | [Lost Ruins](games/l/lost_ruins.md) | 0.20% |
+| 262 | [Scrapnaut](games/s/scrapnaut.md) | 0.20% |
+| 262 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
 | 266 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.19% |
 | 266 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
 | 266 | [GRIME](games/g/grime.md) | 0.19% |

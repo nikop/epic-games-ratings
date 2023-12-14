@@ -51,7 +51,7 @@
 | 46 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,725 | 69 |
 | 46 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 223 | 282 |
 | 46 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 169 | 312 |
-| 46 | [Subnautica](games/s/subnautica.md) | 4.85 | 770 | 178 |
+| 46 | [Subnautica](games/s/subnautica.md) | 4.85 | 772 | 178 |
 | 53 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.84 | 0 | 562 |
 | 53 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 48 | 445 |
 | 53 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 220 | 283 |
@@ -120,7 +120,7 @@
 | 111 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 29 | 507 |
 | 119 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.77 | 39 | 464 |
 | 119 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 8,462 | 44 |
-| 119 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.77 | 1,937 | 117 |
+| 119 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.77 | 1,941 | 117 |
 | 119 | [Quake](games/q/quake.md) | 4.77 | 52 | 432 |
 | 119 | [Sonic Mania](games/s/sonic_mania.md) | 4.77 | 971 | 159 |
 | 119 | [SpiderHeck](games/s/spiderheck.md) | 4.77 | 0 | 562 |
@@ -375,7 +375,7 @@
 | 370 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.62 | 0 | 562 |
 | 370 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 290 | 261 |
 | 370 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 105 | 360 |
-| 370 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,694 | 126 |
+| 370 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,696 | 126 |
 | 370 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.62 | 0 | 562 |
 | 370 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 607 | 196 |
 | 370 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.62 | 188 | 298 |
