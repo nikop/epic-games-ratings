@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 510,
+  "EOS_Progressed": 511,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1144,6 +1144,11 @@
       "Time": "2023-12-14T08:10:52.5122422+00:00",
       "NumProgressed": 510,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T11:09:53.2357922+00:00",
+      "NumProgressed": 511,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1187,7 +1192,7 @@
       "Name": "Boss Killer",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "BugHunter",
@@ -1225,9 +1230,9 @@
       "ID": "Gladiator",
       "SetID": "82505mn",
       "Name": "Gladiator",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 66
     },
     {
       "ID": "GoblinTales",
@@ -1267,7 +1272,7 @@
       "Name": "Iconoclasm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Inquisitor",
@@ -1283,7 +1288,7 @@
       "Name": "Librarian",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Lumberjack",
@@ -1474,7 +1479,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 510,
+      "Progressed": 511,
       "Completed": 1
     }
   ],
@@ -1482,8 +1487,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-14T10:11:15.4603012+00:00",
+  "LastChanged_Achievements": "2023-12-14T11:09:53.2357919+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:26.5642933+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:01:58.6553425+00:00",
-  "LastUpdate_Achievements": "2023-12-14T10:11:15.4603256+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:00:55.9268046+00:00",
+  "LastUpdate_Achievements": "2023-12-14T11:09:53.2358158+00:00"
 }

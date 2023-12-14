@@ -5,10 +5,10 @@
   "Ranking_Rating": 814,
   "Ranking_Popularity": 563,
   "Ranking_PopularitySum": 563,
-  "Ranking_EOS_Progress": 262,
+  "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1143,
+  "EOS_Progressed": 1144,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1601,6 +1601,11 @@
       "Time": "2023-12-14T08:05:14.1306288+00:00",
       "NumProgressed": 1143,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T11:04:59.2617039+00:00",
+      "NumProgressed": 1144,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -1660,7 +1665,7 @@
       "Name": "Monster Hunter",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "08",
@@ -1668,7 +1673,7 @@
       "Name": "Monster Slayer",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "09",
@@ -1684,7 +1689,7 @@
       "Name": "Huntmaster",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "11",
@@ -1738,9 +1743,9 @@
       "ID": "17",
       "SetID": "73ikgfc",
       "Name": "Ready to Learn",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 709
+      "UsersEstimate": 698
     },
     {
       "ID": "18",
@@ -1780,7 +1785,7 @@
       "Name": "House Vulisica\u0027s Heirloom",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "23",
@@ -1795,7 +1800,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1143,
+      "Progressed": 1144,
       "Completed": 1
     }
   ],
@@ -1803,8 +1808,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2023-12-14T10:05:50.5135417+00:00",
+  "LastChanged_Achievements": "2023-12-14T11:04:59.2617034+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:19.4447569+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:01:49.0822591+00:00",
-  "LastUpdate_Achievements": "2023-12-14T10:05:50.5135633+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:00:47.2737492+00:00",
+  "LastUpdate_Achievements": "2023-12-14T11:04:59.2617241+00:00"
 }

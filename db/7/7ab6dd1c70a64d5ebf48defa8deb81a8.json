@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 309,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -1150,6 +1150,11 @@
       "Time": "2023-12-14T10:11:13.5048609+00:00",
       "NumProgressed": 308,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T11:09:51.6963862+00:00",
+      "NumProgressed": 309,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1185,7 +1190,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_05",
@@ -1281,7 +1286,7 @@
       "Name": "Essence Blow",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_17",
@@ -1393,7 +1398,7 @@
       "Name": "Alchemist",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_31",
@@ -1448,14 +1453,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 309,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-14T10:11:13.5048606+00:00",
+  "LastChanged_Achievements": "2023-12-14T11:09:51.6963857+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-14T09:58:20.5032971+00:00",
-  "LastUpdate_Achievements": "2023-12-14T10:11:13.5048949+00:00"
+  "LastUpdate_Ratings": "2023-12-14T10:58:09.7300383+00:00",
+  "LastUpdate_Achievements": "2023-12-14T11:09:51.6964092+00:00"
 }

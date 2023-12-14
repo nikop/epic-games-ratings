@@ -2,13 +2,13 @@
   "ID": "0756b215f3394428877179923c6e2fa0",
   "Name": "Expeditions: Rome",
   "ProductSlug": "expeditions-rome",
-  "Ranking_Rating": 279,
+  "Ranking_Rating": 280,
   "Ranking_Popularity": 443,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 478,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-01-20T18:00:00+00:00",
     "PcReleaseDate": "2022-01-20T18:00:00+00:00",
@@ -336,6 +336,6 @@
   "FirstSeen": "2022-07-22T20:17:55.9100449+00:00",
   "LastChanged": "2023-10-17T10:57:14.2850921+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.2913385+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:03:10.483896+00:00",
-  "LastUpdate_Achievements": "2023-12-14T10:10:06.9675064+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:01:18.2739482+00:00",
+  "LastUpdate_Achievements": "2023-12-14T11:08:59.2827505+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1707,
+  "EOS_Progressed": 1708,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5144,6 +5144,11 @@
       "Time": "2023-12-14T07:11:15.9311261+00:00",
       "NumProgressed": 1707,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T11:09:55.8522477+00:00",
+      "NumProgressed": 1708,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5188,7 +5193,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "achievement_14",
@@ -5380,7 +5385,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "achievement_36",
@@ -5420,7 +5425,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "achievement_40",
@@ -5659,13 +5664,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1707,
+      "Progressed": 1708,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1707,
+      "Progressed": 1708,
       "Completed": 1
     }
   ],
@@ -5673,8 +5678,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-14T10:11:18.4527155+00:00",
+  "LastChanged_Achievements": "2023-12-14T11:09:55.8522474+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.6035488+00:00",
-  "LastUpdate_Ratings": "2023-12-14T09:58:52.113529+00:00",
-  "LastUpdate_Achievements": "2023-12-14T10:11:18.4527765+00:00"
+  "LastUpdate_Ratings": "2023-12-14T10:58:33.9571819+00:00",
+  "LastUpdate_Achievements": "2023-12-14T11:09:55.8523216+00:00"
 }

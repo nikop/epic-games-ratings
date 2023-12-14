@@ -9,37 +9,37 @@ Number of Ratings: 743  (23.09.2022)
 | Shoot it, man! Shoot it in the head! | 69.00% | ~30,450 |
 | Say goodbye, creep! | 66.00% | ~29,126 |
 | Blood splattered | 66.00% | ~29,126 |
-| Choo choo! | 63.00% | ~27,802 |
+| Choo choo! | 63.00% | ~27,803 |
 | Groovy | 62.00% | ~27,361 |
-| Cleanup on aisle 4! | 57.00% | ~25,154 |
-| Gold | 51.00% | ~22,506 |
+| Cleanup on aisle 4! | 57.00% | ~25,155 |
+| Gold | 51.00% | ~22,507 |
 | The boat can leave now...tell the crew | 49.00% | ~21,624 |
-| Give me something to shoot! | 47.00% | ~20,741 |
-| Stand back boy! | 47.00% | ~20,741 |
-| Chain reaction | 45.00% | ~19,858 |
-| Weird science | 44.00% | ~19,417 |
+| Give me something to shoot! | 47.00% | ~20,742 |
+| Stand back boy! | 47.00% | ~20,742 |
+| Chain reaction | 45.00% | ~19,859 |
+| Weird science | 44.00% | ~19,418 |
 | What did you say, Blain? | 42.00% | ~18,535 |
-| Look mummy! A shark! | 41.00% | ~18,093 |
+| Look mummy! A shark! | 41.00% | ~18,094 |
 | In the dark dark woods... | 39.00% | ~17,211 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,769 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,770 |
 | Double tap | 37.00% | ~16,328 |
 | Cranial blowout! | 37.00% | ~16,328 |
 | All of this has happened before… | 36.00% | ~15,887 |
 | Zombie killin' machine | 36.00% | ~15,887 |
 | Every bullet counts | 36.00% | ~15,887 |
-| All roads lead to Rome | 34.00% | ~15,004 |
-| You've got red on you | 34.00% | ~15,004 |
+| All roads lead to Rome | 34.00% | ~15,005 |
+| You've got red on you | 34.00% | ~15,005 |
 | You're all going to die down here | 32.00% | ~14,122 |
 | He did Nazi that coming | 32.00% | ~14,122 |
-| Kill of the week | 31.00% | ~13,680 |
-| I never liked them anyway | 31.00% | ~13,680 |
-| Is it over? | 28.00% | ~12,356 |
+| Kill of the week | 31.00% | ~13,681 |
+| I never liked them anyway | 31.00% | ~13,681 |
+| Is it over? | 28.00% | ~12,357 |
 | Got your back | 27.00% | ~11,915 |
 | Gore soaked | 24.00% | ~10,591 |
 | Shock therapy | 23.00% | ~10,150 |
 | Leave the limbs you've lost | 23.00% | ~10,150 |
 | Everyone's a mad scientist, life is the lab | 19.00% | ~8,385 |
-| Take them down screaming | 18.00% | ~7,943 |
+| Take them down screaming | 18.00% | ~7,944 |
 | Bad Blood | 17.00% | ~7,502 |
 | Weapons expert | 17.00% | ~7,502 |
 | The bigger they are... | 15.00% | ~6,620 |
@@ -61,8 +61,8 @@ Number of Ratings: 743  (23.09.2022)
 | Staring at Shadows | 6.00% | ~2,648 |
 | I told you we should have gone to the beach | 6.00% | ~2,648 |
 | Hoarder | 6.00% | ~2,648 |
-| Kali Ma | 5.00% | ~2,206 |
-| Have you tried turning it off and on again? | 5.00% | ~2,206 |
+| Kali Ma | 5.00% | ~2,207 |
+| Have you tried turning it off and on again? | 5.00% | ~2,207 |
 | They're coming to get you Barbara | 4.00% | ~1,765 |
 | Total protonic reversal | 4.00% | ~1,765 |
 | A friend in need | 4.00% | ~1,765 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~441 |
 | None more hard | 0.60% | ~265 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,130 (Ranked 118)  
+Progressed: 44,131 (Ranked 118)  
 Completed: 25 (0.06%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,14 +311,14 @@ Completed: 25 (0.06%) (Ranked 316)
 | 2023-12-11 | 44,118 | 25 |
 | 2023-12-12 | 44,123 | 25 |
 | 2023-12-13 | 44,129 | 25 |
-| 2023-12-14 | 44,130 | 25 |
+| 2023-12-14 | 44,131 | 25 |
 ## Awards
-Max (Great Boss Battles): 856  (Ranked 169)  
-Sum: 2,591 (Ranked 193)  
-Diff (max vs sum): -24  
+Max (Great Boss Battles): 858  (Ranked 168)  
+Sum: 2,593 (Ranked 193)  
+Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 856 |
+| This game has Great Boss Battles | 858 |
 | This game is Great for Beginners | 275 |
 | This game has Diverse Characters | 223 |
 | This game is Highly Recommended | 221 |
@@ -564,3 +564,4 @@ Diff (max vs sum): -24
 | 2023-12-10 | 4.69 | - | 855 | 2,587 |
 | 2023-12-11 | 4.69 | - | 856 | 2,588 |
 | 2023-12-13 | 4.69 | - | 856 | 2,591 |
+| 2023-12-14 | 4.69 | - | 858 | 2,593 |

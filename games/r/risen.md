@@ -17,8 +17,8 @@ Rating: 4.58 (Ranked 453)
 | Well-to-do | 41.00% | ~29 |
 | Ladies' man | 41.00% | ~29 |
 | Ferocious wild boars | 32.00% | ~23 |
+| Idiot | 31.00% | ~22 |
 | Beast slayer | 30.00% | ~21 |
-| Idiot | 30.00% | ~21 |
 | Wise man | 27.00% | ~19 |
 | Death of a legend | 27.00% | ~19 |
 | Archaeologist | 27.00% | ~19 |

@@ -6,40 +6,40 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~309,073 |
-| Full garage | 61.00% | ~258,267 |
-| To the eyeballs! | 51.00% | ~215,928 |
-| Individual delivery | 47.00% | ~198,992 |
-| Non-Stop | 45.00% | ~190,525 |
-| Juggler | 36.00% | ~152,420 |
-| Forgot something | 35.00% | ~148,186 |
-| Close call! | 30.00% | ~127,016 |
-| Get out my way | 28.00% | ~118,549 |
-| Common cause | 26.00% | ~110,081 |
-| Critical care | 26.00% | ~110,081 |
-| Mega-railroad | 23.00% | ~97,379 |
-| Upgrade complete | 23.00% | ~97,379 |
-| Just in time! | 18.00% | ~76,210 |
-| Builder | 17.00% | ~71,976 |
-| Long Haul | 17.00% | ~71,864 |
-| Steam Age | 16.00% | ~67,742 |
-| Multilevel road | 15.00% | ~63,508 |
-| Bridgemania | 14.00% | ~59,274 |
-| Need to think | 14.00% | ~59,274 |
-| The Tortoise | 12.00% | ~50,807 |
-| Beginner | 11.00% | ~46,573 |
-| Without a lunch break | 11.00% | ~46,573 |
-| One way | 10.00% | ~42,339 |
-| Relocation | 10.00% | ~42,339 |
-| Industrial Age | 9.00% | ~38,105 |
-| Just One More Valley | 9.00% | ~38,046 |
-| Prick of conscience | 8.00% | ~33,871 |
-| Missed it! | 7.00% | ~29,637 |
-| At the last moment! | 6.00% | ~25,403 |
-| Overseer | 6.00% | ~25,403 |
-| Highlander | 5.00% | ~21,169 |
-| Jewelry accuracy | 5.00% | ~21,169 |
-| Stargazer | 5.00% | ~21,169 |
+| Dealmaker | 73.00% | ~309,081 |
+| Full garage | 61.00% | ~258,273 |
+| To the eyeballs! | 51.00% | ~215,933 |
+| Individual delivery | 47.00% | ~198,997 |
+| Non-Stop | 45.00% | ~190,529 |
+| Juggler | 36.00% | ~152,423 |
+| Forgot something | 35.00% | ~148,189 |
+| Close call! | 30.00% | ~127,019 |
+| Get out my way | 28.00% | ~118,551 |
+| Common cause | 26.00% | ~110,083 |
+| Critical care | 26.00% | ~110,083 |
+| Mega-railroad | 23.00% | ~97,382 |
+| Upgrade complete | 23.00% | ~97,382 |
+| Just in time! | 18.00% | ~76,212 |
+| Builder | 17.00% | ~71,978 |
+| Long Haul | 17.00% | ~71,866 |
+| Steam Age | 16.00% | ~67,744 |
+| Multilevel road | 15.00% | ~63,510 |
+| Bridgemania | 14.00% | ~59,276 |
+| Need to think | 14.00% | ~59,276 |
+| The Tortoise | 12.00% | ~50,808 |
+| Beginner | 11.00% | ~46,574 |
+| Without a lunch break | 11.00% | ~46,574 |
+| One way | 10.00% | ~42,340 |
+| Relocation | 10.00% | ~42,340 |
+| Industrial Age | 9.00% | ~38,106 |
+| Just One More Valley | 9.00% | ~38,047 |
+| Prick of conscience | 8.00% | ~33,872 |
+| Missed it! | 7.00% | ~29,638 |
+| At the last moment! | 6.00% | ~25,404 |
+| Overseer | 6.00% | ~25,404 |
+| Highlander | 5.00% | ~21,170 |
+| Jewelry accuracy | 5.00% | ~21,170 |
+| Stargazer | 5.00% | ~21,170 |
 | Bridge builder | 4.00% | ~16,936 |
 | Electrical Age | 4.00% | ~16,936 |
 | Engineer | 4.00% | ~16,936 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~423 |
 | World Zapper | 0.10% | ~423 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 423,388 (Ranked 45)  
+Progressed: 423,398 (Ranked 45)  
 Completed: 23 (0.01%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,10 +296,10 @@ Completed: 23 (0.01%) (Ranked 351)
 | 2023-12-11 | 422,909 | 23 |
 | 2023-12-12 | 423,089 | 23 |
 | 2023-12-13 | 423,285 | 23 |
-| 2023-12-14 | 423,388 | 23 |
+| 2023-12-14 | 423,398 | 23 |
 ## Awards
 Max (Challenging Puzzles): 961  (Ranked 160)  
-Sum: 1,950 (Ranked 217)  
+Sum: 1,953 (Ranked 217)  
 Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
@@ -308,11 +308,11 @@ Diff (max vs sum): -57
 | This game has Playful Visuals | 111 |
 | This game is Extremely Fun | 105 |
 | This game has Quickly Understood Controls | 104 |
-| This game is Relaxing | 103 |
+| This game is Relaxing | 104 |
 | This game is Highly Recommended | 101 |
 | This game has Challenging Combat | 85 |
 | This game has Amazing Storytelling | 71 |
-| This game has a Creative Community | 68 |
+| This game has a Creative Community | 70 |
 | This game has Amazing Characters | 53 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -521,4 +521,4 @@ Diff (max vs sum): -57
 | 2023-12-11 | 4.44 | - | 957 | 1,943 |
 | 2023-12-12 | 4.44 | - | 958 | 1,946 |
 | 2023-12-13 | 4.44 | - | 958 | 1,947 |
-| 2023-12-14 | 4.44 | - | 961 | 1,950 |
+| 2023-12-14 | 4.44 | - | 961 | 1,953 |

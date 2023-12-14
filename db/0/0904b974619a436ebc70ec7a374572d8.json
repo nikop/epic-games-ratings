@@ -4,8 +4,8 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2020-05-07T16:00:00+00:00",
@@ -226,17 +226,17 @@
       "ID": "ach_picklock13",
       "SetID": "753ghg2",
       "Name": "Butcher shop",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_picklock14",
       "SetID": "753ghg2",
       "Name": "Cinema",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_picklock15",
@@ -250,17 +250,17 @@
       "ID": "ach_picklock16",
       "SetID": "753ghg2",
       "Name": "Loft",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_picklock17",
       "SetID": "753ghg2",
       "Name": "Transport company",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_picklock18",
@@ -362,9 +362,9 @@
       "ID": "ach_picklock7",
       "SetID": "753ghg2",
       "Name": "Good movie",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_picklock8",
@@ -393,8 +393,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-12-14T10:11:01.0046602+00:00",
+  "LastChanged_Achievements": "2023-12-14T11:09:41.4137493+00:00",
   "LastUpdate_AppInfo": "2023-12-13T08:56:58.7290951+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:03:40.9025865+00:00",
-  "LastUpdate_Achievements": "2023-12-14T10:11:01.0046866+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:03:20.4840973+00:00",
+  "LastUpdate_Achievements": "2023-12-14T11:09:41.4137648+00:00"
 }

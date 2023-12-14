@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -3337,9 +3337,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 86031,
+  "EOS_Progressed": 86032,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 751,
+  "EOS_NewPlayers": 750,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -29907,6 +29907,11 @@
       "Time": "2023-12-14T09:04:35.0466304+00:00",
       "NumProgressed": 86031,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-12-14T11:04:23.9143509+00:00",
+      "NumProgressed": 86032,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 30,
@@ -29958,7 +29963,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9463
+      "UsersEstimate": 9464
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -29974,7 +29979,7 @@
       "Name": "Most Achievements",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9463
+      "UsersEstimate": 9464
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -29998,7 +30003,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 31831
+      "UsersEstimate": 31832
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -30110,7 +30115,7 @@
       "Name": "Frequent tester",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6882
+      "UsersEstimate": 6883
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -30118,7 +30123,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 9463
+      "UsersEstimate": 9464
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -30134,7 +30139,7 @@
       "Name": "Grand champion",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9463
+      "UsersEstimate": 9464
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -30150,22 +30155,22 @@
       "Name": "Determined",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6882
+      "UsersEstimate": 6883
     }
   ],
   "AchievementSets": [
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 86031,
+      "Progressed": 86032,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-12-13T20:58:38.8126258+00:00",
-  "LastChanged_Achievements": "2023-12-14T10:05:05.5295372+00:00",
+  "LastChanged_Achievements": "2023-12-14T11:04:23.9143506+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:46.6200613+00:00",
-  "LastUpdate_Ratings": "2023-12-14T09:59:45.4054625+00:00",
-  "LastUpdate_Achievements": "2023-12-14T10:05:05.5296688+00:00"
+  "LastUpdate_Ratings": "2023-12-14T10:59:13.7146021+00:00",
+  "LastUpdate_Achievements": "2023-12-14T11:04:23.9144767+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "bio-inc-redemption-280fe5",
   "Ranking_EOS_Progress": 633,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
     "PcReleaseDate": "2018-03-08T05:00:00+00:00",
@@ -272,9 +272,9 @@
       "ID": "RespiratoryCollapse",
       "SetID": "aaidab7",
       "Name": "Respiratory Collapse",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RichieRich",
@@ -288,9 +288,9 @@
       "ID": "SilentKiller",
       "SetID": "aaidab7",
       "Name": "Silent Killer",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SkeletalCollapse",
@@ -334,8 +334,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2023-12-14T10:05:24.8244358+00:00",
+  "LastChanged_Achievements": "2023-12-14T11:04:38.8087204+00:00",
   "LastUpdate_AppInfo": "2023-12-12T03:57:09.7303206+00:00",
-  "LastUpdate_Ratings": "2023-12-14T09:58:52.5010789+00:00",
-  "LastUpdate_Achievements": "2023-12-14T10:05:24.824461+00:00"
+  "LastUpdate_Ratings": "2023-12-14T10:58:34.2763401+00:00",
+  "LastUpdate_Achievements": "2023-12-14T11:04:38.8087426+00:00"
 }

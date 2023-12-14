@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~27,757 |
-| Safety in the Storm | 24.00% | ~7,012 |
-| A Better Idea | 24.00% | ~7,012 |
-| Begin the Ceremony | 20.00% | ~5,844 |
-| Mission Accomplished | 19.00% | ~5,551 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~4,383 |
-| Asset Secured | 13.00% | ~3,798 |
-| A Starfighter of Your Own | 13.00% | ~3,798 |
-| Unkillable | 8.00% | ~2,337 |
-| Together, Vanguard | 7.00% | ~2,045 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~1,753 |
-| Sound Strategy | 6.00% | ~1,753 |
-| Stomped | 5.00% | ~1,461 |
-| A Promising Career | 5.00% | ~1,461 |
+| Fracture at Fostar Haven | 95.00% | ~27,768 |
+| Safety in the Storm | 24.00% | ~7,015 |
+| A Better Idea | 24.00% | ~7,015 |
+| Begin the Ceremony | 20.00% | ~5,846 |
+| Mission Accomplished | 19.00% | ~5,554 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~4,384 |
+| Asset Secured | 13.00% | ~3,800 |
+| A Starfighter of Your Own | 13.00% | ~3,800 |
+| Unkillable | 8.00% | ~2,338 |
+| Together, Vanguard | 7.00% | ~2,046 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~1,754 |
+| Sound Strategy | 6.00% | ~1,754 |
+| Stomped | 5.00% | ~1,462 |
+| A Promising Career | 5.00% | ~1,462 |
 | Great Shot, Kid | 4.00% | ~1,169 |
 | Fearless | 4.00% | ~1,169 |
 | Back From the Brink | 4.00% | ~1,169 |
@@ -28,8 +28,8 @@
 | Squadron Hunter | 3.00% | ~877 |
 | Punch It | 3.00% | ~877 |
 | Combat Pilot | 3.00% | ~877 |
-| Stun 'Em | 2.00% | ~584 |
-| Dressed for the Job You Want | 2.00% | ~584 |
+| Stun 'Em | 2.00% | ~585 |
+| Dressed for the Job You Want | 2.00% | ~585 |
 | I Have You Now | 1.00% | ~292 |
 | Against the Current | 0.90% | ~263 |
 | Denied | 0.70% | ~205 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~29 |
 | The Galaxy's Finest (Ace) | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,218 (Ranked 128)  
+Progressed: 29,230 (Ranked 128)  
 Completed: 2 (0.01%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 2 (0.01%) (Ranked 351)
 | 2023-12-11 | 28,645 | 2 |
 | 2023-12-12 | 28,866 | 2 |
 | 2023-12-13 | 29,132 | 2 |
-| 2023-12-14 | 29,218 | 2 |
+| 2023-12-14 | 29,230 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

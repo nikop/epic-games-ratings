@@ -13,7 +13,7 @@ Number of Ratings: 90  (23.09.2022)
 | Shop Til They Drop | 25.00% | ~13 |
 | I Look Up As I Walk to Takoshima | 17.00% | ~9 |
 | Earthly Pleasures | 17.00% | ~9 |
-| Upgreatest | 15.00% | ~8 |
+| Upgreatest | 17.00% | ~9 |
 | Pimp My Raid | 13.00% | ~7 |
 | Cult Following | 11.00% | ~6 |
 | Bodied Sattva | 11.00% | ~6 |

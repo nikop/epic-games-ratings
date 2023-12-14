@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9678,9 +9678,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126865,
+  "EOS_Progressed": 126882,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1125,
+  "EOS_NewPlayers": 1139,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34958,6 +34958,11 @@
       "Time": "2023-12-14T10:09:58.0174553+00:00",
       "NumProgressed": 126865,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T11:08:52.3652904+00:00",
+      "NumProgressed": 126882,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35073,7 +35078,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -35097,7 +35102,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2537
+      "UsersEstimate": 2538
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35121,7 +35126,7 @@
       "Name": "Not Today!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2537
+      "UsersEstimate": 2538
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35145,7 +35150,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "combat_kill_gaunts",
@@ -35161,7 +35166,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -35185,7 +35190,7 @@
       "Name": "Catch and Decease",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2537
+      "UsersEstimate": 2538
     },
     {
       "ID": "combat_kill_librarian",
@@ -35193,7 +35198,7 @@
       "Name": "Overdue Notice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2537
+      "UsersEstimate": 2538
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35209,7 +35214,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2537
+      "UsersEstimate": 2538
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35321,7 +35326,7 @@
       "Name": "Autodidact",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2537
+      "UsersEstimate": 2538
     },
     {
       "ID": "hero_story_complete_all",
@@ -35401,7 +35406,7 @@
       "Name": "Utopia",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -35489,7 +35494,7 @@
       "Name": "Battle Hardened",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -35505,7 +35510,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "combat_kill_collector",
@@ -35513,7 +35518,7 @@
       "Name": "This guy... again?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35553,7 +35558,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -35575,9 +35580,9 @@
       "ID": "relationships_positive_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "Friends \u0027Til the End",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -35585,7 +35590,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -35600,21 +35605,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126865,
+      "Progressed": 126882,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1734,
+      "Progressed": 1751,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-14T05:00:52.0976777+00:00",
-  "LastChanged_Achievements": "2023-12-14T10:09:58.0174548+00:00",
+  "LastChanged_Achievements": "2023-12-14T11:08:52.3652899+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:01:16.5617935+00:00",
-  "LastUpdate_Achievements": "2023-12-14T10:09:58.0176007+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:00:22.4462575+00:00",
+  "LastUpdate_Achievements": "2023-12-14T11:08:52.3654362+00:00"
 }

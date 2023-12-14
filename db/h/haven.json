@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1571,
+  "EOS_Progressed": 1572,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -2343,6 +2343,11 @@
       "Time": "2023-12-14T08:06:43.6557883+00:00",
       "NumProgressed": 1571,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-14T11:06:13.7855635+00:00",
+      "NumProgressed": 1572,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2370,7 +2375,7 @@
       "Name": "Strike!",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "12",
@@ -2418,7 +2423,7 @@
       "Name": "Balding bloot!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "18",
@@ -2506,7 +2511,7 @@
       "Name": "A love supreme",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "3",
@@ -2562,7 +2567,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "7",
@@ -2578,7 +2583,7 @@
       "Name": "Over my dead body",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "9",
@@ -2593,15 +2598,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1571,
+      "Progressed": 1572,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-14T10:07:25.9690874+00:00",
+  "LastChanged_Achievements": "2023-12-14T11:06:13.785563+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:06.0236888+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:00:55.0166646+00:00",
-  "LastUpdate_Achievements": "2023-12-14T10:07:25.9691158+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:00:06.0084117+00:00",
+  "LastUpdate_Achievements": "2023-12-14T11:06:13.7855856+00:00"
 }

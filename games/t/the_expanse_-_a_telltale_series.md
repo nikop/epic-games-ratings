@@ -23,8 +23,8 @@ Rating: 4.53 (Ranked 547)
 | Data Archivist | 5.00% | ~808 |
 | Drug Gifter | 5.00% | ~808 |
 | Heal Thy Medic | 5.00% | ~808 |
-| Thorston Mayer | 4.00% | ~646 |
-| Khan's Revenge | 4.00% | ~646 |
+| Thorston Mayer | 4.00% | ~647 |
+| Khan's Revenge | 4.00% | ~647 |
 | Master Negotiator | 4.00% | ~85 |
 | Doctor Approved | 3.00% | ~485 |
 | Bottoms up! | 3.00% | ~485 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 547)
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,159 (Ranked 152)  
+Progressed: 16,164 (Ranked 152)  
 Completed: 43 (0.27%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 43 (0.27%) (Ranked 246)
 | 2023-12-11 | 16,062 | 42 |
 | 2023-12-12 | 16,078 | 42 |
 | 2023-12-13 | 16,124 | 43 |
-| 2023-12-14 | 16,159 | 43 |
+| 2023-12-14 | 16,164 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

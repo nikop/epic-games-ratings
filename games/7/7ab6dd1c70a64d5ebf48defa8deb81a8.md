@@ -20,9 +20,9 @@
 | Stone Collection | 9.00% | ~28 |
 | The Mentor | 7.00% | ~22 |
 | Big Bazar | 7.00% | ~22 |
-| Calm before the Storm | 6.00% | ~18 |
-| Essence Blow | 6.00% | ~18 |
-| Alchemist | 6.00% | ~18 |
+| Calm before the Storm | 6.00% | ~19 |
+| Essence Blow | 6.00% | ~19 |
+| Alchemist | 6.00% | ~19 |
 | To Battle | 5.00% | ~15 |
 | Godslayer | 5.00% | ~15 |
 | Fine Feathers Make Fine Birds | 5.00% | ~15 |
@@ -41,7 +41,7 @@
 | Shardbearer | 1.00% | ~3 |
 | Feeling Fancy | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 308 (Ranked 360)  
+Progressed: 309 (Ranked 360)  
 Completed: 3 (0.97%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,4 +104,4 @@ Completed: 3 (0.97%) (Ranked 172)
 | 2023-12-11 | 264 | 2 |
 | 2023-12-12 | 265 | 2 |
 | 2023-12-13 | 282 | 3 |
-| 2023-12-14 | 308 | 3 |
+| 2023-12-14 | 309 | 3 |

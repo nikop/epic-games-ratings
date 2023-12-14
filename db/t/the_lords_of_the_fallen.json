@@ -6,9 +6,9 @@
   "Ranking_Popularity": 293,
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 218,
-  "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 311,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -909,11 +909,11 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2665,
+  "EOS_Progressed": 2676,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.08,
+  "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
     {
       "Time": "2023-10-23T12:04:43.604232+00:00",
@@ -4674,6 +4674,11 @@
       "Time": "2023-12-14T10:09:29.7633448+00:00",
       "NumProgressed": 2665,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-14T11:08:30.0234434+00:00",
+      "NumProgressed": 2676,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -4692,9 +4697,9 @@
       "ID": "TLOTF_ACHIEVEMENT_002",
       "SetID": "87e61g",
       "Name": "A Veil Lifted",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_003",
@@ -4724,9 +4729,9 @@
       "ID": "TLOTF_ACHIEVEMENT_006",
       "SetID": "87e61g",
       "Name": "What Sights Contained Within",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_007",
@@ -4748,25 +4753,25 @@
       "ID": "TLOTF_ACHIEVEMENT_009",
       "SetID": "87e61g",
       "Name": "Inferno Adept",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_010",
       "SetID": "87e61g",
       "Name": "Radiant Adept",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_011",
       "SetID": "87e61g",
       "Name": "Umbral Adept",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_012",
@@ -4780,9 +4785,9 @@
       "ID": "TLOTF_ACHIEVEMENT_013",
       "SetID": "87e61g",
       "Name": "Gesture Collector",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_014",
@@ -4812,9 +4817,9 @@
       "ID": "TLOTF_ACHIEVEMENT_017",
       "SetID": "87e61g",
       "Name": "Rune Master",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_018",
@@ -4844,9 +4849,9 @@
       "ID": "TLOTF_ACHIEVEMENT_021",
       "SetID": "87e61g",
       "Name": "Shared Triumph",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_022",
@@ -4868,9 +4873,9 @@
       "ID": "TLOTF_ACHIEVEMENT_024",
       "SetID": "87e61g",
       "Name": "Infernal Offerings",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_025",
@@ -4940,41 +4945,41 @@
       "ID": "TLOTF_ACHIEVEMENT_033",
       "SetID": "87e61g",
       "Name": "Wings of Grief",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_034",
       "SetID": "87e61g",
       "Name": "Twin Faces of Sin",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_035",
       "SetID": "87e61g",
       "Name": "Judgement",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_036",
       "SetID": "87e61g",
       "Name": "Hunt\u0027s End",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_037",
       "SetID": "87e61g",
       "Name": "The King is Dead",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_038",
@@ -5020,9 +5025,9 @@
       "ID": "TLOTF_ACHIEVEMENT_043",
       "SetID": "87e61g",
       "Name": "Travels Resumed",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_044",
@@ -5036,9 +5041,9 @@
       "ID": "TLOTF_ACHIEVEMENT_045",
       "SetID": "87e61g",
       "Name": "Hero Worship",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_046",
@@ -5060,9 +5065,9 @@
       "ID": "TLOTF_ACHIEVEMENT_048",
       "SetID": "87e61g",
       "Name": "Without Purpose",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_049",
@@ -5092,9 +5097,9 @@
       "ID": "TLOTF_ACHIEVEMENT_052",
       "SetID": "87e61g",
       "Name": "Lord of the Risen",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_053",
@@ -5116,9 +5121,9 @@
       "ID": "TLOTF_ACHIEVEMENT_055",
       "SetID": "87e61g",
       "Name": "A Shadow Dispelled",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_056",
@@ -5189,7 +5194,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 2665,
+      "Progressed": 2676,
       "Completed": 2
     }
   ],
@@ -5197,8 +5202,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-14T07:59:43.4058204+00:00",
-  "LastChanged_Achievements": "2023-12-14T10:09:29.7633443+00:00",
+  "LastChanged_Achievements": "2023-12-14T11:08:30.023443+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:58.7777436+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:00:16.2477299+00:00",
-  "LastUpdate_Achievements": "2023-12-14T10:09:29.7634125+00:00"
+  "LastUpdate_Ratings": "2023-12-14T10:59:36.8530231+00:00",
+  "LastUpdate_Achievements": "2023-12-14T11:08:30.0234972+00:00"
 }

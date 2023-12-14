@@ -4,8 +4,8 @@
   "ProductSlug": "grim-nights-fa4c5a",
   "Ranking_EOS_Progress": 499,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 422,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
     "PcReleaseDate": "2018-10-11T22:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 59,
+  "EOS_Progressed": 60,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -326,6 +326,11 @@
       "Time": "2023-12-13T22:05:00.6111682+00:00",
       "NumProgressed": 59,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T11:05:40.4702858+00:00",
+      "NumProgressed": 60,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -359,7 +364,7 @@
       "ID": "ach_bunny10",
       "SetID": "c2c0fb6",
       "Name": "Poor things...",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
       "UsersEstimate": 33
     },
@@ -407,7 +412,7 @@
       "ID": "ach_level2",
       "SetID": "c2c0fb6",
       "Name": "Getting somewhere",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 30,
       "UsersEstimate": 35
     },
@@ -415,7 +420,7 @@
       "ID": "ach_level3",
       "SetID": "c2c0fb6",
       "Name": "Top notch!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 70,
       "UsersEstimate": 18
     },
@@ -431,7 +436,7 @@
       "ID": "ach_rich",
       "SetID": "c2c0fb6",
       "Name": "Bling bling!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
       "UsersEstimate": 14
     },
@@ -439,7 +444,7 @@
       "ID": "ach_slay1000",
       "SetID": "c2c0fb6",
       "Name": "Slaughter",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
       "UsersEstimate": 11
     },
@@ -456,7 +461,7 @@
     {
       "ID": "c2c0fb6",
       "IsBase": true,
-      "Progressed": 59,
+      "Progressed": 60,
       "Completed": 0
     }
   ],
@@ -464,8 +469,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-12-14T10:06:43.2232943+00:00",
+  "LastChanged_Achievements": "2023-12-14T11:05:40.4702854+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:09.8060505+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:02:51.0027399+00:00",
-  "LastUpdate_Achievements": "2023-12-14T10:06:43.2233104+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:01:04.8733771+00:00",
+  "LastUpdate_Achievements": "2023-12-14T11:05:40.4702948+00:00"
 }

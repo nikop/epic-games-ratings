@@ -4,57 +4,57 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 99.00% | ~408 |
-| Hidden History | 80.00% | ~330 |
-| Commencing of Quests | 72.00% | ~297 |
-| Budding Conjuror | 71.00% | ~293 |
-| Man-Machine Master | 61.00% | ~251 |
-| Charmed by the Hunt | 61.00% | ~251 |
-| Fusion Conjuror | 60.00% | ~247 |
-| Mountain Splitter | 60.00% | ~247 |
-| Subsistence Skills | 60.00% | ~247 |
-| Memory Rouser | 59.00% | ~243 |
-| Kemono Hunter | 55.00% | ~227 |
-| Expert Conjuror | 52.00% | ~214 |
-| Flawless Crystal | 51.00% | ~210 |
-| Bonds of Enmity | 50.00% | ~206 |
-| Helpful Heart | 50.00% | ~206 |
-| Distance Devourer | 49.00% | ~202 |
-| Master of the Skies | 45.00% | ~185 |
-| Counter Specialist | 45.00% | ~185 |
-| Axer of Auspice | 42.00% | ~173 |
-| Mighty Marmelizer | 40.00% | ~165 |
-| Fair Means or Foul | 40.00% | ~165 |
-| Single Minded | 37.00% | ~152 |
-| Kemono at Heart | 37.00% | ~152 |
-| Snare Specialist | 36.00% | ~148 |
-| Artful Assister | 35.00% | ~144 |
-| Karakuri Trail | 33.00% | ~136 |
-| Team Hunter | 32.00% | ~132 |
-| Reincarnation Cycle Stopper | 31.00% | ~128 |
-| Karakuri Isle | 29.00% | ~119 |
-| Unrivaled in Arms | 26.00% | ~107 |
-| Left Arm Leverager | 25.00% | ~103 |
-| Style Seeker | 25.00% | ~103 |
-| Human Believer | 25.00% | ~103 |
-| Karakuri Minato | 24.00% | ~99 |
-| Canyon of Karakuri | 23.00% | ~95 |
-| Threaded Harmony | 23.00% | ~95 |
-| Quintessence of Form | 20.00% | ~82 |
-| Karakuri Fortress | 19.00% | ~78 |
-| Jack of All Trades | 19.00% | ~78 |
-| Haven Hunter | 18.00% | ~74 |
-| Volatile Vocation | 17.00% | ~70 |
-| Tender Touch | 16.00% | ~66 |
-| Superlative View | 16.00% | ~66 |
+| Land of the Rising Sun | 100.00% | ~417 |
+| Hidden History | 80.00% | ~334 |
+| Commencing of Quests | 71.00% | ~296 |
+| Budding Conjuror | 70.00% | ~292 |
+| Man-Machine Master | 61.00% | ~254 |
+| Charmed by the Hunt | 61.00% | ~254 |
+| Mountain Splitter | 60.00% | ~250 |
+| Subsistence Skills | 60.00% | ~250 |
+| Fusion Conjuror | 59.00% | ~246 |
+| Memory Rouser | 59.00% | ~246 |
+| Kemono Hunter | 55.00% | ~229 |
+| Expert Conjuror | 52.00% | ~217 |
+| Flawless Crystal | 50.00% | ~208 |
+| Distance Devourer | 49.00% | ~204 |
+| Bonds of Enmity | 49.00% | ~204 |
+| Helpful Heart | 49.00% | ~204 |
+| Master of the Skies | 45.00% | ~188 |
+| Counter Specialist | 45.00% | ~188 |
+| Axer of Auspice | 42.00% | ~175 |
+| Mighty Marmelizer | 40.00% | ~167 |
+| Fair Means or Foul | 40.00% | ~167 |
+| Single Minded | 37.00% | ~154 |
+| Kemono at Heart | 37.00% | ~154 |
+| Snare Specialist | 36.00% | ~150 |
+| Artful Assister | 35.00% | ~146 |
+| Karakuri Trail | 33.00% | ~138 |
+| Team Hunter | 31.00% | ~129 |
+| Reincarnation Cycle Stopper | 31.00% | ~129 |
+| Karakuri Isle | 29.00% | ~121 |
+| Left Arm Leverager | 25.00% | ~104 |
+| Unrivaled in Arms | 25.00% | ~104 |
+| Style Seeker | 24.00% | ~100 |
+| Human Believer | 24.00% | ~100 |
+| Karakuri Minato | 24.00% | ~100 |
+| Canyon of Karakuri | 23.00% | ~96 |
+| Threaded Harmony | 22.00% | ~92 |
+| Quintessence of Form | 20.00% | ~83 |
+| Karakuri Fortress | 19.00% | ~79 |
+| Jack of All Trades | 19.00% | ~79 |
+| Haven Hunter | 18.00% | ~75 |
+| Volatile Vocation | 17.00% | ~71 |
+| Tender Touch | 16.00% | ~67 |
+| Superlative View | 15.00% | ~63 |
 | Relentless Kemono Hunter | 13.00% | ~54 |
-| Vanquisher of the Volatile | 12.00% | ~49 |
-| Big Spender | 10.00% | ~41 |
-| Bewitched by Bathing | 9.00% | ~37 |
+| Vanquisher of the Volatile | 12.00% | ~50 |
+| Big Spender | 10.00% | ~42 |
+| Bewitched by Bathing | 9.00% | ~38 |
 | Tsukumo Whisperer | 6.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 412 (Ranked 336)  
-Completed: 8 (1.94%) (Ranked 130)  
+Progressed: 417 (Ranked 334)  
+Completed: 8 (1.92%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -143,4 +143,4 @@ Completed: 8 (1.94%) (Ranked 130)
 | 2023-12-11 | 381 | 8 |
 | 2023-12-12 | 384 | 8 |
 | 2023-12-13 | 394 | 8 |
-| 2023-12-14 | 412 | 8 |
+| 2023-12-14 | 417 | 8 |

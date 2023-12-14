@@ -4,8 +4,8 @@
   "ProductSlug": "haak-1401cb",
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 478,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
     "PcReleaseDate": "2022-08-25T02:30:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 61,
+  "EOS_Progressed": 62,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -309,6 +309,11 @@
       "Time": "2023-12-06T08:06:19.5188537+00:00",
       "NumProgressed": 61,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T11:08:40.8193077+00:00",
+      "NumProgressed": 62,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -318,9 +323,9 @@
       "ID": "ach_00_glove",
       "SetID": "16n29hg",
       "Name": "Fully Charged",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_01_defeatPing",
@@ -374,9 +379,9 @@
       "ID": "ach_07_foundHidden",
       "SetID": "16n29hg",
       "Name": "Hidden Corner",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_08_hpFrag3",
@@ -430,9 +435,9 @@
       "ID": "ach_14_squeezeDeath",
       "SetID": "16n29hg",
       "Name": "Physics Lesson",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_15_breakTile100",
@@ -775,20 +780,20 @@
     {
       "ID": "16n29hg",
       "IsBase": true,
-      "Progressed": 61,
+      "Progressed": 62,
       "Completed": 0
     },
     {
       "ID": "9je3g3a",
       "IsBase": false,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-12-14T10:09:43.547442+00:00",
+  "LastChanged_Achievements": "2023-12-14T11:08:40.8193073+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.5129796+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:01:34.2151691+00:00",
-  "LastUpdate_Achievements": "2023-12-14T10:09:43.5474775+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:00:35.8784694+00:00",
+  "LastUpdate_Achievements": "2023-12-14T11:08:40.8193549+00:00"
 }

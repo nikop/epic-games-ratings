@@ -5,11 +5,11 @@ Rating: 4.15 (Ranked 961)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 36.00% | ~24,707 |
-| As Far Away As Possible | 18.00% | ~12,353 |
-| A Most Unstable Organism | 13.00% | ~8,922 |
-| No Time to Follow Protocol | 10.00% | ~6,863 |
-| Float Like a Butterfly... | 8.00% | ~5,490 |
+| Your Lucky Day | 36.00% | ~24,710 |
+| As Far Away As Possible | 18.00% | ~12,355 |
+| A Most Unstable Organism | 13.00% | ~8,923 |
+| No Time to Follow Protocol | 10.00% | ~6,864 |
+| Float Like a Butterfly... | 8.00% | ~5,491 |
 | Nano Connoisseur | 6.00% | ~4,118 |
 | In Two Places At Once | 6.00% | ~4,118 |
 | Pulling Your Weight | 3.00% | ~2,059 |
@@ -22,7 +22,7 @@ Rating: 4.15 (Ranked 961)
 | Gone Rogue | 0.30% | ~206 |
 | Runs for Your Money | 0.30% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,630 (Ranked 103)  
+Progressed: 68,638 (Ranked 104)  
 Completed: 39 (0.06%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,10 +131,10 @@ Completed: 39 (0.06%) (Ranked 316)
 | 2023-12-11 | 68,456 | 39 |
 | 2023-12-12 | 68,509 | 39 |
 | 2023-12-13 | 68,550 | 39 |
-| 2023-12-14 | 68,630 | 39 |
+| 2023-12-14 | 68,638 | 39 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 362)  
-Sum: 416 (Ranked 342)  
+Sum: 419 (Ranked 342)  
 Diff (max vs sum): 20  
 | Award | Count |
 | ----- | ----- |
@@ -142,9 +142,9 @@ Diff (max vs sum): 20
 | This game has Diverse Characters | 74 |
 | This game has a Competitive Community | 54 |
 | This game has Amazing Characters | 54 |
-| This game is Highly Recommended | 52 |
+| This game is Highly Recommended | 53 |
 | This game is Extremely Fun | 49 |
-| This game has Amazing Storytelling | 43 |
+| This game has Amazing Storytelling | 45 |
 | This game has Quickly Understood Controls | 40 |
 | This game is Relaxing | 28 |
 | This game has Unique Visuals | 20 |
@@ -238,4 +238,4 @@ Diff (max vs sum): 20
 | 2023-12-11 | 4.15 | 103 | 409 |
 | 2023-12-12 | 4.15 | 104 | 412 |
 | 2023-12-13 | 4.15 | 104 | 414 |
-| 2023-12-14 | 4.15 | 104 | 416 |
+| 2023-12-14 | 4.15 | 104 | 419 |

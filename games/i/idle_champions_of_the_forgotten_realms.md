@@ -134,6 +134,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Taking Responsibility | 0.10% | ~240 |
 | The Minions of Endelyn Moongrave | 0.10% | ~206 |
 | Love Unsoiled | 0.10% | ~206 |
+| The Play's the Thing! | 0.10% | ~206 |
 | The Bitter End | 0.10% | ~206 |
 | A Nimble Approach | 0.10% | ~206 |
 | The Palace of Heart's Desire | 0.10% | ~206 |
@@ -547,13 +548,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Invisible Wizards of Thay | 0.00% | ~0 |
 | Who Lurks Below? | 0.00% | ~0 |
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
-| The Play's the Thing! | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | No One Can Hear You Scream | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,047 (Ranked 66)  
+Progressed: 240,069 (Ranked 66)  
 Completed: 2,524 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -791,7 +791,7 @@ Completed: 2,524 (1.05%) (Ranked 167)
 | 2023-12-11 | 239,456 | 2,517 |
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
-| 2023-12-14 | 240,047 | 2,524 |
+| 2023-12-14 | 240,069 | 2,524 |
 ## Awards
 Max (Great for Beginners): 5,624  (Ranked 70)  
 Sum: 32,852 (Ranked 41)  

@@ -11,9 +11,9 @@ Number of Ratings: 45  (23.09.2022)
 | Passing Shadow | 4.00% | ~61 |
 | This Too Shall Pass | 4.00% | ~61 |
 | Cutthroat Competitors | 4.00% | ~61 |
+| Daybreak | 4.00% | ~61 |
 | Gotta Ca... Must Collect All of Them | 3.00% | ~46 |
 | How Romantic! | 3.00% | ~46 |
-| Daybreak | 3.00% | ~46 |
 | A Mythic Menagerie | 2.00% | ~30 |
 | Completing the Look | 2.00% | ~30 |
 | Who's Counting? | 2.00% | ~30 |

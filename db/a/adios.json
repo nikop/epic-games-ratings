@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -123,7 +123,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80554,
+  "EOS_Progressed": 80555,
   "EOS_Completed": 877,
   "EOS_NewPlayers": 570,
   "EOS_NewCompleters": 12,
@@ -26608,6 +26608,11 @@
       "Time": "2023-12-14T10:04:32.0890972+00:00",
       "NumProgressed": 80554,
       "NumCompleted": 877
+    },
+    {
+      "Time": "2023-12-14T11:03:57.5781615+00:00",
+      "NumProgressed": 80555,
+      "NumCompleted": 877
     }
   ],
   "TotalAchievements": 25,
@@ -26723,7 +26728,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16916
+      "UsersEstimate": 16917
     },
     {
       "ID": "Meaty",
@@ -26818,7 +26823,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 80554,
+      "Progressed": 80555,
       "Completed": 877
     }
   ],
@@ -26826,8 +26831,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-14T10:04:32.0890969+00:00",
+  "LastChanged_Achievements": "2023-12-14T11:03:57.5781611+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:29.3194806+00:00",
-  "LastUpdate_Ratings": "2023-12-14T09:01:42.4338718+00:00",
-  "LastUpdate_Achievements": "2023-12-14T10:04:32.0892352+00:00"
+  "LastUpdate_Ratings": "2023-12-14T10:57:21.1047727+00:00",
+  "LastUpdate_Achievements": "2023-12-14T11:03:57.5783092+00:00"
 }

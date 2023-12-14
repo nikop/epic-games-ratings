@@ -6,26 +6,26 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 5.00% | ~87 |
-| This guy... again? | 3.00% | ~52 |
-| This Belongs in a Museum | 2.00% | ~2,537 |
-| Not Today! | 2.00% | ~2,537 |
-| Catch and Decease | 2.00% | ~2,537 |
-| Overdue Notice | 2.00% | ~2,537 |
-| Escape from the Black Hole | 2.00% | ~2,537 |
-| Autodidact | 2.00% | ~2,537 |
+| Malpractice Assurance | 5.00% | ~88 |
+| This guy... again? | 3.00% | ~53 |
+| This Belongs in a Museum | 2.00% | ~2,538 |
+| Not Today! | 2.00% | ~2,538 |
+| Catch and Decease | 2.00% | ~2,538 |
+| Overdue Notice | 2.00% | ~2,538 |
+| Escape from the Black Hole | 2.00% | ~2,538 |
+| Autodidact | 2.00% | ~2,538 |
 | Bloody Graduation | 2.00% | ~35 |
 | Lost and Found | 2.00% | ~35 |
 | Serenity Now! | 1.00% | ~1,269 |
 | Creep and Sleep | 1.00% | ~1,269 |
 | Meat and Greet | 1.00% | ~1,269 |
-| Ploughshares to Swords | 1.00% | ~17 |
+| Ploughshares to Swords | 1.00% | ~18 |
 | Rush Hour | 0.90% | ~1,142 |
 | To Grandmother's House | 0.90% | ~1,142 |
 | FNG | 0.90% | ~1,142 |
+| Friends 'Til the End | 0.90% | ~16 |
 | Don't Make Me Turn This Coach Around | 0.80% | ~1,015 |
 | It Rings a Bell | 0.80% | ~1,015 |
-| Friends 'Til the End | 0.80% | ~14 |
 | Dissector | 0.70% | ~888 |
 | Deprogramming | 0.70% | ~888 |
 | It Happens | 0.70% | ~888 |
@@ -52,10 +52,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 0.50% | ~634 |
 | When You Want Something Done Right | 0.50% | ~634 |
 | Unshackled | 0.50% | ~634 |
-| Hope Rekindled | 0.40% | ~507 |
-| Ichthyophobic | 0.40% | ~507 |
-| No More Mouths to Feed | 0.40% | ~507 |
-| Utopia | 0.40% | ~507 |
+| Hope Rekindled | 0.40% | ~508 |
+| Ichthyophobic | 0.40% | ~508 |
+| No More Mouths to Feed | 0.40% | ~508 |
+| Utopia | 0.40% | ~508 |
 | Slap on the Wrist | 0.40% | ~7 |
 | This Looks Familiar | 0.30% | ~381 |
 | Hot Air | 0.30% | ~381 |
@@ -67,8 +67,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Bacon Bits | 0.20% | ~254 |
 | Shrine of Reflection | 0.20% | ~254 |
 | Handled | 0.20% | ~254 |
-| Battle Hardened | 0.20% | ~3 |
-| For Old Time' Sake | 0.20% | ~3 |
+| Battle Hardened | 0.20% | ~4 |
+| For Old Time' Sake | 0.20% | ~4 |
 | A Life Well Lived | 0.10% | ~127 |
 | The World As It Was | 0.10% | ~127 |
 | Loop Year | 0.10% | ~127 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,865 (Ranked 84)  
+Progressed: 126,882 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 3 (0.00%) (Ranked 374)
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
-| 2023-12-14 | 126,865 | 3 |
+| 2023-12-14 | 126,882 | 3 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 51)  
 Sum: 20,380 (Ranked 59)  

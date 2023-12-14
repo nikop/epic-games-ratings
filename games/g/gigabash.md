@@ -1,26 +1,26 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.57 (Ranked 482)  
+Rating: 4.57 (Ranked 484)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 2.00% | ~1,536 |
-| I've Had Enough! | 2.00% | ~1,536 |
-| Fists, Fury & a lot of Rage | 1.00% | ~768 |
-| All For One and One For All | 1.00% | ~768 |
-| Seasoned Fighter | 1.00% | ~768 |
-| Home Sweet Home? | 0.70% | ~538 |
-| A New Age | 0.60% | ~461 |
-| Oh Baby, A Triple | 0.40% | ~307 |
-| Symbiotic | 0.40% | ~307 |
+| All Grown Up! | 2.00% | ~1,542 |
+| I've Had Enough! | 2.00% | ~1,542 |
+| Fists, Fury & a lot of Rage | 1.00% | ~771 |
+| All For One and One For All | 1.00% | ~771 |
+| Seasoned Fighter | 1.00% | ~771 |
+| Home Sweet Home? | 0.80% | ~617 |
+| A New Age | 0.60% | ~463 |
+| Oh Baby, A Triple | 0.40% | ~308 |
+| Symbiotic | 0.40% | ~308 |
+| Right back at'cha | 0.30% | ~231 |
 | Battle Hardened | 0.20% | ~154 |
+| Cautious Veteran | 0.20% | ~154 |
 | Double Punch! | 0.20% | ~154 |
 | Master of Disguise | 0.20% | ~154 |
 | It's Mayhem! | 0.20% | ~154 |
-| Right back at'cha | 0.20% | ~154 |
 | Spectacular Finisher | 0.20% | ~154 |
-| Cautious Veteran | 0.10% | ~77 |
 | Eye of the Titan | 0.10% | ~77 |
 | Just Getting Warmed Up | 0.10% | ~77 |
 | Katamari | 0.10% | ~77 |
@@ -41,7 +41,7 @@ Rating: 4.57 (Ranked 482)
 | Apocalypse Mode | 0.00% | ~0 |
 | What's Mine is Yours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,824 (Ranked 100)  
+Progressed: 77,100 (Ranked 100)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 49,284 | 0 |
 | 2023-12-12 | 62,591 | 0 |
 | 2023-12-13 | 74,092 | 0 |
-| 2023-12-14 | 76,824 | 0 |
+| 2023-12-14 | 77,100 | 0 |
 ## Awards
 Max (Great Boss Battles): 25  (Ranked 527)  
 Sum: 25 (Ranked 535)  

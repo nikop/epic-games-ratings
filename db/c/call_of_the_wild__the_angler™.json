@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -955,9 +955,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 6820,
+  "EOS_Progressed": 6831,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11025,6 +11025,11 @@
       "Time": "2023-12-14T10:04:56.7096399+00:00",
       "NumProgressed": 6820,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T11:04:17.0031187+00:00",
+      "NumProgressed": 6831,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11036,7 +11041,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -11052,7 +11057,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -11068,7 +11073,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -11106,9 +11111,9 @@
       "ID": "ACHIEVEMENT_010",
       "SetID": "1a05lfd",
       "Name": "License to Gill",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -11140,7 +11145,7 @@
       "Name": "Goldfish?",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -11148,7 +11153,7 @@
       "Name": "Going for Gold",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -11156,7 +11161,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -11234,9 +11239,9 @@
       "ID": "ACHIEVEMENT_026",
       "SetID": "1a05lfd",
       "Name": "Big Fish Small Pond",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -11355,13 +11360,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6820,
+      "Progressed": 6831,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6192,
+      "Progressed": 6203,
       "Completed": 113
     }
   ],
@@ -11369,8 +11374,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-13T00:00:03.8951361+00:00",
-  "LastChanged_Achievements": "2023-12-14T10:04:56.7096395+00:00",
+  "LastChanged_Achievements": "2023-12-14T11:04:17.0031184+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:44.0991613+00:00",
-  "LastUpdate_Ratings": "2023-12-14T09:57:32.9874658+00:00",
-  "LastUpdate_Achievements": "2023-12-14T10:04:56.7097106+00:00"
+  "LastUpdate_Ratings": "2023-12-14T10:57:34.0287362+00:00",
+  "LastUpdate_Achievements": "2023-12-14T11:04:17.003205+00:00"
 }

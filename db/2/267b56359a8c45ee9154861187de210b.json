@@ -2,10 +2,10 @@
   "ID": "267b56359a8c45ee9154861187de210b",
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
-  "Ranking_EOS_Progress": 503,
+  "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 478,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -279,6 +279,11 @@
       "Time": "2023-12-13T17:03:38.2834585+00:00",
       "NumProgressed": 57,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T11:03:59.2793079+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -313,7 +318,7 @@
       "ID": "TOURN_PARTICIP_5",
       "SetID": "3448go",
       "Name": "Challenger",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -385,7 +390,7 @@
       "ID": "airtime_short",
       "SetID": "3448go",
       "Name": "Glider",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
       "UsersEstimate": 17
     },
@@ -401,7 +406,7 @@
       "ID": "beat_c1_diamond",
       "SetID": "3448go",
       "Name": "Wax On, Wax Off",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -409,7 +414,7 @@
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -417,7 +422,7 @@
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
       "UsersEstimate": 34
     },
@@ -481,7 +486,7 @@
       "ID": "beat_c2_silver",
       "SetID": "3448go",
       "Name": "Gone for a Whirl",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -545,7 +550,7 @@
       "ID": "beat_c3_silver",
       "SetID": "3448go",
       "Name": "Power-Ups and Downs",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -865,7 +870,7 @@
       "ID": "rolldist_mid",
       "SetID": "3448go",
       "Name": "Marathon",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -873,7 +878,7 @@
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 5,
       "UsersEstimate": 38
     },
@@ -897,7 +902,7 @@
       "ID": "soccer_low",
       "SetID": "3448go",
       "Name": "Goal-Chaser",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -913,7 +918,7 @@
       "ID": "trophies_10",
       "SetID": "3448go",
       "Name": "Look What I Found!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -978,14 +983,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-12-14T10:04:34.0193513+00:00",
+  "LastChanged_Achievements": "2023-12-14T11:03:59.2793075+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:19.378274+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:02:06.6298269+00:00",
-  "LastUpdate_Achievements": "2023-12-14T10:04:34.0194393+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:01:01.8459905+00:00",
+  "LastUpdate_Achievements": "2023-12-14T11:03:59.2794055+00:00"
 }
