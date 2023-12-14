@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8761,10 +8761,10 @@
       "Count": 3571
     }
   ],
-  "EOS_Progressed": 240335,
-  "EOS_Completed": 2524,
-  "EOS_NewPlayers": 1584,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 240359,
+  "EOS_Completed": 2525,
+  "EOS_NewPlayers": 1601,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -35621,6 +35621,11 @@
       "Time": "2023-12-14T20:10:31.8264116+00:00",
       "NumProgressed": 240335,
       "NumCompleted": 2524
+    },
+    {
+      "Time": "2023-12-14T21:09:56.4676167+00:00",
+      "NumProgressed": 240359,
+      "NumCompleted": 2525
     }
   ],
   "TotalAchievements": 546,
@@ -39936,7 +39941,7 @@
       "Name": "Fast Food",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "objective_completed_1563",
@@ -39999,21 +40004,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 206609,
-      "Completed": 3983
+      "Progressed": 206633,
+      "Completed": 3984
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 240335,
-      "Completed": 2524
+      "Progressed": 240359,
+      "Completed": 2525
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-14T19:57:58.2971974+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:10:31.826411+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:09:56.4676163+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:57:58.2971979+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:10:31.8287605+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:57:50.6114918+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:09:56.4699579+00:00"
 }

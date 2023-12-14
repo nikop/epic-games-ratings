@@ -3,9 +3,9 @@
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 342,
-  "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 375,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 366,
+  "EOS_Progressed": 367,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1030,6 +1030,11 @@
       "Time": "2023-12-14T18:04:37.444383+00:00",
       "NumProgressed": 366,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T21:04:15.8009442+00:00",
+      "NumProgressed": 367,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1185,7 +1190,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ach_consultants_a",
@@ -1247,9 +1252,9 @@
       "ID": "ach_deco",
       "SetID": "b8gh1fi",
       "Name": "Proper Walls",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 117
     },
     {
       "ID": "ach_drones",
@@ -1385,7 +1390,7 @@
       "Name": "Delegate Maintenance",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ach_grime_2",
@@ -1744,7 +1749,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 366,
+      "Progressed": 367,
       "Completed": 0
     }
   ],
@@ -1752,8 +1757,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:04:52.633017+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:04:15.8009439+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:02.639298+00:00",
-  "LastUpdate_Ratings": "2023-12-14T20:00:29.6989494+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:04:52.6330933+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:59:41.9666713+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:04:15.8010459+00:00"
 }

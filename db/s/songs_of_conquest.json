@@ -4,11 +4,11 @@
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 233,
   "Ranking_Popularity": 518,
-  "Ranking_PopularitySum": 409,
+  "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 324,
-  "Ranking_EOS_Completed": 374,
+  "Ranking_EOS_Completed": 375,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 465,
+  "EOS_Progressed": 468,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1963,6 +1963,11 @@
       "Time": "2023-12-14T20:08:27.730346+00:00",
       "NumProgressed": 465,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T21:08:20.8532646+00:00",
+      "NumProgressed": 468,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2045,9 +2050,9 @@
       "ID": "CastEachSpell",
       "SetID": "71c0n9i",
       "Name": "Versatile Wielder",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "ChainLightningKills",
@@ -2079,15 +2084,15 @@
       "Name": "Critical Hit",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Deepstrike",
       "SetID": "71c0n9i",
       "Name": "Deepstrike",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "DieByTheBow",
@@ -2119,7 +2124,7 @@
       "Name": "Double Kill",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2245,9 +2250,9 @@
       "ID": "RepelIntoExplosiveFungi",
       "SetID": "71c0n9i",
       "Name": "Such A Fungi",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "SorcerousSpree",
@@ -2303,7 +2308,7 @@
       "Name": "Adept",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "WielderLevel2",
@@ -2311,7 +2316,7 @@
       "Name": "Veteran",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "WielderLevel3",
@@ -2406,15 +2411,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 465,
+      "Progressed": 468,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:08:27.7303458+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:08:20.8532643+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:59:20.3448819+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:08:27.7303919+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:58:51.6350043+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:08:20.8533017+00:00"
 }

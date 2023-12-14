@@ -6,9 +6,9 @@
   "Ranking_Popularity": 563,
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 104,
-  "Ranking_EOS_Completed": 336,
+  "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69287,
+  "EOS_Progressed": 69289,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17588,6 +17588,11 @@
       "Time": "2023-12-14T20:04:37.6268552+00:00",
       "NumProgressed": 69287,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-14T21:04:05.5877228+00:00",
+      "NumProgressed": 69289,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -17605,9 +17610,9 @@
       "ID": "ACH_BONFIRES",
       "SetID": "6ccjg6f",
       "Name": "Bonfire Lit",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2772
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -17735,7 +17740,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2771
+      "UsersEstimate": 2772
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -17758,7 +17763,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 69287,
+      "Progressed": 69289,
       "Completed": 18
     }
   ],
@@ -17766,8 +17771,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:04:37.626855+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:04:05.5877223+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.1661385+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:59:58.8986775+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:04:37.6269526+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:59:19.5774617+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:04:05.5878443+00:00"
 }

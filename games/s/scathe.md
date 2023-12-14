@@ -15,15 +15,15 @@
 | Bloodstorm | 0.70% | ~4 |
 | Pacifantastic | 0.70% | ~4 |
 | SCATHE Too | 0.70% | ~4 |
-| Amaging Work | 0.60% | ~3 |
-| ...And I'm All Out Of Gun | 0.60% | ~3 |
-| Castle Of The Wolf | 0.60% | ~3 |
-| Nuke Them All | 0.60% | ~3 |
-| Purely Not | 0.60% | ~3 |
-| Quakin' | 0.60% | ~3 |
-| Rune Escape | 0.60% | ~3 |
-| Shocking Bio | 0.60% | ~3 |
-| Such Sin | 0.60% | ~3 |
+| Amaging Work | 0.50% | ~3 |
+| ...And I'm All Out Of Gun | 0.50% | ~3 |
+| Castle Of The Wolf | 0.50% | ~3 |
+| Nuke Them All | 0.50% | ~3 |
+| Purely Not | 0.50% | ~3 |
+| Quakin' | 0.50% | ~3 |
+| Rune Escape | 0.50% | ~3 |
+| Shocking Bio | 0.50% | ~3 |
+| Such Sin | 0.50% | ~3 |
 | Gears of Door | 0.40% | ~2 |
 | Ice Work | 0.40% | ~2 |
 | Slaving Grace | 0.40% | ~2 |
@@ -35,8 +35,8 @@
 | Rage Quit | 0.20% | ~1 |
 | Until Dusk | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 545 (Ranked 315)  
-Completed: 1 (0.18%) (Ranked 270)  
+Progressed: 546 (Ranked 314)  
+Completed: 1 (0.18%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -189,7 +189,7 @@ Completed: 1 (0.18%) (Ranked 270)
 | 2023-12-11 | 529 | 0 |
 | 2023-12-12 | 542 | 1 |
 | 2023-12-13 | 544 | 1 |
-| 2023-12-14 | 545 | 1 |
+| 2023-12-14 | 546 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

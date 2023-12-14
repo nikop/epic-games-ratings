@@ -3,9 +3,9 @@
   "Name": "Snowmen",
   "ProductSlug": "snowmen-5987b9",
   "Ranking_EOS_Progress": 361,
-  "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 239,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
     "PcReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -1458,9 +1458,9 @@
       "ID": "ACHIEVEMENT_ENDING_BAD_SNOWMAN",
       "SetID": "5lffoo5",
       "Name": "Lost forever",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_ENDING_GOOD_HOME",
@@ -1546,9 +1546,9 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_CARROT",
       "SetID": "5lffoo5",
       "Name": "Silver Carrot",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_MAIN_SILVER_HAT",
@@ -1585,8 +1585,8 @@
   ],
   "FirstSeen": "2023-12-08T01:45:34.789391+00:00",
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:10:01.288376+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:09:32.2875341+00:00",
   "LastUpdate_AppInfo": "2023-12-11T01:45:34.1220412+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:57:29.2993824+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:10:01.2883942+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:57:30.303233+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:09:32.2875521+00:00"
 }

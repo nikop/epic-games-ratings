@@ -6,9 +6,9 @@
   "Ranking_Popularity": 563,
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 141,
-  "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -335,9 +335,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23366,
+  "EOS_Progressed": 23368,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 673,
+  "EOS_NewPlayers": 668,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -19835,6 +19835,11 @@
       "Time": "2023-12-14T20:05:30.6244747+00:00",
       "NumProgressed": 23366,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-12-14T21:04:44.1915669+00:00",
+      "NumProgressed": 23368,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 16,
@@ -19854,7 +19859,7 @@
       "Name": "Burning For You",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6075
+      "UsersEstimate": 6076
     },
     {
       "ID": "Deadline",
@@ -19918,7 +19923,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 9113
+      "UsersEstimate": 9114
     },
     {
       "ID": "Mirrors",
@@ -19942,7 +19947,7 @@
       "Name": "Shooting Shark",
       "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 11216
+      "UsersEstimate": 11217
     },
     {
       "ID": "Sole_Survivor",
@@ -19950,7 +19955,7 @@
       "Name": "Sole Survivor",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 8178
+      "UsersEstimate": 8179
     },
     {
       "ID": "Still_Burning",
@@ -19958,7 +19963,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 3972
+      "UsersEstimate": 3973
     },
     {
       "ID": "The_Reaper",
@@ -19973,15 +19978,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 23366,
+      "Progressed": 23368,
       "Completed": 117
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-12-12T11:59:02.4722779+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:05:30.6244745+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:04:44.1915665+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:23.9972538+00:00",
-  "LastUpdate_Ratings": "2023-12-14T20:00:25.3077586+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:05:30.6245671+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:59:38.8488034+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:04:44.1916625+00:00"
 }

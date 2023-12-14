@@ -9,7 +9,7 @@
 | Abandon Ship! | 25.00% | ~22 |
 | The Tomb of Kih-Oskh | 19.00% | ~17 |
 | The Weighing of the Soul | 17.00% | ~15 |
-| The Curse of Kih-Oskh | 10.00% | ~9 |
+| The Curse of Kih-Oskh | 11.00% | ~10 |
 | Cat Lover | 7.00% | ~6 |
 | It's a Deal! | 7.00% | ~6 |
 | In the Name of the Law | 6.00% | ~5 |
@@ -43,7 +43,7 @@
 | Guilt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 88 (Ranked 463)  
-Completed: 0 (0.00%) (Ranked 374)  
+Completed: 0 (0.00%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

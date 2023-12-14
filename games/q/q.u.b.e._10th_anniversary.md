@@ -5,20 +5,20 @@ Rating: 4.42 (Ranked 719)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 27.00% | ~6,758 |
-| Sector 2 | 24.00% | ~6,007 |
-| Crush That Cube! | 20.00% | ~5,006 |
-| Sector 3 | 20.00% | ~5,006 |
-| Sector 4 | 17.00% | ~4,255 |
-| Crush That Ball! | 16.00% | ~4,005 |
-| Sector 5 | 11.00% | ~2,753 |
-| Sector 6 | 9.00% | ~2,253 |
-| Feeling the Blues | 7.00% | ~1,752 |
-| Squished | 7.00% | ~1,752 |
-| Finale | 7.00% | ~1,752 |
-| Sector 7 | 7.00% | ~1,752 |
-| Did That Work? -- No! | 6.00% | ~1,502 |
-| Master Room | 4.00% | ~1,001 |
+| Sector 1 | 27.00% | ~6,761 |
+| Sector 2 | 24.00% | ~6,010 |
+| Crush That Cube! | 20.00% | ~5,008 |
+| Sector 3 | 20.00% | ~5,008 |
+| Sector 4 | 17.00% | ~4,257 |
+| Crush That Ball! | 16.00% | ~4,007 |
+| Sector 5 | 11.00% | ~2,755 |
+| Sector 6 | 9.00% | ~2,254 |
+| Feeling the Blues | 7.00% | ~1,753 |
+| Squished | 7.00% | ~1,753 |
+| Finale | 7.00% | ~1,753 |
+| Sector 7 | 7.00% | ~1,753 |
+| Did That Work? -- No! | 6.00% | ~1,503 |
+| Master Room | 4.00% | ~1,002 |
 | Bronze Trophy | 2.00% | ~501 |
 | Gold Trophy | 2.00% | ~501 |
 | Hopefully that's all of them! | 2.00% | ~501 |
@@ -30,7 +30,7 @@ Rating: 4.42 (Ranked 719)
 | Master Of The Collectables | 1.00% | ~250 |
 | Maxed Out | 1.00% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,031 (Ranked 136)  
+Progressed: 25,042 (Ranked 136)  
 Completed: 156 (0.62%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 156 (0.62%) (Ranked 192)
 | 2023-12-11 | 24,662 | 151 |
 | 2023-12-12 | 24,785 | 154 |
 | 2023-12-13 | 24,912 | 155 |
-| 2023-12-14 | 25,031 | 156 |
+| 2023-12-14 | 25,042 | 156 |
 ## Awards
 Max (Challenging Puzzles): 22  (Ranked 546)  
 Sum: 22 (Ranked 549)  

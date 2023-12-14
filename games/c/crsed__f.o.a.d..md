@@ -1,23 +1,23 @@
 # CRSED: F.O.A.D.
 [Store](https://store.epicgames.com/en-US/p/crsed-f-o-a-d)  
 [View Rawdata](../../db/c/crsed__f.o.a.d..json)  
-Rating: 4.34 (Ranked 814)  
+Rating: 4.34 (Ranked 813)  
 Number of Ratings: 464  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 106  (Ranked 359)  
-Sum: 678 (Ranked 308)  
-Diff (max vs sum): 51  
+Sum: 680 (Ranked 307)  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 106 |
-| This game has Diverse Characters | 92 |
+| This game has Diverse Characters | 93 |
 | This game has Quickly Understood Controls | 90 |
 | This game is Relaxing | 87 |
 | This game has Competitive Players | 84 |
 | This game is Extremely Fun | 84 |
 | This game has Amazing Characters | 80 |
 | This game has Challenging Combat | 73 |
-| This game has a Competitive Community | 68 |
+| This game has a Competitive Community | 69 |
 | This game is Great for Quick Sessions | 67 |
 | This game has Amazing Storytelling | 67 |
 | This game is Great for Beginners | 53 |
@@ -187,3 +187,4 @@ Diff (max vs sum): 51
 | 2023-12-05 | 4.34 | - | 106 | 674 |
 | 2023-12-08 | 4.34 | - | 106 | 675 |
 | 2023-12-12 | 4.34 | - | 106 | 678 |
+| 2023-12-14 | 4.34 | - | 106 | 680 |

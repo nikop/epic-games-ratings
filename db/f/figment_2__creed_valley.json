@@ -3,9 +3,9 @@
   "Name": "Figment 2: Creed Valley",
   "ProductSlug": "figment2-creed-valley",
   "Ranking_EOS_Progress": 538,
-  "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 379,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 375,
+  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -253,9 +253,9 @@
       "ID": "fluff_hit_by_coco_bulb",
       "SetID": "7e96e7l",
       "Name": "Ouch, that hurt!",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "fluff_hit_worker_priciple_square",
@@ -301,17 +301,17 @@
       "ID": "shards_one_remembrane",
       "SetID": "7e96e7l",
       "Name": "Remembering of the past",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "story_conviction_lane",
       "SetID": "7e96e7l",
       "Name": "Fight like an idiot",
-      "Percentage": 22,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "story_dance_off",
@@ -349,9 +349,9 @@
       "ID": "story_outer_cerebrum",
       "SetID": "7e96e7l",
       "Name": "Black Hog Down",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "story_principle_square",
@@ -374,8 +374,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:10:22.2745871+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:09:48.2200021+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6476465+00:00",
-  "LastUpdate_Ratings": "2023-12-14T20:00:50.3859206+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:10:22.2745981+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:59:57.3537922+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:09:48.2200138+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 10.00% | ~337 |
+| Executioner | 10.00% | ~338 |
 | Watch Where You Step... | 9.00% | ~304 |
 | Look Over There! | 8.00% | ~270 |
 | Not So Fast... | 8.00% | ~270 |
@@ -22,13 +22,13 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 3.00% | ~101 |
 | Gunmaster | 3.00% | ~101 |
 | Just a Scratch | 3.00% | ~101 |
-| Daemonkeeper | 2.00% | ~67 |
-| Hold Your Ground | 2.00% | ~67 |
-| Corruption Cleanser | 2.00% | ~67 |
-| Efficient Killer | 2.00% | ~67 |
-| A Gift Spurned | 2.00% | ~67 |
-| Execution Force | 2.00% | ~67 |
-| Hive Exterminator | 2.00% | ~67 |
+| Daemonkeeper | 2.00% | ~68 |
+| Hold Your Ground | 2.00% | ~68 |
+| Corruption Cleanser | 2.00% | ~68 |
+| Efficient Killer | 2.00% | ~68 |
+| A Gift Spurned | 2.00% | ~68 |
+| Execution Force | 2.00% | ~68 |
+| Hive Exterminator | 2.00% | ~68 |
 | Fleetmaster | 1.00% | ~34 |
 | Exterminator | 1.00% | ~34 |
 | Mind Like a Fortress | 1.00% | ~34 |
@@ -46,9 +46,9 @@ Number of Ratings: 371  (23.09.2022)
 | Harvest No More | 0.70% | ~24 |
 | Strike Force | 0.60% | ~20 |
 | Suffer Not the Mutant | 0.50% | ~17 |
-| Exercise in Restraint | 0.40% | ~13 |
-| True Mastery | 0.40% | ~13 |
-| Reign of Confusion | 0.40% | ~13 |
+| Exercise in Restraint | 0.40% | ~14 |
+| True Mastery | 0.40% | ~14 |
+| Reign of Confusion | 0.40% | ~14 |
 | Blood and Iron | 0.30% | ~10 |
 | Warp Flickers | 0.30% | ~10 |
 | Abomination | 0.30% | ~10 |
@@ -75,8 +75,8 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,374 (Ranked 212)  
-Completed: 0 (0.00%) (Ranked 374)  
+Progressed: 3,375 (Ranked 212)  
+Completed: 0 (0.00%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -282,7 +282,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-10 | 3,346 | 0 |
 | 2023-12-12 | 3,348 | 0 |
 | 2023-12-13 | 3,351 | 0 |
-| 2023-12-14 | 3,374 | 0 |
+| 2023-12-14 | 3,375 | 0 |
 ## Awards
 Max (Character Customization): 227  (Ranked 278)  
 Sum: 488 (Ranked 332)  

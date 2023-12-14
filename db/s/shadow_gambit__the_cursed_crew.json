@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -149,9 +149,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1148,
+  "EOS_Progressed": 1149,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.79,
   "EosHistory": [
@@ -3844,6 +3844,11 @@
       "Time": "2023-12-14T19:05:22.1691188+00:00",
       "NumProgressed": 1148,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-14T21:04:59.476771+00:00",
+      "NumProgressed": 1149,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3888,7 +3893,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3896,7 +3901,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "_07_FinishAct3",
@@ -4063,7 +4068,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1148,
+      "Progressed": 1149,
       "Completed": 32
     }
   ],
@@ -4071,8 +4076,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:05:50.8204844+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:04:59.4767707+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:59:12.1030104+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:05:50.8205107+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:58:45.4207755+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:04:59.476804+00:00"
 }

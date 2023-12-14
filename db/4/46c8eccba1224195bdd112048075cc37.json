@@ -4,8 +4,8 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
     "PcReleaseDate": "2022-09-19T02:00:00+00:00",
@@ -859,25 +859,25 @@
       "ID": "FirstBlood",
       "SetID": "7g1kpc8",
       "Name": "First Blood",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "FourthBoss",
@@ -923,9 +923,9 @@
       "ID": "Persistence",
       "SetID": "7g1kpc8",
       "Name": "Persistence",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ReturnShell",
@@ -970,8 +970,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:05:09.3768527+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:04:28.2787394+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:01.627413+00:00",
-  "LastUpdate_Ratings": "2023-12-14T20:01:04.0160189+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:05:09.3769174+00:00"
+  "LastUpdate_Ratings": "2023-12-14T21:00:07.4573383+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:04:28.2787532+00:00"
 }

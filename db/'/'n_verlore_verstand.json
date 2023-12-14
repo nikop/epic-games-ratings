@@ -3,9 +3,9 @@
   "Name": "\u0027n Verlore Verstand",
   "ProductSlug": "n-verlore-verstand-1d7f5b",
   "Ranking_EOS_Progress": 504,
-  "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 375,
+  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
     "PcReleaseDate": "2016-02-01T10:30:00+00:00",
@@ -484,9 +484,9 @@
       "ID": "3",
       "SetID": "6m1k8ai",
       "Name": "Brace the cold",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "30",
@@ -572,9 +572,9 @@
       "ID": "4",
       "SetID": "6m1k8ai",
       "Name": "A Long Walk",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "40",
@@ -652,9 +652,9 @@
       "ID": "5",
       "SetID": "6m1k8ai",
       "Name": "Dont mind the heat",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "6",
@@ -699,8 +699,8 @@
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:05:53.115364+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:05:01.2679689+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:08.7526355+00:00",
-  "LastUpdate_Ratings": "2023-12-14T20:03:09.9395506+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:05:53.1153967+00:00"
+  "LastUpdate_Ratings": "2023-12-14T21:03:01.8819834+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:05:01.268+00:00"
 }

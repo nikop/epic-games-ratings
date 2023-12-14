@@ -5,10 +5,10 @@
   "Ranking_Rating": 26,
   "Ranking_Popularity": 563,
   "Ranking_PopularitySum": 563,
-  "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 294,
+  "Ranking_EOS_Progress": 273,
+  "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -216,9 +216,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 976,
+  "EOS_Progressed": 978,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2471,6 +2471,11 @@
       "Time": "2023-12-14T20:06:52.4078616+00:00",
       "NumProgressed": 976,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T21:05:45.2172472+00:00",
+      "NumProgressed": 978,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2523,7 +2528,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "BreakTheLoop",
@@ -2547,7 +2552,7 @@
       "Name": "Chasing the Light",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Chicken",
@@ -2699,7 +2704,7 @@
       "Name": "Museum Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "MuseumVisitor",
@@ -2707,7 +2712,7 @@
       "Name": "Museum Visitor",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "NewBeginning",
@@ -2763,15 +2768,15 @@
       "Name": "Puzzle Fiend",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 205
     },
     {
       "ID": "RenaissanceRobot",
@@ -2827,7 +2832,7 @@
       "Name": "Team Spirit",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "TextAdventurer",
@@ -2857,9 +2862,9 @@
       "ID": "TheFuture",
       "SetID": "1n308hc",
       "Name": "The Future",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 29
     },
     {
       "ID": "TheHardWay",
@@ -2899,7 +2904,7 @@
       "Name": "Touch Grass",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "TrevorsBiographer",
@@ -2954,7 +2959,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 976,
+      "Progressed": 978,
       "Completed": 1
     }
   ],
@@ -2962,8 +2967,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:06:52.4078614+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:05:45.2172469+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-14T20:01:07.3440475+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:06:52.4079043+00:00"
+  "LastUpdate_Ratings": "2023-12-14T21:00:09.7476192+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:05:45.217295+00:00"
 }

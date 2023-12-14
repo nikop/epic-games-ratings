@@ -6,9 +6,9 @@
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 199,
-  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -643,9 +643,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4015,
+  "EOS_Progressed": 4016,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8603,6 +8603,11 @@
       "Time": "2023-12-14T17:09:05.1031594+00:00",
       "NumProgressed": 4015,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-14T21:08:44.9326833+00:00",
+      "NumProgressed": 4016,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8622,7 +8627,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -8678,7 +8683,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -8694,7 +8699,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8750,7 +8755,7 @@
       "Name": "Sharpshooter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -8782,7 +8787,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1687
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8870,7 +8875,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -8878,7 +8883,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -8982,7 +8987,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8990,7 +8995,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -9181,13 +9186,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3966,
+      "Progressed": 3967,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4015,
+      "Progressed": 4016,
       "Completed": 11
     }
   ],
@@ -9195,8 +9200,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:08:59.9468929+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:08:44.932683+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.4789046+00:00",
-  "LastUpdate_Ratings": "2023-12-14T20:00:35.3318861+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:08:59.9469919+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:59:45.8730011+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:08:44.9327629+00:00"
 }

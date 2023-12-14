@@ -6,9 +6,9 @@
   "Ranking_Popularity": 563,
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 231,
-  "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 326,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2024,
+  "EOS_Progressed": 2026,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7714,6 +7714,11 @@
       "Time": "2023-12-14T20:05:02.9615182+00:00",
       "NumProgressed": 2024,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T21:04:23.6372599+00:00",
+      "NumProgressed": 2026,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7725,7 +7730,7 @@
       "Name": "Know The Enemy",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -7797,7 +7802,7 @@
       "Name": "Silver Achiever",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "objective_headquarters_10",
@@ -7813,7 +7818,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "objective_headquarters_20",
@@ -7821,7 +7826,7 @@
       "Name": "Advanced Warfare",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "objective_headquarters_5",
@@ -7853,7 +7858,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -7885,7 +7890,7 @@
       "Name": "General",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "objective_key_alliance_help_2",
@@ -7893,7 +7898,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -7901,7 +7906,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7917,7 +7922,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -7925,7 +7930,7 @@
       "Name": "Seek \u0026 Destroy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -7949,7 +7954,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -7957,7 +7962,7 @@
       "Name": "Battle Ready",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -8028,7 +8033,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2024,
+      "Progressed": 2026,
       "Completed": 1
     }
   ],
@@ -8036,8 +8041,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:05:02.961518+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:04:23.6372596+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.3449014+00:00",
-  "LastUpdate_Ratings": "2023-12-14T20:01:33.5198685+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:05:02.9615828+00:00"
+  "LastUpdate_Ratings": "2023-12-14T21:00:28.4595045+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:04:23.6373395+00:00"
 }

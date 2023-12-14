@@ -2,10 +2,10 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 444,
-  "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Progress": 443,
+  "Ranking_EOS_Completed": 375,
+  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 110,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -519,6 +519,11 @@
       "Time": "2023-12-14T19:08:45.1610052+00:00",
       "NumProgressed": 109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T21:08:31.790743+00:00",
+      "NumProgressed": 110,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -537,9 +542,9 @@
       "ID": "SG_ACROSSTHESTYX",
       "SetID": "bj5g0n4",
       "Name": "Across The Styx",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 30
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -553,9 +558,9 @@
       "ID": "SG_ALLTHEHELPYOUNEED",
       "SetID": "bj5g0n4",
       "Name": "All The Help You Need",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 16
     },
     {
       "ID": "SG_ARROWOFEROSUNDONE",
@@ -619,7 +624,7 @@
       "Name": "Fiery",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SG_GODOFTHESUN",
@@ -641,9 +646,9 @@
       "ID": "SG_LIKEHEROESBEFOREYOU",
       "SetID": "bj5g0n4",
       "Name": "Like Heroes Before You",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "SG_LOSTINASONG",
@@ -683,7 +688,7 @@
       "Name": "Not A Lost Girl",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -737,9 +742,9 @@
       "ID": "SG_THEANSWERISYOU",
       "SetID": "bj5g0n4",
       "Name": "The Answer Is You",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "SG_THECHOICEISYOURS",
@@ -755,7 +760,7 @@
       "Name": "The Deep End",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -785,9 +790,9 @@
       "ID": "SG_THEQUEENOFTHEDEAD",
       "SetID": "bj5g0n4",
       "Name": "The Queen Of The Dead",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "SG_THEULTIMATESACRIFICE",
@@ -811,7 +816,7 @@
       "Name": "Together, Victorious",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SG_VIRTUOSO",
@@ -826,14 +831,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 110,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:08:42.8382021+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:08:31.7907426+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.0565697+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:57:16.6410922+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:08:42.8382217+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:57:21.0478625+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:08:31.7907696+00:00"
 }

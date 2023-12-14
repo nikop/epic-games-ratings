@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 961,
+  "EOS_Progressed": 962,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2599,6 +2599,11 @@
       "Time": "2023-12-14T19:09:47.62568+00:00",
       "NumProgressed": 961,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-14T21:09:35.1711328+00:00",
+      "NumProgressed": 962,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2618,7 +2623,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2682,7 +2687,7 @@
       "Name": "Street Style",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "CultivairChests1",
@@ -2690,7 +2695,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "EntresolChests1",
@@ -2698,7 +2703,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -2770,7 +2775,7 @@
       "Name": "Rail Rat",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "HexlockGift",
@@ -2802,7 +2807,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "MapCompletion1",
@@ -2850,7 +2855,7 @@
       "Name": "Time Flies",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ParryBoss",
@@ -2866,7 +2871,7 @@
       "Name": "No, Thanks!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2890,7 +2895,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "RewindDamage1",
@@ -2994,7 +2999,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "WatcherFought",
@@ -3018,7 +3023,7 @@
       "Name": "The Brass Boss",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3033,7 +3038,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 961,
+      "Progressed": 962,
       "Completed": 6
     }
   ],
@@ -3041,8 +3046,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:10:05.0282419+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:09:35.1711324+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-14T20:01:27.1438852+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:10:05.0282816+00:00"
+  "LastUpdate_Ratings": "2023-12-14T21:00:23.8892581+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:09:35.1711845+00:00"
 }

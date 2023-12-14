@@ -12,9 +12,9 @@
 | Dinner Dash | 41.00% | ~150 |
 | Need a Consult | 38.00% | ~139 |
 | It's Technical | 38.00% | ~139 |
-| Upgrade Unlock | 37.00% | ~135 |
-| Delegate Maintenance | 34.00% | ~124 |
-| Proper Walls | 33.00% | ~121 |
+| Upgrade Unlock | 37.00% | ~136 |
+| Delegate Maintenance | 34.00% | ~125 |
+| Proper Walls | 32.00% | ~117 |
 | Destination Destiny | 32.00% | ~117 |
 | Happy Tenants | 26.00% | ~95 |
 | Potent Potables | 26.00% | ~95 |
@@ -93,8 +93,8 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 366 (Ranked 342)  
-Completed: 0 (0.00%) (Ranked 374)  
+Progressed: 367 (Ranked 342)  
+Completed: 0 (0.00%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -194,7 +194,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-11-30 | 356 | 0 |
 | 2023-12-03 | 357 | 0 |
 | 2023-12-13 | 360 | 0 |
-| 2023-12-14 | 366 | 0 |
+| 2023-12-14 | 367 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
 Rating: 4.15 (Ranked 961)  
 ## Awards
 Max (Diverse Characters): 30  (Ranked 504)  
-Sum: 176 (Ranked 418)  
-Diff (max vs sum): 86  
+Sum: 197 (Ranked 408)  
+Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 30 |
@@ -15,6 +15,7 @@ Diff (max vs sum): 86
 | This game is Relaxing | 22 |
 | This game has Realistic Visuals | 21 |
 | This game has Quickly Understood Controls | 21 |
+| This game is Highly Recommended | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -118,3 +119,4 @@ Diff (max vs sum): 86
 | 2023-12-09 | 4.15 | 30 | 174 |
 | 2023-12-11 | 4.15 | 30 | 175 |
 | 2023-12-12 | 4.15 | 30 | 176 |
+| 2023-12-14 | 4.15 | 30 | 197 |

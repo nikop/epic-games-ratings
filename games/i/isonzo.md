@@ -22,7 +22,7 @@ Number of Ratings: 98  (23.09.2022)
 | Veni Vidi Vici | 19.00% | ~1,781 |
 | Ragazzi del '99 | 17.00% | ~1,594 |
 | Luigi Cadorna | 16.00% | ~1,500 |
-| The Lion of the Isonzo | 14.00% | ~1,313 |
+| The Lion of the Isonzo | 15.00% | ~1,406 |
 | Uomo Universale | 13.00% | ~1,219 |
 | Dirty Dozen | 12.00% | ~1,125 |
 | Shaken, Not Stirred | 12.00% | ~1,125 |
@@ -53,7 +53,7 @@ Number of Ratings: 98  (23.09.2022)
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9,375 (Ranked 171)  
-Completed: 10 (0.11%) (Ranked 289)  
+Completed: 10 (0.11%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

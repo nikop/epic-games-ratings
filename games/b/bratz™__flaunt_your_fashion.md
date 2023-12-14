@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Stilesville | 94.00% | ~83 |
-| Talented Performer | 53.00% | ~47 |
+| Talented Performer | 55.00% | ~48 |
 | Welcome to Barcelona | 51.00% | ~45 |
 | We will need a bigger wardrobe | 38.00% | ~33 |
 | Born to Win | 33.00% | ~29 |
@@ -25,7 +25,7 @@
 | Exclusive Photoshoot | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 88 (Ranked 463)  
-Completed: 0 (0.00%) (Ranked 374)  
+Completed: 0 (0.00%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

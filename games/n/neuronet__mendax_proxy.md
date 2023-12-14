@@ -54,7 +54,7 @@
 | Under the Weather | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 26 (Ranked 559)  
-Completed: 0 (0.00%) (Ranked 374)  
+Completed: 0 (0.00%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

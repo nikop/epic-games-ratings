@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Last Goodbye | 91.00% | ~137 |
-| The Routine | 80.00% | ~121 |
+| The Routine | 81.00% | ~122 |
 | Mother | 79.00% | ~119 |
 | Failure | 76.00% | ~115 |
 | Replace Fuse | 68.00% | ~103 |
@@ -25,7 +25,7 @@
 | Doctor | 48.00% | ~72 |
 | Press Play | 35.00% | ~53 |
 | General | 28.00% | ~42 |
-| Bookworm | 25.00% | ~38 |
+| Bookworm | 26.00% | ~39 |
 | Floppy Disk Finder | 15.00% | ~23 |
 | Stay | 13.00% | ~20 |
 | Nurse | 11.00% | ~17 |

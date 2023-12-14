@@ -6,9 +6,9 @@
   "Ranking_Popularity": 563,
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 235,
-  "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 375,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1807,
+  "EOS_Progressed": 1808,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2502,6 +2502,11 @@
       "Time": "2023-12-14T20:06:06.1898418+00:00",
       "NumProgressed": 1807,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T21:05:11.1459832+00:00",
+      "NumProgressed": 1808,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2559,9 +2564,9 @@
       "ID": "Achievement_008",
       "SetID": "6b34g18",
       "Name": "Blood Will Have Blood",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 54
     },
     {
       "ID": "Achievement_009",
@@ -2703,9 +2708,9 @@
       "ID": "Achievement_026",
       "SetID": "6b34g18",
       "Name": "Fly Fisher",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 54
     },
     {
       "ID": "Achievement_027",
@@ -3040,7 +3045,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1807,
+      "Progressed": 1808,
       "Completed": 0
     }
   ],
@@ -3048,8 +3053,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-10T01:51:29.5345174+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:06:06.1898415+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:05:11.1459828+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:19.3114561+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:58:32.241531+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:06:06.1898926+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:58:13.889497+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:05:11.146042+00:00"
 }

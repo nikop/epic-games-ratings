@@ -26,12 +26,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 1.00% | ~181 |
 | The Scarlet Orchard | 1.00% | ~181 |
 | Homesick | 0.90% | ~163 |
+| A Real Challenge | 0.90% | ~163 |
 | Ruined Armory | 0.80% | ~145 |
 | Bandit Camp | 0.80% | ~145 |
+| Levitating Monument | 0.80% | ~145 |
 | Monastery of the Holy Flame | 0.80% | ~145 |
-| A Real Challenge | 0.80% | ~145 |
 | Barren Lands | 0.70% | ~127 |
-| Levitating Monument | 0.70% | ~127 |
 | Corrosive Torrent | 0.70% | ~127 |
 | Cursed Lands | 0.70% | ~127 |
 | Trade Baron | 0.70% | ~127 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,140 (Ranked 147)  
-Completed: 39 (0.21%) (Ranked 257)  
+Progressed: 18,147 (Ranked 147)  
+Completed: 39 (0.21%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -304,7 +304,7 @@ Completed: 39 (0.21%) (Ranked 257)
 | 2023-12-11 | 17,957 | 41 |
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
-| 2023-12-14 | 18,140 | 40 |
+| 2023-12-14 | 18,147 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 226)  
 Sum: 3,258 (Ranked 175)  

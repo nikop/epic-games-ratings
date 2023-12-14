@@ -6,10 +6,10 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 38.00% | ~177 |
-| Double Kill | 29.00% | ~135 |
-| Critical Hit | 17.00% | ~79 |
-| Veteran | 16.00% | ~74 |
+| Adept | 38.00% | ~178 |
+| Double Kill | 29.00% | ~136 |
+| Critical Hit | 17.00% | ~80 |
+| Veteran | 16.00% | ~75 |
 | Dressed For Success | 11.00% | ~51 |
 | Humiliation | 8.00% | ~37 |
 | Sorcerous Spree | 7.00% | ~33 |
@@ -23,12 +23,12 @@ Number of Ratings: 292  (23.09.2022)
 | Venisti, Vidisti, Perdidisti | 3.00% | ~14 |
 | The Song of Stoutheart | 2.00% | ~9 |
 | This Spot's Taken | 2.00% | ~9 |
-| Versatile Wielder | 2.00% | ~9 |
-| Deepstrike | 2.00% | ~9 |
 | Don't Touch My Stuff | 2.00% | ~9 |
-| Such A Fungi | 2.00% | ~9 |
 | Pyrrhic Victory | 2.00% | ~9 |
+| Versatile Wielder | 1.00% | ~5 |
+| Deepstrike | 1.00% | ~5 |
 | Infernal Influence | 1.00% | ~5 |
+| Such A Fungi | 1.00% | ~5 |
 | Grand Master | 1.00% | ~5 |
 | Get Over Here! | 0.90% | ~4 |
 | Ultra Kill | 0.90% | ~4 |
@@ -61,8 +61,8 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465 (Ranked 324)  
-Completed: 0 (0.00%) (Ranked 374)  
+Progressed: 468 (Ranked 324)  
+Completed: 0 (0.00%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,11 +95,11 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 421 | 0 |
 | 2023-12-12 | 434 | 0 |
 | 2023-12-13 | 447 | 0 |
-| 2023-12-14 | 465 | 0 |
+| 2023-12-14 | 468 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 518)  
-Sum: 194 (Ranked 409)  
-Diff (max vs sum): 109  
+Sum: 194 (Ranked 411)  
+Diff (max vs sum): 107  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 27 |

@@ -7,9 +7,9 @@
 | Start of a Journey | 90.00% | ~52 |
 | A thing of beauty | 84.00% | ~49 |
 | Escape the Maze | 57.00% | ~33 |
-| Brace the cold | 43.00% | ~25 |
-| A Long Walk | 41.00% | ~24 |
-| Dont mind the heat | 17.00% | ~10 |
+| Brace the cold | 45.00% | ~26 |
+| A Long Walk | 43.00% | ~25 |
+| Dont mind the heat | 19.00% | ~11 |
 | City of Puzzles | 12.00% | ~7 |
 | This field of danger | 12.00% | ~7 |
 | Labyrinths of the Mind | 12.00% | ~7 |
@@ -54,7 +54,7 @@
 | A Complete Journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 58 (Ranked 504)  
-Completed: 0 (0.00%) (Ranked 374)  
+Completed: 0 (0.00%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

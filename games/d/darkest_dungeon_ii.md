@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 5.00% | ~96 |
+| Malpractice Assurance | 5.00% | ~97 |
 | This guy... again? | 3.00% | ~58 |
 | Lost and Found | 3.00% | ~58 |
 | This Belongs in a Museum | 2.00% | ~2,541 |
@@ -17,15 +17,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 2.00% | ~2,541 |
 | Escape from the Black Hole | 2.00% | ~2,541 |
 | Autodidact | 2.00% | ~2,541 |
-| Bloody Graduation | 2.00% | ~38 |
+| Bloody Graduation | 2.00% | ~39 |
+| Don't Make Me Turn This Coach Around | 1.00% | ~1,271 |
 | Serenity Now! | 1.00% | ~1,271 |
 | Rush Hour | 1.00% | ~1,271 |
 | To Grandmother's House | 1.00% | ~1,271 |
 | FNG | 1.00% | ~1,271 |
 | Ploughshares to Swords | 1.00% | ~19 |
 | Friends 'Til the End | 1.00% | ~19 |
-| Don't Make Me Turn This Coach Around | 0.90% | ~1,143 |
-| It Rings a Bell | 0.90% | ~1,143 |
+| It Rings a Bell | 0.90% | ~1,144 |
 | Dissector | 0.80% | ~1,016 |
 | It Happens | 0.80% | ~1,016 |
 | Merry Time | 0.80% | ~1,016 |
@@ -35,6 +35,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 0.80% | ~1,016 |
 | Banishment | 0.70% | ~889 |
 | Deprogramming | 0.70% | ~889 |
+| Now Stay Dead | 0.70% | ~889 |
 | Worldly Traveller | 0.70% | ~889 |
 | Road Trip | 0.70% | ~889 |
 | Resurrection | 0.60% | ~762 |
@@ -43,7 +44,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Long Live the King | 0.60% | ~762 |
 | Unfulfilled Desires | 0.60% | ~762 |
 | Predator | 0.60% | ~762 |
-| Now Stay Dead | 0.60% | ~762 |
 | Reverse Banditry | 0.60% | ~762 |
 | Spelunker | 0.60% | ~762 |
 | Ramble On | 0.60% | ~762 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,054 (Ranked 84)  
-Completed: 3 (0.00%) (Ranked 374)  
+Progressed: 127,062 (Ranked 84)  
+Completed: 3 (0.00%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -314,16 +314,16 @@ Completed: 3 (0.00%) (Ranked 374)
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
-| 2023-12-14 | 127,054 | 3 |
+| 2023-12-14 | 127,062 | 3 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 51)  
-Sum: 20,417 (Ranked 59)  
+Sum: 20,427 (Ranked 59)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,689 |
 | This game has Diverse Characters | 1,685 |
-| This game has Challenging Combat | 1,576 |
+| This game has Challenging Combat | 1,586 |
 | This game is Highly Recommended | 1,519 |
 | This game is Extremely Fun | 1,444 |
 | This game has Amazing Characters | 1,442 |
@@ -656,4 +656,4 @@ Diff (max vs sum): -8
 | 2023-12-11 | 4.68 | - | 7,586 | 20,081 |
 | 2023-12-12 | 4.68 | - | 7,622 | 20,221 |
 | 2023-12-13 | 4.68 | - | 7,665 | 20,333 |
-| 2023-12-14 | 4.68 | - | 7,689 | 20,417 |
+| 2023-12-14 | 4.68 | - | 7,689 | 20,427 |

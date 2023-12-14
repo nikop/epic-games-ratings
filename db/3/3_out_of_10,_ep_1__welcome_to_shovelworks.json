@@ -3,9 +3,9 @@
   "Name": "3 out of 10, EP 1: Welcome To Shovelworks",
   "ProductSlug": "3-out-of-10-ep-1",
   "Ranking_EOS_Progress": 797,
-  "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 493,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 375,
+  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-08-06T15:00:00+00:00",
     "PcReleaseDate": "2020-08-06T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.6710051+00:00",
   "LastChanged": "2023-03-31T05:58:42.6710052+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:30.2044187+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:59:12.2762789+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:06:14.7038806+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:58:45.5332675+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:05:17.0698218+00:00"
 }

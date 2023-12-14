@@ -6,9 +6,9 @@
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
-  "Ranking_EOS_Completed": 374,
+  "Ranking_EOS_Completed": 375,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9628,10 +9628,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20417,
       "NumberOfAwardsMax": 7689
+    },
+    {
+      "Time": "2023-12-14T21:00:00.7778846+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20427,
+      "NumberOfAwardsMax": 7689
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20417,
+  "NumberOfAwards": 20427,
   "NumberOfAwardsMax": 7689,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9663,7 +9669,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1576
+      "Count": 1586
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9708,9 +9714,9 @@
       "Count": 1004
     }
   ],
-  "EOS_Progressed": 127054,
+  "EOS_Progressed": 127062,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1285,
+  "EOS_NewPlayers": 1283,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35038,6 +35044,11 @@
       "Time": "2023-12-14T20:09:14.2021164+00:00",
       "NumProgressed": 127054,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T21:08:56.314597+00:00",
+      "NumProgressed": 127062,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35047,9 +35058,9 @@
       "ID": "affinity_meltdown_first_time",
       "SetID": "64l4lke",
       "Name": "Don\u0027t Make Me Turn This Coach Around",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1271
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -35065,7 +35076,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -35231,9 +35242,9 @@
       "ID": "combat_kill_gaunts",
       "SetID": "64l4lke",
       "Name": "Now Stay Dead",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 762
+      "UsersEstimate": 889
     },
     {
       "ID": "combat_kill_gentry",
@@ -35585,7 +35596,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "combat_kill_collector",
@@ -35641,7 +35652,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "quest_complete_crusader",
@@ -35680,21 +35691,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127054,
+      "Progressed": 127062,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1923,
+      "Progressed": 1931,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-14T20:00:55.1191118+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:09:14.2021158+00:00",
+  "LastChanged": "2023-12-14T21:00:00.7778844+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:08:56.3145967+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T20:00:55.1191124+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:09:14.2022671+00:00"
+  "LastUpdate_Ratings": "2023-12-14T21:00:00.7778849+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:08:56.3147471+00:00"
 }

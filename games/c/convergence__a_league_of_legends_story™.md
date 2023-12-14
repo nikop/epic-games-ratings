@@ -6,16 +6,16 @@ Rating: 4.62 (Ranked 371)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 34.00% | ~327 |
-| Rail Rat | 27.00% | ~259 |
+| Rail Rat | 27.00% | ~260 |
 | The Mysterious Stranger | 26.00% | ~250 |
 | Immaculate Aim | 23.00% | ~221 |
-| The Steel Shadow | 22.00% | ~211 |
-| Make Up For Lost Time | 22.00% | ~211 |
-| Time Flies | 22.00% | ~211 |
-| No, Thanks! | 22.00% | ~211 |
-| The Prince in Heels | 22.00% | ~211 |
-| Immaculate Aim | 22.00% | ~211 |
-| The Brass Boss | 22.00% | ~211 |
+| The Steel Shadow | 22.00% | ~212 |
+| Make Up For Lost Time | 22.00% | ~212 |
+| Time Flies | 22.00% | ~212 |
+| No, Thanks! | 22.00% | ~212 |
+| The Prince in Heels | 22.00% | ~212 |
+| Immaculate Aim | 22.00% | ~212 |
+| The Brass Boss | 22.00% | ~212 |
 | The Harder They Fall | 21.00% | ~202 |
 | Breaking Down Barriers | 21.00% | ~202 |
 | The Wicked Twins | 21.00% | ~202 |
@@ -29,7 +29,7 @@ Rating: 4.62 (Ranked 371)
 | Check Your Pulse | 19.00% | ~183 |
 | The Man Who Shattered Time | 18.00% | ~173 |
 | The Family Fortune | 18.00% | ~173 |
-| Street Style | 17.00% | ~163 |
+| Street Style | 17.00% | ~164 |
 | Whiz Kid | 15.00% | ~144 |
 | Cartographer | 15.00% | ~144 |
 | Treasure Trove | 14.00% | ~135 |
@@ -42,8 +42,8 @@ Rating: 4.62 (Ranked 371)
 | Factorywood Explorer | 10.00% | ~96 |
 | Fairgrounds Explorer | 10.00% | ~96 |
 | Theater Explorer | 10.00% | ~96 |
-| Cultivair Explorer | 9.00% | ~86 |
-| Entresol Explorer | 9.00% | ~86 |
+| Cultivair Explorer | 9.00% | ~87 |
+| Entresol Explorer | 9.00% | ~87 |
 | Corin Goes Home | 8.00% | ~77 |
 | Sartorialist | 8.00% | ~77 |
 | Golem Hunter | 7.00% | ~67 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 371)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 961 (Ranked 275)  
+Progressed: 962 (Ranked 275)  
 Completed: 6 (0.62%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 6 (0.62%) (Ranked 192)
 | 2023-12-01 | 946 | 6 |
 | 2023-12-06 | 947 | 6 |
 | 2023-12-13 | 955 | 6 |
-| 2023-12-14 | 961 | 6 |
+| 2023-12-14 | 962 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

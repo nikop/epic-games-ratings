@@ -43,7 +43,7 @@
 | Doom Hill | 27.00% | ~149 |
 | Hungry, Hungry Gorgu! | 26.00% | ~144 |
 | Stop Tanos! | 26.00% | ~144 |
-| Brimstone Shaken, Not Stirred | 25.00% | ~138 |
+| Brimstone Shaken, Not Stirred | 26.00% | ~144 |
 | Sabotage! | 24.00% | ~132 |
 | Raiders of the Lost Stone | 24.00% | ~132 |
 | Bonus Evilness | 23.00% | ~127 |

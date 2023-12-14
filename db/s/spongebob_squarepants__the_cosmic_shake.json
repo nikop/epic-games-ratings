@@ -4,8 +4,8 @@
   "ProductSlug": "spongebob-squarepants-the-cosmic-shake",
   "Ranking_EOS_Progress": 535,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 493,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-01-31T18:00:00+00:00",
     "PcReleaseDate": "2023-01-31T18:00:00+00:00",
@@ -560,8 +560,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6900209+00:00",
   "FirstSeenAchievements": "2023-10-19T10:03:36.1362523+00:00",
   "LastChanged": "2023-03-31T05:57:06.6900211+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:05:15.8401324+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:04:33.1261584+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:38.9422113+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:58:40.40082+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:05:15.8401721+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:58:21.6151028+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:04:33.1261883+00:00"
 }

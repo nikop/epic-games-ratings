@@ -3,9 +3,9 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 238,
-  "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 318,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1721,
+  "EOS_Progressed": 1724,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5184,6 +5184,11 @@
       "Time": "2023-12-14T20:10:28.9967477+00:00",
       "NumProgressed": 1721,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T21:09:53.8026795+00:00",
+      "NumProgressed": 1724,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5196,7 +5201,7 @@
       "Name": "A New Hope",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_10",
@@ -5228,7 +5233,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "achievement_14",
@@ -5420,7 +5425,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1534
     },
     {
       "ID": "achievement_36",
@@ -5436,7 +5441,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1138
     },
     {
       "ID": "achievement_38",
@@ -5460,7 +5465,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "achievement_40",
@@ -5468,7 +5473,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "achievement_41",
@@ -5498,9 +5503,9 @@
       "ID": "achievement_44",
       "SetID": "cemm4l8",
       "Name": "A good blaster at your side",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 516
+      "UsersEstimate": 500
     },
     {
       "ID": "achievement_45",
@@ -5699,13 +5704,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1721,
+      "Progressed": 1724,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1721,
+      "Progressed": 1724,
       "Completed": 1
     }
   ],
@@ -5713,8 +5718,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:10:28.9967473+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:09:53.802679+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.6035488+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:58:46.7420037+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:10:28.9968262+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:58:26.5812458+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:09:53.8027413+00:00"
 }

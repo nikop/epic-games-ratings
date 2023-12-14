@@ -6,8 +6,8 @@
   "Ranking_Popularity": 563,
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 91,
-  "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_Completed": 217,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -494,9 +494,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95489,
+  "EOS_Progressed": 95493,
   "EOS_Completed": 434,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -26974,6 +26974,11 @@
       "Time": "2023-12-14T20:09:15.4800969+00:00",
       "NumProgressed": 95489,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-12-14T21:08:56.9067783+00:00",
+      "NumProgressed": 95493,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 10,
@@ -26985,7 +26990,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4774
+      "UsersEstimate": 4775
     },
     {
       "ID": "Drawings01",
@@ -27049,7 +27054,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 33421
+      "UsersEstimate": 33423
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -27064,15 +27069,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 95489,
+      "Progressed": 95493,
       "Completed": 434
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-07T22:03:08.3516808+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:09:15.4800967+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:08:56.9067778+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2634868+00:00",
-  "LastUpdate_Ratings": "2023-12-14T20:03:14.7557547+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:09:15.4802336+00:00"
+  "LastUpdate_Ratings": "2023-12-14T21:03:05.0071996+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:08:56.9069302+00:00"
 }

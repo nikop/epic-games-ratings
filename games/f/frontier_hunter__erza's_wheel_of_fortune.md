@@ -12,8 +12,8 @@
 | Fashion Connoisseur | 53.00% | ~317 |
 | Arms Mechanic | 48.00% | ~288 |
 | Flower Thief | 43.00% | ~258 |
+| Apostle of Flame | 38.00% | ~228 |
 | Beginner Artificer | 37.00% | ~222 |
-| Apostle of Flame | 37.00% | ~222 |
 | Beginner Cook | 36.00% | ~216 |
 | Seal Breaker | 31.00% | ~186 |
 | Handyman | 28.00% | ~168 |
@@ -50,8 +50,8 @@
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 599 (Ranked 306)  
-Completed: 1 (0.17%) (Ranked 272)  
+Progressed: 599 (Ranked 307)  
+Completed: 1 (0.17%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

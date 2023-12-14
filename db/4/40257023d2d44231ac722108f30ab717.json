@@ -3,9 +3,9 @@
   "Name": "Orten Was The Case",
   "ProductSlug": "orten-was-the-case-d108fb",
   "Ranking_EOS_Progress": 613,
-  "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 57,
+  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-29T00:00:00+00:00",
     "PcReleaseDate": "2023-11-29T00:00:00+00:00",
@@ -162,9 +162,9 @@
       "ID": "HOOPDREAMS",
       "SetID": "51l0gl8",
       "Name": "Hoop Dreams",
-      "Percentage": 36,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KINGOFTHELINE",
@@ -249,8 +249,8 @@
   ],
   "FirstSeen": "2023-12-03T01:50:41.1036238+00:00",
   "FirstSeenAchievements": "2023-10-25T12:03:08.1004674+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:08:18.6517567+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:08:14.4636011+00:00",
   "LastUpdate_AppInfo": "2023-12-13T14:57:06.3184452+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:58:40.9190154+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:08:18.65177+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:58:21.9702346+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:08:14.4636115+00:00"
 }

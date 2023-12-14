@@ -2,13 +2,13 @@
   "ID": "03208f1f61764f5a8f6b7ea24c56edf1",
   "Name": "Roller Champions\u2122",
   "ProductSlug": "roller-champions",
-  "Ranking_Rating": 814,
+  "Ranking_Rating": 813,
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 797,
-  "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 493,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 375,
+  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-06-23T13:40:00+00:00",
     "PcReleaseDate": "2022-05-25T14:00:00+00:00",
@@ -3251,18 +3251,24 @@
       "Rating": 4.34,
       "NumberOfAwards": 2075,
       "NumberOfAwardsMax": 266
+    },
+    {
+      "Time": "2023-12-14T20:57:13.8280892+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 2076,
+      "NumberOfAwardsMax": 267
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2075,
-  "NumberOfAwardsMax": 266,
+  "NumberOfAwards": 2076,
+  "NumberOfAwardsMax": 267,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 266
+      "Count": 267
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3336,8 +3342,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2023-12-14T14:02:43.9858693+00:00",
+  "LastChanged": "2023-12-14T20:57:13.8280891+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.001359+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:57:06.8267706+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:05:06.9336424+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:57:13.8280899+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:04:26.4485408+00:00"
 }

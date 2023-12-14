@@ -2,10 +2,10 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 306,
-  "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Progress": 307,
+  "Ranking_EOS_Completed": 273,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -2287,9 +2287,9 @@
       "ID": "ACHIEVEMENT_7",
       "SetID": "7pimpda",
       "Name": "Apostle of Flame",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 228
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2320,8 +2320,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-14T20:09:07.70287+00:00",
+  "LastChanged_Achievements": "2023-12-14T21:08:51.4109738+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.1790952+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:58:24.3766412+00:00",
-  "LastUpdate_Achievements": "2023-12-14T20:09:07.702905+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:58:09.345308+00:00",
+  "LastUpdate_Achievements": "2023-12-14T21:08:51.4110171+00:00"
 }
