@@ -679,9 +679,9 @@
       "ID": "ACH_014",
       "SetID": "72imik0",
       "Name": "Order and Method",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_015",
@@ -1016,8 +1016,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-12-13T23:04:40.1636971+00:00",
+  "LastChanged_Achievements": "2023-12-14T00:04:25.4920199+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:05.7547877+00:00",
-  "LastUpdate_Ratings": "2023-12-13T23:03:09.878324+00:00",
-  "LastUpdate_Achievements": "2023-12-13T23:04:40.1637296+00:00"
+  "LastUpdate_Ratings": "2023-12-14T00:02:59.351127+00:00",
+  "LastUpdate_Achievements": "2023-12-14T00:04:25.4920507+00:00"
 }

@@ -5,12 +5,12 @@ Rating: 4.19 (Ranked 938)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 10.00% | ~1,656 |
-| Paper Jams | 9.00% | ~1,490 |
-| Flesh Wound | 8.00% | ~1,325 |
-| Float Like A Butterfly | 8.00% | ~1,325 |
-| Chew 'Em Up | 7.00% | ~1,159 |
-| The Outer Way | 7.00% | ~1,159 |
+| Get a Grip | 10.00% | ~1,657 |
+| Paper Jams | 9.00% | ~1,491 |
+| Flesh Wound | 8.00% | ~1,326 |
+| Float Like A Butterfly | 8.00% | ~1,326 |
+| Chew 'Em Up | 7.00% | ~1,160 |
+| The Outer Way | 7.00% | ~1,160 |
 | Two Heads Are Better Than One | 6.00% | ~994 |
 | Workplace Hazard | 6.00% | ~994 |
 | Reforged | 6.00% | ~994 |
@@ -21,20 +21,20 @@ Rating: 4.19 (Ranked 938)
 | Crash Site | 6.00% | ~994 |
 | Full Circle | 6.00% | ~994 |
 | Power Up | 6.00% | ~994 |
-| Keep Fighting | 6.00% | ~269 |
+| Keep Fighting | 6.00% | ~270 |
 | You Need a Gun | 5.00% | ~828 |
 | I Do Belong Here | 5.00% | ~828 |
 | Terminated | 5.00% | ~828 |
 | What Lies Beneath | 5.00% | ~828 |
-| It's Time | 5.00% | ~224 |
-| Giving Back | 4.00% | ~662 |
+| It's Time | 5.00% | ~225 |
+| Giving Back | 4.00% | ~663 |
 | The Commonality | 3.00% | ~497 |
 | One Last Job | 3.00% | ~135 |
 | In Striking Distance | 2.00% | ~331 |
 | Big Spender | 1.00% | ~45 |
 | This Isn't About Escape | 1.00% | ~45 |
 | Armed to the Teeth | 0.90% | ~40 |
-| Grim Reaper | 0.80% | ~132 |
+| Grim Reaper | 0.80% | ~133 |
 | Parole Denied | 0.80% | ~36 |
 | Information Overload | 0.80% | ~36 |
 | Mugshot | 0.60% | ~99 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 938)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,561 (Ranked 150)  
+Progressed: 16,569 (Ranked 150)  
 Completed: 81 (0.49%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,9 +283,10 @@ Completed: 81 (0.49%) (Ranked 213)
 | 2023-12-10 | 16,523 | 81 |
 | 2023-12-11 | 16,525 | 81 |
 | 2023-12-13 | 16,561 | 81 |
+| 2023-12-14 | 16,569 | 81 |
 ## Awards
 Max (Quickly Understood Controls): 85  (Ranked 389)  
-Sum: 505 (Ranked 327)  
+Sum: 506 (Ranked 327)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
@@ -293,7 +294,7 @@ Diff (max vs sum): 62
 | This game has Quickly Understood Controls | 85 |
 | This game has Amazing Storytelling | 84 |
 | This game has Amazing Characters | 82 |
-| This game is Extremely Fun | 75 |
+| This game is Extremely Fun | 76 |
 | This game has Challenging Combat | 63 |
 | This game has a Creative Community | 31 |
 ## Ratings History
@@ -469,3 +470,4 @@ Diff (max vs sum): 62
 | 2023-12-06 | 4.19 | 84 | 502 |
 | 2023-12-07 | 4.19 | 85 | 504 |
 | 2023-12-12 | 4.19 | 85 | 505 |
+| 2023-12-14 | 4.19 | 85 | 506 |

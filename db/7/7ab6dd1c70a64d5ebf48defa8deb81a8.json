@@ -4,8 +4,8 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 282,
+  "EOS_Progressed": 284,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
@@ -1100,6 +1100,11 @@
       "Time": "2023-12-13T23:10:43.2957415+00:00",
       "NumProgressed": 282,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T00:10:15.6145057+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1183,7 +1188,7 @@
       "Name": "Trinity",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_11",
@@ -1255,7 +1260,7 @@
       "Name": "Slayer",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_20",
@@ -1295,7 +1300,7 @@
       "Name": "All There Is",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_25",
@@ -1303,7 +1308,7 @@
       "Name": "Fashion Victim",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_26",
@@ -1398,14 +1403,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 282,
+      "Progressed": 284,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-13T23:10:43.295741+00:00",
+  "LastChanged_Achievements": "2023-12-14T00:10:15.6145056+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-13T22:57:41.72003+00:00",
-  "LastUpdate_Achievements": "2023-12-13T23:10:43.2957702+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:57:38.2435647+00:00",
+  "LastUpdate_Achievements": "2023-12-14T00:10:15.614526+00:00"
 }

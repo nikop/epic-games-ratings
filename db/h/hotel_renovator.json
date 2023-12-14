@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1161,
+  "EOS_Progressed": 1162,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.55,
   "EosHistory": [
@@ -2425,6 +2425,11 @@
       "Time": "2023-12-13T23:05:35.7103822+00:00",
       "NumProgressed": 1161,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-14T00:05:21.0738592+00:00",
+      "NumProgressed": 1162,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -2436,7 +2441,7 @@
       "Name": "Humble beginnings",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -2476,7 +2481,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -2554,9 +2559,9 @@
       "ID": "ACH_NEWSPAPER_ARTICLE",
       "SetID": "7k95e4n",
       "Name": "Big fortune",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 395
+      "UsersEstimate": 383
     },
     {
       "ID": "ACH_POSTCARD",
@@ -2588,7 +2593,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "ACH_STAR_2",
@@ -2612,7 +2617,7 @@
       "Name": "Nearly there",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH_STAR_5",
@@ -2636,7 +2641,7 @@
       "Name": "Excellent service",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -2651,7 +2656,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1161,
+      "Progressed": 1162,
       "Completed": 18
     }
   ],
@@ -2659,8 +2664,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-04T06:59:58.8594185+00:00",
-  "LastChanged_Achievements": "2023-12-13T23:05:35.7103817+00:00",
+  "LastChanged_Achievements": "2023-12-14T00:05:21.073859+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:05.3714871+00:00",
-  "LastUpdate_Ratings": "2023-12-13T22:58:15.9928048+00:00",
-  "LastUpdate_Achievements": "2023-12-13T23:05:35.7104143+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:58:10.3891866+00:00",
+  "LastUpdate_Achievements": "2023-12-14T00:05:21.073885+00:00"
 }

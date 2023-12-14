@@ -5,23 +5,23 @@ Rating: 4.38 (Ranked 771)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~769,731 |
-| The ABCs | 43.00% | ~675,478 |
-| Home Run | 41.00% | ~644,061 |
-| Keeps Coming Off | 41.00% | ~644,061 |
-| Guts | 20.00% | ~314,176 |
-| Meat Grinder | 19.00% | ~298,467 |
-| Burning Man | 16.00% | ~251,341 |
-| Lived to Tell the Tale | 12.00% | ~188,506 |
-| Highlander | 10.00% | ~157,088 |
-| Unstoppable | 10.00% | ~157,088 |
-| Just a Scratch | 9.00% | ~141,379 |
-| Tough Nut to Crack | 6.00% | ~94,253 |
-| Yoink | 6.00% | ~94,253 |
-| Long List of Names | 4.00% | ~62,835 |
-| Pyromaniac | 4.00% | ~62,835 |
-| The Queen of Weapons | 4.00% | ~62,835 |
-| This isn’t Sparta | 3.00% | ~47,126 |
+| Justice from the Grave | 49.00% | ~769,739 |
+| The ABCs | 43.00% | ~675,485 |
+| Home Run | 41.00% | ~644,067 |
+| Keeps Coming Off | 41.00% | ~644,067 |
+| Guts | 20.00% | ~314,179 |
+| Meat Grinder | 19.00% | ~298,470 |
+| Burning Man | 16.00% | ~251,343 |
+| Lived to Tell the Tale | 12.00% | ~188,507 |
+| Highlander | 10.00% | ~157,090 |
+| Unstoppable | 10.00% | ~157,090 |
+| Just a Scratch | 9.00% | ~141,381 |
+| Tough Nut to Crack | 6.00% | ~94,254 |
+| Yoink | 6.00% | ~94,254 |
+| Long List of Names | 4.00% | ~62,836 |
+| Pyromaniac | 4.00% | ~62,836 |
+| The Queen of Weapons | 4.00% | ~62,836 |
+| This isn’t Sparta | 3.00% | ~47,127 |
 | Crybaby | 2.00% | ~31,418 |
 | Eagle Eye | 2.00% | ~31,418 |
 | I Know Kung Fu | 2.00% | ~31,418 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 771)
 | That’s No Ordinary Cold | 0.10% | ~1,571 |
 | Stairway to Hell | 0.10% | ~1,571 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,570,880 (Ranked 7)  
+Progressed: 1,570,895 (Ranked 7)  
 Completed: 70 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,6 +282,7 @@ Completed: 70 (0.00%) (Ranked 373)
 | 2023-12-11 | 1,570,104 | 70 |
 | 2023-12-12 | 1,570,508 | 70 |
 | 2023-12-13 | 1,570,880 | 70 |
+| 2023-12-14 | 1,570,895 | 70 |
 ## Awards
 Max (Diverse Characters): 1,047  (Ranked 152)  
 Sum: 5,472 (Ranked 135)  

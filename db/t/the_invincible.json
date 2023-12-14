@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 561,
+  "EOS_Progressed": 562,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1635,6 +1635,11 @@
       "Time": "2023-12-13T23:09:48.2815789+00:00",
       "NumProgressed": 561,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T00:09:22.8119014+00:00",
+      "NumProgressed": 562,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1647,7 +1652,7 @@
       "Name": "The Teleprobe",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "AchvAllMemories",
@@ -1687,7 +1692,7 @@
       "Name": "Violent solution",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "AchvConvoyList",
@@ -1711,7 +1716,7 @@
       "Name": "The Alliance",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "AchvDoom",
@@ -1743,7 +1748,7 @@
       "Name": "Krauta is alive",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "AchvLava",
@@ -1775,7 +1780,7 @@
       "Name": "The Necroevolution",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "AchvNest",
@@ -1783,7 +1788,7 @@
       "Name": "Innate curiosity",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "AchvNoHoles",
@@ -1829,9 +1834,9 @@
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 247
     },
     {
       "ID": "AchvReachCondor",
@@ -1878,14 +1883,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 561,
+      "Progressed": 562,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-13T23:09:48.2815785+00:00",
+  "LastChanged_Achievements": "2023-12-14T00:09:22.8119012+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.1415487+00:00",
-  "LastUpdate_Ratings": "2023-12-13T23:00:03.1280023+00:00",
-  "LastUpdate_Achievements": "2023-12-13T23:09:48.2816005+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:59:52.7789655+00:00",
+  "LastUpdate_Achievements": "2023-12-14T00:09:22.8119196+00:00"
 }

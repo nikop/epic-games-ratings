@@ -6,10 +6,10 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,062 |
-| Gun Fu | 7.00% | ~68,286 |
-| Right Back At Ya | 6.00% | ~58,531 |
-| The Fool | 6.00% | ~58,531 |
+| V for Vendetta | 12.00% | ~117,063 |
+| Gun Fu | 7.00% | ~68,287 |
+| Right Back At Ya | 6.00% | ~58,532 |
+| The Fool | 6.00% | ~58,532 |
 | The Lovers | 5.00% | ~48,776 |
 | Full Body Conversion | 4.00% | ~39,021 |
 | Stanislavski's Method | 4.00% | ~39,021 |
@@ -21,20 +21,20 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 3.00% | ~29,266 |
 | True Warrior | 3.00% | ~29,266 |
 | Legend of The Afterlife | 3.00% | ~29,266 |
-| Relic Ruler | 3.00% | ~3,124 |
-| Arachnophobia | 3.00% | ~3,124 |
-| Bushido and Chill | 2.00% | ~19,510 |
-| Master Crafter | 2.00% | ~19,510 |
-| I Am The Law | 2.00% | ~19,510 |
-| The Quick and the Dead | 2.00% | ~19,510 |
-| Life of the Road | 2.00% | ~19,510 |
-| The World | 2.00% | ~19,510 |
-| Judy vs Night City | 2.00% | ~19,510 |
+| Relic Ruler | 3.00% | ~3,125 |
+| Arachnophobia | 3.00% | ~3,125 |
+| Bushido and Chill | 2.00% | ~19,511 |
+| Master Crafter | 2.00% | ~19,511 |
+| I Am The Law | 2.00% | ~19,511 |
+| The Quick and the Dead | 2.00% | ~19,511 |
+| Life of the Road | 2.00% | ~19,511 |
+| The World | 2.00% | ~19,511 |
+| Judy vs Night City | 2.00% | ~19,511 |
 | To Protect and Serve | 1.00% | ~9,755 |
 | The Wandering Fool | 1.00% | ~9,755 |
 | Two Heads, One Bullet | 1.00% | ~9,755 |
-| Spin Doctor | 1.00% | ~1,041 |
-| Easy Come, Easy Go | 1.00% | ~1,041 |
+| Spin Doctor | 1.00% | ~1,042 |
+| Easy Come, Easy Go | 1.00% | ~1,042 |
 | King of Wands | 0.90% | ~937 |
 | Ten out of Ten | 0.80% | ~7,804 |
 | The Sun | 0.80% | ~7,804 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975,519 (Ranked 15)  
+Progressed: 975,529 (Ranked 15)  
 Completed: 2,900 (0.30%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,6 +312,7 @@ Completed: 2,900 (0.30%) (Ranked 241)
 | 2023-12-11 | 974,702 | 2,886 |
 | 2023-12-12 | 975,121 | 2,891 |
 | 2023-12-13 | 975,519 | 2,900 |
+| 2023-12-14 | 975,529 | 2,900 |
 ## Awards
 Max (Character Customization): 122,342  (Ranked 9)  
 Sum: 416,033 (Ranked 9)  

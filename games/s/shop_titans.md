@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,607 |
-| Titan's First Steps | 8.00% | ~11,607 |
+| Sponsored by Argon | 8.00% | ~11,608 |
+| Titan's First Steps | 8.00% | ~11,608 |
 | Basic in Bulk | 7.00% | ~10,157 |
 | Tinkle of Coins | 7.00% | ~10,157 |
 | Disintermediation | 5.00% | ~7,255 |
@@ -48,6 +48,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flying off the Shelves | 2.00% | ~2,902 |
 | This Power Level...! | 2.00% | ~2,902 |
 | Omae wa Mou Shindeiru | 2.00% | ~2,902 |
+| Master of Transmutation | 2.00% | ~2,902 |
 | Hidden Potential | 2.00% | ~2,902 |
 | Power of Love | 2.00% | ~2,902 |
 | Supercharged | 2.00% | ~2,902 |
@@ -73,6 +74,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Seasoned Journeyman | 2.00% | ~2,902 |
 | Attrition Mission | 2.00% | ~2,902 |
 | Glittering Collection | 2.00% | ~2,902 |
+| Treasure Trove | 2.00% | ~2,902 |
 | Black Friday Special | 2.00% | ~2,902 |
 | Master Recycler | 2.00% | ~2,902 |
 | Magical Harmony | 2.00% | ~2,902 |
@@ -88,7 +90,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Archivist | 1.00% | ~1,451 |
 | Fillin' the Bin | 1.00% | ~1,451 |
 | Industrial Evolution | 1.00% | ~1,451 |
-| Master of Transmutation | 1.00% | ~1,451 |
 | Thank You Tom Nook | 1.00% | ~1,451 |
 | A Legend is Born | 1.00% | ~1,451 |
 | Necromancer Queen | 1.00% | ~1,451 |
@@ -98,7 +99,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Precision Engineering | 1.00% | ~1,451 |
 | Scourge of the Seas | 1.00% | ~1,451 |
 | Eternal Crusade | 1.00% | ~1,451 |
-| Treasure Trove | 1.00% | ~1,451 |
 | Moment of Respite | 1.00% | ~1,451 |
 | King's Shadow | 1.00% | ~1,451 |
 | All Accounted For | 1.00% | ~1,451 |
@@ -110,16 +110,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.70% | ~1,016 |
 | Bane of Legends | 0.60% | ~871 |
 | Anything not Nailed Down | 0.60% | ~871 |
-| Ultimate Collector | 0.50% | ~725 |
-| Unleashed Potential | 0.50% | ~725 |
-| JACKPOT!!! | 0.50% | ~725 |
+| Ultimate Collector | 0.50% | ~726 |
+| Unleashed Potential | 0.50% | ~726 |
+| JACKPOT!!! | 0.50% | ~726 |
 | Oligarch Monarch | 0.40% | ~580 |
 | Merchant Extraordinaire | 0.40% | ~580 |
 | To Hell and Back | 0.30% | ~435 |
 | Cash Only Please | 0.30% | ~435 |
 | Capitalist Camaraderie | 0.20% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,093 (Ranked 80)  
+Progressed: 145,105 (Ranked 80)  
 Completed: 297 (0.20%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,6 +357,7 @@ Completed: 297 (0.20%) (Ranked 261)
 | 2023-12-11 | 144,756 | 293 |
 | 2023-12-12 | 144,871 | 294 |
 | 2023-12-13 | 145,093 | 297 |
+| 2023-12-14 | 145,105 | 297 |
 ## Awards
 Max (Great for Beginners): 4,882  (Ranked 75)  
 Sum: 27,707 (Ranked 51)  

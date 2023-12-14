@@ -7537,9 +7537,9 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 145093,
+  "EOS_Progressed": 145105,
   "EOS_Completed": 297,
-  "EOS_NewPlayers": 1044,
+  "EOS_NewPlayers": 1051,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -32302,6 +32302,11 @@
       "Time": "2023-12-13T23:04:37.7597556+00:00",
       "NumProgressed": 145093,
       "NumCompleted": 297
+    },
+    {
+      "Time": "2023-12-14T00:04:23.1717146+00:00",
+      "NumProgressed": 145105,
+      "NumCompleted": 297
     }
   ],
   "TotalAchievements": 112,
@@ -32481,7 +32486,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11607
+      "UsersEstimate": 11608
     },
     {
       "ID": "chest02",
@@ -32537,7 +32542,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "commonres01",
@@ -32639,9 +32644,9 @@
       "ID": "donovan_a",
       "SetID": "anfd17p",
       "Name": "Master of Transmutation",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1451
+      "UsersEstimate": 2902
     },
     {
       "ID": "enchant01",
@@ -32657,7 +32662,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "energy01",
@@ -32881,7 +32886,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "legenchant01",
@@ -33063,9 +33068,9 @@
       "ID": "rareres02",
       "SetID": "anfd17p",
       "Name": "Treasure Trove",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1451
+      "UsersEstimate": 2902
     },
     {
       "ID": "rareres03",
@@ -33129,7 +33134,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11607
+      "UsersEstimate": 11608
     },
     {
       "ID": "twinenchant01",
@@ -33208,15 +33213,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 145093,
+      "Progressed": 145105,
       "Completed": 297
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-13T17:03:06.3454417+00:00",
-  "LastChanged_Achievements": "2023-12-13T23:04:37.7597551+00:00",
+  "LastChanged_Achievements": "2023-12-14T00:04:23.1717144+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2420411+00:00",
-  "LastUpdate_Ratings": "2023-12-13T23:03:23.414175+00:00",
-  "LastUpdate_Achievements": "2023-12-13T23:04:37.7599951+00:00"
+  "LastUpdate_Ratings": "2023-12-14T00:03:11.7306398+00:00",
+  "LastUpdate_Achievements": "2023-12-14T00:04:23.1719087+00:00"
 }

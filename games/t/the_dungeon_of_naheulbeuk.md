@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,342 |
-| Alt+F4 | 9.00% | ~21,835 |
-| Where's that freaking Dwarf? | 8.00% | ~19,409 |
+| Sowwy! | 36.00% | ~87,343 |
+| Alt+F4 | 9.00% | ~21,836 |
+| Where's that freaking Dwarf? | 8.00% | ~19,410 |
 | Déjà vu | 7.00% | ~16,983 |
 | Sock! SOCK! | 6.00% | ~14,557 |
 | A beer, two curses, three companions | 5.00% | ~12,131 |
@@ -16,11 +16,11 @@ Number of Ratings: 118  (23.09.2022)
 | Speedrun | 5.00% | ~12,131 |
 | DM intervention | 4.00% | ~9,705 |
 | Fireproof Wizardess | 4.00% | ~9,705 |
-| Livin' in a dwarven paradise | 3.00% | ~7,278 |
-| Way of the Wimp | 3.00% | ~7,278 |
-| The plot thickens... At the tavern | 3.00% | ~7,278 |
-| The demons' feast | 3.00% | ~7,278 |
-| The Woman in the High Castle | 3.00% | ~7,278 |
+| Livin' in a dwarven paradise | 3.00% | ~7,279 |
+| Way of the Wimp | 3.00% | ~7,279 |
+| The plot thickens... At the tavern | 3.00% | ~7,279 |
+| The demons' feast | 3.00% | ~7,279 |
+| The Woman in the High Castle | 3.00% | ~7,279 |
 | Shiny and Crôm | 2.00% | ~4,852 |
 | The Great Library | 2.00% | ~4,852 |
 | Torture and Sensibility | 2.00% | ~4,852 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~243 |
 | Dwarf Candy | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,616 (Ranked 63)  
+Progressed: 242,620 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,6 +292,7 @@ Completed: 7 (0.00%) (Ranked 373)
 | 2023-12-11 | 242,333 | 7 |
 | 2023-12-12 | 242,492 | 7 |
 | 2023-12-13 | 242,616 | 7 |
+| 2023-12-14 | 242,620 | 7 |
 ## Awards
 Max (Character Customization): 246  (Ranked 272)  
 Sum: 518 (Ranked 326)  

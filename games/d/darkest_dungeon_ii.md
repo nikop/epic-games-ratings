@@ -36,14 +36,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 0.60% | ~760 |
 | Worldly Traveller | 0.60% | ~760 |
 | Nope | 0.60% | ~760 |
-| Unleash Hell | 0.50% | ~633 |
-| Unfulfilled Desires | 0.50% | ~633 |
-| Predator | 0.50% | ~633 |
-| Now Stay Dead | 0.50% | ~633 |
-| Reverse Banditry | 0.50% | ~633 |
-| Spelunker | 0.50% | ~633 |
-| Ramble On | 0.50% | ~633 |
-| Road Trip | 0.50% | ~633 |
+| Unleash Hell | 0.50% | ~634 |
+| Unfulfilled Desires | 0.50% | ~634 |
+| Predator | 0.50% | ~634 |
+| Now Stay Dead | 0.50% | ~634 |
+| Reverse Banditry | 0.50% | ~634 |
+| Spelunker | 0.50% | ~634 |
+| Ramble On | 0.50% | ~634 |
+| Road Trip | 0.50% | ~634 |
 | Resurrection | 0.40% | ~507 |
 | Funny Guy | 0.40% | ~507 |
 | Long Live the King | 0.40% | ~507 |
@@ -63,6 +63,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 0.30% | ~380 |
 | Maître De La Lame | 0.30% | ~5 |
 | Et Tu, Riposte? | 0.30% | ~5 |
+| Bacon Bits | 0.20% | ~253 |
 | Shrine of Reflection | 0.20% | ~253 |
 | Handled | 0.20% | ~253 |
 | Battle Hardened | 0.20% | ~3 |
@@ -72,7 +73,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~127 |
 | Clearing the Ledger | 0.10% | ~127 |
 | Circle of Life | 0.10% | ~127 |
-| Bacon Bits | 0.10% | ~127 |
 | No Gravestone Left Unturned | 0.10% | ~127 |
 | Hat Trick | 0.10% | ~127 |
 | 20,000 Leagues Above the Sea | 0.10% | ~127 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,690 (Ranked 84)  
+Progressed: 126,700 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,9 +314,10 @@ Completed: 3 (0.00%) (Ranked 373)
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
+| 2023-12-14 | 126,700 | 3 |
 ## Awards
 Max (Character Customization): 7,665  (Ranked 52)  
-Sum: 20,333 (Ranked 59)  
+Sum: 20,341 (Ranked 59)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -327,8 +328,8 @@ Diff (max vs sum): -7
 | This game has Amazing Characters | 1,437 |
 | This game is Extremely Fun | 1,435 |
 | This game has Amazing Storytelling | 1,370 |
+| This game has Quickly Understood Controls | 1,340 |
 | This game has Unique Visuals | 1,337 |
-| This game has Quickly Understood Controls | 1,332 |
 | This game has a Creative Community | 1,000 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -655,3 +656,4 @@ Diff (max vs sum): -7
 | 2023-12-11 | 4.68 | - | 7,586 | 20,081 |
 | 2023-12-12 | 4.68 | - | 7,622 | 20,221 |
 | 2023-12-13 | 4.68 | - | 7,665 | 20,333 |
+| 2023-12-14 | 4.68 | - | 7,665 | 20,341 |

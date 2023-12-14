@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 470,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 433,
+  "EOS_Progressed": 434,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -443,6 +443,11 @@
       "Time": "2023-12-10T01:57:48.9203781+00:00",
       "NumProgressed": 433,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T00:04:15.962275+00:00",
+      "NumProgressed": 434,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -574,7 +579,7 @@
       "Name": "Joma",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "PlanetLorian",
@@ -582,7 +587,7 @@
       "Name": "Lorian",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "PlanetMagni",
@@ -612,9 +617,9 @@
       "ID": "PlanetTuto",
       "SetID": "c2k469b",
       "Name": "Tuto",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 256
     },
     {
       "ID": "PlanetUdionTorix",
@@ -645,7 +650,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 433,
+      "Progressed": 434,
       "Completed": 0
     }
   ],
@@ -653,8 +658,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-11-02T00:00:47.6208108+00:00",
-  "LastChanged_Achievements": "2023-12-13T23:04:30.0159197+00:00",
+  "LastChanged_Achievements": "2023-12-14T00:04:15.9622747+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.9874259+00:00",
-  "LastUpdate_Ratings": "2023-12-13T22:58:28.4928104+00:00",
-  "LastUpdate_Achievements": "2023-12-13T23:04:30.0159394+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:58:21.4617689+00:00",
+  "LastUpdate_Achievements": "2023-12-14T00:04:15.9622904+00:00"
 }

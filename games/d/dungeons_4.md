@@ -40,9 +40,9 @@
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~158 |
 | Forbidden Knowledge | 28.00% | ~153 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~147 |
+| Stop Tanos! | 27.00% | ~147 |
 | Doom Hill | 27.00% | ~147 |
 | Hungry, Hungry Gorgu! | 26.00% | ~142 |
-| Stop Tanos! | 26.00% | ~142 |
 | Brimstone Shaken, Not Stirred | 25.00% | ~136 |
 | Sabotage! | 24.00% | ~131 |
 | Bonus Evilness | 23.00% | ~125 |

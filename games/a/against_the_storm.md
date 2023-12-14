@@ -9,21 +9,21 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 4.00% | ~722 |
 | Overgrown Library | 4.00% | ~722 |
 | Petrified Necropolis | 4.00% | ~722 |
-| Frosts | 3.00% | ~541 |
-| Land of Greed | 3.00% | ~541 |
-| Ominous Presence | 3.00% | ~541 |
-| Gathering Storm | 3.00% | ~541 |
+| Frosts | 3.00% | ~542 |
+| Land of Greed | 3.00% | ~542 |
+| Ominous Presence | 3.00% | ~542 |
+| Gathering Storm | 3.00% | ~542 |
 | First Real Expedition | 2.00% | ~361 |
 | The Marshlands | 2.00% | ~361 |
 | Taking Action | 2.00% | ~361 |
 | No Deaths | 2.00% | ~361 |
 | Untamed Wilds | 2.00% | ~361 |
-| Overcoming Difficulty | 1.00% | ~180 |
-| Fertile Meadows | 1.00% | ~180 |
-| Royal Outpost | 1.00% | ~180 |
-| Watchtower | 1.00% | ~180 |
-| Coral Forest | 1.00% | ~180 |
-| The Scarlet Orchard | 1.00% | ~180 |
+| Overcoming Difficulty | 1.00% | ~181 |
+| Fertile Meadows | 1.00% | ~181 |
+| Royal Outpost | 1.00% | ~181 |
+| Watchtower | 1.00% | ~181 |
+| Coral Forest | 1.00% | ~181 |
+| The Scarlet Orchard | 1.00% | ~181 |
 | Homesick | 0.90% | ~162 |
 | Lost Colonies | 0.90% | ~162 |
 | Bandit Camp | 0.80% | ~144 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,048 (Ranked 147)  
+Progressed: 18,051 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,6 +304,7 @@ Completed: 40 (0.22%) (Ranked 256)
 | 2023-12-11 | 17,957 | 41 |
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
+| 2023-12-14 | 18,051 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 225)  
 Sum: 3,256 (Ranked 174)  

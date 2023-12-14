@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1551,10 +1551,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 505,
       "NumberOfAwardsMax": 85
+    },
+    {
+      "Time": "2023-12-14T00:03:13.1702207+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 506,
+      "NumberOfAwardsMax": 85
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 505,
+  "NumberOfAwards": 506,
   "NumberOfAwardsMax": 85,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1568,7 +1574,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 75
+      "Count": 76
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1601,9 +1607,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 16561,
+  "EOS_Progressed": 16569,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -9521,6 +9527,11 @@
       "Time": "2023-12-13T23:09:38.0639274+00:00",
       "NumProgressed": 16561,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-12-14T00:09:12.8718017+00:00",
+      "NumProgressed": 16569,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 47,
@@ -9548,7 +9559,7 @@
       "Name": "Giving Back",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -9564,7 +9575,7 @@
       "Name": "Flesh Wound",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -9572,7 +9583,7 @@
       "Name": "Grim Reaper",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -9636,7 +9647,7 @@
       "Name": "Get a Grip",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -9660,7 +9671,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "KILL_ROBOT",
@@ -9692,7 +9703,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -9708,7 +9719,7 @@
       "Name": "Paper Jams",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "SHARE_PHOTO",
@@ -9724,7 +9735,7 @@
       "Name": "The Outer Way",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "STORY_ESCAPE",
@@ -9884,7 +9895,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -9892,7 +9903,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -9907,22 +9918,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16561,
+      "Progressed": 16569,
       "Completed": 81
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4487,
+      "Progressed": 4495,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-12-12T20:02:46.8450038+00:00",
-  "LastChanged_Achievements": "2023-12-13T23:09:38.063927+00:00",
+  "LastChanged": "2023-12-14T00:03:13.1702206+00:00",
+  "LastChanged_Achievements": "2023-12-14T00:09:12.8718014+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.8352858+00:00",
-  "LastUpdate_Ratings": "2023-12-13T23:03:24.7727835+00:00",
-  "LastUpdate_Achievements": "2023-12-13T23:09:38.063991+00:00"
+  "LastUpdate_Ratings": "2023-12-14T00:03:13.1702211+00:00",
+  "LastUpdate_Achievements": "2023-12-14T00:09:12.8718705+00:00"
 }

@@ -945,7 +945,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 7419,
+  "EOS_Progressed": 7420,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -9135,6 +9135,11 @@
       "Time": "2023-12-13T21:09:29.1402374+00:00",
       "NumProgressed": 7419,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T00:09:47.8979775+00:00",
+      "NumProgressed": 7420,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9282,7 +9287,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5638
+      "UsersEstimate": 5639
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9466,7 +9471,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4451
+      "UsersEstimate": 4452
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9634,7 +9639,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4822
+      "UsersEstimate": 4823
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9698,7 +9703,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "Win_Quickly",
@@ -9721,15 +9726,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7419,
+      "Progressed": 7420,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-05T01:55:09.6981089+00:00",
-  "LastChanged_Achievements": "2023-12-13T23:10:14.3186053+00:00",
+  "LastChanged_Achievements": "2023-12-14T00:09:47.8979773+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:03.4642275+00:00",
-  "LastUpdate_Ratings": "2023-12-13T22:58:27.931364+00:00",
-  "LastUpdate_Achievements": "2023-12-13T23:10:14.3186884+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:58:20.9069514+00:00",
+  "LastUpdate_Achievements": "2023-12-14T00:09:47.898079+00:00"
 }

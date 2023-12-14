@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 726,
+  "EOS_Progressed": 727,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -2475,6 +2475,11 @@
       "Time": "2023-12-13T23:05:57.0308787+00:00",
       "NumProgressed": 726,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-14T00:05:41.7152027+00:00",
+      "NumProgressed": 727,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2526,7 +2531,7 @@
       "Name": "That was base",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "hire-lieutenant",
@@ -2534,7 +2539,7 @@
       "Name": "Our Man",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "kill-lieutenants",
@@ -2550,7 +2555,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "play-at-night",
@@ -2598,7 +2603,7 @@
       "Name": "Spread",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "send-smuggling",
@@ -2620,9 +2625,9 @@
       "ID": "upgrade-building",
       "SetID": "bed33dd",
       "Name": "Take-Off",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 582
     },
     {
       "ID": "use-submarine",
@@ -2637,15 +2642,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 726,
+      "Progressed": 727,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-12T19:59:33.5091909+00:00",
-  "LastChanged_Achievements": "2023-12-13T23:05:57.0308782+00:00",
+  "LastChanged_Achievements": "2023-12-14T00:05:41.7152024+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4008517+00:00",
-  "LastUpdate_Ratings": "2023-12-13T23:01:47.860994+00:00",
-  "LastUpdate_Achievements": "2023-12-13T23:05:57.0309013+00:00"
+  "LastUpdate_Ratings": "2023-12-14T00:01:32.3685298+00:00",
+  "LastUpdate_Achievements": "2023-12-14T00:05:41.7152191+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 19.00% | ~54 |
-| Trinity | 14.00% | ~39 |
+| Trinity | 14.00% | ~40 |
 | Find Allies | 12.00% | ~34 |
 | Powerful Allies | 11.00% | ~31 |
 | Adventurer | 11.00% | ~31 |
@@ -17,7 +17,7 @@
 | Scholar | 10.00% | ~28 |
 | I Found It | 10.00% | ~28 |
 | Stone Collection | 10.00% | ~28 |
-| Fashion Victim | 9.00% | ~25 |
+| Fashion Victim | 9.00% | ~26 |
 | Big Bazar | 8.00% | ~23 |
 | The Mentor | 7.00% | ~20 |
 | Essence Blow | 7.00% | ~20 |
@@ -30,8 +30,8 @@
 | Airborne | 4.00% | ~11 |
 | Shatterer | 4.00% | ~11 |
 | Miner | 4.00% | ~11 |
-| Slayer | 3.00% | ~8 |
-| All There Is | 3.00% | ~8 |
+| Slayer | 3.00% | ~9 |
+| All There Is | 3.00% | ~9 |
 | Flawless Victory | 2.00% | ~6 |
 | False God | 2.00% | ~6 |
 | All That Gold | 2.00% | ~6 |
@@ -41,7 +41,7 @@
 | Shardbearer | 1.00% | ~3 |
 | Feeling Fancy | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 282 (Ranked 370)  
+Progressed: 284 (Ranked 370)  
 Completed: 3 (1.06%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,3 +104,4 @@ Completed: 3 (1.06%) (Ranked 167)
 | 2023-12-11 | 264 | 2 |
 | 2023-12-12 | 265 | 2 |
 | 2023-12-13 | 282 | 3 |
+| 2023-12-14 | 284 | 3 |

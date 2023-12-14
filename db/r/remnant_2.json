@@ -3,7 +3,7 @@
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
   "Ranking_Rating": 148,
-  "Ranking_Popularity": 101,
+  "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 252,
@@ -5553,9 +5553,9 @@
       "Count": 424
     }
   ],
-  "EOS_Progressed": 239544,
+  "EOS_Progressed": 239575,
   "EOS_Completed": 584,
-  "EOS_NewPlayers": 3470,
+  "EOS_NewPlayers": 3477,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -22863,6 +22863,11 @@
       "Time": "2023-12-13T23:09:53.7487229+00:00",
       "NumProgressed": 239544,
       "NumCompleted": 584
+    },
+    {
+      "Time": "2023-12-14T00:09:28.1326537+00:00",
+      "NumProgressed": 239575,
+      "NumCompleted": 584
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -23059,7 +23064,7 @@
       "Name": "First of Many",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -23314,13 +23319,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 239544,
+      "Progressed": 239575,
       "Completed": 584
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 18709,
+      "Progressed": 18740,
       "Completed": 249
     }
   ],
@@ -23328,8 +23333,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-13T20:03:36.9080495+00:00",
-  "LastChanged_Achievements": "2023-12-13T23:09:53.7487225+00:00",
+  "LastChanged_Achievements": "2023-12-14T00:09:28.1326536+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.6047456+00:00",
-  "LastUpdate_Ratings": "2023-12-13T23:03:35.9458412+00:00",
-  "LastUpdate_Achievements": "2023-12-13T23:09:53.7488435+00:00"
+  "LastUpdate_Ratings": "2023-12-14T00:03:24.4112995+00:00",
+  "LastUpdate_Achievements": "2023-12-14T00:09:28.1327514+00:00"
 }

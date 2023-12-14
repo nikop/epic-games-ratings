@@ -3,8 +3,8 @@
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 945,
-  "Ranking_Popularity": 458,
-  "Ranking_PopularitySum": 405,
+  "Ranking_Popularity": 450,
+  "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 165,
@@ -889,11 +889,17 @@
       "Rating": 4.18,
       "NumberOfAwards": 200,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-12-14T00:01:34.4596038+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 203,
+      "NumberOfAwardsMax": 46
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 200,
-  "NumberOfAwardsMax": 43,
+  "NumberOfAwards": 203,
+  "NumberOfAwardsMax": 46,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -906,7 +912,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 43
+      "Count": 46
     },
     {
       "Text": "This game has Playful Visuals",
@@ -945,9 +951,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4157,
+  "EOS_Progressed": 4159,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7080,6 +7086,11 @@
       "Time": "2023-12-13T23:06:05.1857593+00:00",
       "NumProgressed": 4157,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T00:05:49.5021473+00:00",
+      "NumProgressed": 4159,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -7100,7 +7111,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "achievement_11",
@@ -7116,7 +7127,7 @@
       "Name": "Dealmaker",
       "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "achievement_13",
@@ -7124,7 +7135,7 @@
       "Name": "MVP",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "achievement_14",
@@ -7178,9 +7189,9 @@
       "ID": "achievement_2",
       "SetID": "aiin7da",
       "Name": "Unblockable",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 416
+      "UsersEstimate": 374
     },
     {
       "ID": "achievement_20",
@@ -7188,7 +7199,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 2453
+      "UsersEstimate": 2454
     },
     {
       "ID": "achievement_21",
@@ -7196,7 +7207,7 @@
       "Name": "Clean The Pile",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "achievement_3",
@@ -7244,7 +7255,7 @@
       "Name": "Bragging Rights",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "achievement_9",
@@ -7259,16 +7270,16 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4157,
+      "Progressed": 4159,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2023-12-13T16:01:42.7465124+00:00",
-  "LastChanged_Achievements": "2023-12-13T23:06:05.1857591+00:00",
+  "LastChanged": "2023-12-14T00:01:34.4596036+00:00",
+  "LastChanged_Achievements": "2023-12-14T00:05:49.502147+00:00",
   "LastUpdate_AppInfo": "2023-12-07T07:57:04.363822+00:00",
-  "LastUpdate_Ratings": "2023-12-13T23:01:50.1111246+00:00",
-  "LastUpdate_Achievements": "2023-12-13T23:06:05.185805+00:00"
+  "LastUpdate_Ratings": "2023-12-14T00:01:34.4596042+00:00",
+  "LastUpdate_Achievements": "2023-12-14T00:05:49.5021799+00:00"
 }

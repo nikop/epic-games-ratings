@@ -5,7 +5,7 @@ Rating: 4.53 (Ranked 547)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 13.00% | ~2,096 |
+| Oyedang, Kopengs | 13.00% | ~2,097 |
 | The Pit and the Pirates | 8.00% | ~1,290 |
 | Bosmang | 8.00% | ~1,290 |
 | Captain Drummer | 8.00% | ~1,290 |
@@ -13,13 +13,13 @@ Rating: 4.53 (Ranked 547)
 | Impossible Objects | 8.00% | ~1,290 |
 | Martian Music | 7.00% | ~1,129 |
 | Drone Dodger | 7.00% | ~1,129 |
-| Safe Cracker | 7.00% | ~145 |
-| Zen Master | 7.00% | ~145 |
-| Stogie for Fogey | 6.00% | ~967 |
-| Spore Taste | 6.00% | ~967 |
-| Call it Even | 6.00% | ~967 |
+| Safe Cracker | 7.00% | ~146 |
+| Zen Master | 7.00% | ~146 |
+| Madame Undersecretary | 7.00% | ~146 |
+| Stogie for Fogey | 6.00% | ~968 |
+| Spore Taste | 6.00% | ~968 |
+| Call it Even | 6.00% | ~968 |
 | Keep Arjun in Check | 6.00% | ~125 |
-| Madame Undersecretary | 6.00% | ~125 |
 | Data Archivist | 5.00% | ~806 |
 | Drug Gifter | 5.00% | ~806 |
 | Heal Thy Medic | 5.00% | ~806 |
@@ -29,19 +29,19 @@ Rating: 4.53 (Ranked 547)
 | Doctor Approved | 3.00% | ~484 |
 | Bottoms up! | 3.00% | ~484 |
 | Miraculous Maya | 3.00% | ~484 |
-| Data Logger | 2.00% | ~322 |
-| Data Master | 2.00% | ~322 |
+| Data Logger | 2.00% | ~323 |
+| Data Master | 2.00% | ~323 |
 | Brother's Reaper | 1.00% | ~161 |
 | No Belter Left Behind | 1.00% | ~161 |
 | Debris Spree | 1.00% | ~161 |
 | Data Recoverer | 1.00% | ~161 |
 | Urshanabi Hoarder | 0.70% | ~113 |
-| Data Miner | 0.40% | ~64 |
-| Grave Robber | 0.40% | ~64 |
+| Data Miner | 0.40% | ~65 |
+| Grave Robber | 0.40% | ~65 |
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,124 (Ranked 152)  
+Progressed: 16,127 (Ranked 152)  
 Completed: 43 (0.27%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,6 +186,7 @@ Completed: 43 (0.27%) (Ranked 247)
 | 2023-12-11 | 16,062 | 42 |
 | 2023-12-12 | 16,078 | 42 |
 | 2023-12-13 | 16,124 | 43 |
+| 2023-12-14 | 16,127 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

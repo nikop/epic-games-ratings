@@ -2,9 +2,9 @@
   "ID": "0407f287e7574d88b7c00895f14628d8",
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
-  "Ranking_EOS_Progress": 623,
+  "Ranking_EOS_Progress": 604,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -62,6 +62,11 @@
       "Time": "2023-12-13T23:03:51.3189893+00:00",
       "NumProgressed": 11,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T00:03:39.0175689+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -88,7 +93,7 @@
       "ID": "c2",
       "SetID": "b1ggf28",
       "Name": "Mineral-Rich",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -104,7 +109,7 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 45,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -128,7 +133,7 @@
       "ID": "f1",
       "SetID": "b1ggf28",
       "Name": "Agriculture Tycoon",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -152,7 +157,7 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 45,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -168,7 +173,7 @@
       "ID": "fw3",
       "SetID": "b1ggf28",
       "Name": "The Sacrifice",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -176,7 +181,7 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 45,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -192,9 +197,9 @@
       "ID": "g3",
       "SetID": "b1ggf28",
       "Name": "Handcart",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "j1",
@@ -232,7 +237,7 @@
       "ID": "jg2",
       "SetID": "b1ggf28",
       "Name": "Waterpower",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -248,7 +253,7 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 18,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -280,7 +285,7 @@
       "ID": "jz2",
       "SetID": "b1ggf28",
       "Name": "Architect",
-      "Percentage": 18,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -296,7 +301,7 @@
       "ID": "k1",
       "SetID": "b1ggf28",
       "Name": "Advanced Technology",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -368,7 +373,7 @@
       "ID": "storya1",
       "SetID": "b1ggf28",
       "Name": "World-Renowned",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -376,7 +381,7 @@
       "ID": "storya2",
       "SetID": "b1ggf28",
       "Name": "Business Mind",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -384,7 +389,7 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 55,
+      "Percentage": 40,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -481,13 +486,13 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 15,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-13T23:03:51.3189888+00:00",
+  "LastChanged_Achievements": "2023-12-14T00:03:39.0175686+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-13T23:02:51.2207582+00:00",
-  "LastUpdate_Achievements": "2023-12-13T23:03:51.3190412+00:00"
+  "LastUpdate_Ratings": "2023-12-14T00:02:41.7499097+00:00",
+  "LastUpdate_Achievements": "2023-12-14T00:03:39.017606+00:00"
 }

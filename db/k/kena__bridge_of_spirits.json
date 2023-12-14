@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1487,9 +1487,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 429544,
+  "EOS_Progressed": 429545,
   "EOS_Completed": 553,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -16952,6 +16952,11 @@
       "Time": "2023-12-13T23:04:32.7011281+00:00",
       "NumProgressed": 429544,
       "NumCompleted": 553
+    },
+    {
+      "Time": "2023-12-14T00:04:18.5630616+00:00",
+      "NumProgressed": 429545,
+      "NumCompleted": 553
     }
   ],
   "TotalAchievements": 41,
@@ -16971,7 +16976,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 167522
+      "UsersEstimate": 167523
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -16979,7 +16984,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257726
+      "UsersEstimate": 257727
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -17003,7 +17008,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 180408
+      "UsersEstimate": 180409
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -17011,7 +17016,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 111681
+      "UsersEstimate": 111682
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -17019,7 +17024,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128863
+      "UsersEstimate": 128864
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -17043,7 +17048,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257726
+      "UsersEstimate": 257727
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -17083,7 +17088,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 111681
+      "UsersEstimate": 111682
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -17131,7 +17136,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 408067
+      "UsersEstimate": 408068
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -17155,7 +17160,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 158931
+      "UsersEstimate": 158932
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -17163,7 +17168,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 300681
+      "UsersEstimate": 300682
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -17171,7 +17176,7 @@
       "Name": "The Lonely Path",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111681
+      "UsersEstimate": 111682
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -17179,7 +17184,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 343635
+      "UsersEstimate": 343636
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -17211,7 +17216,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 197590
+      "UsersEstimate": 197591
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -17235,7 +17240,7 @@
       "Name": "Toshi\u0027s Fear",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 120272
+      "UsersEstimate": 120273
     },
     {
       "ID": "ACH_RELIC_KNIFE",
@@ -17251,7 +17256,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 188999
+      "UsersEstimate": 189000
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -17290,15 +17295,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 429544,
+      "Progressed": 429545,
       "Completed": 553
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-12-09T21:00:02.7884334+00:00",
-  "LastChanged_Achievements": "2023-12-13T23:04:32.7011275+00:00",
+  "LastChanged_Achievements": "2023-12-14T00:04:18.5630613+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:35.3473344+00:00",
-  "LastUpdate_Ratings": "2023-12-13T22:59:03.4755932+00:00",
-  "LastUpdate_Achievements": "2023-12-13T23:04:32.7012593+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:58:55.1757191+00:00",
+  "LastUpdate_Achievements": "2023-12-14T00:04:18.563136+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -707,9 +707,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 14116,
+  "EOS_Progressed": 14117,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -12192,6 +12192,11 @@
       "Time": "2023-12-13T23:06:29.1675868+00:00",
       "NumProgressed": 14116,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-14T00:06:12.9937516+00:00",
+      "NumProgressed": 14117,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 35,
@@ -12203,7 +12208,7 @@
       "Name": "Under a New Sun",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 13128
+      "UsersEstimate": 13129
     },
     {
       "ID": "ACH_02",
@@ -12219,7 +12224,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 10446
+      "UsersEstimate": 10447
     },
     {
       "ID": "ACH_04",
@@ -12227,7 +12232,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 10022
+      "UsersEstimate": 10023
     },
     {
       "ID": "ACH_05",
@@ -12235,7 +12240,7 @@
       "Name": "In our Wake",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9740
+      "UsersEstimate": 9741
     },
     {
       "ID": "ACH_06",
@@ -12251,7 +12256,7 @@
       "Name": "Felons",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 8893
+      "UsersEstimate": 8894
     },
     {
       "ID": "ACH_08",
@@ -12259,7 +12264,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 8752
+      "UsersEstimate": 8753
     },
     {
       "ID": "ACH_09",
@@ -12267,7 +12272,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 8328
+      "UsersEstimate": 8329
     },
     {
       "ID": "ACH_10",
@@ -12299,7 +12304,7 @@
       "Name": "Nothing Left",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 5646
+      "UsersEstimate": 5647
     },
     {
       "ID": "ACH_14",
@@ -12315,7 +12320,7 @@
       "Name": "Dying Sun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 4799
+      "UsersEstimate": 4800
     },
     {
       "ID": "ACH_16",
@@ -12331,7 +12336,7 @@
       "Name": "Knights!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2964
+      "UsersEstimate": 2965
     },
     {
       "ID": "ACH_18",
@@ -12379,7 +12384,7 @@
       "Name": "Improved crossbow",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3952
+      "UsersEstimate": 3953
     },
     {
       "ID": "ACH_24",
@@ -12419,7 +12424,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9740
+      "UsersEstimate": 9741
     },
     {
       "ID": "ACH_29",
@@ -12482,7 +12487,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 14116,
+      "Progressed": 14117,
       "Completed": 57
     }
   ],
@@ -12490,8 +12495,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-12-13T16:01:00.8437212+00:00",
-  "LastChanged_Achievements": "2023-12-13T23:06:29.1675863+00:00",
+  "LastChanged_Achievements": "2023-12-14T00:06:12.9937514+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:21.8341782+00:00",
-  "LastUpdate_Ratings": "2023-12-13T23:01:04.1808358+00:00",
-  "LastUpdate_Achievements": "2023-12-13T23:06:29.1676504+00:00"
+  "LastUpdate_Ratings": "2023-12-14T00:00:51.6042257+00:00",
+  "LastUpdate_Achievements": "2023-12-14T00:06:12.9938234+00:00"
 }

@@ -121,7 +121,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1149,
+  "EOS_Progressed": 1150,
   "EOS_Completed": 31,
   "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 3,
@@ -3931,6 +3931,11 @@
       "Time": "2023-12-13T23:03:55.8597915+00:00",
       "NumProgressed": 1149,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-12-14T00:03:43.4515133+00:00",
+      "NumProgressed": 1150,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 28,
@@ -3950,7 +3955,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "MQ02_1",
@@ -3958,7 +3963,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "MQ02_2",
@@ -3982,7 +3987,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "MQ03_1",
@@ -3990,7 +3995,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "MQ03_2",
@@ -4046,7 +4051,7 @@
       "Name": "The New World",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "MQ05_1",
@@ -4062,7 +4067,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "MQ05_3",
@@ -4076,9 +4081,9 @@
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 483
+      "UsersEstimate": 494
     },
     {
       "ID": "MQ06_1",
@@ -4092,9 +4097,9 @@
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 414
+      "UsersEstimate": 426
     },
     {
       "ID": "MQ06_3",
@@ -4142,7 +4147,7 @@
       "Name": "Up In Flames",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "MQ08_3",
@@ -4165,7 +4170,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1149,
+      "Progressed": 1150,
       "Completed": 31
     }
   ],
@@ -4173,8 +4178,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-12T11:03:07.9199744+00:00",
-  "LastChanged_Achievements": "2023-12-13T23:03:55.8597912+00:00",
+  "LastChanged_Achievements": "2023-12-14T00:03:43.4515131+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-13T23:03:20.5888891+00:00",
-  "LastUpdate_Achievements": "2023-12-13T23:03:55.8598366+00:00"
+  "LastUpdate_Ratings": "2023-12-14T00:03:09.1394897+00:00",
+  "LastUpdate_Achievements": "2023-12-14T00:03:43.4515387+00:00"
 }

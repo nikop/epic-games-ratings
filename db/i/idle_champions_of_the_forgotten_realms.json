@@ -8725,9 +8725,9 @@
       "Count": 3566
     }
   ],
-  "EOS_Progressed": 239847,
+  "EOS_Progressed": 239864,
   "EOS_Completed": 2519,
-  "EOS_NewPlayers": 1181,
+  "EOS_NewPlayers": 1194,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -35480,6 +35480,11 @@
       "Time": "2023-12-13T23:10:51.2742069+00:00",
       "NumProgressed": 239847,
       "NumCompleted": 2519
+    },
+    {
+      "Time": "2023-12-14T00:10:24.1353814+00:00",
+      "NumProgressed": 239864,
+      "NumCompleted": 2519
     }
   ],
   "TotalAchievements": 546,
@@ -35969,9 +35974,9 @@
       "ID": "objective_completed_1121",
       "SetID": "415jc5c",
       "Name": "The Cult of Lolth",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1122",
@@ -36241,9 +36246,9 @@
       "ID": "objective_completed_1175",
       "SetID": "415jc5c",
       "Name": "Keep Your Distance",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1178",
@@ -36305,9 +36310,9 @@
       "ID": "objective_completed_1189",
       "SetID": "415jc5c",
       "Name": "Clumsy Doesn\u0027t Mean Inept",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1190",
@@ -38985,9 +38990,9 @@
       "ID": "objective_completed_850",
       "SetID": "415jc5c",
       "Name": "Witty Riposting",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_852",
@@ -39129,9 +39134,9 @@
       "ID": "objective_completed_879",
       "SetID": "415jc5c",
       "Name": "Visions of Hornfirth",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_882",
@@ -39345,9 +39350,9 @@
       "ID": "objective_completed_934",
       "SetID": "415jc5c",
       "Name": "Ineffectual Intellectuals",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_935",
@@ -39433,9 +39438,9 @@
       "ID": "objective_completed_1042",
       "SetID": "415jc5c",
       "Name": "Willing to Sacrifice",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1047",
@@ -39529,17 +39534,17 @@
       "ID": "objective_completed_1380",
       "SetID": "415jc5c",
       "Name": "Rock and Roll",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1381",
       "SetID": "415jc5c",
       "Name": "Electric Mayhem",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1385",
@@ -39737,9 +39742,9 @@
       "ID": "objective_completed_1553",
       "SetID": "415jc5c",
       "Name": "See You on the Flipside",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1337",
@@ -39858,21 +39863,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 206121,
-      "Completed": 3965
+      "Progressed": 206138,
+      "Completed": 3966
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 239847,
+      "Progressed": 239864,
       "Completed": 2519
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-13T21:57:20.734573+00:00",
-  "LastChanged_Achievements": "2023-12-13T23:10:51.2742066+00:00",
+  "LastChanged_Achievements": "2023-12-14T00:10:24.1353812+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-13T22:57:21.3285129+00:00",
-  "LastUpdate_Achievements": "2023-12-13T23:10:51.2765205+00:00"
+  "LastUpdate_Ratings": "2023-12-13T23:57:18.9232225+00:00",
+  "LastUpdate_Achievements": "2023-12-14T00:10:24.1377954+00:00"
 }
