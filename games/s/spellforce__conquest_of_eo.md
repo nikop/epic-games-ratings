@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Home Sweet Home | 91.00% | ~42 |
 | Enough rooms to swing a cat | 89.00% | ~41 |
-| Home Sweet Home | 89.00% | ~41 |
-| First to the post | 87.00% | ~40 |
-| A kind of Magic | 83.00% | ~38 |
+| First to the post | 89.00% | ~41 |
+| A kind of Magic | 85.00% | ~39 |
+| Expansion | 76.00% | ~35 |
 | Connected | 76.00% | ~35 |
-| Expansion | 74.00% | ~34 |
 | Harvest Time | 67.00% | ~31 |
 | Mine! | 65.00% | ~30 |
 | Artificer's Apprentice | 63.00% | ~29 |

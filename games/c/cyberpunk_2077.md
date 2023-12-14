@@ -6,33 +6,33 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,114 |
-| Gun Fu | 7.00% | ~68,316 |
-| Right Back At Ya | 6.00% | ~58,557 |
-| The Fool | 6.00% | ~58,557 |
-| The Lovers | 5.00% | ~48,797 |
-| Full Body Conversion | 4.00% | ~39,038 |
-| Stanislavski's Method | 4.00% | ~39,038 |
-| The Wheel of Fortune | 4.00% | ~39,038 |
-| True Soldier | 4.00% | ~39,038 |
-| All the President's Men | 4.00% | ~4,183 |
-| Arachnophobia | 4.00% | ~4,183 |
-| Christmas Tree Attack | 3.00% | ~29,278 |
-| The Hermit | 3.00% | ~29,278 |
-| The High Priestess | 3.00% | ~29,278 |
-| True Warrior | 3.00% | ~29,278 |
-| Legend of The Afterlife | 3.00% | ~29,278 |
-| Relic Ruler | 3.00% | ~3,137 |
-| Bushido and Chill | 2.00% | ~19,519 |
-| Master Crafter | 2.00% | ~19,519 |
-| I Am The Law | 2.00% | ~19,519 |
-| The Quick and the Dead | 2.00% | ~19,519 |
-| Life of the Road | 2.00% | ~19,519 |
-| The World | 2.00% | ~19,519 |
-| Two Heads, One Bullet | 2.00% | ~19,519 |
-| Judy vs Night City | 2.00% | ~19,519 |
-| To Protect and Serve | 1.00% | ~9,759 |
-| The Wandering Fool | 1.00% | ~9,759 |
+| V for Vendetta | 12.00% | ~117,117 |
+| Gun Fu | 7.00% | ~68,318 |
+| Right Back At Ya | 6.00% | ~58,559 |
+| The Fool | 6.00% | ~58,559 |
+| The Lovers | 5.00% | ~48,799 |
+| Full Body Conversion | 4.00% | ~39,039 |
+| Stanislavski's Method | 4.00% | ~39,039 |
+| The Wheel of Fortune | 4.00% | ~39,039 |
+| True Soldier | 4.00% | ~39,039 |
+| All the President's Men | 4.00% | ~4,184 |
+| Arachnophobia | 4.00% | ~4,184 |
+| Christmas Tree Attack | 3.00% | ~29,279 |
+| The Hermit | 3.00% | ~29,279 |
+| The High Priestess | 3.00% | ~29,279 |
+| True Warrior | 3.00% | ~29,279 |
+| Legend of The Afterlife | 3.00% | ~29,279 |
+| Relic Ruler | 3.00% | ~3,138 |
+| Bushido and Chill | 2.00% | ~19,520 |
+| Master Crafter | 2.00% | ~19,520 |
+| I Am The Law | 2.00% | ~19,520 |
+| The Quick and the Dead | 2.00% | ~19,520 |
+| Life of the Road | 2.00% | ~19,520 |
+| The World | 2.00% | ~19,520 |
+| Two Heads, One Bullet | 2.00% | ~19,520 |
+| Judy vs Night City | 2.00% | ~19,520 |
+| To Protect and Serve | 1.00% | ~9,760 |
+| The Wandering Fool | 1.00% | ~9,760 |
 | Spin Doctor | 1.00% | ~1,046 |
 | Easy Come, Easy Go | 1.00% | ~1,046 |
 | King of Wands | 0.90% | ~941 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975,946 (Ranked 15)  
+Progressed: 975,976 (Ranked 15)  
 Completed: 2,906 (0.30%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,14 +312,14 @@ Completed: 2,906 (0.30%) (Ranked 241)
 | 2023-12-11 | 974,702 | 2,886 |
 | 2023-12-12 | 975,121 | 2,891 |
 | 2023-12-13 | 975,519 | 2,900 |
-| 2023-12-14 | 975,946 | 2,906 |
+| 2023-12-14 | 975,976 | 2,906 |
 ## Awards
-Max (Character Customization): 122,342  (Ranked 9)  
-Sum: 417,684 (Ranked 9)  
-Diff (max vs sum): 0  
+Max (Character Customization): 122,911  (Ranked 8)  
+Sum: 418,253 (Ranked 9)  
+Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 122,342 |
+| This game has Inclusive Character Customization | 122,911 |
 | This game has Great Boss Battles | 89,641 |
 | This game is Great for Beginners | 25,770 |
 | This game has Diverse Characters | 25,060 |
@@ -662,4 +662,4 @@ Diff (max vs sum): 0
 | 2023-12-11 | 4.66 | - | 121,434 | 411,235 |
 | 2023-12-12 | 4.66 | - | 121,863 | 413,636 |
 | 2023-12-13 | 4.66 | - | 122,342 | 416,033 |
-| 2023-12-14 | 4.66 | - | 122,342 | 417,684 |
+| 2023-12-14 | 4.66 | - | 122,911 | 418,253 |

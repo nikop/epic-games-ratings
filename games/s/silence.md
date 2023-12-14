@@ -13,12 +13,12 @@
 | Keep away from children | 36.00% | ~64 |
 | Wooooooow! | 34.00% | ~60 |
 | Artistic fool | 32.00% | ~57 |
+| Let the boot talk | 31.00% | ~55 |
 | Shadow on the wall | 31.00% | ~55 |
-| Let the boot talk | 30.00% | ~53 |
 | Chapter II | 25.00% | ~44 |
 | Handyman | 23.00% | ~41 |
 | Bubblekillerfamily | 23.00% | ~41 |
-| Quite a buggy game | 21.00% | ~37 |
+| Quite a buggy game | 22.00% | ~39 |
 | Achoo!! | 21.00% | ~37 |
 | Chapter III | 21.00% | ~37 |
 | Like a moth in the Wind | 21.00% | ~37 |

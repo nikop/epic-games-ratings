@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9616,10 +9616,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20408,
       "NumberOfAwardsMax": 7689
+    },
+    {
+      "Time": "2023-12-14T17:59:59.0270983+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20412,
+      "NumberOfAwardsMax": 7689
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20408,
+  "NumberOfAwards": 20412,
   "NumberOfAwardsMax": 7689,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9693,12 +9699,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1000
+      "Count": 1004
     }
   ],
-  "EOS_Progressed": 127003,
+  "EOS_Progressed": 127020,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1245,
+  "EOS_NewPlayers": 1259,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35011,6 +35017,11 @@
       "Time": "2023-12-14T17:09:15.8878206+00:00",
       "NumProgressed": 127003,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T18:09:15.3244208+00:00",
+      "NumProgressed": 127020,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35036,9 +35047,9 @@
       "ID": "altar_of_hope_memory_equip_first_time",
       "SetID": "64l4lke",
       "Name": "It Rings a Bell",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1143
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -35212,9 +35223,9 @@
       "ID": "combat_kill_gentry",
       "SetID": "64l4lke",
       "Name": "No More Mouths to Feed",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 635
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -35566,7 +35577,7 @@
       "Name": "This guy... again?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35590,7 +35601,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -35614,7 +35625,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "quest_complete_crusader",
@@ -35622,15 +35633,15 @@
       "Name": "Lost and Found",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "relationships_positive_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "Friends \u0027Til the End",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -35653,21 +35664,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127003,
+      "Progressed": 127020,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1872,
+      "Progressed": 1889,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-14T17:00:13.820586+00:00",
-  "LastChanged_Achievements": "2023-12-14T17:09:15.8878199+00:00",
+  "LastChanged": "2023-12-14T17:59:59.0270982+00:00",
+  "LastChanged_Achievements": "2023-12-14T18:09:15.3244205+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T17:00:13.8205865+00:00",
-  "LastUpdate_Achievements": "2023-12-14T17:09:15.8879679+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:59:59.0270991+00:00",
+  "LastUpdate_Achievements": "2023-12-14T18:09:15.3246287+00:00"
 }

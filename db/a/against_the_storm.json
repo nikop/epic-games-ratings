@@ -3437,9 +3437,9 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 18122,
+  "EOS_Progressed": 18129,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 477,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15692,6 +15692,11 @@
       "Time": "2023-12-14T17:04:05.3413344+00:00",
       "NumProgressed": 18122,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-14T18:03:37.1101261+00:00",
+      "NumProgressed": 18129,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15704,7 +15709,7 @@
       "Name": "Serving Ale",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "AllFood",
@@ -15792,7 +15797,7 @@
       "Name": "First Real Expedition",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "WinHard",
@@ -15800,7 +15805,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "WinImpossible",
@@ -15872,7 +15877,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "WinNearForbidden",
@@ -15944,7 +15949,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "WinNearTorrent",
@@ -15968,7 +15973,7 @@
       "Name": "Coral Forest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "WinOnCursed",
@@ -15984,7 +15989,7 @@
       "Name": "The Marshlands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "WinOnMoorlands",
@@ -16040,7 +16045,7 @@
       "Name": "Taking Action",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "WinWithResolve",
@@ -16048,7 +16053,7 @@
       "Name": "Victory Through Prosperity",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "WinWithRuins",
@@ -16080,7 +16085,7 @@
       "Name": "No Deaths",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "WinWithoutOrders",
@@ -16088,7 +16093,7 @@
       "Name": "Defying the Crown",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Year1Dangerous",
@@ -16096,7 +16101,7 @@
       "Name": "Into the Forest",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "WinNearAbandoned",
@@ -16160,7 +16165,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "WinWithFoxes",
@@ -16168,22 +16173,22 @@
       "Name": "Fox Utopia",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18122,
+      "Progressed": 18129,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-14T10:01:10.0204149+00:00",
-  "LastChanged_Achievements": "2023-12-14T17:04:05.3413339+00:00",
+  "LastChanged_Achievements": "2023-12-14T18:03:37.1101258+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-14T17:00:09.7999984+00:00",
-  "LastUpdate_Achievements": "2023-12-14T17:04:05.3414864+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:59:53.9930722+00:00",
+  "LastUpdate_Achievements": "2023-12-14T18:03:37.1102149+00:00"
 }

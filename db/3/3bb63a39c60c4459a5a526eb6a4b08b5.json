@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 982,
+  "EOS_Progressed": 983,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3769,6 +3769,11 @@
       "Time": "2023-12-14T17:10:11.044537+00:00",
       "NumProgressed": 982,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T18:10:09.8445825+00:00",
+      "NumProgressed": 983,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3796,7 +3801,7 @@
       "Name": "Basic Controls",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "BigPlane",
@@ -3876,7 +3881,7 @@
       "Name": "Game Started",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "FullCompletion",
@@ -3916,7 +3921,7 @@
       "Name": "Large Airport",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "LargeTerritories",
@@ -3996,7 +4001,7 @@
       "Name": "No Way Back",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "NotPlanned",
@@ -4108,21 +4113,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 982,
+      "Progressed": 983,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-14T17:10:11.0445364+00:00",
+  "LastChanged_Achievements": "2023-12-14T18:10:09.8445819+00:00",
   "LastUpdate_AppInfo": "2023-12-12T19:56:58.9295156+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:59:09.2539252+00:00",
-  "LastUpdate_Achievements": "2023-12-14T17:10:11.0445864+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:58:55.674063+00:00",
+  "LastUpdate_Achievements": "2023-12-14T18:10:09.8446461+00:00"
 }

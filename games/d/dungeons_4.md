@@ -4,70 +4,70 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~484 |
-| Thalya – Simply Immortal | 88.00% | ~484 |
-| For the Horde! | 82.00% | ~451 |
-| Hammer Time, Round Two | 81.00% | ~446 |
+| The Last Stand | 88.00% | ~485 |
+| Thalya – Simply Immortal | 88.00% | ~485 |
+| For the Horde! | 82.00% | ~452 |
+| Hammer Time, Round Two | 80.00% | ~441 |
 | The Hellwoods | 77.00% | ~424 |
-| The Plains of Strothalm | 72.00% | ~396 |
-| Experienced Thalya | 72.00% | ~396 |
-| Bad Elves Go Everywhere | 70.00% | ~385 |
-| Thalya's Concentrated Fury | 68.00% | ~374 |
+| The Plains of Strothalm | 72.00% | ~397 |
+| Experienced Thalya | 72.00% | ~397 |
+| Bad Elves Go Everywhere | 70.00% | ~386 |
+| Thalya's Concentrated Fury | 68.00% | ~375 |
 | Heroes’ Gorge | 65.00% | ~358 |
-| Master of Magic | 64.00% | ~352 |
-| Unicorn steaks – fresh off the hoof! | 63.00% | ~346 |
-| Magic Accidents | 60.00% | ~330 |
-| The Ascent | 59.00% | ~324 |
-| It's Warm and Cozy at Home | 59.00% | ~324 |
-| Trap Master | 55.00% | ~302 |
-| Minions, Minions! | 55.00% | ~302 |
-| The Big Eaty | 54.00% | ~297 |
+| Master of Magic | 64.00% | ~353 |
+| Unicorn steaks – fresh off the hoof! | 62.00% | ~342 |
+| Magic Accidents | 60.00% | ~331 |
+| The Ascent | 59.00% | ~325 |
+| It's Warm and Cozy at Home | 59.00% | ~325 |
+| Trap Master | 55.00% | ~303 |
+| Minions, Minions! | 55.00% | ~303 |
+| The Big Eaty | 54.00% | ~298 |
 | Hard Work | 53.00% | ~292 |
-| “… like son” | 51.00% | ~280 |
-| YOU SHALL NOT PASS! | 50.00% | ~275 |
+| “… like son” | 51.00% | ~281 |
+| YOU SHALL NOT PASS! | 50.00% | ~276 |
 | The Cathedral of Light | 48.00% | ~264 |
-| Shame! Shame! Shame! | 47.00% | ~258 |
+| Shame! Shame! Shame! | 47.00% | ~259 |
 | Pure Dynamite! | 46.00% | ~253 |
 | Dungeonlord Gorgu | 45.00% | ~248 |
 | Tanos' Crusade Against Thalya | 45.00% | ~248 |
 | Mana Cannon | 42.00% | ~231 |
 | All’s Well That Ends Evil | 40.00% | ~220 |
-| Master of the Undead | 35.00% | ~192 |
-| The Duel | 35.00% | ~192 |
+| The Duel | 35.00% | ~193 |
 | Unstoppable Horde | 34.00% | ~187 |
+| Master of the Undead | 34.00% | ~187 |
 | If Looks Could Kill | 32.00% | ~176 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~165 |
 | The Finitude Drill | 29.00% | ~160 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~154 |
 | Forbidden Knowledge | 28.00% | ~154 |
-| Stop Tanos! | 27.00% | ~148 |
-| Doom Hill | 27.00% | ~148 |
+| Doom Hill | 27.00% | ~149 |
 | Hungry, Hungry Gorgu! | 26.00% | ~143 |
+| Stop Tanos! | 26.00% | ~143 |
 | Brimstone Shaken, Not Stirred | 25.00% | ~138 |
 | Sabotage! | 24.00% | ~132 |
-| Bonus Evilness | 23.00% | ~126 |
-| Raiders of the Lost Stone | 23.00% | ~126 |
-| The Rune Sockets of Finitude (Part 1) | 23.00% | ~126 |
+| Raiders of the Lost Stone | 24.00% | ~132 |
+| Bonus Evilness | 23.00% | ~127 |
+| The Rune Sockets of Finitude (Part 1) | 23.00% | ~127 |
 | Rubble and Ashes | 20.00% | ~110 |
 | The Rune Sockets of Finitude (Part 2) | 20.00% | ~110 |
-| The Last Stand - This Time For Real! | 19.00% | ~104 |
+| The Last Stand - This Time For Real! | 19.00% | ~105 |
 | My Little Torture Chamber | 18.00% | ~99 |
 | Lavalumps on Ice! | 18.00% | ~99 |
 | Sacrificial Pit = Garbage Disposal? | 17.00% | ~94 |
 | To the Max! | 17.00% | ~94 |
 | To Infinity And Beyond! | 17.00% | ~94 |
-| Evilification | 15.00% | ~82 |
+| Evilification | 15.00% | ~83 |
 | Mirror, Mirror | 14.00% | ~77 |
 | Untouchable | 14.00% | ~77 |
 | Heal Heal Blessing | 13.00% | ~72 |
 | Laser Eyes Are So Useless | 12.00% | ~66 |
-| Hands Off My Stones | 11.00% | ~60 |
+| Hands Off My Stones | 11.00% | ~61 |
 | Gorgu is in the Best of Health | 10.00% | ~55 |
 | No Mana, No Cry | 9.00% | ~50 |
 | I Don't Need Any Help | 8.00% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 550 (Ranked 312)  
-Completed: 15 (2.73%) (Ranked 115)  
+Progressed: 551 (Ranked 312)  
+Completed: 15 (2.72%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,4 +105,4 @@ Completed: 15 (2.73%) (Ranked 115)
 | 2023-12-10 | 543 | 15 |
 | 2023-12-12 | 544 | 15 |
 | 2023-12-13 | 545 | 15 |
-| 2023-12-14 | 550 | 15 |
+| 2023-12-14 | 551 | 15 |

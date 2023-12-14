@@ -12,11 +12,11 @@ Number of Ratings: 892  (23.09.2022)
 | Greeno-B-Gone | 130.00% | ~710 |
 | The Little Wood that Could | 120.00% | ~655 |
 | Your Especially Earned Trajectory | 108.00% | ~590 |
+| No Mountain Wide Enough | 87.00% | ~475 |
 | One of the Cool Kids | 87.00% | ~475 |
-| No Mountain Wide Enough | 86.00% | ~470 |
 | Yakmel Whisperer | 83.00% | ~453 |
-| On that Grindset | 80.00% | ~437 |
-| I Do! | 79.00% | ~431 |
+| On that Grindset | 81.00% | ~442 |
+| I Do! | 80.00% | ~437 |
 | Diamonds are Forever | 78.00% | ~426 |
 | Pack Mule | 77.00% | ~420 |
 | Can We Keep It? | 77.00% | ~420 |
@@ -25,8 +25,8 @@ Number of Ratings: 892  (23.09.2022)
 | Elementary, My Dear | 70.00% | ~382 |
 | Chatterbox | 68.00% | ~371 |
 | Big Game Hunter | 66.00% | ~360 |
+| Financially Secure | 65.00% | ~355 |
 | Got Served | 65.00% | ~355 |
-| Financially Secure | 64.00% | ~349 |
 | Builder of the Month | 64.00% | ~349 |
 | Lifeline Pipeline | 64.00% | ~349 |
 | Waste Not Want Not | 63.00% | ~344 |
@@ -36,7 +36,7 @@ Number of Ratings: 892  (23.09.2022)
 | You Don't Win Friends With Salad | 62.00% | ~339 |
 | Commissions, commissions...! | 61.00% | ~333 |
 | Martle's Dream | 61.00% | ~333 |
-| Officially Official | 59.00% | ~322 |
+| Officially Official | 60.00% | ~328 |
 | Better Late than Never | 58.00% | ~317 |
 | Mole Masher | 58.00% | ~317 |
 | Finishing Touches | 57.00% | ~311 |
@@ -63,7 +63,7 @@ Number of Ratings: 892  (23.09.2022)
 | Winner and Still Champeen | 24.00% | ~131 |
 | It's High Noon... | 16.00% | ~87 |
 | Strong Arms | 16.00% | ~87 |
-| Got the Receipt? | 15.00% | ~82 |
+| Got the Receipt? | 16.00% | ~87 |
 | Jack of All Trades | 8.00% | ~44 |
 | Sandrock's Hottest Club | 5.00% | ~27 |
 ## Popularity (Based on EOS Achievements)

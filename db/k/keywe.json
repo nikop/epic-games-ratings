@@ -4,8 +4,8 @@
   "ProductSlug": "keywe-c3a70e",
   "Ranking_EOS_Progress": 493,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
     "PcReleaseDate": "2021-08-31T00:00:00+00:00",
@@ -378,9 +378,9 @@
       "ID": "beatOwnScore",
       "SetID": "cfe0fhi",
       "Name": "Practice Makes Postmasters",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "completeFall",
@@ -505,8 +505,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-12-14T17:08:31.3945215+00:00",
+  "LastChanged_Achievements": "2023-12-14T18:08:30.4715477+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:17.3027828+00:00",
-  "LastUpdate_Ratings": "2023-12-14T17:00:26.7071303+00:00",
-  "LastUpdate_Achievements": "2023-12-14T17:08:31.3945346+00:00"
+  "LastUpdate_Ratings": "2023-12-14T18:00:13.3566577+00:00",
+  "LastUpdate_Achievements": "2023-12-14T18:08:30.471559+00:00"
 }

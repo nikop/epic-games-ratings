@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -475,9 +475,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 43732,
+  "EOS_Progressed": 43742,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15070,6 +15070,11 @@
       "Time": "2023-12-14T17:08:53.6256025+00:00",
       "NumProgressed": 43732,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T18:08:53.2896937+00:00",
+      "NumProgressed": 43742,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15113,7 +15118,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -15129,7 +15134,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4373
+      "UsersEstimate": 4374
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -15137,7 +15142,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -15233,7 +15238,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3061
+      "UsersEstimate": 3062
     },
     {
       "ID": "CUFF_ATTACK",
@@ -15273,7 +15278,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -15321,7 +15326,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -15337,7 +15342,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "MAGIC_IVY",
@@ -15369,7 +15374,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -15393,7 +15398,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -15417,7 +15422,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3936
+      "UsersEstimate": 3937
     },
     {
       "ID": "SPRING_ALL",
@@ -15433,7 +15438,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "STAYING_AIR",
@@ -15504,22 +15509,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43732,
+      "Progressed": 43742,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8569,
-      "Completed": 8569
+      "Progressed": 8579,
+      "Completed": 8579
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-12T05:01:14.3926085+00:00",
-  "LastChanged_Achievements": "2023-12-14T17:08:53.6256018+00:00",
+  "LastChanged_Achievements": "2023-12-14T18:08:53.2896933+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:12.2339808+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:57:40.104136+00:00",
-  "LastUpdate_Achievements": "2023-12-14T17:08:53.6257508+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:57:25.3928164+00:00",
+  "LastUpdate_Achievements": "2023-12-14T18:08:53.2897845+00:00"
 }

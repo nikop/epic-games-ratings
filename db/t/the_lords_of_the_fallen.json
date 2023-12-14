@@ -5,10 +5,10 @@
   "Ranking_Rating": 918,
   "Ranking_Popularity": 293,
   "Ranking_PopularitySum": 331,
-  "Ranking_EOS_Progress": 217,
+  "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -909,9 +909,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2826,
+  "EOS_Progressed": 2867,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 545,
+  "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4709,6 +4709,11 @@
       "Time": "2023-12-14T17:08:55.6772297+00:00",
       "NumProgressed": 2826,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-14T18:08:55.1099487+00:00",
+      "NumProgressed": 2867,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -4895,9 +4900,9 @@
       "ID": "TLOTF_ACHIEVEMENT_023",
       "SetID": "87e61g",
       "Name": "No Mercy",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_024",
@@ -4929,7 +4934,7 @@
       "Name": "Shades of Violence",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_028",
@@ -5167,9 +5172,9 @@
       "ID": "TLOTF_ACHIEVEMENT_057",
       "SetID": "87e61g",
       "Name": "Thriving in Darkness",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_058",
@@ -5193,7 +5198,7 @@
       "Name": "The Past Shapes the Present",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_061",
@@ -5224,7 +5229,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 2826,
+      "Progressed": 2867,
       "Completed": 2
     }
   ],
@@ -5232,8 +5237,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-14T07:59:43.4058204+00:00",
-  "LastChanged_Achievements": "2023-12-14T17:08:55.6772291+00:00",
+  "LastChanged_Achievements": "2023-12-14T18:08:55.1099483+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:58.7777436+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:59:34.5940082+00:00",
-  "LastUpdate_Achievements": "2023-12-14T17:08:55.6772963+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:59:19.1046773+00:00",
+  "LastUpdate_Achievements": "2023-12-14T18:08:55.1100138+00:00"
 }

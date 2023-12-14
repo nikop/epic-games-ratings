@@ -11,7 +11,7 @@ Rating: 4.58 (Ranked 453)
 | Adventurer | 70.00% | ~51 |
 | The brave little tailor | 52.00% | ~38 |
 | Archer | 51.00% | ~37 |
-| Field hand | 47.00% | ~34 |
+| Field hand | 48.00% | ~35 |
 | Samaritan | 45.00% | ~33 |
 | The merciful one | 41.00% | ~30 |
 | Well-to-do | 40.00% | ~29 |
@@ -40,15 +40,15 @@ Rating: 4.58 (Ranked 453)
 | Master thief | 15.00% | ~11 |
 | Freedom fighter | 14.00% | ~10 |
 | Titan Lord | 14.00% | ~10 |
-| King of the handymen | 12.00% | ~9 |
+| King of the handymen | 14.00% | ~10 |
 | Terror of the hens | 11.00% | ~8 |
 | Expert | 11.00% | ~8 |
 | The traveler | 10.00% | ~7 |
 | Moneybags | 8.00% | ~6 |
 | Rune master | 5.00% | ~4 |
 | Fervent swimmer | 5.00% | ~4 |
+| Jester | 5.00% | ~4 |
 | King Midas | 5.00% | ~4 |
-| Jester | 4.00% | ~3 |
 | Big game hunter | 3.00% | ~2 |
 | Mage | 3.00% | ~2 |
 | Sharpshooter | 3.00% | ~2 |
@@ -56,7 +56,7 @@ Rating: 4.58 (Ranked 453)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73 (Ranked 481)  
+Progressed: 73 (Ranked 482)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |

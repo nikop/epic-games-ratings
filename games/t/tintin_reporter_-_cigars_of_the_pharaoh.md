@@ -8,7 +8,7 @@
 | A Loyal Friend | 38.00% | ~33 |
 | Abandon Ship! | 25.00% | ~22 |
 | The Tomb of Kih-Oskh | 19.00% | ~17 |
-| The Weighing of the Soul | 16.00% | ~14 |
+| The Weighing of the Soul | 17.00% | ~15 |
 | The Curse of Kih-Oskh | 10.00% | ~9 |
 | Cat Lover | 7.00% | ~6 |
 | It's a Deal! | 7.00% | ~6 |
@@ -42,7 +42,7 @@
 | Broken Brotherhood | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 462)  
+Progressed: 88 (Ranked 463)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |

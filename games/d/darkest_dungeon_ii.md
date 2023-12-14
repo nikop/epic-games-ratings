@@ -7,8 +7,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 5.00% | ~94 |
-| This guy... again? | 3.00% | ~56 |
-| Lost and Found | 3.00% | ~56 |
+| This guy... again? | 3.00% | ~57 |
+| Lost and Found | 3.00% | ~57 |
 | This Belongs in a Museum | 2.00% | ~2,540 |
 | Not Today! | 2.00% | ~2,540 |
 | Creep and Sleep | 2.00% | ~2,540 |
@@ -17,15 +17,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 2.00% | ~2,540 |
 | Escape from the Black Hole | 2.00% | ~2,540 |
 | Autodidact | 2.00% | ~2,540 |
-| Bloody Graduation | 2.00% | ~37 |
+| Bloody Graduation | 2.00% | ~38 |
 | Serenity Now! | 1.00% | ~1,270 |
 | Rush Hour | 1.00% | ~1,270 |
 | To Grandmother's House | 1.00% | ~1,270 |
 | Ploughshares to Swords | 1.00% | ~19 |
+| Friends 'Til the End | 1.00% | ~19 |
 | Don't Make Me Turn This Coach Around | 0.90% | ~1,143 |
+| It Rings a Bell | 0.90% | ~1,143 |
 | FNG | 0.90% | ~1,143 |
-| Friends 'Til the End | 0.90% | ~17 |
-| It Rings a Bell | 0.80% | ~1,016 |
 | Dissector | 0.80% | ~1,016 |
 | It Happens | 0.80% | ~1,016 |
 | Merry Time | 0.80% | ~1,016 |
@@ -51,14 +51,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Wyrdly Reconstructed | 0.50% | ~635 |
 | Boxcar Kid | 0.50% | ~635 |
 | Ichthyophobic | 0.50% | ~635 |
+| No More Mouths to Feed | 0.50% | ~635 |
 | A Clear Conscience | 0.50% | ~635 |
 | When You Want Something Done Right | 0.50% | ~635 |
 | Utopia | 0.50% | ~635 |
 | Hope Rekindled | 0.40% | ~508 |
-| No More Mouths to Feed | 0.40% | ~508 |
 | Hot Air | 0.40% | ~508 |
 | Eyes Up | 0.40% | ~508 |
-| Slap on the Wrist | 0.40% | ~7 |
+| Slap on the Wrist | 0.40% | ~8 |
 | This Looks Familiar | 0.30% | ~381 |
 | Handled | 0.30% | ~381 |
 | Body of Work | 0.30% | ~381 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,003 (Ranked 84)  
+Progressed: 127,020 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,10 +314,10 @@ Completed: 3 (0.00%) (Ranked 374)
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
-| 2023-12-14 | 127,003 | 3 |
+| 2023-12-14 | 127,020 | 3 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 51)  
-Sum: 20,408 (Ranked 59)  
+Sum: 20,412 (Ranked 59)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -330,7 +330,7 @@ Diff (max vs sum): -8
 | This game has Amazing Storytelling | 1,370 |
 | This game has Unique Visuals | 1,343 |
 | This game has Quickly Understood Controls | 1,340 |
-| This game has a Creative Community | 1,000 |
+| This game has a Creative Community | 1,004 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -656,4 +656,4 @@ Diff (max vs sum): -8
 | 2023-12-11 | 4.68 | - | 7,586 | 20,081 |
 | 2023-12-12 | 4.68 | - | 7,622 | 20,221 |
 | 2023-12-13 | 4.68 | - | 7,665 | 20,333 |
-| 2023-12-14 | 4.68 | - | 7,689 | 20,408 |
+| 2023-12-14 | 4.68 | - | 7,689 | 20,412 |

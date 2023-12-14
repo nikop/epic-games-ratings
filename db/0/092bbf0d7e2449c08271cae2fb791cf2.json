@@ -4,8 +4,8 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -314,9 +314,9 @@
       "ID": "ach6",
       "SetID": "796kfpa",
       "Name": "Creature Maker",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 140,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach7",
@@ -337,8 +337,8 @@
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-14T17:08:44.304795+00:00",
+  "LastChanged_Achievements": "2023-12-14T18:08:43.4031801+00:00",
   "LastUpdate_AppInfo": "2023-12-13T18:57:12.2683005+00:00",
-  "LastUpdate_Ratings": "2023-12-14T17:00:18.1006233+00:00",
-  "LastUpdate_Achievements": "2023-12-14T17:08:44.3048073+00:00"
+  "LastUpdate_Ratings": "2023-12-14T18:00:03.9903335+00:00",
+  "LastUpdate_Achievements": "2023-12-14T18:08:43.4031875+00:00"
 }

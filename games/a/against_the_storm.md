@@ -13,13 +13,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Land of Greed | 3.00% | ~544 |
 | Ominous Presence | 3.00% | ~544 |
 | Gathering Storm | 3.00% | ~544 |
-| First Real Expedition | 2.00% | ~362 |
-| Overcoming Difficulty | 2.00% | ~362 |
-| Coral Forest | 2.00% | ~362 |
-| The Marshlands | 2.00% | ~362 |
-| Taking Action | 2.00% | ~362 |
-| No Deaths | 2.00% | ~362 |
-| Untamed Wilds | 2.00% | ~362 |
+| First Real Expedition | 2.00% | ~363 |
+| Overcoming Difficulty | 2.00% | ~363 |
+| Coral Forest | 2.00% | ~363 |
+| The Marshlands | 2.00% | ~363 |
+| Taking Action | 2.00% | ~363 |
+| No Deaths | 2.00% | ~363 |
+| Untamed Wilds | 2.00% | ~363 |
 | Fertile Meadows | 1.00% | ~181 |
 | Royal Outpost | 1.00% | ~181 |
 | Lost Colonies | 1.00% | ~181 |
@@ -41,13 +41,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 0.50% | ~91 |
 | Haunted Forest | 0.50% | ~91 |
 | Flooded Mines | 0.50% | ~91 |
-| Serving Ale | 0.40% | ~72 |
-| Fishmen Ritual Site | 0.40% | ~72 |
-| Forsaken Gods Temple | 0.40% | ~72 |
-| Victory Through Prosperity | 0.40% | ~72 |
-| Defying the Crown | 0.40% | ~72 |
-| Into the Forest | 0.40% | ~72 |
-| Fox Utopia | 0.40% | ~72 |
+| Serving Ale | 0.40% | ~73 |
+| Fishmen Ritual Site | 0.40% | ~73 |
+| Forsaken Gods Temple | 0.40% | ~73 |
+| Victory Through Prosperity | 0.40% | ~73 |
+| Defying the Crown | 0.40% | ~73 |
+| Into the Forest | 0.40% | ~73 |
+| Fox Utopia | 0.40% | ~73 |
 | Efficient Explorer | 0.30% | ~54 |
 | Refinery | 0.30% | ~54 |
 | Dangerous Lands | 0.30% | ~54 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,122 (Ranked 147)  
+Progressed: 18,129 (Ranked 147)  
 Completed: 39 (0.22%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 39 (0.22%) (Ranked 256)
 | 2023-12-11 | 17,957 | 41 |
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
-| 2023-12-14 | 18,122 | 40 |
+| 2023-12-14 | 18,129 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 226)  
 Sum: 3,258 (Ranked 175)  

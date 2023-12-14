@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 95.00% | ~165 |
-| To Each Their Own | 47.00% | ~82 |
+| You're Going Down! | 95.00% | ~166 |
+| To Each Their Own | 46.00% | ~80 |
 | You Get An Upgrade, You Get An Upgrade! | 22.00% | ~38 |
 | Like Phileas Fogg | 19.00% | ~33 |
 | Onwards and Upwards | 17.00% | ~30 |
 | Serial Winner | 12.00% | ~21 |
-| Start Your Engines | 10.00% | ~17 |
-| Lone Wolf | 10.00% | ~17 |
+| Start Your Engines | 10.00% | ~18 |
+| Lone Wolf | 10.00% | ~18 |
 | Highly Qualified | 9.00% | ~16 |
 | No Room for Improvement | 9.00% | ~16 |
 | Playing God | 7.00% | ~12 |
@@ -27,25 +27,25 @@
 | Say My Name | 3.00% | ~5 |
 | First Things First | 3.00% | ~5 |
 | Tempus Fugit | 3.00% | ~5 |
-| Déjà-Vu | 2.00% | ~3 |
-| The Joy of Discovery | 2.00% | ~3 |
-| Geek | 2.00% | ~3 |
-| Last One Standing | 2.00% | ~3 |
-| The Immortal One | 2.00% | ~3 |
-| Shopping List | 2.00% | ~3 |
-| Time Lord | 2.00% | ~3 |
-| Made Father Proud | 2.00% | ~3 |
-| Win-Win! | 2.00% | ~3 |
-| Supersport Superfan | 2.00% | ~3 |
-| Tailor-Made for Two | 2.00% | ~3 |
+| Déjà-Vu | 2.00% | ~4 |
+| The Joy of Discovery | 2.00% | ~4 |
+| Geek | 2.00% | ~4 |
+| Last One Standing | 2.00% | ~4 |
+| The Immortal One | 2.00% | ~4 |
+| Shopping List | 2.00% | ~4 |
+| Time Lord | 2.00% | ~4 |
+| Made Father Proud | 2.00% | ~4 |
+| Win-Win! | 2.00% | ~4 |
+| Supersport Superfan | 2.00% | ~4 |
+| Tailor-Made for Two | 2.00% | ~4 |
 | Golden Ratio | 1.00% | ~2 |
 | Checklist | 1.00% | ~2 |
 | Time Is of the Essence | 1.00% | ~2 |
 | Superbike Superfan | 1.00% | ~2 |
 | Playing Favourites | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 174 (Ranked 405)  
-Completed: 2 (1.15%) (Ranked 164)  
+Progressed: 175 (Ranked 404)  
+Completed: 2 (1.14%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,4 +139,4 @@ Completed: 2 (1.15%) (Ranked 164)
 | 2023-11-30 | 164 | 2 |
 | 2023-12-09 | 165 | 2 |
 | 2023-12-13 | 166 | 2 |
-| 2023-12-14 | 174 | 2 |
+| 2023-12-14 | 175 | 2 |

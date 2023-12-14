@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 24083,
+  "EOS_Progressed": 24088,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10510,6 +10510,11 @@
       "Time": "2023-12-14T17:09:49.3784207+00:00",
       "NumProgressed": 24083,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-14T18:09:47.684931+00:00",
+      "NumProgressed": 24088,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10529,7 +10534,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "AllEquipment",
@@ -10569,7 +10574,7 @@
       "Name": "Looks Familiar",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -10585,7 +10590,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -10601,7 +10606,7 @@
       "Name": "Spells and Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -10769,7 +10774,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "PrequelReveal",
@@ -10832,21 +10837,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 24083,
+      "Progressed": 24088,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 3013,
+      "Progressed": 3018,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-14T17:09:49.3784201+00:00",
+  "LastChanged_Achievements": "2023-12-14T18:09:47.6849306+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:17.8828255+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:59:06.2347058+00:00",
-  "LastUpdate_Achievements": "2023-12-14T17:09:49.3784937+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:58:52.6841013+00:00",
+  "LastUpdate_Achievements": "2023-12-14T18:09:47.6849987+00:00"
 }

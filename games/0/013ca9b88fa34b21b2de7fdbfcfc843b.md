@@ -5,43 +5,51 @@ Rating: 4.60 (Ranked 422)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~6,071 |
-| A Thorny Situation | 70.00% | ~5,902 |
-| ... And Spit Back Out | 61.00% | ~5,144 |
-| Break-Net Speed | 49.00% | ~4,132 |
-| Bramble Breaker | 47.00% | ~3,963 |
-| Miner 49er | 44.00% | ~3,710 |
-| Humble Collector | 43.00% | ~3,626 |
-| Calm Sailing | 37.00% | ~3,120 |
-| Open the Gate! | 34.00% | ~2,867 |
-| Mist Walker | 33.00% | ~2,783 |
-| Lumberjack | 27.00% | ~2,277 |
-| Oui, Chef! | 23.00% | ~1,939 |
-| Clear the Air | 19.00% | ~1,602 |
-| Botanical Breakthrough | 17.00% | ~1,433 |
-| Search for the Hairy Grell | 14.00% | ~1,180 |
-| Beach Comber | 14.00% | ~1,180 |
-| Higher Tax Bracket | 14.00% | ~1,180 |
-| Skilled | 9.00% | ~759 |
-| Flaming Hot Completos | 8.00% | ~675 |
-| Fae Farmer | 8.00% | ~675 |
-| Got to Catch Them All | 8.00% | ~675 |
-| Rumble in the Jumble | 8.00% | ~675 |
-| Fanatical Farmer | 8.00% | ~675 |
-| Scattered Scroll Scrounger | 6.00% | ~506 |
-| Azorian Anniversary | 6.00% | ~506 |
-| I Now Pronounce You... | 5.00% | ~422 |
-| Chatty Neighbor | 4.00% | ~337 |
-| Right Tool For the Job | 4.00% | ~337 |
-| House Proud | 4.00% | ~337 |
-| Captain of Cozy | 2.00% | ~169 |
-| Angling Authority | 1.00% | ~84 |
-| Cloverfield Island | 0.20% | ~17 |
-| Giving the People What They Want | 0.20% | ~17 |
-| Very Skilled | 0.20% | ~17 |
+| A Thorny Situation | 0.30% | ~25 |
+| Calm Sailing | 0.30% | ~25 |
+| Open the Gate! | 0.30% | ~25 |
+| Clear the Air | 0.20% | ~17 |
+| Search for the Hairy Grell | 0.20% | ~17 |
+| Flaming Hot Completos | 0.20% | ~17 |
+| Break-Net Speed | 0.20% | ~17 |
+| Mist Walker | 0.20% | ~17 |
+| Bramble Breaker | 0.20% | ~17 |
+| Higher Tax Bracket | 0.20% | ~17 |
+| Chatty Neighbor | 0.20% | ~17 |
+| Azorian Anniversary | 0.20% | ~17 |
+| Right Tool For the Job | 0.20% | ~17 |
+| Captain of Cozy | 0.20% | ~17 |
+| Skilled | 0.20% | ~17 |
+| Azoria Beckons | 0.10% | ~8 |
+| Fae Farmer | 0.10% | ~8 |
+| Cloverfield Island | 0.10% | ~8 |
+| Got to Catch Them All | 0.10% | ~8 |
+| Angling Authority | 0.10% | ~8 |
+| Lumberjack | 0.10% | ~8 |
+| Miner 49er | 0.10% | ~8 |
+| Beach Comber | 0.10% | ~8 |
 | Workaholic | 0.10% | ~8 |
+| Giving the People What They Want | 0.10% | ~8 |
+| Humble Collector | 0.10% | ~8 |
+| Scattered Scroll Scrounger | 0.10% | ~8 |
+| ... And Spit Back Out | 0.10% | ~8 |
+| Rumble in the Jumble | 0.10% | ~8 |
+| Fanatical Farmer | 0.10% | ~8 |
+| I Now Pronounce You... | 0.10% | ~8 |
+| Oui, Chef! | 0.10% | ~8 |
+| Botanical Breakthrough | 0.10% | ~8 |
+| Very Skilled | 0.10% | ~8 |
+| House Proud | 0.10% | ~8 |
+| A Pal To All | 0.10% | ~1 |
+| Scroll Hunter | 0.10% | ~1 |
+| Polyglot | 0.10% | ~1 |
+| Splish-Splash | 0.10% | ~1 |
+| Azorian Hat Dance | 0.10% | ~1 |
+| Going Down | 0.10% | ~1 |
+| Exit Through The Gift Shop | 0.10% | ~1 |
+| Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,432 (Ranked 176)  
+Progressed: 8,433 (Ranked 176)  
 Completed: 1 (0.01%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +160,7 @@ Completed: 1 (0.01%) (Ranked 351)
 | 2023-12-10 | 8,408 | 1 |
 | 2023-12-11 | 8,419 | 1 |
 | 2023-12-13 | 8,425 | 1 |
-| 2023-12-14 | 8,432 | 1 |
+| 2023-12-14 | 8,433 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

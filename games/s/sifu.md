@@ -6,26 +6,26 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 1.00% | ~7,222 |
-| The Assault | 1.00% | ~7,222 |
-| Life is your teacher | 1.00% | ~7,222 |
-| Lightning Hands | 1.00% | ~7,222 |
-| Diligence as a goal | 1.00% | ~315 |
+| The Old Grandmaster | 1.00% | ~7,223 |
+| The Assault | 1.00% | ~7,223 |
+| Life is your teacher | 1.00% | ~7,223 |
+| Lightning Hands | 1.00% | ~7,223 |
+| Diligence as a goal | 1.00% | ~316 |
 | The Hateful Pole Fighter | 0.80% | ~5,778 |
 | State of constant learning | 0.80% | ~5,778 |
 | Qi Gong: Breath | 0.80% | ~5,778 |
 | Qi Gong: Essence | 0.80% | ~5,778 |
 | Rumble in the Hangar | 0.80% | ~5,778 |
-| Project Arena | 0.80% | ~252 |
-| A Lady's Blood in the Snow | 0.70% | ~5,055 |
-| Lady Wing Chun | 0.70% | ~5,055 |
-| Stuntmaster | 0.70% | ~5,055 |
-| Street Fighting | 0.70% | ~5,055 |
-| Old Child | 0.70% | ~5,055 |
-| Path of the Prospect | 0.70% | ~5,055 |
-| Furious Fists | 0.60% | ~4,333 |
-| Kill Nil | 0.60% | ~4,333 |
-| Take damage to save time | 0.60% | ~4,333 |
+| Project Arena | 0.80% | ~253 |
+| A Lady's Blood in the Snow | 0.70% | ~5,056 |
+| Lady Wing Chun | 0.70% | ~5,056 |
+| Stuntmaster | 0.70% | ~5,056 |
+| Street Fighting | 0.70% | ~5,056 |
+| Old Child | 0.70% | ~5,056 |
+| Path of the Prospect | 0.70% | ~5,056 |
+| Furious Fists | 0.60% | ~4,334 |
+| Kill Nil | 0.60% | ~4,334 |
+| Take damage to save time | 0.60% | ~4,334 |
 | Fight the way you practice | 0.60% | ~189 |
 | Scareless | 0.50% | ~3,611 |
 | Qi Gong: Mind | 0.50% | ~3,611 |
@@ -41,11 +41,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Legendary Talismans of Wuxing | 0.30% | ~2,167 |
 | Detective Story | 0.30% | ~2,167 |
 | The best strikes are the ones we avoid | 0.30% | ~95 |
-| Prodigal Child | 0.20% | ~1,444 |
-| Knowledge Greed | 0.20% | ~1,444 |
-| The 36th Chamber of Kung-Fu | 0.20% | ~1,444 |
-| Sword Stained With Blood | 0.20% | ~1,444 |
-| The Pit Protector | 0.20% | ~1,444 |
+| Prodigal Child | 0.20% | ~1,445 |
+| Knowledge Greed | 0.20% | ~1,445 |
+| The 36th Chamber of Kung-Fu | 0.20% | ~1,445 |
+| Sword Stained With Blood | 0.20% | ~1,445 |
+| The Pit Protector | 0.20% | ~1,445 |
 | Deadly Venom | 0.20% | ~63 |
 | A Touch of Acumen | 0.20% | ~63 |
 | Skill and an even stronger will | 0.20% | ~63 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~32 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,211 (Ranked 24)  
+Progressed: 722,279 (Ranked 24)  
 Completed: 12,953 (1.79%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 12,953 (1.79%) (Ranked 136)
 | 2023-12-11 | 717,971 | 12,952 |
 | 2023-12-12 | 717,993 | 12,952 |
 | 2023-12-13 | 718,112 | 12,953 |
-| 2023-12-14 | 722,211 | 12,953 |
+| 2023-12-14 | 722,279 | 12,953 |
 ## Awards
 Max (Great Boss Battles): 6,923  (Ranked 55)  
 Sum: 12,152 (Ranked 83)  

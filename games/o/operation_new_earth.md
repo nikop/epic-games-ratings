@@ -19,9 +19,9 @@ Rating: 3.23 (Ranked 1,064)
 | Infantry Reporting | 9.00% | ~182 |
 | Fighting for Survival | 8.00% | ~162 |
 | Silver Competitor | 8.00% | ~162 |
+| Captain | 8.00% | ~162 |
 | Factory Expansion | 8.00% | ~162 |
 | Exterminator | 7.00% | ~142 |
-| Captain | 7.00% | ~142 |
 | Know The Enemy | 6.00% | ~121 |
 | Silver Achiever | 6.00% | ~121 |
 | Moving On Up | 6.00% | ~121 |

@@ -1,24 +1,24 @@
 # Call of the Sea
 [Store](https://store.epicgames.com/en-US/p/call-of-the-sea)  
 [View Rawdata](../../db/c/call_of_the_sea.json)  
-Rating: 4.40 (Ranked 744)  
+Rating: 4.40 (Ranked 743)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~107,325 |
-| 74 miles East of Otaheité | 56.00% | ~75,127 |
+| A Family Heirloom | 80.00% | ~107,326 |
+| 74 miles East of Otaheité | 56.00% | ~75,128 |
 | Interesting... | 42.00% | ~56,346 |
-| The Everhart Expedition | 40.00% | ~53,662 |
+| The Everhart Expedition | 40.00% | ~53,663 |
 | Halfway there | 30.00% | ~40,247 |
 | The Vanishing of the Lady Shannon | 30.00% | ~40,247 |
 | Seaside Serenade | 30.00% | ~40,247 |
 | A brigantine, a brig and a barque | 28.00% | ~37,564 |
 | 506 East Hampden Avenue | 28.00% | ~37,564 |
-| Weekend at Walakea's | 27.00% | ~36,222 |
-| Quite a Show | 27.00% | ~36,222 |
-| Dark Water Ride | 25.00% | ~33,539 |
-| Sunken | 25.00% | ~33,539 |
-| Deep Cut | 24.00% | ~32,197 |
+| Weekend at Walakea's | 27.00% | ~36,223 |
+| Quite a Show | 27.00% | ~36,223 |
+| Dark Water Ride | 25.00% | ~33,540 |
+| Sunken | 25.00% | ~33,540 |
+| Deep Cut | 24.00% | ~32,198 |
 | FHALGOF'N' | 23.00% | ~30,856 |
 | Marsh Cannery | 21.00% | ~28,173 |
 | Greetings from Y'ha-nthlei! | 18.00% | ~24,148 |
@@ -40,8 +40,8 @@ Rating: 4.40 (Ranked 744)
 | Gently down the stream... | 1.00% | ~1,342 |
 | Meta-reference | 1.00% | ~1,342 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,156 (Ranked 82)  
-Completed: 1,190 (0.89%) (Ranked 177)  
+Progressed: 134,158 (Ranked 82)  
+Completed: 1,190 (0.89%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -278,7 +278,7 @@ Completed: 1,190 (0.89%) (Ranked 177)
 | 2023-12-11 | 133,829 | 1,188 |
 | 2023-12-12 | 133,950 | 1,189 |
 | 2023-12-13 | 134,068 | 1,190 |
-| 2023-12-14 | 134,156 | 1,190 |
+| 2023-12-14 | 134,158 | 1,190 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

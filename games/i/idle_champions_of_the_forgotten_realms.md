@@ -8,9 +8,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | Welcome to Sigil | 0.50% | ~1,033 |
 | Fast Food | 0.40% | ~826 |
+| A Brief Tour of the Realms | 0.20% | ~481 |
 | Misaligned in Sigil | 0.20% | ~413 |
 | Chaos Theory | 0.20% | ~413 |
-| A Brief Tour of the Realms | 0.10% | ~240 |
 | Maddening | 0.10% | ~240 |
 | Pros and CONs | 0.10% | ~240 |
 | Upholding the Law | 0.10% | ~240 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,247 (Ranked 66)  
+Progressed: 240,279 (Ranked 66)  
 Completed: 2,524 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -791,7 +791,7 @@ Completed: 2,524 (1.05%) (Ranked 168)
 | 2023-12-11 | 239,456 | 2,517 |
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
-| 2023-12-14 | 240,247 | 2,524 |
+| 2023-12-14 | 240,279 | 2,524 |
 ## Awards
 Max (Great for Beginners): 5,635  (Ranked 70)  
 Sum: 32,865 (Ranked 41)  

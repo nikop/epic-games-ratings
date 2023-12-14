@@ -4,8 +4,8 @@
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
   "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2022-10-04T11:00:00+00:00",
@@ -419,9 +419,9 @@
       "ID": "SOS_HEADACHE",
       "SetID": "6ci4lm2",
       "Name": "By fire and blood",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SOS_HEARTBREAKING_END",
@@ -722,8 +722,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-14T17:05:51.5993369+00:00",
+  "LastChanged_Achievements": "2023-12-14T18:05:42.5314738+00:00",
   "LastUpdate_AppInfo": "2023-12-11T16:57:10.7137617+00:00",
-  "LastUpdate_Ratings": "2023-12-14T17:00:54.3371655+00:00",
-  "LastUpdate_Achievements": "2023-12-14T17:05:51.5993967+00:00"
+  "LastUpdate_Ratings": "2023-12-14T18:00:37.1842902+00:00",
+  "LastUpdate_Achievements": "2023-12-14T18:05:42.5315183+00:00"
 }

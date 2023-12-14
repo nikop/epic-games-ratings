@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1321,
+  "EOS_Progressed": 1322,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -2575,6 +2575,11 @@
       "Time": "2023-12-14T13:11:18.5356673+00:00",
       "NumProgressed": 1321,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T18:05:00.2645833+00:00",
+      "NumProgressed": 1322,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2635,7 +2640,7 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -2651,7 +2656,7 @@
       "Name": "Team Builder",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -2667,7 +2672,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -2761,9 +2766,9 @@
       "ID": "ACHIEVEMENT_REUNITED",
       "SetID": "9991201",
       "Name": "Long Live Rock",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -2826,14 +2831,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1321,
+      "Progressed": 1322,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-14T17:05:09.0090837+00:00",
+  "LastChanged_Achievements": "2023-12-14T18:05:00.2645828+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.2067733+00:00",
-  "LastUpdate_Ratings": "2023-12-14T17:02:57.6157487+00:00",
-  "LastUpdate_Achievements": "2023-12-14T17:05:09.0091224+00:00"
+  "LastUpdate_Ratings": "2023-12-14T18:02:48.2113383+00:00",
+  "LastUpdate_Achievements": "2023-12-14T18:05:00.2646195+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 745,
+  "EOS_Progressed": 747,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3282,6 +3282,11 @@
       "Time": "2023-12-14T16:09:47.7298167+00:00",
       "NumProgressed": 745,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T18:09:29.5115183+00:00",
+      "NumProgressed": 747,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3341,7 +3346,7 @@
       "Name": "French Flair",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -3469,7 +3474,7 @@
       "Name": "The Big Day",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 486
     },
     {
       "ID": "Packing20",
@@ -3493,7 +3498,7 @@
       "Name": "Home Cook",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "RecipeDifferent30",
@@ -3612,7 +3617,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 745,
+      "Progressed": 747,
       "Completed": 0
     }
   ],
@@ -3620,8 +3625,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-14T17:09:30.302682+00:00",
+  "LastChanged_Achievements": "2023-12-14T18:09:29.5115179+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:44.3806487+00:00",
-  "LastUpdate_Ratings": "2023-12-14T16:59:26.8010316+00:00",
-  "LastUpdate_Achievements": "2023-12-14T17:09:30.3027364+00:00"
+  "LastUpdate_Ratings": "2023-12-14T17:59:11.4113241+00:00",
+  "LastUpdate_Achievements": "2023-12-14T18:09:29.5115617+00:00"
 }
