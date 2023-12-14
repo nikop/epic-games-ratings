@@ -5,10 +5,10 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 518,
   "Ranking_PopularitySum": 409,
-  "Ranking_EOS_Progress": 325,
+  "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 455,
+  "EOS_Progressed": 456,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1938,6 +1938,11 @@
       "Time": "2023-12-14T12:09:01.2010757+00:00",
       "NumProgressed": 455,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T14:08:37.8911477+00:00",
+      "NumProgressed": 456,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2054,7 +2059,7 @@
       "Name": "Critical Hit",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Deepstrike",
@@ -2381,15 +2386,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 455,
+      "Progressed": 456,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-14T13:15:15.4991821+00:00",
+  "LastChanged_Achievements": "2023-12-14T14:08:37.891147+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:05:09.6197835+00:00",
-  "LastUpdate_Achievements": "2023-12-14T13:15:15.4992266+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:58:40.3043217+00:00",
+  "LastUpdate_Achievements": "2023-12-14T14:08:37.8911903+00:00"
 }

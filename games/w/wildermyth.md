@@ -34,20 +34,20 @@ Number of Ratings: 45  (23.09.2022)
 | Chain Reaction | 0.50% | ~8 |
 | Everfading | 0.50% | ~8 |
 | Astrology | 0.50% | ~8 |
+| Storied Past | 0.40% | ~6 |
 | Plague Doctor | 0.40% | ~6 |
 | In Soil, In Smoke | 0.40% | ~6 |
 | All My Birds, Safely Home | 0.40% | ~6 |
 | We Emerge Changed | 0.30% | ~5 |
-| Storied Past | 0.30% | ~5 |
 | Worldwalker | 0.30% | ~5 |
 | No More Nightmares | 0.30% | ~5 |
 | Wingknight's Prowess | 0.30% | ~5 |
 | Bears are Scary | 0.30% | ~5 |
+| Fight Like a Bird | 0.30% | ~5 |
 | Grillmaster | 0.30% | ~5 |
 | Into Mulch | 0.30% | ~5 |
 | Tempest | 0.30% | ~5 |
 | Lochias's Hunger | 0.30% | ~5 |
-| Fight Like a Bird | 0.20% | ~3 |
 | I'm Not Smiling | 0.20% | ~3 |
 | Overwhelming Monstrosity | 0.10% | ~2 |
 | A Lowly Crust of Beef | 0.10% | ~2 |
@@ -249,8 +249,8 @@ Completed: 6 (0.39%) (Ranked 227)
 | 2023-12-14 | 1,523 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 507)  
-Sum: 29 (Ranked 522)  
-Diff (max vs sum): -15  
+Sum: 29 (Ranked 523)  
+Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 29 |

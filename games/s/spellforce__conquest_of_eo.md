@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Enough rooms to swing a cat | 91.00% | ~41 |
 | Home Sweet Home | 91.00% | ~41 |
-| Enough rooms to swing a cat | 89.00% | ~40 |
-| First to the post | 84.00% | ~38 |
+| First to the post | 87.00% | ~39 |
 | A kind of Magic | 80.00% | ~36 |
 | Connected | 78.00% | ~35 |
 | Expansion | 76.00% | ~34 |
 | Harvest Time | 69.00% | ~31 |
 | Mine! | 64.00% | ~29 |
-| Artificer's Apprentice | 60.00% | ~27 |
+| Artificer's Apprentice | 62.00% | ~28 |
 | Get out of here! | 56.00% | ~25 |
 | Fly the friendly Sky | 53.00% | ~24 |
 | Necromancer's Apprentice | 51.00% | ~23 |
@@ -37,12 +37,13 @@
 | The Forge of Regan Gor | 13.00% | ~6 |
 | Friend of Silver Drift Hollow | 13.00% | ~6 |
 | Friend of Windholme | 13.00% | ~6 |
+| Magic Academy | 13.00% | ~6 |
 | Defeat Uram | 11.00% | ~5 |
 | Lore's Tale | 11.00% | ~5 |
 | Yngrid's Tale | 11.00% | ~5 |
 | Silver Drift Hollow Mine | 11.00% | ~5 |
+| Mage Teacher | 11.00% | ~5 |
 | A Master of Magic | 11.00% | ~5 |
-| Magic Academy | 11.00% | ~5 |
 | A Joke | 11.00% | ~5 |
 | Get to the Airship! | 9.00% | ~4 |
 | Defeat Hokan | 9.00% | ~4 |
@@ -50,7 +51,7 @@
 | Defeat Undergast | 9.00% | ~4 |
 | Elynn's Tale | 9.00% | ~4 |
 | Crypt of the Revenant | 9.00% | ~4 |
-| Mage Teacher | 9.00% | ~4 |
+| Balanced | 9.00% | ~4 |
 | Friend of Grey Dusk Vale | 9.00% | ~4 |
 | Defeat Ianna | 7.00% | ~3 |
 | Defeat Rohen | 7.00% | ~3 |
@@ -60,16 +61,15 @@
 | Master Alchemist | 7.00% | ~3 |
 | A Monopoly of Might | 7.00% | ~3 |
 | Heroes | 7.00% | ~3 |
-| Balanced | 7.00% | ~3 |
 | Friend of Uram Gor | 7.00% | ~3 |
 | Defeat Raith | 4.00% | ~2 |
 | Fireforge | 4.00% | ~2 |
 | Master Artificer | 4.00% | ~2 |
 | Breaking the circle | 4.00% | ~2 |
 | My Friends! | 4.00% | ~2 |
+| Master Necromancer | 4.00% | ~2 |
 | Misty Coast Dragonbones | 2.00% | ~1 |
-| Master Necromancer | 2.00% | ~1 |
-| Hard Life | 0.00% | ~0 |
+| Hard Life | 2.00% | ~1 |
 | Impossible Mission | 0.00% | ~0 |
 | Potion Master | 0.00% | ~0 |
 | Master Smith | 0.00% | ~0 |

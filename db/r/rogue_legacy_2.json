@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23984,
+  "EOS_Progressed": 24016,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10490,6 +10490,11 @@
       "Time": "2023-12-14T13:16:23.2549531+00:00",
       "NumProgressed": 23984,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-14T14:09:46.4506497+00:00",
+      "NumProgressed": 24016,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10547,17 +10552,17 @@
       "ID": "AllSkills",
       "SetID": "3ojhj46",
       "Name": "Looks Familiar",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 144
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Justice",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 120
     },
     {
       "ID": "BossBridgeDefeated",
@@ -10581,7 +10586,7 @@
       "Name": "Spells and Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 959
+      "UsersEstimate": 961
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -10812,21 +10817,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23984,
+      "Progressed": 24016,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2914,
+      "Progressed": 2946,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-14T13:16:23.2549527+00:00",
+  "LastChanged_Achievements": "2023-12-14T14:09:46.4506491+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:17.8828255+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:05:11.6366333+00:00",
-  "LastUpdate_Achievements": "2023-12-14T13:16:23.2550044+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:58:42.5743772+00:00",
+  "LastUpdate_Achievements": "2023-12-14T14:09:46.4507068+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 22,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 397754,
+  "EOS_Progressed": 397773,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5049,
+  "EOS_NewPlayers": 5038,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12022,6 +12022,11 @@
       "Time": "2023-12-14T13:10:29.8938256+00:00",
       "NumProgressed": 397754,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T14:03:53.8634836+00:00",
+      "NumProgressed": 397773,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -12130,7 +12135,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 222742
+      "UsersEstimate": 222753
     },
     {
       "ID": "kills_100",
@@ -12186,7 +12191,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 39775
+      "UsersEstimate": 39777
     },
     {
       "ID": "revives_25",
@@ -12281,13 +12286,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 397754,
+      "Progressed": 397773,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-12-14T13:10:29.8938253+00:00",
+  "LastChanged_Achievements": "2023-12-14T14:03:53.8634832+00:00",
   "LastUpdate_AppInfo": "2023-12-13T18:57:11.3093741+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:05:16.2376789+00:00",
-  "LastUpdate_Achievements": "2023-12-14T13:10:29.8938984+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:58:47.2926255+00:00",
+  "LastUpdate_Achievements": "2023-12-14T14:03:53.8635629+00:00"
 }

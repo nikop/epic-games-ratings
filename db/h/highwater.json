@@ -4,8 +4,8 @@
   "ProductSlug": "highwater-090fb0",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 485,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 486,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-09T23:58:02.4255669+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:04:28.9162508+00:00",
-  "LastUpdate_Achievements": "2023-12-14T13:12:17.8530778+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:57:57.715539+00:00",
+  "LastUpdate_Achievements": "2023-12-14T14:05:40.7868968+00:00"
 }

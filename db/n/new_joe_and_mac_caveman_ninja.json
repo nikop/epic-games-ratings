@@ -4,8 +4,8 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 232,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.6,
+  "EOS_Completed_Percentage": 2.59,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -431,6 +431,11 @@
       "Time": "2023-12-14T01:52:50.7886618+00:00",
       "NumProgressed": 231,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-14T14:06:17.9115982+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -440,17 +445,17 @@
       "ID": "01",
       "SetID": "6glb5g1",
       "Name": "The T-Rex plain.",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 123
     },
     {
       "ID": "02",
       "SetID": "6glb5g1",
       "Name": "Crazy Jungle.",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "03",
@@ -506,7 +511,7 @@
       "Name": "In the heart of the volcano.",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "10",
@@ -530,7 +535,7 @@
       "Name": "Dinosaur graveyard.",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "13",
@@ -561,7 +566,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 232,
       "Completed": 6
     }
   ],
@@ -569,8 +574,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-12-14T13:12:54.7171505+00:00",
+  "LastChanged_Achievements": "2023-12-14T14:06:17.9115978+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:21.3905331+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:04:41.860273+00:00",
-  "LastUpdate_Achievements": "2023-12-14T13:12:54.7171607+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:58:10.4991166+00:00",
+  "LastUpdate_Achievements": "2023-12-14T14:06:17.9116101+00:00"
 }

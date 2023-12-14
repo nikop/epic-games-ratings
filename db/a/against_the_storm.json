@@ -3437,10 +3437,10 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 18094,
+  "EOS_Progressed": 18099,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 448,
-  "EOS_NewCompleters": -7,
+  "EOS_NewPlayers": 453,
+  "EOS_NewCompleters": -6,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -15672,6 +15672,11 @@
       "Time": "2023-12-14T13:10:15.0381724+00:00",
       "NumProgressed": 18094,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-14T14:03:38.862168+00:00",
+      "NumProgressed": 18099,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15954,9 +15959,9 @@
       "ID": "WinOnCursed",
       "SetID": "cfbk359",
       "Name": "Cursed Lands",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 127
     },
     {
       "ID": "WinOnMarshlands",
@@ -16155,15 +16160,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18094,
+      "Progressed": 18099,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-14T10:01:10.0204149+00:00",
-  "LastChanged_Achievements": "2023-12-14T13:10:15.0381721+00:00",
+  "LastChanged_Achievements": "2023-12-14T14:03:38.8621675+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:06:15.0652698+00:00",
-  "LastUpdate_Achievements": "2023-12-14T13:10:15.0382711+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:59:46.7363832+00:00",
+  "LastUpdate_Achievements": "2023-12-14T14:03:38.8622494+00:00"
 }

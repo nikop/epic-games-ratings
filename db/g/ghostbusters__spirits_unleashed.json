@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3637,10 +3637,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2901,
       "NumberOfAwardsMax": 321
+    },
+    {
+      "Time": "2023-12-14T13:59:47.4909155+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2902,
+      "NumberOfAwardsMax": 321
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2901,
+  "NumberOfAwards": 2902,
   "NumberOfAwardsMax": 321,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3690,7 +3696,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 289
+      "Count": 290
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3717,9 +3723,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32237,
+  "EOS_Progressed": 32239,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -22262,6 +22268,11 @@
       "Time": "2023-12-14T13:12:42.1644072+00:00",
       "NumProgressed": 32237,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-14T14:06:05.3343193+00:00",
+      "NumProgressed": 32239,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -22313,7 +22324,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "Collect_Spores",
@@ -22337,7 +22348,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "Daily_Dose",
@@ -22345,7 +22356,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "Diabolical",
@@ -22577,7 +22588,7 @@
       "Name": "Stylish",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2901
+      "UsersEstimate": 2902
     },
     {
       "ID": "Summoner",
@@ -22633,7 +22644,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "Tobins_Prodigy",
@@ -22657,7 +22668,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "Welcome_Crew",
@@ -22673,23 +22684,23 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32237,
+      "Progressed": 32239,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-12-12T01:46:52.0753723+00:00",
-  "LastChanged_Achievements": "2023-12-14T13:12:42.1644068+00:00",
+  "LastChanged": "2023-12-14T13:59:47.4909153+00:00",
+  "LastChanged_Achievements": "2023-12-14T14:06:05.3343189+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:16.7242615+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:06:15.876736+00:00",
-  "LastUpdate_Achievements": "2023-12-14T13:12:42.164524+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:59:47.4909159+00:00",
+  "LastUpdate_Achievements": "2023-12-14T14:06:05.3344315+00:00"
 }

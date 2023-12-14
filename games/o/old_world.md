@@ -18,6 +18,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 5.00% | ~788 |
 | Strong | 5.00% | ~788 |
 | Hanging Gardens | 5.00% | ~788 |
+| Oracle | 5.00% | ~788 |
 | Ambitious | 4.00% | ~630 |
 | Enlightened | 4.00% | ~630 |
 | Glorious | 4.00% | ~630 |
@@ -28,7 +29,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 4.00% | ~630 |
 | Developing Cities | 4.00% | ~630 |
 | Strong Cities | 4.00% | ~630 |
-| Oracle | 4.00% | ~630 |
 | Pyramids | 4.00% | ~630 |
 | Judaism | 4.00% | ~630 |
 | Greek Paganism | 4.00% | ~630 |

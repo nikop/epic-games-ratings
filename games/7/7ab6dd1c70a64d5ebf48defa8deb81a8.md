@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 20.00% | ~64 |
-| Trinity | 13.00% | ~41 |
-| Find Allies | 10.00% | ~32 |
-| Powerful Allies | 10.00% | ~32 |
-| Adventurer | 10.00% | ~32 |
+| Break Out | 22.00% | ~72 |
+| Trinity | 12.00% | ~39 |
+| Find Allies | 10.00% | ~33 |
+| Powerful Allies | 9.00% | ~29 |
 | A Taste of Wrath | 9.00% | ~29 |
+| Adventurer | 9.00% | ~29 |
 | Shatter Them All | 9.00% | ~29 |
 | Geared Up | 9.00% | ~29 |
 | Fashion Victim | 9.00% | ~29 |
@@ -18,31 +18,31 @@
 | The Collector | 9.00% | ~29 |
 | Tributes of Caladrias | 8.00% | ~26 |
 | Stone Collection | 8.00% | ~26 |
-| The Mentor | 7.00% | ~22 |
-| Big Bazar | 7.00% | ~22 |
-| Calm before the Storm | 6.00% | ~19 |
-| Essence Blow | 6.00% | ~19 |
+| The Mentor | 7.00% | ~23 |
+| Big Bazar | 7.00% | ~23 |
+| Calm before the Storm | 6.00% | ~20 |
+| Essence Blow | 6.00% | ~20 |
+| Alchemist | 6.00% | ~20 |
 | To Battle | 5.00% | ~16 |
 | Godslayer | 5.00% | ~16 |
-| Alchemist | 5.00% | ~16 |
 | Clear Sight | 4.00% | ~13 |
 | Fine Feathers Make Fine Birds | 4.00% | ~13 |
 | Airborne | 3.00% | ~10 |
 | Shatterer | 3.00% | ~10 |
-| Slayer | 3.00% | ~10 |
-| All There Is | 3.00% | ~10 |
 | Miner | 3.00% | ~10 |
-| Flawless Victory | 2.00% | ~6 |
-| False God | 2.00% | ~6 |
-| All That Gold | 2.00% | ~6 |
-| A Queen's Tale | 2.00% | ~6 |
-| Summiter | 2.00% | ~6 |
+| Slayer | 2.00% | ~7 |
+| Flawless Victory | 2.00% | ~7 |
+| All There Is | 2.00% | ~7 |
+| False God | 2.00% | ~7 |
+| All That Gold | 2.00% | ~7 |
+| A Queen's Tale | 2.00% | ~7 |
+| Summiter | 2.00% | ~7 |
 | Forgemaster | 1.00% | ~3 |
 | Shardbearer | 0.90% | ~3 |
 | Feeling Fancy | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 319 (Ranked 358)  
-Completed: 3 (0.94%) (Ranked 174)  
+Progressed: 327 (Ranked 354)  
+Completed: 3 (0.92%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,4 +104,4 @@ Completed: 3 (0.94%) (Ranked 174)
 | 2023-12-11 | 264 | 2 |
 | 2023-12-12 | 265 | 2 |
 | 2023-12-13 | 282 | 3 |
-| 2023-12-14 | 319 | 3 |
+| 2023-12-14 | 327 | 3 |

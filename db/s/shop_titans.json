@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7555,9 +7555,9 @@
       "Count": 3795
     }
   ],
-  "EOS_Progressed": 145293,
+  "EOS_Progressed": 145309,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 1188,
+  "EOS_NewPlayers": 1202,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -32390,6 +32390,11 @@
       "Time": "2023-12-14T13:10:55.1983096+00:00",
       "NumProgressed": 145293,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2023-12-14T14:04:18.7742284+00:00",
+      "NumProgressed": 145309,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 112,
@@ -32569,7 +32574,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11623
+      "UsersEstimate": 11625
     },
     {
       "ID": "chest02",
@@ -32615,9 +32620,9 @@
       "ID": "collection04",
       "SetID": "anfd17p",
       "Name": "The Free Encyclopedia",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1453
     },
     {
       "ID": "collection05",
@@ -32625,7 +32630,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "commonres01",
@@ -32633,7 +32638,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10171
+      "UsersEstimate": 10172
     },
     {
       "ID": "commonres02",
@@ -32745,7 +32750,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "energy01",
@@ -32873,7 +32878,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10171
+      "UsersEstimate": 10172
     },
     {
       "ID": "gold02",
@@ -32969,7 +32974,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "legenchant01",
@@ -33217,7 +33222,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11623
+      "UsersEstimate": 11625
     },
     {
       "ID": "twinenchant01",
@@ -33296,15 +33301,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 145293,
+      "Progressed": 145309,
       "Completed": 304
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-14T09:03:33.4837832+00:00",
-  "LastChanged_Achievements": "2023-12-14T13:10:55.1983093+00:00",
+  "LastChanged_Achievements": "2023-12-14T14:04:18.7742281+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2420411+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:09:53.4661655+00:00",
-  "LastUpdate_Achievements": "2023-12-14T13:10:55.1985277+00:00"
+  "LastUpdate_Ratings": "2023-12-14T14:03:14.5316746+00:00",
+  "LastUpdate_Achievements": "2023-12-14T14:04:18.7744435+00:00"
 }

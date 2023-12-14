@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 507)  
+Progressed: 53 (Ranked 508)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,8 +72,8 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-14 | 53 | 0 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 481)  
-Sum: 36 (Ranked 511)  
-Diff (max vs sum): -30  
+Sum: 36 (Ranked 512)  
+Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 36 |

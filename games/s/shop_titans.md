@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,623 |
-| Titan's First Steps | 8.00% | ~11,623 |
-| Basic in Bulk | 7.00% | ~10,171 |
-| Tinkle of Coins | 7.00% | ~10,171 |
+| Sponsored by Argon | 8.00% | ~11,625 |
+| Titan's First Steps | 8.00% | ~11,625 |
+| Basic in Bulk | 7.00% | ~10,172 |
+| Tinkle of Coins | 7.00% | ~10,172 |
 | Disintermediation | 5.00% | ~7,265 |
 | It's Free Real Estate | 5.00% | ~7,265 |
 | Budding Merchant | 5.00% | ~7,265 |
@@ -90,6 +90,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Ronin Reborn | 1.00% | ~1,453 |
 | Thirst for Knowledge | 1.00% | ~1,453 |
 | Archivist | 1.00% | ~1,453 |
+| The Free Encyclopedia | 1.00% | ~1,453 |
 | Fillin' the Bin | 1.00% | ~1,453 |
 | Industrial Evolution | 1.00% | ~1,453 |
 | Thank You Tom Nook | 1.00% | ~1,453 |
@@ -104,22 +105,21 @@ Number of Ratings: 12,664  (23.09.2022)
 | All Accounted For | 1.00% | ~1,453 |
 | Economy of Scarce | 1.00% | ~1,453 |
 | King's Blade | 1.00% | ~1,453 |
-| The Free Encyclopedia | 0.90% | ~1,308 |
 | All or Nothing! | 0.80% | ~1,162 |
 | The Greatest Grind | 0.70% | ~1,017 |
 | Marvels from the World Over | 0.70% | ~1,017 |
 | Bane of Legends | 0.60% | ~872 |
 | Anything not Nailed Down | 0.60% | ~872 |
-| Ultimate Collector | 0.50% | ~726 |
-| Unleashed Potential | 0.50% | ~726 |
-| JACKPOT!!! | 0.50% | ~726 |
+| Ultimate Collector | 0.50% | ~727 |
+| Unleashed Potential | 0.50% | ~727 |
+| JACKPOT!!! | 0.50% | ~727 |
 | Oligarch Monarch | 0.40% | ~581 |
 | Merchant Extraordinaire | 0.40% | ~581 |
 | To Hell and Back | 0.30% | ~436 |
 | Cash Only Please | 0.30% | ~436 |
 | Capitalist Camaraderie | 0.20% | ~291 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,293 (Ranked 80)  
+Progressed: 145,309 (Ranked 80)  
 Completed: 304 (0.21%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 304 (0.21%) (Ranked 258)
 | 2023-12-11 | 144,756 | 293 |
 | 2023-12-12 | 144,871 | 294 |
 | 2023-12-13 | 145,093 | 297 |
-| 2023-12-14 | 145,293 | 304 |
+| 2023-12-14 | 145,309 | 304 |
 ## Awards
 Max (Great for Beginners): 4,882  (Ranked 75)  
 Sum: 27,712 (Ranked 51)  

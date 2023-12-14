@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,325 |
+| Devoured by Darkness | 27.00% | ~3,326 |
 | A Spark | 19.00% | ~2,340 |
 | Burning City | 18.00% | ~2,217 |
-| Defender's Heart | 16.00% | ~1,970 |
-| Mythic Choices | 15.00% | ~1,847 |
-| Banner over the Citadel | 14.00% | ~1,724 |
+| Defender's Heart | 16.00% | ~1,971 |
+| Mythic Choices | 15.00% | ~1,848 |
+| Banner over the Citadel | 14.00% | ~1,725 |
 | Queen's Gratitude | 12.00% | ~1,478 |
-| Fifth Crusade | 9.00% | ~1,108 |
+| Fifth Crusade | 9.00% | ~1,109 |
 | Embrace of the Abyss | 7.00% | ~862 |
 | Path of the Angel | 7.00% | ~862 |
 | Demonic and Divine | 7.00% | ~862 |
@@ -30,11 +30,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Divide and Rule | 4.00% | ~493 |
 | Mythic Reinforcements | 4.00% | ~493 |
 | Hey, I Know You! | 4.00% | ~493 |
-| Path of the Trickster | 3.00% | ~369 |
-| Path of the Lich | 3.00% | ~369 |
-| Heroic Victory | 3.00% | ~369 |
-| Capitulation Is Now Moot | 3.00% | ~369 |
-| Core of the Riddle | 3.00% | ~369 |
+| Path of the Trickster | 3.00% | ~370 |
+| Path of the Lich | 3.00% | ~370 |
+| Heroic Victory | 3.00% | ~370 |
+| Capitulation Is Now Moot | 3.00% | ~370 |
+| Core of the Riddle | 3.00% | ~370 |
 | Hanged Man's Notes | 3.00% | ~333 |
 | Sarkoris Will Be Green | 3.00% | ~333 |
 | The Lady of the Forest | 3.00% | ~333 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,314 (Ranked 163)  
+Progressed: 12,318 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -361,7 +361,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 12,286 | 0 |
 | 2023-12-12 | 12,291 | 0 |
 | 2023-12-13 | 12,300 | 0 |
-| 2023-12-14 | 12,314 | 0 |
+| 2023-12-14 | 12,318 | 0 |
 ## Awards
 Max (Character Customization): 1,759  (Ranked 123)  
 Sum: 7,134 (Ranked 122)  

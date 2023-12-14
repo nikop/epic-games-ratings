@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 93.00% | ~26,256 |
-| Enemy Attrition | 72.00% | ~20,327 |
-| Grim Reaper | 71.00% | ~20,045 |
-| Heads Down | 70.00% | ~19,762 |
-| Not On My Watch | 67.00% | ~18,915 |
-| Combat Engineer | 50.00% | ~14,116 |
-| Eager Beaver | 44.00% | ~12,422 |
-| Call ’em in! | 39.00% | ~11,010 |
-| Lovely | 36.00% | ~10,164 |
-| Elite | 24.00% | ~6,776 |
-| Store fuglar fanga ingi flugor | 23.00% | ~6,493 |
-| Ou La Mort | 21.00% | ~5,929 |
-| Fender Bender | 15.00% | ~4,235 |
-| Globetrotter | 12.00% | ~3,388 |
-| Jack of All Trades | 11.00% | ~3,106 |
-| Storyteller | 6.00% | ~1,694 |
-| Death from Above | 4.00% | ~1,129 |
-| Off-hand | 4.00% | ~1,129 |
-| Veteran | 1.00% | ~282 |
-| Hoist the Flag | 0.50% | ~141 |
-| Sins of the Fathers | 0.30% | ~85 |
+| Last Man Standing | 92.00% | ~26,582 |
+| Enemy Attrition | 72.00% | ~20,803 |
+| Grim Reaper | 70.00% | ~20,225 |
+| Heads Down | 69.00% | ~19,936 |
+| Not On My Watch | 66.00% | ~19,069 |
+| Combat Engineer | 49.00% | ~14,158 |
+| Eager Beaver | 43.00% | ~12,424 |
+| Call ’em in! | 39.00% | ~11,268 |
+| Lovely | 35.00% | ~10,113 |
+| Elite | 23.00% | ~6,645 |
+| Store fuglar fanga ingi flugor | 23.00% | ~6,645 |
+| Ou La Mort | 21.00% | ~6,068 |
+| Fender Bender | 15.00% | ~4,334 |
+| Globetrotter | 12.00% | ~3,467 |
+| Jack of All Trades | 10.00% | ~2,889 |
+| Storyteller | 6.00% | ~1,734 |
+| Death from Above | 4.00% | ~1,156 |
+| Off-hand | 4.00% | ~1,156 |
+| Veteran | 1.00% | ~289 |
+| Hoist the Flag | 0.50% | ~144 |
+| Sins of the Fathers | 0.30% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,232 (Ranked 132)  
+Progressed: 28,893 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,4 +115,4 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 24,888 | 0 |
 | 2023-12-12 | 24,993 | 0 |
 | 2023-12-13 | 25,198 | 0 |
-| 2023-12-14 | 28,232 | 0 |
+| 2023-12-14 | 28,893 | 0 |

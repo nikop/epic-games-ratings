@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,122 (Ranked 66)  
+Progressed: 240,147 (Ranked 66)  
 Completed: 2,524 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -791,16 +791,16 @@ Completed: 2,524 (1.05%) (Ranked 167)
 | 2023-12-11 | 239,456 | 2,517 |
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
-| 2023-12-14 | 240,122 | 2,524 |
+| 2023-12-14 | 240,147 | 2,524 |
 ## Awards
 Max (Great for Beginners): 5,624  (Ranked 70)  
-Sum: 32,852 (Ranked 41)  
+Sum: 32,854 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,624 |
 | This game has Diverse Characters | 5,594 |
-| This game has Quickly Understood Controls | 4,841 |
+| This game has Quickly Understood Controls | 4,843 |
 | This game is Relaxing | 4,726 |
 | This game has Amazing Characters | 4,250 |
 | This game is Highly Recommended | 4,246 |
@@ -1130,4 +1130,4 @@ Diff (max vs sum): 29
 | 2023-12-11 | 4.06 | - | 5,622 | 32,826 |
 | 2023-12-12 | 4.06 | - | 5,622 | 32,830 |
 | 2023-12-13 | 4.06 | - | 5,624 | 32,841 |
-| 2023-12-14 | 4.06 | - | 5,624 | 32,852 |
+| 2023-12-14 | 4.06 | - | 5,624 | 32,854 |

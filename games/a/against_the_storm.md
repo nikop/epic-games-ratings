@@ -33,10 +33,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Barren Lands | 0.70% | ~127 |
 | Levitating Monument | 0.70% | ~127 |
 | Corrosive Torrent | 0.70% | ~127 |
+| Cursed Lands | 0.70% | ~127 |
 | Trade Baron | 0.70% | ~127 |
 | Ancient Battleground | 0.60% | ~109 |
 | Statue of the Forefathers | 0.60% | ~109 |
-| Cursed Lands | 0.60% | ~109 |
 | Against All Odds | 0.50% | ~90 |
 | Sparkdew Crystals | 0.50% | ~90 |
 | Haunted Forest | 0.50% | ~90 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,094 (Ranked 147)  
+Progressed: 18,099 (Ranked 147)  
 Completed: 39 (0.22%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 39 (0.22%) (Ranked 256)
 | 2023-12-11 | 17,957 | 41 |
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
-| 2023-12-14 | 18,094 | 40 |
+| 2023-12-14 | 18,099 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 226)  
 Sum: 3,258 (Ranked 175)  

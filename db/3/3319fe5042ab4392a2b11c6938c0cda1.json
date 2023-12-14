@@ -4,8 +4,8 @@
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 612,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -244,9 +244,9 @@
       "ID": "NEW_ACHIEVEMENT_1_27",
       "SetID": "ae95dh3",
       "Name": "The Drop",
-      "Percentage": 86,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
@@ -387,8 +387,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-14T13:10:17.2511137+00:00",
+  "LastChanged_Achievements": "2023-12-14T14:03:40.9937253+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184739+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:03:59.0331854+00:00",
-  "LastUpdate_Achievements": "2023-12-14T13:10:17.2511304+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:57:28.3964319+00:00",
+  "LastUpdate_Achievements": "2023-12-14T14:03:40.9937471+00:00"
 }

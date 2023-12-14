@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -129,7 +129,7 @@
   "Tags": [],
   "EOS_Progressed": 1162,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.67,
   "EosHistory": [
@@ -4007,9 +4007,9 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 627
+      "UsersEstimate": 639
     },
     {
       "ID": "MQ02_2",
@@ -4119,9 +4119,9 @@
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 488
+      "UsersEstimate": 500
     },
     {
       "ID": "MQ05_4",
@@ -4224,8 +4224,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-14T11:03:29.6730885+00:00",
-  "LastChanged_Achievements": "2023-12-14T13:10:24.0662486+00:00",
+  "LastChanged_Achievements": "2023-12-14T14:03:47.7305184+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:09:51.5030195+00:00",
-  "LastUpdate_Achievements": "2023-12-14T13:10:24.0662758+00:00"
+  "LastUpdate_Ratings": "2023-12-14T14:03:12.6950856+00:00",
+  "LastUpdate_Achievements": "2023-12-14T14:03:47.7305556+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3444,
+  "EOS_Progressed": 3447,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6281,6 +6281,11 @@
       "Time": "2023-12-14T13:11:08.1835181+00:00",
       "NumProgressed": 3444,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T14:04:31.4652899+00:00",
+      "NumProgressed": 3447,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6356,7 +6361,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "ACH_BASE_19",
@@ -6380,7 +6385,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ACH_BASE_22",
@@ -6396,7 +6401,7 @@
       "Name": "Space Society",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ACH_BASE_24",
@@ -6404,7 +6409,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ACH_BASE_25",
@@ -6460,7 +6465,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH_BASE_31",
@@ -6484,7 +6489,7 @@
       "Name": "Fully Recycled",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH_BASE_34",
@@ -6500,7 +6505,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH_BASE_36",
@@ -6588,7 +6593,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ACH_BASE_49",
@@ -6596,7 +6601,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH_BASE_5",
@@ -6668,7 +6673,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH_BASE_6",
@@ -6676,7 +6681,7 @@
       "Name": "Hope Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH_BASE_60",
@@ -6747,13 +6752,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1628,
+      "Progressed": 1631,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3444,
+      "Progressed": 3447,
       "Completed": 0
     }
   ],
@@ -6761,8 +6766,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-14T13:11:08.1835177+00:00",
+  "LastChanged_Achievements": "2023-12-14T14:04:31.4652897+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4855137+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:03:44.2418647+00:00",
-  "LastUpdate_Achievements": "2023-12-14T13:11:08.1835949+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:57:13.4046472+00:00",
+  "LastUpdate_Achievements": "2023-12-14T14:04:31.4653721+00:00"
 }

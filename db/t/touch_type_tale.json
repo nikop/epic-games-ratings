@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3841,
+  "EOS_Progressed": 3842,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -4827,6 +4827,11 @@
       "Time": "2023-12-14T11:06:36.8627594+00:00",
       "NumProgressed": 3841,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-14T14:06:07.7433175+00:00",
+      "NumProgressed": 3842,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4854,7 +4859,7 @@
       "Name": "Your Biggest Fans",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "bonus4",
@@ -4886,7 +4891,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3342
+      "UsersEstimate": 3343
     },
     {
       "ID": "campaign10",
@@ -4974,7 +4979,7 @@
       "Name": "Flanked!",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2919
+      "UsersEstimate": 2920
     },
     {
       "ID": "campaign20",
@@ -4990,7 +4995,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2266
+      "UsersEstimate": 2267
     },
     {
       "ID": "campaign4",
@@ -4998,7 +5003,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "campaign5",
@@ -5054,7 +5059,7 @@
       "Name": "Full Employment",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "scenario3",
@@ -5070,7 +5075,7 @@
       "Name": "A Secret Recipe",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "scenario5",
@@ -5101,7 +5106,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3841,
+      "Progressed": 3842,
       "Completed": 11
     }
   ],
@@ -5109,8 +5114,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-14T13:12:44.5182026+00:00",
+  "LastChanged_Achievements": "2023-12-14T14:06:07.7433169+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.2611829+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:04:45.0881231+00:00",
-  "LastUpdate_Achievements": "2023-12-14T13:12:44.518244+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:58:13.7725437+00:00",
+  "LastUpdate_Achievements": "2023-12-14T14:06:07.743364+00:00"
 }

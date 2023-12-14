@@ -6,56 +6,56 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~32,819 |
-| Skillful | 3.00% | ~32,819 |
-| Handyman | 2.00% | ~21,880 |
-| Zealous | 2.00% | ~21,880 |
-| Not half bad | 2.00% | ~21,880 |
-| Apt Survivor | 2.00% | ~21,880 |
-| Survival Treasures | 2.00% | ~21,880 |
-| I | 2.00% | ~21,880 |
-| Sorted | 2.00% | ~21,880 |
-| Make Some Noise | 2.00% | ~21,880 |
-| The Grand Sacrifice | 1.00% | ~10,940 |
-| Agonizing Escape | 1.00% | ~10,940 |
-| Backdoor Escape | 1.00% | ~10,940 |
-| I've got your back | 1.00% | ~10,940 |
-| No one left behind | 1.00% | ~10,940 |
-| Medic | 1.00% | ~10,940 |
-| Perfect Escape | 1.00% | ~10,940 |
-| Perfect Killing | 1.00% | ~10,940 |
-| Bloody Millionaire | 1.00% | ~10,940 |
-| Apt Killer | 1.00% | ~10,940 |
-| Risk it all | 1.00% | ~10,940 |
-| II | 1.00% | ~10,940 |
-| Engineer | 1.00% | ~10,940 |
-| Healthy Obsession | 1.00% | ~10,940 |
-| Resurgence | 1.00% | ~10,940 |
-| Close Shave | 1.00% | ~10,940 |
-| Preemptive Strike | 1.00% | ~10,940 |
-| Humanitarian | 1.00% | ~10,940 |
-| Wounded Healer | 0.90% | ~9,846 |
-| Vulture | 0.80% | ~8,752 |
-| III | 0.80% | ~8,752 |
-| Lifting The Fog | 0.80% | ~8,752 |
-| Second Act | 0.80% | ~8,752 |
-| Blood on your hands | 0.70% | ~7,658 |
-| Escape Artist | 0.70% | ~7,658 |
-| First to the Punch | 0.70% | ~7,658 |
-| Operation: Survival | 0.70% | ~7,658 |
-| Every Last Drop | 0.70% | ~7,658 |
-| Raccoon City Recruit | 0.70% | ~7,658 |
-| With Scars to Show | 0.70% | ~7,658 |
-| Flight to Freedom | 0.70% | ~7,658 |
-| Chorus of Chaos | 0.70% | ~7,658 |
-| Gifts for the Fog | 0.60% | ~6,564 |
-| III-50 | 0.60% | ~6,564 |
-| Item of Obsession | 0.60% | ~6,564 |
-| Holiday Get-Together | 0.60% | ~6,564 |
-| Cherish your Life | 0.60% | ~6,564 |
-| Unforgettable Getaway | 0.60% | ~6,564 |
-| Old West Oasis | 0.60% | ~6,564 |
-| Classy Act | 0.60% | ~6,564 |
+| It wakes | 3.00% | ~32,823 |
+| Skillful | 3.00% | ~32,823 |
+| Handyman | 2.00% | ~21,882 |
+| Zealous | 2.00% | ~21,882 |
+| Not half bad | 2.00% | ~21,882 |
+| Apt Survivor | 2.00% | ~21,882 |
+| Survival Treasures | 2.00% | ~21,882 |
+| I | 2.00% | ~21,882 |
+| Sorted | 2.00% | ~21,882 |
+| Make Some Noise | 2.00% | ~21,882 |
+| The Grand Sacrifice | 1.00% | ~10,941 |
+| Agonizing Escape | 1.00% | ~10,941 |
+| Backdoor Escape | 1.00% | ~10,941 |
+| I've got your back | 1.00% | ~10,941 |
+| No one left behind | 1.00% | ~10,941 |
+| Medic | 1.00% | ~10,941 |
+| Perfect Escape | 1.00% | ~10,941 |
+| Perfect Killing | 1.00% | ~10,941 |
+| Bloody Millionaire | 1.00% | ~10,941 |
+| Apt Killer | 1.00% | ~10,941 |
+| Risk it all | 1.00% | ~10,941 |
+| II | 1.00% | ~10,941 |
+| Engineer | 1.00% | ~10,941 |
+| Healthy Obsession | 1.00% | ~10,941 |
+| Resurgence | 1.00% | ~10,941 |
+| Close Shave | 1.00% | ~10,941 |
+| Preemptive Strike | 1.00% | ~10,941 |
+| Humanitarian | 1.00% | ~10,941 |
+| Wounded Healer | 0.90% | ~9,847 |
+| Vulture | 0.80% | ~8,753 |
+| III | 0.80% | ~8,753 |
+| Lifting The Fog | 0.80% | ~8,753 |
+| Second Act | 0.80% | ~8,753 |
+| Blood on your hands | 0.70% | ~7,659 |
+| Escape Artist | 0.70% | ~7,659 |
+| First to the Punch | 0.70% | ~7,659 |
+| Operation: Survival | 0.70% | ~7,659 |
+| Every Last Drop | 0.70% | ~7,659 |
+| Raccoon City Recruit | 0.70% | ~7,659 |
+| With Scars to Show | 0.70% | ~7,659 |
+| Flight to Freedom | 0.70% | ~7,659 |
+| Chorus of Chaos | 0.70% | ~7,659 |
+| Gifts for the Fog | 0.60% | ~6,565 |
+| III-50 | 0.60% | ~6,565 |
+| Item of Obsession | 0.60% | ~6,565 |
+| Holiday Get-Together | 0.60% | ~6,565 |
+| Cherish your Life | 0.60% | ~6,565 |
+| Unforgettable Getaway | 0.60% | ~6,565 |
+| Old West Oasis | 0.60% | ~6,565 |
+| Classy Act | 0.60% | ~6,565 |
 | Blood on your face | 0.50% | ~5,470 |
 | Made it out alive! | 0.50% | ~5,470 |
 | Nerves of steel | 0.50% | ~5,470 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,094 |
 | Adept Good Guy | 0.10% | ~1,094 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,093,975 (Ranked 12)  
+Progressed: 1,094,100 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -477,10 +477,10 @@ Completed: 62 (0.01%) (Ranked 351)
 | 2023-12-11 | 1,088,746 | 62 |
 | 2023-12-12 | 1,090,736 | 62 |
 | 2023-12-13 | 1,092,812 | 62 |
-| 2023-12-14 | 1,093,975 | 62 |
+| 2023-12-14 | 1,094,100 | 62 |
 ## Awards
 Max (Diverse Characters): 37,855  (Ranked 15)  
-Sum: 286,766 (Ranked 12)  
+Sum: 286,842 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -489,7 +489,7 @@ Diff (max vs sum): 3
 | This game has Amazing Characters | 32,341 |
 | This game has Competitive Players | 32,122 |
 | This game is Extremely Fun | 31,784 |
-| This game has Challenging Combat | 31,654 |
+| This game has Challenging Combat | 31,730 |
 | This game has Quickly Understood Controls | 30,898 |
 | This game has Amazing Storytelling | 29,275 |
 | This game has a Competitive Community | 28,015 |
@@ -822,4 +822,4 @@ Diff (max vs sum): 3
 | 2023-12-11 | 4.51 | - | 37,692 | 285,774 |
 | 2023-12-12 | 4.51 | - | 37,733 | 286,071 |
 | 2023-12-13 | 4.51 | - | 37,782 | 286,420 |
-| 2023-12-14 | 4.51 | - | 37,855 | 286,766 |
+| 2023-12-14 | 4.51 | - | 37,855 | 286,842 |

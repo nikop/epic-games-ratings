@@ -6,26 +6,26 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~570,857 |
-| Error: Stack Overflow | 66.00% | ~405,124 |
-| We need more gold | 61.00% | ~374,433 |
-| The dawn of civilization | 53.00% | ~325,327 |
-| More FPS for the FPS god! | 50.00% | ~306,912 |
-| Beauty and harmony | 48.00% | ~294,636 |
-| One more! | 44.00% | ~270,083 |
-| Overmind | 24.00% | ~147,318 |
-| RNG is my best friend now | 18.00% | ~110,488 |
+| First.. Bit? | 93.00% | ~570,863 |
+| Error: Stack Overflow | 66.00% | ~405,128 |
+| We need more gold | 61.00% | ~374,437 |
+| The dawn of civilization | 53.00% | ~325,330 |
+| More FPS for the FPS god! | 50.00% | ~306,916 |
+| Beauty and harmony | 48.00% | ~294,639 |
+| One more! | 44.00% | ~270,086 |
+| Overmind | 24.00% | ~147,319 |
+| RNG is my best friend now | 18.00% | ~110,490 |
 | Cosplay | 14.00% | ~85,936 |
-| Evolution in progress... | 13.00% | ~79,797 |
+| Evolution in progress... | 13.00% | ~79,798 |
 | Step by step | 8.00% | ~49,106 |
 | README reader | 4.00% | ~24,553 |
 | Data scientist | 3.00% | ~18,415 |
 | One small step for a man... | 3.00% | ~18,415 |
-| To see it all, to learn it all | 2.00% | ~12,276 |
-| Evolution complete | 2.00% | ~12,276 |
-| Best deal on the market | 2.00% | ~12,276 |
-| Is this Skynet? | 2.00% | ~12,276 |
-| Cybergeek 2047 | 2.00% | ~12,276 |
+| To see it all, to learn it all | 2.00% | ~12,277 |
+| Evolution complete | 2.00% | ~12,277 |
+| Best deal on the market | 2.00% | ~12,277 |
+| Is this Skynet? | 2.00% | ~12,277 |
+| Cybergeek 2047 | 2.00% | ~12,277 |
 | The hoarder | 1.00% | ~6,138 |
 | Ping | 1.00% | ~6,138 |
 | Magna cum laude | 1.00% | ~6,138 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,841 |
 | The Scrooge | 0.10% | ~614 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 613,825 (Ranked 31)  
+Progressed: 613,831 (Ranked 31)  
 Completed: 555 (0.09%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 555 (0.09%) (Ranked 302)
 | 2023-12-11 | 613,548 | 554 |
 | 2023-12-12 | 613,651 | 555 |
 | 2023-12-13 | 613,759 | 555 |
-| 2023-12-14 | 613,825 | 555 |
+| 2023-12-14 | 613,831 | 555 |
 ## Awards
 Max (Challenging Puzzles): 139  (Ranked 327)  
 Sum: 139 (Ranked 435)  

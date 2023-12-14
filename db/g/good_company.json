@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5668,
+  "EOS_Progressed": 5669,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4673,6 +4673,11 @@
       "Time": "2023-12-14T12:05:14.7276734+00:00",
       "NumProgressed": 5668,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T14:04:17.4902874+00:00",
+      "NumProgressed": 5669,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4796,7 +4801,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2777
+      "UsersEstimate": 2778
     },
     {
       "ID": "ach_campaign_progress6",
@@ -5068,7 +5073,7 @@
       "Name": "Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ach_frp_many_products2",
@@ -5291,15 +5296,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5668,
+      "Progressed": 5669,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-12-14T13:10:53.9194886+00:00",
+  "LastChanged_Achievements": "2023-12-14T14:04:17.490287+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:59.7111449+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:04:37.1721079+00:00",
-  "LastUpdate_Achievements": "2023-12-14T13:10:53.9195777+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:58:05.8381439+00:00",
+  "LastUpdate_Achievements": "2023-12-14T14:04:17.4903949+00:00"
 }

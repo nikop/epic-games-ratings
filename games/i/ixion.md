@@ -5,21 +5,21 @@ Rating: 4.58 (Ranked 453)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 30.00% | ~1,033 |
-| Sputnik 2049 | 26.00% | ~895 |
-| Infinite Growth... | 25.00% | ~861 |
+| Wakey Wakey | 30.00% | ~1,034 |
+| Sputnik 2049 | 26.00% | ~896 |
+| Infinite Growth... | 25.00% | ~862 |
 | Without Breaking Some Eggs... | 24.00% | ~827 |
 | A Thousand Strong | 18.00% | ~620 |
 | Ready for a New World | 18.00% | ~620 |
-| Space Society | 17.00% | ~585 |
-| Permanent Redesigns | 16.00% | ~551 |
-| Fully Recycled | 14.00% | ~482 |
-| Ain't Nobody Got Time for That | 14.00% | ~482 |
-| The Ship of Theseus | 14.00% | ~482 |
+| Space Society | 17.00% | ~586 |
+| Permanent Redesigns | 16.00% | ~552 |
+| Fully Recycled | 14.00% | ~483 |
+| Ain't Nobody Got Time for That | 14.00% | ~483 |
+| The Ship of Theseus | 14.00% | ~483 |
 | Guy de Borderlands | 13.00% | ~448 |
-| Exceeding Capacity | 12.00% | ~413 |
-| Breaking Protocol | 12.00% | ~413 |
-| Hope Seeker | 12.00% | ~413 |
+| Exceeding Capacity | 12.00% | ~414 |
+| Breaking Protocol | 12.00% | ~414 |
+| Hope Seeker | 12.00% | ~414 |
 | A Hunk of Junk | 11.00% | ~379 |
 | Man's Best Friend | 9.00% | ~310 |
 | Power Outage | 9.00% | ~310 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 453)
 | This is Fine | 0.10% | ~3 |
 | Suburban Perfection | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,444 (Ranked 209)  
+Progressed: 3,447 (Ranked 209)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-10 | 3,420 | 0 |
 | 2023-12-11 | 3,423 | 0 |
 | 2023-12-13 | 3,429 | 0 |
-| 2023-12-14 | 3,444 | 0 |
+| 2023-12-14 | 3,447 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

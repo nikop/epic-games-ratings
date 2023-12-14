@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16176,
+  "EOS_Progressed": 16179,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -13792,6 +13792,11 @@
       "Time": "2023-12-14T13:13:11.385501+00:00",
       "NumProgressed": 16176,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-14T14:06:35.1586706+00:00",
+      "NumProgressed": 16179,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13884,7 +13889,7 @@
       "Name": "Martian Music",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "2",
@@ -13908,7 +13913,7 @@
       "Name": "Drone Dodger",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "22",
@@ -14083,13 +14088,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16176,
+      "Progressed": 16179,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2130,
+      "Progressed": 2133,
       "Completed": 882
     }
   ],
@@ -14097,8 +14102,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-14T13:13:11.3855004+00:00",
+  "LastChanged_Achievements": "2023-12-14T14:06:35.1586703+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:03:49.9178176+00:00",
-  "LastUpdate_Achievements": "2023-12-14T13:13:11.3855823+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:57:18.8972005+00:00",
+  "LastUpdate_Achievements": "2023-12-14T14:06:35.1587456+00:00"
 }

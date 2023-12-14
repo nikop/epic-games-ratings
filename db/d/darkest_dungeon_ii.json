@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9690,9 +9690,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126918,
+  "EOS_Progressed": 126942,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1173,
+  "EOS_NewPlayers": 1195,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34985,6 +34985,11 @@
       "Time": "2023-12-14T13:15:50.3402813+00:00",
       "NumProgressed": 126918,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T14:09:13.3692526+00:00",
+      "NumProgressed": 126942,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35012,7 +35017,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -35124,7 +35129,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35132,7 +35137,7 @@
       "Name": "Dissector",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "combat_kill_cosmic",
@@ -35148,7 +35153,7 @@
       "Name": "Not Today!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35156,7 +35161,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35164,7 +35169,7 @@
       "Name": "Deprogramming",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -35212,7 +35217,7 @@
       "Name": "Catch and Decease",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "combat_kill_librarian",
@@ -35220,7 +35225,7 @@
       "Name": "Overdue Notice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35236,7 +35241,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35268,7 +35273,7 @@
       "Name": "It Happens",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -35300,7 +35305,7 @@
       "Name": "Merry Time",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -35308,15 +35313,15 @@
       "Name": "Harvest Festival",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "driving_biome_clear_forest",
       "SetID": "64l4lke",
       "Name": "To Grandmother\u0027s House",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1269
     },
     {
       "ID": "driving_distance_easy",
@@ -35348,7 +35353,7 @@
       "Name": "Autodidact",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "hero_story_complete_all",
@@ -35372,7 +35377,7 @@
       "Name": "Whale",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "hospital_full_service",
@@ -35388,7 +35393,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -35412,7 +35417,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -35426,9 +35431,9 @@
       "ID": "relationships_all_positive_mountain",
       "SetID": "64l4lke",
       "Name": "Utopia",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 508
+      "UsersEstimate": 635
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -35444,7 +35449,7 @@
       "Name": "Nope",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "run_victory_act01",
@@ -35466,9 +35471,9 @@
       "ID": "run_victory_act03",
       "SetID": "64l4lke",
       "Name": "Eyes Up",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 381
+      "UsersEstimate": 508
     },
     {
       "ID": "run_victory_act04",
@@ -35532,7 +35537,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "combat_kill_collector",
@@ -35627,21 +35632,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126918,
+      "Progressed": 126942,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1787,
+      "Progressed": 1811,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-14T13:06:19.2097812+00:00",
-  "LastChanged_Achievements": "2023-12-14T13:15:50.3402809+00:00",
+  "LastChanged_Achievements": "2023-12-14T14:09:13.3692522+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:06:19.2097818+00:00",
-  "LastUpdate_Achievements": "2023-12-14T13:15:50.3404651+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:59:51.03823+00:00",
+  "LastUpdate_Achievements": "2023-12-14T14:09:13.3694062+00:00"
 }

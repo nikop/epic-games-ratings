@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 978,
+  "EOS_Progressed": 979,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3759,6 +3759,11 @@
       "Time": "2023-12-13T17:10:08.7012548+00:00",
       "NumProgressed": 978,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T14:10:08.5475348+00:00",
+      "NumProgressed": 979,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3770,7 +3775,7 @@
       "Name": "Great Luck",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ActivePause",
@@ -3786,7 +3791,7 @@
       "Name": "Basic Controls",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "BigPlane",
@@ -3794,7 +3799,7 @@
       "Name": "Expensive Plane",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "BudgetFlight",
@@ -3802,7 +3807,7 @@
       "Name": "Budget Flight",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "Calculated",
@@ -3818,7 +3823,7 @@
       "Name": "That Was Close!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Creator",
@@ -3922,7 +3927,7 @@
       "Name": "Legendary transporter",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "LinearNetwork",
@@ -3970,7 +3975,7 @@
       "Name": "New Record",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "NoTimeForModernization",
@@ -3986,7 +3991,7 @@
       "Name": "No Way Back",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "NotPlanned",
@@ -4042,7 +4047,7 @@
       "Name": "Resource Economy",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "Restructuring",
@@ -4105,14 +4110,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 978,
+      "Progressed": 979,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-14T13:16:45.4810237+00:00",
+  "LastChanged_Achievements": "2023-12-14T14:10:08.5475342+00:00",
   "LastUpdate_AppInfo": "2023-12-12T19:56:58.9295156+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:05:14.4856107+00:00",
-  "LastUpdate_Achievements": "2023-12-14T13:16:45.4810585+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:58:45.4244855+00:00",
+  "LastUpdate_Achievements": "2023-12-14T14:10:08.5475853+00:00"
 }

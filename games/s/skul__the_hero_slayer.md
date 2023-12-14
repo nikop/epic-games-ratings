@@ -6,32 +6,32 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~8,091 |
-| What should I buy? | 83.00% | ~7,221 |
-| Focus! | 62.00% | ~5,394 |
-| Rescued Elder Ent | 62.00% | ~5,394 |
-| The End of the Gold Mane Knights | 48.00% | ~4,176 |
-| Rules of Etiquette | 41.00% | ~3,567 |
-| False Goddess, Disappear | 40.00% | ~3,480 |
-| Quick Movements | 34.00% | ~2,958 |
-| Inventory Management | 34.00% | ~2,958 |
-| The Fall of the Leonia Order | 31.00% | ~2,697 |
-| The Hero Killer | 29.00% | ~2,523 |
-| Go Home... | 28.00% | ~2,436 |
-| The Final Battle of the First Hero | 27.00% | ~2,349 |
-| Brain at Full Throttle | 23.00% | ~2,001 |
-| Rookies Welcome | 19.00% | ~1,653 |
-| Deadly Power | 17.00% | ~1,479 |
-| Castle Restoration Plans | 15.00% | ~1,305 |
-| The Dwarven Chandelier | 13.00% | ~1,131 |
-| Master of Speed | 10.00% | ~870 |
-| The Levitator | 7.00% | ~609 |
-| The God of Battle | 3.00% | ~261 |
-| Too Much of a Talker | 2.00% | ~174 |
-| The Skeleton King | 2.00% | ~174 |
+| The Legend Begins | 93.00% | ~8,134 |
+| What should I buy? | 83.00% | ~7,259 |
+| Focus! | 62.00% | ~5,423 |
+| Rescued Elder Ent | 62.00% | ~5,423 |
+| The End of the Gold Mane Knights | 48.00% | ~4,198 |
+| Rules of Etiquette | 41.00% | ~3,586 |
+| False Goddess, Disappear | 40.00% | ~3,498 |
+| Quick Movements | 34.00% | ~2,974 |
+| Inventory Management | 34.00% | ~2,974 |
+| The Fall of the Leonia Order | 31.00% | ~2,711 |
+| The Hero Killer | 29.00% | ~2,536 |
+| Go Home... | 28.00% | ~2,449 |
+| The Final Battle of the First Hero | 27.00% | ~2,361 |
+| Brain at Full Throttle | 23.00% | ~2,012 |
+| Rookies Welcome | 19.00% | ~1,662 |
+| Deadly Power | 17.00% | ~1,487 |
+| Castle Restoration Plans | 15.00% | ~1,312 |
+| The Dwarven Chandelier | 13.00% | ~1,137 |
+| Master of Speed | 10.00% | ~875 |
+| The Levitator | 7.00% | ~612 |
+| The God of Battle | 3.00% | ~262 |
+| Too Much of a Talker | 2.00% | ~175 |
+| The Skeleton King | 1.00% | ~87 |
 | Cold-Blooded | 0.80% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,700 (Ranked 174)  
+Progressed: 8,746 (Ranked 174)  
 Completed: 18 (0.21%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 18 (0.21%) (Ranked 258)
 | 2023-12-11 | 8,422 | 17 |
 | 2023-12-12 | 8,430 | 18 |
 | 2023-12-13 | 8,441 | 18 |
-| 2023-12-14 | 8,700 | 18 |
+| 2023-12-14 | 8,746 | 18 |
 ## Awards
 Max (Diverse Characters): 137  (Ranked 329)  
 Sum: 952 (Ranked 271)  

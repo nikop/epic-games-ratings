@@ -2,13 +2,13 @@
   "ID": "83a550cbe7434886b5e42bead6335cff",
   "Name": "Sailing Era",
   "ProductSlug": "sailingera-450a80",
-  "Ranking_Rating": 148,
+  "Ranking_Rating": 149,
   "Ranking_Popularity": 563,
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 485,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 486,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-01-12T03:00:00+00:00",
     "PcReleaseDate": "2023-01-12T03:00:00+00:00",
@@ -168,8 +168,8 @@
   "FirstSeenRating": "2023-03-12T23:58:12.567648+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.1243565+00:00",
   "LastChanged": "2023-12-09T09:59:41.2906847+00:00",
-  "LastChanged_Achievements": "2023-12-14T13:15:35.9521066+00:00",
+  "LastChanged_Achievements": "2023-12-14T14:08:58.9728236+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:53.0137916+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:05:42.3411936+00:00",
-  "LastUpdate_Achievements": "2023-12-14T13:15:35.9521095+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:59:14.1670588+00:00",
+  "LastUpdate_Achievements": "2023-12-14T14:08:58.9728265+00:00"
 }

@@ -16,7 +16,7 @@ Number of Ratings: 98  (23.09.2022)
 | Bomberman | 27.00% | ~499 |
 | You're Gonna Go Far, Kid | 26.00% | ~481 |
 | Death to the Oppressor! | 19.00% | ~351 |
-| The Gang's All Here | 16.00% | ~296 |
+| The Gang's All Here | 17.00% | ~314 |
 | Your Answer | 15.00% | ~277 |
 | One by One | 14.00% | ~259 |
 | The Big Bertha | 13.00% | ~240 |

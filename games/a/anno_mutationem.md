@@ -9,7 +9,7 @@ Rating: 4.54 (Ranked 534)
 | Don't judge a manhole by its cover | 60.00% | ~466 |
 | I just love stuff! | 42.00% | ~326 |
 | Keep 'em coming! | 42.00% | ~326 |
-| The things they print nowadays | 39.00% | ~303 |
+| The things they print nowadays | 40.00% | ~311 |
 | Big Spender | 38.00% | ~295 |
 | That's gotta hurt | 36.00% | ~280 |
 | I think it's broke | 26.00% | ~202 |

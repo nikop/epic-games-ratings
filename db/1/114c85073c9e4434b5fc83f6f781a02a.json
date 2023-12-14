@@ -4,8 +4,8 @@
   "ProductSlug": "supfly-delivery-simulator-82d2fd",
   "Ranking_EOS_Progress": 625,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 427,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 429,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-08T17:00:00+00:00",
     "PcReleaseDate": "2020-10-17T09:00:00+00:00",
@@ -119,25 +119,25 @@
       "ID": "OOPS",
       "SetID": "7ae64fg",
       "Name": "Oops",
-      "Percentage": 100,
+      "Percentage": 109,
       "XP": 110,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SMALL_BUSINESS",
       "SetID": "7ae64fg",
       "Name": "Small business",
-      "Percentage": 18,
+      "Percentage": 27,
       "XP": 110,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SPECIAL_DELIVERY",
       "SetID": "7ae64fg",
       "Name": "Special delivery",
-      "Percentage": 55,
+      "Percentage": 64,
       "XP": 110,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "STEP_BY_STEP",
@@ -165,8 +165,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-26T15:04:27.1843787+00:00",
-  "LastChanged_Achievements": "2023-12-14T13:12:44.2861724+00:00",
+  "LastChanged_Achievements": "2023-12-14T14:06:07.3819243+00:00",
   "LastUpdate_AppInfo": "2023-12-07T17:56:54.8262439+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:05:02.227815+00:00",
-  "LastUpdate_Achievements": "2023-12-14T13:12:44.2861801+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:58:32.9058331+00:00",
+  "LastUpdate_Achievements": "2023-12-14T14:06:07.3819313+00:00"
 }

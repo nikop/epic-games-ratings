@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 427,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 343,
+  "EOS_Progressed": 345,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -345,6 +345,11 @@
       "Time": "2023-12-13T19:11:07.8042598+00:00",
       "NumProgressed": 343,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T14:10:11.484821+00:00",
+      "NumProgressed": 345,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -428,7 +433,7 @@
       "Name": "SCHMETTERLING",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach-campaign-allEndings",
@@ -468,7 +473,7 @@
       "Name": "Adventurer",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ach-campaign-noDeath",
@@ -476,7 +481,7 @@
       "Name": "Iron Man",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach-campaign-pacifist",
@@ -492,7 +497,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ach-campaign-story2",
@@ -500,7 +505,7 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ach-campaign-story3",
@@ -508,7 +513,7 @@
       "Name": "O Captain My Captain",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ach-cartography-complete",
@@ -532,7 +537,7 @@
       "Name": "Cartographer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ach-discover-locations-high",
@@ -556,7 +561,7 @@
       "Name": "Fire and Flood",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ach-find-treasure",
@@ -564,7 +569,7 @@
       "Name": "Red Flag Pirate",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach-find-treasure-high",
@@ -578,9 +583,9 @@
       "ID": "ach-firstExpedition",
       "SetID": "17ih7ma",
       "Name": "The Adventure Begins",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 217
     },
     {
       "ID": "ach-hardExpeditions",
@@ -604,7 +609,7 @@
       "Name": "For the Club!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach-keepHighStanding",
@@ -620,7 +625,7 @@
       "Name": "Taxonomist",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ach-kill-hyenas",
@@ -628,7 +633,7 @@
       "Name": "No Laughing Matter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach-kill-sandworm",
@@ -636,15 +641,15 @@
       "Name": "Shortening of the Way",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach-learn-traits",
       "SetID": "17ih7ma",
       "Name": "Shennong Herbalist",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 117
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -668,7 +673,7 @@
       "Name": "The Great Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach-maxLevelCharacter",
@@ -684,7 +689,7 @@
       "Name": "Spooky!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ach-noEquipment",
@@ -698,9 +703,9 @@
       "ID": "ach-noRest",
       "SetID": "17ih7ma",
       "Name": "Insomnia",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 162
     },
     {
       "ID": "ach-pacifist-goals",
@@ -708,7 +713,7 @@
       "Name": "Nahua Seeker",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ach-paleMask-cure",
@@ -732,7 +737,7 @@
       "Name": "From Whence we Came",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ach-promotion",
@@ -740,7 +745,7 @@
       "Name": "Level Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach-raiseDino",
@@ -756,7 +761,7 @@
       "Name": "A Gentle Beast",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach-rideDinosaur",
@@ -772,7 +777,7 @@
       "Name": "Plunderer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ach-salamanderPrince",
@@ -835,7 +840,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 343,
+      "Progressed": 345,
       "Completed": 1
     }
   ],
@@ -843,8 +848,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-14T13:16:48.0471738+00:00",
+  "LastChanged_Achievements": "2023-12-14T14:10:11.4848206+00:00",
   "LastUpdate_AppInfo": "2023-12-09T12:59:37.4155215+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:06:26.9806558+00:00",
-  "LastUpdate_Achievements": "2023-12-14T13:16:48.047214+00:00"
+  "LastUpdate_Ratings": "2023-12-14T13:59:58.9082448+00:00",
+  "LastUpdate_Achievements": "2023-12-14T14:10:11.4848657+00:00"
 }
