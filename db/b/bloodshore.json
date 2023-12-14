@@ -3,8 +3,8 @@
   "Name": "Bloodshore",
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 385,
-  "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_Completed": 129,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -549,9 +549,9 @@
       "ID": "leader_you_are_not",
       "SetID": "84ad177",
       "Name": "A leader, you are not",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "lootaphilia",
@@ -629,9 +629,9 @@
       "ID": "um_ok",
       "SetID": "84ad177",
       "Name": "Um, ok...",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -654,8 +654,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-12-14T18:06:28.4113448+00:00",
+  "LastChanged_Achievements": "2023-12-14T19:06:25.7021372+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:15.9914171+00:00",
-  "LastUpdate_Ratings": "2023-12-14T18:03:14.8503059+00:00",
-  "LastUpdate_Achievements": "2023-12-14T18:06:28.4113579+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:03:21.963124+00:00",
+  "LastUpdate_Achievements": "2023-12-14T19:06:25.7021512+00:00"
 }

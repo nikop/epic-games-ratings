@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Play It Again Sam | 90.00% | ~227 |
 | Strong Silent Type | 90.00% | ~227 |
-| Play Me By The Hour | 69.00% | ~174 |
+| Play Me By The Hour | 70.00% | ~176 |
 | Patient Listener | 47.00% | ~118 |
 | Video Saved The Radio Star | 40.00% | ~101 |
 | Hashtag Winning | 38.00% | ~96 |
@@ -17,8 +17,8 @@
 | You Had One Job | 14.00% | ~35 |
 | Book 'em Danny | 13.00% | ~33 |
 | Poetent | 13.00% | ~33 |
+| Oscar Winning Performance | 11.00% | ~28 |
 | Voyeur | 11.00% | ~28 |
-| Oscar Winning Performance | 10.00% | ~25 |
 | Put A Ring On It | 10.00% | ~25 |
 | Chicken | 8.00% | ~20 |
 | Heavy Rayne | 8.00% | ~20 |

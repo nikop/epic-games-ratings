@@ -6,39 +6,39 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 78.00% | ~52,133 |
-| Initial Capital | 65.00% | ~43,444 |
-| Moneybags | 43.00% | ~28,740 |
-| Junior Supply Officer | 43.00% | ~28,740 |
-| Naval Warfare. Arson | 32.00% | ~21,388 |
-| Naval Warfare. Ramming | 31.00% | ~20,719 |
-| Amateur | 29.00% | ~19,383 |
-| Naval Warfare. Tactics | 29.00% | ~19,383 |
-| Naval Constructor | 29.00% | ~19,383 |
-| Naval Warfare. Weaponry Basics | 22.00% | ~14,704 |
-| Naval Warfare. Lucky Shot | 19.00% | ~12,699 |
-| Naval Warfare. Flooding | 18.00% | ~12,031 |
-| Battle Hero | 15.00% | ~10,026 |
-| Business Magnate | 15.00% | ~10,026 |
-| Warrior | 12.00% | ~8,020 |
-| Supply Officer | 12.00% | ~8,020 |
-| Smooth Supply | 12.00% | ~8,020 |
-| Veteran | 7.00% | ~4,679 |
-| Legend of the Seas | 3.00% | ~2,005 |
-| Chief Naval Architect | 3.00% | ~2,005 |
-| Important Missions | 3.00% | ~2,005 |
-| Shield | 3.00% | ~2,005 |
-| Senior Supply Officer | 2.00% | ~1,337 |
-| Weather Beaten | 2.00% | ~1,337 |
-| Guardian | 2.00% | ~1,337 |
-| Bane of the Oceans | 1.00% | ~668 |
-| "Science of Victory" | 1.00% | ~668 |
-| Old-Timer | 1.00% | ~668 |
-| Special Orders | 1.00% | ~668 |
-| Protector | 1.00% | ~668 |
-| Exterminator | 1.00% | ~668 |
-| American Cruisers | 1.00% | ~668 |
-| Secret Instructions | 0.60% | ~401 |
+| Junior Naval Designer | 78.00% | ~52,169 |
+| Initial Capital | 65.00% | ~43,474 |
+| Moneybags | 43.00% | ~28,760 |
+| Junior Supply Officer | 43.00% | ~28,760 |
+| Naval Warfare. Arson | 32.00% | ~21,403 |
+| Naval Warfare. Ramming | 31.00% | ~20,734 |
+| Amateur | 29.00% | ~19,396 |
+| Naval Warfare. Tactics | 29.00% | ~19,396 |
+| Naval Constructor | 29.00% | ~19,396 |
+| Naval Warfare. Weaponry Basics | 22.00% | ~14,714 |
+| Naval Warfare. Lucky Shot | 19.00% | ~12,708 |
+| Naval Warfare. Flooding | 18.00% | ~12,039 |
+| Battle Hero | 15.00% | ~10,032 |
+| Business Magnate | 15.00% | ~10,032 |
+| Warrior | 12.00% | ~8,026 |
+| Supply Officer | 12.00% | ~8,026 |
+| Smooth Supply | 12.00% | ~8,026 |
+| Veteran | 7.00% | ~4,682 |
+| Legend of the Seas | 3.00% | ~2,006 |
+| Chief Naval Architect | 3.00% | ~2,006 |
+| Important Missions | 3.00% | ~2,006 |
+| Shield | 3.00% | ~2,006 |
+| Senior Supply Officer | 2.00% | ~1,338 |
+| Weather Beaten | 2.00% | ~1,338 |
+| Guardian | 2.00% | ~1,338 |
+| Bane of the Oceans | 1.00% | ~669 |
+| "Science of Victory" | 1.00% | ~669 |
+| Old-Timer | 1.00% | ~669 |
+| Special Orders | 1.00% | ~669 |
+| Protector | 1.00% | ~669 |
+| Exterminator | 1.00% | ~669 |
+| American Cruisers | 1.00% | ~669 |
+| Secret Instructions | 0.70% | ~468 |
 | Raider | 0.60% | ~401 |
 | Experienced One | 0.50% | ~334 |
 | Ravager | 0.30% | ~201 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~67 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,837 (Ranked 107)  
+Progressed: 66,883 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,15 +174,15 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 65,520 | 0 |
 | 2023-12-12 | 65,883 | 0 |
 | 2023-12-13 | 66,300 | 0 |
-| 2023-12-14 | 66,837 | 0 |
+| 2023-12-14 | 66,883 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,597  (Ranked 127)  
-Sum: 13,340 (Ranked 78)  
+Sum: 13,344 (Ranked 78)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 1,597 |
-| This game is Relaxing | 1,588 |
+| This game is Relaxing | 1,592 |
 | This game has Challenging Combat | 1,569 |
 | This game is Extremely Fun | 1,548 |
 | This game has Competitive Players | 1,543 |
@@ -530,4 +530,4 @@ Diff (max vs sum): 49
 | 2023-12-11 | 4.41 | - | 1,585 | 13,265 |
 | 2023-12-12 | 4.41 | - | 1,590 | 13,298 |
 | 2023-12-13 | 4.41 | - | 1,596 | 13,332 |
-| 2023-12-14 | 4.41 | - | 1,597 | 13,340 |
+| 2023-12-14 | 4.41 | - | 1,597 | 13,344 |

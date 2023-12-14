@@ -2,9 +2,9 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_EOS_Progress": 387,
+  "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226,
+  "EOS_Progressed": 227,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -515,6 +515,11 @@
       "Time": "2023-12-14T09:04:15.5400597+00:00",
       "NumProgressed": 226,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T19:04:09.3189517+00:00",
+      "NumProgressed": 227,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -526,7 +531,7 @@
       "Name": "Animal Lover",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "axe_of_kindness",
@@ -765,7 +770,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 226,
+      "Progressed": 227,
       "Completed": 0
     }
   ],
@@ -773,8 +778,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-12-14T18:04:09.117607+00:00",
+  "LastChanged_Achievements": "2023-12-14T19:04:09.3189512+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:59.4034255+00:00",
-  "LastUpdate_Ratings": "2023-12-14T17:59:35.5541208+00:00",
-  "LastUpdate_Achievements": "2023-12-14T18:04:09.1176252+00:00"
+  "LastUpdate_Ratings": "2023-12-14T18:59:46.5419805+00:00",
+  "LastUpdate_Achievements": "2023-12-14T19:04:09.3189927+00:00"
 }

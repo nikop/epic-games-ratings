@@ -4,7 +4,7 @@
   "ProductSlug": "bug-fables-the-everlasting-sapling-851aa9",
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewPlayers": 439,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94,
+  "EOS_Progressed": 95,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -184,6 +184,11 @@
       "Time": "2023-12-10T17:09:31.6493923+00:00",
       "NumProgressed": 94,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T19:09:42.9460132+00:00",
+      "NumProgressed": 95,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -193,7 +198,7 @@
       "ID": "BFT_ARC",
       "SetID": "7o7kd30",
       "Name": "Gamer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -217,7 +222,7 @@
       "ID": "BFT_CH1HB",
       "SetID": "7o7kd30",
       "Name": "Vicious Spider",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 30,
       "UsersEstimate": 44
     },
@@ -225,7 +230,7 @@
       "ID": "BFT_CH2",
       "SetID": "7o7kd30",
       "Name": "Chapter 2 Complete",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
       "UsersEstimate": 45
     },
@@ -257,7 +262,7 @@
       "ID": "BFT_CH4",
       "SetID": "7o7kd30",
       "Name": "Chapter 4 Complete",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
       "UsersEstimate": 26
     },
@@ -329,7 +334,7 @@
       "ID": "BFT_COOK",
       "SetID": "7o7kd30",
       "Name": "Cooking Maestro",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -345,7 +350,7 @@
       "ID": "BFT_DISC",
       "SetID": "7o7kd30",
       "Name": "Pro Explorers",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -353,7 +358,7 @@
       "ID": "BFT_ENEMY",
       "SetID": "7o7kd30",
       "Name": "Field Researcher",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -409,7 +414,7 @@
       "ID": "BFT_QUEST",
       "SetID": "7o7kd30",
       "Name": "Helping Hand",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 65,
       "UsersEstimate": 8
     },
@@ -434,7 +439,7 @@
     {
       "ID": "7o7kd30",
       "IsBase": true,
-      "Progressed": 94,
+      "Progressed": 95,
       "Completed": 0
     }
   ],
@@ -442,8 +447,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-12-14T18:09:48.849203+00:00",
+  "LastChanged_Achievements": "2023-12-14T19:09:42.9460129+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:22.2355716+00:00",
-  "LastUpdate_Ratings": "2023-12-14T18:00:18.8693478+00:00",
-  "LastUpdate_Achievements": "2023-12-14T18:09:48.8492232+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:00:29.3701604+00:00",
+  "LastUpdate_Achievements": "2023-12-14T19:09:42.9460318+00:00"
 }

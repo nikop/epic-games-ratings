@@ -635,9 +635,9 @@
       "ID": "KR4_ACHIEVEMENT_BONEHART",
       "SetID": "caeik3h",
       "Name": "Eternal Bones",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "KR4_ACHIEVEMENT_BUILD_TOWERS_EASY",
@@ -843,9 +843,9 @@
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
       "SetID": "caeik3h",
       "Name": "Ice sculptor",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
@@ -1208,8 +1208,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-14T18:06:43.1802706+00:00",
+  "LastChanged_Achievements": "2023-12-14T19:08:09.6108264+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.9365218+00:00",
-  "LastUpdate_Ratings": "2023-12-14T17:58:14.0667013+00:00",
-  "LastUpdate_Achievements": "2023-12-14T18:06:43.1803503+00:00"
+  "LastUpdate_Ratings": "2023-12-14T18:58:23.4730927+00:00",
+  "LastUpdate_Achievements": "2023-12-14T19:08:09.6108891+00:00"
 }

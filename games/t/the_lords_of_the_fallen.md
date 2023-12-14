@@ -5,10 +5,10 @@ Rating: 4.21 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Comrades | 0.50% | ~14 |
-| A Veil Lifted | 0.40% | ~11 |
-| Lost and Found | 0.40% | ~11 |
-| Shared Triumph | 0.40% | ~11 |
+| A Veil Lifted | 0.40% | ~12 |
+| Lost and Found | 0.40% | ~12 |
+| Comrades | 0.40% | ~12 |
+| Shared Triumph | 0.40% | ~12 |
 | No Mercy | 0.30% | ~9 |
 | Shades of Violence | 0.30% | ~9 |
 | Thriving in Darkness | 0.30% | ~9 |
@@ -69,7 +69,7 @@ Rating: 4.21 (Ranked 918)
 | Lingering Moments | 0.10% | ~3 |
 | A Trace of Venom | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,867 (Ranked 216)  
+Progressed: 2,910 (Ranked 216)  
 Completed: 2 (0.07%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,11 +126,11 @@ Completed: 2 (0.07%) (Ranked 310)
 | 2023-12-11 | 2,337 | 2 |
 | 2023-12-12 | 2,347 | 2 |
 | 2023-12-13 | 2,475 | 2 |
-| 2023-12-14 | 2,867 | 2 |
+| 2023-12-14 | 2,910 | 2 |
 ## Awards
 Max (Character Customization): 197  (Ranked 293)  
-Sum: 491 (Ranked 331)  
-Diff (max vs sum): -38  
+Sum: 511 (Ranked 327)  
+Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 197 |
@@ -141,6 +141,7 @@ Diff (max vs sum): -38
 | This game is Highly Recommended | 24 |
 | This game has Diverse Characters | 23 |
 | This game is Extremely Fun | 21 |
+| This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -200,4 +201,4 @@ Diff (max vs sum): -38
 | 2023-12-11 | 4.20 | 194 | 457 |
 | 2023-12-12 | 4.21 | 195 | 458 |
 | 2023-12-13 | 4.21 | 197 | 460 |
-| 2023-12-14 | 4.21 | 197 | 491 |
+| 2023-12-14 | 4.21 | 197 | 511 |

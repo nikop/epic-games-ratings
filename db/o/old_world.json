@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2148,7 +2148,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15758,
+  "EOS_Progressed": 15759,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -17648,6 +17648,11 @@
       "Time": "2023-12-14T18:09:19.7953387+00:00",
       "NumProgressed": 15758,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-14T19:09:13.7466376+00:00",
+      "NumProgressed": 15759,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -18147,7 +18152,7 @@
       "Name": "Intrepid",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -18561,9 +18566,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
       "SetID": "7l38kb8",
       "Name": "Traders",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 315
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
@@ -18571,7 +18576,7 @@
       "Name": "Friendly Family",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -19105,9 +19110,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
       "SetID": "9201eeb",
       "Name": "Oracle",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 630
+      "UsersEstimate": 788
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
@@ -20394,21 +20399,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15758,
+      "Progressed": 15759,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15758,
+      "Progressed": 15759,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-11T20:02:33.8046701+00:00",
-  "LastChanged_Achievements": "2023-12-14T18:09:19.7953384+00:00",
+  "LastChanged_Achievements": "2023-12-14T19:09:13.7466373+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:32.9927843+00:00",
-  "LastUpdate_Ratings": "2023-12-14T18:02:56.457053+00:00",
-  "LastUpdate_Achievements": "2023-12-14T18:09:19.7962065+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:03:03.6862131+00:00",
+  "LastUpdate_Achievements": "2023-12-14T19:09:13.7475745+00:00"
 }

@@ -82,6 +82,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Supply Run | 0.10% | ~240 |
 | Best Laid Plans | 0.10% | ~207 |
 | Pincushion Party | 0.10% | ~207 |
+| G. O. A. T. | 0.10% | ~207 |
 | The Howling Peaks of Yon | 0.10% | ~207 |
 | Strength of Character | 0.10% | ~207 |
 | Heavy Burden | 0.10% | ~240 |
@@ -547,13 +548,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Lose Your Head | 0.10% | ~207 |
 | Mind Spike | 0.10% | ~207 |
 | Will of the Frozen Feywild | 0.00% | ~0 |
-| G. O. A. T. | 0.00% | ~0 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
 | Who Lurks Below? | 0.00% | ~0 |
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,279 (Ranked 66)  
+Progressed: 240,308 (Ranked 66)  
 Completed: 2,524 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -791,7 +791,7 @@ Completed: 2,524 (1.05%) (Ranked 168)
 | 2023-12-11 | 239,456 | 2,517 |
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
-| 2023-12-14 | 240,279 | 2,524 |
+| 2023-12-14 | 240,308 | 2,524 |
 ## Awards
 Max (Great for Beginners): 5,635  (Ranked 70)  
 Sum: 32,865 (Ranked 41)  

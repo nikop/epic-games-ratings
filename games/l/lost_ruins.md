@@ -8,12 +8,12 @@
 | Goblin Tales | 30.00% | ~155 |
 | Bug Hunter | 25.00% | ~129 |
 | Boss Killer | 23.00% | ~119 |
-| The Fallen | 21.00% | ~108 |
+| The Fallen | 21.00% | ~109 |
 | Artifact Collector | 20.00% | ~103 |
 | Trap Master | 19.00% | ~98 |
 | Ghost Buster | 16.00% | ~83 |
-| Reincarnation | 16.00% | ~83 |
-| Iconoclasm | 15.00% | ~77 |
+| Iconoclasm | 15.00% | ~78 |
+| Reincarnation | 15.00% | ~78 |
 | Librarian | 13.00% | ~67 |
 | Orcs Must Die! | 13.00% | ~67 |
 | Gladiator | 12.00% | ~62 |
@@ -27,10 +27,10 @@
 | Explorer | 6.00% | ~31 |
 | Trio | 6.00% | ~31 |
 | Pyromancer | 5.00% | ~26 |
-| Arrive Home | 3.00% | ~15 |
-| Holy Knight | 3.00% | ~15 |
-| Marksman | 3.00% | ~15 |
-| Spell Master | 3.00% | ~15 |
+| Arrive Home | 3.00% | ~16 |
+| Holy Knight | 3.00% | ~16 |
+| Marksman | 3.00% | ~16 |
+| Spell Master | 3.00% | ~16 |
 | Hoarder | 2.00% | ~10 |
 | Meat Lover | 2.00% | ~10 |
 | Sling of David | 2.00% | ~10 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.40% | ~2 |
 | Hardboiled | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 516 (Ranked 318)  
+Progressed: 517 (Ranked 318)  
 Completed: 1 (0.19%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 1 (0.19%) (Ranked 266)
 | 2023-12-08 | 502 | 1 |
 | 2023-12-12 | 503 | 1 |
 | 2023-12-13 | 505 | 1 |
-| 2023-12-14 | 516 | 1 |
+| 2023-12-14 | 517 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

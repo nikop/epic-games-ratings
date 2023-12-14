@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 580,
+  "EOS_Progressed": 581,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -978,6 +978,11 @@
       "Time": "2023-12-14T00:04:33.312145+00:00",
       "NumProgressed": 580,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-14T19:04:42.6101385+00:00",
+      "NumProgressed": 581,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1125,7 +1130,7 @@
       "Name": "Does Not Compute",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Misanthrope",
@@ -1163,9 +1168,9 @@
       "ID": "Old_Friend",
       "SetID": "ek310c",
       "Name": "A Familiar Face",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 87
     },
     {
       "ID": "Paparazzi",
@@ -1220,7 +1225,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 580,
+      "Progressed": 581,
       "Completed": 6
     }
   ],
@@ -1228,8 +1233,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-12-14T18:04:43.5397096+00:00",
+  "LastChanged_Achievements": "2023-12-14T19:04:42.6101379+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:04.1542275+00:00",
-  "LastUpdate_Ratings": "2023-12-14T18:03:18.8623774+00:00",
-  "LastUpdate_Achievements": "2023-12-14T18:04:43.5397308+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:03:26.9869802+00:00",
+  "LastUpdate_Achievements": "2023-12-14T19:04:42.6101656+00:00"
 }

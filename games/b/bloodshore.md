@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Um, ok... | 52.00% | ~119 |
 | Super Seducer | 51.00% | ~117 |
-| Um, ok... | 51.00% | ~117 |
 | Congratulations, you are a sadist | 48.00% | ~110 |
 | Superstar-crossed lovers | 39.00% | ~89 |
-| A leader, you are not | 33.00% | ~76 |
+| A leader, you are not | 34.00% | ~78 |
 | Comedy Killer | 32.00% | ~73 |
 | Good job, nerd | 32.00% | ~73 |
 | Bromance | 31.00% | ~71 |
@@ -23,7 +23,7 @@
 | We tried to warn you! | 4.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 229 (Ranked 385)  
-Completed: 5 (2.18%) (Ranked 130)  
+Completed: 5 (2.18%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

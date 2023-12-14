@@ -149,7 +149,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1147,
+  "EOS_Progressed": 1148,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
@@ -3839,6 +3839,11 @@
       "Time": "2023-12-14T18:05:23.6581186+00:00",
       "NumProgressed": 1147,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-14T19:05:22.1691188+00:00",
+      "NumProgressed": 1148,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3859,7 +3864,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "_03_FinishAct1",
@@ -3867,7 +3872,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3899,7 +3904,7 @@
       "Name": "All Good Things",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "_08_Completion_10",
@@ -3907,7 +3912,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "_09_Completion_20",
@@ -3971,7 +3976,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -3979,7 +3984,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4003,7 +4008,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -4058,7 +4063,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1147,
+      "Progressed": 1148,
       "Completed": 32
     }
   ],
@@ -4066,8 +4071,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-14T18:05:23.6581182+00:00",
+  "LastChanged_Achievements": "2023-12-14T19:05:22.1691183+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-14T17:58:44.5366157+00:00",
-  "LastUpdate_Achievements": "2023-12-14T18:05:23.6581591+00:00"
+  "LastUpdate_Ratings": "2023-12-14T18:58:53.537287+00:00",
+  "LastUpdate_Achievements": "2023-12-14T19:05:22.1691517+00:00"
 }

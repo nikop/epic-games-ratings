@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89,
+  "EOS_Progressed": 90,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.87,
+  "EOS_Completed_Percentage": 7.78,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -444,6 +444,11 @@
       "Time": "2023-12-14T17:10:06.1817191+00:00",
       "NumProgressed": 89,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-14T19:09:58.0240283+00:00",
+      "NumProgressed": 90,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -470,7 +475,7 @@
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 75,
       "UsersEstimate": 45
     },
@@ -542,7 +547,7 @@
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 75,
       "UsersEstimate": 39
     },
@@ -559,14 +564,14 @@
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 89,
+      "Progressed": 90,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-14T18:10:04.8325838+00:00",
+  "LastChanged_Achievements": "2023-12-14T19:09:58.0240278+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.952085+00:00",
-  "LastUpdate_Ratings": "2023-12-14T17:57:24.4409457+00:00",
-  "LastUpdate_Achievements": "2023-12-14T18:10:04.8325974+00:00"
+  "LastUpdate_Ratings": "2023-12-14T18:57:36.9643865+00:00",
+  "LastUpdate_Achievements": "2023-12-14T19:09:58.0240381+00:00"
 }

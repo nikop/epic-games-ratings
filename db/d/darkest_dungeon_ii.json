@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9702,9 +9702,9 @@
       "Count": 1004
     }
   ],
-  "EOS_Progressed": 127020,
+  "EOS_Progressed": 127038,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1259,
+  "EOS_NewPlayers": 1273,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35022,6 +35022,11 @@
       "Time": "2023-12-14T18:09:15.3244208+00:00",
       "NumProgressed": 127020,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T19:09:09.1731221+00:00",
+      "NumProgressed": 127038,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35063,9 +35068,9 @@
       "ID": "altar_of_hope_unlock_hero_flagellant",
       "SetID": "64l4lke",
       "Name": "Resurrection",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 762
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -35161,7 +35166,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35185,7 +35190,7 @@
       "Name": "Not Today!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35193,7 +35198,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35233,7 +35238,7 @@
       "Name": "Meat and Greet",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35249,7 +35254,7 @@
       "Name": "Catch and Decease",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "combat_kill_librarian",
@@ -35257,7 +35262,7 @@
       "Name": "Overdue Notice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35273,7 +35278,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35343,9 +35348,9 @@
       "ID": "driving_biome_clear_farm",
       "SetID": "64l4lke",
       "Name": "Harvest Festival",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 889
+      "UsersEstimate": 1016
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -35385,15 +35390,15 @@
       "Name": "Autodidact",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "hero_story_complete_all",
       "SetID": "64l4lke",
       "Name": "Shrine of Reflection",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 381
     },
     {
       "ID": "hero_story_complete_any",
@@ -35415,9 +35420,9 @@
       "ID": "hospital_full_service",
       "SetID": "64l4lke",
       "Name": "Triage",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 254
     },
     {
       "ID": "inn_first_time",
@@ -35569,7 +35574,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "combat_kill_collector",
@@ -35664,21 +35669,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127020,
+      "Progressed": 127038,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1889,
+      "Progressed": 1907,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-14T17:59:59.0270982+00:00",
-  "LastChanged_Achievements": "2023-12-14T18:09:15.3244205+00:00",
+  "LastChanged_Achievements": "2023-12-14T19:09:09.1731218+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T17:59:59.0270991+00:00",
-  "LastUpdate_Achievements": "2023-12-14T18:09:15.3246287+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:00:11.6797814+00:00",
+  "LastUpdate_Achievements": "2023-12-14T19:09:09.1732682+00:00"
 }

@@ -691,9 +691,9 @@
       "ID": "SOS_WE_HAVE_TO_STOP_THEM",
       "SetID": "6ci4lm2",
       "Name": "We have to stop them",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SOS_WHAT_HURTS",
@@ -722,8 +722,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-14T18:05:42.5314738+00:00",
+  "LastChanged_Achievements": "2023-12-14T19:05:40.6706735+00:00",
   "LastUpdate_AppInfo": "2023-12-11T16:57:10.7137617+00:00",
-  "LastUpdate_Ratings": "2023-12-14T18:00:37.1842902+00:00",
-  "LastUpdate_Achievements": "2023-12-14T18:05:42.5315183+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:02:47.594721+00:00",
+  "LastUpdate_Achievements": "2023-12-14T19:05:40.6707209+00:00"
 }

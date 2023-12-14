@@ -4,7 +4,7 @@
   "ProductSlug": "kaze-and-the-wild-masks-94a27d",
   "Ranking_EOS_Progress": 598,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-30T08:00:00+00:00",
@@ -122,9 +122,9 @@
       "ID": "10",
       "SetID": "279eo25",
       "Name": "Untouchable!",
-      "Percentage": 71,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "11",
@@ -321,8 +321,8 @@
   ],
   "FirstSeen": "2023-12-03T09:57:17.9885642+00:00",
   "FirstSeenAchievements": "2023-11-20T15:03:30.7239426+00:00",
-  "LastChanged_Achievements": "2023-12-14T18:09:17.8430773+00:00",
+  "LastChanged_Achievements": "2023-12-14T19:09:11.6573149+00:00",
   "LastUpdate_AppInfo": "2023-12-11T16:57:10.5624045+00:00",
-  "LastUpdate_Ratings": "2023-12-14T17:59:52.3708938+00:00",
-  "LastUpdate_Achievements": "2023-12-14T18:09:17.8430954+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:00:05.1639534+00:00",
+  "LastUpdate_Achievements": "2023-12-14T19:09:11.6573328+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 62  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On My Own Two Feet | 94.00% | ~4,585 |
-| I'll Be Back | 84.00% | ~4,098 |
+| I'll Be Back | 85.00% | ~4,146 |
 | Sorry, I Dropped This | 77.00% | ~3,756 |
 | First Day on the Job | 77.00% | ~3,756 |
 | Butcher's Bill | 55.00% | ~2,683 |

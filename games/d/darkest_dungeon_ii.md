@@ -6,17 +6,17 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 5.00% | ~94 |
+| Malpractice Assurance | 5.00% | ~95 |
 | This guy... again? | 3.00% | ~57 |
 | Lost and Found | 3.00% | ~57 |
-| This Belongs in a Museum | 2.00% | ~2,540 |
-| Not Today! | 2.00% | ~2,540 |
-| Creep and Sleep | 2.00% | ~2,540 |
-| Meat and Greet | 2.00% | ~2,540 |
-| Catch and Decease | 2.00% | ~2,540 |
-| Overdue Notice | 2.00% | ~2,540 |
-| Escape from the Black Hole | 2.00% | ~2,540 |
-| Autodidact | 2.00% | ~2,540 |
+| This Belongs in a Museum | 2.00% | ~2,541 |
+| Not Today! | 2.00% | ~2,541 |
+| Creep and Sleep | 2.00% | ~2,541 |
+| Meat and Greet | 2.00% | ~2,541 |
+| Catch and Decease | 2.00% | ~2,541 |
+| Overdue Notice | 2.00% | ~2,541 |
+| Escape from the Black Hole | 2.00% | ~2,541 |
+| Autodidact | 2.00% | ~2,541 |
 | Bloody Graduation | 2.00% | ~38 |
 | Serenity Now! | 1.00% | ~1,270 |
 | Rush Hour | 1.00% | ~1,270 |
@@ -29,14 +29,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Dissector | 0.80% | ~1,016 |
 | It Happens | 0.80% | ~1,016 |
 | Merry Time | 0.80% | ~1,016 |
+| Harvest Festival | 0.80% | ~1,016 |
 | A Place to Lay Your Head | 0.80% | ~1,016 |
 | Nope | 0.80% | ~1,016 |
 | Banishment | 0.70% | ~889 |
 | Deprogramming | 0.70% | ~889 |
-| Harvest Festival | 0.70% | ~889 |
 | Whale | 0.70% | ~889 |
 | Worldly Traveller | 0.70% | ~889 |
 | Road Trip | 0.70% | ~889 |
+| Resurrection | 0.60% | ~762 |
 | Unleash Hell | 0.60% | ~762 |
 | Unfulfilled Desires | 0.60% | ~762 |
 | Predator | 0.60% | ~762 |
@@ -45,7 +46,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Spelunker | 0.60% | ~762 |
 | Ramble On | 0.60% | ~762 |
 | Unshackled | 0.60% | ~762 |
-| Resurrection | 0.50% | ~635 |
 | Funny Guy | 0.50% | ~635 |
 | Long Live the King | 0.50% | ~635 |
 | Wyrdly Reconstructed | 0.50% | ~635 |
@@ -60,6 +60,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 0.40% | ~508 |
 | Slap on the Wrist | 0.40% | ~8 |
 | This Looks Familiar | 0.30% | ~381 |
+| Shrine of Reflection | 0.30% | ~381 |
 | Handled | 0.30% | ~381 |
 | Body of Work | 0.30% | ~381 |
 | Maître De La Lame | 0.30% | ~6 |
@@ -67,7 +68,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 0.30% | ~6 |
 | Clearing the Ledger | 0.20% | ~254 |
 | Bacon Bits | 0.20% | ~254 |
-| Shrine of Reflection | 0.20% | ~254 |
+| Triage | 0.20% | ~254 |
 | Battle Hardened | 0.20% | ~4 |
 | A Life Well Lived | 0.10% | ~127 |
 | The World As It Was | 0.10% | ~127 |
@@ -77,7 +78,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hat Trick | 0.10% | ~127 |
 | 20,000 Leagues Above the Sea | 0.10% | ~127 |
 | Tears in the Rain | 0.10% | ~127 |
-| Triage | 0.10% | ~127 |
 | The Clash | 0.10% | ~127 |
 | Eidetic | 0.10% | ~127 |
 | Grand Slam | 0.10% | ~127 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,020 (Ranked 84)  
+Progressed: 127,038 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 3 (0.00%) (Ranked 374)
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
-| 2023-12-14 | 127,020 | 3 |
+| 2023-12-14 | 127,038 | 3 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 51)  
 Sum: 20,412 (Ranked 59)  

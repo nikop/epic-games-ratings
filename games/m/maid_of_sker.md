@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Choking Hazard | 45.00% | ~102 |
-| Animal Lover | 36.00% | ~81 |
+| Animal Lover | 36.00% | ~82 |
 | Don't Breathe | 33.00% | ~75 |
 | Smooth Operator | 19.00% | ~43 |
 | Easy Listening | 16.00% | ~36 |
@@ -35,7 +35,7 @@
 | Nuisance Caller | 0.00% | ~0 |
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226 (Ranked 387)  
+Progressed: 227 (Ranked 386)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-05 | 222 | 0 |
 | 2023-12-09 | 224 | 0 |
 | 2023-12-12 | 225 | 0 |
-| 2023-12-14 | 226 | 0 |
+| 2023-12-14 | 227 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

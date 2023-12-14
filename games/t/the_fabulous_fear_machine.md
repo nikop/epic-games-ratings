@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 30.00% | ~15 |
-| You have three wishes left | 26.00% | ~13 |
+| Master trainee | 31.00% | ~16 |
+| You have three wishes left | 27.00% | ~14 |
 | Jung's dream | 24.00% | ~12 |
 | The battle of Great Britain | 24.00% | ~12 |
 | Pulp! Where Monsters Dwell | 20.00% | ~10 |
@@ -52,7 +52,7 @@
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50 (Ranked 513)  
+Progressed: 51 (Ranked 513)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,4 +84,4 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-11-29 | 45 | 0 |
 | 2023-12-04 | 46 | 0 |
 | 2023-12-13 | 47 | 0 |
-| 2023-12-14 | 50 | 0 |
+| 2023-12-14 | 51 | 0 |

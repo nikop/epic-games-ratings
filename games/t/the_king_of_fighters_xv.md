@@ -4,12 +4,12 @@
 Rating: 4.65 (Ranked 317)  
 Number of Ratings: 181  (23.09.2022)  
 ## Awards
-Max (Diverse Characters): 76  (Ranked 398)  
-Sum: 572 (Ranked 319)  
+Max (Diverse Characters): 77  (Ranked 398)  
+Sum: 574 (Ranked 319)  
 Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 76 |
+| This game has Diverse Characters | 77 |
 | This game is Great for Quick Sessions | 71 |
 | This game is Extremely Fun | 67 |
 | This game is Relaxing | 65 |
@@ -19,7 +19,7 @@ Diff (max vs sum): 79
 | This game is Highly Recommended | 61 |
 | This game has Obsessive Gameplay | 48 |
 | This game has Challenging Combat | 48 |
-| This game has a Competitive Community | 45 |
+| This game has a Competitive Community | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -94,3 +94,4 @@ Diff (max vs sum): 79
 | 2023-11-18 | 4.64 | - | 76 | 571 |
 | 2023-11-20 | 4.64 | - | 76 | 572 |
 | 2023-11-26 | 4.65 | - | 76 | 572 |
+| 2023-12-14 | 4.65 | - | 77 | 574 |

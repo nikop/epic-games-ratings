@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2757,
+  "EOS_Progressed": 2758,
   "EOS_Completed": 251,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 9.1,
   "EosHistory": [
@@ -7766,6 +7766,11 @@
       "Time": "2023-12-14T16:09:20.2804295+00:00",
       "NumProgressed": 2757,
       "NumCompleted": 251
+    },
+    {
+      "Time": "2023-12-14T19:09:04.2762668+00:00",
+      "NumProgressed": 2758,
+      "NumCompleted": 251
     }
   ],
   "TotalAchievements": 12,
@@ -7785,7 +7790,7 @@
       "Name": "Bernard",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "Building the Fox",
@@ -7825,7 +7830,7 @@
       "Name": "Jude",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "Le Juif et la France",
@@ -7872,7 +7877,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2757,
+      "Progressed": 2758,
       "Completed": 251
     }
   ],
@@ -7880,8 +7885,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-12-14T18:09:09.9486673+00:00",
+  "LastChanged_Achievements": "2023-12-14T19:09:04.2762664+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:16.4804241+00:00",
-  "LastUpdate_Ratings": "2023-12-14T18:00:07.4367356+00:00",
-  "LastUpdate_Achievements": "2023-12-14T18:09:09.9487252+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:00:18.2431797+00:00",
+  "LastUpdate_Achievements": "2023-12-14T19:09:04.2763151+00:00"
 }

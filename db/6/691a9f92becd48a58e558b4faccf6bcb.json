@@ -4,7 +4,7 @@
   "ProductSlug": "snowmen-5987b9",
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 307,
+  "EOS_Progressed": 308,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.33,
+  "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
       "Time": "2023-09-21T15:04:03.1209788+00:00",
@@ -1419,6 +1419,11 @@
       "Time": "2023-12-14T14:09:49.680539+00:00",
       "NumProgressed": 307,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T19:09:44.9141565+00:00",
+      "NumProgressed": 308,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -1469,7 +1474,7 @@
       "ID": "ACHIEVEMENT_ENDING_GOOD_SANTA",
       "SetID": "5lffoo5",
       "Name": "Good list",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -1509,7 +1514,7 @@
       "ID": "ACHIEVEMENT_MAIN_GOLD_SCARF",
       "SetID": "5lffoo5",
       "Name": "Golden Scarf",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -1565,7 +1570,7 @@
       "ID": "ACHIEVEMENT_MAIN_WRONG_PATH",
       "SetID": "5lffoo5",
       "Name": "So close!",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 25,
       "UsersEstimate": 2
     }
@@ -1574,14 +1579,14 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 307,
+      "Progressed": 308,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-08T01:45:34.789391+00:00",
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-12-14T18:09:50.899423+00:00",
+  "LastChanged_Achievements": "2023-12-14T19:09:44.9141561+00:00",
   "LastUpdate_AppInfo": "2023-12-11T01:45:34.1220412+00:00",
-  "LastUpdate_Ratings": "2023-12-14T17:57:28.0760362+00:00",
-  "LastUpdate_Achievements": "2023-12-14T18:09:50.8994428+00:00"
+  "LastUpdate_Ratings": "2023-12-14T18:57:40.7700627+00:00",
+  "LastUpdate_Achievements": "2023-12-14T19:09:44.9141735+00:00"
 }

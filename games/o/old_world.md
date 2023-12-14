@@ -9,8 +9,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 8.00% | ~1,261 |
 | Explorer | 7.00% | ~1,103 |
 | Settler | 7.00% | ~1,103 |
-| Intrepid | 6.00% | ~945 |
-| Friendly Family | 6.00% | ~945 |
+| Intrepid | 6.00% | ~946 |
+| Friendly Family | 6.00% | ~946 |
 | Able | 5.00% | ~788 |
 | Architect | 5.00% | ~788 |
 | Good | 5.00% | ~788 |
@@ -18,6 +18,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 5.00% | ~788 |
 | Strong | 5.00% | ~788 |
 | Hanging Gardens | 5.00% | ~788 |
+| Oracle | 5.00% | ~788 |
 | Ambitious | 4.00% | ~630 |
 | Enlightened | 4.00% | ~630 |
 | Glorious | 4.00% | ~630 |
@@ -28,7 +29,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 4.00% | ~630 |
 | Developing Cities | 4.00% | ~630 |
 | Strong Cities | 4.00% | ~630 |
-| Oracle | 4.00% | ~630 |
 | Pyramids | 4.00% | ~630 |
 | Judaism | 4.00% | ~630 |
 | Greek Paganism | 4.00% | ~630 |
@@ -77,6 +77,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 2.00% | ~315 |
 | Riders | 2.00% | ~315 |
 | Sages | 2.00% | ~315 |
+| Traders | 2.00% | ~315 |
 | Acropolis | 2.00% | ~315 |
 | Circus Maximus | 2.00% | ~315 |
 | Temple of Solomon | 2.00% | ~315 |
@@ -104,7 +105,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 1.00% | ~158 |
 | Hunters | 1.00% | ~158 |
 | Statesmen | 1.00% | ~158 |
-| Traders | 1.00% | ~158 |
 | Hittite Iron | 1.00% | ~158 |
 | Hagia Sophia | 1.00% | ~158 |
 | Church of the Holy Sepulchre | 1.00% | ~158 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,758 (Ranked 154)  
+Progressed: 15,759 (Ranked 154)  
 Completed: 5 (0.03%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -587,7 +587,7 @@ Completed: 5 (0.03%) (Ranked 336)
 | 2023-12-11 | 15,723 | 5 |
 | 2023-12-12 | 15,742 | 5 |
 | 2023-12-13 | 15,751 | 5 |
-| 2023-12-14 | 15,758 | 5 |
+| 2023-12-14 | 15,759 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 277)  
 Sum: 1,900 (Ranked 220)  

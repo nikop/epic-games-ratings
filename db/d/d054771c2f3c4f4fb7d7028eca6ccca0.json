@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1876,
+  "EOS_Progressed": 1880,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 543,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1619,6 +1619,11 @@
       "Time": "2023-12-14T18:06:47.6011641+00:00",
       "NumProgressed": 1876,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T19:08:13.8428049+00:00",
+      "NumProgressed": 1880,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1661,9 +1666,9 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "c167foo",
       "Name": "Gruesome Ball Handler",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -1735,7 +1740,7 @@
       "Name": "Worthy Badge",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -1831,7 +1836,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -2006,14 +2011,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1876,
+      "Progressed": 1880,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-14T18:06:47.6011639+00:00",
+  "LastChanged_Achievements": "2023-12-14T19:08:13.8428047+00:00",
   "LastUpdate_AppInfo": "2023-12-12T11:56:59.8157094+00:00",
-  "LastUpdate_Ratings": "2023-12-14T17:58:03.2504237+00:00",
-  "LastUpdate_Achievements": "2023-12-14T18:06:47.6012335+00:00"
+  "LastUpdate_Ratings": "2023-12-14T18:58:13.2709715+00:00",
+  "LastUpdate_Achievements": "2023-12-14T19:08:13.8428408+00:00"
 }

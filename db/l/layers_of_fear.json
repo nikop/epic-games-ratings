@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116,
+  "EOS_Progressed": 117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -584,6 +584,11 @@
       "Time": "2023-12-14T16:05:34.0591716+00:00",
       "NumProgressed": 116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T19:05:03.3593478+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -636,7 +641,7 @@
       "Name": "Something to think about",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "collect_most_of_memories",
@@ -644,7 +649,7 @@
       "Name": "I remember It Like Was Yesterday",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "collect_most_of_myths",
@@ -660,7 +665,7 @@
       "Name": "Body of Work",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "collect_notes_mother",
@@ -668,7 +673,7 @@
       "Name": "Dark correspondence",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "covered_up_for_a_reason",
@@ -692,7 +697,7 @@
       "Name": "It was worth a try",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "do_not_look",
@@ -724,7 +729,7 @@
       "Name": "Face your fears",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -732,7 +737,7 @@
       "Name": "Immortalized in my heart",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "find_most_of_rat_sketches",
@@ -796,7 +801,7 @@
       "Name": "Full Scoop",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "hear_one_interview",
@@ -866,7 +871,7 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
       "UsersEstimate": 66
     },
@@ -884,7 +889,7 @@
       "Name": "Preferred Parent",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "rocket_science",
@@ -900,7 +905,7 @@
       "Name": "Se7en Seas",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "secret_ending",
@@ -916,7 +921,7 @@
       "Name": "Instinct of self-preservation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "sign_of_weakness",
@@ -932,7 +937,7 @@
       "Name": "Something important",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "spy_one_item",
@@ -988,7 +993,7 @@
       "Name": "A Mosaic of Misery",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "wanderer",
@@ -1011,14 +1016,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 116,
+      "Progressed": 117,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-14T18:05:04.4202612+00:00",
+  "LastChanged_Achievements": "2023-12-14T19:05:03.3593473+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:01.5800746+00:00",
-  "LastUpdate_Ratings": "2023-12-14T17:59:01.693354+00:00",
-  "LastUpdate_Achievements": "2023-12-14T18:05:04.4202972+00:00"
+  "LastUpdate_Ratings": "2023-12-14T18:59:12.5489753+00:00",
+  "LastUpdate_Achievements": "2023-12-14T19:05:03.3593866+00:00"
 }

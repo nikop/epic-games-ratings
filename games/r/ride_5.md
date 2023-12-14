@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 45.00% | ~1,130 |
-| First Love | 43.00% | ~1,080 |
-| Clean Race | 41.00% | ~1,030 |
+| Eat My Dust | 45.00% | ~1,131 |
+| First Love | 43.00% | ~1,081 |
+| Clean Race | 41.00% | ~1,031 |
 | Hear That Roar! | 39.00% | ~980 |
-| Rivals to the End | 28.00% | ~703 |
-| Bitter Rivalry | 27.00% | ~678 |
+| Rivals to the End | 28.00% | ~704 |
+| Bitter Rivalry | 27.00% | ~679 |
 | We're Going to Need a Bigger Garage | 25.00% | ~628 |
 | Champagne Spray | 25.00% | ~628 |
-| Restored and Ready | 19.00% | ~477 |
-| I Want One Too! | 19.00% | ~477 |
-| Legendary!!! | 19.00% | ~477 |
-| Quick Pit Stop | 19.00% | ~477 |
-| Go-Faster Stripes | 18.00% | ~452 |
+| Restored and Ready | 19.00% | ~478 |
+| I Want One Too! | 19.00% | ~478 |
+| Legendary!!! | 19.00% | ~478 |
+| Quick Pit Stop | 19.00% | ~478 |
+| Go-Faster Stripes | 18.00% | ~453 |
 | I'm Here Too! | 16.00% | ~402 |
-| We've Just Begun | 12.00% | ~301 |
+| We've Just Begun | 12.00% | ~302 |
 | Stamina Star | 9.00% | ~226 |
 | Is It the Right Size? | 8.00% | ~201 |
 | Evangelist | 6.00% | ~151 |
 | Make It Your Own! | 5.00% | ~126 |
-| Cherry Blossom and Temples | 4.00% | ~100 |
-| The Road to Liberty | 4.00% | ~100 |
-| I Make the Rules! | 4.00% | ~100 |
+| Cherry Blossom and Temples | 4.00% | ~101 |
+| The Road to Liberty | 4.00% | ~101 |
+| I Make the Rules! | 4.00% | ~101 |
 | Spoilt for Choice | 3.00% | ~75 |
 | La Dolce Vita | 3.00% | ~75 |
 | Romantic Races | 3.00% | ~75 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,512 (Ranked 221)  
+Progressed: 2,514 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,4 +158,4 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 2,440 | 0 |
 | 2023-12-12 | 2,455 | 0 |
 | 2023-12-13 | 2,471 | 0 |
-| 2023-12-14 | 2,512 | 0 |
+| 2023-12-14 | 2,514 | 0 |

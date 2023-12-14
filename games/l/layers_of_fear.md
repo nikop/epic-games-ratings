@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 78.00% | ~90 |
+| Something important | 78.00% | ~91 |
 | Wanderer | 73.00% | ~85 |
-| A piece of the story | 57.00% | ~66 |
+| A piece of the story | 56.00% | ~66 |
 | Do what you have to | 44.00% | ~51 |
 | It's covered up for a reason | 43.00% | ~50 |
 | Scraps of love | 42.00% | ~49 |
@@ -14,7 +14,7 @@
 | Refuse to look | 36.00% | ~42 |
 | Sign of weakness | 36.00% | ~42 |
 | Finished it | 31.00% | ~36 |
-| Face your fears | 28.00% | ~32 |
+| Face your fears | 28.00% | ~33 |
 | Whispers long forgotten | 17.00% | ~20 |
 | Playtime | 14.00% | ~16 |
 | Tough conversation | 14.00% | ~16 |
@@ -34,17 +34,17 @@
 | Fisherman | 7.00% | ~8 |
 | We Are Not Alone | 5.00% | ~6 |
 | The Perfect Storm | 4.00% | ~5 |
-| Something to think about | 3.00% | ~3 |
-| I remember It Like Was Yesterday | 3.00% | ~3 |
-| Body of Work | 3.00% | ~3 |
-| Dark correspondence | 3.00% | ~3 |
-| It was worth a try | 3.00% | ~3 |
-| Immortalized in my heart | 3.00% | ~3 |
-| Full Scoop | 3.00% | ~3 |
-| Preferred Parent | 3.00% | ~3 |
-| Se7en Seas | 3.00% | ~3 |
-| Instinct of self-preservation | 3.00% | ~3 |
-| A Mosaic of Misery | 3.00% | ~3 |
+| Something to think about | 3.00% | ~4 |
+| I remember It Like Was Yesterday | 3.00% | ~4 |
+| Body of Work | 3.00% | ~4 |
+| Dark correspondence | 3.00% | ~4 |
+| It was worth a try | 3.00% | ~4 |
+| Immortalized in my heart | 3.00% | ~4 |
+| Full Scoop | 3.00% | ~4 |
+| Preferred Parent | 3.00% | ~4 |
+| Se7en Seas | 3.00% | ~4 |
+| Instinct of self-preservation | 3.00% | ~4 |
+| A Mosaic of Misery | 3.00% | ~4 |
 | The Big Picture | 2.00% | ~2 |
 | In One Take | 2.00% | ~2 |
 | Rocket Science | 0.90% | ~1 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 434)  
+Progressed: 117 (Ranked 434)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,4 +109,4 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-08 | 107 | 0 |
 | 2023-12-09 | 108 | 0 |
 | 2023-12-13 | 109 | 0 |
-| 2023-12-14 | 116 | 0 |
+| 2023-12-14 | 117 | 0 |

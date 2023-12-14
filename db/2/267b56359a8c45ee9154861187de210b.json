@@ -4,7 +4,7 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -888,9 +888,9 @@
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "soccer_hattrick",
@@ -912,9 +912,9 @@
       "ID": "soccer_low",
       "SetID": "3448go",
       "Name": "Goal-Chaser",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "soccer_mid",
@@ -999,8 +999,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-12-14T18:04:01.9217367+00:00",
+  "LastChanged_Achievements": "2023-12-14T19:04:02.1541955+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:19.378274+00:00",
-  "LastUpdate_Ratings": "2023-12-14T18:00:33.5168323+00:00",
-  "LastUpdate_Achievements": "2023-12-14T18:04:01.9218063+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:02:44.2418688+00:00",
+  "LastUpdate_Achievements": "2023-12-14T19:04:02.1542628+00:00"
 }

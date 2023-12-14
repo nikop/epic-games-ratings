@@ -12,12 +12,12 @@
 | Arranging Boxes | 15.00% | ~414 |
 | Jakob | 15.00% | ~414 |
 | Le Juif et la France | 14.00% | ~386 |
-| Bernard | 13.00% | ~358 |
-| Jude | 13.00% | ~358 |
+| Bernard | 13.00% | ~359 |
+| Jude | 13.00% | ~359 |
 | Nuremberg Laws | 12.00% | ~331 |
 | May Their Memories be a Blessing | 9.00% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,757 (Ranked 218)  
+Progressed: 2,758 (Ranked 218)  
 Completed: 251 (9.10%) (Ranked 47)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 251 (9.10%) (Ranked 47)
 | 2023-12-11 | 2,751 | 249 |
 | 2023-12-12 | 2,754 | 250 |
 | 2023-12-13 | 2,755 | 251 |
-| 2023-12-14 | 2,757 | 251 |
+| 2023-12-14 | 2,758 | 251 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

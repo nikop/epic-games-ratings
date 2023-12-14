@@ -5,9 +5,9 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 2.00% | ~4,836 |
-| First of Many | 1.00% | ~2,418 |
-| Not Your Average Trait | 0.90% | ~2,176 |
+| The Killing Jar | 2.00% | ~4,838 |
+| First of Many | 1.00% | ~2,419 |
+| Not Your Average Trait | 0.90% | ~2,177 |
 | Regicide | 0.80% | ~168 |
 | Master of the Dark Arts | 0.80% | ~168 |
 | Expanding Horizons | 0.70% | ~1,693 |
@@ -26,30 +26,30 @@ Rating: 4.75 (Ranked 150)
 | Almost There | 0.50% | ~1,209 |
 | Make Some Room | 0.50% | ~1,209 |
 | Good, But Could Be Better! | 0.50% | ~1,209 |
-| Chaos | 0.40% | ~967 |
-| Traitor | 0.40% | ~967 |
-| Forever is a Long Time Coming | 0.40% | ~967 |
-| Power Surge | 0.40% | ~967 |
-| The God Gambit | 0.40% | ~967 |
-| Dark Designs | 0.40% | ~967 |
-| Shhh...It's a Secret | 0.40% | ~967 |
-| Was This Supposed To Happen? | 0.40% | ~967 |
-| Scrap Collector | 0.40% | ~967 |
-| All These Traits� | 0.40% | ~967 |
-| Ghost in the Machine | 0.30% | ~725 |
-| Madman's Paradise | 0.30% | ~725 |
-| The Agenda | 0.30% | ~725 |
-| Tall Tales | 0.30% | ~725 |
-| Bad Moon Rising | 0.30% | ~725 |
-| Strapped | 0.30% | ~725 |
-| Edgelord | 0.30% | ~725 |
-| The Web | 0.30% | ~725 |
-| Scrap Hoarder | 0.30% | ~725 |
-| Carnage in C-Minor | 0.30% | ~725 |
-| The Ultimate Weapon | 0.30% | ~725 |
-| No One Should Have All That Power | 0.30% | ~725 |
-| Transmutate | 0.30% | ~725 |
-| Crafty | 0.20% | ~484 |
+| Chaos | 0.40% | ~968 |
+| Traitor | 0.40% | ~968 |
+| Forever is a Long Time Coming | 0.40% | ~968 |
+| Power Surge | 0.40% | ~968 |
+| The God Gambit | 0.40% | ~968 |
+| Dark Designs | 0.40% | ~968 |
+| Shhh...It's a Secret | 0.40% | ~968 |
+| Was This Supposed To Happen? | 0.40% | ~968 |
+| Scrap Collector | 0.40% | ~968 |
+| Scrap Hoarder | 0.40% | ~968 |
+| All These Traits� | 0.40% | ~968 |
+| Crafty | 0.30% | ~726 |
+| Ghost in the Machine | 0.30% | ~726 |
+| Madman's Paradise | 0.30% | ~726 |
+| The Agenda | 0.30% | ~726 |
+| Tall Tales | 0.30% | ~726 |
+| Bad Moon Rising | 0.30% | ~726 |
+| Strapped | 0.30% | ~726 |
+| Edgelord | 0.30% | ~726 |
+| The Web | 0.30% | ~726 |
+| Carnage in C-Minor | 0.30% | ~726 |
+| The Ultimate Weapon | 0.30% | ~726 |
+| No One Should Have All That Power | 0.30% | ~726 |
+| Transmutate | 0.30% | ~726 |
 | Only Human | 0.20% | ~484 |
 | Red Room | 0.20% | ~484 |
 | The Trigger | 0.20% | ~484 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 150)
 | You Shall Pass | 0.20% | ~42 |
 | A Foul Feast | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,823 (Ranked 64)  
-Completed: 584 (0.24%) (Ranked 252)  
+Progressed: 241,894 (Ranked 64)  
+Completed: 585 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -212,7 +212,7 @@ Completed: 584 (0.24%) (Ranked 252)
 | 2023-12-11 | 238,673 | 579 |
 | 2023-12-12 | 239,053 | 581 |
 | 2023-12-13 | 239,544 | 584 |
-| 2023-12-14 | 241,823 | 584 |
+| 2023-12-14 | 241,894 | 585 |
 ## Awards
 Max (Great Boss Battles): 2,757  (Ranked 101)  
 Sum: 6,911 (Ranked 126)  

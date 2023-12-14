@@ -2,12 +2,12 @@
   "ID": "fc224bc11259446ab10c942201eb5926",
   "Name": "Dice Legacy",
   "ProductSlug": "dice-legacy",
-  "Ranking_Rating": 879,
+  "Ranking_Rating": 878,
   "Ranking_Popularity": 563,
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -53,9 +53,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1196,
+  "EOS_Progressed": 1197,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2288,6 +2288,11 @@
       "Time": "2023-12-14T17:08:34.7676595+00:00",
       "NumProgressed": 1196,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T19:08:28.5580167+00:00",
+      "NumProgressed": 1197,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2523,7 +2528,7 @@
       "Name": "We made it",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -2658,7 +2663,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1196,
+      "Progressed": 1197,
       "Completed": 0
     }
   ],
@@ -2666,8 +2671,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-11-18T18:58:25.1922744+00:00",
-  "LastChanged_Achievements": "2023-12-14T18:08:33.7361992+00:00",
+  "LastChanged_Achievements": "2023-12-14T19:08:28.5580163+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:06.2219482+00:00",
-  "LastUpdate_Ratings": "2023-12-14T18:03:00.8156501+00:00",
-  "LastUpdate_Achievements": "2023-12-14T18:08:33.7362346+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:03:07.8664533+00:00",
+  "LastUpdate_Achievements": "2023-12-14T19:08:28.5580493+00:00"
 }

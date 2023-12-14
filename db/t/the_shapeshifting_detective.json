@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -596,9 +596,9 @@
       "ID": "oscar_winning_performance",
       "SetID": "2db2j74",
       "Name": "Oscar Winning Performance",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "patient_listener",
@@ -620,9 +620,9 @@
       "ID": "play_me_by_the_hour",
       "SetID": "2db2j74",
       "Name": "Play Me By The Hour",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 176
     },
     {
       "ID": "poetent",
@@ -701,8 +701,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-14T18:08:19.2374055+00:00",
+  "LastChanged_Achievements": "2023-12-14T19:08:14.3783411+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:09.2551695+00:00",
-  "LastUpdate_Ratings": "2023-12-14T18:03:06.2880729+00:00",
-  "LastUpdate_Achievements": "2023-12-14T18:08:19.237423+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:03:13.0890142+00:00",
+  "LastUpdate_Achievements": "2023-12-14T19:08:14.3783545+00:00"
 }
