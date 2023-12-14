@@ -31,7 +31,7 @@
 | Dungeonlord Gorgu | 46.00% | ~251 |
 | Tanos' Crusade Against Thalya | 46.00% | ~251 |
 | Mana Cannon | 42.00% | ~229 |
-| All’s Well That Ends Evil | 39.00% | ~213 |
+| All’s Well That Ends Evil | 40.00% | ~218 |
 | The Duel | 36.00% | ~196 |
 | Master of the Undead | 35.00% | ~191 |
 | Unstoppable Horde | 34.00% | ~185 |

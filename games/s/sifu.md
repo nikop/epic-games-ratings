@@ -6,9 +6,9 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 1.00% | ~274 |
+| Diligence as a goal | 1.00% | ~275 |
 | Qi Gong: Breath | 0.80% | ~5,745 |
-| Project Arena | 0.80% | ~219 |
+| Project Arena | 0.80% | ~220 |
 | The Old Grandmaster | 0.70% | ~5,027 |
 | The Assault | 0.70% | ~5,027 |
 | The Hateful Pole Fighter | 0.70% | ~5,027 |
@@ -30,9 +30,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Scareless | 0.50% | ~3,591 |
 | Kung-Fu Tussle | 0.50% | ~3,591 |
 | Martial Hub | 0.50% | ~137 |
-| Dance of the Praying Mantis | 0.40% | ~2,872 |
-| Qi Gong: Mind | 0.40% | ~2,872 |
-| I know Kung-Fu | 0.40% | ~2,872 |
+| Dance of the Praying Mantis | 0.40% | ~2,873 |
+| Qi Gong: Mind | 0.40% | ~2,873 |
+| I know Kung-Fu | 0.40% | ~2,873 |
 | Bloody Sport | 0.40% | ~110 |
 | Muk Yan Master | 0.30% | ~2,154 |
 | Tiger on Fire | 0.30% | ~2,154 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,122 (Ranked 24)  
+Progressed: 718,164 (Ranked 24)  
 Completed: 12,953 (1.80%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,22 +305,22 @@ Completed: 12,953 (1.80%) (Ranked 136)
 | 2023-12-11 | 717,971 | 12,952 |
 | 2023-12-12 | 717,993 | 12,952 |
 | 2023-12-13 | 718,112 | 12,953 |
-| 2023-12-14 | 718,122 | 12,953 |
+| 2023-12-14 | 718,164 | 12,953 |
 ## Awards
-Max (Great Boss Battles): 6,915  (Ranked 55)  
-Sum: 12,141 (Ranked 83)  
+Max (Great Boss Battles): 6,923  (Ranked 55)  
+Sum: 12,152 (Ranked 83)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,915 |
+| This game has Great Boss Battles | 6,923 |
 | This game has Diverse Characters | 678 |
 | This game has Challenging Combat | 617 |
 | This game has Amazing Storytelling | 603 |
-| This game has Amazing Characters | 589 |
+| This game has Amazing Characters | 590 |
 | This game is Highly Recommended | 585 |
 | This game has Quickly Understood Controls | 582 |
 | This game is Extremely Fun | 573 |
-| This game has Unique Visuals | 566 |
+| This game has Unique Visuals | 568 |
 | This game has a Creative Community | 433 |
 | This game is Relaxing | 401 |
 | This game has Obsessive Gameplay | 293 |
@@ -657,3 +657,4 @@ Diff (max vs sum): -28
 | 2023-12-11 | 4.82 | - | 6,909 | 12,126 |
 | 2023-12-12 | 4.82 | - | 6,915 | 12,138 |
 | 2023-12-13 | 4.82 | - | 6,915 | 12,141 |
+| 2023-12-14 | 4.82 | - | 6,923 | 12,152 |

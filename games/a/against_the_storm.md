@@ -24,8 +24,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 1.00% | ~181 |
 | Coral Forest | 1.00% | ~181 |
 | The Scarlet Orchard | 1.00% | ~181 |
-| Homesick | 0.90% | ~162 |
-| Lost Colonies | 0.90% | ~162 |
+| Homesick | 0.90% | ~163 |
+| Lost Colonies | 0.90% | ~163 |
 | Bandit Camp | 0.80% | ~144 |
 | Monastery of the Holy Flame | 0.80% | ~144 |
 | A Real Challenge | 0.80% | ~144 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,051 (Ranked 147)  
+Progressed: 18,058 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 40 (0.22%) (Ranked 256)
 | 2023-12-11 | 17,957 | 41 |
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
-| 2023-12-14 | 18,051 | 40 |
+| 2023-12-14 | 18,058 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 225)  
 Sum: 3,256 (Ranked 174)  

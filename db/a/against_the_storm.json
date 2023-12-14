@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 3730,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 3729,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3431,10 +3431,10 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 18051,
+  "EOS_Progressed": 18058,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 413,
-  "EOS_NewCompleters": -8,
+  "EOS_NewPlayers": 419,
+  "EOS_NewCompleters": -7,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -15611,6 +15611,11 @@
       "Time": "2023-12-14T00:03:30.894516+00:00",
       "NumProgressed": 18051,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-14T01:50:14.0463178+00:00",
+      "NumProgressed": 18058,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15703,7 +15708,7 @@
       "Name": "Homesick",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "WinFirstGame",
@@ -15847,7 +15852,7 @@
       "Name": "Lost Colonies",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "WinNearStatue",
@@ -16094,15 +16099,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18051,
+      "Progressed": 18058,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-13T10:59:18.3182302+00:00",
-  "LastChanged_Achievements": "2023-12-14T00:03:30.8945158+00:00",
+  "LastChanged_Achievements": "2023-12-14T01:50:14.0463175+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-14T00:00:19.7667536+00:00",
-  "LastUpdate_Achievements": "2023-12-14T00:03:30.8946214+00:00"
+  "LastUpdate_Ratings": "2023-12-14T01:46:28.9946412+00:00",
+  "LastUpdate_Achievements": "2023-12-14T01:50:14.0464155+00:00"
 }

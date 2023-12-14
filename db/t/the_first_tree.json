@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38962,
+  "EOS_Progressed": 38964,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -20906,6 +20906,11 @@
       "Time": "2023-12-14T00:05:25.3876794+00:00",
       "NumProgressed": 38962,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-12-14T01:51:36.9353815+00:00",
+      "NumProgressed": 38964,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -20933,7 +20938,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10130
+      "UsersEstimate": 10131
     },
     {
       "ID": "allItems",
@@ -20989,7 +20994,7 @@
       "Name": "Hummed of Mystery",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "firstBunny",
@@ -21005,7 +21010,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 30001
+      "UsersEstimate": 30002
     },
     {
       "ID": "roots",
@@ -21028,15 +21033,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 38962,
+      "Progressed": 38964,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-09T15:00:19.5920578+00:00",
-  "LastChanged_Achievements": "2023-12-14T00:05:25.3876791+00:00",
+  "LastChanged_Achievements": "2023-12-14T01:51:36.935381+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:18.6627904+00:00",
-  "LastUpdate_Ratings": "2023-12-13T23:59:48.0182474+00:00",
-  "LastUpdate_Achievements": "2023-12-14T00:05:25.3878968+00:00"
+  "LastUpdate_Ratings": "2023-12-14T01:46:06.9751169+00:00",
+  "LastUpdate_Achievements": "2023-12-14T01:51:36.9355194+00:00"
 }

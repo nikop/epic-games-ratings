@@ -14,7 +14,7 @@ Rating: 4.60 (Ranked 421)
 | Humble Collector | 43.00% | ~3,623 |
 | Calm Sailing | 37.00% | ~3,117 |
 | Open the Gate! | 34.00% | ~2,864 |
-| Mist Walker | 32.00% | ~2,696 |
+| Mist Walker | 33.00% | ~2,780 |
 | Lumberjack | 27.00% | ~2,275 |
 | Oui, Chef! | 23.00% | ~1,938 |
 | Clear the Air | 19.00% | ~1,601 |
@@ -42,7 +42,7 @@ Rating: 4.60 (Ranked 421)
 | Workaholic | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,425 (Ranked 176)  
-Completed: 1 (0.01%) (Ranked 350)  
+Completed: 1 (0.01%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

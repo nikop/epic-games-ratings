@@ -5,15 +5,15 @@ Rating: 4.44 (Ranked 682)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,884 |
+| Meeting Resistance | 47.00% | ~1,885 |
 | Confirming Suspicions | 42.00% | ~1,684 |
-| The Kraken Wakes | 37.00% | ~1,483 |
+| The Kraken Wakes | 37.00% | ~1,484 |
 | It's Starting to Crack | 34.00% | ~1,363 |
 | Lord of War | 31.00% | ~1,243 |
 | Change the Channel | 31.00% | ~1,243 |
 | Taking it back | 30.00% | ~1,203 |
 | Resourceful | 28.00% | ~1,123 |
-| Target America | 27.00% | ~1,082 |
+| Target America | 27.00% | ~1,083 |
 | The Kraken Sleeps | 25.00% | ~1,002 |
 | As Quiet as a Mouse | 24.00% | ~962 |
 | Liberté | 23.00% | ~922 |
@@ -24,12 +24,12 @@ Rating: 4.44 (Ranked 682)
 | Climbing the Ladder | 17.00% | ~682 |
 | Just a Flesh Wound | 17.00% | ~682 |
 | Der Geist | 17.00% | ~682 |
-| Close Quarters | 16.00% | ~641 |
-| Snake in the Grass | 16.00% | ~641 |
-| Brains of the Operation | 16.00% | ~641 |
-| No Stone Unturned | 15.00% | ~601 |
-| Skirmisher | 15.00% | ~601 |
-| Die Nussknacker Sweet! | 15.00% | ~601 |
+| Close Quarters | 16.00% | ~642 |
+| Snake in the Grass | 16.00% | ~642 |
+| Brains of the Operation | 16.00% | ~642 |
+| No Stone Unturned | 15.00% | ~602 |
+| Skirmisher | 15.00% | ~602 |
+| Die Nussknacker Sweet! | 15.00% | ~602 |
 | Opposing Force | 14.00% | ~561 |
 | Enemy at the Gates | 14.00% | ~561 |
 | Fields of Glory | 14.00% | ~561 |
@@ -77,8 +77,8 @@ Rating: 4.44 (Ranked 682)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,009 (Ranked 199)  
-Completed: 11 (0.27%) (Ranked 247)  
+Progressed: 4,010 (Ranked 199)  
+Completed: 11 (0.27%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -313,6 +313,7 @@ Completed: 11 (0.27%) (Ranked 247)
 | 2023-12-11 | 4,003 | 11 |
 | 2023-12-12 | 4,006 | 11 |
 | 2023-12-13 | 4,009 | 11 |
+| 2023-12-14 | 4,010 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 512)  
 Sum: 28 (Ranked 527)  

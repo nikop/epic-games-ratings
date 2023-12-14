@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 86,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3652,9 +3652,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 240988,
+  "EOS_Progressed": 240991,
   "EOS_Completed": 298,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -28112,6 +28112,11 @@
       "Time": "2023-12-14T00:10:22.2923791+00:00",
       "NumProgressed": 240988,
       "NumCompleted": 298
+    },
+    {
+      "Time": "2023-12-14T01:56:43.5643095+00:00",
+      "NumProgressed": 240991,
+      "NumCompleted": 298
     }
   ],
   "TotalAchievements": 138,
@@ -28441,9 +28446,9 @@
       "ID": "HIGHATTACK",
       "SetID": "5l8oe0h",
       "Name": "Berzerker",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 723
     },
     {
       "ID": "HIGHCLARITY",
@@ -28865,9 +28870,9 @@
       "ID": "SPECIALROOMS1",
       "SetID": "5l8oe0h",
       "Name": "Uncharted Territory",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1928
     },
     {
       "ID": "SPECIALROOMS10",
@@ -29226,13 +29231,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240988,
+      "Progressed": 240991,
       "Completed": 298
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2468,
+      "Progressed": 2471,
       "Completed": 403
     }
   ],
@@ -29240,8 +29245,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-13T20:59:38.9026811+00:00",
-  "LastChanged_Achievements": "2023-12-14T00:10:22.2923789+00:00",
+  "LastChanged_Achievements": "2023-12-14T01:56:43.5643091+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-14T00:00:24.7730419+00:00",
-  "LastUpdate_Achievements": "2023-12-14T00:10:22.2926359+00:00"
+  "LastUpdate_Ratings": "2023-12-14T01:46:32.3698616+00:00",
+  "LastUpdate_Achievements": "2023-12-14T01:56:43.5645447+00:00"
 }

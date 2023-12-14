@@ -6,11 +6,11 @@ Rating: 4.53 (Ranked 547)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 13.00% | ~2,097 |
-| The Pit and the Pirates | 8.00% | ~1,290 |
-| Bosmang | 8.00% | ~1,290 |
-| Captain Drummer | 8.00% | ~1,290 |
-| Celebrations are in Order | 8.00% | ~1,290 |
-| Impossible Objects | 8.00% | ~1,290 |
+| The Pit and the Pirates | 8.00% | ~1,291 |
+| Bosmang | 8.00% | ~1,291 |
+| Captain Drummer | 8.00% | ~1,291 |
+| Celebrations are in Order | 8.00% | ~1,291 |
+| Impossible Objects | 8.00% | ~1,291 |
 | Martian Music | 7.00% | ~1,129 |
 | Drone Dodger | 7.00% | ~1,129 |
 | Safe Cracker | 7.00% | ~146 |
@@ -20,12 +20,12 @@ Rating: 4.53 (Ranked 547)
 | Spore Taste | 6.00% | ~968 |
 | Call it Even | 6.00% | ~968 |
 | Keep Arjun in Check | 6.00% | ~125 |
-| Data Archivist | 5.00% | ~806 |
-| Drug Gifter | 5.00% | ~806 |
-| Heal Thy Medic | 5.00% | ~806 |
+| Data Archivist | 5.00% | ~807 |
+| Drug Gifter | 5.00% | ~807 |
+| Heal Thy Medic | 5.00% | ~807 |
 | Thorston Mayer | 4.00% | ~645 |
 | Khan's Revenge | 4.00% | ~645 |
-| Master Negotiator | 4.00% | ~83 |
+| Master Negotiator | 4.00% | ~84 |
 | Doctor Approved | 3.00% | ~484 |
 | Bottoms up! | 3.00% | ~484 |
 | Miraculous Maya | 3.00% | ~484 |
@@ -41,8 +41,8 @@ Rating: 4.53 (Ranked 547)
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,127 (Ranked 152)  
-Completed: 43 (0.27%) (Ranked 247)  
+Progressed: 16,134 (Ranked 152)  
+Completed: 43 (0.27%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -186,7 +186,7 @@ Completed: 43 (0.27%) (Ranked 247)
 | 2023-12-11 | 16,062 | 42 |
 | 2023-12-12 | 16,078 | 42 |
 | 2023-12-13 | 16,124 | 43 |
-| 2023-12-14 | 16,127 | 43 |
+| 2023-12-14 | 16,134 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

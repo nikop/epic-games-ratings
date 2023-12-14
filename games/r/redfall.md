@@ -32,6 +32,7 @@ Rating: 3.47 (Ranked 1,062)
 | Harvest’s End | 1.00% | ~18 |
 | Helping Hand | 1.00% | ~18 |
 | Contingency Plans | 0.80% | ~14 |
+| Check, Please! | 0.70% | ~12 |
 | Starve the Beast | 0.70% | ~12 |
 | Nice Try | 0.70% | ~12 |
 | Curious Finch | 0.70% | ~12 |
@@ -39,7 +40,6 @@ Rating: 3.47 (Ranked 1,062)
 | Revelations | 0.60% | ~11 |
 | Block Party | 0.60% | ~11 |
 | You Clean It Up | 0.60% | ~11 |
-| Check, Please! | 0.60% | ~11 |
 | Blacklight Down | 0.50% | ~9 |
 | Sisterhood | 0.40% | ~7 |
 | What Lies Below | 0.40% | ~7 |
@@ -73,7 +73,7 @@ Rating: 3.47 (Ranked 1,062)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,784 (Ranked 235)  
-Completed: 0 (0.00%) (Ranked 373)  
+Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

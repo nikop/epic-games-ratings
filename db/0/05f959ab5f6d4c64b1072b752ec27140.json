@@ -3,9 +3,9 @@
   "Name": "Super Kids Racing - Mini Edition",
   "ProductSlug": "super-kids-racing-mini-edition-65c0fa",
   "Ranking_EOS_Progress": 731,
-  "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 471,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 374,
+  "Ranking_EOS_NewPlayers": 472,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-12-09T18:30:00+00:00",
     "PcReleaseDate": "2023-01-24T18:30:00+00:00",
@@ -88,8 +88,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-05T19:03:44.4513235+00:00",
-  "LastChanged_Achievements": "2023-12-14T00:03:36.620058+00:00",
+  "LastChanged_Achievements": "2023-12-14T01:50:18.1196227+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:06.1082253+00:00",
-  "LastUpdate_Ratings": "2023-12-13T23:58:18.4618528+00:00",
-  "LastUpdate_Achievements": "2023-12-14T00:03:36.6200648+00:00"
+  "LastUpdate_Ratings": "2023-12-14T01:45:02.530805+00:00",
+  "LastUpdate_Achievements": "2023-12-14T01:50:18.1196402+00:00"
 }

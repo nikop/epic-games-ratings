@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,736 |
-| Un-Lonely Island | 46.00% | ~2,905 |
-| The Beginning of a Servantship | 45.00% | ~2,842 |
+| Just One...More...Term... | 75.00% | ~4,738 |
+| Un-Lonely Island | 46.00% | ~2,906 |
+| The Beginning of a Servantship | 45.00% | ~2,843 |
 | Trade Is My Trait | 37.00% | ~2,337 |
 | Number 18 | 24.00% | ~1,516 |
 | We Don't Have Time For That | 19.00% | ~1,200 |
 | The Governator | 17.00% | ~1,074 |
-| The Legend of Langostino | 16.00% | ~1,010 |
-| Caribbean Comrade | 15.00% | ~947 |
-| The Dreamer of Dreams | 15.00% | ~947 |
+| The Legend of Langostino | 16.00% | ~1,011 |
+| Caribbean Comrade | 15.00% | ~948 |
+| The Dreamer of Dreams | 15.00% | ~948 |
 | Go Sovereigns! | 11.00% | ~695 |
 | For Science! | 11.00% | ~695 |
 | Happy Ending? | 10.00% | ~632 |
 | Of Seals And Men | 10.00% | ~632 |
-| Shackadelic | 9.00% | ~568 |
+| Shackadelic | 9.00% | ~569 |
 | Double Trouble | 8.00% | ~505 |
 | Firestarter | 8.00% | ~505 |
 | I Owe You Nothing | 7.00% | ~442 |
@@ -32,10 +32,10 @@ Number of Ratings: 398  (23.09.2022)
 | Computer Says "No" | 5.00% | ~316 |
 | Watch The World Burn | 5.00% | ~316 |
 | Fairy Tale Come True | 5.00% | ~316 |
-| Been there, Done That | 3.00% | ~189 |
-| Apocalypso | 3.00% | ~189 |
-| Narcissist | 3.00% | ~189 |
-| The Time For Wonders | 3.00% | ~189 |
+| Been there, Done That | 3.00% | ~190 |
+| Apocalypso | 3.00% | ~190 |
+| Narcissist | 3.00% | ~190 |
+| The Time For Wonders | 3.00% | ~190 |
 | Chain Gang | 2.00% | ~126 |
 | One Does Not Simply Stage A Coup | 2.00% | ~126 |
 | Promising Endeavors | 2.00% | ~126 |
@@ -47,8 +47,8 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~57 |
 | My Ways | 0.30% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,315 (Ranked 186)  
-Completed: 2 (0.03%) (Ranked 335)  
+Progressed: 6,317 (Ranked 186)  
+Completed: 2 (0.03%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -285,7 +285,7 @@ Completed: 2 (0.03%) (Ranked 335)
 | 2023-12-11 | 6,298 | 2 |
 | 2023-12-12 | 6,303 | 2 |
 | 2023-12-13 | 6,313 | 2 |
-| 2023-12-14 | 6,315 | 2 |
+| 2023-12-14 | 6,317 | 2 |
 ## Awards
 Max (Highly Recommended): 104  (Ranked 362)  
 Sum: 739 (Ranked 294)  

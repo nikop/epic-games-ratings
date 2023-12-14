@@ -6,9 +6,9 @@
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 289,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -535,9 +535,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3741,
+  "EOS_Progressed": 3742,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5925,6 +5925,11 @@
       "Time": "2023-12-13T22:06:00.8000041+00:00",
       "NumProgressed": 3741,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-14T01:52:51.1720623+00:00",
+      "NumProgressed": 3742,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5968,7 +5973,7 @@
       "Name": "Blood and justice",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "CordonBleu_28",
@@ -5976,7 +5981,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "CrowdPleaser",
@@ -6032,7 +6037,7 @@
       "Name": "Hold my Mead and Watch This",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "HomeSweetHome_25",
@@ -6040,7 +6045,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "HouseofCards_19",
@@ -6256,7 +6261,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2843
+      "UsersEstimate": 2844
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6271,15 +6276,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3741,
+      "Progressed": 3742,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-01T16:57:27.3862191+00:00",
-  "LastChanged_Achievements": "2023-12-14T00:07:08.4831266+00:00",
+  "LastChanged_Achievements": "2023-12-14T01:52:51.172062+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:46.9668311+00:00",
-  "LastUpdate_Ratings": "2023-12-14T00:02:31.5020486+00:00",
-  "LastUpdate_Achievements": "2023-12-14T00:07:08.4831795+00:00"
+  "LastUpdate_Ratings": "2023-12-14T01:47:32.9102213+00:00",
+  "LastUpdate_Achievements": "2023-12-14T01:52:51.1721136+00:00"
 }

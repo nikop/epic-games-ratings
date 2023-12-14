@@ -6,7 +6,7 @@ Number of Ratings: 22  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tuto | 59.00% | ~256 |
+| Tuto | 60.00% | ~260 |
 | Joma | 43.00% | ~187 |
 | Campaign Bronze | 35.00% | ~152 |
 | Lorian | 31.00% | ~135 |
@@ -32,7 +32,7 @@ Number of Ratings: 22  (23.09.2022)
 | Competitor Gold | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 434 (Ranked 331)  
-Completed: 0 (0.00%) (Ranked 373)  
+Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

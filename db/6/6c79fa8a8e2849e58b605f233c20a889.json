@@ -3,9 +3,9 @@
   "Name": "Feud",
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 215,
-  "Ranking_EOS_Completed": 335,
+  "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3025,
+  "EOS_Progressed": 3026,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8009,6 +8009,11 @@
       "Time": "2023-12-13T21:09:36.1277545+00:00",
       "NumProgressed": 3025,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T01:56:24.4125064+00:00",
+      "NumProgressed": 3026,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -8028,7 +8033,7 @@
       "Name": "Puppetmaster",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "BOT_DESTROYER",
@@ -8044,7 +8049,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "CONQUEROR",
@@ -8084,7 +8089,7 @@
       "Name": "Apprentice",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "FEUD_GRANDMASTER",
@@ -8108,7 +8113,7 @@
       "Name": "Glove Slap!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -8124,7 +8129,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "GUARD_MAKER",
@@ -8195,14 +8200,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 3025,
+      "Progressed": 3026,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-12-14T00:09:56.9941168+00:00",
+  "LastChanged_Achievements": "2023-12-14T01:56:24.4125059+00:00",
   "LastUpdate_AppInfo": "2023-12-13T08:56:57.6507347+00:00",
-  "LastUpdate_Ratings": "2023-12-13T23:59:01.9484778+00:00",
-  "LastUpdate_Achievements": "2023-12-14T00:09:56.9941694+00:00"
+  "LastUpdate_Ratings": "2023-12-14T01:45:34.9955632+00:00",
+  "LastUpdate_Achievements": "2023-12-14T01:56:24.4125547+00:00"
 }

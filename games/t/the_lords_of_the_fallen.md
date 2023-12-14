@@ -5,15 +5,15 @@ Rating: 4.21 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Veil Lifted | 0.50% | ~12 |
-| Comrades | 0.50% | ~12 |
-| Shared Triumph | 0.50% | ~12 |
+| A Veil Lifted | 0.50% | ~13 |
+| Comrades | 0.50% | ~13 |
+| Shared Triumph | 0.50% | ~13 |
 | Lost and Found | 0.40% | ~10 |
 | No Mercy | 0.40% | ~10 |
 | Shades of Violence | 0.40% | ~10 |
 | Thriving in Darkness | 0.40% | ~10 |
-| The Past Shapes the Present | 0.30% | ~7 |
-| A Rest Among the Dead | 0.30% | ~7 |
+| The Past Shapes the Present | 0.30% | ~8 |
+| A Rest Among the Dead | 0.30% | ~8 |
 | Weapon Collector | 0.20% | ~5 |
 | What Sights Contained Within | 0.20% | ~5 |
 | Ammunition Collector | 0.20% | ~5 |
@@ -47,30 +47,30 @@ Rating: 4.21 (Ranked 917)
 | A Shadow Dispelled | 0.20% | ~5 |
 | Essence of Death | 0.20% | ~5 |
 | Seasoned | 0.20% | ~5 |
-| Wayfarer | 0.10% | ~2 |
-| Ironclad | 0.10% | ~2 |
-| Trinket Collector | 0.10% | ~2 |
-| Salvation in Blood | 0.10% | ~2 |
-| Radiant Offerings | 0.10% | ~2 |
-| Umbral Offerings | 0.10% | ~2 |
-| A Hunger Sated | 0.10% | ~2 |
-| Fallen | 0.10% | ~2 |
-| None Shall be Spared | 0.10% | ~2 |
-| The Price of Knowledge | 0.10% | ~2 |
-| Part of the Divine | 0.10% | ~2 |
-| Antanas' Legacy | 0.10% | ~2 |
-| Faithful | 0.10% | ~2 |
-| A Queen's Rest | 0.10% | ~2 |
-| The Last Step | 0.10% | ~2 |
-| Vengeful Reflection | 0.10% | ~2 |
-| In Light we Walk | 0.10% | ~2 |
-| Back to the Void | 0.10% | ~2 |
-| Lord of the Fallen | 0.10% | ~2 |
-| Lingering Moments | 0.10% | ~2 |
-| A Trace of Venom | 0.10% | ~2 |
+| Wayfarer | 0.10% | ~3 |
+| Ironclad | 0.10% | ~3 |
+| Trinket Collector | 0.10% | ~3 |
+| Salvation in Blood | 0.10% | ~3 |
+| Radiant Offerings | 0.10% | ~3 |
+| Umbral Offerings | 0.10% | ~3 |
+| A Hunger Sated | 0.10% | ~3 |
+| Fallen | 0.10% | ~3 |
+| None Shall be Spared | 0.10% | ~3 |
+| The Price of Knowledge | 0.10% | ~3 |
+| Part of the Divine | 0.10% | ~3 |
+| Antanas' Legacy | 0.10% | ~3 |
+| Faithful | 0.10% | ~3 |
+| A Queen's Rest | 0.10% | ~3 |
+| The Last Step | 0.10% | ~3 |
+| Vengeful Reflection | 0.10% | ~3 |
+| In Light we Walk | 0.10% | ~3 |
+| Back to the Void | 0.10% | ~3 |
+| Lord of the Fallen | 0.10% | ~3 |
+| Lingering Moments | 0.10% | ~3 |
+| A Trace of Venom | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,499 (Ranked 219)  
-Completed: 2 (0.08%) (Ranked 306)  
+Progressed: 2,531 (Ranked 219)  
+Completed: 2 (0.08%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -126,7 +126,7 @@ Completed: 2 (0.08%) (Ranked 306)
 | 2023-12-11 | 2,337 | 2 |
 | 2023-12-12 | 2,347 | 2 |
 | 2023-12-13 | 2,475 | 2 |
-| 2023-12-14 | 2,499 | 2 |
+| 2023-12-14 | 2,531 | 2 |
 ## Awards
 Max (Character Customization): 197  (Ranked 293)  
 Sum: 460 (Ranked 337)  

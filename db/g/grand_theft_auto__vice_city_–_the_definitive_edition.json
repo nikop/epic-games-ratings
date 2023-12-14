@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -931,9 +931,9 @@
       "Count": 120
     }
   ],
-  "EOS_Progressed": 11453,
+  "EOS_Progressed": 11463,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -14321,6 +14321,11 @@
       "Time": "2023-12-14T00:09:27.1068539+00:00",
       "NumProgressed": 11453,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-12-14T01:56:02.3627529+00:00",
+      "NumProgressed": 11463,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 34,
@@ -14348,7 +14353,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "ACH04",
@@ -14380,7 +14385,7 @@
       "Name": "High Quality H2O",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ACH08",
@@ -14388,7 +14393,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ACH09",
@@ -14412,7 +14417,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "ACH12",
@@ -14420,7 +14425,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ACH13",
@@ -14436,7 +14441,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 4925
+      "UsersEstimate": 4929
     },
     {
       "ID": "ACH15",
@@ -14460,7 +14465,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "ACH18",
@@ -14492,7 +14497,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 5383
+      "UsersEstimate": 5388
     },
     {
       "ID": "ACH22",
@@ -14500,7 +14505,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2405
+      "UsersEstimate": 2407
     },
     {
       "ID": "ACH23",
@@ -14508,7 +14513,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2978
+      "UsersEstimate": 2980
     },
     {
       "ID": "ACH24",
@@ -14516,7 +14521,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     },
     {
       "ID": "ACH25",
@@ -14524,7 +14529,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     },
     {
       "ID": "ACH26",
@@ -14532,7 +14537,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1832
+      "UsersEstimate": 1834
     },
     {
       "ID": "ACH27",
@@ -14564,7 +14569,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "ACH31",
@@ -14603,7 +14608,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11453,
+      "Progressed": 11463,
       "Completed": 68
     }
   ],
@@ -14611,8 +14616,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-13T01:45:31.3846628+00:00",
-  "LastChanged_Achievements": "2023-12-14T00:09:27.1068537+00:00",
+  "LastChanged_Achievements": "2023-12-14T01:56:02.3627524+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.0199326+00:00",
-  "LastUpdate_Ratings": "2023-12-13T23:57:59.0318629+00:00",
-  "LastUpdate_Achievements": "2023-12-14T00:09:27.1069376+00:00"
+  "LastUpdate_Ratings": "2023-12-14T01:44:47.8537587+00:00",
+  "LastUpdate_Achievements": "2023-12-14T01:56:02.3628337+00:00"
 }

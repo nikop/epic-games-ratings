@@ -3,12 +3,12 @@
   "Name": "The Crew\u2122 Motorfest Standard Edition",
   "ProductSlug": "the-crew-motorfest",
   "Ranking_Rating": 296,
-  "Ranking_Popularity": 210,
+  "Ranking_Popularity": 209,
   "Ranking_PopularitySum": 162,
   "Ranking_EOS_Progress": 797,
-  "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 471,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 374,
+  "Ranking_EOS_NewPlayers": 472,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-14T08:00:00+00:00",
     "PcReleaseDate": "2023-09-14T08:00:00+00:00",
@@ -3147,11 +3147,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 3816,
       "NumberOfAwardsMax": 528
+    },
+    {
+      "Time": "2023-12-14T01:49:57.6860405+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 3827,
+      "NumberOfAwardsMax": 535
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3816,
-  "NumberOfAwardsMax": 528,
+  "NumberOfAwards": 3827,
+  "NumberOfAwardsMax": 535,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -3164,7 +3170,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 528
+      "Count": 535
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3200,7 +3206,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 479
+      "Count": 483
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3233,8 +3239,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2023-12-13T13:09:25.2264809+00:00",
+  "LastChanged": "2023-12-14T01:49:57.6860403+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:10.8530957+00:00",
-  "LastUpdate_Ratings": "2023-12-14T00:03:08.1593931+00:00",
-  "LastUpdate_Achievements": "2023-12-14T00:09:27.6601337+00:00"
+  "LastUpdate_Ratings": "2023-12-14T01:49:57.6860409+00:00",
+  "LastUpdate_Achievements": "2023-12-14T01:56:02.7809416+00:00"
 }

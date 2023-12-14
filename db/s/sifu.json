@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8173,18 +8173,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 12141,
       "NumberOfAwardsMax": 6915
+    },
+    {
+      "Time": "2023-12-14T01:49:50.3511385+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12152,
+      "NumberOfAwardsMax": 6923
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12141,
-  "NumberOfAwardsMax": 6915,
+  "NumberOfAwards": 12152,
+  "NumberOfAwardsMax": 6923,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6915
+      "Count": 6923
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8208,7 +8214,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 589
+      "Count": 590
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8238,7 +8244,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 566
+      "Count": 568
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8253,9 +8259,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 718122,
+  "EOS_Progressed": 718164,
   "EOS_Completed": 12953,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -29248,6 +29254,11 @@
       "Time": "2023-12-14T00:08:31.1245212+00:00",
       "NumProgressed": 718122,
       "NumCompleted": 12953
+    },
+    {
+      "Time": "2023-12-14T01:55:20.5399373+00:00",
+      "NumProgressed": 718164,
+      "NumCompleted": 12953
     }
   ],
   "TotalAchievements": 60,
@@ -29419,7 +29430,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -29451,7 +29462,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "26_ShrineSpirit",
@@ -29491,7 +29502,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "31_ComboHigh",
@@ -29595,7 +29606,7 @@
       "Name": "Project Arena",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -29603,7 +29614,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -29738,21 +29749,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 27423,
-      "Completed": 10769
+      "Progressed": 27465,
+      "Completed": 10770
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 718122,
+      "Progressed": 718164,
       "Completed": 12953
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-13T20:03:15.2119501+00:00",
-  "LastChanged_Achievements": "2023-12-14T00:08:31.124521+00:00",
+  "LastChanged": "2023-12-14T01:49:50.3511384+00:00",
+  "LastChanged_Achievements": "2023-12-14T01:55:20.5399369+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:05.3418066+00:00",
-  "LastUpdate_Ratings": "2023-12-14T00:02:57.1453833+00:00",
-  "LastUpdate_Achievements": "2023-12-14T00:08:31.1246357+00:00"
+  "LastUpdate_Ratings": "2023-12-14T01:49:50.3511389+00:00",
+  "LastUpdate_Achievements": "2023-12-14T01:55:20.5400493+00:00"
 }

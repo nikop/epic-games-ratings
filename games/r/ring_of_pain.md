@@ -8,7 +8,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | ---- | ---------- | ----- |
 | Matching | 1.00% | ~25 |
 | First Steps | 0.80% | ~1,928 |
-| Uncharted Territory | 0.70% | ~1,687 |
+| Uncharted Territory | 0.80% | ~1,928 |
 | Not Touching You | 0.70% | ~17 |
 | Heavy Hitter | 0.60% | ~1,446 |
 | Getting A Glimpse | 0.60% | ~1,446 |
@@ -55,6 +55,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Rough Road | 0.30% | ~723 |
 | To The Death! | 0.30% | ~723 |
 | Well Prepared | 0.30% | ~723 |
+| Berzerker | 0.30% | ~723 |
 | Don't Ignore Me! | 0.30% | ~723 |
 | All Consuming | 0.30% | ~723 |
 | Stop Hitting Yourself | 0.30% | ~723 |
@@ -72,7 +73,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | New Game+ | 0.20% | ~482 |
 | Barbecue | 0.20% | ~482 |
 | Soul Stash | 0.20% | ~482 |
-| Berzerker | 0.20% | ~482 |
 | Juggernaut | 0.20% | ~482 |
 | Gigantic | 0.20% | ~482 |
 | Clearing The Room | 0.20% | ~482 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,988 (Ranked 64)  
+Progressed: 240,991 (Ranked 64)  
 Completed: 298 (0.12%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -383,7 +383,7 @@ Completed: 298 (0.12%) (Ranked 286)
 | 2023-12-11 | 240,899 | 294 |
 | 2023-12-12 | 240,936 | 296 |
 | 2023-12-13 | 240,984 | 298 |
-| 2023-12-14 | 240,988 | 298 |
+| 2023-12-14 | 240,991 | 298 |
 ## Awards
 Max (Quickly Understood Controls): 1,508  (Ranked 134)  
 Sum: 11,729 (Ranked 86)  

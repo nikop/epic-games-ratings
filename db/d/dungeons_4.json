@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 545,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.75,
   "EosHistory": [
@@ -1751,9 +1751,9 @@
       "ID": "ach_main12race_completed",
       "SetID": "4hg22ll",
       "Name": "All\u2019s Well That Ends Evil",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 218
     },
     {
       "ID": "ach_main12race_tanosevilness",
@@ -1974,8 +1974,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-14T00:06:02.3867363+00:00",
+  "LastChanged_Achievements": "2023-12-14T01:52:02.9636049+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-14T00:01:28.4562149+00:00",
-  "LastUpdate_Achievements": "2023-12-14T00:06:02.3867896+00:00"
+  "LastUpdate_Ratings": "2023-12-14T01:47:17.0794769+00:00",
+  "LastUpdate_Achievements": "2023-12-14T01:52:02.9636482+00:00"
 }

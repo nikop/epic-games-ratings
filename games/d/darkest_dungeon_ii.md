@@ -6,55 +6,55 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 5.00% | ~78 |
-| This Belongs in a Museum | 2.00% | ~2,534 |
-| Catch and Decease | 2.00% | ~2,534 |
-| Escape from the Black Hole | 2.00% | ~2,534 |
-| This guy... again? | 2.00% | ~31 |
-| Bloody Graduation | 2.00% | ~31 |
-| Lost and Found | 2.00% | ~31 |
+| Malpractice Assurance | 5.00% | ~80 |
+| This Belongs in a Museum | 2.00% | ~2,535 |
+| Catch and Decease | 2.00% | ~2,535 |
+| Escape from the Black Hole | 2.00% | ~2,535 |
+| This guy... again? | 2.00% | ~32 |
+| Bloody Graduation | 2.00% | ~32 |
+| Lost and Found | 2.00% | ~32 |
 | Not Today! | 1.00% | ~1,267 |
 | Creep and Sleep | 1.00% | ~1,267 |
 | Meat and Greet | 1.00% | ~1,267 |
 | Overdue Notice | 1.00% | ~1,267 |
 | Autodidact | 1.00% | ~1,267 |
+| Serenity Now! | 0.90% | ~1,141 |
 | Ploughshares to Swords | 0.90% | ~14 |
-| Serenity Now! | 0.80% | ~1,014 |
 | Rush Hour | 0.80% | ~1,014 |
 | To Grandmother's House | 0.80% | ~1,014 |
 | FNG | 0.80% | ~1,014 |
 | Don't Make Me Turn This Coach Around | 0.70% | ~887 |
 | It Rings a Bell | 0.70% | ~887 |
+| Dissector | 0.70% | ~887 |
+| It Happens | 0.70% | ~887 |
+| Nope | 0.70% | ~887 |
 | Friends 'Til the End | 0.70% | ~11 |
-| Dissector | 0.60% | ~760 |
 | Banishment | 0.60% | ~760 |
 | Deprogramming | 0.60% | ~760 |
-| It Happens | 0.60% | ~760 |
 | Merry Time | 0.60% | ~760 |
 | Harvest Festival | 0.60% | ~760 |
 | Whale | 0.60% | ~760 |
 | A Place to Lay Your Head | 0.60% | ~760 |
 | Worldly Traveller | 0.60% | ~760 |
-| Nope | 0.60% | ~760 |
+| Road Trip | 0.60% | ~760 |
+| Resurrection | 0.50% | ~634 |
 | Unleash Hell | 0.50% | ~634 |
+| Funny Guy | 0.50% | ~634 |
+| Long Live the King | 0.50% | ~634 |
+| Boxcar Kid | 0.50% | ~634 |
 | Unfulfilled Desires | 0.50% | ~634 |
 | Predator | 0.50% | ~634 |
 | Now Stay Dead | 0.50% | ~634 |
 | Reverse Banditry | 0.50% | ~634 |
 | Spelunker | 0.50% | ~634 |
 | Ramble On | 0.50% | ~634 |
-| Road Trip | 0.50% | ~634 |
-| Resurrection | 0.40% | ~507 |
-| Funny Guy | 0.40% | ~507 |
-| Long Live the King | 0.40% | ~507 |
+| Unshackled | 0.50% | ~634 |
 | Wyrdly Reconstructed | 0.40% | ~507 |
-| Boxcar Kid | 0.40% | ~507 |
 | Ichthyophobic | 0.40% | ~507 |
 | No More Mouths to Feed | 0.40% | ~507 |
 | A Clear Conscience | 0.40% | ~507 |
 | When You Want Something Done Right | 0.40% | ~507 |
 | Utopia | 0.40% | ~507 |
-| Unshackled | 0.40% | ~507 |
 | Slap on the Wrist | 0.40% | ~6 |
 | This Looks Familiar | 0.30% | ~380 |
 | Hope Rekindled | 0.30% | ~380 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,700 (Ranked 84)  
-Completed: 3 (0.00%) (Ranked 373)  
+Progressed: 126,729 (Ranked 84)  
+Completed: 3 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -314,10 +314,10 @@ Completed: 3 (0.00%) (Ranked 373)
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
-| 2023-12-14 | 126,700 | 3 |
+| 2023-12-14 | 126,729 | 3 |
 ## Awards
 Max (Character Customization): 7,665  (Ranked 52)  
-Sum: 20,341 (Ranked 59)  
+Sum: 20,347 (Ranked 59)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -328,8 +328,8 @@ Diff (max vs sum): -7
 | This game has Amazing Characters | 1,437 |
 | This game is Extremely Fun | 1,435 |
 | This game has Amazing Storytelling | 1,370 |
+| This game has Unique Visuals | 1,343 |
 | This game has Quickly Understood Controls | 1,340 |
-| This game has Unique Visuals | 1,337 |
 | This game has a Creative Community | 1,000 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -656,4 +656,4 @@ Diff (max vs sum): -7
 | 2023-12-11 | 4.68 | - | 7,586 | 20,081 |
 | 2023-12-12 | 4.68 | - | 7,622 | 20,221 |
 | 2023-12-13 | 4.68 | - | 7,665 | 20,333 |
-| 2023-12-14 | 4.68 | - | 7,665 | 20,341 |
+| 2023-12-14 | 4.68 | - | 7,665 | 20,347 |

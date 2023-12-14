@@ -40,7 +40,7 @@
 | Falling with Style | 5.00% | ~1 |
 | Froggy Friendship | 5.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22 (Ranked 565)  
+Progressed: 22 (Ranked 566)  
 Completed: 1 (4.55%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -6,9 +6,9 @@ Rating: 4.58 (Ranked 453)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Beginner | 93.00% | ~66 |
-| Map reader | 75.00% | ~53 |
+| Map reader | 76.00% | ~54 |
 | Philanthropist | 70.00% | ~50 |
-| Adventurer | 68.00% | ~48 |
+| Adventurer | 69.00% | ~49 |
 | The brave little tailor | 52.00% | ~37 |
 | Archer | 52.00% | ~37 |
 | Field hand | 48.00% | ~34 |
@@ -57,7 +57,7 @@ Rating: 4.58 (Ranked 453)
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 71 (Ranked 482)  
-Completed: 0 (0.00%) (Ranked 373)  
+Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

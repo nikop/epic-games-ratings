@@ -3,9 +3,9 @@
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 320,
-  "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 374,
+  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
     "PcReleaseDate": "2023-02-12T11:00:00+00:00",
@@ -2446,8 +2446,8 @@
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-12-14T00:10:21.4929175+00:00",
+  "LastChanged_Achievements": "2023-12-14T01:56:43.0654608+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:00.8924092+00:00",
-  "LastUpdate_Ratings": "2023-12-13T23:57:32.3275945+00:00",
-  "LastUpdate_Achievements": "2023-12-14T00:10:21.4931589+00:00"
+  "LastUpdate_Ratings": "2023-12-14T01:44:29.060518+00:00",
+  "LastUpdate_Achievements": "2023-12-14T01:56:43.0656798+00:00"
 }

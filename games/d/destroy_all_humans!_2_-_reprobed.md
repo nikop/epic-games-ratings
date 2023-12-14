@@ -6,22 +6,22 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mash Machine | 47.00% | ~22 |
-| Rock of the Bay | 47.00% | ~22 |
-| Ducks in a Row, Fish in a Barrel | 32.00% | ~15 |
-| Furon Fashion | 26.00% | ~12 |
-| Shop Til They Drop | 26.00% | ~12 |
+| Mash Machine | 48.00% | ~23 |
+| Rock of the Bay | 48.00% | ~23 |
+| Ducks in a Row, Fish in a Barrel | 33.00% | ~16 |
+| Furon Fashion | 27.00% | ~13 |
+| Shop Til They Drop | 27.00% | ~13 |
 | I Look Up As I Walk to Takoshima | 19.00% | ~9 |
-| Earthly Pleasures | 17.00% | ~8 |
+| Earthly Pleasures | 19.00% | ~9 |
 | Upgreatest | 17.00% | ~8 |
 | Pimp My Raid | 15.00% | ~7 |
-| Perfect Probulator | 11.00% | ~5 |
-| Cult Following | 11.00% | ~5 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~5 |
-| Lie Back and Think of Albion | 9.00% | ~4 |
-| Fly Me to the Moon Base | 9.00% | ~4 |
-| Bodied Sattva | 9.00% | ~4 |
-| Dusted | 9.00% | ~4 |
+| Cult Following | 13.00% | ~6 |
+| Bodied Sattva | 13.00% | ~6 |
+| Perfect Probulator | 10.00% | ~5 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 10.00% | ~5 |
+| Lie Back and Think of Albion | 8.00% | ~4 |
+| Fly Me to the Moon Base | 8.00% | ~4 |
+| Dusted | 8.00% | ~4 |
 | Transmitting From Sol-3 | 6.00% | ~3 |
 | Freshly Squeezed | 6.00% | ~3 |
 | Die Nasty | 6.00% | ~3 |
@@ -51,8 +51,8 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47 (Ranked 514)  
-Completed: 0 (0.00%) (Ranked 373)  
+Progressed: 48 (Ranked 514)  
+Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 373)
 | 2023-12-11 | 36 | 0 |
 | 2023-12-12 | 40 | 0 |
 | 2023-12-13 | 45 | 0 |
-| 2023-12-14 | 47 | 0 |
+| 2023-12-14 | 48 | 0 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 481)  
 Sum: 36 (Ranked 511)  

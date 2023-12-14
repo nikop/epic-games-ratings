@@ -6,9 +6,9 @@
   "Ranking_Popularity": 362,
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 186,
-  "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 336,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1443,9 +1443,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6315,
+  "EOS_Progressed": 6317,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14263,6 +14263,11 @@
       "Time": "2023-12-14T00:07:24.5140594+00:00",
       "NumProgressed": 6315,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-14T01:53:02.9859825+00:00",
+      "NumProgressed": 6317,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14306,7 +14311,7 @@
       "Name": "Been there, Done That",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_EP_BALLGAME",
@@ -14330,7 +14335,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -14346,7 +14351,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -14370,7 +14375,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2842
+      "UsersEstimate": 2843
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -14378,7 +14383,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -14386,7 +14391,7 @@
       "Name": "Shackadelic",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -14410,7 +14415,7 @@
       "Name": "Apocalypso",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -14434,7 +14439,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4736
+      "UsersEstimate": 4738
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14482,7 +14487,7 @@
       "Name": "Narcissist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_PROMISINGENDEAVORS",
@@ -14530,7 +14535,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2905
+      "UsersEstimate": 2906
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -14538,7 +14543,7 @@
       "Name": "The Time For Wonders",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_TRADEISMYTRAIT",
@@ -14593,15 +14598,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6315,
+      "Progressed": 6317,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-13T06:00:46.4990656+00:00",
-  "LastChanged_Achievements": "2023-12-14T00:07:24.5140592+00:00",
+  "LastChanged_Achievements": "2023-12-14T01:53:02.9859821+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:43.3070216+00:00",
-  "LastUpdate_Ratings": "2023-12-13T23:57:08.7589761+00:00",
-  "LastUpdate_Achievements": "2023-12-14T00:07:24.5141438+00:00"
+  "LastUpdate_Ratings": "2023-12-14T01:44:12.7659236+00:00",
+  "LastUpdate_Achievements": "2023-12-14T01:53:02.9860567+00:00"
 }

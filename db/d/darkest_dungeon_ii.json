@@ -6,8 +6,8 @@
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
-  "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_Completed": 374,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9586,10 +9586,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20341,
       "NumberOfAwardsMax": 7665
+    },
+    {
+      "Time": "2023-12-14T01:46:33.3984308+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20347,
+      "NumberOfAwardsMax": 7665
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20341,
+  "NumberOfAwards": 20347,
   "NumberOfAwardsMax": 7665,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9651,7 +9657,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1337
+      "Count": 1343
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9666,9 +9672,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126700,
+  "EOS_Progressed": 126729,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 995,
+  "EOS_NewPlayers": 1016,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34896,6 +34902,11 @@
       "Time": "2023-12-14T00:09:01.9137286+00:00",
       "NumProgressed": 126700,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T01:55:43.6998729+00:00",
+      "NumProgressed": 126729,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -34913,9 +34924,9 @@
       "ID": "affinity_resolute_first_time",
       "SetID": "64l4lke",
       "Name": "Serenity Now!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1141
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -34937,9 +34948,9 @@
       "ID": "altar_of_hope_unlock_hero_flagellant",
       "SetID": "64l4lke",
       "Name": "Resurrection",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 634
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -34953,17 +34964,17 @@
       "ID": "altar_of_hope_unlock_hero_jester",
       "SetID": "64l4lke",
       "Name": "Funny Guy",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 634
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
       "SetID": "64l4lke",
       "Name": "Long Live the King",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 634
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -34977,9 +34988,9 @@
       "ID": "altar_of_hope_unlock_hero_runaway",
       "SetID": "64l4lke",
       "Name": "Boxcar Kid",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 634
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -35035,15 +35046,15 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2534
+      "UsersEstimate": 2535
     },
     {
       "ID": "combat_kill_cadavers",
       "SetID": "64l4lke",
       "Name": "Dissector",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 887
     },
     {
       "ID": "combat_kill_cosmic",
@@ -35123,7 +35134,7 @@
       "Name": "Catch and Decease",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2534
+      "UsersEstimate": 2535
     },
     {
       "ID": "combat_kill_librarian",
@@ -35147,7 +35158,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2534
+      "UsersEstimate": 2535
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35177,9 +35188,9 @@
       "ID": "combat_party_wipe_any_run_boss",
       "SetID": "64l4lke",
       "Name": "It Happens",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 887
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -35353,17 +35364,17 @@
       "ID": "run_end_abandon",
       "SetID": "64l4lke",
       "Name": "Nope",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 887
     },
     {
       "ID": "run_victory_act01",
       "SetID": "64l4lke",
       "Name": "Unshackled",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 634
     },
     {
       "ID": "run_victory_act02",
@@ -35417,9 +35428,9 @@
       "ID": "stagecoach_upgrade_equip_all",
       "SetID": "64l4lke",
       "Name": "Road Trip",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 760
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -35443,7 +35454,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "combat_kill_collector",
@@ -35451,7 +35462,7 @@
       "Name": "This guy... again?",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35499,7 +35510,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "quest_complete_crusader",
@@ -35507,7 +35518,7 @@
       "Name": "Lost and Found",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35538,21 +35549,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126700,
+      "Progressed": 126729,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1569,
+      "Progressed": 1598,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-14T00:00:26.0327189+00:00",
-  "LastChanged_Achievements": "2023-12-14T00:09:01.9137283+00:00",
+  "LastChanged": "2023-12-14T01:46:33.3984307+00:00",
+  "LastChanged_Achievements": "2023-12-14T01:55:43.6998724+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T00:00:26.0327195+00:00",
-  "LastUpdate_Achievements": "2023-12-14T00:09:01.9138728+00:00"
+  "LastUpdate_Ratings": "2023-12-14T01:46:33.3984312+00:00",
+  "LastUpdate_Achievements": "2023-12-14T01:55:43.7000319+00:00"
 }

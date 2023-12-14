@@ -8,9 +8,9 @@ Rating: 4.57 (Ranked 482)
 | Feels Familiar | 76.00% | ~861 |
 | I Broke It | 73.00% | ~827 |
 | Better On Ice | 68.00% | ~770 |
+| Notai Notes | 68.00% | ~770 |
+| Blue Dreams | 67.00% | ~759 |
 | Cutie Poro | 67.00% | ~759 |
-| Notai Notes | 67.00% | ~759 |
-| Blue Dreams | 66.00% | ~748 |
 | He's Famous! | 66.00% | ~748 |
 | Krugmazing | 65.00% | ~736 |
 | Moneyball | 61.00% | ~691 |
@@ -38,7 +38,7 @@ Rating: 4.57 (Ranked 482)
 | On The Rocks | 35.00% | ~397 |
 | Snowy Poro | 32.00% | ~363 |
 | Never Gets Old | 32.00% | ~363 |
-| Vertical Power | 27.00% | ~306 |
+| Vertical Power | 28.00% | ~317 |
 | One From The Heart | 14.00% | ~159 |
 | Yummy | 10.00% | ~113 |
 | Snowball Fightn't | 10.00% | ~113 |

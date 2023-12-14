@@ -6,9 +6,9 @@
   "Ranking_Popularity": 280,
   "Ranking_PopularitySum": 394,
   "Ranking_EOS_Progress": 42,
-  "Ranking_EOS_Completed": 373,
+  "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -667,9 +667,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 472217,
+  "EOS_Progressed": 472219,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25242,6 +25242,11 @@
       "Time": "2023-12-13T23:10:48.0908672+00:00",
       "NumProgressed": 472217,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-14T01:56:41.900978+00:00",
+      "NumProgressed": 472219,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -25269,7 +25274,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113332
+      "UsersEstimate": 113333
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -25301,7 +25306,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37777
+      "UsersEstimate": 37778
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -25341,7 +25346,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311663
+      "UsersEstimate": 311665
     },
     {
       "ID": "achievement_story_landa",
@@ -25365,7 +25370,7 @@
       "Name": "Through the mirror",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37777
+      "UsersEstimate": 37778
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -25373,7 +25378,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118054
+      "UsersEstimate": 118055
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -25413,7 +25418,7 @@
       "Name": "General Vivar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37777
+      "UsersEstimate": 37778
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -25429,7 +25434,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94443
+      "UsersEstimate": 94444
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -25445,7 +25450,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37777
+      "UsersEstimate": 37778
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -25677,7 +25682,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207775
+      "UsersEstimate": 207776
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -25685,7 +25690,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141665
+      "UsersEstimate": 141666
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -25757,7 +25762,7 @@
       "Name": "Kaos Rule",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37777
+      "UsersEstimate": 37778
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -25884,21 +25889,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16151,
+      "Progressed": 16153,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472217,
+      "Progressed": 472219,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-12T20:57:25.1414435+00:00",
-  "LastChanged_Achievements": "2023-12-14T00:10:20.3328787+00:00",
+  "LastChanged_Achievements": "2023-12-14T01:56:41.9009777+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.6716506+00:00",
-  "LastUpdate_Ratings": "2023-12-13T23:58:16.8346088+00:00",
-  "LastUpdate_Achievements": "2023-12-14T00:10:20.3330824+00:00"
+  "LastUpdate_Ratings": "2023-12-14T01:45:01.4400096+00:00",
+  "LastUpdate_Achievements": "2023-12-14T01:56:41.901153+00:00"
 }

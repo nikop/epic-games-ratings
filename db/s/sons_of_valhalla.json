@@ -3,9 +3,9 @@
   "Name": "Sons of Valhalla",
   "ProductSlug": "sons-of-valhalla-97db6e",
   "Ranking_EOS_Progress": 797,
-  "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 471,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 374,
+  "Ranking_EOS_NewPlayers": 472,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-30T22:06:40.9368554+00:00",
-  "LastChanged_Achievements": "2023-12-14T00:04:40.1615838+00:00",
+  "LastChanged_Achievements": "2023-12-14T01:51:04.6148911+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:26.5635096+00:00",
-  "LastUpdate_Ratings": "2023-12-13T23:58:51.9307728+00:00",
-  "LastUpdate_Achievements": "2023-12-14T00:04:40.1615853+00:00"
+  "LastUpdate_Ratings": "2023-12-14T01:45:26.1698166+00:00",
+  "LastUpdate_Achievements": "2023-12-14T01:51:04.6148942+00:00"
 }

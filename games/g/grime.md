@@ -16,6 +16,7 @@ Number of Ratings: 46  (23.09.2022)
 | Silenced Whispers | 0.30% | ~487 |
 | Yank | 0.30% | ~487 |
 | Sharpened Vessel | 0.30% | ~487 |
+| Assimilation | 0.20% | ~325 |
 | Shapely | 0.20% | ~325 |
 | Scion | 0.20% | ~324 |
 | Glare | 0.20% | ~324 |
@@ -28,7 +29,6 @@ Number of Ratings: 46  (23.09.2022)
 | Spiral Heart | 0.10% | ~161 |
 | Bloodhunter | 0.10% | ~162 |
 | Skinmaker | 0.10% | ~162 |
-| Assimilation | 0.10% | ~162 |
 | Instruments | 0.10% | ~162 |
 | Zygote | 0.10% | ~162 |
 | Breath | 0.10% | ~162 |
@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~162 |
 | Intensify | 0.10% | ~162 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 162,417 (Ranked 78)  
-Completed: 307 (0.19%) (Ranked 265)  
+Progressed: 162,425 (Ranked 78)  
+Completed: 307 (0.19%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -268,7 +268,7 @@ Completed: 307 (0.19%) (Ranked 265)
 | 2023-12-11 | 162,182 | 294 |
 | 2023-12-12 | 162,296 | 298 |
 | 2023-12-13 | 162,413 | 307 |
-| 2023-12-14 | 162,417 | 307 |
+| 2023-12-14 | 162,425 | 307 |
 ## Awards
 Max (Highly Recommended): 56  (Ranked 423)  
 Sum: 402 (Ranked 345)  

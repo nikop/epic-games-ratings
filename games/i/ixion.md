@@ -64,7 +64,7 @@ Rating: 4.58 (Ranked 453)
 | Suburban Perfection | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,429 (Ranked 209)  
-Completed: 0 (0.00%) (Ranked 373)  
+Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

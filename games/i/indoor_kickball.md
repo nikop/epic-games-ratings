@@ -7,13 +7,13 @@
 | Hat Unlocked | 84.00% | ~83 |
 | Accessory Unlocked | 83.00% | ~82 |
 | Butter Fingers | 77.00% | ~76 |
+| Character Unlocked | 76.00% | ~75 |
 | Homer | 76.00% | ~75 |
-| Character Unlocked | 75.00% | ~74 |
 | Have a good trip! | 73.00% | ~72 |
 | Kickball Unlocked | 71.00% | ~70 |
 | Settle Down | 71.00% | ~70 |
 | Stay Hydrated | 66.00% | ~65 |
-| First Win | 63.00% | ~62 |
+| First Win | 64.00% | ~63 |
 | True Story! | 46.00% | ~46 |
 | Bedroom Secret Spot | 41.00% | ~41 |
 | At least everyone still had fun | 34.00% | ~34 |
@@ -46,7 +46,7 @@
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 99 (Ranked 452)  
-Completed: 0 (0.00%) (Ranked 373)  
+Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

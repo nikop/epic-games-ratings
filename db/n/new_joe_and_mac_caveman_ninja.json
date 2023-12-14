@@ -4,8 +4,8 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 471,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229,
+  "EOS_Progressed": 231,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.62,
+  "EOS_Completed_Percentage": 2.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -426,6 +426,11 @@
       "Time": "2023-12-01T19:04:05.6113482+00:00",
       "NumProgressed": 229,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-14T01:52:50.7886618+00:00",
+      "NumProgressed": 231,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -437,7 +442,7 @@
       "Name": "The T-Rex plain.",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "02",
@@ -445,7 +450,7 @@
       "Name": "Crazy Jungle.",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "03",
@@ -467,9 +472,9 @@
       "ID": "05",
       "SetID": "6glb5g1",
       "Name": "A turbulent river.",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "06",
@@ -517,7 +522,7 @@
       "Name": "Rocky fall.",
       "Percentage": 12,
       "XP": 80,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "12",
@@ -556,7 +561,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 229,
+      "Progressed": 231,
       "Completed": 6
     }
   ],
@@ -564,8 +569,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-12-14T00:07:07.939265+00:00",
+  "LastChanged_Achievements": "2023-12-14T01:52:50.7886615+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:21.3905331+00:00",
-  "LastUpdate_Ratings": "2023-12-13T23:58:04.15507+00:00",
-  "LastUpdate_Achievements": "2023-12-14T00:07:07.9392726+00:00"
+  "LastUpdate_Ratings": "2023-12-14T01:44:51.2662136+00:00",
+  "LastUpdate_Achievements": "2023-12-14T01:52:50.7886718+00:00"
 }

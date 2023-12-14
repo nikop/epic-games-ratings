@@ -3,9 +3,9 @@
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 325,
-  "Ranking_EOS_Completed": 373,
+  "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -23,10 +23,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 452,
-  "EOS_Completed": 0,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 28,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
       "Time": "2023-10-18T09:06:38.9917479+00:00",
@@ -1162,6 +1162,11 @@
       "Time": "2023-12-13T04:08:22.6757573+00:00",
       "NumProgressed": 452,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T01:50:30.598464+00:00",
+      "NumProgressed": 452,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1212,9 +1217,9 @@
       "ID": "DEFENCE_LEVEL_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Hardened Hedgehog",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 23
     },
     {
       "ID": "ENEMY_DEFEATED_ALL",
@@ -1444,9 +1449,9 @@
       "ID": "SUB_CLEAR_ALL",
       "SetID": "apihg0e",
       "Name": "Expert Historian",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SUB_CLEAR_ISLAND1",
@@ -1476,9 +1481,9 @@
       "ID": "SUB_CLEAR_ISLAND4",
       "SetID": "apihg0e",
       "Name": "Ouranos Island Expert",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TOTAL_DESTROYED_OBJECT",
@@ -1494,13 +1499,13 @@
       "ID": "apihg0e",
       "IsBase": true,
       "Progressed": 452,
-      "Completed": 0
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-14T00:03:53.1968964+00:00",
+  "LastChanged_Achievements": "2023-12-14T01:50:30.5984634+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:06.567221+00:00",
-  "LastUpdate_Ratings": "2023-12-14T00:03:05.6364209+00:00",
-  "LastUpdate_Achievements": "2023-12-14T00:03:53.1969341+00:00"
+  "LastUpdate_Ratings": "2023-12-14T01:49:55.9787226+00:00",
+  "LastUpdate_Achievements": "2023-12-14T01:50:30.5984944+00:00"
 }

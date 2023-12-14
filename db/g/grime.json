@@ -6,7 +6,7 @@
   "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 78,
-  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
@@ -1657,10 +1657,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 162417,
+  "EOS_Progressed": 162425,
   "EOS_Completed": 307,
-  "EOS_NewPlayers": 924,
-  "EOS_NewCompleters": 89,
+  "EOS_NewPlayers": 925,
+  "EOS_NewCompleters": 88,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
@@ -19107,6 +19107,11 @@
       "Time": "2023-12-14T00:07:21.4119968+00:00",
       "NumProgressed": 162417,
       "NumCompleted": 307
+    },
+    {
+      "Time": "2023-12-14T01:53:00.6562764+00:00",
+      "NumProgressed": 162425,
+      "NumCompleted": 307
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -19141,9 +19146,9 @@
       "ID": "ACQUIRE_ALLTRAITS",
       "SetID": "ccc0dlh",
       "Name": "Assimilation",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 325
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -19486,21 +19491,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 162000,
+      "Progressed": 162008,
       "Completed": 1237
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 162417,
+      "Progressed": 162425,
       "Completed": 307
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-12T15:59:50.786914+00:00",
-  "LastChanged_Achievements": "2023-12-14T00:07:21.4119965+00:00",
+  "LastChanged_Achievements": "2023-12-14T01:53:00.6562761+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-14T00:00:23.5428058+00:00",
-  "LastUpdate_Achievements": "2023-12-14T00:07:21.4120835+00:00"
+  "LastUpdate_Ratings": "2023-12-14T01:46:31.5065939+00:00",
+  "LastUpdate_Achievements": "2023-12-14T01:53:00.6563621+00:00"
 }
