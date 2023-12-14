@@ -9,9 +9,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | Matching | 1.00% | ~25 |
 | First Steps | 0.80% | ~1,928 |
 | Uncharted Territory | 0.80% | ~1,928 |
+| Getting A Glimpse | 0.70% | ~1,687 |
 | Not Touching You | 0.70% | ~17 |
 | Heavy Hitter | 0.60% | ~1,446 |
-| Getting A Glimpse | 0.60% | ~1,446 |
 | That Was Quick | 0.60% | ~1,446 |
 | Colorful Corpse | 0.60% | ~1,446 |
 | Defeat The Dark | 0.60% | ~1,446 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,003 (Ranked 64)  
+Progressed: 241,005 (Ranked 64)  
 Completed: 298 (0.12%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -383,10 +383,10 @@ Completed: 298 (0.12%) (Ranked 286)
 | 2023-12-11 | 240,899 | 294 |
 | 2023-12-12 | 240,936 | 296 |
 | 2023-12-13 | 240,984 | 298 |
-| 2023-12-14 | 241,003 | 298 |
+| 2023-12-14 | 241,005 | 298 |
 ## Awards
 Max (Quickly Understood Controls): 1,508  (Ranked 134)  
-Sum: 11,729 (Ranked 86)  
+Sum: 11,730 (Ranked 86)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -396,7 +396,7 @@ Diff (max vs sum): 48
 | This game has Challenging Combat | 1,439 |
 | This game is Extremely Fun | 1,419 |
 | This game is Highly Recommended | 1,387 |
-| This game has Amazing Storytelling | 1,328 |
+| This game has Amazing Storytelling | 1,329 |
 | This game has Amazing Characters | 1,231 |
 | This game has Unique Visuals | 1,230 |
 | This game has Obsessive Gameplay | 1,088 |
@@ -634,3 +634,4 @@ Diff (max vs sum): 48
 | 2023-12-11 | 4.58 | - | 1,507 | 11,723 |
 | 2023-12-12 | 4.58 | - | 1,507 | 11,727 |
 | 2023-12-13 | 4.58 | - | 1,508 | 11,729 |
+| 2023-12-14 | 4.58 | - | 1,508 | 11,730 |

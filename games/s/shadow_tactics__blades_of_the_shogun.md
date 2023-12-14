@@ -6,12 +6,12 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,290 |
-| A thief's beginning | 10.00% | ~21,908 |
-| Thorough | 10.00% | ~21,908 |
-| Disguised | 9.00% | ~19,717 |
-| Rollin' | 9.00% | ~19,717 |
-| Tanuki Time | 9.00% | ~19,717 |
+| Genin | 12.00% | ~26,291 |
+| A thief's beginning | 10.00% | ~21,909 |
+| Thorough | 10.00% | ~21,909 |
+| Disguised | 9.00% | ~19,718 |
+| Rollin' | 9.00% | ~19,718 |
+| Tanuki Time | 9.00% | ~19,718 |
 | Rescue Takuma | 8.00% | ~17,527 |
 | Stoned Ox | 8.00% | ~17,527 |
 | Happy Planning | 7.00% | ~15,336 |
@@ -25,13 +25,13 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 5.00% | ~10,954 |
 | Prisoners | 5.00% | ~10,954 |
 | Too Early | 5.00% | ~10,954 |
-| Gear up | 4.00% | ~8,763 |
-| Happy little accidents | 4.00% | ~8,763 |
-| Noboru | 4.00% | ~8,763 |
-| Still Rollin' | 4.00% | ~8,763 |
-| It's raining men | 3.00% | ~6,572 |
-| Stoned | 3.00% | ~6,572 |
-| The Old Way | 3.00% | ~6,572 |
+| Gear up | 4.00% | ~8,764 |
+| Happy little accidents | 4.00% | ~8,764 |
+| Noboru | 4.00% | ~8,764 |
+| Still Rollin' | 4.00% | ~8,764 |
+| It's raining men | 3.00% | ~6,573 |
+| Stoned | 3.00% | ~6,573 |
+| The Old Way | 3.00% | ~6,573 |
 | Atheist Ox | 2.00% | ~4,382 |
 | No Gimmicks | 2.00% | ~4,382 |
 | Old Man | 2.00% | ~4,382 |
@@ -42,7 +42,7 @@ Number of Ratings: 495  (23.09.2022)
 | When Cut Across the Neck | 0.90% | ~1,972 |
 | High Five the Moon | 0.80% | ~1,753 |
 | The Cave | 0.80% | ~1,753 |
-| Time Paradox | 0.60% | ~1,314 |
+| Time Paradox | 0.60% | ~1,315 |
 | Merciful | 0.50% | ~1,095 |
 | Five Shadows | 0.40% | ~876 |
 | Complete Mastery | 0.20% | ~438 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~219 |
 | Release the Kraken | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,082 (Ranked 72)  
+Progressed: 219,090 (Ranked 72)  
 Completed: 101 (0.05%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 101 (0.05%) (Ranked 325)
 | 2023-12-11 | 218,692 | 100 |
 | 2023-12-12 | 218,864 | 100 |
 | 2023-12-13 | 219,036 | 101 |
-| 2023-12-14 | 219,082 | 101 |
+| 2023-12-14 | 219,090 | 101 |
 ## Awards
 Max (Great for Beginners): 584  (Ranked 201)  
 Sum: 4,903 (Ranked 144)  

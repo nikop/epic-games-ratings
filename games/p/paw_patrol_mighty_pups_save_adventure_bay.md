@@ -20,11 +20,11 @@
 | Training Day | 33.00% | ~15 |
 | In the Air | 33.00% | ~15 |
 | Never Miss | 33.00% | ~15 |
+| Animal Sighting | 29.00% | ~13 |
 | The Fastest | 27.00% | ~12 |
-| Animal Sighting | 27.00% | ~12 |
 | Don’t Miss Any | 24.00% | ~11 |
+| You Have Been Everywhere | 22.00% | ~10 |
 | Adventure Bay’s Citizen | 22.00% | ~10 |
-| You Have Been Everywhere | 20.00% | ~9 |
 | Mountain and Ice | 18.00% | ~8 |
 | Everything Under Control | 16.00% | ~7 |
 | Nothing Can Stop You | 11.00% | ~5 |

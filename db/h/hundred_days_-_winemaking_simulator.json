@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 15855,
+  "EOS_Progressed": 15858,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 756,
+  "EOS_NewPlayers": 758,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13515,6 +13515,11 @@
       "Time": "2023-12-14T06:10:04.2165666+00:00",
       "NumProgressed": 15855,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-14T07:10:27.9898848+00:00",
+      "NumProgressed": 15858,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -13575,7 +13580,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 6659
+      "UsersEstimate": 6660
     },
     {
       "ID": "a_19",
@@ -13583,7 +13588,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "a_2",
@@ -13623,7 +13628,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "a_25",
@@ -13774,7 +13779,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 15855,
+      "Progressed": 15858,
       "Completed": 12
     }
   ],
@@ -13782,8 +13787,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-14T06:10:04.2165662+00:00",
+  "LastChanged_Achievements": "2023-12-14T07:10:27.9898846+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:11.7677951+00:00",
-  "LastUpdate_Ratings": "2023-12-14T06:00:34.6095794+00:00",
-  "LastUpdate_Achievements": "2023-12-14T06:10:04.2166525+00:00"
+  "LastUpdate_Ratings": "2023-12-14T07:01:05.8140589+00:00",
+  "LastUpdate_Achievements": "2023-12-14T07:10:27.9899657+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8428,
+  "EOS_Progressed": 8429,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8437,6 +8437,11 @@
       "Time": "2023-12-14T06:10:45.4050174+00:00",
       "NumProgressed": 8428,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T07:11:12.6819137+00:00",
+      "NumProgressed": 8429,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8449,7 +8454,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 6068
+      "UsersEstimate": 6069
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -8465,7 +8470,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3118
+      "UsersEstimate": 3119
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -8481,7 +8486,7 @@
       "Name": "Clear the Air",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -8545,7 +8550,7 @@
       "Name": "Miner 49er",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3708
+      "UsersEstimate": 3709
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -8601,7 +8606,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 5141
+      "UsersEstimate": 5142
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -8609,7 +8614,7 @@
       "Name": "Mist Walker",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2781
+      "UsersEstimate": 2782
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -8625,7 +8630,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3961
+      "UsersEstimate": 3962
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -8665,7 +8670,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -8728,22 +8733,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8428,
+      "Progressed": 8429,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1045,
-      "Completed": 1045
+      "Progressed": 1046,
+      "Completed": 1046
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-11T03:03:30.2960645+00:00",
-  "LastChanged_Achievements": "2023-12-14T06:10:45.4050171+00:00",
+  "LastChanged_Achievements": "2023-12-14T07:11:12.6819135+00:00",
   "LastUpdate_AppInfo": "2023-12-08T10:57:06.6464777+00:00",
-  "LastUpdate_Ratings": "2023-12-14T06:03:50.7211654+00:00",
-  "LastUpdate_Achievements": "2023-12-14T06:10:45.4050772+00:00"
+  "LastUpdate_Ratings": "2023-12-14T07:04:00.5853393+00:00",
+  "LastUpdate_Achievements": "2023-12-14T07:11:12.6819791+00:00"
 }

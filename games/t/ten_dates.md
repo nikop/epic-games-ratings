@@ -24,7 +24,7 @@
 | Go well, lad | 3.00% | ~10 |
 | Muggy Misha | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 323 (Ranked 355)  
+Progressed: 323 (Ranked 356)  
 Completed: 4 (1.24%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |

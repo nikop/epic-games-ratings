@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9678,9 +9678,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126793,
+  "EOS_Progressed": 126808,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1064,
+  "EOS_NewPlayers": 1077,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34938,6 +34938,11 @@
       "Time": "2023-12-14T06:09:33.0313893+00:00",
       "NumProgressed": 126793,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T07:09:54.074811+00:00",
+      "NumProgressed": 126808,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35011,9 +35016,9 @@
       "ID": "altar_of_hope_unlock_hero_occultist",
       "SetID": "64l4lke",
       "Name": "Wyrdly Reconstructed",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 634
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -35243,9 +35248,9 @@
       "ID": "driving_biome_clear_city",
       "SetID": "64l4lke",
       "Name": "Rush Hour",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1141
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -35323,9 +35328,9 @@
       "ID": "hoarder_buy_epic_trinket",
       "SetID": "64l4lke",
       "Name": "Whale",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 888
     },
     {
       "ID": "hospital_full_service",
@@ -35485,7 +35490,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "combat_kill_collector",
@@ -35541,7 +35546,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "quest_complete_crusader",
@@ -35549,7 +35554,7 @@
       "Name": "Lost and Found",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35580,21 +35585,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126793,
+      "Progressed": 126808,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1662,
+      "Progressed": 1677,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-14T05:00:52.0976777+00:00",
-  "LastChanged_Achievements": "2023-12-14T06:09:33.0313888+00:00",
+  "LastChanged_Achievements": "2023-12-14T07:09:54.0748108+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T06:00:53.6344313+00:00",
-  "LastUpdate_Achievements": "2023-12-14T06:09:33.0315499+00:00"
+  "LastUpdate_Ratings": "2023-12-14T07:01:26.4105779+00:00",
+  "LastUpdate_Achievements": "2023-12-14T07:09:54.0749563+00:00"
 }

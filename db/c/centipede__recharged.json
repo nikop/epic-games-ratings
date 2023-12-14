@@ -6,9 +6,9 @@
   "Ranking_Popularity": 563,
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 140,
-  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -335,7 +335,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23328,
+  "EOS_Progressed": 23330,
   "EOS_Completed": 117,
   "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 1,
@@ -19770,6 +19770,11 @@
       "Time": "2023-12-14T06:05:46.359463+00:00",
       "NumProgressed": 23328,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-12-14T07:06:04.7903183+00:00",
+      "NumProgressed": 23330,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 16,
@@ -19789,7 +19794,7 @@
       "Name": "Burning For You",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6065
+      "UsersEstimate": 6066
     },
     {
       "ID": "Deadline",
@@ -19829,7 +19834,7 @@
       "Name": "Fireworks",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 6998
+      "UsersEstimate": 6999
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -19845,7 +19850,7 @@
       "Name": "I Am The Storm",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3732
+      "UsersEstimate": 3733
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -19853,7 +19858,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 9098
+      "UsersEstimate": 9099
     },
     {
       "ID": "Mirrors",
@@ -19877,7 +19882,7 @@
       "Name": "Shooting Shark",
       "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 11197
+      "UsersEstimate": 11198
     },
     {
       "ID": "Sole_Survivor",
@@ -19908,15 +19913,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 23328,
+      "Progressed": 23330,
       "Completed": 117
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-12-12T11:59:02.4722779+00:00",
-  "LastChanged_Achievements": "2023-12-14T06:05:46.3594628+00:00",
+  "LastChanged_Achievements": "2023-12-14T07:06:04.7903181+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:23.9972538+00:00",
-  "LastUpdate_Ratings": "2023-12-14T06:00:22.9782272+00:00",
-  "LastUpdate_Achievements": "2023-12-14T06:05:46.3595553+00:00"
+  "LastUpdate_Ratings": "2023-12-14T07:00:53.0635668+00:00",
+  "LastUpdate_Achievements": "2023-12-14T07:06:04.7904371+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Blazing Sails",
   "ProductSlug": "blazing-sails",
   "Ranking_Rating": 1026,
-  "Ranking_Popularity": 228,
-  "Ranking_PopularitySum": 183,
+  "Ranking_Popularity": 209,
+  "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 477,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-12T15:00:00+00:00",
     "PcReleaseDate": "2020-11-05T15:00:00+00:00",
@@ -2229,12 +2229,18 @@
       "Rating": 3.95,
       "NumberOfAwards": 2784,
       "NumberOfAwardsMax": 440
+    },
+    {
+      "Time": "2023-12-14T07:00:34.1842864+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 3329,
+      "NumberOfAwardsMax": 543
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2784,
-  "NumberOfAwardsMax": 440,
-  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwards": 3329,
+  "NumberOfAwardsMax": 543,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Amazing Characters",
@@ -2264,7 +2270,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 423
+      "Count": 425
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2282,7 +2288,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 531
+      "Count": 543
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2309,8 +2315,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-12-14T06:00:06.2011577+00:00",
+  "LastChanged": "2023-12-14T07:00:34.1842862+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:23.8694084+00:00",
-  "LastUpdate_Ratings": "2023-12-14T06:00:06.2011581+00:00",
-  "LastUpdate_Achievements": "2023-12-14T06:09:44.3163488+00:00"
+  "LastUpdate_Ratings": "2023-12-14T07:00:34.1842867+00:00",
+  "LastUpdate_Achievements": "2023-12-14T07:10:06.0515524+00:00"
 }

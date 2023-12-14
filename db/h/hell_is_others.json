@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1327,9 +1327,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259320,
+  "EOS_Progressed": 259322,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24057,6 +24057,11 @@
       "Time": "2023-12-14T06:05:03.4373064+00:00",
       "NumProgressed": 259320,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T07:05:18.1629905+00:00",
+      "NumProgressed": 259322,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -24068,7 +24073,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18152
+      "UsersEstimate": 18153
     },
     {
       "ID": "Act2",
@@ -24116,7 +24121,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80389
+      "UsersEstimate": 80390
     },
     {
       "ID": "BackHomeNTimes",
@@ -24306,9 +24311,9 @@
       "ID": "KillCrawlingThing",
       "SetID": "3l9dm1h",
       "Name": "It took a while",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7780
+      "UsersEstimate": 5186
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -24515,7 +24520,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259320,
+      "Progressed": 259322,
       "Completed": 3
     }
   ],
@@ -24523,8 +24528,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-13T14:02:36.8931746+00:00",
-  "LastChanged_Achievements": "2023-12-14T06:05:03.4373061+00:00",
+  "LastChanged_Achievements": "2023-12-14T07:05:18.1629899+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:52.9725586+00:00",
-  "LastUpdate_Ratings": "2023-12-14T06:03:16.4642626+00:00",
-  "LastUpdate_Achievements": "2023-12-14T06:05:03.437417+00:00"
+  "LastUpdate_Ratings": "2023-12-14T07:03:23.6353567+00:00",
+  "LastUpdate_Achievements": "2023-12-14T07:05:18.1631507+00:00"
 }

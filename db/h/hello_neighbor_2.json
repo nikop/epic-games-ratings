@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -471,9 +471,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3347,
+  "EOS_Progressed": 3348,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.12,
   "EosHistory": [
@@ -5311,6 +5311,11 @@
       "Time": "2023-12-13T23:07:37.515586+00:00",
       "NumProgressed": 3347,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-12-14T07:08:16.0302481+00:00",
+      "NumProgressed": 3348,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 14,
@@ -5330,7 +5335,7 @@
       "Name": "Case Closed",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -5362,7 +5367,7 @@
       "Name": "Easy As Pie",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -5386,7 +5391,7 @@
       "Name": "Imprisonment",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -5394,7 +5399,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "ACH_REUNION",
@@ -5402,7 +5407,7 @@
       "Name": "Reunion",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -5410,7 +5415,7 @@
       "Name": "Shovel Night",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -5433,7 +5438,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3347,
+      "Progressed": 3348,
       "Completed": 138
     }
   ],
@@ -5441,8 +5446,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-18T13:02:58.1900278+00:00",
-  "LastChanged_Achievements": "2023-12-14T06:07:50.2949516+00:00",
+  "LastChanged_Achievements": "2023-12-14T07:08:16.0302477+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:09.6040213+00:00",
-  "LastUpdate_Ratings": "2023-12-14T06:00:48.7115103+00:00",
-  "LastUpdate_Achievements": "2023-12-14T06:07:50.294989+00:00"
+  "LastUpdate_Ratings": "2023-12-14T07:01:20.9452841+00:00",
+  "LastUpdate_Achievements": "2023-12-14T07:08:16.0302829+00:00"
 }

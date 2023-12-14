@@ -6,50 +6,50 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 1.00% | ~281 |
-| The Old Grandmaster | 0.80% | ~5,750 |
-| The Assault | 0.80% | ~5,750 |
-| Life is your teacher | 0.80% | ~5,750 |
-| State of constant learning | 0.80% | ~5,750 |
-| Qi Gong: Breath | 0.80% | ~5,750 |
-| Lightning Hands | 0.80% | ~5,750 |
-| Project Arena | 0.80% | ~225 |
-| The Hateful Pole Fighter | 0.70% | ~5,032 |
-| A Lady's Blood in the Snow | 0.70% | ~5,032 |
-| Qi Gong: Essence | 0.70% | ~5,032 |
-| Path of the Prospect | 0.70% | ~5,032 |
-| Rumble in the Hangar | 0.70% | ~5,032 |
-| Lady Wing Chun | 0.60% | ~4,313 |
-| Furious Fists | 0.60% | ~4,313 |
-| Kill Nil | 0.60% | ~4,313 |
-| Stuntmaster | 0.60% | ~4,313 |
-| Street Fighting | 0.60% | ~4,313 |
-| Old Child | 0.60% | ~4,313 |
-| Take damage to save time | 0.60% | ~4,313 |
-| Fight the way you practice | 0.60% | ~169 |
-| Scareless | 0.50% | ~3,594 |
-| Qi Gong: Mind | 0.50% | ~3,594 |
-| Kung-Fu Tussle | 0.50% | ~3,594 |
-| Martial Hub | 0.50% | ~140 |
-| Dance of the Praying Mantis | 0.40% | ~2,875 |
-| I know Kung-Fu | 0.40% | ~2,875 |
-| Bloody Sport | 0.40% | ~112 |
-| Muk Yan Master | 0.30% | ~2,156 |
-| Tiger on Fire | 0.30% | ~2,156 |
-| Source of Flying Daggers | 0.30% | ~2,156 |
-| Iron Money | 0.30% | ~2,156 |
-| Detective Story | 0.30% | ~2,156 |
-| The best strikes are the ones we avoid | 0.30% | ~84 |
+| Diligence as a goal | 1.00% | ~283 |
+| The Old Grandmaster | 0.80% | ~5,752 |
+| The Assault | 0.80% | ~5,752 |
+| Life is your teacher | 0.80% | ~5,752 |
+| State of constant learning | 0.80% | ~5,752 |
+| Qi Gong: Breath | 0.80% | ~5,752 |
+| Lightning Hands | 0.80% | ~5,752 |
+| Project Arena | 0.80% | ~226 |
+| The Hateful Pole Fighter | 0.70% | ~5,033 |
+| A Lady's Blood in the Snow | 0.70% | ~5,033 |
+| Qi Gong: Essence | 0.70% | ~5,033 |
+| Path of the Prospect | 0.70% | ~5,033 |
+| Rumble in the Hangar | 0.70% | ~5,033 |
+| Lady Wing Chun | 0.60% | ~4,314 |
+| Furious Fists | 0.60% | ~4,314 |
+| Kill Nil | 0.60% | ~4,314 |
+| Stuntmaster | 0.60% | ~4,314 |
+| Street Fighting | 0.60% | ~4,314 |
+| Old Child | 0.60% | ~4,314 |
+| Take damage to save time | 0.60% | ~4,314 |
+| Fight the way you practice | 0.60% | ~170 |
+| Scareless | 0.50% | ~3,595 |
+| Qi Gong: Mind | 0.50% | ~3,595 |
+| Kung-Fu Tussle | 0.50% | ~3,595 |
+| Martial Hub | 0.50% | ~142 |
+| Dance of the Praying Mantis | 0.40% | ~2,876 |
+| I know Kung-Fu | 0.40% | ~2,876 |
+| Bloody Sport | 0.40% | ~113 |
+| Muk Yan Master | 0.30% | ~2,157 |
+| Tiger on Fire | 0.30% | ~2,157 |
+| Source of Flying Daggers | 0.30% | ~2,157 |
+| Iron Money | 0.30% | ~2,157 |
+| Detective Story | 0.30% | ~2,157 |
+| The best strikes are the ones we avoid | 0.30% | ~85 |
 | Legendary Talismans of Wuxing | 0.20% | ~1,438 |
 | Prodigal Child | 0.20% | ~1,438 |
 | Knowledge Greed | 0.20% | ~1,438 |
 | The 36th Chamber of Kung-Fu | 0.20% | ~1,438 |
 | Sword Stained With Blood | 0.20% | ~1,438 |
 | The Pit Protector | 0.20% | ~1,438 |
-| Deadly Venom | 0.20% | ~56 |
-| A Touch of Acumen | 0.20% | ~56 |
-| Skill and an even stronger will | 0.20% | ~56 |
-| Beatmaker | 0.20% | ~56 |
+| Deadly Venom | 0.20% | ~57 |
+| A Touch of Acumen | 0.20% | ~57 |
+| Skill and an even stronger will | 0.20% | ~57 |
+| Beatmaker | 0.20% | ~57 |
 | Drunken Fighter | 0.10% | ~719 |
 | Martial Artist | 0.10% | ~719 |
 | Healing Memory | 0.10% | ~719 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~28 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,788 (Ranked 23)  
+Progressed: 719,007 (Ranked 23)  
 Completed: 12,953 (1.80%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 12,953 (1.80%) (Ranked 136)
 | 2023-12-11 | 717,971 | 12,952 |
 | 2023-12-12 | 717,993 | 12,952 |
 | 2023-12-13 | 718,112 | 12,953 |
-| 2023-12-14 | 718,788 | 12,953 |
+| 2023-12-14 | 719,007 | 12,953 |
 ## Awards
 Max (Great Boss Battles): 6,923  (Ranked 55)  
 Sum: 12,152 (Ranked 83)  

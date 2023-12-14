@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 477,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2019-09-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -445,6 +445,6 @@
   "FirstSeen": "2022-07-22T20:18:20.314289+00:00",
   "LastChanged": "2023-11-11T05:59:30.4987164+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:25.7998925+00:00",
-  "LastUpdate_Ratings": "2023-12-14T06:01:33.0625046+00:00",
-  "LastUpdate_Achievements": "2023-12-14T06:08:29.0649979+00:00"
+  "LastUpdate_Ratings": "2023-12-14T07:02:08.4067113+00:00",
+  "LastUpdate_Achievements": "2023-12-14T07:08:57.5020987+00:00"
 }

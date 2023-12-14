@@ -21,8 +21,8 @@
 | No bullying more | 70.00% | ~256 |
 | Hello, world! | 70.00% | ~256 |
 | Pal of your father? | 67.00% | ~245 |
+| Spirit of the past | 66.00% | ~242 |
 | Employee of the month | 66.00% | ~242 |
-| Spirit of the past | 65.00% | ~238 |
 | Law student | 62.00% | ~227 |
 | Workout professional | 61.00% | ~223 |
 | Handyman | 60.00% | ~220 |
@@ -40,7 +40,7 @@
 | Fight is life | 48.00% | ~176 |
 | Mysterious voice | 47.00% | ~172 |
 | Guiding on the right path | 47.00% | ~172 |
-| No blades in the gym | 44.00% | ~161 |
+| No blades in the gym | 45.00% | ~165 |
 | Champion – no way back | 43.00% | ~157 |
 | Underground dwellers | 42.00% | ~154 |
 | Responsible approach | 42.00% | ~154 |
@@ -72,7 +72,7 @@
 | Silver’s past | 30.00% | ~110 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 366 (Ranked 341)  
-Completed: 9 (2.46%) (Ranked 124)  
+Completed: 9 (2.46%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

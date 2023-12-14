@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 5.00% | ~83 |
+| Malpractice Assurance | 5.00% | ~84 |
 | This guy... again? | 3.00% | ~50 |
 | This Belongs in a Museum | 2.00% | ~2,536 |
 | Not Today! | 2.00% | ~2,536 |
@@ -14,15 +14,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 2.00% | ~2,536 |
 | Escape from the Black Hole | 2.00% | ~2,536 |
 | Autodidact | 2.00% | ~2,536 |
-| Bloody Graduation | 2.00% | ~33 |
-| Lost and Found | 2.00% | ~33 |
+| Bloody Graduation | 2.00% | ~34 |
+| Lost and Found | 2.00% | ~34 |
 | Creep and Sleep | 1.00% | ~1,268 |
 | Meat and Greet | 1.00% | ~1,268 |
 | Ploughshares to Swords | 1.00% | ~17 |
 | Serenity Now! | 0.90% | ~1,141 |
+| Rush Hour | 0.90% | ~1,141 |
 | To Grandmother's House | 0.90% | ~1,141 |
 | Don't Make Me Turn This Coach Around | 0.80% | ~1,014 |
-| Rush Hour | 0.80% | ~1,014 |
 | FNG | 0.80% | ~1,014 |
 | Friends 'Til the End | 0.80% | ~13 |
 | It Rings a Bell | 0.70% | ~888 |
@@ -30,11 +30,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | It Happens | 0.70% | ~888 |
 | Merry Time | 0.70% | ~888 |
 | Harvest Festival | 0.70% | ~888 |
+| Whale | 0.70% | ~888 |
 | Nope | 0.70% | ~888 |
 | Banishment | 0.60% | ~761 |
 | Deprogramming | 0.60% | ~761 |
 | Now Stay Dead | 0.60% | ~761 |
-| Whale | 0.60% | ~761 |
 | A Place to Lay Your Head | 0.60% | ~761 |
 | Worldly Traveller | 0.60% | ~761 |
 | Road Trip | 0.60% | ~761 |
@@ -42,6 +42,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unleash Hell | 0.50% | ~634 |
 | Funny Guy | 0.50% | ~634 |
 | Long Live the King | 0.50% | ~634 |
+| Wyrdly Reconstructed | 0.50% | ~634 |
 | Boxcar Kid | 0.50% | ~634 |
 | Unfulfilled Desires | 0.50% | ~634 |
 | Predator | 0.50% | ~634 |
@@ -51,7 +52,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 0.50% | ~634 |
 | When You Want Something Done Right | 0.50% | ~634 |
 | Unshackled | 0.50% | ~634 |
-| Wyrdly Reconstructed | 0.40% | ~507 |
 | Hope Rekindled | 0.40% | ~507 |
 | Ichthyophobic | 0.40% | ~507 |
 | No More Mouths to Feed | 0.40% | ~507 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,793 (Ranked 84)  
+Progressed: 126,808 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 3 (0.00%) (Ranked 374)
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
-| 2023-12-14 | 126,793 | 3 |
+| 2023-12-14 | 126,808 | 3 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 51)  
 Sum: 20,380 (Ranked 59)  

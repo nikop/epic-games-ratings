@@ -4,8 +4,8 @@
   "ProductSlug": "blood-flowers-a1e6e9",
   "Ranking_EOS_Progress": 731,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 477,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-11-08T07:00:00+00:00",
@@ -208,8 +208,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-08T07:03:10.4658756+00:00",
-  "LastChanged_Achievements": "2023-12-14T06:04:19.403384+00:00",
+  "LastChanged_Achievements": "2023-12-14T07:04:31.3164144+00:00",
   "LastUpdate_AppInfo": "2023-12-13T09:57:21.5708003+00:00",
-  "LastUpdate_Ratings": "2023-12-14T05:57:33.6599177+00:00",
-  "LastUpdate_Achievements": "2023-12-14T06:04:19.4033934+00:00"
+  "LastUpdate_Ratings": "2023-12-14T06:57:44.5757026+00:00",
+  "LastUpdate_Achievements": "2023-12-14T07:04:31.316425+00:00"
 }

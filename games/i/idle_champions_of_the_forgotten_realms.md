@@ -334,6 +334,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Illithid Undertaking | 0.10% | ~206 |
 | An Illithid Ambush | 0.10% | ~206 |
 | Misty Undermountain | 0.10% | ~206 |
+| An Owlbear of an Undertaking | 0.10% | ~206 |
 | Déjà Vu | 0.10% | ~206 |
 | Wait, What? | 0.10% | ~206 |
 | Ireena von Zarovich | 0.10% | ~206 |
@@ -545,7 +546,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.00% | ~0 |
 | Vault of Cuteness | 0.00% | ~0 |
 | Smooth Talkers | 0.00% | ~0 |
-| An Owlbear of an Undertaking | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | An Awakened Axe | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tiny Treaty | 0.00% | ~0 |
 | All The World's A Stage | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,968 (Ranked 65)  
+Progressed: 239,992 (Ranked 66)  
 Completed: 2,522 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -791,7 +791,7 @@ Completed: 2,522 (1.05%) (Ranked 167)
 | 2023-12-11 | 239,456 | 2,517 |
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
-| 2023-12-14 | 239,968 | 2,522 |
+| 2023-12-14 | 239,992 | 2,522 |
 ## Awards
 Max (Great for Beginners): 5,624  (Ranked 70)  
 Sum: 32,848 (Ranked 41)  

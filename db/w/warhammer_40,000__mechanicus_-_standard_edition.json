@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1008,9 +1008,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 229333,
+  "EOS_Progressed": 229337,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 549,
+  "EOS_NewPlayers": 552,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26983,6 +26983,11 @@
       "Time": "2023-12-14T06:10:40.2421247+00:00",
       "NumProgressed": 229333,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-14T07:11:07.1079168+00:00",
+      "NumProgressed": 229337,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -27002,7 +27007,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59627
+      "UsersEstimate": 59628
     },
     {
       "ID": "ACH_BASE_11",
@@ -27042,7 +27047,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22933
+      "UsersEstimate": 22934
     },
     {
       "ID": "ACH_BASE_17",
@@ -27058,7 +27063,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22933
+      "UsersEstimate": 22934
     },
     {
       "ID": "ACH_BASE_19",
@@ -27242,7 +27247,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 29813
+      "UsersEstimate": 29814
     },
     {
       "ID": "ACH_BASE_8",
@@ -27265,7 +27270,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 229333,
+      "Progressed": 229337,
       "Completed": 5
     }
   ],
@@ -27273,8 +27278,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-14T02:58:28.5187272+00:00",
-  "LastChanged_Achievements": "2023-12-14T06:10:40.2421244+00:00",
+  "LastChanged_Achievements": "2023-12-14T07:11:07.1079166+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.549712+00:00",
-  "LastUpdate_Ratings": "2023-12-14T05:58:50.3111333+00:00",
-  "LastUpdate_Achievements": "2023-12-14T06:10:40.2422556+00:00"
+  "LastUpdate_Ratings": "2023-12-14T06:59:10.5842415+00:00",
+  "LastUpdate_Achievements": "2023-12-14T07:11:07.1080239+00:00"
 }

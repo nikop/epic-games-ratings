@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -7479,9 +7479,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 202997,
+  "EOS_Progressed": 203006,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 1946,
+  "EOS_NewPlayers": 1945,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -34684,6 +34684,11 @@
       "Time": "2023-12-14T06:10:10.8446206+00:00",
       "NumProgressed": 202997,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-14T07:10:35.1280889+00:00",
+      "NumProgressed": 203006,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -34727,7 +34732,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 32480
+      "UsersEstimate": 32481
     },
     {
       "ID": "Achievement_13",
@@ -34775,7 +34780,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 50749
+      "UsersEstimate": 50752
     },
     {
       "ID": "Achievement_5",
@@ -34807,7 +34812,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 18270
+      "UsersEstimate": 18271
     },
     {
       "ID": "Achievement_9",
@@ -34822,15 +34827,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 202997,
+      "Progressed": 203006,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-12-14T04:00:15.4650544+00:00",
-  "LastChanged_Achievements": "2023-12-14T06:10:10.8446204+00:00",
+  "LastChanged_Achievements": "2023-12-14T07:10:35.1280885+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:07.4120655+00:00",
-  "LastUpdate_Ratings": "2023-12-14T06:01:00.7998825+00:00",
-  "LastUpdate_Achievements": "2023-12-14T06:10:10.8447588+00:00"
+  "LastUpdate_Ratings": "2023-12-14T07:01:33.6297471+00:00",
+  "LastUpdate_Achievements": "2023-12-14T07:10:35.1281909+00:00"
 }

@@ -5,16 +5,16 @@ Rating: 4.75 (Ranked 148)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 1.00% | ~2,399 |
-| First of Many | 0.90% | ~2,159 |
+| The Killing Jar | 1.00% | ~2,400 |
+| First of Many | 0.90% | ~2,160 |
 | Regicide | 0.80% | ~153 |
 | Master of the Dark Arts | 0.80% | ~153 |
-| Expanding Horizons | 0.60% | ~1,439 |
-| Not Your Average Trait | 0.60% | ~1,439 |
+| Expanding Horizons | 0.60% | ~1,440 |
+| Quest for Survival | 0.60% | ~1,440 |
+| Not Your Average Trait | 0.60% | ~1,440 |
 | Am I Seeing This? | 0.50% | ~1,200 |
 | Gleaming the Cube | 0.50% | ~1,200 |
 | Not So Special Now | 0.50% | ~1,200 |
-| Quest for Survival | 0.50% | ~1,200 |
 | Not a Janitor | 0.50% | ~1,200 |
 | Familiar Face | 0.50% | ~1,200 |
 | Duality | 0.50% | ~1,200 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | You Shall Pass | 0.20% | ~38 |
 | A Foul Feast | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,910 (Ranked 66)  
+Progressed: 240,006 (Ranked 65)  
 Completed: 584 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,21 +212,21 @@ Completed: 584 (0.24%) (Ranked 252)
 | 2023-12-11 | 238,673 | 579 |
 | 2023-12-12 | 239,053 | 581 |
 | 2023-12-13 | 239,544 | 584 |
-| 2023-12-14 | 239,910 | 584 |
+| 2023-12-14 | 240,006 | 584 |
 ## Awards
 Max (Great Boss Battles): 2,741  (Ranked 102)  
-Sum: 6,871 (Ranked 126)  
+Sum: 6,884 (Ranked 126)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,741 |
-| This game has Diverse Characters | 463 |
+| This game has Diverse Characters | 471 |
 | This game is Highly Recommended | 439 |
 | This game has Challenging Combat | 435 |
+| This game is Relaxing | 429 |
 | This game has Amazing Storytelling | 426 |
 | This game is Extremely Fun | 424 |
 | This game has Quickly Understood Controls | 424 |
-| This game is Relaxing | 424 |
 | This game has Amazing Characters | 416 |
 | This game has Unique Visuals | 367 |
 | This game has a Creative Community | 312 |
@@ -374,3 +374,4 @@ Diff (max vs sum): -24
 | 2023-12-11 | 4.75 | 2,717 | 6,788 |
 | 2023-12-12 | 4.75 | 2,730 | 6,825 |
 | 2023-12-13 | 4.75 | 2,741 | 6,871 |
+| 2023-12-14 | 4.75 | 2,741 | 6,884 |

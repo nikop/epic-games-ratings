@@ -4,8 +4,8 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14268,
+  "EOS_Progressed": 14269,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 898,
+  "EOS_NewPlayers": 897,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8774,6 +8774,11 @@
       "Time": "2023-12-14T06:04:44.5586723+00:00",
       "NumProgressed": 14268,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T07:04:58.1703903+00:00",
+      "NumProgressed": 14269,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -8898,7 +8903,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -8977,14 +8982,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 14268,
+      "Progressed": 14269,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-14T06:04:44.5586717+00:00",
+  "LastChanged_Achievements": "2023-12-14T07:04:58.17039+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.6869956+00:00",
-  "LastUpdate_Ratings": "2023-12-14T05:57:25.9895505+00:00",
-  "LastUpdate_Achievements": "2023-12-14T06:04:44.5587301+00:00"
+  "LastUpdate_Ratings": "2023-12-14T06:57:36.2400628+00:00",
+  "LastUpdate_Achievements": "2023-12-14T07:04:58.1704392+00:00"
 }

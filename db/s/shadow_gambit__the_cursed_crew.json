@@ -5,10 +5,10 @@
   "Ranking_Rating": 84,
   "Ranking_Popularity": 563,
   "Ranking_PopularitySum": 563,
-  "Ranking_EOS_Progress": 264,
+  "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -149,11 +149,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1132,
+  "EOS_Progressed": 1134,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.83,
+  "EOS_Completed_Percentage": 2.82,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3794,6 +3794,11 @@
       "Time": "2023-12-14T06:06:06.2540845+00:00",
       "NumProgressed": 1132,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-14T07:06:26.1265521+00:00",
+      "NumProgressed": 1134,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3814,7 +3819,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 758
+      "UsersEstimate": 760
     },
     {
       "ID": "_03_FinishAct1",
@@ -3822,7 +3827,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3846,7 +3851,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "_07_FinishAct3",
@@ -3862,7 +3867,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "_09_Completion_20",
@@ -3934,7 +3939,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3958,7 +3963,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -4013,7 +4018,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1132,
+      "Progressed": 1134,
       "Completed": 32
     }
   ],
@@ -4021,8 +4026,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-14T06:06:06.2540839+00:00",
+  "LastChanged_Achievements": "2023-12-14T07:06:26.1265516+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-14T05:59:08.4861481+00:00",
-  "LastUpdate_Achievements": "2023-12-14T06:06:06.2541263+00:00"
+  "LastUpdate_Ratings": "2023-12-14T06:59:31.2206967+00:00",
+  "LastUpdate_Achievements": "2023-12-14T07:06:26.1265853+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,582 |
-| I'll Be Back | 85.00% | ~4,144 |
-| Sorry, I Dropped This | 77.00% | ~3,754 |
-| First Day on the Job | 77.00% | ~3,754 |
-| Butcher's Bill | 55.00% | ~2,681 |
-| P.A.X | 38.00% | ~1,852 |
+| On My Own Two Feet | 94.00% | ~4,583 |
+| I'll Be Back | 84.00% | ~4,096 |
+| Sorry, I Dropped This | 77.00% | ~3,755 |
+| First Day on the Job | 77.00% | ~3,755 |
+| Butcher's Bill | 55.00% | ~2,682 |
+| P.A.X | 38.00% | ~1,853 |
 | Hey Listen | 37.00% | ~1,804 |
 | OPERATOR | 36.00% | ~1,755 |
 | It's Blue Light | 33.00% | ~1,609 |
-| Most Wanted | 27.00% | ~1,316 |
+| Most Wanted | 27.00% | ~1,317 |
 | Infidel | 24.00% | ~1,170 |
 | Firebug | 21.00% | ~1,024 |
 | GOLIATH | 21.00% | ~1,024 |
@@ -43,7 +43,7 @@ Number of Ratings: 62  (23.09.2022)
 | Follow the White Rabbit | 7.00% | ~341 |
 | Liberation | 7.00% | ~341 |
 | Risk Assessment | 7.00% | ~341 |
-| Carbon Cat | 6.00% | ~292 |
+| Carbon Cat | 6.00% | ~293 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~244 |
 | Man of Steel | 5.00% | ~244 |
 | Jack of All Trades | 5.00% | ~244 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~29 |
 | The Surge | 0.40% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,875 (Ranked 194)  
+Progressed: 4,876 (Ranked 194)  
 Completed: 18 (0.37%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,6 +269,7 @@ Completed: 18 (0.37%) (Ranked 231)
 | 2023-12-10 | 4,871 | 18 |
 | 2023-12-11 | 4,874 | 18 |
 | 2023-12-13 | 4,875 | 18 |
+| 2023-12-14 | 4,876 | 18 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 507)  
 Sum: 29 (Ranked 522)  

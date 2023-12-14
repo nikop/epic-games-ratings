@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1607,9 +1607,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 16611,
+  "EOS_Progressed": 16614,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -9562,6 +9562,11 @@
       "Time": "2023-12-14T06:09:43.4306845+00:00",
       "NumProgressed": 16611,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-12-14T07:10:05.2275622+00:00",
+      "NumProgressed": 16614,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 47,
@@ -9589,7 +9594,7 @@
       "Name": "Giving Back",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -9948,13 +9953,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16611,
+      "Progressed": 16614,
       "Completed": 81
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4537,
+      "Progressed": 4540,
       "Completed": 29
     }
   ],
@@ -9962,8 +9967,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-14T00:03:13.1702206+00:00",
-  "LastChanged_Achievements": "2023-12-14T06:09:43.4306841+00:00",
+  "LastChanged_Achievements": "2023-12-14T07:10:05.2275619+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.8352858+00:00",
-  "LastUpdate_Ratings": "2023-12-14T06:03:49.8552276+00:00",
-  "LastUpdate_Achievements": "2023-12-14T06:09:43.4307442+00:00"
+  "LastUpdate_Ratings": "2023-12-14T07:03:59.7114564+00:00",
+  "LastUpdate_Achievements": "2023-12-14T07:10:05.2276362+00:00"
 }

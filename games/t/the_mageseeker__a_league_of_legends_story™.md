@@ -5,19 +5,19 @@ Rating: 4.81 (Ranked 84)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,585 |
+| For Demacia | 96.00% | ~2,586 |
 | No more cages! | 92.00% | ~2,478 |
-| Everfrost | 79.00% | ~2,127 |
+| Everfrost | 79.00% | ~2,128 |
 | Pentakill | 78.00% | ~2,101 |
 | Dark Forest | 78.00% | ~2,101 |
 | The use of petricite | 75.00% | ~2,020 |
 | You can pet the dog | 62.00% | ~1,670 |
-| Big Helmet Bro | 39.00% | ~1,050 |
-| Thornbarrow | 39.00% | ~1,050 |
-| Clarion Cove | 39.00% | ~1,050 |
-| Elemental master | 37.00% | ~996 |
-| Past trauma | 37.00% | ~996 |
-| Ternmoat Headquarters | 37.00% | ~996 |
+| Big Helmet Bro | 39.00% | ~1,051 |
+| Thornbarrow | 39.00% | ~1,051 |
+| Clarion Cove | 39.00% | ~1,051 |
+| Elemental master | 37.00% | ~997 |
+| Past trauma | 37.00% | ~997 |
+| Ternmoat Headquarters | 37.00% | ~997 |
 | Cypress Glen Headquarters | 34.00% | ~916 |
 | Petricite Burst | 33.00% | ~889 |
 | Hijack | 31.00% | ~835 |
@@ -26,12 +26,12 @@ Rating: 4.81 (Ranked 84)
 | Whispers in the Woods I | 28.00% | ~754 |
 | Ancient power | 27.00% | ~727 |
 | I chose my shackles | 26.00% | ~700 |
-| Sacred Woods | 25.00% | ~673 |
-| Little light | 24.00% | ~646 |
-| Capelworth | 24.00% | ~646 |
-| Full equipped | 24.00% | ~646 |
-| Glyndemere | 23.00% | ~619 |
-| Iffighain Headquarters | 23.00% | ~619 |
+| Sacred Woods | 25.00% | ~674 |
+| Little light | 24.00% | ~647 |
+| Capelworth | 24.00% | ~647 |
+| Glyndemere | 23.00% | ~620 |
+| Iffighain Headquarters | 23.00% | ~620 |
+| Full equipped | 23.00% | ~620 |
 | Whispers in the Woods II | 19.00% | ~512 |
 | No more holding back | 19.00% | ~512 |
 | Quickmoore Headquarters | 19.00% | ~512 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 84)
 | Silverwing nest | 2.00% | ~54 |
 | The Unshackled | 1.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,693 (Ranked 217)  
+Progressed: 2,694 (Ranked 217)  
 Completed: 16 (0.59%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 16 (0.59%) (Ranked 196)
 | 2023-12-10 | 2,679 | 16 |
 | 2023-12-11 | 2,680 | 16 |
 | 2023-12-13 | 2,685 | 16 |
-| 2023-12-14 | 2,693 | 16 |
+| 2023-12-14 | 2,694 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
