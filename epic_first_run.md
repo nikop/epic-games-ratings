@@ -1,6 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Inn Keeper](games/i/inn_keeper.md) | 2023-12-31 | - |  | - | - |
+| [Inn Keeper](games/i/inn_keeper.md) | 2024-12-31 | - |  | - | - |
 | [Don't Turn Back](games/a/afa43d028dd1408189c2cb83f846fbd6.md) | 2023-12-18 | - |  | - | - |
 | [ZUBASH](games/d/d4d23beda95c4823bb8e187260ba340c.md) | 2099-01-01 | - |  | - | - |
 | [Devil's Island](games/0/090ac4b263f44ea79418069fddfb0d9b.md) | 2099-01-01 | - |  | - | - |
