@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Missing data | 83.00% | ~85 |
-| Broken jar | 77.00% | ~79 |
-| The child of the night | 72.00% | ~74 |
-| It fits. IT FITS! | 72.00% | ~74 |
+| Broken jar | 78.00% | ~80 |
+| The child of the night | 73.00% | ~75 |
+| It fits. IT FITS! | 73.00% | ~75 |
 | Uncle will be happy | 64.00% | ~66 |
 | I have an army! | 60.00% | ~62 |
 | Sticky fingers | 41.00% | ~42 |

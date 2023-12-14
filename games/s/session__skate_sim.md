@@ -6,11 +6,11 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,912 |
-| Keeping it classy | 29.00% | ~909 |
+| You're free now! | 61.00% | ~1,914 |
+| Keeping it classy | 29.00% | ~910 |
 | Welcome to the family | 22.00% | ~690 |
-| The finer things in life | 20.00% | ~627 |
-| Backpacker | 15.00% | ~470 |
+| The finer things in life | 20.00% | ~628 |
+| Backpacker | 15.00% | ~471 |
 | Go with the Flow | 14.00% | ~439 |
 | The flip trick crown jewel | 11.00% | ~345 |
 | Keep the dream alive | 10.00% | ~314 |
@@ -23,8 +23,8 @@ Number of Ratings: 111  (23.09.2022)
 | Finally he zips it | 8.00% | ~251 |
 | That pinch! | 8.00% | ~251 |
 | Tight lipslides | 8.00% | ~251 |
-| Fulfilled the dream | 7.00% | ~219 |
-| G'Day Mate! | 7.00% | ~219 |
+| Fulfilled the dream | 7.00% | ~220 |
+| G'Day Mate! | 7.00% | ~220 |
 | Commence the Hijinx! | 6.00% | ~188 |
 | DIY Boss | 6.00% | ~188 |
 | Globetrotter | 6.00% | ~188 |
@@ -41,9 +41,9 @@ Number of Ratings: 111  (23.09.2022)
 | Tank commander | 5.00% | ~157 |
 | Trick shot marksman | 5.00% | ~157 |
 | We get it, you're good | 5.00% | ~157 |
-| G.O.A.T. status | 4.00% | ~125 |
-| Hoarder | 4.00% | ~125 |
-| Pew-Pew | 4.00% | ~125 |
+| G.O.A.T. status | 4.00% | ~126 |
+| Hoarder | 4.00% | ~126 |
+| Pew-Pew | 4.00% | ~126 |
 | Many plys later... | 3.00% | ~94 |
 | Cross lock country | 2.00% | ~63 |
 | That was wheelie fun | 2.00% | ~63 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,135 (Ranked 214)  
+Progressed: 3,138 (Ranked 214)  
 Completed: 2 (0.06%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 2 (0.06%) (Ranked 316)
 | 2023-12-11 | 3,112 | 2 |
 | 2023-12-12 | 3,114 | 2 |
 | 2023-12-13 | 3,118 | 2 |
-| 2023-12-14 | 3,135 | 2 |
+| 2023-12-14 | 3,138 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 420)  
 Sum: 563 (Ranked 320)  

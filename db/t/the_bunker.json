@@ -2,9 +2,9 @@
   "ID": "f8bbf6bb94794b1aa2161cd923d11e5e",
   "Name": "The Bunker",
   "ProductSlug": "the-bunker-03b712",
-  "Ranking_EOS_Progress": 414,
+  "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 486,
+  "Ranking_EOS_NewPlayers": 485,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -599,6 +599,6 @@
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
   "LastChanged_Achievements": "2023-12-14T14:06:38.0651875+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:00.9600091+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:57:47.6597161+00:00",
+  "LastUpdate_Ratings": "2023-12-14T14:58:02.1659797+00:00",
   "LastUpdate_Achievements": "2023-12-14T14:06:38.0652035+00:00"
 }

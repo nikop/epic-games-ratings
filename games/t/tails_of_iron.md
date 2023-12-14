@@ -18,7 +18,7 @@ Rating: 4.55 (Ranked 516)
 | Defeat 25 Mozis | 47.00% | ~1,053 |
 | Collect Gold | 46.00% | ~1,031 |
 | Smithy Ready to Craft | 46.00% | ~1,031 |
-| Fix the Travellers Wagon | 44.00% | ~986 |
+| Fix the Travellers Wagon | 45.00% | ~1,008 |
 | Complete Elder Faction | 41.00% | ~919 |
 | Throne Room Fit For A King | 39.00% | ~874 |
 | End of the Mozis | 38.00% | ~852 |
@@ -37,7 +37,7 @@ Rating: 4.55 (Ranked 516)
 | A new Warchief rises | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,241 (Ranked 227)  
-Completed: 12 (0.54%) (Ranked 204)  
+Completed: 12 (0.54%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

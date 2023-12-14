@@ -5,18 +5,18 @@ Rating: 4.58 (Ranked 453)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,712 |
-| Mainframe Hacker | 23.00% | ~4,379 |
-| The Spy who eliminated me | 23.00% | ~4,379 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,713 |
+| Mainframe Hacker | 23.00% | ~4,380 |
+| The Spy who eliminated me | 23.00% | ~4,380 |
 | Tomorrow Never Dyes | 22.00% | ~4,189 |
-| From the Vault with Love | 18.00% | ~3,427 |
-| Never Say Loser Again | 18.00% | ~3,427 |
-| Tailor-Made | 18.00% | ~3,427 |
-| For your Eyes only | 18.00% | ~3,427 |
+| From the Vault with Love | 18.00% | ~3,428 |
+| Never Say Loser Again | 18.00% | ~3,428 |
+| Tailor-Made | 18.00% | ~3,428 |
+| For your Eyes only | 18.00% | ~3,428 |
 | Assistant Accountant | 17.00% | ~3,237 |
 | You Only Live Twice | 16.00% | ~3,047 |
 | Fully Decked Out | 16.00% | ~3,047 |
-| A view to Win | 13.00% | ~2,475 |
+| A view to Win | 13.00% | ~2,476 |
 | The Living Portrait | 12.00% | ~2,285 |
 | Smells Like Trouble | 12.00% | ~2,285 |
 | My Motto, My Creed | 11.00% | ~2,095 |
@@ -26,7 +26,7 @@ Rating: 4.58 (Ranked 453)
 | Keycards Royale | 10.00% | ~1,904 |
 | Dr. No Kill | 10.00% | ~1,904 |
 | In It to Win It | 9.00% | ~1,714 |
-| Security Supervisor | 6.00% | ~1,142 |
+| Security Supervisor | 6.00% | ~1,143 |
 | License to Thrill | 5.00% | ~952 |
 | Social of Solace | 4.00% | ~762 |
 | Live and let lie | 3.00% | ~571 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 453)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,041 (Ranked 145)  
+Progressed: 19,043 (Ranked 145)  
 Completed: 4 (0.02%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 4 (0.02%) (Ranked 343)
 | 2023-12-11 | 19,027 | 4 |
 | 2023-12-12 | 19,031 | 4 |
 | 2023-12-13 | 19,037 | 4 |
-| 2023-12-14 | 19,041 | 4 |
+| 2023-12-14 | 19,043 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

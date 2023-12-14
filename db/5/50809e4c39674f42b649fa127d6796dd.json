@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 453,
+  "EOS_Progressed": 454,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1172,6 +1172,11 @@
       "Time": "2023-12-14T09:04:20.8754024+00:00",
       "NumProgressed": 453,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T15:03:44.6936143+00:00",
+      "NumProgressed": 454,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1270,9 +1275,9 @@
       "ID": "FIRST_KODAMA_HERMIT_TALK",
       "SetID": "apihg0e",
       "Name": "Hermit Koco Encounter",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 168
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1288,7 +1293,7 @@
       "Name": "Unknown Threat",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1296,7 +1301,7 @@
       "Name": "Speed Demon",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1496,21 +1501,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 453,
+      "Progressed": 454,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-14T14:03:55.3428763+00:00",
+  "LastChanged_Achievements": "2023-12-14T15:03:44.6936138+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:06.567221+00:00",
-  "LastUpdate_Ratings": "2023-12-14T14:03:10.2376295+00:00",
-  "LastUpdate_Achievements": "2023-12-14T14:03:55.3429086+00:00"
+  "LastUpdate_Ratings": "2023-12-14T15:02:56.2177414+00:00",
+  "LastUpdate_Achievements": "2023-12-14T15:03:44.693647+00:00"
 }

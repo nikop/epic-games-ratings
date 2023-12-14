@@ -4,7 +4,7 @@
   "ProductSlug": "worldless-49eae3",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
@@ -707,9 +707,9 @@
       "ID": "ACH_DETERMINATION",
       "SetID": "cagp2pi",
       "Name": "Determination",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_FINAL_TRIAL",
@@ -739,9 +739,9 @@
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Lightning Nightmare",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_LUCA_DEFEATED",
@@ -771,15 +771,15 @@
       "ID": "ACH_SUMMUM_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Summum",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_SUMMUM_ABSORB_PRE_MEGAFLARE",
       "SetID": "cagp2pi",
       "Name": "No Threat",
-      "Percentage": 1,
+      "Percentage": 0.7,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -818,8 +818,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-12-14T14:04:35.9756508+00:00",
+  "LastChanged_Achievements": "2023-12-14T15:04:26.372199+00:00",
   "LastUpdate_AppInfo": "2023-12-08T13:57:09.5238384+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:57:15.0242102+00:00",
-  "LastUpdate_Achievements": "2023-12-14T14:04:35.9756718+00:00"
+  "LastUpdate_Ratings": "2023-12-14T14:57:25.404971+00:00",
+  "LastUpdate_Achievements": "2023-12-14T15:04:26.3722367+00:00"
 }

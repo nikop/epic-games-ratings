@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16179,
+  "EOS_Progressed": 16183,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -13797,6 +13797,11 @@
       "Time": "2023-12-14T14:06:35.1586706+00:00",
       "NumProgressed": 16179,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-14T15:06:26.5776153+00:00",
+      "NumProgressed": 16183,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13825,7 +13830,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "12",
@@ -13841,7 +13846,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2103
+      "UsersEstimate": 2104
     },
     {
       "ID": "14",
@@ -13961,7 +13966,7 @@
       "Name": "Bosmang",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "28",
@@ -13985,7 +13990,7 @@
       "Name": "Captain Drummer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "30",
@@ -14017,7 +14022,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "7",
@@ -14041,7 +14046,7 @@
       "Name": "Impossible Objects",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "31",
@@ -14057,7 +14062,7 @@
       "Name": "Safe Cracker",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "33",
@@ -14065,7 +14070,7 @@
       "Name": "Zen Master",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "34",
@@ -14081,20 +14086,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16179,
+      "Progressed": 16183,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2133,
+      "Progressed": 2137,
       "Completed": 882
     }
   ],
@@ -14102,8 +14107,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-14T14:06:35.1586703+00:00",
+  "LastChanged_Achievements": "2023-12-14T15:06:26.5776138+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:57:18.8972005+00:00",
-  "LastUpdate_Achievements": "2023-12-14T14:06:35.1587456+00:00"
+  "LastUpdate_Ratings": "2023-12-14T14:57:29.6556915+00:00",
+  "LastUpdate_Achievements": "2023-12-14T15:06:26.5777212+00:00"
 }

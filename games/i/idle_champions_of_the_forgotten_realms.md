@@ -1,13 +1,13 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 999)  
+Rating: 4.06 (Ranked 998)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sigil | 0.40% | ~826 |
-| Fast Food | 0.30% | ~619 |
+| Welcome to Sigil | 0.50% | ~1,032 |
+| Fast Food | 0.40% | ~826 |
 | Misaligned in Sigil | 0.20% | ~413 |
 | Chaos Theory | 0.20% | ~413 |
 | A Brief Tour of the Realms | 0.10% | ~240 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,147 (Ranked 66)  
+Progressed: 240,182 (Ranked 66)  
 Completed: 2,524 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -791,7 +791,7 @@ Completed: 2,524 (1.05%) (Ranked 167)
 | 2023-12-11 | 239,456 | 2,517 |
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
-| 2023-12-14 | 240,147 | 2,524 |
+| 2023-12-14 | 240,182 | 2,524 |
 ## Awards
 Max (Great for Beginners): 5,624  (Ranked 70)  
 Sum: 32,854 (Ranked 41)  

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 518,
   "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 101,
-  "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -339,7 +339,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 76741,
+  "EOS_Progressed": 76745,
   "EOS_Completed": 413,
   "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 4,
@@ -26544,6 +26544,11 @@
       "Time": "2023-12-14T14:09:38.5582305+00:00",
       "NumProgressed": 76741,
       "NumCompleted": 413
+    },
+    {
+      "Time": "2023-12-14T15:09:30.0872126+00:00",
+      "NumProgressed": 76745,
+      "NumCompleted": 413
     }
   ],
   "TotalAchievements": 24,
@@ -26563,7 +26568,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16883
+      "UsersEstimate": 16884
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -26571,7 +26576,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 52951
+      "UsersEstimate": 52954
     },
     {
       "ID": "BEST_FRIENDS",
@@ -26579,7 +26584,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16883
+      "UsersEstimate": 16884
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -26587,7 +26592,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 19953
+      "UsersEstimate": 19954
     },
     {
       "ID": "ERADICATE",
@@ -26603,7 +26608,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21487
+      "UsersEstimate": 21489
     },
     {
       "ID": "FOXIN_AROUND",
@@ -26611,7 +26616,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 22255
+      "UsersEstimate": 22256
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -26627,7 +26632,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 13813
+      "UsersEstimate": 13814
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -26635,7 +26640,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 40673
+      "UsersEstimate": 40675
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -26651,7 +26656,7 @@
       "Name": "MATCH MAKER",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 6139
+      "UsersEstimate": 6140
     },
     {
       "ID": "NONE_FORGOTTEN",
@@ -26667,7 +26672,7 @@
       "Name": "NORTHERN LIGHTS",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 6139
+      "UsersEstimate": 6140
     },
     {
       "ID": "OLD_COMPANION",
@@ -26691,7 +26696,7 @@
       "Name": "SPIRITED AWAY",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 6139
+      "UsersEstimate": 6140
     },
     {
       "ID": "SPIRIT_BARK",
@@ -26715,7 +26720,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 13046
+      "UsersEstimate": 13047
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -26746,7 +26751,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 76741,
+      "Progressed": 76745,
       "Completed": 413
     }
   ],
@@ -26754,8 +26759,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2023-12-14T14:09:38.5582302+00:00",
+  "LastChanged_Achievements": "2023-12-14T15:09:30.0872121+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:25.3960201+00:00",
-  "LastUpdate_Ratings": "2023-12-14T14:02:58.1492887+00:00",
-  "LastUpdate_Achievements": "2023-12-14T14:09:38.5583721+00:00"
+  "LastUpdate_Ratings": "2023-12-14T15:02:44.3094633+00:00",
+  "LastUpdate_Achievements": "2023-12-14T15:09:30.0873612+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 171,
+  "EOS_Progressed": 172,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.17,
+  "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
     {
       "Time": "2023-05-09T11:06:33.5022357+00:00",
@@ -850,6 +850,11 @@
       "Time": "2023-12-14T13:12:33.7627154+00:00",
       "NumProgressed": 171,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-14T15:05:48.6223885+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -877,7 +882,7 @@
       "Name": "To Each Their Own",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -923,9 +928,9 @@
       "ID": "ACHIEVEMENT_09",
       "SetID": "gagif7",
       "Name": "Say My Name",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1091,9 +1096,9 @@
       "ID": "ACHIEVEMENT_30",
       "SetID": "gagif7",
       "Name": "Onwards and Upwards",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -1125,7 +1130,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1147,9 +1152,9 @@
       "ID": "ACHIEVEMENT_37",
       "SetID": "gagif7",
       "Name": "Tempus Fugit",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -1163,23 +1168,23 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "gagif7",
       "Name": "Playing God",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 171,
+      "Progressed": 172,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-12-14T14:05:56.5324615+00:00",
+  "LastChanged_Achievements": "2023-12-14T15:05:48.622388+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:09.4929932+00:00",
-  "LastUpdate_Ratings": "2023-12-14T14:00:22.4600123+00:00",
-  "LastUpdate_Achievements": "2023-12-14T14:05:56.5324845+00:00"
+  "LastUpdate_Ratings": "2023-12-14T15:00:40.191926+00:00",
+  "LastUpdate_Achievements": "2023-12-14T15:05:48.6224145+00:00"
 }

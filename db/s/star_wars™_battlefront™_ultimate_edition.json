@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1711,
+  "EOS_Progressed": 1712,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5154,6 +5154,11 @@
       "Time": "2023-12-14T14:10:12.3581424+00:00",
       "NumProgressed": 1711,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T15:10:03.1427587+00:00",
+      "NumProgressed": 1712,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5238,7 +5243,7 @@
       "Name": "The power of the Force",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "achievement_19",
@@ -5310,7 +5315,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "achievement_27",
@@ -5390,7 +5395,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "achievement_36",
@@ -5406,7 +5411,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "achievement_38",
@@ -5470,7 +5475,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "achievement_45",
@@ -5669,13 +5674,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1711,
+      "Progressed": 1712,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1711,
+      "Progressed": 1712,
       "Completed": 1
     }
   ],
@@ -5683,8 +5688,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-14T14:10:12.3581417+00:00",
+  "LastChanged_Achievements": "2023-12-14T15:10:03.1427574+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.6035488+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:58:13.8895129+00:00",
-  "LastUpdate_Achievements": "2023-12-14T14:10:12.3582156+00:00"
+  "LastUpdate_Ratings": "2023-12-14T14:58:29.3682171+00:00",
+  "LastUpdate_Achievements": "2023-12-14T15:10:03.1428286+00:00"
 }

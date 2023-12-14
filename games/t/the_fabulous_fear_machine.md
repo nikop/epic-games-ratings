@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 27.00% | ~13 |
-| Jung's dream | 23.00% | ~11 |
-| You have three wishes left | 23.00% | ~11 |
-| The battle of Great Britain | 21.00% | ~10 |
-| Pulp! Where Monsters Dwell | 21.00% | ~10 |
-| A continent with chemistry | 19.00% | ~9 |
-| The happy farmer girl | 17.00% | ~8 |
-| Giant | 15.00% | ~7 |
-| The artist | 15.00% | ~7 |
-| The seer | 15.00% | ~7 |
-| Pulp! Terror Tales in the Night | 15.00% | ~7 |
-| Pulp! Out of this World | 15.00% | ~7 |
-| A rival with no options | 13.00% | ~6 |
-| Pulp! Adventures into the Unknown | 13.00% | ~6 |
-| Diagnosis: fear | 13.00% | ~6 |
-| Ambition is... blind | 13.00% | ~6 |
-| You have two wishes left | 13.00% | ~6 |
+| Master trainee | 30.00% | ~15 |
+| You have three wishes left | 26.00% | ~13 |
+| Jung's dream | 22.00% | ~11 |
+| The battle of Great Britain | 20.00% | ~10 |
+| Pulp! Where Monsters Dwell | 20.00% | ~10 |
+| A continent with chemistry | 18.00% | ~9 |
+| The happy farmer girl | 16.00% | ~8 |
+| Giant | 14.00% | ~7 |
+| The artist | 14.00% | ~7 |
+| The seer | 14.00% | ~7 |
+| Pulp! Terror Tales in the Night | 14.00% | ~7 |
+| Pulp! Out of this World | 14.00% | ~7 |
+| A rival with no options | 12.00% | ~6 |
+| Pulp! Adventures into the Unknown | 12.00% | ~6 |
+| Diagnosis: fear | 12.00% | ~6 |
+| Ambition is... blind | 12.00% | ~6 |
+| You have two wishes left | 12.00% | ~6 |
 | You had one wish left | 8.00% | ~4 |
 | Et in arcadia ego | 8.00% | ~4 |
 | Kirlian's best disciple | 8.00% | ~4 |
@@ -52,7 +52,7 @@
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48 (Ranked 517)  
+Progressed: 50 (Ranked 513)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,4 +84,4 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-11-29 | 45 | 0 |
 | 2023-12-04 | 46 | 0 |
 | 2023-12-13 | 47 | 0 |
-| 2023-12-14 | 48 | 0 |
+| 2023-12-14 | 50 | 0 |

@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 61.00% | ~71 |
-| Purification Pioneer | 58.00% | ~67 |
-| Mechanical Buddy | 53.00% | ~61 |
-| Dicesmithing Time! | 50.00% | ~58 |
-| Endless Tricks | 45.00% | ~52 |
-| Sanctuary Guardian | 43.00% | ~50 |
-| Wild's Keeper | 39.00% | ~45 |
-| Mind Illuminator | 35.00% | ~41 |
-| Stellar Dismantler | 34.00% | ~39 |
-| Noctuan Champion | 34.00% | ~39 |
-| Anomaly Destroyer | 27.00% | ~31 |
-| Eridanian Champion | 27.00% | ~31 |
-| Lacertian Champion | 26.00% | ~30 |
-| Astral Adventurer | 25.00% | ~29 |
-| Loyal Partner | 23.00% | ~27 |
-| Star Killer | 23.00% | ~27 |
+| Meissa's Savior | 63.00% | ~75 |
+| Purification Pioneer | 60.00% | ~71 |
+| Mechanical Buddy | 55.00% | ~65 |
+| Dicesmithing Time! | 51.00% | ~61 |
+| Endless Tricks | 44.00% | ~52 |
+| Sanctuary Guardian | 42.00% | ~50 |
+| Wild's Keeper | 39.00% | ~46 |
+| Mind Illuminator | 35.00% | ~42 |
+| Noctuan Champion | 34.00% | ~40 |
+| Stellar Dismantler | 33.00% | ~39 |
+| Eridanian Champion | 27.00% | ~32 |
+| Anomaly Destroyer | 26.00% | ~31 |
+| Astral Adventurer | 25.00% | ~30 |
+| Lacertian Champion | 25.00% | ~30 |
+| Loyal Partner | 24.00% | ~29 |
+| Star Killer | 24.00% | ~29 |
 | Apian Champion | 22.00% | ~26 |
-| Behenian Champion | 20.00% | ~23 |
-| Shard Spender | 17.00% | ~20 |
+| Behenian Champion | 19.00% | ~23 |
+| Shard Spender | 18.00% | ~21 |
 | Unbeatable | 16.00% | ~19 |
-| Aquarian Champion | 14.00% | ~16 |
 | Astral Seeker | 13.00% | ~15 |
+| Aquarian Champion | 13.00% | ~15 |
 | Heart Gate | 12.00% | ~14 |
 | Sadistic Plan | 12.00% | ~14 |
 | Stellar Haste | 12.00% | ~14 |
 | Favored by the Cosmos | 11.00% | ~13 |
 | The Corruption Goddess | 11.00% | ~13 |
 | The Goddes Avatar | 11.00% | ~13 |
-| Heavy Purger | 9.00% | ~10 |
-| Wave Bender | 9.00% | ~10 |
-| Apian Hero | 9.00% | ~10 |
-| Anomaly Control | 8.00% | ~9 |
+| Heavy Purger | 9.00% | ~11 |
+| Anomaly Control | 8.00% | ~10 |
+| Wave Bender | 8.00% | ~10 |
+| Apian Hero | 8.00% | ~10 |
 | Can't touch this | 7.00% | ~8 |
 | The Chaos Artisan | 7.00% | ~8 |
 | The Dark Moon | 7.00% | ~8 |
@@ -51,31 +51,31 @@
 | If I Had Failed... | 4.00% | ~5 |
 | Aquarian Hero | 4.00% | ~5 |
 | Noctuan Hero | 4.00% | ~5 |
-| Critical Twist | 3.00% | ~3 |
-| Prestidigitation | 3.00% | ~3 |
-| Reflexive Mind | 3.00% | ~3 |
-| The Ardent Prince | 3.00% | ~3 |
-| The Raging Skies | 3.00% | ~3 |
-| Aquarian Mastery | 3.00% | ~3 |
-| Eridanian Hero | 3.00% | ~3 |
-| Eridanian Mastery | 3.00% | ~3 |
-| Lacertian Mastery | 3.00% | ~3 |
-| Noctuan Mastery | 3.00% | ~3 |
+| Critical Twist | 3.00% | ~4 |
+| Prestidigitation | 3.00% | ~4 |
+| Reflexive Mind | 3.00% | ~4 |
+| The Ardent Prince | 3.00% | ~4 |
+| The Raging Skies | 3.00% | ~4 |
+| Aquarian Mastery | 3.00% | ~4 |
+| Eridanian Hero | 3.00% | ~4 |
+| Eridanian Mastery | 3.00% | ~4 |
+| Lacertian Mastery | 3.00% | ~4 |
+| Noctuan Mastery | 3.00% | ~4 |
 | Astral Tinkerer | 2.00% | ~2 |
 | Astromancer | 2.00% | ~2 |
 | Royal Choir | 2.00% | ~2 |
 | Sentinelphobic | 2.00% | ~2 |
-| Anomaly Master | 0.90% | ~1 |
-| Arch-Oracle | 0.90% | ~1 |
-| Astrea's Saviors | 0.90% | ~1 |
-| Astrium Specialist | 0.90% | ~1 |
-| Gotta tinker'em all! | 0.90% | ~1 |
-| Plague Doctor | 0.90% | ~1 |
-| Pocket Astrarium | 0.90% | ~1 |
-| Six-Sided Mastery | 0.90% | ~1 |
-| This is Fine | 0.90% | ~1 |
-| Virtuous Warrior | 0.90% | ~1 |
-| Apian Mastery | 0.90% | ~1 |
+| Anomaly Master | 0.80% | ~1 |
+| Arch-Oracle | 0.80% | ~1 |
+| Astrea's Saviors | 0.80% | ~1 |
+| Astrium Specialist | 0.80% | ~1 |
+| Gotta tinker'em all! | 0.80% | ~1 |
+| Plague Doctor | 0.80% | ~1 |
+| Pocket Astrarium | 0.80% | ~1 |
+| Six-Sided Mastery | 0.80% | ~1 |
+| This is Fine | 0.80% | ~1 |
+| Virtuous Warrior | 0.80% | ~1 |
+| Apian Mastery | 0.80% | ~1 |
 | Apian Champion | 0.00% | ~0 |
 | Apian Hero | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 432)  
+Progressed: 119 (Ranked 431)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,4 +152,4 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 99 | 0 |
 | 2023-12-12 | 100 | 0 |
 | 2023-12-13 | 102 | 0 |
-| 2023-12-14 | 116 | 0 |
+| 2023-12-14 | 119 | 0 |

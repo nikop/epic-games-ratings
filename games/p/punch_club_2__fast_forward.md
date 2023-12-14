@@ -11,10 +11,10 @@
 | Your first job | 84.00% | ~311 |
 | Fitness professional | 79.00% | ~292 |
 | Old movies enjoyer | 79.00% | ~292 |
-| Depressed visitor | 78.00% | ~289 |
+| Depressed visitor | 79.00% | ~292 |
 | Neurotrainer – power gainer! | 78.00% | ~289 |
 | Employee of the week | 78.00% | ~289 |
-| Your own amateur gym | 73.00% | ~270 |
+| Your own amateur gym | 74.00% | ~274 |
 | Run K, run! | 73.00% | ~270 |
 | First defeat | 72.00% | ~266 |
 | No bullying more | 70.00% | ~259 |

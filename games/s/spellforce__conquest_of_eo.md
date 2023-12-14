@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | Enough rooms to swing a cat | 91.00% | ~41 |
 | Home Sweet Home | 91.00% | ~41 |
-| First to the post | 87.00% | ~39 |
-| A kind of Magic | 80.00% | ~36 |
+| First to the post | 89.00% | ~40 |
+| A kind of Magic | 84.00% | ~38 |
 | Connected | 78.00% | ~35 |
 | Expansion | 76.00% | ~34 |
 | Harvest Time | 69.00% | ~31 |
-| Mine! | 64.00% | ~29 |
-| Artificer's Apprentice | 62.00% | ~28 |
+| Mine! | 67.00% | ~30 |
+| Artificer's Apprentice | 64.00% | ~29 |
 | Get out of here! | 56.00% | ~25 |
 | Fly the friendly Sky | 53.00% | ~24 |
 | Necromancer's Apprentice | 51.00% | ~23 |

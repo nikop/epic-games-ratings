@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9690,9 +9690,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126942,
+  "EOS_Progressed": 126967,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1195,
+  "EOS_NewPlayers": 1218,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34990,6 +34990,11 @@
       "Time": "2023-12-14T14:09:13.3692526+00:00",
       "NumProgressed": 126942,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T15:09:04.2579894+00:00",
+      "NumProgressed": 126967,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35001,7 +35006,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -35009,7 +35014,7 @@
       "Name": "Serenity Now!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -35079,9 +35084,9 @@
       "ID": "altar_of_hope_unlock_hero_vestal",
       "SetID": "64l4lke",
       "Name": "Unfulfilled Desires",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 762
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -35135,17 +35140,17 @@
       "ID": "combat_kill_cadavers",
       "SetID": "64l4lke",
       "Name": "Dissector",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 889
+      "UsersEstimate": 1016
     },
     {
       "ID": "combat_kill_cosmic",
       "SetID": "64l4lke",
       "Name": "Banishment",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 762
+      "UsersEstimate": 889
     },
     {
       "ID": "combat_kill_death",
@@ -35175,9 +35180,9 @@
       "ID": "combat_kill_fisherfolk",
       "SetID": "64l4lke",
       "Name": "Ichthyophobic",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 635
     },
     {
       "ID": "combat_kill_gaunts",
@@ -35199,9 +35204,9 @@
       "ID": "combat_kill_harvest_child",
       "SetID": "64l4lke",
       "Name": "Meat and Greet",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 2539
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35297,7 +35302,7 @@
       "Name": "Rush Hour",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -35321,7 +35326,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "driving_distance_easy",
@@ -35391,9 +35396,9 @@
       "ID": "inn_first_time",
       "SetID": "64l4lke",
       "Name": "A Place to Lay Your Head",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 889
+      "UsersEstimate": 1016
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -35409,7 +35414,7 @@
       "Name": "FNG",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "inn_visit_all_variants",
@@ -35511,9 +35516,9 @@
       "ID": "stagecoach_upgrade_equip_all",
       "SetID": "64l4lke",
       "Name": "Road Trip",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 762
+      "UsersEstimate": 889
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -35529,7 +35534,7 @@
       "Name": "Ma\u00EEtre De La Lame",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "combat_kill_chirurgeon",
@@ -35537,7 +35542,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "combat_kill_collector",
@@ -35545,7 +35550,7 @@
       "Name": "This guy... again?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35577,7 +35582,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -35593,7 +35598,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "quest_complete_crusader",
@@ -35601,7 +35606,7 @@
       "Name": "Lost and Found",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35609,7 +35614,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -35617,7 +35622,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -35632,21 +35637,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126942,
+      "Progressed": 126967,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1811,
+      "Progressed": 1836,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-14T13:06:19.2097812+00:00",
-  "LastChanged_Achievements": "2023-12-14T14:09:13.3692522+00:00",
+  "LastChanged_Achievements": "2023-12-14T15:09:04.2579889+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:59:51.03823+00:00",
-  "LastUpdate_Achievements": "2023-12-14T14:09:13.3694062+00:00"
+  "LastUpdate_Ratings": "2023-12-14T15:00:08.1323434+00:00",
+  "LastUpdate_Achievements": "2023-12-14T15:09:04.2581483+00:00"
 }

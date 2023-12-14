@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Mathematic | 86.00% | ~75 |
 | It's Yours, My Friend | 74.00% | ~64 |
-| Going Places | 71.00% | ~62 |
-| Conducted Trade | 69.00% | ~60 |
+| Going Places | 72.00% | ~63 |
+| Conducted Trade | 70.00% | ~61 |
 | Aristocratic | 67.00% | ~58 |
 | Digging a Hole | 66.00% | ~57 |
 | Tutti Frutti | 61.00% | ~53 |
@@ -33,7 +33,7 @@
 | Yup. | 1.00% | ~1 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 462)  
+Progressed: 87 (Ranked 463)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |

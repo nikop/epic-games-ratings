@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Something to make you dream... | 15.00% | ~17 |
+| Something to long for... | 15.00% | ~17 |
 | Something ever-changing... | 14.00% | ~16 |
 | Something foundational... | 14.00% | ~16 |
-| Something to make you dream... | 14.00% | ~16 |
-| Something to long for... | 14.00% | ~16 |
 | Something fully in bloom... | 13.00% | ~15 |
 | Something firmly rooted... | 13.00% | ~15 |
 | Something free... | 12.00% | ~14 |

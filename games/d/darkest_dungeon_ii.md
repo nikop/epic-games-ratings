@@ -6,55 +6,55 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 5.00% | ~91 |
-| This guy... again? | 3.00% | ~54 |
-| Lost and Found | 3.00% | ~54 |
+| Malpractice Assurance | 5.00% | ~92 |
+| This guy... again? | 3.00% | ~55 |
+| Lost and Found | 3.00% | ~55 |
 | This Belongs in a Museum | 2.00% | ~2,539 |
 | Not Today! | 2.00% | ~2,539 |
 | Creep and Sleep | 2.00% | ~2,539 |
+| Meat and Greet | 2.00% | ~2,539 |
 | Catch and Decease | 2.00% | ~2,539 |
 | Overdue Notice | 2.00% | ~2,539 |
 | Escape from the Black Hole | 2.00% | ~2,539 |
 | Autodidact | 2.00% | ~2,539 |
-| Bloody Graduation | 2.00% | ~36 |
-| Serenity Now! | 1.00% | ~1,269 |
-| Meat and Greet | 1.00% | ~1,269 |
-| To Grandmother's House | 1.00% | ~1,269 |
+| Bloody Graduation | 2.00% | ~37 |
+| Serenity Now! | 1.00% | ~1,270 |
+| To Grandmother's House | 1.00% | ~1,270 |
 | Ploughshares to Swords | 1.00% | ~18 |
-| Don't Make Me Turn This Coach Around | 0.90% | ~1,142 |
-| Rush Hour | 0.90% | ~1,142 |
-| FNG | 0.90% | ~1,142 |
-| Friends 'Til the End | 0.90% | ~16 |
+| Don't Make Me Turn This Coach Around | 0.90% | ~1,143 |
+| Rush Hour | 0.90% | ~1,143 |
+| FNG | 0.90% | ~1,143 |
+| Friends 'Til the End | 0.90% | ~17 |
 | It Rings a Bell | 0.80% | ~1,016 |
+| Dissector | 0.80% | ~1,016 |
 | It Happens | 0.80% | ~1,016 |
+| A Place to Lay Your Head | 0.80% | ~1,016 |
 | Nope | 0.80% | ~1,016 |
-| Dissector | 0.70% | ~889 |
+| Banishment | 0.70% | ~889 |
 | Deprogramming | 0.70% | ~889 |
 | Merry Time | 0.70% | ~889 |
 | Harvest Festival | 0.70% | ~889 |
 | Whale | 0.70% | ~889 |
-| A Place to Lay Your Head | 0.70% | ~889 |
 | Worldly Traveller | 0.70% | ~889 |
+| Road Trip | 0.70% | ~889 |
+| Unfulfilled Desires | 0.60% | ~762 |
 | Predator | 0.60% | ~762 |
-| Banishment | 0.60% | ~762 |
 | Now Stay Dead | 0.60% | ~762 |
 | Reverse Banditry | 0.60% | ~762 |
 | Spelunker | 0.60% | ~762 |
 | Ramble On | 0.60% | ~762 |
-| Road Trip | 0.60% | ~762 |
 | Resurrection | 0.50% | ~635 |
 | Unleash Hell | 0.50% | ~635 |
 | Funny Guy | 0.50% | ~635 |
 | Long Live the King | 0.50% | ~635 |
 | Wyrdly Reconstructed | 0.50% | ~635 |
 | Boxcar Kid | 0.50% | ~635 |
-| Unfulfilled Desires | 0.50% | ~635 |
+| Ichthyophobic | 0.50% | ~635 |
 | A Clear Conscience | 0.50% | ~635 |
 | When You Want Something Done Right | 0.50% | ~635 |
 | Utopia | 0.50% | ~635 |
 | Unshackled | 0.50% | ~635 |
 | Hope Rekindled | 0.40% | ~508 |
-| Ichthyophobic | 0.40% | ~508 |
 | No More Mouths to Feed | 0.40% | ~508 |
 | Hot Air | 0.40% | ~508 |
 | Eyes Up | 0.40% | ~508 |
@@ -62,9 +62,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Looks Familiar | 0.30% | ~381 |
 | Handled | 0.30% | ~381 |
 | Body of Work | 0.30% | ~381 |
-| Maître De La Lame | 0.30% | ~5 |
-| Et Tu, Riposte? | 0.30% | ~5 |
-| For Old Time' Sake | 0.30% | ~5 |
+| Maître De La Lame | 0.30% | ~6 |
+| Et Tu, Riposte? | 0.30% | ~6 |
+| For Old Time' Sake | 0.30% | ~6 |
 | Clearing the Ledger | 0.20% | ~254 |
 | Bacon Bits | 0.20% | ~254 |
 | Shrine of Reflection | 0.20% | ~254 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,942 (Ranked 84)  
+Progressed: 126,967 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 3 (0.00%) (Ranked 374)
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
-| 2023-12-14 | 126,942 | 3 |
+| 2023-12-14 | 126,967 | 3 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 51)  
 Sum: 20,395 (Ranked 59)  

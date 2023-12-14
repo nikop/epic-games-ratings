@@ -24,8 +24,8 @@ Rating: 4.57 (Ranked 484)
 | The Relentless Storm | 47.00% | ~536 |
 | A Tragic Reminder | 45.00% | ~513 |
 | 3000 Year Blackout | 45.00% | ~513 |
+| So Close | 43.00% | ~491 |
 | The Finisher | 43.00% | ~491 |
-| So Close | 42.00% | ~479 |
 | You Get Used To It | 42.00% | ~479 |
 | Family | 40.00% | ~456 |
 | True Legends | 40.00% | ~456 |

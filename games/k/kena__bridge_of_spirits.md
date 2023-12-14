@@ -6,27 +6,27 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~408,088 |
-| Haikyo | 80.00% | ~343,653 |
+| Found a Friend | 95.00% | ~408,089 |
+| Haikyo | 80.00% | ~343,654 |
 | Good as New | 72.00% | ~309,288 |
-| Into the Woods | 70.00% | ~300,696 |
+| Into the Woods | 70.00% | ~300,697 |
 | Hunter in the Forest | 60.00% | ~257,740 |
 | Rot Commander | 60.00% | ~257,740 |
-| Taro's Fear | 56.00% | ~240,557 |
+| Taro's Fear | 56.00% | ~240,558 |
 | Between the Eyes | 47.00% | ~201,896 |
-| Taro's Love | 46.00% | ~197,600 |
+| Taro's Love | 46.00% | ~197,601 |
 | Taro's Regret | 44.00% | ~189,009 |
 | Spirit Guide | 42.00% | ~180,418 |
 | Harness Your Power | 39.00% | ~167,531 |
-| The Open Range | 37.00% | ~158,939 |
-| Adira's Love | 34.00% | ~146,052 |
+| The Open Range | 37.00% | ~158,940 |
+| Adira's Love | 34.00% | ~146,053 |
 | Adira's Fear | 33.00% | ~141,757 |
-| Weigh Them Down | 31.00% | ~133,165 |
-| Adira's Regret | 31.00% | ~133,165 |
+| Weigh Them Down | 31.00% | ~133,166 |
+| Adira's Regret | 31.00% | ~133,166 |
 | A Heavy Hammer | 30.00% | ~128,870 |
 | Crossing Over | 29.00% | ~124,574 |
 | Quick Draw | 29.00% | ~124,574 |
-| Toshi's Fear | 28.00% | ~120,278 |
+| Toshi's Fear | 28.00% | ~120,279 |
 | Toshi's Regret | 27.00% | ~115,983 |
 | Toshi's Love | 27.00% | ~115,983 |
 | A Leader Walks Alone | 26.00% | ~111,687 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,866 |
 | Master Spirit Guide | 0.30% | ~1,289 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429,566 (Ranked 44)  
+Progressed: 429,567 (Ranked 44)  
 Completed: 553 (0.13%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 553 (0.13%) (Ranked 282)
 | 2023-12-11 | 429,518 | 553 |
 | 2023-12-12 | 429,529 | 553 |
 | 2023-12-13 | 429,544 | 553 |
-| 2023-12-14 | 429,566 | 553 |
+| 2023-12-14 | 429,567 | 553 |
 ## Awards
 Max (Great Boss Battles): 1,344  (Ranked 136)  
 Sum: 1,763 (Ranked 221)  

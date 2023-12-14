@@ -6,31 +6,31 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 78.00% | ~421 |
-| Close call! | 72.00% | ~389 |
-| Builder | 52.00% | ~281 |
-| Pangs of conscience | 45.00% | ~243 |
-| Living it large! | 45.00% | ~243 |
-| Collector | 43.00% | ~232 |
-| Need to think | 43.00% | ~232 |
-| Completely nuts! | 41.00% | ~221 |
-| Europe | 33.00% | ~178 |
-| Just in time! | 33.00% | ~178 |
-| Madness! | 31.00% | ~167 |
-| It's no coincidence. | 30.00% | ~162 |
+| Getting started | 78.00% | ~423 |
+| Close call! | 72.00% | ~390 |
+| Builder | 52.00% | ~282 |
+| Pangs of conscience | 45.00% | ~244 |
+| Living it large! | 45.00% | ~244 |
+| Collector | 43.00% | ~233 |
+| Need to think | 42.00% | ~228 |
+| Completely nuts! | 41.00% | ~222 |
+| Europe | 33.00% | ~179 |
+| Just in time! | 33.00% | ~179 |
+| Madness! | 31.00% | ~168 |
+| It's no coincidence. | 30.00% | ~163 |
 | Philatelist | 27.00% | ~146 |
 | Let's roll! | 27.00% | ~146 |
-| Ouroboros | 25.00% | ~135 |
+| Ouroboros | 25.00% | ~136 |
 | Non Stop! | 24.00% | ~130 |
-| Foreman | 21.00% | ~113 |
+| Foreman | 21.00% | ~114 |
 | Russia | 20.00% | ~108 |
 | America | 19.00% | ~103 |
 | Missed it! | 19.00% | ~103 |
-| Sabotage | 16.00% | ~86 |
+| Sabotage | 16.00% | ~87 |
 | Achtung! | 12.00% | ~65 |
-| Japan | 11.00% | ~59 |
-| Woodcutter | 11.00% | ~59 |
-| Engineer | 11.00% | ~59 |
+| Japan | 11.00% | ~60 |
+| Woodcutter | 11.00% | ~60 |
+| Engineer | 11.00% | ~60 |
 | Tycoon | 9.00% | ~49 |
 | Germany | 7.00% | ~38 |
 | Supercrash! | 5.00% | ~27 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 540 (Ranked 316)  
+Progressed: 542 (Ranked 315)  
 Completed: 2 (0.37%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 2 (0.37%) (Ranked 230)
 | 2023-12-08 | 534 | 2 |
 | 2023-12-09 | 536 | 2 |
 | 2023-12-13 | 539 | 2 |
-| 2023-12-14 | 540 | 2 |
+| 2023-12-14 | 542 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

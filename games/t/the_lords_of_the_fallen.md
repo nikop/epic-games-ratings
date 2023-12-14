@@ -14,22 +14,22 @@ Rating: 4.21 (Ranked 918)
 | Shades of Violence | 0.30% | ~8 |
 | The Past Shapes the Present | 0.30% | ~8 |
 | A Rest Among the Dead | 0.30% | ~8 |
-| Weapon Collector | 0.20% | ~5 |
-| Ammunition Collector | 0.20% | ~5 |
-| Throwable Collector | 0.20% | ~5 |
-| Honed to Perfection | 0.20% | ~5 |
-| Rune Novice | 0.20% | ~5 |
-| Carving Out Victory | 0.20% | ~5 |
-| Utmost Insight | 0.20% | ~5 |
-| Vengeance for the Fallen | 0.20% | ~5 |
-| Rise and Fall | 0.20% | ~5 |
-| Together in Death | 0.20% | ~5 |
-| Burying the Past | 0.20% | ~5 |
-| Unwanted | 0.20% | ~5 |
-| Unbroken to the End | 0.20% | ~5 |
-| Moving On | 0.20% | ~5 |
-| Essence of Death | 0.20% | ~5 |
-| Seasoned | 0.20% | ~5 |
+| Weapon Collector | 0.20% | ~6 |
+| Ammunition Collector | 0.20% | ~6 |
+| Throwable Collector | 0.20% | ~6 |
+| Honed to Perfection | 0.20% | ~6 |
+| Rune Novice | 0.20% | ~6 |
+| Carving Out Victory | 0.20% | ~6 |
+| Utmost Insight | 0.20% | ~6 |
+| Vengeance for the Fallen | 0.20% | ~6 |
+| Rise and Fall | 0.20% | ~6 |
+| Together in Death | 0.20% | ~6 |
+| Burying the Past | 0.20% | ~6 |
+| Unwanted | 0.20% | ~6 |
+| Unbroken to the End | 0.20% | ~6 |
+| Moving On | 0.20% | ~6 |
+| Essence of Death | 0.20% | ~6 |
+| Seasoned | 0.20% | ~6 |
 | Wayfarer | 0.10% | ~3 |
 | Ironclad | 0.10% | ~3 |
 | What Sights Contained Within | 0.10% | ~3 |
@@ -69,7 +69,7 @@ Rating: 4.21 (Ranked 918)
 | Lingering Moments | 0.10% | ~3 |
 | A Trace of Venom | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,722 (Ranked 217)  
+Progressed: 2,760 (Ranked 217)  
 Completed: 2 (0.07%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 2 (0.07%) (Ranked 310)
 | 2023-12-11 | 2,337 | 2 |
 | 2023-12-12 | 2,347 | 2 |
 | 2023-12-13 | 2,475 | 2 |
-| 2023-12-14 | 2,722 | 2 |
+| 2023-12-14 | 2,760 | 2 |
 ## Awards
 Max (Character Customization): 197  (Ranked 293)  
 Sum: 491 (Ranked 331)  

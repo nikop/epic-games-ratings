@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 95.00% | ~162 |
-| To Each Their Own | 47.00% | ~80 |
+| You're Going Down! | 95.00% | ~163 |
+| To Each Their Own | 47.00% | ~81 |
 | You Get An Upgrade, You Get An Upgrade! | 22.00% | ~38 |
 | Like Phileas Fogg | 18.00% | ~31 |
-| Onwards and Upwards | 18.00% | ~31 |
+| Onwards and Upwards | 17.00% | ~29 |
 | Serial Winner | 12.00% | ~21 |
 | Start Your Engines | 10.00% | ~17 |
 | Lone Wolf | 10.00% | ~17 |
 | Highly Qualified | 9.00% | ~15 |
 | No Room for Improvement | 9.00% | ~15 |
+| Playing God | 7.00% | ~12 |
 | Nerd | 6.00% | ~10 |
 | First and Foremost | 6.00% | ~10 |
-| Playing God | 6.00% | ~10 |
 | Made Mother Proud | 5.00% | ~9 |
 | Winner Winner Chicken Dinner | 5.00% | ~9 |
 | Upgradeaholic | 5.00% | ~9 |
 | Tailor-Made | 5.00% | ~9 |
 | Gotta Go Fast! | 4.00% | ~7 |
-| Say My Name | 4.00% | ~7 |
-| Tempus Fugit | 4.00% | ~7 |
 | POI Hunter | 3.00% | ~5 |
 | Seven-League Boots | 3.00% | ~5 |
+| Say My Name | 3.00% | ~5 |
 | First Things First | 3.00% | ~5 |
+| Tempus Fugit | 3.00% | ~5 |
 | Déjà-Vu | 2.00% | ~3 |
 | The Joy of Discovery | 2.00% | ~3 |
 | Geek | 2.00% | ~3 |
@@ -44,8 +44,8 @@
 | Superbike Superfan | 1.00% | ~2 |
 | Playing Favourites | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 171 (Ranked 406)  
-Completed: 2 (1.17%) (Ranked 163)  
+Progressed: 172 (Ranked 406)  
+Completed: 2 (1.16%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,4 +139,4 @@ Completed: 2 (1.17%) (Ranked 163)
 | 2023-11-30 | 164 | 2 |
 | 2023-12-09 | 165 | 2 |
 | 2023-12-13 | 166 | 2 |
-| 2023-12-14 | 171 | 2 |
+| 2023-12-14 | 172 | 2 |

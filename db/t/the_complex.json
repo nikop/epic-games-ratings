@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 665,
+  "EOS_Progressed": 666,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.16,
+  "EOS_Completed_Percentage": 3.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -1135,6 +1135,11 @@
       "Time": "2023-12-14T00:09:28.0392719+00:00",
       "NumProgressed": 665,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-14T15:09:23.5237049+00:00",
+      "NumProgressed": 666,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1146,7 +1151,7 @@
       "Name": "Beat It",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "blast_from_the_past",
@@ -1154,7 +1159,7 @@
       "Name": "Blast From The Past",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "deadly_secret",
@@ -1162,7 +1167,7 @@
       "Name": "Deadly Secret",
       "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ending_1",
@@ -1186,7 +1191,7 @@
       "Name": "Get Out Of This Alive",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ending_4",
@@ -1200,9 +1205,9 @@
       "ID": "ending_5",
       "SetID": "d4f4pll",
       "Name": "Lab Rat",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 166
+      "UsersEstimate": 160
     },
     {
       "ID": "ending_6",
@@ -1298,14 +1303,14 @@
       "Name": "Tough Decision",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 665,
+      "Progressed": 666,
       "Completed": 21
     }
   ],
@@ -1313,8 +1318,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-14T14:09:32.0954634+00:00",
+  "LastChanged_Achievements": "2023-12-14T15:09:23.5237044+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:55.1182233+00:00",
-  "LastUpdate_Ratings": "2023-12-14T14:00:11.6286393+00:00",
-  "LastUpdate_Achievements": "2023-12-14T14:09:32.0954792+00:00"
+  "LastUpdate_Ratings": "2023-12-14T15:00:29.383331+00:00",
+  "LastUpdate_Achievements": "2023-12-14T15:09:23.5237229+00:00"
 }

@@ -4,45 +4,45 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 22.00% | ~72 |
-| Trinity | 12.00% | ~39 |
-| Find Allies | 10.00% | ~33 |
-| Powerful Allies | 9.00% | ~29 |
-| A Taste of Wrath | 9.00% | ~29 |
-| Adventurer | 9.00% | ~29 |
-| Shatter Them All | 9.00% | ~29 |
-| Geared Up | 9.00% | ~29 |
-| Fashion Victim | 9.00% | ~29 |
-| Scholar | 9.00% | ~29 |
-| I Found It | 9.00% | ~29 |
-| The Collector | 9.00% | ~29 |
-| Tributes of Caladrias | 8.00% | ~26 |
-| Stone Collection | 8.00% | ~26 |
+| Break Out | 22.00% | ~74 |
+| Trinity | 12.00% | ~40 |
+| Find Allies | 10.00% | ~34 |
+| Powerful Allies | 9.00% | ~30 |
+| A Taste of Wrath | 9.00% | ~30 |
+| Adventurer | 9.00% | ~30 |
+| Shatter Them All | 9.00% | ~30 |
+| Geared Up | 9.00% | ~30 |
+| Fashion Victim | 9.00% | ~30 |
+| Scholar | 9.00% | ~30 |
+| I Found It | 9.00% | ~30 |
+| The Collector | 9.00% | ~30 |
+| Tributes of Caladrias | 8.00% | ~27 |
+| Stone Collection | 8.00% | ~27 |
 | The Mentor | 7.00% | ~23 |
 | Big Bazar | 7.00% | ~23 |
-| Calm before the Storm | 6.00% | ~20 |
 | Essence Blow | 6.00% | ~20 |
-| Alchemist | 6.00% | ~20 |
-| To Battle | 5.00% | ~16 |
-| Godslayer | 5.00% | ~16 |
+| Calm before the Storm | 5.00% | ~17 |
+| To Battle | 5.00% | ~17 |
+| Godslayer | 5.00% | ~17 |
+| Alchemist | 5.00% | ~17 |
 | Clear Sight | 4.00% | ~13 |
 | Fine Feathers Make Fine Birds | 4.00% | ~13 |
 | Airborne | 3.00% | ~10 |
 | Shatterer | 3.00% | ~10 |
 | Miner | 3.00% | ~10 |
 | Slayer | 2.00% | ~7 |
-| Flawless Victory | 2.00% | ~7 |
 | All There Is | 2.00% | ~7 |
 | False God | 2.00% | ~7 |
-| All That Gold | 2.00% | ~7 |
 | A Queen's Tale | 2.00% | ~7 |
 | Summiter | 2.00% | ~7 |
 | Forgemaster | 1.00% | ~3 |
+| Flawless Victory | 1.00% | ~3 |
+| All That Gold | 1.00% | ~3 |
 | Shardbearer | 0.90% | ~3 |
 | Feeling Fancy | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327 (Ranked 354)  
-Completed: 3 (0.92%) (Ranked 175)  
+Progressed: 335 (Ranked 351)  
+Completed: 3 (0.90%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,4 +104,4 @@ Completed: 3 (0.92%) (Ranked 175)
 | 2023-12-11 | 264 | 2 |
 | 2023-12-12 | 265 | 2 |
 | 2023-12-13 | 282 | 3 |
-| 2023-12-14 | 327 | 3 |
+| 2023-12-14 | 335 | 3 |

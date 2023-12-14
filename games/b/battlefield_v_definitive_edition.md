@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 92.00% | ~26,582 |
-| Enemy Attrition | 72.00% | ~20,803 |
-| Grim Reaper | 70.00% | ~20,225 |
-| Heads Down | 69.00% | ~19,936 |
-| Not On My Watch | 66.00% | ~19,069 |
-| Combat Engineer | 49.00% | ~14,158 |
-| Eager Beaver | 43.00% | ~12,424 |
-| Call ’em in! | 39.00% | ~11,268 |
-| Lovely | 35.00% | ~10,113 |
-| Elite | 23.00% | ~6,645 |
-| Store fuglar fanga ingi flugor | 23.00% | ~6,645 |
-| Ou La Mort | 21.00% | ~6,068 |
-| Fender Bender | 15.00% | ~4,334 |
-| Globetrotter | 12.00% | ~3,467 |
-| Jack of All Trades | 10.00% | ~2,889 |
-| Storyteller | 6.00% | ~1,734 |
-| Death from Above | 4.00% | ~1,156 |
-| Off-hand | 4.00% | ~1,156 |
-| Veteran | 1.00% | ~289 |
-| Hoist the Flag | 0.50% | ~144 |
-| Sins of the Fathers | 0.30% | ~87 |
+| Last Man Standing | 92.00% | ~27,166 |
+| Enemy Attrition | 71.00% | ~20,965 |
+| Grim Reaper | 70.00% | ~20,670 |
+| Heads Down | 68.00% | ~20,079 |
+| Not On My Watch | 65.00% | ~19,193 |
+| Combat Engineer | 48.00% | ~14,173 |
+| Eager Beaver | 42.00% | ~12,402 |
+| Call ’em in! | 38.00% | ~11,221 |
+| Lovely | 35.00% | ~10,335 |
+| Elite | 23.00% | ~6,791 |
+| Store fuglar fanga ingi flugor | 22.00% | ~6,496 |
+| Ou La Mort | 20.00% | ~5,906 |
+| Fender Bender | 14.00% | ~4,134 |
+| Globetrotter | 11.00% | ~3,248 |
+| Jack of All Trades | 10.00% | ~2,953 |
+| Storyteller | 6.00% | ~1,772 |
+| Death from Above | 4.00% | ~1,181 |
+| Off-hand | 4.00% | ~1,181 |
+| Veteran | 1.00% | ~295 |
+| Hoist the Flag | 0.40% | ~118 |
+| Sins of the Fathers | 0.30% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,893 (Ranked 131)  
+Progressed: 29,528 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,4 +115,4 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 24,888 | 0 |
 | 2023-12-12 | 24,993 | 0 |
 | 2023-12-13 | 25,198 | 0 |
-| 2023-12-14 | 28,893 | 0 |
+| 2023-12-14 | 29,528 | 0 |

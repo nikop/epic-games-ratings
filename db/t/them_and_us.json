@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 320,
+  "EOS_Progressed": 321,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1401,6 +1401,11 @@
       "Time": "2023-12-14T13:10:46.9090143+00:00",
       "NumProgressed": 320,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T15:04:00.0978845+00:00",
+      "NumProgressed": 321,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1428,7 +1433,7 @@
       "Name": "Alone with Them",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1530,9 +1535,9 @@
       "ID": "ETUA_MissionOver",
       "SetID": "65jc0ap",
       "Name": "Run and Gun",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 6
     },
     {
       "ID": "ETUA_ModernPlayer",
@@ -1698,9 +1703,9 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 132
     },
     {
       "ID": "ETUA_Trapped",
@@ -1708,7 +1713,7 @@
       "Name": "Trapped",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ETUA_WhatAMansion",
@@ -1731,7 +1736,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 320,
+      "Progressed": 321,
       "Completed": 1
     }
   ],
@@ -1739,8 +1744,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-12-14T14:04:10.5585917+00:00",
+  "LastChanged_Achievements": "2023-12-14T15:04:00.0978841+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.0829701+00:00",
-  "LastUpdate_Ratings": "2023-12-14T14:00:27.0136989+00:00",
-  "LastUpdate_Achievements": "2023-12-14T14:04:10.5586275+00:00"
+  "LastUpdate_Ratings": "2023-12-14T15:00:44.9038647+00:00",
+  "LastUpdate_Achievements": "2023-12-14T15:04:00.0979227+00:00"
 }

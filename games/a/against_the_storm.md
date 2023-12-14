@@ -37,10 +37,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 0.70% | ~127 |
 | Ancient Battleground | 0.60% | ~109 |
 | Statue of the Forefathers | 0.60% | ~109 |
-| Against All Odds | 0.50% | ~90 |
-| Sparkdew Crystals | 0.50% | ~90 |
-| Haunted Forest | 0.50% | ~90 |
-| Flooded Mines | 0.50% | ~90 |
+| Against All Odds | 0.50% | ~91 |
+| Sparkdew Crystals | 0.50% | ~91 |
+| Haunted Forest | 0.50% | ~91 |
+| Flooded Mines | 0.50% | ~91 |
 | Serving Ale | 0.40% | ~72 |
 | Fishmen Ritual Site | 0.40% | ~72 |
 | Forsaken Gods Temple | 0.40% | ~72 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,099 (Ranked 147)  
+Progressed: 18,106 (Ranked 147)  
 Completed: 39 (0.22%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 39 (0.22%) (Ranked 256)
 | 2023-12-11 | 17,957 | 41 |
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
-| 2023-12-14 | 18,099 | 40 |
+| 2023-12-14 | 18,106 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 226)  
 Sum: 3,258 (Ranked 175)  

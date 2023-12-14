@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -925,9 +925,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3969,
+  "EOS_Progressed": 3971,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7055,6 +7055,11 @@
       "Time": "2023-12-14T04:05:31.7149238+00:00",
       "NumProgressed": 3969,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T15:05:06.6132908+00:00",
+      "NumProgressed": 3971,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7075,7 +7080,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "achievement_11",
@@ -7099,7 +7104,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "achievement_14",
@@ -7107,7 +7112,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "achievement_15",
@@ -7115,7 +7120,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2143
+      "UsersEstimate": 2144
     },
     {
       "ID": "achievement_16",
@@ -7123,7 +7128,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "achievement_17",
@@ -7131,7 +7136,7 @@
       "Name": "Pocket Ace",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "achievement_18",
@@ -7179,7 +7184,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "achievement_4",
@@ -7187,7 +7192,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "achievement_5",
@@ -7211,7 +7216,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "achievement_8",
@@ -7227,14 +7232,14 @@
       "Name": "Head-to-Head",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     }
   ],
   "AchievementSets": [
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3969,
+      "Progressed": 3971,
       "Completed": 0
     }
   ],
@@ -7242,8 +7247,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-14T04:03:15.2277546+00:00",
-  "LastChanged_Achievements": "2023-12-14T14:05:15.1961245+00:00",
+  "LastChanged_Achievements": "2023-12-14T15:05:06.6132902+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:06.4979086+00:00",
-  "LastUpdate_Ratings": "2023-12-14T14:03:06.5360135+00:00",
-  "LastUpdate_Achievements": "2023-12-14T14:05:15.1961711+00:00"
+  "LastUpdate_Ratings": "2023-12-14T15:02:52.1794531+00:00",
+  "LastUpdate_Achievements": "2023-12-14T15:05:06.6133334+00:00"
 }

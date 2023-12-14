@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1606,9 +1606,9 @@
       "ID": "ach_main05evil_unicorn",
       "SetID": "4hg22ll",
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 346
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -1894,9 +1894,9 @@
       "ID": "ach_main17stone_explosions",
       "SetID": "4hg22ll",
       "Name": "Brimstone Shaken, Not Stirred",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 143
     },
     {
       "ID": "ach_main17stone_transporter",
@@ -1989,8 +1989,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-14T14:05:29.143302+00:00",
+  "LastChanged_Achievements": "2023-12-14T15:05:20.8898376+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
   "LastUpdate_Ratings": "2023-12-14T14:02:42.9115882+00:00",
-  "LastUpdate_Achievements": "2023-12-14T14:05:29.1433485+00:00"
+  "LastUpdate_Achievements": "2023-12-14T15:05:20.8898941+00:00"
 }

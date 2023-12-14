@@ -6,12 +6,12 @@ Rating: 3.47 (Ranked 1,062)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 4.00% | ~72 |
+| Ne Plus Ultra | 3.00% | ~54 |
 | ICU | 3.00% | ~54 |
 | Catch and Release | 3.00% | ~54 |
 | Home Is Where the Heart Is | 2.00% | ~36 |
 | Enter of Your Own Free Will | 2.00% | ~36 |
 | Blood Will Have Blood | 2.00% | ~36 |
-| Ne Plus Ultra | 2.00% | ~36 |
 | Welcome to the Neighborhood | 2.00% | ~36 |
 | Grounded | 2.00% | ~36 |
 | Fly Fisher | 2.00% | ~36 |

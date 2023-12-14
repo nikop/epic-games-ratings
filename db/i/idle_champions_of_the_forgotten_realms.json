@@ -2,12 +2,12 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 999,
+  "Ranking_Rating": 998,
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8749,10 +8749,10 @@
       "Count": 3571
     }
   ],
-  "EOS_Progressed": 240147,
+  "EOS_Progressed": 240182,
   "EOS_Completed": 2524,
-  "EOS_NewPlayers": 1425,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 1456,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -35579,6 +35579,11 @@
       "Time": "2023-12-14T14:10:15.5043263+00:00",
       "NumProgressed": 240147,
       "NumCompleted": 2524
+    },
+    {
+      "Time": "2023-12-14T15:10:05.2886323+00:00",
+      "NumProgressed": 240182,
+      "NumCompleted": 2524
     }
   ],
   "TotalAchievements": 546,
@@ -39876,9 +39881,9 @@
       "ID": "objective_completed_1557",
       "SetID": "415jc5c",
       "Name": "Welcome to Sigil",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 826
+      "UsersEstimate": 1032
     },
     {
       "ID": "objective_completed_1558",
@@ -39892,9 +39897,9 @@
       "ID": "objective_completed_1562",
       "SetID": "415jc5c",
       "Name": "Fast Food",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 619
+      "UsersEstimate": 826
     },
     {
       "ID": "objective_completed_1563",
@@ -39957,21 +39962,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 206421,
-      "Completed": 3977
+      "Progressed": 206456,
+      "Completed": 3978
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 240147,
+      "Progressed": 240182,
       "Completed": 2524
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-14T13:57:39.3134833+00:00",
-  "LastChanged_Achievements": "2023-12-14T14:10:15.504326+00:00",
+  "LastChanged_Achievements": "2023-12-14T15:10:05.2886319+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:57:39.3134839+00:00",
-  "LastUpdate_Achievements": "2023-12-14T14:10:15.5067583+00:00"
+  "LastUpdate_Ratings": "2023-12-14T14:57:53.8790318+00:00",
+  "LastUpdate_Achievements": "2023-12-14T15:10:05.2910923+00:00"
 }

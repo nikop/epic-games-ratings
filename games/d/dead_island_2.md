@@ -5,59 +5,59 @@ Rating: 4.54 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~22,084 |
-| Welcome To Hell-A | 3.00% | ~22,084 |
-| One of Us | 3.00% | ~1,850 |
-| Whatever It Takes | 3.00% | ~1,850 |
-| Pork Chopped | 3.00% | ~1,850 |
-| Dr. Reed, I Presume? | 2.00% | ~14,723 |
-| Git Gutte! | 2.00% | ~14,723 |
-| Anger Management | 2.00% | ~14,723 |
-| Bookworm | 2.00% | ~14,723 |
-| Break A Leg | 2.00% | ~14,723 |
-| But Doctor, I am Butcho | 2.00% | ~14,723 |
-| Can't Handle the Truth | 2.00% | ~14,723 |
-| Coup de Grâce | 2.00% | ~14,723 |
-| Like Riding a Bike | 2.00% | ~14,723 |
-| Hazardous Materials | 2.00% | ~14,723 |
-| Friends Like These | 2.00% | ~14,723 |
-| Apex Predator | 2.00% | ~14,723 |
-| Zombologist | 2.00% | ~14,723 |
-| A Patton Emerges | 2.00% | ~14,723 |
-| Stacking the Deck | 2.00% | ~14,723 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,723 |
-| Our True Nature | 2.00% | ~14,723 |
-| This is My Weapon | 2.00% | ~14,723 |
-| Making Your Mark | 1.00% | ~7,361 |
-| Perks of the Job | 1.00% | ~7,361 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,361 |
-| Slayer Squad | 1.00% | ~7,361 |
-| Ooh, Shiny! | 1.00% | ~7,361 |
-| Humanity Distilled | 1.00% | ~7,361 |
-| I Am the Resurrection | 1.00% | ~7,361 |
-| Down with the Sickness | 1.00% | ~7,361 |
-| Max Headroom | 1.00% | ~7,361 |
-| Jumbo Keyring | 0.90% | ~6,625 |
-| Go, Bobcats! | 0.90% | ~6,625 |
-| Rising Star | 0.90% | ~6,625 |
-| Not Even My Final Form | 0.80% | ~5,889 |
-| Smorgasbord | 0.70% | ~5,153 |
-| Internet Famous | 0.70% | ~5,153 |
-| Make it So | 0.60% | ~4,417 |
-| On Safari | 0.60% | ~4,417 |
-| Variety is the Spice of Death | 0.60% | ~4,417 |
-| LA Influential | 0.50% | ~3,681 |
-| Gore Horse | 0.50% | ~3,681 |
+| Hotel California | 3.00% | ~22,091 |
+| Welcome To Hell-A | 3.00% | ~22,091 |
+| One of Us | 3.00% | ~1,857 |
+| Whatever It Takes | 3.00% | ~1,857 |
+| Pork Chopped | 3.00% | ~1,857 |
+| Dr. Reed, I Presume? | 2.00% | ~14,727 |
+| Git Gutte! | 2.00% | ~14,727 |
+| Anger Management | 2.00% | ~14,727 |
+| Bookworm | 2.00% | ~14,727 |
+| Break A Leg | 2.00% | ~14,727 |
+| But Doctor, I am Butcho | 2.00% | ~14,727 |
+| Can't Handle the Truth | 2.00% | ~14,727 |
+| Coup de Grâce | 2.00% | ~14,727 |
+| Like Riding a Bike | 2.00% | ~14,727 |
+| Hazardous Materials | 2.00% | ~14,727 |
+| Friends Like These | 2.00% | ~14,727 |
+| Apex Predator | 2.00% | ~14,727 |
+| Zombologist | 2.00% | ~14,727 |
+| A Patton Emerges | 2.00% | ~14,727 |
+| Stacking the Deck | 2.00% | ~14,727 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,727 |
+| Our True Nature | 2.00% | ~14,727 |
+| This is My Weapon | 2.00% | ~14,727 |
+| Making Your Mark | 1.00% | ~7,364 |
+| Perks of the Job | 1.00% | ~7,364 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,364 |
+| Slayer Squad | 1.00% | ~7,364 |
+| Ooh, Shiny! | 1.00% | ~7,364 |
+| Humanity Distilled | 1.00% | ~7,364 |
+| I Am the Resurrection | 1.00% | ~7,364 |
+| Down with the Sickness | 1.00% | ~7,364 |
+| Max Headroom | 1.00% | ~7,364 |
+| Jumbo Keyring | 0.90% | ~6,627 |
+| Go, Bobcats! | 0.90% | ~6,627 |
+| Rising Star | 0.90% | ~6,627 |
+| Not Even My Final Form | 0.80% | ~5,891 |
+| Smorgasbord | 0.70% | ~5,155 |
+| Internet Famous | 0.70% | ~5,155 |
+| Make it So | 0.60% | ~4,418 |
+| On Safari | 0.60% | ~4,418 |
+| Variety is the Spice of Death | 0.60% | ~4,418 |
+| LA Influential | 0.50% | ~3,682 |
+| Gore Horse | 0.50% | ~3,682 |
 | Sole Survivor | 0.40% | ~2,945 |
 | Sharpest Tool in the Box | 0.40% | ~2,945 |
-| Top That, Tisha! | 0.40% | ~247 |
-| Survival Skills | 0.30% | ~2,208 |
-| Lawn and Order | 0.20% | ~123 |
+| Top That, Tisha! | 0.40% | ~248 |
+| Survival Skills | 0.30% | ~2,209 |
+| Lawn and Order | 0.20% | ~124 |
 | Donk! | 0.10% | ~736 |
 | Bucket List | 0.10% | ~736 |
 | Wilhelm | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736,134 (Ranked 20)  
+Progressed: 736,373 (Ranked 20)  
 Completed: 2,482 (0.34%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 2,482 (0.34%) (Ranked 235)
 | 2023-12-11 | 733,504 | 2,477 |
 | 2023-12-12 | 733,868 | 2,480 |
 | 2023-12-13 | 734,518 | 2,482 |
-| 2023-12-14 | 736,134 | 2,482 |
+| 2023-12-14 | 736,373 | 2,482 |
 ## Awards
 Max (Great Boss Battles): 8,125  (Ranked 49)  
 Sum: 12,511 (Ranked 81)  

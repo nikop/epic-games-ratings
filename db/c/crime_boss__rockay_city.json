@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5055,9 +5055,9 @@
       "Count": 512
     }
   ],
-  "EOS_Progressed": 91899,
+  "EOS_Progressed": 91900,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -27900,6 +27900,11 @@
       "Time": "2023-12-14T14:03:32.8158784+00:00",
       "NumProgressed": 91899,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-14T15:03:21.9197247+00:00",
+      "NumProgressed": 91900,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -27951,7 +27956,7 @@
       "Name": "Legend Looter",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_0016",
@@ -27959,7 +27964,7 @@
       "Name": "Imports and Exports",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_0021",
@@ -27983,7 +27988,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_0040",
@@ -27999,7 +28004,7 @@
       "Name": "Foo Finder",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_0060",
@@ -28047,7 +28052,7 @@
       "Name": "Moneybags",
       "Percentage": 0.5,
       "XP": 55,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_0200",
@@ -28087,7 +28092,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 0.5,
       "XP": 55,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_0310",
@@ -28103,7 +28108,7 @@
       "Name": "Ding Dong",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_0340",
@@ -28238,13 +28243,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91899,
+      "Progressed": 91900,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20246,
+      "Progressed": 20247,
       "Completed": 15584
     }
   ],
@@ -28252,8 +28257,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-13T13:04:14.7835531+00:00",
-  "LastChanged_Achievements": "2023-12-14T14:03:32.8158781+00:00",
+  "LastChanged_Achievements": "2023-12-14T15:03:21.9197241+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:49.1202074+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:58:30.0533985+00:00",
-  "LastUpdate_Achievements": "2023-12-14T14:03:32.816008+00:00"
+  "LastUpdate_Ratings": "2023-12-14T14:58:45.1273116+00:00",
+  "LastUpdate_Achievements": "2023-12-14T15:03:21.9198583+00:00"
 }

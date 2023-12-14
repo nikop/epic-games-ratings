@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -1008,9 +1008,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 229353,
+  "EOS_Progressed": 229356,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 550,
+  "EOS_NewPlayers": 551,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27023,6 +27023,11 @@
       "Time": "2023-12-14T14:10:05.2545912+00:00",
       "NumProgressed": 229353,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-14T15:09:56.2312735+00:00",
+      "NumProgressed": 229356,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -27042,7 +27047,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59632
+      "UsersEstimate": 59633
     },
     {
       "ID": "ACH_BASE_11",
@@ -27082,7 +27087,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22935
+      "UsersEstimate": 22936
     },
     {
       "ID": "ACH_BASE_17",
@@ -27098,7 +27103,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22935
+      "UsersEstimate": 22936
     },
     {
       "ID": "ACH_BASE_19",
@@ -27305,7 +27310,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 229353,
+      "Progressed": 229356,
       "Completed": 5
     }
   ],
@@ -27313,8 +27318,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-14T02:58:28.5187272+00:00",
-  "LastChanged_Achievements": "2023-12-14T14:10:05.2545908+00:00",
+  "LastChanged_Achievements": "2023-12-14T15:09:56.2312732+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.549712+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:58:19.5985942+00:00",
-  "LastUpdate_Achievements": "2023-12-14T14:10:05.2547392+00:00"
+  "LastUpdate_Ratings": "2023-12-14T14:58:35.5204561+00:00",
+  "LastUpdate_Achievements": "2023-12-14T15:09:56.2314055+00:00"
 }

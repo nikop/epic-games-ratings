@@ -15,7 +15,7 @@
 | Thalya's Concentrated Fury | 68.00% | ~373 |
 | Heroes’ Gorge | 66.00% | ~362 |
 | Master of Magic | 64.00% | ~351 |
-| Unicorn steaks – fresh off the hoof! | 62.00% | ~340 |
+| Unicorn steaks – fresh off the hoof! | 63.00% | ~346 |
 | Magic Accidents | 60.00% | ~329 |
 | The Ascent | 59.00% | ~324 |
 | It's Warm and Cozy at Home | 59.00% | ~324 |
@@ -43,7 +43,7 @@
 | Stop Tanos! | 27.00% | ~148 |
 | Doom Hill | 27.00% | ~148 |
 | Hungry, Hungry Gorgu! | 26.00% | ~143 |
-| Brimstone Shaken, Not Stirred | 25.00% | ~137 |
+| Brimstone Shaken, Not Stirred | 26.00% | ~143 |
 | Sabotage! | 24.00% | ~132 |
 | Bonus Evilness | 23.00% | ~126 |
 | Raiders of the Lost Stone | 23.00% | ~126 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -909,9 +909,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2722,
+  "EOS_Progressed": 2760,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4694,6 +4694,11 @@
       "Time": "2023-12-14T14:08:53.1239521+00:00",
       "NumProgressed": 2722,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-14T15:08:43.7397059+00:00",
+      "NumProgressed": 2760,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -4730,7 +4735,7 @@
       "Name": "Weapon Collector",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_005",
@@ -4762,7 +4767,7 @@
       "Name": "Ammunition Collector",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_009",
@@ -4794,7 +4799,7 @@
       "Name": "Throwable Collector",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_013",
@@ -4818,7 +4823,7 @@
       "Name": "Honed to Perfection",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_016",
@@ -4826,7 +4831,7 @@
       "Name": "Rune Novice",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_017",
@@ -4842,7 +4847,7 @@
       "Name": "Carving Out Victory",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_019",
@@ -4850,7 +4855,7 @@
       "Name": "Utmost Insight",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_020",
@@ -4874,7 +4879,7 @@
       "Name": "Vengeance for the Fallen",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_023",
@@ -4922,7 +4927,7 @@
       "Name": "Rise and Fall",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_029",
@@ -4930,7 +4935,7 @@
       "Name": "Together in Death",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_030",
@@ -4938,7 +4943,7 @@
       "Name": "Burying the Past",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_031",
@@ -4946,7 +4951,7 @@
       "Name": "Unwanted",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_032",
@@ -4954,7 +4959,7 @@
       "Name": "Unbroken to the End",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_033",
@@ -5050,7 +5055,7 @@
       "Name": "Moving On",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_045",
@@ -5146,7 +5151,7 @@
       "Name": "Essence of Death",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_057",
@@ -5162,7 +5167,7 @@
       "Name": "Seasoned",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_059",
@@ -5209,7 +5214,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 2722,
+      "Progressed": 2760,
       "Completed": 2
     }
   ],
@@ -5217,8 +5222,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-14T07:59:43.4058204+00:00",
-  "LastChanged_Achievements": "2023-12-14T14:08:53.1239517+00:00",
+  "LastChanged_Achievements": "2023-12-14T15:08:43.7397056+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:58.7777436+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:59:09.75627+00:00",
-  "LastUpdate_Achievements": "2023-12-14T14:08:53.1240182+00:00"
+  "LastUpdate_Ratings": "2023-12-14T14:59:27.2713403+00:00",
+  "LastUpdate_Achievements": "2023-12-14T15:08:43.7397811+00:00"
 }

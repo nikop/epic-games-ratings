@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 47,
+  "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66776,
+  "EOS_Progressed": 66787,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 2469,
+  "EOS_NewPlayers": 2466,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3532,6 +3532,11 @@
       "Time": "2023-12-14T14:04:43.0697649+00:00",
       "NumProgressed": 66776,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-12-14T15:04:33.7206853+00:00",
+      "NumProgressed": 66787,
+      "NumCompleted": 77
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -3544,7 +3549,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 24707
+      "UsersEstimate": 24711
     },
     {
       "ID": "Achievement_10",
@@ -3560,7 +3565,7 @@
       "Name": "Owls of the Nest",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "Achievement_12",
@@ -3576,7 +3581,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "Achievement_14",
@@ -3632,7 +3637,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 18030
+      "UsersEstimate": 18032
     },
     {
       "ID": "Achievement_20",
@@ -3696,7 +3701,7 @@
       "Name": "Critter King",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "Achievement_28",
@@ -3704,7 +3709,7 @@
       "Name": "A Better World",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "Achievement_29",
@@ -3720,7 +3725,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8013
+      "UsersEstimate": 8014
     },
     {
       "ID": "Achievement_30",
@@ -3768,7 +3773,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5342
+      "UsersEstimate": 5343
     },
     {
       "ID": "Achievement_5",
@@ -3792,7 +3797,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "Achievement_8",
@@ -3815,7 +3820,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 66776,
+      "Progressed": 66787,
       "Completed": 77
     }
   ],
@@ -3823,8 +3828,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-14T14:03:07.7406649+00:00",
-  "LastChanged_Achievements": "2023-12-14T14:04:43.0697644+00:00",
-  "LastUpdate_AppInfo": "2023-12-07T13:57:23.1238271+00:00",
-  "LastUpdate_Ratings": "2023-12-14T14:03:07.7406654+00:00",
-  "LastUpdate_Achievements": "2023-12-14T14:04:43.0697992+00:00"
+  "LastChanged_Achievements": "2023-12-14T15:04:33.7206849+00:00",
+  "LastUpdate_AppInfo": "2023-12-14T14:57:14.9583048+00:00",
+  "LastUpdate_Ratings": "2023-12-14T15:02:53.688809+00:00",
+  "LastUpdate_Achievements": "2023-12-14T15:04:33.7207407+00:00"
 }

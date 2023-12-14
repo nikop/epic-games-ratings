@@ -4,7 +4,7 @@
   "ProductSlug": "figment2-creed-valley",
   "Ranking_EOS_Progress": 540,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -296,9 +296,9 @@
       "ID": "shards_one_remembrane",
       "SetID": "7e96e7l",
       "Name": "Remembering of the past",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "story_conviction_lane",
@@ -344,9 +344,9 @@
       "ID": "story_outer_cerebrum",
       "SetID": "7e96e7l",
       "Name": "Black Hog Down",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "story_principle_square",
@@ -369,8 +369,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-12-14T14:10:06.812029+00:00",
+  "LastChanged_Achievements": "2023-12-14T15:09:57.9210399+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6476465+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:59:47.4778036+00:00",
-  "LastUpdate_Achievements": "2023-12-14T14:10:06.8120444+00:00"
+  "LastUpdate_Ratings": "2023-12-14T15:00:04.3987586+00:00",
+  "LastUpdate_Achievements": "2023-12-14T15:09:57.9210511+00:00"
 }

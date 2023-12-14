@@ -4,11 +4,11 @@
   "ProductSlug": "capital-command-248527",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 486,
+  "Ranking_EOS_NewPlayers": 485,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
-    "PcReleaseDate": "2023-12-31T00:00:00+00:00",
+    "PcReleaseDate": "2024-12-31T00:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
     "EpicFirstRunAdded": null,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-09T23:57:45.7530696+00:00",
-  "LastUpdate_Ratings": "2023-12-14T13:57:20.6155808+00:00",
-  "LastUpdate_Achievements": "2023-12-14T14:04:51.3139387+00:00"
+  "LastUpdate_Ratings": "2023-12-14T14:57:31.4907363+00:00",
+  "LastUpdate_Achievements": "2023-12-14T15:04:42.0512948+00:00"
 }
