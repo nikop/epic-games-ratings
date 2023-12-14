@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 526,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42,
+  "EOS_Progressed": 43,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.38,
+  "EOS_Completed_Percentage": 2.33,
   "EosHistory": [
     {
       "Time": "2023-08-28T17:08:21.3912781+00:00",
@@ -239,6 +239,11 @@
       "Time": "2023-12-14T19:09:22.2489167+00:00",
       "NumProgressed": 42,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T20:09:31.2874108+00:00",
+      "NumProgressed": 43,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-28T09:06:47.8073027+00:00",
@@ -249,7 +254,7 @@
       "ID": "ACH_01",
       "SetID": "7b646ck",
       "Name": "The Ship",
-      "Percentage": 69,
+      "Percentage": 67,
       "XP": 50,
       "UsersEstimate": 29
     },
@@ -281,15 +286,15 @@
       "ID": "ACH_013",
       "SetID": "7b646ck",
       "Name": "Seeking the truth",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_014",
       "SetID": "7b646ck",
       "Name": "Little grey cells",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -297,7 +302,7 @@
       "ID": "ACH_015",
       "SetID": "7b646ck",
       "Name": "Everything matters",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -313,7 +318,7 @@
       "ID": "ACH_017",
       "SetID": "7b646ck",
       "Name": "Little ideas",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -337,7 +342,7 @@
       "ID": "ACH_02",
       "SetID": "7b646ck",
       "Name": "The Gala",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 25,
       "UsersEstimate": 22
     },
@@ -345,7 +350,7 @@
       "ID": "ACH_020",
       "SetID": "7b646ck",
       "Name": "An old friend",
-      "Percentage": 55,
+      "Percentage": 53,
       "XP": 25,
       "UsersEstimate": 23
     },
@@ -353,7 +358,7 @@
       "ID": "ACH_021",
       "SetID": "7b646ck",
       "Name": "A curious gathering",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -369,7 +374,7 @@
       "ID": "ACH_023",
       "SetID": "7b646ck",
       "Name": "An odd series of events",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -409,7 +414,7 @@
       "ID": "ACH_028",
       "SetID": "7b646ck",
       "Name": "Impossible is possible",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
       "UsersEstimate": 20
     },
@@ -425,7 +430,7 @@
       "ID": "ACH_03",
       "SetID": "7b646ck",
       "Name": "The Missing Magdalene",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 25,
       "UsersEstimate": 20
     },
@@ -449,7 +454,7 @@
       "ID": "ACH_032",
       "SetID": "7b646ck",
       "Name": "Betty Allen",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -489,7 +494,7 @@
       "ID": "ACH_037",
       "SetID": "7b646ck",
       "Name": "Arthur Hastings",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
       "UsersEstimate": 20
     },
@@ -497,7 +502,7 @@
       "ID": "ACH_038",
       "SetID": "7b646ck",
       "Name": "Horace Mountjoy",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -513,7 +518,7 @@
       "ID": "ACH_04",
       "SetID": "7b646ck",
       "Name": "The Investigation Begins",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
       "UsersEstimate": 16
     },
@@ -521,7 +526,7 @@
       "ID": "ACH_040",
       "SetID": "7b646ck",
       "Name": "Johan Kristiansen",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -529,7 +534,7 @@
       "ID": "ACH_041",
       "SetID": "7b646ck",
       "Name": "Marc Allard",
-      "Percentage": 79,
+      "Percentage": 77,
       "XP": 15,
       "UsersEstimate": 33
     },
@@ -545,7 +550,7 @@
       "ID": "ACH_043",
       "SetID": "7b646ck",
       "Name": "Nathaniel Dryden",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 25,
       "UsersEstimate": 12
     },
@@ -577,7 +582,7 @@
       "ID": "ACH_05",
       "SetID": "7b646ck",
       "Name": "The Apartment",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -601,7 +606,7 @@
       "ID": "ACH_08",
       "SetID": "7b646ck",
       "Name": "The Secrets",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -618,14 +623,14 @@
     {
       "ID": "7b646ck",
       "IsBase": true,
-      "Progressed": 42,
+      "Progressed": 43,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-12-14T19:09:22.2489164+00:00",
+  "LastChanged_Achievements": "2023-12-14T20:09:31.2874102+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:17.0457918+00:00",
-  "LastUpdate_Ratings": "2023-12-14T18:59:26.0842759+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:09:22.2489504+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:59:55.4060553+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:09:31.2874417+00:00"
 }

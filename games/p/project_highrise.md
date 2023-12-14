@@ -14,7 +14,7 @@
 | It's Technical | 38.00% | ~139 |
 | Upgrade Unlock | 37.00% | ~135 |
 | Delegate Maintenance | 34.00% | ~124 |
-| Proper Walls | 32.00% | ~117 |
+| Proper Walls | 33.00% | ~121 |
 | Destination Destiny | 32.00% | ~117 |
 | Happy Tenants | 26.00% | ~95 |
 | Potent Potables | 26.00% | ~95 |
@@ -42,9 +42,9 @@
 | 28 Days Later | 11.00% | ~40 |
 | Swimming in Surplus | 11.00% | ~40 |
 | Aestheticly Pleased | 10.00% | ~37 |
+| Plaza Plan | 10.00% | ~37 |
 | Master of Puppets | 10.00% | ~37 |
 | Refined Palates | 10.00% | ~37 |
-| Plaza Plan | 9.00% | ~33 |
 | Phoning It In | 9.00% | ~33 |
 | First 100 Days | 8.00% | ~29 |
 | Water Features | 8.00% | ~29 |

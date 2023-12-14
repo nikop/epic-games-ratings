@@ -6,7 +6,7 @@
   "Ranking_Popularity": 563,
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
@@ -277,11 +277,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16223,
+  "EOS_Progressed": 16229,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.27,
+  "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -13822,6 +13822,11 @@
       "Time": "2023-12-14T19:08:15.0236292+00:00",
       "NumProgressed": 16223,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-14T20:07:41.2353286+00:00",
+      "NumProgressed": 16229,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13866,7 +13871,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "14",
@@ -13882,7 +13887,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "16",
@@ -13898,7 +13903,7 @@
       "Name": "Spore Taste",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "18",
@@ -13922,7 +13927,7 @@
       "Name": "Data Logger",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "20",
@@ -13978,7 +13983,7 @@
       "Name": "Call it Even",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "27",
@@ -14034,7 +14039,7 @@
       "Name": "Data Master",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "6",
@@ -14082,7 +14087,7 @@
       "Name": "Safe Cracker",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "33",
@@ -14090,7 +14095,7 @@
       "Name": "Zen Master",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "34",
@@ -14106,20 +14111,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16223,
+      "Progressed": 16229,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2177,
+      "Progressed": 2183,
       "Completed": 885
     }
   ],
@@ -14127,8 +14132,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-14T19:08:15.0236287+00:00",
+  "LastChanged_Achievements": "2023-12-14T20:07:41.2353284+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-14T18:57:41.1600223+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:08:15.0237112+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:57:29.8271482+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:07:41.2353917+00:00"
 }

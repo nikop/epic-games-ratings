@@ -6,23 +6,23 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 1.00% | ~7,223 |
-| The Assault | 1.00% | ~7,223 |
-| Life is your teacher | 1.00% | ~7,223 |
-| Lightning Hands | 1.00% | ~7,223 |
-| Diligence as a goal | 1.00% | ~316 |
+| The Old Grandmaster | 1.00% | ~7,224 |
+| The Assault | 1.00% | ~7,224 |
+| Life is your teacher | 1.00% | ~7,224 |
+| Lightning Hands | 1.00% | ~7,224 |
+| Diligence as a goal | 1.00% | ~317 |
 | The Hateful Pole Fighter | 0.80% | ~5,779 |
 | State of constant learning | 0.80% | ~5,779 |
 | Qi Gong: Breath | 0.80% | ~5,779 |
 | Qi Gong: Essence | 0.80% | ~5,779 |
 | Rumble in the Hangar | 0.80% | ~5,779 |
 | Project Arena | 0.80% | ~253 |
-| A Lady's Blood in the Snow | 0.70% | ~5,056 |
-| Lady Wing Chun | 0.70% | ~5,056 |
-| Stuntmaster | 0.70% | ~5,056 |
-| Street Fighting | 0.70% | ~5,056 |
-| Old Child | 0.70% | ~5,056 |
-| Path of the Prospect | 0.70% | ~5,056 |
+| A Lady's Blood in the Snow | 0.70% | ~5,057 |
+| Lady Wing Chun | 0.70% | ~5,057 |
+| Stuntmaster | 0.70% | ~5,057 |
+| Street Fighting | 0.70% | ~5,057 |
+| Old Child | 0.70% | ~5,057 |
+| Path of the Prospect | 0.70% | ~5,057 |
 | Furious Fists | 0.60% | ~4,334 |
 | Kill Nil | 0.60% | ~4,334 |
 | Take damage to save time | 0.60% | ~4,334 |
@@ -33,7 +33,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 0.50% | ~3,612 |
 | Martial Hub | 0.50% | ~158 |
 | Dance of the Praying Mantis | 0.40% | ~2,889 |
-| Bloody Sport | 0.40% | ~126 |
+| Bloody Sport | 0.40% | ~127 |
 | Muk Yan Master | 0.30% | ~2,167 |
 | Tiger on Fire | 0.30% | ~2,167 |
 | Source of Flying Daggers | 0.30% | ~2,167 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~32 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,324 (Ranked 24)  
+Progressed: 722,361 (Ranked 24)  
 Completed: 12,953 (1.79%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 12,953 (1.79%) (Ranked 136)
 | 2023-12-11 | 717,971 | 12,952 |
 | 2023-12-12 | 717,993 | 12,952 |
 | 2023-12-13 | 718,112 | 12,953 |
-| 2023-12-14 | 722,324 | 12,953 |
+| 2023-12-14 | 722,361 | 12,953 |
 ## Awards
 Max (Great Boss Battles): 6,923  (Ranked 55)  
 Sum: 12,152 (Ranked 83)  

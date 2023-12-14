@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 75,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 492,
+  "Ranking_EOS_NewPlayers": 493,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2016-04-05T15:00:00+00:00",
@@ -6491,10 +6491,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 14520,
       "NumberOfAwardsMax": 8160
+    },
+    {
+      "Time": "2023-12-14T19:58:18.4442695+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 14522,
+      "NumberOfAwardsMax": 8160
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14520,
+  "NumberOfAwards": 14522,
   "NumberOfAwardsMax": 8160,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6514,7 +6520,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 959
+      "Count": 961
     },
     {
       "Text": "This game has Challenging Combat",
@@ -6576,8 +6582,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:04.490879+00:00",
-  "LastChanged": "2023-12-14T15:58:15.7531315+00:00",
+  "LastChanged": "2023-12-14T19:58:18.4442693+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:18.2905609+00:00",
-  "LastUpdate_Ratings": "2023-12-14T18:58:15.1125229+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:09:36.2459277+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:58:18.4442699+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:09:49.9394028+00:00"
 }

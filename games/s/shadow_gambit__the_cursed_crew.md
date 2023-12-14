@@ -22,8 +22,8 @@ Rating: 4.81 (Ranked 84)
 | Seadog | 15.00% | ~172 |
 | Jaded Judge | 12.00% | ~138 |
 | Rustic Recipe | 11.00% | ~126 |
+| Privateer | 10.00% | ~115 |
 | Tobacco Travesty | 10.00% | ~115 |
-| Privateer | 9.00% | ~103 |
 | Accursed Artifacts | 9.00% | ~103 |
 | Lyrical Longing | 9.00% | ~103 |
 | Fully Decked | 7.00% | ~80 |

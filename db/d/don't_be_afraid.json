@@ -4,7 +4,7 @@
   "ProductSlug": "dont-be-afraid",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 492,
+  "Ranking_EOS_NewPlayers": 493,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-11T15:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:05.4312651+00:00",
   "LastChanged": "2023-03-31T05:58:05.4312652+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:59.9897941+00:00",
-  "LastUpdate_Ratings": "2023-12-14T18:58:13.3571956+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:08:29.1471721+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:58:15.940538+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:08:20.253239+00:00"
 }

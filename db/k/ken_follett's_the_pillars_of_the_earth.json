@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -564,7 +564,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 17032,
+  "EOS_Progressed": 17034,
   "EOS_Completed": 119,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 3,
@@ -16089,6 +16089,11 @@
       "Time": "2023-12-14T19:06:15.1097812+00:00",
       "NumProgressed": 17032,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-14T20:07:02.4742804+00:00",
+      "NumProgressed": 17034,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16116,7 +16121,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3917
+      "UsersEstimate": 3918
     },
     {
       "ID": "tpote_achievement_12",
@@ -16156,7 +16161,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "tpote_achievement_17",
@@ -16204,7 +16209,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 4939
+      "UsersEstimate": 4940
     },
     {
       "ID": "tpote_achievement_22",
@@ -16212,7 +16217,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3406
+      "UsersEstimate": 3407
     },
     {
       "ID": "tpote_achievement_23",
@@ -16276,7 +16281,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5280
+      "UsersEstimate": 5281
     },
     {
       "ID": "tpote_achievement_30",
@@ -16300,7 +16305,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "tpote_achievement_33",
@@ -16364,7 +16369,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6813
+      "UsersEstimate": 6814
     },
     {
       "ID": "tpote_achievement_40",
@@ -16396,7 +16401,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3917
+      "UsersEstimate": 3918
     },
     {
       "ID": "tpote_achievement_7",
@@ -16420,22 +16425,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5791
+      "UsersEstimate": 5792
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17032,
+      "Progressed": 17034,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-13T16:01:07.6767372+00:00",
-  "LastChanged_Achievements": "2023-12-14T19:06:15.1097807+00:00",
+  "LastChanged_Achievements": "2023-12-14T20:07:02.47428+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:23.5508408+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:00:32.8835156+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:06:15.1098824+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:01:26.2704831+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:07:02.4743805+00:00"
 }

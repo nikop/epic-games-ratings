@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8259,9 +8259,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 722324,
+  "EOS_Progressed": 722361,
   "EOS_Completed": 12953,
-  "EOS_NewPlayers": 4460,
+  "EOS_NewPlayers": 4494,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.79,
   "EosHistory": [
@@ -29349,6 +29349,11 @@
       "Time": "2023-12-14T19:08:46.6573401+00:00",
       "NumProgressed": 722324,
       "NumCompleted": 12953
+    },
+    {
+      "Time": "2023-12-14T20:08:44.6677221+00:00",
+      "NumProgressed": 722361,
+      "NumCompleted": 12953
     }
   ],
   "TotalAchievements": 60,
@@ -29360,7 +29365,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7223
+      "UsersEstimate": 7224
     },
     {
       "ID": "02_Vengeance_H1",
@@ -29368,7 +29373,7 @@
       "Name": "The Assault",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7223
+      "UsersEstimate": 7224
     },
     {
       "ID": "03_Vengeance_H2",
@@ -29384,7 +29389,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "05_Vengeance_H4",
@@ -29392,7 +29397,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "06_Vengeance_H5",
@@ -29512,7 +29517,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -29528,7 +29533,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -29536,7 +29541,7 @@
       "Name": "Life is your teacher",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7223
+      "UsersEstimate": 7224
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -29608,7 +29613,7 @@
       "Name": "Old Child",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "33_BladeOneShot",
@@ -29624,7 +29629,7 @@
       "Name": "Lightning Hands",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7223
+      "UsersEstimate": 7224
     },
     {
       "ID": "35_WideStrike",
@@ -29640,7 +29645,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -29704,7 +29709,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -29712,7 +29717,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -29839,21 +29844,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 31625,
+      "Progressed": 31662,
       "Completed": 10771
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 722324,
+      "Progressed": 722361,
       "Completed": 12953
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-14T01:49:50.3511384+00:00",
-  "LastChanged_Achievements": "2023-12-14T19:08:46.6573398+00:00",
+  "LastChanged_Achievements": "2023-12-14T20:08:44.6677219+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:05.3418066+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:03:07.0358116+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:08:46.6574528+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:03:01.8036558+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:08:44.6678382+00:00"
 }

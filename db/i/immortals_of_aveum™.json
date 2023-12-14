@@ -2,10 +2,10 @@
   "ID": "33a47f9b76374045b7da20af80c40aa1",
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
-  "Ranking_Rating": 1002,
+  "Ranking_Rating": 998,
   "Ranking_Popularity": 563,
   "Ranking_PopularitySum": 563,
-  "Ranking_EOS_Progress": 322,
+  "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 87,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.05,
+  "Rating": 4.06,
   "RatingHistory": [
     {
       "Time": "2023-08-31T18:56:53.9930762+00:00",
@@ -181,15 +181,21 @@
       "Rating": 4.05,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-14T20:00:55.8639319+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 484,
+  "EOS_Progressed": 493,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1737,6 +1743,11 @@
       "Time": "2023-12-14T19:09:37.9015465+00:00",
       "NumProgressed": 484,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-14T20:09:52.1137583+00:00",
+      "NumProgressed": 493,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1747,9 +1758,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 434
     },
     {
       "ID": "achievement_10",
@@ -1757,7 +1768,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_11",
@@ -1765,15 +1776,15 @@
       "Name": "The Means to Save It",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_13",
@@ -1781,7 +1792,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_14",
@@ -1789,7 +1800,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "achievement_15",
@@ -1797,7 +1808,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "achievement_16",
@@ -1805,7 +1816,7 @@
       "Name": "Recruit",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_17",
@@ -1813,7 +1824,7 @@
       "Name": "Lights Army",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_18",
@@ -1829,15 +1840,15 @@
       "Name": "Socialite",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 394
     },
     {
       "ID": "achievement_20",
@@ -1885,23 +1896,23 @@
       "Name": "Scholar",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "achievement_36",
       "SetID": "18al4io",
       "Name": "Armsman",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_37",
@@ -1909,7 +1920,7 @@
       "Name": "Kitted Out",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_38",
@@ -1917,15 +1928,15 @@
       "Name": "Best Dressed",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 251
     },
     {
       "ID": "achievement_41",
@@ -1933,7 +1944,7 @@
       "Name": "Armaments Azure",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_42",
@@ -1941,7 +1952,7 @@
       "Name": "Armaments Gules",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_43",
@@ -1963,9 +1974,9 @@
       "ID": "achievement_45",
       "SetID": "18al4io",
       "Name": "Periapt Alizarin",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 79
     },
     {
       "ID": "achievement_46",
@@ -1973,31 +1984,31 @@
       "Name": "Periapt Viridian",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 350
     },
     {
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 197
     },
     {
       "ID": "achievement_50",
@@ -2037,15 +2048,15 @@
       "Name": "Shroudfane Explorer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 182
     },
     {
       "ID": "achievement_60",
@@ -2099,9 +2110,9 @@
       "ID": "achievement_7",
       "SetID": "18al4io",
       "Name": "Gravity-Challenged Rocks",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 148
     },
     {
       "ID": "achievement_8",
@@ -2109,31 +2120,31 @@
       "Name": "All the Major Food Groups",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_9",
       "SetID": "18al4io",
       "Name": "Beggars Would Ride",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 113
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 484,
+      "Progressed": 493,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-08-22T19:00:26.7529904+00:00",
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
-  "LastChanged": "2023-12-09T15:57:09.3357471+00:00",
-  "LastChanged_Achievements": "2023-12-14T19:09:37.9015462+00:00",
+  "LastChanged": "2023-12-14T20:00:55.8639319+00:00",
+  "LastChanged_Achievements": "2023-12-14T20:09:52.1137577+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9844668+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:00:12.2841193+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:09:37.901578+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:00:55.8639321+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:09:52.1137964+00:00"
 }

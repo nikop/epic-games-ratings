@@ -11,7 +11,7 @@ Number of Ratings: 281  (23.09.2022)
 | Hey Good Hookin | 5.00% | ~344 |
 | More Fish in the Sea | 5.00% | ~344 |
 | Scaling up | 5.00% | ~344 |
-| I'm on a Boat! | 4.00% | ~275 |
+| I'm on a Boat! | 4.00% | ~276 |
 | Ready to Rod and Roll | 3.00% | ~207 |
 | Fish Out of Water | 3.00% | ~207 |
 | Things that go Splash in the Night | 3.00% | ~207 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,886 (Ranked 184)  
+Progressed: 6,890 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 6,766 | 0 |
 | 2023-12-12 | 6,776 | 0 |
 | 2023-12-13 | 6,783 | 0 |
-| 2023-12-14 | 6,886 | 0 |
+| 2023-12-14 | 6,890 | 0 |
 ## Awards
 Max (Relaxing): 38  (Ranked 469)  
 Sum: 201 (Ranked 403)  

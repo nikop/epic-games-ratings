@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 79.00% | ~33 |
-| Little ideas | 71.00% | ~30 |
-| The Ship | 69.00% | ~29 |
-| Seeking the truth | 57.00% | ~24 |
-| An old friend | 55.00% | ~23 |
-| The Gala | 52.00% | ~22 |
-| A curious gathering | 52.00% | ~22 |
-| Little grey cells | 50.00% | ~21 |
-| Impossible is possible | 48.00% | ~20 |
-| The Missing Magdalene | 48.00% | ~20 |
-| Arthur Hastings | 48.00% | ~20 |
-| Everything matters | 43.00% | ~18 |
+| Marc Allard | 77.00% | ~33 |
+| Little ideas | 70.00% | ~30 |
+| The Ship | 67.00% | ~29 |
+| Seeking the truth | 58.00% | ~25 |
+| An old friend | 53.00% | ~23 |
+| The Gala | 51.00% | ~22 |
+| A curious gathering | 51.00% | ~22 |
+| Little grey cells | 49.00% | ~21 |
+| Impossible is possible | 47.00% | ~20 |
+| The Missing Magdalene | 47.00% | ~20 |
+| Arthur Hastings | 47.00% | ~20 |
+| Everything matters | 42.00% | ~18 |
 | Order and method | 40.00% | ~17 |
 | An expert mediator | 40.00% | ~17 |
 | DI Hardwicke | 40.00% | ~17 |
-| Betty Allen | 38.00% | ~16 |
-| The Investigation Begins | 38.00% | ~16 |
+| Betty Allen | 37.00% | ~16 |
+| The Investigation Begins | 37.00% | ~16 |
 | Ms. Camilla B. Culsham | 33.00% | ~14 |
 | Irene Court-Smyth | 33.00% | ~14 |
-| An odd series of events | 31.00% | ~13 |
-| The Apartment | 31.00% | ~13 |
-| Nathaniel Dryden | 29.00% | ~12 |
+| An odd series of events | 30.00% | ~13 |
+| The Apartment | 30.00% | ~13 |
+| Nathaniel Dryden | 28.00% | ~12 |
 | Well-acquainted | 26.00% | ~11 |
 | Truth from within | 26.00% | ~11 |
 | A rude awakening | 26.00% | ~11 |
@@ -36,9 +36,9 @@
 | A curious phrase | 21.00% | ~9 |
 | Evelyn Lakshmi Warbeck | 21.00% | ~9 |
 | The Suspects | 21.00% | ~9 |
-| Horace Mountjoy | 17.00% | ~7 |
-| Johan Kristiansen | 17.00% | ~7 |
-| The Secrets | 17.00% | ~7 |
+| Horace Mountjoy | 16.00% | ~7 |
+| Johan Kristiansen | 16.00% | ~7 |
+| The Secrets | 16.00% | ~7 |
 | Well-travelled | 14.00% | ~6 |
 | A peculiar fellow | 14.00% | ~6 |
 | Florence Farquhar | 14.00% | ~6 |
@@ -51,8 +51,8 @@
 | A true performance | 12.00% | ~5 |
 | Perkins | 7.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 526)  
-Completed: 1 (2.38%) (Ranked 126)  
+Progressed: 43 (Ranked 526)  
+Completed: 1 (2.33%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,4 +90,4 @@ Completed: 1 (2.38%) (Ranked 126)
 | 2023-12-01 | 38 | 1 |
 | 2023-12-04 | 39 | 1 |
 | 2023-12-13 | 41 | 1 |
-| 2023-12-14 | 42 | 1 |
+| 2023-12-14 | 43 | 1 |

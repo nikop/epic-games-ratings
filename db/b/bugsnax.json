@@ -4,11 +4,11 @@
   "ProductSlug": "bugsnax",
   "Ranking_Rating": 35,
   "Ranking_Popularity": 459,
-  "Ranking_PopularitySum": 355,
+  "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -864,10 +864,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 369,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-12-14T20:01:26.4308831+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 370,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 369,
+  "NumberOfAwards": 370,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -917,7 +923,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game is Relaxing",
@@ -944,9 +950,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 28762,
+  "EOS_Progressed": 28763,
   "EOS_Completed": 1399,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 4.86,
   "EosHistory": [
@@ -7594,6 +7600,11 @@
       "Time": "2023-12-14T19:09:31.1487132+00:00",
       "NumProgressed": 28762,
       "NumCompleted": 1399
+    },
+    {
+      "Time": "2023-12-14T20:09:43.5057323+00:00",
+      "NumProgressed": 28763,
+      "NumCompleted": 1399
     }
   ],
   "TotalAchievements": 30,
@@ -7661,7 +7672,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 18983
+      "UsersEstimate": 18984
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -7669,7 +7680,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 22147
+      "UsersEstimate": 22148
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -7701,7 +7712,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 27899
+      "UsersEstimate": 27900
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -7797,7 +7808,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 26749
+      "UsersEstimate": 26750
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -7805,7 +7816,7 @@
       "Name": "Perf Dirt",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 16394
+      "UsersEstimate": 16395
     },
     {
       "ID": "ACH_SUNDAE",
@@ -7821,7 +7832,7 @@
       "Name": "Midnight Snak",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10354
+      "UsersEstimate": 10355
     },
     {
       "ID": "ACH_TRAP_TWO",
@@ -7837,22 +7848,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 25023
+      "UsersEstimate": 25024
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28762,
+      "Progressed": 28763,
       "Completed": 1399
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
-  "LastChanged": "2023-12-14T01:46:55.4897006+00:00",
-  "LastChanged_Achievements": "2023-12-14T19:09:31.1487127+00:00",
+  "LastChanged": "2023-12-14T20:01:26.4308829+00:00",
+  "LastChanged_Achievements": "2023-12-14T20:09:43.505732+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:23.6496884+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:00:32.9499952+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:09:31.1487809+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:01:26.4308833+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:09:43.505777+00:00"
 }

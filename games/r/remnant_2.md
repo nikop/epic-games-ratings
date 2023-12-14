@@ -5,27 +5,27 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 2.00% | ~4,838 |
-| First of Many | 1.00% | ~2,419 |
-| Not Your Average Trait | 0.90% | ~2,177 |
-| Regicide | 0.80% | ~168 |
-| Master of the Dark Arts | 0.80% | ~168 |
-| Expanding Horizons | 0.70% | ~1,693 |
-| Gleaming the Cube | 0.60% | ~1,451 |
-| Quest for Survival | 0.60% | ~1,451 |
-| Not a Janitor | 0.60% | ~1,451 |
-| Familiar Face | 0.60% | ~1,451 |
-| Boss'n Up | 0.60% | ~1,451 |
-| Trait Chaser | 0.60% | ~1,451 |
-| Am I Seeing This? | 0.50% | ~1,209 |
-| Not So Special Now | 0.50% | ~1,209 |
-| Equal Measures | 0.50% | ~1,209 |
-| Blue Goddess | 0.50% | ~1,209 |
-| Duality | 0.50% | ~1,209 |
-| Top Performer | 0.50% | ~1,209 |
-| Almost There | 0.50% | ~1,209 |
-| Make Some Room | 0.50% | ~1,209 |
-| Good, But Could Be Better! | 0.50% | ~1,209 |
+| The Killing Jar | 2.00% | ~4,839 |
+| First of Many | 1.00% | ~2,420 |
+| Not Your Average Trait | 0.90% | ~2,178 |
+| Regicide | 0.90% | ~190 |
+| Master of the Dark Arts | 0.80% | ~169 |
+| Expanding Horizons | 0.70% | ~1,694 |
+| Gleaming the Cube | 0.60% | ~1,452 |
+| Quest for Survival | 0.60% | ~1,452 |
+| Not a Janitor | 0.60% | ~1,452 |
+| Familiar Face | 0.60% | ~1,452 |
+| Boss'n Up | 0.60% | ~1,452 |
+| Trait Chaser | 0.60% | ~1,452 |
+| Am I Seeing This? | 0.50% | ~1,210 |
+| Not So Special Now | 0.50% | ~1,210 |
+| Equal Measures | 0.50% | ~1,210 |
+| Blue Goddess | 0.50% | ~1,210 |
+| Duality | 0.50% | ~1,210 |
+| Top Performer | 0.50% | ~1,210 |
+| Almost There | 0.50% | ~1,210 |
+| Make Some Room | 0.50% | ~1,210 |
+| Good, But Could Be Better! | 0.50% | ~1,210 |
 | Chaos | 0.40% | ~968 |
 | Traitor | 0.40% | ~968 |
 | Forever is a Long Time Coming | 0.40% | ~968 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 150)
 | You Shall Pass | 0.20% | ~42 |
 | A Foul Feast | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,894 (Ranked 64)  
+Progressed: 241,959 (Ranked 64)  
 Completed: 585 (0.24%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,10 +212,10 @@ Completed: 585 (0.24%) (Ranked 252)
 | 2023-12-11 | 238,673 | 579 |
 | 2023-12-12 | 239,053 | 581 |
 | 2023-12-13 | 239,544 | 584 |
-| 2023-12-14 | 241,894 | 585 |
+| 2023-12-14 | 241,959 | 585 |
 ## Awards
 Max (Great Boss Battles): 2,757  (Ranked 101)  
-Sum: 6,911 (Ranked 126)  
+Sum: 6,913 (Ranked 126)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -224,8 +224,8 @@ Diff (max vs sum): -25
 | This game is Highly Recommended | 444 |
 | This game has Challenging Combat | 439 |
 | This game is Relaxing | 429 |
+| This game is Extremely Fun | 426 |
 | This game has Amazing Storytelling | 426 |
-| This game is Extremely Fun | 424 |
 | This game has Quickly Understood Controls | 424 |
 | This game has Amazing Characters | 418 |
 | This game has Unique Visuals | 367 |
@@ -374,4 +374,4 @@ Diff (max vs sum): -25
 | 2023-12-11 | 4.75 | 2,717 | 6,788 |
 | 2023-12-12 | 4.75 | 2,730 | 6,825 |
 | 2023-12-13 | 4.75 | 2,741 | 6,871 |
-| 2023-12-14 | 4.75 | 2,757 | 6,911 |
+| 2023-12-14 | 4.75 | 2,757 | 6,913 |

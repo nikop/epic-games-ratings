@@ -24,7 +24,7 @@ Number of Ratings: 34  (23.09.2022)
 | Opportunities | 31.00% | ~206 |
 | The Horror | 29.00% | ~193 |
 | The Difference | 27.00% | ~180 |
-| Vengeance | 25.00% | ~166 |
+| Vengeance | 26.00% | ~173 |
 | It's Just an Accident | 25.00% | ~166 |
 | Broken Hopes | 23.00% | ~153 |
 | Bullseye! | 23.00% | ~153 |

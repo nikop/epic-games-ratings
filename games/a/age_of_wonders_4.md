@@ -51,9 +51,9 @@ Rating: 4.62 (Ranked 371)
 | Grexolis | 0.70% | ~39 |
 | One for All, All for One | 0.70% | ~39 |
 | I've Got Everything I Need Right Here | 0.60% | ~34 |
-| Against the Odds | 0.60% | ~34 |
-| Pruning for Progress | 0.60% | ~34 |
 | Duality | 0.60% | ~34 |
+| Against the Odds | 0.50% | ~28 |
+| Pruning for Progress | 0.50% | ~28 |
 | Snap Out of It! | 0.30% | ~17 |
 | The Magic That Empowers Me! | 0.30% | ~17 |
 | Jack of All Tomes | 0.30% | ~17 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 371)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,630 (Ranked 191)  
+Progressed: 5,637 (Ranked 191)  
 Completed: 7 (0.12%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 7 (0.12%) (Ranked 286)
 | 2023-12-11 | 5,586 | 7 |
 | 2023-12-12 | 5,587 | 7 |
 | 2023-12-13 | 5,598 | 7 |
-| 2023-12-14 | 5,630 | 7 |
+| 2023-12-14 | 5,637 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 478)  
 Sum: 93 (Ranked 460)  

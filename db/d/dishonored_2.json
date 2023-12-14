@@ -4,10 +4,10 @@
   "ProductSlug": "dishonored-2",
   "Ranking_Rating": 100,
   "Ranking_Popularity": 189,
-  "Ranking_PopularitySum": 252,
+  "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 492,
+  "Ranking_EOS_NewPlayers": 493,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-11-03T15:00:00+00:00",
@@ -2615,10 +2615,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1178,
       "NumberOfAwardsMax": 681
+    },
+    {
+      "Time": "2023-12-14T19:59:26.5798618+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1179,
+      "NumberOfAwardsMax": 681
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1178,
+  "NumberOfAwards": 1179,
   "NumberOfAwardsMax": 681,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2668,7 +2674,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2707,8 +2713,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-05T14:01:17.2849219+00:00",
   "FirstSeenRating": "2022-11-24T20:57:28.2064365+00:00",
-  "LastChanged": "2023-12-14T17:58:55.2291203+00:00",
+  "LastChanged": "2023-12-14T19:59:26.5798616+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:26.6999527+00:00",
-  "LastUpdate_Ratings": "2023-12-14T18:59:04.4141062+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:04:06.2928707+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:59:26.5798621+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:04:09.1297407+00:00"
 }

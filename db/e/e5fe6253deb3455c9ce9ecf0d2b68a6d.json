@@ -4,7 +4,7 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 329,
+  "EOS_Progressed": 330,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1264,6 +1264,11 @@
       "Time": "2023-12-14T19:05:50.6217596+00:00",
       "NumProgressed": 329,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T20:06:29.4082738+00:00",
+      "NumProgressed": 330,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -1298,9 +1303,9 @@
       "ID": "Full",
       "SetID": "cjfnji1",
       "Name": "Full load",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 205
     },
     {
       "ID": "Island",
@@ -1387,14 +1392,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 329,
+      "Progressed": 330,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-12-14T19:05:50.6217593+00:00",
+  "LastChanged_Achievements": "2023-12-14T20:06:29.4082736+00:00",
   "LastUpdate_AppInfo": "2023-12-12T02:57:11.9041929+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:00:25.2086866+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:05:50.6217745+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:01:15.4012396+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:06:29.4082865+00:00"
 }

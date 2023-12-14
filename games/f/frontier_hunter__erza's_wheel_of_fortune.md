@@ -16,7 +16,7 @@
 | Apostle of Flame | 37.00% | ~222 |
 | Beginner Cook | 36.00% | ~216 |
 | Seal Breaker | 31.00% | ~186 |
-| Handyman | 27.00% | ~162 |
+| Handyman | 28.00% | ~168 |
 | Giant Lizard Killer | 26.00% | ~156 |
 | Guardian | 25.00% | ~150 |
 | Nosebleeder | 25.00% | ~150 |

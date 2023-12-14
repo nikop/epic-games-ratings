@@ -5,9 +5,9 @@
   "Ranking_Rating": 317,
   "Ranking_Popularity": 277,
   "Ranking_PopularitySum": 220,
-  "Ranking_EOS_Progress": 154,
+  "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2148,9 +2148,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15759,
+  "EOS_Progressed": 15760,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17653,6 +17653,11 @@
       "Time": "2023-12-14T19:09:13.7466376+00:00",
       "NumProgressed": 15759,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-14T20:09:20.5316435+00:00",
+      "NumProgressed": 15760,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -19070,9 +19075,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE",
       "SetID": "9201eeb",
       "Name": "Ishtar Gate",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 630
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
@@ -20399,21 +20404,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15759,
+      "Progressed": 15760,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15759,
+      "Progressed": 15760,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-11T20:02:33.8046701+00:00",
-  "LastChanged_Achievements": "2023-12-14T19:09:13.7466373+00:00",
+  "LastChanged_Achievements": "2023-12-14T20:09:20.5316432+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:32.9927843+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:03:03.6862131+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:09:13.7475745+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:02:56.8773504+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:09:20.5325146+00:00"
 }

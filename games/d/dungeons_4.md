@@ -7,7 +7,7 @@
 | The Last Stand | 89.00% | ~491 |
 | Thalya – Simply Immortal | 88.00% | ~486 |
 | For the Horde! | 82.00% | ~453 |
-| Hammer Time, Round Two | 80.00% | ~442 |
+| Hammer Time, Round Two | 81.00% | ~447 |
 | The Hellwoods | 77.00% | ~425 |
 | The Plains of Strothalm | 72.00% | ~397 |
 | Experienced Thalya | 72.00% | ~397 |
@@ -16,7 +16,7 @@
 | Heroes’ Gorge | 65.00% | ~359 |
 | Master of Magic | 64.00% | ~353 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~342 |
-| Magic Accidents | 59.00% | ~326 |
+| Magic Accidents | 60.00% | ~331 |
 | The Ascent | 59.00% | ~326 |
 | It's Warm and Cozy at Home | 59.00% | ~326 |
 | Trap Master | 55.00% | ~304 |
@@ -28,11 +28,11 @@
 | The Cathedral of Light | 47.00% | ~259 |
 | Shame! Shame! Shame! | 47.00% | ~259 |
 | Pure Dynamite! | 46.00% | ~254 |
-| Dungeonlord Gorgu | 45.00% | ~248 |
+| Dungeonlord Gorgu | 46.00% | ~254 |
 | Tanos' Crusade Against Thalya | 45.00% | ~248 |
 | Mana Cannon | 42.00% | ~232 |
 | All’s Well That Ends Evil | 39.00% | ~215 |
-| The Duel | 35.00% | ~193 |
+| The Duel | 36.00% | ~199 |
 | Unstoppable Horde | 34.00% | ~188 |
 | Master of the Undead | 34.00% | ~188 |
 | If Looks Could Kill | 32.00% | ~177 |
@@ -53,9 +53,9 @@
 | The Last Stand - This Time For Real! | 19.00% | ~105 |
 | My Little Torture Chamber | 18.00% | ~99 |
 | Lavalumps on Ice! | 18.00% | ~99 |
+| To Infinity And Beyond! | 18.00% | ~99 |
 | Sacrificial Pit = Garbage Disposal? | 17.00% | ~94 |
 | To the Max! | 17.00% | ~94 |
-| To Infinity And Beyond! | 17.00% | ~94 |
 | Evilification | 15.00% | ~83 |
 | Mirror, Mirror | 14.00% | ~77 |
 | Untouchable | 14.00% | ~77 |

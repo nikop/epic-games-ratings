@@ -9622,10 +9622,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20412,
       "NumberOfAwardsMax": 7689
+    },
+    {
+      "Time": "2023-12-14T20:00:55.119112+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20417,
+      "NumberOfAwardsMax": 7689
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20412,
+  "NumberOfAwards": 20417,
   "NumberOfAwardsMax": 7689,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9693,7 +9699,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1370
+      "Count": 1375
     },
     {
       "Text": "This game has a Creative Community",
@@ -9702,9 +9708,9 @@
       "Count": 1004
     }
   ],
-  "EOS_Progressed": 127038,
+  "EOS_Progressed": 127054,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1273,
+  "EOS_NewPlayers": 1285,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35027,6 +35033,11 @@
       "Time": "2023-12-14T19:09:09.1731221+00:00",
       "NumProgressed": 127038,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T20:09:14.2021164+00:00",
+      "NumProgressed": 127054,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35046,7 +35057,7 @@
       "Name": "Serenity Now!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -35084,17 +35095,17 @@
       "ID": "altar_of_hope_unlock_hero_jester",
       "SetID": "64l4lke",
       "Name": "Funny Guy",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 762
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
       "SetID": "64l4lke",
       "Name": "Long Live the King",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 762
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -35334,7 +35345,7 @@
       "Name": "Rush Hour",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -35358,7 +35369,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "driving_distance_easy",
@@ -35412,9 +35423,9 @@
       "ID": "hoarder_buy_epic_trinket",
       "SetID": "64l4lke",
       "Name": "Whale",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 889
+      "UsersEstimate": 1016
     },
     {
       "ID": "hospital_full_service",
@@ -35444,9 +35455,9 @@
       "ID": "inn_replacement_hero_add",
       "SetID": "64l4lke",
       "Name": "FNG",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1271
     },
     {
       "ID": "inn_visit_all_variants",
@@ -35574,7 +35585,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "combat_kill_collector",
@@ -35582,7 +35593,7 @@
       "Name": "This guy... again?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35604,9 +35615,9 @@
       "ID": "combat_land_riposte_dmg_threshold_duelist",
       "SetID": "d3bcpc8",
       "Name": "Slap on the Wrist",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -35638,7 +35649,7 @@
       "Name": "Lost and Found",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35669,21 +35680,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127038,
+      "Progressed": 127054,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1907,
+      "Progressed": 1923,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-14T17:59:59.0270982+00:00",
-  "LastChanged_Achievements": "2023-12-14T19:09:09.1731218+00:00",
+  "LastChanged": "2023-12-14T20:00:55.1191118+00:00",
+  "LastChanged_Achievements": "2023-12-14T20:09:14.2021158+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:00:11.6797814+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:09:09.1732682+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:00:55.1191124+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:09:14.2022671+00:00"
 }

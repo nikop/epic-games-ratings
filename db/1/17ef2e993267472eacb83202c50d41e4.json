@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8773,
+  "EOS_Progressed": 8775,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8676,6 +8676,11 @@
       "Time": "2023-12-14T19:10:07.2684848+00:00",
       "NumProgressed": 8773,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T20:10:29.6619694+00:00",
+      "NumProgressed": 8775,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8704,7 +8709,7 @@
       "Name": "Eliminated the Arachnid Terror",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "BDPurchased1",
@@ -8800,7 +8805,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "GamesPlayed1",
@@ -8816,7 +8821,7 @@
       "Name": "Played 10 Matches",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "GamesPlayed100",
@@ -8856,7 +8861,7 @@
       "Name": "Eliminated the Golem",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "GrenadeLauncherUpgraded1",
@@ -8872,7 +8877,7 @@
       "Name": "Purchased Haste Aura",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "HASPurchased1",
@@ -8888,7 +8893,7 @@
       "Name": "Upgraded Healing Amplifier to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "HGPurchased1",
@@ -8920,7 +8925,7 @@
       "Name": "Upgraded the Hand Cannon to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "HealingGunUpgraded1",
@@ -8928,7 +8933,7 @@
       "Name": "Upgraded the Healing Gun to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "IGPurchased1",
@@ -8936,7 +8941,7 @@
       "Name": "Purchased Ice Grenade",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "IHBUpgraded1",
@@ -9056,7 +9061,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "MaxTowersKilled6",
@@ -9096,7 +9101,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "NeutralKills200",
@@ -9184,7 +9189,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "SEUpgraded1",
@@ -9208,7 +9213,7 @@
       "Name": "Upgraded Sphere of Vitality to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "SPurchased1",
@@ -9279,7 +9284,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8773,
+      "Progressed": 8775,
       "Completed": 1
     }
   ],
@@ -9287,8 +9292,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-13T02:58:17.8162703+00:00",
-  "LastChanged_Achievements": "2023-12-14T19:10:07.2684845+00:00",
+  "LastChanged_Achievements": "2023-12-14T20:10:29.6619691+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:27.9940225+00:00",
-  "LastUpdate_Ratings": "2023-12-14T18:59:03.1248542+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:10:07.2685849+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:59:24.8574337+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:10:29.6620597+00:00"
 }

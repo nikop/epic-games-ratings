@@ -5,19 +5,19 @@ Rating: 4.29 (Ranked 855)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~164,041 |
-| Copacetic Coordination | 16.00% | ~57,058 |
-| Fronting the Money | 15.00% | ~53,492 |
-| The Dawn of Automation | 14.00% | ~49,925 |
-| Extraordinary Logistics | 14.00% | ~49,925 |
-| Dirty Money | 13.00% | ~46,359 |
-| Family First | 13.00% | ~46,359 |
-| Cleaning House | 12.00% | ~42,793 |
-| Room in the Back | 12.00% | ~42,793 |
-| Beating the Heat | 11.00% | ~39,227 |
-| Booze Baron | 11.00% | ~39,227 |
-| Friends on the Force | 10.00% | ~35,661 |
-| Neighborhood Watch | 10.00% | ~35,661 |
+| Corner Clout | 46.00% | ~164,044 |
+| Copacetic Coordination | 16.00% | ~57,059 |
+| Fronting the Money | 15.00% | ~53,493 |
+| The Dawn of Automation | 14.00% | ~49,926 |
+| Extraordinary Logistics | 14.00% | ~49,926 |
+| Dirty Money | 13.00% | ~46,360 |
+| Family First | 13.00% | ~46,360 |
+| Cleaning House | 12.00% | ~42,794 |
+| Room in the Back | 12.00% | ~42,794 |
+| Beating the Heat | 11.00% | ~39,228 |
+| Booze Baron | 11.00% | ~39,228 |
+| Friends on the Force | 10.00% | ~35,662 |
+| Neighborhood Watch | 10.00% | ~35,662 |
 | Core Corps | 8.00% | ~28,529 |
 | Sizeable Stash | 8.00% | ~28,529 |
 | Street Fighter | 7.00% | ~24,963 |
@@ -29,25 +29,25 @@ Rating: 4.29 (Ranked 855)
 | Wise Head | 6.00% | ~21,397 |
 | Show ‘em the Sugar | 6.00% | ~21,397 |
 | Killing Them Softly | 6.00% | ~21,397 |
-| Street Knowledge | 5.00% | ~17,830 |
-| Oh Captain | 5.00% | ~17,830 |
-| Branching Out | 5.00% | ~17,830 |
-| Improvement Missions | 5.00% | ~17,830 |
-| Opportunity Knocked | 5.00% | ~17,830 |
-| City of Big Shoulders | 5.00% | ~17,830 |
-| Mission Mastery | 5.00% | ~17,830 |
-| Considerable Clams | 4.00% | ~14,264 |
-| Gin Joint | 4.00% | ~14,264 |
-| An Affront to the Enemy | 4.00% | ~14,264 |
-| Friends from Back Home | 4.00% | ~14,264 |
-| Bees Knees Bootlegger | 4.00% | ~14,264 |
-| Half Century Mark | 4.00% | ~14,264 |
-| Corner Opportunities | 3.00% | ~10,698 |
-| 2122 North Clark Street | 3.00% | ~10,698 |
-| Copious Cabbage | 3.00% | ~10,698 |
-| Sockdolager | 3.00% | ~10,698 |
-| Still Stalwart | 3.00% | ~10,698 |
-| Tighten the Screws | 3.00% | ~10,698 |
+| Street Knowledge | 5.00% | ~17,831 |
+| Oh Captain | 5.00% | ~17,831 |
+| Branching Out | 5.00% | ~17,831 |
+| Improvement Missions | 5.00% | ~17,831 |
+| Opportunity Knocked | 5.00% | ~17,831 |
+| City of Big Shoulders | 5.00% | ~17,831 |
+| Mission Mastery | 5.00% | ~17,831 |
+| Considerable Clams | 4.00% | ~14,265 |
+| Gin Joint | 4.00% | ~14,265 |
+| An Affront to the Enemy | 4.00% | ~14,265 |
+| Friends from Back Home | 4.00% | ~14,265 |
+| Bees Knees Bootlegger | 4.00% | ~14,265 |
+| Half Century Mark | 4.00% | ~14,265 |
+| Corner Opportunities | 3.00% | ~10,699 |
+| 2122 North Clark Street | 3.00% | ~10,699 |
+| Copious Cabbage | 3.00% | ~10,699 |
+| Sockdolager | 3.00% | ~10,699 |
+| Still Stalwart | 3.00% | ~10,699 |
+| Tighten the Screws | 3.00% | ~10,699 |
 | One of Us | 2.00% | ~7,132 |
 | Baker’s Dozen | 2.00% | ~7,132 |
 | Dropping the Dime | 2.00% | ~7,132 |
@@ -61,7 +61,7 @@ Rating: 4.29 (Ranked 855)
 | Cat’s Meow Clubs | 1.00% | ~3,566 |
 | Determined Deliveries | 1.00% | ~3,566 |
 | Stepping It Up | 1.00% | ~3,566 |
-| Crossing Over | 0.90% | ~3,209 |
+| Crossing Over | 0.90% | ~3,210 |
 | Boots in the Ground | 0.80% | ~2,853 |
 | Getting Fancy | 0.80% | ~2,853 |
 | Still Dreaming | 0.50% | ~1,783 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 855)
 | High Pillow | 0.10% | ~357 |
 | Station Master | 0.10% | ~357 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 356,610 (Ranked 49)  
+Progressed: 356,617 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 7 (0.00%) (Ranked 374)
 | 2023-12-11 | 356,266 | 7 |
 | 2023-12-12 | 356,376 | 7 |
 | 2023-12-13 | 356,494 | 7 |
-| 2023-12-14 | 356,610 | 7 |
+| 2023-12-14 | 356,617 | 7 |
 ## Awards
 Max (Great for Beginners): 52  (Ranked 432)  
 Sum: 250 (Ranked 384)  

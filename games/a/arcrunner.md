@@ -7,9 +7,9 @@
 | Augmented | 33.00% | ~287 |
 | Challenge Accepted | 27.00% | ~235 |
 | Terminated I | 27.00% | ~235 |
-| Nanonic I | 25.00% | ~217 |
-| Unlocked and Loaded | 25.00% | ~217 |
-| Terminated II | 21.00% | ~182 |
+| Nanonic I | 25.00% | ~218 |
+| Unlocked and Loaded | 25.00% | ~218 |
+| Terminated II | 21.00% | ~183 |
 | The City | 19.00% | ~165 |
 | Challenge Mastered | 16.00% | ~139 |
 | Terminated III | 16.00% | ~139 |
@@ -23,7 +23,7 @@
 | Rookie | 8.00% | ~70 |
 | Eden Heights | 6.00% | ~52 |
 | Up Close And Personal | 6.00% | ~52 |
-| Outer Core | 5.00% | ~43 |
+| Outer Core | 5.00% | ~44 |
 | Inner Core | 4.00% | ~35 |
 | Integration | 3.00% | ~26 |
 | Destruction | 1.00% | ~9 |
@@ -34,7 +34,7 @@
 | Cyborg | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 869 (Ranked 278)  
+Progressed: 870 (Ranked 278)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 862 | 0 |
 | 2023-12-12 | 865 | 0 |
 | 2023-12-13 | 867 | 0 |
-| 2023-12-14 | 869 | 0 |
+| 2023-12-14 | 870 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

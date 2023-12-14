@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 622,
+  "EOS_Progressed": 623,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.29,
+  "EOS_Completed_Percentage": 1.28,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -2085,6 +2085,11 @@
       "Time": "2023-12-14T18:06:22.659923+00:00",
       "NumProgressed": 622,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-14T20:07:09.1707821+00:00",
+      "NumProgressed": 623,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2129,7 +2134,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_eou5",
@@ -2183,9 +2188,9 @@
       "ID": "ACH_rogue",
       "SetID": "51of0eo",
       "Name": "Anti-Gravity",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 44
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_xatrix",
@@ -2200,14 +2205,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 622,
+      "Progressed": 623,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-14T19:06:19.9118846+00:00",
+  "LastChanged_Achievements": "2023-12-14T20:07:09.1707819+00:00",
   "LastUpdate_AppInfo": "2023-12-08T03:57:10.4045302+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:00:37.7098061+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:06:19.9119028+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:01:32.1506648+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:07:09.1707983+00:00"
 }

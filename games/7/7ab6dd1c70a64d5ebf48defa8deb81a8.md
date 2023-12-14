@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 25.00% | ~88 |
-| Trinity | 12.00% | ~42 |
+| Break Out | 25.00% | ~90 |
+| Trinity | 12.00% | ~43 |
 | Find Allies | 9.00% | ~32 |
 | Powerful Allies | 9.00% | ~32 |
 | A Taste of Wrath | 9.00% | ~32 |
 | Adventurer | 9.00% | ~32 |
 | Shatter Them All | 9.00% | ~32 |
 | Geared Up | 9.00% | ~32 |
-| Fashion Victim | 9.00% | ~32 |
 | I Found It | 9.00% | ~32 |
-| The Collector | 9.00% | ~32 |
-| Tributes of Caladrias | 8.00% | ~28 |
-| Scholar | 8.00% | ~28 |
-| Stone Collection | 8.00% | ~28 |
+| Tributes of Caladrias | 8.00% | ~29 |
+| Fashion Victim | 8.00% | ~29 |
+| Scholar | 8.00% | ~29 |
+| Stone Collection | 8.00% | ~29 |
+| The Collector | 8.00% | ~29 |
 | Big Bazar | 7.00% | ~25 |
 | The Mentor | 6.00% | ~21 |
 | Essence Blow | 6.00% | ~21 |
@@ -38,11 +38,11 @@
 | Forgemaster | 1.00% | ~4 |
 | Flawless Victory | 1.00% | ~4 |
 | All That Gold | 1.00% | ~4 |
-| Shardbearer | 0.90% | ~3 |
+| Shardbearer | 0.80% | ~3 |
 | Feeling Fancy | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 351 (Ranked 344)  
-Completed: 3 (0.85%) (Ranked 180)  
+Progressed: 358 (Ranked 344)  
+Completed: 3 (0.84%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,4 +104,4 @@ Completed: 3 (0.85%) (Ranked 180)
 | 2023-12-11 | 264 | 2 |
 | 2023-12-12 | 265 | 2 |
 | 2023-12-13 | 282 | 3 |
-| 2023-12-14 | 351 | 3 |
+| 2023-12-14 | 358 | 3 |

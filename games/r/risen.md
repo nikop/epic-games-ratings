@@ -20,12 +20,12 @@ Rating: 4.58 (Ranked 453)
 | Idiot | 30.00% | ~22 |
 | Beast slayer | 29.00% | ~21 |
 | Wise man | 26.00% | ~19 |
+| Family man | 26.00% | ~19 |
 | Death of a legend | 26.00% | ~19 |
 | Archaeologist | 26.00% | ~19 |
 | Ogre friend | 26.00% | ~19 |
 | Hard worker | 26.00% | ~19 |
 | The fourth triplet | 26.00% | ~19 |
-| Family man | 25.00% | ~18 |
 | Little hero | 25.00% | ~18 |
 | Pandora's box | 23.00% | ~17 |
 | Ghost hunter | 22.00% | ~16 |

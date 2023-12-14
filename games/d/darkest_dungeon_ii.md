@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 5.00% | ~95 |
-| This guy... again? | 3.00% | ~57 |
-| Lost and Found | 3.00% | ~57 |
+| Malpractice Assurance | 5.00% | ~96 |
+| This guy... again? | 3.00% | ~58 |
+| Lost and Found | 3.00% | ~58 |
 | This Belongs in a Museum | 2.00% | ~2,541 |
 | Not Today! | 2.00% | ~2,541 |
 | Creep and Sleep | 2.00% | ~2,541 |
@@ -18,27 +18,29 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 2.00% | ~2,541 |
 | Autodidact | 2.00% | ~2,541 |
 | Bloody Graduation | 2.00% | ~38 |
-| Serenity Now! | 1.00% | ~1,270 |
-| Rush Hour | 1.00% | ~1,270 |
-| To Grandmother's House | 1.00% | ~1,270 |
+| Serenity Now! | 1.00% | ~1,271 |
+| Rush Hour | 1.00% | ~1,271 |
+| To Grandmother's House | 1.00% | ~1,271 |
+| FNG | 1.00% | ~1,271 |
 | Ploughshares to Swords | 1.00% | ~19 |
 | Friends 'Til the End | 1.00% | ~19 |
 | Don't Make Me Turn This Coach Around | 0.90% | ~1,143 |
 | It Rings a Bell | 0.90% | ~1,143 |
-| FNG | 0.90% | ~1,143 |
 | Dissector | 0.80% | ~1,016 |
 | It Happens | 0.80% | ~1,016 |
 | Merry Time | 0.80% | ~1,016 |
 | Harvest Festival | 0.80% | ~1,016 |
+| Whale | 0.80% | ~1,016 |
 | A Place to Lay Your Head | 0.80% | ~1,016 |
 | Nope | 0.80% | ~1,016 |
 | Banishment | 0.70% | ~889 |
 | Deprogramming | 0.70% | ~889 |
-| Whale | 0.70% | ~889 |
 | Worldly Traveller | 0.70% | ~889 |
 | Road Trip | 0.70% | ~889 |
 | Resurrection | 0.60% | ~762 |
 | Unleash Hell | 0.60% | ~762 |
+| Funny Guy | 0.60% | ~762 |
+| Long Live the King | 0.60% | ~762 |
 | Unfulfilled Desires | 0.60% | ~762 |
 | Predator | 0.60% | ~762 |
 | Now Stay Dead | 0.60% | ~762 |
@@ -46,8 +48,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Spelunker | 0.60% | ~762 |
 | Ramble On | 0.60% | ~762 |
 | Unshackled | 0.60% | ~762 |
-| Funny Guy | 0.50% | ~635 |
-| Long Live the King | 0.50% | ~635 |
 | Wyrdly Reconstructed | 0.50% | ~635 |
 | Boxcar Kid | 0.50% | ~635 |
 | Ichthyophobic | 0.50% | ~635 |
@@ -55,10 +55,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 0.50% | ~635 |
 | When You Want Something Done Right | 0.50% | ~635 |
 | Utopia | 0.50% | ~635 |
+| Slap on the Wrist | 0.50% | ~10 |
 | Hope Rekindled | 0.40% | ~508 |
 | Hot Air | 0.40% | ~508 |
 | Eyes Up | 0.40% | ~508 |
-| Slap on the Wrist | 0.40% | ~8 |
 | This Looks Familiar | 0.30% | ~381 |
 | Shrine of Reflection | 0.30% | ~381 |
 | Handled | 0.30% | ~381 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,038 (Ranked 84)  
+Progressed: 127,054 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,10 +314,10 @@ Completed: 3 (0.00%) (Ranked 374)
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
-| 2023-12-14 | 127,038 | 3 |
+| 2023-12-14 | 127,054 | 3 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 51)  
-Sum: 20,412 (Ranked 59)  
+Sum: 20,417 (Ranked 59)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -327,7 +327,7 @@ Diff (max vs sum): -8
 | This game is Highly Recommended | 1,519 |
 | This game is Extremely Fun | 1,444 |
 | This game has Amazing Characters | 1,442 |
-| This game has Amazing Storytelling | 1,370 |
+| This game has Amazing Storytelling | 1,375 |
 | This game has Unique Visuals | 1,343 |
 | This game has Quickly Understood Controls | 1,340 |
 | This game has a Creative Community | 1,004 |
@@ -656,4 +656,4 @@ Diff (max vs sum): -8
 | 2023-12-11 | 4.68 | - | 7,586 | 20,081 |
 | 2023-12-12 | 4.68 | - | 7,622 | 20,221 |
 | 2023-12-13 | 4.68 | - | 7,665 | 20,333 |
-| 2023-12-14 | 4.68 | - | 7,689 | 20,412 |
+| 2023-12-14 | 4.68 | - | 7,689 | 20,417 |

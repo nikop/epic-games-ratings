@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 732,
+  "EOS_Progressed": 733,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -2500,6 +2500,11 @@
       "Time": "2023-12-14T17:05:40.932833+00:00",
       "NumProgressed": 732,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-14T20:06:01.8487624+00:00",
+      "NumProgressed": 733,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2527,7 +2532,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "dont-miss-calls",
@@ -2535,7 +2540,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "female-conqueror",
@@ -2559,7 +2564,7 @@
       "Name": "Our Man",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "kill-lieutenants",
@@ -2599,7 +2604,7 @@
       "Name": "Bad Trip",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "rename-lieutenant",
@@ -2623,7 +2628,7 @@
       "Name": "Spread",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "send-smuggling",
@@ -2631,7 +2636,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "unlock-residences",
@@ -2662,15 +2667,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 732,
+      "Progressed": 733,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-12T19:59:33.5091909+00:00",
-  "LastChanged_Achievements": "2023-12-14T19:05:30.5316997+00:00",
+  "LastChanged_Achievements": "2023-12-14T20:06:01.8487622+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4008517+00:00",
-  "LastUpdate_Ratings": "2023-12-14T18:57:35.0548586+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:05:30.5317176+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:57:21.767037+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:06:01.848794+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 204,
+  "EOS_Progressed": 206,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -894,6 +894,11 @@
       "Time": "2023-12-14T19:04:42.083793+00:00",
       "NumProgressed": 204,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T20:04:59.0065377+00:00",
+      "NumProgressed": 206,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -904,9 +909,9 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 45,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -922,7 +927,7 @@
       "Name": "Chapter III - Complete",
       "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_complete_difficulty_easy",
@@ -930,7 +935,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -954,7 +959,7 @@
       "Name": "My Armour is Contempt",
       "Percentage": 9,
       "XP": 95,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -970,7 +975,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 27,
       "XP": 45,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -1001,14 +1006,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 204,
+      "Progressed": 206,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-14T19:04:42.0837926+00:00",
+  "LastChanged_Achievements": "2023-12-14T20:04:59.0065375+00:00",
   "LastUpdate_AppInfo": "2023-12-08T13:57:10.1011387+00:00",
-  "LastUpdate_Ratings": "2023-12-14T18:58:29.7177782+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:04:42.0838107+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:58:40.5000881+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:04:59.0065509+00:00"
 }

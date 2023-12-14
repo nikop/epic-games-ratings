@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1322,
+  "EOS_Progressed": 1323,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2580,6 +2580,11 @@
       "Time": "2023-12-14T18:05:00.2645833+00:00",
       "NumProgressed": 1322,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T20:05:20.6584576+00:00",
+      "NumProgressed": 1323,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2672,7 +2677,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -2688,7 +2693,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -2704,7 +2709,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -2736,7 +2741,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -2800,7 +2805,7 @@
       "Name": "Endlessly Effective",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -2831,14 +2836,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1322,
+      "Progressed": 1323,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-14T19:04:59.0871082+00:00",
+  "LastChanged_Achievements": "2023-12-14T20:05:20.6584573+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.2067733+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:02:56.9831472+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:04:59.0871332+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:02:47.756137+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:05:20.6584853+00:00"
 }

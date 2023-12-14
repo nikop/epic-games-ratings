@@ -76,6 +76,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Speed Demons | 0.10% | ~207 |
 | Will of the Feywild | 0.10% | ~207 |
 | All Damage, All The Time | 0.10% | ~207 |
+| Will of the Frozen Feywild | 0.10% | ~207 |
 | The Roots of Loomlurch | 0.10% | ~207 |
 | The Loots of Loomlurch | 0.10% | ~207 |
 | The Lutes of Loomlurch | 0.10% | ~207 |
@@ -547,13 +548,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mental Gymnastics | 0.10% | ~207 |
 | Don't Lose Your Head | 0.10% | ~207 |
 | Mind Spike | 0.10% | ~207 |
-| Will of the Frozen Feywild | 0.00% | ~0 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
 | Who Lurks Below? | 0.00% | ~0 |
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,308 (Ranked 66)  
+Progressed: 240,335 (Ranked 66)  
 Completed: 2,524 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -791,10 +791,10 @@ Completed: 2,524 (1.05%) (Ranked 168)
 | 2023-12-11 | 239,456 | 2,517 |
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
-| 2023-12-14 | 240,308 | 2,524 |
+| 2023-12-14 | 240,335 | 2,524 |
 ## Awards
 Max (Great for Beginners): 5,635  (Ranked 70)  
-Sum: 32,865 (Ranked 41)  
+Sum: 32,872 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -802,7 +802,7 @@ Diff (max vs sum): 29
 | This game has Diverse Characters | 5,594 |
 | This game has Quickly Understood Controls | 4,843 |
 | This game is Relaxing | 4,726 |
-| This game has Amazing Characters | 4,250 |
+| This game has Amazing Characters | 4,257 |
 | This game is Highly Recommended | 4,246 |
 | This game has Playful Visuals | 3,571 |
 ## Ratings History
@@ -1130,4 +1130,4 @@ Diff (max vs sum): 29
 | 2023-12-11 | 4.06 | - | 5,622 | 32,826 |
 | 2023-12-12 | 4.06 | - | 5,622 | 32,830 |
 | 2023-12-13 | 4.06 | - | 5,624 | 32,841 |
-| 2023-12-14 | 4.06 | - | 5,635 | 32,865 |
+| 2023-12-14 | 4.06 | - | 5,635 | 32,872 |

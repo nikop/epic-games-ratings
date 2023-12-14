@@ -681,9 +681,9 @@
       "ID": "ACH_CHILDS_PLAY",
       "SetID": "8h8m55b",
       "Name": "Child\u2019s Play",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_COLD_SHOULDERS",
@@ -713,9 +713,9 @@
       "ID": "ACH_FELLOW_INFLUENCER",
       "SetID": "8h8m55b",
       "Name": "Fellow Influencer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_FESTINA_LENTE",
@@ -857,9 +857,9 @@
       "ID": "ACH_OVERFLOWING_WARMTH",
       "SetID": "8h8m55b",
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_REMEMBRANCE",
@@ -921,9 +921,9 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -1009,9 +1009,9 @@
       "ID": "ACH_WRONG_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Is this it?",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     }
   ],
   "AchievementSets": [
@@ -1024,8 +1024,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-14T19:04:05.2298279+00:00",
+  "LastChanged_Achievements": "2023-12-14T20:04:07.91597+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:55.8022632+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:00:27.2176103+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:04:05.229861+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:01:18.2034333+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:04:07.9160049+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.53 (Ranked 547)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 13.00% | ~2,109 |
+| Oyedang, Kopengs | 13.00% | ~2,110 |
 | The Pit and the Pirates | 8.00% | ~1,298 |
 | Bosmang | 8.00% | ~1,298 |
 | Captain Drummer | 8.00% | ~1,298 |
@@ -13,12 +13,12 @@ Rating: 4.53 (Ranked 547)
 | Impossible Objects | 8.00% | ~1,298 |
 | Martian Music | 7.00% | ~1,136 |
 | Drone Dodger | 7.00% | ~1,136 |
-| Safe Cracker | 7.00% | ~152 |
-| Zen Master | 7.00% | ~152 |
-| Madame Undersecretary | 7.00% | ~152 |
-| Stogie for Fogey | 6.00% | ~973 |
-| Spore Taste | 6.00% | ~973 |
-| Call it Even | 6.00% | ~973 |
+| Safe Cracker | 7.00% | ~153 |
+| Zen Master | 7.00% | ~153 |
+| Madame Undersecretary | 7.00% | ~153 |
+| Stogie for Fogey | 6.00% | ~974 |
+| Spore Taste | 6.00% | ~974 |
+| Call it Even | 6.00% | ~974 |
 | Keep Arjun in Check | 6.00% | ~131 |
 | Data Archivist | 5.00% | ~811 |
 | Drug Gifter | 5.00% | ~811 |
@@ -29,8 +29,8 @@ Rating: 4.53 (Ranked 547)
 | Doctor Approved | 3.00% | ~487 |
 | Bottoms up! | 3.00% | ~487 |
 | Miraculous Maya | 3.00% | ~487 |
-| Data Logger | 2.00% | ~324 |
-| Data Master | 2.00% | ~324 |
+| Data Logger | 2.00% | ~325 |
+| Data Master | 2.00% | ~325 |
 | Brother's Reaper | 1.00% | ~162 |
 | No Belter Left Behind | 1.00% | ~162 |
 | Debris Spree | 1.00% | ~162 |
@@ -41,8 +41,8 @@ Rating: 4.53 (Ranked 547)
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,223 (Ranked 152)  
-Completed: 43 (0.27%) (Ranked 247)  
+Progressed: 16,229 (Ranked 152)  
+Completed: 43 (0.26%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -186,7 +186,7 @@ Completed: 43 (0.27%) (Ranked 247)
 | 2023-12-11 | 16,062 | 42 |
 | 2023-12-12 | 16,078 | 42 |
 | 2023-12-13 | 16,124 | 43 |
-| 2023-12-14 | 16,223 | 43 |
+| 2023-12-14 | 16,229 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

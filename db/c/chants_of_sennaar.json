@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1047,
+  "EOS_Progressed": 1048,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.35,
+  "EOS_Completed_Percentage": 5.34,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -4005,6 +4005,11 @@
       "Time": "2023-12-14T19:04:48.4120444+00:00",
       "NumProgressed": 1047,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-14T20:05:07.0042768+00:00",
+      "NumProgressed": 1048,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 25,
@@ -4024,7 +4029,7 @@
       "Name": "In this together",
       "Percentage": 18,
       "XP": 200,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "META_ALL_LINK",
@@ -4056,7 +4061,7 @@
       "Name": "Half the way",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "META_RESULT_1-2",
@@ -4152,7 +4157,7 @@
       "Name": "Champollion",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -4160,7 +4165,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -4168,7 +4173,7 @@
       "Name": "Scholar",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "PROGRESS_N1",
@@ -4192,15 +4197,15 @@
       "Name": "A new dawn",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 220
+      "UsersEstimate": 231
     },
     {
       "ID": "PROGRESS_N5",
@@ -4208,21 +4213,21 @@
       "Name": "One last step",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1047,
+      "Progressed": 1048,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-14T19:04:48.4120437+00:00",
+  "LastChanged_Achievements": "2023-12-14T20:05:07.0042767+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
-  "LastUpdate_Ratings": "2023-12-14T18:59:20.9993422+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:04:48.4120816+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:59:47.9101275+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:05:07.004312+00:00"
 }

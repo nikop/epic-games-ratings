@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -625,9 +625,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3401,
+  "EOS_Progressed": 3402,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9780,6 +9780,11 @@
       "Time": "2023-12-14T19:04:26.0968488+00:00",
       "NumProgressed": 3401,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-14T20:04:35.8780203+00:00",
+      "NumProgressed": 3402,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -9975,7 +9980,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "fourleafclover",
@@ -10351,7 +10356,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3163
+      "UsersEstimate": 3164
     },
     {
       "ID": "warmachinesarmy",
@@ -10383,14 +10388,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2654
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3401,
+      "Progressed": 3402,
       "Completed": 2
     }
   ],
@@ -10398,8 +10403,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-14T18:58:46.7589357+00:00",
-  "LastChanged_Achievements": "2023-12-14T19:04:26.0968484+00:00",
+  "LastChanged_Achievements": "2023-12-14T20:04:35.8780201+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:16.4016448+00:00",
-  "LastUpdate_Ratings": "2023-12-14T18:58:46.7589362+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:04:26.096943+00:00"
+  "LastUpdate_Ratings": "2023-12-14T19:59:02.6717592+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:04:35.8781129+00:00"
 }

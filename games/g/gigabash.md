@@ -5,43 +5,43 @@ Rating: 4.57 (Ranked 484)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 4.00% | ~3,176 |
-| I've Had Enough! | 3.00% | ~2,382 |
-| Fists, Fury & a lot of Rage | 2.00% | ~1,588 |
-| All For One and One For All | 2.00% | ~1,588 |
-| Seasoned Fighter | 2.00% | ~1,588 |
-| A New Age | 1.00% | ~794 |
-| Home Sweet Home? | 1.00% | ~794 |
-| Oh Baby, A Triple | 0.70% | ~556 |
-| Symbiotic | 0.60% | ~476 |
+| All Grown Up! | 4.00% | ~3,182 |
+| I've Had Enough! | 3.00% | ~2,387 |
+| Fists, Fury & a lot of Rage | 2.00% | ~1,591 |
+| All For One and One For All | 2.00% | ~1,591 |
+| Seasoned Fighter | 2.00% | ~1,591 |
+| A New Age | 1.00% | ~796 |
+| Home Sweet Home? | 1.00% | ~796 |
+| Oh Baby, A Triple | 0.70% | ~557 |
+| Symbiotic | 0.60% | ~477 |
 | Battle Hardened | 0.40% | ~318 |
 | Master of Disguise | 0.40% | ~318 |
 | It's Mayhem! | 0.40% | ~318 |
 | Right back at'cha | 0.40% | ~318 |
-| Double Punch! | 0.30% | ~238 |
-| Spectacular Finisher | 0.30% | ~238 |
+| Double Punch! | 0.30% | ~239 |
+| Spectacular Finisher | 0.30% | ~239 |
 | Cautious Veteran | 0.20% | ~159 |
 | Katamari | 0.20% | ~159 |
 | Martyrdom | 0.20% | ~159 |
 | Ninja Reflex | 0.20% | ~159 |
 | Taste Your Own Medicine | 0.20% | ~159 |
 | Zero-sum Game | 0.20% | ~159 |
-| 5 Stages of Grief | 0.10% | ~79 |
-| Eye of the Titan | 0.10% | ~79 |
-| Just Getting Warmed Up | 0.10% | ~79 |
-| Let Them Fight | 0.10% | ~79 |
-| This is GigaBash! | 0.10% | ~79 |
-| Sidetracked... | 0.10% | ~79 |
-| Apex Mode | 0.10% | ~79 |
-| Top of the Food Chain | 0.10% | ~79 |
-| Watchful Sentinel | 0.10% | ~79 |
+| 5 Stages of Grief | 0.10% | ~80 |
+| Eye of the Titan | 0.10% | ~80 |
+| Just Getting Warmed Up | 0.10% | ~80 |
+| Let Them Fight | 0.10% | ~80 |
+| This is GigaBash! | 0.10% | ~80 |
+| Sidetracked... | 0.10% | ~80 |
+| Apex Mode | 0.10% | ~80 |
+| Top of the Food Chain | 0.10% | ~80 |
+| Watchful Sentinel | 0.10% | ~80 |
 | Bastion of Humanity | 0.00% | ~0 |
 | Keeper of Knowledge | 0.00% | ~0 |
 | Signature Look | 0.00% | ~0 |
 | Apocalypse Mode | 0.00% | ~0 |
 | What's Mine is Yours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,403 (Ranked 99)  
+Progressed: 79,560 (Ranked 100)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 49,284 | 0 |
 | 2023-12-12 | 62,591 | 0 |
 | 2023-12-13 | 74,092 | 0 |
-| 2023-12-14 | 79,403 | 0 |
+| 2023-12-14 | 79,560 | 0 |
 ## Awards
 Max (Great Boss Battles): 25  (Ranked 527)  
 Sum: 25 (Ranked 536)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -451,9 +451,9 @@
       "ID": "id_12",
       "SetID": "bk9jib6",
       "Name": "Family man",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "id_14",
@@ -844,8 +844,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-07T03:59:22.4212557+00:00",
-  "LastChanged_Achievements": "2023-12-14T19:09:52.7134966+00:00",
+  "LastChanged_Achievements": "2023-12-14T20:10:11.5068949+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:56.0981722+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:00:02.0538477+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:09:52.7135269+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:00:43.0332834+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:10:11.5069251+00:00"
 }

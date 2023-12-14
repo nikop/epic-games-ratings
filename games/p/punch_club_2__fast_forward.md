@@ -28,15 +28,15 @@
 | Handyman | 59.00% | ~222 |
 | It's good to be alive | 59.00% | ~222 |
 | Employee of the year | 59.00% | ~222 |
+| Fight for life | 58.00% | ~218 |
+| Little hacker | 58.00% | ~218 |
 | Champion – starter pack | 58.00% | ~218 |
 | Own four walls | 58.00% | ~218 |
-| Fight for life | 57.00% | ~214 |
-| Little hacker | 57.00% | ~214 |
 | Intriguing candies | 57.00% | ~214 |
 | Legal courier | 54.00% | ~203 |
 | Extreme neuropower! | 54.00% | ~203 |
 | Escaped from a big trouble | 51.00% | ~192 |
-| Now you are worthy | 47.00% | ~177 |
+| Now you are worthy | 48.00% | ~180 |
 | Fight is life | 47.00% | ~177 |
 | Mysterious voice | 46.00% | ~173 |
 | Guiding on the right path | 45.00% | ~169 |

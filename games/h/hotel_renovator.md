@@ -5,35 +5,35 @@ Rating: 4.38 (Ranked 770)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~888 |
-| And so it begins | 72.00% | ~841 |
-| No pressure | 69.00% | ~806 |
-| Memento | 61.00% | ~712 |
-| Let there be light | 59.00% | ~689 |
-| I think you dropped this | 55.00% | ~642 |
-| Soulmate? | 54.00% | ~631 |
-| Excellent service | 50.00% | ~584 |
-| Roll with it | 47.00% | ~549 |
-| Humble beginnings | 45.00% | ~526 |
-| Love is in the air | 44.00% | ~514 |
-| Fine, I'll do it myself | 43.00% | ~502 |
-| Moving up | 42.00% | ~491 |
-| No need to call anyone | 41.00% | ~479 |
-| Big fortune | 33.00% | ~385 |
-| Still more work ahead | 31.00% | ~362 |
-| Aesop's fable | 29.00% | ~339 |
-| Hotel sleuthing | 29.00% | ~339 |
-| Kaboom | 28.00% | ~327 |
-| Nearly there | 27.00% | ~315 |
-| Broken heart | 24.00% | ~280 |
+| Good start | 76.00% | ~890 |
+| And so it begins | 72.00% | ~843 |
+| No pressure | 69.00% | ~808 |
+| Memento | 61.00% | ~714 |
+| Let there be light | 59.00% | ~691 |
+| I think you dropped this | 55.00% | ~644 |
+| Soulmate? | 53.00% | ~621 |
+| Excellent service | 50.00% | ~586 |
+| Roll with it | 47.00% | ~550 |
+| Humble beginnings | 45.00% | ~527 |
+| Love is in the air | 44.00% | ~515 |
+| Fine, I'll do it myself | 43.00% | ~504 |
+| Moving up | 42.00% | ~492 |
+| No need to call anyone | 40.00% | ~468 |
+| Big fortune | 33.00% | ~386 |
+| Still more work ahead | 31.00% | ~363 |
+| Aesop's fable | 29.00% | ~340 |
+| Hotel sleuthing | 29.00% | ~340 |
+| Kaboom | 28.00% | ~328 |
+| Nearly there | 26.00% | ~304 |
+| Broken heart | 24.00% | ~281 |
 | Island boy | 23.00% | ~269 |
-| You're a star | 21.00% | ~245 |
-| Reunited | 20.00% | ~234 |
+| You're a star | 21.00% | ~246 |
 | Unstoppable | 19.00% | ~222 |
-| King of hospitality | 12.00% | ~140 |
+| Reunited | 19.00% | ~222 |
+| King of hospitality | 12.00% | ~141 |
 | Top spot in town | 3.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,168 (Ranked 259)  
+Progressed: 1,171 (Ranked 259)  
 Completed: 18 (1.54%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 18 (1.54%) (Ranked 144)
 | 2023-12-09 | 1,156 | 18 |
 | 2023-12-11 | 1,158 | 18 |
 | 2023-12-13 | 1,161 | 18 |
-| 2023-12-14 | 1,168 | 18 |
+| 2023-12-14 | 1,171 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 485,
+  "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 73,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -354,6 +354,11 @@
       "Time": "2023-12-14T19:08:09.7582806+00:00",
       "NumProgressed": 72,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T20:07:34.2664568+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -364,7 +369,7 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
       "UsersEstimate": 43
     },
@@ -444,7 +449,7 @@
       "ID": "19",
       "SetID": "6bgoh8g",
       "Name": "I am speed",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -476,7 +481,7 @@
       "ID": "22",
       "SetID": "6bgoh8g",
       "Name": "I know kung fu",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -492,7 +497,7 @@
       "ID": "24",
       "SetID": "6bgoh8g",
       "Name": "Just like a police lineup",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -516,7 +521,7 @@
       "ID": "27",
       "SetID": "6bgoh8g",
       "Name": "Dessert Connoisseur!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 40,
       "UsersEstimate": 9
     },
@@ -524,7 +529,7 @@
       "ID": "3",
       "SetID": "6bgoh8g",
       "Name": "It was not in the book",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -532,7 +537,7 @@
       "ID": "4",
       "SetID": "6bgoh8g",
       "Name": "A simple mistake leads to grave consequences",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -572,7 +577,7 @@
       "ID": "9",
       "SetID": "6bgoh8g",
       "Name": "Encore!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 4
     }
@@ -581,14 +586,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 73,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-14T19:08:09.7582803+00:00",
+  "LastChanged_Achievements": "2023-12-14T20:07:34.2664566+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:22.4243212+00:00",
-  "LastUpdate_Ratings": "2023-12-14T19:03:11.7159674+00:00",
-  "LastUpdate_Achievements": "2023-12-14T19:08:09.7582937+00:00"
+  "LastUpdate_Ratings": "2023-12-14T20:03:08.4194548+00:00",
+  "LastUpdate_Achievements": "2023-12-14T20:07:34.2664692+00:00"
 }
