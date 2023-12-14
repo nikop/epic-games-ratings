@@ -3,7 +3,7 @@
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 69,
-  "Ranking_Popularity": 226,
+  "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 258,
@@ -3437,9 +3437,9 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 18147,
+  "EOS_Progressed": 18151,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 497,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15712,6 +15712,11 @@
       "Time": "2023-12-14T21:03:36.3658927+00:00",
       "NumProgressed": 18147,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-14T22:04:37.9351495+00:00",
+      "NumProgressed": 18151,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15884,7 +15889,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "WinNearFishmen",
@@ -15940,7 +15945,7 @@
       "Name": "Royal Outpost",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "WinNearRuins",
@@ -15948,7 +15953,7 @@
       "Name": "Lost Colonies",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "WinNearStatue",
@@ -15980,7 +15985,7 @@
       "Name": "Watchtower",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "WinOnCoral",
@@ -16012,7 +16017,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "WinPrestige10",
@@ -16132,7 +16137,7 @@
       "Name": "Frosts",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "WinNearGreed",
@@ -16140,7 +16145,7 @@
       "Name": "Land of Greed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "WinNearLibrary",
@@ -16148,7 +16153,7 @@
       "Name": "Overgrown Library",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "WinNearPetrified",
@@ -16164,7 +16169,7 @@
       "Name": "Ominous Presence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "WinNearStorms",
@@ -16172,7 +16177,7 @@
       "Name": "Gathering Storm",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -16195,15 +16200,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18147,
+      "Progressed": 18151,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-14T10:01:10.0204149+00:00",
-  "LastChanged_Achievements": "2023-12-14T21:03:36.3658924+00:00",
+  "LastChanged_Achievements": "2023-12-14T22:04:37.9351492+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-14T20:59:56.6033379+00:00",
-  "LastUpdate_Achievements": "2023-12-14T21:03:36.3659846+00:00"
+  "LastUpdate_Ratings": "2023-12-14T22:01:26.2576963+00:00",
+  "LastUpdate_Achievements": "2023-12-14T22:04:37.9352473+00:00"
 }

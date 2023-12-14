@@ -145,9 +145,9 @@
       "ID": "ACH_AllZenItems",
       "SetID": "aao9n96",
       "Name": "I\u0027m curious what makes you so curious",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_AllenEnding",
@@ -249,9 +249,9 @@
       "ID": "ACH_FlawlessSecurity",
       "SetID": "aao9n96",
       "Name": "Clever Girl",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_GraceEnding",
@@ -400,8 +400,8 @@
   ],
   "FirstSeen": "2023-06-18T13:01:09.4740669+00:00",
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-12-14T21:04:38.4508854+00:00",
+  "LastChanged_Achievements": "2023-12-14T22:06:06.3955821+00:00",
   "LastUpdate_AppInfo": "2023-12-13T08:56:57.2205468+00:00",
-  "LastUpdate_Ratings": "2023-12-14T20:58:14.1378221+00:00",
-  "LastUpdate_Achievements": "2023-12-14T21:04:38.4509066+00:00"
+  "LastUpdate_Ratings": "2023-12-14T21:58:54.6946078+00:00",
+  "LastUpdate_Achievements": "2023-12-14T22:06:06.3956302+00:00"
 }

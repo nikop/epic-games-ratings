@@ -6,9 +6,9 @@
   "Ranking_Popularity": 144,
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 162,
-  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5227,11 +5227,17 @@
       "Rating": 4.76,
       "NumberOfAwards": 8141,
       "NumberOfAwardsMax": 1123
+    },
+    {
+      "Time": "2023-12-14T22:03:06.3922237+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8144,
+      "NumberOfAwardsMax": 1126
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8141,
-  "NumberOfAwardsMax": 1123,
+  "NumberOfAwards": 8144,
+  "NumberOfAwardsMax": 1126,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5244,7 +5250,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1123
+      "Count": 1126
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5301,9 +5307,9 @@
       "Count": 540
     }
   ],
-  "EOS_Progressed": 12586,
+  "EOS_Progressed": 12587,
   "EOS_Completed": 313,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.49,
   "EosHistory": [
@@ -21711,6 +21717,11 @@
       "Time": "2023-12-14T21:08:51.0243686+00:00",
       "NumProgressed": 12586,
       "NumCompleted": 313
+    },
+    {
+      "Time": "2023-12-14T22:09:41.1368403+00:00",
+      "NumProgressed": 12587,
+      "NumCompleted": 313
     }
   ],
   "TotalAchievements": 15,
@@ -21746,7 +21757,7 @@
       "Name": "Chef Cook",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 2391
+      "UsersEstimate": 2392
     },
     {
       "ID": "Chit_Chatter",
@@ -21786,7 +21797,7 @@
       "Name": "Generous",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3146
+      "UsersEstimate": 3147
     },
     {
       "ID": "Goofys_Investor",
@@ -21794,7 +21805,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 69,
       "XP": 75,
-      "UsersEstimate": 8684
+      "UsersEstimate": 8685
     },
     {
       "ID": "Miner",
@@ -21810,7 +21821,7 @@
       "Name": "Photographer",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 8558
+      "UsersEstimate": 8559
     },
     {
       "ID": "Renovator",
@@ -21834,23 +21845,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 7677
+      "UsersEstimate": 7678
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12586,
+      "Progressed": 12587,
       "Completed": 313
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-12-14T20:02:35.5564385+00:00",
-  "LastChanged_Achievements": "2023-12-14T21:08:51.0243682+00:00",
+  "LastChanged": "2023-12-14T22:03:06.3922235+00:00",
+  "LastChanged_Achievements": "2023-12-14T22:09:41.1368398+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:33.6610619+00:00",
-  "LastUpdate_Ratings": "2023-12-14T21:00:36.6519477+00:00",
-  "LastUpdate_Achievements": "2023-12-14T21:08:51.0244614+00:00"
+  "LastUpdate_Ratings": "2023-12-14T22:03:06.3922241+00:00",
+  "LastUpdate_Achievements": "2023-12-14T22:09:41.1369339+00:00"
 }

@@ -8,6 +8,7 @@ Rating: 4.60 (Ranked 422)
 | A Thorny Situation | 0.30% | ~25 |
 | Calm Sailing | 0.30% | ~25 |
 | Open the Gate! | 0.30% | ~25 |
+| Azoria Beckons | 0.20% | ~17 |
 | Clear the Air | 0.20% | ~17 |
 | Search for the Hairy Grell | 0.20% | ~17 |
 | Flaming Hot Completos | 0.20% | ~17 |
@@ -20,7 +21,6 @@ Rating: 4.60 (Ranked 422)
 | Right Tool For the Job | 0.20% | ~17 |
 | Captain of Cozy | 0.20% | ~17 |
 | Skilled | 0.20% | ~17 |
-| Azoria Beckons | 0.10% | ~8 |
 | Fae Farmer | 0.10% | ~8 |
 | Cloverfield Island | 0.10% | ~8 |
 | Got to Catch Them All | 0.10% | ~8 |
@@ -49,7 +49,7 @@ Rating: 4.60 (Ranked 422)
 | Exit Through The Gift Shop | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,436 (Ranked 176)  
+Progressed: 8,436 (Ranked 177)  
 Completed: 1 (0.01%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |

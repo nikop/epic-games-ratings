@@ -16,7 +16,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Breath | 0.80% | ~5,779 |
 | Qi Gong: Essence | 0.80% | ~5,779 |
 | Rumble in the Hangar | 0.80% | ~5,779 |
-| Project Arena | 0.80% | ~253 |
+| Project Arena | 0.80% | ~254 |
 | A Lady's Blood in the Snow | 0.70% | ~5,057 |
 | Lady Wing Chun | 0.70% | ~5,057 |
 | Kill Nil | 0.70% | ~5,057 |
@@ -31,7 +31,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 0.50% | ~3,612 |
 | I know Kung-Fu | 0.50% | ~3,612 |
 | Kung-Fu Tussle | 0.50% | ~3,612 |
-| Martial Hub | 0.50% | ~158 |
+| Martial Hub | 0.50% | ~159 |
 | Dance of the Praying Mantis | 0.40% | ~2,890 |
 | Bloody Sport | 0.40% | ~127 |
 | Muk Yan Master | 0.30% | ~2,167 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~32 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,384 (Ranked 24)  
+Progressed: 722,408 (Ranked 24)  
 Completed: 12,953 (1.79%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 12,953 (1.79%) (Ranked 136)
 | 2023-12-11 | 717,971 | 12,952 |
 | 2023-12-12 | 717,993 | 12,952 |
 | 2023-12-13 | 718,112 | 12,953 |
-| 2023-12-14 | 722,384 | 12,953 |
+| 2023-12-14 | 722,408 | 12,953 |
 ## Awards
 Max (Great Boss Battles): 6,923  (Ranked 55)  
 Sum: 12,152 (Ranked 83)  

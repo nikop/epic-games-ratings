@@ -3,7 +3,7 @@
   "Name": "Reykjavik",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 375,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:22.1645232+00:00",
-  "LastUpdate_Ratings": "2023-12-14T20:58:00.422725+00:00",
-  "LastUpdate_Achievements": "2023-12-14T21:09:11.8186044+00:00"
+  "LastUpdate_Ratings": "2023-12-14T21:58:33.5725599+00:00",
+  "LastUpdate_Achievements": "2023-12-14T22:10:09.5115294+00:00"
 }

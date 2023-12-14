@@ -13,7 +13,7 @@
 | Need a Consult | 38.00% | ~139 |
 | It's Technical | 38.00% | ~139 |
 | Upgrade Unlock | 37.00% | ~136 |
-| Delegate Maintenance | 34.00% | ~125 |
+| Delegate Maintenance | 35.00% | ~128 |
 | Proper Walls | 32.00% | ~117 |
 | Destination Destiny | 32.00% | ~117 |
 | Happy Tenants | 26.00% | ~95 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 367 (Ranked 342)  
+Progressed: 367 (Ranked 343)  
 Completed: 0 (0.00%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |

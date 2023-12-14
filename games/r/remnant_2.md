@@ -5,18 +5,18 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 2.00% | ~4,841 |
-| First of Many | 1.00% | ~2,420 |
-| Not Your Average Trait | 0.90% | ~2,178 |
+| The Killing Jar | 2.00% | ~4,842 |
+| First of Many | 1.00% | ~2,421 |
+| Not Your Average Trait | 0.90% | ~2,179 |
 | Regicide | 0.90% | ~191 |
-| Expanding Horizons | 0.80% | ~1,936 |
+| Expanding Horizons | 0.80% | ~1,937 |
 | Master of the Dark Arts | 0.80% | ~170 |
-| Gleaming the Cube | 0.60% | ~1,452 |
-| Quest for Survival | 0.60% | ~1,452 |
-| Not a Janitor | 0.60% | ~1,452 |
-| Familiar Face | 0.60% | ~1,452 |
-| Boss'n Up | 0.60% | ~1,452 |
-| Trait Chaser | 0.60% | ~1,452 |
+| Gleaming the Cube | 0.60% | ~1,453 |
+| Quest for Survival | 0.60% | ~1,453 |
+| Not a Janitor | 0.60% | ~1,453 |
+| Familiar Face | 0.60% | ~1,453 |
+| Boss'n Up | 0.60% | ~1,453 |
+| Trait Chaser | 0.60% | ~1,453 |
 | Am I Seeing This? | 0.50% | ~1,210 |
 | Not So Special Now | 0.50% | ~1,210 |
 | Equal Measures | 0.50% | ~1,210 |
@@ -57,11 +57,11 @@ Rating: 4.75 (Ranked 150)
 | The Collector | 0.20% | ~484 |
 | Proving Grounds | 0.20% | ~484 |
 | Maxed Out! | 0.20% | ~484 |
-| Succession | 0.20% | ~42 |
-| You Shall Pass | 0.20% | ~42 |
+| Succession | 0.20% | ~43 |
+| You Shall Pass | 0.20% | ~43 |
 | A Foul Feast | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,041 (Ranked 64)  
+Progressed: 242,089 (Ranked 64)  
 Completed: 585 (0.24%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,10 +212,10 @@ Completed: 585 (0.24%) (Ranked 253)
 | 2023-12-11 | 238,673 | 579 |
 | 2023-12-12 | 239,053 | 581 |
 | 2023-12-13 | 239,544 | 584 |
-| 2023-12-14 | 242,041 | 585 |
+| 2023-12-14 | 242,089 | 585 |
 ## Awards
 Max (Great Boss Battles): 2,757  (Ranked 101)  
-Sum: 6,913 (Ranked 126)  
+Sum: 6,919 (Ranked 126)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -223,13 +223,13 @@ Diff (max vs sum): -25
 | This game has Diverse Characters | 471 |
 | This game is Highly Recommended | 444 |
 | This game has Challenging Combat | 439 |
+| This game has Amazing Storytelling | 429 |
 | This game is Relaxing | 429 |
 | This game is Extremely Fun | 426 |
-| This game has Amazing Storytelling | 426 |
 | This game has Quickly Understood Controls | 424 |
 | This game has Amazing Characters | 418 |
 | This game has Unique Visuals | 367 |
-| This game has a Creative Community | 312 |
+| This game has a Creative Community | 315 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -374,4 +374,4 @@ Diff (max vs sum): -25
 | 2023-12-11 | 4.75 | 2,717 | 6,788 |
 | 2023-12-12 | 4.75 | 2,730 | 6,825 |
 | 2023-12-13 | 4.75 | 2,741 | 6,871 |
-| 2023-12-14 | 4.75 | 2,757 | 6,913 |
+| 2023-12-14 | 4.75 | 2,757 | 6,919 |

@@ -6,13 +6,13 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 5.00% | ~907 |
+| Overgrown Library | 5.00% | ~908 |
 | Abandoned Settlement | 4.00% | ~726 |
 | Petrified Necropolis | 4.00% | ~726 |
-| Frosts | 3.00% | ~544 |
-| Land of Greed | 3.00% | ~544 |
-| Ominous Presence | 3.00% | ~544 |
-| Gathering Storm | 3.00% | ~544 |
+| Frosts | 3.00% | ~545 |
+| Land of Greed | 3.00% | ~545 |
+| Ominous Presence | 3.00% | ~545 |
+| Gathering Storm | 3.00% | ~545 |
 | First Real Expedition | 2.00% | ~363 |
 | Overcoming Difficulty | 2.00% | ~363 |
 | Coral Forest | 2.00% | ~363 |
@@ -20,11 +20,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 2.00% | ~363 |
 | No Deaths | 2.00% | ~363 |
 | Untamed Wilds | 2.00% | ~363 |
-| Fertile Meadows | 1.00% | ~181 |
-| Royal Outpost | 1.00% | ~181 |
-| Lost Colonies | 1.00% | ~181 |
-| Watchtower | 1.00% | ~181 |
-| The Scarlet Orchard | 1.00% | ~181 |
+| Fertile Meadows | 1.00% | ~182 |
+| Royal Outpost | 1.00% | ~182 |
+| Lost Colonies | 1.00% | ~182 |
+| Watchtower | 1.00% | ~182 |
+| The Scarlet Orchard | 1.00% | ~182 |
 | Homesick | 0.90% | ~163 |
 | A Real Challenge | 0.90% | ~163 |
 | Ruined Armory | 0.80% | ~145 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,147 (Ranked 147)  
+Progressed: 18,151 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,11 +304,11 @@ Completed: 39 (0.21%) (Ranked 258)
 | 2023-12-11 | 17,957 | 41 |
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
-| 2023-12-14 | 18,147 | 40 |
+| 2023-12-14 | 18,151 | 40 |
 ## Awards
-Max (Quickly Understood Controls): 442  (Ranked 226)  
+Max (Quickly Understood Controls): 442  (Ranked 227)  
 Sum: 3,258 (Ranked 175)  
-Diff (max vs sum): 51  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 442 |

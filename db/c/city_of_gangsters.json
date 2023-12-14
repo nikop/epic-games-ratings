@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 375,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -904,7 +904,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 356625,
+  "EOS_Progressed": 356628,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 984,
   "EOS_NewCompleters": 0,
@@ -28039,6 +28039,11 @@
       "Time": "2023-12-14T21:06:01.1060484+00:00",
       "NumProgressed": 356625,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-14T22:08:04.5379907+00:00",
+      "NumProgressed": 356628,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -28074,7 +28079,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7132
+      "UsersEstimate": 7133
     },
     {
       "ID": "ach005",
@@ -28122,7 +28127,7 @@
       "Name": "Homemade Hooch",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "ach011",
@@ -28146,7 +28151,7 @@
       "Name": "Baker\u2019s Dozen",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7132
+      "UsersEstimate": 7133
     },
     {
       "ID": "ach014",
@@ -28178,7 +28183,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46361
+      "UsersEstimate": 46362
     },
     {
       "ID": "ach018",
@@ -28258,7 +28263,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 164048
+      "UsersEstimate": 164049
     },
     {
       "ID": "ach028",
@@ -28282,7 +28287,7 @@
       "Name": "Dropping the Dime",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7132
+      "UsersEstimate": 7133
     },
     {
       "ID": "ach031",
@@ -28338,7 +28343,7 @@
       "Name": "High End Booze",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "ach038",
@@ -28354,7 +28359,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35662
+      "UsersEstimate": 35663
     },
     {
       "ID": "ach040",
@@ -28402,7 +28407,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46361
+      "UsersEstimate": 46362
     },
     {
       "ID": "ach046",
@@ -28482,7 +28487,7 @@
       "Name": "Spiffy Speakeasies",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7132
+      "UsersEstimate": 7133
     },
     {
       "ID": "ach056",
@@ -28514,7 +28519,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35662
+      "UsersEstimate": 35663
     },
     {
       "ID": "ach060",
@@ -28530,7 +28535,7 @@
       "Name": "Keeping Your Word",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7132
+      "UsersEstimate": 7133
     },
     {
       "ID": "ach062",
@@ -28650,7 +28655,7 @@
       "Name": "In-House Maintenance",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "ach078",
@@ -28689,7 +28694,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 356625,
+      "Progressed": 356628,
       "Completed": 7
     }
   ],
@@ -28697,8 +28702,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-14T15:57:58.3346517+00:00",
-  "LastChanged_Achievements": "2023-12-14T21:06:01.1060481+00:00",
+  "LastChanged_Achievements": "2023-12-14T22:08:04.5379901+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.9367355+00:00",
-  "LastUpdate_Ratings": "2023-12-14T20:57:53.8495084+00:00",
-  "LastUpdate_Achievements": "2023-12-14T21:06:01.1062309+00:00"
+  "LastUpdate_Ratings": "2023-12-14T21:58:23.4611618+00:00",
+  "LastUpdate_Achievements": "2023-12-14T22:08:04.5381613+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 38.00% | ~178 |
-| Double Kill | 29.00% | ~136 |
+| Adept | 38.00% | ~179 |
+| Double Kill | 29.00% | ~137 |
 | Critical Hit | 17.00% | ~80 |
-| Veteran | 16.00% | ~75 |
-| Dressed For Success | 11.00% | ~51 |
-| Humiliation | 8.00% | ~37 |
+| Veteran | 16.00% | ~76 |
+| Dressed For Success | 11.00% | ~52 |
+| Humiliation | 8.00% | ~38 |
 | Sorcerous Spree | 7.00% | ~33 |
 | Multi Kill | 6.00% | ~28 |
 | Veni, Vidi, Vici | 6.00% | ~28 |
-| Landlord Extraordinaire | 5.00% | ~23 |
-| Master | 5.00% | ~23 |
+| Landlord Extraordinaire | 5.00% | ~24 |
+| Master | 5.00% | ~24 |
 | Whoops! | 4.00% | ~19 |
 | Expert Essence Employment | 4.00% | ~19 |
 | Trojan Horse | 3.00% | ~14 |
@@ -30,8 +30,8 @@ Number of Ratings: 292  (23.09.2022)
 | Infernal Influence | 1.00% | ~5 |
 | Such A Fungi | 1.00% | ~5 |
 | Grand Master | 1.00% | ~5 |
-| Get Over Here! | 0.90% | ~4 |
-| Ultra Kill | 0.90% | ~4 |
+| Get Over Here! | 0.80% | ~4 |
+| Ultra Kill | 0.80% | ~4 |
 | Unlimited Power! | 0.60% | ~3 |
 | Together For Her | 0.60% | ~3 |
 | Death To Diplomacy | 0.40% | ~2 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468 (Ranked 324)  
+Progressed: 472 (Ranked 324)  
 Completed: 0 (0.00%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 375)
 | 2023-12-11 | 421 | 0 |
 | 2023-12-12 | 434 | 0 |
 | 2023-12-13 | 447 | 0 |
-| 2023-12-14 | 468 | 0 |
+| 2023-12-14 | 472 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 518)  
 Sum: 194 (Ranked 411)  

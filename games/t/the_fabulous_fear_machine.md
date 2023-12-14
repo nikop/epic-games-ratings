@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 31.00% | ~16 |
+| Master trainee | 33.00% | ~17 |
 | You have three wishes left | 27.00% | ~14 |
 | Jung's dream | 25.00% | ~13 |
 | The battle of Great Britain | 25.00% | ~13 |

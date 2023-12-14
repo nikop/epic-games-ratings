@@ -4,10 +4,10 @@
   "ProductSlug": "the-last-of-us-part-1",
   "Ranking_Rating": 833,
   "Ranking_Popularity": 283,
-  "Ranking_PopularitySum": 396,
+  "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 375,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -1129,6 +1129,6 @@
   "FirstSeenRating": "2023-03-30T20:57:18.2148276+00:00",
   "LastChanged": "2023-12-14T20:01:37.8373033+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:28.4262366+00:00",
-  "LastUpdate_Ratings": "2023-12-14T21:00:31.6606956+00:00",
-  "LastUpdate_Achievements": "2023-12-14T21:03:32.3323781+00:00"
+  "LastUpdate_Ratings": "2023-12-14T22:02:58.6551757+00:00",
+  "LastUpdate_Achievements": "2023-12-14T22:04:31.7795365+00:00"
 }

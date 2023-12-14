@@ -8,7 +8,7 @@
 | Space Colonization | 81.00% | ~634 |
 | Friendzone | 80.00% | ~626 |
 | Hello World | 75.00% | ~587 |
-| Space Engineer | 64.00% | ~501 |
+| Space Engineer | 65.00% | ~509 |
 | Tinkerer | 63.00% | ~493 |
 | Dust to Dust | 59.00% | ~462 |
 | Across The Stars | 49.00% | ~384 |
@@ -23,7 +23,7 @@
 | Et tu, Astrocitizen? | 20.00% | ~157 |
 | Space Explorer | 17.00% | ~133 |
 | Hands Full | 14.00% | ~110 |
-| Gold Medalist | 12.00% | ~94 |
+| Gold Medalist | 13.00% | ~102 |
 | Non-Fiction | 12.00% | ~94 |
 | No Man Left Behind | 9.00% | ~70 |
 | Fix-It Felix | 8.00% | ~63 |

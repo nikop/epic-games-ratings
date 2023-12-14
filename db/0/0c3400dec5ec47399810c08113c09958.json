@@ -4,7 +4,7 @@
   "ProductSlug": "happy-time-a894d4",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 375,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-12T14:57:43.7319254+00:00",
-  "LastUpdate_Ratings": "2023-12-14T20:58:13.1143826+00:00",
-  "LastUpdate_Achievements": "2023-12-14T21:04:07.6629507+00:00"
+  "LastUpdate_Ratings": "2023-12-14T21:58:53.3584197+00:00",
+  "LastUpdate_Achievements": "2023-12-14T22:05:21.5850138+00:00"
 }

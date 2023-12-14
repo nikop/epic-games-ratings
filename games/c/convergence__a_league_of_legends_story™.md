@@ -21,22 +21,22 @@ Rating: 4.62 (Ranked 371)
 | The Wicked Twins | 21.00% | ~202 |
 | Honest Mistake | 21.00% | ~202 |
 | Fast Learner | 21.00% | ~202 |
-| Like Clockwork | 20.00% | ~192 |
-| The Betrayer | 20.00% | ~192 |
-| Golem Chaser | 20.00% | ~192 |
+| Like Clockwork | 20.00% | ~193 |
+| The Betrayer | 20.00% | ~193 |
+| Golem Chaser | 20.00% | ~193 |
 | Right On Time | 19.00% | ~183 |
-| The Loose Cannon | 19.00% | ~183 |
 | Check Your Pulse | 19.00% | ~183 |
 | The Man Who Shattered Time | 18.00% | ~173 |
+| The Loose Cannon | 18.00% | ~173 |
 | The Family Fortune | 18.00% | ~173 |
 | Street Style | 17.00% | ~164 |
 | Whiz Kid | 15.00% | ~144 |
 | Cartographer | 15.00% | ~144 |
 | Treasure Trove | 14.00% | ~135 |
 | Good Neighbor | 13.00% | ~125 |
-| Chaincrawler Explorer | 12.00% | ~115 |
-| Family Memories | 12.00% | ~115 |
-| Ask Questions Later | 12.00% | ~115 |
+| Chaincrawler Explorer | 12.00% | ~116 |
+| Family Memories | 12.00% | ~116 |
+| Ask Questions Later | 12.00% | ~116 |
 | Sump Explorer | 11.00% | ~106 |
 | Syron for Hope | 11.00% | ~106 |
 | Factorywood Explorer | 10.00% | ~96 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 371)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 962 (Ranked 275)  
+Progressed: 963 (Ranked 275)  
 Completed: 6 (0.62%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 6 (0.62%) (Ranked 192)
 | 2023-12-01 | 946 | 6 |
 | 2023-12-06 | 947 | 6 |
 | 2023-12-13 | 955 | 6 |
-| 2023-12-14 | 962 | 6 |
+| 2023-12-14 | 963 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

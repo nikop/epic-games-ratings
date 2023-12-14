@@ -5,20 +5,20 @@ Rating: 4.88 (Ranked 18)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 26.00% | ~1,527 |
-| Start with a bang! | 25.00% | ~1,468 |
+| Feeling the beat! | 26.00% | ~1,528 |
+| Start with a bang! | 25.00% | ~1,469 |
 | You can pet the cat! | 23.00% | ~1,351 |
-| Who put gears in there? | 18.00% | ~1,057 |
+| Who put gears in there? | 18.00% | ~1,058 |
 | Cream of the Crop | 16.00% | ~940 |
 | Thanks for the free chip, Peppermint! | 15.00% | ~881 |
 | You got this, Peppermint? | 13.00% | ~764 |
 | Perfect Parry | 12.00% | ~705 |
 | Alright, that felt AWESOME! | 12.00% | ~705 |
 | I play my own way! | 11.00% | ~646 |
-| This will cost you big time | 10.00% | ~587 |
-| Z-shielding's got nothing on us! | 10.00% | ~587 |
-| Uh, they were broken when I got here | 10.00% | ~587 |
-| Does that say weakpoint? | 10.00% | ~587 |
+| This will cost you big time | 10.00% | ~588 |
+| Z-shielding's got nothing on us! | 10.00% | ~588 |
+| Uh, they were broken when I got here | 10.00% | ~588 |
+| Does that say weakpoint? | 10.00% | ~588 |
 | Whoa! There's ANOTHER health bar!? | 9.00% | ~529 |
 | Kissing the sky! | 9.00% | ~529 |
 | The Negotiator | 8.00% | ~470 |
@@ -30,18 +30,18 @@ Rating: 4.88 (Ranked 18)
 | You must like calling me in, Chai | 7.00% | ~411 |
 | Perfecter Parry-er! | 7.00% | ~411 |
 | NOW we got a kickass hideout! | 7.00% | ~308 |
-| I have to read these things? | 6.00% | ~352 |
+| I have to read these things? | 6.00% | ~353 |
 | That's a lot of junk metal… | 5.00% | ~294 |
 | Well that was a rush! | 4.00% | ~235 |
 | Beat-hit mania | 4.00% | ~235 |
 | There's such a thing as TOO helpful | 4.00% | ~235 |
 | Chip-tuned | 3.00% | ~176 |
-| I think I found your calling, Macaron | 2.00% | ~117 |
-| We're Jammin' | 2.00% | ~117 |
-| I hit things with a guitar really well. | 2.00% | ~117 |
-| Wanna hear my playlist? | 2.00% | ~117 |
-| I told you I'd be fine, Peppermint! | 2.00% | ~117 |
-| Check out my moves! | 2.00% | ~117 |
+| I think I found your calling, Macaron | 2.00% | ~118 |
+| We're Jammin' | 2.00% | ~118 |
+| I hit things with a guitar really well. | 2.00% | ~118 |
+| Wanna hear my playlist? | 2.00% | ~118 |
+| I told you I'd be fine, Peppermint! | 2.00% | ~118 |
+| Check out my moves! | 2.00% | ~118 |
 | Call me Turbo Chai | 2.00% | ~88 |
 | I think I deserve some praise, here! | 1.00% | ~59 |
 | This is a breeze! | 1.00% | ~59 |
@@ -51,8 +51,8 @@ Rating: 4.88 (Ranked 18)
 | OK, well THEY came after ME! | 0.80% | ~47 |
 | New bad guys? No problem! | 0.80% | ~35 |
 | Easy Listening | 0.50% | ~29 |
-| Problem solved... wait, what? | 0.40% | ~23 |
-| Now this is how you fight like a team! | 0.40% | ~23 |
+| Problem solved... wait, what? | 0.40% | ~24 |
+| Now this is how you fight like a team! | 0.40% | ~24 |
 | Choose your own adventure | 0.40% | ~18 |
 | And the crowd goes wild! | 0.30% | ~18 |
 | Fully Powered Up! | 0.30% | ~18 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 18)
 | Voices from within | 0.10% | ~4 |
 | Low budget finish | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,874 (Ranked 188)  
+Progressed: 5,876 (Ranked 188)  
 Completed: 8 (0.14%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 8 (0.14%) (Ranked 281)
 | 2023-12-11 | 4,506 | 8 |
 | 2023-12-12 | 4,510 | 8 |
 | 2023-12-13 | 4,535 | 8 |
-| 2023-12-14 | 5,874 | 8 |
+| 2023-12-14 | 5,876 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

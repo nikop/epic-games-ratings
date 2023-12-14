@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,534 |
-| Off to a good start | 66.00% | ~1,138 |
-| Do... or do not. There is no try | 51.00% | ~879 |
-| A good blaster at your side | 29.00% | ~500 |
+| New Recruit | 89.00% | ~1,536 |
+| Off to a good start | 66.00% | ~1,139 |
+| Do... or do not. There is no try | 51.00% | ~880 |
+| A good blaster at your side | 29.00% | ~501 |
 | I suggest a new strategy | 19.00% | ~328 |
-| Scrap collector | 17.00% | ~293 |
+| Scrap collector | 18.00% | ~311 |
 | All right, I'll give it a try | 17.00% | ~293 |
 | Great shot, kid! | 17.00% | ~293 |
-| Collector | 14.00% | ~241 |
-| Shoot first | 14.00% | ~241 |
+| Collector | 14.00% | ~242 |
+| Shoot first | 14.00% | ~242 |
 | The power of the Force | 13.00% | ~224 |
 | Together we can rule the galaxy | 13.00% | ~224 |
-| Tell Jabba that I've got his money | 10.00% | ~172 |
+| Tell Jabba that I've got his money | 10.00% | ~173 |
 | Best star-pilot in the galaxy | 9.00% | ~155 |
 | Survivor | 9.00% | ~155 |
 | Never tell me the odds! | 8.00% | ~138 |
 | A cunning warrior | 8.00% | ~138 |
 | What's the cargo? | 7.00% | ~121 |
-| Impressive. Most impressive. | 6.00% | ~103 |
-| Judge me by my size, do you? | 6.00% | ~103 |
-| Support the troops | 6.00% | ~103 |
+| Impressive. Most impressive. | 6.00% | ~104 |
+| Judge me by my size, do you? | 6.00% | ~104 |
+| Support the troops | 6.00% | ~104 |
 | "Gonk? Gonk!" | 5.00% | ~86 |
 | Distinguished | 5.00% | ~86 |
 | A tremor in the Force | 5.00% | ~86 |
@@ -36,15 +36,15 @@
 | When 900 years old you reach... | 3.00% | ~52 |
 | Your journey has only started | 3.00% | ~52 |
 | On the ball | 3.00% | ~52 |
-| The Force is strong with this one | 2.00% | ~34 |
-| Determined | 2.00% | ~34 |
-| Precision shot | 2.00% | ~34 |
-| This is a new day, a new beginning | 2.00% | ~34 |
-| City in the Clouds | 2.00% | ~34 |
-| That's no moon | 2.00% | ~34 |
-| Alternative solution | 2.00% | ~34 |
-| What will you become? | 2.00% | ~34 |
-| Disturbed tranquility | 2.00% | ~34 |
+| The Force is strong with this one | 2.00% | ~35 |
+| Determined | 2.00% | ~35 |
+| Precision shot | 2.00% | ~35 |
+| This is a new day, a new beginning | 2.00% | ~35 |
+| City in the Clouds | 2.00% | ~35 |
+| That's no moon | 2.00% | ~35 |
+| Alternative solution | 2.00% | ~35 |
+| What will you become? | 2.00% | ~35 |
+| Disturbed tranquility | 2.00% | ~35 |
 | Hold the line! | 1.00% | ~17 |
 | Playing the objective | 1.00% | ~17 |
 | Ackbar's Elite | 1.00% | ~17 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,724 (Ranked 238)  
+Progressed: 1,726 (Ranked 238)  
 Completed: 1 (0.06%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 1 (0.06%) (Ranked 318)
 | 2023-12-11 | 1,674 | 1 |
 | 2023-12-12 | 1,684 | 1 |
 | 2023-12-13 | 1,698 | 1 |
-| 2023-12-14 | 1,724 | 1 |
+| 2023-12-14 | 1,726 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

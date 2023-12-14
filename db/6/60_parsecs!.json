@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -1205,9 +1205,9 @@
       "ID": "Achievement_GoldMedalist",
       "SetID": "c01p6e5",
       "Name": "Gold Medalist",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 102
     },
     {
       "ID": "Achievement_HandsFull",
@@ -1341,9 +1341,9 @@
       "ID": "Achievement_SpaceEngineer",
       "SetID": "c01p6e5",
       "Name": "Space Engineer",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 509
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -1406,8 +1406,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-12-14T21:08:15.1860216+00:00",
+  "LastChanged_Achievements": "2023-12-14T22:08:51.1779259+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:57.9722804+00:00",
-  "LastUpdate_Ratings": "2023-12-14T20:57:17.5132337+00:00",
-  "LastUpdate_Achievements": "2023-12-14T21:08:15.1860502+00:00"
+  "LastUpdate_Ratings": "2023-12-14T21:57:26.5513438+00:00",
+  "LastUpdate_Achievements": "2023-12-14T22:08:51.1779581+00:00"
 }

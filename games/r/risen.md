@@ -36,7 +36,7 @@ Rating: 4.58 (Ranked 453)
 | Showdown | 17.00% | ~13 |
 | Fence | 17.00% | ~13 |
 | Workaholic | 16.00% | ~12 |
-| Safecracker | 15.00% | ~11 |
+| Safecracker | 16.00% | ~12 |
 | Master thief | 15.00% | ~11 |
 | Freedom fighter | 13.00% | ~10 |
 | Titan Lord | 13.00% | ~10 |

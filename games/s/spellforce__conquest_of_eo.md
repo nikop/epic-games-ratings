@@ -8,20 +8,20 @@
 | Home Sweet Home | 91.00% | ~43 |
 | First to the post | 89.00% | ~42 |
 | A kind of Magic | 85.00% | ~40 |
+| Connected | 81.00% | ~38 |
 | Expansion | 79.00% | ~37 |
-| Connected | 79.00% | ~37 |
-| Harvest Time | 68.00% | ~32 |
+| Harvest Time | 70.00% | ~33 |
+| Mine! | 66.00% | ~31 |
 | Artificer's Apprentice | 64.00% | ~30 |
-| Mine! | 64.00% | ~30 |
+| Get out of here! | 55.00% | ~26 |
 | Necromancer's Apprentice | 53.00% | ~25 |
-| Get out of here! | 53.00% | ~25 |
-| Fly the friendly Sky | 51.00% | ~24 |
+| Fly the friendly Sky | 53.00% | ~25 |
 | Friend of Lyraine | 47.00% | ~22 |
 | The Circle | 45.00% | ~21 |
 | Alchemist's Apprentice | 45.00% | ~21 |
 | Redecorating | 38.00% | ~18 |
+| Bad JuJu | 30.00% | ~14 |
 | Slave to the rhythm | 28.00% | ~13 |
-| Bad JuJu | 28.00% | ~13 |
 | Friend of Sevenkeeps | 26.00% | ~12 |
 | Castle Meldec | 21.00% | ~10 |
 | Sevenkeeps Seat of Kings | 21.00% | ~10 |

@@ -5,15 +5,15 @@ Rating: 4.50 (Ranked 599)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 9.00% | ~2,902 |
+| Stylish | 9.00% | ~2,903 |
 | Meticulously Efficient | 8.00% | ~2,580 |
 | Advancement | 7.00% | ~2,258 |
 | Swift Rift Removers | 6.00% | ~1,935 |
-| I collect Spores, Molds, and Fungi | 5.00% | ~1,612 |
-| Discovery | 5.00% | ~1,612 |
-| Fully Upgraded | 5.00% | ~1,612 |
-| Solo Capture | 5.00% | ~1,612 |
-| Teamwork | 5.00% | ~1,612 |
+| I collect Spores, Molds, and Fungi | 5.00% | ~1,613 |
+| Discovery | 5.00% | ~1,613 |
+| Fully Upgraded | 5.00% | ~1,613 |
+| Solo Capture | 5.00% | ~1,613 |
+| Teamwork | 5.00% | ~1,613 |
 | Clutch Capture | 4.00% | ~1,290 |
 | Cultured | 4.00% | ~1,290 |
 | Daily Dose | 4.00% | ~1,290 |
@@ -39,25 +39,25 @@ Rating: 4.50 (Ranked 599)
 | Stunner | 2.00% | ~645 |
 | Tobin's Prodigy | 2.00% | ~645 |
 | Welcome to the Crew | 2.00% | ~645 |
-| Diabolical | 1.00% | ~322 |
-| Fragile Panes | 1.00% | ~322 |
-| Liability | 1.00% | ~322 |
-| Reckless | 1.00% | ~322 |
-| Rivalry | 1.00% | ~322 |
-| Surprise! | 1.00% | ~322 |
-| Terrifying | 1.00% | ~322 |
+| Diabolical | 1.00% | ~323 |
+| Fragile Panes | 1.00% | ~323 |
+| Liability | 1.00% | ~323 |
+| Reckless | 1.00% | ~323 |
+| Rivalry | 1.00% | ~323 |
+| Surprise! | 1.00% | ~323 |
+| Terrifying | 1.00% | ~323 |
 | Therapeutic | 0.80% | ~258 |
 | Rift Seeker | 0.60% | ~194 |
 | Master Collector | 0.50% | ~161 |
 | Ghost Expert | 0.30% | ~97 |
-| Catostrophic Destroyer | 0.20% | ~64 |
-| I don't need these | 0.20% | ~64 |
-| Little Help Here | 0.20% | ~64 |
-| Mycophile | 0.20% | ~64 |
-| Ultimate Defense | 0.20% | ~64 |
+| Catostrophic Destroyer | 0.20% | ~65 |
+| I don't need these | 0.20% | ~65 |
+| Little Help Here | 0.20% | ~65 |
+| Mycophile | 0.20% | ~65 |
+| Ultimate Defense | 0.20% | ~65 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,250 (Ranked 125)  
+Progressed: 32,251 (Ranked 125)  
 Completed: 69 (0.21%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,20 +295,20 @@ Completed: 69 (0.21%) (Ranked 258)
 | 2023-12-11 | 32,184 | 69 |
 | 2023-12-12 | 32,201 | 69 |
 | 2023-12-13 | 32,229 | 69 |
-| 2023-12-14 | 32,250 | 69 |
+| 2023-12-14 | 32,251 | 69 |
 ## Awards
-Max (Great for Beginners): 321  (Ranked 251)  
-Sum: 2,903 (Ranked 180)  
+Max (Great for Beginners): 323  (Ranked 251)  
+Sum: 2,906 (Ranked 180)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 321 |
+| This game is Great for Beginners | 323 |
 | This game is Great for Quick Sessions | 317 |
 | This game has Diverse Characters | 305 |
 | This game has Amazing Storytelling | 290 |
 | This game is Highly Recommended | 288 |
 | This game has Competitive Players | 283 |
-| This game is Extremely Fun | 281 |
+| This game is Extremely Fun | 282 |
 | This game is Relaxing | 281 |
 | This game has Amazing Characters | 270 |
 | This game has Quickly Understood Controls | 267 |
@@ -555,4 +555,4 @@ Diff (max vs sum): 71
 | 2023-12-10 | 4.50 | 321 | 2,894 |
 | 2023-12-11 | 4.50 | 321 | 2,897 |
 | 2023-12-12 | 4.50 | 321 | 2,901 |
-| 2023-12-14 | 4.50 | 321 | 2,903 |
+| 2023-12-14 | 4.50 | 323 | 2,906 |

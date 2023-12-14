@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 27,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8259,9 +8259,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 722384,
+  "EOS_Progressed": 722408,
   "EOS_Completed": 12953,
-  "EOS_NewPlayers": 4517,
+  "EOS_NewPlayers": 4540,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.79,
   "EosHistory": [
@@ -29359,6 +29359,11 @@
       "Time": "2023-12-14T21:08:33.2762495+00:00",
       "NumProgressed": 722384,
       "NumCompleted": 12953
+    },
+    {
+      "Time": "2023-12-14T22:09:17.2093834+00:00",
+      "NumProgressed": 722408,
+      "NumCompleted": 12953
     }
   ],
   "TotalAchievements": 60,
@@ -29706,7 +29711,7 @@
       "Name": "Project Arena",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -29730,7 +29735,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -29849,21 +29854,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 31685,
+      "Progressed": 31709,
       "Completed": 10771
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 722384,
+      "Progressed": 722408,
       "Completed": 12953
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-14T01:49:50.3511384+00:00",
-  "LastChanged_Achievements": "2023-12-14T21:08:33.276249+00:00",
+  "LastChanged_Achievements": "2023-12-14T22:09:17.2093829+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:05.3418066+00:00",
-  "LastUpdate_Ratings": "2023-12-14T21:02:55.6557646+00:00",
-  "LastUpdate_Achievements": "2023-12-14T21:08:33.2763827+00:00"
+  "LastUpdate_Ratings": "2023-12-14T22:03:32.1422136+00:00",
+  "LastUpdate_Achievements": "2023-12-14T22:09:17.2094979+00:00"
 }

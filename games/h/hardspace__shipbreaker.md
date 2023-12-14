@@ -6,27 +6,27 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 73.00% | ~714 |
-| It’s Heating up! | 70.00% | ~685 |
-| Let’s patch things up | 66.00% | ~645 |
-| I can fix it! | 63.00% | ~616 |
-| Post No Bills | 55.00% | ~538 |
-| Truly Shocking! | 49.00% | ~479 |
-| Critical Thinker | 36.00% | ~352 |
-| Always Finding Your Mark | 30.00% | ~293 |
-| The Weight of the World | 30.00% | ~293 |
+| Breathe In… Breathe Out… | 73.00% | ~715 |
+| It’s Heating up! | 69.00% | ~676 |
+| Let’s patch things up | 65.00% | ~637 |
+| I can fix it! | 63.00% | ~617 |
+| Post No Bills | 55.00% | ~539 |
+| Truly Shocking! | 48.00% | ~470 |
+| Critical Thinker | 36.00% | ~353 |
+| Always Finding Your Mark | 30.00% | ~294 |
+| The Weight of the World | 30.00% | ~294 |
 | Act I Complete | 29.00% | ~284 |
 | A drop in the Ocean | 29.00% | ~284 |
-| No Niños | 26.00% | ~254 |
-| I ain’t afraid of no Ghost | 25.00% | ~244 |
-| Act II Complete | 22.00% | ~215 |
+| No Niños | 26.00% | ~255 |
+| I ain’t afraid of no Ghost | 25.00% | ~245 |
+| Act II Complete | 22.00% | ~216 |
 | A successful procedure! | 19.00% | ~186 |
 | Bing Bang BOOM | 19.00% | ~186 |
 | Breaking the Ice | 18.00% | ~176 |
 | Solidarity Forever | 13.00% | ~127 |
 | A Tucked Tale | 10.00% | ~98 |
 | The best thing money can buy | 10.00% | ~98 |
-| Act III Complete | 7.00% | ~68 |
+| Act III Complete | 7.00% | ~69 |
 | Fire and Brimstone | 6.00% | ~59 |
 | See you Space Cowboy | 6.00% | ~59 |
 | Ghost in the Ship | 2.00% | ~20 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 978 (Ranked 273)  
+Progressed: 980 (Ranked 273)  
 Completed: 0 (0.00%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 0 (0.00%) (Ranked 375)
 | 2023-12-10 | 973 | 0 |
 | 2023-12-12 | 974 | 0 |
 | 2023-12-13 | 975 | 0 |
-| 2023-12-14 | 978 | 0 |
+| 2023-12-14 | 980 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

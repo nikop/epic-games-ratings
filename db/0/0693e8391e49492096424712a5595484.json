@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -2312,9 +2312,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 389
+      "UsersEstimate": 395
     },
     {
       "ID": "DevilRope",
@@ -2512,9 +2512,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 438
+      "UsersEstimate": 444
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -2575,8 +2575,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-14T21:04:22.6910563+00:00",
+  "LastChanged_Achievements": "2023-12-14T22:05:43.5747134+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:40.9635354+00:00",
-  "LastUpdate_Ratings": "2023-12-14T20:59:06.9461567+00:00",
-  "LastUpdate_Achievements": "2023-12-14T21:04:22.6910966+00:00"
+  "LastUpdate_Ratings": "2023-12-14T22:00:11.2094022+00:00",
+  "LastUpdate_Achievements": "2023-12-14T22:05:43.5747875+00:00"
 }

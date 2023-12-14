@@ -6,9 +6,9 @@
   "Ranking_Popularity": 563,
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 259,
-  "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_Completed": 119,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1173,
+  "EOS_Progressed": 1174,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.64,
   "EosHistory": [
@@ -4012,6 +4012,11 @@
       "Time": "2023-12-14T21:03:44.8599787+00:00",
       "NumProgressed": 1173,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-12-14T22:04:49.3997637+00:00",
+      "NumProgressed": 1174,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 28,
@@ -4023,7 +4028,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "MQ01_2",
@@ -4031,7 +4036,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "MQ02_1",
@@ -4039,7 +4044,7 @@
       "Name": "High Profile",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "MQ02_2",
@@ -4063,7 +4068,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "MQ03_1",
@@ -4095,7 +4100,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "MQ03_5",
@@ -4103,7 +4108,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "MQ04_1",
@@ -4127,7 +4132,7 @@
       "Name": "The New World",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "MQ05_1",
@@ -4135,7 +4140,7 @@
       "Name": "Open Sesame",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "MQ05_2",
@@ -4151,7 +4156,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "MQ05_4",
@@ -4175,7 +4180,7 @@
       "Name": "Bookworm",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "MQ06_3",
@@ -4191,7 +4196,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "MQ07_1",
@@ -4207,7 +4212,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "MQ08_1",
@@ -4246,7 +4251,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1173,
+      "Progressed": 1174,
       "Completed": 31
     }
   ],
@@ -4254,8 +4259,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-14T11:03:29.6730885+00:00",
-  "LastChanged_Achievements": "2023-12-14T21:03:44.8599784+00:00",
+  "LastChanged_Achievements": "2023-12-14T22:04:49.3997634+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-14T21:03:03.826683+00:00",
-  "LastUpdate_Achievements": "2023-12-14T21:03:44.8600126+00:00"
+  "LastUpdate_Ratings": "2023-12-14T22:03:46.7257969+00:00",
+  "LastUpdate_Achievements": "2023-12-14T22:04:49.3997981+00:00"
 }

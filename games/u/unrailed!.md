@@ -6,13 +6,13 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~120,608 |
-| Incurious | 18.00% | ~120,608 |
-| Climate Change | 16.00% | ~107,207 |
-| Stroller | 15.00% | ~100,506 |
-| Toy Train | 14.00% | ~93,806 |
-| Advanced Hiker | 13.00% | ~87,105 |
-| Hiker | 12.00% | ~80,405 |
+| Advanced Stroller | 18.00% | ~120,609 |
+| Incurious | 18.00% | ~120,609 |
+| Climate Change | 16.00% | ~107,208 |
+| Stroller | 15.00% | ~100,507 |
+| Toy Train | 14.00% | ~93,807 |
+| Advanced Hiker | 13.00% | ~87,106 |
+| Hiker | 12.00% | ~80,406 |
 | Mojave Courier | 6.00% | ~40,203 |
 | Saved by Nausicaä | 6.00% | ~40,203 |
 | Advanced Voyager | 4.00% | ~26,802 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~670 |
 | 20 Miles under the Sea | 0.10% | ~670 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670,042 (Ranked 29)  
+Progressed: 670,048 (Ranked 29)  
 Completed: 12 (0.00%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,10 +297,10 @@ Completed: 12 (0.00%) (Ranked 375)
 | 2023-12-11 | 669,250 | 12 |
 | 2023-12-12 | 669,506 | 12 |
 | 2023-12-13 | 669,796 | 12 |
-| 2023-12-14 | 670,042 | 12 |
+| 2023-12-14 | 670,048 | 12 |
 ## Awards
 Max (Great for Beginners): 202  (Ranked 290)  
-Sum: 1,610 (Ranked 232)  
+Sum: 1,611 (Ranked 232)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -311,7 +311,7 @@ Diff (max vs sum): 58
 | This game is Relaxing | 181 |
 | This game has Amazing Characters | 171 |
 | This game has Playful Visuals | 165 |
-| This game is Highly Recommended | 161 |
+| This game is Highly Recommended | 162 |
 | This game has Amazing Storytelling | 150 |
 | This game has Obsessive Gameplay | 138 |
 | This game has Competitive Players | 37 |
@@ -469,4 +469,4 @@ Diff (max vs sum): 58
 | 2023-12-11 | 4.64 | - | 202 | 1,607 |
 | 2023-12-12 | 4.64 | - | 202 | 1,608 |
 | 2023-12-13 | 4.64 | - | 202 | 1,609 |
-| 2023-12-14 | 4.64 | - | 202 | 1,610 |
+| 2023-12-14 | 4.64 | - | 202 | 1,611 |

@@ -4,10 +4,10 @@
   "ProductSlug": "train-sim-world-4",
   "Ranking_Rating": 770,
   "Ranking_Popularity": 389,
-  "Ranking_PopularitySum": 403,
+  "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 375,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-26T17:00:00+00:00",
@@ -811,10 +811,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 203,
       "NumberOfAwardsMax": 85
+    },
+    {
+      "Time": "2023-12-14T22:00:51.2846291+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 223,
+      "NumberOfAwardsMax": 85
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 203,
+  "NumberOfAwards": 223,
   "NumberOfAwardsMax": 85,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -841,6 +847,12 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 35
+    },
+    {
+      "Text": "This game is Educational",
+      "Prefix": "This game is",
+      "Type": "Educational",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -863,9 +875,9 @@
   "FirstSeen": "2023-09-26T18:02:09.8849688+00:00",
   "FirstSeenRating": "2023-09-28T19:59:46.8251254+00:00",
   "FirstSeenAchievements": "2023-08-15T22:07:16.7768201+00:00",
-  "LastChanged": "2023-12-14T20:59:33.595422+00:00",
-  "LastChanged_Achievements": "2023-12-14T21:03:17.5020575+00:00",
+  "LastChanged": "2023-12-14T22:00:51.2846289+00:00",
+  "LastChanged_Achievements": "2023-12-14T22:04:10.2059159+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:42.1505622+00:00",
-  "LastUpdate_Ratings": "2023-12-14T20:59:33.5954227+00:00",
-  "LastUpdate_Achievements": "2023-12-14T21:03:17.5020639+00:00"
+  "LastUpdate_Ratings": "2023-12-14T22:00:51.2846295+00:00",
+  "LastUpdate_Achievements": "2023-12-14T22:04:10.2059218+00:00"
 }

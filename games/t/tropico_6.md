@@ -6,32 +6,32 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,760 |
-| Un-Lonely Island | 46.00% | ~2,920 |
-| The Beginning of a Servantship | 45.00% | ~2,856 |
-| Trade Is My Trait | 37.00% | ~2,348 |
+| Just One...More...Term... | 75.00% | ~4,762 |
+| Un-Lonely Island | 46.00% | ~2,921 |
+| The Beginning of a Servantship | 45.00% | ~2,858 |
+| Trade Is My Trait | 37.00% | ~2,350 |
 | Number 18 | 23.00% | ~1,460 |
 | We Don't Have Time For That | 19.00% | ~1,206 |
-| The Governator | 17.00% | ~1,079 |
+| The Governator | 17.00% | ~1,080 |
 | The Legend of Langostino | 16.00% | ~1,016 |
 | Caribbean Comrade | 15.00% | ~952 |
 | The Dreamer of Dreams | 15.00% | ~952 |
 | Go Sovereigns! | 11.00% | ~698 |
 | For Science! | 11.00% | ~698 |
 | Happy Ending? | 10.00% | ~635 |
-| Of Seals And Men | 9.00% | ~571 |
-| Shackadelic | 9.00% | ~571 |
+| Of Seals And Men | 9.00% | ~572 |
+| Shackadelic | 9.00% | ~572 |
 | Double Trouble | 8.00% | ~508 |
 | Firestarter | 8.00% | ~508 |
-| I Owe You Nothing | 7.00% | ~444 |
-| Make Tropico Great Again! | 7.00% | ~444 |
-| French Connection | 7.00% | ~444 |
+| I Owe You Nothing | 7.00% | ~445 |
+| Make Tropico Great Again! | 7.00% | ~445 |
+| French Connection | 7.00% | ~445 |
 | Don't Panic! | 6.00% | ~381 |
 | Beware The Betman | 6.00% | ~381 |
-| Viva Tropico! | 5.00% | ~317 |
-| Computer Says "No" | 5.00% | ~317 |
-| Watch The World Burn | 5.00% | ~317 |
-| Fairy Tale Come True | 5.00% | ~317 |
+| Viva Tropico! | 5.00% | ~318 |
+| Computer Says "No" | 5.00% | ~318 |
+| Watch The World Burn | 5.00% | ~318 |
+| Fairy Tale Come True | 5.00% | ~318 |
 | Been there, Done That | 3.00% | ~190 |
 | Apocalypso | 3.00% | ~190 |
 | Narcissist | 3.00% | ~190 |
@@ -42,12 +42,12 @@ Number of Ratings: 398  (23.09.2022)
 | Teamplayer | 2.00% | ~127 |
 | Terraformer | 2.00% | ~127 |
 | Curse of the Mummy | 2.00% | ~127 |
-| Chain Gang | 1.00% | ~63 |
-| From Knight to Little Duck | 1.00% | ~63 |
+| Chain Gang | 1.00% | ~64 |
+| From Knight to Little Duck | 1.00% | ~64 |
 | Survivor | 0.90% | ~57 |
 | My Ways | 0.30% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,347 (Ranked 187)  
+Progressed: 6,350 (Ranked 187)  
 Completed: 2 (0.03%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 2 (0.03%) (Ranked 337)
 | 2023-12-11 | 6,298 | 2 |
 | 2023-12-12 | 6,303 | 2 |
 | 2023-12-13 | 6,313 | 2 |
-| 2023-12-14 | 6,347 | 2 |
+| 2023-12-14 | 6,350 | 2 |
 ## Awards
 Max (Highly Recommended): 104  (Ranked 363)  
 Sum: 739 (Ranked 294)  
