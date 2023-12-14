@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 19.00% | ~56 |
-| Trinity | 14.00% | ~41 |
-| Find Allies | 11.00% | ~32 |
-| Powerful Allies | 11.00% | ~32 |
-| Adventurer | 11.00% | ~32 |
+| Trinity | 13.00% | ~39 |
+| Find Allies | 11.00% | ~33 |
+| Powerful Allies | 10.00% | ~30 |
+| Adventurer | 10.00% | ~30 |
 | Shatter Them All | 10.00% | ~30 |
 | Geared Up | 10.00% | ~30 |
 | Scholar | 10.00% | ~30 |
@@ -41,8 +41,8 @@
 | Shardbearer | 1.00% | ~3 |
 | Feeling Fancy | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 295 (Ranked 366)  
-Completed: 3 (1.02%) (Ranked 171)  
+Progressed: 297 (Ranked 366)  
+Completed: 3 (1.01%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,4 +104,4 @@ Completed: 3 (1.02%) (Ranked 171)
 | 2023-12-11 | 264 | 2 |
 | 2023-12-12 | 265 | 2 |
 | 2023-12-13 | 282 | 3 |
-| 2023-12-14 | 295 | 3 |
+| 2023-12-14 | 297 | 3 |

@@ -9,11 +9,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 8.00% | ~1,260 |
 | Explorer | 7.00% | ~1,103 |
 | Settler | 7.00% | ~1,103 |
+| Intrepid | 6.00% | ~945 |
 | Friendly Family | 6.00% | ~945 |
 | Able | 5.00% | ~788 |
 | Architect | 5.00% | ~788 |
 | Good | 5.00% | ~788 |
-| Intrepid | 5.00% | ~788 |
 | Mason | 5.00% | ~788 |
 | Pioneer | 5.00% | ~788 |
 | Strong | 5.00% | ~788 |

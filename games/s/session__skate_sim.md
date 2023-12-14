@@ -6,10 +6,10 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,907 |
+| You're free now! | 61.00% | ~1,909 |
 | Keeping it classy | 29.00% | ~907 |
-| Welcome to the family | 23.00% | ~719 |
-| The finer things in life | 20.00% | ~625 |
+| Welcome to the family | 23.00% | ~720 |
+| The finer things in life | 20.00% | ~626 |
 | Backpacker | 15.00% | ~469 |
 | Go with the Flow | 14.00% | ~438 |
 | The flip trick crown jewel | 11.00% | ~344 |
@@ -17,7 +17,7 @@ Number of Ratings: 111  (23.09.2022)
 | Plastic Surgeon | 10.00% | ~313 |
 | The hard way | 10.00% | ~313 |
 | Upfront shredder | 10.00% | ~313 |
-| Good vibes | 9.00% | ~281 |
+| Good vibes | 9.00% | ~282 |
 | Bottom ply killer | 8.00% | ~250 |
 | Fashionista | 8.00% | ~250 |
 | Finally he zips it | 8.00% | ~250 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,126 (Ranked 214)  
+Progressed: 3,129 (Ranked 214)  
 Completed: 2 (0.06%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,10 +268,10 @@ Completed: 2 (0.06%) (Ranked 316)
 | 2023-12-11 | 3,112 | 2 |
 | 2023-12-12 | 3,114 | 2 |
 | 2023-12-13 | 3,118 | 2 |
-| 2023-12-14 | 3,126 | 2 |
+| 2023-12-14 | 3,129 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 420)  
-Sum: 562 (Ranked 320)  
+Sum: 563 (Ranked 320)  
 Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
@@ -285,7 +285,7 @@ Diff (max vs sum): 100
 | This game has Amazing Storytelling | 46 |
 | This game is Relaxing | 44 |
 | This game has Quickly Understood Controls | 39 |
-| This game is Educational | 37 |
+| This game is Educational | 38 |
 | This game has Challenging Combat | 31 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -471,3 +471,4 @@ Diff (max vs sum): 100
 | 2023-12-07 | 4.69 | - | 58 | 558 |
 | 2023-12-09 | 4.69 | - | 59 | 560 |
 | 2023-12-13 | 4.69 | - | 59 | 562 |
+| 2023-12-14 | 4.69 | - | 59 | 563 |

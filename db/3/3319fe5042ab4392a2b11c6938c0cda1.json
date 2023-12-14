@@ -2,9 +2,9 @@
   "ID": "3319fe5042ab4392a2b11c6938c0cda1",
   "Name": "Thief",
   "ProductSlug": "thief-5bb95f",
-  "Ranking_EOS_Progress": 640,
+  "Ranking_EOS_Progress": 624,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 11,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -52,6 +52,11 @@
       "Time": "2023-12-14T03:03:42.9302779+00:00",
       "NumProgressed": 8,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T05:03:57.2599393+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.6694863+00:00",
@@ -62,7 +67,7 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "ae95dh3",
       "Name": "Obsessive Compulsive",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -102,7 +107,7 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "ae95dh3",
       "Name": "Child of the Shadows",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -158,9 +163,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "ae95dh3",
       "Name": "Quickly Pick a Lucky Lock",
-      "Percentage": 13,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -198,7 +203,7 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "ae95dh3",
       "Name": "All That Glitters",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -214,7 +219,7 @@
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "ae95dh3",
       "Name": "Two Faced",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -222,23 +227,23 @@
       "ID": "NEW_ACHIEVEMENT_1_27",
       "SetID": "ae95dh3",
       "Name": "The Drop",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "ae95dh3",
       "Name": "Lockdown",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
       "SetID": "ae95dh3",
       "Name": "Dust to Dust",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -254,7 +259,7 @@
       "ID": "NEW_ACHIEVEMENT_1_30",
       "SetID": "ae95dh3",
       "Name": "Dirty Secrets",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -262,7 +267,7 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "ae95dh3",
       "Name": "A Friend in Need",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -286,7 +291,7 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "ae95dh3",
       "Name": "Mint Condition",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -318,7 +323,7 @@
       "ID": "NEW_ACHIEVEMENT_2_0",
       "SetID": "ae95dh3",
       "Name": "The Forsaken",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -326,7 +331,7 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "ae95dh3",
       "Name": "A Man Apart",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -334,7 +339,7 @@
       "ID": "NEW_ACHIEVEMENT_2_2",
       "SetID": "ae95dh3",
       "Name": "The Hidden City",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -342,7 +347,7 @@
       "ID": "NEW_ACHIEVEMENT_2_3",
       "SetID": "ae95dh3",
       "Name": "The Dawn\u0027s Light",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -359,13 +364,13 @@
     {
       "ID": "ae95dh3",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 11,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-14T04:03:47.1781021+00:00",
+  "LastChanged_Achievements": "2023-12-14T05:03:57.2599388+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184739+00:00",
-  "LastUpdate_Ratings": "2023-12-14T03:57:28.5514598+00:00",
-  "LastUpdate_Achievements": "2023-12-14T04:03:47.178175+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:57:18.0637502+00:00",
+  "LastUpdate_Achievements": "2023-12-14T05:03:57.2599908+00:00"
 }

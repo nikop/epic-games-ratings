@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -943,9 +943,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 665783,
+  "EOS_Progressed": 665784,
   "EOS_Completed": 173,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -23423,6 +23423,11 @@
       "Time": "2023-12-14T04:09:11.5345494+00:00",
       "NumProgressed": 665783,
       "NumCompleted": 173
+    },
+    {
+      "Time": "2023-12-14T05:09:20.7530997+00:00",
+      "NumProgressed": 665784,
+      "NumCompleted": 173
     }
   ],
   "TotalAchievements": 48,
@@ -23442,7 +23447,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 386154
+      "UsersEstimate": 386155
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -23618,7 +23623,7 @@
       "Name": "Leap of Faith",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19973
+      "UsersEstimate": 19974
     },
     {
       "ID": "Achievement_25_Purgatorium",
@@ -23690,7 +23695,7 @@
       "Name": "Combat Ready",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19973
+      "UsersEstimate": 19974
     },
     {
       "ID": "Achievement_34_Close_Shave",
@@ -23714,7 +23719,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59920
+      "UsersEstimate": 59921
     },
     {
       "ID": "Achievement_37_Champion",
@@ -23738,7 +23743,7 @@
       "Name": "Stuffed Potato",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19973
+      "UsersEstimate": 19974
     },
     {
       "ID": "Achievement_40_Broken_Heart",
@@ -23817,15 +23822,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 665783,
+      "Progressed": 665784,
       "Completed": 173
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-14T04:09:11.5345483+00:00",
+  "LastChanged_Achievements": "2023-12-14T05:09:20.7530992+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:06.5520599+00:00",
-  "LastUpdate_Ratings": "2023-12-14T03:59:55.9009491+00:00",
-  "LastUpdate_Achievements": "2023-12-14T04:09:11.5346644+00:00"
+  "LastUpdate_Ratings": "2023-12-14T05:00:32.8504512+00:00",
+  "LastUpdate_Achievements": "2023-12-14T05:09:20.7532916+00:00"
 }

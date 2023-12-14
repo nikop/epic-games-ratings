@@ -4,7 +4,7 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185,
+  "EOS_Progressed": 186,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -834,6 +834,11 @@
       "Time": "2023-12-14T04:04:35.3626064+00:00",
       "NumProgressed": 185,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T05:04:58.9150908+00:00",
+      "NumProgressed": 186,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -894,7 +899,7 @@
       "Name": "My Armour is Contempt",
       "Percentage": 10,
       "XP": 95,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -941,14 +946,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 185,
+      "Progressed": 186,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-14T04:04:35.3626058+00:00",
+  "LastChanged_Achievements": "2023-12-14T05:04:58.9150903+00:00",
   "LastUpdate_AppInfo": "2023-12-08T13:57:10.1011387+00:00",
-  "LastUpdate_Ratings": "2023-12-14T03:58:16.9184087+00:00",
-  "LastUpdate_Achievements": "2023-12-14T04:04:35.3626175+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:58:21.0373815+00:00",
+  "LastUpdate_Achievements": "2023-12-14T05:04:58.9151081+00:00"
 }

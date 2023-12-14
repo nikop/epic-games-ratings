@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8737,10 +8737,10 @@
       "Count": 3571
     }
   ],
-  "EOS_Progressed": 239933,
-  "EOS_Completed": 2520,
-  "EOS_NewPlayers": 1249,
-  "EOS_NewCompleters": 18,
+  "EOS_Progressed": 239954,
+  "EOS_Completed": 2521,
+  "EOS_NewPlayers": 1266,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -35517,6 +35517,11 @@
       "Time": "2023-12-14T04:10:27.6727236+00:00",
       "NumProgressed": 239933,
       "NumCompleted": 2520
+    },
+    {
+      "Time": "2023-12-14T05:10:55.528686+00:00",
+      "NumProgressed": 239954,
+      "NumCompleted": 2521
     }
   ],
   "TotalAchievements": 546,
@@ -36374,9 +36379,9 @@
       "ID": "objective_completed_1198",
       "SetID": "415jc5c",
       "Name": "Get Back In The Castle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1199",
@@ -36414,17 +36419,17 @@
       "ID": "objective_completed_1208",
       "SetID": "415jc5c",
       "Name": "Vecna Out!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1209",
       "SetID": "415jc5c",
       "Name": "Bully for Vecna",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1213",
@@ -36534,9 +36539,9 @@
       "ID": "objective_completed_1325",
       "SetID": "415jc5c",
       "Name": "The Minions of Endelyn Moongrave",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1326",
@@ -39766,9 +39771,9 @@
       "ID": "objective_completed_1552",
       "SetID": "415jc5c",
       "Name": "The End is the Beginning",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1553",
@@ -39895,21 +39900,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 206207,
-      "Completed": 3968
+      "Progressed": 206228,
+      "Completed": 3969
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 239933,
-      "Completed": 2520
+      "Progressed": 239954,
+      "Completed": 2521
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-14T02:19:16.5415371+00:00",
-  "LastChanged_Achievements": "2023-12-14T04:10:27.6727232+00:00",
+  "LastChanged_Achievements": "2023-12-14T05:10:55.5286854+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-14T03:57:41.3968572+00:00",
-  "LastUpdate_Achievements": "2023-12-14T04:10:27.675115+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:57:34.9646858+00:00",
+  "LastUpdate_Achievements": "2023-12-14T05:10:55.5313892+00:00"
 }

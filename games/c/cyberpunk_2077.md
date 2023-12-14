@@ -6,23 +6,23 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,071 |
-| Gun Fu | 7.00% | ~68,291 |
-| Right Back At Ya | 6.00% | ~58,535 |
-| The Fool | 6.00% | ~58,535 |
-| The Lovers | 5.00% | ~48,780 |
-| Full Body Conversion | 4.00% | ~39,024 |
-| Stanislavski's Method | 4.00% | ~39,024 |
-| The Wheel of Fortune | 4.00% | ~39,024 |
-| True Soldier | 4.00% | ~39,024 |
-| All the President's Men | 4.00% | ~4,169 |
-| Christmas Tree Attack | 3.00% | ~29,268 |
-| The Hermit | 3.00% | ~29,268 |
-| The High Priestess | 3.00% | ~29,268 |
-| True Warrior | 3.00% | ~29,268 |
-| Legend of The Afterlife | 3.00% | ~29,268 |
-| Relic Ruler | 3.00% | ~3,126 |
-| Arachnophobia | 3.00% | ~3,126 |
+| V for Vendetta | 12.00% | ~117,075 |
+| Gun Fu | 7.00% | ~68,293 |
+| Right Back At Ya | 6.00% | ~58,537 |
+| The Fool | 6.00% | ~58,537 |
+| The Lovers | 5.00% | ~48,781 |
+| Full Body Conversion | 4.00% | ~39,025 |
+| Stanislavski's Method | 4.00% | ~39,025 |
+| The Wheel of Fortune | 4.00% | ~39,025 |
+| True Soldier | 4.00% | ~39,025 |
+| All the President's Men | 4.00% | ~4,170 |
+| Christmas Tree Attack | 3.00% | ~29,269 |
+| The Hermit | 3.00% | ~29,269 |
+| The High Priestess | 3.00% | ~29,269 |
+| True Warrior | 3.00% | ~29,269 |
+| Legend of The Afterlife | 3.00% | ~29,269 |
+| Relic Ruler | 3.00% | ~3,127 |
+| Arachnophobia | 3.00% | ~3,127 |
 | Bushido and Chill | 2.00% | ~19,512 |
 | Master Crafter | 2.00% | ~19,512 |
 | I Am The Law | 2.00% | ~19,512 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975,590 (Ranked 15)  
-Completed: 2,900 (0.30%) (Ranked 241)  
+Progressed: 975,621 (Ranked 15)  
+Completed: 2,901 (0.30%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -312,7 +312,7 @@ Completed: 2,900 (0.30%) (Ranked 241)
 | 2023-12-11 | 974,702 | 2,886 |
 | 2023-12-12 | 975,121 | 2,891 |
 | 2023-12-13 | 975,519 | 2,900 |
-| 2023-12-14 | 975,590 | 2,900 |
+| 2023-12-14 | 975,621 | 2,901 |
 ## Awards
 Max (Character Customization): 122,342  (Ranked 9)  
 Sum: 416,214 (Ranked 9)  

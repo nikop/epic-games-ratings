@@ -1,83 +1,83 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.87 (Ranked 25)  
+Rating: 4.88 (Ranked 18)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 20.00% | ~924 |
-| Feeling the beat! | 20.00% | ~924 |
-| You can pet the cat! | 18.00% | ~831 |
-| Who put gears in there? | 17.00% | ~785 |
-| Cream of the Crop | 16.00% | ~739 |
-| Thanks for the free chip, Peppermint! | 16.00% | ~739 |
-| You got this, Peppermint? | 15.00% | ~693 |
-| Perfect Parry | 14.00% | ~647 |
-| Alright, that felt AWESOME! | 14.00% | ~647 |
-| This will cost you big time | 13.00% | ~600 |
-| Uh, they were broken when I got here | 13.00% | ~600 |
-| I play my own way! | 12.00% | ~554 |
-| Z-shielding's got nothing on us! | 12.00% | ~554 |
-| Kissing the sky! | 12.00% | ~554 |
-| Whoa! There's ANOTHER health bar!? | 11.00% | ~508 |
-| The Negotiator | 10.00% | ~462 |
-| Out in a puff of smoke | 10.00% | ~462 |
-| I look cool. But I can look COOLER. | 10.00% | ~462 |
-| Headliner | 9.00% | ~416 |
-| Time to pay up! | 9.00% | ~416 |
-| You must like calling me in, Chai | 9.00% | ~416 |
-| Does that say weakpoint? | 9.00% | ~416 |
-| NOW we got a kickass hideout! | 9.00% | ~283 |
-| Who's the boss now? | 8.00% | ~370 |
-| I have to read these things? | 8.00% | ~370 |
-| Perfecter Parry-er! | 8.00% | ~370 |
-| Well that was a rush! | 6.00% | ~277 |
-| That's a lot of junk metal… | 6.00% | ~277 |
-| There's such a thing as TOO helpful | 6.00% | ~277 |
-| Beat-hit mania | 5.00% | ~231 |
-| Chip-tuned | 3.00% | ~139 |
-| Wanna hear my playlist? | 3.00% | ~139 |
-| I told you I'd be fine, Peppermint! | 3.00% | ~139 |
-| Check out my moves! | 3.00% | ~139 |
-| I think I deserve some praise, here! | 2.00% | ~92 |
-| I think I found your calling, Macaron | 2.00% | ~92 |
-| This is a breeze! | 2.00% | ~92 |
-| We're Jammin' | 2.00% | ~92 |
-| I'm not done with you yet | 2.00% | ~92 |
-| First we parry, then we counter | 2.00% | ~92 |
-| I hit things with a guitar really well. | 2.00% | ~92 |
-| Call me Turbo Chai | 2.00% | ~63 |
-| OK, well THEY came after ME! | 1.00% | ~46 |
-| You ever parry a volcano? | 1.00% | ~46 |
-| New bad guys? No problem! | 1.00% | ~31 |
-| Easy Listening | 0.70% | ~32 |
+| Start with a bang! | 20.00% | ~937 |
+| Feeling the beat! | 20.00% | ~937 |
+| You can pet the cat! | 18.00% | ~843 |
+| Who put gears in there? | 17.00% | ~796 |
+| Cream of the Crop | 16.00% | ~749 |
+| Thanks for the free chip, Peppermint! | 15.00% | ~703 |
+| You got this, Peppermint? | 15.00% | ~703 |
+| Perfect Parry | 14.00% | ~656 |
+| Alright, that felt AWESOME! | 14.00% | ~656 |
+| Uh, they were broken when I got here | 13.00% | ~609 |
+| This will cost you big time | 12.00% | ~562 |
+| I play my own way! | 12.00% | ~562 |
+| Z-shielding's got nothing on us! | 12.00% | ~562 |
+| Kissing the sky! | 11.00% | ~515 |
+| The Negotiator | 10.00% | ~468 |
+| Whoa! There's ANOTHER health bar!? | 10.00% | ~468 |
+| Out in a puff of smoke | 10.00% | ~468 |
+| I look cool. But I can look COOLER. | 10.00% | ~468 |
+| Headliner | 9.00% | ~422 |
+| Time to pay up! | 9.00% | ~422 |
+| You must like calling me in, Chai | 9.00% | ~422 |
+| Does that say weakpoint? | 9.00% | ~422 |
+| Who's the boss now? | 8.00% | ~375 |
+| I have to read these things? | 8.00% | ~375 |
+| Perfecter Parry-er! | 8.00% | ~375 |
+| NOW we got a kickass hideout! | 8.00% | ~256 |
+| That's a lot of junk metal… | 6.00% | ~281 |
+| There's such a thing as TOO helpful | 6.00% | ~281 |
+| Well that was a rush! | 5.00% | ~234 |
+| Beat-hit mania | 5.00% | ~234 |
+| Chip-tuned | 3.00% | ~141 |
+| Wanna hear my playlist? | 3.00% | ~141 |
+| I told you I'd be fine, Peppermint! | 3.00% | ~141 |
+| Check out my moves! | 3.00% | ~141 |
+| I think I deserve some praise, here! | 2.00% | ~94 |
+| I think I found your calling, Macaron | 2.00% | ~94 |
+| This is a breeze! | 2.00% | ~94 |
+| We're Jammin' | 2.00% | ~94 |
+| First we parry, then we counter | 2.00% | ~94 |
+| I hit things with a guitar really well. | 2.00% | ~94 |
+| Call me Turbo Chai | 2.00% | ~64 |
+| OK, well THEY came after ME! | 1.00% | ~47 |
+| I'm not done with you yet | 1.00% | ~47 |
+| You ever parry a volcano? | 1.00% | ~47 |
+| New bad guys? No problem! | 1.00% | ~32 |
+| Easy Listening | 0.60% | ~28 |
 | Choose your own adventure | 0.60% | ~19 |
 | Problem solved... wait, what? | 0.50% | ~23 |
 | Now this is how you fight like a team! | 0.50% | ~23 |
-| I am a good person who likes to help | 0.40% | ~18 |
-| With our powers combined…and to the rhythm… | 0.40% | ~18 |
+| I am a good person who likes to help | 0.40% | ~19 |
+| With our powers combined…and to the rhythm… | 0.40% | ~19 |
 | It'll do, CNMN | 0.40% | ~13 |
 | And the crowd goes wild! | 0.30% | ~14 |
 | I can't see this ever being a problem again | 0.30% | ~14 |
 | Fully Powered Up! | 0.30% | ~14 |
-| This was... not what I expected. | 0.20% | ~9 |
 | Have we met before? | 0.20% | ~9 |
-| I saw all those hits coming a measure away! | 0.20% | ~9 |
-| Please don't make this awkward | 0.20% | ~6 |
-| That was just EVIL | 0.20% | ~6 |
 | Didn't skip a beat! | 0.10% | ~5 |
 | I think that's enough health for now | 0.10% | ~5 |
 | I have to read ALL of these things? | 0.10% | ~5 |
 | My Ultimate Setlist | 0.10% | ~5 |
 | What a journey it was... | 0.10% | ~5 |
+| This was... not what I expected. | 0.10% | ~5 |
 | I'm untouchable! | 0.10% | ~5 |
 | I'm trying to FOCUS HERE! | 0.10% | ~5 |
+| I saw all those hits coming a measure away! | 0.10% | ~5 |
 | OK, I THINK I know what I'm doing now | 0.10% | ~5 |
+| Please don't make this awkward | 0.10% | ~3 |
+| That was just EVIL | 0.10% | ~3 |
 | It was all for this | 0.10% | ~3 |
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,619 (Ranked 195)  
+Progressed: 4,684 (Ranked 195)  
 Completed: 8 (0.17%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 8 (0.17%) (Ranked 272)
 | 2023-12-11 | 4,506 | 8 |
 | 2023-12-12 | 4,510 | 8 |
 | 2023-12-13 | 4,535 | 8 |
-| 2023-12-14 | 4,619 | 8 |
+| 2023-12-14 | 4,684 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -331,3 +331,4 @@ Completed: 8 (0.17%) (Ranked 272)
 | 2023-09-20 | 4.85 | 0 | 0 |
 | 2023-10-25 | 4.86 | 0 | 0 |
 | 2023-11-19 | 4.87 | 0 | 0 |
+| 2023-12-14 | 4.88 | 0 | 0 |

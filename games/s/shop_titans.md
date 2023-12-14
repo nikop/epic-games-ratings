@@ -6,14 +6,14 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,613 |
-| Titan's First Steps | 8.00% | ~11,613 |
-| Basic in Bulk | 7.00% | ~10,161 |
-| Tinkle of Coins | 7.00% | ~10,161 |
-| Disintermediation | 5.00% | ~7,258 |
-| It's Free Real Estate | 5.00% | ~7,258 |
-| Budding Merchant | 5.00% | ~7,258 |
-| Capitalism Ho! | 5.00% | ~7,258 |
+| Sponsored by Argon | 8.00% | ~11,614 |
+| Titan's First Steps | 8.00% | ~11,614 |
+| Basic in Bulk | 7.00% | ~10,162 |
+| Tinkle of Coins | 7.00% | ~10,162 |
+| Disintermediation | 5.00% | ~7,259 |
+| It's Free Real Estate | 5.00% | ~7,259 |
+| Budding Merchant | 5.00% | ~7,259 |
+| Capitalism Ho! | 5.00% | ~7,259 |
 | One Easy Payment | 4.00% | ~5,807 |
 | Some Assembly Required | 4.00% | ~5,807 |
 | Another Satisfied Customer | 4.00% | ~5,807 |
@@ -74,6 +74,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 2.00% | ~2,903 |
 | Natural 20 | 2.00% | ~2,903 |
 | Seasoned Journeyman | 2.00% | ~2,903 |
+| Scourge of the Seas | 2.00% | ~2,903 |
 | Attrition Mission | 2.00% | ~2,903 |
 | Glittering Collection | 2.00% | ~2,903 |
 | Treasure Trove | 2.00% | ~2,903 |
@@ -97,14 +98,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 1.00% | ~1,452 |
 | Bountiful Harvest | 1.00% | ~1,452 |
 | Precision Engineering | 1.00% | ~1,452 |
-| Scourge of the Seas | 1.00% | ~1,452 |
 | Eternal Crusade | 1.00% | ~1,452 |
 | Moment of Respite | 1.00% | ~1,452 |
 | King's Shadow | 1.00% | ~1,452 |
 | All Accounted For | 1.00% | ~1,452 |
 | Economy of Scarce | 1.00% | ~1,452 |
 | King's Blade | 1.00% | ~1,452 |
-| The Free Encyclopedia | 0.90% | ~1,306 |
+| The Free Encyclopedia | 0.90% | ~1,307 |
 | All or Nothing! | 0.80% | ~1,161 |
 | The Greatest Grind | 0.70% | ~1,016 |
 | Marvels from the World Over | 0.70% | ~1,016 |
@@ -115,11 +115,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | JACKPOT!!! | 0.50% | ~726 |
 | Oligarch Monarch | 0.40% | ~581 |
 | Merchant Extraordinaire | 0.40% | ~581 |
-| To Hell and Back | 0.30% | ~435 |
-| Cash Only Please | 0.30% | ~435 |
+| To Hell and Back | 0.30% | ~436 |
+| Cash Only Please | 0.30% | ~436 |
 | Capitalist Camaraderie | 0.20% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,164 (Ranked 80)  
+Progressed: 145,172 (Ranked 80)  
 Completed: 298 (0.21%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 298 (0.21%) (Ranked 258)
 | 2023-12-11 | 144,756 | 293 |
 | 2023-12-12 | 144,871 | 294 |
 | 2023-12-13 | 145,093 | 297 |
-| 2023-12-14 | 145,164 | 298 |
+| 2023-12-14 | 145,172 | 298 |
 ## Awards
 Max (Great for Beginners): 4,882  (Ranked 75)  
 Sum: 27,710 (Ranked 51)  

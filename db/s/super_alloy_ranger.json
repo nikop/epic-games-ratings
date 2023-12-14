@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117,
+  "EOS_Progressed": 118,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -581,6 +581,11 @@
       "Time": "2023-12-14T04:06:53.4435078+00:00",
       "NumProgressed": 117,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T05:07:55.0602565+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -728,7 +733,7 @@
       "Name": "Gear Up",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Achi_19",
@@ -744,7 +749,7 @@
       "Name": "Freshen Up",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Achi_21",
@@ -760,7 +765,7 @@
       "Name": "Iceberg Theory",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Achi_23",
@@ -768,7 +773,7 @@
       "Name": "The Hidden Secret",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achi_24",
@@ -798,7 +803,7 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
       "UsersEstimate": 63
     },
@@ -808,7 +813,7 @@
       "Name": "Ka-Ching!",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Achi_29",
@@ -824,13 +829,13 @@
       "Name": "A Grand Show",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Achi_31",
       "SetID": "51a97k7",
       "Name": "Flawless",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -854,9 +859,9 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "Achi_35",
@@ -864,7 +869,7 @@
       "Name": "Stop Right There",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Achi_36",
@@ -880,7 +885,7 @@
       "Name": "Get to the Point",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Achi_38",
@@ -910,7 +915,7 @@
       "ID": "Achi_41",
       "SetID": "51a97k7",
       "Name": "Peace Out",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -918,7 +923,7 @@
       "ID": "Achi_42",
       "SetID": "51a97k7",
       "Name": "Mischief Time",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -926,7 +931,7 @@
       "ID": "Achi_43",
       "SetID": "51a97k7",
       "Name": "Art is an Explosion",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -950,7 +955,7 @@
       "ID": "Achi_46",
       "SetID": "51a97k7",
       "Name": "Bullets Fear Me",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -982,7 +987,7 @@
       "ID": "Achi_50",
       "SetID": "51a97k7",
       "Name": "Super Alloy Ranger!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 35,
       "UsersEstimate": 1
     }
@@ -991,7 +996,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 117,
+      "Progressed": 118,
       "Completed": 1
     }
   ],
@@ -999,8 +1004,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-12-14T04:06:53.4435075+00:00",
+  "LastChanged_Achievements": "2023-12-14T05:07:55.060256+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:46.3254839+00:00",
-  "LastUpdate_Ratings": "2023-12-14T03:59:01.6216613+00:00",
-  "LastUpdate_Achievements": "2023-12-14T04:06:53.4435375+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:59:20.3004655+00:00",
+  "LastUpdate_Achievements": "2023-12-14T05:07:55.0603054+00:00"
 }

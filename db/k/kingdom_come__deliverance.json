@@ -3,11 +3,11 @@
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
   "Ranking_Rating": 200,
-  "Ranking_Popularity": 51,
+  "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
@@ -9243,9 +9243,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 812382,
+  "EOS_Progressed": 812383,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 966,
+  "EOS_NewPlayers": 960,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -36028,6 +36028,11 @@
       "Time": "2023-12-14T04:09:53.3669348+00:00",
       "NumProgressed": 812382,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-14T05:10:14.3874045+00:00",
+      "NumProgressed": 812383,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -36119,7 +36124,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 259962
+      "UsersEstimate": 259963
     },
     {
       "ID": "Bookworm",
@@ -36519,7 +36524,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162476
+      "UsersEstimate": 162477
     },
     {
       "ID": "RevenantOfLedechko",
@@ -36559,7 +36564,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162476
+      "UsersEstimate": 162477
     },
     {
       "ID": "SerialKiller",
@@ -36694,15 +36699,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 812382,
+      "Progressed": 812383,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-12-13T19:01:08.9729908+00:00",
-  "LastChanged_Achievements": "2023-12-14T04:09:53.3669344+00:00",
+  "LastChanged_Achievements": "2023-12-14T05:10:14.387404+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:13.9714541+00:00",
-  "LastUpdate_Ratings": "2023-12-14T04:00:23.8694718+00:00",
-  "LastUpdate_Achievements": "2023-12-14T04:09:53.367086+00:00"
+  "LastUpdate_Ratings": "2023-12-14T05:01:10.073897+00:00",
+  "LastUpdate_Achievements": "2023-12-14T05:10:14.3876801+00:00"
 }

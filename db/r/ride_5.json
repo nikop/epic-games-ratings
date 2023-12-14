@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2475,
+  "EOS_Progressed": 2476,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6157,6 +6157,11 @@
       "Time": "2023-12-14T03:06:39.5483467+00:00",
       "NumProgressed": 2475,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T05:08:10.1104313+00:00",
+      "NumProgressed": 2476,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6169,7 +6174,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -6177,7 +6182,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -6369,7 +6374,7 @@
       "Name": "Evangelist",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -6457,7 +6462,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -6560,14 +6565,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2475,
+      "Progressed": 2476,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-14T04:07:05.0071743+00:00",
+  "LastChanged_Achievements": "2023-12-14T05:08:10.1104309+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.7630663+00:00",
-  "LastUpdate_Ratings": "2023-12-14T04:00:00.3257839+00:00",
-  "LastUpdate_Achievements": "2023-12-14T04:07:05.0072323+00:00"
+  "LastUpdate_Ratings": "2023-12-14T05:00:39.3868174+00:00",
+  "LastUpdate_Achievements": "2023-12-14T05:08:10.1105166+00:00"
 }

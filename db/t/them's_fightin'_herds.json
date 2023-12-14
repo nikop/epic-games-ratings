@@ -2,12 +2,12 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 389,
+  "Ranking_Rating": 390,
   "Ranking_Popularity": 518,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
@@ -319,9 +319,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 233528,
+  "EOS_Progressed": 233530,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24379,6 +24379,11 @@
       "Time": "2023-12-14T04:09:24.1965514+00:00",
       "NumProgressed": 233528,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-14T05:09:37.247612+00:00",
+      "NumProgressed": 233530,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -24454,7 +24459,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84070
+      "UsersEstimate": 84071
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -24550,7 +24555,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51376
+      "UsersEstimate": 51377
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -24613,7 +24618,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 233528,
+      "Progressed": 233530,
       "Completed": 5
     }
   ],
@@ -24621,8 +24626,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-08T19:00:51.9158199+00:00",
-  "LastChanged_Achievements": "2023-12-14T04:09:24.1965509+00:00",
+  "LastChanged_Achievements": "2023-12-14T05:09:37.2476115+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:19.2756281+00:00",
-  "LastUpdate_Ratings": "2023-12-14T04:00:24.4492147+00:00",
-  "LastUpdate_Achievements": "2023-12-14T04:09:24.1966627+00:00"
+  "LastUpdate_Ratings": "2023-12-14T05:01:10.4494953+00:00",
+  "LastUpdate_Achievements": "2023-12-14T05:09:37.2477716+00:00"
 }

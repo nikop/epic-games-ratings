@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1735,9 +1735,9 @@
       "ID": "ach_main11blessing_ghostheroes",
       "SetID": "4hg22ll",
       "Name": "Ghost Pirates? Ghost Heroes!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 164
     },
     {
       "ID": "ach_main11blessing_undeadonly",
@@ -1974,8 +1974,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-14T04:05:46.8805578+00:00",
+  "LastChanged_Achievements": "2023-12-14T05:06:30.259463+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-14T04:00:59.8466366+00:00",
-  "LastUpdate_Achievements": "2023-12-14T04:05:46.8806001+00:00"
+  "LastUpdate_Ratings": "2023-12-14T05:01:56.8048674+00:00",
+  "LastUpdate_Achievements": "2023-12-14T05:06:30.2595455+00:00"
 }

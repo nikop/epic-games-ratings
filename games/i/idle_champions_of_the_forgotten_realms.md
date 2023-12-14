@@ -108,9 +108,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~206 |
 | The Sanctum of the Sword | 0.10% | ~206 |
 | Kas the Bloody Handed | 0.10% | ~206 |
+| Get Back In The Castle | 0.10% | ~206 |
 | Were-verpowered | 0.10% | ~240 |
 | Checkmate | 0.10% | ~206 |
 | Pin and Skewer | 0.10% | ~206 |
+| Vecna Out! | 0.10% | ~206 |
+| Bully for Vecna | 0.10% | ~206 |
 | Clowning Around | 0.10% | ~206 |
 | Xanathaaaaaaar! | 0.10% | ~206 |
 | A Whale of a Time | 0.10% | ~206 |
@@ -123,6 +126,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Not Very Charming | 0.10% | ~240 |
 | Lobsterfolk Assault | 0.10% | ~240 |
 | Taking Responsibility | 0.10% | ~240 |
+| The Minions of Endelyn Moongrave | 0.10% | ~206 |
 | Love Unsoiled | 0.10% | ~206 |
 | A Nimble Approach | 0.10% | ~206 |
 | The Palace of Heart's Desire | 0.10% | ~206 |
@@ -509,6 +513,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Time Out | 0.10% | ~206 |
 | The Beginning is the End | 0.10% | ~206 |
 | Tomb of Champions | 0.10% | ~206 |
+| The End is the Beginning | 0.10% | ~206 |
 | See You on the Flipside | 0.10% | ~206 |
 | A Wise Approach | 0.10% | ~206 |
 | The Brains of an Illithid's Desire | 0.10% | ~206 |
@@ -528,12 +533,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Loots of Loomlurch | 0.00% | ~0 |
 | G. O. A. T. | 0.00% | ~0 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
-| Get Back In The Castle | 0.00% | ~0 |
 | Kas the Destroyer | 0.00% | ~0 |
-| Vecna Out! | 0.00% | ~0 |
-| Bully for Vecna | 0.00% | ~0 |
 | Who Lurks Below? | 0.00% | ~0 |
-| The Minions of Endelyn Moongrave | 0.00% | ~0 |
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
 | The Play's the Thing! | 0.00% | ~0 |
 | The Bitter End | 0.00% | ~0 |
@@ -551,10 +552,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Quick or Quack | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 | All The World's A Stage | 0.00% | ~0 |
-| The End is the Beginning | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,933 (Ranked 65)  
-Completed: 2,520 (1.05%) (Ranked 167)  
+Progressed: 239,954 (Ranked 65)  
+Completed: 2,521 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -791,7 +791,7 @@ Completed: 2,520 (1.05%) (Ranked 167)
 | 2023-12-11 | 239,456 | 2,517 |
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
-| 2023-12-14 | 239,933 | 2,520 |
+| 2023-12-14 | 239,954 | 2,521 |
 ## Awards
 Max (Great for Beginners): 5,624  (Ranked 70)  
 Sum: 32,848 (Ranked 41)  

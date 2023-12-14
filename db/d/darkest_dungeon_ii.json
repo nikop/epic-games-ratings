@@ -3,11 +3,11 @@
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
   "Ranking_Rating": 259,
-  "Ranking_Popularity": 52,
+  "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9592,18 +9592,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 20347,
       "NumberOfAwardsMax": 7665
+    },
+    {
+      "Time": "2023-12-14T05:00:52.0976779+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20380,
+      "NumberOfAwardsMax": 7689
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20347,
-  "NumberOfAwardsMax": 7665,
+  "NumberOfAwards": 20380,
+  "NumberOfAwardsMax": 7689,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7665
+      "Count": 7689
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9621,7 +9627,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1435
+      "Count": 1444
     },
     {
       "Text": "This game has Challenging Combat",
@@ -9672,9 +9678,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126750,
+  "EOS_Progressed": 126772,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1028,
+  "EOS_NewPlayers": 1047,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34922,6 +34928,11 @@
       "Time": "2023-12-14T04:09:19.0463208+00:00",
       "NumProgressed": 126750,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T05:09:30.7199218+00:00",
+      "NumProgressed": 126772,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35077,15 +35088,15 @@
       "Name": "Banishment",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "combat_kill_death",
       "SetID": "64l4lke",
       "Name": "Not Today!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 2535
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35101,7 +35112,7 @@
       "Name": "Deprogramming",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -35155,9 +35166,9 @@
       "ID": "combat_kill_librarian",
       "SetID": "64l4lke",
       "Name": "Overdue Notice",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 2535
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35235,9 +35246,9 @@
       "ID": "driving_biome_clear_coast",
       "SetID": "64l4lke",
       "Name": "Merry Time",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 887
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -35245,15 +35256,15 @@
       "Name": "Harvest Festival",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "driving_biome_clear_forest",
       "SetID": "64l4lke",
       "Name": "To Grandmother\u0027s House",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1141
     },
     {
       "ID": "driving_distance_easy",
@@ -35283,9 +35294,9 @@
       "ID": "hero_skill_mastery_five",
       "SetID": "64l4lke",
       "Name": "Autodidact",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1268
+      "UsersEstimate": 2535
     },
     {
       "ID": "hero_story_complete_all",
@@ -35309,7 +35320,7 @@
       "Name": "Whale",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "hospital_full_service",
@@ -35325,7 +35336,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -35349,7 +35360,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -35445,7 +35456,7 @@
       "Name": "Road Trip",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -35469,7 +35480,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "combat_kill_collector",
@@ -35501,7 +35512,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -35525,7 +35536,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "quest_complete_crusader",
@@ -35533,7 +35544,7 @@
       "Name": "Lost and Found",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35564,21 +35575,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126750,
+      "Progressed": 126772,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1619,
+      "Progressed": 1641,
       "Completed": 800
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-14T01:46:33.3984307+00:00",
-  "LastChanged_Achievements": "2023-12-14T04:09:19.0463204+00:00",
+  "LastChanged": "2023-12-14T05:00:52.0976777+00:00",
+  "LastChanged_Achievements": "2023-12-14T05:09:30.7199214+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T04:00:10.1095912+00:00",
-  "LastUpdate_Achievements": "2023-12-14T04:09:19.04649+00:00"
+  "LastUpdate_Ratings": "2023-12-14T05:00:52.0976787+00:00",
+  "LastUpdate_Achievements": "2023-12-14T05:09:30.7201514+00:00"
 }

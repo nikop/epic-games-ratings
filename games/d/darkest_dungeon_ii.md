@@ -6,37 +6,37 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 5.00% | ~81 |
+| Malpractice Assurance | 5.00% | ~82 |
 | This guy... again? | 3.00% | ~49 |
 | This Belongs in a Museum | 2.00% | ~2,535 |
+| Not Today! | 2.00% | ~2,535 |
 | Catch and Decease | 2.00% | ~2,535 |
+| Overdue Notice | 2.00% | ~2,535 |
 | Escape from the Black Hole | 2.00% | ~2,535 |
-| Bloody Graduation | 2.00% | ~32 |
-| Lost and Found | 2.00% | ~32 |
-| Not Today! | 1.00% | ~1,268 |
+| Autodidact | 2.00% | ~2,535 |
+| Bloody Graduation | 2.00% | ~33 |
+| Lost and Found | 2.00% | ~33 |
 | Creep and Sleep | 1.00% | ~1,268 |
 | Meat and Greet | 1.00% | ~1,268 |
-| Overdue Notice | 1.00% | ~1,268 |
-| Autodidact | 1.00% | ~1,268 |
 | Ploughshares to Swords | 1.00% | ~16 |
 | Serenity Now! | 0.90% | ~1,141 |
+| To Grandmother's House | 0.90% | ~1,141 |
 | Don't Make Me Turn This Coach Around | 0.80% | ~1,014 |
 | Rush Hour | 0.80% | ~1,014 |
-| To Grandmother's House | 0.80% | ~1,014 |
 | FNG | 0.80% | ~1,014 |
 | Friends 'Til the End | 0.80% | ~13 |
 | It Rings a Bell | 0.70% | ~887 |
 | Dissector | 0.70% | ~887 |
 | It Happens | 0.70% | ~887 |
+| Merry Time | 0.70% | ~887 |
 | Nope | 0.70% | ~887 |
-| Banishment | 0.60% | ~760 |
-| Deprogramming | 0.60% | ~760 |
-| Merry Time | 0.60% | ~760 |
-| Harvest Festival | 0.60% | ~760 |
-| Whale | 0.60% | ~760 |
-| A Place to Lay Your Head | 0.60% | ~760 |
-| Worldly Traveller | 0.60% | ~760 |
-| Road Trip | 0.60% | ~760 |
+| Banishment | 0.60% | ~761 |
+| Deprogramming | 0.60% | ~761 |
+| Harvest Festival | 0.60% | ~761 |
+| Whale | 0.60% | ~761 |
+| A Place to Lay Your Head | 0.60% | ~761 |
+| Worldly Traveller | 0.60% | ~761 |
+| Road Trip | 0.60% | ~761 |
 | Resurrection | 0.50% | ~634 |
 | Unleash Hell | 0.50% | ~634 |
 | Funny Guy | 0.50% | ~634 |
@@ -56,7 +56,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 0.40% | ~507 |
 | When You Want Something Done Right | 0.40% | ~507 |
 | Utopia | 0.40% | ~507 |
-| Slap on the Wrist | 0.40% | ~6 |
+| Slap on the Wrist | 0.40% | ~7 |
 | This Looks Familiar | 0.30% | ~380 |
 | Hot Air | 0.30% | ~380 |
 | Eyes Up | 0.30% | ~380 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,750 (Ranked 84)  
+Progressed: 126,772 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,19 +314,19 @@ Completed: 3 (0.00%) (Ranked 374)
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
-| 2023-12-14 | 126,750 | 3 |
+| 2023-12-14 | 126,772 | 3 |
 ## Awards
-Max (Character Customization): 7,665  (Ranked 52)  
-Sum: 20,347 (Ranked 59)  
-Diff (max vs sum): -7  
+Max (Character Customization): 7,689  (Ranked 51)  
+Sum: 20,380 (Ranked 59)  
+Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,665 |
+| This game has Inclusive Character Customization | 7,689 |
 | This game has Diverse Characters | 1,675 |
 | This game has Challenging Combat | 1,576 |
 | This game is Highly Recommended | 1,506 |
+| This game is Extremely Fun | 1,444 |
 | This game has Amazing Characters | 1,437 |
-| This game is Extremely Fun | 1,435 |
 | This game has Amazing Storytelling | 1,370 |
 | This game has Unique Visuals | 1,343 |
 | This game has Quickly Understood Controls | 1,340 |
@@ -656,4 +656,4 @@ Diff (max vs sum): -7
 | 2023-12-11 | 4.68 | - | 7,586 | 20,081 |
 | 2023-12-12 | 4.68 | - | 7,622 | 20,221 |
 | 2023-12-13 | 4.68 | - | 7,665 | 20,333 |
-| 2023-12-14 | 4.68 | - | 7,665 | 20,347 |
+| 2023-12-14 | 4.68 | - | 7,689 | 20,380 |

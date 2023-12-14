@@ -41,9 +41,9 @@ Rating: 4.58 (Ranked 453)
 | Freedom fighter | 14.00% | ~10 |
 | Titan Lord | 14.00% | ~10 |
 | King of the handymen | 13.00% | ~9 |
+| Terror of the hens | 11.00% | ~8 |
 | Expert | 11.00% | ~8 |
 | The traveler | 10.00% | ~7 |
-| Terror of the hens | 10.00% | ~7 |
 | Moneybags | 8.00% | ~6 |
 | Rune master | 6.00% | ~4 |
 | Fervent swimmer | 6.00% | ~4 |

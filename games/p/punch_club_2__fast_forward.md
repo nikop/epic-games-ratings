@@ -11,7 +11,7 @@
 | Your first job | 83.00% | ~304 |
 | Fitness professional | 79.00% | ~289 |
 | Old movies enjoyer | 79.00% | ~289 |
-| Depressed visitor | 78.00% | ~285 |
+| Depressed visitor | 79.00% | ~289 |
 | Neurotrainer – power gainer! | 78.00% | ~285 |
 | Employee of the week | 78.00% | ~285 |
 | Your own amateur gym | 74.00% | ~271 |

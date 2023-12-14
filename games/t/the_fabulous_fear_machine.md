@@ -14,9 +14,9 @@
 | Giant | 15.00% | ~7 |
 | The seer | 15.00% | ~7 |
 | Pulp! Terror Tales in the Night | 15.00% | ~7 |
+| Pulp! Out of this World | 15.00% | ~7 |
 | A rival with no options | 13.00% | ~6 |
 | The artist | 13.00% | ~6 |
-| Pulp! Out of this World | 13.00% | ~6 |
 | Pulp! Adventures into the Unknown | 10.00% | ~5 |
 | Diagnosis: fear | 10.00% | ~5 |
 | Ambition is... blind | 10.00% | ~5 |

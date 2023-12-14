@@ -8780,7 +8780,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 477611,
+  "EOS_Progressed": 477612,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 0,
@@ -32805,6 +32805,11 @@
       "Time": "2023-12-14T04:03:54.4015704+00:00",
       "NumProgressed": 477611,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-14T05:04:06.620809+00:00",
+      "NumProgressed": 477612,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -32928,7 +32933,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143283
+      "UsersEstimate": 143284
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -32976,7 +32981,7 @@
       "Name": "Splashing The Cash",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 105074
+      "UsersEstimate": 105075
     },
     {
       "ID": "achievement_childhood_dream",
@@ -32992,7 +32997,7 @@
       "Name": "Clean Bill of Health",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 105074
+      "UsersEstimate": 105075
     },
     {
       "ID": "achievement_clean_sheet",
@@ -33088,7 +33093,7 @@
       "Name": "What A Goal!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 105074
+      "UsersEstimate": 105075
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -33160,7 +33165,7 @@
       "Name": "He\u0027s a Natural",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 148059
+      "UsersEstimate": 148060
     },
     {
       "ID": "achievement_impervious",
@@ -33336,7 +33341,7 @@
       "Name": "Scoring Streak",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 181492
+      "UsersEstimate": 181493
     },
     {
       "ID": "achievement_scouts_honour",
@@ -33360,7 +33365,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 229253
+      "UsersEstimate": 229254
     },
     {
       "ID": "achievement_signed_a_player",
@@ -33456,7 +33461,7 @@
       "Name": "Cup Glory!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 105074
+      "UsersEstimate": 105075
     },
     {
       "ID": "achievement_won_international_championship",
@@ -33472,7 +33477,7 @@
       "Name": "You\u0027re Up!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 62089
+      "UsersEstimate": 62090
     },
     {
       "ID": "achievement_won_world_cup",
@@ -33512,7 +33517,7 @@
       "Name": "Millionaire\u0027s Club",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 148059
+      "UsersEstimate": 148060
     },
     {
       "ID": "fantasy_draft_100_club",
@@ -33599,15 +33604,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 477611,
+      "Progressed": 477612,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-12-13T21:57:21.97248+00:00",
-  "LastChanged_Achievements": "2023-12-14T04:03:54.4015701+00:00",
+  "LastChanged_Achievements": "2023-12-14T05:04:06.6208085+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.1665984+00:00",
-  "LastUpdate_Ratings": "2023-12-14T03:57:42.8261928+00:00",
-  "LastUpdate_Achievements": "2023-12-14T04:03:54.4017655+00:00"
+  "LastUpdate_Ratings": "2023-12-14T04:57:36.8083126+00:00",
+  "LastUpdate_Achievements": "2023-12-14T05:04:06.6211125+00:00"
 }

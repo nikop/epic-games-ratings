@@ -7543,9 +7543,9 @@
       "Count": 3795
     }
   ],
-  "EOS_Progressed": 145164,
+  "EOS_Progressed": 145172,
   "EOS_Completed": 298,
-  "EOS_NewPlayers": 1094,
+  "EOS_NewPlayers": 1100,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -32333,6 +32333,11 @@
       "Time": "2023-12-14T04:04:27.5298935+00:00",
       "NumProgressed": 145164,
       "NumCompleted": 298
+    },
+    {
+      "Time": "2023-12-14T05:04:49.4431307+00:00",
+      "NumProgressed": 145172,
+      "NumCompleted": 298
     }
   ],
   "TotalAchievements": 112,
@@ -32512,7 +32517,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11613
+      "UsersEstimate": 11614
     },
     {
       "ID": "chest02",
@@ -32560,7 +32565,7 @@
       "Name": "The Free Encyclopedia",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "collection05",
@@ -32576,7 +32581,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10161
+      "UsersEstimate": 10162
     },
     {
       "ID": "commonres02",
@@ -32608,7 +32613,7 @@
       "Name": "Disintermediation",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7258
+      "UsersEstimate": 7259
     },
     {
       "ID": "craft02",
@@ -32720,7 +32725,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7258
+      "UsersEstimate": 7259
     },
     {
       "ID": "expansion02",
@@ -32816,7 +32821,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10161
+      "UsersEstimate": 10162
     },
     {
       "ID": "gold02",
@@ -32928,7 +32933,7 @@
       "Name": "Budding Merchant",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7258
+      "UsersEstimate": 7259
     },
     {
       "ID": "level02",
@@ -33046,9 +33051,9 @@
       "ID": "polonia_a",
       "SetID": "anfd17p",
       "Name": "Scourge of the Seas",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1452
+      "UsersEstimate": 2903
     },
     {
       "ID": "quest01",
@@ -33080,7 +33085,7 @@
       "Name": "To Hell and Back",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "rareres01",
@@ -33120,7 +33125,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7258
+      "UsersEstimate": 7259
     },
     {
       "ID": "sell02",
@@ -33136,7 +33141,7 @@
       "Name": "Cash Only Please",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "sia_a",
@@ -33160,7 +33165,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11613
+      "UsersEstimate": 11614
     },
     {
       "ID": "twinenchant01",
@@ -33239,15 +33244,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 145164,
+      "Progressed": 145172,
       "Completed": 298
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-14T01:50:00.1597878+00:00",
-  "LastChanged_Achievements": "2023-12-14T04:04:27.5298931+00:00",
+  "LastChanged_Achievements": "2023-12-14T05:04:49.4431303+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2420411+00:00",
-  "LastUpdate_Ratings": "2023-12-14T04:03:24.5380207+00:00",
-  "LastUpdate_Achievements": "2023-12-14T04:04:27.5301057+00:00"
+  "LastUpdate_Ratings": "2023-12-14T05:03:24.8589917+00:00",
+  "LastUpdate_Achievements": "2023-12-14T05:04:49.443402+00:00"
 }

@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 79.00% | ~92 |
-| Gear Up | 66.00% | ~77 |
-| A Grand Show | 66.00% | ~77 |
-| Freshen Up | 54.00% | ~63 |
-| GG EZ | 54.00% | ~63 |
-| Hydrophobia | 38.00% | ~44 |
-| Ka-Ching! | 31.00% | ~36 |
-| Stop Right There | 26.00% | ~30 |
-| Get to the Point | 25.00% | ~29 |
+| Iceberg Theory | 79.00% | ~93 |
+| Gear Up | 66.00% | ~78 |
+| A Grand Show | 66.00% | ~78 |
+| Freshen Up | 54.00% | ~64 |
+| GG EZ | 53.00% | ~63 |
+| Hydrophobia | 39.00% | ~46 |
+| Ka-Ching! | 31.00% | ~37 |
+| Stop Right There | 26.00% | ~31 |
+| Get to the Point | 25.00% | ~30 |
 | Mr. Want It All | 16.00% | ~19 |
 | Phew! | 16.00% | ~19 |
 | Toe to Toe | 15.00% | ~18 |
-| The Hidden Secret | 14.00% | ~16 |
+| The Hidden Secret | 14.00% | ~17 |
 | The Abyss Conqueror | 11.00% | ~13 |
 | Space Warrior: Prologue | 10.00% | ~12 |
 | The Fortress Conqueror | 9.00% | ~11 |
@@ -48,14 +48,14 @@
 | Easy Peasy | 2.00% | ~2 |
 | Clean Sweep | 2.00% | ~2 |
 | Bye Bye Gravity | 2.00% | ~2 |
-| Flawless | 0.90% | ~1 |
-| Peace Out | 0.90% | ~1 |
-| Mischief Time | 0.90% | ~1 |
-| Art is an Explosion | 0.90% | ~1 |
-| Bullets Fear Me | 0.90% | ~1 |
-| Super Alloy Ranger! | 0.90% | ~1 |
+| Flawless | 0.80% | ~1 |
+| Peace Out | 0.80% | ~1 |
+| Mischief Time | 0.80% | ~1 |
+| Art is an Explosion | 0.80% | ~1 |
+| Bullets Fear Me | 0.80% | ~1 |
+| Super Alloy Ranger! | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 431)  
+Progressed: 118 (Ranked 431)  
 Completed: 1 (0.85%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 1 (0.85%) (Ranked 181)
 | 2023-11-19 | 114 | 1 |
 | 2023-11-28 | 115 | 1 |
 | 2023-12-06 | 116 | 1 |
-| 2023-12-14 | 117 | 1 |
+| 2023-12-14 | 118 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

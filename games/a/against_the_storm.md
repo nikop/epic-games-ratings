@@ -6,9 +6,9 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 4.00% | ~722 |
-| Overgrown Library | 4.00% | ~722 |
-| Petrified Necropolis | 4.00% | ~722 |
+| Abandoned Settlement | 4.00% | ~723 |
+| Overgrown Library | 4.00% | ~723 |
+| Petrified Necropolis | 4.00% | ~723 |
 | Frosts | 3.00% | ~542 |
 | Land of Greed | 3.00% | ~542 |
 | Ominous Presence | 3.00% | ~542 |
@@ -26,14 +26,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 1.00% | ~181 |
 | Homesick | 0.90% | ~163 |
 | Lost Colonies | 0.90% | ~163 |
-| Bandit Camp | 0.80% | ~144 |
-| Monastery of the Holy Flame | 0.80% | ~144 |
-| A Real Challenge | 0.80% | ~144 |
+| Bandit Camp | 0.80% | ~145 |
+| Monastery of the Holy Flame | 0.80% | ~145 |
+| A Real Challenge | 0.80% | ~145 |
 | Ruined Armory | 0.70% | ~126 |
+| Barren Lands | 0.70% | ~126 |
 | Levitating Monument | 0.70% | ~126 |
 | Corrosive Torrent | 0.70% | ~126 |
 | Trade Baron | 0.70% | ~126 |
-| Barren Lands | 0.60% | ~108 |
 | Statue of the Forefathers | 0.60% | ~108 |
 | Cursed Lands | 0.60% | ~108 |
 | Against All Odds | 0.50% | ~90 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,062 (Ranked 147)  
+Progressed: 18,067 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 40 (0.22%) (Ranked 256)
 | 2023-12-11 | 17,957 | 41 |
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
-| 2023-12-14 | 18,062 | 40 |
+| 2023-12-14 | 18,067 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 225)  
 Sum: 3,256 (Ranked 174)  
