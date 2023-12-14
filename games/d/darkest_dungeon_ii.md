@@ -42,16 +42,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | Spelunker | 0.60% | ~761 |
 | Ramble On | 0.60% | ~761 |
 | Road Trip | 0.60% | ~761 |
-| Resurrection | 0.50% | ~634 |
-| Unleash Hell | 0.50% | ~634 |
-| Funny Guy | 0.50% | ~634 |
-| Long Live the King | 0.50% | ~634 |
-| Wyrdly Reconstructed | 0.50% | ~634 |
-| Boxcar Kid | 0.50% | ~634 |
-| Unfulfilled Desires | 0.50% | ~634 |
-| A Clear Conscience | 0.50% | ~634 |
-| When You Want Something Done Right | 0.50% | ~634 |
-| Unshackled | 0.50% | ~634 |
+| Resurrection | 0.50% | ~635 |
+| Unleash Hell | 0.50% | ~635 |
+| Funny Guy | 0.50% | ~635 |
+| Long Live the King | 0.50% | ~635 |
+| Wyrdly Reconstructed | 0.50% | ~635 |
+| Boxcar Kid | 0.50% | ~635 |
+| Unfulfilled Desires | 0.50% | ~635 |
+| A Clear Conscience | 0.50% | ~635 |
+| When You Want Something Done Right | 0.50% | ~635 |
+| Unshackled | 0.50% | ~635 |
 | Hope Rekindled | 0.40% | ~508 |
 | Ichthyophobic | 0.40% | ~508 |
 | No More Mouths to Feed | 0.40% | ~508 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,882 (Ranked 84)  
+Progressed: 126,901 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,10 +314,10 @@ Completed: 3 (0.00%) (Ranked 374)
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
-| 2023-12-14 | 126,882 | 3 |
+| 2023-12-14 | 126,901 | 3 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 51)  
-Sum: 20,380 (Ranked 59)  
+Sum: 20,385 (Ranked 59)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -326,7 +326,7 @@ Diff (max vs sum): -8
 | This game has Challenging Combat | 1,576 |
 | This game is Highly Recommended | 1,506 |
 | This game is Extremely Fun | 1,444 |
-| This game has Amazing Characters | 1,437 |
+| This game has Amazing Characters | 1,442 |
 | This game has Amazing Storytelling | 1,370 |
 | This game has Unique Visuals | 1,343 |
 | This game has Quickly Understood Controls | 1,340 |
@@ -656,4 +656,4 @@ Diff (max vs sum): -8
 | 2023-12-11 | 4.68 | - | 7,586 | 20,081 |
 | 2023-12-12 | 4.68 | - | 7,622 | 20,221 |
 | 2023-12-13 | 4.68 | - | 7,665 | 20,333 |
-| 2023-12-14 | 4.68 | - | 7,689 | 20,380 |
+| 2023-12-14 | 4.68 | - | 7,689 | 20,385 |

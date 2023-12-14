@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 60.00% | ~347 |
-| The Teleprobe | 47.00% | ~272 |
-| The City | 43.00% | ~249 |
+| The Teleprobe | 48.00% | ~278 |
+| The City | 44.00% | ~255 |
 | The field base | 40.00% | ~232 |
 | Survivors | 36.00% | ~208 |
 | The Condor | 33.00% | ~191 |
@@ -15,7 +15,7 @@
 | The Necroevolution | 26.00% | ~151 |
 | Peacemaker | 22.00% | ~127 |
 | Krauta is alive | 22.00% | ~127 |
-| Volcanologist | 20.00% | ~116 |
+| Volcanologist | 21.00% | ~122 |
 | On her own | 18.00% | ~104 |
 | Evacuation | 18.00% | ~104 |
 | Beyond divisions | 17.00% | ~98 |
@@ -28,8 +28,8 @@
 | The Invincible | 6.00% | ~35 |
 | I leave no man behind | 6.00% | ~35 |
 | Strong objection | 6.00% | ~35 |
+| Got lost again | 5.00% | ~29 |
 | Ubiquitous holes | 4.00% | ~23 |
-| Got lost again | 4.00% | ~23 |
 | I leave no man behind (no exceptions) | 2.00% | ~12 |
 | Convoy list | 0.90% | ~5 |
 | No more mistakes | 0.50% | ~3 |

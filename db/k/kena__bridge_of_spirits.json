@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1487,7 +1487,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 429560,
+  "EOS_Progressed": 429561,
   "EOS_Completed": 553,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
@@ -17002,6 +17002,11 @@
       "Time": "2023-12-14T11:04:33.0943308+00:00",
       "NumProgressed": 429560,
       "NumCompleted": 553
+    },
+    {
+      "Time": "2023-12-14T12:05:10.7933594+00:00",
+      "NumProgressed": 429561,
+      "NumCompleted": 553
     }
   ],
   "TotalAchievements": 41,
@@ -17021,7 +17026,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 167528
+      "UsersEstimate": 167529
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -17029,7 +17034,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257736
+      "UsersEstimate": 257737
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -17037,7 +17042,7 @@
       "Name": "Crossing Over",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124572
+      "UsersEstimate": 124573
     },
     {
       "ID": "ACH_BOSS_ROT_GOD",
@@ -17053,7 +17058,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 180415
+      "UsersEstimate": 180416
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -17077,7 +17082,7 @@
       "Name": "Piercing Blow",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 60138
+      "UsersEstimate": 60139
     },
     {
       "ID": "ACH_CHALLENGE_BOMB",
@@ -17093,7 +17098,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257736
+      "UsersEstimate": 257737
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -17101,7 +17106,7 @@
       "Name": "Quick Draw",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124572
+      "UsersEstimate": 124573
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -17149,7 +17154,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201893
+      "UsersEstimate": 201894
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -17181,7 +17186,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 408082
+      "UsersEstimate": 408083
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -17197,7 +17202,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 309283
+      "UsersEstimate": 309284
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -17205,7 +17210,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 158937
+      "UsersEstimate": 158938
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -17213,7 +17218,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 300692
+      "UsersEstimate": 300693
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -17229,7 +17234,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 343648
+      "UsersEstimate": 343649
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -17301,7 +17306,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 189006
+      "UsersEstimate": 189007
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -17309,7 +17314,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 146050
+      "UsersEstimate": 146051
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -17340,15 +17345,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 429560,
+      "Progressed": 429561,
       "Completed": 553
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-12-09T21:00:02.7884334+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:04:33.0943304+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:05:10.7933591+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:35.3473344+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:59:09.8810333+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:04:33.0944357+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:59:51.7600868+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:05:10.7934449+00:00"
 }

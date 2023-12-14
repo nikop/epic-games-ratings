@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1850,
+  "EOS_Progressed": 1853,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 550,
+  "EOS_NewPlayers": 545,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1584,6 +1584,11 @@
       "Time": "2023-12-14T11:07:02.0799535+00:00",
       "NumProgressed": 1850,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T12:08:21.4059784+00:00",
+      "NumProgressed": 1853,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1620,7 +1625,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1660,7 +1665,7 @@
       "Name": "Terrible Journey",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -1668,7 +1673,7 @@
       "Name": "Dark Prizes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -1756,7 +1761,7 @@
       "Name": "Your Own Nightmare",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1780,7 +1785,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -1796,7 +1801,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1962,23 +1967,23 @@
       "ID": "ACHIEVEMENT_55",
       "SetID": "c167foo",
       "Name": "Hundred below",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1850,
+      "Progressed": 1853,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:07:02.0799531+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:08:21.4059782+00:00",
   "LastUpdate_AppInfo": "2023-12-12T11:56:59.8157094+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:58:09.1947675+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:07:02.0799894+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:58:31.8948264+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:08:21.40602+00:00"
 }

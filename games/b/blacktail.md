@@ -11,7 +11,7 @@ Rating: 4.68 (Ranked 259)
 | Uprooting | 14.00% | ~110 |
 | Forbidden techniques | 13.00% | ~102 |
 | Devoted | 10.00% | ~78 |
-| Slavic squatter | 9.00% | ~70 |
+| Slavic squatter | 9.00% | ~71 |
 | Spirit animal | 8.00% | ~63 |
 | Gold rush | 7.00% | ~55 |
 | Liar Liar | 6.00% | ~47 |
@@ -24,12 +24,12 @@ Rating: 4.68 (Ranked 259)
 | Baba Yaga | 5.00% | ~39 |
 | Extensive retelling | 4.00% | ~31 |
 | Favorite | 4.00% | ~31 |
-| Goal! | 3.00% | ~23 |
-| Both sides | 3.00% | ~23 |
-| Specialist | 3.00% | ~23 |
-| Always worth a try | 3.00% | ~23 |
-| Toxic | 3.00% | ~23 |
-| Witch's cookbook | 3.00% | ~23 |
+| Goal! | 3.00% | ~24 |
+| Both sides | 3.00% | ~24 |
+| Specialist | 3.00% | ~24 |
+| Always worth a try | 3.00% | ~24 |
+| Toxic | 3.00% | ~24 |
+| Witch's cookbook | 3.00% | ~24 |
 | Bad apple | 2.00% | ~16 |
 | Gnowlledgeable | 2.00% | ~16 |
 | Entangled | 2.00% | ~16 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 259)
 | Mushrooming enthusiast | 0.60% | ~5 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 783 (Ranked 283)  
+Progressed: 784 (Ranked 282)  
 Completed: 1 (0.13%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,6 +224,7 @@ Completed: 1 (0.13%) (Ranked 282)
 | 2023-12-07 | 779 | 1 |
 | 2023-12-09 | 780 | 1 |
 | 2023-12-10 | 783 | 1 |
+| 2023-12-14 | 784 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

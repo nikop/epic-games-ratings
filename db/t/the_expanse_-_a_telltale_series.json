@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16164,
+  "EOS_Progressed": 16168,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -13782,6 +13782,11 @@
       "Time": "2023-12-14T11:07:06.1037741+00:00",
       "NumProgressed": 16164,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-14T12:08:26.6261072+00:00",
+      "NumProgressed": 16168,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13826,7 +13831,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2102
     },
     {
       "ID": "14",
@@ -13874,7 +13879,7 @@
       "Name": "Martian Music",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "2",
@@ -13898,7 +13903,7 @@
       "Name": "Drone Dodger",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "22",
@@ -14042,7 +14047,7 @@
       "Name": "Safe Cracker",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "33",
@@ -14050,7 +14055,7 @@
       "Name": "Zen Master",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "34",
@@ -14066,20 +14071,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16164,
+      "Progressed": 16168,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2118,
+      "Progressed": 2122,
       "Completed": 882
     }
   ],
@@ -14087,8 +14092,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:07:06.1037738+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:08:26.626107+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:57:31.0305144+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:07:06.1038499+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:57:40.4612744+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:08:26.6261743+00:00"
 }

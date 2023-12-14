@@ -1,57 +1,57 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 130)  
+Rating: 4.76 (Ranked 131)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 17.00% | ~52,081 |
-| First Class Student | 15.00% | ~45,954 |
-| Troll with the Punches | 15.00% | ~45,954 |
-| A Keen Sense of Spell | 14.00% | ~42,890 |
-| That's a Keeper | 13.00% | ~39,827 |
-| The Hallowed Hero | 12.00% | ~36,763 |
-| The Defender of Dragons | 12.00% | ~36,763 |
-| Loom for Improvement | 12.00% | ~36,763 |
-| A Talent for Spending | 12.00% | ~36,763 |
-| Coasting Along | 12.00% | ~36,763 |
-| Grappling with a Graphorn | 11.00% | ~33,699 |
-| The One Who Mastered Memories | 11.00% | ~33,699 |
-| The Hero of Hogwarts | 11.00% | ~33,699 |
-| Challenge Accepted | 11.00% | ~33,699 |
-| Followed the Butterflies | 10.00% | ~30,636 |
-| Rising From the Ashes | 10.00% | ~30,636 |
-| A Sallow Grave | 9.00% | ~27,572 |
-| The Spell Master | 9.00% | ~27,572 |
-| The Avenging Gazelle | 8.00% | ~24,509 |
-| Beast Friends | 8.00% | ~24,509 |
-| Flight the Good Flight | 8.00% | ~24,509 |
-| Raising Expectations | 7.00% | ~21,445 |
-| The Seeker of Knowledge | 6.00% | ~18,381 |
-| The Root of the Problem | 6.00% | ~18,381 |
-| Third Time's a Charm | 6.00% | ~18,381 |
-| The Toast of the Town | 5.00% | ~15,318 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,318 |
-| The Ends Petrify the Means | 5.00% | ~15,318 |
-| Going Through the Potions | 4.00% | ~12,254 |
-| Room with a View | 4.00% | ~12,254 |
-| The Intrepid Explorer | 4.00% | ~12,254 |
-| The Wise Owl | 4.00% | ~12,254 |
-| Put Down Roots | 3.00% | ~9,191 |
-| The Auror's Apprentice | 3.00% | ~9,191 |
-| Floo Around the World | 3.00% | ~9,191 |
-| The Good Samaritan | 2.00% | ~6,127 |
-| Savvy Spender | 2.00% | ~6,127 |
-| Rise to the Challenges | 2.00% | ~6,127 |
-| Demiguise Dread | 2.00% | ~6,127 |
-| Finishing Touches | 2.00% | ~6,127 |
-| A Forte for Achievement | 2.00% | ~6,127 |
-| Merlin's Beard! | 1.00% | ~3,064 |
-| Spilled Milk | 0.90% | ~2,757 |
-| The Nature of the Beast | 0.70% | ~2,145 |
-| Collector's Edition | 0.40% | ~1,225 |
+| The Sort Who Makes an Entrance | 17.00% | ~52,120 |
+| First Class Student | 15.00% | ~45,988 |
+| Troll with the Punches | 15.00% | ~45,988 |
+| A Keen Sense of Spell | 14.00% | ~42,922 |
+| That's a Keeper | 13.00% | ~39,856 |
+| The Hallowed Hero | 12.00% | ~36,791 |
+| The Defender of Dragons | 12.00% | ~36,791 |
+| Loom for Improvement | 12.00% | ~36,791 |
+| A Talent for Spending | 12.00% | ~36,791 |
+| Coasting Along | 12.00% | ~36,791 |
+| Grappling with a Graphorn | 11.00% | ~33,725 |
+| The One Who Mastered Memories | 11.00% | ~33,725 |
+| The Hero of Hogwarts | 11.00% | ~33,725 |
+| Challenge Accepted | 11.00% | ~33,725 |
+| Followed the Butterflies | 10.00% | ~30,659 |
+| Rising From the Ashes | 10.00% | ~30,659 |
+| A Sallow Grave | 9.00% | ~27,593 |
+| The Spell Master | 9.00% | ~27,593 |
+| The Avenging Gazelle | 8.00% | ~24,527 |
+| Beast Friends | 8.00% | ~24,527 |
+| Flight the Good Flight | 8.00% | ~24,527 |
+| Raising Expectations | 7.00% | ~21,461 |
+| The Seeker of Knowledge | 6.00% | ~18,395 |
+| The Root of the Problem | 6.00% | ~18,395 |
+| Third Time's a Charm | 6.00% | ~18,395 |
+| The Toast of the Town | 5.00% | ~15,329 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,329 |
+| The Ends Petrify the Means | 5.00% | ~15,329 |
+| Going Through the Potions | 4.00% | ~12,264 |
+| Room with a View | 4.00% | ~12,264 |
+| The Intrepid Explorer | 4.00% | ~12,264 |
+| The Wise Owl | 4.00% | ~12,264 |
+| Put Down Roots | 3.00% | ~9,198 |
+| The Auror's Apprentice | 3.00% | ~9,198 |
+| Floo Around the World | 3.00% | ~9,198 |
+| The Good Samaritan | 2.00% | ~6,132 |
+| Savvy Spender | 2.00% | ~6,132 |
+| Rise to the Challenges | 2.00% | ~6,132 |
+| Demiguise Dread | 2.00% | ~6,132 |
+| Finishing Touches | 2.00% | ~6,132 |
+| A Forte for Achievement | 2.00% | ~6,132 |
+| Merlin's Beard! | 1.00% | ~3,066 |
+| Spilled Milk | 0.90% | ~2,759 |
+| The Nature of the Beast | 0.70% | ~2,146 |
+| Collector's Edition | 0.40% | ~1,226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 306,358 (Ranked 54)  
+Progressed: 306,588 (Ranked 54)  
 Completed: 525 (0.17%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,14 +289,14 @@ Completed: 525 (0.17%) (Ranked 272)
 | 2023-12-11 | 304,218 | 525 |
 | 2023-12-12 | 304,258 | 525 |
 | 2023-12-13 | 304,728 | 525 |
-| 2023-12-14 | 306,358 | 525 |
+| 2023-12-14 | 306,588 | 525 |
 ## Awards
-Max (Character Customization): 25,157  (Ranked 17)  
-Sum: 50,619 (Ranked 30)  
+Max (Character Customization): 25,182  (Ranked 17)  
+Sum: 50,644 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 25,157 |
+| This game has Inclusive Character Customization | 25,182 |
 | This game has Great Boss Battles | 12,932 |
 | This game is Great for Beginners | 1,406 |
 | This game has Amazing Storytelling | 1,370 |
@@ -576,4 +576,4 @@ Diff (max vs sum): -13
 | 2023-12-11 | 4.76 | 25,106 | 50,475 |
 | 2023-12-12 | 4.76 | 25,134 | 50,541 |
 | 2023-12-13 | 4.76 | 25,157 | 50,603 |
-| 2023-12-14 | 4.76 | 25,157 | 50,619 |
+| 2023-12-14 | 4.76 | 25,182 | 50,644 |

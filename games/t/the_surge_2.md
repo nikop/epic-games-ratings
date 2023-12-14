@@ -5,20 +5,20 @@ Rating: 4.25 (Ranked 891)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,779 |
-| Don't I Know You...? | 77.00% | ~1,712 |
+| Rigged And Ready | 80.00% | ~1,780 |
+| Don't I Know You...? | 77.00% | ~1,713 |
 | Jailbreak | 66.00% | ~1,468 |
-| HEADSHOT! | 39.00% | ~867 |
-| Suited and Booted | 39.00% | ~867 |
+| HEADSHOT! | 39.00% | ~868 |
+| Suited and Booted | 39.00% | ~868 |
 | Sleeping With The Fishes | 36.00% | ~801 |
-| Overheated | 31.00% | ~689 |
-| High Performance | 31.00% | ~689 |
+| Overheated | 31.00% | ~690 |
+| High Performance | 31.00% | ~690 |
 | Powered Up | 29.00% | ~645 |
 | Studied The Blade | 25.00% | ~556 |
 | Home Invasion | 24.00% | ~534 |
 | Luminary | 23.00% | ~512 |
-| True Survivor | 22.00% | ~489 |
-| It's a Trap | 22.00% | ~489 |
+| True Survivor | 22.00% | ~490 |
+| It's a Trap | 22.00% | ~490 |
 | Offensive Defense | 21.00% | ~467 |
 | Shocking | 21.00% | ~467 |
 | Unforeseeable Consequences | 20.00% | ~445 |
@@ -27,8 +27,8 @@ Rating: 4.25 (Ranked 891)
 | Dead Again | 18.00% | ~400 |
 | Full Arsenal | 17.00% | ~378 |
 | Can't Trust Banks | 15.00% | ~334 |
-| Mommy Dearest | 14.00% | ~311 |
-| Bad Dog | 14.00% | ~311 |
+| Mommy Dearest | 14.00% | ~312 |
+| Bad Dog | 14.00% | ~312 |
 | Where It All Began | 13.00% | ~289 |
 | Risk Tolerant | 13.00% | ~289 |
 | Sorry, Didn't See You There | 13.00% | ~289 |
@@ -42,11 +42,11 @@ Rating: 4.25 (Ranked 891)
 | Following In Their Footsteps | 8.00% | ~178 |
 | Defense in Depth | 8.00% | ~178 |
 | Reverse Engineering | 7.00% | ~156 |
-| Reborn | 6.00% | ~133 |
-| Remote Surgery | 6.00% | ~133 |
-| Turbo Booster | 6.00% | ~133 |
-| Juiced Up | 6.00% | ~133 |
-| Squid Pro Quo | 6.00% | ~133 |
+| Reborn | 6.00% | ~134 |
+| Remote Surgery | 6.00% | ~134 |
+| Turbo Booster | 6.00% | ~134 |
+| Juiced Up | 6.00% | ~134 |
+| Squid Pro Quo | 6.00% | ~134 |
 | Hello Darkness My Old Friend | 5.00% | ~111 |
 | Counter-Sniper | 5.00% | ~111 |
 | Shrimp Cocktail | 5.00% | ~111 |
@@ -63,8 +63,8 @@ Rating: 4.25 (Ranked 891)
 | Loot, Pillage & Craft | 2.00% | ~44 |
 | Swiss Army Drone | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,224 (Ranked 228)  
-Completed: 13 (0.58%) (Ranked 201)  
+Progressed: 2,225 (Ranked 228)  
+Completed: 13 (0.58%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -238,6 +238,7 @@ Completed: 13 (0.58%) (Ranked 201)
 | 2023-12-09 | 2,222 | 13 |
 | 2023-12-10 | 2,223 | 13 |
 | 2023-12-11 | 2,224 | 13 |
+| 2023-12-14 | 2,225 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

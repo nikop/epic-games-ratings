@@ -5,7 +5,7 @@
   "Ranking_Rating": 84,
   "Ranking_Popularity": 563,
   "Ranking_PopularitySum": 563,
-  "Ranking_EOS_Progress": 264,
+  "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 127,
@@ -149,11 +149,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1136,
+  "EOS_Progressed": 1138,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.82,
+  "EOS_Completed_Percentage": 2.81,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3809,6 +3809,11 @@
       "Time": "2023-12-14T11:05:28.8051962+00:00",
       "NumProgressed": 1136,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-14T12:06:22.1737404+00:00",
+      "NumProgressed": 1138,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3827,9 +3832,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 750
+      "UsersEstimate": 762
     },
     {
       "ID": "_03_FinishAct1",
@@ -3837,7 +3842,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3845,7 +3850,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "_05_FinishAct2",
@@ -3861,7 +3866,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "_07_FinishAct3",
@@ -3869,7 +3874,7 @@
       "Name": "All Good Things",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "_08_Completion_10",
@@ -3877,7 +3882,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "_09_Completion_20",
@@ -3901,15 +3906,15 @@
       "Name": "Seadog",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "_12_Completion_50",
       "SetID": "8a1io5d",
       "Name": "Privateer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 102
     },
     {
       "ID": "_13_Completion_60",
@@ -3925,7 +3930,7 @@
       "Name": "Freebooter",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "_15_Completion_80",
@@ -3949,7 +3954,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3973,7 +3978,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -4005,7 +4010,7 @@
       "Name": "Jaded Judge",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -4028,7 +4033,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1136,
+      "Progressed": 1138,
       "Completed": 32
     }
   ],
@@ -4036,8 +4041,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:05:28.8051958+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:06:22.1737401+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:58:55.5055075+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:05:28.8052219+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:59:33.6681575+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:06:22.1737711+00:00"
 }

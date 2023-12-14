@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 78.00% | ~87 |
-| Wanderer | 76.00% | ~85 |
-| A piece of the story | 59.00% | ~66 |
-| Do what you have to | 46.00% | ~52 |
-| It's covered up for a reason | 45.00% | ~50 |
-| Scraps of love | 44.00% | ~49 |
-| The artist’s impression | 44.00% | ~49 |
-| Refuse to look | 38.00% | ~43 |
-| Sign of weakness | 38.00% | ~43 |
+| Something important | 77.00% | ~87 |
+| Wanderer | 75.00% | ~85 |
+| A piece of the story | 58.00% | ~66 |
+| Do what you have to | 45.00% | ~51 |
+| It's covered up for a reason | 44.00% | ~50 |
+| Scraps of love | 43.00% | ~49 |
+| The artist’s impression | 43.00% | ~49 |
+| Refuse to look | 37.00% | ~42 |
+| Sign of weakness | 37.00% | ~42 |
 | Finished it | 32.00% | ~36 |
-| Face your fears | 29.00% | ~32 |
+| Face your fears | 29.00% | ~33 |
 | Whispers long forgotten | 18.00% | ~20 |
 | Playtime | 14.00% | ~16 |
 | Tough conversation | 14.00% | ~16 |
-| A Slice of Life | 13.00% | ~15 |
 | Debut | 13.00% | ~15 |
-| First steps | 13.00% | ~15 |
 | The art of movement | 13.00% | ~15 |
 | The tragedy unfolds | 13.00% | ~15 |
-| A new way | 12.00% | ~13 |
-| Sound Bite | 12.00% | ~13 |
+| A new way | 12.00% | ~14 |
+| A Slice of Life | 12.00% | ~14 |
+| First steps | 12.00% | ~14 |
+| Sound Bite | 12.00% | ~14 |
 | Another perspective | 11.00% | ~12 |
 | Breaking free | 11.00% | ~12 |
 | Lights! Camera! Action! | 11.00% | ~12 |
@@ -33,11 +33,11 @@
 | Heavy Burden | 8.00% | ~9 |
 | Fisherman | 7.00% | ~8 |
 | We Are Not Alone | 5.00% | ~6 |
-| Something to think about | 4.00% | ~4 |
-| I remember It Like Was Yesterday | 4.00% | ~4 |
-| Body of Work | 4.00% | ~4 |
-| The Perfect Storm | 4.00% | ~4 |
-| Instinct of self-preservation | 4.00% | ~4 |
+| Something to think about | 4.00% | ~5 |
+| I remember It Like Was Yesterday | 4.00% | ~5 |
+| Body of Work | 4.00% | ~5 |
+| The Perfect Storm | 4.00% | ~5 |
+| Instinct of self-preservation | 4.00% | ~5 |
 | Dark correspondence | 3.00% | ~3 |
 | It was worth a try | 3.00% | ~3 |
 | Immortalized in my heart | 3.00% | ~3 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 112 (Ranked 438)  
+Progressed: 113 (Ranked 437)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,4 +109,4 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-08 | 107 | 0 |
 | 2023-12-09 | 108 | 0 |
 | 2023-12-13 | 109 | 0 |
-| 2023-12-14 | 112 | 0 |
+| 2023-12-14 | 113 | 0 |

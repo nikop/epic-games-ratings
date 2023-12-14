@@ -5,35 +5,35 @@ Rating: 4.81 (Ranked 84)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 66.00% | ~750 |
-| The Adventure Begins | 49.00% | ~557 |
-| Swabbie | 37.00% | ~420 |
-| With Great Power… | 37.00% | ~420 |
-| This Belongs in a Museum | 33.00% | ~375 |
+| A New Journey | 67.00% | ~762 |
+| The Adventure Begins | 49.00% | ~558 |
+| Swabbie | 37.00% | ~421 |
+| With Great Power… | 37.00% | ~421 |
+| This Belongs in a Museum | 33.00% | ~376 |
 | The Gambit Has Begun | 30.00% | ~341 |
 | Somewhere Deep in the Lost Caribbean | 27.00% | ~307 |
 | Powder Monkey | 27.00% | ~307 |
-| Mirror Mirror on the Wall | 26.00% | ~295 |
+| Mirror Mirror on the Wall | 26.00% | ~296 |
 | Pirates Assemble! | 24.00% | ~273 |
 | Buccaneer | 21.00% | ~239 |
-| Fishy Fish | 20.00% | ~227 |
-| All Good Things | 18.00% | ~204 |
+| Fishy Fish | 20.00% | ~228 |
+| All Good Things | 18.00% | ~205 |
 | Persistent Parasite | 16.00% | ~182 |
-| Seadog | 15.00% | ~170 |
-| Jaded Judge | 12.00% | ~136 |
+| Seadog | 15.00% | ~171 |
+| Jaded Judge | 12.00% | ~137 |
 | Rustic Recipe | 11.00% | ~125 |
-| Privateer | 10.00% | ~114 |
 | Tobacco Travesty | 10.00% | ~114 |
+| Privateer | 9.00% | ~102 |
 | Accursed Artifacts | 9.00% | ~102 |
 | Lyrical Longing | 9.00% | ~102 |
 | Fully Decked | 7.00% | ~80 |
 | Corsair | 6.00% | ~68 |
-| Freebooter | 4.00% | ~45 |
+| Freebooter | 4.00% | ~46 |
 | Marauder | 3.00% | ~34 |
 | Welcome Back Jester | 3.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,136 (Ranked 264)  
-Completed: 32 (2.82%) (Ranked 111)  
+Progressed: 1,138 (Ranked 263)  
+Completed: 32 (2.81%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -158,7 +158,7 @@ Completed: 32 (2.82%) (Ranked 111)
 | 2023-12-11 | 1,109 | 32 |
 | 2023-12-12 | 1,119 | 32 |
 | 2023-12-13 | 1,126 | 32 |
-| 2023-12-14 | 1,136 | 32 |
+| 2023-12-14 | 1,138 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

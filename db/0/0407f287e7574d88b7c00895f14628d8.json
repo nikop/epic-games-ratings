@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -275,9 +275,9 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 16,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "jk2",
@@ -307,9 +307,9 @@
       "ID": "jz2",
       "SetID": "b1ggf28",
       "Name": "Architect",
-      "Percentage": 16,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "jz3",
@@ -379,9 +379,9 @@
       "ID": "r2",
       "SetID": "b1ggf28",
       "Name": "A Welcoming Settlement",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "r3",
@@ -514,8 +514,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:04:00.8993014+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:04:30.0956887+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-14T11:01:27.5249638+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:04:00.8993399+00:00"
+  "LastUpdate_Ratings": "2023-12-14T12:03:19.2034417+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:04:30.0957273+00:00"
 }

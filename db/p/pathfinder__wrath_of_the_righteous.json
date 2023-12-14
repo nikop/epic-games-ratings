@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 130,
+  "Ranking_Rating": 131,
   "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 163,
@@ -4485,10 +4485,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7133,
       "NumberOfAwardsMax": 1759
+    },
+    {
+      "Time": "2023-12-14T11:59:03.9871767+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7134,
+      "NumberOfAwardsMax": 1759
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7133,
+  "NumberOfAwards": 7134,
   "NumberOfAwardsMax": 1759,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4508,7 +4514,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 659
+      "Count": 660
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4559,9 +4565,9 @@
       "Count": 400
     }
   ],
-  "EOS_Progressed": 12310,
+  "EOS_Progressed": 12312,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16809,6 +16815,11 @@
       "Time": "2023-12-14T11:09:45.4817563+00:00",
       "NumProgressed": 12310,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T12:10:57.8207344+00:00",
+      "NumProgressed": 12312,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -16836,7 +16847,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "04_FithCrusade",
@@ -16956,7 +16967,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "19_EqualToAroden",
@@ -17747,21 +17758,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11092,
+      "Progressed": 11094,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12310,
+      "Progressed": 12312,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-12-12T20:57:18.0259338+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:09:45.4817558+00:00",
+  "LastChanged": "2023-12-14T11:59:03.9871765+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:10:57.8207343+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:58:33.2647637+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:09:45.4819155+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:59:03.987177+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:10:57.8208846+00:00"
 }

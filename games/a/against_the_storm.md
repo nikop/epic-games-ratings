@@ -6,9 +6,9 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 4.00% | ~723 |
-| Overgrown Library | 4.00% | ~723 |
-| Petrified Necropolis | 4.00% | ~723 |
+| Abandoned Settlement | 4.00% | ~724 |
+| Overgrown Library | 4.00% | ~724 |
+| Petrified Necropolis | 4.00% | ~724 |
 | Frosts | 3.00% | ~543 |
 | Land of Greed | 3.00% | ~543 |
 | Ominous Presence | 3.00% | ~543 |
@@ -45,13 +45,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fishmen Ritual Site | 0.40% | ~72 |
 | Victory Through Prosperity | 0.40% | ~72 |
 | Defying the Crown | 0.40% | ~72 |
+| Into the Forest | 0.40% | ~72 |
 | Fox Utopia | 0.40% | ~72 |
 | Efficient Explorer | 0.30% | ~54 |
 | Refinery | 0.30% | ~54 |
 | Dangerous Lands | 0.30% | ~54 |
 | Forbidden Lands | 0.30% | ~54 |
 | Forsaken Gods Temple | 0.30% | ~54 |
-| Into the Forest | 0.30% | ~54 |
 | Feeding The People | 0.20% | ~36 |
 | Like a Machine | 0.20% | ~36 |
 | Paradise | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,084 (Ranked 147)  
+Progressed: 18,089 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 40 (0.22%) (Ranked 256)
 | 2023-12-11 | 17,957 | 41 |
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
-| 2023-12-14 | 18,084 | 40 |
+| 2023-12-14 | 18,089 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 226)  
 Sum: 3,258 (Ranked 175)  

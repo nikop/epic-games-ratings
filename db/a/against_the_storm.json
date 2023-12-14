@@ -3437,9 +3437,9 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 18084,
+  "EOS_Progressed": 18089,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": -6,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15662,6 +15662,11 @@
       "Time": "2023-12-14T11:03:54.3541877+00:00",
       "NumProgressed": 18084,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-14T12:04:21.6417436+00:00",
+      "NumProgressed": 18089,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16064,9 +16069,9 @@
       "ID": "Year1Dangerous",
       "SetID": "cfbk359",
       "Name": "Into the Forest",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 72
     },
     {
       "ID": "WinNearAbandoned",
@@ -16074,7 +16079,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "WinNearFrosts",
@@ -16098,7 +16103,7 @@
       "Name": "Overgrown Library",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "WinNearPetrified",
@@ -16106,7 +16111,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "WinNearPresence",
@@ -16145,15 +16150,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18084,
+      "Progressed": 18089,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-14T10:01:10.0204149+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:03:54.3541874+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:04:21.6417434+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-14T11:00:17.09565+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:03:54.3542994+00:00"
+  "LastUpdate_Ratings": "2023-12-14T12:01:18.0062968+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:04:21.6418366+00:00"
 }

@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,069 (Ranked 66)  
+Progressed: 240,090 (Ranked 66)  
 Completed: 2,524 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -791,7 +791,7 @@ Completed: 2,524 (1.05%) (Ranked 167)
 | 2023-12-11 | 239,456 | 2,517 |
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
-| 2023-12-14 | 240,069 | 2,524 |
+| 2023-12-14 | 240,090 | 2,524 |
 ## Awards
 Max (Great for Beginners): 5,624  (Ranked 70)  
 Sum: 32,852 (Ranked 41)  

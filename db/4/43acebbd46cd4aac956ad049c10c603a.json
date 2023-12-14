@@ -216,9 +216,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 960,
+  "EOS_Progressed": 962,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2436,6 +2436,11 @@
       "Time": "2023-12-14T11:06:19.5664466+00:00",
       "NumProgressed": 960,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T12:07:27.3218539+00:00",
+      "NumProgressed": 962,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2616,7 +2621,7 @@
       "Name": "Into the Machine",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "JustOneLap",
@@ -2630,9 +2635,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 192
     },
     {
       "ID": "LostMarshes",
@@ -2662,9 +2667,9 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 96
     },
     {
       "ID": "MuseumVisitor",
@@ -2792,7 +2797,7 @@
       "Name": "Team Spirit",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "TextAdventurer",
@@ -2806,9 +2811,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 115
     },
     {
       "ID": "TheEdgeOfForever",
@@ -2846,9 +2851,9 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 164
     },
     {
       "ID": "TheWordEndures",
@@ -2856,7 +2861,7 @@
       "Name": "The Word Endures",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "TouchGrass",
@@ -2904,7 +2909,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "YourBiggestFan",
@@ -2919,7 +2924,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 960,
+      "Progressed": 962,
       "Completed": 1
     }
   ],
@@ -2927,8 +2932,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-09T00:00:15.2378764+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:06:19.5664461+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:07:27.3218536+00:00",
   "LastUpdate_AppInfo": "2023-12-07T14:56:58.8410595+00:00",
-  "LastUpdate_Ratings": "2023-12-14T11:00:32.0057394+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:06:19.5664916+00:00"
+  "LastUpdate_Ratings": "2023-12-14T12:01:37.053403+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:07:27.3219002+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 317,
-  "Ranking_Popularity": 362,
+  "Ranking_Popularity": 363,
   "Ranking_PopularitySum": 294,
-  "Ranking_EOS_Progress": 186,
+  "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1443,9 +1443,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6326,
+  "EOS_Progressed": 6327,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14303,6 +14303,11 @@
       "Time": "2023-12-14T11:07:01.1471103+00:00",
       "NumProgressed": 6326,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-14T12:08:20.3919722+00:00",
+      "NumProgressed": 6327,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14392,9 +14397,9 @@
       "ID": "ACH_EP_CONCRETEBEACH",
       "SetID": "1p8ab95",
       "Name": "Of Seals And Men",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 569
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -14466,7 +14471,7 @@
       "Name": "The Governator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -14474,7 +14479,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4744
+      "UsersEstimate": 4745
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14633,15 +14638,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6326,
+      "Progressed": 6327,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-13T06:00:46.4990656+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:07:01.1471097+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:08:20.391972+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:43.3070216+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:57:45.6931737+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:07:01.1471976+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:58:00.503948+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:08:20.3920366+00:00"
 }

@@ -318,9 +318,9 @@
       "ID": "TOURN_PARTICIP_5",
       "SetID": "3448go",
       "Name": "Challenger",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TOURN_PARTICIP_60",
@@ -878,9 +878,9 @@
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "soccer_hattrick",
@@ -989,8 +989,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:03:59.2793075+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:04:28.1095482+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:19.378274+00:00",
-  "LastUpdate_Ratings": "2023-12-14T11:01:01.8459905+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:03:59.2794055+00:00"
+  "LastUpdate_Ratings": "2023-12-14T12:02:14.9935154+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:04:28.109635+00:00"
 }

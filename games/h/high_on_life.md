@@ -5,11 +5,11 @@ Rating: 4.65 (Ranked 317)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Satisfied Gus-tomer | 4.00% | ~987 |
-| Sweezy Like Sunday Morning | 4.00% | ~987 |
-| First Bounty Down | 4.00% | ~987 |
-| G3 Graduation | 4.00% | ~987 |
-| Cold-Blooded Driller | 4.00% | ~987 |
+| Satisfied Gus-tomer | 4.00% | ~988 |
+| Sweezy Like Sunday Morning | 4.00% | ~988 |
+| First Bounty Down | 4.00% | ~988 |
+| G3 Graduation | 4.00% | ~988 |
+| Cold-Blooded Driller | 4.00% | ~988 |
 | Creature Feature | 3.00% | ~741 |
 | Are You Packin'? | 3.00% | ~741 |
 | Bring A Knife to a Gun Fight | 3.00% | ~741 |
@@ -28,7 +28,7 @@ Rating: 4.65 (Ranked 317)
 | Series Wrap on Suit-O | 2.00% | ~494 |
 | Bathe With A Giant Nude Alien | 2.00% | ~40 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~20 |
-| Gunning For Your Job | 0.80% | ~197 |
+| Gunning For Your Job | 0.80% | ~198 |
 | Mux Ado About Shipping | 0.80% | ~16 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.70% | ~173 |
 | Fall In Love With A Parasite | 0.50% | ~10 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 317)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,687 (Ranked 137)  
+Progressed: 24,688 (Ranked 137)  
 Completed: 14 (0.06%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 14 (0.06%) (Ranked 316)
 | 2023-12-11 | 24,675 | 14 |
 | 2023-12-12 | 24,678 | 14 |
 | 2023-12-13 | 24,682 | 14 |
-| 2023-12-14 | 24,687 | 14 |
+| 2023-12-14 | 24,688 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

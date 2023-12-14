@@ -2,9 +2,9 @@
   "ID": "ddac88f4f58b4abc99644d6b529a16cd",
   "Name": "Aegis Descent",
   "ProductSlug": "aegis-descent-a1f5a0",
-  "Ranking_EOS_Progress": 332,
-  "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_Progress": 333,
+  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 426,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.24,
+  "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:10.7474299+00:00",
@@ -420,6 +420,11 @@
       "Time": "2023-12-08T07:03:45.2360601+00:00",
       "NumProgressed": 425,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T12:08:26.8853895+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -479,7 +484,7 @@
       "Name": "Death from Above",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "Award_DemolitionDerby",
@@ -503,7 +508,7 @@
       "Name": "DocKing",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "Award_EarlyBird",
@@ -543,7 +548,7 @@
       "Name": "Gunner",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Award_HalfwayThere",
@@ -583,7 +588,7 @@
       "Name": "Hull King",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Award_IntelKing",
@@ -607,7 +612,7 @@
       "Name": "Line of Duty",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -623,7 +628,7 @@
       "Name": "Mister Fix It",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Award_OP",
@@ -647,7 +652,7 @@
       "Name": "Perk King",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Award_Perky",
@@ -679,7 +684,7 @@
       "Name": "Scavenger",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Award_ShellShock",
@@ -687,7 +692,7 @@
       "Name": "Shell Shock",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Award_SixtySeconds",
@@ -695,7 +700,7 @@
       "Name": "Sixty Seconds",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Award_SoldierLockOn",
@@ -703,7 +708,7 @@
       "Name": "Hornet Lock On",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Award_Specialized",
@@ -711,7 +716,7 @@
       "Name": "Specialized",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Award_SplashDamage",
@@ -751,7 +756,7 @@
       "Name": "The First Step",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Award_ThirtyBirds",
@@ -782,7 +787,7 @@
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 426,
       "Completed": 1
     }
   ],
@@ -790,8 +795,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:07:06.3349108+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:08:26.8853893+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.6709481+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:57:55.9384882+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:07:06.3349597+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:58:15.0160868+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:08:26.88542+00:00"
 }

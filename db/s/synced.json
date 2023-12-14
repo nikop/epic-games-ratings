@@ -3,12 +3,12 @@
   "Name": "SYNCED",
   "ProductSlug": "synced",
   "Ranking_Rating": 961,
-  "Ranking_Popularity": 362,
-  "Ranking_PopularitySum": 342,
-  "Ranking_EOS_Progress": 104,
+  "Ranking_Popularity": 360,
+  "Ranking_PopularitySum": 341,
+  "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1231,18 +1231,24 @@
       "Rating": 4.15,
       "NumberOfAwards": 419,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2023-12-14T12:00:20.4484685+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 420,
+      "NumberOfAwardsMax": 105
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 419,
-  "NumberOfAwardsMax": 104,
+  "NumberOfAwards": 420,
+  "NumberOfAwardsMax": 105,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 104
+      "Count": 105
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1299,9 +1305,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 68638,
+  "EOS_Progressed": 68647,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -12539,6 +12545,11 @@
       "Time": "2023-12-14T11:05:58.7177037+00:00",
       "NumProgressed": 68638,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-14T12:07:00.9378468+00:00",
+      "NumProgressed": 68647,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -12551,7 +12562,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 24710
+      "UsersEstimate": 24713
     },
     {
       "ID": "10",
@@ -12591,7 +12602,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 4118
+      "UsersEstimate": 4119
     },
     {
       "ID": "15",
@@ -12615,7 +12626,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12355
+      "UsersEstimate": 12356
     },
     {
       "ID": "3",
@@ -12623,7 +12634,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8923
+      "UsersEstimate": 8924
     },
     {
       "ID": "4",
@@ -12631,7 +12642,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6864
+      "UsersEstimate": 6865
     },
     {
       "ID": "5",
@@ -12639,7 +12650,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5491
+      "UsersEstimate": 5492
     },
     {
       "ID": "6",
@@ -12647,7 +12658,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4118
+      "UsersEstimate": 4119
     },
     {
       "ID": "7",
@@ -12678,16 +12689,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 68638,
+      "Progressed": 68647,
       "Completed": 39
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-12-14T10:59:32.2916661+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:05:58.7177033+00:00",
+  "LastChanged": "2023-12-14T12:00:20.4484683+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:07:00.9378465+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:19.3364255+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:59:32.2916666+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:05:58.717768+00:00"
+  "LastUpdate_Ratings": "2023-12-14T12:00:20.4484689+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:07:00.9379106+00:00"
 }

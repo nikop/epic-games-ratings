@@ -1607,9 +1607,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 16642,
+  "EOS_Progressed": 16647,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -9587,6 +9587,11 @@
       "Time": "2023-12-14T11:09:00.9181455+00:00",
       "NumProgressed": 16642,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-12-14T12:10:01.5163555+00:00",
+      "NumProgressed": 16647,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 47,
@@ -9630,7 +9635,7 @@
       "Name": "Flesh Wound",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -9702,7 +9707,7 @@
       "Name": "Get a Grip",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -9758,7 +9763,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -9958,7 +9963,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -9973,13 +9978,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16642,
+      "Progressed": 16647,
       "Completed": 81
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4568,
+      "Progressed": 4573,
       "Completed": 29
     }
   ],
@@ -9987,8 +9992,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-14T00:03:13.1702206+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:09:00.9181452+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:10:01.5163553+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.8352858+00:00",
-  "LastUpdate_Ratings": "2023-12-14T11:03:33.3336321+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:09:00.9182017+00:00"
+  "LastUpdate_Ratings": "2023-12-14T12:03:52.2761498+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:10:01.5164144+00:00"
 }

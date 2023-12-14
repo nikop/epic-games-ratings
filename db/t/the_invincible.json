@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -1690,9 +1690,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 278
     },
     {
       "ID": "AchvAllMemories",
@@ -1794,9 +1794,9 @@
       "ID": "AchvLava",
       "SetID": "1hj060c",
       "Name": "Volcanologist",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 122
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -1842,9 +1842,9 @@
       "ID": "AchvPing",
       "SetID": "1hj060c",
       "Name": "Got lost again",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 29
     },
     {
       "ID": "AchvPutAsleep",
@@ -1874,9 +1874,9 @@
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 255
     },
     {
       "ID": "AchvReachCondor",
@@ -1929,8 +1929,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:09:08.8200499+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:10:11.4983715+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.1415487+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:59:55.8022744+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:09:08.8200703+00:00"
+  "LastUpdate_Ratings": "2023-12-14T12:00:50.7796886+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:10:11.4983961+00:00"
 }

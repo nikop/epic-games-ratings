@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -784,6 +784,11 @@
       "Time": "2023-12-01T12:08:05.3588164+00:00",
       "NumProgressed": 166,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T12:05:36.9512997+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -809,9 +814,9 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 89
     },
     {
       "ID": "CollectCurses",
@@ -851,7 +856,7 @@
       "Name": "First Blood",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "FirstBoss",
@@ -859,7 +864,7 @@
       "Name": "Scull",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "FirstStep",
@@ -913,9 +918,9 @@
       "ID": "Persistence",
       "SetID": "7g1kpc8",
       "Name": "Persistence",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "ReturnShell",
@@ -954,14 +959,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:04:53.6237143+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:05:36.9512994+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:01.627413+00:00",
-  "LastUpdate_Ratings": "2023-12-14T11:00:29.1774578+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:04:53.6237503+00:00"
+  "LastUpdate_Ratings": "2023-12-14T12:01:33.1316123+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:05:36.9513205+00:00"
 }

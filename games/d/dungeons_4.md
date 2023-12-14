@@ -28,8 +28,8 @@
 | The Cathedral of Light | 47.00% | ~258 |
 | Shame! Shame! Shame! | 47.00% | ~258 |
 | Pure Dynamite! | 46.00% | ~253 |
+| Dungeonlord Gorgu | 46.00% | ~253 |
 | Tanos' Crusade Against Thalya | 46.00% | ~253 |
-| Dungeonlord Gorgu | 45.00% | ~247 |
 | Mana Cannon | 42.00% | ~231 |
 | All’s Well That Ends Evil | 40.00% | ~220 |
 | Master of the Undead | 35.00% | ~192 |
@@ -64,7 +64,7 @@
 | Hands Off My Stones | 11.00% | ~60 |
 | Gorgu is in the Best of Health | 10.00% | ~55 |
 | No Mana, No Cry | 9.00% | ~49 |
-| I Don't Need Any Help | 7.00% | ~38 |
+| I Don't Need Any Help | 8.00% | ~44 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 549 (Ranked 312)  
 Completed: 15 (2.73%) (Ranked 115)  

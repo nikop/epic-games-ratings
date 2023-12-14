@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24687,
+  "EOS_Progressed": 24688,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7474,6 +7474,11 @@
       "Time": "2023-12-14T10:06:08.2594098+00:00",
       "NumProgressed": 24687,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-14T12:06:02.3364557+00:00",
+      "NumProgressed": 24688,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -7533,7 +7538,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -7573,7 +7578,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -7613,7 +7618,7 @@
       "Name": "First Bounty Down",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -7621,7 +7626,7 @@
       "Name": "G3 Graduation",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -7645,7 +7650,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -7685,7 +7690,7 @@
       "Name": "Gunning For Your Job",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_MOVIE_THEATER",
@@ -7836,13 +7841,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24687,
+      "Progressed": 24688,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1980,
+      "Progressed": 1981,
       "Completed": 1376
     }
   ],
@@ -7850,8 +7855,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-09T22:00:53.8203021+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:05:13.4304263+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:06:02.3364555+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:15.2959428+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:58:54.1878596+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:05:13.4305132+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:59:31.9169054+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:06:02.336519+00:00"
 }

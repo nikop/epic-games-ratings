@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Clean Sweep | 94.00% | ~400 |
-| Scavenger | 73.00% | ~310 |
-| Line of Duty | 72.00% | ~306 |
-| Gunner | 57.00% | ~242 |
-| DocKing | 45.00% | ~191 |
+| Scavenger | 73.00% | ~311 |
+| Line of Duty | 72.00% | ~307 |
+| Gunner | 57.00% | ~243 |
+| DocKing | 45.00% | ~192 |
 | What-A-Shot | 44.00% | ~187 |
 | Batteries Included | 38.00% | ~162 |
-| Death from Above | 34.00% | ~144 |
-| Hull King | 26.00% | ~110 |
+| Death from Above | 34.00% | ~145 |
+| Hull King | 26.00% | ~111 |
 | Boss Down | 19.00% | ~81 |
 | Extra Ammo | 19.00% | ~81 |
 | Splash Damage | 19.00% | ~81 |
@@ -20,8 +20,8 @@
 | Perky | 15.00% | ~64 |
 | Salvage | 11.00% | ~47 |
 | Shocking | 11.00% | ~47 |
-| Perk King | 10.00% | ~42 |
-| Sixty Seconds | 10.00% | ~42 |
+| Perk King | 10.00% | ~43 |
+| Sixty Seconds | 10.00% | ~43 |
 | Perfect Timing | 9.00% | ~38 |
 | Killer Elite | 6.00% | ~26 |
 | OP | 5.00% | ~21 |
@@ -31,11 +31,11 @@
 | First Victory | 4.00% | ~17 |
 | Thirty Birds... | 4.00% | ~17 |
 | Swiss Cheese | 3.00% | ~13 |
-| Mister Fix It | 2.00% | ~8 |
-| Shell Shock | 2.00% | ~8 |
-| Hornet Lock On | 2.00% | ~8 |
-| Specialized | 2.00% | ~8 |
-| The First Step | 2.00% | ~8 |
+| Mister Fix It | 2.00% | ~9 |
+| Shell Shock | 2.00% | ~9 |
+| Hornet Lock On | 2.00% | ~9 |
+| Specialized | 2.00% | ~9 |
+| The First Step | 2.00% | ~9 |
 | Having a Blast | 1.00% | ~4 |
 | Heavy Metal | 1.00% | ~4 |
 | Power Up | 1.00% | ~4 |
@@ -49,8 +49,8 @@
 | Burn Them | 0.20% | ~1 |
 | Final Ascension | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 332)  
-Completed: 1 (0.24%) (Ranked 252)  
+Progressed: 426 (Ranked 333)  
+Completed: 1 (0.23%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,6 +112,7 @@ Completed: 1 (0.24%) (Ranked 252)
 | 2023-11-26 | 423 | 1 |
 | 2023-11-27 | 424 | 1 |
 | 2023-12-08 | 425 | 1 |
+| 2023-12-14 | 426 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

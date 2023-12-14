@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 149,
-  "EOS_Completed": 68,
+  "EOS_Completed": 69,
   "EOS_NewPlayers": 6,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 45.64,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 46.31,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -1039,6 +1039,11 @@
       "Time": "2023-12-14T11:08:35.4569768+00:00",
       "NumProgressed": 149,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-12-14T12:09:28.7473805+00:00",
+      "NumProgressed": 149,
+      "NumCompleted": 69
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -1049,9 +1054,9 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 80,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "Intro",
@@ -1155,13 +1160,13 @@
       "ID": "823jm6g",
       "IsBase": true,
       "Progressed": 149,
-      "Completed": 68
+      "Completed": 69
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:08:35.4569764+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:09:28.7473801+00:00",
   "LastUpdate_AppInfo": "2023-12-09T04:57:13.4423151+00:00",
-  "LastUpdate_Ratings": "2023-12-14T11:01:26.978645+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:08:35.4569927+00:00"
+  "LastUpdate_Ratings": "2023-12-14T12:03:18.6044252+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:09:28.7473954+00:00"
 }

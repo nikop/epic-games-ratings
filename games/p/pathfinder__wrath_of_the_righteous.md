@@ -1,7 +1,7 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 130)  
+Rating: 4.76 (Ranked 131)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,8 +10,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Spark | 19.00% | ~2,339 |
 | Burning City | 18.00% | ~2,216 |
 | Defender's Heart | 16.00% | ~1,970 |
-| Mythic Choices | 15.00% | ~1,846 |
-| Banner over the Citadel | 14.00% | ~1,723 |
+| Mythic Choices | 15.00% | ~1,847 |
+| Banner over the Citadel | 14.00% | ~1,724 |
 | Queen's Gratitude | 12.00% | ~1,477 |
 | Fifth Crusade | 9.00% | ~1,108 |
 | Embrace of the Abyss | 7.00% | ~862 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,310 (Ranked 163)  
+Progressed: 12,312 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -361,15 +361,15 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 12,286 | 0 |
 | 2023-12-12 | 12,291 | 0 |
 | 2023-12-13 | 12,300 | 0 |
-| 2023-12-14 | 12,310 | 0 |
+| 2023-12-14 | 12,312 | 0 |
 ## Awards
 Max (Character Customization): 1,759  (Ranked 123)  
-Sum: 7,133 (Ranked 122)  
+Sum: 7,134 (Ranked 122)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,759 |
-| This game is Extremely Fun | 659 |
+| This game is Extremely Fun | 660 |
 | This game is Highly Recommended | 654 |
 | This game has Diverse Characters | 650 |
 | This game has Amazing Characters | 645 |
@@ -672,3 +672,4 @@ Diff (max vs sum): 1
 | 2023-12-10 | 4.76 | - | 1,759 | 7,126 |
 | 2023-12-11 | 4.76 | - | 1,759 | 7,131 |
 | 2023-12-12 | 4.76 | - | 1,759 | 7,133 |
+| 2023-12-14 | 4.76 | - | 1,759 | 7,134 |

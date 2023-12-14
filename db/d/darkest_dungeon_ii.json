@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9598,10 +9598,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20380,
       "NumberOfAwardsMax": 7689
+    },
+    {
+      "Time": "2023-12-14T12:01:24.8153284+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20385,
+      "NumberOfAwardsMax": 7689
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20380,
+  "NumberOfAwards": 20385,
   "NumberOfAwardsMax": 7689,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9645,7 +9651,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1437
+      "Count": 1442
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9678,9 +9684,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126882,
+  "EOS_Progressed": 126901,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1139,
+  "EOS_NewPlayers": 1158,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34963,6 +34969,11 @@
       "Time": "2023-12-14T11:08:52.3652904+00:00",
       "NumProgressed": 126882,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T12:09:50.1947335+00:00",
+      "NumProgressed": 126901,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35006,7 +35017,7 @@
       "Name": "Resurrection",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -35014,7 +35025,7 @@
       "Name": "Unleash Hell",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -35022,7 +35033,7 @@
       "Name": "Funny Guy",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -35030,7 +35041,7 @@
       "Name": "Long Live the King",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -35038,7 +35049,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -35046,7 +35057,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -35054,7 +35065,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -35342,7 +35353,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -35374,7 +35385,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -35430,7 +35441,7 @@
       "Name": "Unshackled",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "run_victory_act02",
@@ -35605,21 +35616,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126882,
+      "Progressed": 126901,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1751,
+      "Progressed": 1770,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-14T05:00:52.0976777+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:08:52.3652899+00:00",
+  "LastChanged": "2023-12-14T12:01:24.8153283+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:09:50.1947331+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T11:00:22.4462575+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:08:52.3654362+00:00"
+  "LastUpdate_Ratings": "2023-12-14T12:01:24.8153288+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:09:50.1948772+00:00"
 }

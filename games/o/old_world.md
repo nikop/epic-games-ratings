@@ -132,11 +132,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 1.00% | ~158 |
 | Turreted Elephant | 1.00% | ~158 |
 | Ambition Victory | 1.00% | ~158 |
+| Poetic Leader | 1.00% | ~158 |
 | Noble Difficulty | 0.90% | ~142 |
 | Cao'an | 0.90% | ~142 |
 | Adur Burzen-Mihr | 0.90% | ~142 |
 | All Nations | 0.90% | ~142 |
-| Poetic Leader | 0.90% | ~142 |
 | Ishtar Gate in Babylon | 0.80% | ~126 |
 | Peacemaker | 0.80% | ~126 |
 | Learn to Play 5 | 0.80% | ~126 |
@@ -201,6 +201,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 1 - Able | 0.20% | ~32 |
 | Macedonian Wars | 0.20% | ~32 |
 | Realistic Mortality | 0.20% | ~32 |
+| Play a Hotseat Game | 0.20% | ~32 |
 | Play a MP Teams Game | 0.20% | ~32 |
 | Punic Wars | 0.20% | ~32 |
 | Word of God | 0.20% | ~32 |
@@ -288,7 +289,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids in Menefer | 0.10% | ~16 |
 | Merchants of the Levant | 0.10% | ~16 |
 | Play a 1-v-1 Game | 0.10% | ~16 |
-| Play a Hotseat Game | 0.10% | ~16 |
 | Play a LAN Game | 0.10% | ~16 |
 | Play a Play-By-Cloud Game | 0.10% | ~16 |
 | Colossus in Rhodes | 0.10% | ~16 |

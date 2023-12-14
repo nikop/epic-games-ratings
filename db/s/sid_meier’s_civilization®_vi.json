@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewPlayers": 481,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-05-21T15:00:00+00:00",
@@ -14729,10 +14729,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 346340,
       "NumberOfAwardsMax": 43483
+    },
+    {
+      "Time": "2023-12-14T12:00:14.4165505+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 346458,
+      "NumberOfAwardsMax": 43483
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 346340,
+  "NumberOfAwards": 346458,
   "NumberOfAwardsMax": 43483,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -14782,25 +14788,25 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 34196
+      "Count": 34230
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 31096
+      "Count": 31127
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 29988
+      "Count": 30012
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 24191
+      "Count": 24220
     }
   ],
   "EOS_Progressed": 0,
@@ -14814,8 +14820,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2023-12-14T04:59:38.9283778+00:00",
+  "LastChanged": "2023-12-14T12:00:14.4165503+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:44.2411723+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:59:27.663896+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:04:55.3282453+00:00"
+  "LastUpdate_Ratings": "2023-12-14T12:00:14.4165508+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:05:39.1778924+00:00"
 }

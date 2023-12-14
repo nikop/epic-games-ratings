@@ -30,7 +30,7 @@ Rating: 4.50 (Ranked 599)
 | Brain and Brawn | 12.00% | ~53 |
 | Strength and Sorcery | 10.00% | ~44 |
 | Omae Wa Mou Shindeiru | 8.00% | ~35 |
-| Experimentalist | 7.00% | ~31 |
+| Experimentalist | 8.00% | ~35 |
 | Soldier | 7.00% | ~31 |
 | Wide Selection | 6.00% | ~26 |
 | Android Power | 6.00% | ~26 |
@@ -42,7 +42,7 @@ Rating: 4.50 (Ranked 599)
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 440 (Ranked 329)  
-Completed: 1 (0.23%) (Ranked 254)  
+Completed: 1 (0.23%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

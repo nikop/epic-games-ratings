@@ -7,11 +7,11 @@
 | Marc Allard | 78.00% | ~32 |
 | Little ideas | 71.00% | ~29 |
 | The Ship | 68.00% | ~28 |
-| Seeking the truth | 56.00% | ~23 |
-| An old friend | 54.00% | ~22 |
-| The Gala | 51.00% | ~21 |
-| A curious gathering | 51.00% | ~21 |
-| Little grey cells | 49.00% | ~20 |
+| Seeking the truth | 59.00% | ~24 |
+| An old friend | 56.00% | ~23 |
+| The Gala | 54.00% | ~22 |
+| A curious gathering | 54.00% | ~22 |
+| Little grey cells | 51.00% | ~21 |
 | Impossible is possible | 49.00% | ~20 |
 | The Missing Magdalene | 49.00% | ~20 |
 | Arthur Hastings | 49.00% | ~20 |
@@ -52,7 +52,7 @@
 | Perkins | 7.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 41 (Ranked 529)  
-Completed: 1 (2.44%) (Ranked 125)  
+Completed: 1 (2.44%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80555,
+  "EOS_Progressed": 80556,
   "EOS_Completed": 877,
-  "EOS_NewPlayers": 570,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -26613,6 +26613,11 @@
       "Time": "2023-12-14T11:03:57.5781615+00:00",
       "NumProgressed": 80555,
       "NumCompleted": 877
+    },
+    {
+      "Time": "2023-12-14T12:04:25.7710974+00:00",
+      "NumProgressed": 80556,
+      "NumCompleted": 877
     }
   ],
   "TotalAchievements": 25,
@@ -26640,7 +26645,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15305
+      "UsersEstimate": 15306
     },
     {
       "ID": "Audiophile",
@@ -26744,7 +26749,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15305
+      "UsersEstimate": 15306
     },
     {
       "ID": "Nice Try",
@@ -26823,7 +26828,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 80555,
+      "Progressed": 80556,
       "Completed": 877
     }
   ],
@@ -26831,8 +26836,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:03:57.5781611+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:04:25.7710971+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:29.3194806+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:57:21.1047727+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:03:57.5783092+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:57:27.53955+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:04:25.7712074+00:00"
 }

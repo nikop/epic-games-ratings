@@ -4,7 +4,7 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -202,9 +202,9 @@
       "ID": "ach_picklock10",
       "SetID": "753ghg2",
       "Name": "Pizza time",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 45,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_picklock11",
@@ -266,9 +266,9 @@
       "ID": "ach_picklock18",
       "SetID": "753ghg2",
       "Name": "Clothing store",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_picklock19",
@@ -290,9 +290,9 @@
       "ID": "ach_picklock20",
       "SetID": "753ghg2",
       "Name": "Pub",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_picklock21",
@@ -393,8 +393,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:09:41.4137493+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:10:52.8571616+00:00",
   "LastUpdate_AppInfo": "2023-12-13T08:56:58.7290951+00:00",
-  "LastUpdate_Ratings": "2023-12-14T11:03:20.4840973+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:09:41.4137648+00:00"
+  "LastUpdate_Ratings": "2023-12-14T12:03:34.2997626+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:10:52.8571751+00:00"
 }

@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 93.00% | ~25,164 |
-| Grim Reaper | 73.00% | ~19,752 |
-| Enemy Attrition | 73.00% | ~19,752 |
-| Heads Down | 71.00% | ~19,211 |
-| Not On My Watch | 68.00% | ~18,399 |
-| Combat Engineer | 51.00% | ~13,800 |
-| Eager Beaver | 46.00% | ~12,447 |
-| Call ’em in! | 41.00% | ~11,094 |
-| Lovely | 37.00% | ~10,011 |
-| Elite | 25.00% | ~6,764 |
-| Store fuglar fanga ingi flugor | 24.00% | ~6,494 |
-| Ou La Mort | 22.00% | ~5,953 |
-| Fender Bender | 16.00% | ~4,329 |
-| Globetrotter | 12.00% | ~3,247 |
-| Jack of All Trades | 11.00% | ~2,976 |
-| Storyteller | 7.00% | ~1,894 |
-| Death from Above | 4.00% | ~1,082 |
-| Off-hand | 4.00% | ~1,082 |
-| Veteran | 1.00% | ~271 |
-| Hoist the Flag | 0.50% | ~135 |
-| Sins of the Fathers | 0.40% | ~108 |
+| Last Man Standing | 93.00% | ~25,631 |
+| Enemy Attrition | 73.00% | ~20,119 |
+| Grim Reaper | 72.00% | ~19,843 |
+| Heads Down | 71.00% | ~19,568 |
+| Not On My Watch | 68.00% | ~18,741 |
+| Combat Engineer | 51.00% | ~14,056 |
+| Eager Beaver | 45.00% | ~12,402 |
+| Call ’em in! | 40.00% | ~11,024 |
+| Lovely | 36.00% | ~9,922 |
+| Elite | 24.00% | ~6,614 |
+| Store fuglar fanga ingi flugor | 24.00% | ~6,614 |
+| Ou La Mort | 22.00% | ~6,063 |
+| Fender Bender | 15.00% | ~4,134 |
+| Globetrotter | 12.00% | ~3,307 |
+| Jack of All Trades | 11.00% | ~3,032 |
+| Storyteller | 7.00% | ~1,929 |
+| Death from Above | 4.00% | ~1,102 |
+| Off-hand | 4.00% | ~1,102 |
+| Veteran | 1.00% | ~276 |
+| Hoist the Flag | 0.50% | ~138 |
+| Sins of the Fathers | 0.40% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,058 (Ranked 132)  
+Progressed: 27,560 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,4 +115,4 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 24,888 | 0 |
 | 2023-12-12 | 24,993 | 0 |
 | 2023-12-13 | 25,198 | 0 |
-| 2023-12-14 | 27,058 | 0 |
+| 2023-12-14 | 27,560 | 0 |

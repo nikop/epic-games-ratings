@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 32.00% | ~278 |
-| Challenge Accepted | 27.00% | ~234 |
-| Terminated I | 27.00% | ~234 |
+| Augmented | 33.00% | ~287 |
+| Challenge Accepted | 27.00% | ~235 |
+| Terminated I | 27.00% | ~235 |
 | Nanonic I | 25.00% | ~217 |
 | Unlocked and Loaded | 25.00% | ~217 |
 | Terminated II | 21.00% | ~182 |
@@ -14,13 +14,13 @@
 | Challenge Mastered | 16.00% | ~139 |
 | Terminated III | 16.00% | ~139 |
 | Nanonic II | 13.00% | ~113 |
-| Fully Modded | 11.00% | ~95 |
-| Supply Run | 11.00% | ~95 |
+| Fully Modded | 11.00% | ~96 |
+| Supply Run | 11.00% | ~96 |
 | Starship Docks | 10.00% | ~87 |
 | Nanonic III | 10.00% | ~87 |
-| The Bigger They Are | 8.00% | ~69 |
-| Cybernetic | 8.00% | ~69 |
-| Rookie | 8.00% | ~69 |
+| The Bigger They Are | 8.00% | ~70 |
+| Cybernetic | 8.00% | ~70 |
+| Rookie | 8.00% | ~70 |
 | Eden Heights | 6.00% | ~52 |
 | Up Close And Personal | 6.00% | ~52 |
 | Outer Core | 5.00% | ~43 |
@@ -34,7 +34,7 @@
 | Cyborg | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 868 (Ranked 278)  
+Progressed: 869 (Ranked 278)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 862 | 0 |
 | 2023-12-12 | 865 | 0 |
 | 2023-12-13 | 867 | 0 |
-| 2023-12-14 | 868 | 0 |
+| 2023-12-14 | 869 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

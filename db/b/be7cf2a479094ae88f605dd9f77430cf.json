@@ -2,9 +2,9 @@
   "ID": "be7cf2a479094ae88f605dd9f77430cf",
   "Name": "Asterix and Obelix Heroes",
   "ProductSlug": "asterix-and-obelix-heroes",
-  "Ranking_EOS_Progress": 578,
+  "Ranking_EOS_Progress": 579,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -135,17 +135,17 @@
       "ID": "1",
       "SetID": "5jnn47e",
       "Name": "First Steps of a long journey",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "10",
       "SetID": "5jnn47e",
       "Name": "Play with fire",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "11",
@@ -183,9 +183,9 @@
       "ID": "15",
       "SetID": "5jnn47e",
       "Name": "Most beautiful",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "16",
@@ -303,9 +303,9 @@
       "ID": "9",
       "SetID": "5jnn47e",
       "Name": "Nothing is holding you back",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "26",
@@ -358,8 +358,8 @@
   ],
   "FirstSeen": "2023-11-22T17:57:35.5239648+00:00",
   "FirstSeenAchievements": "2023-10-05T17:02:30.1575422+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:05:20.4705023+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:06:11.5914534+00:00",
   "LastUpdate_AppInfo": "2023-12-07T20:57:06.0824709+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:58:47.3782026+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:05:20.4705196+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:59:23.1607702+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:06:11.5914666+00:00"
 }

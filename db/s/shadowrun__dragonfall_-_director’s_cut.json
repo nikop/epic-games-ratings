@@ -4,10 +4,10 @@
   "ProductSlug": "shadowrun-dragonfall",
   "Ranking_Rating": 516,
   "Ranking_Popularity": 369,
-  "Ranking_PopularitySum": 455,
+  "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewPlayers": 481,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-08-27T15:00:00+00:00",
@@ -554,6 +554,6 @@
   "FirstSeen": "2022-07-22T20:27:02.9464373+00:00",
   "LastChanged": "2023-11-29T21:00:21.3511861+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:58.0592228+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:57:34.4928074+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:04:08.2248165+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:57:44.8646963+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:04:39.5091122+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 147,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 49,
+  "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
@@ -7405,10 +7405,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4604,
       "NumberOfAwardsMax": 600
+    },
+    {
+      "Time": "2023-12-14T12:01:31.8882703+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4605,
+      "NumberOfAwardsMax": 600
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4604,
+  "NumberOfAwards": 4605,
   "NumberOfAwardsMax": 600,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7470,7 +7476,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 356
+      "Count": 357
     },
     {
       "Text": "This game is Educational",
@@ -7479,7 +7485,7 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 203063,
+  "EOS_Progressed": 203079,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 1975,
   "EOS_NewCompleters": 0,
@@ -34709,6 +34715,11 @@
       "Time": "2023-12-14T11:09:23.7706423+00:00",
       "NumProgressed": 203063,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-14T12:10:30.2724097+00:00",
+      "NumProgressed": 203079,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -34720,7 +34731,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 4061
+      "UsersEstimate": 4062
     },
     {
       "ID": "Achievement_1",
@@ -34752,7 +34763,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 32490
+      "UsersEstimate": 32493
     },
     {
       "ID": "Achievement_13",
@@ -34800,7 +34811,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 50766
+      "UsersEstimate": 50770
     },
     {
       "ID": "Achievement_5",
@@ -34808,7 +34819,7 @@
       "Name": "Iron Bars",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 4061
+      "UsersEstimate": 4062
     },
     {
       "ID": "Achievement_6",
@@ -34832,7 +34843,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 18276
+      "UsersEstimate": 18277
     },
     {
       "ID": "Achievement_9",
@@ -34840,22 +34851,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10153
+      "UsersEstimate": 10154
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 203063,
+      "Progressed": 203079,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-12-14T04:00:15.4650544+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:09:23.7706419+00:00",
+  "LastChanged": "2023-12-14T12:01:31.8882701+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:10:30.2724094+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:07.4120655+00:00",
-  "LastUpdate_Ratings": "2023-12-14T11:00:28.233533+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:09:23.7707607+00:00"
+  "LastUpdate_Ratings": "2023-12-14T12:01:31.8882705+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:10:30.2725196+00:00"
 }

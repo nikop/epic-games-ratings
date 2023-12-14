@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23913,
+  "EOS_Progressed": 23948,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10480,6 +10480,11 @@
       "Time": "2023-12-14T11:09:28.344598+00:00",
       "NumProgressed": 23913,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-14T12:10:36.3899884+00:00",
+      "NumProgressed": 23948,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10499,7 +10504,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "AllEquipment",
@@ -10523,7 +10528,7 @@
       "Name": "Pillow Investments",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "AllScarsBronze",
@@ -10539,7 +10544,7 @@
       "Name": "Looks Familiar",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -10547,7 +10552,7 @@
       "Name": "For Justice",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "BossBridgeDefeated",
@@ -10555,7 +10560,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -10563,7 +10568,7 @@
       "Name": "For Glory",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "BossCastleDefeated",
@@ -10571,7 +10576,7 @@
       "Name": "Spells and Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -10587,7 +10592,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -10619,7 +10624,7 @@
       "Name": "Harvest and Home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -10651,7 +10656,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -10667,7 +10672,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "BoxerBoss",
@@ -10683,7 +10688,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "EndTimerFail",
@@ -10739,7 +10744,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "PrequelReveal",
@@ -10802,21 +10807,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23913,
+      "Progressed": 23948,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2843,
+      "Progressed": 2878,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:09:28.3445977+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:10:36.3899881+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:17.8828255+00:00",
-  "LastUpdate_Ratings": "2023-12-14T10:59:05.0749111+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:09:28.3446525+00:00"
+  "LastUpdate_Ratings": "2023-12-14T11:59:45.8551675+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:10:36.390044+00:00"
 }

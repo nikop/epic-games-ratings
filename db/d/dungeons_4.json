@@ -4,8 +4,8 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1702,9 +1702,9 @@
       "ID": "ach_main09journey_killheroes",
       "SetID": "4hg22ll",
       "Name": "Dungeonlord Gorgu",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 253
     },
     {
       "ID": "ach_main09journey_nospells",
@@ -1966,9 +1966,9 @@
       "ID": "ach_main20end_notristan",
       "SetID": "4hg22ll",
       "Name": "I Don\u0027t Need Any Help",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 44
     },
     {
       "ID": "ach_main20end_spawners",
@@ -1989,8 +1989,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-14T11:05:54.7128332+00:00",
+  "LastChanged_Achievements": "2023-12-14T12:06:55.8189523+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-14T11:01:12.3409285+00:00",
-  "LastUpdate_Achievements": "2023-12-14T11:05:54.7128754+00:00"
+  "LastUpdate_Ratings": "2023-12-14T12:02:28.6518227+00:00",
+  "LastUpdate_Achievements": "2023-12-14T12:06:55.8189933+00:00"
 }
