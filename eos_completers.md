@@ -5,8 +5,8 @@
 | 1 | [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](games/6/6416a7e47acb440da6f7fc0eff798318.md) | 100.00% |
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
 | 5 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 55.56% |
-| 6 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.69% |
-| 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.21% |
+| 6 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.90% |
+| 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.69% |
 | 8 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 38.36% |
 | 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 37.67% |
@@ -56,7 +56,7 @@
 | 51 | [Ravenlok](games/r/ravenlok.md) | 7.69% |
 | 55 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.46% |
 | 56 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.45% |
-| 57 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.30% |
+| 57 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.29% |
 | 58 | [Scorn](games/s/scorn.md) | 7.18% |
 | 59 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 7.14% |
 | 60 | [Time Loader](games/t/time_loader.md) | 7.03% |
@@ -67,11 +67,11 @@
 | 65 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.36% |
 | 66 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 67 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
-| 68 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 5.88% |
-| 69 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.67% |
-| 71 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
-| 71 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
+| 68 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
+| 69 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.65% |
+| 70 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 5.56% |
+| 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
+| 70 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 73 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.41% |
 | 74 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.36% |
 | 75 | [JARS](games/j/jars.md) | 4.90% |
@@ -110,7 +110,7 @@
 | 107 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 109 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 110 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.92% |
-| 111 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.84% |
+| 111 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.83% |
 | 112 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
 | 113 | [Night Book](games/n/night_book.md) | 2.77% |
 | 114 | [Dungeons 4](games/d/dungeons_4.md) | 2.75% |
@@ -158,9 +158,9 @@
 | 156 | [Ten Dates](games/t/ten_dates.md) | 1.24% |
 | 157 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.23% |
 | 158 | [Iron Danger](games/i/iron_danger.md) | 1.22% |
-| 159 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.21% |
-| 160 | [The Devil's Face](games/t/the_devil's_face.md) | 1.20% |
-| 160 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.20% |
+| 159 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.20% |
+| 159 | [The Devil's Face](games/t/the_devil's_face.md) | 1.20% |
+| 159 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.20% |
 | 162 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.19% |
 | 163 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.18% |
 | 163 | [Lemon Cake](games/l/lemon_cake.md) | 1.18% |
@@ -204,10 +204,10 @@
 | 201 | [The Surge 2](games/t/the_surge_2.md) | 0.58% |
 | 203 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 204 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.54% |
-| 204 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.54% |
 | 204 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
 | 204 | [Tails of Iron](games/t/tails_of_iron.md) | 0.54% |
 | 204 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.54% |
+| 208 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.53% |
 | 209 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.52% |
 | 210 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.50% |
 | 210 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.50% |
@@ -265,16 +265,16 @@
 | 262 | [Lost Ruins](games/l/lost_ruins.md) | 0.20% |
 | 262 | [Scrapnaut](games/s/scrapnaut.md) | 0.20% |
 | 262 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
+| 266 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.19% |
 | 266 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.19% |
 | 266 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
 | 266 | [GRIME](games/g/grime.md) | 0.19% |
-| 269 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.18% |
-| 269 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
-| 269 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
-| 269 | [Scathe](games/s/scathe.md) | 0.18% |
-| 273 | [Blanc](games/b/blanc.md) | 0.17% |
-| 273 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.17% |
-| 273 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
+| 270 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
+| 270 | [Scathe](games/s/scathe.md) | 0.18% |
+| 272 | [Blanc](games/b/blanc.md) | 0.17% |
+| 272 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.17% |
+| 272 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
+| 272 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
 | 276 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 276 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 276 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.16% |
