@@ -1,23 +1,23 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.81 (Ranked 84)  
+Rating: 4.81 (Ranked 85)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 67.00% | ~764 |
-| The Adventure Begins | 50.00% | ~570 |
-| Swabbie | 37.00% | ~422 |
-| With Great Power… | 37.00% | ~422 |
+| A New Journey | 67.00% | ~765 |
+| The Adventure Begins | 50.00% | ~571 |
+| Swabbie | 37.00% | ~423 |
+| With Great Power… | 37.00% | ~423 |
 | This Belongs in a Museum | 33.00% | ~377 |
-| The Gambit Has Begun | 30.00% | ~342 |
+| The Gambit Has Begun | 30.00% | ~343 |
 | Somewhere Deep in the Lost Caribbean | 27.00% | ~308 |
 | Powder Monkey | 27.00% | ~308 |
 | Mirror Mirror on the Wall | 26.00% | ~297 |
 | Pirates Assemble! | 24.00% | ~274 |
 | Buccaneer | 21.00% | ~240 |
 | Fishy Fish | 20.00% | ~228 |
-| All Good Things | 18.00% | ~205 |
+| All Good Things | 18.00% | ~206 |
 | Persistent Parasite | 16.00% | ~183 |
 | Seadog | 15.00% | ~171 |
 | Jaded Judge | 12.00% | ~137 |
@@ -27,12 +27,12 @@ Rating: 4.81 (Ranked 84)
 | Accursed Artifacts | 9.00% | ~103 |
 | Lyrical Longing | 9.00% | ~103 |
 | Fully Decked | 7.00% | ~80 |
-| Corsair | 6.00% | ~68 |
+| Corsair | 6.00% | ~69 |
 | Freebooter | 4.00% | ~46 |
 | Marauder | 3.00% | ~34 |
 | Welcome Back Jester | 3.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,141 (Ranked 263)  
+Progressed: 1,142 (Ranked 263)  
 Completed: 32 (2.80%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 32 (2.80%) (Ranked 111)
 | 2023-12-11 | 1,109 | 32 |
 | 2023-12-12 | 1,119 | 32 |
 | 2023-12-13 | 1,126 | 32 |
-| 2023-12-14 | 1,141 | 32 |
+| 2023-12-14 | 1,142 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

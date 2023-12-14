@@ -4,7 +4,7 @@
   "ProductSlug": "predator-hunting-grounds",
   "Ranking_Rating": 670,
   "Ranking_Popularity": 165,
-  "Ranking_PopularitySum": 199,
+  "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 485,
@@ -2599,11 +2599,17 @@
       "Rating": 4.45,
       "NumberOfAwards": 2448,
       "NumberOfAwardsMax": 898
+    },
+    {
+      "Time": "2023-12-14T16:01:13.2345533+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2450,
+      "NumberOfAwardsMax": 900
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2448,
-  "NumberOfAwardsMax": 898,
+  "NumberOfAwards": 2450,
+  "NumberOfAwardsMax": 900,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -2682,7 +2688,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 898
+      "Count": 900
     }
   ],
   "EOS_Progressed": 0,
@@ -2696,8 +2702,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:15.8732166+00:00",
-  "LastChanged": "2023-12-14T04:00:12.1571614+00:00",
+  "LastChanged": "2023-12-14T16:01:13.2345532+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:12.6770706+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:00:09.99523+00:00",
-  "LastUpdate_Achievements": "2023-12-14T15:08:14.3380053+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:01:13.2345537+00:00",
+  "LastUpdate_Achievements": "2023-12-14T16:08:17.2062616+00:00"
 }

@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~27,824 |
-| Safety in the Storm | 24.00% | ~7,029 |
-| A Better Idea | 24.00% | ~7,029 |
-| Begin the Ceremony | 20.00% | ~5,858 |
-| Mission Accomplished | 19.00% | ~5,565 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~4,393 |
-| Asset Secured | 13.00% | ~3,807 |
-| A Starfighter of Your Own | 13.00% | ~3,807 |
-| Unkillable | 8.00% | ~2,343 |
-| Together, Vanguard | 7.00% | ~2,050 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~1,757 |
-| Sound Strategy | 6.00% | ~1,757 |
-| Stomped | 5.00% | ~1,464 |
-| A Promising Career | 5.00% | ~1,464 |
+| Fracture at Fostar Haven | 95.00% | ~27,842 |
+| Safety in the Storm | 24.00% | ~7,034 |
+| A Better Idea | 24.00% | ~7,034 |
+| Begin the Ceremony | 20.00% | ~5,861 |
+| Mission Accomplished | 19.00% | ~5,568 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~4,396 |
+| Asset Secured | 13.00% | ~3,810 |
+| A Starfighter of Your Own | 13.00% | ~3,810 |
+| Unkillable | 8.00% | ~2,345 |
+| Together, Vanguard | 7.00% | ~2,051 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~1,758 |
+| Sound Strategy | 6.00% | ~1,758 |
+| Stomped | 5.00% | ~1,465 |
+| A Promising Career | 5.00% | ~1,465 |
 | Great Shot, Kid | 4.00% | ~1,172 |
 | Fearless | 4.00% | ~1,172 |
 | Back From the Brink | 4.00% | ~1,172 |
@@ -34,7 +34,7 @@
 | Against the Current | 0.90% | ~264 |
 | Denied | 0.70% | ~205 |
 | Found Your Place | 0.60% | ~176 |
-| Unstoppable Ace | 0.50% | ~146 |
+| Unstoppable Ace | 0.50% | ~147 |
 | Seasoned Star Pilot | 0.40% | ~117 |
 | The Galaxy's Finest (Veteran) | 0.40% | ~117 |
 | Got 'Em | 0.40% | ~117 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~29 |
 | The Galaxy's Finest (Ace) | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,288 (Ranked 130)  
+Progressed: 29,307 (Ranked 130)  
 Completed: 2 (0.01%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 2 (0.01%) (Ranked 351)
 | 2023-12-11 | 28,645 | 2 |
 | 2023-12-12 | 28,866 | 2 |
 | 2023-12-13 | 29,132 | 2 |
-| 2023-12-14 | 29,288 | 2 |
+| 2023-12-14 | 29,307 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

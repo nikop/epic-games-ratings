@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -457,9 +457,9 @@
       "ID": "creepytaleach10",
       "SetID": "bnif31p",
       "Name": "Intuition",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 75,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "creepytaleach11",
@@ -560,8 +560,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-14T15:09:54.6998596+00:00",
+  "LastChanged_Achievements": "2023-12-14T16:10:37.7978564+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.952085+00:00",
-  "LastUpdate_Ratings": "2023-12-14T14:57:25.2746487+00:00",
-  "LastUpdate_Achievements": "2023-12-14T15:09:54.6998682+00:00"
+  "LastUpdate_Ratings": "2023-12-14T15:57:14.9282596+00:00",
+  "LastUpdate_Achievements": "2023-12-14T16:10:37.7978658+00:00"
 }

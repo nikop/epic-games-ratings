@@ -6,20 +6,20 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,626 |
-| Titan's First Steps | 8.00% | ~11,626 |
-| Basic in Bulk | 7.00% | ~10,173 |
-| Tinkle of Coins | 7.00% | ~10,173 |
-| Disintermediation | 5.00% | ~7,266 |
-| It's Free Real Estate | 5.00% | ~7,266 |
-| Budding Merchant | 5.00% | ~7,266 |
-| Capitalism Ho! | 5.00% | ~7,266 |
-| One Easy Payment | 4.00% | ~5,813 |
-| Some Assembly Required | 4.00% | ~5,813 |
-| Another Satisfied Customer | 4.00% | ~5,813 |
-| Pretty Penny | 4.00% | ~5,813 |
-| One-Armed Bandit | 4.00% | ~5,813 |
-| Own the Means of Production | 4.00% | ~5,813 |
+| Sponsored by Argon | 8.00% | ~11,627 |
+| Titan's First Steps | 8.00% | ~11,627 |
+| Basic in Bulk | 7.00% | ~10,174 |
+| Tinkle of Coins | 7.00% | ~10,174 |
+| Disintermediation | 5.00% | ~7,267 |
+| It's Free Real Estate | 5.00% | ~7,267 |
+| Budding Merchant | 5.00% | ~7,267 |
+| Capitalism Ho! | 5.00% | ~7,267 |
+| One Easy Payment | 4.00% | ~5,814 |
+| Some Assembly Required | 4.00% | ~5,814 |
+| Another Satisfied Customer | 4.00% | ~5,814 |
+| Pretty Penny | 4.00% | ~5,814 |
+| One-Armed Bandit | 4.00% | ~5,814 |
+| Own the Means of Production | 4.00% | ~5,814 |
 | The Daily Grind | 3.00% | ~4,360 |
 | Bounty Hunters | 3.00% | ~4,360 |
 | Demand for Supplies | 3.00% | ~4,360 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~436 |
 | Capitalist Camaraderie | 0.20% | ~291 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,329 (Ranked 80)  
+Progressed: 145,340 (Ranked 80)  
 Completed: 304 (0.21%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 304 (0.21%) (Ranked 258)
 | 2023-12-11 | 144,756 | 293 |
 | 2023-12-12 | 144,871 | 294 |
 | 2023-12-13 | 145,093 | 297 |
-| 2023-12-14 | 145,329 | 304 |
+| 2023-12-14 | 145,340 | 304 |
 ## Awards
 Max (Great for Beginners): 4,882  (Ranked 75)  
 Sum: 27,712 (Ranked 51)  

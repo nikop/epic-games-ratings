@@ -6,19 +6,19 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 76.00% | ~5,498 |
-| Having A Field Day | 76.00% | ~5,498 |
-| Reap What You Sow | 73.00% | ~5,281 |
+| Get A Room | 76.00% | ~5,499 |
+| Having A Field Day | 76.00% | ~5,499 |
+| Reap What You Sow | 73.00% | ~5,282 |
 | The First Day | 70.00% | ~5,064 |
-| Novice Researcher | 68.00% | ~4,919 |
+| Novice Researcher | 68.00% | ~4,920 |
 | Green Thumb | 67.00% | ~4,847 |
-| Home Cooked Meal | 62.00% | ~4,485 |
+| Home Cooked Meal | 62.00% | ~4,486 |
 | Onward | 58.00% | ~4,196 |
-| The First Week | 56.00% | ~4,051 |
-| Beam Me Up | 53.00% | ~3,834 |
-| Studious Researcher | 53.00% | ~3,834 |
+| The First Week | 56.00% | ~4,052 |
+| Beam Me Up | 53.00% | ~3,835 |
+| Studious Researcher | 53.00% | ~3,835 |
 | Putting Food on the Table | 46.00% | ~3,328 |
-| Adept Researcher | 45.00% | ~3,255 |
+| Adept Researcher | 45.00% | ~3,256 |
 | Retribution | 43.00% | ~3,111 |
 | ...And Don’t Come Back! | 43.00% | ~3,111 |
 | Feast or Famine | 37.00% | ~2,677 |
@@ -26,19 +26,19 @@ Number of Ratings: 706  (23.09.2022)
 | Luminary Researcher | 31.00% | ~2,243 |
 | Winter Is Coming | 29.00% | ~2,098 |
 | Fit For A King | 28.00% | ~2,026 |
-| Winter Is Here | 25.00% | ~1,808 |
+| Winter Is Here | 25.00% | ~1,809 |
 | Oh Deer! | 23.00% | ~1,664 |
-| Disassembled | 22.00% | ~1,591 |
-| A Party Now | 22.00% | ~1,591 |
-| All Year Round | 22.00% | ~1,591 |
-| Nothing Wasted | 13.00% | ~940 |
-| Don't Cry Wolf | 13.00% | ~940 |
+| Disassembled | 22.00% | ~1,592 |
+| A Party Now | 22.00% | ~1,592 |
+| All Year Round | 22.00% | ~1,592 |
+| Nothing Wasted | 13.00% | ~941 |
+| Don't Cry Wolf | 13.00% | ~941 |
 | Deerly Departed | 8.00% | ~579 |
 | Where Wolf? | 5.00% | ~362 |
 | Food Chain | 2.00% | ~145 |
 | Wabbit Season | 0.50% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,234 (Ranked 183)  
+Progressed: 7,235 (Ranked 183)  
 Completed: 14 (0.19%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 14 (0.19%) (Ranked 266)
 | 2023-12-11 | 7,203 | 14 |
 | 2023-12-12 | 7,219 | 14 |
 | 2023-12-13 | 7,230 | 14 |
-| 2023-12-14 | 7,234 | 14 |
+| 2023-12-14 | 7,235 | 14 |
 ## Awards
 Max (Great for Beginners): 132  (Ranked 332)  
 Sum: 1,042 (Ranked 260)  

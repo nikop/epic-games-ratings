@@ -1327,9 +1327,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259330,
+  "EOS_Progressed": 259333,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24092,6 +24092,11 @@
       "Time": "2023-12-14T15:04:06.9238303+00:00",
       "NumProgressed": 259330,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T16:04:52.8359174+00:00",
+      "NumProgressed": 259333,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -24151,7 +24156,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80392
+      "UsersEstimate": 80393
     },
     {
       "ID": "BackHomeNTimes",
@@ -24159,7 +24164,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12966
+      "UsersEstimate": 12967
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -24231,7 +24236,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12966
+      "UsersEstimate": 12967
     },
     {
       "ID": "CreedsInBank2",
@@ -24391,7 +24396,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59646
+      "UsersEstimate": 59647
     },
     {
       "ID": "KillOthers2",
@@ -24550,7 +24555,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259330,
+      "Progressed": 259333,
       "Completed": 3
     }
   ],
@@ -24558,8 +24563,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-13T14:02:36.8931746+00:00",
-  "LastChanged_Achievements": "2023-12-14T15:04:06.9238299+00:00",
+  "LastChanged_Achievements": "2023-12-14T16:04:52.835917+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:52.9725586+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:02:39.3724295+00:00",
-  "LastUpdate_Achievements": "2023-12-14T15:04:06.9240052+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:02:46.744088+00:00",
+  "LastUpdate_Achievements": "2023-12-14T16:04:52.836085+00:00"
 }

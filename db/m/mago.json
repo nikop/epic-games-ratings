@@ -1,7 +1,7 @@
 {
   "ID": "f61b77d79ac34dc08ac9649b225168dd",
   "Name": "Mago",
-  "Ranking_Rating": 6,
+  "Ranking_Rating": 7,
   "Ranking_Popularity": 563,
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 797,
@@ -68,6 +68,6 @@
   "FirstSeenRating": "2022-10-09T22:02:14.1425861+00:00",
   "LastChanged": "2023-03-31T05:58:37.7263784+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.0226418+00:00",
-  "LastUpdate_Ratings": "2023-12-14T14:59:59.8540464+00:00",
-  "LastUpdate_Achievements": "2023-12-14T15:04:50.7075845+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:00:58.7610565+00:00",
+  "LastUpdate_Achievements": "2023-12-14T16:05:53.5097902+00:00"
 }

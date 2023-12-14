@@ -2,9 +2,9 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 327,
+  "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 454,
+  "EOS_Progressed": 455,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1177,6 +1177,11 @@
       "Time": "2023-12-14T15:03:44.6936143+00:00",
       "NumProgressed": 454,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-14T16:04:20.7031313+00:00",
+      "NumProgressed": 455,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1253,7 +1258,7 @@
       "Name": "Perfect Run",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1261,7 +1266,7 @@
       "Name": "Big Encounter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -1269,15 +1274,15 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
       "SetID": "apihg0e",
       "Name": "Hermit Koco Encounter",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 173
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1285,7 +1290,7 @@
       "Name": "Celestial Rain",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1293,15 +1298,15 @@
       "Name": "Unknown Threat",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 205
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1317,7 +1322,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1381,7 +1386,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1508,14 +1513,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 454,
+      "Progressed": 455,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-14T15:03:44.6936138+00:00",
+  "LastChanged_Achievements": "2023-12-14T16:04:20.7031309+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:06.567221+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:02:56.2177414+00:00",
-  "LastUpdate_Achievements": "2023-12-14T15:03:44.693647+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:03:11.3003956+00:00",
+  "LastUpdate_Achievements": "2023-12-14T16:04:20.7031637+00:00"
 }

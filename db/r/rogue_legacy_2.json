@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 24048,
+  "EOS_Progressed": 24070,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10500,6 +10500,11 @@
       "Time": "2023-12-14T15:09:37.9616681+00:00",
       "NumProgressed": 24048,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-14T16:10:14.3071158+00:00",
+      "NumProgressed": 24070,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10575,7 +10580,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -10583,7 +10588,7 @@
       "Name": "For Glory",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "BossCastleDefeated",
@@ -10591,7 +10596,7 @@
       "Name": "Spells and Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -10605,9 +10610,9 @@
       "ID": "BossCaveDefeated",
       "SetID": "3ojhj46",
       "Name": "Hands and Hammers",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 241
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -10623,7 +10628,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -10655,7 +10660,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -10767,7 +10772,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "RogueMode",
@@ -10822,21 +10827,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 24048,
+      "Progressed": 24070,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2978,
+      "Progressed": 3000,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-14T15:09:37.9616678+00:00",
+  "LastChanged_Achievements": "2023-12-14T16:10:14.3071155+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:17.8828255+00:00",
-  "LastUpdate_Ratings": "2023-12-14T14:58:57.9301469+00:00",
-  "LastUpdate_Achievements": "2023-12-14T15:09:37.9617284+00:00"
+  "LastUpdate_Ratings": "2023-12-14T15:59:28.2650133+00:00",
+  "LastUpdate_Achievements": "2023-12-14T16:10:14.3071742+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~483 |
+| The Last Stand | 89.00% | ~489 |
 | Thalya – Simply Immortal | 88.00% | ~483 |
 | For the Horde! | 83.00% | ~456 |
 | Hammer Time, Round Two | 81.00% | ~445 |
@@ -25,15 +25,15 @@
 | Hard Work | 53.00% | ~291 |
 | “… like son” | 51.00% | ~280 |
 | YOU SHALL NOT PASS! | 50.00% | ~274 |
-| The Cathedral of Light | 47.00% | ~258 |
+| The Cathedral of Light | 48.00% | ~264 |
 | Shame! Shame! Shame! | 47.00% | ~258 |
 | Pure Dynamite! | 46.00% | ~253 |
 | Dungeonlord Gorgu | 46.00% | ~253 |
 | Tanos' Crusade Against Thalya | 46.00% | ~253 |
 | Mana Cannon | 42.00% | ~231 |
 | All’s Well That Ends Evil | 40.00% | ~220 |
+| The Duel | 36.00% | ~198 |
 | Master of the Undead | 35.00% | ~192 |
-| The Duel | 35.00% | ~192 |
 | Unstoppable Horde | 34.00% | ~187 |
 | If Looks Could Kill | 32.00% | ~176 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~165 |

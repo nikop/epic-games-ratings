@@ -3,7 +3,7 @@
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 376,
-  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 255,
+  "EOS_Progressed": 256,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.18,
+  "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -1149,6 +1149,11 @@
       "Time": "2023-12-14T14:06:19.5819797+00:00",
       "NumProgressed": 255,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T16:07:46.9699883+00:00",
+      "NumProgressed": 256,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1161,23 +1166,23 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 82
     },
     {
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 174
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1199,9 +1204,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 141
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1217,7 +1222,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -1303,9 +1308,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 197
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1313,21 +1318,21 @@
       "Name": "Strong Signal",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 255,
+      "Progressed": 256,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-14T15:06:11.3703492+00:00",
+  "LastChanged_Achievements": "2023-12-14T16:07:46.9699876+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.1278188+00:00",
-  "LastUpdate_Ratings": "2023-12-14T14:59:53.4890299+00:00",
-  "LastUpdate_Achievements": "2023-12-14T15:06:11.3703665+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:00:49.991947+00:00",
+  "LastUpdate_Achievements": "2023-12-14T16:07:46.9700042+00:00"
 }

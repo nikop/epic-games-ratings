@@ -10,7 +10,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | First Steps | 0.80% | ~1,928 |
 | Uncharted Territory | 0.80% | ~1,928 |
 | Getting A Glimpse | 0.70% | ~1,687 |
-| Not Touching You | 0.70% | ~17 |
+| Not Touching You | 0.70% | ~18 |
 | Nothing To Lose | 0.60% | ~1,446 |
 | Heavy Hitter | 0.60% | ~1,446 |
 | That Was Quick | 0.60% | ~1,446 |
@@ -35,8 +35,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Deflection | 0.50% | ~1,205 |
 | Toxic | 0.50% | ~1,205 |
 | Sneaky | 0.50% | ~1,205 |
-| Expensive Look | 0.50% | ~12 |
-| What Doesn't Kill You | 0.50% | ~12 |
+| Expensive Look | 0.50% | ~13 |
+| What Doesn't Kill You | 0.50% | ~13 |
 | Consecutive Curses | 0.40% | ~964 |
 | Dig Your Own Grave | 0.40% | ~964 |
 | Who To Trust? | 0.40% | ~964 |
@@ -66,7 +66,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Spreading Plague | 0.30% | ~723 |
 | Antivenom | 0.30% | ~723 |
 | The Long Run | 0.30% | ~723 |
-| Who Needs Luck? | 0.30% | ~7 |
+| Who Needs Luck? | 0.30% | ~8 |
 | Achievement Hunter | 0.20% | ~482 |
 | Challenge Increases | 0.20% | ~482 |
 | A Long Climb | 0.20% | ~482 |
@@ -135,17 +135,17 @@ Number of Ratings: 15,086  (23.09.2022)
 | Martial Master | 0.10% | ~241 |
 | Nudie Run | 0.10% | ~241 |
 | You Call That A Knife? | 0.10% | ~241 |
-| Scrounger Appreciation | 0.10% | ~2 |
-| Explosives Expert | 0.10% | ~2 |
-| All Natural | 0.10% | ~2 |
-| Diviner | 0.10% | ~2 |
-| Soul Kin | 0.10% | ~2 |
-| Multiclass | 0.10% | ~2 |
-| Stalker | 0.10% | ~2 |
-| Brute | 0.10% | ~2 |
-| Dominant Twin | 0.10% | ~2 |
+| Scrounger Appreciation | 0.10% | ~3 |
+| Explosives Expert | 0.10% | ~3 |
+| All Natural | 0.10% | ~3 |
+| Diviner | 0.10% | ~3 |
+| Soul Kin | 0.10% | ~3 |
+| Multiclass | 0.10% | ~3 |
+| Stalker | 0.10% | ~3 |
+| Brute | 0.10% | ~3 |
+| Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,019 (Ranked 65)  
+Progressed: 241,023 (Ranked 65)  
 Completed: 298 (0.12%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -383,7 +383,7 @@ Completed: 298 (0.12%) (Ranked 286)
 | 2023-12-11 | 240,899 | 294 |
 | 2023-12-12 | 240,936 | 296 |
 | 2023-12-13 | 240,984 | 298 |
-| 2023-12-14 | 241,019 | 298 |
+| 2023-12-14 | 241,023 | 298 |
 ## Awards
 Max (Quickly Understood Controls): 1,508  (Ranked 134)  
 Sum: 11,730 (Ranked 86)  

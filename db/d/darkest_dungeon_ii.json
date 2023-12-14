@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9690,9 +9690,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 126967,
+  "EOS_Progressed": 126985,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1218,
+  "EOS_NewPlayers": 1234,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34995,6 +34995,11 @@
       "Time": "2023-12-14T15:09:04.2579894+00:00",
       "NumProgressed": 126967,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T16:09:27.3451935+00:00",
+      "NumProgressed": 126985,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35134,7 +35139,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35158,7 +35163,7 @@
       "Name": "Not Today!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35166,7 +35171,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35206,7 +35211,7 @@
       "Name": "Meat and Greet",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35222,7 +35227,7 @@
       "Name": "Catch and Decease",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "combat_kill_librarian",
@@ -35230,7 +35235,7 @@
       "Name": "Overdue Notice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35246,7 +35251,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35300,17 +35305,17 @@
       "ID": "driving_biome_clear_city",
       "SetID": "64l4lke",
       "Name": "Rush Hour",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1270
     },
     {
       "ID": "driving_biome_clear_coast",
       "SetID": "64l4lke",
       "Name": "Merry Time",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 889
+      "UsersEstimate": 1016
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -35358,7 +35363,7 @@
       "Name": "Autodidact",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "hero_story_complete_all",
@@ -35542,7 +35547,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "combat_kill_collector",
@@ -35550,7 +35555,7 @@
       "Name": "This guy... again?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35590,7 +35595,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -35606,7 +35611,7 @@
       "Name": "Lost and Found",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35637,21 +35642,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 126967,
+      "Progressed": 126985,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1836,
+      "Progressed": 1854,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-14T13:06:19.2097812+00:00",
-  "LastChanged_Achievements": "2023-12-14T15:09:04.2579889+00:00",
+  "LastChanged_Achievements": "2023-12-14T16:09:27.3451933+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:00:08.1323434+00:00",
-  "LastUpdate_Achievements": "2023-12-14T15:09:04.2581483+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:01:10.4604621+00:00",
+  "LastUpdate_Achievements": "2023-12-14T16:09:27.3453637+00:00"
 }

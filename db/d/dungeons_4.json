@@ -4,8 +4,8 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1494,9 +1494,9 @@
       "ID": "ach_main01begin_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 483
+      "UsersEstimate": 489
     },
     {
       "ID": "ach_main01begin_die",
@@ -1718,9 +1718,9 @@
       "ID": "ach_main10fire_completed",
       "SetID": "4hg22ll",
       "Name": "The Cathedral of Light",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 264
     },
     {
       "ID": "ach_main10fire_freehorde",
@@ -1790,9 +1790,9 @@
       "ID": "ach_main13tanos_completed",
       "SetID": "4hg22ll",
       "Name": "The Duel",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 198
     },
     {
       "ID": "ach_main13tanos_dungeonlord",
@@ -1989,8 +1989,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-14T15:05:20.8898376+00:00",
+  "LastChanged_Achievements": "2023-12-14T16:06:36.1727048+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-14T14:02:42.9115882+00:00",
-  "LastUpdate_Achievements": "2023-12-14T15:05:20.8898941+00:00"
+  "LastUpdate_Ratings": "2023-12-14T15:56:59.2161383+00:00",
+  "LastUpdate_Achievements": "2023-12-14T16:06:36.1727517+00:00"
 }

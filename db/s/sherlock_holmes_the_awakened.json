@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -4124,9 +4124,9 @@
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 489
+      "UsersEstimate": 501
     },
     {
       "ID": "MQ05_4",
@@ -4229,8 +4229,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-14T11:03:29.6730885+00:00",
-  "LastChanged_Achievements": "2023-12-14T15:03:37.2528105+00:00",
+  "LastChanged_Achievements": "2023-12-14T16:04:10.441641+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:02:59.0150221+00:00",
-  "LastUpdate_Achievements": "2023-12-14T15:03:37.2528488+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:03:15.1647383+00:00",
+  "LastUpdate_Achievements": "2023-12-14T16:04:10.4416813+00:00"
 }

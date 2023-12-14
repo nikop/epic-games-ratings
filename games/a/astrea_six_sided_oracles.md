@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 63.00% | ~75 |
-| Purification Pioneer | 60.00% | ~71 |
-| Mechanical Buddy | 55.00% | ~65 |
-| Dicesmithing Time! | 51.00% | ~61 |
-| Endless Tricks | 44.00% | ~52 |
-| Sanctuary Guardian | 42.00% | ~50 |
-| Wild's Keeper | 39.00% | ~46 |
-| Mind Illuminator | 35.00% | ~42 |
-| Noctuan Champion | 34.00% | ~40 |
-| Stellar Dismantler | 33.00% | ~39 |
-| Eridanian Champion | 27.00% | ~32 |
+| Meissa's Savior | 63.00% | ~76 |
+| Purification Pioneer | 59.00% | ~71 |
+| Mechanical Buddy | 55.00% | ~66 |
+| Dicesmithing Time! | 52.00% | ~62 |
+| Endless Tricks | 45.00% | ~54 |
+| Sanctuary Guardian | 43.00% | ~52 |
+| Wild's Keeper | 41.00% | ~49 |
+| Mind Illuminator | 36.00% | ~43 |
+| Noctuan Champion | 34.00% | ~41 |
+| Stellar Dismantler | 33.00% | ~40 |
+| Eridanian Champion | 28.00% | ~34 |
 | Anomaly Destroyer | 26.00% | ~31 |
-| Astral Adventurer | 25.00% | ~30 |
+| Astral Adventurer | 26.00% | ~31 |
+| Star Killer | 25.00% | ~30 |
 | Lacertian Champion | 25.00% | ~30 |
-| Loyal Partner | 24.00% | ~29 |
-| Star Killer | 24.00% | ~29 |
+| Loyal Partner | 23.00% | ~28 |
 | Apian Champion | 22.00% | ~26 |
 | Behenian Champion | 19.00% | ~23 |
-| Shard Spender | 18.00% | ~21 |
+| Shard Spender | 18.00% | ~22 |
 | Unbeatable | 16.00% | ~19 |
-| Astral Seeker | 13.00% | ~15 |
-| Aquarian Champion | 13.00% | ~15 |
+| Astral Seeker | 13.00% | ~16 |
+| Aquarian Champion | 13.00% | ~16 |
 | Heart Gate | 12.00% | ~14 |
 | Sadistic Plan | 12.00% | ~14 |
 | Stellar Haste | 12.00% | ~14 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119 (Ranked 431)  
+Progressed: 120 (Ranked 429)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,4 +152,4 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 99 | 0 |
 | 2023-12-12 | 100 | 0 |
 | 2023-12-13 | 102 | 0 |
-| 2023-12-14 | 119 | 0 |
+| 2023-12-14 | 120 | 0 |

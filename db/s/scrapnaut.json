@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -1782,9 +1782,9 @@
       "ID": "ACH_COLLECT_50_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Gatherer",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_COOK",
@@ -1854,9 +1854,9 @@
       "ID": "ACH_KILL_50",
       "SetID": "7c4cldc",
       "Name": "Robot Destroyer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 145
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -1902,9 +1902,9 @@
       "ID": "ACH_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Smelter",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -1951,8 +1951,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-11-17T17:00:24.0955126+00:00",
-  "LastChanged_Achievements": "2023-12-14T15:09:06.1994902+00:00",
+  "LastChanged_Achievements": "2023-12-14T16:09:29.8439394+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.171246+00:00",
-  "LastUpdate_Ratings": "2023-12-14T14:59:45.5969546+00:00",
-  "LastUpdate_Achievements": "2023-12-14T15:09:06.1995209+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:00:37.7222253+00:00",
+  "LastUpdate_Achievements": "2023-12-14T16:09:29.8439597+00:00"
 }

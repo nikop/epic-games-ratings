@@ -178,9 +178,9 @@
       "ID": "EXPERIENCE_THE_NIGHTLIFE_ACH",
       "SetID": "1ln1olh",
       "Name": "Experience the Nightlife",
-      "Percentage": 35,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "GETTING_STEAMY_ACH",
@@ -234,9 +234,9 @@
       "ID": "TIME_FOR_PAYBACK_ACH",
       "SetID": "1ln1olh",
       "Name": "Time for Payback",
-      "Percentage": 55,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "USE_THE_FACILITIES_ACH",
@@ -281,8 +281,8 @@
   ],
   "FirstSeen": "2023-10-18T22:09:37.4633891+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:20.5727447+00:00",
-  "LastChanged_Achievements": "2023-12-14T15:08:34.6918638+00:00",
+  "LastChanged_Achievements": "2023-12-14T16:08:45.451623+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:19.4214326+00:00",
-  "LastUpdate_Ratings": "2023-12-14T15:00:41.9879586+00:00",
-  "LastUpdate_Achievements": "2023-12-14T15:08:34.6918787+00:00"
+  "LastUpdate_Ratings": "2023-12-14T16:02:01.3302583+00:00",
+  "LastUpdate_Achievements": "2023-12-14T16:08:45.4516336+00:00"
 }

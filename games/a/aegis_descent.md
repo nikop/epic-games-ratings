@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Clean Sweep | 94.00% | ~402 |
 | Scavenger | 73.00% | ~312 |
-| Line of Duty | 71.00% | ~304 |
+| Line of Duty | 72.00% | ~308 |
 | Gunner | 57.00% | ~244 |
 | DocKing | 45.00% | ~193 |
 | What-A-Shot | 43.00% | ~184 |
@@ -49,7 +49,7 @@
 | Burn Them | 0.20% | ~1 |
 | Final Ascension | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 428 (Ranked 333)  
+Progressed: 428 (Ranked 334)  
 Completed: 1 (0.23%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |

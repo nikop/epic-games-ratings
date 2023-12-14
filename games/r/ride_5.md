@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 45.00% | ~1,125 |
-| First Love | 43.00% | ~1,075 |
-| Clean Race | 41.00% | ~1,025 |
-| Hear That Roar! | 39.00% | ~975 |
-| Rivals to the End | 28.00% | ~700 |
-| Bitter Rivalry | 27.00% | ~675 |
-| We're Going to Need a Bigger Garage | 25.00% | ~625 |
-| Champagne Spray | 25.00% | ~625 |
+| Eat My Dust | 45.00% | ~1,126 |
+| First Love | 43.00% | ~1,076 |
+| Clean Race | 41.00% | ~1,026 |
+| Hear That Roar! | 39.00% | ~976 |
+| Rivals to the End | 28.00% | ~701 |
+| Bitter Rivalry | 27.00% | ~676 |
+| We're Going to Need a Bigger Garage | 25.00% | ~626 |
+| Champagne Spray | 25.00% | ~626 |
 | Restored and Ready | 19.00% | ~475 |
 | I Want One Too! | 19.00% | ~475 |
 | Legendary!!! | 19.00% | ~475 |
@@ -38,23 +38,23 @@
 | Overtaking the Master | 2.00% | ~50 |
 | Next Level | 1.00% | ~25 |
 | I Don't Stop | 1.00% | ~25 |
-| Exhausted but Happy | 0.70% | ~17 |
-| In Search of Perfection | 0.70% | ~17 |
-| Globe-trotter | 0.50% | ~12 |
+| Exhausted but Happy | 0.70% | ~18 |
+| In Search of Perfection | 0.70% | ~18 |
+| Globe-trotter | 0.50% | ~13 |
 | Maximum Endurance | 0.20% | ~5 |
 | Breathtaking Views | 0.20% | ~5 |
 | Beyond the Limiter | 0.20% | ~5 |
 | All My Own Toys | 0.20% | ~5 |
 | Full Power | 0.20% | ~5 |
 | There's a Great View up Here | 0.20% | ~5 |
-| Endless | 0.10% | ~2 |
-| At the Top | 0.10% | ~2 |
-| Absolute Champion | 0.10% | ~2 |
+| Endless | 0.10% | ~3 |
+| At the Top | 0.10% | ~3 |
+| Absolute Champion | 0.10% | ~3 |
 | Dream Chaser | 0.00% | ~0 |
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,499 (Ranked 221)  
+Progressed: 2,502 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,4 +158,4 @@ Completed: 0 (0.00%) (Ranked 374)
 | 2023-12-11 | 2,440 | 0 |
 | 2023-12-12 | 2,455 | 0 |
 | 2023-12-13 | 2,471 | 0 |
-| 2023-12-14 | 2,499 | 0 |
+| 2023-12-14 | 2,502 | 0 |

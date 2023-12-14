@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1216,
+  "EOS_Progressed": 1217,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -2744,6 +2744,11 @@
       "Time": "2023-12-14T00:09:45.3469489+00:00",
       "NumProgressed": 1216,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-14T16:10:12.7241684+00:00",
+      "NumProgressed": 1217,
+      "NumCompleted": 51
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2756,7 +2761,7 @@
       "Name": "Time traveller",
       "Percentage": 21,
       "XP": 140,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_CUBES",
@@ -2772,7 +2777,7 @@
       "Name": "Sweet tooth",
       "Percentage": 70,
       "XP": 45,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -2812,7 +2817,7 @@
       "Name": "Food lover",
       "Percentage": 63,
       "XP": 55,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -2828,21 +2833,21 @@
       "Name": "Exit",
       "Percentage": 56,
       "XP": 65,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1216,
+      "Progressed": 1217,
       "Completed": 51
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-12-14T15:09:36.7967216+00:00",
+  "LastChanged_Achievements": "2023-12-14T16:10:12.7241681+00:00",
   "LastUpdate_AppInfo": "2023-12-08T16:57:22.7972891+00:00",
-  "LastUpdate_Ratings": "2023-12-14T14:58:52.1005445+00:00",
-  "LastUpdate_Achievements": "2023-12-14T15:09:36.7967455+00:00"
+  "LastUpdate_Ratings": "2023-12-14T15:59:19.995806+00:00",
+  "LastUpdate_Achievements": "2023-12-14T16:10:12.724192+00:00"
 }

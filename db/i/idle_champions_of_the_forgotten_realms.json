@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8699,18 +8699,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 32854,
       "NumberOfAwardsMax": 5624
+    },
+    {
+      "Time": "2023-12-14T15:57:52.7177724+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32865,
+      "NumberOfAwardsMax": 5635
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32854,
-  "NumberOfAwardsMax": 5624,
+  "NumberOfAwards": 32865,
+  "NumberOfAwardsMax": 5635,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5624
+      "Count": 5635
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8749,10 +8755,10 @@
       "Count": 3571
     }
   ],
-  "EOS_Progressed": 240182,
+  "EOS_Progressed": 240214,
   "EOS_Completed": 2524,
-  "EOS_NewPlayers": 1456,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 1483,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -35584,6 +35590,11 @@
       "Time": "2023-12-14T15:10:05.2886323+00:00",
       "NumProgressed": 240182,
       "NumCompleted": 2524
+    },
+    {
+      "Time": "2023-12-14T16:10:51.8573992+00:00",
+      "NumProgressed": 240214,
+      "NumCompleted": 2524
     }
   ],
   "TotalAchievements": 546,
@@ -39569,9 +39580,9 @@
       "ID": "objective_completed_1327",
       "SetID": "415jc5c",
       "Name": "Tiny Treaty",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_1332",
@@ -39962,21 +39973,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 206456,
-      "Completed": 3978
+      "Progressed": 206488,
+      "Completed": 3979
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 240182,
+      "Progressed": 240214,
       "Completed": 2524
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-14T13:57:39.3134833+00:00",
-  "LastChanged_Achievements": "2023-12-14T15:10:05.2886319+00:00",
+  "LastChanged": "2023-12-14T15:57:52.7177722+00:00",
+  "LastChanged_Achievements": "2023-12-14T16:10:51.8573989+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-14T14:57:53.8790318+00:00",
-  "LastUpdate_Achievements": "2023-12-14T15:10:05.2910923+00:00"
+  "LastUpdate_Ratings": "2023-12-14T15:57:52.7177728+00:00",
+  "LastUpdate_Achievements": "2023-12-14T16:10:51.8597787+00:00"
 }
