@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,151 (Ranked 147)  
-Completed: 39 (0.21%) (Ranked 258)  
+Progressed: 18,153 (Ranked 147)  
+Completed: 39 (0.21%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -304,7 +304,7 @@ Completed: 39 (0.21%) (Ranked 258)
 | 2023-12-11 | 17,957 | 41 |
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
-| 2023-12-14 | 18,151 | 40 |
+| 2023-12-14 | 18,153 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 227)  
 Sum: 3,258 (Ranked 175)  

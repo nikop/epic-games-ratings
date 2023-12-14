@@ -10,7 +10,7 @@ Rating: 4.58 (Ranked 453)
 | Philanthropist | 71.00% | ~53 |
 | Adventurer | 69.00% | ~52 |
 | The brave little tailor | 51.00% | ~38 |
-| Archer | 49.00% | ~37 |
+| Archer | 51.00% | ~38 |
 | Field hand | 47.00% | ~35 |
 | Samaritan | 44.00% | ~33 |
 | The merciful one | 40.00% | ~30 |
@@ -57,7 +57,7 @@ Rating: 4.58 (Ranked 453)
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 75 (Ranked 478)  
-Completed: 0 (0.00%) (Ranked 375)  
+Completed: 0 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

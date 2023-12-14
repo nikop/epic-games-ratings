@@ -6,9 +6,9 @@
   "Ranking_Popularity": 464,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 290,
+  "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -997,9 +997,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9377,
+  "EOS_Progressed": 9378,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9302,6 +9302,11 @@
       "Time": "2023-12-14T22:09:31.014716+00:00",
       "NumProgressed": 9377,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-14T23:09:30.1073321+00:00",
+      "NumProgressed": 9378,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9377,7 +9382,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -9385,7 +9390,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -9465,7 +9470,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -9505,7 +9510,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -9641,7 +9646,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4782
+      "UsersEstimate": 4783
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -9665,14 +9670,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4782
+      "UsersEstimate": 4783
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9377,
+      "Progressed": 9378,
       "Completed": 10
     }
   ],
@@ -9680,8 +9685,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-12T17:02:56.6362998+00:00",
-  "LastChanged_Achievements": "2023-12-14T22:09:31.0147154+00:00",
+  "LastChanged_Achievements": "2023-12-14T23:09:30.1073318+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:02.1312935+00:00",
-  "LastUpdate_Ratings": "2023-12-14T21:57:48.1868484+00:00",
-  "LastUpdate_Achievements": "2023-12-14T22:09:31.0148275+00:00"
+  "LastUpdate_Ratings": "2023-12-14T22:57:57.3045179+00:00",
+  "LastUpdate_Achievements": "2023-12-14T23:09:30.1073952+00:00"
 }

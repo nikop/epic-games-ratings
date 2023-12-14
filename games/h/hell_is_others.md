@@ -37,10 +37,10 @@ Rating: 4.39 (Ranked 757)
 | Run the Economy | 1.00% | ~2,593 |
 | Committed Relationship | 0.80% | ~2,075 |
 | Number 1 | 0.80% | ~2,075 |
+| A major purchase | 0.60% | ~1,556 |
 | Interior designer | 0.60% | ~1,556 |
 | The Gamble | 0.50% | ~1,297 |
 | The Descent | 0.50% | ~1,297 |
-| A major purchase | 0.50% | ~1,297 |
 | Expert Hunter | 0.40% | ~1,037 |
 | Fungi hunter | 0.40% | ~1,037 |
 | Predator III | 0.40% | ~1,037 |
@@ -63,7 +63,7 @@ Rating: 4.39 (Ranked 757)
 | Hell Is You | 0.10% | ~259 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 259,344 (Ranked 59)  
-Completed: 3 (0.00%) (Ranked 375)  
+Completed: 3 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

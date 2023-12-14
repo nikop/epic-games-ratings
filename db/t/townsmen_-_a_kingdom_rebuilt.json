@@ -3,12 +3,12 @@
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
   "Ranking_Rating": 878,
-  "Ranking_Popularity": 563,
-  "Ranking_PopularitySum": 563,
+  "Ranking_Popularity": 564,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 197,
-  "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 303,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4370,
+  "EOS_Progressed": 4371,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1677,6 +1677,11 @@
       "Time": "2023-12-14T22:11:09.9132577+00:00",
       "NumProgressed": 4370,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-14T23:11:09.6066558+00:00",
+      "NumProgressed": 4371,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -1696,7 +1701,7 @@
       "Name": "Not a small trader anymore",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACHIEVEMENT_AVALANCHE_MINES",
@@ -1728,7 +1733,7 @@
       "Name": "Bread for the people II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACHIEVEMENT_BREAD3",
@@ -1768,7 +1773,7 @@
       "Name": "I like to build stuff... III",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS4",
@@ -1800,7 +1805,7 @@
       "Name": "The King\u0027s new clothes I",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACHIEVEMENT_CLOTHES2",
@@ -1928,7 +1933,7 @@
       "Name": "Builder II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACHIEVEMENT_POPULATION3",
@@ -2336,7 +2341,7 @@
       "Name": "Tax-man I",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACHIEVEMENT_TAXES2",
@@ -2352,7 +2357,7 @@
       "Name": "Tax-man III",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACHIEVEMENT_TAXES4",
@@ -2438,9 +2443,9 @@
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION01",
       "SetID": "9eacipp",
       "Name": "A new beginning",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 524
+      "UsersEstimate": 568
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
@@ -2472,7 +2477,7 @@
       "Name": "Conflicting parties",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION06",
@@ -2495,15 +2500,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4370,
+      "Progressed": 4371,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-04T22:59:34.0965429+00:00",
-  "LastChanged_Achievements": "2023-12-14T22:11:09.9132573+00:00",
+  "LastChanged_Achievements": "2023-12-14T23:11:09.6066552+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:57.9071019+00:00",
-  "LastUpdate_Ratings": "2023-12-14T21:58:47.7736712+00:00",
-  "LastUpdate_Achievements": "2023-12-14T22:11:09.9133494+00:00"
+  "LastUpdate_Ratings": "2023-12-14T22:58:55.2862091+00:00",
+  "LastUpdate_Achievements": "2023-12-14T23:11:09.6067656+00:00"
 }

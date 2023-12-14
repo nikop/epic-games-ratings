@@ -3,9 +3,9 @@
 [View Rawdata](../../db/s/shapez.json)  
 Rating: 4.71 (Ranked 200)  
 ## Awards
-Max (Relaxing): 20  (Ranked 557)  
+Max (Relaxing): 20  (Ranked 558)  
 Sum: 40 (Ranked 503)  
-Diff (max vs sum): 54  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 215 |

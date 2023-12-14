@@ -3,9 +3,9 @@
   "Name": null,
   "ProductSlug": "ariokan-536e54",
   "Ranking_EOS_Progress": 797,
-  "Ranking_EOS_Completed": 375,
+  "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -36,8 +36,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:53:42.9835664+00:00",
-  "LastChanged_Achievements": "2023-12-14T22:10:00.292578+00:00",
+  "LastChanged_Achievements": "2023-12-14T23:09:59.5559325+00:00",
   "LastUpdate_AppInfo": "2023-12-09T13:57:01.9259551+00:00",
-  "LastUpdate_Ratings": "2023-12-14T22:02:51.1203649+00:00",
-  "LastUpdate_Achievements": "2023-12-14T22:10:00.2925809+00:00"
+  "LastUpdate_Ratings": "2023-12-14T23:02:19.3504453+00:00",
+  "LastUpdate_Achievements": "2023-12-14T23:09:59.5559364+00:00"
 }

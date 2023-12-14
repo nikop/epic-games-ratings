@@ -6,7 +6,7 @@
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 30,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
@@ -16560,10 +16560,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 418598,
       "NumberOfAwardsMax": 122911
+    },
+    {
+      "Time": "2023-12-14T23:03:38.9129376+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 418778,
+      "NumberOfAwardsMax": 122911
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 418598,
+  "NumberOfAwards": 418778,
   "NumberOfAwardsMax": 122911,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16631,7 +16637,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 23417
+      "Count": 23597
     },
     {
       "Text": "This game has a Creative Community",
@@ -16640,9 +16646,9 @@
       "Count": 15621
     }
   ],
-  "EOS_Progressed": 976047,
+  "EOS_Progressed": 976057,
   "EOS_Completed": 2907,
-  "EOS_NewPlayers": 4072,
+  "EOS_NewPlayers": 4063,
   "EOS_NewCompleters": 55,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -43795,6 +43801,11 @@
       "Time": "2023-12-14T22:04:15.9245572+00:00",
       "NumProgressed": 976047,
       "NumCompleted": 2907
+    },
+    {
+      "Time": "2023-12-14T23:04:14.5206387+00:00",
+      "NumProgressed": 976057,
+      "NumCompleted": 2907
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -43847,7 +43858,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 9760
+      "UsersEstimate": 9761
     },
     {
       "ID": "Fortuneteller",
@@ -43855,7 +43866,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 9760
+      "UsersEstimate": 9761
     },
     {
       "ID": "Gearhead",
@@ -43879,7 +43890,7 @@
       "Name": "Gun Fu",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68323
+      "UsersEstimate": 68324
     },
     {
       "ID": "Gunslinger",
@@ -43927,7 +43938,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29281
+      "UsersEstimate": 29282
     },
     {
       "ID": "MaxPain",
@@ -44031,7 +44042,7 @@
       "Name": "The Hermit",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29281
+      "UsersEstimate": 29282
     },
     {
       "ID": "TheHightPriestess",
@@ -44039,7 +44050,7 @@
       "Name": "The High Priestess",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29281
+      "UsersEstimate": 29282
     },
     {
       "ID": "TheLovers",
@@ -44047,7 +44058,7 @@
       "Name": "The Lovers",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48802
+      "UsersEstimate": 48803
     },
     {
       "ID": "TheStar",
@@ -44111,7 +44122,7 @@
       "Name": "True Warrior",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 29281
+      "UsersEstimate": 29282
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -44135,7 +44146,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117126
+      "UsersEstimate": 117127
     },
     {
       "ID": "YipMan",
@@ -44151,7 +44162,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 29281
+      "UsersEstimate": 29282
     },
     {
       "ID": "All the President\u0027s Men",
@@ -44342,21 +44353,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 976047,
+      "Progressed": 976057,
       "Completed": 2907
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 104670,
+      "Progressed": 104680,
       "Completed": 10371
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-12-14T19:03:11.1754889+00:00",
-  "LastChanged_Achievements": "2023-12-14T22:04:15.9245569+00:00",
+  "LastChanged": "2023-12-14T23:03:38.9129374+00:00",
+  "LastChanged_Achievements": "2023-12-14T23:04:14.5206385+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:22.348953+00:00",
-  "LastUpdate_Ratings": "2023-12-14T22:03:40.5596132+00:00",
-  "LastUpdate_Achievements": "2023-12-14T22:04:15.9247332+00:00"
+  "LastUpdate_Ratings": "2023-12-14T23:03:38.912938+00:00",
+  "LastUpdate_Achievements": "2023-12-14T23:04:14.5208084+00:00"
 }

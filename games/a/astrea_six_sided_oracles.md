@@ -104,7 +104,7 @@
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 121 (Ranked 429)  
-Completed: 0 (0.00%) (Ranked 375)  
+Completed: 0 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

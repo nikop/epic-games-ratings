@@ -13,11 +13,11 @@ Rating: 4.20 (Ranked 929)
 | Your wounds… They are healing so fast! | 0.80% | ~2,631 |
 | Pride is a sin, young Knight | 0.70% | ~2,302 |
 | We'll be careful | 0.60% | ~1,973 |
-| Back to your senses | 0.50% | ~1,644 |
-| They tricked me | 0.50% | ~1,644 |
-| We need to talk | 0.50% | ~1,644 |
-| They won't last long | 0.50% | ~1,644 |
-| Bring it on! | 0.50% | ~1,644 |
+| Back to your senses | 0.50% | ~1,645 |
+| They tricked me | 0.50% | ~1,645 |
+| We need to talk | 0.50% | ~1,645 |
+| They won't last long | 0.50% | ~1,645 |
+| Bring it on! | 0.50% | ~1,645 |
 | I feel drawn to it | 0.40% | ~1,316 |
 | Here to stay | 0.40% | ~1,316 |
 | Counting on you | 0.40% | ~1,316 |
@@ -46,8 +46,8 @@ Rating: 4.20 (Ranked 929)
 | Something... unnatural | 0.10% | ~329 |
 | We strike as one | 0.10% | ~329 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 328,889 (Ranked 52)  
-Completed: 5 (0.00%) (Ranked 375)  
+Progressed: 328,907 (Ranked 52)  
+Completed: 5 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,7 +128,7 @@ Completed: 5 (0.00%) (Ranked 375)
 | 2023-12-11 | 327,554 | 5 |
 | 2023-12-12 | 327,966 | 5 |
 | 2023-12-13 | 328,382 | 5 |
-| 2023-12-14 | 328,889 | 5 |
+| 2023-12-14 | 328,907 | 5 |
 ## Awards
 Max (Great Boss Battles): 68  (Ranked 411)  
 Sum: 68 (Ranked 478)  

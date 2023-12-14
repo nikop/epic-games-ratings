@@ -6,9 +6,9 @@
   "Ranking_Popularity": 160,
   "Ranking_PopularitySum": 217,
   "Ranking_EOS_Progress": 45,
-  "Ranking_EOS_Completed": 352,
+  "Ranking_EOS_Completed": 353,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
     "PcReleaseDate": "2019-04-15T00:00:00+00:00",
@@ -3755,9 +3755,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 423545,
+  "EOS_Progressed": 423549,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 1676,
+  "EOS_NewPlayers": 1673,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22375,6 +22375,11 @@
       "Time": "2023-12-14T22:05:47.4869268+00:00",
       "NumProgressed": 423545,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-12-14T23:05:47.1569323+00:00",
+      "NumProgressed": 423549,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 89,
@@ -22474,7 +22479,7 @@
       "Name": "Bridgemania",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 59296
+      "UsersEstimate": 59297
     },
     {
       "ID": "AchievementBuilder",
@@ -22490,7 +22495,7 @@
       "Name": "Close call!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 127064
+      "UsersEstimate": 127065
     },
     {
       "ID": "AchievementCommonCause",
@@ -22498,7 +22503,7 @@
       "Name": "Common cause",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 110122
+      "UsersEstimate": 110123
     },
     {
       "ID": "AchievementCriticalCare",
@@ -22506,7 +22511,7 @@
       "Name": "Critical care",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 110122
+      "UsersEstimate": 110123
     },
     {
       "ID": "AchievementDealmaker",
@@ -22514,7 +22519,7 @@
       "Name": "Dealmaker",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 309188
+      "UsersEstimate": 309191
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -22554,7 +22559,7 @@
       "Name": "Forgot something",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 148241
+      "UsersEstimate": 148242
     },
     {
       "ID": "AchievementForgotten",
@@ -22570,7 +22575,7 @@
       "Name": "Full garage",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 258362
+      "UsersEstimate": 258365
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -22586,7 +22591,7 @@
       "Name": "Get out my way",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 118593
+      "UsersEstimate": 118594
     },
     {
       "ID": "AchievementGlobalisationAge",
@@ -22610,7 +22615,7 @@
       "Name": "Individual delivery",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 199066
+      "UsersEstimate": 199068
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -22666,7 +22671,7 @@
       "Name": "Juggler",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 152476
+      "UsersEstimate": 152478
     },
     {
       "ID": "AchievementJustInTime",
@@ -22674,7 +22679,7 @@
       "Name": "Just in time!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 76238
+      "UsersEstimate": 76239
     },
     {
       "ID": "AchievementLargeConstruction",
@@ -22706,7 +22711,7 @@
       "Name": "Mega-railroad",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 97415
+      "UsersEstimate": 97416
     },
     {
       "ID": "AchievementMetroBuilder",
@@ -22754,7 +22759,7 @@
       "Name": "Need to think",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 59296
+      "UsersEstimate": 59297
     },
     {
       "ID": "AchievementNonStop",
@@ -22762,7 +22767,7 @@
       "Name": "Non-Stop",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 190595
+      "UsersEstimate": 190597
     },
     {
       "ID": "AchievementOneWay",
@@ -22770,7 +22775,7 @@
       "Name": "One way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 42354
+      "UsersEstimate": 42355
     },
     {
       "ID": "AchievementOuroboros",
@@ -22818,7 +22823,7 @@
       "Name": "Relocation",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 42354
+      "UsersEstimate": 42355
     },
     {
       "ID": "AchievementSabotage",
@@ -22866,7 +22871,7 @@
       "Name": "Steam Age",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 67767
+      "UsersEstimate": 67768
     },
     {
       "ID": "AchievementTheHare",
@@ -22890,7 +22895,7 @@
       "Name": "The Tortoise",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 50825
+      "UsersEstimate": 50826
     },
     {
       "ID": "AchievementToTheEyeballs",
@@ -22898,7 +22903,7 @@
       "Name": "To the eyeballs!",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 216008
+      "UsersEstimate": 216010
     },
     {
       "ID": "AchievementTourismAge",
@@ -22922,7 +22927,7 @@
       "Name": "Upgrade complete",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 97415
+      "UsersEstimate": 97416
     },
     {
       "ID": "AchievementUrbanizationAge",
@@ -23097,21 +23102,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 422886,
+      "Progressed": 422890,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 423545,
+      "Progressed": 423549,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-12-14T15:00:42.7390294+00:00",
-  "LastChanged_Achievements": "2023-12-14T22:05:47.4869263+00:00",
+  "LastChanged_Achievements": "2023-12-14T23:05:47.1569321+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:57.7448768+00:00",
-  "LastUpdate_Ratings": "2023-12-14T22:03:00.513389+00:00",
-  "LastUpdate_Achievements": "2023-12-14T22:05:47.48708+00:00"
+  "LastUpdate_Ratings": "2023-12-14T23:02:59.393507+00:00",
+  "LastUpdate_Achievements": "2023-12-14T23:05:47.1571006+00:00"
 }

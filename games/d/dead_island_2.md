@@ -5,60 +5,60 @@ Rating: 4.54 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~22,125 |
-| Hotel California | 3.00% | ~22,125 |
-| Welcome To Hell-A | 3.00% | ~22,125 |
-| One of Us | 3.00% | ~1,891 |
-| Whatever It Takes | 3.00% | ~1,891 |
-| Pork Chopped | 3.00% | ~1,891 |
-| Dr. Reed, I Presume? | 2.00% | ~14,750 |
-| Git Gutte! | 2.00% | ~14,750 |
-| Anger Management | 2.00% | ~14,750 |
-| Bookworm | 2.00% | ~14,750 |
-| But Doctor, I am Butcho | 2.00% | ~14,750 |
-| Slayer Squad | 2.00% | ~14,750 |
-| Can't Handle the Truth | 2.00% | ~14,750 |
-| Coup de Grâce | 2.00% | ~14,750 |
-| Like Riding a Bike | 2.00% | ~14,750 |
-| Hazardous Materials | 2.00% | ~14,750 |
-| Friends Like These | 2.00% | ~14,750 |
-| Apex Predator | 2.00% | ~14,750 |
-| Zombologist | 2.00% | ~14,750 |
-| A Patton Emerges | 2.00% | ~14,750 |
-| Stacking the Deck | 2.00% | ~14,750 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,750 |
-| Our True Nature | 2.00% | ~14,750 |
-| This is My Weapon | 2.00% | ~14,750 |
-| Making Your Mark | 1.00% | ~7,375 |
-| Perks of the Job | 1.00% | ~7,375 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,375 |
-| Ooh, Shiny! | 1.00% | ~7,375 |
-| Humanity Distilled | 1.00% | ~7,375 |
-| I Am the Resurrection | 1.00% | ~7,375 |
-| Down with the Sickness | 1.00% | ~7,375 |
-| Max Headroom | 1.00% | ~7,375 |
+| Break A Leg | 3.00% | ~22,128 |
+| Hotel California | 3.00% | ~22,128 |
+| Welcome To Hell-A | 3.00% | ~22,128 |
+| One of Us | 3.00% | ~1,894 |
+| Whatever It Takes | 3.00% | ~1,894 |
+| Pork Chopped | 3.00% | ~1,894 |
+| Dr. Reed, I Presume? | 2.00% | ~14,752 |
+| Git Gutte! | 2.00% | ~14,752 |
+| Anger Management | 2.00% | ~14,752 |
+| Bookworm | 2.00% | ~14,752 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,752 |
+| But Doctor, I am Butcho | 2.00% | ~14,752 |
+| Slayer Squad | 2.00% | ~14,752 |
+| Can't Handle the Truth | 2.00% | ~14,752 |
+| Coup de Grâce | 2.00% | ~14,752 |
+| Like Riding a Bike | 2.00% | ~14,752 |
+| Hazardous Materials | 2.00% | ~14,752 |
+| Friends Like These | 2.00% | ~14,752 |
+| Apex Predator | 2.00% | ~14,752 |
+| Zombologist | 2.00% | ~14,752 |
+| A Patton Emerges | 2.00% | ~14,752 |
+| Stacking the Deck | 2.00% | ~14,752 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,752 |
+| Our True Nature | 2.00% | ~14,752 |
+| This is My Weapon | 2.00% | ~14,752 |
+| Making Your Mark | 1.00% | ~7,376 |
+| Perks of the Job | 1.00% | ~7,376 |
+| Ooh, Shiny! | 1.00% | ~7,376 |
+| Humanity Distilled | 1.00% | ~7,376 |
+| I Am the Resurrection | 1.00% | ~7,376 |
+| Down with the Sickness | 1.00% | ~7,376 |
+| Max Headroom | 1.00% | ~7,376 |
 | Jumbo Keyring | 0.90% | ~6,638 |
 | Go, Bobcats! | 0.90% | ~6,638 |
 | Rising Star | 0.90% | ~6,638 |
-| Not Even My Final Form | 0.80% | ~5,900 |
+| Not Even My Final Form | 0.80% | ~5,901 |
 | On Safari | 0.70% | ~5,163 |
 | Smorgasbord | 0.70% | ~5,163 |
 | Internet Famous | 0.70% | ~5,163 |
 | Variety is the Spice of Death | 0.70% | ~5,163 |
-| Make it So | 0.60% | ~4,425 |
+| Make it So | 0.60% | ~4,426 |
 | LA Influential | 0.50% | ~3,688 |
 | Gore Horse | 0.50% | ~3,688 |
 | Sole Survivor | 0.40% | ~2,950 |
 | Sharpest Tool in the Box | 0.40% | ~2,950 |
-| Top That, Tisha! | 0.40% | ~252 |
+| Top That, Tisha! | 0.40% | ~253 |
 | Survival Skills | 0.30% | ~2,213 |
 | Lawn and Order | 0.20% | ~126 |
 | Donk! | 0.10% | ~738 |
 | Bucket List | 0.10% | ~738 |
 | Wilhelm | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 737,504 (Ranked 21)  
-Completed: 2,483 (0.34%) (Ranked 235)  
+Progressed: 737,598 (Ranked 21)  
+Completed: 2,483 (0.34%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -295,7 +295,7 @@ Completed: 2,483 (0.34%) (Ranked 235)
 | 2023-12-11 | 733,504 | 2,477 |
 | 2023-12-12 | 733,868 | 2,480 |
 | 2023-12-13 | 734,518 | 2,482 |
-| 2023-12-14 | 737,504 | 2,483 |
+| 2023-12-14 | 737,598 | 2,483 |
 ## Awards
 Max (Great Boss Battles): 8,145  (Ranked 49)  
 Sum: 12,539 (Ranked 81)  

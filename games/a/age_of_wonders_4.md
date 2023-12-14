@@ -45,11 +45,11 @@ Rating: 4.62 (Ranked 371)
 | The Eternal Court | 0.90% | ~51 |
 | Lord of Chaos | 0.80% | ~45 |
 | Eternal Lord | 0.80% | ~45 |
-| God Emperor | 0.70% | ~39 |
-| The Goddess of Nature | 0.70% | ~39 |
-| Manufactured War | 0.70% | ~39 |
-| Grexolis | 0.70% | ~39 |
-| One for All, All for One | 0.70% | ~39 |
+| God Emperor | 0.70% | ~40 |
+| The Goddess of Nature | 0.70% | ~40 |
+| Manufactured War | 0.70% | ~40 |
+| Grexolis | 0.70% | ~40 |
+| One for All, All for One | 0.70% | ~40 |
 | I've Got Everything I Need Right Here | 0.60% | ~34 |
 | Duality | 0.60% | ~34 |
 | Against the Odds | 0.50% | ~28 |
@@ -66,8 +66,8 @@ Rating: 4.62 (Ranked 371)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,642 (Ranked 191)  
-Completed: 7 (0.12%) (Ranked 287)  
+Progressed: 5,643 (Ranked 191)  
+Completed: 7 (0.12%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -272,7 +272,7 @@ Completed: 7 (0.12%) (Ranked 287)
 | 2023-12-11 | 5,586 | 7 |
 | 2023-12-12 | 5,587 | 7 |
 | 2023-12-13 | 5,598 | 7 |
-| 2023-12-14 | 5,642 | 7 |
+| 2023-12-14 | 5,643 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 478)  
 Sum: 93 (Ranked 460)  

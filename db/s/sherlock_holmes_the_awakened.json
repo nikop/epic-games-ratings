@@ -3,8 +3,8 @@
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_Rating": 453,
-  "Ranking_Popularity": 563,
-  "Ranking_PopularitySum": 563,
+  "Ranking_Popularity": 564,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 149,
@@ -129,7 +129,7 @@
   "Tags": [],
   "EOS_Progressed": 1174,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.64,
   "EosHistory": [
@@ -4259,8 +4259,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-14T11:03:29.6730885+00:00",
-  "LastChanged_Achievements": "2023-12-14T22:04:49.3997634+00:00",
+  "LastChanged_Achievements": "2023-12-14T23:04:47.8475227+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-14T22:03:46.7257969+00:00",
-  "LastUpdate_Achievements": "2023-12-14T22:04:49.3997981+00:00"
+  "LastUpdate_Ratings": "2023-12-14T23:03:44.8610103+00:00",
+  "LastUpdate_Achievements": "2023-12-14T23:04:47.8475558+00:00"
 }

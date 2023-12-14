@@ -3,9 +3,9 @@
   "Name": "Math Fun",
   "ProductSlug": "math-fun-9585ad",
   "Ranking_EOS_Progress": 659,
-  "Ranking_EOS_Completed": 375,
-  "Ranking_EOS_NewPlayers": 441,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 376,
+  "Ranking_EOS_NewPlayers": 442,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-12-02T18:30:00+00:00",
     "PcReleaseDate": "2017-10-11T18:30:00+00:00",
@@ -111,8 +111,8 @@
   ],
   "FirstSeen": "2023-12-05T23:59:23.1866187+00:00",
   "FirstSeenAchievements": "2023-12-01T04:03:09.3266073+00:00",
-  "LastChanged_Achievements": "2023-12-14T22:06:57.9668282+00:00",
+  "LastChanged_Achievements": "2023-12-14T23:06:56.5805381+00:00",
   "LastUpdate_AppInfo": "2023-12-08T03:57:07.0639054+00:00",
-  "LastUpdate_Ratings": "2023-12-14T22:03:01.8295382+00:00",
-  "LastUpdate_Achievements": "2023-12-14T22:06:57.966835+00:00"
+  "LastUpdate_Ratings": "2023-12-14T23:03:00.7324759+00:00",
+  "LastUpdate_Achievements": "2023-12-14T23:06:56.5805436+00:00"
 }

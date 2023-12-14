@@ -3,9 +3,9 @@
   "Name": "Tennis Elbow Manager 2",
   "ProductSlug": "tennis-elbow-manager-2-17a1a0",
   "Ranking_EOS_Progress": 797,
-  "Ranking_EOS_Completed": 375,
+  "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-01T12:00:00+00:00",
     "PcReleaseDate": "2019-06-01T22:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-11T16:02:47.1356821+00:00",
   "LastUpdate_AppInfo": "2023-12-11T13:04:39.0060962+00:00",
-  "LastUpdate_Ratings": "2023-12-14T22:03:56.1872887+00:00",
-  "LastUpdate_Achievements": "2023-12-14T22:09:11.5658783+00:00"
+  "LastUpdate_Ratings": "2023-12-14T23:03:54.0646147+00:00",
+  "LastUpdate_Achievements": "2023-12-14T23:09:10.3162789+00:00"
 }

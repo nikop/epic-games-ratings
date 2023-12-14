@@ -5,7 +5,7 @@ Rating: 3.47 (Ranked 1,062)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 4.00% | ~72 |
+| I Like My Stakes Rare! | 5.00% | ~90 |
 | Catch and Release | 4.00% | ~72 |
 | Home Is Where the Heart Is | 3.00% | ~54 |
 | Blood Will Have Blood | 3.00% | ~54 |
@@ -40,7 +40,7 @@ Rating: 3.47 (Ranked 1,062)
 | Revelations | 0.60% | ~11 |
 | Block Party | 0.60% | ~11 |
 | You Clean It Up | 0.60% | ~11 |
-| Blacklight Down | 0.50% | ~9 |
+| Blacklight Down | 0.60% | ~11 |
 | Sisterhood | 0.40% | ~7 |
 | What Lies Below | 0.40% | ~7 |
 | Bloody Initiate | 0.40% | ~7 |
@@ -72,8 +72,8 @@ Rating: 3.47 (Ranked 1,062)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,808 (Ranked 235)  
-Completed: 0 (0.00%) (Ranked 375)  
+Progressed: 1,810 (Ranked 235)  
+Completed: 0 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -187,7 +187,7 @@ Completed: 0 (0.00%) (Ranked 375)
 | 2023-12-01 | 1,775 | 0 |
 | 2023-12-02 | 1,776 | 0 |
 | 2023-12-13 | 1,784 | 0 |
-| 2023-12-14 | 1,808 | 0 |
+| 2023-12-14 | 1,810 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

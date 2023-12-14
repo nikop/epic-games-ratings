@@ -6,20 +6,20 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,049 |
-| Exploitative | 4.00% | ~20,039 |
-| Point Shooting | 4.00% | ~20,039 |
-| Wet Feet | 4.00% | ~20,039 |
-| High Speed Low Drag | 3.00% | ~15,029 |
-| Lucky | 3.00% | ~15,029 |
-| Stylin' | 3.00% | ~15,029 |
-| Turf War | 3.00% | ~15,029 |
-| Banged | 2.00% | ~10,019 |
-| Checkpoint Victory | 2.00% | ~10,019 |
-| First Blood | 2.00% | ~10,019 |
-| Flaccid Paralysis | 2.00% | ~10,019 |
-| Push Victory | 2.00% | ~10,019 |
-| Self-destructive | 2.00% | ~10,019 |
+| Wallbanger | 5.00% | ~25,050 |
+| Exploitative | 4.00% | ~20,040 |
+| Point Shooting | 4.00% | ~20,040 |
+| Wet Feet | 4.00% | ~20,040 |
+| High Speed Low Drag | 3.00% | ~15,030 |
+| Lucky | 3.00% | ~15,030 |
+| Stylin' | 3.00% | ~15,030 |
+| Turf War | 3.00% | ~15,030 |
+| Banged | 2.00% | ~10,020 |
+| Checkpoint Victory | 2.00% | ~10,020 |
+| First Blood | 2.00% | ~10,020 |
+| Flaccid Paralysis | 2.00% | ~10,020 |
+| Push Victory | 2.00% | ~10,020 |
+| Self-destructive | 2.00% | ~10,020 |
 | Blindfire | 1.00% | ~5,010 |
 | Ruthless | 1.00% | ~5,010 |
 | Semper Paratus | 1.00% | ~5,010 |
@@ -42,8 +42,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~501 |
 | Road Hazard | 0.10% | ~501 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 500,972 (Ranked 37)  
-Completed: 2 (0.00%) (Ranked 375)  
+Progressed: 500,996 (Ranked 37)  
+Completed: 2 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,10 +280,10 @@ Completed: 2 (0.00%) (Ranked 375)
 | 2023-12-11 | 499,606 | 2 |
 | 2023-12-12 | 499,885 | 2 |
 | 2023-12-13 | 500,220 | 2 |
-| 2023-12-14 | 500,972 | 2 |
+| 2023-12-14 | 500,996 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 403  (Ranked 234)  
-Sum: 3,231 (Ranked 176)  
+Sum: 3,232 (Ranked 176)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -291,7 +291,7 @@ Diff (max vs sum): 58
 | This game has Challenging Combat | 398 |
 | This game is Extremely Fun | 373 |
 | This game has Competitive Players | 370 |
-| This game is Highly Recommended | 358 |
+| This game is Highly Recommended | 359 |
 | This game has Realistic Visuals | 346 |
 | This game has Amazing Characters | 342 |
 | This game has Amazing Storytelling | 334 |
@@ -608,4 +608,4 @@ Diff (max vs sum): 58
 | 2023-12-10 | 4.61 | - | 403 | 3,222 |
 | 2023-12-11 | 4.61 | - | 403 | 3,225 |
 | 2023-12-13 | 4.61 | - | 403 | 3,230 |
-| 2023-12-14 | 4.61 | - | 403 | 3,231 |
+| 2023-12-14 | 4.61 | - | 403 | 3,232 |

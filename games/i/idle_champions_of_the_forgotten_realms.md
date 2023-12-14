@@ -122,6 +122,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pin and Skewer | 0.10% | ~207 |
 | Vecna Out! | 0.10% | ~207 |
 | Bully for Vecna | 0.10% | ~207 |
+| Who Lurks Below? | 0.10% | ~207 |
 | Clowning Around | 0.10% | ~207 |
 | Xanathaaaaaaar! | 0.10% | ~207 |
 | A Whale of a Time | 0.10% | ~207 |
@@ -550,11 +551,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Lose Your Head | 0.10% | ~207 |
 | Mind Spike | 0.10% | ~207 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
-| Who Lurks Below? | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,387 (Ranked 66)  
-Completed: 2,526 (1.05%) (Ranked 168)  
+Progressed: 240,414 (Ranked 66)  
+Completed: 2,526 (1.05%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -791,7 +791,7 @@ Completed: 2,526 (1.05%) (Ranked 168)
 | 2023-12-11 | 239,456 | 2,517 |
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
-| 2023-12-14 | 240,387 | 2,526 |
+| 2023-12-14 | 240,414 | 2,526 |
 ## Awards
 Max (Great for Beginners): 5,635  (Ranked 70)  
 Sum: 32,872 (Ranked 41)  

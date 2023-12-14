@@ -6,9 +6,9 @@
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
-  "Ranking_EOS_Completed": 375,
+  "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9714,9 +9714,9 @@
       "Count": 1004
     }
   ],
-  "EOS_Progressed": 127084,
+  "EOS_Progressed": 127096,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1298,
+  "EOS_NewPlayers": 1305,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35054,6 +35054,11 @@
       "Time": "2023-12-14T22:09:48.5946509+00:00",
       "NumProgressed": 127084,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-14T23:09:47.9352995+00:00",
+      "NumProgressed": 127096,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35335,9 +35340,9 @@
       "ID": "combat_party_wipe_any_run_boss",
       "SetID": "64l4lke",
       "Name": "It Happens",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1144
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -35351,9 +35356,9 @@
       "ID": "driving_biome_clear_cave",
       "SetID": "64l4lke",
       "Name": "Spelunker",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 763
+      "UsersEstimate": 890
     },
     {
       "ID": "driving_biome_clear_city",
@@ -35391,9 +35396,9 @@
       "ID": "driving_distance_easy",
       "SetID": "64l4lke",
       "Name": "Ramble On",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 763
+      "UsersEstimate": 890
     },
     {
       "ID": "driving_distance_hard",
@@ -35479,9 +35484,9 @@
       "ID": "inn_visit_all_variants",
       "SetID": "64l4lke",
       "Name": "Worldly Traveller",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 890
+      "UsersEstimate": 1017
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -35696,21 +35701,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127084,
+      "Progressed": 127096,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1953,
+      "Progressed": 1965,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-14T21:00:00.7778844+00:00",
-  "LastChanged_Achievements": "2023-12-14T22:09:48.5946505+00:00",
+  "LastChanged_Achievements": "2023-12-14T23:09:47.9352993+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T22:01:32.3861239+00:00",
-  "LastUpdate_Achievements": "2023-12-14T22:09:48.5948052+00:00"
+  "LastUpdate_Ratings": "2023-12-14T23:01:40.8566883+00:00",
+  "LastUpdate_Achievements": "2023-12-14T23:09:47.9354611+00:00"
 }

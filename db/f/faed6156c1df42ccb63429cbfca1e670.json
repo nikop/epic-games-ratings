@@ -3,9 +3,9 @@
   "Name": "Garden City",
   "ProductSlug": "garden-city-c73d37",
   "Ranking_EOS_Progress": 797,
-  "Ranking_EOS_Completed": 375,
+  "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2024-01-05T21:00:00+00:00",
     "PcReleaseDate": "2020-11-19T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-12T04:57:08.9513243+00:00",
-  "LastUpdate_Ratings": "2023-12-14T21:59:10.5691329+00:00",
-  "LastUpdate_Achievements": "2023-12-14T22:05:31.3202954+00:00"
+  "LastUpdate_Ratings": "2023-12-14T22:59:17.1830773+00:00",
+  "LastUpdate_Achievements": "2023-12-14T23:05:31.080463+00:00"
 }

@@ -11,13 +11,13 @@
 | Connected | 81.00% | ~38 |
 | Expansion | 79.00% | ~37 |
 | Harvest Time | 70.00% | ~33 |
-| Mine! | 66.00% | ~31 |
+| Mine! | 68.00% | ~32 |
 | Artificer's Apprentice | 64.00% | ~30 |
 | Get out of here! | 55.00% | ~26 |
+| Fly the friendly Sky | 55.00% | ~26 |
 | Necromancer's Apprentice | 53.00% | ~25 |
-| Fly the friendly Sky | 53.00% | ~25 |
+| The Circle | 47.00% | ~22 |
 | Friend of Lyraine | 47.00% | ~22 |
-| The Circle | 45.00% | ~21 |
 | Alchemist's Apprentice | 45.00% | ~21 |
 | Redecorating | 38.00% | ~18 |
 | Bad JuJu | 30.00% | ~14 |
@@ -76,7 +76,7 @@
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 47 (Ranked 518)  
-Completed: 0 (0.00%) (Ranked 375)  
+Completed: 0 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

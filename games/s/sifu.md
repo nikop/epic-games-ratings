@@ -24,8 +24,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Street Fighting | 0.70% | ~5,057 |
 | Old Child | 0.70% | ~5,057 |
 | Path of the Prospect | 0.70% | ~5,057 |
-| Furious Fists | 0.60% | ~4,334 |
-| Take damage to save time | 0.60% | ~4,334 |
+| Furious Fists | 0.60% | ~4,335 |
+| Take damage to save time | 0.60% | ~4,335 |
 | Fight the way you practice | 0.60% | ~190 |
 | Scareless | 0.50% | ~3,612 |
 | Qi Gong: Mind | 0.50% | ~3,612 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~32 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,408 (Ranked 24)  
+Progressed: 722,433 (Ranked 24)  
 Completed: 12,953 (1.79%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 12,953 (1.79%) (Ranked 136)
 | 2023-12-11 | 717,971 | 12,952 |
 | 2023-12-12 | 717,993 | 12,952 |
 | 2023-12-13 | 718,112 | 12,953 |
-| 2023-12-14 | 722,408 | 12,953 |
+| 2023-12-14 | 722,433 | 12,953 |
 ## Awards
 Max (Great Boss Battles): 6,923  (Ranked 55)  
 Sum: 12,152 (Ranked 83)  

@@ -5,27 +5,27 @@ Rating: 4.69 (Ranked 233)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 32.00% | ~218,222 |
-| 50 HEADSHOTS | 29.00% | ~197,764 |
-| SCIENCE AND INDUSTRY | 28.00% | ~190,944 |
-| FINISHED CHAPTER 1 | 27.00% | ~184,125 |
-| FINISHED CHAPTER 2 | 20.00% | ~136,389 |
-| 200 HEADSHOTS | 18.00% | ~122,750 |
-| FINISHED CHAPTER 3 | 17.00% | ~115,930 |
-| FINISHED CHAPTER 4 | 15.00% | ~102,292 |
-| FINISH CHAPTER 5 | 12.00% | ~81,833 |
-| FINISH CHAPTER 6 | 11.00% | ~75,014 |
-| CATHARTIC ESCAPISM | 11.00% | ~75,014 |
-| 1000 KILLS | 9.00% | ~61,375 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,278 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,639 |
-| FIRST BLOOD | 2.00% | ~13,639 |
+| 100 KILLS | 32.00% | ~218,213 |
+| 50 HEADSHOTS | 29.00% | ~197,756 |
+| SCIENCE AND INDUSTRY | 28.00% | ~190,936 |
+| FINISHED CHAPTER 1 | 27.00% | ~184,117 |
+| FINISHED CHAPTER 2 | 20.00% | ~136,383 |
+| 200 HEADSHOTS | 18.00% | ~122,745 |
+| FINISHED CHAPTER 3 | 17.00% | ~115,926 |
+| FINISHED CHAPTER 4 | 15.00% | ~102,287 |
+| FINISH CHAPTER 5 | 12.00% | ~81,830 |
+| FINISH CHAPTER 6 | 11.00% | ~75,011 |
+| CATHARTIC ESCAPISM | 11.00% | ~75,011 |
+| 1000 KILLS | 9.00% | ~61,372 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,277 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,638 |
+| FIRST BLOOD | 2.00% | ~13,638 |
 | PACEMAKER | 1.00% | ~6,819 |
 | TIME PARADOX | 1.00% | ~6,819 |
 | FIREFIGHT LEVEL 30 | 0.90% | ~6,137 |
 | OUT OF ORDER | 0.90% | ~6,137 |
-| PARTYHARD | 0.80% | ~5,456 |
-| NEW GAME PLUS | 0.70% | ~4,774 |
+| PARTYHARD | 0.80% | ~5,455 |
+| NEW GAME PLUS | 0.70% | ~4,773 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,410 |
 | CHURCH | 0.40% | ~2,728 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~2,046 |
@@ -58,8 +58,8 @@ Rating: 4.69 (Ranked 233)
 | THE GAMBLER | 0.10% | ~682 |
 | WARRIOR IN A GARDEN | 0.10% | ~682 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 681,944 (Ranked 28)  
-Completed: 71 (0.01%) (Ranked 352)  
+Progressed: 681,916 (Ranked 28)  
+Completed: 71 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

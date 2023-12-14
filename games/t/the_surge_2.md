@@ -38,9 +38,9 @@ Rating: 4.25 (Ranked 890)
 | Triplets | 11.00% | ~246 |
 | Stimulating The Local Economy | 10.00% | ~224 |
 | Denying Prophecy | 9.00% | ~201 |
+| Defense in Depth | 9.00% | ~201 |
 | A Little Banged Up | 8.00% | ~179 |
 | Following In Their Footsteps | 8.00% | ~179 |
-| Defense in Depth | 8.00% | ~179 |
 | Reverse Engineering | 7.00% | ~156 |
 | Reborn | 6.00% | ~134 |
 | Remote Surgery | 6.00% | ~134 |
@@ -64,7 +64,7 @@ Rating: 4.25 (Ranked 890)
 | Swiss Army Drone | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,235 (Ranked 228)  
-Completed: 13 (0.58%) (Ranked 198)  
+Completed: 13 (0.58%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

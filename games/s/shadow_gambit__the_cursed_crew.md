@@ -5,35 +5,35 @@ Rating: 4.81 (Ranked 84)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 66.00% | ~758 |
-| The Adventure Begins | 49.00% | ~563 |
-| Swabbie | 37.00% | ~425 |
-| With Great Power… | 37.00% | ~425 |
-| This Belongs in a Museum | 33.00% | ~379 |
+| A New Journey | 66.00% | ~760 |
+| The Adventure Begins | 49.00% | ~564 |
+| Swabbie | 37.00% | ~426 |
+| With Great Power… | 37.00% | ~426 |
+| This Belongs in a Museum | 33.00% | ~380 |
 | The Gambit Has Begun | 30.00% | ~345 |
-| Somewhere Deep in the Lost Caribbean | 27.00% | ~310 |
-| Powder Monkey | 27.00% | ~310 |
+| Somewhere Deep in the Lost Caribbean | 27.00% | ~311 |
+| Powder Monkey | 27.00% | ~311 |
 | Mirror Mirror on the Wall | 26.00% | ~299 |
 | Pirates Assemble! | 24.00% | ~276 |
-| Buccaneer | 21.00% | ~241 |
+| Buccaneer | 21.00% | ~242 |
 | Fishy Fish | 20.00% | ~230 |
 | All Good Things | 18.00% | ~207 |
 | Persistent Parasite | 16.00% | ~184 |
-| Seadog | 15.00% | ~172 |
+| Seadog | 15.00% | ~173 |
 | Jaded Judge | 12.00% | ~138 |
-| Rustic Recipe | 11.00% | ~126 |
+| Rustic Recipe | 11.00% | ~127 |
 | Privateer | 10.00% | ~115 |
 | Tobacco Travesty | 10.00% | ~115 |
-| Accursed Artifacts | 9.00% | ~103 |
-| Lyrical Longing | 9.00% | ~103 |
-| Fully Decked | 7.00% | ~80 |
+| Accursed Artifacts | 9.00% | ~104 |
+| Lyrical Longing | 9.00% | ~104 |
+| Fully Decked | 7.00% | ~81 |
 | Corsair | 6.00% | ~69 |
 | Freebooter | 4.00% | ~46 |
-| Marauder | 3.00% | ~34 |
-| Welcome Back Jester | 3.00% | ~34 |
+| Marauder | 3.00% | ~35 |
+| Welcome Back Jester | 3.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,149 (Ranked 261)  
-Completed: 32 (2.79%) (Ranked 111)  
+Progressed: 1,151 (Ranked 261)  
+Completed: 32 (2.78%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -158,7 +158,7 @@ Completed: 32 (2.79%) (Ranked 111)
 | 2023-12-11 | 1,109 | 32 |
 | 2023-12-12 | 1,119 | 32 |
 | 2023-12-13 | 1,126 | 32 |
-| 2023-12-14 | 1,149 | 32 |
+| 2023-12-14 | 1,151 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

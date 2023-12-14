@@ -3,12 +3,12 @@
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_Rating": 389,
-  "Ranking_Popularity": 563,
-  "Ranking_PopularitySum": 563,
+  "Ranking_Popularity": 564,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 255,
-  "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 309,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -3211,9 +3211,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1077
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -3323,9 +3323,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 881
+      "UsersEstimate": 894
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -3868,8 +3868,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-14T22:05:08.0075517+00:00",
+  "LastChanged_Achievements": "2023-12-14T23:05:07.7512911+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-14T21:57:14.258578+00:00",
-  "LastUpdate_Achievements": "2023-12-14T22:05:08.007642+00:00"
+  "LastUpdate_Ratings": "2023-12-14T22:57:22.6050157+00:00",
+  "LastUpdate_Achievements": "2023-12-14T23:05:07.7514017+00:00"
 }

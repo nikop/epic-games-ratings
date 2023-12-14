@@ -8259,9 +8259,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 722408,
+  "EOS_Progressed": 722433,
   "EOS_Completed": 12953,
-  "EOS_NewPlayers": 4540,
+  "EOS_NewPlayers": 4563,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.79,
   "EosHistory": [
@@ -29364,6 +29364,11 @@
       "Time": "2023-12-14T22:09:17.2093834+00:00",
       "NumProgressed": 722408,
       "NumCompleted": 12953
+    },
+    {
+      "Time": "2023-12-14T23:09:16.3464153+00:00",
+      "NumProgressed": 722433,
+      "NumCompleted": 12953
     }
   ],
   "TotalAchievements": 60,
@@ -29415,7 +29420,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.6,
       "XP": 75,
-      "UsersEstimate": 4334
+      "UsersEstimate": 4335
     },
     {
       "ID": "07_Wude_H1",
@@ -29687,7 +29692,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4334
+      "UsersEstimate": 4335
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -29854,21 +29859,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 31709,
+      "Progressed": 31734,
       "Completed": 10771
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 722408,
+      "Progressed": 722433,
       "Completed": 12953
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-14T01:49:50.3511384+00:00",
-  "LastChanged_Achievements": "2023-12-14T22:09:17.2093829+00:00",
+  "LastChanged_Achievements": "2023-12-14T23:09:16.346415+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:05.3418066+00:00",
-  "LastUpdate_Ratings": "2023-12-14T22:03:32.1422136+00:00",
-  "LastUpdate_Achievements": "2023-12-14T22:09:17.2094979+00:00"
+  "LastUpdate_Ratings": "2023-12-14T23:03:32.0682655+00:00",
+  "LastUpdate_Achievements": "2023-12-14T23:09:16.346561+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "3319fe5042ab4392a2b11c6938c0cda1",
   "Name": "Thief",
   "ProductSlug": "thief-5bb95f",
-  "Ranking_EOS_Progress": 576,
-  "Ranking_EOS_Completed": 375,
+  "Ranking_EOS_Progress": 577,
+  "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -417,8 +417,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-14T22:04:40.3421839+00:00",
+  "LastChanged_Achievements": "2023-12-14T23:04:38.8672626+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184739+00:00",
-  "LastUpdate_Ratings": "2023-12-14T21:58:00.8349837+00:00",
-  "LastUpdate_Achievements": "2023-12-14T22:04:40.342208+00:00"
+  "LastUpdate_Ratings": "2023-12-14T22:58:10.0837824+00:00",
+  "LastUpdate_Achievements": "2023-12-14T23:04:38.8672862+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Humble",
   "ProductSlug": "humble",
   "Ranking_EOS_Progress": 797,
-  "Ranking_EOS_Completed": 375,
+  "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:31.7110482+00:00",
   "LastChanged": "2023-03-31T05:57:31.7110483+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:28.88845+00:00",
-  "LastUpdate_Ratings": "2023-12-14T21:57:15.5110288+00:00",
-  "LastUpdate_Achievements": "2023-12-14T22:07:56.3254757+00:00"
+  "LastUpdate_Ratings": "2023-12-14T22:57:23.8396917+00:00",
+  "LastUpdate_Achievements": "2023-12-14T23:07:55.1341935+00:00"
 }

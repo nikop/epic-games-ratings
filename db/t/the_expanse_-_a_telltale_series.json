@@ -3,11 +3,11 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 547,
-  "Ranking_Popularity": 563,
-  "Ranking_PopularitySum": 563,
+  "Ranking_Popularity": 564,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16256,
+  "EOS_Progressed": 16263,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 288,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13837,6 +13837,11 @@
       "Time": "2023-12-14T22:08:34.5221977+00:00",
       "NumProgressed": 16256,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-14T23:08:32.9155704+00:00",
+      "NumProgressed": 16263,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13865,7 +13870,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "12",
@@ -13881,7 +13886,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "14",
@@ -13897,7 +13902,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "16",
@@ -13913,7 +13918,7 @@
       "Name": "Spore Taste",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "18",
@@ -13945,15 +13950,15 @@
       "Name": "Thorston Mayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1301
     },
     {
       "ID": "22",
@@ -13985,7 +13990,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "26",
@@ -13993,7 +13998,7 @@
       "Name": "Call it Even",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "27",
@@ -14001,7 +14006,7 @@
       "Name": "Bosmang",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "28",
@@ -14025,7 +14030,7 @@
       "Name": "Captain Drummer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "30",
@@ -14057,7 +14062,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "7",
@@ -14081,7 +14086,7 @@
       "Name": "Impossible Objects",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "31",
@@ -14113,7 +14118,7 @@
       "Name": "Master Negotiator",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "35",
@@ -14128,13 +14133,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16256,
+      "Progressed": 16263,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2210,
+      "Progressed": 2217,
       "Completed": 885
     }
   ],
@@ -14142,8 +14147,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-14T22:08:34.5221973+00:00",
+  "LastChanged_Achievements": "2023-12-14T23:08:32.91557+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-14T21:57:46.8614733+00:00",
-  "LastUpdate_Achievements": "2023-12-14T22:08:34.5222687+00:00"
+  "LastUpdate_Ratings": "2023-12-14T22:57:56.1409348+00:00",
+  "LastUpdate_Achievements": "2023-12-14T23:08:32.9156363+00:00"
 }

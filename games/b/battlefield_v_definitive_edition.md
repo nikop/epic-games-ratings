@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 92.00% | ~28,160 |
-| Enemy Attrition | 71.00% | ~21,732 |
-| Grim Reaper | 69.00% | ~21,120 |
-| Heads Down | 67.00% | ~20,508 |
-| Not On My Watch | 64.00% | ~19,590 |
-| Combat Engineer | 47.00% | ~14,386 |
-| Eager Beaver | 41.00% | ~12,550 |
-| Call ’em in! | 37.00% | ~11,325 |
-| Lovely | 34.00% | ~10,407 |
-| Elite | 22.00% | ~6,734 |
-| Store fuglar fanga ingi flugor | 22.00% | ~6,734 |
-| Ou La Mort | 20.00% | ~6,122 |
-| Fender Bender | 14.00% | ~4,285 |
-| Globetrotter | 11.00% | ~3,367 |
-| Jack of All Trades | 10.00% | ~3,061 |
-| Storyteller | 6.00% | ~1,837 |
-| Death from Above | 4.00% | ~1,224 |
-| Off-hand | 4.00% | ~1,224 |
+| Last Man Standing | 92.00% | ~28,192 |
+| Enemy Attrition | 71.00% | ~21,757 |
+| Grim Reaper | 69.00% | ~21,144 |
+| Heads Down | 67.00% | ~20,531 |
+| Not On My Watch | 64.00% | ~19,612 |
+| Combat Engineer | 47.00% | ~14,403 |
+| Eager Beaver | 41.00% | ~12,564 |
+| Call ’em in! | 37.00% | ~11,338 |
+| Lovely | 34.00% | ~10,419 |
+| Elite | 22.00% | ~6,742 |
+| Store fuglar fanga ingi flugor | 22.00% | ~6,742 |
+| Ou La Mort | 20.00% | ~6,129 |
+| Fender Bender | 14.00% | ~4,290 |
+| Globetrotter | 11.00% | ~3,371 |
+| Jack of All Trades | 10.00% | ~3,064 |
+| Storyteller | 6.00% | ~1,839 |
+| Death from Above | 4.00% | ~1,226 |
+| Off-hand | 4.00% | ~1,226 |
 | Veteran | 1.00% | ~306 |
-| Hoist the Flag | 0.40% | ~122 |
+| Hoist the Flag | 0.40% | ~123 |
 | Sins of the Fathers | 0.30% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,609 (Ranked 126)  
-Completed: 0 (0.00%) (Ranked 375)  
+Progressed: 30,644 (Ranked 126)  
+Completed: 0 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -115,4 +115,4 @@ Completed: 0 (0.00%) (Ranked 375)
 | 2023-12-11 | 24,888 | 0 |
 | 2023-12-12 | 24,993 | 0 |
 | 2023-12-13 | 25,198 | 0 |
-| 2023-12-14 | 30,609 | 0 |
+| 2023-12-14 | 30,644 | 0 |

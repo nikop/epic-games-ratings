@@ -13,6 +13,7 @@ Rating: 4.60 (Ranked 422)
 | Search for the Hairy Grell | 0.20% | ~17 |
 | Flaming Hot Completos | 0.20% | ~17 |
 | Break-Net Speed | 0.20% | ~17 |
+| ... And Spit Back Out | 0.20% | ~17 |
 | Mist Walker | 0.20% | ~17 |
 | Bramble Breaker | 0.20% | ~17 |
 | Higher Tax Bracket | 0.20% | ~17 |
@@ -32,7 +33,6 @@ Rating: 4.60 (Ranked 422)
 | Giving the People What They Want | 0.10% | ~8 |
 | Humble Collector | 0.10% | ~8 |
 | Scattered Scroll Scrounger | 0.10% | ~8 |
-| ... And Spit Back Out | 0.10% | ~8 |
 | Rumble in the Jumble | 0.10% | ~8 |
 | Fanatical Farmer | 0.10% | ~8 |
 | I Now Pronounce You... | 0.10% | ~8 |
@@ -49,8 +49,8 @@ Rating: 4.60 (Ranked 422)
 | Exit Through The Gift Shop | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,436 (Ranked 177)  
-Completed: 1 (0.01%) (Ranked 352)  
+Progressed: 8,437 (Ranked 177)  
+Completed: 1 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -160,7 +160,7 @@ Completed: 1 (0.01%) (Ranked 352)
 | 2023-12-10 | 8,408 | 1 |
 | 2023-12-11 | 8,419 | 1 |
 | 2023-12-13 | 8,425 | 1 |
-| 2023-12-14 | 8,436 | 1 |
+| 2023-12-14 | 8,437 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

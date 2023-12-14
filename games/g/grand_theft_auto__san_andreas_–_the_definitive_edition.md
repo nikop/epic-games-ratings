@@ -5,34 +5,34 @@ Rating: 4.56 (Ranked 499)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~11,562 |
-| Pay 'n' Spray | 51.00% | ~7,280 |
-| All Dressed Up for San Fierro | 26.00% | ~3,711 |
-| The American Dream | 20.00% | ~2,855 |
-| School's Out | 19.00% | ~2,712 |
-| Smooth Moves | 17.00% | ~2,427 |
-| Today Was a Good Day | 16.00% | ~2,284 |
-| What happens in Las Venturas... | 15.00% | ~2,141 |
-| Horror of the Santa Maria | 11.00% | ~1,570 |
-| Liberty City State of Mind | 10.00% | ~1,427 |
-| Original Gangster | 9.00% | ~1,285 |
-| The End of the Line | 8.00% | ~1,142 |
-| With Extra Dip | 7.00% | ~999 |
-| Saviour | 6.00% | ~856 |
-| They Can’t Stop All of Us | 5.00% | ~714 |
-| Rescue a Kitten Too? | 5.00% | ~714 |
-| What are the Odds | 4.00% | ~571 |
-| I’ll Have Two Number 9s | 3.00% | ~428 |
-| Bike or Biker | 3.00% | ~428 |
-| What the City Needs | 3.00% | ~428 |
-| Yes I Speak English | 3.00% | ~428 |
-| Public Enemy No. 1 | 3.00% | ~428 |
-| A Legitimate Business | 2.00% | ~285 |
-| Who Needs Directions? | 2.00% | ~285 |
-| Swiss Army Strife | 2.00% | ~285 |
-| Double or Nothin' | 2.00% | ~285 |
-| Assassin | 2.00% | ~285 |
-| Ain’t Nothing But a G Thing | 2.00% | ~285 |
+| Getting Started | 81.00% | ~11,576 |
+| Pay 'n' Spray | 51.00% | ~7,288 |
+| All Dressed Up for San Fierro | 26.00% | ~3,716 |
+| The American Dream | 20.00% | ~2,858 |
+| School's Out | 19.00% | ~2,715 |
+| Smooth Moves | 17.00% | ~2,429 |
+| Today Was a Good Day | 16.00% | ~2,287 |
+| What happens in Las Venturas... | 15.00% | ~2,144 |
+| Horror of the Santa Maria | 11.00% | ~1,572 |
+| Liberty City State of Mind | 10.00% | ~1,429 |
+| Original Gangster | 9.00% | ~1,286 |
+| The End of the Line | 8.00% | ~1,143 |
+| With Extra Dip | 7.00% | ~1,000 |
+| Saviour | 6.00% | ~857 |
+| They Can’t Stop All of Us | 5.00% | ~715 |
+| Rescue a Kitten Too? | 5.00% | ~715 |
+| What are the Odds | 4.00% | ~572 |
+| I’ll Have Two Number 9s | 3.00% | ~429 |
+| Bike or Biker | 3.00% | ~429 |
+| What the City Needs | 3.00% | ~429 |
+| Yes I Speak English | 3.00% | ~429 |
+| Public Enemy No. 1 | 3.00% | ~429 |
+| A Legitimate Business | 2.00% | ~286 |
+| Who Needs Directions? | 2.00% | ~286 |
+| Swiss Army Strife | 2.00% | ~286 |
+| Double or Nothin' | 2.00% | ~286 |
+| Assassin | 2.00% | ~286 |
+| Ain’t Nothing But a G Thing | 2.00% | ~286 |
 | Hoopin' it Up | 1.00% | ~143 |
 | Lucky Spinner | 1.00% | ~143 |
 | Not a Player | 1.00% | ~143 |
@@ -41,8 +41,8 @@ Rating: 4.56 (Ranked 499)
 | ...Here we go again | 0.50% | ~71 |
 | I Ain't No Buster | 0.40% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,274 (Ranked 160)  
-Completed: 57 (0.40%) (Ranked 225)  
+Progressed: 14,291 (Ranked 160)  
+Completed: 58 (0.41%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -279,7 +279,7 @@ Completed: 57 (0.40%) (Ranked 225)
 | 2023-12-11 | 13,941 | 57 |
 | 2023-12-12 | 13,961 | 57 |
 | 2023-12-13 | 14,007 | 57 |
-| 2023-12-14 | 14,274 | 57 |
+| 2023-12-14 | 14,291 | 58 |
 ## Awards
 Max (Great Boss Battles): 444  (Ranked 225)  
 Sum: 726 (Ranked 297)  

@@ -12,7 +12,7 @@
 | Hashtag Winning | 38.00% | ~96 |
 | A Woman Scorned | 29.00% | ~73 |
 | Chameleon | 22.00% | ~55 |
-| Look Mum I'm A Detective | 21.00% | ~53 |
+| Look Mum I'm A Detective | 22.00% | ~55 |
 | Highlander | 18.00% | ~45 |
 | You Had One Job | 14.00% | ~35 |
 | Book 'em Danny | 13.00% | ~33 |
@@ -27,7 +27,7 @@
 | Bullseye | 4.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 252 (Ranked 378)  
-Completed: 2 (0.79%) (Ranked 185)  
+Completed: 2 (0.79%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

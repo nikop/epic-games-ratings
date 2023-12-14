@@ -2,10 +2,10 @@
   "ID": "092bbf0d7e2449c08271cae2fb791cf2",
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
-  "Ranking_EOS_Progress": 488,
-  "Ranking_EOS_Completed": 375,
+  "Ranking_EOS_Progress": 487,
+  "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69,
-  "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Progressed": 70,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 43,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 1.43,
   "EosHistory": [
     {
       "Time": "2023-11-01T08:06:18.9626896+00:00",
@@ -279,6 +279,11 @@
       "Time": "2023-12-14T22:09:04.5785891+00:00",
       "NumProgressed": 69,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-14T23:09:02.8734388+00:00",
+      "NumProgressed": 70,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -289,7 +294,7 @@
       "ID": "ach1",
       "SetID": "796kfpa",
       "Name": "Good Morning",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 145,
       "UsersEstimate": 8
     },
@@ -297,7 +302,7 @@
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 145,
       "UsersEstimate": 37
     },
@@ -321,9 +326,9 @@
       "ID": "ach5",
       "SetID": "796kfpa",
       "Name": "Cloudbuster",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 140,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach6",
@@ -346,14 +351,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 69,
-      "Completed": 0
+      "Progressed": 70,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-14T22:09:04.5785886+00:00",
+  "LastChanged_Achievements": "2023-12-14T23:09:02.8734385+00:00",
   "LastUpdate_AppInfo": "2023-12-13T18:57:12.2683005+00:00",
-  "LastUpdate_Ratings": "2023-12-14T22:01:38.9787682+00:00",
-  "LastUpdate_Achievements": "2023-12-14T22:09:04.5785963+00:00"
+  "LastUpdate_Ratings": "2023-12-14T23:01:47.1754312+00:00",
+  "LastUpdate_Achievements": "2023-12-14T23:09:02.8734452+00:00"
 }

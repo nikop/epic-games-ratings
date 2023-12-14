@@ -6,22 +6,22 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~30,453 |
-| Say goodbye, creep! | 66.00% | ~29,129 |
-| Blood splattered | 66.00% | ~29,129 |
-| Choo choo! | 63.00% | ~27,805 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~30,454 |
+| Say goodbye, creep! | 66.00% | ~29,130 |
+| Blood splattered | 66.00% | ~29,130 |
+| Choo choo! | 63.00% | ~27,806 |
 | Groovy | 62.00% | ~27,364 |
-| Cleanup on aisle 4! | 57.00% | ~25,157 |
+| Cleanup on aisle 4! | 57.00% | ~25,158 |
 | Gold | 51.00% | ~22,509 |
-| The boat can leave now...tell the crew | 49.00% | ~21,626 |
-| Give me something to shoot! | 47.00% | ~20,743 |
-| Stand back boy! | 47.00% | ~20,743 |
+| The boat can leave now...tell the crew | 49.00% | ~21,627 |
+| Give me something to shoot! | 47.00% | ~20,744 |
+| Stand back boy! | 47.00% | ~20,744 |
 | Chain reaction | 45.00% | ~19,861 |
-| Weird science | 44.00% | ~19,419 |
+| Weird science | 44.00% | ~19,420 |
 | What did you say, Blain? | 42.00% | ~18,537 |
-| Look mummy! A shark! | 41.00% | ~18,095 |
+| Look mummy! A shark! | 41.00% | ~18,096 |
 | In the dark dark woods... | 39.00% | ~17,213 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,771 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,772 |
 | Double tap | 37.00% | ~16,330 |
 | Cranial blowout! | 37.00% | ~16,330 |
 | All of this has happened before… | 36.00% | ~15,889 |
@@ -29,13 +29,13 @@ Number of Ratings: 743  (23.09.2022)
 | Every bullet counts | 36.00% | ~15,889 |
 | All roads lead to Rome | 34.00% | ~15,006 |
 | You've got red on you | 34.00% | ~15,006 |
-| You're all going to die down here | 32.00% | ~14,123 |
-| He did Nazi that coming | 32.00% | ~14,123 |
+| You're all going to die down here | 32.00% | ~14,124 |
+| He did Nazi that coming | 32.00% | ~14,124 |
 | Kill of the week | 31.00% | ~13,682 |
 | I never liked them anyway | 31.00% | ~13,682 |
 | Is it over? | 28.00% | ~12,358 |
-| Got your back | 27.00% | ~11,916 |
-| Gore soaked | 24.00% | ~10,592 |
+| Got your back | 27.00% | ~11,917 |
+| Gore soaked | 24.00% | ~10,593 |
 | Shock therapy | 23.00% | ~10,151 |
 | Leave the limbs you've lost | 23.00% | ~10,151 |
 | Everyone's a mad scientist, life is the lab | 19.00% | ~8,386 |
@@ -50,12 +50,12 @@ Number of Ratings: 743  (23.09.2022)
 | Plane sailing | 8.00% | ~3,531 |
 | I can do anything I want. I got guns | 8.00% | ~3,531 |
 | Send me an angel | 8.00% | ~3,531 |
-| This is no Sunday School picnic! | 7.00% | ~3,089 |
-| I never redoubted you! | 7.00% | ~3,089 |
-| Not today you won't | 7.00% | ~3,089 |
-| Gotcha, didn't I? | 7.00% | ~3,089 |
-| A gross gross | 7.00% | ~3,089 |
-| Hail to the king, baby! | 7.00% | ~3,089 |
+| This is no Sunday School picnic! | 7.00% | ~3,090 |
+| I never redoubted you! | 7.00% | ~3,090 |
+| Not today you won't | 7.00% | ~3,090 |
+| Gotcha, didn't I? | 7.00% | ~3,090 |
+| A gross gross | 7.00% | ~3,090 |
+| Hail to the king, baby! | 7.00% | ~3,090 |
 | Something wicked this way comes | 6.00% | ~2,648 |
 | Take a little bit of Italy with you | 6.00% | ~2,648 |
 | Staring at Shadows | 6.00% | ~2,648 |
@@ -73,8 +73,8 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~441 |
 | None more hard | 0.60% | ~265 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,135 (Ranked 118)  
-Completed: 25 (0.06%) (Ranked 318)  
+Progressed: 44,136 (Ranked 118)  
+Completed: 25 (0.06%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -311,15 +311,15 @@ Completed: 25 (0.06%) (Ranked 318)
 | 2023-12-11 | 44,118 | 25 |
 | 2023-12-12 | 44,123 | 25 |
 | 2023-12-13 | 44,129 | 25 |
-| 2023-12-14 | 44,135 | 25 |
+| 2023-12-14 | 44,136 | 25 |
 ## Awards
 Max (Great Boss Battles): 858  (Ranked 168)  
-Sum: 2,594 (Ranked 194)  
+Sum: 2,596 (Ranked 194)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 858 |
-| This game is Great for Beginners | 275 |
+| This game is Great for Beginners | 277 |
 | This game has Diverse Characters | 223 |
 | This game is Highly Recommended | 221 |
 | This game has Amazing Storytelling | 215 |
@@ -564,4 +564,4 @@ Diff (max vs sum): -26
 | 2023-12-10 | 4.69 | - | 855 | 2,587 |
 | 2023-12-11 | 4.69 | - | 856 | 2,588 |
 | 2023-12-13 | 4.69 | - | 856 | 2,591 |
-| 2023-12-14 | 4.69 | - | 858 | 2,594 |
+| 2023-12-14 | 4.69 | - | 858 | 2,596 |

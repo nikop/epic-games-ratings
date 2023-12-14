@@ -5,18 +5,18 @@ Rating: 4.03 (Ranked 1,009)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,169 |
-| World Map | 78.00% | ~2,658 |
-| Temple of Eternals | 56.00% | ~1,908 |
-| Prestigious | 53.00% | ~1,806 |
-| Fellowship Power | 42.00% | ~1,431 |
+| Victor | 93.00% | ~3,171 |
+| World Map | 78.00% | ~2,660 |
+| Temple of Eternals | 56.00% | ~1,910 |
+| Prestigious | 53.00% | ~1,807 |
+| Fellowship Power | 42.00% | ~1,432 |
 | Full Party | 23.00% | ~784 |
 | Guild Power | 23.00% | ~784 |
 | Prestigious x10 | 20.00% | ~682 |
-| The game is on | 18.00% | ~613 |
-| Dragon Clicker | 16.00% | ~545 |
-| Exotic Merchant | 16.00% | ~545 |
-| Miner Clicker | 15.00% | ~511 |
+| The game is on | 18.00% | ~614 |
+| Dragon Clicker | 16.00% | ~546 |
+| Exotic Merchant | 16.00% | ~546 |
+| Miner Clicker | 15.00% | ~512 |
 | Hero inspection | 14.00% | ~477 |
 | Inspection | 14.00% | ~477 |
 | Dragon Master | 13.00% | ~443 |
@@ -43,12 +43,12 @@ Rating: 4.03 (Ranked 1,009)
 | Master Enchanter | 7.00% | ~239 |
 | The father of Dragons | 7.00% | ~239 |
 | Trader | 7.00% | ~239 |
-| Crystal Mining | 6.00% | ~204 |
-| Dragon Slayer | 6.00% | ~204 |
-| Enchanting skill | 6.00% | ~204 |
-| Engineer Mastery | 6.00% | ~204 |
-| The Expeditioner | 6.00% | ~204 |
-| Weekly Quest Completionist | 6.00% | ~204 |
+| Crystal Mining | 6.00% | ~205 |
+| Dragon Slayer | 6.00% | ~205 |
+| Enchanting skill | 6.00% | ~205 |
+| Engineer Mastery | 6.00% | ~205 |
+| The Expeditioner | 6.00% | ~205 |
+| Weekly Quest Completionist | 6.00% | ~205 |
 | Ancient Knowledge | 5.00% | ~170 |
 | Blueprint Upgrades | 5.00% | ~170 |
 | How Do You Turn This On? | 5.00% | ~170 |
@@ -81,8 +81,8 @@ Rating: 4.03 (Ranked 1,009)
 | Jewel Enchanting | 0.20% | ~7 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,408 (Ranked 211)  
-Completed: 2 (0.06%) (Ranked 318)  
+Progressed: 3,410 (Ranked 211)  
+Completed: 2 (0.06%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -314,7 +314,7 @@ Completed: 2 (0.06%) (Ranked 318)
 | 2023-12-11 | 3,276 | 2 |
 | 2023-12-12 | 3,300 | 2 |
 | 2023-12-13 | 3,348 | 2 |
-| 2023-12-14 | 3,408 | 2 |
+| 2023-12-14 | 3,410 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 469)  
 Sum: 144 (Ranked 431)  

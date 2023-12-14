@@ -26,17 +26,19 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ploughshares to Swords | 1.00% | ~20 |
 | Friends 'Til the End | 1.00% | ~20 |
 | It Rings a Bell | 0.90% | ~1,144 |
+| It Happens | 0.90% | ~1,144 |
 | Nope | 0.90% | ~1,144 |
 | Dissector | 0.80% | ~1,017 |
 | Deprogramming | 0.80% | ~1,017 |
-| It Happens | 0.80% | ~1,017 |
 | Merry Time | 0.80% | ~1,017 |
 | Harvest Festival | 0.80% | ~1,017 |
 | Whale | 0.80% | ~1,017 |
 | A Place to Lay Your Head | 0.80% | ~1,017 |
+| Worldly Traveller | 0.80% | ~1,017 |
 | Banishment | 0.70% | ~890 |
 | Now Stay Dead | 0.70% | ~890 |
-| Worldly Traveller | 0.70% | ~890 |
+| Spelunker | 0.70% | ~890 |
+| Ramble On | 0.70% | ~890 |
 | Road Trip | 0.70% | ~890 |
 | Resurrection | 0.60% | ~763 |
 | Unleash Hell | 0.60% | ~763 |
@@ -46,8 +48,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unfulfilled Desires | 0.60% | ~763 |
 | Predator | 0.60% | ~763 |
 | Reverse Banditry | 0.60% | ~763 |
-| Spelunker | 0.60% | ~763 |
-| Ramble On | 0.60% | ~763 |
 | Unshackled | 0.60% | ~763 |
 | Wyrdly Reconstructed | 0.50% | ~635 |
 | Ichthyophobic | 0.50% | ~635 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,084 (Ranked 84)  
-Completed: 3 (0.00%) (Ranked 375)  
+Progressed: 127,096 (Ranked 84)  
+Completed: 3 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -314,7 +314,7 @@ Completed: 3 (0.00%) (Ranked 375)
 | 2023-12-11 | 126,232 | 2 |
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
-| 2023-12-14 | 127,084 | 3 |
+| 2023-12-14 | 127,096 | 3 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 51)  
 Sum: 20,427 (Ranked 59)  

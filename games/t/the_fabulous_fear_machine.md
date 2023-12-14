@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Master trainee | 33.00% | ~17 |
-| You have three wishes left | 27.00% | ~14 |
+| You have three wishes left | 29.00% | ~15 |
 | Jung's dream | 25.00% | ~13 |
 | The battle of Great Britain | 25.00% | ~13 |
 | Pulp! Where Monsters Dwell | 20.00% | ~10 |
@@ -53,7 +53,7 @@
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 51 (Ranked 513)  
-Completed: 0 (0.00%) (Ranked 375)  
+Completed: 0 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,50 +6,50 @@ Number of Ratings: 2,205  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Champion | 90.00% | ~60,985 |
-| The Pyromancer | 86.00% | ~58,274 |
-| The Wastes | 83.00% | ~56,242 |
-| Waste Not | 80.00% | ~54,209 |
-| The Cryomancer | 76.00% | ~51,498 |
-| Stock Up | 75.00% | ~50,821 |
-| The Hydromancer | 73.00% | ~49,466 |
-| The Matriarch | 70.00% | ~47,433 |
-| The Aeromancer | 66.00% | ~44,722 |
-| The Huntsman | 65.00% | ~44,045 |
-| The Venomancer | 65.00% | ~44,045 |
-| Dawnlight Order | 64.00% | ~43,367 |
-| The Electromancer | 61.00% | ~41,334 |
-| The Terramancer | 59.00% | ~39,979 |
-| The Exalted | 56.00% | ~37,946 |
-| Sheriff Inquisitors | 55.00% | ~37,269 |
-| Blueheart Runners | 54.00% | ~36,591 |
-| The Necromancer | 52.00% | ~35,236 |
-| The Swamp | 50.00% | ~33,880 |
-| The Fungalmancer | 47.00% | ~31,848 |
-| The Thaumamancer | 47.00% | ~31,848 |
-| The Hag | 45.00% | ~30,492 |
+| The Champion | 90.00% | ~60,987 |
+| The Pyromancer | 86.00% | ~58,276 |
+| The Wastes | 83.00% | ~56,243 |
+| Waste Not | 80.00% | ~54,210 |
+| The Cryomancer | 76.00% | ~51,500 |
+| Stock Up | 75.00% | ~50,822 |
+| The Hydromancer | 73.00% | ~49,467 |
+| The Matriarch | 70.00% | ~47,434 |
+| The Aeromancer | 65.00% | ~44,046 |
+| The Huntsman | 65.00% | ~44,046 |
+| The Venomancer | 65.00% | ~44,046 |
+| Dawnlight Order | 64.00% | ~43,368 |
+| The Electromancer | 61.00% | ~41,335 |
+| The Terramancer | 59.00% | ~39,980 |
+| The Exalted | 56.00% | ~37,947 |
+| Sheriff Inquisitors | 55.00% | ~37,270 |
+| Blueheart Runners | 54.00% | ~36,592 |
+| The Necromancer | 52.00% | ~35,237 |
+| The Swamp | 50.00% | ~33,882 |
+| The Fungalmancer | 47.00% | ~31,849 |
+| The Thaumamancer | 47.00% | ~31,849 |
+| The Hag | 45.00% | ~30,493 |
 | The Corpumancer | 42.00% | ~28,460 |
-| The Mountain | 40.00% | ~27,104 |
-| The Treeheart | 40.00% | ~27,104 |
-| Shroud Alliance | 39.00% | ~26,427 |
+| The Mountain | 40.00% | ~27,105 |
+| The Treeheart | 40.00% | ~27,105 |
+| Shroud Alliance | 39.00% | ~26,428 |
 | The Two Monks | 37.00% | ~25,072 |
-| The Neuromancer | 35.00% | ~23,716 |
-| Oathbound Watchers | 33.00% | ~22,361 |
+| The Neuromancer | 35.00% | ~23,717 |
+| Oathbound Watchers | 33.00% | ~22,362 |
 | The Chronomancer | 32.00% | ~21,684 |
 | The Mechanomancer | 32.00% | ~21,684 |
-| The Copse | 30.00% | ~20,328 |
-| The Dragon | 30.00% | ~20,328 |
-| The Dracomancer | 30.00% | ~20,328 |
-| Well Stocked | 28.00% | ~18,973 |
-| The Umbramancer | 28.00% | ~18,973 |
-| Chaos Hunger | 27.00% | ~18,295 |
-| The Kinetomancer | 27.00% | ~18,295 |
-| The Sanguimancer | 27.00% | ~18,295 |
+| The Copse | 30.00% | ~20,329 |
+| The Dragon | 30.00% | ~20,329 |
+| The Dracomancer | 30.00% | ~20,329 |
+| Well Stocked | 28.00% | ~18,974 |
+| The Umbramancer | 28.00% | ~18,974 |
+| Chaos Hunger | 27.00% | ~18,296 |
+| The Kinetomancer | 27.00% | ~18,296 |
+| The Sanguimancer | 27.00% | ~18,296 |
 | The Luminimancer | 26.00% | ~17,618 |
-| The Bibliomancer | 25.00% | ~16,940 |
-| The Skylord | 25.00% | ~16,940 |
+| The Bibliomancer | 25.00% | ~16,941 |
+| The Skylord | 25.00% | ~16,941 |
 | The Firelord | 24.00% | ~16,263 |
-| The Diablomancer | 22.00% | ~14,907 |
+| The Diablomancer | 22.00% | ~14,908 |
 | Want Not | 21.00% | ~14,230 |
 | The Sacrifice | 21.00% | ~14,230 |
 | The King | 19.00% | ~12,875 |
@@ -60,7 +60,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Scholar | 10.00% | ~6,776 |
 | Top Shelf | 5.00% | ~3,388 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,761 (Ranked 106)  
+Progressed: 67,763 (Ranked 106)  
 Completed: 1,276 (1.88%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,11 +298,11 @@ Completed: 1,276 (1.88%) (Ranked 133)
 | 2023-12-11 | 67,720 | 1,275 |
 | 2023-12-12 | 67,724 | 1,276 |
 | 2023-12-13 | 67,736 | 1,276 |
-| 2023-12-14 | 67,761 | 1,276 |
+| 2023-12-14 | 67,763 | 1,276 |
 ## Awards
-Max (Character Customization): 992  (Ranked 156)  
+Max (Character Customization): 992  (Ranked 157)  
 Sum: 1,998 (Ranked 216)  
-Diff (max vs sum): -60  
+Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 992 |

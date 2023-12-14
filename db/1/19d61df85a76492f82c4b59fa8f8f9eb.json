@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 352,
+  "EOS_Progressed": 353,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.23,
+  "EOS_Completed_Percentage": 10.2,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1664,6 +1664,11 @@
       "Time": "2023-12-14T22:09:30.7069728+00:00",
       "NumProgressed": 352,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-14T23:09:29.8015504+00:00",
+      "NumProgressed": 353,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 6,
@@ -1673,9 +1678,9 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 175,
-      "UsersEstimate": 215
+      "UsersEstimate": 212
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -1691,7 +1696,7 @@
       "Name": "Viola Organista",
       "Percentage": 52,
       "XP": 165,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -1705,9 +1710,9 @@
       "ID": "CgkIgaGB2J0LEAIQBA",
       "SetID": "4ocea6d",
       "Name": "Revolving Bridge",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 165,
-      "UsersEstimate": 120
+      "UsersEstimate": 116
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -1722,14 +1727,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 352,
+      "Progressed": 353,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-12-14T22:09:30.7069724+00:00",
+  "LastChanged_Achievements": "2023-12-14T23:09:29.8015501+00:00",
   "LastUpdate_AppInfo": "2023-12-08T02:20:37.2597283+00:00",
-  "LastUpdate_Ratings": "2023-12-14T21:57:54.0733915+00:00",
-  "LastUpdate_Achievements": "2023-12-14T22:09:30.7069864+00:00"
+  "LastUpdate_Ratings": "2023-12-14T22:58:03.2252568+00:00",
+  "LastUpdate_Achievements": "2023-12-14T23:09:29.8015629+00:00"
 }
