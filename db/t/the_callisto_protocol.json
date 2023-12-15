@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1613,9 +1613,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 16930,
+  "EOS_Progressed": 16938,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -9708,6 +9708,11 @@
       "Time": "2023-12-15T10:09:00.4398341+00:00",
       "NumProgressed": 16930,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-12-15T11:09:02.471622+00:00",
+      "NumProgressed": 16938,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 47,
@@ -9735,7 +9740,7 @@
       "Name": "Giving Back",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -9743,7 +9748,7 @@
       "Name": "You Need a Gun",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "DISARM_ENEMY",
@@ -9759,7 +9764,7 @@
       "Name": "Grim Reaper",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -9783,7 +9788,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -9823,7 +9828,7 @@
       "Name": "Get a Grip",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -9847,7 +9852,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "KILL_ROBOT",
@@ -9855,7 +9860,7 @@
       "Name": "Terminated",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -9879,7 +9884,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -9887,7 +9892,7 @@
       "Name": "Reforged",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "PRINT_WEAPON",
@@ -9895,7 +9900,7 @@
       "Name": "Paper Jams",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "SHARE_PHOTO",
@@ -9911,7 +9916,7 @@
       "Name": "The Outer Way",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "STORY_ESCAPE",
@@ -9943,7 +9948,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -9951,7 +9956,7 @@
       "Name": "Desperate Times",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -10071,7 +10076,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -10094,13 +10099,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16930,
+      "Progressed": 16938,
       "Completed": 81
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4856,
+      "Progressed": 4864,
       "Completed": 29
     }
   ],
@@ -10108,8 +10113,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-15T01:52:07.9926426+00:00",
-  "LastChanged_Achievements": "2023-12-15T10:09:00.4398336+00:00",
+  "LastChanged_Achievements": "2023-12-15T11:09:02.4716217+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.8352858+00:00",
-  "LastUpdate_Ratings": "2023-12-15T10:03:09.8064253+00:00",
-  "LastUpdate_Achievements": "2023-12-15T10:09:00.4399558+00:00"
+  "LastUpdate_Ratings": "2023-12-15T11:03:09.9675213+00:00",
+  "LastUpdate_Achievements": "2023-12-15T11:09:02.4716943+00:00"
 }

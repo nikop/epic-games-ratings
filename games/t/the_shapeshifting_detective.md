@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Strong Silent Type | 91.00% | ~231 |
-| Play It Again Sam | 90.00% | ~229 |
+| Strong Silent Type | 91.00% | ~232 |
+| Play It Again Sam | 90.00% | ~230 |
 | Play Me By The Hour | 70.00% | ~178 |
-| Patient Listener | 48.00% | ~122 |
+| Patient Listener | 47.00% | ~120 |
 | Video Saved The Radio Star | 40.00% | ~102 |
 | Hashtag Winning | 38.00% | ~97 |
 | A Woman Scorned | 29.00% | ~74 |
@@ -19,15 +19,15 @@
 | Poetent | 13.00% | ~33 |
 | Oscar Winning Performance | 11.00% | ~28 |
 | Voyeur | 11.00% | ~28 |
-| Put A Ring On It | 10.00% | ~25 |
+| Put A Ring On It | 10.00% | ~26 |
 | Heavy Rayne | 8.00% | ~20 |
 | Chicken | 7.00% | ~18 |
 | Show Me Some Skin | 5.00% | ~13 |
 | The Big Sleep | 5.00% | ~13 |
 | Bullseye | 4.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254 (Ranked 378)  
-Completed: 2 (0.79%) (Ranked 185)  
+Progressed: 255 (Ranked 378)  
+Completed: 2 (0.78%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,7 +99,7 @@ Completed: 2 (0.79%) (Ranked 185)
 | 2023-12-05 | 250 | 2 |
 | 2023-12-10 | 251 | 2 |
 | 2023-12-14 | 252 | 2 |
-| 2023-12-15 | 254 | 2 |
+| 2023-12-15 | 255 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

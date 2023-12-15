@@ -5,18 +5,18 @@ Rating: 4.58 (Ranked 454)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 30.00% | ~1,042 |
-| Sputnik 2049 | 26.00% | ~903 |
-| Infinite Growth... | 25.00% | ~868 |
+| Wakey Wakey | 29.00% | ~1,008 |
+| Sputnik 2049 | 26.00% | ~904 |
+| Infinite Growth... | 25.00% | ~869 |
 | Without Breaking Some Eggs... | 24.00% | ~834 |
-| A Thousand Strong | 18.00% | ~625 |
-| Ready for a New World | 18.00% | ~625 |
-| Space Society | 17.00% | ~590 |
+| A Thousand Strong | 18.00% | ~626 |
+| Ready for a New World | 18.00% | ~626 |
+| Space Society | 17.00% | ~591 |
 | Permanent Redesigns | 16.00% | ~556 |
-| Fully Recycled | 14.00% | ~486 |
-| Ain't Nobody Got Time for That | 14.00% | ~486 |
-| The Ship of Theseus | 14.00% | ~486 |
-| Guy de Borderlands | 13.00% | ~451 |
+| Fully Recycled | 14.00% | ~487 |
+| The Ship of Theseus | 14.00% | ~487 |
+| Guy de Borderlands | 13.00% | ~452 |
+| Ain't Nobody Got Time for That | 13.00% | ~452 |
 | Exceeding Capacity | 12.00% | ~417 |
 | Breaking Protocol | 12.00% | ~417 |
 | Hope Seeker | 12.00% | ~417 |
@@ -43,11 +43,11 @@ Rating: 4.58 (Ranked 454)
 | Delivery! | 3.00% | ~104 |
 | Help of the Forgotten Member | 3.00% | ~104 |
 | Pulsar Disciple | 3.00% | ~104 |
-| Mutual Loyalty | 2.00% | ~69 |
-| Tiqqun Contender | 2.00% | ~69 |
-| Catastrophe Avoided | 2.00% | ~69 |
-| Space Greenhouse | 2.00% | ~69 |
-| Tiqqun Unchained | 2.00% | ~69 |
+| Mutual Loyalty | 2.00% | ~70 |
+| Tiqqun Contender | 2.00% | ~70 |
+| Catastrophe Avoided | 2.00% | ~70 |
+| Space Greenhouse | 2.00% | ~70 |
+| Tiqqun Unchained | 2.00% | ~70 |
 | Better Him Than Me | 1.00% | ~35 |
 | Remember the Dead | 1.00% | ~35 |
 | You Had One Job... | 1.00% | ~35 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 454)
 | This is Fine | 0.10% | ~3 |
 | Suburban Perfection | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,473 (Ranked 210)  
+Progressed: 3,475 (Ranked 210)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-11 | 3,423 | 0 |
 | 2023-12-13 | 3,429 | 0 |
 | 2023-12-14 | 3,460 | 0 |
-| 2023-12-15 | 3,473 | 0 |
+| 2023-12-15 | 3,475 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

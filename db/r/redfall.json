@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1816,
+  "EOS_Progressed": 1817,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2542,6 +2542,11 @@
       "Time": "2023-12-15T10:05:21.8051047+00:00",
       "NumProgressed": 1816,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T11:05:28.5217008+00:00",
+      "NumProgressed": 1817,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2569,7 +2574,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Achievement_004",
@@ -2601,7 +2606,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Achievement_009",
@@ -2609,7 +2614,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Achievement_010",
@@ -2745,7 +2750,7 @@
       "Name": "Fly Fisher",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Achievement_027",
@@ -2777,7 +2782,7 @@
       "Name": "ICU",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Achievement_031",
@@ -2801,7 +2806,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Achievement_034",
@@ -3080,7 +3085,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1816,
+      "Progressed": 1817,
       "Completed": 0
     }
   ],
@@ -3088,8 +3093,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-10T01:51:29.5345174+00:00",
-  "LastChanged_Achievements": "2023-12-15T10:05:21.8051042+00:00",
+  "LastChanged_Achievements": "2023-12-15T11:05:28.5217003+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:19.3114561+00:00",
-  "LastUpdate_Ratings": "2023-12-15T09:58:26.3019539+00:00",
-  "LastUpdate_Achievements": "2023-12-15T10:05:21.8051735+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:58:22.9292231+00:00",
+  "LastUpdate_Achievements": "2023-12-15T11:05:28.5217683+00:00"
 }

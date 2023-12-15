@@ -5,13 +5,13 @@ Rating: 4.53 (Ranked 547)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 13.00% | ~2,121 |
-| The Pit and the Pirates | 8.00% | ~1,305 |
-| Drone Dodger | 8.00% | ~1,305 |
-| Bosmang | 8.00% | ~1,305 |
-| Captain Drummer | 8.00% | ~1,305 |
-| Celebrations are in Order | 8.00% | ~1,305 |
-| Impossible Objects | 8.00% | ~1,305 |
+| Oyedang, Kopengs | 13.00% | ~2,122 |
+| The Pit and the Pirates | 8.00% | ~1,306 |
+| Drone Dodger | 8.00% | ~1,306 |
+| Bosmang | 8.00% | ~1,306 |
+| Captain Drummer | 8.00% | ~1,306 |
+| Celebrations are in Order | 8.00% | ~1,306 |
+| Impossible Objects | 8.00% | ~1,306 |
 | Martian Music | 7.00% | ~1,142 |
 | Safe Cracker | 7.00% | ~159 |
 | Zen Master | 7.00% | ~159 |
@@ -26,9 +26,9 @@ Rating: 4.53 (Ranked 547)
 | Thorston Mayer | 4.00% | ~653 |
 | Khan's Revenge | 4.00% | ~653 |
 | Master Negotiator | 4.00% | ~91 |
-| Doctor Approved | 3.00% | ~489 |
-| Bottoms up! | 3.00% | ~489 |
-| Miraculous Maya | 3.00% | ~489 |
+| Doctor Approved | 3.00% | ~490 |
+| Bottoms up! | 3.00% | ~490 |
+| Miraculous Maya | 3.00% | ~490 |
 | Data Logger | 2.00% | ~326 |
 | Data Master | 2.00% | ~326 |
 | Brother's Reaper | 1.00% | ~163 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 547)
 | Scavenger Star | 0.20% | ~33 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,314 (Ranked 152)  
+Progressed: 16,320 (Ranked 152)  
 Completed: 43 (0.26%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 43 (0.26%) (Ranked 251)
 | 2023-12-12 | 16,078 | 42 |
 | 2023-12-13 | 16,124 | 43 |
 | 2023-12-14 | 16,263 | 43 |
-| 2023-12-15 | 16,314 | 43 |
+| 2023-12-15 | 16,320 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

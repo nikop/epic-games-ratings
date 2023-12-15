@@ -18,9 +18,9 @@
 | Toe to Toe | 15.00% | ~18 |
 | The Hidden Secret | 14.00% | ~17 |
 | The Abyss Conqueror | 11.00% | ~14 |
-| Space Warrior: Prologue | 10.00% | ~12 |
+| Space Warrior: Prologue | 11.00% | ~14 |
+| Grand Escape | 10.00% | ~12 |
 | The Fortress Conqueror | 9.00% | ~11 |
-| Grand Escape | 9.00% | ~11 |
 | Keep it Up, rookie! | 7.00% | ~9 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~7 |
 | he Ultra Fortress Conqueror | 6.00% | ~7 |

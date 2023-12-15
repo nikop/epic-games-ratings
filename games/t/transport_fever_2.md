@@ -1,49 +1,49 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.68 (Ranked 259)  
+Rating: 4.68 (Ranked 260)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 77.00% | ~1,508 |
-| First cargo item waiting | 71.00% | ~1,391 |
-| First bus stop | 70.00% | ~1,371 |
-| First cargo item on board | 70.00% | ~1,371 |
-| First passenger waiting | 67.00% | ~1,313 |
-| First passenger on board | 66.00% | ~1,293 |
-| First bus arrived | 65.00% | ~1,273 |
-| First train station | 63.00% | ~1,234 |
-| First steam train arrived | 59.00% | ~1,156 |
-| First industry upgraded | 56.00% | ~1,097 |
-| Transport millionaire | 54.00% | ~1,058 |
-| Cadet | 54.00% | ~1,058 |
-| Transport master | 52.00% | ~1,019 |
-| Cargo hub | 52.00% | ~1,019 |
-| Sculpturer | 49.00% | ~960 |
-| Settled down | 48.00% | ~940 |
-| First electric train arrived | 46.00% | ~901 |
+| First line | 77.00% | ~1,510 |
+| First cargo item waiting | 71.00% | ~1,392 |
+| First bus stop | 70.00% | ~1,373 |
+| First cargo item on board | 70.00% | ~1,373 |
+| First passenger waiting | 67.00% | ~1,314 |
+| First passenger on board | 66.00% | ~1,294 |
+| First bus arrived | 65.00% | ~1,275 |
+| First train station | 63.00% | ~1,235 |
+| First steam train arrived | 59.00% | ~1,157 |
+| First industry upgraded | 56.00% | ~1,098 |
+| Transport millionaire | 54.00% | ~1,059 |
+| Cadet | 54.00% | ~1,059 |
+| Transport master | 52.00% | ~1,020 |
+| Cargo hub | 52.00% | ~1,020 |
+| Sculpturer | 49.00% | ~961 |
+| Settled down | 48.00% | ~941 |
+| First electric train arrived | 46.00% | ~902 |
 | First ship arrived | 45.00% | ~882 |
 | Now what? | 45.00% | ~882 |
-| Exemplary student | 42.00% | ~823 |
-| High speed | 42.00% | ~823 |
-| First aircraft arrived | 41.00% | ~803 |
+| Exemplary student | 42.00% | ~824 |
+| High speed | 42.00% | ~824 |
 | Transport shark | 40.00% | ~784 |
-| Mass production | 35.00% | ~686 |
-| Aircraft entrepreneur | 33.00% | ~646 |
-| Crowd in a train | 31.00% | ~607 |
-| The future is now, old man | 31.00% | ~607 |
+| First aircraft arrived | 40.00% | ~784 |
+| Mass production | 34.00% | ~667 |
+| Aircraft entrepreneur | 33.00% | ~647 |
+| Crowd in a train | 31.00% | ~608 |
+| The future is now, old man | 31.00% | ~608 |
 | Not in my backyard | 30.00% | ~588 |
-| The king of the sea | 29.00% | ~568 |
+| The king of the sea | 29.00% | ~569 |
 | City | 28.00% | ~549 |
 | Transport tycoon | 23.00% | ~451 |
 | Climate change | 22.00% | ~431 |
 | Old timer | 22.00% | ~431 |
 | The ugly smell of success | 22.00% | ~431 |
-| Heavily loaded | 21.00% | ~411 |
-| Bob Ross | 16.00% | ~313 |
-| Campaign expert | 11.00% | ~215 |
-| Truck Fever | 11.00% | ~215 |
+| Heavily loaded | 21.00% | ~412 |
+| Bob Ross | 16.00% | ~314 |
+| Campaign expert | 11.00% | ~216 |
+| Truck Fever | 11.00% | ~216 |
 | No free seats | 10.00% | ~196 |
 | Back to the future | 9.00% | ~176 |
 | Penny pincher | 9.00% | ~176 |
@@ -53,9 +53,9 @@ Number of Ratings: 180  (23.09.2022)
 | Transport shark (Hard mode) | 4.00% | ~78 |
 | Antique | 4.00% | ~78 |
 | Transport corporation | 4.00% | ~78 |
-| Transport tycoon (Hard mode) | 3.00% | ~59 |
 | Cannot get enough | 3.00% | ~59 |
 | Industrialist | 3.00% | ~59 |
+| Transport tycoon (Hard mode) | 2.00% | ~39 |
 | No country for old trains | 2.00% | ~39 |
 | Charles Alton Ellis | 2.00% | ~39 |
 | Campaign tycoon | 2.00% | ~39 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~4 |
 | Museum line | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,959 (Ranked 232)  
+Progressed: 1,961 (Ranked 232)  
 Completed: 1 (0.05%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 1 (0.05%) (Ranked 327)
 | 2023-12-12 | 1,930 | 1 |
 | 2023-12-13 | 1,935 | 1 |
 | 2023-12-14 | 1,954 | 1 |
-| 2023-12-15 | 1,959 | 1 |
+| 2023-12-15 | 1,961 | 1 |
 ## Awards
 Max (Great for Beginners): 45  (Ranked 454)  
 Sum: 320 (Ranked 365)  

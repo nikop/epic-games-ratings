@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 259)  
+Rating: 4.68 (Ranked 260)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -37,6 +37,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Deprogramming | 0.80% | ~1,018 |
 | Worldly Traveller | 0.80% | ~1,018 |
 | Road Trip | 0.80% | ~1,018 |
+| Unleash Hell | 0.70% | ~891 |
 | Unfulfilled Desires | 0.70% | ~891 |
 | Predator | 0.70% | ~891 |
 | Now Stay Dead | 0.70% | ~891 |
@@ -45,7 +46,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ramble On | 0.70% | ~891 |
 | Unshackled | 0.70% | ~891 |
 | Resurrection | 0.60% | ~763 |
-| Unleash Hell | 0.60% | ~763 |
 | Funny Guy | 0.60% | ~763 |
 | Long Live the King | 0.60% | ~763 |
 | Wyrdly Reconstructed | 0.60% | ~763 |
@@ -56,7 +56,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hope Rekindled | 0.50% | ~636 |
 | Ichthyophobic | 0.50% | ~636 |
 | No More Mouths to Feed | 0.50% | ~636 |
-| Slap on the Wrist | 0.50% | ~10 |
+| Slap on the Wrist | 0.50% | ~11 |
 | This Looks Familiar | 0.40% | ~509 |
 | Hot Air | 0.40% | ~509 |
 | Eyes Up | 0.40% | ~509 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,228 (Ranked 84)  
+Progressed: 127,237 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
-| 2023-12-15 | 127,228 | 3 |
+| 2023-12-15 | 127,237 | 3 |
 ## Awards
 Max (Character Customization): 7,718  (Ranked 51)  
 Sum: 20,477 (Ranked 59)  

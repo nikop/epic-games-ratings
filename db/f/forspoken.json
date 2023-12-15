@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 972,
+  "Ranking_Rating": 967,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 353,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "SA"
     }
   },
-  "Rating": 4.13,
+  "Rating": 4.14,
   "RatingHistory": [
     {
       "Time": "2023-01-28T02:09:06.4755934+00:00",
@@ -461,6 +461,12 @@
       "Rating": 4.13,
       "NumberOfAwards": 30,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-12-15T10:57:33.0545388+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 30,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
@@ -475,9 +481,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 43844,
+  "EOS_Progressed": 43847,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15155,6 +15161,11 @@
       "Time": "2023-12-15T10:08:32.2056196+00:00",
       "NumProgressed": 43844,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T11:08:31.6852628+00:00",
+      "NumProgressed": 43847,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15214,7 +15225,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4384
+      "UsersEstimate": 4385
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -15492,9 +15503,9 @@
       "ID": "SKILLTREE_ALL",
       "SetID": "6d0g7k8",
       "Name": "Realized Potential",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 263
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -15589,22 +15600,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43844,
+      "Progressed": 43847,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8681,
-      "Completed": 8681
+      "Progressed": 8684,
+      "Completed": 8684
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2023-12-12T05:01:14.3926085+00:00",
-  "LastChanged_Achievements": "2023-12-15T10:08:32.2056191+00:00",
+  "LastChanged": "2023-12-15T10:57:33.0545387+00:00",
+  "LastChanged_Achievements": "2023-12-15T11:08:31.6852624+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:12.2339808+00:00",
-  "LastUpdate_Ratings": "2023-12-15T09:57:40.5008383+00:00",
-  "LastUpdate_Achievements": "2023-12-15T10:08:32.2057402+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:57:33.0545392+00:00",
+  "LastUpdate_Achievements": "2023-12-15T11:08:31.6853454+00:00"
 }

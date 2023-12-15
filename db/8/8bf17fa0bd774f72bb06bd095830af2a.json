@@ -2,10 +2,10 @@
   "ID": "8bf17fa0bd774f72bb06bd095830af2a",
   "Name": "The Dragoness Command Of The Flame",
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
-  "Ranking_EOS_Progress": 546,
+  "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 502,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
     "PcReleaseDate": "2022-09-01T15:00:00+00:00",
@@ -502,8 +502,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-12-15T10:05:27.1630853+00:00",
+  "LastChanged_Achievements": "2023-12-15T11:05:33.9657389+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:42.1986517+00:00",
-  "LastUpdate_Ratings": "2023-12-15T09:59:33.5322649+00:00",
-  "LastUpdate_Achievements": "2023-12-15T10:05:27.1631099+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:59:33.1767997+00:00",
+  "LastUpdate_Achievements": "2023-12-15T11:05:33.965763+00:00"
 }

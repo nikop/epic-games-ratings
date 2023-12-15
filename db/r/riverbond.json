@@ -503,9 +503,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 533159,
+  "EOS_Progressed": 533161,
   "EOS_Completed": 509,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -25793,6 +25793,11 @@
       "Time": "2023-12-15T09:03:45.2467203+00:00",
       "NumProgressed": 533159,
       "NumCompleted": 509
+    },
+    {
+      "Time": "2023-12-15T11:04:03.1085752+00:00",
+      "NumProgressed": 533161,
+      "NumCompleted": 509
     }
   ],
   "TotalAchievements": 57,
@@ -25820,7 +25825,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 373211
+      "UsersEstimate": 373213
     },
     {
       "ID": "12",
@@ -25844,7 +25849,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58647
+      "UsersEstimate": 58648
     },
     {
       "ID": "15",
@@ -25884,7 +25889,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 330559
+      "UsersEstimate": 330560
     },
     {
       "ID": "2",
@@ -25900,7 +25905,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 127958
+      "UsersEstimate": 127959
     },
     {
       "ID": "21",
@@ -25908,7 +25913,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 58647
+      "UsersEstimate": 58648
     },
     {
       "ID": "22",
@@ -26036,7 +26041,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 85305
+      "UsersEstimate": 85306
     },
     {
       "ID": "37",
@@ -26060,7 +26065,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 181274
+      "UsersEstimate": 181275
     },
     {
       "ID": "4",
@@ -26132,7 +26137,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 330559
+      "UsersEstimate": 330560
     },
     {
       "ID": "48",
@@ -26148,7 +26153,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 181274
+      "UsersEstimate": 181275
     },
     {
       "ID": "5",
@@ -26164,7 +26169,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 74642
+      "UsersEstimate": 74643
     },
     {
       "ID": "51",
@@ -26180,7 +26185,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 245253
+      "UsersEstimate": 245254
     },
     {
       "ID": "53",
@@ -26259,15 +26264,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 533159,
+      "Progressed": 533161,
       "Completed": 509
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2023-12-15T10:03:59.1036913+00:00",
+  "LastChanged_Achievements": "2023-12-15T11:04:03.1085748+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:06.8552827+00:00",
-  "LastUpdate_Ratings": "2023-12-15T09:59:39.9708302+00:00",
-  "LastUpdate_Achievements": "2023-12-15T10:03:59.1039157+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:59:40.0394029+00:00",
+  "LastUpdate_Achievements": "2023-12-15T11:04:03.1087159+00:00"
 }

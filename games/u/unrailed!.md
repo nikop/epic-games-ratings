@@ -6,17 +6,17 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~120,629 |
-| Incurious | 18.00% | ~120,629 |
-| Climate Change | 16.00% | ~107,226 |
-| Stroller | 15.00% | ~100,524 |
-| Toy Train | 14.00% | ~93,822 |
-| Advanced Hiker | 13.00% | ~87,121 |
-| Hiker | 12.00% | ~80,419 |
+| Advanced Stroller | 18.00% | ~120,630 |
+| Incurious | 18.00% | ~120,630 |
+| Climate Change | 16.00% | ~107,227 |
+| Stroller | 15.00% | ~100,525 |
+| Toy Train | 14.00% | ~93,823 |
+| Advanced Hiker | 13.00% | ~87,122 |
+| Hiker | 12.00% | ~80,420 |
 | Mojave Courier | 6.00% | ~40,210 |
 | Saved by Nausicaä | 6.00% | ~40,210 |
-| Advanced Voyager | 4.00% | ~26,806 |
-| Expert Stroller | 4.00% | ~26,806 |
+| Advanced Voyager | 4.00% | ~26,807 |
+| Expert Stroller | 4.00% | ~26,807 |
 | Voyager | 3.00% | ~20,105 |
 | Orient Express | 3.00% | ~20,105 |
 | Marathon | 3.00% | ~20,105 |
@@ -33,10 +33,10 @@ Number of Ratings: 21,990  (23.09.2022)
 | Wayfarer | 0.40% | ~2,681 |
 | Advanced Wayfarer | 0.40% | ~2,681 |
 | Tough Nut! | 0.40% | ~2,681 |
-| Trans-Siberian Railway | 0.30% | ~2,010 |
-| Engineer | 0.30% | ~2,010 |
-| Satan's Minion | 0.30% | ~2,010 |
-| Snowman's Land | 0.30% | ~2,010 |
+| Trans-Siberian Railway | 0.30% | ~2,011 |
+| Engineer | 0.30% | ~2,011 |
+| Satan's Minion | 0.30% | ~2,011 |
+| Snowman's Land | 0.30% | ~2,011 |
 | Expert Wayfarer | 0.20% | ~1,340 |
 | Explorer | 0.10% | ~670 |
 | Advanced Explorer | 0.10% | ~670 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~670 |
 | 20 Miles under the Sea | 0.10% | ~670 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670,160 (Ranked 29)  
+Progressed: 670,167 (Ranked 29)  
 Completed: 12 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 12 (0.00%) (Ranked 377)
 | 2023-12-12 | 669,506 | 12 |
 | 2023-12-13 | 669,796 | 12 |
 | 2023-12-14 | 670,057 | 12 |
-| 2023-12-15 | 670,160 | 12 |
+| 2023-12-15 | 670,167 | 12 |
 ## Awards
 Max (Great for Beginners): 202  (Ranked 291)  
 Sum: 1,611 (Ranked 232)  

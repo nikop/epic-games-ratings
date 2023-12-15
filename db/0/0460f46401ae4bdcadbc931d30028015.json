@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -975,9 +975,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4281,
+  "EOS_Progressed": 4282,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7245,6 +7245,11 @@
       "Time": "2023-12-15T10:05:23.3288649+00:00",
       "NumProgressed": 4281,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T11:05:29.8906902+00:00",
+      "NumProgressed": 4282,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -7265,7 +7270,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "achievement_11",
@@ -7385,23 +7390,23 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "achievement_6",
       "SetID": "aiin7da",
       "Name": "Roster Reshuffle",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1156
     },
     {
       "ID": "achievement_7",
       "SetID": "aiin7da",
       "Name": "Head-to-Head",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 128
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_8",
@@ -7409,7 +7414,7 @@
       "Name": "Bragging Rights",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "achievement_9",
@@ -7424,7 +7429,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4281,
+      "Progressed": 4282,
       "Completed": 0
     }
   ],
@@ -7432,8 +7437,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-15T03:57:16.3875939+00:00",
-  "LastChanged_Achievements": "2023-12-15T10:05:23.3288644+00:00",
+  "LastChanged_Achievements": "2023-12-15T11:05:29.8906897+00:00",
   "LastUpdate_AppInfo": "2023-12-14T08:57:09.6557001+00:00",
-  "LastUpdate_Ratings": "2023-12-15T09:57:27.7372892+00:00",
-  "LastUpdate_Achievements": "2023-12-15T10:05:23.3289201+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:57:20.3425582+00:00",
+  "LastUpdate_Achievements": "2023-12-15T11:05:29.8907353+00:00"
 }

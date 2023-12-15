@@ -5,10 +5,10 @@
   "Ranking_Rating": 1008,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
-  "Ranking_EOS_Progress": 304,
+  "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 616,
+  "EOS_Progressed": 617,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2798,6 +2798,11 @@
       "Time": "2023-12-15T10:03:28.2879648+00:00",
       "NumProgressed": 616,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T11:03:30.4857299+00:00",
+      "NumProgressed": 617,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2841,7 +2846,7 @@
       "Name": "War with Friends",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
@@ -2904,7 +2909,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 616,
+      "Progressed": 617,
       "Completed": 0
     }
   ],
@@ -2912,8 +2917,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-12-15T10:03:28.2879643+00:00",
+  "LastChanged_Achievements": "2023-12-15T11:03:30.4857294+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:05.7146339+00:00",
-  "LastUpdate_Ratings": "2023-12-15T09:58:23.8963362+00:00",
-  "LastUpdate_Achievements": "2023-12-15T10:03:28.2880251+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:58:20.1571642+00:00",
+  "LastUpdate_Achievements": "2023-12-15T11:03:30.4857509+00:00"
 }

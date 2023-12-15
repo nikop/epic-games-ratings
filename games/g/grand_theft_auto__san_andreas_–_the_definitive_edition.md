@@ -5,16 +5,16 @@ Rating: 4.56 (Ranked 498)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~11,663 |
-| Pay 'n' Spray | 51.00% | ~7,343 |
-| All Dressed Up for San Fierro | 26.00% | ~3,744 |
-| The American Dream | 20.00% | ~2,880 |
-| School's Out | 19.00% | ~2,736 |
-| Smooth Moves | 17.00% | ~2,448 |
-| What happens in Las Venturas... | 15.00% | ~2,160 |
-| Today Was a Good Day | 15.00% | ~2,160 |
-| Horror of the Santa Maria | 11.00% | ~1,584 |
-| Liberty City State of Mind | 10.00% | ~1,440 |
+| Getting Started | 81.00% | ~11,669 |
+| Pay 'n' Spray | 51.00% | ~7,347 |
+| All Dressed Up for San Fierro | 26.00% | ~3,746 |
+| The American Dream | 20.00% | ~2,881 |
+| School's Out | 19.00% | ~2,737 |
+| Smooth Moves | 17.00% | ~2,449 |
+| What happens in Las Venturas... | 15.00% | ~2,161 |
+| Today Was a Good Day | 15.00% | ~2,161 |
+| Horror of the Santa Maria | 11.00% | ~1,585 |
+| Liberty City State of Mind | 10.00% | ~1,441 |
 | The End of the Line | 8.00% | ~1,152 |
 | Original Gangster | 8.00% | ~1,152 |
 | With Extra Dip | 7.00% | ~1,008 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 498)
 | ...Here we go again | 0.50% | ~72 |
 | I Ain't No Buster | 0.40% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,399 (Ranked 160)  
+Progressed: 14,406 (Ranked 159)  
 Completed: 58 (0.40%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,11 +280,11 @@ Completed: 58 (0.40%) (Ranked 225)
 | 2023-12-12 | 13,961 | 57 |
 | 2023-12-13 | 14,007 | 57 |
 | 2023-12-14 | 14,291 | 58 |
-| 2023-12-15 | 14,399 | 58 |
+| 2023-12-15 | 14,406 | 58 |
 ## Awards
 Max (Great Boss Battles): 444  (Ranked 226)  
-Sum: 727 (Ranked 298)  
-Diff (max vs sum): -72  
+Sum: 728 (Ranked 297)  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 444 |
@@ -295,7 +295,7 @@ Diff (max vs sum): -72
 | This game is Highly Recommended | 30 |
 | This game has a Creative Community | 28 |
 | This game is Extremely Fun | 25 |
-| This game has Quickly Understood Controls | 23 |
+| This game has Quickly Understood Controls | 24 |
 | This game has Diverse Characters | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -500,4 +500,4 @@ Diff (max vs sum): -72
 | 2023-12-12 | 4.56 | 439 | 719 |
 | 2023-12-13 | 4.56 | 442 | 723 |
 | 2023-12-14 | 4.56 | 444 | 726 |
-| 2023-12-15 | 4.56 | 444 | 727 |
+| 2023-12-15 | 4.56 | 444 | 728 |

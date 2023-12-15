@@ -2,10 +2,10 @@
   "ID": "4cbfe407ada24702a556b6e4d28a8800",
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
-  "Ranking_EOS_Progress": 329,
-  "Ranking_EOS_Completed": 136,
+  "Ranking_EOS_Progress": 328,
+  "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,11 +18,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 454,
+  "EOS_Progressed": 456,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.76,
+  "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
     {
       "Time": "2023-09-19T03:08:38.9448107+00:00",
@@ -1948,6 +1948,11 @@
       "Time": "2023-12-15T09:08:46.2243237+00:00",
       "NumProgressed": 454,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-15T11:08:49.1061876+00:00",
+      "NumProgressed": 456,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -1960,7 +1965,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 451
     },
     {
       "ID": "achievement_10",
@@ -1968,7 +1973,7 @@
       "Name": "Karakuri Trail",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "achievement_11",
@@ -1984,7 +1989,7 @@
       "Name": "Canyon of Karakuri",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_13",
@@ -1992,7 +1997,7 @@
       "Name": "Karakuri Fortress",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_14",
@@ -2000,7 +2005,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "achievement_15",
@@ -2008,7 +2013,7 @@
       "Name": "Memory Rouser",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "achievement_16",
@@ -2016,7 +2021,7 @@
       "Name": "Distance Devourer",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "achievement_17",
@@ -2024,7 +2029,7 @@
       "Name": "Master of the Skies",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "achievement_18",
@@ -2032,15 +2037,15 @@
       "Name": "Man-Machine Master",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "achievement_19",
       "SetID": "2cpn27e",
       "Name": "Counter Specialist",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 187
     },
     {
       "ID": "achievement_2",
@@ -2048,7 +2053,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "achievement_20",
@@ -2056,7 +2061,7 @@
       "Name": "Subsistence Skills",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "achievement_21",
@@ -2064,7 +2069,7 @@
       "Name": "Left Arm Leverager",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_22",
@@ -2072,7 +2077,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "achievement_23",
@@ -2080,7 +2085,7 @@
       "Name": "Relentless Kemono Hunter",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_24",
@@ -2088,7 +2093,7 @@
       "Name": "Single Minded",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "achievement_25",
@@ -2110,17 +2115,17 @@
       "ID": "achievement_27",
       "SetID": "2cpn27e",
       "Name": "Mighty Marmelizer",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_28",
       "SetID": "2cpn27e",
       "Name": "Flawless Crystal",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 213
+      "UsersEstimate": 210
     },
     {
       "ID": "achievement_29",
@@ -2128,7 +2133,7 @@
       "Name": "Fair Means or Foul",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "achievement_3",
@@ -2136,15 +2141,15 @@
       "Name": "Bonds of Enmity",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "achievement_30",
       "SetID": "2cpn27e",
       "Name": "Tender Touch",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 64
     },
     {
       "ID": "achievement_31",
@@ -2176,15 +2181,15 @@
       "Name": "Kemono at Heart",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "achievement_35",
       "SetID": "2cpn27e",
       "Name": "Unrivaled in Arms",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_36",
@@ -2200,7 +2205,7 @@
       "Name": "Hidden History",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "achievement_38",
@@ -2216,7 +2221,7 @@
       "Name": "Big Spender",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_4",
@@ -2224,7 +2229,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_40",
@@ -2246,9 +2251,9 @@
       "ID": "achievement_42",
       "SetID": "2cpn27e",
       "Name": "Quintessence of Form",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_43",
@@ -2264,7 +2269,7 @@
       "Name": "Artful Assister",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_45",
@@ -2272,7 +2277,7 @@
       "Name": "Helpful Heart",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "achievement_46",
@@ -2280,7 +2285,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "achievement_47",
@@ -2288,31 +2293,31 @@
       "Name": "Threaded Harmony",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_48",
       "SetID": "2cpn27e",
       "Name": "Haven Hunter",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 73
     },
     {
       "ID": "achievement_5",
       "SetID": "2cpn27e",
       "Name": "Reincarnation Cycle Stopper",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_6",
       "SetID": "2cpn27e",
       "Name": "Commencing of Quests",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 306
     },
     {
       "ID": "achievement_7",
@@ -2320,7 +2325,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 306
     },
     {
       "ID": "achievement_8",
@@ -2328,7 +2333,7 @@
       "Name": "Expert Conjuror",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "achievement_9",
@@ -2343,13 +2348,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 454,
+      "Progressed": 456,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-15T10:08:47.5581831+00:00",
+  "LastChanged_Achievements": "2023-12-15T11:08:49.1061874+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:59.7578969+00:00",
-  "LastUpdate_Ratings": "2023-12-15T09:57:58.9888556+00:00",
-  "LastUpdate_Achievements": "2023-12-15T10:08:47.5582356+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:57:53.8556889+00:00",
+  "LastUpdate_Achievements": "2023-12-15T11:08:49.1062209+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2019-05-01T23:00:00+00:00",
@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 759360,
+  "EOS_Progressed": 759363,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1604,
+  "EOS_NewPlayers": 1599,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27766,6 +27766,11 @@
       "Time": "2023-12-15T10:05:00.1597623+00:00",
       "NumProgressed": 759360,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-15T11:05:06.5995555+00:00",
+      "NumProgressed": 759363,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -27841,7 +27846,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 280963
+      "UsersEstimate": 280964
     },
     {
       "ID": "ach_demolish_trees",
@@ -27849,7 +27854,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 129091
+      "UsersEstimate": 129092
     },
     {
       "ID": "ach_free_cam_mode",
@@ -27881,7 +27886,7 @@
       "Name": "I would drive 500 tiles...",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 91123
+      "UsersEstimate": 91124
     },
     {
       "ID": "ach_place_all_buildngs",
@@ -27905,7 +27910,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 364493
+      "UsersEstimate": 364494
     },
     {
       "ID": "ach_produced",
@@ -27977,7 +27982,7 @@
       "Name": "Landscaper",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 91123
+      "UsersEstimate": 91124
     },
     {
       "ID": "ach_warehouse_clients",
@@ -27985,14 +27990,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 144278
+      "UsersEstimate": 144279
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 759360,
+      "Progressed": 759363,
       "Completed": 4
     }
   ],
@@ -28000,8 +28005,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-12-01T16:00:20.573033+00:00",
-  "LastChanged_Achievements": "2023-12-15T10:05:00.1597617+00:00",
+  "LastChanged_Achievements": "2023-12-15T11:05:06.599555+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:52.124546+00:00",
-  "LastUpdate_Ratings": "2023-12-15T09:59:15.6833124+00:00",
-  "LastUpdate_Achievements": "2023-12-15T10:05:00.1599427+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:59:14.2879522+00:00",
+  "LastUpdate_Achievements": "2023-12-15T11:05:06.5996655+00:00"
 }

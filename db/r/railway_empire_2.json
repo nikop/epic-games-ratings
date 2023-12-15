@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -299,9 +299,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2390,
+  "EOS_Progressed": 2391,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6749,6 +6749,11 @@
       "Time": "2023-12-15T09:04:50.4215097+00:00",
       "NumProgressed": 2390,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T11:05:11.3171445+00:00",
+      "NumProgressed": 2391,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -6872,7 +6877,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "A15",
@@ -6920,7 +6925,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1816
+      "UsersEstimate": 1817
     },
     {
       "ID": "A21",
@@ -6936,7 +6941,7 @@
       "Name": "Brainstorm",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "A23",
@@ -6952,7 +6957,7 @@
       "Name": "Access granted",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "A25",
@@ -6984,7 +6989,7 @@
       "Name": "We brake for nobody",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1625
+      "UsersEstimate": 1626
     },
     {
       "ID": "A29",
@@ -6992,7 +6997,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "A30",
@@ -7016,7 +7021,7 @@
       "Name": "Assimilated",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "A33",
@@ -7046,9 +7051,9 @@
       "ID": "A36",
       "SetID": "9b7p7eo",
       "Name": "Way of Iron",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1674
     },
     {
       "ID": "A37",
@@ -7072,7 +7077,7 @@
       "Name": "Bold and beautiful",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "A40",
@@ -7088,7 +7093,7 @@
       "Name": "Right through the middle",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "A42",
@@ -7120,7 +7125,7 @@
       "Name": "Settler",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "A46",
@@ -7128,7 +7133,7 @@
       "Name": "Mystery Tour",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "A47",
@@ -7136,7 +7141,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "A48",
@@ -7199,7 +7204,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2390,
+      "Progressed": 2391,
       "Completed": 0
     }
   ],
@@ -7207,8 +7212,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-07T22:58:14.7831098+00:00",
-  "LastChanged_Achievements": "2023-12-15T10:05:05.1698778+00:00",
+  "LastChanged_Achievements": "2023-12-15T11:05:11.3171442+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:15.8149041+00:00",
-  "LastUpdate_Ratings": "2023-12-15T09:58:44.2603976+00:00",
-  "LastUpdate_Achievements": "2023-12-15T10:05:05.1699509+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:58:41.0138233+00:00",
+  "LastUpdate_Achievements": "2023-12-15T11:05:11.3172038+00:00"
 }

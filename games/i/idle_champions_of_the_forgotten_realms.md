@@ -86,6 +86,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | G. O. A. T. | 0.10% | ~207 |
 | The Howling Peaks of Yon | 0.10% | ~207 |
 | Strength of Character | 0.10% | ~207 |
+| The Invisible Wizards of Thay | 0.10% | ~207 |
 | Heavy Burden | 0.10% | ~241 |
 | Seeds of Destruction | 0.10% | ~207 |
 | Speeds of Destruction | 0.10% | ~207 |
@@ -550,11 +551,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mental Gymnastics | 0.10% | ~207 |
 | Don't Lose Your Head | 0.10% | ~207 |
 | Mind Spike | 0.10% | ~207 |
-| The Invisible Wizards of Thay | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,558 (Ranked 66)  
-Completed: 2,526 (1.05%) (Ranked 169)  
+Progressed: 240,579 (Ranked 66)  
+Completed: 2,526 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -792,7 +792,7 @@ Completed: 2,526 (1.05%) (Ranked 169)
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
 | 2023-12-14 | 240,414 | 2,526 |
-| 2023-12-15 | 240,558 | 2,526 |
+| 2023-12-15 | 240,579 | 2,526 |
 ## Awards
 Max (Great for Beginners): 5,635  (Ranked 70)  
 Sum: 32,884 (Ranked 41)  

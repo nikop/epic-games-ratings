@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 260,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
@@ -9738,9 +9738,9 @@
       "Count": 1004
     }
   ],
-  "EOS_Progressed": 127228,
+  "EOS_Progressed": 127237,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1406,
+  "EOS_NewPlayers": 1415,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35138,6 +35138,11 @@
       "Time": "2023-12-15T10:08:53.5425085+00:00",
       "NumProgressed": 127228,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T11:08:55.1872891+00:00",
+      "NumProgressed": 127237,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35187,9 +35192,9 @@
       "ID": "altar_of_hope_unlock_hero_hellion",
       "SetID": "64l4lke",
       "Name": "Unleash Hell",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 763
+      "UsersEstimate": 891
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -35717,7 +35722,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -35780,21 +35785,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127228,
+      "Progressed": 127237,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2097,
+      "Progressed": 2106,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-15T10:00:06.5063477+00:00",
-  "LastChanged_Achievements": "2023-12-15T10:08:53.5425082+00:00",
+  "LastChanged_Achievements": "2023-12-15T11:08:55.1872887+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-15T10:00:06.5063483+00:00",
-  "LastUpdate_Achievements": "2023-12-15T10:08:53.542676+00:00"
+  "LastUpdate_Ratings": "2023-12-15T11:00:07.9086372+00:00",
+  "LastUpdate_Achievements": "2023-12-15T11:08:55.1874339+00:00"
 }

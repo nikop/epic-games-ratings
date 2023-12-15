@@ -4,8 +4,8 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 502,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 115,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -534,9 +534,9 @@
       "ID": "Epic_Brand_25",
       "SetID": "ba1m2fc",
       "Name": "Pilgrim",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Epic_ChainSaw_1",
@@ -838,9 +838,9 @@
       "ID": "Epic_SpendMoney_100000",
       "SetID": "ba1m2fc",
       "Name": "God of Wealth",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "Epic_SwampPet_1",
@@ -909,8 +909,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-12-15T10:03:56.8136009+00:00",
+  "LastChanged_Achievements": "2023-12-15T11:04:00.7906144+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:10.2907152+00:00",
-  "LastUpdate_Ratings": "2023-12-15T09:57:11.0794658+00:00",
-  "LastUpdate_Achievements": "2023-12-15T10:03:56.8136561+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:57:00.9440317+00:00",
+  "LastUpdate_Achievements": "2023-12-15T11:04:00.790649+00:00"
 }

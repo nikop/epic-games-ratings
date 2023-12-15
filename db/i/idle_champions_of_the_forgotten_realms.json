@@ -6,7 +6,7 @@
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 66,
-  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
@@ -8773,9 +8773,9 @@
       "Count": 3571
     }
   ],
-  "EOS_Progressed": 240558,
+  "EOS_Progressed": 240579,
   "EOS_Completed": 2526,
-  "EOS_NewPlayers": 1697,
+  "EOS_NewPlayers": 1704,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -35703,6 +35703,11 @@
       "Time": "2023-12-15T10:09:51.1621239+00:00",
       "NumProgressed": 240558,
       "NumCompleted": 2526
+    },
+    {
+      "Time": "2023-12-15T11:09:54.4598493+00:00",
+      "NumProgressed": 240579,
+      "NumCompleted": 2526
     }
   ],
   "TotalAchievements": 546,
@@ -36320,9 +36325,9 @@
       "ID": "objective_completed_1149",
       "SetID": "415jc5c",
       "Name": "The Invisible Wizards of Thay",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 207
     },
     {
       "ID": "objective_completed_115",
@@ -40081,21 +40086,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 206832,
-      "Completed": 3990
+      "Progressed": 206853,
+      "Completed": 3992
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 240558,
+      "Progressed": 240579,
       "Completed": 2526
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-15T07:58:06.4585191+00:00",
-  "LastChanged_Achievements": "2023-12-15T10:09:51.1621234+00:00",
+  "LastChanged_Achievements": "2023-12-15T11:09:54.459849+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-15T09:58:03.5786921+00:00",
-  "LastUpdate_Achievements": "2023-12-15T10:09:51.1644357+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:57:58.8178151+00:00",
+  "LastUpdate_Achievements": "2023-12-15T11:09:54.4620707+00:00"
 }

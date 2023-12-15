@@ -45,6 +45,7 @@
 | Legacy of a Mercenary | 2.00% | ~4 |
 | Delayed | 2.00% | ~4 |
 | A Real Battle | 2.00% | ~4 |
+| The Darkness Within | 2.00% | ~4 |
 | Merchant Lord | 2.00% | ~4 |
 | Insectoid Propagator | 2.00% | ~4 |
 | Making Contact | 1.00% | ~2 |
@@ -57,7 +58,6 @@
 | Trailblazer | 1.00% | ~2 |
 | Moving At Odd Angles | 1.00% | ~2 |
 | Escort | 1.00% | ~2 |
-| The Darkness Within | 1.00% | ~2 |
 | Ruiner | 1.00% | ~2 |
 | What Lies Below | 1.00% | ~2 |
 | The Last Voyage | 1.00% | ~2 |

@@ -8,7 +8,7 @@
 | Thalya – Simply Immortal | 88.00% | ~492 |
 | For the Horde! | 83.00% | ~464 |
 | Hammer Time, Round Two | 81.00% | ~453 |
-| The Hellwoods | 76.00% | ~425 |
+| The Hellwoods | 77.00% | ~430 |
 | The Plains of Strothalm | 71.00% | ~397 |
 | Experienced Thalya | 71.00% | ~397 |
 | Thalya's Concentrated Fury | 69.00% | ~386 |

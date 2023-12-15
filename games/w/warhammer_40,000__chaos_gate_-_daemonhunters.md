@@ -14,11 +14,11 @@ Number of Ratings: 371  (23.09.2022)
 | Purging Spree | 7.00% | ~237 |
 | Blood for the Blood God! | 6.00% | ~203 |
 | Bloodless | 6.00% | ~203 |
-| Honoured Battle-Brother | 4.00% | ~135 |
-| Surgical Excision | 4.00% | ~135 |
-| Friendly Fire | 4.00% | ~135 |
-| The Emperor Protects | 4.00% | ~135 |
-| A Foul Creche | 4.00% | ~135 |
+| Honoured Battle-Brother | 4.00% | ~136 |
+| Surgical Excision | 4.00% | ~136 |
+| Friendly Fire | 4.00% | ~136 |
+| The Emperor Protects | 4.00% | ~136 |
+| A Foul Creche | 4.00% | ~136 |
 | Nemesis Master | 3.00% | ~102 |
 | Gunmaster | 3.00% | ~102 |
 | Just a Scratch | 3.00% | ~102 |
@@ -38,8 +38,8 @@ Number of Ratings: 371  (23.09.2022)
 | Long Distance Call | 1.00% | ~34 |
 | Tactical Flexibility | 1.00% | ~34 |
 | Tactical Sabotage | 1.00% | ~34 |
-| For the Machine God | 0.90% | ~30 |
-| Death Comes For All | 0.90% | ~30 |
+| For the Machine God | 0.90% | ~31 |
+| Death Comes For All | 0.90% | ~31 |
 | Patron of Deimos | 0.80% | ~27 |
 | Engine Kill | 0.80% | ~27 |
 | Harvest No More | 0.70% | ~24 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,387 (Ranked 212)  
+Progressed: 3,389 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 3,348 | 0 |
 | 2023-12-13 | 3,351 | 0 |
 | 2023-12-14 | 3,379 | 0 |
-| 2023-12-15 | 3,387 | 0 |
+| 2023-12-15 | 3,389 | 0 |
 ## Awards
 Max (Character Customization): 227  (Ranked 279)  
 Sum: 488 (Ranked 333)  

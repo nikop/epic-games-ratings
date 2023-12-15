@@ -5,15 +5,15 @@ Rating: 4.44 (Ranked 682)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,889 |
-| Confirming Suspicions | 41.00% | ~1,648 |
-| The Kraken Wakes | 37.00% | ~1,487 |
+| Meeting Resistance | 47.00% | ~1,890 |
+| Confirming Suspicions | 41.00% | ~1,649 |
+| The Kraken Wakes | 37.00% | ~1,488 |
 | It's Starting to Crack | 34.00% | ~1,367 |
-| Change the Channel | 31.00% | ~1,246 |
+| Change the Channel | 31.00% | ~1,247 |
 | Lord of War | 30.00% | ~1,206 |
 | Taking it back | 29.00% | ~1,166 |
-| Resourceful | 27.00% | ~1,085 |
-| Target America | 27.00% | ~1,085 |
+| Resourceful | 27.00% | ~1,086 |
+| Target America | 27.00% | ~1,086 |
 | The Kraken Sleeps | 25.00% | ~1,005 |
 | As Quiet as a Mouse | 24.00% | ~965 |
 | Liberté | 23.00% | ~925 |
@@ -21,9 +21,9 @@ Rating: 4.44 (Ranked 682)
 | Sharpshooter | 23.00% | ~925 |
 | Gunslinger | 19.00% | ~764 |
 | Explosive Efficiency | 19.00% | ~764 |
-| Climbing the Ladder | 17.00% | ~683 |
-| Just a Flesh Wound | 17.00% | ~683 |
-| Der Geist | 17.00% | ~683 |
+| Climbing the Ladder | 17.00% | ~684 |
+| Just a Flesh Wound | 17.00% | ~684 |
+| Der Geist | 17.00% | ~684 |
 | Close Quarters | 16.00% | ~643 |
 | Snake in the Grass | 16.00% | ~643 |
 | Brains of the Operation | 16.00% | ~643 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 682)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,020 (Ranked 199)  
+Progressed: 4,021 (Ranked 199)  
 Completed: 11 (0.27%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 11 (0.27%) (Ranked 249)
 | 2023-12-12 | 4,006 | 11 |
 | 2023-12-13 | 4,009 | 11 |
 | 2023-12-14 | 4,017 | 11 |
-| 2023-12-15 | 4,020 | 11 |
+| 2023-12-15 | 4,021 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 512)  
 Sum: 28 (Ranked 528)  

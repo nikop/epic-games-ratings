@@ -13,13 +13,13 @@ Rating: 4.60 (Ranked 422)
 | The brave little tailor | 50.00% | ~38 |
 | Field hand | 47.00% | ~36 |
 | Samaritan | 45.00% | ~34 |
-| The merciful one | 39.00% | ~30 |
-| Well-to-do | 39.00% | ~30 |
+| The merciful one | 41.00% | ~31 |
+| Well-to-do | 41.00% | ~31 |
 | Ladies' man | 39.00% | ~30 |
 | Ferocious wild boars | 30.00% | ~23 |
 | Idiot | 29.00% | ~22 |
 | Beast slayer | 28.00% | ~21 |
-| Wise man | 25.00% | ~19 |
+| Wise man | 26.00% | ~20 |
 | Family man | 25.00% | ~19 |
 | Death of a legend | 25.00% | ~19 |
 | Archaeologist | 25.00% | ~19 |
@@ -29,8 +29,8 @@ Rating: 4.60 (Ranked 422)
 | Little hero | 24.00% | ~18 |
 | Pandora's box | 22.00% | ~17 |
 | Sidelined | 22.00% | ~17 |
+| Master detective | 22.00% | ~17 |
 | Ghost hunter | 21.00% | ~16 |
-| Master detective | 21.00% | ~16 |
 | Peacekeeper | 20.00% | ~15 |
 | Defender | 18.00% | ~14 |
 | Showdown | 17.00% | ~13 |

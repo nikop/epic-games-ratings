@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 889,
+  "EOS_Progressed": 890,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2017,6 +2017,11 @@
       "Time": "2023-12-15T09:03:16.7072261+00:00",
       "NumProgressed": 889,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T11:03:32.9920177+00:00",
+      "NumProgressed": 890,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2173,7 +2178,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "CompleteChapter3",
@@ -2181,7 +2186,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "CompleteChapter4",
@@ -2189,7 +2194,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "CompleteChapter5",
@@ -2229,7 +2234,7 @@
       "Name": "Ingredients List",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -2324,14 +2329,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 889,
+      "Progressed": 890,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-15T10:03:30.6352526+00:00",
+  "LastChanged_Achievements": "2023-12-15T11:03:32.9920175+00:00",
   "LastUpdate_AppInfo": "2023-12-15T09:57:06.988595+00:00",
-  "LastUpdate_Ratings": "2023-12-15T09:58:11.3540543+00:00",
-  "LastUpdate_Achievements": "2023-12-15T10:03:30.6353033+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:58:06.8581763+00:00",
+  "LastUpdate_Achievements": "2023-12-15T11:03:32.9920429+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "haak-1401cb",
   "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
     "PcReleaseDate": "2022-08-25T02:30:00+00:00",
@@ -363,9 +363,9 @@
       "ID": "ach_05_northStation",
       "SetID": "16n29hg",
       "Name": "Dominate North Station",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_06_spikeDeath",
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-12-15T10:08:42.5164095+00:00",
+  "LastChanged_Achievements": "2023-12-15T11:08:43.9901371+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.5129796+00:00",
-  "LastUpdate_Ratings": "2023-12-15T10:00:17.6816299+00:00",
-  "LastUpdate_Achievements": "2023-12-15T10:08:42.5164459+00:00"
+  "LastUpdate_Ratings": "2023-12-15T11:02:30.1165211+00:00",
+  "LastUpdate_Achievements": "2023-12-15T11:08:43.9901723+00:00"
 }

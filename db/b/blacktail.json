@@ -2,13 +2,13 @@
   "ID": "a17cc66c3a3c4d75875febf281c73fd2",
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 260,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 786,
+  "EOS_Progressed": 787,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2351,6 +2351,11 @@
       "Time": "2023-12-14T23:10:59.6659973+00:00",
       "NumProgressed": 786,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T11:09:45.2892545+00:00",
+      "NumProgressed": 787,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2386,7 +2391,7 @@
       "Name": "Dental maturity",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "DevilDetail",
@@ -2617,7 +2622,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 786,
+      "Progressed": 787,
       "Completed": 1
     }
   ],
@@ -2625,8 +2630,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-12-15T10:09:42.1356791+00:00",
+  "LastChanged_Achievements": "2023-12-15T11:09:45.2892541+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:25.0593399+00:00",
-  "LastUpdate_Ratings": "2023-12-15T09:58:47.5810209+00:00",
-  "LastUpdate_Achievements": "2023-12-15T10:09:42.1357087+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:58:44.1505778+00:00",
+  "LastUpdate_Achievements": "2023-12-15T11:09:45.2892834+00:00"
 }

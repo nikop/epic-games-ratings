@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 79.00% | ~96 |
-| Wanderer | 71.00% | ~86 |
+| Something important | 78.00% | ~95 |
+| Wanderer | 70.00% | ~85 |
 | A piece of the story | 56.00% | ~68 |
-| Do what you have to | 44.00% | ~53 |
 | It's covered up for a reason | 43.00% | ~52 |
+| Do what you have to | 43.00% | ~52 |
 | Scraps of love | 42.00% | ~51 |
 | The artist’s impression | 42.00% | ~51 |
-| Refuse to look | 36.00% | ~44 |
 | Sign of weakness | 36.00% | ~44 |
-| Finished it | 30.00% | ~36 |
+| Refuse to look | 35.00% | ~43 |
+| Finished it | 30.00% | ~37 |
 | Face your fears | 27.00% | ~33 |
-| Whispers long forgotten | 17.00% | ~21 |
+| Whispers long forgotten | 16.00% | ~20 |
 | Playtime | 13.00% | ~16 |
 | Tough conversation | 13.00% | ~16 |
-| A Slice of Life | 12.00% | ~15 |
 | Debut | 12.00% | ~15 |
-| First steps | 12.00% | ~15 |
 | The art of movement | 12.00% | ~15 |
 | The tragedy unfolds | 12.00% | ~15 |
 | A new way | 11.00% | ~13 |
+| A Slice of Life | 11.00% | ~13 |
+| First steps | 11.00% | ~13 |
 | Sound Bite | 11.00% | ~13 |
 | Another perspective | 10.00% | ~12 |
 | Breaking free | 10.00% | ~12 |
 | Lights! Camera! Action! | 10.00% | ~12 |
 | True Reflection | 10.00% | ~12 |
-| Casting Finished | 7.00% | ~8 |
-| Heavy Burden | 7.00% | ~8 |
-| Fisherman | 7.00% | ~8 |
+| Casting Finished | 7.00% | ~9 |
+| Heavy Burden | 7.00% | ~9 |
+| Fisherman | 7.00% | ~9 |
 | We Are Not Alone | 5.00% | ~6 |
 | The Perfect Storm | 4.00% | ~5 |
 | Something to think about | 3.00% | ~4 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121 (Ranked 432)  
+Progressed: 122 (Ranked 431)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,4 +110,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-09 | 108 | 0 |
 | 2023-12-13 | 109 | 0 |
 | 2023-12-14 | 117 | 0 |
-| 2023-12-15 | 121 | 0 |
+| 2023-12-15 | 122 | 0 |

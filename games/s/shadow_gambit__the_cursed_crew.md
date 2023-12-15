@@ -1,7 +1,7 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.81 (Ranked 83)  
+Rating: 4.81 (Ranked 84)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -32,7 +32,7 @@ Rating: 4.81 (Ranked 83)
 | Marauder | 3.00% | ~35 |
 | Welcome Back Jester | 3.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,157 (Ranked 261)  
+Progressed: 1,157 (Ranked 262)  
 Completed: 32 (2.77%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |

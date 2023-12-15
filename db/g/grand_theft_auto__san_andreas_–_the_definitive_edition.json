@@ -4,8 +4,8 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 498,
   "Ranking_Popularity": 226,
-  "Ranking_PopularitySum": 298,
-  "Ranking_EOS_Progress": 160,
+  "Ranking_PopularitySum": 297,
+  "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 74,
@@ -1697,10 +1697,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 727,
       "NumberOfAwardsMax": 444
+    },
+    {
+      "Time": "2023-12-15T10:59:06.2650019+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 728,
+      "NumberOfAwardsMax": 444
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 727,
+  "NumberOfAwards": 728,
   "NumberOfAwardsMax": 444,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1750,7 +1756,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1765,9 +1771,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 14399,
+  "EOS_Progressed": 14406,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 509,
+  "EOS_NewPlayers": 516,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -16150,6 +16156,11 @@
       "Time": "2023-12-15T10:09:29.1527216+00:00",
       "NumProgressed": 14399,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-15T11:09:31.7976665+00:00",
+      "NumProgressed": 14406,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 35,
@@ -16161,7 +16172,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 11663
+      "UsersEstimate": 11669
     },
     {
       "ID": "ACH02",
@@ -16209,7 +16220,7 @@
       "Name": "The American Dream",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2880
+      "UsersEstimate": 2881
     },
     {
       "ID": "ACH08",
@@ -16217,7 +16228,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 7343
+      "UsersEstimate": 7347
     },
     {
       "ID": "ACH09",
@@ -16241,7 +16252,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "ACH12",
@@ -16257,7 +16268,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2736
+      "UsersEstimate": 2737
     },
     {
       "ID": "ACH14",
@@ -16265,7 +16276,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "ACH15",
@@ -16281,7 +16292,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "ACH17",
@@ -16329,7 +16340,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "ACH23",
@@ -16337,7 +16348,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3744
+      "UsersEstimate": 3746
     },
     {
       "ID": "ACH24",
@@ -16385,7 +16396,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "ACH30",
@@ -16440,16 +16451,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 14399,
+      "Progressed": 14406,
       "Completed": 58
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-12-15T02:23:04.3150106+00:00",
-  "LastChanged_Achievements": "2023-12-15T10:09:29.1527211+00:00",
+  "LastChanged": "2023-12-15T10:59:06.2650017+00:00",
+  "LastChanged_Achievements": "2023-12-15T11:09:31.797666+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:47.2955256+00:00",
-  "LastUpdate_Ratings": "2023-12-15T09:59:08.1105213+00:00",
-  "LastUpdate_Achievements": "2023-12-15T10:09:29.1528034+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:59:06.2650022+00:00",
+  "LastUpdate_Achievements": "2023-12-15T11:09:31.7977691+00:00"
 }
