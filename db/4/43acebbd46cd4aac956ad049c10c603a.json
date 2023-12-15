@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -2963,9 +2963,9 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 98
     },
     {
       "ID": "YourBiggestFan",
@@ -2988,8 +2988,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-15T02:29:48.7121001+00:00",
+  "LastChanged_Achievements": "2023-12-15T03:07:40.2978427+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:24:09.480975+00:00",
-  "LastUpdate_Achievements": "2023-12-15T02:29:48.7121547+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:01:48.3477484+00:00",
+  "LastUpdate_Achievements": "2023-12-15T03:07:40.2978859+00:00"
 }

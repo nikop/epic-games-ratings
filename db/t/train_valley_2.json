@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 353,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
     "PcReleaseDate": "2019-04-15T00:00:00+00:00",
@@ -3755,9 +3755,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 423570,
+  "EOS_Progressed": 423572,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 1672,
+  "EOS_NewPlayers": 1666,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22395,6 +22395,11 @@
       "Time": "2023-12-15T02:28:30.1087628+00:00",
       "NumProgressed": 423570,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-12-15T03:05:46.9109634+00:00",
+      "NumProgressed": 423572,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 89,
@@ -22510,7 +22515,7 @@
       "Name": "Close call!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 127071
+      "UsersEstimate": 127072
     },
     {
       "ID": "AchievementCommonCause",
@@ -22518,7 +22523,7 @@
       "Name": "Common cause",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 110128
+      "UsersEstimate": 110129
     },
     {
       "ID": "AchievementCriticalCare",
@@ -22526,7 +22531,7 @@
       "Name": "Critical care",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 110128
+      "UsersEstimate": 110129
     },
     {
       "ID": "AchievementDealmaker",
@@ -22534,7 +22539,7 @@
       "Name": "Dealmaker",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 309206
+      "UsersEstimate": 309208
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -22590,7 +22595,7 @@
       "Name": "Full garage",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 258378
+      "UsersEstimate": 258379
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -22622,7 +22627,7 @@
       "Name": "Highlander",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 21178
+      "UsersEstimate": 21179
     },
     {
       "ID": "AchievementIndividualDelivery",
@@ -22630,7 +22635,7 @@
       "Name": "Individual delivery",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 199078
+      "UsersEstimate": 199079
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -22678,7 +22683,7 @@
       "Name": "Jewelry accuracy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 21178
+      "UsersEstimate": 21179
     },
     {
       "ID": "AchievementJuggler",
@@ -22686,7 +22691,7 @@
       "Name": "Juggler",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 152485
+      "UsersEstimate": 152486
     },
     {
       "ID": "AchievementJustInTime",
@@ -22726,7 +22731,7 @@
       "Name": "Mega-railroad",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 97421
+      "UsersEstimate": 97422
     },
     {
       "ID": "AchievementMetroBuilder",
@@ -22782,7 +22787,7 @@
       "Name": "Non-Stop",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 190606
+      "UsersEstimate": 190607
     },
     {
       "ID": "AchievementOneWay",
@@ -22878,7 +22883,7 @@
       "Name": "Stargazer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 21178
+      "UsersEstimate": 21179
     },
     {
       "ID": "AchievementSteamAge",
@@ -22886,7 +22891,7 @@
       "Name": "Steam Age",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 67771
+      "UsersEstimate": 67772
     },
     {
       "ID": "AchievementTheHare",
@@ -22910,7 +22915,7 @@
       "Name": "The Tortoise",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 50828
+      "UsersEstimate": 50829
     },
     {
       "ID": "AchievementToTheEyeballs",
@@ -22918,7 +22923,7 @@
       "Name": "To the eyeballs!",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 216021
+      "UsersEstimate": 216022
     },
     {
       "ID": "AchievementTourismAge",
@@ -22942,7 +22947,7 @@
       "Name": "Upgrade complete",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 97421
+      "UsersEstimate": 97422
     },
     {
       "ID": "AchievementUrbanizationAge",
@@ -23117,21 +23122,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 422911,
+      "Progressed": 422913,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 423570,
+      "Progressed": 423572,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-12-14T15:00:42.7390294+00:00",
-  "LastChanged_Achievements": "2023-12-15T02:28:30.1087625+00:00",
+  "LastChanged_Achievements": "2023-12-15T03:05:46.910963+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:57.7448768+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:24:30.5723558+00:00",
-  "LastUpdate_Achievements": "2023-12-15T02:28:30.1089443+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:03:02.2343828+00:00",
+  "LastUpdate_Achievements": "2023-12-15T03:05:46.9111309+00:00"
 }

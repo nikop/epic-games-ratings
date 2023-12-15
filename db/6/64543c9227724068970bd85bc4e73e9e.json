@@ -2,13 +2,13 @@
   "ID": "64543c9227724068970bd85bc4e73e9e",
   "Name": "Farlight 84",
   "ProductSlug": "farlight-84-8e689a",
-  "Ranking_Rating": 728,
-  "Ranking_Popularity": 552,
+  "Ranking_Rating": 743,
+  "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 501,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 502,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-26T06:00:00+00:00",
     "PcReleaseDate": "2023-08-22T09:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.4,
   "RatingHistory": [
     {
       "Time": "2023-11-02T19:03:18.4376934+00:00",
@@ -395,18 +395,24 @@
       "Rating": 4.41,
       "NumberOfAwards": 41,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-12-15T03:00:03.8566645+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 42,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41,
-  "NumberOfAwardsMax": 21,
+  "NumberOfAwards": 42,
+  "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game is Great for Beginners",
@@ -427,8 +433,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T02:58:28.8259872+00:00",
   "FirstSeenRating": "2023-11-02T19:03:18.4376932+00:00",
-  "LastChanged": "2023-12-15T01:48:19.1531306+00:00",
+  "LastChanged": "2023-12-15T03:00:03.8566643+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:28.1311595+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:23:02.8350485+00:00",
-  "LastUpdate_Achievements": "2023-12-15T02:29:56.705258+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:00:03.8566649+00:00",
+  "LastUpdate_Achievements": "2023-12-15T03:07:51.8395723+00:00"
 }

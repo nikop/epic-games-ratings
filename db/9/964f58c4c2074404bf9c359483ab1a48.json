@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 10,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2151,9 +2151,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1293613,
+  "EOS_Progressed": 1293614,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1126,
+  "EOS_NewPlayers": 1124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25146,6 +25146,11 @@
       "Time": "2023-12-15T02:29:14.6898726+00:00",
       "NumProgressed": 1293613,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T03:06:51.3587935+00:00",
+      "NumProgressed": 1293614,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -25269,7 +25274,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 142297
+      "UsersEstimate": 142298
     },
     {
       "ID": "10_ghost_wins",
@@ -25461,7 +25466,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 698551
+      "UsersEstimate": 698552
     },
     {
       "ID": "master_of_loadouts",
@@ -25492,7 +25497,7 @@
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1293613,
+      "Progressed": 1293614,
       "Completed": 0
     }
   ],
@@ -25500,8 +25505,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-12-12T20:59:06.8550122+00:00",
-  "LastChanged_Achievements": "2023-12-15T02:29:14.6898721+00:00",
+  "LastChanged_Achievements": "2023-12-15T03:06:51.3587932+00:00",
   "LastUpdate_AppInfo": "2023-12-08T09:57:00.0927863+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:24:15.5182567+00:00",
-  "LastUpdate_Achievements": "2023-12-15T02:29:14.6900553+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:01:58.7295307+00:00",
+  "LastUpdate_Achievements": "2023-12-15T03:06:51.3589314+00:00"
 }

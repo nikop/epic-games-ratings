@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 92.00% | ~28,319 |
-| Enemy Attrition | 71.00% | ~21,855 |
-| Grim Reaper | 69.00% | ~21,239 |
-| Heads Down | 67.00% | ~20,623 |
-| Not On My Watch | 64.00% | ~19,700 |
-| Combat Engineer | 47.00% | ~14,467 |
-| Eager Beaver | 41.00% | ~12,620 |
-| Call ’em in! | 37.00% | ~11,389 |
-| Lovely | 34.00% | ~10,466 |
-| Elite | 22.00% | ~6,772 |
-| Store fuglar fanga ingi flugor | 22.00% | ~6,772 |
-| Ou La Mort | 20.00% | ~6,156 |
-| Fender Bender | 14.00% | ~4,309 |
-| Globetrotter | 11.00% | ~3,386 |
-| Jack of All Trades | 10.00% | ~3,078 |
-| Storyteller | 6.00% | ~1,847 |
-| Death from Above | 4.00% | ~1,231 |
-| Off-hand | 4.00% | ~1,231 |
-| Veteran | 1.00% | ~308 |
-| Hoist the Flag | 0.40% | ~123 |
-| Sins of the Fathers | 0.30% | ~92 |
+| Last Man Standing | 92.00% | ~28,471 |
+| Enemy Attrition | 70.00% | ~21,663 |
+| Grim Reaper | 69.00% | ~21,353 |
+| Heads Down | 67.00% | ~20,734 |
+| Not On My Watch | 64.00% | ~19,806 |
+| Combat Engineer | 47.00% | ~14,545 |
+| Eager Beaver | 40.00% | ~12,379 |
+| Call ’em in! | 37.00% | ~11,450 |
+| Lovely | 34.00% | ~10,522 |
+| Elite | 22.00% | ~6,808 |
+| Store fuglar fanga ingi flugor | 22.00% | ~6,808 |
+| Ou La Mort | 19.00% | ~5,880 |
+| Fender Bender | 14.00% | ~4,333 |
+| Globetrotter | 11.00% | ~3,404 |
+| Jack of All Trades | 10.00% | ~3,095 |
+| Storyteller | 6.00% | ~1,857 |
+| Death from Above | 4.00% | ~1,238 |
+| Off-hand | 4.00% | ~1,238 |
+| Veteran | 1.00% | ~309 |
+| Hoist the Flag | 0.40% | ~124 |
+| Sins of the Fathers | 0.30% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,781 (Ranked 126)  
+Progressed: 30,947 (Ranked 126)  
 Completed: 0 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,4 +116,4 @@ Completed: 0 (0.00%) (Ranked 376)
 | 2023-12-12 | 24,993 | 0 |
 | 2023-12-13 | 25,198 | 0 |
 | 2023-12-14 | 30,644 | 0 |
-| 2023-12-15 | 30,781 | 0 |
+| 2023-12-15 | 30,947 | 0 |

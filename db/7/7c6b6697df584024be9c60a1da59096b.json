@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 413,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-01T17:00:00+00:00",
     "PcReleaseDate": "2020-11-04T23:00:00+00:00",
@@ -353,9 +353,9 @@
       "ID": "5_DIFFERENT_BEERS",
       "SetID": "6akbe6n",
       "Name": "Beer Snob",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ALARMCLOCK",
@@ -393,9 +393,9 @@
       "ID": "CHANGED_CHANNEL",
       "SetID": "6akbe6n",
       "Name": "Social disturber",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GIVE_MILK_TO_CAT",
@@ -433,9 +433,9 @@
       "ID": "MILO_GOES_DOWN",
       "SetID": "6akbe6n",
       "Name": "Domino effect",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MY_FIRST_BEER",
@@ -512,8 +512,8 @@
   ],
   "FirstSeen": "2023-11-05T04:02:04.3012768+00:00",
   "FirstSeenAchievements": "2023-09-21T09:03:22.496367+00:00",
-  "LastChanged_Achievements": "2023-12-15T02:30:09.2143508+00:00",
+  "LastChanged_Achievements": "2023-12-15T03:08:09.8172304+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9211733+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:24:05.473077+00:00",
-  "LastUpdate_Achievements": "2023-12-15T02:30:09.2143653+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:01:41.9518361+00:00",
+  "LastUpdate_Achievements": "2023-12-15T03:08:09.8172435+00:00"
 }

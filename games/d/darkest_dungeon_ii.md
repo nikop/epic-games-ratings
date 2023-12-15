@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~120 |
+| Malpractice Assurance | 6.00% | ~121 |
 | This guy... again? | 3.00% | ~60 |
 | Lost and Found | 3.00% | ~60 |
 | This Belongs in a Museum | 2.00% | ~2,543 |
@@ -20,12 +20,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Bloody Graduation | 2.00% | ~40 |
 | Don't Make Me Turn This Coach Around | 1.00% | ~1,271 |
 | Serenity Now! | 1.00% | ~1,271 |
+| It Rings a Bell | 1.00% | ~1,271 |
 | Rush Hour | 1.00% | ~1,271 |
 | To Grandmother's House | 1.00% | ~1,271 |
 | FNG | 1.00% | ~1,271 |
 | Ploughshares to Swords | 1.00% | ~20 |
 | Friends 'Til the End | 1.00% | ~20 |
-| It Rings a Bell | 0.90% | ~1,144 |
 | It Happens | 0.90% | ~1,144 |
 | Merry Time | 0.90% | ~1,144 |
 | A Place to Lay Your Head | 0.90% | ~1,144 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,137 (Ranked 84)  
+Progressed: 127,145 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 3 (0.00%) (Ranked 376)
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
-| 2023-12-15 | 127,137 | 3 |
+| 2023-12-15 | 127,145 | 3 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 51)  
 Sum: 20,433 (Ranked 59)  

@@ -476,9 +476,9 @@
       "ID": "05_ACHIEVEMENT_Level_40",
       "SetID": "6opd2eg",
       "Name": "Ready for the next Challenge",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "06_ACHIEVEMENT_Half_Complete",
@@ -516,9 +516,9 @@
       "ID": "10_ACHIEVEMENT_Shortcut_Beginner",
       "SetID": "6opd2eg",
       "Name": "I Found a Shortcut!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 145,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "11_ACHIEVEMENT_Shortcut_Master",
@@ -539,8 +539,8 @@
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-12-15T02:33:43.1321209+00:00",
+  "LastChanged_Achievements": "2023-12-15T03:10:51.7144555+00:00",
   "LastUpdate_AppInfo": "2023-12-12T07:57:15.5906005+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:23:06.3631374+00:00",
-  "LastUpdate_Achievements": "2023-12-15T02:33:43.1321307+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:00:09.3155433+00:00",
+  "LastUpdate_Achievements": "2023-12-15T03:10:51.7144637+00:00"
 }

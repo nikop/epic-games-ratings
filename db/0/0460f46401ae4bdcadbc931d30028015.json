@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -969,9 +969,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4233,
+  "EOS_Progressed": 4238,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7199,6 +7199,11 @@
       "Time": "2023-12-15T02:29:16.7323641+00:00",
       "NumProgressed": 4233,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T03:06:54.3583142+00:00",
+      "NumProgressed": 4238,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -7211,7 +7216,7 @@
       "Name": "Primetime",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "achievement_10",
@@ -7219,7 +7224,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "achievement_11",
@@ -7227,7 +7232,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "achievement_12",
@@ -7235,7 +7240,7 @@
       "Name": "Dealmaker",
       "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1187
     },
     {
       "ID": "achievement_13",
@@ -7243,7 +7248,7 @@
       "Name": "MVP",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1399
     },
     {
       "ID": "achievement_14",
@@ -7251,7 +7256,7 @@
       "Name": "ROTY",
       "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "achievement_15",
@@ -7307,7 +7312,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 2497
+      "UsersEstimate": 2500
     },
     {
       "ID": "achievement_21",
@@ -7323,7 +7328,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "achievement_4",
@@ -7339,7 +7344,7 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "achievement_6",
@@ -7347,7 +7352,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "achievement_7",
@@ -7363,7 +7368,7 @@
       "Name": "Bragging Rights",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "achievement_9",
@@ -7371,14 +7376,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4233,
+      "Progressed": 4238,
       "Completed": 0
     }
   ],
@@ -7386,8 +7391,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-15T01:45:44.5140653+00:00",
-  "LastChanged_Achievements": "2023-12-15T02:29:16.7323636+00:00",
+  "LastChanged_Achievements": "2023-12-15T03:06:54.3583138+00:00",
   "LastUpdate_AppInfo": "2023-12-14T08:57:09.6557001+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:21:23.7370817+00:00",
-  "LastUpdate_Achievements": "2023-12-15T02:29:16.7324344+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:57:30.614908+00:00",
+  "LastUpdate_Achievements": "2023-12-15T03:06:54.358357+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -8289,9 +8289,9 @@
       "ID": "37",
       "SetID": "3aa2279",
       "Name": "Against the Odds",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 34
     },
     {
       "ID": "38",
@@ -8544,8 +8544,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-15T02:30:04.9173954+00:00",
+  "LastChanged_Achievements": "2023-12-15T03:08:03.3758751+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:32.604119+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:21:21.7321647+00:00",
-  "LastUpdate_Achievements": "2023-12-15T02:30:04.9174604+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:57:27.2385471+00:00",
+  "LastUpdate_Achievements": "2023-12-15T03:08:03.375938+00:00"
 }

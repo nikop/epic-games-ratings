@@ -51,8 +51,8 @@ Rating: 4.62 (Ranked 371)
 | Grexolis | 0.70% | ~40 |
 | One for All, All for One | 0.70% | ~40 |
 | I've Got Everything I Need Right Here | 0.60% | ~34 |
+| Against the Odds | 0.60% | ~34 |
 | Duality | 0.60% | ~34 |
-| Against the Odds | 0.50% | ~28 |
 | Pruning for Progress | 0.50% | ~28 |
 | Snap Out of It! | 0.30% | ~17 |
 | The Magic That Empowers Me! | 0.30% | ~17 |

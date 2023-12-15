@@ -6,21 +6,21 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~978,400 |
-| I Need a Bigger Garage | 63.00% | ~684,880 |
-| Pump my Ride | 47.00% | ~510,942 |
-| Ghostbuster | 34.00% | ~369,618 |
-| Call Roadside Assistance | 18.00% | ~195,680 |
-| That Was Close | 18.00% | ~195,680 |
-| Quickie | 11.00% | ~119,582 |
-| California Dreamer | 7.00% | ~76,098 |
+| The First of Many | 90.00% | ~978,410 |
+| I Need a Bigger Garage | 63.00% | ~684,887 |
+| Pump my Ride | 47.00% | ~510,947 |
+| Ghostbuster | 34.00% | ~369,621 |
+| Call Roadside Assistance | 18.00% | ~195,682 |
+| That Was Close | 18.00% | ~195,682 |
+| Quickie | 11.00% | ~119,583 |
+| California Dreamer | 7.00% | ~76,099 |
 | Can't Touch This | 5.00% | ~54,356 |
-| Carménère Taster | 4.00% | ~43,484 |
-| Comeback | 4.00% | ~43,484 |
-| Driver from Ipanema | 3.00% | ~32,613 |
-| Supersonic | 3.00% | ~32,613 |
-| Marathonist | 3.00% | ~32,613 |
-| Living Legend | 3.00% | ~32,613 |
+| Carménère Taster | 4.00% | ~43,485 |
+| Comeback | 4.00% | ~43,485 |
+| Driver from Ipanema | 3.00% | ~32,614 |
+| Supersonic | 3.00% | ~32,614 |
+| Marathonist | 3.00% | ~32,614 |
+| Living Legend | 3.00% | ~32,614 |
 | God of Roads | 2.00% | ~21,742 |
 | Pathfinder | 2.00% | ~21,742 |
 | Go-Kart Champion | 2.00% | ~21,742 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,174 |
 | Transporter | 0.10% | ~1,087 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,087,111 (Ranked 13)  
+Progressed: 1,087,122 (Ranked 13)  
 Completed: 507 (0.05%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,17 +283,17 @@ Completed: 507 (0.05%) (Ranked 327)
 | 2023-12-12 | 1,086,121 | 505 |
 | 2023-12-13 | 1,086,531 | 505 |
 | 2023-12-14 | 1,087,054 | 506 |
-| 2023-12-15 | 1,087,111 | 507 |
+| 2023-12-15 | 1,087,122 | 507 |
 ## Awards
 Max (Great for Beginners): 176  (Ranked 307)  
-Sum: 1,579 (Ranked 234)  
+Sum: 1,580 (Ranked 234)  
 Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 176 |
 | This game has Diverse Characters | 151 |
+| This game is Great for Quick Sessions | 147 |
 | This game has Quickly Understood Controls | 146 |
-| This game is Great for Quick Sessions | 146 |
 | This game is Relaxing | 142 |
 | This game is Highly Recommended | 136 |
 | This game has Playful Visuals | 128 |
@@ -572,3 +572,4 @@ Diff (max vs sum): 73
 | 2023-12-11 | 4.54 | - | 175 | 1,575 |
 | 2023-12-12 | 4.54 | - | 175 | 1,577 |
 | 2023-12-13 | 4.54 | - | 176 | 1,579 |
+| 2023-12-15 | 4.54 | - | 176 | 1,580 |

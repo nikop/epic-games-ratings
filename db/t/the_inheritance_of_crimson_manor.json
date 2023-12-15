@@ -2,10 +2,10 @@
   "ID": "41fbfca5b52b416985cbb0ad9d24fdb4",
   "Name": "The Inheritance of Crimson Manor",
   "ProductSlug": "the-inheritance-of-crimson-manor-81bc67",
-  "Ranking_EOS_Progress": 697,
+  "Ranking_EOS_Progress": 698,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 501,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 502,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-18T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T16:00:00+00:00",
@@ -151,8 +151,8 @@
   ],
   "FirstSeen": "2023-05-20T15:00:27.3270375+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:15.2735136+00:00",
-  "LastChanged_Achievements": "2023-12-15T02:30:20.1938432+00:00",
+  "LastChanged_Achievements": "2023-12-15T03:08:25.5090737+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:28.0427993+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:24:29.3182281+00:00",
-  "LastUpdate_Achievements": "2023-12-15T02:30:20.1938506+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:03:00.3142548+00:00",
+  "LastUpdate_Achievements": "2023-12-15T03:08:25.50908+00:00"
 }

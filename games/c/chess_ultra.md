@@ -5,11 +5,11 @@ Rating: 4.30 (Ranked 850)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 71.00% | ~157,643 |
+| Chop Wood | 71.00% | ~157,644 |
 | Doubled Pawn | 57.00% | ~126,559 |
-| Check | 55.00% | ~122,118 |
+| Check | 55.00% | ~122,119 |
 | Absolute pin | 47.00% | ~104,356 |
-| Promotion | 31.00% | ~68,830 |
+| Promotion | 31.00% | ~68,831 |
 | Checkmate | 30.00% | ~66,610 |
 | O-O | 24.00% | ~53,288 |
 | Spanish Bishop | 21.00% | ~46,627 |
@@ -44,7 +44,7 @@ Rating: 4.30 (Ranked 850)
 | Tournament Master | 0.10% | ~222 |
 | Tournament Pro | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,033 (Ranked 71)  
+Progressed: 222,034 (Ranked 71)  
 Completed: 2 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 2 (0.00%) (Ranked 376)
 | 2023-12-12 | 221,723 | 2 |
 | 2023-12-13 | 221,839 | 2 |
 | 2023-12-14 | 222,006 | 2 |
-| 2023-12-15 | 222,033 | 2 |
+| 2023-12-15 | 222,034 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

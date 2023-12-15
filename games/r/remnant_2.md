@@ -5,28 +5,28 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 2.00% | ~4,849 |
-| First of Many | 2.00% | ~4,849 |
-| Not Your Average Trait | 1.00% | ~2,424 |
-| Regicide | 0.90% | ~194 |
-| Expanding Horizons | 0.80% | ~1,939 |
+| The Killing Jar | 2.00% | ~4,850 |
+| First of Many | 2.00% | ~4,850 |
+| Not Your Average Trait | 1.00% | ~2,425 |
+| Expanding Horizons | 0.80% | ~1,940 |
+| Regicide | 0.80% | ~173 |
 | Master of the Dark Arts | 0.80% | ~173 |
-| Quest for Survival | 0.70% | ~1,697 |
-| Familiar Face | 0.70% | ~1,697 |
+| Quest for Survival | 0.70% | ~1,698 |
+| Familiar Face | 0.70% | ~1,698 |
 | Gleaming the Cube | 0.60% | ~1,455 |
 | Not a Janitor | 0.60% | ~1,455 |
 | Boss'n Up | 0.60% | ~1,455 |
 | Trait Chaser | 0.60% | ~1,455 |
-| Am I Seeing This? | 0.50% | ~1,212 |
-| Not So Special Now | 0.50% | ~1,212 |
-| Equal Measures | 0.50% | ~1,212 |
-| Blue Goddess | 0.50% | ~1,212 |
-| Duality | 0.50% | ~1,212 |
-| Top Performer | 0.50% | ~1,212 |
-| Was This Supposed To Happen? | 0.50% | ~1,212 |
-| Almost There | 0.50% | ~1,212 |
-| Make Some Room | 0.50% | ~1,212 |
-| Good, But Could Be Better! | 0.50% | ~1,212 |
+| Am I Seeing This? | 0.50% | ~1,213 |
+| Not So Special Now | 0.50% | ~1,213 |
+| Equal Measures | 0.50% | ~1,213 |
+| Blue Goddess | 0.50% | ~1,213 |
+| Duality | 0.50% | ~1,213 |
+| Top Performer | 0.50% | ~1,213 |
+| Was This Supposed To Happen? | 0.50% | ~1,213 |
+| Almost There | 0.50% | ~1,213 |
+| Make Some Room | 0.50% | ~1,213 |
+| Good, But Could Be Better! | 0.50% | ~1,213 |
 | Chaos | 0.40% | ~970 |
 | Traitor | 0.40% | ~970 |
 | Forever is a Long Time Coming | 0.40% | ~970 |
@@ -35,21 +35,21 @@ Rating: 4.75 (Ranked 150)
 | Dark Designs | 0.40% | ~970 |
 | Madman's Paradise | 0.40% | ~970 |
 | Shhh...It's a Secret | 0.40% | ~970 |
+| Edgelord | 0.40% | ~970 |
 | The Web | 0.40% | ~970 |
 | Scrap Collector | 0.40% | ~970 |
 | Scrap Hoarder | 0.40% | ~970 |
 | All These Traits� | 0.40% | ~970 |
-| Crafty | 0.30% | ~727 |
-| Ghost in the Machine | 0.30% | ~727 |
-| The Agenda | 0.30% | ~727 |
-| Tall Tales | 0.30% | ~727 |
-| Bad Moon Rising | 0.30% | ~727 |
-| Strapped | 0.30% | ~727 |
-| Edgelord | 0.30% | ~727 |
-| Carnage in C-Minor | 0.30% | ~727 |
-| The Ultimate Weapon | 0.30% | ~727 |
-| No One Should Have All That Power | 0.30% | ~727 |
-| Transmutate | 0.30% | ~727 |
+| Crafty | 0.30% | ~728 |
+| Ghost in the Machine | 0.30% | ~728 |
+| The Agenda | 0.30% | ~728 |
+| Tall Tales | 0.30% | ~728 |
+| Bad Moon Rising | 0.30% | ~728 |
+| Strapped | 0.30% | ~728 |
+| Carnage in C-Minor | 0.30% | ~728 |
+| The Ultimate Weapon | 0.30% | ~728 |
+| No One Should Have All That Power | 0.30% | ~728 |
+| Transmutate | 0.30% | ~728 |
 | Only Human | 0.20% | ~485 |
 | Red Room | 0.20% | ~485 |
 | The Trigger | 0.20% | ~485 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 150)
 | You Shall Pass | 0.20% | ~43 |
 | A Foul Feast | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,437 (Ranked 64)  
+Progressed: 242,508 (Ranked 64)  
 Completed: 586 (0.24%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 586 (0.24%) (Ranked 254)
 | 2023-12-12 | 239,053 | 581 |
 | 2023-12-13 | 239,544 | 584 |
 | 2023-12-14 | 242,166 | 585 |
-| 2023-12-15 | 242,437 | 586 |
+| 2023-12-15 | 242,508 | 586 |
 ## Awards
 Max (Great Boss Battles): 2,757  (Ranked 101)  
 Sum: 6,922 (Ranked 126)  

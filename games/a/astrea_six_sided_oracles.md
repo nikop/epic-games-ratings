@@ -9,7 +9,7 @@
 | Mechanical Buddy | 56.00% | ~68 |
 | Dicesmithing Time! | 52.00% | ~63 |
 | Endless Tricks | 45.00% | ~55 |
-| Sanctuary Guardian | 43.00% | ~52 |
+| Sanctuary Guardian | 44.00% | ~54 |
 | Wild's Keeper | 41.00% | ~50 |
 | Mind Illuminator | 36.00% | ~44 |
 | Stellar Dismantler | 34.00% | ~41 |
@@ -26,9 +26,9 @@
 | Unbeatable | 16.00% | ~20 |
 | Aquarian Champion | 13.00% | ~16 |
 | Astral Seeker | 12.00% | ~15 |
+| Sadistic Plan | 12.00% | ~15 |
 | Favored by the Cosmos | 11.00% | ~13 |
 | Heart Gate | 11.00% | ~13 |
-| Sadistic Plan | 11.00% | ~13 |
 | Stellar Haste | 11.00% | ~13 |
 | The Corruption Goddess | 11.00% | ~13 |
 | The Goddes Avatar | 11.00% | ~13 |

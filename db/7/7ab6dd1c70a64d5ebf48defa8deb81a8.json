@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 395,
+  "EOS_Progressed": 397,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -1230,6 +1230,11 @@
       "Time": "2023-12-15T02:33:47.3576714+00:00",
       "NumProgressed": 395,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T03:10:57.5463589+00:00",
+      "NumProgressed": 397,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1239,9 +1244,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_02",
@@ -1313,7 +1318,7 @@
       "Name": "Trinity",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_11",
@@ -1528,14 +1533,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 395,
+      "Progressed": 397,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-15T02:33:47.3576708+00:00",
+  "LastChanged_Achievements": "2023-12-15T03:10:57.5463585+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:22:12.0671907+00:00",
-  "LastUpdate_Achievements": "2023-12-15T02:33:47.3577026+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:58:45.1956401+00:00",
+  "LastUpdate_Achievements": "2023-12-15T03:10:57.5463847+00:00"
 }

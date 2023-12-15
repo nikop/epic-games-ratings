@@ -4,8 +4,8 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111,
+  "EOS_Progressed": 112,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -529,6 +529,11 @@
       "Time": "2023-12-15T01:57:31.8778398+00:00",
       "NumProgressed": 111,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T03:09:10.3873913+00:00",
+      "NumProgressed": 112,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -547,9 +552,9 @@
       "ID": "SG_ACROSSTHESTYX",
       "SetID": "bj5g0n4",
       "Name": "Across The Styx",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -557,7 +562,7 @@
       "Name": "Against All Odds",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SG_ALLTHEHELPYOUNEED",
@@ -611,7 +616,7 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
       "UsersEstimate": 83
     },
@@ -627,9 +632,9 @@
       "ID": "SG_FIERY",
       "SetID": "bj5g0n4",
       "Name": "Fiery",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "SG_GODOFTHESUN",
@@ -661,7 +666,7 @@
       "Name": "Lost In A Song",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SG_MAESTRO",
@@ -677,7 +682,7 @@
       "Name": "Meant To Be",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -819,9 +824,9 @@
       "ID": "SG_TOGETHERVICTORIOUS",
       "SetID": "bj5g0n4",
       "Name": "Together, Victorious",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "SG_VIRTUOSO",
@@ -836,14 +841,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 111,
+      "Progressed": 112,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-15T02:32:32.8955727+00:00",
+  "LastChanged_Achievements": "2023-12-15T03:09:10.387391+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.0565697+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:21:29.5642423+00:00",
-  "LastUpdate_Achievements": "2023-12-15T02:32:32.8955936+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:57:39.416325+00:00",
+  "LastUpdate_Achievements": "2023-12-15T03:09:10.3874135+00:00"
 }

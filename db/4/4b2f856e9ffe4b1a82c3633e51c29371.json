@@ -4,8 +4,8 @@
   "ProductSlug": "cornucopia-053d20",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 501,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 502,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-10T19:56:58.0599007+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:24:02.9775721+00:00",
-  "LastUpdate_Achievements": "2023-12-15T02:32:39.6259741+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:01:38.003228+00:00",
+  "LastUpdate_Achievements": "2023-12-15T03:09:20.1463343+00:00"
 }

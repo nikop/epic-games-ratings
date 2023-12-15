@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1343,
+  "EOS_Progressed": 1344,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3142,6 +3142,11 @@
       "Time": "2023-12-15T01:53:52.5133934+00:00",
       "NumProgressed": 1343,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T03:05:34.5272148+00:00",
+      "NumProgressed": 1344,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3168,9 +3173,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "5k00jcd",
       "Name": "Out of control",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -3416,9 +3421,9 @@
       "ID": "ML_ACHIEVEMENT_34",
       "SetID": "5k00jcd",
       "Name": "Beyond the limit",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -3521,20 +3526,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1343,
+      "Progressed": 1344,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1011,
+      "Progressed": 1012,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-15T02:28:21.771702+00:00",
+  "LastChanged_Achievements": "2023-12-15T03:05:34.5272142+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:21:40.1936455+00:00",
-  "LastUpdate_Achievements": "2023-12-15T02:28:21.7717506+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:57:55.5639534+00:00",
+  "LastUpdate_Achievements": "2023-12-15T03:05:34.5272828+00:00"
 }

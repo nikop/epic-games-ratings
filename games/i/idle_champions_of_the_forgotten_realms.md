@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sigil | 0.60% | ~1,240 |
+| Welcome to Sigil | 0.60% | ~1,241 |
 | Fast Food | 0.40% | ~827 |
 | A Brief Tour of the Realms | 0.20% | ~481 |
-| Misaligned in Sigil | 0.20% | ~413 |
-| Chaos Theory | 0.20% | ~413 |
+| Misaligned in Sigil | 0.20% | ~414 |
+| Chaos Theory | 0.20% | ~414 |
 | Maddening | 0.10% | ~240 |
 | Pros and CONs | 0.10% | ~240 |
 | Upholding the Law | 0.10% | ~240 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Invisible Wizards of Thay | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,467 (Ranked 66)  
+Progressed: 240,477 (Ranked 66)  
 Completed: 2,526 (1.05%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -792,7 +792,7 @@ Completed: 2,526 (1.05%) (Ranked 169)
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
 | 2023-12-14 | 240,414 | 2,526 |
-| 2023-12-15 | 240,467 | 2,526 |
+| 2023-12-15 | 240,477 | 2,526 |
 ## Awards
 Max (Great for Beginners): 5,635  (Ranked 70)  
 Sum: 32,877 (Ranked 41)  

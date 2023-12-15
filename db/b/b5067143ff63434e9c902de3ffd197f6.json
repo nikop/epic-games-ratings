@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14382,
+  "EOS_Progressed": 14384,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 886,
   "EOS_NewCompleters": 0,
@@ -8874,6 +8874,11 @@
       "Time": "2023-12-15T02:28:04.3160089+00:00",
       "NumProgressed": 14382,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T03:05:09.402668+00:00",
+      "NumProgressed": 14384,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -8982,7 +8987,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3739
+      "UsersEstimate": 3740
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -9006,7 +9011,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -9046,7 +9051,7 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -9077,14 +9082,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 14382,
+      "Progressed": 14384,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-15T02:28:04.3160085+00:00",
+  "LastChanged_Achievements": "2023-12-15T03:05:09.4026676+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.6869956+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:21:38.8898838+00:00",
-  "LastUpdate_Achievements": "2023-12-15T02:28:04.3160678+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:57:53.4286491+00:00",
+  "LastUpdate_Achievements": "2023-12-15T03:05:09.4027315+00:00"
 }

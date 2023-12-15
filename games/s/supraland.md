@@ -6,21 +6,21 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~728,678 |
-| The Blues | 85.00% | ~625,632 |
-| Fast | 66.00% | ~485,785 |
+| Out of bed | 99.00% | ~728,679 |
+| The Blues | 85.00% | ~625,633 |
+| Fast | 66.00% | ~485,786 |
 | Healthbar | 55.00% | ~404,821 |
-| Force Cube | 53.00% | ~390,100 |
-| Double Jump | 48.00% | ~353,298 |
+| Force Cube | 53.00% | ~390,101 |
+| Double Jump | 48.00% | ~353,299 |
 | Regeneration | 47.00% | ~345,938 |
-| Triple Jump | 43.00% | ~316,496 |
+| Triple Jump | 43.00% | ~316,497 |
 | Climb the hill | 42.00% | ~309,136 |
 | Through the fire pipe | 39.00% | ~287,055 |
-| MacGuffin | 38.00% | ~279,694 |
+| MacGuffin | 38.00% | ~279,695 |
 | Just once | 37.00% | ~272,334 |
-| Armor | 30.00% | ~220,811 |
+| Armor | 30.00% | ~220,812 |
 | True holy spirit | 28.00% | ~206,091 |
-| That's how electronics work obviously | 27.00% | ~198,730 |
+| That's how electronics work obviously | 27.00% | ~198,731 |
 | Force Cube Catapult | 25.00% | ~184,010 |
 | Holy Sword | 23.00% | ~169,289 |
 | Telefrag | 23.00% | ~169,289 |
@@ -51,10 +51,10 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 10.00% | ~73,604 |
 | Translocator | 10.00% | ~73,604 |
 | Yellow Shot Button | 10.00% | ~73,604 |
-| Moon Door | 9.00% | ~66,243 |
-| Momentum | 9.00% | ~66,243 |
-| Through the tiny pipe | 9.00% | ~66,243 |
-| Win! | 9.00% | ~66,243 |
+| Moon Door | 9.00% | ~66,244 |
+| Momentum | 9.00% | ~66,244 |
+| Through the tiny pipe | 9.00% | ~66,244 |
+| Win! | 9.00% | ~66,244 |
 | The real real teleported man | 8.00% | ~58,883 |
 | Well deserved | 6.00% | ~44,162 |
 | Super Sword | 4.00% | ~29,442 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~736 |
 | DLC: Top of the world | 0.10% | ~736 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736,038 (Ranked 22)  
+Progressed: 736,039 (Ranked 22)  
 Completed: 770 (0.10%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 770 (0.10%) (Ranked 296)
 | 2023-12-12 | 735,839 | 769 |
 | 2023-12-13 | 735,921 | 769 |
 | 2023-12-14 | 736,027 | 770 |
-| 2023-12-15 | 736,038 | 770 |
+| 2023-12-15 | 736,039 | 770 |
 ## Awards
 Max (Challenging Puzzles): 7,746  (Ranked 50)  
 Sum: 10,107 (Ranked 92)  
