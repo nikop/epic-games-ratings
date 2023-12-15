@@ -2148,9 +2148,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15764,
+  "EOS_Progressed": 15765,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17678,6 +17678,11 @@
       "Time": "2023-12-15T11:09:02.2303183+00:00",
       "NumProgressed": 15764,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-15T12:09:35.1824323+00:00",
+      "NumProgressed": 15765,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -18121,7 +18126,7 @@
       "Name": "Explorer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -18255,9 +18260,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 631
+      "UsersEstimate": 788
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
@@ -18271,9 +18276,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_PEACEMAKER",
       "SetID": "9201eeb",
       "Name": "Peacemaker",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
@@ -18313,7 +18318,7 @@
       "Name": "Settler",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -20424,21 +20429,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15764,
+      "Progressed": 15765,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15764,
+      "Progressed": 15765,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-11T20:02:33.8046701+00:00",
-  "LastChanged_Achievements": "2023-12-15T11:09:02.2303179+00:00",
+  "LastChanged_Achievements": "2023-12-15T12:09:35.182432+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:32.9927843+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:02:54.3945941+00:00",
-  "LastUpdate_Achievements": "2023-12-15T11:09:02.2311693+00:00"
+  "LastUpdate_Ratings": "2023-12-15T12:03:08.5752885+00:00",
+  "LastUpdate_Achievements": "2023-12-15T12:09:35.1833254+00:00"
 }

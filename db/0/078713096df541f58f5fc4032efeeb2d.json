@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 554,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -347,9 +347,9 @@
       "ID": "creepytale3_ach_34",
       "SetID": "7idcjbn",
       "Name": "Harvest",
-      "Percentage": 24,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "creepytale3_ach_35",
@@ -450,8 +450,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-15T11:04:23.3055451+00:00",
+  "LastChanged_Achievements": "2023-12-15T12:04:48.4698231+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.5738942+00:00",
-  "LastUpdate_Ratings": "2023-12-15T10:59:32.3913391+00:00",
-  "LastUpdate_Achievements": "2023-12-15T11:04:23.3055679+00:00"
+  "LastUpdate_Ratings": "2023-12-15T11:59:59.1229066+00:00",
+  "LastUpdate_Achievements": "2023-12-15T12:04:48.4698443+00:00"
 }

@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 64.00% | ~83 |
-| Purification Pioneer | 61.00% | ~79 |
-| Mechanical Buddy | 55.00% | ~71 |
+| Meissa's Savior | 65.00% | ~84 |
+| Purification Pioneer | 62.00% | ~80 |
+| Mechanical Buddy | 56.00% | ~72 |
 | Dicesmithing Time! | 50.00% | ~64 |
+| Endless Tricks | 46.00% | ~59 |
 | Sanctuary Guardian | 46.00% | ~59 |
-| Endless Tricks | 45.00% | ~58 |
 | Wild's Keeper | 40.00% | ~52 |
 | Mind Illuminator | 37.00% | ~48 |
 | Stellar Dismantler | 34.00% | ~44 |

@@ -4583,9 +4583,9 @@
       "Count": 401
     }
   ],
-  "EOS_Progressed": 12336,
+  "EOS_Progressed": 12337,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16913,6 +16913,11 @@
       "Time": "2023-12-15T10:09:40.1442731+00:00",
       "NumProgressed": 12336,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T12:10:20.5769092+00:00",
+      "NumProgressed": 12337,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -16932,7 +16937,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2220
+      "UsersEstimate": 2221
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -17060,7 +17065,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1850
+      "UsersEstimate": 1851
     },
     {
       "ID": "19_EqualToAroden",
@@ -17851,21 +17856,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11118,
+      "Progressed": 11119,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12336,
+      "Progressed": 12337,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-14T20:58:26.4644055+00:00",
-  "LastChanged_Achievements": "2023-12-15T11:09:43.3336924+00:00",
+  "LastChanged_Achievements": "2023-12-15T12:10:20.576909+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-15T10:58:33.1130212+00:00",
-  "LastUpdate_Achievements": "2023-12-15T11:09:43.3338529+00:00"
+  "LastUpdate_Ratings": "2023-12-15T11:58:52.243049+00:00",
+  "LastUpdate_Achievements": "2023-12-15T12:10:20.577105+00:00"
 }

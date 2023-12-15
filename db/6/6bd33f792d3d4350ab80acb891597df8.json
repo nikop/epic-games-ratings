@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -451,9 +451,9 @@
       "ID": "CgkIxYDzrbcPEAIQAg",
       "SetID": "4egpam7",
       "Name": "All in a Day\u0027s Work",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAw",
@@ -690,8 +690,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-12-15T11:05:40.7117889+00:00",
+  "LastChanged_Achievements": "2023-12-15T12:06:14.8482131+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:44.1907943+00:00",
-  "LastUpdate_Ratings": "2023-12-15T10:57:23.6431754+00:00",
-  "LastUpdate_Achievements": "2023-12-15T11:05:40.7118091+00:00"
+  "LastUpdate_Ratings": "2023-12-15T11:57:35.0208317+00:00",
+  "LastUpdate_Achievements": "2023-12-15T12:06:14.8482346+00:00"
 }

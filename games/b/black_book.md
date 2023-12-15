@@ -6,26 +6,26 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~16,826 |
-| Student | 22.00% | ~13,220 |
-| Knower | 16.00% | ~9,615 |
-| Listener | 15.00% | ~9,014 |
-| Aspen Tree | 14.00% | ~8,413 |
-| Healer | 14.00% | ~8,413 |
-| Soldier | 12.00% | ~7,211 |
-| Cow Level | 11.00% | ~6,610 |
-| Scientist | 11.00% | ~6,610 |
-| Herbalist | 10.00% | ~6,009 |
-| Water | 10.00% | ~6,009 |
-| Old Friend | 9.00% | ~5,408 |
-| New Spirits | 9.00% | ~5,408 |
-| Voipel | 9.00% | ~5,408 |
-| Wolf | 9.00% | ~5,408 |
-| Black Mage | 9.00% | ~5,408 |
-| Card Player | 8.00% | ~4,807 |
-| Dead Friend | 8.00% | ~4,807 |
-| Pine Tree | 8.00% | ~4,807 |
-| Collector | 8.00% | ~4,807 |
+| Initiation | 28.00% | ~16,829 |
+| Student | 22.00% | ~13,222 |
+| Knower | 16.00% | ~9,616 |
+| Listener | 15.00% | ~9,015 |
+| Aspen Tree | 14.00% | ~8,414 |
+| Healer | 14.00% | ~8,414 |
+| Soldier | 12.00% | ~7,212 |
+| Cow Level | 11.00% | ~6,611 |
+| Scientist | 11.00% | ~6,611 |
+| Herbalist | 10.00% | ~6,010 |
+| Water | 10.00% | ~6,010 |
+| Old Friend | 9.00% | ~5,409 |
+| New Spirits | 9.00% | ~5,409 |
+| Voipel | 9.00% | ~5,409 |
+| Wolf | 9.00% | ~5,409 |
+| Black Mage | 9.00% | ~5,409 |
+| Card Player | 8.00% | ~4,808 |
+| Dead Friend | 8.00% | ~4,808 |
+| Pine Tree | 8.00% | ~4,808 |
+| Collector | 8.00% | ~4,808 |
 | Worthy | 7.00% | ~4,207 |
 | Black Book | 7.00% | ~4,207 |
 | Black Sorcerer | 7.00% | ~4,207 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,202 |
 | Word Master | 0.20% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,093 (Ranked 110)  
+Progressed: 60,102 (Ranked 110)  
 Completed: 60 (0.10%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 60 (0.10%) (Ranked 295)
 | 2023-12-12 | 59,603 | 60 |
 | 2023-12-13 | 59,789 | 60 |
 | 2023-12-14 | 60,012 | 60 |
-| 2023-12-15 | 60,093 | 60 |
+| 2023-12-15 | 60,102 | 60 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

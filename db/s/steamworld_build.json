@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -467,9 +467,9 @@
       "ID": "ItsYoursMyFriend",
       "SetID": "4bd750m",
       "Name": "It\u0027s Yours, My Friend",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ManicMechanic",
@@ -610,8 +610,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-15T11:05:13.4673348+00:00",
+  "LastChanged_Achievements": "2023-12-15T12:05:44.1749313+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:13.5200104+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:03:10.2310913+00:00",
-  "LastUpdate_Achievements": "2023-12-15T11:05:13.4673532+00:00"
+  "LastUpdate_Ratings": "2023-12-15T12:03:25.6592412+00:00",
+  "LastUpdate_Achievements": "2023-12-15T12:05:44.174949+00:00"
 }

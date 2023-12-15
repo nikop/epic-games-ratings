@@ -2151,9 +2151,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 21518,
+  "EOS_Progressed": 21520,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11341,6 +11341,11 @@
       "Time": "2023-12-15T11:03:44.0840268+00:00",
       "NumProgressed": 21518,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-15T12:04:05.2007842+00:00",
+      "NumProgressed": 21520,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -11352,7 +11357,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2797
+      "UsersEstimate": 2798
     },
     {
       "ID": "CarMechanic",
@@ -11400,7 +11405,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20442
+      "UsersEstimate": 20444
     },
     {
       "ID": "GameOver",
@@ -11440,7 +11445,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2797
+      "UsersEstimate": 2798
     },
     {
       "ID": "KnockKnock",
@@ -11504,7 +11509,7 @@
       "Name": "Pro-creative",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4088
+      "UsersEstimate": 4089
     },
     {
       "ID": "Strongman",
@@ -11535,15 +11540,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21518,
+      "Progressed": 21520,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-15T00:00:22.4810125+00:00",
-  "LastChanged_Achievements": "2023-12-15T11:03:44.0840264+00:00",
+  "LastChanged_Achievements": "2023-12-15T12:04:05.2007836+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:23.2037957+00:00",
-  "LastUpdate_Ratings": "2023-12-15T10:59:34.5871232+00:00",
-  "LastUpdate_Achievements": "2023-12-15T11:03:44.0840833+00:00"
+  "LastUpdate_Ratings": "2023-12-15T12:00:01.6622489+00:00",
+  "LastUpdate_Achievements": "2023-12-15T12:04:05.2008401+00:00"
 }

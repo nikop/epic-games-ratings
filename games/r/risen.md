@@ -9,14 +9,14 @@ Rating: 4.60 (Ranked 422)
 | Map reader | 78.00% | ~59 |
 | Philanthropist | 71.00% | ~54 |
 | Adventurer | 70.00% | ~53 |
+| The brave little tailor | 51.00% | ~39 |
 | Archer | 51.00% | ~39 |
-| The brave little tailor | 50.00% | ~38 |
 | Field hand | 47.00% | ~36 |
 | Samaritan | 45.00% | ~34 |
+| Well-to-do | 42.00% | ~32 |
 | The merciful one | 41.00% | ~31 |
-| Well-to-do | 41.00% | ~31 |
 | Ladies' man | 39.00% | ~30 |
-| Ferocious wild boars | 30.00% | ~23 |
+| Ferocious wild boars | 32.00% | ~24 |
 | Idiot | 29.00% | ~22 |
 | Beast slayer | 28.00% | ~21 |
 | Wise man | 26.00% | ~20 |
@@ -27,8 +27,8 @@ Rating: 4.60 (Ranked 422)
 | Hard worker | 25.00% | ~19 |
 | The fourth triplet | 25.00% | ~19 |
 | Little hero | 24.00% | ~18 |
+| Sidelined | 24.00% | ~18 |
 | Pandora's box | 22.00% | ~17 |
-| Sidelined | 22.00% | ~17 |
 | Master detective | 22.00% | ~17 |
 | Ghost hunter | 21.00% | ~16 |
 | Peacekeeper | 20.00% | ~15 |

@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 268,
+  "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1083,
+  "EOS_Progressed": 1084,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 5.17,
   "EosHistory": [
@@ -4075,6 +4075,11 @@
       "Time": "2023-12-15T11:04:43.3730407+00:00",
       "NumProgressed": 1083,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-15T12:05:10.7480905+00:00",
+      "NumProgressed": 1084,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 25,
@@ -4118,7 +4123,7 @@
       "Name": "A good beginning",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "META_HALF_LINK",
@@ -4134,7 +4139,7 @@
       "Name": "Open door",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "META_RESULT_1-3",
@@ -4182,7 +4187,7 @@
       "Name": "Alchemists Express",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -4198,7 +4203,7 @@
       "Name": "True G3M4R",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -4270,7 +4275,7 @@
       "Name": "The darkness",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "PROGRESS_N5",
@@ -4285,14 +4290,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1083,
+      "Progressed": 1084,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-15T11:04:43.3730404+00:00",
+  "LastChanged_Achievements": "2023-12-15T12:05:10.74809+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
-  "LastUpdate_Ratings": "2023-12-15T10:59:18.6169061+00:00",
-  "LastUpdate_Achievements": "2023-12-15T11:04:43.3730686+00:00"
+  "LastUpdate_Ratings": "2023-12-15T11:59:43.5595294+00:00",
+  "LastUpdate_Achievements": "2023-12-15T12:05:10.7481244+00:00"
 }

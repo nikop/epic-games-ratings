@@ -8,8 +8,8 @@
 | Starting Skyward | 54.00% | ~199 |
 | Grime is Not Good | 48.00% | ~177 |
 | Floor Galore | 42.00% | ~155 |
+| Campaign Launch | 41.00% | ~151 |
 | Dinner Dash | 41.00% | ~151 |
-| Campaign Launch | 40.00% | ~148 |
 | Need a Consult | 38.00% | ~140 |
 | Upgrade Unlock | 37.00% | ~137 |
 | It's Technical | 37.00% | ~137 |
@@ -43,8 +43,8 @@
 | Swimming in Surplus | 11.00% | ~41 |
 | Aestheticly Pleased | 10.00% | ~37 |
 | Master of Puppets | 10.00% | ~37 |
+| Refined Palates | 10.00% | ~37 |
 | Plaza Plan | 9.00% | ~33 |
-| Refined Palates | 9.00% | ~33 |
 | Phoning It In | 9.00% | ~33 |
 | First 100 Days | 8.00% | ~30 |
 | Water Features | 8.00% | ~30 |

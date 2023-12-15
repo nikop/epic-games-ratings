@@ -3,8 +3,8 @@
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 372,
-  "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_Completed": 130,
+  "Ranking_EOS_NewPlayers": 374,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 275,
+  "EOS_Progressed": 276,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.18,
+  "EOS_Completed_Percentage": 2.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -639,6 +639,11 @@
       "Time": "2023-12-14T19:05:27.0976367+00:00",
       "NumProgressed": 275,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-15T12:05:52.4489889+00:00",
+      "NumProgressed": 276,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -722,7 +727,7 @@
       "Name": "So it goes",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "DISPOSE_15_BODIES",
@@ -824,9 +829,9 @@
       "ID": "TUTORIAL_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Clean Conscience",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "VIPER_HACKING",
@@ -834,20 +839,20 @@
       "Name": "Hackathon",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 138,
+      "Progressed": 139,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 275,
+      "Progressed": 276,
       "Completed": 6
     }
   ],
@@ -855,8 +860,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-12-15T11:05:21.1429794+00:00",
+  "LastChanged_Achievements": "2023-12-15T12:05:52.4489885+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:52.9462661+00:00",
-  "LastUpdate_Ratings": "2023-12-15T10:58:04.3258643+00:00",
-  "LastUpdate_Achievements": "2023-12-15T11:05:21.1429954+00:00"
+  "LastUpdate_Ratings": "2023-12-15T11:58:19.4402369+00:00",
+  "LastUpdate_Achievements": "2023-12-15T12:05:52.4490071+00:00"
 }

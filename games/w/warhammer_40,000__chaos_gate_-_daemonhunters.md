@@ -50,11 +50,11 @@ Number of Ratings: 371  (23.09.2022)
 | True Mastery | 0.40% | ~14 |
 | Reign of Confusion | 0.40% | ~14 |
 | Blood and Iron | 0.30% | ~10 |
+| Clean Slate | 0.30% | ~10 |
 | Warp Flickers | 0.30% | ~10 |
 | Abomination | 0.30% | ~10 |
 | Killing Rampage | 0.30% | ~10 |
 | The Flesh is Weak | 0.20% | ~7 |
-| Clean Slate | 0.20% | ~7 |
 | Unstable Immaterium | 0.20% | ~7 |
 | Phalanx | 0.20% | ~7 |
 | Strategic Command | 0.20% | ~7 |

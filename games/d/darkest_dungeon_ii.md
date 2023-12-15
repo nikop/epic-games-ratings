@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~126 |
-| This guy... again? | 3.00% | ~63 |
-| Lost and Found | 3.00% | ~63 |
+| Malpractice Assurance | 6.00% | ~127 |
+| This guy... again? | 3.00% | ~64 |
+| Lost and Found | 3.00% | ~64 |
 | This Belongs in a Museum | 2.00% | ~2,545 |
 | Not Today! | 2.00% | ~2,545 |
 | Creep and Sleep | 2.00% | ~2,545 |
@@ -19,22 +19,23 @@ Number of Ratings: 7,767  (23.09.2022)
 | Autodidact | 2.00% | ~2,545 |
 | Ploughshares to Swords | 2.00% | ~42 |
 | Bloody Graduation | 2.00% | ~42 |
-| Don't Make Me Turn This Coach Around | 1.00% | ~1,272 |
-| Serenity Now! | 1.00% | ~1,272 |
-| It Rings a Bell | 1.00% | ~1,272 |
-| It Happens | 1.00% | ~1,272 |
-| Rush Hour | 1.00% | ~1,272 |
-| To Grandmother's House | 1.00% | ~1,272 |
-| FNG | 1.00% | ~1,272 |
-| Nope | 1.00% | ~1,272 |
+| Don't Make Me Turn This Coach Around | 1.00% | ~1,273 |
+| Serenity Now! | 1.00% | ~1,273 |
+| It Rings a Bell | 1.00% | ~1,273 |
+| It Happens | 1.00% | ~1,273 |
+| Rush Hour | 1.00% | ~1,273 |
+| To Grandmother's House | 1.00% | ~1,273 |
+| A Place to Lay Your Head | 1.00% | ~1,273 |
+| FNG | 1.00% | ~1,273 |
+| Nope | 1.00% | ~1,273 |
 | Friends 'Til the End | 1.00% | ~21 |
 | Dissector | 0.90% | ~1,145 |
 | Merry Time | 0.90% | ~1,145 |
 | Harvest Festival | 0.90% | ~1,145 |
 | Whale | 0.90% | ~1,145 |
-| A Place to Lay Your Head | 0.90% | ~1,145 |
 | Banishment | 0.80% | ~1,018 |
 | Deprogramming | 0.80% | ~1,018 |
+| Spelunker | 0.80% | ~1,018 |
 | Worldly Traveller | 0.80% | ~1,018 |
 | Road Trip | 0.80% | ~1,018 |
 | Unleash Hell | 0.70% | ~891 |
@@ -42,17 +43,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | Predator | 0.70% | ~891 |
 | Now Stay Dead | 0.70% | ~891 |
 | Reverse Banditry | 0.70% | ~891 |
-| Spelunker | 0.70% | ~891 |
 | Ramble On | 0.70% | ~891 |
 | Unshackled | 0.70% | ~891 |
-| Resurrection | 0.60% | ~763 |
-| Funny Guy | 0.60% | ~763 |
-| Long Live the King | 0.60% | ~763 |
-| Wyrdly Reconstructed | 0.60% | ~763 |
-| Boxcar Kid | 0.60% | ~763 |
-| A Clear Conscience | 0.60% | ~763 |
-| When You Want Something Done Right | 0.60% | ~763 |
-| Utopia | 0.60% | ~763 |
+| Resurrection | 0.60% | ~764 |
+| Funny Guy | 0.60% | ~764 |
+| Long Live the King | 0.60% | ~764 |
+| Wyrdly Reconstructed | 0.60% | ~764 |
+| Boxcar Kid | 0.60% | ~764 |
+| A Clear Conscience | 0.60% | ~764 |
+| When You Want Something Done Right | 0.60% | ~764 |
+| Utopia | 0.60% | ~764 |
 | Hope Rekindled | 0.50% | ~636 |
 | Ichthyophobic | 0.50% | ~636 |
 | No More Mouths to Feed | 0.50% | ~636 |
@@ -66,11 +66,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 0.30% | ~382 |
 | Maître De La Lame | 0.30% | ~6 |
 | For Old Time' Sake | 0.30% | ~6 |
-| A Life Well Lived | 0.20% | ~254 |
-| Clearing the Ledger | 0.20% | ~254 |
-| Bacon Bits | 0.20% | ~254 |
-| Hat Trick | 0.20% | ~254 |
-| Triage | 0.20% | ~254 |
+| A Life Well Lived | 0.20% | ~255 |
+| Clearing the Ledger | 0.20% | ~255 |
+| Bacon Bits | 0.20% | ~255 |
+| Hat Trick | 0.20% | ~255 |
+| Triage | 0.20% | ~255 |
+| Eidetic | 0.20% | ~255 |
 | Battle Hardened | 0.20% | ~4 |
 | The World As It Was | 0.10% | ~127 |
 | Loop Year | 0.10% | ~127 |
@@ -79,14 +80,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | 20,000 Leagues Above the Sea | 0.10% | ~127 |
 | Tears in the Rain | 0.10% | ~127 |
 | The Clash | 0.10% | ~127 |
-| Eidetic | 0.10% | ~127 |
 | Grand Slam | 0.10% | ~127 |
 | Hard Mode | 0.10% | ~127 |
 | These Boots Are Made For Kickin' | 0.10% | ~2 |
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,237 (Ranked 84)  
+Progressed: 127,252 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
-| 2023-12-15 | 127,237 | 3 |
+| 2023-12-15 | 127,252 | 3 |
 ## Awards
 Max (Character Customization): 7,718  (Ranked 51)  
 Sum: 20,477 (Ranked 59)  

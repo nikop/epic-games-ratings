@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -2484,9 +2484,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 299
+      "UsersEstimate": 305
     },
     {
       "ID": "PrincessThrone",
@@ -2500,9 +2500,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 310
+      "UsersEstimate": 316
     },
     {
       "ID": "RogueEat",
@@ -2595,8 +2595,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-15T11:04:39.5332639+00:00",
+  "LastChanged_Achievements": "2023-12-15T12:05:06.6624023+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:40.9635354+00:00",
-  "LastUpdate_Ratings": "2023-12-15T10:59:13.1371724+00:00",
-  "LastUpdate_Achievements": "2023-12-15T11:04:39.5332971+00:00"
+  "LastUpdate_Ratings": "2023-12-15T11:59:37.3301166+00:00",
+  "LastUpdate_Achievements": "2023-12-15T12:05:06.6624515+00:00"
 }

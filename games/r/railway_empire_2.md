@@ -9,7 +9,7 @@ Rating: 4.42 (Ranked 719)
 | A new Journey | 75.00% | ~1,793 |
 | Departure | 74.00% | ~1,769 |
 | From X to Y | 73.00% | ~1,745 |
-| Way of Iron | 70.00% | ~1,674 |
+| Way of Iron | 71.00% | ~1,698 |
 | Mystery Tour | 69.00% | ~1,650 |
 | We brake for nobody | 68.00% | ~1,626 |
 | Brainstorm | 66.00% | ~1,578 |
@@ -42,8 +42,8 @@ Rating: 4.42 (Ranked 719)
 | Networker | 18.00% | ~430 |
 | Resistance is futile | 17.00% | ~406 |
 | Bold and beautiful | 16.00% | ~383 |
+| Settler | 16.00% | ~383 |
 | Assimilated | 15.00% | ~359 |
-| Settler | 15.00% | ~359 |
 | Go West | 14.00% | ~335 |
 | Max Power | 14.00% | ~335 |
 | Locusts | 14.00% | ~335 |

@@ -7,7 +7,7 @@ Number of Ratings: 62  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On My Own Two Feet | 94.00% | ~4,596 |
-| I'll Be Back | 84.00% | ~4,107 |
+| I'll Be Back | 85.00% | ~4,156 |
 | Sorry, I Dropped This | 77.00% | ~3,765 |
 | First Day on the Job | 77.00% | ~3,765 |
 | Butcher's Bill | 55.00% | ~2,689 |
@@ -75,7 +75,7 @@ Number of Ratings: 62  (23.09.2022)
 | The Surge | 0.40% | ~20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,889 (Ranked 195)  
-Completed: 18 (0.37%) (Ranked 231)  
+Completed: 18 (0.37%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

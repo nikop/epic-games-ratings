@@ -5,42 +5,42 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 2.00% | ~4,872 |
-| First of Many | 2.00% | ~4,872 |
-| Not Your Average Trait | 1.00% | ~2,436 |
-| Expanding Horizons | 0.90% | ~2,192 |
-| Regicide | 0.90% | ~205 |
-| Quest for Survival | 0.80% | ~1,949 |
-| Familiar Face | 0.80% | ~1,949 |
-| Master of the Dark Arts | 0.80% | ~182 |
-| Gleaming the Cube | 0.70% | ~1,705 |
-| Not a Janitor | 0.70% | ~1,705 |
-| Boss'n Up | 0.70% | ~1,705 |
-| Not So Special Now | 0.60% | ~1,462 |
-| Equal Measures | 0.60% | ~1,462 |
-| Blue Goddess | 0.60% | ~1,462 |
-| Duality | 0.60% | ~1,462 |
-| Trait Chaser | 0.60% | ~1,462 |
-| Am I Seeing This? | 0.50% | ~1,218 |
-| Top Performer | 0.50% | ~1,218 |
-| Shhh...It's a Secret | 0.50% | ~1,218 |
-| Was This Supposed To Happen? | 0.50% | ~1,218 |
-| Almost There | 0.50% | ~1,218 |
-| Make Some Room | 0.50% | ~1,218 |
-| Good, But Could Be Better! | 0.50% | ~1,218 |
-| Chaos | 0.40% | ~974 |
-| Traitor | 0.40% | ~974 |
-| Forever is a Long Time Coming | 0.40% | ~974 |
-| Power Surge | 0.40% | ~974 |
-| The God Gambit | 0.40% | ~974 |
-| Dark Designs | 0.40% | ~974 |
-| Madman's Paradise | 0.40% | ~974 |
-| Strapped | 0.40% | ~974 |
-| Edgelord | 0.40% | ~974 |
-| The Web | 0.40% | ~974 |
-| Scrap Collector | 0.40% | ~974 |
-| Scrap Hoarder | 0.40% | ~974 |
-| All These Traits� | 0.40% | ~974 |
+| The Killing Jar | 2.00% | ~4,876 |
+| First of Many | 2.00% | ~4,876 |
+| Expanding Horizons | 1.00% | ~2,438 |
+| Not Your Average Trait | 1.00% | ~2,438 |
+| Regicide | 0.90% | ~207 |
+| Quest for Survival | 0.80% | ~1,950 |
+| Familiar Face | 0.80% | ~1,950 |
+| Master of the Dark Arts | 0.80% | ~184 |
+| Gleaming the Cube | 0.70% | ~1,707 |
+| Not a Janitor | 0.70% | ~1,707 |
+| Boss'n Up | 0.70% | ~1,707 |
+| Trait Chaser | 0.70% | ~1,707 |
+| Not So Special Now | 0.60% | ~1,463 |
+| Equal Measures | 0.60% | ~1,463 |
+| Blue Goddess | 0.60% | ~1,463 |
+| Duality | 0.60% | ~1,463 |
+| Am I Seeing This? | 0.50% | ~1,219 |
+| Top Performer | 0.50% | ~1,219 |
+| Shhh...It's a Secret | 0.50% | ~1,219 |
+| Was This Supposed To Happen? | 0.50% | ~1,219 |
+| Scrap Collector | 0.50% | ~1,219 |
+| Almost There | 0.50% | ~1,219 |
+| Make Some Room | 0.50% | ~1,219 |
+| Good, But Could Be Better! | 0.50% | ~1,219 |
+| Chaos | 0.40% | ~975 |
+| Traitor | 0.40% | ~975 |
+| Forever is a Long Time Coming | 0.40% | ~975 |
+| Power Surge | 0.40% | ~975 |
+| The God Gambit | 0.40% | ~975 |
+| Dark Designs | 0.40% | ~975 |
+| Madman's Paradise | 0.40% | ~975 |
+| Strapped | 0.40% | ~975 |
+| Edgelord | 0.40% | ~975 |
+| The Web | 0.40% | ~975 |
+| Scrap Hoarder | 0.40% | ~975 |
+| All These Traits� | 0.40% | ~975 |
 | Crafty | 0.30% | ~731 |
 | Ghost in the Machine | 0.30% | ~731 |
 | The Agenda | 0.30% | ~731 |
@@ -50,18 +50,18 @@ Rating: 4.75 (Ranked 150)
 | The Ultimate Weapon | 0.30% | ~731 |
 | No One Should Have All That Power | 0.30% | ~731 |
 | Transmutate | 0.30% | ~731 |
-| Only Human | 0.20% | ~487 |
-| Red Room | 0.20% | ~487 |
-| The Trigger | 0.20% | ~487 |
-| Cutting Edge | 0.20% | ~487 |
-| The Collector | 0.20% | ~487 |
-| Proving Grounds | 0.20% | ~487 |
-| Maxed Out! | 0.20% | ~487 |
+| Only Human | 0.20% | ~488 |
+| Red Room | 0.20% | ~488 |
+| The Trigger | 0.20% | ~488 |
+| Cutting Edge | 0.20% | ~488 |
+| The Collector | 0.20% | ~488 |
+| Proving Grounds | 0.20% | ~488 |
+| Maxed Out! | 0.20% | ~488 |
 | Succession | 0.20% | ~46 |
 | You Shall Pass | 0.20% | ~46 |
 | A Foul Feast | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,599 (Ranked 63)  
+Progressed: 243,788 (Ranked 63)  
 Completed: 586 (0.24%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 586 (0.24%) (Ranked 254)
 | 2023-12-12 | 239,053 | 581 |
 | 2023-12-13 | 239,544 | 584 |
 | 2023-12-14 | 242,166 | 585 |
-| 2023-12-15 | 243,599 | 586 |
+| 2023-12-15 | 243,788 | 586 |
 ## Awards
 Max (Great Boss Battles): 2,757  (Ranked 101)  
 Sum: 6,925 (Ranked 126)  

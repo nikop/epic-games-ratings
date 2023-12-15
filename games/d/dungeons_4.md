@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Last Stand | 89.00% | ~498 |
-| Thalya – Simply Immortal | 88.00% | ~492 |
+| Thalya – Simply Immortal | 89.00% | ~498 |
 | For the Horde! | 83.00% | ~464 |
 | Hammer Time, Round Two | 81.00% | ~453 |
 | The Hellwoods | 77.00% | ~430 |
@@ -16,7 +16,7 @@
 | Heroes’ Gorge | 65.00% | ~363 |
 | Master of Magic | 64.00% | ~358 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~347 |
-| Magic Accidents | 59.00% | ~330 |
+| Magic Accidents | 60.00% | ~335 |
 | The Ascent | 58.00% | ~324 |
 | It's Warm and Cozy at Home | 58.00% | ~324 |
 | Trap Master | 55.00% | ~307 |

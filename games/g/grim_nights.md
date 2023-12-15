@@ -11,10 +11,10 @@
 | Top notch! | 33.00% | ~20 |
 | Bling bling! | 25.00% | ~15 |
 | Slaughter | 20.00% | ~12 |
-| Still alive! | 16.00% | ~10 |
+| Still alive! | 18.00% | ~11 |
 | Lives lost | 16.00% | ~10 |
 | Slay that one too! | 11.00% | ~7 |
-| You monster! | 8.00% | ~5 |
+| You monster! | 10.00% | ~6 |
 | Massive slaughter | 8.00% | ~5 |
 | ... And that one! | 7.00% | ~4 |
 | Endurance test! | 3.00% | ~2 |

@@ -1008,9 +1008,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 229425,
+  "EOS_Progressed": 229426,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 564,
+  "EOS_NewPlayers": 562,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27128,6 +27128,11 @@
       "Time": "2023-12-15T11:09:44.4890889+00:00",
       "NumProgressed": 229425,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-15T12:10:21.7550267+00:00",
+      "NumProgressed": 229426,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -27147,7 +27152,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59650
+      "UsersEstimate": 59651
     },
     {
       "ID": "ACH_BASE_11",
@@ -27187,7 +27192,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22942
+      "UsersEstimate": 22943
     },
     {
       "ID": "ACH_BASE_17",
@@ -27203,7 +27208,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22942
+      "UsersEstimate": 22943
     },
     {
       "ID": "ACH_BASE_19",
@@ -27211,7 +27216,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4588
+      "UsersEstimate": 4589
     },
     {
       "ID": "ACH_BASE_2",
@@ -27235,7 +27240,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4588
+      "UsersEstimate": 4589
     },
     {
       "ID": "ACH_BASE_22",
@@ -27243,7 +27248,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4588
+      "UsersEstimate": 4589
     },
     {
       "ID": "ACH_BASE_23",
@@ -27371,7 +27376,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4588
+      "UsersEstimate": 4589
     },
     {
       "ID": "ACH_BASE_6",
@@ -27379,7 +27384,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4588
+      "UsersEstimate": 4589
     },
     {
       "ID": "ACH_BASE_7",
@@ -27410,7 +27415,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 229425,
+      "Progressed": 229426,
       "Completed": 5
     }
   ],
@@ -27418,8 +27423,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-14T02:58:28.5187272+00:00",
-  "LastChanged_Achievements": "2023-12-15T11:09:44.4890884+00:00",
+  "LastChanged_Achievements": "2023-12-15T12:10:21.7550264+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.549712+00:00",
-  "LastUpdate_Ratings": "2023-12-15T10:58:39.0217783+00:00",
-  "LastUpdate_Achievements": "2023-12-15T11:09:44.4892321+00:00"
+  "LastUpdate_Ratings": "2023-12-15T11:58:58.4951959+00:00",
+  "LastUpdate_Achievements": "2023-12-15T12:10:21.7551661+00:00"
 }

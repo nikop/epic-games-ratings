@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 3739,
+  "Ranking_EOS_NewCompleters": 3740,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3455,9 +3455,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18199,
+  "EOS_Progressed": 18203,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 538,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15795,6 +15795,11 @@
       "Time": "2023-12-15T11:03:52.7000268+00:00",
       "NumProgressed": 18199,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-15T12:04:14.8419625+00:00",
+      "NumProgressed": 18203,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16013,9 +16018,9 @@
       "ID": "WinNearMonastery",
       "SetID": "cfbk359",
       "Name": "Monastery of the Holy Flame",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 164
     },
     {
       "ID": "WinNearOutpost",
@@ -16278,15 +16283,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18199,
+      "Progressed": 18203,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-15T10:00:02.4999568+00:00",
-  "LastChanged_Achievements": "2023-12-15T11:03:52.7000264+00:00",
+  "LastChanged_Achievements": "2023-12-15T12:04:14.841962+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:00:03.6285604+00:00",
-  "LastUpdate_Achievements": "2023-12-15T11:03:52.7001052+00:00"
+  "LastUpdate_Ratings": "2023-12-15T12:00:35.3652469+00:00",
+  "LastUpdate_Achievements": "2023-12-15T12:04:14.8420489+00:00"
 }

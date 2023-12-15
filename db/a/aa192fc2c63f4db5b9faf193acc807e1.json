@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -484,9 +484,9 @@
       "ID": "creepytaleach1",
       "SetID": "bnif31p",
       "Name": "Follow to the brother",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 75,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "creepytaleach10",
@@ -500,9 +500,9 @@
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 52,
+      "Percentage": 54,
       "XP": 75,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "creepytaleach12",
@@ -548,9 +548,9 @@
       "ID": "creepytaleach5",
       "SetID": "bnif31p",
       "Name": "Incorrigible researcher",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 75,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "creepytaleach6",
@@ -564,25 +564,25 @@
       "ID": "creepytaleach7",
       "SetID": "bnif31p",
       "Name": "Crazy chef",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "creepytaleach9",
       "SetID": "bnif31p",
       "Name": "Idler",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
@@ -595,8 +595,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-15T11:09:42.9960505+00:00",
+  "LastChanged_Achievements": "2023-12-15T12:10:20.0495982+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.952085+00:00",
-  "LastUpdate_Ratings": "2023-12-15T10:57:32.1705292+00:00",
-  "LastUpdate_Achievements": "2023-12-15T11:09:42.9960612+00:00"
+  "LastUpdate_Ratings": "2023-12-15T11:57:44.7135122+00:00",
+  "LastUpdate_Achievements": "2023-12-15T12:10:20.049607+00:00"
 }

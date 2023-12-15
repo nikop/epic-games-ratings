@@ -1663,9 +1663,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 162617,
-  "EOS_Completed": 329,
-  "EOS_NewPlayers": 951,
+  "EOS_Progressed": 162622,
+  "EOS_Completed": 330,
+  "EOS_NewPlayers": 947,
   "EOS_NewCompleters": 80,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -19283,6 +19283,11 @@
       "Time": "2023-12-15T11:03:22.4347923+00:00",
       "NumProgressed": 162617,
       "NumCompleted": 329
+    },
+    {
+      "Time": "2023-12-15T12:03:41.4839117+00:00",
+      "NumProgressed": 162622,
+      "NumCompleted": 330
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -19341,9 +19346,9 @@
       "ID": "ACQUIRE_HUNTPOINT",
       "SetID": "ccc0dlh",
       "Name": "The Hunt",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1464
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -19662,21 +19667,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 162200,
+      "Progressed": 162205,
       "Completed": 1239
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 162617,
-      "Completed": 329
+      "Progressed": 162622,
+      "Completed": 330
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-15T11:00:06.9120544+00:00",
-  "LastChanged_Achievements": "2023-12-15T11:03:22.4347919+00:00",
+  "LastChanged_Achievements": "2023-12-15T12:03:41.4839112+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:00:06.912055+00:00",
-  "LastUpdate_Achievements": "2023-12-15T11:03:22.4348885+00:00"
+  "LastUpdate_Ratings": "2023-12-15T12:00:39.6047027+00:00",
+  "LastUpdate_Achievements": "2023-12-15T12:03:41.4840309+00:00"
 }

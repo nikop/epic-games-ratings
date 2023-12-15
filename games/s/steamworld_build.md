@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mathematic | 85.00% | ~80 |
-| It's Yours, My Friend | 72.00% | ~68 |
+| It's Yours, My Friend | 73.00% | ~69 |
 | Going Places | 69.00% | ~65 |
 | Conducted Trade | 67.00% | ~63 |
 | Aristocratic | 66.00% | ~62 |

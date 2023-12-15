@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 738,
+  "EOS_Progressed": 739,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -2530,6 +2530,11 @@
       "Time": "2023-12-15T11:05:24.6840856+00:00",
       "NumProgressed": 738,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T12:05:56.788519+00:00",
+      "NumProgressed": 739,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2565,7 +2570,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "female-conqueror",
@@ -2581,7 +2586,7 @@
       "Name": "That was base",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "hire-lieutenant",
@@ -2589,7 +2594,7 @@
       "Name": "Our Man",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "kill-lieutenants",
@@ -2597,7 +2602,7 @@
       "Name": "Spreading Fear",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "pack-and-sell",
@@ -2629,15 +2634,15 @@
       "Name": "Bad Trip",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "rename-lieutenant",
       "SetID": "bed33dd",
       "Name": "I\u0027m Going To Call You Kitty",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 44
     },
     {
       "ID": "rob-village",
@@ -2645,7 +2650,7 @@
       "Name": "Bite the Blow",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "sell-variety",
@@ -2659,9 +2664,9 @@
       "ID": "send-smuggling",
       "SetID": "bed33dd",
       "Name": "Camellos",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 421
+      "UsersEstimate": 414
     },
     {
       "ID": "unlock-residences",
@@ -2677,7 +2682,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "use-submarine",
@@ -2692,15 +2697,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 738,
+      "Progressed": 739,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-12T19:59:33.5091909+00:00",
-  "LastChanged_Achievements": "2023-12-15T11:05:24.6840852+00:00",
+  "LastChanged_Achievements": "2023-12-15T12:05:56.7885185+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4008517+00:00",
-  "LastUpdate_Ratings": "2023-12-15T10:57:30.1920419+00:00",
-  "LastUpdate_Achievements": "2023-12-15T11:05:24.6841078+00:00"
+  "LastUpdate_Ratings": "2023-12-15T11:57:42.2070645+00:00",
+  "LastUpdate_Achievements": "2023-12-15T12:05:56.7885429+00:00"
 }
