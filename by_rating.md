@@ -27,7 +27,7 @@
 | 17 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 564 |
 | 26 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.87 | 24 | 531 |
 | 26 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 307 | 254 |
-| 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,529 | 132 |
+| 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,529 | 133 |
 | 26 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 746 | 183 |
 | 26 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 0 | 564 |
 | 26 | [Rayman Origins](games/r/rayman_origins.md) | 4.87 | 38 | 471 |
@@ -495,7 +495,7 @@
 | 484 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,389 | 96 |
 | 484 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 4.57 | 0 | 564 |
 | 484 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 564 |
-| 484 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,587 | 81 |
+| 484 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,603 | 81 |
 | 484 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 20,798 | 22 |
 | 484 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,794 | 121 |
 | 499 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 0 | 564 |
@@ -509,7 +509,7 @@
 | 499 | [Hue](games/h/hue.md) | 4.56 | 0 | 564 |
 | 499 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 564 |
 | 499 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,751 | 78 |
-| 499 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 8,397 | 46 |
+| 499 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 8,410 | 46 |
 | 499 | [Outward Definitive Edition](games/o/outward.md) | 4.56 | 35 | 484 |
 | 499 | [Oxenfree](games/o/oxenfree.md) | 4.56 | 0 | 564 |
 | 499 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,824 | 119 |
@@ -527,7 +527,7 @@
 | 516 | [Observation](games/o/observation.md) | 4.55 | 0 | 564 |
 | 516 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 93 | 382 |
 | 516 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.55 | 0 | 564 |
-| 516 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 99 | 370 |
+| 516 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 100 | 367 |
 | 516 | [Tails of Iron](games/t/tails_of_iron.md) | 4.55 | 0 | 564 |
 | 516 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 564 |
 | 516 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 564 |
@@ -552,7 +552,7 @@
 | 547 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 23 | 541 |
 | 547 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 36 | 481 |
 | 547 | [Duskers](games/d/duskers.md) | 4.53 | 0 | 564 |
-| 547 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 1,529 | 132 |
+| 547 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 1,539 | 132 |
 | 547 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.53 | 121 | 348 |
 | 547 | [Horace](games/h/horace.md) | 4.53 | 0 | 564 |
 | 547 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,553 | 131 |
