@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -149,9 +149,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1164,
+  "EOS_Progressed": 1165,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.75,
   "EosHistory": [
@@ -3899,6 +3899,11 @@
       "Time": "2023-12-15T20:06:50.1109797+00:00",
       "NumProgressed": 1164,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-15T21:05:19.7293049+00:00",
+      "NumProgressed": 1165,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3911,7 +3916,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -3919,7 +3924,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "_03_FinishAct1",
@@ -3927,7 +3932,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3943,7 +3948,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3975,7 +3980,7 @@
       "Name": "Powder Monkey",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "_10_Completion_30",
@@ -4031,7 +4036,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4047,7 +4052,7 @@
       "Name": "Fully Decked",
       "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -4118,7 +4123,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1164,
+      "Progressed": 1165,
       "Completed": 32
     }
   ],
@@ -4126,8 +4131,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:06:50.1109792+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:05:19.7293046+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:00:01.9977221+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:06:50.1110179+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:59:06.5931889+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:05:19.7293343+00:00"
 }

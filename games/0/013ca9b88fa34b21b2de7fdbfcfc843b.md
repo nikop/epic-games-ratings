@@ -8,13 +8,13 @@ Rating: 4.61 (Ranked 388)
 | A Thorny Situation | 0.40% | ~34 |
 | Calm Sailing | 0.30% | ~25 |
 | Open the Gate! | 0.30% | ~25 |
+| Break-Net Speed | 0.30% | ~25 |
 | Azoria Beckons | 0.20% | ~17 |
 | Clear the Air | 0.20% | ~17 |
 | Search for the Hairy Grell | 0.20% | ~17 |
 | Flaming Hot Completos | 0.20% | ~17 |
 | Lumberjack | 0.20% | ~17 |
 | Miner 49er | 0.20% | ~17 |
-| Break-Net Speed | 0.20% | ~17 |
 | Humble Collector | 0.20% | ~17 |
 | ... And Spit Back Out | 0.20% | ~17 |
 | Mist Walker | 0.20% | ~17 |
@@ -49,7 +49,7 @@ Rating: 4.61 (Ranked 388)
 | Exit Through The Gift Shop | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,444 (Ranked 177)  
+Progressed: 8,445 (Ranked 177)  
 Completed: 1 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 1 (0.01%) (Ranked 353)
 | 2023-12-11 | 8,419 | 1 |
 | 2023-12-13 | 8,425 | 1 |
 | 2023-12-14 | 8,437 | 1 |
-| 2023-12-15 | 8,444 | 1 |
+| 2023-12-15 | 8,445 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

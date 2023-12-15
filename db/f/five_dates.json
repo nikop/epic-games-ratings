@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 746,
+  "EOS_Progressed": 747,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
@@ -1985,6 +1985,11 @@
       "Time": "2023-12-15T19:09:28.3483417+00:00",
       "NumProgressed": 746,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-15T21:09:25.9573512+00:00",
+      "NumProgressed": 747,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -1996,7 +2001,7 @@
       "Name": "All Set Up",
       "Percentage": 99,
       "XP": 100,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "booty_call",
@@ -2004,7 +2009,7 @@
       "Name": "Booty Call",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "crash_and_burn",
@@ -2020,7 +2025,7 @@
       "Name": "Digital Casanova",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "hold_my_beer",
@@ -2028,7 +2033,7 @@
       "Name": "Hold my Beer",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -2052,7 +2057,7 @@
       "Name": "Light Sleepers",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "not_alone",
@@ -2060,7 +2065,7 @@
       "Name": "Not Alone",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "nueva_beginnings",
@@ -2115,7 +2120,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 746,
+      "Progressed": 747,
       "Completed": 11
     }
   ],
@@ -2123,8 +2128,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:10:31.7242455+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:09:25.9573507+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:00.3976276+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:59:17.1254256+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:10:31.7243028+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:58:35.2714183+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:09:25.9573731+00:00"
 }

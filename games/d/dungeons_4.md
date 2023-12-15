@@ -26,8 +26,8 @@
 | “… like son” | 51.00% | ~287 |
 | YOU SHALL NOT PASS! | 50.00% | ~282 |
 | The Cathedral of Light | 47.00% | ~265 |
+| Pure Dynamite! | 46.00% | ~259 |
 | Shame! Shame! Shame! | 46.00% | ~259 |
-| Pure Dynamite! | 45.00% | ~253 |
 | Dungeonlord Gorgu | 45.00% | ~253 |
 | Tanos' Crusade Against Thalya | 45.00% | ~253 |
 | Mana Cannon | 42.00% | ~236 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 9.00% | ~51 |
 | I Don't Need Any Help | 7.00% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 563 (Ranked 313)  
+Progressed: 563 (Ranked 312)  
 Completed: 17 (3.02%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |

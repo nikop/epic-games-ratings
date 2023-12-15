@@ -3,7 +3,7 @@
   "Name": "Celeste",
   "ProductSlug": "celeste",
   "Ranking_Rating": 4,
-  "Ranking_Popularity": 124,
+  "Ranking_Popularity": 125,
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 798,
   "Ranking_EOS_Completed": 377,
@@ -4558,6 +4558,6 @@
   "FirstSeen": "2022-07-22T20:25:26.412797+00:00",
   "LastChanged": "2023-12-15T18:57:40.1588177+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:49.7264807+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:58:08.8840414+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:08:51.7603302+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:57:50.3098662+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:08:15.6264629+00:00"
 }

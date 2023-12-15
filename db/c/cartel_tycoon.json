@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 743,
+  "EOS_Progressed": 745,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -2555,6 +2555,11 @@
       "Time": "2023-12-15T20:07:01.8457712+00:00",
       "NumProgressed": 743,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T21:05:28.0317236+00:00",
+      "NumProgressed": 745,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2566,7 +2571,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "cool-shirts",
@@ -2582,7 +2587,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "dont-miss-calls",
@@ -2590,7 +2595,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "female-conqueror",
@@ -2606,7 +2611,7 @@
       "Name": "That was base",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "hire-lieutenant",
@@ -2614,7 +2619,7 @@
       "Name": "Our Man",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "kill-lieutenants",
@@ -2630,15 +2635,15 @@
       "Name": "Hokey-Pokey",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 522
     },
     {
       "ID": "play-at-night",
       "SetID": "bed33dd",
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 230
+      "UsersEstimate": 224
     },
     {
       "ID": "product-profit",
@@ -2654,7 +2659,7 @@
       "Name": "Bad Trip",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "rename-lieutenant",
@@ -2670,7 +2675,7 @@
       "Name": "Bite the Blow",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "sell-variety",
@@ -2678,7 +2683,7 @@
       "Name": "Spread",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "send-smuggling",
@@ -2686,7 +2691,7 @@
       "Name": "Camellos",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "unlock-residences",
@@ -2702,7 +2707,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 594
+      "UsersEstimate": 596
     },
     {
       "ID": "use-submarine",
@@ -2717,15 +2722,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 743,
+      "Progressed": 745,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-12T19:59:33.5091909+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:07:01.8457708+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:05:28.0317231+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4008517+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:58:04.2647237+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:07:01.8457926+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:57:46.8072049+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:05:28.0317545+00:00"
 }

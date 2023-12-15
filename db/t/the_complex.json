@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 671,
+  "EOS_Progressed": 673,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.13,
+  "EOS_Completed_Percentage": 3.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -1165,6 +1165,11 @@
       "Time": "2023-12-15T20:09:59.7537167+00:00",
       "NumProgressed": 671,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-15T21:09:04.1972326+00:00",
+      "NumProgressed": 673,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1176,7 +1181,7 @@
       "Name": "Beat It",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "blast_from_the_past",
@@ -1184,7 +1189,7 @@
       "Name": "Blast From The Past",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 570
+      "UsersEstimate": 572
     },
     {
       "ID": "deadly_secret",
@@ -1224,7 +1229,7 @@
       "Name": "The Promise",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ending_5",
@@ -1232,7 +1237,7 @@
       "Name": "Lab Rat",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ending_6",
@@ -1240,15 +1245,15 @@
       "Name": "Stalemate",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ending_7",
       "SetID": "d4f4pll",
       "Name": "Trust Me For Once",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 188
+      "UsersEstimate": 182
     },
     {
       "ID": "ending_8",
@@ -1272,7 +1277,7 @@
       "Name": "Free Champagne",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "kamikaze",
@@ -1280,7 +1285,7 @@
       "Name": "Kamikaze",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 429
+      "UsersEstimate": 431
     },
     {
       "ID": "kindar_surprise",
@@ -1304,7 +1309,7 @@
       "Name": "People Pleaser",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "storage_hunter",
@@ -1312,15 +1317,15 @@
       "Name": "Storage Hunter",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "the_rebel_and_the_doctor",
       "SetID": "d4f4pll",
       "Name": "The Rebel And The Doctor",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 389
+      "UsersEstimate": 384
     },
     {
       "ID": "tough_decision",
@@ -1328,14 +1333,14 @@
       "Name": "Tough Decision",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 624
+      "UsersEstimate": 626
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 671,
+      "Progressed": 673,
       "Completed": 21
     }
   ],
@@ -1343,8 +1348,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:09:59.7537162+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:09:04.1972322+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:55.1182233+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:57:32.559334+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:09:59.7537355+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:57:26.9220449+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:09:04.1972535+00:00"
 }

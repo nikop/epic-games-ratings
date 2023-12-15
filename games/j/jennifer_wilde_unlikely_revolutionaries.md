@@ -7,7 +7,7 @@
 | I See Dead People | 28.00% | ~18 |
 | Clothes Hunter | 25.00% | ~16 |
 | Con Artist | 25.00% | ~16 |
-| Bedtime Storyteller | 17.00% | ~11 |
+| Bedtime Storyteller | 19.00% | ~12 |
 | Exorcist | 16.00% | ~10 |
 | Electrician | 16.00% | ~10 |
 | Card Sharp | 13.00% | ~8 |

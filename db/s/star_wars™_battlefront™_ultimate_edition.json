@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1747,
+  "EOS_Progressed": 1749,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5264,6 +5264,11 @@
       "Time": "2023-12-15T20:10:53.2434039+00:00",
       "NumProgressed": 1747,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T21:09:42.1313054+00:00",
+      "NumProgressed": 1749,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5500,7 +5505,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1555
+      "UsersEstimate": 1557
     },
     {
       "ID": "achievement_36",
@@ -5516,7 +5521,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "achievement_38",
@@ -5548,7 +5553,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "achievement_41",
@@ -5779,13 +5784,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1747,
+      "Progressed": 1749,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1747,
+      "Progressed": 1749,
       "Completed": 1
     }
   ],
@@ -5793,8 +5798,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:10:53.2434034+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:09:42.1313051+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.6035488+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:59:34.9293062+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:10:53.2434744+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:58:47.3428+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:09:42.1313958+00:00"
 }

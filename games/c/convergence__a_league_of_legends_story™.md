@@ -6,17 +6,17 @@ Rating: 4.62 (Ranked 371)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 35.00% | ~342 |
+| The Mysterious Stranger | 27.00% | ~264 |
 | Rail Rat | 27.00% | ~264 |
-| The Mysterious Stranger | 26.00% | ~254 |
 | Immaculate Aim | 23.00% | ~225 |
 | The Brass Boss | 23.00% | ~225 |
 | Make Up For Lost Time | 22.00% | ~215 |
 | Time Flies | 22.00% | ~215 |
+| The Harder They Fall | 22.00% | ~215 |
 | No, Thanks! | 22.00% | ~215 |
 | The Prince in Heels | 22.00% | ~215 |
 | Immaculate Aim | 22.00% | ~215 |
 | The Steel Shadow | 21.00% | ~205 |
-| The Harder They Fall | 21.00% | ~205 |
 | Breaking Down Barriers | 21.00% | ~205 |
 | The Wicked Twins | 21.00% | ~205 |
 | Honest Mistake | 21.00% | ~205 |

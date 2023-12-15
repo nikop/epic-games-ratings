@@ -6,31 +6,31 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,187 |
-| Gun Fu | 7.00% | ~68,359 |
-| Right Back At Ya | 6.00% | ~58,594 |
-| The Fool | 6.00% | ~58,594 |
-| The Lovers | 5.00% | ~48,828 |
-| Full Body Conversion | 4.00% | ~39,062 |
-| Stanislavski's Method | 4.00% | ~39,062 |
-| The Wheel of Fortune | 4.00% | ~39,062 |
-| True Soldier | 4.00% | ~39,062 |
-| All the President's Men | 4.00% | ~4,207 |
-| Arachnophobia | 4.00% | ~4,207 |
+| V for Vendetta | 12.00% | ~117,190 |
+| Gun Fu | 7.00% | ~68,361 |
+| Right Back At Ya | 6.00% | ~58,595 |
+| The Fool | 6.00% | ~58,595 |
+| The Lovers | 5.00% | ~48,829 |
+| Full Body Conversion | 4.00% | ~39,063 |
+| Stanislavski's Method | 4.00% | ~39,063 |
+| The Wheel of Fortune | 4.00% | ~39,063 |
+| True Soldier | 4.00% | ~39,063 |
+| All the President's Men | 4.00% | ~4,208 |
+| Arachnophobia | 4.00% | ~4,208 |
 | Christmas Tree Attack | 3.00% | ~29,297 |
 | The Hermit | 3.00% | ~29,297 |
 | The High Priestess | 3.00% | ~29,297 |
 | True Warrior | 3.00% | ~29,297 |
 | Legend of The Afterlife | 3.00% | ~29,297 |
 | Relic Ruler | 3.00% | ~3,156 |
-| Bushido and Chill | 2.00% | ~19,531 |
-| Master Crafter | 2.00% | ~19,531 |
-| I Am The Law | 2.00% | ~19,531 |
-| The Quick and the Dead | 2.00% | ~19,531 |
-| Life of the Road | 2.00% | ~19,531 |
-| The World | 2.00% | ~19,531 |
-| Two Heads, One Bullet | 2.00% | ~19,531 |
-| Judy vs Night City | 2.00% | ~19,531 |
+| Bushido and Chill | 2.00% | ~19,532 |
+| Master Crafter | 2.00% | ~19,532 |
+| I Am The Law | 2.00% | ~19,532 |
+| The Quick and the Dead | 2.00% | ~19,532 |
+| Life of the Road | 2.00% | ~19,532 |
+| The World | 2.00% | ~19,532 |
+| Two Heads, One Bullet | 2.00% | ~19,532 |
+| Judy vs Night City | 2.00% | ~19,532 |
 | To Protect and Serve | 1.00% | ~9,766 |
 | The Wandering Fool | 1.00% | ~9,766 |
 | Spin Doctor | 1.00% | ~1,052 |
@@ -38,8 +38,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Easy Come, Easy Go | 1.00% | ~1,052 |
 | The Sun | 0.90% | ~8,789 |
 | Dirty Deeds | 0.90% | ~947 |
-| To Bad Decisions! | 0.80% | ~7,812 |
-| Ten out of Ten | 0.80% | ~7,812 |
+| To Bad Decisions! | 0.80% | ~7,813 |
+| Ten out of Ten | 0.80% | ~7,813 |
 | The Star | 0.70% | ~6,836 |
 | Breathtaking | 0.60% | ~5,859 |
 | Autojock | 0.50% | ~4,883 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 976,562 (Ranked 15)  
+Progressed: 976,582 (Ranked 15)  
 Completed: 2,913 (0.30%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 2,913 (0.30%) (Ranked 241)
 | 2023-12-12 | 975,121 | 2,891 |
 | 2023-12-13 | 975,519 | 2,900 |
 | 2023-12-14 | 976,057 | 2,907 |
-| 2023-12-15 | 976,562 | 2,913 |
+| 2023-12-15 | 976,582 | 2,913 |
 ## Awards
 Max (Character Customization): 123,411  (Ranked 8)  
 Sum: 421,261 (Ranked 9)  

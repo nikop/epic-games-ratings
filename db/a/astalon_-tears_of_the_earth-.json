@@ -2,9 +2,9 @@
   "ID": "5e09944aaced4155ac9463196b5deada",
   "Name": "Astalon -Tears of the Earth-",
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
-  "Ranking_EOS_Progress": 491,
-  "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 511,
+  "Ranking_EOS_Progress": 490,
+  "Ranking_EOS_Completed": 85,
+  "Ranking_EOS_NewPlayers": 459,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69,
+  "EOS_Progressed": 70,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.35,
+  "EOS_Completed_Percentage": 4.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:01.3708206+00:00",
@@ -129,6 +129,11 @@
       "Time": "2023-12-09T08:05:00.982008+00:00",
       "NumProgressed": 69,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T21:08:02.877212+00:00",
+      "NumProgressed": 70,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 30,
@@ -154,7 +159,7 @@
       "ID": "Beat_Game_100",
       "SetID": "4f0g260",
       "Name": "God of the Tower!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
       "UsersEstimate": 17
     },
@@ -194,7 +199,7 @@
       "ID": "Buy_All_Bram_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Gorgonslayer Mastery",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -202,7 +207,7 @@
       "ID": "Buy_All_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Built for adventure",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -218,7 +223,7 @@
       "ID": "Buy_All_Zeek_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Collector Mastery",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -250,7 +255,7 @@
       "ID": "Complete_Bestiary_20",
       "SetID": "4f0g260",
       "Name": "Beast Quest",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 24
     },
@@ -258,7 +263,7 @@
       "ID": "Complete_Bestiary_50",
       "SetID": "4f0g260",
       "Name": "Beast Hunter",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -274,7 +279,7 @@
       "ID": "Defeat_1000_Enemies",
       "SetID": "4f0g260",
       "Name": "Monster Hunt",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 24
     },
@@ -314,7 +319,7 @@
       "ID": "Defeat_Tauros",
       "SetID": "4f0g260",
       "Name": "Horn prize!",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
       "UsersEstimate": 33
     },
@@ -346,7 +351,7 @@
       "ID": "Get_100_Map_Completion",
       "SetID": "4f0g260",
       "Name": "Cartographer",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 40,
       "UsersEstimate": 17
     },
@@ -370,7 +375,7 @@
       "ID": "Unlock_Zeek",
       "SetID": "4f0g260",
       "Name": "Loot, loot!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
       "UsersEstimate": 22
     }
@@ -379,7 +384,7 @@
     {
       "ID": "4f0g260",
       "IsBase": true,
-      "Progressed": 69,
+      "Progressed": 70,
       "Completed": 3
     }
   ],
@@ -387,8 +392,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:08:33.4618633+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:08:02.8772115+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:28.3481633+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:57:22.3936358+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:08:33.4618912+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:57:20.1926334+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:08:02.877231+00:00"
 }

@@ -14,23 +14,23 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game I | 9.00% | ~394 |
 | Builder I | 8.00% | ~350 |
 | An honorable Governor I | 8.00% | ~350 |
+| Full-time job I | 8.00% | ~350 |
 | Researcher | 8.00% | ~350 |
 | Tax-man II | 8.00% | ~350 |
 | Time for some trade | 8.00% | ~350 |
 | Bread for the people I | 7.00% | ~306 |
 | Completionist I | 7.00% | ~306 |
-| Full-time job I | 7.00% | ~306 |
+| Not a small trader anymore | 6.00% | ~263 |
 | I like to build stuff... II | 6.00% | ~263 |
 | Full-time job II | 6.00% | ~263 |
+| Tax-man III | 6.00% | ~263 |
 | A time consuming game II | 6.00% | ~263 |
 | Tools of the trade I | 6.00% | ~263 |
 | Knee deep in snow | 6.00% | ~263 |
-| Not a small trader anymore | 5.00% | ~219 |
 | Bread for the people II | 5.00% | ~219 |
 | I like to build stuff... III | 5.00% | ~219 |
 | The King's new clothes I | 5.00% | ~219 |
 | Builder II | 5.00% | ~219 |
-| Tax-man III | 5.00% | ~219 |
 | Conflicting parties | 5.00% | ~219 |
 | Another one bites the dust | 4.00% | ~175 |
 | Experienced decorator | 4.00% | ~175 |

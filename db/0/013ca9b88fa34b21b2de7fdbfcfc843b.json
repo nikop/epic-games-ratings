@@ -223,7 +223,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8444,
+  "EOS_Progressed": 8445,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
@@ -8503,6 +8503,11 @@
       "Time": "2023-12-15T18:10:09.2173912+00:00",
       "NumProgressed": 8444,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T21:09:39.6776151+00:00",
+      "NumProgressed": 8445,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8617,9 +8622,9 @@
       "ID": "COLLECT_MULTIPLE_CRITTERS",
       "SetID": "9eia0f5",
       "Name": "Break-Net Speed",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -8858,13 +8863,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8444,
+      "Progressed": 8445,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1061,
+      "Progressed": 1062,
       "Completed": 1050
     }
   ],
@@ -8872,8 +8877,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-15T16:03:24.8361061+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:10:50.0600655+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:09:39.6776148+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:03:40.6688129+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:10:50.0601675+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:03:07.0206023+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:09:39.6776987+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 349,
+  "EOS_Progressed": 350,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -370,6 +370,11 @@
       "Time": "2023-12-15T15:09:54.3523637+00:00",
       "NumProgressed": 349,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T21:09:41.4775053+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -413,7 +418,7 @@
       "Name": "A Paris Sunset",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach-ascension-complete-year",
@@ -429,7 +434,7 @@
       "Name": "The Director Perseveres",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach-ascension-die",
@@ -437,7 +442,7 @@
       "Name": "The Director is Dead",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach-ascension-inspector-return",
@@ -469,7 +474,7 @@
       "Name": "And Here Is Your Statue",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach-campaign-finish-easy",
@@ -477,7 +482,7 @@
       "Name": "Traveller",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -501,7 +506,7 @@
       "Name": "Iron Man",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ach-campaign-pacifist",
@@ -517,15 +522,15 @@
       "Name": "A Strange Artefact",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ach-campaign-story2",
       "SetID": "17ih7ma",
       "Name": "Lost \u0026 Found \u0026 Lost Again",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 144
     },
     {
       "ID": "ach-campaign-story3",
@@ -557,7 +562,7 @@
       "Name": "Cartographer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ach-discover-locations-high",
@@ -565,7 +570,7 @@
       "Name": "Discovery",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach-drinkingContest",
@@ -603,9 +608,9 @@
       "ID": "ach-firstExpedition",
       "SetID": "17ih7ma",
       "Name": "The Adventure Begins",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 220
     },
     {
       "ID": "ach-hardExpeditions",
@@ -637,7 +642,7 @@
       "Name": "Plays Well With Others",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach-kill-animal-groups",
@@ -677,7 +682,7 @@
       "Name": "The Workshop",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach-maxClubLevel-british",
@@ -685,7 +690,7 @@
       "Name": "The Round Table",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach-maxClubLevel-chinese",
@@ -701,7 +706,7 @@
       "Name": "Veteran Explorer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ach-meetGhost",
@@ -749,7 +754,7 @@
       "Name": "Uncertain Loyalties",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ach-portal-return",
@@ -771,9 +776,9 @@
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 108
     },
     {
       "ID": "ach-redElk",
@@ -781,7 +786,7 @@
       "Name": "A Gentle Beast",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ach-rideDinosaur",
@@ -805,7 +810,7 @@
       "Name": "Cold Blood, Warm Heart",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach-spendNoMoney",
@@ -845,7 +850,7 @@
       "Name": "Errand Runner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach-wearHat",
@@ -860,7 +865,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 349,
+      "Progressed": 350,
       "Completed": 1
     }
   ],
@@ -868,8 +873,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:10:52.2262804+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:09:41.4775049+00:00",
   "LastUpdate_AppInfo": "2023-12-09T12:59:37.4155215+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:57:15.962989+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:10:52.2263262+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:57:15.9836083+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:09:41.4775688+00:00"
 }

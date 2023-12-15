@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lost forever | 9.00% | ~28 |
-| Golden Carrot | 5.00% | ~15 |
-| Silver Hat | 5.00% | ~15 |
+| Golden Carrot | 5.00% | ~16 |
+| Silver Hat | 5.00% | ~16 |
 | Naughty list | 4.00% | ~12 |
 | Silver Carrot | 4.00% | ~12 |
 | Silver Button | 3.00% | ~9 |
@@ -23,7 +23,7 @@
 | So close! | 0.60% | ~2 |
 | Bling Bling | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 309 (Ranked 363)  
+Progressed: 310 (Ranked 363)  
 Completed: 1 (0.32%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,3 +103,4 @@ Completed: 1 (0.32%) (Ranked 238)
 | 2023-12-11 | 305 | 1 |
 | 2023-12-12 | 306 | 1 |
 | 2023-12-14 | 309 | 1 |
+| 2023-12-15 | 310 | 1 |

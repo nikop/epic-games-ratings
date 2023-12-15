@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1191,
+  "EOS_Progressed": 1192,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.51,
   "EosHistory": [
@@ -2525,6 +2525,11 @@
       "Time": "2023-12-15T20:06:41.9633046+00:00",
       "NumProgressed": 1191,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-15T21:05:13.9509622+00:00",
+      "NumProgressed": 1192,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -2542,9 +2547,9 @@
       "ID": "ACH_BOOK_ALL",
       "SetID": "7k95e4n",
       "Name": "King of hospitality",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 143
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_CHICKEN_ENCOUNTERED",
@@ -2552,7 +2557,7 @@
       "Name": "Soulmate?",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -2576,7 +2581,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -2584,7 +2589,7 @@
       "Name": "Love is in the air",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -2600,7 +2605,7 @@
       "Name": "No need to call anyone",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -2616,7 +2621,7 @@
       "Name": "Aesop\u0027s fable",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
@@ -2648,7 +2653,7 @@
       "Name": "Hotel sleuthing",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_NEWSPAPER_ARTICLE",
@@ -2688,7 +2693,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "ACH_STAR_2",
@@ -2696,7 +2701,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_STAR_3",
@@ -2704,7 +2709,7 @@
       "Name": "Still more work ahead",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_STAR_4",
@@ -2744,14 +2749,14 @@
       "Name": "I think you dropped this",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1191,
+      "Progressed": 1192,
       "Completed": 18
     }
   ],
@@ -2759,8 +2764,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-04T06:59:58.8594185+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:06:41.9633042+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:05:13.9509618+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:05.3714871+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:59:36.2277184+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:06:41.9633258+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:58:48.1628059+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:05:13.9509951+00:00"
 }

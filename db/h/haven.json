@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1585,
+  "EOS_Progressed": 1586,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -2398,6 +2398,11 @@
       "Time": "2023-12-15T19:05:52.0526248+00:00",
       "NumProgressed": 1585,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-15T21:06:00.0629728+00:00",
+      "NumProgressed": 1586,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2441,7 +2446,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "14",
@@ -2473,7 +2478,7 @@
       "Name": "Balding bloot!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "18",
@@ -2537,15 +2542,15 @@
       "Name": "In my shoes",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "25",
       "SetID": "n50no0",
       "Name": "Heartstrings",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 206
     },
     {
       "ID": "27",
@@ -2617,7 +2622,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "7",
@@ -2633,7 +2638,7 @@
       "Name": "Over my dead body",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "9",
@@ -2648,15 +2653,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1585,
+      "Progressed": 1586,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:07:46.9768181+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:06:00.0629723+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:06.0236888+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:01:31.6876648+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:07:46.9768576+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:00:06.2982167+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:06:00.0630035+00:00"
 }

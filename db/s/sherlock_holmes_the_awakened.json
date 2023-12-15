@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1188,
+  "EOS_Progressed": 1189,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.61,
   "EosHistory": [
@@ -4072,6 +4072,11 @@
       "Time": "2023-12-15T19:03:56.8906841+00:00",
       "NumProgressed": 1188,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-12-15T21:04:04.2724285+00:00",
+      "NumProgressed": 1189,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 28,
@@ -4083,7 +4088,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "MQ01_2",
@@ -4147,7 +4152,7 @@
       "Name": "History Check",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "MQ03_4",
@@ -4163,7 +4168,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "MQ04_1",
@@ -4209,9 +4214,9 @@
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 511
+      "UsersEstimate": 499
     },
     {
       "ID": "MQ05_4",
@@ -4227,7 +4232,7 @@
       "Name": "Brain Food",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "MQ06_2",
@@ -4251,7 +4256,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "MQ07_1",
@@ -4267,7 +4272,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "MQ08_1",
@@ -4275,7 +4280,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "MQ08_2",
@@ -4306,7 +4311,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1188,
+      "Progressed": 1189,
       "Completed": 31
     }
   ],
@@ -4314,8 +4319,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-14T11:03:29.6730885+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:05:04.813145+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:04:04.2724281+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:03:35.7567387+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:05:04.8131861+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:03:03.7528509+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:04:04.2724988+00:00"
 }

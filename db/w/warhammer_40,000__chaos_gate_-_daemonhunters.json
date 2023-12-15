@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -789,9 +789,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3399,
+  "EOS_Progressed": 3400,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4249,6 +4249,11 @@
       "Time": "2023-12-15T20:04:28.6183859+00:00",
       "NumProgressed": 3399,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T21:03:38.949597+00:00",
+      "NumProgressed": 3400,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4450,9 +4455,9 @@
       "ID": "Kills_Executioner",
       "SetID": "3jha1np",
       "Name": "Executioner",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 340
+      "UsersEstimate": 374
     },
     {
       "ID": "Kills_Exterminator",
@@ -4803,21 +4808,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3399,
+      "Progressed": 3400,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3399,
+      "Progressed": 3400,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-12T16:03:26.7422514+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:04:28.6183854+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:03:38.9495967+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:10.0749768+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:03:35.0244724+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:04:28.6184538+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:03:03.2838243+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:03:38.9496814+00:00"
 }

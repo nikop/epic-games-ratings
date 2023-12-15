@@ -625,7 +625,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3435,
+  "EOS_Progressed": 3436,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
@@ -9885,6 +9885,11 @@
       "Time": "2023-12-15T20:05:33.5852525+00:00",
       "NumProgressed": 3435,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T21:04:24.8089161+00:00",
+      "NumProgressed": 3436,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -10088,7 +10093,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "frostfireliberator",
@@ -10136,7 +10141,7 @@
       "Name": "Here We Go Again",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "heroinspection",
@@ -10208,7 +10213,7 @@
       "Name": "Master Enchanter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "mastery",
@@ -10296,7 +10301,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "relicofthepast",
@@ -10376,7 +10381,7 @@
       "Name": "The father of Dragons",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "thegameison",
@@ -10416,7 +10421,7 @@
       "Name": "Trader",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -10488,14 +10493,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2679
+      "UsersEstimate": 2680
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3435,
+      "Progressed": 3436,
       "Completed": 2
     }
   ],
@@ -10503,8 +10508,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-14T18:58:46.7589357+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:05:33.5852522+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:04:24.8089157+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:16.4016448+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:59:51.8703531+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:05:33.585364+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:58:59.6543658+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:04:24.8090663+00:00"
 }

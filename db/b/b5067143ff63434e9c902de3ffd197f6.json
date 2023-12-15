@@ -4,7 +4,7 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14493,
+  "EOS_Progressed": 14505,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 922,
+  "EOS_NewPlayers": 923,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8959,6 +8959,11 @@
       "Time": "2023-12-15T20:05:25.3926233+00:00",
       "NumProgressed": 14493,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T21:04:19.17695+00:00",
+      "NumProgressed": 14505,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -8987,7 +8992,7 @@
       "Name": "INSANE",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_LEVEL188",
@@ -9011,7 +9016,7 @@
       "Name": "MEG",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_RUNFORYOURLIFE",
@@ -9027,7 +9032,7 @@
       "Name": "Secret",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_SUBLEVEL02",
@@ -9035,7 +9040,7 @@
       "Name": "RED",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_SUBLEVEL03",
@@ -9043,7 +9048,7 @@
       "Name": "ICY",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_THEEND",
@@ -9051,7 +9056,7 @@
       "Name": "End?",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_WINELECTRICALSTATION",
@@ -9067,7 +9072,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3768
+      "UsersEstimate": 3771
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -9075,7 +9080,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1741
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -9083,7 +9088,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1596
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -9162,14 +9167,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 14493,
+      "Progressed": 14505,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:05:25.392623+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:04:19.1769495+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.6869956+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:58:12.4035886+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:05:25.3927002+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:57:52.8271197+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:04:19.1770368+00:00"
 }

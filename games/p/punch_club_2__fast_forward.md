@@ -14,9 +14,9 @@
 | Fitness professional | 77.00% | ~300 |
 | Old movies enjoyer | 77.00% | ~300 |
 | Employee of the week | 76.00% | ~296 |
+| Run K, run! | 72.00% | ~280 |
 | Your own amateur gym | 71.00% | ~276 |
 | First defeat | 71.00% | ~276 |
-| Run K, run! | 71.00% | ~276 |
 | Hello, world! | 68.00% | ~265 |
 | Fighting is cool | 67.00% | ~261 |
 | No bullying more | 67.00% | ~261 |

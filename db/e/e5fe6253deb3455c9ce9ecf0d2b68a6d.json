@@ -2,9 +2,9 @@
   "ID": "e5fe6253deb3455c9ce9ecf0d2b68a6d",
   "Name": "Bus World",
   "ProductSlug": "bus-world-5de29e",
-  "Ranking_EOS_Progress": 349,
+  "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 348,
+  "EOS_Progressed": 350,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1324,6 +1324,11 @@
       "Time": "2023-12-15T20:07:30.8682219+00:00",
       "NumProgressed": 348,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T21:05:48.5965622+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -1352,15 +1357,15 @@
       "Name": "Critical dissatisfaction",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Full",
       "SetID": "cjfnji1",
       "Name": "Full load",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 217
     },
     {
       "ID": "Island",
@@ -1374,9 +1379,9 @@
       "ID": "Last_second",
       "SetID": "cjfnji1",
       "Name": "In the last second",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 182
     },
     {
       "ID": "Master",
@@ -1392,7 +1397,7 @@
       "Name": "Own route",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Serpentine_conquero",
@@ -1432,7 +1437,7 @@
       "Name": "Back to USSR",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Upgrades",
@@ -1447,14 +1452,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 348,
+      "Progressed": 350,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:07:30.8682215+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:05:48.5965619+00:00",
   "LastUpdate_AppInfo": "2023-12-12T02:57:11.9041929+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:57:08.9777806+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:07:30.8682391+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:57:11.2558471+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:05:48.5965806+00:00"
 }

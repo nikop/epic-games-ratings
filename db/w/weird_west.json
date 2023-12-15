@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2032,
+  "EOS_Progressed": 2033,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2906,6 +2906,11 @@
       "Time": "2023-12-15T20:07:04.8491766+00:00",
       "NumProgressed": 2032,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-15T21:05:30.4032385+00:00",
+      "NumProgressed": 2033,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3061,7 +3066,7 @@
       "Name": "Justice Served",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -3245,7 +3250,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -3277,7 +3282,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -3293,7 +3298,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3340,15 +3345,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2032,
+      "Progressed": 2033,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-26T10:59:42.9428977+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:07:04.8491762+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:05:30.4032378+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.1210181+00:00",
   "LastUpdate_Ratings": "2023-12-15T20:02:41.7634795+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:07:04.849229+00:00"
+  "LastUpdate_Achievements": "2023-12-15T21:05:30.403292+00:00"
 }

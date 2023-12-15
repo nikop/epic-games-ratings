@@ -13,7 +13,7 @@
 | Bridge Builder | 23.00% | ~23 |
 | Treasure Seeker | 21.00% | ~21 |
 | Green Thumb Goliath | 16.00% | ~16 |
-| Take the Scenic Route | 13.00% | ~13 |
+| Take the Scenic Route | 14.00% | ~14 |
 | Treasure Hunter | 13.00% | ~13 |
 | St. George's Gauntlet | 12.00% | ~12 |
 | Redbeard's Revenger | 11.00% | ~11 |

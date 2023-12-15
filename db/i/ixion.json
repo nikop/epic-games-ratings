@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3493,
+  "EOS_Progressed": 3494,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6411,6 +6411,11 @@
       "Time": "2023-12-15T20:06:05.8319339+00:00",
       "NumProgressed": 3493,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T21:04:48.2075423+00:00",
+      "NumProgressed": 3494,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6422,7 +6427,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ACH_BASE_10",
@@ -6486,7 +6491,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ACH_BASE_19",
@@ -6598,7 +6603,7 @@
       "Name": "Power Outage",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_BASE_32",
@@ -6750,7 +6755,7 @@
       "Name": "Convenient Transport",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_BASE_52",
@@ -6774,7 +6779,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_BASE_57",
@@ -6877,13 +6882,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1677,
+      "Progressed": 1678,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3493,
+      "Progressed": 3494,
       "Completed": 0
     }
   ],
@@ -6891,8 +6896,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:06:05.8319335+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:04:48.2075419+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4855137+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:58:04.6387665+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:06:05.8320722+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:57:47.0552698+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:04:48.2076204+00:00"
 }

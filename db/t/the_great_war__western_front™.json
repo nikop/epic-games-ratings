@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 632,
+  "EOS_Progressed": 633,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2843,6 +2843,11 @@
       "Time": "2023-12-15T20:04:24.3324412+00:00",
       "NumProgressed": 632,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T21:03:35.9029969+00:00",
+      "NumProgressed": 633,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2916,9 +2921,9 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 297
+      "UsersEstimate": 304
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -2926,7 +2931,7 @@
       "Name": "La Der des Ders",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -2949,7 +2954,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 632,
+      "Progressed": 633,
       "Completed": 0
     }
   ],
@@ -2957,8 +2962,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:04:24.3324407+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:03:35.9029963+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:05.7146339+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:59:14.3229432+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:04:24.3324665+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:58:32.6944666+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:03:35.9030243+00:00"
 }

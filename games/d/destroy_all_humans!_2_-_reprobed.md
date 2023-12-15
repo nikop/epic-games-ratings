@@ -6,33 +6,33 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 60.00% | ~45 |
-| Mash Machine | 57.00% | ~43 |
-| Ducks in a Row, Fish in a Barrel | 37.00% | ~28 |
+| Rock of the Bay | 61.00% | ~46 |
+| Mash Machine | 59.00% | ~44 |
+| Ducks in a Row, Fish in a Barrel | 41.00% | ~31 |
 | Furon Fashion | 28.00% | ~21 |
-| Shop Til They Drop | 25.00% | ~19 |
+| Shop Til They Drop | 27.00% | ~20 |
 | Earthly Pleasures | 19.00% | ~14 |
-| Upgreatest | 17.00% | ~13 |
-| Pimp My Raid | 16.00% | ~12 |
-| I Look Up As I Walk to Takoshima | 15.00% | ~11 |
-| Bodied Sattva | 15.00% | ~11 |
+| Upgreatest | 19.00% | ~14 |
+| Pimp My Raid | 17.00% | ~13 |
+| I Look Up As I Walk to Takoshima | 16.00% | ~12 |
+| Bodied Sattva | 16.00% | ~12 |
 | Perfect Probulator | 13.00% | ~10 |
 | Cult Following | 13.00% | ~10 |
 | Lie Back and Think of Albion | 13.00% | ~10 |
 | Freshly Squeezed | 11.00% | ~8 |
+| Die Nasty | 9.00% | ~7 |
 | Transmitting From Sol-3 | 8.00% | ~6 |
-| Die Nasty | 8.00% | ~6 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 7.00% | ~5 |
 | Fly Me to the Moon Base | 5.00% | ~4 |
 | Dusted | 5.00% | ~4 |
 | Scuttled | 4.00% | ~3 |
 | Kaijuiced | 3.00% | ~2 |
 | Lobster Blisque | 3.00% | ~2 |
+| Re-Return of the Clone of the Invasion II-2 | 3.00% | ~2 |
 | Arty Facts | 1.00% | ~1 |
 | Forbidden Donut | 1.00% | ~1 |
 | Deincarnated | 1.00% | ~1 |
 | Yettisoned | 1.00% | ~1 |
-| Re-Return of the Clone of the Invasion II-2 | 1.00% | ~1 |
 | Arkvoodle Doodle | 1.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
 | PK Slam Dunk | 0.00% | ~0 |

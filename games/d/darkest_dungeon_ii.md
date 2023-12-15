@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~136 |
-| This guy... again? | 3.00% | ~68 |
-| Bloody Graduation | 3.00% | ~68 |
-| Lost and Found | 3.00% | ~68 |
+| Malpractice Assurance | 6.00% | ~137 |
+| This guy... again? | 3.00% | ~69 |
+| Bloody Graduation | 3.00% | ~69 |
+| Lost and Found | 3.00% | ~69 |
 | This Belongs in a Museum | 2.00% | ~2,548 |
 | Not Today! | 2.00% | ~2,548 |
 | Creep and Sleep | 2.00% | ~2,548 |
@@ -18,7 +18,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 2.00% | ~2,548 |
 | Escape from the Black Hole | 2.00% | ~2,548 |
 | Autodidact | 2.00% | ~2,548 |
-| Ploughshares to Swords | 2.00% | ~45 |
+| Ploughshares to Swords | 2.00% | ~46 |
 | Don't Make Me Turn This Coach Around | 1.00% | ~1,274 |
 | Serenity Now! | 1.00% | ~1,274 |
 | It Rings a Bell | 1.00% | ~1,274 |
@@ -35,11 +35,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Dissector | 0.90% | ~1,147 |
 | Deprogramming | 0.90% | ~1,147 |
 | Worldly Traveller | 0.90% | ~1,147 |
+| Unfulfilled Desires | 0.80% | ~1,019 |
 | Banishment | 0.80% | ~1,019 |
 | Now Stay Dead | 0.80% | ~1,019 |
 | Reverse Banditry | 0.80% | ~1,019 |
 | Spelunker | 0.80% | ~1,019 |
 | Ramble On | 0.80% | ~1,019 |
+| Unshackled | 0.80% | ~1,019 |
 | Road Trip | 0.80% | ~1,019 |
 | Resurrection | 0.70% | ~892 |
 | Unleash Hell | 0.70% | ~892 |
@@ -47,24 +49,22 @@ Number of Ratings: 7,767  (23.09.2022)
 | Long Live the King | 0.70% | ~892 |
 | Wyrdly Reconstructed | 0.70% | ~892 |
 | Boxcar Kid | 0.70% | ~892 |
-| Unfulfilled Desires | 0.70% | ~892 |
 | Predator | 0.70% | ~892 |
 | A Clear Conscience | 0.70% | ~892 |
-| Unshackled | 0.70% | ~892 |
-| Ichthyophobic | 0.60% | ~764 |
-| When You Want Something Done Right | 0.60% | ~764 |
-| Utopia | 0.60% | ~764 |
+| Ichthyophobic | 0.60% | ~765 |
+| When You Want Something Done Right | 0.60% | ~765 |
+| Utopia | 0.60% | ~765 |
 | Hope Rekindled | 0.50% | ~637 |
 | No More Mouths to Feed | 0.50% | ~637 |
 | Hot Air | 0.50% | ~637 |
 | Slap on the Wrist | 0.50% | ~11 |
 | This Looks Familiar | 0.40% | ~510 |
 | Eyes Up | 0.40% | ~510 |
+| Body of Work | 0.40% | ~510 |
 | Et Tu, Riposte? | 0.40% | ~9 |
 | For Old Time' Sake | 0.40% | ~9 |
 | Shrine of Reflection | 0.30% | ~382 |
 | Handled | 0.30% | ~382 |
-| Body of Work | 0.30% | ~382 |
 | Maître De La Lame | 0.30% | ~7 |
 | A Life Well Lived | 0.20% | ~255 |
 | The World As It Was | 0.20% | ~255 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,397 (Ranked 84)  
+Progressed: 127,417 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
-| 2023-12-15 | 127,397 | 3 |
+| 2023-12-15 | 127,417 | 3 |
 ## Awards
 Max (Character Customization): 7,718  (Ranked 51)  
 Sum: 20,498 (Ranked 59)  

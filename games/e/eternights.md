@@ -8,13 +8,13 @@
 | Shelter Escape | 78.00% | ~380 |
 | The First Bond | 68.00% | ~331 |
 | Novice Scavenger | 62.00% | ~302 |
-| Master Craftsman | 49.00% | ~239 |
+| Master Craftsman | 50.00% | ~244 |
 | First wall | 48.00% | ~234 |
 | Piggyback Expert | 47.00% | ~229 |
-| Second wall | 35.00% | ~170 |
+| Second wall | 36.00% | ~175 |
 | Expert Scavenger | 34.00% | ~166 |
 | Their Rock | 29.00% | ~141 |
-| Yuna's Promise | 28.00% | ~136 |
+| Yuna's Promise | 29.00% | ~141 |
 | Stone Retriever | 28.00% | ~136 |
 | Find myself | 26.00% | ~127 |
 | Min's Promise | 19.00% | ~93 |

@@ -5,9 +5,9 @@
   "Ranking_Rating": 814,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 265,
+  "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewPlayers": 386,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1142,
+  "EOS_Progressed": 1144,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1646,6 +1646,11 @@
       "Time": "2023-12-15T19:04:45.6502388+00:00",
       "NumProgressed": 1142,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T21:04:53.4767677+00:00",
+      "NumProgressed": 1144,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -1689,7 +1694,7 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "06",
@@ -1697,7 +1702,7 @@
       "Name": "First Blood",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 742
+      "UsersEstimate": 744
     },
     {
       "ID": "07",
@@ -1705,7 +1710,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "08",
@@ -1713,7 +1718,7 @@
       "Name": "Monster Slayer",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "09",
@@ -1729,7 +1734,7 @@
       "Name": "Huntmaster",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "11",
@@ -1785,7 +1790,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "18",
@@ -1793,7 +1798,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "19",
@@ -1825,7 +1830,7 @@
       "Name": "House Vulisica\u0027s Heirloom",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "23",
@@ -1840,7 +1845,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1142,
+      "Progressed": 1144,
       "Completed": 1
     }
   ],
@@ -1848,8 +1853,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:06:13.3970877+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:04:53.4767673+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:19.4447569+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:57:26.1938112+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:06:13.3971118+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:57:22.6954967+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:04:53.4767907+00:00"
 }

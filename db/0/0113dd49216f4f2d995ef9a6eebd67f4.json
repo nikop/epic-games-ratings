@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116,
+  "EOS_Progressed": 117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -554,6 +554,11 @@
       "Time": "2023-12-15T19:08:25.5118594+00:00",
       "NumProgressed": 116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T21:08:22.6241824+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -566,15 +571,15 @@
       "Name": "Abdication",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SG_ACROSSTHESTYX",
       "SetID": "bj5g0n4",
       "Name": "Across The Styx",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 30
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -588,9 +593,9 @@
       "ID": "SG_ALLTHEHELPYOUNEED",
       "SetID": "bj5g0n4",
       "Name": "All The Help You Need",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "SG_ARROWOFEROSUNDONE",
@@ -606,7 +611,7 @@
       "Name": "Brand New Chorus",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_BRAVEONTIME",
@@ -614,7 +619,7 @@
       "Name": "Brave On Time",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SG_CHARISMATIC",
@@ -622,7 +627,7 @@
       "Name": "Charismatic",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_CUNNING",
@@ -638,7 +643,7 @@
       "Name": "End Of The Road",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -646,7 +651,7 @@
       "Name": "Everything Has Changed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_FIERY",
@@ -676,9 +681,9 @@
       "ID": "SG_LIKEHEROESBEFOREYOU",
       "SetID": "bj5g0n4",
       "Name": "Like Heroes Before You",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "SG_LOSTINASONG",
@@ -702,7 +707,7 @@
       "Name": "Meant To Be",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -758,7 +763,7 @@
       "Name": "Snake Charmer",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_TALKTOTHEHAND",
@@ -766,7 +771,7 @@
       "Name": "Talk To The Hand",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SG_THEANSWERISYOU",
@@ -798,7 +803,7 @@
       "Name": "The High Road",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_THEKINGOFHELL",
@@ -830,7 +835,7 @@
       "Name": "The Ultimate Sacrifice",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_THISHELLISMINE",
@@ -838,7 +843,7 @@
       "Name": "This Hell Is Mine",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SG_TOGETHERVICTORIOUS",
@@ -861,14 +866,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 116,
+      "Progressed": 117,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:09:01.8675921+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:08:22.624182+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.0565697+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:57:58.2671988+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:09:01.8676177+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:57:43.1158598+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:08:22.6242081+00:00"
 }

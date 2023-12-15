@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1333,9 +1333,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259376,
+  "EOS_Progressed": 259378,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24203,6 +24203,11 @@
       "Time": "2023-12-15T19:04:26.5495002+00:00",
       "NumProgressed": 259376,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T21:04:34.0811869+00:00",
+      "NumProgressed": 259378,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -24502,7 +24507,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59656
+      "UsersEstimate": 59657
     },
     {
       "ID": "KillOthers2",
@@ -24661,7 +24666,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259376,
+      "Progressed": 259378,
       "Completed": 3
     }
   ],
@@ -24669,8 +24674,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-15T11:02:49.2718572+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:05:46.5415439+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:04:34.0811866+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:52.9725586+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:03:11.3274405+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:05:46.5416692+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:02:48.1371708+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:04:34.0814405+00:00"
 }

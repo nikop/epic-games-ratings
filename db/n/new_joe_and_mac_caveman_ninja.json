@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238,
+  "EOS_Progressed": 239,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.52,
+  "EOS_Completed_Percentage": 2.51,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -461,6 +461,11 @@
       "Time": "2023-12-15T18:07:49.0067522+00:00",
       "NumProgressed": 238,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-15T21:07:54.0080168+00:00",
+      "NumProgressed": 239,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -472,7 +477,7 @@
       "Name": "The T-Rex plain.",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "02",
@@ -520,7 +525,7 @@
       "Name": "Swimming on a dino\u0027s back.",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "08",
@@ -558,9 +563,9 @@
       "ID": "12",
       "SetID": "6glb5g1",
       "Name": "Dinosaur graveyard.",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "13",
@@ -584,14 +589,14 @@
       "Name": "The entrails of the beast.",
       "Percentage": 9,
       "XP": 140,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 238,
+      "Progressed": 239,
       "Completed": 6
     }
   ],
@@ -599,8 +604,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:08:21.025977+00:00",
+  "LastChanged_Achievements": "2023-12-15T21:07:54.0080164+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:21.3905331+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:59:29.1008388+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:08:21.0259899+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:58:43.8866415+00:00",
+  "LastUpdate_Achievements": "2023-12-15T21:07:54.0080278+00:00"
 }

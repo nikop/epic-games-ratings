@@ -16,20 +16,20 @@ Rating: 4.44 (Ranked 682)
 | Target America | 27.00% | ~1,086 |
 | The Kraken Sleeps | 25.00% | ~1,006 |
 | As Quiet as a Mouse | 24.00% | ~966 |
-| Liberté | 23.00% | ~925 |
-| Organ Grinder | 23.00% | ~925 |
-| Sharpshooter | 23.00% | ~925 |
-| Gunslinger | 19.00% | ~764 |
-| Explosive Efficiency | 19.00% | ~764 |
+| Liberté | 23.00% | ~926 |
+| Organ Grinder | 23.00% | ~926 |
+| Sharpshooter | 23.00% | ~926 |
+| Gunslinger | 19.00% | ~765 |
+| Explosive Efficiency | 19.00% | ~765 |
 | Climbing the Ladder | 17.00% | ~684 |
 | Just a Flesh Wound | 17.00% | ~684 |
 | Der Geist | 17.00% | ~684 |
 | Close Quarters | 16.00% | ~644 |
 | Snake in the Grass | 16.00% | ~644 |
 | Brains of the Operation | 16.00% | ~644 |
-| No Stone Unturned | 15.00% | ~603 |
-| Skirmisher | 15.00% | ~603 |
-| Die Nussknacker Sweet! | 15.00% | ~603 |
+| No Stone Unturned | 15.00% | ~604 |
+| Skirmisher | 15.00% | ~604 |
+| Die Nussknacker Sweet! | 15.00% | ~604 |
 | Opposing Force | 14.00% | ~563 |
 | Enemy at the Gates | 14.00% | ~563 |
 | Fields of Glory | 14.00% | ~563 |
@@ -60,10 +60,10 @@ Rating: 4.44 (Ranked 682)
 | Eagle Eyed | 2.00% | ~80 |
 | Up close and personal | 2.00% | ~80 |
 | Can't Outrun A Bullet | 2.00% | ~80 |
-| Führerious Repetition | 2.00% | ~79 |
-| Reich To The Point | 2.00% | ~79 |
-| Covert Elimination | 2.00% | ~79 |
-| Sink or Swim | 2.00% | ~79 |
+| Führerious Repetition | 2.00% | ~80 |
+| Reich To The Point | 2.00% | ~80 |
+| Covert Elimination | 2.00% | ~80 |
+| Sink or Swim | 2.00% | ~80 |
 | Best of the Best | 1.00% | ~40 |
 | Master of Secondaries | 1.00% | ~40 |
 | Sight Beyond Sights | 1.00% | ~40 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 682)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,023 (Ranked 200)  
+Progressed: 4,024 (Ranked 200)  
 Completed: 11 (0.27%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 11 (0.27%) (Ranked 248)
 | 2023-12-12 | 4,006 | 11 |
 | 2023-12-13 | 4,009 | 11 |
 | 2023-12-14 | 4,017 | 11 |
-| 2023-12-15 | 4,023 | 11 |
+| 2023-12-15 | 4,024 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 512)  
 Sum: 28 (Ranked 528)  

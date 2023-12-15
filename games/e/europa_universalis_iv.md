@@ -9,10 +9,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 0.30% | ~1,427 |
 | Until death do us apart | 0.30% | ~1,427 |
 | Victorious! | 0.30% | ~1,427 |
-| Brothers in Arms | 0.20% | ~951 |
-| That's a Grand Navy | 0.20% | ~951 |
-| Seriously?! | 0.20% | ~951 |
-| That is mine! | 0.20% | ~951 |
+| Brothers in Arms | 0.20% | ~952 |
+| That's a Grand Navy | 0.20% | ~952 |
+| Seriously?! | 0.20% | ~952 |
+| That is mine! | 0.20% | ~952 |
 | The 52 Garhs | 0.10% | ~476 |
 | I don't like sand | 0.10% | ~476 |
 | A Blessed Nation | 0.10% | ~476 |
@@ -126,6 +126,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | I'll graze my horse here.. And here… | 0.10% | ~476 |
 | Guarantor of Peace | 0.10% | ~476 |
 | Hard Bargaining | 0.10% | ~476 |
+| Hessian Mercenaries | 0.10% | ~476 |
 | Holiest Roman Empire | 0.10% | ~476 |
 | Holy Trinity | 0.10% | ~476 |
 | Home and Away | 0.10% | ~476 |
@@ -314,7 +315,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Great Moravia | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
 | Hanukkah Mutapa | 0.00% | ~0 |
-| Hessian Mercenaries | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
 | Holy Horder | 0.00% | ~0 |
 | Ideas Guy | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 475,675 (Ranked 41)  
+Progressed: 475,769 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -609,17 +609,17 @@ Completed: 1 (0.00%) (Ranked 377)
 | 2023-12-12 | 473,663 | 1 |
 | 2023-12-13 | 474,145 | 1 |
 | 2023-12-14 | 474,899 | 1 |
-| 2023-12-15 | 475,675 | 1 |
+| 2023-12-15 | 475,769 | 1 |
 ## Awards
 Max (Educational): 7,379  (Ranked 54)  
-Sum: 60,928 (Ranked 24)  
+Sum: 60,942 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,379 |
 | This game has Diverse Characters | 7,183 |
 | This game is Highly Recommended | 7,109 |
-| This game has Challenging Combat | 7,025 |
+| This game has Challenging Combat | 7,039 |
 | This game is Extremely Fun | 6,933 |
 | This game is Relaxing | 6,794 |
 | This game has Competitive Players | 6,638 |
@@ -961,4 +961,4 @@ Diff (max vs sum): 30
 | 2023-12-12 | 4.69 | - | 7,352 | 60,573 |
 | 2023-12-13 | 4.69 | - | 7,367 | 60,723 |
 | 2023-12-14 | 4.69 | - | 7,379 | 60,850 |
-| 2023-12-15 | 4.69 | - | 7,379 | 60,928 |
+| 2023-12-15 | 4.69 | - | 7,379 | 60,942 |
