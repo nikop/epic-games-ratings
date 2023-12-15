@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7781,
+  "EOS_Progressed": 7782,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14019,6 +14019,11 @@
       "Time": "2023-12-15T19:04:55.4660607+00:00",
       "NumProgressed": 7781,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T20:06:27.1220482+00:00",
+      "NumProgressed": 7782,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -14046,7 +14051,7 @@
       "Name": "Telepathic",
       "Percentage": 8,
       "XP": 70,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "12",
@@ -14149,7 +14154,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 7781,
+      "Progressed": 7782,
       "Completed": 0
     }
   ],
@@ -14157,8 +14162,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:04:55.4660599+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:06:27.1220478+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:10.0844252+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:02:36.1729165+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:04:55.466198+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:03:04.2579281+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:06:27.122119+00:00"
 }

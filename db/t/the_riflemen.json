@@ -3,12 +3,12 @@
   "Name": "The Riflemen",
   "ProductSlug": "the-riflemen-8be608",
   "Ranking_Rating": 814,
-  "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Popularity": 565,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 33,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
     "PcReleaseDate": "2023-09-01T11:00:00+00:00",
@@ -161,11 +161,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55090,
+  "EOS_Progressed": 55132,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 4149,
+  "EOS_NewPlayers": 4154,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 21.35,
+  "EOS_Completed_Percentage": 21.33,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -12996,6 +12996,11 @@
       "Time": "2023-12-15T19:08:59.2064538+00:00",
       "NumProgressed": 55090,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-12-15T20:09:50.0619407+00:00",
+      "NumProgressed": 55132,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -13016,7 +13021,7 @@
       "Name": "First blood",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 40767
+      "UsersEstimate": 40798
     },
     {
       "ID": "grenadeKills",
@@ -13032,7 +13037,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2205
     },
     {
       "ID": "headshots1000",
@@ -13064,7 +13069,7 @@
       "Name": "Hang in there",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "matchesWon",
@@ -13119,7 +13124,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 55090,
+      "Progressed": 55132,
       "Completed": 11759
     }
   ],
@@ -13127,8 +13132,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2023-12-08T14:58:39.5420526+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:08:59.2064534+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:09:50.0619402+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:59.5320614+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:58:25.3238125+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:08:59.2065231+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:59:14.0707942+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:09:50.0620202+00:00"
 }

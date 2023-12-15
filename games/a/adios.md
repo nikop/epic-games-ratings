@@ -6,16 +6,16 @@ Rating: 3.53 (Ranked 1,061)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Be Seeing You | 22.00% | ~17,750 |
-| Master, Commander | 21.00% | ~16,943 |
-| Hard Worker | 20.00% | ~16,136 |
-| Adios, Friendo | 19.00% | ~15,329 |
-| Mechanic | 19.00% | ~15,329 |
+| Master, Commander | 21.00% | ~16,944 |
+| Hard Worker | 20.00% | ~16,137 |
+| Adios, Friendo | 19.00% | ~15,330 |
+| Mechanic | 19.00% | ~15,330 |
 | Bottom's Up | 18.00% | ~14,523 |
 | Nice Try | 16.00% | ~12,909 |
-| Right On Target | 14.00% | ~11,295 |
+| Right On Target | 14.00% | ~11,296 |
 | Piano Man | 11.00% | ~8,875 |
-| Lazy Bones | 9.00% | ~7,261 |
-| Vinyl Vibes | 8.00% | ~6,454 |
+| Lazy Bones | 9.00% | ~7,262 |
+| Vinyl Vibes | 8.00% | ~6,455 |
 | Nothing Left to Say | 7.00% | ~5,648 |
 | Sniper | 7.00% | ~5,648 |
 | Cut Call | 6.00% | ~4,841 |
@@ -23,16 +23,16 @@ Rating: 3.53 (Ranked 1,061)
 | Butcher | 4.00% | ~3,227 |
 | Fair's Fair | 4.00% | ~3,227 |
 | Spicy | 4.00% | ~3,227 |
-| A Man Of Taste | 3.00% | ~2,420 |
-| Ace in the Hole | 3.00% | ~2,420 |
-| Hearty | 3.00% | ~2,420 |
-| Meaty | 3.00% | ~2,420 |
-| Taco Toto | 3.00% | ~2,420 |
+| A Man Of Taste | 3.00% | ~2,421 |
+| Ace in the Hole | 3.00% | ~2,421 |
+| Hearty | 3.00% | ~2,421 |
+| Meaty | 3.00% | ~2,421 |
+| Taco Toto | 3.00% | ~2,421 |
 | Audiophile | 2.00% | ~1,614 |
 | Tape Head | 2.00% | ~1,614 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,681 (Ranked 99)  
-Completed: 877 (1.09%) (Ranked 165)  
+Progressed: 80,684 (Ranked 99)  
+Completed: 877 (1.09%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -270,7 +270,7 @@ Completed: 877 (1.09%) (Ranked 165)
 | 2023-12-12 | 80,450 | 874 |
 | 2023-12-13 | 80,513 | 876 |
 | 2023-12-14 | 80,603 | 877 |
-| 2023-12-15 | 80,681 | 877 |
+| 2023-12-15 | 80,684 | 877 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,12 +3,12 @@
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
   "Ranking_Rating": 1007,
-  "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Popularity": 565,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 630,
+  "EOS_Progressed": 632,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2838,6 +2838,11 @@
       "Time": "2023-12-15T19:03:27.9503717+00:00",
       "NumProgressed": 630,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T20:04:24.3324412+00:00",
+      "NumProgressed": 632,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2873,7 +2878,7 @@
       "Name": "From the Pages of History",
       "Percentage": 8,
       "XP": 85,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
@@ -2903,7 +2908,7 @@
       "ID": "REACH_DECEMBER_1919",
       "SetID": "6kcl14p",
       "Name": "That\u0027s Not What Happened",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 70,
       "UsersEstimate": 6
     },
@@ -2913,7 +2918,7 @@
       "Name": "Earth Shattering",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -2927,9 +2932,9 @@
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
       "SetID": "6kcl14p",
       "Name": "Das Ist Endg\u00FCltig!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 107
+      "UsersEstimate": 101
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -2944,7 +2949,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 630,
+      "Progressed": 632,
       "Completed": 0
     }
   ],
@@ -2952,8 +2957,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:03:27.950371+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:04:24.3324407+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:05.7146339+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:58:25.5626907+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:03:27.9503951+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:59:14.3229432+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:04:24.3324665+00:00"
 }

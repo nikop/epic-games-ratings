@@ -9,11 +9,11 @@
 | Oo-De-Lally | 69.00% | ~49 |
 | Treasure Hunter | 68.00% | ~48 |
 | The Altruist | 68.00% | ~48 |
-| Watch your Step! | 52.00% | ~37 |
-| Tap Dancing | 49.00% | ~35 |
-| MAX LEVEL | 48.00% | ~34 |
+| Tap Dancing | 54.00% | ~38 |
+| Watch your Step! | 54.00% | ~38 |
+| MAX LEVEL | 52.00% | ~37 |
 | Right between the eyes | 44.00% | ~31 |
-| Spring Board | 41.00% | ~29 |
+| Spring Board | 42.00% | ~30 |
 | Starry Night | 39.00% | ~28 |
 | Rebel Unleashed | 37.00% | ~26 |
 | Locksley's Tears | 34.00% | ~24 |
@@ -22,9 +22,9 @@
 | Finish Him! | 28.00% | ~20 |
 | Savior | 24.00% | ~17 |
 | Ultra Rebel Instinct | 24.00% | ~17 |
-| Merry Go Round | 21.00% | ~15 |
+| Merry Go Round | 23.00% | ~16 |
+| First Aid | 21.00% | ~15 |
 | Take Action! | 20.00% | ~14 |
-| First Aid | 20.00% | ~14 |
 | Ascending Will | 15.00% | ~11 |
 | Ultra Combo | 15.00% | ~11 |
 | Hidden Experiment | 14.00% | ~10 |

@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~135 |
+| Malpractice Assurance | 6.00% | ~136 |
 | This guy... again? | 3.00% | ~68 |
 | Bloody Graduation | 3.00% | ~68 |
 | Lost and Found | 3.00% | ~68 |
@@ -31,10 +31,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 1.00% | ~1,274 |
 | FNG | 1.00% | ~1,274 |
 | Nope | 1.00% | ~1,274 |
-| Friends 'Til the End | 1.00% | ~22 |
-| Dissector | 0.90% | ~1,146 |
-| Deprogramming | 0.90% | ~1,146 |
-| Worldly Traveller | 0.90% | ~1,146 |
+| Friends 'Til the End | 1.00% | ~23 |
+| Dissector | 0.90% | ~1,147 |
+| Deprogramming | 0.90% | ~1,147 |
+| Worldly Traveller | 0.90% | ~1,147 |
 | Banishment | 0.80% | ~1,019 |
 | Now Stay Dead | 0.80% | ~1,019 |
 | Reverse Banditry | 0.80% | ~1,019 |
@@ -73,7 +73,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hat Trick | 0.20% | ~255 |
 | Triage | 0.20% | ~255 |
 | Eidetic | 0.20% | ~255 |
-| Battle Hardened | 0.20% | ~4 |
+| Battle Hardened | 0.20% | ~5 |
 | Loop Year | 0.10% | ~127 |
 | Circle of Life | 0.10% | ~127 |
 | No Gravestone Left Unturned | 0.10% | ~127 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,381 (Ranked 84)  
+Progressed: 127,397 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
-| 2023-12-15 | 127,381 | 3 |
+| 2023-12-15 | 127,397 | 3 |
 ## Awards
 Max (Character Customization): 7,718  (Ranked 51)  
 Sum: 20,498 (Ranked 59)  

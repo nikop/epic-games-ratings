@@ -3461,9 +3461,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18253,
+  "EOS_Progressed": 18259,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15841,6 +15841,11 @@
       "Time": "2023-12-15T19:03:49.9892921+00:00",
       "NumProgressed": 18253,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-15T20:04:55.1904876+00:00",
+      "NumProgressed": 18259,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15923,9 +15928,9 @@
       "ID": "MetalChain",
       "SetID": "cfbk359",
       "Name": "Refinery",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 73
     },
     {
       "ID": "Win5Years",
@@ -16324,15 +16329,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18253,
+      "Progressed": 18259,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-15T16:01:40.7819682+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:03:49.9892918+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:04:55.1904871+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:00:06.2335775+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:03:49.9893969+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:01:46.0173241+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:04:55.190584+00:00"
 }

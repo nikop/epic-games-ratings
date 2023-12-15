@@ -3,12 +3,12 @@
   "Name": "The Surge",
   "ProductSlug": "the-surge",
   "Ranking_Rating": 698,
-  "Ranking_Popularity": 507,
-  "Ranking_PopularitySum": 524,
+  "Ranking_Popularity": 506,
+  "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4893,
+  "EOS_Progressed": 4894,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3481,6 +3481,11 @@
       "Time": "2023-12-15T18:04:14.7154396+00:00",
       "NumProgressed": 4893,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-15T20:05:08.8610278+00:00",
+      "NumProgressed": 4894,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3490,9 +3495,9 @@
       "ID": "ID_ACHIEV_01",
       "SetID": "98bke8c",
       "Name": "P.A.X",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1811
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -3540,7 +3545,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4160
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3548,7 +3553,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4599
+      "UsersEstimate": 4600
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3564,7 +3569,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -3628,7 +3633,7 @@
       "Name": "Pusher Man",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ID_ACHIEV_19",
@@ -3740,7 +3745,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -3764,7 +3769,7 @@
       "Name": "Infidel",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -3836,7 +3841,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1761
+      "UsersEstimate": 1762
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -3868,7 +3873,7 @@
       "Name": "Squad Chief Helvig",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ID_ACHIEV_50",
@@ -4027,15 +4032,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4893,
+      "Progressed": 4894,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:03:59.7284272+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:05:08.8610238+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.6535047+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:59:57.1357499+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:03:59.7285054+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:01:31.5452083+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:05:08.8610908+00:00"
 }

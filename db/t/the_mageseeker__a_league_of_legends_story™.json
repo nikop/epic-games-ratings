@@ -3,12 +3,12 @@
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
   "Ranking_Rating": 84,
-  "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Popularity": 565,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2769,
+  "EOS_Progressed": 2771,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4389,6 +4389,11 @@
       "Time": "2023-12-15T19:04:41.8987004+00:00",
       "NumProgressed": 2769,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-15T20:06:07.9775969+00:00",
+      "NumProgressed": 2771,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -4398,9 +4403,9 @@
       "ID": "STB_COLISSEUM_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Embrace the darkness",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 120,
-      "UsersEstimate": 388
+      "UsersEstimate": 360
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -4408,7 +4413,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -4456,7 +4461,7 @@
       "Name": "No more holding back",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -4464,7 +4469,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2660
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -4480,7 +4485,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -4504,7 +4509,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -4536,7 +4541,7 @@
       "Name": "Old friend",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -4552,7 +4557,7 @@
       "Name": "Do you trust me?",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -4576,7 +4581,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2134
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -4584,7 +4589,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2520
+      "UsersEstimate": 2522
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -4616,7 +4621,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2134
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -4624,7 +4629,7 @@
       "Name": "Thornbarrow",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -4632,7 +4637,7 @@
       "Name": "Clarion Cove",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -4656,7 +4661,7 @@
       "Name": "Glyndemere",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -4672,7 +4677,7 @@
       "Name": "Terbisia",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -4704,7 +4709,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "STB_PET_HORSE",
@@ -4728,7 +4733,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -4736,7 +4741,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -4744,7 +4749,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -4752,7 +4757,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -4776,7 +4781,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2049
+      "UsersEstimate": 2051
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -4823,7 +4828,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2769,
+      "Progressed": 2771,
       "Completed": 16
     }
   ],
@@ -4831,8 +4836,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-10T13:58:41.8193759+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:04:41.8986999+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:06:07.9775967+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:11.016025+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:57:22.4427447+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:04:41.8987567+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:57:40.4232128+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:06:07.9776528+00:00"
 }

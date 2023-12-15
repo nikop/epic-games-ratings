@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1114,
+  "EOS_Progressed": 1116,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.03,
+  "EOS_Completed_Percentage": 5.02,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -4115,6 +4115,11 @@
       "Time": "2023-12-15T19:04:39.2743788+00:00",
       "NumProgressed": 1114,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-15T20:06:04.107978+00:00",
+      "NumProgressed": 1116,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 25,
@@ -4198,7 +4203,7 @@
       "Name": "A great audience",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "META_RESULT_2-4",
@@ -4246,7 +4251,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -4260,9 +4265,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 201
+      "UsersEstimate": 190
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -4270,7 +4275,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -4278,7 +4283,7 @@
       "Name": "Scholar",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "PROGRESS_N1",
@@ -4286,7 +4291,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "PROGRESS_N2",
@@ -4294,7 +4299,7 @@
       "Name": "The great escape",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "PROGRESS_N3",
@@ -4302,7 +4307,7 @@
       "Name": "A new dawn",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "PROGRESS_N4",
@@ -4325,14 +4330,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1114,
+      "Progressed": 1116,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:04:39.2743784+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:06:04.1079776+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:59:23.5075724+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:04:39.2744156+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:00:40.6193109+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:06:04.1080088+00:00"
 }

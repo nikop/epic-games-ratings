@@ -6,29 +6,29 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 2.00% | ~14,528 |
-| The Assault | 1.00% | ~7,264 |
-| The Hateful Pole Fighter | 1.00% | ~7,264 |
-| Life is your teacher | 1.00% | ~7,264 |
-| State of constant learning | 1.00% | ~7,264 |
-| Lightning Hands | 1.00% | ~7,264 |
-| Diligence as a goal | 1.00% | ~357 |
+| The Old Grandmaster | 2.00% | ~14,529 |
+| The Assault | 1.00% | ~7,265 |
+| The Hateful Pole Fighter | 1.00% | ~7,265 |
+| Life is your teacher | 1.00% | ~7,265 |
+| State of constant learning | 1.00% | ~7,265 |
+| Lightning Hands | 1.00% | ~7,265 |
+| Diligence as a goal | 1.00% | ~358 |
 | Qi Gong: Breath | 0.90% | ~6,538 |
 | Qi Gong: Essence | 0.90% | ~6,538 |
 | Old Child | 0.90% | ~6,538 |
 | Rumble in the Hangar | 0.90% | ~6,538 |
-| Project Arena | 0.90% | ~321 |
-| A Lady's Blood in the Snow | 0.80% | ~5,811 |
-| Stuntmaster | 0.80% | ~5,811 |
-| Street Fighting | 0.80% | ~5,811 |
-| Path of the Prospect | 0.80% | ~5,811 |
+| Project Arena | 0.90% | ~322 |
+| A Lady's Blood in the Snow | 0.80% | ~5,812 |
+| Stuntmaster | 0.80% | ~5,812 |
+| Street Fighting | 0.80% | ~5,812 |
+| Path of the Prospect | 0.80% | ~5,812 |
 | Lady Wing Chun | 0.70% | ~5,085 |
 | Furious Fists | 0.70% | ~5,085 |
 | Kill Nil | 0.70% | ~5,085 |
 | Qi Gong: Mind | 0.60% | ~4,359 |
 | I know Kung-Fu | 0.60% | ~4,359 |
 | Take damage to save time | 0.60% | ~4,359 |
-| Fight the way you practice | 0.60% | ~214 |
+| Fight the way you practice | 0.60% | ~215 |
 | Scareless | 0.50% | ~3,632 |
 | Dance of the Praying Mantis | 0.50% | ~3,632 |
 | Kung-Fu Tussle | 0.50% | ~3,632 |
@@ -47,10 +47,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Knowledge Greed | 0.20% | ~1,453 |
 | The Pit Protector | 0.20% | ~1,453 |
 | Come Snap With Me | 0.20% | ~1,453 |
-| Deadly Venom | 0.20% | ~71 |
-| A Touch of Acumen | 0.20% | ~71 |
-| Skill and an even stronger will | 0.20% | ~71 |
-| Beatmaker | 0.20% | ~71 |
+| Deadly Venom | 0.20% | ~72 |
+| A Touch of Acumen | 0.20% | ~72 |
+| Skill and an even stronger will | 0.20% | ~72 |
+| Beatmaker | 0.20% | ~72 |
 | Drunken Fighter | 0.10% | ~726 |
 | Martial Artist | 0.10% | ~726 |
 | Healing Memory | 0.10% | ~726 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~36 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,420 (Ranked 24)  
+Progressed: 726,455 (Ranked 24)  
 Completed: 12,953 (1.78%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 12,953 (1.78%) (Ranked 135)
 | 2023-12-12 | 717,993 | 12,952 |
 | 2023-12-13 | 718,112 | 12,953 |
 | 2023-12-14 | 722,433 | 12,953 |
-| 2023-12-15 | 726,420 | 12,953 |
+| 2023-12-15 | 726,455 | 12,953 |
 ## Awards
 Max (Great Boss Battles): 6,930  (Ranked 55)  
 Sum: 12,162 (Ranked 83)  

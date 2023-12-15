@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2762,
+  "EOS_Progressed": 2764,
   "EOS_Completed": 252,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 9.12,
   "EosHistory": [
@@ -7796,6 +7796,11 @@
       "Time": "2023-12-15T17:08:13.3540504+00:00",
       "NumProgressed": 2762,
       "NumCompleted": 252
+    },
+    {
+      "Time": "2023-12-15T20:09:26.8752245+00:00",
+      "NumProgressed": 2764,
+      "NumCompleted": 252
     }
   ],
   "TotalAchievements": 12,
@@ -7807,7 +7812,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "Bernard",
@@ -7847,15 +7852,15 @@
       "Name": "Jakob",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "Jude",
       "SetID": "b40dflc",
       "Name": "Jude",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 387
+      "UsersEstimate": 359
     },
     {
       "ID": "Le Juif et la France",
@@ -7871,7 +7876,7 @@
       "Name": "Little Helper",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -7887,7 +7892,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Nuremberg Laws",
@@ -7895,14 +7900,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2762,
+      "Progressed": 2764,
       "Completed": 252
     }
   ],
@@ -7910,8 +7915,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:08:43.0895102+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:09:26.8752242+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:16.4804241+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:57:03.5218043+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:08:43.0895632+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:57:12.517055+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:09:26.8752669+00:00"
 }

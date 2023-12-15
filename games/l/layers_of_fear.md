@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 79.00% | ~96 |
-| Wanderer | 70.00% | ~85 |
+| Something important | 79.00% | ~97 |
+| Wanderer | 70.00% | ~86 |
 | A piece of the story | 57.00% | ~70 |
 | It's covered up for a reason | 44.00% | ~54 |
 | Do what you have to | 44.00% | ~54 |
-| Scraps of love | 43.00% | ~52 |
-| The artist’s impression | 43.00% | ~52 |
-| Sign of weakness | 37.00% | ~45 |
+| Scraps of love | 43.00% | ~53 |
+| The artist’s impression | 42.00% | ~52 |
+| Sign of weakness | 37.00% | ~46 |
 | Refuse to look | 36.00% | ~44 |
-| Finished it | 30.00% | ~37 |
+| Finished it | 29.00% | ~36 |
 | Face your fears | 28.00% | ~34 |
 | Whispers long forgotten | 16.00% | ~20 |
 | Playtime | 13.00% | ~16 |
@@ -21,10 +21,10 @@
 | Debut | 12.00% | ~15 |
 | The art of movement | 12.00% | ~15 |
 | The tragedy unfolds | 12.00% | ~15 |
-| A new way | 11.00% | ~13 |
-| A Slice of Life | 11.00% | ~13 |
-| First steps | 11.00% | ~13 |
-| Sound Bite | 11.00% | ~13 |
+| A new way | 11.00% | ~14 |
+| A Slice of Life | 11.00% | ~14 |
+| First steps | 11.00% | ~14 |
+| Sound Bite | 11.00% | ~14 |
 | Another perspective | 10.00% | ~12 |
 | Breaking free | 10.00% | ~12 |
 | Lights! Camera! Action! | 10.00% | ~12 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122 (Ranked 431)  
+Progressed: 123 (Ranked 431)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,4 +110,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-09 | 108 | 0 |
 | 2023-12-13 | 109 | 0 |
 | 2023-12-14 | 117 | 0 |
-| 2023-12-15 | 122 | 0 |
+| 2023-12-15 | 123 | 0 |

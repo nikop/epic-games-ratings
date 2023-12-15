@@ -3,12 +3,12 @@
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 928,
-  "Ranking_Popularity": 465,
+  "Ranking_Popularity": 466,
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -961,9 +961,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 6974,
+  "EOS_Progressed": 6976,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11186,6 +11186,11 @@
       "Time": "2023-12-15T19:04:09.0465815+00:00",
       "NumProgressed": 6974,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T20:05:21.9341066+00:00",
+      "NumProgressed": 6976,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11213,7 +11218,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -11245,7 +11250,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -11269,7 +11274,7 @@
       "Name": "License to Gill",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -11301,7 +11306,7 @@
       "Name": "Goldfish?",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -11309,7 +11314,7 @@
       "Name": "Going for Gold",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -11317,7 +11322,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -11427,9 +11432,9 @@
       "ID": "ACHIEVEMENT_030",
       "SetID": "1a05lfd",
       "Name": "Gonna Need a Bigger Boat",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -11516,13 +11521,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6974,
+      "Progressed": 6976,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6346,
+      "Progressed": 6348,
       "Completed": 113
     }
   ],
@@ -11530,8 +11535,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-15T01:46:12.7842715+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:04:09.0465811+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:05:21.9341064+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:44.0991613+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:57:45.238264+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:04:09.0466679+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:58:16.5892242+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:05:21.93417+00:00"
 }

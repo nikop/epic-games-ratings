@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 59.00% | ~124 |
-| Press-ganged | 42.00% | ~88 |
+| A Second Chance | 58.00% | ~122 |
+| Press-ganged | 42.00% | ~89 |
 | The Package | 26.00% | ~55 |
-| Conquered | 20.00% | ~42 |
+| Conquered | 19.00% | ~40 |
 | Randomized | 18.00% | ~38 |
 | Scribe | 12.00% | ~25 |
 | Breached | 12.00% | ~25 |
 | Tactician | 11.00% | ~23 |
-| Conciliator | 10.00% | ~21 |
+| Conciliator | 9.00% | ~19 |
 | Fight Another Day | 9.00% | ~19 |
 | Taskmaster | 9.00% | ~19 |
 | Acquaintance | 8.00% | ~17 |
@@ -21,10 +21,10 @@
 | Harbinger | 7.00% | ~15 |
 | Tail-wind | 7.00% | ~15 |
 | Courier | 6.00% | ~13 |
-| Strategist | 5.00% | ~10 |
-| Deputized | 5.00% | ~10 |
-| Pilgrimage's End | 5.00% | ~10 |
-| Merchant | 5.00% | ~10 |
+| Strategist | 5.00% | ~11 |
+| Deputized | 5.00% | ~11 |
+| Pilgrimage's End | 5.00% | ~11 |
+| Merchant | 5.00% | ~11 |
 | Quartermaster | 4.00% | ~8 |
 | The Voice of Hereafter | 4.00% | ~8 |
 | Despised | 4.00% | ~8 |
@@ -49,22 +49,22 @@
 | Merchant Lord | 2.00% | ~4 |
 | Insectoid Propagator | 2.00% | ~4 |
 | Making Contact | 1.00% | ~2 |
-| Watcher | 1.00% | ~2 |
-| Executor | 1.00% | ~2 |
 | Loremaster | 1.00% | ~2 |
-| Adept | 1.00% | ~2 |
-| Embellished | 1.00% | ~2 |
-| Ever After | 1.00% | ~2 |
-| Trailblazer | 1.00% | ~2 |
 | Moving At Odd Angles | 1.00% | ~2 |
-| Escort | 1.00% | ~2 |
-| Ruiner | 1.00% | ~2 |
-| What Lies Below | 1.00% | ~2 |
-| The Last Voyage | 1.00% | ~2 |
-| Theory to Practice | 1.00% | ~2 |
 | Wyrmslayer | 1.00% | ~2 |
-| Glorious leader | 1.00% | ~2 |
 | Voracity Confronted | 1.00% | ~2 |
+| Watcher | 0.90% | ~2 |
+| Executor | 0.90% | ~2 |
+| Adept | 0.90% | ~2 |
+| Embellished | 0.90% | ~2 |
+| Ever After | 0.90% | ~2 |
+| Trailblazer | 0.90% | ~2 |
+| Escort | 0.90% | ~2 |
+| Ruiner | 0.90% | ~2 |
+| What Lies Below | 0.90% | ~2 |
+| The Last Voyage | 0.90% | ~2 |
+| Theory to Practice | 0.90% | ~2 |
+| Glorious leader | 0.90% | ~2 |
 | And the Sky Full of Stars | 0.50% | ~1 |
 | General | 0.50% | ~1 |
 | Company of Heroes | 0.50% | ~1 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210 (Ranked 396)  
+Progressed: 211 (Ranked 396)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-08 | 206 | 0 |
 | 2023-12-12 | 207 | 0 |
 | 2023-12-14 | 209 | 0 |
-| 2023-12-15 | 210 | 0 |
+| 2023-12-15 | 211 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

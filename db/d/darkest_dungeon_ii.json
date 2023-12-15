@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9744,9 +9744,9 @@
       "Count": 1004
     }
   ],
-  "EOS_Progressed": 127381,
+  "EOS_Progressed": 127397,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1539,
+  "EOS_NewPlayers": 1554,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35189,6 +35189,11 @@
       "Time": "2023-12-15T19:08:49.8496779+00:00",
       "NumProgressed": 127381,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T20:09:36.9507083+00:00",
+      "NumProgressed": 127397,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35336,7 +35341,7 @@
       "Name": "Dissector",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "combat_kill_cosmic",
@@ -35368,7 +35373,7 @@
       "Name": "Deprogramming",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -35616,7 +35621,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -35720,7 +35725,7 @@
       "Name": "Battle Hardened",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -35736,7 +35741,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "combat_kill_collector",
@@ -35808,7 +35813,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -35831,21 +35836,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127381,
+      "Progressed": 127397,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2250,
+      "Progressed": 2266,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-15T15:00:35.0080552+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:08:49.8496775+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:09:36.9507079+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:00:10.1558961+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:08:49.849893+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:02:42.125259+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:09:36.9508789+00:00"
 }

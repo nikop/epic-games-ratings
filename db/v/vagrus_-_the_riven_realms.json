@@ -4,8 +4,8 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 211,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -816,6 +816,11 @@
       "Time": "2023-12-15T04:05:43.8055994+00:00",
       "NumProgressed": 210,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T20:07:44.9114535+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -881,9 +886,9 @@
       "ID": "Vanilla_AppeaseInAFight",
       "SetID": "27kik8p",
       "Name": "Conciliator",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "Vanilla_AutoSavesOnly",
@@ -929,7 +934,7 @@
       "ID": "Vanilla_ChurchOfAhskul",
       "SetID": "27kik8p",
       "Name": "Watcher",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -937,7 +942,7 @@
       "ID": "Vanilla_ChurchOfSergorod",
       "SetID": "27kik8p",
       "Name": "Executor",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -979,7 +984,7 @@
       "Name": "Strategist",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Vanilla_CombatStrenghtTier3",
@@ -1001,7 +1006,7 @@
       "ID": "Vanilla_CompanionSkillsMaxedOut",
       "SetID": "27kik8p",
       "Name": "Adept",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1033,7 +1038,7 @@
       "ID": "Vanilla_CompleteAllSideQuests",
       "SetID": "27kik8p",
       "Name": "Embellished",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1057,9 +1062,9 @@
       "ID": "Vanilla_Defeated",
       "SetID": "27kik8p",
       "Name": "Conquered",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "Vanilla_DeputiesMaxedOut",
@@ -1067,7 +1072,7 @@
       "Name": "Deputized",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Vanilla_DiscoverAllLocations",
@@ -1121,7 +1126,7 @@
       "ID": "Vanilla_Eylani",
       "SetID": "27kik8p",
       "Name": "Ever After",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1257,7 +1262,7 @@
       "ID": "Vanilla_HouseOquo",
       "SetID": "27kik8p",
       "Name": "Trailblazer",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -1361,7 +1366,7 @@
       "ID": "Vanilla_PassengerDelivers",
       "SetID": "27kik8p",
       "Name": "Escort",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1379,7 +1384,7 @@
       "Name": "Press-ganged",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1417,7 +1422,7 @@
       "ID": "Vanilla_Ruiner",
       "SetID": "27kik8p",
       "Name": "Ruiner",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1441,15 +1446,15 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 122
     },
     {
       "ID": "Vanilla_SecretsBelow",
       "SetID": "27kik8p",
       "Name": "What Lies Below",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1465,7 +1470,7 @@
       "ID": "Vanilla_Skornar",
       "SetID": "27kik8p",
       "Name": "The Last Voyage",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1497,7 +1502,7 @@
       "ID": "Vanilla_TheGoldenTheory",
       "SetID": "27kik8p",
       "Name": "Theory to Practice",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1515,7 +1520,7 @@
       "Name": "Pilgrimage\u0027s End",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Vanilla_TheReturnOfTheWyrms",
@@ -1555,7 +1560,7 @@
       "Name": "Merchant",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Vanilla_TradeTasksTier2",
@@ -1585,7 +1590,7 @@
       "ID": "Vanilla_VagrusMaxedOut",
       "SetID": "27kik8p",
       "Name": "Glorious leader",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1618,7 +1623,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 211,
       "Completed": 0
     }
   ],
@@ -1626,8 +1631,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:05:50.5839282+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:07:44.9114532+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.4841893+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:59:50.0467346+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:05:50.5840203+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:01:21.4185164+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:07:44.9115586+00:00"
 }

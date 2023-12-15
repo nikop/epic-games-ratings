@@ -46,6 +46,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Just Chilling | 0.40% | ~964 |
 | Save Our Souls | 0.40% | ~964 |
 | Destroy Your Fears | 0.40% | ~964 |
+| Stop Hitting Yourself | 0.40% | ~964 |
 | Doing Time | 0.40% | ~964 |
 | Acid Bath | 0.40% | ~964 |
 | New Perspectives | 0.40% | ~964 |
@@ -60,7 +61,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Berzerker | 0.30% | ~723 |
 | Don't Ignore Me! | 0.30% | ~723 |
 | All Consuming | 0.30% | ~723 |
-| Stop Hitting Yourself | 0.30% | ~723 |
 | Illuminate, Eliminate | 0.30% | ~723 |
 | Chain Reaction | 0.30% | ~723 |
 | Spreading Plague | 0.30% | ~723 |

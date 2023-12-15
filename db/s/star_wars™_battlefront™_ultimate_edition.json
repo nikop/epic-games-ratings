@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1745,
+  "EOS_Progressed": 1747,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5259,6 +5259,11 @@
       "Time": "2023-12-15T19:09:44.4664+00:00",
       "NumProgressed": 1745,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T20:10:53.2434039+00:00",
+      "NumProgressed": 1747,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5367,7 +5372,7 @@
       "Name": "Collector",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "achievement_21",
@@ -5375,7 +5380,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "achievement_22",
@@ -5495,7 +5500,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1555
     },
     {
       "ID": "achievement_36",
@@ -5511,7 +5516,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "achievement_38",
@@ -5543,7 +5548,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "achievement_41",
@@ -5575,7 +5580,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "achievement_45",
@@ -5623,7 +5628,7 @@
       "Name": "Shoot first",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "achievement_50",
@@ -5677,9 +5682,9 @@
       "ID": "achievement_56",
       "SetID": "cemm4l8",
       "Name": "Support the troops",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 105
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_57",
@@ -5774,13 +5779,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1745,
+      "Progressed": 1747,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1745,
+      "Progressed": 1747,
       "Completed": 1
     }
   ],
@@ -5788,8 +5793,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:09:44.4663994+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:10:53.2434034+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.6035488+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:58:38.0160186+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:09:44.4664789+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:59:34.9293062+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:10:53.2434744+00:00"
 }

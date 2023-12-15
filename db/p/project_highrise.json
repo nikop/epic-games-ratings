@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 370,
+  "EOS_Progressed": 371,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1050,6 +1050,11 @@
       "Time": "2023-12-15T18:04:48.2603635+00:00",
       "NumProgressed": 370,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T20:05:51.1239931+00:00",
+      "NumProgressed": 371,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1069,15 +1074,15 @@
       "Name": "Meet ADA/360",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_apartments_1",
       "SetID": "b8gh1fi",
       "Name": "Lux Living",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 74
     },
     {
       "ID": "ach_apartments_2",
@@ -1085,7 +1090,7 @@
       "Name": "Penthouse in the Sky",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_area",
@@ -1093,7 +1098,7 @@
       "Name": "Floor Galore",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ach_area_1",
@@ -1147,9 +1152,9 @@
       "ID": "ach_buzz",
       "SetID": "b8gh1fi",
       "Name": "Campaign Launch",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 148
     },
     {
       "ID": "ach_campaigns_1",
@@ -1189,7 +1194,7 @@
       "Name": "Baron of Business",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_consultant",
@@ -1205,7 +1210,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ach_consultants_a",
@@ -1269,7 +1274,7 @@
       "Name": "Proper Walls",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ach_drones",
@@ -1485,7 +1490,7 @@
       "Name": "People Mover",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ach_pop_2",
@@ -1501,7 +1506,7 @@
       "Name": "Your Prestige is Rising",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ach_prestige_2",
@@ -1517,7 +1522,7 @@
       "Name": "Sky High Stature",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_profit_0",
@@ -1525,7 +1530,7 @@
       "Name": "In the Black",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ach_profit_1",
@@ -1581,7 +1586,7 @@
       "Name": "Dinner Dash",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ach_restaurants_4",
@@ -1619,17 +1624,17 @@
       "ID": "ach_retail_3",
       "SetID": "b8gh1fi",
       "Name": "Leveled Up Shops",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 74
     },
     {
       "ID": "ach_retail_4",
       "SetID": "b8gh1fi",
       "Name": "Boutique Benefits",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_revs_1",
@@ -1757,14 +1762,14 @@
       "Name": "Destination Destiny",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 370,
+      "Progressed": 371,
       "Completed": 0
     }
   ],
@@ -1772,8 +1777,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:04:30.0472747+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:05:51.1239928+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:02.639298+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:59:52.5873106+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:04:30.0473485+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:01:24.7459663+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:05:51.1240654+00:00"
 }

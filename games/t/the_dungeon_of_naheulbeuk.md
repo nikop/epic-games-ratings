@@ -6,21 +6,21 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,446 |
-| Alt+F4 | 9.00% | ~21,862 |
-| Where's that freaking Dwarf? | 8.00% | ~19,432 |
-| Déjà vu | 7.00% | ~17,003 |
-| Sock! SOCK! | 6.00% | ~14,574 |
-| A beer, two curses, three companions | 5.00% | ~12,145 |
-| GG EZ | 5.00% | ~12,145 |
-| Speedrun | 5.00% | ~12,145 |
-| DM intervention | 4.00% | ~9,716 |
-| Fireproof Wizardess | 4.00% | ~9,716 |
-| Livin' in a dwarven paradise | 3.00% | ~7,287 |
-| Way of the Wimp | 3.00% | ~7,287 |
-| The plot thickens... At the tavern | 3.00% | ~7,287 |
-| The demons' feast | 3.00% | ~7,287 |
-| The Woman in the High Castle | 3.00% | ~7,287 |
+| Sowwy! | 36.00% | ~87,450 |
+| Alt+F4 | 9.00% | ~21,863 |
+| Where's that freaking Dwarf? | 8.00% | ~19,433 |
+| Déjà vu | 7.00% | ~17,004 |
+| Sock! SOCK! | 6.00% | ~14,575 |
+| A beer, two curses, three companions | 5.00% | ~12,146 |
+| GG EZ | 5.00% | ~12,146 |
+| Speedrun | 5.00% | ~12,146 |
+| DM intervention | 4.00% | ~9,717 |
+| Fireproof Wizardess | 4.00% | ~9,717 |
+| Livin' in a dwarven paradise | 3.00% | ~7,288 |
+| Way of the Wimp | 3.00% | ~7,288 |
+| The plot thickens... At the tavern | 3.00% | ~7,288 |
+| The demons' feast | 3.00% | ~7,288 |
+| The Woman in the High Castle | 3.00% | ~7,288 |
 | Shiny and Crôm | 2.00% | ~4,858 |
 | The Great Library | 2.00% | ~4,858 |
 | Torture and Sensibility | 2.00% | ~4,858 |
@@ -48,8 +48,8 @@ Number of Ratings: 118  (23.09.2022)
 | Lëgal Legend | 0.90% | ~2,186 |
 | We come in peace | 0.80% | ~1,943 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,700 |
-| Holistic Adventuring Party | 0.60% | ~1,457 |
-| Law and Order | 0.60% | ~1,457 |
+| Holistic Adventuring Party | 0.60% | ~1,458 |
+| Law and Order | 0.60% | ~1,458 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,215 |
 | It's been a hard day's night | 0.50% | ~1,215 |
 | Friendly fire | 0.40% | ~972 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~243 |
 | Dwarf Candy | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,906 (Ranked 64)  
+Progressed: 242,917 (Ranked 64)  
 Completed: 7 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 7 (0.00%) (Ranked 377)
 | 2023-12-12 | 242,492 | 7 |
 | 2023-12-13 | 242,616 | 7 |
 | 2023-12-14 | 242,763 | 7 |
-| 2023-12-15 | 242,906 | 7 |
+| 2023-12-15 | 242,917 | 7 |
 ## Awards
 Max (Character Customization): 246  (Ranked 273)  
 Sum: 518 (Ranked 327)  

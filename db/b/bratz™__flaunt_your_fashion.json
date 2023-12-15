@@ -4,8 +4,8 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -353,9 +353,9 @@
       "ID": "10",
       "SetID": "41h3j82",
       "Name": "Born to Win",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 70,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "11",
@@ -441,9 +441,9 @@
       "ID": "3",
       "SetID": "41h3j82",
       "Name": "Welcome to Seoul",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 70,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "4",
@@ -457,9 +457,9 @@
       "ID": "5",
       "SetID": "41h3j82",
       "Name": "We will need a bigger wardrobe",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 70,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "6",
@@ -506,8 +506,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:05:17.3662877+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:06:57.6725452+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:26.8638955+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:59:07.5383027+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:05:17.3663011+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:00:16.3495579+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:06:57.6725556+00:00"
 }

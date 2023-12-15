@@ -1,21 +1,21 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.60 (Ranked 421)  
+Rating: 4.60 (Ranked 420)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Beginner | 94.00% | ~75 |
-| Map reader | 76.00% | ~61 |
-| Philanthropist | 70.00% | ~56 |
+| Map reader | 78.00% | ~62 |
+| Philanthropist | 71.00% | ~57 |
 | Adventurer | 70.00% | ~56 |
-| The brave little tailor | 51.00% | ~41 |
+| The brave little tailor | 53.00% | ~42 |
 | Archer | 51.00% | ~41 |
 | Field hand | 45.00% | ~36 |
 | Samaritan | 44.00% | ~35 |
 | Well-to-do | 41.00% | ~33 |
 | The merciful one | 40.00% | ~32 |
-| Ladies' man | 38.00% | ~30 |
+| Ladies' man | 39.00% | ~31 |
 | Ferocious wild boars | 30.00% | ~24 |
 | Idiot | 29.00% | ~23 |
 | Beast slayer | 26.00% | ~21 |
@@ -31,7 +31,7 @@ Rating: 4.60 (Ranked 421)
 | Pandora's box | 21.00% | ~17 |
 | Master detective | 21.00% | ~17 |
 | Ghost hunter | 20.00% | ~16 |
-| Peacekeeper | 19.00% | ~15 |
+| Peacekeeper | 20.00% | ~16 |
 | Fence | 19.00% | ~15 |
 | Defender | 18.00% | ~14 |
 | Showdown | 16.00% | ~13 |

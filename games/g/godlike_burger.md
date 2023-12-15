@@ -5,36 +5,36 @@ Rating: 4.51 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~173,459 |
-| FIRST BLOOD | 40.00% | ~154,186 |
-| KEVIN! | 30.00% | ~115,639 |
-| JACK OF ALL TRADES | 23.00% | ~88,657 |
-| CRIMINAL | 20.00% | ~77,093 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~42,401 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~34,692 |
-| HONORS STUDENT | 8.00% | ~30,837 |
-| BUTCHER | 6.00% | ~23,128 |
-| INDIVIDUAL APPROACH | 5.00% | ~19,273 |
-| RAMBO | 5.00% | ~19,273 |
-| HELL'S KITCHEN | 4.00% | ~15,419 |
-| CELEBRITY | 3.00% | ~11,564 |
-| MARTYR | 3.00% | ~11,564 |
-| GRATITUDE | 2.00% | ~7,709 |
-| PATTY-KILLER | 2.00% | ~7,709 |
+| MASTER CHEF | 45.00% | ~173,476 |
+| FIRST BLOOD | 40.00% | ~154,201 |
+| KEVIN! | 30.00% | ~115,651 |
+| JACK OF ALL TRADES | 23.00% | ~88,665 |
+| CRIMINAL | 20.00% | ~77,100 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~42,405 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~34,695 |
+| HONORS STUDENT | 8.00% | ~30,840 |
+| BUTCHER | 6.00% | ~23,130 |
+| INDIVIDUAL APPROACH | 5.00% | ~19,275 |
+| RAMBO | 5.00% | ~19,275 |
+| HELL'S KITCHEN | 4.00% | ~15,420 |
+| CELEBRITY | 3.00% | ~11,565 |
+| MARTYR | 3.00% | ~11,565 |
+| GRATITUDE | 2.00% | ~7,710 |
+| PATTY-KILLER | 2.00% | ~7,710 |
 | EXPERIMENTALIST | 1.00% | ~3,855 |
 | GOURMET | 1.00% | ~3,855 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,855 |
 | PRUDENT | 1.00% | ~3,855 |
 | SCATTERBRAIN | 0.80% | ~3,084 |
-| HIGH TECHNOLOGIES | 0.70% | ~2,698 |
-| TASTE UNTASTY | 0.50% | ~1,927 |
+| HIGH TECHNOLOGIES | 0.70% | ~2,699 |
+| TASTE UNTASTY | 0.50% | ~1,928 |
 | DEBTOR | 0.20% | ~771 |
 | I'VE SEEN SOME… | 0.20% | ~771 |
-| CORRUPTIONIST | 0.10% | ~385 |
-| MISTER ALL THUMBS | 0.10% | ~385 |
-| TRAVELER | 0.10% | ~385 |
+| CORRUPTIONIST | 0.10% | ~386 |
+| MISTER ALL THUMBS | 0.10% | ~386 |
+| TRAVELER | 0.10% | ~386 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 385,464 (Ranked 47)  
+Progressed: 385,502 (Ranked 47)  
 Completed: 49 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 49 (0.01%) (Ranked 353)
 | 2023-12-12 | 384,102 | 47 |
 | 2023-12-13 | 384,538 | 49 |
 | 2023-12-14 | 385,056 | 49 |
-| 2023-12-15 | 385,464 | 49 |
+| 2023-12-15 | 385,502 | 49 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

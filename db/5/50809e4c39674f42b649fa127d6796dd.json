@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 457,
+  "EOS_Progressed": 458,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1192,6 +1192,11 @@
       "Time": "2023-12-15T17:03:54.034737+00:00",
       "NumProgressed": 457,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T20:05:16.7739352+00:00",
+      "NumProgressed": 458,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1258,9 +1263,9 @@
       "ID": "FIRST_ACCEL_COMBO",
       "SetID": "apihg0e",
       "Name": "Combo Convert",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 156
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1268,7 +1273,7 @@
       "Name": "Perfect Run",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1284,7 +1289,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -1306,9 +1311,9 @@
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 366
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1316,7 +1321,7 @@
       "Name": "Speed Demon",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1324,7 +1329,7 @@
       "Name": "Superior Ranking",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1346,9 +1351,9 @@
       "ID": "KODAMA_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Koco Leader",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 78
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
@@ -1412,7 +1417,7 @@
       "Name": "Kronos Island Memories",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -1523,14 +1528,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 457,
+      "Progressed": 458,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:04:05.3278858+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:05:16.7739348+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:06.567221+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:02:54.8708353+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:04:05.3279223+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:03:32.3740684+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:05:16.7739674+00:00"
 }

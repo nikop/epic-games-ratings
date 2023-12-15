@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5685,
+  "EOS_Progressed": 5690,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8105,6 +8105,11 @@
       "Time": "2023-12-15T19:06:12.5013415+00:00",
       "NumProgressed": 5685,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-15T20:08:16.1670068+00:00",
+      "NumProgressed": 5690,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8180,7 +8185,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "18",
@@ -8220,7 +8225,7 @@
       "Name": "Eternal Lord",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "22",
@@ -8228,7 +8233,7 @@
       "Name": "Realm Estate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "23",
@@ -8236,7 +8241,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "24",
@@ -8252,7 +8257,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "26",
@@ -8580,7 +8585,7 @@
       "Name": "But this one is mine",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "60",
@@ -8595,13 +8600,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5685,
+      "Progressed": 5690,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5685,
+      "Progressed": 5690,
       "Completed": 7
     }
   ],
@@ -8609,8 +8614,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:06:12.5013406+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:08:16.167006+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:32.604119+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:57:25.7858757+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:06:12.5014594+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:57:45.502887+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:08:16.1670773+00:00"
 }

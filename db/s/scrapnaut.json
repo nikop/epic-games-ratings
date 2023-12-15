@@ -3,12 +3,12 @@
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
   "Ranking_Rating": 864,
-  "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Popularity": 565,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1831,9 +1831,9 @@
       "ID": "ACH_CUT_20_TREES",
       "SetID": "7c4cldc",
       "Name": "Lumberjack",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -1976,8 +1976,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-11-17T17:00:24.0955126+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:08:49.5488674+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:09:36.5244412+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.171246+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:59:49.461353+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:08:49.5488912+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:01:20.5654015+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:09:36.5244629+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 122,
+  "EOS_Progressed": 123,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -604,6 +604,11 @@
       "Time": "2023-12-15T11:04:58.3701435+00:00",
       "NumProgressed": 122,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T20:06:25.6932038+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -616,7 +621,7 @@
       "Name": "A new way",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "another_perspective",
@@ -768,7 +773,7 @@
       "Name": "Scraps of love",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "find_one_photo",
@@ -776,7 +781,7 @@
       "Name": "A Slice of Life",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "find_one_poster",
@@ -790,7 +795,7 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
       "UsersEstimate": 52
     },
@@ -798,9 +803,9 @@
       "ID": "finished_it",
       "SetID": "f2im8d",
       "Name": "Finished it",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 36
     },
     {
       "ID": "first_step",
@@ -808,7 +813,7 @@
       "Name": "First steps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "hear_most_of_interviews",
@@ -824,7 +829,7 @@
       "Name": "Sound Bite",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "heavy_burden",
@@ -944,7 +949,7 @@
       "Name": "Sign of weakness",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "something_important",
@@ -952,7 +957,7 @@
       "Name": "Something important",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "spy_one_item",
@@ -1016,7 +1021,7 @@
       "Name": "Wanderer",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1031,14 +1036,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 122,
+      "Progressed": 123,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:04:54.2339509+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:06:25.6932036+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:01.5800746+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:59:14.7146435+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:04:54.2339885+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:00:28.2486573+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:06:25.6932359+00:00"
 }

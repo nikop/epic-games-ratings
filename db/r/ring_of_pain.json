@@ -3672,7 +3672,7 @@
   ],
   "EOS_Progressed": 241086,
   "EOS_Completed": 299,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -28826,9 +28826,9 @@
       "ID": "KILLREFLECT10",
       "SetID": "5l8oe0h",
       "Name": "Stop Hitting Yourself",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 964
     },
     {
       "ID": "KILLSAMSPAREOTHERS",
@@ -29433,8 +29433,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-15T09:00:03.6413212+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:09:45.8585292+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:10:54.96945+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:00:09.3839518+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:09:45.8588238+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:02:40.7120518+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:10:54.9697127+00:00"
 }

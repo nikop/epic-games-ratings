@@ -3,12 +3,12 @@
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 682,
-  "Ranking_Popularity": 513,
-  "Ranking_PopularitySum": 529,
-  "Ranking_EOS_Progress": 199,
+  "Ranking_Popularity": 512,
+  "Ranking_PopularitySum": 528,
+  "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -643,9 +643,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4022,
+  "EOS_Progressed": 4023,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8638,6 +8638,11 @@
       "Time": "2023-12-15T18:08:58.9634888+00:00",
       "NumProgressed": 4022,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-15T20:09:21.6192558+00:00",
+      "NumProgressed": 4023,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8729,7 +8734,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8817,7 +8822,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8889,7 +8894,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -8897,7 +8902,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8961,7 +8966,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9017,7 +9022,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -9216,13 +9221,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3973,
+      "Progressed": 3974,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4022,
+      "Progressed": 4023,
       "Completed": 11
     }
   ],
@@ -9230,8 +9235,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:08:39.2215346+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:09:21.6192554+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.4789046+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:59:56.4921191+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:08:39.221633+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:01:30.6290287+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:09:21.6193367+00:00"
 }

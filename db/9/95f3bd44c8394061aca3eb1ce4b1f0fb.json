@@ -2,10 +2,10 @@
   "ID": "95f3bd44c8394061aca3eb1ce4b1f0fb",
   "Name": "Tabletop Playground",
   "ProductSlug": "tabletop-playground-9623f1",
-  "Ranking_EOS_Progress": 430,
+  "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-06-15T19:00:00+00:00",
     "PcReleaseDate": "2020-05-15T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -594,6 +594,11 @@
       "Time": "2023-12-14T22:09:43.8632757+00:00",
       "NumProgressed": 125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T20:09:29.8672395+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 5,
@@ -605,15 +610,15 @@
       "Name": "Student",
       "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "CreateTemplate",
       "SetID": "9ajogia",
       "Name": "Creator",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "FourPlayers",
@@ -635,23 +640,23 @@
       "ID": "WithFriend",
       "SetID": "9ajogia",
       "Name": "Friendship",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ajogia",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T04:57:23.9027898+00:00",
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:08:45.2177177+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:09:29.8672389+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:07.5202705+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:02:47.2174386+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:08:45.2177271+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:03:21.3976281+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:09:29.8672491+00:00"
 }

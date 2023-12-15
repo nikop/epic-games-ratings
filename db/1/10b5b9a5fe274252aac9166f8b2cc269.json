@@ -2,10 +2,10 @@
   "ID": "10b5b9a5fe274252aac9166f8b2cc269",
   "Name": "Dark Fantasy Jigsaw Puzzle",
   "ProductSlug": "dark-fantasy-jigsaw-puzzle-12769c",
-  "Ranking_EOS_Progress": 349,
+  "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 6,
-  "Ranking_EOS_NewPlayers": 429,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-08-04T03:00:00+00:00",
     "PcReleaseDate": "2018-11-16T06:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 347,
-  "EOS_Completed": 162,
+  "EOS_Completed": 163,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 46.69,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 46.97,
   "EosHistory": [
     {
       "Time": "2023-07-28T07:04:19.3346272+00:00",
@@ -2014,6 +2014,11 @@
       "Time": "2023-12-12T14:09:49.346545+00:00",
       "NumProgressed": 347,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-12-15T20:10:04.9173209+00:00",
+      "NumProgressed": 347,
+      "NumCompleted": 163
     }
   ],
   "AchievementsAdded": "2023-07-20T07:01:56.8501718+00:00",
@@ -2186,13 +2191,13 @@
       "ID": "2fge00i",
       "IsBase": true,
       "Progressed": 347,
-      "Completed": 162
+      "Completed": 163
     }
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:09:09.7396423+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:10:04.9173206+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:10.0308448+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:02:32.6775288+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:09:09.7396768+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:02:58.8548873+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:10:04.9173371+00:00"
 }

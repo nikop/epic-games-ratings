@@ -3,12 +3,12 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 16,
-  "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Popularity": 565,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,7 +222,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 991,
+  "EOS_Progressed": 992,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -2532,6 +2532,11 @@
       "Time": "2023-12-15T18:06:28.8101357+00:00",
       "NumProgressed": 991,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T20:07:56.7186564+00:00",
+      "NumProgressed": 992,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2552,7 +2557,7 @@
       "Name": "Ab Initio",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "AnthropicHills",
@@ -2560,7 +2565,7 @@
       "Name": "Anthropic Hills",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Archaeologist",
@@ -2640,7 +2645,7 @@
       "Name": "Discovery",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "EasternWetlands",
@@ -2664,7 +2669,7 @@
       "Name": "Excellent",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "FloodedValley",
@@ -2712,7 +2717,7 @@
       "Name": "Into the Machine",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "JustOneLap",
@@ -2854,9 +2859,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 109
     },
     {
       "ID": "SingleRod",
@@ -2936,7 +2941,7 @@
       "Name": "The Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "TheThiefOfFire",
@@ -2968,7 +2973,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "VerdantCanyon",
@@ -3015,7 +3020,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 991,
+      "Progressed": 992,
       "Completed": 1
     }
   ],
@@ -3023,8 +3028,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:05:58.7224152+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:07:56.7186559+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:57:05.8318863+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:05:58.7224735+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:57:16.2132519+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:07:56.7187024+00:00"
 }

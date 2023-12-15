@@ -2,13 +2,13 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 389,
-  "Ranking_Popularity": 519,
+  "Ranking_Rating": 388,
+  "Ranking_Popularity": 518,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -319,9 +319,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 233612,
+  "EOS_Progressed": 233617,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24549,6 +24549,11 @@
       "Time": "2023-12-15T19:08:52.2612901+00:00",
       "NumProgressed": 233612,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-15T20:09:40.4658676+00:00",
+      "NumProgressed": 233617,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -24624,7 +24629,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84100
+      "UsersEstimate": 84102
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -24704,7 +24709,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79428
+      "UsersEstimate": 79430
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -24720,7 +24725,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51395
+      "UsersEstimate": 51396
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -24728,7 +24733,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7008
+      "UsersEstimate": 7009
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -24760,7 +24765,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9344
+      "UsersEstimate": 9345
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -24768,7 +24773,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39714
+      "UsersEstimate": 39715
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -24783,7 +24788,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 233612,
+      "Progressed": 233617,
       "Completed": 5
     }
   ],
@@ -24791,8 +24796,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-08T19:00:51.9158199+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:08:52.2612896+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:09:40.4658671+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:19.2756281+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:56:59.7855881+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:08:52.2614642+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:57:07.5061963+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:09:40.4660084+00:00"
 }

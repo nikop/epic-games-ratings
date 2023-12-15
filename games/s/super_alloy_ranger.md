@@ -7,7 +7,7 @@
 | Iceberg Theory | 79.00% | ~100 |
 | Gear Up | 67.00% | ~84 |
 | A Grand Show | 67.00% | ~84 |
-| Freshen Up | 53.00% | ~67 |
+| Freshen Up | 54.00% | ~68 |
 | GG EZ | 52.00% | ~66 |
 | Hydrophobia | 39.00% | ~49 |
 | Ka-Ching! | 31.00% | ~39 |

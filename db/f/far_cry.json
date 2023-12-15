@@ -3,12 +3,12 @@
   "Name": "Far Cry",
   "ProductSlug": "far-cry",
   "Ranking_Rating": 547,
-  "Ranking_Popularity": 479,
-  "Ranking_PopularitySum": 512,
+  "Ranking_Popularity": 565,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 798,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 510,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 511,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2020-08-18T15:00:00+00:00",
     "PcReleaseDate": "2004-03-23T11:00:00+00:00",
@@ -418,9 +418,8 @@
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37,
-  "NumberOfAwardsMax": 37,
-  "MaxAwardTitle": "Great Boss Battles",
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -442,6 +441,6 @@
   "FirstSeen": "2022-07-22T20:26:40.9407197+00:00",
   "LastChanged": "2023-12-15T16:01:35.9029515+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:15.9025079+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:00:03.2079697+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:08:26.9198056+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:01:41.2926967+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:09:03.8106877+00:00"
 }

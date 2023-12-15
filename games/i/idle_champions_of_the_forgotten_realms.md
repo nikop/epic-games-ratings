@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 998)  
+Rating: 4.06 (Ranked 999)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mind Spike | 0.10% | ~207 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,730 (Ranked 66)  
+Progressed: 240,748 (Ranked 66)  
 Completed: 2,530 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -792,7 +792,7 @@ Completed: 2,530 (1.05%) (Ranked 168)
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
 | 2023-12-14 | 240,414 | 2,526 |
-| 2023-12-15 | 240,730 | 2,530 |
+| 2023-12-15 | 240,748 | 2,530 |
 ## Awards
 Max (Great for Beginners): 5,645  (Ranked 70)  
 Sum: 32,899 (Ranked 41)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 21,
+  "Ranking_EOS_NewPlayers": 22,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8277,9 +8277,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 726420,
+  "EOS_Progressed": 726455,
   "EOS_Completed": 12953,
-  "EOS_NewPlayers": 8535,
+  "EOS_NewPlayers": 8570,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.78,
   "EosHistory": [
@@ -29487,6 +29487,11 @@
       "Time": "2023-12-15T19:08:27.5905883+00:00",
       "NumProgressed": 726420,
       "NumCompleted": 12953
+    },
+    {
+      "Time": "2023-12-15T20:09:04.9428926+00:00",
+      "NumProgressed": 726455,
+      "NumCompleted": 12953
     }
   ],
   "TotalAchievements": 60,
@@ -29498,7 +29503,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14528
+      "UsersEstimate": 14529
     },
     {
       "ID": "02_Vengeance_H1",
@@ -29506,7 +29511,7 @@
       "Name": "The Assault",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7264
+      "UsersEstimate": 7265
     },
     {
       "ID": "03_Vengeance_H2",
@@ -29514,7 +29519,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7264
+      "UsersEstimate": 7265
     },
     {
       "ID": "04_Vengeance_H3",
@@ -29522,7 +29527,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5811
+      "UsersEstimate": 5812
     },
     {
       "ID": "05_Vengeance_H4",
@@ -29650,7 +29655,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5811
+      "UsersEstimate": 5812
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -29666,7 +29671,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5811
+      "UsersEstimate": 5812
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -29674,7 +29679,7 @@
       "Name": "Life is your teacher",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7264
+      "UsersEstimate": 7265
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -29682,7 +29687,7 @@
       "Name": "State of constant learning",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7264
+      "UsersEstimate": 7265
     },
     {
       "ID": "25_ShrineMind",
@@ -29762,7 +29767,7 @@
       "Name": "Lightning Hands",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7264
+      "UsersEstimate": 7265
     },
     {
       "ID": "35_WideStrike",
@@ -29778,7 +29783,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5811
+      "UsersEstimate": 5812
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -29834,7 +29839,7 @@
       "Name": "Project Arena",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -29842,7 +29847,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -29866,7 +29871,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -29890,7 +29895,7 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "51_Arena_TigerAll",
@@ -29914,7 +29919,7 @@
       "Name": "Skill and an even stronger will",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "54_Arena_HeliportAllOut",
@@ -29954,7 +29959,7 @@
       "Name": "Beatmaker",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "59_Arena_CustomMode",
@@ -29962,7 +29967,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -29977,21 +29982,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 35721,
+      "Progressed": 35756,
       "Completed": 10773
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 726420,
+      "Progressed": 726455,
       "Completed": 12953
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-15T18:02:55.3181111+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:08:27.5905879+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:09:04.9428921+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:05.3418066+00:00",
-  "LastUpdate_Ratings": "2023-12-15T19:02:48.880246+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:08:27.5907549+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:03:23.759274+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:09:04.9430217+00:00"
 }

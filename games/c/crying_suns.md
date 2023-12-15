@@ -6,22 +6,22 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~311,715 |
-| Jeef Skeejj | 44.00% | ~207,810 |
-| Careful planning | 39.00% | ~184,195 |
-| Second Coming | 34.00% | ~160,580 |
-| Jeef Skagg | 30.00% | ~141,688 |
+| The Shutdown | 66.00% | ~311,716 |
+| Jeef Skeejj | 44.00% | ~207,811 |
+| Careful planning | 39.00% | ~184,196 |
+| Second Coming | 34.00% | ~160,581 |
+| Jeef Skagg | 30.00% | ~141,689 |
 | Mother | 25.00% | ~118,074 |
 | In space, no one can hear you scream | 24.00% | ~113,351 |
 | Chapter I: Echoes | 22.00% | ~103,905 |
 | Excelsior Rule | 22.00% | ~103,905 |
 | Things persisted in not being what they seemed | 20.00% | ~94,459 |
-| Knightmare Frames | 15.00% | ~70,844 |
-| May His passing cleanse the world | 15.00% | ~70,844 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,844 |
-| Pope Zenon | 15.00% | ~70,844 |
-| Plan for the worst | 12.00% | ~56,675 |
-| Tetsuo | 11.00% | ~51,952 |
+| Knightmare Frames | 15.00% | ~70,845 |
+| May His passing cleanse the world | 15.00% | ~70,845 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,845 |
+| Pope Zenon | 15.00% | ~70,845 |
+| Plan for the worst | 12.00% | ~56,676 |
+| Tetsuo | 11.00% | ~51,953 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,230 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,784 |
 | Through the mirror | 8.00% | ~37,784 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~16 |
 | Kronos Rule | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,295 (Ranked 42)  
+Progressed: 472,297 (Ranked 42)  
 Completed: 20 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 20 (0.00%) (Ranked 377)
 | 2023-12-12 | 472,161 | 20 |
 | 2023-12-13 | 472,217 | 20 |
 | 2023-12-14 | 472,254 | 20 |
-| 2023-12-15 | 472,295 | 20 |
+| 2023-12-15 | 472,297 | 20 |
 ## Awards
 Max (Character Customization): 226  (Ranked 281)  
 Sum: 226 (Ranked 395)  

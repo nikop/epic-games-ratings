@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 670,
+  "EOS_Progressed": 671,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.13,
   "EosHistory": [
@@ -1160,6 +1160,11 @@
       "Time": "2023-12-15T14:09:13.1365098+00:00",
       "NumProgressed": 670,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-15T20:09:59.7537167+00:00",
+      "NumProgressed": 671,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1259,7 +1264,7 @@
       "Name": "Falling For You",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "free_champagne",
@@ -1323,14 +1328,14 @@
       "Name": "Tough Decision",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 670,
+      "Progressed": 671,
       "Completed": 21
     }
   ],
@@ -1338,8 +1343,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:09:06.0751084+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:09:59.7537162+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:55.1182233+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:57:16.5980739+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:09:06.0751267+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:57:32.559334+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:09:59.7537355+00:00"
 }

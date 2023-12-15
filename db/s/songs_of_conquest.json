@@ -3,12 +3,12 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 232,
-  "Ranking_Popularity": 519,
+  "Ranking_Popularity": 518,
   "Ranking_PopularitySum": 410,
-  "Ranking_EOS_Progress": 323,
+  "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -2182,9 +2182,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 146
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2478,8 +2478,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-15T19:08:15.8333465+00:00",
+  "LastChanged_Achievements": "2023-12-15T20:08:48.078679+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:59:04.1538182+00:00",
-  "LastUpdate_Achievements": "2023-12-15T19:08:15.833385+00:00"
+  "LastUpdate_Ratings": "2023-12-15T20:00:11.2414962+00:00",
+  "LastUpdate_Achievements": "2023-12-15T20:08:48.0787189+00:00"
 }
