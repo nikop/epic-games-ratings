@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16408,
+  "EOS_Progressed": 16416,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13952,6 +13952,11 @@
       "Time": "2023-12-15T22:08:25.2061139+00:00",
       "NumProgressed": 16408,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-15T23:08:16.0465024+00:00",
+      "NumProgressed": 16416,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13988,7 +13993,7 @@
       "Name": "Data Archivist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "13",
@@ -13996,7 +14001,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2133
+      "UsersEstimate": 2134
     },
     {
       "ID": "14",
@@ -14012,7 +14017,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "16",
@@ -14020,7 +14025,7 @@
       "Name": "Drug Gifter",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "17",
@@ -14028,7 +14033,7 @@
       "Name": "Spore Taste",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "18",
@@ -14050,9 +14055,9 @@
       "ID": "2",
       "SetID": "458bbdk",
       "Name": "Data Logger",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 328
+      "UsersEstimate": 492
     },
     {
       "ID": "20",
@@ -14060,7 +14065,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "21",
@@ -14084,7 +14089,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "24",
@@ -14100,7 +14105,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "26",
@@ -14108,7 +14113,7 @@
       "Name": "Call it Even",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "27",
@@ -14212,7 +14217,7 @@
       "Name": "Safe Cracker",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "33",
@@ -14220,7 +14225,7 @@
       "Name": "Zen Master",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "34",
@@ -14228,7 +14233,7 @@
       "Name": "Master Negotiator",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "35",
@@ -14236,29 +14241,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16408,
+      "Progressed": 16416,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2362,
-      "Completed": 892
+      "Progressed": 2370,
+      "Completed": 893
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:08:25.2061134+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:08:16.0465021+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:58:03.1521188+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:08:25.2061878+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:57:55.8480568+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:08:16.0466127+00:00"
 }

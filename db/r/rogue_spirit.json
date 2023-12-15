@@ -4,8 +4,8 @@
   "ProductSlug": "rogue-spirit",
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 436,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 437,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-03-07T16:00:00+00:00",
     "PcReleaseDate": "2023-03-07T16:00:00+00:00",
@@ -363,9 +363,9 @@
       "ID": "Liberator",
       "SetID": "b42i7am",
       "Name": "Liberator",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "LoneWolfChampion",
@@ -403,9 +403,9 @@
       "ID": "ParryMastery",
       "SetID": "b42i7am",
       "Name": "Parry Mastery",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Perceptive",
@@ -475,9 +475,9 @@
       "ID": "SilentAssassin",
       "SetID": "b42i7am",
       "Name": "Silent Assassin",
-      "Percentage": 42,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SkilfulChampion",
@@ -572,8 +572,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2469383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:48.9680717+00:00",
   "LastChanged": "2023-03-31T05:58:07.2469384+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:03:29.454174+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:03:28.082683+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:25.2581791+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:59:53.5781771+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:03:29.4542113+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:59:36.785205+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:03:28.082721+00:00"
 }

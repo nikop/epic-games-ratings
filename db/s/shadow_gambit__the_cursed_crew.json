@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -149,11 +149,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1165,
+  "EOS_Progressed": 1166,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.75,
+  "EOS_Completed_Percentage": 2.74,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3904,6 +3904,11 @@
       "Time": "2023-12-15T21:05:19.7293049+00:00",
       "NumProgressed": 1165,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-15T23:05:15.6650368+00:00",
+      "NumProgressed": 1166,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3940,7 +3945,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "_05_FinishAct2",
@@ -4060,7 +4065,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -4076,7 +4081,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -4123,7 +4128,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1165,
+      "Progressed": 1166,
       "Completed": 32
     }
   ],
@@ -4131,8 +4136,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:05:20.0323957+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:05:15.6650364+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:59:18.0446883+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:05:20.0324626+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:59:05.1022961+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:05:15.6650629+00:00"
 }

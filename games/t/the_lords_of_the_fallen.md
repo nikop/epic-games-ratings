@@ -5,7 +5,7 @@ Rating: 4.20 (Ranked 928)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Comrades | 0.40% | ~14 |
+| Comrades | 0.40% | ~15 |
 | A Veil Lifted | 0.30% | ~11 |
 | Lost and Found | 0.30% | ~11 |
 | Shared Triumph | 0.30% | ~11 |
@@ -69,8 +69,8 @@ Rating: 4.20 (Ranked 928)
 | Lingering Moments | 0.10% | ~4 |
 | A Trace of Venom | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,612 (Ranked 208)  
-Completed: 2 (0.06%) (Ranked 318)  
+Progressed: 3,641 (Ranked 208)  
+Completed: 2 (0.05%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -127,7 +127,7 @@ Completed: 2 (0.06%) (Ranked 318)
 | 2023-12-12 | 2,347 | 2 |
 | 2023-12-13 | 2,475 | 2 |
 | 2023-12-14 | 3,035 | 2 |
-| 2023-12-15 | 3,612 | 2 |
+| 2023-12-15 | 3,641 | 2 |
 ## Awards
 Max (Character Customization): 198  (Ranked 294)  
 Sum: 518 (Ranked 327)  

@@ -5,7 +5,7 @@ Rating: 4.53 (Ranked 547)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 13.00% | ~2,133 |
+| Oyedang, Kopengs | 13.00% | ~2,134 |
 | The Pit and the Pirates | 8.00% | ~1,313 |
 | Drone Dodger | 8.00% | ~1,313 |
 | Bosmang | 8.00% | ~1,313 |
@@ -13,23 +13,23 @@ Rating: 4.53 (Ranked 547)
 | Celebrations are in Order | 8.00% | ~1,313 |
 | Impossible Objects | 8.00% | ~1,313 |
 | Martian Music | 7.00% | ~1,149 |
-| Safe Cracker | 7.00% | ~165 |
-| Zen Master | 7.00% | ~165 |
-| Madame Undersecretary | 7.00% | ~165 |
-| Stogie for Fogey | 6.00% | ~984 |
-| Spore Taste | 6.00% | ~984 |
-| Call it Even | 6.00% | ~984 |
+| Safe Cracker | 7.00% | ~166 |
+| Zen Master | 7.00% | ~166 |
+| Madame Undersecretary | 7.00% | ~166 |
+| Stogie for Fogey | 6.00% | ~985 |
+| Spore Taste | 6.00% | ~985 |
+| Call it Even | 6.00% | ~985 |
 | Keep Arjun in Check | 6.00% | ~142 |
-| Data Archivist | 5.00% | ~820 |
-| Drug Gifter | 5.00% | ~820 |
-| Heal Thy Medic | 5.00% | ~820 |
-| Thorston Mayer | 4.00% | ~656 |
-| Khan's Revenge | 4.00% | ~656 |
-| Master Negotiator | 4.00% | ~94 |
+| Data Archivist | 5.00% | ~821 |
+| Drug Gifter | 5.00% | ~821 |
+| Heal Thy Medic | 5.00% | ~821 |
+| Thorston Mayer | 4.00% | ~657 |
+| Khan's Revenge | 4.00% | ~657 |
+| Master Negotiator | 4.00% | ~95 |
 | Doctor Approved | 3.00% | ~492 |
 | Bottoms up! | 3.00% | ~492 |
+| Data Logger | 3.00% | ~492 |
 | Miraculous Maya | 3.00% | ~492 |
-| Data Logger | 2.00% | ~328 |
 | Data Master | 2.00% | ~328 |
 | Brother's Reaper | 1.00% | ~164 |
 | No Belter Left Behind | 1.00% | ~164 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 547)
 | Scavenger Star | 0.20% | ~33 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,408 (Ranked 152)  
+Progressed: 16,416 (Ranked 152)  
 Completed: 43 (0.26%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 43 (0.26%) (Ranked 251)
 | 2023-12-12 | 16,078 | 42 |
 | 2023-12-13 | 16,124 | 43 |
 | 2023-12-14 | 16,263 | 43 |
-| 2023-12-15 | 16,408 | 43 |
+| 2023-12-15 | 16,416 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

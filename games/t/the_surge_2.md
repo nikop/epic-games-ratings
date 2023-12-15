@@ -5,18 +5,18 @@ Rating: 4.25 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,796 |
-| Don't I Know You...? | 76.00% | ~1,706 |
+| Rigged And Ready | 80.00% | ~1,797 |
+| Don't I Know You...? | 76.00% | ~1,707 |
 | Jailbreak | 66.00% | ~1,482 |
 | Suited and Booted | 39.00% | ~876 |
 | HEADSHOT! | 38.00% | ~853 |
-| Sleeping With The Fishes | 36.00% | ~808 |
+| Sleeping With The Fishes | 36.00% | ~809 |
 | Overheated | 31.00% | ~696 |
 | High Performance | 31.00% | ~696 |
 | Powered Up | 29.00% | ~651 |
-| Studied The Blade | 25.00% | ~561 |
-| Home Invasion | 23.00% | ~516 |
-| Luminary | 23.00% | ~516 |
+| Studied The Blade | 25.00% | ~562 |
+| Home Invasion | 23.00% | ~517 |
+| Luminary | 23.00% | ~517 |
 | True Survivor | 22.00% | ~494 |
 | It's a Trap | 22.00% | ~494 |
 | Offensive Defense | 20.00% | ~449 |
@@ -32,11 +32,11 @@ Rating: 4.25 (Ranked 890)
 | Where It All Began | 13.00% | ~292 |
 | Risk Tolerant | 13.00% | ~292 |
 | What A Catchy Song | 13.00% | ~292 |
-| Corrupted Beauty | 12.00% | ~269 |
-| Marked For Success | 12.00% | ~269 |
-| Sorry, Didn't See You There | 12.00% | ~269 |
+| Corrupted Beauty | 12.00% | ~270 |
+| Marked For Success | 12.00% | ~270 |
+| Sorry, Didn't See You There | 12.00% | ~270 |
 | Triplets | 11.00% | ~247 |
-| Stimulating The Local Economy | 10.00% | ~224 |
+| Stimulating The Local Economy | 10.00% | ~225 |
 | Denying Prophecy | 9.00% | ~202 |
 | A Little Banged Up | 8.00% | ~180 |
 | Following In Their Footsteps | 8.00% | ~180 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 890)
 | Loot, Pillage & Craft | 2.00% | ~45 |
 | Swiss Army Drone | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,245 (Ranked 227)  
+Progressed: 2,246 (Ranked 227)  
 Completed: 13 (0.58%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 13 (0.58%) (Ranked 197)
 | 2023-12-10 | 2,223 | 13 |
 | 2023-12-11 | 2,224 | 13 |
 | 2023-12-14 | 2,235 | 13 |
-| 2023-12-15 | 2,245 | 13 |
+| 2023-12-15 | 2,246 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

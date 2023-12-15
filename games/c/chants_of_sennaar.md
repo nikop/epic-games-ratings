@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 39.00% | ~437 |
-| Welcome to the Tower | 36.00% | ~403 |
-| The great escape | 31.00% | ~347 |
-| The Preacher's fate | 29.00% | ~325 |
-| A new dawn | 24.00% | ~269 |
-| Scholar | 22.00% | ~246 |
-| A good beginning | 21.00% | ~235 |
-| True G3M4R | 21.00% | ~235 |
-| The darkness | 21.00% | ~235 |
-| Cable guy | 19.00% | ~213 |
-| Half the way | 19.00% | ~213 |
-| One last step | 19.00% | ~213 |
+| That's the spirit | 39.00% | ~438 |
+| Welcome to the Tower | 36.00% | ~405 |
+| The great escape | 31.00% | ~348 |
+| The Preacher's fate | 29.00% | ~326 |
+| A new dawn | 24.00% | ~270 |
+| Scholar | 22.00% | ~247 |
+| A good beginning | 21.00% | ~236 |
+| True G3M4R | 21.00% | ~236 |
+| The darkness | 21.00% | ~236 |
+| Cable guy | 19.00% | ~214 |
+| Half the way | 19.00% | ~214 |
+| One last step | 19.00% | ~214 |
 | I did it | 18.00% | ~202 |
 | In this together | 18.00% | ~202 |
 | Peace walker | 18.00% | ~202 |
-| Champollion | 17.00% | ~190 |
-| Open door | 15.00% | ~168 |
-| Feels like springtime | 15.00% | ~168 |
-| Alchemists Express | 15.00% | ~168 |
+| Champollion | 17.00% | ~191 |
+| Open door | 15.00% | ~169 |
+| Feels like springtime | 15.00% | ~169 |
+| Alchemists Express | 15.00% | ~169 |
 | Rascal | 14.00% | ~157 |
 | Free at last | 13.00% | ~146 |
-| A Link to the Past | 12.00% | ~134 |
+| A Link to the Past | 12.00% | ~135 |
 | A great audience | 10.00% | ~112 |
 | For its own good | 9.00% | ~101 |
 | Fashion victim | 5.00% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,120 (Ranked 266)  
-Completed: 56 (5.00%) (Ranked 73)  
+Progressed: 1,124 (Ranked 266)  
+Completed: 56 (4.98%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -176,4 +176,4 @@ Completed: 56 (5.00%) (Ranked 73)
 | 2023-12-12 | 962 | 55 |
 | 2023-12-13 | 981 | 56 |
 | 2023-12-14 | 1,054 | 56 |
-| 2023-12-15 | 1,120 | 56 |
+| 2023-12-15 | 1,124 | 56 |

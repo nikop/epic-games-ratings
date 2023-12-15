@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4607,9 +4607,9 @@
       "Count": 401
     }
   ],
-  "EOS_Progressed": 12354,
+  "EOS_Progressed": 12356,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16987,6 +16987,11 @@
       "Time": "2023-12-15T22:09:56.8903934+00:00",
       "NumProgressed": 12354,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T23:09:42.8031858+00:00",
+      "NumProgressed": 12356,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17198,7 +17203,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "28_GreatUpstart",
@@ -17366,7 +17371,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2348
     },
     {
       "ID": "49_Flame",
@@ -17925,21 +17930,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11136,
+      "Progressed": 11138,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12354,
+      "Progressed": 12356,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-15T21:58:59.5020076+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:09:56.8903933+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:09:42.8031855+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:58:59.5020082+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:09:56.8905602+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:58:47.2769224+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:09:42.8033454+00:00"
 }

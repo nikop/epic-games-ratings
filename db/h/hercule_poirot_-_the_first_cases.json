@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -856,9 +856,9 @@
       "ID": "ACH_031",
       "SetID": "72imik0",
       "Name": "Angeline Van den Bosch",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_032",
@@ -896,9 +896,9 @@
       "ID": "ACH_036",
       "SetID": "72imik0",
       "Name": "Ernesto da Silva",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 145
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_037",
@@ -1008,9 +1008,9 @@
       "ID": "ACH_07",
       "SetID": "72imik0",
       "Name": "The Search",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_08",
@@ -1041,8 +1041,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:04:35.6626999+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:04:32.9561579+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:05.7547877+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:02:53.9192594+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:04:35.662727+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:02:50.7255962+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:04:32.9561847+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -282,9 +282,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2245,
+  "EOS_Progressed": 2246,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -3377,6 +3377,11 @@
       "Time": "2023-12-15T22:03:22.2916832+00:00",
       "NumProgressed": 2245,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-15T23:03:20.972321+00:00",
+      "NumProgressed": 2246,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3420,7 +3425,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "ACHV_06",
@@ -3428,7 +3433,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACHV_07",
@@ -3460,7 +3465,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHV_11",
@@ -3540,7 +3545,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHV_21",
@@ -3548,7 +3553,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACHV_22",
@@ -3588,7 +3593,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "ACHV_27",
@@ -3660,7 +3665,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "ACHV_36",
@@ -3676,7 +3681,7 @@
       "Name": "Luminary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACHV_38",
@@ -3692,7 +3697,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "ACHV_40",
@@ -3716,7 +3721,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHV_43",
@@ -3843,7 +3848,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2245,
+      "Progressed": 2246,
       "Completed": 13
     }
   ],
@@ -3851,8 +3856,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-22T02:25:03.2214817+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:03:22.2916826+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:03:20.9723205+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:57.0176831+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:57:20.6697764+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:03:22.2917936+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:57:16.2235974+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:03:20.9724244+00:00"
 }

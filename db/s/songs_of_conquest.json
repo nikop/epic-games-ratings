@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 487,
+  "EOS_Progressed": 488,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2033,6 +2033,11 @@
       "Time": "2023-12-15T22:08:33.2254661+00:00",
       "NumProgressed": 487,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T23:08:23.6055097+00:00",
+      "NumProgressed": 488,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2283,9 +2288,9 @@
       "ID": "QuickRetaliationDeath",
       "SetID": "71c0n9i",
       "Name": "Whoops!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 24
     },
     {
       "ID": "RanaCampaign",
@@ -2476,15 +2481,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 487,
+      "Progressed": 488,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:08:33.2254657+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:08:23.6055093+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:59:26.1685837+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:08:33.2255051+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:59:11.2692165+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:08:23.6055479+00:00"
 }

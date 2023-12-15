@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Silent Assassin | 42.00% | ~10 |
-| Liberator | 29.00% | ~7 |
-| Parry Mastery | 25.00% | ~6 |
+| Silent Assassin | 46.00% | ~11 |
+| Liberator | 33.00% | ~8 |
+| Parry Mastery | 29.00% | ~7 |
 | Famine Defeated | 21.00% | ~5 |
 | Perceptive | 21.00% | ~5 |
 | Gold Collector | 17.00% | ~4 |

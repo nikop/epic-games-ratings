@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 371)  
+Rating: 4.62 (Ranked 370)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -46,14 +46,14 @@ Rating: 4.62 (Ranked 371)
 | Lord of Chaos | 0.80% | ~46 |
 | Eternal Lord | 0.80% | ~46 |
 | God Emperor | 0.70% | ~40 |
+| The Goddess of Nature | 0.70% | ~40 |
 | Manufactured War | 0.70% | ~40 |
 | Grexolis | 0.70% | ~40 |
 | One for All, All for One | 0.70% | ~40 |
 | I've Got Everything I Need Right Here | 0.60% | ~34 |
-| The Goddess of Nature | 0.60% | ~34 |
 | Against the Odds | 0.60% | ~34 |
 | Duality | 0.60% | ~34 |
-| Pruning for Progress | 0.50% | ~28 |
+| Pruning for Progress | 0.50% | ~29 |
 | Snap Out of It! | 0.30% | ~17 |
 | The Magic That Empowers Me! | 0.30% | ~17 |
 | Jack of All Tomes | 0.30% | ~17 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 371)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,700 (Ranked 190)  
+Progressed: 5,702 (Ranked 190)  
 Completed: 7 (0.12%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 7 (0.12%) (Ranked 288)
 | 2023-12-12 | 5,587 | 7 |
 | 2023-12-13 | 5,598 | 7 |
 | 2023-12-14 | 5,643 | 7 |
-| 2023-12-15 | 5,700 | 7 |
+| 2023-12-15 | 5,702 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 479)  
 Sum: 93 (Ranked 460)  

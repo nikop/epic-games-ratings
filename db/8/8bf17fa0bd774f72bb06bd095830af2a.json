@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 512,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
     "PcReleaseDate": "2022-09-01T15:00:00+00:00",
@@ -327,9 +327,9 @@
       "ID": "SteamAchievment_CompleteFifteenChallenges",
       "SetID": "b8gj0ip",
       "Name": "Amateur of Challenges",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SteamAchievment_CompleteOneChallenge",
@@ -367,9 +367,9 @@
       "ID": "SteamAchievment_CompleteQuest05",
       "SetID": "b8gj0ip",
       "Name": "Monster Slayer",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SteamAchievment_CompleteQuest06",
@@ -502,8 +502,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:05:38.4048861+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:05:33.0874178+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:42.1986517+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:00:00.6858734+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:05:38.4049052+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:59:43.8531156+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:05:33.0874356+00:00"
 }

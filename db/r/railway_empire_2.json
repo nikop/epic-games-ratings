@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -299,9 +299,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2396,
+  "EOS_Progressed": 2397,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6779,6 +6779,11 @@
       "Time": "2023-12-15T20:06:43.6372472+00:00",
       "NumProgressed": 2396,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T23:05:11.2951036+00:00",
+      "NumProgressed": 2397,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -6790,7 +6795,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "A01",
@@ -6822,7 +6827,7 @@
       "Name": "Go West",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "A05",
@@ -6870,7 +6875,7 @@
       "Name": "From X to Y",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "A11",
@@ -6886,7 +6891,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "A13",
@@ -6902,7 +6907,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "A15",
@@ -6950,7 +6955,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "A21",
@@ -6966,7 +6971,7 @@
       "Name": "Brainstorm",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "A23",
@@ -6998,7 +7003,7 @@
       "Name": "Max Power",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "A27",
@@ -7014,7 +7019,7 @@
       "Name": "We brake for nobody",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1630
     },
     {
       "ID": "A29",
@@ -7046,7 +7051,7 @@
       "Name": "Assimilated",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "A33",
@@ -7054,7 +7059,7 @@
       "Name": "Locusts",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "A34",
@@ -7078,7 +7083,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "A37",
@@ -7086,7 +7091,7 @@
       "Name": "All around the World",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "A38",
@@ -7102,7 +7107,7 @@
       "Name": "Bold and beautiful",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "A40",
@@ -7110,7 +7115,7 @@
       "Name": "Mind the Gap",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "A41",
@@ -7126,7 +7131,7 @@
       "Name": "Bridge Builder",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "A43",
@@ -7150,7 +7155,7 @@
       "Name": "Settler",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "A46",
@@ -7158,7 +7163,7 @@
       "Name": "Mystery Tour",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "A47",
@@ -7166,7 +7171,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "A48",
@@ -7229,7 +7234,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2396,
+      "Progressed": 2397,
       "Completed": 0
     }
   ],
@@ -7237,8 +7242,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-07T22:58:14.7831098+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:05:15.2576084+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:05:11.2951033+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:15.8149041+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:59:07.2600949+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:05:15.2576634+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:58:54.6275379+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:05:11.2951778+00:00"
 }

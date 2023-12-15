@@ -7,10 +7,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 6.00% | ~138 |
+| This Belongs in a Museum | 3.00% | ~3,823 |
 | This guy... again? | 3.00% | ~69 |
 | Bloody Graduation | 3.00% | ~69 |
 | Lost and Found | 3.00% | ~69 |
-| This Belongs in a Museum | 2.00% | ~2,549 |
 | Not Today! | 2.00% | ~2,549 |
 | Creep and Sleep | 2.00% | ~2,549 |
 | Meat and Greet | 2.00% | ~2,549 |
@@ -35,14 +35,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Friends 'Til the End | 1.00% | ~23 |
 | Banishment | 0.90% | ~1,147 |
 | Deprogramming | 0.90% | ~1,147 |
+| Spelunker | 0.90% | ~1,147 |
 | Worldly Traveller | 0.90% | ~1,147 |
-| Unfulfilled Desires | 0.80% | ~1,019 |
-| Now Stay Dead | 0.80% | ~1,019 |
-| Reverse Banditry | 0.80% | ~1,019 |
-| Spelunker | 0.80% | ~1,019 |
-| Ramble On | 0.80% | ~1,019 |
-| Unshackled | 0.80% | ~1,019 |
-| Road Trip | 0.80% | ~1,019 |
+| Unfulfilled Desires | 0.80% | ~1,020 |
+| Now Stay Dead | 0.80% | ~1,020 |
+| Reverse Banditry | 0.80% | ~1,020 |
+| Ramble On | 0.80% | ~1,020 |
+| Unshackled | 0.80% | ~1,020 |
+| Road Trip | 0.80% | ~1,020 |
 | Resurrection | 0.70% | ~892 |
 | Unleash Hell | 0.70% | ~892 |
 | Funny Guy | 0.70% | ~892 |
@@ -51,13 +51,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Boxcar Kid | 0.70% | ~892 |
 | Predator | 0.70% | ~892 |
 | A Clear Conscience | 0.70% | ~892 |
+| When You Want Something Done Right | 0.70% | ~892 |
 | Ichthyophobic | 0.60% | ~765 |
 | No More Mouths to Feed | 0.60% | ~765 |
-| When You Want Something Done Right | 0.60% | ~765 |
 | Utopia | 0.60% | ~765 |
 | Hope Rekindled | 0.50% | ~637 |
 | Hot Air | 0.50% | ~637 |
-| Slap on the Wrist | 0.50% | ~11 |
+| Slap on the Wrist | 0.50% | ~12 |
 | This Looks Familiar | 0.40% | ~510 |
 | Eyes Up | 0.40% | ~510 |
 | Body of Work | 0.40% | ~510 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,430 (Ranked 84)  
+Progressed: 127,439 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
-| 2023-12-15 | 127,430 | 3 |
+| 2023-12-15 | 127,439 | 3 |
 ## Awards
 Max (Character Customization): 7,718  (Ranked 51)  
 Sum: 20,514 (Ranked 58)  

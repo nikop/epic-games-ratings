@@ -5,34 +5,34 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 3.00% | ~7,364 |
-| First of Many | 2.00% | ~4,910 |
-| Not Your Average Trait | 2.00% | ~4,910 |
-| Expanding Horizons | 1.00% | ~2,455 |
-| Quest for Survival | 1.00% | ~2,455 |
-| Familiar Face | 0.90% | ~2,209 |
-| Boss'n Up | 0.90% | ~2,209 |
+| The Killing Jar | 3.00% | ~7,367 |
+| First of Many | 2.00% | ~4,911 |
+| Not Your Average Trait | 2.00% | ~4,911 |
+| Expanding Horizons | 1.00% | ~2,456 |
+| Quest for Survival | 1.00% | ~2,456 |
+| Familiar Face | 1.00% | ~2,456 |
+| Boss'n Up | 0.90% | ~2,210 |
 | Regicide | 0.90% | ~222 |
 | Gleaming the Cube | 0.80% | ~1,964 |
 | Not a Janitor | 0.80% | ~1,964 |
 | Trait Chaser | 0.80% | ~1,964 |
-| Master of the Dark Arts | 0.80% | ~197 |
-| Equal Measures | 0.70% | ~1,718 |
-| Blue Goddess | 0.70% | ~1,718 |
-| Duality | 0.70% | ~1,718 |
-| Not So Special Now | 0.60% | ~1,473 |
+| Master of the Dark Arts | 0.80% | ~198 |
+| Not So Special Now | 0.70% | ~1,719 |
+| Equal Measures | 0.70% | ~1,719 |
+| Blue Goddess | 0.70% | ~1,719 |
+| Duality | 0.70% | ~1,719 |
 | Top Performer | 0.60% | ~1,473 |
 | Was This Supposed To Happen? | 0.60% | ~1,473 |
 | Almost There | 0.60% | ~1,473 |
 | Make Some Room | 0.60% | ~1,473 |
 | Good, But Could Be Better! | 0.60% | ~1,473 |
-| Am I Seeing This? | 0.50% | ~1,227 |
-| Chaos | 0.50% | ~1,227 |
-| Power Surge | 0.50% | ~1,227 |
-| The God Gambit | 0.50% | ~1,227 |
-| Dark Designs | 0.50% | ~1,227 |
-| Shhh...It's a Secret | 0.50% | ~1,227 |
-| Scrap Collector | 0.50% | ~1,227 |
+| Am I Seeing This? | 0.50% | ~1,228 |
+| Chaos | 0.50% | ~1,228 |
+| Power Surge | 0.50% | ~1,228 |
+| The God Gambit | 0.50% | ~1,228 |
+| Dark Designs | 0.50% | ~1,228 |
+| Shhh...It's a Secret | 0.50% | ~1,228 |
+| Scrap Collector | 0.50% | ~1,228 |
 | Traitor | 0.40% | ~982 |
 | Forever is a Long Time Coming | 0.40% | ~982 |
 | Madman's Paradise | 0.40% | ~982 |
@@ -45,12 +45,12 @@ Rating: 4.75 (Ranked 150)
 | All These Traits� | 0.40% | ~982 |
 | The Ultimate Weapon | 0.40% | ~982 |
 | No One Should Have All That Power | 0.40% | ~982 |
-| Crafty | 0.30% | ~736 |
-| Ghost in the Machine | 0.30% | ~736 |
-| Only Human | 0.30% | ~736 |
-| Tall Tales | 0.30% | ~736 |
-| Carnage in C-Minor | 0.30% | ~736 |
-| Transmutate | 0.30% | ~736 |
+| Crafty | 0.30% | ~737 |
+| Ghost in the Machine | 0.30% | ~737 |
+| Only Human | 0.30% | ~737 |
+| Tall Tales | 0.30% | ~737 |
+| Carnage in C-Minor | 0.30% | ~737 |
+| Transmutate | 0.30% | ~737 |
 | Red Room | 0.20% | ~491 |
 | The Trigger | 0.20% | ~491 |
 | Cutting Edge | 0.20% | ~491 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 150)
 | You Shall Pass | 0.20% | ~49 |
 | A Foul Feast | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,475 (Ranked 63)  
+Progressed: 245,556 (Ranked 63)  
 Completed: 588 (0.24%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 588 (0.24%) (Ranked 254)
 | 2023-12-12 | 239,053 | 581 |
 | 2023-12-13 | 239,544 | 584 |
 | 2023-12-14 | 242,166 | 585 |
-| 2023-12-15 | 245,475 | 588 |
+| 2023-12-15 | 245,556 | 588 |
 ## Awards
 Max (Great Boss Battles): 2,779  (Ranked 101)  
 Sum: 6,979 (Ranked 125)  

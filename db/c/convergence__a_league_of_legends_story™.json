@@ -2,13 +2,13 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 371,
+  "Ranking_Rating": 370,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 977,
+  "EOS_Progressed": 978,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2654,6 +2654,11 @@
       "Time": "2023-12-15T20:10:28.8542062+00:00",
       "NumProgressed": 977,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-15T23:09:32.3331917+00:00",
+      "NumProgressed": 978,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2713,15 +2718,15 @@
       "Name": "Like Clockwork",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ClovemaryGift",
       "SetID": "a9e499d",
       "Name": "Clovemary for Remembering",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 59
     },
     {
       "ID": "CosmeticCompletion1",
@@ -2793,7 +2798,7 @@
       "Name": "The Betrayer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3017,7 +3022,7 @@
       "Name": "Syron for Hope",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "TemporalPulseKills1",
@@ -3088,7 +3093,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 977,
+      "Progressed": 978,
       "Completed": 6
     }
   ],
@@ -3096,8 +3101,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:09:46.3503977+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:09:32.3331915+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:00:42.1988515+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:09:46.3504398+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:02:32.2072759+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:09:32.3332339+00:00"
 }

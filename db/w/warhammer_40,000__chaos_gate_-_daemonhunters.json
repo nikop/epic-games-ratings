@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -789,9 +789,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3401,
+  "EOS_Progressed": 3402,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4259,6 +4259,11 @@
       "Time": "2023-12-15T22:03:37.8301611+00:00",
       "NumProgressed": 3401,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T23:03:36.3214976+00:00",
+      "NumProgressed": 3402,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4460,9 +4465,9 @@
       "ID": "Kills_Executioner",
       "SetID": "3jha1np",
       "Name": "Executioner",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 340
+      "UsersEstimate": 374
     },
     {
       "ID": "Kills_Exterminator",
@@ -4813,21 +4818,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3401,
+      "Progressed": 3402,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3401,
+      "Progressed": 3402,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-12T16:03:26.7422514+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:03:37.8301608+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:03:36.3214975+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:10.0749768+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:02:59.4549309+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:03:37.8302167+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:02:56.3148792+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:03:36.3215741+00:00"
 }

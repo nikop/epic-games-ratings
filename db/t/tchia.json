@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -251,7 +251,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8022,
+  "EOS_Progressed": 8023,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
@@ -9171,6 +9171,11 @@
       "Time": "2023-12-15T22:03:12.8321214+00:00",
       "NumProgressed": 8022,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-15T23:03:11.7579776+00:00",
+      "NumProgressed": 8023,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9206,7 +9211,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -9254,7 +9259,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -9349,7 +9354,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8022,
+      "Progressed": 8023,
       "Completed": 34
     }
   ],
@@ -9357,8 +9362,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:03:12.832121+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:03:11.7579774+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:30.6418185+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:02:46.9794316+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:03:12.832188+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:02:43.8019443+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:03:11.7580225+00:00"
 }

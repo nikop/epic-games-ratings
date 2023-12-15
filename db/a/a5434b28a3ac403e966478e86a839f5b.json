@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 631,
+  "EOS_Progressed": 632,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.27,
   "EosHistory": [
@@ -2125,6 +2125,11 @@
       "Time": "2023-12-15T22:06:18.0436442+00:00",
       "NumProgressed": 631,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-15T23:06:11.2036284+00:00",
+      "NumProgressed": 632,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2153,7 +2158,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_eou3",
@@ -2169,15 +2174,15 @@
       "Name": "Navigate the Mines",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_eou5",
       "SetID": "51of0eo",
       "Name": "Shut Down Processing Plant",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_eou6",
@@ -2225,7 +2230,7 @@
       "Name": "Anti-Gravity",
       "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_xatrix",
@@ -2240,14 +2245,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 631,
+      "Progressed": 632,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:06:18.0436437+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:06:11.2036283+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:57.6157011+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:57:35.941621+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:06:18.043663+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:57:30.1416874+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:06:11.2036432+00:00"
 }

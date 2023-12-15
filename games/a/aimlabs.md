@@ -3,13 +3,13 @@
 [View Rawdata](../../db/a/aimlabs.json)  
 Rating: 4.61 (Ranked 388)  
 ## Awards
-Max (Great for Beginners): 65  (Ranked 415)  
-Sum: 478 (Ranked 334)  
+Max (Great for Quick Sessions): 65  (Ranked 415)  
+Sum: 479 (Ranked 334)  
 Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Quick Sessions | 65 |
 | This game is Great for Beginners | 65 |
-| This game is Great for Quick Sessions | 64 |
 | This game is Educational | 53 |
 | This game is Extremely Fun | 52 |
 | This game has Quickly Understood Controls | 47 |
@@ -169,4 +169,4 @@ Diff (max vs sum): 81
 | 2023-12-12 | 4.62 | 63 | 477 |
 | 2023-12-13 | 4.62 | 64 | 478 |
 | 2023-12-14 | 4.62 | 65 | 479 |
-| 2023-12-15 | 4.61 | 65 | 478 |
+| 2023-12-15 | 4.61 | 65 | 479 |

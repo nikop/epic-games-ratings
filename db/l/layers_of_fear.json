@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123,
+  "EOS_Progressed": 125,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -609,6 +609,11 @@
       "Time": "2023-12-15T20:06:25.6932038+00:00",
       "NumProgressed": 123,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T23:04:58.6455335+00:00",
+      "NumProgressed": 125,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -619,9 +624,9 @@
       "ID": "a_new_way",
       "SetID": "f2im8d",
       "Name": "A new way",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "another_perspective",
@@ -701,7 +706,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "decrypt_one_myth",
@@ -723,7 +728,7 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 25,
       "UsersEstimate": 44
     },
@@ -731,7 +736,7 @@
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 25,
       "UsersEstimate": 54
     },
@@ -747,7 +752,7 @@
       "ID": "face_your_fears",
       "SetID": "f2im8d",
       "Name": "Face your fears",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
       "UsersEstimate": 34
     },
@@ -773,7 +778,7 @@
       "Name": "Scraps of love",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "find_one_photo",
@@ -827,9 +832,9 @@
       "ID": "hear_one_interview",
       "SetID": "f2im8d",
       "Name": "Sound Bite",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "heavy_burden",
@@ -893,7 +898,7 @@
       "Name": "A piece of the story",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "playtime",
@@ -947,9 +952,9 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "something_important",
@@ -957,15 +962,15 @@
       "Name": "Something important",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "spy_one_item",
       "SetID": "f2im8d",
       "Name": "Fisherman",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 8
     },
     {
       "ID": "sword_of_the_serpent",
@@ -1019,7 +1024,7 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
       "UsersEstimate": 86
     },
@@ -1036,14 +1041,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 123,
+      "Progressed": 125,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:05:02.253963+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:04:58.6455333+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:01.5800746+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:59:36.7747081+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:05:02.2539948+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:59:21.7184224+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:04:58.645565+00:00"
 }

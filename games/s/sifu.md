@@ -7,12 +7,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 2.00% | ~14,531 |
-| The Assault | 1.00% | ~7,265 |
-| The Hateful Pole Fighter | 1.00% | ~7,265 |
-| Life is your teacher | 1.00% | ~7,265 |
-| State of constant learning | 1.00% | ~7,265 |
-| Lightning Hands | 1.00% | ~7,265 |
-| Diligence as a goal | 1.00% | ~358 |
+| The Assault | 1.00% | ~7,266 |
+| The Hateful Pole Fighter | 1.00% | ~7,266 |
+| Life is your teacher | 1.00% | ~7,266 |
+| State of constant learning | 1.00% | ~7,266 |
+| Lightning Hands | 1.00% | ~7,266 |
+| Diligence as a goal | 1.00% | ~359 |
 | Qi Gong: Breath | 0.90% | ~6,539 |
 | Qi Gong: Essence | 0.90% | ~6,539 |
 | Old Child | 0.90% | ~6,539 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~36 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,539 (Ranked 24)  
+Progressed: 726,562 (Ranked 24)  
 Completed: 12,953 (1.78%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 12,953 (1.78%) (Ranked 135)
 | 2023-12-12 | 717,993 | 12,952 |
 | 2023-12-13 | 718,112 | 12,953 |
 | 2023-12-14 | 722,433 | 12,953 |
-| 2023-12-15 | 726,539 | 12,953 |
+| 2023-12-15 | 726,562 | 12,953 |
 ## Awards
 Max (Great Boss Battles): 6,930  (Ranked 55)  
 Sum: 12,162 (Ranked 83)  

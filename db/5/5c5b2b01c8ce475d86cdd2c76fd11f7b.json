@@ -2,10 +2,10 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 620,
+  "Ranking_EOS_Progress": 617,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2016-08-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 13,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -89,6 +89,11 @@
       "Time": "2023-12-15T21:04:00.1396744+00:00",
       "NumProgressed": 12,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T23:03:57.5248505+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.7079864+00:00",
@@ -107,7 +112,7 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "7on801h",
       "Name": "Ghost",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -115,7 +120,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "7on801h",
       "Name": "Singh No Swan Song",
-      "Percentage": 58,
+      "Percentage": 54,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -131,9 +136,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "7on801h",
       "Name": "Honor Holds Us All Together",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -203,7 +208,7 @@
       "ID": "NEW_ACHIEVEMENT_1_21",
       "SetID": "7on801h",
       "Name": "Ruthless Efficiency",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -211,9 +216,9 @@
       "ID": "NEW_ACHIEVEMENT_1_22",
       "SetID": "7on801h",
       "Name": "Humanity \u002B",
-      "Percentage": 25,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_23",
@@ -339,7 +344,7 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "7on801h",
       "Name": "A Heated Combination",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -355,7 +360,7 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "7on801h",
       "Name": "I Can Only Fight Enemies I Can See",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -387,7 +392,7 @@
       "ID": "NEW_ACHIEVEMENT_2_13",
       "SetID": "7on801h",
       "Name": "Adept of the Metaverse",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -467,7 +472,7 @@
       "ID": "NEW_ACHIEVEMENT_2_22",
       "SetID": "o6aioj",
       "Name": "Help Desk",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -748,20 +753,20 @@
     {
       "ID": "7on801h",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 0
     },
     {
       "ID": "o6aioj",
       "IsBase": false,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:03:59.8436647+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:03:57.5248504+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184844+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:58:12.4994972+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:03:59.8437363+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:58:04.250229+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:03:57.5249235+00:00"
 }

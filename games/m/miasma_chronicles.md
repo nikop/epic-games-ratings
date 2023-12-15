@@ -5,18 +5,18 @@ Rating: 4.41 (Ranked 729)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,482 |
-| Ranidaphobia | 77.00% | ~1,240 |
-| Aspiring Editor | 75.00% | ~1,208 |
+| First Blood | 92.00% | ~1,483 |
+| Ranidaphobia | 77.00% | ~1,241 |
+| Aspiring Editor | 75.00% | ~1,209 |
 | Gun for Hire | 70.00% | ~1,128 |
-| I am the law! | 64.00% | ~1,031 |
+| I am the law! | 64.00% | ~1,032 |
 | Lumberjack | 54.00% | ~870 |
-| Croaked | 49.00% | ~789 |
-| Limp Richard | 49.00% | ~789 |
-| Editor Adept | 48.00% | ~773 |
-| Exorcist | 48.00% | ~773 |
-| From Darkness to Light | 48.00% | ~773 |
-| Giant Killer | 46.00% | ~741 |
+| Croaked | 49.00% | ~790 |
+| Limp Richard | 49.00% | ~790 |
+| Editor Adept | 48.00% | ~774 |
+| Exorcist | 48.00% | ~774 |
+| From Darkness to Light | 48.00% | ~774 |
+| Giant Killer | 46.00% | ~742 |
 | Sensei | 44.00% | ~709 |
 | Firestarter | 42.00% | ~677 |
 | The meaning of Kain | 42.00% | ~677 |
@@ -34,7 +34,7 @@ Rating: 4.41 (Ranked 729)
 | There Can Be Only One! | 27.00% | ~435 |
 | Silent but Violent | 26.00% | ~419 |
 | Chain Killer | 23.00% | ~371 |
-| The Watchers | 22.00% | ~354 |
+| The Watchers | 22.00% | ~355 |
 | Commando | 17.00% | ~274 |
 | Dr Jones | 17.00% | ~274 |
 | Newtonian Knockout | 17.00% | ~274 |
@@ -52,12 +52,12 @@ Rating: 4.41 (Ranked 729)
 | Cruelty | 3.00% | ~48 |
 | Five Finger Deathcount | 1.00% | ~16 |
 | Shadow Boxin' | 1.00% | ~16 |
-| Alpha Editor | 0.90% | ~14 |
-| Fratricide | 0.90% | ~14 |
-| Goaaaaal! | 0.90% | ~14 |
+| Alpha Editor | 0.90% | ~15 |
+| Fratricide | 0.90% | ~15 |
+| Goaaaaal! | 0.90% | ~15 |
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,611 (Ranked 244)  
+Progressed: 1,612 (Ranked 244)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-10 | 1,599 | 0 |
 | 2023-12-13 | 1,601 | 0 |
 | 2023-12-14 | 1,607 | 0 |
-| 2023-12-15 | 1,611 | 0 |
+| 2023-12-15 | 1,612 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

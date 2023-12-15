@@ -2,10 +2,10 @@
   "ID": "0407f287e7574d88b7c00895f14628d8",
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
-  "Ranking_EOS_Progress": 532,
+  "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -169,6 +169,11 @@
       "Time": "2023-12-15T22:04:01.7699161+00:00",
       "NumProgressed": 40,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T23:03:59.3494382+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -195,7 +200,7 @@
       "ID": "c2",
       "SetID": "b1ggf28",
       "Name": "Mineral-Rich",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -211,9 +216,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "dl2",
@@ -235,7 +240,7 @@
       "ID": "f1",
       "SetID": "b1ggf28",
       "Name": "Agriculture Tycoon",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -259,7 +264,7 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 43,
+      "Percentage": 41,
       "XP": 20,
       "UsersEstimate": 17
     },
@@ -275,7 +280,7 @@
       "ID": "fw3",
       "SetID": "b1ggf28",
       "Name": "The Sacrifice",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -283,7 +288,7 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 48,
+      "Percentage": 46,
       "XP": 20,
       "UsersEstimate": 19
     },
@@ -299,7 +304,7 @@
       "ID": "g3",
       "SetID": "b1ggf28",
       "Name": "Handcart",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -307,7 +312,7 @@
       "ID": "j1",
       "SetID": "b1ggf28",
       "Name": "Civilized Land",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -331,15 +336,15 @@
       "ID": "jg1",
       "SetID": "b1ggf28",
       "Name": "Infrastructure",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "jg2",
       "SetID": "b1ggf28",
       "Name": "Waterpower",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -355,7 +360,7 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -403,7 +408,7 @@
       "ID": "k1",
       "SetID": "b1ggf28",
       "Name": "Advanced Technology",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -411,7 +416,7 @@
       "ID": "k2",
       "SetID": "b1ggf28",
       "Name": "Practice Makes Perfect",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -451,7 +456,7 @@
       "ID": "r1",
       "SetID": "b1ggf28",
       "Name": "Prosperity",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -459,7 +464,7 @@
       "ID": "r2",
       "SetID": "b1ggf28",
       "Name": "A Welcoming Settlement",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -475,7 +480,7 @@
       "ID": "storya1",
       "SetID": "b1ggf28",
       "Name": "World-Renowned",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -483,7 +488,7 @@
       "ID": "storya2",
       "SetID": "b1ggf28",
       "Name": "Business Mind",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -491,9 +496,9 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "w2",
@@ -515,7 +520,7 @@
       "ID": "x1",
       "SetID": "b1ggf28",
       "Name": "Happiness Maintainer",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -523,7 +528,7 @@
       "ID": "x2",
       "SetID": "b1ggf28",
       "Name": "Hard-Drinking",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -588,14 +593,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:04:01.7699156+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:03:59.349438+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:02:44.1193033+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:04:01.7699735+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:02:42.027509+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:03:59.349494+00:00"
 }

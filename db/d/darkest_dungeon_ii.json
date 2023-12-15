@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9750,9 +9750,9 @@
       "Count": 1014
     }
   ],
-  "EOS_Progressed": 127430,
+  "EOS_Progressed": 127439,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1576,
+  "EOS_NewPlayers": 1580,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35210,6 +35210,11 @@
       "Time": "2023-12-15T22:09:07.2643692+00:00",
       "NumProgressed": 127430,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T23:08:56.8069019+00:00",
+      "NumProgressed": 127439,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35301,7 +35306,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -35347,9 +35352,9 @@
       "ID": "combat_kill_antiquarian",
       "SetID": "64l4lke",
       "Name": "This Belongs in a Museum",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2549
+      "UsersEstimate": 3823
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35405,7 +35410,7 @@
       "Name": "Now Stay Dead",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "combat_kill_gentry",
@@ -35453,7 +35458,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "combat_kill_shambler",
@@ -35507,9 +35512,9 @@
       "ID": "driving_biome_clear_cave",
       "SetID": "64l4lke",
       "Name": "Spelunker",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1147
     },
     {
       "ID": "driving_biome_clear_city",
@@ -35549,7 +35554,7 @@
       "Name": "Ramble On",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "driving_distance_hard",
@@ -35619,9 +35624,9 @@
       "ID": "inn_hire_mercenary_bounty_hunter",
       "SetID": "64l4lke",
       "Name": "When You Want Something Done Right",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 765
+      "UsersEstimate": 892
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -35677,7 +35682,7 @@
       "Name": "Unshackled",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "run_victory_act02",
@@ -35733,7 +35738,7 @@
       "Name": "Road Trip",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -35789,7 +35794,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -35852,21 +35857,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127430,
+      "Progressed": 127439,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2299,
+      "Progressed": 2308,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-15T21:57:13.7923636+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:09:07.2643689+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:08:56.8069016+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:57:13.7923641+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:09:07.2645254+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:57:09.530132+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:08:56.8070623+00:00"
 }

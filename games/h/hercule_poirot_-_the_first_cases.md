@@ -7,7 +7,7 @@ Rating: 4.35 (Ranked 799)
 | ---- | ---------- | ----- |
 | It Wasn’t a Burglary | 89.00% | ~404 |
 | Luc Piette | 76.00% | ~345 |
-| Angeline Van den Bosch | 73.00% | ~331 |
+| Angeline Van den Bosch | 74.00% | ~336 |
 | Elizabeth Padget | 70.00% | ~318 |
 | Little Grey Cells | 69.00% | ~313 |
 | The Bracelet | 66.00% | ~300 |
@@ -31,10 +31,10 @@ Rating: 4.35 (Ranked 799)
 | Gedeon Demir | 35.00% | ~159 |
 | Rehana Piette | 34.00% | ~154 |
 | Instinct is Marvellous | 33.00% | ~150 |
-| Ernesto da Silva | 32.00% | ~145 |
+| Ernesto da Silva | 33.00% | ~150 |
 | Inge Frank | 31.00% | ~141 |
+| The Search | 31.00% | ~141 |
 | Hugo Beckers | 30.00% | ~136 |
-| The Search | 30.00% | ~136 |
 | The Family | 28.00% | ~127 |
 | Well-travelled | 27.00% | ~123 |
 | Thinking of Everything | 26.00% | ~118 |

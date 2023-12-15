@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1443,9 +1443,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6376,
+  "EOS_Progressed": 6377,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14418,6 +14418,11 @@
       "Time": "2023-12-15T22:08:23.7454672+00:00",
       "NumProgressed": 6376,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T23:08:14.5869477+00:00",
+      "NumProgressed": 6377,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14485,7 +14490,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -14501,7 +14506,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -14525,7 +14530,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2805
+      "UsersEstimate": 2806
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -14549,7 +14554,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -14589,7 +14594,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4782
+      "UsersEstimate": 4783
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14613,7 +14618,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -14748,15 +14753,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6376,
+      "Progressed": 6377,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-13T06:00:46.4990656+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:08:23.7454668+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:08:14.5869475+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:43.3070216+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:58:16.6342448+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:08:23.7455408+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:58:08.0207547+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:08:14.5870387+00:00"
 }

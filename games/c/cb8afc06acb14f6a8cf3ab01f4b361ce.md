@@ -1,13 +1,13 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.21 (Ranked 919)  
+Rating: 4.21 (Ranked 918)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 3.00% | ~9,881 |
-| The touch of Chaos | 3.00% | ~9,881 |
-| A powerful aura was here | 2.00% | ~6,587 |
+| May the Torchbearer light our way | 3.00% | ~9,882 |
+| The touch of Chaos | 3.00% | ~9,882 |
+| A powerful aura was here | 2.00% | ~6,588 |
 | Let's raise the stakes!! | 1.00% | ~3,294 |
 | Rumors are true | 0.80% | ~2,635 |
 | Your wounds… They are healing so fast! | 0.80% | ~2,635 |
@@ -18,11 +18,11 @@ Rating: 4.21 (Ranked 919)
 | We need to talk | 0.50% | ~1,647 |
 | They won't last long | 0.50% | ~1,647 |
 | Bring it on! | 0.50% | ~1,647 |
-| I feel drawn to it | 0.40% | ~1,317 |
-| Here to stay | 0.40% | ~1,317 |
-| Counting on you | 0.40% | ~1,317 |
-| This is the end | 0.40% | ~1,317 |
-| We can choose to fight | 0.40% | ~1,317 |
+| I feel drawn to it | 0.40% | ~1,318 |
+| Here to stay | 0.40% | ~1,318 |
+| Counting on you | 0.40% | ~1,318 |
+| This is the end | 0.40% | ~1,318 |
+| We can choose to fight | 0.40% | ~1,318 |
 | Their fate is sealed | 0.30% | ~988 |
 | I took a risk | 0.30% | ~988 |
 | Not even from this world | 0.20% | ~659 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 919)
 | Something... unnatural | 0.10% | ~329 |
 | We strike as one | 0.10% | ~329 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 329,369 (Ranked 52)  
+Progressed: 329,387 (Ranked 52)  
 Completed: 5 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 5 (0.00%) (Ranked 377)
 | 2023-12-12 | 327,966 | 5 |
 | 2023-12-13 | 328,382 | 5 |
 | 2023-12-14 | 328,907 | 5 |
-| 2023-12-15 | 329,369 | 5 |
+| 2023-12-15 | 329,387 | 5 |
 ## Awards
 Max (Great Boss Battles): 68  (Ranked 412)  
 Sum: 68 (Ranked 478)  

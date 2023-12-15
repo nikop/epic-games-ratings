@@ -367,9 +367,9 @@
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 145,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach3",
@@ -422,8 +422,8 @@
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:08:34.9330422+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:08:25.1047769+00:00",
   "LastUpdate_AppInfo": "2023-12-13T18:57:12.2683005+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:00:37.1660261+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:08:34.9330496+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:00:17.7869107+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:08:25.1047858+00:00"
 }

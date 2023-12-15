@@ -2,10 +2,10 @@
   "ID": "599554e2ea49491bb9ca088a43fec83a",
   "Name": "The Fabulous Fear Machine",
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
-  "Ranking_EOS_Progress": 509,
+  "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
     "PcReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54,
+  "EOS_Progressed": 55,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -279,6 +279,11 @@
       "Time": "2023-12-15T13:10:04.2082141+00:00",
       "NumProgressed": 54,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T23:04:11.0122581+00:00",
+      "NumProgressed": 55,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-15T20:07:40.8374596+00:00",
@@ -297,7 +302,7 @@
       "ID": "10",
       "SetID": "d37idgg",
       "Name": "You\u0027ve awakened the beast",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -305,7 +310,7 @@
       "ID": "11",
       "SetID": "d37idgg",
       "Name": "Hate is... addictive",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -345,7 +350,7 @@
       "ID": "16",
       "SetID": "d37idgg",
       "Name": "Bread and bocaua",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -353,7 +358,7 @@
       "ID": "17",
       "SetID": "d37idgg",
       "Name": "Fanatacism is... poisonous",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -361,7 +366,7 @@
       "ID": "18",
       "SetID": "d37idgg",
       "Name": "Jung\u0027s dream",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -369,7 +374,7 @@
       "ID": "19",
       "SetID": "d37idgg",
       "Name": "Giant",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -417,7 +422,7 @@
       "ID": "24",
       "SetID": "d37idgg",
       "Name": "The bully",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -433,7 +438,7 @@
       "ID": "26",
       "SetID": "d37idgg",
       "Name": "The adventurer",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -465,7 +470,7 @@
       "ID": "3",
       "SetID": "d37idgg",
       "Name": "The battle of Great Britain",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -553,7 +558,7 @@
       "ID": "4",
       "SetID": "d37idgg",
       "Name": "A continent with chemistry",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -585,7 +590,7 @@
       "ID": "43",
       "SetID": "d37idgg",
       "Name": "ECO mode",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -625,7 +630,7 @@
       "ID": "5",
       "SetID": "d37idgg",
       "Name": "The happy farmer girl",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -666,14 +671,14 @@
     {
       "ID": "d37idgg",
       "IsBase": true,
-      "Progressed": 54,
+      "Progressed": 55,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:04:13.7714458+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:04:11.0122578+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:25.4412055+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:57:36.0639653+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:04:13.77149+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:57:30.2644537+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:04:11.0122948+00:00"
 }

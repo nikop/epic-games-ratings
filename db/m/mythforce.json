@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -836,9 +836,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5536,
+  "EOS_Progressed": 5538,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11116,6 +11116,11 @@
       "Time": "2023-12-15T22:05:26.5723228+00:00",
       "NumProgressed": 5536,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-15T23:05:21.9811835+00:00",
+      "NumProgressed": 5538,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11144,7 +11149,7 @@
       "Name": "Deadication",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -11176,7 +11181,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11184,7 +11189,7 @@
       "Name": "First Strike",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -11224,7 +11229,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -11272,7 +11277,7 @@
       "Name": "Season Finale",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -11288,7 +11293,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -11311,15 +11316,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5536,
+      "Progressed": 5538,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-15T05:01:12.5073089+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:05:26.5723223+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:05:21.9811832+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.410244+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:00:29.4800344+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:05:26.5723731+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:00:10.638791+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:05:21.9812537+00:00"
 }

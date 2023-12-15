@@ -2,13 +2,13 @@
   "ID": "crab",
   "Name": "Satisfactory",
   "ProductSlug": "satisfactory",
-  "Ranking_Rating": 25,
+  "Ranking_Rating": 26,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 14,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 512,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2019-03-19T14:00:00+00:00",
     "PcReleaseDate": "2019-03-19T14:00:00+00:00",
@@ -14817,8 +14817,8 @@
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "FirstSeenAchievements": "2023-09-19T23:04:48.6869528+00:00",
   "LastChanged": "2023-12-15T20:57:54.0486352+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:04:20.6173471+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:04:17.6552128+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.2911694+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:58:03.832665+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:04:20.6173496+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:57:56.4549186+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:04:17.655216+00:00"
 }

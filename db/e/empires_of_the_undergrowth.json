@@ -3,12 +3,12 @@
   "Name": "Empires of the Undergrowth",
   "ProductSlug": "empires-of-the-undergrowth",
   "Ranking_Rating": 174,
-  "Ranking_Popularity": 450,
+  "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 512,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2020-10-28T14:00:00+00:00",
     "PcReleaseDate": "2020-10-28T14:00:00+00:00",
@@ -896,18 +896,24 @@
       "Rating": 4.73,
       "NumberOfAwards": 433,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-12-15T22:58:25.4882165+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 434,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 433,
-  "NumberOfAwardsMax": 47,
+  "NumberOfAwards": 434,
+  "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -993,8 +999,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
-  "LastChanged": "2023-11-30T17:00:44.374843+00:00",
+  "LastChanged": "2023-12-15T22:58:25.4882163+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:14.6282503+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:58:34.8872944+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:08:52.7639194+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:58:25.4882168+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:08:42.4682055+00:00"
 }

@@ -1,21 +1,21 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.87 (Ranked 25)  
+Rating: 4.87 (Ranked 26)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~37,161 |
-| Biggest Communism Builder | 24.00% | ~31,852 |
-| The World's Most Laughable Centrist | 21.00% | ~27,871 |
-| Il Coppo Del'Arte! | 18.00% | ~23,889 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,235 |
-| Hyperstellar Law Official | 16.00% | ~21,235 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,580 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,580 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,253 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,599 |
+| Goodest Of The Good Cops | 28.00% | ~37,163 |
+| Biggest Communism Builder | 24.00% | ~31,854 |
+| The World's Most Laughable Centrist | 21.00% | ~27,872 |
+| Il Coppo Del'Arte! | 18.00% | ~23,890 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,236 |
+| Hyperstellar Law Official | 16.00% | ~21,236 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,581 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,581 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,254 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,600 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,272 |
 | Unbelievably Boring **** | 9.00% | ~11,945 |
 | Enemy Of The Physical Realm | 9.00% | ~11,945 |
@@ -30,9 +30,9 @@ Number of Ratings: 1,611  (23.09.2022)
 | Wheel of Pleasure and Light | 2.00% | ~2,654 |
 | Massive Torque Dork | 1.00% | ~1,327 |
 | Avowed Inframaterialist | 1.00% | ~1,327 |
-| Committee of la Responsabilité | 0.90% | ~1,194 |
-| Venture into the HARDCORE | 0.90% | ~1,194 |
-| Real Musor | 0.90% | ~1,194 |
+| Committee of la Responsabilité | 0.90% | ~1,195 |
+| Venture into the HARDCORE | 0.90% | ~1,195 |
+| Real Musor | 0.90% | ~1,195 |
 | Baddest Brow in Town | 0.80% | ~1,062 |
 | Networthy Individual | 0.70% | ~929 |
 | Leopard Mindset | 0.60% | ~796 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~133 |
 | What body? | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,717 (Ranked 83)  
+Progressed: 132,724 (Ranked 83)  
 Completed: 28 (0.02%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 28 (0.02%) (Ranked 345)
 | 2023-12-12 | 131,916 | 28 |
 | 2023-12-13 | 131,965 | 28 |
 | 2023-12-14 | 132,283 | 28 |
-| 2023-12-15 | 132,717 | 28 |
+| 2023-12-15 | 132,724 | 28 |
 ## Awards
 Max (Character Customization): 746  (Ranked 183)  
 Sum: 1,140 (Ranked 256)  

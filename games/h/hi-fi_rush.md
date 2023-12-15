@@ -5,32 +5,32 @@ Rating: 4.88 (Ranked 16)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 32.00% | ~2,214 |
-| Start with a bang! | 31.00% | ~2,145 |
-| You can pet the cat! | 28.00% | ~1,937 |
-| Who put gears in there? | 21.00% | ~1,453 |
-| Cream of the Crop | 18.00% | ~1,245 |
-| Thanks for the free chip, Peppermint! | 17.00% | ~1,176 |
+| Feeling the beat! | 32.00% | ~2,215 |
+| Start with a bang! | 31.00% | ~2,146 |
+| You can pet the cat! | 28.00% | ~1,938 |
+| Who put gears in there? | 21.00% | ~1,454 |
+| Cream of the Crop | 18.00% | ~1,246 |
+| Thanks for the free chip, Peppermint! | 17.00% | ~1,177 |
 | You got this, Peppermint? | 14.00% | ~969 |
-| Perfect Parry | 13.00% | ~899 |
-| Alright, that felt AWESOME! | 13.00% | ~899 |
-| I play my own way! | 12.00% | ~830 |
-| This will cost you big time | 11.00% | ~761 |
-| Uh, they were broken when I got here | 11.00% | ~761 |
-| Does that say weakpoint? | 11.00% | ~761 |
+| Perfect Parry | 13.00% | ~900 |
+| Alright, that felt AWESOME! | 13.00% | ~900 |
+| I play my own way! | 12.00% | ~831 |
+| This will cost you big time | 11.00% | ~762 |
+| Uh, they were broken when I got here | 11.00% | ~762 |
+| Does that say weakpoint? | 11.00% | ~762 |
 | Z-shielding's got nothing on us! | 10.00% | ~692 |
 | Whoa! There's ANOTHER health bar!? | 9.00% | ~623 |
 | Kissing the sky! | 9.00% | ~623 |
+| I look cool. But I can look COOLER. | 9.00% | ~623 |
 | The Negotiator | 8.00% | ~554 |
-| I look cool. But I can look COOLER. | 8.00% | ~554 |
-| Headliner | 7.00% | ~484 |
-| You must like calling me in, Chai | 7.00% | ~484 |
-| Out in a puff of smoke | 7.00% | ~484 |
+| Headliner | 7.00% | ~485 |
+| You must like calling me in, Chai | 7.00% | ~485 |
+| Out in a puff of smoke | 7.00% | ~485 |
 | Time to pay up! | 6.00% | ~415 |
 | Who's the boss now? | 6.00% | ~415 |
 | I have to read these things? | 6.00% | ~415 |
 | Perfecter Parry-er! | 6.00% | ~415 |
-| NOW we got a kickass hideout! | 6.00% | ~326 |
+| NOW we got a kickass hideout! | 6.00% | ~327 |
 | Well that was a rush! | 4.00% | ~277 |
 | Beat-hit mania | 4.00% | ~277 |
 | That's a lot of junk metal… | 4.00% | ~277 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 16)
 | Voices from within | 0.10% | ~5 |
 | Low budget finish | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,919 (Ranked 186)  
+Progressed: 6,923 (Ranked 186)  
 Completed: 8 (0.12%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 8 (0.12%) (Ranked 288)
 | 2023-12-12 | 4,510 | 8 |
 | 2023-12-13 | 4,535 | 8 |
 | 2023-12-14 | 5,878 | 8 |
-| 2023-12-15 | 6,919 | 8 |
+| 2023-12-15 | 6,923 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

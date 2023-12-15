@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 598,
+  "Ranking_Rating": 599,
   "Ranking_Popularity": 252,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3747,9 +3747,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32289,
+  "EOS_Progressed": 32291,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -22422,6 +22422,11 @@
       "Time": "2023-12-15T22:03:12.5253746+00:00",
       "NumProgressed": 32289,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-15T23:03:11.4200319+00:00",
+      "NumProgressed": 32291,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -22481,7 +22486,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "Collector",
@@ -22521,7 +22526,7 @@
       "Name": "Discovery",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "Dont_Need_These",
@@ -22569,7 +22574,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "GB_In_Training",
@@ -22721,7 +22726,7 @@
       "Name": "Solo Capture",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "Stunner",
@@ -22769,7 +22774,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "Terrifying",
@@ -22840,7 +22845,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32289,
+      "Progressed": 32291,
       "Completed": 69
     }
   ],
@@ -22848,8 +22853,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-15T07:01:21.9898413+00:00",
-  "LastChanged_Achievements": "2023-12-15T22:03:12.5253737+00:00",
+  "LastChanged_Achievements": "2023-12-15T23:03:11.4200318+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:16.7242615+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:00:31.575474+00:00",
-  "LastUpdate_Achievements": "2023-12-15T22:03:12.52567+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:00:12.4460019+00:00",
+  "LastUpdate_Achievements": "2023-12-15T23:03:11.4201497+00:00"
 }

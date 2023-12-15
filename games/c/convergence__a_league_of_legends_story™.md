@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.62 (Ranked 371)  
+Rating: 4.62 (Ranked 370)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,8 +21,8 @@ Rating: 4.62 (Ranked 371)
 | The Wicked Twins | 21.00% | ~205 |
 | Honest Mistake | 21.00% | ~205 |
 | Fast Learner | 21.00% | ~205 |
-| Like Clockwork | 20.00% | ~195 |
-| The Betrayer | 20.00% | ~195 |
+| Like Clockwork | 20.00% | ~196 |
+| The Betrayer | 20.00% | ~196 |
 | Right On Time | 19.00% | ~186 |
 | Golem Chaser | 19.00% | ~186 |
 | Check Your Pulse | 19.00% | ~186 |
@@ -37,7 +37,7 @@ Rating: 4.62 (Ranked 371)
 | Chaincrawler Explorer | 12.00% | ~117 |
 | Family Memories | 12.00% | ~117 |
 | Ask Questions Later | 12.00% | ~117 |
-| Syron for Hope | 11.00% | ~107 |
+| Syron for Hope | 11.00% | ~108 |
 | Factorywood Explorer | 10.00% | ~98 |
 | Fairgrounds Explorer | 10.00% | ~98 |
 | Sump Explorer | 10.00% | ~98 |
@@ -47,7 +47,7 @@ Rating: 4.62 (Ranked 371)
 | Sartorialist | 8.00% | ~78 |
 | Entresol Explorer | 8.00% | ~78 |
 | Golem Hunter | 7.00% | ~68 |
-| Clovemary for Remembering | 5.00% | ~49 |
+| Clovemary for Remembering | 6.00% | ~59 |
 | Hexlock for Protection | 5.00% | ~49 |
 | Rungs Was Right | 5.00% | ~49 |
 | Wunderkind | 2.00% | ~20 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 371)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 977 (Ranked 275)  
+Progressed: 978 (Ranked 275)  
 Completed: 6 (0.61%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 6 (0.61%) (Ranked 194)
 | 2023-12-06 | 947 | 6 |
 | 2023-12-13 | 955 | 6 |
 | 2023-12-14 | 963 | 6 |
-| 2023-12-15 | 977 | 6 |
+| 2023-12-15 | 978 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
