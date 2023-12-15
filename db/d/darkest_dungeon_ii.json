@@ -9738,9 +9738,9 @@
       "Count": 1004
     }
   ],
-  "EOS_Progressed": 127252,
+  "EOS_Progressed": 127272,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1428,
+  "EOS_NewPlayers": 1448,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35148,6 +35148,11 @@
       "Time": "2023-12-15T12:09:27.4995281+00:00",
       "NumProgressed": 127252,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T13:14:31.9445505+00:00",
+      "NumProgressed": 127272,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35213,9 +35218,9 @@
       "ID": "altar_of_hope_unlock_hero_leper",
       "SetID": "64l4lke",
       "Name": "Long Live the King",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 764
+      "UsersEstimate": 891
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -35695,7 +35700,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "combat_kill_collector",
@@ -35735,7 +35740,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -35743,7 +35748,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -35751,7 +35756,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "quest_complete_crusader",
@@ -35790,21 +35795,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127252,
+      "Progressed": 127272,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2121,
+      "Progressed": 2141,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-15T10:00:06.5063477+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:09:27.4995278+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:14:31.9445502+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-15T12:00:40.4627417+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:09:27.4996744+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:06:53.4210304+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:14:31.9446966+00:00"
 }

@@ -33,14 +33,14 @@ Rating: 3.47 (Ranked 1,062)
 | Helping Hand | 1.00% | ~18 |
 | Starve the Beast | 0.90% | ~16 |
 | Contingency Plans | 0.80% | ~15 |
+| I Spit On Your Grave | 0.80% | ~15 |
 | Check, Please! | 0.70% | ~13 |
 | Nice Try | 0.70% | ~13 |
 | Curious Finch | 0.70% | ~13 |
-| I Spit On Your Grave | 0.70% | ~13 |
-| Revelations | 0.60% | ~11 |
-| Block Party | 0.60% | ~11 |
 | You Clean It Up | 0.60% | ~11 |
-| Blacklight Down | 0.60% | ~11 |
+| Revelations | 0.50% | ~9 |
+| Block Party | 0.50% | ~9 |
+| Blacklight Down | 0.50% | ~9 |
 | Sisterhood | 0.40% | ~7 |
 | What Lies Below | 0.40% | ~7 |
 | Bloody Initiate | 0.40% | ~7 |
@@ -72,7 +72,7 @@ Rating: 3.47 (Ranked 1,062)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,817 (Ranked 235)  
+Progressed: 1,820 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-02 | 1,776 | 0 |
 | 2023-12-13 | 1,784 | 0 |
 | 2023-12-14 | 1,810 | 0 |
-| 2023-12-15 | 1,817 | 0 |
+| 2023-12-15 | 1,820 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

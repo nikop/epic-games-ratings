@@ -2,10 +2,10 @@
   "ID": "dbbce4993a554bbba3032476bca1673a",
   "Name": "Outbreak Devious Beginnings",
   "ProductSlug": "outbreak-devious-beginnings-5c0af8",
-  "Ranking_EOS_Progress": 644,
+  "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-10-25T14:00:00+00:00",
     "PcReleaseDate": "2023-10-25T14:00:00+00:00",
@@ -182,8 +182,8 @@
   ],
   "FirstSeen": "2023-10-26T23:59:41.2750505+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:21.2446636+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:04:55.2166113+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:10:30.8890688+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:16.8965982+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:59:20.4421206+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:04:55.2166209+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:05:09.2797693+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:10:30.8890884+00:00"
 }

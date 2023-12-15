@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -475,10 +475,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1556242,
+  "EOS_Progressed": 1556250,
   "EOS_Completed": 746,
-  "EOS_NewPlayers": 1335,
-  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 1334,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
     {
@@ -27800,6 +27800,11 @@
       "Time": "2023-12-15T12:03:37.3479409+00:00",
       "NumProgressed": 1556242,
       "NumCompleted": 746
+    },
+    {
+      "Time": "2023-12-15T13:08:53.1089959+00:00",
+      "NumProgressed": 1556250,
+      "NumCompleted": 746
     }
   ],
   "TotalAchievements": 20,
@@ -27811,7 +27816,7 @@
       "Name": "Bacon Donuts",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 9337
+      "UsersEstimate": 9338
     },
     {
       "ID": "ACH_BUZZ_CONTROL_TOWER",
@@ -27819,7 +27824,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 108937
+      "UsersEstimate": 108938
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -27843,7 +27848,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 46687
+      "UsersEstimate": 46688
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -27891,7 +27896,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 46687
+      "UsersEstimate": 46688
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -27907,7 +27912,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 155624
+      "UsersEstimate": 155625
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -27970,15 +27975,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1556242,
+      "Progressed": 1556250,
       "Completed": 746
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-12-08T12:00:51.5497062+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:03:37.3479405+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:08:53.1089955+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.3878969+00:00",
-  "LastUpdate_Ratings": "2023-12-15T12:00:13.7065935+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:03:37.3480893+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:06:21.3675769+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:08:53.1091457+00:00"
 }

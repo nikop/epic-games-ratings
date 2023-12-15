@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -3387,9 +3387,9 @@
       "ID": "GSS_ACH_23_LOCKPICKING_03",
       "SetID": "5fn8ia4",
       "Name": "Just Checking!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 404
     },
     {
       "ID": "GSS_ACH_25_DENNIS",
@@ -3619,9 +3619,9 @@
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 3",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 490
     },
     {
       "ID": "GSS_ACH_54_UPGRADE_WORKSHOP_04",
@@ -3787,9 +3787,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 624
+      "UsersEstimate": 636
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -3868,8 +3868,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:04:38.9622921+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:10:10.7346326+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:57:24.5599844+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:04:38.9623794+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:02:36.8352164+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:10:10.7347894+00:00"
 }

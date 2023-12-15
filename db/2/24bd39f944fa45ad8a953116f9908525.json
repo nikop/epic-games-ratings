@@ -4,8 +4,8 @@
   "ProductSlug": "haak-1401cb",
   "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
     "PcReleaseDate": "2022-08-25T02:30:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 62,
+  "EOS_Progressed": 63,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -314,6 +314,11 @@
       "Time": "2023-12-14T11:08:40.8193077+00:00",
       "NumProgressed": 62,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T13:14:16.1034797+00:00",
+      "NumProgressed": 63,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -435,9 +440,9 @@
       "ID": "ach_14_squeezeDeath",
       "SetID": "16n29hg",
       "Name": "Physics Lesson",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_15_breakTile100",
@@ -780,20 +785,20 @@
     {
       "ID": "16n29hg",
       "IsBase": true,
-      "Progressed": 62,
+      "Progressed": 63,
       "Completed": 0
     },
     {
       "ID": "9je3g3a",
       "IsBase": false,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:09:15.0089793+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:14:16.1034795+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.5129796+00:00",
-  "LastUpdate_Ratings": "2023-12-15T12:02:41.3288297+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:09:15.0090155+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:07:05.9546574+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:14:16.1035125+00:00"
 }

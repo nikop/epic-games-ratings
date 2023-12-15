@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8001,
+  "EOS_Progressed": 8006,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9131,6 +9131,11 @@
       "Time": "2023-12-15T12:06:54.922267+00:00",
       "NumProgressed": 8001,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-15T13:13:01.6800032+00:00",
+      "NumProgressed": 8006,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9142,7 +9147,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "ARRR",
@@ -9166,7 +9171,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -9190,7 +9195,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -9214,7 +9219,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -9246,7 +9251,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "LIBERATOR",
@@ -9294,7 +9299,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "THING",
@@ -9309,7 +9314,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8001,
+      "Progressed": 8006,
       "Completed": 34
     }
   ],
@@ -9317,8 +9322,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:06:54.9222661+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:13:01.680003+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:30.6418185+00:00",
-  "LastUpdate_Ratings": "2023-12-15T12:03:06.4166981+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:06:54.9223125+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:08:10.5538667+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:13:01.6800524+00:00"
 }

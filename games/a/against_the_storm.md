@@ -31,21 +31,21 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 0.90% | ~164 |
 | Ruined Armory | 0.80% | ~146 |
 | Levitating Monument | 0.80% | ~146 |
+| Trade Baron | 0.80% | ~146 |
 | Barren Lands | 0.70% | ~127 |
 | Statue of the Forefathers | 0.70% | ~127 |
 | Corrosive Torrent | 0.70% | ~127 |
 | Cursed Lands | 0.70% | ~127 |
-| Trade Baron | 0.70% | ~127 |
 | Ancient Battleground | 0.60% | ~109 |
 | Sparkdew Crystals | 0.60% | ~109 |
 | Haunted Forest | 0.60% | ~109 |
 | Flooded Mines | 0.60% | ~109 |
 | Against All Odds | 0.50% | ~91 |
+| Defying the Crown | 0.50% | ~91 |
 | Serving Ale | 0.40% | ~73 |
 | Fishmen Ritual Site | 0.40% | ~73 |
 | Forsaken Gods Temple | 0.40% | ~73 |
 | Victory Through Prosperity | 0.40% | ~73 |
-| Defying the Crown | 0.40% | ~73 |
 | Into the Forest | 0.40% | ~73 |
 | Fox Utopia | 0.40% | ~73 |
 | Efficient Explorer | 0.30% | ~55 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,203 (Ranked 146)  
-Completed: 39 (0.21%) (Ranked 260)  
+Progressed: 18,209 (Ranked 147)  
+Completed: 39 (0.21%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -305,7 +305,7 @@ Completed: 39 (0.21%) (Ranked 260)
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
 | 2023-12-14 | 18,153 | 40 |
-| 2023-12-15 | 18,203 | 39 |
+| 2023-12-15 | 18,209 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,261 (Ranked 175)  

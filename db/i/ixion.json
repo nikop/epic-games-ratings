@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3476,
+  "EOS_Progressed": 3478,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6371,6 +6371,11 @@
       "Time": "2023-12-15T12:05:11.6930172+00:00",
       "NumProgressed": 3476,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T13:10:51.6283878+00:00",
+      "NumProgressed": 3478,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6382,7 +6387,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACH_BASE_10",
@@ -6446,7 +6451,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "ACH_BASE_19",
@@ -6470,7 +6475,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "ACH_BASE_22",
@@ -6518,7 +6523,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ACH_BASE_28",
@@ -6837,13 +6842,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1660,
+      "Progressed": 1662,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3476,
+      "Progressed": 3478,
       "Completed": 0
     }
   ],
@@ -6851,8 +6856,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:05:11.6930169+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:10:51.6283874+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4855137+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:57:42.636679+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:05:11.6930753+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:03:02.5124457+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:10:51.62847+00:00"
 }

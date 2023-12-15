@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -429,9 +429,9 @@
       "ID": "CgkInO_K3eIdEAIQBQ",
       "SetID": "6bj96in",
       "Name": "SAILOR\u0027S GIFT",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "CgkInO_K3eIdEAIQBg",
@@ -445,9 +445,9 @@
       "ID": "CgkInO_K3eIdEAIQBw",
       "SetID": "6bj96in",
       "Name": "SCRIPTORIUM SNEAK",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CgkInO_K3eIdEAIQCA",
@@ -477,9 +477,9 @@
       "ID": "CgkInO_K3eIdEAIQCw",
       "SetID": "6bj96in",
       "Name": "MASTER CRAFTSMAN",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "CgkInO_K3eIdEAIQDA",
@@ -501,9 +501,9 @@
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "CgkInO_K3eIdEAIQDw",
@@ -612,8 +612,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:10:08.5838688+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:15:24.6795347+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.9435383+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:58:30.9117211+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:10:08.5838865+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:04:04.5883631+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:15:24.6795474+00:00"
 }

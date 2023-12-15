@@ -6,26 +6,26 @@
 | ---- | ---------- | ----- |
 | Path of Despair | 87.00% | ~69 |
 | Morgengrauen | 85.00% | ~67 |
-| Not alone | 62.00% | ~49 |
-| Hunger | 57.00% | ~45 |
-| Awaken | 47.00% | ~37 |
-| Path of Corruption | 33.00% | ~26 |
+| Not alone | 65.00% | ~51 |
+| Hunger | 58.00% | ~46 |
+| Awaken | 48.00% | ~38 |
+| Path of Corruption | 34.00% | ~27 |
 | Hope | 29.00% | ~23 |
 | Rage | 28.00% | ~22 |
 | Path of Pain | 22.00% | ~17 |
 | Clarity | 16.00% | ~13 |
+| Reflections | 16.00% | ~13 |
 | The shining | 16.00% | ~13 |
 | Mayhem | 15.00% | ~12 |
-| Reflections | 15.00% | ~12 |
 | Health | 13.00% | ~10 |
 | Awaiting orders | 9.00% | ~7 |
 | Jigsaw | 9.00% | ~7 |
+| Lost | 9.00% | ~7 |
 | Peace | 9.00% | ~7 |
 | An act of courage | 8.00% | ~6 |
 | Art critic | 8.00% | ~6 |
-| Lost | 8.00% | ~6 |
+| An act of mercy | 5.00% | ~4 |
 | An act of compassion | 4.00% | ~3 |
-| An act of mercy | 4.00% | ~3 |
 | Ad Infinitum | 3.00% | ~2 |
 | All knowing | 3.00% | ~2 |
 | Corruption | 1.00% | ~1 |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 296,
   "Ranking_Popularity": 116,
   "Ranking_PopularitySum": 145,
-  "Ranking_EOS_Progress": 267,
+  "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 500,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
     "PcReleaseDate": "2015-03-26T16:00:00+00:00",
@@ -3393,9 +3393,9 @@
       "Count": 189
     }
   ],
-  "EOS_Progressed": 1084,
+  "EOS_Progressed": 1085,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3703,6 +3703,11 @@
       "Time": "2023-12-10T10:05:27.4935576+00:00",
       "NumProgressed": 1084,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T13:13:45.8912387+00:00",
+      "NumProgressed": 1085,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -3722,7 +3727,7 @@
       "Name": "Completed Act II",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_03",
@@ -3922,7 +3927,7 @@
       "Name": "Make an Adventurer",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "achievement_28",
@@ -3994,7 +3999,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "achievement_37",
@@ -4097,15 +4102,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1084,
+      "Progressed": 1085,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-12-11T11:57:43.4725917+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:08:51.5834381+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:13:45.8912385+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:11.7629331+00:00",
-  "LastUpdate_Ratings": "2023-12-15T12:00:21.4956304+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:08:51.5834767+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:06:30.3766015+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:13:45.8912731+00:00"
 }

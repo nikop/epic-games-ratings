@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 967,
+  "EOS_Progressed": 968,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2624,6 +2624,11 @@
       "Time": "2023-12-15T10:09:30.228181+00:00",
       "NumProgressed": 967,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-15T13:15:24.9872559+00:00",
+      "NumProgressed": 968,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2641,9 +2646,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 203
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2659,7 +2664,7 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2683,7 +2688,7 @@
       "Name": "Like Clockwork",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ClovemaryGift",
@@ -2707,7 +2712,7 @@
       "Name": "Street Style",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "CultivairChests1",
@@ -2755,7 +2760,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2763,7 +2768,7 @@
       "Name": "The Betrayer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2947,7 +2952,7 @@
       "Name": "Golem Chaser",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "SkillCompletion1",
@@ -3011,7 +3016,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "WarwickDefeated",
@@ -3043,7 +3048,7 @@
       "Name": "The Brass Boss",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3058,7 +3063,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 967,
+      "Progressed": 968,
       "Completed": 6
     }
   ],
@@ -3066,8 +3071,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:10:08.9571913+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:15:24.9872557+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-15T12:02:51.0514622+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:10:08.9572516+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:07:49.0135269+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:15:24.9872952+00:00"
 }

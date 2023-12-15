@@ -6,10 +6,10 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~373,213 |
-| Now You're Talking | 62.00% | ~330,560 |
-| Steel Yourself | 62.00% | ~330,560 |
-| Window Dressing | 50.00% | ~266,581 |
+| First Step | 70.00% | ~373,214 |
+| Now You're Talking | 62.00% | ~330,561 |
+| Steel Yourself | 62.00% | ~330,561 |
+| Window Dressing | 50.00% | ~266,582 |
 | Trigger Happy | 46.00% | ~245,255 |
 | Riverborn | 45.00% | ~239,923 |
 | Starry Eyed | 34.00% | ~181,275 |
@@ -18,7 +18,7 @@ Number of Ratings: 617  (23.09.2022)
 | AAARR! | 23.00% | ~122,627 |
 | Hello Darkness | 23.00% | ~122,627 |
 | Wind At Our Backs | 22.00% | ~117,296 |
-| To the Beat | 20.00% | ~106,632 |
+| To the Beat | 20.00% | ~106,633 |
 | Sunny Shores | 17.00% | ~90,638 |
 | Sunday Best | 16.00% | ~85,306 |
 | To Victory! | 15.00% | ~79,974 |
@@ -42,12 +42,12 @@ Number of Ratings: 617  (23.09.2022)
 | Noble Intentions | 5.00% | ~26,658 |
 | Rising Star | 5.00% | ~26,658 |
 | Slime Slayer | 5.00% | ~26,658 |
-| Privacy, Please! | 4.00% | ~21,326 |
-| Silky Smooth | 4.00% | ~21,326 |
-| Hash It Over | 4.00% | ~21,326 |
-| Biting Tongue | 4.00% | ~21,326 |
-| What a Catch! | 4.00% | ~21,326 |
-| Hit the Spot | 4.00% | ~21,326 |
+| Privacy, Please! | 4.00% | ~21,327 |
+| Silky Smooth | 4.00% | ~21,327 |
+| Hash It Over | 4.00% | ~21,327 |
+| Biting Tongue | 4.00% | ~21,327 |
+| What a Catch! | 4.00% | ~21,327 |
+| Hit the Spot | 4.00% | ~21,327 |
 | Talk the Talk | 3.00% | ~15,995 |
 | Skin in the Game | 3.00% | ~15,995 |
 | Caving In | 3.00% | ~15,995 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,599 |
 | Point Taken | 0.20% | ~1,066 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533,162 (Ranked 35)  
+Progressed: 533,163 (Ranked 35)  
 Completed: 509 (0.10%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 509 (0.10%) (Ranked 295)
 | 2023-12-12 | 533,018 | 508 |
 | 2023-12-13 | 533,074 | 508 |
 | 2023-12-14 | 533,142 | 509 |
-| 2023-12-15 | 533,162 | 509 |
+| 2023-12-15 | 533,163 | 509 |
 ## Awards
 Max (Relaxing): 21  (Ranked 553)  
 Sum: 21 (Ranked 555)  

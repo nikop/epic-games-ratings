@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4889,
+  "EOS_Progressed": 4890,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3461,6 +3461,11 @@
       "Time": "2023-12-15T11:04:03.4052474+00:00",
       "NumProgressed": 4889,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-15T13:09:54.7060334+00:00",
+      "NumProgressed": 4890,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3528,7 +3533,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4596
+      "UsersEstimate": 4597
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3560,7 +3565,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -3720,7 +3725,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2689
+      "UsersEstimate": 2690
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -3744,7 +3749,7 @@
       "Name": "Infidel",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -3752,7 +3757,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -4007,15 +4012,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4889,
+      "Progressed": 4890,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:04:26.3546382+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:09:54.7060331+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.6535047+00:00",
-  "LastUpdate_Ratings": "2023-12-15T12:00:23.1386643+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:04:26.3547142+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:06:32.7226924+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:09:54.7061179+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,7 +403,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1365,
+  "EOS_Progressed": 1366,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -3248,6 +3248,11 @@
       "Time": "2023-12-15T06:09:31.8488886+00:00",
       "NumProgressed": 1365,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T13:15:35.4342236+00:00",
+      "NumProgressed": 1366,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3315,7 +3320,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "EXPERT_1",
@@ -3347,7 +3352,7 @@
       "Name": "Grave Robber",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "HEAD_BURST_1",
@@ -3355,7 +3360,7 @@
       "Name": "Head Burst",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "INDY_1",
@@ -3379,7 +3384,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "LOVE_GURU_1",
@@ -3387,7 +3392,7 @@
       "Name": "Love Guru",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -3411,7 +3416,7 @@
       "Name": "One HIT wonder",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3435,7 +3440,7 @@
       "Name": "Paranoia",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "PRIVATE_EYE",
@@ -3483,7 +3488,7 @@
       "Name": "Savant",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "SECRET_ROOM",
@@ -3515,7 +3520,7 @@
       "Name": "Traveler",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "VVE",
@@ -3546,15 +3551,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1365,
+      "Progressed": 1366,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:10:17.1517946+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:15:35.4342232+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.8327471+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:59:18.7677972+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:10:17.1518361+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:05:07.1472419+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:15:35.4342591+00:00"
 }

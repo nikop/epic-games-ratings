@@ -9,8 +9,8 @@
 | For the Horde! | 83.00% | ~464 |
 | Hammer Time, Round Two | 81.00% | ~453 |
 | The Hellwoods | 77.00% | ~430 |
-| The Plains of Strothalm | 71.00% | ~397 |
-| Experienced Thalya | 71.00% | ~397 |
+| The Plains of Strothalm | 72.00% | ~402 |
+| Experienced Thalya | 72.00% | ~402 |
 | Thalya's Concentrated Fury | 69.00% | ~386 |
 | Bad Elves Go Everywhere | 69.00% | ~386 |
 | Heroes’ Gorge | 65.00% | ~363 |
@@ -35,7 +35,7 @@
 | The Duel | 35.00% | ~196 |
 | Unstoppable Horde | 34.00% | ~190 |
 | Master of the Undead | 34.00% | ~190 |
-| If Looks Could Kill | 32.00% | ~179 |
+| If Looks Could Kill | 33.00% | ~184 |
 | The Finitude Drill | 30.00% | ~168 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~162 |
 | Forbidden Knowledge | 28.00% | ~157 |
@@ -48,8 +48,8 @@
 | Bonus Evilness | 23.00% | ~129 |
 | Raiders of the Lost Stone | 23.00% | ~129 |
 | The Rune Sockets of Finitude (Part 1) | 23.00% | ~129 |
+| Rubble and Ashes | 20.00% | ~112 |
 | The Rune Sockets of Finitude (Part 2) | 20.00% | ~112 |
-| Rubble and Ashes | 19.00% | ~106 |
 | The Last Stand - This Time For Real! | 19.00% | ~106 |
 | My Little Torture Chamber | 18.00% | ~101 |
 | Lavalumps on Ice! | 18.00% | ~101 |

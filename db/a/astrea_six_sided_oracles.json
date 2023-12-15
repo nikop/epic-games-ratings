@@ -2,10 +2,10 @@
   "ID": "a940fa38f001486a9884640924119576",
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -835,9 +835,9 @@
       "ID": "DiceSpecialist",
       "SetID": "1jeo1g7",
       "Name": "Dice Specialist",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DicesmithingTime",
@@ -947,9 +947,9 @@
       "ID": "LoyalPartner",
       "SetID": "1jeo1g7",
       "Name": "Loyal Partner",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "MechanicIntegration",
@@ -1019,9 +1019,9 @@
       "ID": "PocketAstrarium",
       "SetID": "1jeo1g7",
       "Name": "Pocket Astrarium",
-      "Percentage": 0.8,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "Prestidigitation",
@@ -1227,9 +1227,9 @@
       "ID": "UnepicHero",
       "SetID": "1jeo1g7",
       "Name": "Unepic Hero",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "VirtuousWarrior",
@@ -1283,9 +1283,9 @@
       "ID": "AquarianChampion",
       "SetID": "1jeo1g7",
       "Name": "Aquarian Champion",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "AquarianHero",
@@ -1410,8 +1410,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:06:53.5872823+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:13:00.2288096+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.3287789+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:58:54.4394533+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:06:53.5873599+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:04:34.9483072+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:13:00.2288858+00:00"
 }

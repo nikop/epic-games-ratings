@@ -3,9 +3,9 @@
   "Name": "Time Trap",
   "ProductSlug": "time-trap-8a9725",
   "Ranking_EOS_Progress": 567,
-  "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_Completed": 15,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-09-22T08:00:00+00:00",
     "PcReleaseDate": "2017-07-28T18:00:00+00:00",
@@ -21,12 +21,14 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 23,
-  "EOS_Completed": 5,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 21.74,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 26.09,
   "EosHistory": [
     {
       "Time": "2023-09-12T14:02:14.1623151+00:00",
@@ -152,6 +154,11 @@
       "Time": "2023-12-14T13:16:39.5312372+00:00",
       "NumProgressed": 23,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-15T13:15:37.591993+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-12T14:02:14.1636363+00:00",
@@ -194,9 +201,9 @@
       "ID": "achievement_winner",
       "SetID": "b9jpe8p",
       "Name": "Winner",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 200,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
@@ -204,12 +211,13 @@
       "ID": "b9jpe8p",
       "IsBase": true,
       "Progressed": 23,
-      "Completed": 5
+      "Completed": 6
     }
   ],
+  "FirstSeen": "2023-12-15T13:06:07.1604686+00:00",
   "FirstSeenAchievements": "2023-09-12T14:02:14.1636362+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:10:19.0483416+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:15:37.5919927+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:55.3189316+00:00",
-  "LastUpdate_Ratings": "2023-12-15T12:00:03.1112619+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:10:19.0483543+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:06:07.1604713+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:15:37.5919986+00:00"
 }

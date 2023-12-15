@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~127 |
+| Malpractice Assurance | 6.00% | ~128 |
 | This guy... again? | 3.00% | ~64 |
 | Lost and Found | 3.00% | ~64 |
 | This Belongs in a Museum | 2.00% | ~2,545 |
@@ -17,8 +17,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 2.00% | ~2,545 |
 | Escape from the Black Hole | 2.00% | ~2,545 |
 | Autodidact | 2.00% | ~2,545 |
-| Ploughshares to Swords | 2.00% | ~42 |
-| Bloody Graduation | 2.00% | ~42 |
+| Ploughshares to Swords | 2.00% | ~43 |
+| Bloody Graduation | 2.00% | ~43 |
 | Don't Make Me Turn This Coach Around | 1.00% | ~1,273 |
 | Serenity Now! | 1.00% | ~1,273 |
 | It Rings a Bell | 1.00% | ~1,273 |
@@ -39,6 +39,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Worldly Traveller | 0.80% | ~1,018 |
 | Road Trip | 0.80% | ~1,018 |
 | Unleash Hell | 0.70% | ~891 |
+| Long Live the King | 0.70% | ~891 |
 | Unfulfilled Desires | 0.70% | ~891 |
 | Predator | 0.70% | ~891 |
 | Now Stay Dead | 0.70% | ~891 |
@@ -47,7 +48,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unshackled | 0.70% | ~891 |
 | Resurrection | 0.60% | ~764 |
 | Funny Guy | 0.60% | ~764 |
-| Long Live the King | 0.60% | ~764 |
 | Wyrdly Reconstructed | 0.60% | ~764 |
 | Boxcar Kid | 0.60% | ~764 |
 | A Clear Conscience | 0.60% | ~764 |
@@ -60,7 +60,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Looks Familiar | 0.40% | ~509 |
 | Hot Air | 0.40% | ~509 |
 | Eyes Up | 0.40% | ~509 |
-| Et Tu, Riposte? | 0.40% | ~8 |
+| Et Tu, Riposte? | 0.40% | ~9 |
 | Shrine of Reflection | 0.30% | ~382 |
 | Handled | 0.30% | ~382 |
 | Body of Work | 0.30% | ~382 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,252 (Ranked 84)  
+Progressed: 127,272 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
-| 2023-12-15 | 127,252 | 3 |
+| 2023-12-15 | 127,272 | 3 |
 ## Awards
 Max (Character Customization): 7,718  (Ranked 51)  
 Sum: 20,477 (Ranked 59)  

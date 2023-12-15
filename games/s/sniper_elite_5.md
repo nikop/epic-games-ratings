@@ -6,7 +6,7 @@ Rating: 4.44 (Ranked 682)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,890 |
-| Confirming Suspicions | 41.00% | ~1,649 |
+| Confirming Suspicions | 42.00% | ~1,689 |
 | The Kraken Wakes | 37.00% | ~1,488 |
 | It's Starting to Crack | 34.00% | ~1,367 |
 | Change the Channel | 31.00% | ~1,247 |

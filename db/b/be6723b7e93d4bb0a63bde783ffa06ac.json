@@ -2,10 +2,10 @@
   "ID": "be6723b7e93d4bb0a63bde783ffa06ac",
   "Name": "StrikeForce Kitty",
   "ProductSlug": "strike-force-kitty-4603e5",
-  "Ranking_EOS_Progress": 467,
+  "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2018-02-20T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 85,
+  "EOS_Progressed": 86,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -419,6 +419,11 @@
       "Time": "2023-12-15T12:04:37.3607543+00:00",
       "NumProgressed": 85,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T13:10:08.5510219+00:00",
+      "NumProgressed": 86,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:03:22.1103385+00:00",
@@ -501,7 +506,7 @@
       "ID": "ach18",
       "SetID": "baneh2j",
       "Name": "Escape from Kotaushenko",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -557,7 +562,7 @@
       "ID": "ach24",
       "SetID": "baneh2j",
       "Name": "Researcher",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 35,
       "UsersEstimate": 43
     },
@@ -573,7 +578,7 @@
       "ID": "ach26",
       "SetID": "baneh2j",
       "Name": "Passion",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 35,
       "UsersEstimate": 21
     },
@@ -581,17 +586,17 @@
       "ID": "ach27",
       "SetID": "baneh2j",
       "Name": "Preparation",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 35,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach28",
       "SetID": "baneh2j",
       "Name": "Start",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 35,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach29",
@@ -629,7 +634,7 @@
       "ID": "ach4",
       "SetID": "baneh2j",
       "Name": "Skillful fighter",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -645,7 +650,7 @@
       "ID": "ach6",
       "SetID": "baneh2j",
       "Name": "On the style",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 35,
       "UsersEstimate": 57
     },
@@ -678,14 +683,14 @@
     {
       "ID": "baneh2j",
       "IsBase": true,
-      "Progressed": 85,
+      "Progressed": 86,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:04:37.360754+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:10:08.5510215+00:00",
   "LastUpdate_AppInfo": "2023-12-13T08:56:58.3281162+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:57:29.5446911+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:04:37.3607777+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:02:44.2028104+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:10:08.5510478+00:00"
 }

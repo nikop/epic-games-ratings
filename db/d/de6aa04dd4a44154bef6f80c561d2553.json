@@ -3,9 +3,9 @@
   "Name": "Xuan-Yuan Sword VII",
   "ProductSlug": "xuan-yuan-sword-7-22c442",
   "Ranking_EOS_Progress": 562,
-  "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_Completed": 91,
+  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
     "PcReleaseDate": "2020-10-28T16:00:00+00:00",
@@ -225,9 +225,9 @@
       "ID": "Chapter03_DangerousDeal",
       "SetID": "c8fdd59",
       "Name": "Dangerous Deal",
-      "Percentage": 64,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Chapter04_AJourneyBegins",
@@ -369,9 +369,9 @@
       "ID": "FirstBuildingInElysium",
       "SetID": "c8fdd59",
       "Name": "Something in the Scroll",
-      "Percentage": 56,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "GoodCompany",
@@ -385,9 +385,9 @@
       "ID": "HitTheBoardRunning",
       "SetID": "c8fdd59",
       "Name": "Hit the Board Running",
-      "Percentage": 44,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Marker",
@@ -528,8 +528,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:10:26.4253569+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:15:45.9001868+00:00",
   "LastUpdate_AppInfo": "2023-12-11T14:57:17.0674145+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:58:40.037665+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:10:26.4253928+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:04:16.784+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:15:45.9002087+00:00"
 }

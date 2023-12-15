@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10349,
+  "EOS_Progressed": 10350,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2017,6 +2017,11 @@
       "Time": "2023-12-15T12:05:34.7594045+00:00",
       "NumProgressed": 10349,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-15T13:11:20.7842388+00:00",
+      "NumProgressed": 10350,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 43,
@@ -2084,7 +2089,7 @@
       "Name": "perkele",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "ACH_COLLECTIBLES_GERMANY",
@@ -2100,7 +2105,7 @@
       "Name": "eurobeat",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACH_COLLECTIBLES_NORWAY",
@@ -2108,7 +2113,7 @@
       "Name": "viking",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACH_COLLECTIBLES_SARDINIA",
@@ -2124,7 +2129,7 @@
       "Name": "master of rally",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACH_COMPLETE_GROUP2",
@@ -2156,7 +2161,7 @@
       "Name": "antilag",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACH_COMPLETE_GROUPB",
@@ -2188,7 +2193,7 @@
       "Name": "keep it tidy",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 8072
+      "UsersEstimate": 8073
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -2196,7 +2201,7 @@
       "Name": "group b",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ACH_DAILY",
@@ -2220,7 +2225,7 @@
       "Name": "where is the stage?",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "ACH_FUJIN_ODO",
@@ -2252,7 +2257,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9935
+      "UsersEstimate": 9936
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -2268,7 +2273,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6209
+      "UsersEstimate": 6210
     },
     {
       "ID": "ACH_NIGHT",
@@ -2364,22 +2369,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7451
+      "UsersEstimate": 7452
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10349,
+      "Progressed": 10350,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:05:34.759404+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:11:20.7842385+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:57.0988165+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:57:12.6016773+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:05:34.7594343+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:02:20.8670684+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:11:20.7842751+00:00"
 }

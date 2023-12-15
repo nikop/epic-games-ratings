@@ -6,17 +6,17 @@
 | ---- | ---------- | ----- |
 | Inquisitor | 38.00% | ~200 |
 | Goblin Tales | 30.00% | ~158 |
-| Bug Hunter | 25.00% | ~131 |
+| Bug Hunter | 25.00% | ~132 |
 | Boss Killer | 23.00% | ~121 |
-| The Fallen | 21.00% | ~110 |
+| The Fallen | 21.00% | ~111 |
 | Artifact Collector | 19.00% | ~100 |
 | Trap Master | 19.00% | ~100 |
 | Ghost Buster | 16.00% | ~84 |
 | Iconoclasm | 15.00% | ~79 |
 | Reincarnation | 15.00% | ~79 |
-| Gladiator | 13.00% | ~68 |
-| Librarian | 13.00% | ~68 |
-| Orcs Must Die! | 13.00% | ~68 |
+| Gladiator | 13.00% | ~69 |
+| Librarian | 13.00% | ~69 |
+| Orcs Must Die! | 13.00% | ~69 |
 | Lumberjack | 12.00% | ~63 |
 | The End | 12.00% | ~63 |
 | Troubleshooter | 11.00% | ~58 |
@@ -31,21 +31,21 @@
 | Holy Knight | 3.00% | ~16 |
 | Marksman | 3.00% | ~16 |
 | Spell Master | 3.00% | ~16 |
-| Hoarder | 2.00% | ~10 |
-| Meat Lover | 2.00% | ~10 |
-| Sling of David | 2.00% | ~10 |
-| Sword Master | 2.00% | ~10 |
-| Witch | 2.00% | ~10 |
-| Assassin | 1.00% | ~5 |
+| Hoarder | 2.00% | ~11 |
+| Meat Lover | 2.00% | ~11 |
+| Sling of David | 2.00% | ~11 |
+| Sword Master | 2.00% | ~11 |
+| Witch | 2.00% | ~11 |
 | Roughneck | 1.00% | ~5 |
 | Rune Master | 1.00% | ~5 |
 | Weapon Master | 1.00% | ~5 |
+| Assassin | 0.90% | ~5 |
 | Necromancer | 0.60% | ~3 |
 | Art Collector | 0.40% | ~2 |
 | Cryomancer | 0.40% | ~2 |
 | Hardboiled | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525 (Ranked 319)  
+Progressed: 527 (Ranked 319)  
 Completed: 1 (0.19%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 1 (0.19%) (Ranked 267)
 | 2023-12-12 | 503 | 1 |
 | 2023-12-13 | 505 | 1 |
 | 2023-12-14 | 517 | 1 |
-| 2023-12-15 | 525 | 1 |
+| 2023-12-15 | 527 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

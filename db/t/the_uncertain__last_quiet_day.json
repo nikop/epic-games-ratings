@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 417,
+  "Ranking_EOS_NewPlayers": 389,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 591,
+  "EOS_Progressed": 592,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.21,
   "EosHistory": [
@@ -884,6 +884,11 @@
       "Time": "2023-12-14T15:09:52.4332237+00:00",
       "NumProgressed": 591,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-15T13:15:36.6137265+00:00",
+      "NumProgressed": 592,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -895,7 +900,7 @@
       "Name": "Ace",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ANNOYING",
@@ -935,7 +940,7 @@
       "Name": "Curious",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -967,7 +972,7 @@
       "Name": "Goody",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "HACKER",
@@ -983,7 +988,7 @@
       "Name": "Hands up!",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -1055,7 +1060,7 @@
       "Name": "Now you know",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "PERFECT_HEARING",
@@ -1071,7 +1076,7 @@
       "Name": "Please oh pleeease!",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "POOL",
@@ -1095,7 +1100,7 @@
       "Name": "Short circuit",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "SILENT",
@@ -1135,7 +1140,7 @@
       "Name": "Uncertain",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "WALKING_ROBOT",
@@ -1150,7 +1155,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 591,
+      "Progressed": 592,
       "Completed": 19
     }
   ],
@@ -1158,8 +1163,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:10:18.0298625+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:15:36.6137262+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.3039819+00:00",
-  "LastUpdate_Ratings": "2023-12-15T12:00:40.3187823+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:10:18.029885+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:06:53.2324498+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:15:36.6137473+00:00"
 }

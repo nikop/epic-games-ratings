@@ -6,38 +6,38 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,647 |
-| Titan's First Steps | 8.00% | ~11,647 |
-| Basic in Bulk | 7.00% | ~10,191 |
-| Tinkle of Coins | 7.00% | ~10,191 |
-| Disintermediation | 6.00% | ~8,735 |
-| It's Free Real Estate | 5.00% | ~7,279 |
-| Budding Merchant | 5.00% | ~7,279 |
-| Capitalism Ho! | 5.00% | ~7,279 |
-| One Easy Payment | 4.00% | ~5,823 |
-| Some Assembly Required | 4.00% | ~5,823 |
-| Another Satisfied Customer | 4.00% | ~5,823 |
-| Pretty Penny | 4.00% | ~5,823 |
-| One-Armed Bandit | 4.00% | ~5,823 |
-| Through Repetition, Perfection | 4.00% | ~5,823 |
-| Own the Means of Production | 4.00% | ~5,823 |
-| The Daily Grind | 3.00% | ~4,367 |
-| Bounty Hunters | 3.00% | ~4,367 |
-| Blank Page Syndrome | 3.00% | ~4,367 |
-| Demand for Supplies | 3.00% | ~4,367 |
-| Flooding the Market | 3.00% | ~4,367 |
-| Where it Hurts | 3.00% | ~4,367 |
-| Gem Expert | 3.00% | ~4,367 |
-| Gild-Gotten Goods | 3.00% | ~4,367 |
-| Accomplished Merchant | 3.00% | ~4,367 |
-| Dungeon Imports | 3.00% | ~4,367 |
-| Did we pack lunch? | 3.00% | ~4,367 |
-| Arcane Industries | 3.00% | ~4,367 |
+| Sponsored by Argon | 8.00% | ~11,648 |
+| Titan's First Steps | 8.00% | ~11,648 |
+| Basic in Bulk | 7.00% | ~10,192 |
+| Tinkle of Coins | 7.00% | ~10,192 |
+| Disintermediation | 6.00% | ~8,736 |
+| It's Free Real Estate | 5.00% | ~7,280 |
+| Budding Merchant | 5.00% | ~7,280 |
+| Capitalism Ho! | 5.00% | ~7,280 |
+| One Easy Payment | 4.00% | ~5,824 |
+| Some Assembly Required | 4.00% | ~5,824 |
+| Another Satisfied Customer | 4.00% | ~5,824 |
+| Pretty Penny | 4.00% | ~5,824 |
+| One-Armed Bandit | 4.00% | ~5,824 |
+| Through Repetition, Perfection | 4.00% | ~5,824 |
+| Own the Means of Production | 4.00% | ~5,824 |
+| The Daily Grind | 3.00% | ~4,368 |
+| Ascended | 3.00% | ~4,368 |
+| Bounty Hunters | 3.00% | ~4,368 |
+| Blank Page Syndrome | 3.00% | ~4,368 |
+| Demand for Supplies | 3.00% | ~4,368 |
+| Flooding the Market | 3.00% | ~4,368 |
+| Where it Hurts | 3.00% | ~4,368 |
+| Gem Expert | 3.00% | ~4,368 |
+| Gild-Gotten Goods | 3.00% | ~4,368 |
+| Accomplished Merchant | 3.00% | ~4,368 |
+| Dungeon Imports | 3.00% | ~4,368 |
+| Did we pack lunch? | 3.00% | ~4,368 |
+| Arcane Industries | 3.00% | ~4,368 |
 | On the Path to Greatness | 2.00% | ~2,912 |
 | A Notch Above the Rest | 2.00% | ~2,912 |
 | Cream of the Crop | 2.00% | ~2,912 |
 | Proud Paladin | 2.00% | ~2,912 |
-| Ascended | 2.00% | ~2,912 |
 | Above the Norm | 2.00% | ~2,912 |
 | Tax not Included | 2.00% | ~2,912 |
 | The King's Caprice | 2.00% | ~2,912 |
@@ -109,9 +109,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | All or Nothing! | 0.80% | ~1,165 |
 | Anything not Nailed Down | 0.70% | ~1,019 |
 | Marvels from the World Over | 0.70% | ~1,019 |
-| Bane of Legends | 0.60% | ~873 |
-| Unleashed Potential | 0.60% | ~873 |
-| JACKPOT!!! | 0.60% | ~873 |
+| Bane of Legends | 0.60% | ~874 |
+| Unleashed Potential | 0.60% | ~874 |
+| JACKPOT!!! | 0.60% | ~874 |
 | Ultimate Collector | 0.50% | ~728 |
 | Oligarch Monarch | 0.40% | ~582 |
 | Merchant Extraordinaire | 0.40% | ~582 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.30% | ~437 |
 | Capitalist Camaraderie | 0.20% | ~291 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,582 (Ranked 80)  
-Completed: 313 (0.21%) (Ranked 260)  
+Progressed: 145,597 (Ranked 80)  
+Completed: 314 (0.22%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -358,16 +358,16 @@ Completed: 313 (0.21%) (Ranked 260)
 | 2023-12-12 | 144,871 | 294 |
 | 2023-12-13 | 145,093 | 297 |
 | 2023-12-14 | 145,474 | 307 |
-| 2023-12-15 | 145,582 | 313 |
+| 2023-12-15 | 145,597 | 314 |
 ## Awards
 Max (Great for Beginners): 4,892  (Ranked 75)  
-Sum: 27,736 (Ranked 51)  
+Sum: 27,739 (Ranked 51)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,892 |
 | This game is Relaxing | 4,060 |
-| This game has Quickly Understood Controls | 4,043 |
+| This game has Quickly Understood Controls | 4,046 |
 | This game has Diverse Characters | 3,977 |
 | This game is Highly Recommended | 3,795 |
 | This game has Easy Combat | 3,748 |
@@ -694,4 +694,4 @@ Diff (max vs sum): 24
 | 2023-12-12 | 3.99 | - | 4,878 | 27,700 |
 | 2023-12-13 | 3.99 | - | 4,882 | 27,707 |
 | 2023-12-14 | 3.99 | - | 4,892 | 27,726 |
-| 2023-12-15 | 3.99 | - | 4,892 | 27,736 |
+| 2023-12-15 | 3.99 | - | 4,892 | 27,739 |

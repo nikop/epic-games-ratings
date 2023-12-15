@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7611,
+  "EOS_Progressed": 7612,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6248,6 +6248,11 @@
       "Time": "2023-12-15T05:06:10.2742931+00:00",
       "NumProgressed": 7611,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-15T13:11:33.2773506+00:00",
+      "NumProgressed": 7612,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -6307,7 +6312,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -6347,7 +6352,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "AK_ON_TOWN",
@@ -6371,7 +6376,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -6411,7 +6416,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4262
+      "UsersEstimate": 4263
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6459,7 +6464,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3044
+      "UsersEstimate": 3045
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -6474,15 +6479,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7611,
+      "Progressed": 7612,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:05:44.5646555+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:11:33.2773502+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:23.3516207+00:00",
-  "LastUpdate_Ratings": "2023-12-15T12:03:28.6471881+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:05:44.564695+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:08:40.3322583+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:11:33.2773892+00:00"
 }

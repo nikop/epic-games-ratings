@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breaking Through | 71.00% | ~79 |
-| Silent Overload | 64.00% | ~71 |
-| Symbiotic Weapon | 58.00% | ~64 |
+| Breaking Through | 71.00% | ~80 |
+| Silent Overload | 63.00% | ~71 |
+| Symbiotic Weapon | 57.00% | ~64 |
 | A.I. Training | 51.00% | ~57 |
-| Sniper | 39.00% | ~43 |
+| Sniper | 38.00% | ~43 |
 | The Red Herring | 34.00% | ~38 |
-| Telekinesis | 30.00% | ~33 |
+| Telekinesis | 29.00% | ~32 |
 | Sapper | 24.00% | ~27 |
-| Tough Decision | 22.00% | ~24 |
+| Tough Decision | 21.00% | ~24 |
 | Veteran Sniper | 20.00% | ~22 |
 | The Neuro-connector | 20.00% | ~22 |
 | Flatline | 20.00% | ~22 |
@@ -20,17 +20,17 @@
 | Full and Final Settlement | 18.00% | ~20 |
 | Unstoppable | 18.00% | ~20 |
 | One Click Away | 17.00% | ~19 |
-| Cyborg | 13.00% | ~14 |
+| Cyborg | 13.00% | ~15 |
 | Lifter | 10.00% | ~11 |
 | Brain-hacker | 9.00% | ~10 |
 | Gravity Bender | 9.00% | ~10 |
-| Hunter | 5.00% | ~6 |
-| Zero Gravity | 5.00% | ~6 |
+| Hunter | 4.00% | ~4 |
+| Zero Gravity | 4.00% | ~4 |
 | No Place to Hide | 3.00% | ~3 |
 | A Voice in the Dark | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111 (Ranked 444)  
-Completed: 3 (2.70%) (Ranked 118)  
+Progressed: 112 (Ranked 444)  
+Completed: 3 (2.68%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -69,7 +69,7 @@ Completed: 3 (2.70%) (Ranked 118)
 | 2023-10-29 | 108 | 3 |
 | 2023-11-25 | 109 | 3 |
 | 2023-11-28 | 110 | 3 |
-| 2023-12-15 | 111 | 3 |
+| 2023-12-15 | 112 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

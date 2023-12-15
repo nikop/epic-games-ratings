@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 540,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -268,9 +268,9 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "g2",
@@ -372,9 +372,9 @@
       "ID": "jz2",
       "SetID": "b1ggf28",
       "Name": "Architect",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "jz3",
@@ -579,8 +579,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:04:20.7228+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:09:47.8142383+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-15T12:03:04.0738158+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:04:20.7228417+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:08:07.370723+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:09:47.8142864+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "b79b8b81ba8c4bf9b4b1154670237131",
   "Name": "Invincible Presents: Atom Eve",
   "ProductSlug": "atom-eve-ff090d",
-  "Ranking_Rating": 757,
+  "Ranking_Rating": 758,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 3739,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -143,9 +143,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15207,
+  "EOS_Progressed": 15208,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3718,6 +3718,11 @@
       "Time": "2023-12-15T10:09:02.8257845+00:00",
       "NumProgressed": 15207,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-15T13:14:45.04341+00:00",
+      "NumProgressed": 15208,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -3762,7 +3767,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11405
+      "UsersEstimate": 11406
     },
     {
       "ID": "ACH_AE_14",
@@ -3770,7 +3775,7 @@
       "Name": "Sticky Situation",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2889
+      "UsersEstimate": 2890
     },
     {
       "ID": "ACH_AE_15",
@@ -3930,7 +3935,7 @@
       "Name": "Diplomat",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "ACH_AE_33",
@@ -4009,7 +4014,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15207,
+      "Progressed": 15208,
       "Completed": 14
     }
   ],
@@ -4017,8 +4022,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-13T16:00:23.030195+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:09:37.8306424+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:14:45.0434097+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:28.350985+00:00",
-  "LastUpdate_Ratings": "2023-12-15T12:00:28.5265869+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:09:37.8306834+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:06:38.997624+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:14:45.043448+00:00"
 }

@@ -19,15 +19,15 @@
 | Astral Adventurer | 26.00% | ~34 |
 | Star Killer | 26.00% | ~34 |
 | Lacertian Champion | 26.00% | ~34 |
-| Loyal Partner | 22.00% | ~28 |
+| Loyal Partner | 23.00% | ~30 |
 | Apian Champion | 22.00% | ~28 |
 | Shard Spender | 19.00% | ~25 |
 | Behenian Champion | 19.00% | ~25 |
 | Unbeatable | 16.00% | ~21 |
 | Sadistic Plan | 13.00% | ~17 |
+| Aquarian Champion | 13.00% | ~17 |
 | Astral Seeker | 12.00% | ~15 |
 | Stellar Haste | 12.00% | ~15 |
-| Aquarian Champion | 12.00% | ~15 |
 | Heart Gate | 11.00% | ~14 |
 | Favored by the Cosmos | 10.00% | ~13 |
 | The Corruption Goddess | 10.00% | ~13 |
@@ -57,6 +57,7 @@
 | Astral Tinkerer | 2.00% | ~3 |
 | Astromancer | 2.00% | ~3 |
 | Critical Twist | 2.00% | ~3 |
+| Pocket Astrarium | 2.00% | ~3 |
 | Prestidigitation | 2.00% | ~3 |
 | Reflexive Mind | 2.00% | ~3 |
 | Royal Choir | 2.00% | ~3 |
@@ -69,11 +70,12 @@
 | Arch-Oracle | 0.80% | ~1 |
 | Astrea's Saviors | 0.80% | ~1 |
 | Astrium Specialist | 0.80% | ~1 |
+| Dice Specialist | 0.80% | ~1 |
 | Gotta tinker'em all! | 0.80% | ~1 |
 | Plague Doctor | 0.80% | ~1 |
-| Pocket Astrarium | 0.80% | ~1 |
 | Six-Sided Mastery | 0.80% | ~1 |
 | This is Fine | 0.80% | ~1 |
+| Unepic Hero | 0.80% | ~1 |
 | Virtuous Warrior | 0.80% | ~1 |
 | Apian Mastery | 0.80% | ~1 |
 | Apian Champion | 0.00% | ~0 |
@@ -88,7 +90,6 @@
 | Betting High | 0.00% | ~0 |
 | Blazing Prince | 0.00% | ~0 |
 | Boundless as Ocean | 0.00% | ~0 |
-| Dice Specialist | 0.00% | ~0 |
 | Eridanian Champion | 0.00% | ~0 |
 | Eridanian Hero | 0.00% | ~0 |
 | Eridanian Mastery | 0.00% | ~0 |
@@ -101,9 +102,8 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 | The world goes round... | 0.00% | ~0 |
-| Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129 (Ranked 422)  
+Progressed: 129 (Ranked 424)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |

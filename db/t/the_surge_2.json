@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -282,9 +282,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2238,
+  "EOS_Progressed": 2239,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -3352,6 +3352,11 @@
       "Time": "2023-12-15T12:03:35.9039007+00:00",
       "NumProgressed": 2238,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-15T13:08:51.4821304+00:00",
+      "NumProgressed": 2239,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3371,7 +3376,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "ACHV_03",
@@ -3443,7 +3448,7 @@
       "Name": "Denying Prophecy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHV_12",
@@ -3499,7 +3504,7 @@
       "Name": "True Survivor",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ACHV_19",
@@ -3539,7 +3544,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "ACHV_24",
@@ -3555,7 +3560,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACHV_26",
@@ -3563,7 +3568,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1791
     },
     {
       "ID": "ACHV_27",
@@ -3667,7 +3672,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "ACHV_40",
@@ -3689,9 +3694,9 @@
       "ID": "ACHV_42",
       "SetID": "8p5mlmc",
       "Name": "Sorry, Didn\u0027t See You There",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 291
     },
     {
       "ID": "ACHV_43",
@@ -3715,7 +3720,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ACHV_46",
@@ -3818,7 +3823,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2238,
+      "Progressed": 2239,
       "Completed": 13
     }
   ],
@@ -3826,8 +3831,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-22T02:25:03.2214817+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:03:35.9038998+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:08:51.4821299+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:57.0176831+00:00",
-  "LastUpdate_Ratings": "2023-12-15T12:02:46.5892127+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:03:35.9056902+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:07:13.0466533+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:08:51.4822028+00:00"
 }

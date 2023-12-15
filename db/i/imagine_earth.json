@@ -5,10 +5,10 @@
   "Ranking_Rating": 834,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
-  "Ranking_EOS_Progress": 333,
+  "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 417,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 435,
+  "EOS_Progressed": 436,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -453,6 +453,11 @@
       "Time": "2023-12-14T13:10:48.4851744+00:00",
       "NumProgressed": 435,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T13:10:24.5413118+00:00",
+      "NumProgressed": 436,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -472,7 +477,7 @@
       "Name": "Campaign Bronze",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "CampaignStars2",
@@ -480,7 +485,7 @@
       "Name": "Campaign Silver",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "CampaignStars3",
@@ -536,7 +541,7 @@
       "Name": "Forester",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Metropolis",
@@ -544,7 +549,7 @@
       "Name": "Metropolis",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Multitalent",
@@ -600,7 +605,7 @@
       "Name": "Magni",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "PlanetRounos",
@@ -608,7 +613,7 @@
       "Name": "Rounos",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "PlanetThera",
@@ -624,7 +629,7 @@
       "Name": "Tuto",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "PlanetUdionTorix",
@@ -655,7 +660,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 435,
+      "Progressed": 436,
       "Completed": 0
     }
   ],
@@ -663,8 +668,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-11-02T00:00:47.6208108+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:04:50.2194416+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:10:24.5413116+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.9874259+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:59:02.6467475+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:04:50.2194554+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:04:45.3606362+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:10:24.5413254+00:00"
 }

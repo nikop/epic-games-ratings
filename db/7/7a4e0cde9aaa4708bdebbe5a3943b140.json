@@ -3,9 +3,9 @@
   "Name": "RedRaptor",
   "ProductSlug": "redraptor-71deb7",
   "Ranking_EOS_Progress": 626,
-  "Ranking_EOS_Completed": 6,
-  "Ranking_EOS_NewPlayers": 417,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_Completed": 5,
+  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-10-11T12:00:00+00:00",
     "PcReleaseDate": "2023-10-11T13:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 11,
-  "EOS_Completed": 5,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 45.45,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 54.55,
   "EosHistory": [
     {
       "Time": "2023-10-11T15:07:27.5875608+00:00",
@@ -104,6 +104,11 @@
       "Time": "2023-12-15T08:08:56.8358392+00:00",
       "NumProgressed": 11,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-15T13:14:47.0919348+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-18T15:02:16.3526143+00:00",
@@ -138,17 +143,17 @@
       "ID": "Stage4",
       "SetID": "ag762md",
       "Name": "Stage 4",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Stage5",
       "SetID": "ag762md",
       "Name": "Stage 5",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Upgrade1",
@@ -204,13 +209,13 @@
       "ID": "ag762md",
       "IsBase": true,
       "Progressed": 11,
-      "Completed": 5
+      "Completed": 6
     }
   ],
   "FirstSeen": "2023-12-10T02:24:26.0991702+00:00",
   "FirstSeenAchievements": "2023-09-18T15:02:16.3526142+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:09:39.523967+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:14:47.0919345+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.8034465+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:57:09.3061519+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:09:39.5239756+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:02:16.4592532+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:14:47.0919418+00:00"
 }

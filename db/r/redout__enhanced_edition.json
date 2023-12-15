@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237191,
+  "EOS_Progressed": 237192,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -25362,6 +25362,11 @@
       "Time": "2023-12-15T11:04:50.5704876+00:00",
       "NumProgressed": 237191,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-15T13:11:00.621204+00:00",
+      "NumProgressed": 237192,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -25389,7 +25394,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66413
+      "UsersEstimate": 66414
     },
     {
       "ID": "CENTAUR",
@@ -25637,22 +25642,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97248
+      "UsersEstimate": 97249
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 237191,
+      "Progressed": 237192,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:05:18.8111077+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:11:00.6212036+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.1696277+00:00",
-  "LastUpdate_Ratings": "2023-12-15T12:00:21.0503932+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:05:18.8112524+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:06:30.1931116+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:11:00.6213459+00:00"
 }

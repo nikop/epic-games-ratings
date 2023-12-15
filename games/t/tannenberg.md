@@ -1,47 +1,47 @@
 # Tannenberg
 [Store](https://store.epicgames.com/en-US/p/tannenberg)  
 [View Rawdata](../../db/t/tannenberg.json)  
-Rating: 4.39 (Ranked 757)  
+Rating: 4.39 (Ranked 758)  
 Number of Ratings: 13,393  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~125,792 |
-| Comeback | 82.00% | ~115,898 |
-| Information is Key | 80.00% | ~113,071 |
-| Unlucky | 70.00% | ~98,937 |
-| Anarchist | 68.00% | ~96,111 |
-| Wallhack | 65.00% | ~91,870 |
-| Steady Supply | 60.00% | ~84,803 |
-| Lucky Shot | 53.00% | ~74,910 |
-| Forward Observer | 52.00% | ~73,496 |
-| Ring Ring! | 52.00% | ~73,496 |
+| Immovable Object | 89.00% | ~125,793 |
+| Comeback | 82.00% | ~115,900 |
+| Information is Key | 80.00% | ~113,073 |
+| Unlucky | 70.00% | ~98,939 |
+| Anarchist | 68.00% | ~96,112 |
+| Wallhack | 65.00% | ~91,872 |
+| Steady Supply | 60.00% | ~84,805 |
+| Lucky Shot | 53.00% | ~74,911 |
+| Forward Observer | 52.00% | ~73,497 |
+| Ring Ring! | 52.00% | ~73,497 |
 | Bossing Around | 45.00% | ~63,603 |
 | Frostbite | 45.00% | ~63,603 |
-| Night Owl | 44.00% | ~62,189 |
-| Strength in Numbers | 44.00% | ~62,189 |
-| Fog of War | 41.00% | ~57,949 |
-| Rasputin | 39.00% | ~55,122 |
-| Stronghold Denied | 39.00% | ~55,122 |
-| Anyone Else? | 38.00% | ~53,709 |
-| Hydra | 36.00% | ~50,882 |
-| This Belongs to Us Now | 36.00% | ~50,882 |
+| Night Owl | 44.00% | ~62,190 |
+| Strength in Numbers | 44.00% | ~62,190 |
+| Fog of War | 41.00% | ~57,950 |
+| Rasputin | 39.00% | ~55,123 |
+| Stronghold Denied | 39.00% | ~55,123 |
+| Anyone Else? | 38.00% | ~53,710 |
+| Hydra | 36.00% | ~50,883 |
+| This Belongs to Us Now | 36.00% | ~50,883 |
 | Stronghold | 35.00% | ~49,469 |
-| Leeroy | 33.00% | ~46,642 |
-| Lost Batallion | 33.00% | ~46,642 |
-| This is MY Machine Gun! | 32.00% | ~45,228 |
-| Together As One | 31.00% | ~43,815 |
+| Leeroy | 33.00% | ~46,643 |
+| Lost Batallion | 33.00% | ~46,643 |
+| This is MY Machine Gun! | 32.00% | ~45,229 |
+| Together As One | 31.00% | ~43,816 |
 | Gavrilo Princip | 27.00% | ~38,162 |
 | Lead Harvest | 25.00% | ~35,335 |
 | Skynet Confirmed | 23.00% | ~32,508 |
 | Kesselschlacht | 22.00% | ~31,095 |
 | Democracy Works! | 20.00% | ~28,268 |
-| Switch, Please! | 19.00% | ~26,854 |
+| Switch, Please! | 19.00% | ~26,855 |
+| At Least This Way I Can Win... | 18.00% | ~25,441 |
 | Tourist | 18.00% | ~25,441 |
-| At Least This Way I Can Win... | 17.00% | ~24,028 |
 | I've Seen It All | 17.00% | ~24,028 |
 | Oops! | 17.00% | ~24,028 |
-| Developers, Developers, Developers, Developers! | 16.00% | ~22,614 |
+| Developers, Developers, Developers, Developers! | 16.00% | ~22,615 |
 | Butcher | 12.00% | ~16,961 |
 | Before the Leaves Fall | 10.00% | ~14,134 |
 | Close Call | 10.00% | ~14,134 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,272 |
 | Road to Berlin | 0.60% | ~848 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,339 (Ranked 81)  
+Progressed: 141,341 (Ranked 81)  
 Completed: 33 (0.02%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,10 +313,10 @@ Completed: 33 (0.02%) (Ranked 345)
 | 2023-12-12 | 141,112 | 33 |
 | 2023-12-13 | 141,197 | 33 |
 | 2023-12-14 | 141,307 | 33 |
-| 2023-12-15 | 141,339 | 33 |
+| 2023-12-15 | 141,341 | 33 |
 ## Awards
 Max (Competitive Players): 335  (Ranked 248)  
-Sum: 3,287 (Ranked 174)  
+Sum: 3,288 (Ranked 174)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
@@ -328,7 +328,7 @@ Diff (max vs sum): 74
 | This game is Relaxing | 315 |
 | This game has Amazing Characters | 284 |
 | This game is Highly Recommended | 283 |
-| This game has Realistic Visuals | 268 |
+| This game has Realistic Visuals | 269 |
 | This game has a Competitive Community | 265 |
 | This game has Amazing Storytelling | 258 |
 | This game is Educational | 99 |
@@ -524,3 +524,4 @@ Diff (max vs sum): 74
 | 2023-12-04 | 4.39 | - | 335 | 3,285 |
 | 2023-12-06 | 4.39 | - | 335 | 3,286 |
 | 2023-12-14 | 4.39 | - | 335 | 3,287 |
+| 2023-12-15 | 4.39 | - | 335 | 3,288 |

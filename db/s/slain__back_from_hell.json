@@ -244,9 +244,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 42054,
+  "EOS_Progressed": 42057,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -26169,6 +26169,11 @@
       "Time": "2023-12-15T12:05:11.1526323+00:00",
       "NumProgressed": 42054,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-12-15T13:10:50.9093925+00:00",
+      "NumProgressed": 42057,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 29,
@@ -26188,7 +26193,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8831
+      "UsersEstimate": 8832
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -26212,7 +26217,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -26228,7 +26233,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -26411,7 +26416,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 42054,
+      "Progressed": 42057,
       "Completed": 29
     }
   ],
@@ -26419,8 +26424,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-02T18:57:45.107059+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:05:11.152632+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:10:50.909392+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:15.3748793+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:57:17.9429005+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:05:11.1527522+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:02:28.0970789+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:10:50.9095289+00:00"
 }

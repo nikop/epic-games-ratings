@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1611,9 +1611,9 @@
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 397
+      "UsersEstimate": 402
     },
     {
       "ID": "ach_main04undead_minions",
@@ -1643,9 +1643,9 @@
       "ID": "ach_main05evil_thalyalevel",
       "SetID": "4hg22ll",
       "Name": "Experienced Thalya",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 397
+      "UsersEstimate": 402
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -1859,9 +1859,9 @@
       "ID": "ach_main14run_completed",
       "SetID": "4hg22ll",
       "Name": "If Looks Could Kill",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 184
     },
     {
       "ID": "ach_main14run_mirroruses",
@@ -1923,9 +1923,9 @@
       "ID": "ach_main16ring_spawners",
       "SetID": "4hg22ll",
       "Name": "Rubble and Ashes",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 112
     },
     {
       "ID": "ach_main17stone_completed",
@@ -2034,8 +2034,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:06:15.2484718+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:12:12.1059475+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:57:33.1568572+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:06:15.2485164+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:02:49.6182594+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:12:12.106001+00:00"
 }

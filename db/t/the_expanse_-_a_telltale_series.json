@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16321,
+  "EOS_Progressed": 16329,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13902,6 +13902,11 @@
       "Time": "2023-12-15T12:08:37.6543311+00:00",
       "NumProgressed": 16321,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-15T13:13:28.5772963+00:00",
+      "NumProgressed": 16329,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13946,7 +13951,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2122
+      "UsersEstimate": 2123
     },
     {
       "ID": "14",
@@ -13962,7 +13967,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "16",
@@ -13978,7 +13983,7 @@
       "Name": "Spore Taste",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "18",
@@ -13994,7 +13999,7 @@
       "Name": "Martian Music",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "2",
@@ -14002,7 +14007,7 @@
       "Name": "Data Logger",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "20",
@@ -14018,7 +14023,7 @@
       "Name": "Drone Dodger",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "22",
@@ -14058,7 +14063,7 @@
       "Name": "Call it Even",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "27",
@@ -14114,7 +14119,7 @@
       "Name": "Data Master",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "6",
@@ -14154,7 +14159,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "32",
@@ -14162,7 +14167,7 @@
       "Name": "Safe Cracker",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "33",
@@ -14170,7 +14175,7 @@
       "Name": "Zen Master",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "34",
@@ -14186,20 +14191,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16321,
+      "Progressed": 16329,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2275,
+      "Progressed": 2283,
       "Completed": 889
     }
   ],
@@ -14207,8 +14212,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:08:37.6543308+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:13:28.5772955+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:57:49.2730494+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:08:37.6544014+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:03:11.0469248+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:13:28.5773651+00:00"
 }

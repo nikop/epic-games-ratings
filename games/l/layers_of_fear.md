@@ -12,9 +12,9 @@
 | Scraps of love | 43.00% | ~52 |
 | The artist’s impression | 43.00% | ~52 |
 | Sign of weakness | 37.00% | ~45 |
-| Refuse to look | 35.00% | ~43 |
+| Refuse to look | 36.00% | ~44 |
 | Finished it | 30.00% | ~37 |
-| Face your fears | 27.00% | ~33 |
+| Face your fears | 28.00% | ~34 |
 | Whispers long forgotten | 16.00% | ~20 |
 | Playtime | 13.00% | ~16 |
 | Tough conversation | 13.00% | ~16 |

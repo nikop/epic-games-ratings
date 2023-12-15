@@ -5,40 +5,40 @@ Rating: 4.35 (Ranked 800)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 89.00% | ~401 |
-| Luc Piette | 76.00% | ~343 |
+| It Wasn’t a Burglary | 89.00% | ~402 |
+| Luc Piette | 76.00% | ~344 |
 | Angeline Van den Bosch | 74.00% | ~334 |
-| Elizabeth Padget | 71.00% | ~320 |
-| Little Grey Cells | 69.00% | ~311 |
+| Elizabeth Padget | 71.00% | ~321 |
+| Little Grey Cells | 69.00% | ~312 |
 | The Bracelet | 66.00% | ~298 |
-| The Blackmail | 55.00% | ~248 |
-| Major Felix Hagen | 55.00% | ~248 |
+| The Blackmail | 55.00% | ~249 |
+| Major Felix Hagen | 55.00% | ~249 |
 | Fine-toothed Comb | 54.00% | ~244 |
 | Florette Duval | 54.00% | ~244 |
-| Order and Method | 53.00% | ~239 |
+| Order and Method | 53.00% | ~240 |
 | The Altercation | 50.00% | ~226 |
 | Truth from Within | 49.00% | ~221 |
 | The Major | 47.00% | ~212 |
-| Curious and Beautiful | 45.00% | ~203 |
 | Comtesse Margaux de Vos | 45.00% | ~203 |
-| Jacqueline “Jackie” Conrad | 44.00% | ~198 |
-| The Interrogations | 44.00% | ~198 |
-| Well-acquainted | 42.00% | ~189 |
+| Curious and Beautiful | 44.00% | ~199 |
+| Jacqueline “Jackie” Conrad | 44.00% | ~199 |
+| The Interrogations | 44.00% | ~199 |
+| Well-acquainted | 42.00% | ~190 |
 | Zakariya Demir | 41.00% | ~185 |
-| Well-read | 40.00% | ~180 |
-| Cassandra Van den Bosch | 38.00% | ~171 |
+| Well-read | 40.00% | ~181 |
+| Cassandra Van den Bosch | 38.00% | ~172 |
 | The Secret | 37.00% | ~167 |
 | Gedeon Demir | 35.00% | ~158 |
-| Rehana Piette | 34.00% | ~153 |
+| Rehana Piette | 34.00% | ~154 |
 | Instinct is Marvellous | 33.00% | ~149 |
 | Ernesto da Silva | 33.00% | ~149 |
 | Inge Frank | 31.00% | ~140 |
 | The Search | 31.00% | ~140 |
-| Hugo Beckers | 30.00% | ~135 |
-| The Family | 28.00% | ~126 |
+| Hugo Beckers | 30.00% | ~136 |
+| The Family | 28.00% | ~127 |
 | Well-travelled | 27.00% | ~122 |
 | Thinking of Everything | 27.00% | ~122 |
-| Viscount Edwin Van den Bosch | 26.00% | ~117 |
+| Viscount Edwin Van den Bosch | 26.00% | ~118 |
 | Exquisite Artwork | 25.00% | ~113 |
 | Archibald Sterling | 25.00% | ~113 |
 | Well-prepared | 21.00% | ~95 |
@@ -52,7 +52,7 @@ Rating: 4.35 (Ranked 800)
 | Room with a View | 7.00% | ~32 |
 | Work-life Balance | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 451 (Ranked 330)  
+Progressed: 452 (Ranked 330)  
 Completed: 6 (1.33%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,6 +136,7 @@ Completed: 6 (1.33%) (Ranked 149)
 | 2023-11-29 | 447 | 6 |
 | 2023-12-13 | 449 | 6 |
 | 2023-12-14 | 451 | 6 |
+| 2023-12-15 | 452 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

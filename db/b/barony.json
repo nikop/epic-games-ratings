@@ -4,11 +4,11 @@
   "ProductSlug": "barony",
   "Ranking_Rating": 190,
   "Ranking_Popularity": 374,
-  "Ranking_PopularitySum": 305,
+  "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 500,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 503,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2020-07-30T15:00:00+00:00",
     "PcReleaseDate": "2020-07-30T15:00:00+00:00",
@@ -1644,10 +1644,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 691,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2023-12-15T13:04:17.1257223+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 692,
+      "NumberOfAwardsMax": 97
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 691,
+  "NumberOfAwards": 692,
   "NumberOfAwardsMax": 97,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1679,7 +1685,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 86
+      "Count": 87
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1717,8 +1723,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
-  "LastChanged": "2023-12-11T21:00:15.668446+00:00",
+  "LastChanged": "2023-12-15T13:04:17.1257221+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:05.0000815+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:58:40.2957055+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:08:31.9401403+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:04:17.1257226+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:13:21.4457273+00:00"
 }

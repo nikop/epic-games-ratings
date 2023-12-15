@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1503,9 +1503,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 242829,
+  "EOS_Progressed": 242839,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1086,
+  "EOS_NewPlayers": 1091,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22363,6 +22363,11 @@
       "Time": "2023-12-15T12:10:08.8544431+00:00",
       "NumProgressed": 242829,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-15T13:15:24.9841227+00:00",
+      "NumProgressed": 242839,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -22422,7 +22427,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16998
+      "UsersEstimate": 16999
     },
     {
       "ID": "Chapter2",
@@ -22430,7 +22435,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12141
+      "UsersEstimate": 12142
     },
     {
       "ID": "Chapter3",
@@ -22510,7 +22515,7 @@
       "Name": "The number of the counting shalt be 7",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "CompanionPaladine",
@@ -22774,7 +22779,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19426
+      "UsersEstimate": 19427
     },
     {
       "ID": "DwarfElf15Support",
@@ -22822,7 +22827,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87418
+      "UsersEstimate": 87422
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -22838,7 +22843,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12141
+      "UsersEstimate": 12142
     },
     {
       "ID": "EndCombatOneHp",
@@ -22846,7 +22851,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9713
+      "UsersEstimate": 9714
     },
     {
       "ID": "EndGameCursed",
@@ -22870,7 +22875,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21855
+      "UsersEstimate": 21856
     },
     {
       "ID": "FollowBraztok",
@@ -22950,7 +22955,7 @@
       "Name": "Inception",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "PriestessEpic",
@@ -22982,7 +22987,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "QuestPriestess",
@@ -23022,7 +23027,7 @@
       "Name": "Speedrun",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12141
+      "UsersEstimate": 12142
     },
     {
       "ID": "SupportCount4",
@@ -23070,28 +23075,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9713
+      "UsersEstimate": 9714
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 242829,
+      "Progressed": 242839,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 242829,
+      "Progressed": 242839,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-12T21:57:44.3633431+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:10:08.8544428+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:15:24.9841224+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.1177484+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:59:02.5146795+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:10:08.8545912+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:04:45.1550547+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:15:24.9842992+00:00"
 }

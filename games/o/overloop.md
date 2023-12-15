@@ -26,8 +26,8 @@
 | Hear that wisper | 25.00% | ~1 |
 | Run, Forest! Run! | 25.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 670)  
-Completed: 1 (25.00%) (Ranked 15)  
+Progressed: 4 (Ranked 671)  
+Completed: 1 (25.00%) (Ranked 16)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -33,8 +33,8 @@ Rating: 4.60 (Ranked 422)
 | Ghost hunter | 21.00% | ~16 |
 | Peacekeeper | 20.00% | ~15 |
 | Defender | 18.00% | ~14 |
+| Fence | 18.00% | ~14 |
 | Showdown | 17.00% | ~13 |
-| Fence | 17.00% | ~13 |
 | Workaholic | 16.00% | ~12 |
 | Safecracker | 16.00% | ~12 |
 | Master thief | 16.00% | ~12 |

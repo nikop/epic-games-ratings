@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67029,
+  "EOS_Progressed": 67041,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 2397,
+  "EOS_NewPlayers": 2395,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3642,6 +3642,11 @@
       "Time": "2023-12-15T12:05:23.9029853+00:00",
       "NumProgressed": 67029,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-12-15T13:11:06.9867652+00:00",
+      "NumProgressed": 67041,
+      "NumCompleted": 78
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -3654,7 +3659,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 24801
+      "UsersEstimate": 24805
     },
     {
       "ID": "Achievement_10",
@@ -3742,7 +3747,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 18098
+      "UsersEstimate": 18101
     },
     {
       "ID": "Achievement_20",
@@ -3782,7 +3787,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2681
+      "UsersEstimate": 2682
     },
     {
       "ID": "Achievement_25",
@@ -3830,7 +3835,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8043
+      "UsersEstimate": 8045
     },
     {
       "ID": "Achievement_30",
@@ -3878,7 +3883,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6033
+      "UsersEstimate": 6034
     },
     {
       "ID": "Achievement_5",
@@ -3894,7 +3899,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2681
+      "UsersEstimate": 2682
     },
     {
       "ID": "Achievement_7",
@@ -3925,7 +3930,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 67029,
+      "Progressed": 67041,
       "Completed": 78
     }
   ],
@@ -3933,8 +3938,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-14T14:03:07.7406649+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:05:23.9029849+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:11:06.9867647+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:14.9583048+00:00",
-  "LastUpdate_Ratings": "2023-12-15T12:03:16.2153526+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:05:23.9030147+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:08:23.1484274+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:11:06.9868029+00:00"
 }

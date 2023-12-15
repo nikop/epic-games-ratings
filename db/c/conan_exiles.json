@@ -2,13 +2,13 @@
   "ID": "conanexiles",
   "Name": "Conan Exiles",
   "ProductSlug": "conan-exiles",
-  "Ranking_Rating": 535,
+  "Ranking_Rating": 536,
   "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 500,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 503,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2021-11-23T16:00:00+00:00",
     "PcReleaseDate": "2018-05-08T16:00:00+00:00",
@@ -8578,10 +8578,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10953,
       "NumberOfAwardsMax": 1590
+    },
+    {
+      "Time": "2023-12-15T13:02:11.1065987+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10962,
+      "NumberOfAwardsMax": 1590
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10953,
+  "NumberOfAwards": 10962,
   "NumberOfAwardsMax": 1590,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8601,7 +8607,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1469
+      "Count": 1474
     },
     {
       "Text": "This game is Relaxing",
@@ -8619,7 +8625,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1301
+      "Count": 1305
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8651,8 +8657,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2023-12-15T09:00:11.2373482+00:00",
+  "LastChanged": "2023-12-15T13:02:11.1065986+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:16.6809855+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:00:15.3877118+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:04:06.2754626+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:02:11.1065991+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:09:29.4994313+00:00"
 }

@@ -24,20 +24,21 @@ Number of Ratings: 45  (23.09.2022)
 | Echoes Die | 1.00% | ~15 |
 | Thematic Divergence | 0.90% | ~14 |
 | Turncoat | 0.90% | ~14 |
-| Another Tale to Tell | 0.70% | ~11 |
-| A Story of Heroes | 0.70% | ~11 |
+| Another Tale to Tell | 0.80% | ~12 |
+| A Story of Heroes | 0.80% | ~12 |
 | No Time for Clawmonsters | 0.70% | ~11 |
 | Legends Never Die | 0.60% | ~9 |
+| Chain Reaction | 0.60% | ~9 |
 | Some Say I'm Too Flashy | 0.60% | ~9 |
 | Empty the Caves | 0.50% | ~8 |
 | Bonebreakers | 0.50% | ~8 |
-| Chain Reaction | 0.50% | ~8 |
+| Plague Doctor | 0.50% | ~8 |
 | Everfading | 0.50% | ~8 |
 | Astrology | 0.50% | ~8 |
 | Storied Past | 0.40% | ~6 |
-| Plague Doctor | 0.40% | ~6 |
 | In Soil, In Smoke | 0.40% | ~6 |
 | All My Birds, Safely Home | 0.40% | ~6 |
+| Lochias's Hunger | 0.40% | ~6 |
 | We Emerge Changed | 0.30% | ~5 |
 | Worldwalker | 0.30% | ~5 |
 | No More Nightmares | 0.30% | ~5 |
@@ -47,7 +48,6 @@ Number of Ratings: 45  (23.09.2022)
 | Grillmaster | 0.30% | ~5 |
 | Into Mulch | 0.30% | ~5 |
 | Tempest | 0.30% | ~5 |
-| Lochias's Hunger | 0.30% | ~5 |
 | I'm Not Smiling | 0.20% | ~3 |
 | Overwhelming Monstrosity | 0.10% | ~2 |
 | A Lowly Crust of Beef | 0.10% | ~2 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,524 (Ranked 246)  
+Progressed: 1,525 (Ranked 246)  
 Completed: 6 (0.39%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 6 (0.39%) (Ranked 227)
 | 2023-12-12 | 1,521 | 6 |
 | 2023-12-13 | 1,522 | 6 |
 | 2023-12-14 | 1,523 | 6 |
-| 2023-12-15 | 1,524 | 6 |
+| 2023-12-15 | 1,525 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 507)  
 Sum: 29 (Ranked 523)  

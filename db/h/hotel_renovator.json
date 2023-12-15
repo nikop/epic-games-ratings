@@ -5,10 +5,10 @@
   "Ranking_Rating": 771,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
-  "Ranking_EOS_Progress": 260,
+  "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1179,
+  "EOS_Progressed": 1180,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.53,
   "EosHistory": [
@@ -2490,6 +2490,11 @@
       "Time": "2023-12-15T12:05:40.6801456+00:00",
       "NumProgressed": 1179,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-15T13:11:28.2140526+00:00",
+      "NumProgressed": 1180,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -2509,7 +2514,7 @@
       "Name": "King of hospitality",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_CHICKEN_ENCOUNTERED",
@@ -2525,7 +2530,7 @@
       "Name": "Roll with it",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -2541,7 +2546,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -2589,7 +2594,7 @@
       "Name": "Memento",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -2605,7 +2610,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -2629,7 +2634,7 @@
       "Name": "Island boy",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -2653,7 +2658,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "ACH_STAR_2",
@@ -2661,7 +2666,7 @@
       "Name": "Moving up",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_STAR_3",
@@ -2669,7 +2674,7 @@
       "Name": "Still more work ahead",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_STAR_4",
@@ -2716,7 +2721,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1179,
+      "Progressed": 1180,
       "Completed": 18
     }
   ],
@@ -2724,8 +2729,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-04T06:59:58.8594185+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:05:40.6801453+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:11:28.2140523+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:05.3714871+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:58:53.2429008+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:05:40.68017+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:04:33.417425+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:11:28.2140793+00:00"
 }

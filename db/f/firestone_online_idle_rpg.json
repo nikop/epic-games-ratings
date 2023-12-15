@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -625,7 +625,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3424,
+  "EOS_Progressed": 3425,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 0,
@@ -9850,6 +9850,11 @@
       "Time": "2023-12-15T12:04:45.4514501+00:00",
       "NumProgressed": 3424,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T13:10:18.8482149+00:00",
+      "NumProgressed": 3425,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -9941,7 +9946,7 @@
       "Name": "Crystal Mining",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "dailyquestcompletionist",
@@ -9981,7 +9986,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ebonyjungleliberator",
@@ -9997,7 +10002,7 @@
       "Name": "Enchanting skill",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "enchantingskillx5",
@@ -10013,7 +10018,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "enhancedwarmachines",
@@ -10109,7 +10114,7 @@
       "Name": "Hero inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "howdoyouturnthison",
@@ -10133,7 +10138,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "jewelenchanting",
@@ -10317,7 +10322,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "thealchemist",
@@ -10333,7 +10338,7 @@
       "Name": "The Expeditioner",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "thefatherofdragons",
@@ -10421,7 +10426,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3184
+      "UsersEstimate": 3185
     },
     {
       "ID": "warmachinesarmy",
@@ -10437,7 +10442,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "whatliesbehindthebush",
@@ -10453,14 +10458,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2671
+      "UsersEstimate": 2672
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3424,
+      "Progressed": 3425,
       "Completed": 2
     }
   ],
@@ -10468,8 +10473,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-14T18:58:46.7589357+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:04:45.4514497+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:10:18.8482146+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:16.4016448+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:59:05.7698668+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:04:45.4515345+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:04:49.7094457+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:10:18.8483071+00:00"
 }

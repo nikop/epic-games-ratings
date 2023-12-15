@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1607,
+  "EOS_Progressed": 1608,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3947,6 +3947,11 @@
       "Time": "2023-12-14T20:10:27.1440805+00:00",
       "NumProgressed": 1607,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T13:15:48.1659607+00:00",
+      "NumProgressed": 1608,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -3974,7 +3979,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4038,7 +4043,7 @@
       "Name": "Croaked",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "CRUELTY",
@@ -4070,7 +4075,7 @@
       "Name": "Limp Richard",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -4086,7 +4091,7 @@
       "Name": "Dressed To Kill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "DR_JONES",
@@ -4102,7 +4107,7 @@
       "Name": "Editor Adept",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "ENDGAME",
@@ -4118,7 +4123,7 @@
       "Name": "Exorcist",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "EXPERIENCED",
@@ -4126,15 +4131,15 @@
       "Name": "Experienced",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "FIRESTARTER",
       "SetID": "9a4jnji",
       "Name": "Firestarter",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 691
+      "UsersEstimate": 675
     },
     {
       "ID": "FIRST_BLOOD",
@@ -4142,7 +4147,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4166,7 +4171,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "GIANT_KILLER",
@@ -4174,7 +4179,7 @@
       "Name": "Giant Killer",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "GOAL",
@@ -4190,7 +4195,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -4198,7 +4203,7 @@
       "Name": "Hold The Line",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "IM_THE_LAW",
@@ -4206,7 +4211,7 @@
       "Name": "I am the law!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "INFILTRATOR",
@@ -4214,7 +4219,7 @@
       "Name": "Infiltrator",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "LUMBERJACK",
@@ -4246,7 +4251,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -4262,7 +4267,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "RECYCLER",
@@ -4294,7 +4299,7 @@
       "Name": "Sensei",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "SHADOW_BOXING",
@@ -4340,9 +4345,9 @@
       "ID": "THE_MEANING_OF_KAIN",
       "SetID": "9a4jnji",
       "Name": "The meaning of Kain",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 691
+      "UsersEstimate": 675
     },
     {
       "ID": "THE_WATCHERS",
@@ -4365,7 +4370,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1607,
+      "Progressed": 1608,
       "Completed": 0
     }
   ],
@@ -4373,8 +4378,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-10T19:02:39.9378585+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:10:28.4378652+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:15:48.1659604+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:08.4828288+00:00",
-  "LastUpdate_Ratings": "2023-12-15T12:03:17.91951+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:10:28.4379155+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:08:25.4739001+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:15:48.1660017+00:00"
 }

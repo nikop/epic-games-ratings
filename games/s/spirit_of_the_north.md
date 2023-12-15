@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 69.00% | ~53,002 |
-| INFUSED WITH LIGHT | 53.00% | ~40,711 |
-| FOXIN' AROUND | 29.00% | ~22,276 |
-| FETCH | 28.00% | ~21,508 |
+| A GUARDIAN FORGOTTEN | 69.00% | ~53,004 |
+| INFUSED WITH LIGHT | 53.00% | ~40,713 |
+| FOXIN' AROUND | 29.00% | ~22,277 |
+| FETCH | 28.00% | ~21,509 |
 | BLOOMS OF LIGHT | 26.00% | ~19,972 |
-| AWAKEN | 22.00% | ~16,899 |
-| BEST FRIENDS | 22.00% | ~16,899 |
-| ERADICATE | 21.00% | ~16,131 |
-| SPIRIT BARK | 21.00% | ~16,131 |
+| AWAKEN | 22.00% | ~16,900 |
+| BEST FRIENDS | 22.00% | ~16,900 |
+| ERADICATE | 21.00% | ~16,132 |
+| SPIRIT BARK | 21.00% | ~16,132 |
 | GARDEN OF LIGHT | 18.00% | ~13,827 |
-| SPIRIT FORM | 17.00% | ~13,058 |
-| UPROOTING DARKNESS | 16.00% | ~12,290 |
-| WRITTEN IN STONE | 16.00% | ~12,290 |
+| SPIRIT FORM | 17.00% | ~13,059 |
+| UPROOTING DARKNESS | 16.00% | ~12,291 |
+| WRITTEN IN STONE | 16.00% | ~12,291 |
 | WEIGHTLESS | 12.00% | ~9,218 |
 | SPIRIT DASH | 11.00% | ~8,450 |
-| OLD COMPANION | 9.00% | ~6,913 |
-| PLAGUE DOCTOR | 9.00% | ~6,913 |
+| OLD COMPANION | 9.00% | ~6,914 |
+| PLAGUE DOCTOR | 9.00% | ~6,914 |
 | MATCH MAKER | 8.00% | ~6,145 |
 | NORTHERN LIGHTS | 8.00% | ~6,145 |
 | SPIRITED AWAY | 8.00% | ~6,145 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~3,073 |
-| ANCIENT HISTORY | 3.00% | ~2,304 |
+| ANCIENT HISTORY | 3.00% | ~2,305 |
 | NONE FORGOTTEN | 2.00% | ~1,536 |
 | KINDRED SPIRITS | 0.60% | ~461 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,814 (Ranked 102)  
+Progressed: 76,817 (Ranked 102)  
 Completed: 413 (0.54%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 413 (0.54%) (Ranked 204)
 | 2023-12-12 | 76,653 | 411 |
 | 2023-12-13 | 76,703 | 413 |
 | 2023-12-14 | 76,786 | 413 |
-| 2023-12-15 | 76,814 | 413 |
+| 2023-12-15 | 76,817 | 413 |
 ## Awards
 Max (Extremely Fun): 27  (Ranked 518)  
 Sum: 116 (Ranked 447)  

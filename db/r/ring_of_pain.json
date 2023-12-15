@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3670,9 +3670,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241060,
+  "EOS_Progressed": 241064,
   "EOS_Completed": 298,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -28270,6 +28270,11 @@
       "Time": "2023-12-15T11:09:52.9240445+00:00",
       "NumProgressed": 241060,
       "NumCompleted": 298
+    },
+    {
+      "Time": "2023-12-15T13:15:51.3033757+00:00",
+      "NumProgressed": 241064,
+      "NumCompleted": 298
     }
   ],
   "TotalAchievements": 138,
@@ -29025,7 +29030,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "SPECIALROOMS10",
@@ -29384,13 +29389,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241060,
+      "Progressed": 241064,
       "Completed": 298
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2540,
+      "Progressed": 2544,
       "Completed": 404
     }
   ],
@@ -29398,8 +29403,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-15T09:00:03.6413212+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:10:31.0181597+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:15:51.3033754+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-15T12:00:39.7455214+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:10:31.0184+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:06:52.2786898+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:15:51.3036129+00:00"
 }

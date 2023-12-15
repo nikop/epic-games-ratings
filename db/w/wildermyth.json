@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -166,9 +166,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1524,
+  "EOS_Progressed": 1525,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2091,6 +2091,11 @@
       "Time": "2023-12-15T00:10:42.9971755+00:00",
       "NumProgressed": 1524,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-15T13:15:47.7178103+00:00",
+      "NumProgressed": 1525,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -2252,9 +2257,9 @@
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
       "SetID": "95dc8p",
       "Name": "Plague Doctor",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_loseBattle",
@@ -2308,9 +2313,9 @@
       "ID": "achievement_use3ReactionStrikesInOneTurn",
       "SetID": "95dc8p",
       "Name": "Chain Reaction",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -2348,9 +2353,9 @@
       "ID": "completedStory_legacy",
       "SetID": "95dc8p",
       "Name": "Another Tale to Tell",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "completedStory_monarchs",
@@ -2364,9 +2369,9 @@
       "ID": "completedStory_procedural",
       "SetID": "95dc8p",
       "Name": "A Story of Heroes",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "completedStory_ulstryx",
@@ -2532,9 +2537,9 @@
       "ID": "theme_wolf_killEveryEnemyType",
       "SetID": "95dc8p",
       "Name": "Lochias\u0027s Hunger",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ulstryx_killCalabyneInOneTurn",
@@ -2549,15 +2554,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1524,
+      "Progressed": 1525,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:10:27.929791+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:15:47.7178101+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:18.3380036+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:59:15.4564281+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:10:27.929831+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:05:02.4795488+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:15:47.7178584+00:00"
 }

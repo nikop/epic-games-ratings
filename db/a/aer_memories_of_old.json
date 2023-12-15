@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26248,
+  "EOS_Progressed": 26250,
   "EOS_Completed": 492,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.87,
   "EosHistory": [
@@ -26099,6 +26099,11 @@
       "Time": "2023-12-15T12:05:14.9548027+00:00",
       "NumProgressed": 26248,
       "NumCompleted": 492
+    },
+    {
+      "Time": "2023-12-15T13:10:55.7532908+00:00",
+      "NumProgressed": 26250,
+      "NumCompleted": 492
     }
   ],
   "TotalAchievements": 20,
@@ -26142,7 +26147,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2888
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -26158,7 +26163,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -26230,7 +26235,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 19948
+      "UsersEstimate": 19950
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -26238,7 +26243,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7087
+      "UsersEstimate": 7088
     },
     {
       "ID": "NORTH_FINISHED",
@@ -26269,15 +26274,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26248,
+      "Progressed": 26250,
       "Completed": 492
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:05:14.9548022+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:10:55.7532904+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:05.8810572+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:58:36.6673944+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:05:14.9549175+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:04:12.4192108+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:10:55.7534371+00:00"
 }

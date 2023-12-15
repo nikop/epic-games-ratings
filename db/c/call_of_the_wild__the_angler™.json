@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -961,9 +961,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 6941,
+  "EOS_Progressed": 6947,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11151,6 +11151,11 @@
       "Time": "2023-12-15T12:04:36.4517699+00:00",
       "NumProgressed": 6941,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T13:10:07.4448976+00:00",
+      "NumProgressed": 6947,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11178,7 +11183,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -11208,9 +11213,9 @@
       "ID": "ACHIEVEMENT_007",
       "SetID": "1a05lfd",
       "Name": "More Fish in the Sea",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 417
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -11296,9 +11301,9 @@
       "ID": "ACHIEVEMENT_018",
       "SetID": "1a05lfd",
       "Name": "The Beetles",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_019",
@@ -11481,13 +11486,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6941,
+      "Progressed": 6947,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6313,
+      "Progressed": 6319,
       "Completed": 113
     }
   ],
@@ -11495,8 +11500,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-15T01:46:12.7842715+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:04:36.4517695+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:10:07.4448973+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:44.0991613+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:57:52.1792945+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:04:36.451831+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:03:14.4693725+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:10:07.4449771+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 554,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -323,9 +323,9 @@
       "ID": "creepytale3_ach_31",
       "SetID": "7idcjbn",
       "Name": "An insidious ritual",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "creepytale3_ach_32",
@@ -363,9 +363,9 @@
       "ID": "creepytale3_ach_36",
       "SetID": "7idcjbn",
       "Name": "Why are there so many keys here?",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "creepytale3_ach_37",
@@ -450,8 +450,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:04:48.4698231+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:10:22.2647744+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.5738942+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:59:59.1229066+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:04:48.4698443+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:06:01.7568191+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:10:22.2648168+00:00"
 }

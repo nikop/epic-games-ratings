@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1350,
+  "EOS_Progressed": 1351,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3157,6 +3157,11 @@
       "Time": "2023-12-15T07:05:21.7148225+00:00",
       "NumProgressed": 1350,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T13:10:37.1711797+00:00",
+      "NumProgressed": 1351,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3199,17 +3204,17 @@
       "ID": "ML_ACHIEVEMENT_05",
       "SetID": "5k00jcd",
       "Name": "Like lightning!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
       "SetID": "5k00jcd",
       "Name": "Now try online",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -3247,9 +3252,9 @@
       "ID": "ML_ACHIEVEMENT_11",
       "SetID": "5k00jcd",
       "Name": "It\u0027s me you have to beat",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -3536,20 +3541,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1350,
+      "Progressed": 1351,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1018,
+      "Progressed": 1019,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:05:00.1376681+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:10:37.1711794+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:57:50.1218873+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:05:00.1377183+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:03:12.1800411+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:10:37.1712203+00:00"
 }

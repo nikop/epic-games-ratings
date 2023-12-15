@@ -4,8 +4,8 @@
   "ProductSlug": "skeletal-avengers-af85a4",
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 500,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 503,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-05-24T10:00:00+00:00",
     "PcReleaseDate": "2021-09-28T23:00:00+00:00",
@@ -317,9 +317,9 @@
       "ID": "DUNGEON_BOSS",
       "SetID": "63n2m0e",
       "Name": "Master of Dungeon",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "EVADER",
@@ -428,8 +428,8 @@
   ],
   "FirstSeen": "2023-05-26T16:57:16.6095793+00:00",
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:09:38.0538975+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:14:45.2557893+00:00",
   "LastUpdate_AppInfo": "2023-12-13T14:57:06.7782616+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:59:15.601354+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:09:38.0539126+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:05:02.6782189+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:14:45.255802+00:00"
 }

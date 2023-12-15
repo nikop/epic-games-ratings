@@ -6,10 +6,10 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,935 |
-| keep it tidy | 78.00% | ~8,072 |
-| podium | 72.00% | ~7,451 |
-| medium attack | 60.00% | ~6,209 |
+| light attack | 96.00% | ~9,936 |
+| keep it tidy | 78.00% | ~8,073 |
+| podium | 72.00% | ~7,452 |
+| medium attack | 60.00% | ~6,210 |
 | brail | 57.00% | ~5,899 |
 | good drivers have dead flies on the side windows | 44.00% | ~4,554 |
 | grocery-getter | 40.00% | ~4,140 |
@@ -26,22 +26,22 @@ Number of Ratings: 56  (23.09.2022)
 | monster | 14.00% | ~1,449 |
 | night ride | 14.00% | ~1,449 |
 | snorkel | 14.00% | ~1,449 |
-| perkele | 13.00% | ~1,345 |
-| where is the stage? | 13.00% | ~1,345 |
+| perkele | 13.00% | ~1,346 |
+| where is the stage? | 13.00% | ~1,346 |
 | maximum attack | 11.00% | ~1,138 |
 | espresso | 10.00% | ~1,035 |
 | parallel universe | 10.00% | ~1,035 |
 | mittens | 8.00% | ~828 |
 | samir | 8.00% | ~828 |
-| eurobeat | 7.00% | ~724 |
-| viking | 7.00% | ~724 |
-| master of rally | 7.00% | ~724 |
-| antilag | 7.00% | ~724 |
+| eurobeat | 7.00% | ~725 |
+| viking | 7.00% | ~725 |
+| master of rally | 7.00% | ~725 |
+| antilag | 7.00% | ~725 |
 | parking lot | 6.00% | ~621 |
 | oktoberfest | 6.00% | ~621 |
 | in like a lamb, out like a lion | 6.00% | ~621 |
 | if in doubt, flat out! | 6.00% | ~621 |
-| group b | 5.00% | ~517 |
+| group b | 5.00% | ~518 |
 | comfy seats | 4.00% | ~414 |
 | simulator | 3.00% | ~310 |
 | real roads, real fast | 3.00% | ~310 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.40% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,349 (Ranked 168)  
+Progressed: 10,350 (Ranked 168)  
 Completed: 10 (0.10%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 10 (0.10%) (Ranked 295)
 | 2023-12-11 | 10,337 | 10 |
 | 2023-12-13 | 10,338 | 10 |
 | 2023-12-14 | 10,345 | 10 |
-| 2023-12-15 | 10,349 | 10 |
+| 2023-12-15 | 10,350 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

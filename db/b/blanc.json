@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3507,
+  "EOS_Progressed": 3509,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
@@ -5441,6 +5441,11 @@
       "Time": "2023-12-15T08:06:13.9849972+00:00",
       "NumProgressed": 3507,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-15T13:12:44.3306868+00:00",
+      "NumProgressed": 3509,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5484,7 +5489,7 @@
       "Name": "The will to move on",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "REUNION",
@@ -5492,7 +5497,7 @@
       "Name": "Reunion",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "SLIDERS",
@@ -5532,7 +5537,7 @@
       "Name": "The end",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "TRANSMISSION",
@@ -5555,7 +5560,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3507,
+      "Progressed": 3509,
       "Completed": 6
     }
   ],
@@ -5563,8 +5568,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:06:40.7904288+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:12:44.3306863+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:18.0649883+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:57:06.747427+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:06:40.7904619+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:02:13.0996036+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:12:44.3307206+00:00"
 }

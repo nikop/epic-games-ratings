@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1817,
+  "EOS_Progressed": 1820,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2547,6 +2547,11 @@
       "Time": "2023-12-15T11:05:28.5217008+00:00",
       "NumProgressed": 1817,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T13:11:54.3736168+00:00",
+      "NumProgressed": 1820,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2564,9 +2569,9 @@
       "ID": "Achievement_002",
       "SetID": "6b34g18",
       "Name": "Revelations",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "Achievement_003",
@@ -2628,9 +2633,9 @@
       "ID": "Achievement_011",
       "SetID": "6b34g18",
       "Name": "Block Party",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "Achievement_012",
@@ -2956,9 +2961,9 @@
       "ID": "Achievement_055",
       "SetID": "6b34g18",
       "Name": "Blacklight Down",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "Achievement_056",
@@ -3076,16 +3081,16 @@
       "ID": "Achievement_071",
       "SetID": "6b34g18",
       "Name": "I Spit On Your Grave",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1817,
+      "Progressed": 1820,
       "Completed": 0
     }
   ],
@@ -3093,8 +3098,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-10T01:51:29.5345174+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:06:01.0952501+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:11:54.3736164+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:19.3114561+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:58:40.0036414+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:06:01.0953046+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:04:16.7605204+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:11:54.3736895+00:00"
 }

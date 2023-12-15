@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 34.00% | ~18 |
+| Master trainee | 33.00% | ~18 |
 | You have three wishes left | 30.00% | ~16 |
+| Jung's dream | 26.00% | ~14 |
 | The battle of Great Britain | 26.00% | ~14 |
-| Jung's dream | 25.00% | ~13 |
-| Pulp! Where Monsters Dwell | 21.00% | ~11 |
-| A continent with chemistry | 17.00% | ~9 |
+| Pulp! Where Monsters Dwell | 22.00% | ~12 |
+| A continent with chemistry | 19.00% | ~10 |
+| The happy farmer girl | 17.00% | ~9 |
 | Giant | 15.00% | ~8 |
-| The happy farmer girl | 15.00% | ~8 |
 | The artist | 13.00% | ~7 |
 | The seer | 13.00% | ~7 |
 | Pulp! Terror Tales in the Night | 13.00% | ~7 |
@@ -21,9 +21,9 @@
 | Diagnosis: fear | 11.00% | ~6 |
 | Ambition is... blind | 11.00% | ~6 |
 | You have two wishes left | 11.00% | ~6 |
-| You had one wish left | 8.00% | ~4 |
-| Et in arcadia ego | 8.00% | ~4 |
-| Kirlian's best disciple | 8.00% | ~4 |
+| You had one wish left | 7.00% | ~4 |
+| Et in arcadia ego | 7.00% | ~4 |
+| Kirlian's best disciple | 7.00% | ~4 |
 | You've awakened the beast | 6.00% | ~3 |
 | Hate is... addictive | 6.00% | ~3 |
 | Bread and bocaua | 6.00% | ~3 |
@@ -52,7 +52,7 @@
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 509)  
+Progressed: 54 (Ranked 509)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,4 +85,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-04 | 46 | 0 |
 | 2023-12-13 | 47 | 0 |
 | 2023-12-14 | 51 | 0 |
-| 2023-12-15 | 53 | 0 |
+| 2023-12-15 | 54 | 0 |

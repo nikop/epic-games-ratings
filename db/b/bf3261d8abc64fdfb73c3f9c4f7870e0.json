@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 578,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -457,9 +457,9 @@
       "ID": "achievement_thorn_alive",
       "SetID": "bngbnfb",
       "Name": "Thorn\u0027s alive!",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_thorn_is_my_choise",
@@ -536,8 +536,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:09:18.301616+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:14:20.0938577+00:00",
   "LastUpdate_AppInfo": "2023-12-13T14:57:06.6138532+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:59:09.8759517+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:09:18.3016526+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:04:54.6841904+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:14:20.0938854+00:00"
 }

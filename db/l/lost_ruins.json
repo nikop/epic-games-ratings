@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525,
+  "EOS_Progressed": 527,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1189,6 +1189,11 @@
       "Time": "2023-12-15T12:10:27.019965+00:00",
       "NumProgressed": 525,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T13:15:46.7729672+00:00",
+      "NumProgressed": 527,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1222,7 +1227,7 @@
       "ID": "Assassin",
       "SetID": "82505mn",
       "Name": "Assassin",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -1240,7 +1245,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "Cryomancer",
@@ -1272,7 +1277,7 @@
       "Name": "Gladiator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "GoblinTales",
@@ -1304,7 +1309,7 @@
       "Name": "Hoarder",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Iconoclasm",
@@ -1328,7 +1333,7 @@
       "Name": "Librarian",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Lumberjack",
@@ -1352,7 +1357,7 @@
       "Name": "Meat Lover",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MoneySwag",
@@ -1384,7 +1389,7 @@
       "Name": "Orcs Must Die!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Pyromancer",
@@ -1432,7 +1437,7 @@
       "Name": "Sling of David",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SpellMaster",
@@ -1448,7 +1453,7 @@
       "Name": "Sword Master",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TheEnd",
@@ -1464,7 +1469,7 @@
       "Name": "The Fallen",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "TheTrio",
@@ -1512,14 +1517,14 @@
       "Name": "Witch",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 525,
+      "Progressed": 527,
       "Completed": 1
     }
   ],
@@ -1527,8 +1532,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:10:27.0199648+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:15:46.772967+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:26.5642933+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:57:27.313562+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:10:27.0199888+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:02:40.4902362+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:15:46.77299+00:00"
 }

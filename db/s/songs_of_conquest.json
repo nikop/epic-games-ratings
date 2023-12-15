@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 480,
+  "EOS_Progressed": 481,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2008,6 +2008,11 @@
       "Time": "2023-12-15T10:08:19.7120447+00:00",
       "NumProgressed": 480,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T13:13:42.8956269+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2282,9 +2287,9 @@
       "ID": "ReclaimTown",
       "SetID": "71c0n9i",
       "Name": "Don\u0027t Touch My Stuff",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -2451,15 +2456,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 481,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-15T12:08:49.0969283+00:00",
+  "LastChanged_Achievements": "2023-12-15T13:13:42.8956264+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-15T11:59:20.7602775+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:08:49.0970022+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:05:09.6722398+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:13:42.8956749+00:00"
 }

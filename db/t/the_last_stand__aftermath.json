@@ -2,13 +2,13 @@
   "ID": "8d296e80f3ec42a79881f0693f3bded0",
   "Name": "The Last Stand: Aftermath",
   "ProductSlug": "the-last-stand-aftermath",
-  "Ranking_Rating": 757,
+  "Ranking_Rating": 744,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 500,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 503,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2021-11-16T15:00:00+00:00",
     "PcReleaseDate": "2021-11-16T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.39,
+  "Rating": 4.4,
   "NumberOfRatings": 44,
   "RatingHistory": [
     {
@@ -266,6 +266,12 @@
       "Rating": 4.39,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-15T13:08:05.8243445+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -283,8 +289,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:56.9021792+00:00",
-  "LastChanged": "2023-12-13T19:03:05.8411059+00:00",
+  "LastChanged": "2023-12-15T13:08:05.8243444+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.3783986+00:00",
-  "LastUpdate_Ratings": "2023-12-15T12:03:02.8083554+00:00",
-  "LastUpdate_Achievements": "2023-12-15T12:05:34.5074969+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:08:05.8243448+00:00",
+  "LastUpdate_Achievements": "2023-12-15T13:11:20.3018362+00:00"
 }

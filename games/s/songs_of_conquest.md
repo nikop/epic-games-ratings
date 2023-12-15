@@ -19,12 +19,12 @@ Number of Ratings: 292  (23.09.2022)
 | Master | 5.00% | ~24 |
 | Whoops! | 4.00% | ~19 |
 | Expert Essence Employment | 4.00% | ~19 |
-| Don't Touch My Stuff | 3.00% | ~14 |
 | Trojan Horse | 3.00% | ~14 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~14 |
 | The Song of Stoutheart | 2.00% | ~10 |
 | This Spot's Taken | 2.00% | ~10 |
 | Versatile Wielder | 2.00% | ~10 |
+| Don't Touch My Stuff | 2.00% | ~10 |
 | Pyrrhic Victory | 2.00% | ~10 |
 | Deepstrike | 1.00% | ~5 |
 | Infernal Influence | 1.00% | ~5 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 480 (Ranked 323)  
+Progressed: 481 (Ranked 323)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 434 | 0 |
 | 2023-12-13 | 447 | 0 |
 | 2023-12-14 | 474 | 0 |
-| 2023-12-15 | 480 | 0 |
+| 2023-12-15 | 481 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 518)  
 Sum: 194 (Ranked 410)  
