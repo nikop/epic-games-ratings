@@ -3,8 +3,8 @@
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 353,
-  "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_Completed": 159,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 335,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.2,
+  "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.5545173+00:00",
@@ -741,6 +741,11 @@
       "Time": "2023-12-15T16:09:49.4604257+00:00",
       "NumProgressed": 333,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-15T18:09:30.3736611+00:00",
+      "NumProgressed": 335,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 19,
@@ -760,7 +765,7 @@
       "Name": "Picky, Picky!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "misha_date2_all",
@@ -784,15 +789,15 @@
       "Name": "Let it begin",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "profile_ryan",
       "SetID": "6h5h9ho",
       "Name": "That wasn\u0027t so bad",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 291
     },
     {
       "ID": "ryan_date2_all",
@@ -816,7 +821,7 @@
       "Name": "The activist",
       "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "success_bash",
@@ -840,7 +845,7 @@
       "Name": "The debonair",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "success_hazel",
@@ -870,9 +875,9 @@
       "ID": "success_lucas",
       "SetID": "6h5h9ho",
       "Name": "The techie",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 27
+      "UsersEstimate": 23
     },
     {
       "ID": "success_toni",
@@ -903,7 +908,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 335,
       "Completed": 4
     }
   ],
@@ -911,8 +916,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:08:36.9704906+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:09:30.3736608+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:57.5745757+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:57:25.4466438+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:08:36.9705067+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:57:53.9727993+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:09:30.373673+00:00"
 }

@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 485,
+  "EOS_Progressed": 486,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2023,6 +2023,11 @@
       "Time": "2023-12-15T17:07:46.2091963+00:00",
       "NumProgressed": 485,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T18:08:32.1474551+00:00",
+      "NumProgressed": 486,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2363,7 +2368,7 @@
       "Name": "Adept",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "WielderLevel2",
@@ -2409,9 +2414,9 @@
       "ID": "WinBattleWithoutAttacking",
       "SetID": "71c0n9i",
       "Name": "Expert Essence Employment",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 15
     },
     {
       "ID": "WinSiegeAsAttacker",
@@ -2466,15 +2471,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 485,
+      "Progressed": 486,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:07:46.2091959+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:08:32.1474547+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:58:51.4587441+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:07:46.2092388+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:59:30.9087357+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:08:32.1475008+00:00"
 }

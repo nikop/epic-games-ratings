@@ -6,34 +6,34 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 2.00% | ~14,526 |
-| The Assault | 1.00% | ~7,263 |
-| The Hateful Pole Fighter | 1.00% | ~7,263 |
-| Life is your teacher | 1.00% | ~7,263 |
-| Lightning Hands | 1.00% | ~7,263 |
-| Diligence as a goal | 1.00% | ~356 |
+| The Old Grandmaster | 2.00% | ~14,527 |
+| The Assault | 1.00% | ~7,264 |
+| The Hateful Pole Fighter | 1.00% | ~7,264 |
+| Life is your teacher | 1.00% | ~7,264 |
+| Lightning Hands | 1.00% | ~7,264 |
+| Diligence as a goal | 1.00% | ~357 |
 | State of constant learning | 0.90% | ~6,537 |
+| Qi Gong: Breath | 0.90% | ~6,537 |
 | Qi Gong: Essence | 0.90% | ~6,537 |
 | Old Child | 0.90% | ~6,537 |
 | Rumble in the Hangar | 0.90% | ~6,537 |
-| Project Arena | 0.90% | ~320 |
-| A Lady's Blood in the Snow | 0.80% | ~5,810 |
-| Stuntmaster | 0.80% | ~5,810 |
-| Street Fighting | 0.80% | ~5,810 |
-| Qi Gong: Breath | 0.80% | ~5,810 |
-| Path of the Prospect | 0.80% | ~5,810 |
-| Lady Wing Chun | 0.70% | ~5,084 |
-| Kill Nil | 0.70% | ~5,084 |
-| Furious Fists | 0.60% | ~4,358 |
+| Project Arena | 0.90% | ~321 |
+| A Lady's Blood in the Snow | 0.80% | ~5,811 |
+| Stuntmaster | 0.80% | ~5,811 |
+| Street Fighting | 0.80% | ~5,811 |
+| Path of the Prospect | 0.80% | ~5,811 |
+| Lady Wing Chun | 0.70% | ~5,085 |
+| Furious Fists | 0.70% | ~5,085 |
+| Kill Nil | 0.70% | ~5,085 |
 | I know Kung-Fu | 0.60% | ~4,358 |
 | Take damage to save time | 0.60% | ~4,358 |
-| Fight the way you practice | 0.60% | ~213 |
-| Scareless | 0.50% | ~3,631 |
-| Dance of the Praying Mantis | 0.50% | ~3,631 |
-| Qi Gong: Mind | 0.50% | ~3,631 |
-| Kung-Fu Tussle | 0.50% | ~3,631 |
+| Fight the way you practice | 0.60% | ~214 |
+| Scareless | 0.50% | ~3,632 |
+| Dance of the Praying Mantis | 0.50% | ~3,632 |
+| Qi Gong: Mind | 0.50% | ~3,632 |
+| Kung-Fu Tussle | 0.50% | ~3,632 |
 | Martial Hub | 0.50% | ~178 |
-| Bloody Sport | 0.40% | ~142 |
+| Bloody Sport | 0.40% | ~143 |
 | Muk Yan Master | 0.30% | ~2,179 |
 | Tiger on Fire | 0.30% | ~2,179 |
 | Source of Flying Daggers | 0.30% | ~2,179 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~36 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,278 (Ranked 24)  
+Progressed: 726,369 (Ranked 24)  
 Completed: 12,953 (1.78%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,10 +306,10 @@ Completed: 12,953 (1.78%) (Ranked 135)
 | 2023-12-12 | 717,993 | 12,952 |
 | 2023-12-13 | 718,112 | 12,953 |
 | 2023-12-14 | 722,433 | 12,953 |
-| 2023-12-15 | 726,278 | 12,953 |
+| 2023-12-15 | 726,369 | 12,953 |
 ## Awards
 Max (Great Boss Battles): 6,930  (Ranked 55)  
-Sum: 12,161 (Ranked 83)  
+Sum: 12,162 (Ranked 83)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
@@ -318,7 +318,7 @@ Diff (max vs sum): -28
 | This game has Challenging Combat | 617 |
 | This game has Amazing Storytelling | 603 |
 | This game has Amazing Characters | 590 |
-| This game is Highly Recommended | 585 |
+| This game is Highly Recommended | 586 |
 | This game has Quickly Understood Controls | 584 |
 | This game is Extremely Fun | 573 |
 | This game has Unique Visuals | 568 |
@@ -659,4 +659,4 @@ Diff (max vs sum): -28
 | 2023-12-12 | 4.82 | - | 6,915 | 12,138 |
 | 2023-12-13 | 4.82 | - | 6,915 | 12,141 |
 | 2023-12-14 | 4.82 | - | 6,923 | 12,152 |
-| 2023-12-15 | 4.82 | - | 6,930 | 12,161 |
+| 2023-12-15 | 4.82 | - | 6,930 | 12,162 |

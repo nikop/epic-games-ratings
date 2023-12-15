@@ -5,19 +5,19 @@ Rating: 4.42 (Ranked 720)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 27.00% | ~6,790 |
-| Sector 2 | 24.00% | ~6,036 |
-| Sector 3 | 21.00% | ~5,281 |
-| Crush That Cube! | 20.00% | ~5,030 |
-| Sector 4 | 17.00% | ~4,275 |
-| Crush That Ball! | 16.00% | ~4,024 |
-| Sector 5 | 11.00% | ~2,766 |
-| Sector 6 | 9.00% | ~2,263 |
-| Feeling the Blues | 7.00% | ~1,760 |
-| Squished | 7.00% | ~1,760 |
-| Finale | 7.00% | ~1,760 |
-| Sector 7 | 7.00% | ~1,760 |
-| Did That Work? -- No! | 6.00% | ~1,509 |
+| Sector 1 | 27.00% | ~6,794 |
+| Sector 2 | 24.00% | ~6,039 |
+| Sector 3 | 21.00% | ~5,284 |
+| Crush That Cube! | 20.00% | ~5,032 |
+| Sector 4 | 17.00% | ~4,278 |
+| Crush That Ball! | 16.00% | ~4,026 |
+| Sector 5 | 11.00% | ~2,768 |
+| Sector 6 | 9.00% | ~2,265 |
+| Feeling the Blues | 7.00% | ~1,761 |
+| Squished | 7.00% | ~1,761 |
+| Finale | 7.00% | ~1,761 |
+| Sector 7 | 7.00% | ~1,761 |
+| Did That Work? -- No! | 6.00% | ~1,510 |
 | Master Room | 4.00% | ~1,006 |
 | Bronze Trophy | 2.00% | ~503 |
 | Gold Trophy | 2.00% | ~503 |
@@ -26,12 +26,12 @@ Rating: 4.42 (Ranked 720)
 | The Puzzle Master | 2.00% | ~503 |
 | Silver Trophy | 2.00% | ~503 |
 | Completed It. | 2.00% | ~503 |
-| The Collector | 1.00% | ~251 |
-| Master Of The Collectables | 1.00% | ~251 |
-| Maxed Out | 1.00% | ~251 |
+| The Collector | 1.00% | ~252 |
+| Master Of The Collectables | 1.00% | ~252 |
+| Maxed Out | 1.00% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,148 (Ranked 136)  
-Completed: 157 (0.62%) (Ranked 193)  
+Progressed: 25,162 (Ranked 136)  
+Completed: 158 (0.63%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -92,7 +92,7 @@ Completed: 157 (0.62%) (Ranked 193)
 | 2023-12-12 | 24,785 | 154 |
 | 2023-12-13 | 24,912 | 155 |
 | 2023-12-14 | 25,053 | 156 |
-| 2023-12-15 | 25,148 | 157 |
+| 2023-12-15 | 25,162 | 158 |
 ## Awards
 Max (Challenging Puzzles): 22  (Ranked 546)  
 Sum: 22 (Ranked 550)  

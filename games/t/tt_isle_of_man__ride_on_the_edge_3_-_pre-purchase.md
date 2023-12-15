@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 95.00% | ~173 |
+| You're Going Down! | 95.00% | ~174 |
 | To Each Their Own | 45.00% | ~82 |
 | You Get An Upgrade, You Get An Upgrade! | 21.00% | ~38 |
 | Like Phileas Fogg | 19.00% | ~35 |
 | Onwards and Upwards | 16.00% | ~29 |
-| Serial Winner | 12.00% | ~22 |
+| Serial Winner | 11.00% | ~20 |
 | Lone Wolf | 10.00% | ~18 |
 | Highly Qualified | 9.00% | ~16 |
 | No Room for Improvement | 9.00% | ~16 |
@@ -44,8 +44,8 @@
 | Superbike Superfan | 1.00% | ~2 |
 | Playing Favourites | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182 (Ranked 402)  
-Completed: 2 (1.10%) (Ranked 165)  
+Progressed: 183 (Ranked 402)  
+Completed: 2 (1.09%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -140,4 +140,4 @@ Completed: 2 (1.10%) (Ranked 165)
 | 2023-12-09 | 165 | 2 |
 | 2023-12-13 | 166 | 2 |
 | 2023-12-14 | 176 | 2 |
-| 2023-12-15 | 182 | 2 |
+| 2023-12-15 | 183 | 2 |

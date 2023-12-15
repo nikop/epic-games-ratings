@@ -51,11 +51,11 @@
 | Aquarian Hero | 4.00% | ~6 |
 | Behenian Mastery | 4.00% | ~6 |
 | Noctuan Hero | 4.00% | ~6 |
+| Prestidigitation | 3.00% | ~4 |
 | Aquarian Mastery | 3.00% | ~4 |
 | Eridanian Hero | 3.00% | ~4 |
 | Lacertian Mastery | 3.00% | ~4 |
 | Critical Twist | 2.00% | ~3 |
-| Prestidigitation | 2.00% | ~3 |
 | Reflexive Mind | 2.00% | ~3 |
 | Sentinelphobic | 2.00% | ~3 |
 | The Ardent Prince | 2.00% | ~3 |

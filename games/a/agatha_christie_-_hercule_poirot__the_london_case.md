@@ -12,13 +12,13 @@
 | The Gala | 52.00% | ~23 |
 | A curious gathering | 52.00% | ~23 |
 | Little grey cells | 50.00% | ~22 |
-| Impossible is possible | 48.00% | ~21 |
-| The Missing Magdalene | 48.00% | ~21 |
-| Arthur Hastings | 48.00% | ~21 |
-| Everything matters | 43.00% | ~19 |
+| Impossible is possible | 50.00% | ~22 |
+| The Missing Magdalene | 50.00% | ~22 |
+| Arthur Hastings | 50.00% | ~22 |
+| Everything matters | 45.00% | ~20 |
+| An expert mediator | 43.00% | ~19 |
+| DI Hardwicke | 43.00% | ~19 |
 | Order and method | 41.00% | ~18 |
-| An expert mediator | 41.00% | ~18 |
-| DI Hardwicke | 41.00% | ~18 |
 | Betty Allen | 39.00% | ~17 |
 | The Investigation Begins | 39.00% | ~17 |
 | Ms. Camilla B. Culsham | 34.00% | ~15 |

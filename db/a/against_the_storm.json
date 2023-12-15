@@ -3,8 +3,8 @@
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 69,
-  "Ranking_Popularity": 228,
-  "Ranking_PopularitySum": 175,
+  "Ranking_Popularity": 227,
+  "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 123,
@@ -3461,9 +3461,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18240,
+  "EOS_Progressed": 18250,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15831,6 +15831,11 @@
       "Time": "2023-12-15T17:03:38.8024067+00:00",
       "NumProgressed": 18240,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-15T18:04:03.7774108+00:00",
+      "NumProgressed": 18250,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15947,7 +15952,7 @@
       "Name": "Against All Odds",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "WinNearArmory",
@@ -15987,7 +15992,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "WinNearDangerous",
@@ -16027,7 +16032,7 @@
       "Name": "Haunted Forest",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "WinNearLevitating",
@@ -16043,7 +16048,7 @@
       "Name": "Flooded Mines",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "WinNearMonastery",
@@ -16251,7 +16256,7 @@
       "Name": "Frosts",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "WinNearGreed",
@@ -16259,7 +16264,7 @@
       "Name": "Land of Greed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "WinNearLibrary",
@@ -16283,7 +16288,7 @@
       "Name": "Ominous Presence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "WinNearStorms",
@@ -16291,7 +16296,7 @@
       "Name": "Gathering Storm",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -16314,15 +16319,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18240,
+      "Progressed": 18250,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-15T16:01:40.7819682+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:03:38.8024062+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:04:03.7774105+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:59:56.0512171+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:03:38.8025458+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:00:42.7552715+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:04:03.7775286+00:00"
 }

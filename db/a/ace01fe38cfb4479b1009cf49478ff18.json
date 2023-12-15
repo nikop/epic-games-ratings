@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 233,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -969,6 +969,11 @@
       "Time": "2023-12-15T16:05:33.2245574+00:00",
       "NumProgressed": 231,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T18:04:51.5385741+00:00",
+      "NumProgressed": 233,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -987,9 +992,9 @@
       "ID": "ach_chapter_complete_2",
       "SetID": "d499apg",
       "Name": "Chapter II - Complete",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -1029,7 +1034,7 @@
       "Name": "My Armour is Contempt",
       "Percentage": 8,
       "XP": 95,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -1037,7 +1042,7 @@
       "Name": "Defeat a Great Unclean One",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -1045,7 +1050,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 24,
       "XP": 45,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -1076,14 +1081,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 233,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:04:21.0627263+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:04:51.5385738+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.6680838+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:58:21.0435784+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:04:21.062741+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:58:58.6491551+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:04:51.5385849+00:00"
 }

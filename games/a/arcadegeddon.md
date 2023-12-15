@@ -1,14 +1,14 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 617)  
+Rating: 4.49 (Ranked 618)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 87.00% | ~8,643 |
-| Photogenic | 83.00% | ~8,246 |
-| Surge Gauntlet Jockey | 80.00% | ~7,948 |
+| Let's Get This Party Started | 87.00% | ~8,644 |
+| Photogenic | 83.00% | ~8,247 |
+| Surge Gauntlet Jockey | 80.00% | ~7,949 |
 | Plug It In | 79.00% | ~7,849 |
 | Adventure Time | 76.00% | ~7,551 |
 | Playing With Power | 73.00% | ~7,253 |
@@ -16,13 +16,13 @@ Number of Ratings: 801  (23.09.2022)
 | Get Furious | 54.00% | ~5,365 |
 | You're Fired | 54.00% | ~5,365 |
 | Hacks In Stacks | 53.00% | ~5,266 |
-| Gunplay And Cosplay | 52.00% | ~5,166 |
-| Meching Enemies | 46.00% | ~4,570 |
+| Gunplay And Cosplay | 52.00% | ~5,167 |
+| Meching Enemies | 46.00% | ~4,571 |
 | Ticket Toddler | 42.00% | ~4,173 |
 | Booty Bashing | 37.00% | ~3,676 |
 | Field Medic | 36.00% | ~3,577 |
 | Here Comes a New Challenger | 36.00% | ~3,577 |
-| Rapid Response | 32.00% | ~3,179 |
+| Rapid Response | 32.00% | ~3,180 |
 | Surge Ahead | 29.00% | ~2,881 |
 | The Full Monty | 29.00% | ~2,881 |
 | Guardian Angel | 26.00% | ~2,583 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~40 |
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,935 (Ranked 169)  
+Progressed: 9,936 (Ranked 169)  
 Completed: 2 (0.02%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 2 (0.02%) (Ranked 345)
 | 2023-12-12 | 9,880 | 2 |
 | 2023-12-13 | 9,897 | 2 |
 | 2023-12-14 | 9,915 | 2 |
-| 2023-12-15 | 9,935 | 2 |
+| 2023-12-15 | 9,936 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 415)  
 Sum: 465 (Ranked 336)  

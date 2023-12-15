@@ -5,9 +5,9 @@ Rating: 4.25 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,793 |
+| Rigged And Ready | 80.00% | ~1,794 |
 | Don't I Know You...? | 77.00% | ~1,726 |
-| Jailbreak | 66.00% | ~1,479 |
+| Jailbreak | 66.00% | ~1,480 |
 | Suited and Booted | 39.00% | ~874 |
 | HEADSHOT! | 38.00% | ~852 |
 | Sleeping With The Fishes | 36.00% | ~807 |
@@ -15,8 +15,8 @@ Rating: 4.25 (Ranked 890)
 | High Performance | 31.00% | ~695 |
 | Powered Up | 29.00% | ~650 |
 | Studied The Blade | 25.00% | ~560 |
-| Home Invasion | 23.00% | ~515 |
-| Luminary | 23.00% | ~515 |
+| Home Invasion | 23.00% | ~516 |
+| Luminary | 23.00% | ~516 |
 | True Survivor | 22.00% | ~493 |
 | It's a Trap | 22.00% | ~493 |
 | Offensive Defense | 21.00% | ~471 |
@@ -24,7 +24,7 @@ Rating: 4.25 (Ranked 890)
 | Unforeseeable Consequences | 20.00% | ~448 |
 | Court Martial | 19.00% | ~426 |
 | Clean Cut | 19.00% | ~426 |
-| Dead Again | 18.00% | ~403 |
+| Dead Again | 18.00% | ~404 |
 | Full Arsenal | 17.00% | ~381 |
 | Can't Trust Banks | 15.00% | ~336 |
 | Mommy Dearest | 14.00% | ~314 |
@@ -42,11 +42,11 @@ Rating: 4.25 (Ranked 890)
 | Following In Their Footsteps | 8.00% | ~179 |
 | Defense in Depth | 8.00% | ~179 |
 | Reverse Engineering | 7.00% | ~157 |
-| Reborn | 6.00% | ~134 |
-| Remote Surgery | 6.00% | ~134 |
-| Turbo Booster | 6.00% | ~134 |
-| Juiced Up | 6.00% | ~134 |
-| Squid Pro Quo | 6.00% | ~134 |
+| Reborn | 6.00% | ~135 |
+| Remote Surgery | 6.00% | ~135 |
+| Turbo Booster | 6.00% | ~135 |
+| Juiced Up | 6.00% | ~135 |
+| Squid Pro Quo | 6.00% | ~135 |
 | Hello Darkness My Old Friend | 5.00% | ~112 |
 | Counter-Sniper | 5.00% | ~112 |
 | Shrimp Cocktail | 5.00% | ~112 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 890)
 | Loot, Pillage & Craft | 2.00% | ~45 |
 | Swiss Army Drone | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,241 (Ranked 228)  
+Progressed: 2,242 (Ranked 228)  
 Completed: 13 (0.58%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 13 (0.58%) (Ranked 197)
 | 2023-12-10 | 2,223 | 13 |
 | 2023-12-11 | 2,224 | 13 |
 | 2023-12-14 | 2,235 | 13 |
-| 2023-12-15 | 2,241 | 13 |
+| 2023-12-15 | 2,242 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

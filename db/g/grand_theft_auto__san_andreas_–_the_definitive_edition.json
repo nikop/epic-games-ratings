@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 497,
-  "Ranking_Popularity": 226,
+  "Ranking_Popularity": 225,
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1777,9 +1777,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 14497,
+  "EOS_Progressed": 14508,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 613,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -16197,6 +16197,11 @@
       "Time": "2023-12-15T17:09:14.8873487+00:00",
       "NumProgressed": 14497,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-15T18:09:50.4232479+00:00",
+      "NumProgressed": 14508,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 35,
@@ -16208,7 +16213,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 11743
+      "UsersEstimate": 11751
     },
     {
       "ID": "ACH02",
@@ -16216,7 +16221,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "ACH03",
@@ -16224,7 +16229,7 @@
       "Name": "The End of the Line",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "ACH04",
@@ -16256,7 +16261,7 @@
       "Name": "The American Dream",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2899
+      "UsersEstimate": 2902
     },
     {
       "ID": "ACH08",
@@ -16264,7 +16269,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 7393
+      "UsersEstimate": 7399
     },
     {
       "ID": "ACH09",
@@ -16288,7 +16293,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1451
     },
     {
       "ID": "ACH12",
@@ -16304,7 +16309,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2754
+      "UsersEstimate": 2757
     },
     {
       "ID": "ACH14",
@@ -16312,7 +16317,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "ACH15",
@@ -16328,7 +16333,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2464
+      "UsersEstimate": 2466
     },
     {
       "ID": "ACH17",
@@ -16376,7 +16381,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "ACH23",
@@ -16384,7 +16389,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3769
+      "UsersEstimate": 3772
     },
     {
       "ID": "ACH24",
@@ -16424,7 +16429,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "ACH29",
@@ -16432,7 +16437,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "ACH30",
@@ -16472,7 +16477,7 @@
       "Name": "...Here we go again",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH35",
@@ -16487,7 +16492,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 14497,
+      "Progressed": 14508,
       "Completed": 58
     }
   ],
@@ -16495,8 +16500,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-15T14:59:26.1181739+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:09:14.8873483+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:09:50.4232476+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:47.2955256+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:58:58.449906+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:09:14.8874316+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:59:39.1232033+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:09:50.4233342+00:00"
 }

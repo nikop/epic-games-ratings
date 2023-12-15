@@ -6,17 +6,17 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,936 |
+| You're free now! | 61.00% | ~1,937 |
 | Keeping it classy | 28.00% | ~889 |
 | Welcome to the family | 22.00% | ~698 |
 | The finer things in life | 20.00% | ~635 |
-| Backpacker | 14.00% | ~444 |
-| Go with the Flow | 14.00% | ~444 |
+| Backpacker | 14.00% | ~445 |
+| Go with the Flow | 14.00% | ~445 |
 | The flip trick crown jewel | 11.00% | ~349 |
-| Keep the dream alive | 10.00% | ~317 |
-| Plastic Surgeon | 10.00% | ~317 |
-| The hard way | 10.00% | ~317 |
-| Upfront shredder | 10.00% | ~317 |
+| Keep the dream alive | 10.00% | ~318 |
+| Plastic Surgeon | 10.00% | ~318 |
+| The hard way | 10.00% | ~318 |
+| Upfront shredder | 10.00% | ~318 |
 | Good vibes | 9.00% | ~286 |
 | Fashionista | 8.00% | ~254 |
 | That pinch! | 8.00% | ~254 |
@@ -45,8 +45,8 @@ Number of Ratings: 111  (23.09.2022)
 | Hoarder | 4.00% | ~127 |
 | Pew-Pew | 4.00% | ~127 |
 | Many plys later... | 3.00% | ~95 |
-| Cross lock country | 2.00% | ~63 |
-| That was wheelie fun | 2.00% | ~63 |
+| Cross lock country | 2.00% | ~64 |
+| That was wheelie fun | 2.00% | ~64 |
 | Dipped! | 1.00% | ~32 |
 | Skatepark hero | 1.00% | ~32 |
 | Bing Bong! | 0.10% | ~3 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,174 (Ranked 216)  
+Progressed: 3,175 (Ranked 216)  
 Completed: 2 (0.06%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 2 (0.06%) (Ranked 318)
 | 2023-12-12 | 3,114 | 2 |
 | 2023-12-13 | 3,118 | 2 |
 | 2023-12-14 | 3,148 | 2 |
-| 2023-12-15 | 3,174 | 2 |
+| 2023-12-15 | 3,175 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 421)  
 Sum: 564 (Ranked 321)  

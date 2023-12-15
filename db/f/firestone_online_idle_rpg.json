@@ -625,9 +625,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3430,
+  "EOS_Progressed": 3432,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9870,6 +9870,11 @@
       "Time": "2023-12-15T16:05:10.5402966+00:00",
       "NumProgressed": 3430,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T18:04:34.2549972+00:00",
+      "NumProgressed": 3432,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -10081,7 +10086,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "fullparty",
@@ -10201,7 +10206,7 @@
       "Name": "Mastery",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "milestonecollector",
@@ -10217,7 +10222,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "missionsdedication",
@@ -10233,7 +10238,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "mysteriousrock",
@@ -10241,7 +10246,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "mythicpower",
@@ -10257,7 +10262,7 @@
       "Name": "Natural Talent",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "pokerface",
@@ -10273,7 +10278,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "prestigiousx10",
@@ -10281,7 +10286,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "relicofthepast",
@@ -10289,7 +10294,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "sailor",
@@ -10313,7 +10318,7 @@
       "Name": "Scroll Master",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "silverwoodliberator",
@@ -10329,7 +10334,7 @@
       "Name": "Superior",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "templeofeternals",
@@ -10337,7 +10342,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "thealchemist",
@@ -10369,7 +10374,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "thepowerofawakening",
@@ -10441,7 +10446,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3190
+      "UsersEstimate": 3192
     },
     {
       "ID": "warmachinesarmy",
@@ -10473,14 +10478,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2677
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3430,
+      "Progressed": 3432,
       "Completed": 2
     }
   ],
@@ -10488,8 +10493,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-14T18:58:46.7589357+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:04:05.7633471+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:04:34.2549969+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:16.4016448+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:58:38.4637754+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:04:05.7634378+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:59:16.2557406+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:04:34.2550895+00:00"
 }

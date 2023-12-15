@@ -467,9 +467,9 @@
       "ID": "CgkIxYDzrbcPEAIQBA",
       "SetID": "4egpam7",
       "Name": "Devil\u0027s Bargain",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBQ",
@@ -563,9 +563,9 @@
       "ID": "CgkIxYDzrbcPEAIQEA",
       "SetID": "4egpam7",
       "Name": "Collector of Secrets",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEQ",
@@ -619,9 +619,9 @@
       "ID": "CgkIxYDzrbcPEAIQFw",
       "SetID": "4egpam7",
       "Name": "I Could Do This Blindfolded",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CgkIxYDzrbcPEAIQGA",
@@ -690,8 +690,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:05:23.8272871+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:06:04.0883963+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:44.1907943+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:57:20.8062206+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:05:23.8273071+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:57:48.1525039+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:06:04.0884117+00:00"
 }

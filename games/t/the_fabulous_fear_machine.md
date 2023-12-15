@@ -21,9 +21,10 @@
 | Ambition is... blind | 13.00% | ~7 |
 | You have two wishes left | 13.00% | ~7 |
 | A rival with no options | 11.00% | ~6 |
+| Et in arcadia ego | 9.00% | ~5 |
 | You had one wish left | 7.00% | ~4 |
-| Et in arcadia ego | 7.00% | ~4 |
 | Kirlian's best disciple | 7.00% | ~4 |
+| Welcome to Hellville | 7.00% | ~4 |
 | You've awakened the beast | 6.00% | ~3 |
 | Hate is... addictive | 6.00% | ~3 |
 | Bread and bocaua | 6.00% | ~3 |
@@ -31,7 +32,6 @@
 | The bully | 6.00% | ~3 |
 | The adventurer | 6.00% | ~3 |
 | ECO mode | 6.00% | ~3 |
-| Welcome to Hellville | 6.00% | ~3 |
 | Blood Red Island | 4.00% | ~2 |
 | The scholar | 4.00% | ~2 |
 | Pulp! The Beyond | 4.00% | ~2 |

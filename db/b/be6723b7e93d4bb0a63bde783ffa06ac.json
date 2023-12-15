@@ -4,7 +4,7 @@
   "ProductSlug": "strike-force-kitty-4603e5",
   "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -602,9 +602,9 @@
       "ID": "ach29",
       "SetID": "baneh2j",
       "Name": "My first team",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach3",
@@ -618,9 +618,9 @@
       "ID": "ach30",
       "SetID": "baneh2j",
       "Name": "Found!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach31",
@@ -634,9 +634,9 @@
       "ID": "ach4",
       "SetID": "baneh2j",
       "Name": "Skillful fighter",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach5",
@@ -689,8 +689,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:03:58.5572735+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:04:25.8548765+00:00",
   "LastUpdate_AppInfo": "2023-12-13T08:56:58.3281162+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:57:15.8383237+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:03:58.5572928+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:57:42.8155414+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:04:25.8549034+00:00"
 }

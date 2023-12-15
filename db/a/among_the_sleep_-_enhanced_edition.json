@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -494,9 +494,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95576,
+  "EOS_Progressed": 95581,
   "EOS_Completed": 434,
-  "EOS_NewPlayers": 690,
+  "EOS_NewPlayers": 685,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -27079,6 +27079,11 @@
       "Time": "2023-12-15T17:08:19.0988174+00:00",
       "NumProgressed": 95576,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-12-15T18:09:09.6090902+00:00",
+      "NumProgressed": 95581,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 10,
@@ -27154,7 +27159,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 33452
+      "UsersEstimate": 33453
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -27162,22 +27167,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 10513
+      "UsersEstimate": 10514
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 95576,
+      "Progressed": 95581,
       "Completed": 434
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-07T22:03:08.3516808+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:08:19.0988171+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:09:09.6090899+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2634868+00:00",
-  "LastUpdate_Ratings": "2023-12-15T17:02:51.6333908+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:08:19.0989395+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:03:05.6357315+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:09:09.6092388+00:00"
 }

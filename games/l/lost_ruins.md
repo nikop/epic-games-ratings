@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Inquisitor | 38.00% | ~200 |
+| Inquisitor | 38.00% | ~201 |
 | Goblin Tales | 30.00% | ~158 |
 | Bug Hunter | 25.00% | ~132 |
 | Boss Killer | 23.00% | ~121 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.40% | ~2 |
 | Hardboiled | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 527 (Ranked 319)  
+Progressed: 528 (Ranked 319)  
 Completed: 1 (0.19%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 1 (0.19%) (Ranked 267)
 | 2023-12-12 | 503 | 1 |
 | 2023-12-13 | 505 | 1 |
 | 2023-12-14 | 517 | 1 |
-| 2023-12-15 | 527 | 1 |
+| 2023-12-15 | 528 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

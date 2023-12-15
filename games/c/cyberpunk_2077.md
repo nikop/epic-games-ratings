@@ -6,23 +6,23 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,177 |
-| Gun Fu | 7.00% | ~68,353 |
-| Right Back At Ya | 6.00% | ~58,589 |
-| The Fool | 6.00% | ~58,589 |
-| The Lovers | 5.00% | ~48,824 |
-| Full Body Conversion | 4.00% | ~39,059 |
-| Stanislavski's Method | 4.00% | ~39,059 |
-| The Wheel of Fortune | 4.00% | ~39,059 |
-| True Soldier | 4.00% | ~39,059 |
-| All the President's Men | 4.00% | ~4,204 |
-| Arachnophobia | 4.00% | ~4,204 |
-| Christmas Tree Attack | 3.00% | ~29,294 |
-| The Hermit | 3.00% | ~29,294 |
-| The High Priestess | 3.00% | ~29,294 |
-| True Warrior | 3.00% | ~29,294 |
-| Legend of The Afterlife | 3.00% | ~29,294 |
-| Relic Ruler | 3.00% | ~3,153 |
+| V for Vendetta | 12.00% | ~117,181 |
+| Gun Fu | 7.00% | ~68,356 |
+| Right Back At Ya | 6.00% | ~58,591 |
+| The Fool | 6.00% | ~58,591 |
+| The Lovers | 5.00% | ~48,825 |
+| Full Body Conversion | 4.00% | ~39,060 |
+| Stanislavski's Method | 4.00% | ~39,060 |
+| The Wheel of Fortune | 4.00% | ~39,060 |
+| True Soldier | 4.00% | ~39,060 |
+| All the President's Men | 4.00% | ~4,205 |
+| Arachnophobia | 4.00% | ~4,205 |
+| Christmas Tree Attack | 3.00% | ~29,295 |
+| The Hermit | 3.00% | ~29,295 |
+| The High Priestess | 3.00% | ~29,295 |
+| True Warrior | 3.00% | ~29,295 |
+| Legend of The Afterlife | 3.00% | ~29,295 |
+| Relic Ruler | 3.00% | ~3,154 |
 | Bushido and Chill | 2.00% | ~19,530 |
 | Master Crafter | 2.00% | ~19,530 |
 | I Am The Law | 2.00% | ~19,530 |
@@ -36,20 +36,20 @@ Number of Ratings: 32,700  (23.09.2022)
 | Spin Doctor | 1.00% | ~1,051 |
 | King of Wands | 1.00% | ~1,051 |
 | Easy Come, Easy Go | 1.00% | ~1,051 |
-| The Sun | 0.90% | ~8,788 |
+| The Sun | 0.90% | ~8,789 |
 | Dirty Deeds | 0.90% | ~946 |
 | To Bad Decisions! | 0.80% | ~7,812 |
 | Ten out of Ten | 0.80% | ~7,812 |
-| The Star | 0.70% | ~6,835 |
+| The Star | 0.70% | ~6,836 |
 | Breathtaking | 0.60% | ~5,859 |
-| Autojock | 0.50% | ~4,882 |
-| Must Be Rats | 0.50% | ~4,882 |
+| Autojock | 0.50% | ~4,883 |
+| Must Be Rats | 0.50% | ~4,883 |
+| Temperance | 0.50% | ~4,883 |
 | The APB is Not Enough | 0.50% | ~526 |
 | Judgement Day | 0.50% | ~526 |
 | King of Swords | 0.50% | ~526 |
 | The Tower | 0.50% | ~526 |
-| Temperance | 0.40% | ~3,906 |
-| King of Pentacles | 0.40% | ~420 |
+| King of Pentacles | 0.40% | ~421 |
 | King of Cups | 0.30% | ~315 |
 | City Lights | 0.20% | ~1,953 |
 | Gunslinger | 0.20% | ~1,953 |
@@ -60,9 +60,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Greetings from Pacifica! | 0.20% | ~1,953 |
 | The Jungle | 0.20% | ~1,953 |
 | It's Elementary | 0.20% | ~1,953 |
-| Frequent Flyer | 0.10% | ~976 |
-| Daemon In The Shell | 0.10% | ~976 |
-| Rough Landing | 0.10% | ~976 |
+| Frequent Flyer | 0.10% | ~977 |
+| Daemon In The Shell | 0.10% | ~977 |
+| Rough Landing | 0.10% | ~977 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 976,477 (Ranked 15)  
-Completed: 2,911 (0.30%) (Ranked 242)  
+Progressed: 976,509 (Ranked 15)  
+Completed: 2,912 (0.30%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -313,7 +313,7 @@ Completed: 2,911 (0.30%) (Ranked 242)
 | 2023-12-12 | 975,121 | 2,891 |
 | 2023-12-13 | 975,519 | 2,900 |
 | 2023-12-14 | 976,057 | 2,907 |
-| 2023-12-15 | 976,477 | 2,911 |
+| 2023-12-15 | 976,509 | 2,912 |
 ## Awards
 Max (Character Customization): 122,911  (Ranked 8)  
 Sum: 420,422 (Ranked 9)  

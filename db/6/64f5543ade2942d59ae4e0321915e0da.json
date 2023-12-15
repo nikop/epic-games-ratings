@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -645,9 +645,9 @@
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -685,9 +685,9 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -709,9 +709,9 @@
       "ID": "AC_FLASHBACK_03",
       "SetID": "16i2akc",
       "Name": "Schooling",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "AC_FULL_MAP",
@@ -781,9 +781,9 @@
       "ID": "AC_SHOTGUN_MAX",
       "SetID": "16i2akc",
       "Name": "Shot",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "AC_SNIPER_MAX",
@@ -812,8 +812,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:04:25.0504791+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:04:56.4406863+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:56.8907916+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:57:22.4767077+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:04:25.0505084+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:57:50.247627+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:04:56.4407075+00:00"
 }

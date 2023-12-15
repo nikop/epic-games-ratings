@@ -10,9 +10,9 @@
 | Egyptologist | 48.00% | ~11 |
 | No Fear of the Dark | 43.00% | ~10 |
 | They’re Watching | 39.00% | ~9 |
+| Art Connoisseur | 39.00% | ~9 |
 | The Last Skull | 39.00% | ~9 |
 | A Cautious Man Is Worth Two of His Kind | 35.00% | ~8 |
-| Art Connoisseur | 35.00% | ~8 |
 | Survivor | 35.00% | ~8 |
 | Master of Riddles | 35.00% | ~8 |
 | The Witch’s Haunt | 30.00% | ~7 |

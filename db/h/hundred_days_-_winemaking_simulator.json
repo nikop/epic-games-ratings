@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 16046,
+  "EOS_Progressed": 16050,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 785,
+  "EOS_NewPlayers": 781,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -13690,6 +13690,11 @@
       "Time": "2023-12-15T17:09:01.0825223+00:00",
       "NumProgressed": 16046,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-15T18:09:34.7062401+00:00",
+      "NumProgressed": 16050,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -13734,7 +13739,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "a_16",
@@ -13750,7 +13755,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 6739
+      "UsersEstimate": 6741
     },
     {
       "ID": "a_19",
@@ -13822,15 +13827,15 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "a_28",
       "SetID": "daiie3o",
       "Name": "Pastry Chef",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 321
     },
     {
       "ID": "a_3",
@@ -13838,7 +13843,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "a_30",
@@ -13934,7 +13939,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "a_9",
@@ -13949,7 +13954,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 16046,
+      "Progressed": 16050,
       "Completed": 12
     }
   ],
@@ -13957,8 +13962,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:09:01.0825219+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:09:34.7062398+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:11.7677951+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:59:47.0583397+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:09:01.0826105+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:00:32.7301029+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:09:34.7063257+00:00"
 }

@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 990,
+  "EOS_Progressed": 991,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2527,6 +2527,11 @@
       "Time": "2023-12-15T17:05:45.9136209+00:00",
       "NumProgressed": 990,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T18:06:28.8101357+00:00",
+      "NumProgressed": 991,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2763,7 +2768,7 @@
       "Name": "Museum Visitor",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "NewBeginning",
@@ -2849,9 +2854,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 99
     },
     {
       "ID": "SingleRod",
@@ -2883,7 +2888,7 @@
       "Name": "Team Spirit",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "TextAdventurer",
@@ -2939,7 +2944,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "TheWordEndures",
@@ -2955,7 +2960,7 @@
       "Name": "Touch Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "TrevorsBiographer",
@@ -3010,7 +3015,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 990,
+      "Progressed": 991,
       "Completed": 1
     }
   ],
@@ -3018,8 +3023,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:05:45.9136205+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:06:28.8101353+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:56:55.9532664+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:05:45.9136716+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:57:18.0472116+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:06:28.8101953+00:00"
 }

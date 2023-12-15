@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 583,
+  "EOS_Progressed": 584,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
@@ -2539,6 +2539,11 @@
       "Time": "2023-12-14T09:05:06.0593734+00:00",
       "NumProgressed": 583,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-15T18:04:57.2746794+00:00",
+      "NumProgressed": 584,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2558,7 +2563,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2606,7 +2611,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2622,7 +2627,7 @@
       "Name": "Unholy lands",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2646,7 +2651,7 @@
       "Name": "Holy Nails",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -2661,14 +2666,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 583,
+      "Progressed": 584,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:04:25.7242567+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:04:57.2746792+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:59.8289904+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:58:04.1269159+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:04:25.724274+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:58:39.9245636+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:04:57.2746984+00:00"
 }

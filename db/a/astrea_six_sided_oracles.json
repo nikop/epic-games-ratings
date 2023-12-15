@@ -1042,9 +1042,9 @@
       "ID": "Prestidigitation",
       "SetID": "1jeo1g7",
       "Name": "Prestidigitation",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "PurificationAvatar",
@@ -1425,8 +1425,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:05:57.9064575+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:07:41.9097696+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.3287789+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:58:27.5499+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:05:57.9065428+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:59:05.8061249+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:07:41.9098592+00:00"
 }

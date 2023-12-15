@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~133 |
-| This guy... again? | 3.00% | ~66 |
-| Lost and Found | 3.00% | ~66 |
+| Malpractice Assurance | 6.00% | ~134 |
+| This guy... again? | 3.00% | ~67 |
+| Lost and Found | 3.00% | ~67 |
 | This Belongs in a Museum | 2.00% | ~2,547 |
 | Not Today! | 2.00% | ~2,547 |
 | Creep and Sleep | 2.00% | ~2,547 |
@@ -17,44 +17,44 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 2.00% | ~2,547 |
 | Escape from the Black Hole | 2.00% | ~2,547 |
 | Autodidact | 2.00% | ~2,547 |
-| Ploughshares to Swords | 2.00% | ~44 |
-| Bloody Graduation | 2.00% | ~44 |
-| Don't Make Me Turn This Coach Around | 1.00% | ~1,273 |
-| Serenity Now! | 1.00% | ~1,273 |
-| It Rings a Bell | 1.00% | ~1,273 |
-| It Happens | 1.00% | ~1,273 |
-| Rush Hour | 1.00% | ~1,273 |
-| Merry Time | 1.00% | ~1,273 |
-| To Grandmother's House | 1.00% | ~1,273 |
-| A Place to Lay Your Head | 1.00% | ~1,273 |
-| FNG | 1.00% | ~1,273 |
-| Nope | 1.00% | ~1,273 |
+| Ploughshares to Swords | 2.00% | ~45 |
+| Bloody Graduation | 2.00% | ~45 |
+| Don't Make Me Turn This Coach Around | 1.00% | ~1,274 |
+| Serenity Now! | 1.00% | ~1,274 |
+| It Rings a Bell | 1.00% | ~1,274 |
+| It Happens | 1.00% | ~1,274 |
+| Rush Hour | 1.00% | ~1,274 |
+| Merry Time | 1.00% | ~1,274 |
+| Harvest Festival | 1.00% | ~1,274 |
+| To Grandmother's House | 1.00% | ~1,274 |
+| Whale | 1.00% | ~1,274 |
+| A Place to Lay Your Head | 1.00% | ~1,274 |
+| FNG | 1.00% | ~1,274 |
+| Nope | 1.00% | ~1,274 |
 | Friends 'Til the End | 1.00% | ~22 |
 | Dissector | 0.90% | ~1,146 |
 | Deprogramming | 0.90% | ~1,146 |
-| Harvest Festival | 0.90% | ~1,146 |
-| Whale | 0.90% | ~1,146 |
 | Worldly Traveller | 0.90% | ~1,146 |
 | Banishment | 0.80% | ~1,019 |
+| Now Stay Dead | 0.80% | ~1,019 |
 | Spelunker | 0.80% | ~1,019 |
 | Road Trip | 0.80% | ~1,019 |
-| Resurrection | 0.70% | ~891 |
-| Unleash Hell | 0.70% | ~891 |
-| Funny Guy | 0.70% | ~891 |
-| Long Live the King | 0.70% | ~891 |
-| Boxcar Kid | 0.70% | ~891 |
-| Unfulfilled Desires | 0.70% | ~891 |
-| Predator | 0.70% | ~891 |
-| Now Stay Dead | 0.70% | ~891 |
-| Reverse Banditry | 0.70% | ~891 |
-| Ramble On | 0.70% | ~891 |
-| Unshackled | 0.70% | ~891 |
+| Resurrection | 0.70% | ~892 |
+| Unleash Hell | 0.70% | ~892 |
+| Funny Guy | 0.70% | ~892 |
+| Long Live the King | 0.70% | ~892 |
+| Boxcar Kid | 0.70% | ~892 |
+| Unfulfilled Desires | 0.70% | ~892 |
+| Predator | 0.70% | ~892 |
+| Reverse Banditry | 0.70% | ~892 |
+| Ramble On | 0.70% | ~892 |
+| A Clear Conscience | 0.70% | ~892 |
+| Unshackled | 0.70% | ~892 |
 | Wyrdly Reconstructed | 0.60% | ~764 |
-| A Clear Conscience | 0.60% | ~764 |
+| Ichthyophobic | 0.60% | ~764 |
 | When You Want Something Done Right | 0.60% | ~764 |
 | Utopia | 0.60% | ~764 |
 | Hope Rekindled | 0.50% | ~637 |
-| Ichthyophobic | 0.50% | ~637 |
 | No More Mouths to Feed | 0.50% | ~637 |
 | Slap on the Wrist | 0.50% | ~11 |
 | This Looks Familiar | 0.40% | ~509 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,346 (Ranked 84)  
+Progressed: 127,365 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
-| 2023-12-15 | 127,346 | 3 |
+| 2023-12-15 | 127,365 | 3 |
 ## Awards
 Max (Character Customization): 7,718  (Ranked 51)  
 Sum: 20,498 (Ranked 59)  

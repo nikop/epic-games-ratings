@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236,
+  "EOS_Progressed": 238,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.54,
+  "EOS_Completed_Percentage": 2.52,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -456,6 +456,11 @@
       "Time": "2023-12-15T16:08:02.2947921+00:00",
       "NumProgressed": 236,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-15T18:07:49.0067522+00:00",
+      "NumProgressed": 238,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -467,7 +472,7 @@
       "Name": "The T-Rex plain.",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "02",
@@ -475,23 +480,23 @@
       "Name": "Crazy Jungle.",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "03",
       "SetID": "6glb5g1",
       "Name": "In the treetops.",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "04",
       "SetID": "6glb5g1",
       "Name": "At the top of the mountain.",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "05",
@@ -499,7 +504,7 @@
       "Name": "A turbulent river.",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "06",
@@ -507,7 +512,7 @@
       "Name": "Dino Ride.",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "07",
@@ -521,9 +526,9 @@
       "ID": "08",
       "SetID": "6glb5g1",
       "Name": "Aggressive rocks.",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 80,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "09",
@@ -547,7 +552,7 @@
       "Name": "Rocky fall.",
       "Percentage": 12,
       "XP": 80,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "12",
@@ -569,9 +574,9 @@
       "ID": "14",
       "SetID": "6glb5g1",
       "Name": "Lightning swamp.",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "15",
@@ -586,7 +591,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 236,
+      "Progressed": 238,
       "Completed": 6
     }
   ],
@@ -594,8 +599,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:06:04.2785082+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:07:49.0067519+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:21.3905331+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:58:22.1625472+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:06:04.2785202+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:58:59.6572672+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:07:49.0067609+00:00"
 }

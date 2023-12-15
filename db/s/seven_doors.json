@@ -256,9 +256,9 @@
       "ID": "ACH_5",
       "SetID": "15cie2",
       "Name": "Art Connoisseur",
-      "Percentage": 35,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_6",
@@ -305,8 +305,8 @@
   "FirstSeenRating": "2023-03-31T05:57:43.4272245+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.6926568+00:00",
   "LastChanged": "2023-03-31T05:57:43.4272246+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:09:01.7932914+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:09:35.3509722+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:38.9969181+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:57:30.7799786+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:09:01.7933061+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:58:00.4403955+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:09:35.3509824+00:00"
 }

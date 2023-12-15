@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1369,
+  "EOS_Progressed": 1371,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3258,6 +3258,11 @@
       "Time": "2023-12-15T17:09:22.9577414+00:00",
       "NumProgressed": 1369,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T18:10:00.0213244+00:00",
+      "NumProgressed": 1371,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3317,7 +3322,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -3325,7 +3330,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1357
     },
     {
       "ID": "EXPERT_1",
@@ -3341,7 +3346,7 @@
       "Name": "Explorer",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "GHOSTBUSTER",
@@ -3357,7 +3362,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "HEAD_BURST_1",
@@ -3421,7 +3426,7 @@
       "Name": "One HIT wonder",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3429,7 +3434,7 @@
       "Name": "One shot, one kill",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "PACIFIST",
@@ -3445,7 +3450,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "PRIVATE_EYE",
@@ -3461,7 +3466,7 @@
       "Name": "Protection racket",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "RELICTS",
@@ -3501,7 +3506,7 @@
       "Name": "Secret room",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "SHOG",
@@ -3525,7 +3530,7 @@
       "Name": "Traveler",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "VVE",
@@ -3541,7 +3546,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "WISHMASTER_1",
@@ -3556,15 +3561,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1369,
+      "Progressed": 1371,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:09:22.9577408+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:10:00.021324+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.8327471+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:58:49.7508533+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:09:22.9577805+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:59:29.1339932+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:10:00.0213835+00:00"
 }

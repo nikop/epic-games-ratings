@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237199,
+  "EOS_Progressed": 237200,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 0,
@@ -25387,6 +25387,11 @@
       "Time": "2023-12-15T17:04:34.4874738+00:00",
       "NumProgressed": 237199,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-15T18:05:07.2094799+00:00",
+      "NumProgressed": 237200,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -25669,15 +25674,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 237199,
+      "Progressed": 237200,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:04:34.4874732+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:05:07.2094796+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.1696277+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:59:44.3329045+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:04:34.487632+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:00:29.815133+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:05:07.2095807+00:00"
 }

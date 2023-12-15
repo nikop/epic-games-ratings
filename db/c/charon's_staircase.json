@@ -2,7 +2,7 @@
   "ID": "0702e42d70eb4d8fbb9293e332047474",
   "Name": "Charon\u0027s Staircase",
   "ProductSlug": "charons-staircase-b2d05f",
-  "Ranking_EOS_Progress": 474,
+  "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 509,
   "Ranking_EOS_NewCompleters": 137,
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83,
+  "EOS_Progressed": 84,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.61,
+  "EOS_Completed_Percentage": 3.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.3534175+00:00",
@@ -120,6 +120,11 @@
       "Time": "2023-11-29T17:06:09.0060498+00:00",
       "NumProgressed": 83,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T18:05:53.2310521+00:00",
+      "NumProgressed": 84,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 20,
@@ -129,7 +134,7 @@
       "ID": "ACH_1",
       "SetID": "1g3d1lg",
       "Name": "Seth\u0027s office",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 35,
       "UsersEstimate": 47
     },
@@ -153,7 +158,7 @@
       "ID": "ACH_12",
       "SetID": "1g3d1lg",
       "Name": "Third document retrieved",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 35,
       "UsersEstimate": 23
     },
@@ -169,7 +174,7 @@
       "ID": "ACH_14",
       "SetID": "1g3d1lg",
       "Name": "Agatha\u0027s favourite song",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 35,
       "UsersEstimate": 28
     },
@@ -177,7 +182,7 @@
       "ID": "ACH_15",
       "SetID": "1g3d1lg",
       "Name": "Lights and shadows",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 40,
       "UsersEstimate": 27
     },
@@ -209,7 +214,7 @@
       "ID": "ACH_19",
       "SetID": "1g3d1lg",
       "Name": "There is something strange here...",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 42
     },
@@ -217,7 +222,7 @@
       "ID": "ACH_2",
       "SetID": "1g3d1lg",
       "Name": "The secret passage",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 35,
       "UsersEstimate": 48
     },
@@ -233,7 +238,7 @@
       "ID": "ACH_3",
       "SetID": "1g3d1lg",
       "Name": "Across the lake",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 35,
       "UsersEstimate": 43
     },
@@ -257,7 +262,7 @@
       "ID": "ACH_6",
       "SetID": "1g3d1lg",
       "Name": "Deadly chase",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 35,
       "UsersEstimate": 23
     },
@@ -265,7 +270,7 @@
       "ID": "ACH_7",
       "SetID": "1g3d1lg",
       "Name": "The lowest floor of the lift",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 35,
       "UsersEstimate": 22
     },
@@ -281,7 +286,7 @@
       "ID": "ACH_9",
       "SetID": "1g3d1lg",
       "Name": "Dara\u0027s home",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 200,
       "UsersEstimate": 23
     }
@@ -290,7 +295,7 @@
     {
       "ID": "1g3d1lg",
       "IsBase": true,
-      "Progressed": 83,
+      "Progressed": 84,
       "Completed": 3
     }
   ],
@@ -298,8 +303,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:05:14.6713694+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:05:53.2310518+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:33.1019573+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:57:15.1877782+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:05:14.6713836+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:57:42.1137779+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:05:53.2310625+00:00"
 }

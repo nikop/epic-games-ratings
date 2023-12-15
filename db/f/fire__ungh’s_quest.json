@@ -856,9 +856,9 @@
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
       "SetID": "6od1ndi",
       "Name": "1978",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 104
+      "UsersEstimate": 107
     },
     {
       "ID": "Level_completed_001_002",
@@ -985,8 +985,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:08:59.3411411+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:09:32.7906802+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:06.264188+00:00",
-  "LastUpdate_Ratings": "2023-12-15T17:02:43.9981338+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:08:59.3411711+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:02:57.1352466+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:09:32.7906982+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 599,
   "Ranking_Popularity": 252,
-  "Ranking_PopularitySum": 180,
+  "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3747,9 +3747,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32275,
+  "EOS_Progressed": 32280,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -22402,6 +22402,11 @@
       "Time": "2023-12-15T17:05:58.4465238+00:00",
       "NumProgressed": 32275,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-15T18:07:42.3362492+00:00",
+      "NumProgressed": 32280,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -22413,7 +22418,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2259
+      "UsersEstimate": 2260
     },
     {
       "ID": "Animated",
@@ -22741,7 +22746,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "Teamwork",
@@ -22820,7 +22825,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32275,
+      "Progressed": 32280,
       "Completed": 69
     }
   ],
@@ -22828,8 +22833,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-15T07:01:21.9898413+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:05:58.4465234+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:07:42.336249+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:16.7242615+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:59:56.6891755+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:05:58.4466453+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:00:44.3896866+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:07:42.336354+00:00"
 }

@@ -213,9 +213,9 @@
       "ID": "ACH_DEEP-POCKETED",
       "SetID": "6lg1p1e",
       "Name": "Deep Pockets",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_EXOTIC-ARSENAL",
@@ -237,9 +237,9 @@
       "ID": "ACH_FRIENEMY",
       "SetID": "6lg1p1e",
       "Name": "Frienemy",
-      "Percentage": 4,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_GOTTA-PET-THEM-ALL",
@@ -269,9 +269,9 @@
       "ID": "ACH_HOUSE-ARREST",
       "SetID": "6lg1p1e",
       "Name": "House Arrest",
-      "Percentage": 4,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_INSANE-COLLECTOR",
@@ -365,9 +365,9 @@
       "ID": "ACH_PRO-EXCAVATOR",
       "SetID": "6lg1p1e",
       "Name": "Pro Excavator",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_PROPERTY-DAMAGE",
@@ -421,9 +421,9 @@
       "ID": "ACH_WHACK-A-MOLE",
       "SetID": "6lg1p1e",
       "Name": "Whack-a-mole",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ZEN-MASTER",
@@ -444,8 +444,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:07:52.967404+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:08:39.9295451+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.3604769+00:00",
-  "LastUpdate_Ratings": "2023-12-15T17:00:02.8118335+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:07:52.9674244+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:00:51.1311375+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:08:39.9295678+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 536,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -249,9 +249,9 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 43,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "fw2",
@@ -481,9 +481,9 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "w2",
@@ -584,8 +584,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:03:43.6863603+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:04:09.2638107+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-15T17:02:35.4142798+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:03:43.6864022+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:02:46.351673+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:04:09.2638416+00:00"
 }

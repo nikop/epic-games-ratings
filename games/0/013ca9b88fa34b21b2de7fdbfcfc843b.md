@@ -49,7 +49,7 @@ Rating: 4.61 (Ranked 389)
 | Exit Through The Gift Shop | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,441 (Ranked 177)  
+Progressed: 8,444 (Ranked 177)  
 Completed: 1 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 1 (0.01%) (Ranked 353)
 | 2023-12-11 | 8,419 | 1 |
 | 2023-12-13 | 8,425 | 1 |
 | 2023-12-14 | 8,437 | 1 |
-| 2023-12-15 | 8,441 | 1 |
+| 2023-12-15 | 8,444 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

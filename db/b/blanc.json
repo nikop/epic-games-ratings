@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3513,
+  "EOS_Progressed": 3519,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5456,6 +5456,11 @@
       "Time": "2023-12-15T17:05:46.5015687+00:00",
       "NumProgressed": 3513,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-15T18:06:29.4628632+00:00",
+      "NumProgressed": 3519,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5475,7 +5480,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "FALLEN_TREE",
@@ -5491,7 +5496,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "MOVE_ON",
@@ -5515,7 +5520,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "SNOW_RUINS",
@@ -5531,7 +5536,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -5555,7 +5560,7 @@
       "Name": "Transmission",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -5563,14 +5568,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3513,
+      "Progressed": 3519,
       "Completed": 6
     }
   ],
@@ -5578,8 +5583,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:05:46.501568+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:06:29.4628629+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:18.0649883+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:56:56.1768285+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:05:46.5016071+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:57:18.324719+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:06:29.4628929+00:00"
 }

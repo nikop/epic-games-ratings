@@ -8785,9 +8785,9 @@
       "Count": 3576
     }
   ],
-  "EOS_Progressed": 240695,
+  "EOS_Progressed": 240715,
   "EOS_Completed": 2529,
-  "EOS_NewPlayers": 1763,
+  "EOS_NewPlayers": 1775,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -35750,6 +35750,11 @@
       "Time": "2023-12-15T17:09:36.4772776+00:00",
       "NumProgressed": 240695,
       "NumCompleted": 2529
+    },
+    {
+      "Time": "2023-12-15T18:10:15.0521961+00:00",
+      "NumProgressed": 240715,
+      "NumCompleted": 2529
     }
   ],
   "TotalAchievements": 546,
@@ -40103,9 +40108,9 @@
       "ID": "objective_completed_683",
       "SetID": "415jc5c",
       "Name": "Mental Gymnastics",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 414
     },
     {
       "ID": "objective_completed_860",
@@ -40128,21 +40133,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 206969,
+      "Progressed": 206989,
       "Completed": 3997
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 240695,
+      "Progressed": 240715,
       "Completed": 2529
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-15T15:58:31.0152164+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:09:36.4772772+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:10:15.0521958+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:57:52.4661541+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:09:36.4797628+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:58:26.4696221+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:10:15.0543756+00:00"
 }

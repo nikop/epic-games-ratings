@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -282,9 +282,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2241,
+  "EOS_Progressed": 2242,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -3362,6 +3362,11 @@
       "Time": "2023-12-15T15:03:10.1771143+00:00",
       "NumProgressed": 2241,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-15T18:03:25.2237474+00:00",
+      "NumProgressed": 2242,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3381,7 +3386,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "ACHV_03",
@@ -3389,7 +3394,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACHV_04",
@@ -3413,7 +3418,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACHV_07",
@@ -3477,7 +3482,7 @@
       "Name": "Reborn",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHV_15",
@@ -3573,7 +3578,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1793
+      "UsersEstimate": 1794
     },
     {
       "ID": "ACHV_27",
@@ -3621,7 +3626,7 @@
       "Name": "Remote Surgery",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHV_33",
@@ -3661,7 +3666,7 @@
       "Name": "Luminary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACHV_38",
@@ -3749,7 +3754,7 @@
       "Name": "Turbo Booster",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHV_49",
@@ -3781,7 +3786,7 @@
       "Name": "Juiced Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHV_53",
@@ -3813,7 +3818,7 @@
       "Name": "Squid Pro Quo",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHV_57",
@@ -3828,7 +3833,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2241,
+      "Progressed": 2242,
       "Completed": 13
     }
   ],
@@ -3836,8 +3841,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-22T02:25:03.2214817+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:03:05.5382315+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:03:25.2237471+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:57.0176831+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:56:52.4495918+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:03:05.538291+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:57:14.0754193+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:03:25.22379+00:00"
 }

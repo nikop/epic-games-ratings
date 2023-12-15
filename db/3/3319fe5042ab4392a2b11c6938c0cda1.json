@@ -2,9 +2,9 @@
   "ID": "3319fe5042ab4392a2b11c6938c0cda1",
   "Name": "Thief",
   "ProductSlug": "thief-5bb95f",
-  "Ranking_EOS_Progress": 555,
+  "Ranking_EOS_Progress": 551,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29,
+  "EOS_Progressed": 30,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -128,6 +128,11 @@
     {
       "Time": "2023-12-15T10:03:50.5644275+00:00",
       "NumProgressed": 29,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T18:04:04.8343917+00:00",
+      "NumProgressed": 30,
       "NumCompleted": 0
     }
   ],
@@ -275,7 +280,7 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "ae95dh3",
       "Name": "All That Glitters",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -299,7 +304,7 @@
       "ID": "NEW_ACHIEVEMENT_1_27",
       "SetID": "ae95dh3",
       "Name": "The Drop",
-      "Percentage": 79,
+      "Percentage": 77,
       "XP": 5,
       "UsersEstimate": 23
     },
@@ -307,7 +312,7 @@
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "ae95dh3",
       "Name": "Lockdown",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -436,14 +441,14 @@
     {
       "ID": "ae95dh3",
       "IsBase": true,
-      "Progressed": 29,
+      "Progressed": 30,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:03:39.7434791+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:04:04.8343914+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184739+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:57:41.6487449+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:03:39.7435072+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:58:13.4551306+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:04:04.8344139+00:00"
 }

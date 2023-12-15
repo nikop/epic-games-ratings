@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3037,
+  "EOS_Progressed": 3038,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8064,6 +8064,11 @@
       "Time": "2023-12-15T15:09:36.0441321+00:00",
       "NumProgressed": 3037,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T18:09:52.656479+00:00",
+      "NumProgressed": 3038,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -8091,7 +8096,7 @@
       "Name": "Bot Destroyer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "CLUMSY",
@@ -8107,7 +8112,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -8131,7 +8136,7 @@
       "Name": "Face-To-Screen-To-Face",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "FEUD_APPRENTICE",
@@ -8179,15 +8184,15 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "GUARD_MAKER",
       "SetID": "8lhbnh7",
       "Name": "Guard Maker",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "ISOLATION_MASTER",
@@ -8250,14 +8255,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 3037,
+      "Progressed": 3038,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:09:16.7588065+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:09:52.6564787+00:00",
   "LastUpdate_AppInfo": "2023-12-13T08:56:57.6507347+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:59:01.6982752+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:09:16.758846+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:59:42.7184322+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:09:52.6565281+00:00"
 }

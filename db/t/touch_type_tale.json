@@ -2,9 +2,9 @@
   "ID": "7029f6353d7f468eb6940bbe6041474e",
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
-  "Ranking_EOS_Progress": 202,
+  "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3854,
+  "EOS_Progressed": 3855,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -4882,6 +4882,11 @@
       "Time": "2023-12-15T17:03:06.0550068+00:00",
       "NumProgressed": 3854,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-15T18:03:25.8102337+00:00",
+      "NumProgressed": 3855,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4941,7 +4946,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3353
+      "UsersEstimate": 3354
     },
     {
       "ID": "campaign10",
@@ -5029,7 +5034,7 @@
       "Name": "Flanked!",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2929
+      "UsersEstimate": 2930
     },
     {
       "ID": "campaign20",
@@ -5085,7 +5090,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "campaign9",
@@ -5156,7 +5161,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3854,
+      "Progressed": 3855,
       "Completed": 11
     }
   ],
@@ -5164,8 +5169,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:03:06.0550065+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:03:25.8102334+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.2611829+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:58:25.6041325+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:03:06.0550558+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:59:03.4746913+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:03:25.8102808+00:00"
 }

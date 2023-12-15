@@ -9,7 +9,7 @@
 | For the Horde! | 83.00% | ~466 |
 | Hammer Time, Round Two | 81.00% | ~454 |
 | The Hellwoods | 77.00% | ~432 |
-| The Plains of Strothalm | 71.00% | ~398 |
+| The Plains of Strothalm | 72.00% | ~404 |
 | Experienced Thalya | 71.00% | ~398 |
 | Bad Elves Go Everywhere | 69.00% | ~387 |
 | Thalya's Concentrated Fury | 68.00% | ~381 |
@@ -20,7 +20,7 @@
 | The Ascent | 58.00% | ~325 |
 | It's Warm and Cozy at Home | 58.00% | ~325 |
 | Trap Master | 55.00% | ~309 |
-| Minions, Minions! | 54.00% | ~303 |
+| Minions, Minions! | 55.00% | ~309 |
 | The Big Eaty | 53.00% | ~297 |
 | Hard Work | 52.00% | ~292 |
 | “… like son” | 51.00% | ~286 |

@@ -5,7 +5,7 @@ Rating: 3.47 (Ranked 1,062)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 5.00% | ~91 |
+| I Like My Stakes Rare! | 5.00% | ~92 |
 | Catch and Release | 4.00% | ~73 |
 | Home Is Where the Heart Is | 3.00% | ~55 |
 | Blood Will Have Blood | 3.00% | ~55 |
@@ -32,8 +32,8 @@ Rating: 3.47 (Ranked 1,062)
 | Harvest’s End | 1.00% | ~18 |
 | Helping Hand | 1.00% | ~18 |
 | Starve the Beast | 0.90% | ~16 |
+| I Spit On Your Grave | 0.90% | ~16 |
 | Contingency Plans | 0.80% | ~15 |
-| I Spit On Your Grave | 0.80% | ~15 |
 | You Clean It Up | 0.70% | ~13 |
 | Check, Please! | 0.70% | ~13 |
 | Nice Try | 0.70% | ~13 |
@@ -72,7 +72,7 @@ Rating: 3.47 (Ranked 1,062)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,828 (Ranked 235)  
+Progressed: 1,833 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-02 | 1,776 | 0 |
 | 2023-12-13 | 1,784 | 0 |
 | 2023-12-14 | 1,810 | 0 |
-| 2023-12-15 | 1,828 | 0 |
+| 2023-12-15 | 1,833 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

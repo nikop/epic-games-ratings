@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1254,6 +1254,11 @@
       "Time": "2023-12-15T17:03:36.7688131+00:00",
       "NumProgressed": 400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T18:04:01.192272+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1272,9 +1277,9 @@
       "ID": "4",
       "SetID": "5pi96jj",
       "Name": "Iced Iced Baby",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "5",
@@ -1288,7 +1293,7 @@
       "ID": "6",
       "SetID": "5pi96jj",
       "Name": "Life\u0027s A Bleach",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -1330,7 +1335,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "REMAKE_004",
@@ -1338,7 +1343,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "Remake_005",
@@ -1368,7 +1373,7 @@
       "ID": "Remake_008",
       "SetID": "5pi96jj",
       "Name": "Plumber\u0027s Apprentice",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -1384,7 +1389,7 @@
       "ID": "Remake_010",
       "SetID": "5pi96jj",
       "Name": "Played with balls",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -1392,15 +1397,15 @@
       "ID": "Remake_11",
       "SetID": "5pi96jj",
       "Name": "Imma Powder Out",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 36
     },
     {
       "ID": "Remake_12",
       "SetID": "5pi96jj",
       "Name": "You are what you Eat",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -1408,17 +1413,17 @@
       "ID": "Remake_13",
       "SetID": "5pi96jj",
       "Name": "Toasted",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 64
     },
     {
       "ID": "Remake_14",
       "SetID": "5pi96jj",
       "Name": "This is not how you play Slip and Die",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     },
     {
       "ID": "Remake_15",
@@ -1432,9 +1437,9 @@
       "ID": "Remake_16",
       "SetID": "5pi96jj",
       "Name": "Choked on Balls",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     },
     {
       "ID": "Remake_17",
@@ -1489,14 +1494,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:03:36.7688126+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:04:01.1922718+00:00",
   "LastUpdate_AppInfo": "2023-12-11T23:56:59.5421023+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:59:16.1085437+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:03:36.7688613+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:59:57.5801321+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:04:01.1922951+00:00"
 }

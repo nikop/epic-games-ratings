@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1828,
+  "EOS_Progressed": 1833,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2562,6 +2562,11 @@
       "Time": "2023-12-15T17:05:12.0309895+00:00",
       "NumProgressed": 1828,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T18:05:50.2878792+00:00",
+      "NumProgressed": 1833,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2709,7 +2714,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Achievement_020",
@@ -3091,16 +3096,16 @@
       "ID": "Achievement_071",
       "SetID": "6b34g18",
       "Name": "I Spit On Your Grave",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1828,
+      "Progressed": 1833,
       "Completed": 0
     }
   ],
@@ -3108,8 +3113,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-10T01:51:29.5345174+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:05:12.030989+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:05:50.287879+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:19.3114561+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:58:15.2607821+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:05:12.0310434+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:58:52.1393323+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:05:50.2879376+00:00"
 }

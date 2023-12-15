@@ -4,8 +4,8 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1616,17 +1616,17 @@
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 404
     },
     {
       "ID": "ach_main04undead_minions",
       "SetID": "4hg22ll",
       "Name": "Minions, Minions!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 303
+      "UsersEstimate": 309
     },
     {
       "ID": "ach_main04undead_sacrifice",
@@ -2039,8 +2039,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:05:24.3388359+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:06:04.6824033+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:57:18.9871477+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:05:24.3388854+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:57:46.3249504+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:06:04.6824443+00:00"
 }

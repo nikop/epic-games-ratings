@@ -413,9 +413,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 329244,
+  "EOS_Progressed": 329270,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3519,
+  "EOS_NewPlayers": 3518,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9713,6 +9713,11 @@
       "Time": "2023-12-15T17:03:08.4088247+00:00",
       "NumProgressed": 329244,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-15T18:03:28.4009315+00:00",
+      "NumProgressed": 329270,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9725,7 +9730,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9877
+      "UsersEstimate": 9878
     },
     {
       "ID": "S02_BRDA",
@@ -9861,7 +9866,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9877
+      "UsersEstimate": 9878
     },
     {
       "ID": "S19_CHALLENGES",
@@ -9941,7 +9946,7 @@
       "Name": "Not even from this world",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "S29_RECOVER",
@@ -10021,7 +10026,7 @@
       "Name": "Chaos be damned!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "S39_END_RAPTURE",
@@ -10037,14 +10042,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3292
+      "UsersEstimate": 3293
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 329244,
+      "Progressed": 329270,
       "Completed": 5
     }
   ],
@@ -10052,8 +10057,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-13T03:57:02.1052572+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:03:08.4088241+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:03:28.4009313+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:58:01.3042107+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:03:08.4088985+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:58:36.5323452+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:03:28.4009835+00:00"
 }

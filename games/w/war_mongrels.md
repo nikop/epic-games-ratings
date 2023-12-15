@@ -6,26 +6,26 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 68.00% | ~453 |
-| Cowardice | 62.00% | ~413 |
+| Explorer | 68.00% | ~454 |
+| Cowardice | 62.00% | ~414 |
 | NO LIFE IS WORTH SAVING... | 47.00% | ~313 |
 | The Breaking Point | 45.00% | ~300 |
 | Eat Lead! | 45.00% | ~300 |
-| Here Comes the Boom | 42.00% | ~280 |
+| Here Comes the Boom | 43.00% | ~287 |
 | Prospector | 41.00% | ~273 |
-| Sniper Wolf | 40.00% | ~266 |
+| Sniper Wolf | 40.00% | ~267 |
 | Treasure Hunter | 38.00% | ~253 |
 | The Motivation | 38.00% | ~253 |
 | Heroism | 36.00% | ~240 |
-| Collectibles of Chapter I | 34.00% | ~226 |
-| Missing in Action | 34.00% | ~226 |
+| Collectibles of Chapter I | 34.00% | ~227 |
+| Missing in Action | 34.00% | ~227 |
 | King of Knives | 33.00% | ~220 |
 | Consequences | 32.00% | ~213 |
-| Opportunities | 31.00% | ~206 |
+| Opportunities | 31.00% | ~207 |
 | The Horror | 29.00% | ~193 |
 | The Difference | 27.00% | ~180 |
 | Vengeance | 26.00% | ~173 |
-| It's Just an Accident | 25.00% | ~166 |
+| It's Just an Accident | 25.00% | ~167 |
 | Broken Hopes | 23.00% | ~153 |
 | Bullseye! | 23.00% | ~153 |
 | Collectibles of Chapter II | 22.00% | ~147 |
@@ -33,7 +33,7 @@ Number of Ratings: 34  (23.09.2022)
 | Atonement | 18.00% | ~120 |
 | Food Massacre | 18.00% | ~120 |
 | Helping Hand | 17.00% | ~113 |
-| Without a Second Thought | 15.00% | ~100 |
+| Without a Second Thought | 16.00% | ~107 |
 | Collectibles of Chapter III | 14.00% | ~93 |
 | Collectibles of Chapter IV | 14.00% | ~93 |
 | Collectibles of Chapter V | 11.00% | ~73 |
@@ -50,23 +50,23 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter X | 4.00% | ~27 |
 | Collectibles of Chapter IX | 3.00% | ~20 |
 | Collectibles of Chapter VI | 2.00% | ~13 |
-| Hold a Door | 2.00% | ~13 |
 | Daddy Would Be Proud | 2.00% | ~13 |
-| Warm Up | 0.50% | ~3 |
-| Challenges of Chapter I | 0.20% | ~1 |
-| Challenges of Chapter II | 0.20% | ~1 |
-| Challenges of Chapter III | 0.20% | ~1 |
-| Challenges of Chapter IV | 0.20% | ~1 |
-| Challenges of Chapter V | 0.20% | ~1 |
-| Challenges of Chapter VI | 0.20% | ~1 |
-| Challenges of Chapter VII | 0.20% | ~1 |
-| Challenges of Chapter VIII | 0.20% | ~1 |
-| Challenges of Chapter IX | 0.20% | ~1 |
-| Challenges of Chapter X | 0.20% | ~1 |
-| Challenges of Chapter XI | 0.20% | ~1 |
-| Challenges of Chapter XII | 0.20% | ~1 |
+| Hold a Door | 1.00% | ~7 |
+| Warm Up | 0.40% | ~3 |
+| Challenges of Chapter I | 0.10% | ~1 |
+| Challenges of Chapter II | 0.10% | ~1 |
+| Challenges of Chapter III | 0.10% | ~1 |
+| Challenges of Chapter IV | 0.10% | ~1 |
+| Challenges of Chapter V | 0.10% | ~1 |
+| Challenges of Chapter VI | 0.10% | ~1 |
+| Challenges of Chapter VII | 0.10% | ~1 |
+| Challenges of Chapter VIII | 0.10% | ~1 |
+| Challenges of Chapter IX | 0.10% | ~1 |
+| Challenges of Chapter X | 0.10% | ~1 |
+| Challenges of Chapter XI | 0.10% | ~1 |
+| Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666 (Ranked 295)  
+Progressed: 667 (Ranked 295)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-10 | 662 | 0 |
 | 2023-12-11 | 663 | 0 |
 | 2023-12-13 | 665 | 0 |
-| 2023-12-15 | 666 | 0 |
+| 2023-12-15 | 667 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

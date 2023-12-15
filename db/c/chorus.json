@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -307,9 +307,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 1310,
+  "EOS_Progressed": 1311,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
@@ -2577,6 +2577,11 @@
       "Time": "2023-12-15T10:09:04.7302533+00:00",
       "NumProgressed": 1310,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-15T18:09:23.1529638+00:00",
+      "NumProgressed": 1311,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 43,
@@ -2588,7 +2593,7 @@
       "Name": "Demigod",
       "Percentage": 75,
       "XP": 150,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "DieInPermadeath",
@@ -2620,7 +2625,7 @@
       "Name": "Paragon",
       "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "GatlingVsArmor",
@@ -2636,7 +2641,7 @@
       "Name": "Showoff",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "KillWhileDrifting",
@@ -2644,15 +2649,15 @@
       "Name": "Born to Drift",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "KillWithALargeShip",
       "SetID": "a6c395p",
       "Name": "The Great Destroyer",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 969
+      "UsersEstimate": 957
     },
     {
       "ID": "MasteryOfCombat",
@@ -2660,7 +2665,7 @@
       "Name": "Mastery of Combat",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "MasteryOfRites",
@@ -2684,7 +2689,7 @@
       "Name": "The Crimson Void",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -2716,7 +2721,7 @@
       "Name": "Payback",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -2748,7 +2753,7 @@
       "Name": "The Nameless Dread",
       "Percentage": 34,
       "XP": 75,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "MissionHeartOfTheFaceless",
@@ -2788,7 +2793,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -2804,7 +2809,7 @@
       "Name": "Shields Down",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "MissionScavengingJob",
@@ -2812,7 +2817,7 @@
       "Name": "Another Life",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "MissionShipyard",
@@ -2836,7 +2841,7 @@
       "Name": "Disruption",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -2884,7 +2889,7 @@
       "Name": "Huntress",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "RiteOfTheStar",
@@ -2908,7 +2913,7 @@
       "Name": "Phoenix",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "VisitAllLocations",
@@ -2931,15 +2936,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1310,
+      "Progressed": 1311,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-10-05T08:58:55.3962263+00:00",
-  "LastChanged_Achievements": "2023-12-15T17:08:30.7609211+00:00",
+  "LastChanged_Achievements": "2023-12-15T18:09:23.1529636+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.0283687+00:00",
-  "LastUpdate_Ratings": "2023-12-15T17:02:25.856652+00:00",
-  "LastUpdate_Achievements": "2023-12-15T17:08:30.7609624+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:02:33.8099233+00:00",
+  "LastUpdate_Achievements": "2023-12-15T18:09:23.1529927+00:00"
 }
