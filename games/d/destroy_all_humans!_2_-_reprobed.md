@@ -10,17 +10,17 @@ Number of Ratings: 90  (23.09.2022)
 | Mash Machine | 59.00% | ~44 |
 | Ducks in a Row, Fish in a Barrel | 41.00% | ~31 |
 | Furon Fashion | 28.00% | ~21 |
-| Shop Til They Drop | 27.00% | ~20 |
+| Shop Til They Drop | 28.00% | ~21 |
 | Earthly Pleasures | 19.00% | ~14 |
 | Upgreatest | 19.00% | ~14 |
+| Bodied Sattva | 17.00% | ~13 |
 | Pimp My Raid | 17.00% | ~13 |
 | I Look Up As I Walk to Takoshima | 16.00% | ~12 |
-| Bodied Sattva | 16.00% | ~12 |
 | Perfect Probulator | 13.00% | ~10 |
 | Cult Following | 13.00% | ~10 |
 | Lie Back and Think of Albion | 13.00% | ~10 |
 | Freshly Squeezed | 11.00% | ~8 |
-| Die Nasty | 9.00% | ~7 |
+| Die Nasty | 11.00% | ~8 |
 | Transmitting From Sol-3 | 8.00% | ~6 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 7.00% | ~5 |
 | Fly Me to the Moon Base | 5.00% | ~4 |

@@ -546,9 +546,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "AC_BOSS_01",
@@ -666,9 +666,9 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 75,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:04:44.6438772+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:04:44.6488701+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:56.8907916+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:57:42.2774405+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:04:44.6439156+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:57:52.5289422+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:04:44.6488946+00:00"
 }

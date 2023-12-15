@@ -6,15 +6,15 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 69.00% | ~8,718 |
-| Photographer | 68.00% | ~8,592 |
-| Valley's Helper | 61.00% | ~7,707 |
-| Constructor | 51.00% | ~6,444 |
-| Renovator | 51.00% | ~6,444 |
-| Bestest Friend | 46.00% | ~5,812 |
-| Banker | 39.00% | ~4,928 |
-| Gardener | 31.00% | ~3,917 |
-| Generous | 25.00% | ~3,159 |
+| Goofy's Investor | 69.00% | ~8,720 |
+| Photographer | 68.00% | ~8,594 |
+| Valley's Helper | 61.00% | ~7,709 |
+| Constructor | 51.00% | ~6,445 |
+| Renovator | 51.00% | ~6,445 |
+| Bestest Friend | 46.00% | ~5,813 |
+| Banker | 39.00% | ~4,929 |
+| Gardener | 31.00% | ~3,918 |
+| Generous | 25.00% | ~3,160 |
 | Chef Cook | 19.00% | ~2,401 |
 | Miner | 10.00% | ~1,264 |
 | Duty Bound | 8.00% | ~1,011 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 6.00% | ~758 |
 | Chit Chatter | 3.00% | ~379 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,635 (Ranked 162)  
+Progressed: 12,638 (Ranked 162)  
 Completed: 313 (2.48%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,10 +212,10 @@ Completed: 313 (2.48%) (Ranked 123)
 | 2023-12-12 | 12,516 | 311 |
 | 2023-12-13 | 12,548 | 312 |
 | 2023-12-14 | 12,588 | 313 |
-| 2023-12-15 | 12,635 | 313 |
+| 2023-12-15 | 12,638 | 313 |
 ## Awards
 Max (Great for Beginners): 1,126  (Ranked 144)  
-Sum: 8,148 (Ranked 107)  
+Sum: 8,152 (Ranked 107)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -227,7 +227,7 @@ Diff (max vs sum): 37
 | This game has Amazing Storytelling | 796 |
 | This game is Extremely Fun | 777 |
 | This game has Quickly Understood Controls | 765 |
-| This game has a Creative Community | 700 |
+| This game has a Creative Community | 704 |
 | This game has Easy Combat | 540 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
@@ -508,4 +508,4 @@ Diff (max vs sum): 37
 | 2023-12-12 | 4.76 | - | 1,120 | 8,124 |
 | 2023-12-13 | 4.76 | - | 1,123 | 8,136 |
 | 2023-12-14 | 4.76 | - | 1,126 | 8,144 |
-| 2023-12-15 | 4.76 | - | 1,126 | 8,148 |
+| 2023-12-15 | 4.76 | - | 1,126 | 8,152 |

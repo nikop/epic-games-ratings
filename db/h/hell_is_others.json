@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1333,9 +1333,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259378,
+  "EOS_Progressed": 259380,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24208,6 +24208,11 @@
       "Time": "2023-12-15T21:04:34.0811869+00:00",
       "NumProgressed": 259378,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T22:04:33.979216+00:00",
+      "NumProgressed": 259380,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -24219,7 +24224,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18156
+      "UsersEstimate": 18157
     },
     {
       "ID": "Act2",
@@ -24267,7 +24272,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80407
+      "UsersEstimate": 80408
     },
     {
       "ID": "BackHomeNTimes",
@@ -24666,7 +24671,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259378,
+      "Progressed": 259380,
       "Completed": 3
     }
   ],
@@ -24674,8 +24679,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-15T11:02:49.2718572+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:04:34.0811866+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:04:33.9792156+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:52.9725586+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:02:48.1371708+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:04:34.0814405+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:02:42.9521407+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:04:33.9793545+00:00"
 }

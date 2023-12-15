@@ -7858,9 +7858,9 @@
       "ID": "Jude",
       "SetID": "b40dflc",
       "Name": "Jude",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 359
+      "UsersEstimate": 387
     },
     {
       "ID": "Le Juif et la France",
@@ -7915,8 +7915,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:08:40.245427+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:09:00.2180332+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:16.4804241+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:57:13.7680877+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:08:40.2454951+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:57:22.1710588+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:09:00.2180755+00:00"
 }

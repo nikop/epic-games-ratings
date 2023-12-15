@@ -24,21 +24,21 @@ Number of Ratings: 892  (23.09.2022)
 | Elementary, My Dear | 70.00% | ~392 |
 | Unboxing | 70.00% | ~392 |
 | Chatterbox | 67.00% | ~375 |
-| Big Game Hunter | 65.00% | ~364 |
+| Big Game Hunter | 66.00% | ~370 |
 | Financially Secure | 65.00% | ~364 |
+| Lifeline Pipeline | 65.00% | ~364 |
 | Officially Official | 64.00% | ~358 |
-| Lifeline Pipeline | 64.00% | ~358 |
 | Got Served | 64.00% | ~358 |
 | Builder of the Month | 63.00% | ~353 |
+| Panda-kin | 62.00% | ~347 |
 | Better Late than Never | 62.00% | ~347 |
 | Anti-Santa | 62.00% | ~347 |
 | Waste Not Want Not | 62.00% | ~347 |
-| Panda-kin | 61.00% | ~342 |
 | Martle's Dream | 61.00% | ~342 |
 | Happier-est Place on Earth | 61.00% | ~342 |
+| Mole Masher | 61.00% | ~342 |
 | You Don't Win Friends With Salad | 61.00% | ~342 |
 | Commissions, commissions...! | 60.00% | ~336 |
-| Mole Masher | 60.00% | ~336 |
 | Finishing Touches | 57.00% | ~319 |
 | What Plants Crave | 57.00% | ~319 |
 | Call Me Fishmael | 57.00% | ~319 |

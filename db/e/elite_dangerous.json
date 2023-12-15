@@ -2,12 +2,12 @@
   "ID": "3db17abfd650423f993291624b1b2ac1",
   "Name": "Elite Dangerous",
   "ProductSlug": "elite-dangerous",
-  "Ranking_Rating": 352,
+  "Ranking_Rating": 351,
   "Ranking_Popularity": 108,
   "Ranking_PopularitySum": 79,
-  "Ranking_EOS_Progress": 798,
+  "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 511,
+  "Ranking_EOS_NewPlayers": 512,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2020-11-19T16:00:00+00:00",
@@ -6953,10 +6953,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 13106,
       "NumberOfAwardsMax": 2292
+    },
+    {
+      "Time": "2023-12-15T21:57:14.0801711+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 13107,
+      "NumberOfAwardsMax": 2292
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13106,
+  "NumberOfAwards": 13107,
   "NumberOfAwardsMax": 2292,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -6982,7 +6988,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2191
+      "Count": 2192
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7014,8 +7020,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2023-12-15T16:01:47.1556958+00:00",
+  "LastChanged": "2023-12-15T21:57:14.0801709+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:56.6515826+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:02:42.5952826+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:04:15.0242022+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:57:14.0801716+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:04:14.4877631+00:00"
 }

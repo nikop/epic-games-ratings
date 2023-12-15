@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1619,9 +1619,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 17092,
+  "EOS_Progressed": 17104,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -9769,6 +9769,11 @@
       "Time": "2023-12-15T21:08:53.8774447+00:00",
       "NumProgressed": 17092,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-15T22:09:14.3472086+00:00",
+      "NumProgressed": 17104,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -9812,7 +9817,7 @@
       "Name": "Flesh Wound",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -9884,7 +9889,7 @@
       "Name": "Get a Grip",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -9908,7 +9913,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "KILL_ROBOT",
@@ -9940,7 +9945,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -9948,7 +9953,7 @@
       "Name": "Reforged",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "PRINT_WEAPON",
@@ -9956,7 +9961,7 @@
       "Name": "Paper Jams",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "SHARE_PHOTO",
@@ -9972,7 +9977,7 @@
       "Name": "The Outer Way",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "STORY_ESCAPE",
@@ -10012,7 +10017,7 @@
       "Name": "Desperate Times",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -10124,7 +10129,7 @@
       "Name": "One Last Job",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "KILL_BIOBOT",
@@ -10132,7 +10137,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -10155,13 +10160,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 17092,
+      "Progressed": 17104,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 5018,
+      "Progressed": 5030,
       "Completed": 29
     }
   ],
@@ -10169,8 +10174,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-15T19:03:00.030508+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:08:53.8774443+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:09:14.3472084+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.8352858+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:03:06.6636573+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:08:53.8775288+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:03:03.012711+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:09:14.34728+00:00"
 }

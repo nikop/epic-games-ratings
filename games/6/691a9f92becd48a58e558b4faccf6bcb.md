@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Lost forever | 9.00% | ~28 |
 | Golden Carrot | 5.00% | ~16 |
+| Naughty list | 5.00% | ~16 |
 | Silver Hat | 5.00% | ~16 |
-| Naughty list | 4.00% | ~12 |
 | Silver Carrot | 4.00% | ~12 |
 | Silver Button | 3.00% | ~9 |
 | A new HOME | 2.00% | ~6 |

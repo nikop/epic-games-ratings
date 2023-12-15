@@ -6,25 +6,25 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,602 |
-| I'll Be Back | 84.00% | ~4,113 |
-| Sorry, I Dropped This | 77.00% | ~3,770 |
-| First Day on the Job | 77.00% | ~3,770 |
-| Butcher's Bill | 55.00% | ~2,693 |
+| On My Own Two Feet | 94.00% | ~4,604 |
+| I'll Be Back | 84.00% | ~4,114 |
+| Sorry, I Dropped This | 77.00% | ~3,771 |
+| First Day on the Job | 77.00% | ~3,771 |
+| Butcher's Bill | 55.00% | ~2,694 |
 | P.A.X | 37.00% | ~1,812 |
 | Hey Listen | 37.00% | ~1,812 |
 | OPERATOR | 36.00% | ~1,763 |
 | It's Blue Light | 33.00% | ~1,616 |
 | Most Wanted | 27.00% | ~1,322 |
-| Infidel | 24.00% | ~1,175 |
-| Firebug | 21.00% | ~1,028 |
-| GOLIATH | 21.00% | ~1,028 |
-| I Choose You | 18.00% | ~881 |
-| Nothing to Lose | 18.00% | ~881 |
-| Big Sister | 16.00% | ~783 |
-| SENTINEL | 16.00% | ~783 |
-| Gear Up | 15.00% | ~734 |
-| Core Power | 13.00% | ~636 |
+| Infidel | 24.00% | ~1,176 |
+| Firebug | 21.00% | ~1,029 |
+| GOLIATH | 21.00% | ~1,029 |
+| I Choose You | 18.00% | ~882 |
+| Nothing to Lose | 18.00% | ~882 |
+| Big Sister | 16.00% | ~784 |
+| SENTINEL | 16.00% | ~784 |
+| Gear Up | 15.00% | ~735 |
+| Core Power | 13.00% | ~637 |
 | The Black Cerberus | 12.00% | ~588 |
 | Watchman | 12.00% | ~588 |
 | CREO Killed the Video Star | 11.00% | ~539 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~29 |
 | The Surge | 0.40% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,896 (Ranked 195)  
+Progressed: 4,898 (Ranked 195)  
 Completed: 18 (0.37%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 18 (0.37%) (Ranked 231)
 | 2023-12-11 | 4,874 | 18 |
 | 2023-12-13 | 4,875 | 18 |
 | 2023-12-14 | 4,883 | 18 |
-| 2023-12-15 | 4,896 | 18 |
+| 2023-12-15 | 4,898 | 18 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 506)  
 Sum: 29 (Ranked 523)  

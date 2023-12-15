@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5245,10 +5245,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8148,
       "NumberOfAwardsMax": 1126
+    },
+    {
+      "Time": "2023-12-15T21:57:33.3126165+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8152,
+      "NumberOfAwardsMax": 1126
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8148,
+  "NumberOfAwards": 8152,
   "NumberOfAwardsMax": 1126,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5310,7 +5316,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 700
+      "Count": 704
     },
     {
       "Text": "This game has Easy Combat",
@@ -5319,7 +5325,7 @@
       "Count": 540
     }
   ],
-  "EOS_Progressed": 12635,
+  "EOS_Progressed": 12638,
   "EOS_Completed": 313,
   "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 11,
@@ -21829,6 +21835,11 @@
       "Time": "2023-12-15T21:08:40.5812964+00:00",
       "NumProgressed": 12635,
       "NumCompleted": 313
+    },
+    {
+      "Time": "2023-12-15T22:09:00.6239333+00:00",
+      "NumProgressed": 12638,
+      "NumCompleted": 313
     }
   ],
   "TotalAchievements": 15,
@@ -21848,7 +21859,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4928
+      "UsersEstimate": 4929
     },
     {
       "ID": "Bestest_Friend",
@@ -21856,7 +21867,7 @@
       "Name": "Bestest Friend",
       "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 5812
+      "UsersEstimate": 5813
     },
     {
       "ID": "Chef_Cook",
@@ -21880,7 +21891,7 @@
       "Name": "Constructor",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 6444
+      "UsersEstimate": 6445
     },
     {
       "ID": "Duty_Bound",
@@ -21896,7 +21907,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3917
+      "UsersEstimate": 3918
     },
     {
       "ID": "Generous",
@@ -21904,7 +21915,7 @@
       "Name": "Generous",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3159
+      "UsersEstimate": 3160
     },
     {
       "ID": "Goofys_Investor",
@@ -21912,7 +21923,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 69,
       "XP": 75,
-      "UsersEstimate": 8718
+      "UsersEstimate": 8720
     },
     {
       "ID": "Miner",
@@ -21928,7 +21939,7 @@
       "Name": "Photographer",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 8592
+      "UsersEstimate": 8594
     },
     {
       "ID": "Renovator",
@@ -21936,7 +21947,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 6444
+      "UsersEstimate": 6445
     },
     {
       "ID": "Thorn_Cleaner",
@@ -21952,23 +21963,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 7707
+      "UsersEstimate": 7709
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12635,
+      "Progressed": 12638,
       "Completed": 313
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-12-15T17:57:29.1341482+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:08:40.581296+00:00",
+  "LastChanged": "2023-12-15T21:57:33.3126164+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:09:00.623933+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:33.6610619+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:57:24.0227454+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:08:40.5814475+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:57:33.3126171+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:09:00.6240114+00:00"
 }

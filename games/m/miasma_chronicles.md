@@ -5,41 +5,41 @@ Rating: 4.41 (Ranked 729)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,481 |
+| First Blood | 92.00% | ~1,482 |
 | Ranidaphobia | 77.00% | ~1,240 |
 | Aspiring Editor | 75.00% | ~1,208 |
-| Gun for Hire | 70.00% | ~1,127 |
-| I am the law! | 64.00% | ~1,030 |
-| Lumberjack | 54.00% | ~869 |
+| Gun for Hire | 70.00% | ~1,128 |
+| I am the law! | 64.00% | ~1,031 |
+| Lumberjack | 54.00% | ~870 |
 | Croaked | 49.00% | ~789 |
 | Limp Richard | 49.00% | ~789 |
 | Editor Adept | 48.00% | ~773 |
 | Exorcist | 48.00% | ~773 |
 | From Darkness to Light | 48.00% | ~773 |
 | Giant Killer | 46.00% | ~741 |
-| Sensei | 44.00% | ~708 |
-| Firestarter | 42.00% | ~676 |
-| The meaning of Kain | 42.00% | ~676 |
-| Recycler | 41.00% | ~660 |
-| Technophobe | 41.00% | ~660 |
+| Sensei | 44.00% | ~709 |
+| Firestarter | 42.00% | ~677 |
+| The meaning of Kain | 42.00% | ~677 |
+| Recycler | 41.00% | ~661 |
+| Technophobe | 41.00% | ~661 |
 | Are you not entertained? | 36.00% | ~580 |
 | Ganglord | 36.00% | ~580 |
 | Jarhead | 36.00% | ~580 |
 | Infiltrator | 35.00% | ~564 |
-| Experienced | 33.00% | ~531 |
-| Hold The Line | 33.00% | ~531 |
-| Pushing Daisy | 33.00% | ~531 |
-| Endgame | 29.00% | ~467 |
+| Experienced | 33.00% | ~532 |
+| Hold The Line | 33.00% | ~532 |
+| Pushing Daisy | 33.00% | ~532 |
+| Endgame | 28.00% | ~451 |
 | Savior | 28.00% | ~451 |
 | There Can Be Only One! | 27.00% | ~435 |
 | Silent but Violent | 26.00% | ~419 |
-| Chain Killer | 23.00% | ~370 |
+| Chain Killer | 23.00% | ~371 |
 | The Watchers | 22.00% | ~354 |
 | Commando | 17.00% | ~274 |
 | Dr Jones | 17.00% | ~274 |
 | Newtonian Knockout | 17.00% | ~274 |
 | Chaos Theory | 16.00% | ~258 |
-| Ruthless | 14.00% | ~225 |
+| Ruthless | 14.00% | ~226 |
 | Side Order | 11.00% | ~177 |
 | Bot Whisperer | 9.00% | ~145 |
 | Chain Reaction | 9.00% | ~145 |
@@ -57,7 +57,7 @@ Rating: 4.41 (Ranked 729)
 | Goaaaaal! | 0.90% | ~14 |
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,610 (Ranked 244)  
+Progressed: 1,611 (Ranked 244)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-10 | 1,599 | 0 |
 | 2023-12-13 | 1,601 | 0 |
 | 2023-12-14 | 1,607 | 0 |
-| 2023-12-15 | 1,610 | 0 |
+| 2023-12-15 | 1,611 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

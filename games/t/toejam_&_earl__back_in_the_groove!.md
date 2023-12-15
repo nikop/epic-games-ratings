@@ -5,21 +5,21 @@ Rating: 4.33 (Ranked 824)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 9.00% | ~5,242 |
+| Food Taster | 9.00% | ~5,243 |
 | Fall Fest | 8.00% | ~4,660 |
 | Thrill Seeker | 7.00% | ~4,078 |
 | HFZ Goober | 6.00% | ~3,495 |
-| Flying Present Catcher | 5.00% | ~2,912 |
-| Sunflower Master | 5.00% | ~2,912 |
+| Flying Present Catcher | 5.00% | ~2,913 |
+| Sunflower Master | 5.00% | ~2,913 |
 | Hi Fiver | 3.00% | ~1,748 |
 | A Timely Splash | 3.00% | ~1,748 |
 | Backer Visitor | 2.00% | ~1,165 |
 | Hate That Randomizer | 2.00% | ~1,165 |
 | Feet on Funkotron | 2.00% | ~1,165 |
-| Elf Chaser | 1.00% | ~582 |
-| Fool Me Twice | 1.00% | ~582 |
-| Old School Jammin' | 1.00% | ~582 |
-| Wakey Wakey | 1.00% | ~582 |
+| Elf Chaser | 1.00% | ~583 |
+| Fool Me Twice | 1.00% | ~583 |
+| Old School Jammin' | 1.00% | ~583 |
+| Wakey Wakey | 1.00% | ~583 |
 | Gimme My Presents Back! | 0.80% | ~466 |
 | Level Diver | 0.80% | ~466 |
 | Cleaning Out Santa's Sack | 0.70% | ~408 |
@@ -38,8 +38,8 @@ Rating: 4.33 (Ranked 824)
 | Nine Funkotronians | 0.30% | ~175 |
 | Struck By Love | 0.30% | ~175 |
 | The Worst Possible Luck | 0.30% | ~175 |
-| Broken Present Risk Taker | 0.20% | ~116 |
-| Truly Evil | 0.20% | ~116 |
+| Broken Present Risk Taker | 0.20% | ~117 |
+| Truly Evil | 0.20% | ~117 |
 | Achievement Achiever | 0.10% | ~58 |
 | Boom Box Wipeout | 0.10% | ~58 |
 | Can't Touch This | 0.10% | ~58 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 824)
 | Why Do I Keep Doing That? | 0.10% | ~58 |
 | Hey, You Did It! | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,250 (Ranked 111)  
+Progressed: 58,251 (Ranked 111)  
 Completed: 6 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 6 (0.01%) (Ranked 353)
 | 2023-12-12 | 58,208 | 6 |
 | 2023-12-13 | 58,220 | 6 |
 | 2023-12-14 | 58,236 | 6 |
-| 2023-12-15 | 58,250 | 6 |
+| 2023-12-15 | 58,251 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

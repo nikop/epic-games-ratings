@@ -906,9 +906,9 @@
       "ID": "ACH_FIND_WOODEN_CLUB",
       "SetID": "7i20me3",
       "Name": "Welcome to the Club",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_FINISH_GAME",
@@ -1089,8 +1089,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:09:38.5973582+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:10:00.9029797+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:22.962757+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:57:08.0641927+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:09:38.5974104+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:57:16.3890192+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:10:00.9030227+00:00"
 }

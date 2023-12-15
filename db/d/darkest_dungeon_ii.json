@@ -4,7 +4,7 @@
   "ProductSlug": "darkest-dungeon-2",
   "Ranking_Rating": 261,
   "Ranking_Popularity": 51,
-  "Ranking_PopularitySum": 59,
+  "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 67,
@@ -9664,10 +9664,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20498,
       "NumberOfAwardsMax": 7718
+    },
+    {
+      "Time": "2023-12-15T21:57:13.7923637+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20514,
+      "NumberOfAwardsMax": 7718
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20498,
+  "NumberOfAwards": 20514,
   "NumberOfAwardsMax": 7718,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9687,7 +9693,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1519
+      "Count": 1525
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9741,12 +9747,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1004
+      "Count": 1014
     }
   ],
-  "EOS_Progressed": 127417,
+  "EOS_Progressed": 127430,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1569,
+  "EOS_NewPlayers": 1576,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35199,6 +35205,11 @@
       "Time": "2023-12-15T21:08:47.6062346+00:00",
       "NumProgressed": 127417,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T22:09:07.2643692+00:00",
+      "NumProgressed": 127430,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35338,23 +35349,23 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2548
+      "UsersEstimate": 2549
     },
     {
       "ID": "combat_kill_cadavers",
       "SetID": "64l4lke",
       "Name": "Dissector",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1274
     },
     {
       "ID": "combat_kill_cosmic",
       "SetID": "64l4lke",
       "Name": "Banishment",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1147
     },
     {
       "ID": "combat_kill_death",
@@ -35362,7 +35373,7 @@
       "Name": "Not Today!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2548
+      "UsersEstimate": 2549
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35370,7 +35381,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2548
+      "UsersEstimate": 2549
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35400,9 +35411,9 @@
       "ID": "combat_kill_gentry",
       "SetID": "64l4lke",
       "Name": "No More Mouths to Feed",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 765
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -35410,7 +35421,7 @@
       "Name": "Meat and Greet",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2548
+      "UsersEstimate": 2549
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35426,7 +35437,7 @@
       "Name": "Catch and Decease",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2548
+      "UsersEstimate": 2549
     },
     {
       "ID": "combat_kill_librarian",
@@ -35434,7 +35445,7 @@
       "Name": "Overdue Notice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2548
+      "UsersEstimate": 2549
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35450,7 +35461,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2548
+      "UsersEstimate": 2549
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35562,7 +35573,7 @@
       "Name": "Autodidact",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2548
+      "UsersEstimate": 2549
     },
     {
       "ID": "hero_story_complete_all",
@@ -35746,7 +35757,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "combat_kill_collector",
@@ -35841,21 +35852,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127417,
+      "Progressed": 127430,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2286,
+      "Progressed": 2299,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-15T15:00:35.0080552+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:08:47.6062343+00:00",
+  "LastChanged": "2023-12-15T21:57:13.7923636+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:09:07.2643689+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:02:42.125259+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:08:47.6063887+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:57:13.7923641+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:09:07.2645254+00:00"
 }

@@ -151,7 +151,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6918,
+  "EOS_Progressed": 6919,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 2429,
   "EOS_NewCompleters": 0,
@@ -8581,6 +8581,11 @@
       "Time": "2023-12-15T21:04:22.8821574+00:00",
       "NumProgressed": 6918,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-15T22:04:22.4889782+00:00",
+      "NumProgressed": 6919,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8616,7 +8621,7 @@
       "Name": "The Negotiator",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "Ach005",
@@ -8920,7 +8925,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "Ach043",
@@ -9159,13 +9164,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 6918,
+      "Progressed": 6919,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 5439,
+      "Progressed": 5440,
       "Completed": 1930
     }
   ],
@@ -9173,8 +9178,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-12-14T04:57:57.8652671+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:04:22.882157+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:04:22.4889778+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:18.6418134+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:58:26.3504095+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:04:22.8823182+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:58:38.2381054+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:04:22.4890683+00:00"
 }

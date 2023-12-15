@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Horn prize! | 47.00% | ~33 |
+| Horn prize! | 49.00% | ~34 |
 | Beast Quest | 34.00% | ~24 |
 | Monster Hunt | 34.00% | ~24 |
 | Orb Gatherer | 33.00% | ~23 |

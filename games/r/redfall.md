@@ -6,9 +6,9 @@ Rating: 3.47 (Ranked 1,062)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 6.00% | ~110 |
-| ICU | 4.00% | ~73 |
-| Wounded Whispers | 4.00% | ~73 |
-| Catch and Release | 4.00% | ~73 |
+| ICU | 4.00% | ~74 |
+| Wounded Whispers | 4.00% | ~74 |
+| Catch and Release | 4.00% | ~74 |
 | Home Is Where the Heart Is | 3.00% | ~55 |
 | Blood Will Have Blood | 3.00% | ~55 |
 | Ne Plus Ultra | 3.00% | ~55 |
@@ -16,15 +16,15 @@ Rating: 3.47 (Ranked 1,062)
 | Peek-a-boo | 3.00% | ~55 |
 | Throw The First Stone | 3.00% | ~55 |
 | Sucks To Be You | 3.00% | ~55 |
+| Neighborhood Revitalization | 2.00% | ~37 |
 | Enter of Your Own Free Will | 2.00% | ~37 |
 | Welcome to the Neighborhood | 2.00% | ~37 |
 | Bad Wiring | 2.00% | ~37 |
+| Radio Silence | 2.00% | ~37 |
 | Grounded | 2.00% | ~37 |
 | Heart Attack | 2.00% | ~37 |
 | Skin of Their Teeth | 2.00% | ~37 |
-| Neighborhood Revitalization | 1.00% | ~18 |
 | Sic Transit Umbra | 1.00% | ~18 |
-| Radio Silence | 1.00% | ~18 |
 | Bell-ringer | 1.00% | ~18 |
 | Silence Is Golden | 1.00% | ~18 |
 | Good Morning | 1.00% | ~18 |
@@ -72,7 +72,7 @@ Rating: 3.47 (Ranked 1,062)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,837 (Ranked 235)  
+Progressed: 1,840 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-02 | 1,776 | 0 |
 | 2023-12-13 | 1,784 | 0 |
 | 2023-12-14 | 1,810 | 0 |
-| 2023-12-15 | 1,837 | 0 |
+| 2023-12-15 | 1,840 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

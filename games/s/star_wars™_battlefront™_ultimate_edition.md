@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,557 |
-| Off to a good start | 66.00% | ~1,154 |
-| Do... or do not. There is no try | 51.00% | ~892 |
-| A good blaster at your side | 29.00% | ~507 |
-| I suggest a new strategy | 19.00% | ~332 |
-| Scrap collector | 17.00% | ~297 |
-| All right, I'll give it a try | 17.00% | ~297 |
-| Great shot, kid! | 17.00% | ~297 |
+| New Recruit | 89.00% | ~1,559 |
+| Off to a good start | 66.00% | ~1,156 |
+| Do... or do not. There is no try | 51.00% | ~894 |
+| A good blaster at your side | 29.00% | ~508 |
+| I suggest a new strategy | 19.00% | ~333 |
+| Scrap collector | 17.00% | ~298 |
+| All right, I'll give it a try | 17.00% | ~298 |
+| Great shot, kid! | 17.00% | ~298 |
 | Collector | 14.00% | ~245 |
 | Shoot first | 14.00% | ~245 |
-| The power of the Force | 13.00% | ~227 |
-| Together we can rule the galaxy | 13.00% | ~227 |
+| The power of the Force | 13.00% | ~228 |
+| Together we can rule the galaxy | 13.00% | ~228 |
 | Tell Jabba that I've got his money | 10.00% | ~175 |
-| Best star-pilot in the galaxy | 9.00% | ~157 |
-| Survivor | 9.00% | ~157 |
+| Best star-pilot in the galaxy | 9.00% | ~158 |
+| Survivor | 9.00% | ~158 |
 | Never tell me the odds! | 8.00% | ~140 |
 | A cunning warrior | 8.00% | ~140 |
-| What's the cargo? | 7.00% | ~122 |
+| What's the cargo? | 7.00% | ~123 |
 | Impressive. Most impressive. | 6.00% | ~105 |
 | Judge me by my size, do you? | 6.00% | ~105 |
-| "Gonk? Gonk!" | 5.00% | ~87 |
-| Distinguished | 5.00% | ~87 |
-| A tremor in the Force | 5.00% | ~87 |
-| Support the troops | 5.00% | ~87 |
+| "Gonk? Gonk!" | 5.00% | ~88 |
+| Distinguished | 5.00% | ~88 |
+| A tremor in the Force | 5.00% | ~88 |
+| Support the troops | 5.00% | ~88 |
 | Safety ain't the point of a joyride | 4.00% | ~70 |
 | Not bad for a little furball | 4.00% | ~70 |
 | Patience you must have | 4.00% | ~70 |
-| I've been waiting for you | 3.00% | ~52 |
-| When 900 years old you reach... | 3.00% | ~52 |
-| Your journey has only started | 3.00% | ~52 |
-| On the ball | 3.00% | ~52 |
-| Precision shot | 3.00% | ~52 |
-| Don't underestimate the Force | 3.00% | ~52 |
+| I've been waiting for you | 3.00% | ~53 |
+| When 900 years old you reach... | 3.00% | ~53 |
+| Your journey has only started | 3.00% | ~53 |
+| On the ball | 3.00% | ~53 |
+| Precision shot | 3.00% | ~53 |
+| Don't underestimate the Force | 3.00% | ~53 |
 | The Force is strong with this one | 2.00% | ~35 |
 | Determined | 2.00% | ~35 |
 | This is a new day, a new beginning | 2.00% | ~35 |
@@ -44,31 +44,31 @@
 | That's no moon | 2.00% | ~35 |
 | What will you become? | 2.00% | ~35 |
 | Disturbed tranquility | 2.00% | ~35 |
-| Hold the line! | 1.00% | ~17 |
-| Playing the objective | 1.00% | ~17 |
-| Ackbar's Elite | 1.00% | ~17 |
-| You have your moments | 1.00% | ~17 |
-| When surrounded by war... | 1.00% | ~17 |
-| Alternative solution | 1.00% | ~17 |
-| Onwards! | 1.00% | ~17 |
-| The circle is now complete | 1.00% | ~17 |
+| Hold the line! | 1.00% | ~18 |
+| Playing the objective | 1.00% | ~18 |
+| Ackbar's Elite | 1.00% | ~18 |
+| You have your moments | 1.00% | ~18 |
+| When surrounded by war... | 1.00% | ~18 |
+| Alternative solution | 1.00% | ~18 |
+| Onwards! | 1.00% | ~18 |
+| The circle is now complete | 1.00% | ~18 |
 | A New Hope | 0.90% | ~16 |
 | Walker defender | 0.80% | ~14 |
 | Stop that Droid | 0.80% | ~14 |
 | No such thing as luck | 0.70% | ~12 |
 | Do we take prisoners? | 0.70% | ~12 |
-| I’ll take that bet | 0.60% | ~10 |
+| I’ll take that bet | 0.60% | ~11 |
 | Greed can be a very powerful ally | 0.50% | ~9 |
 | Stay on target | 0.40% | ~7 |
 | in a galaxy far, far away.... | 0.30% | ~5 |
 | Don't get cocky | 0.30% | ~5 |
 | Master | 0.30% | ~5 |
-| That got him! | 0.20% | ~3 |
-| Stay in attack formation | 0.20% | ~3 |
-| I never doubted you! | 0.20% | ~3 |
+| That got him! | 0.20% | ~4 |
+| Stay in attack formation | 0.20% | ~4 |
+| I never doubted you! | 0.20% | ~4 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,749 (Ranked 239)  
+Progressed: 1,752 (Ranked 239)  
 Completed: 1 (0.06%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 1 (0.06%) (Ranked 318)
 | 2023-12-12 | 1,684 | 1 |
 | 2023-12-13 | 1,698 | 1 |
 | 2023-12-14 | 1,726 | 1 |
-| 2023-12-15 | 1,749 | 1 |
+| 2023-12-15 | 1,752 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

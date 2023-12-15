@@ -2,12 +2,12 @@
   "ID": "0a84818055e740a7be21a2e5b6162703",
   "Name": "Watch Dogs: Legion Standard Edition",
   "ProductSlug": "watch-dogs-legion",
-  "Ranking_Rating": 791,
+  "Ranking_Rating": 790,
   "Ranking_Popularity": 339,
   "Ranking_PopularitySum": 269,
-  "Ranking_EOS_Progress": 798,
+  "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 511,
+  "Ranking_EOS_NewPlayers": 512,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2020-10-29T15:00:00+00:00",
@@ -3530,6 +3530,6 @@
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
   "LastChanged": "2023-12-15T18:00:53.7327726+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:07.3015076+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:02:33.1863214+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:08:50.2908528+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:00:37.6501382+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:09:10.0115324+00:00"
 }

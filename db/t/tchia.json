@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8019,
+  "EOS_Progressed": 8022,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9166,6 +9166,11 @@
       "Time": "2023-12-15T20:08:13.341315+00:00",
       "NumProgressed": 8019,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-15T22:03:12.8321214+00:00",
+      "NumProgressed": 8022,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9217,7 +9222,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "ENERGY_SAVER",
@@ -9225,7 +9230,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -9281,7 +9286,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "LIBERATOR",
@@ -9344,7 +9349,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8019,
+      "Progressed": 8022,
       "Completed": 34
     }
   ],
@@ -9352,8 +9357,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-15T20:08:13.3413146+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:03:12.832121+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:30.6418185+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:02:51.0518626+00:00",
-  "LastUpdate_Achievements": "2023-12-15T20:08:13.3413734+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:02:46.9794316+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:03:12.832188+00:00"
 }

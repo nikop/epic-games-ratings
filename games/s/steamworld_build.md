@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 86.00% | ~84 |
-| It's Yours, My Friend | 72.00% | ~71 |
-| Going Places | 67.00% | ~66 |
-| Conducted Trade | 66.00% | ~65 |
-| Aristocratic | 64.00% | ~63 |
-| Digging a Hole | 64.00% | ~63 |
-| Tutti Frutti | 58.00% | ~57 |
-| Gotta Go Fast | 48.00% | ~47 |
-| Slotting Machine | 42.00% | ~41 |
-| Systematic | 40.00% | ~39 |
-| Mine Sweeper | 37.00% | ~36 |
-| Roll Out | 34.00% | ~33 |
-| Dopa-Miner | 27.00% | ~26 |
-| Up, Up And Away! | 27.00% | ~26 |
+| Mathematic | 85.00% | ~85 |
+| It's Yours, My Friend | 72.00% | ~72 |
+| Conducted Trade | 66.00% | ~66 |
+| Going Places | 66.00% | ~66 |
+| Digging a Hole | 64.00% | ~64 |
+| Aristocratic | 63.00% | ~63 |
+| Tutti Frutti | 57.00% | ~57 |
+| Gotta Go Fast | 47.00% | ~47 |
+| Slotting Machine | 41.00% | ~41 |
+| Systematic | 39.00% | ~39 |
+| Mine Sweeper | 36.00% | ~36 |
+| Roll Out | 33.00% | ~33 |
+| Dopa-Miner | 26.00% | ~26 |
+| Up, Up And Away! | 26.00% | ~26 |
 | Botropolis | 24.00% | ~24 |
 | Whoa! | 24.00% | ~24 |
 | Steam Powered | 17.00% | ~17 |
@@ -33,7 +33,7 @@
 | Yup. | 1.00% | ~1 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98 (Ranked 456)  
+Progressed: 100 (Ranked 454)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,4 +50,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 81 | 0 |
 | 2023-12-13 | 82 | 0 |
 | 2023-12-14 | 93 | 0 |
-| 2023-12-15 | 98 | 0 |
+| 2023-12-15 | 100 | 0 |

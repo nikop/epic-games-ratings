@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7613,
+  "EOS_Progressed": 7615,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6258,6 +6258,11 @@
       "Time": "2023-12-15T14:05:23.2196301+00:00",
       "NumProgressed": 7613,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-15T22:05:17.3257375+00:00",
+      "NumProgressed": 7615,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -6277,7 +6282,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -6285,7 +6290,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3121
+      "UsersEstimate": 3122
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -6301,7 +6306,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4035
+      "UsersEstimate": 4036
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -6325,7 +6330,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -6333,7 +6338,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -6405,7 +6410,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3121
+      "UsersEstimate": 3122
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -6413,7 +6418,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3121
+      "UsersEstimate": 3122
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -6421,7 +6426,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4263
+      "UsersEstimate": 4264
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6437,7 +6442,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2588
+      "UsersEstimate": 2589
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -6461,7 +6466,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -6469,7 +6474,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3045
+      "UsersEstimate": 3046
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -6477,22 +6482,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7613,
+      "Progressed": 7615,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:05:17.1594504+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:05:17.3257373+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:23.3516207+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:03:09.4143823+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:05:17.1594903+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:03:06.4590784+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:05:17.3257704+00:00"
 }

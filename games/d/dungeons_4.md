@@ -11,8 +11,8 @@
 | The Hellwoods | 77.00% | ~434 |
 | The Plains of Strothalm | 72.00% | ~405 |
 | Experienced Thalya | 71.00% | ~400 |
+| Bad Elves Go Everywhere | 69.00% | ~388 |
 | Thalya's Concentrated Fury | 68.00% | ~383 |
-| Bad Elves Go Everywhere | 68.00% | ~383 |
 | Heroes’ Gorge | 65.00% | ~366 |
 | Master of Magic | 63.00% | ~355 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~349 |
@@ -60,11 +60,11 @@
 | Mirror, Mirror | 14.00% | ~79 |
 | Untouchable | 14.00% | ~79 |
 | Heal Heal Blessing | 13.00% | ~73 |
+| Hands Off My Stones | 12.00% | ~68 |
 | Laser Eyes Are So Useless | 11.00% | ~62 |
-| Hands Off My Stones | 11.00% | ~62 |
 | Gorgu is in the Best of Health | 10.00% | ~56 |
 | No Mana, No Cry | 9.00% | ~51 |
-| I Don't Need Any Help | 7.00% | ~39 |
+| I Don't Need Any Help | 8.00% | ~45 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 563 (Ranked 312)  
 Completed: 17 (3.02%) (Ranked 106)  

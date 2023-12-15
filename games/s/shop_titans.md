@@ -12,30 +12,30 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tinkle of Coins | 7.00% | ~10,198 |
 | Disintermediation | 6.00% | ~8,741 |
 | Capitalism Ho! | 6.00% | ~8,741 |
-| It's Free Real Estate | 5.00% | ~7,284 |
-| Budding Merchant | 5.00% | ~7,284 |
-| One Easy Payment | 4.00% | ~5,827 |
-| Some Assembly Required | 4.00% | ~5,827 |
-| Another Satisfied Customer | 4.00% | ~5,827 |
-| Pretty Penny | 4.00% | ~5,827 |
-| One-Armed Bandit | 4.00% | ~5,827 |
-| Through Repetition, Perfection | 4.00% | ~5,827 |
-| Own the Means of Production | 4.00% | ~5,827 |
-| The Daily Grind | 3.00% | ~4,370 |
-| On the Path to Greatness | 3.00% | ~4,370 |
-| Ascended | 3.00% | ~4,370 |
-| Bounty Hunters | 3.00% | ~4,370 |
-| Blank Page Syndrome | 3.00% | ~4,370 |
-| Demand for Supplies | 3.00% | ~4,370 |
-| Flooding the Market | 3.00% | ~4,370 |
-| Where it Hurts | 3.00% | ~4,370 |
-| Efficient Floor Space | 3.00% | ~4,370 |
-| Gem Expert | 3.00% | ~4,370 |
-| Gild-Gotten Goods | 3.00% | ~4,370 |
-| Accomplished Merchant | 3.00% | ~4,370 |
-| Dungeon Imports | 3.00% | ~4,370 |
-| Did we pack lunch? | 3.00% | ~4,370 |
-| Arcane Industries | 3.00% | ~4,370 |
+| It's Free Real Estate | 5.00% | ~7,285 |
+| Budding Merchant | 5.00% | ~7,285 |
+| One Easy Payment | 4.00% | ~5,828 |
+| Some Assembly Required | 4.00% | ~5,828 |
+| Another Satisfied Customer | 4.00% | ~5,828 |
+| Pretty Penny | 4.00% | ~5,828 |
+| One-Armed Bandit | 4.00% | ~5,828 |
+| Through Repetition, Perfection | 4.00% | ~5,828 |
+| Own the Means of Production | 4.00% | ~5,828 |
+| The Daily Grind | 3.00% | ~4,371 |
+| On the Path to Greatness | 3.00% | ~4,371 |
+| Ascended | 3.00% | ~4,371 |
+| Bounty Hunters | 3.00% | ~4,371 |
+| Blank Page Syndrome | 3.00% | ~4,371 |
+| Demand for Supplies | 3.00% | ~4,371 |
+| Flooding the Market | 3.00% | ~4,371 |
+| Where it Hurts | 3.00% | ~4,371 |
+| Efficient Floor Space | 3.00% | ~4,371 |
+| Gem Expert | 3.00% | ~4,371 |
+| Gild-Gotten Goods | 3.00% | ~4,371 |
+| Accomplished Merchant | 3.00% | ~4,371 |
+| Dungeon Imports | 3.00% | ~4,371 |
+| Did we pack lunch? | 3.00% | ~4,371 |
+| Arcane Industries | 3.00% | ~4,371 |
 | A Notch Above the Rest | 2.00% | ~2,914 |
 | Cream of the Crop | 2.00% | ~2,914 |
 | Proud Paladin | 2.00% | ~2,914 |
@@ -105,8 +105,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Shadow | 1.00% | ~1,457 |
 | All Accounted For | 1.00% | ~1,457 |
 | Economy of Scarce | 1.00% | ~1,457 |
-| The Greatest Grind | 0.80% | ~1,165 |
-| All or Nothing! | 0.80% | ~1,165 |
+| The Greatest Grind | 0.80% | ~1,166 |
+| All or Nothing! | 0.80% | ~1,166 |
 | Anything not Nailed Down | 0.70% | ~1,020 |
 | Marvels from the World Over | 0.70% | ~1,020 |
 | Bane of Legends | 0.60% | ~874 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.30% | ~437 |
 | Capitalist Camaraderie | 0.20% | ~291 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,682 (Ranked 80)  
+Progressed: 145,691 (Ranked 80)  
 Completed: 316 (0.22%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -358,7 +358,7 @@ Completed: 316 (0.22%) (Ranked 259)
 | 2023-12-12 | 144,871 | 294 |
 | 2023-12-13 | 145,093 | 297 |
 | 2023-12-14 | 145,474 | 307 |
-| 2023-12-15 | 145,682 | 316 |
+| 2023-12-15 | 145,691 | 316 |
 ## Awards
 Max (Great for Beginners): 4,892  (Ranked 75)  
 Sum: 27,739 (Ranked 51)  

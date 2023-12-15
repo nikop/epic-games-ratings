@@ -9,15 +9,15 @@
 | Butter Fingers | 77.00% | ~76 |
 | Character Unlocked | 76.00% | ~75 |
 | Homer | 76.00% | ~75 |
-| Have a good trip! | 73.00% | ~72 |
+| Have a good trip! | 74.00% | ~73 |
 | Kickball Unlocked | 71.00% | ~70 |
 | Settle Down | 71.00% | ~70 |
 | Stay Hydrated | 66.00% | ~65 |
 | First Win | 64.00% | ~63 |
 | True Story! | 46.00% | ~46 |
 | Bedroom Secret Spot | 41.00% | ~41 |
-| At least everyone still had fun | 34.00% | ~34 |
-| Kick It | 33.00% | ~33 |
+| At least everyone still had fun | 35.00% | ~35 |
+| Kick It | 34.00% | ~34 |
 | Classroom Secret Spot | 30.00% | ~30 |
 | Spooky | 28.00% | ~28 |
 | Grand Slam! | 26.00% | ~26 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 455)  
+Progressed: 99 (Ranked 456)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |

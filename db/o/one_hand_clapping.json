@@ -4,7 +4,7 @@
   "ProductSlug": "one-hand-clapping",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 837,
+  "EOS_Progressed": 838,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -539,6 +539,11 @@
       "Time": "2023-12-15T18:07:45.8312271+00:00",
       "NumProgressed": 837,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T22:06:21.0704582+00:00",
+      "NumProgressed": 838,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -638,7 +643,7 @@
       "Name": "Duet Desert",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "20",
@@ -773,7 +778,7 @@
     {
       "ID": "7l2nmpm",
       "IsBase": true,
-      "Progressed": 837,
+      "Progressed": 838,
       "Completed": 0
     }
   ],
@@ -781,8 +786,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:07:51.195889+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:06:21.0704578+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:11.8896902+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:58:15.2784365+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:07:51.1959083+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:58:26.8661584+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:06:21.0704741+00:00"
 }

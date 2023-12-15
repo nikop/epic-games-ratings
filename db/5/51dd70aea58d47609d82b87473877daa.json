@@ -1201,9 +1201,9 @@
       "ID": "ACH_DIE",
       "SetID": "c2kf3nm",
       "Name": "Sometimes Death is a Mercy",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_DULLER",
@@ -1344,8 +1344,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:03:22.5300283+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:03:21.1007553+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.012871+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:58:45.812357+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:03:22.5300751+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:58:57.8377266+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:03:21.1007692+00:00"
 }

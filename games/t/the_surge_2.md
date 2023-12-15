@@ -5,28 +5,28 @@ Rating: 4.25 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,794 |
-| Don't I Know You...? | 77.00% | ~1,727 |
-| Jailbreak | 66.00% | ~1,480 |
-| Suited and Booted | 39.00% | ~875 |
-| HEADSHOT! | 38.00% | ~852 |
-| Sleeping With The Fishes | 36.00% | ~807 |
-| Overheated | 31.00% | ~695 |
-| High Performance | 31.00% | ~695 |
-| Powered Up | 29.00% | ~650 |
+| Rigged And Ready | 80.00% | ~1,796 |
+| Don't I Know You...? | 76.00% | ~1,706 |
+| Jailbreak | 66.00% | ~1,482 |
+| Suited and Booted | 39.00% | ~876 |
+| HEADSHOT! | 38.00% | ~853 |
+| Sleeping With The Fishes | 36.00% | ~808 |
+| Overheated | 31.00% | ~696 |
+| High Performance | 31.00% | ~696 |
+| Powered Up | 29.00% | ~651 |
 | Studied The Blade | 25.00% | ~561 |
 | Home Invasion | 23.00% | ~516 |
 | Luminary | 23.00% | ~516 |
-| True Survivor | 22.00% | ~493 |
-| It's a Trap | 22.00% | ~493 |
-| Offensive Defense | 21.00% | ~471 |
+| True Survivor | 22.00% | ~494 |
+| It's a Trap | 22.00% | ~494 |
+| Offensive Defense | 20.00% | ~449 |
 | Shocking | 20.00% | ~449 |
 | Unforeseeable Consequences | 20.00% | ~449 |
-| Court Martial | 19.00% | ~426 |
-| Clean Cut | 19.00% | ~426 |
+| Court Martial | 19.00% | ~427 |
+| Clean Cut | 19.00% | ~427 |
 | Dead Again | 18.00% | ~404 |
-| Full Arsenal | 17.00% | ~381 |
-| Can't Trust Banks | 15.00% | ~336 |
+| Full Arsenal | 17.00% | ~382 |
+| Can't Trust Banks | 15.00% | ~337 |
 | Mommy Dearest | 14.00% | ~314 |
 | Bad Dog | 14.00% | ~314 |
 | Where It All Began | 13.00% | ~292 |
@@ -38,9 +38,9 @@ Rating: 4.25 (Ranked 890)
 | Triplets | 11.00% | ~247 |
 | Stimulating The Local Economy | 10.00% | ~224 |
 | Denying Prophecy | 9.00% | ~202 |
-| A Little Banged Up | 8.00% | ~179 |
-| Following In Their Footsteps | 8.00% | ~179 |
-| Defense in Depth | 8.00% | ~179 |
+| A Little Banged Up | 8.00% | ~180 |
+| Following In Their Footsteps | 8.00% | ~180 |
+| Defense in Depth | 8.00% | ~180 |
 | Reverse Engineering | 7.00% | ~157 |
 | Reborn | 6.00% | ~135 |
 | Remote Surgery | 6.00% | ~135 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 890)
 | Loot, Pillage & Craft | 2.00% | ~45 |
 | Swiss Army Drone | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,243 (Ranked 228)  
+Progressed: 2,245 (Ranked 227)  
 Completed: 13 (0.58%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 13 (0.58%) (Ranked 197)
 | 2023-12-10 | 2,223 | 13 |
 | 2023-12-11 | 2,224 | 13 |
 | 2023-12-14 | 2,235 | 13 |
-| 2023-12-15 | 2,243 | 13 |
+| 2023-12-15 | 2,245 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -535,9 +535,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3861,
+  "EOS_Progressed": 3863,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6110,6 +6110,11 @@
       "Time": "2023-12-15T21:07:55.7214258+00:00",
       "NumProgressed": 3861,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-15T22:06:25.5106836+00:00",
+      "NumProgressed": 3863,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6137,7 +6142,7 @@
       "Name": "Ancestor\u0027s Pride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ApexPredator_27",
@@ -6161,7 +6166,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "CrowdPleaser",
@@ -6177,7 +6182,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "Eureka_23",
@@ -6185,7 +6190,7 @@
       "Name": "Eureka",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -6201,7 +6206,7 @@
       "Name": "For All Aurai",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "GiftfromtheAncestors_34",
@@ -6225,7 +6230,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "HouseofCards_19",
@@ -6281,7 +6286,7 @@
       "Name": "Memory of a legend",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "PerfectDefense_31",
@@ -6305,7 +6310,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1969
+      "UsersEstimate": 1970
     },
     {
       "ID": "ReadyforWinter_42",
@@ -6313,7 +6318,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2471
+      "UsersEstimate": 2472
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6337,7 +6342,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "Tapped_22",
@@ -6385,7 +6390,7 @@
       "Name": "The Power of Family",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -6441,7 +6446,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2896
+      "UsersEstimate": 2897
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6456,15 +6461,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3861,
+      "Progressed": 3863,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-01T16:57:27.3862191+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:07:55.7214254+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:06:25.5106828+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:46.9668311+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:02:46.9493872+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:07:55.7214895+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:02:41.6061751+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:06:25.5107277+00:00"
 }

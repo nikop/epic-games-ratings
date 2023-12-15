@@ -643,9 +643,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4024,
+  "EOS_Progressed": 4025,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8648,6 +8648,11 @@
       "Time": "2023-12-15T21:08:36.6256259+00:00",
       "NumProgressed": 4024,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-15T22:08:56.70095+00:00",
+      "NumProgressed": 4025,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8691,7 +8696,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -8699,7 +8704,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -8707,7 +8712,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -8739,7 +8744,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8803,7 +8808,7 @@
       "Name": "The Long Game",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -8867,7 +8872,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -8883,7 +8888,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8995,7 +9000,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -9051,7 +9056,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -9131,7 +9136,7 @@
       "Name": "Operation Foxley",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -9226,13 +9231,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3975,
+      "Progressed": 3976,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4024,
+      "Progressed": 4025,
       "Completed": 11
     }
   ],
@@ -9240,8 +9245,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:08:36.6256255+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:08:56.7009496+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.4789046+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:00:05.6025062+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:08:36.6257426+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:00:19.7110339+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:08:56.7010234+00:00"
 }

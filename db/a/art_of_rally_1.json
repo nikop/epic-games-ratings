@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10351,
+  "EOS_Progressed": 10352,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2027,6 +2027,11 @@
       "Time": "2023-12-15T20:06:34.8140723+00:00",
       "NumProgressed": 10351,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-15T22:05:08.7451788+00:00",
+      "NumProgressed": 10352,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 43,
@@ -2142,7 +2147,7 @@
       "Name": "grocery-getter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 4140
+      "UsersEstimate": 4141
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -2198,7 +2203,7 @@
       "Name": "keep it tidy",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 8074
+      "UsersEstimate": 8075
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -2246,7 +2251,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5900
+      "UsersEstimate": 5901
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -2262,7 +2267,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9937
+      "UsersEstimate": 9938
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -2326,7 +2331,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 4554
+      "UsersEstimate": 4555
     },
     {
       "ID": "ACH_SNOW",
@@ -2381,15 +2386,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10351,
+      "Progressed": 10352,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:05:08.8556436+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:05:08.7451783+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:57.0988165+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:57:21.0040649+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:05:08.8556841+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:57:30.2494695+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:05:08.7452103+00:00"
 }

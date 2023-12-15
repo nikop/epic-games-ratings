@@ -6,43 +6,43 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 2.00% | ~14,530 |
+| The Old Grandmaster | 2.00% | ~14,531 |
 | The Assault | 1.00% | ~7,265 |
 | The Hateful Pole Fighter | 1.00% | ~7,265 |
 | Life is your teacher | 1.00% | ~7,265 |
 | State of constant learning | 1.00% | ~7,265 |
 | Lightning Hands | 1.00% | ~7,265 |
 | Diligence as a goal | 1.00% | ~358 |
-| Qi Gong: Breath | 0.90% | ~6,538 |
-| Qi Gong: Essence | 0.90% | ~6,538 |
-| Old Child | 0.90% | ~6,538 |
-| Rumble in the Hangar | 0.90% | ~6,538 |
-| Project Arena | 0.90% | ~322 |
+| Qi Gong: Breath | 0.90% | ~6,539 |
+| Qi Gong: Essence | 0.90% | ~6,539 |
+| Old Child | 0.90% | ~6,539 |
+| Rumble in the Hangar | 0.90% | ~6,539 |
+| Project Arena | 0.90% | ~323 |
 | A Lady's Blood in the Snow | 0.80% | ~5,812 |
 | Stuntmaster | 0.80% | ~5,812 |
 | Street Fighting | 0.80% | ~5,812 |
 | Path of the Prospect | 0.80% | ~5,812 |
-| Lady Wing Chun | 0.70% | ~5,085 |
-| Furious Fists | 0.70% | ~5,085 |
-| Kill Nil | 0.70% | ~5,085 |
+| Lady Wing Chun | 0.70% | ~5,086 |
+| Furious Fists | 0.70% | ~5,086 |
+| Kill Nil | 0.70% | ~5,086 |
 | Qi Gong: Mind | 0.60% | ~4,359 |
 | I know Kung-Fu | 0.60% | ~4,359 |
 | Take damage to save time | 0.60% | ~4,359 |
 | Fight the way you practice | 0.60% | ~215 |
-| Scareless | 0.50% | ~3,632 |
-| Dance of the Praying Mantis | 0.50% | ~3,632 |
-| Kung-Fu Tussle | 0.50% | ~3,632 |
+| Scareless | 0.50% | ~3,633 |
+| Dance of the Praying Mantis | 0.50% | ~3,633 |
+| Kung-Fu Tussle | 0.50% | ~3,633 |
 | Martial Hub | 0.50% | ~179 |
 | Bloody Sport | 0.40% | ~143 |
-| Muk Yan Master | 0.30% | ~2,179 |
-| Tiger on Fire | 0.30% | ~2,179 |
-| Source of Flying Daggers | 0.30% | ~2,179 |
-| Iron Money | 0.30% | ~2,179 |
-| Legendary Talismans of Wuxing | 0.30% | ~2,179 |
-| Detective Story | 0.30% | ~2,179 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,179 |
-| Sword Stained With Blood | 0.30% | ~2,179 |
-| The best strikes are the ones we avoid | 0.30% | ~107 |
+| Muk Yan Master | 0.30% | ~2,180 |
+| Tiger on Fire | 0.30% | ~2,180 |
+| Source of Flying Daggers | 0.30% | ~2,180 |
+| Iron Money | 0.30% | ~2,180 |
+| Legendary Talismans of Wuxing | 0.30% | ~2,180 |
+| Detective Story | 0.30% | ~2,180 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,180 |
+| Sword Stained With Blood | 0.30% | ~2,180 |
+| The best strikes are the ones we avoid | 0.30% | ~108 |
 | Prodigal Child | 0.20% | ~1,453 |
 | Knowledge Greed | 0.20% | ~1,453 |
 | The Pit Protector | 0.20% | ~1,453 |
@@ -51,13 +51,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Touch of Acumen | 0.20% | ~72 |
 | Skill and an even stronger will | 0.20% | ~72 |
 | Beatmaker | 0.20% | ~72 |
-| Drunken Fighter | 0.10% | ~726 |
-| Martial Artist | 0.10% | ~726 |
-| Healing Memory | 0.10% | ~726 |
-| Master of the Phoenix Eye Fist | 0.10% | ~726 |
-| Ferocity, speed, strength, accuracy | 0.10% | ~726 |
-| Be like water my friend | 0.10% | ~726 |
-| Warriors from the Mountain | 0.10% | ~726 |
+| Drunken Fighter | 0.10% | ~727 |
+| Martial Artist | 0.10% | ~727 |
+| Healing Memory | 0.10% | ~727 |
+| Master of the Phoenix Eye Fist | 0.10% | ~727 |
+| Ferocity, speed, strength, accuracy | 0.10% | ~727 |
+| Be like water my friend | 0.10% | ~727 |
+| Warriors from the Mountain | 0.10% | ~727 |
 | Secure, Protect, Leave | 0.10% | ~36 |
 | Crouching Tiger | 0.10% | ~36 |
 | Hidden Dragon | 0.10% | ~36 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~36 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,497 (Ranked 24)  
+Progressed: 726,539 (Ranked 24)  
 Completed: 12,953 (1.78%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 12,953 (1.78%) (Ranked 135)
 | 2023-12-12 | 717,993 | 12,952 |
 | 2023-12-13 | 718,112 | 12,953 |
 | 2023-12-14 | 722,433 | 12,953 |
-| 2023-12-15 | 726,497 | 12,953 |
+| 2023-12-15 | 726,539 | 12,953 |
 ## Awards
 Max (Great Boss Battles): 6,930  (Ranked 55)  
 Sum: 12,162 (Ranked 83)  

@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 2492,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3437,9 +3437,9 @@
       "ID": "ACH_LongDistanceRelationship",
       "SetID": "ai9gp4m",
       "Name": "Long Distance Relationship",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_MasterEngineer",
@@ -3564,8 +3564,8 @@
   ],
   "FirstSeen": "2023-11-10T17:12:11.6441417+00:00",
   "FirstSeenAchievements": "2023-11-07T10:03:34.0451584+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:04:06.4028338+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:04:05.842521+00:00",
   "LastUpdate_AppInfo": "2023-12-12T11:56:59.8380517+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:58:25.7419934+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:04:06.402889+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:58:37.6037827+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:04:05.8425699+00:00"
 }

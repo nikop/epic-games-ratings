@@ -2,9 +2,9 @@
   "ID": "9824e1bd7ad44702a573bf07f0822bfa",
   "Name": "Zi",
   "ProductSlug": "next-game-c139be",
-  "Ranking_EOS_Progress": 798,
+  "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 511,
+  "Ranking_EOS_NewPlayers": 512,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-10T19:56:57.8779441+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:02:42.0363622+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:04:03.5896136+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:57:13.7134958+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:04:03.1963374+00:00"
 }

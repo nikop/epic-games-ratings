@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1645,9 +1645,9 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 388
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -2005,9 +2005,9 @@
       "ID": "ach_main19war_stonedamage",
       "SetID": "4hg22ll",
       "Name": "Hands Off My Stones",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 68
     },
     {
       "ID": "ach_main20end_completed",
@@ -2021,9 +2021,9 @@
       "ID": "ach_main20end_notristan",
       "SetID": "4hg22ll",
       "Name": "I Don\u0027t Need Any Help",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_main20end_spawners",
@@ -2044,8 +2044,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:05:44.9918601+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:05:45.7433336+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:57:38.853459+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:05:44.9919138+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:57:48.8997348+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:05:45.7433837+00:00"
 }

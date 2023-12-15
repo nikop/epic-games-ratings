@@ -29,8 +29,8 @@ Rating: 4.58 (Ranked 453)
 | Let Me Be Frank | 33.00% | ~392 |
 | No Stone Unturned | 31.00% | ~369 |
 | Brain Food | 30.00% | ~357 |
+| Read It And Weep | 19.00% | ~226 |
 | Curiosity Killed The Cat | 18.00% | ~214 |
-| Read It And Weep | 18.00% | ~214 |
 | Big Breakthrough | 12.00% | ~143 |
 | Reawakened | 3.00% | ~36 |
 ## Popularity (Based on EOS Achievements)

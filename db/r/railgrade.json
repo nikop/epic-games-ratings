@@ -609,9 +609,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 18177,
+  "EOS_Progressed": 18176,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": -71,
+  "EOS_NewPlayers": -72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10784,6 +10784,11 @@
       "Time": "2023-12-15T19:03:11.3830617+00:00",
       "NumProgressed": 18177,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-12-15T22:03:17.6427572+00:00",
+      "NumProgressed": 18176,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 37,
@@ -10827,7 +10832,7 @@
       "Name": "Builder",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 16178
+      "UsersEstimate": 16177
     },
     {
       "ID": "ach.060.goingdistance",
@@ -10835,7 +10840,7 @@
       "Name": "Going the Distance",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 10543
+      "UsersEstimate": 10542
     },
     {
       "ID": "ach.070.8kenough",
@@ -10851,7 +10856,7 @@
       "Name": "Eraser",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 13633
+      "UsersEstimate": 13632
     },
     {
       "ID": "ach.090.perfectionist",
@@ -10883,7 +10888,7 @@
       "Name": "Simplification",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6544
+      "UsersEstimate": 6543
     },
     {
       "ID": "ach.130.minimalist",
@@ -10891,7 +10896,7 @@
       "Name": "Minimalist",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 17632
+      "UsersEstimate": 17631
     },
     {
       "ID": "ach.140.legacy",
@@ -10899,7 +10904,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 105,
       "XP": 60,
-      "UsersEstimate": 19086
+      "UsersEstimate": 19085
     },
     {
       "ID": "ach.150.pocket",
@@ -10907,7 +10912,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 12724
+      "UsersEstimate": 12723
     },
     {
       "ID": "ach.160.box",
@@ -10915,7 +10920,7 @@
       "Name": "Box of Trains",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6544
+      "UsersEstimate": 6543
     },
     {
       "ID": "ach.170.room",
@@ -10929,9 +10934,9 @@
       "ID": "ach.180.inspector",
       "SetID": "384aaja",
       "Name": "Inspector",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 11452
+      "UsersEstimate": 11633
     },
     {
       "ID": "ach.190.scenic",
@@ -10955,7 +10960,7 @@
       "Name": "Oil Baron",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 8180
+      "UsersEstimate": 8179
     },
     {
       "ID": "ach.220.hot",
@@ -10979,7 +10984,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 8180
+      "UsersEstimate": 8179
     },
     {
       "ID": "ach.250.downfall",
@@ -10987,7 +10992,7 @@
       "Name": "Before the Downfall",
       "Percentage": 100,
       "XP": 60,
-      "UsersEstimate": 18177
+      "UsersEstimate": 18176
     },
     {
       "ID": "ach.260.investor",
@@ -11051,7 +11056,7 @@
       "Name": "Money like Water",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 17813
+      "UsersEstimate": 17812
     },
     {
       "ID": "ach.340.steel",
@@ -11090,7 +11095,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18177,
+      "Progressed": 18176,
       "Completed": 27
     }
   ],
@@ -11098,8 +11103,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-12-10T14:59:42.7930094+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:03:19.1741575+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:03:17.6427568+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:15.202308+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:58:28.7154216+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:03:19.1742485+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:58:40.6602097+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:03:17.6428278+00:00"
 }

@@ -5,9 +5,9 @@
   "Ranking_Rating": 928,
   "Ranking_Popularity": 294,
   "Ranking_PopularitySum": 327,
-  "Ranking_EOS_Progress": 209,
+  "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -957,9 +957,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3568,
+  "EOS_Progressed": 3612,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1276,
+  "EOS_NewPlayers": 1320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4897,6 +4897,11 @@
       "Time": "2023-12-15T21:08:27.1778695+00:00",
       "NumProgressed": 3568,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T22:08:47.2263799+00:00",
+      "NumProgressed": 3612,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -5115,9 +5120,9 @@
       "ID": "TLOTF_ACHIEVEMENT_027",
       "SetID": "87e61g",
       "Name": "Shades of Violence",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_028",
@@ -5412,7 +5417,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 3568,
+      "Progressed": 3612,
       "Completed": 2
     }
   ],
@@ -5420,8 +5425,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-15T16:59:21.0142262+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:08:27.1778691+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:08:47.2263796+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:58.7777436+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:59:41.6993553+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:08:27.1779494+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:59:55.668224+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:08:47.2264518+00:00"
 }

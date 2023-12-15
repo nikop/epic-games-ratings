@@ -1443,9 +1443,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6374,
+  "EOS_Progressed": 6376,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14413,6 +14413,11 @@
       "Time": "2023-12-15T21:08:04.2490712+00:00",
       "NumProgressed": 6374,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T22:08:23.7454672+00:00",
+      "NumProgressed": 6376,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14432,7 +14437,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -14448,7 +14453,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -14512,7 +14517,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -14584,7 +14589,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4780
+      "UsersEstimate": 4782
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14600,7 +14605,7 @@
       "Name": "One Does Not Simply Stage A Coup",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_MISSION_NOELECTION",
@@ -14640,7 +14645,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -14648,7 +14653,7 @@
       "Name": "Sublime Subliminal Supreme",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_SURVIVOR",
@@ -14664,7 +14669,7 @@
       "Name": "Teamplayer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_TERRAFORMER",
@@ -14672,7 +14677,7 @@
       "Name": "Terraformer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_THOUSANDPOPULATION",
@@ -14680,7 +14685,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2932
+      "UsersEstimate": 2933
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -14696,7 +14701,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2358
+      "UsersEstimate": 2359
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -14736,22 +14741,22 @@
       "Name": "Curse of the Mummy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6374,
+      "Progressed": 6376,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-13T06:00:46.4990656+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:08:04.2490707+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:08:23.7454668+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:43.3070216+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:58:05.6436575+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:08:04.2492001+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:58:16.6342448+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:08:23.7455408+00:00"
 }

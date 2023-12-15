@@ -4,7 +4,7 @@
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
   "Ranking_EOS_Progress": 620,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -115,9 +115,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "7on801h",
       "Name": "Singh No Swan Song",
-      "Percentage": 50,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -355,9 +355,9 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "7on801h",
       "Name": "I Can Only Fight Enemies I Can See",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_10",
@@ -760,8 +760,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:04:00.139674+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:03:59.8436647+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184844+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:58:02.0140708+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:04:00.1397505+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:58:12.4994972+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:03:59.8437363+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1503,7 +1503,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 242933,
+  "EOS_Progressed": 242947,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1127,
   "EOS_NewCompleters": 0,
@@ -22408,6 +22408,11 @@
       "Time": "2023-12-15T21:09:24.1705168+00:00",
       "NumProgressed": 242933,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-15T22:09:46.6145495+00:00",
+      "NumProgressed": 242947,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -22467,7 +22472,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17005
+      "UsersEstimate": 17006
     },
     {
       "ID": "Chapter2",
@@ -22819,7 +22824,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19435
+      "UsersEstimate": 19436
     },
     {
       "ID": "DwarfElf15Support",
@@ -22851,7 +22856,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14576
+      "UsersEstimate": 14577
     },
     {
       "ID": "ElfEpic",
@@ -22867,7 +22872,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87456
+      "UsersEstimate": 87461
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -22891,7 +22896,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9717
+      "UsersEstimate": 9718
     },
     {
       "ID": "EndGameCursed",
@@ -22915,7 +22920,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21864
+      "UsersEstimate": 21865
     },
     {
       "ID": "FollowBraztok",
@@ -22955,7 +22960,7 @@
       "Name": "We come in peace",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "MinistrelEpic",
@@ -23027,7 +23032,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "QuestPriestess",
@@ -23115,28 +23120,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9717
+      "UsersEstimate": 9718
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 242933,
+      "Progressed": 242947,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 242933,
+      "Progressed": 242947,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-12T21:57:44.3633431+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:09:24.1705163+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:09:46.6145492+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.1177484+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:58:56.8213202+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:09:24.1706557+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:59:08.3935748+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:09:46.614716+00:00"
 }

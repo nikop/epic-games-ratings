@@ -8,9 +8,9 @@ Rating: 4.61 (Ranked 388)
 | A Thorny Situation | 0.40% | ~34 |
 | Calm Sailing | 0.30% | ~25 |
 | Open the Gate! | 0.30% | ~25 |
+| Clear the Air | 0.30% | ~25 |
 | Break-Net Speed | 0.30% | ~25 |
 | Azoria Beckons | 0.20% | ~17 |
-| Clear the Air | 0.20% | ~17 |
 | Search for the Hairy Grell | 0.20% | ~17 |
 | Flaming Hot Completos | 0.20% | ~17 |
 | Lumberjack | 0.20% | ~17 |

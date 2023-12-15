@@ -2,9 +2,9 @@
   "ID": "474de2af8ae04a7b9991ea3fbbc56c7b",
   "Name": "CounterAttack: Uprising",
   "ProductSlug": "counterattackuprising-06aed8",
-  "Ranking_EOS_Progress": 798,
+  "Ranking_EOS_Progress": 732,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 511,
+  "Ranking_EOS_NewPlayers": 512,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -22,26 +22,226 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2023-12-15T22:08:55.1728377+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2023-12-15T22:08:55.1728388+00:00",
+  "TotalAchievements": 24,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "100Attachments",
+      "SetID": "c18da06",
+      "Name": "Unlock 100 Attachments",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1Up",
+      "SetID": "c18da06",
+      "Name": "Get a free life!",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "1kAutomatons",
+      "SetID": "c18da06",
+      "Name": "Kill 1000 Automatons",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "200Attachments",
+      "SetID": "c18da06",
+      "Name": "Unlock 200 Attachments",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "400Attachments",
+      "SetID": "c18da06",
+      "Name": "Unlock 400 Attachments",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40Attachments",
+      "SetID": "c18da06",
+      "Name": "40 Attachments",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "550Attachments",
+      "SetID": "c18da06",
+      "Name": "Unlock 550 Attachments",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AngryReloader",
+      "SetID": "c18da06",
+      "Name": "Angry Reloader",
+      "Percentage": 100,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BeamMinelevel",
+      "SetID": "c18da06",
+      "Name": "Beat the Mine Level",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BeatDebris",
+      "SetID": "c18da06",
+      "Name": "Debris Field",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DestroyersSaved",
+      "SetID": "c18da06",
+      "Name": "Destroyer Saviour",
+      "Percentage": 100,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "EarthSaved",
+      "SetID": "c18da06",
+      "Name": "Savior of Earth",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HuntTheHunter",
+      "SetID": "c18da06",
+      "Name": "Hunt the Hunter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ISeeYou",
+      "SetID": "c18da06",
+      "Name": "I See You",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill100",
+      "SetID": "c18da06",
+      "Name": "Kill 100 Automatons",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Kill100k",
+      "SetID": "c18da06",
+      "Name": "Kill 100,000 Automatons",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill10k",
+      "SetID": "c18da06",
+      "Name": "Kill 10,000 Automatons",
+      "Percentage": 100,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Kill1M",
+      "SetID": "c18da06",
+      "Name": "Kill 1,000,000 Automatons",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ObocSaved",
+      "SetID": "c18da06",
+      "Name": "Save Bob Oboc",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ProtoCruiserSaved",
+      "SetID": "c18da06",
+      "Name": "Save the Prototype Cruiser",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SomethingFishy",
+      "SetID": "c18da06",
+      "Name": "Something Fishy",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Super10",
+      "SetID": "c18da06",
+      "Name": "Use 10 Ultimates",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Super100",
+      "SetID": "c18da06",
+      "Name": "User 100 Ultimates",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Super1k",
+      "SetID": "c18da06",
+      "Name": "Use 1,000 Ultimates",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "c18da06",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-12T23:09:03.0564734+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:08:35.2494289+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:08:55.1728374+00:00",
   "LastUpdate_AppInfo": "2023-12-10T22:56:54.5993799+00:00",
-  "LastUpdate_Ratings": "2023-12-15T21:00:01.779374+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:08:35.2494317+00:00"
+  "LastUpdate_Ratings": "2023-12-15T22:00:16.2763877+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:08:55.2054705+00:00"
 }

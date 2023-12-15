@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3494,
+  "EOS_Progressed": 3495,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6416,6 +6416,11 @@
       "Time": "2023-12-15T21:04:48.2075423+00:00",
       "NumProgressed": 3494,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T22:04:48.0017779+00:00",
+      "NumProgressed": 3495,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6435,7 +6440,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_BASE_11",
@@ -6515,7 +6520,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "ACH_BASE_22",
@@ -6539,7 +6544,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "ACH_BASE_25",
@@ -6882,13 +6887,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1678,
+      "Progressed": 1679,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3494,
+      "Progressed": 3495,
       "Completed": 0
     }
   ],
@@ -6896,8 +6901,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:04:48.2075419+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:04:48.0017775+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4855137+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:57:47.0552698+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:04:48.2076204+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:57:57.378401+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:04:48.0018381+00:00"
 }

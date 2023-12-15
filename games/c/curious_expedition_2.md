@@ -22,7 +22,7 @@ Number of Ratings: 20  (23.09.2022)
 | Taxonomist | 27.00% | ~94 |
 | Traveller | 25.00% | ~88 |
 | Uncertain Loyalties | 25.00% | ~88 |
-| Nahua Seeker | 23.00% | ~80 |
+| Nahua Seeker | 24.00% | ~84 |
 | Roll to Save | 22.00% | ~77 |
 | Veteran Explorer | 21.00% | ~74 |
 | Red Flag Pirate | 19.00% | ~66 |
@@ -67,8 +67,8 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.90% | ~3 |
 | Now I've Seen It All | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 350 (Ranked 348)  
-Completed: 1 (0.29%) (Ranked 245)  
+Progressed: 350 (Ranked 350)  
+Completed: 1 (0.29%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

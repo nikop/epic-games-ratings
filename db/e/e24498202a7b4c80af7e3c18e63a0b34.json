@@ -157,9 +157,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7368,
+  "EOS_Progressed": 7369,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -7247,6 +7247,11 @@
       "Time": "2023-12-15T21:04:12.2425625+00:00",
       "NumProgressed": 7368,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-15T22:04:11.6623759+00:00",
+      "NumProgressed": 7369,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -7259,7 +7264,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 6410
+      "UsersEstimate": 6411
     },
     {
       "ID": "achievement_01_02",
@@ -7283,7 +7288,7 @@
       "Name": "Bzzzt",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5452
+      "UsersEstimate": 5453
     },
     {
       "ID": "achievement_01_05",
@@ -7291,7 +7296,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3610
+      "UsersEstimate": 3611
     },
     {
       "ID": "achievement_01_06",
@@ -7315,7 +7320,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 5526
+      "UsersEstimate": 5527
     },
     {
       "ID": "achievement_01_09",
@@ -7331,7 +7336,7 @@
       "Name": "Beat the Clock",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 4052
+      "UsersEstimate": 4053
     },
     {
       "ID": "achievement_02_01",
@@ -7371,7 +7376,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1990
     },
     {
       "ID": "achievement_02_06",
@@ -7387,7 +7392,7 @@
       "Name": "Whale of a Time",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3610
+      "UsersEstimate": 3611
     },
     {
       "ID": "achievement_02_08",
@@ -7427,7 +7432,7 @@
       "Name": "Italy - Check!",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "achievement_03_05",
@@ -7507,7 +7512,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3905
+      "UsersEstimate": 3906
     },
     {
       "ID": "achievement_04_04",
@@ -7547,7 +7552,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 6336
+      "UsersEstimate": 6337
     },
     {
       "ID": "achievement_04_09",
@@ -7562,7 +7567,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 7368,
+      "Progressed": 7369,
       "Completed": 43
     }
   ],
@@ -7570,8 +7575,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-12-15T14:57:21.0131466+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:04:12.2425621+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:04:11.6623756+00:00",
   "LastUpdate_AppInfo": "2023-12-14T22:57:19.0822196+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:57:32.0131493+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:04:12.2426312+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:57:41.5622706+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:04:11.66244+00:00"
 }

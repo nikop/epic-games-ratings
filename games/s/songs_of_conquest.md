@@ -10,7 +10,7 @@ Number of Ratings: 292  (23.09.2022)
 | Double Kill | 30.00% | ~146 |
 | Critical Hit | 16.00% | ~78 |
 | Veteran | 16.00% | ~78 |
-| Dressed For Success | 12.00% | ~58 |
+| Dressed For Success | 11.00% | ~54 |
 | Humiliation | 8.00% | ~39 |
 | Sorcerous Spree | 7.00% | ~34 |
 | Multi Kill | 6.00% | ~29 |
@@ -32,14 +32,14 @@ Number of Ratings: 292  (23.09.2022)
 | Ultra Kill | 1.00% | ~5 |
 | Grand Master | 1.00% | ~5 |
 | Get Over Here! | 0.80% | ~4 |
+| Death To Diplomacy | 0.60% | ~3 |
 | Unlimited Power! | 0.60% | ~3 |
 | Together For Her | 0.60% | ~3 |
-| Death To Diplomacy | 0.40% | ~2 |
+| From the Ashes | 0.60% | ~3 |
 | Coming Through! | 0.40% | ~2 |
 | Barbecue | 0.40% | ~2 |
 | In The Thick of It | 0.40% | ~2 |
 | Oops! | 0.40% | ~2 |
-| From the Ashes | 0.40% | ~2 |
 | The Marsh Expands | 0.40% | ~2 |
 | Cleave | 0.40% | ~2 |
 | Bringer of Ruin | 0.20% | ~1 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 486 (Ranked 324)  
+Progressed: 487 (Ranked 324)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 434 | 0 |
 | 2023-12-13 | 447 | 0 |
 | 2023-12-14 | 474 | 0 |
-| 2023-12-15 | 486 | 0 |
+| 2023-12-15 | 487 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 518)  
 Sum: 194 (Ranked 410)  

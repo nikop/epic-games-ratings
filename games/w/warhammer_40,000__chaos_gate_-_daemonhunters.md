@@ -6,7 +6,7 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 11.00% | ~374 |
+| Executioner | 10.00% | ~340 |
 | Watch Where You Step... | 9.00% | ~306 |
 | Look Over There! | 8.00% | ~272 |
 | Not So Fast... | 8.00% | ~272 |
@@ -22,14 +22,13 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 3.00% | ~102 |
 | Gunmaster | 3.00% | ~102 |
 | Just a Scratch | 3.00% | ~102 |
-| Daemonkeeper | 2.00% | ~68 |
 | Hold Your Ground | 2.00% | ~68 |
 | Corruption Cleanser | 2.00% | ~68 |
 | Efficient Killer | 2.00% | ~68 |
 | A Gift Spurned | 2.00% | ~68 |
-| Execution Force | 2.00% | ~68 |
 | Hive Exterminator | 2.00% | ~68 |
 | Fleetmaster | 1.00% | ~34 |
+| Daemonkeeper | 1.00% | ~34 |
 | Exterminator | 1.00% | ~34 |
 | Mind Like a Fortress | 1.00% | ~34 |
 | Only in Death | 1.00% | ~34 |
@@ -37,6 +36,7 @@ Number of Ratings: 371  (23.09.2022)
 | Junk Banishment | 1.00% | ~34 |
 | Long Distance Call | 1.00% | ~34 |
 | Tactical Flexibility | 1.00% | ~34 |
+| Execution Force | 1.00% | ~34 |
 | Tactical Sabotage | 1.00% | ~34 |
 | For the Machine God | 0.90% | ~31 |
 | Death Comes For All | 0.90% | ~31 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,400 (Ranked 214)  
+Progressed: 3,401 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 3,348 | 0 |
 | 2023-12-13 | 3,351 | 0 |
 | 2023-12-14 | 3,379 | 0 |
-| 2023-12-15 | 3,400 | 0 |
+| 2023-12-15 | 3,401 | 0 |
 ## Awards
 Max (Character Customization): 227  (Ranked 279)  
 Sum: 488 (Ranked 333)  

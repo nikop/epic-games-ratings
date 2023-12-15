@@ -21,8 +21,8 @@ Rating: 4.88 (Ranked 16)
 | Z-shielding's got nothing on us! | 10.00% | ~692 |
 | Whoa! There's ANOTHER health bar!? | 9.00% | ~623 |
 | Kissing the sky! | 9.00% | ~623 |
-| The Negotiator | 8.00% | ~553 |
-| I look cool. But I can look COOLER. | 8.00% | ~553 |
+| The Negotiator | 8.00% | ~554 |
+| I look cool. But I can look COOLER. | 8.00% | ~554 |
 | Headliner | 7.00% | ~484 |
 | You must like calling me in, Chai | 7.00% | ~484 |
 | Out in a puff of smoke | 7.00% | ~484 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 16)
 | Voices from within | 0.10% | ~5 |
 | Low budget finish | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,918 (Ranked 186)  
+Progressed: 6,919 (Ranked 186)  
 Completed: 8 (0.12%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 8 (0.12%) (Ranked 288)
 | 2023-12-12 | 4,510 | 8 |
 | 2023-12-13 | 4,535 | 8 |
 | 2023-12-14 | 5,878 | 8 |
-| 2023-12-15 | 6,918 | 8 |
+| 2023-12-15 | 6,919 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2563,9 +2563,9 @@
       "ID": "ACH_DICE_WIN",
       "SetID": "7k95e4n",
       "Name": "Roll with it",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 548
+      "UsersEstimate": 560
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -2635,9 +2635,9 @@
       "ID": "ACH_GRANDPA_LETTER",
       "SetID": "7k95e4n",
       "Name": "No pressure",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 822
+      "UsersEstimate": 834
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -2699,9 +2699,9 @@
       "ID": "ACH_STAR_2",
       "SetID": "7k95e4n",
       "Name": "Moving up",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 489
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_STAR_3",
@@ -2764,8 +2764,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-04T06:59:58.8594185+00:00",
-  "LastChanged_Achievements": "2023-12-15T21:05:13.9509618+00:00",
+  "LastChanged_Achievements": "2023-12-15T22:05:13.8666163+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:05.3714871+00:00",
-  "LastUpdate_Ratings": "2023-12-15T20:58:48.1628059+00:00",
-  "LastUpdate_Achievements": "2023-12-15T21:05:13.9509951+00:00"
+  "LastUpdate_Ratings": "2023-12-15T21:59:00.458319+00:00",
+  "LastUpdate_Achievements": "2023-12-15T22:05:13.8666427+00:00"
 }
