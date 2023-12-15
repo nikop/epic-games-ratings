@@ -452,6 +452,7 @@
 | [Lost Ruins](../games/l/lost_ruins.md) | 40 | 1,000 |
 | [LOVE 3](../games/l/love_3.md) | 22 | 1,000 |
 | [Love Is All Around](../games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 42 | 1,000 |
+| [Love Money Rock-n-Roll](../games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 18 | 1,000 |
 | [Lucky Goal](../games/7/7a78425e9d094942bd44700957de54da.md) | 29 | 1,000 |
 | [Luna's Fishing Garden](../games/l/luna's_fishing_garden.md) | 14 | 1,000 |
 | [Madden NFL 23](../games/m/madden_nfl_23.md) | 21 | 1,000 |
