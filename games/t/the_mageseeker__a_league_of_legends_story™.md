@@ -37,11 +37,11 @@ Rating: 4.81 (Ranked 83)
 | No more holding back | 18.00% | ~494 |
 | Terbisia | 18.00% | ~494 |
 | Whispers in the Woods III | 17.00% | ~466 |
+| My heart and sword always for Demacia | 17.00% | ~466 |
 | Friendly fire | 17.00% | ~466 |
 | True power | 17.00% | ~466 |
 | Meltridge | 17.00% | ~466 |
 | The Central Headquarters | 17.00% | ~466 |
-| My heart and sword always for Demacia | 16.00% | ~439 |
 | Cloven Dell Headquarters | 16.00% | ~439 |
 | Embrace the darkness | 14.00% | ~384 |
 | Whispers in the Woods IV | 14.00% | ~384 |

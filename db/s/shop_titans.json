@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7567,9 +7567,9 @@
       "Count": 3795
     }
   ],
-  "EOS_Progressed": 145541,
+  "EOS_Progressed": 145545,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 1316,
+  "EOS_NewPlayers": 1315,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -32492,6 +32492,11 @@
       "Time": "2023-12-15T07:05:19.4494335+00:00",
       "NumProgressed": 145541,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2023-12-15T08:04:32.3073172+00:00",
+      "NumProgressed": 145545,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 112,
@@ -32671,7 +32676,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11643
+      "UsersEstimate": 11644
     },
     {
       "ID": "chest02",
@@ -32767,7 +32772,7 @@
       "Name": "Disintermediation",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8732
+      "UsersEstimate": 8733
     },
     {
       "ID": "craft02",
@@ -33319,7 +33324,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11643
+      "UsersEstimate": 11644
     },
     {
       "ID": "twinenchant01",
@@ -33398,15 +33403,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 145541,
+      "Progressed": 145545,
       "Completed": 309
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-15T04:03:11.1341687+00:00",
-  "LastChanged_Achievements": "2023-12-15T07:05:19.449433+00:00",
+  "LastChanged_Achievements": "2023-12-15T08:04:32.3073169+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2420411+00:00",
-  "LastUpdate_Ratings": "2023-12-15T07:03:29.8752524+00:00",
-  "LastUpdate_Achievements": "2023-12-15T07:05:19.4496509+00:00"
+  "LastUpdate_Ratings": "2023-12-15T08:03:08.8522689+00:00",
+  "LastUpdate_Achievements": "2023-12-15T08:04:32.3075165+00:00"
 }

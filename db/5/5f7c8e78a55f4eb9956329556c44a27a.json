@@ -4,7 +4,7 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -749,9 +749,9 @@
       "ID": "TINGWD_ADMIN",
       "SetID": "c0imaa6",
       "Name": "Administrator",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 154
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -869,17 +869,17 @@
       "ID": "TINGWD_CONSPI",
       "SetID": "c0imaa6",
       "Name": "Conspiracy theorist",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 152
     },
     {
       "ID": "TINGWD_DETECTIVE",
       "SetID": "c0imaa6",
       "Name": "Private Detective",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 169
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -925,9 +925,9 @@
       "ID": "TINGWD_NOSHAME",
       "SetID": "c0imaa6",
       "Name": "Have you no shame?",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 161
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -1028,8 +1028,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-15T07:07:35.8310478+00:00",
+  "LastChanged_Achievements": "2023-12-15T08:06:19.7714316+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:03.1671166+00:00",
-  "LastUpdate_Ratings": "2023-12-15T06:58:38.9660863+00:00",
-  "LastUpdate_Achievements": "2023-12-15T07:07:35.8310681+00:00"
+  "LastUpdate_Ratings": "2023-12-15T07:58:23.3956857+00:00",
+  "LastUpdate_Achievements": "2023-12-15T08:06:19.7714569+00:00"
 }

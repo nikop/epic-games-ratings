@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Invisible Wizards of Thay | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,521 (Ranked 66)  
+Progressed: 240,536 (Ranked 66)  
 Completed: 2,526 (1.05%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -792,15 +792,15 @@ Completed: 2,526 (1.05%) (Ranked 169)
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
 | 2023-12-14 | 240,414 | 2,526 |
-| 2023-12-15 | 240,521 | 2,526 |
+| 2023-12-15 | 240,536 | 2,526 |
 ## Awards
 Max (Great for Beginners): 5,635  (Ranked 70)  
-Sum: 32,877 (Ranked 41)  
+Sum: 32,884 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,635 |
-| This game has Diverse Characters | 5,594 |
+| This game has Diverse Characters | 5,601 |
 | This game has Quickly Understood Controls | 4,843 |
 | This game is Relaxing | 4,731 |
 | This game has Amazing Characters | 4,257 |
@@ -1132,3 +1132,4 @@ Diff (max vs sum): 29
 | 2023-12-12 | 4.06 | - | 5,622 | 32,830 |
 | 2023-12-13 | 4.06 | - | 5,624 | 32,841 |
 | 2023-12-14 | 4.06 | - | 5,635 | 32,877 |
+| 2023-12-15 | 4.06 | - | 5,635 | 32,884 |

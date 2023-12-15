@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -622,9 +622,9 @@
       "ID": "play_it_again_sam",
       "SetID": "2db2j74",
       "Name": "Play It Again Sam",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 229
     },
     {
       "ID": "play_me_by_the_hour",
@@ -662,9 +662,9 @@
       "ID": "strong_silent_type",
       "SetID": "2db2j74",
       "Name": "Strong Silent Type",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 231
     },
     {
       "ID": "the_big_sleep",
@@ -711,8 +711,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-15T07:08:17.1447767+00:00",
+  "LastChanged_Achievements": "2023-12-15T08:07:51.633673+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:09.2551695+00:00",
-  "LastUpdate_Ratings": "2023-12-15T07:03:24.0003447+00:00",
-  "LastUpdate_Achievements": "2023-12-15T07:08:17.1447915+00:00"
+  "LastUpdate_Ratings": "2023-12-15T08:03:03.6179116+00:00",
+  "LastUpdate_Achievements": "2023-12-15T08:07:51.6336858+00:00"
 }

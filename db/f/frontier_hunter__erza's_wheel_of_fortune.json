@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 602,
+  "EOS_Progressed": 603,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1957,6 +1957,11 @@
       "Time": "2023-12-15T07:09:18.5105511+00:00",
       "NumProgressed": 602,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T08:08:39.0168813+00:00",
+      "NumProgressed": 603,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1968,7 +1973,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1984,7 +1989,7 @@
       "Name": "Guardian",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -1992,7 +1997,7 @@
       "Name": "Nosebleeder",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -2000,7 +2005,7 @@
       "Name": "Flying Kobold Killer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -2008,7 +2013,7 @@
       "Name": "Youth Magnet",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2112,7 +2117,7 @@
       "Name": "Master Artificer",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -2120,7 +2125,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2128,7 +2133,7 @@
       "Name": "Trader",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -2136,7 +2141,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2152,7 +2157,7 @@
       "Name": "Weapon Boost",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -2224,7 +2229,7 @@
       "Name": "Storm Traveller",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2288,7 +2293,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2327,7 +2332,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 602,
+      "Progressed": 603,
       "Completed": 1
     }
   ],
@@ -2335,8 +2340,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-15T07:09:18.5105506+00:00",
+  "LastChanged_Achievements": "2023-12-15T08:08:39.0168808+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.1790952+00:00",
-  "LastUpdate_Ratings": "2023-12-15T06:58:44.5674627+00:00",
-  "LastUpdate_Achievements": "2023-12-15T07:09:18.5105974+00:00"
+  "LastUpdate_Ratings": "2023-12-15T07:58:27.6100864+00:00",
+  "LastUpdate_Achievements": "2023-12-15T08:08:39.0169246+00:00"
 }

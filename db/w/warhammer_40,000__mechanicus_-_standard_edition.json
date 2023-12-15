@@ -1008,9 +1008,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 229415,
+  "EOS_Progressed": 229419,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 562,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27108,6 +27108,11 @@
       "Time": "2023-12-15T07:10:35.1869516+00:00",
       "NumProgressed": 229415,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-15T08:09:38.5086604+00:00",
+      "NumProgressed": 229419,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -27119,7 +27124,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45883
+      "UsersEstimate": 45884
     },
     {
       "ID": "ACH_BASE_10",
@@ -27127,7 +27132,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59648
+      "UsersEstimate": 59649
     },
     {
       "ID": "ACH_BASE_11",
@@ -27159,7 +27164,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20647
+      "UsersEstimate": 20648
     },
     {
       "ID": "ACH_BASE_16",
@@ -27175,7 +27180,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20647
+      "UsersEstimate": 20648
     },
     {
       "ID": "ACH_BASE_18",
@@ -27207,7 +27212,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6882
+      "UsersEstimate": 6883
     },
     {
       "ID": "ACH_BASE_21",
@@ -27343,7 +27348,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6882
+      "UsersEstimate": 6883
     },
     {
       "ID": "ACH_BASE_5",
@@ -27383,14 +27388,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20647
+      "UsersEstimate": 20648
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 229415,
+      "Progressed": 229419,
       "Completed": 5
     }
   ],
@@ -27398,8 +27403,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-14T02:58:28.5187272+00:00",
-  "LastChanged_Achievements": "2023-12-15T07:10:35.1869513+00:00",
+  "LastChanged_Achievements": "2023-12-15T08:09:38.5086601+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.549712+00:00",
-  "LastUpdate_Ratings": "2023-12-15T06:59:16.3191689+00:00",
-  "LastUpdate_Achievements": "2023-12-15T07:10:35.1870862+00:00"
+  "LastUpdate_Ratings": "2023-12-15T07:58:50.9324923+00:00",
+  "LastUpdate_Achievements": "2023-12-15T08:09:38.5087783+00:00"
 }

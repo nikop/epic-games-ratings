@@ -6,7 +6,7 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 10.00% | ~338 |
+| Executioner | 10.00% | ~339 |
 | Watch Where You Step... | 9.00% | ~305 |
 | Look Over There! | 8.00% | ~271 |
 | Not So Fast... | 8.00% | ~271 |
@@ -42,9 +42,9 @@ Number of Ratings: 371  (23.09.2022)
 | Death Comes For All | 0.90% | ~30 |
 | Patron of Deimos | 0.80% | ~27 |
 | Engine Kill | 0.80% | ~27 |
-| Hands-On Research | 0.70% | ~24 |
 | Harvest No More | 0.70% | ~24 |
 | Strike Force | 0.60% | ~20 |
+| Hands-On Research | 0.60% | ~20 |
 | Suffer Not the Mutant | 0.50% | ~17 |
 | Exercise in Restraint | 0.40% | ~14 |
 | True Mastery | 0.40% | ~14 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,384 (Ranked 212)  
+Progressed: 3,386 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 3,348 | 0 |
 | 2023-12-13 | 3,351 | 0 |
 | 2023-12-14 | 3,379 | 0 |
-| 2023-12-15 | 3,384 | 0 |
+| 2023-12-15 | 3,386 | 0 |
 ## Awards
 Max (Character Customization): 227  (Ranked 279)  
 Sum: 488 (Ranked 333)  

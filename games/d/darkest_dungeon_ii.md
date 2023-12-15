@@ -43,6 +43,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Reverse Banditry | 0.70% | ~890 |
 | Spelunker | 0.70% | ~890 |
 | Ramble On | 0.70% | ~890 |
+| Unshackled | 0.70% | ~890 |
 | Resurrection | 0.60% | ~763 |
 | Unleash Hell | 0.60% | ~763 |
 | Funny Guy | 0.60% | ~763 |
@@ -51,11 +52,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Boxcar Kid | 0.60% | ~763 |
 | A Clear Conscience | 0.60% | ~763 |
 | When You Want Something Done Right | 0.60% | ~763 |
-| Unshackled | 0.60% | ~763 |
+| Utopia | 0.60% | ~763 |
 | Hope Rekindled | 0.50% | ~636 |
 | Ichthyophobic | 0.50% | ~636 |
 | No More Mouths to Feed | 0.50% | ~636 |
-| Utopia | 0.50% | ~636 |
 | Slap on the Wrist | 0.50% | ~10 |
 | This Looks Familiar | 0.40% | ~509 |
 | Hot Air | 0.40% | ~509 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,192 (Ranked 84)  
+Progressed: 127,205 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
-| 2023-12-15 | 127,192 | 3 |
+| 2023-12-15 | 127,205 | 3 |
 ## Awards
 Max (Character Customization): 7,718  (Ranked 51)  
 Sum: 20,470 (Ranked 59)  

@@ -7,12 +7,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Overgrown Library | 5.00% | ~909 |
-| Abandoned Settlement | 4.00% | ~727 |
-| Petrified Necropolis | 4.00% | ~727 |
-| Frosts | 3.00% | ~545 |
-| Land of Greed | 3.00% | ~545 |
-| Ominous Presence | 3.00% | ~545 |
-| Gathering Storm | 3.00% | ~545 |
+| Abandoned Settlement | 4.00% | ~728 |
+| Petrified Necropolis | 4.00% | ~728 |
+| Frosts | 3.00% | ~546 |
+| Land of Greed | 3.00% | ~546 |
+| Ominous Presence | 3.00% | ~546 |
+| Gathering Storm | 3.00% | ~546 |
 | First Real Expedition | 2.00% | ~364 |
 | Overcoming Difficulty | 2.00% | ~364 |
 | Coral Forest | 2.00% | ~364 |
@@ -20,17 +20,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 2.00% | ~364 |
 | No Deaths | 2.00% | ~364 |
 | Untamed Wilds | 2.00% | ~364 |
+| Homesick | 1.00% | ~182 |
 | Fertile Meadows | 1.00% | ~182 |
 | Royal Outpost | 1.00% | ~182 |
 | Lost Colonies | 1.00% | ~182 |
 | Watchtower | 1.00% | ~182 |
 | The Scarlet Orchard | 1.00% | ~182 |
-| Homesick | 0.90% | ~164 |
+| Bandit Camp | 0.90% | ~164 |
 | A Real Challenge | 0.90% | ~164 |
-| Ruined Armory | 0.80% | ~145 |
-| Bandit Camp | 0.80% | ~145 |
-| Levitating Monument | 0.80% | ~145 |
-| Monastery of the Holy Flame | 0.80% | ~145 |
+| Ruined Armory | 0.80% | ~146 |
+| Levitating Monument | 0.80% | ~146 |
+| Monastery of the Holy Flame | 0.80% | ~146 |
 | Barren Lands | 0.70% | ~127 |
 | Statue of the Forefathers | 0.70% | ~127 |
 | Corrosive Torrent | 0.70% | ~127 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,183 (Ranked 147)  
+Progressed: 18,188 (Ranked 146)  
 Completed: 39 (0.21%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 39 (0.21%) (Ranked 260)
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
 | 2023-12-14 | 18,153 | 40 |
-| 2023-12-15 | 18,183 | 39 |
+| 2023-12-15 | 18,188 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,260 (Ranked 175)  

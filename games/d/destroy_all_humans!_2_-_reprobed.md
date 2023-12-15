@@ -6,25 +6,25 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 56.00% | ~34 |
-| Mash Machine | 54.00% | ~33 |
-| Ducks in a Row, Fish in a Barrel | 34.00% | ~21 |
-| Furon Fashion | 30.00% | ~18 |
-| Shop Til They Drop | 28.00% | ~17 |
-| Earthly Pleasures | 20.00% | ~12 |
-| Upgreatest | 20.00% | ~12 |
+| Rock of the Bay | 56.00% | ~35 |
+| Mash Machine | 55.00% | ~34 |
+| Ducks in a Row, Fish in a Barrel | 37.00% | ~23 |
+| Furon Fashion | 31.00% | ~19 |
+| Shop Til They Drop | 27.00% | ~17 |
+| Earthly Pleasures | 19.00% | ~12 |
+| Upgreatest | 19.00% | ~12 |
 | I Look Up As I Walk to Takoshima | 16.00% | ~10 |
 | Bodied Sattva | 16.00% | ~10 |
 | Cult Following | 13.00% | ~8 |
 | Pimp My Raid | 13.00% | ~8 |
 | Perfect Probulator | 11.00% | ~7 |
 | Lie Back and Think of Albion | 10.00% | ~6 |
+| Transmitting From Sol-3 | 8.00% | ~5 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 8.00% | ~5 |
 | Freshly Squeezed | 8.00% | ~5 |
 | Die Nasty | 8.00% | ~5 |
-| Transmitting From Sol-3 | 7.00% | ~4 |
-| Fly Me to the Moon Base | 7.00% | ~4 |
-| Dusted | 7.00% | ~4 |
+| Fly Me to the Moon Base | 6.00% | ~4 |
+| Dusted | 6.00% | ~4 |
 | Scuttled | 5.00% | ~3 |
 | Kaijuiced | 3.00% | ~2 |
 | Lobster Blisque | 3.00% | ~2 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 500)  
+Progressed: 62 (Ranked 499)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 40 | 0 |
 | 2023-12-13 | 45 | 0 |
 | 2023-12-14 | 60 | 0 |
-| 2023-12-15 | 61 | 0 |
+| 2023-12-15 | 62 | 0 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 481)  
 Sum: 36 (Ranked 512)  

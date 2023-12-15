@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9732,9 +9732,9 @@
       "Count": 1004
     }
   ],
-  "EOS_Progressed": 127192,
+  "EOS_Progressed": 127205,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1380,
+  "EOS_NewPlayers": 1390,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35117,6 +35117,11 @@
       "Time": "2023-12-15T07:09:25.9104272+00:00",
       "NumProgressed": 127192,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T08:08:44.7693069+00:00",
+      "NumProgressed": 127205,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35558,9 +35563,9 @@
       "ID": "relationships_all_positive_mountain",
       "SetID": "64l4lke",
       "Name": "Utopia",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 763
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -35582,9 +35587,9 @@
       "ID": "run_victory_act01",
       "SetID": "64l4lke",
       "Name": "Unshackled",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 763
+      "UsersEstimate": 890
     },
     {
       "ID": "run_victory_act02",
@@ -35759,21 +35764,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127192,
+      "Progressed": 127205,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2061,
+      "Progressed": 2074,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-15T05:59:58.4890282+00:00",
-  "LastChanged_Achievements": "2023-12-15T07:09:25.9104266+00:00",
+  "LastChanged_Achievements": "2023-12-15T08:08:44.7693067+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-15T07:01:27.0217541+00:00",
-  "LastUpdate_Achievements": "2023-12-15T07:09:25.9106456+00:00"
+  "LastUpdate_Ratings": "2023-12-15T08:00:27.8619144+00:00",
+  "LastUpdate_Achievements": "2023-12-15T08:08:44.7694595+00:00"
 }

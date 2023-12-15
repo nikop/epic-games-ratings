@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -789,9 +789,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3384,
+  "EOS_Progressed": 3386,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4209,6 +4209,11 @@
       "Time": "2023-12-15T07:03:58.5373297+00:00",
       "NumProgressed": 3384,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T08:03:30.3224594+00:00",
+      "NumProgressed": 3386,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4412,7 +4417,7 @@
       "Name": "Executioner",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "Kills_Exterminator",
@@ -4458,9 +4463,9 @@
       "ID": "Kills_Vakir",
       "SetID": "3jha1np",
       "Name": "Hands-On Research",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "KoramarCompleted",
@@ -4763,21 +4768,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3384,
+      "Progressed": 3386,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3384,
+      "Progressed": 3386,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-12T16:03:26.7422514+00:00",
-  "LastChanged_Achievements": "2023-12-15T07:03:58.5373289+00:00",
+  "LastChanged_Achievements": "2023-12-15T08:03:30.3224592+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:10.0749768+00:00",
-  "LastUpdate_Ratings": "2023-12-15T07:03:25.8836322+00:00",
-  "LastUpdate_Achievements": "2023-12-15T07:03:58.5374053+00:00"
+  "LastUpdate_Ratings": "2023-12-15T08:03:05.7070935+00:00",
+  "LastUpdate_Achievements": "2023-12-15T08:03:30.3225453+00:00"
 }

@@ -10,6 +10,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | First Steps | 0.90% | ~2,169 |
 | Uncharted Territory | 0.80% | ~1,928 |
 | Getting A Glimpse | 0.70% | ~1,687 |
+| A Quick Escape | 0.70% | ~1,687 |
 | Not Touching You | 0.70% | ~18 |
 | Nothing To Lose | 0.60% | ~1,446 |
 | Heavy Hitter | 0.60% | ~1,446 |
@@ -19,7 +20,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Goodbye, Frog Friend | 0.60% | ~1,446 |
 | A Donation | 0.60% | ~1,446 |
 | Deflection | 0.60% | ~1,446 |
-| A Quick Escape | 0.60% | ~1,446 |
 | Explorer | 0.60% | ~1,446 |
 | An Offering | 0.60% | ~1,446 |
 | Ambitious Intent | 0.50% | ~1,205 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,051 (Ranked 65)  
+Progressed: 241,052 (Ranked 65)  
 Completed: 298 (0.12%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -384,7 +384,7 @@ Completed: 298 (0.12%) (Ranked 288)
 | 2023-12-12 | 240,936 | 296 |
 | 2023-12-13 | 240,984 | 298 |
 | 2023-12-14 | 241,040 | 298 |
-| 2023-12-15 | 241,051 | 298 |
+| 2023-12-15 | 241,052 | 298 |
 ## Awards
 Max (Quickly Understood Controls): 1,510  (Ranked 134)  
 Sum: 11,732 (Ranked 86)  

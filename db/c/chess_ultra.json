@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
@@ -449,7 +449,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 222051,
+  "EOS_Progressed": 222052,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1002,
   "EOS_NewCompleters": 0,
@@ -27699,6 +27699,11 @@
       "Time": "2023-12-15T07:07:03.5672375+00:00",
       "NumProgressed": 222051,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T08:05:55.0059843+00:00",
+      "NumProgressed": 222052,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -27758,7 +27763,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 122128
+      "UsersEstimate": 122129
     },
     {
       "ID": "Checkmate",
@@ -27766,7 +27771,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 66615
+      "UsersEstimate": 66616
     },
     {
       "ID": "ChessChampion",
@@ -27782,7 +27787,7 @@
       "Name": "Chop Wood",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 157656
+      "UsersEstimate": 157657
     },
     {
       "ID": "DoubleCheck",
@@ -27798,7 +27803,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 126569
+      "UsersEstimate": 126570
     },
     {
       "ID": "Elo",
@@ -28013,7 +28018,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 222051,
+      "Progressed": 222052,
       "Completed": 2
     }
   ],
@@ -28021,8 +28026,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-12-01T13:07:49.2205342+00:00",
-  "LastChanged_Achievements": "2023-12-15T07:07:03.5672371+00:00",
+  "LastChanged_Achievements": "2023-12-15T08:05:55.0059841+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:03.579995+00:00",
-  "LastUpdate_Ratings": "2023-12-15T06:59:21.0673461+00:00",
-  "LastUpdate_Achievements": "2023-12-15T07:07:03.5673898+00:00"
+  "LastUpdate_Ratings": "2023-12-15T07:58:54.3718616+00:00",
+  "LastUpdate_Achievements": "2023-12-15T08:05:55.0061116+00:00"
 }

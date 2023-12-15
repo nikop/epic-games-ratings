@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 717,
+  "EOS_Progressed": 719,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.37,
+  "EOS_Completed_Percentage": 8.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -471,6 +471,11 @@
       "Time": "2023-12-15T03:08:25.2653651+00:00",
       "NumProgressed": 717,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-15T08:06:47.7843272+00:00",
+      "NumProgressed": 719,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -482,7 +487,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 624
+      "UsersEstimate": 626
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -490,7 +495,7 @@
       "Name": "Partners?",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -498,7 +503,7 @@
       "Name": "...And Your Tax Money",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACHIEVEMENT004",
@@ -506,7 +511,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 552
+      "UsersEstimate": 554
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -514,15 +519,15 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACHIEVEMENT006",
       "SetID": "dejhjd5",
       "Name": "The Lords of the Snowpeak",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 288
     },
     {
       "ID": "ACHIEVEMENT007",
@@ -530,7 +535,7 @@
       "Name": "The Lava Mantor Wyrm",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACHIEVEMENT008",
@@ -546,7 +551,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -562,7 +567,7 @@
       "Name": "A Girl About the Town",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACHIEVEMENT012",
@@ -570,7 +575,7 @@
       "Name": "The Go-To Girl",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -594,7 +599,7 @@
       "Name": "Scavenger\u0027s Honor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACHIEVEMENT016",
@@ -602,7 +607,7 @@
       "Name": "One Mean Merc",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACHIEVEMENT017",
@@ -610,7 +615,7 @@
       "Name": "Adept, for an Acting Mayor",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACHIEVEMENT018",
@@ -624,9 +629,9 @@
       "ID": "ACHIEVEMENT019",
       "SetID": "dejhjd5",
       "Name": "Full Force - CJ",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT020",
@@ -634,7 +639,7 @@
       "Name": "Full Force - Garoo",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT021",
@@ -642,7 +647,7 @@
       "Name": "Full Force - Isha",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT022",
@@ -650,7 +655,7 @@
       "Name": "Arms Master",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT023",
@@ -658,7 +663,7 @@
       "Name": "Armor Master",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHIEVEMENT024",
@@ -666,7 +671,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -674,15 +679,15 @@
       "Name": "Hopeful Hunter",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 480
+      "UsersEstimate": 482
     },
     {
       "ID": "ACHIEVEMENT026",
       "SetID": "dejhjd5",
       "Name": "No Treasure Left Behind",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHIEVEMENT027",
@@ -690,7 +695,7 @@
       "Name": "Natural Born Monster-Killer",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACHIEVEMENT028",
@@ -698,7 +703,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -746,7 +751,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACHIEVEMENT035",
@@ -754,7 +759,7 @@
       "Name": "First Time Fishing",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -762,7 +767,7 @@
       "Name": "First Time Hunting",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -770,7 +775,7 @@
       "Name": "Rune Wall Wreckage",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACHIEVEMENT038",
@@ -778,7 +783,7 @@
       "Name": "Fishing Master",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACHIEVEMENT039",
@@ -786,7 +791,7 @@
       "Name": "Meat Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT040",
@@ -802,7 +807,7 @@
       "Name": "The Great Forest...On Foot!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACHIEVEMENT042",
@@ -810,7 +815,7 @@
       "Name": "The Quarry...On Foot!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT043",
@@ -834,7 +839,7 @@
       "Name": "The Runebarrows...On Foot!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACHIEVEMENT046",
@@ -881,15 +886,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 717,
+      "Progressed": 719,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-15T07:08:11.6570628+00:00",
+  "LastChanged_Achievements": "2023-12-15T08:06:47.784327+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:23.9280041+00:00",
-  "LastUpdate_Ratings": "2023-12-15T06:59:27.9830579+00:00",
-  "LastUpdate_Achievements": "2023-12-15T07:08:11.6571059+00:00"
+  "LastUpdate_Ratings": "2023-12-15T07:58:59.5534595+00:00",
+  "LastUpdate_Achievements": "2023-12-15T08:06:47.7843574+00:00"
 }

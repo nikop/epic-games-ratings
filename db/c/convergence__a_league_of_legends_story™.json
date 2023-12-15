@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 965,
+  "EOS_Progressed": 966,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2614,6 +2614,11 @@
       "Time": "2023-12-15T05:10:11.3588216+00:00",
       "NumProgressed": 965,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-15T08:09:25.9066401+00:00",
+      "NumProgressed": 966,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2633,7 +2638,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2657,7 +2662,7 @@
       "Name": "Right On Time",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2729,7 +2734,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "FairgroundsChests1",
@@ -2737,7 +2742,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -2817,7 +2822,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "MapCompletion1",
@@ -2865,7 +2870,7 @@
       "Name": "Time Flies",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ParryBoss",
@@ -2873,7 +2878,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ParryRepeated1",
@@ -2881,7 +2886,7 @@
       "Name": "No, Thanks!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2905,7 +2910,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "RewindDamage1",
@@ -2985,7 +2990,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "TheaterChests1",
@@ -2993,7 +2998,7 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -3009,7 +3014,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "WatcherFought",
@@ -3025,7 +3030,7 @@
       "Name": "Good Neighbor",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Zarkon1Defeated",
@@ -3033,7 +3038,7 @@
       "Name": "The Brass Boss",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3048,7 +3053,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 965,
+      "Progressed": 966,
       "Completed": 6
     }
   ],
@@ -3056,8 +3061,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-15T07:10:19.0332153+00:00",
+  "LastChanged_Achievements": "2023-12-15T08:09:25.9066398+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-15T07:02:40.3532473+00:00",
-  "LastUpdate_Achievements": "2023-12-15T07:10:19.0332602+00:00"
+  "LastUpdate_Ratings": "2023-12-15T08:02:32.1756438+00:00",
+  "LastUpdate_Achievements": "2023-12-15T08:09:25.9066881+00:00"
 }

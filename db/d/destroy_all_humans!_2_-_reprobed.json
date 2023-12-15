@@ -5,7 +5,7 @@
   "Ranking_Rating": 547,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 512,
-  "Ranking_EOS_Progress": 500,
+  "Ranking_EOS_Progress": 499,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 131,
@@ -276,7 +276,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 61,
+  "EOS_Progressed": 62,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
@@ -541,6 +541,11 @@
       "Time": "2023-12-15T06:08:27.4008754+00:00",
       "NumProgressed": 61,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T08:08:21.8069194+00:00",
+      "NumProgressed": 62,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -551,9 +556,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -583,9 +588,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -631,9 +636,9 @@
       "ID": "ACH_COMPLETE_OJ01",
       "SetID": "4n84pon",
       "Name": "Transmitting From Sol-3",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -663,9 +668,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 34,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -689,13 +694,13 @@
       "Name": "Rock of the Bay",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
       "SetID": "4n84pon",
       "Name": "Fly Me to the Moon Base",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -799,7 +804,7 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -807,7 +812,7 @@
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -839,7 +844,7 @@
       "ID": "ACH_SKATE_AWAY_FROM_SPORE",
       "SetID": "4n84pon",
       "Name": "Dusted",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -887,7 +892,7 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -904,7 +909,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 61,
+      "Progressed": 62,
       "Completed": 0
     }
   ],
@@ -912,8 +917,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-15T07:08:56.4943137+00:00",
+  "LastChanged_Achievements": "2023-12-15T08:08:21.8069191+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:04.5493724+00:00",
-  "LastUpdate_Ratings": "2023-12-15T06:59:41.7849373+00:00",
-  "LastUpdate_Achievements": "2023-12-15T07:08:56.4943385+00:00"
+  "LastUpdate_Ratings": "2023-12-15T07:59:10.0057732+00:00",
+  "LastUpdate_Achievements": "2023-12-15T08:08:21.8069481+00:00"
 }

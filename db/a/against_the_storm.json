@@ -5,7 +5,7 @@
   "Ranking_Rating": 69,
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 175,
-  "Ranking_EOS_Progress": 147,
+  "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 3739,
@@ -3449,9 +3449,9 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 18183,
+  "EOS_Progressed": 18188,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 523,
+  "EOS_NewPlayers": 528,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15769,6 +15769,11 @@
       "Time": "2023-12-15T07:04:25.0167696+00:00",
       "NumProgressed": 18183,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-15T08:03:50.4666629+00:00",
+      "NumProgressed": 18188,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15859,9 +15864,9 @@
       "ID": "Win5Years",
       "SetID": "cfbk359",
       "Name": "Homesick",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 164
+      "UsersEstimate": 182
     },
     {
       "ID": "WinFirstGame",
@@ -15893,15 +15898,15 @@
       "Name": "Ruined Armory",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "WinNearBandit",
       "SetID": "cfbk359",
       "Name": "Bandit Camp",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 164
     },
     {
       "ID": "WinNearBarren",
@@ -15973,7 +15978,7 @@
       "Name": "Levitating Monument",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "WinNearMines",
@@ -15989,7 +15994,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "WinNearOutpost",
@@ -16181,7 +16186,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "WinNearFrosts",
@@ -16189,7 +16194,7 @@
       "Name": "Frosts",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "WinNearGreed",
@@ -16197,7 +16202,7 @@
       "Name": "Land of Greed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "WinNearLibrary",
@@ -16213,7 +16218,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "WinNearPresence",
@@ -16221,7 +16226,7 @@
       "Name": "Ominous Presence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "WinNearStorms",
@@ -16229,7 +16234,7 @@
       "Name": "Gathering Storm",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -16252,15 +16257,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18183,
+      "Progressed": 18188,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-15T02:23:57.9945158+00:00",
-  "LastChanged_Achievements": "2023-12-15T07:04:25.0167691+00:00",
+  "LastChanged_Achievements": "2023-12-15T08:03:50.4666622+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-15T07:01:20.8249934+00:00",
-  "LastUpdate_Achievements": "2023-12-15T07:04:25.0168528+00:00"
+  "LastUpdate_Ratings": "2023-12-15T08:00:23.3767396+00:00",
+  "LastUpdate_Achievements": "2023-12-15T08:03:50.4667775+00:00"
 }

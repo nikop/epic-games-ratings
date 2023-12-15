@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 615,
+  "EOS_Progressed": 616,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -1755,6 +1755,11 @@
       "Time": "2023-12-15T05:09:38.3561562+00:00",
       "NumProgressed": 615,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T08:09:00.0330124+00:00",
+      "NumProgressed": 616,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1767,7 +1772,7 @@
       "Name": "The Teleprobe",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "AchvAllMemories",
@@ -1863,7 +1868,7 @@
       "Name": "Krauta is alive",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "AchvLava",
@@ -1943,7 +1948,7 @@
       "Name": "The Camp",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "AchvReachCity",
@@ -1951,7 +1956,7 @@
       "Name": "The City",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "AchvReachCondor",
@@ -1981,9 +1986,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 55,
-      "UsersEstimate": 197
+      "UsersEstimate": 191
     },
     {
       "ID": "AchvUnity",
@@ -1991,21 +1996,21 @@
       "Name": "Beyond divisions",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 615,
+      "Progressed": 616,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-15T07:09:45.8313774+00:00",
+  "LastChanged_Achievements": "2023-12-15T08:09:00.0330118+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.1415487+00:00",
-  "LastUpdate_Ratings": "2023-12-15T07:00:53.5423716+00:00",
-  "LastUpdate_Achievements": "2023-12-15T07:09:45.8314065+00:00"
+  "LastUpdate_Ratings": "2023-12-15T08:00:03.3407978+00:00",
+  "LastUpdate_Achievements": "2023-12-15T08:09:00.0330424+00:00"
 }

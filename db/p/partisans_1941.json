@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1850,
+  "EOS_Progressed": 1851,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4399,6 +4399,11 @@
       "Time": "2023-12-15T02:33:06.969114+00:00",
       "NumProgressed": 1850,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T08:08:56.4886694+00:00",
+      "NumProgressed": 1851,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4434,7 +4439,7 @@
       "Name": "The Big Bertha",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Boy",
@@ -4490,7 +4495,7 @@
       "Name": "E1M1",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "Everyone_is_here",
@@ -4498,7 +4503,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "Experienced_strategist",
@@ -4520,9 +4525,9 @@
       "ID": "Grenadier",
       "SetID": "85nb4h3",
       "Name": "Grenadier",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 796
     },
     {
       "ID": "Hard_Serpent",
@@ -4570,7 +4575,7 @@
       "Name": "No Witness",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Kultprosvet",
@@ -4649,15 +4654,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1850,
+      "Progressed": 1851,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-15T07:09:41.2695342+00:00",
+  "LastChanged_Achievements": "2023-12-15T08:08:56.4886691+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:20.564195+00:00",
-  "LastUpdate_Ratings": "2023-12-15T07:03:04.5234132+00:00",
-  "LastUpdate_Achievements": "2023-12-15T07:09:41.2695655+00:00"
+  "LastUpdate_Ratings": "2023-12-15T08:02:49.4114079+00:00",
+  "LastUpdate_Achievements": "2023-12-15T08:08:56.4887005+00:00"
 }

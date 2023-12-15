@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 887,
+  "EOS_Progressed": 888,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2007,6 +2007,11 @@
       "Time": "2023-12-15T07:03:58.190485+00:00",
       "NumProgressed": 887,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T08:03:30.0631966+00:00",
+      "NumProgressed": 888,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2075,7 +2080,7 @@
       "Name": "Pathfinder",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "CompleteChapter10",
@@ -2091,7 +2096,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "CompleteChapter12",
@@ -2147,7 +2152,7 @@
       "Name": "Who Needs Reinforcements?",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CompleteChapter18",
@@ -2163,7 +2168,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "CompleteChapter3",
@@ -2195,7 +2200,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "CompleteChapter7",
@@ -2314,14 +2319,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 887,
+      "Progressed": 888,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-15T07:03:58.1904846+00:00",
+  "LastChanged_Achievements": "2023-12-15T08:03:30.0631965+00:00",
   "LastUpdate_AppInfo": "2023-12-08T09:56:58.482812+00:00",
-  "LastUpdate_Ratings": "2023-12-15T06:58:28.6339251+00:00",
-  "LastUpdate_Achievements": "2023-12-15T07:03:58.1905794+00:00"
+  "LastUpdate_Ratings": "2023-12-15T07:58:15.08836+00:00",
+  "LastUpdate_Achievements": "2023-12-15T08:03:30.0632494+00:00"
 }

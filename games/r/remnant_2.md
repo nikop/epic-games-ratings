@@ -5,23 +5,23 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 2.00% | ~4,860 |
-| First of Many | 2.00% | ~4,860 |
-| Not Your Average Trait | 1.00% | ~2,430 |
-| Expanding Horizons | 0.90% | ~2,187 |
-| Regicide | 0.80% | ~177 |
-| Master of the Dark Arts | 0.80% | ~177 |
-| Quest for Survival | 0.70% | ~1,701 |
-| Familiar Face | 0.70% | ~1,701 |
-| Boss'n Up | 0.70% | ~1,701 |
-| Gleaming the Cube | 0.60% | ~1,458 |
-| Not So Special Now | 0.60% | ~1,458 |
-| Not a Janitor | 0.60% | ~1,458 |
-| Trait Chaser | 0.60% | ~1,458 |
+| The Killing Jar | 2.00% | ~4,862 |
+| First of Many | 2.00% | ~4,862 |
+| Not Your Average Trait | 1.00% | ~2,431 |
+| Expanding Horizons | 0.90% | ~2,188 |
+| Regicide | 0.80% | ~178 |
+| Master of the Dark Arts | 0.80% | ~178 |
+| Quest for Survival | 0.70% | ~1,702 |
+| Familiar Face | 0.70% | ~1,702 |
+| Boss'n Up | 0.70% | ~1,702 |
+| Gleaming the Cube | 0.60% | ~1,459 |
+| Not So Special Now | 0.60% | ~1,459 |
+| Not a Janitor | 0.60% | ~1,459 |
+| Equal Measures | 0.60% | ~1,459 |
+| Duality | 0.60% | ~1,459 |
+| Trait Chaser | 0.60% | ~1,459 |
 | Am I Seeing This? | 0.50% | ~1,215 |
-| Equal Measures | 0.50% | ~1,215 |
 | Blue Goddess | 0.50% | ~1,215 |
-| Duality | 0.50% | ~1,215 |
 | Top Performer | 0.50% | ~1,215 |
 | Shhh...It's a Secret | 0.50% | ~1,215 |
 | Was This Supposed To Happen? | 0.50% | ~1,215 |
@@ -35,6 +35,7 @@ Rating: 4.75 (Ranked 150)
 | The God Gambit | 0.40% | ~972 |
 | Dark Designs | 0.40% | ~972 |
 | Madman's Paradise | 0.40% | ~972 |
+| Strapped | 0.40% | ~972 |
 | Edgelord | 0.40% | ~972 |
 | The Web | 0.40% | ~972 |
 | Scrap Collector | 0.40% | ~972 |
@@ -45,7 +46,6 @@ Rating: 4.75 (Ranked 150)
 | The Agenda | 0.30% | ~729 |
 | Tall Tales | 0.30% | ~729 |
 | Bad Moon Rising | 0.30% | ~729 |
-| Strapped | 0.30% | ~729 |
 | Carnage in C-Minor | 0.30% | ~729 |
 | The Ultimate Weapon | 0.30% | ~729 |
 | No One Should Have All That Power | 0.30% | ~729 |
@@ -57,11 +57,11 @@ Rating: 4.75 (Ranked 150)
 | The Collector | 0.20% | ~486 |
 | Proving Grounds | 0.20% | ~486 |
 | Maxed Out! | 0.20% | ~486 |
-| Succession | 0.20% | ~44 |
-| You Shall Pass | 0.20% | ~44 |
+| Succession | 0.20% | ~45 |
+| You Shall Pass | 0.20% | ~45 |
 | A Foul Feast | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,982 (Ranked 63)  
+Progressed: 243,088 (Ranked 63)  
 Completed: 586 (0.24%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 586 (0.24%) (Ranked 254)
 | 2023-12-12 | 239,053 | 581 |
 | 2023-12-13 | 239,544 | 584 |
 | 2023-12-14 | 242,166 | 585 |
-| 2023-12-15 | 242,982 | 586 |
+| 2023-12-15 | 243,088 | 586 |
 ## Awards
 Max (Great Boss Battles): 2,757  (Ranked 101)  
 Sum: 6,922 (Ranked 126)  

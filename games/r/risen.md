@@ -5,18 +5,18 @@ Rating: 4.60 (Ranked 422)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 93.00% | ~70 |
-| Map reader | 77.00% | ~58 |
-| Philanthropist | 71.00% | ~53 |
-| Adventurer | 69.00% | ~52 |
-| Archer | 52.00% | ~39 |
-| The brave little tailor | 51.00% | ~38 |
-| Field hand | 47.00% | ~35 |
-| Samaritan | 44.00% | ~33 |
-| The merciful one | 40.00% | ~30 |
-| Well-to-do | 40.00% | ~30 |
-| Ladies' man | 40.00% | ~30 |
-| Ferocious wild boars | 31.00% | ~23 |
+| Beginner | 93.00% | ~71 |
+| Map reader | 76.00% | ~58 |
+| Philanthropist | 70.00% | ~53 |
+| Adventurer | 68.00% | ~52 |
+| Archer | 51.00% | ~39 |
+| The brave little tailor | 50.00% | ~38 |
+| Field hand | 46.00% | ~35 |
+| Samaritan | 45.00% | ~34 |
+| The merciful one | 39.00% | ~30 |
+| Well-to-do | 39.00% | ~30 |
+| Ladies' man | 39.00% | ~30 |
+| Ferocious wild boars | 30.00% | ~23 |
 | Idiot | 29.00% | ~22 |
 | Beast slayer | 28.00% | ~21 |
 | Wise man | 25.00% | ~19 |
@@ -27,17 +27,17 @@ Rating: 4.60 (Ranked 422)
 | Hard worker | 25.00% | ~19 |
 | The fourth triplet | 25.00% | ~19 |
 | Little hero | 24.00% | ~18 |
-| Pandora's box | 23.00% | ~17 |
+| Pandora's box | 22.00% | ~17 |
 | Ghost hunter | 21.00% | ~16 |
 | Sidelined | 21.00% | ~16 |
 | Master detective | 21.00% | ~16 |
 | Peacekeeper | 20.00% | ~15 |
-| Defender | 19.00% | ~14 |
+| Defender | 18.00% | ~14 |
 | Showdown | 17.00% | ~13 |
 | Fence | 17.00% | ~13 |
 | Workaholic | 16.00% | ~12 |
 | Safecracker | 16.00% | ~12 |
-| Master thief | 15.00% | ~11 |
+| Master thief | 14.00% | ~11 |
 | Freedom fighter | 13.00% | ~10 |
 | Titan Lord | 13.00% | ~10 |
 | King of the handymen | 13.00% | ~10 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 422)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75 (Ranked 480)  
+Progressed: 76 (Ranked 480)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,6 +103,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-11 | 67 | 0 |
 | 2023-12-13 | 70 | 0 |
 | 2023-12-14 | 75 | 0 |
+| 2023-12-15 | 76 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -149,9 +149,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1154,
+  "EOS_Progressed": 1155,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.77,
   "EosHistory": [
@@ -3864,6 +3864,11 @@
       "Time": "2023-12-15T04:05:06.3467328+00:00",
       "NumProgressed": 1154,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-15T08:05:20.1896428+00:00",
+      "NumProgressed": 1155,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3884,7 +3889,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "_03_FinishAct1",
@@ -3892,7 +3897,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3948,7 +3953,7 @@
       "Name": "Buccaneer",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "_11_Completion_40",
@@ -3964,7 +3969,7 @@
       "Name": "Privateer",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "_13_Completion_60",
@@ -4036,7 +4041,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -4060,7 +4065,7 @@
       "Name": "Jaded Judge",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -4083,7 +4088,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1154,
+      "Progressed": 1155,
       "Completed": 32
     }
   ],
@@ -4091,8 +4096,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-15T07:06:21.1723902+00:00",
+  "LastChanged_Achievements": "2023-12-15T08:05:20.1896424+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-15T06:59:35.7744061+00:00",
-  "LastUpdate_Achievements": "2023-12-15T07:06:21.1724176+00:00"
+  "LastUpdate_Ratings": "2023-12-15T07:59:05.264992+00:00",
+  "LastUpdate_Achievements": "2023-12-15T08:05:20.1896719+00:00"
 }

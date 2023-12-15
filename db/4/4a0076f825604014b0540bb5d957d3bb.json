@@ -2,9 +2,9 @@
   "ID": "4a0076f825604014b0540bb5d957d3bb",
   "Name": "The House of Da Vinci 2",
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
-  "Ranking_EOS_Progress": 478,
+  "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -421,9 +421,9 @@
       "ID": "CgkInO_K3eIdEAIQBA",
       "SetID": "6bj96in",
       "Name": "TRAINING DAY",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "CgkInO_K3eIdEAIQBQ",
@@ -493,9 +493,9 @@
       "ID": "CgkInO_K3eIdEAIQDQ",
       "SetID": "6bj96in",
       "Name": "TEMPORAL ARCHITECT",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 40,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "CgkInO_K3eIdEAIQDg",
@@ -517,9 +517,9 @@
       "ID": "CgkInO_K3eIdEAIQEA",
       "SetID": "6bj96in",
       "Name": "EAGLE EYED",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "CgkInO_K3eIdEAIQEQ",
@@ -612,8 +612,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-12-15T07:10:18.7402967+00:00",
+  "LastChanged_Achievements": "2023-12-15T08:09:25.6592254+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.9435383+00:00",
-  "LastUpdate_Ratings": "2023-12-15T06:58:39.5523157+00:00",
-  "LastUpdate_Achievements": "2023-12-15T07:10:18.7403078+00:00"
+  "LastUpdate_Ratings": "2023-12-15T07:58:23.9008411+00:00",
+  "LastUpdate_Achievements": "2023-12-15T08:09:25.6592403+00:00"
 }

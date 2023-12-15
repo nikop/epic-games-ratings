@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 422)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Thorny Situation | 0.30% | ~25 |
+| A Thorny Situation | 0.40% | ~34 |
 | Calm Sailing | 0.30% | ~25 |
 | Open the Gate! | 0.30% | ~25 |
 | Azoria Beckons | 0.20% | ~17 |

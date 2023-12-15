@@ -6,20 +6,20 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 51.00% | ~4,784 |
-| You Shall Not Pass | 51.00% | ~4,784 |
-| Peak Performance | 46.00% | ~4,315 |
+| Tutti Eroi! | 51.00% | ~4,785 |
+| You Shall Not Pass | 51.00% | ~4,785 |
+| Peak Performance | 46.00% | ~4,316 |
 | Avanti Savoia! | 44.00% | ~4,128 |
-| Mamma Mia! | 35.00% | ~3,283 |
+| Mamma Mia! | 35.00% | ~3,284 |
 | Conrad von Hotzensocks | 32.00% | ~3,002 |
 | Gabriele D'Annunzio | 32.00% | ~3,002 |
 | Silver Lining | 27.00% | ~2,533 |
 | Aurelio Baruzzi | 21.00% | ~1,970 |
 | Decimation | 20.00% | ~1,876 |
-| Donatello | 19.00% | ~1,782 |
-| Insubordination | 19.00% | ~1,782 |
-| The Italian Job | 19.00% | ~1,782 |
-| Veni Vidi Vici | 19.00% | ~1,782 |
+| Donatello | 19.00% | ~1,783 |
+| Insubordination | 19.00% | ~1,783 |
+| The Italian Job | 19.00% | ~1,783 |
+| Veni Vidi Vici | 19.00% | ~1,783 |
 | Ragazzi del '99 | 17.00% | ~1,595 |
 | Luigi Cadorna | 16.00% | ~1,501 |
 | The Lion of the Isonzo | 15.00% | ~1,407 |
@@ -33,8 +33,8 @@ Number of Ratings: 98  (23.09.2022)
 | Dante's Inferno | 9.00% | ~844 |
 | I Have the High Ground | 9.00% | ~844 |
 | Millenial | 9.00% | ~844 |
-| The Show Must Go On | 8.00% | ~750 |
-| Tosca | 8.00% | ~750 |
+| The Show Must Go On | 8.00% | ~751 |
+| Tosca | 8.00% | ~751 |
 | 12th Bottle of the Isonzo | 6.00% | ~563 |
 | The Enlightment | 6.00% | ~563 |
 | Cercatore d'Oro | 5.00% | ~469 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~38 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,381 (Ranked 171)  
+Progressed: 9,382 (Ranked 171)  
 Completed: 10 (0.11%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 10 (0.11%) (Ranked 290)
 | 2023-12-12 | 9,345 | 10 |
 | 2023-12-13 | 9,357 | 10 |
 | 2023-12-14 | 9,378 | 10 |
-| 2023-12-15 | 9,381 | 10 |
+| 2023-12-15 | 9,382 | 10 |
 ## Awards
 Max (Diverse Characters): 39  (Ranked 465)  
 Sum: 327 (Ranked 364)  
