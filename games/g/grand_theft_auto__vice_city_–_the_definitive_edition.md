@@ -5,33 +5,33 @@ Rating: 4.53 (Ranked 547)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~5,418 |
-| Greasy Palms | 42.00% | ~4,947 |
-| South American Connection | 26.00% | ~3,063 |
-| Life of the Party | 21.00% | ~2,474 |
-| Big Heat from Little Havana | 15.00% | ~1,767 |
-| Chauffeur | 15.00% | ~1,767 |
-| Tommy Two-Wheels | 15.00% | ~1,767 |
-| Salutations My Little Friend | 11.00% | ~1,296 |
-| Iron-y | 10.00% | ~1,178 |
-| Gun for Hire | 9.00% | ~1,060 |
-| Mischief Managed | 9.00% | ~1,060 |
+| Legal Counsel | 46.00% | ~5,423 |
+| Greasy Palms | 42.00% | ~4,952 |
+| South American Connection | 26.00% | ~3,065 |
+| Life of the Party | 21.00% | ~2,476 |
+| Big Heat from Little Havana | 15.00% | ~1,768 |
+| Chauffeur | 15.00% | ~1,768 |
+| Tommy Two-Wheels | 15.00% | ~1,768 |
+| Salutations My Little Friend | 11.00% | ~1,297 |
+| Iron-y | 10.00% | ~1,179 |
+| Gun for Hire | 9.00% | ~1,061 |
+| Mischief Managed | 9.00% | ~1,061 |
 | Vice City Mogul | 7.00% | ~825 |
 | Bloodstained Hands | 7.00% | ~825 |
 | Catch Me if You Can | 6.00% | ~707 |
-| Not my First Time | 5.00% | ~589 |
-| Grand Theft Auto | 5.00% | ~589 |
-| High Quality H2O | 4.00% | ~471 |
-| Pie Guy | 4.00% | ~471 |
-| Running Rampant | 3.00% | ~353 |
-| Point A to Point B | 3.00% | ~353 |
-| Bull in a China Shop | 3.00% | ~353 |
-| Somebody Call the Wambulance? | 3.00% | ~353 |
-| Just Like the Real Thing | 3.00% | ~353 |
-| Don't Need Roads | 3.00% | ~353 |
-| City Sleuth | 3.00% | ~353 |
+| Not my First Time | 5.00% | ~590 |
+| Grand Theft Auto | 5.00% | ~590 |
+| High Quality H2O | 4.00% | ~472 |
+| Pie Guy | 4.00% | ~472 |
+| Running Rampant | 3.00% | ~354 |
+| Point A to Point B | 3.00% | ~354 |
+| Bull in a China Shop | 3.00% | ~354 |
+| Somebody Call the Wambulance? | 3.00% | ~354 |
+| Just Like the Real Thing | 3.00% | ~354 |
+| Don't Need Roads | 3.00% | ~354 |
+| Take the Cannoli | 3.00% | ~354 |
+| City Sleuth | 3.00% | ~354 |
 | One is Better Than Two | 2.00% | ~236 |
-| Take the Cannoli | 2.00% | ~236 |
 | Chopper’d Up | 2.00% | ~236 |
 | Born in the 80’s | 1.00% | ~118 |
 | Keepie-Uppy Okie Dokie | 1.00% | ~118 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 547)
 | Done it All | 0.90% | ~106 |
 | Kingpin | 0.60% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,779 (Ranked 164)  
+Progressed: 11,790 (Ranked 164)  
 Completed: 68 (0.58%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 68 (0.58%) (Ranked 198)
 | 2023-12-12 | 11,363 | 67 |
 | 2023-12-13 | 11,448 | 68 |
 | 2023-12-14 | 11,726 | 68 |
-| 2023-12-15 | 11,779 | 68 |
+| 2023-12-15 | 11,790 | 68 |
 ## Awards
 Max (Great Boss Battles): 121  (Ranked 348)  
 Sum: 121 (Ranked 443)  

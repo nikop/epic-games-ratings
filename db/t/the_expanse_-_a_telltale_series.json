@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16301,
+  "EOS_Progressed": 16305,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13867,6 +13867,11 @@
       "Time": "2023-12-15T05:08:09.853947+00:00",
       "NumProgressed": 16301,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-15T06:06:20.0420418+00:00",
+      "NumProgressed": 16305,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13911,7 +13916,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2119
+      "UsersEstimate": 2120
     },
     {
       "ID": "14",
@@ -13981,9 +13986,9 @@
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1304
     },
     {
       "ID": "22",
@@ -14119,7 +14124,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "32",
@@ -14158,13 +14163,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16301,
+      "Progressed": 16305,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2255,
+      "Progressed": 2259,
       "Completed": 888
     }
   ],
@@ -14172,8 +14177,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-15T05:08:09.8539466+00:00",
+  "LastChanged_Achievements": "2023-12-15T06:06:20.0420415+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-15T04:57:43.0326611+00:00",
-  "LastUpdate_Achievements": "2023-12-15T05:08:09.8540387+00:00"
+  "LastUpdate_Ratings": "2023-12-15T05:57:34.8361178+00:00",
+  "LastUpdate_Achievements": "2023-12-15T06:06:20.0421256+00:00"
 }

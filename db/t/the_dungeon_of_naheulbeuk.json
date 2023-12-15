@@ -5,10 +5,10 @@
   "Ranking_Rating": 454,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 327,
-  "Ranking_EOS_Progress": 63,
+  "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1503,7 +1503,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 242791,
+  "EOS_Progressed": 242793,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1072,
   "EOS_NewCompleters": 0,
@@ -22328,6 +22328,11 @@
       "Time": "2023-12-15T05:10:11.450438+00:00",
       "NumProgressed": 242791,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-15T06:09:24.7238841+00:00",
+      "NumProgressed": 242793,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -22387,7 +22392,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16995
+      "UsersEstimate": 16996
     },
     {
       "ID": "Chapter2",
@@ -22771,7 +22776,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14567
+      "UsersEstimate": 14568
     },
     {
       "ID": "ElfEpic",
@@ -23042,21 +23047,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 242791,
+      "Progressed": 242793,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 242791,
+      "Progressed": 242793,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-12T21:57:44.3633431+00:00",
-  "LastChanged_Achievements": "2023-12-15T05:10:11.4504378+00:00",
+  "LastChanged_Achievements": "2023-12-15T06:09:24.7238839+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.1177484+00:00",
-  "LastUpdate_Ratings": "2023-12-15T04:59:15.9231673+00:00",
-  "LastUpdate_Achievements": "2023-12-15T05:10:11.4505842+00:00"
+  "LastUpdate_Ratings": "2023-12-15T05:58:37.7395057+00:00",
+  "LastUpdate_Achievements": "2023-12-15T06:09:24.7240214+00:00"
 }

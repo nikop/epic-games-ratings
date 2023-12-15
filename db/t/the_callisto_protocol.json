@@ -6,9 +6,9 @@
   "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 150,
-  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1613,9 +1613,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 16885,
+  "EOS_Progressed": 16891,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -9683,6 +9683,11 @@
       "Time": "2023-12-15T05:09:29.0100506+00:00",
       "NumProgressed": 16885,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-12-15T06:08:55.2686185+00:00",
+      "NumProgressed": 16891,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 47,
@@ -9710,7 +9715,7 @@
       "Name": "Giving Back",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -9718,7 +9723,7 @@
       "Name": "You Need a Gun",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "DISARM_ENEMY",
@@ -9758,7 +9763,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -9790,7 +9795,7 @@
       "Name": "Parole Denied",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -9798,7 +9803,7 @@
       "Name": "Get a Grip",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -9830,7 +9835,7 @@
       "Name": "Terminated",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -9870,7 +9875,7 @@
       "Name": "Paper Jams",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "SHARE_PHOTO",
@@ -9918,7 +9923,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -10022,7 +10027,7 @@
       "Name": "Information Overload",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "FIND_ESCAPE_POD",
@@ -10038,7 +10043,7 @@
       "Name": "One Last Job",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "KILL_BIOBOT",
@@ -10069,13 +10074,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16885,
+      "Progressed": 16891,
       "Completed": 81
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4811,
+      "Progressed": 4817,
       "Completed": 29
     }
   ],
@@ -10083,8 +10088,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-15T01:52:07.9926426+00:00",
-  "LastChanged_Achievements": "2023-12-15T05:09:29.0100502+00:00",
+  "LastChanged_Achievements": "2023-12-15T06:08:55.2686181+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.8352858+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:03:25.3478132+00:00",
-  "LastUpdate_Achievements": "2023-12-15T05:09:29.0101038+00:00"
+  "LastUpdate_Ratings": "2023-12-15T06:03:04.7602968+00:00",
+  "LastUpdate_Achievements": "2023-12-15T06:08:55.2686743+00:00"
 }

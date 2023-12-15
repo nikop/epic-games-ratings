@@ -6,30 +6,30 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 63.00% | ~217 |
-| Cartographer | 56.00% | ~193 |
-| A Strange Artefact | 52.00% | ~179 |
-| Insomnia | 47.00% | ~162 |
+| The Adventure Begins | 63.00% | ~218 |
+| Cartographer | 56.00% | ~194 |
+| A Strange Artefact | 52.00% | ~180 |
+| Insomnia | 47.00% | ~163 |
 | Lost & Found & Lost Again | 42.00% | ~145 |
 | From Whence we Came | 42.00% | ~145 |
 | Fire and Flood | 40.00% | ~138 |
 | Spooky! | 37.00% | ~128 |
-| Shennong Herbalist | 34.00% | ~117 |
-| Treasure Hunt | 34.00% | ~117 |
-| Good Mama | 32.00% | ~110 |
+| Shennong Herbalist | 34.00% | ~118 |
+| Treasure Hunt | 34.00% | ~118 |
+| Good Mama | 32.00% | ~111 |
 | O Captain My Captain | 31.00% | ~107 |
-| Taxonomist | 28.00% | ~97 |
 | Plunderer | 28.00% | ~97 |
+| Taxonomist | 27.00% | ~93 |
 | Traveller | 25.00% | ~86 |
 | Uncertain Loyalties | 25.00% | ~86 |
 | Nahua Seeker | 24.00% | ~83 |
-| Roll to Save | 23.00% | ~79 |
-| Veteran Explorer | 21.00% | ~72 |
+| Roll to Save | 23.00% | ~80 |
+| Veteran Explorer | 21.00% | ~73 |
 | Red Flag Pirate | 19.00% | ~66 |
 | Iron Man | 17.00% | ~59 |
-| For the Club! | 17.00% | ~59 |
-| Shortening of the Way | 17.00% | ~59 |
 | A Gentle Beast | 17.00% | ~59 |
+| For the Club! | 16.00% | ~55 |
+| Shortening of the Way | 16.00% | ~55 |
 | Practical Palaeontology | 16.00% | ~55 |
 | Dapper | 16.00% | ~55 |
 | Adventurer | 15.00% | ~52 |
@@ -38,9 +38,9 @@ Number of Ratings: 20  (23.09.2022)
 | Plays Well With Others | 14.00% | ~48 |
 | The Director is Dead | 13.00% | ~45 |
 | Discovery | 13.00% | ~45 |
-| Very Classy | 12.00% | ~41 |
+| Very Classy | 12.00% | ~42 |
 | Under the Table | 11.00% | ~38 |
-| It's Complicated | 10.00% | ~34 |
+| It's Complicated | 10.00% | ~35 |
 | Cold Blood, Warm Heart | 9.00% | ~31 |
 | Errand Runner | 9.00% | ~31 |
 | SCHMETTERLING | 8.00% | ~28 |
@@ -50,7 +50,7 @@ Number of Ratings: 20  (23.09.2022)
 | The Workshop | 7.00% | ~24 |
 | Zookeeper | 6.00% | ~21 |
 | Islander Understanding | 6.00% | ~21 |
-| A Paris Sunset | 6.00% | ~21 |
+| A Paris Sunset | 5.00% | ~17 |
 | The Director Perseveres | 5.00% | ~17 |
 | The Round Table | 5.00% | ~17 |
 | X Marks the Spot | 4.00% | ~14 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.90% | ~3 |
 | Now I've Seen It All | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 345 (Ranked 349)  
+Progressed: 346 (Ranked 349)  
 Completed: 1 (0.29%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,6 +120,7 @@ Completed: 1 (0.29%) (Ranked 246)
 | 2023-12-09 | 342 | 1 |
 | 2023-12-13 | 343 | 1 |
 | 2023-12-14 | 345 | 1 |
+| 2023-12-15 | 346 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -3,12 +3,12 @@
   "Name": "Verdun",
   "ProductSlug": "verdun",
   "Ranking_Rating": 547,
-  "Ranking_Popularity": 361,
+  "Ranking_Popularity": 362,
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 353,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1895,9 +1895,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 66359,
+  "EOS_Progressed": 66360,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28155,6 +28155,11 @@
       "Time": "2023-12-15T04:05:26.0817262+00:00",
       "NumProgressed": 66359,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-15T06:05:19.4890527+00:00",
+      "NumProgressed": 66360,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -28166,7 +28171,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 36497
+      "UsersEstimate": 36498
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -28398,7 +28403,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17253
+      "UsersEstimate": 17254
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -28454,7 +28459,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 41806
+      "UsersEstimate": 41807
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -28534,7 +28539,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 51760
+      "UsersEstimate": 51761
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -28637,15 +28642,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 66359,
+      "Progressed": 66360,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-13T22:59:35.2096179+00:00",
-  "LastChanged_Achievements": "2023-12-15T05:06:42.165127+00:00",
+  "LastChanged_Achievements": "2023-12-15T06:05:19.4890525+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:19.0626719+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:00:19.7137741+00:00",
-  "LastUpdate_Achievements": "2023-12-15T05:06:42.1652513+00:00"
+  "LastUpdate_Ratings": "2023-12-15T05:59:19.0491222+00:00",
+  "LastUpdate_Achievements": "2023-12-15T06:05:19.4891851+00:00"
 }

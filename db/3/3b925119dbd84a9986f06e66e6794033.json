@@ -4,8 +4,8 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 310,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1099,6 +1099,11 @@
       "Time": "2023-12-15T02:33:25.7897448+00:00",
       "NumProgressed": 309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T06:09:17.2942788+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1167,7 +1172,7 @@
       "Name": "Hypnotorious: Masterminds",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "RISKYTEXT_BOOST_VOTE",
@@ -1239,7 +1244,7 @@
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "TKO2_DOMINO",
@@ -1247,7 +1252,7 @@
       "Name": "Tee K.O. 2: Domino",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "TKO2_DRAGONS_FAVORITE",
@@ -1270,14 +1275,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 310,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-15T05:10:00.7108929+00:00",
+  "LastChanged_Achievements": "2023-12-15T06:09:17.2942786+00:00",
   "LastUpdate_AppInfo": "2023-12-09T01:42:08.195524+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:02:42.4197695+00:00",
-  "LastUpdate_Achievements": "2023-12-15T05:10:00.7109101+00:00"
+  "LastUpdate_Ratings": "2023-12-15T06:00:26.415843+00:00",
+  "LastUpdate_Achievements": "2023-12-15T06:09:17.2942935+00:00"
 }

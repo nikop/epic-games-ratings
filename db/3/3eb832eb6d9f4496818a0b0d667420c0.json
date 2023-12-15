@@ -4,8 +4,8 @@
   "ProductSlug": "dnf-duel-07d055",
   "Ranking_EOS_Progress": 603,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-12-18T08:00:00+00:00",
     "PcReleaseDate": "2022-06-28T07:00:00+00:00",
@@ -218,9 +218,9 @@
       "ID": "ACHIEVEMENT_018",
       "SetID": "dge1ook",
       "Name": "Unsinkable",
-      "Percentage": 38,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_019",
@@ -432,8 +432,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
-  "LastChanged_Achievements": "2023-12-15T05:04:43.8810512+00:00",
+  "LastChanged_Achievements": "2023-12-15T06:03:57.5091157+00:00",
   "LastUpdate_AppInfo": "2023-12-12T09:57:05.6253168+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:02:59.1039891+00:00",
-  "LastUpdate_Achievements": "2023-12-15T05:04:43.8810852+00:00"
+  "LastUpdate_Ratings": "2023-12-15T06:02:47.3664195+00:00",
+  "LastUpdate_Achievements": "2023-12-15T06:03:57.5091449+00:00"
 }

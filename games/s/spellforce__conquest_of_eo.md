@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Enough rooms to swing a cat | 91.00% | ~43 |
-| Home Sweet Home | 91.00% | ~43 |
-| First to the post | 89.00% | ~42 |
-| A kind of Magic | 85.00% | ~40 |
-| Connected | 81.00% | ~38 |
-| Expansion | 79.00% | ~37 |
-| Harvest Time | 70.00% | ~33 |
-| Mine! | 70.00% | ~33 |
-| Artificer's Apprentice | 66.00% | ~31 |
-| Get out of here! | 57.00% | ~27 |
-| Fly the friendly Sky | 55.00% | ~26 |
-| Necromancer's Apprentice | 53.00% | ~25 |
-| The Circle | 47.00% | ~22 |
-| Friend of Lyraine | 47.00% | ~22 |
-| Alchemist's Apprentice | 45.00% | ~21 |
+| Enough rooms to swing a cat | 90.00% | ~43 |
+| Home Sweet Home | 90.00% | ~43 |
+| First to the post | 88.00% | ~42 |
+| A kind of Magic | 83.00% | ~40 |
+| Connected | 79.00% | ~38 |
+| Expansion | 77.00% | ~37 |
+| Harvest Time | 69.00% | ~33 |
+| Mine! | 69.00% | ~33 |
+| Artificer's Apprentice | 65.00% | ~31 |
+| Get out of here! | 56.00% | ~27 |
+| Fly the friendly Sky | 54.00% | ~26 |
+| Necromancer's Apprentice | 52.00% | ~25 |
+| The Circle | 46.00% | ~22 |
+| Friend of Lyraine | 46.00% | ~22 |
+| Alchemist's Apprentice | 44.00% | ~21 |
 | Redecorating | 38.00% | ~18 |
-| Bad JuJu | 30.00% | ~14 |
-| Slave to the rhythm | 28.00% | ~13 |
-| Friend of Sevenkeeps | 26.00% | ~12 |
+| Bad JuJu | 29.00% | ~14 |
+| Slave to the rhythm | 27.00% | ~13 |
+| Friend of Sevenkeeps | 25.00% | ~12 |
 | Castle Meldec | 21.00% | ~10 |
 | Sevenkeeps Seat of Kings | 21.00% | ~10 |
 | Friend of Gillyshire | 19.00% | ~9 |
@@ -38,21 +38,21 @@
 | Friend of Silver Drift Hollow | 13.00% | ~6 |
 | Friend of Windholme | 13.00% | ~6 |
 | Magic Academy | 13.00% | ~6 |
-| Defeat Uram | 11.00% | ~5 |
-| Lore's Tale | 11.00% | ~5 |
-| Yngrid's Tale | 11.00% | ~5 |
-| Silver Drift Hollow Mine | 11.00% | ~5 |
-| Mage Teacher | 11.00% | ~5 |
-| A Master of Magic | 11.00% | ~5 |
-| A Joke | 11.00% | ~5 |
-| Get to the Airship! | 9.00% | ~4 |
-| Defeat Hokan | 9.00% | ~4 |
-| Defeat Isgrimm | 9.00% | ~4 |
-| Defeat Undergast | 9.00% | ~4 |
-| Elynn's Tale | 9.00% | ~4 |
-| Crypt of the Revenant | 9.00% | ~4 |
-| Balanced | 9.00% | ~4 |
-| Friend of Grey Dusk Vale | 9.00% | ~4 |
+| Defeat Uram | 10.00% | ~5 |
+| Lore's Tale | 10.00% | ~5 |
+| Yngrid's Tale | 10.00% | ~5 |
+| Silver Drift Hollow Mine | 10.00% | ~5 |
+| Mage Teacher | 10.00% | ~5 |
+| A Master of Magic | 10.00% | ~5 |
+| A Joke | 10.00% | ~5 |
+| Get to the Airship! | 8.00% | ~4 |
+| Defeat Hokan | 8.00% | ~4 |
+| Defeat Isgrimm | 8.00% | ~4 |
+| Defeat Undergast | 8.00% | ~4 |
+| Elynn's Tale | 8.00% | ~4 |
+| Crypt of the Revenant | 8.00% | ~4 |
+| Balanced | 8.00% | ~4 |
+| Friend of Grey Dusk Vale | 8.00% | ~4 |
 | Defeat Ianna | 6.00% | ~3 |
 | Defeat Rohen | 6.00% | ~3 |
 | Defeat Yria | 6.00% | ~3 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47 (Ranked 518)  
+Progressed: 48 (Ranked 518)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,6 +108,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-10 | 42 | 0 |
 | 2023-12-13 | 43 | 0 |
 | 2023-12-14 | 47 | 0 |
+| 2023-12-15 | 48 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

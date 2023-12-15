@@ -4,8 +4,8 @@
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
   "Ranking_EOS_Progress": 660,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2016-08-23T05:00:00+00:00",
@@ -168,9 +168,9 @@
       "ID": "NEW_ACHIEVEMENT_1_21",
       "SetID": "7on801h",
       "Name": "Ruthless Efficiency",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_22",
@@ -725,8 +725,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-15T05:04:21.3684562+00:00",
+  "LastChanged_Achievements": "2023-12-15T06:03:41.8965707+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184844+00:00",
-  "LastUpdate_Ratings": "2023-12-15T04:57:55.7635761+00:00",
-  "LastUpdate_Achievements": "2023-12-15T05:04:21.3685559+00:00"
+  "LastUpdate_Ratings": "2023-12-15T05:57:43.3969373+00:00",
+  "LastUpdate_Achievements": "2023-12-15T06:03:41.8966364+00:00"
 }

@@ -1,7 +1,7 @@
 # Lords of the Fallen
 [Store](https://store.epicgames.com/en-US/p/lords-of-the-fallen)  
 [View Rawdata](../../db/t/the_lords_of_the_fallen.json)  
-Rating: 4.21 (Ranked 918)  
+Rating: 4.20 (Ranked 928)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,7 +12,6 @@ Rating: 4.21 (Ranked 918)
 | No Mercy | 0.30% | ~10 |
 | Shades of Violence | 0.30% | ~10 |
 | Thriving in Darkness | 0.30% | ~10 |
-| The Past Shapes the Present | 0.30% | ~10 |
 | Weapon Collector | 0.20% | ~6 |
 | Ammunition Collector | 0.20% | ~6 |
 | Throwable Collector | 0.20% | ~6 |
@@ -29,6 +28,7 @@ Rating: 4.21 (Ranked 918)
 | Moving On | 0.20% | ~6 |
 | Essence of Death | 0.20% | ~6 |
 | Seasoned | 0.20% | ~6 |
+| The Past Shapes the Present | 0.20% | ~6 |
 | A Rest Among the Dead | 0.20% | ~6 |
 | Wayfarer | 0.10% | ~3 |
 | Ironclad | 0.10% | ~3 |
@@ -69,7 +69,7 @@ Rating: 4.21 (Ranked 918)
 | Lingering Moments | 0.10% | ~3 |
 | A Trace of Venom | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,196 (Ranked 214)  
+Progressed: 3,213 (Ranked 214)  
 Completed: 2 (0.06%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 2 (0.06%) (Ranked 318)
 | 2023-12-12 | 2,347 | 2 |
 | 2023-12-13 | 2,475 | 2 |
 | 2023-12-14 | 3,035 | 2 |
-| 2023-12-15 | 3,196 | 2 |
+| 2023-12-15 | 3,213 | 2 |
 ## Awards
 Max (Character Customization): 197  (Ranked 294)  
 Sum: 513 (Ranked 328)  

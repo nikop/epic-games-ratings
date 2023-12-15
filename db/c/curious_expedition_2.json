@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 345,
+  "EOS_Progressed": 346,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -350,6 +350,11 @@
       "Time": "2023-12-14T14:10:11.484821+00:00",
       "NumProgressed": 345,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T06:09:41.4573195+00:00",
+      "NumProgressed": 346,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -391,9 +396,9 @@
       "ID": "ach-ascension-complete",
       "SetID": "17ih7ma",
       "Name": "A Paris Sunset",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 17
     },
     {
       "ID": "ach-ascension-complete-year",
@@ -497,7 +502,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ach-campaign-story2",
@@ -529,7 +534,7 @@
       "Name": "Roll to Save",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ach-discover-locations",
@@ -537,7 +542,7 @@
       "Name": "Cartographer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ach-discover-locations-high",
@@ -585,7 +590,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ach-hardExpeditions",
@@ -601,15 +606,15 @@
       "Name": "It\u0027s Complicated",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach-joinClubChallenge",
       "SetID": "17ih7ma",
       "Name": "For the Club!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 55
     },
     {
       "ID": "ach-keepHighStanding",
@@ -623,9 +628,9 @@
       "ID": "ach-kill-animal-groups",
       "SetID": "17ih7ma",
       "Name": "Taxonomist",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "ach-kill-hyenas",
@@ -639,9 +644,9 @@
       "ID": "ach-kill-sandworm",
       "SetID": "17ih7ma",
       "Name": "Shortening of the Way",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 55
     },
     {
       "ID": "ach-learn-traits",
@@ -649,7 +654,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -681,7 +686,7 @@
       "Name": "Veteran Explorer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ach-meetGhost",
@@ -705,7 +710,7 @@
       "Name": "Insomnia",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ach-pacifist-goals",
@@ -753,7 +758,7 @@
       "Name": "Good Mama",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ach-redElk",
@@ -809,7 +814,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -817,7 +822,7 @@
       "Name": "Very Classy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ach-villageQuests",
@@ -840,7 +845,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 345,
+      "Progressed": 346,
       "Completed": 1
     }
   ],
@@ -848,8 +853,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-15T05:10:34.8237667+00:00",
+  "LastChanged_Achievements": "2023-12-15T06:09:41.4573192+00:00",
   "LastUpdate_AppInfo": "2023-12-09T12:59:37.4155215+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:01:32.0515379+00:00",
-  "LastUpdate_Achievements": "2023-12-15T05:10:34.8238374+00:00"
+  "LastUpdate_Ratings": "2023-12-15T06:00:06.0245675+00:00",
+  "LastUpdate_Achievements": "2023-12-15T06:09:41.4573648+00:00"
 }

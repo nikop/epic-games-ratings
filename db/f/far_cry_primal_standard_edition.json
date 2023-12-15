@@ -2,13 +2,13 @@
   "ID": "larkspur",
   "Name": "Far Cry Primal Standard Edition",
   "ProductSlug": "far-cry-primal",
-  "Ranking_Rating": 200,
+  "Ranking_Rating": 215,
   "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 502,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2016-03-01T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.71,
+  "Rating": 4.7,
   "NumberOfRatings": 463,
   "RatingHistory": [
     {
@@ -1565,10 +1565,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 702,
       "NumberOfAwardsMax": 483
+    },
+    {
+      "Time": "2023-12-15T05:59:37.0410685+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 703,
+      "NumberOfAwardsMax": 483
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 702,
+  "NumberOfAwards": 703,
   "NumberOfAwardsMax": 483,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1612,7 +1618,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1638,8 +1644,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
-  "LastChanged": "2023-12-13T21:59:09.7327237+00:00",
+  "LastChanged": "2023-12-15T05:59:37.0410683+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:18.475219+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:00:47.5432719+00:00",
-  "LastUpdate_Achievements": "2023-12-15T05:05:39.7281652+00:00"
+  "LastUpdate_Ratings": "2023-12-15T05:59:37.0410688+00:00",
+  "LastUpdate_Achievements": "2023-12-15T06:04:36.5325503+00:00"
 }

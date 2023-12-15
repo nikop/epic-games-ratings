@@ -16,7 +16,7 @@
 | Mr. Want It All | 16.00% | ~20 |
 | Phew! | 16.00% | ~20 |
 | Toe to Toe | 15.00% | ~18 |
-| The Hidden Secret | 13.00% | ~16 |
+| The Hidden Secret | 14.00% | ~17 |
 | The Abyss Conqueror | 11.00% | ~13 |
 | Space Warrior: Prologue | 10.00% | ~12 |
 | The Fortress Conqueror | 9.00% | ~11 |

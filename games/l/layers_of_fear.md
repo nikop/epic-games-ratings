@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 78.00% | ~91 |
-| Wanderer | 73.00% | ~85 |
-| A piece of the story | 56.00% | ~66 |
-| Do what you have to | 44.00% | ~51 |
-| It's covered up for a reason | 43.00% | ~50 |
-| Scraps of love | 42.00% | ~49 |
-| The artist’s impression | 42.00% | ~49 |
-| Refuse to look | 36.00% | ~42 |
-| Sign of weakness | 36.00% | ~42 |
-| Finished it | 31.00% | ~36 |
+| Something important | 78.00% | ~93 |
+| Wanderer | 71.00% | ~84 |
+| A piece of the story | 56.00% | ~67 |
+| It's covered up for a reason | 43.00% | ~51 |
+| Do what you have to | 43.00% | ~51 |
+| Scraps of love | 41.00% | ~49 |
+| The artist’s impression | 41.00% | ~49 |
+| Refuse to look | 35.00% | ~42 |
+| Sign of weakness | 35.00% | ~42 |
+| Finished it | 30.00% | ~36 |
 | Face your fears | 28.00% | ~33 |
 | Whispers long forgotten | 17.00% | ~20 |
-| Playtime | 14.00% | ~16 |
-| Tough conversation | 14.00% | ~16 |
 | Debut | 13.00% | ~15 |
+| Playtime | 13.00% | ~15 |
 | The art of movement | 13.00% | ~15 |
 | The tragedy unfolds | 13.00% | ~15 |
+| Tough conversation | 13.00% | ~15 |
 | A Slice of Life | 12.00% | ~14 |
 | First steps | 12.00% | ~14 |
 | A new way | 11.00% | ~13 |
@@ -29,8 +29,8 @@
 | Breaking free | 10.00% | ~12 |
 | Lights! Camera! Action! | 10.00% | ~12 |
 | True Reflection | 10.00% | ~12 |
-| Casting Finished | 8.00% | ~9 |
-| Heavy Burden | 8.00% | ~9 |
+| Casting Finished | 8.00% | ~10 |
+| Heavy Burden | 8.00% | ~10 |
 | Fisherman | 7.00% | ~8 |
 | We Are Not Alone | 5.00% | ~6 |
 | The Perfect Storm | 4.00% | ~5 |
@@ -47,9 +47,9 @@
 | A Mosaic of Misery | 3.00% | ~4 |
 | The Big Picture | 2.00% | ~2 |
 | In One Take | 2.00% | ~2 |
-| Rocket Science | 0.90% | ~1 |
-| The Tree and the Apple | 0.90% | ~1 |
-| Sword of the Serpent | 0.90% | ~1 |
+| Rocket Science | 0.80% | ~1 |
+| The Tree and the Apple | 0.80% | ~1 |
+| Sword of the Serpent | 0.80% | ~1 |
 | You Can’t Handle the Truth | 0.00% | ~0 |
 | The whole story | 0.00% | ~0 |
 | You might have a problem | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 434)  
+Progressed: 119 (Ranked 433)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,3 +110,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-09 | 108 | 0 |
 | 2023-12-13 | 109 | 0 |
 | 2023-12-14 | 117 | 0 |
+| 2023-12-15 | 119 | 0 |

@@ -5,8 +5,8 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 11.00% | ~1,857 |
-| Paper Jams | 10.00% | ~1,688 |
+| Get a Grip | 11.00% | ~1,858 |
+| Paper Jams | 10.00% | ~1,689 |
 | Flesh Wound | 9.00% | ~1,520 |
 | Float Like A Butterfly | 8.00% | ~1,351 |
 | The Outer Way | 8.00% | ~1,351 |
@@ -22,21 +22,21 @@ Rating: 4.19 (Ranked 939)
 | Full Circle | 6.00% | ~1,013 |
 | Power Up | 6.00% | ~1,013 |
 | Keep Fighting | 6.00% | ~289 |
-| You Need a Gun | 5.00% | ~844 |
-| I Do Belong Here | 5.00% | ~844 |
-| Terminated | 5.00% | ~844 |
-| What Lies Beneath | 5.00% | ~844 |
+| You Need a Gun | 5.00% | ~845 |
+| I Do Belong Here | 5.00% | ~845 |
+| Terminated | 5.00% | ~845 |
+| What Lies Beneath | 5.00% | ~845 |
 | It's Time | 5.00% | ~241 |
-| Giving Back | 4.00% | ~675 |
+| Giving Back | 4.00% | ~676 |
 | The Commonality | 3.00% | ~507 |
-| One Last Job | 3.00% | ~144 |
+| One Last Job | 3.00% | ~145 |
 | In Striking Distance | 2.00% | ~338 |
 | Big Spender | 1.00% | ~48 |
 | This Isn't About Escape | 1.00% | ~48 |
 | Armed to the Teeth | 0.90% | ~43 |
 | Grim Reaper | 0.80% | ~135 |
-| Parole Denied | 0.80% | ~38 |
-| Information Overload | 0.80% | ~38 |
+| Parole Denied | 0.80% | ~39 |
+| Information Overload | 0.80% | ~39 |
 | Mugshot | 0.60% | ~101 |
 | Instigator | 0.60% | ~29 |
 | Quick Pick | 0.60% | ~29 |
@@ -53,8 +53,8 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~5 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,885 (Ranked 150)  
-Completed: 81 (0.48%) (Ranked 213)  
+Progressed: 16,891 (Ranked 150)  
+Completed: 81 (0.48%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -284,7 +284,7 @@ Completed: 81 (0.48%) (Ranked 213)
 | 2023-12-11 | 16,525 | 81 |
 | 2023-12-13 | 16,561 | 81 |
 | 2023-12-14 | 16,823 | 81 |
-| 2023-12-15 | 16,885 | 81 |
+| 2023-12-15 | 16,891 | 81 |
 ## Awards
 Max (Quickly Understood Controls): 85  (Ranked 391)  
 Sum: 508 (Ranked 329)  

@@ -1,23 +1,23 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.57 (Ranked 484)  
+Rating: 4.55 (Ranked 515)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 5.00% | ~4,047 |
-| I've Had Enough! | 4.00% | ~3,238 |
-| Fists, Fury & a lot of Rage | 3.00% | ~2,428 |
-| All For One and One For All | 2.00% | ~1,619 |
-| Seasoned Fighter | 2.00% | ~1,619 |
-| Home Sweet Home? | 2.00% | ~1,619 |
-| A New Age | 1.00% | ~809 |
-| Oh Baby, A Triple | 0.80% | ~648 |
-| Symbiotic | 0.80% | ~648 |
-| Battle Hardened | 0.50% | ~405 |
-| Master of Disguise | 0.50% | ~405 |
+| All Grown Up! | 5.00% | ~4,055 |
+| I've Had Enough! | 4.00% | ~3,244 |
+| Fists, Fury & a lot of Rage | 3.00% | ~2,433 |
+| All For One and One For All | 2.00% | ~1,622 |
+| Seasoned Fighter | 2.00% | ~1,622 |
+| Home Sweet Home? | 2.00% | ~1,622 |
+| A New Age | 1.00% | ~811 |
+| Oh Baby, A Triple | 0.80% | ~649 |
+| Symbiotic | 0.80% | ~649 |
+| Battle Hardened | 0.50% | ~406 |
+| Master of Disguise | 0.50% | ~406 |
+| It's Mayhem! | 0.50% | ~406 |
 | Double Punch! | 0.40% | ~324 |
-| It's Mayhem! | 0.40% | ~324 |
 | Right back at'cha | 0.40% | ~324 |
 | Spectacular Finisher | 0.40% | ~324 |
 | Cautious Veteran | 0.30% | ~243 |
@@ -41,7 +41,7 @@ Rating: 4.57 (Ranked 484)
 | Signature Look | 0.00% | ~0 |
 | What's Mine is Yours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,948 (Ranked 98)  
+Progressed: 81,102 (Ranked 98)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,7 +51,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 62,591 | 0 |
 | 2023-12-13 | 74,092 | 0 |
 | 2023-12-14 | 80,003 | 0 |
-| 2023-12-15 | 80,948 | 0 |
+| 2023-12-15 | 81,102 | 0 |
 ## Awards
 Max (Great Boss Battles): 25  (Ranked 527)  
 Sum: 25 (Ranked 536)  
@@ -87,3 +87,4 @@ Diff (max vs sum): -9
 | 2023-12-12 | 4.54 | 0 | 0 |
 | 2023-12-13 | 4.56 | 20 | 20 |
 | 2023-12-14 | 4.57 | 25 | 25 |
+| 2023-12-15 | 4.55 | 25 | 25 |

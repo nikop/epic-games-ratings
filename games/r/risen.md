@@ -15,7 +15,7 @@ Rating: 4.60 (Ranked 422)
 | Samaritan | 44.00% | ~33 |
 | The merciful one | 40.00% | ~30 |
 | Well-to-do | 40.00% | ~30 |
-| Ladies' man | 39.00% | ~29 |
+| Ladies' man | 40.00% | ~30 |
 | Ferocious wild boars | 31.00% | ~23 |
 | Idiot | 29.00% | ~22 |
 | Beast slayer | 28.00% | ~21 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 422)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75 (Ranked 478)  
+Progressed: 75 (Ranked 480)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |

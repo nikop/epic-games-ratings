@@ -17,13 +17,13 @@
 | Your own amateur gym | 73.00% | ~278 |
 | First defeat | 72.00% | ~274 |
 | Run K, run! | 72.00% | ~274 |
+| Fighting is cool | 69.00% | ~263 |
 | No bullying more | 69.00% | ~263 |
 | Hello, world! | 69.00% | ~263 |
-| Fighting is cool | 68.00% | ~259 |
 | Pal of your father? | 66.00% | ~251 |
+| Employee of the month | 65.00% | ~248 |
 | Spirit of the past | 64.00% | ~244 |
-| Employee of the month | 64.00% | ~244 |
-| Law student | 60.00% | ~229 |
+| Law student | 61.00% | ~232 |
 | Workout professional | 59.00% | ~225 |
 | Handyman | 59.00% | ~225 |
 | Little hacker | 58.00% | ~221 |
@@ -52,9 +52,9 @@
 | Get out of my apartment! | 37.00% | ~141 |
 | Gang wrangler | 36.00% | ~137 |
 | Seashell hunter | 36.00% | ~137 |
+| Undercover robot | 36.00% | ~137 |
 | Problems of cyborgs | 35.00% | ~133 |
 | Absolute Champion! | 35.00% | ~133 |
-| Undercover robot | 35.00% | ~133 |
 | Not little hacker | 34.00% | ~130 |
 | Your own way | 34.00% | ~130 |
 | Another world | 33.00% | ~126 |

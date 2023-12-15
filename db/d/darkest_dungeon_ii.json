@@ -9646,18 +9646,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 20441,
       "NumberOfAwardsMax": 7689
+    },
+    {
+      "Time": "2023-12-15T05:59:58.4890284+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20470,
+      "NumberOfAwardsMax": 7718
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20441,
-  "NumberOfAwardsMax": 7689,
+  "NumberOfAwards": 20470,
+  "NumberOfAwardsMax": 7718,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7689
+      "Count": 7718
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9726,9 +9732,9 @@
       "Count": 1004
     }
   ],
-  "EOS_Progressed": 127166,
+  "EOS_Progressed": 127178,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1355,
+  "EOS_NewPlayers": 1366,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35101,6 +35107,11 @@
       "Time": "2023-12-15T05:09:18.77395+00:00",
       "NumProgressed": 127166,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T06:08:47.7764694+00:00",
+      "NumProgressed": 127178,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35240,15 +35251,15 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2544
     },
     {
       "ID": "combat_kill_cadavers",
       "SetID": "64l4lke",
       "Name": "Dissector",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1145
     },
     {
       "ID": "combat_kill_cosmic",
@@ -35264,7 +35275,7 @@
       "Name": "Not Today!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2544
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35272,7 +35283,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2544
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35312,7 +35323,7 @@
       "Name": "Meat and Greet",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2544
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35328,7 +35339,7 @@
       "Name": "Catch and Decease",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2544
     },
     {
       "ID": "combat_kill_librarian",
@@ -35336,7 +35347,7 @@
       "Name": "Overdue Notice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2544
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35352,7 +35363,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2544
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35384,7 +35395,7 @@
       "Name": "It Happens",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -35416,7 +35427,7 @@
       "Name": "Merry Time",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -35424,7 +35435,7 @@
       "Name": "Harvest Festival",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -35464,7 +35475,7 @@
       "Name": "Autodidact",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2544
     },
     {
       "ID": "hero_story_complete_all",
@@ -35472,7 +35483,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "hero_story_complete_any",
@@ -35504,7 +35515,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -35560,7 +35571,7 @@
       "Name": "Nope",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "run_victory_act01",
@@ -35592,7 +35603,7 @@
       "Name": "Handled",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "run_victory_act05",
@@ -35600,7 +35611,7 @@
       "Name": "Body of Work",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -35648,7 +35659,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "combat_kill_collector",
@@ -35743,21 +35754,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127166,
+      "Progressed": 127178,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2035,
+      "Progressed": 2047,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-15T03:59:55.365936+00:00",
-  "LastChanged_Achievements": "2023-12-15T05:09:18.7739497+00:00",
+  "LastChanged": "2023-12-15T05:59:58.4890282+00:00",
+  "LastChanged_Achievements": "2023-12-15T06:08:47.7764691+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:01:20.1990055+00:00",
-  "LastUpdate_Achievements": "2023-12-15T05:09:18.7740934+00:00"
+  "LastUpdate_Ratings": "2023-12-15T05:59:58.4890288+00:00",
+  "LastUpdate_Achievements": "2023-12-15T06:08:47.7766148+00:00"
 }

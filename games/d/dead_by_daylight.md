@@ -6,16 +6,16 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~32,870 |
-| Skillful | 3.00% | ~32,870 |
-| Handyman | 2.00% | ~21,913 |
-| Zealous | 2.00% | ~21,913 |
-| Not half bad | 2.00% | ~21,913 |
-| Apt Survivor | 2.00% | ~21,913 |
-| Survival Treasures | 2.00% | ~21,913 |
-| I | 2.00% | ~21,913 |
-| Sorted | 2.00% | ~21,913 |
-| Make Some Noise | 2.00% | ~21,913 |
+| It wakes | 3.00% | ~32,872 |
+| Skillful | 3.00% | ~32,872 |
+| Handyman | 2.00% | ~21,915 |
+| Zealous | 2.00% | ~21,915 |
+| Not half bad | 2.00% | ~21,915 |
+| Apt Survivor | 2.00% | ~21,915 |
+| Survival Treasures | 2.00% | ~21,915 |
+| I | 2.00% | ~21,915 |
+| Sorted | 2.00% | ~21,915 |
+| Make Some Noise | 2.00% | ~21,915 |
 | The Grand Sacrifice | 1.00% | ~10,957 |
 | Agonizing Escape | 1.00% | ~10,957 |
 | Backdoor Escape | 1.00% | ~10,957 |
@@ -35,12 +35,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Close Shave | 1.00% | ~10,957 |
 | Preemptive Strike | 1.00% | ~10,957 |
 | Humanitarian | 1.00% | ~10,957 |
-| III | 0.90% | ~9,861 |
-| Vulture | 0.80% | ~8,765 |
-| First to the Punch | 0.80% | ~8,765 |
-| With Scars to Show | 0.80% | ~8,765 |
-| Lifting The Fog | 0.80% | ~8,765 |
-| Second Act | 0.80% | ~8,765 |
+| III | 0.90% | ~9,862 |
+| Vulture | 0.80% | ~8,766 |
+| First to the Punch | 0.80% | ~8,766 |
+| With Scars to Show | 0.80% | ~8,766 |
+| Lifting The Fog | 0.80% | ~8,766 |
+| Second Act | 0.80% | ~8,766 |
 | Blood on your hands | 0.70% | ~7,670 |
 | Escape Artist | 0.70% | ~7,670 |
 | Operation: Survival | 0.70% | ~7,670 |
@@ -61,19 +61,19 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cutting Out | 0.60% | ~6,574 |
 | Old West Oasis | 0.60% | ~6,574 |
 | Classy Act | 0.60% | ~6,574 |
-| Blood on your face | 0.50% | ~5,478 |
-| Nerves of steel | 0.50% | ~5,478 |
-| Shock Therapy | 0.50% | ~5,478 |
-| Cottage Owner | 0.50% | ~5,478 |
-| Campbell's Chapel Legacy | 0.50% | ~5,478 |
-| Ancestor's Rite | 0.50% | ~5,478 |
-| Outrun Evil | 0.50% | ~5,478 |
-| Grim Pilgrimage | 0.50% | ~5,478 |
-| A Fast Death | 0.50% | ~5,478 |
-| Extraterrestrial | 0.50% | ~5,478 |
-| One More Step | 0.50% | ~5,478 |
-| MU/TH/UR Dearest | 0.50% | ~5,478 |
-| Outta Nowhere | 0.50% | ~5,478 |
+| Blood on your face | 0.50% | ~5,479 |
+| Nerves of steel | 0.50% | ~5,479 |
+| Shock Therapy | 0.50% | ~5,479 |
+| Cottage Owner | 0.50% | ~5,479 |
+| Campbell's Chapel Legacy | 0.50% | ~5,479 |
+| Ancestor's Rite | 0.50% | ~5,479 |
+| Outrun Evil | 0.50% | ~5,479 |
+| Grim Pilgrimage | 0.50% | ~5,479 |
+| A Fast Death | 0.50% | ~5,479 |
+| Extraterrestrial | 0.50% | ~5,479 |
+| One More Step | 0.50% | ~5,479 |
+| MU/TH/UR Dearest | 0.50% | ~5,479 |
+| Outta Nowhere | 0.50% | ~5,479 |
 | A bite for the Entity | 0.40% | ~4,383 |
 | Hemophobia | 0.40% | ~4,383 |
 | Leapfrog | 0.40% | ~4,383 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,096 |
 | Adept Good Guy | 0.10% | ~1,096 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,095,667 (Ranked 12)  
+Progressed: 1,095,732 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -478,7 +478,7 @@ Completed: 62 (0.01%) (Ranked 353)
 | 2023-12-12 | 1,090,736 | 62 |
 | 2023-12-13 | 1,092,812 | 62 |
 | 2023-12-14 | 1,095,217 | 62 |
-| 2023-12-15 | 1,095,667 | 62 |
+| 2023-12-15 | 1,095,732 | 62 |
 ## Awards
 Max (Diverse Characters): 37,936  (Ranked 15)  
 Sum: 287,013 (Ranked 12)  

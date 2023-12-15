@@ -6,17 +6,17 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~122 |
+| Malpractice Assurance | 6.00% | ~123 |
 | This guy... again? | 3.00% | ~61 |
 | Lost and Found | 3.00% | ~61 |
-| This Belongs in a Museum | 2.00% | ~2,543 |
-| Not Today! | 2.00% | ~2,543 |
-| Creep and Sleep | 2.00% | ~2,543 |
-| Meat and Greet | 2.00% | ~2,543 |
-| Catch and Decease | 2.00% | ~2,543 |
-| Overdue Notice | 2.00% | ~2,543 |
-| Escape from the Black Hole | 2.00% | ~2,543 |
-| Autodidact | 2.00% | ~2,543 |
+| This Belongs in a Museum | 2.00% | ~2,544 |
+| Not Today! | 2.00% | ~2,544 |
+| Creep and Sleep | 2.00% | ~2,544 |
+| Meat and Greet | 2.00% | ~2,544 |
+| Catch and Decease | 2.00% | ~2,544 |
+| Overdue Notice | 2.00% | ~2,544 |
+| Escape from the Black Hole | 2.00% | ~2,544 |
+| Autodidact | 2.00% | ~2,544 |
 | Bloody Graduation | 2.00% | ~41 |
 | Don't Make Me Turn This Coach Around | 1.00% | ~1,272 |
 | Serenity Now! | 1.00% | ~1,272 |
@@ -26,12 +26,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 1.00% | ~1,272 |
 | Ploughshares to Swords | 1.00% | ~20 |
 | Friends 'Til the End | 1.00% | ~20 |
-| It Happens | 0.90% | ~1,144 |
-| Merry Time | 0.90% | ~1,144 |
-| Harvest Festival | 0.90% | ~1,144 |
-| A Place to Lay Your Head | 0.90% | ~1,144 |
-| Nope | 0.90% | ~1,144 |
-| Dissector | 0.80% | ~1,017 |
+| Dissector | 0.90% | ~1,145 |
+| It Happens | 0.90% | ~1,145 |
+| Merry Time | 0.90% | ~1,145 |
+| Harvest Festival | 0.90% | ~1,145 |
+| A Place to Lay Your Head | 0.90% | ~1,145 |
+| Nope | 0.90% | ~1,145 |
 | Deprogramming | 0.80% | ~1,017 |
 | Whale | 0.80% | ~1,017 |
 | Worldly Traveller | 0.80% | ~1,017 |
@@ -61,9 +61,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hot Air | 0.40% | ~509 |
 | Eyes Up | 0.40% | ~509 |
 | Et Tu, Riposte? | 0.40% | ~8 |
-| Shrine of Reflection | 0.30% | ~381 |
-| Handled | 0.30% | ~381 |
-| Body of Work | 0.30% | ~381 |
+| Shrine of Reflection | 0.30% | ~382 |
+| Handled | 0.30% | ~382 |
+| Body of Work | 0.30% | ~382 |
 | Maître De La Lame | 0.30% | ~6 |
 | For Old Time' Sake | 0.30% | ~6 |
 | A Life Well Lived | 0.20% | ~254 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,166 (Ranked 84)  
+Progressed: 127,178 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,14 +315,14 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
-| 2023-12-15 | 127,166 | 3 |
+| 2023-12-15 | 127,178 | 3 |
 ## Awards
-Max (Character Customization): 7,689  (Ranked 51)  
-Sum: 20,441 (Ranked 59)  
+Max (Character Customization): 7,718  (Ranked 51)  
+Sum: 20,470 (Ranked 59)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,689 |
+| This game has Inclusive Character Customization | 7,718 |
 | This game has Diverse Characters | 1,685 |
 | This game has Challenging Combat | 1,586 |
 | This game is Highly Recommended | 1,519 |
@@ -658,4 +658,4 @@ Diff (max vs sum): -8
 | 2023-12-12 | 4.68 | - | 7,622 | 20,221 |
 | 2023-12-13 | 4.68 | - | 7,665 | 20,333 |
 | 2023-12-14 | 4.68 | - | 7,689 | 20,427 |
-| 2023-12-15 | 4.68 | - | 7,689 | 20,441 |
+| 2023-12-15 | 4.68 | - | 7,718 | 20,470 |

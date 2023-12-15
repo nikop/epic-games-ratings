@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3470,
+  "EOS_Progressed": 3471,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6346,6 +6346,11 @@
       "Time": "2023-12-15T04:04:35.2738508+00:00",
       "NumProgressed": 3470,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T06:04:28.789884+00:00",
+      "NumProgressed": 3471,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6443,9 +6448,9 @@
       "ID": "ACH_BASE_21",
       "SetID": "92iocjf",
       "Name": "Wakey Wakey",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1041
     },
     {
       "ID": "ACH_BASE_22",
@@ -6525,7 +6530,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ACH_BASE_31",
@@ -6565,7 +6570,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ACH_BASE_36",
@@ -6741,7 +6746,7 @@
       "Name": "Hope Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ACH_BASE_60",
@@ -6812,13 +6817,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1654,
+      "Progressed": 1655,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3470,
+      "Progressed": 3471,
       "Completed": 0
     }
   ],
@@ -6826,8 +6831,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-15T05:05:28.4316716+00:00",
+  "LastChanged_Achievements": "2023-12-15T06:04:28.7898838+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4855137+00:00",
-  "LastUpdate_Ratings": "2023-12-15T04:57:34.3324255+00:00",
-  "LastUpdate_Achievements": "2023-12-15T05:05:28.4317553+00:00"
+  "LastUpdate_Ratings": "2023-12-15T05:57:29.262699+00:00",
+  "LastUpdate_Achievements": "2023-12-15T06:04:28.7899612+00:00"
 }

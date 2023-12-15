@@ -35,7 +35,7 @@ Rating: 4.57 (Ranked 484)
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~449 |
 | Bullseye | 37.00% | ~426 |
 | It Is Not Over | 36.00% | ~414 |
-| On The Rocks | 34.00% | ~391 |
+| On The Rocks | 35.00% | ~403 |
 | Snowy Poro | 32.00% | ~368 |
 | Never Gets Old | 32.00% | ~368 |
 | Vertical Power | 27.00% | ~311 |
