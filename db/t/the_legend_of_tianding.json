@@ -3,8 +3,8 @@
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 533,
-  "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_Completed": 71,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -317,9 +317,9 @@
       "ID": "ExpressTrainExplorer",
       "SetID": "123m9l1",
       "Name": "Tour Guide",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "FanOfYang",
@@ -365,17 +365,17 @@
       "ID": "MightySword",
       "SetID": "123m9l1",
       "Name": "Demon Slayer",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "MilitaryFactoryExplorer",
       "SetID": "123m9l1",
       "Name": "Urban Explorer",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "OmamoriExpert",
@@ -389,9 +389,9 @@
       "ID": "RescueAKuai",
       "SetID": "123m9l1",
       "Name": "Steal Her Away",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "SaveMatsumoto",
@@ -405,9 +405,9 @@
       "ID": "SewerExplorer",
       "SetID": "123m9l1",
       "Name": "Sewer Rat",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Survivor",
@@ -462,8 +462,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-12-15T06:04:52.2548746+00:00",
+  "LastChanged_Achievements": "2023-12-15T07:06:10.7089287+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:55.2838081+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:59:31.4474535+00:00",
-  "LastUpdate_Achievements": "2023-12-15T06:04:52.2548908+00:00"
+  "LastUpdate_Ratings": "2023-12-15T07:00:45.3886227+00:00",
+  "LastUpdate_Achievements": "2023-12-15T07:06:10.7089697+00:00"
 }

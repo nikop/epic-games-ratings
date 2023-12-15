@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 886,
+  "EOS_Progressed": 887,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -2002,6 +2002,11 @@
       "Time": "2023-12-15T04:03:26.9209515+00:00",
       "NumProgressed": 886,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T07:03:58.190485+00:00",
+      "NumProgressed": 887,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2070,7 +2075,7 @@
       "Name": "Pathfinder",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "CompleteChapter10",
@@ -2094,7 +2099,7 @@
       "Name": "Grumblin\u0027 Bellies",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "CompleteChapter13",
@@ -2102,7 +2107,7 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "CompleteChapter14",
@@ -2166,7 +2171,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "CompleteChapter4",
@@ -2174,7 +2179,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "CompleteChapter5",
@@ -2182,7 +2187,7 @@
       "Name": "Breathing Easy",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "CompleteChapter6",
@@ -2198,7 +2203,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "CompleteChapter8",
@@ -2309,14 +2314,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 886,
+      "Progressed": 887,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-15T06:03:20.7541805+00:00",
+  "LastChanged_Achievements": "2023-12-15T07:03:58.1904846+00:00",
   "LastUpdate_AppInfo": "2023-12-08T09:56:58.482812+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:58:03.3861059+00:00",
-  "LastUpdate_Achievements": "2023-12-15T06:03:20.7542053+00:00"
+  "LastUpdate_Ratings": "2023-12-15T06:58:28.6339251+00:00",
+  "LastUpdate_Achievements": "2023-12-15T07:03:58.1905794+00:00"
 }

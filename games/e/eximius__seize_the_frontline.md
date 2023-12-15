@@ -5,13 +5,13 @@ Rating: 4.18 (Ranked 946)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduate Boot Camp | 71.00% | ~142,982 |
+| Graduate Boot Camp | 71.00% | ~142,983 |
 | Initiation | 18.00% | ~36,249 |
 | Battlesuit Victory | 8.00% | ~16,111 |
 | Flawless Victory | 5.00% | ~10,069 |
 | Baby Steps | 5.00% | ~10,069 |
 | First Co-Op Win | 5.00% | ~10,069 |
-| Gated Community | 3.00% | ~6,041 |
+| Gated Community | 3.00% | ~6,042 |
 | Tag Team Champions | 2.00% | ~4,028 |
 | Total Destruction | 1.00% | ~2,014 |
 | Getting There | 1.00% | ~2,014 |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 946)
 | Not Afraid of the Big Bad Wolf | 0.10% | ~201 |
 | Many More to Come | 0.10% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 201,383 (Ranked 76)  
+Progressed: 201,384 (Ranked 76)  
 Completed: 4 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 4 (0.00%) (Ranked 377)
 | 2023-12-12 | 201,288 | 4 |
 | 2023-12-13 | 201,319 | 4 |
 | 2023-12-14 | 201,372 | 4 |
-| 2023-12-15 | 201,383 | 4 |
+| 2023-12-15 | 201,384 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

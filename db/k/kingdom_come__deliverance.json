@@ -9273,9 +9273,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 812539,
+  "EOS_Progressed": 812541,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 991,
+  "EOS_NewPlayers": 989,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -36188,6 +36188,11 @@
       "Time": "2023-12-15T06:09:17.1574839+00:00",
       "NumProgressed": 812539,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-15T07:10:08.2961234+00:00",
+      "NumProgressed": 812541,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -36223,7 +36228,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130006
+      "UsersEstimate": 130007
     },
     {
       "ID": "Awakening",
@@ -36231,7 +36236,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 170633
+      "UsersEstimate": 170634
     },
     {
       "ID": "BadGirl",
@@ -36279,7 +36284,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 260012
+      "UsersEstimate": 260013
     },
     {
       "ID": "Bookworm",
@@ -36415,7 +36420,7 @@
       "Name": "Firestarter",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130006
+      "UsersEstimate": 130007
     },
     {
       "ID": "Freud",
@@ -36735,7 +36740,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89379
+      "UsersEstimate": 89380
     },
     {
       "ID": "Sniper",
@@ -36807,7 +36812,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89379
+      "UsersEstimate": 89380
     },
     {
       "ID": "TrialAndError",
@@ -36854,15 +36859,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 812539,
+      "Progressed": 812541,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-12-14T23:01:59.429241+00:00",
-  "LastChanged_Achievements": "2023-12-15T06:09:17.1574837+00:00",
+  "LastChanged_Achievements": "2023-12-15T07:10:08.2961232+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:13.9714541+00:00",
-  "LastUpdate_Ratings": "2023-12-15T06:00:10.4154405+00:00",
-  "LastUpdate_Achievements": "2023-12-15T06:09:17.1576337+00:00"
+  "LastUpdate_Ratings": "2023-12-15T07:01:45.2092525+00:00",
+  "LastUpdate_Achievements": "2023-12-15T07:10:08.2963281+00:00"
 }

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Enough rooms to swing a cat | 90.00% | ~43 |
-| Home Sweet Home | 90.00% | ~43 |
-| First to the post | 88.00% | ~42 |
+| Enough rooms to swing a cat | 92.00% | ~44 |
+| Home Sweet Home | 92.00% | ~44 |
+| First to the post | 90.00% | ~43 |
 | A kind of Magic | 83.00% | ~40 |
 | Connected | 79.00% | ~38 |
 | Expansion | 77.00% | ~37 |
@@ -22,7 +22,7 @@
 | Redecorating | 38.00% | ~18 |
 | Bad JuJu | 29.00% | ~14 |
 | Slave to the rhythm | 27.00% | ~13 |
-| Friend of Sevenkeeps | 25.00% | ~12 |
+| Friend of Sevenkeeps | 27.00% | ~13 |
 | Castle Meldec | 21.00% | ~10 |
 | Sevenkeeps Seat of Kings | 21.00% | ~10 |
 | Friend of Gillyshire | 19.00% | ~9 |

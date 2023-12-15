@@ -8,7 +8,7 @@ Rating: 4.50 (Ranked 599)
 | Stylish | 9.00% | ~2,903 |
 | Meticulously Efficient | 8.00% | ~2,581 |
 | Advancement | 7.00% | ~2,258 |
-| Swift Rift Removers | 6.00% | ~1,935 |
+| Swift Rift Removers | 6.00% | ~1,936 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,613 |
 | Discovery | 5.00% | ~1,613 |
 | Fully Upgraded | 5.00% | ~1,613 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 599)
 | Ultimate Defense | 0.20% | ~65 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,258 (Ranked 125)  
+Progressed: 32,261 (Ranked 126)  
 Completed: 69 (0.21%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,10 +296,10 @@ Completed: 69 (0.21%) (Ranked 260)
 | 2023-12-12 | 32,201 | 69 |
 | 2023-12-13 | 32,229 | 69 |
 | 2023-12-14 | 32,251 | 69 |
-| 2023-12-15 | 32,258 | 69 |
+| 2023-12-15 | 32,261 | 69 |
 ## Awards
 Max (Great for Beginners): 323  (Ranked 252)  
-Sum: 2,907 (Ranked 180)  
+Sum: 2,908 (Ranked 180)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
@@ -312,7 +312,7 @@ Diff (max vs sum): 72
 | This game is Extremely Fun | 282 |
 | This game is Relaxing | 281 |
 | This game has Amazing Characters | 271 |
-| This game has Quickly Understood Controls | 267 |
+| This game has Quickly Understood Controls | 268 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -557,4 +557,4 @@ Diff (max vs sum): 72
 | 2023-12-11 | 4.50 | 321 | 2,897 |
 | 2023-12-12 | 4.50 | 321 | 2,901 |
 | 2023-12-14 | 4.50 | 323 | 2,906 |
-| 2023-12-15 | 4.50 | 323 | 2,907 |
+| 2023-12-15 | 4.50 | 323 | 2,908 |

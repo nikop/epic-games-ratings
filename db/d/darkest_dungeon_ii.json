@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9732,9 +9732,9 @@
       "Count": 1004
     }
   ],
-  "EOS_Progressed": 127178,
+  "EOS_Progressed": 127192,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1366,
+  "EOS_NewPlayers": 1380,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35112,6 +35112,11 @@
       "Time": "2023-12-15T06:08:47.7764694+00:00",
       "NumProgressed": 127178,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T07:09:25.9104272+00:00",
+      "NumProgressed": 127192,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35241,9 +35246,9 @@
       "ID": "combat_kill_animal",
       "SetID": "64l4lke",
       "Name": "Predator",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 763
+      "UsersEstimate": 890
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -35265,9 +35270,9 @@
       "ID": "combat_kill_cosmic",
       "SetID": "64l4lke",
       "Name": "Banishment",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 890
+      "UsersEstimate": 1018
     },
     {
       "ID": "combat_kill_death",
@@ -35291,7 +35296,7 @@
       "Name": "Deprogramming",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -35401,9 +35406,9 @@
       "ID": "combat_run_kill_three_lair_bosses",
       "SetID": "64l4lke",
       "Name": "Hat Trick",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 254
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -35497,9 +35502,9 @@
       "ID": "hoarder_buy_epic_trinket",
       "SetID": "64l4lke",
       "Name": "Whale",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1145
     },
     {
       "ID": "hospital_full_service",
@@ -35539,7 +35544,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -35633,9 +35638,9 @@
       "ID": "stagecoach_upgrade_equip_all",
       "SetID": "64l4lke",
       "Name": "Road Trip",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 890
+      "UsersEstimate": 1018
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -35659,7 +35664,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "combat_kill_collector",
@@ -35667,7 +35672,7 @@
       "Name": "This guy... again?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35707,7 +35712,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -35723,7 +35728,7 @@
       "Name": "Lost and Found",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35731,7 +35736,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -35754,21 +35759,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127178,
+      "Progressed": 127192,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2047,
+      "Progressed": 2061,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-15T05:59:58.4890282+00:00",
-  "LastChanged_Achievements": "2023-12-15T06:08:47.7764691+00:00",
+  "LastChanged_Achievements": "2023-12-15T07:09:25.9104266+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:59:58.4890288+00:00",
-  "LastUpdate_Achievements": "2023-12-15T06:08:47.7766148+00:00"
+  "LastUpdate_Ratings": "2023-12-15T07:01:27.0217541+00:00",
+  "LastUpdate_Achievements": "2023-12-15T07:09:25.9106456+00:00"
 }

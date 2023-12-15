@@ -7,12 +7,12 @@
 | Something important | 78.00% | ~93 |
 | Wanderer | 71.00% | ~84 |
 | A piece of the story | 56.00% | ~67 |
+| Do what you have to | 44.00% | ~52 |
 | It's covered up for a reason | 43.00% | ~51 |
-| Do what you have to | 43.00% | ~51 |
-| Scraps of love | 41.00% | ~49 |
-| The artist’s impression | 41.00% | ~49 |
+| Scraps of love | 42.00% | ~50 |
+| The artist’s impression | 42.00% | ~50 |
+| Sign of weakness | 36.00% | ~43 |
 | Refuse to look | 35.00% | ~42 |
-| Sign of weakness | 35.00% | ~42 |
 | Finished it | 30.00% | ~36 |
 | Face your fears | 28.00% | ~33 |
 | Whispers long forgotten | 17.00% | ~20 |

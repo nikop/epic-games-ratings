@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -622,9 +622,9 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "Epic_Formula_12",
@@ -678,9 +678,9 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "Epic_HomeRun_1",
@@ -886,9 +886,9 @@
       "ID": "Epic_WildFire_1",
       "SetID": "ba1m2fc",
       "Name": "Spark Starts Prairie Fire",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "Epic_WinTimes_500",
@@ -909,8 +909,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-12-15T06:03:46.5704925+00:00",
+  "LastChanged_Achievements": "2023-12-15T07:04:35.7022081+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:10.2907152+00:00",
-  "LastUpdate_Ratings": "2023-12-15T06:00:24.9089125+00:00",
-  "LastUpdate_Achievements": "2023-12-15T06:03:46.5705229+00:00"
+  "LastUpdate_Ratings": "2023-12-15T07:02:47.4469432+00:00",
+  "LastUpdate_Achievements": "2023-12-15T07:04:35.702245+00:00"
 }

@@ -6,58 +6,58 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 1.00% | ~7,234 |
-| The Assault | 1.00% | ~7,234 |
-| Life is your teacher | 1.00% | ~7,234 |
-| Lightning Hands | 1.00% | ~7,234 |
-| Diligence as a goal | 1.00% | ~327 |
-| The Hateful Pole Fighter | 0.90% | ~6,510 |
-| State of constant learning | 0.90% | ~6,510 |
-| Qi Gong: Breath | 0.80% | ~5,787 |
-| Qi Gong: Essence | 0.80% | ~5,787 |
-| Old Child | 0.80% | ~5,787 |
-| Rumble in the Hangar | 0.80% | ~5,787 |
-| Project Arena | 0.80% | ~261 |
-| A Lady's Blood in the Snow | 0.70% | ~5,064 |
-| Lady Wing Chun | 0.70% | ~5,064 |
-| Kill Nil | 0.70% | ~5,064 |
-| Stuntmaster | 0.70% | ~5,064 |
-| Street Fighting | 0.70% | ~5,064 |
-| Path of the Prospect | 0.70% | ~5,064 |
-| Furious Fists | 0.60% | ~4,340 |
-| Take damage to save time | 0.60% | ~4,340 |
-| Fight the way you practice | 0.60% | ~196 |
-| Scareless | 0.50% | ~3,617 |
-| Qi Gong: Mind | 0.50% | ~3,617 |
-| I know Kung-Fu | 0.50% | ~3,617 |
-| Kung-Fu Tussle | 0.50% | ~3,617 |
-| Martial Hub | 0.50% | ~163 |
+| The Old Grandmaster | 1.00% | ~7,236 |
+| The Assault | 1.00% | ~7,236 |
+| Life is your teacher | 1.00% | ~7,236 |
+| Lightning Hands | 1.00% | ~7,236 |
+| Diligence as a goal | 1.00% | ~329 |
+| The Hateful Pole Fighter | 0.90% | ~6,512 |
+| State of constant learning | 0.90% | ~6,512 |
+| Qi Gong: Breath | 0.80% | ~5,789 |
+| Qi Gong: Essence | 0.80% | ~5,789 |
+| Old Child | 0.80% | ~5,789 |
+| Rumble in the Hangar | 0.80% | ~5,789 |
+| Project Arena | 0.80% | ~263 |
+| A Lady's Blood in the Snow | 0.70% | ~5,065 |
+| Lady Wing Chun | 0.70% | ~5,065 |
+| Kill Nil | 0.70% | ~5,065 |
+| Stuntmaster | 0.70% | ~5,065 |
+| Street Fighting | 0.70% | ~5,065 |
+| Path of the Prospect | 0.70% | ~5,065 |
+| Furious Fists | 0.60% | ~4,341 |
+| Take damage to save time | 0.60% | ~4,341 |
+| Fight the way you practice | 0.60% | ~197 |
+| Scareless | 0.50% | ~3,618 |
+| Qi Gong: Mind | 0.50% | ~3,618 |
+| I know Kung-Fu | 0.50% | ~3,618 |
+| Kung-Fu Tussle | 0.50% | ~3,618 |
+| Martial Hub | 0.50% | ~164 |
 | Dance of the Praying Mantis | 0.40% | ~2,894 |
 | Bloody Sport | 0.40% | ~131 |
-| Muk Yan Master | 0.30% | ~2,170 |
-| Tiger on Fire | 0.30% | ~2,170 |
-| Source of Flying Daggers | 0.30% | ~2,170 |
-| Iron Money | 0.30% | ~2,170 |
-| Legendary Talismans of Wuxing | 0.30% | ~2,170 |
-| Detective Story | 0.30% | ~2,170 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,170 |
-| Sword Stained With Blood | 0.30% | ~2,170 |
-| The best strikes are the ones we avoid | 0.30% | ~98 |
+| Muk Yan Master | 0.30% | ~2,171 |
+| Tiger on Fire | 0.30% | ~2,171 |
+| Source of Flying Daggers | 0.30% | ~2,171 |
+| Iron Money | 0.30% | ~2,171 |
+| Legendary Talismans of Wuxing | 0.30% | ~2,171 |
+| Detective Story | 0.30% | ~2,171 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,171 |
+| Sword Stained With Blood | 0.30% | ~2,171 |
+| The best strikes are the ones we avoid | 0.30% | ~99 |
 | Prodigal Child | 0.20% | ~1,447 |
 | Knowledge Greed | 0.20% | ~1,447 |
 | The Pit Protector | 0.20% | ~1,447 |
-| Deadly Venom | 0.20% | ~65 |
-| A Touch of Acumen | 0.20% | ~65 |
-| Skill and an even stronger will | 0.20% | ~65 |
-| Beatmaker | 0.20% | ~65 |
-| Drunken Fighter | 0.10% | ~723 |
-| Martial Artist | 0.10% | ~723 |
-| Healing Memory | 0.10% | ~723 |
-| Master of the Phoenix Eye Fist | 0.10% | ~723 |
-| Ferocity, speed, strength, accuracy | 0.10% | ~723 |
-| Be like water my friend | 0.10% | ~723 |
-| Warriors from the Mountain | 0.10% | ~723 |
-| Come Snap With Me | 0.10% | ~723 |
+| Deadly Venom | 0.20% | ~66 |
+| A Touch of Acumen | 0.20% | ~66 |
+| Skill and an even stronger will | 0.20% | ~66 |
+| Beatmaker | 0.20% | ~66 |
+| Drunken Fighter | 0.10% | ~724 |
+| Martial Artist | 0.10% | ~724 |
+| Healing Memory | 0.10% | ~724 |
+| Master of the Phoenix Eye Fist | 0.10% | ~724 |
+| Ferocity, speed, strength, accuracy | 0.10% | ~724 |
+| Be like water my friend | 0.10% | ~724 |
+| Warriors from the Mountain | 0.10% | ~724 |
+| Come Snap With Me | 0.10% | ~724 |
 | Secure, Protect, Leave | 0.10% | ~33 |
 | Crouching Tiger | 0.10% | ~33 |
 | Hidden Dragon | 0.10% | ~33 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~33 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723,386 (Ranked 24)  
+Progressed: 723,572 (Ranked 24)  
 Completed: 12,953 (1.79%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 12,953 (1.79%) (Ranked 135)
 | 2023-12-12 | 717,993 | 12,952 |
 | 2023-12-13 | 718,112 | 12,953 |
 | 2023-12-14 | 722,433 | 12,953 |
-| 2023-12-15 | 723,386 | 12,953 |
+| 2023-12-15 | 723,572 | 12,953 |
 ## Awards
 Max (Great Boss Battles): 6,930  (Ranked 55)  
 Sum: 12,161 (Ranked 83)  

@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 415 (Ranked 336)  
+Progressed: 415 (Ranked 337)  
 Completed: 2 (0.48%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

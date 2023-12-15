@@ -6,22 +6,22 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~16,817 |
-| Student | 22.00% | ~13,213 |
-| Knower | 16.00% | ~9,609 |
+| Initiation | 28.00% | ~16,818 |
+| Student | 22.00% | ~13,214 |
+| Knower | 16.00% | ~9,610 |
 | Listener | 15.00% | ~9,009 |
-| Aspen Tree | 14.00% | ~8,408 |
-| Healer | 14.00% | ~8,408 |
-| Soldier | 12.00% | ~7,207 |
-| Cow Level | 11.00% | ~6,606 |
-| Scientist | 11.00% | ~6,606 |
+| Aspen Tree | 14.00% | ~8,409 |
+| Healer | 14.00% | ~8,409 |
+| Soldier | 12.00% | ~7,208 |
+| Cow Level | 11.00% | ~6,607 |
+| Scientist | 11.00% | ~6,607 |
 | Herbalist | 10.00% | ~6,006 |
 | Water | 10.00% | ~6,006 |
-| Old Friend | 9.00% | ~5,405 |
-| New Spirits | 9.00% | ~5,405 |
-| Voipel | 9.00% | ~5,405 |
-| Wolf | 9.00% | ~5,405 |
-| Black Mage | 9.00% | ~5,405 |
+| Old Friend | 9.00% | ~5,406 |
+| New Spirits | 9.00% | ~5,406 |
+| Voipel | 9.00% | ~5,406 |
+| Wolf | 9.00% | ~5,406 |
+| Black Mage | 9.00% | ~5,406 |
 | Card Player | 8.00% | ~4,805 |
 | Dead Friend | 8.00% | ~4,805 |
 | Pine Tree | 8.00% | ~4,805 |
@@ -43,9 +43,9 @@ Number of Ratings: 96  (23.09.2022)
 | Keeper of Knowledge | 6.00% | ~3,604 |
 | Susanin | 5.00% | ~3,003 |
 | Traveller | 5.00% | ~3,003 |
-| Righteous | 4.00% | ~2,402 |
-| Musician | 4.00% | ~2,402 |
-| Koldun | 4.00% | ~2,402 |
+| Righteous | 4.00% | ~2,403 |
+| Musician | 4.00% | ~2,403 |
+| Koldun | 4.00% | ~2,403 |
 | Black Sorceress | 3.00% | ~1,802 |
 | Cheater | 3.00% | ~1,802 |
 | Diplomat | 3.00% | ~1,802 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,201 |
 | Word Master | 0.20% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,059 (Ranked 110)  
+Progressed: 60,063 (Ranked 110)  
 Completed: 60 (0.10%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 60 (0.10%) (Ranked 296)
 | 2023-12-12 | 59,603 | 60 |
 | 2023-12-13 | 59,789 | 60 |
 | 2023-12-14 | 60,012 | 60 |
-| 2023-12-15 | 60,059 | 60 |
+| 2023-12-15 | 60,063 | 60 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

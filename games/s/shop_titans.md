@@ -6,20 +6,21 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,642 |
-| Titan's First Steps | 8.00% | ~11,642 |
-| Basic in Bulk | 7.00% | ~10,187 |
-| Tinkle of Coins | 7.00% | ~10,187 |
+| Sponsored by Argon | 8.00% | ~11,643 |
+| Titan's First Steps | 8.00% | ~11,643 |
+| Basic in Bulk | 7.00% | ~10,188 |
+| Tinkle of Coins | 7.00% | ~10,188 |
 | Disintermediation | 6.00% | ~8,732 |
-| It's Free Real Estate | 5.00% | ~7,276 |
-| Budding Merchant | 5.00% | ~7,276 |
-| Capitalism Ho! | 5.00% | ~7,276 |
-| One Easy Payment | 4.00% | ~5,821 |
-| Some Assembly Required | 4.00% | ~5,821 |
-| Another Satisfied Customer | 4.00% | ~5,821 |
-| Pretty Penny | 4.00% | ~5,821 |
-| One-Armed Bandit | 4.00% | ~5,821 |
-| Own the Means of Production | 4.00% | ~5,821 |
+| It's Free Real Estate | 5.00% | ~7,277 |
+| Budding Merchant | 5.00% | ~7,277 |
+| Capitalism Ho! | 5.00% | ~7,277 |
+| One Easy Payment | 4.00% | ~5,822 |
+| Some Assembly Required | 4.00% | ~5,822 |
+| Another Satisfied Customer | 4.00% | ~5,822 |
+| Pretty Penny | 4.00% | ~5,822 |
+| One-Armed Bandit | 4.00% | ~5,822 |
+| Through Repetition, Perfection | 4.00% | ~5,822 |
+| Own the Means of Production | 4.00% | ~5,822 |
 | The Daily Grind | 3.00% | ~4,366 |
 | Bounty Hunters | 3.00% | ~4,366 |
 | Demand for Supplies | 3.00% | ~4,366 |
@@ -29,7 +30,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gild-Gotten Goods | 3.00% | ~4,366 |
 | Accomplished Merchant | 3.00% | ~4,366 |
 | Dungeon Imports | 3.00% | ~4,366 |
-| Through Repetition, Perfection | 3.00% | ~4,366 |
 | Did we pack lunch? | 3.00% | ~4,366 |
 | Arcane Industries | 3.00% | ~4,366 |
 | On the Path to Greatness | 2.00% | ~2,911 |
@@ -115,11 +115,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~728 |
 | Oligarch Monarch | 0.40% | ~582 |
 | Merchant Extraordinaire | 0.40% | ~582 |
+| Cash Only Please | 0.40% | ~582 |
 | To Hell and Back | 0.30% | ~437 |
-| Cash Only Please | 0.30% | ~437 |
 | Capitalist Camaraderie | 0.20% | ~291 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,530 (Ranked 80)  
+Progressed: 145,541 (Ranked 80)  
 Completed: 309 (0.21%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -358,7 +358,7 @@ Completed: 309 (0.21%) (Ranked 260)
 | 2023-12-12 | 144,871 | 294 |
 | 2023-12-13 | 145,093 | 297 |
 | 2023-12-14 | 145,474 | 307 |
-| 2023-12-15 | 145,530 | 309 |
+| 2023-12-15 | 145,541 | 309 |
 ## Awards
 Max (Great for Beginners): 4,892  (Ranked 75)  
 Sum: 27,727 (Ranked 51)  

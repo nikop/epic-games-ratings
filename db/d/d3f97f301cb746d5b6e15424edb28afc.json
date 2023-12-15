@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -73,7 +73,7 @@
   "Tags": [],
   "EOS_Progressed": 1224,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3571,9 +3571,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1065
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -3779,9 +3779,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1077
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -3868,8 +3868,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-15T06:03:59.8281306+00:00",
+  "LastChanged_Achievements": "2023-12-15T07:04:55.0222902+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:57:13.6049463+00:00",
-  "LastUpdate_Achievements": "2023-12-15T06:03:59.8282194+00:00"
+  "LastUpdate_Ratings": "2023-12-15T06:57:12.9247517+00:00",
+  "LastUpdate_Achievements": "2023-12-15T07:04:55.0223774+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -503,9 +503,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 533154,
+  "EOS_Progressed": 533155,
   "EOS_Completed": 509,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -25778,6 +25778,11 @@
       "Time": "2023-12-15T06:03:48.9502108+00:00",
       "NumProgressed": 533154,
       "NumCompleted": 509
+    },
+    {
+      "Time": "2023-12-15T07:04:39.2134297+00:00",
+      "NumProgressed": 533155,
+      "NumCompleted": 509
     }
   ],
   "TotalAchievements": 57,
@@ -25789,7 +25794,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 122625
+      "UsersEstimate": 122626
     },
     {
       "ID": "10",
@@ -25797,7 +25802,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 239919
+      "UsersEstimate": 239920
     },
     {
       "ID": "11",
@@ -25837,7 +25842,7 @@
       "Name": "Walking The Line",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 53315
+      "UsersEstimate": 53316
     },
     {
       "ID": "16",
@@ -25869,7 +25874,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 330555
+      "UsersEstimate": 330556
     },
     {
       "ID": "2",
@@ -25877,7 +25882,7 @@
       "Name": "Not So Cute Anymore",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 53315
+      "UsersEstimate": 53316
     },
     {
       "ID": "20",
@@ -26013,7 +26018,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 266577
+      "UsersEstimate": 266578
     },
     {
       "ID": "36",
@@ -26045,7 +26050,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 181272
+      "UsersEstimate": 181273
     },
     {
       "ID": "4",
@@ -26117,7 +26122,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 330555
+      "UsersEstimate": 330556
     },
     {
       "ID": "48",
@@ -26133,7 +26138,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 181272
+      "UsersEstimate": 181273
     },
     {
       "ID": "5",
@@ -26173,7 +26178,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 122625
+      "UsersEstimate": 122626
     },
     {
       "ID": "54",
@@ -26244,15 +26249,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 533154,
+      "Progressed": 533155,
       "Completed": 509
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2023-12-15T06:03:48.9502106+00:00",
+  "LastChanged_Achievements": "2023-12-15T07:04:39.213429+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:06.8552827+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:59:32.4391041+00:00",
-  "LastUpdate_Achievements": "2023-12-15T06:03:48.9503319+00:00"
+  "LastUpdate_Ratings": "2023-12-15T07:00:47.072259+00:00",
+  "LastUpdate_Achievements": "2023-12-15T07:04:39.213559+00:00"
 }

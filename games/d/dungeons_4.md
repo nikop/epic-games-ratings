@@ -26,9 +26,9 @@
 | “… like son” | 51.00% | ~284 |
 | YOU SHALL NOT PASS! | 50.00% | ~278 |
 | The Cathedral of Light | 47.00% | ~262 |
+| Dungeonlord Gorgu | 46.00% | ~256 |
 | Shame! Shame! Shame! | 46.00% | ~256 |
 | Pure Dynamite! | 45.00% | ~251 |
-| Dungeonlord Gorgu | 45.00% | ~251 |
 | Tanos' Crusade Against Thalya | 45.00% | ~251 |
 | Mana Cannon | 41.00% | ~228 |
 | All’s Well That Ends Evil | 39.00% | ~217 |
@@ -53,9 +53,9 @@
 | The Last Stand - This Time For Real! | 19.00% | ~106 |
 | My Little Torture Chamber | 18.00% | ~100 |
 | Lavalumps on Ice! | 18.00% | ~100 |
+| To Infinity And Beyond! | 18.00% | ~100 |
 | Sacrificial Pit = Garbage Disposal? | 17.00% | ~95 |
 | To the Max! | 17.00% | ~95 |
-| To Infinity And Beyond! | 17.00% | ~95 |
 | Evilification | 15.00% | ~84 |
 | Mirror, Mirror | 14.00% | ~78 |
 | Untouchable | 14.00% | ~78 |

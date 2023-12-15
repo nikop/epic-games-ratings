@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2742,
+  "EOS_Progressed": 2743,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4334,6 +4334,11 @@
       "Time": "2023-12-15T06:04:30.1795741+00:00",
       "NumProgressed": 2742,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-15T07:05:38.2926072+00:00",
+      "NumProgressed": 2743,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -4409,7 +4414,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -4425,7 +4430,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2139
+      "UsersEstimate": 2140
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -4449,7 +4454,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -4521,7 +4526,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2111
+      "UsersEstimate": 2112
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -4529,7 +4534,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2523
+      "UsersEstimate": 2524
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -4545,7 +4550,7 @@
       "Name": "The end of the experiments",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -4559,9 +4564,9 @@
       "ID": "STB_MISSION1_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Dark Forest",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 2111
+      "UsersEstimate": 2140
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -4569,7 +4574,7 @@
       "Name": "Thornbarrow",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -4577,7 +4582,7 @@
       "Name": "Clarion Cove",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -4631,9 +4636,9 @@
       "ID": "STB_MISSION8_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "The Great City of Demacia",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 384
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -4641,7 +4646,7 @@
       "Name": "Truth is a dark mirror",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "STB_PET_DOG",
@@ -4689,7 +4694,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -4721,7 +4726,7 @@
       "Name": "The use of petricite",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2056
+      "UsersEstimate": 2057
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -4745,7 +4750,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -4753,7 +4758,7 @@
       "Name": "Ancient power",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -4768,7 +4773,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2742,
+      "Progressed": 2743,
       "Completed": 16
     }
   ],
@@ -4776,8 +4781,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-10T13:58:41.8193759+00:00",
-  "LastChanged_Achievements": "2023-12-15T06:04:30.1795738+00:00",
+  "LastChanged_Achievements": "2023-12-15T07:05:38.2926066+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:11.016025+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:57:14.357176+00:00",
-  "LastUpdate_Achievements": "2023-12-15T06:04:30.1796357+00:00"
+  "LastUpdate_Ratings": "2023-12-15T06:57:14.0745989+00:00",
+  "LastUpdate_Achievements": "2023-12-15T07:05:38.2926551+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 10.00% | ~338 |
-| Watch Where You Step... | 9.00% | ~304 |
+| Watch Where You Step... | 9.00% | ~305 |
 | Look Over There! | 8.00% | ~271 |
 | Not So Fast... | 8.00% | ~271 |
 | An Ill Omen | 8.00% | ~271 |
@@ -19,9 +19,9 @@ Number of Ratings: 371  (23.09.2022)
 | Friendly Fire | 4.00% | ~135 |
 | The Emperor Protects | 4.00% | ~135 |
 | A Foul Creche | 4.00% | ~135 |
-| Nemesis Master | 3.00% | ~101 |
-| Gunmaster | 3.00% | ~101 |
-| Just a Scratch | 3.00% | ~101 |
+| Nemesis Master | 3.00% | ~102 |
+| Gunmaster | 3.00% | ~102 |
+| Just a Scratch | 3.00% | ~102 |
 | Daemonkeeper | 2.00% | ~68 |
 | Hold Your Ground | 2.00% | ~68 |
 | Corruption Cleanser | 2.00% | ~68 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,383 (Ranked 212)  
+Progressed: 3,384 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 3,348 | 0 |
 | 2023-12-13 | 3,351 | 0 |
 | 2023-12-14 | 3,379 | 0 |
-| 2023-12-15 | 3,383 | 0 |
+| 2023-12-15 | 3,384 | 0 |
 ## Awards
 Max (Character Customization): 227  (Ranked 279)  
 Sum: 488 (Ranked 333)  

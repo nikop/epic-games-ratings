@@ -14,15 +14,15 @@
 | Dispel Rumors | 32.00% | ~12 |
 | The End of an Outlaw | 32.00% | ~12 |
 | Captain Mustache | 32.00% | ~12 |
-| Sewer Rat | 29.00% | ~11 |
-| Demon Slayer | 24.00% | ~9 |
-| Urban Explorer | 24.00% | ~9 |
-| Steal Her Away | 24.00% | ~9 |
+| Sewer Rat | 32.00% | ~12 |
+| Demon Slayer | 26.00% | ~10 |
+| Urban Explorer | 26.00% | ~10 |
+| Steal Her Away | 26.00% | ~10 |
 | Coward | 24.00% | ~9 |
 | Fight Fire With Fire | 24.00% | ~9 |
+| Tour Guide | 21.00% | ~8 |
 | Not Today | 21.00% | ~8 |
 | Big Eater | 18.00% | ~7 |
-| Tour Guide | 18.00% | ~7 |
 | The Real O.G. | 16.00% | ~6 |
 | Tomb Raider | 16.00% | ~6 |
 | Talk to the Fist | 13.00% | ~5 |
@@ -32,7 +32,7 @@
 | Taoist | 5.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 38 (Ranked 533)  
-Completed: 2 (5.26%) (Ranked 73)  
+Completed: 2 (5.26%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

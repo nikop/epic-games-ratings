@@ -295,9 +295,9 @@
       "ID": "Build_First_Room",
       "SetID": "7b9f97e",
       "Name": "Enough rooms to swing a cat",
-      "Percentage": 90,
+      "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Build_First_Room_Extension",
@@ -311,9 +311,9 @@
       "ID": "Capture_Own_Tower",
       "SetID": "7b9f97e",
       "Name": "Home Sweet Home",
-      "Percentage": 90,
+      "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Cast_First_Spell",
@@ -439,9 +439,9 @@
       "ID": "First_LevelUp",
       "SetID": "7b9f97e",
       "Name": "First to the post",
-      "Percentage": 88,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "First_Node_Meld",
@@ -711,9 +711,9 @@
       "ID": "Max_Reputation_Sevenkeeps",
       "SetID": "7b9f97e",
       "Name": "Friend of Sevenkeeps",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Max_Reputation_SilverDriftHollow",
@@ -848,8 +848,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-15T06:08:45.6728696+00:00",
+  "LastChanged_Achievements": "2023-12-15T07:09:22.8276343+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:57.4155187+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:57:18.4878212+00:00",
-  "LastUpdate_Achievements": "2023-12-15T06:08:45.6729156+00:00"
+  "LastUpdate_Ratings": "2023-12-15T06:57:20.5605402+00:00",
+  "LastUpdate_Achievements": "2023-12-15T07:09:22.8276969+00:00"
 }

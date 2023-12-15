@@ -8,19 +8,19 @@
 | Starting Skyward | 54.00% | ~199 |
 | Grime is Not Good | 48.00% | ~177 |
 | Floor Galore | 42.00% | ~155 |
-| Dinner Dash | 42.00% | ~155 |
-| Campaign Launch | 40.00% | ~147 |
+| Dinner Dash | 41.00% | ~151 |
+| Campaign Launch | 40.00% | ~148 |
 | Need a Consult | 38.00% | ~140 |
-| It's Technical | 38.00% | ~140 |
-| Upgrade Unlock | 37.00% | ~136 |
-| Delegate Maintenance | 35.00% | ~129 |
+| Upgrade Unlock | 37.00% | ~137 |
+| It's Technical | 37.00% | ~137 |
+| Delegate Maintenance | 34.00% | ~125 |
 | Proper Walls | 32.00% | ~118 |
 | Destination Destiny | 32.00% | ~118 |
 | Happy Tenants | 26.00% | ~96 |
 | Potent Potables | 26.00% | ~96 |
-| Smooth Service | 26.00% | ~96 |
-| Your Prestige is Rising | 24.00% | ~88 |
-| Retail Revenue | 24.00% | ~88 |
+| Smooth Service | 25.00% | ~92 |
+| Your Prestige is Rising | 24.00% | ~89 |
+| Retail Revenue | 24.00% | ~89 |
 | Don't Feel a Loan | 23.00% | ~85 |
 | Artfully Done | 21.00% | ~77 |
 | People Mover | 21.00% | ~77 |
@@ -39,15 +39,15 @@
 | Boutique Benefits | 14.00% | ~52 |
 | Terrifically Trashed | 13.00% | ~48 |
 | Thrilled Tenants | 13.00% | ~48 |
-| 28 Days Later | 11.00% | ~40 |
-| Swimming in Surplus | 11.00% | ~40 |
+| 28 Days Later | 11.00% | ~41 |
+| Swimming in Surplus | 11.00% | ~41 |
 | Aestheticly Pleased | 10.00% | ~37 |
-| Plaza Plan | 10.00% | ~37 |
 | Master of Puppets | 10.00% | ~37 |
-| Refined Palates | 10.00% | ~37 |
+| Plaza Plan | 9.00% | ~33 |
+| Refined Palates | 9.00% | ~33 |
 | Phoning It In | 9.00% | ~33 |
-| First 100 Days | 8.00% | ~29 |
-| Water Features | 8.00% | ~29 |
+| First 100 Days | 8.00% | ~30 |
+| Water Features | 8.00% | ~30 |
 | Careful Constructor | 7.00% | ~26 |
 | Meet Me at HQ | 7.00% | ~26 |
 | Maximum Reuse | 7.00% | ~26 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 368 (Ranked 343)  
+Progressed: 369 (Ranked 343)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-03 | 357 | 0 |
 | 2023-12-13 | 360 | 0 |
 | 2023-12-14 | 367 | 0 |
-| 2023-12-15 | 368 | 0 |
+| 2023-12-15 | 369 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

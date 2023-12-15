@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~123 |
-| This guy... again? | 3.00% | ~61 |
-| Lost and Found | 3.00% | ~61 |
+| Malpractice Assurance | 6.00% | ~124 |
+| This guy... again? | 3.00% | ~62 |
+| Lost and Found | 3.00% | ~62 |
 | This Belongs in a Museum | 2.00% | ~2,544 |
 | Not Today! | 2.00% | ~2,544 |
 | Creep and Sleep | 2.00% | ~2,544 |
@@ -24,31 +24,31 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 1.00% | ~1,272 |
 | To Grandmother's House | 1.00% | ~1,272 |
 | FNG | 1.00% | ~1,272 |
-| Ploughshares to Swords | 1.00% | ~20 |
-| Friends 'Til the End | 1.00% | ~20 |
+| Ploughshares to Swords | 1.00% | ~21 |
+| Friends 'Til the End | 1.00% | ~21 |
 | Dissector | 0.90% | ~1,145 |
 | It Happens | 0.90% | ~1,145 |
 | Merry Time | 0.90% | ~1,145 |
 | Harvest Festival | 0.90% | ~1,145 |
+| Whale | 0.90% | ~1,145 |
 | A Place to Lay Your Head | 0.90% | ~1,145 |
 | Nope | 0.90% | ~1,145 |
-| Deprogramming | 0.80% | ~1,017 |
-| Whale | 0.80% | ~1,017 |
-| Worldly Traveller | 0.80% | ~1,017 |
+| Banishment | 0.80% | ~1,018 |
+| Deprogramming | 0.80% | ~1,018 |
+| Worldly Traveller | 0.80% | ~1,018 |
+| Road Trip | 0.80% | ~1,018 |
 | Unfulfilled Desires | 0.70% | ~890 |
-| Banishment | 0.70% | ~890 |
+| Predator | 0.70% | ~890 |
 | Now Stay Dead | 0.70% | ~890 |
 | Reverse Banditry | 0.70% | ~890 |
 | Spelunker | 0.70% | ~890 |
 | Ramble On | 0.70% | ~890 |
-| Road Trip | 0.70% | ~890 |
 | Resurrection | 0.60% | ~763 |
 | Unleash Hell | 0.60% | ~763 |
 | Funny Guy | 0.60% | ~763 |
 | Long Live the King | 0.60% | ~763 |
 | Wyrdly Reconstructed | 0.60% | ~763 |
 | Boxcar Kid | 0.60% | ~763 |
-| Predator | 0.60% | ~763 |
 | A Clear Conscience | 0.60% | ~763 |
 | When You Want Something Done Right | 0.60% | ~763 |
 | Unshackled | 0.60% | ~763 |
@@ -69,13 +69,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Life Well Lived | 0.20% | ~254 |
 | Clearing the Ledger | 0.20% | ~254 |
 | Bacon Bits | 0.20% | ~254 |
+| Hat Trick | 0.20% | ~254 |
 | Triage | 0.20% | ~254 |
 | Battle Hardened | 0.20% | ~4 |
 | The World As It Was | 0.10% | ~127 |
 | Loop Year | 0.10% | ~127 |
 | Circle of Life | 0.10% | ~127 |
 | No Gravestone Left Unturned | 0.10% | ~127 |
-| Hat Trick | 0.10% | ~127 |
 | 20,000 Leagues Above the Sea | 0.10% | ~127 |
 | Tears in the Rain | 0.10% | ~127 |
 | The Clash | 0.10% | ~127 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,178 (Ranked 84)  
+Progressed: 127,192 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
-| 2023-12-15 | 127,178 | 3 |
+| 2023-12-15 | 127,192 | 3 |
 ## Awards
 Max (Character Customization): 7,718  (Ranked 51)  
 Sum: 20,470 (Ranked 59)  

@@ -5,9 +5,9 @@
   "Ranking_Rating": 599,
   "Ranking_Popularity": 252,
   "Ranking_PopularitySum": 180,
-  "Ranking_EOS_Progress": 125,
+  "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3661,10 +3661,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2907,
       "NumberOfAwardsMax": 323
+    },
+    {
+      "Time": "2023-12-15T07:01:21.9898414+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2908,
+      "NumberOfAwardsMax": 323
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2907,
+  "NumberOfAwards": 2908,
   "NumberOfAwardsMax": 323,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3702,7 +3708,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 267
+      "Count": 268
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3741,9 +3747,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32258,
+  "EOS_Progressed": 32261,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -22351,6 +22357,11 @@
       "Time": "2023-12-15T06:05:56.6211901+00:00",
       "NumProgressed": 32258,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-15T07:07:44.2717068+00:00",
+      "NumProgressed": 32261,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -22690,7 +22701,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "Teamwork",
@@ -22769,16 +22780,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32258,
+      "Progressed": 32261,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-12-15T03:01:30.5631182+00:00",
-  "LastChanged_Achievements": "2023-12-15T06:05:56.62119+00:00",
+  "LastChanged": "2023-12-15T07:01:21.9898413+00:00",
+  "LastChanged_Achievements": "2023-12-15T07:07:44.2717062+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:16.7242615+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:59:55.342658+00:00",
-  "LastUpdate_Achievements": "2023-12-15T06:05:56.6212849+00:00"
+  "LastUpdate_Ratings": "2023-12-15T07:01:21.9898417+00:00",
+  "LastUpdate_Achievements": "2023-12-15T07:07:44.271805+00:00"
 }

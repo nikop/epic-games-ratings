@@ -6,21 +6,21 @@ Number of Ratings: 154  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sonic the Hedgehog | 93.00% | ~600 |
-| Newbie Hero | 81.00% | ~522 |
-| Welcome to Sonic CD | 70.00% | ~451 |
-| Welcome to Sonic 3 & Knuckles | 70.00% | ~451 |
-| Welcome to Sonic the Hedgehog 2 | 69.00% | ~445 |
+| Welcome to Sonic the Hedgehog | 93.00% | ~601 |
+| Newbie Hero | 80.00% | ~517 |
+| Welcome to Sonic CD | 70.00% | ~452 |
+| Welcome to Sonic 3 & Knuckles | 70.00% | ~452 |
+| Welcome to Sonic the Hedgehog 2 | 69.00% | ~446 |
 | Ring Collector | 66.00% | ~426 |
 | Time Traveler | 64.00% | ~413 |
-| Everyone's Hero | 61.00% | ~393 |
-| Easy Peasy with Shields | 58.00% | ~374 |
+| Everyone's Hero | 61.00% | ~394 |
+| Easy Peasy with Shields | 58.00% | ~375 |
 | Bubbly Breath | 57.00% | ~368 |
 | Gallant Spin Dash | 57.00% | ~368 |
-| Knuckles the Echidna | 56.00% | ~361 |
+| Knuckles the Echidna | 56.00% | ~362 |
 | Miles "Tails" Prower | 55.00% | ~355 |
-| Boss Rush Attempt | 49.00% | ~316 |
-| Cleared Sonic the Hedgehog | 47.00% | ~303 |
+| Boss Rush Attempt | 49.00% | ~317 |
+| Cleared Sonic the Hedgehog | 47.00% | ~304 |
 | Super Sonic | 42.00% | ~271 |
 | Shut Down Metal Sonic | 40.00% | ~258 |
 | Beware Stingers! | 40.00% | ~258 |
@@ -42,8 +42,8 @@ Number of Ratings: 154  (23.09.2022)
 | S3 & K Mission Master | 13.00% | ~84 |
 | Sonic the Hedgehog 2 Mission Master | 11.00% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 645 (Ranked 297)  
-Completed: 45 (6.98%) (Ranked 60)  
+Progressed: 646 (Ranked 297)  
+Completed: 45 (6.97%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -201,6 +201,7 @@ Completed: 45 (6.98%) (Ranked 60)
 | 2023-12-10 | 642 | 45 |
 | 2023-12-12 | 643 | 45 |
 | 2023-12-14 | 645 | 45 |
+| 2023-12-15 | 646 | 45 |
 ## Awards
 Max (Great Boss Battles): 131  (Ranked 334)  
 Sum: 131 (Ranked 437)  

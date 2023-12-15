@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1347,
+  "EOS_Progressed": 1350,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3152,6 +3152,11 @@
       "Time": "2023-12-15T04:04:25.0382077+00:00",
       "NumProgressed": 1347,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T07:05:21.7148225+00:00",
+      "NumProgressed": 1350,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3180,7 +3185,7 @@
       "Name": "Out of control",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -3290,9 +3295,9 @@
       "ID": "ML_ACHIEVEMENT_17",
       "SetID": "5k00jcd",
       "Name": "Solo",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -3308,7 +3313,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -3404,7 +3409,7 @@
       "Name": "Shopping time!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -3420,7 +3425,7 @@
       "Name": "Spin the wheel",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -3531,20 +3536,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1347,
+      "Progressed": 1350,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1015,
+      "Progressed": 1018,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-15T06:04:18.0316136+00:00",
+  "LastChanged_Achievements": "2023-12-15T07:05:21.7148219+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:57:35.6551438+00:00",
-  "LastUpdate_Achievements": "2023-12-15T06:04:18.0316858+00:00"
+  "LastUpdate_Ratings": "2023-12-15T06:57:46.8115232+00:00",
+  "LastUpdate_Achievements": "2023-12-15T07:05:21.7148723+00:00"
 }

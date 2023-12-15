@@ -1580,9 +1580,9 @@
       "ID": "any_stat_15",
       "SetID": "69co12a",
       "Name": "Workout professional",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 229
     },
     {
       "ID": "any_stat_30",
@@ -1876,9 +1876,9 @@
       "ID": "own_home",
       "SetID": "69co12a",
       "Name": "Own four walls",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 221
     },
     {
       "ID": "plug_switch",
@@ -2059,8 +2059,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-15T06:08:54.7262629+00:00",
+  "LastChanged_Achievements": "2023-12-15T07:09:35.4877318+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:01.6440907+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:58:02.7079997+00:00",
-  "LastUpdate_Achievements": "2023-12-15T06:08:54.72631+00:00"
+  "LastUpdate_Ratings": "2023-12-15T06:58:27.6187137+00:00",
+  "LastUpdate_Achievements": "2023-12-15T07:09:35.4877797+00:00"
 }

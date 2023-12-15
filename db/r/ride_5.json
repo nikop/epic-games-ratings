@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2535,
+  "EOS_Progressed": 2536,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6262,6 +6262,11 @@
       "Time": "2023-12-15T05:03:58.3238362+00:00",
       "NumProgressed": 2535,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T07:04:06.3028501+00:00",
+      "NumProgressed": 2536,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6346,7 +6351,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -6482,7 +6487,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -6562,7 +6567,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -6665,14 +6670,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2535,
+      "Progressed": 2536,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-15T06:03:26.1862378+00:00",
+  "LastChanged_Achievements": "2023-12-15T07:04:06.3028493+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.7630663+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:59:50.5187966+00:00",
-  "LastUpdate_Achievements": "2023-12-15T06:03:26.1862862+00:00"
+  "LastUpdate_Ratings": "2023-12-15T07:01:14.7708209+00:00",
+  "LastUpdate_Achievements": "2023-12-15T07:04:06.3029048+00:00"
 }

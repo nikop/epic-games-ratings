@@ -6,61 +6,61 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~32,872 |
-| Skillful | 3.00% | ~32,872 |
-| Handyman | 2.00% | ~21,915 |
-| Zealous | 2.00% | ~21,915 |
-| Not half bad | 2.00% | ~21,915 |
-| Apt Survivor | 2.00% | ~21,915 |
-| Survival Treasures | 2.00% | ~21,915 |
-| I | 2.00% | ~21,915 |
-| Sorted | 2.00% | ~21,915 |
-| Make Some Noise | 2.00% | ~21,915 |
-| The Grand Sacrifice | 1.00% | ~10,957 |
-| Agonizing Escape | 1.00% | ~10,957 |
-| Backdoor Escape | 1.00% | ~10,957 |
-| I've got your back | 1.00% | ~10,957 |
-| No one left behind | 1.00% | ~10,957 |
-| Medic | 1.00% | ~10,957 |
-| Perfect Escape | 1.00% | ~10,957 |
-| Perfect Killing | 1.00% | ~10,957 |
-| Bloody Millionaire | 1.00% | ~10,957 |
-| Apt Killer | 1.00% | ~10,957 |
-| Risk it all | 1.00% | ~10,957 |
-| II | 1.00% | ~10,957 |
-| Engineer | 1.00% | ~10,957 |
-| Wounded Healer | 1.00% | ~10,957 |
-| Healthy Obsession | 1.00% | ~10,957 |
-| Resurgence | 1.00% | ~10,957 |
-| Close Shave | 1.00% | ~10,957 |
-| Preemptive Strike | 1.00% | ~10,957 |
-| Humanitarian | 1.00% | ~10,957 |
+| It wakes | 3.00% | ~32,874 |
+| Skillful | 3.00% | ~32,874 |
+| Handyman | 2.00% | ~21,916 |
+| Zealous | 2.00% | ~21,916 |
+| Not half bad | 2.00% | ~21,916 |
+| Apt Survivor | 2.00% | ~21,916 |
+| Survival Treasures | 2.00% | ~21,916 |
+| I | 2.00% | ~21,916 |
+| Sorted | 2.00% | ~21,916 |
+| Make Some Noise | 2.00% | ~21,916 |
+| The Grand Sacrifice | 1.00% | ~10,958 |
+| Agonizing Escape | 1.00% | ~10,958 |
+| Backdoor Escape | 1.00% | ~10,958 |
+| I've got your back | 1.00% | ~10,958 |
+| No one left behind | 1.00% | ~10,958 |
+| Medic | 1.00% | ~10,958 |
+| Perfect Escape | 1.00% | ~10,958 |
+| Perfect Killing | 1.00% | ~10,958 |
+| Bloody Millionaire | 1.00% | ~10,958 |
+| Apt Killer | 1.00% | ~10,958 |
+| Risk it all | 1.00% | ~10,958 |
+| II | 1.00% | ~10,958 |
+| Engineer | 1.00% | ~10,958 |
+| Wounded Healer | 1.00% | ~10,958 |
+| Healthy Obsession | 1.00% | ~10,958 |
+| Resurgence | 1.00% | ~10,958 |
+| Close Shave | 1.00% | ~10,958 |
+| Preemptive Strike | 1.00% | ~10,958 |
+| Humanitarian | 1.00% | ~10,958 |
 | III | 0.90% | ~9,862 |
 | Vulture | 0.80% | ~8,766 |
 | First to the Punch | 0.80% | ~8,766 |
 | With Scars to Show | 0.80% | ~8,766 |
 | Lifting The Fog | 0.80% | ~8,766 |
 | Second Act | 0.80% | ~8,766 |
-| Blood on your hands | 0.70% | ~7,670 |
-| Escape Artist | 0.70% | ~7,670 |
-| Operation: Survival | 0.70% | ~7,670 |
-| Every Last Drop | 0.70% | ~7,670 |
-| Raccoon City Recruit | 0.70% | ~7,670 |
-| Flight to Freedom | 0.70% | ~7,670 |
-| Chorus of Chaos | 0.70% | ~7,670 |
-| Made it out alive! | 0.60% | ~6,574 |
-| Gifts for the Fog | 0.60% | ~6,574 |
-| III-50 | 0.60% | ~6,574 |
-| All Aboard | 0.60% | ~6,574 |
-| Item of Obsession | 0.60% | ~6,574 |
-| House of Pain | 0.60% | ~6,574 |
-| Holiday Get-Together | 0.60% | ~6,574 |
-| Near-Death Experience | 0.60% | ~6,574 |
-| Cherish your Life | 0.60% | ~6,574 |
-| Unforgettable Getaway | 0.60% | ~6,574 |
-| Cutting Out | 0.60% | ~6,574 |
-| Old West Oasis | 0.60% | ~6,574 |
-| Classy Act | 0.60% | ~6,574 |
+| Blood on your hands | 0.70% | ~7,671 |
+| Escape Artist | 0.70% | ~7,671 |
+| Operation: Survival | 0.70% | ~7,671 |
+| Every Last Drop | 0.70% | ~7,671 |
+| Raccoon City Recruit | 0.70% | ~7,671 |
+| Flight to Freedom | 0.70% | ~7,671 |
+| Chorus of Chaos | 0.70% | ~7,671 |
+| Made it out alive! | 0.60% | ~6,575 |
+| Gifts for the Fog | 0.60% | ~6,575 |
+| III-50 | 0.60% | ~6,575 |
+| All Aboard | 0.60% | ~6,575 |
+| Item of Obsession | 0.60% | ~6,575 |
+| House of Pain | 0.60% | ~6,575 |
+| Holiday Get-Together | 0.60% | ~6,575 |
+| Near-Death Experience | 0.60% | ~6,575 |
+| Cherish your Life | 0.60% | ~6,575 |
+| Unforgettable Getaway | 0.60% | ~6,575 |
+| Cutting Out | 0.60% | ~6,575 |
+| Old West Oasis | 0.60% | ~6,575 |
+| Classy Act | 0.60% | ~6,575 |
 | Blood on your face | 0.50% | ~5,479 |
 | Nerves of steel | 0.50% | ~5,479 |
 | Shock Therapy | 0.50% | ~5,479 |
@@ -101,17 +101,17 @@ Number of Ratings: 70,340  (23.09.2022)
 | Triage | 0.30% | ~3,287 |
 | High Speed Pursuit | 0.30% | ~3,287 |
 | Complete the Evolution | 0.30% | ~3,287 |
-| Looter | 0.20% | ~2,191 |
-| Dismantle | 0.20% | ~2,191 |
-| Denied! | 0.20% | ~2,191 |
-| Death of Ignorance | 0.20% | ~2,191 |
-| Power Moves | 0.20% | ~2,191 |
-| Prowler | 0.20% | ~2,191 |
-| Ghost in the Machine | 0.20% | ~2,191 |
-| Hack the Mainframe | 0.20% | ~2,191 |
-| Disarm and Dismember | 0.20% | ~2,191 |
-| Kitted Out | 0.20% | ~2,191 |
-| Joke’s On You | 0.20% | ~2,191 |
+| Looter | 0.20% | ~2,192 |
+| Dismantle | 0.20% | ~2,192 |
+| Denied! | 0.20% | ~2,192 |
+| Death of Ignorance | 0.20% | ~2,192 |
+| Power Moves | 0.20% | ~2,192 |
+| Prowler | 0.20% | ~2,192 |
+| Ghost in the Machine | 0.20% | ~2,192 |
+| Hack the Mainframe | 0.20% | ~2,192 |
+| Disarm and Dismember | 0.20% | ~2,192 |
+| Kitted Out | 0.20% | ~2,192 |
+| Joke’s On You | 0.20% | ~2,192 |
 | A feast for the Entity | 0.10% | ~1,096 |
 | Cripple them all | 0.10% | ~1,096 |
 | The Grind | 0.10% | ~1,096 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,096 |
 | Adept Good Guy | 0.10% | ~1,096 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,095,732 (Ranked 12)  
+Progressed: 1,095,789 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -478,15 +478,15 @@ Completed: 62 (0.01%) (Ranked 353)
 | 2023-12-12 | 1,090,736 | 62 |
 | 2023-12-13 | 1,092,812 | 62 |
 | 2023-12-14 | 1,095,217 | 62 |
-| 2023-12-15 | 1,095,732 | 62 |
+| 2023-12-15 | 1,095,789 | 62 |
 ## Awards
 Max (Diverse Characters): 37,936  (Ranked 15)  
-Sum: 287,013 (Ranked 12)  
+Sum: 287,071 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 37,936 |
-| This game is Highly Recommended | 32,822 |
+| This game is Highly Recommended | 32,880 |
 | This game has Amazing Characters | 32,341 |
 | This game has Competitive Players | 32,122 |
 | This game is Extremely Fun | 31,784 |
@@ -824,4 +824,4 @@ Diff (max vs sum): 3
 | 2023-12-12 | 4.51 | - | 37,733 | 286,071 |
 | 2023-12-13 | 4.51 | - | 37,782 | 286,420 |
 | 2023-12-14 | 4.51 | - | 37,855 | 286,889 |
-| 2023-12-15 | 4.51 | - | 37,936 | 287,013 |
+| 2023-12-15 | 4.51 | - | 37,936 | 287,071 |

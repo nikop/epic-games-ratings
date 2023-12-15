@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 601,
+  "EOS_Progressed": 602,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1952,6 +1952,11 @@
       "Time": "2023-12-15T03:09:37.1807847+00:00",
       "NumProgressed": 601,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T07:09:18.5105511+00:00",
+      "NumProgressed": 602,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1963,7 +1968,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1971,7 +1976,7 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -2051,7 +2056,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2075,7 +2080,7 @@
       "Name": "Beginner Cook",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -2091,7 +2096,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2099,7 +2104,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2291,7 +2296,7 @@
       "Name": "Flower Thief",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2299,7 +2304,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2307,7 +2312,7 @@
       "Name": "Seal Breaker",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -2315,14 +2320,14 @@
       "Name": "Handyman",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 601,
+      "Progressed": 602,
       "Completed": 1
     }
   ],
@@ -2330,8 +2335,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-15T06:08:42.8581008+00:00",
+  "LastChanged_Achievements": "2023-12-15T07:09:18.5105506+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.1790952+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:58:13.4266221+00:00",
-  "LastUpdate_Achievements": "2023-12-15T06:08:42.8581408+00:00"
+  "LastUpdate_Ratings": "2023-12-15T06:58:44.5674627+00:00",
+  "LastUpdate_Achievements": "2023-12-15T07:09:18.5105974+00:00"
 }

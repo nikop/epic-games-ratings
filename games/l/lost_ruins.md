@@ -30,10 +30,10 @@
 | Arrive Home | 3.00% | ~16 |
 | Holy Knight | 3.00% | ~16 |
 | Marksman | 3.00% | ~16 |
+| Sling of David | 3.00% | ~16 |
 | Spell Master | 3.00% | ~16 |
 | Hoarder | 2.00% | ~10 |
 | Meat Lover | 2.00% | ~10 |
-| Sling of David | 2.00% | ~10 |
 | Sword Master | 2.00% | ~10 |
 | Witch | 2.00% | ~10 |
 | Assassin | 1.00% | ~5 |
@@ -46,7 +46,7 @@
 | Hardboiled | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 520 (Ranked 319)  
-Completed: 1 (0.19%) (Ranked 268)  
+Completed: 1 (0.19%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

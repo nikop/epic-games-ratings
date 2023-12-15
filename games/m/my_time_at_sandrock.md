@@ -32,11 +32,11 @@ Number of Ratings: 892  (23.09.2022)
 | Waste Not Want Not | 62.00% | ~346 |
 | Panda-kin | 61.00% | ~340 |
 | Officially Official | 61.00% | ~340 |
+| Happier-est Place on Earth | 61.00% | ~340 |
 | Anti-Santa | 61.00% | ~340 |
 | You Don't Win Friends With Salad | 61.00% | ~340 |
 | Commissions, commissions...! | 60.00% | ~335 |
 | Martle's Dream | 60.00% | ~335 |
-| Happier-est Place on Earth | 60.00% | ~335 |
 | Better Late than Never | 58.00% | ~324 |
 | Mole Masher | 58.00% | ~324 |
 | What Plants Crave | 57.00% | ~318 |
@@ -117,9 +117,9 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-14 | 553 | 0 |
 | 2023-12-15 | 558 | 0 |
 ## Awards
-Max (Character Customization): 608  (Ranked 197)  
+Max (Character Customization): 608  (Ranked 198)  
 Sum: 1,435 (Ranked 240)  
-Diff (max vs sum): -43  
+Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 608 |

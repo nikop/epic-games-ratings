@@ -24,14 +24,14 @@
 | Employee of the month | 65.00% | ~248 |
 | Spirit of the past | 64.00% | ~244 |
 | Law student | 61.00% | ~232 |
-| Workout professional | 59.00% | ~225 |
+| Workout professional | 60.00% | ~229 |
 | Handyman | 59.00% | ~225 |
 | Little hacker | 58.00% | ~221 |
 | Champion – starter pack | 58.00% | ~221 |
 | It's good to be alive | 58.00% | ~221 |
+| Own four walls | 58.00% | ~221 |
 | Employee of the year | 58.00% | ~221 |
 | Fight for life | 57.00% | ~217 |
-| Own four walls | 57.00% | ~217 |
 | Intriguing candies | 57.00% | ~217 |
 | Legal courier | 54.00% | ~206 |
 | Extreme neuropower! | 54.00% | ~206 |

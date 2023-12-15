@@ -5,23 +5,23 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 11.00% | ~1,858 |
-| Paper Jams | 10.00% | ~1,689 |
-| Flesh Wound | 9.00% | ~1,520 |
-| Float Like A Butterfly | 8.00% | ~1,351 |
-| The Outer Way | 8.00% | ~1,351 |
-| Chew 'Em Up | 7.00% | ~1,182 |
-| Reforged | 7.00% | ~1,182 |
-| Desperate Times | 7.00% | ~1,182 |
-| Two Heads Are Better Than One | 6.00% | ~1,013 |
-| Workplace Hazard | 6.00% | ~1,013 |
-| If the SHU Fits... | 6.00% | ~1,013 |
-| Without A Paddle | 6.00% | ~1,013 |
-| In the Pipe, Five by Five | 6.00% | ~1,013 |
-| Crash Site | 6.00% | ~1,013 |
-| Full Circle | 6.00% | ~1,013 |
-| Power Up | 6.00% | ~1,013 |
-| Keep Fighting | 6.00% | ~289 |
+| Get a Grip | 11.00% | ~1,859 |
+| Paper Jams | 10.00% | ~1,690 |
+| Flesh Wound | 9.00% | ~1,521 |
+| Float Like A Butterfly | 8.00% | ~1,352 |
+| The Outer Way | 8.00% | ~1,352 |
+| Chew 'Em Up | 7.00% | ~1,183 |
+| Reforged | 7.00% | ~1,183 |
+| Desperate Times | 7.00% | ~1,183 |
+| Two Heads Are Better Than One | 6.00% | ~1,014 |
+| Workplace Hazard | 6.00% | ~1,014 |
+| If the SHU Fits... | 6.00% | ~1,014 |
+| Without A Paddle | 6.00% | ~1,014 |
+| In the Pipe, Five by Five | 6.00% | ~1,014 |
+| Crash Site | 6.00% | ~1,014 |
+| Full Circle | 6.00% | ~1,014 |
+| Power Up | 6.00% | ~1,014 |
+| Keep Fighting | 6.00% | ~290 |
 | You Need a Gun | 5.00% | ~845 |
 | I Do Belong Here | 5.00% | ~845 |
 | Terminated | 5.00% | ~845 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~5 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,891 (Ranked 150)  
+Progressed: 16,903 (Ranked 151)  
 Completed: 81 (0.48%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 81 (0.48%) (Ranked 212)
 | 2023-12-11 | 16,525 | 81 |
 | 2023-12-13 | 16,561 | 81 |
 | 2023-12-14 | 16,823 | 81 |
-| 2023-12-15 | 16,891 | 81 |
+| 2023-12-15 | 16,903 | 81 |
 ## Awards
 Max (Quickly Understood Controls): 85  (Ranked 391)  
 Sum: 508 (Ranked 329)  

@@ -5,9 +5,9 @@
   "Ranking_Rating": 17,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
-  "Ranking_EOS_Progress": 273,
+  "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 985,
+  "EOS_Progressed": 986,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2502,6 +2502,11 @@
       "Time": "2023-12-15T05:07:18.9256368+00:00",
       "NumProgressed": 985,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T07:07:26.8997859+00:00",
+      "NumProgressed": 986,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2522,7 +2527,7 @@
       "Name": "Ab Initio",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "AnthropicHills",
@@ -2618,7 +2623,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "EcstaticTruth",
@@ -2682,7 +2687,7 @@
       "Name": "Into the Machine",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "JustOneLap",
@@ -2826,7 +2831,7 @@
       "Name": "Signatory",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "SingleRod",
@@ -2970,7 +2975,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "YourBiggestFan",
@@ -2985,7 +2990,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 985,
+      "Progressed": 986,
       "Completed": 1
     }
   ],
@@ -2993,8 +2998,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-15T06:05:44.6659463+00:00",
+  "LastChanged_Achievements": "2023-12-15T07:07:26.8997854+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-15T06:00:06.0962541+00:00",
-  "LastUpdate_Achievements": "2023-12-15T06:05:44.6659883+00:00"
+  "LastUpdate_Ratings": "2023-12-15T07:01:39.1990908+00:00",
+  "LastUpdate_Achievements": "2023-12-15T07:07:26.8998305+00:00"
 }

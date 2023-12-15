@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 839,
+  "EOS_Progressed": 840,
   "EOS_Completed": 140,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 16.69,
+  "EOS_Completed_Percentage": 16.67,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3586,6 +3586,11 @@
       "Time": "2023-12-13T23:05:09.1395742+00:00",
       "NumProgressed": 839,
       "NumCompleted": 140
+    },
+    {
+      "Time": "2023-12-15T07:05:46.903752+00:00",
+      "NumProgressed": 840,
+      "NumCompleted": 140
     }
   ],
   "TotalAchievements": 22,
@@ -3597,7 +3602,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "LEVEL_002",
@@ -3605,7 +3610,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "LEVEL_003",
@@ -3613,7 +3618,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "LEVEL_004",
@@ -3637,7 +3642,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "LEVEL_007",
@@ -3685,7 +3690,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "LEVEL_013",
@@ -3717,7 +3722,7 @@
       "Name": "The beach is right there",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "LEVEL_017",
@@ -3725,7 +3730,7 @@
       "Name": "Commuting",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "LEVEL_018",
@@ -3772,7 +3777,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 839,
+      "Progressed": 840,
       "Completed": 140
     }
   ],
@@ -3780,8 +3785,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-12-15T06:04:36.2500077+00:00",
+  "LastChanged_Achievements": "2023-12-15T07:05:46.9037515+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:33.3015256+00:00",
-  "LastUpdate_Ratings": "2023-12-15T05:02:45.6210917+00:00",
-  "LastUpdate_Achievements": "2023-12-15T06:04:36.2500374+00:00"
+  "LastUpdate_Ratings": "2023-12-15T06:57:00.5551394+00:00",
+  "LastUpdate_Achievements": "2023-12-15T07:05:46.9037828+00:00"
 }
