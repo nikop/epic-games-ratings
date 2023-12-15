@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 92.00% | ~30,696 |
-| Enemy Attrition | 69.00% | ~23,022 |
-| Grim Reaper | 67.00% | ~22,355 |
-| Heads Down | 65.00% | ~21,687 |
-| Not On My Watch | 62.00% | ~20,686 |
-| Combat Engineer | 45.00% | ~15,014 |
-| Eager Beaver | 38.00% | ~12,679 |
-| Call ’em in! | 35.00% | ~11,678 |
-| Lovely | 33.00% | ~11,010 |
-| Elite | 20.00% | ~6,673 |
-| Store fuglar fanga ingi flugor | 20.00% | ~6,673 |
-| Ou La Mort | 18.00% | ~6,006 |
-| Fender Bender | 13.00% | ~4,337 |
-| Globetrotter | 10.00% | ~3,336 |
-| Jack of All Trades | 9.00% | ~3,003 |
-| Storyteller | 6.00% | ~2,002 |
-| Off-hand | 4.00% | ~1,335 |
-| Death from Above | 3.00% | ~1,001 |
-| Veteran | 1.00% | ~334 |
-| Hoist the Flag | 0.40% | ~133 |
-| Sins of the Fathers | 0.30% | ~100 |
+| Last Man Standing | 92.00% | ~31,133 |
+| Enemy Attrition | 69.00% | ~23,350 |
+| Grim Reaper | 67.00% | ~22,673 |
+| Heads Down | 65.00% | ~21,996 |
+| Not On My Watch | 62.00% | ~20,981 |
+| Combat Engineer | 45.00% | ~15,228 |
+| Eager Beaver | 37.00% | ~12,521 |
+| Call ’em in! | 35.00% | ~11,844 |
+| Lovely | 32.00% | ~10,829 |
+| Elite | 20.00% | ~6,768 |
+| Store fuglar fanga ingi flugor | 20.00% | ~6,768 |
+| Ou La Mort | 18.00% | ~6,091 |
+| Fender Bender | 13.00% | ~4,399 |
+| Globetrotter | 10.00% | ~3,384 |
+| Jack of All Trades | 9.00% | ~3,046 |
+| Storyteller | 5.00% | ~1,692 |
+| Off-hand | 4.00% | ~1,354 |
+| Death from Above | 3.00% | ~1,015 |
+| Veteran | 1.00% | ~338 |
+| Hoist the Flag | 0.40% | ~135 |
+| Sins of the Fathers | 0.30% | ~102 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,365 (Ranked 125)  
+Progressed: 33,840 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,4 +116,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 24,993 | 0 |
 | 2023-12-13 | 25,198 | 0 |
 | 2023-12-14 | 30,644 | 0 |
-| 2023-12-15 | 33,365 | 0 |
+| 2023-12-15 | 33,840 | 0 |

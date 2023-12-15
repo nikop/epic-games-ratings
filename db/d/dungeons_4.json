@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1595,9 +1595,9 @@
       "ID": "ach_main03demon_doors",
       "SetID": "4hg22ll",
       "Name": "Master of Magic",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 352
+      "UsersEstimate": 358
     },
     {
       "ID": "ach_main03demon_spells",
@@ -1747,9 +1747,9 @@
       "ID": "ach_main09journey_killheroes",
       "SetID": "4hg22ll",
       "Name": "Dungeonlord Gorgu",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 257
     },
     {
       "ID": "ach_main09journey_nospells",
@@ -2034,8 +2034,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:05:19.3230637+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:05:33.6963815+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:57:27.567777+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:05:19.3231071+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:57:29.3245431+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:05:33.6964394+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 3738,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -143,9 +143,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15205,
+  "EOS_Progressed": 15207,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 569,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3713,6 +3713,11 @@
       "Time": "2023-12-15T09:09:01.8931006+00:00",
       "NumProgressed": 15205,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-15T10:09:02.8257845+00:00",
+      "NumProgressed": 15207,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -3725,7 +3730,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5778
+      "UsersEstimate": 5779
     },
     {
       "ID": "ACH_AE_10",
@@ -3733,7 +3738,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "ACH_AE_11",
@@ -3757,7 +3762,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11404
+      "UsersEstimate": 11405
     },
     {
       "ID": "ACH_AE_14",
@@ -3773,7 +3778,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3345
+      "UsersEstimate": 3346
     },
     {
       "ID": "ACH_AE_16",
@@ -3813,7 +3818,7 @@
       "Name": "Back to School",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3497
+      "UsersEstimate": 3498
     },
     {
       "ID": "ACH_AE_20",
@@ -3821,7 +3826,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "ACH_AE_21",
@@ -3837,7 +3842,7 @@
       "Name": "The High Road",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 3497
+      "UsersEstimate": 3498
     },
     {
       "ID": "ACH_AE_23",
@@ -3973,7 +3978,7 @@
       "Name": "Betrayal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "ACH_AE_7",
@@ -3989,7 +3994,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "ACH_AE_9",
@@ -3997,14 +4002,14 @@
       "Name": "Paradise Lost",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15205,
+      "Progressed": 15207,
       "Completed": 14
     }
   ],
@@ -4012,8 +4017,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-13T16:00:23.030195+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:09:01.8930999+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:09:02.8257841+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:28.350985+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:59:55.2971644+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:09:01.8931314+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:59:57.0500543+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:09:02.825832+00:00"
 }

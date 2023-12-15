@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,191 (Ranked 146)  
+Progressed: 18,193 (Ranked 146)  
 Completed: 39 (0.21%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,10 +305,10 @@ Completed: 39 (0.21%) (Ranked 260)
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
 | 2023-12-14 | 18,153 | 40 |
-| 2023-12-15 | 18,191 | 39 |
+| 2023-12-15 | 18,193 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
-Sum: 3,260 (Ranked 175)  
+Sum: 3,261 (Ranked 175)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -317,7 +317,7 @@ Diff (max vs sum): 53
 | This game is Great for Beginners | 426 |
 | This game is Extremely Fun | 410 |
 | This game is Highly Recommended | 391 |
-| This game has Unique Visuals | 331 |
+| This game has Unique Visuals | 332 |
 | This game has Amazing Storytelling | 321 |
 | This game has Amazing Characters | 288 |
 | This game has Obsessive Gameplay | 254 |
@@ -579,4 +579,4 @@ Diff (max vs sum): 53
 | 2023-12-12 | 4.82 | - | 442 | 3,255 |
 | 2023-12-13 | 4.82 | - | 442 | 3,256 |
 | 2023-12-14 | 4.82 | - | 442 | 3,258 |
-| 2023-12-15 | 4.82 | - | 442 | 3,260 |
+| 2023-12-15 | 4.82 | - | 442 | 3,261 |

@@ -471,9 +471,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3370,
+  "EOS_Progressed": 3371,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.09,
   "EosHistory": [
@@ -5386,6 +5386,11 @@
       "Time": "2023-12-15T08:03:28.0974527+00:00",
       "NumProgressed": 3370,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-12-15T10:03:29.0285121+00:00",
+      "NumProgressed": 3371,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 14,
@@ -5413,7 +5418,7 @@
       "Name": "Cat Person",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "ACH_CLIMBER",
@@ -5421,7 +5426,7 @@
       "Name": "Climber",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -5459,9 +5464,9 @@
       "ID": "ACH_IMPRISONMENT",
       "SetID": "4kfb9pd",
       "Name": "Imprisonment",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 809
+      "UsersEstimate": 775
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -5508,7 +5513,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3370,
+      "Progressed": 3371,
       "Completed": 138
     }
   ],
@@ -5516,8 +5521,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-18T13:02:58.1900278+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:03:15.0863161+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:03:29.0285116+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:09.6040213+00:00",
-  "LastUpdate_Ratings": "2023-12-15T09:00:01.1283775+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:03:15.0863536+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:00:03.1087769+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:03:29.0285488+00:00"
 }

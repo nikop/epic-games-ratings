@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 966,
+  "EOS_Progressed": 967,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2619,6 +2619,11 @@
       "Time": "2023-12-15T08:09:25.9066401+00:00",
       "NumProgressed": 966,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-15T10:09:30.228181+00:00",
+      "NumProgressed": 967,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2918,7 +2923,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "RewindParry",
@@ -3053,7 +3058,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 966,
+      "Progressed": 967,
       "Completed": 6
     }
   ],
@@ -3061,8 +3066,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:09:29.3617945+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:09:30.2281805+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-15T09:00:24.9752518+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:09:29.361836+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:00:26.2069366+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:09:30.2282426+00:00"
 }

@@ -6,34 +6,34 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~37,080 |
-| Biggest Communism Builder | 24.00% | ~31,783 |
-| The World's Most Laughable Centrist | 21.00% | ~27,810 |
-| Il Coppo Del'Arte! | 18.00% | ~23,837 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,189 |
-| Hyperstellar Law Official | 16.00% | ~21,189 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,540 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,540 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,216 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,567 |
-| The Figurines Won't Win Her Back | 10.00% | ~13,243 |
-| Unbelievably Boring **** | 9.00% | ~11,919 |
-| Enemy Of The Physical Realm | 9.00% | ~11,919 |
-| Hardie's Heroes | 6.00% | ~7,946 |
-| The Lawbringer | 4.00% | ~5,297 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,297 |
-| The Opener Of The Eighth Seal | 3.00% | ~3,973 |
-| Bother Kim After Hours | 3.00% | ~3,973 |
+| Goodest Of The Good Cops | 28.00% | ~37,087 |
+| Biggest Communism Builder | 24.00% | ~31,789 |
+| The World's Most Laughable Centrist | 21.00% | ~27,816 |
+| Il Coppo Del'Arte! | 18.00% | ~23,842 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,193 |
+| Hyperstellar Law Official | 16.00% | ~21,193 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,544 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,544 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,219 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,570 |
+| The Figurines Won't Win Her Back | 10.00% | ~13,246 |
+| Unbelievably Boring **** | 9.00% | ~11,921 |
+| Enemy Of The Physical Realm | 9.00% | ~11,921 |
+| Hardie's Heroes | 6.00% | ~7,947 |
+| The Lawbringer | 4.00% | ~5,298 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,298 |
+| The Opener Of The Eighth Seal | 3.00% | ~3,974 |
+| Bother Kim After Hours | 3.00% | ~3,974 |
 | Baddest Of the Bad Cops | 2.00% | ~2,649 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,649 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,649 |
 | Wheel of Pleasure and Light | 2.00% | ~2,649 |
-| Massive Torque Dork | 1.00% | ~1,324 |
-| Avowed Inframaterialist | 1.00% | ~1,324 |
+| Massive Torque Dork | 1.00% | ~1,325 |
+| Avowed Inframaterialist | 1.00% | ~1,325 |
 | Committee of la Responsabilité | 0.90% | ~1,192 |
 | Venture into the HARDCORE | 0.90% | ~1,192 |
 | Real Musor | 0.90% | ~1,192 |
-| Baddest Brow in Town | 0.80% | ~1,059 |
+| Baddest Brow in Town | 0.80% | ~1,060 |
 | Networthy Individual | 0.70% | ~927 |
 | Leopard Mindset | 0.60% | ~795 |
 | Modus: Mullen | 0.30% | ~397 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~132 |
 | What body? | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,430 (Ranked 83)  
+Progressed: 132,455 (Ranked 83)  
 Completed: 28 (0.02%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 28 (0.02%) (Ranked 345)
 | 2023-12-12 | 131,916 | 28 |
 | 2023-12-13 | 131,965 | 28 |
 | 2023-12-14 | 132,283 | 28 |
-| 2023-12-15 | 132,430 | 28 |
+| 2023-12-15 | 132,455 | 28 |
 ## Awards
 Max (Character Customization): 746  (Ranked 183)  
 Sum: 1,140 (Ranked 256)  

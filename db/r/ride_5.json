@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2546,
+  "EOS_Progressed": 2547,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6277,6 +6277,11 @@
       "Time": "2023-12-15T09:03:22.3896073+00:00",
       "NumProgressed": 2546,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T10:03:36.4157662+00:00",
+      "NumProgressed": 2547,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6465,7 +6470,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -6577,7 +6582,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -6593,7 +6598,7 @@
       "Name": "Champagne Spray",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -6680,14 +6685,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2546,
+      "Progressed": 2547,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:03:22.3896069+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:03:36.4157657+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.7630663+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:59:56.6392747+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:03:22.389658+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:59:58.2632273+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:03:36.4158602+00:00"
 }

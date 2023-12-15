@@ -1,17 +1,17 @@
 # Lost Eidolons
 [Store](https://store.epicgames.com/en-US/p/lost-eidolons)  
 [View Rawdata](../../db/l/lost_eidolons.json)  
-Rating: 4.34 (Ranked 813)  
+Rating: 4.34 (Ranked 814)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The First Step | 68.00% | ~779 |
 | First Blood | 64.00% | ~733 |
-| Ready to Learn | 61.00% | ~698 |
-| Monster Hunter | 52.00% | ~595 |
-| Earning Trust | 50.00% | ~572 |
+| Ready to Learn | 61.00% | ~699 |
+| Monster Hunter | 52.00% | ~596 |
+| Earning Trust | 50.00% | ~573 |
 | Monster Slayer | 29.00% | ~332 |
-| Awakening | 23.00% | ~263 |
+| Awakening | 23.00% | ~264 |
 | Huntmaster | 22.00% | ~252 |
 | Complete the sidequest 'Malice and Greed' | 18.00% | ~206 |
 | Digging Deep | 14.00% | ~160 |
@@ -29,7 +29,7 @@ Rating: 4.34 (Ranked 813)
 | First Bloom | 1.00% | ~11 |
 | Lean on Me | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,145 (Ranked 264)  
+Progressed: 1,146 (Ranked 264)  
 Completed: 1 (0.09%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 1 (0.09%) (Ranked 303)
 | 2023-11-28 | 1,139 | 1 |
 | 2023-12-07 | 1,140 | 1 |
 | 2023-12-14 | 1,146 | 1 |
-| 2023-12-15 | 1,145 | 1 |
+| 2023-12-15 | 1,146 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

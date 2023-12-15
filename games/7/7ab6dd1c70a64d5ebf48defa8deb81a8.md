@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 29.00% | ~122 |
-| Trinity | 12.00% | ~50 |
-| Shatter Them All | 10.00% | ~42 |
+| Break Out | 29.00% | ~124 |
+| Trinity | 12.00% | ~51 |
+| Shatter Them All | 10.00% | ~43 |
 | Find Allies | 9.00% | ~38 |
 | A Taste of Wrath | 9.00% | ~38 |
 | Fashion Victim | 9.00% | ~38 |
@@ -14,11 +14,11 @@
 | Tributes of Caladrias | 8.00% | ~34 |
 | Geared Up | 8.00% | ~34 |
 | The Collector | 8.00% | ~34 |
-| Powerful Allies | 7.00% | ~29 |
-| Adventurer | 7.00% | ~29 |
-| Scholar | 7.00% | ~29 |
-| Stone Collection | 7.00% | ~29 |
-| Big Bazar | 6.00% | ~25 |
+| Powerful Allies | 7.00% | ~30 |
+| Adventurer | 7.00% | ~30 |
+| Scholar | 7.00% | ~30 |
+| Stone Collection | 7.00% | ~30 |
+| Big Bazar | 6.00% | ~26 |
 | The Mentor | 5.00% | ~21 |
 | Essence Blow | 5.00% | ~21 |
 | Calm before the Storm | 4.00% | ~17 |
@@ -28,21 +28,21 @@
 | Clear Sight | 3.00% | ~13 |
 | Airborne | 3.00% | ~13 |
 | Fine Feathers Make Fine Birds | 3.00% | ~13 |
-| Shatterer | 2.00% | ~8 |
-| Slayer | 2.00% | ~8 |
-| All There Is | 2.00% | ~8 |
-| False God | 2.00% | ~8 |
-| Miner | 2.00% | ~8 |
-| A Queen's Tale | 2.00% | ~8 |
-| Forgemaster | 1.00% | ~4 |
+| Shatterer | 2.00% | ~9 |
+| Slayer | 2.00% | ~9 |
+| All There Is | 2.00% | ~9 |
+| False God | 2.00% | ~9 |
+| Miner | 2.00% | ~9 |
+| A Queen's Tale | 2.00% | ~9 |
 | Flawless Victory | 1.00% | ~4 |
 | All That Gold | 1.00% | ~4 |
 | Summiter | 1.00% | ~4 |
+| Forgemaster | 0.90% | ~4 |
 | Shardbearer | 0.70% | ~3 |
 | Feeling Fancy | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 420 (Ranked 335)  
-Completed: 3 (0.71%) (Ranked 188)  
+Progressed: 427 (Ranked 335)  
+Completed: 3 (0.70%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,4 +105,4 @@ Completed: 3 (0.71%) (Ranked 188)
 | 2023-12-12 | 265 | 2 |
 | 2023-12-13 | 282 | 3 |
 | 2023-12-14 | 376 | 3 |
-| 2023-12-15 | 420 | 3 |
+| 2023-12-15 | 427 | 3 |

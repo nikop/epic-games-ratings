@@ -6,8 +6,8 @@
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 272,
-  "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_Completed": 295,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -2658,9 +2658,9 @@
       "ID": "GnothiSeauton",
       "SetID": "1n308hc",
       "Name": "Gnothi Seauton",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 39
     },
     {
       "ID": "GoodCitizen",
@@ -2674,9 +2674,9 @@
       "ID": "GrasslandsRing",
       "SetID": "1n308hc",
       "Name": "Grasslands Ring",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 79
     },
     {
       "ID": "HighPlain",
@@ -2882,9 +2882,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 128
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3003,8 +3003,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:05:41.0047544+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:05:54.9874619+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-15T09:00:12.2530257+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:05:41.0048007+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:00:14.5916248+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:05:54.9875141+00:00"
 }

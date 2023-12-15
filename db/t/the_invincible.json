@@ -2,7 +2,7 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_EOS_Progress": 302,
+  "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 131,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 619,
+  "EOS_Progressed": 620,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1765,6 +1765,11 @@
       "Time": "2023-12-15T09:09:06.165761+00:00",
       "NumProgressed": 619,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T10:09:07.118325+00:00",
+      "NumProgressed": 620,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1793,7 +1798,7 @@
       "Name": "On her own",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "AchvBattleScore",
@@ -1945,7 +1950,7 @@
       "Name": "The field base",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "AchvReachCamp",
@@ -1953,7 +1958,7 @@
       "Name": "The Camp",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "AchvReachCity",
@@ -1977,7 +1982,7 @@
       "Name": "Survivors",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -2008,14 +2013,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 619,
+      "Progressed": 620,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:09:06.1657606+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:09:07.1183245+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.1415487+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:59:42.8206783+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:09:06.1657879+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:59:44.8773863+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:09:07.1183599+00:00"
 }

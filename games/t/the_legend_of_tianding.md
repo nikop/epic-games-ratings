@@ -20,10 +20,10 @@
 | Steal Her Away | 26.00% | ~10 |
 | Fight Fire With Fire | 26.00% | ~10 |
 | Coward | 24.00% | ~9 |
+| Big Eater | 21.00% | ~8 |
 | Tour Guide | 21.00% | ~8 |
 | Not Today | 21.00% | ~8 |
-| Big Eater | 18.00% | ~7 |
-| The Real O.G. | 16.00% | ~6 |
+| The Real O.G. | 18.00% | ~7 |
 | Tomb Raider | 16.00% | ~6 |
 | Talk to the Fist | 13.00% | ~5 |
 | The Hero of the People | 11.00% | ~4 |

@@ -4569,9 +4569,9 @@
       "ID": "STB_MISSION1_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Dark Forest",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2141
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -4609,9 +4609,9 @@
       "ID": "STB_MISSION5A_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Glyndemere",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 604
+      "UsersEstimate": 631
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -4786,8 +4786,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-10T13:58:41.8193759+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:04:26.1044949+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:04:40.2767213+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:11.016025+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:57:20.9691255+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:04:26.1045491+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:57:22.8081202+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:04:40.2767939+00:00"
 }

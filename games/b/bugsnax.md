@@ -6,28 +6,28 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,907 |
-| Gone Home | 93.00% | ~26,756 |
-| Wonderfalls | 87.00% | ~25,030 |
-| Got to Catch a Few | 77.00% | ~22,153 |
+| Everybody Gets One | 97.00% | ~27,908 |
+| Gone Home | 93.00% | ~26,757 |
+| Wonderfalls | 87.00% | ~25,031 |
+| Got to Catch a Few | 77.00% | ~22,154 |
 | Double Trapper | 75.00% | ~21,578 |
-| I'm Stuffed | 69.00% | ~19,851 |
-| Got to Catch a Lot | 66.00% | ~18,988 |
+| I'm Stuffed | 69.00% | ~19,852 |
+| Got to Catch a Lot | 66.00% | ~18,989 |
 | Talkin' 'Bout Bugsnax | 61.00% | ~17,550 |
-| In the Arms of the Gramble | 59.00% | ~16,974 |
-| Know Thy Neighbor | 59.00% | ~16,974 |
+| In the Arms of the Gramble | 59.00% | ~16,975 |
+| Know Thy Neighbor | 59.00% | ~16,975 |
 | Perf Dirt | 57.00% | ~16,399 |
-| Launch Party | 56.00% | ~16,111 |
-| Vacation's End | 53.00% | ~15,248 |
-| Bossy Bugs | 46.00% | ~13,234 |
-| Survivor | 45.00% | ~12,946 |
-| That Reminds Me of a Puzzle | 43.00% | ~12,371 |
+| Launch Party | 56.00% | ~16,112 |
+| Vacation's End | 53.00% | ~15,249 |
+| Bossy Bugs | 46.00% | ~13,235 |
+| Survivor | 45.00% | ~12,947 |
+| That Reminds Me of a Puzzle | 43.00% | ~12,372 |
 | Sidetracked | 40.00% | ~11,508 |
 | Film Buff | 38.00% | ~10,933 |
 | Combo Meal | 38.00% | ~10,933 |
-| Midnight Snak | 36.00% | ~10,357 |
+| Midnight Snak | 36.00% | ~10,358 |
 | Candid Cryptid | 35.00% | ~10,070 |
-| Got to Catch Them All | 32.00% | ~9,206 |
+| Got to Catch Them All | 32.00% | ~9,207 |
 | Deep Impact | 23.00% | ~6,617 |
 | Grab Bag | 23.00% | ~6,617 |
 | Feeding Frenzy | 19.00% | ~5,466 |
@@ -37,7 +37,7 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 9.00% | ~2,589 |
 | Dapper Capper | 7.00% | ~2,014 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,770 (Ranked 132)  
+Progressed: 28,771 (Ranked 132)  
 Completed: 1,400 (4.87%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 1,400 (4.87%) (Ranked 75)
 | 2023-12-12 | 28,740 | 1,397 |
 | 2023-12-13 | 28,746 | 1,399 |
 | 2023-12-14 | 28,766 | 1,399 |
-| 2023-12-15 | 28,770 | 1,400 |
+| 2023-12-15 | 28,771 | 1,400 |
 ## Awards
 Max (Amazing Storytelling): 43  (Ranked 460)  
 Sum: 370 (Ranked 355)  

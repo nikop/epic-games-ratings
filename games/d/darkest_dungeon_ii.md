@@ -6,33 +6,33 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~125 |
+| Malpractice Assurance | 6.00% | ~126 |
 | This guy... again? | 3.00% | ~63 |
 | Lost and Found | 3.00% | ~63 |
-| This Belongs in a Museum | 2.00% | ~2,544 |
-| Not Today! | 2.00% | ~2,544 |
-| Creep and Sleep | 2.00% | ~2,544 |
-| Meat and Greet | 2.00% | ~2,544 |
-| Catch and Decease | 2.00% | ~2,544 |
-| Overdue Notice | 2.00% | ~2,544 |
-| Escape from the Black Hole | 2.00% | ~2,544 |
-| Autodidact | 2.00% | ~2,544 |
+| This Belongs in a Museum | 2.00% | ~2,545 |
+| Not Today! | 2.00% | ~2,545 |
+| Creep and Sleep | 2.00% | ~2,545 |
+| Meat and Greet | 2.00% | ~2,545 |
+| Catch and Decease | 2.00% | ~2,545 |
+| Overdue Notice | 2.00% | ~2,545 |
+| Escape from the Black Hole | 2.00% | ~2,545 |
+| Autodidact | 2.00% | ~2,545 |
+| Ploughshares to Swords | 2.00% | ~42 |
 | Bloody Graduation | 2.00% | ~42 |
 | Don't Make Me Turn This Coach Around | 1.00% | ~1,272 |
 | Serenity Now! | 1.00% | ~1,272 |
 | It Rings a Bell | 1.00% | ~1,272 |
+| It Happens | 1.00% | ~1,272 |
 | Rush Hour | 1.00% | ~1,272 |
 | To Grandmother's House | 1.00% | ~1,272 |
 | FNG | 1.00% | ~1,272 |
-| Ploughshares to Swords | 1.00% | ~21 |
+| Nope | 1.00% | ~1,272 |
 | Friends 'Til the End | 1.00% | ~21 |
 | Dissector | 0.90% | ~1,145 |
-| It Happens | 0.90% | ~1,145 |
 | Merry Time | 0.90% | ~1,145 |
 | Harvest Festival | 0.90% | ~1,145 |
 | Whale | 0.90% | ~1,145 |
 | A Place to Lay Your Head | 0.90% | ~1,145 |
-| Nope | 0.90% | ~1,145 |
 | Banishment | 0.80% | ~1,018 |
 | Deprogramming | 0.80% | ~1,018 |
 | Worldly Traveller | 0.80% | ~1,018 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,215 (Ranked 84)  
+Progressed: 127,228 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,10 +315,10 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
-| 2023-12-15 | 127,215 | 3 |
+| 2023-12-15 | 127,228 | 3 |
 ## Awards
 Max (Character Customization): 7,718  (Ranked 51)  
-Sum: 20,470 (Ranked 59)  
+Sum: 20,477 (Ranked 59)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -326,7 +326,7 @@ Diff (max vs sum): -8
 | This game has Diverse Characters | 1,685 |
 | This game has Challenging Combat | 1,586 |
 | This game is Highly Recommended | 1,519 |
-| This game is Extremely Fun | 1,444 |
+| This game is Extremely Fun | 1,451 |
 | This game has Amazing Characters | 1,442 |
 | This game has Amazing Storytelling | 1,375 |
 | This game has Unique Visuals | 1,351 |
@@ -658,4 +658,4 @@ Diff (max vs sum): -8
 | 2023-12-12 | 4.68 | - | 7,622 | 20,221 |
 | 2023-12-13 | 4.68 | - | 7,665 | 20,333 |
 | 2023-12-14 | 4.68 | - | 7,689 | 20,427 |
-| 2023-12-15 | 4.68 | - | 7,718 | 20,470 |
+| 2023-12-15 | 4.68 | - | 7,718 | 20,477 |

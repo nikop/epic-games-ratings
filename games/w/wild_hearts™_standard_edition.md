@@ -14,7 +14,7 @@
 | Mountain Splitter | 56.00% | ~254 |
 | Fusion Conjuror | 55.00% | ~250 |
 | Memory Rouser | 55.00% | ~250 |
-| Kemono Hunter | 50.00% | ~227 |
+| Kemono Hunter | 51.00% | ~232 |
 | Expert Conjuror | 48.00% | ~218 |
 | Flawless Crystal | 47.00% | ~213 |
 | Bonds of Enmity | 46.00% | ~209 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -293,9 +293,9 @@
       "ID": "BigEater",
       "SetID": "123m9l1",
       "Name": "Big Eater",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ClarifyRumors",
@@ -325,9 +325,9 @@
       "ID": "FanOfYang",
       "SetID": "123m9l1",
       "Name": "The Real O.G.",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FinishTheGame",
@@ -462,8 +462,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:04:48.1558613+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:05:02.7224137+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:55.2838081+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:59:37.3009826+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:04:48.1558789+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:59:39.1348652+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:05:02.7224293+00:00"
 }

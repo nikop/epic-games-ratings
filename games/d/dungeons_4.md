@@ -14,7 +14,7 @@
 | Thalya's Concentrated Fury | 69.00% | ~386 |
 | Bad Elves Go Everywhere | 69.00% | ~386 |
 | Heroes’ Gorge | 65.00% | ~363 |
-| Master of Magic | 63.00% | ~352 |
+| Master of Magic | 64.00% | ~358 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~347 |
 | Magic Accidents | 59.00% | ~330 |
 | The Ascent | 58.00% | ~324 |
@@ -26,9 +26,9 @@
 | “… like son” | 51.00% | ~285 |
 | YOU SHALL NOT PASS! | 50.00% | ~280 |
 | The Cathedral of Light | 47.00% | ~263 |
+| Dungeonlord Gorgu | 46.00% | ~257 |
 | Shame! Shame! Shame! | 46.00% | ~257 |
 | Pure Dynamite! | 45.00% | ~252 |
-| Dungeonlord Gorgu | 45.00% | ~252 |
 | Tanos' Crusade Against Thalya | 45.00% | ~252 |
 | Mana Cannon | 41.00% | ~229 |
 | All’s Well That Ends Evil | 39.00% | ~218 |

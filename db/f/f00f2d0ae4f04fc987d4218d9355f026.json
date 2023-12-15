@@ -4,7 +4,7 @@
   "ProductSlug": "bio-inc-redemption-280fe5",
   "Ranking_EOS_Progress": 619,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
@@ -121,9 +121,9 @@
       "ID": "CirculatoryCollapse",
       "SetID": "aaidab7",
       "Name": "Circulatory Collapse",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CloseCall",
@@ -153,9 +153,9 @@
       "ID": "DiagnosticPro",
       "SetID": "aaidab7",
       "Name": "Diagnostic Professional",
-      "Percentage": 33,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DigestiveCollapse",
@@ -209,9 +209,9 @@
       "ID": "Loser",
       "SetID": "aaidab7",
       "Name": "Loser",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Lupus",
@@ -321,9 +321,9 @@
       "ID": "Stabilized",
       "SetID": "aaidab7",
       "Name": "Stabilized",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Thrifty",
@@ -352,8 +352,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:04:12.6154542+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:04:26.6368217+00:00",
   "LastUpdate_AppInfo": "2023-12-12T03:57:09.7303206+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:58:35.0146157+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:04:12.6154741+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:58:36.8236542+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:04:26.6368465+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
-  "Ranking_Rating": 813,
+  "Ranking_Rating": 814,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1145,
+  "EOS_Progressed": 1146,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1621,6 +1621,11 @@
       "Time": "2023-12-15T05:05:36.6894513+00:00",
       "NumProgressed": 1145,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T10:04:44.3443503+00:00",
+      "NumProgressed": 1146,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -1680,7 +1685,7 @@
       "Name": "Monster Hunter",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "08",
@@ -1696,7 +1701,7 @@
       "Name": "Awakening",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "10",
@@ -1760,7 +1765,7 @@
       "Name": "Ready to Learn",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "18",
@@ -1768,7 +1773,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "19",
@@ -1815,7 +1820,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1145,
+      "Progressed": 1146,
       "Completed": 1
     }
   ],
@@ -1823,8 +1828,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:04:30.1785095+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:04:44.3443495+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:19.4447569+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:57:11.3622289+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:04:30.1785269+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:57:12.8035615+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:04:44.34437+00:00"
 }

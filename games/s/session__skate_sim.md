@@ -6,25 +6,25 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,930 |
+| You're free now! | 61.00% | ~1,931 |
 | Keeping it classy | 28.00% | ~886 |
-| Welcome to the family | 22.00% | ~696 |
+| Welcome to the family | 22.00% | ~697 |
 | The finer things in life | 20.00% | ~633 |
 | Backpacker | 14.00% | ~443 |
 | Go with the Flow | 14.00% | ~443 |
 | The flip trick crown jewel | 11.00% | ~348 |
-| Keep the dream alive | 10.00% | ~316 |
-| Plastic Surgeon | 10.00% | ~316 |
-| The hard way | 10.00% | ~316 |
-| Upfront shredder | 10.00% | ~316 |
+| Keep the dream alive | 10.00% | ~317 |
+| Plastic Surgeon | 10.00% | ~317 |
+| The hard way | 10.00% | ~317 |
+| Upfront shredder | 10.00% | ~317 |
 | Good vibes | 9.00% | ~285 |
 | Fashionista | 8.00% | ~253 |
 | That pinch! | 8.00% | ~253 |
 | Tight lipslides | 8.00% | ~253 |
-| Bottom ply killer | 7.00% | ~221 |
-| Finally he zips it | 7.00% | ~221 |
-| Fulfilled the dream | 7.00% | ~221 |
-| G'Day Mate! | 7.00% | ~221 |
+| Bottom ply killer | 7.00% | ~222 |
+| Finally he zips it | 7.00% | ~222 |
+| Fulfilled the dream | 7.00% | ~222 |
+| G'Day Mate! | 7.00% | ~222 |
 | Commence the Hijinx! | 6.00% | ~190 |
 | DIY Boss | 6.00% | ~190 |
 | Globetrotter | 6.00% | ~190 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,164 (Ranked 216)  
+Progressed: 3,166 (Ranked 216)  
 Completed: 2 (0.06%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,19 +269,19 @@ Completed: 2 (0.06%) (Ranked 318)
 | 2023-12-12 | 3,114 | 2 |
 | 2023-12-13 | 3,118 | 2 |
 | 2023-12-14 | 3,148 | 2 |
-| 2023-12-15 | 3,164 | 2 |
+| 2023-12-15 | 3,166 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 421)  
-Sum: 563 (Ranked 321)  
+Sum: 564 (Ranked 321)  
 Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 59 |
 | This game is Great for Quick Sessions | 59 |
 | This game has Diverse Characters | 54 |
+| This game has a Creative Community | 49 |
 | This game has Amazing Characters | 49 |
 | This game has Realistic Visuals | 49 |
-| This game has a Creative Community | 48 |
 | This game is Extremely Fun | 47 |
 | This game has Amazing Storytelling | 46 |
 | This game is Relaxing | 44 |
@@ -473,3 +473,4 @@ Diff (max vs sum): 100
 | 2023-12-09 | 4.69 | - | 59 | 560 |
 | 2023-12-13 | 4.69 | - | 59 | 562 |
 | 2023-12-14 | 4.69 | - | 59 | 563 |
+| 2023-12-15 | 4.69 | - | 59 | 564 |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 192,
-  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
@@ -836,9 +836,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5525,
+  "EOS_Progressed": 5527,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11081,6 +11081,11 @@
       "Time": "2023-12-15T08:05:27.7893413+00:00",
       "NumProgressed": 5525,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-15T10:05:16.8200809+00:00",
+      "NumProgressed": 5527,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11093,7 +11098,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -11141,7 +11146,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11165,7 +11170,7 @@
       "Name": "The Fourth Gate",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -11181,7 +11186,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -11189,7 +11194,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -11276,15 +11281,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5525,
+      "Progressed": 5527,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-15T05:01:12.5073089+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:05:02.2632258+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:05:16.8200804+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.410244+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:59:59.4231504+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:05:02.2632923+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:00:01.2815468+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:05:16.8201501+00:00"
 }

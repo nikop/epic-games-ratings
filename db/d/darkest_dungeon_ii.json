@@ -9652,10 +9652,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20470,
       "NumberOfAwardsMax": 7718
+    },
+    {
+      "Time": "2023-12-15T10:00:06.5063478+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20477,
+      "NumberOfAwardsMax": 7718
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20470,
+  "NumberOfAwards": 20477,
   "NumberOfAwardsMax": 7718,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9681,7 +9687,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1444
+      "Count": 1451
     },
     {
       "Text": "This game has Challenging Combat",
@@ -9732,9 +9738,9 @@
       "Count": 1004
     }
   ],
-  "EOS_Progressed": 127215,
+  "EOS_Progressed": 127228,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1395,
+  "EOS_NewPlayers": 1406,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35127,6 +35133,11 @@
       "Time": "2023-12-15T09:08:52.4840142+00:00",
       "NumProgressed": 127215,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T10:08:53.5425085+00:00",
+      "NumProgressed": 127228,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35266,7 +35277,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35290,7 +35301,7 @@
       "Name": "Not Today!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35298,7 +35309,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35338,7 +35349,7 @@
       "Name": "Meat and Greet",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35354,7 +35365,7 @@
       "Name": "Catch and Decease",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "combat_kill_librarian",
@@ -35362,7 +35373,7 @@
       "Name": "Overdue Notice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35378,7 +35389,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35408,9 +35419,9 @@
       "ID": "combat_party_wipe_any_run_boss",
       "SetID": "64l4lke",
       "Name": "It Happens",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1272
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -35490,7 +35501,7 @@
       "Name": "Autodidact",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "hero_story_complete_all",
@@ -35584,9 +35595,9 @@
       "ID": "run_end_abandon",
       "SetID": "64l4lke",
       "Name": "Nope",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1272
     },
     {
       "ID": "run_victory_act01",
@@ -35674,7 +35685,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "combat_kill_collector",
@@ -35720,9 +35731,9 @@
       "ID": "hero_story_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Ploughshares to Swords",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 42
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -35769,21 +35780,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127215,
+      "Progressed": 127228,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2084,
+      "Progressed": 2097,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-15T05:59:58.4890282+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:08:52.4840139+00:00",
+  "LastChanged": "2023-12-15T10:00:06.5063477+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:08:53.5425082+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-15T09:00:04.4059265+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:08:52.4841591+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:00:06.5063483+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:08:53.542676+00:00"
 }

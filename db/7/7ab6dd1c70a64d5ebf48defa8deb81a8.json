@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 420,
+  "EOS_Progressed": 427,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.71,
+  "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -1265,6 +1265,11 @@
       "Time": "2023-12-15T09:09:43.5922947+00:00",
       "NumProgressed": 420,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T10:09:44.1373209+00:00",
+      "NumProgressed": 427,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1276,7 +1281,7 @@
       "Name": "Break Out",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_02",
@@ -1292,7 +1297,7 @@
       "Name": "Powerful Allies",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_04",
@@ -1348,13 +1353,13 @@
       "Name": "Trinity",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_11",
       "SetID": "efe2lj",
       "Name": "Forgemaster",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -1372,7 +1377,7 @@
       "Name": "Adventurer",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_14",
@@ -1404,7 +1409,7 @@
       "Name": "Shatterer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_18",
@@ -1412,7 +1417,7 @@
       "Name": "Shatter Them All",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_19",
@@ -1420,7 +1425,7 @@
       "Name": "Slayer",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_20",
@@ -1436,7 +1441,7 @@
       "Name": "Big Bazar",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_22",
@@ -1460,7 +1465,7 @@
       "Name": "All There Is",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_25",
@@ -1476,7 +1481,7 @@
       "Name": "Scholar",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_27",
@@ -1484,7 +1489,7 @@
       "Name": "False God",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_28",
@@ -1516,7 +1521,7 @@
       "Name": "Stone Collection",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_33",
@@ -1524,7 +1529,7 @@
       "Name": "Miner",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_34",
@@ -1548,7 +1553,7 @@
       "Name": "A Queen\u0027s Tale",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_38",
@@ -1563,14 +1568,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 420,
+      "Progressed": 427,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:09:43.5922939+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:09:44.13732+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:58:14.5534015+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:09:43.5923232+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:58:16.0414696+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:09:44.1373565+00:00"
 }

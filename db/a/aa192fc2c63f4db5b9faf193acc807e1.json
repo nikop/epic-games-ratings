@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -479,9 +479,9 @@
       "ID": "creepytaleach1",
       "SetID": "bnif31p",
       "Name": "Follow to the brother",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 75,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "creepytaleach10",
@@ -495,49 +495,49 @@
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "creepytaleach12",
       "SetID": "bnif31p",
       "Name": "Sweet feeling",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "creepytaleach13",
       "SetID": "bnif31p",
       "Name": "True fisherman",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "creepytaleach2",
       "SetID": "bnif31p",
       "Name": "Naivety",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 75,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "creepytaleach3",
       "SetID": "bnif31p",
       "Name": "Happy end",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 75,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "creepytaleach4",
       "SetID": "bnif31p",
       "Name": "Dominance",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "creepytaleach5",
@@ -551,25 +551,25 @@
       "ID": "creepytaleach6",
       "SetID": "bnif31p",
       "Name": "Dead together",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "creepytaleach7",
       "SetID": "bnif31p",
       "Name": "Crazy chef",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 75,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "creepytaleach9",
@@ -590,8 +590,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:09:39.438695+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:09:39.8785858+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.952085+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:57:37.2447745+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:09:39.4387056+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:57:39.6460132+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:09:39.8785984+00:00"
 }

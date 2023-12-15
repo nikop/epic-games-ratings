@@ -2070,9 +2070,9 @@
       "ID": "achievement_22",
       "SetID": "2cpn27e",
       "Name": "Kemono Hunter",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_23",
@@ -2348,8 +2348,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:08:46.2243233+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:08:47.5581831+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:59.7578969+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:57:56.0277151+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:08:46.2243665+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:57:58.9888556+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:08:47.5582356+00:00"
 }

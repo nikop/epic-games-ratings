@@ -6,44 +6,44 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 87.00% | ~626 |
-| All Bark, No Bite | 77.00% | ~554 |
-| Hopeful Hunter | 67.00% | ~482 |
-| Amateur Adventurer | 65.00% | ~467 |
-| The Road to Recovery | 64.00% | ~460 |
-| Partners? | 62.00% | ~446 |
-| Magical Mineral Golem | 55.00% | ~395 |
-| On Outlander Lane | 54.00% | ~388 |
-| A Girl About the Town | 51.00% | ~367 |
-| First Time Fishing | 51.00% | ~367 |
-| First Time Hunting | 49.00% | ~352 |
-| Rune Wall Wreckage | 48.00% | ~345 |
-| ...And Your Tax Money | 47.00% | ~338 |
+| Plenty More to Go | 87.00% | ~627 |
+| All Bark, No Bite | 77.00% | ~555 |
+| Hopeful Hunter | 67.00% | ~483 |
+| The Road to Recovery | 64.00% | ~461 |
+| Amateur Adventurer | 64.00% | ~461 |
+| Partners? | 62.00% | ~447 |
+| Magical Mineral Golem | 55.00% | ~397 |
+| On Outlander Lane | 54.00% | ~389 |
+| First Time Fishing | 51.00% | ~368 |
+| A Girl About the Town | 50.00% | ~360 |
+| First Time Hunting | 49.00% | ~353 |
+| Rune Wall Wreckage | 48.00% | ~346 |
+| ...And Your Tax Money | 47.00% | ~339 |
 | The Lords of the Snowpeak | 40.00% | ~288 |
-| The Go-To Girl | 37.00% | ~266 |
-| Scavenger's Honor | 37.00% | ~266 |
-| Natural Born Monster-Killer | 37.00% | ~266 |
-| The Lava Mantor Wyrm | 36.00% | ~259 |
-| One Mean Merc | 36.00% | ~259 |
-| Money, Money, Money | 36.00% | ~259 |
-| The Great Forest...On Foot! | 36.00% | ~259 |
+| The Go-To Girl | 37.00% | ~267 |
+| Scavenger's Honor | 37.00% | ~267 |
+| Natural Born Monster-Killer | 37.00% | ~267 |
+| The Lava Mantor Wyrm | 36.00% | ~260 |
+| One Mean Merc | 36.00% | ~260 |
+| Money, Money, Money | 36.00% | ~260 |
+| The Great Forest...On Foot! | 36.00% | ~260 |
 | Adept, for an Acting Mayor | 35.00% | ~252 |
-| Rune Wall Master | 34.00% | ~244 |
-| The Quarry...On Foot! | 31.00% | ~223 |
+| Rune Wall Master | 34.00% | ~245 |
+| The Quarry...On Foot! | 31.00% | ~224 |
 | The Runebarrows...On Foot! | 29.00% | ~209 |
-| The Lava Ruins...On Foot! | 28.00% | ~201 |
-| The Snowpeak...On Foot! | 27.00% | ~194 |
+| The Lava Ruins...On Foot! | 28.00% | ~202 |
+| The Snowpeak...On Foot! | 27.00% | ~195 |
 | Meat Master | 26.00% | ~187 |
 | Fishing Master | 25.00% | ~180 |
 | Armor Master | 24.00% | ~173 |
-| The Pride of the Town | 23.00% | ~165 |
+| The Pride of the Town | 23.00% | ~166 |
 | This Treasure I've Found | 21.00% | ~151 |
 | New Nevaeh's Number One Customer | 21.00% | ~151 |
 | Arms Master | 19.00% | ~137 |
-| Rune Scholar | 17.00% | ~122 |
-| No Treasure Left Behind | 13.00% | ~93 |
-| Sommelier | 12.00% | ~86 |
-| Champion of the Great Forest | 12.00% | ~86 |
+| Rune Scholar | 17.00% | ~123 |
+| No Treasure Left Behind | 13.00% | ~94 |
+| Sommelier | 12.00% | ~87 |
+| Champion of the Great Forest | 12.00% | ~87 |
 | One-Hundred Resident Record | 11.00% | ~79 |
 | A Local Hero | 11.00% | ~79 |
 | Gourmand | 10.00% | ~72 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 8.00% | ~58 |
 | Rising Champion | 7.00% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719 (Ranked 290)  
-Completed: 60 (8.34%) (Ranked 49)  
+Progressed: 721 (Ranked 290)  
+Completed: 60 (8.32%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,7 +106,7 @@ Completed: 60 (8.34%) (Ranked 49)
 | 2023-12-10 | 708 | 60 |
 | 2023-12-13 | 709 | 60 |
 | 2023-12-14 | 716 | 60 |
-| 2023-12-15 | 719 | 60 |
+| 2023-12-15 | 721 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

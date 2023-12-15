@@ -940,9 +940,9 @@
       "ID": "4",
       "SetID": "acl54ke",
       "Name": "Solved fifth case",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "5",
@@ -1051,8 +1051,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:04:08.8907059+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:04:22.9370778+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:01.3861778+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:59:45.0433707+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:04:08.8907246+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:59:47.0828641+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:04:22.9370959+00:00"
 }

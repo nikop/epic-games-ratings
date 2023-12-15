@@ -8,8 +8,8 @@ Rating: 4.81 (Ranked 83)
 | For Demacia | 96.00% | ~2,635 |
 | No more cages! | 91.00% | ~2,498 |
 | Everfrost | 78.00% | ~2,141 |
+| Dark Forest | 78.00% | ~2,141 |
 | Pentakill | 77.00% | ~2,114 |
-| Dark Forest | 77.00% | ~2,114 |
 | The use of petricite | 75.00% | ~2,059 |
 | You can pet the dog | 61.00% | ~1,674 |
 | Big Helmet Bro | 39.00% | ~1,071 |
@@ -28,9 +28,9 @@ Rating: 4.81 (Ranked 83)
 | I chose my shackles | 26.00% | ~714 |
 | Sacred Woods | 25.00% | ~686 |
 | Little light | 23.00% | ~631 |
+| Glyndemere | 23.00% | ~631 |
 | Capelworth | 23.00% | ~631 |
 | Full equipped | 23.00% | ~631 |
-| Glyndemere | 22.00% | ~604 |
 | Iffighain Headquarters | 22.00% | ~604 |
 | Whispers in the Woods II | 19.00% | ~522 |
 | No more holding back | 19.00% | ~522 |

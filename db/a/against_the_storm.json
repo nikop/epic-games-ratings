@@ -3381,10 +3381,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3260,
       "NumberOfAwardsMax": 442
+    },
+    {
+      "Time": "2023-12-15T10:00:02.499957+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3261,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3260,
+  "NumberOfAwards": 3261,
   "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3446,12 +3452,12 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 331
+      "Count": 332
     }
   ],
-  "EOS_Progressed": 18191,
+  "EOS_Progressed": 18193,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 531,
+  "EOS_NewPlayers": 533,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15779,6 +15785,11 @@
       "Time": "2023-12-15T09:03:35.3208303+00:00",
       "NumProgressed": 18191,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-15T10:03:49.5114093+00:00",
+      "NumProgressed": 18193,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16262,15 +16273,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18191,
+      "Progressed": 18193,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-15T02:23:57.9945158+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:03:35.32083+00:00",
+  "LastChanged": "2023-12-15T10:00:02.4999568+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:03:49.5114089+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-15T09:00:00.5363655+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:03:35.3209099+00:00"
+  "LastUpdate_Ratings": "2023-12-15T10:00:02.4999574+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:03:49.5115161+00:00"
 }

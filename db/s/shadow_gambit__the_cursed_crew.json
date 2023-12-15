@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -149,9 +149,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1156,
+  "EOS_Progressed": 1157,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.77,
   "EosHistory": [
@@ -3874,6 +3874,11 @@
       "Time": "2023-12-15T09:04:55.241771+00:00",
       "NumProgressed": 1156,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-15T10:05:10.0669948+00:00",
+      "NumProgressed": 1157,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3902,7 +3907,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3910,7 +3915,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "_05_FinishAct2",
@@ -3966,7 +3971,7 @@
       "Name": "Seadog",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "_12_Completion_50",
@@ -4006,7 +4011,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4093,7 +4098,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1156,
+      "Progressed": 1157,
       "Completed": 32
     }
   ],
@@ -4101,8 +4106,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:04:55.2417707+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:05:10.0669941+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:58:52.409461+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:04:55.241797+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:58:54.8535285+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:05:10.0670321+00:00"
 }

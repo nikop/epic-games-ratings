@@ -3307,9 +3307,9 @@
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
       "SetID": "5fn8ia4",
       "Name": "So it begins",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1138
     },
     {
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
@@ -3331,9 +3331,9 @@
       "ID": "GSS_ACH_16_ORDER_FUEL",
       "SetID": "5fn8ia4",
       "Name": "Fuel Ordered",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1151
     },
     {
       "ID": "GSS_ACH_17_ORDER_TRASH_COLLECTION",
@@ -3395,9 +3395,9 @@
       "ID": "GSS_ACH_25_DENNIS",
       "SetID": "5fn8ia4",
       "Name": "Pranks? Nope!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1126
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -3868,8 +3868,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-09T16:58:07.8281595+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:03:56.4827794+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:04:10.400135+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:57:20.2200943+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:03:56.482862+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:57:22.033109+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:04:10.400229+00:00"
 }

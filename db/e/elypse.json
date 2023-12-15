@@ -2,9 +2,9 @@
   "ID": "ac1e1228d81c433ba5b25c6c09318e0e",
   "Name": "Elypse",
   "ProductSlug": "elypse-b177a8",
-  "Ranking_EOS_Progress": 448,
+  "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 415,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 103,
+  "EOS_Progressed": 104,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -514,6 +514,11 @@
       "Time": "2023-12-15T01:57:47.7156057+00:00",
       "NumProgressed": 103,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T10:08:41.292214+00:00",
+      "NumProgressed": 104,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 34,
@@ -539,7 +544,7 @@
       "ID": "Ach_BossDarkPoulpe",
       "SetID": "4o5gjp0",
       "Name": "Squid game",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 20,
       "UsersEstimate": 45
     },
@@ -547,9 +552,9 @@
       "ID": "Ach_BossFinal",
       "SetID": "4o5gjp0",
       "Name": "GG EZ",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "Ach_BossGolem",
@@ -587,7 +592,7 @@
       "ID": "Ach_BuyHut",
       "SetID": "4o5gjp0",
       "Name": "Pigeon",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
       "UsersEstimate": 82
     },
@@ -621,7 +626,7 @@
       "Name": "A bottomless pit",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Ach_DiscoveryCaverns",
@@ -661,7 +666,7 @@
       "Name": "A path of no return",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "Ach_DiveDeath",
@@ -683,7 +688,7 @@
       "ID": "Ach_EnnemyDeathByEnnemy",
       "SetID": "4o5gjp0",
       "Name": "Baited",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 30,
       "UsersEstimate": 71
     },
@@ -699,9 +704,9 @@
       "ID": "Ach_FinishElypse",
       "SetID": "4o5gjp0",
       "Name": "Comeback",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "Ach_FirstGolem",
@@ -796,14 +801,14 @@
     {
       "ID": "4o5gjp0",
       "IsBase": true,
-      "Progressed": 103,
+      "Progressed": 104,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-12-15T09:08:39.6959582+00:00",
+  "LastChanged_Achievements": "2023-12-15T10:08:41.2922136+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:43.568442+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:57:54.382975+00:00",
-  "LastUpdate_Achievements": "2023-12-15T09:08:39.6959823+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:57:57.3514712+00:00",
+  "LastUpdate_Achievements": "2023-12-15T10:08:41.2922403+00:00"
 }
