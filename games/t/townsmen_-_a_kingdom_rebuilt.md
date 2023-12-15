@@ -11,7 +11,7 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man I | 12.00% | ~525 |
 | Friends from the past | 11.00% | ~481 |
 | I like to build stuff... I | 10.00% | ~437 |
-| A time consuming game I | 9.00% | ~393 |
+| A time consuming game I | 9.00% | ~394 |
 | Builder I | 8.00% | ~350 |
 | An honorable Governor I | 8.00% | ~350 |
 | Full-time job I | 8.00% | ~350 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,372 (Ranked 197)  
+Progressed: 4,373 (Ranked 197)  
 Completed: 4 (0.09%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 4 (0.09%) (Ranked 303)
 | 2023-12-07 | 4,365 | 3 |
 | 2023-12-11 | 4,365 | 4 |
 | 2023-12-14 | 4,371 | 4 |
-| 2023-12-15 | 4,372 | 4 |
+| 2023-12-15 | 4,373 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

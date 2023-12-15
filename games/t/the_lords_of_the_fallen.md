@@ -12,24 +12,24 @@ Rating: 4.20 (Ranked 928)
 | No Mercy | 0.30% | ~10 |
 | Shades of Violence | 0.30% | ~10 |
 | Thriving in Darkness | 0.30% | ~10 |
-| Weapon Collector | 0.20% | ~6 |
-| Ammunition Collector | 0.20% | ~6 |
-| Throwable Collector | 0.20% | ~6 |
-| Honed to Perfection | 0.20% | ~6 |
-| Rune Novice | 0.20% | ~6 |
-| Carving Out Victory | 0.20% | ~6 |
-| Utmost Insight | 0.20% | ~6 |
-| Vengeance for the Fallen | 0.20% | ~6 |
-| Rise and Fall | 0.20% | ~6 |
-| Together in Death | 0.20% | ~6 |
-| Burying the Past | 0.20% | ~6 |
-| Unwanted | 0.20% | ~6 |
-| Unbroken to the End | 0.20% | ~6 |
-| Moving On | 0.20% | ~6 |
-| Essence of Death | 0.20% | ~6 |
-| Seasoned | 0.20% | ~6 |
-| The Past Shapes the Present | 0.20% | ~6 |
-| A Rest Among the Dead | 0.20% | ~6 |
+| Weapon Collector | 0.20% | ~7 |
+| Ammunition Collector | 0.20% | ~7 |
+| Throwable Collector | 0.20% | ~7 |
+| Honed to Perfection | 0.20% | ~7 |
+| Rune Novice | 0.20% | ~7 |
+| Carving Out Victory | 0.20% | ~7 |
+| Utmost Insight | 0.20% | ~7 |
+| Vengeance for the Fallen | 0.20% | ~7 |
+| Rise and Fall | 0.20% | ~7 |
+| Together in Death | 0.20% | ~7 |
+| Burying the Past | 0.20% | ~7 |
+| Unwanted | 0.20% | ~7 |
+| Unbroken to the End | 0.20% | ~7 |
+| Moving On | 0.20% | ~7 |
+| Essence of Death | 0.20% | ~7 |
+| Seasoned | 0.20% | ~7 |
+| The Past Shapes the Present | 0.20% | ~7 |
+| A Rest Among the Dead | 0.20% | ~7 |
 | Wayfarer | 0.10% | ~3 |
 | Ironclad | 0.10% | ~3 |
 | What Sights Contained Within | 0.10% | ~3 |
@@ -69,7 +69,7 @@ Rating: 4.20 (Ranked 928)
 | Lingering Moments | 0.10% | ~3 |
 | A Trace of Venom | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,241 (Ranked 214)  
+Progressed: 3,255 (Ranked 214)  
 Completed: 2 (0.06%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 2 (0.06%) (Ranked 318)
 | 2023-12-12 | 2,347 | 2 |
 | 2023-12-13 | 2,475 | 2 |
 | 2023-12-14 | 3,035 | 2 |
-| 2023-12-15 | 3,241 | 2 |
+| 2023-12-15 | 3,255 | 2 |
 ## Awards
 Max (Character Customization): 197  (Ranked 294)  
 Sum: 515 (Ranked 328)  

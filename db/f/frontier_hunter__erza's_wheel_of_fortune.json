@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -2043,9 +2043,9 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "7pimpda",
       "Name": "Kind Adventurer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -2340,8 +2340,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-15T08:08:39.0168808+00:00",
+  "LastChanged_Achievements": "2023-12-15T09:08:47.011853+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.1790952+00:00",
-  "LastUpdate_Ratings": "2023-12-15T07:58:27.6100864+00:00",
-  "LastUpdate_Achievements": "2023-12-15T08:08:39.0169246+00:00"
+  "LastUpdate_Ratings": "2023-12-15T08:58:20.1887892+00:00",
+  "LastUpdate_Achievements": "2023-12-15T09:08:47.0119256+00:00"
 }

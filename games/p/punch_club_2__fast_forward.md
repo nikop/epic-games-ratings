@@ -21,17 +21,17 @@
 | No bullying more | 69.00% | ~263 |
 | Hello, world! | 69.00% | ~263 |
 | Pal of your father? | 66.00% | ~251 |
+| Spirit of the past | 65.00% | ~248 |
 | Employee of the month | 65.00% | ~248 |
-| Spirit of the past | 64.00% | ~244 |
 | Law student | 61.00% | ~232 |
 | Workout professional | 60.00% | ~229 |
 | Handyman | 59.00% | ~225 |
+| It's good to be alive | 59.00% | ~225 |
+| Employee of the year | 59.00% | ~225 |
+| Fight for life | 58.00% | ~221 |
 | Little hacker | 58.00% | ~221 |
 | Champion – starter pack | 58.00% | ~221 |
-| It's good to be alive | 58.00% | ~221 |
 | Own four walls | 58.00% | ~221 |
-| Employee of the year | 58.00% | ~221 |
-| Fight for life | 57.00% | ~217 |
 | Intriguing candies | 57.00% | ~217 |
 | Legal courier | 54.00% | ~206 |
 | Extreme neuropower! | 54.00% | ~206 |
@@ -66,9 +66,9 @@
 | Anyone can resist | 33.00% | ~126 |
 | The heart of the Resistance | 33.00% | ~126 |
 | Trap disarmed | 32.00% | ~122 |
+| Better cooking at home | 30.00% | ~114 |
 | The last bell ring | 30.00% | ~114 |
 | Silver’s past | 29.00% | ~110 |
-| Better cooking at home | 29.00% | ~110 |
 | The only right decision | 29.00% | ~110 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 381 (Ranked 340)  

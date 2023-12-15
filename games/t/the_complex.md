@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tough Decision | 93.00% | ~620 |
-| Blast From The Past | 84.00% | ~560 |
+| Blast From The Past | 85.00% | ~567 |
 | Kamikaze | 64.00% | ~427 |
 | The Rebel And The Doctor | 58.00% | ~387 |
 | Beat It | 51.00% | ~340 |

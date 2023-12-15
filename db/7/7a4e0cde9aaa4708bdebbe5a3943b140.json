@@ -2,9 +2,9 @@
   "ID": "7a4e0cde9aaa4708bdebbe5a3943b140",
   "Name": "RedRaptor",
   "ProductSlug": "redraptor-71deb7",
-  "Ranking_EOS_Progress": 625,
-  "Ranking_EOS_Completed": 6,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_Progress": 626,
+  "Ranking_EOS_Completed": 7,
+  "Ranking_EOS_NewPlayers": 415,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-11T12:00:00+00:00",
@@ -122,17 +122,17 @@
       "ID": "Stage2",
       "SetID": "ag762md",
       "Name": "Stage 2",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Stage3",
       "SetID": "ag762md",
       "Name": "Stage 3",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Stage4",
@@ -162,9 +162,9 @@
       "ID": "Upgrade10",
       "SetID": "ag762md",
       "Name": "Tenth Upgrade",
-      "Percentage": 55,
+      "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Upgrade2",
@@ -209,8 +209,8 @@
   ],
   "FirstSeen": "2023-12-10T02:24:26.0991702+00:00",
   "FirstSeenAchievements": "2023-09-18T15:02:16.3526142+00:00",
-  "LastChanged_Achievements": "2023-12-15T08:08:56.835839+00:00",
+  "LastChanged_Achievements": "2023-12-15T09:09:03.2996617+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.8034465+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:02:47.6187433+00:00",
-  "LastUpdate_Achievements": "2023-12-15T08:08:56.8358468+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:02:38.3850155+00:00",
+  "LastUpdate_Achievements": "2023-12-15T09:09:03.299671+00:00"
 }

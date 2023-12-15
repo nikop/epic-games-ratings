@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -945,9 +945,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3241,
+  "EOS_Progressed": 3255,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 956,
+  "EOS_NewPlayers": 968,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4820,6 +4820,11 @@
       "Time": "2023-12-15T08:08:22.8463572+00:00",
       "NumProgressed": 3241,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T09:08:32.5405337+00:00",
+      "NumProgressed": 3255,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -4856,7 +4861,7 @@
       "Name": "Weapon Collector",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_005",
@@ -4888,7 +4893,7 @@
       "Name": "Ammunition Collector",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_009",
@@ -4920,7 +4925,7 @@
       "Name": "Throwable Collector",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_013",
@@ -4944,7 +4949,7 @@
       "Name": "Honed to Perfection",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_016",
@@ -4952,7 +4957,7 @@
       "Name": "Rune Novice",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_017",
@@ -4968,7 +4973,7 @@
       "Name": "Carving Out Victory",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_019",
@@ -4976,7 +4981,7 @@
       "Name": "Utmost Insight",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_020",
@@ -5000,7 +5005,7 @@
       "Name": "Vengeance for the Fallen",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_023",
@@ -5048,7 +5053,7 @@
       "Name": "Rise and Fall",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_029",
@@ -5056,7 +5061,7 @@
       "Name": "Together in Death",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_030",
@@ -5064,7 +5069,7 @@
       "Name": "Burying the Past",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_031",
@@ -5072,7 +5077,7 @@
       "Name": "Unwanted",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_032",
@@ -5080,7 +5085,7 @@
       "Name": "Unbroken to the End",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_033",
@@ -5176,7 +5181,7 @@
       "Name": "Moving On",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_045",
@@ -5272,7 +5277,7 @@
       "Name": "Essence of Death",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_057",
@@ -5288,7 +5293,7 @@
       "Name": "Seasoned",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_059",
@@ -5304,7 +5309,7 @@
       "Name": "The Past Shapes the Present",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_061",
@@ -5320,7 +5325,7 @@
       "Name": "A Rest Among the Dead",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_063",
@@ -5335,7 +5340,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 3241,
+      "Progressed": 3255,
       "Completed": 2
     }
   ],
@@ -5343,8 +5348,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-15T07:59:45.0848617+00:00",
-  "LastChanged_Achievements": "2023-12-15T08:08:22.8463569+00:00",
+  "LastChanged_Achievements": "2023-12-15T09:08:32.5405335+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:58.7777436+00:00",
-  "LastUpdate_Ratings": "2023-12-15T07:59:45.084862+00:00",
-  "LastUpdate_Achievements": "2023-12-15T08:08:22.8464159+00:00"
+  "LastUpdate_Ratings": "2023-12-15T08:59:26.7359866+00:00",
+  "LastUpdate_Achievements": "2023-12-15T09:08:32.540597+00:00"
 }

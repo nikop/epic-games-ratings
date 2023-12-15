@@ -67,6 +67,7 @@
 | Voracity Confronted | 1.00% | ~2 |
 | And the Sky Full of Stars | 0.50% | ~1 |
 | General | 0.50% | ~1 |
+| Company of Heroes | 0.50% | ~1 |
 | Conqueror | 0.50% | ~1 |
 | Forager | 0.50% | ~1 |
 | Forged in Battle | 0.50% | ~1 |
@@ -84,7 +85,6 @@
 | Beloved by Irafons | 0.00% | ~0 |
 | Deceptions Disclosed | 0.00% | ~0 |
 | Carpenter | 0.00% | ~0 |
-| Company of Heroes | 0.00% | ~0 |
 | Accomplished Explorer | 0.00% | ~0 |
 | Over the Horizon | 0.00% | ~0 |
 | Prepared For Anything | 0.00% | ~0 |

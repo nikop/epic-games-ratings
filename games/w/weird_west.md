@@ -8,18 +8,18 @@ Number of Ratings: 125  (23.09.2022)
 | ---- | ---------- | ----- |
 | Unforgiven | 88.00% | ~1,786 |
 | Self-Improvement | 71.00% | ~1,441 |
-| Perky | 65.00% | ~1,319 |
-| Let’s Ride | 60.00% | ~1,217 |
-| Welcome to the Weird West | 56.00% | ~1,136 |
+| Perky | 65.00% | ~1,320 |
+| Let’s Ride | 60.00% | ~1,218 |
+| Welcome to the Weird West | 56.00% | ~1,137 |
 | Dead or Alive | 55.00% | ~1,116 |
 | Full House | 37.00% | ~751 |
 | Off the Trail | 34.00% | ~690 |
-| Justice Served | 29.00% | ~588 |
+| Justice Served | 29.00% | ~589 |
 | Chain Reaction | 27.00% | ~548 |
 | Through Their Eyes | 26.00% | ~528 |
-| Dishonored | 25.00% | ~507 |
-| Rain of Death | 25.00% | ~507 |
-| Scholar | 25.00% | ~507 |
+| Dishonored | 25.00% | ~508 |
+| Rain of Death | 25.00% | ~508 |
+| Scholar | 25.00% | ~508 |
 | The Great Escape | 23.00% | ~467 |
 | That’s All, Folks | 19.00% | ~386 |
 | Fallen Star | 16.00% | ~325 |
@@ -30,10 +30,10 @@ Number of Ratings: 125  (23.09.2022)
 | Out on the Ebb Tide | 13.00% | ~264 |
 | Turning the Tables | 13.00% | ~264 |
 | Workers' Rights | 13.00% | ~264 |
-| Elusive Prey | 12.00% | ~243 |
-| Power Behind the Pulpit | 12.00% | ~243 |
-| Something Wicked This Way Comes… | 12.00% | ~243 |
-| There is Hope | 12.00% | ~243 |
+| Elusive Prey | 12.00% | ~244 |
+| Power Behind the Pulpit | 12.00% | ~244 |
+| Something Wicked This Way Comes… | 12.00% | ~244 |
+| There is Hope | 12.00% | ~244 |
 | The Philosopher’s Stone | 10.00% | ~203 |
 | Loyalty to the Pack | 9.00% | ~183 |
 | Eternity Can Wait | 9.00% | ~183 |
@@ -44,9 +44,9 @@ Number of Ratings: 125  (23.09.2022)
 | Knuckle Sandwich | 8.00% | ~162 |
 | Getting the Gang Back Together | 7.00% | ~142 |
 | Who You Gonna Call? | 6.00% | ~122 |
-| Healing Old Wounds | 5.00% | ~101 |
-| This Is Sparta | 5.00% | ~101 |
-| What’s in the Box? | 5.00% | ~101 |
+| Healing Old Wounds | 5.00% | ~102 |
+| This Is Sparta | 5.00% | ~102 |
+| What’s in the Box? | 5.00% | ~102 |
 | Ghost Town | 3.00% | ~61 |
 | Lord Inut Sends His Regards | 3.00% | ~61 |
 | Moondrunk | 3.00% | ~61 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~10 |
 | Winter Has Come | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,029 (Ranked 230)  
+Progressed: 2,030 (Ranked 230)  
 Completed: 7 (0.34%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,6 +240,7 @@ Completed: 7 (0.34%) (Ranked 235)
 | 2023-12-11 | 2,027 | 7 |
 | 2023-12-12 | 2,028 | 7 |
 | 2023-12-13 | 2,029 | 7 |
+| 2023-12-15 | 2,030 | 7 |
 ## Awards
 Max (Impact the Story): 29  (Ranked 507)  
 Sum: 29 (Ranked 523)  

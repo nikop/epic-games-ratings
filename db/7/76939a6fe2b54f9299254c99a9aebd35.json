@@ -44,169 +44,169 @@
       "ID": "ANY_CHALLENGES_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Hear, feel, think...",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ANY_CHALLENGES_GOLD",
       "SetID": "1oh5c4a",
       "Name": "Becoming Midas",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BEAT_ENNEMIES",
       "SetID": "1oh5c4a",
       "Name": "The lurking fear",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BOSS_FOREST",
       "SetID": "1oh5c4a",
       "Name": "Double-dealing",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BOSS_MOUNTAIN",
       "SetID": "1oh5c4a",
       "Name": "Slimy kisses",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BOSS_VOID",
       "SetID": "1oh5c4a",
       "Name": "Prison No Break",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BOSS_VOID_HARD",
       "SetID": "1oh5c4a",
       "Name": "And his name is Zosimos...",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CHALLENGES_GOLD_FOREST",
       "SetID": "1oh5c4a",
       "Name": "King of the Forest",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CHALLENGES_GOLD_MOUNTAIN",
       "SetID": "1oh5c4a",
       "Name": "The Gold Mountain",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CHALLENGES_GOLD_VOLCANO",
       "SetID": "1oh5c4a",
       "Name": "Hot stuff",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CHALLENGE_CHOPTOU",
       "SetID": "1oh5c4a",
       "Name": "Catch them all!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CHALLENGE_COLTOU",
       "SetID": "1oh5c4a",
       "Name": "Come back to Earth",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CHALLENGE_POUSSTOU",
       "SetID": "1oh5c4a",
       "Name": "Talk to the hand",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CHAP_FOREST_FINISH",
       "SetID": "1oh5c4a",
       "Name": "Let\u2019s take a walk in the woods...",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CHAP_MOUNTAIN_FINISH",
       "SetID": "1oh5c4a",
       "Name": "Conquer the mountain!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CHAP_VOLCANO_FINISH",
       "SetID": "1oh5c4a",
       "Name": "Flee, poor Smurfs!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CLEAN_FOREST",
       "SetID": "1oh5c4a",
       "Name": "Spring cleaning",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CLEAN_MOUNTAIN",
       "SetID": "1oh5c4a",
       "Name": "Crystalline frost",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CLEAN_VOLCANO",
       "SetID": "1oh5c4a",
       "Name": "The floor is lava",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "EARN_CURRENCY",
       "SetID": "1oh5c4a",
       "Name": "Numismatist",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FIND_ALL_CHALLENGES",
       "SetID": "1oh5c4a",
       "Name": "A study in scarlet",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GET_ALL_ACHIEVEMENTS",
@@ -220,121 +220,121 @@
       "ID": "OVERHEAT_WEAPON",
       "SetID": "1oh5c4a",
       "Name": "Release the pressure",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ULTIMATE_BRAINY",
       "SetID": "1oh5c4a",
       "Name": "The Apprentice Smurf",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ULTIMATE_DIMWITTY",
       "SetID": "1oh5c4a",
       "Name": "Carrot cake",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ULTIMATE_HANDY",
       "SetID": "1oh5c4a",
       "Name": "Ex Machina",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ULTIMATE_STORM",
       "SetID": "1oh5c4a",
       "Name": "Eye of the Lynx",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UPGRADE_BRAINY_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Two-telligent",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UPGRADE_CHOPTOU_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Catch as catch can!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UPGRADE_COLTOU_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "StickAll everywhere",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UPGRADE_DIMWITTY_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Happy idiot",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UPGRADE_GREEN_STONE_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Get to the point",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UPGRADE_HANDY_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Trust me, I\u2019m an engineer",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UPGRADE_POUSSTOU_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Push me excuse you",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UPGRADE_STORM_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Intrepid adventurer",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UPGRADE_WEAPON",
       "SetID": "1oh5c4a",
       "Name": "Odds and ends",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "WEAR_SKIN",
       "SetID": "1oh5c4a",
       "Name": "Vanities",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -347,8 +347,8 @@
   ],
   "FirstSeen": "2023-11-04T17:03:44.9852977+00:00",
   "FirstSeenAchievements": "2023-10-12T16:06:09.4130672+00:00",
-  "LastChanged_Achievements": "2023-12-15T08:08:36.2764747+00:00",
+  "LastChanged_Achievements": "2023-12-15T09:08:44.4346742+00:00",
   "LastUpdate_AppInfo": "2023-12-14T08:57:08.5944413+00:00",
-  "LastUpdate_Ratings": "2023-12-15T07:57:39.3982298+00:00",
-  "LastUpdate_Achievements": "2023-12-15T08:08:36.2764929+00:00"
+  "LastUpdate_Ratings": "2023-12-15T08:57:37.8470375+00:00",
+  "LastUpdate_Achievements": "2023-12-15T09:08:44.4346971+00:00"
 }

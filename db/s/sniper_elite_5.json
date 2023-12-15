@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -643,9 +643,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4019,
+  "EOS_Progressed": 4020,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8623,6 +8623,11 @@
       "Time": "2023-12-15T04:08:56.0646975+00:00",
       "NumProgressed": 4019,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-15T09:08:41.5668931+00:00",
+      "NumProgressed": 4020,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8642,7 +8647,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -8698,7 +8703,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -8770,7 +8775,7 @@
       "Name": "Sharpshooter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -8786,7 +8791,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -8800,9 +8805,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1648
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8840,9 +8845,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1206
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -8946,7 +8951,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9122,7 +9127,7 @@
       "Name": "Last Resort",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -9130,7 +9135,7 @@
       "Name": "Siegebreaker",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -9138,7 +9143,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -9201,13 +9206,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3970,
+      "Progressed": 3971,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4019,
+      "Progressed": 4020,
       "Completed": 11
     }
   ],
@@ -9215,8 +9220,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-15T08:08:33.0074932+00:00",
+  "LastChanged_Achievements": "2023-12-15T09:08:41.5668927+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.4789046+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:00:12.1295936+00:00",
-  "LastUpdate_Achievements": "2023-12-15T08:08:33.0075659+00:00"
+  "LastUpdate_Ratings": "2023-12-15T08:59:50.5294676+00:00",
+  "LastUpdate_Achievements": "2023-12-15T09:08:41.5669929+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 290,
+  "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 888,
+  "EOS_Progressed": 889,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2012,6 +2012,11 @@
       "Time": "2023-12-15T08:03:30.0631966+00:00",
       "NumProgressed": 888,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T09:03:16.7072261+00:00",
+      "NumProgressed": 889,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2032,7 +2037,7 @@
       "Name": "Territorial",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -2080,15 +2085,15 @@
       "Name": "Pathfinder",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "CompleteChapter10",
       "SetID": "52ail55",
       "Name": "You da Boss, Now",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 116
     },
     {
       "ID": "CompleteChapter11",
@@ -2174,9 +2179,9 @@
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 356
     },
     {
       "ID": "CompleteChapter4",
@@ -2272,7 +2277,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2319,14 +2324,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 888,
+      "Progressed": 889,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-15T08:03:30.0631965+00:00",
+  "LastChanged_Achievements": "2023-12-15T09:03:16.7072256+00:00",
   "LastUpdate_AppInfo": "2023-12-08T09:56:58.482812+00:00",
-  "LastUpdate_Ratings": "2023-12-15T07:58:15.08836+00:00",
-  "LastUpdate_Achievements": "2023-12-15T08:03:30.0632494+00:00"
+  "LastUpdate_Ratings": "2023-12-15T08:58:09.4768151+00:00",
+  "LastUpdate_Achievements": "2023-12-15T09:03:16.7072528+00:00"
 }

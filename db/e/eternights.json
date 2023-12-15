@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 473,
+  "EOS_Progressed": 474,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1754,6 +1754,11 @@
       "Time": "2023-12-15T08:08:27.6777677+00:00",
       "NumProgressed": 473,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T09:08:36.8611936+00:00",
+      "NumProgressed": 474,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -1766,7 +1771,7 @@
       "Name": "New arm",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -1780,9 +1785,9 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 142
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -1876,9 +1881,9 @@
       "ID": "ACHIEVEMENT_23_TrueBro",
       "SetID": "9bke6f1",
       "Name": "Truebro",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_24_TentacleMan",
@@ -1892,9 +1897,9 @@
       "ID": "ACHIEVEMENT_25_LoveAssistant",
       "SetID": "9bke6f1",
       "Name": "LOVEassistant",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_2_FirstBond",
@@ -1902,7 +1907,7 @@
       "Name": "The First Bond",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -1910,7 +1915,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -1918,7 +1923,7 @@
       "Name": "Master Craftsman",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -1934,7 +1939,7 @@
       "Name": "Piggyback Expert",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -1942,7 +1947,7 @@
       "Name": "Second wall",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -1950,7 +1955,7 @@
       "Name": "Stone Retriever",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -1965,14 +1970,14 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 473,
+      "Progressed": 474,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-12-15T08:08:27.6777675+00:00",
+  "LastChanged_Achievements": "2023-12-15T09:08:36.8611933+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:15.0426087+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:00:19.0137773+00:00",
-  "LastUpdate_Achievements": "2023-12-15T08:08:27.6777879+00:00"
+  "LastUpdate_Ratings": "2023-12-15T08:59:56.7241005+00:00",
+  "LastUpdate_Achievements": "2023-12-15T09:08:36.8612159+00:00"
 }

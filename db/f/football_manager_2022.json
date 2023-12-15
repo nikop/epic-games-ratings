@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 29,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": null,
@@ -8792,9 +8792,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 477683,
+  "EOS_Progressed": 477684,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 378,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32922,6 +32922,11 @@
       "Time": "2023-12-15T08:04:00.9834508+00:00",
       "NumProgressed": 477683,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-15T09:03:45.0887992+00:00",
+      "NumProgressed": 477684,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -32949,7 +32954,7 @@
       "Name": "You\u0027re On Fire",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 128974
+      "UsersEstimate": 128975
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -33021,7 +33026,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 128974
+      "UsersEstimate": 128975
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -33149,7 +33154,7 @@
       "Name": "Best In Europe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 42991
+      "UsersEstimate": 42992
     },
     {
       "ID": "achievement_eyes_and_ears",
@@ -33181,7 +33186,7 @@
       "Name": "National Hero",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14330
+      "UsersEstimate": 14331
     },
     {
       "ID": "achievement_get_into_hall_of_fame",
@@ -33197,7 +33202,7 @@
       "Name": "National Service",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 42991
+      "UsersEstimate": 42992
     },
     {
       "ID": "achievement_goal_of_the_month_award",
@@ -33221,7 +33226,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 133751
+      "UsersEstimate": 133752
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -33237,7 +33242,7 @@
       "Name": "Golden Boot",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 14330
+      "UsersEstimate": 14331
     },
     {
       "ID": "achievement_good_finance_control",
@@ -33269,7 +33274,7 @@
       "Name": "Headhunted",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 42991
+      "UsersEstimate": 42992
     },
     {
       "ID": "achievement_hes_a_natural",
@@ -33429,7 +33434,7 @@
       "Name": "Record Sale",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 128974
+      "UsersEstimate": 128975
     },
     {
       "ID": "achievement_record_signing",
@@ -33525,7 +33530,7 @@
       "Name": "Domination",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 42991
+      "UsersEstimate": 42992
     },
     {
       "ID": "achievement_win_a_match_after_being_2_goals_behind_at_half_time",
@@ -33549,7 +33554,7 @@
       "Name": "Window Shopping",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 71652
+      "UsersEstimate": 71653
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -33581,7 +33586,7 @@
       "Name": "Freedom Of The Country",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14330
+      "UsersEstimate": 14331
     },
     {
       "ID": "achievement_won_promotion",
@@ -33597,7 +33602,7 @@
       "Name": "On Top Of The World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14330
+      "UsersEstimate": 14331
     },
     {
       "ID": "achievement_world_player_of_the_year",
@@ -33716,15 +33721,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 477683,
+      "Progressed": 477684,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-12-15T06:58:17.3976455+00:00",
-  "LastChanged_Achievements": "2023-12-15T08:04:00.9834506+00:00",
+  "LastChanged_Achievements": "2023-12-15T09:03:45.0887988+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.1665984+00:00",
-  "LastUpdate_Ratings": "2023-12-15T07:58:07.007373+00:00",
-  "LastUpdate_Achievements": "2023-12-15T08:04:00.9836175+00:00"
+  "LastUpdate_Ratings": "2023-12-15T08:58:01.2821069+00:00",
+  "LastUpdate_Achievements": "2023-12-15T09:03:45.0889614+00:00"
 }

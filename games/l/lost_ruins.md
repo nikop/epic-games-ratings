@@ -16,9 +16,9 @@
 | Reincarnation | 15.00% | ~78 |
 | Librarian | 13.00% | ~68 |
 | Orcs Must Die! | 13.00% | ~68 |
-| Gladiator | 12.00% | ~62 |
-| Lumberjack | 12.00% | ~62 |
-| The End | 12.00% | ~62 |
+| Gladiator | 12.00% | ~63 |
+| Lumberjack | 12.00% | ~63 |
+| The End | 12.00% | ~63 |
 | Troubleshooter | 11.00% | ~57 |
 | Money Swag | 8.00% | ~42 |
 | Oops | 7.00% | ~36 |
@@ -30,10 +30,10 @@
 | Arrive Home | 3.00% | ~16 |
 | Holy Knight | 3.00% | ~16 |
 | Marksman | 3.00% | ~16 |
-| Sling of David | 3.00% | ~16 |
 | Spell Master | 3.00% | ~16 |
 | Hoarder | 2.00% | ~10 |
 | Meat Lover | 2.00% | ~10 |
+| Sling of David | 2.00% | ~10 |
 | Sword Master | 2.00% | ~10 |
 | Witch | 2.00% | ~10 |
 | Assassin | 1.00% | ~5 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.40% | ~2 |
 | Hardboiled | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 520 (Ranked 319)  
+Progressed: 521 (Ranked 319)  
 Completed: 1 (0.19%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 1 (0.19%) (Ranked 269)
 | 2023-12-12 | 503 | 1 |
 | 2023-12-13 | 505 | 1 |
 | 2023-12-14 | 517 | 1 |
-| 2023-12-15 | 520 | 1 |
+| 2023-12-15 | 521 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

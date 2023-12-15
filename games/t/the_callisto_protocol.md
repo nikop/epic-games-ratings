@@ -7,9 +7,9 @@ Rating: 4.19 (Ranked 939)
 | ---- | ---------- | ----- |
 | Get a Grip | 11.00% | ~1,861 |
 | Paper Jams | 10.00% | ~1,692 |
-| Flesh Wound | 9.00% | ~1,522 |
-| Float Like A Butterfly | 8.00% | ~1,353 |
-| The Outer Way | 8.00% | ~1,353 |
+| Flesh Wound | 9.00% | ~1,523 |
+| Float Like A Butterfly | 8.00% | ~1,354 |
+| The Outer Way | 8.00% | ~1,354 |
 | Chew 'Em Up | 7.00% | ~1,184 |
 | Reforged | 7.00% | ~1,184 |
 | Desperate Times | 7.00% | ~1,184 |
@@ -21,14 +21,14 @@ Rating: 4.19 (Ranked 939)
 | Crash Site | 6.00% | ~1,015 |
 | Full Circle | 6.00% | ~1,015 |
 | Power Up | 6.00% | ~1,015 |
-| Keep Fighting | 6.00% | ~290 |
+| Keep Fighting | 6.00% | ~291 |
 | You Need a Gun | 5.00% | ~846 |
 | I Do Belong Here | 5.00% | ~846 |
 | Terminated | 5.00% | ~846 |
 | What Lies Beneath | 5.00% | ~846 |
 | It's Time | 5.00% | ~242 |
 | Giving Back | 4.00% | ~677 |
-| The Commonality | 3.00% | ~507 |
+| The Commonality | 3.00% | ~508 |
 | One Last Job | 3.00% | ~145 |
 | In Striking Distance | 2.00% | ~338 |
 | Big Spender | 1.00% | ~48 |
@@ -37,7 +37,7 @@ Rating: 4.19 (Ranked 939)
 | Grim Reaper | 0.80% | ~135 |
 | Parole Denied | 0.80% | ~39 |
 | Information Overload | 0.80% | ~39 |
-| Mugshot | 0.60% | ~101 |
+| Mugshot | 0.60% | ~102 |
 | Instigator | 0.60% | ~29 |
 | Quick Pick | 0.60% | ~29 |
 | Subject Alpha | 0.40% | ~19 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~5 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,915 (Ranked 151)  
+Progressed: 16,919 (Ranked 151)  
 Completed: 81 (0.48%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 81 (0.48%) (Ranked 212)
 | 2023-12-11 | 16,525 | 81 |
 | 2023-12-13 | 16,561 | 81 |
 | 2023-12-14 | 16,823 | 81 |
-| 2023-12-15 | 16,915 | 81 |
+| 2023-12-15 | 16,919 | 81 |
 ## Awards
 Max (Quickly Understood Controls): 85  (Ranked 391)  
 Sum: 508 (Ranked 329)  

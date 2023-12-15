@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16311,
+  "EOS_Progressed": 16313,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13882,6 +13882,11 @@
       "Time": "2023-12-15T08:07:52.3921108+00:00",
       "NumProgressed": 16311,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-15T09:06:15.9205573+00:00",
+      "NumProgressed": 16313,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13926,7 +13931,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "14",
@@ -13990,15 +13995,15 @@
       "Name": "Thorston Mayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1305
     },
     {
       "ID": "22",
@@ -14030,7 +14035,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "26",
@@ -14173,13 +14178,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16311,
+      "Progressed": 16313,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2265,
+      "Progressed": 2267,
       "Completed": 888
     }
   ],
@@ -14187,8 +14192,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-15T08:07:52.3921093+00:00",
+  "LastChanged_Achievements": "2023-12-15T09:06:15.9205566+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-15T07:57:43.1504457+00:00",
-  "LastUpdate_Achievements": "2023-12-15T08:07:52.3922029+00:00"
+  "LastUpdate_Ratings": "2023-12-15T08:57:41.15792+00:00",
+  "LastUpdate_Achievements": "2023-12-15T09:06:15.920627+00:00"
 }

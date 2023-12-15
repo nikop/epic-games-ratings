@@ -1895,9 +1895,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 66363,
+  "EOS_Progressed": 66364,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28170,6 +28170,11 @@
       "Time": "2023-12-15T08:05:44.7869011+00:00",
       "NumProgressed": 66363,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-15T09:05:15.4785727+00:00",
+      "NumProgressed": 66364,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -28413,7 +28418,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17254
+      "UsersEstimate": 17255
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -28445,7 +28450,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 26545
+      "UsersEstimate": 26546
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -28549,7 +28554,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 51763
+      "UsersEstimate": 51764
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -28645,22 +28650,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 24554
+      "UsersEstimate": 24555
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 66363,
+      "Progressed": 66364,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-13T22:59:35.2096179+00:00",
-  "LastChanged_Achievements": "2023-12-15T08:05:44.7869006+00:00",
+  "LastChanged_Achievements": "2023-12-15T09:05:15.4785722+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:19.0626719+00:00",
-  "LastUpdate_Ratings": "2023-12-15T07:59:42.7204942+00:00",
-  "LastUpdate_Achievements": "2023-12-15T08:05:44.7871231+00:00"
+  "LastUpdate_Ratings": "2023-12-15T08:59:24.790362+00:00",
+  "LastUpdate_Achievements": "2023-12-15T09:05:15.4787544+00:00"
 }

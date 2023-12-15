@@ -6,20 +6,20 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 68.00% | ~452 |
-| Cowardice | 62.00% | ~412 |
+| Explorer | 68.00% | ~453 |
+| Cowardice | 62.00% | ~413 |
 | NO LIFE IS WORTH SAVING... | 47.00% | ~313 |
-| The Breaking Point | 45.00% | ~299 |
-| Eat Lead! | 45.00% | ~299 |
-| Here Comes the Boom | 42.00% | ~279 |
+| The Breaking Point | 45.00% | ~300 |
+| Eat Lead! | 45.00% | ~300 |
+| Here Comes the Boom | 42.00% | ~280 |
 | Prospector | 41.00% | ~273 |
 | Sniper Wolf | 40.00% | ~266 |
 | Treasure Hunter | 38.00% | ~253 |
 | The Motivation | 38.00% | ~253 |
-| Heroism | 36.00% | ~239 |
+| Heroism | 36.00% | ~240 |
 | Collectibles of Chapter I | 34.00% | ~226 |
 | Missing in Action | 34.00% | ~226 |
-| King of Knives | 33.00% | ~219 |
+| King of Knives | 33.00% | ~220 |
 | Consequences | 32.00% | ~213 |
 | Opportunities | 31.00% | ~206 |
 | The Horror | 29.00% | ~193 |
@@ -28,7 +28,7 @@ Number of Ratings: 34  (23.09.2022)
 | It's Just an Accident | 25.00% | ~166 |
 | Broken Hopes | 23.00% | ~153 |
 | Bullseye! | 23.00% | ~153 |
-| Collectibles of Chapter II | 22.00% | ~146 |
+| Collectibles of Chapter II | 22.00% | ~147 |
 | Sorrow | 20.00% | ~133 |
 | Atonement | 18.00% | ~120 |
 | Food Massacre | 18.00% | ~120 |
@@ -37,7 +37,7 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter III | 14.00% | ~93 |
 | Collectibles of Chapter IV | 14.00% | ~93 |
 | Collectibles of Chapter V | 11.00% | ~73 |
-| Tiptoe Around | 10.00% | ~66 |
+| Tiptoe Around | 10.00% | ~67 |
 | Such is War! | 8.00% | ~53 |
 | Collectibles of Chapter XII | 7.00% | ~47 |
 | Piece of Cake | 7.00% | ~47 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.20% | ~1 |
 | Challenges of Chapter XII | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665 (Ranked 295)  
+Progressed: 666 (Ranked 295)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,6 +247,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-10 | 662 | 0 |
 | 2023-12-11 | 663 | 0 |
 | 2023-12-13 | 665 | 0 |
+| 2023-12-15 | 666 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

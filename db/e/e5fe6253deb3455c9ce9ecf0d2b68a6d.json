@@ -4,7 +4,7 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 335,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1284,6 +1284,11 @@
       "Time": "2023-12-15T04:05:34.5737327+00:00",
       "NumProgressed": 333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T09:05:23.7999961+00:00",
+      "NumProgressed": 335,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -1302,9 +1307,9 @@
       "ID": "Dangerous_dose",
       "SetID": "cjfnji1",
       "Name": "Dangerous dose",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "Dissatisfaction",
@@ -1320,7 +1325,7 @@
       "Name": "Full load",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 208
     },
     {
       "ID": "Island",
@@ -1336,7 +1341,7 @@
       "Name": "In the last second",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 178
     },
     {
       "ID": "Master",
@@ -1407,14 +1412,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 335,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-12-15T08:05:54.0613777+00:00",
+  "LastChanged_Achievements": "2023-12-15T09:05:23.7999956+00:00",
   "LastUpdate_AppInfo": "2023-12-12T02:57:11.9041929+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:00:43.8422027+00:00",
-  "LastUpdate_Achievements": "2023-12-15T08:05:54.0613915+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:00:18.8934769+00:00",
+  "LastUpdate_Achievements": "2023-12-15T09:05:23.8000115+00:00"
 }

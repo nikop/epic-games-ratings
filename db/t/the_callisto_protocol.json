@@ -1613,9 +1613,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 16915,
+  "EOS_Progressed": 16919,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 396,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -9698,6 +9698,11 @@
       "Time": "2023-12-15T08:08:52.6712563+00:00",
       "NumProgressed": 16915,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-12-15T09:08:59.6478571+00:00",
+      "NumProgressed": 16919,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 47,
@@ -9741,7 +9746,7 @@
       "Name": "Flesh Wound",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -9861,7 +9866,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -9869,7 +9874,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -9893,7 +9898,7 @@
       "Name": "Mugshot",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -9901,7 +9906,7 @@
       "Name": "The Outer Way",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "STORY_ESCAPE",
@@ -10061,7 +10066,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -10084,13 +10089,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16915,
+      "Progressed": 16919,
       "Completed": 81
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4841,
+      "Progressed": 4845,
       "Completed": 29
     }
   ],
@@ -10098,8 +10103,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-15T01:52:07.9926426+00:00",
-  "LastChanged_Achievements": "2023-12-15T08:08:52.6712558+00:00",
+  "LastChanged_Achievements": "2023-12-15T09:08:59.6478566+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.8352858+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:03:09.8724118+00:00",
-  "LastUpdate_Achievements": "2023-12-15T08:08:52.6713185+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:02:57.5391667+00:00",
+  "LastUpdate_Achievements": "2023-12-15T09:08:59.6479379+00:00"
 }

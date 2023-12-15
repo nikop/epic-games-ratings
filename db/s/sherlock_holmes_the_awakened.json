@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1178,
+  "EOS_Progressed": 1179,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.63,
   "EosHistory": [
@@ -4032,6 +4032,11 @@
       "Time": "2023-12-15T08:03:58.6020049+00:00",
       "NumProgressed": 1178,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-12-15T09:03:42.7491542+00:00",
+      "NumProgressed": 1179,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 28,
@@ -4043,7 +4048,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "MQ01_2",
@@ -4051,7 +4056,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "MQ02_1",
@@ -4059,7 +4064,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "MQ02_2",
@@ -4089,9 +4094,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 577
+      "UsersEstimate": 590
     },
     {
       "ID": "MQ03_2",
@@ -4131,15 +4136,15 @@
       "Name": "Going Once...",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 389
+      "UsersEstimate": 401
     },
     {
       "ID": "MQ04_3",
@@ -4147,7 +4152,7 @@
       "Name": "The New World",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "MQ05_1",
@@ -4187,7 +4192,7 @@
       "Name": "Brain Food",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "MQ06_2",
@@ -4211,15 +4216,15 @@
       "Name": "No Man Is An Island",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "MQ07_1",
       "SetID": "bbing49",
       "Name": "Read It And Weep",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 212
     },
     {
       "ID": "MQ07_2",
@@ -4227,7 +4232,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "MQ08_1",
@@ -4266,7 +4271,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1178,
+      "Progressed": 1179,
       "Completed": 31
     }
   ],
@@ -4274,8 +4279,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-14T11:03:29.6730885+00:00",
-  "LastChanged_Achievements": "2023-12-15T08:03:58.6020047+00:00",
+  "LastChanged_Achievements": "2023-12-15T09:03:42.7491538+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:03:06.4899476+00:00",
-  "LastUpdate_Achievements": "2023-12-15T08:03:58.6020502+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:02:54.6080066+00:00",
+  "LastUpdate_Achievements": "2023-12-15T09:03:42.749182+00:00"
 }

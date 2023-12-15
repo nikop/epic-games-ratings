@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 986,
+  "EOS_Progressed": 987,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2507,6 +2507,11 @@
       "Time": "2023-12-15T07:07:26.8997859+00:00",
       "NumProgressed": 986,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T09:05:41.0047549+00:00",
+      "NumProgressed": 987,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2583,7 +2588,7 @@
       "Name": "Chasing the Light",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Chicken",
@@ -2615,7 +2620,7 @@
       "Name": "Discovery",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "EasternWetlands",
@@ -2669,9 +2674,9 @@
       "ID": "GrasslandsRing",
       "SetID": "1n308hc",
       "Name": "Grasslands Ring",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 69
     },
     {
       "ID": "HighPlain",
@@ -2735,7 +2740,7 @@
       "Name": "Museum Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "MuseumVisitor",
@@ -2799,7 +2804,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "RemnantsOfThePast",
@@ -2911,7 +2916,7 @@
       "Name": "The Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "TheThiefOfFire",
@@ -2990,7 +2995,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 986,
+      "Progressed": 987,
       "Completed": 1
     }
   ],
@@ -2998,8 +3003,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-15T08:06:12.9660049+00:00",
+  "LastChanged_Achievements": "2023-12-15T09:05:41.0047544+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:00:37.4984038+00:00",
-  "LastUpdate_Achievements": "2023-12-15T08:06:12.9660647+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:00:12.2530257+00:00",
+  "LastUpdate_Achievements": "2023-12-15T09:05:41.0048007+00:00"
 }

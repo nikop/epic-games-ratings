@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3747,9 +3747,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32261,
+  "EOS_Progressed": 32263,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -22362,6 +22362,11 @@
       "Time": "2023-12-15T07:07:44.2717068+00:00",
       "NumProgressed": 32261,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-15T09:05:53.4866872+00:00",
+      "NumProgressed": 32263,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -22413,7 +22418,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "Collect_Spores",
@@ -22437,7 +22442,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "Daily_Dose",
@@ -22445,7 +22450,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "Diabolical",
@@ -22677,7 +22682,7 @@
       "Name": "Stylish",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2903
+      "UsersEstimate": 2904
     },
     {
       "ID": "Summoner",
@@ -22733,7 +22738,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "Tobins_Prodigy",
@@ -22757,7 +22762,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "Welcome_Crew",
@@ -22773,14 +22778,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32261,
+      "Progressed": 32263,
       "Completed": 69
     }
   ],
@@ -22788,8 +22793,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-15T07:01:21.9898413+00:00",
-  "LastChanged_Achievements": "2023-12-15T08:06:26.340329+00:00",
+  "LastChanged_Achievements": "2023-12-15T09:05:53.4866868+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:16.7242615+00:00",
-  "LastUpdate_Ratings": "2023-12-15T08:00:24.2163858+00:00",
-  "LastUpdate_Achievements": "2023-12-15T08:06:26.340451+00:00"
+  "LastUpdate_Ratings": "2023-12-15T09:00:01.2567881+00:00",
+  "LastUpdate_Achievements": "2023-12-15T09:05:53.4868135+00:00"
 }
