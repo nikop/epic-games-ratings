@@ -4,7 +4,7 @@
 Rating: 4.42 (Ranked 719)  
 ## Awards
 Max (Great for Beginners): 51  (Ranked 440)  
-Sum: 400 (Ranked 348)  
+Sum: 401 (Ranked 348)  
 Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): 92
 | This game has Amazing Characters | 30 |
 | This game has Competitive Players | 29 |
 | This game has Amazing Storytelling | 27 |
-| This game is Relaxing | 26 |
+| This game is Relaxing | 27 |
 | This game is Educational | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -133,3 +133,4 @@ Diff (max vs sum): 92
 | 2023-11-25 | 4.42 | 51 | 398 |
 | 2023-12-04 | 4.42 | 51 | 399 |
 | 2023-12-08 | 4.42 | 51 | 400 |
+| 2023-12-15 | 4.42 | 51 | 401 |

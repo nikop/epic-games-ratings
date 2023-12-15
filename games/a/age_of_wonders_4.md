@@ -10,17 +10,17 @@ Rating: 4.62 (Ranked 371)
 | Secret Technique | 4.00% | ~226 |
 | Walls Cannot Stop Us | 4.00% | ~226 |
 | But this one is mine | 4.00% | ~226 |
-| There Can Only Be One! | 3.00% | ~169 |
-| Full Ascension | 3.00% | ~169 |
-| Bone Peddler | 3.00% | ~169 |
-| From Friends to Family | 3.00% | ~169 |
-| Seat of Power | 3.00% | ~169 |
+| There Can Only Be One! | 3.00% | ~170 |
+| Full Ascension | 3.00% | ~170 |
+| Bone Peddler | 3.00% | ~170 |
+| From Friends to Family | 3.00% | ~170 |
+| Magical Synergy | 3.00% | ~170 |
+| Seat of Power | 3.00% | ~170 |
 | Valley of Wonders | 2.00% | ~113 |
 | Return of the Wizard King | 2.00% | ~113 |
 | Enchanted Archipelago | 2.00% | ~113 |
 | Digging for Treasure | 2.00% | ~113 |
 | Stronger Together | 2.00% | ~113 |
-| Magical Synergy | 2.00% | ~113 |
 | My Final Form | 2.00% | ~113 |
 | In a Liege of Your Own | 2.00% | ~113 |
 | Fiery Friend | 2.00% | ~113 |
@@ -31,17 +31,17 @@ Rating: 4.62 (Ranked 371)
 | Sehiran Oasis | 2.00% | ~113 |
 | Chaos Surge | 2.00% | ~113 |
 | Spoils of War | 2.00% | ~113 |
-| Arch Mage | 1.00% | ~56 |
-| The Creator | 1.00% | ~56 |
-| Crimson Caldera | 1.00% | ~56 |
-| Preparation Is Everything | 1.00% | ~56 |
-| Here be Dragons | 1.00% | ~56 |
-| Blood of the Dragon | 1.00% | ~56 |
-| Mighty Hoard | 1.00% | ~56 |
-| Prometheus Avenged | 1.00% | ~56 |
-| Seal the Deal | 1.00% | ~56 |
-| A Conqueror's Cohort | 1.00% | ~56 |
-| Dawn of the Dread | 1.00% | ~56 |
+| Arch Mage | 1.00% | ~57 |
+| The Creator | 1.00% | ~57 |
+| Crimson Caldera | 1.00% | ~57 |
+| Preparation Is Everything | 1.00% | ~57 |
+| Here be Dragons | 1.00% | ~57 |
+| Blood of the Dragon | 1.00% | ~57 |
+| Mighty Hoard | 1.00% | ~57 |
+| Prometheus Avenged | 1.00% | ~57 |
+| Seal the Deal | 1.00% | ~57 |
+| A Conqueror's Cohort | 1.00% | ~57 |
+| Dawn of the Dread | 1.00% | ~57 |
 | The Eternal Court | 0.90% | ~51 |
 | Lord of Chaos | 0.80% | ~45 |
 | Eternal Lord | 0.80% | ~45 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 371)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,649 (Ranked 191)  
+Progressed: 5,652 (Ranked 191)  
 Completed: 7 (0.12%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 7 (0.12%) (Ranked 288)
 | 2023-12-12 | 5,587 | 7 |
 | 2023-12-13 | 5,598 | 7 |
 | 2023-12-14 | 5,643 | 7 |
-| 2023-12-15 | 5,649 | 7 |
+| 2023-12-15 | 5,652 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 479)  
 Sum: 93 (Ranked 460)  

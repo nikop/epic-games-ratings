@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 24150,
+  "EOS_Progressed": 24174,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 481,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -10565,6 +10565,11 @@
       "Time": "2023-12-15T04:09:37.9343453+00:00",
       "NumProgressed": 24150,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-15T05:10:02.9280123+00:00",
+      "NumProgressed": 24174,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10640,7 +10645,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -10656,7 +10661,7 @@
       "Name": "Spells and Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -10664,7 +10669,7 @@
       "Name": "For Wrath",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "BossCaveDefeated",
@@ -10744,7 +10749,7 @@
       "Name": "For Pride",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "BossTowerDefeated",
@@ -10760,7 +10765,7 @@
       "Name": "K.O.",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "EnableHouseRules",
@@ -10848,7 +10853,7 @@
       "Name": "Just the Beginning",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "StoryTutorial",
@@ -10856,7 +10861,7 @@
       "Name": "Wasted Betrayal",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "TitleDrop",
@@ -10887,21 +10892,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 24150,
+      "Progressed": 24174,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 3080,
+      "Progressed": 3104,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-15T04:09:37.934345+00:00",
+  "LastChanged_Achievements": "2023-12-15T05:10:02.9280116+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:17.8828255+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:58:51.0245722+00:00",
-  "LastUpdate_Achievements": "2023-12-15T04:09:37.9344112+00:00"
+  "LastUpdate_Ratings": "2023-12-15T04:59:42.6608715+00:00",
+  "LastUpdate_Achievements": "2023-12-15T05:10:02.9280788+00:00"
 }

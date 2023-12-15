@@ -4,7 +4,7 @@
   "ProductSlug": "indoorlands-3b2356",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 501,
+  "Ranking_EOS_NewPlayers": 502,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
@@ -290,8 +290,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2023-12-15T04:03:35.6331097+00:00",
+  "LastChanged_Achievements": "2023-12-15T05:04:03.0872433+00:00",
   "LastUpdate_AppInfo": "2023-12-14T08:57:08.1941241+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:57:24.524841+00:00",
-  "LastUpdate_Achievements": "2023-12-15T04:03:35.6331276+00:00"
+  "LastUpdate_Ratings": "2023-12-15T04:57:32.0874635+00:00",
+  "LastUpdate_Achievements": "2023-12-15T05:04:03.0872599+00:00"
 }

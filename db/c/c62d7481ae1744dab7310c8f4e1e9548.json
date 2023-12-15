@@ -2,9 +2,9 @@
   "ID": "c62d7481ae1744dab7310c8f4e1e9548",
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
-  "Ranking_EOS_Progress": 441,
+  "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113,
+  "EOS_Progressed": 114,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.19,
+  "EOS_Completed_Percentage": 6.14,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -604,6 +604,11 @@
       "Time": "2023-12-15T00:08:00.6144269+00:00",
       "NumProgressed": 113,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-15T05:03:39.3065561+00:00",
+      "NumProgressed": 114,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -694,7 +699,7 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
       "UsersEstimate": 70
     },
@@ -766,7 +771,7 @@
       "ID": "Rybka",
       "SetID": "ag48e8e",
       "Name": "Goldfish",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
       "UsersEstimate": 21
     },
@@ -782,17 +787,17 @@
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 39
     },
     {
       "ID": "Sputnik2",
       "SetID": "ag48e8e",
       "Name": "Sputnik",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "Stonozka",
@@ -855,14 +860,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 113,
+      "Progressed": 114,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-15T03:08:33.8870158+00:00",
+  "LastChanged_Achievements": "2023-12-15T05:03:39.3065553+00:00",
   "LastUpdate_AppInfo": "2023-12-09T04:57:13.3136034+00:00",
-  "LastUpdate_Ratings": "2023-12-15T04:02:49.918889+00:00",
-  "LastUpdate_Achievements": "2023-12-15T03:08:33.8870312+00:00"
+  "LastUpdate_Ratings": "2023-12-15T05:02:50.6988101+00:00",
+  "LastUpdate_Achievements": "2023-12-15T05:03:39.3081933+00:00"
 }

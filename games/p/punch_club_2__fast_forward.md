@@ -17,20 +17,20 @@
 | Your own amateur gym | 73.00% | ~278 |
 | First defeat | 72.00% | ~274 |
 | Run K, run! | 72.00% | ~274 |
+| No bullying more | 69.00% | ~263 |
 | Hello, world! | 69.00% | ~263 |
 | Fighting is cool | 68.00% | ~259 |
-| No bullying more | 68.00% | ~259 |
 | Pal of your father? | 66.00% | ~251 |
 | Spirit of the past | 64.00% | ~244 |
 | Employee of the month | 64.00% | ~244 |
 | Law student | 60.00% | ~229 |
 | Workout professional | 59.00% | ~225 |
 | Handyman | 59.00% | ~225 |
+| Little hacker | 58.00% | ~221 |
 | Champion – starter pack | 58.00% | ~221 |
 | It's good to be alive | 58.00% | ~221 |
 | Employee of the year | 58.00% | ~221 |
 | Fight for life | 57.00% | ~217 |
-| Little hacker | 57.00% | ~217 |
 | Own four walls | 57.00% | ~217 |
 | Intriguing candies | 57.00% | ~217 |
 | Legal courier | 54.00% | ~206 |
@@ -63,9 +63,9 @@
 | Family comes first | 33.00% | ~126 |
 | Key memories | 33.00% | ~126 |
 | Careerist | 33.00% | ~126 |
+| Anyone can resist | 33.00% | ~126 |
 | The heart of the Resistance | 33.00% | ~126 |
 | Trap disarmed | 32.00% | ~122 |
-| Anyone can resist | 32.00% | ~122 |
 | The last bell ring | 30.00% | ~114 |
 | Silver’s past | 29.00% | ~110 |
 | Better cooking at home | 29.00% | ~110 |

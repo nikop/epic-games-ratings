@@ -4,7 +4,7 @@
   "ProductSlug": "love-money-rocknroll-b2e684",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 501,
+  "Ranking_EOS_NewPlayers": 502,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -28,9 +28,155 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-12-15T05:08:29.4041779+00:00",
+  "TotalAchievements": 18,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "allendings",
+      "SetID": "6fhgm25",
+      "Name": "War and Peace",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "catherine_bad",
+      "SetID": "6fhgm25",
+      "Name": "Procrastination",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "catherine_bad2",
+      "SetID": "6fhgm25",
+      "Name": "Showdown in Little Tokyo",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "catherine_bad3",
+      "SetID": "6fhgm25",
+      "Name": "Deep breath",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "catherine_good",
+      "SetID": "6fhgm25",
+      "Name": "America Behind!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "collection",
+      "SetID": "6fhgm25",
+      "Name": "Connoisseur",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "credits",
+      "SetID": "6fhgm25",
+      "Name": "Patience is a virtue",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ellie_bad",
+      "SetID": "6fhgm25",
+      "Name": "High society",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ellie_bad2",
+      "SetID": "6fhgm25",
+      "Name": "To a flame",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ellie_good",
+      "SetID": "6fhgm25",
+      "Name": "Rock in Budokan",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "firststep",
+      "SetID": "6fhgm25",
+      "Name": "First step",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "himitsu_bad",
+      "SetID": "6fhgm25",
+      "Name": "With a clean slate",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "himitsu_bad2",
+      "SetID": "6fhgm25",
+      "Name": "Leaving friendzone",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "himitsu_bad3",
+      "SetID": "6fhgm25",
+      "Name": "Under lock and key",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "himitsu_good",
+      "SetID": "6fhgm25",
+      "Name": "Some tea for (you)",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "kagome_bad",
+      "SetID": "6fhgm25",
+      "Name": "Astral journey",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "kagome_bad2",
+      "SetID": "6fhgm25",
+      "Name": "Social inequality",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "kagome_good",
+      "SetID": "6fhgm25",
+      "Name": "Serious business",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "6fhgm25",
@@ -40,8 +186,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-04T08:03:34.1557119+00:00",
-  "LastChanged_Achievements": "2023-12-15T04:08:31.949028+00:00",
+  "LastChanged_Achievements": "2023-12-15T05:08:29.4041763+00:00",
   "LastUpdate_AppInfo": "2023-12-11T08:56:58.2302382+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:59:01.7513747+00:00",
-  "LastUpdate_Achievements": "2023-12-15T04:08:31.949032+00:00"
+  "LastUpdate_Ratings": "2023-12-15T04:59:59.9996956+00:00",
+  "LastUpdate_Achievements": "2023-12-15T05:08:29.4367403+00:00"
 }

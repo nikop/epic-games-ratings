@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1727,
+  "EOS_Progressed": 1728,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
@@ -5199,6 +5199,11 @@
       "Time": "2023-12-15T00:10:45.4058639+00:00",
       "NumProgressed": 1727,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T05:10:36.4889283+00:00",
+      "NumProgressed": 1728,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5427,7 +5432,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "achievement_35",
@@ -5435,7 +5440,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "achievement_36",
@@ -5459,7 +5464,7 @@
       "Name": "Survivor",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "achievement_39",
@@ -5617,9 +5622,9 @@
       "ID": "achievement_56",
       "SetID": "cemm4l8",
       "Name": "Support the troops",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 104
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_57",
@@ -5714,13 +5719,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1727,
+      "Progressed": 1728,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1727,
+      "Progressed": 1728,
       "Completed": 1
     }
   ],
@@ -5728,8 +5733,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-15T04:10:02.1208396+00:00",
+  "LastChanged_Achievements": "2023-12-15T05:10:36.4889281+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.6035488+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:58:24.2193924+00:00",
-  "LastUpdate_Achievements": "2023-12-15T04:10:02.120907+00:00"
+  "LastUpdate_Ratings": "2023-12-15T04:59:02.9795267+00:00",
+  "LastUpdate_Achievements": "2023-12-15T05:10:36.4890099+00:00"
 }

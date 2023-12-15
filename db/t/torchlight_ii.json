@@ -2,12 +2,12 @@
   "ID": "8432511ef63b489b843d21ff486a0355",
   "Name": "Torchlight II",
   "ProductSlug": "torchlight-2",
-  "Ranking_Rating": 439,
+  "Ranking_Rating": 440,
   "Ranking_Popularity": 149,
   "Ranking_PopularitySum": 213,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 501,
+  "Ranking_EOS_NewPlayers": 502,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-07-16T15:00:00+00:00",
@@ -2392,10 +2392,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 2105,
       "NumberOfAwardsMax": 1059
+    },
+    {
+      "Time": "2023-12-15T05:02:48.2761322+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2106,
+      "NumberOfAwardsMax": 1059
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2105,
+  "NumberOfAwards": 2106,
   "NumberOfAwardsMax": 1059,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2427,7 +2433,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 71
+      "Count": 72
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2477,8 +2483,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2023-12-13T22:00:25.8646168+00:00",
+  "LastChanged": "2023-12-15T05:02:48.276132+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:40.7442909+00:00",
-  "LastUpdate_Ratings": "2023-12-15T04:02:48.451931+00:00",
-  "LastUpdate_Achievements": "2023-12-15T04:06:00.3493861+00:00"
+  "LastUpdate_Ratings": "2023-12-15T05:02:48.2761327+00:00",
+  "LastUpdate_Achievements": "2023-12-15T05:07:31.6022796+00:00"
 }

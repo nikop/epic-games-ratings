@@ -4,7 +4,7 @@
   "ProductSlug": "destroy-all-humans-clone-carnage",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 501,
+  "Ranking_EOS_NewPlayers": 502,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-05-31T17:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:28.7532281+00:00",
   "LastChanged": "2023-03-31T05:57:28.7532283+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.8329366+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:59:14.0012347+00:00",
-  "LastUpdate_Achievements": "2023-12-15T04:04:20.5970515+00:00"
+  "LastUpdate_Ratings": "2023-12-15T05:00:18.875595+00:00",
+  "LastUpdate_Achievements": "2023-12-15T05:05:07.7300233+00:00"
 }

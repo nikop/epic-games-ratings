@@ -1,7 +1,7 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.58 (Ranked 453)  
+Rating: 4.58 (Ranked 454)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,32 +9,32 @@ Rating: 4.58 (Ranked 453)
 | To Hell In A Handcart | 62.00% | ~728 |
 | High Profile | 55.00% | ~646 |
 | Whispers In The Dark | 51.00% | ~599 |
-| Fond Memories | 49.00% | ~575 |
+| Fond Memories | 49.00% | ~576 |
 | A Method To His Madness | 47.00% | ~552 |
 | History Check | 46.00% | ~540 |
 | The New World | 44.00% | ~517 |
 | Gaze Into The Abyss | 43.00% | ~505 |
 | Open Sesame | 43.00% | ~505 |
 | Sticky Fingers | 43.00% | ~505 |
-| Knives Out | 43.00% | ~505 |
-| Lock, Stock, And Barrel | 42.00% | ~493 |
-| Back In The Saddle | 41.00% | ~481 |
-| Land, Ho! | 41.00% | ~481 |
+| Lock, Stock, And Barrel | 42.00% | ~494 |
+| Knives Out | 42.00% | ~494 |
+| Back In The Saddle | 41.00% | ~482 |
+| Land, Ho! | 41.00% | ~482 |
 | No Man Is An Island | 40.00% | ~470 |
 | At Wits' End | 39.00% | ~458 |
 | Fhtagn! | 38.00% | ~446 |
-| Up In Flames | 37.00% | ~434 |
+| Up In Flames | 37.00% | ~435 |
 | Bookworm | 36.00% | ~423 |
 | Going Once... | 35.00% | ~411 |
-| Let Me Be Frank | 33.00% | ~387 |
+| Let Me Be Frank | 33.00% | ~388 |
 | No Stone Unturned | 31.00% | ~364 |
 | Brain Food | 30.00% | ~352 |
 | Read It And Weep | 19.00% | ~223 |
-| Curiosity Killed The Cat | 18.00% | ~211 |
+| Curiosity Killed The Cat | 18.00% | ~212 |
 | Big Breakthrough | 12.00% | ~141 |
 | Reawakened | 3.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,174 (Ranked 260)  
+Progressed: 1,175 (Ranked 259)  
 Completed: 31 (2.64%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,6 +229,7 @@ Completed: 31 (2.64%) (Ranked 119)
 | 2023-12-12 | 1,134 | 30 |
 | 2023-12-13 | 1,149 | 31 |
 | 2023-12-14 | 1,174 | 31 |
+| 2023-12-15 | 1,175 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

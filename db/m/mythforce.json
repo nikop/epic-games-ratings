@@ -4,10 +4,10 @@
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 645,
   "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 372,
+  "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -762,10 +762,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 292,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-12-15T05:01:12.5073091+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 264,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 292,
+  "NumberOfAwards": 264,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -830,9 +836,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5520,
+  "EOS_Progressed": 5521,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11060,6 +11066,11 @@
       "Time": "2023-12-15T03:06:44.5251422+00:00",
       "NumProgressed": 5520,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-15T05:06:23.4127476+00:00",
+      "NumProgressed": 5521,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11184,7 +11195,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -11255,15 +11266,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5520,
+      "Progressed": 5521,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
-  "LastChanged": "2023-12-15T00:00:59.9997055+00:00",
-  "LastChanged_Achievements": "2023-12-15T04:05:13.0768906+00:00",
+  "LastChanged": "2023-12-15T05:01:12.5073089+00:00",
+  "LastChanged_Achievements": "2023-12-15T05:06:23.4127472+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.410244+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:59:49.8767051+00:00",
-  "LastUpdate_Achievements": "2023-12-15T04:05:13.0769522+00:00"
+  "LastUpdate_Ratings": "2023-12-15T05:01:12.5073094+00:00",
+  "LastUpdate_Achievements": "2023-12-15T05:06:23.4128182+00:00"
 }

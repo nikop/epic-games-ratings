@@ -9726,9 +9726,9 @@
       "Count": 1004
     }
   ],
-  "EOS_Progressed": 127157,
+  "EOS_Progressed": 127166,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1351,
+  "EOS_NewPlayers": 1355,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35096,6 +35096,11 @@
       "Time": "2023-12-15T04:09:06.6462309+00:00",
       "NumProgressed": 127157,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T05:09:18.77395+00:00",
+      "NumProgressed": 127166,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35185,9 +35190,9 @@
       "ID": "altar_of_hope_unlock_hero_vestal",
       "SetID": "64l4lke",
       "Name": "Unfulfilled Desires",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 763
+      "UsersEstimate": 890
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -35417,9 +35422,9 @@
       "ID": "driving_biome_clear_farm",
       "SetID": "64l4lke",
       "Name": "Harvest Festival",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1144
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -35738,21 +35743,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127157,
+      "Progressed": 127166,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2026,
+      "Progressed": 2035,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-15T03:59:55.365936+00:00",
-  "LastChanged_Achievements": "2023-12-15T04:09:06.6462306+00:00",
+  "LastChanged_Achievements": "2023-12-15T05:09:18.7739497+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:59:55.3659366+00:00",
-  "LastUpdate_Achievements": "2023-12-15T04:09:06.6463871+00:00"
+  "LastUpdate_Ratings": "2023-12-15T05:01:20.1990055+00:00",
+  "LastUpdate_Achievements": "2023-12-15T05:09:18.7740934+00:00"
 }

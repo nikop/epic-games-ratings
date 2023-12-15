@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8544,
+  "EOS_Progressed": 8573,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 1004,
+  "EOS_NewPlayers": 1031,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -6534,6 +6534,11 @@
       "Time": "2023-12-15T04:09:52.9809152+00:00",
       "NumProgressed": 8544,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-15T05:10:24.2728521+00:00",
+      "NumProgressed": 8573,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6546,7 +6551,7 @@
       "Name": "All Jacked Up",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "BabySteps",
@@ -6554,7 +6559,7 @@
       "Name": "Baby Steps",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2143
     },
     {
       "ID": "BeLikeWater",
@@ -6562,7 +6567,7 @@
       "Name": "Be Like Water",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Bikemaggedon",
@@ -6570,7 +6575,7 @@
       "Name": "Bikemaggedon",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ChewingTheScenery",
@@ -6586,7 +6591,7 @@
       "Name": "Connection Lost",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1200
     },
     {
       "ID": "Eavesdropper",
@@ -6602,7 +6607,7 @@
       "Name": "Explosive Personality",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 940
+      "UsersEstimate": 943
     },
     {
       "ID": "FasterThanLight",
@@ -6618,7 +6623,7 @@
       "Name": "First Time?",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 2905
+      "UsersEstimate": 2915
     },
     {
       "ID": "FuneralForTheDeath",
@@ -6626,7 +6631,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 684
+      "UsersEstimate": 686
     },
     {
       "ID": "GarbageMan",
@@ -6634,7 +6639,7 @@
       "Name": "Garbage Man",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Godrunner",
@@ -6650,7 +6655,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1029
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -6658,7 +6663,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "JackOfAllTrades",
@@ -6690,7 +6695,7 @@
       "Name": "Nasty!",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1457
     },
     {
       "ID": "NoMoreTotems",
@@ -6698,7 +6703,7 @@
       "Name": "No More Totems",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 598
+      "UsersEstimate": 600
     },
     {
       "ID": "NotLikeTheOthers",
@@ -6730,7 +6735,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "TheOldSchoolWay",
@@ -6738,7 +6743,7 @@
       "Name": "The Old-School Way",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1286
     },
     {
       "ID": "TheQuarterback",
@@ -6746,7 +6751,7 @@
       "Name": "The Quarterback",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2229
     },
     {
       "ID": "ThisIsDharma",
@@ -6754,7 +6759,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 769
+      "UsersEstimate": 772
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -6762,7 +6767,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1029
     },
     {
       "ID": "UnResurrected",
@@ -6770,7 +6775,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 598
+      "UsersEstimate": 600
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -6778,7 +6783,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1029
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -6786,7 +6791,7 @@
       "Name": "Digestive Issues",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 772
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -6794,7 +6799,7 @@
       "Name": "You\u0027re Starting To Get It",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "YouveReachedTheRightNumber",
@@ -6802,7 +6807,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "k01101110",
@@ -6810,14 +6815,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 8544,
+      "Progressed": 8573,
       "Completed": 16
     }
   ],
@@ -6825,8 +6830,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-14T12:01:56.1027206+00:00",
-  "LastChanged_Achievements": "2023-12-15T04:09:52.9809145+00:00",
+  "LastChanged_Achievements": "2023-12-15T05:10:24.2728517+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:14.4379471+00:00",
-  "LastUpdate_Ratings": "2023-12-15T04:00:15.1134893+00:00",
-  "LastUpdate_Achievements": "2023-12-15T04:09:52.9809637+00:00"
+  "LastUpdate_Ratings": "2023-12-15T05:01:50.6222619+00:00",
+  "LastUpdate_Achievements": "2023-12-15T05:10:24.2728964+00:00"
 }

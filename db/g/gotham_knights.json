@@ -4661,7 +4661,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 78111,
+  "EOS_Progressed": 78112,
   "EOS_Completed": 126,
   "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 2,
@@ -26036,6 +26036,11 @@
       "Time": "2023-12-15T04:04:14.7872937+00:00",
       "NumProgressed": 78111,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2023-12-15T05:04:59.1125041+00:00",
+      "NumProgressed": 78112,
+      "NumCompleted": 126
     }
   ],
   "TotalAchievements": 61,
@@ -26095,7 +26100,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17184
+      "UsersEstimate": 17185
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -26151,7 +26156,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16403
+      "UsersEstimate": 16404
     },
     {
       "ID": "CLAYFACE_2",
@@ -26207,7 +26212,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 10154
+      "UsersEstimate": 10155
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -26255,7 +26260,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10154
+      "UsersEstimate": 10155
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -26455,7 +26460,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17184
+      "UsersEstimate": 17185
     },
     {
       "ID": "MYSTERY_04",
@@ -26534,13 +26539,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 78111,
+      "Progressed": 78112,
       "Completed": 126
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48391,
+      "Progressed": 48392,
       "Completed": 2675
     }
   ],
@@ -26548,8 +26553,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-15T01:49:32.8402416+00:00",
-  "LastChanged_Achievements": "2023-12-15T04:04:14.7872934+00:00",
+  "LastChanged_Achievements": "2023-12-15T05:04:59.1125038+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.7721073+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:59:42.2484313+00:00",
-  "LastUpdate_Achievements": "2023-12-15T04:04:14.7874473+00:00"
+  "LastUpdate_Ratings": "2023-12-15T05:01:01.1184479+00:00",
+  "LastUpdate_Achievements": "2023-12-15T05:04:59.1126205+00:00"
 }

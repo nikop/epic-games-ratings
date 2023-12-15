@@ -12,9 +12,9 @@ Rating: 4.18 (Ranked 946)
 | Knighthood | 27.00% | ~21,090 |
 | Get ReQ'd | 25.00% | ~19,528 |
 | Whispered Words | 24.00% | ~18,747 |
-| The Batman Family | 22.00% | ~17,184 |
-| Lock and Key | 22.00% | ~17,184 |
-| Something in the Clay | 21.00% | ~16,403 |
+| The Batman Family | 22.00% | ~17,185 |
+| Lock and Key | 22.00% | ~17,185 |
+| Something in the Clay | 21.00% | ~16,404 |
 | Quartzer Life Crisis | 20.00% | ~15,622 |
 | Working Hard or Harley Working? | 20.00% | ~15,622 |
 | Unstoppable Force | 20.00% | ~15,622 |
@@ -29,8 +29,8 @@ Rating: 4.18 (Ranked 946)
 | Rock and a Hard Place | 14.00% | ~10,936 |
 | Cooldown | 14.00% | ~10,936 |
 | Seeking Asylum | 14.00% | ~10,936 |
-| Not On My Watch | 13.00% | ~10,154 |
-| Shock Til They Drop | 13.00% | ~10,154 |
+| Not On My Watch | 13.00% | ~10,155 |
+| Shock Til They Drop | 13.00% | ~10,155 |
 | End of an Era | 12.00% | ~9,373 |
 | Bulldozed | 12.00% | ~9,373 |
 | Gotham Knight | 12.00% | ~9,373 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 946)
 | Element of Surprise | 0.20% | ~97 |
 | It's Nice to Be Wanted | 0.20% | ~97 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,111 (Ranked 101)  
+Progressed: 78,112 (Ranked 101)  
 Completed: 126 (0.16%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 126 (0.16%) (Ranked 277)
 | 2023-12-12 | 77,929 | 125 |
 | 2023-12-13 | 77,961 | 125 |
 | 2023-12-14 | 78,083 | 126 |
-| 2023-12-15 | 78,111 | 126 |
+| 2023-12-15 | 78,112 | 126 |
 ## Awards
 Max (Great Boss Battles): 3,010  (Ranked 98)  
 Sum: 5,149 (Ranked 141)  

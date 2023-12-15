@@ -925,9 +925,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3979,
+  "EOS_Progressed": 3980,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7095,6 +7095,11 @@
       "Time": "2023-12-15T04:05:15.7751036+00:00",
       "NumProgressed": 3979,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T05:06:27.4154454+00:00",
+      "NumProgressed": 3980,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7115,7 +7120,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2188
+      "UsersEstimate": 2189
     },
     {
       "ID": "achievement_11",
@@ -7163,7 +7168,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "achievement_17",
@@ -7235,7 +7240,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "achievement_6",
@@ -7251,7 +7256,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "achievement_8",
@@ -7274,7 +7279,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3979,
+      "Progressed": 3980,
       "Completed": 0
     }
   ],
@@ -7282,8 +7287,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-14T04:03:15.2277546+00:00",
-  "LastChanged_Achievements": "2023-12-15T04:05:15.7751032+00:00",
+  "LastChanged_Achievements": "2023-12-15T05:06:27.4154451+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:06.4979086+00:00",
-  "LastUpdate_Ratings": "2023-12-15T04:03:03.9625217+00:00",
-  "LastUpdate_Achievements": "2023-12-15T04:05:15.7751447+00:00"
+  "LastUpdate_Ratings": "2023-12-15T05:03:12.6209806+00:00",
+  "LastUpdate_Achievements": "2023-12-15T05:06:27.4154945+00:00"
 }

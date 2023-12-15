@@ -4,7 +4,7 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 501,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 292,
+  "EOS_Progressed": 293,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1185,6 +1185,11 @@
       "Time": "2023-12-10T12:09:26.1344404+00:00",
       "NumProgressed": 292,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T05:09:47.8177081+00:00",
+      "NumProgressed": 293,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -1251,9 +1256,9 @@
       "ID": "achScout1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Hired!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "achScoutMaxStar",
@@ -1420,14 +1425,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 292,
+      "Progressed": 293,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-12-15T04:09:27.6752436+00:00",
+  "LastChanged_Achievements": "2023-12-15T05:09:47.8177078+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:11.6032807+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:57:43.7862452+00:00",
-  "LastUpdate_Achievements": "2023-12-15T04:09:27.6752634+00:00"
+  "LastUpdate_Ratings": "2023-12-15T04:58:00.2473953+00:00",
+  "LastUpdate_Achievements": "2023-12-15T05:09:47.8177533+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10346,
+  "EOS_Progressed": 10347,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2002,6 +2002,11 @@
       "Time": "2023-12-15T04:04:55.5604638+00:00",
       "NumProgressed": 10346,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-15T05:05:57.8882264+00:00",
+      "NumProgressed": 10347,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 43,
@@ -2061,7 +2066,7 @@
       "Name": "car wash",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "ACH_COLLECTIBLES_FINLAND",
@@ -2069,7 +2074,7 @@
       "Name": "perkele",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "ACH_COLLECTIBLES_GERMANY",
@@ -2117,7 +2122,7 @@
       "Name": "grocery-getter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 4138
+      "UsersEstimate": 4139
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -2125,7 +2130,7 @@
       "Name": "rwd only",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -2149,7 +2154,7 @@
       "Name": "monster",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "ACH_COMPLETE_GROUPS",
@@ -2173,7 +2178,7 @@
       "Name": "keep it tidy",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 8070
+      "UsersEstimate": 8071
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -2221,7 +2226,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5897
+      "UsersEstimate": 5898
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -2237,7 +2242,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9932
+      "UsersEstimate": 9933
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -2261,7 +2266,7 @@
       "Name": "night ride",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "ACH_PAINT_BOOTH",
@@ -2277,7 +2282,7 @@
       "Name": "snorkel",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "ACH_ROLL",
@@ -2301,7 +2306,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 4552
+      "UsersEstimate": 4553
     },
     {
       "ID": "ACH_SNOW",
@@ -2333,7 +2338,7 @@
       "Name": "food tour: pasta",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "ACH_WEEKLY",
@@ -2349,22 +2354,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7449
+      "UsersEstimate": 7450
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10346,
+      "Progressed": 10347,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-12-15T04:04:55.5604634+00:00",
+  "LastChanged_Achievements": "2023-12-15T05:05:57.8882257+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:57.0988165+00:00",
-  "LastUpdate_Ratings": "2023-12-15T04:00:12.6458158+00:00",
-  "LastUpdate_Achievements": "2023-12-15T04:04:55.5604975+00:00"
+  "LastUpdate_Ratings": "2023-12-15T05:01:46.8341223+00:00",
+  "LastUpdate_Achievements": "2023-12-15T05:05:57.8882652+00:00"
 }

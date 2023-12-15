@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5649,
+  "EOS_Progressed": 5652,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8045,6 +8045,11 @@
       "Time": "2023-12-15T04:06:07.4423284+00:00",
       "NumProgressed": 5649,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-15T05:07:41.9161343+00:00",
+      "NumProgressed": 5652,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8072,7 +8077,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "12",
@@ -8096,7 +8101,7 @@
       "Name": "Full Ascension",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "15",
@@ -8128,7 +8133,7 @@
       "Name": "Arch Mage",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "19",
@@ -8136,7 +8141,7 @@
       "Name": "The Creator",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "2",
@@ -8200,7 +8205,7 @@
       "Name": "Bone Peddler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "27",
@@ -8216,7 +8221,7 @@
       "Name": "From Friends to Family",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "29",
@@ -8232,7 +8237,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "30",
@@ -8240,15 +8245,15 @@
       "Name": "Preparation Is Everything",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "31",
       "SetID": "3aa2279",
       "Name": "Magical Synergy",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 170
     },
     {
       "ID": "32",
@@ -8264,7 +8269,7 @@
       "Name": "Seat of Power",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "34",
@@ -8408,7 +8413,7 @@
       "Name": "Here be Dragons",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "46",
@@ -8432,7 +8437,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "49",
@@ -8440,7 +8445,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "50",
@@ -8472,7 +8477,7 @@
       "Name": "Prometheus Avenged",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "54",
@@ -8488,7 +8493,7 @@
       "Name": "Seal the Deal",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "56",
@@ -8496,7 +8501,7 @@
       "Name": "A Conqueror\u0027s Cohort",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "57",
@@ -8512,7 +8517,7 @@
       "Name": "Dawn of the Dread",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "59",
@@ -8535,13 +8540,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5649,
+      "Progressed": 5652,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5649,
+      "Progressed": 5652,
       "Completed": 7
     }
   ],
@@ -8549,8 +8554,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-15T04:06:07.4423281+00:00",
+  "LastChanged_Achievements": "2023-12-15T05:07:41.9161339+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:32.604119+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:57:14.0890263+00:00",
-  "LastUpdate_Achievements": "2023-12-15T04:06:07.4423942+00:00"
+  "LastUpdate_Ratings": "2023-12-15T04:57:16.6225349+00:00",
+  "LastUpdate_Achievements": "2023-12-15T05:07:41.9162333+00:00"
 }

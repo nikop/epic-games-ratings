@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 38.00% | ~404 |
-| Welcome to the Tower | 35.00% | ~372 |
-| The great escape | 30.00% | ~319 |
-| The Preacher's fate | 28.00% | ~298 |
-| A new dawn | 24.00% | ~255 |
-| Scholar | 22.00% | ~234 |
-| A good beginning | 21.00% | ~223 |
-| True G3M4R | 21.00% | ~223 |
-| The darkness | 21.00% | ~223 |
-| One last step | 20.00% | ~213 |
-| I did it | 19.00% | ~202 |
-| Peace walker | 19.00% | ~202 |
-| Cable guy | 19.00% | ~202 |
-| Half the way | 19.00% | ~202 |
+| That's the spirit | 38.00% | ~406 |
+| Welcome to the Tower | 35.00% | ~374 |
+| The great escape | 30.00% | ~321 |
+| The Preacher's fate | 28.00% | ~299 |
+| A new dawn | 24.00% | ~257 |
+| Scholar | 22.00% | ~235 |
+| A good beginning | 21.00% | ~224 |
+| True G3M4R | 21.00% | ~224 |
+| The darkness | 21.00% | ~224 |
+| One last step | 20.00% | ~214 |
+| I did it | 19.00% | ~203 |
+| Peace walker | 19.00% | ~203 |
+| Cable guy | 19.00% | ~203 |
+| Half the way | 19.00% | ~203 |
 | In this together | 18.00% | ~192 |
 | Champollion | 18.00% | ~192 |
-| Feels like springtime | 16.00% | ~170 |
+| Feels like springtime | 16.00% | ~171 |
 | Open door | 15.00% | ~160 |
 | Alchemists Express | 15.00% | ~160 |
-| Rascal | 14.00% | ~149 |
-| Free at last | 13.00% | ~138 |
+| Rascal | 14.00% | ~150 |
+| Free at last | 13.00% | ~139 |
 | A Link to the Past | 12.00% | ~128 |
-| A great audience | 10.00% | ~106 |
-| For its own good | 10.00% | ~106 |
+| A great audience | 10.00% | ~107 |
+| For its own good | 10.00% | ~107 |
 | Fashion victim | 5.00% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,064 (Ranked 269)  
-Completed: 56 (5.26%) (Ranked 73)  
+Progressed: 1,069 (Ranked 269)  
+Completed: 56 (5.24%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -176,4 +176,4 @@ Completed: 56 (5.26%) (Ranked 73)
 | 2023-12-12 | 962 | 55 |
 | 2023-12-13 | 981 | 56 |
 | 2023-12-14 | 1,054 | 56 |
-| 2023-12-15 | 1,064 | 56 |
+| 2023-12-15 | 1,069 | 56 |

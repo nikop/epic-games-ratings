@@ -5,7 +5,7 @@
   "Ranking_Rating": 233,
   "Ranking_Popularity": 518,
   "Ranking_PopularitySum": 410,
-  "Ranking_EOS_Progress": 324,
+  "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 130,
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 476,
+  "EOS_Progressed": 477,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1988,6 +1988,11 @@
       "Time": "2023-12-15T02:32:21.8412771+00:00",
       "NumProgressed": 476,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T05:08:30.2340014+00:00",
+      "NumProgressed": 477,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2070,9 +2075,9 @@
       "ID": "CastEachSpell",
       "SetID": "71c0n9i",
       "Name": "Versatile Wielder",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "ChainLightningKills",
@@ -2431,15 +2436,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 476,
+      "Progressed": 477,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-15T04:08:32.5970057+00:00",
+  "LastChanged_Achievements": "2023-12-15T05:08:30.2340009+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:58:49.0761294+00:00",
-  "LastUpdate_Achievements": "2023-12-15T04:08:32.5970498+00:00"
+  "LastUpdate_Ratings": "2023-12-15T04:59:39.6014243+00:00",
+  "LastUpdate_Achievements": "2023-12-15T05:08:30.2340577+00:00"
 }

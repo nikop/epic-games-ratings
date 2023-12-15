@@ -4,7 +4,7 @@
   "ProductSlug": "seven-doors-7039de",
   "Ranking_EOS_Progress": 566,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 501,
+  "Ranking_EOS_NewPlayers": 502,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-02-20T23:00:00+00:00",
@@ -305,8 +305,8 @@
   "FirstSeenRating": "2023-03-31T05:57:43.4272245+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.6926568+00:00",
   "LastChanged": "2023-03-31T05:57:43.4272246+00:00",
-  "LastChanged_Achievements": "2023-12-15T04:09:29.5096553+00:00",
+  "LastChanged_Achievements": "2023-12-15T05:09:50.4228787+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:38.9969181+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:57:29.3665538+00:00",
-  "LastUpdate_Achievements": "2023-12-15T04:09:29.5096691+00:00"
+  "LastUpdate_Ratings": "2023-12-15T04:57:39.8640361+00:00",
+  "LastUpdate_Achievements": "2023-12-15T05:09:50.4228891+00:00"
 }

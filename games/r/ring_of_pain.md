@@ -1,13 +1,13 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 453)  
+Rating: 4.58 (Ranked 454)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Matching | 1.00% | ~25 |
-| First Steps | 0.80% | ~1,928 |
+| First Steps | 0.90% | ~2,169 |
 | Uncharted Territory | 0.80% | ~1,928 |
 | Getting A Glimpse | 0.70% | ~1,687 |
 | Not Touching You | 0.70% | ~18 |
@@ -26,6 +26,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Delving Deeper | 0.50% | ~1,205 |
 | R.I.P | 0.50% | ~1,205 |
 | Dig Your Own Grave | 0.50% | ~1,205 |
+| Walk It Off | 0.50% | ~1,205 |
 | Cold Hearted | 0.50% | ~1,205 |
 | I Am Overburdened | 0.50% | ~1,205 |
 | The Bestiary | 0.50% | ~1,205 |
@@ -40,7 +41,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | What Doesn't Kill You | 0.50% | ~13 |
 | Consecutive Curses | 0.40% | ~964 |
 | Who To Trust? | 0.40% | ~964 |
-| Walk It Off | 0.40% | ~964 |
 | Just Chilling | 0.40% | ~964 |
 | Save Our Souls | 0.40% | ~964 |
 | Destroy Your Fears | 0.40% | ~964 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,047 (Ranked 65)  
+Progressed: 241,049 (Ranked 65)  
 Completed: 298 (0.12%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -384,7 +384,7 @@ Completed: 298 (0.12%) (Ranked 288)
 | 2023-12-12 | 240,936 | 296 |
 | 2023-12-13 | 240,984 | 298 |
 | 2023-12-14 | 241,040 | 298 |
-| 2023-12-15 | 241,047 | 298 |
+| 2023-12-15 | 241,049 | 298 |
 ## Awards
 Max (Quickly Understood Controls): 1,510  (Ranked 134)  
 Sum: 11,732 (Ranked 86)  

@@ -2,12 +2,12 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 453,
+  "Ranking_Rating": 454,
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 86,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3664,9 +3664,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241047,
+  "EOS_Progressed": 241049,
   "EOS_Completed": 298,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -28234,6 +28234,11 @@
       "Time": "2023-12-15T03:11:03.8614212+00:00",
       "NumProgressed": 241047,
       "NumCompleted": 298
+    },
+    {
+      "Time": "2023-12-15T05:10:37.488746+00:00",
+      "NumProgressed": 241049,
+      "NumCompleted": 298
     }
   ],
   "TotalAchievements": 138,
@@ -28275,9 +28280,9 @@
       "ID": "COMPLETEFIRSTRUN",
       "SetID": "5l8oe0h",
       "Name": "First Steps",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1928
+      "UsersEstimate": 2169
     },
     {
       "ID": "CURSE1HP",
@@ -28475,9 +28480,9 @@
       "ID": "FATALPOISONESCAPE",
       "SetID": "5l8oe0h",
       "Name": "Walk It Off",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 1205
     },
     {
       "ID": "FIREBEAD20EXPLOSIONS",
@@ -29348,13 +29353,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241047,
+      "Progressed": 241049,
       "Completed": 298
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2527,
+      "Progressed": 2529,
       "Completed": 404
     }
   ],
@@ -29362,8 +29367,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-15T01:49:50.7155594+00:00",
-  "LastChanged_Achievements": "2023-12-15T04:10:02.6948108+00:00",
+  "LastChanged_Achievements": "2023-12-15T05:10:37.4887457+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:59:54.5823071+00:00",
-  "LastUpdate_Achievements": "2023-12-15T04:10:02.6950709+00:00"
+  "LastUpdate_Ratings": "2023-12-15T05:01:19.0848135+00:00",
+  "LastUpdate_Achievements": "2023-12-15T05:10:37.489083+00:00"
 }

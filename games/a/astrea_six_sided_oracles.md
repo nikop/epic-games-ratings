@@ -8,8 +8,8 @@
 | Purification Pioneer | 60.00% | ~74 |
 | Mechanical Buddy | 55.00% | ~68 |
 | Dicesmithing Time! | 51.00% | ~63 |
+| Sanctuary Guardian | 46.00% | ~57 |
 | Endless Tricks | 45.00% | ~55 |
-| Sanctuary Guardian | 44.00% | ~54 |
 | Wild's Keeper | 41.00% | ~50 |
 | Mind Illuminator | 36.00% | ~44 |
 | Noctuan Champion | 34.00% | ~42 |
@@ -17,31 +17,31 @@
 | Astral Adventurer | 27.00% | ~33 |
 | Eridanian Champion | 27.00% | ~33 |
 | Anomaly Destroyer | 26.00% | ~32 |
+| Lacertian Champion | 26.00% | ~32 |
 | Star Killer | 25.00% | ~31 |
-| Lacertian Champion | 25.00% | ~31 |
 | Loyal Partner | 23.00% | ~28 |
-| Apian Champion | 21.00% | ~26 |
+| Apian Champion | 22.00% | ~27 |
 | Behenian Champion | 19.00% | ~23 |
 | Shard Spender | 17.00% | ~21 |
 | Unbeatable | 15.00% | ~18 |
+| Sadistic Plan | 13.00% | ~16 |
 | Aquarian Champion | 13.00% | ~16 |
 | Astral Seeker | 12.00% | ~15 |
-| Sadistic Plan | 12.00% | ~15 |
+| Stellar Haste | 12.00% | ~15 |
 | Favored by the Cosmos | 11.00% | ~14 |
 | Heart Gate | 11.00% | ~14 |
-| Stellar Haste | 11.00% | ~14 |
 | The Corruption Goddess | 11.00% | ~14 |
 | The Goddes Avatar | 11.00% | ~14 |
 | Heavy Purger | 9.00% | ~11 |
 | Wave Bender | 8.00% | ~10 |
 | Apian Hero | 8.00% | ~10 |
 | Anomaly Control | 7.00% | ~9 |
+| Artificer | 7.00% | ~9 |
 | Can't touch this | 7.00% | ~9 |
 | The Chaos Artisan | 7.00% | ~9 |
 | The Dark Moon | 7.00% | ~9 |
 | Behenian Hero | 7.00% | ~9 |
 | Lacertian Hero | 7.00% | ~9 |
-| Artificer | 6.00% | ~7 |
 | Denying Destiny | 6.00% | ~7 |
 | The Distorted Sage | 6.00% | ~7 |
 | Purification Avatar | 5.00% | ~6 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123 (Ranked 428)  
+Progressed: 123 (Ranked 429)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |

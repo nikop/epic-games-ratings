@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 97.00% | ~35 |
-| Suicide squad | 61.00% | ~22 |
-| First blood | 39.00% | ~14 |
-| Train hard, fight easy | 36.00% | ~13 |
-| Under cover | 36.00% | ~13 |
-| All for one! | 31.00% | ~11 |
-| Royal blessing | 31.00% | ~11 |
-| A hidden snake | 31.00% | ~11 |
-| Blood and sand | 31.00% | ~11 |
-| Vene, vidi, vici | 25.00% | ~9 |
+| First success | 95.00% | ~35 |
+| Suicide squad | 59.00% | ~22 |
+| First blood | 38.00% | ~14 |
+| Train hard, fight easy | 35.00% | ~13 |
+| Under cover | 35.00% | ~13 |
+| All for one! | 30.00% | ~11 |
+| Royal blessing | 30.00% | ~11 |
+| A hidden snake | 30.00% | ~11 |
+| Blood and sand | 30.00% | ~11 |
+| Vene, vidi, vici | 24.00% | ~9 |
 | Crimson rivers | 22.00% | ~8 |
 | Power of Inquisition | 22.00% | ~8 |
 | Surpass the teacher | 22.00% | ~8 |
@@ -21,7 +21,7 @@
 | She-Wolf | 22.00% | ~8 |
 | Berkanan Borgia | 19.00% | ~7 |
 | Trial by cold | 19.00% | ~7 |
-| The champion of the arena | 17.00% | ~6 |
+| The champion of the arena | 16.00% | ~6 |
 | Stronger than Gellian steel | 14.00% | ~5 |
 | Rage | 14.00% | ~5 |
 | Protect the Healer! | 14.00% | ~5 |
@@ -36,10 +36,10 @@
 | By own strength | 8.00% | ~3 |
 | All's fair in love and war | 8.00% | ~3 |
 | Nothing is settled | 8.00% | ~3 |
-| The power of persuasion | 6.00% | ~2 |
-| Deadly strike | 6.00% | ~2 |
-| A solo player | 6.00% | ~2 |
-| Cunning plan | 6.00% | ~2 |
+| The power of persuasion | 5.00% | ~2 |
+| Deadly strike | 5.00% | ~2 |
+| A solo player | 5.00% | ~2 |
+| Cunning plan | 5.00% | ~2 |
 | Supplier | 3.00% | ~1 |
 | Do it yourself | 3.00% | ~1 |
 | By someone else's hands | 3.00% | ~1 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 538)  
+Progressed: 37 (Ranked 535)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,6 +79,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-11-25 | 34 | 0 |
 | 2023-11-27 | 35 | 0 |
 | 2023-11-28 | 36 | 0 |
+| 2023-12-15 | 37 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

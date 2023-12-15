@@ -24,8 +24,8 @@ Number of Ratings: 292  (23.09.2022)
 | Venisti, Vidisti, Perdidisti | 3.00% | ~14 |
 | The Song of Stoutheart | 2.00% | ~10 |
 | This Spot's Taken | 2.00% | ~10 |
+| Versatile Wielder | 2.00% | ~10 |
 | Pyrrhic Victory | 2.00% | ~10 |
-| Versatile Wielder | 1.00% | ~5 |
 | Deepstrike | 1.00% | ~5 |
 | Infernal Influence | 1.00% | ~5 |
 | Such A Fungi | 1.00% | ~5 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476 (Ranked 324)  
+Progressed: 477 (Ranked 323)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 434 | 0 |
 | 2023-12-13 | 447 | 0 |
 | 2023-12-14 | 474 | 0 |
-| 2023-12-15 | 476 | 0 |
+| 2023-12-15 | 477 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 518)  
 Sum: 194 (Ranked 410)  
