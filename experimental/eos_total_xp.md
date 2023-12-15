@@ -764,7 +764,6 @@
 | [The Riflemen](../games/t/the_riflemen.md) | 14 | 1,000 |
 | [The Shapeshifting Detective](../games/t/the_shapeshifting_detective.md) | 21 | 1,000 |
 | [The Sisters 2 - Road to Fame](../games/4/4bef38b70f4a4b6ea0d9ebbfe3e517dd.md) | 43 | 1,000 |
-| [The Smurfs 2 - The Prisoner of the Green Stone](../games/7/76939a6fe2b54f9299254c99a9aebd35.md) | 37 | 1,000 |
 | [The Spirit and the Mouse](../games/t/the_spirit_and_the_mouse.md) | 40 | 1,000 |
 | [The Suicide of Rachel Foster](../games/t/the_suicide_of_rachel_foster.md) | 11 | 1,000 |
 | [The Surge](../games/t/the_surge.md) | 67 | 1,000 |

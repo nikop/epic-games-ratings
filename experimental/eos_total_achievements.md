@@ -329,7 +329,6 @@
 | [The Bookwalker: Thief of Tales](../games/a/a6ec40c07ed2404687698a3ea8de36ce.md) | 37 | 1,000 |
 | [The Crown of Wu](../games/t/the_crown_of_wu.md) | 37 | 1,000 |
 | [The Dragoness Command Of The Flame](../games/8/8bf17fa0bd774f72bb06bd095830af2a.md) | 37 | 1,000 |
-| [The Smurfs 2 - The Prisoner of the Green Stone](../games/7/76939a6fe2b54f9299254c99a9aebd35.md) | 37 | 1,000 |
 | [Thief](../games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 37 | 1,000 |
 | [Tintin Reporter - Cigars of the Pharaoh](../games/t/tintin_reporter_-_cigars_of_the_pharaoh.md) | 37 | 1,000 |
 | [Warhammer Age of Sigmar: Realms of Ruin](../games/0/0f4a57443f904107818acfc2068704f9.md) | 37 | 1,000 |
