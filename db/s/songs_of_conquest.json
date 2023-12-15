@@ -4,11 +4,11 @@
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 233,
   "Ranking_Popularity": 518,
-  "Ranking_PopularitySum": 411,
+  "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 324,
-  "Ranking_EOS_Completed": 376,
+  "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -2262,9 +2262,9 @@
       "ID": "ReclaimTown",
       "SetID": "71c0n9i",
       "Name": "Don\u0027t Touch My Stuff",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -2318,9 +2318,9 @@
       "ID": "UltraKill",
       "SetID": "71c0n9i",
       "Name": "Ultra Kill",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "WielderLevel1",
@@ -2438,8 +2438,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-15T03:08:54.6412415+00:00",
+  "LastChanged_Achievements": "2023-12-15T04:08:32.5970057+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:59:54.300429+00:00",
-  "LastUpdate_Achievements": "2023-12-15T03:08:54.6412887+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:58:49.0761294+00:00",
+  "LastUpdate_Achievements": "2023-12-15T04:08:32.5970498+00:00"
 }

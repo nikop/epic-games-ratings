@@ -5,32 +5,32 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 11.00% | ~1,856 |
-| Paper Jams | 10.00% | ~1,687 |
-| Flesh Wound | 9.00% | ~1,518 |
+| Get a Grip | 11.00% | ~1,857 |
+| Paper Jams | 10.00% | ~1,688 |
+| Flesh Wound | 9.00% | ~1,519 |
 | Float Like A Butterfly | 8.00% | ~1,350 |
 | The Outer Way | 8.00% | ~1,350 |
 | Chew 'Em Up | 7.00% | ~1,181 |
 | Reforged | 7.00% | ~1,181 |
 | Desperate Times | 7.00% | ~1,181 |
-| Two Heads Are Better Than One | 6.00% | ~1,012 |
-| Workplace Hazard | 6.00% | ~1,012 |
-| If the SHU Fits... | 6.00% | ~1,012 |
-| Without A Paddle | 6.00% | ~1,012 |
-| In the Pipe, Five by Five | 6.00% | ~1,012 |
-| Crash Site | 6.00% | ~1,012 |
-| Full Circle | 6.00% | ~1,012 |
-| Power Up | 6.00% | ~1,012 |
+| Two Heads Are Better Than One | 6.00% | ~1,013 |
+| Workplace Hazard | 6.00% | ~1,013 |
+| If the SHU Fits... | 6.00% | ~1,013 |
+| Without A Paddle | 6.00% | ~1,013 |
+| In the Pipe, Five by Five | 6.00% | ~1,013 |
+| Crash Site | 6.00% | ~1,013 |
+| Full Circle | 6.00% | ~1,013 |
+| Power Up | 6.00% | ~1,013 |
 | Keep Fighting | 6.00% | ~288 |
-| You Need a Gun | 5.00% | ~843 |
-| I Do Belong Here | 5.00% | ~843 |
-| Terminated | 5.00% | ~843 |
-| What Lies Beneath | 5.00% | ~843 |
+| You Need a Gun | 5.00% | ~844 |
+| I Do Belong Here | 5.00% | ~844 |
+| Terminated | 5.00% | ~844 |
+| What Lies Beneath | 5.00% | ~844 |
 | It's Time | 5.00% | ~240 |
 | Giving Back | 4.00% | ~675 |
 | The Commonality | 3.00% | ~506 |
 | One Last Job | 3.00% | ~144 |
-| In Striking Distance | 2.00% | ~337 |
+| In Striking Distance | 2.00% | ~338 |
 | Big Spender | 1.00% | ~48 |
 | This Isn't About Escape | 1.00% | ~48 |
 | Armed to the Teeth | 0.90% | ~43 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~5 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,869 (Ranked 150)  
+Progressed: 16,878 (Ranked 150)  
 Completed: 81 (0.48%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 81 (0.48%) (Ranked 213)
 | 2023-12-11 | 16,525 | 81 |
 | 2023-12-13 | 16,561 | 81 |
 | 2023-12-14 | 16,823 | 81 |
-| 2023-12-15 | 16,869 | 81 |
+| 2023-12-15 | 16,878 | 81 |
 ## Awards
 Max (Quickly Understood Controls): 85  (Ranked 391)  
 Sum: 508 (Ranked 329)  

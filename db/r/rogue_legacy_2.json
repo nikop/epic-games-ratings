@@ -6,9 +6,9 @@
   "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 139,
-  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,11 +1500,11 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 24129,
+  "EOS_Progressed": 24150,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.15,
+  "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:34.4921+00:00",
@@ -10560,6 +10560,11 @@
       "Time": "2023-12-15T03:10:29.1950068+00:00",
       "NumProgressed": 24129,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-15T04:09:37.9343453+00:00",
+      "NumProgressed": 24150,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10651,7 +10656,7 @@
       "Name": "Spells and Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -10667,7 +10672,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -10683,7 +10688,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -10715,7 +10720,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -10827,7 +10832,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "RogueMode",
@@ -10882,21 +10887,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 24129,
+      "Progressed": 24150,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 3059,
+      "Progressed": 3080,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-15T03:10:29.1950064+00:00",
+  "LastChanged_Achievements": "2023-12-15T04:09:37.934345+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:17.8828255+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:59:57.862725+00:00",
-  "LastUpdate_Achievements": "2023-12-15T03:10:29.1950762+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:58:51.0245722+00:00",
+  "LastUpdate_Achievements": "2023-12-15T04:09:37.9344112+00:00"
 }

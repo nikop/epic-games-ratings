@@ -5,10 +5,10 @@
   "Ranking_Rating": 1007,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
-  "Ranking_EOS_Progress": 304,
-  "Ranking_EOS_Completed": 376,
+  "Ranking_EOS_Progress": 303,
+  "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 613,
+  "EOS_Progressed": 614,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2783,6 +2783,11 @@
       "Time": "2023-12-14T22:04:08.0644698+00:00",
       "NumProgressed": 613,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T04:03:24.4887397+00:00",
+      "NumProgressed": 614,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2858,7 +2863,7 @@
       "Name": "Earth Shattering",
       "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -2889,7 +2894,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 613,
+      "Progressed": 614,
       "Completed": 0
     }
   ],
@@ -2897,8 +2902,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-12-15T03:04:07.1217046+00:00",
+  "LastChanged_Achievements": "2023-12-15T04:03:24.4887383+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:05.7146339+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:58:57.2547538+00:00",
-  "LastUpdate_Achievements": "2023-12-15T03:04:07.121729+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:58:11.4553161+00:00",
+  "LastUpdate_Achievements": "2023-12-15T04:03:24.488769+00:00"
 }

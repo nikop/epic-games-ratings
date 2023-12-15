@@ -20,10 +20,10 @@ Number of Ratings: 90  (23.09.2022)
 | Cult Following | 10.00% | ~6 |
 | Lie Back and Think of Albion | 8.00% | ~5 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 8.00% | ~5 |
+| Die Nasty | 8.00% | ~5 |
 | Transmitting From Sol-3 | 7.00% | ~4 |
 | Fly Me to the Moon Base | 7.00% | ~4 |
 | Freshly Squeezed | 7.00% | ~4 |
-| Die Nasty | 7.00% | ~4 |
 | Dusted | 7.00% | ~4 |
 | Scuttled | 5.00% | ~3 |
 | Kaijuiced | 3.00% | ~2 |
@@ -52,7 +52,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 60 (Ranked 502)  
-Completed: 0 (0.00%) (Ranked 376)  
+Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

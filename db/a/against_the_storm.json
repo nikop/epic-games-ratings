@@ -3449,9 +3449,9 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 18171,
+  "EOS_Progressed": 18175,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 513,
+  "EOS_NewPlayers": 516,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15749,6 +15749,11 @@
       "Time": "2023-12-15T02:27:42.3413725+00:00",
       "NumProgressed": 18171,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-15T04:03:45.5032289+00:00",
+      "NumProgressed": 18175,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15849,7 +15854,7 @@
       "Name": "First Real Expedition",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "WinHard",
@@ -15857,7 +15862,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "WinImpossible",
@@ -15959,9 +15964,9 @@
       "ID": "WinNearMines",
       "SetID": "cfbk359",
       "Name": "Flooded Mines",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 109
     },
     {
       "ID": "WinNearMonastery",
@@ -16025,7 +16030,7 @@
       "Name": "Coral Forest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "WinOnCursed",
@@ -16041,7 +16046,7 @@
       "Name": "The Marshlands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "WinOnMoorlands",
@@ -16097,7 +16102,7 @@
       "Name": "Taking Action",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "WinWithResolve",
@@ -16137,7 +16142,7 @@
       "Name": "No Deaths",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "WinWithoutOrders",
@@ -16217,7 +16222,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "WinWithFoxes",
@@ -16232,15 +16237,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18171,
+      "Progressed": 18175,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-15T02:23:57.9945158+00:00",
-  "LastChanged_Achievements": "2023-12-15T03:04:37.2852176+00:00",
+  "LastChanged_Achievements": "2023-12-15T04:03:45.5032284+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:01:29.5113095+00:00",
-  "LastUpdate_Achievements": "2023-12-15T03:04:37.2853171+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:59:51.0617094+00:00",
+  "LastUpdate_Achievements": "2023-12-15T04:03:45.50333+00:00"
 }

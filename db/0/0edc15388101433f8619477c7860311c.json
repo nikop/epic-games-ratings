@@ -3,9 +3,9 @@
   "Name": "The Bridge Curse Road to Salvation",
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 503,
-  "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 444,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_Completed": 377,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -324,17 +324,17 @@
       "ID": "CarryingDoll",
       "SetID": "7m88n8p",
       "Name": "Girl Carrying A Doll",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 37
     },
     {
       "ID": "DatingAttraction",
       "SetID": "7m88n8p",
       "Name": "Dating Attraction",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 26
     },
     {
       "ID": "FirstTry",
@@ -348,7 +348,7 @@
       "ID": "HauntingSpecter",
       "SetID": "7m88n8p",
       "Name": "Haunting Specter",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
       "UsersEstimate": 22
     },
@@ -356,15 +356,15 @@
       "ID": "HeartHurt",
       "SetID": "7m88n8p",
       "Name": "Whose Heart was Never Hurt",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 29
     },
     {
       "ID": "HideAndSeek",
       "SetID": "7m88n8p",
       "Name": "Hide-and-Seek Expert",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 65,
       "UsersEstimate": 22
     },
@@ -412,9 +412,9 @@
       "ID": "MoneyCamouflage",
       "SetID": "7m88n8p",
       "Name": "Money Camouflage",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 26
     },
     {
       "ID": "MortuaryMarkup",
@@ -436,9 +436,9 @@
       "ID": "Professions",
       "SetID": "7m88n8p",
       "Name": "Different People Specialize in Different Professions",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 23
     },
     {
       "ID": "ProtectedPower",
@@ -460,17 +460,17 @@
       "ID": "SeeNoEvil",
       "SetID": "7m88n8p",
       "Name": "See No Evil",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 23
     },
     {
       "ID": "SeeingThrough",
       "SetID": "7m88n8p",
       "Name": "Seeing through Vanity",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 65,
-      "UsersEstimate": 24
+      "UsersEstimate": 23
     },
     {
       "ID": "TimeManagement",
@@ -492,7 +492,7 @@
       "ID": "WhoseChild",
       "SetID": "7m88n8p",
       "Name": "Whose Child?",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 25,
       "UsersEstimate": 28
     }
@@ -507,8 +507,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-12-15T03:04:26.5086596+00:00",
+  "LastChanged_Achievements": "2023-12-15T04:03:37.8264989+00:00",
   "LastUpdate_AppInfo": "2023-12-11T13:04:38.7275932+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:00:16.0099338+00:00",
-  "LastUpdate_Achievements": "2023-12-15T03:04:26.5086796+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:59:02.1808921+00:00",
+  "LastUpdate_Achievements": "2023-12-15T04:03:37.8265145+00:00"
 }

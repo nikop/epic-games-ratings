@@ -130,7 +130,7 @@
 | Champion: Carpenter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 78 (Ranked 477)  
-Completed: 0 (0.00%) (Ranked 376)  
+Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

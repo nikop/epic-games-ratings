@@ -6,44 +6,44 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~728,679 |
-| The Blues | 85.00% | ~625,633 |
-| Fast | 66.00% | ~485,786 |
-| Healthbar | 55.00% | ~404,821 |
-| Force Cube | 53.00% | ~390,101 |
-| Double Jump | 48.00% | ~353,299 |
-| Regeneration | 47.00% | ~345,938 |
-| Triple Jump | 43.00% | ~316,497 |
-| Climb the hill | 42.00% | ~309,136 |
-| Through the fire pipe | 39.00% | ~287,055 |
-| MacGuffin | 38.00% | ~279,695 |
-| Just once | 37.00% | ~272,334 |
-| Armor | 30.00% | ~220,812 |
-| True holy spirit | 28.00% | ~206,091 |
-| That's how electronics work obviously | 27.00% | ~198,731 |
-| Force Cube Catapult | 25.00% | ~184,010 |
-| Holy Sword | 23.00% | ~169,289 |
-| Telefrag | 23.00% | ~169,289 |
-| Freed from prison | 21.00% | ~154,568 |
-| Stomp | 21.00% | ~154,568 |
-| Double Health | 19.00% | ~139,847 |
-| Buckle | 18.00% | ~132,487 |
-| Green Keycard | 18.00% | ~132,487 |
-| Rattle Hag | 16.00% | ~117,766 |
+| Out of bed | 99.00% | ~728,683 |
+| The Blues | 85.00% | ~625,637 |
+| Fast | 66.00% | ~485,788 |
+| Healthbar | 55.00% | ~404,824 |
+| Force Cube | 53.00% | ~390,103 |
+| Double Jump | 48.00% | ~353,301 |
+| Regeneration | 47.00% | ~345,940 |
+| Triple Jump | 43.00% | ~316,498 |
+| Climb the hill | 42.00% | ~309,138 |
+| Through the fire pipe | 39.00% | ~287,057 |
+| MacGuffin | 38.00% | ~279,696 |
+| Just once | 37.00% | ~272,336 |
+| Armor | 30.00% | ~220,813 |
+| True holy spirit | 28.00% | ~206,092 |
+| That's how electronics work obviously | 27.00% | ~198,732 |
+| Force Cube Catapult | 25.00% | ~184,011 |
+| Holy Sword | 23.00% | ~169,290 |
+| Telefrag | 23.00% | ~169,290 |
+| Freed from prison | 21.00% | ~154,569 |
+| Stomp | 21.00% | ~154,569 |
+| Double Health | 19.00% | ~139,848 |
+| Buckle | 18.00% | ~132,488 |
+| Green Keycard | 18.00% | ~132,488 |
+| Rattle Hag | 16.00% | ~117,767 |
 | All Shells | 15.00% | ~110,406 |
-| Beam | 14.00% | ~103,045 |
-| 9 | 14.00% | ~103,045 |
-| Health Drink | 13.00% | ~95,685 |
-| Helped a star | 13.00% | ~95,685 |
-| Purple Cube | 13.00% | ~95,685 |
-| Supraball Noob | 13.00% | ~95,685 |
+| Beam | 14.00% | ~103,046 |
+| 9 | 14.00% | ~103,046 |
+| Health Drink | 13.00% | ~95,686 |
+| Helped a star | 13.00% | ~95,686 |
+| Purple Cube | 13.00% | ~95,686 |
+| Supraball Noob | 13.00% | ~95,686 |
 | Strong | 12.00% | ~88,325 |
-| Blue King's lair | 11.00% | ~80,964 |
-| Payback | 11.00% | ~80,964 |
-| Got the coins back | 11.00% | ~80,964 |
-| Got the gun back | 11.00% | ~80,964 |
-| Infiltrated | 11.00% | ~80,964 |
-| Robbed | 11.00% | ~80,964 |
+| Blue King's lair | 11.00% | ~80,965 |
+| Payback | 11.00% | ~80,965 |
+| Got the coins back | 11.00% | ~80,965 |
+| Got the gun back | 11.00% | ~80,965 |
+| Infiltrated | 11.00% | ~80,965 |
+| Robbed | 11.00% | ~80,965 |
 | Fire Flies | 10.00% | ~73,604 |
 | Cave Flies | 10.00% | ~73,604 |
 | Gold Scam | 10.00% | ~73,604 |
@@ -56,7 +56,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Through the tiny pipe | 9.00% | ~66,244 |
 | Win! | 9.00% | ~66,244 |
 | The real real teleported man | 8.00% | ~58,883 |
-| Well deserved | 6.00% | ~44,162 |
+| Well deserved | 6.00% | ~44,163 |
 | Super Sword | 4.00% | ~29,442 |
 | Happiness | 3.00% | ~22,081 |
 | All Chests | 2.00% | ~14,721 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~736 |
 | DLC: Top of the world | 0.10% | ~736 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736,039 (Ranked 22)  
+Progressed: 736,043 (Ranked 22)  
 Completed: 770 (0.10%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 770 (0.10%) (Ranked 296)
 | 2023-12-12 | 735,839 | 769 |
 | 2023-12-13 | 735,921 | 769 |
 | 2023-12-14 | 736,027 | 770 |
-| 2023-12-15 | 736,039 | 770 |
+| 2023-12-15 | 736,043 | 770 |
 ## Awards
 Max (Challenging Puzzles): 7,746  (Ranked 50)  
 Sum: 10,107 (Ranked 92)  

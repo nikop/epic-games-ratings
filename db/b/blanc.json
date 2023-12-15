@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3505,
+  "EOS_Progressed": 3506,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5431,6 +5431,11 @@
       "Time": "2023-12-15T02:29:49.8812141+00:00",
       "NumProgressed": 3505,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-15T04:05:52.5114613+00:00",
+      "NumProgressed": 3506,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5450,7 +5455,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "FALLEN_TREE",
@@ -5528,9 +5533,9 @@
       "ID": "TRANSMISSION",
       "SetID": "1a29mp6",
       "Name": "Transmission",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 315
+      "UsersEstimate": 280
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -5545,7 +5550,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3505,
+      "Progressed": 3506,
       "Completed": 6
     }
   ],
@@ -5553,8 +5558,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-15T03:07:41.8323915+00:00",
+  "LastChanged_Achievements": "2023-12-15T04:05:52.5114609+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:18.0649883+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:01:50.5857234+00:00",
-  "LastUpdate_Achievements": "2023-12-15T03:07:41.8324231+00:00"
+  "LastUpdate_Ratings": "2023-12-15T04:00:04.2786491+00:00",
+  "LastUpdate_Achievements": "2023-12-15T04:05:52.5114998+00:00"
 }

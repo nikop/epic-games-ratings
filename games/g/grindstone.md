@@ -6,14 +6,14 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,084 |
-| The Journey Begins | 98.00% | ~5,084 |
+| Quinceañera Time | 98.00% | ~5,085 |
+| The Journey Begins | 98.00% | ~5,085 |
 | Slaughterhouse 5 (200 times) | 78.00% | ~4,047 |
-| There is No Escape | 71.00% | ~3,683 |
-| Fun, Flirty, and Thirty | 63.00% | ~3,268 |
+| There is No Escape | 71.00% | ~3,684 |
+| Fun, Flirty, and Thirty | 63.00% | ~3,269 |
 | Royal Flush | 62.00% | ~3,217 |
-| Timber! | 61.00% | ~3,165 |
-| Survive the Bombsequences | 59.00% | ~3,061 |
+| Timber! | 60.00% | ~3,113 |
+| Survive the Bombsequences | 59.00% | ~3,062 |
 | Killed 20 Jerks | 54.00% | ~2,802 |
 | Death Defied | 54.00% | ~2,802 |
 | Fortunate Soul | 50.00% | ~2,594 |
@@ -26,7 +26,7 @@ Number of Ratings: 63  (23.09.2022)
 | Top of the Food Chain | 32.00% | ~1,660 |
 | Humerus Achievement | 32.00% | ~1,660 |
 | Ghost Facers! | 28.00% | ~1,453 |
-| If It Bleeds, You Can Kill It | 21.00% | ~1,089 |
+| If It Bleeds, You Can Kill It | 21.00% | ~1,090 |
 | Royal Flush, Again | 19.00% | ~986 |
 | Trying To Get Into That 1%, Huh? | 18.00% | ~934 |
 | Can't Touch This | 18.00% | ~934 |
@@ -38,7 +38,7 @@ Number of Ratings: 63  (23.09.2022)
 | Collected 50 mushrooms | 14.00% | ~726 |
 | Budding Gardener | 14.00% | ~726 |
 | Stop Hitting Each Other | 14.00% | ~726 |
-| Ultimate Jerk | 13.00% | ~674 |
+| Ultimate Jerk | 13.00% | ~675 |
 | Hot Potato | 11.00% | ~571 |
 | Off the Beaten Path | 10.00% | ~519 |
 | It's Been a Blast | 9.00% | ~467 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.70% | ~36 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,188 (Ranked 194)  
+Progressed: 5,189 (Ranked 194)  
 Completed: 30 (0.58%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 30 (0.58%) (Ranked 198)
 | 2023-12-04 | 5,184 | 30 |
 | 2023-12-10 | 5,185 | 30 |
 | 2023-12-14 | 5,186 | 30 |
-| 2023-12-15 | 5,188 | 30 |
+| 2023-12-15 | 5,189 | 30 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

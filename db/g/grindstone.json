@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 386,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5188,
+  "EOS_Progressed": 5189,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -933,6 +933,11 @@
       "Time": "2023-12-15T01:54:42.5510843+00:00",
       "NumProgressed": 5188,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-15T04:04:59.3111437+00:00",
+      "NumProgressed": 5189,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -1046,9 +1051,9 @@
       "ID": "ACHIEVE_50_WOOD",
       "SetID": "b8l3p0g",
       "Name": "Timber!",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3113
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1072,7 +1077,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5084
+      "UsersEstimate": 5085
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1080,7 +1085,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3268
+      "UsersEstimate": 3269
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1160,7 +1165,7 @@
       "Name": "If It Bleeds, You Can Kill It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_20",
@@ -1176,7 +1181,7 @@
       "Name": "Ultimate Jerk",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_5",
@@ -1216,7 +1221,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3061
+      "UsersEstimate": 3062
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1232,7 +1237,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5084
+      "UsersEstimate": 5085
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1328,22 +1333,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3683
+      "UsersEstimate": 3684
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5188,
+      "Progressed": 5189,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-12-15T03:06:24.4075122+00:00",
+  "LastChanged_Achievements": "2023-12-15T04:04:59.3111432+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:17.5210328+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:00:08.029346+00:00",
-  "LastUpdate_Achievements": "2023-12-15T03:06:24.4075427+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:58:57.2549312+00:00",
+  "LastUpdate_Achievements": "2023-12-15T04:04:59.3111802+00:00"
 }

@@ -7,10 +7,10 @@ Rating: 4.58 (Ranked 453)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 29.00% | ~1,006 |
 | Sputnik 2049 | 26.00% | ~902 |
-| Infinite Growth... | 25.00% | ~867 |
+| Infinite Growth... | 25.00% | ~868 |
 | Without Breaking Some Eggs... | 24.00% | ~833 |
-| A Thousand Strong | 18.00% | ~624 |
-| Ready for a New World | 18.00% | ~624 |
+| A Thousand Strong | 18.00% | ~625 |
+| Ready for a New World | 18.00% | ~625 |
 | Space Society | 17.00% | ~590 |
 | Permanent Redesigns | 16.00% | ~555 |
 | Fully Recycled | 14.00% | ~486 |
@@ -30,12 +30,12 @@ Rating: 4.58 (Ranked 453)
 | From the Past | 7.00% | ~243 |
 | Access Granted | 6.00% | ~208 |
 | All in Good Health | 6.00% | ~208 |
-| Oats | 5.00% | ~173 |
-| What They Hide From Us | 5.00% | ~173 |
-| ...  in a finite world | 5.00% | ~173 |
-| BRAWL! | 5.00% | ~173 |
-| Drill-dozer | 5.00% | ~173 |
-| What the Ruins Teach Us | 5.00% | ~173 |
+| Oats | 5.00% | ~174 |
+| What They Hide From Us | 5.00% | ~174 |
+| ...  in a finite world | 5.00% | ~174 |
+| BRAWL! | 5.00% | ~174 |
+| Drill-dozer | 5.00% | ~174 |
+| What the Ruins Teach Us | 5.00% | ~174 |
 | Sustainable Energy | 4.00% | ~139 |
 | In Dolos We Trust | 4.00% | ~139 |
 | Pedal to the Metal | 4.00% | ~139 |
@@ -63,8 +63,8 @@ Rating: 4.58 (Ranked 453)
 | This is Fine | 0.10% | ~3 |
 | Suburban Perfection | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,469 (Ranked 210)  
-Completed: 0 (0.00%) (Ranked 376)  
+Progressed: 3,470 (Ranked 210)  
+Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -292,7 +292,7 @@ Completed: 0 (0.00%) (Ranked 376)
 | 2023-12-11 | 3,423 | 0 |
 | 2023-12-13 | 3,429 | 0 |
 | 2023-12-14 | 3,460 | 0 |
-| 2023-12-15 | 3,469 | 0 |
+| 2023-12-15 | 3,470 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 261,
-  "Ranking_EOS_Completed": 112,
+  "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -149,11 +149,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1153,
+  "EOS_Progressed": 1154,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.78,
+  "EOS_Completed_Percentage": 2.77,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3859,6 +3859,11 @@
       "Time": "2023-12-15T03:06:34.6238649+00:00",
       "NumProgressed": 1153,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-15T04:05:06.3467328+00:00",
+      "NumProgressed": 1154,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3871,15 +3876,15 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 773
+      "UsersEstimate": 762
     },
     {
       "ID": "_03_FinishAct1",
@@ -3895,7 +3900,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "_05_FinishAct2",
@@ -3935,7 +3940,7 @@
       "Name": "Powder Monkey",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "_10_Completion_30",
@@ -4015,7 +4020,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -4078,7 +4083,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1153,
+      "Progressed": 1154,
       "Completed": 32
     }
   ],
@@ -4086,8 +4091,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-15T03:06:34.6238644+00:00",
+  "LastChanged_Achievements": "2023-12-15T04:05:06.3467323+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:59:44.8184109+00:00",
-  "LastUpdate_Achievements": "2023-12-15T03:06:34.6238902+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:58:42.4941741+00:00",
+  "LastUpdate_Achievements": "2023-12-15T04:05:06.3467673+00:00"
 }

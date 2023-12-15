@@ -3,9 +3,9 @@
   "Name": "Hero Survival",
   "ProductSlug": "hero-survival-4de339",
   "Ranking_EOS_Progress": 797,
-  "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 502,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_Completed": 377,
+  "Ranking_EOS_NewPlayers": 501,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-18T17:00:00+00:00",
     "PcReleaseDate": "2023-10-18T17:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenAchievements": "2023-10-17T16:05:18.5369852+00:00",
   "LastChanged_Achievements": "2023-12-15T03:08:35.5559637+00:00",
   "LastUpdate_AppInfo": "2023-12-09T04:57:13.701323+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:58:58.3582833+00:00",
+  "LastUpdate_Ratings": "2023-12-15T03:58:11.9620387+00:00",
   "LastUpdate_Achievements": "2023-12-15T03:08:35.5559657+00:00"
 }

@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 92.00% | ~28,471 |
-| Enemy Attrition | 70.00% | ~21,663 |
-| Grim Reaper | 69.00% | ~21,353 |
-| Heads Down | 67.00% | ~20,734 |
-| Not On My Watch | 64.00% | ~19,806 |
-| Combat Engineer | 47.00% | ~14,545 |
-| Eager Beaver | 40.00% | ~12,379 |
-| Call ’em in! | 37.00% | ~11,450 |
-| Lovely | 34.00% | ~10,522 |
-| Elite | 22.00% | ~6,808 |
-| Store fuglar fanga ingi flugor | 22.00% | ~6,808 |
-| Ou La Mort | 19.00% | ~5,880 |
-| Fender Bender | 14.00% | ~4,333 |
-| Globetrotter | 11.00% | ~3,404 |
-| Jack of All Trades | 10.00% | ~3,095 |
-| Storyteller | 6.00% | ~1,857 |
-| Death from Above | 4.00% | ~1,238 |
-| Off-hand | 4.00% | ~1,238 |
-| Veteran | 1.00% | ~309 |
-| Hoist the Flag | 0.40% | ~124 |
-| Sins of the Fathers | 0.30% | ~93 |
+| Last Man Standing | 92.00% | ~28,733 |
+| Enemy Attrition | 70.00% | ~21,862 |
+| Grim Reaper | 68.00% | ~21,238 |
+| Heads Down | 67.00% | ~20,925 |
+| Not On My Watch | 64.00% | ~19,988 |
+| Combat Engineer | 47.00% | ~14,679 |
+| Eager Beaver | 40.00% | ~12,493 |
+| Call ’em in! | 37.00% | ~11,556 |
+| Lovely | 34.00% | ~10,619 |
+| Elite | 22.00% | ~6,871 |
+| Store fuglar fanga ingi flugor | 22.00% | ~6,871 |
+| Ou La Mort | 19.00% | ~5,934 |
+| Fender Bender | 14.00% | ~4,372 |
+| Globetrotter | 11.00% | ~3,436 |
+| Jack of All Trades | 10.00% | ~3,123 |
+| Storyteller | 6.00% | ~1,874 |
+| Off-hand | 4.00% | ~1,249 |
+| Death from Above | 3.00% | ~937 |
+| Veteran | 1.00% | ~312 |
+| Hoist the Flag | 0.40% | ~125 |
+| Sins of the Fathers | 0.30% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,947 (Ranked 126)  
-Completed: 0 (0.00%) (Ranked 376)  
+Progressed: 31,232 (Ranked 126)  
+Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,4 +116,4 @@ Completed: 0 (0.00%) (Ranked 376)
 | 2023-12-12 | 24,993 | 0 |
 | 2023-12-13 | 25,198 | 0 |
 | 2023-12-14 | 30,644 | 0 |
-| 2023-12-15 | 30,947 | 0 |
+| 2023-12-15 | 31,232 | 0 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -1261,9 +1261,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 3154,
+  "EOS_Progressed": 3155,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6131,6 +6131,11 @@
       "Time": "2023-12-15T01:53:09.6391194+00:00",
       "NumProgressed": 3154,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T04:03:55.1315779+00:00",
+      "NumProgressed": 3155,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -6286,7 +6291,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -6358,7 +6363,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -6462,7 +6467,7 @@
       "Name": "The hard way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -6494,7 +6499,7 @@
       "Name": "Upfront shredder",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -6518,22 +6523,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1924
+      "UsersEstimate": 1925
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3154,
+      "Progressed": 3155,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-14T04:59:46.4781556+00:00",
-  "LastChanged_Achievements": "2023-12-15T03:04:51.2983167+00:00",
+  "LastChanged_Achievements": "2023-12-15T04:03:55.1315777+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:24.2282938+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:00:33.9857346+00:00",
-  "LastUpdate_Achievements": "2023-12-15T03:04:51.2983672+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:59:13.7782841+00:00",
+  "LastUpdate_Achievements": "2023-12-15T04:03:55.1316386+00:00"
 }

@@ -7505,10 +7505,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27726,
       "NumberOfAwardsMax": 4892
+    },
+    {
+      "Time": "2023-12-15T04:03:11.1341689+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27727,
+      "NumberOfAwardsMax": 4892
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27726,
+  "NumberOfAwards": 27727,
   "NumberOfAwardsMax": 4892,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7546,7 +7552,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4059
+      "Count": 4060
     },
     {
       "Text": "This game has Playful Visuals",
@@ -7561,9 +7567,9 @@
       "Count": 3795
     }
   ],
-  "EOS_Progressed": 145514,
+  "EOS_Progressed": 145518,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 1312,
+  "EOS_NewPlayers": 1311,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -32466,6 +32472,11 @@
       "Time": "2023-12-15T03:05:32.3649141+00:00",
       "NumProgressed": 145514,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2023-12-15T04:04:23.5048056+00:00",
+      "NumProgressed": 145518,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 112,
@@ -32477,7 +32488,7 @@
       "Name": "The Daily Grind",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "advlevel02",
@@ -32613,7 +32624,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "boss02",
@@ -32717,7 +32728,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "commonres03",
@@ -32749,7 +32760,7 @@
       "Name": "Flooding the Market",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "craft03",
@@ -32781,7 +32792,7 @@
       "Name": "Where it Hurts",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "damage02",
@@ -32941,7 +32952,7 @@
       "Name": "Gem Expert",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "gold01",
@@ -32965,7 +32976,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "gold04",
@@ -33069,7 +33080,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "level03",
@@ -33101,7 +33112,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "loot02",
@@ -33133,7 +33144,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "master02",
@@ -33189,7 +33200,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "quest02",
@@ -33349,7 +33360,7 @@
       "Name": "Arcane Industries",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "workers03",
@@ -33372,15 +33383,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 145514,
+      "Progressed": 145518,
       "Completed": 309
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-14T23:03:47.4342279+00:00",
-  "LastChanged_Achievements": "2023-12-15T03:05:32.3649137+00:00",
+  "LastChanged": "2023-12-15T04:03:11.1341687+00:00",
+  "LastChanged_Achievements": "2023-12-15T04:04:23.5048053+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2420411+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:03:47.2786916+00:00",
-  "LastUpdate_Achievements": "2023-12-15T03:05:32.3651567+00:00"
+  "LastUpdate_Ratings": "2023-12-15T04:03:11.1341693+00:00",
+  "LastUpdate_Achievements": "2023-12-15T04:04:23.505003+00:00"
 }

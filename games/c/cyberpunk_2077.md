@@ -6,10 +6,10 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,134 |
-| Gun Fu | 7.00% | ~68,328 |
-| Right Back At Ya | 6.00% | ~58,567 |
-| The Fool | 6.00% | ~58,567 |
+| V for Vendetta | 12.00% | ~117,135 |
+| Gun Fu | 7.00% | ~68,329 |
+| Right Back At Ya | 6.00% | ~58,568 |
+| The Fool | 6.00% | ~58,568 |
 | The Lovers | 5.00% | ~48,806 |
 | Full Body Conversion | 4.00% | ~39,045 |
 | Stanislavski's Method | 4.00% | ~39,045 |
@@ -17,24 +17,24 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 4.00% | ~39,045 |
 | All the President's Men | 4.00% | ~4,190 |
 | Arachnophobia | 4.00% | ~4,190 |
-| Christmas Tree Attack | 3.00% | ~29,283 |
-| The Hermit | 3.00% | ~29,283 |
-| The High Priestess | 3.00% | ~29,283 |
-| True Warrior | 3.00% | ~29,283 |
-| Legend of The Afterlife | 3.00% | ~29,283 |
-| Relic Ruler | 3.00% | ~3,142 |
-| Bushido and Chill | 2.00% | ~19,522 |
-| Master Crafter | 2.00% | ~19,522 |
-| I Am The Law | 2.00% | ~19,522 |
-| The Quick and the Dead | 2.00% | ~19,522 |
-| Life of the Road | 2.00% | ~19,522 |
-| The World | 2.00% | ~19,522 |
-| Two Heads, One Bullet | 2.00% | ~19,522 |
-| Judy vs Night City | 2.00% | ~19,522 |
+| Christmas Tree Attack | 3.00% | ~29,284 |
+| The Hermit | 3.00% | ~29,284 |
+| The High Priestess | 3.00% | ~29,284 |
+| True Warrior | 3.00% | ~29,284 |
+| Legend of The Afterlife | 3.00% | ~29,284 |
+| Relic Ruler | 3.00% | ~3,143 |
+| Bushido and Chill | 2.00% | ~19,523 |
+| Master Crafter | 2.00% | ~19,523 |
+| I Am The Law | 2.00% | ~19,523 |
+| The Quick and the Dead | 2.00% | ~19,523 |
+| Life of the Road | 2.00% | ~19,523 |
+| The World | 2.00% | ~19,523 |
+| Two Heads, One Bullet | 2.00% | ~19,523 |
+| Judy vs Night City | 2.00% | ~19,523 |
 | To Protect and Serve | 1.00% | ~9,761 |
 | The Wandering Fool | 1.00% | ~9,761 |
-| Spin Doctor | 1.00% | ~1,047 |
-| Easy Come, Easy Go | 1.00% | ~1,047 |
+| Spin Doctor | 1.00% | ~1,048 |
+| Easy Come, Easy Go | 1.00% | ~1,048 |
 | King of Wands | 0.90% | ~943 |
 | Dirty Deeds | 0.90% | ~943 |
 | Ten out of Ten | 0.80% | ~7,809 |
@@ -48,7 +48,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judgement Day | 0.50% | ~524 |
 | King of Swords | 0.50% | ~524 |
 | The Tower | 0.50% | ~524 |
-| Temperance | 0.40% | ~3,904 |
+| Temperance | 0.40% | ~3,905 |
 | King of Pentacles | 0.40% | ~419 |
 | King of Cups | 0.30% | ~314 |
 | City Lights | 0.20% | ~1,952 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 976,116 (Ranked 15)  
+Progressed: 976,129 (Ranked 15)  
 Completed: 2,907 (0.30%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 2,907 (0.30%) (Ranked 243)
 | 2023-12-12 | 975,121 | 2,891 |
 | 2023-12-13 | 975,519 | 2,900 |
 | 2023-12-14 | 976,057 | 2,907 |
-| 2023-12-15 | 976,116 | 2,907 |
+| 2023-12-15 | 976,129 | 2,907 |
 ## Awards
 Max (Character Customization): 122,911  (Ranked 8)  
 Sum: 418,994 (Ranked 9)  

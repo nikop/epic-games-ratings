@@ -11,9 +11,9 @@
 | Your first job | 83.00% | ~316 |
 | Fitness professional | 78.00% | ~297 |
 | Old movies enjoyer | 78.00% | ~297 |
-| Depressed visitor | 77.00% | ~293 |
+| Depressed visitor | 78.00% | ~297 |
+| Employee of the week | 78.00% | ~297 |
 | Neurotrainer – power gainer! | 77.00% | ~293 |
-| Employee of the week | 77.00% | ~293 |
 | Your own amateur gym | 73.00% | ~278 |
 | First defeat | 72.00% | ~274 |
 | Run K, run! | 72.00% | ~274 |
@@ -25,7 +25,7 @@
 | Employee of the month | 64.00% | ~244 |
 | Law student | 60.00% | ~229 |
 | Workout professional | 59.00% | ~225 |
-| Handyman | 58.00% | ~221 |
+| Handyman | 59.00% | ~225 |
 | Champion – starter pack | 58.00% | ~221 |
 | It's good to be alive | 58.00% | ~221 |
 | Employee of the year | 58.00% | ~221 |

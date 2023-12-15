@@ -3,9 +3,9 @@
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 428,
-  "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_Completed": 377,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 122,
+  "EOS_Progressed": 123,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -584,6 +584,11 @@
       "Time": "2023-12-15T02:30:00.3854895+00:00",
       "NumProgressed": 122,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T04:06:03.1112376+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -818,7 +823,7 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
       "UsersEstimate": 63
     },
@@ -860,7 +865,7 @@
       "Name": "Favored by the Cosmos",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Gottatinkeremall",
@@ -876,7 +881,7 @@
       "Name": "Heart Gate",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "HeavyPurger",
@@ -938,7 +943,7 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 5,
       "UsersEstimate": 68
     },
@@ -1020,7 +1025,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ReflexiveMind",
@@ -1092,13 +1097,13 @@
       "Name": "Star Killer",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "StellarDismantler",
       "SetID": "1jeo1g7",
       "Name": "Stellar Dismantler",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 41
     },
@@ -1108,7 +1113,7 @@
       "Name": "Stellar Haste",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "TheAbyssalTerror",
@@ -1140,7 +1145,7 @@
       "Name": "The Corruption Goddess",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "TheDarkMoon",
@@ -1164,7 +1169,7 @@
       "Name": "The Goddes Avatar",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "TheRagingSkies",
@@ -1194,9 +1199,9 @@
       "ID": "Unbeatable",
       "SetID": "1jeo1g7",
       "Name": "Unbeatable",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "UnepicHero",
@@ -1332,7 +1337,7 @@
       "Name": "Lacertian Champion",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "LacertianHero",
@@ -1356,7 +1361,7 @@
       "Name": "Noctuan Champion",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "NoctuanHero",
@@ -1379,14 +1384,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 122,
+      "Progressed": 123,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-15T03:07:57.1587+00:00",
+  "LastChanged_Achievements": "2023-12-15T04:06:03.1112372+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.3287789+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:59:19.5642571+00:00",
-  "LastUpdate_Achievements": "2023-12-15T03:07:57.1587845+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:58:25.9165619+00:00",
+  "LastUpdate_Achievements": "2023-12-15T04:06:03.1113191+00:00"
 }

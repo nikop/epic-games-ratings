@@ -5,18 +5,18 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 2.00% | ~4,850 |
-| First of Many | 2.00% | ~4,850 |
-| Not Your Average Trait | 1.00% | ~2,425 |
-| Expanding Horizons | 0.80% | ~1,940 |
-| Regicide | 0.80% | ~173 |
-| Master of the Dark Arts | 0.80% | ~173 |
+| The Killing Jar | 2.00% | ~4,852 |
+| First of Many | 2.00% | ~4,852 |
+| Not Your Average Trait | 1.00% | ~2,426 |
+| Expanding Horizons | 0.80% | ~1,941 |
+| Regicide | 0.80% | ~174 |
+| Master of the Dark Arts | 0.80% | ~174 |
 | Quest for Survival | 0.70% | ~1,698 |
 | Familiar Face | 0.70% | ~1,698 |
-| Gleaming the Cube | 0.60% | ~1,455 |
-| Not a Janitor | 0.60% | ~1,455 |
-| Boss'n Up | 0.60% | ~1,455 |
-| Trait Chaser | 0.60% | ~1,455 |
+| Gleaming the Cube | 0.60% | ~1,456 |
+| Not a Janitor | 0.60% | ~1,456 |
+| Boss'n Up | 0.60% | ~1,456 |
+| Trait Chaser | 0.60% | ~1,456 |
 | Am I Seeing This? | 0.50% | ~1,213 |
 | Not So Special Now | 0.50% | ~1,213 |
 | Equal Measures | 0.50% | ~1,213 |
@@ -57,11 +57,11 @@ Rating: 4.75 (Ranked 150)
 | The Collector | 0.20% | ~485 |
 | Proving Grounds | 0.20% | ~485 |
 | Maxed Out! | 0.20% | ~485 |
-| Succession | 0.20% | ~43 |
-| You Shall Pass | 0.20% | ~43 |
+| Succession | 0.20% | ~44 |
+| You Shall Pass | 0.20% | ~44 |
 | A Foul Feast | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,508 (Ranked 64)  
+Progressed: 242,620 (Ranked 64)  
 Completed: 586 (0.24%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 586 (0.24%) (Ranked 254)
 | 2023-12-12 | 239,053 | 581 |
 | 2023-12-13 | 239,544 | 584 |
 | 2023-12-14 | 242,166 | 585 |
-| 2023-12-15 | 242,508 | 586 |
+| 2023-12-15 | 242,620 | 586 |
 ## Awards
 Max (Great Boss Battles): 2,757  (Ranked 101)  
 Sum: 6,922 (Ranked 126)  

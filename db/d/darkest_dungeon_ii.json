@@ -6,9 +6,9 @@
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
-  "Ranking_EOS_Completed": 376,
+  "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9640,10 +9640,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20433,
       "NumberOfAwardsMax": 7689
+    },
+    {
+      "Time": "2023-12-15T03:59:55.3659362+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20441,
+      "NumberOfAwardsMax": 7689
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20433,
+  "NumberOfAwards": 20441,
   "NumberOfAwardsMax": 7689,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9705,7 +9711,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1343
+      "Count": 1351
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9720,9 +9726,9 @@
       "Count": 1004
     }
   ],
-  "EOS_Progressed": 127145,
+  "EOS_Progressed": 127157,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1342,
+  "EOS_NewPlayers": 1351,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35085,6 +35091,11 @@
       "Time": "2023-12-15T03:09:44.1276252+00:00",
       "NumProgressed": 127145,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T04:09:06.6462309+00:00",
+      "NumProgressed": 127157,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35096,7 +35107,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -35104,7 +35115,7 @@
       "Name": "Serenity Now!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -35112,7 +35123,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -35392,7 +35403,7 @@
       "Name": "Rush Hour",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -35416,7 +35427,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "driving_distance_easy",
@@ -35504,7 +35515,7 @@
       "Name": "FNG",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "inn_visit_all_variants",
@@ -35632,7 +35643,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "combat_kill_collector",
@@ -35640,7 +35651,7 @@
       "Name": "This guy... again?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35688,7 +35699,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "quest_complete_crusader",
@@ -35696,7 +35707,7 @@
       "Name": "Lost and Found",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35727,21 +35738,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127145,
+      "Progressed": 127157,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2014,
+      "Progressed": 2026,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-15T02:24:01.8564129+00:00",
-  "LastChanged_Achievements": "2023-12-15T03:09:44.1276248+00:00",
+  "LastChanged": "2023-12-15T03:59:55.365936+00:00",
+  "LastChanged_Achievements": "2023-12-15T04:09:06.6462306+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:01:36.2845751+00:00",
-  "LastUpdate_Achievements": "2023-12-15T03:09:44.1278253+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:59:55.3659366+00:00",
+  "LastUpdate_Achievements": "2023-12-15T04:09:06.6463871+00:00"
 }

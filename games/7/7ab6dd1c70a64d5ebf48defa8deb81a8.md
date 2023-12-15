@@ -4,45 +4,45 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 27.00% | ~107 |
-| Trinity | 12.00% | ~48 |
+| Break Out | 27.00% | ~109 |
+| Trinity | 11.00% | ~44 |
 | Find Allies | 9.00% | ~36 |
 | A Taste of Wrath | 9.00% | ~36 |
 | Shatter Them All | 9.00% | ~36 |
-| Geared Up | 9.00% | ~36 |
 | Fashion Victim | 9.00% | ~36 |
 | I Found It | 9.00% | ~36 |
 | Powerful Allies | 8.00% | ~32 |
 | Adventurer | 8.00% | ~32 |
 | Tributes of Caladrias | 8.00% | ~32 |
-| Scholar | 8.00% | ~32 |
+| Geared Up | 8.00% | ~32 |
 | The Collector | 8.00% | ~32 |
-| Big Bazar | 7.00% | ~28 |
+| Scholar | 7.00% | ~28 |
 | Stone Collection | 7.00% | ~28 |
-| The Mentor | 6.00% | ~24 |
-| Essence Blow | 6.00% | ~24 |
-| Calm before the Storm | 5.00% | ~20 |
-| Alchemist | 5.00% | ~20 |
+| Big Bazar | 6.00% | ~24 |
+| The Mentor | 5.00% | ~20 |
+| Essence Blow | 5.00% | ~20 |
+| Calm before the Storm | 4.00% | ~16 |
 | To Battle | 4.00% | ~16 |
 | Godslayer | 4.00% | ~16 |
-| Fine Feathers Make Fine Birds | 4.00% | ~16 |
+| Alchemist | 4.00% | ~16 |
 | Clear Sight | 3.00% | ~12 |
 | Airborne | 3.00% | ~12 |
-| Shatterer | 3.00% | ~12 |
-| Miner | 3.00% | ~12 |
+| Fine Feathers Make Fine Birds | 3.00% | ~12 |
+| Shatterer | 2.00% | ~8 |
 | Slayer | 2.00% | ~8 |
 | All There Is | 2.00% | ~8 |
 | False God | 2.00% | ~8 |
+| Miner | 2.00% | ~8 |
 | A Queen's Tale | 2.00% | ~8 |
-| Summiter | 2.00% | ~8 |
 | Forgemaster | 1.00% | ~4 |
 | Flawless Victory | 1.00% | ~4 |
 | All That Gold | 1.00% | ~4 |
-| Shardbearer | 0.80% | ~3 |
-| Feeling Fancy | 0.30% | ~1 |
+| Summiter | 1.00% | ~4 |
+| Shardbearer | 0.70% | ~3 |
+| Feeling Fancy | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 397 (Ranked 337)  
-Completed: 3 (0.76%) (Ranked 187)  
+Progressed: 404 (Ranked 337)  
+Completed: 3 (0.74%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,4 +105,4 @@ Completed: 3 (0.76%) (Ranked 187)
 | 2023-12-12 | 265 | 2 |
 | 2023-12-13 | 282 | 3 |
 | 2023-12-14 | 376 | 3 |
-| 2023-12-15 | 397 | 3 |
+| 2023-12-15 | 404 | 3 |

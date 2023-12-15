@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 37.00% | ~393 |
+| That's the spirit | 38.00% | ~404 |
 | Welcome to the Tower | 35.00% | ~372 |
 | The great escape | 30.00% | ~319 |
 | The Preacher's fate | 28.00% | ~298 |
@@ -18,11 +18,11 @@
 | Peace walker | 19.00% | ~202 |
 | Cable guy | 19.00% | ~202 |
 | Half the way | 19.00% | ~202 |
-| In this together | 18.00% | ~191 |
-| Champollion | 18.00% | ~191 |
+| In this together | 18.00% | ~192 |
+| Champollion | 18.00% | ~192 |
 | Feels like springtime | 16.00% | ~170 |
-| Open door | 15.00% | ~159 |
-| Alchemists Express | 15.00% | ~159 |
+| Open door | 15.00% | ~160 |
+| Alchemists Express | 15.00% | ~160 |
 | Rascal | 14.00% | ~149 |
 | Free at last | 13.00% | ~138 |
 | A Link to the Past | 12.00% | ~128 |
@@ -30,8 +30,8 @@
 | For its own good | 10.00% | ~106 |
 | Fashion victim | 5.00% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,063 (Ranked 269)  
-Completed: 56 (5.27%) (Ranked 73)  
+Progressed: 1,064 (Ranked 269)  
+Completed: 56 (5.26%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -176,4 +176,4 @@ Completed: 56 (5.27%) (Ranked 73)
 | 2023-12-12 | 962 | 55 |
 | 2023-12-13 | 981 | 56 |
 | 2023-12-14 | 1,054 | 56 |
-| 2023-12-15 | 1,063 | 56 |
+| 2023-12-15 | 1,064 | 56 |

@@ -3,9 +3,9 @@
   "Name": "Lichenvale",
   "ProductSlug": "lichenvale-091943",
   "Ranking_EOS_Progress": 680,
-  "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 502,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_Completed": 377,
+  "Ranking_EOS_NewPlayers": 501,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-30T00:00:00+00:00",
     "PcReleaseDate": "2023-04-30T00:00:00+00:00",
@@ -145,8 +145,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-19T10:02:19.9249451+00:00",
-  "LastChanged_Achievements": "2023-12-15T03:05:51.8608958+00:00",
+  "LastChanged_Achievements": "2023-12-15T04:04:37.151844+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:24.0467602+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:59:34.3211779+00:00",
-  "LastUpdate_Achievements": "2023-12-15T03:05:51.8609034+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:58:34.9269917+00:00",
+  "LastUpdate_Achievements": "2023-12-15T04:04:37.1518516+00:00"
 }

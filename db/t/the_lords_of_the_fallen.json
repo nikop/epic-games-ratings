@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -927,9 +927,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3159,
+  "EOS_Progressed": 3176,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 874,
+  "EOS_NewPlayers": 891,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4777,6 +4777,11 @@
       "Time": "2023-12-15T03:09:15.7647946+00:00",
       "NumProgressed": 3159,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T04:08:46.9512379+00:00",
+      "NumProgressed": 3176,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -4805,7 +4810,7 @@
       "Name": "Lost and Found",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_004",
@@ -4965,7 +4970,7 @@
       "Name": "No Mercy",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_024",
@@ -4997,7 +5002,7 @@
       "Name": "Shades of Violence",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_028",
@@ -5237,7 +5242,7 @@
       "Name": "Thriving in Darkness",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_058",
@@ -5261,7 +5266,7 @@
       "Name": "The Past Shapes the Present",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_061",
@@ -5292,7 +5297,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 3159,
+      "Progressed": 3176,
       "Completed": 2
     }
   ],
@@ -5300,8 +5305,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-15T01:48:54.1217099+00:00",
-  "LastChanged_Achievements": "2023-12-15T03:09:15.7647935+00:00",
+  "LastChanged_Achievements": "2023-12-15T04:08:46.9512375+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:58.7777436+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:00:38.3081602+00:00",
-  "LastUpdate_Achievements": "2023-12-15T03:09:15.7648494+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:59:17.5633437+00:00",
+  "LastUpdate_Achievements": "2023-12-15T04:08:46.9513135+00:00"
 }

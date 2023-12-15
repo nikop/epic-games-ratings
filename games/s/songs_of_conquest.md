@@ -19,19 +19,19 @@ Number of Ratings: 292  (23.09.2022)
 | Master | 5.00% | ~24 |
 | Whoops! | 4.00% | ~19 |
 | Expert Essence Employment | 4.00% | ~19 |
+| Don't Touch My Stuff | 3.00% | ~14 |
 | Trojan Horse | 3.00% | ~14 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~14 |
 | The Song of Stoutheart | 2.00% | ~10 |
 | This Spot's Taken | 2.00% | ~10 |
-| Don't Touch My Stuff | 2.00% | ~10 |
 | Pyrrhic Victory | 2.00% | ~10 |
 | Versatile Wielder | 1.00% | ~5 |
 | Deepstrike | 1.00% | ~5 |
 | Infernal Influence | 1.00% | ~5 |
 | Such A Fungi | 1.00% | ~5 |
+| Ultra Kill | 1.00% | ~5 |
 | Grand Master | 1.00% | ~5 |
 | Get Over Here! | 0.80% | ~4 |
-| Ultra Kill | 0.80% | ~4 |
 | Unlimited Power! | 0.60% | ~3 |
 | Together For Her | 0.60% | ~3 |
 | Death To Diplomacy | 0.40% | ~2 |
@@ -62,7 +62,7 @@ Number of Ratings: 292  (23.09.2022)
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 476 (Ranked 324)  
-Completed: 0 (0.00%) (Ranked 376)  
+Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,8 +99,8 @@ Completed: 0 (0.00%) (Ranked 376)
 | 2023-12-15 | 476 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 518)  
-Sum: 194 (Ranked 411)  
-Diff (max vs sum): 107  
+Sum: 194 (Ranked 410)  
+Diff (max vs sum): 108  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 27 |

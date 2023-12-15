@@ -3,9 +3,9 @@
   "Name": "Sword of the Necromancer",
   "ProductSlug": "sword-of-the-necromancer-605368",
   "Ranking_EOS_Progress": 797,
-  "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 502,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_Completed": 377,
+  "Ranking_EOS_NewPlayers": 501,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-30T00:00:00+00:00",
     "PcReleaseDate": "2021-01-28T18:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-18T16:01:40.4555622+00:00",
-  "LastChanged_Achievements": "2023-12-15T03:07:18.2929678+00:00",
+  "LastChanged_Achievements": "2023-12-15T04:05:36.0885139+00:00",
   "LastUpdate_AppInfo": "2023-12-08T09:56:57.6538352+00:00",
-  "LastUpdate_Ratings": "2023-12-15T02:57:42.0482995+00:00",
-  "LastUpdate_Achievements": "2023-12-15T03:07:18.2929716+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:57:23.812023+00:00",
+  "LastUpdate_Achievements": "2023-12-15T04:05:36.0885177+00:00"
 }

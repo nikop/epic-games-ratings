@@ -3666,7 +3666,7 @@
   ],
   "EOS_Progressed": 241047,
   "EOS_Completed": 298,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -28907,9 +28907,9 @@
       "ID": "PLAY10HOURS",
       "SetID": "5l8oe0h",
       "Name": "Doing Time",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 964
     },
     {
       "ID": "POISON300",
@@ -29362,8 +29362,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-15T01:49:50.7155594+00:00",
-  "LastChanged_Achievements": "2023-12-15T03:11:03.861421+00:00",
+  "LastChanged_Achievements": "2023-12-15T04:10:02.6948108+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-15T03:01:34.7896924+00:00",
-  "LastUpdate_Achievements": "2023-12-15T03:11:03.8616583+00:00"
+  "LastUpdate_Ratings": "2023-12-15T03:59:54.5823071+00:00",
+  "LastUpdate_Achievements": "2023-12-15T04:10:02.6950709+00:00"
 }
