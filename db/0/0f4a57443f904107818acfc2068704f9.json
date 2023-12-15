@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 891,
+  "EOS_Progressed": 892,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2027,6 +2027,11 @@
       "Time": "2023-12-15T12:03:53.2343845+00:00",
       "NumProgressed": 891,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T14:03:34.0829449+00:00",
+      "NumProgressed": 892,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2095,7 +2100,7 @@
       "Name": "Pathfinder",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "CompleteChapter10",
@@ -2189,9 +2194,9 @@
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 357
     },
     {
       "ID": "CompleteChapter4",
@@ -2334,14 +2339,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 891,
+      "Progressed": 892,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:09:13.0289515+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:03:34.0829446+00:00",
   "LastUpdate_AppInfo": "2023-12-15T09:57:06.988595+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:03:53.2994516+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:09:13.0289838+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:58:03.6062216+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:03:34.0829791+00:00"
 }

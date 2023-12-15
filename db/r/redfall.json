@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2681,9 +2681,9 @@
       "ID": "Achievement_017",
       "SetID": "6b34g18",
       "Name": "Bad Wiring",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 36
     },
     {
       "ID": "Achievement_018",
@@ -2793,9 +2793,9 @@
       "ID": "Achievement_031",
       "SetID": "6b34g18",
       "Name": "Sucks To Be You",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 55
     },
     {
       "ID": "Achievement_032",
@@ -3098,8 +3098,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-10T01:51:29.5345174+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:11:54.3736164+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:05:39.3155982+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:19.3114561+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:04:16.7605204+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:11:54.3736895+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:58:22.6063779+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:05:39.3156516+00:00"
 }

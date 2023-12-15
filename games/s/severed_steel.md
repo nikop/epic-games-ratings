@@ -5,32 +5,32 @@ Rating: 4.69 (Ranked 233)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 32.00% | ~217,984 |
-| 50 HEADSHOTS | 29.00% | ~197,548 |
-| SCIENCE AND INDUSTRY | 28.00% | ~190,736 |
-| FINISHED CHAPTER 1 | 27.00% | ~183,924 |
-| FINISHED CHAPTER 2 | 20.00% | ~136,240 |
-| 200 HEADSHOTS | 18.00% | ~122,616 |
-| FINISHED CHAPTER 3 | 17.00% | ~115,804 |
-| FINISHED CHAPTER 4 | 15.00% | ~102,180 |
-| FINISH CHAPTER 5 | 12.00% | ~81,744 |
-| FINISH CHAPTER 6 | 11.00% | ~74,932 |
-| CATHARTIC ESCAPISM | 11.00% | ~74,932 |
-| 1000 KILLS | 9.00% | ~61,308 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,248 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,624 |
-| FIRST BLOOD | 2.00% | ~13,624 |
+| 100 KILLS | 32.00% | ~217,971 |
+| 50 HEADSHOTS | 29.00% | ~197,536 |
+| SCIENCE AND INDUSTRY | 28.00% | ~190,724 |
+| FINISHED CHAPTER 1 | 27.00% | ~183,913 |
+| FINISHED CHAPTER 2 | 20.00% | ~136,232 |
+| 200 HEADSHOTS | 18.00% | ~122,608 |
+| FINISHED CHAPTER 3 | 17.00% | ~115,797 |
+| FINISHED CHAPTER 4 | 15.00% | ~102,174 |
+| FINISH CHAPTER 5 | 12.00% | ~81,739 |
+| FINISH CHAPTER 6 | 11.00% | ~74,927 |
+| CATHARTIC ESCAPISM | 11.00% | ~74,927 |
+| 1000 KILLS | 9.00% | ~61,304 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,246 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,623 |
+| FIRST BLOOD | 2.00% | ~13,623 |
 | OUT OF ORDER | 1.00% | ~6,812 |
 | PACEMAKER | 1.00% | ~6,812 |
 | TIME PARADOX | 1.00% | ~6,812 |
-| FIREFIGHT LEVEL 30 | 0.90% | ~6,131 |
-| PARTYHARD | 0.80% | ~5,450 |
+| FIREFIGHT LEVEL 30 | 0.90% | ~6,130 |
+| PARTYHARD | 0.80% | ~5,449 |
 | NEW GAME PLUS | 0.70% | ~4,768 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,406 |
 | CHURCH | 0.40% | ~2,725 |
-| FIREFIGHT LEVEL 50 | 0.30% | ~2,044 |
-| REMEMBER THE ARMORY | 0.30% | ~2,044 |
-| 5 RUNS | 0.30% | ~2,044 |
+| FIREFIGHT LEVEL 50 | 0.30% | ~2,043 |
+| REMEMBER THE ARMORY | 0.30% | ~2,043 |
+| 5 RUNS | 0.30% | ~2,043 |
 | CHALET | 0.20% | ~1,362 |
 | FIREFIGHT LEVEL 60 | 0.20% | ~1,362 |
 | SOUL - HORIZONS | 0.20% | ~1,362 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 233)
 | THE GAMBLER | 0.10% | ~681 |
 | WARRIOR IN A GARDEN | 0.10% | ~681 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 681,199 (Ranked 28)  
+Progressed: 681,158 (Ranked 28)  
 Completed: 70 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |

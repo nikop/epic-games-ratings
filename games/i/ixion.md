@@ -6,13 +6,13 @@ Rating: 4.58 (Ranked 454)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 29.00% | ~1,009 |
-| Sputnik 2049 | 26.00% | ~904 |
+| Sputnik 2049 | 26.00% | ~905 |
 | Infinite Growth... | 25.00% | ~870 |
 | Without Breaking Some Eggs... | 24.00% | ~835 |
 | A Thousand Strong | 18.00% | ~626 |
 | Ready for a New World | 18.00% | ~626 |
 | Space Society | 17.00% | ~591 |
-| Permanent Redesigns | 16.00% | ~556 |
+| Permanent Redesigns | 16.00% | ~557 |
 | Fully Recycled | 14.00% | ~487 |
 | Ain't Nobody Got Time for That | 14.00% | ~487 |
 | The Ship of Theseus | 14.00% | ~487 |
@@ -25,9 +25,9 @@ Rating: 4.58 (Ranked 454)
 | Power Outage | 8.00% | ~278 |
 | Convenient Transport | 8.00% | ~278 |
 | Please Make it Stop! | 8.00% | ~278 |
-| Sightseeing | 7.00% | ~243 |
-| Necessary Enhancement | 7.00% | ~243 |
-| From the Past | 7.00% | ~243 |
+| Sightseeing | 7.00% | ~244 |
+| Necessary Enhancement | 7.00% | ~244 |
+| From the Past | 7.00% | ~244 |
 | Access Granted | 6.00% | ~209 |
 | All in Good Health | 6.00% | ~209 |
 | Oats | 5.00% | ~174 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 454)
 | This is Fine | 0.10% | ~3 |
 | Suburban Perfection | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,478 (Ranked 210)  
+Progressed: 3,479 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-11 | 3,423 | 0 |
 | 2023-12-13 | 3,429 | 0 |
 | 2023-12-14 | 3,460 | 0 |
-| 2023-12-15 | 3,478 | 0 |
+| 2023-12-15 | 3,479 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

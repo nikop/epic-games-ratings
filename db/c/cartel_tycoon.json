@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 739,
+  "EOS_Progressed": 740,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -2535,6 +2535,11 @@
       "Time": "2023-12-15T12:05:56.788519+00:00",
       "NumProgressed": 739,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T14:05:35.1407264+00:00",
+      "NumProgressed": 740,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2594,7 +2599,7 @@
       "Name": "Our Man",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "kill-lieutenants",
@@ -2610,7 +2615,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "play-at-night",
@@ -2640,9 +2645,9 @@
       "ID": "rename-lieutenant",
       "SetID": "bed33dd",
       "Name": "I\u0027m Going To Call You Kitty",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 52
     },
     {
       "ID": "rob-village",
@@ -2658,7 +2663,7 @@
       "Name": "Spread",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "send-smuggling",
@@ -2674,7 +2679,7 @@
       "Name": "Pampered Life",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "upgrade-building",
@@ -2682,7 +2687,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "use-submarine",
@@ -2697,15 +2702,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 739,
+      "Progressed": 740,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-12T19:59:33.5091909+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:11:48.9252218+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:05:35.1407261+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4008517+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:03:01.9788655+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:11:48.9252459+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:57:26.0230642+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:05:35.1407436+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Time Loader",
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 421,
-  "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_Completed": 61,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -233,9 +233,9 @@
       "ID": "01_WRENCH",
       "SetID": "681m9fa",
       "Name": "Wrench",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "02_Soap",
@@ -345,9 +345,9 @@
       "ID": "15_Screwdriver",
       "SetID": "681m9fa",
       "Name": "Screwdriver",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "16_Springs",
@@ -474,8 +474,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:15:00.5892432+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:09:16.9518033+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.3905012+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:02:59.9571968+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:15:00.5892612+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:57:24.4764486+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:09:16.9518257+00:00"
 }

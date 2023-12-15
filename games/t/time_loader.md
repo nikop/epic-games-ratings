@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Screwdriver | 60.00% | ~79 |
+| Screwdriver | 61.00% | ~80 |
 | Springs | 58.00% | ~76 |
 | Soap | 39.00% | ~51 |
 | Purr-fect | 34.00% | ~45 |
 | Act 1 | 34.00% | ~45 |
 | Capacitors | 33.00% | ~43 |
-| Wrench | 31.00% | ~41 |
+| Wrench | 32.00% | ~42 |
 | Mug | 30.00% | ~39 |
 | Soldering iron | 28.00% | ~37 |
 | Robot Bros | 24.00% | ~31 |
@@ -35,7 +35,7 @@
 | Secret ending | 8.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 131 (Ranked 421)  
-Completed: 9 (6.87%) (Ranked 62)  
+Completed: 9 (6.87%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

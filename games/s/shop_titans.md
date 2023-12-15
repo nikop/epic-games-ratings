@@ -39,6 +39,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cream of the Crop | 2.00% | ~2,912 |
 | Proud Paladin | 2.00% | ~2,912 |
 | Above the Norm | 2.00% | ~2,912 |
+| A Ronin Reborn | 2.00% | ~2,912 |
 | Tax not Included | 2.00% | ~2,912 |
 | The King's Caprice | 2.00% | ~2,912 |
 | Research & Development | 2.00% | ~2,912 |
@@ -93,7 +94,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 2.00% | ~2,912 |
 | Top of the World | 1.00% | ~1,456 |
 | Constellated | 1.00% | ~1,456 |
-| A Ronin Reborn | 1.00% | ~1,456 |
 | The Free Encyclopedia | 1.00% | ~1,456 |
 | Fillin' the Bin | 1.00% | ~1,456 |
 | Industrial Evolution | 1.00% | ~1,456 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.30% | ~437 |
 | Capitalist Camaraderie | 0.20% | ~291 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,597 (Ranked 80)  
-Completed: 314 (0.22%) (Ranked 258)  
+Progressed: 145,604 (Ranked 80)  
+Completed: 315 (0.22%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -358,7 +358,7 @@ Completed: 314 (0.22%) (Ranked 258)
 | 2023-12-12 | 144,871 | 294 |
 | 2023-12-13 | 145,093 | 297 |
 | 2023-12-14 | 145,474 | 307 |
-| 2023-12-15 | 145,597 | 314 |
+| 2023-12-15 | 145,604 | 315 |
 ## Awards
 Max (Great for Beginners): 4,892  (Ranked 75)  
 Sum: 27,739 (Ranked 51)  

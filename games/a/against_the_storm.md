@@ -6,9 +6,9 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 5.00% | ~910 |
-| Abandoned Settlement | 4.00% | ~728 |
-| Petrified Necropolis | 4.00% | ~728 |
+| Overgrown Library | 5.00% | ~911 |
+| Abandoned Settlement | 4.00% | ~729 |
+| Petrified Necropolis | 4.00% | ~729 |
 | Frosts | 3.00% | ~546 |
 | Land of Greed | 3.00% | ~546 |
 | Ominous Presence | 3.00% | ~546 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,209 (Ranked 147)  
+Progressed: 18,213 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 39 (0.21%) (Ranked 261)
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
 | 2023-12-14 | 18,153 | 40 |
-| 2023-12-15 | 18,209 | 39 |
+| 2023-12-15 | 18,213 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,261 (Ranked 175)  

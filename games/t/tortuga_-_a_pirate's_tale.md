@@ -5,23 +5,23 @@ Rating: 3.78 (Ranked 1,053)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~16,350 |
-| No Half Measures | 87.00% | ~14,973 |
-| Personal Matter | 86.00% | ~14,801 |
-| But You Have Heard of Me | 72.00% | ~12,391 |
-| Double the Barrels, double the Fun | 54.00% | ~9,293 |
-| Pimp My Glide | 49.00% | ~8,433 |
-| ... And Where Do the Stories Come From? | 40.00% | ~6,884 |
-| House Party! | 35.00% | ~6,024 |
-| Make It Rain | 23.00% | ~3,958 |
-| Curse of the Seven Seas | 22.00% | ~3,786 |
+| Eeligally Ambitious | 95.00% | ~16,352 |
+| No Half Measures | 87.00% | ~14,975 |
+| Personal Matter | 86.00% | ~14,803 |
+| But You Have Heard of Me | 72.00% | ~12,393 |
+| Double the Barrels, double the Fun | 54.00% | ~9,295 |
+| Pimp My Glide | 49.00% | ~8,434 |
+| ... And Where Do the Stories Come From? | 40.00% | ~6,885 |
+| House Party! | 35.00% | ~6,025 |
+| Make It Rain | 23.00% | ~3,959 |
+| Curse of the Seven Seas | 22.00% | ~3,787 |
 | Head First | 16.00% | ~2,754 |
-| To the World's End | 12.00% | ~2,065 |
+| To the World's End | 12.00% | ~2,066 |
 | Table for Six | 11.00% | ~1,893 |
 | Sharing Is Caring | 10.00% | ~1,721 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,377 |
 | Morally Flexible | 6.00% | ~1,033 |
-| Fishing for Compliments | 5.00% | ~860 |
+| Fishing for Compliments | 5.00% | ~861 |
 | After All, Why Shouldn't I Keep It? | 3.00% | ~516 |
 | A True Dandy | 2.00% | ~344 |
 | A New Legend Awaits | 1.00% | ~172 |
@@ -32,7 +32,7 @@ Rating: 3.78 (Ranked 1,053)
 | Heavy Tunaing | 0.10% | ~17 |
 | Pufferfish | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,210 (Ranked 149)  
+Progressed: 17,213 (Ranked 149)  
 Completed: 1 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 1 (0.01%) (Ranked 353)
 | 2023-12-12 | 17,192 | 1 |
 | 2023-12-13 | 17,197 | 1 |
 | 2023-12-14 | 17,207 | 1 |
-| 2023-12-15 | 17,210 | 1 |
+| 2023-12-15 | 17,213 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

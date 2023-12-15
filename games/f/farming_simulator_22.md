@@ -6,39 +6,39 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 74.00% | ~41,310 |
-| I read Shakespeare and stuff | 62.00% | ~34,611 |
-| Just a sprinkle | 61.00% | ~34,053 |
-| I'm stumped | 59.00% | ~32,936 |
-| Plant get enough | 58.00% | ~32,378 |
-| It's just the beginning | 57.00% | ~31,820 |
-| This is just my weekend vehicle | 56.00% | ~31,261 |
-| Hard work pays off | 51.00% | ~28,470 |
-| It's never too late to farm | 49.00% | ~27,354 |
-| All out of Land | 43.00% | ~24,004 |
-| Field Trip | 42.00% | ~23,446 |
-| I like to switch it up | 39.00% | ~21,771 |
-| Help me to help you | 37.00% | ~20,655 |
-| Ultimutt Pawesomeness | 27.00% | ~15,072 |
-| Van Gogh | 25.00% | ~13,956 |
-| Vehicle fleet | 22.00% | ~12,281 |
-| You wood not believe it | 21.00% | ~11,723 |
-| Well-Oiled Machine | 16.00% | ~8,932 |
-| Clucky Streak | 15.00% | ~8,374 |
-| The plot thickens | 15.00% | ~8,374 |
-| Large-scale supplier | 15.00% | ~8,374 |
-| Long haul | 15.00% | ~8,374 |
-| That's a wrap | 14.00% | ~7,815 |
-| Fix me up | 12.00% | ~6,699 |
+| Own use | 74.00% | ~41,315 |
+| I read Shakespeare and stuff | 62.00% | ~34,615 |
+| Just a sprinkle | 61.00% | ~34,057 |
+| I'm stumped | 59.00% | ~32,940 |
+| Plant get enough | 58.00% | ~32,382 |
+| It's just the beginning | 57.00% | ~31,824 |
+| This is just my weekend vehicle | 56.00% | ~31,265 |
+| Hard work pays off | 51.00% | ~28,474 |
+| It's never too late to farm | 49.00% | ~27,357 |
+| All out of Land | 43.00% | ~24,007 |
+| Field Trip | 42.00% | ~23,449 |
+| I like to switch it up | 39.00% | ~21,774 |
+| Help me to help you | 37.00% | ~20,657 |
+| Ultimutt Pawesomeness | 27.00% | ~15,074 |
+| Van Gogh | 25.00% | ~13,958 |
+| Vehicle fleet | 22.00% | ~12,283 |
+| You wood not believe it | 21.00% | ~11,725 |
+| Well-Oiled Machine | 16.00% | ~8,933 |
+| Clucky Streak | 15.00% | ~8,375 |
+| The plot thickens | 15.00% | ~8,375 |
+| Large-scale supplier | 15.00% | ~8,375 |
+| Long haul | 15.00% | ~8,375 |
+| That's a wrap | 14.00% | ~7,816 |
+| Fix me up | 12.00% | ~6,700 |
 | It's sow easy | 11.00% | ~6,141 |
 | Rock on | 11.00% | ~6,141 |
-| Highly cultivated | 10.00% | ~5,582 |
-| Giddy-up! | 9.00% | ~5,024 |
+| Highly cultivated | 10.00% | ~5,583 |
+| Giddy-up! | 9.00% | ~5,025 |
 | Cowherd | 7.00% | ~3,908 |
-| Fluffyness | 6.00% | ~3,349 |
-| Road Trip | 5.00% | ~2,791 |
-| Helper A does not stop … ever | 5.00% | ~2,791 |
-| Bringing in the Honey | 5.00% | ~2,791 |
+| Fluffyness | 6.00% | ~3,350 |
+| Road Trip | 5.00% | ~2,792 |
+| Helper A does not stop … ever | 5.00% | ~2,792 |
+| Bringing in the Honey | 5.00% | ~2,792 |
 | Three little piggies… | 4.00% | ~2,233 |
 | Game on | 4.00% | ~2,233 |
 | Pretty colourful | 0.80% | ~447 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~223 |
 | Raisin the stakes | 0.30% | ~167 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,824 (Ranked 112)  
+Progressed: 55,831 (Ranked 112)  
 Completed: 6 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,10 +289,10 @@ Completed: 6 (0.01%) (Ranked 353)
 | 2023-12-12 | 55,529 | 6 |
 | 2023-12-13 | 55,631 | 6 |
 | 2023-12-14 | 55,776 | 6 |
-| 2023-12-15 | 55,824 | 6 |
+| 2023-12-15 | 55,831 | 6 |
 ## Awards
 Max (Great for Beginners): 5,808  (Ranked 67)  
-Sum: 44,174 (Ranked 34)  
+Sum: 44,177 (Ranked 34)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -300,12 +300,12 @@ Diff (max vs sum): 33
 | This game has Diverse Characters | 4,729 |
 | This game is Educational | 4,448 |
 | This game is Highly Recommended | 4,411 |
-| This game has Quickly Understood Controls | 4,352 |
+| This game has Quickly Understood Controls | 4,353 |
 | This game is Relaxing | 4,346 |
 | This game is Extremely Fun | 4,275 |
 | This game has Amazing Storytelling | 4,172 |
 | This game has Amazing Characters | 3,845 |
-| This game has a Creative Community | 3,788 |
+| This game has a Creative Community | 3,790 |
 | This game has Obsessive Gameplay | 2,386 |
 | This game has Easy Combat | 1,816 |
 ## Ratings History
@@ -643,4 +643,4 @@ Diff (max vs sum): 33
 | 2023-12-12 | 4.68 | - | 5,794 | 44,084 |
 | 2023-12-13 | 4.68 | - | 5,804 | 44,126 |
 | 2023-12-14 | 4.68 | - | 5,808 | 44,164 |
-| 2023-12-15 | 4.68 | - | 5,808 | 44,174 |
+| 2023-12-15 | 4.68 | - | 5,808 | 44,177 |

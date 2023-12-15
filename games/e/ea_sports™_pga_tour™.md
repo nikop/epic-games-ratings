@@ -10,7 +10,7 @@
 | Clean Sheet | 60.00% | ~370 |
 | Winner's Circle | 55.00% | ~339 |
 | Holey Moley | 53.00% | ~326 |
-| Bomb's Away | 48.00% | ~296 |
+| Bomb's Away | 49.00% | ~302 |
 | Perfect Round | 44.00% | ~271 |
 | Competitor's Spirit | 39.00% | ~240 |
 | The Strongest Field in Golf | 31.00% | ~191 |
@@ -23,7 +23,7 @@
 | Golfer Versus Golfer | 14.00% | ~86 |
 | Victory Lap | 9.00% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 616 (Ranked 305)  
+Progressed: 616 (Ranked 306)  
 Completed: 10 (1.62%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |

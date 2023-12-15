@@ -220,9 +220,9 @@
       "ID": "f1",
       "SetID": "b1ggf28",
       "Name": "Agriculture Tycoon",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "f2",
@@ -364,9 +364,9 @@
       "ID": "jz1",
       "SetID": "b1ggf28",
       "Name": "Builder",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "jz2",
@@ -444,9 +444,9 @@
       "ID": "r2",
       "SetID": "b1ggf28",
       "Name": "A Welcoming Settlement",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "r3",
@@ -579,8 +579,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:09:47.8142383+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:04:01.3077096+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:08:07.370723+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:09:47.8142864+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:02:43.8806071+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:04:01.3077401+00:00"
 }

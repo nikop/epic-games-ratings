@@ -5,6 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Friendly Fire | 50.00% | ~2 |
+| LOVE | 50.00% | ~2 |
 | Safety | 50.00% | ~2 |
 | 13 Years in 69 Minutes | 25.00% | ~1 |
 | Air walker | 25.00% | ~1 |
@@ -17,7 +18,6 @@
 | Gotta Go Fast | 25.00% | ~1 |
 | Jump rope | 25.00% | ~1 |
 | Just a Scratch or Two | 25.00% | ~1 |
-| LOVE | 25.00% | ~1 |
 | Longest Fall | 25.00% | ~1 |
 | Nostalgia | 25.00% | ~1 |
 | Threading the Needle | 25.00% | ~1 |

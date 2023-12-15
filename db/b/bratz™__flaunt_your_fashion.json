@@ -4,7 +4,7 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
@@ -468,9 +468,9 @@
       "ID": "7",
       "SetID": "41h3j82",
       "Name": "Roller Race",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "8",
@@ -501,8 +501,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:11:45.0926714+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:05:32.4065592+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:26.8638955+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:05:15.3034452+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:11:45.0926834+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:59:08.0799842+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:05:32.4065717+00:00"
 }

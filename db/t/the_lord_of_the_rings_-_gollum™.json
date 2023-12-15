@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 620,
+  "EOS_Progressed": 621,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1703,6 +1703,11 @@
       "Time": "2023-12-12T15:06:35.1517623+00:00",
       "NumProgressed": 620,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T14:03:31.0175849+00:00",
+      "NumProgressed": 621,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1794,7 +1799,7 @@
       "Name": "Good as Fish",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Chapter8",
@@ -1818,7 +1823,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "Collectibles2",
@@ -1890,7 +1895,7 @@
       "Name": "Memories",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "Murderer",
@@ -2001,14 +2006,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 620,
+      "Progressed": 621,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:09:09.167959+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:03:31.0175847+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:19.044384+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:02:15.0984319+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:09:09.168015+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:56:52.8474107+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:03:31.0176124+00:00"
 }

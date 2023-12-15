@@ -2,9 +2,9 @@
   "ID": "19d5458aa3c849a1b0fff69da4c9ed9d",
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
-  "Ranking_EOS_Progress": 305,
+  "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -2231,9 +2231,9 @@
       "ID": "achievement_11",
       "SetID": "7ldgi7j",
       "Name": "Bomb\u0027s Away",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 302
     },
     {
       "ID": "achievement_12",
@@ -2365,8 +2365,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:15:10.2123446+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:09:24.4114219+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:12.3261518+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:06:34.2691872+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:15:10.2123648+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:00:07.2917972+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:09:24.4114421+00:00"
 }

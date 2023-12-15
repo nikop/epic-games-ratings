@@ -6,9 +6,9 @@
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 80,
-  "Ranking_EOS_Completed": 258,
+  "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7579,10 +7579,10 @@
       "Count": 3795
     }
   ],
-  "EOS_Progressed": 145597,
-  "EOS_Completed": 314,
-  "EOS_NewPlayers": 1338,
-  "EOS_NewCompleters": 23,
+  "EOS_Progressed": 145604,
+  "EOS_Completed": 315,
+  "EOS_NewPlayers": 1334,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -32534,6 +32534,11 @@
       "Time": "2023-12-15T13:10:34.8928233+00:00",
       "NumProgressed": 145597,
       "NumCompleted": 314
+    },
+    {
+      "Time": "2023-12-15T14:04:37.8233087+00:00",
+      "NumProgressed": 145604,
+      "NumCompleted": 315
     }
   ],
   "TotalAchievements": 112,
@@ -32615,9 +32620,9 @@
       "ID": "ashley_a",
       "SetID": "anfd17p",
       "Name": "A Ronin Reborn",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1456
+      "UsersEstimate": 2912
     },
     {
       "ID": "bigsale01",
@@ -33440,15 +33445,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 145597,
-      "Completed": 314
+      "Progressed": 145604,
+      "Completed": 315
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-15T13:08:34.3307891+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:10:34.892823+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:04:37.8233085+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2420411+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:08:34.3307896+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:10:34.893024+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:03:04.5891678+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:04:37.8235186+00:00"
 }

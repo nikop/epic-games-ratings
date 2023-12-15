@@ -13,16 +13,16 @@ Rating: 3.47 (Ranked 1,062)
 | Fly Fisher | 3.00% | ~55 |
 | Peek-a-boo | 3.00% | ~55 |
 | ICU | 3.00% | ~55 |
+| Sucks To Be You | 3.00% | ~55 |
 | Wounded Whispers | 3.00% | ~55 |
 | Enter of Your Own Free Will | 2.00% | ~36 |
 | Welcome to the Neighborhood | 2.00% | ~36 |
+| Bad Wiring | 2.00% | ~36 |
 | Grounded | 2.00% | ~36 |
 | Throw The First Stone | 2.00% | ~36 |
-| Sucks To Be You | 2.00% | ~36 |
 | Heart Attack | 2.00% | ~36 |
 | Skin of Their Teeth | 2.00% | ~36 |
 | Neighborhood Revitalization | 1.00% | ~18 |
-| Bad Wiring | 1.00% | ~18 |
 | Sic Transit Umbra | 1.00% | ~18 |
 | Radio Silence | 1.00% | ~18 |
 | Bell-ringer | 1.00% | ~18 |

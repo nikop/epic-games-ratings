@@ -4,7 +4,7 @@
   "ProductSlug": "monster-harvest-75f018",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 294,
+  "EOS_Progressed": 295,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.06,
+  "EOS_Completed_Percentage": 3.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.8770575+00:00",
@@ -405,6 +405,11 @@
       "Time": "2023-12-14T21:09:23.0082079+00:00",
       "NumProgressed": 294,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-15T14:09:22.3434117+00:00",
+      "NumProgressed": 295,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 10,
@@ -432,7 +437,7 @@
       "Name": "Green Sheen",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "LETS_GET_FISHY",
@@ -456,7 +461,7 @@
       "Name": "Red Slime Time",
       "Percentage": 66,
       "XP": 100,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "SAVE_THE_SLIMES",
@@ -478,9 +483,9 @@
       "ID": "TO_THE_REC_CENTER",
       "SetID": "ca3djk0",
       "Name": "To the Rec Center!",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 144
+      "UsersEstimate": 142
     },
     {
       "ID": "WELCOME_TO_PLANIMAL_POINT",
@@ -488,14 +493,14 @@
       "Name": "Welcome To Planimal Point",
       "Percentage": 96,
       "XP": 100,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3djk0",
       "IsBase": true,
-      "Progressed": 294,
+      "Progressed": 295,
       "Completed": 9
     }
   ],
@@ -503,8 +508,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:15:07.2244556+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:09:22.3434114+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:03.4410402+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:08:14.9639435+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:15:07.2244646+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:02:49.4379249+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:09:22.3434231+00:00"
 }

@@ -30,8 +30,8 @@
 | Shame! Shame! Shame! | 46.00% | ~257 |
 | Pure Dynamite! | 45.00% | ~252 |
 | Tanos' Crusade Against Thalya | 45.00% | ~252 |
-| Mana Cannon | 41.00% | ~229 |
-| All’s Well That Ends Evil | 39.00% | ~218 |
+| Mana Cannon | 42.00% | ~235 |
+| All’s Well That Ends Evil | 40.00% | ~224 |
 | The Duel | 35.00% | ~196 |
 | Unstoppable Horde | 34.00% | ~190 |
 | Master of the Undead | 34.00% | ~190 |

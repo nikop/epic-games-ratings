@@ -961,9 +961,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 6947,
+  "EOS_Progressed": 6952,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11156,6 +11156,11 @@
       "Time": "2023-12-15T13:10:07.4448976+00:00",
       "NumProgressed": 6947,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T14:04:16.6791488+00:00",
+      "NumProgressed": 6952,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11167,7 +11172,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -11175,7 +11180,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -11199,7 +11204,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -11207,7 +11212,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -11223,7 +11228,7 @@
       "Name": "Scaling up",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -11231,7 +11236,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -11327,7 +11332,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -11486,13 +11491,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6947,
+      "Progressed": 6952,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6319,
+      "Progressed": 6324,
       "Completed": 113
     }
   ],
@@ -11500,8 +11505,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-15T01:46:12.7842715+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:10:07.4448973+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:04:16.6791486+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:44.0991613+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:03:14.4693725+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:10:07.4449771+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:57:35.4411315+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:04:16.6792467+00:00"
 }

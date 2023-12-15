@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1562,9 +1562,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 132527,
+  "EOS_Progressed": 132552,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 796,
+  "EOS_NewPlayers": 821,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -24842,6 +24842,11 @@
       "Time": "2023-12-15T13:09:26.9338054+00:00",
       "NumProgressed": 132527,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-15T14:03:44.8537132+00:00",
+      "NumProgressed": 132552,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -24877,7 +24882,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3976
+      "UsersEstimate": 3977
     },
     {
       "ID": "ACH_COP_ART",
@@ -24885,7 +24890,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23855
+      "UsersEstimate": 23859
     },
     {
       "ID": "ACH_COP_BAD",
@@ -24901,7 +24906,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11927
+      "UsersEstimate": 11930
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -24909,7 +24914,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31806
+      "UsersEstimate": 31812
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -24917,7 +24922,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11927
+      "UsersEstimate": 11930
     },
     {
       "ID": "ACH_COP_DORK",
@@ -24925,7 +24930,7 @@
       "Name": "Massive Torque Dork",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "ACH_COP_GOOD",
@@ -24933,7 +24938,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 37108
+      "UsersEstimate": 37115
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -24949,7 +24954,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -24957,7 +24962,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21204
+      "UsersEstimate": 21208
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -24965,7 +24970,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27831
+      "UsersEstimate": 27836
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -24981,7 +24986,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17229
+      "UsersEstimate": 17232
     },
     {
       "ID": "ACH_COP_STAR",
@@ -24989,7 +24994,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21204
+      "UsersEstimate": 21208
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -24997,7 +25002,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14578
+      "UsersEstimate": 14581
     },
     {
       "ID": "ACH_CUNO",
@@ -25013,7 +25018,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13253
+      "UsersEstimate": 13255
     },
     {
       "ID": "ACH_GLUTEN",
@@ -25045,7 +25050,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7952
+      "UsersEstimate": 7953
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -25061,7 +25066,7 @@
       "Name": "Avowed Inframaterialist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "ACH_KIM",
@@ -25069,7 +25074,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18554
+      "UsersEstimate": 18557
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -25077,7 +25082,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3976
+      "UsersEstimate": 3977
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -25133,7 +25138,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18554
+      "UsersEstimate": 18557
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -25149,7 +25154,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -25172,15 +25177,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 132527,
+      "Progressed": 132552,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-12-14T12:01:28.0162102+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:09:26.9338052+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:03:44.853713+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:13.3373755+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:06:56.6763055+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:09:26.9339174+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:00:24.0846041+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:03:44.8538252+00:00"
 }

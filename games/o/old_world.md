@@ -184,6 +184,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Difficulty | 0.30% | ~47 |
 | Event Level High | 0.30% | ~47 |
 | A Good Start | 0.30% | ~47 |
+| Like a Lion | 0.30% | ~47 |
 | Tell the Spartans | 0.30% | ~47 |
 | Medo-Babylonian Conquest | 0.30% | ~47 |
 | Pantheon in Roma | 0.30% | ~47 |
@@ -197,7 +198,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Game of the Week | 0.20% | ~32 |
 | Get the Hellas Out | 0.20% | ~32 |
 | The Turning Point | 0.20% | ~32 |
-| Like a Lion | 0.20% | ~32 |
 | Learn By Playing 1 - Able | 0.20% | ~32 |
 | Macedonian Wars | 0.20% | ~32 |
 | Realistic Mortality | 0.20% | ~32 |

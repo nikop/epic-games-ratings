@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -53,9 +53,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1199,
+  "EOS_Progressed": 1203,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2303,6 +2303,11 @@
       "Time": "2023-12-15T13:09:01.9306089+00:00",
       "NumProgressed": 1199,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T14:03:25.3736197+00:00",
+      "NumProgressed": 1203,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2368,9 +2373,9 @@
       "ID": "CHALLENGE_RANDOMPOPULATION",
       "SetID": "6ohhfoc",
       "Name": "Charismatic Leader",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "CHALLENGE_SCORTCHINGSUMMER",
@@ -2400,9 +2405,9 @@
       "ID": "DICE_ALL_CORRUPTED",
       "SetID": "6ohhfoc",
       "Name": "It\u0027s spreading",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "DICE_TWELVE_FROZEN",
@@ -2424,9 +2429,9 @@
       "ID": "DIE_ASCEND",
       "SetID": "6ohhfoc",
       "Name": "Ascended",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 48
     },
     {
       "ID": "DIE_FORGE_CUSTOM",
@@ -2538,7 +2543,7 @@
       "Name": "We made it",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -2584,9 +2589,9 @@
       "ID": "WINMATCHWITH_CAPTAIN",
       "SetID": "6ohhfoc",
       "Name": "The Flail",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "WINMATCHWITH_CORRUPTEDKING",
@@ -2616,9 +2621,9 @@
       "ID": "WINMATCHWITH_SAINT",
       "SetID": "6ohhfoc",
       "Name": "The Incarnate",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "WINMATCHWITH_SCIENTIST",
@@ -2673,7 +2678,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1199,
+      "Progressed": 1203,
       "Completed": 0
     }
   ],
@@ -2681,8 +2686,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-11-18T18:58:25.1922744+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:09:01.9306086+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:03:25.3736195+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:06.2219482+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:08:19.9139302+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:09:01.9306541+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:02:53.7361402+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:03:25.3736762+00:00"
 }

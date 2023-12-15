@@ -13201,10 +13201,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 60860,
       "NumberOfAwardsMax": 7379
+    },
+    {
+      "Time": "2023-12-15T13:58:10.7438082+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 60876,
+      "NumberOfAwardsMax": 7379
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 60860,
+  "NumberOfAwards": 60876,
   "NumberOfAwardsMax": 7379,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13224,7 +13230,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 7167
+      "Count": 7183
     },
     {
       "Text": "This game is Extremely Fun",
@@ -13275,7 +13281,7 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 475239,
+  "EOS_Progressed": 475284,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 4227,
   "EOS_NewCompleters": 0,
@@ -40760,6 +40766,11 @@
       "Time": "2023-12-15T13:11:44.2288003+00:00",
       "NumProgressed": 475239,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T14:05:32.0344616+00:00",
+      "NumProgressed": 475284,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -41211,7 +41222,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -41795,7 +41806,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -42771,7 +42782,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -43051,7 +43062,7 @@
       "Name": "That is mine!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -43467,7 +43478,7 @@
       "Name": "Victorious!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -43674,21 +43685,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 475239,
+      "Progressed": 475284,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 475239,
+      "Progressed": 475284,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-15T10:58:13.1785636+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:11:44.2288+00:00",
+  "LastChanged": "2023-12-15T13:58:10.743808+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:05:32.034461+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:01.211805+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:04:02.3062436+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:11:44.2298644+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:58:10.7438086+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:05:32.0354813+00:00"
 }

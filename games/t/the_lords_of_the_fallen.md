@@ -15,19 +15,6 @@ Rating: 4.20 (Ranked 928)
 | Weapon Collector | 0.20% | ~7 |
 | Ammunition Collector | 0.20% | ~7 |
 | Throwable Collector | 0.20% | ~7 |
-| Honed to Perfection | 0.20% | ~7 |
-| Rune Novice | 0.20% | ~7 |
-| Carving Out Victory | 0.20% | ~7 |
-| Utmost Insight | 0.20% | ~7 |
-| Vengeance for the Fallen | 0.20% | ~7 |
-| Rise and Fall | 0.20% | ~7 |
-| Together in Death | 0.20% | ~7 |
-| Burying the Past | 0.20% | ~7 |
-| Unwanted | 0.20% | ~7 |
-| Unbroken to the End | 0.20% | ~7 |
-| Moving On | 0.20% | ~7 |
-| Essence of Death | 0.20% | ~7 |
-| Seasoned | 0.20% | ~7 |
 | The Past Shapes the Present | 0.20% | ~7 |
 | A Rest Among the Dead | 0.20% | ~7 |
 | Wayfarer | 0.10% | ~3 |
@@ -39,10 +26,20 @@ Rating: 4.20 (Ranked 928)
 | Umbral Adept | 0.10% | ~3 |
 | Gesture Collector | 0.10% | ~3 |
 | Salvation in Blood | 0.10% | ~3 |
+| Honed to Perfection | 0.10% | ~3 |
+| Rune Novice | 0.10% | ~3 |
 | Rune Master | 0.10% | ~3 |
+| Carving Out Victory | 0.10% | ~3 |
+| Utmost Insight | 0.10% | ~3 |
+| Vengeance for the Fallen | 0.10% | ~3 |
 | Infernal Offerings | 0.10% | ~3 |
 | Radiant Offerings | 0.10% | ~3 |
 | Umbral Offerings | 0.10% | ~3 |
+| Rise and Fall | 0.10% | ~3 |
+| Together in Death | 0.10% | ~3 |
+| Burying the Past | 0.10% | ~3 |
+| Unwanted | 0.10% | ~3 |
+| Unbroken to the End | 0.10% | ~3 |
 | Wings of Grief | 0.10% | ~3 |
 | Twin Faces of Sin | 0.10% | ~3 |
 | Judgement | 0.10% | ~3 |
@@ -54,6 +51,7 @@ Rating: 4.20 (Ranked 928)
 | The Price of Knowledge | 0.10% | ~3 |
 | Part of the Divine | 0.10% | ~3 |
 | Travels Resumed | 0.10% | ~3 |
+| Moving On | 0.10% | ~3 |
 | Hero Worship | 0.10% | ~3 |
 | Antanas' Legacy | 0.10% | ~3 |
 | Faithful | 0.10% | ~3 |
@@ -65,11 +63,13 @@ Rating: 4.20 (Ranked 928)
 | In Light we Walk | 0.10% | ~3 |
 | Back to the Void | 0.10% | ~3 |
 | A Shadow Dispelled | 0.10% | ~3 |
+| Essence of Death | 0.10% | ~3 |
+| Seasoned | 0.10% | ~3 |
 | Lord of the Fallen | 0.10% | ~3 |
 | Lingering Moments | 0.10% | ~3 |
 | A Trace of Venom | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,325 (Ranked 215)  
+Progressed: 3,347 (Ranked 215)  
 Completed: 2 (0.06%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 2 (0.06%) (Ranked 318)
 | 2023-12-12 | 2,347 | 2 |
 | 2023-12-13 | 2,475 | 2 |
 | 2023-12-14 | 3,035 | 2 |
-| 2023-12-15 | 3,325 | 2 |
+| 2023-12-15 | 3,347 | 2 |
 ## Awards
 Max (Character Customization): 198  (Ranked 294)  
 Sum: 516 (Ranked 328)  

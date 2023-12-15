@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 79.00% | ~98 |
-| Gear Up | 67.00% | ~83 |
-| A Grand Show | 67.00% | ~83 |
-| Freshen Up | 53.00% | ~66 |
-| GG EZ | 52.00% | ~64 |
-| Hydrophobia | 40.00% | ~50 |
-| Ka-Ching! | 31.00% | ~38 |
+| Iceberg Theory | 79.00% | ~99 |
+| Gear Up | 67.00% | ~84 |
+| A Grand Show | 67.00% | ~84 |
+| Freshen Up | 54.00% | ~68 |
+| GG EZ | 53.00% | ~66 |
+| Hydrophobia | 39.00% | ~49 |
+| Ka-Ching! | 31.00% | ~39 |
 | Stop Right There | 26.00% | ~32 |
 | Get to the Point | 24.00% | ~30 |
 | Phew! | 16.00% | ~20 |
 | Mr. Want It All | 15.00% | ~19 |
-| Toe to Toe | 15.00% | ~19 |
-| The Hidden Secret | 14.00% | ~17 |
+| The Hidden Secret | 14.00% | ~18 |
+| Toe to Toe | 14.00% | ~18 |
 | The Abyss Conqueror | 10.00% | ~12 |
 | Grand Escape | 10.00% | ~12 |
 | Space Warrior: Prologue | 10.00% | ~12 |
 | The Fortress Conqueror | 9.00% | ~11 |
-| The Hypergravitational Abyss Conqueror | 6.00% | ~7 |
-| he Ultra Fortress Conqueror | 6.00% | ~7 |
-| Keep it Up, rookie! | 6.00% | ~7 |
-| Antaeus | 6.00% | ~7 |
-| Hell of a Fight | 6.00% | ~7 |
-| Decapitation Strike | 6.00% | ~7 |
+| The Hypergravitational Abyss Conqueror | 6.00% | ~8 |
+| he Ultra Fortress Conqueror | 6.00% | ~8 |
+| Keep it Up, rookie! | 6.00% | ~8 |
+| Antaeus | 6.00% | ~8 |
+| Hell of a Fight | 6.00% | ~8 |
+| Decapitation Strike | 6.00% | ~8 |
 | The Deep Frozen Conqueror | 5.00% | ~6 |
 | The Infinite Train Conqueror | 5.00% | ~6 |
 | The Paradox Coordinate Conqueror | 5.00% | ~6 |
@@ -55,8 +55,8 @@
 | Bullets Fear Me | 0.80% | ~1 |
 | Super Alloy Ranger! | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124 (Ranked 430)  
-Completed: 1 (0.81%) (Ranked 184)  
+Progressed: 125 (Ranked 429)  
+Completed: 1 (0.80%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -125,7 +125,7 @@ Completed: 1 (0.81%) (Ranked 184)
 | 2023-11-28 | 115 | 1 |
 | 2023-12-06 | 116 | 1 |
 | 2023-12-14 | 120 | 1 |
-| 2023-12-15 | 124 | 1 |
+| 2023-12-15 | 125 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

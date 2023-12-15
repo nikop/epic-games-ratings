@@ -5,52 +5,52 @@ Rating: 4.18 (Ranked 946)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~39,074 |
-| Har, Har, Har, Very Funny | 34.00% | ~26,570 |
-| Loose Ends | 33.00% | ~25,789 |
-| To the Victor Go the Spoils | 28.00% | ~21,881 |
-| Knighthood | 27.00% | ~21,100 |
-| Get ReQ'd | 25.00% | ~19,537 |
-| Whispered Words | 24.00% | ~18,755 |
-| The Batman Family | 22.00% | ~17,192 |
-| Lock and Key | 22.00% | ~17,192 |
-| Something in the Clay | 21.00% | ~16,411 |
-| Quartzer Life Crisis | 20.00% | ~15,629 |
-| Working Hard or Harley Working? | 20.00% | ~15,629 |
-| Unstoppable Force | 20.00% | ~15,629 |
-| Bad Apples in Every Orchard | 20.00% | ~15,629 |
-| Snow Problem | 19.00% | ~14,848 |
-| The Show Mud Go On | 18.00% | ~14,066 |
-| From Inside Gotham's Walls | 18.00% | ~14,066 |
+| First Step Into the Knight | 50.00% | ~39,076 |
+| Har, Har, Har, Very Funny | 34.00% | ~26,571 |
+| Loose Ends | 33.00% | ~25,790 |
+| To the Victor Go the Spoils | 28.00% | ~21,882 |
+| Knighthood | 27.00% | ~21,101 |
+| Get ReQ'd | 25.00% | ~19,538 |
+| Whispered Words | 24.00% | ~18,756 |
+| The Batman Family | 22.00% | ~17,193 |
+| Lock and Key | 22.00% | ~17,193 |
+| Something in the Clay | 21.00% | ~16,412 |
+| Quartzer Life Crisis | 20.00% | ~15,630 |
+| Working Hard or Harley Working? | 20.00% | ~15,630 |
+| Unstoppable Force | 20.00% | ~15,630 |
+| Bad Apples in Every Orchard | 20.00% | ~15,630 |
+| Snow Problem | 19.00% | ~14,849 |
+| The Show Mud Go On | 18.00% | ~14,067 |
+| From Inside Gotham's Walls | 18.00% | ~14,067 |
 | Protector of Gotham | 16.00% | ~12,504 |
 | Universal Health Scare | 16.00% | ~12,504 |
-| In Your Element | 15.00% | ~11,722 |
-| Voiceless | 15.00% | ~11,722 |
+| In Your Element | 15.00% | ~11,723 |
+| Voiceless | 15.00% | ~11,723 |
 | Rock and a Hard Place | 14.00% | ~10,941 |
 | Cooldown | 14.00% | ~10,941 |
 | Seeking Asylum | 14.00% | ~10,941 |
-| Not On My Watch | 13.00% | ~10,159 |
-| Shock Til They Drop | 13.00% | ~10,159 |
+| Not On My Watch | 13.00% | ~10,160 |
+| Shock Til They Drop | 13.00% | ~10,160 |
 | End of an Era | 12.00% | ~9,378 |
 | Bulldozed | 12.00% | ~9,378 |
 | Gotham Knight | 12.00% | ~9,378 |
-| Gotham City Confidential | 11.00% | ~8,596 |
+| Gotham City Confidential | 11.00% | ~8,597 |
 | Drone You Out | 10.00% | ~7,815 |
-| Out of Their League | 9.00% | ~7,033 |
-| Solid Alibi | 9.00% | ~7,033 |
-| Fusion Expert | 7.00% | ~5,470 |
+| Out of Their League | 9.00% | ~7,034 |
+| Solid Alibi | 9.00% | ~7,034 |
+| Fusion Expert | 7.00% | ~5,471 |
 | Family Meeting | 6.00% | ~4,689 |
 | A Worthy Successor | 6.00% | ~4,689 |
-| Expert Crime Fighter | 5.00% | ~3,907 |
+| Expert Crime Fighter | 5.00% | ~3,908 |
 | Dressed to Impress | 4.00% | ~3,126 |
-| A Momentum Occasion | 3.00% | ~2,344 |
-| Bat Out of Hell | 3.00% | ~2,344 |
+| A Momentum Occasion | 3.00% | ~2,345 |
+| Bat Out of Hell | 3.00% | ~2,345 |
 | Practice Makes Perfect | 2.00% | ~1,563 |
 | He'd Be So Proud of You | 2.00% | ~1,563 |
-| Talonted | 1.00% | ~781 |
-| The Man-Bat Family | 1.00% | ~781 |
-| Batarang Collector | 1.00% | ~781 |
-| Claiming the Mural High Ground | 1.00% | ~781 |
+| Talonted | 1.00% | ~782 |
+| The Man-Bat Family | 1.00% | ~782 |
+| Batarang Collector | 1.00% | ~782 |
+| Claiming the Mural High Ground | 1.00% | ~782 |
 | Icebreaker | 0.80% | ~387 |
 | History Major | 0.80% | ~625 |
 | A Sophisticated Mallet | 0.80% | ~387 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 946)
 | Element of Surprise | 0.20% | ~97 |
 | It's Nice to Be Wanted | 0.20% | ~97 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,147 (Ranked 101)  
+Progressed: 78,151 (Ranked 101)  
 Completed: 126 (0.16%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 126 (0.16%) (Ranked 277)
 | 2023-12-12 | 77,929 | 125 |
 | 2023-12-13 | 77,961 | 125 |
 | 2023-12-14 | 78,083 | 126 |
-| 2023-12-15 | 78,147 | 126 |
+| 2023-12-15 | 78,151 | 126 |
 ## Awards
 Max (Great Boss Battles): 3,010  (Ranked 98)  
 Sum: 5,149 (Ranked 141)  

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 33.00% | ~18 |
-| You have three wishes left | 30.00% | ~16 |
+| Master trainee | 35.00% | ~19 |
+| You have three wishes left | 31.00% | ~17 |
 | Jung's dream | 26.00% | ~14 |
 | The battle of Great Britain | 26.00% | ~14 |
 | Pulp! Where Monsters Dwell | 22.00% | ~12 |
@@ -16,8 +16,8 @@
 | The seer | 13.00% | ~7 |
 | Pulp! Terror Tales in the Night | 13.00% | ~7 |
 | Pulp! Out of this World | 13.00% | ~7 |
+| Pulp! Adventures into the Unknown | 13.00% | ~7 |
 | A rival with no options | 11.00% | ~6 |
-| Pulp! Adventures into the Unknown | 11.00% | ~6 |
 | Diagnosis: fear | 11.00% | ~6 |
 | Ambition is... blind | 11.00% | ~6 |
 | You have two wishes left | 11.00% | ~6 |

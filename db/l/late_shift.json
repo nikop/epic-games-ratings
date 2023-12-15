@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 730,
+  "EOS_Progressed": 731,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
@@ -1830,6 +1830,11 @@
       "Time": "2023-12-15T09:09:02.9138581+00:00",
       "NumProgressed": 730,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-15T14:09:05.5586924+00:00",
+      "NumProgressed": 731,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -1865,7 +1870,7 @@
       "Name": "The Lion\u0027s Den",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ENDING_3",
@@ -1889,7 +1894,7 @@
       "Name": "The Delivery",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ENDING_6",
@@ -1897,7 +1902,7 @@
       "Name": "The Bribe",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ENDING_7",
@@ -1929,7 +1934,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "GOOD_KARMA",
@@ -1953,7 +1958,7 @@
       "Name": "Office Clerk",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -1993,14 +1998,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 730,
+      "Progressed": 731,
       "Completed": 9
     }
   ],
@@ -2008,8 +2013,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:14:46.4031205+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:09:05.5586921+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:45.8510282+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:05:20.6085627+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:14:46.4031497+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:59:11.9731309+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:09:05.5587079+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 389,
+  "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 135,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 227,
+  "EOS_Progressed": 228,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -954,6 +954,11 @@
       "Time": "2023-12-15T13:10:41.3216333+00:00",
       "NumProgressed": 227,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T14:04:42.69248+00:00",
+      "NumProgressed": 228,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1020,9 +1025,9 @@
       "ID": "ach_defeat_great_unclean_one",
       "SetID": "d499apg",
       "Name": "Defeat a Great Unclean One",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -1030,7 +1035,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 24,
       "XP": 45,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -1061,14 +1066,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 227,
+      "Progressed": 228,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:10:41.3216329+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:04:42.6924798+00:00",
   "LastUpdate_AppInfo": "2023-12-08T13:57:10.1011387+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:04:25.6164746+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:10:41.3216506+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:58:29.5985728+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:04:42.6924914+00:00"
 }

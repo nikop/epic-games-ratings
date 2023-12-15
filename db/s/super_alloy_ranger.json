@@ -2,9 +2,9 @@
   "ID": "6bd7d2e32a724e119b9e4a2254aeec33",
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
-  "Ranking_EOS_Progress": 430,
+  "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 124,
+  "EOS_Progressed": 125,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.81,
+  "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:20.3185117+00:00",
@@ -616,6 +616,11 @@
       "Time": "2023-12-15T13:13:26.0977989+00:00",
       "NumProgressed": 124,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T14:08:00.8031771+00:00",
+      "NumProgressed": 125,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -691,7 +696,7 @@
       "Name": "The Hypergravitational Abyss Conqueror",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achi_10",
@@ -707,7 +712,7 @@
       "Name": "he Ultra Fortress Conqueror",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achi_12",
@@ -763,7 +768,7 @@
       "Name": "Gear Up",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Achi_19",
@@ -777,9 +782,9 @@
       "ID": "Achi_20",
       "SetID": "51a97k7",
       "Name": "Freshen Up",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "Achi_21",
@@ -795,7 +800,7 @@
       "Name": "Iceberg Theory",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Achi_23",
@@ -803,7 +808,7 @@
       "Name": "The Hidden Secret",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Achi_24",
@@ -833,9 +838,9 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "Achi_28",
@@ -843,7 +848,7 @@
       "Name": "Ka-Ching!",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Achi_29",
@@ -859,7 +864,7 @@
       "Name": "A Grand Show",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Achi_31",
@@ -875,7 +880,7 @@
       "Name": "Keep it Up, rookie!",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achi_33",
@@ -883,15 +888,15 @@
       "Name": "Antaeus",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 49
     },
     {
       "ID": "Achi_35",
@@ -923,7 +928,7 @@
       "Name": "Hell of a Fight",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achi_39",
@@ -937,9 +942,9 @@
       "ID": "Achi_40",
       "SetID": "51a97k7",
       "Name": "Toe to Toe",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "Achi_41",
@@ -971,7 +976,7 @@
       "Name": "Decapitation Strike",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achi_45",
@@ -1026,7 +1031,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 124,
+      "Progressed": 125,
       "Completed": 1
     }
   ],
@@ -1034,8 +1039,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:13:26.0977986+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:08:00.8031769+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:46.3254839+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:05:23.0302715+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:13:26.097836+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:59:14.0498128+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:08:00.8032127+00:00"
 }

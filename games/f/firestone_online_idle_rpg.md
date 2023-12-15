@@ -5,15 +5,15 @@ Rating: 4.03 (Ranked 1,009)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,185 |
+| Victor | 93.00% | ~3,186 |
 | World Map | 78.00% | ~2,672 |
-| Temple of Eternals | 56.00% | ~1,918 |
-| Prestigious | 53.00% | ~1,815 |
-| Fellowship Power | 42.00% | ~1,438 |
+| Temple of Eternals | 56.00% | ~1,919 |
+| Prestigious | 53.00% | ~1,816 |
+| Fellowship Power | 42.00% | ~1,439 |
 | Full Party | 23.00% | ~788 |
 | Guild Power | 23.00% | ~788 |
 | Prestigious x10 | 21.00% | ~719 |
-| The game is on | 18.00% | ~616 |
+| The game is on | 18.00% | ~617 |
 | Dragon Clicker | 16.00% | ~548 |
 | Exotic Merchant | 16.00% | ~548 |
 | Miner Clicker | 15.00% | ~514 |
@@ -26,8 +26,8 @@ Rating: 4.03 (Ranked 1,009)
 | Mysterious Rock | 11.00% | ~377 |
 | Natural Talent | 11.00% | ~377 |
 | Superior | 11.00% | ~377 |
-| Milestone collector | 10.00% | ~342 |
-| Scientist | 10.00% | ~342 |
+| Milestone collector | 10.00% | ~343 |
+| Scientist | 10.00% | ~343 |
 | Daily Quest Completionist | 9.00% | ~308 |
 | Doing My Part | 9.00% | ~308 |
 | Hunter | 9.00% | ~308 |
@@ -64,10 +64,10 @@ Rating: 4.03 (Ranked 1,009)
 | Gear Enchanting | 3.00% | ~103 |
 | Mythic Power | 3.00% | ~103 |
 | What lies behind the bush | 3.00% | ~103 |
-| Cauldron Liberator | 2.00% | ~68 |
-| Enchanting skill x5 | 2.00% | ~68 |
-| Guardian Master | 2.00% | ~68 |
-| Pokerface | 2.00% | ~68 |
+| Cauldron Liberator | 2.00% | ~69 |
+| Enchanting skill x5 | 2.00% | ~69 |
+| Guardian Master | 2.00% | ~69 |
+| Pokerface | 2.00% | ~69 |
 | Angel Power | 1.00% | ~34 |
 | Conqueror | 1.00% | ~34 |
 | Enhanced War Machines | 1.00% | ~34 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 1,009)
 | Jewel Enchanting | 0.20% | ~7 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,425 (Ranked 211)  
+Progressed: 3,426 (Ranked 212)  
 Completed: 2 (0.06%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 2 (0.06%) (Ranked 318)
 | 2023-12-12 | 3,300 | 2 |
 | 2023-12-13 | 3,348 | 2 |
 | 2023-12-14 | 3,410 | 2 |
-| 2023-12-15 | 3,425 | 2 |
+| 2023-12-15 | 3,426 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 471)  
 Sum: 144 (Ranked 431)  

@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228,
+  "EOS_Progressed": 229,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -525,6 +525,11 @@
       "Time": "2023-12-15T12:04:27.2851461+00:00",
       "NumProgressed": 228,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T14:04:07.5146887+00:00",
+      "NumProgressed": 229,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -534,9 +539,9 @@
       "ID": "animal_lover",
       "SetID": "3j2phem",
       "Name": "Animal Lover",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 80
     },
     {
       "ID": "axe_of_kindness",
@@ -600,7 +605,7 @@
       "Name": "Easy Listening",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ending_on_a_high_note",
@@ -775,7 +780,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 228,
+      "Progressed": 229,
       "Completed": 0
     }
   ],
@@ -783,8 +788,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:09:55.8187996+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:04:07.5146885+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:59.4034255+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:06:19.3146132+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:09:55.8188188+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:59:55.6494909+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:04:07.5147112+00:00"
 }

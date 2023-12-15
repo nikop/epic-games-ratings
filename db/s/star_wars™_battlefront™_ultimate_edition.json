@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1737,
+  "EOS_Progressed": 1738,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5229,6 +5229,11 @@
       "Time": "2023-12-15T12:10:29.87022+00:00",
       "NumProgressed": 1737,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T14:09:56.2506256+00:00",
+      "NumProgressed": 1738,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5431,9 +5436,9 @@
       "ID": "achievement_31",
       "SetID": "271ol84",
       "Name": "Scrap collector",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 313
+      "UsersEstimate": 295
     },
     {
       "ID": "achievement_32",
@@ -5449,7 +5454,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_34",
@@ -5465,7 +5470,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "achievement_36",
@@ -5481,7 +5486,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "achievement_38",
@@ -5529,7 +5534,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_43",
@@ -5561,7 +5566,7 @@
       "Name": "Patience you must have",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_47",
@@ -5647,9 +5652,9 @@
       "ID": "achievement_56",
       "SetID": "cemm4l8",
       "Name": "Support the troops",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 87
+      "UsersEstimate": 104
     },
     {
       "ID": "achievement_57",
@@ -5729,7 +5734,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_9",
@@ -5744,13 +5749,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1737,
+      "Progressed": 1738,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1737,
+      "Progressed": 1738,
       "Completed": 1
     }
   ],
@@ -5758,8 +5763,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:15:50.0138091+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:09:56.2506254+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.6035488+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:04:32.0873688+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:15:50.0138901+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:58:34.4544183+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:09:56.2506855+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.26 (Ranked 879)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 41.00% | ~492 |
+| We made it | 41.00% | ~493 |
 | The City | 11.00% | ~132 |
 | Manipulating Fate | 10.00% | ~120 |
 | Full house | 7.00% | ~84 |
 | Hear me out | 7.00% | ~84 |
 | Burn and Pillage | 6.00% | ~72 |
 | Listening to the crowd | 6.00% | ~72 |
-| Ascended | 5.00% | ~60 |
 | The Penitent Ones | 5.00% | ~60 |
 | Greedy | 5.00% | ~60 |
 | Hidden Secrets | 5.00% | ~60 |
 | The Stranded King | 5.00% | ~60 |
 | Accepting the Prophecy | 5.00% | ~60 |
 | Just Chilling | 4.00% | ~48 |
+| Ascended | 4.00% | ~48 |
 | Incredible Strength | 4.00% | ~48 |
 | Prophecy Fulfilled | 4.00% | ~48 |
 | The Greedy Ones | 3.00% | ~36 |
@@ -28,19 +28,19 @@ Rating: 4.26 (Ranked 879)
 | The Council | 1.00% | ~12 |
 | The Mad | 1.00% | ~12 |
 | Like the dream | 1.00% | ~12 |
-| Charismatic Leader | 0.80% | ~10 |
 | Metropolis | 0.80% | ~10 |
+| Charismatic Leader | 0.70% | ~8 |
 | Red Tape | 0.60% | ~7 |
 | Knowledge is Power | 0.60% | ~7 |
 | Six Faces | 0.50% | ~6 |
 | The Great Winter | 0.50% | ~6 |
-| It's spreading | 0.30% | ~4 |
-| The Flail | 0.30% | ~4 |
-| The Incarnate | 0.30% | ~4 |
 | Ice and Fire | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |
 | Aesthetics | 0.20% | ~2 |
+| It's spreading | 0.20% | ~2 |
+| The Flail | 0.20% | ~2 |
 | The Corrupted | 0.20% | ~2 |
+| The Incarnate | 0.20% | ~2 |
 | The experiment | 0.10% | ~1 |
 | The Foul | 0.10% | ~1 |
 | Break the chains | 0.00% | ~0 |
@@ -51,7 +51,7 @@ Rating: 4.26 (Ranked 879)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,199 (Ranked 257)  
+Progressed: 1,203 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 1,192 | 0 |
 | 2023-12-13 | 1,193 | 0 |
 | 2023-12-14 | 1,197 | 0 |
-| 2023-12-15 | 1,199 | 0 |
+| 2023-12-15 | 1,203 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,8 +3,8 @@
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 373,
-  "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_Completed": 129,
+  "Ranking_EOS_NewPlayers": 365,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 276,
+  "EOS_Progressed": 277,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.17,
   "EosHistory": [
@@ -644,6 +644,11 @@
       "Time": "2023-12-15T12:05:52.4489889+00:00",
       "NumProgressed": 276,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-15T14:05:30.9443961+00:00",
+      "NumProgressed": 277,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -677,9 +682,9 @@
       "ID": "CHAPTER1_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Off to a Good Start",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "CHAPTER2_COMPLETE",
@@ -693,9 +698,9 @@
       "ID": "CHAPTER3_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Eyes Yet To Open",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "CHAPTER4_COMPLETE",
@@ -717,9 +722,9 @@
       "ID": "COLLECT_20_EVIDENCE",
       "SetID": "2lk004m",
       "Name": "Small-time Finder",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "DIE_1_TIME",
@@ -799,7 +804,7 @@
       "Name": "A New Broom Sweeps Clean",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "PERFECT_CLEANED_EVERY_MAP",
@@ -829,9 +834,9 @@
       "ID": "TUTORIAL_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Clean Conscience",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 100
     },
     {
       "ID": "VIPER_HACKING",
@@ -846,13 +851,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 139,
+      "Progressed": 140,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 276,
+      "Progressed": 277,
       "Completed": 6
     }
   ],
@@ -860,8 +865,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:11:43.2286833+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:05:30.9443958+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:52.9462661+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:03:49.6983053+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:11:43.2287017+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:58:00.890263+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:05:30.9444115+00:00"
 }

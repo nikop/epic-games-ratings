@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,546 |
-| Off to a good start | 66.00% | ~1,146 |
+| New Recruit | 89.00% | ~1,547 |
+| Off to a good start | 66.00% | ~1,147 |
 | Do... or do not. There is no try | 51.00% | ~886 |
 | A good blaster at your side | 29.00% | ~504 |
 | I suggest a new strategy | 19.00% | ~330 |
-| Scrap collector | 18.00% | ~313 |
+| Scrap collector | 17.00% | ~295 |
 | All right, I'll give it a try | 17.00% | ~295 |
 | Great shot, kid! | 17.00% | ~295 |
 | Collector | 14.00% | ~243 |
@@ -24,14 +24,14 @@
 | What's the cargo? | 7.00% | ~122 |
 | Impressive. Most impressive. | 6.00% | ~104 |
 | Judge me by my size, do you? | 6.00% | ~104 |
+| Support the troops | 6.00% | ~104 |
 | "Gonk? Gonk!" | 5.00% | ~87 |
 | Distinguished | 5.00% | ~87 |
 | A tremor in the Force | 5.00% | ~87 |
-| Support the troops | 5.00% | ~87 |
-| Safety ain't the point of a joyride | 4.00% | ~69 |
-| Not bad for a little furball | 4.00% | ~69 |
-| Patience you must have | 4.00% | ~69 |
-| Don't underestimate the Force | 4.00% | ~69 |
+| Safety ain't the point of a joyride | 4.00% | ~70 |
+| Not bad for a little furball | 4.00% | ~70 |
+| Patience you must have | 4.00% | ~70 |
+| Don't underestimate the Force | 4.00% | ~70 |
 | I've been waiting for you | 3.00% | ~52 |
 | When 900 years old you reach... | 3.00% | ~52 |
 | Your journey has only started | 3.00% | ~52 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,737 (Ranked 238)  
+Progressed: 1,738 (Ranked 238)  
 Completed: 1 (0.06%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 1 (0.06%) (Ranked 318)
 | 2023-12-12 | 1,684 | 1 |
 | 2023-12-13 | 1,698 | 1 |
 | 2023-12-14 | 1,726 | 1 |
-| 2023-12-15 | 1,737 | 1 |
+| 2023-12-15 | 1,738 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

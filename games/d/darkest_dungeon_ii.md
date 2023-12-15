@@ -6,17 +6,17 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~128 |
-| This guy... again? | 3.00% | ~64 |
-| Lost and Found | 3.00% | ~64 |
-| This Belongs in a Museum | 2.00% | ~2,545 |
-| Not Today! | 2.00% | ~2,545 |
-| Creep and Sleep | 2.00% | ~2,545 |
-| Meat and Greet | 2.00% | ~2,545 |
-| Catch and Decease | 2.00% | ~2,545 |
-| Overdue Notice | 2.00% | ~2,545 |
-| Escape from the Black Hole | 2.00% | ~2,545 |
-| Autodidact | 2.00% | ~2,545 |
+| Malpractice Assurance | 6.00% | ~130 |
+| This guy... again? | 3.00% | ~65 |
+| Lost and Found | 3.00% | ~65 |
+| This Belongs in a Museum | 2.00% | ~2,546 |
+| Not Today! | 2.00% | ~2,546 |
+| Creep and Sleep | 2.00% | ~2,546 |
+| Meat and Greet | 2.00% | ~2,546 |
+| Catch and Decease | 2.00% | ~2,546 |
+| Overdue Notice | 2.00% | ~2,546 |
+| Escape from the Black Hole | 2.00% | ~2,546 |
+| Autodidact | 2.00% | ~2,546 |
 | Ploughshares to Swords | 2.00% | ~43 |
 | Bloody Graduation | 2.00% | ~43 |
 | Don't Make Me Turn This Coach Around | 1.00% | ~1,273 |
@@ -28,11 +28,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 1.00% | ~1,273 |
 | FNG | 1.00% | ~1,273 |
 | Nope | 1.00% | ~1,273 |
-| Friends 'Til the End | 1.00% | ~21 |
-| Dissector | 0.90% | ~1,145 |
-| Merry Time | 0.90% | ~1,145 |
-| Harvest Festival | 0.90% | ~1,145 |
-| Whale | 0.90% | ~1,145 |
+| Friends 'Til the End | 1.00% | ~22 |
+| Dissector | 0.90% | ~1,146 |
+| Merry Time | 0.90% | ~1,146 |
+| Harvest Festival | 0.90% | ~1,146 |
+| Whale | 0.90% | ~1,146 |
 | Banishment | 0.80% | ~1,018 |
 | Deprogramming | 0.80% | ~1,018 |
 | Spelunker | 0.80% | ~1,018 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,272 (Ranked 84)  
+Progressed: 127,297 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
-| 2023-12-15 | 127,272 | 3 |
+| 2023-12-15 | 127,297 | 3 |
 ## Awards
 Max (Character Customization): 7,718  (Ranked 51)  
 Sum: 20,477 (Ranked 59)  

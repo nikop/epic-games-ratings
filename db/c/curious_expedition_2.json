@@ -5,9 +5,9 @@
   "Ranking_Rating": 174,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
-  "Ranking_EOS_Progress": 348,
+  "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 347,
+  "EOS_Progressed": 348,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -360,6 +360,11 @@
       "Time": "2023-12-15T12:10:28.724093+00:00",
       "NumProgressed": 347,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T14:09:55.1147723+00:00",
+      "NumProgressed": 348,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -507,7 +512,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ach-campaign-story2",
@@ -521,9 +526,9 @@
       "ID": "ach-campaign-story3",
       "SetID": "17ih7ma",
       "Name": "O Captain My Captain",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 104
     },
     {
       "ID": "ach-cartography-complete",
@@ -539,7 +544,7 @@
       "Name": "Roll to Save",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach-discover-locations",
@@ -547,7 +552,7 @@
       "Name": "Cartographer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ach-discover-locations-high",
@@ -697,9 +702,9 @@
       "ID": "ach-meetGhost",
       "SetID": "17ih7ma",
       "Name": "Spooky!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 125
     },
     {
       "ID": "ach-noEquipment",
@@ -715,7 +720,7 @@
       "Name": "Insomnia",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ach-pacifist-goals",
@@ -723,7 +728,7 @@
       "Name": "Nahua Seeker",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach-paleMask-cure",
@@ -850,7 +855,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 347,
+      "Progressed": 348,
       "Completed": 1
     }
   ],
@@ -858,8 +863,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:15:48.6443017+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:09:55.1147721+00:00",
   "LastUpdate_AppInfo": "2023-12-09T12:59:37.4155215+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:02:12.647997+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:15:48.6443374+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:56:51.1439661+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:09:55.1148077+00:00"
 }

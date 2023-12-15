@@ -6,7 +6,7 @@
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 66,
-  "Ranking_EOS_Completed": 168,
+  "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
@@ -8773,9 +8773,9 @@
       "Count": 3571
     }
   ],
-  "EOS_Progressed": 240606,
+  "EOS_Progressed": 240626,
   "EOS_Completed": 2529,
-  "EOS_NewPlayers": 1720,
+  "EOS_NewPlayers": 1730,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -35718,6 +35718,11 @@
       "Time": "2023-12-15T13:15:53.0334842+00:00",
       "NumProgressed": 240606,
       "NumCompleted": 2529
+    },
+    {
+      "Time": "2023-12-15T14:09:58.9916534+00:00",
+      "NumProgressed": 240626,
+      "NumCompleted": 2529
     }
   ],
   "TotalAchievements": 546,
@@ -40047,9 +40052,9 @@
       "ID": "objective_completed_598",
       "SetID": "415jc5c",
       "Name": "The Overgrown Grove",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 414
     },
     {
       "ID": "objective_completed_673",
@@ -40096,21 +40101,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 206880,
+      "Progressed": 206900,
       "Completed": 3992
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 240606,
+      "Progressed": 240626,
       "Completed": 2529
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-15T07:58:06.4585191+00:00",
-  "LastChanged_Achievements": "2023-12-15T13:15:53.0334838+00:00",
+  "LastChanged_Achievements": "2023-12-15T14:09:58.9916531+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:03:41.5285544+00:00",
-  "LastUpdate_Achievements": "2023-12-15T13:15:53.0357806+00:00"
+  "LastUpdate_Ratings": "2023-12-15T13:57:55.0908403+00:00",
+  "LastUpdate_Achievements": "2023-12-15T14:09:58.9939954+00:00"
 }
