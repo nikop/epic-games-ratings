@@ -23,18 +23,18 @@ Number of Ratings: 281  (23.09.2022)
 | I'm the Captain Now | 0.60% | ~41 |
 | Marathon | 0.60% | ~41 |
 | Diamond in the Rough | 0.60% | ~41 |
-| Hook, Line and Sinker | 0.50% | ~34 |
+| Hook, Line and Sinker | 0.50% | ~35 |
 | More than a Tourist | 0.40% | ~28 |
 | No Fin left to give | 0.40% | ~28 |
 | Gonna Need a Bigger Boat | 0.30% | ~21 |
 | Aguas Claras Conquistador | 0.30% | ~19 |
+| Lake Me up Before You Go Go | 0.20% | ~14 |
 | Big Fish Small Pond | 0.20% | ~14 |
 | Live by the Rod, Diez by the Rod! | 0.20% | ~13 |
 | All Good Kings Must Come to an End | 0.20% | ~13 |
 | Three Square Meals | 0.20% | ~13 |
 | Head for Heights | 0.10% | ~7 |
 | The Beetles | 0.10% | ~7 |
-| Lake Me up Before You Go Go | 0.10% | ~7 |
 | Taylor Made | 0.10% | ~7 |
 | Lost and Flounder | 0.10% | ~7 |
 | Golden Ridge Ranger | 0.10% | ~7 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,899 (Ranked 184)  
+Progressed: 6,901 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,14 +286,14 @@ Completed: 0 (0.00%) (Ranked 376)
 | 2023-12-12 | 6,776 | 0 |
 | 2023-12-13 | 6,783 | 0 |
 | 2023-12-14 | 6,897 | 0 |
-| 2023-12-15 | 6,899 | 0 |
+| 2023-12-15 | 6,901 | 0 |
 ## Awards
-Max (Relaxing): 38  (Ranked 469)  
-Sum: 201 (Ranked 404)  
-Diff (max vs sum): 65  
+Max (Relaxing): 39  (Ranked 465)  
+Sum: 202 (Ranked 404)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 38 |
+| This game is Relaxing | 39 |
 | This game is Great for Beginners | 37 |
 | This game is Highly Recommended | 36 |
 | This game has Amazing Storytelling | 35 |
@@ -399,3 +399,4 @@ Diff (max vs sum): 65
 | 2023-12-05 | 4.20 | - | 38 | 199 |
 | 2023-12-12 | 4.20 | - | 38 | 200 |
 | 2023-12-13 | 4.20 | - | 38 | 201 |
+| 2023-12-15 | 4.20 | - | 39 | 202 |

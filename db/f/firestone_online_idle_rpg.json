@@ -3,11 +3,11 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 1008,
-  "Ranking_Popularity": 469,
+  "Ranking_Popularity": 471,
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 211,
-  "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_Completed": 318,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -625,9 +625,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3411,
+  "EOS_Progressed": 3412,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 290,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9800,6 +9800,11 @@
       "Time": "2023-12-15T00:04:51.6855438+00:00",
       "NumProgressed": 3411,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T01:53:34.314208+00:00",
+      "NumProgressed": 3412,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -9923,7 +9928,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "dragonslayer",
@@ -9979,7 +9984,7 @@
       "Name": "Enlightenment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "exoticmerchant",
@@ -10107,7 +10112,7 @@
       "Name": "Lieutenant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "lockandload",
@@ -10209,9 +10214,9 @@
       "ID": "prestigiousx10",
       "SetID": "3nl4bcg",
       "Name": "Prestigious x10",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 682
+      "UsersEstimate": 717
     },
     {
       "ID": "relicofthepast",
@@ -10267,7 +10272,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "thealchemist",
@@ -10371,7 +10376,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3172
+      "UsersEstimate": 3173
     },
     {
       "ID": "warmachinesarmy",
@@ -10410,7 +10415,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3411,
+      "Progressed": 3412,
       "Completed": 2
     }
   ],
@@ -10418,8 +10423,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-14T18:58:46.7589357+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:04:51.6855435+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:53:34.3142077+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:16.4016448+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:59:12.4186491+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:04:51.685653+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:47:50.0010252+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:53:34.3143072+00:00"
 }

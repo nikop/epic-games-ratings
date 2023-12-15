@@ -4,7 +4,7 @@
   "ProductSlug": "through-the-woods-4dad49",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 499,
+  "Ranking_EOS_NewPlayers": 500,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-10-28T17:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:48.4818801+00:00",
   "LastChanged": "2023-03-31T05:57:48.4818802+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:34.2870213+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:57:30.7583744+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:08:07.8105155+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:46:01.1252709+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:57:00.7137083+00:00"
 }

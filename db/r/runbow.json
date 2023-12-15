@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252140,
+  "EOS_Progressed": 252141,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
@@ -21282,6 +21282,11 @@
       "Time": "2023-12-14T23:10:44.0164943+00:00",
       "NumProgressed": 252140,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-15T01:59:00.6325372+00:00",
+      "NumProgressed": 252141,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -21317,7 +21322,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52949
+      "UsersEstimate": 52950
     },
     {
       "ID": "blotbuster",
@@ -21469,7 +21474,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133634
+      "UsersEstimate": 133635
     },
     {
       "ID": "indegestible",
@@ -21493,7 +21498,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65556
+      "UsersEstimate": 65557
     },
     {
       "ID": "justABit",
@@ -21653,14 +21658,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40342
+      "UsersEstimate": 40343
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252140,
+      "Progressed": 252141,
       "Completed": 6
     }
   ],
@@ -21668,8 +21673,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:10:23.0930328+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:59:00.6325365+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.3008765+00:00",
-  "LastUpdate_Ratings": "2023-12-15T00:00:47.4573952+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:10:23.0931564+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:49:30.7386191+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:59:00.6326496+00:00"
 }

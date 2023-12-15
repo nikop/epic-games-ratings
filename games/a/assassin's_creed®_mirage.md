@@ -1,11 +1,11 @@
 # Assassin's Creed® Mirage
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-mirage)  
 [View Rawdata](../../db/a/assassin's_creed®_mirage.json)  
-Rating: 4.45 (Ranked 670)  
+Rating: 4.45 (Ranked 671)  
 ## Awards
-Max (Relaxing): 186  (Ranked 303)  
+Max (Relaxing): 186  (Ranked 304)  
 Sum: 1,538 (Ranked 237)  
-Diff (max vs sum): 66  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 186 |

@@ -4,8 +4,8 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1540,9 +1540,9 @@
       "ID": "ach_main01begin_storm",
       "SetID": "4hg22ll",
       "Name": "Thalya\u0027s Concentrated Fury",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 378
+      "UsersEstimate": 384
     },
     {
       "ID": "ach_main02horde_completed",
@@ -1556,9 +1556,9 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 456
+      "UsersEstimate": 461
     },
     {
       "ID": "ach_main02horde_traps",
@@ -2019,8 +2019,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:06:38.8448367+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:55:27.4417376+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:57:17.973782+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:06:38.8448931+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:45:47.2450582+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:55:27.4417924+00:00"
 }

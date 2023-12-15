@@ -6,13 +6,13 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,922 |
-| Keeping it classy | 29.00% | ~913 |
-| Welcome to the family | 22.00% | ~693 |
-| The finer things in life | 20.00% | ~630 |
-| Backpacker | 15.00% | ~472 |
-| Go with the Flow | 14.00% | ~441 |
-| The flip trick crown jewel | 11.00% | ~346 |
+| You're free now! | 61.00% | ~1,924 |
+| Keeping it classy | 29.00% | ~915 |
+| Welcome to the family | 22.00% | ~694 |
+| The finer things in life | 20.00% | ~631 |
+| Backpacker | 14.00% | ~442 |
+| Go with the Flow | 14.00% | ~442 |
+| The flip trick crown jewel | 11.00% | ~347 |
 | Keep the dream alive | 10.00% | ~315 |
 | Plastic Surgeon | 10.00% | ~315 |
 | The hard way | 10.00% | ~315 |
@@ -44,7 +44,7 @@ Number of Ratings: 111  (23.09.2022)
 | G.O.A.T. status | 4.00% | ~126 |
 | Hoarder | 4.00% | ~126 |
 | Pew-Pew | 4.00% | ~126 |
-| Many plys later... | 3.00% | ~94 |
+| Many plys later... | 3.00% | ~95 |
 | Cross lock country | 2.00% | ~63 |
 | That was wheelie fun | 2.00% | ~63 |
 | Dipped! | 1.00% | ~32 |
@@ -55,8 +55,8 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,150 (Ranked 214)  
-Completed: 2 (0.06%) (Ranked 319)  
+Progressed: 3,154 (Ranked 214)  
+Completed: 2 (0.06%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -269,10 +269,10 @@ Completed: 2 (0.06%) (Ranked 319)
 | 2023-12-12 | 3,114 | 2 |
 | 2023-12-13 | 3,118 | 2 |
 | 2023-12-14 | 3,148 | 2 |
-| 2023-12-15 | 3,150 | 2 |
+| 2023-12-15 | 3,154 | 2 |
 ## Awards
-Max (Great for Quick Sessions): 59  (Ranked 420)  
-Sum: 563 (Ranked 320)  
+Max (Great for Quick Sessions): 59  (Ranked 421)  
+Sum: 563 (Ranked 321)  
 Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |

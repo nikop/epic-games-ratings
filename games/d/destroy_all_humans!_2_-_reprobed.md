@@ -12,9 +12,9 @@ Number of Ratings: 90  (23.09.2022)
 | Furon Fashion | 28.00% | ~17 |
 | Shop Til They Drop | 27.00% | ~16 |
 | Earthly Pleasures | 20.00% | ~12 |
+| Upgreatest | 18.00% | ~11 |
 | I Look Up As I Walk to Takoshima | 17.00% | ~10 |
-| Upgreatest | 15.00% | ~9 |
-| Bodied Sattva | 13.00% | ~8 |
+| Bodied Sattva | 15.00% | ~9 |
 | Pimp My Raid | 13.00% | ~8 |
 | Perfect Probulator | 10.00% | ~6 |
 | Cult Following | 10.00% | ~6 |

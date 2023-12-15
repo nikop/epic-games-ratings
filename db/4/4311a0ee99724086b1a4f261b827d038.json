@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -657,10 +657,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 213,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-12-15T01:51:42.9452113+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 215,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 213,
+  "NumberOfAwards": 215,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -704,7 +710,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Amazing Characters",
@@ -722,12 +728,12 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 22
+      "Count": 23
     }
   ],
-  "EOS_Progressed": 237624,
+  "EOS_Progressed": 237632,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1132,
+  "EOS_NewPlayers": 1134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17430,6 +17436,11 @@
       "Time": "2023-12-15T00:10:36.1074095+00:00",
       "NumProgressed": 237624,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T01:59:14.4532531+00:00",
+      "NumProgressed": 237632,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -17498,7 +17509,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49901
+      "UsersEstimate": 49903
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -17506,7 +17517,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21386
+      "UsersEstimate": 21387
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -17514,7 +17525,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 11881
+      "UsersEstimate": 11882
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -17530,7 +17541,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4752
+      "UsersEstimate": 4753
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -17554,7 +17565,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4752
+      "UsersEstimate": 4753
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -17562,7 +17573,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4752
+      "UsersEstimate": 4753
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -17626,7 +17637,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33267
+      "UsersEstimate": 33268
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -17642,7 +17653,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4752
+      "UsersEstimate": 4753
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -17698,7 +17709,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59406
+      "UsersEstimate": 59408
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -17706,23 +17717,23 @@
       "Name": "Raiders Retreat Complete",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     }
   ],
   "AchievementSets": [
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 237624,
+      "Progressed": 237632,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2023-12-13T11:02:58.9435598+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:10:36.1074093+00:00",
+  "LastChanged": "2023-12-15T01:51:42.945211+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:59:14.4532527+00:00",
   "LastUpdate_AppInfo": "2023-12-08T03:57:08.4919895+00:00",
-  "LastUpdate_Ratings": "2023-12-15T00:03:06.2167883+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:10:36.1075006+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:51:42.9452116+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:59:14.4533762+00:00"
 }

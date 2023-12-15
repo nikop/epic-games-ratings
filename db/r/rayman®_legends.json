@@ -3,11 +3,11 @@
   "Name": "RAYMAN\u00AE LEGENDS",
   "ProductSlug": "rayman-legends",
   "Ranking_Rating": 91,
-  "Ranking_Popularity": 248,
-  "Ranking_PopularitySum": 353,
+  "Ranking_Popularity": 249,
+  "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 499,
+  "Ranking_EOS_NewPlayers": 500,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2019-11-29T11:00:00+00:00",
@@ -1201,6 +1201,6 @@
   "FirstSeen": "2022-07-22T20:31:21.8622945+00:00",
   "LastChanged": "2023-12-14T13:05:44.2841122+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:26.0926227+00:00",
-  "LastUpdate_Ratings": "2023-12-15T00:00:20.086374+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:05:49.7946689+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:49:02.1422199+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:54:35.4853068+00:00"
 }

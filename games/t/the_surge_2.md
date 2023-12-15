@@ -19,7 +19,7 @@ Rating: 4.25 (Ranked 890)
 | Luminary | 23.00% | ~514 |
 | True Survivor | 22.00% | ~492 |
 | It's a Trap | 22.00% | ~492 |
-| Offensive Defense | 20.00% | ~447 |
+| Offensive Defense | 21.00% | ~469 |
 | Shocking | 20.00% | ~447 |
 | Unforeseeable Consequences | 20.00% | ~447 |
 | Court Martial | 19.00% | ~425 |
@@ -64,7 +64,7 @@ Rating: 4.25 (Ranked 890)
 | Swiss Army Drone | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,235 (Ranked 228)  
-Completed: 13 (0.58%) (Ranked 199)  
+Completed: 13 (0.58%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

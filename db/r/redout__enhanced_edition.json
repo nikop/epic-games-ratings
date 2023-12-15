@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237177,
+  "EOS_Progressed": 237178,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -25322,6 +25322,11 @@
       "Time": "2023-12-15T00:05:31.663585+00:00",
       "NumProgressed": 237177,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-15T01:54:16.6383407+00:00",
+      "NumProgressed": 237178,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -25365,7 +25370,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26089
+      "UsersEstimate": 26090
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -25421,7 +25426,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47435
+      "UsersEstimate": 47436
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -25469,7 +25474,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78268
+      "UsersEstimate": 78269
     },
     {
       "ID": "NOBUNAGA",
@@ -25604,15 +25609,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 237177,
+      "Progressed": 237178,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:05:31.6635845+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:54:16.63834+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.1696277+00:00",
-  "LastUpdate_Ratings": "2023-12-15T00:00:46.1603036+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:05:31.6637624+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:49:29.4076939+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:54:16.6384478+00:00"
 }

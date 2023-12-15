@@ -3,11 +3,11 @@
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
   "Ranking_Rating": 950,
-  "Ranking_Popularity": 373,
+  "Ranking_Popularity": 374,
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -883,10 +883,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 690,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2023-12-15T01:47:45.4084647+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 691,
+      "NumberOfAwardsMax": 97
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 690,
+  "NumberOfAwards": 691,
   "NumberOfAwardsMax": 97,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -894,7 +900,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -953,7 +959,7 @@
   ],
   "EOS_Progressed": 7423,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9753,9 +9759,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
-  "LastChanged": "2023-12-14T01:45:04.2895568+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:10:14.020926+00:00",
+  "LastChanged": "2023-12-15T01:47:45.4084645+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:58:51.3024205+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:03.4642275+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:59:08.1691041+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:10:14.0210056+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:47:45.408465+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:58:51.3025094+00:00"
 }

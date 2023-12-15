@@ -17,10 +17,10 @@ Rating: 4.35 (Ranked 800)
 | Florette Duval | 54.00% | ~244 |
 | Order and Method | 52.00% | ~235 |
 | The Altercation | 50.00% | ~226 |
-| Truth from Within | 48.00% | ~216 |
+| Truth from Within | 49.00% | ~221 |
 | The Major | 47.00% | ~212 |
+| Curious and Beautiful | 45.00% | ~203 |
 | Comtesse Margaux de Vos | 45.00% | ~203 |
-| Curious and Beautiful | 44.00% | ~198 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~198 |
 | The Interrogations | 44.00% | ~198 |
 | Well-acquainted | 41.00% | ~185 |

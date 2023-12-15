@@ -6,16 +6,16 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~73,846 |
-| Powergamer | 27.00% | ~68,753 |
-| Write that down | 25.00% | ~63,660 |
-| Barely scratched the surface | 25.00% | ~63,660 |
-| Guns, lots of guns | 13.00% | ~33,103 |
-| Collector | 12.00% | ~30,557 |
+| I will finish what you started | 29.00% | ~73,848 |
+| Powergamer | 27.00% | ~68,755 |
+| Write that down | 25.00% | ~63,662 |
+| Barely scratched the surface | 25.00% | ~63,662 |
+| Guns, lots of guns | 13.00% | ~33,104 |
+| Collector | 12.00% | ~30,558 |
 | Elementary! | 9.00% | ~22,918 |
-| Griever | 8.00% | ~20,371 |
-| Pumpkin Jack | 8.00% | ~20,371 |
-| Wake up! | 8.00% | ~20,371 |
+| Griever | 8.00% | ~20,372 |
+| Pumpkin Jack | 8.00% | ~20,372 |
+| Wake up! | 8.00% | ~20,372 |
 | It's honest work | 7.00% | ~17,825 |
 | Me smart | 6.00% | ~15,279 |
 | Trash compactor | 6.00% | ~15,279 |
@@ -46,7 +46,7 @@ Number of Ratings: 33  (23.09.2022)
 | It's blue, always blue | 0.80% | ~2,037 |
 | Let's try another | 0.80% | ~2,037 |
 | Home run | 0.80% | ~2,037 |
-| I have the high ground | 0.70% | ~1,782 |
+| I have the high ground | 0.70% | ~1,783 |
 | Enjoy these little moments | 0.50% | ~1,273 |
 | Who wouldn't love a troll? | 0.50% | ~1,273 |
 | Irondec | 0.40% | ~1,019 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~509 |
 | Memory 5 | 0.10% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,642 (Ranked 61)  
+Progressed: 254,647 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,11 +298,11 @@ Completed: 7 (0.00%) (Ranked 376)
 | 2023-12-12 | 254,488 | 7 |
 | 2023-12-13 | 254,568 | 7 |
 | 2023-12-14 | 254,640 | 7 |
-| 2023-12-15 | 254,642 | 7 |
+| 2023-12-15 | 254,647 | 7 |
 ## Awards
-Max (Character Customization): 92  (Ranked 382)  
+Max (Character Customization): 92  (Ranked 383)  
 Sum: 92 (Ranked 461)  
-Diff (max vs sum): -79  
+Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 92 |

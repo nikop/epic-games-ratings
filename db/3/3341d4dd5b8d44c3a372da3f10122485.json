@@ -2,10 +2,10 @@
   "ID": "3341d4dd5b8d44c3a372da3f10122485",
   "Name": "Samorost 2",
   "ProductSlug": "samorost-2-1b9bb1",
-  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153,
-  "EOS_Completed": 70,
-  "EOS_NewPlayers": 10,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 45.75,
+  "EOS_Progressed": 154,
+  "EOS_Completed": 71,
+  "EOS_NewPlayers": 11,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 46.1,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -1069,6 +1069,11 @@
       "Time": "2023-12-14T18:08:59.5308101+00:00",
       "NumProgressed": 153,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-15T01:57:43.0275409+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 71
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -1081,7 +1086,7 @@
       "Name": "Budoir",
       "Percentage": 70,
       "XP": 80,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Intro",
@@ -1089,7 +1094,7 @@
       "Name": "Intro",
       "Percentage": 95,
       "XP": 75,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Kanalizace",
@@ -1097,7 +1102,7 @@
       "Name": "Sewers",
       "Percentage": 82,
       "XP": 75,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Kompotarna",
@@ -1105,7 +1110,7 @@
       "Name": "Pantry",
       "Percentage": 83,
       "XP": 80,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Konec",
@@ -1113,15 +1118,15 @@
       "Name": "Happy End",
       "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 80,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "Majak",
@@ -1129,23 +1134,23 @@
       "Name": "Lighthouse",
       "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 75,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 80,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "Poklop",
@@ -1153,7 +1158,7 @@
       "Name": "Hatch",
       "Percentage": 88,
       "XP": 75,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Snekoun",
@@ -1161,7 +1166,7 @@
       "Name": "Snailman",
       "Percentage": 88,
       "XP": 80,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Sopouch",
@@ -1184,14 +1189,14 @@
     {
       "ID": "823jm6g",
       "IsBase": true,
-      "Progressed": 153,
-      "Completed": 70
+      "Progressed": 154,
+      "Completed": 71
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:09:08.5714902+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:57:43.0275403+00:00",
   "LastUpdate_AppInfo": "2023-12-09T04:57:13.4423151+00:00",
-  "LastUpdate_Ratings": "2023-12-15T00:02:58.4913455+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:09:08.5715047+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:51:35.0286756+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:57:43.0275542+00:00"
 }

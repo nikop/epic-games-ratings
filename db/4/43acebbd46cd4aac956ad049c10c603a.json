@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 981,
+  "EOS_Progressed": 984,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2492,6 +2492,11 @@
       "Time": "2023-12-15T00:07:09.3557285+00:00",
       "NumProgressed": 981,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T01:55:58.9946865+00:00",
+      "NumProgressed": 984,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2504,7 +2509,7 @@
       "Name": "Ab Aeterno",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "AbInitio",
@@ -2592,7 +2597,7 @@
       "Name": "Desolate Island",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Discovery",
@@ -2640,7 +2645,7 @@
       "Name": "Gnothi Seauton",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "GoodCitizen",
@@ -2656,7 +2661,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "HighPlain",
@@ -2680,7 +2685,7 @@
       "Name": "Just One Lap",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "LordOfTheFiles",
@@ -2688,7 +2693,7 @@
       "Name": "Lord of the Files",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "LostMarshes",
@@ -2696,7 +2701,7 @@
       "Name": "Lost Marshes",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "MistressOfRiddles",
@@ -2726,9 +2731,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 157
     },
     {
       "ID": "NewBeginning",
@@ -2758,9 +2763,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 207
     },
     {
       "ID": "Persistent",
@@ -2792,7 +2797,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "RenaissanceRobot",
@@ -2840,7 +2845,7 @@
       "Name": "Southern Coast",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "TeamSpirit",
@@ -2848,7 +2853,7 @@
       "Name": "Team Spirit",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "TextAdventurer",
@@ -2880,7 +2885,7 @@
       "Name": "The Future",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "TheHardWay",
@@ -2920,7 +2925,7 @@
       "Name": "Touch Grass",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "TrevorsBiographer",
@@ -2960,7 +2965,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "YourBiggestFan",
@@ -2968,14 +2973,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 981,
+      "Progressed": 984,
       "Completed": 1
     }
   ],
@@ -2983,8 +2988,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:07:09.355728+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:55:58.9946862+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-15T00:01:18.9824101+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:07:09.3557857+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:50:04.3041755+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:55:58.9947446+00:00"
 }

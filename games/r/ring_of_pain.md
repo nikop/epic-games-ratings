@@ -18,6 +18,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Defeat The Dark | 0.60% | ~1,446 |
 | Goodbye, Frog Friend | 0.60% | ~1,446 |
 | A Donation | 0.60% | ~1,446 |
+| Deflection | 0.60% | ~1,446 |
 | A Quick Escape | 0.60% | ~1,446 |
 | Explorer | 0.60% | ~1,446 |
 | An Offering | 0.60% | ~1,446 |
@@ -33,7 +34,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Spine Breaker | 0.50% | ~1,205 |
 | Shootout | 0.50% | ~1,205 |
 | C-C-Combo | 0.50% | ~1,205 |
-| Deflection | 0.50% | ~1,205 |
 | Toxic | 0.50% | ~1,205 |
 | Sneaky | 0.50% | ~1,205 |
 | Expensive Look | 0.50% | ~13 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,040 (Ranked 65)  
+Progressed: 241,043 (Ranked 65)  
 Completed: 298 (0.12%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -384,14 +384,15 @@ Completed: 298 (0.12%) (Ranked 288)
 | 2023-12-12 | 240,936 | 296 |
 | 2023-12-13 | 240,984 | 298 |
 | 2023-12-14 | 241,040 | 298 |
+| 2023-12-15 | 241,043 | 298 |
 ## Awards
-Max (Quickly Understood Controls): 1,508  (Ranked 134)  
-Sum: 11,730 (Ranked 86)  
+Max (Quickly Understood Controls): 1,510  (Ranked 134)  
+Sum: 11,732 (Ranked 86)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,534 |
-| This game has Quickly Understood Controls | 1,508 |
+| This game has Quickly Understood Controls | 1,510 |
 | This game is Relaxing | 1,440 |
 | This game has Challenging Combat | 1,439 |
 | This game is Extremely Fun | 1,419 |
@@ -635,3 +636,4 @@ Diff (max vs sum): 48
 | 2023-12-12 | 4.58 | - | 1,507 | 11,727 |
 | 2023-12-13 | 4.58 | - | 1,508 | 11,729 |
 | 2023-12-14 | 4.58 | - | 1,508 | 11,730 |
+| 2023-12-15 | 4.58 | - | 1,510 | 11,732 |

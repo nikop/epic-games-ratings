@@ -2,9 +2,9 @@
   "ID": "901880c636ef456e936d376fbe089f11",
   "Name": "Coffee Talk Episode 2 - Hibiscus and Butterfly",
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
-  "Ranking_EOS_Progress": 440,
+  "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113,
+  "EOS_Progressed": 114,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
@@ -589,6 +589,11 @@
       "Time": "2023-12-14T21:03:44.3167581+00:00",
       "NumProgressed": 113,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T01:53:06.0061352+00:00",
+      "NumProgressed": 114,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -600,7 +605,7 @@
       "Name": "Barista Trainee",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_25_DRINK_CHALLENGEMODE",
@@ -614,7 +619,7 @@
       "ID": "ACH_40075_KM",
       "SetID": "8h8m55b",
       "Name": "40,075Km",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 21
     },
@@ -640,7 +645,7 @@
       "Name": "Bad Memory",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_BAD_REVIEW",
@@ -664,7 +669,7 @@
       "Name": "First Brew",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_BREW_LATTEART_FIRST_TIME",
@@ -688,7 +693,7 @@
       "Name": "Child\u2019s Play",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_COLD_SHOULDERS",
@@ -782,9 +787,9 @@
       "ID": "ACH_HARDBOILED_ADVICE",
       "SetID": "8h8m55b",
       "Name": "A Hardboiled Advice",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_HOW_I_MET_YOUR_ANCESTOR",
@@ -840,7 +845,7 @@
       "Name": "Welcome to Coffee Talk",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_NOTHING_TO_SHOW",
@@ -928,7 +933,7 @@
       "Name": "Let me start over",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -1023,14 +1028,14 @@
     {
       "ID": "8h8m55b",
       "IsBase": true,
-      "Progressed": 113,
+      "Progressed": 114,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:04:24.5691923+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:53:06.0061347+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:55.8022632+00:00",
-  "LastUpdate_Ratings": "2023-12-15T00:01:30.854398+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:04:24.5692408+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:50:16.1350224+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:53:06.006174+00:00"
 }

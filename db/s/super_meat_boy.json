@@ -3,11 +3,11 @@
   "Name": "Super Meat Boy",
   "ProductSlug": "super-meat-boy",
   "Ranking_Rating": 200,
-  "Ranking_Popularity": 388,
+  "Ranking_Popularity": 390,
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 499,
+  "Ranking_EOS_NewPlayers": 500,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2010-10-20T15:00:00+00:00",
@@ -477,6 +477,6 @@
   "FirstSeen": "2022-07-22T20:25:39.3039474+00:00",
   "LastChanged": "2023-12-04T03:00:40.1327541+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.5308853+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:58:08.1689162+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:07:11.5252987+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:46:41.7792613+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:56:01.2558075+00:00"
 }

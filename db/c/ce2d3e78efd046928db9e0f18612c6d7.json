@@ -2,10 +2,10 @@
   "ID": "ce2d3e78efd046928db9e0f18612c6d7",
   "Name": "Hanoi Puzzles - Solid Match",
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
-  "Ranking_EOS_Progress": 470,
+  "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
     "PcReleaseDate": "2020-12-16T14:30:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83,
+  "EOS_Progressed": 84,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 13.25,
+  "EOS_Completed_Percentage": 13.1,
   "EosHistory": [
     {
       "Time": "2023-11-02T21:11:02.0754149+00:00",
@@ -429,6 +429,11 @@
       "Time": "2023-12-12T16:10:32.7556006+00:00",
       "NumProgressed": 83,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-15T01:59:12.971564+00:00",
+      "NumProgressed": 84,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-11-02T15:09:10.4117013+00:00",
@@ -441,7 +446,7 @@
       "Name": "First tower built",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "02_ACHIEVEMENT_Level_10",
@@ -449,13 +454,13 @@
       "Name": "Hanoi beginner",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "03_ACHIEVEMENT_Level_20",
       "SetID": "6opd2eg",
       "Name": "A new challenge",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 42
     },
@@ -471,7 +476,7 @@
       "ID": "05_ACHIEVEMENT_Level_40",
       "SetID": "6opd2eg",
       "Name": "Ready for the next Challenge",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 40,
       "UsersEstimate": 33
     },
@@ -479,7 +484,7 @@
       "ID": "06_ACHIEVEMENT_Half_Complete",
       "SetID": "6opd2eg",
       "Name": "Complete Half of the game",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 75,
       "UsersEstimate": 38
     },
@@ -528,14 +533,14 @@
     {
       "ID": "6opd2eg",
       "IsBase": true,
-      "Progressed": 83,
+      "Progressed": 84,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:10:34.703728+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:59:12.9715637+00:00",
   "LastUpdate_AppInfo": "2023-12-12T07:57:15.5906005+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:59:44.56441+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:10:34.7037425+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:48:24.9304296+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:59:12.9715718+00:00"
 }

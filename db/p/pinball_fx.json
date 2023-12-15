@@ -3,11 +3,11 @@
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
   "Ranking_Rating": 998,
-  "Ranking_Popularity": 287,
+  "Ranking_Popularity": 288,
   "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2033,10 +2033,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 1616,
       "NumberOfAwardsMax": 207
+    },
+    {
+      "Time": "2023-12-15T01:52:18.2455682+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 1617,
+      "NumberOfAwardsMax": 207
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1616,
+  "NumberOfAwards": 1617,
   "NumberOfAwardsMax": 207,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2062,7 +2068,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 191
+      "Count": 192
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2119,9 +2125,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 283152,
+  "EOS_Progressed": 283163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 662,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29374,6 +29380,11 @@
       "Time": "2023-12-15T00:07:20.2279234+00:00",
       "NumProgressed": 283152,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T01:56:10.1499829+00:00",
+      "NumProgressed": 283163,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -29696,21 +29707,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 283152,
+      "Progressed": 283163,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 1311,
+      "Progressed": 1322,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2023-12-14T10:04:09.7169843+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:07:20.227923+00:00",
+  "LastChanged": "2023-12-15T01:52:18.245568+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:56:10.1499826+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.5678913+00:00",
-  "LastUpdate_Ratings": "2023-12-15T00:03:39.2603091+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:07:20.2280558+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:52:18.2455685+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:56:10.1500987+00:00"
 }

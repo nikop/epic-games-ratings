@@ -3,11 +3,11 @@
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 757,
-  "Ranking_Popularity": 432,
-  "Ranking_PopularitySum": 357,
+  "Ranking_Popularity": 433,
+  "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1327,9 +1327,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259346,
+  "EOS_Progressed": 259351,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24127,6 +24127,11 @@
       "Time": "2023-12-15T00:05:04.1373098+00:00",
       "NumProgressed": 259346,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T01:53:47.715353+00:00",
+      "NumProgressed": 259351,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -24138,7 +24143,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18154
+      "UsersEstimate": 18155
     },
     {
       "ID": "Act2",
@@ -24154,7 +24159,7 @@
       "Name": "The Strengthening",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "Act4",
@@ -24186,7 +24191,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80397
+      "UsersEstimate": 80399
     },
     {
       "ID": "BackHomeNTimes",
@@ -24194,7 +24199,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12967
+      "UsersEstimate": 12968
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -24250,7 +24255,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7780
+      "UsersEstimate": 7781
     },
     {
       "ID": "CreditLevel3",
@@ -24266,7 +24271,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12967
+      "UsersEstimate": 12968
     },
     {
       "ID": "CreedsInBank2",
@@ -24274,7 +24279,7 @@
       "Name": "Saver II",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "CreedsInBank3",
@@ -24306,7 +24311,7 @@
       "Name": "It\u0027s the last one, I swear",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "FullHomeExpansion",
@@ -24330,7 +24335,7 @@
       "Name": "Botanist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "GrowPlants1",
@@ -24346,7 +24351,7 @@
       "Name": "Green thumb II",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "GrowPlants3",
@@ -24378,7 +24383,7 @@
       "Name": "It took a while",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7780
+      "UsersEstimate": 7781
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -24410,7 +24415,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7780
+      "UsersEstimate": 7781
     },
     {
       "ID": "KillOtherWithMine",
@@ -24426,7 +24431,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59650
+      "UsersEstimate": 59651
     },
     {
       "ID": "KillOthers2",
@@ -24490,7 +24495,7 @@
       "Name": "Bricklayer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "OldCoinCollected",
@@ -24578,14 +24583,14 @@
       "Name": "Run the Economy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     }
   ],
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259346,
+      "Progressed": 259351,
       "Completed": 3
     }
   ],
@@ -24593,8 +24598,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-13T14:02:36.8931746+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:05:04.1373094+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:53:47.7153524+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:52.9725586+00:00",
-  "LastUpdate_Ratings": "2023-12-15T00:02:57.9587984+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:05:04.1375027+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:51:34.4632018+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:53:47.7154749+00:00"
 }

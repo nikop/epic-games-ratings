@@ -1267,9 +1267,9 @@
       "ID": "achSkillsAll",
       "SetID": "7ji07dj",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achSponsor1",
@@ -1371,9 +1371,9 @@
       "ID": "achWinRaceAll",
       "SetID": "7ji07dj",
       "Name": "Globetrotter",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achWinRaceBd",
@@ -1411,9 +1411,9 @@
       "ID": "achWinRaceWe",
       "SetID": "7ji07dj",
       "Name": "Polyglot Racer",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -1426,8 +1426,8 @@
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:09:58.3611285+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:58:35.279239+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:11.6032807+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:57:53.9730128+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:09:58.3611498+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:46:28.1851881+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:58:35.2792591+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1906,
+  "EOS_Progressed": 1914,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 550,
+  "EOS_NewPlayers": 551,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1649,6 +1649,11 @@
       "Time": "2023-12-15T00:07:57.1603767+00:00",
       "NumProgressed": 1906,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T01:56:49.7071459+00:00",
+      "NumProgressed": 1914,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1685,7 +1690,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 345
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1725,7 +1730,7 @@
       "Name": "Terrible Journey",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -1765,7 +1770,7 @@
       "Name": "Worthy Badge",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -1845,7 +1850,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 364
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -1861,7 +1866,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 421
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -2036,14 +2041,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1906,
+      "Progressed": 1914,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:07:57.1603761+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:56:49.7071452+00:00",
   "LastUpdate_AppInfo": "2023-12-12T11:56:59.8157094+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:58:24.9398201+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:07:57.1604106+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:46:59.1694324+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:56:49.7071793+00:00"
 }

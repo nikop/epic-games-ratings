@@ -7,8 +7,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Overgrown Library | 5.00% | ~908 |
-| Abandoned Settlement | 4.00% | ~726 |
-| Petrified Necropolis | 4.00% | ~726 |
+| Abandoned Settlement | 4.00% | ~727 |
+| Petrified Necropolis | 4.00% | ~727 |
 | Frosts | 3.00% | ~545 |
 | Land of Greed | 3.00% | ~545 |
 | Ominous Presence | 3.00% | ~545 |
@@ -25,21 +25,21 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 1.00% | ~182 |
 | Watchtower | 1.00% | ~182 |
 | The Scarlet Orchard | 1.00% | ~182 |
-| Homesick | 0.90% | ~163 |
-| A Real Challenge | 0.90% | ~163 |
+| Homesick | 0.90% | ~164 |
+| A Real Challenge | 0.90% | ~164 |
 | Ruined Armory | 0.80% | ~145 |
 | Bandit Camp | 0.80% | ~145 |
 | Levitating Monument | 0.80% | ~145 |
 | Monastery of the Holy Flame | 0.80% | ~145 |
 | Barren Lands | 0.70% | ~127 |
+| Statue of the Forefathers | 0.70% | ~127 |
 | Corrosive Torrent | 0.70% | ~127 |
 | Cursed Lands | 0.70% | ~127 |
 | Trade Baron | 0.70% | ~127 |
 | Ancient Battleground | 0.60% | ~109 |
 | Sparkdew Crystals | 0.60% | ~109 |
-| Statue of the Forefathers | 0.60% | ~109 |
+| Haunted Forest | 0.60% | ~109 |
 | Against All Odds | 0.50% | ~91 |
-| Haunted Forest | 0.50% | ~91 |
 | Flooded Mines | 0.50% | ~91 |
 | Serving Ale | 0.40% | ~73 |
 | Fishmen Ritual Site | 0.40% | ~73 |
@@ -48,10 +48,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Defying the Crown | 0.40% | ~73 |
 | Into the Forest | 0.40% | ~73 |
 | Fox Utopia | 0.40% | ~73 |
-| Efficient Explorer | 0.30% | ~54 |
-| Refinery | 0.30% | ~54 |
-| Dangerous Lands | 0.30% | ~54 |
-| Forbidden Lands | 0.30% | ~54 |
+| Efficient Explorer | 0.30% | ~55 |
+| Refinery | 0.30% | ~55 |
+| Dangerous Lands | 0.30% | ~55 |
+| Forbidden Lands | 0.30% | ~55 |
 | Feeding The People | 0.20% | ~36 |
 | Like a Machine | 0.20% | ~36 |
 | Paradise | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,157 (Ranked 147)  
+Progressed: 18,167 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,11 +305,11 @@ Completed: 39 (0.21%) (Ranked 260)
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
 | 2023-12-14 | 18,153 | 40 |
-| 2023-12-15 | 18,157 | 39 |
+| 2023-12-15 | 18,167 | 39 |
 ## Awards
-Max (Quickly Understood Controls): 442  (Ranked 227)  
+Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,259 (Ranked 175)  
-Diff (max vs sum): 52  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 442 |

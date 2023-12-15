@@ -1,25 +1,25 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,019)  
+Rating: 3.99 (Ranked 1,018)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,639 |
-| Titan's First Steps | 8.00% | ~11,639 |
-| Basic in Bulk | 7.00% | ~10,184 |
-| Tinkle of Coins | 7.00% | ~10,184 |
-| Disintermediation | 6.00% | ~8,729 |
-| It's Free Real Estate | 5.00% | ~7,274 |
-| Budding Merchant | 5.00% | ~7,274 |
-| Capitalism Ho! | 5.00% | ~7,274 |
-| One Easy Payment | 4.00% | ~5,819 |
-| Some Assembly Required | 4.00% | ~5,819 |
-| Another Satisfied Customer | 4.00% | ~5,819 |
-| Pretty Penny | 4.00% | ~5,819 |
-| One-Armed Bandit | 4.00% | ~5,819 |
-| Own the Means of Production | 4.00% | ~5,819 |
+| Sponsored by Argon | 8.00% | ~11,640 |
+| Titan's First Steps | 8.00% | ~11,640 |
+| Basic in Bulk | 7.00% | ~10,185 |
+| Tinkle of Coins | 7.00% | ~10,185 |
+| Disintermediation | 6.00% | ~8,730 |
+| It's Free Real Estate | 5.00% | ~7,275 |
+| Budding Merchant | 5.00% | ~7,275 |
+| Capitalism Ho! | 5.00% | ~7,275 |
+| One Easy Payment | 4.00% | ~5,820 |
+| Some Assembly Required | 4.00% | ~5,820 |
+| Another Satisfied Customer | 4.00% | ~5,820 |
+| Pretty Penny | 4.00% | ~5,820 |
+| One-Armed Bandit | 4.00% | ~5,820 |
+| Own the Means of Production | 4.00% | ~5,820 |
 | The Daily Grind | 3.00% | ~4,365 |
 | Bounty Hunters | 3.00% | ~4,365 |
 | Demand for Supplies | 3.00% | ~4,365 |
@@ -35,6 +35,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | On the Path to Greatness | 2.00% | ~2,910 |
 | A Notch Above the Rest | 2.00% | ~2,910 |
 | Cream of the Crop | 2.00% | ~2,910 |
+| Proud Paladin | 2.00% | ~2,910 |
 | Ascended | 2.00% | ~2,910 |
 | Above the Norm | 2.00% | ~2,910 |
 | Tax not Included | 2.00% | ~2,910 |
@@ -91,7 +92,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 2.00% | ~2,910 |
 | King's Blade | 2.00% | ~2,910 |
 | Top of the World | 1.00% | ~1,455 |
-| Proud Paladin | 1.00% | ~1,455 |
 | Constellated | 1.00% | ~1,455 |
 | A Ronin Reborn | 1.00% | ~1,455 |
 | The Free Encyclopedia | 1.00% | ~1,455 |
@@ -107,20 +107,20 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 1.00% | ~1,455 |
 | The Greatest Grind | 0.80% | ~1,164 |
 | All or Nothing! | 0.80% | ~1,164 |
-| Anything not Nailed Down | 0.70% | ~1,018 |
-| Marvels from the World Over | 0.70% | ~1,018 |
+| Anything not Nailed Down | 0.70% | ~1,019 |
+| Marvels from the World Over | 0.70% | ~1,019 |
 | Bane of Legends | 0.60% | ~873 |
 | Unleashed Potential | 0.60% | ~873 |
 | JACKPOT!!! | 0.60% | ~873 |
-| Ultimate Collector | 0.50% | ~727 |
+| Ultimate Collector | 0.50% | ~728 |
 | Oligarch Monarch | 0.40% | ~582 |
 | Merchant Extraordinaire | 0.40% | ~582 |
-| To Hell and Back | 0.30% | ~436 |
-| Cash Only Please | 0.30% | ~436 |
+| To Hell and Back | 0.30% | ~437 |
+| Cash Only Please | 0.30% | ~437 |
 | Capitalist Camaraderie | 0.20% | ~291 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,486 (Ranked 80)  
-Completed: 308 (0.21%) (Ranked 260)  
+Progressed: 145,502 (Ranked 80)  
+Completed: 309 (0.21%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -358,7 +358,7 @@ Completed: 308 (0.21%) (Ranked 260)
 | 2023-12-12 | 144,871 | 294 |
 | 2023-12-13 | 145,093 | 297 |
 | 2023-12-14 | 145,474 | 307 |
-| 2023-12-15 | 145,486 | 308 |
+| 2023-12-15 | 145,502 | 309 |
 ## Awards
 Max (Great for Beginners): 4,892  (Ranked 75)  
 Sum: 27,726 (Ranked 51)  

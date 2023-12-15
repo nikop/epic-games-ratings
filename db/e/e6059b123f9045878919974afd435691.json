@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1094,
+  "EOS_Progressed": 1095,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2854,6 +2854,11 @@
       "Time": "2023-12-14T19:10:06.8726071+00:00",
       "NumProgressed": 1094,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T01:59:24.3325255+00:00",
+      "NumProgressed": 1095,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2865,7 +2870,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2873,7 +2878,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2905,7 +2910,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3073,7 +3078,7 @@
       "Name": "Think Bullets Will Affect Her?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -3191,9 +3196,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "End the Infestation",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 88
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -3223,9 +3228,9 @@
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 317
+      "UsersEstimate": 307
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -3233,7 +3238,7 @@
       "Name": "1, 2, 3! Grandma!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -3241,7 +3246,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -3257,7 +3262,7 @@
       "Name": "Night Snack",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -3297,7 +3302,7 @@
       "Name": "The Last of Us",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -3313,7 +3318,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -3392,14 +3397,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1094,
+      "Progressed": 1095,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:10:45.6542532+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:59:24.3325251+00:00",
   "LastUpdate_AppInfo": "2023-12-08T02:20:37.1231344+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:57:23.0190582+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:10:45.6543125+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:45:52.7631899+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:59:24.3326032+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 1060,
+  "Ranking_Rating": 1061,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80607,
+  "EOS_Progressed": 80608,
   "EOS_Completed": 877,
-  "EOS_NewPlayers": 578,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -26678,6 +26678,11 @@
       "Time": "2023-12-15T00:04:17.2840745+00:00",
       "NumProgressed": 80607,
       "NumCompleted": 877
+    },
+    {
+      "Time": "2023-12-15T01:52:58.2356293+00:00",
+      "NumProgressed": 80608,
+      "NumCompleted": 877
     }
   ],
   "TotalAchievements": 25,
@@ -26705,7 +26710,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15316
     },
     {
       "ID": "Audiophile",
@@ -26761,7 +26766,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16121
+      "UsersEstimate": 16122
     },
     {
       "ID": "Hearty",
@@ -26793,7 +26798,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16927
+      "UsersEstimate": 16928
     },
     {
       "ID": "Meaty",
@@ -26809,7 +26814,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15316
     },
     {
       "ID": "Nice Try",
@@ -26825,7 +26830,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5642
+      "UsersEstimate": 5643
     },
     {
       "ID": "Piano Man",
@@ -26849,7 +26854,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5642
+      "UsersEstimate": 5643
     },
     {
       "ID": "Spicy",
@@ -26888,7 +26893,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 80607,
+      "Progressed": 80608,
       "Completed": 877
     }
   ],
@@ -26896,8 +26901,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:04:17.2840741+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:52:58.2356288+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:29.3194806+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:57:25.6816962+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:04:17.2842383+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:45:55.5804539+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:52:58.2357816+00:00"
 }

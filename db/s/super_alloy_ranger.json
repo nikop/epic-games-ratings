@@ -2,9 +2,9 @@
   "ID": "6bd7d2e32a724e119b9e4a2254aeec33",
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
-  "Ranking_EOS_Progress": 430,
+  "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120,
+  "EOS_Progressed": 121,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -596,6 +596,11 @@
       "Time": "2023-12-14T13:13:06.1365595+00:00",
       "NumProgressed": 120,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T01:56:48.4192503+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -709,9 +714,9 @@
       "ID": "Achi_14",
       "SetID": "51a97k7",
       "Name": "Break Through the Forbidden",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "Achi_15",
@@ -743,7 +748,7 @@
       "Name": "Gear Up",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Achi_19",
@@ -773,9 +778,9 @@
       "ID": "Achi_22",
       "SetID": "51a97k7",
       "Name": "Iceberg Theory",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "Achi_23",
@@ -823,7 +828,7 @@
       "Name": "Ka-Ching!",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Achi_29",
@@ -839,7 +844,7 @@
       "Name": "A Grand Show",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Achi_31",
@@ -869,9 +874,9 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Achi_35",
@@ -909,9 +914,9 @@
       "ID": "Achi_39",
       "SetID": "51a97k7",
       "Name": "Proliferation",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "Achi_40",
@@ -989,9 +994,9 @@
       "ID": "Achi_49",
       "SetID": "51a97k7",
       "Name": "Burn After Reading",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "Achi_50",
@@ -1006,7 +1011,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 1
     }
   ],
@@ -1014,8 +1019,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:07:55.8060632+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:56:48.4192498+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:46.3254839+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:59:43.6629883+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:07:55.8060958+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:48:23.9988617+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:56:48.4192874+00:00"
 }

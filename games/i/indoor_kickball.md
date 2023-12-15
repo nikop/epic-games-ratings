@@ -22,12 +22,12 @@
 | Spooky | 28.00% | ~28 |
 | Grand Slam! | 26.00% | ~26 |
 | Living Room Secret Spot | 24.00% | ~24 |
-| Save some water for the fishies | 23.00% | ~23 |
-| Bathroom Secret Spot | 23.00% | ~23 |
+| Save some water for the fishies | 24.00% | ~24 |
+| Bathroom Secret Spot | 24.00% | ~24 |
 | Angry Dad | 23.00% | ~23 |
 | Have Mercy | 21.00% | ~21 |
+| Hi Hungry, I'm Dad | 20.00% | ~20 |
 | Angry Mom | 20.00% | ~20 |
-| Hi Hungry, I'm Dad | 19.00% | ~19 |
 | Just how we drew it up | 12.00% | ~12 |
 | Interference | 9.00% | ~9 |
 | You broke it, you bought it | 7.00% | ~7 |

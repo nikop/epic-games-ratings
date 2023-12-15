@@ -8,8 +8,8 @@
 | Starting Skyward | 54.00% | ~198 |
 | Grime is Not Good | 48.00% | ~176 |
 | Floor Galore | 42.00% | ~154 |
+| Dinner Dash | 42.00% | ~154 |
 | Campaign Launch | 41.00% | ~150 |
-| Dinner Dash | 41.00% | ~150 |
 | Need a Consult | 38.00% | ~139 |
 | It's Technical | 38.00% | ~139 |
 | Upgrade Unlock | 37.00% | ~136 |
@@ -19,7 +19,7 @@
 | Happy Tenants | 26.00% | ~95 |
 | Potent Potables | 26.00% | ~95 |
 | Smooth Service | 26.00% | ~95 |
-| Your Prestige is Rising | 24.00% | ~88 |
+| Your Prestige is Rising | 25.00% | ~92 |
 | Retail Revenue | 24.00% | ~88 |
 | Don't Feel a Loan | 23.00% | ~84 |
 | People Mover | 22.00% | ~81 |
@@ -31,7 +31,7 @@
 | Rehab Expert | 19.00% | ~70 |
 | Tasty Profits | 19.00% | ~70 |
 | We Don't Need No Education | 19.00% | ~70 |
-| Established Fame | 17.00% | ~62 |
+| Established Fame | 18.00% | ~66 |
 | Under One Roof | 16.00% | ~59 |
 | Cashflow Chief | 16.00% | ~59 |
 | Starred Dining | 15.00% | ~55 |

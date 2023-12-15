@@ -6,31 +6,31 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 26.00% | ~1,433 |
-| Hit 'Em Where It Hurts | 25.00% | ~1,378 |
-| Debuff Dogpile | 24.00% | ~1,323 |
-| Perk Shard Punch Card | 24.00% | ~1,323 |
-| That'll Leave a Mark | 24.00% | ~1,323 |
-| Mushroom Madness! | 22.00% | ~1,212 |
-| First Strike | 20.00% | ~1,102 |
-| Spending Spree | 19.00% | ~1,047 |
-| Horder Better Faster Stronger | 18.00% | ~992 |
+| Faceroll the Bones | 26.00% | ~1,434 |
+| Hit 'Em Where It Hurts | 25.00% | ~1,379 |
+| Debuff Dogpile | 24.00% | ~1,324 |
+| Perk Shard Punch Card | 24.00% | ~1,324 |
+| That'll Leave a Mark | 24.00% | ~1,324 |
+| Mushroom Madness! | 22.00% | ~1,214 |
+| First Strike | 20.00% | ~1,103 |
+| Spending Spree | 19.00% | ~1,048 |
+| Horder Better Faster Stronger | 18.00% | ~993 |
 | Ten Steps from the Grave | 15.00% | ~827 |
 | Everything Must Go! | 14.00% | ~772 |
 | Next Time on MythForce... | 14.00% | ~772 |
-| Cold-Blooded Critters | 10.00% | ~551 |
+| Cold-Blooded Critters | 10.00% | ~552 |
 | Death Becomes You | 8.00% | ~441 |
 | Flawless Victory | 7.00% | ~386 |
 | The Harder They Fall | 6.00% | ~331 |
 | On this Episode! | 6.00% | ~331 |
-| Deadication | 4.00% | ~220 |
-| Season Finale | 4.00% | ~220 |
+| Deadication | 4.00% | ~221 |
+| Season Finale | 4.00% | ~221 |
 | We've Got a Kaiju on the Field | 3.00% | ~165 |
 | The Fourth Gate | 2.00% | ~110 |
 | Vexed Her | 0.50% | ~28 |
 | Deadalus and Loving It | 0.20% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,511 (Ranked 192)  
+Progressed: 5,516 (Ranked 192)  
 Completed: 4 (0.07%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,11 +183,11 @@ Completed: 4 (0.07%) (Ranked 312)
 | 2023-12-12 | 5,465 | 4 |
 | 2023-12-13 | 5,474 | 4 |
 | 2023-12-14 | 5,506 | 4 |
-| 2023-12-15 | 5,511 | 4 |
+| 2023-12-15 | 5,516 | 4 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 481)  
-Sum: 292 (Ranked 371)  
-Diff (max vs sum): 110  
+Sum: 292 (Ranked 372)  
+Diff (max vs sum): 109  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |

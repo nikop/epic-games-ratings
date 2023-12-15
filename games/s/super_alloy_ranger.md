@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 78.00% | ~94 |
-| Gear Up | 66.00% | ~79 |
-| A Grand Show | 66.00% | ~79 |
+| Iceberg Theory | 79.00% | ~96 |
+| Gear Up | 66.00% | ~80 |
+| A Grand Show | 66.00% | ~80 |
 | Freshen Up | 53.00% | ~64 |
 | GG EZ | 53.00% | ~64 |
-| Hydrophobia | 38.00% | ~46 |
-| Ka-Ching! | 31.00% | ~37 |
+| Hydrophobia | 39.00% | ~47 |
+| Ka-Ching! | 31.00% | ~38 |
 | Stop Right There | 26.00% | ~31 |
 | Get to the Point | 25.00% | ~30 |
 | Mr. Want It All | 16.00% | ~19 |
@@ -37,17 +37,17 @@
 | Rapidfire | 4.00% | ~5 |
 | Air Interception | 4.00% | ~5 |
 | The Looping Space Conqueror | 3.00% | ~4 |
-| Break Through the Forbidden | 3.00% | ~4 |
 | Space Ranger: Prologue | 3.00% | ~4 |
 | Breaking the Limit | 3.00% | ~4 |
 | The Truth? | 3.00% | ~4 |
-| Proliferation | 3.00% | ~4 |
-| Burn After Reading | 3.00% | ~4 |
+| Break Through the Forbidden | 2.00% | ~2 |
 | Alloy Rangers, Assemble! | 2.00% | ~2 |
 | Pumped Up | 2.00% | ~2 |
 | Easy Peasy | 2.00% | ~2 |
+| Proliferation | 2.00% | ~2 |
 | Clean Sweep | 2.00% | ~2 |
 | Bye Bye Gravity | 2.00% | ~2 |
+| Burn After Reading | 2.00% | ~2 |
 | Flawless | 0.80% | ~1 |
 | Peace Out | 0.80% | ~1 |
 | Mischief Time | 0.80% | ~1 |
@@ -55,7 +55,7 @@
 | Bullets Fear Me | 0.80% | ~1 |
 | Super Alloy Ranger! | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120 (Ranked 430)  
+Progressed: 121 (Ranked 429)  
 Completed: 1 (0.83%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,6 +125,7 @@ Completed: 1 (0.83%) (Ranked 182)
 | 2023-11-28 | 115 | 1 |
 | 2023-12-06 | 116 | 1 |
 | 2023-12-14 | 120 | 1 |
+| 2023-12-15 | 121 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

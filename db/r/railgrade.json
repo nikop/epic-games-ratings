@@ -3,8 +3,8 @@
   "Name": "RAILGRADE",
   "ProductSlug": "railgrade",
   "Ranking_Rating": 516,
-  "Ranking_Popularity": 381,
-  "Ranking_PopularitySum": 307,
+  "Ranking_Popularity": 382,
+  "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 3739,
@@ -609,7 +609,7 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 18187,
+  "EOS_Progressed": 18186,
   "EOS_Completed": 27,
   "EOS_NewPlayers": -70,
   "EOS_NewCompleters": 0,
@@ -10739,6 +10739,11 @@
       "Time": "2023-12-15T00:08:07.8190623+00:00",
       "NumProgressed": 18187,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-12-15T01:57:00.8433087+00:00",
+      "NumProgressed": 18186,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 37,
@@ -10758,7 +10763,7 @@
       "Name": "Helper of the People",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 7639
+      "UsersEstimate": 7638
     },
     {
       "ID": "ach.030.deertastic",
@@ -10814,7 +10819,7 @@
       "Name": "Perfectionist",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4547
+      "UsersEstimate": 4546
     },
     {
       "ID": "ach.100.indecisive",
@@ -10846,7 +10851,7 @@
       "Name": "Minimalist",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 17641
+      "UsersEstimate": 17640
     },
     {
       "ID": "ach.140.legacy",
@@ -10854,7 +10859,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 105,
       "XP": 60,
-      "UsersEstimate": 19096
+      "UsersEstimate": 19095
     },
     {
       "ID": "ach.150.pocket",
@@ -10862,7 +10867,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 12731
+      "UsersEstimate": 12730
     },
     {
       "ID": "ach.160.box",
@@ -10886,7 +10891,7 @@
       "Name": "Inspector",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 11458
+      "UsersEstimate": 11457
     },
     {
       "ID": "ach.190.scenic",
@@ -10918,7 +10923,7 @@
       "Name": "Hot Water",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6002
+      "UsersEstimate": 6001
     },
     {
       "ID": "ach.230.infinity",
@@ -10942,7 +10947,7 @@
       "Name": "Before the Downfall",
       "Percentage": 100,
       "XP": 60,
-      "UsersEstimate": 18187
+      "UsersEstimate": 18186
     },
     {
       "ID": "ach.260.investor",
@@ -10950,7 +10955,7 @@
       "Name": "Investor",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2000
     },
     {
       "ID": "ach.270.groundwater",
@@ -11006,7 +11011,7 @@
       "Name": "Money like Water",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 17823
+      "UsersEstimate": 17822
     },
     {
       "ID": "ach.340.steel",
@@ -11014,7 +11019,7 @@
       "Name": "Man of Steel",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3274
+      "UsersEstimate": 3273
     },
     {
       "ID": "ach.350.pipes",
@@ -11022,7 +11027,7 @@
       "Name": "Trains over Pipes",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4547
+      "UsersEstimate": 4546
     },
     {
       "ID": "ach.360.lightning",
@@ -11045,7 +11050,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18187,
+      "Progressed": 18186,
       "Completed": 27
     }
   ],
@@ -11053,8 +11058,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-12-10T14:59:42.7930094+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:08:07.8190619+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:57:00.8433084+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:15.202308+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:58:31.0042278+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:08:07.8191357+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:47:07.6171537+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:57:00.8433783+00:00"
 }

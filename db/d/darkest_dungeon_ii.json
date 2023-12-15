@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9714,9 +9714,9 @@
       "Count": 1004
     }
   ],
-  "EOS_Progressed": 127110,
+  "EOS_Progressed": 127128,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1317,
+  "EOS_NewPlayers": 1328,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35064,6 +35064,11 @@
       "Time": "2023-12-15T00:09:29.561694+00:00",
       "NumProgressed": 127110,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T01:58:04.9906032+00:00",
+      "NumProgressed": 127128,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35137,9 +35142,9 @@
       "ID": "altar_of_hope_unlock_hero_occultist",
       "SetID": "64l4lke",
       "Name": "Wyrdly Reconstructed",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 636
+      "UsersEstimate": 763
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -35171,7 +35176,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -35179,7 +35184,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -35203,7 +35208,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2542
+      "UsersEstimate": 2543
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35227,7 +35232,7 @@
       "Name": "Not Today!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2542
+      "UsersEstimate": 2543
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35235,7 +35240,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2542
+      "UsersEstimate": 2543
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35275,7 +35280,7 @@
       "Name": "Meat and Greet",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2542
+      "UsersEstimate": 2543
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35291,7 +35296,7 @@
       "Name": "Catch and Decease",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2542
+      "UsersEstimate": 2543
     },
     {
       "ID": "combat_kill_librarian",
@@ -35299,7 +35304,7 @@
       "Name": "Overdue Notice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2542
+      "UsersEstimate": 2543
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35315,7 +35320,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2542
+      "UsersEstimate": 2543
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35377,9 +35382,9 @@
       "ID": "driving_biome_clear_coast",
       "SetID": "64l4lke",
       "Name": "Merry Time",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1144
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -35427,7 +35432,7 @@
       "Name": "Autodidact",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2542
+      "UsersEstimate": 2543
     },
     {
       "ID": "hero_story_complete_all",
@@ -35473,9 +35478,9 @@
       "ID": "inn_hire_mercenary_bounty_hunter",
       "SetID": "64l4lke",
       "Name": "When You Want Something Done Right",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 636
+      "UsersEstimate": 763
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -35539,7 +35544,7 @@
       "Name": "Hot Air",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "run_victory_act03",
@@ -35547,7 +35552,7 @@
       "Name": "Eyes Up",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "run_victory_act04",
@@ -35609,9 +35614,9 @@
       "ID": "combat_kill_chirurgeon",
       "SetID": "d3bcpc8",
       "Name": "Malpractice Assurance",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 120
     },
     {
       "ID": "combat_kill_collector",
@@ -35619,7 +35624,7 @@
       "Name": "This guy... again?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35675,7 +35680,7 @@
       "Name": "Lost and Found",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35706,21 +35711,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127110,
+      "Progressed": 127128,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1979,
+      "Progressed": 1997,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-14T21:00:00.7778844+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:09:29.5616936+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:58:04.9906027+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-15T00:01:07.7534886+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:09:29.5618567+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:49:52.2366758+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:58:04.9907806+00:00"
 }

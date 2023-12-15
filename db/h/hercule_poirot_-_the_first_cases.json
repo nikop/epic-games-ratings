@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 384,
+  "Ranking_EOS_NewPlayers": 385,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -697,17 +697,17 @@
       "ID": "ACH_015",
       "SetID": "72imik0",
       "Name": "Truth from Within",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_016",
       "SetID": "72imik0",
       "Name": "Curious and Beautiful",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_017",
@@ -1026,8 +1026,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:05:07.0055567+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:53:50.550413+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:05.7547877+00:00",
-  "LastUpdate_Ratings": "2023-12-15T00:03:15.5485254+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:05:07.0055904+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:51:53.0217672+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:53:50.5504682+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "c609e63aa7f44e55835f51df979ee6b8",
   "Name": "Batora: Lost Haven",
   "ProductSlug": "batora-lost-haven-1773c3",
-  "Ranking_EOS_Progress": 642,
+  "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 499,
+  "Ranking_EOS_NewPlayers": 500,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-12T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -69,6 +69,11 @@
       "Time": "2023-11-22T23:09:18.0924016+00:00",
       "NumProgressed": 8,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T01:59:17.9171835+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-12T17:03:09.6040716+00:00",
@@ -95,7 +100,7 @@
       "ID": "ACH_CHILDELIKE_SPIRIT",
       "SetID": "715gm5d",
       "Name": "Childelike Spirit",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -183,7 +188,7 @@
       "ID": "ACH_INNER_DIVA",
       "SetID": "715gm5d",
       "Name": "Inner Diva",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -207,7 +212,7 @@
       "ID": "ACH_KEEPER_OF_BALANCE",
       "SetID": "715gm5d",
       "Name": "Keeper of Balance",
-      "Percentage": 63,
+      "Percentage": 56,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -247,7 +252,7 @@
       "ID": "ACH_PRIDEFUL_SCARS",
       "SetID": "715gm5d",
       "Name": "Prideful Scars",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -279,7 +284,7 @@
       "ID": "ACH_TOGETHER_AT_LAST",
       "SetID": "715gm5d",
       "Name": "Together at last",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -287,7 +292,7 @@
       "ID": "ACH_TYRANT_DETHRONER",
       "SetID": "715gm5d",
       "Name": "Tyrant Dethroner",
-      "Percentage": 25,
+      "Percentage": 22,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -295,7 +300,7 @@
       "ID": "ACH_UNEXPECTED_MINDFULLNESS",
       "SetID": "715gm5d",
       "Name": "Unexpected Mindfullness",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -303,7 +308,7 @@
       "ID": "ACH_UNUSUAL_ENCOUNTER",
       "SetID": "715gm5d",
       "Name": "Unusual Encounter",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -311,7 +316,7 @@
       "ID": "ACH_WHIMSICAL_BLESSING",
       "SetID": "715gm5d",
       "Name": "Whimsical Blessing",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 1
     }
@@ -320,14 +325,14 @@
     {
       "ID": "715gm5d",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-26T15:57:45.8918317+00:00",
   "FirstSeenAchievements": "2023-09-12T17:03:09.6040714+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:10:39.5220034+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:59:17.917183+00:00",
   "LastUpdate_AppInfo": "2023-12-12T21:57:15.4566819+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:58:23.5373393+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:10:39.5220198+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:46:57.7355713+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:59:17.9172045+00:00"
 }

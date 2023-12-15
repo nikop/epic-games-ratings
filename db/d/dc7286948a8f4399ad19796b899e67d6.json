@@ -4,7 +4,7 @@
   "ProductSlug": "aimx-237344",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 499,
+  "Ranking_EOS_NewPlayers": 500,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-20T19:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-22T07:01:23.7560323+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.0555233+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:57:16.0269784+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:04:40.3725347+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:45:44.9014803+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:53:22.7208598+00:00"
 }

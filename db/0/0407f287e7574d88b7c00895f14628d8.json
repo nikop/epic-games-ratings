@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -166,9 +166,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "dl2",
@@ -238,9 +238,9 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "g2",
@@ -358,9 +358,9 @@
       "ID": "k1",
       "SetID": "b1ggf28",
       "Name": "Advanced Technology",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "k2",
@@ -549,8 +549,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-15T00:04:21.8293846+00:00",
+  "LastChanged_Achievements": "2023-12-15T01:53:03.2373757+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-15T00:02:59.5595948+00:00",
-  "LastUpdate_Achievements": "2023-12-15T00:04:21.8294171+00:00"
+  "LastUpdate_Ratings": "2023-12-15T01:51:36.4088236+00:00",
+  "LastUpdate_Achievements": "2023-12-15T01:53:03.2374071+00:00"
 }

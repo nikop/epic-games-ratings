@@ -9,13 +9,13 @@ Rating: 4.62 (Ranked 371)
 | Rail Rat | 27.00% | ~260 |
 | The Mysterious Stranger | 26.00% | ~250 |
 | Immaculate Aim | 23.00% | ~221 |
+| The Brass Boss | 23.00% | ~221 |
 | The Steel Shadow | 22.00% | ~212 |
 | Make Up For Lost Time | 22.00% | ~212 |
 | Time Flies | 22.00% | ~212 |
 | No, Thanks! | 22.00% | ~212 |
 | The Prince in Heels | 22.00% | ~212 |
 | Immaculate Aim | 22.00% | ~212 |
-| The Brass Boss | 22.00% | ~212 |
 | The Harder They Fall | 21.00% | ~202 |
 | Breaking Down Barriers | 21.00% | ~202 |
 | The Wicked Twins | 21.00% | ~202 |
@@ -60,7 +60,7 @@ Rating: 4.62 (Ranked 371)
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 963 (Ranked 275)  
-Completed: 6 (0.62%) (Ranked 193)  
+Completed: 6 (0.62%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
