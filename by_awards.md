@@ -47,7 +47,7 @@
 | 45 | [DEATH STRANDING](games/d/death_stranding.md) | 8,429 | 4.78 | 111 |
 | 46 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,410 | 4.56 | 498 |
 | 47 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 8,272 | 4.69 | 233 |
-| 48 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,160 | 4.85 | 46 |
+| 48 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,167 | 4.85 | 46 |
 | 49 | [Dead Island 2](games/d/dead_island_2.md) | 8,145 | 4.54 | 535 |
 | 50 | [Supraland](games/s/supraland.md) | 7,746 | 4.61 | 390 |
 | 51 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,718 | 4.68 | 259 |
