@@ -533,6 +533,7 @@
 | [Bottle: Pilgrim Redux](../games/d/d5f88a2d15f2400db1c116d6651e7c9e.md) | 24 | 1,000 |
 | [Cave Digger 2](../games/9/959857360f1a4558b390204178101bc3.md) | 24 | 1,000 |
 | [Colossal Cave](../games/c/colossal_cave.md) | 24 | 1,000 |
+| [CounterAttack: Uprising](../games/4/474de2af8ae04a7b9991ea3fbbc56c7b.md) | 24 | 1,000 |
 | [Dark Fantasy 2: Jigsaw Puzzle](../games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24 | 1,000 |
 | [Disney Speedstorm](../games/d/disney_speedstorm.md) | 24 | 1,000 |
 | [FORECLOSED](../games/f/foreclosed.md) | 24 | 1,000 |
