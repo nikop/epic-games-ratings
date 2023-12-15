@@ -4,7 +4,7 @@
   "ProductSlug": "true-reporter-414088",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewPlayers": 501,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-24T09:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-25T11:57:49.7754337+00:00",
   "LastUpdate_AppInfo": "2023-12-08T10:57:05.8586889+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:46:02.2805221+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:53:14.8250115+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:21:35.4743821+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:27:55.3516985+00:00"
 }

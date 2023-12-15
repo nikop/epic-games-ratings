@@ -4,7 +4,7 @@
   "ProductSlug": "griddlers-victorian-picnic-fcc2ab",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewPlayers": 501,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-24T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-13T15:57:12.8979034+00:00",
   "LastUpdate_AppInfo": "2023-12-08T09:56:59.2285703+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:47:52.8075459+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:54:01.8600222+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:22:45.5935343+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:28:28.0010423+00:00"
 }

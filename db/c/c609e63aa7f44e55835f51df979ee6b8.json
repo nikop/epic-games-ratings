@@ -4,7 +4,7 @@
   "ProductSlug": "batora-lost-haven-1773c3",
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewPlayers": 501,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-12T16:00:00+00:00",
@@ -212,9 +212,9 @@
       "ID": "ACH_KEEPER_OF_BALANCE",
       "SetID": "715gm5d",
       "Name": "Keeper of Balance",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_LADY_OF_THE_NIGHT",
@@ -331,8 +331,8 @@
   ],
   "FirstSeen": "2023-09-26T15:57:45.8918317+00:00",
   "FirstSeenAchievements": "2023-09-12T17:03:09.6040714+00:00",
-  "LastChanged_Achievements": "2023-12-15T01:59:17.917183+00:00",
+  "LastChanged_Achievements": "2023-12-15T02:33:46.8323801+00:00",
   "LastUpdate_AppInfo": "2023-12-12T21:57:15.4566819+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:46:57.7355713+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:59:17.9172045+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:22:10.8382122+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:33:46.832401+00:00"
 }

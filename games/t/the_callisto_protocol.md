@@ -5,29 +5,29 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 11.00% | ~1,854 |
+| Get a Grip | 11.00% | ~1,855 |
 | Paper Jams | 10.00% | ~1,686 |
-| Flesh Wound | 9.00% | ~1,517 |
+| Flesh Wound | 9.00% | ~1,518 |
 | Float Like A Butterfly | 8.00% | ~1,349 |
 | The Outer Way | 8.00% | ~1,349 |
 | Chew 'Em Up | 7.00% | ~1,180 |
 | Reforged | 7.00% | ~1,180 |
 | Desperate Times | 7.00% | ~1,180 |
-| Two Heads Are Better Than One | 6.00% | ~1,011 |
-| Workplace Hazard | 6.00% | ~1,011 |
-| If the SHU Fits... | 6.00% | ~1,011 |
-| Without A Paddle | 6.00% | ~1,011 |
-| In the Pipe, Five by Five | 6.00% | ~1,011 |
-| Crash Site | 6.00% | ~1,011 |
-| Full Circle | 6.00% | ~1,011 |
-| Power Up | 6.00% | ~1,011 |
+| Two Heads Are Better Than One | 6.00% | ~1,012 |
+| Workplace Hazard | 6.00% | ~1,012 |
+| If the SHU Fits... | 6.00% | ~1,012 |
+| Without A Paddle | 6.00% | ~1,012 |
+| In the Pipe, Five by Five | 6.00% | ~1,012 |
+| Crash Site | 6.00% | ~1,012 |
+| Full Circle | 6.00% | ~1,012 |
+| Power Up | 6.00% | ~1,012 |
 | Keep Fighting | 6.00% | ~287 |
 | You Need a Gun | 5.00% | ~843 |
 | I Do Belong Here | 5.00% | ~843 |
 | Terminated | 5.00% | ~843 |
 | What Lies Beneath | 5.00% | ~843 |
 | It's Time | 5.00% | ~239 |
-| Giving Back | 4.00% | ~674 |
+| Giving Back | 4.00% | ~675 |
 | The Commonality | 3.00% | ~506 |
 | One Last Job | 3.00% | ~144 |
 | In Striking Distance | 2.00% | ~337 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~5 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,858 (Ranked 150)  
+Progressed: 16,863 (Ranked 150)  
 Completed: 81 (0.48%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 81 (0.48%) (Ranked 213)
 | 2023-12-11 | 16,525 | 81 |
 | 2023-12-13 | 16,561 | 81 |
 | 2023-12-14 | 16,823 | 81 |
-| 2023-12-15 | 16,858 | 81 |
+| 2023-12-15 | 16,863 | 81 |
 ## Awards
 Max (Quickly Understood Controls): 85  (Ranked 391)  
 Sum: 508 (Ranked 329)  

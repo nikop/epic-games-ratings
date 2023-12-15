@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -778,9 +778,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 42207,
+  "EOS_Progressed": 42210,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25043,6 +25043,11 @@
       "Time": "2023-12-15T01:54:38.8058533+00:00",
       "NumProgressed": 42207,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-15T02:28:53.4904524+00:00",
+      "NumProgressed": 42210,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -25070,7 +25075,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7175
+      "UsersEstimate": 7176
     },
     {
       "ID": "ach_antiquarian10",
@@ -25174,7 +25179,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15195
+      "UsersEstimate": 15196
     },
     {
       "ID": "ach_die10",
@@ -25254,7 +25259,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2954
+      "UsersEstimate": 2955
     },
     {
       "ID": "ach_legacyrival",
@@ -25270,7 +25275,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2954
+      "UsersEstimate": 2955
     },
     {
       "ID": "ach_legacyshipmate",
@@ -25286,7 +25291,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2954
+      "UsersEstimate": 2955
     },
     {
       "ID": "ach_portbell",
@@ -25398,7 +25403,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2954
+      "UsersEstimate": 2955
     },
     {
       "ID": "ach_sweetheart",
@@ -25406,7 +25411,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7597
+      "UsersEstimate": 7598
     },
     {
       "ID": "ach_terror100",
@@ -25422,7 +25427,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6331
+      "UsersEstimate": 6332
     },
     {
       "ID": "ach_undercurrent",
@@ -25485,15 +25490,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 42207,
+      "Progressed": 42210,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-12T19:58:23.5805042+00:00",
-  "LastChanged_Achievements": "2023-12-15T01:54:38.8058522+00:00",
+  "LastChanged_Achievements": "2023-12-15T02:28:53.4904521+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:24.6930369+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:49:16.6757257+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:54:38.8060689+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:23:38.7100893+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:28:53.4905654+00:00"
 }

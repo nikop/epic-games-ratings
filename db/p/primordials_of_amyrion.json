@@ -4,7 +4,7 @@
   "ProductSlug": "primordials-battle-of-gods",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewPlayers": 501,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-03-04T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:10.3698318+00:00",
   "LastChanged": "2023-03-31T05:57:10.3698319+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:29.4575231+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:50:37.4138162+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:58:11.0926813+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:24:30.6439249+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:33:00.2877472+00:00"
 }

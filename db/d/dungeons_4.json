@@ -1524,9 +1524,9 @@
       "ID": "ach_main01begin_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 489
+      "UsersEstimate": 495
     },
     {
       "ID": "ach_main01begin_die",
@@ -1548,9 +1548,9 @@
       "ID": "ach_main02horde_completed",
       "SetID": "4hg22ll",
       "Name": "Hammer Time, Round Two",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 450
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -1572,9 +1572,9 @@
       "ID": "ach_main03demon_completed",
       "SetID": "4hg22ll",
       "Name": "The Hellwoods",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 428
     },
     {
       "ID": "ach_main03demon_doors",
@@ -1588,9 +1588,9 @@
       "ID": "ach_main03demon_spells",
       "SetID": "4hg22ll",
       "Name": "Magic Accidents",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 328
+      "UsersEstimate": 334
     },
     {
       "ID": "ach_main04undead_completed",
@@ -2019,8 +2019,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-15T01:55:27.4417376+00:00",
+  "LastChanged_Achievements": "2023-12-15T02:29:26.8244199+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:45:47.2450582+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:55:27.4417924+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:21:25.3270999+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:29:26.8244639+00:00"
 }

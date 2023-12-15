@@ -25,10 +25,10 @@ Rating: 4.53 (Ranked 547)
 | Heal Thy Medic | 5.00% | ~814 |
 | Thorston Mayer | 4.00% | ~651 |
 | Khan's Revenge | 4.00% | ~651 |
-| Master Negotiator | 4.00% | ~89 |
-| Doctor Approved | 3.00% | ~488 |
-| Bottoms up! | 3.00% | ~488 |
-| Miraculous Maya | 3.00% | ~488 |
+| Master Negotiator | 4.00% | ~90 |
+| Doctor Approved | 3.00% | ~489 |
+| Bottoms up! | 3.00% | ~489 |
+| Miraculous Maya | 3.00% | ~489 |
 | Data Logger | 2.00% | ~326 |
 | Data Master | 2.00% | ~326 |
 | Brother's Reaper | 1.00% | ~163 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 547)
 | Scavenger Star | 0.20% | ~33 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,282 (Ranked 151)  
+Progressed: 16,287 (Ranked 151)  
 Completed: 43 (0.26%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 43 (0.26%) (Ranked 251)
 | 2023-12-12 | 16,078 | 42 |
 | 2023-12-13 | 16,124 | 43 |
 | 2023-12-14 | 16,263 | 43 |
-| 2023-12-15 | 16,282 | 43 |
+| 2023-12-15 | 16,287 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7561,9 +7561,9 @@
       "Count": 3795
     }
   ],
-  "EOS_Progressed": 145502,
+  "EOS_Progressed": 145508,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 1309,
+  "EOS_NewPlayers": 1310,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -32456,6 +32456,11 @@
       "Time": "2023-12-15T01:53:50.2851229+00:00",
       "NumProgressed": 145502,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2023-12-15T02:28:20.2088117+00:00",
+      "NumProgressed": 145508,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 112,
@@ -32635,7 +32640,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11640
+      "UsersEstimate": 11641
     },
     {
       "ID": "chest02",
@@ -32699,7 +32704,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10185
+      "UsersEstimate": 10186
     },
     {
       "ID": "commonres02",
@@ -32939,7 +32944,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10185
+      "UsersEstimate": 10186
     },
     {
       "ID": "gold02",
@@ -33283,7 +33288,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11640
+      "UsersEstimate": 11641
     },
     {
       "ID": "twinenchant01",
@@ -33362,15 +33367,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 145502,
+      "Progressed": 145508,
       "Completed": 309
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-14T23:03:47.4342279+00:00",
-  "LastChanged_Achievements": "2023-12-15T01:53:50.2851225+00:00",
+  "LastChanged_Achievements": "2023-12-15T02:28:20.2088112+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2420411+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:52:06.2861419+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:53:50.2853534+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:27:09.7005351+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:28:20.2090297+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "dbbce4993a554bbba3032476bca1673a",
   "Name": "Outbreak Devious Beginnings",
   "ProductSlug": "outbreak-devious-beginnings-5c0af8",
-  "Ranking_EOS_Progress": 646,
-  "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_Progress": 644,
+  "Ranking_EOS_Completed": 30,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-25T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 16.67,
+  "EOS_Completed_Percentage": 14.29,
   "EosHistory": [
     {
       "Time": "2023-10-25T21:06:02.6915269+00:00",
@@ -64,6 +64,11 @@
       "Time": "2023-12-14T13:10:54.2064354+00:00",
       "NumProgressed": 6,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T02:28:17.8517213+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-18T22:15:21.2446637+00:00",
@@ -74,7 +79,7 @@
       "ID": "HALLWAYS_OF_FEAR_ACH",
       "SetID": "8i8pmkm",
       "Name": "Hallways of Fear",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -82,7 +87,7 @@
       "ID": "ITS_A_BEAUTY_ACH",
       "SetID": "8i8pmkm",
       "Name": "It\u0027s a Beauty!",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 125,
       "UsersEstimate": 1
     },
@@ -90,7 +95,7 @@
       "ID": "I_NEED_A_BREAK_ACH",
       "SetID": "8i8pmkm",
       "Name": "I Need a Break",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 175,
       "UsersEstimate": 1
     },
@@ -98,7 +103,7 @@
       "ID": "NO_MATCH_FOR_YOU_ACH",
       "SetID": "8i8pmkm",
       "Name": "No Match For You",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -106,7 +111,7 @@
       "ID": "OUT_OF_AMMO_ACH",
       "SetID": "8i8pmkm",
       "Name": "Out of Ammo!",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -114,7 +119,7 @@
       "ID": "THATS_IT_RIGHT_ACH",
       "SetID": "8i8pmkm",
       "Name": "That\u0027s It... Right?",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -122,7 +127,7 @@
       "ID": "THERES_TOO_MANY_ACH",
       "SetID": "8i8pmkm",
       "Name": "There\u0027s Too Many!",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -130,7 +135,7 @@
       "ID": "THEYRE_ENDLESS_ACH",
       "SetID": "8i8pmkm",
       "Name": "They\u0027re Endless!",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -138,7 +143,7 @@
       "ID": "THE_BEGINNING_OF_THE_END_ACH",
       "SetID": "8i8pmkm",
       "Name": "The Beginning of the End",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -146,7 +151,7 @@
       "ID": "TOUR_THE_HOSPITAL_ACH",
       "SetID": "8i8pmkm",
       "Name": "Tour the Hospital",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -154,7 +159,7 @@
       "ID": "UNDERGROUND_TERRORS_ACH",
       "SetID": "8i8pmkm",
       "Name": "Underground Terrors",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -162,7 +167,7 @@
       "ID": "WELCOME_BACK_ACH",
       "SetID": "8i8pmkm",
       "Name": "Welcome Back",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 1
     }
@@ -171,14 +176,14 @@
     {
       "ID": "8i8pmkm",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-26T23:59:41.2750505+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:21.2446636+00:00",
-  "LastChanged_Achievements": "2023-12-15T01:53:47.0717403+00:00",
+  "LastChanged_Achievements": "2023-12-15T02:28:17.8517208+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:16.8965982+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:48:10.2885953+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:53:47.0717538+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:22:56.7672311+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:28:17.8517357+00:00"
 }

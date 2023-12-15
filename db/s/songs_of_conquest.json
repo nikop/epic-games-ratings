@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 475,
+  "EOS_Progressed": 476,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1983,6 +1983,11 @@
       "Time": "2023-12-15T00:08:43.079963+00:00",
       "NumProgressed": 475,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T02:32:21.8412771+00:00",
+      "NumProgressed": 476,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2203,7 +2208,7 @@
       "Name": "Multi Kill",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "MultiplayerWins",
@@ -2379,7 +2384,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -2426,15 +2431,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 475,
+      "Progressed": 476,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-15T01:57:16.4726164+00:00",
+  "LastChanged_Achievements": "2023-12-15T02:32:21.8412765+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:48:10.4948931+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:57:16.4726531+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:22:56.9101514+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:32:21.8413133+00:00"
 }

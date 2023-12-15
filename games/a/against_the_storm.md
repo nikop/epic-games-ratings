@@ -6,7 +6,7 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 5.00% | ~908 |
+| Overgrown Library | 5.00% | ~909 |
 | Abandoned Settlement | 4.00% | ~727 |
 | Petrified Necropolis | 4.00% | ~727 |
 | Frosts | 3.00% | ~545 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,167 (Ranked 147)  
+Progressed: 18,171 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,10 +305,10 @@ Completed: 39 (0.21%) (Ranked 260)
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
 | 2023-12-14 | 18,153 | 40 |
-| 2023-12-15 | 18,167 | 39 |
+| 2023-12-15 | 18,171 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
-Sum: 3,259 (Ranked 175)  
+Sum: 3,260 (Ranked 175)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -319,7 +319,7 @@ Diff (max vs sum): 53
 | This game is Highly Recommended | 391 |
 | This game has Unique Visuals | 331 |
 | This game has Amazing Storytelling | 321 |
-| This game has Amazing Characters | 287 |
+| This game has Amazing Characters | 288 |
 | This game has Obsessive Gameplay | 254 |
 | This game has a Creative Community | 216 |
 ## Ratings History
@@ -579,4 +579,4 @@ Diff (max vs sum): 53
 | 2023-12-12 | 4.82 | - | 442 | 3,255 |
 | 2023-12-13 | 4.82 | - | 442 | 3,256 |
 | 2023-12-14 | 4.82 | - | 442 | 3,258 |
-| 2023-12-15 | 4.82 | - | 442 | 3,259 |
+| 2023-12-15 | 4.82 | - | 442 | 3,260 |

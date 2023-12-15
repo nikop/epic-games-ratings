@@ -4,7 +4,7 @@
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
@@ -460,17 +460,17 @@
       "ID": "03_ACHIEVEMENT_Level_20",
       "SetID": "6opd2eg",
       "Name": "A new challenge",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "04_ACHIEVEMENT_Level_30",
       "SetID": "6opd2eg",
       "Name": "I see through deception",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "05_ACHIEVEMENT_Level_40",
@@ -484,17 +484,17 @@
       "ID": "06_ACHIEVEMENT_Half_Complete",
       "SetID": "6opd2eg",
       "Name": "Complete Half of the game",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "07_ACHIEVEMENT_Half_Master",
       "SetID": "6opd2eg",
       "Name": "Master Half of the game",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 125,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "08_ACHIEVEMENT_Game_Complete",
@@ -539,8 +539,8 @@
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-12-15T01:59:12.9715637+00:00",
+  "LastChanged_Achievements": "2023-12-15T02:33:43.1321209+00:00",
   "LastUpdate_AppInfo": "2023-12-12T07:57:15.5906005+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:48:24.9304296+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:59:12.9715718+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:23:06.3631374+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:33:43.1321307+00:00"
 }

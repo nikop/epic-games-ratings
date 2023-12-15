@@ -503,7 +503,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 533146,
+  "EOS_Progressed": 533147,
   "EOS_Completed": 509,
   "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 4,
@@ -25753,6 +25753,11 @@
       "Time": "2023-12-15T01:53:09.9148932+00:00",
       "NumProgressed": 533146,
       "NumCompleted": 509
+    },
+    {
+      "Time": "2023-12-15T02:27:52.2055691+00:00",
+      "NumProgressed": 533147,
+      "NumCompleted": 509
     }
   ],
   "TotalAchievements": 57,
@@ -25780,7 +25785,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 373202
+      "UsersEstimate": 373203
     },
     {
       "ID": "12",
@@ -25988,7 +25993,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 266573
+      "UsersEstimate": 266574
     },
     {
       "ID": "36",
@@ -25996,7 +26001,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 85303
+      "UsersEstimate": 85304
     },
     {
       "ID": "37",
@@ -26124,7 +26129,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 74640
+      "UsersEstimate": 74641
     },
     {
       "ID": "51",
@@ -26140,7 +26145,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 245247
+      "UsersEstimate": 245248
     },
     {
       "ID": "53",
@@ -26219,15 +26224,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 533146,
+      "Progressed": 533147,
       "Completed": 509
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2023-12-15T01:53:09.9148926+00:00",
+  "LastChanged_Achievements": "2023-12-15T02:27:52.2055687+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:06.8552827+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:49:12.4730451+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:53:09.9150258+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:23:36.0833613+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:27:52.2057248+00:00"
 }

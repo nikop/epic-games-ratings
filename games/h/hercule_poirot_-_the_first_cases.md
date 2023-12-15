@@ -23,10 +23,10 @@ Rating: 4.35 (Ranked 800)
 | Comtesse Margaux de Vos | 45.00% | ~203 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~198 |
 | The Interrogations | 44.00% | ~198 |
-| Well-acquainted | 41.00% | ~185 |
+| Well-acquainted | 42.00% | ~189 |
 | Zakariya Demir | 41.00% | ~185 |
 | Well-read | 39.00% | ~176 |
-| Cassandra Van den Bosch | 37.00% | ~167 |
+| Cassandra Van den Bosch | 38.00% | ~171 |
 | The Secret | 37.00% | ~167 |
 | Gedeon Demir | 35.00% | ~158 |
 | Rehana Piette | 34.00% | ~153 |

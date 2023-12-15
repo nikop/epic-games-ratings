@@ -12,12 +12,12 @@
 | Digging a Hole | 65.00% | ~60 |
 | Tutti Frutti | 61.00% | ~57 |
 | Gotta Go Fast | 51.00% | ~47 |
-| Slotting Machine | 43.00% | ~40 |
-| Systematic | 40.00% | ~37 |
+| Slotting Machine | 44.00% | ~41 |
+| Systematic | 41.00% | ~38 |
 | Mine Sweeper | 37.00% | ~34 |
 | Roll Out | 35.00% | ~33 |
 | Dopa-Miner | 27.00% | ~25 |
-| Up, Up And Away! | 25.00% | ~23 |
+| Up, Up And Away! | 26.00% | ~24 |
 | Botropolis | 24.00% | ~22 |
 | Whoa! | 24.00% | ~22 |
 | Steam Powered | 18.00% | ~17 |

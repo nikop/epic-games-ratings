@@ -5,43 +5,43 @@ Rating: 4.57 (Ranked 484)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 4.00% | ~3,217 |
-| Fists, Fury & a lot of Rage | 3.00% | ~2,412 |
-| I've Had Enough! | 3.00% | ~2,412 |
-| All For One and One For All | 2.00% | ~1,608 |
-| Seasoned Fighter | 2.00% | ~1,608 |
-| A New Age | 1.00% | ~804 |
-| Home Sweet Home? | 1.00% | ~804 |
-| Oh Baby, A Triple | 0.80% | ~643 |
-| Symbiotic | 0.70% | ~563 |
-| Battle Hardened | 0.50% | ~402 |
-| Master of Disguise | 0.50% | ~402 |
+| All Grown Up! | 4.00% | ~3,220 |
+| Fists, Fury & a lot of Rage | 3.00% | ~2,415 |
+| I've Had Enough! | 3.00% | ~2,415 |
+| All For One and One For All | 2.00% | ~1,610 |
+| Seasoned Fighter | 2.00% | ~1,610 |
+| A New Age | 1.00% | ~805 |
+| Home Sweet Home? | 1.00% | ~805 |
+| Oh Baby, A Triple | 0.80% | ~644 |
+| Symbiotic | 0.70% | ~564 |
+| Battle Hardened | 0.50% | ~403 |
+| Master of Disguise | 0.50% | ~403 |
 | It's Mayhem! | 0.40% | ~322 |
 | Right back at'cha | 0.40% | ~322 |
-| Cautious Veteran | 0.30% | ~241 |
-| Double Punch! | 0.30% | ~241 |
-| Martyrdom | 0.30% | ~241 |
-| Spectacular Finisher | 0.30% | ~241 |
+| Cautious Veteran | 0.30% | ~242 |
+| Double Punch! | 0.30% | ~242 |
+| Martyrdom | 0.30% | ~242 |
+| Spectacular Finisher | 0.30% | ~242 |
 | Katamari | 0.20% | ~161 |
 | Ninja Reflex | 0.20% | ~161 |
 | Taste Your Own Medicine | 0.20% | ~161 |
 | Zero-sum Game | 0.20% | ~161 |
-| 5 Stages of Grief | 0.10% | ~80 |
-| Bastion of Humanity | 0.10% | ~80 |
-| Eye of the Titan | 0.10% | ~80 |
-| Just Getting Warmed Up | 0.10% | ~80 |
-| Let Them Fight | 0.10% | ~80 |
-| This is GigaBash! | 0.10% | ~80 |
-| Sidetracked... | 0.10% | ~80 |
-| Apex Mode | 0.10% | ~80 |
-| Top of the Food Chain | 0.10% | ~80 |
-| Watchful Sentinel | 0.10% | ~80 |
+| 5 Stages of Grief | 0.10% | ~81 |
+| Bastion of Humanity | 0.10% | ~81 |
+| Eye of the Titan | 0.10% | ~81 |
+| Just Getting Warmed Up | 0.10% | ~81 |
+| Let Them Fight | 0.10% | ~81 |
+| This is GigaBash! | 0.10% | ~81 |
+| Sidetracked... | 0.10% | ~81 |
+| Apex Mode | 0.10% | ~81 |
+| Top of the Food Chain | 0.10% | ~81 |
+| Watchful Sentinel | 0.10% | ~81 |
 | Keeper of Knowledge | 0.00% | ~0 |
 | Signature Look | 0.00% | ~0 |
 | Apocalypse Mode | 0.00% | ~0 |
 | What's Mine is Yours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,414 (Ranked 99)  
+Progressed: 80,510 (Ranked 99)  
 Completed: 0 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,7 +51,7 @@ Completed: 0 (0.00%) (Ranked 376)
 | 2023-12-12 | 62,591 | 0 |
 | 2023-12-13 | 74,092 | 0 |
 | 2023-12-14 | 80,003 | 0 |
-| 2023-12-15 | 80,414 | 0 |
+| 2023-12-15 | 80,510 | 0 |
 ## Awards
 Max (Great Boss Battles): 25  (Ranked 527)  
 Sum: 25 (Ranked 536)  

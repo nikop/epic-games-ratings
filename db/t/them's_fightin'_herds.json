@@ -2,7 +2,7 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 389,
+  "Ranking_Rating": 390,
   "Ranking_Popularity": 518,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 69,
@@ -319,7 +319,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 233578,
+  "EOS_Progressed": 233579,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
@@ -24474,6 +24474,11 @@
       "Time": "2023-12-15T01:58:09.8407498+00:00",
       "NumProgressed": 233578,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-15T02:32:59.3372389+00:00",
+      "NumProgressed": 233579,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -24708,7 +24713,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 233578,
+      "Progressed": 233579,
       "Completed": 5
     }
   ],
@@ -24716,8 +24721,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-08T19:00:51.9158199+00:00",
-  "LastChanged_Achievements": "2023-12-15T01:58:09.840749+00:00",
+  "LastChanged_Achievements": "2023-12-15T02:32:59.3372383+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:19.2756281+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:50:10.4637747+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:58:09.840891+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:24:13.6012106+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:32:59.3373452+00:00"
 }

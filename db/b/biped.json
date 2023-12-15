@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7568,
+  "EOS_Progressed": 7570,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13929,6 +13929,11 @@
       "Time": "2023-12-15T01:54:29.3652102+00:00",
       "NumProgressed": 7568,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T02:28:46.9499354+00:00",
+      "NumProgressed": 7570,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -13996,7 +14001,7 @@
       "Name": "Dense Forest",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     },
     {
       "ID": "3",
@@ -14012,7 +14017,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "5",
@@ -14020,7 +14025,7 @@
       "Name": "Snowy Peak",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "6",
@@ -14059,7 +14064,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 7568,
+      "Progressed": 7570,
       "Completed": 0
     }
   ],
@@ -14067,8 +14072,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-12-15T01:54:29.3652097+00:00",
+  "LastChanged_Achievements": "2023-12-15T02:28:46.9499349+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:10.0844252+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:51:20.5220675+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:54:29.3652943+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:24:32.1902615+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:28:46.9499987+00:00"
 }

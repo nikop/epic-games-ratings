@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~489 |
+| The Last Stand | 89.00% | ~495 |
 | Thalya – Simply Immortal | 88.00% | ~489 |
 | For the Horde! | 83.00% | ~461 |
-| Hammer Time, Round Two | 80.00% | ~445 |
-| The Hellwoods | 76.00% | ~423 |
+| Hammer Time, Round Two | 81.00% | ~450 |
+| The Hellwoods | 77.00% | ~428 |
 | Experienced Thalya | 72.00% | ~400 |
 | The Plains of Strothalm | 71.00% | ~395 |
 | Thalya's Concentrated Fury | 69.00% | ~384 |
@@ -16,7 +16,7 @@
 | Heroes’ Gorge | 65.00% | ~361 |
 | Master of Magic | 63.00% | ~350 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~345 |
-| Magic Accidents | 59.00% | ~328 |
+| Magic Accidents | 60.00% | ~334 |
 | The Ascent | 58.00% | ~322 |
 | It's Warm and Cozy at Home | 58.00% | ~322 |
 | Trap Master | 55.00% | ~306 |

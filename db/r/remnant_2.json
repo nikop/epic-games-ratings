@@ -5589,9 +5589,9 @@
       "Count": 429
     }
   ],
-  "EOS_Progressed": 242380,
+  "EOS_Progressed": 242437,
   "EOS_Completed": 586,
-  "EOS_NewPlayers": 5755,
+  "EOS_NewPlayers": 5805,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -23029,6 +23029,11 @@
       "Time": "2023-12-15T01:58:30.752185+00:00",
       "NumProgressed": 242380,
       "NumCompleted": 586
+    },
+    {
+      "Time": "2023-12-15T02:33:13.8784017+00:00",
+      "NumProgressed": 242437,
+      "NumCompleted": 586
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -23089,7 +23094,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -23121,7 +23126,7 @@
       "Name": "The Killing Jar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4848
+      "UsersEstimate": 4849
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -23185,7 +23190,7 @@
       "Name": "Not a Janitor",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "Meet_Flautist",
@@ -23225,7 +23230,7 @@
       "Name": "First of Many",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4848
+      "UsersEstimate": 4849
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -23273,7 +23278,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "Obtain_Guns_A",
@@ -23343,9 +23348,9 @@
       "ID": "Obtain_Traits_A",
       "SetID": "bkp3b1a",
       "Name": "Not Your Average Trait",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2424
     },
     {
       "ID": "Obtain_Traits_B",
@@ -23417,7 +23422,7 @@
       "Name": "Trait Chaser",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -23457,7 +23462,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -23480,13 +23485,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 242380,
+      "Progressed": 242437,
       "Completed": 586
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 21545,
+      "Progressed": 21602,
       "Completed": 253
     }
   ],
@@ -23494,8 +23499,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-15T00:03:40.4833441+00:00",
-  "LastChanged_Achievements": "2023-12-15T01:58:30.7521844+00:00",
+  "LastChanged_Achievements": "2023-12-15T02:33:13.8784012+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.6047456+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:52:19.4064377+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:58:30.7522879+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:27:18.206642+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:33:13.8784951+00:00"
 }

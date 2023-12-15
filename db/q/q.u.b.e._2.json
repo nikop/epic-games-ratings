@@ -575,9 +575,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43575,
+  "EOS_Progressed": 43576,
   "EOS_Completed": 210,
-  "EOS_NewPlayers": 808,
+  "EOS_NewPlayers": 806,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -10615,6 +10615,11 @@
       "Time": "2023-12-15T01:58:17.244945+00:00",
       "NumProgressed": 43575,
       "NumCompleted": 210
+    },
+    {
+      "Time": "2023-12-15T02:33:04.5651468+00:00",
+      "NumProgressed": 43576,
+      "NumCompleted": 210
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -10787,7 +10792,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22659
+      "UsersEstimate": 22660
     },
     {
       "ID": "ACH_PEAK",
@@ -10803,7 +10808,7 @@
       "Name": "To Infinity and Beyond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "ACH_REDEND",
@@ -10819,7 +10824,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 29631
+      "UsersEstimate": 29632
     },
     {
       "ID": "ACH_S4",
@@ -10843,7 +10848,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 32681
+      "UsersEstimate": 32682
     },
     {
       "ID": "ACH_STATUE",
@@ -10851,22 +10856,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 18737
+      "UsersEstimate": 18738
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 43575,
+      "Progressed": 43576,
       "Completed": 210
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-07T07:57:07.2452699+00:00",
-  "LastChanged_Achievements": "2023-12-15T01:58:17.2449443+00:00",
+  "LastChanged_Achievements": "2023-12-15T02:33:04.5651463+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:59.6550495+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:45:52.1962645+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:58:17.2450141+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:21:28.614983+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:33:04.5652122+00:00"
 }

@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 134204,
+  "EOS_Progressed": 134205,
   "EOS_Completed": 1190,
-  "EOS_NewPlayers": 975,
+  "EOS_NewPlayers": 976,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -27528,6 +27528,11 @@
       "Time": "2023-12-15T01:56:05.8121057+00:00",
       "NumProgressed": 134204,
       "NumCompleted": 1190
+    },
+    {
+      "Time": "2023-12-15T02:29:53.2850467+00:00",
+      "NumProgressed": 134205,
+      "NumCompleted": 1190
     }
   ],
   "TotalAchievements": 34,
@@ -27563,7 +27568,7 @@
       "Name": "Halfway there",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 40261
+      "UsersEstimate": 40262
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -27595,7 +27600,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 107363
+      "UsersEstimate": 107364
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -27611,7 +27616,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 75154
+      "UsersEstimate": 75155
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -27651,7 +27656,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 40261
+      "UsersEstimate": 40262
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -27667,7 +27672,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 40261
+      "UsersEstimate": 40262
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -27810,7 +27815,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 134204,
+      "Progressed": 134205,
       "Completed": 1190
     }
   ],
@@ -27818,8 +27823,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-24T21:59:26.7035134+00:00",
-  "LastChanged_Achievements": "2023-12-15T01:56:05.8121053+00:00",
+  "LastChanged_Achievements": "2023-12-15T02:29:53.2850463+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:22.0226794+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:48:06.6717291+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:56:05.8122316+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:22:54.8702399+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:29:53.2851832+00:00"
 }

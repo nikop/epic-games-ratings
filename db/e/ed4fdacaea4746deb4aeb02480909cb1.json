@@ -4,7 +4,7 @@
   "ProductSlug": "contingent-72576b",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewPlayers": 501,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-12T11:56:59.4942018+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:51:33.9028669+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:58:01.105671+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:26:49.8078427+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:32:53.2492831+00:00"
 }

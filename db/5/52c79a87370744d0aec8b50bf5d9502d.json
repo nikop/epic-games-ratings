@@ -4,7 +4,7 @@
   "ProductSlug": "spooky-mahjong-b9f12c",
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewPlayers": 501,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2024-02-25T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-13T04:57:05.1937379+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:46:48.513787+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:53:17.2443874+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:22:04.0241563+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:27:57.2393164+00:00"
 }

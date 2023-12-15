@@ -927,9 +927,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3116,
+  "EOS_Progressed": 3135,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 831,
+  "EOS_NewPlayers": 850,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4767,6 +4767,11 @@
       "Time": "2023-12-15T01:57:36.9882106+00:00",
       "NumProgressed": 3116,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T02:32:36.5954377+00:00",
+      "NumProgressed": 3135,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -4787,7 +4792,7 @@
       "Name": "A Veil Lifted",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_003",
@@ -4795,7 +4800,7 @@
       "Name": "Lost and Found",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_004",
@@ -4931,7 +4936,7 @@
       "Name": "Comrades",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_021",
@@ -4939,7 +4944,7 @@
       "Name": "Shared Triumph",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_022",
@@ -5282,7 +5287,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 3116,
+      "Progressed": 3135,
       "Completed": 2
     }
   ],
@@ -5290,8 +5295,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-15T01:48:54.1217099+00:00",
-  "LastChanged_Achievements": "2023-12-15T01:57:36.9882102+00:00",
+  "LastChanged_Achievements": "2023-12-15T02:32:36.5954372+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:58.7777436+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:48:54.1217102+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:57:36.9882652+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:23:24.7212598+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:32:36.5955052+00:00"
 }

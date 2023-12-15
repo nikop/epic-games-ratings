@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -731,7 +731,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 237632,
+  "EOS_Progressed": 237635,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1134,
   "EOS_NewCompleters": 0,
@@ -17441,6 +17441,11 @@
       "Time": "2023-12-15T01:59:14.4532531+00:00",
       "NumProgressed": 237632,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T02:33:44.1865264+00:00",
+      "NumProgressed": 237635,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -17637,7 +17642,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33268
+      "UsersEstimate": 33269
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -17709,7 +17714,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59408
+      "UsersEstimate": 59409
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -17724,7 +17729,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 237632,
+      "Progressed": 237635,
       "Completed": 0
     }
   ],
@@ -17732,8 +17737,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-15T01:51:42.945211+00:00",
-  "LastChanged_Achievements": "2023-12-15T01:59:14.4532527+00:00",
+  "LastChanged_Achievements": "2023-12-15T02:33:44.186526+00:00",
   "LastUpdate_AppInfo": "2023-12-08T03:57:08.4919895+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:51:42.9452116+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:59:14.4533762+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:26:55.3629834+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:33:44.1866054+00:00"
 }

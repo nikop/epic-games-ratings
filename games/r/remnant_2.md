@@ -5,18 +5,18 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 2.00% | ~4,848 |
-| First of Many | 2.00% | ~4,848 |
-| Not Your Average Trait | 0.90% | ~2,181 |
+| The Killing Jar | 2.00% | ~4,849 |
+| First of Many | 2.00% | ~4,849 |
+| Not Your Average Trait | 1.00% | ~2,424 |
 | Regicide | 0.90% | ~194 |
 | Expanding Horizons | 0.80% | ~1,939 |
-| Master of the Dark Arts | 0.80% | ~172 |
+| Master of the Dark Arts | 0.80% | ~173 |
 | Quest for Survival | 0.70% | ~1,697 |
 | Familiar Face | 0.70% | ~1,697 |
-| Gleaming the Cube | 0.60% | ~1,454 |
-| Not a Janitor | 0.60% | ~1,454 |
-| Boss'n Up | 0.60% | ~1,454 |
-| Trait Chaser | 0.60% | ~1,454 |
+| Gleaming the Cube | 0.60% | ~1,455 |
+| Not a Janitor | 0.60% | ~1,455 |
+| Boss'n Up | 0.60% | ~1,455 |
+| Trait Chaser | 0.60% | ~1,455 |
 | Am I Seeing This? | 0.50% | ~1,212 |
 | Not So Special Now | 0.50% | ~1,212 |
 | Equal Measures | 0.50% | ~1,212 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 150)
 | You Shall Pass | 0.20% | ~43 |
 | A Foul Feast | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,380 (Ranked 64)  
+Progressed: 242,437 (Ranked 64)  
 Completed: 586 (0.24%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 586 (0.24%) (Ranked 254)
 | 2023-12-12 | 239,053 | 581 |
 | 2023-12-13 | 239,544 | 584 |
 | 2023-12-14 | 242,166 | 585 |
-| 2023-12-15 | 242,380 | 586 |
+| 2023-12-15 | 242,437 | 586 |
 ## Awards
 Max (Great Boss Battles): 2,757  (Ranked 101)  
 Sum: 6,922 (Ranked 126)  

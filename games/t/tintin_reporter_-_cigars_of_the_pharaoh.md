@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 76.00% | ~67 |
-| A Loyal Friend | 38.00% | ~33 |
+| My Papyrus! | 75.00% | ~67 |
+| A Loyal Friend | 37.00% | ~33 |
 | Abandon Ship! | 25.00% | ~22 |
 | The Tomb of Kih-Oskh | 19.00% | ~17 |
 | The Weighing of the Soul | 17.00% | ~15 |
@@ -19,12 +19,12 @@
 | Barking Dog | 6.00% | ~5 |
 | Dynamite, Treason and Coconuts | 6.00% | ~5 |
 | Save a Friend | 6.00% | ~5 |
-| The Eyes! | 5.00% | ~4 |
-| Keep the Doctor Away | 5.00% | ~4 |
-| Just a Palm Tree | 5.00% | ~4 |
-| Under the Hood | 5.00% | ~4 |
-| Long Live Gaipajama! | 5.00% | ~4 |
-| Punctual | 5.00% | ~4 |
+| The Eyes! | 4.00% | ~4 |
+| Keep the Doctor Away | 4.00% | ~4 |
+| Just a Palm Tree | 4.00% | ~4 |
+| Under the Hood | 4.00% | ~4 |
+| Long Live Gaipajama! | 4.00% | ~4 |
+| Punctual | 4.00% | ~4 |
 | The Corporal's Golden Boy | 3.00% | ~3 |
 | Threat | 3.00% | ~3 |
 | Tintin, Reporter | 2.00% | ~2 |
@@ -42,7 +42,7 @@
 | Broken Brotherhood | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 463)  
+Progressed: 89 (Ranked 462)  
 Completed: 0 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,3 +72,4 @@ Completed: 0 (0.00%) (Ranked 376)
 | 2023-12-10 | 86 | 0 |
 | 2023-12-12 | 87 | 0 |
 | 2023-12-14 | 88 | 0 |
+| 2023-12-15 | 89 | 0 |

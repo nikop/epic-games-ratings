@@ -4,43 +4,43 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 63.00% | ~76 |
+| Meissa's Savior | 63.00% | ~77 |
 | Purification Pioneer | 60.00% | ~73 |
-| Mechanical Buddy | 55.00% | ~67 |
-| Dicesmithing Time! | 51.00% | ~62 |
-| Endless Tricks | 45.00% | ~54 |
-| Sanctuary Guardian | 44.00% | ~53 |
-| Wild's Keeper | 40.00% | ~48 |
+| Mechanical Buddy | 56.00% | ~68 |
+| Dicesmithing Time! | 52.00% | ~63 |
+| Endless Tricks | 45.00% | ~55 |
+| Sanctuary Guardian | 43.00% | ~52 |
+| Wild's Keeper | 41.00% | ~50 |
 | Mind Illuminator | 36.00% | ~44 |
-| Noctuan Champion | 35.00% | ~42 |
 | Stellar Dismantler | 34.00% | ~41 |
+| Noctuan Champion | 34.00% | ~41 |
 | Astral Adventurer | 27.00% | ~33 |
 | Eridanian Champion | 27.00% | ~33 |
-| Anomaly Destroyer | 26.00% | ~31 |
-| Star Killer | 26.00% | ~31 |
-| Lacertian Champion | 26.00% | ~31 |
+| Anomaly Destroyer | 26.00% | ~32 |
+| Star Killer | 25.00% | ~30 |
+| Lacertian Champion | 25.00% | ~30 |
 | Loyal Partner | 23.00% | ~28 |
-| Apian Champion | 21.00% | ~25 |
+| Apian Champion | 21.00% | ~26 |
 | Behenian Champion | 19.00% | ~23 |
 | Shard Spender | 17.00% | ~21 |
-| Unbeatable | 16.00% | ~19 |
+| Unbeatable | 16.00% | ~20 |
 | Aquarian Champion | 13.00% | ~16 |
 | Astral Seeker | 12.00% | ~15 |
-| Heart Gate | 12.00% | ~15 |
-| Sadistic Plan | 12.00% | ~15 |
-| Stellar Haste | 12.00% | ~15 |
 | Favored by the Cosmos | 11.00% | ~13 |
+| Heart Gate | 11.00% | ~13 |
+| Sadistic Plan | 11.00% | ~13 |
+| Stellar Haste | 11.00% | ~13 |
 | The Corruption Goddess | 11.00% | ~13 |
 | The Goddes Avatar | 11.00% | ~13 |
 | Heavy Purger | 9.00% | ~11 |
 | Wave Bender | 8.00% | ~10 |
 | Apian Hero | 8.00% | ~10 |
-| Anomaly Control | 7.00% | ~8 |
-| Can't touch this | 7.00% | ~8 |
-| The Chaos Artisan | 7.00% | ~8 |
-| The Dark Moon | 7.00% | ~8 |
-| Behenian Hero | 7.00% | ~8 |
-| Lacertian Hero | 7.00% | ~8 |
+| Anomaly Control | 7.00% | ~9 |
+| Can't touch this | 7.00% | ~9 |
+| The Chaos Artisan | 7.00% | ~9 |
+| The Dark Moon | 7.00% | ~9 |
+| Behenian Hero | 7.00% | ~9 |
+| Lacertian Hero | 7.00% | ~9 |
 | Artificer | 6.00% | ~7 |
 | Denying Destiny | 6.00% | ~7 |
 | The Distorted Sage | 6.00% | ~7 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121 (Ranked 429)  
+Progressed: 122 (Ranked 428)  
 Completed: 0 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,3 +153,4 @@ Completed: 0 (0.00%) (Ranked 376)
 | 2023-12-12 | 100 | 0 |
 | 2023-12-13 | 102 | 0 |
 | 2023-12-14 | 121 | 0 |
+| 2023-12-15 | 122 | 0 |

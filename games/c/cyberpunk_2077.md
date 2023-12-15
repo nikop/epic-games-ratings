@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,131 |
+| V for Vendetta | 12.00% | ~117,132 |
 | Gun Fu | 7.00% | ~68,327 |
 | Right Back At Ya | 6.00% | ~58,566 |
 | The Fool | 6.00% | ~58,566 |
@@ -35,15 +35,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wandering Fool | 1.00% | ~9,761 |
 | Spin Doctor | 1.00% | ~1,047 |
 | Easy Come, Easy Go | 1.00% | ~1,047 |
-| King of Wands | 0.90% | ~942 |
-| Dirty Deeds | 0.90% | ~942 |
+| King of Wands | 0.90% | ~943 |
+| Dirty Deeds | 0.90% | ~943 |
 | Ten out of Ten | 0.80% | ~7,809 |
 | The Sun | 0.80% | ~7,809 |
 | To Bad Decisions! | 0.70% | ~6,833 |
 | The Star | 0.70% | ~6,833 |
 | Breathtaking | 0.60% | ~5,857 |
-| Autojock | 0.50% | ~4,880 |
-| Must Be Rats | 0.50% | ~4,880 |
+| Autojock | 0.50% | ~4,881 |
+| Must Be Rats | 0.50% | ~4,881 |
 | The APB is Not Enough | 0.50% | ~524 |
 | Judgement Day | 0.50% | ~524 |
 | King of Swords | 0.50% | ~524 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 976,094 (Ranked 15)  
+Progressed: 976,102 (Ranked 15)  
 Completed: 2,907 (0.30%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 2,907 (0.30%) (Ranked 243)
 | 2023-12-12 | 975,121 | 2,891 |
 | 2023-12-13 | 975,519 | 2,900 |
 | 2023-12-14 | 976,057 | 2,907 |
-| 2023-12-15 | 976,094 | 2,907 |
+| 2023-12-15 | 976,102 | 2,907 |
 ## Awards
 Max (Character Customization): 122,911  (Ranked 8)  
 Sum: 418,994 (Ranked 9)  

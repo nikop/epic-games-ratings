@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16282,
+  "EOS_Progressed": 16287,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13852,6 +13852,11 @@
       "Time": "2023-12-15T01:56:51.731529+00:00",
       "NumProgressed": 16282,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-15T02:30:24.8470254+00:00",
+      "NumProgressed": 16287,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13904,7 +13909,7 @@
       "Name": "Doctor Approved",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "15",
@@ -13936,7 +13941,7 @@
       "Name": "Bottoms up!",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "19",
@@ -13992,7 +13997,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "25",
@@ -14128,7 +14133,7 @@
       "Name": "Master Negotiator",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "35",
@@ -14143,22 +14148,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16282,
+      "Progressed": 16287,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2236,
-      "Completed": 885
+      "Progressed": 2241,
+      "Completed": 886
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-15T01:56:51.7315287+00:00",
+  "LastChanged_Achievements": "2023-12-15T02:30:24.8470251+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-15T01:46:09.5245354+00:00",
-  "LastUpdate_Achievements": "2023-12-15T01:56:51.7316261+00:00"
+  "LastUpdate_Ratings": "2023-12-15T02:21:39.3782184+00:00",
+  "LastUpdate_Achievements": "2023-12-15T02:30:24.847115+00:00"
 }

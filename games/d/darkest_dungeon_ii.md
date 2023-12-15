@@ -37,6 +37,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Worldly Traveller | 0.80% | ~1,017 |
 | Banishment | 0.70% | ~890 |
 | Now Stay Dead | 0.70% | ~890 |
+| Reverse Banditry | 0.70% | ~890 |
 | Spelunker | 0.70% | ~890 |
 | Ramble On | 0.70% | ~890 |
 | Road Trip | 0.70% | ~890 |
@@ -48,16 +49,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Boxcar Kid | 0.60% | ~763 |
 | Unfulfilled Desires | 0.60% | ~763 |
 | Predator | 0.60% | ~763 |
-| Reverse Banditry | 0.60% | ~763 |
 | A Clear Conscience | 0.60% | ~763 |
 | When You Want Something Done Right | 0.60% | ~763 |
 | Unshackled | 0.60% | ~763 |
+| Hope Rekindled | 0.50% | ~636 |
 | Ichthyophobic | 0.50% | ~636 |
 | No More Mouths to Feed | 0.50% | ~636 |
 | Utopia | 0.50% | ~636 |
 | Slap on the Wrist | 0.50% | ~10 |
 | This Looks Familiar | 0.40% | ~509 |
-| Hope Rekindled | 0.40% | ~509 |
 | Hot Air | 0.40% | ~509 |
 | Eyes Up | 0.40% | ~509 |
 | Et Tu, Riposte? | 0.40% | ~8 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,128 (Ranked 84)  
+Progressed: 127,137 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,10 +315,10 @@ Completed: 3 (0.00%) (Ranked 376)
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
-| 2023-12-15 | 127,128 | 3 |
+| 2023-12-15 | 127,137 | 3 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 51)  
-Sum: 20,427 (Ranked 59)  
+Sum: 20,433 (Ranked 59)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -329,8 +329,8 @@ Diff (max vs sum): -8
 | This game is Extremely Fun | 1,444 |
 | This game has Amazing Characters | 1,442 |
 | This game has Amazing Storytelling | 1,375 |
+| This game has Quickly Understood Controls | 1,346 |
 | This game has Unique Visuals | 1,343 |
-| This game has Quickly Understood Controls | 1,340 |
 | This game has a Creative Community | 1,004 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -658,3 +658,4 @@ Diff (max vs sum): -8
 | 2023-12-12 | 4.68 | - | 7,622 | 20,221 |
 | 2023-12-13 | 4.68 | - | 7,665 | 20,333 |
 | 2023-12-14 | 4.68 | - | 7,689 | 20,427 |
+| 2023-12-15 | 4.68 | - | 7,689 | 20,433 |
