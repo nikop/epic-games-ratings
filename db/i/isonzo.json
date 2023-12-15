@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -997,7 +997,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9389,
+  "EOS_Progressed": 9390,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
@@ -9342,6 +9342,11 @@
       "Time": "2023-12-15T15:08:39.5016746+00:00",
       "NumProgressed": 9389,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-15T16:09:05.7192417+00:00",
+      "NumProgressed": 9390,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9369,7 +9374,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4131
+      "UsersEstimate": 4132
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -9385,7 +9390,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -9401,7 +9406,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3004
+      "UsersEstimate": 3005
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -9465,7 +9470,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3004
+      "UsersEstimate": 3005
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -9681,7 +9686,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4788
+      "UsersEstimate": 4789
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -9705,14 +9710,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4788
+      "UsersEstimate": 4789
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9389,
+      "Progressed": 9390,
       "Completed": 10
     }
   ],
@@ -9720,8 +9725,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-12T17:02:56.6362998+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:08:39.5016743+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:09:05.7192412+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:02.1312935+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:57:46.0488533+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:08:39.501736+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:58:00.6045214+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:09:05.7192984+00:00"
 }

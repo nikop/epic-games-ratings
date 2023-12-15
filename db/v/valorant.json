@@ -2,13 +2,13 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "ProductSlug": "valorant",
-  "Ranking_Rating": 565,
+  "Ranking_Rating": 566,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 505,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewPlayers": 507,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2020-06-02T18:52:01+00:00",
@@ -12899,18 +12899,24 @@
       "Rating": 4.52,
       "NumberOfAwards": 625036,
       "NumberOfAwardsMax": 87295
+    },
+    {
+      "Time": "2023-12-15T15:58:27.2847469+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 625322,
+      "NumberOfAwardsMax": 87457
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 625036,
-  "NumberOfAwardsMax": 87295,
+  "NumberOfAwards": 625322,
+  "NumberOfAwardsMax": 87457,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 87295
+      "Count": 87457
     },
     {
       "Text": "This game is Highly Recommended",
@@ -12928,7 +12934,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 66373
+      "Count": 66497
     },
     {
       "Text": "This game has Challenging Combat",
@@ -12978,8 +12984,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2023-12-15T10:57:56.2503298+00:00",
+  "LastChanged": "2023-12-15T15:58:27.2847467+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:10.5518198+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:58:06.595602+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:08:41.5686852+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:58:27.2847473+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:09:08.2524657+00:00"
 }

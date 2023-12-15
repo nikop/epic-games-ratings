@@ -6,20 +6,20 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 5.00% | ~911 |
+| Overgrown Library | 5.00% | ~912 |
 | Abandoned Settlement | 4.00% | ~729 |
 | Petrified Necropolis | 4.00% | ~729 |
 | Frosts | 3.00% | ~547 |
 | Land of Greed | 3.00% | ~547 |
 | Ominous Presence | 3.00% | ~547 |
 | Gathering Storm | 3.00% | ~547 |
-| First Real Expedition | 2.00% | ~364 |
-| Overcoming Difficulty | 2.00% | ~364 |
-| Coral Forest | 2.00% | ~364 |
-| The Marshlands | 2.00% | ~364 |
-| Taking Action | 2.00% | ~364 |
-| No Deaths | 2.00% | ~364 |
-| Untamed Wilds | 2.00% | ~364 |
+| First Real Expedition | 2.00% | ~365 |
+| Overcoming Difficulty | 2.00% | ~365 |
+| Coral Forest | 2.00% | ~365 |
+| The Marshlands | 2.00% | ~365 |
+| Taking Action | 2.00% | ~365 |
+| No Deaths | 2.00% | ~365 |
+| Untamed Wilds | 2.00% | ~365 |
 | Homesick | 1.00% | ~182 |
 | Fertile Meadows | 1.00% | ~182 |
 | Royal Outpost | 1.00% | ~182 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,221 (Ranked 147)  
+Progressed: 18,231 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,15 +305,15 @@ Completed: 39 (0.21%) (Ranked 261)
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
 | 2023-12-14 | 18,153 | 40 |
-| 2023-12-15 | 18,221 | 39 |
+| 2023-12-15 | 18,231 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
-Sum: 3,261 (Ranked 175)  
+Sum: 3,262 (Ranked 175)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 442 |
-| This game is Relaxing | 435 |
+| This game is Relaxing | 436 |
 | This game is Great for Beginners | 426 |
 | This game is Extremely Fun | 410 |
 | This game is Highly Recommended | 391 |
@@ -579,4 +579,4 @@ Diff (max vs sum): 53
 | 2023-12-12 | 4.82 | - | 442 | 3,255 |
 | 2023-12-13 | 4.82 | - | 442 | 3,256 |
 | 2023-12-14 | 4.82 | - | 442 | 3,258 |
-| 2023-12-15 | 4.82 | - | 442 | 3,261 |
+| 2023-12-15 | 4.82 | - | 442 | 3,262 |

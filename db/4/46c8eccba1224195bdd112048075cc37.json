@@ -4,8 +4,8 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
     "PcReleaseDate": "2022-09-19T02:00:00+00:00",
@@ -907,9 +907,9 @@
       "ID": "Leprechaun",
       "SetID": "7g1kpc8",
       "Name": "Leprechaun",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "MonsterSlayer",
@@ -970,8 +970,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:04:44.9394493+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:05:44.9505395+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:01.627413+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:00:42.3794949+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:04:44.9394691+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:01:55.6055384+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:05:44.9505527+00:00"
 }

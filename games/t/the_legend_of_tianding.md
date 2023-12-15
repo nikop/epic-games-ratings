@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Hero Arrives | 87.00% | ~33 |
 | Eat the Rich | 61.00% | ~23 |
-| Killing Machine | 47.00% | ~18 |
+| Killing Machine | 50.00% | ~19 |
 | Phantom Kunoichi | 45.00% | ~17 |
 | Death Battle | 42.00% | ~16 |
 | Divine Retribution | 39.00% | ~15 |
@@ -15,8 +15,8 @@
 | Final Showdown | 32.00% | ~12 |
 | The End of an Outlaw | 32.00% | ~12 |
 | Sewer Rat | 32.00% | ~12 |
+| Urban Explorer | 29.00% | ~11 |
 | Demon Slayer | 26.00% | ~10 |
-| Urban Explorer | 26.00% | ~10 |
 | Steal Her Away | 26.00% | ~10 |
 | Fight Fire With Fire | 26.00% | ~10 |
 | Tour Guide | 24.00% | ~9 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1582,
+  "EOS_Progressed": 1584,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -2388,6 +2388,11 @@
       "Time": "2023-12-15T15:06:03.7264539+00:00",
       "NumProgressed": 1582,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-15T16:07:26.6063159+00:00",
+      "NumProgressed": 1584,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2399,7 +2404,7 @@
       "Name": "Lovebirds",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "10",
@@ -2407,7 +2412,7 @@
       "Name": "Perfect timing",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "11",
@@ -2423,7 +2428,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "13",
@@ -2455,7 +2460,7 @@
       "Name": "My little pony",
       "Percentage": 20,
       "XP": 70,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "17",
@@ -2463,7 +2468,7 @@
       "Name": "Balding bloot!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1220
     },
     {
       "ID": "18",
@@ -2471,7 +2476,7 @@
       "Name": "Like new!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "19",
@@ -2519,7 +2524,7 @@
       "Name": "Pearls before Birble",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "24",
@@ -2535,7 +2540,7 @@
       "Name": "Heartstrings",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "27",
@@ -2559,7 +2564,7 @@
       "Name": "Hug therapy",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "30",
@@ -2607,7 +2612,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "7",
@@ -2623,7 +2628,7 @@
       "Name": "Over my dead body",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "9",
@@ -2631,22 +2636,22 @@
       "Name": "Last minute",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1582,
+      "Progressed": 1584,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:06:03.7264535+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:07:26.6063156+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:06.0236888+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:00:19.5180802+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:06:03.7264771+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:01:26.717858+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:07:26.6063396+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 330,
+  "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 93,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 452,
+  "EOS_Progressed": 456,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -1295,6 +1295,11 @@
       "Time": "2023-12-15T15:09:50.8610739+00:00",
       "NumProgressed": 452,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T16:10:36.2180111+00:00",
+      "NumProgressed": 456,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1306,15 +1311,15 @@
       "Name": "Break Out",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_03",
@@ -1416,9 +1421,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_16",
@@ -1440,9 +1445,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_19",
@@ -1520,9 +1525,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_29",
@@ -1593,14 +1598,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 452,
+      "Progressed": 456,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:09:50.8610737+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:10:36.2180107+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:58:24.1640364+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:09:50.8611025+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:58:50.4580994+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:10:36.2180706+00:00"
 }

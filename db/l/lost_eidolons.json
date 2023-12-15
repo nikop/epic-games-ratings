@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1145,
+  "EOS_Progressed": 1144,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1631,6 +1631,11 @@
       "Time": "2023-12-15T15:04:50.2637187+00:00",
       "NumProgressed": 1145,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T16:05:51.838456+00:00",
+      "NumProgressed": 1144,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -1674,15 +1679,15 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 778
     },
     {
       "ID": "06",
       "SetID": "73ikgfc",
       "Name": "First Blood",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 733
+      "UsersEstimate": 744
     },
     {
       "ID": "07",
@@ -1770,7 +1775,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 710
+      "UsersEstimate": 709
     },
     {
       "ID": "18",
@@ -1808,9 +1813,9 @@
       "ID": "22",
       "SetID": "73ikgfc",
       "Name": "House Vulisica\u0027s Heirloom",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 172
     },
     {
       "ID": "23",
@@ -1825,7 +1830,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1145,
+      "Progressed": 1144,
       "Completed": 1
     }
   ],
@@ -1833,8 +1838,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:04:50.2637184+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:05:51.8384556+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:19.4447569+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:57:09.5398746+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:04:50.2637431+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:57:12.6983136+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:05:51.8384765+00:00"
 }

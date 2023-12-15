@@ -8,8 +8,8 @@ Rating: 4.03 (Ranked 1,009)
 | I don't feel so good | 42.00% | ~750 |
 | Fear my botany powers, Mars | 33.00% | ~589 |
 | Electrician | 33.00% | ~589 |
+| Occupy Mars! | 31.00% | ~554 |
 | Zero Waste | 30.00% | ~536 |
-| Occupy Mars! | 30.00% | ~536 |
 | Bob The Builder | 30.00% | ~536 |
 | I am the greatest botanist on this planet. | 29.00% | ~518 |
 | Gardener | 26.00% | ~464 |

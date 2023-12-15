@@ -2,12 +2,12 @@
   "ID": "277e364d24ec43069f4ee3c4414d5096",
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
-  "Ranking_Rating": 421,
+  "Ranking_Rating": 422,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116731,
+  "EOS_Progressed": 116734,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -21359,6 +21359,11 @@
       "Time": "2023-12-15T15:09:38.8129389+00:00",
       "NumProgressed": 116731,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-15T16:10:21.8165492+00:00",
+      "NumProgressed": 116734,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 49,
@@ -21378,7 +21383,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89883
+      "UsersEstimate": 89885
     },
     {
       "ID": "EAwards_10",
@@ -21394,7 +21399,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 30350
+      "UsersEstimate": 30351
     },
     {
       "ID": "EAwards_12",
@@ -21442,7 +21447,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43190
+      "UsersEstimate": 43192
     },
     {
       "ID": "EAwards_18",
@@ -21466,7 +21471,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 56031
+      "UsersEstimate": 56032
     },
     {
       "ID": "EAwards_20",
@@ -21474,7 +21479,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12840
+      "UsersEstimate": 12841
     },
     {
       "ID": "EAwards_21",
@@ -21498,7 +21503,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9338
+      "UsersEstimate": 9339
     },
     {
       "ID": "EAwards_24",
@@ -21522,7 +21527,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12840
+      "UsersEstimate": 12841
     },
     {
       "ID": "EAwards_27",
@@ -21554,7 +21559,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23346
+      "UsersEstimate": 23347
     },
     {
       "ID": "EAwards_30",
@@ -21570,7 +21575,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12840
+      "UsersEstimate": 12841
     },
     {
       "ID": "EAwards_32",
@@ -21754,14 +21759,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12840
+      "UsersEstimate": 12841
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116731,
+      "Progressed": 116734,
       "Completed": 52
     }
   ],
@@ -21769,8 +21774,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:09:38.8129385+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:10:21.8165489+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:07.3909986+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:02:36.0578756+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:09:38.8130732+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:02:55.3919761+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:10:21.8167017+00:00"
 }

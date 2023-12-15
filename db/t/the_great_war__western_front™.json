@@ -5,10 +5,10 @@
   "Ranking_Rating": 1007,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
-  "Ranking_EOS_Progress": 302,
+  "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 624,
+  "EOS_Progressed": 625,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2823,6 +2823,11 @@
       "Time": "2023-12-15T15:03:24.3005018+00:00",
       "NumProgressed": 624,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T16:04:01.2872755+00:00",
+      "NumProgressed": 625,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2882,7 +2887,7 @@
       "Name": "The Chemists\u0027 War",
       "Percentage": 6,
       "XP": 110,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -2929,7 +2934,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 624,
+      "Progressed": 625,
       "Completed": 0
     }
   ],
@@ -2937,8 +2942,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:03:24.3005014+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:04:01.2872752+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:05.7146339+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:58:33.0203942+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:03:24.3005249+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:59:02.2675599+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:04:01.2873024+00:00"
 }

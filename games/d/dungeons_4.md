@@ -14,7 +14,7 @@
 | Bad Elves Go Everywhere | 69.00% | ~387 |
 | Thalya's Concentrated Fury | 68.00% | ~381 |
 | Heroes’ Gorge | 65.00% | ~365 |
-| Master of Magic | 63.00% | ~353 |
+| Master of Magic | 64.00% | ~359 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~348 |
 | Magic Accidents | 59.00% | ~331 |
 | The Ascent | 58.00% | ~325 |
@@ -26,8 +26,8 @@
 | “… like son” | 51.00% | ~286 |
 | YOU SHALL NOT PASS! | 50.00% | ~280 |
 | The Cathedral of Light | 47.00% | ~264 |
+| Pure Dynamite! | 46.00% | ~258 |
 | Shame! Shame! Shame! | 46.00% | ~258 |
-| Pure Dynamite! | 45.00% | ~252 |
 | Dungeonlord Gorgu | 45.00% | ~252 |
 | Tanos' Crusade Against Thalya | 45.00% | ~252 |
 | Mana Cannon | 42.00% | ~236 |
@@ -35,7 +35,7 @@
 | The Duel | 35.00% | ~196 |
 | Unstoppable Horde | 34.00% | ~191 |
 | Master of the Undead | 34.00% | ~191 |
-| If Looks Could Kill | 32.00% | ~180 |
+| If Looks Could Kill | 33.00% | ~185 |
 | The Finitude Drill | 30.00% | ~168 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~163 |
 | Forbidden Knowledge | 28.00% | ~157 |

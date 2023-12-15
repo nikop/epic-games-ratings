@@ -25,28 +25,28 @@
 | Irene Court-Smyth | 34.00% | ~15 |
 | An odd series of events | 32.00% | ~14 |
 | The Apartment | 32.00% | ~14 |
-| Nathaniel Dryden | 27.00% | ~12 |
-| Well-acquainted | 25.00% | ~11 |
-| Truth from within | 25.00% | ~11 |
-| A rude awakening | 25.00% | ~11 |
-| Anastasia Babanin | 25.00% | ~11 |
-| Zakariya Demir | 25.00% | ~11 |
-| Bartholomew | 25.00% | ~11 |
-| The Scheme | 25.00% | ~11 |
-| A curious phrase | 20.00% | ~9 |
-| Evelyn Lakshmi Warbeck | 20.00% | ~9 |
-| The Suspects | 20.00% | ~9 |
-| Horace Mountjoy | 16.00% | ~7 |
-| Johan Kristiansen | 16.00% | ~7 |
-| The Secrets | 16.00% | ~7 |
-| Well-travelled | 14.00% | ~6 |
-| A peculiar fellow | 14.00% | ~6 |
+| Nathaniel Dryden | 30.00% | ~13 |
+| Well-acquainted | 27.00% | ~12 |
+| Truth from within | 27.00% | ~12 |
+| A rude awakening | 27.00% | ~12 |
+| Anastasia Babanin | 27.00% | ~12 |
+| Zakariya Demir | 27.00% | ~12 |
+| Bartholomew | 27.00% | ~12 |
+| The Scheme | 27.00% | ~12 |
+| A curious phrase | 23.00% | ~10 |
+| Evelyn Lakshmi Warbeck | 23.00% | ~10 |
+| The Suspects | 23.00% | ~10 |
+| Horace Mountjoy | 18.00% | ~8 |
+| Johan Kristiansen | 18.00% | ~8 |
+| The Secrets | 18.00% | ~8 |
+| Well-travelled | 16.00% | ~7 |
+| A peculiar fellow | 16.00% | ~7 |
+| Mortimer Ailsworth | 16.00% | ~7 |
+| A perilous journey | 14.00% | ~6 |
 | Florence Farquhar | 14.00% | ~6 |
-| Mortimer Ailsworth | 14.00% | ~6 |
 | The Investigation Starts Anew | 14.00% | ~6 |
 | The Denouement | 11.00% | ~5 |
 | A treasured heirloom | 11.00% | ~5 |
-| A perilous journey | 11.00% | ~5 |
 | The Penitent Magdalene | 11.00% | ~5 |
 | A true performance | 11.00% | ~5 |
 | Perkins | 7.00% | ~3 |

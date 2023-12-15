@@ -10,12 +10,12 @@
 | Lucky Strike | 60.00% | ~52 |
 | Cardinal Sins | 49.00% | ~43 |
 | Warm and Fuzzy | 49.00% | ~43 |
-| Master of Warfare | 36.00% | ~31 |
+| Master of Warfare | 37.00% | ~32 |
 | Vicious Delicious | 25.00% | ~22 |
 | Hellfire | 23.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 465)  
-Completed: 16 (18.39%) (Ranked 25)  
+Progressed: 87 (Ranked 466)  
+Completed: 17 (19.54%) (Ranked 23)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -35,7 +35,7 @@ Completed: 16 (18.39%) (Ranked 25)
 | 2023-10-20 | 84 | 16 |
 | 2023-11-07 | 85 | 16 |
 | 2023-11-28 | 86 | 16 |
-| 2023-12-15 | 87 | 16 |
+| 2023-12-15 | 87 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

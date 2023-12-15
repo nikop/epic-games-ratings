@@ -8,7 +8,7 @@
 | Half a Life | 4.00% | ~22 |
 | Shock to the System | 3.00% | ~16 |
 | Bad Blood | 2.00% | ~11 |
-| Serious Bam | 1.00% | ~5 |
+| Serious Bam | 1.00% | ~6 |
 | Doomed | 0.90% | ~5 |
 | Postal Service | 0.90% | ~5 |
 | Unreal | 0.90% | ~5 |
@@ -35,7 +35,7 @@
 | Rage Quit | 0.20% | ~1 |
 | Until Dusk | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 548 (Ranked 316)  
+Progressed: 550 (Ranked 316)  
 Completed: 1 (0.18%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 1 (0.18%) (Ranked 272)
 | 2023-12-12 | 542 | 1 |
 | 2023-12-13 | 544 | 1 |
 | 2023-12-14 | 547 | 1 |
-| 2023-12-15 | 548 | 1 |
+| 2023-12-15 | 550 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

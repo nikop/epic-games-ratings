@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -564,7 +564,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 17047,
+  "EOS_Progressed": 17048,
   "EOS_Completed": 119,
   "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 3,
@@ -16144,6 +16144,11 @@
       "Time": "2023-12-15T14:06:25.2906426+00:00",
       "NumProgressed": 17047,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-15T16:07:46.285216+00:00",
+      "NumProgressed": 17048,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16235,7 +16240,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3068
+      "UsersEstimate": 3069
     },
     {
       "ID": "tpote_achievement_2",
@@ -16267,7 +16272,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3409
+      "UsersEstimate": 3410
     },
     {
       "ID": "tpote_achievement_23",
@@ -16307,7 +16312,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3068
+      "UsersEstimate": 3069
     },
     {
       "ID": "tpote_achievement_28",
@@ -16347,7 +16352,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3068
+      "UsersEstimate": 3069
     },
     {
       "ID": "tpote_achievement_32",
@@ -16443,7 +16448,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4091
+      "UsersEstimate": 4092
     },
     {
       "ID": "tpote_achievement_6",
@@ -16482,15 +16487,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17047,
+      "Progressed": 17048,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-13T16:01:07.6767372+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:06:18.729474+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:07:46.2852156+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:23.5508408+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:02:22.2665377+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:06:18.729577+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:02:37.5633243+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:07:46.285351+00:00"
 }

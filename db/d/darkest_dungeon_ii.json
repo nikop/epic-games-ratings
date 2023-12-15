@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 260,
+  "Ranking_Rating": 261,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
@@ -9744,9 +9744,9 @@
       "Count": 1004
     }
   ],
-  "EOS_Progressed": 127316,
+  "EOS_Progressed": 127337,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1487,
+  "EOS_NewPlayers": 1505,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35169,6 +35169,11 @@
       "Time": "2023-12-15T15:08:53.9578911+00:00",
       "NumProgressed": 127316,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T16:09:24.4378818+00:00",
+      "NumProgressed": 127337,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35250,9 +35255,9 @@
       "ID": "altar_of_hope_unlock_hero_runaway",
       "SetID": "64l4lke",
       "Name": "Boxcar Kid",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 764
+      "UsersEstimate": 891
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -35308,7 +35313,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35332,7 +35337,7 @@
       "Name": "Not Today!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35340,7 +35345,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35380,7 +35385,7 @@
       "Name": "Meat and Greet",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35396,7 +35401,7 @@
       "Name": "Catch and Decease",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "combat_kill_librarian",
@@ -35404,7 +35409,7 @@
       "Name": "Overdue Notice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35420,7 +35425,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35482,9 +35487,9 @@
       "ID": "driving_biome_clear_coast",
       "SetID": "64l4lke",
       "Name": "Merry Time",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1273
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -35532,7 +35537,7 @@
       "Name": "Autodidact",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "hero_story_complete_all",
@@ -35716,7 +35721,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "combat_kill_collector",
@@ -35811,21 +35816,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127316,
+      "Progressed": 127337,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2185,
+      "Progressed": 2206,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-15T15:00:35.0080552+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:08:53.9578909+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:09:24.4378816+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:00:35.0080558+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:08:53.9580357+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:01:46.7741881+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:09:24.4380265+00:00"
 }

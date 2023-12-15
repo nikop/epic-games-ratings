@@ -6,28 +6,28 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~866 |
-| My little farm | 64.00% | ~692 |
+| Cabin boy | 81.00% | ~877 |
+| My little farm | 64.00% | ~693 |
 | Every beginning is difficult | 62.00% | ~671 |
 | Gofer | 57.00% | ~617 |
-| 3, 2, 1, mine | 55.00% | ~595 |
-| O Captain! My Captain! | 55.00% | ~595 |
+| 3, 2, 1, mine | 55.00% | ~596 |
+| O Captain! My Captain! | 55.00% | ~596 |
 | Seafarer | 51.00% | ~552 |
-| Greed for gold | 43.00% | ~465 |
-| Intangible | 42.00% | ~454 |
-| I'm out of here for a while | 42.00% | ~454 |
-| In a mint condition | 38.00% | ~411 |
-| Licence to Kill | 37.00% | ~400 |
+| Greed for gold | 43.00% | ~466 |
+| Intangible | 42.00% | ~455 |
+| I'm out of here for a while | 42.00% | ~455 |
+| In a mint condition | 38.00% | ~412 |
+| Licence to Kill | 37.00% | ~401 |
 | Pirates! | 34.00% | ~368 |
 | Collectionitis | 29.00% | ~314 |
 | Megalomania | 29.00% | ~314 |
 | Christening | 28.00% | ~303 |
-| Groundskeeper | 26.00% | ~281 |
+| Groundskeeper | 26.00% | ~282 |
 | Walk the plank | 22.00% | ~238 |
 | Wholesale | 22.00% | ~238 |
 | Pearly gates | 18.00% | ~195 |
 | My precious! | 18.00% | ~195 |
-| Conquistador | 14.00% | ~151 |
+| Conquistador | 14.00% | ~152 |
 | Panic buying | 11.00% | ~119 |
 | Your vessel, my vessel | 10.00% | ~108 |
 | Just a scratch | 9.00% | ~97 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.70% | ~8 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,082 (Ranked 269)  
+Progressed: 1,083 (Ranked 269)  
 Completed: 1 (0.09%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 1 (0.09%) (Ranked 303)
 | 2023-12-12 | 1,072 | 1 |
 | 2023-12-13 | 1,073 | 1 |
 | 2023-12-14 | 1,081 | 1 |
-| 2023-12-15 | 1,082 | 1 |
+| 2023-12-15 | 1,083 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

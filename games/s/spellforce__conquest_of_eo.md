@@ -19,10 +19,10 @@
 | Friend of Lyraine | 45.00% | ~23 |
 | The Circle | 43.00% | ~22 |
 | Alchemist's Apprentice | 43.00% | ~22 |
-| Redecorating | 35.00% | ~18 |
+| Redecorating | 37.00% | ~19 |
+| Friend of Sevenkeeps | 27.00% | ~14 |
 | Bad JuJu | 27.00% | ~14 |
 | Slave to the rhythm | 25.00% | ~13 |
-| Friend of Sevenkeeps | 25.00% | ~13 |
 | Castle Meldec | 20.00% | ~10 |
 | Sevenkeeps Seat of Kings | 20.00% | ~10 |
 | Friend of Gillyshire | 18.00% | ~9 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -149,11 +149,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1157,
+  "EOS_Progressed": 1158,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.77,
+  "EOS_Completed_Percentage": 2.76,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3879,6 +3879,11 @@
       "Time": "2023-12-15T10:05:10.0669948+00:00",
       "NumProgressed": 1157,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-15T16:06:29.0213796+00:00",
+      "NumProgressed": 1158,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3891,7 +3896,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -3899,7 +3904,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "_03_FinishAct1",
@@ -3955,7 +3960,7 @@
       "Name": "Powder Monkey",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "_10_Completion_30",
@@ -3977,9 +3982,9 @@
       "ID": "_12_Completion_50",
       "SetID": "8a1io5d",
       "Name": "Privateer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 104
     },
     {
       "ID": "_13_Completion_60",
@@ -4043,7 +4048,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -4098,7 +4103,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1157,
+      "Progressed": 1158,
       "Completed": 32
     }
   ],
@@ -4106,8 +4111,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:05:19.183957+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:06:29.0213792+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:59:09.8542027+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:05:19.1840075+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:59:51.2950002+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:06:29.0214171+00:00"
 }

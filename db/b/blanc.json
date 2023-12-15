@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3509,
+  "EOS_Progressed": 3511,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5446,6 +5446,11 @@
       "Time": "2023-12-15T13:12:44.3306868+00:00",
       "NumProgressed": 3509,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-15T16:07:36.6803902+00:00",
+      "NumProgressed": 3511,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5521,7 +5526,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -5553,14 +5558,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3509,
+      "Progressed": 3511,
       "Completed": 6
     }
   ],
@@ -5568,8 +5573,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:06:11.6708703+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:07:36.6803899+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:18.0649883+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:57:00.5648969+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:06:11.6709194+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:57:02.6608498+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:07:36.6804363+00:00"
 }

@@ -1,7 +1,7 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.60 (Ranked 421)  
+Rating: 4.61 (Ranked 389)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,6 +13,7 @@ Rating: 4.60 (Ranked 421)
 | Search for the Hairy Grell | 0.20% | ~17 |
 | Flaming Hot Completos | 0.20% | ~17 |
 | Lumberjack | 0.20% | ~17 |
+| Miner 49er | 0.20% | ~17 |
 | Break-Net Speed | 0.20% | ~17 |
 | ... And Spit Back Out | 0.20% | ~17 |
 | Mist Walker | 0.20% | ~17 |
@@ -27,7 +28,6 @@ Rating: 4.60 (Ranked 421)
 | Cloverfield Island | 0.10% | ~8 |
 | Got to Catch Them All | 0.10% | ~8 |
 | Angling Authority | 0.10% | ~8 |
-| Miner 49er | 0.10% | ~8 |
 | Beach Comber | 0.10% | ~8 |
 | Workaholic | 0.10% | ~8 |
 | Giving the People What They Want | 0.10% | ~8 |
@@ -49,7 +49,7 @@ Rating: 4.60 (Ranked 421)
 | Exit Through The Gift Shop | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,440 (Ranked 177)  
+Progressed: 8,441 (Ranked 177)  
 Completed: 1 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 1 (0.01%) (Ranked 353)
 | 2023-12-11 | 8,419 | 1 |
 | 2023-12-13 | 8,425 | 1 |
 | 2023-12-14 | 8,437 | 1 |
-| 2023-12-15 | 8,440 | 1 |
+| 2023-12-15 | 8,441 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -197,3 +197,4 @@ Completed: 1 (0.01%) (Ranked 353)
 | 2023-12-04 | 4.58 | 0 | 0 |
 | 2023-12-09 | 4.59 | 0 | 0 |
 | 2023-12-11 | 4.60 | 0 | 0 |
+| 2023-12-15 | 4.61 | 0 | 0 |

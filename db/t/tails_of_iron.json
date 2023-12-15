@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -4090,9 +4090,9 @@
       "ID": "DefeatAvor",
       "SetID": "9lj35g4",
       "Name": "Defeat Avor Warden of the Northern Wastes",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 471
     },
     {
       "ID": "DefeatMoziQueen",
@@ -4241,8 +4241,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:05:06.6722547+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:06:13.033545+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:13.9280126+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:58:24.8594462+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:05:06.672295+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:58:51.5131052+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:06:13.033596+00:00"
 }

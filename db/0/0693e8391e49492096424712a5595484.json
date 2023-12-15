@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -2449,9 +2449,9 @@
       "ID": "PriestBroom",
       "SetID": "db30heh",
       "Name": "Chastisement",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 133
+      "UsersEstimate": 139
     },
     {
       "ID": "PriestPistol",
@@ -2577,17 +2577,17 @@
       "ID": "SwordMoneyBag",
       "SetID": "db30heh",
       "Name": "Expensive Deal",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 222
+      "UsersEstimate": 228
     },
     {
       "ID": "WormGrilled",
       "SetID": "db30heh",
       "Name": "Bratwurm",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 78
     }
   ],
   "AchievementSets": [
@@ -2600,8 +2600,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:04:39.5578469+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:05:37.7640809+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:40.9635354+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:59:34.597231+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:04:39.5578842+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:00:24.6125626+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:05:37.7641138+00:00"
 }

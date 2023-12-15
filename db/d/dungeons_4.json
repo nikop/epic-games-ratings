@@ -4,8 +4,8 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1600,9 +1600,9 @@
       "ID": "ach_main03demon_doors",
       "SetID": "4hg22ll",
       "Name": "Master of Magic",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 359
     },
     {
       "ID": "ach_main03demon_spells",
@@ -1704,9 +1704,9 @@
       "ID": "ach_main07storm_dynamite",
       "SetID": "4hg22ll",
       "Name": "Pure Dynamite!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 258
     },
     {
       "ID": "ach_main07storm_storm",
@@ -1864,9 +1864,9 @@
       "ID": "ach_main14run_completed",
       "SetID": "4hg22ll",
       "Name": "If Looks Could Kill",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 185
     },
     {
       "ID": "ach_main14run_mirroruses",
@@ -2039,8 +2039,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:05:46.7805648+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:07:04.2810811+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:57:29.3483966+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:05:46.7806077+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:57:37.3566048+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:07:04.281125+00:00"
 }

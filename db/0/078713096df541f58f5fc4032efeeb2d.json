@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -237,9 +237,9 @@
       "ID": "creepytale3_ach_17",
       "SetID": "7idcjbn",
       "Name": "Pain lover",
-      "Percentage": 31,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "creepytale3_ach_18",
@@ -293,9 +293,9 @@
       "ID": "creepytale3_ach_23",
       "SetID": "7idcjbn",
       "Name": "Who wrote this stuff?",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "creepytale3_ach_24",
@@ -445,9 +445,9 @@
       "ID": "creepytale3_ach_9",
       "SetID": "7idcjbn",
       "Name": "Curiosity",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -460,8 +460,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:04:21.0305517+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:05:14.074959+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.5738942+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:59:56.3671158+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:04:21.0305735+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:00:53.5892949+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:05:14.0749885+00:00"
 }

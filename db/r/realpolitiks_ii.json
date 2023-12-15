@@ -2,13 +2,13 @@
   "ID": "be69d05166bd49f3b649f6103c2324d0",
   "Name": "Realpolitiks II",
   "ProductSlug": "realpolitiks-2",
-  "Ranking_Rating": 968,
+  "Ranking_Rating": 950,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 505,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewPlayers": 507,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-05-12T17:00:00+00:00",
     "PcReleaseDate": "2020-11-18T10:45:21+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.14,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2022-12-01T03:29:27.0060801+00:00",
@@ -35,6 +35,12 @@
     {
       "Time": "2023-04-21T20:57:00.1656612+00:00",
       "Rating": 4.14,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-15T16:00:17.0077041+00:00",
+      "Rating": 4.17,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -55,8 +61,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:15.0752581+00:00",
   "FirstSeenRating": "2022-12-01T03:29:27.0060799+00:00",
-  "LastChanged": "2023-04-21T20:57:00.165661+00:00",
+  "LastChanged": "2023-12-15T16:00:17.0077039+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:57.6345072+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:59:29.8614937+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:08:57.6437742+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:00:17.0077046+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:09:29.0210886+00:00"
 }

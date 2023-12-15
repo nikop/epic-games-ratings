@@ -6,7 +6,7 @@ Rating: 4.58 (Ranked 454)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Read Between The Lines | 63.00% | ~747 |
-| To Hell In A Handcart | 61.00% | ~723 |
+| To Hell In A Handcart | 62.00% | ~735 |
 | High Profile | 54.00% | ~640 |
 | Whispers In The Dark | 51.00% | ~605 |
 | Fond Memories | 49.00% | ~581 |
@@ -16,14 +16,14 @@ Rating: 4.58 (Ranked 454)
 | Gaze Into The Abyss | 43.00% | ~510 |
 | Open Sesame | 43.00% | ~510 |
 | Sticky Fingers | 43.00% | ~510 |
+| Lock, Stock, And Barrel | 42.00% | ~498 |
 | Knives Out | 42.00% | ~498 |
-| Lock, Stock, And Barrel | 41.00% | ~486 |
 | Back In The Saddle | 41.00% | ~486 |
 | Land, Ho! | 41.00% | ~486 |
 | No Man Is An Island | 40.00% | ~474 |
 | At Wits' End | 39.00% | ~463 |
+| Fhtagn! | 38.00% | ~451 |
 | Up In Flames | 37.00% | ~439 |
-| Fhtagn! | 37.00% | ~439 |
 | Bookworm | 36.00% | ~427 |
 | Going Once... | 35.00% | ~415 |
 | Let Me Be Frank | 33.00% | ~391 |

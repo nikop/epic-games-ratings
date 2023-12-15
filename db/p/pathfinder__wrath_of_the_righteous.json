@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4589,9 +4589,9 @@
       "Count": 401
     }
   ],
-  "EOS_Progressed": 12343,
+  "EOS_Progressed": 12345,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16939,6 +16939,11 @@
       "Time": "2023-12-15T15:09:46.9418258+00:00",
       "NumProgressed": 12343,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T16:10:31.6054163+00:00",
+      "NumProgressed": 12345,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17086,7 +17091,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "19_EqualToAroden",
@@ -17318,7 +17323,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2345
+      "UsersEstimate": 2346
     },
     {
       "ID": "49_Flame",
@@ -17822,7 +17827,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -17877,21 +17882,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11125,
+      "Progressed": 11127,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12343,
+      "Progressed": 12345,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-15T14:58:48.3886999+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:09:46.9418256+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:10:31.605416+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:58:48.3887015+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:09:46.9420263+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:59:21.9220763+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:10:31.6055718+00:00"
 }

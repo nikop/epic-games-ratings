@@ -3387,10 +3387,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3261,
       "NumberOfAwardsMax": 442
+    },
+    {
+      "Time": "2023-12-15T16:01:40.7819683+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3262,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3261,
+  "NumberOfAwards": 3262,
   "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3404,7 +3410,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 435
+      "Count": 436
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3455,9 +3461,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18221,
+  "EOS_Progressed": 18231,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 557,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15815,6 +15821,11 @@
       "Time": "2023-12-15T15:03:48.4580927+00:00",
       "NumProgressed": 18221,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-15T16:04:31.8726853+00:00",
+      "NumProgressed": 18231,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15915,7 +15926,7 @@
       "Name": "First Real Expedition",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "WinHard",
@@ -15923,7 +15934,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "WinImpossible",
@@ -16091,7 +16102,7 @@
       "Name": "Coral Forest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "WinOnCursed",
@@ -16107,7 +16118,7 @@
       "Name": "The Marshlands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "WinOnMoorlands",
@@ -16163,7 +16174,7 @@
       "Name": "Taking Action",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "WinWithResolve",
@@ -16203,7 +16214,7 @@
       "Name": "No Deaths",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "WinWithoutOrders",
@@ -16251,7 +16262,7 @@
       "Name": "Overgrown Library",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "WinNearPetrified",
@@ -16283,7 +16294,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "WinWithFoxes",
@@ -16298,15 +16309,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18221,
+      "Progressed": 18231,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-15T10:00:02.4999568+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:03:48.4580924+00:00",
+  "LastChanged": "2023-12-15T16:01:40.7819682+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:04:31.872685+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:00:30.2066558+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:03:48.4581956+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:01:40.7819686+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:04:31.8728011+00:00"
 }

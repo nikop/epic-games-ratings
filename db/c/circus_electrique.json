@@ -2,13 +2,13 @@
   "ID": "396a808f269241aba0fe2ad322ebd6d5",
   "Name": "Circus Electrique",
   "ProductSlug": "circus-electrique",
-  "Ranking_Rating": 953,
+  "Ranking_Rating": 954,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 505,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 477,
+  "EOS_Progressed": 478,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -512,6 +512,11 @@
       "Time": "2023-12-14T18:08:31.6966376+00:00",
       "NumProgressed": 477,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T16:03:52.4974313+00:00",
+      "NumProgressed": 478,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -523,7 +528,7 @@
       "Name": "Grand Opening",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -531,7 +536,7 @@
       "Name": "Perfect Illusion",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -569,9 +574,9 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "631ndc2",
       "Name": "Circus Electrique Proudly Presents...",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -587,7 +592,7 @@
       "Name": "Path of Learning",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -675,7 +680,7 @@
       "Name": "Hundred Percent First",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -809,9 +814,9 @@
       "ID": "ACHIEVEMENT_37",
       "SetID": "631ndc2",
       "Name": "Flawless Presentation",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -835,7 +840,7 @@
       "Name": "Marketing Manager",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -843,7 +848,7 @@
       "Name": "Self Defense",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -922,7 +927,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 477,
+      "Progressed": 478,
       "Completed": 1
     }
   ],
@@ -930,8 +935,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:03:17.4396427+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:03:52.497431+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:31.7716262+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:59:18.0217563+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:03:17.439687+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:00:01.5998366+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:03:52.4974778+00:00"
 }

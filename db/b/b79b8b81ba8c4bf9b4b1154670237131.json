@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 3739,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -143,9 +143,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15212,
+  "EOS_Progressed": 15213,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 570,
+  "EOS_NewPlayers": 567,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3733,6 +3733,11 @@
       "Time": "2023-12-15T15:09:03.9803819+00:00",
       "NumProgressed": 15212,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-15T16:09:37.1366927+00:00",
+      "NumProgressed": 15213,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -3777,7 +3782,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11409
+      "UsersEstimate": 11410
     },
     {
       "ID": "ACH_AE_14",
@@ -3817,7 +3822,7 @@
       "Name": "Crime Fighter",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH_AE_19",
@@ -3985,7 +3990,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "ACH_AE_6",
@@ -4024,7 +4029,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15212,
+      "Progressed": 15213,
       "Completed": 14
     }
   ],
@@ -4032,8 +4037,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-13T16:00:23.030195+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:09:03.9803815+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:09:37.1366922+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:28.350985+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:00:24.2465011+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:09:03.9804184+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:01:32.8635611+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:09:37.1367374+00:00"
 }

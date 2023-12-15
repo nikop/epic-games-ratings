@@ -2,13 +2,13 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_Rating": 421,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2023-09-18T15:57:21.5975399+00:00",
@@ -211,15 +211,21 @@
       "Rating": 4.6,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-15T16:03:24.8361062+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8440,
+  "EOS_Progressed": 8441,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8487,6 +8493,11 @@
       "Time": "2023-12-15T13:15:46.4719087+00:00",
       "NumProgressed": 8440,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T16:10:38.3100715+00:00",
+      "NumProgressed": 8441,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8593,9 +8604,9 @@
       "ID": "COLLECT_MINERALS",
       "SetID": "9eia0f5",
       "Name": "Miner 49er",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -8842,22 +8853,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8440,
+      "Progressed": 8441,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1057,
+      "Progressed": 1058,
       "Completed": 1050
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
-  "LastChanged": "2023-12-11T03:03:30.2960645+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:09:52.5079413+00:00",
+  "LastChanged": "2023-12-15T16:03:24.8361061+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:10:38.310071+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:02:57.5097295+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:09:52.5080126+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:03:24.8361073+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:10:38.3101653+00:00"
 }

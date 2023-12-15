@@ -6,7 +6,7 @@
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 66,
-  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
@@ -8729,18 +8729,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 32889,
       "NumberOfAwardsMax": 5635
+    },
+    {
+      "Time": "2023-12-15T15:58:31.0152166+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32899,
+      "NumberOfAwardsMax": 5645
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32889,
-  "NumberOfAwardsMax": 5635,
+  "NumberOfAwards": 32899,
+  "NumberOfAwardsMax": 5645,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5635
+      "Count": 5645
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8779,9 +8785,9 @@
       "Count": 3576
     }
   ],
-  "EOS_Progressed": 240644,
+  "EOS_Progressed": 240669,
   "EOS_Completed": 2529,
-  "EOS_NewPlayers": 1736,
+  "EOS_NewPlayers": 1750,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -35734,6 +35740,11 @@
       "Time": "2023-12-15T15:09:58.2193423+00:00",
       "NumProgressed": 240644,
       "NumCompleted": 2529
+    },
+    {
+      "Time": "2023-12-15T16:10:44.6839082+00:00",
+      "NumProgressed": 240669,
+      "NumCompleted": 2529
     }
   ],
   "TotalAchievements": 546,
@@ -40047,9 +40058,9 @@
       "ID": "objective_completed_1562",
       "SetID": "415jc5c",
       "Name": "Fast Food",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 828
+      "UsersEstimate": 1035
     },
     {
       "ID": "objective_completed_1563",
@@ -40112,21 +40123,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 206918,
-      "Completed": 3992
+      "Progressed": 206943,
+      "Completed": 3994
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 240644,
+      "Progressed": 240669,
       "Completed": 2529
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-15T14:58:09.3123815+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:09:58.2193419+00:00",
+  "LastChanged": "2023-12-15T15:58:31.0152164+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:10:44.6839079+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:58:09.3123821+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:09:58.2216288+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:58:31.0152172+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:10:44.6862514+00:00"
 }

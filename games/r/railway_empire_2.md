@@ -5,23 +5,23 @@ Rating: 4.42 (Ranked 719)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~1,819 |
+| Country Bumpkin | 76.00% | ~1,820 |
 | A new Journey | 75.00% | ~1,796 |
 | Departure | 74.00% | ~1,772 |
 | From X to Y | 73.00% | ~1,748 |
-| Way of Iron | 71.00% | ~1,700 |
-| Mystery Tour | 69.00% | ~1,652 |
-| We brake for nobody | 68.00% | ~1,628 |
-| Brainstorm | 66.00% | ~1,580 |
-| Travel Company | 66.00% | ~1,580 |
-| Mind the Gap | 65.00% | ~1,556 |
-| All around the World | 63.00% | ~1,508 |
+| Way of Iron | 70.00% | ~1,676 |
+| Mystery Tour | 69.00% | ~1,653 |
+| We brake for nobody | 68.00% | ~1,629 |
+| Brainstorm | 66.00% | ~1,581 |
+| Travel Company | 66.00% | ~1,581 |
+| Mind the Gap | 65.00% | ~1,557 |
+| All around the World | 63.00% | ~1,509 |
 | Right through the middle | 58.00% | ~1,389 |
 | Facility Manager | 54.00% | ~1,293 |
 | Poor Devil | 54.00% | ~1,293 |
 | Producer | 51.00% | ~1,221 |
-| Apprentice | 42.00% | ~1,005 |
-| Bridge Builder | 42.00% | ~1,005 |
+| Apprentice | 42.00% | ~1,006 |
+| Bridge Builder | 42.00% | ~1,006 |
 | Going once, going twice, sold | 36.00% | ~862 |
 | Access granted | 35.00% | ~838 |
 | Bull and bear | 34.00% | ~814 |
@@ -31,9 +31,9 @@ Rating: 4.42 (Ranked 719)
 | Financial Shark | 31.00% | ~742 |
 | Mole | 30.00% | ~718 |
 | Socializer | 30.00% | ~718 |
-| General Manager | 28.00% | ~670 |
-| Country Life | 28.00% | ~670 |
-| Hostile Takeover | 25.00% | ~598 |
+| General Manager | 28.00% | ~671 |
+| Country Life | 28.00% | ~671 |
+| Hostile Takeover | 25.00% | ~599 |
 | Seven at one stroke | 24.00% | ~575 |
 | Breaking Ground | 22.00% | ~527 |
 | Trailblazer | 21.00% | ~503 |
@@ -49,9 +49,9 @@ Rating: 4.42 (Ranked 719)
 | Locusts | 14.00% | ~335 |
 | A new Hope | 11.00% | ~263 |
 | Tycoon | 11.00% | ~263 |
-| Unstoppable | 9.00% | ~215 |
-| Track to the Future | 9.00% | ~215 |
-| Call of Duty | 9.00% | ~215 |
+| Unstoppable | 9.00% | ~216 |
+| Track to the Future | 9.00% | ~216 |
+| Call of Duty | 9.00% | ~216 |
 | Conductor | 7.00% | ~168 |
 | Engineer | 4.00% | ~96 |
 | Let off some steam | 4.00% | ~96 |
@@ -61,7 +61,7 @@ Rating: 4.42 (Ranked 719)
 | United States | 0.60% | ~14 |
 | Together we stand | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,394 (Ranked 224)  
+Progressed: 2,395 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 2,376 | 0 |
 | 2023-12-13 | 2,380 | 0 |
 | 2023-12-14 | 2,388 | 0 |
-| 2023-12-15 | 2,394 | 0 |
+| 2023-12-15 | 2,395 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

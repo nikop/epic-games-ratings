@@ -4,7 +4,7 @@
   "ProductSlug": "scathe-ca258f",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 548,
+  "EOS_Progressed": 550,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2326,6 +2326,11 @@
       "Time": "2023-12-15T06:09:01.8902423+00:00",
       "NumProgressed": 548,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T16:09:43.7426457+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2497,7 +2502,7 @@
       "Name": "Serious Bam",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_SHOCKING_BIO",
@@ -2576,7 +2581,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 548,
+      "Progressed": 550,
       "Completed": 1
     }
   ],
@@ -2584,8 +2589,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:09:09.0652402+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:09:43.7426451+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.4195463+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:57:27.9654958+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:09:09.0652717+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:57:35.6659761+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:09:43.7427044+00:00"
 }

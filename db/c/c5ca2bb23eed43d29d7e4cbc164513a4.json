@@ -2,10 +2,10 @@
   "ID": "c5ca2bb23eed43d29d7e4cbc164513a4",
   "Name": "Outbreak Contagious Memories",
   "ProductSlug": "outbreak-contagious-memories-9e3c2a",
-  "Ranking_EOS_Progress": 578,
+  "Ranking_EOS_Progress": 579,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-08-16T14:00:00+00:00",
     "PcReleaseDate": "2022-04-06T14:00:00+00:00",
@@ -286,8 +286,8 @@
   ],
   "FirstSeen": "2023-10-18T22:09:37.4633891+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:20.5727447+00:00",
-  "LastChanged_Achievements": "2023-12-15T15:08:20.7650669+00:00",
+  "LastChanged_Achievements": "2023-12-15T16:08:39.2344024+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:19.4214326+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:57:18.7643572+00:00",
-  "LastUpdate_Achievements": "2023-12-15T15:08:20.7650796+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:57:24.0734939+00:00",
+  "LastUpdate_Achievements": "2023-12-15T16:08:39.2344166+00:00"
 }

@@ -1,22 +1,22 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 260)  
+Rating: 4.68 (Ranked 261)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~131 |
+| Malpractice Assurance | 6.00% | ~132 |
 | This guy... again? | 3.00% | ~66 |
 | Lost and Found | 3.00% | ~66 |
-| This Belongs in a Museum | 2.00% | ~2,546 |
-| Not Today! | 2.00% | ~2,546 |
-| Creep and Sleep | 2.00% | ~2,546 |
-| Meat and Greet | 2.00% | ~2,546 |
-| Catch and Decease | 2.00% | ~2,546 |
-| Overdue Notice | 2.00% | ~2,546 |
-| Escape from the Black Hole | 2.00% | ~2,546 |
-| Autodidact | 2.00% | ~2,546 |
+| This Belongs in a Museum | 2.00% | ~2,547 |
+| Not Today! | 2.00% | ~2,547 |
+| Creep and Sleep | 2.00% | ~2,547 |
+| Meat and Greet | 2.00% | ~2,547 |
+| Catch and Decease | 2.00% | ~2,547 |
+| Overdue Notice | 2.00% | ~2,547 |
+| Escape from the Black Hole | 2.00% | ~2,547 |
+| Autodidact | 2.00% | ~2,547 |
 | Ploughshares to Swords | 2.00% | ~44 |
 | Bloody Graduation | 2.00% | ~44 |
 | Don't Make Me Turn This Coach Around | 1.00% | ~1,273 |
@@ -24,13 +24,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | It Rings a Bell | 1.00% | ~1,273 |
 | It Happens | 1.00% | ~1,273 |
 | Rush Hour | 1.00% | ~1,273 |
+| Merry Time | 1.00% | ~1,273 |
 | To Grandmother's House | 1.00% | ~1,273 |
 | A Place to Lay Your Head | 1.00% | ~1,273 |
 | FNG | 1.00% | ~1,273 |
 | Nope | 1.00% | ~1,273 |
 | Friends 'Til the End | 1.00% | ~22 |
 | Dissector | 0.90% | ~1,146 |
-| Merry Time | 0.90% | ~1,146 |
 | Harvest Festival | 0.90% | ~1,146 |
 | Whale | 0.90% | ~1,146 |
 | Banishment | 0.80% | ~1,019 |
@@ -42,6 +42,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unleash Hell | 0.70% | ~891 |
 | Funny Guy | 0.70% | ~891 |
 | Long Live the King | 0.70% | ~891 |
+| Boxcar Kid | 0.70% | ~891 |
 | Unfulfilled Desires | 0.70% | ~891 |
 | Predator | 0.70% | ~891 |
 | Now Stay Dead | 0.70% | ~891 |
@@ -49,7 +50,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ramble On | 0.70% | ~891 |
 | Unshackled | 0.70% | ~891 |
 | Wyrdly Reconstructed | 0.60% | ~764 |
-| Boxcar Kid | 0.60% | ~764 |
 | A Clear Conscience | 0.60% | ~764 |
 | When You Want Something Done Right | 0.60% | ~764 |
 | Utopia | 0.60% | ~764 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,316 (Ranked 84)  
+Progressed: 127,337 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
-| 2023-12-15 | 127,316 | 3 |
+| 2023-12-15 | 127,337 | 3 |
 ## Awards
 Max (Character Customization): 7,718  (Ranked 51)  
 Sum: 20,498 (Ranked 59)  

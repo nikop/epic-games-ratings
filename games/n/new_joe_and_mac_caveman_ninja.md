@@ -16,12 +16,12 @@
 | Dinosaur graveyard. | 11.00% | ~26 |
 | Swimming on a dino's back. | 9.00% | ~21 |
 | The entrails of the beast. | 9.00% | ~21 |
-| The mountain of peril. | 7.00% | ~16 |
+| The mountain of peril. | 7.00% | ~17 |
 | Passing the carcass. | 6.00% | ~14 |
 | Lightning swamp. | 6.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 385)  
-Completed: 6 (2.55%) (Ranked 120)  
+Progressed: 236 (Ranked 385)  
+Completed: 6 (2.54%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,6 +78,7 @@ Completed: 6 (2.55%) (Ranked 120)
 | 2023-11-20 | 227 | 6 |
 | 2023-12-01 | 229 | 6 |
 | 2023-12-14 | 235 | 6 |
+| 2023-12-15 | 236 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
