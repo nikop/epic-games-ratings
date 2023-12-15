@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sigil | 0.60% | ~1,241 |
+| Welcome to Sigil | 0.60% | ~1,242 |
 | Fast Food | 0.40% | ~828 |
 | A Brief Tour of the Realms | 0.30% | ~722 |
 | Misaligned in Sigil | 0.20% | ~414 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mind Spike | 0.10% | ~207 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,626 (Ranked 66)  
+Progressed: 240,644 (Ranked 66)  
 Completed: 2,529 (1.05%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -792,10 +792,10 @@ Completed: 2,529 (1.05%) (Ranked 169)
 | 2023-12-12 | 239,570 | 2,517 |
 | 2023-12-13 | 239,847 | 2,519 |
 | 2023-12-14 | 240,414 | 2,526 |
-| 2023-12-15 | 240,626 | 2,529 |
+| 2023-12-15 | 240,644 | 2,529 |
 ## Awards
 Max (Great for Beginners): 5,635  (Ranked 70)  
-Sum: 32,884 (Ranked 41)  
+Sum: 32,889 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -805,7 +805,7 @@ Diff (max vs sum): 29
 | This game is Relaxing | 4,731 |
 | This game has Amazing Characters | 4,257 |
 | This game is Highly Recommended | 4,246 |
-| This game has Playful Visuals | 3,571 |
+| This game has Playful Visuals | 3,576 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -1132,4 +1132,4 @@ Diff (max vs sum): 29
 | 2023-12-12 | 4.06 | - | 5,622 | 32,830 |
 | 2023-12-13 | 4.06 | - | 5,624 | 32,841 |
 | 2023-12-14 | 4.06 | - | 5,635 | 32,877 |
-| 2023-12-15 | 4.06 | - | 5,635 | 32,884 |
+| 2023-12-15 | 4.06 | - | 5,635 | 32,889 |

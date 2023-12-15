@@ -35,6 +35,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Spine Breaker | 0.50% | ~1,205 |
 | Shootout | 0.50% | ~1,205 |
 | C-C-Combo | 0.50% | ~1,205 |
+| Stone Touch | 0.50% | ~1,205 |
 | Toxic | 0.50% | ~1,205 |
 | Sneaky | 0.50% | ~1,205 |
 | Expensive Look | 0.50% | ~13 |
@@ -44,7 +45,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Just Chilling | 0.40% | ~964 |
 | Save Our Souls | 0.40% | ~964 |
 | Destroy Your Fears | 0.40% | ~964 |
-| Stone Touch | 0.40% | ~964 |
 | Doing Time | 0.40% | ~964 |
 | Acid Bath | 0.40% | ~964 |
 | New Perspectives | 0.40% | ~964 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,065 (Ranked 65)  
-Completed: 298 (0.12%) (Ranked 287)  
+Progressed: 241,069 (Ranked 65)  
+Completed: 299 (0.12%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -384,7 +384,7 @@ Completed: 298 (0.12%) (Ranked 287)
 | 2023-12-12 | 240,936 | 296 |
 | 2023-12-13 | 240,984 | 298 |
 | 2023-12-14 | 241,040 | 298 |
-| 2023-12-15 | 241,065 | 298 |
+| 2023-12-15 | 241,069 | 299 |
 ## Awards
 Max (Quickly Understood Controls): 1,510  (Ranked 134)  
 Sum: 11,735 (Ranked 86)  

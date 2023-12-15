@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're Hired | 100.00% | ~65 |
-| Learn the Ropes | 82.00% | ~53 |
+| Learn the Ropes | 83.00% | ~54 |
 | Practice Makes Postmasters | 57.00% | ~37 |
 | Fun in the Bungalow Basin Sun | 51.00% | ~33 |
 | Working for the Kiweekend | 51.00% | ~33 |

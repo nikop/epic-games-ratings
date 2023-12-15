@@ -1,33 +1,33 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.65 (Ranked 317)  
+Rating: 4.65 (Ranked 316)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,767 |
-| Un-Lonely Island | 46.00% | ~2,924 |
-| The Beginning of a Servantship | 45.00% | ~2,860 |
-| Trade Is My Trait | 37.00% | ~2,352 |
-| Number 18 | 23.00% | ~1,462 |
+| Just One...More...Term... | 75.00% | ~4,769 |
+| Un-Lonely Island | 46.00% | ~2,925 |
+| The Beginning of a Servantship | 45.00% | ~2,862 |
+| Trade Is My Trait | 37.00% | ~2,353 |
+| Number 18 | 23.00% | ~1,463 |
 | We Don't Have Time For That | 19.00% | ~1,208 |
 | The Governator | 17.00% | ~1,081 |
 | The Legend of Langostino | 16.00% | ~1,017 |
-| Caribbean Comrade | 15.00% | ~953 |
-| The Dreamer of Dreams | 15.00% | ~953 |
+| Caribbean Comrade | 15.00% | ~954 |
+| The Dreamer of Dreams | 15.00% | ~954 |
 | Go Sovereigns! | 11.00% | ~699 |
 | For Science! | 11.00% | ~699 |
 | Happy Ending? | 10.00% | ~636 |
 | Of Seals And Men | 9.00% | ~572 |
 | Shackadelic | 9.00% | ~572 |
-| Double Trouble | 8.00% | ~508 |
-| Firestarter | 8.00% | ~508 |
+| Double Trouble | 8.00% | ~509 |
+| Firestarter | 8.00% | ~509 |
 | I Owe You Nothing | 7.00% | ~445 |
 | Make Tropico Great Again! | 7.00% | ~445 |
 | French Connection | 7.00% | ~445 |
-| Don't Panic! | 6.00% | ~381 |
-| Beware The Betman | 6.00% | ~381 |
+| Don't Panic! | 6.00% | ~382 |
+| Beware The Betman | 6.00% | ~382 |
 | Viva Tropico! | 5.00% | ~318 |
 | Computer Says "No" | 5.00% | ~318 |
 | Watch The World Burn | 5.00% | ~318 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~51 |
 | My Ways | 0.30% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,356 (Ranked 188)  
+Progressed: 6,359 (Ranked 188)  
 Completed: 2 (0.03%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 2 (0.03%) (Ranked 338)
 | 2023-12-12 | 6,303 | 2 |
 | 2023-12-13 | 6,313 | 2 |
 | 2023-12-14 | 6,351 | 2 |
-| 2023-12-15 | 6,356 | 2 |
+| 2023-12-15 | 6,359 | 2 |
 ## Awards
 Max (Highly Recommended): 104  (Ranked 365)  
 Sum: 739 (Ranked 295)  

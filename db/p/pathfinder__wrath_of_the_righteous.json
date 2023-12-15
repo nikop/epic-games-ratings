@@ -2,13 +2,13 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 131,
+  "Ranking_Rating": 130,
   "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4509,10 +4509,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7138,
       "NumberOfAwardsMax": 1761
+    },
+    {
+      "Time": "2023-12-15T14:58:48.3887001+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7139,
+      "NumberOfAwardsMax": 1761
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7138,
+  "NumberOfAwards": 7139,
   "NumberOfAwardsMax": 1761,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4562,7 +4568,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 562
+      "Count": 563
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4583,9 +4589,9 @@
       "Count": 401
     }
   ],
-  "EOS_Progressed": 12341,
+  "EOS_Progressed": 12343,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16928,6 +16934,11 @@
       "Time": "2023-12-15T14:09:47.6778605+00:00",
       "NumProgressed": 12341,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T15:09:46.9418258+00:00",
+      "NumProgressed": 12343,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -16939,7 +16950,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3332
+      "UsersEstimate": 3333
     },
     {
       "ID": "02_BurningCity",
@@ -16947,7 +16958,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -16995,7 +17006,7 @@
       "Name": "Path of the Angel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "09_PathOfDemon",
@@ -17147,7 +17158,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "29_StrategicVictory",
@@ -17291,7 +17302,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -17866,21 +17877,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11123,
+      "Progressed": 11125,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12341,
+      "Progressed": 12343,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-12-14T20:58:26.4644055+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:09:47.6778603+00:00",
+  "LastChanged": "2023-12-15T14:58:48.3886999+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:09:46.9418256+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:58:34.3746756+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:09:47.6780138+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:58:48.3887015+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:09:46.9420263+00:00"
 }

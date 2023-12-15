@@ -5,31 +5,31 @@ Rating: 4.46 (Ranked 655)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~133,638 |
-| My First Runbow | 50.00% | ~126,074 |
-| It's The Fall | 26.00% | ~65,558 |
-| The Stunner | 22.00% | ~55,472 |
-| Be Aggressive | 21.00% | ~52,951 |
-| Curator | 20.00% | ~50,429 |
-| Crowning Around | 18.00% | ~45,386 |
-| Can You Dig It? | 17.00% | ~42,865 |
+| In The Zone | 53.00% | ~133,641 |
+| My First Runbow | 50.00% | ~126,076 |
+| It's The Fall | 26.00% | ~65,560 |
+| The Stunner | 22.00% | ~55,473 |
+| Be Aggressive | 21.00% | ~52,952 |
+| Curator | 20.00% | ~50,430 |
+| Crowning Around | 18.00% | ~45,387 |
+| Can You Dig It? | 17.00% | ~42,866 |
 | You Juan-A-Go? | 16.00% | ~40,344 |
-| Chan-tastic | 15.00% | ~37,822 |
+| Chan-tastic | 15.00% | ~37,823 |
 | Muddy Waters | 14.00% | ~35,301 |
-| Toasty! | 13.00% | ~32,779 |
+| Toasty! | 13.00% | ~32,780 |
 | Lazy Laser | 8.00% | ~20,172 |
-| Just A Phaze | 7.00% | ~17,650 |
-| Into The Drift | 7.00% | ~17,650 |
-| Ready? Fight! | 7.00% | ~17,650 |
+| Just A Phaze | 7.00% | ~17,651 |
+| Into The Drift | 7.00% | ~17,651 |
+| Ready? Fight! | 7.00% | ~17,651 |
 | Butt Butt | 6.00% | ~15,129 |
-| He Who Laughs Last | 3.00% | ~7,564 |
-| Shoo, Cat! | 3.00% | ~7,564 |
+| He Who Laughs Last | 3.00% | ~7,565 |
+| Shoo, Cat! | 3.00% | ~7,565 |
 | And You're Okay | 2.00% | ~5,043 |
 | Blotbuster | 2.00% | ~5,043 |
 | Thunderstruck | 2.00% | ~5,043 |
-| Just A Bit | 1.00% | ~2,521 |
-| Tubular, Dude | 1.00% | ~2,521 |
-| What A Trip | 1.00% | ~2,521 |
+| Just A Bit | 1.00% | ~2,522 |
+| Tubular, Dude | 1.00% | ~2,522 |
+| What A Trip | 1.00% | ~2,522 |
 | Please The King | 0.90% | ~2,269 |
 | Here We Go! | 0.80% | ~2,017 |
 | Clear-Cut | 0.50% | ~1,261 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 655)
 | Talent Scout | 0.10% | ~252 |
 | True Completionist | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,147 (Ranked 62)  
+Progressed: 252,152 (Ranked 62)  
 Completed: 6 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 6 (0.00%) (Ranked 377)
 | 2023-12-12 | 252,107 | 6 |
 | 2023-12-13 | 252,117 | 6 |
 | 2023-12-14 | 252,140 | 6 |
-| 2023-12-15 | 252,147 | 6 |
+| 2023-12-15 | 252,152 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

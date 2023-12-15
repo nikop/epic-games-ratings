@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -625,7 +625,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3426,
+  "EOS_Progressed": 3427,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
@@ -9860,6 +9860,11 @@
       "Time": "2023-12-15T14:04:25.6104266+00:00",
       "NumProgressed": 3426,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T15:04:18.4678876+00:00",
+      "NumProgressed": 3427,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -9983,7 +9988,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "dragonslayer",
@@ -10039,7 +10044,7 @@
       "Name": "Enlightenment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "exoticmerchant",
@@ -10167,7 +10172,7 @@
       "Name": "Lieutenant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "lockandload",
@@ -10271,7 +10276,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "relicofthepast",
@@ -10431,7 +10436,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3186
+      "UsersEstimate": 3187
     },
     {
       "ID": "warmachinesarmy",
@@ -10463,14 +10468,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3426,
+      "Progressed": 3427,
       "Completed": 2
     }
   ],
@@ -10478,8 +10483,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-14T18:58:46.7589357+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:04:25.6104264+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:04:18.4678873+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:16.4016448+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:58:48.8021902+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:04:25.6105149+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:59:01.9914273+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:04:18.4679955+00:00"
 }

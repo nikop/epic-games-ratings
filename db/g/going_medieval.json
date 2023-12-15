@@ -2,13 +2,13 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 422,
+  "Ranking_Rating": 421,
   "Ranking_Popularity": 333,
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1589,9 +1589,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 7267,
+  "EOS_Progressed": 7268,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -14614,6 +14614,11 @@
       "Time": "2023-12-15T13:12:40.7249279+00:00",
       "NumProgressed": 7267,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-15T15:06:08.8695709+00:00",
+      "NumProgressed": 7268,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -14625,7 +14630,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5523
+      "UsersEstimate": 5524
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -14657,7 +14662,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4869
+      "UsersEstimate": 4870
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -14665,7 +14670,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5523
+      "UsersEstimate": 5524
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -14673,7 +14678,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5305
+      "UsersEstimate": 5306
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -14697,7 +14702,7 @@
       "Name": "Oh Deer!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -14777,7 +14782,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -14785,7 +14790,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5087
+      "UsersEstimate": 5088
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -14801,7 +14806,7 @@
       "Name": "Heating Up",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -14841,7 +14846,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3270
+      "UsersEstimate": 3271
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -14872,15 +14877,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7267,
+      "Progressed": 7268,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-13T16:57:14.3304944+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:06:15.510276+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:06:08.8695705+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:43.1438392+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:57:46.7935508+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:06:15.5103378+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:57:59.7643002+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:06:08.8696712+00:00"
 }

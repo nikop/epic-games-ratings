@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 671,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-12-07T00:00:00+00:00",
     "PcReleaseDate": "2021-12-07T00:00:00+00:00",
@@ -224,9 +224,9 @@
       "ID": "kuso",
       "SetID": "cigfl04",
       "Name": "kuso",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "\u3084\u308A\u7532\u6590",
@@ -249,8 +249,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.4140956+00:00",
   "FirstSeenAchievements": "2023-05-25T21:04:32.3599326+00:00",
   "LastChanged": "2023-03-31T05:58:42.4140957+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:08:25.2070522+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:08:26.25183+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:29.8812092+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:59:06.4410265+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:08:25.2070615+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:59:20.1431399+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:08:26.2518522+00:00"
 }

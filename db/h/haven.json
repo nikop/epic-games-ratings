@@ -3,12 +3,12 @@
   "Name": "Haven",
   "ProductSlug": "haven",
   "Ranking_Rating": 150,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1581,
+  "EOS_Progressed": 1582,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -2383,6 +2383,11 @@
       "Time": "2023-12-15T14:06:10.6158539+00:00",
       "NumProgressed": 1581,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-15T15:06:03.7264539+00:00",
+      "NumProgressed": 1582,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2410,7 +2415,7 @@
       "Name": "Strike!",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "12",
@@ -2458,7 +2463,7 @@
       "Name": "Balding bloot!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "18",
@@ -2562,7 +2567,7 @@
       "Name": "Self-sustainability",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "31",
@@ -2610,7 +2615,7 @@
       "Name": "Ain\u0027t no mountain high enough",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "8",
@@ -2633,15 +2638,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1581,
+      "Progressed": 1582,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:06:10.6158535+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:06:03.7264535+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:06.0236888+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:00:06.1746801+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:06:10.6158827+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:00:19.5180802+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:06:03.7264771+00:00"
 }

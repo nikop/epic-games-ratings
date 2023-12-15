@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 45.00% | ~1,149 |
-| First Love | 43.00% | ~1,098 |
-| Clean Race | 41.00% | ~1,047 |
-| Hear That Roar! | 39.00% | ~996 |
-| Rivals to the End | 28.00% | ~715 |
-| Bitter Rivalry | 27.00% | ~690 |
-| Champagne Spray | 25.00% | ~638 |
-| We're Going to Need a Bigger Garage | 24.00% | ~613 |
-| Restored and Ready | 19.00% | ~485 |
-| I Want One Too! | 19.00% | ~485 |
-| Legendary!!! | 19.00% | ~485 |
-| Quick Pit Stop | 19.00% | ~485 |
-| Go-Faster Stripes | 17.00% | ~434 |
+| Eat My Dust | 45.00% | ~1,152 |
+| First Love | 42.00% | ~1,075 |
+| Clean Race | 41.00% | ~1,049 |
+| Hear That Roar! | 39.00% | ~998 |
+| Rivals to the End | 28.00% | ~717 |
+| Bitter Rivalry | 27.00% | ~691 |
+| Champagne Spray | 25.00% | ~640 |
+| We're Going to Need a Bigger Garage | 24.00% | ~614 |
+| Restored and Ready | 19.00% | ~486 |
+| I Want One Too! | 19.00% | ~486 |
+| Legendary!!! | 19.00% | ~486 |
+| Quick Pit Stop | 19.00% | ~486 |
+| Go-Faster Stripes | 17.00% | ~435 |
 | I'm Here Too! | 16.00% | ~409 |
-| We've Just Begun | 12.00% | ~306 |
+| We've Just Begun | 11.00% | ~281 |
 | Stamina Star | 9.00% | ~230 |
 | Is It the Right Size? | 9.00% | ~230 |
-| Evangelist | 6.00% | ~153 |
+| Evangelist | 6.00% | ~154 |
 | Make It Your Own! | 5.00% | ~128 |
 | Cherry Blossom and Temples | 4.00% | ~102 |
 | The Road to Liberty | 4.00% | ~102 |
@@ -38,7 +38,7 @@
 | Overtaking the Master | 2.00% | ~51 |
 | Next Level | 1.00% | ~26 |
 | I Don't Stop | 1.00% | ~26 |
-| Exhausted but Happy | 0.70% | ~18 |
+| Exhausted but Happy | 0.80% | ~20 |
 | In Search of Perfection | 0.70% | ~18 |
 | Globe-trotter | 0.50% | ~13 |
 | Maximum Endurance | 0.20% | ~5 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,554 (Ranked 221)  
+Progressed: 2,559 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,4 +159,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 2,455 | 0 |
 | 2023-12-13 | 2,471 | 0 |
 | 2023-12-14 | 2,522 | 0 |
-| 2023-12-15 | 2,554 | 0 |
+| 2023-12-15 | 2,559 | 0 |

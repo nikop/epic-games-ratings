@@ -3,12 +3,12 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_Rating": 371,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 968,
+  "EOS_Progressed": 970,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2629,6 +2629,11 @@
       "Time": "2023-12-15T13:15:24.9872559+00:00",
       "NumProgressed": 968,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-15T15:09:34.8431488+00:00",
+      "NumProgressed": 970,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2680,7 +2685,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ClockworkProgress1",
@@ -2704,7 +2709,7 @@
       "Name": "Sartorialist",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "CosmeticProgress1",
@@ -2776,7 +2781,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "GadgetCompletion1",
@@ -2792,7 +2797,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "GrindingTime1",
@@ -2800,7 +2805,7 @@
       "Name": "Rail Rat",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "HexlockGift",
@@ -2824,7 +2829,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "LacunaCompleted",
@@ -2840,7 +2845,7 @@
       "Name": "Cartographer",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "NoCritterSump",
@@ -2904,7 +2909,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2912,7 +2917,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "PidgeDefeated",
@@ -2928,7 +2933,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "RewindParry",
@@ -2936,7 +2941,7 @@
       "Name": "Honest Mistake",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2950,9 +2955,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 184
     },
     {
       "ID": "SkillCompletion1",
@@ -2968,7 +2973,7 @@
       "Name": "Fast Learner",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "SpeedRun",
@@ -2984,7 +2989,7 @@
       "Name": "Sump Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "SyronGift",
@@ -2992,7 +2997,7 @@
       "Name": "Syron for Hope",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "TemporalPulseKills1",
@@ -3046,9 +3051,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 213
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3056,14 +3061,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 968,
+      "Progressed": 970,
       "Completed": 6
     }
   ],
@@ -3071,8 +3076,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:09:35.9318825+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:09:34.8431484+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:02:30.1935249+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:09:35.9319335+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:02:22.6262808+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:09:34.8432029+00:00"
 }

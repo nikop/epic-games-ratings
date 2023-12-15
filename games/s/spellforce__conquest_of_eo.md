@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 90.00% | ~45 |
-| Enough rooms to swing a cat | 88.00% | ~44 |
-| First to the post | 86.00% | ~43 |
-| A kind of Magic | 82.00% | ~41 |
-| Connected | 76.00% | ~38 |
-| Expansion | 74.00% | ~37 |
-| Harvest Time | 66.00% | ~33 |
-| Mine! | 66.00% | ~33 |
-| Artificer's Apprentice | 64.00% | ~32 |
-| Get out of here! | 54.00% | ~27 |
-| Fly the friendly Sky | 52.00% | ~26 |
-| Necromancer's Apprentice | 50.00% | ~25 |
-| Friend of Lyraine | 46.00% | ~23 |
-| The Circle | 44.00% | ~22 |
-| Alchemist's Apprentice | 44.00% | ~22 |
-| Redecorating | 36.00% | ~18 |
-| Bad JuJu | 28.00% | ~14 |
-| Slave to the rhythm | 26.00% | ~13 |
-| Friend of Sevenkeeps | 26.00% | ~13 |
+| Enough rooms to swing a cat | 88.00% | ~45 |
+| Home Sweet Home | 88.00% | ~45 |
+| First to the post | 86.00% | ~44 |
+| A kind of Magic | 82.00% | ~42 |
+| Connected | 75.00% | ~38 |
+| Expansion | 73.00% | ~37 |
+| Harvest Time | 65.00% | ~33 |
+| Mine! | 65.00% | ~33 |
+| Artificer's Apprentice | 63.00% | ~32 |
+| Get out of here! | 53.00% | ~27 |
+| Necromancer's Apprentice | 51.00% | ~26 |
+| Fly the friendly Sky | 51.00% | ~26 |
+| Friend of Lyraine | 45.00% | ~23 |
+| The Circle | 43.00% | ~22 |
+| Alchemist's Apprentice | 43.00% | ~22 |
+| Redecorating | 35.00% | ~18 |
+| Bad JuJu | 27.00% | ~14 |
+| Slave to the rhythm | 25.00% | ~13 |
+| Friend of Sevenkeeps | 25.00% | ~13 |
 | Castle Meldec | 20.00% | ~10 |
 | Sevenkeeps Seat of Kings | 20.00% | ~10 |
 | Friend of Gillyshire | 18.00% | ~9 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50 (Ranked 514)  
+Progressed: 51 (Ranked 514)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-10 | 42 | 0 |
 | 2023-12-13 | 43 | 0 |
 | 2023-12-14 | 47 | 0 |
-| 2023-12-15 | 50 | 0 |
+| 2023-12-15 | 51 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

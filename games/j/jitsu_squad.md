@@ -1,7 +1,7 @@
 # Jitsu Squad
 [Store](https://store.epicgames.com/en-US/p/jitsu-squad-af3f2f)  
 [View Rawdata](../../db/j/jitsu_squad.json)  
-Rating: 4.48 (Ranked 638)  
+Rating: 4.49 (Ranked 617)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -13,3 +13,4 @@ Rating: 4.48 (Ranked 638)
 | 2023-12-11 | 4.53 | 0 | 0 |
 | 2023-12-12 | 4.45 | 0 | 0 |
 | 2023-12-14 | 4.48 | 0 | 0 |
+| 2023-12-15 | 4.49 | 0 | 0 |

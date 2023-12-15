@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meissa's Savior | 66.00% | ~86 |
-| Purification Pioneer | 62.00% | ~81 |
+| Purification Pioneer | 63.00% | ~83 |
 | Mechanical Buddy | 56.00% | ~73 |
 | Dicesmithing Time! | 50.00% | ~66 |
 | Endless Tricks | 45.00% | ~59 |
@@ -103,7 +103,7 @@
 | Skeptical | 0.00% | ~0 |
 | The world goes round... | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131 (Ranked 421)  
+Progressed: 131 (Ranked 423)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |

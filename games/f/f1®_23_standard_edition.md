@@ -5,57 +5,57 @@ Rating: 4.68 (Ranked 260)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 92.00% | ~6,353 |
-| On the Top Step | 86.00% | ~5,938 |
-| Setting up for Success | 75.00% | ~5,179 |
-| Team Orders | 73.00% | ~5,041 |
-| Engineer | 53.00% | ~3,660 |
-| Familiar Faces | 47.00% | ~3,245 |
-| Sharing the Love | 41.00% | ~2,831 |
-| Going the Extra Mile | 41.00% | ~2,831 |
-| Hitting a Season | 38.00% | ~2,624 |
-| A Dozen Pieces | 32.00% | ~2,210 |
-| Challenge Yourself | 31.00% | ~2,141 |
-| Making History | 30.00% | ~2,072 |
-| Network Success | 27.00% | ~1,864 |
-| Writing a new Chapter | 24.00% | ~1,657 |
-| Spring Cleaning | 23.00% | ~1,588 |
-| Reduce | 20.00% | ~1,381 |
-| Crucial Combo | 19.00% | ~1,312 |
-| Ups and Downs | 19.00% | ~1,312 |
-| Reuse | 16.00% | ~1,105 |
-| One for the Book | 16.00% | ~1,105 |
-| Proving Them Wrong | 16.00% | ~1,105 |
-| Gathering Dust | 15.00% | ~1,036 |
-| Hitting a Bullseye | 15.00% | ~1,036 |
-| Oil and Water | 14.00% | ~967 |
-| Lightning Round the World | 14.00% | ~967 |
-| Spinning Around | 13.00% | ~898 |
-| Eagle Eye | 12.00% | ~829 |
-| All in a Weekend's Work | 12.00% | ~829 |
-| Friendly Competition | 12.00% | ~829 |
-| Switcheroo | 12.00% | ~829 |
-| Recycle | 11.00% | ~760 |
-| Undisputed Winner | 9.00% | ~621 |
-| Tinkerer | 9.00% | ~621 |
-| Smooth Operator | 7.00% | ~483 |
-| For all Those Back at the Factory | 6.00% | ~414 |
-| Living up to Expectations | 6.00% | ~414 |
-| Peak Performance | 5.00% | ~345 |
-| Hitting a Century | 4.00% | ~276 |
-| Loyal Bond | 4.00% | ~276 |
-| Seasoned Rookie | 3.00% | ~207 |
-| Wait, I know you? | 3.00% | ~207 |
-| Filling in the Gaps | 2.00% | ~138 |
+| Getting on the Step | 92.00% | ~6,378 |
+| On the Top Step | 86.00% | ~5,962 |
+| Setting up for Success | 75.00% | ~5,200 |
+| Team Orders | 73.00% | ~5,061 |
+| Engineer | 53.00% | ~3,674 |
+| Familiar Faces | 47.00% | ~3,259 |
+| Sharing the Love | 41.00% | ~2,843 |
+| Going the Extra Mile | 41.00% | ~2,843 |
+| Hitting a Season | 38.00% | ~2,635 |
+| A Dozen Pieces | 32.00% | ~2,219 |
+| Challenge Yourself | 31.00% | ~2,149 |
+| Making History | 30.00% | ~2,080 |
+| Network Success | 26.00% | ~1,803 |
+| Writing a new Chapter | 24.00% | ~1,664 |
+| Spring Cleaning | 23.00% | ~1,595 |
+| Reduce | 20.00% | ~1,387 |
+| Crucial Combo | 19.00% | ~1,317 |
+| Ups and Downs | 19.00% | ~1,317 |
+| Reuse | 16.00% | ~1,109 |
+| Proving Them Wrong | 16.00% | ~1,109 |
+| Gathering Dust | 15.00% | ~1,040 |
+| Hitting a Bullseye | 15.00% | ~1,040 |
+| One for the Book | 15.00% | ~1,040 |
+| Oil and Water | 14.00% | ~971 |
+| Lightning Round the World | 14.00% | ~971 |
+| Spinning Around | 13.00% | ~901 |
+| Eagle Eye | 12.00% | ~832 |
+| All in a Weekend's Work | 12.00% | ~832 |
+| Friendly Competition | 12.00% | ~832 |
+| Switcheroo | 12.00% | ~832 |
+| Recycle | 11.00% | ~763 |
+| Undisputed Winner | 9.00% | ~624 |
+| Tinkerer | 9.00% | ~624 |
+| Smooth Operator | 7.00% | ~485 |
+| For all Those Back at the Factory | 6.00% | ~416 |
+| Living up to Expectations | 6.00% | ~416 |
+| Peak Performance | 5.00% | ~347 |
+| Hitting a Century | 4.00% | ~277 |
+| Loyal Bond | 4.00% | ~277 |
+| Seasoned Rookie | 3.00% | ~208 |
+| Wait, I know you? | 3.00% | ~208 |
+| Filling in the Gaps | 2.00% | ~139 |
 | Under the Microscope | 1.00% | ~69 |
 | Saturday Night Drama | 1.00% | ~69 |
 | Media Darling | 1.00% | ~69 |
-| Ultimate Collector | 0.60% | ~41 |
+| Ultimate Collector | 0.50% | ~35 |
 | Golden Touch | 0.30% | ~21 |
 | Elite Racer | 0.10% | ~7 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,905 (Ranked 185)  
+Progressed: 6,933 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 6,114 | 0 |
 | 2023-12-13 | 6,175 | 0 |
 | 2023-12-14 | 6,647 | 0 |
-| 2023-12-15 | 6,905 | 0 |
+| 2023-12-15 | 6,933 | 0 |
 ## Awards
 Max (Diverse Characters): 39  (Ranked 465)  
 Sum: 195 (Ranked 408)  

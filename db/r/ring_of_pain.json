@@ -6,9 +6,9 @@
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 86,
   "Ranking_EOS_Progress": 65,
-  "Ranking_EOS_Completed": 287,
+  "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3670,10 +3670,10 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241065,
-  "EOS_Completed": 298,
-  "EOS_NewPlayers": 296,
-  "EOS_NewCompleters": 6,
+  "EOS_Progressed": 241069,
+  "EOS_Completed": 299,
+  "EOS_NewPlayers": 300,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
@@ -28280,6 +28280,11 @@
       "Time": "2023-12-15T14:09:57.4156396+00:00",
       "NumProgressed": 241065,
       "NumCompleted": 298
+    },
+    {
+      "Time": "2023-12-15T15:09:56.6174992+00:00",
+      "NumProgressed": 241069,
+      "NumCompleted": 299
     }
   ],
   "TotalAchievements": 138,
@@ -28945,9 +28950,9 @@
       "ID": "PETRIFY50",
       "SetID": "5l8oe0h",
       "Name": "Stone Touch",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 1205
     },
     {
       "ID": "PLAY10HOURS",
@@ -29394,22 +29399,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241065,
-      "Completed": 298
+      "Progressed": 241069,
+      "Completed": 299
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2545,
-      "Completed": 404
+      "Progressed": 2549,
+      "Completed": 405
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-15T09:00:03.6413212+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:09:57.4156394+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:09:56.617499+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:00:20.83092+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:09:57.4158767+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:00:34.1584761+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:09:56.6177639+00:00"
 }

@@ -1,18 +1,18 @@
 # The Riftbreaker
 [Store](https://store.epicgames.com/en-US/p/the-riftbreaker)  
 [View Rawdata](../../db/t/the_riftbreaker.json)  
-Rating: 4.76 (Ranked 131)  
+Rating: 4.76 (Ranked 130)  
 Number of Ratings: 277  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 53  (Ranked 431)  
-Sum: 266 (Ranked 380)  
+Sum: 267 (Ranked 380)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 53 |
 | This game is Relaxing | 41 |
 | This game is Highly Recommended | 40 |
-| This game has Amazing Storytelling | 36 |
+| This game has Amazing Storytelling | 37 |
 | This game has Quickly Understood Controls | 34 |
 | This game has Amazing Characters | 33 |
 | This game is Extremely Fun | 29 |
@@ -152,3 +152,4 @@ Diff (max vs sum): 51
 | 2023-12-06 | 4.76 | - | 53 | 264 |
 | 2023-12-12 | 4.76 | - | 53 | 265 |
 | 2023-12-13 | 4.76 | - | 53 | 266 |
+| 2023-12-15 | 4.76 | - | 53 | 267 |

@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.60 (Ranked 422)  
+Rating: 4.60 (Ranked 421)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,7 +9,7 @@ Rating: 4.60 (Ranked 422)
 | Map reader | 78.00% | ~60 |
 | Philanthropist | 71.00% | ~55 |
 | Adventurer | 70.00% | ~54 |
-| The brave little tailor | 51.00% | ~39 |
+| The brave little tailor | 52.00% | ~40 |
 | Archer | 51.00% | ~39 |
 | Field hand | 47.00% | ~36 |
 | Samaritan | 44.00% | ~34 |
@@ -17,7 +17,7 @@ Rating: 4.60 (Ranked 422)
 | The merciful one | 40.00% | ~31 |
 | Ladies' man | 39.00% | ~30 |
 | Ferocious wild boars | 31.00% | ~24 |
-| Idiot | 29.00% | ~22 |
+| Idiot | 30.00% | ~23 |
 | Beast slayer | 27.00% | ~21 |
 | Wise man | 26.00% | ~20 |
 | Family man | 25.00% | ~19 |
@@ -32,8 +32,8 @@ Rating: 4.60 (Ranked 422)
 | Master detective | 22.00% | ~17 |
 | Ghost hunter | 21.00% | ~16 |
 | Peacekeeper | 19.00% | ~15 |
+| Fence | 19.00% | ~15 |
 | Defender | 18.00% | ~14 |
-| Fence | 18.00% | ~14 |
 | Showdown | 17.00% | ~13 |
 | Workaholic | 16.00% | ~12 |
 | Safecracker | 16.00% | ~12 |

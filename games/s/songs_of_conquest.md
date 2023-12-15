@@ -1,13 +1,13 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.69 (Ranked 233)  
+Rating: 4.69 (Ranked 232)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 37.00% | ~178 |
-| Double Kill | 29.00% | ~139 |
+| Adept | 38.00% | ~183 |
+| Double Kill | 30.00% | ~144 |
 | Critical Hit | 16.00% | ~77 |
 | Veteran | 16.00% | ~77 |
 | Dressed For Success | 11.00% | ~53 |
@@ -19,12 +19,12 @@ Number of Ratings: 292  (23.09.2022)
 | Master | 5.00% | ~24 |
 | Whoops! | 4.00% | ~19 |
 | Expert Essence Employment | 4.00% | ~19 |
+| Don't Touch My Stuff | 3.00% | ~14 |
 | Trojan Horse | 3.00% | ~14 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~14 |
 | The Song of Stoutheart | 2.00% | ~10 |
 | This Spot's Taken | 2.00% | ~10 |
 | Versatile Wielder | 2.00% | ~10 |
-| Don't Touch My Stuff | 2.00% | ~10 |
 | Pyrrhic Victory | 2.00% | ~10 |
 | Deepstrike | 1.00% | ~5 |
 | Infernal Influence | 1.00% | ~5 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 481 (Ranked 323)  
+Progressed: 481 (Ranked 324)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |

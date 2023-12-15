@@ -3,12 +3,12 @@
   "Name": "DARQ: Complete Edition",
   "ProductSlug": "darq-complete-edition",
   "Ranking_Rating": 682,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 504,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 505,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-10-28T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -437,6 +437,6 @@
   "FirstSeen": "2022-07-22T20:18:45.2388208+00:00",
   "LastChanged": "2023-06-01T22:00:27.9618196+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.0957726+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:58:33.6623184+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:03:36.6808104+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:58:47.6781189+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:03:29.4634083+00:00"
 }

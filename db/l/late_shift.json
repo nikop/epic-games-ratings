@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 731,
+  "EOS_Progressed": 732,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
@@ -1835,6 +1835,11 @@
       "Time": "2023-12-15T14:09:05.5586924+00:00",
       "NumProgressed": 731,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-15T15:09:05.1555175+00:00",
+      "NumProgressed": 732,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -1846,7 +1851,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1918,7 +1923,7 @@
       "Name": "Even Tempered",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1934,7 +1939,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "GOOD_KARMA",
@@ -1942,7 +1947,7 @@
       "Name": "Good Karma",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "INTERROGATION",
@@ -1974,7 +1979,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "SABOTAGE",
@@ -1982,7 +1987,7 @@
       "Name": "Sabotage",
       "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "SHILL_BIDDER",
@@ -2005,7 +2010,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 731,
+      "Progressed": 732,
       "Completed": 9
     }
   ],
@@ -2013,8 +2018,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:09:05.5586921+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:09:05.1555171+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:45.8510282+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:59:11.9731309+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:09:05.5587079+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:59:25.9735765+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:09:05.1555392+00:00"
 }

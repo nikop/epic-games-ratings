@@ -1,7 +1,7 @@
 # House Flipper
 [Store](https://store.epicgames.com/en-US/p/house-flipper)  
 [View Rawdata](../../db/h/house_flipper.json)  
-Rating: 4.69 (Ranked 233)  
+Rating: 4.69 (Ranked 232)  
 Number of Ratings: 1,023  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -31,7 +31,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Senior Estate Agent | 0.60% | ~129 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 21,522 (Ranked 143)  
-Completed: 21 (0.10%) (Ranked 295)  
+Completed: 21 (0.10%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

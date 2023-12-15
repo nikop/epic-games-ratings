@@ -1,15 +1,15 @@
 # Far Cry Primal Standard Edition
 [Store](https://store.epicgames.com/en-US/p/far-cry-primal)  
 [View Rawdata](../../db/f/far_cry_primal_standard_edition.json)  
-Rating: 4.70 (Ranked 215)  
+Rating: 4.70 (Ranked 214)  
 Number of Ratings: 463  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 483  (Ranked 218)  
-Sum: 703 (Ranked 301)  
+Max (Great Boss Battles): 486  (Ranked 218)  
+Sum: 706 (Ranked 301)  
 Diff (max vs sum): -83  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 483 |
+| This game has Great Boss Battles | 486 |
 | This game is Highly Recommended | 32 |
 | This game is Educational | 30 |
 | This game is Great for Beginners | 29 |
@@ -235,4 +235,4 @@ Diff (max vs sum): -83
 | 2023-12-11 | 4.70 | - | 477 | 694 |
 | 2023-12-12 | 4.71 | - | 480 | 698 |
 | 2023-12-13 | 4.71 | - | 483 | 702 |
-| 2023-12-15 | 4.70 | - | 483 | 703 |
+| 2023-12-15 | 4.70 | - | 486 | 706 |

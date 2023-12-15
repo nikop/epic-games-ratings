@@ -3,12 +3,12 @@
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
   "Ranking_Rating": 515,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2244,
+  "EOS_Progressed": 2245,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -3972,6 +3972,11 @@
       "Time": "2023-12-15T00:05:50.4438231+00:00",
       "NumProgressed": 2244,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-15T15:05:06.6722551+00:00",
+      "NumProgressed": 2245,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 30,
@@ -3991,7 +3996,7 @@
       "Name": "Collect Gold",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "Collect20Iron",
@@ -3999,7 +4004,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "Collect50MonsterParts",
@@ -4063,7 +4068,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1840
+      "UsersEstimate": 1841
     },
     {
       "ID": "CompleteHunterFaction",
@@ -4103,7 +4108,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -4119,7 +4124,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "GetRangedWeapon",
@@ -4127,7 +4132,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "GetTHWeapon",
@@ -4135,7 +4140,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "Kill25Bugs",
@@ -4143,7 +4148,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "Kill25Frogs",
@@ -4175,7 +4180,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "RepairChef",
@@ -4183,7 +4188,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "RepairSmith",
@@ -4191,7 +4196,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "RepairThroneRoom",
@@ -4199,7 +4204,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "RescueBrothers",
@@ -4222,22 +4227,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2244,
+      "Progressed": 2245,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 885,
-      "Completed": 885
+      "Progressed": 886,
+      "Completed": 886
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:05:13.3992694+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:05:06.6722547+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:13.9280126+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:58:10.3230037+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:05:13.3993032+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:58:24.8594462+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:05:06.672295+00:00"
 }

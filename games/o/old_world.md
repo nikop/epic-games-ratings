@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 317)  
+Rating: 4.65 (Ranked 316)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -180,6 +180,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Prosperous Kmt | 0.40% | ~63 |
 | Gold Victory (Carthage 1) | 0.30% | ~47 |
 | Bronze Victory (Carthage 2) | 0.30% | ~47 |
+| Silver Victory (Carthage 2) | 0.30% | ~47 |
 | Cleopatra's Love | 0.30% | ~47 |
 | Great Difficulty | 0.30% | ~47 |
 | Event Level High | 0.30% | ~47 |
@@ -193,7 +194,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Barbarian Horde | 0.20% | ~32 |
 | Blade of the Monkey | 0.20% | ~32 |
 | Gold Victory (Carthage 2) | 0.20% | ~32 |
-| Silver Victory (Carthage 2) | 0.20% | ~32 |
 | Carthage - Rise of Rome | 0.20% | ~32 |
 | Game of the Week | 0.20% | ~32 |
 | Get the Hellas Out | 0.20% | ~32 |
@@ -591,14 +591,14 @@ Completed: 5 (0.03%) (Ranked 338)
 | 2023-12-15 | 15,765 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 278)  
-Sum: 1,900 (Ranked 220)  
+Sum: 1,901 (Ranked 220)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 228 |
 | This game has Diverse Characters | 222 |
+| This game is Highly Recommended | 221 |
 | This game is Extremely Fun | 220 |
-| This game is Highly Recommended | 220 |
 | This game is Educational | 213 |
 | This game has Challenging Combat | 206 |
 | This game has Amazing Characters | 199 |
@@ -787,3 +787,4 @@ Diff (max vs sum): 58
 | 2023-12-09 | 4.65 | - | 228 | 1,897 |
 | 2023-12-10 | 4.65 | - | 228 | 1,898 |
 | 2023-12-11 | 4.65 | - | 228 | 1,900 |
+| 2023-12-15 | 4.65 | - | 228 | 1,901 |

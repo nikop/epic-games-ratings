@@ -3,12 +3,12 @@
   "Name": "Curious Expedition 2",
   "ProductSlug": "curious-expedition-2-8cb901",
   "Ranking_Rating": 174,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 348,
+  "EOS_Progressed": 349,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -365,6 +365,11 @@
       "Time": "2023-12-15T14:09:55.1147723+00:00",
       "NumProgressed": 348,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T15:09:54.3523637+00:00",
+      "NumProgressed": 349,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -462,9 +467,9 @@
       "ID": "ach-campaign-fameThreshold",
       "SetID": "17ih7ma",
       "Name": "And Here Is Your Statue",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 45
     },
     {
       "ID": "ach-campaign-finish-easy",
@@ -520,7 +525,7 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ach-campaign-story3",
@@ -528,7 +533,7 @@
       "Name": "O Captain My Captain",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ach-cartography-complete",
@@ -576,7 +581,7 @@
       "Name": "Fire and Flood",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ach-find-treasure",
@@ -600,7 +605,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ach-hardExpeditions",
@@ -630,9 +635,9 @@
       "ID": "ach-keepHighStanding",
       "SetID": "17ih7ma",
       "Name": "Plays Well With Others",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 45
     },
     {
       "ID": "ach-kill-animal-groups",
@@ -664,7 +669,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -704,7 +709,7 @@
       "Name": "Spooky!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ach-noEquipment",
@@ -726,9 +731,9 @@
       "ID": "ach-pacifist-goals",
       "SetID": "17ih7ma",
       "Name": "Nahua Seeker",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 80
     },
     {
       "ID": "ach-paleMask-cure",
@@ -752,7 +757,7 @@
       "Name": "From Whence we Came",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ach-promotion",
@@ -768,7 +773,7 @@
       "Name": "Good Mama",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ach-redElk",
@@ -792,7 +797,7 @@
       "Name": "Plunderer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ach-salamanderPrince",
@@ -824,7 +829,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -846,16 +851,16 @@
       "ID": "ach-wearHat",
       "SetID": "17ih7ma",
       "Name": "Dapper",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 52
     }
   ],
   "AchievementSets": [
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 348,
+      "Progressed": 349,
       "Completed": 1
     }
   ],
@@ -863,8 +868,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:09:55.1147721+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:09:54.3523634+00:00",
   "LastUpdate_AppInfo": "2023-12-09T12:59:37.4155215+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:56:51.1439661+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:09:55.1148077+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:57:00.2177121+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:09:54.3524407+00:00"
 }

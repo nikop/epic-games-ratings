@@ -3,12 +3,12 @@
   "Name": "Stranded: Alien Dawn",
   "ProductSlug": "stranded-alien-dawn",
   "Ranking_Rating": 565,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 504,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 505,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-04-25T12:00:00+00:00",
     "PcReleaseDate": "2023-04-25T12:00:00+00:00",
@@ -447,6 +447,6 @@
   "FirstSeenRating": "2023-04-25T13:05:45.0799839+00:00",
   "LastChanged": "2023-12-01T21:58:10.5976998+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:15.0641981+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:57:56.7642549+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:09:15.2541791+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:58:11.0397055+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:09:14.6242422+00:00"
 }

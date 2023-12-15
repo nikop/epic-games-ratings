@@ -2,13 +2,13 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 317,
+  "Ranking_Rating": 316,
   "Ranking_Popularity": 278,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2068,10 +2068,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1900,
       "NumberOfAwardsMax": 228
+    },
+    {
+      "Time": "2023-12-15T15:02:40.4686923+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1901,
+      "NumberOfAwardsMax": 228
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1900,
+  "NumberOfAwards": 1901,
   "NumberOfAwardsMax": 228,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2109,7 +2115,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 220
+      "Count": 221
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2150,7 +2156,7 @@
   ],
   "EOS_Progressed": 15765,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17916,9 +17922,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_2_SILVER",
       "SetID": "9201eeb",
       "Name": "Silver Victory (Carthage 2)",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_3",
@@ -20441,9 +20447,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-12-11T20:02:33.8046701+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:09:02.0230588+00:00",
+  "LastChanged": "2023-12-15T15:02:40.4686922+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:09:01.6456732+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:32.9927843+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:02:48.3155998+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:09:02.0239428+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:02:40.4686927+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:09:01.6465449+00:00"
 }

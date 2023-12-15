@@ -12,8 +12,8 @@ Number of Ratings: 371  (23.09.2022)
 | Not So Fast... | 8.00% | ~271 |
 | An Ill Omen | 8.00% | ~271 |
 | Purging Spree | 7.00% | ~237 |
-| Blood for the Blood God! | 6.00% | ~203 |
-| Bloodless | 6.00% | ~203 |
+| Blood for the Blood God! | 6.00% | ~204 |
+| Bloodless | 6.00% | ~204 |
 | Honoured Battle-Brother | 4.00% | ~136 |
 | Surgical Excision | 4.00% | ~136 |
 | Friendly Fire | 4.00% | ~136 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,391 (Ranked 213)  
+Progressed: 3,392 (Ranked 213)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 3,348 | 0 |
 | 2023-12-13 | 3,351 | 0 |
 | 2023-12-14 | 3,379 | 0 |
-| 2023-12-15 | 3,391 | 0 |
+| 2023-12-15 | 3,392 | 0 |
 ## Awards
 Max (Character Customization): 227  (Ranked 279)  
 Sum: 488 (Ranked 333)  

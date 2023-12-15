@@ -2,13 +2,13 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 215,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Rating": 214,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 178,
-  "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_Completed": 220,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8007,
+  "EOS_Progressed": 8008,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9141,6 +9141,11 @@
       "Time": "2023-12-15T14:06:31.7098872+00:00",
       "NumProgressed": 8007,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-15T15:06:25.0089006+00:00",
+      "NumProgressed": 8008,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9192,7 +9197,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ENERGY_SAVER",
@@ -9256,7 +9261,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "LIBERATOR",
@@ -9319,7 +9324,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8007,
+      "Progressed": 8008,
       "Completed": 34
     }
   ],
@@ -9327,8 +9332,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:06:31.709887+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:06:25.0089002+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:30.6418185+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:02:46.1545575+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:06:31.7099432+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:02:38.2762386+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:06:25.0089558+00:00"
 }

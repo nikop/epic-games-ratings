@@ -3455,9 +3455,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18213,
+  "EOS_Progressed": 18221,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 549,
+  "EOS_NewPlayers": 557,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15810,6 +15810,11 @@
       "Time": "2023-12-15T14:03:55.4651974+00:00",
       "NumProgressed": 18213,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-15T15:03:48.4580927+00:00",
+      "NumProgressed": 18221,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15950,15 +15955,15 @@
       "Name": "Barren Lands",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "WinNearBattleground",
       "SetID": "cfbk359",
       "Name": "Ancient Battleground",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 128
     },
     {
       "ID": "WinNearCrystals",
@@ -16054,7 +16059,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "WinNearTemple",
@@ -16070,7 +16075,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "WinNearWatchtower",
@@ -16092,9 +16097,9 @@
       "ID": "WinOnCursed",
       "SetID": "cfbk359",
       "Name": "Cursed Lands",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 146
     },
     {
       "ID": "WinOnMarshlands",
@@ -16230,7 +16235,7 @@
       "Name": "Frosts",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "WinNearGreed",
@@ -16238,7 +16243,7 @@
       "Name": "Land of Greed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "WinNearLibrary",
@@ -16262,7 +16267,7 @@
       "Name": "Ominous Presence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "WinNearStorms",
@@ -16270,7 +16275,7 @@
       "Name": "Gathering Storm",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -16293,15 +16298,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18213,
+      "Progressed": 18221,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-15T10:00:02.4999568+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:03:55.4651972+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:03:48.4580924+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:00:17.1305542+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:03:55.4652759+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:00:30.2066558+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:03:48.4581956+00:00"
 }

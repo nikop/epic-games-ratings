@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 92.00% | ~33,399 |
-| Enemy Attrition | 68.00% | ~24,686 |
-| Grim Reaper | 66.00% | ~23,960 |
-| Heads Down | 64.00% | ~23,234 |
-| Not On My Watch | 61.00% | ~22,145 |
-| Combat Engineer | 43.00% | ~15,610 |
-| Eager Beaver | 35.00% | ~12,706 |
-| Call ’em in! | 33.00% | ~11,980 |
-| Lovely | 31.00% | ~11,254 |
-| Elite | 19.00% | ~6,898 |
-| Store fuglar fanga ingi flugor | 19.00% | ~6,898 |
-| Ou La Mort | 17.00% | ~6,172 |
-| Fender Bender | 12.00% | ~4,356 |
-| Globetrotter | 9.00% | ~3,267 |
-| Jack of All Trades | 8.00% | ~2,904 |
-| Storyteller | 5.00% | ~1,815 |
-| Death from Above | 3.00% | ~1,089 |
-| Off-hand | 3.00% | ~1,089 |
-| Veteran | 0.90% | ~327 |
-| Hoist the Flag | 0.40% | ~145 |
-| Sins of the Fathers | 0.30% | ~109 |
+| Last Man Standing | 92.00% | ~33,937 |
+| Enemy Attrition | 68.00% | ~25,084 |
+| Grim Reaper | 66.00% | ~24,346 |
+| Heads Down | 64.00% | ~23,608 |
+| Not On My Watch | 60.00% | ~22,133 |
+| Combat Engineer | 43.00% | ~15,862 |
+| Eager Beaver | 35.00% | ~12,911 |
+| Call ’em in! | 33.00% | ~12,173 |
+| Lovely | 31.00% | ~11,435 |
+| Elite | 19.00% | ~7,009 |
+| Store fuglar fanga ingi flugor | 19.00% | ~7,009 |
+| Ou La Mort | 17.00% | ~6,271 |
+| Fender Bender | 12.00% | ~4,427 |
+| Globetrotter | 9.00% | ~3,320 |
+| Jack of All Trades | 8.00% | ~2,951 |
+| Storyteller | 5.00% | ~1,844 |
+| Death from Above | 3.00% | ~1,107 |
+| Off-hand | 3.00% | ~1,107 |
+| Veteran | 0.90% | ~332 |
+| Hoist the Flag | 0.40% | ~148 |
+| Sins of the Fathers | 0.30% | ~111 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,303 (Ranked 125)  
+Progressed: 36,888 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,4 +116,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 24,993 | 0 |
 | 2023-12-13 | 25,198 | 0 |
 | 2023-12-14 | 30,644 | 0 |
-| 2023-12-15 | 36,303 | 0 |
+| 2023-12-15 | 36,888 | 0 |

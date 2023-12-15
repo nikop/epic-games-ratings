@@ -3,12 +3,12 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 547,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16336,
+  "EOS_Progressed": 16344,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13912,6 +13912,11 @@
       "Time": "2023-12-15T14:08:02.8371308+00:00",
       "NumProgressed": 16336,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-15T15:07:44.5261682+00:00",
+      "NumProgressed": 16344,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13940,7 +13945,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "12",
@@ -13956,7 +13961,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "14",
@@ -13972,7 +13977,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "16",
@@ -13988,7 +13993,7 @@
       "Name": "Spore Taste",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "18",
@@ -14020,15 +14025,15 @@
       "Name": "Thorston Mayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1308
     },
     {
       "ID": "22",
@@ -14060,7 +14065,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "26",
@@ -14068,7 +14073,7 @@
       "Name": "Call it Even",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "27",
@@ -14076,7 +14081,7 @@
       "Name": "Bosmang",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "28",
@@ -14100,7 +14105,7 @@
       "Name": "Captain Drummer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "30",
@@ -14132,7 +14137,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "7",
@@ -14156,7 +14161,7 @@
       "Name": "Impossible Objects",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "31",
@@ -14164,7 +14169,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "32",
@@ -14172,7 +14177,7 @@
       "Name": "Safe Cracker",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "33",
@@ -14180,7 +14185,7 @@
       "Name": "Zen Master",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "34",
@@ -14196,20 +14201,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16336,
+      "Progressed": 16344,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2290,
+      "Progressed": 2298,
       "Completed": 889
     }
   ],
@@ -14217,8 +14222,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:08:02.8371305+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:07:44.5261679+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:57:32.9032333+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:08:02.8372174+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:57:45.3483028+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:07:44.5262336+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 17,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 272,
-  "Ranking_EOS_Completed": 295,
+  "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 988,
+  "EOS_Progressed": 989,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2517,6 +2517,11 @@
       "Time": "2023-12-15T12:06:39.987927+00:00",
       "NumProgressed": 988,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T15:06:10.9832946+00:00",
+      "NumProgressed": 989,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2527,9 +2532,9 @@
       "ID": "AbAeterno",
       "SetID": "1n308hc",
       "Name": "Ab Aeterno",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 40
     },
     {
       "ID": "AbInitio",
@@ -2585,7 +2590,7 @@
       "Name": "Bridge Builder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ChasingTheLight",
@@ -2703,9 +2708,9 @@
       "ID": "JustOneLap",
       "SetID": "1n308hc",
       "Name": "Just One Lap",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 79
     },
     {
       "ID": "LordOfTheFiles",
@@ -2713,7 +2718,7 @@
       "Name": "Lord of the Files",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "LostMarshes",
@@ -2729,7 +2734,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Mnemosyne",
@@ -2785,7 +2790,7 @@
       "Name": "Overload",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "Persistent",
@@ -2817,7 +2822,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "RenaissanceRobot",
@@ -2889,7 +2894,7 @@
       "Name": "The All-Gifted",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "TheEdgeOfForever",
@@ -2937,7 +2942,7 @@
       "Name": "The Word Endures",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "TouchGrass",
@@ -2969,7 +2974,7 @@
       "Name": "Wanderers",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "WesternDelta",
@@ -3000,7 +3005,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 988,
+      "Progressed": 989,
       "Completed": 1
     }
   ],
@@ -3008,8 +3013,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:06:17.5844088+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:06:10.9832944+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:56:51.2761609+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:06:17.5844525+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:57:00.3700099+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:06:10.9833471+00:00"
 }

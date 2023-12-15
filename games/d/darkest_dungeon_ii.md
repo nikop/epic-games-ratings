@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~130 |
-| This guy... again? | 3.00% | ~65 |
-| Lost and Found | 3.00% | ~65 |
+| Malpractice Assurance | 6.00% | ~131 |
+| This guy... again? | 3.00% | ~66 |
+| Lost and Found | 3.00% | ~66 |
 | This Belongs in a Museum | 2.00% | ~2,546 |
 | Not Today! | 2.00% | ~2,546 |
 | Creep and Sleep | 2.00% | ~2,546 |
@@ -17,8 +17,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 2.00% | ~2,546 |
 | Escape from the Black Hole | 2.00% | ~2,546 |
 | Autodidact | 2.00% | ~2,546 |
-| Ploughshares to Swords | 2.00% | ~43 |
-| Bloody Graduation | 2.00% | ~43 |
+| Ploughshares to Swords | 2.00% | ~44 |
+| Bloody Graduation | 2.00% | ~44 |
 | Don't Make Me Turn This Coach Around | 1.00% | ~1,273 |
 | Serenity Now! | 1.00% | ~1,273 |
 | It Rings a Bell | 1.00% | ~1,273 |
@@ -33,12 +33,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Merry Time | 0.90% | ~1,146 |
 | Harvest Festival | 0.90% | ~1,146 |
 | Whale | 0.90% | ~1,146 |
-| Banishment | 0.80% | ~1,018 |
-| Deprogramming | 0.80% | ~1,018 |
-| Spelunker | 0.80% | ~1,018 |
-| Worldly Traveller | 0.80% | ~1,018 |
-| Road Trip | 0.80% | ~1,018 |
+| Banishment | 0.80% | ~1,019 |
+| Deprogramming | 0.80% | ~1,019 |
+| Spelunker | 0.80% | ~1,019 |
+| Worldly Traveller | 0.80% | ~1,019 |
+| Road Trip | 0.80% | ~1,019 |
+| Resurrection | 0.70% | ~891 |
 | Unleash Hell | 0.70% | ~891 |
+| Funny Guy | 0.70% | ~891 |
 | Long Live the King | 0.70% | ~891 |
 | Unfulfilled Desires | 0.70% | ~891 |
 | Predator | 0.70% | ~891 |
@@ -46,26 +48,24 @@ Number of Ratings: 7,767  (23.09.2022)
 | Reverse Banditry | 0.70% | ~891 |
 | Ramble On | 0.70% | ~891 |
 | Unshackled | 0.70% | ~891 |
-| Resurrection | 0.60% | ~764 |
-| Funny Guy | 0.60% | ~764 |
 | Wyrdly Reconstructed | 0.60% | ~764 |
 | Boxcar Kid | 0.60% | ~764 |
 | A Clear Conscience | 0.60% | ~764 |
 | When You Want Something Done Right | 0.60% | ~764 |
 | Utopia | 0.60% | ~764 |
-| Hope Rekindled | 0.50% | ~636 |
-| Ichthyophobic | 0.50% | ~636 |
-| No More Mouths to Feed | 0.50% | ~636 |
+| Hope Rekindled | 0.50% | ~637 |
+| Ichthyophobic | 0.50% | ~637 |
+| No More Mouths to Feed | 0.50% | ~637 |
 | Slap on the Wrist | 0.50% | ~11 |
 | This Looks Familiar | 0.40% | ~509 |
 | Hot Air | 0.40% | ~509 |
 | Eyes Up | 0.40% | ~509 |
 | Et Tu, Riposte? | 0.40% | ~9 |
+| For Old Time' Sake | 0.40% | ~9 |
 | Shrine of Reflection | 0.30% | ~382 |
 | Handled | 0.30% | ~382 |
 | Body of Work | 0.30% | ~382 |
-| Maître De La Lame | 0.30% | ~6 |
-| For Old Time' Sake | 0.30% | ~6 |
+| Maître De La Lame | 0.30% | ~7 |
 | A Life Well Lived | 0.20% | ~255 |
 | Clearing the Ledger | 0.20% | ~255 |
 | Bacon Bits | 0.20% | ~255 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,297 (Ranked 84)  
+Progressed: 127,316 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,19 +315,19 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
-| 2023-12-15 | 127,297 | 3 |
+| 2023-12-15 | 127,316 | 3 |
 ## Awards
 Max (Character Customization): 7,718  (Ranked 51)  
-Sum: 20,477 (Ranked 59)  
+Sum: 20,498 (Ranked 59)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,718 |
-| This game has Diverse Characters | 1,685 |
+| This game has Diverse Characters | 1,695 |
 | This game has Challenging Combat | 1,586 |
 | This game is Highly Recommended | 1,519 |
+| This game has Amazing Characters | 1,453 |
 | This game is Extremely Fun | 1,451 |
-| This game has Amazing Characters | 1,442 |
 | This game has Amazing Storytelling | 1,375 |
 | This game has Unique Visuals | 1,351 |
 | This game has Quickly Understood Controls | 1,346 |
@@ -658,4 +658,4 @@ Diff (max vs sum): -8
 | 2023-12-12 | 4.68 | - | 7,622 | 20,221 |
 | 2023-12-13 | 4.68 | - | 7,665 | 20,333 |
 | 2023-12-14 | 4.68 | - | 7,689 | 20,427 |
-| 2023-12-15 | 4.68 | - | 7,718 | 20,477 |
+| 2023-12-15 | 4.68 | - | 7,718 | 20,498 |

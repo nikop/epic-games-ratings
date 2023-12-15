@@ -1,13 +1,13 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.69 (Ranked 233)  
+Rating: 4.69 (Ranked 232)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,933 |
-| Keeping it classy | 28.00% | ~887 |
+| You're free now! | 61.00% | ~1,934 |
+| Keeping it classy | 28.00% | ~888 |
 | Welcome to the family | 22.00% | ~697 |
 | The finer things in life | 20.00% | ~634 |
 | Backpacker | 14.00% | ~444 |
@@ -23,10 +23,10 @@ Number of Ratings: 111  (23.09.2022)
 | Tight lipslides | 8.00% | ~254 |
 | Bottom ply killer | 7.00% | ~222 |
 | Finally he zips it | 7.00% | ~222 |
-| Fulfilled the dream | 7.00% | ~222 |
 | G'Day Mate! | 7.00% | ~222 |
 | Commence the Hijinx! | 6.00% | ~190 |
 | DIY Boss | 6.00% | ~190 |
+| Fulfilled the dream | 6.00% | ~190 |
 | Globetrotter | 6.00% | ~190 |
 | Laid back | 6.00% | ~190 |
 | NAHELL! | 6.00% | ~190 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,169 (Ranked 216)  
+Progressed: 3,170 (Ranked 216)  
 Completed: 2 (0.06%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 2 (0.06%) (Ranked 318)
 | 2023-12-12 | 3,114 | 2 |
 | 2023-12-13 | 3,118 | 2 |
 | 2023-12-14 | 3,148 | 2 |
-| 2023-12-15 | 3,169 | 2 |
+| 2023-12-15 | 3,170 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 421)  
 Sum: 564 (Ranked 321)  

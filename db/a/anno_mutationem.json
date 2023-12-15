@@ -3,12 +3,12 @@
   "Name": "ANNO Mutationem",
   "ProductSlug": "anno-mutationem-ef8b9e",
   "Ranking_Rating": 536,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 312,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 779,
+  "EOS_Progressed": 780,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -998,6 +998,11 @@
       "Time": "2023-12-15T09:05:57.052629+00:00",
       "NumProgressed": 779,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T15:06:26.6103337+00:00",
+      "NumProgressed": 780,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1097,7 +1102,7 @@
       "Name": "I just love stuff!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "I_think_its_broke",
@@ -1121,7 +1126,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "Lady_Luck",
@@ -1135,9 +1140,9 @@
       "ID": "Omnipotence",
       "SetID": "gl7plp",
       "Name": "Omnipotence",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 156
+      "UsersEstimate": 148
     },
     {
       "ID": "SERENITY_NOW",
@@ -1177,7 +1182,7 @@
       "Name": "Tell me your story",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -1185,7 +1190,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "The Traveler",
@@ -1273,7 +1278,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "posters",
@@ -1296,7 +1301,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 779,
+      "Progressed": 780,
       "Completed": 0
     }
   ],
@@ -1304,8 +1309,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-09T07:59:55.495838+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:06:33.2206133+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:06:26.6103334+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:16.2150027+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:58:42.6325922+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:06:33.2206371+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:58:56.7903406+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:06:26.6103637+00:00"
 }

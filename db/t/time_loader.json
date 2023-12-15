@@ -4,8 +4,8 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
     "PcReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131,
+  "EOS_Progressed": 132,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.87,
+  "EOS_Completed_Percentage": 6.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -224,6 +224,11 @@
       "Time": "2023-12-15T13:15:00.5892436+00:00",
       "NumProgressed": 131,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-15T15:09:16.3173342+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 29,
@@ -259,7 +264,7 @@
       "Name": "Mug",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "05_TimeCapsule",
@@ -313,25 +318,25 @@
       "ID": "11_Itsinthevault",
       "SetID": "681m9fa",
       "Name": "It\u2019s in the Vault",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "12_Purrfect",
       "SetID": "681m9fa",
       "Name": "Purr-fect",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 44
     },
     {
       "ID": "13_DrAntivirus",
       "SetID": "681m9fa",
       "Name": "Dr. Antivirus",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "14_VhsBlogger",
@@ -339,7 +344,7 @@
       "Name": "VHS blogger",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "15_Screwdriver",
@@ -347,7 +352,7 @@
       "Name": "Screwdriver",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "16_Springs",
@@ -355,7 +360,7 @@
       "Name": "Springs",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "17_Capacitors",
@@ -363,7 +368,7 @@
       "Name": "Capacitors",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "18_SolderingIron",
@@ -393,9 +398,9 @@
       "ID": "21_RobotBros",
       "SetID": "681m9fa",
       "Name": "Robot Bros",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 30
     },
     {
       "ID": "22_OutOfTheLoop",
@@ -403,7 +408,7 @@
       "Name": "Out of the loop",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "23_NewDawn",
@@ -411,7 +416,7 @@
       "Name": "New Dawn",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "24_HereWeGoAgain",
@@ -427,7 +432,7 @@
       "Name": "Leave me alone",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "26_SecretEnding",
@@ -435,7 +440,7 @@
       "Name": "Secret ending",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "27_Act1",
@@ -466,7 +471,7 @@
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 131,
+      "Progressed": 132,
       "Completed": 9
     }
   ],
@@ -474,8 +479,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:09:16.9518033+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:09:16.3173339+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.3905012+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:57:24.4764486+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:09:16.9518257+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:57:37.0139272+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:09:16.3173472+00:00"
 }

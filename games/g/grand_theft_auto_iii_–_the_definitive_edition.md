@@ -5,26 +5,26 @@ Rating: 4.22 (Ranked 913)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~7,613 |
-| Disposing of the Evidence | 38.00% | ~3,485 |
-| Without a Scratch | 34.00% | ~3,118 |
-| Wreckless Driving | 28.00% | ~2,568 |
-| A Marked Man | 25.00% | ~2,293 |
-| Street Sweeper | 18.00% | ~1,651 |
-| Liberty City Minute | 17.00% | ~1,559 |
-| Offshore Delivery | 14.00% | ~1,284 |
-| Dirty Money | 12.00% | ~1,101 |
-| By a Mile | 10.00% | ~917 |
-| Not So Fast | 10.00% | ~917 |
-| Right-hand Man | 10.00% | ~917 |
+| First Day on the Job | 83.00% | ~7,618 |
+| Disposing of the Evidence | 38.00% | ~3,488 |
+| Without a Scratch | 34.00% | ~3,121 |
+| Wreckless Driving | 28.00% | ~2,570 |
+| A Marked Man | 25.00% | ~2,294 |
+| Street Sweeper | 18.00% | ~1,652 |
+| Liberty City Minute | 17.00% | ~1,560 |
+| Offshore Delivery | 14.00% | ~1,285 |
+| Dirty Money | 13.00% | ~1,193 |
+| By a Mile | 10.00% | ~918 |
+| Not So Fast | 10.00% | ~918 |
+| Right-hand Man | 10.00% | ~918 |
 | A Gift from the King | 7.00% | ~642 |
 | Full Artillery | 4.00% | ~367 |
 | Mob Boss | 3.00% | ~275 |
-| Escape Artist | 2.00% | ~183 |
-| Where To? | 2.00% | ~183 |
-| Splish Splash | 2.00% | ~183 |
-| Playing Doctor | 2.00% | ~183 |
-| Liberty City Secrets | 2.00% | ~183 |
+| Escape Artist | 2.00% | ~184 |
+| Where To? | 2.00% | ~184 |
+| Splish Splash | 2.00% | ~184 |
+| Playing Doctor | 2.00% | ~184 |
+| Liberty City Secrets | 2.00% | ~184 |
 | Planned Ahead | 1.00% | ~92 |
 | Got This Figured Out | 1.00% | ~92 |
 | Wheels Up | 1.00% | ~92 |
@@ -35,7 +35,7 @@ Rating: 4.22 (Ranked 913)
 | Is That All You've Got? | 0.90% | ~83 |
 | King of Liberty City | 0.70% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,172 (Ranked 173)  
+Progressed: 9,178 (Ranked 173)  
 Completed: 60 (0.65%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 60 (0.65%) (Ranked 191)
 | 2023-12-12 | 8,807 | 60 |
 | 2023-12-13 | 8,860 | 60 |
 | 2023-12-14 | 9,067 | 60 |
-| 2023-12-15 | 9,172 | 60 |
+| 2023-12-15 | 9,178 | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

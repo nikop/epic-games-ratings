@@ -6,26 +6,26 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,716 |
-| Worker Specialization | 76.00% | ~5,642 |
-| First Contact | 72.00% | ~5,345 |
+| Colonize a Planet | 77.00% | ~5,717 |
+| Worker Specialization | 76.00% | ~5,643 |
+| First Contact | 72.00% | ~5,346 |
 | Win a Battle | 65.00% | ~4,826 |
 | Anomaly Researcher | 61.00% | ~4,529 |
-| Unleash My Power | 60.00% | ~4,454 |
+| Unleash My Power | 60.00% | ~4,455 |
 | Own 30 Planets | 32.00% | ~2,376 |
-| Xenocide | 31.00% | ~2,301 |
-| Design a Civilization | 31.00% | ~2,301 |
+| Xenocide | 31.00% | ~2,302 |
+| Design a Civilization | 31.00% | ~2,302 |
 | Commodity Trader | 29.00% | ~2,153 |
-| Design a Ship | 27.00% | ~2,004 |
+| Design a Ship | 27.00% | ~2,005 |
 | Commodity Seller | 24.00% | ~1,782 |
 | Prestige Victory! | 13.00% | ~965 |
 | Galactic War | 10.00% | ~742 |
 | Trading Partner | 8.00% | ~594 |
 | Fleet Victory | 8.00% | ~594 |
-| Gain an Ally | 6.00% | ~445 |
-| War with the Unknown | 6.00% | ~445 |
-| Win as Terrans | 6.00% | ~445 |
-| Win with a Custom Faction | 6.00% | ~445 |
+| Gain an Ally | 6.00% | ~446 |
+| War with the Unknown | 6.00% | ~446 |
+| Win as Terrans | 6.00% | ~446 |
+| Win with a Custom Faction | 6.00% | ~446 |
 | Conquest Victory! | 4.00% | ~297 |
 | Win Quickly | 4.00% | ~297 |
 | Pirate Cleansing | 3.00% | ~223 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,424 (Ranked 181)  
+Progressed: 7,425 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 7,415 | 0 |
 | 2023-12-13 | 7,419 | 0 |
 | 2023-12-14 | 7,423 | 0 |
-| 2023-12-15 | 7,424 | 0 |
+| 2023-12-15 | 7,425 | 0 |
 ## Awards
 Max (Diverse Characters): 97  (Ranked 374)  
 Sum: 692 (Ranked 304)  

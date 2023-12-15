@@ -2,13 +2,13 @@
   "ID": "78473822f724474d8e436f6bde735623",
   "Name": "Cave Story\u002B",
   "ProductSlug": "cave-story-plus",
-  "Ranking_Rating": 233,
+  "Ranking_Rating": 232,
   "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 504,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 505,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2020-12-03T16:00:00+00:00",
     "PcReleaseDate": "2020-12-03T16:00:00+00:00",
@@ -688,6 +688,6 @@
   "FirstSeen": "2022-07-22T20:30:31.2539727+00:00",
   "LastChanged": "2023-12-13T00:00:17.407368+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:50.8737404+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:57:30.6124401+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:08:19.7443218+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:57:43.0186441+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:08:20.7063566+00:00"
 }

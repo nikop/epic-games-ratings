@@ -16,21 +16,21 @@ Rating: 4.62 (Ranked 371)
 | From Friends to Family | 3.00% | ~170 |
 | Magical Synergy | 3.00% | ~170 |
 | Seat of Power | 3.00% | ~170 |
-| Valley of Wonders | 2.00% | ~113 |
-| Return of the Wizard King | 2.00% | ~113 |
-| Enchanted Archipelago | 2.00% | ~113 |
-| Digging for Treasure | 2.00% | ~113 |
-| Stronger Together | 2.00% | ~113 |
-| My Final Form | 2.00% | ~113 |
-| In a Liege of Your Own | 2.00% | ~113 |
-| Fiery Friend | 2.00% | ~113 |
-| Impenetrable Fortress | 2.00% | ~113 |
-| Intimidation Tactics | 2.00% | ~113 |
-| Tipping the Scales | 2.00% | ~113 |
-| Freed Lands of Manuhari | 2.00% | ~113 |
-| Sehiran Oasis | 2.00% | ~113 |
-| Chaos Surge | 2.00% | ~113 |
-| Spoils of War | 2.00% | ~113 |
+| Valley of Wonders | 2.00% | ~114 |
+| Return of the Wizard King | 2.00% | ~114 |
+| Enchanted Archipelago | 2.00% | ~114 |
+| Digging for Treasure | 2.00% | ~114 |
+| Stronger Together | 2.00% | ~114 |
+| My Final Form | 2.00% | ~114 |
+| In a Liege of Your Own | 2.00% | ~114 |
+| Fiery Friend | 2.00% | ~114 |
+| Impenetrable Fortress | 2.00% | ~114 |
+| Intimidation Tactics | 2.00% | ~114 |
+| Tipping the Scales | 2.00% | ~114 |
+| Freed Lands of Manuhari | 2.00% | ~114 |
+| Sehiran Oasis | 2.00% | ~114 |
+| Chaos Surge | 2.00% | ~114 |
+| Spoils of War | 2.00% | ~114 |
 | Arch Mage | 1.00% | ~57 |
 | The Creator | 1.00% | ~57 |
 | Crimson Caldera | 1.00% | ~57 |
@@ -66,8 +66,8 @@ Rating: 4.62 (Ranked 371)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,671 (Ranked 191)  
-Completed: 7 (0.12%) (Ranked 287)  
+Progressed: 5,675 (Ranked 191)  
+Completed: 7 (0.12%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -273,7 +273,7 @@ Completed: 7 (0.12%) (Ranked 287)
 | 2023-12-12 | 5,587 | 7 |
 | 2023-12-13 | 5,598 | 7 |
 | 2023-12-14 | 5,643 | 7 |
-| 2023-12-15 | 5,671 | 7 |
+| 2023-12-15 | 5,675 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 479)  
 Sum: 93 (Ranked 460)  

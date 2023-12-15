@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 84.00% | ~81 |
+| Mathematic | 85.00% | ~82 |
 | It's Yours, My Friend | 72.00% | ~70 |
 | Going Places | 67.00% | ~65 |
-| Conducted Trade | 65.00% | ~63 |
+| Conducted Trade | 66.00% | ~64 |
 | Aristocratic | 64.00% | ~62 |
-| Digging a Hole | 62.00% | ~60 |
+| Digging a Hole | 64.00% | ~62 |
 | Tutti Frutti | 59.00% | ~57 |
 | Gotta Go Fast | 48.00% | ~47 |
 | Slotting Machine | 42.00% | ~41 |
@@ -33,7 +33,7 @@
 | Yup. | 1.00% | ~1 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97 (Ranked 455)  
+Progressed: 97 (Ranked 456)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |

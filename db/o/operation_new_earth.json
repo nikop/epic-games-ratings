@@ -3,12 +3,12 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_Rating": 1064,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2027,
+  "EOS_Progressed": 2029,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7724,6 +7724,11 @@
       "Time": "2023-12-15T12:05:07.6605807+00:00",
       "NumProgressed": 2027,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T15:04:40.4033862+00:00",
+      "NumProgressed": 2029,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7815,7 +7820,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "objective_headquarters_15",
@@ -7839,7 +7844,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -7911,7 +7916,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7943,7 +7948,7 @@
       "Name": "Stocking Up",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -7975,7 +7980,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -8038,7 +8043,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2027,
+      "Progressed": 2029,
       "Completed": 1
     }
   ],
@@ -8046,8 +8051,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:04:46.8499714+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:04:40.4033859+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.3449014+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:02:32.9031877+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:04:46.8500356+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:02:25.1976221+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:04:40.403451+00:00"
 }

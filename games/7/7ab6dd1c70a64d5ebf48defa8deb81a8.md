@@ -4,45 +4,45 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 32.00% | ~144 |
-| Trinity | 13.00% | ~58 |
+| Break Out | 32.00% | ~145 |
+| Trinity | 13.00% | ~59 |
 | Shatter Them All | 10.00% | ~45 |
-| A Taste of Wrath | 9.00% | ~40 |
-| Fashion Victim | 9.00% | ~40 |
-| I Found It | 9.00% | ~40 |
+| A Taste of Wrath | 9.00% | ~41 |
+| Geared Up | 9.00% | ~41 |
+| Fashion Victim | 9.00% | ~41 |
+| I Found It | 9.00% | ~41 |
 | Find Allies | 8.00% | ~36 |
-| Geared Up | 8.00% | ~36 |
+| Adventurer | 8.00% | ~36 |
 | The Collector | 8.00% | ~36 |
-| Powerful Allies | 7.00% | ~31 |
-| Adventurer | 7.00% | ~31 |
-| Tributes of Caladrias | 7.00% | ~31 |
-| Scholar | 7.00% | ~31 |
-| Stone Collection | 7.00% | ~31 |
+| Powerful Allies | 7.00% | ~32 |
+| Tributes of Caladrias | 7.00% | ~32 |
+| Scholar | 7.00% | ~32 |
+| Stone Collection | 7.00% | ~32 |
 | Big Bazar | 6.00% | ~27 |
-| The Mentor | 5.00% | ~22 |
-| Essence Blow | 5.00% | ~22 |
+| The Mentor | 5.00% | ~23 |
+| Essence Blow | 5.00% | ~23 |
 | Calm before the Storm | 4.00% | ~18 |
 | To Battle | 4.00% | ~18 |
 | Godslayer | 4.00% | ~18 |
 | Alchemist | 4.00% | ~18 |
-| Clear Sight | 3.00% | ~13 |
-| Airborne | 3.00% | ~13 |
-| Fine Feathers Make Fine Birds | 3.00% | ~13 |
+| Clear Sight | 3.00% | ~14 |
+| Airborne | 3.00% | ~14 |
+| Fine Feathers Make Fine Birds | 3.00% | ~14 |
 | Shatterer | 2.00% | ~9 |
 | Slayer | 2.00% | ~9 |
 | All There Is | 2.00% | ~9 |
 | False God | 2.00% | ~9 |
 | Miner | 2.00% | ~9 |
 | A Queen's Tale | 2.00% | ~9 |
-| Flawless Victory | 1.00% | ~4 |
-| All That Gold | 1.00% | ~4 |
-| Summiter | 1.00% | ~4 |
+| Flawless Victory | 1.00% | ~5 |
+| All That Gold | 1.00% | ~5 |
+| Summiter | 1.00% | ~5 |
 | Forgemaster | 0.90% | ~4 |
 | Shardbearer | 0.70% | ~3 |
 | Feeling Fancy | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449 (Ranked 331)  
-Completed: 3 (0.67%) (Ranked 190)  
+Progressed: 452 (Ranked 330)  
+Completed: 3 (0.66%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,4 +105,4 @@ Completed: 3 (0.67%) (Ranked 190)
 | 2023-12-12 | 265 | 2 |
 | 2023-12-13 | 282 | 3 |
 | 2023-12-14 | 376 | 3 |
-| 2023-12-15 | 449 | 3 |
+| 2023-12-15 | 452 | 3 |

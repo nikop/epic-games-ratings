@@ -5,32 +5,32 @@ Rating: 4.42 (Ranked 719)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 27.00% | ~6,782 |
-| Sector 2 | 24.00% | ~6,029 |
-| Crush That Cube! | 20.00% | ~5,024 |
-| Sector 3 | 20.00% | ~5,024 |
-| Sector 4 | 17.00% | ~4,270 |
-| Crush That Ball! | 16.00% | ~4,019 |
-| Sector 5 | 11.00% | ~2,763 |
-| Sector 6 | 9.00% | ~2,261 |
-| Feeling the Blues | 7.00% | ~1,758 |
-| Squished | 7.00% | ~1,758 |
-| Finale | 7.00% | ~1,758 |
-| Sector 7 | 7.00% | ~1,758 |
-| Did That Work? -- No! | 6.00% | ~1,507 |
+| Sector 1 | 27.00% | ~6,785 |
+| Sector 2 | 24.00% | ~6,031 |
+| Crush That Cube! | 20.00% | ~5,026 |
+| Sector 3 | 20.00% | ~5,026 |
+| Sector 4 | 17.00% | ~4,272 |
+| Crush That Ball! | 16.00% | ~4,021 |
+| Sector 5 | 11.00% | ~2,764 |
+| Sector 6 | 9.00% | ~2,262 |
+| Feeling the Blues | 7.00% | ~1,759 |
+| Squished | 7.00% | ~1,759 |
+| Finale | 7.00% | ~1,759 |
+| Sector 7 | 7.00% | ~1,759 |
+| Did That Work? -- No! | 6.00% | ~1,508 |
 | Master Room | 4.00% | ~1,005 |
-| Bronze Trophy | 2.00% | ~502 |
-| Gold Trophy | 2.00% | ~502 |
-| Hopefully that's all of them! | 2.00% | ~502 |
-| Phew! | 2.00% | ~502 |
-| The Puzzle Master | 2.00% | ~502 |
-| Silver Trophy | 2.00% | ~502 |
-| Completed It. | 2.00% | ~502 |
+| Bronze Trophy | 2.00% | ~503 |
+| Gold Trophy | 2.00% | ~503 |
+| Hopefully that's all of them! | 2.00% | ~503 |
+| Phew! | 2.00% | ~503 |
+| The Puzzle Master | 2.00% | ~503 |
+| Silver Trophy | 2.00% | ~503 |
+| Completed It. | 2.00% | ~503 |
 | The Collector | 1.00% | ~251 |
 | Master Of The Collectables | 1.00% | ~251 |
 | Maxed Out | 1.00% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,120 (Ranked 136)  
+Progressed: 25,131 (Ranked 136)  
 Completed: 157 (0.62%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 157 (0.62%) (Ranked 193)
 | 2023-12-12 | 24,785 | 154 |
 | 2023-12-13 | 24,912 | 155 |
 | 2023-12-14 | 25,053 | 156 |
-| 2023-12-15 | 25,120 | 157 |
+| 2023-12-15 | 25,131 | 157 |
 ## Awards
 Max (Challenging Puzzles): 22  (Ranked 546)  
 Sum: 22 (Ranked 549)  

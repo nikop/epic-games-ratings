@@ -8723,10 +8723,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32884,
       "NumberOfAwardsMax": 5635
+    },
+    {
+      "Time": "2023-12-15T14:58:09.3123817+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32889,
+      "NumberOfAwardsMax": 5635
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32884,
+  "NumberOfAwards": 32889,
   "NumberOfAwardsMax": 5635,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8770,12 +8776,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3571
+      "Count": 3576
     }
   ],
-  "EOS_Progressed": 240626,
+  "EOS_Progressed": 240644,
   "EOS_Completed": 2529,
-  "EOS_NewPlayers": 1730,
+  "EOS_NewPlayers": 1736,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -35723,6 +35729,11 @@
       "Time": "2023-12-15T14:09:58.9916534+00:00",
       "NumProgressed": 240626,
       "NumCompleted": 2529
+    },
+    {
+      "Time": "2023-12-15T15:09:58.2193423+00:00",
+      "NumProgressed": 240644,
+      "NumCompleted": 2529
     }
   ],
   "TotalAchievements": 546,
@@ -40022,7 +40033,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "objective_completed_1558",
@@ -40101,21 +40112,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 206900,
+      "Progressed": 206918,
       "Completed": 3992
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 240626,
+      "Progressed": 240644,
       "Completed": 2529
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-15T07:58:06.4585191+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:09:58.9916531+00:00",
+  "LastChanged": "2023-12-15T14:58:09.3123815+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:09:58.2193419+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:57:55.0908403+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:09:58.9939954+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:58:09.3123821+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:09:58.2216288+00:00"
 }

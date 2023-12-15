@@ -7,6 +7,7 @@
 | Friendly Fire | 50.00% | ~2 |
 | LOVE | 50.00% | ~2 |
 | Safety | 50.00% | ~2 |
+| kuso | 50.00% | ~2 |
 | 13 Years in 69 Minutes | 25.00% | ~1 |
 | Air walker | 25.00% | ~1 |
 | Ball Dropper | 25.00% | ~1 |
@@ -22,7 +23,6 @@
 | Nostalgia | 25.00% | ~1 |
 | Threading the Needle | 25.00% | ~1 |
 | YOLO | 25.00% | ~1 |
-| kuso | 25.00% | ~1 |
 | やり甲斐 | 25.00% | ~1 |
 | Charlie | 0.00% | ~0 |
 | Seeker | 0.00% | ~0 |

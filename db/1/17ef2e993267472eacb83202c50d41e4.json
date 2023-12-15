@@ -3,12 +3,12 @@
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
   "Ranking_Rating": 975,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 353,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8790,
+  "EOS_Progressed": 8792,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8717,6 +8717,11 @@
       "Time": "2023-12-15T12:10:30.9930813+00:00",
       "NumProgressed": 8790,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T15:09:56.4691231+00:00",
+      "NumProgressed": 8792,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8849,7 +8854,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "GamesPlayed10",
@@ -9049,7 +9054,7 @@
       "Name": "Dealt 30000 Damage in a single match",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "MaxHealingDone30000",
@@ -9089,7 +9094,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "MaxTowersKilled3",
@@ -9257,7 +9262,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -9273,7 +9278,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "TGPurchased1",
@@ -9320,7 +9325,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8790,
+      "Progressed": 8792,
       "Completed": 1
     }
   ],
@@ -9328,8 +9333,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-14T20:58:55.0819028+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:09:57.1953455+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:09:56.4691229+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:27.9940225+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:59:07.4639593+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:09:57.1954266+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:59:21.6720771+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:09:56.4692297+00:00"
 }

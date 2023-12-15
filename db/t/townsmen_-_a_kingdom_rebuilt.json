@@ -3,11 +3,11 @@
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
   "Ranking_Rating": 879,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4374,
+  "EOS_Progressed": 4376,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1697,6 +1697,11 @@
       "Time": "2023-12-15T13:15:51.6432959+00:00",
       "NumProgressed": 4374,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-15T15:09:56.9285555+00:00",
+      "NumProgressed": 4376,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -1708,7 +1713,7 @@
       "Name": "The Art of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_AUTOTRADE_01",
@@ -1764,7 +1769,7 @@
       "Name": "Five brews are a schnitzel",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS1",
@@ -1772,7 +1777,7 @@
       "Name": "I like to build stuff... I",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS2",
@@ -1780,7 +1785,7 @@
       "Name": "I like to build stuff... II",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS3",
@@ -1836,7 +1841,7 @@
       "Name": "The King\u0027s new clothes III",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_DECO_CATEGORIES",
@@ -1876,7 +1881,7 @@
       "Name": "Survivalist",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_JEWELS1",
@@ -1900,7 +1905,7 @@
       "Name": "My precious... III",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_LASTMANSTANDING",
@@ -1916,7 +1921,7 @@
       "Name": "Lord of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_LOSTPLAGUE",
@@ -1932,7 +1937,7 @@
       "Name": "Plague strikes!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_POPULATION1",
@@ -1964,7 +1969,7 @@
       "Name": "Builder IV",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_POPULATION5",
@@ -2012,7 +2017,7 @@
       "Name": "Completionist II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_QUESTS3",
@@ -2020,7 +2025,7 @@
       "Name": "Completionist III",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_REBUILTIT",
@@ -2044,7 +2049,7 @@
       "Name": "Full-time job II",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACHIEVEMENT_REPAIR3",
@@ -2076,7 +2081,7 @@
       "Name": "Genius",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_SAUSAGES",
@@ -2084,7 +2089,7 @@
       "Name": "Only the sausage has two ends.",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_ATALEOFTWOCLANS",
@@ -2116,7 +2121,7 @@
       "Name": "It went unnoticed",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_BREW",
@@ -2124,7 +2129,7 @@
       "Name": "Brew master",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_CRAFTSMEN",
@@ -2148,7 +2153,7 @@
       "Name": "Negotiator",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_DISEASE",
@@ -2156,7 +2161,7 @@
       "Name": "Panacea",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_DRAUGHT",
@@ -2236,7 +2241,7 @@
       "Name": "I\u0027ve been everywhere X",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_LATEFALL",
@@ -2292,7 +2297,7 @@
       "Name": "I\u0027ve been everywhere V",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_TWELVE",
@@ -2324,7 +2329,7 @@
       "Name": "Waterways",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_WEDDING",
@@ -2354,9 +2359,9 @@
       "ID": "ACHIEVEMENT_TAXES1",
       "SetID": "9eacipp",
       "Name": "Tax-man I",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 525
+      "UsersEstimate": 569
     },
     {
       "ID": "ACHIEVEMENT_TAXES2",
@@ -2388,7 +2393,7 @@
       "Name": "Tax-man V",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_TIME1",
@@ -2404,7 +2409,7 @@
       "Name": "A time consuming game II",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACHIEVEMENT_TIME3",
@@ -2436,7 +2441,7 @@
       "Name": "Tools of the trade I",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACHIEVEMENT_TOOLS2",
@@ -2452,7 +2457,7 @@
       "Name": "Tools of the trade III",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION01",
@@ -2484,7 +2489,7 @@
       "Name": "Knee deep in snow",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION05",
@@ -2508,22 +2513,22 @@
       "Name": "You shall not pass",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4374,
+      "Progressed": 4376,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-04T22:59:34.0965429+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:09:57.5955609+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:09:56.9285553+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:57.9071019+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:58:17.676712+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:09:57.595648+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:58:30.8236309+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:09:56.9286522+00:00"
 }

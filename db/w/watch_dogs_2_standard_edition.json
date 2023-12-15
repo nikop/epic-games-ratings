@@ -2,13 +2,13 @@
   "ID": "angelonia",
   "Name": "Watch Dogs 2 Standard Edition",
   "ProductSlug": "watch-dogs-2",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 195,
   "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 797,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 504,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 505,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2016-11-15T15:21:00+00:00",
     "PcReleaseDate": null,
@@ -8287,10 +8287,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4586,
       "NumberOfAwardsMax": 619
+    },
+    {
+      "Time": "2023-12-15T15:00:28.0969913+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4588,
+      "NumberOfAwardsMax": 619
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4586,
+  "NumberOfAwards": 4588,
   "NumberOfAwardsMax": 619,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8328,7 +8334,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 564
+      "Count": 566
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8366,8 +8372,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-12-15T12:00:33.2787578+00:00",
+  "LastChanged": "2023-12-15T15:00:28.0969911+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.9496546+00:00",
-  "LastUpdate_Ratings": "2023-12-15T14:00:15.0860762+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:08:41.8801351+00:00"
+  "LastUpdate_Ratings": "2023-12-15T15:00:28.0969919+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:08:42.3404364+00:00"
 }

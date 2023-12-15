@@ -5,26 +5,26 @@ Rating: 4.58 (Ranked 454)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 29.00% | ~1,009 |
+| Wakey Wakey | 29.00% | ~1,010 |
 | Sputnik 2049 | 26.00% | ~905 |
 | Infinite Growth... | 25.00% | ~870 |
-| Without Breaking Some Eggs... | 24.00% | ~835 |
-| A Thousand Strong | 18.00% | ~626 |
-| Ready for a New World | 18.00% | ~626 |
-| Space Society | 17.00% | ~591 |
+| Without Breaking Some Eggs... | 24.00% | ~836 |
+| A Thousand Strong | 18.00% | ~627 |
+| Ready for a New World | 18.00% | ~627 |
+| Space Society | 17.00% | ~592 |
 | Permanent Redesigns | 16.00% | ~557 |
 | Fully Recycled | 14.00% | ~487 |
 | Ain't Nobody Got Time for That | 14.00% | ~487 |
 | The Ship of Theseus | 14.00% | ~487 |
-| Guy de Borderlands | 13.00% | ~452 |
-| Exceeding Capacity | 12.00% | ~417 |
-| Breaking Protocol | 12.00% | ~417 |
-| Hope Seeker | 12.00% | ~417 |
+| Guy de Borderlands | 13.00% | ~453 |
+| Exceeding Capacity | 12.00% | ~418 |
+| Breaking Protocol | 12.00% | ~418 |
+| Hope Seeker | 12.00% | ~418 |
 | A Hunk of Junk | 11.00% | ~383 |
 | Man's Best Friend | 9.00% | ~313 |
-| Power Outage | 8.00% | ~278 |
-| Convenient Transport | 8.00% | ~278 |
-| Please Make it Stop! | 8.00% | ~278 |
+| Power Outage | 8.00% | ~279 |
+| Convenient Transport | 8.00% | ~279 |
+| Please Make it Stop! | 8.00% | ~279 |
 | Sightseeing | 7.00% | ~244 |
 | Necessary Enhancement | 7.00% | ~244 |
 | From the Past | 7.00% | ~244 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 454)
 | This is Fine | 0.10% | ~3 |
 | Suburban Perfection | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,479 (Ranked 211)  
+Progressed: 3,482 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-11 | 3,423 | 0 |
 | 2023-12-13 | 3,429 | 0 |
 | 2023-12-14 | 3,460 | 0 |
-| 2023-12-15 | 3,479 | 0 |
+| 2023-12-15 | 3,482 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -3324,17 +3324,17 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "5k00jcd",
       "Name": "Challenge accepted!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
       "SetID": "5k00jcd",
       "Name": "I\u0027m in charge here!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -3553,8 +3553,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:04:39.579135+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:04:32.8584209+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:57:33.7521999+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:04:39.5791875+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:57:46.1926709+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:04:32.8584708+00:00"
 }

@@ -7,10 +7,10 @@ Number of Ratings: 37  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eureka! | 13.00% | ~569 |
+| Tax-man I | 13.00% | ~569 |
 | A new beginning | 13.00% | ~569 |
-| Tax-man I | 12.00% | ~525 |
 | Friends from the past | 11.00% | ~481 |
-| I like to build stuff... I | 10.00% | ~437 |
+| I like to build stuff... I | 10.00% | ~438 |
 | A time consuming game I | 9.00% | ~394 |
 | Builder I | 8.00% | ~350 |
 | An honorable Governor I | 8.00% | ~350 |
@@ -20,11 +20,11 @@ Number of Ratings: 37  (23.09.2022)
 | Bread for the people I | 7.00% | ~306 |
 | Completionist I | 7.00% | ~306 |
 | Full-time job I | 7.00% | ~306 |
-| I like to build stuff... II | 6.00% | ~262 |
-| Full-time job II | 6.00% | ~262 |
-| A time consuming game II | 6.00% | ~262 |
-| Tools of the trade I | 6.00% | ~262 |
-| Knee deep in snow | 6.00% | ~262 |
+| I like to build stuff... II | 6.00% | ~263 |
+| Full-time job II | 6.00% | ~263 |
+| A time consuming game II | 6.00% | ~263 |
+| Tools of the trade I | 6.00% | ~263 |
+| Knee deep in snow | 6.00% | ~263 |
 | Not a small trader anymore | 5.00% | ~219 |
 | Bread for the people II | 5.00% | ~219 |
 | I like to build stuff... III | 5.00% | ~219 |
@@ -50,21 +50,21 @@ Number of Ratings: 37  (23.09.2022)
 | Builder III | 3.00% | ~131 |
 | A time consuming game IV | 3.00% | ~131 |
 | Out of the frying pan | 3.00% | ~131 |
-| The Art of War | 2.00% | ~87 |
-| Five brews are a schnitzel | 2.00% | ~87 |
-| The King's new clothes III | 2.00% | ~87 |
-| Survivalist | 2.00% | ~87 |
-| My precious... III | 2.00% | ~87 |
-| Lord of War | 2.00% | ~87 |
-| Plague strikes! | 2.00% | ~87 |
-| Builder IV | 2.00% | ~87 |
-| Completionist II | 2.00% | ~87 |
-| Completionist III | 2.00% | ~87 |
-| Genius | 2.00% | ~87 |
-| Only the sausage has two ends. | 2.00% | ~87 |
-| I've been everywhere V | 2.00% | ~87 |
-| Tax-man V | 2.00% | ~87 |
-| Tools of the trade III | 2.00% | ~87 |
+| The Art of War | 2.00% | ~88 |
+| Five brews are a schnitzel | 2.00% | ~88 |
+| The King's new clothes III | 2.00% | ~88 |
+| Survivalist | 2.00% | ~88 |
+| My precious... III | 2.00% | ~88 |
+| Lord of War | 2.00% | ~88 |
+| Plague strikes! | 2.00% | ~88 |
+| Builder IV | 2.00% | ~88 |
+| Completionist II | 2.00% | ~88 |
+| Completionist III | 2.00% | ~88 |
+| Genius | 2.00% | ~88 |
+| Only the sausage has two ends. | 2.00% | ~88 |
+| I've been everywhere V | 2.00% | ~88 |
+| Tax-man V | 2.00% | ~88 |
+| Tools of the trade III | 2.00% | ~88 |
 | When there's fire... | 1.00% | ~44 |
 | An honorable Governor III | 1.00% | ~44 |
 | Reunification | 1.00% | ~44 |
@@ -91,13 +91,13 @@ Number of Ratings: 37  (23.09.2022)
 | Little place in the country | 0.50% | ~22 |
 | I've been everywhere VIII | 0.50% | ~22 |
 | I've been everywhere IX | 0.50% | ~22 |
-| It went unnoticed | 0.40% | ~17 |
-| Brew master | 0.40% | ~17 |
-| Negotiator | 0.40% | ~17 |
-| Panacea | 0.40% | ~17 |
-| I've been everywhere X | 0.40% | ~17 |
-| Waterways | 0.40% | ~17 |
-| You shall not pass | 0.40% | ~17 |
+| It went unnoticed | 0.40% | ~18 |
+| Brew master | 0.40% | ~18 |
+| Negotiator | 0.40% | ~18 |
+| Panacea | 0.40% | ~18 |
+| I've been everywhere X | 0.40% | ~18 |
+| Waterways | 0.40% | ~18 |
+| You shall not pass | 0.40% | ~18 |
 | Malediction | 0.30% | ~13 |
 | Tired by festival | 0.30% | ~13 |
 | Chief Inspector | 0.30% | ~13 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,374 (Ranked 197)  
+Progressed: 4,376 (Ranked 197)  
 Completed: 4 (0.09%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 4 (0.09%) (Ranked 303)
 | 2023-12-07 | 4,365 | 3 |
 | 2023-12-11 | 4,365 | 4 |
 | 2023-12-14 | 4,371 | 4 |
-| 2023-12-15 | 4,374 | 4 |
+| 2023-12-15 | 4,376 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

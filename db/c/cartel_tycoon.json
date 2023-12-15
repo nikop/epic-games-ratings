@@ -3,12 +3,12 @@
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
   "Ranking_Rating": 781,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
-  "Ranking_EOS_Progress": 288,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
+  "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 740,
+  "EOS_Progressed": 741,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -2540,6 +2540,11 @@
       "Time": "2023-12-15T14:05:35.1407264+00:00",
       "NumProgressed": 740,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T15:05:28.5955928+00:00",
+      "NumProgressed": 741,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2551,7 +2556,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "cool-shirts",
@@ -2567,7 +2572,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "dont-miss-calls",
@@ -2599,7 +2604,7 @@
       "Name": "Our Man",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "kill-lieutenants",
@@ -2615,15 +2620,15 @@
       "Name": "Hokey-Pokey",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "play-at-night",
       "SetID": "bed33dd",
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 229
+      "UsersEstimate": 222
     },
     {
       "ID": "product-profit",
@@ -2671,15 +2676,15 @@
       "Name": "Camellos",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "unlock-residences",
       "SetID": "bed33dd",
       "Name": "Pampered Life",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 178
+      "UsersEstimate": 170
     },
     {
       "ID": "upgrade-building",
@@ -2687,7 +2692,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "use-submarine",
@@ -2702,15 +2707,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 740,
+      "Progressed": 741,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-12T19:59:33.5091909+00:00",
-  "LastChanged_Achievements": "2023-12-15T14:05:35.1407261+00:00",
+  "LastChanged_Achievements": "2023-12-15T15:05:28.5955923+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4008517+00:00",
-  "LastUpdate_Ratings": "2023-12-15T13:57:26.0230642+00:00",
-  "LastUpdate_Achievements": "2023-12-15T14:05:35.1407436+00:00"
+  "LastUpdate_Ratings": "2023-12-15T14:57:38.5516055+00:00",
+  "LastUpdate_Achievements": "2023-12-15T15:05:28.5956167+00:00"
 }
