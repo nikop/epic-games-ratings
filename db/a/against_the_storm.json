@@ -2,12 +2,12 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 69,
+  "Ranking_Rating": 68,
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 3740,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3461,9 +3461,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18250,
+  "EOS_Progressed": 18253,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15836,6 +15836,11 @@
       "Time": "2023-12-15T18:04:03.7774108+00:00",
       "NumProgressed": 18250,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-15T19:03:49.9892921+00:00",
+      "NumProgressed": 18253,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15856,7 +15861,7 @@
       "Name": "Feeding The People",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "AllNeeds",
@@ -15928,7 +15933,7 @@
       "Name": "Homesick",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "WinFirstGame",
@@ -15998,9 +16003,9 @@
       "ID": "WinNearDangerous",
       "SetID": "cfbk359",
       "Name": "Dangerous Lands",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 73
     },
     {
       "ID": "WinNearFertile",
@@ -16008,7 +16013,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "WinNearFishmen",
@@ -16064,7 +16069,7 @@
       "Name": "Royal Outpost",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "WinNearRuins",
@@ -16072,7 +16077,7 @@
       "Name": "Lost Colonies",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "WinNearStatue",
@@ -16104,7 +16109,7 @@
       "Name": "Watchtower",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "WinOnCoral",
@@ -16208,7 +16213,7 @@
       "Name": "Like a Machine",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -16272,7 +16277,7 @@
       "Name": "Overgrown Library",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "WinNearPetrified",
@@ -16319,15 +16324,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18250,
+      "Progressed": 18253,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-15T16:01:40.7819682+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:04:03.7774105+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:03:49.9892918+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:00:42.7552715+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:04:03.7775286+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:00:06.2335775+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:03:49.9893969+00:00"
 }

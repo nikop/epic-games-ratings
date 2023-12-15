@@ -5,10 +5,10 @@
   "Ranking_Rating": 576,
   "Ranking_Popularity": 320,
   "Ranking_PopularitySum": 406,
-  "Ranking_EOS_Progress": 150,
+  "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -564,9 +564,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 17049,
+  "EOS_Progressed": 17050,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -16154,6 +16154,11 @@
       "Time": "2023-12-15T17:05:53.0907025+00:00",
       "NumProgressed": 17049,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-15T19:06:05.6859645+00:00",
+      "NumProgressed": 17050,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16181,7 +16186,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3922
     },
     {
       "ID": "tpote_achievement_12",
@@ -16213,7 +16218,7 @@
       "Name": "Care, like a brother cares",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "tpote_achievement_16",
@@ -16285,7 +16290,7 @@
       "Name": "A brush with death",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "tpote_achievement_24",
@@ -16341,7 +16346,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "tpote_achievement_30",
@@ -16381,7 +16386,7 @@
       "Name": "A cry for help",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     },
     {
       "ID": "tpote_achievement_35",
@@ -16389,7 +16394,7 @@
       "Name": "Self-defense",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "tpote_achievement_36",
@@ -16461,7 +16466,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3922
     },
     {
       "ID": "tpote_achievement_7",
@@ -16469,7 +16474,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     },
     {
       "ID": "tpote_achievement_8",
@@ -16492,15 +16497,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17049,
+      "Progressed": 17050,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-13T16:01:07.6767372+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:06:36.7546832+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:06:05.685964+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:23.5508408+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:02:31.5712982+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:06:36.7547608+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:02:30.3124428+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:06:05.6860654+00:00"
 }

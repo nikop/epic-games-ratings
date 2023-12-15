@@ -39,6 +39,7 @@
 | Friend of Windholme | 12.00% | ~6 |
 | Magic Academy | 12.00% | ~6 |
 | Defeat Uram | 10.00% | ~5 |
+| Elynn's Tale | 10.00% | ~5 |
 | Lore's Tale | 10.00% | ~5 |
 | Yngrid's Tale | 10.00% | ~5 |
 | Silver Drift Hollow Mine | 10.00% | ~5 |
@@ -49,7 +50,6 @@
 | Defeat Hokan | 8.00% | ~4 |
 | Defeat Isgrimm | 8.00% | ~4 |
 | Defeat Undergast | 8.00% | ~4 |
-| Elynn's Tale | 8.00% | ~4 |
 | Crypt of the Revenant | 8.00% | ~4 |
 | Balanced | 8.00% | ~4 |
 | Friend of Grey Dusk Vale | 8.00% | ~4 |

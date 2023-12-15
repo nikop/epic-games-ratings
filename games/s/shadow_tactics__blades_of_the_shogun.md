@@ -6,22 +6,22 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,330 |
-| A thief's beginning | 11.00% | ~24,136 |
-| Thorough | 11.00% | ~24,136 |
-| Disguised | 9.00% | ~19,748 |
-| Rollin' | 9.00% | ~19,748 |
-| Tanuki Time | 9.00% | ~19,748 |
-| Rescue Takuma | 8.00% | ~17,553 |
-| Stoned Ox | 8.00% | ~17,553 |
-| Happy Planning | 7.00% | ~15,359 |
-| Ice Ice Yuki | 7.00% | ~15,359 |
-| Jonin | 7.00% | ~15,359 |
-| Yabu | 7.00% | ~15,359 |
-| Chunin | 6.00% | ~13,165 |
-| Flying Rocks | 6.00% | ~13,165 |
-| Mugen Unchained | 6.00% | ~13,165 |
-| Warzone | 6.00% | ~13,165 |
+| Genin | 12.00% | ~26,331 |
+| A thief's beginning | 11.00% | ~24,137 |
+| Thorough | 11.00% | ~24,137 |
+| Disguised | 9.00% | ~19,749 |
+| Rollin' | 9.00% | ~19,749 |
+| Tanuki Time | 9.00% | ~19,749 |
+| Rescue Takuma | 8.00% | ~17,554 |
+| Stoned Ox | 8.00% | ~17,554 |
+| Happy Planning | 7.00% | ~15,360 |
+| Ice Ice Yuki | 7.00% | ~15,360 |
+| Jonin | 7.00% | ~15,360 |
+| Yabu | 7.00% | ~15,360 |
+| Chunin | 6.00% | ~13,166 |
+| Flying Rocks | 6.00% | ~13,166 |
+| Mugen Unchained | 6.00% | ~13,166 |
+| Warzone | 6.00% | ~13,166 |
 | Okkoto | 5.00% | ~10,971 |
 | Prisoners | 5.00% | ~10,971 |
 | Too Early | 5.00% | ~10,971 |
@@ -32,11 +32,11 @@ Number of Ratings: 495  (23.09.2022)
 | It's raining men | 3.00% | ~6,583 |
 | Stoned | 3.00% | ~6,583 |
 | The Old Way | 3.00% | ~6,583 |
-| Atheist Ox | 2.00% | ~4,388 |
-| No Gimmicks | 2.00% | ~4,388 |
-| Old Man | 2.00% | ~4,388 |
-| The End | 2.00% | ~4,388 |
-| Winner Winner | 2.00% | ~4,388 |
+| Atheist Ox | 2.00% | ~4,389 |
+| No Gimmicks | 2.00% | ~4,389 |
+| Old Man | 2.00% | ~4,389 |
+| The End | 2.00% | ~4,389 |
+| Winner Winner | 2.00% | ~4,389 |
 | Meticulous | 1.00% | ~2,194 |
 | Undeserved Honor | 1.00% | ~2,194 |
 | When Cut Across the Neck | 0.90% | ~1,975 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~219 |
 | Release the Kraken | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,417 (Ranked 72)  
+Progressed: 219,428 (Ranked 72)  
 Completed: 101 (0.05%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 101 (0.05%) (Ranked 327)
 | 2023-12-12 | 218,864 | 100 |
 | 2023-12-13 | 219,036 | 101 |
 | 2023-12-14 | 219,244 | 101 |
-| 2023-12-15 | 219,417 | 101 |
+| 2023-12-15 | 219,428 | 101 |
 ## Awards
 Max (Great for Beginners): 586  (Ranked 201)  
 Sum: 4,910 (Ranked 145)  

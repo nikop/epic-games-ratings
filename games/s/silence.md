@@ -42,9 +42,9 @@
 | Sadist | 5.00% | ~9 |
 | Fartjokes! | 5.00% | ~9 |
 | Shut up clown! | 5.00% | ~9 |
+| Life is but a dream | 3.00% | ~5 |
 | Fine Listener | 2.00% | ~4 |
 | The Green, the Fat, the Ugly | 2.00% | ~4 |
-| Life is but a dream | 2.00% | ~4 |
 | Checkmate in 8 moves | 2.00% | ~4 |
 | Summit attempt | 1.00% | ~2 |
 | Done. First! | 1.00% | ~2 |

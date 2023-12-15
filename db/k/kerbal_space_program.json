@@ -4,11 +4,11 @@
   "ProductSlug": "kerbal-space-program",
   "Ranking_Rating": 98,
   "Ranking_Popularity": 142,
-  "Ranking_PopularitySum": 121,
+  "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 798,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 509,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 510,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-01-05T16:00:00+00:00",
     "PcReleaseDate": "2015-04-27T15:00:00+00:00",
@@ -7519,10 +7519,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 7186,
       "NumberOfAwardsMax": 1213
+    },
+    {
+      "Time": "2023-12-15T18:57:42.586902+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 7192,
+      "NumberOfAwardsMax": 1213
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7186,
+  "NumberOfAwards": 7192,
   "NumberOfAwardsMax": 1213,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -7536,7 +7542,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1065
+      "Count": 1071
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7587,8 +7593,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-12-15T10:57:35.8425175+00:00",
+  "LastChanged": "2023-12-15T18:57:42.5869018+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:58.4304915+00:00",
-  "LastUpdate_Ratings": "2023-12-15T17:58:02.5788309+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:08:24.8545028+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:57:42.5869024+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:08:09.2925755+00:00"
 }

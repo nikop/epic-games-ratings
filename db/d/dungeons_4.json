@@ -2,10 +2,10 @@
   "ID": "63afbcc46a714796af53032c2b3ed4b3",
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
-  "Ranking_EOS_Progress": 312,
+  "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -27,7 +27,7 @@
   "EOS_Progressed": 561,
   "EOS_Completed": 17,
   "EOS_NewPlayers": 26,
-  "EOS_NewCompleters": 4,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.03,
   "EosHistory": [
     {
@@ -1648,9 +1648,9 @@
       "ID": "ach_main05evil_thalyalevel",
       "SetID": "4hg22ll",
       "Name": "Experienced Thalya",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 404
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -1992,9 +1992,9 @@
       "ID": "ach_main19war_heal",
       "SetID": "4hg22ll",
       "Name": "Heal Heal Blessing",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_main19war_stonedamage",
@@ -2039,8 +2039,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:06:04.6824033+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:05:37.0587635+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-15T17:57:46.3249504+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:06:04.6824443+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:57:29.1437804+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:05:37.0588149+00:00"
 }

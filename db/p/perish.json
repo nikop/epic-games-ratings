@@ -4,8 +4,8 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3785,
+  "EOS_Progressed": 3787,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4096,6 +4096,11 @@
       "Time": "2023-12-15T13:13:35.905499+00:00",
       "NumProgressed": 3785,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T19:08:10.6929201+00:00",
+      "NumProgressed": 3787,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -4241,9 +4246,9 @@
       "ID": "ACH_M_D1",
       "SetID": "b3fep3o",
       "Name": "Modest Earnings",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_M_D2",
@@ -4610,7 +4615,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3785,
+      "Progressed": 3787,
       "Completed": 0
     }
   ],
@@ -4618,8 +4623,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:08:26.3079113+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:08:10.6929193+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:06.5962592+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:00:33.2806134+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:08:26.3079703+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:59:58.3627766+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:08:10.6929748+00:00"
 }

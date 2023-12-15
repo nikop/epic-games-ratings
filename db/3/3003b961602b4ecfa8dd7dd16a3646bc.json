@@ -2,10 +2,10 @@
   "ID": "3003b961602b4ecfa8dd7dd16a3646bc",
   "Name": "HORSE CLUB Adventures",
   "ProductSlug": "horse-club-adventures-19e7a0",
-  "Ranking_EOS_Progress": 490,
+  "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 430,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 429,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
     "PcReleaseDate": "2021-05-26T11:00:00+00:00",
@@ -506,9 +506,9 @@
       "ID": "ACH_22_QUARRY",
       "SetID": "9dl0ei6",
       "Name": "Much too many stones",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_23_MILL",
@@ -561,8 +561,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:10:05.4223848+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:09:38.116306+00:00",
   "LastUpdate_AppInfo": "2023-12-11T01:45:33.6720715+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:00:28.8467422+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:10:05.4223995+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:59:54.7614149+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:09:38.1163327+00:00"
 }

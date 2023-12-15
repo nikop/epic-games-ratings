@@ -3,12 +3,12 @@
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 352,
-  "Ranking_Popularity": 108,
-  "Ranking_PopularitySum": 87,
+  "Ranking_Popularity": 106,
+  "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 798,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 509,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 510,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
@@ -10565,36 +10565,42 @@
       "Rating": 4.63,
       "NumberOfAwards": 11682,
       "NumberOfAwardsMax": 2245
+    },
+    {
+      "Time": "2023-12-15T18:58:47.0829592+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 11906,
+      "NumberOfAwardsMax": 2322
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11682,
-  "NumberOfAwardsMax": 2245,
+  "NumberOfAwards": 11906,
+  "NumberOfAwardsMax": 2322,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 703
+      "Count": 720
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2245
+      "Count": 2322
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1687
+      "Count": 1756
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1157
+      "Count": 1199
     },
     {
       "Text": "This game is Educational",
@@ -10636,7 +10642,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 802
+      "Count": 821
     }
   ],
   "EOS_Progressed": 0,
@@ -10659,9 +10665,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2023-12-15T14:58:58.7422164+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:04:11.3653243+00:00",
+  "LastChanged": "2023-12-15T18:58:47.082959+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:03:56.6711111+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:03.5210362+00:00",
-  "LastUpdate_Ratings": "2023-12-15T17:59:13.4169084+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:04:11.3653275+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:58:47.0829597+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:03:56.6711144+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 353,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8795,
+  "EOS_Progressed": 8797,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8732,6 +8732,11 @@
       "Time": "2023-12-15T18:10:13.3159223+00:00",
       "NumProgressed": 8795,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T19:09:45.8021118+00:00",
+      "NumProgressed": 8797,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8864,7 +8869,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "GamesPlayed10",
@@ -9152,7 +9157,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "NeutralKills200",
@@ -9240,7 +9245,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "SEUpgraded1",
@@ -9328,14 +9333,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8795,
+      "Progressed": 8797,
       "Completed": 1
     }
   ],
@@ -9343,8 +9348,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-14T20:58:55.0819028+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:10:13.3159221+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:09:45.8021115+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:27.9940225+00:00",
-  "LastUpdate_Ratings": "2023-12-15T17:59:34.3699191+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:10:13.3160058+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:59:07.0815079+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:09:45.8022244+00:00"
 }

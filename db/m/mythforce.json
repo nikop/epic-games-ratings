@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -836,7 +836,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5530,
+  "EOS_Progressed": 5531,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
@@ -11096,6 +11096,11 @@
       "Time": "2023-12-15T18:05:43.6874581+00:00",
       "NumProgressed": 5530,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-15T19:05:18.7239241+00:00",
+      "NumProgressed": 5531,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11196,7 +11201,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -11204,7 +11209,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -11291,15 +11296,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5530,
+      "Progressed": 5531,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-15T05:01:12.5073089+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:05:43.687458+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:05:18.7239236+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.410244+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:00:41.3227169+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:05:43.6875026+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:00:05.1281312+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:05:18.7239817+00:00"
 }

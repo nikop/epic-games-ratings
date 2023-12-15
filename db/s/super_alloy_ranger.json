@@ -2,10 +2,10 @@
   "ID": "6bd7d2e32a724e119b9e4a2254aeec33",
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
-  "Ranking_EOS_Progress": 429,
+  "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.8,
+  "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:20.3185117+00:00",
@@ -621,6 +621,11 @@
       "Time": "2023-12-15T14:08:00.8031771+00:00",
       "NumProgressed": 125,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T19:06:25.3256521+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -648,7 +653,7 @@
       "Name": "The Abyss Conqueror",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achi_04",
@@ -728,7 +733,7 @@
       "Name": "Grand Escape",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achi_14",
@@ -736,7 +741,7 @@
       "Name": "Break Through the Forbidden",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_15",
@@ -744,7 +749,7 @@
       "Name": "Alloy Rangers, Assemble!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_16",
@@ -760,7 +765,7 @@
       "Name": "Space Warrior: Prologue",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achi_18",
@@ -782,9 +787,9 @@
       "ID": "Achi_20",
       "SetID": "51a97k7",
       "Name": "Freshen Up",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 67
     },
     {
       "ID": "Achi_21",
@@ -792,7 +797,7 @@
       "Name": "Pumped Up",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_22",
@@ -800,15 +805,15 @@
       "Name": "Iceberg Theory",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Achi_23",
       "SetID": "51a97k7",
       "Name": "The Hidden Secret",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "Achi_24",
@@ -832,13 +837,13 @@
       "Name": "Easy Peasy",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
       "UsersEstimate": 66
     },
@@ -904,7 +909,7 @@
       "Name": "Stop Right There",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Achi_36",
@@ -936,7 +941,7 @@
       "Name": "Proliferation",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_40",
@@ -984,7 +989,7 @@
       "Name": "Clean Sweep",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_46",
@@ -1008,7 +1013,7 @@
       "Name": "Bye Bye Gravity",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_49",
@@ -1016,7 +1021,7 @@
       "Name": "Burn After Reading",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_50",
@@ -1031,7 +1036,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 1
     }
   ],
@@ -1039,8 +1044,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:08:19.9653121+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:06:25.3256516+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:46.3254839+00:00",
-  "LastUpdate_Ratings": "2023-12-15T17:59:40.7660494+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:08:19.9653492+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:59:12.5257069+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:06:25.325696+00:00"
 }

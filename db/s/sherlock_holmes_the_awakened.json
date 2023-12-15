@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -127,7 +127,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1187,
+  "EOS_Progressed": 1188,
   "EOS_Completed": 31,
   "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 3,
@@ -4067,6 +4067,11 @@
       "Time": "2023-12-15T17:03:45.7588798+00:00",
       "NumProgressed": 1187,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-12-15T19:03:56.8906841+00:00",
+      "NumProgressed": 1188,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 28,
@@ -4086,7 +4091,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "MQ02_1",
@@ -4094,7 +4099,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "MQ02_2",
@@ -4102,7 +4107,7 @@
       "Name": "Big Breakthrough",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "MQ02_3",
@@ -4118,15 +4123,15 @@
       "Name": "Whispers In The Dark",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 594
     },
     {
       "ID": "MQ03_2",
@@ -4150,7 +4155,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "MQ03_5",
@@ -4166,7 +4171,7 @@
       "Name": "Going Once...",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "MQ04_2",
@@ -4182,7 +4187,7 @@
       "Name": "The New World",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "MQ05_1",
@@ -4190,7 +4195,7 @@
       "Name": "Open Sesame",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "MQ05_2",
@@ -4206,7 +4211,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "MQ05_4",
@@ -4230,7 +4235,7 @@
       "Name": "Bookworm",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "MQ06_3",
@@ -4278,7 +4283,7 @@
       "Name": "Up In Flames",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "MQ08_3",
@@ -4286,7 +4291,7 @@
       "Name": "Fhtagn!",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "PLTN",
@@ -4301,7 +4306,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1187,
+      "Progressed": 1188,
       "Completed": 31
     }
   ],
@@ -4309,8 +4314,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-14T11:03:29.6730885+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:04:11.5872936+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:03:56.8906836+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:03:04.1017553+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:04:11.5873482+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:02:57.2206847+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:03:56.8907343+00:00"
 }

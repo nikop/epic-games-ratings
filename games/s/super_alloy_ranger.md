@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 79.00% | ~99 |
+| Iceberg Theory | 79.00% | ~100 |
 | Gear Up | 67.00% | ~84 |
 | A Grand Show | 67.00% | ~84 |
-| Freshen Up | 54.00% | ~68 |
-| GG EZ | 53.00% | ~66 |
+| Freshen Up | 53.00% | ~67 |
+| GG EZ | 52.00% | ~66 |
 | Hydrophobia | 39.00% | ~49 |
 | Ka-Ching! | 31.00% | ~39 |
-| Stop Right There | 26.00% | ~32 |
+| Stop Right There | 26.00% | ~33 |
 | Get to the Point | 24.00% | ~30 |
 | Phew! | 16.00% | ~20 |
 | Mr. Want It All | 15.00% | ~19 |
-| The Hidden Secret | 14.00% | ~18 |
 | Toe to Toe | 14.00% | ~18 |
-| The Abyss Conqueror | 10.00% | ~12 |
-| Grand Escape | 10.00% | ~12 |
-| Space Warrior: Prologue | 10.00% | ~12 |
+| The Hidden Secret | 13.00% | ~16 |
+| The Abyss Conqueror | 10.00% | ~13 |
+| Grand Escape | 10.00% | ~13 |
+| Space Warrior: Prologue | 10.00% | ~13 |
 | The Fortress Conqueror | 9.00% | ~11 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~8 |
 | he Ultra Fortress Conqueror | 6.00% | ~8 |
@@ -40,14 +40,14 @@
 | Space Ranger: Prologue | 3.00% | ~4 |
 | Breaking the Limit | 3.00% | ~4 |
 | The Truth? | 3.00% | ~4 |
-| Break Through the Forbidden | 2.00% | ~2 |
-| Alloy Rangers, Assemble! | 2.00% | ~2 |
-| Pumped Up | 2.00% | ~2 |
-| Easy Peasy | 2.00% | ~2 |
-| Proliferation | 2.00% | ~2 |
-| Clean Sweep | 2.00% | ~2 |
-| Bye Bye Gravity | 2.00% | ~2 |
-| Burn After Reading | 2.00% | ~2 |
+| Break Through the Forbidden | 2.00% | ~3 |
+| Alloy Rangers, Assemble! | 2.00% | ~3 |
+| Pumped Up | 2.00% | ~3 |
+| Easy Peasy | 2.00% | ~3 |
+| Proliferation | 2.00% | ~3 |
+| Clean Sweep | 2.00% | ~3 |
+| Bye Bye Gravity | 2.00% | ~3 |
+| Burn After Reading | 2.00% | ~3 |
 | Flawless | 0.80% | ~1 |
 | Peace Out | 0.80% | ~1 |
 | Mischief Time | 0.80% | ~1 |
@@ -55,8 +55,8 @@
 | Bullets Fear Me | 0.80% | ~1 |
 | Super Alloy Ranger! | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125 (Ranked 429)  
-Completed: 1 (0.80%) (Ranked 184)  
+Progressed: 126 (Ranked 428)  
+Completed: 1 (0.79%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -125,7 +125,7 @@ Completed: 1 (0.80%) (Ranked 184)
 | 2023-11-28 | 115 | 1 |
 | 2023-12-06 | 116 | 1 |
 | 2023-12-14 | 120 | 1 |
-| 2023-12-15 | 125 | 1 |
+| 2023-12-15 | 126 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

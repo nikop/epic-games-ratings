@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Terror Rising | 72.00% | ~61 |
-| Jalopy Poppy | 68.00% | ~58 |
-| Green-Bodied Monster | 60.00% | ~51 |
-| Chopper Stopper | 46.00% | ~39 |
-| Aerosolized | 41.00% | ~35 |
+| Terror Rising | 72.00% | ~62 |
+| Jalopy Poppy | 69.00% | ~59 |
+| Green-Bodied Monster | 60.00% | ~52 |
+| Chopper Stopper | 47.00% | ~40 |
+| Aerosolized | 42.00% | ~36 |
 | Monstrosity Atrocity | 36.00% | ~31 |
 | Test of Faith | 34.00% | ~29 |
 | Reign of Terror | 33.00% | ~28 |
@@ -24,19 +24,19 @@
 | Midair Affair | 5.00% | ~4 |
 | Plight of the Valkyrie | 5.00% | ~4 |
 | Trash the Planet. | 5.00% | ~4 |
-| Demolition Exhibition | 4.00% | ~3 |
-| Rocket Science | 4.00% | ~3 |
-| Meat Catcher | 4.00% | ~3 |
-| Demolition Tactician | 4.00% | ~3 |
-| Hot Potato | 4.00% | ~3 |
-| Oblideration Nation | 4.00% | ~3 |
-| SWATing Flies | 4.00% | ~3 |
-| Shakedown Breakdown | 4.00% | ~3 |
-| Juggle the People | 4.00% | ~3 |
-| Simulation 8e7d28c1 | 4.00% | ~3 |
+| Demolition Exhibition | 3.00% | ~3 |
+| Rocket Science | 3.00% | ~3 |
+| Meat Catcher | 3.00% | ~3 |
+| Demolition Tactician | 3.00% | ~3 |
+| Hot Potato | 3.00% | ~3 |
+| Oblideration Nation | 3.00% | ~3 |
+| SWATing Flies | 3.00% | ~3 |
+| Shakedown Breakdown | 3.00% | ~3 |
+| Juggle the People | 3.00% | ~3 |
+| Simulation 8e7d28c1 | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 470)  
-Completed: 3 (3.53%) (Ranked 96)  
+Progressed: 86 (Ranked 468)  
+Completed: 3 (3.49%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,7 +83,7 @@ Completed: 3 (3.53%) (Ranked 96)
 | 2023-12-03 | 82 | 3 |
 | 2023-12-05 | 83 | 3 |
 | 2023-12-11 | 84 | 3 |
-| 2023-12-15 | 85 | 3 |
+| 2023-12-15 | 86 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

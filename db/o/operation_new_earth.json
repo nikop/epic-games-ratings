@@ -5,10 +5,10 @@
   "Ranking_Rating": 1064,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
-  "Ranking_EOS_Progress": 231,
+  "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2030,
+  "EOS_Progressed": 2031,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7734,6 +7734,11 @@
       "Time": "2023-12-15T16:05:38.8531833+00:00",
       "NumProgressed": 2030,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T19:04:36.6613798+00:00",
+      "NumProgressed": 2031,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7857,7 +7862,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -8048,7 +8053,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2030,
+      "Progressed": 2031,
       "Completed": 1
     }
   ],
@@ -8056,8 +8061,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:04:56.0344295+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:04:36.6613794+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.3449014+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:02:34.4681229+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:04:56.0344914+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:02:32.9107402+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:04:36.6614417+00:00"
 }

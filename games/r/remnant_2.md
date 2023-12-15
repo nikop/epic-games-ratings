@@ -5,21 +5,21 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 3.00% | ~7,354 |
-| First of Many | 2.00% | ~4,903 |
-| Expanding Horizons | 1.00% | ~2,451 |
-| Quest for Survival | 1.00% | ~2,451 |
-| Not Your Average Trait | 1.00% | ~2,451 |
-| Familiar Face | 0.90% | ~2,206 |
-| Boss'n Up | 0.90% | ~2,206 |
+| The Killing Jar | 3.00% | ~7,356 |
+| First of Many | 2.00% | ~4,904 |
+| Not Your Average Trait | 2.00% | ~4,904 |
+| Expanding Horizons | 1.00% | ~2,452 |
+| Quest for Survival | 1.00% | ~2,452 |
+| Familiar Face | 0.90% | ~2,207 |
+| Boss'n Up | 0.90% | ~2,207 |
 | Regicide | 0.90% | ~219 |
-| Gleaming the Cube | 0.80% | ~1,961 |
-| Not a Janitor | 0.80% | ~1,961 |
-| Trait Chaser | 0.80% | ~1,961 |
-| Master of the Dark Arts | 0.80% | ~194 |
-| Equal Measures | 0.70% | ~1,716 |
-| Blue Goddess | 0.70% | ~1,716 |
-| Duality | 0.70% | ~1,716 |
+| Gleaming the Cube | 0.80% | ~1,962 |
+| Not a Janitor | 0.80% | ~1,962 |
+| Trait Chaser | 0.80% | ~1,962 |
+| Master of the Dark Arts | 0.80% | ~195 |
+| Equal Measures | 0.70% | ~1,717 |
+| Blue Goddess | 0.70% | ~1,717 |
+| Duality | 0.70% | ~1,717 |
 | Not So Special Now | 0.60% | ~1,471 |
 | Top Performer | 0.60% | ~1,471 |
 | Was This Supposed To Happen? | 0.60% | ~1,471 |
@@ -45,12 +45,12 @@ Rating: 4.75 (Ranked 150)
 | All These Traits� | 0.40% | ~981 |
 | The Ultimate Weapon | 0.40% | ~981 |
 | No One Should Have All That Power | 0.40% | ~981 |
-| Crafty | 0.30% | ~735 |
-| Ghost in the Machine | 0.30% | ~735 |
-| Only Human | 0.30% | ~735 |
-| Tall Tales | 0.30% | ~735 |
-| Carnage in C-Minor | 0.30% | ~735 |
-| Transmutate | 0.30% | ~735 |
+| Crafty | 0.30% | ~736 |
+| Ghost in the Machine | 0.30% | ~736 |
+| Only Human | 0.30% | ~736 |
+| Tall Tales | 0.30% | ~736 |
+| Carnage in C-Minor | 0.30% | ~736 |
+| Transmutate | 0.30% | ~736 |
 | Red Room | 0.20% | ~490 |
 | The Trigger | 0.20% | ~490 |
 | Cutting Edge | 0.20% | ~490 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 150)
 | You Shall Pass | 0.20% | ~49 |
 | A Foul Feast | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,133 (Ranked 63)  
+Progressed: 245,216 (Ranked 63)  
 Completed: 588 (0.24%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 588 (0.24%) (Ranked 254)
 | 2023-12-12 | 239,053 | 581 |
 | 2023-12-13 | 239,544 | 584 |
 | 2023-12-14 | 242,166 | 585 |
-| 2023-12-15 | 245,133 | 588 |
+| 2023-12-15 | 245,216 | 588 |
 ## Awards
 Max (Great Boss Battles): 2,779  (Ranked 101)  
 Sum: 6,972 (Ranked 125)  

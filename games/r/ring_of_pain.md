@@ -12,16 +12,16 @@ Number of Ratings: 15,086  (23.09.2022)
 | Getting A Glimpse | 0.70% | ~1,688 |
 | A Quick Escape | 0.70% | ~1,688 |
 | Not Touching You | 0.70% | ~18 |
-| Nothing To Lose | 0.60% | ~1,446 |
-| Heavy Hitter | 0.60% | ~1,446 |
-| That Was Quick | 0.60% | ~1,446 |
-| Colorful Corpse | 0.60% | ~1,446 |
-| Defeat The Dark | 0.60% | ~1,446 |
-| Goodbye, Frog Friend | 0.60% | ~1,446 |
-| A Donation | 0.60% | ~1,446 |
-| Deflection | 0.60% | ~1,446 |
-| Explorer | 0.60% | ~1,446 |
-| An Offering | 0.60% | ~1,446 |
+| Nothing To Lose | 0.60% | ~1,447 |
+| Heavy Hitter | 0.60% | ~1,447 |
+| That Was Quick | 0.60% | ~1,447 |
+| Colorful Corpse | 0.60% | ~1,447 |
+| Defeat The Dark | 0.60% | ~1,447 |
+| Goodbye, Frog Friend | 0.60% | ~1,447 |
+| A Donation | 0.60% | ~1,447 |
+| Deflection | 0.60% | ~1,447 |
+| Explorer | 0.60% | ~1,447 |
+| An Offering | 0.60% | ~1,447 |
 | Ambitious Intent | 0.50% | ~1,205 |
 | Delving Deeper | 0.50% | ~1,205 |
 | R.I.P | 0.50% | ~1,205 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,083 (Ranked 65)  
+Progressed: 241,086 (Ranked 65)  
 Completed: 299 (0.12%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -384,11 +384,11 @@ Completed: 299 (0.12%) (Ranked 288)
 | 2023-12-12 | 240,936 | 296 |
 | 2023-12-13 | 240,984 | 298 |
 | 2023-12-14 | 241,040 | 298 |
-| 2023-12-15 | 241,083 | 299 |
+| 2023-12-15 | 241,086 | 299 |
 ## Awards
 Max (Quickly Understood Controls): 1,510  (Ranked 134)  
-Sum: 11,735 (Ranked 86)  
-Diff (max vs sum): 48  
+Sum: 11,735 (Ranked 87)  
+Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,534 |

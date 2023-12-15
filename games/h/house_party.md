@@ -40,6 +40,7 @@ Number of Ratings: 177  (23.09.2022)
 | Rule 34 | 0.40% | ~27 |
 | Rachael | 0.40% | ~27 |
 | Good Ol' Days | 0.40% | ~27 |
+| Beyond the Call of Dude-y | 0.30% | ~20 |
 | The Bride | 0.30% | ~20 |
 | Drunk and Disorderly: Madison | 0.30% | ~20 |
 | Do Not Burn | 0.30% | ~20 |
@@ -48,7 +49,6 @@ Number of Ratings: 177  (23.09.2022)
 | The Muse: Derek | 0.30% | ~20 |
 | Derezzed | 0.30% | ~20 |
 | The Elder Brahs | 0.30% | ~20 |
-| Beyond the Call of Dude-y | 0.20% | ~13 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~7 |
 | Good Riddance! | 0.20% | ~13 |
 | I Know Grump-Fu | 0.20% | ~13 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,626 (Ranked 187)  
+Progressed: 6,628 (Ranked 187)  
 Completed: 3 (0.05%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 3 (0.05%) (Ranked 327)
 | 2023-12-12 | 6,563 | 3 |
 | 2023-12-13 | 6,573 | 3 |
 | 2023-12-14 | 6,605 | 3 |
-| 2023-12-15 | 6,626 | 3 |
+| 2023-12-15 | 6,628 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

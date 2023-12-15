@@ -6,36 +6,36 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,181 |
-| Gun Fu | 7.00% | ~68,356 |
-| Right Back At Ya | 6.00% | ~58,591 |
-| The Fool | 6.00% | ~58,591 |
-| The Lovers | 5.00% | ~48,825 |
-| Full Body Conversion | 4.00% | ~39,060 |
-| Stanislavski's Method | 4.00% | ~39,060 |
-| The Wheel of Fortune | 4.00% | ~39,060 |
-| True Soldier | 4.00% | ~39,060 |
-| All the President's Men | 4.00% | ~4,205 |
-| Arachnophobia | 4.00% | ~4,205 |
-| Christmas Tree Attack | 3.00% | ~29,295 |
-| The Hermit | 3.00% | ~29,295 |
-| The High Priestess | 3.00% | ~29,295 |
-| True Warrior | 3.00% | ~29,295 |
-| Legend of The Afterlife | 3.00% | ~29,295 |
-| Relic Ruler | 3.00% | ~3,154 |
-| Bushido and Chill | 2.00% | ~19,530 |
-| Master Crafter | 2.00% | ~19,530 |
-| I Am The Law | 2.00% | ~19,530 |
-| The Quick and the Dead | 2.00% | ~19,530 |
-| Life of the Road | 2.00% | ~19,530 |
-| The World | 2.00% | ~19,530 |
-| Two Heads, One Bullet | 2.00% | ~19,530 |
-| Judy vs Night City | 2.00% | ~19,530 |
+| V for Vendetta | 12.00% | ~117,184 |
+| Gun Fu | 7.00% | ~68,357 |
+| Right Back At Ya | 6.00% | ~58,592 |
+| The Fool | 6.00% | ~58,592 |
+| The Lovers | 5.00% | ~48,826 |
+| Full Body Conversion | 4.00% | ~39,061 |
+| Stanislavski's Method | 4.00% | ~39,061 |
+| The Wheel of Fortune | 4.00% | ~39,061 |
+| True Soldier | 4.00% | ~39,061 |
+| All the President's Men | 4.00% | ~4,206 |
+| Arachnophobia | 4.00% | ~4,206 |
+| Christmas Tree Attack | 3.00% | ~29,296 |
+| The Hermit | 3.00% | ~29,296 |
+| The High Priestess | 3.00% | ~29,296 |
+| True Warrior | 3.00% | ~29,296 |
+| Legend of The Afterlife | 3.00% | ~29,296 |
+| Relic Ruler | 3.00% | ~3,155 |
+| Bushido and Chill | 2.00% | ~19,531 |
+| Master Crafter | 2.00% | ~19,531 |
+| I Am The Law | 2.00% | ~19,531 |
+| The Quick and the Dead | 2.00% | ~19,531 |
+| Life of the Road | 2.00% | ~19,531 |
+| The World | 2.00% | ~19,531 |
+| Two Heads, One Bullet | 2.00% | ~19,531 |
+| Judy vs Night City | 2.00% | ~19,531 |
 | To Protect and Serve | 1.00% | ~9,765 |
 | The Wandering Fool | 1.00% | ~9,765 |
-| Spin Doctor | 1.00% | ~1,051 |
-| King of Wands | 1.00% | ~1,051 |
-| Easy Come, Easy Go | 1.00% | ~1,051 |
+| Spin Doctor | 1.00% | ~1,052 |
+| King of Wands | 1.00% | ~1,052 |
+| Easy Come, Easy Go | 1.00% | ~1,052 |
 | The Sun | 0.90% | ~8,789 |
 | Dirty Deeds | 0.90% | ~946 |
 | To Bad Decisions! | 0.80% | ~7,812 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 976,509 (Ranked 15)  
-Completed: 2,912 (0.30%) (Ranked 242)  
+Progressed: 976,530 (Ranked 15)  
+Completed: 2,912 (0.30%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -313,23 +313,23 @@ Completed: 2,912 (0.30%) (Ranked 242)
 | 2023-12-12 | 975,121 | 2,891 |
 | 2023-12-13 | 975,519 | 2,900 |
 | 2023-12-14 | 976,057 | 2,907 |
-| 2023-12-15 | 976,509 | 2,912 |
+| 2023-12-15 | 976,530 | 2,912 |
 ## Awards
-Max (Character Customization): 122,911  (Ranked 8)  
-Sum: 420,422 (Ranked 9)  
+Max (Character Customization): 123,411  (Ranked 8)  
+Sum: 421,261 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 122,911 |
+| This game has Inclusive Character Customization | 123,411 |
 | This game has Great Boss Battles | 90,155 |
 | This game is Great for Beginners | 25,982 |
 | This game has Diverse Characters | 25,276 |
 | This game is Highly Recommended | 24,238 |
 | This game has Amazing Storytelling | 23,916 |
 | This game is Extremely Fun | 23,597 |
-| This game has Amazing Characters | 23,367 |
+| This game has Amazing Characters | 23,530 |
+| This game is Relaxing | 22,777 |
 | This game has Quickly Understood Controls | 22,638 |
-| This game is Relaxing | 22,601 |
 | This game has a Creative Community | 15,741 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -664,4 +664,4 @@ Diff (max vs sum): -1
 | 2023-12-12 | 4.66 | - | 121,863 | 413,636 |
 | 2023-12-13 | 4.66 | - | 122,342 | 416,033 |
 | 2023-12-14 | 4.66 | - | 122,911 | 418,778 |
-| 2023-12-15 | 4.66 | - | 122,911 | 420,422 |
+| 2023-12-15 | 4.66 | - | 123,411 | 421,261 |

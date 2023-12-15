@@ -6,35 +6,35 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 73.00% | ~716 |
-| It’s Heating up! | 69.00% | ~677 |
+| Breathe In… Breathe Out… | 73.00% | ~717 |
+| It’s Heating up! | 69.00% | ~678 |
 | Let’s patch things up | 65.00% | ~638 |
-| I can fix it! | 63.00% | ~618 |
+| I can fix it! | 63.00% | ~619 |
 | Post No Bills | 55.00% | ~540 |
 | Truly Shocking! | 48.00% | ~471 |
-| Critical Thinker | 36.00% | ~353 |
-| Always Finding Your Mark | 30.00% | ~294 |
-| The Weight of the World | 30.00% | ~294 |
-| Act I Complete | 29.00% | ~284 |
-| A drop in the Ocean | 29.00% | ~284 |
+| Critical Thinker | 36.00% | ~354 |
+| Always Finding Your Mark | 30.00% | ~295 |
+| The Weight of the World | 30.00% | ~295 |
+| Act I Complete | 29.00% | ~285 |
+| A drop in the Ocean | 29.00% | ~285 |
 | No Niños | 26.00% | ~255 |
-| I ain’t afraid of no Ghost | 25.00% | ~245 |
+| I ain’t afraid of no Ghost | 25.00% | ~246 |
 | Act II Complete | 22.00% | ~216 |
-| A successful procedure! | 19.00% | ~186 |
-| Bing Bang BOOM | 19.00% | ~186 |
+| A successful procedure! | 19.00% | ~187 |
+| Bing Bang BOOM | 19.00% | ~187 |
 | Breaking the Ice | 18.00% | ~177 |
 | Solidarity Forever | 13.00% | ~128 |
 | A Tucked Tale | 10.00% | ~98 |
 | The best thing money can buy | 10.00% | ~98 |
 | Act III Complete | 7.00% | ~69 |
-| Fire and Brimstone | 6.00% | ~59 |
 | See you Space Cowboy | 6.00% | ~59 |
+| Fire and Brimstone | 5.00% | ~49 |
 | Ghost in the Ship | 2.00% | ~20 |
 | Disagree and Commit | 0.10% | ~1 |
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981 (Ranked 274)  
+Progressed: 982 (Ranked 274)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 974 | 0 |
 | 2023-12-13 | 975 | 0 |
 | 2023-12-14 | 980 | 0 |
-| 2023-12-15 | 981 | 0 |
+| 2023-12-15 | 982 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

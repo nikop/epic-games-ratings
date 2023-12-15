@@ -2,13 +2,13 @@
   "ID": "puffin",
   "Name": "AXIOM VERGE",
   "ProductSlug": "axiom-verge",
-  "Ranking_Rating": 497,
+  "Ranking_Rating": 513,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 798,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 509,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 510,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2015-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.55,
   "NumberOfRatings": 132,
   "RatingHistory": [
     {
@@ -398,6 +398,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 48,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-12-15T19:02:38.9254435+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 48,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
@@ -423,8 +429,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:58.5809404+00:00",
-  "LastChanged": "2023-10-21T13:57:30.145729+00:00",
+  "LastChanged": "2023-12-15T19:02:38.9254433+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:11.7658208+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:02:42.7436524+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:05:21.7665876+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:02:38.9254438+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:04:59.473886+00:00"
 }

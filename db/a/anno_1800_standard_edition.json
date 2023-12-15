@@ -2,13 +2,13 @@
   "ID": "oregano",
   "Name": "Anno 1800 Standard Edition",
   "ProductSlug": "anno-1800",
-  "Ranking_Rating": 69,
+  "Ranking_Rating": 68,
   "Ranking_Popularity": 115,
   "Ranking_PopularitySum": 71,
   "Ranking_EOS_Progress": 798,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 509,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 510,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2019-05-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -11469,10 +11469,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 15121,
       "NumberOfAwardsMax": 1954
+    },
+    {
+      "Time": "2023-12-15T18:58:11.0542757+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 15130,
+      "NumberOfAwardsMax": 1954
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15121,
+  "NumberOfAwards": 15130,
   "NumberOfAwardsMax": 1954,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -11492,7 +11498,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1858
+      "Count": 1864
     },
     {
       "Text": "This game is Educational",
@@ -11510,7 +11516,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1684
+      "Count": 1687
     },
     {
       "Text": "This game is Relaxing",
@@ -11554,8 +11560,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-12-15T15:58:41.159287+00:00",
+  "LastChanged": "2023-12-15T18:58:11.0542755+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:12.7986784+00:00",
-  "LastUpdate_Ratings": "2023-12-15T17:58:33.722171+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:03:31.5832859+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:58:11.0542761+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:03:21.2782355+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1833,
+  "EOS_Progressed": 1835,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2567,6 +2567,11 @@
       "Time": "2023-12-15T18:05:50.2878792+00:00",
       "NumProgressed": 1833,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T19:05:24.4270862+00:00",
+      "NumProgressed": 1835,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2658,7 +2663,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement_013",
@@ -2688,9 +2693,9 @@
       "ID": "Achievement_016",
       "SetID": "6b34g18",
       "Name": "Friendgineering",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement_017",
@@ -2792,9 +2797,9 @@
       "ID": "Achievement_029",
       "SetID": "6b34g18",
       "Name": "Throw The First Stone",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 55
     },
     {
       "ID": "Achievement_030",
@@ -2898,7 +2903,7 @@
       "Name": "Starve the Beast",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achievement_044",
@@ -2946,7 +2951,7 @@
       "Name": "So Anyway I Started Blasting",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement_051",
@@ -2994,7 +2999,7 @@
       "Name": "Under a Bushel",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement_058",
@@ -3026,7 +3031,7 @@
       "Name": "Bob\u2019s Final Hour",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement_062",
@@ -3050,7 +3055,7 @@
       "Name": "Good Samaritan",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement_065",
@@ -3096,16 +3101,16 @@
       "ID": "Achievement_071",
       "SetID": "6b34g18",
       "Name": "I Spit On Your Grave",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1833,
+      "Progressed": 1835,
       "Completed": 0
     }
   ],
@@ -3113,8 +3118,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-10T01:51:29.5345174+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:05:50.287879+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:05:24.4270857+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:19.3114561+00:00",
-  "LastUpdate_Ratings": "2023-12-15T17:58:52.1393323+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:05:50.2879376+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:58:28.0105436+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:05:24.4271562+00:00"
 }

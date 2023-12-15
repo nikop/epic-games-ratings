@@ -5,10 +5,10 @@
   "Ranking_Rating": 1007,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
-  "Ranking_EOS_Progress": 303,
+  "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 626,
+  "EOS_Progressed": 630,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2833,6 +2833,11 @@
       "Time": "2023-12-15T17:03:17.6253294+00:00",
       "NumProgressed": 626,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T19:03:27.9503717+00:00",
+      "NumProgressed": 630,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2906,9 +2911,9 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 300
+      "UsersEstimate": 296
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -2916,7 +2921,7 @@
       "Name": "La Der des Ders",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -2924,7 +2929,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -2939,7 +2944,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 626,
+      "Progressed": 630,
       "Completed": 0
     }
   ],
@@ -2947,8 +2952,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:03:38.8437723+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:03:27.950371+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:05.7146339+00:00",
-  "LastUpdate_Ratings": "2023-12-15T17:58:49.4178157+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:03:38.8437991+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:58:25.5626907+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:03:27.9503951+00:00"
 }

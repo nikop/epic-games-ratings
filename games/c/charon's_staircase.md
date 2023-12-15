@@ -22,7 +22,7 @@
 | The lowest floor of the lift | 26.00% | ~22 |
 | Charon's coin | 25.00% | ~21 |
 | Until death do us part | 23.00% | ~19 |
-| The impatient one | 20.00% | ~17 |
+| The impatient one | 21.00% | ~18 |
 | Spectres from the past | 7.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 84 (Ranked 472)  

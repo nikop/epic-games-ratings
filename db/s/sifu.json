@@ -2,12 +2,12 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 69,
+  "Ranking_Rating": 68,
   "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 20,
+  "Ranking_EOS_NewPlayers": 21,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8277,9 +8277,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 726369,
+  "EOS_Progressed": 726420,
   "EOS_Completed": 12953,
-  "EOS_NewPlayers": 8485,
+  "EOS_NewPlayers": 8535,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.78,
   "EosHistory": [
@@ -29482,6 +29482,11 @@
       "Time": "2023-12-15T18:08:45.9214935+00:00",
       "NumProgressed": 726369,
       "NumCompleted": 12953
+    },
+    {
+      "Time": "2023-12-15T19:08:27.5905883+00:00",
+      "NumProgressed": 726420,
+      "NumCompleted": 12953
     }
   ],
   "TotalAchievements": 60,
@@ -29493,7 +29498,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14527
+      "UsersEstimate": 14528
     },
     {
       "ID": "02_Vengeance_H1",
@@ -29675,17 +29680,17 @@
       "ID": "24_PermaSkill_Trophy",
       "SetID": "adcm20g",
       "Name": "State of constant learning",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6537
+      "UsersEstimate": 7264
     },
     {
       "ID": "25_ShrineMind",
       "SetID": "adcm20g",
       "Name": "Qi Gong: Mind",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3632
+      "UsersEstimate": 4359
     },
     {
       "ID": "26_ShrineSpirit",
@@ -29693,7 +29698,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6537
+      "UsersEstimate": 6538
     },
     {
       "ID": "27_ShrineBody",
@@ -29701,7 +29706,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6537
+      "UsersEstimate": 6538
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -29725,7 +29730,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4358
+      "UsersEstimate": 4359
     },
     {
       "ID": "31_ComboHigh",
@@ -29741,7 +29746,7 @@
       "Name": "Old Child",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6537
+      "UsersEstimate": 6538
     },
     {
       "ID": "33_BladeOneShot",
@@ -29781,7 +29786,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6537
+      "UsersEstimate": 6538
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -29805,7 +29810,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4358
+      "UsersEstimate": 4359
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -29853,7 +29858,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -29972,21 +29977,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 35670,
+      "Progressed": 35721,
       "Completed": 10773
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 726369,
+      "Progressed": 726420,
       "Completed": 12953
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-15T18:02:55.3181111+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:08:45.9214932+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:08:27.5905879+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:05.3418066+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:02:55.318112+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:08:45.9216228+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:02:48.880246+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:08:27.5907549+00:00"
 }

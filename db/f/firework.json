@@ -2,13 +2,13 @@
   "ID": "a8b6c2950faf4656afaf8840bab559db",
   "Name": "Firework",
   "ProductSlug": "firework-a03fdc",
-  "Ranking_Rating": 11,
+  "Ranking_Rating": 10,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 798,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 509,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 510,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2021-12-14T07:00:00+00:00",
     "PcReleaseDate": "2021-12-14T07:00:00+00:00",
@@ -67,6 +67,6 @@
   "FirstSeenRating": "2022-09-28T03:32:11.0204001+00:00",
   "LastChanged": "2023-03-31T05:58:00.8298132+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:06.7613135+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:00:37.4174582+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:04:02.4495131+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:00:02.0201425+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:03:48.7176422+00:00"
 }

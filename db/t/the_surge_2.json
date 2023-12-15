@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -282,9 +282,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2242,
+  "EOS_Progressed": 2243,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -3367,6 +3367,11 @@
       "Time": "2023-12-15T18:03:25.2237474+00:00",
       "NumProgressed": 2242,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-15T19:03:15.8313061+00:00",
+      "NumProgressed": 2243,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3410,7 +3415,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ACHV_06",
@@ -3618,7 +3623,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACHV_32",
@@ -3642,7 +3647,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ACHV_35",
@@ -3674,7 +3679,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACHV_39",
@@ -3682,7 +3687,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1726
+      "UsersEstimate": 1727
     },
     {
       "ID": "ACHV_40",
@@ -3698,7 +3703,7 @@
       "Name": "Suited and Booted",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "ACHV_42",
@@ -3714,7 +3719,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACHV_44",
@@ -3738,7 +3743,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ACHV_47",
@@ -3833,7 +3838,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2242,
+      "Progressed": 2243,
       "Completed": 13
     }
   ],
@@ -3841,8 +3846,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-22T02:25:03.2214817+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:03:25.2237471+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:03:15.8313058+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:57.0176831+00:00",
-  "LastUpdate_Ratings": "2023-12-15T17:57:14.0754193+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:03:25.22379+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:57:01.7943064+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:03:15.8313673+00:00"
 }

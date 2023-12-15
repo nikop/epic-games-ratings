@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9744,9 +9744,9 @@
       "Count": 1004
     }
   ],
-  "EOS_Progressed": 127365,
+  "EOS_Progressed": 127381,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1528,
+  "EOS_NewPlayers": 1539,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35184,6 +35184,11 @@
       "Time": "2023-12-15T18:09:10.721589+00:00",
       "NumProgressed": 127365,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T19:08:49.8496779+00:00",
+      "NumProgressed": 127381,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35257,9 +35262,9 @@
       "ID": "altar_of_hope_unlock_hero_occultist",
       "SetID": "64l4lke",
       "Name": "Wyrdly Reconstructed",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 764
+      "UsersEstimate": 892
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -35291,7 +35296,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -35323,7 +35328,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2547
+      "UsersEstimate": 2548
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35347,7 +35352,7 @@
       "Name": "Not Today!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2547
+      "UsersEstimate": 2548
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35355,7 +35360,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2547
+      "UsersEstimate": 2548
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35395,7 +35400,7 @@
       "Name": "Meat and Greet",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2547
+      "UsersEstimate": 2548
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35411,7 +35416,7 @@
       "Name": "Catch and Decease",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2547
+      "UsersEstimate": 2548
     },
     {
       "ID": "combat_kill_librarian",
@@ -35419,15 +35424,15 @@
       "Name": "Overdue Notice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2547
+      "UsersEstimate": 2548
     },
     {
       "ID": "combat_kill_pillagers",
       "SetID": "64l4lke",
       "Name": "Reverse Banditry",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 892
+      "UsersEstimate": 1019
     },
     {
       "ID": "combat_kill_shambler",
@@ -35435,7 +35440,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2547
+      "UsersEstimate": 2548
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35521,9 +35526,9 @@
       "ID": "driving_distance_easy",
       "SetID": "64l4lke",
       "Name": "Ramble On",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 892
+      "UsersEstimate": 1019
     },
     {
       "ID": "driving_distance_hard",
@@ -35547,7 +35552,7 @@
       "Name": "Autodidact",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2547
+      "UsersEstimate": 2548
     },
     {
       "ID": "hero_story_complete_all",
@@ -35657,9 +35662,9 @@
       "ID": "run_victory_act02",
       "SetID": "64l4lke",
       "Name": "Hot Air",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 509
+      "UsersEstimate": 637
     },
     {
       "ID": "run_victory_act03",
@@ -35667,7 +35672,7 @@
       "Name": "Eyes Up",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "run_victory_act04",
@@ -35731,7 +35736,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "combat_kill_collector",
@@ -35739,7 +35744,7 @@
       "Name": "This guy... again?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35785,9 +35790,9 @@
       "ID": "hero_story_complete_duelist",
       "SetID": "d3bcpc8",
       "Name": "Bloody Graduation",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 68
     },
     {
       "ID": "quest_complete_crusader",
@@ -35795,7 +35800,7 @@
       "Name": "Lost and Found",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35826,21 +35831,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127365,
+      "Progressed": 127381,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2234,
+      "Progressed": 2250,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-15T15:00:35.0080552+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:09:10.7215889+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:08:49.8496775+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:00:48.3419288+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:09:10.7217371+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:00:10.1558961+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:08:49.849893+00:00"
 }

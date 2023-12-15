@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1601,10 +1601,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 403,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2023-12-15T19:00:09.2990936+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 404,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 403,
+  "NumberOfAwards": 404,
   "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1648,7 +1654,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 55
+      "Count": 56
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1663,10 +1669,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 162657,
+  "EOS_Progressed": 162668,
   "EOS_Completed": 330,
-  "EOS_NewPlayers": 939,
-  "EOS_NewCompleters": 76,
+  "EOS_NewPlayers": 944,
+  "EOS_NewCompleters": 74,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -19318,6 +19324,11 @@
       "Time": "2023-12-15T18:03:30.3762551+00:00",
       "NumProgressed": 162657,
       "NumCompleted": 330
+    },
+    {
+      "Time": "2023-12-15T19:03:20.3981239+00:00",
+      "NumProgressed": 162668,
+      "NumCompleted": 330
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -19442,7 +19453,7 @@
       "Name": "Glare",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -19450,7 +19461,7 @@
       "Name": "Host",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -19472,9 +19483,9 @@
       "ID": "DEFEAT_JAWCRAB",
       "SetID": "ccc0dlh",
       "Name": "Jawcrab",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 325
+      "UsersEstimate": 488
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -19697,21 +19708,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 162240,
+      "Progressed": 162251,
       "Completed": 1239
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 162657,
+      "Progressed": 162668,
       "Completed": 330
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-12-15T11:00:06.9120544+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:03:30.3762549+00:00",
+  "LastChanged": "2023-12-15T19:00:09.2990933+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:03:20.3981234+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:00:47.0791782+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:03:30.37639+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:00:09.2990939+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:03:20.3982957+00:00"
 }

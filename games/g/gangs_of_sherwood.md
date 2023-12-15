@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 85.00% | ~58 |
-| Air Fighter | 78.00% | ~53 |
-| Oo-De-Lally | 68.00% | ~46 |
-| Treasure Hunter | 66.00% | ~45 |
-| The Altruist | 66.00% | ~45 |
-| Watch your Step! | 53.00% | ~36 |
-| Tap Dancing | 51.00% | ~35 |
-| MAX LEVEL | 50.00% | ~34 |
-| Right between the eyes | 44.00% | ~30 |
-| Spring Board | 43.00% | ~29 |
-| Starry Night | 40.00% | ~27 |
-| Rebel Unleashed | 38.00% | ~26 |
-| Locksley's Tears | 35.00% | ~24 |
-| Assault on the Ram | 31.00% | ~21 |
-| Merry Co-operation | 29.00% | ~20 |
-| Finish Him! | 29.00% | ~20 |
-| Savior | 25.00% | ~17 |
-| Ultra Rebel Instinct | 25.00% | ~17 |
-| Merry Go Round | 22.00% | ~15 |
-| Take Action! | 21.00% | ~14 |
-| First Aid | 21.00% | ~14 |
-| Ascending Will | 16.00% | ~11 |
-| Ultra Combo | 16.00% | ~11 |
-| Hidden Experiment | 15.00% | ~10 |
+| Act of Kindness | 86.00% | ~61 |
+| Air Fighter | 79.00% | ~56 |
+| Oo-De-Lally | 69.00% | ~49 |
+| Treasure Hunter | 68.00% | ~48 |
+| The Altruist | 68.00% | ~48 |
+| Watch your Step! | 52.00% | ~37 |
+| Tap Dancing | 49.00% | ~35 |
+| MAX LEVEL | 48.00% | ~34 |
+| Right between the eyes | 44.00% | ~31 |
+| Spring Board | 41.00% | ~29 |
+| Starry Night | 39.00% | ~28 |
+| Rebel Unleashed | 37.00% | ~26 |
+| Locksley's Tears | 34.00% | ~24 |
+| Merry Co-operation | 32.00% | ~23 |
+| Assault on the Ram | 30.00% | ~21 |
+| Finish Him! | 28.00% | ~20 |
+| Savior | 24.00% | ~17 |
+| Ultra Rebel Instinct | 24.00% | ~17 |
+| Merry Go Round | 21.00% | ~15 |
+| Take Action! | 20.00% | ~14 |
+| First Aid | 20.00% | ~14 |
+| Ascending Will | 15.00% | ~11 |
+| Ultra Combo | 15.00% | ~11 |
+| Hidden Experiment | 14.00% | ~10 |
 | Haute Couture | 13.00% | ~9 |
-| Brilliant Executioner | 9.00% | ~6 |
-| Into the Lion's Den | 9.00% | ~6 |
+| Brilliant Executioner | 8.00% | ~6 |
+| Into the Lion's Den | 8.00% | ~6 |
 | Bold and Bossy | 7.00% | ~5 |
 | Sky High Fighter | 7.00% | ~5 |
 | No Mercy | 6.00% | ~4 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68 (Ranked 492)  
+Progressed: 71 (Ranked 488)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,3 +82,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-10 | 66 | 0 |
 | 2023-12-11 | 67 | 0 |
 | 2023-12-14 | 68 | 0 |
+| 2023-12-15 | 71 | 0 |

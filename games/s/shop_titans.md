@@ -6,21 +6,21 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,652 |
-| Titan's First Steps | 8.00% | ~11,652 |
-| Basic in Bulk | 7.00% | ~10,196 |
-| Tinkle of Coins | 7.00% | ~10,196 |
-| Disintermediation | 6.00% | ~8,739 |
+| Sponsored by Argon | 8.00% | ~11,653 |
+| Titan's First Steps | 8.00% | ~11,653 |
+| Basic in Bulk | 7.00% | ~10,197 |
+| Tinkle of Coins | 7.00% | ~10,197 |
+| Disintermediation | 6.00% | ~8,740 |
 | It's Free Real Estate | 5.00% | ~7,283 |
 | Budding Merchant | 5.00% | ~7,283 |
 | Capitalism Ho! | 5.00% | ~7,283 |
-| One Easy Payment | 4.00% | ~5,826 |
-| Some Assembly Required | 4.00% | ~5,826 |
-| Another Satisfied Customer | 4.00% | ~5,826 |
-| Pretty Penny | 4.00% | ~5,826 |
-| One-Armed Bandit | 4.00% | ~5,826 |
-| Through Repetition, Perfection | 4.00% | ~5,826 |
-| Own the Means of Production | 4.00% | ~5,826 |
+| One Easy Payment | 4.00% | ~5,827 |
+| Some Assembly Required | 4.00% | ~5,827 |
+| Another Satisfied Customer | 4.00% | ~5,827 |
+| Pretty Penny | 4.00% | ~5,827 |
+| One-Armed Bandit | 4.00% | ~5,827 |
+| Through Repetition, Perfection | 4.00% | ~5,827 |
+| Own the Means of Production | 4.00% | ~5,827 |
 | The Daily Grind | 3.00% | ~4,370 |
 | On the Path to Greatness | 3.00% | ~4,370 |
 | Ascended | 3.00% | ~4,370 |
@@ -29,6 +29,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 3.00% | ~4,370 |
 | Flooding the Market | 3.00% | ~4,370 |
 | Where it Hurts | 3.00% | ~4,370 |
+| Efficient Floor Space | 3.00% | ~4,370 |
 | Gem Expert | 3.00% | ~4,370 |
 | Gild-Gotten Goods | 3.00% | ~4,370 |
 | Accomplished Merchant | 3.00% | ~4,370 |
@@ -61,7 +62,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Supercharged | 2.00% | ~2,913 |
 | Expansion in Session | 2.00% | ~2,913 |
 | Ritualist | 2.00% | ~2,913 |
-| Efficient Floor Space | 2.00% | ~2,913 |
 | Cranked up to 11 | 2.00% | ~2,913 |
 | Fit for a King | 2.00% | ~2,913 |
 | By Your Powers Combined... | 2.00% | ~2,913 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.30% | ~437 |
 | Capitalist Camaraderie | 0.20% | ~291 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,653 (Ranked 80)  
+Progressed: 145,667 (Ranked 80)  
 Completed: 316 (0.22%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -358,7 +358,7 @@ Completed: 316 (0.22%) (Ranked 259)
 | 2023-12-12 | 144,871 | 294 |
 | 2023-12-13 | 145,093 | 297 |
 | 2023-12-14 | 145,474 | 307 |
-| 2023-12-15 | 145,653 | 316 |
+| 2023-12-15 | 145,667 | 316 |
 ## Awards
 Max (Great for Beginners): 4,892  (Ranked 75)  
 Sum: 27,739 (Ranked 51)  

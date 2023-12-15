@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 95.00% | ~174 |
-| To Each Their Own | 45.00% | ~82 |
-| You Get An Upgrade, You Get An Upgrade! | 21.00% | ~38 |
-| Like Phileas Fogg | 19.00% | ~35 |
-| Onwards and Upwards | 16.00% | ~29 |
+| You're Going Down! | 94.00% | ~174 |
+| To Each Their Own | 45.00% | ~83 |
+| You Get An Upgrade, You Get An Upgrade! | 21.00% | ~39 |
+| Like Phileas Fogg | 18.00% | ~33 |
+| Onwards and Upwards | 16.00% | ~30 |
 | Serial Winner | 11.00% | ~20 |
 | Lone Wolf | 10.00% | ~18 |
-| Highly Qualified | 9.00% | ~16 |
-| No Room for Improvement | 9.00% | ~16 |
-| Start Your Engines | 9.00% | ~16 |
-| Playing God | 7.00% | ~13 |
+| Highly Qualified | 9.00% | ~17 |
+| No Room for Improvement | 9.00% | ~17 |
+| Start Your Engines | 9.00% | ~17 |
 | Nerd | 6.00% | ~11 |
+| Playing God | 6.00% | ~11 |
 | First and Foremost | 5.00% | ~9 |
 | Upgradeaholic | 5.00% | ~9 |
 | Tailor-Made | 5.00% | ~9 |
 | Gotta Go Fast! | 4.00% | ~7 |
 | Made Mother Proud | 4.00% | ~7 |
 | Winner Winner Chicken Dinner | 4.00% | ~7 |
-| POI Hunter | 3.00% | ~5 |
-| Seven-League Boots | 3.00% | ~5 |
-| Say My Name | 3.00% | ~5 |
-| First Things First | 3.00% | ~5 |
-| Tempus Fugit | 3.00% | ~5 |
+| POI Hunter | 3.00% | ~6 |
+| Seven-League Boots | 3.00% | ~6 |
+| Say My Name | 3.00% | ~6 |
+| First Things First | 3.00% | ~6 |
+| Tempus Fugit | 3.00% | ~6 |
 | Déjà-Vu | 2.00% | ~4 |
 | The Joy of Discovery | 2.00% | ~4 |
 | Geek | 2.00% | ~4 |
@@ -44,8 +44,8 @@
 | Superbike Superfan | 1.00% | ~2 |
 | Playing Favourites | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183 (Ranked 402)  
-Completed: 2 (1.09%) (Ranked 165)  
+Progressed: 185 (Ranked 402)  
+Completed: 2 (1.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -140,4 +140,4 @@ Completed: 2 (1.09%) (Ranked 165)
 | 2023-12-09 | 165 | 2 |
 | 2023-12-13 | 166 | 2 |
 | 2023-12-14 | 176 | 2 |
-| 2023-12-15 | 183 | 2 |
+| 2023-12-15 | 185 | 2 |

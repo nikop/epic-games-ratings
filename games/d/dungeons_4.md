@@ -10,7 +10,7 @@
 | Hammer Time, Round Two | 81.00% | ~454 |
 | The Hellwoods | 77.00% | ~432 |
 | The Plains of Strothalm | 72.00% | ~404 |
-| Experienced Thalya | 71.00% | ~398 |
+| Experienced Thalya | 72.00% | ~404 |
 | Bad Elves Go Everywhere | 69.00% | ~387 |
 | Thalya's Concentrated Fury | 68.00% | ~381 |
 | Heroes’ Gorge | 65.00% | ~365 |
@@ -59,14 +59,14 @@
 | Evilification | 15.00% | ~84 |
 | Mirror, Mirror | 14.00% | ~79 |
 | Untouchable | 14.00% | ~79 |
-| Heal Heal Blessing | 13.00% | ~73 |
+| Heal Heal Blessing | 14.00% | ~79 |
 | Laser Eyes Are So Useless | 11.00% | ~62 |
 | Hands Off My Stones | 11.00% | ~62 |
 | Gorgu is in the Best of Health | 10.00% | ~56 |
 | No Mana, No Cry | 9.00% | ~50 |
 | I Don't Need Any Help | 7.00% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 561 (Ranked 312)  
+Progressed: 561 (Ranked 313)  
 Completed: 17 (3.03%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |

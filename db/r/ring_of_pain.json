@@ -4,7 +4,7 @@
   "ProductSlug": "ring-of-pain",
   "Ranking_Rating": 453,
   "Ranking_Popularity": 134,
-  "Ranking_PopularitySum": 86,
+  "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 150,
@@ -3670,9 +3670,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241083,
+  "EOS_Progressed": 241086,
   "EOS_Completed": 299,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -28300,6 +28300,11 @@
       "Time": "2023-12-15T18:10:13.5419747+00:00",
       "NumProgressed": 241083,
       "NumCompleted": 299
+    },
+    {
+      "Time": "2023-12-15T19:09:45.8585295+00:00",
+      "NumProgressed": 241086,
+      "NumCompleted": 299
     }
   ],
   "TotalAchievements": 138,
@@ -28351,7 +28356,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -28391,7 +28396,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -28487,7 +28492,7 @@
       "Name": "That Was Quick",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -28495,7 +28500,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -28711,7 +28716,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "KILL1000",
@@ -28799,7 +28804,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "KILLNICEDOG",
@@ -28895,7 +28900,7 @@
       "Name": "A Donation",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -28943,7 +28948,7 @@
       "Name": "Deflection",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -29063,7 +29068,7 @@
       "Name": "Explorer",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "SPEEDRUN10",
@@ -29127,7 +29132,7 @@
       "Name": "An Offering",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -29414,13 +29419,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241083,
+      "Progressed": 241086,
       "Completed": 299
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2563,
+      "Progressed": 2566,
       "Completed": 406
     }
   ],
@@ -29428,8 +29433,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-15T09:00:03.6413212+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:10:13.5419744+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:09:45.8585292+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:00:47.2200558+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:10:13.542211+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:00:09.3839518+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:09:45.8588238+00:00"
 }

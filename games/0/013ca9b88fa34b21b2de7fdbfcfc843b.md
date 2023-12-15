@@ -15,6 +15,7 @@ Rating: 4.61 (Ranked 389)
 | Lumberjack | 0.20% | ~17 |
 | Miner 49er | 0.20% | ~17 |
 | Break-Net Speed | 0.20% | ~17 |
+| Humble Collector | 0.20% | ~17 |
 | ... And Spit Back Out | 0.20% | ~17 |
 | Mist Walker | 0.20% | ~17 |
 | Bramble Breaker | 0.20% | ~17 |
@@ -31,7 +32,6 @@ Rating: 4.61 (Ranked 389)
 | Beach Comber | 0.10% | ~8 |
 | Workaholic | 0.10% | ~8 |
 | Giving the People What They Want | 0.10% | ~8 |
-| Humble Collector | 0.10% | ~8 |
 | Scattered Scroll Scrounger | 0.10% | ~8 |
 | Rumble in the Jumble | 0.10% | ~8 |
 | Fanatical Farmer | 0.10% | ~8 |

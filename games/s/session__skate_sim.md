@@ -6,9 +6,9 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,937 |
-| Keeping it classy | 28.00% | ~889 |
-| Welcome to the family | 22.00% | ~698 |
+| You're free now! | 61.00% | ~1,938 |
+| Keeping it classy | 28.00% | ~890 |
+| Welcome to the family | 22.00% | ~699 |
 | The finer things in life | 20.00% | ~635 |
 | Backpacker | 14.00% | ~445 |
 | Go with the Flow | 14.00% | ~445 |
@@ -24,15 +24,15 @@ Number of Ratings: 111  (23.09.2022)
 | Bottom ply killer | 7.00% | ~222 |
 | Finally he zips it | 7.00% | ~222 |
 | G'Day Mate! | 7.00% | ~222 |
-| Commence the Hijinx! | 6.00% | ~190 |
-| DIY Boss | 6.00% | ~190 |
-| Fulfilled the dream | 6.00% | ~190 |
-| Globetrotter | 6.00% | ~190 |
-| Laid back | 6.00% | ~190 |
-| NAHELL! | 6.00% | ~190 |
-| Purple passion | 6.00% | ~190 |
-| Squad goals | 6.00% | ~190 |
-| Sup widdit big dog! | 6.00% | ~190 |
+| Commence the Hijinx! | 6.00% | ~191 |
+| DIY Boss | 6.00% | ~191 |
+| Fulfilled the dream | 6.00% | ~191 |
+| Globetrotter | 6.00% | ~191 |
+| Laid back | 6.00% | ~191 |
+| NAHELL! | 6.00% | ~191 |
+| Purple passion | 6.00% | ~191 |
+| Squad goals | 6.00% | ~191 |
+| Sup widdit big dog! | 6.00% | ~191 |
 | Cops called! | 5.00% | ~159 |
 | Lines for days | 5.00% | ~159 |
 | Manny Destroys All | 5.00% | ~159 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,175 (Ranked 216)  
+Progressed: 3,177 (Ranked 216)  
 Completed: 2 (0.06%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 2 (0.06%) (Ranked 318)
 | 2023-12-12 | 3,114 | 2 |
 | 2023-12-13 | 3,118 | 2 |
 | 2023-12-14 | 3,148 | 2 |
-| 2023-12-15 | 3,175 | 2 |
+| 2023-12-15 | 3,177 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 421)  
 Sum: 564 (Ranked 321)  

@@ -5,21 +5,21 @@ Rating: 4.60 (Ranked 421)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 94.00% | ~73 |
-| Map reader | 78.00% | ~61 |
-| Philanthropist | 72.00% | ~56 |
-| Adventurer | 71.00% | ~55 |
-| The brave little tailor | 53.00% | ~41 |
-| Archer | 53.00% | ~41 |
-| Field hand | 46.00% | ~36 |
-| Samaritan | 45.00% | ~35 |
-| Well-to-do | 42.00% | ~33 |
-| The merciful one | 41.00% | ~32 |
+| Beginner | 94.00% | ~75 |
+| Map reader | 76.00% | ~61 |
+| Philanthropist | 70.00% | ~56 |
+| Adventurer | 70.00% | ~56 |
+| The brave little tailor | 51.00% | ~41 |
+| Archer | 51.00% | ~41 |
+| Field hand | 45.00% | ~36 |
+| Samaritan | 44.00% | ~35 |
+| Well-to-do | 41.00% | ~33 |
+| The merciful one | 40.00% | ~32 |
 | Ladies' man | 38.00% | ~30 |
-| Ferocious wild boars | 31.00% | ~24 |
+| Ferocious wild boars | 30.00% | ~24 |
 | Idiot | 29.00% | ~23 |
-| Beast slayer | 27.00% | ~21 |
-| Wise man | 26.00% | ~20 |
+| Beast slayer | 26.00% | ~21 |
+| Wise man | 25.00% | ~20 |
 | Family man | 24.00% | ~19 |
 | Death of a legend | 24.00% | ~19 |
 | Archaeologist | 24.00% | ~19 |
@@ -28,13 +28,13 @@ Rating: 4.60 (Ranked 421)
 | The fourth triplet | 24.00% | ~19 |
 | Little hero | 23.00% | ~18 |
 | Sidelined | 23.00% | ~18 |
-| Pandora's box | 22.00% | ~17 |
-| Master detective | 22.00% | ~17 |
-| Ghost hunter | 21.00% | ~16 |
+| Pandora's box | 21.00% | ~17 |
+| Master detective | 21.00% | ~17 |
+| Ghost hunter | 20.00% | ~16 |
 | Peacekeeper | 19.00% | ~15 |
 | Fence | 19.00% | ~15 |
 | Defender | 18.00% | ~14 |
-| Showdown | 17.00% | ~13 |
+| Showdown | 16.00% | ~13 |
 | Workaholic | 15.00% | ~12 |
 | Safecracker | 15.00% | ~12 |
 | Master thief | 15.00% | ~12 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 421)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78 (Ranked 480)  
+Progressed: 80 (Ranked 479)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-11 | 67 | 0 |
 | 2023-12-13 | 70 | 0 |
 | 2023-12-14 | 75 | 0 |
-| 2023-12-15 | 78 | 0 |
+| 2023-12-15 | 80 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

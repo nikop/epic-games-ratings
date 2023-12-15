@@ -1,12 +1,12 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 69)  
+Rating: 4.82 (Ranked 68)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 5.00% | ~912 |
+| Overgrown Library | 5.00% | ~913 |
 | Abandoned Settlement | 4.00% | ~730 |
 | Petrified Necropolis | 4.00% | ~730 |
 | Frosts | 3.00% | ~548 |
@@ -21,11 +21,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 2.00% | ~365 |
 | No Deaths | 2.00% | ~365 |
 | Untamed Wilds | 2.00% | ~365 |
-| Homesick | 1.00% | ~182 |
-| Fertile Meadows | 1.00% | ~182 |
-| Royal Outpost | 1.00% | ~182 |
-| Lost Colonies | 1.00% | ~182 |
-| Watchtower | 1.00% | ~182 |
+| Homesick | 1.00% | ~183 |
+| Fertile Meadows | 1.00% | ~183 |
+| Royal Outpost | 1.00% | ~183 |
+| Lost Colonies | 1.00% | ~183 |
+| Watchtower | 1.00% | ~183 |
 | Bandit Camp | 0.90% | ~164 |
 | Monastery of the Holy Flame | 0.90% | ~164 |
 | A Real Challenge | 0.90% | ~164 |
@@ -43,6 +43,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 0.60% | ~110 |
 | Defying the Crown | 0.50% | ~91 |
 | Serving Ale | 0.40% | ~73 |
+| Dangerous Lands | 0.40% | ~73 |
 | Fishmen Ritual Site | 0.40% | ~73 |
 | Forsaken Gods Temple | 0.40% | ~73 |
 | Victory Through Prosperity | 0.40% | ~73 |
@@ -50,10 +51,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fox Utopia | 0.40% | ~73 |
 | Efficient Explorer | 0.30% | ~55 |
 | Refinery | 0.30% | ~55 |
-| Dangerous Lands | 0.30% | ~55 |
 | Forbidden Lands | 0.30% | ~55 |
-| Feeding The People | 0.20% | ~36 |
-| Like a Machine | 0.20% | ~36 |
+| Feeding The People | 0.20% | ~37 |
+| Like a Machine | 0.20% | ~37 |
 | Paradise | 0.10% | ~18 |
 | Higher Needs | 0.10% | ~18 |
 | Beaver Utopia | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,250 (Ranked 147)  
+Progressed: 18,253 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 39 (0.21%) (Ranked 261)
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
 | 2023-12-14 | 18,153 | 40 |
-| 2023-12-15 | 18,250 | 39 |
+| 2023-12-15 | 18,253 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 227)  
 Sum: 3,262 (Ranked 174)  

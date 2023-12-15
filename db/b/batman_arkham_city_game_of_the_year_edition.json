@@ -4,11 +4,11 @@
   "ProductSlug": "batman-arkham-city",
   "Ranking_Rating": 98,
   "Ranking_Popularity": 128,
-  "Ranking_PopularitySum": 210,
+  "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 798,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 509,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 510,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2012-09-07T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2203,6 +2203,6 @@
   "FirstSeen": "2022-07-22T20:21:15.6256322+00:00",
   "LastChanged": "2023-12-14T01:47:02.4115119+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:57.2415643+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:02:34.5071579+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:05:52.5420676+00:00"
+  "LastUpdate_Ratings": "2023-12-15T19:02:33.0092592+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:05:26.2970256+00:00"
 }

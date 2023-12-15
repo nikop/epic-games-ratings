@@ -4,11 +4,11 @@
   "ProductSlug": "warhammer-mechanicus-0e4b71",
   "Ranking_Rating": 698,
   "Ranking_Popularity": 260,
-  "Ranking_PopularitySum": 207,
+  "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1008,9 +1008,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 229456,
+  "EOS_Progressed": 229460,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27163,6 +27163,11 @@
       "Time": "2023-12-15T18:10:04.3658368+00:00",
       "NumProgressed": 229456,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-15T19:09:37.326786+00:00",
+      "NumProgressed": 229460,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -27174,7 +27179,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45891
+      "UsersEstimate": 45892
     },
     {
       "ID": "ACH_BASE_10",
@@ -27182,7 +27187,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59659
+      "UsersEstimate": 59660
     },
     {
       "ID": "ACH_BASE_11",
@@ -27254,7 +27259,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13767
+      "UsersEstimate": 13768
     },
     {
       "ID": "ACH_BASE_20",
@@ -27422,7 +27427,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 29829
+      "UsersEstimate": 29830
     },
     {
       "ID": "ACH_BASE_8",
@@ -27445,7 +27450,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 229456,
+      "Progressed": 229460,
       "Completed": 5
     }
   ],
@@ -27453,8 +27458,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-14T02:58:28.5187272+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:10:04.3658366+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:09:37.3267855+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.549712+00:00",
-  "LastUpdate_Ratings": "2023-12-15T17:59:09.6369778+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:10:04.3659795+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:58:43.4845237+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:09:37.3269611+00:00"
 }

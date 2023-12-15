@@ -2,10 +2,10 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 449,
+  "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -557,9 +557,9 @@
       "ID": "AC_BOSS_02",
       "SetID": "16i2akc",
       "Name": "Downfall",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "AC_BOSS_03",
@@ -812,8 +812,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:04:56.4406863+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:04:37.034169+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:56.8907916+00:00",
-  "LastUpdate_Ratings": "2023-12-15T17:57:50.247627+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:04:56.4407075+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:57:32.5920987+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:04:37.0341939+00:00"
 }

@@ -5,13 +5,13 @@ Rating: 4.39 (Ranked 758)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,406 |
+| Survivor | 31.00% | ~80,407 |
 | Predator I | 23.00% | ~59,656 |
-| Fixer I | 10.00% | ~25,937 |
-| A week in Century City | 10.00% | ~25,937 |
+| Fixer I | 10.00% | ~25,938 |
+| A week in Century City | 10.00% | ~25,938 |
 | The Wait | 7.00% | ~18,156 |
-| Green thumb I | 6.00% | ~15,562 |
-| Cleaning Company | 6.00% | ~15,562 |
+| Green thumb I | 6.00% | ~15,563 |
+| Cleaning Company | 6.00% | ~15,563 |
 | Well-oiled machine | 5.00% | ~12,969 |
 | Saver I | 5.00% | ~12,969 |
 | The Ascent | 4.00% | ~10,375 |
@@ -21,13 +21,13 @@ Rating: 4.39 (Ranked 758)
 | Fixer II | 3.00% | ~7,781 |
 | It took a while | 3.00% | ~7,781 |
 | Adrenaline | 3.00% | ~7,781 |
-| By a hair | 2.00% | ~5,187 |
-| Samurai | 2.00% | ~5,187 |
-| I Left You a Present | 2.00% | ~5,187 |
-| Predator II | 2.00% | ~5,187 |
-| Truffle Dog | 2.00% | ~5,187 |
-| Don't try this at home | 2.00% | ~5,187 |
-| A month in Century City | 2.00% | ~5,187 |
+| By a hair | 2.00% | ~5,188 |
+| Samurai | 2.00% | ~5,188 |
+| I Left You a Present | 2.00% | ~5,188 |
+| Predator II | 2.00% | ~5,188 |
+| Truffle Dog | 2.00% | ~5,188 |
+| Don't try this at home | 2.00% | ~5,188 |
+| A month in Century City | 2.00% | ~5,188 |
 | The Strengthening | 1.00% | ~2,594 |
 | Saver II | 1.00% | ~2,594 |
 | It's the last one, I swear | 1.00% | ~2,594 |
@@ -41,9 +41,9 @@ Rating: 4.39 (Ranked 758)
 | Interior designer | 0.60% | ~1,556 |
 | The Gamble | 0.50% | ~1,297 |
 | The Descent | 0.50% | ~1,297 |
-| Expert Hunter | 0.40% | ~1,037 |
-| Fungi hunter | 0.40% | ~1,037 |
-| Predator III | 0.40% | ~1,037 |
+| Expert Hunter | 0.40% | ~1,038 |
+| Fungi hunter | 0.40% | ~1,038 |
+| Predator III | 0.40% | ~1,038 |
 | Arms dealer | 0.30% | ~778 |
 | Fixer III | 0.30% | ~778 |
 | AML questionnaire | 0.30% | ~778 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 758)
 | Capitalist III | 0.10% | ~259 |
 | Hell Is You | 0.10% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259,374 (Ranked 59)  
+Progressed: 259,376 (Ranked 59)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-12 | 259,291 | 3 |
 | 2023-12-13 | 259,312 | 3 |
 | 2023-12-14 | 259,344 | 3 |
-| 2023-12-15 | 259,374 | 3 |
+| 2023-12-15 | 259,376 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 52  (Ranked 433)  
 Sum: 363 (Ranked 358)  

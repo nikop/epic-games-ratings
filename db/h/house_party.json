@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6626,
+  "EOS_Progressed": 6628,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6857,6 +6857,11 @@
       "Time": "2023-12-15T17:04:05.1276918+00:00",
       "NumProgressed": 6626,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T19:04:16.3970936+00:00",
+      "NumProgressed": 6628,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6914,9 +6919,9 @@
       "ID": "BeyondTheCall",
       "SetID": "bmkn7o4",
       "Name": "Beyond the Call of Dude-y",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 20
     },
     {
       "ID": "Brahdyssey",
@@ -7419,21 +7424,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3665,
+      "Progressed": 3667,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6626,
+      "Progressed": 6628,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-15T18:04:33.4236199+00:00",
+  "LastChanged_Achievements": "2023-12-15T19:04:16.3970933+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.173705+00:00",
-  "LastUpdate_Ratings": "2023-12-15T18:00:16.2439016+00:00",
-  "LastUpdate_Achievements": "2023-12-15T18:04:33.4237343+00:00"
+  "LastUpdate_Ratings": "2023-12-15T18:59:43.9993708+00:00",
+  "LastUpdate_Achievements": "2023-12-15T19:04:16.3971851+00:00"
 }
