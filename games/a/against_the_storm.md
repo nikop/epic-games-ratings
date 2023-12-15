@@ -36,9 +36,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 0.70% | ~127 |
 | Trade Baron | 0.70% | ~127 |
 | Ancient Battleground | 0.60% | ~109 |
+| Sparkdew Crystals | 0.60% | ~109 |
 | Statue of the Forefathers | 0.60% | ~109 |
 | Against All Odds | 0.50% | ~91 |
-| Sparkdew Crystals | 0.50% | ~91 |
 | Haunted Forest | 0.50% | ~91 |
 | Flooded Mines | 0.50% | ~91 |
 | Serving Ale | 0.40% | ~73 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,153 (Ranked 147)  
-Completed: 39 (0.21%) (Ranked 259)  
+Progressed: 18,157 (Ranked 147)  
+Completed: 39 (0.21%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -305,16 +305,17 @@ Completed: 39 (0.21%) (Ranked 259)
 | 2023-12-12 | 17,994 | 40 |
 | 2023-12-13 | 18,048 | 40 |
 | 2023-12-14 | 18,153 | 40 |
+| 2023-12-15 | 18,157 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 227)  
-Sum: 3,258 (Ranked 175)  
+Sum: 3,259 (Ranked 175)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 442 |
 | This game is Relaxing | 435 |
 | This game is Great for Beginners | 426 |
-| This game is Extremely Fun | 409 |
+| This game is Extremely Fun | 410 |
 | This game is Highly Recommended | 391 |
 | This game has Unique Visuals | 331 |
 | This game has Amazing Storytelling | 321 |
@@ -578,3 +579,4 @@ Diff (max vs sum): 52
 | 2023-12-12 | 4.82 | - | 442 | 3,255 |
 | 2023-12-13 | 4.82 | - | 442 | 3,256 |
 | 2023-12-14 | 4.82 | - | 442 | 3,258 |
+| 2023-12-15 | 4.82 | - | 442 | 3,259 |

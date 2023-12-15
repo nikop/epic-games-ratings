@@ -6,7 +6,7 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,920 |
+| You're free now! | 61.00% | ~1,922 |
 | Keeping it classy | 29.00% | ~913 |
 | Welcome to the family | 22.00% | ~693 |
 | The finer things in life | 20.00% | ~630 |
@@ -17,14 +17,14 @@ Number of Ratings: 111  (23.09.2022)
 | Plastic Surgeon | 10.00% | ~315 |
 | The hard way | 10.00% | ~315 |
 | Upfront shredder | 10.00% | ~315 |
-| Good vibes | 9.00% | ~283 |
+| Good vibes | 9.00% | ~284 |
 | Bottom ply killer | 8.00% | ~252 |
 | Fashionista | 8.00% | ~252 |
 | Finally he zips it | 8.00% | ~252 |
 | That pinch! | 8.00% | ~252 |
 | Tight lipslides | 8.00% | ~252 |
-| Fulfilled the dream | 7.00% | ~220 |
-| G'Day Mate! | 7.00% | ~220 |
+| Fulfilled the dream | 7.00% | ~221 |
+| G'Day Mate! | 7.00% | ~221 |
 | Commence the Hijinx! | 6.00% | ~189 |
 | DIY Boss | 6.00% | ~189 |
 | Globetrotter | 6.00% | ~189 |
@@ -33,29 +33,29 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 6.00% | ~189 |
 | Squad goals | 6.00% | ~189 |
 | Sup widdit big dog! | 6.00% | ~189 |
-| Cops called! | 5.00% | ~157 |
-| Lines for days | 5.00% | ~157 |
-| Manny Destroys All | 5.00% | ~157 |
-| Prince of Philly | 5.00% | ~157 |
-| Renaissance man | 5.00% | ~157 |
-| Tank commander | 5.00% | ~157 |
-| Trick shot marksman | 5.00% | ~157 |
-| We get it, you're good | 5.00% | ~157 |
+| Cops called! | 5.00% | ~158 |
+| Lines for days | 5.00% | ~158 |
+| Manny Destroys All | 5.00% | ~158 |
+| Prince of Philly | 5.00% | ~158 |
+| Renaissance man | 5.00% | ~158 |
+| Tank commander | 5.00% | ~158 |
+| Trick shot marksman | 5.00% | ~158 |
+| We get it, you're good | 5.00% | ~158 |
 | G.O.A.T. status | 4.00% | ~126 |
 | Hoarder | 4.00% | ~126 |
 | Pew-Pew | 4.00% | ~126 |
 | Many plys later... | 3.00% | ~94 |
 | Cross lock country | 2.00% | ~63 |
 | That was wheelie fun | 2.00% | ~63 |
-| Dipped! | 1.00% | ~31 |
-| Skatepark hero | 1.00% | ~31 |
+| Dipped! | 1.00% | ~32 |
+| Skatepark hero | 1.00% | ~32 |
 | Bing Bong! | 0.10% | ~3 |
 | Golden! | 0.10% | ~3 |
 | Loves You Back | 0.10% | ~3 |
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,148 (Ranked 214)  
+Progressed: 3,150 (Ranked 214)  
 Completed: 2 (0.06%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,6 +269,7 @@ Completed: 2 (0.06%) (Ranked 319)
 | 2023-12-12 | 3,114 | 2 |
 | 2023-12-13 | 3,118 | 2 |
 | 2023-12-14 | 3,148 | 2 |
+| 2023-12-15 | 3,150 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 420)  
 Sum: 563 (Ranked 320)  

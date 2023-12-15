@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 353,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
     "PcReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29418,
+  "EOS_Progressed": 29421,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2029,
+  "EOS_NewPlayers": 2016,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10194,6 +10194,11 @@
       "Time": "2023-12-14T23:11:03.684467+00:00",
       "NumProgressed": 29418,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-15T00:10:41.3358769+00:00",
+      "NumProgressed": 29421,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -10414,7 +10419,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 5589
+      "UsersEstimate": 5590
     },
     {
       "ID": "achievement_34",
@@ -10430,7 +10435,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 27947
+      "UsersEstimate": 27950
     },
     {
       "ID": "achievement_36",
@@ -10446,7 +10451,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3824
+      "UsersEstimate": 3825
     },
     {
       "ID": "achievement_38",
@@ -10462,7 +10467,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7061
     },
     {
       "ID": "achievement_4",
@@ -10550,7 +10555,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3824
+      "UsersEstimate": 3825
     },
     {
       "ID": "achievement_7",
@@ -10566,7 +10571,7 @@
       "Name": "A Better Idea",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7061
     },
     {
       "ID": "achievement_9",
@@ -10581,7 +10586,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 29418,
+      "Progressed": 29421,
       "Completed": 2
     }
   ],
@@ -10589,8 +10594,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-12-14T23:11:03.6844665+00:00",
+  "LastChanged_Achievements": "2023-12-15T00:10:41.3358767+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.515274+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:03:52.9636824+00:00",
-  "LastUpdate_Achievements": "2023-12-14T23:11:03.6845388+00:00"
+  "LastUpdate_Ratings": "2023-12-15T00:03:33.5734225+00:00",
+  "LastUpdate_Achievements": "2023-12-15T00:10:41.3359375+00:00"
 }

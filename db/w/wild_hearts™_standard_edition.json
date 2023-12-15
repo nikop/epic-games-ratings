@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 442,
+  "EOS_Progressed": 443,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -1908,6 +1908,11 @@
       "Time": "2023-12-14T23:09:39.8140249+00:00",
       "NumProgressed": 442,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-15T00:09:21.993207+00:00",
+      "NumProgressed": 443,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -1920,7 +1925,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "achievement_10",
@@ -1976,15 +1981,15 @@
       "Name": "Distance Devourer",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "achievement_17",
       "SetID": "2cpn27e",
       "Name": "Master of the Skies",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_18",
@@ -1992,15 +1997,15 @@
       "Name": "Man-Machine Master",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "achievement_19",
       "SetID": "2cpn27e",
       "Name": "Counter Specialist",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_2",
@@ -2008,7 +2013,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_20",
@@ -2016,15 +2021,15 @@
       "Name": "Subsistence Skills",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_21",
       "SetID": "2cpn27e",
       "Name": "Left Arm Leverager",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 102
     },
     {
       "ID": "achievement_22",
@@ -2070,9 +2075,9 @@
       "ID": "achievement_27",
       "SetID": "2cpn27e",
       "Name": "Mighty Marmelizer",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_28",
@@ -2080,7 +2085,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "achievement_29",
@@ -2112,7 +2117,7 @@
       "Name": "Snare Specialist",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "achievement_32",
@@ -2160,7 +2165,7 @@
       "Name": "Hidden History",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_38",
@@ -2238,9 +2243,9 @@
       "ID": "achievement_46",
       "SetID": "2cpn27e",
       "Name": "Charmed by the Hunt",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 257
     },
     {
       "ID": "achievement_47",
@@ -2272,7 +2277,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "achievement_7",
@@ -2303,13 +2308,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 442,
+      "Progressed": 443,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-14T23:09:39.8140247+00:00",
+  "LastChanged_Achievements": "2023-12-15T00:09:21.9932068+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:59.7578969+00:00",
-  "LastUpdate_Ratings": "2023-12-14T22:58:19.8645621+00:00",
-  "LastUpdate_Achievements": "2023-12-14T23:09:39.8140586+00:00"
+  "LastUpdate_Ratings": "2023-12-14T23:58:00.3891929+00:00",
+  "LastUpdate_Achievements": "2023-12-15T00:09:21.9932401+00:00"
 }

@@ -8,7 +8,7 @@ Number of Ratings: 28  (23.09.2022)
 | ---- | ---------- | ----- |
 | Getting started | 78.00% | ~423 |
 | Close call! | 72.00% | ~390 |
-| Builder | 52.00% | ~282 |
+| Builder | 53.00% | ~287 |
 | Pangs of conscience | 45.00% | ~244 |
 | Living it large! | 45.00% | ~244 |
 | Collector | 43.00% | ~233 |
@@ -47,7 +47,7 @@ Number of Ratings: 28  (23.09.2022)
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 542 (Ranked 316)  
-Completed: 2 (0.37%) (Ranked 232)  
+Completed: 2 (0.37%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

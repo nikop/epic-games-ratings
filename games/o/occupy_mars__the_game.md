@@ -1,7 +1,7 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 4.05 (Ranked 1,002)  
+Rating: 4.03 (Ranked 1,008)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,7 +18,7 @@ Rating: 4.05 (Ranked 1,002)
 | Detective | 20.00% | ~357 |
 | The Collector | 18.00% | ~321 |
 | Get your hands dirty | 11.00% | ~196 |
-| Space Forest | 10.00% | ~178 |
+| Space Forest | 10.00% | ~179 |
 | All Wheel Trouble | 8.00% | ~143 |
 | DeDust | 5.00% | ~89 |
 | ITS crash site | 5.00% | ~89 |
@@ -54,7 +54,7 @@ Rating: 4.05 (Ranked 1,002)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,785 (Ranked 236)  
+Progressed: 1,786 (Ranked 236)  
 Completed: 0 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,6 +260,7 @@ Completed: 0 (0.00%) (Ranked 376)
 | 2023-12-11 | 1,780 | 0 |
 | 2023-12-12 | 1,782 | 0 |
 | 2023-12-14 | 1,785 | 0 |
+| 2023-12-15 | 1,786 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -311,3 +312,4 @@ Completed: 0 (0.00%) (Ranked 376)
 | 2023-11-14 | 4.03 | 0 | 0 |
 | 2023-12-01 | 4.04 | 0 | 0 |
 | 2023-12-06 | 4.05 | 0 | 0 |
+| 2023-12-14 | 4.03 | 0 | 0 |

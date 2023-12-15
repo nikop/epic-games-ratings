@@ -5,54 +5,54 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 88.00% | ~334 |
-| Your first fight | 86.00% | ~326 |
-| First winning | 84.00% | ~318 |
-| Good Person Chip | 84.00% | ~318 |
-| Your first job | 83.00% | ~315 |
+| Your first fight | 86.00% | ~327 |
+| First winning | 84.00% | ~319 |
+| Good Person Chip | 84.00% | ~319 |
+| Your first job | 82.00% | ~312 |
 | Fitness professional | 78.00% | ~296 |
 | Old movies enjoyer | 78.00% | ~296 |
-| Depressed visitor | 78.00% | ~296 |
-| Employee of the week | 78.00% | ~296 |
-| Neurotrainer – power gainer! | 77.00% | ~292 |
-| Your own amateur gym | 72.00% | ~273 |
-| First defeat | 72.00% | ~273 |
-| Run K, run! | 72.00% | ~273 |
-| Hello, world! | 69.00% | ~262 |
+| Depressed visitor | 77.00% | ~293 |
+| Neurotrainer – power gainer! | 77.00% | ~293 |
+| Employee of the week | 77.00% | ~293 |
+| Your own amateur gym | 72.00% | ~274 |
+| Run K, run! | 72.00% | ~274 |
+| First defeat | 71.00% | ~270 |
 | Fighting is cool | 68.00% | ~258 |
 | No bullying more | 68.00% | ~258 |
-| Pal of your father? | 65.00% | ~246 |
-| Spirit of the past | 64.00% | ~243 |
+| Hello, world! | 68.00% | ~258 |
+| Pal of your father? | 65.00% | ~247 |
 | Employee of the month | 64.00% | ~243 |
-| Law student | 61.00% | ~231 |
+| Spirit of the past | 63.00% | ~239 |
+| Law student | 61.00% | ~232 |
 | Workout professional | 59.00% | ~224 |
-| Handyman | 59.00% | ~224 |
+| Handyman | 58.00% | ~220 |
 | Champion – starter pack | 58.00% | ~220 |
 | It's good to be alive | 58.00% | ~220 |
 | Own four walls | 58.00% | ~220 |
 | Employee of the year | 58.00% | ~220 |
-| Fight for life | 57.00% | ~216 |
-| Little hacker | 57.00% | ~216 |
-| Intriguing candies | 57.00% | ~216 |
+| Fight for life | 57.00% | ~217 |
+| Little hacker | 57.00% | ~217 |
+| Intriguing candies | 57.00% | ~217 |
 | Legal courier | 54.00% | ~205 |
 | Extreme neuropower! | 54.00% | ~205 |
-| Escaped from a big trouble | 51.00% | ~193 |
-| Now you are worthy | 47.00% | ~178 |
-| Fight is life | 46.00% | ~174 |
-| Mysterious voice | 46.00% | ~174 |
+| Escaped from a big trouble | 51.00% | ~194 |
+| Now you are worthy | 47.00% | ~179 |
+| Fight is life | 46.00% | ~175 |
+| Mysterious voice | 46.00% | ~175 |
 | Guiding on the right path | 45.00% | ~171 |
 | No blades in the gym | 43.00% | ~163 |
-| Champion – no way back | 42.00% | ~159 |
-| Underground dwellers | 41.00% | ~155 |
-| Responsible approach | 41.00% | ~155 |
+| Champion – no way back | 42.00% | ~160 |
+| Underground dwellers | 41.00% | ~156 |
+| Responsible approach | 41.00% | ~156 |
 | Deal with life | 40.00% | ~152 |
 | Mom got better | 39.00% | ~148 |
 | GYM professional | 39.00% | ~148 |
 | Poisoned fighter | 39.00% | ~148 |
 | The die is cast | 39.00% | ~148 |
-| Get out of my apartment! | 37.00% | ~140 |
-| Gang wrangler | 36.00% | ~136 |
-| Seashell hunter | 36.00% | ~136 |
-| Undercover robot | 36.00% | ~136 |
+| Get out of my apartment! | 37.00% | ~141 |
+| Gang wrangler | 36.00% | ~137 |
+| Seashell hunter | 36.00% | ~137 |
+| Undercover robot | 36.00% | ~137 |
 | Problems of cyborgs | 35.00% | ~133 |
 | Absolute Champion! | 35.00% | ~133 |
 | Not little hacker | 34.00% | ~129 |
@@ -64,14 +64,14 @@
 | Key memories | 33.00% | ~125 |
 | Careerist | 33.00% | ~125 |
 | The heart of the Resistance | 33.00% | ~125 |
-| Trap disarmed | 32.00% | ~121 |
-| Anyone can resist | 32.00% | ~121 |
-| The last bell ring | 31.00% | ~117 |
-| Better cooking at home | 30.00% | ~114 |
-| The only right decision | 30.00% | ~114 |
+| Trap disarmed | 32.00% | ~122 |
+| Anyone can resist | 32.00% | ~122 |
+| The last bell ring | 31.00% | ~118 |
 | Silver’s past | 29.00% | ~110 |
+| Better cooking at home | 29.00% | ~110 |
+| The only right decision | 29.00% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 379 (Ranked 340)  
+Progressed: 380 (Ranked 340)  
 Completed: 9 (2.37%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,3 +165,4 @@ Completed: 9 (2.37%) (Ranked 126)
 | 2023-12-09 | 363 | 9 |
 | 2023-12-12 | 364 | 9 |
 | 2023-12-14 | 379 | 9 |
+| 2023-12-15 | 380 | 9 |

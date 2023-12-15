@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 49,
   "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -747,9 +747,9 @@
       "ID": "ACHIEVEMENT035",
       "SetID": "dejhjd5",
       "Name": "First Time Fishing",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 372
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -883,8 +883,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-14T23:08:25.9000573+00:00",
+  "LastChanged_Achievements": "2023-12-15T00:07:52.3358735+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:23.9280041+00:00",
-  "LastUpdate_Ratings": "2023-12-14T22:59:38.1648659+00:00",
-  "LastUpdate_Achievements": "2023-12-14T23:08:25.9000886+00:00"
+  "LastUpdate_Ratings": "2023-12-14T23:59:14.9795805+00:00",
+  "LastUpdate_Achievements": "2023-12-15T00:07:52.3359024+00:00"
 }

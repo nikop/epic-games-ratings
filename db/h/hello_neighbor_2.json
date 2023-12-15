@@ -471,9 +471,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3365,
+  "EOS_Progressed": 3366,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.1,
   "EosHistory": [
@@ -5371,6 +5371,11 @@
       "Time": "2023-12-14T23:04:07.8857604+00:00",
       "NumProgressed": 3365,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-12-15T00:03:47.2880444+00:00",
+      "NumProgressed": 3366,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 14,
@@ -5398,7 +5403,7 @@
       "Name": "Cat Person",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "ACH_CLIMBER",
@@ -5406,7 +5411,7 @@
       "Name": "Climber",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -5414,7 +5419,7 @@
       "Name": "Dog Person",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -5430,7 +5435,7 @@
       "Name": "Family Lost",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -5493,7 +5498,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3365,
+      "Progressed": 3366,
       "Completed": 138
     }
   ],
@@ -5501,8 +5506,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-18T13:02:58.1900278+00:00",
-  "LastChanged_Achievements": "2023-12-14T23:04:07.88576+00:00",
+  "LastChanged_Achievements": "2023-12-15T00:03:47.2880439+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:09.6040213+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:01:35.0859774+00:00",
-  "LastUpdate_Achievements": "2023-12-14T23:04:07.8858029+00:00"
+  "LastUpdate_Ratings": "2023-12-15T00:01:02.5597041+00:00",
+  "LastUpdate_Achievements": "2023-12-15T00:03:47.288077+00:00"
 }

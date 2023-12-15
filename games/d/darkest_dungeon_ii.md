@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 5.00% | ~98 |
+| Malpractice Assurance | 5.00% | ~99 |
 | This guy... again? | 3.00% | ~59 |
 | Lost and Found | 3.00% | ~59 |
 | This Belongs in a Museum | 2.00% | ~2,542 |
@@ -17,7 +17,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 2.00% | ~2,542 |
 | Escape from the Black Hole | 2.00% | ~2,542 |
 | Autodidact | 2.00% | ~2,542 |
-| Bloody Graduation | 2.00% | ~39 |
+| Bloody Graduation | 2.00% | ~40 |
 | Don't Make Me Turn This Coach Around | 1.00% | ~1,271 |
 | Serenity Now! | 1.00% | ~1,271 |
 | Rush Hour | 1.00% | ~1,271 |
@@ -27,13 +27,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Friends 'Til the End | 1.00% | ~20 |
 | It Rings a Bell | 0.90% | ~1,144 |
 | It Happens | 0.90% | ~1,144 |
+| A Place to Lay Your Head | 0.90% | ~1,144 |
 | Nope | 0.90% | ~1,144 |
 | Dissector | 0.80% | ~1,017 |
 | Deprogramming | 0.80% | ~1,017 |
 | Merry Time | 0.80% | ~1,017 |
 | Harvest Festival | 0.80% | ~1,017 |
 | Whale | 0.80% | ~1,017 |
-| A Place to Lay Your Head | 0.80% | ~1,017 |
 | Worldly Traveller | 0.80% | ~1,017 |
 | Banishment | 0.70% | ~890 |
 | Now Stay Dead | 0.70% | ~890 |
@@ -48,13 +48,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unfulfilled Desires | 0.60% | ~763 |
 | Predator | 0.60% | ~763 |
 | Reverse Banditry | 0.60% | ~763 |
+| A Clear Conscience | 0.60% | ~763 |
 | Unshackled | 0.60% | ~763 |
-| Wyrdly Reconstructed | 0.50% | ~635 |
-| Ichthyophobic | 0.50% | ~635 |
-| No More Mouths to Feed | 0.50% | ~635 |
-| A Clear Conscience | 0.50% | ~635 |
-| When You Want Something Done Right | 0.50% | ~635 |
-| Utopia | 0.50% | ~635 |
+| Wyrdly Reconstructed | 0.50% | ~636 |
+| Ichthyophobic | 0.50% | ~636 |
+| No More Mouths to Feed | 0.50% | ~636 |
+| When You Want Something Done Right | 0.50% | ~636 |
+| Utopia | 0.50% | ~636 |
 | Slap on the Wrist | 0.50% | ~10 |
 | This Looks Familiar | 0.40% | ~508 |
 | Hope Rekindled | 0.40% | ~508 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,096 (Ranked 84)  
+Progressed: 127,110 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,6 +315,7 @@ Completed: 3 (0.00%) (Ranked 376)
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
+| 2023-12-15 | 127,110 | 3 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 51)  
 Sum: 20,427 (Ranked 59)  

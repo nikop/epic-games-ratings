@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -419,7 +419,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26227,
+  "EOS_Progressed": 26230,
   "EOS_Completed": 491,
   "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 6,
@@ -26044,6 +26044,11 @@
       "Time": "2023-12-14T23:05:54.3122992+00:00",
       "NumProgressed": 26227,
       "NumCompleted": 491
+    },
+    {
+      "Time": "2023-12-15T00:05:27.0122753+00:00",
+      "NumProgressed": 26230,
+      "NumCompleted": 491
     }
   ],
   "TotalAchievements": 20,
@@ -26063,7 +26068,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "EAST_FINISHED",
@@ -26079,7 +26084,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -26111,7 +26116,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3147
+      "UsersEstimate": 3148
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -26167,7 +26172,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3147
+      "UsersEstimate": 3148
     },
     {
       "ID": "INTRO_FINISHED",
@@ -26175,7 +26180,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 19933
+      "UsersEstimate": 19935
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -26183,7 +26188,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7081
+      "UsersEstimate": 7082
     },
     {
       "ID": "NORTH_FINISHED",
@@ -26214,15 +26219,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26227,
+      "Progressed": 26230,
       "Completed": 491
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-14T23:05:54.3122988+00:00",
+  "LastChanged_Achievements": "2023-12-15T00:05:27.0122749+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:05.8810572+00:00",
-  "LastUpdate_Ratings": "2023-12-14T22:58:58.0949213+00:00",
-  "LastUpdate_Achievements": "2023-12-14T23:05:54.312492+00:00"
+  "LastUpdate_Ratings": "2023-12-14T23:58:36.5125167+00:00",
+  "LastUpdate_Achievements": "2023-12-15T00:05:27.0124123+00:00"
 }

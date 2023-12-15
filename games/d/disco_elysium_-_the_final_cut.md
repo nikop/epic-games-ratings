@@ -6,24 +6,24 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~37,039 |
-| Biggest Communism Builder | 24.00% | ~31,748 |
-| The World's Most Laughable Centrist | 21.00% | ~27,779 |
-| Il Coppo Del'Arte! | 18.00% | ~23,811 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,165 |
-| Hyperstellar Law Official | 16.00% | ~21,165 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,520 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,520 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,197 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,551 |
-| The Figurines Won't Win Her Back | 10.00% | ~13,228 |
-| Unbelievably Boring **** | 9.00% | ~11,905 |
-| Enemy Of The Physical Realm | 9.00% | ~11,905 |
+| Goodest Of The Good Cops | 28.00% | ~37,041 |
+| Biggest Communism Builder | 24.00% | ~31,750 |
+| The World's Most Laughable Centrist | 21.00% | ~27,781 |
+| Il Coppo Del'Arte! | 18.00% | ~23,812 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,166 |
+| Hyperstellar Law Official | 16.00% | ~21,166 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,521 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,521 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,198 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,552 |
+| The Figurines Won't Win Her Back | 10.00% | ~13,229 |
+| Unbelievably Boring **** | 9.00% | ~11,906 |
+| Enemy Of The Physical Realm | 9.00% | ~11,906 |
 | Hardie's Heroes | 6.00% | ~7,937 |
-| The Lawbringer | 4.00% | ~5,291 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,291 |
-| The Opener Of The Eighth Seal | 3.00% | ~3,968 |
-| Bother Kim After Hours | 3.00% | ~3,968 |
+| The Lawbringer | 4.00% | ~5,292 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,292 |
+| The Opener Of The Eighth Seal | 3.00% | ~3,969 |
+| Bother Kim After Hours | 3.00% | ~3,969 |
 | Baddest Of the Bad Cops | 2.00% | ~2,646 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,646 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,646 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~132 |
 | What body? | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,283 (Ranked 83)  
+Progressed: 132,290 (Ranked 83)  
 Completed: 28 (0.02%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,6 +286,7 @@ Completed: 28 (0.02%) (Ranked 345)
 | 2023-12-12 | 131,916 | 28 |
 | 2023-12-13 | 131,965 | 28 |
 | 2023-12-14 | 132,283 | 28 |
+| 2023-12-15 | 132,290 | 28 |
 ## Awards
 Max (Character Customization): 746  (Ranked 183)  
 Sum: 1,140 (Ranked 256)  

@@ -5,13 +5,13 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 2.00% | ~4,843 |
+| The Killing Jar | 2.00% | ~4,844 |
 | First of Many | 1.00% | ~2,422 |
-| Not Your Average Trait | 0.90% | ~2,179 |
-| Regicide | 0.90% | ~192 |
-| Expanding Horizons | 0.80% | ~1,937 |
+| Not Your Average Trait | 0.90% | ~2,180 |
+| Regicide | 0.90% | ~193 |
+| Expanding Horizons | 0.80% | ~1,938 |
 | Master of the Dark Arts | 0.80% | ~171 |
-| Familiar Face | 0.70% | ~1,695 |
+| Familiar Face | 0.70% | ~1,696 |
 | Gleaming the Cube | 0.60% | ~1,453 |
 | Quest for Survival | 0.60% | ~1,453 |
 | Not a Janitor | 0.60% | ~1,453 |
@@ -33,23 +33,23 @@ Rating: 4.75 (Ranked 150)
 | Power Surge | 0.40% | ~969 |
 | The God Gambit | 0.40% | ~969 |
 | Dark Designs | 0.40% | ~969 |
+| Madman's Paradise | 0.40% | ~969 |
 | Shhh...It's a Secret | 0.40% | ~969 |
 | Scrap Collector | 0.40% | ~969 |
 | Scrap Hoarder | 0.40% | ~969 |
 | All These Traits� | 0.40% | ~969 |
-| Crafty | 0.30% | ~726 |
-| Ghost in the Machine | 0.30% | ~726 |
-| Madman's Paradise | 0.30% | ~726 |
-| The Agenda | 0.30% | ~726 |
-| Tall Tales | 0.30% | ~726 |
-| Bad Moon Rising | 0.30% | ~726 |
-| Strapped | 0.30% | ~726 |
-| Edgelord | 0.30% | ~726 |
-| The Web | 0.30% | ~726 |
-| Carnage in C-Minor | 0.30% | ~726 |
-| The Ultimate Weapon | 0.30% | ~726 |
-| No One Should Have All That Power | 0.30% | ~726 |
-| Transmutate | 0.30% | ~726 |
+| Crafty | 0.30% | ~727 |
+| Ghost in the Machine | 0.30% | ~727 |
+| The Agenda | 0.30% | ~727 |
+| Tall Tales | 0.30% | ~727 |
+| Bad Moon Rising | 0.30% | ~727 |
+| Strapped | 0.30% | ~727 |
+| Edgelord | 0.30% | ~727 |
+| The Web | 0.30% | ~727 |
+| Carnage in C-Minor | 0.30% | ~727 |
+| The Ultimate Weapon | 0.30% | ~727 |
+| No One Should Have All That Power | 0.30% | ~727 |
+| Transmutate | 0.30% | ~727 |
 | Only Human | 0.20% | ~484 |
 | Red Room | 0.20% | ~484 |
 | The Trigger | 0.20% | ~484 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 150)
 | You Shall Pass | 0.20% | ~43 |
 | A Foul Feast | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,166 (Ranked 64)  
+Progressed: 242,225 (Ranked 64)  
 Completed: 585 (0.24%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,9 +213,10 @@ Completed: 585 (0.24%) (Ranked 254)
 | 2023-12-12 | 239,053 | 581 |
 | 2023-12-13 | 239,544 | 584 |
 | 2023-12-14 | 242,166 | 585 |
+| 2023-12-15 | 242,225 | 585 |
 ## Awards
 Max (Great Boss Battles): 2,757  (Ranked 101)  
-Sum: 6,919 (Ranked 126)  
+Sum: 6,922 (Ranked 126)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -225,8 +226,8 @@ Diff (max vs sum): -25
 | This game has Challenging Combat | 439 |
 | This game has Amazing Storytelling | 429 |
 | This game is Relaxing | 429 |
+| This game has Quickly Understood Controls | 427 |
 | This game is Extremely Fun | 426 |
-| This game has Quickly Understood Controls | 424 |
 | This game has Amazing Characters | 418 |
 | This game has Unique Visuals | 367 |
 | This game has a Creative Community | 315 |
@@ -375,3 +376,4 @@ Diff (max vs sum): -25
 | 2023-12-12 | 4.75 | 2,730 | 6,825 |
 | 2023-12-13 | 4.75 | 2,741 | 6,871 |
 | 2023-12-14 | 4.75 | 2,757 | 6,919 |
+| 2023-12-15 | 4.75 | 2,757 | 6,922 |

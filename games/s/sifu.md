@@ -6,16 +6,16 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 1.00% | ~7,224 |
-| The Assault | 1.00% | ~7,224 |
-| Life is your teacher | 1.00% | ~7,224 |
-| Lightning Hands | 1.00% | ~7,224 |
-| Diligence as a goal | 1.00% | ~317 |
-| The Hateful Pole Fighter | 0.80% | ~5,779 |
-| State of constant learning | 0.80% | ~5,779 |
-| Qi Gong: Breath | 0.80% | ~5,779 |
-| Qi Gong: Essence | 0.80% | ~5,779 |
-| Rumble in the Hangar | 0.80% | ~5,779 |
+| The Old Grandmaster | 1.00% | ~7,225 |
+| The Assault | 1.00% | ~7,225 |
+| Life is your teacher | 1.00% | ~7,225 |
+| Lightning Hands | 1.00% | ~7,225 |
+| Diligence as a goal | 1.00% | ~318 |
+| The Hateful Pole Fighter | 0.80% | ~5,780 |
+| State of constant learning | 0.80% | ~5,780 |
+| Qi Gong: Breath | 0.80% | ~5,780 |
+| Qi Gong: Essence | 0.80% | ~5,780 |
+| Rumble in the Hangar | 0.80% | ~5,780 |
 | Project Arena | 0.80% | ~254 |
 | A Lady's Blood in the Snow | 0.70% | ~5,057 |
 | Lady Wing Chun | 0.70% | ~5,057 |
@@ -26,7 +26,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 0.70% | ~5,057 |
 | Furious Fists | 0.60% | ~4,335 |
 | Take damage to save time | 0.60% | ~4,335 |
-| Fight the way you practice | 0.60% | ~190 |
+| Fight the way you practice | 0.60% | ~191 |
 | Scareless | 0.50% | ~3,612 |
 | Qi Gong: Mind | 0.50% | ~3,612 |
 | I know Kung-Fu | 0.50% | ~3,612 |
@@ -46,10 +46,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | The 36th Chamber of Kung-Fu | 0.20% | ~1,445 |
 | Sword Stained With Blood | 0.20% | ~1,445 |
 | The Pit Protector | 0.20% | ~1,445 |
-| Deadly Venom | 0.20% | ~63 |
-| A Touch of Acumen | 0.20% | ~63 |
-| Skill and an even stronger will | 0.20% | ~63 |
-| Beatmaker | 0.20% | ~63 |
+| Deadly Venom | 0.20% | ~64 |
+| A Touch of Acumen | 0.20% | ~64 |
+| Skill and an even stronger will | 0.20% | ~64 |
+| Beatmaker | 0.20% | ~64 |
 | Drunken Fighter | 0.10% | ~722 |
 | Martial Artist | 0.10% | ~722 |
 | Healing Memory | 0.10% | ~722 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~32 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,433 (Ranked 24)  
+Progressed: 722,468 (Ranked 24)  
 Completed: 12,953 (1.79%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,6 +306,7 @@ Completed: 12,953 (1.79%) (Ranked 136)
 | 2023-12-12 | 717,993 | 12,952 |
 | 2023-12-13 | 718,112 | 12,953 |
 | 2023-12-14 | 722,433 | 12,953 |
+| 2023-12-15 | 722,468 | 12,953 |
 ## Awards
 Max (Great Boss Battles): 6,923  (Ranked 55)  
 Sum: 12,152 (Ranked 83)  

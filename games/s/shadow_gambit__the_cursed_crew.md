@@ -1,11 +1,11 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.81 (Ranked 84)  
+Rating: 4.81 (Ranked 83)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 66.00% | ~760 |
+| A New Journey | 67.00% | ~771 |
 | The Adventure Begins | 49.00% | ~564 |
 | Swabbie | 37.00% | ~426 |
 | With Great Power… | 37.00% | ~426 |

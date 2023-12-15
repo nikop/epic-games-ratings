@@ -6,8 +6,8 @@
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 147,
-  "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_Completed": 260,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 3739,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3369,10 +3369,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3258,
       "NumberOfAwardsMax": 442
+    },
+    {
+      "Time": "2023-12-15T00:01:01.6778699+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3259,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3258,
+  "NumberOfAwards": 3259,
   "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3398,7 +3404,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 409
+      "Count": 410
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3437,9 +3443,9 @@
       "Count": 331
     }
   ],
-  "EOS_Progressed": 18153,
+  "EOS_Progressed": 18157,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15722,6 +15728,11 @@
       "Time": "2023-12-14T23:04:36.4134126+00:00",
       "NumProgressed": 18153,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-15T00:04:14.3123701+00:00",
+      "NumProgressed": 18157,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15876,9 +15887,9 @@
       "ID": "WinNearCrystals",
       "SetID": "cfbk359",
       "Name": "Sparkdew Crystals",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 109
     },
     {
       "ID": "WinNearDangerous",
@@ -16205,15 +16216,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18153,
+      "Progressed": 18157,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-14T10:01:10.0204149+00:00",
-  "LastChanged_Achievements": "2023-12-14T23:04:36.4134121+00:00",
+  "LastChanged": "2023-12-15T00:01:01.6778697+00:00",
+  "LastChanged_Achievements": "2023-12-15T00:04:14.3123693+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:01:34.1522372+00:00",
-  "LastUpdate_Achievements": "2023-12-14T23:04:36.4135393+00:00"
+  "LastUpdate_Ratings": "2023-12-15T00:01:01.6778703+00:00",
+  "LastUpdate_Achievements": "2023-12-15T00:04:14.31251+00:00"
 }

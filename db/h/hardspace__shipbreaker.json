@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 312,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -303,9 +303,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 980,
+  "EOS_Progressed": 981,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2063,6 +2063,11 @@
       "Time": "2023-12-14T22:09:58.7668293+00:00",
       "NumProgressed": 980,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T00:09:39.0039982+00:00",
+      "NumProgressed": 981,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2146,7 +2151,7 @@
       "Name": "Breaking the Ice",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
@@ -2154,7 +2159,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -2210,7 +2215,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2226,7 +2231,7 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -2234,7 +2239,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2250,7 +2255,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -2266,7 +2271,7 @@
       "Name": "Solidarity Forever",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_THE_WEIGHT_OF_THE_WORLD",
@@ -2282,14 +2287,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 980,
+      "Progressed": 981,
       "Completed": 0
     }
   ],
@@ -2297,8 +2302,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-11-20T03:58:42.1118377+00:00",
-  "LastChanged_Achievements": "2023-12-14T23:09:58.0614652+00:00",
+  "LastChanged_Achievements": "2023-12-15T00:09:39.0039979+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:55.4900519+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:02:20.0187113+00:00",
-  "LastUpdate_Achievements": "2023-12-14T23:09:58.0614916+00:00"
+  "LastUpdate_Ratings": "2023-12-15T00:01:44.5856669+00:00",
+  "LastUpdate_Achievements": "2023-12-15T00:09:39.0040217+00:00"
 }

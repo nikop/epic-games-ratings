@@ -17,8 +17,8 @@ Rating: 4.57 (Ranked 484)
 | The Fire Below the Mountain | 61.00% | ~700 |
 | No Bites | 55.00% | ~631 |
 | Iceborn | 55.00% | ~631 |
+| Tear of Freedom | 53.00% | ~608 |
 | Boom Things | 53.00% | ~608 |
-| Tear of Freedom | 52.00% | ~596 |
 | My Darkest Day | 49.00% | ~562 |
 | Rhythm Of Willump | 47.00% | ~539 |
 | The Relentless Storm | 47.00% | ~539 |
@@ -38,7 +38,7 @@ Rating: 4.57 (Ranked 484)
 | On The Rocks | 35.00% | ~401 |
 | Snowy Poro | 32.00% | ~367 |
 | Never Gets Old | 32.00% | ~367 |
-| Vertical Power | 27.00% | ~310 |
+| Vertical Power | 28.00% | ~321 |
 | One From The Heart | 14.00% | ~161 |
 | Yummy | 10.00% | ~115 |
 | Snowball Fightn't | 10.00% | ~115 |

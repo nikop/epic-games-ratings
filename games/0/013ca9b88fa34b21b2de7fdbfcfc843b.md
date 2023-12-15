@@ -12,6 +12,7 @@ Rating: 4.60 (Ranked 422)
 | Clear the Air | 0.20% | ~17 |
 | Search for the Hairy Grell | 0.20% | ~17 |
 | Flaming Hot Completos | 0.20% | ~17 |
+| Lumberjack | 0.20% | ~17 |
 | Break-Net Speed | 0.20% | ~17 |
 | ... And Spit Back Out | 0.20% | ~17 |
 | Mist Walker | 0.20% | ~17 |
@@ -26,7 +27,6 @@ Rating: 4.60 (Ranked 422)
 | Cloverfield Island | 0.10% | ~8 |
 | Got to Catch Them All | 0.10% | ~8 |
 | Angling Authority | 0.10% | ~8 |
-| Lumberjack | 0.10% | ~8 |
 | Miner 49er | 0.10% | ~8 |
 | Beach Comber | 0.10% | ~8 |
 | Workaholic | 0.10% | ~8 |

@@ -5509,10 +5509,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6919,
       "NumberOfAwardsMax": 2757
+    },
+    {
+      "Time": "2023-12-15T00:03:40.4833443+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6922,
+      "NumberOfAwardsMax": 2757
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6919,
+  "NumberOfAwards": 6922,
   "NumberOfAwardsMax": 2757,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5550,7 +5556,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 424
+      "Count": 427
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5583,9 +5589,9 @@
       "Count": 429
     }
   ],
-  "EOS_Progressed": 242166,
+  "EOS_Progressed": 242225,
   "EOS_Completed": 585,
-  "EOS_NewPlayers": 5576,
+  "EOS_NewPlayers": 5626,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -23013,6 +23019,11 @@
       "Time": "2023-12-14T23:10:14.3150825+00:00",
       "NumProgressed": 242166,
       "NumCompleted": 585
+    },
+    {
+      "Time": "2023-12-15T00:09:54.1136222+00:00",
+      "NumProgressed": 242225,
+      "NumCompleted": 585
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -23025,7 +23036,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -23033,7 +23044,7 @@
       "Name": "Crafty",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "Defeat_Abberations_A",
@@ -23049,7 +23060,7 @@
       "Name": "Ghost in the Machine",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "Defeat_Boss_No_Damage",
@@ -23105,7 +23116,7 @@
       "Name": "The Killing Jar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4843
+      "UsersEstimate": 4844
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -23135,9 +23146,9 @@
       "ID": "Defeat_Tal_Ratha",
       "SetID": "bkp3b1a",
       "Name": "Madman\u0027s Paradise",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 726
+      "UsersEstimate": 969
     },
     {
       "ID": "Defeat_World_Boss",
@@ -23161,7 +23172,7 @@
       "Name": "The Agenda",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "Meet_Custodian",
@@ -23177,7 +23188,7 @@
       "Name": "Familiar Face",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "Meet_Meidra",
@@ -23193,7 +23204,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "Meet_Nimue",
@@ -23241,7 +23252,7 @@
       "Name": "Bad Moon Rising",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "Obtain_Boss_Alt_Reward",
@@ -23265,7 +23276,7 @@
       "Name": "Strapped",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "Obtain_Guns_B",
@@ -23281,7 +23292,7 @@
       "Name": "Edgelord",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "Obtain_Melee_Weapons_B",
@@ -23297,7 +23308,7 @@
       "Name": "The Web",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "Obtain_Relics",
@@ -23329,7 +23340,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "Obtain_Traits_B",
@@ -23353,7 +23364,7 @@
       "Name": "Carnage in C-Minor",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "Upgrade_Boss_Weapon_A",
@@ -23361,7 +23372,7 @@
       "Name": "The Ultimate Weapon",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "Upgrade_Boss_Weapon_B",
@@ -23393,7 +23404,7 @@
       "Name": "No One Should Have All That Power",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "Upgrade_Traits_A",
@@ -23417,7 +23428,7 @@
       "Name": "Transmutate",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "DLC1_Defeat_OneTrueKing",
@@ -23425,7 +23436,7 @@
       "Name": "Regicide",
       "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -23464,22 +23475,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 242166,
+      "Progressed": 242225,
       "Completed": 585
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 21331,
+      "Progressed": 21390,
       "Completed": 253
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-14T22:04:02.8118116+00:00",
-  "LastChanged_Achievements": "2023-12-14T23:10:14.3150822+00:00",
+  "LastChanged": "2023-12-15T00:03:40.4833441+00:00",
+  "LastChanged_Achievements": "2023-12-15T00:09:54.1136218+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.6047456+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:04:01.0839668+00:00",
-  "LastUpdate_Achievements": "2023-12-14T23:10:14.3151739+00:00"
+  "LastUpdate_Ratings": "2023-12-15T00:03:40.4833448+00:00",
+  "LastUpdate_Achievements": "2023-12-15T00:09:54.113721+00:00"
 }

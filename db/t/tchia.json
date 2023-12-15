@@ -2,13 +2,13 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 215,
+  "Ranking_Rating": 216,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7983,
+  "EOS_Progressed": 7985,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -9086,6 +9086,11 @@
       "Time": "2023-12-14T23:08:00.5567528+00:00",
       "NumProgressed": 7983,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-15T00:07:28.4089004+00:00",
+      "NumProgressed": 7985,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9153,7 +9158,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "FASHION_VICTIM",
@@ -9161,7 +9166,7 @@
       "Name": "Fashion Victim",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -9201,7 +9206,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "LIBERATOR",
@@ -9264,7 +9269,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7983,
+      "Progressed": 7985,
       "Completed": 34
     }
   ],
@@ -9272,8 +9277,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-14T23:08:00.5567525+00:00",
+  "LastChanged_Achievements": "2023-12-15T00:07:28.4089+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:30.6418185+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:03:23.6635711+00:00",
-  "LastUpdate_Achievements": "2023-12-14T23:08:00.5568078+00:00"
+  "LastUpdate_Ratings": "2023-12-15T00:03:05.3128043+00:00",
+  "LastUpdate_Achievements": "2023-12-15T00:07:28.4089508+00:00"
 }

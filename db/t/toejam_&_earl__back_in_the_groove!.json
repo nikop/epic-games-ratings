@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58236,
+  "EOS_Progressed": 58239,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14101,6 +14101,11 @@
       "Time": "2023-12-14T22:05:56.6622021+00:00",
       "NumProgressed": 58236,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-15T00:05:28.6902956+00:00",
+      "NumProgressed": 58239,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -14174,9 +14179,9 @@
       "ID": "FallFest",
       "SetID": "8gem5jc",
       "Name": "Fall Fest",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4077
+      "UsersEstimate": 4659
     },
     {
       "ID": "FlyingPresent",
@@ -14200,7 +14205,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5241
+      "UsersEstimate": 5242
     },
     {
       "ID": "FoolMeTwice",
@@ -14503,7 +14508,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58236,
+      "Progressed": 58239,
       "Completed": 6
     }
   ],
@@ -14511,8 +14516,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-14T23:05:56.0560691+00:00",
+  "LastChanged_Achievements": "2023-12-15T00:05:28.6902952+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:54.7796961+00:00",
-  "LastUpdate_Ratings": "2023-12-14T22:58:19.4871112+00:00",
-  "LastUpdate_Achievements": "2023-12-14T23:05:56.0562149+00:00"
+  "LastUpdate_Ratings": "2023-12-14T23:58:00.1713792+00:00",
+  "LastUpdate_Achievements": "2023-12-15T00:05:28.6904095+00:00"
 }

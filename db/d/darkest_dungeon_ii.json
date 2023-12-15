@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9714,9 +9714,9 @@
       "Count": 1004
     }
   ],
-  "EOS_Progressed": 127096,
+  "EOS_Progressed": 127110,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1305,
+  "EOS_NewPlayers": 1317,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35059,6 +35059,11 @@
       "Time": "2023-12-14T23:09:47.9352995+00:00",
       "NumProgressed": 127096,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T00:09:29.561694+00:00",
+      "NumProgressed": 127110,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35134,7 +35139,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -35246,7 +35251,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "combat_kill_gaunts",
@@ -35262,7 +35267,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -35436,9 +35441,9 @@
       "ID": "hero_story_complete_any",
       "SetID": "64l4lke",
       "Name": "A Clear Conscience",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 635
+      "UsersEstimate": 763
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -35460,9 +35465,9 @@
       "ID": "inn_first_time",
       "SetID": "64l4lke",
       "Name": "A Place to Lay Your Head",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1144
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -35470,7 +35475,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -35502,7 +35507,7 @@
       "Name": "Utopia",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -35606,7 +35611,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "combat_kill_collector",
@@ -35662,7 +35667,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "quest_complete_crusader",
@@ -35701,21 +35706,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127096,
+      "Progressed": 127110,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 1965,
+      "Progressed": 1979,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-14T21:00:00.7778844+00:00",
-  "LastChanged_Achievements": "2023-12-14T23:09:47.9352993+00:00",
+  "LastChanged_Achievements": "2023-12-15T00:09:29.5616936+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:01:40.8566883+00:00",
-  "LastUpdate_Achievements": "2023-12-14T23:09:47.9354611+00:00"
+  "LastUpdate_Ratings": "2023-12-15T00:01:07.7534886+00:00",
+  "LastUpdate_Achievements": "2023-12-15T00:09:29.5618567+00:00"
 }

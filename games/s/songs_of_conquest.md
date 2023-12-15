@@ -6,8 +6,8 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 37.00% | ~175 |
-| Double Kill | 29.00% | ~137 |
+| Adept | 37.00% | ~176 |
+| Double Kill | 29.00% | ~138 |
 | Critical Hit | 16.00% | ~76 |
 | Veteran | 16.00% | ~76 |
 | Dressed For Success | 11.00% | ~52 |
@@ -21,10 +21,10 @@ Number of Ratings: 292  (23.09.2022)
 | Expert Essence Employment | 4.00% | ~19 |
 | Trojan Horse | 3.00% | ~14 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~14 |
-| The Song of Stoutheart | 2.00% | ~9 |
-| This Spot's Taken | 2.00% | ~9 |
-| Don't Touch My Stuff | 2.00% | ~9 |
-| Pyrrhic Victory | 2.00% | ~9 |
+| The Song of Stoutheart | 2.00% | ~10 |
+| This Spot's Taken | 2.00% | ~10 |
+| Don't Touch My Stuff | 2.00% | ~10 |
+| Pyrrhic Victory | 2.00% | ~10 |
 | Versatile Wielder | 1.00% | ~5 |
 | Deepstrike | 1.00% | ~5 |
 | Infernal Influence | 1.00% | ~5 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474 (Ranked 324)  
+Progressed: 475 (Ranked 324)  
 Completed: 0 (0.00%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,6 +96,7 @@ Completed: 0 (0.00%) (Ranked 376)
 | 2023-12-12 | 434 | 0 |
 | 2023-12-13 | 447 | 0 |
 | 2023-12-14 | 474 | 0 |
+| 2023-12-15 | 475 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 518)  
 Sum: 194 (Ranked 411)  

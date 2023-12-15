@@ -10,18 +10,18 @@
 | Conducted Trade | 68.00% | ~63 |
 | Aristocratic | 67.00% | ~62 |
 | Digging a Hole | 65.00% | ~60 |
-| Tutti Frutti | 60.00% | ~56 |
+| Tutti Frutti | 61.00% | ~57 |
 | Gotta Go Fast | 51.00% | ~47 |
 | Slotting Machine | 43.00% | ~40 |
 | Systematic | 40.00% | ~37 |
-| Mine Sweeper | 34.00% | ~32 |
+| Mine Sweeper | 35.00% | ~33 |
 | Roll Out | 33.00% | ~31 |
 | Dopa-Miner | 27.00% | ~25 |
 | Botropolis | 24.00% | ~22 |
 | Up, Up And Away! | 24.00% | ~22 |
 | Whoa! | 23.00% | ~21 |
+| Steam Powered | 17.00% | ~16 |
 | Steaming Rich | 17.00% | ~16 |
-| Steam Powered | 16.00% | ~15 |
 | Manic Mechanic | 13.00% | ~12 |
 | Room To Spare | 11.00% | ~10 |
 | Real Purdy | 5.00% | ~5 |

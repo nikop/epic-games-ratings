@@ -5,26 +5,26 @@ Rating: 4.22 (Ranked 913)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~7,526 |
-| Disposing of the Evidence | 38.00% | ~3,445 |
-| Without a Scratch | 34.00% | ~3,083 |
-| Wreckless Driving | 28.00% | ~2,539 |
-| A Marked Man | 25.00% | ~2,267 |
-| Street Sweeper | 19.00% | ~1,723 |
-| Liberty City Minute | 17.00% | ~1,541 |
-| Offshore Delivery | 14.00% | ~1,269 |
-| Dirty Money | 13.00% | ~1,179 |
-| By a Mile | 10.00% | ~907 |
-| Not So Fast | 10.00% | ~907 |
-| Right-hand Man | 10.00% | ~907 |
+| First Day on the Job | 83.00% | ~7,532 |
+| Disposing of the Evidence | 38.00% | ~3,448 |
+| Without a Scratch | 34.00% | ~3,086 |
+| Wreckless Driving | 28.00% | ~2,541 |
+| A Marked Man | 25.00% | ~2,269 |
+| Street Sweeper | 19.00% | ~1,724 |
+| Liberty City Minute | 17.00% | ~1,543 |
+| Offshore Delivery | 14.00% | ~1,271 |
+| Dirty Money | 13.00% | ~1,180 |
+| By a Mile | 10.00% | ~908 |
+| Not So Fast | 10.00% | ~908 |
+| Right-hand Man | 10.00% | ~908 |
 | A Gift from the King | 7.00% | ~635 |
 | Full Artillery | 4.00% | ~363 |
 | Mob Boss | 3.00% | ~272 |
-| Escape Artist | 2.00% | ~181 |
-| Where To? | 2.00% | ~181 |
-| Splish Splash | 2.00% | ~181 |
-| Playing Doctor | 2.00% | ~181 |
-| Liberty City Secrets | 2.00% | ~181 |
+| Escape Artist | 2.00% | ~182 |
+| Where To? | 2.00% | ~182 |
+| Splish Splash | 2.00% | ~182 |
+| Playing Doctor | 2.00% | ~182 |
+| Liberty City Secrets | 2.00% | ~182 |
 | Planned Ahead | 1.00% | ~91 |
 | Got This Figured Out | 1.00% | ~91 |
 | Wheels Up | 1.00% | ~91 |
@@ -33,9 +33,9 @@ Rating: 4.22 (Ranked 913)
 | Going Rogue | 1.00% | ~91 |
 | Furious First Responder | 1.00% | ~91 |
 | Is That All You've Got? | 0.90% | ~82 |
-| King of Liberty City | 0.70% | ~63 |
+| King of Liberty City | 0.70% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,067 (Ranked 172)  
+Progressed: 9,075 (Ranked 172)  
 Completed: 60 (0.66%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,6 +274,7 @@ Completed: 60 (0.66%) (Ranked 191)
 | 2023-12-12 | 8,807 | 60 |
 | 2023-12-13 | 8,860 | 60 |
 | 2023-12-14 | 9,067 | 60 |
+| 2023-12-15 | 9,075 | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

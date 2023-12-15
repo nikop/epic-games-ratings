@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -195,9 +195,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1135,
+  "EOS_Progressed": 1136,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3005,6 +3005,11 @@
       "Time": "2023-12-14T23:07:50.6382364+00:00",
       "NumProgressed": 1135,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T00:07:18.9690364+00:00",
+      "NumProgressed": 1136,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -3025,7 +3030,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 92,
       "XP": 30,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "AC02",
@@ -3033,7 +3038,7 @@
       "Name": "Blood and Dust",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "AC03",
@@ -3049,7 +3054,7 @@
       "Name": "Blood and Iron",
       "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "AC05",
@@ -3065,7 +3070,7 @@
       "Name": "The Last Ascension",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "AC07",
@@ -3097,7 +3102,7 @@
       "Name": "The Wait is Over",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "AC11",
@@ -3113,7 +3118,7 @@
       "Name": "Canvas of Light and Time",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "AC13",
@@ -3137,7 +3142,7 @@
       "Name": "Full Devotion",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "AC16",
@@ -3217,7 +3222,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "AC26",
@@ -3241,7 +3246,7 @@
       "Name": "The Punished One",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "AC29",
@@ -3257,7 +3262,7 @@
       "Name": "The Anointed One",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "AC31",
@@ -3305,7 +3310,7 @@
       "Name": "Blessed Incense",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "AC37",
@@ -3321,7 +3326,7 @@
       "Name": "Edge of Orison",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "AC39",
@@ -3337,7 +3342,7 @@
       "Name": "Welcome Back!",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "AC41",
@@ -3359,9 +3364,9 @@
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 579
     },
     {
       "ID": "AC44",
@@ -3384,7 +3389,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 1135,
+      "Progressed": 1136,
       "Completed": 0
     }
   ],
@@ -3392,8 +3397,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-13T22:00:21.7018049+00:00",
-  "LastChanged_Achievements": "2023-12-14T23:07:50.6382358+00:00",
+  "LastChanged_Achievements": "2023-12-15T00:07:18.9690361+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:44.5606116+00:00",
-  "LastUpdate_Ratings": "2023-12-14T22:57:48.4105551+00:00",
-  "LastUpdate_Achievements": "2023-12-14T23:07:50.638281+00:00"
+  "LastUpdate_Ratings": "2023-12-14T23:57:31.1143896+00:00",
+  "LastUpdate_Achievements": "2023-12-15T00:07:18.9690755+00:00"
 }

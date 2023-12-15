@@ -564,7 +564,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 17039,
+  "EOS_Progressed": 17040,
   "EOS_Completed": 119,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 3,
@@ -16109,6 +16109,11 @@
       "Time": "2023-12-14T23:07:51.148093+00:00",
       "NumProgressed": 17039,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-15T00:07:19.4523689+00:00",
+      "NumProgressed": 17040,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16176,7 +16181,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2385
+      "UsersEstimate": 2386
     },
     {
       "ID": "tpote_achievement_17",
@@ -16224,7 +16229,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 4941
+      "UsersEstimate": 4942
     },
     {
       "ID": "tpote_achievement_22",
@@ -16320,7 +16325,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2385
+      "UsersEstimate": 2386
     },
     {
       "ID": "tpote_achievement_33",
@@ -16408,7 +16413,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4089
+      "UsersEstimate": 4090
     },
     {
       "ID": "tpote_achievement_6",
@@ -16440,22 +16445,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5793
+      "UsersEstimate": 5794
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17039,
+      "Progressed": 17040,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-13T16:01:07.6767372+00:00",
-  "LastChanged_Achievements": "2023-12-14T23:07:51.1480924+00:00",
+  "LastChanged_Achievements": "2023-12-15T00:07:19.4523684+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:23.5508408+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:02:14.8981323+00:00",
-  "LastUpdate_Achievements": "2023-12-14T23:07:51.1482126+00:00"
+  "LastUpdate_Ratings": "2023-12-15T00:01:39.0098117+00:00",
+  "LastUpdate_Achievements": "2023-12-15T00:07:19.4524546+00:00"
 }

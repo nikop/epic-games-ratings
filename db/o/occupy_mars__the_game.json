@@ -2,13 +2,13 @@
   "ID": "5424c96246c54737aad95daa7fe724f8",
   "Name": "Occupy Mars: The Game",
   "ProductSlug": "occupy-mars",
-  "Ranking_Rating": 1002,
+  "Ranking_Rating": 1008,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.05,
+  "Rating": 4.03,
   "RatingHistory": [
     {
       "Time": "2023-05-17T09:57:13.2048269+00:00",
@@ -307,15 +307,21 @@
       "Rating": 4.05,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-14T23:59:39.4991796+00:00",
+      "Rating": 4.03,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1785,
+  "EOS_Progressed": 1786,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4578,6 +4584,11 @@
       "Time": "2023-12-14T17:09:15.5910823+00:00",
       "NumProgressed": 1785,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T00:09:29.0396506+00:00",
+      "NumProgressed": 1786,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4925,7 +4936,7 @@
       "Name": "Space Forest",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPOTTY_FRIEND",
@@ -4972,16 +4983,16 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1785,
+      "Progressed": 1786,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-10T20:57:26.0655367+00:00",
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
-  "LastChanged": "2023-12-06T17:58:25.3194639+00:00",
-  "LastChanged_Achievements": "2023-12-14T23:09:47.3932682+00:00",
+  "LastChanged": "2023-12-14T23:59:39.4991795+00:00",
+  "LastChanged_Achievements": "2023-12-15T00:09:29.0396501+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:00.8104796+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:00:05.7139002+00:00",
-  "LastUpdate_Achievements": "2023-12-14T23:09:47.3933095+00:00"
+  "LastUpdate_Ratings": "2023-12-14T23:59:39.49918+00:00",
+  "LastUpdate_Achievements": "2023-12-15T00:09:29.0397007+00:00"
 }

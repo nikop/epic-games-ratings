@@ -5,17 +5,17 @@ Rating: 4.40 (Ranked 743)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~107,358 |
+| A Family Heirloom | 80.00% | ~107,359 |
 | 74 miles East of Otaheité | 56.00% | ~75,151 |
-| Interesting... | 42.00% | ~56,363 |
-| The Everhart Expedition | 40.00% | ~53,679 |
-| Halfway there | 30.00% | ~40,259 |
-| The Vanishing of the Lady Shannon | 30.00% | ~40,259 |
-| Seaside Serenade | 30.00% | ~40,259 |
-| A brigantine, a brig and a barque | 28.00% | ~37,575 |
-| 506 East Hampden Avenue | 28.00% | ~37,575 |
-| Weekend at Walakea's | 27.00% | ~36,233 |
-| Quite a Show | 27.00% | ~36,233 |
+| Interesting... | 42.00% | ~56,364 |
+| The Everhart Expedition | 40.00% | ~53,680 |
+| Halfway there | 30.00% | ~40,260 |
+| The Vanishing of the Lady Shannon | 30.00% | ~40,260 |
+| Seaside Serenade | 30.00% | ~40,260 |
+| A brigantine, a brig and a barque | 28.00% | ~37,576 |
+| 506 East Hampden Avenue | 28.00% | ~37,576 |
+| Weekend at Walakea's | 27.00% | ~36,234 |
+| Quite a Show | 27.00% | ~36,234 |
 | Dark Water Ride | 25.00% | ~33,550 |
 | Sunken | 25.00% | ~33,550 |
 | Deep Cut | 24.00% | ~32,208 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 743)
 | Gently down the stream... | 1.00% | ~1,342 |
 | Meta-reference | 1.00% | ~1,342 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,198 (Ranked 82)  
+Progressed: 134,199 (Ranked 82)  
 Completed: 1,190 (0.89%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,6 +279,7 @@ Completed: 1,190 (0.89%) (Ranked 177)
 | 2023-12-12 | 133,950 | 1,189 |
 | 2023-12-13 | 134,068 | 1,190 |
 | 2023-12-14 | 134,198 | 1,190 |
+| 2023-12-15 | 134,199 | 1,190 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

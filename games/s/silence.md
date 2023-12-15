@@ -19,12 +19,12 @@
 | Handyman | 23.00% | ~41 |
 | Bubblekillerfamily | 23.00% | ~41 |
 | Quite a buggy game | 22.00% | ~39 |
-| Achoo!! | 21.00% | ~37 |
+| Achoo!! | 22.00% | ~39 |
 | Chapter III | 21.00% | ~37 |
 | Like a moth in the Wind | 21.00% | ~37 |
 | Pacifist | 20.00% | ~35 |
+| Fastidious Clown | 18.00% | ~32 |
 | Mirror mirror on the wall... | 18.00% | ~32 |
-| Fastidious Clown | 17.00% | ~30 |
 | It's not easy being green! | 17.00% | ~30 |
 | Home is where the heart is | 17.00% | ~30 |
 | Death is a part of life | 14.00% | ~25 |

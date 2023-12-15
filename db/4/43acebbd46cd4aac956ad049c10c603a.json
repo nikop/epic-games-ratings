@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 980,
+  "EOS_Progressed": 981,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2487,6 +2487,11 @@
       "Time": "2023-12-14T22:07:41.8769719+00:00",
       "NumProgressed": 980,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T00:07:09.3557285+00:00",
+      "NumProgressed": 981,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2539,7 +2544,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "BreakTheLoop",
@@ -2595,7 +2600,7 @@
       "Name": "Discovery",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "EasternWetlands",
@@ -2699,7 +2704,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Mnemosyne",
@@ -2753,9 +2758,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 196
     },
     {
       "ID": "Persistent",
@@ -2891,7 +2896,7 @@
       "Name": "The Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "TheThiefOfFire",
@@ -2970,7 +2975,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 980,
+      "Progressed": 981,
       "Completed": 1
     }
   ],
@@ -2978,8 +2983,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-14T23:07:40.4416613+00:00",
+  "LastChanged_Achievements": "2023-12-15T00:07:09.355728+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-14T23:01:53.452056+00:00",
-  "LastUpdate_Achievements": "2023-12-14T23:07:40.4417189+00:00"
+  "LastUpdate_Ratings": "2023-12-15T00:01:18.9824101+00:00",
+  "LastUpdate_Achievements": "2023-12-15T00:07:09.3557857+00:00"
 }

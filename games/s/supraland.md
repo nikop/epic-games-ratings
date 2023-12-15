@@ -6,44 +6,44 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~728,667 |
-| The Blues | 85.00% | ~625,623 |
-| Fast | 66.00% | ~485,778 |
-| Healthbar | 55.00% | ~404,815 |
-| Force Cube | 53.00% | ~390,094 |
-| Double Jump | 48.00% | ~353,293 |
-| Regeneration | 47.00% | ~345,933 |
-| Triple Jump | 43.00% | ~316,492 |
-| Climb the hill | 42.00% | ~309,131 |
-| Through the fire pipe | 39.00% | ~287,051 |
-| MacGuffin | 38.00% | ~279,690 |
-| Just once | 37.00% | ~272,330 |
-| Armor | 30.00% | ~220,808 |
-| True holy spirit | 28.00% | ~206,088 |
-| That's how electronics work obviously | 27.00% | ~198,727 |
-| Force Cube Catapult | 25.00% | ~184,007 |
-| Holy Sword | 23.00% | ~169,286 |
-| Telefrag | 23.00% | ~169,286 |
-| Freed from prison | 21.00% | ~154,566 |
-| Stomp | 21.00% | ~154,566 |
-| Double Health | 19.00% | ~139,845 |
-| Buckle | 18.00% | ~132,485 |
-| Green Keycard | 18.00% | ~132,485 |
-| Rattle Hag | 16.00% | ~117,764 |
-| All Shells | 15.00% | ~110,404 |
+| Out of bed | 99.00% | ~728,672 |
+| The Blues | 85.00% | ~625,627 |
+| Fast | 66.00% | ~485,781 |
+| Healthbar | 55.00% | ~404,818 |
+| Force Cube | 53.00% | ~390,097 |
+| Double Jump | 48.00% | ~353,295 |
+| Regeneration | 47.00% | ~345,935 |
+| Triple Jump | 43.00% | ~316,494 |
+| Climb the hill | 42.00% | ~309,133 |
+| Through the fire pipe | 39.00% | ~287,052 |
+| MacGuffin | 38.00% | ~279,692 |
+| Just once | 37.00% | ~272,332 |
+| Armor | 30.00% | ~220,810 |
+| True holy spirit | 28.00% | ~206,089 |
+| That's how electronics work obviously | 27.00% | ~198,729 |
+| Force Cube Catapult | 25.00% | ~184,008 |
+| Holy Sword | 23.00% | ~169,287 |
+| Telefrag | 23.00% | ~169,287 |
+| Freed from prison | 21.00% | ~154,567 |
+| Stomp | 21.00% | ~154,567 |
+| Double Health | 19.00% | ~139,846 |
+| Buckle | 18.00% | ~132,486 |
+| Green Keycard | 18.00% | ~132,486 |
+| Rattle Hag | 16.00% | ~117,765 |
+| All Shells | 15.00% | ~110,405 |
 | Beam | 14.00% | ~103,044 |
 | 9 | 14.00% | ~103,044 |
 | Health Drink | 13.00% | ~95,684 |
 | Helped a star | 13.00% | ~95,684 |
 | Purple Cube | 13.00% | ~95,684 |
 | Supraball Noob | 13.00% | ~95,684 |
-| Strong | 12.00% | ~88,323 |
-| Blue King's lair | 11.00% | ~80,963 |
-| Payback | 11.00% | ~80,963 |
-| Got the coins back | 11.00% | ~80,963 |
-| Got the gun back | 11.00% | ~80,963 |
-| Infiltrated | 11.00% | ~80,963 |
-| Robbed | 11.00% | ~80,963 |
+| Strong | 12.00% | ~88,324 |
+| Blue King's lair | 11.00% | ~80,964 |
+| Payback | 11.00% | ~80,964 |
+| Got the coins back | 11.00% | ~80,964 |
+| Got the gun back | 11.00% | ~80,964 |
+| Infiltrated | 11.00% | ~80,964 |
+| Robbed | 11.00% | ~80,964 |
 | Fire Flies | 10.00% | ~73,603 |
 | Cave Flies | 10.00% | ~73,603 |
 | Gold Scam | 10.00% | ~73,603 |
@@ -51,11 +51,11 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 10.00% | ~73,603 |
 | Translocator | 10.00% | ~73,603 |
 | Yellow Shot Button | 10.00% | ~73,603 |
-| Moon Door | 9.00% | ~66,242 |
-| Momentum | 9.00% | ~66,242 |
-| Through the tiny pipe | 9.00% | ~66,242 |
-| Win! | 9.00% | ~66,242 |
-| The real real teleported man | 8.00% | ~58,882 |
+| Moon Door | 9.00% | ~66,243 |
+| Momentum | 9.00% | ~66,243 |
+| Through the tiny pipe | 9.00% | ~66,243 |
+| Win! | 9.00% | ~66,243 |
+| The real real teleported man | 8.00% | ~58,883 |
 | Well deserved | 6.00% | ~44,162 |
 | Super Sword | 4.00% | ~29,441 |
 | Happiness | 3.00% | ~22,081 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~736 |
 | DLC: Top of the world | 0.10% | ~736 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736,027 (Ranked 22)  
+Progressed: 736,032 (Ranked 22)  
 Completed: 770 (0.10%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,6 +344,7 @@ Completed: 770 (0.10%) (Ranked 296)
 | 2023-12-12 | 735,839 | 769 |
 | 2023-12-13 | 735,921 | 769 |
 | 2023-12-14 | 736,027 | 770 |
+| 2023-12-15 | 736,032 | 770 |
 ## Awards
 Max (Challenging Puzzles): 7,746  (Ranked 50)  
 Sum: 10,107 (Ranked 92)  
