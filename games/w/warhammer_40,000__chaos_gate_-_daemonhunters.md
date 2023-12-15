@@ -1,17 +1,17 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 454)  
+Rating: 4.58 (Ranked 453)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 10.00% | ~339 |
-| Watch Where You Step... | 9.00% | ~305 |
-| Look Over There! | 8.00% | ~271 |
-| Not So Fast... | 8.00% | ~271 |
-| An Ill Omen | 8.00% | ~271 |
-| Purging Spree | 7.00% | ~237 |
+| Executioner | 10.00% | ~340 |
+| Watch Where You Step... | 9.00% | ~306 |
+| Look Over There! | 8.00% | ~272 |
+| Not So Fast... | 8.00% | ~272 |
+| An Ill Omen | 8.00% | ~272 |
+| Purging Spree | 7.00% | ~238 |
 | Blood for the Blood God! | 6.00% | ~204 |
 | Bloodless | 6.00% | ~204 |
 | Honoured Battle-Brother | 4.00% | ~136 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,392 (Ranked 214)  
+Progressed: 3,396 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 3,348 | 0 |
 | 2023-12-13 | 3,351 | 0 |
 | 2023-12-14 | 3,379 | 0 |
-| 2023-12-15 | 3,392 | 0 |
+| 2023-12-15 | 3,396 | 0 |
 ## Awards
 Max (Character Customization): 227  (Ranked 279)  
 Sum: 488 (Ranked 333)  

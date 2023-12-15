@@ -6,13 +6,13 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,333 |
+| Devoured by Darkness | 27.00% | ~3,334 |
 | A Spark | 19.00% | ~2,346 |
-| Burning City | 18.00% | ~2,222 |
-| Defender's Heart | 16.00% | ~1,975 |
+| Burning City | 18.00% | ~2,223 |
+| Defender's Heart | 16.00% | ~1,976 |
 | Mythic Choices | 15.00% | ~1,852 |
-| Banner over the Citadel | 14.00% | ~1,728 |
-| Queen's Gratitude | 12.00% | ~1,481 |
+| Banner over the Citadel | 14.00% | ~1,729 |
+| Queen's Gratitude | 12.00% | ~1,482 |
 | Fifth Crusade | 9.00% | ~1,111 |
 | Embrace of the Abyss | 7.00% | ~864 |
 | Demonic and Divine | 7.00% | ~864 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,345 (Ranked 163)  
+Progressed: 12,348 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -362,10 +362,10 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 12,291 | 0 |
 | 2023-12-13 | 12,300 | 0 |
 | 2023-12-14 | 12,326 | 0 |
-| 2023-12-15 | 12,345 | 0 |
+| 2023-12-15 | 12,348 | 0 |
 ## Awards
 Max (Character Customization): 1,761  (Ranked 123)  
-Sum: 7,139 (Ranked 122)  
+Sum: 7,140 (Ranked 122)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -373,7 +373,7 @@ Diff (max vs sum): 1
 | This game is Extremely Fun | 660 |
 | This game is Highly Recommended | 654 |
 | This game has Diverse Characters | 650 |
-| This game has Amazing Characters | 645 |
+| This game has Amazing Characters | 646 |
 | This game has Amazing Storytelling | 627 |
 | This game has Challenging Combat | 596 |
 | This game has Quickly Understood Controls | 582 |
@@ -674,4 +674,4 @@ Diff (max vs sum): 1
 | 2023-12-11 | 4.76 | - | 1,759 | 7,131 |
 | 2023-12-12 | 4.76 | - | 1,759 | 7,133 |
 | 2023-12-14 | 4.76 | - | 1,761 | 7,138 |
-| 2023-12-15 | 4.76 | - | 1,761 | 7,139 |
+| 2023-12-15 | 4.76 | - | 1,761 | 7,140 |

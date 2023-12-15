@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6621,
+  "EOS_Progressed": 6626,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6852,6 +6852,11 @@
       "Time": "2023-12-15T16:05:09.6353563+00:00",
       "NumProgressed": 6621,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-15T17:04:05.1276918+00:00",
+      "NumProgressed": 6626,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6999,7 +7004,7 @@
       "Name": "Drunk and Disorderly: Stephanie",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "DoNotBurn",
@@ -7039,7 +7044,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "GoodRiddance",
@@ -7191,7 +7196,7 @@
       "Name": "Rule 34",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "PoopEnding",
@@ -7207,7 +7212,7 @@
       "Name": "Rachael",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Ronin",
@@ -7391,7 +7396,7 @@
       "Name": "Good Ol\u0027 Days",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "snapped",
@@ -7414,21 +7419,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3660,
+      "Progressed": 3665,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6621,
+      "Progressed": 6626,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:05:09.6353561+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:04:05.1276914+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.173705+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:01:06.2528056+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:05:09.6354484+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:59:32.4546234+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:04:05.1277952+00:00"
 }

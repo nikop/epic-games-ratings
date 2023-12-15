@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 3740,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3461,10 +3461,10 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18231,
+  "EOS_Progressed": 18240,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 563,
-  "EOS_NewCompleters": -5,
+  "EOS_NewPlayers": 566,
+  "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
     {
@@ -15826,6 +15826,11 @@
       "Time": "2023-12-15T16:04:31.8726853+00:00",
       "NumProgressed": 18231,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-15T17:03:38.8024067+00:00",
+      "NumProgressed": 18240,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15940,9 +15945,9 @@
       "ID": "WinImpossible",
       "SetID": "cfbk359",
       "Name": "Against All Odds",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 109
     },
     {
       "ID": "WinNearArmory",
@@ -16084,9 +16089,9 @@
       "ID": "WinNearTorrent",
       "SetID": "cfbk359",
       "Name": "Corrosive Torrent",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 146
     },
     {
       "ID": "WinNearWatchtower",
@@ -16124,9 +16129,9 @@
       "ID": "WinOnMoorlands",
       "SetID": "cfbk359",
       "Name": "The Scarlet Orchard",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 365
     },
     {
       "ID": "WinPrestige10",
@@ -16238,7 +16243,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "WinNearFrosts",
@@ -16270,7 +16275,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "WinNearPresence",
@@ -16309,15 +16314,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18231,
+      "Progressed": 18240,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-15T16:01:40.7819682+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:04:31.872685+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:03:38.8024062+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:01:40.7819686+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:04:31.8728011+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:59:56.0512171+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:03:38.8025458+00:00"
 }

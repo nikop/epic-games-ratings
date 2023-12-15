@@ -19,8 +19,8 @@
 | Pulp! Adventures into the Unknown | 13.00% | ~7 |
 | Diagnosis: fear | 13.00% | ~7 |
 | Ambition is... blind | 13.00% | ~7 |
+| You have two wishes left | 13.00% | ~7 |
 | A rival with no options | 11.00% | ~6 |
-| You have two wishes left | 11.00% | ~6 |
 | You had one wish left | 7.00% | ~4 |
 | Et in arcadia ego | 7.00% | ~4 |
 | Kirlian's best disciple | 7.00% | ~4 |

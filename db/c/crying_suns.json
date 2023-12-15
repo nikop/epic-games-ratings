@@ -4,7 +4,7 @@
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 599,
   "Ranking_Popularity": 281,
-  "Ranking_PopularitySum": 394,
+  "Ranking_PopularitySum": 395,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 145,
@@ -667,9 +667,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 472285,
+  "EOS_Progressed": 472287,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 339,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25397,6 +25397,11 @@
       "Time": "2023-12-15T16:10:40.8135275+00:00",
       "NumProgressed": 472285,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-15T17:09:32.942546+00:00",
+      "NumProgressed": 472287,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -25424,7 +25429,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113348
+      "UsersEstimate": 113349
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -25448,7 +25453,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47228
+      "UsersEstimate": 47229
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -25496,7 +25501,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311708
+      "UsersEstimate": 311709
     },
     {
       "ID": "achievement_story_landa",
@@ -25528,7 +25533,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118071
+      "UsersEstimate": 118072
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -25560,7 +25565,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51951
+      "UsersEstimate": 51952
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -25592,7 +25597,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160577
+      "UsersEstimate": 160578
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -25832,7 +25837,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207805
+      "UsersEstimate": 207806
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -25864,7 +25869,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184191
+      "UsersEstimate": 184192
     },
     {
       "ID": "achievement_win_run_hard",
@@ -26039,21 +26044,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16219,
+      "Progressed": 16221,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472285,
+      "Progressed": 472287,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-12T20:57:25.1414435+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:10:40.8135271+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:09:32.9425456+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.6716506+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:59:32.3743092+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:10:40.8137048+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:58:32.8696124+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:09:32.9427253+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "ad43401ad02840c2b2bee5f1f1a59988",
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
-  "Ranking_Rating": 719,
+  "Ranking_Rating": 720,
   "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 549,
+  "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 88,
@@ -288,9 +288,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 25141,
+  "EOS_Progressed": 25148,
   "EOS_Completed": 157,
-  "EOS_NewPlayers": 1007,
+  "EOS_NewPlayers": 1004,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -6973,6 +6973,11 @@
       "Time": "2023-12-15T16:10:28.9504248+00:00",
       "NumProgressed": 25141,
       "NumCompleted": 157
+    },
+    {
+      "Time": "2023-12-15T17:09:24.3192245+00:00",
+      "NumProgressed": 25148,
+      "NumCompleted": 157
     }
   ],
   "TotalAchievements": 24,
@@ -7008,7 +7013,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4023
+      "UsersEstimate": 4024
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -7016,7 +7021,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 5028
+      "UsersEstimate": 5030
     },
     {
       "ID": "ACH_Finale",
@@ -7112,7 +7117,7 @@
       "Name": "Sector 1",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6788
+      "UsersEstimate": 6790
     },
     {
       "ID": "ACH_Sector2",
@@ -7120,15 +7125,15 @@
       "Name": "Sector 2",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 6034
+      "UsersEstimate": 6036
     },
     {
       "ID": "ACH_Sector3",
       "SetID": "a3lf366",
       "Name": "Sector 3",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 5028
+      "UsersEstimate": 5281
     },
     {
       "ID": "ACH_Sector4",
@@ -7136,7 +7141,7 @@
       "Name": "Sector 4",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 4274
+      "UsersEstimate": 4275
     },
     {
       "ID": "ACH_Sector5",
@@ -7168,14 +7173,14 @@
       "Name": "Did That Work? -- No!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 25141,
+      "Progressed": 25148,
       "Completed": 157
     }
   ],
@@ -7183,8 +7188,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-12-11T17:59:07.2531282+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:10:28.9504243+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:09:24.3192242+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:34.026415+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:57:13.9684247+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:10:28.9504848+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:57:03.5956118+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:09:24.3192969+00:00"
 }

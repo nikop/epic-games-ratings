@@ -5,40 +5,40 @@ Rating: 4.18 (Ranked 946)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~39,082 |
-| Har, Har, Har, Very Funny | 34.00% | ~26,576 |
-| Loose Ends | 33.00% | ~25,794 |
-| To the Victor Go the Spoils | 28.00% | ~21,886 |
-| Knighthood | 27.00% | ~21,104 |
-| Get ReQ'd | 25.00% | ~19,541 |
-| Whispered Words | 24.00% | ~18,759 |
-| The Batman Family | 22.00% | ~17,196 |
-| Lock and Key | 22.00% | ~17,196 |
-| Something in the Clay | 21.00% | ~16,414 |
-| Quartzer Life Crisis | 20.00% | ~15,633 |
-| Working Hard or Harley Working? | 20.00% | ~15,633 |
-| Unstoppable Force | 20.00% | ~15,633 |
-| Bad Apples in Every Orchard | 20.00% | ~15,633 |
-| Snow Problem | 19.00% | ~14,851 |
-| The Show Mud Go On | 18.00% | ~14,070 |
-| From Inside Gotham's Walls | 18.00% | ~14,070 |
-| Protector of Gotham | 16.00% | ~12,506 |
-| Universal Health Scare | 16.00% | ~12,506 |
-| In Your Element | 15.00% | ~11,725 |
-| Voiceless | 15.00% | ~11,725 |
-| Rock and a Hard Place | 14.00% | ~10,943 |
-| Cooldown | 14.00% | ~10,943 |
-| Seeking Asylum | 14.00% | ~10,943 |
-| Not On My Watch | 13.00% | ~10,161 |
-| Shock Til They Drop | 13.00% | ~10,161 |
+| First Step Into the Knight | 50.00% | ~39,085 |
+| Har, Har, Har, Very Funny | 34.00% | ~26,578 |
+| Loose Ends | 33.00% | ~25,796 |
+| To the Victor Go the Spoils | 28.00% | ~21,888 |
+| Knighthood | 27.00% | ~21,106 |
+| Get ReQ'd | 25.00% | ~19,542 |
+| Whispered Words | 24.00% | ~18,761 |
+| The Batman Family | 22.00% | ~17,197 |
+| Lock and Key | 22.00% | ~17,197 |
+| Something in the Clay | 21.00% | ~16,416 |
+| Quartzer Life Crisis | 20.00% | ~15,634 |
+| Working Hard or Harley Working? | 20.00% | ~15,634 |
+| Unstoppable Force | 20.00% | ~15,634 |
+| Bad Apples in Every Orchard | 20.00% | ~15,634 |
+| Snow Problem | 19.00% | ~14,852 |
+| The Show Mud Go On | 18.00% | ~14,071 |
+| From Inside Gotham's Walls | 18.00% | ~14,071 |
+| Protector of Gotham | 16.00% | ~12,507 |
+| Universal Health Scare | 16.00% | ~12,507 |
+| In Your Element | 15.00% | ~11,726 |
+| Voiceless | 15.00% | ~11,726 |
+| Rock and a Hard Place | 14.00% | ~10,944 |
+| Cooldown | 14.00% | ~10,944 |
+| Seeking Asylum | 14.00% | ~10,944 |
+| Not On My Watch | 13.00% | ~10,162 |
+| Shock Til They Drop | 13.00% | ~10,162 |
 | End of an Era | 12.00% | ~9,380 |
 | Bulldozed | 12.00% | ~9,380 |
 | Gotham Knight | 12.00% | ~9,380 |
-| Gotham City Confidential | 11.00% | ~8,598 |
-| Drone You Out | 10.00% | ~7,816 |
+| Gotham City Confidential | 11.00% | ~8,599 |
+| Drone You Out | 10.00% | ~7,817 |
 | Out of Their League | 9.00% | ~7,035 |
 | Solid Alibi | 9.00% | ~7,035 |
-| Fusion Expert | 7.00% | ~5,471 |
+| Fusion Expert | 7.00% | ~5,472 |
 | Family Meeting | 6.00% | ~4,690 |
 | A Worthy Successor | 6.00% | ~4,690 |
 | Expert Crime Fighter | 5.00% | ~3,908 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 946)
 | Element of Surprise | 0.20% | ~97 |
 | It's Nice to Be Wanted | 0.20% | ~97 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,164 (Ranked 101)  
+Progressed: 78,170 (Ranked 101)  
 Completed: 126 (0.16%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,15 +306,15 @@ Completed: 126 (0.16%) (Ranked 277)
 | 2023-12-12 | 77,929 | 125 |
 | 2023-12-13 | 77,961 | 125 |
 | 2023-12-14 | 78,083 | 126 |
-| 2023-12-15 | 78,164 | 126 |
+| 2023-12-15 | 78,170 | 126 |
 ## Awards
 Max (Great Boss Battles): 3,010  (Ranked 98)  
-Sum: 5,149 (Ranked 142)  
+Sum: 5,150 (Ranked 142)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,010 |
-| This game has Diverse Characters | 272 |
+| This game has Diverse Characters | 273 |
 | This game is Great for Beginners | 270 |
 | This game is Relaxing | 269 |
 | This game is Extremely Fun | 268 |
@@ -618,4 +618,4 @@ Diff (max vs sum): -44
 | 2023-12-11 | 4.18 | 3,003 | 5,137 |
 | 2023-12-12 | 4.18 | 3,007 | 5,144 |
 | 2023-12-14 | 4.19 | 3,010 | 5,149 |
-| 2023-12-15 | 4.18 | 3,010 | 5,149 |
+| 2023-12-15 | 4.18 | 3,010 | 5,150 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -975,9 +975,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4292,
+  "EOS_Progressed": 4296,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7270,6 +7270,11 @@
       "Time": "2023-12-15T16:06:48.3325781+00:00",
       "NumProgressed": 4292,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T17:05:13.2985248+00:00",
+      "NumProgressed": 4296,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -7290,7 +7295,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1504
     },
     {
       "ID": "achievement_11",
@@ -7298,7 +7303,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "achievement_12",
@@ -7306,7 +7311,7 @@
       "Name": "Dealmaker",
       "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "achievement_13",
@@ -7314,7 +7319,7 @@
       "Name": "MVP",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1418
     },
     {
       "ID": "achievement_14",
@@ -7322,7 +7327,7 @@
       "Name": "ROTY",
       "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1632
     },
     {
       "ID": "achievement_15",
@@ -7370,7 +7375,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "achievement_20",
@@ -7378,7 +7383,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 2532
+      "UsersEstimate": 2535
     },
     {
       "ID": "achievement_21",
@@ -7394,7 +7399,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "achievement_4",
@@ -7410,15 +7415,15 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "achievement_6",
       "SetID": "aiin7da",
       "Name": "Roster Reshuffle",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1160
     },
     {
       "ID": "achievement_7",
@@ -7434,22 +7439,22 @@
       "Name": "Bragging Rights",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "achievement_9",
       "SetID": "aiin7da",
       "Name": "Future of the Franchise",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 644
+      "UsersEstimate": 687
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4292,
+      "Progressed": 4296,
       "Completed": 0
     }
   ],
@@ -7457,8 +7462,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-15T03:57:16.3875939+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:06:48.3325774+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:05:13.2985244+00:00",
   "LastUpdate_AppInfo": "2023-12-14T08:57:09.6557001+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:57:35.0136325+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:06:48.3326193+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:57:17.4815247+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:05:13.2985727+00:00"
 }

@@ -4515,10 +4515,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7139,
       "NumberOfAwardsMax": 1761
+    },
+    {
+      "Time": "2023-12-15T16:58:25.7296726+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7140,
+      "NumberOfAwardsMax": 1761
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7139,
+  "NumberOfAwards": 7140,
   "NumberOfAwardsMax": 1761,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4544,7 +4550,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 645
+      "Count": 646
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4589,9 +4595,9 @@
       "Count": 401
     }
   ],
-  "EOS_Progressed": 12345,
+  "EOS_Progressed": 12348,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16944,6 +16950,11 @@
       "Time": "2023-12-15T16:10:31.6054163+00:00",
       "NumProgressed": 12345,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T17:09:26.1299686+00:00",
+      "NumProgressed": 12348,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -16955,7 +16966,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3333
+      "UsersEstimate": 3334
     },
     {
       "ID": "02_BurningCity",
@@ -16963,7 +16974,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -16971,7 +16982,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "04_FithCrusade",
@@ -17155,7 +17166,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "28_GreatUpstart",
@@ -17203,7 +17214,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1975
+      "UsersEstimate": 1976
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -17882,21 +17893,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11127,
+      "Progressed": 11130,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12345,
+      "Progressed": 12348,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-12-15T14:58:48.3886999+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:10:31.605416+00:00",
+  "LastChanged": "2023-12-15T16:58:25.7296724+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:09:26.1299681+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:59:21.9220763+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:10:31.6055718+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:58:25.7296742+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:09:26.1301178+00:00"
 }

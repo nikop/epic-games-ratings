@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1100,
+  "EOS_Progressed": 1101,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 5.09,
   "EosHistory": [
@@ -4100,6 +4100,11 @@
       "Time": "2023-12-15T16:05:42.8768687+00:00",
       "NumProgressed": 1100,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-15T17:04:27.3377298+00:00",
+      "NumProgressed": 1101,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 25,
@@ -4269,9 +4274,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 396
     },
     {
       "ID": "PROGRESS_N2",
@@ -4310,14 +4315,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1100,
+      "Progressed": 1101,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:05:42.8768683+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:04:27.3377294+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:00:32.8627463+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:05:42.8769121+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:59:11.0775299+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:04:27.3377681+00:00"
 }

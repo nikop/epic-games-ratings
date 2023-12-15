@@ -18,7 +18,7 @@
 | Quick Pit Stop | 19.00% | ~487 |
 | Go-Faster Stripes | 17.00% | ~436 |
 | I'm Here Too! | 16.00% | ~410 |
-| We've Just Begun | 11.00% | ~282 |
+| We've Just Begun | 12.00% | ~307 |
 | Stamina Star | 9.00% | ~231 |
 | Is It the Right Size? | 9.00% | ~231 |
 | Evangelist | 6.00% | ~154 |

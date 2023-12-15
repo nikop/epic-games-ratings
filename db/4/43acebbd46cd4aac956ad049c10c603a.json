@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 989,
+  "EOS_Progressed": 990,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2522,6 +2522,11 @@
       "Time": "2023-12-15T15:06:10.9832946+00:00",
       "NumProgressed": 989,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T17:05:45.9136209+00:00",
+      "NumProgressed": 990,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2574,7 +2579,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "BreakTheLoop",
@@ -2646,7 +2651,7 @@
       "Name": "Ecstatic Truth",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Excellent",
@@ -2694,7 +2699,7 @@
       "Name": "High Plain",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "IntoTheMachine",
@@ -2732,9 +2737,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 139
     },
     {
       "ID": "Mnemosyne",
@@ -2844,9 +2849,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 109
     },
     {
       "ID": "SingleRod",
@@ -3005,7 +3010,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 989,
+      "Progressed": 990,
       "Completed": 1
     }
   ],
@@ -3013,8 +3018,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:07:35.6869845+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:05:45.9136205+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:57:02.3239265+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:07:35.6870413+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:56:55.9532664+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:05:45.9136716+00:00"
 }

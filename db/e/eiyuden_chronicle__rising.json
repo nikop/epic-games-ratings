@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 728,
+  "EOS_Progressed": 729,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.24,
+  "EOS_Completed_Percentage": 8.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -501,6 +501,11 @@
       "Time": "2023-12-15T16:08:14.4962556+00:00",
       "NumProgressed": 728,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-15T17:06:13.0883304+00:00",
+      "NumProgressed": 729,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -512,7 +517,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -520,7 +525,7 @@
       "Name": "Partners?",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -536,7 +541,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -544,7 +549,7 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -552,7 +557,7 @@
       "Name": "The Lords of the Snowpeak",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACHIEVEMENT007",
@@ -600,7 +605,7 @@
       "Name": "The Go-To Girl",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -608,7 +613,7 @@
       "Name": "The Pride of the Town",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT014",
@@ -680,7 +685,7 @@
       "Name": "Arms Master",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT023",
@@ -696,7 +701,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -704,7 +709,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -718,9 +723,9 @@
       "ID": "ACHIEVEMENT027",
       "SetID": "dejhjd5",
       "Name": "Natural Born Monster-Killer",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT028",
@@ -768,7 +773,7 @@
       "Name": "Rune Scholar",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT034",
@@ -784,7 +789,7 @@
       "Name": "First Time Fishing",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -792,7 +797,7 @@
       "Name": "First Time Hunting",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -800,7 +805,7 @@
       "Name": "Rune Wall Wreckage",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACHIEVEMENT038",
@@ -816,7 +821,7 @@
       "Name": "Meat Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACHIEVEMENT040",
@@ -824,7 +829,7 @@
       "Name": "Rune Wall Master",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACHIEVEMENT041",
@@ -911,15 +916,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 728,
+      "Progressed": 729,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:08:14.4962553+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:06:13.08833+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:23.9280041+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:59:43.6789531+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:08:14.4962953+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:58:40.1045986+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:06:13.08837+00:00"
 }

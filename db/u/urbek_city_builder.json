@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 420,
+  "EOS_Progressed": 421,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1440,6 +1440,11 @@
       "Time": "2023-12-15T10:09:47.1408712+00:00",
       "NumProgressed": 420,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T17:09:32.4275785+00:00",
+      "NumProgressed": 421,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1779,7 +1784,7 @@
       "Name": "I like parks",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -2082,7 +2087,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 420,
+      "Progressed": 421,
       "Completed": 0
     }
   ],
@@ -2090,8 +2095,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:10:40.1667234+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:09:32.4275781+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:10.3916201+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:57:45.4754049+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:10:40.1668235+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:57:24.2137499+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:09:32.4276552+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "2c8de17b8e2d4d908b63eaf751b639a3",
   "Name": "Deponia Doomsday",
   "ProductSlug": "deponia-doomsday-1848dd",
-  "Ranking_Rating": 515,
+  "Ranking_Rating": 514,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 489,
+  "EOS_Progressed": 490,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.43,
   "EosHistory": [
@@ -745,6 +745,11 @@
       "Time": "2023-12-10T17:06:13.9628761+00:00",
       "NumProgressed": 489,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-15T17:07:53.7104866+00:00",
+      "NumProgressed": 490,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 36,
@@ -826,9 +831,9 @@
       "ID": "dep4_achievement_18",
       "SetID": "5d32b60",
       "Name": "Chunky",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 245
     },
     {
       "ID": "dep4_achievement_19",
@@ -844,7 +849,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "dep4_achievement_20",
@@ -884,7 +889,7 @@
       "Name": "Thuna...?",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "dep4_achievement_25",
@@ -892,7 +897,7 @@
       "Name": "Monstrous Harassment",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "dep4_achievement_26",
@@ -916,7 +921,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "dep4_achievement_29",
@@ -932,7 +937,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "dep4_achievement_30",
@@ -962,9 +967,9 @@
       "ID": "dep4_achievement_33",
       "SetID": "5d32b60",
       "Name": "Heading the inverter",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 69
     },
     {
       "ID": "dep4_achievement_34",
@@ -996,7 +1001,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "dep4_achievement_5",
@@ -1012,7 +1017,7 @@
       "Name": "School\u0027s out",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "dep4_achievement_7",
@@ -1043,7 +1048,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 489,
+      "Progressed": 490,
       "Completed": 7
     }
   ],
@@ -1051,8 +1056,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:08:44.4709815+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:07:53.710486+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:09.7709829+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:03:16.8399461+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:08:44.4710104+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:02:48.7139257+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:07:53.710514+00:00"
 }

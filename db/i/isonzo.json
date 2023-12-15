@@ -2,12 +2,12 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 484,
+  "Ranking_Rating": 483,
   "Ranking_Popularity": 465,
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -997,9 +997,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9390,
+  "EOS_Progressed": 9391,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9347,6 +9347,11 @@
       "Time": "2023-12-15T16:09:05.7192417+00:00",
       "NumProgressed": 9390,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-15T17:08:06.9252136+00:00",
+      "NumProgressed": 9391,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9502,7 +9507,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -9526,7 +9531,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3286
+      "UsersEstimate": 3287
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -9550,7 +9555,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4319
+      "UsersEstimate": 4320
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -9606,7 +9611,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -9654,7 +9659,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -9717,7 +9722,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9390,
+      "Progressed": 9391,
       "Completed": 10
     }
   ],
@@ -9725,8 +9730,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-12T17:02:56.6362998+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:09:05.7192412+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:08:06.9252132+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:02.1312935+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:58:00.6045214+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:09:05.7192984+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:57:33.5803692+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:08:06.9252888+00:00"
 }

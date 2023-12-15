@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1951,
+  "EOS_Progressed": 1954,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1709,6 +1709,11 @@
       "Time": "2023-12-15T15:07:43.0826139+00:00",
       "NumProgressed": 1951,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T17:06:14.9505827+00:00",
+      "NumProgressed": 1954,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -1727,9 +1732,9 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "c167foo",
       "Name": "Done for Today",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -1905,7 +1910,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2096,14 +2101,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1951,
+      "Progressed": 1954,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:08:17.0497658+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:06:14.9505821+00:00",
   "LastUpdate_AppInfo": "2023-12-12T11:56:59.8157094+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:58:49.6288497+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:08:17.0498063+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:58:04.3564361+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:06:14.9506192+00:00"
 }

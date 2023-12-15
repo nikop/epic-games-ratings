@@ -1243,10 +1243,16 @@
       "Rating": 4.15,
       "NumberOfAwards": 421,
       "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2023-12-15T16:59:16.6438686+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 422,
+      "NumberOfAwardsMax": 105
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 421,
+  "NumberOfAwards": 422,
   "NumberOfAwardsMax": 105,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1296,7 +1302,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game is Relaxing",
@@ -1311,9 +1317,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 69135,
+  "EOS_Progressed": 69161,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 872,
+  "EOS_NewPlayers": 896,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12696,6 +12702,11 @@
       "Time": "2023-12-15T16:07:07.123843+00:00",
       "NumProgressed": 69135,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-12-15T17:05:26.2346642+00:00",
+      "NumProgressed": 69161,
+      "NumCompleted": 55
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -12708,7 +12719,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 24889
+      "UsersEstimate": 24898
     },
     {
       "ID": "10",
@@ -12716,7 +12727,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "11",
@@ -12724,7 +12735,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2075
     },
     {
       "ID": "12",
@@ -12732,7 +12743,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2075
     },
     {
       "ID": "13",
@@ -12748,7 +12759,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 4148
+      "UsersEstimate": 4150
     },
     {
       "ID": "15",
@@ -12772,7 +12783,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12444
+      "UsersEstimate": 12449
     },
     {
       "ID": "3",
@@ -12780,7 +12791,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8988
+      "UsersEstimate": 8991
     },
     {
       "ID": "4",
@@ -12788,7 +12799,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6914
+      "UsersEstimate": 6916
     },
     {
       "ID": "5",
@@ -12796,7 +12807,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5531
+      "UsersEstimate": 5533
     },
     {
       "ID": "6",
@@ -12804,7 +12815,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4148
+      "UsersEstimate": 4150
     },
     {
       "ID": "7",
@@ -12835,16 +12846,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 69135,
+      "Progressed": 69161,
       "Completed": 55
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-12-14T17:59:15.1323293+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:07:07.1238426+00:00",
+  "LastChanged": "2023-12-15T16:59:16.6438684+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:05:26.2346639+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:19.3364255+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:00:41.0803538+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:07:07.1239259+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:59:16.643869+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:05:26.2347291+00:00"
 }

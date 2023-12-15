@@ -6,8 +6,8 @@
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 178,
-  "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_Completed": 219,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8009,
+  "EOS_Progressed": 8012,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9151,6 +9151,11 @@
       "Time": "2023-12-15T16:07:54.4843229+00:00",
       "NumProgressed": 8009,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-15T17:05:58.7537308+00:00",
+      "NumProgressed": 8012,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9242,7 +9247,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "HISTORIAN",
@@ -9266,7 +9271,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "LIBERATOR",
@@ -9274,7 +9279,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "LIVE_WIRE",
@@ -9290,7 +9295,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "SNIP_SNIP",
@@ -9314,7 +9319,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "THING",
@@ -9329,7 +9334,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8009,
+      "Progressed": 8012,
       "Completed": 34
     }
   ],
@@ -9337,8 +9342,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:07:54.4843222+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:05:58.7537304+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:30.6418185+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:02:58.7009121+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:07:54.4843962+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:02:37.3307944+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:05:58.753796+00:00"
 }

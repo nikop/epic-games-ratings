@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 764,
+  "EOS_Progressed": 765,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3337,6 +3337,11 @@
       "Time": "2023-12-15T16:09:43.2721942+00:00",
       "NumProgressed": 764,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T17:08:32.7590527+00:00",
+      "NumProgressed": 765,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3524,7 +3529,7 @@
       "Name": "The Big Day",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "Packing20",
@@ -3548,7 +3553,7 @@
       "Name": "Home Cook",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "RecipeDifferent30",
@@ -3604,7 +3609,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "TrattoriaSet",
@@ -3612,7 +3617,7 @@
       "Name": "Italian Style",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "UnlockAssiette",
@@ -3667,7 +3672,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 764,
+      "Progressed": 765,
       "Completed": 0
     }
   ],
@@ -3675,8 +3680,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:09:43.2721937+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:08:32.7590523+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:44.3806487+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:00:35.0629026+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:09:43.2722362+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:59:13.0011665+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:08:32.7591115+00:00"
 }

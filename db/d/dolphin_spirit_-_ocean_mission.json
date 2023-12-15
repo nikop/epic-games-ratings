@@ -2,9 +2,9 @@
   "ID": "9df0882d086e4c6c97d720c796675ab3",
   "Name": "Dolphin Spirit - Ocean Mission",
   "ProductSlug": "dolphin-spirit-ocean-mission-2d0f3b",
-  "Ranking_EOS_Progress": 579,
+  "Ranking_EOS_Progress": 575,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 507,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 22,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -129,6 +129,11 @@
       "Time": "2023-12-13T20:09:47.6390212+00:00",
       "NumProgressed": 21,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T17:08:36.4953068+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-15T16:02:27.1168778+00:00",
@@ -139,7 +144,7 @@
       "ID": "ID_00",
       "SetID": "2bmd16d",
       "Name": "Amateur photographer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -163,7 +168,7 @@
       "ID": "ID_03",
       "SetID": "2bmd16d",
       "Name": "Recycling newbie",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -251,7 +256,7 @@
       "ID": "ID_14",
       "SetID": "2bmd16d",
       "Name": "New recruit",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -267,7 +272,7 @@
       "ID": "ID_16",
       "SetID": "2bmd16d",
       "Name": "Heroic member",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -331,7 +336,7 @@
       "ID": "ID_24",
       "SetID": "2bmd16d",
       "Name": "In search of knowledge",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -347,7 +352,7 @@
       "ID": "ID_26",
       "SetID": "2bmd16d",
       "Name": "Power of the turtle",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -355,7 +360,7 @@
       "ID": "ID_27",
       "SetID": "2bmd16d",
       "Name": "Power of the dolphin",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -363,7 +368,7 @@
       "ID": "ID_28",
       "SetID": "2bmd16d",
       "Name": "Power of the ray",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -379,7 +384,7 @@
       "ID": "ID_30",
       "SetID": "2bmd16d",
       "Name": "Welcome to Maupiroa",
-      "Percentage": 43,
+      "Percentage": 41,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -396,14 +401,14 @@
     {
       "ID": "2bmd16d",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 22,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-01T15:03:13.0719146+00:00",
   "FirstSeenAchievements": "2023-09-07T16:08:09.7966951+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:09:48.7667955+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:08:36.4953064+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:10.8382997+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:01:37.1865919+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:09:48.7668156+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:59:53.711827+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:08:36.4953241+00:00"
 }

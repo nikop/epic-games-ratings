@@ -1,24 +1,24 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.56 (Ranked 498)  
+Rating: 4.56 (Ranked 497)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~11,738 |
-| Pay 'n' Spray | 51.00% | ~7,390 |
-| All Dressed Up for San Fierro | 26.00% | ~3,768 |
-| The American Dream | 20.00% | ~2,898 |
-| School's Out | 19.00% | ~2,753 |
-| Smooth Moves | 17.00% | ~2,463 |
-| What happens in Las Venturas... | 15.00% | ~2,174 |
-| Today Was a Good Day | 15.00% | ~2,174 |
-| Horror of the Santa Maria | 11.00% | ~1,594 |
-| Liberty City State of Mind | 10.00% | ~1,449 |
-| The End of the Line | 8.00% | ~1,159 |
-| Original Gangster | 8.00% | ~1,159 |
-| With Extra Dip | 7.00% | ~1,014 |
-| Saviour | 6.00% | ~869 |
+| Getting Started | 81.00% | ~11,743 |
+| Pay 'n' Spray | 51.00% | ~7,393 |
+| All Dressed Up for San Fierro | 26.00% | ~3,769 |
+| The American Dream | 20.00% | ~2,899 |
+| School's Out | 19.00% | ~2,754 |
+| Smooth Moves | 17.00% | ~2,464 |
+| What happens in Las Venturas... | 15.00% | ~2,175 |
+| Today Was a Good Day | 15.00% | ~2,175 |
+| Horror of the Santa Maria | 11.00% | ~1,595 |
+| Liberty City State of Mind | 10.00% | ~1,450 |
+| The End of the Line | 8.00% | ~1,160 |
+| Original Gangster | 8.00% | ~1,160 |
+| With Extra Dip | 7.00% | ~1,015 |
+| Saviour | 6.00% | ~870 |
 | They Can’t Stop All of Us | 5.00% | ~725 |
 | Rescue a Kitten Too? | 5.00% | ~725 |
 | What are the Odds | 4.00% | ~580 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 498)
 | ...Here we go again | 0.50% | ~72 |
 | I Ain't No Buster | 0.40% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,491 (Ranked 158)  
+Progressed: 14,497 (Ranked 158)  
 Completed: 58 (0.40%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 58 (0.40%) (Ranked 224)
 | 2023-12-12 | 13,961 | 57 |
 | 2023-12-13 | 14,007 | 57 |
 | 2023-12-14 | 14,291 | 58 |
-| 2023-12-15 | 14,491 | 58 |
+| 2023-12-15 | 14,497 | 58 |
 ## Awards
 Max (Great Boss Battles): 444  (Ranked 226)  
 Sum: 729 (Ranked 296)  

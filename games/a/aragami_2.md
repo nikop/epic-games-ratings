@@ -1,20 +1,20 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.56 (Ranked 498)  
+Rating: 4.56 (Ranked 497)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Awakening | 93.00% | ~41,219 |
-| First Steps | 80.00% | ~35,457 |
-| Control the Shadows | 67.00% | ~29,695 |
-| Tools of the Trade | 63.00% | ~27,922 |
+| First Steps | 80.00% | ~35,458 |
+| Control the Shadows | 67.00% | ~29,696 |
+| Tools of the Trade | 63.00% | ~27,923 |
 | Apprentice | 60.00% | ~26,593 |
-| Secret Seeker | 57.00% | ~25,263 |
+| Secret Seeker | 57.00% | ~25,264 |
 | Forge of Assassins | 55.00% | ~24,377 |
 | Revenant | 52.00% | ~23,047 |
-| I don’t Care! | 45.00% | ~19,944 |
+| I don’t Care! | 45.00% | ~19,945 |
 | Bird of Prey | 37.00% | ~16,399 |
 | Engraved with Power | 32.00% | ~14,183 |
 | Lady | 31.00% | ~13,740 |
@@ -25,8 +25,8 @@ Number of Ratings: 88  (23.09.2022)
 | Wall Lizard | 20.00% | ~8,864 |
 | Clinging to Life | 18.00% | ~7,978 |
 | Burning | 17.00% | ~7,535 |
-| Look Behind You | 16.00% | ~7,091 |
-| Sleeping on the Job | 16.00% | ~7,091 |
+| Look Behind You | 16.00% | ~7,092 |
+| Sleeping on the Job | 16.00% | ~7,092 |
 | Family | 14.00% | ~6,205 |
 | War Engines | 14.00% | ~6,205 |
 | Signature Move | 14.00% | ~6,205 |
@@ -38,7 +38,7 @@ Number of Ratings: 88  (23.09.2022)
 | The Hidden Village | 9.00% | ~3,989 |
 | Denouement | 8.00% | ~3,546 |
 | A Pleasant Stay | 8.00% | ~3,546 |
-| Pilgrimage | 7.00% | ~3,102 |
+| Pilgrimage | 7.00% | ~3,103 |
 | The Lookout | 5.00% | ~2,216 |
 | The Spirit of Vengeance | 5.00% | ~2,216 |
 | Hollow | 5.00% | ~2,216 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~886 |
 | Legacy | 2.00% | ~886 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,321 (Ranked 117)  
+Progressed: 44,322 (Ranked 117)  
 Completed: 245 (0.55%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 245 (0.55%) (Ranked 202)
 | 2023-12-12 | 44,300 | 245 |
 | 2023-12-13 | 44,304 | 245 |
 | 2023-12-14 | 44,318 | 245 |
-| 2023-12-15 | 44,321 | 245 |
+| 2023-12-15 | 44,322 | 245 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

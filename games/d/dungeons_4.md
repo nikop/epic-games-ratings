@@ -8,7 +8,7 @@
 | Thalya – Simply Immortal | 89.00% | ~499 |
 | For the Horde! | 83.00% | ~466 |
 | Hammer Time, Round Two | 81.00% | ~454 |
-| The Hellwoods | 76.00% | ~426 |
+| The Hellwoods | 77.00% | ~432 |
 | The Plains of Strothalm | 71.00% | ~398 |
 | Experienced Thalya | 71.00% | ~398 |
 | Bad Elves Go Everywhere | 69.00% | ~387 |
@@ -16,7 +16,7 @@
 | Heroes’ Gorge | 65.00% | ~365 |
 | Master of Magic | 64.00% | ~359 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~348 |
-| Magic Accidents | 59.00% | ~331 |
+| Magic Accidents | 60.00% | ~337 |
 | The Ascent | 58.00% | ~325 |
 | It's Warm and Cozy at Home | 58.00% | ~325 |
 | Trap Master | 55.00% | ~309 |
@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 7.00% | ~39 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 561 (Ranked 312)  
-Completed: 17 (3.03%) (Ranked 106)  
+Completed: 17 (3.03%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

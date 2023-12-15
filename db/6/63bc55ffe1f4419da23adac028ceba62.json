@@ -2,9 +2,9 @@
   "ID": "63bc55ffe1f4419da23adac028ceba62",
   "Name": "Christmas Wonderland Collectors Edition",
   "ProductSlug": "christmas-wonderland-collectors-edition-44d7da",
-  "Ranking_EOS_Progress": 797,
+  "Ranking_EOS_Progress": 798,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 507,
+  "Ranking_EOS_NewPlayers": 509,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-12-14T08:00:00+00:00",
@@ -21,6 +21,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -32,7 +34,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2023-12-15T16:57:50.1752345+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:12.0884654+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:58:27.354694+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:07:12.9512299+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:57:50.1752579+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:05:30.2903664+00:00"
 }

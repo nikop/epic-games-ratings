@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 989,
+  "EOS_Progressed": 990,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3799,6 +3799,11 @@
       "Time": "2023-12-15T15:09:52.0104278+00:00",
       "NumProgressed": 989,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T17:09:30.7354183+00:00",
+      "NumProgressed": 990,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3818,7 +3823,7 @@
       "Name": "Active Pause",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "BasicControls",
@@ -3826,7 +3831,7 @@
       "Name": "Basic Controls",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "BigPlane",
@@ -3834,7 +3839,7 @@
       "Name": "Expensive Plane",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "BudgetFlight",
@@ -3906,7 +3911,7 @@
       "Name": "Game Started",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "FullCompletion",
@@ -3922,7 +3927,7 @@
       "Name": "One Hundred",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Incredible",
@@ -3946,7 +3951,7 @@
       "Name": "Large Airport",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "LargeTerritories",
@@ -4026,7 +4031,7 @@
       "Name": "No Way Back",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "NotPlanned",
@@ -4145,14 +4150,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 989,
+      "Progressed": 990,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:10:37.8276178+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:09:30.7354179+00:00",
   "LastUpdate_AppInfo": "2023-12-12T19:56:58.9295156+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:00:09.7085857+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:10:37.8276711+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:58:56.2213129+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:09:30.735466+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 972,
+  "EOS_Progressed": 973,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2639,6 +2639,11 @@
       "Time": "2023-12-15T16:10:16.65462+00:00",
       "NumProgressed": 972,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-15T17:09:15.7892017+00:00",
+      "NumProgressed": 973,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2656,9 +2661,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 204
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2698,7 +2703,7 @@
       "Name": "Like Clockwork",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ClovemaryGift",
@@ -2730,7 +2735,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "EntresolChests1",
@@ -2738,7 +2743,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -2778,7 +2783,7 @@
       "Name": "The Betrayer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2810,7 +2815,7 @@
       "Name": "Rail Rat",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "HexlockGift",
@@ -2848,9 +2853,9 @@
       "ID": "MapCompletion1",
       "SetID": "a9e499d",
       "Name": "Cartographer",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 136
     },
     {
       "ID": "NoCritterSump",
@@ -2938,7 +2943,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "RewindParry",
@@ -3056,9 +3061,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 224
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3073,7 +3078,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 972,
+      "Progressed": 973,
       "Completed": 6
     }
   ],
@@ -3081,8 +3086,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:10:16.6546194+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:09:15.789201+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:02:38.0117344+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:10:16.6546882+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:02:24.2041576+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:09:15.7892541+00:00"
 }

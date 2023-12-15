@@ -3747,9 +3747,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32273,
+  "EOS_Progressed": 32275,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -22397,6 +22397,11 @@
       "Time": "2023-12-15T16:07:53.8224912+00:00",
       "NumProgressed": 32273,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-15T17:05:58.4465238+00:00",
+      "NumProgressed": 32275,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -22424,7 +22429,7 @@
       "Name": "Back Off",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "Best_Insurance",
@@ -22464,7 +22469,7 @@
       "Name": "Collector",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "Cultured",
@@ -22528,7 +22533,7 @@
       "Name": "Escape Artist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "Fragile_Panes",
@@ -22640,7 +22645,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "Rift_Seeker",
@@ -22672,7 +22677,7 @@
       "Name": "Seasoned",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "Side_Hustle",
@@ -22688,7 +22693,7 @@
       "Name": "Skilled",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "Solo_Capture",
@@ -22704,7 +22709,7 @@
       "Name": "Stunner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "Stylish",
@@ -22776,7 +22781,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "Ultimate_Defense",
@@ -22800,7 +22805,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "Whoopsie",
@@ -22815,7 +22820,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32273,
+      "Progressed": 32275,
       "Completed": 69
     }
   ],
@@ -22823,8 +22828,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-15T07:01:21.9898413+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:07:53.8224907+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:05:58.4465234+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:16.7242615+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:01:41.7634948+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:07:53.8225872+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:59:56.6891755+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:05:58.4466453+00:00"
 }

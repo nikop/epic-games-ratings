@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 399,
+  "EOS_Progressed": 400,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1249,6 +1249,11 @@
       "Time": "2023-12-15T16:04:29.0695789+00:00",
       "NumProgressed": 399,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T17:03:36.7688131+00:00",
+      "NumProgressed": 400,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1325,7 +1330,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "REMAKE_004",
@@ -1333,7 +1338,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "Remake_005",
@@ -1484,14 +1489,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 399,
+      "Progressed": 400,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:04:29.0695786+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:03:36.7688126+00:00",
   "LastUpdate_AppInfo": "2023-12-11T23:56:59.5421023+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:00:39.9558048+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:04:29.069609+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:59:16.1085437+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:03:36.7688613+00:00"
 }

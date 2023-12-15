@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1824,
+  "EOS_Progressed": 1828,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2557,6 +2557,11 @@
       "Time": "2023-12-15T15:05:32.9174753+00:00",
       "NumProgressed": 1824,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T17:05:12.0309895+00:00",
+      "NumProgressed": 1828,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2592,7 +2597,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Achievement_006",
@@ -2632,7 +2637,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Achievement_011",
@@ -2688,7 +2693,7 @@
       "Name": "Bad Wiring",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Achievement_018",
@@ -2752,7 +2757,7 @@
       "Name": "Grounded",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Achievement_026",
@@ -2774,9 +2779,9 @@
       "ID": "Achievement_028",
       "SetID": "6b34g18",
       "Name": "You Clean It Up",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement_029",
@@ -2784,7 +2789,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Achievement_030",
@@ -2872,7 +2877,7 @@
       "Name": "Heart Attack",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Achievement_041",
@@ -2904,7 +2909,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Achievement_046",
@@ -3095,7 +3100,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1824,
+      "Progressed": 1828,
       "Completed": 0
     }
   ],
@@ -3103,8 +3108,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-10T01:51:29.5345174+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:06:46.3309727+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:05:12.030989+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:19.3114561+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:59:06.0458747+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:06:46.331046+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:58:15.2607821+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:05:12.0310434+00:00"
 }

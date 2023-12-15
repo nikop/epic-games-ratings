@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 60.00% | ~380 |
-| The Teleprobe | 47.00% | ~298 |
-| The City | 42.00% | ~266 |
-| The field base | 39.00% | ~247 |
-| Survivors | 34.00% | ~215 |
-| The Condor | 32.00% | ~203 |
-| The End | 31.00% | ~196 |
-| The Alliance | 26.00% | ~165 |
-| The Necroevolution | 25.00% | ~158 |
-| Krauta is alive | 22.00% | ~139 |
-| Peacemaker | 21.00% | ~133 |
-| Volcanologist | 19.00% | ~120 |
-| On her own | 18.00% | ~114 |
-| Evacuation | 16.00% | ~101 |
-| Beyond divisions | 16.00% | ~101 |
-| Fierce fight | 15.00% | ~95 |
+| The Camp | 60.00% | ~383 |
+| The Teleprobe | 47.00% | ~300 |
+| The City | 42.00% | ~268 |
+| The field base | 39.00% | ~249 |
+| Survivors | 34.00% | ~217 |
+| The Condor | 32.00% | ~204 |
+| The End | 30.00% | ~191 |
+| The Alliance | 26.00% | ~166 |
+| The Necroevolution | 25.00% | ~160 |
+| Krauta is alive | 22.00% | ~140 |
+| Peacemaker | 21.00% | ~134 |
+| Volcanologist | 19.00% | ~121 |
+| On her own | 18.00% | ~115 |
+| Evacuation | 16.00% | ~102 |
+| Beyond divisions | 16.00% | ~102 |
+| Fierce fight | 15.00% | ~96 |
 | Flying Objects Operator | 14.00% | ~89 |
-| I remember everything! | 12.00% | ~76 |
-| Another giant | 10.00% | ~63 |
+| I remember everything! | 12.00% | ~77 |
+| Another giant | 10.00% | ~64 |
 | Violent solution | 9.00% | ~57 |
 | Innate curiosity | 8.00% | ~51 |
 | I leave no man behind | 6.00% | ~38 |
 | Strong objection | 6.00% | ~38 |
 | The Invincible | 5.00% | ~32 |
-| Ubiquitous holes | 4.00% | ~25 |
-| Got lost again | 4.00% | ~25 |
+| Ubiquitous holes | 4.00% | ~26 |
+| Got lost again | 4.00% | ~26 |
 | I leave no man behind (no exceptions) | 2.00% | ~13 |
 | Convoy list | 0.80% | ~5 |
 | No more mistakes | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 633 (Ranked 301)  
+Progressed: 638 (Ranked 301)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,4 +74,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 551 | 0 |
 | 2023-12-13 | 561 | 0 |
 | 2023-12-14 | 605 | 0 |
-| 2023-12-15 | 633 | 0 |
+| 2023-12-15 | 638 | 0 |

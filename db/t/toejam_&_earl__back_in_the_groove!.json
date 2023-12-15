@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58248,
+  "EOS_Progressed": 58250,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14131,6 +14131,11 @@
       "Time": "2023-12-15T15:04:48.75692+00:00",
       "NumProgressed": 58248,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-15T17:04:32.2353695+00:00",
+      "NumProgressed": 58250,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -14302,7 +14307,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1747
+      "UsersEstimate": 1748
     },
     {
       "ID": "IsThisPossible",
@@ -14326,7 +14331,7 @@
       "Name": "Beaten By A Little Girl",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "LordOfHFZ",
@@ -14478,7 +14483,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4077
+      "UsersEstimate": 4078
     },
     {
       "ID": "TimelySplash",
@@ -14486,7 +14491,7 @@
       "Name": "A Timely Splash",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1747
+      "UsersEstimate": 1748
     },
     {
       "ID": "TotalBummer",
@@ -14494,7 +14499,7 @@
       "Name": "Totally Bummed Again",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "TrulyEvil",
@@ -14533,7 +14538,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58248,
+      "Progressed": 58250,
       "Completed": 6
     }
   ],
@@ -14541,8 +14546,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:05:50.0196933+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:04:32.2353691+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:54.7796961+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:58:23.6834463+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:05:50.0198109+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:57:47.923446+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:04:32.23548+00:00"
 }

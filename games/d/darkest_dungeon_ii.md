@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~132 |
+| Malpractice Assurance | 6.00% | ~133 |
 | This guy... again? | 3.00% | ~66 |
 | Lost and Found | 3.00% | ~66 |
 | This Belongs in a Museum | 2.00% | ~2,547 |
@@ -31,12 +31,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 1.00% | ~1,273 |
 | Friends 'Til the End | 1.00% | ~22 |
 | Dissector | 0.90% | ~1,146 |
+| Deprogramming | 0.90% | ~1,146 |
 | Harvest Festival | 0.90% | ~1,146 |
 | Whale | 0.90% | ~1,146 |
+| Worldly Traveller | 0.90% | ~1,146 |
 | Banishment | 0.80% | ~1,019 |
-| Deprogramming | 0.80% | ~1,019 |
 | Spelunker | 0.80% | ~1,019 |
-| Worldly Traveller | 0.80% | ~1,019 |
 | Road Trip | 0.80% | ~1,019 |
 | Resurrection | 0.70% | ~891 |
 | Unleash Hell | 0.70% | ~891 |
@@ -67,13 +67,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 0.30% | ~382 |
 | Maître De La Lame | 0.30% | ~7 |
 | A Life Well Lived | 0.20% | ~255 |
+| The World As It Was | 0.20% | ~255 |
 | Clearing the Ledger | 0.20% | ~255 |
 | Bacon Bits | 0.20% | ~255 |
 | Hat Trick | 0.20% | ~255 |
 | Triage | 0.20% | ~255 |
 | Eidetic | 0.20% | ~255 |
 | Battle Hardened | 0.20% | ~4 |
-| The World As It Was | 0.10% | ~127 |
 | Loop Year | 0.10% | ~127 |
 | Circle of Life | 0.10% | ~127 |
 | No Gravestone Left Unturned | 0.10% | ~127 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,337 (Ranked 84)  
+Progressed: 127,346 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-12 | 126,469 | 2 |
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
-| 2023-12-15 | 127,337 | 3 |
+| 2023-12-15 | 127,346 | 3 |
 ## Awards
 Max (Character Customization): 7,718  (Ranked 51)  
 Sum: 20,498 (Ranked 59)  

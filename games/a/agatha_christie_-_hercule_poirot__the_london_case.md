@@ -41,14 +41,14 @@
 | The Secrets | 18.00% | ~8 |
 | Well-travelled | 16.00% | ~7 |
 | A peculiar fellow | 16.00% | ~7 |
+| Florence Farquhar | 16.00% | ~7 |
 | Mortimer Ailsworth | 16.00% | ~7 |
+| The Investigation Starts Anew | 16.00% | ~7 |
+| The Denouement | 14.00% | ~6 |
+| A treasured heirloom | 14.00% | ~6 |
 | A perilous journey | 14.00% | ~6 |
-| Florence Farquhar | 14.00% | ~6 |
-| The Investigation Starts Anew | 14.00% | ~6 |
-| The Denouement | 11.00% | ~5 |
-| A treasured heirloom | 11.00% | ~5 |
-| The Penitent Magdalene | 11.00% | ~5 |
-| A true performance | 11.00% | ~5 |
+| The Penitent Magdalene | 14.00% | ~6 |
+| A true performance | 14.00% | ~6 |
 | Perkins | 7.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 44 (Ranked 525)  

@@ -1,40 +1,40 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.58 (Ranked 454)  
+Rating: 4.58 (Ranked 453)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~747 |
-| To Hell In A Handcart | 62.00% | ~735 |
-| High Profile | 54.00% | ~640 |
+| Read Between The Lines | 63.00% | ~748 |
+| To Hell In A Handcart | 61.00% | ~724 |
+| High Profile | 54.00% | ~641 |
 | Whispers In The Dark | 51.00% | ~605 |
-| Fond Memories | 49.00% | ~581 |
-| A Method To His Madness | 47.00% | ~557 |
+| Fond Memories | 49.00% | ~582 |
+| A Method To His Madness | 47.00% | ~558 |
 | History Check | 46.00% | ~546 |
 | The New World | 44.00% | ~522 |
 | Gaze Into The Abyss | 43.00% | ~510 |
 | Open Sesame | 43.00% | ~510 |
 | Sticky Fingers | 43.00% | ~510 |
-| Lock, Stock, And Barrel | 42.00% | ~498 |
-| Knives Out | 42.00% | ~498 |
-| Back In The Saddle | 41.00% | ~486 |
-| Land, Ho! | 41.00% | ~486 |
-| No Man Is An Island | 40.00% | ~474 |
+| Lock, Stock, And Barrel | 42.00% | ~499 |
+| Knives Out | 42.00% | ~499 |
+| Back In The Saddle | 41.00% | ~487 |
+| Land, Ho! | 41.00% | ~487 |
+| No Man Is An Island | 40.00% | ~475 |
 | At Wits' End | 39.00% | ~463 |
-| Fhtagn! | 38.00% | ~451 |
 | Up In Flames | 37.00% | ~439 |
+| Fhtagn! | 37.00% | ~439 |
 | Bookworm | 36.00% | ~427 |
 | Going Once... | 35.00% | ~415 |
-| Let Me Be Frank | 33.00% | ~391 |
+| Let Me Be Frank | 33.00% | ~392 |
 | No Stone Unturned | 31.00% | ~368 |
 | Brain Food | 30.00% | ~356 |
-| Curiosity Killed The Cat | 18.00% | ~213 |
-| Read It And Weep | 18.00% | ~213 |
+| Curiosity Killed The Cat | 18.00% | ~214 |
+| Read It And Weep | 18.00% | ~214 |
 | Big Breakthrough | 12.00% | ~142 |
 | Reawakened | 3.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,186 (Ranked 258)  
+Progressed: 1,187 (Ranked 259)  
 Completed: 31 (2.61%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 31 (2.61%) (Ranked 119)
 | 2023-12-12 | 1,134 | 30 |
 | 2023-12-13 | 1,149 | 31 |
 | 2023-12-14 | 1,174 | 31 |
-| 2023-12-15 | 1,186 | 31 |
+| 2023-12-15 | 1,187 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,10 +4,10 @@
   "ProductSlug": "the-surge",
   "Ranking_Rating": 698,
   "Ranking_Popularity": 507,
-  "Ranking_PopularitySum": 523,
+  "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4891,
+  "EOS_Progressed": 4892,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3471,6 +3471,11 @@
       "Time": "2023-12-15T15:03:59.6495718+00:00",
       "NumProgressed": 4891,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-15T17:03:48.6823225+00:00",
+      "NumProgressed": 4892,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3530,7 +3535,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 4157
+      "UsersEstimate": 4158
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3546,7 +3551,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3766
+      "UsersEstimate": 3767
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -3698,7 +3703,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3766
+      "UsersEstimate": 3767
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3730,7 +3735,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2690
+      "UsersEstimate": 2691
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -3770,7 +3775,7 @@
       "Name": "I Choose You",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -3802,7 +3807,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -3866,7 +3871,7 @@
       "Name": "Carbon Cat",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ID_ACHIEV_51",
@@ -4017,15 +4022,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4891,
+      "Progressed": 4892,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:04:45.8718089+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:03:48.6823221+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.6535047+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:01:26.5984944+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:04:45.8719051+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:59:46.3431362+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:03:48.68239+00:00"
 }

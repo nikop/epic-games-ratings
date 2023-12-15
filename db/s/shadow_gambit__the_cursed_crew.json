@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -149,9 +149,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1158,
+  "EOS_Progressed": 1159,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.76,
   "EosHistory": [
@@ -3884,6 +3884,11 @@
       "Time": "2023-12-15T16:06:29.0213796+00:00",
       "NumProgressed": 1158,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-15T17:04:59.9715611+00:00",
+      "NumProgressed": 1159,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3904,7 +3909,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "_03_FinishAct1",
@@ -3912,7 +3917,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3928,7 +3933,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3944,7 +3949,7 @@
       "Name": "All Good Things",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "_08_Completion_10",
@@ -3952,7 +3957,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "_09_Completion_20",
@@ -3992,7 +3997,7 @@
       "Name": "Corsair",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "_14_Completion_70",
@@ -4024,7 +4029,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4103,7 +4108,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1158,
+      "Progressed": 1159,
       "Completed": 32
     }
   ],
@@ -4111,8 +4116,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:06:29.0213792+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:04:59.9715607+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:59:51.2950002+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:06:29.0214171+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:58:45.1309416+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:04:59.9715932+00:00"
 }

@@ -8,7 +8,7 @@
 | Home Sweet Home | 88.00% | ~45 |
 | First to the post | 86.00% | ~44 |
 | A kind of Magic | 82.00% | ~42 |
-| Connected | 75.00% | ~38 |
+| Connected | 76.00% | ~39 |
 | Expansion | 73.00% | ~37 |
 | Harvest Time | 65.00% | ~33 |
 | Mine! | 65.00% | ~33 |
@@ -23,8 +23,8 @@
 | Friend of Sevenkeeps | 27.00% | ~14 |
 | Bad JuJu | 27.00% | ~14 |
 | Slave to the rhythm | 25.00% | ~13 |
-| Castle Meldec | 20.00% | ~10 |
-| Sevenkeeps Seat of Kings | 20.00% | ~10 |
+| Castle Meldec | 22.00% | ~11 |
+| Sevenkeeps Seat of Kings | 22.00% | ~11 |
 | Friend of Gillyshire | 18.00% | ~9 |
 | Friend of Connach | 18.00% | ~9 |
 | Friend of Alluvyan | 16.00% | ~8 |

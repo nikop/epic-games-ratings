@@ -6,8 +6,8 @@
   "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 249,
-  "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_Completed": 311,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1366,
+  "EOS_Progressed": 1369,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3253,6 +3253,11 @@
       "Time": "2023-12-15T13:15:35.4342236+00:00",
       "NumProgressed": 1366,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-15T17:09:22.9577414+00:00",
+      "NumProgressed": 1369,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3264,7 +3269,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -3320,7 +3325,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1355
     },
     {
       "ID": "EXPERT_1",
@@ -3350,9 +3355,9 @@
       "ID": "GRAVE_DIGGER_1",
       "SetID": "bf13m8j",
       "Name": "Grave Robber",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 246
     },
     {
       "ID": "HEAD_BURST_1",
@@ -3390,9 +3395,9 @@
       "ID": "LOVE_GURU_1",
       "SetID": "bf13m8j",
       "Name": "Love Guru",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 123
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -3416,7 +3421,7 @@
       "Name": "One HIT wonder",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3424,7 +3429,7 @@
       "Name": "One shot, one kill",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "PACIFIST",
@@ -3438,9 +3443,9 @@
       "ID": "PARANOIA",
       "SetID": "bf13m8j",
       "Name": "Paranoia",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 205
     },
     {
       "ID": "PRIVATE_EYE",
@@ -3448,7 +3453,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -3470,9 +3475,9 @@
       "ID": "ROBOT_DEAD",
       "SetID": "bf13m8j",
       "Name": "It was worth a shot",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "SACRIFICE_1",
@@ -3512,7 +3517,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "TRAVELER_1",
@@ -3536,7 +3541,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "WISHMASTER_1",
@@ -3551,15 +3556,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1366,
+      "Progressed": 1369,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:10:27.1343309+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:09:22.9577408+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.8327471+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:59:58.2970673+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:10:27.1343661+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:58:49.7508533+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:09:22.9577805+00:00"
 }

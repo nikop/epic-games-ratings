@@ -2,12 +2,12 @@
   "ID": "24285307a56445f1bc5d546df7af3025",
   "Name": "Sins of a Solar Empire 2",
   "ProductSlug": "sins-of-a-solar-empire-ii",
-  "Ranking_Rating": 498,
-  "Ranking_Popularity": 512,
-  "Ranking_PopularitySum": 476,
-  "Ranking_EOS_Progress": 797,
+  "Ranking_Rating": 497,
+  "Ranking_Popularity": 507,
+  "Ranking_PopularitySum": 474,
+  "Ranking_EOS_Progress": 798,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 507,
+  "Ranking_EOS_NewPlayers": 509,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-10-27T17:00:00+00:00",
@@ -325,18 +325,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 70,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-12-15T16:59:14.2765225+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 71,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 70,
-  "NumberOfAwardsMax": 28,
+  "NumberOfAwards": 71,
+  "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Highly Recommended",
@@ -363,8 +369,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T20:00:58.3635967+00:00",
   "FirstSeenRating": "2022-10-28T20:01:29.0144781+00:00",
-  "LastChanged": "2023-12-09T15:59:55.935528+00:00",
+  "LastChanged": "2023-12-15T16:59:14.2765224+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:50.4552475+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:00:36.9447905+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:05:19.1700178+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:59:14.2765228+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:04:11.3790758+00:00"
 }

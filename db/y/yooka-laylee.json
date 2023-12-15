@@ -3,11 +3,11 @@
   "Name": "Yooka-Laylee",
   "ProductSlug": "yooka-laylee",
   "Ranking_Rating": 890,
-  "Ranking_Popularity": 531,
+  "Ranking_Popularity": 532,
   "Ranking_PopularitySum": 452,
-  "Ranking_EOS_Progress": 797,
+  "Ranking_EOS_Progress": 798,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 507,
+  "Ranking_EOS_NewPlayers": 509,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-08-19T15:00:00+00:00",
@@ -647,6 +647,6 @@
   "FirstSeen": "2022-07-22T20:17:33.9300447+00:00",
   "LastChanged": "2023-12-13T18:01:31.5639615+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:29.7190707+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:02:44.1534143+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:04:19.4018929+00:00"
+  "LastUpdate_Ratings": "2023-12-15T17:02:27.9566303+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:03:30.0149154+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "death-crown-b2f5cd",
   "Ranking_EOS_Progress": 588,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-08-22T23:00:00+00:00",
@@ -256,9 +256,9 @@
       "ID": "Pass_Tutorial",
       "SetID": "cla1dpp",
       "Name": "First time here?",
-      "Percentage": 60,
+      "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "PvP_Mission",
@@ -327,8 +327,8 @@
   ],
   "FirstSeen": "2023-10-24T18:58:49.6745587+00:00",
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:09:47.6643208+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:08:35.6830122+00:00",
   "LastUpdate_AppInfo": "2023-12-14T01:44:00.5789104+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:57:20.4695355+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:09:47.6643321+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:57:07.7482455+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:08:35.6830255+00:00"
 }

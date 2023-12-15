@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -651,9 +651,9 @@
       "ID": "interactChest10",
       "SetID": "ci65fo0",
       "Name": "Chests lover",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "killBoxes50",
@@ -1168,8 +1168,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:09:48.0079999+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:08:35.948447+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.21897+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:01:34.3482979+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:09:48.0080692+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:59:51.8902833+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:08:35.9485072+00:00"
 }

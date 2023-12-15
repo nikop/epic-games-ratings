@@ -5,56 +5,56 @@ Rating: 4.64 (Ranked 338)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 94.00% | ~3,369 |
-| Welcome Aboard | 79.00% | ~2,831 |
-| Lab Rat | 61.00% | ~2,186 |
-| All Systems Go | 50.00% | ~1,792 |
-| Brute Force | 48.00% | ~1,720 |
-| Raise the Stakes | 47.00% | ~1,684 |
-| Cannon Fodder | 44.00% | ~1,577 |
-| Autofire | 42.00% | ~1,505 |
-| True Believer | 40.00% | ~1,434 |
-| Story Teller | 39.00% | ~1,398 |
-| Surgeon | 37.00% | ~1,326 |
-| Freeze | 36.00% | ~1,290 |
-| Exterminator | 36.00% | ~1,290 |
-| Greenhouse Effect | 36.00% | ~1,290 |
-| S.O.S. | 32.00% | ~1,147 |
-| Full Arsenal | 31.00% | ~1,111 |
-| Get Off My Ship! | 30.00% | ~1,075 |
-| Strange Transmissions | 30.00% | ~1,075 |
-| Live with the Hot Ones | 29.00% | ~1,039 |
-| Wreckage | 29.00% | ~1,039 |
-| Keeper of the Faith | 27.00% | ~968 |
-| Betrayed | 26.00% | ~932 |
-| Mindless Prey | 26.00% | ~932 |
-| Exodus | 25.00% | ~896 |
-| Legend Teller | 25.00% | ~896 |
-| There's Always Peng! | 25.00% | ~896 |
-| A Cut Above | 23.00% | ~824 |
-| Front Toward Enemy | 23.00% | ~824 |
-| Set A Benchmark | 20.00% | ~717 |
-| Whole Again | 19.00% | ~681 |
-| Full Contact | 18.00% | ~645 |
-| Final Regeneration | 17.00% | ~609 |
-| Pack Rat | 17.00% | ~609 |
-| Full Clearance | 17.00% | ~609 |
-| Pusher | 15.00% | ~538 |
-| Z-Baller | 15.00% | ~538 |
-| Marked | 14.00% | ~502 |
-| Eviscerator | 13.00% | ~466 |
-| Backbreaker | 10.00% | ~358 |
-| Wishbone | 6.00% | ~215 |
-| Trusted Contractor | 5.00% | ~179 |
-| Built To Order | 4.00% | ~143 |
-| Merchant | 3.00% | ~108 |
+| Marksman | 94.00% | ~3,403 |
+| Welcome Aboard | 79.00% | ~2,860 |
+| Lab Rat | 61.00% | ~2,208 |
+| All Systems Go | 49.00% | ~1,774 |
+| Brute Force | 48.00% | ~1,738 |
+| Raise the Stakes | 47.00% | ~1,701 |
+| Cannon Fodder | 44.00% | ~1,593 |
+| Autofire | 42.00% | ~1,520 |
+| True Believer | 40.00% | ~1,448 |
+| Story Teller | 39.00% | ~1,412 |
+| Surgeon | 37.00% | ~1,339 |
+| Freeze | 36.00% | ~1,303 |
+| Exterminator | 36.00% | ~1,303 |
+| Greenhouse Effect | 35.00% | ~1,267 |
+| Full Arsenal | 31.00% | ~1,122 |
+| S.O.S. | 31.00% | ~1,122 |
+| Get Off My Ship! | 30.00% | ~1,086 |
+| Strange Transmissions | 30.00% | ~1,086 |
+| Live with the Hot Ones | 29.00% | ~1,050 |
+| Wreckage | 29.00% | ~1,050 |
+| Keeper of the Faith | 27.00% | ~977 |
+| Betrayed | 26.00% | ~941 |
+| Exodus | 25.00% | ~905 |
+| Legend Teller | 25.00% | ~905 |
+| There's Always Peng! | 25.00% | ~905 |
+| Mindless Prey | 25.00% | ~905 |
+| A Cut Above | 23.00% | ~833 |
+| Front Toward Enemy | 23.00% | ~833 |
+| Whole Again | 19.00% | ~688 |
+| Set A Benchmark | 19.00% | ~688 |
+| Full Contact | 18.00% | ~652 |
+| Final Regeneration | 17.00% | ~615 |
+| Pack Rat | 17.00% | ~615 |
+| Full Clearance | 16.00% | ~579 |
+| Pusher | 15.00% | ~543 |
+| Z-Baller | 15.00% | ~543 |
+| Marked | 14.00% | ~507 |
+| Eviscerator | 13.00% | ~471 |
+| Backbreaker | 10.00% | ~362 |
+| Wishbone | 6.00% | ~217 |
+| Trusted Contractor | 5.00% | ~181 |
+| Built To Order | 4.00% | ~145 |
+| Merchant | 3.00% | ~109 |
 | Untouchable | 2.00% | ~72 |
 | One Gun | 2.00% | ~72 |
 | Maxed Out | 2.00% | ~72 |
 | Reunion | 2.00% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,584 (Ranked 208)  
-Completed: 15 (0.42%) (Ranked 220)  
+Progressed: 3,620 (Ranked 207)  
+Completed: 15 (0.41%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -145,7 +145,7 @@ Completed: 15 (0.42%) (Ranked 220)
 | 2023-12-12 | 2,242 | 15 |
 | 2023-12-13 | 2,278 | 15 |
 | 2023-12-14 | 2,942 | 15 |
-| 2023-12-15 | 3,584 | 15 |
+| 2023-12-15 | 3,620 | 15 |
 ## Awards
 Max (Great Boss Battles): 119  (Ranked 349)  
 Sum: 119 (Ranked 444)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -379,9 +379,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1690,
+  "EOS_Progressed": 1693,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2599,6 +2599,11 @@
       "Time": "2023-12-15T16:04:59.7315022+00:00",
       "NumProgressed": 1690,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-15T17:03:58.52975+00:00",
+      "NumProgressed": 1693,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 38,
@@ -2610,7 +2615,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2618,7 +2623,7 @@
       "Name": "Great Doctor",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -2658,7 +2663,7 @@
       "Name": "K.O.!",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -2666,7 +2671,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1507
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2674,7 +2679,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1050
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -2682,7 +2687,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -2722,7 +2727,7 @@
       "Name": "Friendly",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 811
+      "UsersEstimate": 813
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -2738,7 +2743,7 @@
       "Name": "Kind-hearted",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -2746,7 +2751,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 828
+      "UsersEstimate": 830
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -2754,7 +2759,7 @@
       "Name": "Spark of Love",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACHIEVEMENTS_20",
@@ -2762,7 +2767,7 @@
       "Name": "Decorative Mind",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -2770,7 +2775,7 @@
       "Name": "Fishing Guru",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACHIEVEMENTS_22",
@@ -2778,7 +2783,7 @@
       "Name": "The Capitalist",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 760
+      "UsersEstimate": 762
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -2786,7 +2791,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -2802,7 +2807,7 @@
       "Name": "Community Helper",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACHIEVEMENTS_26",
@@ -2818,7 +2823,7 @@
       "Name": "Plantation Exterminator",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENTS_28",
@@ -2858,15 +2863,15 @@
       "Name": "Adolescent Love",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENTS_33",
       "SetID": "d4o538a",
       "Name": "Catch of the Day",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 439
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENTS_34",
@@ -2874,7 +2879,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1084
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -2898,7 +2903,7 @@
       "Name": "Mail Carrier",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENTS_38",
@@ -2913,7 +2918,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1690,
+      "Progressed": 1693,
       "Completed": 10
     }
   ],
@@ -2921,8 +2926,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-02T14:58:43.9151067+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:04:59.7315017+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:03:58.5297497+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:46.2039902+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:58:17.2916145+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:04:59.7315353+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:57:44.0751118+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:03:58.5297911+00:00"
 }

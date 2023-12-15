@@ -2,7 +2,7 @@
   "ID": "dc989527f6684c218eb8f5992e85cfea",
   "Name": "Scribble It!",
   "ProductSlug": "scribble-it-c61a6f",
-  "Ranking_EOS_Progress": 159,
+  "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 137,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14453,
+  "EOS_Progressed": 14455,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
@@ -16534,6 +16534,11 @@
       "Time": "2023-12-15T16:08:10.1181845+00:00",
       "NumProgressed": 14453,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-15T17:06:09.9104867+00:00",
+      "NumProgressed": 14455,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -16545,7 +16550,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1735
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -16617,7 +16622,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 6359
+      "UsersEstimate": 6360
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -16631,9 +16636,9 @@
       "ID": "ACH_ONLY_ONE_TO_NOT_GUESS_CORRECTLY",
       "SetID": "5ck0pmd",
       "Name": "Facepalm",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2746
+      "UsersEstimate": 2602
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -16744,14 +16749,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 14453,
+      "Progressed": 14455,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:08:10.1181841+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:06:09.9104863+00:00",
   "LastUpdate_AppInfo": "2023-12-09T05:56:59.7438466+00:00",
-  "LastUpdate_Ratings": "2023-12-15T16:00:33.6361454+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:08:10.1183099+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:59:11.8676935+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:06:09.9105923+00:00"
 }

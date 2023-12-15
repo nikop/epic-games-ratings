@@ -12,23 +12,23 @@ Rating: 4.53 (Ranked 547)
 | Captain Drummer | 8.00% | ~1,308 |
 | Celebrations are in Order | 8.00% | ~1,308 |
 | Impossible Objects | 8.00% | ~1,308 |
-| Martian Music | 7.00% | ~1,144 |
-| Safe Cracker | 7.00% | ~161 |
-| Zen Master | 7.00% | ~161 |
-| Madame Undersecretary | 7.00% | ~161 |
+| Martian Music | 7.00% | ~1,145 |
+| Safe Cracker | 7.00% | ~162 |
+| Zen Master | 7.00% | ~162 |
+| Madame Undersecretary | 7.00% | ~162 |
 | Stogie for Fogey | 6.00% | ~981 |
 | Spore Taste | 6.00% | ~981 |
 | Call it Even | 6.00% | ~981 |
-| Keep Arjun in Check | 6.00% | ~138 |
+| Keep Arjun in Check | 6.00% | ~139 |
 | Data Archivist | 5.00% | ~818 |
 | Drug Gifter | 5.00% | ~818 |
 | Heal Thy Medic | 5.00% | ~818 |
 | Thorston Mayer | 4.00% | ~654 |
 | Khan's Revenge | 4.00% | ~654 |
 | Master Negotiator | 4.00% | ~92 |
-| Doctor Approved | 3.00% | ~490 |
-| Bottoms up! | 3.00% | ~490 |
-| Miraculous Maya | 3.00% | ~490 |
+| Doctor Approved | 3.00% | ~491 |
+| Bottoms up! | 3.00% | ~491 |
+| Miraculous Maya | 3.00% | ~491 |
 | Data Logger | 2.00% | ~327 |
 | Data Master | 2.00% | ~327 |
 | Brother's Reaper | 1.00% | ~164 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 547)
 | Scavenger Star | 0.20% | ~33 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,350 (Ranked 152)  
+Progressed: 16,355 (Ranked 152)  
 Completed: 43 (0.26%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 43 (0.26%) (Ranked 251)
 | 2023-12-12 | 16,078 | 42 |
 | 2023-12-13 | 16,124 | 43 |
 | 2023-12-14 | 16,263 | 43 |
-| 2023-12-15 | 16,350 | 43 |
+| 2023-12-15 | 16,355 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

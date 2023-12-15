@@ -6,22 +6,22 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,352 |
-| One HIT wonder | 36.00% | ~492 |
-| Wanderer | 35.00% | ~478 |
-| One shot, one kill | 28.00% | ~382 |
+| Atom Agent | 99.00% | ~1,355 |
+| One HIT wonder | 36.00% | ~493 |
+| Wanderer | 35.00% | ~479 |
+| One shot, one kill | 28.00% | ~383 |
 | Traveler | 25.00% | ~342 |
-| Grave Robber | 19.00% | ~260 |
 | Head Burst | 19.00% | ~260 |
 | Explorer | 18.00% | ~246 |
-| Paranoia | 16.00% | ~219 |
+| Grave Robber | 18.00% | ~246 |
 | Double agent | 15.00% | ~205 |
+| Paranoia | 15.00% | ~205 |
 | Kraina Grzybow | 10.00% | ~137 |
-| Love Guru | 10.00% | ~137 |
 | Savant | 10.00% | ~137 |
-| Bustin' nuts | 8.00% | ~109 |
-| Not-so-private Eye | 8.00% | ~109 |
-| Superhuman | 8.00% | ~109 |
+| Love Guru | 9.00% | ~123 |
+| Bustin' nuts | 8.00% | ~110 |
+| Not-so-private Eye | 8.00% | ~110 |
+| Superhuman | 8.00% | ~110 |
 | The Vitinsky Rifle | 6.00% | ~82 |
 | Protection racket | 5.00% | ~68 |
 | Secret room | 5.00% | ~68 |
@@ -31,7 +31,7 @@ Number of Ratings: 54  (23.09.2022)
 | Career criminal | 2.00% | ~27 |
 | Neanderthal | 2.00% | ~27 |
 | Cosmic Horror | 2.00% | ~27 |
-| It was worth a shot | 1.00% | ~14 |
+| It was worth a shot | 0.90% | ~12 |
 | Ghostbuster | 0.70% | ~10 |
 | Comrade Yogi | 0.50% | ~7 |
 | Tourist Korallov | 0.50% | ~7 |
@@ -43,8 +43,8 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.10% | ~1 |
 | Pacifist | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,366 (Ranked 249)  
-Completed: 1 (0.07%) (Ranked 312)  
+Progressed: 1,369 (Ranked 249)  
+Completed: 1 (0.07%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -234,7 +234,7 @@ Completed: 1 (0.07%) (Ranked 312)
 | 2023-12-12 | 1,348 | 1 |
 | 2023-12-13 | 1,351 | 1 |
 | 2023-12-14 | 1,362 | 1 |
-| 2023-12-15 | 1,366 | 1 |
+| 2023-12-15 | 1,369 | 1 |
 ## Awards
 Max (Character Customization): 52  (Ranked 433)  
 Sum: 52 (Ranked 486)  

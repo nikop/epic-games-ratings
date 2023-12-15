@@ -6,9 +6,9 @@
   "Ranking_Popularity": 340,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 123,
-  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -244,9 +244,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 42066,
+  "EOS_Progressed": 42070,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -26189,6 +26189,11 @@
       "Time": "2023-12-15T16:05:43.5397069+00:00",
       "NumProgressed": 42066,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-12-15T17:04:27.7928866+00:00",
+      "NumProgressed": 42070,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 29,
@@ -26208,7 +26213,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8834
+      "UsersEstimate": 8835
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -26272,7 +26277,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2103
+      "UsersEstimate": 2104
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -26431,7 +26436,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 42066,
+      "Progressed": 42070,
       "Completed": 29
     }
   ],
@@ -26439,8 +26444,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-02T18:57:45.107059+00:00",
-  "LastChanged_Achievements": "2023-12-15T16:05:43.5397065+00:00",
+  "LastChanged_Achievements": "2023-12-15T17:04:27.7928862+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:15.3748793+00:00",
-  "LastUpdate_Ratings": "2023-12-15T15:57:17.6257374+00:00",
-  "LastUpdate_Achievements": "2023-12-15T16:05:43.5398424+00:00"
+  "LastUpdate_Ratings": "2023-12-15T16:57:05.7697249+00:00",
+  "LastUpdate_Achievements": "2023-12-15T17:04:27.7930046+00:00"
 }
