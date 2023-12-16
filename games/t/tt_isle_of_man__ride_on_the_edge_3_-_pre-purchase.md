@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 94.00% | ~177 |
+| You're Going Down! | 95.00% | ~179 |
 | To Each Their Own | 44.00% | ~83 |
 | You Get An Upgrade, You Get An Upgrade! | 20.00% | ~38 |
 | Like Phileas Fogg | 18.00% | ~34 |

@@ -61,41 +61,42 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 3.00% | ~473 |
 | Roman Paganism | 3.00% | ~473 |
 | Zoroastrianism | 3.00% | ~473 |
-| Hanging Gardens in Babylon | 2.00% | ~315 |
-| Beloved | 2.00% | ~315 |
-| Conqueror | 2.00% | ~315 |
-| Intercessor | 2.00% | ~315 |
-| Invincible | 2.00% | ~315 |
-| Lion | 2.00% | ~315 |
-| Mighty | 2.00% | ~315 |
-| Victorious | 2.00% | ~315 |
-| Legendary Cities | 2.00% | ~315 |
-| Good Difficulty | 2.00% | ~315 |
-| Just Difficulty | 2.00% | ~315 |
-| Champions | 2.00% | ~315 |
-| Landowners | 2.00% | ~315 |
-| Patrons | 2.00% | ~315 |
-| Riders | 2.00% | ~315 |
-| Sages | 2.00% | ~315 |
-| Traders | 2.00% | ~315 |
-| Acropolis | 2.00% | ~315 |
-| Circus Maximus | 2.00% | ~315 |
-| Temple of Solomon | 2.00% | ~315 |
-| Mausoleum | 2.00% | ~315 |
-| Learn to Play 3 | 2.00% | ~315 |
-| Greece | 2.00% | ~315 |
-| Power to the People | 2.00% | ~315 |
-| Persian Paganism | 2.00% | ~315 |
-| Building Wonders | 2.00% | ~315 |
-| Economic Reform | 2.00% | ~315 |
-| Legalism | 2.00% | ~315 |
-| Mythology | 2.00% | ~315 |
-| Double Victory | 2.00% | ~315 |
-| Points Victory | 2.00% | ~315 |
-| Win a Single Player Game | 2.00% | ~315 |
-| The Clergy | 2.00% | ~315 |
-| Kushite Pyramids | 2.00% | ~315 |
-| Kushite Paganism | 2.00% | ~315 |
+| Hanging Gardens in Babylon | 2.00% | ~316 |
+| Beloved | 2.00% | ~316 |
+| Conqueror | 2.00% | ~316 |
+| Intercessor | 2.00% | ~316 |
+| Invincible | 2.00% | ~316 |
+| Lion | 2.00% | ~316 |
+| Mighty | 2.00% | ~316 |
+| Victorious | 2.00% | ~316 |
+| Legendary Cities | 2.00% | ~316 |
+| Good Difficulty | 2.00% | ~316 |
+| Just Difficulty | 2.00% | ~316 |
+| Champions | 2.00% | ~316 |
+| Landowners | 2.00% | ~316 |
+| Patrons | 2.00% | ~316 |
+| Riders | 2.00% | ~316 |
+| Sages | 2.00% | ~316 |
+| Traders | 2.00% | ~316 |
+| Acropolis | 2.00% | ~316 |
+| Circus Maximus | 2.00% | ~316 |
+| Temple of Solomon | 2.00% | ~316 |
+| Mausoleum | 2.00% | ~316 |
+| Via Recta Souk | 2.00% | ~316 |
+| Learn to Play 3 | 2.00% | ~316 |
+| Greece | 2.00% | ~316 |
+| Power to the People | 2.00% | ~316 |
+| Persian Paganism | 2.00% | ~316 |
+| Building Wonders | 2.00% | ~316 |
+| Economic Reform | 2.00% | ~316 |
+| Legalism | 2.00% | ~316 |
+| Mythology | 2.00% | ~316 |
+| Double Victory | 2.00% | ~316 |
+| Points Victory | 2.00% | ~316 |
+| Win a Single Player Game | 2.00% | ~316 |
+| The Clergy | 2.00% | ~316 |
+| Kushite Pyramids | 2.00% | ~316 |
+| Kushite Paganism | 2.00% | ~316 |
 | Bad Heir Day | 1.00% | ~158 |
 | Capable | 1.00% | ~158 |
 | Devout | 1.00% | ~158 |
@@ -109,7 +110,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 1.00% | ~158 |
 | Church of the Holy Sepulchre | 1.00% | ~158 |
 | Pantheon | 1.00% | ~158 |
-| Via Recta Souk | 1.00% | ~158 |
 | Learn to Play 4 | 1.00% | ~158 |
 | Babylonia | 1.00% | ~158 |
 | Carthage | 1.00% | ~158 |
@@ -151,7 +151,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.70% | ~110 |
 | Beja Archer | 0.70% | ~110 |
 | Glorious Difficulty | 0.60% | ~95 |
+| Hatti | 0.60% | ~95 |
 | Persia | 0.60% | ~95 |
+| Pantheon of Gods | 0.60% | ~95 |
 | Capturing Cities | 0.60% | ~95 |
 | Ten Crowns | 0.60% | ~95 |
 | Siege Tower | 0.60% | ~95 |
@@ -159,8 +161,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.50% | ~79 |
 | Magnificent Difficulty | 0.50% | ~79 |
 | The Eternal Treaty | 0.50% | ~79 |
-| Hatti | 0.50% | ~79 |
-| Pantheon of Gods | 0.50% | ~79 |
+| Assyria | 0.50% | ~79 |
 | Play a Network Game | 0.50% | ~79 |
 | Three Man Chariot | 0.50% | ~79 |
 | Conquest Victory | 0.50% | ~79 |
@@ -170,10 +171,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 1) | 0.40% | ~63 |
 | Carthage - Riches and Influence | 0.40% | ~63 |
 | Holy | 0.40% | ~63 |
+| Great Difficulty | 0.40% | ~63 |
 | Five Routs | 0.40% | ~63 |
 | Run, Pheidippides, Run! | 0.40% | ~63 |
 | Nenikekamen | 0.40% | ~63 |
-| Assyria | 0.40% | ~63 |
 | Apadana in Parsa | 0.40% | ~63 |
 | Play a Free-For-All Game (>2 Players) | 0.40% | ~63 |
 | Circus Maximus in Roma | 0.40% | ~63 |
@@ -182,7 +183,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 2) | 0.30% | ~47 |
 | Silver Victory (Carthage 2) | 0.30% | ~47 |
 | Cleopatra's Love | 0.30% | ~47 |
-| Great Difficulty | 0.30% | ~47 |
 | Event Level High | 0.30% | ~47 |
 | A Good Start | 0.30% | ~47 |
 | Like a Lion | 0.30% | ~47 |
@@ -205,6 +205,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 0.20% | ~32 |
 | Punic Wars | 0.20% | ~32 |
 | Word of God | 0.20% | ~32 |
+| Randomized Families | 0.20% | ~32 |
 | Role-Playing | 0.20% | ~32 |
 | Pilgrimage | 0.20% | ~32 |
 | Hypatia the Teacher | 0.20% | ~32 |
@@ -296,7 +297,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat in Ur | 0.10% | ~16 |
 | No Characters | 0.10% | ~16 |
 | One City Challenge | 0.10% | ~16 |
-| Randomized Families | 0.10% | ~16 |
 | Time Victory | 0.10% | ~16 |
 | Win a 1-v-1 Game | 0.10% | ~16 |
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~16 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,774 (Ranked 155)  
+Progressed: 15,775 (Ranked 155)  
 Completed: 5 (0.03%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -589,7 +589,7 @@ Completed: 5 (0.03%) (Ranked 338)
 | 2023-12-13 | 15,751 | 5 |
 | 2023-12-14 | 15,760 | 5 |
 | 2023-12-15 | 15,768 | 5 |
-| 2023-12-16 | 15,774 | 5 |
+| 2023-12-16 | 15,775 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 277)  
 Sum: 1,901 (Ranked 220)  

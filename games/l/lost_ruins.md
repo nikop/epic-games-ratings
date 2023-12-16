@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Inquisitor | 38.00% | ~203 |
 | Goblin Tales | 30.00% | ~160 |
-| Bug Hunter | 25.00% | ~133 |
+| Bug Hunter | 25.00% | ~134 |
 | Boss Killer | 23.00% | ~123 |
 | The Fallen | 21.00% | ~112 |
 | Artifact Collector | 19.00% | ~101 |
@@ -21,12 +21,12 @@
 | The End | 12.00% | ~64 |
 | Troubleshooter | 11.00% | ~59 |
 | Money Swag | 8.00% | ~43 |
-| Oops | 8.00% | ~43 |
+| Oops | 7.00% | ~37 |
 | Shield Crusher | 7.00% | ~37 |
 | Treasure Hunter | 7.00% | ~37 |
 | Explorer | 6.00% | ~32 |
 | Trio | 6.00% | ~32 |
-| Pyromancer | 5.00% | ~27 |
+| Pyromancer | 4.00% | ~21 |
 | Arrive Home | 3.00% | ~16 |
 | Holy Knight | 3.00% | ~16 |
 | Marksman | 3.00% | ~16 |
@@ -34,18 +34,18 @@
 | Hoarder | 2.00% | ~11 |
 | Meat Lover | 2.00% | ~11 |
 | Sling of David | 2.00% | ~11 |
-| Sword Master | 2.00% | ~11 |
-| Witch | 2.00% | ~11 |
 | Roughneck | 1.00% | ~5 |
 | Rune Master | 1.00% | ~5 |
+| Sword Master | 1.00% | ~5 |
 | Weapon Master | 1.00% | ~5 |
+| Witch | 1.00% | ~5 |
 | Assassin | 0.90% | ~5 |
+| Art Collector | 0.60% | ~3 |
 | Necromancer | 0.60% | ~3 |
-| Art Collector | 0.40% | ~2 |
 | Cryomancer | 0.40% | ~2 |
 | Hardboiled | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533 (Ranked 319)  
+Progressed: 534 (Ranked 320)  
 Completed: 1 (0.19%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 1 (0.19%) (Ranked 267)
 | 2023-12-13 | 505 | 1 |
 | 2023-12-14 | 517 | 1 |
 | 2023-12-15 | 529 | 1 |
-| 2023-12-16 | 533 | 1 |
+| 2023-12-16 | 534 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

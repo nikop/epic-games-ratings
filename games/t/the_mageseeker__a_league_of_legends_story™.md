@@ -5,37 +5,37 @@ Rating: 4.81 (Ranked 85)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,675 |
-| No more cages! | 91.00% | ~2,535 |
-| Everfrost | 78.00% | ~2,173 |
-| Pentakill | 77.00% | ~2,145 |
-| Dark Forest | 77.00% | ~2,145 |
-| The use of petricite | 74.00% | ~2,062 |
-| You can pet the dog | 61.00% | ~1,699 |
+| For Demacia | 95.00% | ~2,649 |
+| No more cages! | 91.00% | ~2,537 |
+| Everfrost | 78.00% | ~2,175 |
+| Pentakill | 77.00% | ~2,147 |
+| Dark Forest | 77.00% | ~2,147 |
+| The use of petricite | 74.00% | ~2,063 |
+| You can pet the dog | 61.00% | ~1,701 |
 | Big Helmet Bro | 39.00% | ~1,087 |
 | Thornbarrow | 39.00% | ~1,087 |
 | Clarion Cove | 38.00% | ~1,059 |
-| Elemental master | 37.00% | ~1,031 |
-| Past trauma | 37.00% | ~1,031 |
-| Ternmoat Headquarters | 36.00% | ~1,003 |
-| Cypress Glen Headquarters | 33.00% | ~919 |
-| Petricite Burst | 33.00% | ~919 |
+| Elemental master | 37.00% | ~1,032 |
+| Past trauma | 37.00% | ~1,032 |
+| Ternmoat Headquarters | 36.00% | ~1,004 |
+| Cypress Glen Headquarters | 33.00% | ~920 |
+| Petricite Burst | 33.00% | ~920 |
 | Old friend | 31.00% | ~864 |
 | Hijack | 30.00% | ~836 |
 | Devineur | 30.00% | ~836 |
-| Whispers in the Woods I | 28.00% | ~780 |
-| I chose my shackles | 26.00% | ~724 |
-| Ancient power | 26.00% | ~724 |
+| Whispers in the Woods I | 28.00% | ~781 |
+| I chose my shackles | 26.00% | ~725 |
+| Ancient power | 26.00% | ~725 |
 | Sacred Woods | 24.00% | ~669 |
 | Little light | 23.00% | ~641 |
 | Capelworth | 23.00% | ~641 |
 | Full equipped | 23.00% | ~641 |
 | Glyndemere | 22.00% | ~613 |
 | Iffighain Headquarters | 22.00% | ~613 |
-| Whispers in the Woods II | 19.00% | ~529 |
-| Quickmoore Headquarters | 19.00% | ~529 |
-| No more holding back | 18.00% | ~501 |
-| Terbisia | 18.00% | ~501 |
+| Whispers in the Woods II | 19.00% | ~530 |
+| Quickmoore Headquarters | 19.00% | ~530 |
+| No more holding back | 18.00% | ~502 |
+| Terbisia | 18.00% | ~502 |
 | Whispers in the Woods III | 17.00% | ~474 |
 | Friendly fire | 17.00% | ~474 |
 | True power | 17.00% | ~474 |
@@ -50,16 +50,16 @@ Rating: 4.81 (Ranked 85)
 | The Great City of Demacia | 13.00% | ~362 |
 | Truth is a dark mirror | 13.00% | ~362 |
 | Call it 'redistribution of magic | 13.00% | ~362 |
-| Do you trust me? | 12.00% | ~334 |
-| Back to sleep, then... | 12.00% | ~334 |
-| Chains master | 11.00% | ~306 |
-| The great mage rebellion starts now | 11.00% | ~306 |
-| You can pet the... horse | 11.00% | ~306 |
+| Do you trust me? | 12.00% | ~335 |
+| Back to sleep, then... | 12.00% | ~335 |
+| Chains master | 11.00% | ~307 |
+| The great mage rebellion starts now | 11.00% | ~307 |
+| You can pet the... horse | 11.00% | ~307 |
 | Spellcrafting | 10.00% | ~279 |
 | Silverwing nest | 2.00% | ~56 |
 | The Unshackled | 1.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,786 (Ranked 218)  
+Progressed: 2,788 (Ranked 218)  
 Completed: 16 (0.57%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 16 (0.57%) (Ranked 199)
 | 2023-12-13 | 2,685 | 16 |
 | 2023-12-14 | 2,731 | 16 |
 | 2023-12-15 | 2,774 | 16 |
-| 2023-12-16 | 2,786 | 16 |
+| 2023-12-16 | 2,788 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

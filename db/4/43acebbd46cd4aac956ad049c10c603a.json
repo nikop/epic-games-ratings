@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 999,
+  "EOS_Progressed": 1000,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2572,6 +2572,11 @@
       "Time": "2023-12-16T09:06:35.9024775+00:00",
       "NumProgressed": 999,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T10:06:18.7440537+00:00",
+      "NumProgressed": 1000,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2766,9 +2771,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 220
     },
     {
       "ID": "LostMarshes",
@@ -2974,9 +2979,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 190
     },
     {
       "ID": "TheThiefOfFire",
@@ -3055,7 +3060,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 999,
+      "Progressed": 1000,
       "Completed": 1
     }
   ],
@@ -3063,8 +3068,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-16T09:06:35.9024771+00:00",
+  "LastChanged_Achievements": "2023-12-16T10:06:18.7440527+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-16T08:57:23.8709407+00:00",
-  "LastUpdate_Achievements": "2023-12-16T09:06:35.9025221+00:00"
+  "LastUpdate_Ratings": "2023-12-16T09:57:32.2031706+00:00",
+  "LastUpdate_Achievements": "2023-12-16T10:06:18.7441245+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 365,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -984,9 +984,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "14g34pl",
       "Name": "Northbarrow is safe!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1047,8 +1047,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-12-16T09:05:37.4478995+00:00",
+  "LastChanged_Achievements": "2023-12-16T10:05:25.2519574+00:00",
   "LastUpdate_AppInfo": "2023-12-12T21:57:14.3760557+00:00",
-  "LastUpdate_Ratings": "2023-12-16T08:59:52.8458974+00:00",
-  "LastUpdate_Achievements": "2023-12-16T09:05:37.4479145+00:00"
+  "LastUpdate_Ratings": "2023-12-16T09:59:42.863176+00:00",
+  "LastUpdate_Achievements": "2023-12-16T10:05:25.2519836+00:00"
 }

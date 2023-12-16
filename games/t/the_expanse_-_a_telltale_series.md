@@ -7,13 +7,13 @@ Rating: 4.53 (Ranked 547)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 13.00% | ~2,140 |
 | The Pit and the Pirates | 8.00% | ~1,317 |
+| Martian Music | 8.00% | ~1,317 |
 | Drone Dodger | 8.00% | ~1,317 |
 | Bosmang | 8.00% | ~1,317 |
 | Captain Drummer | 8.00% | ~1,317 |
 | Celebrations are in Order | 8.00% | ~1,317 |
 | Impossible Objects | 8.00% | ~1,317 |
 | Spore Taste | 7.00% | ~1,152 |
-| Martian Music | 7.00% | ~1,152 |
 | Safe Cracker | 7.00% | ~169 |
 | Zen Master | 7.00% | ~169 |
 | Madame Undersecretary | 7.00% | ~169 |
@@ -23,11 +23,11 @@ Rating: 4.53 (Ranked 547)
 | Data Archivist | 5.00% | ~823 |
 | Drug Gifter | 5.00% | ~823 |
 | Heal Thy Medic | 5.00% | ~823 |
-| Thorston Mayer | 4.00% | ~658 |
-| Khan's Revenge | 4.00% | ~658 |
+| Bottoms up! | 4.00% | ~659 |
+| Thorston Mayer | 4.00% | ~659 |
+| Khan's Revenge | 4.00% | ~659 |
 | Master Negotiator | 4.00% | ~97 |
 | Doctor Approved | 3.00% | ~494 |
-| Bottoms up! | 3.00% | ~494 |
 | Data Logger | 3.00% | ~494 |
 | Miraculous Maya | 3.00% | ~494 |
 | Data Master | 2.00% | ~329 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 547)
 | Scavenger Star | 0.20% | ~33 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,460 (Ranked 152)  
+Progressed: 16,464 (Ranked 152)  
 Completed: 43 (0.26%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 43 (0.26%) (Ranked 249)
 | 2023-12-13 | 16,124 | 43 |
 | 2023-12-14 | 16,263 | 43 |
 | 2023-12-15 | 16,416 | 43 |
-| 2023-12-16 | 16,460 | 43 |
+| 2023-12-16 | 16,464 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

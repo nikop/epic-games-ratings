@@ -3,7 +3,7 @@
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
   "Ranking_Rating": 453,
-  "Ranking_Popularity": 278,
+  "Ranking_Popularity": 279,
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 377,
@@ -789,9 +789,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3410,
+  "EOS_Progressed": 3411,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4284,6 +4284,11 @@
       "Time": "2023-12-16T07:04:23.5789221+00:00",
       "NumProgressed": 3410,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T10:03:52.0362496+00:00",
+      "NumProgressed": 3411,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4838,21 +4843,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3410,
+      "Progressed": 3411,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3410,
+      "Progressed": 3411,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-12T16:03:26.7422514+00:00",
-  "LastChanged_Achievements": "2023-12-16T09:03:54.9457744+00:00",
+  "LastChanged_Achievements": "2023-12-16T10:03:52.0362492+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:10.0749768+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:02:56.148547+00:00",
-  "LastUpdate_Achievements": "2023-12-16T09:03:54.945861+00:00"
+  "LastUpdate_Ratings": "2023-12-16T10:02:58.0764539+00:00",
+  "LastUpdate_Achievements": "2023-12-16T10:03:52.0363396+00:00"
 }

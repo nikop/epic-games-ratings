@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -3093,9 +3093,9 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 387
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -3173,9 +3173,9 @@
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 597
+      "UsersEstimate": 608
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3428,8 +3428,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-16T09:09:47.7338407+00:00",
+  "LastChanged_Achievements": "2023-12-16T10:09:49.2164928+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:08.9329051+00:00",
-  "LastUpdate_Ratings": "2023-12-16T08:57:55.4539372+00:00",
-  "LastUpdate_Achievements": "2023-12-16T09:09:47.7338998+00:00"
+  "LastUpdate_Ratings": "2023-12-16T09:57:59.5141539+00:00",
+  "LastUpdate_Achievements": "2023-12-16T10:09:49.2166191+00:00"
 }

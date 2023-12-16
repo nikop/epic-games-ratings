@@ -1582,9 +1582,9 @@
       "ID": "CRISIS_1",
       "SetID": "44dlcg0",
       "Name": "City crisis",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CRISIS_2",
@@ -2095,8 +2095,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-16T09:09:46.5409603+00:00",
+  "LastChanged_Achievements": "2023-12-16T10:09:48.1124669+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:10.3916201+00:00",
-  "LastUpdate_Ratings": "2023-12-16T08:57:57.3079279+00:00",
-  "LastUpdate_Achievements": "2023-12-16T09:09:46.5410278+00:00"
+  "LastUpdate_Ratings": "2023-12-16T09:58:01.25541+00:00",
+  "LastUpdate_Achievements": "2023-12-16T10:09:48.1125959+00:00"
 }

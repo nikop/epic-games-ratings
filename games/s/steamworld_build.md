@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 84.00% | ~89 |
-| It's Yours, My Friend | 71.00% | ~75 |
-| Digging a Hole | 64.00% | ~68 |
-| Conducted Trade | 63.00% | ~67 |
-| Going Places | 62.00% | ~66 |
-| Aristocratic | 60.00% | ~64 |
+| Mathematic | 86.00% | ~91 |
+| It's Yours, My Friend | 73.00% | ~77 |
+| Digging a Hole | 65.00% | ~69 |
+| Conducted Trade | 64.00% | ~68 |
+| Going Places | 63.00% | ~67 |
+| Aristocratic | 61.00% | ~65 |
 | Tutti Frutti | 55.00% | ~58 |
 | Gotta Go Fast | 46.00% | ~49 |
 | Slotting Machine | 39.00% | ~41 |

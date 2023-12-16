@@ -17,14 +17,14 @@
 | Master of Magic | 63.00% | ~360 |
 | Unicorn steaks – fresh off the hoof! | 61.00% | ~348 |
 | Magic Accidents | 59.00% | ~337 |
-| The Ascent | 57.00% | ~325 |
-| It's Warm and Cozy at Home | 57.00% | ~325 |
+| The Ascent | 58.00% | ~331 |
+| It's Warm and Cozy at Home | 58.00% | ~331 |
 | Trap Master | 55.00% | ~314 |
 | Minions, Minions! | 54.00% | ~308 |
 | The Big Eaty | 53.00% | ~303 |
 | Hard Work | 52.00% | ~297 |
+| “… like son” | 51.00% | ~291 |
 | YOU SHALL NOT PASS! | 50.00% | ~286 |
-| “… like son” | 50.00% | ~286 |
 | The Cathedral of Light | 46.00% | ~263 |
 | Pure Dynamite! | 45.00% | ~257 |
 | Dungeonlord Gorgu | 45.00% | ~257 |
@@ -38,8 +38,8 @@
 | If Looks Could Kill | 33.00% | ~188 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~166 |
 | The Finitude Drill | 29.00% | ~166 |
+| Forbidden Knowledge | 28.00% | ~160 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~154 |
-| Forbidden Knowledge | 27.00% | ~154 |
 | Doom Hill | 27.00% | ~154 |
 | Stop Tanos! | 26.00% | ~148 |
 | Hungry, Hungry Gorgu! | 25.00% | ~143 |

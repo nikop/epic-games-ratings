@@ -38,7 +38,7 @@
 | Escaped from a big trouble | 49.00% | ~193 |
 | Now you are worthy | 46.00% | ~181 |
 | Fight is life | 45.00% | ~177 |
-| Mysterious voice | 44.00% | ~173 |
+| Mysterious voice | 45.00% | ~177 |
 | Guiding on the right path | 44.00% | ~173 |
 | No blades in the gym | 42.00% | ~165 |
 | Champion – no way back | 41.00% | ~162 |

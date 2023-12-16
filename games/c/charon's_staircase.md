@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The secret passage | 58.00% | ~49 |
 | Seth's office | 57.00% | ~48 |
-| The secret passage | 57.00% | ~48 |
+| Across the lake | 52.00% | ~44 |
 | There is something strange here... | 51.00% | ~43 |
-| Across the lake | 51.00% | ~43 |
 | First document retrieved | 49.00% | ~41 |
 | Curious by nature | 43.00% | ~36 |
 | A lonely death | 37.00% | ~31 |
@@ -25,7 +25,7 @@
 | The impatient one | 21.00% | ~18 |
 | Spectres from the past | 7.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84 (Ranked 472)  
+Progressed: 84 (Ranked 473)  
 Completed: 3 (3.57%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |

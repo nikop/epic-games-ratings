@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8032,
+  "EOS_Progressed": 8034,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9206,6 +9206,11 @@
       "Time": "2023-12-16T09:03:26.7820981+00:00",
       "NumProgressed": 8032,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-16T10:03:26.4062632+00:00",
+      "NumProgressed": 8034,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9265,7 +9270,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -9369,7 +9374,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "THING",
@@ -9384,7 +9389,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8032,
+      "Progressed": 8034,
       "Completed": 34
     }
   ],
@@ -9392,8 +9397,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-16T09:03:26.7820972+00:00",
+  "LastChanged_Achievements": "2023-12-16T10:03:26.4062628+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:30.6418185+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:02:42.188231+00:00",
-  "LastUpdate_Achievements": "2023-12-16T09:03:26.7821583+00:00"
+  "LastUpdate_Ratings": "2023-12-16T10:02:43.5145584+00:00",
+  "LastUpdate_Achievements": "2023-12-16T10:03:26.4063582+00:00"
 }

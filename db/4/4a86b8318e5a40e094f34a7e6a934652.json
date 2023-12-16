@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 284,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
@@ -1244,6 +1244,11 @@
       "Time": "2023-12-16T09:03:23.4259952+00:00",
       "NumProgressed": 283,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T10:03:23.4425945+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1256,7 +1261,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1270,9 +1275,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 187
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1296,7 +1301,7 @@
       "Name": "Fisherman",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1318,9 +1323,9 @@
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 139
     },
     {
       "ID": "HOUSEWARMING",
@@ -1334,9 +1339,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 125
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -1344,7 +1349,7 @@
       "Name": "Picky Eater",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NOT_FAINT_HOUSEWARMING",
@@ -1366,9 +1371,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 145
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -1400,7 +1405,7 @@
       "Name": "Uppies!",
       "Percentage": 75,
       "XP": 50,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1415,14 +1420,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 284,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-16T09:03:23.4259948+00:00",
+  "LastChanged_Achievements": "2023-12-16T10:03:23.442594+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.1278188+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:00:37.6363297+00:00",
-  "LastUpdate_Achievements": "2023-12-16T09:03:23.4260164+00:00"
+  "LastUpdate_Ratings": "2023-12-16T10:00:22.4604452+00:00",
+  "LastUpdate_Achievements": "2023-12-16T10:03:23.4426225+00:00"
 }

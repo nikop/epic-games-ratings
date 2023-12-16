@@ -5,21 +5,21 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Self-Defence | 8.00% | ~11 |
-| Tinkerer | 5.00% | ~7 |
+| Tinkerer | 4.00% | ~5 |
 | Welcome to the Club | 3.00% | ~4 |
 | A new World ahead | 3.00% | ~4 |
 | Craftsmen | 2.00% | ~3 |
 | Don't Cry Wolf | 2.00% | ~3 |
-| Can't touch this | 2.00% | ~3 |
 | Apprentice | 2.00% | ~3 |
-| Sponsor | 0.80% | ~1 |
-| Defeat Tezuth | 0.80% | ~1 |
-| Freezing Cold | 0.80% | ~1 |
-| Locked and Loaded | 0.80% | ~1 |
-| The A-Team | 0.80% | ~1 |
-| A Deceiving Gift | 0.80% | ~1 |
-| The Golden Flash | 0.80% | ~1 |
-| Small Setback | 0.80% | ~1 |
+| Can't touch this | 1.00% | ~1 |
+| Sponsor | 0.70% | ~1 |
+| Defeat Tezuth | 0.70% | ~1 |
+| Freezing Cold | 0.70% | ~1 |
+| Locked and Loaded | 0.70% | ~1 |
+| The A-Team | 0.70% | ~1 |
+| A Deceiving Gift | 0.70% | ~1 |
+| The Golden Flash | 0.70% | ~1 |
+| Small Setback | 0.70% | ~1 |
 | Mirror, Mirror on the Wall | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133 (Ranked 422)  
+Progressed: 134 (Ranked 421)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-03 | 128 | 0 |
 | 2023-12-14 | 129 | 0 |
 | 2023-12-15 | 132 | 0 |
-| 2023-12-16 | 133 | 0 |
+| 2023-12-16 | 134 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

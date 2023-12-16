@@ -6,36 +6,36 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~37,211 |
-| Biggest Communism Builder | 24.00% | ~31,896 |
-| The World's Most Laughable Centrist | 21.00% | ~27,909 |
-| Il Coppo Del'Arte! | 18.00% | ~23,922 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,264 |
-| Hyperstellar Law Official | 16.00% | ~21,264 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,606 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,606 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,277 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,619 |
-| The Figurines Won't Win Her Back | 10.00% | ~13,290 |
-| Unbelievably Boring **** | 9.00% | ~11,961 |
-| Enemy Of The Physical Realm | 9.00% | ~11,961 |
-| Hardie's Heroes | 6.00% | ~7,974 |
-| The Lawbringer | 4.00% | ~5,316 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,316 |
-| The Opener Of The Eighth Seal | 3.00% | ~3,987 |
-| Bother Kim After Hours | 3.00% | ~3,987 |
-| Baddest Of the Bad Cops | 2.00% | ~2,658 |
-| Expert Advanced Remote Viewer | 2.00% | ~2,658 |
-| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,658 |
-| Wheel of Pleasure and Light | 2.00% | ~2,658 |
+| Goodest Of The Good Cops | 28.00% | ~37,221 |
+| Biggest Communism Builder | 24.00% | ~31,904 |
+| The World's Most Laughable Centrist | 21.00% | ~27,916 |
+| Il Coppo Del'Arte! | 18.00% | ~23,928 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,269 |
+| Hyperstellar Law Official | 16.00% | ~21,269 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,611 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,611 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,281 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,623 |
+| The Figurines Won't Win Her Back | 10.00% | ~13,293 |
+| Unbelievably Boring **** | 9.00% | ~11,964 |
+| Enemy Of The Physical Realm | 9.00% | ~11,964 |
+| Hardie's Heroes | 6.00% | ~7,976 |
+| The Lawbringer | 4.00% | ~5,317 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,317 |
+| The Opener Of The Eighth Seal | 3.00% | ~3,988 |
+| Bother Kim After Hours | 3.00% | ~3,988 |
+| Baddest Of the Bad Cops | 2.00% | ~2,659 |
+| Expert Advanced Remote Viewer | 2.00% | ~2,659 |
+| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,659 |
+| Wheel of Pleasure and Light | 2.00% | ~2,659 |
 | Massive Torque Dork | 1.00% | ~1,329 |
 | Avowed Inframaterialist | 1.00% | ~1,329 |
 | Committee of la Responsabilité | 0.90% | ~1,196 |
 | Venture into the HARDCORE | 0.90% | ~1,196 |
 | Real Musor | 0.90% | ~1,196 |
 | Baddest Brow in Town | 0.80% | ~1,063 |
-| Networthy Individual | 0.70% | ~930 |
-| Leopard Mindset | 0.60% | ~797 |
+| Networthy Individual | 0.70% | ~931 |
+| Leopard Mindset | 0.60% | ~798 |
 | Modus: Mullen | 0.30% | ~399 |
 | Palerunner | 0.30% | ~399 |
 | Cause a ****storm | 0.20% | ~266 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~133 |
 | What body? | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,898 (Ranked 83)  
+Progressed: 132,933 (Ranked 83)  
 Completed: 28 (0.02%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 28 (0.02%) (Ranked 345)
 | 2023-12-13 | 131,965 | 28 |
 | 2023-12-14 | 132,283 | 28 |
 | 2023-12-15 | 132,724 | 28 |
-| 2023-12-16 | 132,898 | 28 |
+| 2023-12-16 | 132,933 | 28 |
 ## Awards
 Max (Character Customization): 746  (Ranked 183)  
 Sum: 1,140 (Ranked 256)  

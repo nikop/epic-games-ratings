@@ -997,9 +997,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9410,
+  "EOS_Progressed": 9413,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9397,6 +9397,11 @@
       "Time": "2023-12-16T09:08:33.2221338+00:00",
       "NumProgressed": 9410,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-16T10:08:41.4528299+00:00",
+      "NumProgressed": 9413,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9416,7 +9421,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -9424,7 +9429,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4140
+      "UsersEstimate": 4142
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -9440,7 +9445,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -9456,7 +9461,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3011
+      "UsersEstimate": 3012
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -9472,7 +9477,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -9488,7 +9493,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -9520,7 +9525,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3011
+      "UsersEstimate": 3012
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -9528,7 +9533,7 @@
       "Name": "Generalissimo",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ISONZO_ACH_INSUBORDINATION",
@@ -9576,7 +9581,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3294
+      "UsersEstimate": 3295
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -9592,7 +9597,7 @@
       "Name": "\u0022O La Vittoria, O Tutti Accoppati\u0022",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ISONZO_ACH_PEAK_PERFORMANCE",
@@ -9600,7 +9605,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4329
+      "UsersEstimate": 4330
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -9648,7 +9653,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -9656,7 +9661,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2541
+      "UsersEstimate": 2542
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -9736,7 +9741,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4799
+      "UsersEstimate": 4801
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -9744,7 +9749,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -9760,14 +9765,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4799
+      "UsersEstimate": 4801
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9410,
+      "Progressed": 9413,
       "Completed": 10
     }
   ],
@@ -9775,8 +9780,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-12T17:02:56.6362998+00:00",
-  "LastChanged_Achievements": "2023-12-16T09:08:33.2221334+00:00",
+  "LastChanged_Achievements": "2023-12-16T10:08:41.4528294+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:02.1312935+00:00",
-  "LastUpdate_Ratings": "2023-12-16T08:58:08.1307906+00:00",
-  "LastUpdate_Achievements": "2023-12-16T09:08:33.2221943+00:00"
+  "LastUpdate_Ratings": "2023-12-16T09:58:10.6844874+00:00",
+  "LastUpdate_Achievements": "2023-12-16T10:08:41.452955+00:00"
 }

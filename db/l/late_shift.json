@@ -2036,9 +2036,9 @@
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 340
+      "UsersEstimate": 348
     }
   ],
   "AchievementSets": [
@@ -2053,8 +2053,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-16T09:08:57.974245+00:00",
+  "LastChanged_Achievements": "2023-12-16T10:09:03.7408549+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:45.8510282+00:00",
-  "LastUpdate_Ratings": "2023-12-16T08:59:44.9588323+00:00",
-  "LastUpdate_Achievements": "2023-12-16T09:08:57.9742645+00:00"
+  "LastUpdate_Ratings": "2023-12-16T09:59:35.970219+00:00",
+  "LastUpdate_Achievements": "2023-12-16T10:09:03.7408848+00:00"
 }

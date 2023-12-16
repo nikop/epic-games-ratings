@@ -6,11 +6,11 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~148 |
+| Malpractice Assurance | 6.00% | ~149 |
 | Lost and Found | 4.00% | ~99 |
-| This Belongs in a Museum | 3.00% | ~3,828 |
-| This guy... again? | 3.00% | ~74 |
-| Bloody Graduation | 3.00% | ~74 |
+| This Belongs in a Museum | 3.00% | ~3,829 |
+| This guy... again? | 3.00% | ~75 |
+| Bloody Graduation | 3.00% | ~75 |
 | Serenity Now! | 2.00% | ~2,552 |
 | Not Today! | 2.00% | ~2,552 |
 | Creep and Sleep | 2.00% | ~2,552 |
@@ -19,7 +19,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 2.00% | ~2,552 |
 | Escape from the Black Hole | 2.00% | ~2,552 |
 | Autodidact | 2.00% | ~2,552 |
-| Ploughshares to Swords | 2.00% | ~49 |
+| Ploughshares to Swords | 2.00% | ~50 |
 | Don't Make Me Turn This Coach Around | 1.00% | ~1,276 |
 | It Rings a Bell | 1.00% | ~1,276 |
 | Dissector | 1.00% | ~1,276 |
@@ -33,23 +33,23 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 1.00% | ~1,276 |
 | Nope | 1.00% | ~1,276 |
 | Friends 'Til the End | 1.00% | ~25 |
-| Banishment | 0.90% | ~1,148 |
-| Deprogramming | 0.90% | ~1,148 |
-| Spelunker | 0.90% | ~1,148 |
-| Ramble On | 0.90% | ~1,148 |
-| Worldly Traveller | 0.90% | ~1,148 |
-| Road Trip | 0.90% | ~1,148 |
+| Unfulfilled Desires | 0.90% | ~1,149 |
+| Banishment | 0.90% | ~1,149 |
+| Deprogramming | 0.90% | ~1,149 |
+| Spelunker | 0.90% | ~1,149 |
+| Ramble On | 0.90% | ~1,149 |
+| Worldly Traveller | 0.90% | ~1,149 |
+| Road Trip | 0.90% | ~1,149 |
 | Resurrection | 0.80% | ~1,021 |
 | Unleash Hell | 0.80% | ~1,021 |
 | Funny Guy | 0.80% | ~1,021 |
 | Long Live the King | 0.80% | ~1,021 |
-| Unfulfilled Desires | 0.80% | ~1,021 |
+| Boxcar Kid | 0.80% | ~1,021 |
 | Predator | 0.80% | ~1,021 |
 | Now Stay Dead | 0.80% | ~1,021 |
 | Reverse Banditry | 0.80% | ~1,021 |
 | Unshackled | 0.80% | ~1,021 |
 | Wyrdly Reconstructed | 0.70% | ~893 |
-| Boxcar Kid | 0.70% | ~893 |
 | A Clear Conscience | 0.70% | ~893 |
 | When You Want Something Done Right | 0.70% | ~893 |
 | Utopia | 0.70% | ~893 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,602 (Ranked 84)  
+Progressed: 127,618 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
-| 2023-12-16 | 127,602 | 3 |
+| 2023-12-16 | 127,618 | 3 |
 ## Awards
 Max (Character Customization): 7,744  (Ranked 51)  
 Sum: 20,557 (Ranked 58)  

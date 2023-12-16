@@ -22,7 +22,7 @@
 | Metropolurbek | 1.00% | ~4 |
 | Rebel city | 1.00% | ~4 |
 | Banking city | 0.70% | ~3 |
-| City crisis | 0.50% | ~2 |
+| City crisis | 0.70% | ~3 |
 | I am very happy! | 0.50% | ~2 |
 | What would we do if we can't go out with friends? | 0.50% | ~2 |
 | Banking empire | 0.20% | ~1 |

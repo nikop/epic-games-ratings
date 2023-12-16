@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16460,
+  "EOS_Progressed": 16464,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -14007,6 +14007,11 @@
       "Time": "2023-12-16T09:06:56.5509037+00:00",
       "NumProgressed": 16460,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-16T10:08:17.4689566+00:00",
+      "NumProgressed": 16464,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14089,17 +14094,17 @@
       "ID": "18",
       "SetID": "458bbdk",
       "Name": "Bottoms up!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 494
+      "UsersEstimate": 659
     },
     {
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1317
     },
     {
       "ID": "2",
@@ -14115,7 +14120,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "21",
@@ -14155,7 +14160,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "26",
@@ -14298,13 +14303,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16460,
+      "Progressed": 16464,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2414,
+      "Progressed": 2418,
       "Completed": 894
     }
   ],
@@ -14312,8 +14317,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-16T09:06:56.5509034+00:00",
+  "LastChanged_Achievements": "2023-12-16T10:08:17.4689562+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-16T08:58:07.2811839+00:00",
-  "LastUpdate_Achievements": "2023-12-16T09:06:56.5509748+00:00"
+  "LastUpdate_Ratings": "2023-12-16T09:58:09.9438202+00:00",
+  "LastUpdate_Achievements": "2023-12-16T10:08:17.469094+00:00"
 }

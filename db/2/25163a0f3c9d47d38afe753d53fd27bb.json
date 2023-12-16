@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1703,
+  "EOS_Progressed": 1704,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 7.34,
   "EosHistory": [
@@ -4144,6 +4144,11 @@
       "Time": "2023-12-15T18:10:05.0466405+00:00",
       "NumProgressed": 1703,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-16T10:09:42.6601013+00:00",
+      "NumProgressed": 1704,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 30,
@@ -4155,7 +4160,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "LEVEL_002",
@@ -4163,7 +4168,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "LEVEL_003",
@@ -4171,7 +4176,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "LEVEL_004",
@@ -4187,7 +4192,7 @@
       "Name": "Small village",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "LEVEL_006",
@@ -4267,7 +4272,7 @@
       "Name": "Flatland",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "LEVEL_016",
@@ -4275,7 +4280,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "LEVEL_017",
@@ -4283,7 +4288,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "LEVEL_018",
@@ -4291,7 +4296,7 @@
       "Name": "Isle rock city",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "LEVEL_019",
@@ -4394,14 +4399,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1703,
+      "Progressed": 1704,
       "Completed": 125
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-12-16T09:09:40.9201358+00:00",
+  "LastChanged_Achievements": "2023-12-16T10:09:42.660101+00:00",
   "LastUpdate_AppInfo": "2023-12-12T04:57:10.8541257+00:00",
-  "LastUpdate_Ratings": "2023-12-16T08:57:35.5580763+00:00",
-  "LastUpdate_Achievements": "2023-12-16T09:09:40.9201756+00:00"
+  "LastUpdate_Ratings": "2023-12-16T09:57:42.2111576+00:00",
+  "LastUpdate_Achievements": "2023-12-16T10:09:42.6601877+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "0702e42d70eb4d8fbb9293e332047474",
   "Name": "Charon\u0027s Staircase",
   "ProductSlug": "charons-staircase-b2d05f",
-  "Ranking_EOS_Progress": 472,
+  "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 517,
   "Ranking_EOS_NewCompleters": 138,
@@ -222,9 +222,9 @@
       "ID": "ACH_2",
       "SetID": "1g3d1lg",
       "Name": "The secret passage",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 35,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_20",
@@ -238,9 +238,9 @@
       "ID": "ACH_3",
       "SetID": "1g3d1lg",
       "Name": "Across the lake",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 35,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_4",
@@ -303,8 +303,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2023-12-16T09:06:00.060587+00:00",
+  "LastChanged_Achievements": "2023-12-16T10:05:46.0962013+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:33.1019573+00:00",
-  "LastUpdate_Ratings": "2023-12-16T08:57:46.028507+00:00",
-  "LastUpdate_Achievements": "2023-12-16T09:06:00.0605973+00:00"
+  "LastUpdate_Ratings": "2023-12-16T09:57:51.5076637+00:00",
+  "LastUpdate_Achievements": "2023-12-16T10:05:46.0962211+00:00"
 }

@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3857,
+  "EOS_Progressed": 3858,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -4897,6 +4897,11 @@
       "Time": "2023-12-15T20:04:07.8021673+00:00",
       "NumProgressed": 3857,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-16T10:03:36.1625522+00:00",
+      "NumProgressed": 3858,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4908,7 +4913,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "bonus2",
@@ -5044,7 +5049,7 @@
       "Name": "Flanked!",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2931
+      "UsersEstimate": 2932
     },
     {
       "ID": "campaign20",
@@ -5084,7 +5089,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "campaign7",
@@ -5108,7 +5113,7 @@
       "Name": "Boulder Clash",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "scenario1",
@@ -5171,7 +5176,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3857,
+      "Progressed": 3858,
       "Completed": 11
     }
   ],
@@ -5179,8 +5184,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-16T09:03:37.5027545+00:00",
+  "LastChanged_Achievements": "2023-12-16T10:03:36.1625518+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.2611829+00:00",
-  "LastUpdate_Ratings": "2023-12-16T08:59:08.4590727+00:00",
-  "LastUpdate_Achievements": "2023-12-16T09:03:37.5027937+00:00"
+  "LastUpdate_Ratings": "2023-12-16T09:59:03.8440857+00:00",
+  "LastUpdate_Achievements": "2023-12-16T10:03:36.1626216+00:00"
 }
