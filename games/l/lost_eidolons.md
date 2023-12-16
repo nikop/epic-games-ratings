@@ -6,10 +6,10 @@ Rating: 4.34 (Ranked 814)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The First Step | 68.00% | ~777 |
-| First Blood | 65.00% | ~743 |
-| Ready to Learn | 62.00% | ~709 |
-| Monster Hunter | 53.00% | ~606 |
-| Earning Trust | 50.00% | ~572 |
+| First Blood | 65.00% | ~742 |
+| Ready to Learn | 62.00% | ~708 |
+| Monster Hunter | 53.00% | ~605 |
+| Earning Trust | 50.00% | ~571 |
 | Monster Slayer | 29.00% | ~331 |
 | Awakening | 23.00% | ~263 |
 | Huntmaster | 22.00% | ~251 |
@@ -29,7 +29,7 @@ Rating: 4.34 (Ranked 814)
 | First Bloom | 1.00% | ~11 |
 | Lean on Me | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,143 (Ranked 266)  
+Progressed: 1,142 (Ranked 266)  
 Completed: 1 (0.09%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,11 +4,11 @@
   "ProductSlug": "risk-of-rain-2",
   "Ranking_Rating": 62,
   "Ranking_Popularity": 265,
-  "Ranking_PopularitySum": 195,
+  "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 517,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 518,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-04-19T15:00:00+00:00",
     "PcReleaseDate": "2020-08-11T14:53:00+00:00",
@@ -3003,10 +3003,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 2595,
       "NumberOfAwardsMax": 273
+    },
+    {
+      "Time": "2023-12-16T13:01:50.0974342+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2596,
+      "NumberOfAwardsMax": 273
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2595,
+  "NumberOfAwards": 2596,
   "NumberOfAwardsMax": 273,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3038,7 +3044,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 232
+      "Count": 233
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3094,8 +3100,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2023-12-15T13:58:52.1731132+00:00",
+  "LastChanged": "2023-12-16T13:01:50.097434+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:49.3214227+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:00:40.2861243+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:06:34.9838482+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:01:50.0974345+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:07:48.3996159+00:00"
 }

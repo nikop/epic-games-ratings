@@ -3688,9 +3688,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241125,
+  "EOS_Progressed": 241128,
   "EOS_Completed": 299,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -28403,6 +28403,11 @@
       "Time": "2023-12-16T12:11:06.4876184+00:00",
       "NumProgressed": 241125,
       "NumCompleted": 299
+    },
+    {
+      "Time": "2023-12-16T13:12:33.2450288+00:00",
+      "NumProgressed": 241128,
+      "NumCompleted": 299
     }
   ],
   "TotalAchievements": 138,
@@ -28462,7 +28467,7 @@
       "Name": "Consecutive Curses",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "DAILY7",
@@ -28630,7 +28635,7 @@
       "Name": "Who To Trust?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "ENDWOUNDED",
@@ -28670,7 +28675,7 @@
       "Name": "Just Chilling",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "FREEZE20TIMES",
@@ -28790,7 +28795,7 @@
       "Name": "Save Our Souls",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "HUGESOULSPILL",
@@ -28822,7 +28827,7 @@
       "Name": "Destroy Your Fears",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "KILL10000",
@@ -28926,7 +28931,7 @@
       "Name": "Stop Hitting Yourself",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "KILLSAMSPAREOTHERS",
@@ -29078,7 +29083,7 @@
       "Name": "Doing Time",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "POISON300",
@@ -29102,7 +29107,7 @@
       "Name": "Acid Bath",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "POISONSELF20",
@@ -29142,7 +29147,7 @@
       "Name": "New Perspectives",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "SNAKESTEALTH",
@@ -29198,7 +29203,7 @@
       "Name": "Flesh Wound",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -29214,7 +29219,7 @@
       "Name": "Shapeshifting",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -29517,13 +29522,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241125,
+      "Progressed": 241128,
       "Completed": 299
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2605,
+      "Progressed": 2608,
       "Completed": 406
     }
   ],
@@ -29531,8 +29536,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-16T10:57:08.4508717+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:11:06.4876178+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:12:33.2450286+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-16T11:57:22.1545964+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:11:06.4879707+00:00"
+  "LastUpdate_Ratings": "2023-12-16T12:59:37.8047012+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:12:33.2452774+00:00"
 }

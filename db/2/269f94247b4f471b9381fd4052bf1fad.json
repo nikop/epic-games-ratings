@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -244,9 +244,9 @@
       "ID": "ACH_FIRST-PAYCHECK",
       "SetID": "6lg1p1e",
       "Name": "First Paycheck",
-      "Percentage": 31,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_FRIENEMY",
@@ -459,8 +459,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:09:09.1723675+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:11:08.9080776+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.3604769+00:00",
-  "LastUpdate_Ratings": "2023-12-16T11:57:31.8676432+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:09:09.1723903+00:00"
+  "LastUpdate_Ratings": "2023-12-16T12:59:44.1097998+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:11:08.9080997+00:00"
 }

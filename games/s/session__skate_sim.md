@@ -6,10 +6,10 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,947 |
+| You're free now! | 61.00% | ~1,948 |
 | Keeping it classy | 28.00% | ~894 |
 | Welcome to the family | 22.00% | ~702 |
-| The finer things in life | 20.00% | ~638 |
+| The finer things in life | 20.00% | ~639 |
 | Backpacker | 14.00% | ~447 |
 | Go with the Flow | 14.00% | ~447 |
 | The flip trick crown jewel | 11.00% | ~351 |
@@ -21,9 +21,9 @@ Number of Ratings: 111  (23.09.2022)
 | Fashionista | 8.00% | ~255 |
 | That pinch! | 8.00% | ~255 |
 | Tight lipslides | 8.00% | ~255 |
-| Bottom ply killer | 7.00% | ~223 |
-| Finally he zips it | 7.00% | ~223 |
-| G'Day Mate! | 7.00% | ~223 |
+| Bottom ply killer | 7.00% | ~224 |
+| Finally he zips it | 7.00% | ~224 |
+| G'Day Mate! | 7.00% | ~224 |
 | Commence the Hijinx! | 6.00% | ~192 |
 | DIY Boss | 6.00% | ~192 |
 | Fulfilled the dream | 6.00% | ~192 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,192 (Ranked 216)  
+Progressed: 3,193 (Ranked 216)  
 Completed: 2 (0.06%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,24 +270,24 @@ Completed: 2 (0.06%) (Ranked 318)
 | 2023-12-13 | 3,118 | 2 |
 | 2023-12-14 | 3,148 | 2 |
 | 2023-12-15 | 3,179 | 2 |
-| 2023-12-16 | 3,192 | 2 |
+| 2023-12-16 | 3,193 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 420)  
-Sum: 564 (Ranked 320)  
+Sum: 566 (Ranked 320)  
 Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 59 |
 | This game is Great for Quick Sessions | 59 |
 | This game has Diverse Characters | 54 |
+| This game has Realistic Visuals | 50 |
 | This game has a Creative Community | 49 |
 | This game has Amazing Characters | 49 |
-| This game has Realistic Visuals | 49 |
 | This game is Extremely Fun | 47 |
 | This game has Amazing Storytelling | 46 |
 | This game is Relaxing | 44 |
 | This game has Quickly Understood Controls | 39 |
-| This game is Educational | 38 |
+| This game is Educational | 39 |
 | This game has Challenging Combat | 31 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -475,3 +475,4 @@ Diff (max vs sum): 100
 | 2023-12-13 | 4.69 | - | 59 | 562 |
 | 2023-12-14 | 4.69 | - | 59 | 563 |
 | 2023-12-15 | 4.69 | - | 59 | 564 |
+| 2023-12-16 | 4.69 | - | 59 | 566 |

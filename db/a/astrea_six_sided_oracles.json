@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 156,
+  "EOS_Progressed": 157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -679,6 +679,11 @@
       "Time": "2023-12-16T12:08:46.8024568+00:00",
       "NumProgressed": 156,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T13:10:53.1514494+00:00",
+      "NumProgressed": 157,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -913,9 +918,9 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "EndlessTricks",
@@ -1019,7 +1024,7 @@
       "Name": "Loyal Partner",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "MechanicIntegration",
@@ -1041,17 +1046,17 @@
       "ID": "MeissasSavior",
       "SetID": "1jeo1g7",
       "Name": "Meissa\u0027s Savior",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 108
     },
     {
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1115,7 +1120,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ReflexiveMind",
@@ -1145,9 +1150,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "Sentinelphobic",
@@ -1291,7 +1296,7 @@
       "Name": "Unbeatable",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "UnepicHero",
@@ -1313,17 +1318,17 @@
       "ID": "WaveBender",
       "SetID": "1jeo1g7",
       "Name": "Wave Bender",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "WildsKeeper",
       "SetID": "1jeo1g7",
       "Name": "Wild\u0027s Keeper",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "ApianChampion",
@@ -1401,9 +1406,9 @@
       "ID": "EridanianChampion",
       "SetID": "1jeo1g7",
       "Name": "Eridanian Champion",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "EridanianHero",
@@ -1474,14 +1479,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 156,
+      "Progressed": 157,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:08:46.8024563+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:10:53.1514491+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.3287789+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:00:21.3471016+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:08:46.8025341+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:01:35.7827299+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:10:53.151525+00:00"
 }

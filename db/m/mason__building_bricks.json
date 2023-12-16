@@ -2,10 +2,10 @@
   "ID": "6840592dd7994a8ebfaac93d7515b187",
   "Name": "Mason: Building Bricks",
   "ProductSlug": "mason-building-bricks-73659e",
-  "Ranking_EOS_Progress": 518,
+  "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 517,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 518,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-04-14T14:00:00+00:00",
     "PcReleaseDate": "2020-11-09T15:00:00+00:00",
@@ -294,8 +294,8 @@
   "FirstSeenRating": "2023-04-19T03:58:31.2715304+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.1557568+00:00",
   "LastChanged": "2023-04-19T03:58:31.2715304+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:05:46.7174361+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:07:13.6299587+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:45.8891158+00:00",
-  "LastUpdate_Ratings": "2023-12-16T11:58:56.4819294+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:05:46.7174459+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:00:41.2389094+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:07:13.6299655+00:00"
 }

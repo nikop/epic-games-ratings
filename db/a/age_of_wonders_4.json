@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5723,
+  "EOS_Progressed": 5728,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8175,6 +8175,11 @@
       "Time": "2023-12-16T12:04:10.5939691+00:00",
       "NumProgressed": 5723,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-16T13:06:04.0064141+00:00",
+      "NumProgressed": 5728,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8186,7 +8191,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "10",
@@ -8234,7 +8239,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "16",
@@ -8274,7 +8279,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "20",
@@ -8338,7 +8343,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "28",
@@ -8354,7 +8359,7 @@
       "Name": "Stronger Together",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "3",
@@ -8386,7 +8391,7 @@
       "Name": "My Final Form",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "33",
@@ -8402,7 +8407,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "35",
@@ -8418,7 +8423,7 @@
       "Name": "Fiery Friend",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "37",
@@ -8442,7 +8447,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "4",
@@ -8458,7 +8463,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "41",
@@ -8538,7 +8543,7 @@
       "Name": "Here be Dragons",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "46",
@@ -8546,7 +8551,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "47",
@@ -8586,7 +8591,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "52",
@@ -8594,7 +8599,7 @@
       "Name": "Sehiran Oasis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "53",
@@ -8610,7 +8615,7 @@
       "Name": "Chaos Surge",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "55",
@@ -8634,7 +8639,7 @@
       "Name": "Spoils of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "58",
@@ -8665,13 +8670,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5723,
+      "Progressed": 5728,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5723,
+      "Progressed": 5728,
       "Completed": 7
     }
   ],
@@ -8679,8 +8684,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:04:10.5939686+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:06:04.0064138+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:32.604119+00:00",
-  "LastUpdate_Ratings": "2023-12-16T11:58:26.3571269+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:04:10.5940666+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:00:21.931456+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:06:04.0064903+00:00"
 }

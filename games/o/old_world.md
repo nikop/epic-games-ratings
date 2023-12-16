@@ -161,7 +161,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.50% | ~79 |
 | Magnificent Difficulty | 0.50% | ~79 |
 | The Eternal Treaty | 0.50% | ~79 |
-| Assyria | 0.50% | ~79 |
 | Play a Network Game | 0.50% | ~79 |
 | Three Man Chariot | 0.50% | ~79 |
 | Conquest Victory | 0.50% | ~79 |
@@ -175,6 +174,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Five Routs | 0.40% | ~63 |
 | Run, Pheidippides, Run! | 0.40% | ~63 |
 | Nenikekamen | 0.40% | ~63 |
+| Assyria | 0.40% | ~63 |
 | Apadana in Parsa | 0.40% | ~63 |
 | Play a Free-For-All Game (>2 Players) | 0.40% | ~63 |
 | Circus Maximus in Roma | 0.40% | ~63 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,776 (Ranked 155)  
+Progressed: 15,778 (Ranked 155)  
 Completed: 5 (0.03%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -589,11 +589,11 @@ Completed: 5 (0.03%) (Ranked 338)
 | 2023-12-13 | 15,751 | 5 |
 | 2023-12-14 | 15,760 | 5 |
 | 2023-12-15 | 15,768 | 5 |
-| 2023-12-16 | 15,776 | 5 |
+| 2023-12-16 | 15,778 | 5 |
 ## Awards
-Max (Relaxing): 228  (Ranked 277)  
+Max (Relaxing): 228  (Ranked 278)  
 Sum: 1,901 (Ranked 220)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 228 |

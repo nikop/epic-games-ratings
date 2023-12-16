@@ -4,7 +4,7 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197,
+  "EOS_Progressed": 198,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -764,6 +764,11 @@
       "Time": "2023-12-16T10:06:23.4488985+00:00",
       "NumProgressed": 197,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T13:09:17.4876+00:00",
+      "NumProgressed": 198,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -784,7 +789,7 @@
       "Name": "A friend of the animals... or not.",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "TINGWD_BEATEM",
@@ -824,7 +829,7 @@
       "Name": "To infinity and beyond!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "TINGWD_CARMACK",
@@ -856,7 +861,7 @@
       "Name": "Princess saver",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "TINGWD_CHAP_END_04",
@@ -864,7 +869,7 @@
       "Name": "The end of the ordeal",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "TINGWD_CHAP_END_05",
@@ -872,7 +877,7 @@
       "Name": "It\u0027s not over yet",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "TINGWD_CHAP_END_06",
@@ -888,7 +893,7 @@
       "Name": "Serial Clicker",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "TINGWD_CONSPI",
@@ -902,9 +907,9 @@
       "ID": "TINGWD_DETECTIVE",
       "SetID": "c0imaa6",
       "Name": "Private Detective",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 172
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -928,7 +933,7 @@
       "Name": "Headshot",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "TINGWD_HONEY",
@@ -960,7 +965,7 @@
       "Name": "Outside the box",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "TINGWD_PERPETUITY",
@@ -976,7 +981,7 @@
       "Name": "One Punch Man",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "TINGWD_RADAR",
@@ -1030,9 +1035,9 @@
       "ID": "TINGWD_TRAP",
       "SetID": "c0imaa6",
       "Name": "It\u0027s a trap!",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 120,
-      "UsersEstimate": 77
+      "UsersEstimate": 75
     },
     {
       "ID": "TINGWD_WRONGDIMENSION",
@@ -1047,14 +1052,14 @@
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 197,
+      "Progressed": 198,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:08:38.752164+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:09:17.4875997+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:03.1671166+00:00",
-  "LastUpdate_Ratings": "2023-12-16T11:59:48.5721516+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:08:38.7521883+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:01:14.8283979+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:09:17.4876236+00:00"
 }

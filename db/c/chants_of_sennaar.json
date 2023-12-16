@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1162,
+  "EOS_Progressed": 1165,
   "EOS_Completed": 57,
   "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 4.91,
+  "EOS_Completed_Percentage": 4.89,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -4200,6 +4200,11 @@
       "Time": "2023-12-16T12:06:39.8909898+00:00",
       "NumProgressed": 1162,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-16T13:07:52.0474531+00:00",
+      "NumProgressed": 1165,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 25,
@@ -4211,7 +4216,7 @@
       "Name": "I did it",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "END_GOOD",
@@ -4227,7 +4232,7 @@
       "Name": "Peace walker",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -4241,9 +4246,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 245
     },
     {
       "ID": "META_HALF_LINK",
@@ -4259,7 +4264,7 @@
       "Name": "Open door",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "META_RESULT_1-3",
@@ -4275,7 +4280,7 @@
       "Name": "Feels like springtime",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "META_RESULT_2-3",
@@ -4299,7 +4304,7 @@
       "Name": "A Link to the Past",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -4307,15 +4312,15 @@
       "Name": "Alchemists Express",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 175
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -4323,15 +4328,15 @@
       "Name": "True G3M4R",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 350
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -4353,9 +4358,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 478
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -4371,7 +4376,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "PROGRESS_N2",
@@ -4379,7 +4384,7 @@
       "Name": "The great escape",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "PROGRESS_N3",
@@ -4387,7 +4392,7 @@
       "Name": "A new dawn",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "PROGRESS_N4",
@@ -4395,7 +4400,7 @@
       "Name": "The darkness",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "PROGRESS_N5",
@@ -4410,14 +4415,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1162,
+      "Progressed": 1165,
       "Completed": 57
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:06:39.8909894+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:07:52.0474528+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:01:24.5962791+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:06:39.891035+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:02:20.0206743+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:07:52.0474922+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "jump-challenge-228ff0",
   "Ranking_EOS_Progress": 552,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 444,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
     "PcReleaseDate": "2022-03-19T04:00:00+00:00",
@@ -195,9 +195,9 @@
       "ID": "DEATH_ALL",
       "SetID": "5629o35",
       "Name": "Hardened",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DEATH_CACTI",
@@ -211,9 +211,9 @@
       "ID": "DEATH_CANON",
       "SetID": "5629o35",
       "Name": "Hold that for a second",
-      "Percentage": 6,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DEATH_FLOWER",
@@ -243,9 +243,9 @@
       "ID": "DEATH_LIGHTNING",
       "SetID": "5629o35",
       "Name": "Storm Chaser",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FIRST_DEATH",
@@ -330,8 +330,8 @@
   ],
   "FirstSeen": "2023-11-29T17:58:28.6807523+00:00",
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:09:20.237107+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:11:16.2627772+00:00",
   "LastUpdate_AppInfo": "2023-12-11T16:57:10.4270439+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:01:14.1539639+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:09:20.2371242+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:02:13.0515464+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:11:16.2627881+00:00"
 }

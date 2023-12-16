@@ -2,13 +2,13 @@
   "ID": "db9ef498b3fa4b26afb501ea352e3c46",
   "Name": "Anno 1701 History Edition",
   "ProductSlug": "anno-1701",
-  "Ranking_Rating": 534,
+  "Ranking_Rating": 533,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 517,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 518,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -399,6 +399,6 @@
   "FirstSeenRating": "2022-08-06T11:01:24.6446808+00:00",
   "LastChanged": "2023-12-13T12:00:22.731184+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:16.7328906+00:00",
-  "LastUpdate_Ratings": "2023-12-16T11:57:40.856962+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:09:03.6252882+00:00"
+  "LastUpdate_Ratings": "2023-12-16T12:59:49.8065061+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:11:04.9375167+00:00"
 }

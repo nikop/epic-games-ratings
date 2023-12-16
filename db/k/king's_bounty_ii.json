@@ -2,13 +2,13 @@
   "ID": "aa4742eef2744a41bdb3115cfeca8b89",
   "Name": "King\u0027s Bounty II",
   "ProductSlug": "kings-bounty-ii",
-  "Ranking_Rating": 928,
+  "Ranking_Rating": 919,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 517,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 518,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-08-24T17:00:00+00:00",
     "PcReleaseDate": "2021-08-24T17:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.2,
+  "Rating": 4.21,
   "NumberOfRatings": 108,
   "RatingHistory": [
     {
@@ -360,6 +360,12 @@
       "Rating": 4.2,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-16T13:02:53.0233583+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -377,8 +383,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:59.0658274+00:00",
-  "LastChanged": "2023-11-20T13:09:34.8802389+00:00",
+  "LastChanged": "2023-12-16T13:02:53.0233582+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:04.9947563+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:02:13.584301+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:04:34.4242039+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:02:53.0233585+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:06:21.3645595+00:00"
 }

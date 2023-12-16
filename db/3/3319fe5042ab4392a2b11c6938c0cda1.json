@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -249,9 +249,9 @@
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "ae95dh3",
       "Name": "Happy Birthday",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -305,9 +305,9 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "ae95dh3",
       "Name": "All That Glitters",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -361,9 +361,9 @@
       "ID": "NEW_ACHIEVEMENT_1_30",
       "SetID": "ae95dh3",
       "Name": "Dirty Secrets",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_31",
@@ -472,8 +472,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:05:32.461471+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:07:03.339263+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184739+00:00",
-  "LastUpdate_Ratings": "2023-12-16T11:59:08.1538704+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:05:32.4615081+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:00:49.294435+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:07:03.3392936+00:00"
 }

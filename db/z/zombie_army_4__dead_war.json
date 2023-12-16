@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2556,9 +2556,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44151,
+  "EOS_Progressed": 44152,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9936,6 +9936,11 @@
       "Time": "2023-12-16T09:04:17.1248586+00:00",
       "NumProgressed": 44151,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-16T13:07:04.1137679+00:00",
+      "NumProgressed": 44152,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -10003,7 +10008,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12362
+      "UsersEstimate": 12363
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -10067,7 +10072,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14128
+      "UsersEstimate": 14129
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -10139,7 +10144,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27815
+      "UsersEstimate": 27816
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -10155,7 +10160,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 15011
+      "UsersEstimate": 15012
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -10163,7 +10168,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19426
+      "UsersEstimate": 19427
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -10171,7 +10176,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14128
+      "UsersEstimate": 14129
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -10203,7 +10208,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15894
+      "UsersEstimate": 15895
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -10243,7 +10248,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18543
+      "UsersEstimate": 18544
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -10251,7 +10256,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22517
+      "UsersEstimate": 22518
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -10259,7 +10264,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16777
+      "UsersEstimate": 16778
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -10275,7 +10280,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30464
+      "UsersEstimate": 30465
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -10307,7 +10312,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25166
+      "UsersEstimate": 25167
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -10323,7 +10328,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15894
+      "UsersEstimate": 15895
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -10387,7 +10392,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 15011
+      "UsersEstimate": 15012
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -10467,22 +10472,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15894
+      "UsersEstimate": 15895
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44151,
+      "Progressed": 44152,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-14T22:58:01.1346341+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:05:33.6833574+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:07:04.1137675+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:44.7466868+00:00",
-  "LastUpdate_Ratings": "2023-12-16T11:58:58.6096848+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:05:33.6834332+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:00:42.655336+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:07:04.1138568+00:00"
 }

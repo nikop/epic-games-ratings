@@ -2,10 +2,10 @@
   "ID": "0407f287e7574d88b7c00895f14628d8",
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
-  "Ranking_EOS_Progress": 520,
+  "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48,
+  "EOS_Progressed": 49,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -204,6 +204,11 @@
       "Time": "2023-12-16T10:04:14.8470465+00:00",
       "NumProgressed": 48,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T13:07:06.8062117+00:00",
+      "NumProgressed": 49,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -246,17 +251,17 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "dl2",
       "SetID": "b1ggf28",
       "Name": "Road Planning",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "dl3",
@@ -270,9 +275,9 @@
       "ID": "f1",
       "SetID": "b1ggf28",
       "Name": "Agriculture Tycoon",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "f2",
@@ -294,7 +299,7 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 20,
       "UsersEstimate": 22
     },
@@ -318,7 +323,7 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 20,
       "UsersEstimate": 25
     },
@@ -390,7 +395,7 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -414,7 +419,7 @@
       "ID": "jz1",
       "SetID": "b1ggf28",
       "Name": "Builder",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -422,9 +427,9 @@
       "ID": "jz2",
       "SetID": "b1ggf28",
       "Name": "Architect",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "jz3",
@@ -454,17 +459,17 @@
       "ID": "k3",
       "SetID": "b1ggf28",
       "Name": "Technology Town",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "m1",
       "SetID": "b1ggf28",
       "Name": "Animal Imports",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "m2",
@@ -494,7 +499,7 @@
       "ID": "r2",
       "SetID": "b1ggf28",
       "Name": "A Welcoming Settlement",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -528,7 +533,7 @@
       "Name": "Against the Cold",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "w2",
@@ -542,9 +547,9 @@
       "ID": "w3",
       "SetID": "b1ggf28",
       "Name": "Luxury Clothes",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "x1",
@@ -623,14 +628,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 48,
+      "Progressed": 49,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:05:37.4669755+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:07:06.8062114+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:03:21.9752977+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:05:37.4670205+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:05:31.3997538+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:07:06.8062537+00:00"
 }

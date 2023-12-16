@@ -6,13 +6,13 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 74.00% | ~4,741 |
-| Un-Lonely Island | 46.00% | ~2,947 |
-| The Beginning of a Servantship | 44.00% | ~2,819 |
+| Just One...More...Term... | 74.00% | ~4,743 |
+| Un-Lonely Island | 46.00% | ~2,948 |
+| The Beginning of a Servantship | 44.00% | ~2,820 |
 | Trade Is My Trait | 37.00% | ~2,371 |
 | Number 18 | 23.00% | ~1,474 |
-| We Don't Have Time For That | 19.00% | ~1,217 |
-| The Governator | 17.00% | ~1,089 |
+| We Don't Have Time For That | 19.00% | ~1,218 |
+| The Governator | 17.00% | ~1,090 |
 | The Legend of Langostino | 16.00% | ~1,025 |
 | Caribbean Comrade | 15.00% | ~961 |
 | The Dreamer of Dreams | 15.00% | ~961 |
@@ -23,11 +23,11 @@ Number of Ratings: 398  (23.09.2022)
 | Shackadelic | 9.00% | ~577 |
 | Double Trouble | 8.00% | ~513 |
 | Firestarter | 8.00% | ~513 |
-| I Owe You Nothing | 7.00% | ~448 |
-| Make Tropico Great Again! | 7.00% | ~448 |
-| French Connection | 7.00% | ~448 |
-| Don't Panic! | 6.00% | ~384 |
-| Beware The Betman | 6.00% | ~384 |
+| I Owe You Nothing | 7.00% | ~449 |
+| Make Tropico Great Again! | 7.00% | ~449 |
+| French Connection | 7.00% | ~449 |
+| Don't Panic! | 6.00% | ~385 |
+| Beware The Betman | 6.00% | ~385 |
 | Viva Tropico! | 5.00% | ~320 |
 | Computer Says "No" | 5.00% | ~320 |
 | Watch The World Burn | 5.00% | ~320 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~51 |
 | My Ways | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,407 (Ranked 188)  
+Progressed: 6,409 (Ranked 188)  
 Completed: 2 (0.03%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 2 (0.03%) (Ranked 338)
 | 2023-12-13 | 6,313 | 2 |
 | 2023-12-14 | 6,351 | 2 |
 | 2023-12-15 | 6,377 | 2 |
-| 2023-12-16 | 6,407 | 2 |
+| 2023-12-16 | 6,409 | 2 |
 ## Awards
 Max (Highly Recommended): 104  (Ranked 364)  
 Sum: 739 (Ranked 294)  

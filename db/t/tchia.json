@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8037,
+  "EOS_Progressed": 8040,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9221,6 +9221,11 @@
       "Time": "2023-12-16T12:04:28.8490563+00:00",
       "NumProgressed": 8037,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-16T13:06:17.4060352+00:00",
+      "NumProgressed": 8040,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9280,7 +9285,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -9352,7 +9357,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "SHREDDER",
@@ -9384,7 +9389,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "THING",
@@ -9399,7 +9404,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8037,
+      "Progressed": 8040,
       "Completed": 34
     }
   ],
@@ -9407,8 +9412,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:04:28.8490557+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:06:17.4060349+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:30.6418185+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:03:25.000283+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:04:28.8491352+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:05:33.5155224+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:06:17.4060931+00:00"
 }

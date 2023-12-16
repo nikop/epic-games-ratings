@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -443,9 +443,9 @@
       "ID": "CgkIxYDzrbcPEAIQAQ",
       "SetID": "4egpam7",
       "Name": "Catacomb Crawl",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAg",
@@ -515,9 +515,9 @@
       "ID": "CgkIxYDzrbcPEAIQCg",
       "SetID": "4egpam7",
       "Name": "Pest Control",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCw",
@@ -547,9 +547,9 @@
       "ID": "CgkIxYDzrbcPEAIQDg",
       "SetID": "4egpam7",
       "Name": "Fireman",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDw",
@@ -690,8 +690,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:07:59.0087219+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:08:49.831845+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:44.1907943+00:00",
-  "LastUpdate_Ratings": "2023-12-16T11:58:34.6139377+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:07:59.0087467+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:00:27.2082628+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:08:49.8318639+00:00"
 }

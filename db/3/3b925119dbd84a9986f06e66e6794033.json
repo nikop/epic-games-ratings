@@ -2,10 +2,10 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 358,
+  "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 332,
+  "EOS_Progressed": 335,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1169,6 +1169,11 @@
       "Time": "2023-12-16T07:09:50.6811648+00:00",
       "NumProgressed": 332,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T13:12:05.9400793+00:00",
+      "NumProgressed": 335,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1187,9 +1192,9 @@
       "ID": "DODO_RE_MI_PAPER_BLADDER",
       "SetID": "9j9h72e",
       "Name": "Dodo Re Mi: Paper Bladder",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "DODO_RE_MI_SAX_FAMILY",
@@ -1235,9 +1240,9 @@
       "ID": "HYPNO_UNANIMOUS_OUTLIER",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Masterminds",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "RISKYTEXT_BOOST_VOTE",
@@ -1245,7 +1250,7 @@
       "Name": "FixyText: Pump It Up",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -1253,15 +1258,15 @@
       "Name": "FixyText: Bestseller",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
       "SetID": "9j9h72e",
       "Name": "FixyText: Chatterbox",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "RISKYTEXT_VOTE_FOR_EDITED_WORD",
@@ -1277,7 +1282,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "TIME_ORWELL",
@@ -1301,7 +1306,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -1340,14 +1345,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 332,
+      "Progressed": 335,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:10:29.7380509+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:12:05.940079+00:00",
   "LastUpdate_AppInfo": "2023-12-16T01:42:15.0489028+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:03:15.7547044+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:10:29.7380719+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:05:27.1927024+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:12:05.9400956+00:00"
 }

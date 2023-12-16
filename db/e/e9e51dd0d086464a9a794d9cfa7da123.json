@@ -4,8 +4,8 @@
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
   "Ranking_EOS_Progress": 493,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
     "PcReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -387,9 +387,9 @@
       "ID": "CK",
       "SetID": "2621k8c",
       "Name": "Conversation Killer",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CLC",
@@ -619,9 +619,9 @@
       "ID": "IC",
       "SetID": "2621k8c",
       "Name": "Intimate Contact",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "IWM",
@@ -771,9 +771,9 @@
       "ID": "Merged",
       "SetID": "2621k8c",
       "Name": "Merged",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Mistress",
@@ -1035,9 +1035,9 @@
       "ID": "TMBM",
       "SetID": "2621k8c",
       "Name": "The most beautiful memory",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TMOL",
@@ -1130,8 +1130,8 @@
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:11:04.8068052+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:12:31.9382491+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.0306936+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:00:30.718412+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:11:04.8069119+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:01:43.9688734+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:12:31.9383248+00:00"
 }

@@ -5,37 +5,37 @@ Rating: 4.21 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~7,755 |
-| Disposing of the Evidence | 38.00% | ~3,550 |
-| Without a Scratch | 34.00% | ~3,177 |
-| Wreckless Driving | 28.00% | ~2,616 |
-| A Marked Man | 25.00% | ~2,336 |
-| Street Sweeper | 18.00% | ~1,682 |
-| Liberty City Minute | 17.00% | ~1,588 |
-| Offshore Delivery | 14.00% | ~1,308 |
-| Dirty Money | 12.00% | ~1,121 |
-| By a Mile | 10.00% | ~934 |
-| Not So Fast | 10.00% | ~934 |
-| Right-hand Man | 10.00% | ~934 |
-| A Gift from the King | 7.00% | ~654 |
+| First Day on the Job | 83.00% | ~7,761 |
+| Disposing of the Evidence | 38.00% | ~3,553 |
+| Without a Scratch | 34.00% | ~3,179 |
+| Wreckless Driving | 28.00% | ~2,618 |
+| A Marked Man | 25.00% | ~2,338 |
+| Street Sweeper | 18.00% | ~1,683 |
+| Liberty City Minute | 17.00% | ~1,590 |
+| Offshore Delivery | 14.00% | ~1,309 |
+| Dirty Money | 12.00% | ~1,122 |
+| By a Mile | 10.00% | ~935 |
+| Not So Fast | 10.00% | ~935 |
+| Right-hand Man | 10.00% | ~935 |
+| A Gift from the King | 7.00% | ~655 |
 | Full Artillery | 4.00% | ~374 |
-| Mob Boss | 3.00% | ~280 |
+| Mob Boss | 3.00% | ~281 |
 | Escape Artist | 2.00% | ~187 |
 | Where To? | 2.00% | ~187 |
 | Splish Splash | 2.00% | ~187 |
 | Playing Doctor | 2.00% | ~187 |
 | Liberty City Secrets | 2.00% | ~187 |
-| Planned Ahead | 1.00% | ~93 |
-| Got This Figured Out | 1.00% | ~93 |
-| Wheels Up | 1.00% | ~93 |
-| Come Out to Play-y-y-y | 1.00% | ~93 |
-| Man Toyz | 1.00% | ~93 |
-| Going Rogue | 1.00% | ~93 |
-| Furious First Responder | 1.00% | ~93 |
+| Planned Ahead | 1.00% | ~94 |
+| Got This Figured Out | 1.00% | ~94 |
+| Wheels Up | 1.00% | ~94 |
+| Come Out to Play-y-y-y | 1.00% | ~94 |
+| Man Toyz | 1.00% | ~94 |
+| Going Rogue | 1.00% | ~94 |
+| Furious First Responder | 1.00% | ~94 |
 | Is That All You've Got? | 0.90% | ~84 |
 | King of Liberty City | 0.60% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,343 (Ranked 173)  
+Progressed: 9,351 (Ranked 174)  
 Completed: 60 (0.64%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 60 (0.64%) (Ranked 190)
 | 2023-12-13 | 8,860 | 60 |
 | 2023-12-14 | 9,067 | 60 |
 | 2023-12-15 | 9,263 | 60 |
-| 2023-12-16 | 9,343 | 60 |
+| 2023-12-16 | 9,351 | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -602,9 +602,9 @@
       "ID": "CgkInO_K3eIdEAIQGg",
       "SetID": "6bj96in",
       "Name": "GENIUS LOCI",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -617,8 +617,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:10:39.7918346+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:12:13.1762438+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.9435383+00:00",
-  "LastUpdate_Ratings": "2023-12-16T11:59:49.306558+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:10:39.7918513+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:01:15.2201587+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:12:13.1762613+00:00"
 }

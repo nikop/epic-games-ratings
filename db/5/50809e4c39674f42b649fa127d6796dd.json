@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 462,
+  "EOS_Progressed": 463,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
@@ -1212,6 +1212,11 @@
       "Time": "2023-12-16T08:04:15.2039532+00:00",
       "NumProgressed": 462,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T13:07:17.9770993+00:00",
+      "NumProgressed": 463,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1240,7 +1245,7 @@
       "Name": "Ares Island Explorer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND3",
@@ -1272,7 +1277,7 @@
       "Name": "Easy Prey",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "FIRST_ACCEL_COMBO",
@@ -1318,17 +1323,17 @@
       "ID": "FIRST_METEOR_SHOWER",
       "SetID": "apihg0e",
       "Name": "Celestial Rain",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 102
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 370
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1344,7 +1349,7 @@
       "Name": "Superior Ranking",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1366,9 +1371,9 @@
       "ID": "KODAMA_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Koco Leader",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 79
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
@@ -1408,7 +1413,7 @@
       "Name": "A Land at Peace",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "MAIN_CLEAR_TUTORIAL",
@@ -1416,7 +1421,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1440,7 +1445,7 @@
       "Name": "Ares Island Memories",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD3",
@@ -1504,7 +1509,7 @@
       "Name": "Kronos Island Expert",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "SUB_CLEAR_ISLAND2",
@@ -1536,21 +1541,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 462,
+      "Progressed": 463,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:05:52.7479814+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:07:17.977099+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:06.567221+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:03:41.1818208+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:05:52.7480204+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:05:44.5584128+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:07:17.9771254+00:00"
 }

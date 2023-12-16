@@ -3,9 +3,9 @@
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 288,
-  "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_Completed": 146,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 750,
+  "EOS_Progressed": 751,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.47,
+  "EOS_Completed_Percentage": 1.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.144074+00:00",
@@ -2000,6 +2000,11 @@
       "Time": "2023-12-16T12:10:43.1051945+00:00",
       "NumProgressed": 750,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-16T13:12:15.7384182+00:00",
+      "NumProgressed": 751,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -2009,9 +2014,9 @@
       "ID": "all_set_up",
       "SetID": "c4ipj3h",
       "Name": "All Set Up",
-      "Percentage": 99,
+      "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 742
+      "UsersEstimate": 736
     },
     {
       "ID": "booty_call",
@@ -2019,7 +2024,7 @@
       "Name": "Booty Call",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "crash_and_burn",
@@ -2027,7 +2032,7 @@
       "Name": "Crash and Burn",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "digital_casanova",
@@ -2043,7 +2048,7 @@
       "Name": "Hold my Beer",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -2075,7 +2080,7 @@
       "Name": "Not Alone",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "nueva_beginnings",
@@ -2083,7 +2088,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "only_thyme_will_tell",
@@ -2130,7 +2135,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 750,
+      "Progressed": 751,
       "Completed": 11
     }
   ],
@@ -2138,8 +2143,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:10:43.1051939+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:12:15.738418+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:00.3976276+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:00:00.2752879+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:10:43.1052126+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:01:22.4919367+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:12:15.7384423+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 865,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 322,
+  "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -152,7 +152,7 @@
   "Tags": [],
   "EOS_Progressed": 510,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1825,9 +1825,9 @@
       "ID": "ACH_COOK",
       "SetID": "7c4cldc",
       "Name": "Cook",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -1986,8 +1986,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-11-17T17:00:24.0955126+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:09:47.7114651+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:11:36.4767506+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.171246+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:02:04.9032561+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:09:47.711527+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:02:46.948903+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:11:36.4767864+00:00"
 }

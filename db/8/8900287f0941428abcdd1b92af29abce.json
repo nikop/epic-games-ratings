@@ -4,8 +4,8 @@
   "ProductSlug": "miniland-adventure-ee81ff",
   "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-12-07T14:00:00+00:00",
     "PcReleaseDate": "2023-04-10T13:00:00+00:00",
@@ -172,9 +172,9 @@
       "ID": "ach-bucket-of-salt-water",
       "SetID": "6aph42m",
       "Name": "Now I can drink that",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach-cactus",
@@ -204,17 +204,17 @@
       "ID": "ach-chest",
       "SetID": "6aph42m",
       "Name": "I\u0027ve got no place in inventory",
-      "Percentage": 53,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach-cooked-mutton",
       "SetID": "6aph42m",
       "Name": "Getting nutritions!",
-      "Percentage": 35,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach-cooked-ostrich-egg",
@@ -228,9 +228,9 @@
       "ID": "ach-copper",
       "SetID": "6aph42m",
       "Name": "Harder materials",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach-copper-watering-can",
@@ -340,9 +340,9 @@
       "ID": "ach-ladder",
       "SetID": "6aph42m",
       "Name": "It\u0027s dark here!",
-      "Percentage": 41,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach-lava-lamp",
@@ -524,9 +524,9 @@
       "ID": "ach-wool",
       "SetID": "6aph42m",
       "Name": "A naked sheep",
-      "Percentage": 12,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach-workbench",
@@ -547,8 +547,8 @@
   ],
   "FirstSeen": "2023-12-09T20:59:53.605626+00:00",
   "FirstSeenAchievements": "2023-09-27T06:05:39.2666292+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:10:05.8939077+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:11:49.4333147+00:00",
   "LastUpdate_AppInfo": "2023-12-13T11:57:08.2416501+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:00:16.692578+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:10:05.8939577+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:01:32.4466539+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:11:49.4333452+00:00"
 }

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 85.00% | ~64 |
+| Act of Kindness | 87.00% | ~65 |
 | Air Fighter | 79.00% | ~59 |
-| Oo-De-Lally | 68.00% | ~51 |
+| Oo-De-Lally | 69.00% | ~52 |
 | The Altruist | 68.00% | ~51 |
 | Treasure Hunter | 65.00% | ~49 |
 | Watch your Step! | 53.00% | ~40 |

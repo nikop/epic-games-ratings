@@ -4,8 +4,8 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 109,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -464,9 +464,9 @@
       "ID": "DiggingAHole",
       "SetID": "4bd750m",
       "Name": "Digging a Hole",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "DopaMiner",
@@ -480,17 +480,17 @@
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "GottaGoFast",
       "SetID": "4bd750m",
       "Name": "Gotta Go Fast",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 90,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ImALumberbot",
@@ -528,9 +528,9 @@
       "ID": "Mathematic",
       "SetID": "4bd750m",
       "Name": "Mathematic",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "MineSweeper",
@@ -655,8 +655,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:07:19.187364+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:08:21.0749876+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:13.5200104+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:03:49.6498624+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:07:19.187383+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:05:50.0271963+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:08:21.0750041+00:00"
 }

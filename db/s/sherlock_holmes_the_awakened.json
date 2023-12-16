@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -129,7 +129,7 @@
   "Tags": [],
   "EOS_Progressed": 1202,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.58,
   "EosHistory": [
@@ -4197,9 +4197,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 493
+      "UsersEstimate": 505
     },
     {
       "ID": "MQ03_3",
@@ -4237,9 +4237,9 @@
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 397
+      "UsersEstimate": 409
     },
     {
       "ID": "MQ04_3",
@@ -4374,8 +4374,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-14T11:03:29.6730885+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:05:40.3316365+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:07:09.0143121+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:03:44.3670065+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:05:40.3316879+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:05:46.5845111+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:07:09.0143684+00:00"
 }

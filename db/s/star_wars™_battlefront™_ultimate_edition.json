@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1771,
+  "EOS_Progressed": 1773,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5304,6 +5304,11 @@
       "Time": "2023-12-16T12:11:04.4801793+00:00",
       "NumProgressed": 1771,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T13:12:31.6482247+00:00",
+      "NumProgressed": 1773,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5420,7 +5425,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "achievement_22",
@@ -5532,7 +5537,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "achievement_35",
@@ -5540,7 +5545,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1578
     },
     {
       "ID": "achievement_36",
@@ -5556,7 +5561,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "achievement_38",
@@ -5564,7 +5569,7 @@
       "Name": "Survivor",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "achievement_39",
@@ -5580,7 +5585,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "achievement_40",
@@ -5588,7 +5593,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "achievement_41",
@@ -5819,13 +5824,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1771,
+      "Progressed": 1773,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1771,
+      "Progressed": 1773,
       "Completed": 1
     }
   ],
@@ -5833,8 +5838,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:11:04.480179+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:12:31.6482243+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.6035488+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:00:18.3966845+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:11:04.480287+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:01:33.6742767+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:12:31.6483058+00:00"
 }

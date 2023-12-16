@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1612,
+  "EOS_Progressed": 1613,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3967,6 +3967,11 @@
       "Time": "2023-12-15T23:09:49.263092+00:00",
       "NumProgressed": 1612,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T13:12:30.8155566+00:00",
+      "NumProgressed": 1613,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -3986,7 +3991,7 @@
       "Name": "Are you not entertained?",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -3994,7 +3999,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4082,7 +4087,7 @@
       "Name": "Ganglord",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "DEAD_DICK",
@@ -4098,7 +4103,7 @@
       "Name": "Jarhead",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -4130,7 +4135,7 @@
       "Name": "Endgame",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "EXORCIST",
@@ -4162,7 +4167,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4210,15 +4215,15 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "HOLD_THE_LINE",
       "SetID": "9a4jnji",
       "Name": "Hold The Line",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 532
+      "UsersEstimate": 516
     },
     {
       "ID": "IM_THE_LAW",
@@ -4234,7 +4239,7 @@
       "Name": "Infiltrator",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "LUMBERJACK",
@@ -4242,7 +4247,7 @@
       "Name": "Lumberjack",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -4256,9 +4261,9 @@
       "ID": "NEWTONIAN_KNOCKOUT",
       "SetID": "9a4jnji",
       "Name": "Newtonian Knockout",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 258
     },
     {
       "ID": "PUSHING_DAISY",
@@ -4282,7 +4287,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "RECYCLER",
@@ -4306,7 +4311,7 @@
       "Name": "Savior",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "SENSEI",
@@ -4314,7 +4319,7 @@
       "Name": "Sensei",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "SHADOW_BOXING",
@@ -4354,7 +4359,7 @@
       "Name": "There Can Be Only One!",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -4385,7 +4390,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1612,
+      "Progressed": 1613,
       "Completed": 0
     }
   ],
@@ -4393,8 +4398,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-10T19:02:39.9378585+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:11:03.5124964+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:12:30.8155563+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:08.4828288+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:03:39.1315516+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:11:03.5125558+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:05:43.128447+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:12:30.815611+00:00"
 }

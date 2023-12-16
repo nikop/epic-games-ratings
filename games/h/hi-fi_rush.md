@@ -5,40 +5,40 @@ Rating: 4.88 (Ranked 16)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 35.00% | ~2,613 |
-| Start with a bang! | 34.00% | ~2,539 |
-| You can pet the cat! | 30.00% | ~2,240 |
-| Who put gears in there? | 23.00% | ~1,717 |
-| Cream of the Crop | 20.00% | ~1,493 |
-| Thanks for the free chip, Peppermint! | 19.00% | ~1,419 |
-| You got this, Peppermint? | 16.00% | ~1,195 |
-| Perfect Parry | 14.00% | ~1,045 |
-| Alright, that felt AWESOME! | 14.00% | ~1,045 |
-| I play my own way! | 13.00% | ~971 |
-| Does that say weakpoint? | 12.00% | ~896 |
-| This will cost you big time | 11.00% | ~821 |
-| Uh, they were broken when I got here | 11.00% | ~821 |
-| Z-shielding's got nothing on us! | 10.00% | ~747 |
-| Kissing the sky! | 10.00% | ~747 |
-| Whoa! There's ANOTHER health bar!? | 9.00% | ~672 |
-| The Negotiator | 8.00% | ~597 |
-| I look cool. But I can look COOLER. | 8.00% | ~597 |
-| You must like calling me in, Chai | 7.00% | ~523 |
-| Out in a puff of smoke | 7.00% | ~523 |
-| Headliner | 6.00% | ~448 |
-| Time to pay up! | 6.00% | ~448 |
-| Who's the boss now? | 6.00% | ~448 |
-| I have to read these things? | 6.00% | ~448 |
-| Perfecter Parry-er! | 6.00% | ~448 |
-| NOW we got a kickass hideout! | 6.00% | ~359 |
-| Well that was a rush! | 4.00% | ~299 |
-| Beat-hit mania | 4.00% | ~299 |
-| That's a lot of junk metal… | 4.00% | ~299 |
-| There's such a thing as TOO helpful | 4.00% | ~299 |
-| I told you I'd be fine, Peppermint! | 3.00% | ~224 |
-| Chip-tuned | 2.00% | ~149 |
-| Wanna hear my playlist? | 2.00% | ~149 |
-| Check out my moves! | 2.00% | ~149 |
+| Feeling the beat! | 35.00% | ~2,639 |
+| Start with a bang! | 34.00% | ~2,563 |
+| You can pet the cat! | 31.00% | ~2,337 |
+| Who put gears in there? | 23.00% | ~1,734 |
+| Cream of the Crop | 20.00% | ~1,508 |
+| Thanks for the free chip, Peppermint! | 19.00% | ~1,432 |
+| You got this, Peppermint? | 16.00% | ~1,206 |
+| Perfect Parry | 15.00% | ~1,131 |
+| Alright, that felt AWESOME! | 14.00% | ~1,055 |
+| I play my own way! | 13.00% | ~980 |
+| Does that say weakpoint? | 12.00% | ~905 |
+| This will cost you big time | 11.00% | ~829 |
+| Uh, they were broken when I got here | 11.00% | ~829 |
+| Z-shielding's got nothing on us! | 10.00% | ~754 |
+| Kissing the sky! | 10.00% | ~754 |
+| Whoa! There's ANOTHER health bar!? | 9.00% | ~679 |
+| The Negotiator | 8.00% | ~603 |
+| I look cool. But I can look COOLER. | 8.00% | ~603 |
+| You must like calling me in, Chai | 7.00% | ~528 |
+| Out in a puff of smoke | 7.00% | ~528 |
+| Headliner | 6.00% | ~452 |
+| Time to pay up! | 6.00% | ~452 |
+| Who's the boss now? | 6.00% | ~452 |
+| I have to read these things? | 6.00% | ~452 |
+| Perfecter Parry-er! | 6.00% | ~452 |
+| NOW we got a kickass hideout! | 6.00% | ~364 |
+| Well that was a rush! | 4.00% | ~302 |
+| That's a lot of junk metal… | 4.00% | ~302 |
+| There's such a thing as TOO helpful | 4.00% | ~302 |
+| Beat-hit mania | 3.00% | ~226 |
+| I told you I'd be fine, Peppermint! | 3.00% | ~226 |
+| Chip-tuned | 2.00% | ~151 |
+| Wanna hear my playlist? | 2.00% | ~151 |
+| Check out my moves! | 2.00% | ~151 |
 | I think I deserve some praise, here! | 1.00% | ~75 |
 | I think I found your calling, Macaron | 1.00% | ~75 |
 | This is a breeze! | 1.00% | ~75 |
@@ -47,37 +47,37 @@ Rating: 4.88 (Ranked 16)
 | First we parry, then we counter | 1.00% | ~75 |
 | I hit things with a guitar really well. | 1.00% | ~75 |
 | You ever parry a volcano? | 1.00% | ~75 |
-| Call me Turbo Chai | 1.00% | ~60 |
+| Call me Turbo Chai | 1.00% | ~61 |
 | New bad guys? No problem! | 0.70% | ~42 |
 | OK, well THEY came after ME! | 0.60% | ~45 |
-| Easy Listening | 0.50% | ~37 |
-| Problem solved... wait, what? | 0.30% | ~22 |
-| Now this is how you fight like a team! | 0.30% | ~22 |
-| I am a good person who likes to help | 0.30% | ~22 |
-| With our powers combined…and to the rhythm… | 0.30% | ~22 |
+| Easy Listening | 0.50% | ~38 |
+| Problem solved... wait, what? | 0.30% | ~23 |
+| Now this is how you fight like a team! | 0.30% | ~23 |
+| I am a good person who likes to help | 0.30% | ~23 |
+| With our powers combined…and to the rhythm… | 0.30% | ~23 |
 | Choose your own adventure | 0.30% | ~18 |
 | And the crowd goes wild! | 0.20% | ~15 |
 | I can't see this ever being a problem again | 0.20% | ~15 |
 | Fully Powered Up! | 0.20% | ~15 |
 | It'll do, CNMN | 0.20% | ~12 |
-| Didn't skip a beat! | 0.10% | ~7 |
-| I think that's enough health for now | 0.10% | ~7 |
-| I have to read ALL of these things? | 0.10% | ~7 |
-| My Ultimate Setlist | 0.10% | ~7 |
-| What a journey it was... | 0.10% | ~7 |
-| This was... not what I expected. | 0.10% | ~7 |
-| Have we met before? | 0.10% | ~7 |
-| I'm untouchable! | 0.10% | ~7 |
-| I'm trying to FOCUS HERE! | 0.10% | ~7 |
-| I saw all those hits coming a measure away! | 0.10% | ~7 |
-| OK, I THINK I know what I'm doing now | 0.10% | ~7 |
+| Didn't skip a beat! | 0.10% | ~8 |
+| I think that's enough health for now | 0.10% | ~8 |
+| I have to read ALL of these things? | 0.10% | ~8 |
+| My Ultimate Setlist | 0.10% | ~8 |
+| What a journey it was... | 0.10% | ~8 |
+| This was... not what I expected. | 0.10% | ~8 |
+| Have we met before? | 0.10% | ~8 |
+| I'm untouchable! | 0.10% | ~8 |
+| I'm trying to FOCUS HERE! | 0.10% | ~8 |
+| I saw all those hits coming a measure away! | 0.10% | ~8 |
+| OK, I THINK I know what I'm doing now | 0.10% | ~8 |
 | Please don't make this awkward | 0.10% | ~6 |
 | That was just EVIL | 0.10% | ~6 |
 | It was all for this | 0.10% | ~6 |
 | Voices from within | 0.10% | ~6 |
 | Low budget finish | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,467 (Ranked 182)  
+Progressed: 7,539 (Ranked 182)  
 Completed: 8 (0.11%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 8 (0.11%) (Ranked 291)
 | 2023-12-13 | 4,535 | 8 |
 | 2023-12-14 | 5,878 | 8 |
 | 2023-12-15 | 6,923 | 8 |
-| 2023-12-16 | 7,467 | 8 |
+| 2023-12-16 | 7,539 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

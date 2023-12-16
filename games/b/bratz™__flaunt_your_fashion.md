@@ -24,7 +24,7 @@
 | Talented Photographer | 1.00% | ~1 |
 | Exclusive Photoshoot | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91 (Ranked 464)  
+Progressed: 91 (Ranked 465)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |

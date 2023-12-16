@@ -20,9 +20,9 @@ Number of Ratings: 45  (23.09.2022)
 | War Endured | 2.00% | ~31 |
 | Core Failure | 2.00% | ~31 |
 | Let Me Get My Chisel | 1.00% | ~15 |
+| Thematic Divergence | 1.00% | ~15 |
 | Pyrrhic Victory | 1.00% | ~15 |
 | Echoes Die | 1.00% | ~15 |
-| Thematic Divergence | 0.90% | ~14 |
 | Turncoat | 0.90% | ~14 |
 | Another Tale to Tell | 0.80% | ~12 |
 | A Story of Heroes | 0.80% | ~12 |

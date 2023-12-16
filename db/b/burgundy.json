@@ -3,8 +3,8 @@
   "Name": "Burgundy",
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 517,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 518,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:09.9377602+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:01:22.2223547+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:10:44.4560339+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:02:18.5161105+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:12:16.6219548+00:00"
 }

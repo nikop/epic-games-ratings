@@ -2,10 +2,10 @@
   "ID": "82337545852b4e2d8bfbb5fcccfc587e",
   "Name": "DEEEER Simulator: Your Average Everyday Deer Game",
   "ProductSlug": "deeeer-simulator-9bfc4a",
-  "Ranking_EOS_Progress": 439,
+  "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -668,17 +668,17 @@
       "ID": "EpicACHV_12",
       "SetID": "acn799d",
       "Name": "God Disguised as a Cow",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "EpicACHV_13",
       "SetID": "acn799d",
       "Name": "Kept You Waiting?",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 70,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "EpicACHV_14",
@@ -787,8 +787,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:09:23.687874+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:11:18.76987+00:00",
   "LastUpdate_AppInfo": "2023-12-13T14:57:07.3813852+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:01:52.399141+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:09:23.6879168+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:02:37.9958843+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:11:18.7698817+00:00"
 }

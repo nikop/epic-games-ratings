@@ -21,15 +21,15 @@
 | The seer | 12.00% | ~7 |
 | You have two wishes left | 12.00% | ~7 |
 | A rival with no options | 10.00% | ~6 |
+| You had one wish left | 9.00% | ~5 |
 | Et in arcadia ego | 9.00% | ~5 |
-| You had one wish left | 7.00% | ~4 |
+| You've awakened the beast | 7.00% | ~4 |
+| Hate is... addictive | 7.00% | ~4 |
+| The bully | 7.00% | ~4 |
 | Kirlian's best disciple | 7.00% | ~4 |
 | Welcome to Hellville | 7.00% | ~4 |
-| You've awakened the beast | 5.00% | ~3 |
-| Hate is... addictive | 5.00% | ~3 |
 | Bread and bocaua | 5.00% | ~3 |
 | Fanatacism is... poisonous | 5.00% | ~3 |
-| The bully | 5.00% | ~3 |
 | The adventurer | 5.00% | ~3 |
 | ECO mode | 5.00% | ~3 |
 | Vaccine fans | 5.00% | ~3 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19065,
+  "EOS_Progressed": 19066,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13719,6 +13719,11 @@
       "Time": "2023-12-16T11:04:27.8367637+00:00",
       "NumProgressed": 19065,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-16T13:06:35.435147+00:00",
+      "NumProgressed": 19066,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13818,7 +13823,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3050
+      "UsersEstimate": 3051
     },
     {
       "ID": "0013",
@@ -13826,7 +13831,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1906
+      "UsersEstimate": 1907
     },
     {
       "ID": "0014",
@@ -13834,7 +13839,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3050
+      "UsersEstimate": 3051
     },
     {
       "ID": "0015",
@@ -13882,7 +13887,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1906
+      "UsersEstimate": 1907
     },
     {
       "ID": "0021",
@@ -13914,7 +13919,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4194
+      "UsersEstimate": 4195
     },
     {
       "ID": "0025",
@@ -13954,7 +13959,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "0030",
@@ -14017,7 +14022,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19065,
+      "Progressed": 19066,
       "Completed": 4
     }
   ],
@@ -14025,8 +14030,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:04:54.0017484+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:06:35.4351467+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:34.3621794+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:01:02.8754153+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:04:54.0018956+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:02:05.4919806+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:06:35.4352133+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 102,
+  "EOS_Progressed": 103,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -501,6 +501,11 @@
       "Time": "2023-12-16T11:07:22.271763+00:00",
       "NumProgressed": 102,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T13:08:42.2782664+00:00",
+      "NumProgressed": 103,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -542,7 +547,7 @@
       "ID": "InnkeeperQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "Dungeon Mastery",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 20
     },
@@ -574,7 +579,7 @@
       "ID": "MasterOracleQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Riddlesolver",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -622,9 +627,9 @@
       "ID": "MasterTravelerQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Setting Off",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "MasterTravelerQuestlineLast",
@@ -734,9 +739,9 @@
       "ID": "cards_discovered_half",
       "SetID": "3b8n56h",
       "Name": "Card Collector",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "demiurge_defeated",
@@ -831,7 +836,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 102,
+      "Progressed": 103,
       "Completed": 0
     }
   ],
@@ -839,8 +844,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-12-16T12:07:48.531027+00:00",
+  "LastChanged_Achievements": "2023-12-16T13:08:42.278266+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.046054+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:01:55.083199+00:00",
-  "LastUpdate_Achievements": "2023-12-16T12:07:48.531057+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:02:40.0415281+00:00",
+  "LastUpdate_Achievements": "2023-12-16T13:08:42.2782896+00:00"
 }
