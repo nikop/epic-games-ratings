@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 87.00% | ~65 |
-| Air Fighter | 79.00% | ~59 |
-| Oo-De-Lally | 69.00% | ~52 |
-| The Altruist | 68.00% | ~51 |
-| Treasure Hunter | 65.00% | ~49 |
+| Act of Kindness | 87.00% | ~66 |
+| Air Fighter | 78.00% | ~59 |
+| Oo-De-Lally | 68.00% | ~52 |
+| The Altruist | 67.00% | ~51 |
+| Treasure Hunter | 66.00% | ~50 |
 | Watch your Step! | 53.00% | ~40 |
 | MAX LEVEL | 53.00% | ~40 |
-| Tap Dancing | 51.00% | ~38 |
-| Right between the eyes | 43.00% | ~32 |
-| Spring Board | 43.00% | ~32 |
-| Starry Night | 39.00% | ~29 |
-| Rebel Unleashed | 39.00% | ~29 |
+| Tap Dancing | 50.00% | ~38 |
+| Right between the eyes | 42.00% | ~32 |
+| Spring Board | 42.00% | ~32 |
+| Starry Night | 38.00% | ~29 |
+| Rebel Unleashed | 38.00% | ~29 |
 | Locksley's Tears | 36.00% | ~27 |
-| Merry Co-operation | 35.00% | ~26 |
-| Finish Him! | 31.00% | ~23 |
+| Merry Co-operation | 34.00% | ~26 |
+| Finish Him! | 30.00% | ~23 |
 | Assault on the Ram | 28.00% | ~21 |
-| Ultra Rebel Instinct | 27.00% | ~20 |
+| Ultra Rebel Instinct | 26.00% | ~20 |
 | First Aid | 24.00% | ~18 |
-| Savior | 23.00% | ~17 |
-| Merry Go Round | 23.00% | ~17 |
+| Savior | 22.00% | ~17 |
+| Merry Go Round | 22.00% | ~17 |
 | Take Action! | 20.00% | ~15 |
-| Hidden Experiment | 19.00% | ~14 |
+| Hidden Experiment | 18.00% | ~14 |
 | Ascending Will | 17.00% | ~13 |
-| Ultra Combo | 15.00% | ~11 |
+| Ultra Combo | 14.00% | ~11 |
 | Haute Couture | 13.00% | ~10 |
 | Into the Lion's Den | 12.00% | ~9 |
 | The Gang prevails | 9.00% | ~7 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75 (Ranked 485)  
+Progressed: 76 (Ranked 485)  
 Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,4 +83,4 @@ Completed: 0 (0.00%) (Ranked 378)
 | 2023-12-11 | 67 | 0 |
 | 2023-12-14 | 68 | 0 |
 | 2023-12-15 | 71 | 0 |
-| 2023-12-16 | 75 | 0 |
+| 2023-12-16 | 76 | 0 |

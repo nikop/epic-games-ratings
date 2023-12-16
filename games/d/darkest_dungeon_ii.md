@@ -12,16 +12,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | Autodidact | 3.00% | ~3,833 |
 | This guy... again? | 3.00% | ~79 |
 | Bloody Graduation | 3.00% | ~79 |
-| Don't Make Me Turn This Coach Around | 2.00% | ~2,555 |
-| Serenity Now! | 2.00% | ~2,555 |
-| Not Today! | 2.00% | ~2,555 |
-| Creep and Sleep | 2.00% | ~2,555 |
-| Meat and Greet | 2.00% | ~2,555 |
-| Catch and Decease | 2.00% | ~2,555 |
-| Overdue Notice | 2.00% | ~2,555 |
-| Escape from the Black Hole | 2.00% | ~2,555 |
-| Rush Hour | 2.00% | ~2,555 |
-| To Grandmother's House | 2.00% | ~2,555 |
+| Don't Make Me Turn This Coach Around | 2.00% | ~2,556 |
+| Serenity Now! | 2.00% | ~2,556 |
+| Not Today! | 2.00% | ~2,556 |
+| Creep and Sleep | 2.00% | ~2,556 |
+| Meat and Greet | 2.00% | ~2,556 |
+| Catch and Decease | 2.00% | ~2,556 |
+| Overdue Notice | 2.00% | ~2,556 |
+| Escape from the Black Hole | 2.00% | ~2,556 |
+| Rush Hour | 2.00% | ~2,556 |
+| To Grandmother's House | 2.00% | ~2,556 |
 | Ploughshares to Swords | 2.00% | ~53 |
 | Friends 'Til the End | 2.00% | ~53 |
 | It Rings a Bell | 1.00% | ~1,278 |
@@ -38,6 +38,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Worldly Traveller | 1.00% | ~1,278 |
 | Nope | 1.00% | ~1,278 |
 | Road Trip | 1.00% | ~1,278 |
+| Resurrection | 0.90% | ~1,150 |
 | Unleash Hell | 0.90% | ~1,150 |
 | Funny Guy | 0.90% | ~1,150 |
 | Long Live the King | 0.90% | ~1,150 |
@@ -47,7 +48,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Reverse Banditry | 0.90% | ~1,150 |
 | Ramble On | 0.90% | ~1,150 |
 | Unshackled | 0.90% | ~1,150 |
-| Resurrection | 0.80% | ~1,022 |
 | Wyrdly Reconstructed | 0.80% | ~1,022 |
 | Boxcar Kid | 0.80% | ~1,022 |
 | A Clear Conscience | 0.80% | ~1,022 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 | On This Long Road, We Found Redemption | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,772 (Ranked 84)  
+Progressed: 127,780 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 3 (0.00%) (Ranked 378)
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
-| 2023-12-16 | 127,772 | 3 |
+| 2023-12-16 | 127,780 | 3 |
 ## Awards
 Max (Character Customization): 7,744  (Ranked 51)  
 Sum: 20,587 (Ranked 58)  

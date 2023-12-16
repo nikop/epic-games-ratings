@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 793,
+  "EOS_Progressed": 794,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2381,6 +2381,11 @@
       "Time": "2023-12-16T13:12:25.7205618+00:00",
       "NumProgressed": 793,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T20:10:41.5589442+00:00",
+      "NumProgressed": 794,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2504,7 +2509,7 @@
       "Name": "Spirit animal",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "LiarLiar",
@@ -2608,7 +2613,7 @@
       "Name": "Tooth fairy",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Toxic",
@@ -2647,7 +2652,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 793,
+      "Progressed": 794,
       "Completed": 1
     }
   ],
@@ -2655,8 +2660,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:09:46.8184348+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:10:41.5589437+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:25.0593399+00:00",
-  "LastUpdate_Ratings": "2023-12-16T18:59:32.6897107+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:09:46.8184615+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:00:48.0075221+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:10:41.5589735+00:00"
 }

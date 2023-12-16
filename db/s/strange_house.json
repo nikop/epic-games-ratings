@@ -2,10 +2,10 @@
   "ID": "e65306b6830641a68e3b76e5b1bc2dfd",
   "Name": "Strange House",
   "ProductSlug": "strange-house-5fd1b5",
-  "Ranking_EOS_Progress": 540,
+  "Ranking_EOS_Progress": 537,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 484,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
     "PcReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 37,
+  "EOS_Progressed": 38,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
@@ -212,6 +212,11 @@
       "Time": "2023-12-12T21:08:42.9400686+00:00",
       "NumProgressed": 37,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T20:09:19.2388146+00:00",
+      "NumProgressed": 38,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-08T22:03:43.7557522+00:00",
@@ -230,7 +235,7 @@
       "ID": "EndPrologue",
       "SetID": "a2ci5mh",
       "Name": "Chapter 1",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 150,
       "UsersEstimate": 5
     },
@@ -246,7 +251,7 @@
       "ID": "LostCat",
       "SetID": "a2ci5mh",
       "Name": "Lost Cat",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 200,
       "UsersEstimate": 5
     },
@@ -262,7 +267,7 @@
       "ID": "VisorGlass1",
       "SetID": "a2ci5mh",
       "Name": "Nice Glass",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 150,
       "UsersEstimate": 7
     }
@@ -271,13 +276,13 @@
     {
       "ID": "a2ci5mh",
       "IsBase": true,
-      "Progressed": 37,
+      "Progressed": 38,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:08:49.4801234+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:09:19.2388143+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:10.8610739+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:03:09.9102914+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:08:49.4801306+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:03:33.1161363+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:09:19.2388206+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -1779,9 +1779,9 @@
       "ID": "CgkIgaGB2J0LEAIQAg",
       "SetID": "4ocea6d",
       "Name": "Viola Organista",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 165,
-      "UsersEstimate": 182
+      "UsersEstimate": 186
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -1818,8 +1818,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:08:44.9577068+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:09:13.2088101+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:09.453907+00:00",
-  "LastUpdate_Ratings": "2023-12-16T18:58:31.4773381+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:08:44.9577242+00:00"
+  "LastUpdate_Ratings": "2023-12-16T19:59:17.4513745+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:09:13.2088227+00:00"
 }

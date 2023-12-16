@@ -17,22 +17,22 @@
 | Something reflective... | 14.00% | ~16 |
 | Somewhere to belong... | 13.00% | ~15 |
 | Something free... (fragile) | 9.00% | ~10 |
+| Something gentle... (fragile) | 9.00% | ~10 |
 | Something ever-changing... (fragile) | 9.00% | ~10 |
+| Something fully in bloom... (fragile) | 9.00% | ~10 |
+| Something fragile... | 9.00% | ~10 |
 | Something foundational... (fragile) | 9.00% | ~10 |
+| Somewhere to belong... (fragile) | 9.00% | ~10 |
 | Something to make you dream... (fragile) | 9.00% | ~10 |
 | Something monumental... (fragile) | 9.00% | ~10 |
 | Something to long for... (fragile) | 9.00% | ~10 |
 | Something firmly rooted... (fragile) | 9.00% | ~10 |
-| Something gentle... (fragile) | 8.00% | ~9 |
-| Something fully in bloom... (fragile) | 8.00% | ~9 |
-| Something fragile... | 8.00% | ~9 |
-| Somewhere to belong... (fragile) | 8.00% | ~9 |
-| Something reflective... (fragile) | 8.00% | ~9 |
+| Something reflective... (fragile) | 9.00% | ~10 |
+| Something more... (fragile) | 7.00% | ~8 |
 | Something more... | 6.00% | ~7 |
-| Something more... (fragile) | 6.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 116 (Ranked 444)  
-Completed: 6 (5.17%) (Ranked 71)  
+Completed: 7 (6.03%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,4 +122,4 @@ Completed: 6 (5.17%) (Ranked 71)
 | 2023-12-13 | 111 | 6 |
 | 2023-12-14 | 113 | 6 |
 | 2023-12-15 | 114 | 6 |
-| 2023-12-16 | 116 | 6 |
+| 2023-12-16 | 116 | 7 |

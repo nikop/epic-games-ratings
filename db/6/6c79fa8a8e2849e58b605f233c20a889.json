@@ -4,8 +4,8 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3042,
+  "EOS_Progressed": 3043,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8089,6 +8089,11 @@
       "Time": "2023-12-16T17:10:06.4837842+00:00",
       "NumProgressed": 3042,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T20:10:25.2934017+00:00",
+      "NumProgressed": 3043,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -8204,7 +8209,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "GUARD_MAKER",
@@ -8226,9 +8231,9 @@
       "ID": "KING_MASTERY",
       "SetID": "8lhbnh7",
       "Name": "Clash of Kings",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 122
     },
     {
       "ID": "KNIGHT_MASTERY",
@@ -8275,14 +8280,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 3042,
+      "Progressed": 3043,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:09:35.0899103+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:10:25.2934013+00:00",
   "LastUpdate_AppInfo": "2023-12-13T08:56:57.6507347+00:00",
-  "LastUpdate_Ratings": "2023-12-16T18:59:56.0856182+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:09:35.0899651+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:01:24.7622833+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:10:25.2934489+00:00"
 }

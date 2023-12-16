@@ -23,22 +23,22 @@ Number of Ratings: 38  (23.09.2022)
 | Prepper | 26.00% | ~133 |
 | Electro-Scrap Master | 24.00% | ~122 |
 | Robot Hunter | 21.00% | ~107 |
-| Advanced Survivalist | 18.00% | ~92 |
+| Advanced Survivalist | 19.00% | ~97 |
 | Master Of Technology | 16.00% | ~82 |
 | Treasure Hunter | 16.00% | ~82 |
 | Mythical Smelter | 14.00% | ~71 |
 | Blacksmith | 12.00% | ~61 |
 | Master Of Management | 10.00% | ~51 |
 | Forest Lord | 10.00% | ~51 |
+| Fuel | 10.00% | ~51 |
 | Smelting Master | 10.00% | ~51 |
-| Fuel | 9.00% | ~46 |
 | Black Gold | 7.00% | ~36 |
 | Survival Master | 5.00% | ~26 |
 | Traveler | 3.00% | ~15 |
 | Forest Killer | 2.00% | ~10 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 510 (Ranked 323)  
+Progressed: 510 (Ranked 324)  
 Completed: 1 (0.20%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |

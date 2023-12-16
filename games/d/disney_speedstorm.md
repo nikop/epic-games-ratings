@@ -1,37 +1,37 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.40 (Ranked 746)  
+Rating: 4.40 (Ranked 745)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~41,048 |
-| IT MAKES BOOM! | 8.00% | ~27,365 |
-| EXTRA BOOST | 6.00% | ~20,524 |
-| PROTECTED | 5.00% | ~17,103 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~13,683 |
-| PRO | 4.00% | ~13,683 |
-| AGGRESSIVE RACER | 3.00% | ~10,262 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,841 |
-| A TIGER'S FEAR | 2.00% | ~6,841 |
-| TRAINING HARD | 1.00% | ~3,421 |
-| RELEASE THE KRAKEN | 1.00% | ~3,421 |
-| BE OUR GUEST | 1.00% | ~3,421 |
-| ACE SPEEDSTER | 1.00% | ~3,421 |
-| FRIENDLY | 1.00% | ~3,421 |
-| MASTER | 1.00% | ~3,421 |
-| LEGENDARY HERO | 1.00% | ~3,421 |
-| DEFEAT OUR CHAMPION | 0.90% | ~3,079 |
+| ROOKIE | 12.00% | ~41,061 |
+| IT MAKES BOOM! | 8.00% | ~27,374 |
+| EXTRA BOOST | 6.00% | ~20,530 |
+| PROTECTED | 5.00% | ~17,109 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~13,687 |
+| PRO | 4.00% | ~13,687 |
+| AGGRESSIVE RACER | 3.00% | ~10,265 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,843 |
+| A TIGER'S FEAR | 2.00% | ~6,843 |
+| TRAINING HARD | 1.00% | ~3,422 |
+| RELEASE THE KRAKEN | 1.00% | ~3,422 |
+| BE OUR GUEST | 1.00% | ~3,422 |
+| ACE SPEEDSTER | 1.00% | ~3,422 |
+| FRIENDLY | 1.00% | ~3,422 |
+| MASTER | 1.00% | ~3,422 |
+| LEGENDARY HERO | 1.00% | ~3,422 |
+| DEFEAT OUR CHAMPION | 0.90% | ~3,080 |
 | ACE DEFENDER | 0.80% | ~2,737 |
 | THE EYE OF THE HUNTER | 0.80% | ~2,737 |
-| EXPERIENCED CREW | 0.70% | ~2,394 |
-| ACE BRAWLER | 0.70% | ~2,394 |
-| FRAMED! | 0.50% | ~1,710 |
-| ACE TRICKSTER | 0.50% | ~1,710 |
-| PERFECTLY POISED | 0.40% | ~1,368 |
+| EXPERIENCED CREW | 0.70% | ~2,395 |
+| ACE BRAWLER | 0.70% | ~2,395 |
+| FRAMED! | 0.50% | ~1,711 |
+| ACE TRICKSTER | 0.50% | ~1,711 |
+| PERFECTLY POISED | 0.40% | ~1,369 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 342,067 (Ranked 50)  
-Completed: 866 (0.25%) (Ranked 254)  
+Progressed: 342,173 (Ranked 50)  
+Completed: 868 (0.25%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -266,19 +266,19 @@ Completed: 866 (0.25%) (Ranked 254)
 | 2023-12-13 | 336,662 | 600 |
 | 2023-12-14 | 338,838 | 725 |
 | 2023-12-15 | 340,579 | 818 |
-| 2023-12-16 | 342,067 | 866 |
+| 2023-12-16 | 342,173 | 868 |
 ## Awards
 Max (Great for Beginners): 138  (Ranked 328)  
-Sum: 894 (Ranked 274)  
+Sum: 898 (Ranked 274)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 138 |
 | This game is Great for Quick Sessions | 113 |
-| This game has Diverse Characters | 102 |
+| This game has Diverse Characters | 104 |
 | This game has a Competitive Community | 77 |
 | This game has Amazing Characters | 72 |
-| This game has Playful Visuals | 65 |
+| This game has Playful Visuals | 67 |
 | This game is Highly Recommended | 60 |
 | This game is Extremely Fun | 58 |
 | This game has Competitive Players | 56 |
@@ -364,4 +364,4 @@ Diff (max vs sum): 54
 | 2023-12-13 | 4.40 | 127 | 864 |
 | 2023-12-14 | 4.40 | 128 | 875 |
 | 2023-12-15 | 4.40 | 135 | 891 |
-| 2023-12-16 | 4.40 | 138 | 894 |
+| 2023-12-16 | 4.40 | 138 | 898 |

@@ -6,30 +6,30 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 2.00% | ~14,601 |
-| The Assault | 2.00% | ~14,601 |
-| Life is your teacher | 2.00% | ~14,601 |
-| Lightning Hands | 2.00% | ~14,601 |
-| The Hateful Pole Fighter | 1.00% | ~7,300 |
-| Street Fighting | 1.00% | ~7,300 |
-| State of constant learning | 1.00% | ~7,300 |
-| Qi Gong: Essence | 1.00% | ~7,300 |
-| Old Child | 1.00% | ~7,300 |
-| Rumble in the Hangar | 1.00% | ~7,300 |
-| Diligence as a goal | 1.00% | ~393 |
-| A Lady's Blood in the Snow | 0.90% | ~6,570 |
-| Stuntmaster | 0.90% | ~6,570 |
-| Qi Gong: Breath | 0.90% | ~6,570 |
+| The Old Grandmaster | 2.00% | ~14,602 |
+| The Assault | 2.00% | ~14,602 |
+| Life is your teacher | 2.00% | ~14,602 |
+| Lightning Hands | 2.00% | ~14,602 |
+| The Hateful Pole Fighter | 1.00% | ~7,301 |
+| Street Fighting | 1.00% | ~7,301 |
+| State of constant learning | 1.00% | ~7,301 |
+| Qi Gong: Essence | 1.00% | ~7,301 |
+| Old Child | 1.00% | ~7,301 |
+| Rumble in the Hangar | 1.00% | ~7,301 |
+| Diligence as a goal | 1.00% | ~394 |
+| A Lady's Blood in the Snow | 0.90% | ~6,571 |
+| Stuntmaster | 0.90% | ~6,571 |
+| Qi Gong: Breath | 0.90% | ~6,571 |
 | Project Arena | 0.90% | ~354 |
-| Lady Wing Chun | 0.80% | ~5,840 |
-| Kill Nil | 0.80% | ~5,840 |
-| Path of the Prospect | 0.80% | ~5,840 |
-| Furious Fists | 0.70% | ~5,110 |
-| I know Kung-Fu | 0.70% | ~5,110 |
-| Take damage to save time | 0.70% | ~5,110 |
-| Scareless | 0.60% | ~4,380 |
-| Qi Gong: Mind | 0.60% | ~4,380 |
-| Kung-Fu Tussle | 0.60% | ~4,380 |
+| Lady Wing Chun | 0.80% | ~5,841 |
+| Kill Nil | 0.80% | ~5,841 |
+| Path of the Prospect | 0.80% | ~5,841 |
+| Furious Fists | 0.70% | ~5,111 |
+| I know Kung-Fu | 0.70% | ~5,111 |
+| Take damage to save time | 0.70% | ~5,111 |
+| Scareless | 0.60% | ~4,381 |
+| Qi Gong: Mind | 0.60% | ~4,381 |
+| Kung-Fu Tussle | 0.60% | ~4,381 |
 | Fight the way you practice | 0.60% | ~236 |
 | Dance of the Praying Mantis | 0.50% | ~3,650 |
 | Bloody Sport | 0.50% | ~197 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~39 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,038 (Ranked 24)  
-Completed: 12,953 (1.77%) (Ranked 136)  
+Progressed: 730,084 (Ranked 24)  
+Completed: 12,954 (1.77%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -307,7 +307,7 @@ Completed: 12,953 (1.77%) (Ranked 136)
 | 2023-12-13 | 718,112 | 12,953 |
 | 2023-12-14 | 722,433 | 12,953 |
 | 2023-12-15 | 726,562 | 12,953 |
-| 2023-12-16 | 730,038 | 12,953 |
+| 2023-12-16 | 730,084 | 12,954 |
 ## Awards
 Max (Great Boss Battles): 6,935  (Ranked 55)  
 Sum: 12,170 (Ranked 83)  

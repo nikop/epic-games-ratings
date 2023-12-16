@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4918,
+  "EOS_Progressed": 4920,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3561,6 +3561,11 @@
       "Time": "2023-12-16T19:04:38.8343414+00:00",
       "NumProgressed": 4918,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-16T20:05:44.6019886+00:00",
+      "NumProgressed": 4920,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3618,9 +3623,9 @@
       "ID": "ID_ACHIEV_07",
       "SetID": "98bke8c",
       "Name": "I\u0027ll Be Back",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4133
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3628,7 +3633,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4623
+      "UsersEstimate": 4625
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3636,7 +3641,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3787
+      "UsersEstimate": 3788
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -3708,7 +3713,7 @@
       "Name": "Pusher Man",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ID_ACHIEV_19",
@@ -3756,7 +3761,7 @@
       "Name": "Core Power",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -3788,7 +3793,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3787
+      "UsersEstimate": 3788
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3820,7 +3825,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2705
+      "UsersEstimate": 2706
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -3844,7 +3849,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -3852,7 +3857,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1624
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -3860,7 +3865,7 @@
       "Name": "I Choose You",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -3892,7 +3897,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -3916,7 +3921,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -3948,7 +3953,7 @@
       "Name": "Squad Chief Helvig",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ID_ACHIEV_50",
@@ -4107,15 +4112,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4918,
+      "Progressed": 4920,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:04:38.834341+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:05:44.6019881+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.6535047+00:00",
-  "LastUpdate_Ratings": "2023-12-16T18:57:25.6691989+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:04:38.8344001+00:00"
+  "LastUpdate_Ratings": "2023-12-16T19:57:31.4906188+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:05:44.6020475+00:00"
 }

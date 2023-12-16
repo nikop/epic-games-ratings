@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 70.00% | ~113 |
+| Meissa's Savior | 71.00% | ~114 |
 | Purification Pioneer | 66.00% | ~106 |
 | Mechanical Buddy | 61.00% | ~98 |
 | Dicesmithing Time! | 55.00% | ~89 |

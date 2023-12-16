@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 427,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1181,
+  "EOS_Progressed": 1182,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1174,6 +1174,11 @@
       "Time": "2023-12-16T16:04:23.9589361+00:00",
       "NumProgressed": 1181,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T20:05:17.2286715+00:00",
+      "NumProgressed": 1182,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1289,7 +1294,7 @@
       "Name": "To the core",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ALLTRACKSTOKYO",
@@ -1311,9 +1316,9 @@
       "ID": "CAREERACADEMY",
       "SetID": "3dh70f3",
       "Name": "Rookie No More",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 319
     },
     {
       "ID": "CAREERADVANCED",
@@ -1337,7 +1342,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -1409,7 +1414,7 @@
       "Name": "Blurred photofinish",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "FINISHSOUND",
@@ -1481,7 +1486,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ONELIVERY",
@@ -1600,7 +1605,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1181,
+      "Progressed": 1182,
       "Completed": 0
     }
   ],
@@ -1608,8 +1613,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-11-23T19:59:23.2109032+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:04:19.8257039+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:05:17.228671+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:10.0086911+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:03:08.14931+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:04:19.8257525+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:03:30.3282023+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:05:17.2287518+00:00"
 }

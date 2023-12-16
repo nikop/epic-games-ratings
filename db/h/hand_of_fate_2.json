@@ -2,13 +2,13 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 515,
+  "Ranking_Rating": 514,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -943,7 +943,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 665880,
+  "EOS_Progressed": 665881,
   "EOS_Completed": 173,
   "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 1,
@@ -23678,6 +23678,11 @@
       "Time": "2023-12-16T19:08:51.9184761+00:00",
       "NumProgressed": 665880,
       "NumCompleted": 173
+    },
+    {
+      "Time": "2023-12-16T20:09:22.7531197+00:00",
+      "NumProgressed": 665881,
+      "NumCompleted": 173
     }
   ],
   "TotalAchievements": 48,
@@ -23697,7 +23702,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 386210
+      "UsersEstimate": 386211
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -23705,7 +23710,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 153152
+      "UsersEstimate": 153153
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -23825,7 +23830,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 153152
+      "UsersEstimate": 153153
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -24072,15 +24077,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 665880,
+      "Progressed": 665881,
       "Completed": 173
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:08:51.9184757+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:09:22.7531193+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:06.5520599+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:02:43.0412643+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:08:51.9185859+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:02:52.1386732+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:09:22.7532299+00:00"
 }

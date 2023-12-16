@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 779,
+  "EOS_Progressed": 780,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3407,6 +3407,11 @@
       "Time": "2023-12-16T19:09:12.513593+00:00",
       "NumProgressed": 779,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T20:09:52.8531878+00:00",
+      "NumProgressed": 780,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3474,7 +3479,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "Clothes10",
@@ -3737,7 +3742,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 779,
+      "Progressed": 780,
       "Completed": 0
     }
   ],
@@ -3745,8 +3750,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:09:12.5135925+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:09:52.8531873+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:44.3806487+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:00:05.8027203+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:09:12.5136377+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:01:40.4879745+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:09:52.8532548+00:00"
 }

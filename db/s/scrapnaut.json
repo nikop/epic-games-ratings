@@ -5,10 +5,10 @@
   "Ranking_Rating": 865,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 323,
+  "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1905,9 +1905,9 @@
       "ID": "ACH_MAKE_FUEL",
       "SetID": "7c4cldc",
       "Name": "Fuel",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_METEORITE_SMELTER",
@@ -1953,9 +1953,9 @@
       "ID": "ACH_SURVIVE_20_DAYS",
       "SetID": "7c4cldc",
       "Name": "Advanced Survivalist",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 92
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -1986,8 +1986,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-11-17T17:00:24.0955126+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:08:58.5506151+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:09:32.0763827+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.171246+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:00:29.8154164+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:08:58.5506407+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:02:19.3847537+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:09:32.0764036+00:00"
 }

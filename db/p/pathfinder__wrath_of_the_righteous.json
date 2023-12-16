@@ -5,10 +5,10 @@
   "Ranking_Rating": 131,
   "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 122,
-  "Ranking_EOS_Progress": 165,
+  "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4613,7 +4613,7 @@
       "Count": 401
     }
   ],
-  "EOS_Progressed": 12401,
+  "EOS_Progressed": 12403,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
@@ -17088,6 +17088,11 @@
       "Time": "2023-12-16T19:09:46.2487559+00:00",
       "NumProgressed": 12401,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T20:10:41.0069169+00:00",
+      "NumProgressed": 12403,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17099,7 +17104,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3348
+      "UsersEstimate": 3349
     },
     {
       "ID": "02_BurningCity",
@@ -17107,7 +17112,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2232
+      "UsersEstimate": 2233
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -17467,7 +17472,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2356
+      "UsersEstimate": 2357
     },
     {
       "ID": "49_Flame",
@@ -17979,7 +17984,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -17987,7 +17992,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -18011,7 +18016,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -18019,28 +18024,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11183,
+      "Progressed": 11185,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12401,
+      "Progressed": 12403,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-16T13:59:29.1044909+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:09:46.2487556+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:10:41.0069166+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-16T18:59:21.5051245+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:09:46.2489598+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:00:31.6735046+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:10:41.0070802+00:00"
 }

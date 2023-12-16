@@ -7597,9 +7597,9 @@
       "Count": 3799
     }
   ],
-  "EOS_Progressed": 145895,
+  "EOS_Progressed": 145904,
   "EOS_Completed": 319,
-  "EOS_NewPlayers": 1418,
+  "EOS_NewPlayers": 1419,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -32702,6 +32702,11 @@
       "Time": "2023-12-16T19:05:08.722332+00:00",
       "NumProgressed": 145895,
       "NumCompleted": 319
+    },
+    {
+      "Time": "2023-12-16T20:06:26.4689713+00:00",
+      "NumProgressed": 145904,
+      "NumCompleted": 319
     }
   ],
   "TotalAchievements": 112,
@@ -32863,9 +32868,9 @@
       "ID": "boss03",
       "SetID": "anfd17p",
       "Name": "Bane of Legends",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 875
+      "UsersEstimate": 1021
     },
     {
       "ID": "champions01",
@@ -33608,15 +33613,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 145895,
+      "Progressed": 145904,
       "Completed": 319
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-16T18:03:21.3451228+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:05:08.7223315+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:06:26.4689711+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2420411+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:03:11.2407112+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:05:08.7225307+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:03:35.1629829+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:06:26.4692225+00:00"
 }

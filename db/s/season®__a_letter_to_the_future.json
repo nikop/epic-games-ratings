@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1424,
+  "EOS_Progressed": 1425,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.42,
   "EosHistory": [
@@ -3019,6 +3019,11 @@
       "Time": "2023-12-16T18:09:43.3284858+00:00",
       "NumProgressed": 1424,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-12-16T20:10:22.1453741+00:00",
+      "NumProgressed": 1425,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 16,
@@ -3078,7 +3083,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -3126,7 +3131,7 @@
       "Name": "Shrine Arriver",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -3157,7 +3162,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1424,
+      "Progressed": 1425,
       "Completed": 63
     }
   ],
@@ -3165,8 +3170,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:09:32.9798692+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:10:22.1453737+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:10.6887118+00:00",
-  "LastUpdate_Ratings": "2023-12-16T18:58:46.7769734+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:09:32.9798927+00:00"
+  "LastUpdate_Ratings": "2023-12-16T19:59:38.2520663+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:10:22.1453966+00:00"
 }

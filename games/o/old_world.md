@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 8.00% | ~1,263 |
 | Play a Single Player Game | 8.00% | ~1,263 |
 | Explorer | 7.00% | ~1,105 |
-| Settler | 7.00% | ~1,105 |
 | Intrepid | 6.00% | ~947 |
 | Friendly Family | 6.00% | ~947 |
 | Able | 5.00% | ~789 |
@@ -44,6 +44,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 3.00% | ~474 |
 | Valiant | 3.00% | ~474 |
 | Wise | 3.00% | ~474 |
+| Legendary Cities | 3.00% | ~474 |
 | Able Difficulty | 3.00% | ~474 |
 | Artisans | 3.00% | ~474 |
 | Furious Family | 3.00% | ~474 |
@@ -69,7 +70,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 2.00% | ~316 |
 | Mighty | 2.00% | ~316 |
 | Victorious | 2.00% | ~316 |
-| Legendary Cities | 2.00% | ~316 |
 | Good Difficulty | 2.00% | ~316 |
 | Just Difficulty | 2.00% | ~316 |
 | Champions | 2.00% | ~316 |
@@ -143,13 +143,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.80% | ~126 |
 | Cataphract Archer | 0.80% | ~126 |
 | Kmt Unified | 0.80% | ~126 |
-| Carthage - Ox Hide | 0.70% | ~110 |
-| Old | 0.70% | ~110 |
-| Old World Order | 0.70% | ~110 |
-| No Undo | 0.70% | ~110 |
-| The Great Mage | 0.70% | ~110 |
-| Kush | 0.70% | ~110 |
-| Beja Archer | 0.70% | ~110 |
+| Carthage - Ox Hide | 0.70% | ~111 |
+| Old | 0.70% | ~111 |
+| Old World Order | 0.70% | ~111 |
+| No Undo | 0.70% | ~111 |
+| The Great Mage | 0.70% | ~111 |
+| Kush | 0.70% | ~111 |
+| Beja Archer | 0.70% | ~111 |
 | Glorious Difficulty | 0.60% | ~95 |
 | Hatti | 0.60% | ~95 |
 | Persia | 0.60% | ~95 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,784 (Ranked 155)  
+Progressed: 15,786 (Ranked 155)  
 Completed: 5 (0.03%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -589,7 +589,7 @@ Completed: 5 (0.03%) (Ranked 339)
 | 2023-12-13 | 15,751 | 5 |
 | 2023-12-14 | 15,760 | 5 |
 | 2023-12-15 | 15,768 | 5 |
-| 2023-12-16 | 15,784 | 5 |
+| 2023-12-16 | 15,786 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 278)  
 Sum: 1,901 (Ranked 220)  

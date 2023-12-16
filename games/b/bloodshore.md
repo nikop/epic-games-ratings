@@ -9,7 +9,7 @@
 | Congratulations, you are a sadist | 48.00% | ~113 |
 | Superstar-crossed lovers | 39.00% | ~92 |
 | A leader, you are not | 34.00% | ~80 |
-| Comedy Killer | 31.00% | ~73 |
+| Comedy Killer | 32.00% | ~75 |
 | Good job, nerd | 31.00% | ~73 |
 | Mission Complete | 31.00% | ~73 |
 | This won't end well... | 31.00% | ~73 |

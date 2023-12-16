@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3514,
+  "EOS_Progressed": 3515,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6486,6 +6486,11 @@
       "Time": "2023-12-16T19:05:19.04539+00:00",
       "NumProgressed": 3514,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T20:06:41.778771+00:00",
+      "NumProgressed": 3515,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6497,7 +6502,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACH_BASE_10",
@@ -6561,7 +6566,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ACH_BASE_19",
@@ -6601,7 +6606,7 @@
       "Name": "Space Society",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH_BASE_24",
@@ -6791,9 +6796,9 @@
       "ID": "ACH_BASE_48",
       "SetID": "92iocjf",
       "Name": "Permanent Redesigns",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 527
+      "UsersEstimate": 562
     },
     {
       "ID": "ACH_BASE_49",
@@ -6952,13 +6957,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1698,
+      "Progressed": 1699,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3514,
+      "Progressed": 3515,
       "Completed": 0
     }
   ],
@@ -6966,8 +6971,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:05:19.0453894+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:06:41.7787705+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4855137+00:00",
-  "LastUpdate_Ratings": "2023-12-16T18:58:21.5465434+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:05:19.0454633+00:00"
+  "LastUpdate_Ratings": "2023-12-16T19:59:01.9015844+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:06:41.7788452+00:00"
 }

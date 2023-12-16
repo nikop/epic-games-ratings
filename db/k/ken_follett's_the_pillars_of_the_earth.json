@@ -564,7 +564,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 17102,
+  "EOS_Progressed": 17104,
   "EOS_Completed": 119,
   "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 3,
@@ -16254,6 +16254,11 @@
       "Time": "2023-12-16T19:08:15.2749784+00:00",
       "NumProgressed": 17102,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-16T20:08:30.2697568+00:00",
+      "NumProgressed": 17104,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16281,7 +16286,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3933
+      "UsersEstimate": 3934
     },
     {
       "ID": "tpote_achievement_12",
@@ -16321,7 +16326,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2394
+      "UsersEstimate": 2395
     },
     {
       "ID": "tpote_achievement_17",
@@ -16329,7 +16334,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2736
+      "UsersEstimate": 2737
     },
     {
       "ID": "tpote_achievement_18",
@@ -16345,7 +16350,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "tpote_achievement_2",
@@ -16377,7 +16382,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3420
+      "UsersEstimate": 3421
     },
     {
       "ID": "tpote_achievement_23",
@@ -16409,7 +16414,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2223
+      "UsersEstimate": 2224
     },
     {
       "ID": "tpote_achievement_27",
@@ -16417,7 +16422,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "tpote_achievement_28",
@@ -16457,7 +16462,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "tpote_achievement_32",
@@ -16465,7 +16470,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2394
+      "UsersEstimate": 2395
     },
     {
       "ID": "tpote_achievement_33",
@@ -16529,7 +16534,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6841
+      "UsersEstimate": 6842
     },
     {
       "ID": "tpote_achievement_40",
@@ -16553,7 +16558,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4104
+      "UsersEstimate": 4105
     },
     {
       "ID": "tpote_achievement_6",
@@ -16561,7 +16566,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3933
+      "UsersEstimate": 3934
     },
     {
       "ID": "tpote_achievement_7",
@@ -16577,7 +16582,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3591
+      "UsersEstimate": 3592
     },
     {
       "ID": "tpote_achievement_9",
@@ -16592,15 +16597,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17102,
+      "Progressed": 17104,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-13T16:01:07.6767372+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:08:15.274978+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:08:30.2697565+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:23.5508408+00:00",
-  "LastUpdate_Ratings": "2023-12-16T18:57:22.8713824+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:08:15.2750727+00:00"
+  "LastUpdate_Ratings": "2023-12-16T19:57:27.091522+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:08:30.2698626+00:00"
 }

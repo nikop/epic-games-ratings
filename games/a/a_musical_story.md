@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 96.00% | ~104 |
-| Rehearsal | 95.00% | ~103 |
-| Daily Life | 93.00% | ~100 |
-| Assembly Line Work | 90.00% | ~97 |
-| Solitude | 85.00% | ~92 |
-| Pinewood, Here we come! | 77.00% | ~83 |
+| ECG | 96.00% | ~105 |
+| Rehearsal | 94.00% | ~102 |
+| Daily Life | 92.00% | ~100 |
+| Assembly Line Work | 89.00% | ~97 |
+| Solitude | 84.00% | ~92 |
+| Pinewood, Here we come! | 76.00% | ~83 |
 | The Van | 72.00% | ~78 |
-| Road-Trip | 66.00% | ~71 |
-| A Musical Pause | 64.00% | ~69 |
-| Briget's | 56.00% | ~60 |
+| Road-Trip | 65.00% | ~71 |
+| A Musical Pause | 63.00% | ~69 |
+| Briget's | 55.00% | ~60 |
 | Sound of Noise | 50.00% | ~54 |
 | Big City Music | 49.00% | ~53 |
 | Love at First Sight | 47.00% | ~51 |
-| First Kiss | 40.00% | ~43 |
+| First Kiss | 39.00% | ~43 |
 | Symbiosis | 37.00% | ~40 |
 | A Bigger Band | 35.00% | ~38 |
-| Fuel | 31.00% | ~33 |
-| Alone Together | 31.00% | ~33 |
-| Threatening Nature | 29.00% | ~31 |
-| Flat Tire | 28.00% | ~30 |
+| Fuel | 31.00% | ~34 |
+| Alone Together | 30.00% | ~33 |
+| Threatening Nature | 28.00% | ~31 |
+| Flat Tire | 28.00% | ~31 |
 | The Clash | 24.00% | ~26 |
 | TV Dreams | 24.00% | ~26 |
 | Dreamers | 20.00% | ~22 |
-| Time | 19.00% | ~21 |
 | The Fix | 19.00% | ~21 |
+| Time | 18.00% | ~20 |
 | Bad Trip | 16.00% | ~17 |
 | Regrets | 16.00% | ~17 |
 | The Mountains, The Valleys | 16.00% | ~17 |
@@ -40,11 +40,11 @@
 | Flight of the Bumblebee | 11.00% | ~12 |
 | As the Crow Flies | 8.00% | ~9 |
 | Milk and Alcohol | 8.00% | ~9 |
-| Gasoline | 6.00% | ~6 |
-| On the Road Again | 6.00% | ~6 |
-| Under the Bridge | 6.00% | ~6 |
-| Hospital Flowers | 6.00% | ~6 |
-| Unintended | 6.00% | ~6 |
+| Gasoline | 6.00% | ~7 |
+| On the Road Again | 6.00% | ~7 |
+| Under the Bridge | 6.00% | ~7 |
+| Hospital Flowers | 6.00% | ~7 |
+| Unintended | 6.00% | ~7 |
 | Riders on the Storm | 4.00% | ~4 |
 | Under my Wheels | 4.00% | ~4 |
 | The Fight Song | 4.00% | ~4 |
@@ -59,8 +59,8 @@
 | Pinewood | 0.90% | ~1 |
 | Love is All | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108 (Ranked 449)  
-Completed: 1 (0.93%) (Ranked 175)  
+Progressed: 109 (Ranked 449)  
+Completed: 1 (0.92%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,6 +107,7 @@ Completed: 1 (0.93%) (Ranked 175)
 | 2023-11-18 | 106 | 1 |
 | 2023-12-08 | 107 | 1 |
 | 2023-12-10 | 108 | 1 |
+| 2023-12-16 | 109 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

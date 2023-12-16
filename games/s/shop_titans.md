@@ -107,9 +107,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 1.00% | ~1,459 |
 | The Greatest Grind | 0.80% | ~1,167 |
 | All or Nothing! | 0.80% | ~1,167 |
+| Bane of Legends | 0.70% | ~1,021 |
 | Anything not Nailed Down | 0.70% | ~1,021 |
 | Marvels from the World Over | 0.70% | ~1,021 |
-| Bane of Legends | 0.60% | ~875 |
 | Ultimate Collector | 0.60% | ~875 |
 | Unleashed Potential | 0.60% | ~875 |
 | JACKPOT!!! | 0.60% | ~875 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.30% | ~438 |
 | Capitalist Camaraderie | 0.20% | ~292 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,895 (Ranked 80)  
+Progressed: 145,904 (Ranked 80)  
 Completed: 319 (0.22%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -359,7 +359,7 @@ Completed: 319 (0.22%) (Ranked 260)
 | 2023-12-13 | 145,093 | 297 |
 | 2023-12-14 | 145,474 | 307 |
 | 2023-12-15 | 145,699 | 316 |
-| 2023-12-16 | 145,895 | 319 |
+| 2023-12-16 | 145,904 | 319 |
 ## Awards
 Max (Great for Beginners): 4,896  (Ranked 75)  
 Sum: 27,748 (Ranked 50)  

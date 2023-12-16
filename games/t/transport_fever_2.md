@@ -6,20 +6,20 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 76.00% | ~1,519 |
-| First cargo item on board | 70.00% | ~1,399 |
-| First cargo item waiting | 70.00% | ~1,399 |
-| First bus stop | 69.00% | ~1,379 |
-| First passenger on board | 66.00% | ~1,319 |
-| First passenger waiting | 66.00% | ~1,319 |
-| First bus arrived | 65.00% | ~1,299 |
-| First train station | 62.00% | ~1,239 |
-| First steam train arrived | 59.00% | ~1,179 |
-| First industry upgraded | 55.00% | ~1,099 |
-| Transport millionaire | 54.00% | ~1,079 |
-| Cadet | 54.00% | ~1,079 |
-| Transport master | 51.00% | ~1,019 |
-| Cargo hub | 51.00% | ~1,019 |
+| First line | 76.00% | ~1,521 |
+| First cargo item on board | 70.00% | ~1,401 |
+| First cargo item waiting | 70.00% | ~1,401 |
+| First bus stop | 69.00% | ~1,381 |
+| First passenger on board | 66.00% | ~1,321 |
+| First passenger waiting | 66.00% | ~1,321 |
+| First bus arrived | 65.00% | ~1,301 |
+| First train station | 62.00% | ~1,241 |
+| First steam train arrived | 59.00% | ~1,181 |
+| First industry upgraded | 55.00% | ~1,101 |
+| Transport millionaire | 54.00% | ~1,081 |
+| Cadet | 54.00% | ~1,081 |
+| Transport master | 51.00% | ~1,021 |
+| Cargo hub | 51.00% | ~1,021 |
 | Sculpturer | 49.00% | ~980 |
 | Settled down | 48.00% | ~960 |
 | First electric train arrived | 46.00% | ~920 |
@@ -48,8 +48,8 @@ Number of Ratings: 180  (23.09.2022)
 | Penny pincher | 9.00% | ~180 |
 | Back to the future | 8.00% | ~160 |
 | Transport belt | 8.00% | ~160 |
-| E.P.E.C. | 6.00% | ~120 |
 | Campaign shark | 5.00% | ~100 |
+| E.P.E.C. | 5.00% | ~100 |
 | Transport shark (Hard mode) | 4.00% | ~80 |
 | Antique | 4.00% | ~80 |
 | Transport corporation | 4.00% | ~80 |
@@ -62,13 +62,13 @@ Number of Ratings: 180  (23.09.2022)
 | Metropolis | 2.00% | ~40 |
 | Speed of light | 2.00% | ~40 |
 | Trans-Siberian Railway | 1.00% | ~20 |
-| Louis Favre | 1.00% | ~20 |
 | Train Fever | 0.90% | ~18 |
+| Louis Favre | 0.90% | ~18 |
 | Big spender | 0.60% | ~12 |
 | Glacier express | 0.20% | ~4 |
-| Museum line | 0.20% | ~4 |
+| Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,999 (Ranked 233)  
+Progressed: 2,001 (Ranked 233)  
 Completed: 1 (0.05%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 1 (0.05%) (Ranked 327)
 | 2023-12-13 | 1,935 | 1 |
 | 2023-12-14 | 1,954 | 1 |
 | 2023-12-15 | 1,976 | 1 |
-| 2023-12-16 | 1,999 | 1 |
+| 2023-12-16 | 2,001 | 1 |
 ## Awards
 Max (Great for Beginners): 46  (Ranked 451)  
 Sum: 322 (Ranked 364)  

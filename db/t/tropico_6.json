@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1449,7 +1449,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6425,
+  "EOS_Progressed": 6426,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
@@ -14514,6 +14514,11 @@
       "Time": "2023-12-16T19:08:22.5190785+00:00",
       "NumProgressed": 6425,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-16T20:08:40.7117071+00:00",
+      "NumProgressed": 6426,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14549,7 +14554,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -14685,7 +14690,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4754
+      "UsersEstimate": 4755
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14701,7 +14706,7 @@
       "Name": "One Does Not Simply Stage A Coup",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_MISSION_NOELECTION",
@@ -14741,7 +14746,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -14749,7 +14754,7 @@
       "Name": "Sublime Subliminal Supreme",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_SURVIVOR",
@@ -14765,7 +14770,7 @@
       "Name": "Teamplayer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_TERRAFORMER",
@@ -14773,7 +14778,7 @@
       "Name": "Terraformer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_THOUSANDPOPULATION",
@@ -14797,7 +14802,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2377
+      "UsersEstimate": 2378
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -14837,22 +14842,22 @@
       "Name": "Curse of the Mummy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6425,
+      "Progressed": 6426,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-16T18:58:39.8372052+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:08:22.5190779+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:08:40.7117065+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:43.3070216+00:00",
-  "LastUpdate_Ratings": "2023-12-16T18:58:39.8372064+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:08:22.5191632+00:00"
+  "LastUpdate_Ratings": "2023-12-16T19:59:29.401214+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:08:40.711773+00:00"
 }

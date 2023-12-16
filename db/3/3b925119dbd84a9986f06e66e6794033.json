@@ -4,8 +4,8 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 335,
+  "EOS_Progressed": 336,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1174,6 +1174,11 @@
       "Time": "2023-12-16T13:12:05.9400793+00:00",
       "NumProgressed": 335,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T20:10:14.1950127+00:00",
+      "NumProgressed": 336,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1226,7 +1231,7 @@
       "Name": "Hypnotorious: Self Aware",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "HYPNO_OUTLIER_ONLY_ID",
@@ -1298,7 +1303,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -1330,7 +1335,7 @@
       "Name": "Tee K.O. 2: Dragon\u2019s Favorite",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TKO2_NOT_HERE",
@@ -1345,14 +1350,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 335,
+      "Progressed": 336,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:09:27.5678637+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:10:14.1950125+00:00",
   "LastUpdate_AppInfo": "2023-12-16T01:42:15.0489028+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:02:50.1557735+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:09:27.5678795+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:03:03.4385613+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:10:14.1950489+00:00"
 }

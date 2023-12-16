@@ -2,10 +2,10 @@
   "ID": "4d10cc70884a46a094854d1ad69c7aaf",
   "Name": "Sweet Dreams Alex",
   "ProductSlug": "sweet-dreams-alex-7c602d",
-  "Ranking_EOS_Progress": 732,
+  "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 521,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 524,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-10-16T00:00:00+00:00",
     "PcReleaseDate": "2023-10-16T00:00:00+00:00",
@@ -304,8 +304,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-12T15:07:56.0598739+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:05:13.5307327+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:06:33.632346+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:06.381132+00:00",
-  "LastUpdate_Ratings": "2023-12-16T18:59:50.2176923+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:05:13.5307514+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:01:15.6447309+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:06:33.6323653+00:00"
 }

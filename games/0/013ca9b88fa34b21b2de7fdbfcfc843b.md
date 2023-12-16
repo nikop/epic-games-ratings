@@ -16,6 +16,7 @@ Rating: 4.61 (Ranked 390)
 | Search for the Hairy Grell | 0.30% | ~25 |
 | Mist Walker | 0.30% | ~25 |
 | Azorian Anniversary | 0.30% | ~25 |
+| Exit Through The Gift Shop | 0.30% | ~3 |
 | Flaming Hot Completos | 0.20% | ~17 |
 | Lumberjack | 0.20% | ~17 |
 | Miner 49er | 0.20% | ~17 |
@@ -29,7 +30,6 @@ Rating: 4.61 (Ranked 390)
 | Captain of Cozy | 0.20% | ~17 |
 | House Proud | 0.20% | ~17 |
 | Skilled | 0.20% | ~17 |
-| Exit Through The Gift Shop | 0.20% | ~2 |
 | Fae Farmer | 0.10% | ~8 |
 | Cloverfield Island | 0.10% | ~8 |
 | Got to Catch Them All | 0.10% | ~8 |
@@ -49,7 +49,7 @@ Rating: 4.61 (Ranked 390)
 | Going Down | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,470 (Ranked 177)  
+Progressed: 8,473 (Ranked 177)  
 Completed: 1 (0.01%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 1 (0.01%) (Ranked 354)
 | 2023-12-13 | 8,425 | 1 |
 | 2023-12-14 | 8,437 | 1 |
 | 2023-12-15 | 8,445 | 1 |
-| 2023-12-16 | 8,470 | 1 |
+| 2023-12-16 | 8,473 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

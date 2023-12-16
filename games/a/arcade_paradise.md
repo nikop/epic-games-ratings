@@ -5,18 +5,18 @@ Rating: 4.58 (Ranked 455)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~675 |
-| Fetch Quest Complete | 90.00% | ~633 |
-| I can't wait! | 83.00% | ~583 |
+| Pushing a pull door | 96.00% | ~676 |
+| Fetch Quest Complete | 90.00% | ~634 |
+| I can't wait! | 83.00% | ~584 |
 | Swish | 56.00% | ~394 |
-| Clean up on Aisle 9 | 40.00% | ~281 |
+| Clean up on Aisle 9 | 40.00% | ~282 |
 | Machine Maxed | 30.00% | ~211 |
 | Bug Fixer | 26.00% | ~183 |
 | Existential dread | 26.00% | ~183 |
 | Gerald of Riviera | 26.00% | ~183 |
 | Goal | 22.00% | ~155 |
-| I ran the numbers | 15.00% | ~105 |
-| Taking the plunge | 14.00% | ~98 |
+| I ran the numbers | 15.00% | ~106 |
+| Taking the plunge | 13.00% | ~92 |
 | Hidden Packages | 11.00% | ~77 |
 | GOOOAAAL | 10.00% | ~70 |
 | Ahoy Hoy | 7.00% | ~49 |
@@ -60,7 +60,7 @@ Rating: 4.58 (Ranked 455)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703 (Ranked 293)  
+Progressed: 704 (Ranked 293)  
 Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 0 (0.00%) (Ranked 378)
 | 2023-12-13 | 698 | 0 |
 | 2023-12-14 | 700 | 0 |
 | 2023-12-15 | 703 | 0 |
+| 2023-12-16 | 704 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,17 +1,17 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.39 (Ranked 759)  
+Rating: 4.39 (Ranked 758)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start | 76.00% | ~914 |
-| And so it begins | 73.00% | ~877 |
-| No pressure | 70.00% | ~841 |
-| Memento | 61.00% | ~733 |
-| Let there be light | 59.00% | ~709 |
-| I think you dropped this | 54.00% | ~649 |
-| Soulmate? | 53.00% | ~637 |
+| And so it begins | 72.00% | ~866 |
+| No pressure | 70.00% | ~842 |
+| Memento | 61.00% | ~734 |
+| Let there be light | 59.00% | ~710 |
+| I think you dropped this | 54.00% | ~650 |
+| Soulmate? | 53.00% | ~638 |
 | Excellent service | 49.00% | ~589 |
 | Roll with it | 46.00% | ~553 |
 | Humble beginnings | 44.00% | ~529 |
@@ -25,15 +25,15 @@ Rating: 4.39 (Ranked 759)
 | Hotel sleuthing | 28.00% | ~337 |
 | Kaboom | 27.00% | ~325 |
 | Nearly there | 26.00% | ~313 |
-| Broken heart | 24.00% | ~288 |
-| Island boy | 22.00% | ~264 |
-| You're a star | 21.00% | ~252 |
-| Unstoppable | 19.00% | ~228 |
-| Reunited | 19.00% | ~228 |
+| Broken heart | 24.00% | ~289 |
+| Island boy | 22.00% | ~265 |
+| You're a star | 21.00% | ~253 |
+| Unstoppable | 19.00% | ~229 |
+| Reunited | 19.00% | ~229 |
 | King of hospitality | 11.00% | ~132 |
 | Top spot in town | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,202 (Ranked 260)  
+Progressed: 1,203 (Ranked 260)  
 Completed: 18 (1.50%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 18 (1.50%) (Ranked 144)
 | 2023-12-13 | 1,161 | 18 |
 | 2023-12-14 | 1,174 | 18 |
 | 2023-12-15 | 1,192 | 18 |
-| 2023-12-16 | 1,202 | 18 |
+| 2023-12-16 | 1,203 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

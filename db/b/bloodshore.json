@@ -4,8 +4,8 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -547,9 +547,9 @@
       "ID": "comedy_killer",
       "SetID": "84ad177",
       "Name": "Comedy Killer",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "congratulations_you_are_a_sadist",
@@ -684,8 +684,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:03:33.8708421+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:04:10.7721155+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:15.9914171+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:03:16.5734267+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:03:33.8710599+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:03:43.0614766+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:04:10.7721354+00:00"
 }

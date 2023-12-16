@@ -1,11 +1,12 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.50 (Ranked 1,063)  
+Rating: 3.50 (Ranked 1,062)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 7.00% | ~132 |
+| ICU | 5.00% | ~94 |
 | Wounded Whispers | 5.00% | ~94 |
 | Catch and Release | 5.00% | ~94 |
 | Home Is Where the Heart Is | 4.00% | ~75 |
@@ -13,7 +14,6 @@ Rating: 3.50 (Ranked 1,063)
 | Ne Plus Ultra | 4.00% | ~75 |
 | Fly Fisher | 4.00% | ~75 |
 | Peek-a-boo | 4.00% | ~75 |
-| ICU | 4.00% | ~75 |
 | Enter of Your Own Free Will | 3.00% | ~56 |
 | Welcome to the Neighborhood | 3.00% | ~56 |
 | Throw The First Stone | 3.00% | ~56 |
@@ -33,7 +33,7 @@ Rating: 3.50 (Ranked 1,063)
 | Harvest’s End | 1.00% | ~19 |
 | Helping Hand | 1.00% | ~19 |
 | I Spit On Your Grave | 1.00% | ~19 |
-| Contingency Plans | 0.90% | ~17 |
+| Contingency Plans | 0.80% | ~15 |
 | Nice Try | 0.80% | ~15 |
 | You Clean It Up | 0.70% | ~13 |
 | Check, Please! | 0.70% | ~13 |
@@ -72,7 +72,7 @@ Rating: 3.50 (Ranked 1,063)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,881 (Ranked 235)  
+Progressed: 1,883 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 0 (0.00%) (Ranked 378)
 | 2023-12-13 | 1,784 | 0 |
 | 2023-12-14 | 1,810 | 0 |
 | 2023-12-15 | 1,843 | 0 |
-| 2023-12-16 | 1,881 | 0 |
+| 2023-12-16 | 1,883 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -15,9 +15,9 @@
 | Soviet town | 5.00% | ~21 |
 | I like my life | 4.00% | ~17 |
 | Clean energy | 4.00% | ~17 |
+| Food producer | 2.00% | ~8 |
 | I love books! | 2.00% | ~8 |
 | I love parks | 2.00% | ~8 |
-| Food producer | 1.00% | ~4 |
 | King of fish | 1.00% | ~4 |
 | Metropolurbek | 0.90% | ~4 |
 | Rebel city | 0.90% | ~4 |
@@ -84,7 +84,7 @@
 | Rainforest master | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 423 (Ranked 337)  
+Progressed: 423 (Ranked 338)  
 Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |

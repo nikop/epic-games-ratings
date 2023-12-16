@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116870,
+  "EOS_Progressed": 116873,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 615,
+  "EOS_NewPlayers": 613,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21499,6 +21499,11 @@
       "Time": "2023-12-16T19:09:39.4686131+00:00",
       "NumProgressed": 116870,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-16T20:10:31.4180595+00:00",
+      "NumProgressed": 116873,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 49,
@@ -21518,7 +21523,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89990
+      "UsersEstimate": 89992
     },
     {
       "ID": "EAwards_10",
@@ -21526,7 +21531,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14024
+      "UsersEstimate": 14025
     },
     {
       "ID": "EAwards_11",
@@ -21534,7 +21539,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 30386
+      "UsersEstimate": 30387
     },
     {
       "ID": "EAwards_12",
@@ -21542,7 +21547,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17530
+      "UsersEstimate": 17531
     },
     {
       "ID": "EAwards_13",
@@ -21582,7 +21587,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43242
+      "UsersEstimate": 43243
     },
     {
       "ID": "EAwards_18",
@@ -21590,7 +21595,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10518
+      "UsersEstimate": 10519
     },
     {
       "ID": "EAwards_19",
@@ -21606,7 +21611,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 57266
+      "UsersEstimate": 57268
     },
     {
       "ID": "EAwards_20",
@@ -21654,7 +21659,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22205
+      "UsersEstimate": 22206
     },
     {
       "ID": "EAwards_26",
@@ -21694,7 +21699,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23374
+      "UsersEstimate": 23375
     },
     {
       "ID": "EAwards_30",
@@ -21742,7 +21747,7 @@
       "Name": "Nacho Libre",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10518
+      "UsersEstimate": 10519
     },
     {
       "ID": "EAwards_36",
@@ -21870,7 +21875,7 @@
       "Name": "Severed 2",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10518
+      "UsersEstimate": 10519
     },
     {
       "ID": "EAwards_7",
@@ -21878,7 +21883,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14024
+      "UsersEstimate": 14025
     },
     {
       "ID": "EAwards_8",
@@ -21886,7 +21891,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14024
+      "UsersEstimate": 14025
     },
     {
       "ID": "EAwards_9",
@@ -21901,7 +21906,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116870,
+      "Progressed": 116873,
       "Completed": 53
     }
   ],
@@ -21909,8 +21914,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:09:39.4686126+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:10:31.4180591+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:07.3909986+00:00",
-  "LastUpdate_Ratings": "2023-12-16T18:57:27.3471809+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:09:39.468737+00:00"
+  "LastUpdate_Ratings": "2023-12-16T19:57:34.096506+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:10:31.4181822+00:00"
 }

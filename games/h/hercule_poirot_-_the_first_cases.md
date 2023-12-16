@@ -9,7 +9,7 @@ Rating: 4.35 (Ranked 800)
 | Luc Piette | 76.00% | ~347 |
 | Angeline Van den Bosch | 73.00% | ~333 |
 | Elizabeth Padget | 70.00% | ~319 |
-| Little Grey Cells | 68.00% | ~310 |
+| Little Grey Cells | 69.00% | ~315 |
 | The Bracelet | 66.00% | ~301 |
 | The Blackmail | 55.00% | ~251 |
 | Major Felix Hagen | 55.00% | ~251 |
@@ -53,7 +53,7 @@ Rating: 4.35 (Ranked 800)
 | Work-life Balance | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 456 (Ranked 332)  
-Completed: 6 (1.32%) (Ranked 150)  
+Completed: 6 (1.32%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

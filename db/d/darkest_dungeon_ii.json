@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9792,9 +9792,9 @@
       "Count": 1014
     }
   ],
-  "EOS_Progressed": 127772,
+  "EOS_Progressed": 127780,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1841,
+  "EOS_NewPlayers": 1842,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35357,6 +35357,11 @@
       "Time": "2023-12-16T19:09:00.3609627+00:00",
       "NumProgressed": 127772,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T20:09:34.776854+00:00",
+      "NumProgressed": 127780,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35368,7 +35373,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -35376,7 +35381,7 @@
       "Name": "Serenity Now!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -35398,9 +35403,9 @@
       "ID": "altar_of_hope_unlock_hero_flagellant",
       "SetID": "64l4lke",
       "Name": "Resurrection",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1150
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -35520,7 +35525,7 @@
       "Name": "Not Today!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35528,7 +35533,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35568,7 +35573,7 @@
       "Name": "Meat and Greet",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35584,7 +35589,7 @@
       "Name": "Catch and Decease",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "combat_kill_librarian",
@@ -35592,7 +35597,7 @@
       "Name": "Overdue Notice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35608,7 +35613,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35664,7 +35669,7 @@
       "Name": "Rush Hour",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -35688,7 +35693,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "driving_distance_easy",
@@ -35999,21 +36004,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127772,
+      "Progressed": 127780,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2641,
+      "Progressed": 2649,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-16T16:57:36.3925155+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:09:00.3609622+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:09:34.7768537+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-16T18:57:41.3421476+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:09:00.3611587+00:00"
+  "LastUpdate_Ratings": "2023-12-16T19:57:55.4111309+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:09:34.7769967+00:00"
 }

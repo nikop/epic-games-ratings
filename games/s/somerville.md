@@ -14,7 +14,7 @@ Rating: 4.22 (Ranked 915)
 | Resignation | 0.70% | ~12 |
 | Understanding | 0.70% | ~12 |
 | Family First | 0.60% | ~10 |
-| “Here boy…“ | 0.50% | ~8 |
+| “Here boy…“ | 0.60% | ~10 |
 | First contact | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,670 (Ranked 242)  

@@ -3,9 +3,9 @@
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 257,
-  "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_Completed": 84,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1221,
+  "EOS_Progressed": 1222,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.26,
   "EosHistory": [
@@ -2769,6 +2769,11 @@
       "Time": "2023-12-14T22:10:32.4221009+00:00",
       "NumProgressed": 1221,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-16T20:10:14.1465514+00:00",
+      "NumProgressed": 1222,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2781,7 +2786,7 @@
       "Name": "Time traveller",
       "Percentage": 21,
       "XP": 140,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_CUBES",
@@ -2789,7 +2794,7 @@
       "Name": "Brain-teaser",
       "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "ACH_DONUTS",
@@ -2821,7 +2826,7 @@
       "Name": "Evil plan",
       "Percentage": 49,
       "XP": 85,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -2837,7 +2842,7 @@
       "Name": "Food lover",
       "Percentage": 63,
       "XP": 55,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -2845,7 +2850,7 @@
       "Name": "Fast as lightning",
       "Percentage": 7,
       "XP": 180,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_THE_END",
@@ -2860,14 +2865,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1221,
+      "Progressed": 1222,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:09:27.5644283+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:10:14.1465511+00:00",
   "LastUpdate_AppInfo": "2023-12-15T17:57:09.5109865+00:00",
-  "LastUpdate_Ratings": "2023-12-16T18:59:41.8373926+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:09:27.5644484+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:01:02.1805989+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:10:14.1465705+00:00"
 }

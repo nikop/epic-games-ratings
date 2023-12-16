@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2154,9 +2154,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15784,
+  "EOS_Progressed": 15786,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17769,6 +17769,11 @@
       "Time": "2023-12-16T19:09:11.3356077+00:00",
       "NumProgressed": 15784,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-16T20:09:51.3842715+00:00",
+      "NumProgressed": 15786,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17932,7 +17937,7 @@
       "Name": "Carthage - Ox Hide",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_BRONZE",
@@ -18356,7 +18361,7 @@
       "Name": "Old",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PEACEMAKER",
@@ -18402,9 +18407,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SETTLER",
       "SetID": "9201eeb",
       "Name": "Settler",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1263
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -18482,9 +18487,9 @@
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
       "SetID": "9201eeb",
       "Name": "Legendary Cities",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 316
+      "UsersEstimate": 474
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
@@ -19444,7 +19449,7 @@
       "Name": "Old World Order",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
@@ -19932,7 +19937,7 @@
       "Name": "No Undo",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE",
@@ -20092,7 +20097,7 @@
       "Name": "The Great Mage",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST",
@@ -20492,7 +20497,7 @@
       "Name": "Kush",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_KUSH",
@@ -20508,28 +20513,28 @@
       "Name": "Beja Archer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     }
   ],
   "AchievementSets": [
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15784,
+      "Progressed": 15786,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15784,
+      "Progressed": 15786,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-15T15:02:40.4686922+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:09:11.3356072+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:09:51.3842712+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:32.9927843+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:02:58.0731431+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:09:11.3364985+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:03:15.2374183+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:09:51.3851479+00:00"
 }

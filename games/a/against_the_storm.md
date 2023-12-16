@@ -31,16 +31,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | Bandit Camp | 0.90% | ~165 |
 | Levitating Monument | 0.90% | ~165 |
 | Monastery of the Holy Flame | 0.90% | ~165 |
+| Corrosive Torrent | 0.90% | ~165 |
 | Cursed Lands | 0.90% | ~165 |
 | Trade Baron | 0.90% | ~165 |
+| Barren Lands | 0.80% | ~147 |
 | Statue of the Forefathers | 0.80% | ~147 |
-| Corrosive Torrent | 0.80% | ~147 |
-| Barren Lands | 0.70% | ~129 |
 | Ancient Battleground | 0.70% | ~129 |
+| Sparkdew Crystals | 0.70% | ~129 |
 | Haunted Forest | 0.70% | ~129 |
+| Flooded Mines | 0.70% | ~129 |
 | Against All Odds | 0.60% | ~110 |
-| Sparkdew Crystals | 0.60% | ~110 |
-| Flooded Mines | 0.60% | ~110 |
 | Serving Ale | 0.50% | ~92 |
 | Defying the Crown | 0.50% | ~92 |
 | Into the Forest | 0.50% | ~92 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,376 (Ranked 147)  
+Progressed: 18,378 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 39 (0.21%) (Ranked 262)
 | 2023-12-13 | 18,048 | 40 |
 | 2023-12-14 | 18,153 | 40 |
 | 2023-12-15 | 18,272 | 39 |
-| 2023-12-16 | 18,376 | 39 |
+| 2023-12-16 | 18,378 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 227)  
 Sum: 3,264 (Ranked 174)  

@@ -3,12 +3,12 @@
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
   "Ranking_Rating": 920,
-  "Ranking_Popularity": 409,
+  "Ranking_Popularity": 410,
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -425,9 +425,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 329912,
+  "EOS_Progressed": 329941,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3499,
+  "EOS_NewPlayers": 3496,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9855,6 +9855,11 @@
       "Time": "2023-12-16T19:03:58.426009+00:00",
       "NumProgressed": 329912,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-16T20:04:46.470129+00:00",
+      "NumProgressed": 329941,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9867,7 +9872,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9897
+      "UsersEstimate": 9898
     },
     {
       "ID": "S02_BRDA",
@@ -9875,7 +9880,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6598
+      "UsersEstimate": 6599
     },
     {
       "ID": "S03_OTWA",
@@ -9883,7 +9888,7 @@
       "Name": "Rumors are true",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2639
+      "UsersEstimate": 2640
     },
     {
       "ID": "S04_BRDC",
@@ -9891,7 +9896,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2309
+      "UsersEstimate": 2310
     },
     {
       "ID": "S05_SWRA",
@@ -9899,7 +9904,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "S06_LWTC",
@@ -10003,7 +10008,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9897
+      "UsersEstimate": 9898
     },
     {
       "ID": "S19_CHALLENGES",
@@ -10059,7 +10064,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2309
+      "UsersEstimate": 2310
     },
     {
       "ID": "S26_CRTA",
@@ -10091,7 +10096,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2639
+      "UsersEstimate": 2640
     },
     {
       "ID": "S30_DIAMOND",
@@ -10186,7 +10191,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 329912,
+      "Progressed": 329941,
       "Completed": 5
     }
   ],
@@ -10194,8 +10199,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-16T11:59:39.7470392+00:00",
-  "LastChanged_Achievements": "2023-12-16T19:03:58.4260085+00:00",
+  "LastChanged_Achievements": "2023-12-16T20:04:46.4701286+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-16T18:58:57.288549+00:00",
-  "LastUpdate_Achievements": "2023-12-16T19:03:58.426085+00:00"
+  "LastUpdate_Ratings": "2023-12-16T19:59:53.9706129+00:00",
+  "LastUpdate_Achievements": "2023-12-16T20:04:46.4702197+00:00"
 }

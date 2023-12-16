@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~566 |
+| Travel Streamer | 92.00% | ~567 |
 | Training Simulation | 78.00% | ~480 |
 | Kuku Bird Hunter | 65.00% | ~400 |
 | Storm Traveller | 59.00% | ~363 |
-| Wolf King Killer | 54.00% | ~332 |
+| Wolf King Killer | 54.00% | ~333 |
 | Fashion Connoisseur | 52.00% | ~320 |
-| Arms Mechanic | 48.00% | ~295 |
-| Flower Thief | 43.00% | ~264 |
+| Arms Mechanic | 48.00% | ~296 |
+| Flower Thief | 43.00% | ~265 |
 | Apostle of Flame | 38.00% | ~234 |
 | Beginner Artificer | 37.00% | ~228 |
-| Beginner Cook | 36.00% | ~221 |
+| Beginner Cook | 36.00% | ~222 |
 | Seal Breaker | 31.00% | ~191 |
 | Handyman | 27.00% | ~166 |
 | Giant Lizard Killer | 26.00% | ~160 |
@@ -25,9 +25,9 @@
 | Flying Kobold Killer | 18.00% | ~111 |
 | Youth Magnet | 18.00% | ~111 |
 | Furious Scorpion Killer | 17.00% | ~105 |
-| Lethal Blade Mantis Killer | 16.00% | ~98 |
-| Squeaky Clean | 16.00% | ~98 |
-| Master Artificer | 16.00% | ~98 |
+| Lethal Blade Mantis Killer | 16.00% | ~99 |
+| Squeaky Clean | 16.00% | ~99 |
+| Master Artificer | 16.00% | ~99 |
 | Kind Adventurer | 14.00% | ~86 |
 | Mermaid Killer | 14.00% | ~86 |
 | Cave Master | 14.00% | ~86 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 615 (Ranked 308)  
+Progressed: 616 (Ranked 308)  
 Completed: 1 (0.16%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 1 (0.16%) (Ranked 277)
 | 2023-12-12 | 594 | 1 |
 | 2023-12-14 | 600 | 1 |
 | 2023-12-15 | 603 | 1 |
-| 2023-12-16 | 615 | 1 |
+| 2023-12-16 | 616 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
