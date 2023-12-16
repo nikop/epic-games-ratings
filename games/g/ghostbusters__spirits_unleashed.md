@@ -1,11 +1,11 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 600)  
+Rating: 4.50 (Ranked 601)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 9.00% | ~2,908 |
+| Stylish | 9.00% | ~2,909 |
 | Meticulously Efficient | 8.00% | ~2,585 |
 | Advancement | 7.00% | ~2,262 |
 | Swift Rift Removers | 6.00% | ~1,939 |
@@ -20,16 +20,16 @@ Rating: 4.50 (Ranked 600)
 | There you are! | 4.00% | ~1,293 |
 | Vaporous Expansion | 4.00% | ~1,293 |
 | Whoopsie | 4.00% | ~1,293 |
-| Animated | 3.00% | ~969 |
-| We have the best insurance | 3.00% | ~969 |
-| Ectoplasmic Entity | 3.00% | ~969 |
-| Ghostbuster In Training | 3.00% | ~969 |
-| Icing on the Cake | 3.00% | ~969 |
-| Legions | 3.00% | ~969 |
-| Pesky Jerks | 3.00% | ~969 |
-| Right back at ya | 3.00% | ~969 |
-| Side Hustle | 3.00% | ~969 |
-| Summoner | 3.00% | ~969 |
+| Animated | 3.00% | ~970 |
+| We have the best insurance | 3.00% | ~970 |
+| Ectoplasmic Entity | 3.00% | ~970 |
+| Ghostbuster In Training | 3.00% | ~970 |
+| Icing on the Cake | 3.00% | ~970 |
+| Legions | 3.00% | ~970 |
+| Pesky Jerks | 3.00% | ~970 |
+| Right back at ya | 3.00% | ~970 |
+| Side Hustle | 3.00% | ~970 |
+| Summoner | 3.00% | ~970 |
 | Back Off | 2.00% | ~646 |
 | Collector | 2.00% | ~646 |
 | Escape Artist | 2.00% | ~646 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 600)
 | Ultimate Defense | 0.20% | ~65 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,315 (Ranked 127)  
+Progressed: 32,318 (Ranked 127)  
 Completed: 69 (0.21%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 69 (0.21%) (Ranked 261)
 | 2023-12-13 | 32,229 | 69 |
 | 2023-12-14 | 32,251 | 69 |
 | 2023-12-15 | 32,291 | 69 |
-| 2023-12-16 | 32,315 | 69 |
+| 2023-12-16 | 32,318 | 69 |
 ## Awards
 Max (Great for Beginners): 323  (Ranked 251)  
 Sum: 2,909 (Ranked 179)  

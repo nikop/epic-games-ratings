@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.60 (Ranked 422)  
+Rating: 4.60 (Ranked 423)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,23 +11,23 @@ Rating: 4.60 (Ranked 422)
 | Adventurer | 68.00% | ~58 |
 | The brave little tailor | 53.00% | ~45 |
 | Archer | 52.00% | ~44 |
-| Field hand | 45.00% | ~38 |
-| Samaritan | 41.00% | ~35 |
+| Field hand | 47.00% | ~40 |
+| Samaritan | 42.00% | ~36 |
 | Well-to-do | 40.00% | ~34 |
 | The merciful one | 39.00% | ~33 |
-| Ladies' man | 36.00% | ~31 |
+| Ladies' man | 38.00% | ~32 |
 | Ferocious wild boars | 31.00% | ~26 |
 | Idiot | 28.00% | ~24 |
 | Beast slayer | 26.00% | ~22 |
+| The fourth triplet | 25.00% | ~21 |
 | Wise man | 24.00% | ~20 |
 | Family man | 24.00% | ~20 |
 | Death of a legend | 24.00% | ~20 |
 | Archaeologist | 24.00% | ~20 |
-| The fourth triplet | 24.00% | ~20 |
+| Little hero | 22.00% | ~19 |
 | Ogre friend | 22.00% | ~19 |
 | Hard worker | 22.00% | ~19 |
 | Sidelined | 22.00% | ~19 |
-| Little hero | 21.00% | ~18 |
 | Pandora's box | 20.00% | ~17 |
 | Ghost hunter | 20.00% | ~17 |
 | Master detective | 20.00% | ~17 |

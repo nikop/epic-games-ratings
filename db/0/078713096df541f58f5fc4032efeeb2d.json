@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -316,9 +316,9 @@
       "ID": "creepytale3_ach_24",
       "SetID": "7idcjbn",
       "Name": "Boring book!",
-      "Percentage": 29,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "creepytale3_ach_26",
@@ -332,9 +332,9 @@
       "ID": "creepytale3_ach_27",
       "SetID": "7idcjbn",
       "Name": "Mimic",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "creepytale3_ach_3",
@@ -475,8 +475,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:05:02.9273879+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:05:54.0622539+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.5738942+00:00",
-  "LastUpdate_Ratings": "2023-12-16T16:00:05.5448959+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:05:02.9274102+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:01:28.3828656+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:05:54.0622721+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Access Denied Escape",
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 355,
-  "Ranking_EOS_Completed": 16,
+  "Ranking_EOS_Completed": 18,
   "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 336,
+  "EOS_Progressed": 337,
   "EOS_Completed": 84,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 25,
+  "EOS_Completed_Percentage": 24.93,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1794,6 +1794,11 @@
       "Time": "2023-12-16T16:05:18.4177812+00:00",
       "NumProgressed": 336,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-12-16T17:06:16.3185149+00:00",
+      "NumProgressed": 337,
+      "NumCompleted": 84
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1838,7 +1843,7 @@
       "Name": "Test Task",
       "Percentage": 97,
       "XP": 30,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "Floppy",
@@ -1854,15 +1859,15 @@
       "Name": "Beginner Electrician",
       "Percentage": 83,
       "XP": 70,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 161
+      "UsersEstimate": 158
     },
     {
       "ID": "GasDeath",
@@ -1900,31 +1905,31 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 80,
-      "UsersEstimate": 165
+      "UsersEstimate": 162
     },
     {
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 161
+      "UsersEstimate": 158
     }
   ],
   "AchievementSets": [
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 336,
+      "Progressed": 337,
       "Completed": 84
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:05:18.4177809+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:06:16.3185146+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:40.7656353+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:59:32.2755504+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:05:18.417808+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:00:37.9023676+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:06:16.3185304+00:00"
 }

@@ -38,6 +38,7 @@
 | Xevarian Gambit | 3.00% | ~6 |
 | A Terrible Will | 3.00% | ~6 |
 | Life... Finds a Way | 3.00% | ~6 |
+| Insectoid Propagator | 3.00% | ~6 |
 | Supercargo | 2.00% | ~4 |
 | Talent Nurtured | 2.00% | ~4 |
 | Huntress Unbound | 2.00% | ~4 |
@@ -47,7 +48,6 @@
 | A Real Battle | 2.00% | ~4 |
 | The Darkness Within | 2.00% | ~4 |
 | Merchant Lord | 2.00% | ~4 |
-| Insectoid Propagator | 2.00% | ~4 |
 | Making Contact | 1.00% | ~2 |
 | Loremaster | 1.00% | ~2 |
 | Moving At Odd Angles | 1.00% | ~2 |

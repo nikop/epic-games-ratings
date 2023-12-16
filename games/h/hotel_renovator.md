@@ -1,30 +1,30 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.39 (Ranked 758)  
+Rating: 4.39 (Ranked 759)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~913 |
-| And so it begins | 73.00% | ~877 |
+| Good start | 76.00% | ~914 |
+| And so it begins | 72.00% | ~865 |
 | No pressure | 70.00% | ~841 |
 | Memento | 61.00% | ~733 |
 | Let there be light | 59.00% | ~709 |
 | I think you dropped this | 54.00% | ~649 |
 | Soulmate? | 53.00% | ~637 |
-| Excellent service | 49.00% | ~588 |
-| Roll with it | 46.00% | ~552 |
-| Humble beginnings | 44.00% | ~528 |
-| Love is in the air | 43.00% | ~516 |
-| Fine, I'll do it myself | 42.00% | ~504 |
-| Moving up | 41.00% | ~492 |
-| No need to call anyone | 40.00% | ~480 |
-| Big fortune | 33.00% | ~396 |
-| Still more work ahead | 30.00% | ~360 |
-| Aesop's fable | 28.00% | ~336 |
-| Hotel sleuthing | 28.00% | ~336 |
-| Kaboom | 27.00% | ~324 |
-| Nearly there | 26.00% | ~312 |
+| Excellent service | 49.00% | ~589 |
+| Roll with it | 46.00% | ~553 |
+| Humble beginnings | 44.00% | ~529 |
+| Love is in the air | 43.00% | ~517 |
+| Fine, I'll do it myself | 42.00% | ~505 |
+| Moving up | 41.00% | ~493 |
+| No need to call anyone | 40.00% | ~481 |
+| Big fortune | 33.00% | ~397 |
+| Still more work ahead | 30.00% | ~361 |
+| Aesop's fable | 28.00% | ~337 |
+| Hotel sleuthing | 28.00% | ~337 |
+| Kaboom | 27.00% | ~325 |
+| Nearly there | 26.00% | ~313 |
 | Broken heart | 24.00% | ~288 |
 | Island boy | 22.00% | ~264 |
 | You're a star | 21.00% | ~252 |
@@ -33,7 +33,7 @@ Rating: 4.39 (Ranked 758)
 | King of hospitality | 11.00% | ~132 |
 | Top spot in town | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,201 (Ranked 260)  
+Progressed: 1,202 (Ranked 260)  
 Completed: 18 (1.50%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 18 (1.50%) (Ranked 143)
 | 2023-12-13 | 1,161 | 18 |
 | 2023-12-14 | 1,174 | 18 |
 | 2023-12-15 | 1,192 | 18 |
-| 2023-12-16 | 1,201 | 18 |
+| 2023-12-16 | 1,202 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

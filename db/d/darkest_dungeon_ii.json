@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 261,
+  "Ranking_Rating": 262,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 84,
@@ -9706,10 +9706,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20571,
       "NumberOfAwardsMax": 7744
+    },
+    {
+      "Time": "2023-12-16T16:57:36.3925171+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20587,
+      "NumberOfAwardsMax": 7744
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20571,
+  "NumberOfAwards": 20587,
   "NumberOfAwardsMax": 7744,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9759,7 +9765,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1695
+      "Count": 1711
     },
     {
       "Text": "This game is Relaxing",
@@ -9786,9 +9792,9 @@
       "Count": 1014
     }
   ],
-  "EOS_Progressed": 127734,
+  "EOS_Progressed": 127745,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1822,
+  "EOS_NewPlayers": 1824,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35336,6 +35342,11 @@
       "Time": "2023-12-16T16:09:20.1287913+00:00",
       "NumProgressed": 127734,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T17:09:17.0975162+00:00",
+      "NumProgressed": 127745,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35705,9 +35716,9 @@
       "ID": "hero_story_complete_all",
       "SetID": "64l4lke",
       "Name": "Shrine of Reflection",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 383
+      "UsersEstimate": 511
     },
     {
       "ID": "hero_story_complete_any",
@@ -35761,9 +35772,9 @@
       "ID": "inn_visit_all_variants",
       "SetID": "64l4lke",
       "Name": "Worldly Traveller",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1277
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -35883,7 +35894,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "combat_kill_collector",
@@ -35947,7 +35958,7 @@
       "Name": "Lost and Found",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35978,21 +35989,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127734,
+      "Progressed": 127745,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2603,
+      "Progressed": 2614,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-16T14:57:14.5165145+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:09:20.128791+00:00",
+  "LastChanged": "2023-12-16T16:57:36.3925155+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:09:17.097516+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:57:29.1262842+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:09:20.1290222+00:00"
+  "LastUpdate_Ratings": "2023-12-16T16:57:36.3925176+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:09:17.0976871+00:00"
 }

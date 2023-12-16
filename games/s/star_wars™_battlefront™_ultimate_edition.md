@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,587 |
-| Off to a good start | 66.00% | ~1,177 |
-| Do... or do not. There is no try | 51.00% | ~909 |
-| A good blaster at your side | 29.00% | ~517 |
-| I suggest a new strategy | 18.00% | ~321 |
-| Scrap collector | 17.00% | ~303 |
-| All right, I'll give it a try | 17.00% | ~303 |
-| Great shot, kid! | 17.00% | ~303 |
+| New Recruit | 89.00% | ~1,591 |
+| Off to a good start | 65.00% | ~1,162 |
+| Do... or do not. There is no try | 51.00% | ~912 |
+| A good blaster at your side | 29.00% | ~519 |
+| I suggest a new strategy | 18.00% | ~322 |
+| Scrap collector | 17.00% | ~304 |
+| All right, I'll give it a try | 17.00% | ~304 |
+| Great shot, kid! | 17.00% | ~304 |
 | Shoot first | 14.00% | ~250 |
 | The power of the Force | 13.00% | ~232 |
 | Collector | 13.00% | ~232 |
 | Together we can rule the galaxy | 13.00% | ~232 |
-| Tell Jabba that I've got his money | 9.00% | ~160 |
-| Best star-pilot in the galaxy | 9.00% | ~160 |
-| Survivor | 9.00% | ~160 |
+| Tell Jabba that I've got his money | 9.00% | ~161 |
+| Best star-pilot in the galaxy | 9.00% | ~161 |
+| Survivor | 9.00% | ~161 |
 | Never tell me the odds! | 8.00% | ~143 |
 | A cunning warrior | 8.00% | ~143 |
 | What's the cargo? | 7.00% | ~125 |
@@ -28,14 +28,14 @@
 | Distinguished | 5.00% | ~89 |
 | A tremor in the Force | 5.00% | ~89 |
 | Support the troops | 5.00% | ~89 |
-| Safety ain't the point of a joyride | 4.00% | ~71 |
-| Not bad for a little furball | 4.00% | ~71 |
-| Patience you must have | 4.00% | ~71 |
-| I've been waiting for you | 3.00% | ~53 |
-| When 900 years old you reach... | 3.00% | ~53 |
-| Your journey has only started | 3.00% | ~53 |
-| On the ball | 3.00% | ~53 |
-| Don't underestimate the Force | 3.00% | ~53 |
+| Safety ain't the point of a joyride | 4.00% | ~72 |
+| Not bad for a little furball | 4.00% | ~72 |
+| Patience you must have | 4.00% | ~72 |
+| I've been waiting for you | 3.00% | ~54 |
+| When 900 years old you reach... | 3.00% | ~54 |
+| Your journey has only started | 3.00% | ~54 |
+| On the ball | 3.00% | ~54 |
+| Don't underestimate the Force | 3.00% | ~54 |
 | The Force is strong with this one | 2.00% | ~36 |
 | Determined | 2.00% | ~36 |
 | Precision shot | 2.00% | ~36 |
@@ -55,8 +55,8 @@
 | A New Hope | 0.80% | ~14 |
 | Walker defender | 0.80% | ~14 |
 | Stop that Droid | 0.80% | ~14 |
-| No such thing as luck | 0.70% | ~12 |
-| Do we take prisoners? | 0.70% | ~12 |
+| No such thing as luck | 0.70% | ~13 |
+| Do we take prisoners? | 0.70% | ~13 |
 | I’ll take that bet | 0.60% | ~11 |
 | Stay on target | 0.40% | ~7 |
 | Greed can be a very powerful ally | 0.40% | ~7 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~4 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,783 (Ranked 238)  
+Progressed: 1,788 (Ranked 238)  
 Completed: 1 (0.06%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 1 (0.06%) (Ranked 318)
 | 2023-12-13 | 1,698 | 1 |
 | 2023-12-14 | 1,726 | 1 |
 | 2023-12-15 | 1,755 | 1 |
-| 2023-12-16 | 1,783 | 1 |
+| 2023-12-16 | 1,788 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

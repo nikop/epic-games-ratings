@@ -1,23 +1,23 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.83 (Ranked 1,043)  
+Rating: 3.83 (Ranked 1,044)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,670 |
-| The First Step | 89.00% | ~1,517 |
-| Moonbury Traveller | 64.00% | ~1,091 |
-| Rookie Chemist | 62.00% | ~1,056 |
-| Great Doctor | 51.00% | ~869 |
-| Dog Whisperer | 49.00% | ~835 |
-| Friendly | 47.00% | ~801 |
-| K.O.! | 44.00% | ~750 |
-| The Capitalist | 44.00% | ~750 |
+| Welcome to Moonbury | 98.00% | ~1,672 |
+| The First Step | 89.00% | ~1,518 |
+| Moonbury Traveller | 64.00% | ~1,092 |
+| Rookie Chemist | 62.00% | ~1,058 |
+| Great Doctor | 51.00% | ~870 |
+| Dog Whisperer | 49.00% | ~836 |
+| Friendly | 48.00% | ~819 |
+| K.O.! | 44.00% | ~751 |
+| The Capitalist | 44.00% | ~751 |
 | Intermediate Chemist | 40.00% | ~682 |
-| Decorative Mind | 32.00% | ~545 |
-| Lumber Specialist | 32.00% | ~545 |
-| Kind-hearted | 26.00% | ~443 |
+| Decorative Mind | 32.00% | ~546 |
+| Lumber Specialist | 32.00% | ~546 |
+| Kind-hearted | 26.00% | ~444 |
 | Catch of the Day | 25.00% | ~426 |
 | Amateur Chef | 23.00% | ~392 |
 | Fishing Guru | 21.00% | ~358 |
@@ -27,11 +27,11 @@ Rating: 3.83 (Ranked 1,043)
 | Stone Specialist | 14.00% | ~239 |
 | Sociable | 13.00% | ~222 |
 | Ablutomaniac | 13.00% | ~222 |
-| Line Cook | 12.00% | ~204 |
-| Production Sorter | 12.00% | ~204 |
-| Good Samaritan | 11.00% | ~187 |
-| Acrobatic Adventurer | 10.00% | ~170 |
-| Animal Exterminator | 9.00% | ~153 |
+| Line Cook | 12.00% | ~205 |
+| Good Samaritan | 11.00% | ~188 |
+| Production Sorter | 11.00% | ~188 |
+| Acrobatic Adventurer | 10.00% | ~171 |
+| Animal Exterminator | 9.00% | ~154 |
 | Adolescent Love | 6.00% | ~102 |
 | Mail Carrier | 6.00% | ~102 |
 | Plantation Exterminator | 5.00% | ~85 |
@@ -44,7 +44,7 @@ Rating: 3.83 (Ranked 1,043)
 | Moonbury Navigator | 1.00% | ~17 |
 | Being a donut... | 0.70% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,704 (Ranked 241)  
+Progressed: 1,706 (Ranked 240)  
 Completed: 10 (0.59%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 10 (0.59%) (Ranked 195)
 | 2023-12-13 | 1,679 | 10 |
 | 2023-12-14 | 1,687 | 10 |
 | 2023-12-15 | 1,695 | 10 |
-| 2023-12-16 | 1,704 | 10 |
+| 2023-12-16 | 1,706 | 10 |
 ## Awards
 Max (Character Customization): 69  (Ranked 409)  
 Sum: 69 (Ranked 477)  

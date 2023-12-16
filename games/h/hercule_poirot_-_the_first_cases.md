@@ -1,7 +1,7 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.35 (Ranked 799)  
+Rating: 4.35 (Ranked 800)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,8 +19,8 @@ Rating: 4.35 (Ranked 799)
 | The Altercation | 50.00% | ~228 |
 | Truth from Within | 48.00% | ~219 |
 | The Major | 47.00% | ~214 |
+| Curious and Beautiful | 45.00% | ~205 |
 | Comtesse Margaux de Vos | 45.00% | ~205 |
-| Curious and Beautiful | 44.00% | ~201 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~201 |
 | The Interrogations | 44.00% | ~201 |
 | Well-acquainted | 41.00% | ~187 |
@@ -52,7 +52,7 @@ Rating: 4.35 (Ranked 799)
 | Room with a View | 7.00% | ~32 |
 | Work-life Balance | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456 (Ranked 331)  
+Progressed: 456 (Ranked 332)  
 Completed: 6 (1.32%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |

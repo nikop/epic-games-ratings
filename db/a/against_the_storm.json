@@ -2,7 +2,7 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 69,
+  "Ranking_Rating": 70,
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 147,
@@ -3467,9 +3467,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18362,
+  "EOS_Progressed": 18367,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15952,6 +15952,11 @@
       "Time": "2023-12-16T16:04:34.2114601+00:00",
       "NumProgressed": 18362,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-16T17:05:14.33928+00:00",
+      "NumProgressed": 18367,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16074,9 +16079,9 @@
       "ID": "WinNearArmory",
       "SetID": "cfbk359",
       "Name": "Ruined Armory",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 184
     },
     {
       "ID": "WinNearBandit",
@@ -16396,7 +16401,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "WinNearPresence",
@@ -16435,15 +16440,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18362,
+      "Progressed": 18367,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-16T06:56:59.7467087+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:04:34.2114593+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:05:14.3392797+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:57:19.1481883+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:04:34.2115681+00:00"
+  "LastUpdate_Ratings": "2023-12-16T16:57:21.2889593+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:05:14.3393993+00:00"
 }

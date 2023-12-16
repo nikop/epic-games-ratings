@@ -2,13 +2,13 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 698,
+  "Ranking_Rating": 699,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_Completed": 230,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4912,
+  "EOS_Progressed": 4915,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3546,6 +3546,11 @@
       "Time": "2023-12-16T16:04:44.2947539+00:00",
       "NumProgressed": 4912,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-16T17:05:28.3942217+00:00",
+      "NumProgressed": 4915,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3557,15 +3562,15 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1819
     },
     {
       "ID": "ID_ACHIEV_02",
       "SetID": "98bke8c",
       "Name": "Firebug",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1032
+      "UsersEstimate": 983
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -3581,7 +3586,7 @@
       "Name": "The Black Cerberus",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ID_ACHIEV_05",
@@ -3597,15 +3602,15 @@
       "Name": "For the Good of Mankind",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ID_ACHIEV_07",
       "SetID": "98bke8c",
       "Name": "I\u0027ll Be Back",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4175
+      "UsersEstimate": 4129
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3613,7 +3618,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4617
+      "UsersEstimate": 4620
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3621,7 +3626,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3782
+      "UsersEstimate": 3785
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -3629,7 +3634,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1819
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -3637,7 +3642,7 @@
       "Name": "CREO Killed the Video Star",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ID_ACHIEV_12",
@@ -3653,7 +3658,7 @@
       "Name": "Watchman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ID_ACHIEV_14",
@@ -3661,7 +3666,7 @@
       "Name": "Who\u0027s in Charge Here?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ID_ACHIEV_15",
@@ -3717,7 +3722,7 @@
       "Name": "Shall Not Pass",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -3725,7 +3730,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -3773,7 +3778,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3782
+      "UsersEstimate": 3785
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3805,7 +3810,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2702
+      "UsersEstimate": 2703
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -3821,15 +3826,15 @@
       "Name": "Most Wanted",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "ID_ACHIEV_36",
       "SetID": "98bke8c",
       "Name": "Infidel",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1130
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -3837,7 +3842,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -3845,7 +3850,7 @@
       "Name": "I Choose You",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -3877,7 +3882,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -3901,7 +3906,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -3989,7 +3994,7 @@
       "Name": "Rusty Rat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ID_ACHIEV_57",
@@ -4077,7 +4082,7 @@
       "Name": "Desecration",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ID_ACHIEV_68",
@@ -4092,15 +4097,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4912,
+      "Progressed": 4915,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:04:44.2947535+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:05:28.3942214+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.6535047+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:57:13.4638262+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:04:44.2948607+00:00"
+  "LastUpdate_Ratings": "2023-12-16T16:57:12.9699891+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:05:28.3942903+00:00"
 }

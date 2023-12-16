@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 81.00% | ~285 |
+| Seeds of War | 82.00% | ~289 |
 | First Blood | 63.00% | ~222 |
 | Triple Kill | 62.00% | ~218 |
 | Aspairagus | 60.00% | ~181 |
-| No Asperascope | 57.00% | ~201 |
+| No Asperascope | 58.00% | ~204 |
 | Survivor | 57.00% | ~172 |
-| Cornivore | 54.00% | ~190 |
+| Cornivore | 55.00% | ~194 |
 | I Believe I Can Fly | 49.00% | ~172 |
 | No Diggity | 45.00% | ~136 |
-| Early Survivor | 40.00% | ~121 |
+| Early Survivor | 41.00% | ~124 |
 | Bouncemato | 31.00% | ~94 |
 | 10K | 29.00% | ~102 |
 | Amateur Survivor | 29.00% | ~88 |

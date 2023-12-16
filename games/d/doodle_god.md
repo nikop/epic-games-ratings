@@ -23,8 +23,8 @@
 | Salvation! | 10.00% | ~26 |
 | Brilliant Inventor | 7.00% | ~18 |
 | Greatest inventor | 7.00% | ~18 |
-| Master of Alchemy | 5.00% | ~13 |
-| Master of the Worlds | 5.00% | ~13 |
+| Master of Alchemy | 6.00% | ~16 |
+| Master of the Worlds | 6.00% | ~16 |
 | God of Patience | 3.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 263 (Ranked 377)  

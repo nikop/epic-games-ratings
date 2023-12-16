@@ -1,7 +1,7 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.61 (Ranked 388)  
+Rating: 4.61 (Ranked 390)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,6 +20,7 @@ Rating: 4.61 (Ranked 388)
 | Miner 49er | 0.20% | ~17 |
 | Humble Collector | 0.20% | ~17 |
 | Higher Tax Bracket | 0.20% | ~17 |
+| I Now Pronounce You... | 0.20% | ~17 |
 | Chatty Neighbor | 0.20% | ~17 |
 | Oui, Chef! | 0.20% | ~17 |
 | Botanical Breakthrough | 0.20% | ~17 |
@@ -39,7 +40,6 @@ Rating: 4.61 (Ranked 388)
 | Scattered Scroll Scrounger | 0.10% | ~8 |
 | Rumble in the Jumble | 0.10% | ~8 |
 | Fanatical Farmer | 0.10% | ~8 |
-| I Now Pronounce You... | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 | A Pal To All | 0.10% | ~1 |
 | Scroll Hunter | 0.10% | ~1 |

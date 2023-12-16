@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 370,
+  "Ranking_Rating": 371,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5738,
+  "EOS_Progressed": 5740,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8195,6 +8195,11 @@
       "Time": "2023-12-16T16:03:33.9603638+00:00",
       "NumProgressed": 5738,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-16T17:03:56.9903038+00:00",
+      "NumProgressed": 5740,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8685,13 +8690,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5738,
+      "Progressed": 5740,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5738,
+      "Progressed": 5740,
       "Completed": 7
     }
   ],
@@ -8699,8 +8704,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:03:33.9603632+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:03:56.9903035+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:32.604119+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:57:59.2663059+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:03:33.9604567+00:00"
+  "LastUpdate_Ratings": "2023-12-16T16:58:20.1120556+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:03:56.9904522+00:00"
 }

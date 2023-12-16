@@ -1,14 +1,14 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.25 (Ranked 890)  
+Rating: 4.25 (Ranked 891)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,806 |
-| Don't I Know You...? | 76.00% | ~1,715 |
+| Don't I Know You...? | 77.00% | ~1,739 |
 | Jailbreak | 66.00% | ~1,490 |
-| Suited and Booted | 39.00% | ~880 |
+| Suited and Booted | 39.00% | ~881 |
 | HEADSHOT! | 38.00% | ~858 |
 | Sleeping With The Fishes | 36.00% | ~813 |
 | High Performance | 31.00% | ~700 |
@@ -19,9 +19,9 @@ Rating: 4.25 (Ranked 890)
 | Luminary | 23.00% | ~519 |
 | True Survivor | 22.00% | ~497 |
 | It's a Trap | 22.00% | ~497 |
-| Offensive Defense | 20.00% | ~451 |
-| Shocking | 20.00% | ~451 |
-| Unforeseeable Consequences | 20.00% | ~451 |
+| Offensive Defense | 20.00% | ~452 |
+| Shocking | 20.00% | ~452 |
+| Unforeseeable Consequences | 20.00% | ~452 |
 | Court Martial | 19.00% | ~429 |
 | Clean Cut | 19.00% | ~429 |
 | Dead Again | 18.00% | ~406 |
@@ -29,9 +29,9 @@ Rating: 4.25 (Ranked 890)
 | Can't Trust Banks | 15.00% | ~339 |
 | Mommy Dearest | 14.00% | ~316 |
 | Bad Dog | 14.00% | ~316 |
-| Where It All Began | 13.00% | ~293 |
-| Risk Tolerant | 13.00% | ~293 |
-| What A Catchy Song | 13.00% | ~293 |
+| Where It All Began | 13.00% | ~294 |
+| Risk Tolerant | 13.00% | ~294 |
+| What A Catchy Song | 13.00% | ~294 |
 | Corrupted Beauty | 12.00% | ~271 |
 | Marked For Success | 12.00% | ~271 |
 | Sorry, Didn't See You There | 12.00% | ~271 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 890)
 | Loot, Pillage & Craft | 2.00% | ~45 |
 | Swiss Army Drone | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,257 (Ranked 227)  
+Progressed: 2,258 (Ranked 227)  
 Completed: 13 (0.58%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 13 (0.58%) (Ranked 196)
 | 2023-12-11 | 2,224 | 13 |
 | 2023-12-14 | 2,235 | 13 |
 | 2023-12-15 | 2,246 | 13 |
-| 2023-12-16 | 2,257 | 13 |
+| 2023-12-16 | 2,258 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

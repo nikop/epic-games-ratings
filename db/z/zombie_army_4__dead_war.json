@@ -2,13 +2,13 @@
   "ID": "dfd2530e80e4425d801913b0879be444",
   "Name": "Zombie Army 4: Dead War",
   "ProductSlug": "zombie-army-4-dead-war",
-  "Ranking_Rating": 232,
-  "Ranking_Popularity": 169,
+  "Ranking_Rating": 233,
+  "Ranking_Popularity": 170,
   "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2556,9 +2556,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44152,
+  "EOS_Progressed": 44153,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9941,6 +9941,11 @@
       "Time": "2023-12-16T13:07:04.1137679+00:00",
       "NumProgressed": 44152,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-16T17:05:17.0253059+00:00",
+      "NumProgressed": 44153,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -9952,7 +9957,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27374
+      "UsersEstimate": 27375
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -10024,7 +10029,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 18102
+      "UsersEstimate": 18103
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -10056,7 +10061,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17219
+      "UsersEstimate": 17220
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -10200,7 +10205,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21634
+      "UsersEstimate": 21635
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -10240,7 +10245,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16336
+      "UsersEstimate": 16337
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -10272,7 +10277,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16336
+      "UsersEstimate": 16337
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -10280,7 +10285,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30465
+      "UsersEstimate": 30466
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -10304,7 +10309,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20751
+      "UsersEstimate": 20752
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -10320,7 +10325,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20751
+      "UsersEstimate": 20752
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -10344,7 +10349,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19868
+      "UsersEstimate": 19869
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -10352,7 +10357,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29140
+      "UsersEstimate": 29141
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -10408,7 +10413,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29140
+      "UsersEstimate": 29141
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -10416,7 +10421,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10596
+      "UsersEstimate": 10597
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -10464,7 +10469,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7947
+      "UsersEstimate": 7948
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -10479,15 +10484,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44152,
+      "Progressed": 44153,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-14T22:58:01.1346341+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:04:36.1375917+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:05:17.0253056+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:44.7466868+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:58:19.3349921+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:04:36.1377342+00:00"
+  "LastUpdate_Ratings": "2023-12-16T16:58:50.8244088+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:05:17.0253847+00:00"
 }

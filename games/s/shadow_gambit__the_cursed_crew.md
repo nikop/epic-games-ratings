@@ -1,27 +1,27 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.81 (Ranked 85)  
+Rating: 4.81 (Ranked 86)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A New Journey | 67.00% | ~789 |
 | The Adventure Begins | 49.00% | ~577 |
-| Swabbie | 37.00% | ~435 |
-| With Great Power… | 37.00% | ~435 |
-| This Belongs in a Museum | 33.00% | ~388 |
+| Swabbie | 37.00% | ~436 |
+| With Great Power… | 37.00% | ~436 |
+| This Belongs in a Museum | 33.00% | ~389 |
 | The Gambit Has Begun | 30.00% | ~353 |
 | Somewhere Deep in the Lost Caribbean | 27.00% | ~318 |
 | Powder Monkey | 27.00% | ~318 |
 | Mirror Mirror on the Wall | 26.00% | ~306 |
-| Pirates Assemble! | 24.00% | ~282 |
-| Buccaneer | 20.00% | ~235 |
-| Fishy Fish | 20.00% | ~235 |
+| Pirates Assemble! | 24.00% | ~283 |
+| Buccaneer | 20.00% | ~236 |
+| Fishy Fish | 20.00% | ~236 |
 | All Good Things | 18.00% | ~212 |
 | Persistent Parasite | 16.00% | ~188 |
 | Seadog | 15.00% | ~177 |
 | Jaded Judge | 12.00% | ~141 |
-| Rustic Recipe | 11.00% | ~129 |
+| Rustic Recipe | 11.00% | ~130 |
 | Tobacco Travesty | 10.00% | ~118 |
 | Privateer | 9.00% | ~106 |
 | Accursed Artifacts | 9.00% | ~106 |
@@ -32,7 +32,7 @@ Rating: 4.81 (Ranked 85)
 | Marauder | 3.00% | ~35 |
 | Welcome Back Jester | 3.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,177 (Ranked 263)  
+Progressed: 1,178 (Ranked 264)  
 Completed: 32 (2.72%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 32 (2.72%) (Ranked 114)
 | 2023-12-13 | 1,126 | 32 |
 | 2023-12-14 | 1,151 | 32 |
 | 2023-12-15 | 1,166 | 32 |
-| 2023-12-16 | 1,177 | 32 |
+| 2023-12-16 | 1,178 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overpowered | 78.00% | ~119 |
-| Side Job | 75.00% | ~114 |
+| Overpowered | 79.00% | ~120 |
+| Side Job | 76.00% | ~116 |
 | Bloodlust | 53.00% | ~81 |
 | Gettin' It Done | 51.00% | ~78 |
 | Feast | 41.00% | ~62 |

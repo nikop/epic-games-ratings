@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 999,
+  "Ranking_Rating": 1000,
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 66,
@@ -8803,9 +8803,9 @@
       "Count": 3578
     }
   ],
-  "EOS_Progressed": 241054,
+  "EOS_Progressed": 241073,
   "EOS_Completed": 2535,
-  "EOS_NewPlayers": 1966,
+  "EOS_NewPlayers": 1977,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -35883,6 +35883,11 @@
       "Time": "2023-12-16T16:10:16.4816283+00:00",
       "NumProgressed": 241054,
       "NumCompleted": 2535
+    },
+    {
+      "Time": "2023-12-16T17:10:32.7523946+00:00",
+      "NumProgressed": 241073,
+      "NumCompleted": 2535
     }
   ],
   "TotalAchievements": 546,
@@ -40244,9 +40249,9 @@
       "ID": "objective_completed_860",
       "SetID": "415jc5c",
       "Name": "Don\u0027t Lose Your Head",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 415
     },
     {
       "ID": "objective_completed_865",
@@ -40261,21 +40266,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 207328,
+      "Progressed": 207347,
       "Completed": 4011
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 241054,
+      "Progressed": 241073,
       "Completed": 2535
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-16T15:58:37.0639951+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:10:16.4816278+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:10:32.7523942+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:58:37.0639958+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:10:16.483949+00:00"
+  "LastUpdate_Ratings": "2023-12-16T16:59:15.8837513+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:10:32.7546892+00:00"
 }

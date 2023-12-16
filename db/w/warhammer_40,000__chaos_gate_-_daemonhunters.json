@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 453,
+  "Ranking_Rating": 454,
   "Ranking_Popularity": 277,
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3421,
+  "EOS_Progressed": 3424,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4315,6 +4315,11 @@
       "Time": "2023-12-16T16:04:15.5615051+00:00",
       "NumProgressed": 3421,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T17:04:49.7193455+00:00",
+      "NumProgressed": 3424,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4518,7 +4523,7 @@
       "Name": "Executioner",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "Kills_Exterminator",
@@ -4558,7 +4563,7 @@
       "Name": "Purging Spree",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "Kills_Vakir",
@@ -4869,21 +4874,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3421,
+      "Progressed": 3424,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3421,
+      "Progressed": 3424,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:04:15.5615047+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:04:49.719345+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:10.0749768+00:00",
-  "LastUpdate_Ratings": "2023-12-16T16:03:12.8245325+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:04:15.5615897+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:03:23.5269708+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:04:49.7194223+00:00"
 }

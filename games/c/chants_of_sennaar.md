@@ -1,37 +1,38 @@
 # Chants of Sennaar
 [Store](https://store.epicgames.com/en-US/p/chants-of-sennaar)  
 [View Rawdata](../../db/c/chants_of_sennaar.json)  
+Rating: 4.85 (Ranked 46)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 41.00% | ~483 |
-| Welcome to the Tower | 38.00% | ~448 |
-| The great escape | 31.00% | ~365 |
-| The Preacher's fate | 30.00% | ~353 |
-| A new dawn | 25.00% | ~294 |
-| A good beginning | 22.00% | ~259 |
-| Scholar | 22.00% | ~259 |
-| True G3M4R | 21.00% | ~247 |
-| The darkness | 21.00% | ~247 |
-| Cable guy | 19.00% | ~224 |
-| Half the way | 19.00% | ~224 |
-| One last step | 19.00% | ~224 |
-| I did it | 18.00% | ~212 |
-| Peace walker | 18.00% | ~212 |
-| Champollion | 18.00% | ~212 |
-| In this together | 17.00% | ~200 |
-| Open door | 15.00% | ~177 |
-| Feels like springtime | 15.00% | ~177 |
-| Alchemists Express | 15.00% | ~177 |
-| Rascal | 15.00% | ~177 |
-| Free at last | 13.00% | ~153 |
-| A Link to the Past | 12.00% | ~141 |
+| That's the spirit | 41.00% | ~485 |
+| Welcome to the Tower | 38.00% | ~450 |
+| The great escape | 31.00% | ~367 |
+| The Preacher's fate | 30.00% | ~355 |
+| A new dawn | 25.00% | ~296 |
+| A good beginning | 22.00% | ~260 |
+| Scholar | 22.00% | ~260 |
+| True G3M4R | 21.00% | ~249 |
+| The darkness | 21.00% | ~249 |
+| Cable guy | 19.00% | ~225 |
+| Half the way | 19.00% | ~225 |
+| One last step | 19.00% | ~225 |
+| I did it | 18.00% | ~213 |
+| Peace walker | 18.00% | ~213 |
+| In this together | 17.00% | ~201 |
+| Champollion | 17.00% | ~201 |
+| Open door | 15.00% | ~178 |
+| Feels like springtime | 15.00% | ~178 |
+| Alchemists Express | 15.00% | ~178 |
+| Rascal | 15.00% | ~178 |
+| Free at last | 13.00% | ~154 |
+| A Link to the Past | 12.00% | ~142 |
 | A great audience | 10.00% | ~118 |
 | For its own good | 10.00% | ~118 |
 | Fashion victim | 5.00% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,178 (Ranked 262)  
-Completed: 60 (5.09%) (Ranked 72)  
+Progressed: 1,184 (Ranked 261)  
+Completed: 60 (5.07%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -177,4 +178,8 @@ Completed: 60 (5.09%) (Ranked 72)
 | 2023-12-13 | 981 | 56 |
 | 2023-12-14 | 1,054 | 56 |
 | 2023-12-15 | 1,124 | 56 |
-| 2023-12-16 | 1,178 | 60 |
+| 2023-12-16 | 1,184 | 60 |
+## Ratings History
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
+| 2023-12-16 | 4.85 | 0 | 0 |

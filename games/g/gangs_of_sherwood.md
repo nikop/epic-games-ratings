@@ -25,8 +25,8 @@
 | Savior | 23.00% | ~17 |
 | Merry Go Round | 23.00% | ~17 |
 | Take Action! | 20.00% | ~15 |
+| Hidden Experiment | 19.00% | ~14 |
 | Ascending Will | 17.00% | ~13 |
-| Hidden Experiment | 17.00% | ~13 |
 | Ultra Combo | 15.00% | ~11 |
 | Haute Couture | 13.00% | ~10 |
 | Into the Lion's Den | 12.00% | ~9 |

@@ -1,20 +1,20 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.81 (Ranked 85)  
+Rating: 4.81 (Ranked 86)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,656 |
-| No more cages! | 91.00% | ~2,544 |
-| Everfrost | 78.00% | ~2,181 |
-| Pentakill | 77.00% | ~2,153 |
-| Dark Forest | 77.00% | ~2,153 |
-| The use of petricite | 74.00% | ~2,069 |
+| For Demacia | 95.00% | ~2,657 |
+| No more cages! | 91.00% | ~2,545 |
+| Everfrost | 78.00% | ~2,182 |
+| Pentakill | 77.00% | ~2,154 |
+| Dark Forest | 77.00% | ~2,154 |
+| The use of petricite | 74.00% | ~2,070 |
 | You can pet the dog | 61.00% | ~1,706 |
-| Big Helmet Bro | 39.00% | ~1,090 |
-| Thornbarrow | 39.00% | ~1,090 |
-| Clarion Cove | 38.00% | ~1,062 |
+| Thornbarrow | 40.00% | ~1,119 |
+| Big Helmet Bro | 39.00% | ~1,091 |
+| Clarion Cove | 39.00% | ~1,091 |
 | Past trauma | 37.00% | ~1,035 |
 | Elemental master | 36.00% | ~1,007 |
 | Ternmoat Headquarters | 36.00% | ~1,007 |
@@ -23,7 +23,7 @@ Rating: 4.81 (Ranked 85)
 | Old friend | 31.00% | ~867 |
 | Hijack | 30.00% | ~839 |
 | Devineur | 30.00% | ~839 |
-| Whispers in the Woods I | 28.00% | ~783 |
+| Whispers in the Woods I | 27.00% | ~755 |
 | I chose my shackles | 26.00% | ~727 |
 | Ancient power | 26.00% | ~727 |
 | Sacred Woods | 24.00% | ~671 |
@@ -40,16 +40,16 @@ Rating: 4.81 (Ranked 85)
 | Friendly fire | 17.00% | ~475 |
 | True power | 17.00% | ~475 |
 | The Central Headquarters | 17.00% | ~475 |
-| My heart and sword always for Demacia | 16.00% | ~447 |
-| Meltridge | 16.00% | ~447 |
-| Cloven Dell Headquarters | 16.00% | ~447 |
-| Whispers in the Woods IV | 14.00% | ~391 |
-| I smell fear | 14.00% | ~391 |
-| Embrace the darkness | 13.00% | ~363 |
-| The end of the experiments | 13.00% | ~363 |
-| The Great City of Demacia | 13.00% | ~363 |
-| Truth is a dark mirror | 13.00% | ~363 |
-| Call it 'redistribution of magic | 13.00% | ~363 |
+| My heart and sword always for Demacia | 16.00% | ~448 |
+| Meltridge | 16.00% | ~448 |
+| Cloven Dell Headquarters | 16.00% | ~448 |
+| Whispers in the Woods IV | 14.00% | ~392 |
+| I smell fear | 14.00% | ~392 |
+| Embrace the darkness | 13.00% | ~364 |
+| The end of the experiments | 13.00% | ~364 |
+| The Great City of Demacia | 13.00% | ~364 |
+| Truth is a dark mirror | 13.00% | ~364 |
+| Call it 'redistribution of magic | 13.00% | ~364 |
 | Do you trust me? | 12.00% | ~336 |
 | Back to sleep, then... | 12.00% | ~336 |
 | Chains master | 11.00% | ~308 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 85)
 | Silverwing nest | 2.00% | ~56 |
 | The Unshackled | 1.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,796 (Ranked 218)  
+Progressed: 2,797 (Ranked 218)  
 Completed: 16 (0.57%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 16 (0.57%) (Ranked 199)
 | 2023-12-13 | 2,685 | 16 |
 | 2023-12-14 | 2,731 | 16 |
 | 2023-12-15 | 2,774 | 16 |
-| 2023-12-16 | 2,796 | 16 |
+| 2023-12-16 | 2,797 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

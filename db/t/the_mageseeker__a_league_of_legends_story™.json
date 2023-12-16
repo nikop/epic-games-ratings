@@ -2,13 +2,13 @@
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
-  "Ranking_Rating": 85,
+  "Ranking_Rating": 86,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2796,
+  "EOS_Progressed": 2797,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -4454,6 +4454,11 @@
       "Time": "2023-12-16T15:05:08.5712716+00:00",
       "NumProgressed": 2796,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-16T17:06:26.3757473+00:00",
+      "NumProgressed": 2797,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -4465,15 +4470,15 @@
       "Name": "Embrace the darkness",
       "Percentage": 13,
       "XP": 120,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
       "SetID": "3pe2bac",
       "Name": "Whispers in the Woods I",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 783
+      "UsersEstimate": 755
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -4481,7 +4486,7 @@
       "Name": "Whispers in the Woods IV",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -4529,7 +4534,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -4537,7 +4542,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -4545,7 +4550,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -4553,7 +4558,7 @@
       "Name": "I smell fear",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
@@ -4569,7 +4574,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -4641,7 +4646,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -4649,7 +4654,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -4657,7 +4662,7 @@
       "Name": "Meltridge",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -4665,7 +4670,7 @@
       "Name": "The end of the experiments",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -4681,23 +4686,23 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Thornbarrow",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1119
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Clarion Cove",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1091
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -4753,7 +4758,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -4761,7 +4766,7 @@
       "Name": "Truth is a dark mirror",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "STB_PET_DOG",
@@ -4833,7 +4838,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -4841,7 +4846,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2069
+      "UsersEstimate": 2070
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -4865,7 +4870,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -4888,7 +4893,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2796,
+      "Progressed": 2797,
       "Completed": 16
     }
   ],
@@ -4896,8 +4901,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-10T13:58:41.8193759+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:05:25.7149156+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:06:26.3757469+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:11.016025+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:57:55.7394741+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:05:25.714978+00:00"
+  "LastUpdate_Ratings": "2023-12-16T16:58:15.0449429+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:06:26.375809+00:00"
 }

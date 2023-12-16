@@ -1,16 +1,16 @@
 # Operation New Earth
 [Store](https://store.epicgames.com/en-US/p/operation-new-earth-1d27c4)  
 [View Rawdata](../../db/o/operation_new_earth.json)  
-Rating: 3.23 (Ranked 1,064)  
+Rating: 3.23 (Ranked 1,065)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's Good to have Allies | 27.00% | ~550 |
-| Defenses Online | 25.00% | ~509 |
-| Facility Online | 20.00% | ~407 |
+| Defenses Online | 25.00% | ~510 |
+| Facility Online | 20.00% | ~408 |
 | Corporal | 15.00% | ~306 |
-| Sergeant | 12.00% | ~244 |
-| Covert Operative | 12.00% | ~244 |
+| Sergeant | 12.00% | ~245 |
+| Covert Operative | 12.00% | ~245 |
 | Lieutenant | 10.00% | ~204 |
 | Getting Deployment | 10.00% | ~204 |
 | On Target | 10.00% | ~204 |
@@ -28,8 +28,8 @@ Rating: 3.23 (Ranked 1,064)
 | Know The Enemy | 5.00% | ~102 |
 | Player Betrayer | 5.00% | ~102 |
 | Major | 5.00% | ~102 |
-| Gold Achiever | 4.00% | ~81 |
-| Resourceful | 4.00% | ~81 |
+| Gold Achiever | 4.00% | ~82 |
+| Resourceful | 4.00% | ~82 |
 | Colonel | 3.00% | ~61 |
 | Control the Skies | 3.00% | ~61 |
 | Advanced Warfare | 2.00% | ~41 |
@@ -44,7 +44,7 @@ Rating: 3.23 (Ranked 1,064)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,037 (Ranked 230)  
+Progressed: 2,038 (Ranked 230)  
 Completed: 1 (0.05%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 1 (0.05%) (Ranked 326)
 | 2023-12-13 | 2,021 | 1 |
 | 2023-12-14 | 2,026 | 1 |
 | 2023-12-15 | 2,031 | 1 |
-| 2023-12-16 | 2,037 | 1 |
+| 2023-12-16 | 2,038 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

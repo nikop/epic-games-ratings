@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 678,
+  "EOS_Progressed": 679,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.1,
+  "EOS_Completed_Percentage": 3.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -1190,6 +1190,11 @@
       "Time": "2023-12-16T07:09:33.4682677+00:00",
       "NumProgressed": 678,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-16T17:09:38.5555236+00:00",
+      "NumProgressed": 679,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1201,7 +1206,7 @@
       "Name": "Beat It",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "blast_from_the_past",
@@ -1233,7 +1238,7 @@
       "Name": "Second Chances",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ending_3",
@@ -1263,9 +1268,9 @@
       "ID": "ending_6",
       "SetID": "d4f4pll",
       "Name": "Stalemate",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 142
+      "UsersEstimate": 136
     },
     {
       "ID": "ending_7",
@@ -1305,7 +1310,7 @@
       "Name": "Kamikaze",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "kindar_surprise",
@@ -1345,7 +1350,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "tough_decision",
@@ -1360,7 +1365,7 @@
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 678,
+      "Progressed": 679,
       "Completed": 21
     }
   ],
@@ -1368,8 +1373,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:09:35.3342718+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:09:38.5555232+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:55.1182233+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:57:50.5636581+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:09:35.3342908+00:00"
+  "LastUpdate_Ratings": "2023-12-16T16:58:07.1985255+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:09:38.5555439+00:00"
 }

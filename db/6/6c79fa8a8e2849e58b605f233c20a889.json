@@ -4,8 +4,8 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3041,
+  "EOS_Progressed": 3042,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8084,6 +8084,11 @@
       "Time": "2023-12-16T14:09:47.8784486+00:00",
       "NumProgressed": 3041,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T17:10:06.4837842+00:00",
+      "NumProgressed": 3042,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -8127,7 +8132,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -8175,7 +8180,7 @@
       "Name": "Novice",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "GLOVE_SLAP",
@@ -8270,14 +8275,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 3041,
+      "Progressed": 3042,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:09:55.8279047+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:10:06.4837839+00:00",
   "LastUpdate_AppInfo": "2023-12-13T08:56:57.6507347+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:59:43.8610027+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:09:55.8279759+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:00:56.2048486+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:10:06.4838316+00:00"
 }

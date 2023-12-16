@@ -10,10 +10,10 @@
 | Baited | 68.00% | ~73 |
 | "Swoosh" | 59.00% | ~64 |
 | The light at the end of the tunnel | 58.00% | ~63 |
-| Masochistic | 52.00% | ~56 |
+| Masochistic | 53.00% | ~57 |
 | Splash! | 52.00% | ~56 |
 | Soft skin | 50.00% | ~54 |
-| Squid game | 43.00% | ~46 |
+| Squid game | 44.00% | ~48 |
 | Rock Solid | 34.00% | ~37 |
 | The beast within | 33.00% | ~36 |
 | It's getting dark | 33.00% | ~36 |
@@ -22,10 +22,10 @@
 | Rooftop | 30.00% | ~32 |
 | Homeless | 28.00% | ~30 |
 | Big badaboom! | 28.00% | ~30 |
+| Magnitude 5 | 24.00% | ~26 |
 | Bookworm | 24.00% | ~26 |
 | Payback | 24.00% | ~26 |
 | Nokron tower | 23.00% | ~25 |
-| Magnitude 5 | 23.00% | ~25 |
 | Full power | 22.00% | ~24 |
 | "Ah sh*t... Here we go again!" | 22.00% | ~24 |
 | Compulsive hoarder | 21.00% | ~23 |

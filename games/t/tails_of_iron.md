@@ -1,30 +1,30 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.55 (Ranked 513)  
+Rating: 4.55 (Ranked 514)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 82.00% | ~1,843 |
+| Complete Guard Faction | 82.00% | ~1,844 |
 | Become King | 74.00% | ~1,664 |
-| Defeat 25 Frogs | 63.00% | ~1,416 |
+| Defeat 25 Frogs | 63.00% | ~1,417 |
 | Ranged Weapon | 62.00% | ~1,394 |
 | Collect Monster Parts | 58.00% | ~1,304 |
-| Two Handed Weapon | 57.00% | ~1,281 |
-| Defeat 25 Grubs | 53.00% | ~1,191 |
-| Rescue Redgi's Brothers | 53.00% | ~1,191 |
-| Collect Iron Ore | 48.00% | ~1,079 |
-| Kitchen Ready To Cook | 48.00% | ~1,079 |
+| Two Handed Weapon | 57.00% | ~1,282 |
+| Defeat 25 Grubs | 53.00% | ~1,192 |
+| Rescue Redgi's Brothers | 53.00% | ~1,192 |
+| Collect Iron Ore | 48.00% | ~1,080 |
+| Kitchen Ready To Cook | 48.00% | ~1,080 |
 | Defeat 25 Mozis | 47.00% | ~1,057 |
-| Collect Gold | 46.00% | ~1,034 |
-| Smithy Ready to Craft | 46.00% | ~1,034 |
+| Collect Gold | 46.00% | ~1,035 |
+| Smithy Ready to Craft | 46.00% | ~1,035 |
 | Fix the Travellers Wagon | 45.00% | ~1,012 |
-| Complete Elder Faction | 42.00% | ~944 |
+| Complete Elder Faction | 41.00% | ~922 |
 | Throne Room Fit For A King | 39.00% | ~877 |
-| End of the Mozis | 38.00% | ~854 |
-| Meet the Creatures from the Deep | 36.00% | ~809 |
-| Return Power To The Depths | 36.00% | ~809 |
-| Defeat Ratnor Rodentson | 30.00% | ~674 |
+| End of the Mozis | 38.00% | ~855 |
+| Meet the Creatures from the Deep | 36.00% | ~810 |
+| Return Power To The Depths | 36.00% | ~810 |
+| Defeat Ratnor Rodentson | 30.00% | ~675 |
 | Return the Statues | 27.00% | ~607 |
 | Defeat Rattus Augustail | 27.00% | ~607 |
 | Complete the Chefs Book | 25.00% | ~562 |
@@ -36,7 +36,7 @@ Rating: 4.55 (Ranked 513)
 | King of Kings | 8.00% | ~180 |
 | A new Warchief rises | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,248 (Ranked 228)  
+Progressed: 2,249 (Ranked 228)  
 Completed: 12 (0.53%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 12 (0.53%) (Ranked 204)
 | 2023-12-13 | 2,238 | 12 |
 | 2023-12-14 | 2,243 | 12 |
 | 2023-12-15 | 2,245 | 12 |
-| 2023-12-16 | 2,248 | 12 |
+| 2023-12-16 | 2,249 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

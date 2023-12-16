@@ -1,11 +1,11 @@
 # Torchlight II
 [Store](https://store.epicgames.com/en-US/p/torchlight-2)  
 [View Rawdata](../../db/t/torchlight_ii.json)  
-Rating: 4.59 (Ranked 441)  
+Rating: 4.59 (Ranked 442)  
 Number of Ratings: 2,280  (23.09.2022)  
 ## Awards
 Max (Character Customization): 1,060  (Ranked 149)  
-Sum: 2,107 (Ranked 214)  
+Sum: 2,108 (Ranked 214)  
 Diff (max vs sum): -65  
 | Award | Count |
 | ----- | ----- |
@@ -19,7 +19,7 @@ Diff (max vs sum): -65
 | This game is Relaxing | 58 |
 | This game is Extremely Fun | 57 |
 | This game has Amazing Storytelling | 57 |
-| This game has a Creative Community | 28 |
+| This game has a Creative Community | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -243,4 +243,4 @@ Diff (max vs sum): -65
 | 2023-12-11 | 4.59 | - | 1,058 | 2,104 |
 | 2023-12-13 | 4.59 | - | 1,059 | 2,105 |
 | 2023-12-15 | 4.59 | - | 1,059 | 2,106 |
-| 2023-12-16 | 4.59 | - | 1,060 | 2,107 |
+| 2023-12-16 | 4.59 | - | 1,060 | 2,108 |

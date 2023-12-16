@@ -1,13 +1,13 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 261)  
+Rating: 4.68 (Ranked 262)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 7.00% | ~182 |
-| Lost and Found | 4.00% | ~104 |
+| Malpractice Assurance | 7.00% | ~183 |
+| Lost and Found | 4.00% | ~105 |
 | This Belongs in a Museum | 3.00% | ~3,832 |
 | Autodidact | 3.00% | ~3,832 |
 | This guy... again? | 3.00% | ~78 |
@@ -35,6 +35,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 1.00% | ~1,277 |
 | A Place to Lay Your Head | 1.00% | ~1,277 |
 | FNG | 1.00% | ~1,277 |
+| Worldly Traveller | 1.00% | ~1,277 |
 | Nope | 1.00% | ~1,277 |
 | Road Trip | 1.00% | ~1,277 |
 | Unleash Hell | 0.90% | ~1,150 |
@@ -42,7 +43,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Now Stay Dead | 0.90% | ~1,150 |
 | Reverse Banditry | 0.90% | ~1,150 |
 | Ramble On | 0.90% | ~1,150 |
-| Worldly Traveller | 0.90% | ~1,150 |
 | Unshackled | 0.90% | ~1,150 |
 | Resurrection | 0.80% | ~1,022 |
 | Funny Guy | 0.80% | ~1,022 |
@@ -61,11 +61,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hot Air | 0.50% | ~639 |
 | Eyes Up | 0.50% | ~639 |
 | For Old Time' Sake | 0.50% | ~13 |
+| Shrine of Reflection | 0.40% | ~511 |
 | Handled | 0.40% | ~511 |
 | Body of Work | 0.40% | ~511 |
 | Et Tu, Riposte? | 0.40% | ~10 |
 | Clearing the Ledger | 0.30% | ~383 |
-| Shrine of Reflection | 0.30% | ~383 |
 | Maître De La Lame | 0.30% | ~8 |
 | A Life Well Lived | 0.20% | ~255 |
 | The World As It Was | 0.20% | ~255 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 | On This Long Road, We Found Redemption | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,734 (Ranked 84)  
+Progressed: 127,745 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,15 +316,15 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
-| 2023-12-16 | 127,734 | 3 |
+| 2023-12-16 | 127,745 | 3 |
 ## Awards
 Max (Character Customization): 7,744  (Ranked 51)  
-Sum: 20,571 (Ranked 58)  
+Sum: 20,587 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,744 |
-| This game has Diverse Characters | 1,695 |
+| This game has Diverse Characters | 1,711 |
 | This game has Challenging Combat | 1,592 |
 | This game is Highly Recommended | 1,525 |
 | This game has Amazing Characters | 1,461 |
@@ -660,4 +660,4 @@ Diff (max vs sum): -7
 | 2023-12-13 | 4.68 | - | 7,665 | 20,333 |
 | 2023-12-14 | 4.68 | - | 7,689 | 20,427 |
 | 2023-12-15 | 4.68 | - | 7,718 | 20,517 |
-| 2023-12-16 | 4.68 | - | 7,744 | 20,571 |
+| 2023-12-16 | 4.68 | - | 7,744 | 20,587 |

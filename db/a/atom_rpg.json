@@ -2,13 +2,13 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
-  "Ranking_Rating": 644,
+  "Ranking_Rating": 645,
   "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1389,
+  "EOS_Progressed": 1391,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3318,6 +3318,11 @@
       "Time": "2023-12-16T16:10:02.9956711+00:00",
       "NumProgressed": 1389,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T17:10:16.2540289+00:00",
+      "NumProgressed": 1391,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3377,7 +3382,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -3385,7 +3390,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1377
     },
     {
       "ID": "EXPERT_1",
@@ -3481,7 +3486,7 @@
       "Name": "One HIT wonder",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3505,7 +3510,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "PRIVATE_EYE",
@@ -3521,7 +3526,7 @@
       "Name": "Protection racket",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "RELICTS",
@@ -3561,7 +3566,7 @@
       "Name": "Secret room",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "SHOG",
@@ -3585,7 +3590,7 @@
       "Name": "Traveler",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "VVE",
@@ -3601,7 +3606,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "WISHMASTER_1",
@@ -3616,15 +3621,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1389,
+      "Progressed": 1391,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:10:02.99567+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:10:16.2540287+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.8327471+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:59:32.3934376+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:10:02.9957242+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:00:38.0795197+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:10:16.2540611+00:00"
 }

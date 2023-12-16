@@ -1,46 +1,46 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.12 (Ranked 975)  
+Rating: 4.12 (Ranked 976)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~720 |
-| Battlefields Have Memories | 80.00% | ~654 |
-| Enlisted | 72.00% | ~589 |
-| Maybe Engage a Little | 66.00% | ~540 |
-| No More Names | 46.00% | ~376 |
-| Initiate | 31.00% | ~254 |
-| Thrada-Kul | 28.00% | ~229 |
-| Gravity-Challenged Rocks | 22.00% | ~180 |
-| Socialite | 20.00% | ~164 |
-| Soldier | 18.00% | ~147 |
-| All the Major Food Groups | 18.00% | ~147 |
-| Beggars Would Ride | 16.00% | ~131 |
-| Control is an Illusion | 14.00% | ~115 |
-| The Means to Save It | 13.00% | ~106 |
-| Resilience to Sin | 11.00% | ~90 |
-| A Familiar Nest | 11.00% | ~90 |
-| Periapt Alizarin | 11.00% | ~90 |
-| Geas Aristeya | 10.00% | ~82 |
-| A Perfect Cycle | 9.00% | ~74 |
-| Recruit | 9.00% | ~74 |
-| Armsman | 8.00% | ~65 |
-| Lights Army | 6.00% | ~49 |
-| Periapt Cerulean | 6.00% | ~49 |
-| Good Boy | 6.00% | ~49 |
+| Unforeseen | 87.00% | ~725 |
+| Battlefields Have Memories | 79.00% | ~658 |
+| Enlisted | 72.00% | ~600 |
+| Maybe Engage a Little | 65.00% | ~541 |
+| No More Names | 46.00% | ~383 |
+| Initiate | 31.00% | ~258 |
+| Thrada-Kul | 28.00% | ~233 |
+| Gravity-Challenged Rocks | 22.00% | ~183 |
+| Socialite | 20.00% | ~167 |
+| Soldier | 18.00% | ~150 |
+| All the Major Food Groups | 18.00% | ~150 |
+| Beggars Would Ride | 16.00% | ~133 |
+| Control is an Illusion | 14.00% | ~117 |
+| The Means to Save It | 12.00% | ~100 |
+| Resilience to Sin | 11.00% | ~92 |
+| A Familiar Nest | 11.00% | ~92 |
+| Geas Aristeya | 10.00% | ~83 |
+| Periapt Alizarin | 10.00% | ~83 |
+| A Perfect Cycle | 9.00% | ~75 |
+| Recruit | 9.00% | ~75 |
+| Armsman | 8.00% | ~67 |
+| Lights Army | 6.00% | ~50 |
+| Periapt Cerulean | 6.00% | ~50 |
+| Good Boy | 5.00% | ~42 |
 | Best Dressed | 4.00% | ~33 |
 | Armaments Azure | 4.00% | ~33 |
 | Periapt Viridian | 4.00% | ~33 |
 | Shroudfane Explorer | 4.00% | ~33 |
 | Kitted Out | 3.00% | ~25 |
 | Armaments Gules | 3.00% | ~25 |
-| Scholar | 2.00% | ~16 |
-| Armaments Vert | 2.00% | ~16 |
-| Veteran | 2.00% | ~16 |
+| Scholar | 2.00% | ~17 |
+| Armaments Vert | 2.00% | ~17 |
+| Veteran | 2.00% | ~17 |
 | Shroudfane Surveyor | 1.00% | ~8 |
-| Master of Carmine | 0.90% | ~7 |
-| Tip of the Spear | 0.90% | ~7 |
+| Master of Carmine | 0.80% | ~7 |
+| Tip of the Spear | 0.80% | ~7 |
 | Master of Ultramarine | 0.70% | ~6 |
 | Backtracker | 0.70% | ~6 |
 | Master of Malachite | 0.60% | ~5 |
@@ -53,8 +53,8 @@ Rating: 4.12 (Ranked 975)
 | Out of Time | 0.20% | ~2 |
 | Fowl Play | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 818 (Ranked 282)  
-Completed: 2 (0.24%) (Ranked 253)  
+Progressed: 833 (Ranked 282)  
+Completed: 2 (0.24%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -132,7 +132,7 @@ Completed: 2 (0.24%) (Ranked 253)
 | 2023-12-13 | 357 | 2 |
 | 2023-12-14 | 532 | 2 |
 | 2023-12-15 | 689 | 2 |
-| 2023-12-16 | 818 | 2 |
+| 2023-12-16 | 833 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

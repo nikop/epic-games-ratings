@@ -2,13 +2,13 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 214,
+  "Ranking_Rating": 215,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 178,
-  "Ranking_EOS_Completed": 218,
+  "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -251,7 +251,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8046,
+  "EOS_Progressed": 8048,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
@@ -9241,6 +9241,11 @@
       "Time": "2023-12-16T16:03:46.3803915+00:00",
       "NumProgressed": 8046,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-16T17:04:14.0848898+00:00",
+      "NumProgressed": 8048,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9404,7 +9409,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "THING",
@@ -9419,7 +9424,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8046,
+      "Progressed": 8048,
       "Completed": 34
     }
   ],
@@ -9427,8 +9432,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:03:46.3803908+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:04:14.0848892+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:30.6418185+00:00",
-  "LastUpdate_Ratings": "2023-12-16T16:03:00.0626806+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:03:46.3804514+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:03:05.3362307+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:04:14.0849548+00:00"
 }

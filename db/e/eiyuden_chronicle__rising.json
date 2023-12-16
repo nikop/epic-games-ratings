@@ -2,13 +2,13 @@
   "ID": "a4824407d9ec4f6a8c13919e732f9400",
   "Name": "Eiyuden Chronicle: Rising",
   "ProductSlug": "eiyuden-chronicle-rising",
-  "Ranking_Rating": 600,
+  "Ranking_Rating": 601,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 48,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -563,9 +563,9 @@
       "ID": "ACHIEVEMENT002",
       "SetID": "dejhjd5",
       "Name": "Partners?",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 452
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -963,8 +963,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:03:57.1109863+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:04:24.8105841+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:23.9280041+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:59:23.0440533+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:03:57.1110301+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:00:24.1465875+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:04:24.8106174+00:00"
 }

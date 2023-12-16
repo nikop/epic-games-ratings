@@ -2,13 +2,13 @@
   "ID": "d84e1be6c7764408b3d0f610c84cb8ea",
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
-  "Ranking_Rating": 1007,
+  "Ranking_Rating": 1008,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 301,
+  "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 645,
+  "EOS_Progressed": 647,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2888,6 +2888,11 @@
       "Time": "2023-12-16T16:04:11.2619582+00:00",
       "NumProgressed": 645,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T17:04:43.9034114+00:00",
+      "NumProgressed": 647,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2963,7 +2968,7 @@
       "Name": "Earth Shattering",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -2971,7 +2976,7 @@
       "Name": "La Der des Ders",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -2979,7 +2984,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -2994,7 +2999,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 645,
+      "Progressed": 647,
       "Completed": 0
     }
   ],
@@ -3002,8 +3007,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:04:11.2619578+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:04:43.9034111+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:05.7146339+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:58:57.6861179+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:04:11.2619938+00:00"
+  "LastUpdate_Ratings": "2023-12-16T16:59:45.3951318+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:04:43.9034335+00:00"
 }

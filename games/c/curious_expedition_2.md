@@ -1,7 +1,7 @@
 # Curious Expedition 2
 [Store](https://store.epicgames.com/en-US/p/curious-expedition-2-8cb901)  
 [View Rawdata](../../db/c/curious_expedition_2.json)  
-Rating: 4.73 (Ranked 174)  
+Rating: 4.73 (Ranked 175)  
 Number of Ratings: 20  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,7 +22,7 @@ Number of Ratings: 20  (23.09.2022)
 | Taxonomist | 27.00% | ~96 |
 | Traveller | 25.00% | ~88 |
 | Uncertain Loyalties | 25.00% | ~88 |
-| Nahua Seeker | 23.00% | ~81 |
+| Nahua Seeker | 24.00% | ~85 |
 | Roll to Save | 22.00% | ~78 |
 | Veteran Explorer | 21.00% | ~74 |
 | Red Flag Pirate | 19.00% | ~67 |
@@ -68,7 +68,7 @@ Number of Ratings: 20  (23.09.2022)
 | Now I've Seen It All | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 354 (Ranked 348)  
-Completed: 1 (0.28%) (Ranked 244)  
+Completed: 1 (0.28%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

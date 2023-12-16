@@ -2,13 +2,13 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_Rating": 85,
+  "Ranking_Rating": 86,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 263,
+  "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -149,7 +149,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1177,
+  "EOS_Progressed": 1178,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
@@ -3949,6 +3949,11 @@
       "Time": "2023-12-16T15:05:35.5170891+00:00",
       "NumProgressed": 1177,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-16T17:07:04.7541257+00:00",
+      "NumProgressed": 1178,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3985,7 +3990,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "_05_FinishAct2",
@@ -4017,7 +4022,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "_09_Completion_20",
@@ -4033,7 +4038,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "_11_Completion_40",
@@ -4081,7 +4086,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4089,7 +4094,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4113,7 +4118,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -4153,7 +4158,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -4168,7 +4173,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1177,
+      "Progressed": 1178,
       "Completed": 32
     }
   ],
@@ -4176,8 +4181,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:05:53.0372861+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:07:04.7541252+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:28.392267+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:59:27.735791+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:05:53.0373335+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:00:31.0697342+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:07:04.7541604+00:00"
 }

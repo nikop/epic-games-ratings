@@ -2,13 +2,13 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_Rating": 1064,
+  "Ranking_Rating": 1065,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2037,
+  "EOS_Progressed": 2038,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7769,6 +7769,11 @@
       "Time": "2023-12-16T16:05:20.1365317+00:00",
       "NumProgressed": 2037,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T17:06:18.7546221+00:00",
+      "NumProgressed": 2038,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7812,7 +7817,7 @@
       "Name": "Gold Achiever",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -7884,7 +7889,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -7900,7 +7905,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -7964,7 +7969,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -7996,7 +8001,7 @@
       "Name": "Resourceful",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "objective_key_objectives_completed_2",
@@ -8036,7 +8041,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -8083,7 +8088,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2037,
+      "Progressed": 2038,
       "Completed": 1
     }
   ],
@@ -8091,8 +8096,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:05:20.1365312+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:06:18.7546218+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.3449014+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:57:15.729542+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:05:20.1366109+00:00"
+  "LastUpdate_Ratings": "2023-12-16T16:57:16.5360501+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:06:18.7546859+00:00"
 }

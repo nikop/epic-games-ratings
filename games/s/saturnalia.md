@@ -1,7 +1,7 @@
 # Saturnalia
 [Store](https://store.epicgames.com/en-US/p/saturnalia)  
 [View Rawdata](../../db/s/saturnalia.json)  
-Rating: 4.26 (Ranked 879)  
+Rating: 4.26 (Ranked 880)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,8 +17,8 @@ Rating: 4.26 (Ranked 879)
 | Depression | 1.00% | ~694 |
 | Bless me Father... | 0.90% | ~624 |
 | Phone Bill | 0.80% | ~555 |
-| Power of Friendship | 0.70% | ~485 |
-| Chain Breaker | 0.70% | ~485 |
+| Power of Friendship | 0.70% | ~486 |
+| Chain Breaker | 0.70% | ~486 |
 | Let there be light | 0.50% | ~347 |
 | Silent Advisor | 0.50% | ~347 |
 | Soda addiction | 0.40% | ~277 |
@@ -26,7 +26,7 @@ Rating: 4.26 (Ranked 879)
 | Are you still there? | 0.40% | ~277 |
 | Ear Ringing | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,357 (Ranked 105)  
+Progressed: 69,361 (Ranked 105)  
 Completed: 18 (0.03%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 18 (0.03%) (Ranked 338)
 | 2023-12-13 | 69,259 | 18 |
 | 2023-12-14 | 69,291 | 18 |
 | 2023-12-15 | 69,325 | 18 |
-| 2023-12-16 | 69,357 | 18 |
+| 2023-12-16 | 69,361 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

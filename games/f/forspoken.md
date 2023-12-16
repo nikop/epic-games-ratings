@@ -1,40 +1,40 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.15 (Ranked 962)  
+Rating: 4.15 (Ranked 963)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,406 |
-| Unlocked Potential | 9.00% | ~3,966 |
-| Tinkerer | 7.00% | ~3,085 |
-| Leapfrogger | 6.00% | ~2,644 |
-| Knock 'Em Dead | 6.00% | ~2,644 |
-| Pilgrimage: Initiate | 6.00% | ~2,644 |
-| Hell of a Run | 6.00% | ~2,644 |
-| Call of the Fount: Baptized | 6.00% | ~2,644 |
-| No Mercy | 5.00% | ~2,203 |
-| Explorer: Seeker | 5.00% | ~2,203 |
+| Attachments | 10.00% | ~4,408 |
+| Unlocked Potential | 9.00% | ~3,967 |
+| Tinkerer | 7.00% | ~3,086 |
+| Leapfrogger | 6.00% | ~2,645 |
+| Knock 'Em Dead | 6.00% | ~2,645 |
+| Pilgrimage: Initiate | 6.00% | ~2,645 |
+| Hell of a Run | 6.00% | ~2,645 |
+| Call of the Fount: Baptized | 6.00% | ~2,645 |
+| No Mercy | 5.00% | ~2,204 |
+| Explorer: Seeker | 5.00% | ~2,204 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,763 |
 | Stuck | 4.00% | ~1,763 |
 | Help Me Out Here | 4.00% | ~1,763 |
 | The Interloper | 3.00% | ~1,322 |
 | Hop, Step, Jump | 3.00% | ~1,322 |
 | Endless Runner | 3.00% | ~1,322 |
-| Outdoorsperson | 2.00% | ~881 |
-| What Must Be Done | 2.00% | ~881 |
-| Might and Main | 2.00% | ~881 |
-| Damned If You Do... | 2.00% | ~881 |
-| Explorer: Pathfinder | 2.00% | ~881 |
-| Shocker | 2.00% | ~881 |
-| From Every Angle | 2.00% | ~881 |
+| Outdoorsperson | 2.00% | ~882 |
+| What Must Be Done | 2.00% | ~882 |
+| Might and Main | 2.00% | ~882 |
+| Damned If You Do... | 2.00% | ~882 |
+| Explorer: Pathfinder | 2.00% | ~882 |
+| Shocker | 2.00% | ~882 |
+| From Every Angle | 2.00% | ~882 |
 | The Hue of Blue | 1.00% | ~441 |
 | The Truth Will Out | 1.00% | ~441 |
 | Breaking Point | 1.00% | ~441 |
 | None the Wiser | 1.00% | ~441 |
 | Forspoken | 1.00% | ~441 |
 | Pilgrimage: Novice | 1.00% | ~441 |
-| Wildfire | 0.70% | ~308 |
+| Wildfire | 0.70% | ~309 |
 | Awakening | 0.60% | ~264 |
 | Explorer: Trailblazer | 0.60% | ~264 |
 | Realized Potential | 0.60% | ~264 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 962)
 | Remembrance | 0.10% | ~44 |
 | Cat Person | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,065 (Ranked 120)  
+Progressed: 44,080 (Ranked 120)  
 Completed: 3 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 3 (0.01%) (Ranked 353)
 | 2023-12-13 | 43,625 | 3 |
 | 2023-12-14 | 43,783 | 3 |
 | 2023-12-15 | 43,925 | 3 |
-| 2023-12-16 | 44,065 | 3 |
+| 2023-12-16 | 44,080 | 3 |
 ## Awards
 Max (Character Customization): 30  (Ranked 503)  
 Sum: 30 (Ranked 521)  

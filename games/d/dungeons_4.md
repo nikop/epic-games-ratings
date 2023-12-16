@@ -17,8 +17,8 @@
 | Master of Magic | 63.00% | ~362 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~356 |
 | Magic Accidents | 59.00% | ~339 |
-| The Ascent | 57.00% | ~327 |
-| It's Warm and Cozy at Home | 57.00% | ~327 |
+| The Ascent | 58.00% | ~333 |
+| It's Warm and Cozy at Home | 58.00% | ~333 |
 | Trap Master | 55.00% | ~316 |
 | Minions, Minions! | 54.00% | ~310 |
 | The Big Eaty | 53.00% | ~304 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 9.00% | ~52 |
 | I Don't Need Any Help | 8.00% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 574 (Ranked 313)  
+Progressed: 574 (Ranked 314)  
 Completed: 17 (2.96%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |

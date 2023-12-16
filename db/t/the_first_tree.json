@@ -2,11 +2,11 @@
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
-  "Ranking_Rating": 1012,
+  "Ranking_Rating": 1013,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 126,
-  "Ranking_EOS_Completed": 238,
+  "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39066,
+  "EOS_Progressed": 39070,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -21151,6 +21151,11 @@
       "Time": "2023-12-16T16:05:48.379423+00:00",
       "NumProgressed": 39066,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-12-16T17:06:58.5911681+00:00",
+      "NumProgressed": 39070,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -21162,7 +21167,7 @@
       "Name": "100 Stars",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1954
     },
     {
       "ID": "150stars",
@@ -21178,7 +21183,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10157
+      "UsersEstimate": 10158
     },
     {
       "ID": "allItems",
@@ -21242,7 +21247,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9376
+      "UsersEstimate": 9377
     },
     {
       "ID": "firstItem",
@@ -21250,7 +21255,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 30081
+      "UsersEstimate": 30084
     },
     {
       "ID": "roots",
@@ -21258,7 +21263,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6641
+      "UsersEstimate": 6642
     },
     {
       "ID": "secretItem",
@@ -21273,15 +21278,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 39066,
+      "Progressed": 39070,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-09T15:00:19.5920578+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:05:48.3794226+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:06:58.5911678+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:18.6627904+00:00",
-  "LastUpdate_Ratings": "2023-12-16T16:00:13.9971546+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:05:48.3795216+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:01:40.4528184+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:06:58.5912732+00:00"
 }

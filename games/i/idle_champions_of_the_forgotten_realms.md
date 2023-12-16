@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 999)  
+Rating: 4.06 (Ranked 1,000)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,6 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | When Tentacles Attack | 0.20% | ~415 |
 | Flames of Avernus | 0.20% | ~415 |
 | Mental Gymnastics | 0.20% | ~415 |
+| Don't Lose Your Head | 0.20% | ~415 |
 | Maddening | 0.10% | ~241 |
 | Pros and CONs | 0.10% | ~241 |
 | Upholding the Law | 0.10% | ~241 |
@@ -550,10 +551,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Brains of an Illithid's Desire | 0.10% | ~207 |
 | Arcane Suppression | 0.10% | ~207 |
 | Welcome to the Vrocks | 0.10% | ~207 |
-| Don't Lose Your Head | 0.10% | ~207 |
 | Mind Spike | 0.10% | ~207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,054 (Ranked 66)  
+Progressed: 241,073 (Ranked 66)  
 Completed: 2,535 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -793,7 +793,7 @@ Completed: 2,535 (1.05%) (Ranked 167)
 | 2023-12-13 | 239,847 | 2,519 |
 | 2023-12-14 | 240,414 | 2,526 |
 | 2023-12-15 | 240,802 | 2,532 |
-| 2023-12-16 | 241,054 | 2,535 |
+| 2023-12-16 | 241,073 | 2,535 |
 ## Awards
 Max (Great for Beginners): 5,645  (Ranked 70)  
 Sum: 32,916 (Ranked 41)  

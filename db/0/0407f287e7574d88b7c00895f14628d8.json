@@ -4,8 +4,8 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -408,9 +408,9 @@
       "ID": "jk2",
       "SetID": "b1ggf28",
       "Name": "Saving Lives",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "jk3",
@@ -639,8 +639,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:04:38.7437406+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:05:20.367963+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-16T16:02:58.0243899+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:04:38.7437891+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:03:02.2638865+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:05:20.3679965+00:00"
 }

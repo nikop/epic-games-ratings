@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 316)  
+Rating: 4.65 (Ranked 317)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -199,6 +199,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Get the Hellas Out | 0.20% | ~32 |
 | The Turning Point | 0.20% | ~32 |
 | Learn By Playing 1 - Able | 0.20% | ~32 |
+| Learn By Playing 2 - Just | 0.20% | ~32 |
 | Macedonian Wars | 0.20% | ~32 |
 | Realistic Mortality | 0.20% | ~32 |
 | Play a Hotseat Game | 0.20% | ~32 |
@@ -284,7 +285,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rule of Pharaohs | 0.10% | ~16 |
 | The Eastern Empire | 0.10% | ~16 |
 | Knowledge of the Ancients | 0.10% | ~16 |
-| Learn By Playing 2 - Just | 0.10% | ~16 |
 | Learn By Playing 3 - Good | 0.10% | ~16 |
 | Learn By Playing 4 - Strong | 0.10% | ~16 |
 | Pyramids in Menefer | 0.10% | ~16 |

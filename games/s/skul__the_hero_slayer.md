@@ -1,37 +1,37 @@
 # Skul: The Hero Slayer
 [Store](https://store.epicgames.com/en-US/p/skul-the-hero-slayer)  
 [View Rawdata](../../db/s/skul__the_hero_slayer.json)  
-Rating: 4.73 (Ranked 174)  
+Rating: 4.73 (Ranked 175)  
 Number of Ratings: 546  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~9,324 |
-| What should I buy? | 81.00% | ~8,121 |
-| Focus! | 60.00% | ~6,016 |
-| Rescued Elder Ent | 60.00% | ~6,016 |
-| The End of the Gold Mane Knights | 45.00% | ~4,512 |
-| Rules of Etiquette | 38.00% | ~3,810 |
-| False Goddess, Disappear | 37.00% | ~3,710 |
-| Quick Movements | 31.00% | ~3,108 |
-| Inventory Management | 31.00% | ~3,108 |
-| The Fall of the Leonia Order | 28.00% | ~2,807 |
-| The Final Battle of the First Hero | 25.00% | ~2,506 |
-| Go Home... | 25.00% | ~2,506 |
-| The Hero Killer | 25.00% | ~2,506 |
-| Brain at Full Throttle | 21.00% | ~2,105 |
-| Rookies Welcome | 18.00% | ~1,805 |
-| Deadly Power | 15.00% | ~1,504 |
-| Castle Restoration Plans | 13.00% | ~1,303 |
-| The Dwarven Chandelier | 11.00% | ~1,103 |
-| Master of Speed | 9.00% | ~902 |
-| The Levitator | 7.00% | ~702 |
-| The God of Battle | 3.00% | ~301 |
+| The Legend Begins | 93.00% | ~9,350 |
+| What should I buy? | 81.00% | ~8,144 |
+| Focus! | 60.00% | ~6,032 |
+| Rescued Elder Ent | 60.00% | ~6,032 |
+| The End of the Gold Mane Knights | 45.00% | ~4,524 |
+| Rules of Etiquette | 38.00% | ~3,821 |
+| False Goddess, Disappear | 37.00% | ~3,720 |
+| Quick Movements | 31.00% | ~3,117 |
+| Inventory Management | 31.00% | ~3,117 |
+| The Fall of the Leonia Order | 28.00% | ~2,815 |
+| The Final Battle of the First Hero | 25.00% | ~2,514 |
+| Go Home... | 25.00% | ~2,514 |
+| The Hero Killer | 25.00% | ~2,514 |
+| Brain at Full Throttle | 21.00% | ~2,111 |
+| Rookies Welcome | 18.00% | ~1,810 |
+| Deadly Power | 15.00% | ~1,508 |
+| Castle Restoration Plans | 13.00% | ~1,307 |
+| The Dwarven Chandelier | 11.00% | ~1,106 |
+| Master of Speed | 9.00% | ~905 |
+| The Levitator | 7.00% | ~704 |
+| The God of Battle | 3.00% | ~302 |
 | Too Much of a Talker | 2.00% | ~201 |
-| The Skeleton King | 1.00% | ~100 |
+| The Skeleton King | 1.00% | ~101 |
 | Cold-Blooded | 0.70% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,026 (Ranked 169)  
+Progressed: 10,054 (Ranked 169)  
 Completed: 18 (0.18%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,11 +250,11 @@ Completed: 18 (0.18%) (Ranked 270)
 | 2023-12-13 | 8,441 | 18 |
 | 2023-12-14 | 8,881 | 18 |
 | 2023-12-15 | 9,519 | 18 |
-| 2023-12-16 | 10,026 | 18 |
+| 2023-12-16 | 10,054 | 18 |
 ## Awards
-Max (Diverse Characters): 137  (Ranked 329)  
+Max (Diverse Characters): 137  (Ranked 330)  
 Sum: 953 (Ranked 271)  
-Diff (max vs sum): 58  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 137 |

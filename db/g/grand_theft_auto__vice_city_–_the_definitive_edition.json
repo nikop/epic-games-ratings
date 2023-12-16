@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 547,
+  "Ranking_Rating": 548,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 167,
@@ -943,9 +943,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 12220,
+  "EOS_Progressed": 12238,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 927,
+  "EOS_NewPlayers": 942,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -14653,6 +14653,11 @@
       "Time": "2023-12-16T16:09:35.8234043+00:00",
       "NumProgressed": 12220,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-12-16T17:09:39.1304152+00:00",
+      "NumProgressed": 12238,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 34,
@@ -14680,7 +14685,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1224
     },
     {
       "ID": "ACH04",
@@ -14688,7 +14693,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "ACH05",
@@ -14696,7 +14701,7 @@
       "Name": "One is Better Than Two",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH06",
@@ -14720,7 +14725,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH09",
@@ -14736,7 +14741,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 855
+      "UsersEstimate": 857
     },
     {
       "ID": "ACH11",
@@ -14744,7 +14749,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1346
     },
     {
       "ID": "ACH12",
@@ -14752,7 +14757,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "ACH13",
@@ -14768,7 +14773,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 5132
+      "UsersEstimate": 5140
     },
     {
       "ID": "ACH15",
@@ -14792,7 +14797,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "ACH18",
@@ -14824,7 +14829,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5621
+      "UsersEstimate": 5629
     },
     {
       "ID": "ACH22",
@@ -14832,7 +14837,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2448
     },
     {
       "ID": "ACH23",
@@ -14840,7 +14845,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3182
     },
     {
       "ID": "ACH24",
@@ -14848,7 +14853,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1836
     },
     {
       "ID": "ACH25",
@@ -14856,7 +14861,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1836
     },
     {
       "ID": "ACH26",
@@ -14864,7 +14869,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1836
     },
     {
       "ID": "ACH27",
@@ -14872,7 +14877,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "ACH28",
@@ -14880,7 +14885,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "ACH29",
@@ -14888,7 +14893,7 @@
       "Name": "Take the Cannoli",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH30",
@@ -14896,7 +14901,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "ACH31",
@@ -14904,7 +14909,7 @@
       "Name": "Chopper\u2019d Up",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH32",
@@ -14912,7 +14917,7 @@
       "Name": "City Sleuth",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH33",
@@ -14935,7 +14940,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 12220,
+      "Progressed": 12238,
       "Completed": 68
     }
   ],
@@ -14943,8 +14948,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-15T16:58:18.5182243+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:09:35.8234039+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:09:39.130415+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.0199326+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:59:03.3669952+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:09:35.8235137+00:00"
+  "LastUpdate_Ratings": "2023-12-16T16:59:54.2681294+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:09:39.1305111+00:00"
 }

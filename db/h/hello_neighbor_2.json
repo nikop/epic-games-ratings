@@ -2,13 +2,13 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 684,
+  "Ranking_Rating": 685,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -471,10 +471,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3406,
+  "EOS_Progressed": 3407,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 74,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 75,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.05,
   "EosHistory": [
     {
@@ -5461,6 +5461,11 @@
       "Time": "2023-12-16T16:04:11.6365834+00:00",
       "NumProgressed": 3406,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-12-16T17:04:44.5337697+00:00",
+      "NumProgressed": 3407,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 14,
@@ -5480,7 +5485,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -5536,7 +5541,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -5544,7 +5549,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ACH_REUNION",
@@ -5552,7 +5557,7 @@
       "Name": "Reunion",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -5560,15 +5565,15 @@
       "Name": "Shovel Night",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "ACH_TREASURE_HUNT",
       "SetID": "4kfb9pd",
       "Name": "Treasure Hunt",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1022
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -5583,7 +5588,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3406,
+      "Progressed": 3407,
       "Completed": 138
     }
   ],
@@ -5591,8 +5596,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-18T13:02:58.1900278+00:00",
-  "LastChanged_Achievements": "2023-12-16T16:04:11.6365829+00:00",
+  "LastChanged_Achievements": "2023-12-16T17:04:44.5337695+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:09.6040213+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:57:11.8975678+00:00",
-  "LastUpdate_Achievements": "2023-12-16T16:04:11.6366268+00:00"
+  "LastUpdate_Ratings": "2023-12-16T16:57:10.6890773+00:00",
+  "LastUpdate_Achievements": "2023-12-16T17:04:44.5338076+00:00"
 }

@@ -1,38 +1,38 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.44 (Ranked 684)  
+Rating: 4.44 (Ranked 685)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,895 |
-| Confirming Suspicions | 42.00% | ~1,693 |
-| The Kraken Wakes | 37.00% | ~1,491 |
+| Meeting Resistance | 47.00% | ~1,896 |
+| Confirming Suspicions | 42.00% | ~1,694 |
+| The Kraken Wakes | 37.00% | ~1,492 |
 | It's Starting to Crack | 34.00% | ~1,371 |
 | Change the Channel | 31.00% | ~1,250 |
-| Lord of War | 30.00% | ~1,209 |
-| Taking it back | 29.00% | ~1,169 |
-| Resourceful | 27.00% | ~1,088 |
-| Target America | 27.00% | ~1,088 |
+| Lord of War | 30.00% | ~1,210 |
+| Taking it back | 29.00% | ~1,170 |
+| Resourceful | 27.00% | ~1,089 |
+| Target America | 27.00% | ~1,089 |
 | The Kraken Sleeps | 25.00% | ~1,008 |
-| As Quiet as a Mouse | 24.00% | ~967 |
-| Liberté | 23.00% | ~927 |
-| Organ Grinder | 23.00% | ~927 |
-| Sharpshooter | 23.00% | ~927 |
+| As Quiet as a Mouse | 24.00% | ~968 |
+| Liberté | 23.00% | ~928 |
+| Organ Grinder | 23.00% | ~928 |
+| Sharpshooter | 23.00% | ~928 |
 | Gunslinger | 19.00% | ~766 |
 | Explosive Efficiency | 19.00% | ~766 |
-| Climbing the Ladder | 17.00% | ~685 |
-| Just a Flesh Wound | 17.00% | ~685 |
-| Der Geist | 17.00% | ~685 |
+| Climbing the Ladder | 17.00% | ~686 |
+| Just a Flesh Wound | 17.00% | ~686 |
+| Der Geist | 17.00% | ~686 |
 | Close Quarters | 16.00% | ~645 |
 | Snake in the Grass | 16.00% | ~645 |
 | Brains of the Operation | 16.00% | ~645 |
 | No Stone Unturned | 15.00% | ~605 |
 | Skirmisher | 15.00% | ~605 |
 | Die Nussknacker Sweet! | 15.00% | ~605 |
-| Opposing Force | 14.00% | ~564 |
-| Enemy at the Gates | 14.00% | ~564 |
-| Fields of Glory | 14.00% | ~564 |
+| Opposing Force | 14.00% | ~565 |
+| Enemy at the Gates | 14.00% | ~565 |
+| Fields of Glory | 14.00% | ~565 |
 | Set Europe Ablaze | 13.00% | ~524 |
 | Precision Is Key | 10.00% | ~403 |
 | My Little Friend | 10.00% | ~403 |
@@ -53,9 +53,9 @@ Rating: 4.44 (Ranked 684)
 | Burn after reading | 3.00% | ~121 |
 | Souvenir hunter | 3.00% | ~121 |
 | Shoot for the Moon | 3.00% | ~121 |
-| If You Go Down To The Woods Today | 3.00% | ~119 |
-| Fight Another Day | 3.00% | ~119 |
-| Shipbreaker | 3.00% | ~119 |
+| If You Go Down To The Woods Today | 3.00% | ~120 |
+| Fight Another Day | 3.00% | ~120 |
+| Shipbreaker | 3.00% | ~120 |
 | Out of Scope | 2.00% | ~81 |
 | Eagle Eyed | 2.00% | ~81 |
 | Up close and personal | 2.00% | ~81 |
@@ -77,8 +77,8 @@ Rating: 4.44 (Ranked 684)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,031 (Ranked 203)  
-Completed: 11 (0.27%) (Ranked 247)  
+Progressed: 4,033 (Ranked 203)  
+Completed: 11 (0.27%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -315,7 +315,7 @@ Completed: 11 (0.27%) (Ranked 247)
 | 2023-12-13 | 4,009 | 11 |
 | 2023-12-14 | 4,017 | 11 |
 | 2023-12-15 | 4,025 | 11 |
-| 2023-12-16 | 4,031 | 11 |
+| 2023-12-16 | 4,033 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 512)  
 Sum: 28 (Ranked 528)  

@@ -1,14 +1,14 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 453)  
+Rating: 4.58 (Ranked 454)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,508 |
-| Alt+F4 | 10.00% | ~24,308 |
-| Where's that freaking Dwarf? | 8.00% | ~19,446 |
+| Sowwy! | 36.00% | ~87,511 |
+| Alt+F4 | 10.00% | ~24,309 |
+| Where's that freaking Dwarf? | 8.00% | ~19,447 |
 | Déjà vu | 7.00% | ~17,016 |
 | Sock! SOCK! | 6.00% | ~14,585 |
 | A beer, two curses, three companions | 5.00% | ~12,154 |
@@ -16,11 +16,11 @@ Number of Ratings: 118  (23.09.2022)
 | Speedrun | 5.00% | ~12,154 |
 | DM intervention | 4.00% | ~9,723 |
 | Fireproof Wizardess | 4.00% | ~9,723 |
-| Livin' in a dwarven paradise | 3.00% | ~7,292 |
-| Way of the Wimp | 3.00% | ~7,292 |
-| The plot thickens... At the tavern | 3.00% | ~7,292 |
-| The demons' feast | 3.00% | ~7,292 |
-| The Woman in the High Castle | 3.00% | ~7,292 |
+| Livin' in a dwarven paradise | 3.00% | ~7,293 |
+| Way of the Wimp | 3.00% | ~7,293 |
+| The plot thickens... At the tavern | 3.00% | ~7,293 |
+| The demons' feast | 3.00% | ~7,293 |
+| The Woman in the High Castle | 3.00% | ~7,293 |
 | Shiny and Crôm | 2.00% | ~4,862 |
 | The Great Library | 2.00% | ~4,862 |
 | Torture and Sensibility | 2.00% | ~4,862 |
@@ -48,8 +48,8 @@ Number of Ratings: 118  (23.09.2022)
 | Lëgal Legend | 0.90% | ~2,188 |
 | We come in peace | 0.80% | ~1,945 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,702 |
-| Holistic Adventuring Party | 0.60% | ~1,458 |
-| Law and Order | 0.60% | ~1,458 |
+| Holistic Adventuring Party | 0.60% | ~1,459 |
+| Law and Order | 0.60% | ~1,459 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,215 |
 | It's been a hard day's night | 0.50% | ~1,215 |
 | Friendly fire | 0.40% | ~972 |
@@ -61,6 +61,7 @@ Number of Ratings: 118  (23.09.2022)
 | Free customer service | 0.20% | ~486 |
 | Imposture and Trowels | 0.20% | ~486 |
 | Deep changes | 0.20% | ~486 |
+| A broken clock… | 0.20% | ~486 |
 | Living legends of the Lands of Fangh | 0.20% | ~486 |
 | Kudos from your DM | 0.20% | ~486 |
 | Insult to injury | 0.20% | ~486 |
@@ -79,7 +80,6 @@ Number of Ratings: 118  (23.09.2022)
 | Elite Adventurers | 0.10% | ~243 |
 | Take your time back in time | 0.10% | ~243 |
 | Egghead | 0.10% | ~243 |
-| A broken clock… | 0.10% | ~243 |
 | Sleep schedule mastery | 0.10% | ~243 |
 | Cute Dungeon | 0.10% | ~243 |
 | Mystical Dungeon | 0.10% | ~243 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~243 |
 | Dwarf Candy | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,079 (Ranked 64)  
+Progressed: 243,087 (Ranked 64)  
 Completed: 7 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 7 (0.00%) (Ranked 377)
 | 2023-12-13 | 242,616 | 7 |
 | 2023-12-14 | 242,763 | 7 |
 | 2023-12-15 | 242,956 | 7 |
-| 2023-12-16 | 243,079 | 7 |
+| 2023-12-16 | 243,087 | 7 |
 ## Awards
 Max (Character Customization): 246  (Ranked 272)  
 Sum: 518 (Ranked 326)  
