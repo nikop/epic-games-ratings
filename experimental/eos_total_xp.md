@@ -493,6 +493,7 @@
 | [My Friend Peppa Pig](../games/m/my_friend_peppa_pig.md) | 11 | 1,000 |
 | [MY LITTLE PONY A Maretime Bay Adventure](../games/m/my_little_pony_a_maretime_bay_adventure.md) | 13 | 1,000 |
 | [My Lovely Wife](../games/m/my_lovely_wife.md) | 33 | 1,000 |
+| [My Sweet Floating in the Void](../games/8/8a33892627f0470faf7a76965e29a197.md) | 5 | 1,000 |
 | [My Time at Sandrock](../games/m/my_time_at_sandrock.md) | 60 | 1,000 |
 | [Mystery in the Office](../games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 10 | 1,000 |
 | [MythForce](../games/m/mythforce.md) | 23 | 1,000 |

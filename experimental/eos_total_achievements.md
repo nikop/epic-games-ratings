@@ -850,6 +850,7 @@
 | [Mason: Building Bricks](../games/m/mason__building_bricks.md) | 5 | 1,000 |
 | [Math Fun](../games/b/b2d39a10264c4afb819cbd89b533a4fb.md) | 5 | 1,000 |
 | [Mountain Racing](../games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 5 | 1,000 |
+| [My Sweet Floating in the Void](../games/8/8a33892627f0470faf7a76965e29a197.md) | 5 | 1,000 |
 | [Party Monsterzz](../games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 5 | 1,000 |
 | [Quiz Time](../games/3/3a4eb3f9b5b34db6aeed3a636c4fd154.md) | 5 | 1,000 |
 | [Super Kids Racing - Mini Edition](../games/0/05f959ab5f6d4c64b1072b752ec27140.md) | 5 | 1,000 |
