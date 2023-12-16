@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1145,
+  "EOS_Progressed": 1146,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 4.98,
+  "EOS_Completed_Percentage": 4.97,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -4175,6 +4175,11 @@
       "Time": "2023-12-16T07:05:57.1939779+00:00",
       "NumProgressed": 1145,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-16T08:04:48.2321824+00:00",
+      "NumProgressed": 1146,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 25,
@@ -4218,7 +4223,7 @@
       "Name": "A good beginning",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "META_HALF_LINK",
@@ -4258,7 +4263,7 @@
       "Name": "A great audience",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "META_RESULT_2-4",
@@ -4274,7 +4279,7 @@
       "Name": "A Link to the Past",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -4288,9 +4293,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 172
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -4298,7 +4303,7 @@
       "Name": "True G3M4R",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -4370,7 +4375,7 @@
       "Name": "The darkness",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "PROGRESS_N5",
@@ -4385,14 +4390,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1145,
+      "Progressed": 1146,
       "Completed": 57
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-16T07:05:57.1939776+00:00",
+  "LastChanged_Achievements": "2023-12-16T08:04:48.2321821+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
-  "LastUpdate_Ratings": "2023-12-16T07:00:53.0308043+00:00",
-  "LastUpdate_Achievements": "2023-12-16T07:05:57.1940047+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:59:39.6336125+00:00",
+  "LastUpdate_Achievements": "2023-12-16T08:04:48.2322167+00:00"
 }

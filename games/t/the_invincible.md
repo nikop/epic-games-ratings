@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 61.00% | ~402 |
-| The Teleprobe | 48.00% | ~316 |
-| The City | 43.00% | ~283 |
-| The field base | 39.00% | ~257 |
-| Survivors | 34.00% | ~224 |
-| The Condor | 31.00% | ~204 |
-| The End | 31.00% | ~204 |
-| The Alliance | 27.00% | ~178 |
-| The Necroevolution | 25.00% | ~165 |
-| Krauta is alive | 23.00% | ~152 |
-| Peacemaker | 20.00% | ~132 |
-| Volcanologist | 19.00% | ~125 |
-| On her own | 18.00% | ~119 |
-| Evacuation | 17.00% | ~112 |
-| Beyond divisions | 16.00% | ~105 |
+| The Camp | 60.00% | ~398 |
+| The Teleprobe | 48.00% | ~318 |
+| The City | 43.00% | ~285 |
+| The field base | 39.00% | ~259 |
+| Survivors | 33.00% | ~219 |
+| The Condor | 31.00% | ~206 |
+| The End | 30.00% | ~199 |
+| The Alliance | 27.00% | ~179 |
+| The Necroevolution | 25.00% | ~166 |
+| Krauta is alive | 22.00% | ~146 |
+| Peacemaker | 20.00% | ~133 |
+| Volcanologist | 19.00% | ~126 |
+| On her own | 17.00% | ~113 |
+| Evacuation | 16.00% | ~106 |
+| Beyond divisions | 16.00% | ~106 |
 | Fierce fight | 15.00% | ~99 |
-| Flying Objects Operator | 14.00% | ~92 |
-| I remember everything! | 12.00% | ~79 |
+| Flying Objects Operator | 14.00% | ~93 |
+| I remember everything! | 12.00% | ~80 |
 | Another giant | 10.00% | ~66 |
-| Violent solution | 9.00% | ~59 |
+| Violent solution | 9.00% | ~60 |
 | Innate curiosity | 8.00% | ~53 |
 | I leave no man behind | 6.00% | ~40 |
 | The Invincible | 5.00% | ~33 |
 | Strong objection | 5.00% | ~33 |
-| Ubiquitous holes | 4.00% | ~26 |
-| Got lost again | 4.00% | ~26 |
+| Ubiquitous holes | 4.00% | ~27 |
+| Got lost again | 4.00% | ~27 |
 | I leave no man behind (no exceptions) | 2.00% | ~13 |
 | Convoy list | 0.80% | ~5 |
 | No more mistakes | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 659 (Ranked 297)  
+Progressed: 663 (Ranked 297)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,4 +75,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 561 | 0 |
 | 2023-12-14 | 605 | 0 |
 | 2023-12-15 | 653 | 0 |
-| 2023-12-16 | 659 | 0 |
+| 2023-12-16 | 663 | 0 |

@@ -1,42 +1,42 @@
 # Eiyuden Chronicle: Rising
 [Store](https://store.epicgames.com/en-US/p/eiyuden-chronicle-rising)  
 [View Rawdata](../../db/e/eiyuden_chronicle__rising.json)  
-Rating: 4.50 (Ranked 599)  
+Rating: 4.50 (Ranked 600)  
 Number of Ratings: 48  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 87.00% | ~636 |
-| All Bark, No Bite | 76.00% | ~556 |
-| Hopeful Hunter | 66.00% | ~482 |
-| Amateur Adventurer | 64.00% | ~468 |
-| The Road to Recovery | 63.00% | ~461 |
-| Partners? | 61.00% | ~446 |
-| Magical Mineral Golem | 54.00% | ~395 |
-| On Outlander Lane | 53.00% | ~387 |
-| First Time Fishing | 51.00% | ~373 |
+| Plenty More to Go | 87.00% | ~638 |
+| All Bark, No Bite | 76.00% | ~557 |
+| Hopeful Hunter | 66.00% | ~484 |
+| Amateur Adventurer | 64.00% | ~469 |
+| The Road to Recovery | 63.00% | ~462 |
+| Partners? | 61.00% | ~447 |
+| Magical Mineral Golem | 54.00% | ~396 |
+| On Outlander Lane | 53.00% | ~388 |
 | A Girl About the Town | 50.00% | ~366 |
-| First Time Hunting | 48.00% | ~351 |
-| Rune Wall Wreckage | 47.00% | ~344 |
-| ...And Your Tax Money | 46.00% | ~336 |
-| The Lords of the Snowpeak | 40.00% | ~292 |
-| The Go-To Girl | 37.00% | ~270 |
-| The Lava Mantor Wyrm | 36.00% | ~263 |
-| Scavenger's Honor | 36.00% | ~263 |
-| Natural Born Monster-Killer | 36.00% | ~263 |
-| The Great Forest...On Foot! | 36.00% | ~263 |
-| One Mean Merc | 35.00% | ~256 |
-| Adept, for an Acting Mayor | 35.00% | ~256 |
-| Money, Money, Money | 35.00% | ~256 |
-| Rune Wall Master | 33.00% | ~241 |
-| The Quarry...On Foot! | 31.00% | ~227 |
+| First Time Fishing | 50.00% | ~366 |
+| First Time Hunting | 48.00% | ~352 |
+| Rune Wall Wreckage | 47.00% | ~345 |
+| ...And Your Tax Money | 46.00% | ~337 |
+| The Lords of the Snowpeak | 40.00% | ~293 |
+| The Lava Mantor Wyrm | 36.00% | ~264 |
+| The Go-To Girl | 36.00% | ~264 |
+| Scavenger's Honor | 36.00% | ~264 |
+| Natural Born Monster-Killer | 36.00% | ~264 |
+| The Great Forest...On Foot! | 36.00% | ~264 |
+| One Mean Merc | 35.00% | ~257 |
+| Adept, for an Acting Mayor | 35.00% | ~257 |
+| Money, Money, Money | 35.00% | ~257 |
+| Rune Wall Master | 33.00% | ~242 |
+| The Quarry...On Foot! | 30.00% | ~220 |
 | The Runebarrows...On Foot! | 28.00% | ~205 |
-| The Snowpeak...On Foot! | 27.00% | ~197 |
-| The Lava Ruins...On Foot! | 27.00% | ~197 |
-| Meat Master | 26.00% | ~190 |
-| Armor Master | 24.00% | ~175 |
-| Fishing Master | 24.00% | ~175 |
-| The Pride of the Town | 23.00% | ~168 |
+| The Snowpeak...On Foot! | 27.00% | ~198 |
+| The Lava Ruins...On Foot! | 27.00% | ~198 |
+| Meat Master | 26.00% | ~191 |
+| Armor Master | 24.00% | ~176 |
+| Fishing Master | 24.00% | ~176 |
+| The Pride of the Town | 23.00% | ~169 |
 | This Treasure I've Found | 21.00% | ~154 |
 | New Nevaeh's Number One Customer | 21.00% | ~154 |
 | Arms Master | 19.00% | ~139 |
@@ -44,21 +44,21 @@ Number of Ratings: 48  (23.09.2022)
 | No Treasure Left Behind | 13.00% | ~95 |
 | Sommelier | 12.00% | ~88 |
 | Champion of the Great Forest | 12.00% | ~88 |
-| One-Hundred Resident Record | 11.00% | ~80 |
-| A Local Hero | 11.00% | ~80 |
+| One-Hundred Resident Record | 11.00% | ~81 |
+| A Local Hero | 11.00% | ~81 |
 | Gourmand | 10.00% | ~73 |
 | Accessorizer | 10.00% | ~73 |
 | Champion of the Quarry | 10.00% | ~73 |
 | Champion of the Lava Ruins | 10.00% | ~73 |
 | No One Better | 9.00% | ~66 |
 | Champion of the Snowpeak | 9.00% | ~66 |
-| Full Force - CJ | 8.00% | ~58 |
-| Full Force - Garoo | 8.00% | ~58 |
-| Full Force - Isha | 8.00% | ~58 |
+| Full Force - CJ | 8.00% | ~59 |
+| Full Force - Garoo | 8.00% | ~59 |
+| Full Force - Isha | 8.00% | ~59 |
 | Rising Champion | 7.00% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731 (Ranked 291)  
-Completed: 60 (8.21%) (Ranked 49)  
+Progressed: 733 (Ranked 291)  
+Completed: 60 (8.19%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,7 +107,7 @@ Completed: 60 (8.21%) (Ranked 49)
 | 2023-12-13 | 709 | 60 |
 | 2023-12-14 | 716 | 60 |
 | 2023-12-15 | 729 | 60 |
-| 2023-12-16 | 731 | 60 |
+| 2023-12-16 | 733 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

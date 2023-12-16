@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 76899,
+  "EOS_Progressed": 76901,
   "EOS_Completed": 413,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -26744,6 +26744,11 @@
       "Time": "2023-12-16T07:09:41.5754379+00:00",
       "NumProgressed": 76899,
       "NumCompleted": 413
+    },
+    {
+      "Time": "2023-12-16T08:08:56.8097685+00:00",
+      "NumProgressed": 76901,
+      "NumCompleted": 413
     }
   ],
   "TotalAchievements": 24,
@@ -26771,7 +26776,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 53060
+      "UsersEstimate": 53062
     },
     {
       "ID": "BEST_FRIENDS",
@@ -26835,7 +26840,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 40756
+      "UsersEstimate": 40758
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -26946,7 +26951,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 76899,
+      "Progressed": 76901,
       "Completed": 413
     }
   ],
@@ -26954,8 +26959,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2023-12-16T07:09:41.5754376+00:00",
+  "LastChanged_Achievements": "2023-12-16T08:08:56.809768+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:25.3960201+00:00",
-  "LastUpdate_Ratings": "2023-12-16T07:02:51.2778727+00:00",
-  "LastUpdate_Achievements": "2023-12-16T07:09:41.5755399+00:00"
+  "LastUpdate_Ratings": "2023-12-16T08:02:36.8735288+00:00",
+  "LastUpdate_Achievements": "2023-12-16T08:08:56.8099256+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16452,
+  "EOS_Progressed": 16457,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 455,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13997,6 +13997,11 @@
       "Time": "2023-12-16T07:08:16.7221897+00:00",
       "NumProgressed": 16452,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-16T08:07:57.1153765+00:00",
+      "NumProgressed": 16457,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14025,7 +14030,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "12",
@@ -14113,7 +14118,7 @@
       "Name": "Drone Dodger",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "22",
@@ -14161,7 +14166,7 @@
       "Name": "Bosmang",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "28",
@@ -14185,7 +14190,7 @@
       "Name": "Captain Drummer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "30",
@@ -14217,7 +14222,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "7",
@@ -14241,7 +14246,7 @@
       "Name": "Impossible Objects",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "31",
@@ -14249,7 +14254,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "32",
@@ -14257,7 +14262,7 @@
       "Name": "Safe Cracker",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "33",
@@ -14265,7 +14270,7 @@
       "Name": "Zen Master",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "34",
@@ -14281,20 +14286,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16452,
+      "Progressed": 16457,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2406,
+      "Progressed": 2411,
       "Completed": 894
     }
   ],
@@ -14302,8 +14307,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-16T07:08:16.7221891+00:00",
+  "LastChanged_Achievements": "2023-12-16T08:07:57.1153761+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-16T06:58:26.9172992+00:00",
-  "LastUpdate_Achievements": "2023-12-16T07:08:16.7222884+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:58:00.8355048+00:00",
+  "LastUpdate_Achievements": "2023-12-16T08:07:57.1154502+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 381,
+  "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249,
+  "EOS_Progressed": 252,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1019,6 +1019,11 @@
       "Time": "2023-12-16T05:04:57.2334577+00:00",
       "NumProgressed": 249,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T08:04:42.0990591+00:00",
+      "NumProgressed": 252,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1063,7 +1068,7 @@
       "Name": "Exterminatus",
       "Percentage": 1,
       "XP": 175,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_complete_difficulty_hard",
@@ -1079,7 +1084,7 @@
       "Name": "My Armour is Contempt",
       "Percentage": 7,
       "XP": 95,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -1087,7 +1092,7 @@
       "Name": "Defeat a Great Unclean One",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -1103,7 +1108,7 @@
       "Name": "Find all Secrets - Chapter 1",
       "Percentage": 1,
       "XP": 95,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_find_all_secrets_c2",
@@ -1126,14 +1131,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 249,
+      "Progressed": 252,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-16T07:05:48.4919984+00:00",
+  "LastChanged_Achievements": "2023-12-16T08:04:42.0990587+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.6680838+00:00",
-  "LastUpdate_Ratings": "2023-12-16T06:59:41.2479683+00:00",
-  "LastUpdate_Achievements": "2023-12-16T07:05:48.4920107+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:58:50.208814+00:00",
+  "LastUpdate_Achievements": "2023-12-16T08:04:42.0991004+00:00"
 }

@@ -1317,9 +1317,9 @@
       "ID": "ACHIEVE_QUICK_GRIND_WIN",
       "SetID": "b8l3p0g",
       "Name": "That Was Quick",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 831
+      "UsersEstimate": 882
     },
     {
       "ID": "ACHIEVE_ROBINHOOD",
@@ -1357,8 +1357,8 @@
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-12-16T07:06:34.5106625+00:00",
+  "LastChanged_Achievements": "2023-12-16T08:05:14.7417625+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:17.5210328+00:00",
-  "LastUpdate_Ratings": "2023-12-16T07:00:36.8006627+00:00",
-  "LastUpdate_Achievements": "2023-12-16T07:06:34.5106931+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:59:28.5866316+00:00",
+  "LastUpdate_Achievements": "2023-12-16T08:05:14.7417908+00:00"
 }

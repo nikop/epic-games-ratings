@@ -1669,10 +1669,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 162759,
+  "EOS_Progressed": 162764,
   "EOS_Completed": 331,
-  "EOS_NewPlayers": 984,
-  "EOS_NewCompleters": 70,
+  "EOS_NewPlayers": 986,
+  "EOS_NewCompleters": 68,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -19389,6 +19389,11 @@
       "Time": "2023-12-16T07:04:07.3336288+00:00",
       "NumProgressed": 162759,
       "NumCompleted": 331
+    },
+    {
+      "Time": "2023-12-16T08:03:30.3503141+00:00",
+      "NumProgressed": 162764,
+      "NumCompleted": 331
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -19535,9 +19540,9 @@
       "ID": "DEFEAT_HARMLESSROCKGIANT",
       "SetID": "ccc0dlh",
       "Name": "Harmless",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 488
+      "UsersEstimate": 651
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -19768,21 +19773,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 162342,
+      "Progressed": 162347,
       "Completed": 1239
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 162759,
+      "Progressed": 162764,
       "Completed": 331
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-15T19:00:09.2990933+00:00",
-  "LastChanged_Achievements": "2023-12-16T07:04:07.3336282+00:00",
+  "LastChanged_Achievements": "2023-12-16T08:03:30.3503137+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-16T06:02:43.7109352+00:00",
-  "LastUpdate_Achievements": "2023-12-16T07:04:07.3337495+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:57:00.8228247+00:00",
+  "LastUpdate_Achievements": "2023-12-16T08:03:30.3504406+00:00"
 }

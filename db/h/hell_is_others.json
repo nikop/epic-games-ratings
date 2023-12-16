@@ -1339,7 +1339,7 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259389,
+  "EOS_Progressed": 259391,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
@@ -24244,6 +24244,11 @@
       "Time": "2023-12-16T06:04:57.1624581+00:00",
       "NumProgressed": 259389,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T08:04:36.0159838+00:00",
+      "NumProgressed": 259391,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -24311,7 +24316,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12969
+      "UsersEstimate": 12970
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -24383,7 +24388,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12969
+      "UsersEstimate": 12970
     },
     {
       "ID": "CreedsInBank2",
@@ -24543,7 +24548,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59659
+      "UsersEstimate": 59660
     },
     {
       "ID": "KillOthers2",
@@ -24702,7 +24707,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259389,
+      "Progressed": 259391,
       "Completed": 3
     }
   ],
@@ -24710,8 +24715,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-16T05:02:52.416752+00:00",
-  "LastChanged_Achievements": "2023-12-16T07:05:40.170334+00:00",
+  "LastChanged_Achievements": "2023-12-16T08:04:36.0159835+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:52.9725586+00:00",
-  "LastUpdate_Ratings": "2023-12-16T07:02:46.7928886+00:00",
-  "LastUpdate_Achievements": "2023-12-16T07:05:40.1704954+00:00"
+  "LastUpdate_Ratings": "2023-12-16T08:02:34.0488984+00:00",
+  "LastUpdate_Achievements": "2023-12-16T08:04:36.0160957+00:00"
 }

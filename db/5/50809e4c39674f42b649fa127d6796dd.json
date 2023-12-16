@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 461,
+  "EOS_Progressed": 462,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1207,6 +1207,11 @@
       "Time": "2023-12-16T05:04:30.0349897+00:00",
       "NumProgressed": 461,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T08:04:15.2039532+00:00",
+      "NumProgressed": 462,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1321,9 +1326,9 @@
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 374
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1331,7 +1336,7 @@
       "Name": "Speed Demon",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1371,7 +1376,7 @@
       "Name": "The Beginning",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1385,9 +1390,9 @@
       "ID": "MAIN_CLEAR_ISLAND3",
       "SetID": "apihg0e",
       "Name": "Futile Resistance",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "MAIN_CLEAR_ISLAND4",
@@ -1409,9 +1414,9 @@
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 245
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1538,14 +1543,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 461,
+      "Progressed": 462,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-16T07:05:10.7413062+00:00",
+  "LastChanged_Achievements": "2023-12-16T08:04:15.2039529+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:06.567221+00:00",
-  "LastUpdate_Ratings": "2023-12-16T07:03:07.9816493+00:00",
-  "LastUpdate_Achievements": "2023-12-16T07:05:10.7413451+00:00"
+  "LastUpdate_Ratings": "2023-12-16T08:02:48.9731966+00:00",
+  "LastUpdate_Achievements": "2023-12-16T08:04:15.2039832+00:00"
 }

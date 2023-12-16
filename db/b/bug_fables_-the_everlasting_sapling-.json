@@ -2,9 +2,9 @@
   "ID": "300bfcc4364d49e7808ea4d02d6a9c5d",
   "Name": "Bug Fables -The Everlasting Sapling-",
   "ProductSlug": "bug-fables-the-everlasting-sapling-851aa9",
-  "Ranking_EOS_Progress": 459,
+  "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewPlayers": 441,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95,
+  "EOS_Progressed": 96,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -189,6 +189,11 @@
       "Time": "2023-12-14T19:09:42.9460132+00:00",
       "NumProgressed": 95,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T08:09:06.1218668+00:00",
+      "NumProgressed": 96,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -214,7 +219,7 @@
       "ID": "BFT_CH1",
       "SetID": "7o7kd30",
       "Name": "Chapter 1 Complete",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
       "UsersEstimate": 69
     },
@@ -238,7 +243,7 @@
       "ID": "BFT_CH2HB",
       "SetID": "7o7kd30",
       "Name": "The Guardian",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
       "UsersEstimate": 31
     },
@@ -246,7 +251,7 @@
       "ID": "BFT_CH3",
       "SetID": "7o7kd30",
       "Name": "Chapter 3 Complete",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 33
     },
@@ -398,7 +403,7 @@
       "ID": "BFT_MUSIC",
       "SetID": "7o7kd30",
       "Name": "Music Collector",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -422,7 +427,7 @@
       "ID": "BFT_SUPER",
       "SetID": "7o7kd30",
       "Name": "Ultimate Team!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 65,
       "UsersEstimate": 10
     },
@@ -439,7 +444,7 @@
     {
       "ID": "7o7kd30",
       "IsBase": true,
-      "Progressed": 95,
+      "Progressed": 96,
       "Completed": 0
     }
   ],
@@ -447,8 +452,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-12-16T07:09:54.1558761+00:00",
+  "LastChanged_Achievements": "2023-12-16T08:09:06.1218664+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:22.2355716+00:00",
-  "LastUpdate_Ratings": "2023-12-16T06:57:38.4390746+00:00",
-  "LastUpdate_Achievements": "2023-12-16T07:09:54.1558918+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:57:29.2036735+00:00",
+  "LastUpdate_Achievements": "2023-12-16T08:09:06.1218809+00:00"
 }

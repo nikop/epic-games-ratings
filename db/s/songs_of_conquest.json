@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 491,
+  "EOS_Progressed": 492,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
@@ -2053,6 +2053,11 @@
       "Time": "2023-12-16T07:08:24.1714366+00:00",
       "NumProgressed": 491,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T08:08:02.2959928+00:00",
+      "NumProgressed": 492,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2169,7 +2174,7 @@
       "Name": "Critical Hit",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Deepstrike",
@@ -2209,7 +2214,7 @@
       "Name": "Double Kill",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2273,7 +2278,7 @@
       "Name": "Multi Kill",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "MultiplayerWins",
@@ -2496,15 +2501,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 491,
+      "Progressed": 492,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-16T07:08:24.1714364+00:00",
+  "LastChanged_Achievements": "2023-12-16T08:08:02.2959925+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-16T07:00:24.2851085+00:00",
-  "LastUpdate_Achievements": "2023-12-16T07:08:24.1714751+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:59:19.8804786+00:00",
+  "LastUpdate_Achievements": "2023-12-16T08:08:02.2960363+00:00"
 }

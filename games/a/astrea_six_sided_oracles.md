@@ -6,15 +6,15 @@
 | ---- | ---------- | ----- |
 | Meissa's Savior | 69.00% | ~103 |
 | Purification Pioneer | 64.00% | ~95 |
-| Mechanical Buddy | 58.00% | ~86 |
-| Dicesmithing Time! | 53.00% | ~79 |
-| Endless Tricks | 46.00% | ~69 |
+| Mechanical Buddy | 60.00% | ~89 |
+| Dicesmithing Time! | 54.00% | ~80 |
+| Endless Tricks | 47.00% | ~70 |
 | Sanctuary Guardian | 46.00% | ~69 |
 | Wild's Keeper | 42.00% | ~63 |
 | Mind Illuminator | 38.00% | ~57 |
 | Stellar Dismantler | 34.00% | ~51 |
 | Noctuan Champion | 32.00% | ~48 |
-| Anomaly Destroyer | 27.00% | ~40 |
+| Anomaly Destroyer | 28.00% | ~42 |
 | Eridanian Champion | 26.00% | ~39 |
 | Star Killer | 25.00% | ~37 |
 | Astral Adventurer | 24.00% | ~36 |
@@ -38,17 +38,17 @@
 | Anomaly Control | 6.00% | ~9 |
 | Artificer | 6.00% | ~9 |
 | Can't touch this | 6.00% | ~9 |
+| The Dark Moon | 6.00% | ~9 |
 | Denying Destiny | 5.00% | ~7 |
 | The Chaos Artisan | 5.00% | ~7 |
-| The Dark Moon | 5.00% | ~7 |
 | The Distorted Sage | 5.00% | ~7 |
 | Behenian Hero | 5.00% | ~7 |
 | Lacertian Hero | 5.00% | ~7 |
+| If I Had Failed... | 4.00% | ~6 |
 | Purification Avatar | 4.00% | ~6 |
 | The Abyssal Terror | 4.00% | ~6 |
 | Behenian Mastery | 4.00% | ~6 |
 | Astrarium of Holding | 3.00% | ~4 |
-| If I Had Failed... | 3.00% | ~4 |
 | Prestidigitation | 3.00% | ~4 |
 | Aquarian Hero | 3.00% | ~4 |
 | Aquarian Mastery | 3.00% | ~4 |

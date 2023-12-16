@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 986,
+  "EOS_Progressed": 987,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2689,6 +2689,11 @@
       "Time": "2023-12-16T07:10:01.6164939+00:00",
       "NumProgressed": 986,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-16T08:09:11.5696156+00:00",
+      "NumProgressed": 987,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2732,7 +2737,7 @@
       "Name": "Right On Time",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2748,7 +2753,7 @@
       "Name": "Like Clockwork",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ClovemaryGift",
@@ -2836,7 +2841,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "GadgetCompletion1",
@@ -2884,7 +2889,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "LacunaCompleted",
@@ -2946,9 +2951,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 207
     },
     {
       "ID": "ParryRepeated1",
@@ -3012,7 +3017,7 @@
       "Name": "Golem Chaser",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "SkillCompletion1",
@@ -3052,7 +3057,7 @@
       "Name": "Syron for Hope",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "TemporalPulseKills1",
@@ -3060,7 +3065,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "TheaterChests1",
@@ -3116,14 +3121,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 986,
+      "Progressed": 987,
       "Completed": 6
     }
   ],
@@ -3131,8 +3136,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-16T07:10:01.6164936+00:00",
+  "LastChanged_Achievements": "2023-12-16T08:09:11.5696152+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-16T07:02:33.0357195+00:00",
-  "LastUpdate_Achievements": "2023-12-16T07:10:01.6165473+00:00"
+  "LastUpdate_Ratings": "2023-12-16T08:02:24.9936299+00:00",
+  "LastUpdate_Achievements": "2023-12-16T08:09:11.5696566+00:00"
 }

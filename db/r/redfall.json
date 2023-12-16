@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1857,
+  "EOS_Progressed": 1858,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2622,6 +2622,11 @@
       "Time": "2023-12-16T07:06:59.5107805+00:00",
       "NumProgressed": 1857,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T08:05:32.6915751+00:00",
+      "NumProgressed": 1858,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2823,9 +2828,9 @@
       "ID": "Achievement_026",
       "SetID": "6b34g18",
       "Name": "Fly Fisher",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 56
     },
     {
       "ID": "Achievement_027",
@@ -3160,7 +3165,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1857,
+      "Progressed": 1858,
       "Completed": 0
     }
   ],
@@ -3168,8 +3173,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-10T01:51:29.5345174+00:00",
-  "LastChanged_Achievements": "2023-12-16T07:06:59.5107802+00:00",
+  "LastChanged_Achievements": "2023-12-16T08:05:32.6915749+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:19.3114561+00:00",
-  "LastUpdate_Ratings": "2023-12-16T06:59:32.1079796+00:00",
-  "LastUpdate_Achievements": "2023-12-16T07:06:59.5108447+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:58:44.0874816+00:00",
+  "LastUpdate_Achievements": "2023-12-16T08:05:32.6916273+00:00"
 }

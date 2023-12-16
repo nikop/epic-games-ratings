@@ -21,16 +21,16 @@
 | Meat grinder | 62.00% | ~82 |
 | You're not going to blow me up! | 56.00% | ~74 |
 | Mushroom soup of the day | 53.00% | ~70 |
+| Honk honk! | 50.00% | ~66 |
 | Cockadoodledoo! | 50.00% | ~66 |
-| Honk honk! | 49.00% | ~65 |
 | Butcher | 48.00% | ~64 |
+| Thats disgusting! | 48.00% | ~64 |
 | Spare Ribs | 48.00% | ~64 |
-| Thats disgusting! | 47.00% | ~63 |
+| Self assessed tax return | 44.00% | ~59 |
 | My pants squeak when I walk | 44.00% | ~59 |
-| Self assessed tax return | 43.00% | ~57 |
 | Surprise!! | 42.00% | ~56 |
 | Haemochromatosis | 40.00% | ~53 |
-| Make America Grate Again | 36.00% | ~48 |
+| Make America Grate Again | 37.00% | ~49 |
 | Pasta Bolognese | 35.00% | ~47 |
 | You can't stop me, bro! | 34.00% | ~45 |
 | You are no match for me, Billy! | 33.00% | ~44 |
@@ -48,7 +48,7 @@
 | I cant stand still! | 21.00% | ~28 |
 | Slimy... yet satisfying | 20.00% | ~27 |
 | Master Butcher | 18.00% | ~24 |
-| Just wing it! | 17.00% | ~23 |
+| Just wing it! | 18.00% | ~24 |
 | Deal with it | 17.00% | ~23 |
 | You're looking mozzare-hella good! | 14.00% | ~19 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~19 |

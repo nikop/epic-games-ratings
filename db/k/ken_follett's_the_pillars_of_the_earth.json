@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -564,9 +564,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 17070,
+  "EOS_Progressed": 17071,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -16214,6 +16214,11 @@
       "Time": "2023-12-16T07:07:57.4031045+00:00",
       "NumProgressed": 17070,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-16T08:06:13.1834126+00:00",
+      "NumProgressed": 17071,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16329,7 +16334,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 4950
+      "UsersEstimate": 4951
     },
     {
       "ID": "tpote_achievement_22",
@@ -16385,7 +16390,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "tpote_achievement_29",
@@ -16552,15 +16557,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17070,
+      "Progressed": 17071,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-13T16:01:07.6767372+00:00",
-  "LastChanged_Achievements": "2023-12-16T07:07:57.403104+00:00",
+  "LastChanged_Achievements": "2023-12-16T08:06:13.1834123+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:23.5508408+00:00",
-  "LastUpdate_Ratings": "2023-12-16T07:02:32.8508581+00:00",
-  "LastUpdate_Achievements": "2023-12-16T07:07:57.403244+00:00"
+  "LastUpdate_Ratings": "2023-12-16T08:02:24.8762584+00:00",
+  "LastUpdate_Achievements": "2023-12-16T08:06:13.1834898+00:00"
 }

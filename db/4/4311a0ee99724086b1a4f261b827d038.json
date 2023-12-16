@@ -737,7 +737,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 237825,
+  "EOS_Progressed": 237832,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1142,
   "EOS_NewCompleters": 0,
@@ -17597,6 +17597,11 @@
       "Time": "2023-12-16T07:10:15.940368+00:00",
       "NumProgressed": 237825,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T08:09:21.962+00:00",
+      "NumProgressed": 237832,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -17665,7 +17670,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49943
+      "UsersEstimate": 49945
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -17673,7 +17678,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21404
+      "UsersEstimate": 21405
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -17681,7 +17686,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 11891
+      "UsersEstimate": 11892
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -17697,7 +17702,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4756
+      "UsersEstimate": 4757
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -17721,7 +17726,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4756
+      "UsersEstimate": 4757
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -17729,7 +17734,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4756
+      "UsersEstimate": 4757
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -17809,7 +17814,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4756
+      "UsersEstimate": 4757
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -17865,7 +17870,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59456
+      "UsersEstimate": 59458
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -17880,7 +17885,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 237825,
+      "Progressed": 237832,
       "Completed": 0
     }
   ],
@@ -17888,8 +17893,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-15T15:02:38.8127479+00:00",
-  "LastChanged_Achievements": "2023-12-16T07:10:15.9403678+00:00",
+  "LastChanged_Achievements": "2023-12-16T08:09:21.9619997+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:59.9211133+00:00",
-  "LastUpdate_Ratings": "2023-12-16T07:02:52.2117106+00:00",
-  "LastUpdate_Achievements": "2023-12-16T07:10:15.9404666+00:00"
+  "LastUpdate_Ratings": "2023-12-16T08:02:37.5620818+00:00",
+  "LastUpdate_Achievements": "2023-12-16T08:09:21.9621119+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "haak-1401cb",
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
@@ -421,9 +421,9 @@
       "ID": "ach_11_scarvengerEA",
       "SetID": "16n29hg",
       "Name": "Super Scavenger",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_12_worldMap",
@@ -802,8 +802,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-12-16T07:08:53.9758441+00:00",
+  "LastChanged_Achievements": "2023-12-16T08:08:23.4015323+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.5129796+00:00",
-  "LastUpdate_Ratings": "2023-12-16T06:57:04.7104839+00:00",
-  "LastUpdate_Achievements": "2023-12-16T07:08:53.9758889+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:57:05.172196+00:00",
+  "LastUpdate_Achievements": "2023-12-16T08:08:23.4015665+00:00"
 }

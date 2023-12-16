@@ -8,39 +8,39 @@ Number of Ratings: 801  (23.09.2022)
 | ---- | ---------- | ----- |
 | Let's Get This Party Started | 87.00% | ~8,656 |
 | Photogenic | 83.00% | ~8,258 |
-| Surge Gauntlet Jockey | 80.00% | ~7,959 |
+| Surge Gauntlet Jockey | 80.00% | ~7,960 |
 | Plug It In | 79.00% | ~7,860 |
 | Adventure Time | 75.00% | ~7,462 |
-| Playing With Power | 73.00% | ~7,263 |
-| Coup d'Etat | 56.00% | ~5,571 |
-| You're Fired | 54.00% | ~5,372 |
-| Get Furious | 53.00% | ~5,273 |
-| Hacks In Stacks | 53.00% | ~5,273 |
-| Gunplay And Cosplay | 52.00% | ~5,173 |
+| Playing With Power | 73.00% | ~7,264 |
+| Coup d'Etat | 56.00% | ~5,572 |
+| You're Fired | 54.00% | ~5,373 |
+| Get Furious | 53.00% | ~5,274 |
+| Hacks In Stacks | 53.00% | ~5,274 |
+| Gunplay And Cosplay | 52.00% | ~5,174 |
 | Meching Enemies | 46.00% | ~4,577 |
 | Ticket Toddler | 42.00% | ~4,179 |
-| Booty Bashing | 37.00% | ~3,681 |
+| Booty Bashing | 37.00% | ~3,682 |
 | Field Medic | 36.00% | ~3,582 |
 | Here Comes a New Challenger | 36.00% | ~3,582 |
 | Rapid Response | 32.00% | ~3,184 |
-| Surge Ahead | 29.00% | ~2,885 |
-| The Full Monty | 29.00% | ~2,885 |
+| Surge Ahead | 29.00% | ~2,886 |
+| The Full Monty | 29.00% | ~2,886 |
 | Guardian Angel | 26.00% | ~2,587 |
 | Poppin Noggins | 23.00% | ~2,288 |
 | Clips and Crits | 18.00% | ~1,791 |
 | Grey Goo | 16.00% | ~1,592 |
 | Boss of Bosses | 15.00% | ~1,492 |
 | The Final Blow | 14.00% | ~1,393 |
-| To Be Continued | 13.00% | ~1,293 |
+| To Be Continued | 13.00% | ~1,294 |
 | Light My Fire | 11.00% | ~1,094 |
 | Seasoned Adventurer | 11.00% | ~1,094 |
-| Get In The Ring! | 9.00% | ~895 |
-| 1.21 Gigawatts | 9.00% | ~895 |
-| This Is My Boomstick! | 9.00% | ~895 |
+| Get In The Ring! | 9.00% | ~896 |
+| 1.21 Gigawatts | 9.00% | ~896 |
+| This Is My Boomstick! | 9.00% | ~896 |
 | Rescue Ranger | 8.00% | ~796 |
 | Surge Gauntlet Scholar | 6.00% | ~597 |
 | Ticket Titan | 6.00% | ~597 |
-| Master of Arms | 5.00% | ~497 |
+| Master of Arms | 5.00% | ~498 |
 | No Chill | 4.00% | ~398 |
 | Start Your Collection | 4.00% | ~398 |
 | Stop Hitting Yourself | 4.00% | ~398 |
@@ -49,7 +49,7 @@ Number of Ratings: 801  (23.09.2022)
 | Ground Control | 3.00% | ~298 |
 | Treasure Hunting | 3.00% | ~298 |
 | Nexuwizard | 2.00% | ~199 |
-| Everybody Freeze | 1.00% | ~99 |
+| Everybody Freeze | 1.00% | ~100 |
 | The Collector | 0.90% | ~90 |
 | Nature Is Lit | 0.80% | ~80 |
 | I'm The Pluggernaut | 0.60% | ~60 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~40 |
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,949 (Ranked 169)  
+Progressed: 9,950 (Ranked 169)  
 Completed: 2 (0.02%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 2 (0.02%) (Ranked 345)
 | 2023-12-13 | 9,897 | 2 |
 | 2023-12-14 | 9,915 | 2 |
 | 2023-12-15 | 9,939 | 2 |
-| 2023-12-16 | 9,949 | 2 |
+| 2023-12-16 | 9,950 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 415)  
 Sum: 465 (Ranked 336)  

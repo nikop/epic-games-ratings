@@ -12,23 +12,23 @@ Rating: 4.62 (Ranked 370)
 | The Brass Boss | 23.00% | ~227 |
 | Make Up For Lost Time | 22.00% | ~217 |
 | Time Flies | 22.00% | ~217 |
-| The Harder They Fall | 22.00% | ~217 |
 | No, Thanks! | 22.00% | ~217 |
 | The Prince in Heels | 22.00% | ~217 |
 | Immaculate Aim | 22.00% | ~217 |
 | The Steel Shadow | 21.00% | ~207 |
+| The Harder They Fall | 21.00% | ~207 |
 | Breaking Down Barriers | 21.00% | ~207 |
 | The Wicked Twins | 21.00% | ~207 |
 | Honest Mistake | 21.00% | ~207 |
 | Fast Learner | 21.00% | ~207 |
 | The Betrayer | 20.00% | ~197 |
-| Right On Time | 19.00% | ~187 |
-| Like Clockwork | 19.00% | ~187 |
-| Golem Chaser | 19.00% | ~187 |
-| The Man Who Shattered Time | 18.00% | ~177 |
-| The Loose Cannon | 18.00% | ~177 |
-| Check Your Pulse | 18.00% | ~177 |
-| The Family Fortune | 18.00% | ~177 |
+| Right On Time | 19.00% | ~188 |
+| Like Clockwork | 19.00% | ~188 |
+| Golem Chaser | 19.00% | ~188 |
+| The Man Who Shattered Time | 18.00% | ~178 |
+| The Loose Cannon | 18.00% | ~178 |
+| Check Your Pulse | 18.00% | ~178 |
+| The Family Fortune | 18.00% | ~178 |
 | Street Style | 17.00% | ~168 |
 | Treasure Trove | 14.00% | ~138 |
 | Whiz Kid | 14.00% | ~138 |
@@ -37,7 +37,7 @@ Rating: 4.62 (Ranked 370)
 | Chaincrawler Explorer | 12.00% | ~118 |
 | Family Memories | 12.00% | ~118 |
 | Ask Questions Later | 12.00% | ~118 |
-| Syron for Hope | 11.00% | ~108 |
+| Syron for Hope | 11.00% | ~109 |
 | Factorywood Explorer | 10.00% | ~99 |
 | Fairgrounds Explorer | 10.00% | ~99 |
 | Sump Explorer | 10.00% | ~99 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 370)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 986 (Ranked 274)  
+Progressed: 987 (Ranked 274)  
 Completed: 6 (0.61%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 6 (0.61%) (Ranked 193)
 | 2023-12-13 | 955 | 6 |
 | 2023-12-14 | 963 | 6 |
 | 2023-12-15 | 978 | 6 |
-| 2023-12-16 | 986 | 6 |
+| 2023-12-16 | 987 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -696,9 +696,9 @@
       "ID": "Max_Reputation_Alluvyan",
       "SetID": "7b9f97e",
       "Name": "Friend of Alluvyan",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Max_Reputation_Coldmark",
@@ -873,8 +873,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-16T07:09:06.458725+00:00",
+  "LastChanged_Achievements": "2023-12-16T08:08:32.3177426+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:57.4155187+00:00",
-  "LastUpdate_Ratings": "2023-12-16T06:58:01.1961803+00:00",
-  "LastUpdate_Achievements": "2023-12-16T07:09:06.458798+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:57:44.0616276+00:00",
+  "LastUpdate_Achievements": "2023-12-16T08:08:32.3177871+00:00"
 }

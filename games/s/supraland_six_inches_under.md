@@ -19,8 +19,8 @@ Number of Ratings: 209  (23.09.2022)
 | Revenge | 93.00% | ~2,203 |
 | Cage Town | 93.00% | ~2,203 |
 | Surprise | 93.00% | ~2,203 |
+| Industrial Area | 90.00% | ~2,132 |
 | Magnet | 90.00% | ~2,132 |
-| Industrial Area | 89.00% | ~2,108 |
 | Magnet Repel | 88.00% | ~2,085 |
 | You feel middle classy | 87.00% | ~2,061 |
 | Boomeraxe | 87.00% | ~2,061 |
@@ -270,9 +270,9 @@ Completed: 290 (12.24%) (Ranked 36)
 | 2023-12-14 | 2,368 | 290 |
 | 2023-12-15 | 2,369 | 290 |
 ## Awards
-Max (Challenging Puzzles): 108  (Ranked 356)  
+Max (Challenging Puzzles): 108  (Ranked 357)  
 Sum: 108 (Ranked 453)  
-Diff (max vs sum): -97  
+Diff (max vs sum): -96  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 108 |

@@ -79,7 +79,7 @@
   "Tags": [],
   "EOS_Progressed": 1235,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3401,25 +3401,25 @@
       "ID": "GSS_ACH_19_RUDY",
       "SetID": "5fn8ia4",
       "Name": "Rudy!",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1186
     },
     {
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1099
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1099
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -3441,9 +3441,9 @@
       "ID": "GSS_ACH_25_DENNIS",
       "SetID": "5fn8ia4",
       "Name": "Pranks? Nope!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1136
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -3617,9 +3617,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1074
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -3825,9 +3825,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1087
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -3914,8 +3914,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-15T16:57:11.4281266+00:00",
-  "LastChanged_Achievements": "2023-12-16T07:05:19.4676483+00:00",
+  "LastChanged_Achievements": "2023-12-16T08:04:21.3786321+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-16T06:57:53.3716141+00:00",
-  "LastUpdate_Achievements": "2023-12-16T07:05:19.4677419+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:57:39.1961393+00:00",
+  "LastUpdate_Achievements": "2023-12-16T08:04:21.37872+00:00"
 }

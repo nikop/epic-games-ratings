@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewPlayers": 468,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -786,9 +786,9 @@
       "ID": "3011_achv_magicbox",
       "SetID": "dhn82m5",
       "Name": "Mumbo Jumbo",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "3014_achv_sendspot",
@@ -851,8 +851,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-12-16T07:05:19.1524233+00:00",
+  "LastChanged_Achievements": "2023-12-16T08:04:21.0897221+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:41.8852838+00:00",
-  "LastUpdate_Ratings": "2023-12-16T07:00:43.7799376+00:00",
-  "LastUpdate_Achievements": "2023-12-16T07:05:19.1524775+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:59:33.3506146+00:00",
+  "LastUpdate_Achievements": "2023-12-16T08:04:21.0897601+00:00"
 }

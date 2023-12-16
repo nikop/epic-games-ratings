@@ -2,12 +2,12 @@
   "ID": "5f2fcf280d11455f8eab5c1e2a4d0392",
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
-  "Ranking_Rating": 824,
+  "Ranking_Rating": 825,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6646,
+  "EOS_Progressed": 6651,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6917,6 +6917,11 @@
       "Time": "2023-12-16T07:05:26.4728484+00:00",
       "NumProgressed": 6646,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T08:04:26.329505+00:00",
+      "NumProgressed": 6651,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6936,7 +6941,7 @@
       "Name": "Amy",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Amy_Scav",
@@ -6984,7 +6989,7 @@
       "Name": "The Brahdyssey",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "Bride",
@@ -7016,7 +7021,7 @@
       "Name": "Caught in the Act",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "CongratsACelebrityHatesYou",
@@ -7048,7 +7053,7 @@
       "Name": "Drunk and Disorderly: Ashley",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "DnD_Madison",
@@ -7160,7 +7165,7 @@
       "Name": "IRL Let\u0027s Player",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "IceBath",
@@ -7176,7 +7181,7 @@
       "Name": "Inspector",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ItSmellsLikeRoses",
@@ -7192,7 +7197,7 @@
       "Name": "Katherine",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "LCA",
@@ -7224,7 +7229,7 @@
       "Name": "Newcomer: Vickie",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "NoticeMe",
@@ -7248,7 +7253,7 @@
       "Name": "Relentless",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "Penguinfucker",
@@ -7296,7 +7301,7 @@
       "Name": "Smooth Operator: Madison",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "SmellBlood",
@@ -7312,7 +7317,7 @@
       "Name": "Social Butterfly",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Stephanie",
@@ -7336,7 +7341,7 @@
       "Name": "If at First You Don\u0027t Succeed...",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "SuckerPunch",
@@ -7368,7 +7373,7 @@
       "Name": "The Muse: Madison",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ThatsANiceBush",
@@ -7479,21 +7484,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3685,
+      "Progressed": 3690,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6646,
+      "Progressed": 6651,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-16T07:05:26.4728479+00:00",
+  "LastChanged_Achievements": "2023-12-16T08:04:26.3295048+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.173705+00:00",
-  "LastUpdate_Ratings": "2023-12-16T07:01:25.000685+00:00",
-  "LastUpdate_Achievements": "2023-12-16T07:05:26.4729202+00:00"
+  "LastUpdate_Ratings": "2023-12-16T08:00:00.3343017+00:00",
+  "LastUpdate_Achievements": "2023-12-16T08:04:26.3295944+00:00"
 }
