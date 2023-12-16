@@ -3,8 +3,8 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 928,
-  "Ranking_Popularity": 391,
-  "Ranking_PopularitySum": 329,
+  "Ranking_Popularity": 390,
+  "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 116,
@@ -1619,9 +1619,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 17151,
+  "EOS_Progressed": 17158,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 631,
+  "EOS_NewPlayers": 638,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -9789,6 +9789,11 @@
       "Time": "2023-12-16T01:54:07.9071492+00:00",
       "NumProgressed": 17151,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-16T02:27:31.4693765+00:00",
+      "NumProgressed": 17158,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -9832,7 +9837,7 @@
       "Name": "Flesh Wound",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -9894,9 +9899,9 @@
       "ID": "FINISH_NEW_GAME_PLUS",
       "SetID": "6j5ggkc",
       "Name": "Parole Denied",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 41
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -9928,7 +9933,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "KILL_ROBOT",
@@ -9960,7 +9965,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -9976,15 +9981,15 @@
       "Name": "Paper Jams",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "SHARE_PHOTO",
       "SetID": "4hj6d86",
       "Name": "Mugshot",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 120
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -10032,7 +10037,7 @@
       "Name": "Desperate Times",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -10168,20 +10173,20 @@
       "Name": "Quick Pick",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 17151,
+      "Progressed": 17158,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 5077,
+      "Progressed": 5084,
       "Completed": 29
     }
   ],
@@ -10189,8 +10194,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-15T19:03:00.030508+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:54:07.9071489+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:27:31.4693762+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.8352858+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:48:08.3783978+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:54:07.9072027+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:21:39.0572851+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:27:31.4694425+00:00"
 }

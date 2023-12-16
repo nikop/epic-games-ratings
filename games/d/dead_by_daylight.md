@@ -6,18 +6,18 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~32,930 |
-| Skillful | 3.00% | ~32,930 |
-| No one left behind | 2.00% | ~21,953 |
-| Handyman | 2.00% | ~21,953 |
-| Zealous | 2.00% | ~21,953 |
-| Not half bad | 2.00% | ~21,953 |
-| Apt Survivor | 2.00% | ~21,953 |
-| Survival Treasures | 2.00% | ~21,953 |
-| I | 2.00% | ~21,953 |
-| Sorted | 2.00% | ~21,953 |
-| Resurgence | 2.00% | ~21,953 |
-| Make Some Noise | 2.00% | ~21,953 |
+| It wakes | 3.00% | ~32,931 |
+| Skillful | 3.00% | ~32,931 |
+| No one left behind | 2.00% | ~21,954 |
+| Handyman | 2.00% | ~21,954 |
+| Zealous | 2.00% | ~21,954 |
+| Not half bad | 2.00% | ~21,954 |
+| Apt Survivor | 2.00% | ~21,954 |
+| Survival Treasures | 2.00% | ~21,954 |
+| I | 2.00% | ~21,954 |
+| Sorted | 2.00% | ~21,954 |
+| Resurgence | 2.00% | ~21,954 |
+| Make Some Noise | 2.00% | ~21,954 |
 | The Grand Sacrifice | 1.00% | ~10,977 |
 | Agonizing Escape | 1.00% | ~10,977 |
 | Backdoor Escape | 1.00% | ~10,977 |
@@ -38,14 +38,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | Vulture | 0.90% | ~9,879 |
 | III | 0.90% | ~9,879 |
 | Second Act | 0.90% | ~9,879 |
-| Escape Artist | 0.80% | ~8,781 |
-| First to the Punch | 0.80% | ~8,781 |
-| Operation: Survival | 0.80% | ~8,781 |
-| Every Last Drop | 0.80% | ~8,781 |
-| With Scars to Show | 0.80% | ~8,781 |
-| Lifting The Fog | 0.80% | ~8,781 |
+| Escape Artist | 0.80% | ~8,782 |
+| First to the Punch | 0.80% | ~8,782 |
+| Operation: Survival | 0.80% | ~8,782 |
+| Every Last Drop | 0.80% | ~8,782 |
+| With Scars to Show | 0.80% | ~8,782 |
+| Lifting The Fog | 0.80% | ~8,782 |
 | Blood on your hands | 0.70% | ~7,684 |
 | III-50 | 0.70% | ~7,684 |
+| Cherish your Life | 0.70% | ~7,684 |
 | Unforgettable Getaway | 0.70% | ~7,684 |
 | Old West Oasis | 0.70% | ~7,684 |
 | Raccoon City Recruit | 0.70% | ~7,684 |
@@ -59,24 +60,23 @@ Number of Ratings: 70,340  (23.09.2022)
 | House of Pain | 0.60% | ~6,586 |
 | Holiday Get-Together | 0.60% | ~6,586 |
 | Near-Death Experience | 0.60% | ~6,586 |
-| Cherish your Life | 0.60% | ~6,586 |
 | Cutting Out | 0.60% | ~6,586 |
 | Classy Act | 0.60% | ~6,586 |
 | One More Step | 0.60% | ~6,586 |
 | MU/TH/UR Dearest | 0.60% | ~6,586 |
-| Blood on your face | 0.50% | ~5,488 |
-| Shock Therapy | 0.50% | ~5,488 |
-| Leapfrog | 0.50% | ~5,488 |
-| Cottage Owner | 0.50% | ~5,488 |
-| Escaping the Nightmare | 0.50% | ~5,488 |
-| Campbell's Chapel Legacy | 0.50% | ~5,488 |
-| Ancestor's Rite | 0.50% | ~5,488 |
-| Outrun Evil | 0.50% | ~5,488 |
-| Grim Pilgrimage | 0.50% | ~5,488 |
-| Outrun the Overlap | 0.50% | ~5,488 |
-| A Fast Death | 0.50% | ~5,488 |
-| Extraterrestrial | 0.50% | ~5,488 |
-| Outta Nowhere | 0.50% | ~5,488 |
+| Blood on your face | 0.50% | ~5,489 |
+| Shock Therapy | 0.50% | ~5,489 |
+| Leapfrog | 0.50% | ~5,489 |
+| Cottage Owner | 0.50% | ~5,489 |
+| Escaping the Nightmare | 0.50% | ~5,489 |
+| Campbell's Chapel Legacy | 0.50% | ~5,489 |
+| Ancestor's Rite | 0.50% | ~5,489 |
+| Outrun Evil | 0.50% | ~5,489 |
+| Grim Pilgrimage | 0.50% | ~5,489 |
+| Outrun the Overlap | 0.50% | ~5,489 |
+| A Fast Death | 0.50% | ~5,489 |
+| Extraterrestrial | 0.50% | ~5,489 |
+| Outta Nowhere | 0.50% | ~5,489 |
 | A bite for the Entity | 0.40% | ~4,391 |
 | Hemophobia | 0.40% | ~4,391 |
 | Serial Killer | 0.40% | ~4,391 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,098 |
 | Adept Good Guy | 0.10% | ~1,098 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,097,662 (Ranked 12)  
+Progressed: 1,097,709 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -479,7 +479,7 @@ Completed: 62 (0.01%) (Ranked 353)
 | 2023-12-13 | 1,092,812 | 62 |
 | 2023-12-14 | 1,095,217 | 62 |
 | 2023-12-15 | 1,097,468 | 62 |
-| 2023-12-16 | 1,097,662 | 62 |
+| 2023-12-16 | 1,097,709 | 62 |
 ## Awards
 Max (Diverse Characters): 37,936  (Ranked 15)  
 Sum: 287,438 (Ranked 12)  

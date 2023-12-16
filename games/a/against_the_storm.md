@@ -9,10 +9,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 5.00% | ~914 |
 | Overgrown Library | 5.00% | ~914 |
 | Petrified Necropolis | 4.00% | ~731 |
-| Frosts | 3.00% | ~548 |
-| Land of Greed | 3.00% | ~548 |
-| Ominous Presence | 3.00% | ~548 |
-| Gathering Storm | 3.00% | ~548 |
+| Frosts | 3.00% | ~549 |
+| Land of Greed | 3.00% | ~549 |
+| Ominous Presence | 3.00% | ~549 |
+| Gathering Storm | 3.00% | ~549 |
 | First Real Expedition | 2.00% | ~366 |
 | Overcoming Difficulty | 2.00% | ~366 |
 | Coral Forest | 2.00% | ~366 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,283 (Ranked 147)  
+Progressed: 18,285 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,11 +306,11 @@ Completed: 39 (0.21%) (Ranked 261)
 | 2023-12-13 | 18,048 | 40 |
 | 2023-12-14 | 18,153 | 40 |
 | 2023-12-15 | 18,272 | 39 |
-| 2023-12-16 | 18,283 | 39 |
+| 2023-12-16 | 18,285 | 39 |
 ## Awards
-Max (Quickly Understood Controls): 442  (Ranked 227)  
+Max (Quickly Understood Controls): 442  (Ranked 226)  
 Sum: 3,262 (Ranked 174)  
-Diff (max vs sum): 53  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 442 |

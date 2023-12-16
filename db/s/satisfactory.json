@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 14,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 514,
+  "Ranking_EOS_NewPlayers": 515,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2019-03-19T14:00:00+00:00",
@@ -14729,10 +14729,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 111441,
       "NumberOfAwardsMax": 14021
+    },
+    {
+      "Time": "2023-12-16T02:18:41.6943769+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 111471,
+      "NumberOfAwardsMax": 14021
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 111441,
+  "NumberOfAwards": 111471,
   "NumberOfAwardsMax": 14021,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -14782,7 +14788,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 11128
+      "Count": 11158
     },
     {
       "Text": "This game has a Creative Community",
@@ -14822,9 +14828,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "FirstSeenAchievements": "2023-09-19T23:04:48.6869528+00:00",
-  "LastChanged": "2023-12-15T23:57:55.153807+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:49:31.9401094+00:00",
+  "LastChanged": "2023-12-16T02:18:41.6943764+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:23:04.7130306+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.2911694+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:43:08.597742+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:49:31.9401132+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:18:41.6943773+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:23:04.7130343+00:00"
 }

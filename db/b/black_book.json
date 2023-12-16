@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -668,9 +668,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 60229,
+  "EOS_Progressed": 60231,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 1471,
+  "EOS_NewPlayers": 1472,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13368,6 +13368,11 @@
       "Time": "2023-12-16T01:50:34.1729395+00:00",
       "NumProgressed": 60229,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-16T02:24:07.5693122+00:00",
+      "NumProgressed": 60231,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -13492,7 +13497,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 13250
+      "UsersEstimate": 13251
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -13580,7 +13585,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 16864
+      "UsersEstimate": 16865
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -13628,7 +13633,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7227
+      "UsersEstimate": 7228
     },
     {
       "ID": "NORMAL_END",
@@ -13692,7 +13697,7 @@
       "Name": "Susanin",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3011
+      "UsersEstimate": 3012
     },
     {
       "ID": "TALES_1",
@@ -13700,7 +13705,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 9034
+      "UsersEstimate": 9035
     },
     {
       "ID": "TALES_2",
@@ -13724,7 +13729,7 @@
       "Name": "Traveller",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3011
+      "UsersEstimate": 3012
     },
     {
       "ID": "WATER",
@@ -13779,15 +13784,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 60229,
+      "Progressed": 60231,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:50:34.1729392+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:24:07.5693118+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:06.7954209+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:47:48.410475+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:50:34.1730201+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:21:19.7801458+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:24:07.5693889+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,11 +20,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 623,
+  "EOS_Progressed": 624,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.61,
+  "EOS_Completed_Percentage": 1.6,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -2225,6 +2225,11 @@
       "Time": "2023-12-16T01:54:28.1579824+00:00",
       "NumProgressed": 623,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-16T02:27:51.7122846+00:00",
+      "NumProgressed": 624,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2245,7 +2250,7 @@
       "Name": "Holey Moley",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "achievement_11",
@@ -2253,7 +2258,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "achievement_12",
@@ -2261,7 +2266,7 @@
       "Name": "From Way Downtown",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "achievement_13",
@@ -2283,9 +2288,9 @@
       "ID": "achievement_15",
       "SetID": "7ldgi7j",
       "Name": "Victory Lap",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_16",
@@ -2309,7 +2314,7 @@
       "Name": "Perfect Round",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "achievement_2",
@@ -2325,7 +2330,7 @@
       "Name": "A Passion for Excellence",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "achievement_4",
@@ -2357,7 +2362,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "achievement_8",
@@ -2380,13 +2385,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 623,
+      "Progressed": 624,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:54:28.1579822+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:27:51.7122843+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:12.3261518+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:45:20.8071995+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:54:28.1580035+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:20:53.6769909+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:27:51.7123078+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.38 (Ranked 771)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~770,250 |
-| The ABCs | 43.00% | ~675,934 |
-| Home Run | 41.00% | ~644,495 |
-| Keeps Coming Off | 41.00% | ~644,495 |
-| Guts | 19.00% | ~298,668 |
-| Meat Grinder | 19.00% | ~298,668 |
-| Burning Man | 16.00% | ~251,510 |
-| Lived to Tell the Tale | 12.00% | ~188,633 |
-| Highlander | 10.00% | ~157,194 |
-| Unstoppable | 10.00% | ~157,194 |
+| Justice from the Grave | 49.00% | ~770,254 |
+| The ABCs | 43.00% | ~675,937 |
+| Home Run | 41.00% | ~644,498 |
+| Keeps Coming Off | 41.00% | ~644,498 |
+| Guts | 19.00% | ~298,670 |
+| Meat Grinder | 19.00% | ~298,670 |
+| Burning Man | 16.00% | ~251,511 |
+| Lived to Tell the Tale | 12.00% | ~188,634 |
+| Highlander | 10.00% | ~157,195 |
+| Unstoppable | 10.00% | ~157,195 |
 | Just a Scratch | 9.00% | ~141,475 |
-| Tough Nut to Crack | 6.00% | ~94,316 |
-| Yoink | 6.00% | ~94,316 |
+| Tough Nut to Crack | 6.00% | ~94,317 |
+| Yoink | 6.00% | ~94,317 |
 | Long List of Names | 4.00% | ~62,878 |
 | Pyromaniac | 4.00% | ~62,878 |
 | The Queen of Weapons | 4.00% | ~62,878 |
@@ -30,9 +30,9 @@ Rating: 4.38 (Ranked 771)
 | You’re Welcome | 2.00% | ~31,439 |
 | Chambermaid | 1.00% | ~15,719 |
 | Coming Through | 1.00% | ~15,719 |
-| Boxer | 0.90% | ~14,147 |
-| Flyswatter | 0.90% | ~14,147 |
-| Training Accident | 0.90% | ~14,147 |
+| Boxer | 0.90% | ~14,148 |
+| Flyswatter | 0.90% | ~14,148 |
+| Training Accident | 0.90% | ~14,148 |
 | Friend Indeed | 0.70% | ~11,004 |
 | Rock’n’Roll | 0.70% | ~11,004 |
 | Virtuoso | 0.70% | ~11,004 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 771)
 | That’s No Ordinary Cold | 0.10% | ~1,572 |
 | Stairway to Hell | 0.10% | ~1,572 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,571,939 (Ranked 7)  
+Progressed: 1,571,946 (Ranked 7)  
 Completed: 70 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 70 (0.00%) (Ranked 377)
 | 2023-12-13 | 1,570,880 | 70 |
 | 2023-12-14 | 1,571,376 | 70 |
 | 2023-12-15 | 1,571,888 | 70 |
-| 2023-12-16 | 1,571,939 | 70 |
+| 2023-12-16 | 1,571,946 | 70 |
 ## Awards
 Max (Diverse Characters): 1,060  (Ranked 149)  
 Sum: 5,546 (Ranked 135)  

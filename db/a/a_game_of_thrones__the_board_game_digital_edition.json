@@ -3,7 +3,7 @@
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 918,
-  "Ranking_Popularity": 341,
+  "Ranking_Popularity": 340,
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 245,
@@ -1338,9 +1338,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 30462,
+  "EOS_Progressed": 30463,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 503,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -26993,6 +26993,11 @@
       "Time": "2023-12-16T01:54:34.0802469+00:00",
       "NumProgressed": 30462,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-12-16T02:27:57.6458838+00:00",
+      "NumProgressed": 30463,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 22,
@@ -27124,7 +27129,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6092
+      "UsersEstimate": 6093
     },
     {
       "ID": "1031",
@@ -27179,15 +27184,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 30462,
+      "Progressed": 30463,
       "Completed": 84
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-14T16:59:42.0682622+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:54:34.0802467+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:27:57.6458836+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:17.8374063+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:45:02.3356709+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:54:34.0803884+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:20:35.1675578+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:27:57.6460087+00:00"
 }

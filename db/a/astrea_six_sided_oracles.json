@@ -2,9 +2,9 @@
   "ID": "a940fa38f001486a9884640924119576",
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
-  "Ranking_EOS_Progress": 419,
+  "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -634,6 +634,11 @@
       "Time": "2023-12-16T00:06:15.5032699+00:00",
       "NumProgressed": 140,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T02:25:00.4344649+00:00",
+      "NumProgressed": 141,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -654,7 +659,7 @@
       "Name": "Anomaly Destroyer",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "AnomalyMaster",
@@ -742,7 +747,7 @@
       "Name": "Astral Seeker",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "AstralTinkerer",
@@ -870,7 +875,7 @@
       "Name": "Dicesmithing Time!",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "EndlessTricks",
@@ -926,7 +931,7 @@
       "Name": "Heart Gate",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "HeavyPurger",
@@ -990,7 +995,7 @@
       "Name": "Mechanical Buddy",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "MeissasSavior",
@@ -1004,9 +1009,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1150,7 +1155,7 @@
       "Name": "Stellar Dismantler",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "StellarHaste",
@@ -1158,7 +1163,7 @@
       "Name": "Stellar Haste",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "TheAbyssalTerror",
@@ -1278,7 +1283,7 @@
       "Name": "Wild\u0027s Keeper",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ApianChampion",
@@ -1286,7 +1291,7 @@
       "Name": "Apian Champion",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ApianHero",
@@ -1382,7 +1387,7 @@
       "Name": "Lacertian Champion",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "LacertianHero",
@@ -1406,7 +1411,7 @@
       "Name": "Noctuan Champion",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "NoctuanHero",
@@ -1429,14 +1434,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 141,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:51:27.1860975+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:25:00.4344646+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.3287789+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:44:04.2489839+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:51:27.1861808+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:19:36.3423632+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:25:00.4345404+00:00"
 }

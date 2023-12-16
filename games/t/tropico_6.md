@@ -289,8 +289,8 @@ Completed: 2 (0.03%) (Ranked 338)
 | 2023-12-15 | 6,377 | 2 |
 | 2023-12-16 | 6,384 | 2 |
 ## Awards
-Max (Highly Recommended): 104  (Ranked 365)  
-Sum: 739 (Ranked 295)  
+Max (Highly Recommended): 104  (Ranked 364)  
+Sum: 739 (Ranked 294)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |

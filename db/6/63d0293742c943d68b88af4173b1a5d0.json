@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -1335,9 +1335,9 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 122
     },
     {
       "ID": "REMAKE_002",
@@ -1375,9 +1375,9 @@
       "ID": "Remake_007",
       "SetID": "5pi96jj",
       "Name": "Deez Buffs Make Me Go Nuts",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 118
     },
     {
       "ID": "Remake_008",
@@ -1391,9 +1391,9 @@
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 106
     },
     {
       "ID": "Remake_010",
@@ -1510,8 +1510,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:49:06.2453933+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:22:39.1516469+00:00",
   "LastUpdate_AppInfo": "2023-12-11T23:56:59.5421023+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:44:50.8047097+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:49:06.2454135+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:20:22.4441875+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:22:39.1516636+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 758,
-  "Ranking_Popularity": 433,
-  "Ranking_PopularitySum": 358,
+  "Ranking_Popularity": 432,
+  "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 163,
@@ -1333,9 +1333,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259383,
+  "EOS_Progressed": 259385,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24218,6 +24218,11 @@
       "Time": "2023-12-15T23:04:31.3880408+00:00",
       "NumProgressed": 259383,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T02:23:18.6200151+00:00",
+      "NumProgressed": 259385,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -24341,7 +24346,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7781
+      "UsersEstimate": 7782
     },
     {
       "ID": "CreditLevel3",
@@ -24469,7 +24474,7 @@
       "Name": "It took a while",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7781
+      "UsersEstimate": 7782
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -24501,7 +24506,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7781
+      "UsersEstimate": 7782
     },
     {
       "ID": "KillOtherWithMine",
@@ -24517,7 +24522,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59658
+      "UsersEstimate": 59659
     },
     {
       "ID": "KillOthers2",
@@ -24676,7 +24681,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259383,
+      "Progressed": 259385,
       "Completed": 3
     }
   ],
@@ -24684,8 +24689,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-15T11:02:49.2718572+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:49:45.4623547+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:23:18.6200149+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:52.9725586+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:47:47.5553884+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:49:45.4624704+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:21:18.8499731+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:23:18.6201478+00:00"
 }

@@ -5,9 +5,9 @@
   "Ranking_Rating": 547,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 512,
-  "Ranking_EOS_Progress": 482,
+  "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 77,
+  "EOS_Progressed": 79,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -601,6 +601,11 @@
       "Time": "2023-12-16T01:53:40.5614295+00:00",
       "NumProgressed": 77,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T02:27:03.5291205+00:00",
+      "NumProgressed": 79,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -611,7 +616,7 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
       "UsersEstimate": 45
     },
@@ -643,9 +648,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -683,7 +688,7 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -723,7 +728,7 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 31
     },
@@ -747,9 +752,9 @@
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -949,7 +954,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -964,7 +969,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 77,
+      "Progressed": 79,
       "Completed": 0
     }
   ],
@@ -972,8 +977,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:53:40.5614291+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:27:03.5291202+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:04.5493724+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:44:24.598686+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:53:40.561455+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:19:56.5738623+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:27:03.5291435+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
   "Ranking_Rating": 388,
-  "Ranking_Popularity": 415,
-  "Ranking_PopularitySum": 334,
+  "Ranking_Popularity": 413,
+  "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 514,
+  "Ranking_EOS_NewPlayers": 515,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1591,12 +1591,18 @@
       "Rating": 4.61,
       "NumberOfAwards": 479,
       "NumberOfAwardsMax": 65
+    },
+    {
+      "Time": "2023-12-16T02:17:51.3501905+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 481,
+      "NumberOfAwardsMax": 66
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 479,
-  "NumberOfAwardsMax": 65,
-  "MaxAwardTitle": "Great for Quick Sessions",
+  "NumberOfAwards": 481,
+  "NumberOfAwardsMax": 66,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1614,7 +1620,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 65
+      "Count": 66
     },
     {
       "Text": "This game has Competitive Players",
@@ -1626,7 +1632,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game is Educational",
@@ -1683,8 +1689,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-12-15T22:57:07.3940459+00:00",
+  "LastChanged": "2023-12-16T02:17:51.3501904+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.7062582+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:42:17.5484056+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:50:50.7648544+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:17:51.3501909+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:24:23.952383+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 68,
-  "Ranking_Popularity": 227,
+  "Ranking_Popularity": 226,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 261,
@@ -3461,9 +3461,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18283,
+  "EOS_Progressed": 18285,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 567,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15871,6 +15871,11 @@
       "Time": "2023-12-16T01:49:08.7802498+00:00",
       "NumProgressed": 18283,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-16T02:22:41.8060567+00:00",
+      "NumProgressed": 18285,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16291,7 +16296,7 @@
       "Name": "Frosts",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "WinNearGreed",
@@ -16299,7 +16304,7 @@
       "Name": "Land of Greed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "WinNearLibrary",
@@ -16323,7 +16328,7 @@
       "Name": "Ominous Presence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "WinNearStorms",
@@ -16331,7 +16336,7 @@
       "Name": "Gathering Storm",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -16354,15 +16359,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18283,
+      "Progressed": 18285,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-15T16:01:40.7819682+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:49:08.7802495+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:22:41.8060564+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:45:29.1303082+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:49:08.780339+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:21:02.0523805+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:22:41.8061429+00:00"
 }

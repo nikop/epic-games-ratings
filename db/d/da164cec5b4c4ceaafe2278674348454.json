@@ -4,7 +4,7 @@
   "ProductSlug": "protocorgi",
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 514,
+  "Ranking_EOS_NewPlayers": 515,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -41,8 +41,8 @@
   ],
   "FirstSeen": "2023-06-19T07:57:10.6142502+00:00",
   "FirstSeenAchievements": "2023-06-15T16:00:17.539634+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:50:33.8179929+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:24:07.2238631+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:05.6549581+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:42:38.4188196+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:50:33.8179957+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:18:11.7681334+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:24:07.223866+00:00"
 }

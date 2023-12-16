@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -221,9 +221,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1193,
+  "EOS_Progressed": 1194,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.51,
   "EosHistory": [
@@ -2541,6 +2541,11 @@
       "Time": "2023-12-16T01:48:18.6896219+00:00",
       "NumProgressed": 1193,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-16T02:21:51.44183+00:00",
+      "NumProgressed": 1194,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -2568,7 +2573,7 @@
       "Name": "Soulmate?",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -2608,7 +2613,7 @@
       "Name": "Broken heart",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -2616,7 +2621,7 @@
       "Name": "No need to call anyone",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -2648,7 +2653,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -2656,7 +2661,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -2680,7 +2685,7 @@
       "Name": "Island boy",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -2760,14 +2765,14 @@
       "Name": "I think you dropped this",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1193,
+      "Progressed": 1194,
       "Completed": 18
     }
   ],
@@ -2775,8 +2780,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-16T01:44:03.2880025+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:48:18.6896215+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:21:51.4418297+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:05.3714871+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:44:03.2880039+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:48:18.689665+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:19:35.2824483+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:21:51.4418613+00:00"
 }

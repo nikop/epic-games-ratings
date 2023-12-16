@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 500,
+  "EOS_Progressed": 504,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -1345,6 +1345,11 @@
       "Time": "2023-12-16T01:54:52.3422049+00:00",
       "NumProgressed": 500,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T02:28:16.1135842+00:00",
+      "NumProgressed": 504,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1354,9 +1359,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_02",
@@ -1428,7 +1433,7 @@
       "Name": "Trinity",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_11",
@@ -1643,14 +1648,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 500,
+      "Progressed": 504,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:54:52.3422047+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:28:16.113584+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:43:41.3764708+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:54:52.3422269+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:19:13.573511+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:28:16.113608+00:00"
 }

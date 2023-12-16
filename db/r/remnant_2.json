@@ -5625,9 +5625,9 @@
       "Count": 432
     }
   ],
-  "EOS_Progressed": 245776,
+  "EOS_Progressed": 245825,
   "EOS_Completed": 588,
-  "EOS_NewPlayers": 8681,
+  "EOS_NewPlayers": 8719,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -23185,6 +23185,11 @@
       "Time": "2023-12-16T01:54:18.5006484+00:00",
       "NumProgressed": 245776,
       "NumCompleted": 588
+    },
+    {
+      "Time": "2023-12-16T02:27:41.9183044+00:00",
+      "NumProgressed": 245825,
+      "NumCompleted": 588
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -23245,7 +23250,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -23277,7 +23282,7 @@
       "Name": "The Killing Jar",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7373
+      "UsersEstimate": 7375
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -23301,7 +23306,7 @@
       "Name": "Not So Special Now",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -23341,7 +23346,7 @@
       "Name": "Not a Janitor",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "Meet_Flautist",
@@ -23357,7 +23362,7 @@
       "Name": "Equal Measures",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "Meet_Mudtooth",
@@ -23373,7 +23378,7 @@
       "Name": "Blue Goddess",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "Obtain_Archetype",
@@ -23381,7 +23386,7 @@
       "Name": "First of Many",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7373
+      "UsersEstimate": 7375
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -23389,7 +23394,7 @@
       "Name": "Duality",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -23549,7 +23554,7 @@
       "Name": "Make Some Room",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -23573,7 +23578,7 @@
       "Name": "Trait Chaser",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -23597,7 +23602,7 @@
       "Name": "Regicide",
       "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -23636,13 +23641,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 245776,
+      "Progressed": 245825,
       "Completed": 588
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 24941,
+      "Progressed": 24990,
       "Completed": 257
     }
   ],
@@ -23650,8 +23655,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-15T20:03:51.3523564+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:54:18.5006481+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:27:41.9183041+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:18.6047456+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:48:15.3679677+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:54:18.5007421+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:21:46.8243439+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:27:41.9183966+00:00"
 }

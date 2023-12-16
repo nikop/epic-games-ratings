@@ -1562,9 +1562,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 132747,
+  "EOS_Progressed": 132750,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 1001,
+  "EOS_NewPlayers": 1004,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -24902,6 +24902,11 @@
       "Time": "2023-12-16T01:48:58.9043767+00:00",
       "NumProgressed": 132747,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-16T02:22:31.3388561+00:00",
+      "NumProgressed": 132750,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -24921,7 +24926,7 @@
       "Name": "Cause a ****storm",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_COMMITTEE",
@@ -24945,7 +24950,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23894
+      "UsersEstimate": 23895
     },
     {
       "ID": "ACH_COP_BAD",
@@ -24961,7 +24966,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11947
+      "UsersEstimate": 11948
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -24969,7 +24974,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31859
+      "UsersEstimate": 31860
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -24977,7 +24982,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11947
+      "UsersEstimate": 11948
     },
     {
       "ID": "ACH_COP_DORK",
@@ -24985,7 +24990,7 @@
       "Name": "Massive Torque Dork",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "ACH_COP_GOOD",
@@ -24993,7 +24998,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 37169
+      "UsersEstimate": 37170
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -25025,7 +25030,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27877
+      "UsersEstimate": 27878
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -25041,7 +25046,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17257
+      "UsersEstimate": 17258
     },
     {
       "ID": "ACH_COP_STAR",
@@ -25089,7 +25094,7 @@
       "Name": "True Detective",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_HARDCORE_TASK",
@@ -25113,7 +25118,7 @@
       "Name": "The Icebreaker",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_INFRAMATERIALIST",
@@ -25121,7 +25126,7 @@
       "Name": "Avowed Inframaterialist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "ACH_KIM",
@@ -25232,15 +25237,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 132747,
+      "Progressed": 132750,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-12-14T12:01:28.0162102+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:48:58.9043728+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:22:31.3388557+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:13.3373755+00:00",
-  "LastUpdate_Ratings": "2023-12-16T00:00:20.7237554+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:48:58.9044814+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:17:47.6491164+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:22:31.3390225+00:00"
 }

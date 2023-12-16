@@ -6,12 +6,12 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~120,667 |
-| Incurious | 18.00% | ~120,667 |
+| Advanced Stroller | 18.00% | ~120,668 |
+| Incurious | 18.00% | ~120,668 |
 | Climate Change | 16.00% | ~107,260 |
 | Stroller | 15.00% | ~100,556 |
-| Toy Train | 14.00% | ~93,852 |
-| Advanced Hiker | 13.00% | ~87,148 |
+| Toy Train | 14.00% | ~93,853 |
+| Advanced Hiker | 13.00% | ~87,149 |
 | Hiker | 12.00% | ~80,445 |
 | Mojave Courier | 6.00% | ~40,222 |
 | Saved by Nausicaä | 6.00% | ~40,222 |
@@ -21,8 +21,8 @@ Number of Ratings: 21,990  (23.09.2022)
 | Voyager | 3.00% | ~20,111 |
 | Marathon | 3.00% | ~20,111 |
 | Destructionist | 3.00% | ~20,111 |
-| Expert Hiker | 2.00% | ~13,407 |
-| Lost | 2.00% | ~13,407 |
+| Expert Hiker | 2.00% | ~13,408 |
+| Lost | 2.00% | ~13,408 |
 | Rocketman | 0.80% | ~5,363 |
 | Expert Voyager | 0.70% | ~4,693 |
 | Nanuk | 0.70% | ~4,693 |
@@ -30,9 +30,9 @@ Number of Ratings: 21,990  (23.09.2022)
 | Dynamite Fishing | 0.70% | ~4,693 |
 | Terminal Station | 0.60% | ~4,022 |
 | Scrooge | 0.50% | ~3,352 |
-| Wayfarer | 0.40% | ~2,681 |
-| Advanced Wayfarer | 0.40% | ~2,681 |
-| Tough Nut! | 0.40% | ~2,681 |
+| Wayfarer | 0.40% | ~2,682 |
+| Advanced Wayfarer | 0.40% | ~2,682 |
+| Tough Nut! | 0.40% | ~2,682 |
 | Trans-Siberian Railway | 0.30% | ~2,011 |
 | Engineer | 0.30% | ~2,011 |
 | Satan's Minion | 0.30% | ~2,011 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~670 |
 | 20 Miles under the Sea | 0.10% | ~670 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670,373 (Ranked 29)  
+Progressed: 670,375 (Ranked 29)  
 Completed: 12 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,11 +299,11 @@ Completed: 12 (0.00%) (Ranked 377)
 | 2023-12-13 | 669,796 | 12 |
 | 2023-12-14 | 670,057 | 12 |
 | 2023-12-15 | 670,355 | 12 |
-| 2023-12-16 | 670,373 | 12 |
+| 2023-12-16 | 670,375 | 12 |
 ## Awards
-Max (Great for Beginners): 202  (Ranked 291)  
+Max (Great for Beginners): 202  (Ranked 290)  
 Sum: 1,611 (Ranked 232)  
-Diff (max vs sum): 59  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 202 |

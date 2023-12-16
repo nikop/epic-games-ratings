@@ -5,20 +5,20 @@ Rating: 4.56 (Ranked 497)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~11,828 |
-| Pay 'n' Spray | 51.00% | ~7,448 |
-| All Dressed Up for San Fierro | 26.00% | ~3,797 |
-| The American Dream | 20.00% | ~2,921 |
-| School's Out | 19.00% | ~2,775 |
-| Smooth Moves | 17.00% | ~2,483 |
-| What happens in Las Venturas... | 15.00% | ~2,190 |
-| Today Was a Good Day | 15.00% | ~2,190 |
-| Horror of the Santa Maria | 11.00% | ~1,606 |
-| Liberty City State of Mind | 10.00% | ~1,460 |
-| The End of the Line | 8.00% | ~1,168 |
-| Original Gangster | 8.00% | ~1,168 |
-| With Extra Dip | 7.00% | ~1,022 |
-| Saviour | 6.00% | ~876 |
+| Getting Started | 81.00% | ~11,833 |
+| Pay 'n' Spray | 51.00% | ~7,451 |
+| All Dressed Up for San Fierro | 26.00% | ~3,798 |
+| The American Dream | 19.00% | ~2,776 |
+| School's Out | 19.00% | ~2,776 |
+| Smooth Moves | 17.00% | ~2,484 |
+| What happens in Las Venturas... | 15.00% | ~2,191 |
+| Today Was a Good Day | 15.00% | ~2,191 |
+| Horror of the Santa Maria | 11.00% | ~1,607 |
+| Liberty City State of Mind | 10.00% | ~1,461 |
+| The End of the Line | 8.00% | ~1,169 |
+| Original Gangster | 8.00% | ~1,169 |
+| With Extra Dip | 7.00% | ~1,023 |
+| Saviour | 6.00% | ~877 |
 | They Can’t Stop All of Us | 5.00% | ~730 |
 | Rescue a Kitten Too? | 5.00% | ~730 |
 | What are the Odds | 4.00% | ~584 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 497)
 | ...Here we go again | 0.50% | ~73 |
 | I Ain't No Buster | 0.40% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,603 (Ranked 158)  
+Progressed: 14,609 (Ranked 158)  
 Completed: 58 (0.40%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,10 +281,10 @@ Completed: 58 (0.40%) (Ranked 223)
 | 2023-12-13 | 14,007 | 57 |
 | 2023-12-14 | 14,291 | 58 |
 | 2023-12-15 | 14,573 | 58 |
-| 2023-12-16 | 14,603 | 58 |
+| 2023-12-16 | 14,609 | 58 |
 ## Awards
-Max (Great Boss Battles): 444  (Ranked 225)  
-Sum: 730 (Ranked 297)  
+Max (Great Boss Battles): 444  (Ranked 224)  
+Sum: 730 (Ranked 296)  
 Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |

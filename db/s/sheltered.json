@@ -3,11 +3,11 @@
   "Name": "Sheltered",
   "ProductSlug": "sheltered",
   "Ranking_Rating": 729,
-  "Ranking_Popularity": 264,
-  "Ranking_PopularitySum": 379,
+  "Ranking_Popularity": 263,
+  "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 514,
+  "Ranking_EOS_NewPlayers": 515,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
@@ -787,6 +787,6 @@
   "FirstSeen": "2022-07-22T20:17:02.2392677+00:00",
   "LastChanged": "2023-12-09T14:01:56.5838462+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:02.0194276+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:44:52.0636745+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:50:15.2466803+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:20:23.7948662+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:23:48.8253793+00:00"
 }

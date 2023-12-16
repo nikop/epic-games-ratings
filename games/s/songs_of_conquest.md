@@ -36,6 +36,7 @@ Number of Ratings: 292  (23.09.2022)
 | Unlimited Power! | 0.60% | ~3 |
 | Together For Her | 0.60% | ~3 |
 | From the Ashes | 0.60% | ~3 |
+| Fully Charged | 0.40% | ~2 |
 | Coming Through! | 0.40% | ~2 |
 | Barbecue | 0.40% | ~2 |
 | In The Thick of It | 0.40% | ~2 |
@@ -45,7 +46,6 @@ Number of Ratings: 292  (23.09.2022)
 | Bringer of Ruin | 0.20% | ~1 |
 | Attack Bonanza | 0.20% | ~1 |
 | Hello There | 0.20% | ~1 |
-| Fully Charged | 0.20% | ~1 |
 | Killing Spree | 0.20% | ~1 |
 | An Empress's Hope | 0.20% | ~1 |
 | The Price of Freedom | 0.00% | ~0 |

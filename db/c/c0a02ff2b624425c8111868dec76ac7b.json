@@ -4,7 +4,7 @@
   "ProductSlug": "worldless-49eae3",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
@@ -843,8 +843,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:50:02.9013958+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:23:35.7446268+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.2100039+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:43:03.9308849+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:50:02.9014086+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:18:37.4345072+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:23:35.7446439+00:00"
 }

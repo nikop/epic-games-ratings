@@ -6,7 +6,7 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16434,
+  "EOS_Progressed": 16436,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13967,6 +13967,11 @@
       "Time": "2023-12-16T01:53:19.5889621+00:00",
       "NumProgressed": 16434,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-16T02:25:11.5763628+00:00",
+      "NumProgressed": 16436,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14011,7 +14016,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "14",
@@ -14043,7 +14048,7 @@
       "Name": "Spore Taste",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "18",
@@ -14059,7 +14064,7 @@
       "Name": "Martian Music",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "2",
@@ -14258,13 +14263,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16434,
+      "Progressed": 16436,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2388,
+      "Progressed": 2390,
       "Completed": 893
     }
   ],
@@ -14272,8 +14277,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:53:19.5889617+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:25:11.5763625+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:43:07.9947981+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:53:19.589047+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:18:41.0245338+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:25:11.5764438+00:00"
 }

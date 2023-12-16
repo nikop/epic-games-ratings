@@ -1,26 +1,26 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.14 (Ranked 969)  
+Rating: 4.15 (Ranked 962)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 10.00% | ~4,395 |
-| Unlocked Potential | 9.00% | ~3,955 |
-| Tinkerer | 7.00% | ~3,076 |
+| Unlocked Potential | 9.00% | ~3,956 |
+| Tinkerer | 7.00% | ~3,077 |
 | Leapfrogger | 6.00% | ~2,637 |
 | Knock 'Em Dead | 6.00% | ~2,637 |
 | Pilgrimage: Initiate | 6.00% | ~2,637 |
 | Hell of a Run | 6.00% | ~2,637 |
 | Call of the Fount: Baptized | 6.00% | ~2,637 |
-| No Mercy | 5.00% | ~2,197 |
-| Explorer: Seeker | 5.00% | ~2,197 |
+| No Mercy | 5.00% | ~2,198 |
+| Explorer: Seeker | 5.00% | ~2,198 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,758 |
 | Stuck | 4.00% | ~1,758 |
 | Help Me Out Here | 4.00% | ~1,758 |
-| The Interloper | 3.00% | ~1,318 |
-| Hop, Step, Jump | 3.00% | ~1,318 |
-| Endless Runner | 3.00% | ~1,318 |
+| The Interloper | 3.00% | ~1,319 |
+| Hop, Step, Jump | 3.00% | ~1,319 |
+| Endless Runner | 3.00% | ~1,319 |
 | Outdoorsperson | 2.00% | ~879 |
 | What Must Be Done | 2.00% | ~879 |
 | Might and Main | 2.00% | ~879 |
@@ -28,12 +28,12 @@ Rating: 4.14 (Ranked 969)
 | Explorer: Pathfinder | 2.00% | ~879 |
 | Shocker | 2.00% | ~879 |
 | From Every Angle | 2.00% | ~879 |
-| The Hue of Blue | 1.00% | ~439 |
-| The Truth Will Out | 1.00% | ~439 |
-| Breaking Point | 1.00% | ~439 |
-| None the Wiser | 1.00% | ~439 |
-| Forspoken | 1.00% | ~439 |
-| Pilgrimage: Novice | 1.00% | ~439 |
+| The Hue of Blue | 1.00% | ~440 |
+| The Truth Will Out | 1.00% | ~440 |
+| Breaking Point | 1.00% | ~440 |
+| None the Wiser | 1.00% | ~440 |
+| Forspoken | 1.00% | ~440 |
+| Pilgrimage: Novice | 1.00% | ~440 |
 | Wildfire | 0.70% | ~308 |
 | Awakening | 0.60% | ~264 |
 | Explorer: Trailblazer | 0.60% | ~264 |
@@ -59,7 +59,7 @@ Rating: 4.14 (Ranked 969)
 | Remembrance | 0.10% | ~44 |
 | Cat Person | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,949 (Ranked 119)  
+Progressed: 43,954 (Ranked 119)  
 Completed: 3 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 3 (0.01%) (Ranked 353)
 | 2023-12-13 | 43,625 | 3 |
 | 2023-12-14 | 43,783 | 3 |
 | 2023-12-15 | 43,925 | 3 |
-| 2023-12-16 | 43,949 | 3 |
+| 2023-12-16 | 43,954 | 3 |
 ## Awards
 Max (Character Customization): 30  (Ranked 503)  
 Sum: 30 (Ranked 521)  
@@ -391,3 +391,4 @@ Diff (max vs sum): -18
 | 2023-12-09 | 4.13 | 29 | 29 |
 | 2023-12-12 | 4.13 | 30 | 30 |
 | 2023-12-15 | 4.14 | 30 | 30 |
+| 2023-12-16 | 4.15 | 30 | 30 |

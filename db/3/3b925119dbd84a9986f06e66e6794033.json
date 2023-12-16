@@ -2,9 +2,9 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 362,
+  "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 319,
+  "EOS_Progressed": 321,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1139,6 +1139,11 @@
       "Time": "2023-12-16T01:54:30.8317123+00:00",
       "NumProgressed": 319,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T02:27:54.4613107+00:00",
+      "NumProgressed": 321,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1189,9 +1194,9 @@
       "ID": "HYPNO_OUTLIER_ID",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Self Aware",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     },
     {
       "ID": "HYPNO_OUTLIER_ONLY_ID",
@@ -1245,9 +1250,9 @@
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 71
     },
     {
       "ID": "TIME_ORWELL",
@@ -1261,9 +1266,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 67
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -1310,14 +1315,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 319,
+      "Progressed": 321,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:54:30.831712+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:27:54.4613104+00:00",
   "LastUpdate_AppInfo": "2023-12-16T01:42:15.0489028+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:47:42.978411+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:54:30.8317354+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:21:14.2919889+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:27:54.4613247+00:00"
 }

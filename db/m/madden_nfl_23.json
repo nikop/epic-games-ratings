@@ -3,7 +3,7 @@
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
   "Ranking_Rating": 865,
-  "Ranking_Popularity": 462,
+  "Ranking_Popularity": 461,
   "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 377,
@@ -925,7 +925,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3989,
+  "EOS_Progressed": 3990,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
@@ -7130,6 +7130,11 @@
       "Time": "2023-12-16T00:05:28.5950578+00:00",
       "NumProgressed": 3989,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T02:24:12.1288761+00:00",
+      "NumProgressed": 3990,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7174,7 +7179,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "achievement_14",
@@ -7190,7 +7195,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "achievement_16",
@@ -7198,7 +7203,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "achievement_17",
@@ -7206,7 +7211,7 @@
       "Name": "Pocket Ace",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_18",
@@ -7262,7 +7267,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_5",
@@ -7302,14 +7307,14 @@
       "Name": "Head-to-Head",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     }
   ],
   "AchievementSets": [
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3989,
+      "Progressed": 3990,
       "Completed": 0
     }
   ],
@@ -7317,8 +7322,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-14T04:03:15.2277546+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:50:38.6454193+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:24:12.1288756+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:06.4979086+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:47:58.8385958+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:50:38.6454543+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:21:29.831786+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:24:12.1289367+00:00"
 }

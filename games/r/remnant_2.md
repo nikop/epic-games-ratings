@@ -5,23 +5,23 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 3.00% | ~7,373 |
-| First of Many | 3.00% | ~7,373 |
+| The Killing Jar | 3.00% | ~7,375 |
+| First of Many | 3.00% | ~7,375 |
 | Not Your Average Trait | 2.00% | ~4,916 |
 | Expanding Horizons | 1.00% | ~2,458 |
 | Quest for Survival | 1.00% | ~2,458 |
 | Familiar Face | 1.00% | ~2,458 |
 | Boss'n Up | 0.90% | ~2,212 |
-| Regicide | 0.90% | ~224 |
-| Gleaming the Cube | 0.80% | ~1,966 |
-| Not a Janitor | 0.80% | ~1,966 |
-| Trait Chaser | 0.80% | ~1,966 |
+| Regicide | 0.90% | ~225 |
+| Gleaming the Cube | 0.80% | ~1,967 |
+| Not a Janitor | 0.80% | ~1,967 |
+| Trait Chaser | 0.80% | ~1,967 |
 | Master of the Dark Arts | 0.80% | ~200 |
-| Not So Special Now | 0.70% | ~1,720 |
-| Equal Measures | 0.70% | ~1,720 |
-| Blue Goddess | 0.70% | ~1,720 |
-| Duality | 0.70% | ~1,720 |
-| Make Some Room | 0.70% | ~1,720 |
+| Not So Special Now | 0.70% | ~1,721 |
+| Equal Measures | 0.70% | ~1,721 |
+| Blue Goddess | 0.70% | ~1,721 |
+| Duality | 0.70% | ~1,721 |
+| Make Some Room | 0.70% | ~1,721 |
 | Top Performer | 0.60% | ~1,475 |
 | Was This Supposed To Happen? | 0.60% | ~1,475 |
 | Almost There | 0.60% | ~1,475 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 150)
 | You Shall Pass | 0.20% | ~50 |
 | A Foul Feast | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,776 (Ranked 63)  
+Progressed: 245,825 (Ranked 63)  
 Completed: 588 (0.24%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 588 (0.24%) (Ranked 254)
 | 2023-12-13 | 239,544 | 584 |
 | 2023-12-14 | 242,166 | 585 |
 | 2023-12-15 | 245,556 | 588 |
-| 2023-12-16 | 245,776 | 588 |
+| 2023-12-16 | 245,825 | 588 |
 ## Awards
 Max (Great Boss Battles): 2,779  (Ranked 101)  
 Sum: 6,979 (Ranked 125)  

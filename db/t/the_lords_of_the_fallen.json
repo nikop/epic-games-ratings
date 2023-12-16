@@ -3,9 +3,9 @@
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen",
   "Ranking_Rating": 928,
-  "Ranking_Popularity": 294,
-  "Ranking_PopularitySum": 327,
-  "Ranking_EOS_Progress": 208,
+  "Ranking_Popularity": 293,
+  "Ranking_PopularitySum": 326,
+  "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 136,
@@ -957,9 +957,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3708,
+  "EOS_Progressed": 3724,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1414,
+  "EOS_NewPlayers": 1428,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4917,6 +4917,11 @@
       "Time": "2023-12-16T01:53:41.5653571+00:00",
       "NumProgressed": 3708,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-16T02:27:04.5681536+00:00",
+      "NumProgressed": 3724,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -5079,9 +5084,9 @@
       "ID": "TLOTF_ACHIEVEMENT_020",
       "SetID": "87e61g",
       "Name": "Comrades",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 11
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_021",
@@ -5432,7 +5437,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 3708,
+      "Progressed": 3724,
       "Completed": 2
     }
   ],
@@ -5440,8 +5445,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-15T16:59:21.0142262+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:53:41.5653567+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:27:04.5681533+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:58.7777436+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:44:55.3911156+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:53:41.5654122+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:20:28.0836511+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:27:04.5682097+00:00"
 }

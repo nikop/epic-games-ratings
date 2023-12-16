@@ -26,9 +26,9 @@ Number of Ratings: 892  (23.09.2022)
 | Chatterbox | 68.00% | ~376 |
 | Big Game Hunter | 66.00% | ~365 |
 | Financially Secure | 66.00% | ~365 |
+| Got Served | 66.00% | ~365 |
 | Officially Official | 65.00% | ~359 |
 | Lifeline Pipeline | 65.00% | ~359 |
-| Got Served | 65.00% | ~359 |
 | Builder of the Month | 64.00% | ~354 |
 | Panda-kin | 63.00% | ~348 |
 | Better Late than Never | 63.00% | ~348 |

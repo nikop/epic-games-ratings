@@ -4,7 +4,7 @@
   "ProductSlug": "ordinem-50c183",
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 514,
+  "Ranking_EOS_NewPlayers": 515,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-11T05:57:18.9898499+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:44:46.8844819+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:53:25.8517196+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:20:18.4727565+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:25:17.7320409+00:00"
 }

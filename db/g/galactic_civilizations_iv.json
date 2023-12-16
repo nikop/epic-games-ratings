@@ -3,8 +3,8 @@
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
   "Ranking_Rating": 950,
-  "Ranking_Popularity": 374,
-  "Ranking_PopularitySum": 305,
+  "Ranking_Popularity": 373,
+  "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 264,
@@ -895,10 +895,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 692,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2023-12-16T02:19:42.6495699+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 693,
+      "NumberOfAwardsMax": 97
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 692,
+  "NumberOfAwards": 693,
   "NumberOfAwardsMax": 97,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -954,7 +960,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 72
+      "Count": 73
     },
     {
       "Text": "This game has a Creative Community",
@@ -9785,9 +9791,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
-  "LastChanged": "2023-12-15T03:58:32.4018909+00:00",
-  "LastChanged_Achievements": "2023-12-16T01:54:34.0451519+00:00",
+  "LastChanged": "2023-12-16T02:19:42.6495696+00:00",
+  "LastChanged_Achievements": "2023-12-16T02:27:57.6854266+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:03.4642275+00:00",
-  "LastUpdate_Ratings": "2023-12-16T01:44:10.8418294+00:00",
-  "LastUpdate_Achievements": "2023-12-16T01:54:34.0452548+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:19:42.6495702+00:00",
+  "LastUpdate_Achievements": "2023-12-16T02:27:57.6855073+00:00"
 }
