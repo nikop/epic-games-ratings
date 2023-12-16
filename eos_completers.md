@@ -8,7 +8,7 @@
 | 6 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.84% |
 | 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 44.17% |
 | 8 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
-| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 38.36% |
+| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 38.10% |
 | 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 37.33% |
 | 11 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 33.33% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 31.25% |
@@ -19,7 +19,7 @@
 | 17 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 17 | [Overloop](games/o/overloop.md) | 25.00% |
 | 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 21.26% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 21.25% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
 | 23 | [Doodle Devil](games/d/doodle_devil.md) | 19.54% |
@@ -52,7 +52,7 @@
 | 50 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.71% |
 | 51 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 51 | [Ravenlok](games/r/ravenlok.md) | 7.69% |
-| 53 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 7.55% |
+| 53 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 7.48% |
 | 54 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.46% |
 | 55 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.34% |
 | 56 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 7.14% |
@@ -73,7 +73,7 @@
 | 70 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.26% |
 | 72 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.13% |
 | 73 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 5.00% |
-| 74 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.96% |
+| 74 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.95% |
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.86% |
 | 76 | [JARS](games/j/jars.md) | 4.81% |
 | 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.71% |
@@ -112,9 +112,9 @@
 | 110 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.89% |
 | 111 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
 | 111 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 2.78% |
-| 113 | [Destiny 2](games/d/destiny_2.md) | 2.75% |
-| 114 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.74% |
-| 114 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
+| 113 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
+| 113 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.74% |
+| 113 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
 | 116 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.72% |
 | 117 | [Night Book](games/n/night_book.md) | 2.71% |
 | 118 | [FORECLOSED](games/f/foreclosed.md) | 2.68% |
@@ -136,11 +136,11 @@
 | 134 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.87% |
 | 135 | [Sifu](games/s/sifu.md) | 1.78% |
 | 136 | [Frogun](games/f/frogun.md) | 1.76% |
-| 137 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.72% |
+| 137 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.73% |
 | 138 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.70% |
 | 139 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.63% |
-| 140 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.61% |
-| 141 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.60% |
+| 140 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.60% |
+| 140 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.60% |
 | 142 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.59% |
 | 143 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
 | 144 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.51% |
@@ -248,11 +248,11 @@
 | 245 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.28% |
 | 245 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.28% |
 | 248 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.27% |
-| 248 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.27% |
 | 248 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
-| 251 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.26% |
-| 251 | [Filament](games/f/filament.md) | 0.26% |
-| 251 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.26% |
+| 250 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.26% |
+| 250 | [Filament](games/f/filament.md) | 0.26% |
+| 250 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.26% |
+| 250 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.26% |
 | 254 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.24% |
 | 254 | [Remnant 2](games/r/remnant_2.md) | 0.24% |
 | 256 | [Aegis Descent](games/a/aegis_descent.md) | 0.23% |
