@@ -5,26 +5,26 @@ Rating: 4.69 (Ranked 232)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 32.00% | ~217,746 |
-| 50 HEADSHOTS | 29.00% | ~197,332 |
-| SCIENCE AND INDUSTRY | 28.00% | ~190,527 |
-| FINISHED CHAPTER 1 | 27.00% | ~183,723 |
-| FINISHED CHAPTER 2 | 20.00% | ~136,091 |
-| 200 HEADSHOTS | 18.00% | ~122,482 |
-| FINISHED CHAPTER 3 | 17.00% | ~115,677 |
-| FINISHED CHAPTER 4 | 15.00% | ~102,068 |
-| FINISH CHAPTER 5 | 12.00% | ~81,655 |
-| FINISH CHAPTER 6 | 11.00% | ~74,850 |
-| CATHARTIC ESCAPISM | 11.00% | ~74,850 |
-| 1000 KILLS | 9.00% | ~61,241 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,218 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,609 |
-| FIRST BLOOD | 2.00% | ~13,609 |
-| OUT OF ORDER | 1.00% | ~6,805 |
-| PACEMAKER | 1.00% | ~6,805 |
-| TIME PARADOX | 1.00% | ~6,805 |
+| 100 KILLS | 32.00% | ~217,734 |
+| 50 HEADSHOTS | 29.00% | ~197,321 |
+| SCIENCE AND INDUSTRY | 28.00% | ~190,517 |
+| FINISHED CHAPTER 1 | 27.00% | ~183,713 |
+| FINISHED CHAPTER 2 | 20.00% | ~136,084 |
+| 200 HEADSHOTS | 18.00% | ~122,475 |
+| FINISHED CHAPTER 3 | 17.00% | ~115,671 |
+| FINISHED CHAPTER 4 | 15.00% | ~102,063 |
+| FINISH CHAPTER 5 | 12.00% | ~81,650 |
+| FINISH CHAPTER 6 | 11.00% | ~74,846 |
+| CATHARTIC ESCAPISM | 11.00% | ~74,846 |
+| 1000 KILLS | 9.00% | ~61,238 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,217 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,608 |
+| FIRST BLOOD | 2.00% | ~13,608 |
+| OUT OF ORDER | 1.00% | ~6,804 |
+| PACEMAKER | 1.00% | ~6,804 |
+| TIME PARADOX | 1.00% | ~6,804 |
 | FIREFIGHT LEVEL 30 | 0.90% | ~6,124 |
-| PARTYHARD | 0.80% | ~5,444 |
+| PARTYHARD | 0.80% | ~5,443 |
 | NEW GAME PLUS | 0.70% | ~4,763 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,402 |
 | CHURCH | 0.40% | ~2,722 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 232)
 | THE GAMBLER | 0.10% | ~680 |
 | WARRIOR IN A GARDEN | 0.10% | ~680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,455 (Ranked 28)  
+Progressed: 680,418 (Ranked 28)  
 Completed: 70 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,12 +300,12 @@ Completed: 70 (0.01%) (Ranked 353)
 | 2023-12-15 | 681,865 | 71 |
 | 2023-12-16 | 680,761 | 70 |
 ## Awards
-Max (Great Boss Battles): 442  (Ranked 226)  
-Sum: 463 (Ranked 337)  
+Max (Great Boss Battles): 444  (Ranked 225)  
+Sum: 465 (Ranked 336)  
 Diff (max vs sum): -111  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 442 |
+| This game has Great Boss Battles | 444 |
 | This game is Great for Beginners | 21 |
 | This game is Great for Quick Sessions | 21 |
 ## Ratings History
@@ -450,3 +450,4 @@ Diff (max vs sum): -111
 | 2023-12-12 | 4.69 | 439 | 460 |
 | 2023-12-13 | 4.69 | 442 | 462 |
 | 2023-12-15 | 4.69 | 442 | 463 |
+| 2023-12-16 | 4.69 | 444 | 465 |

@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26330,
+  "EOS_Progressed": 26331,
   "EOS_Completed": 493,
-  "EOS_NewPlayers": 494,
+  "EOS_NewPlayers": 495,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.87,
   "EosHistory": [
@@ -26194,6 +26194,11 @@
       "Time": "2023-12-16T08:04:52.1233072+00:00",
       "NumProgressed": 26330,
       "NumCompleted": 493
+    },
+    {
+      "Time": "2023-12-16T09:05:13.3923409+00:00",
+      "NumProgressed": 26331,
+      "NumCompleted": 493
     }
   ],
   "TotalAchievements": 20,
@@ -26213,7 +26218,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "EAST_FINISHED",
@@ -26325,7 +26330,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20011
+      "UsersEstimate": 20012
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -26357,22 +26362,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4739
+      "UsersEstimate": 4740
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26330,
+      "Progressed": 26331,
       "Completed": 493
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-16T08:04:52.1233069+00:00",
+  "LastChanged_Achievements": "2023-12-16T09:05:13.3923404+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:05.8810572+00:00",
-  "LastUpdate_Ratings": "2023-12-16T07:58:41.2614235+00:00",
-  "LastUpdate_Achievements": "2023-12-16T08:04:52.1234461+00:00"
+  "LastUpdate_Ratings": "2023-12-16T08:58:53.9339542+00:00",
+  "LastUpdate_Achievements": "2023-12-16T09:05:13.3924943+00:00"
 }

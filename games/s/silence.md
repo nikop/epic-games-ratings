@@ -19,14 +19,14 @@
 | Handyman | 23.00% | ~41 |
 | Bubblekillerfamily | 23.00% | ~41 |
 | Achoo!! | 23.00% | ~41 |
+| Chapter III | 23.00% | ~41 |
+| Like a moth in the Wind | 23.00% | ~41 |
 | Quite a buggy game | 22.00% | ~39 |
-| Chapter III | 22.00% | ~39 |
-| Like a moth in the Wind | 22.00% | ~39 |
 | Pacifist | 20.00% | ~35 |
+| Mirror mirror on the wall... | 19.00% | ~34 |
 | Fastidious Clown | 18.00% | ~32 |
 | It's not easy being green! | 18.00% | ~32 |
-| Mirror mirror on the wall... | 18.00% | ~32 |
-| Home is where the heart is | 17.00% | ~30 |
+| Home is where the heart is | 18.00% | ~32 |
 | Death is a part of life | 14.00% | ~25 |
 | To err is human... | 12.00% | ~21 |
 | Master of Thermodynamics | 12.00% | ~21 |
@@ -36,8 +36,8 @@
 | Useless but beautiful | 8.00% | ~14 |
 | Lollipop | 7.00% | ~12 |
 | Where there is life, there is hope | 7.00% | ~12 |
+| It's nothing personal | 7.00% | ~12 |
 | The hands of a healer | 6.00% | ~11 |
-| It's nothing personal | 6.00% | ~11 |
 | Artistic master | 5.00% | ~9 |
 | Sadist | 5.00% | ~9 |
 | Fartjokes! | 5.00% | ~9 |

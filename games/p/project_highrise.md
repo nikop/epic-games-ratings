@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~221 |
-| Starting Skyward | 54.00% | ~202 |
-| Grime is Not Good | 47.00% | ~176 |
+| In the Black | 59.00% | ~222 |
+| Starting Skyward | 53.00% | ~199 |
+| Grime is Not Good | 47.00% | ~177 |
 | Floor Galore | 41.00% | ~154 |
 | Dinner Dash | 41.00% | ~154 |
 | Campaign Launch | 40.00% | ~150 |
@@ -22,9 +22,9 @@
 | Your Prestige is Rising | 24.00% | ~90 |
 | Retail Revenue | 24.00% | ~90 |
 | Don't Feel a Loan | 23.00% | ~86 |
-| Artfully Done | 21.00% | ~79 |
 | People Mover | 21.00% | ~79 |
 | Lux Living | 20.00% | ~75 |
+| Artfully Done | 20.00% | ~75 |
 | Emporium Empire | 20.00% | ~75 |
 | Leveled Up Shops | 20.00% | ~75 |
 | Get Electrified | 20.00% | ~75 |
@@ -54,10 +54,10 @@
 | Revenue Royalty | 7.00% | ~26 |
 | Golden Opportunity | 7.00% | ~26 |
 | Pipe Up | 7.00% | ~26 |
-| I'm Busy Ruling | 6.00% | ~22 |
-| Profound Proceeds | 6.00% | ~22 |
-| Tuned In | 6.00% | ~22 |
-| It's a Gas | 6.00% | ~22 |
+| I'm Busy Ruling | 6.00% | ~23 |
+| Profound Proceeds | 6.00% | ~23 |
+| Tuned In | 6.00% | ~23 |
+| It's a Gas | 6.00% | ~23 |
 | Meet ADA/360 | 5.00% | ~19 |
 | Penthouse in the Sky | 5.00% | ~19 |
 | Baron of Business | 5.00% | ~19 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 375 (Ranked 343)  
+Progressed: 376 (Ranked 343)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 360 | 0 |
 | 2023-12-14 | 367 | 0 |
 | 2023-12-15 | 372 | 0 |
-| 2023-12-16 | 375 | 0 |
+| 2023-12-16 | 376 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

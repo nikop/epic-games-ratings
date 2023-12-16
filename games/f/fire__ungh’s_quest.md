@@ -23,7 +23,7 @@
 | Onk Boga VII | 36.00% | ~104 |
 | Onk Boga VIII | 36.00% | ~104 |
 | Blubb | 36.00% | ~104 |
-| ParaPara! | 33.00% | ~95 |
+| ParaPara! | 34.00% | ~98 |
 | Kokakoka | 33.00% | ~95 |
 | Onk Boga IX | 33.00% | ~95 |
 | AKRE! | 33.00% | ~95 |

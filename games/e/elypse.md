@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A path of no return | 98.00% | ~105 |
-| A bottomless pit | 81.00% | ~87 |
-| Pigeon | 78.00% | ~83 |
+| A bottomless pit | 82.00% | ~88 |
+| Pigeon | 79.00% | ~85 |
 | Baited | 67.00% | ~72 |
 | "Swoosh" | 59.00% | ~63 |
 | The light at the end of the tunnel | 58.00% | ~62 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107 (Ranked 449)  
+Progressed: 107 (Ranked 450)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |

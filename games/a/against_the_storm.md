@@ -13,14 +13,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Land of Greed | 3.00% | ~550 |
 | Ominous Presence | 3.00% | ~550 |
 | Gathering Storm | 3.00% | ~550 |
-| First Real Expedition | 2.00% | ~366 |
-| Overcoming Difficulty | 2.00% | ~366 |
-| Coral Forest | 2.00% | ~366 |
-| The Marshlands | 2.00% | ~366 |
-| The Scarlet Orchard | 2.00% | ~366 |
-| Taking Action | 2.00% | ~366 |
-| No Deaths | 2.00% | ~366 |
-| Untamed Wilds | 2.00% | ~366 |
+| First Real Expedition | 2.00% | ~367 |
+| Overcoming Difficulty | 2.00% | ~367 |
+| Coral Forest | 2.00% | ~367 |
+| The Marshlands | 2.00% | ~367 |
+| The Scarlet Orchard | 2.00% | ~367 |
+| Taking Action | 2.00% | ~367 |
+| No Deaths | 2.00% | ~367 |
+| Untamed Wilds | 2.00% | ~367 |
 | Homesick | 1.00% | ~183 |
 | Fertile Meadows | 1.00% | ~183 |
 | Royal Outpost | 1.00% | ~183 |
@@ -29,9 +29,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 1.00% | ~183 |
 | Ruined Armory | 0.90% | ~165 |
 | Bandit Camp | 0.90% | ~165 |
+| Levitating Monument | 0.90% | ~165 |
 | Monastery of the Holy Flame | 0.90% | ~165 |
 | Trade Baron | 0.90% | ~165 |
-| Levitating Monument | 0.80% | ~147 |
 | Corrosive Torrent | 0.80% | ~147 |
 | Cursed Lands | 0.80% | ~147 |
 | Barren Lands | 0.70% | ~128 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,323 (Ranked 147)  
+Progressed: 18,327 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,11 +306,11 @@ Completed: 39 (0.21%) (Ranked 261)
 | 2023-12-13 | 18,048 | 40 |
 | 2023-12-14 | 18,153 | 40 |
 | 2023-12-15 | 18,272 | 39 |
-| 2023-12-16 | 18,323 | 39 |
+| 2023-12-16 | 18,327 | 39 |
 ## Awards
-Max (Quickly Understood Controls): 442  (Ranked 226)  
+Max (Quickly Understood Controls): 442  (Ranked 227)  
 Sum: 3,264 (Ranked 174)  
-Diff (max vs sum): 52  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 442 |

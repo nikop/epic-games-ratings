@@ -23,10 +23,10 @@ Number of Ratings: 56  (23.09.2022)
 | car wash | 16.00% | ~1,656 |
 | bicycle race | 15.00% | ~1,553 |
 | the artist | 15.00% | ~1,553 |
+| perkele | 14.00% | ~1,449 |
 | monster | 14.00% | ~1,449 |
 | night ride | 14.00% | ~1,449 |
 | snorkel | 14.00% | ~1,449 |
-| perkele | 13.00% | ~1,346 |
 | where is the stage? | 13.00% | ~1,346 |
 | maximum attack | 11.00% | ~1,139 |
 | espresso | 10.00% | ~1,035 |

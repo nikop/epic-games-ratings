@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1858,
+  "EOS_Progressed": 1859,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2627,6 +2627,11 @@
       "Time": "2023-12-16T08:05:32.6915751+00:00",
       "NumProgressed": 1858,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T09:05:57.8003849+00:00",
+      "NumProgressed": 1859,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2774,7 +2779,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Achievement_020",
@@ -3165,7 +3170,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1858,
+      "Progressed": 1859,
       "Completed": 0
     }
   ],
@@ -3173,8 +3178,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-10T01:51:29.5345174+00:00",
-  "LastChanged_Achievements": "2023-12-16T08:05:32.6915749+00:00",
+  "LastChanged_Achievements": "2023-12-16T09:05:57.8003845+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:19.3114561+00:00",
-  "LastUpdate_Ratings": "2023-12-16T07:58:44.0874816+00:00",
-  "LastUpdate_Achievements": "2023-12-16T08:05:32.6916273+00:00"
+  "LastUpdate_Ratings": "2023-12-16T08:58:57.0464278+00:00",
+  "LastUpdate_Achievements": "2023-12-16T09:05:57.8004596+00:00"
 }

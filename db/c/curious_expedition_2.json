@@ -786,9 +786,9 @@
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 113
     },
     {
       "ID": "ach-redElk",
@@ -883,8 +883,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-16T08:09:28.5987763+00:00",
+  "LastChanged_Achievements": "2023-12-16T09:09:46.7971485+00:00",
   "LastUpdate_AppInfo": "2023-12-09T12:59:37.4155215+00:00",
-  "LastUpdate_Ratings": "2023-12-16T07:57:23.1246092+00:00",
-  "LastUpdate_Achievements": "2023-12-16T08:09:28.5988447+00:00"
+  "LastUpdate_Ratings": "2023-12-16T08:57:23.4271687+00:00",
+  "LastUpdate_Achievements": "2023-12-16T09:09:46.7971882+00:00"
 }

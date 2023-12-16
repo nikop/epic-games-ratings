@@ -535,9 +535,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3893,
+  "EOS_Progressed": 3895,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6150,6 +6150,11 @@
       "Time": "2023-12-16T08:03:12.7116027+00:00",
       "NumProgressed": 3893,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-16T09:03:22.8645608+00:00",
+      "NumProgressed": 3895,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6169,7 +6174,7 @@
       "Name": "Ace Detective",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "AncestorsPride_13",
@@ -6199,9 +6204,9 @@
       "ID": "CordonBleu_28",
       "SetID": "c4hee28",
       "Name": "Cordon Bleu",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1675
     },
     {
       "ID": "CrowdPleaser",
@@ -6233,7 +6238,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ForAllAurai_8",
@@ -6249,7 +6254,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -6265,7 +6270,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "HouseofCards_19",
@@ -6305,7 +6310,7 @@
       "Name": "Magic is a science",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "MasterofAurai_20",
@@ -6345,7 +6350,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "ReadyforWinter_42",
@@ -6353,7 +6358,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2492
+      "UsersEstimate": 2493
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6361,7 +6366,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -6369,7 +6374,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -6385,7 +6390,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -6433,7 +6438,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "TheStuffOfLegends",
@@ -6481,7 +6486,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2920
+      "UsersEstimate": 2921
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6496,15 +6501,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3893,
+      "Progressed": 3895,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-01T16:57:27.3862191+00:00",
-  "LastChanged_Achievements": "2023-12-16T08:03:12.7116024+00:00",
+  "LastChanged_Achievements": "2023-12-16T09:03:22.8645603+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:46.9668311+00:00",
-  "LastUpdate_Ratings": "2023-12-16T08:02:32.9050385+00:00",
-  "LastUpdate_Achievements": "2023-12-16T08:03:12.711657+00:00"
+  "LastUpdate_Ratings": "2023-12-16T09:02:37.3510586+00:00",
+  "LastUpdate_Achievements": "2023-12-16T09:03:22.8646252+00:00"
 }

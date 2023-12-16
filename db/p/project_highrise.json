@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 375,
+  "EOS_Progressed": 376,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1070,6 +1070,11 @@
       "Time": "2023-12-16T06:05:00.0747913+00:00",
       "NumProgressed": 375,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T09:04:58.8314189+00:00",
+      "NumProgressed": 376,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1127,9 +1132,9 @@
       "ID": "ach_art",
       "SetID": "b8gh1fi",
       "Name": "Artfully Done",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_art_large",
@@ -1241,7 +1246,7 @@
       "Name": "I\u0027m Busy Ruling",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_consultants_c",
@@ -1383,9 +1388,9 @@
       "ID": "ach_floors",
       "SetID": "b8gh1fi",
       "Name": "Starting Skyward",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 199
     },
     {
       "ID": "ach_floors_1",
@@ -1417,7 +1422,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ach_grime_1",
@@ -1545,7 +1550,7 @@
       "Name": "In the Black",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ach_profit_1",
@@ -1561,7 +1566,7 @@
       "Name": "Profound Proceeds",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_recycling_1",
@@ -1729,7 +1734,7 @@
       "Name": "Tuned In",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_util_gas",
@@ -1737,7 +1742,7 @@
       "Name": "It\u0027s a Gas",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_util_phone",
@@ -1784,7 +1789,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 375,
+      "Progressed": 376,
       "Completed": 0
     }
   ],
@@ -1792,8 +1797,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-16T08:04:38.8713668+00:00",
+  "LastChanged_Achievements": "2023-12-16T09:04:58.8314184+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:02.639298+00:00",
-  "LastUpdate_Ratings": "2023-12-16T08:00:09.1215865+00:00",
-  "LastUpdate_Achievements": "2023-12-16T08:04:38.8714544+00:00"
+  "LastUpdate_Ratings": "2023-12-16T09:00:31.6493019+00:00",
+  "LastUpdate_Achievements": "2023-12-16T09:04:58.8314924+00:00"
 }

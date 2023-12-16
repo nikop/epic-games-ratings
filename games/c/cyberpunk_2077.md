@@ -6,38 +6,38 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,224 |
-| Gun Fu | 7.00% | ~68,380 |
-| Right Back At Ya | 6.00% | ~58,612 |
-| The Fool | 6.00% | ~58,612 |
-| The Lovers | 5.00% | ~48,843 |
-| Full Body Conversion | 4.00% | ~39,075 |
-| Stanislavski's Method | 4.00% | ~39,075 |
-| The Wheel of Fortune | 4.00% | ~39,075 |
-| True Soldier | 4.00% | ~39,075 |
-| All the President's Men | 4.00% | ~4,219 |
-| Arachnophobia | 4.00% | ~4,219 |
-| Christmas Tree Attack | 3.00% | ~29,306 |
-| Life of the Road | 3.00% | ~29,306 |
-| The Hermit | 3.00% | ~29,306 |
-| The High Priestess | 3.00% | ~29,306 |
-| True Warrior | 3.00% | ~29,306 |
-| Legend of The Afterlife | 3.00% | ~29,306 |
+| V for Vendetta | 12.00% | ~117,227 |
+| Gun Fu | 7.00% | ~68,383 |
+| Right Back At Ya | 6.00% | ~58,614 |
+| The Fool | 6.00% | ~58,614 |
+| The Lovers | 5.00% | ~48,845 |
+| Full Body Conversion | 4.00% | ~39,076 |
+| Stanislavski's Method | 4.00% | ~39,076 |
+| The Wheel of Fortune | 4.00% | ~39,076 |
+| True Soldier | 4.00% | ~39,076 |
+| All the President's Men | 4.00% | ~4,221 |
+| Arachnophobia | 4.00% | ~4,221 |
+| Christmas Tree Attack | 3.00% | ~29,307 |
+| Life of the Road | 3.00% | ~29,307 |
+| The Hermit | 3.00% | ~29,307 |
+| The High Priestess | 3.00% | ~29,307 |
+| True Warrior | 3.00% | ~29,307 |
+| Legend of The Afterlife | 3.00% | ~29,307 |
 | Relic Ruler | 3.00% | ~3,165 |
-| Bushido and Chill | 2.00% | ~19,537 |
-| Master Crafter | 2.00% | ~19,537 |
-| I Am The Law | 2.00% | ~19,537 |
-| The Quick and the Dead | 2.00% | ~19,537 |
-| The World | 2.00% | ~19,537 |
-| Two Heads, One Bullet | 2.00% | ~19,537 |
-| Judy vs Night City | 2.00% | ~19,537 |
+| Bushido and Chill | 2.00% | ~19,538 |
+| Master Crafter | 2.00% | ~19,538 |
+| I Am The Law | 2.00% | ~19,538 |
+| The Quick and the Dead | 2.00% | ~19,538 |
+| The World | 2.00% | ~19,538 |
+| Two Heads, One Bullet | 2.00% | ~19,538 |
+| Judy vs Night City | 2.00% | ~19,538 |
 | To Protect and Serve | 1.00% | ~9,769 |
 | The Wandering Fool | 1.00% | ~9,769 |
 | Spin Doctor | 1.00% | ~1,055 |
 | King of Wands | 1.00% | ~1,055 |
 | Easy Come, Easy Go | 1.00% | ~1,055 |
 | The Sun | 0.90% | ~8,792 |
-| Dirty Deeds | 0.90% | ~949 |
+| Dirty Deeds | 0.90% | ~950 |
 | To Bad Decisions! | 0.80% | ~7,815 |
 | Ten out of Ten | 0.80% | ~7,815 |
 | The Star | 0.70% | ~6,838 |
@@ -46,11 +46,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Autojock | 0.50% | ~4,884 |
 | Must Be Rats | 0.50% | ~4,884 |
 | Temperance | 0.50% | ~4,884 |
-| The APB is Not Enough | 0.50% | ~527 |
-| Judgement Day | 0.50% | ~527 |
-| King of Pentacles | 0.50% | ~527 |
-| King of Swords | 0.50% | ~527 |
-| King of Cups | 0.30% | ~316 |
+| The APB is Not Enough | 0.50% | ~528 |
+| Judgement Day | 0.50% | ~528 |
+| King of Pentacles | 0.50% | ~528 |
+| King of Swords | 0.50% | ~528 |
+| King of Cups | 0.30% | ~317 |
 | City Lights | 0.20% | ~1,954 |
 | Gunslinger | 0.20% | ~1,954 |
 | Mean Streets | 0.20% | ~1,954 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 976,863 (Ranked 15)  
-Completed: 2,915 (0.30%) (Ranked 241)  
+Progressed: 976,893 (Ranked 15)  
+Completed: 2,918 (0.30%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -314,7 +314,7 @@ Completed: 2,915 (0.30%) (Ranked 241)
 | 2023-12-13 | 975,519 | 2,900 |
 | 2023-12-14 | 976,057 | 2,907 |
 | 2023-12-15 | 976,625 | 2,913 |
-| 2023-12-16 | 976,863 | 2,915 |
+| 2023-12-16 | 976,893 | 2,918 |
 ## Awards
 Max (Character Customization): 123,411  (Ranked 8)  
 Sum: 421,670 (Ranked 9)  

@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7848,
+  "EOS_Progressed": 7859,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 546,
+  "EOS_NewPlayers": 555,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14074,6 +14074,11 @@
       "Time": "2023-12-16T08:05:04.7183413+00:00",
       "NumProgressed": 7848,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T09:05:27.0925899+00:00",
+      "NumProgressed": 7859,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -14085,7 +14090,7 @@
       "Name": "First Step",
       "Percentage": 33,
       "XP": 45,
-      "UsersEstimate": 2590
+      "UsersEstimate": 2593
     },
     {
       "ID": "10",
@@ -14101,7 +14106,7 @@
       "Name": "Telepathic",
       "Percentage": 8,
       "XP": 70,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "12",
@@ -14141,7 +14146,7 @@
       "Name": "Dense Forest",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2119
+      "UsersEstimate": 2122
     },
     {
       "ID": "3",
@@ -14149,7 +14154,7 @@
       "Name": "Cactus Vally",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1572
     },
     {
       "ID": "4",
@@ -14157,7 +14162,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "5",
@@ -14165,7 +14170,7 @@
       "Name": "Snowy Peak",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "6",
@@ -14173,7 +14178,7 @@
       "Name": "High Treetops",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "7",
@@ -14181,7 +14186,7 @@
       "Name": "Blue Rapids",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "8",
@@ -14189,7 +14194,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "9",
@@ -14197,14 +14202,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 7848,
+      "Progressed": 7859,
       "Completed": 0
     }
   ],
@@ -14212,8 +14217,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-12-16T08:05:04.718341+00:00",
+  "LastChanged_Achievements": "2023-12-16T09:05:27.0925894+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:10.0844252+00:00",
-  "LastUpdate_Ratings": "2023-12-16T08:02:30.6695807+00:00",
-  "LastUpdate_Achievements": "2023-12-16T08:05:04.718418+00:00"
+  "LastUpdate_Ratings": "2023-12-16T09:02:34.5150578+00:00",
+  "LastUpdate_Achievements": "2023-12-16T09:05:27.0926575+00:00"
 }

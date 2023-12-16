@@ -4,10 +4,10 @@
   "ProductSlug": "slime-rancher-2",
   "Ranking_Rating": 91,
   "Ranking_Popularity": 358,
-  "Ranking_PopularitySum": 281,
+  "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 516,
+  "Ranking_EOS_NewPlayers": 517,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-09-22T17:00:00+00:00",
@@ -735,10 +735,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 822,
       "NumberOfAwardsMax": 107
+    },
+    {
+      "Time": "2023-12-16T08:57:45.6514964+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 824,
+      "NumberOfAwardsMax": 107
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 822,
+  "NumberOfAwards": 824,
   "NumberOfAwardsMax": 107,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -782,13 +788,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 97
+      "Count": 98
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 84
+      "Count": 85
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -827,8 +833,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T20:03:01.7820576+00:00",
   "FirstSeenRating": "2022-09-23T13:02:43.6402723+00:00",
-  "LastChanged": "2023-12-13T19:01:50.8928079+00:00",
+  "LastChanged": "2023-12-16T08:57:45.6514962+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:31.7868135+00:00",
-  "LastUpdate_Ratings": "2023-12-16T07:57:42.2330535+00:00",
-  "LastUpdate_Achievements": "2023-12-16T08:03:22.501884+00:00"
+  "LastUpdate_Ratings": "2023-12-16T08:57:45.6514967+00:00",
+  "LastUpdate_Achievements": "2023-12-16T09:03:33.6312128+00:00"
 }

@@ -10,10 +10,10 @@ Number of Ratings: 45  (23.09.2022)
 | The Cost of Heroism | 5.00% | ~76 |
 | Passing Shadow | 4.00% | ~61 |
 | This Too Shall Pass | 4.00% | ~61 |
+| How Romantic! | 4.00% | ~61 |
 | Cutthroat Competitors | 4.00% | ~61 |
 | Daybreak | 4.00% | ~61 |
 | Gotta Ca... Must Collect All of Them | 3.00% | ~46 |
-| How Romantic! | 3.00% | ~46 |
 | A Mythic Menagerie | 2.00% | ~31 |
 | Completing the Look | 2.00% | ~31 |
 | Who's Counting? | 2.00% | ~31 |
@@ -30,11 +30,11 @@ Number of Ratings: 45  (23.09.2022)
 | Legends Never Die | 0.60% | ~9 |
 | Chain Reaction | 0.60% | ~9 |
 | Some Say I'm Too Flashy | 0.60% | ~9 |
+| Astrology | 0.60% | ~9 |
 | Empty the Caves | 0.50% | ~8 |
 | Bonebreakers | 0.50% | ~8 |
 | Plague Doctor | 0.50% | ~8 |
 | Everfading | 0.50% | ~8 |
-| Astrology | 0.50% | ~8 |
 | Storied Past | 0.40% | ~6 |
 | In Soil, In Smoke | 0.40% | ~6 |
 | All My Birds, Safely Home | 0.40% | ~6 |

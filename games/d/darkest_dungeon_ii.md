@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~147 |
-| Lost and Found | 4.00% | ~98 |
+| Malpractice Assurance | 6.00% | ~148 |
+| Lost and Found | 4.00% | ~99 |
 | This Belongs in a Museum | 3.00% | ~3,828 |
 | This guy... again? | 3.00% | ~74 |
 | Bloody Graduation | 3.00% | ~74 |
@@ -36,6 +36,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Banishment | 0.90% | ~1,148 |
 | Deprogramming | 0.90% | ~1,148 |
 | Spelunker | 0.90% | ~1,148 |
+| Ramble On | 0.90% | ~1,148 |
 | Worldly Traveller | 0.90% | ~1,148 |
 | Road Trip | 0.90% | ~1,148 |
 | Resurrection | 0.80% | ~1,021 |
@@ -46,7 +47,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Predator | 0.80% | ~1,021 |
 | Now Stay Dead | 0.80% | ~1,021 |
 | Reverse Banditry | 0.80% | ~1,021 |
-| Ramble On | 0.80% | ~1,021 |
 | Unshackled | 0.80% | ~1,021 |
 | Wyrdly Reconstructed | 0.70% | ~893 |
 | Boxcar Kid | 0.70% | ~893 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,588 (Ranked 84)  
+Progressed: 127,602 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,10 +316,10 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
-| 2023-12-16 | 127,588 | 3 |
+| 2023-12-16 | 127,602 | 3 |
 ## Awards
 Max (Character Customization): 7,744  (Ranked 51)  
-Sum: 20,549 (Ranked 58)  
+Sum: 20,557 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -330,7 +330,7 @@ Diff (max vs sum): -7
 | This game has Amazing Characters | 1,453 |
 | This game is Extremely Fun | 1,451 |
 | This game has Amazing Storytelling | 1,378 |
-| This game has Unique Visuals | 1,351 |
+| This game has Unique Visuals | 1,359 |
 | This game has Quickly Understood Controls | 1,346 |
 | This game has a Creative Community | 1,014 |
 | This game has Obsessive Gameplay | 585 |
@@ -660,4 +660,4 @@ Diff (max vs sum): -7
 | 2023-12-13 | 4.68 | - | 7,665 | 20,333 |
 | 2023-12-14 | 4.68 | - | 7,689 | 20,427 |
 | 2023-12-15 | 4.68 | - | 7,718 | 20,517 |
-| 2023-12-16 | 4.68 | - | 7,744 | 20,549 |
+| 2023-12-16 | 4.68 | - | 7,744 | 20,557 |

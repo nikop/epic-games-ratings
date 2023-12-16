@@ -3,7 +3,7 @@
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 372,
-  "Ranking_EOS_Completed": 167,
+  "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 282,
+  "EOS_Progressed": 283,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
@@ -1239,6 +1239,11 @@
       "Time": "2023-12-16T08:03:13.2294212+00:00",
       "NumProgressed": 282,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T09:03:23.4259952+00:00",
+      "NumProgressed": 283,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1251,7 +1256,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1259,15 +1264,15 @@
       "Name": "Design Engineer",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 184
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1275,7 +1280,7 @@
       "Name": "Amusement Park",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -1307,15 +1312,15 @@
       "Name": "Off on an Expedition!",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 136
     },
     {
       "ID": "HOUSEWARMING",
@@ -1361,9 +1366,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 144
+      "UsersEstimate": 147
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -1403,21 +1408,21 @@
       "Name": "Strong Signal",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 282,
+      "Progressed": 283,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-16T08:03:13.2294208+00:00",
+  "LastChanged_Achievements": "2023-12-16T09:03:23.4259948+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.1278188+00:00",
-  "LastUpdate_Ratings": "2023-12-16T08:00:14.4481467+00:00",
-  "LastUpdate_Achievements": "2023-12-16T08:03:13.2294379+00:00"
+  "LastUpdate_Ratings": "2023-12-16T09:00:37.6363297+00:00",
+  "LastUpdate_Achievements": "2023-12-16T09:03:23.4260164+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 322,
-  "Ranking_EOS_Completed": 140,
+  "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
@@ -18,11 +18,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 504,
+  "EOS_Progressed": 505,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.59,
+  "EOS_Completed_Percentage": 1.58,
   "EosHistory": [
     {
       "Time": "2023-09-19T03:08:38.9448107+00:00",
@@ -2048,6 +2048,11 @@
       "Time": "2023-12-16T08:08:28.6747448+00:00",
       "NumProgressed": 504,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-16T09:08:41.24925+00:00",
+      "NumProgressed": 505,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -2060,7 +2065,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "achievement_10",
@@ -2100,7 +2105,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "achievement_15",
@@ -2108,7 +2113,7 @@
       "Name": "Memory Rouser",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_16",
@@ -2132,7 +2137,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "achievement_19",
@@ -2148,7 +2153,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "achievement_20",
@@ -2156,7 +2161,7 @@
       "Name": "Subsistence Skills",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "achievement_21",
@@ -2178,9 +2183,9 @@
       "ID": "achievement_23",
       "SetID": "2cpn27e",
       "Name": "Relentless Kemono Hunter",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_24",
@@ -2188,7 +2193,7 @@
       "Name": "Single Minded",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "achievement_25",
@@ -2212,7 +2217,7 @@
       "Name": "Mighty Marmelizer",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_28",
@@ -2226,9 +2231,9 @@
       "ID": "achievement_29",
       "SetID": "2cpn27e",
       "Name": "Fair Means or Foul",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_3",
@@ -2252,7 +2257,7 @@
       "Name": "Snare Specialist",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "achievement_32",
@@ -2274,9 +2279,9 @@
       "ID": "achievement_34",
       "SetID": "2cpn27e",
       "Name": "Kemono at Heart",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 157
     },
     {
       "ID": "achievement_35",
@@ -2300,7 +2305,7 @@
       "Name": "Hidden History",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "achievement_38",
@@ -2324,7 +2329,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "achievement_40",
@@ -2364,7 +2369,7 @@
       "Name": "Artful Assister",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "achievement_45",
@@ -2380,7 +2385,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_47",
@@ -2410,9 +2415,9 @@
       "ID": "achievement_6",
       "SetID": "2cpn27e",
       "Name": "Commencing of Quests",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 328
     },
     {
       "ID": "achievement_7",
@@ -2443,13 +2448,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 504,
+      "Progressed": 505,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-16T08:08:28.6747446+00:00",
+  "LastChanged_Achievements": "2023-12-16T09:08:41.2492496+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:59.7578969+00:00",
-  "LastUpdate_Ratings": "2023-12-16T07:58:15.9982762+00:00",
-  "LastUpdate_Achievements": "2023-12-16T08:08:28.6747789+00:00"
+  "LastUpdate_Ratings": "2023-12-16T08:58:24.8833939+00:00",
+  "LastUpdate_Achievements": "2023-12-16T09:08:41.2492931+00:00"
 }

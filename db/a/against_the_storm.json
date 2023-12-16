@@ -3,7 +3,7 @@
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 69,
-  "Ranking_Popularity": 226,
+  "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 261,
@@ -3467,7 +3467,7 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18323,
+  "EOS_Progressed": 18327,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 584,
   "EOS_NewCompleters": -4,
@@ -15912,6 +15912,11 @@
       "Time": "2023-12-16T08:04:00.190468+00:00",
       "NumProgressed": 18323,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-16T09:04:15.6478709+00:00",
+      "NumProgressed": 18327,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16012,7 +16017,7 @@
       "Name": "First Real Expedition",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "WinHard",
@@ -16020,7 +16025,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "WinImpossible",
@@ -16114,9 +16119,9 @@
       "ID": "WinNearLevitating",
       "SetID": "cfbk359",
       "Name": "Levitating Monument",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 165
     },
     {
       "ID": "WinNearMines",
@@ -16188,7 +16193,7 @@
       "Name": "Coral Forest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "WinOnCursed",
@@ -16204,7 +16209,7 @@
       "Name": "The Marshlands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "WinOnMoorlands",
@@ -16212,7 +16217,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "WinPrestige10",
@@ -16260,7 +16265,7 @@
       "Name": "Taking Action",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "WinWithResolve",
@@ -16300,7 +16305,7 @@
       "Name": "No Deaths",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "WinWithoutOrders",
@@ -16380,7 +16385,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "WinWithFoxes",
@@ -16395,15 +16400,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18323,
+      "Progressed": 18327,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-16T06:56:59.7467087+00:00",
-  "LastChanged_Achievements": "2023-12-16T08:04:00.1904678+00:00",
+  "LastChanged_Achievements": "2023-12-16T09:04:15.6478705+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-16T07:57:01.9578213+00:00",
-  "LastUpdate_Achievements": "2023-12-16T08:04:00.1905558+00:00"
+  "LastUpdate_Ratings": "2023-12-16T08:57:00.4692097+00:00",
+  "LastUpdate_Achievements": "2023-12-16T09:04:15.6479888+00:00"
 }

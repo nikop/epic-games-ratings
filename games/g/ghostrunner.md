@@ -6,14 +6,14 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~18,470 |
+| Longrunner | 76.00% | ~18,471 |
 | Sword Runner | 61.00% | ~14,825 |
 | Running out of breath | 53.00% | ~12,881 |
 | Wallrunner | 53.00% | ~12,881 |
-| Homerunner | 45.00% | ~10,936 |
-| Out of order | 44.00% | ~10,693 |
-| I call it luck | 43.00% | ~10,450 |
-| Where are my Keys? | 40.00% | ~9,721 |
+| Homerunner | 45.00% | ~10,937 |
+| Out of order | 44.00% | ~10,694 |
+| I call it luck | 43.00% | ~10,451 |
+| Where are my Keys? | 40.00% | ~9,722 |
 | Back to hell | 36.00% | ~8,749 |
 | Perfection | 32.00% | ~7,777 |
 | Why not both | 30.00% | ~7,291 |
@@ -25,9 +25,9 @@ Number of Ratings: 1,047  (23.09.2022)
 | Running Wild | 26.00% | ~6,319 |
 | Unstoppable force | 22.00% | ~5,347 |
 | Wave of mutilation | 22.00% | ~5,347 |
-| Can't Run Can't Hide | 16.00% | ~3,888 |
-| Dead in the air | 15.00% | ~3,645 |
-| R is for Running | 15.00% | ~3,645 |
+| Can't Run Can't Hide | 16.00% | ~3,889 |
+| Dead in the air | 15.00% | ~3,646 |
+| R is for Running | 15.00% | ~3,646 |
 | Improvise, adapt, overrun | 12.00% | ~2,916 |
 | Pre-empative strike | 12.00% | ~2,916 |
 | Strike | 12.00% | ~2,916 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~97 |
 | Up Close And Personal | 0.40% | ~97 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,303 (Ranked 139)  
+Progressed: 24,304 (Ranked 139)  
 Completed: 93 (0.38%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,11 +292,11 @@ Completed: 93 (0.38%) (Ranked 227)
 | 2023-12-13 | 24,057 | 93 |
 | 2023-12-14 | 24,160 | 93 |
 | 2023-12-15 | 24,264 | 93 |
-| 2023-12-16 | 24,303 | 93 |
+| 2023-12-16 | 24,304 | 93 |
 ## Awards
 Max (Great Boss Battles): 527  (Ranked 211)  
-Sum: 764 (Ranked 287)  
-Diff (max vs sum): -76  
+Sum: 764 (Ranked 288)  
+Diff (max vs sum): -77  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 527 |

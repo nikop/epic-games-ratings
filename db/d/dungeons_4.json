@@ -1689,9 +1689,9 @@
       "ID": "ach_main06transporter_completed",
       "SetID": "4hg22ll",
       "Name": "Heroes\u2019 Gorge",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 371
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -1705,9 +1705,9 @@
       "ID": "ach_main06transporter_transport",
       "SetID": "4hg22ll",
       "Name": "YOU SHALL NOT PASS!",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 286
     },
     {
       "ID": "ach_main07storm_classified",
@@ -2064,8 +2064,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-16T08:05:44.8777237+00:00",
+  "LastChanged_Achievements": "2023-12-16T09:06:11.8270078+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-16T07:57:46.5224262+00:00",
-  "LastUpdate_Achievements": "2023-12-16T08:05:44.8777768+00:00"
+  "LastUpdate_Ratings": "2023-12-16T08:57:50.5392318+00:00",
+  "LastUpdate_Achievements": "2023-12-16T09:06:11.8270707+00:00"
 }

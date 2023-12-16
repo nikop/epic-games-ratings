@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -3530,9 +3530,9 @@
       "ID": "ID_ACHIEV_01",
       "SetID": "98bke8c",
       "Name": "P.A.X",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1864
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -4074,8 +4074,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-16T08:04:09.7641768+00:00",
+  "LastChanged_Achievements": "2023-12-16T09:04:26.5564229+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.6535047+00:00",
-  "LastUpdate_Ratings": "2023-12-16T08:00:13.9104645+00:00",
-  "LastUpdate_Achievements": "2023-12-16T08:04:09.7642555+00:00"
+  "LastUpdate_Ratings": "2023-12-16T09:00:37.0748349+00:00",
+  "LastUpdate_Achievements": "2023-12-16T09:04:26.556524+00:00"
 }

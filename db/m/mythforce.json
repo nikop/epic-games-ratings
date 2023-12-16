@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -836,9 +836,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5548,
+  "EOS_Progressed": 5550,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11151,6 +11151,11 @@
       "Time": "2023-12-16T06:05:47.0219058+00:00",
       "NumProgressed": 5548,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-16T09:05:50.4463453+00:00",
+      "NumProgressed": 5550,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11211,7 +11216,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11227,7 +11232,7 @@
       "Name": "Flawless Victory",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -11251,7 +11256,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -11346,15 +11351,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5548,
+      "Progressed": 5550,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-15T05:01:12.5073089+00:00",
-  "LastChanged_Achievements": "2023-12-16T08:05:25.911539+00:00",
+  "LastChanged_Achievements": "2023-12-16T09:05:50.4463448+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.410244+00:00",
-  "LastUpdate_Ratings": "2023-12-16T08:02:21.610585+00:00",
-  "LastUpdate_Achievements": "2023-12-16T08:05:25.9116014+00:00"
+  "LastUpdate_Ratings": "2023-12-16T09:00:44.3573364+00:00",
+  "LastUpdate_Achievements": "2023-12-16T09:05:50.446416+00:00"
 }

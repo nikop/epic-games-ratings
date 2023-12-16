@@ -495,9 +495,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 254750,
+  "EOS_Progressed": 254754,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27320,6 +27320,11 @@
       "Time": "2023-12-16T08:05:16.9755902+00:00",
       "NumProgressed": 254750,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-16T09:05:40.2669112+00:00",
+      "NumProgressed": 254754,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -27331,7 +27336,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 68782
+      "UsersEstimate": 68784
     },
     {
       "ID": "ACH_AON",
@@ -27403,7 +27408,7 @@
       "Name": "Hoarder",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7642
+      "UsersEstimate": 7643
     },
     {
       "ID": "ACH_HERCULESBEPROUD",
@@ -27451,7 +27456,7 @@
       "Name": "I like to sniff around",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7642
+      "UsersEstimate": 7643
     },
     {
       "ID": "ACH_IRONDEC",
@@ -27475,7 +27480,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 73878
+      "UsersEstimate": 73879
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -27603,7 +27608,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17832
+      "UsersEstimate": 17833
     },
     {
       "ID": "ACH_MEMESMART",
@@ -27627,7 +27632,7 @@
       "Name": "Mind reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7642
+      "UsersEstimate": 7643
     },
     {
       "ID": "ACH_NOSTRINGS",
@@ -27746,7 +27751,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 254750,
+      "Progressed": 254754,
       "Completed": 7
     }
   ],
@@ -27754,8 +27759,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-30T10:59:11.8312964+00:00",
-  "LastChanged_Achievements": "2023-12-16T08:05:16.9755899+00:00",
+  "LastChanged_Achievements": "2023-12-16T09:05:40.2669107+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:18.8009639+00:00",
-  "LastUpdate_Ratings": "2023-12-16T08:02:39.7757711+00:00",
-  "LastUpdate_Achievements": "2023-12-16T08:05:16.9757268+00:00"
+  "LastUpdate_Ratings": "2023-12-16T09:02:45.0716209+00:00",
+  "LastUpdate_Achievements": "2023-12-16T09:05:40.2670772+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.15 (Ranked 962)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,399 |
-| Unlocked Potential | 9.00% | ~3,959 |
+| Attachments | 10.00% | ~4,400 |
+| Unlocked Potential | 9.00% | ~3,960 |
 | Tinkerer | 7.00% | ~3,080 |
 | Leapfrogger | 6.00% | ~2,640 |
 | Knock 'Em Dead | 6.00% | ~2,640 |
@@ -35,20 +35,20 @@ Rating: 4.15 (Ranked 962)
 | Forspoken | 1.00% | ~440 |
 | Pilgrimage: Novice | 1.00% | ~440 |
 | Wildfire | 0.70% | ~308 |
-| Realized Potential | 0.70% | ~308 |
 | Awakening | 0.60% | ~264 |
 | Explorer: Trailblazer | 0.60% | ~264 |
+| Realized Potential | 0.60% | ~264 |
 | Through the Eyes of Another: Seer | 0.40% | ~176 |
 | Archivist | 0.30% | ~132 |
 | Craftsperson | 0.30% | ~132 |
 | Tit for Tat | 0.30% | ~132 |
 | Promises | 0.30% | ~132 |
-| Rebirth | 0.30% | ~132 |
 | Paragon | 0.20% | ~88 |
 | Pilgrimage: Adept | 0.20% | ~88 |
 | Call of the Fount: Beatified | 0.20% | ~88 |
 | I Can Fly! | 0.20% | ~88 |
 | A Roaring Trade | 0.20% | ~88 |
+| Rebirth | 0.20% | ~88 |
 | Abominizer | 0.10% | ~44 |
 | Through the Eyes of Another: Visionary | 0.10% | ~44 |
 | Kit and Caboodle | 0.10% | ~44 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 962)
 | Remembrance | 0.10% | ~44 |
 | Cat Person | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,993 (Ranked 119)  
+Progressed: 44,002 (Ranked 119)  
 Completed: 3 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 3 (0.01%) (Ranked 353)
 | 2023-12-13 | 43,625 | 3 |
 | 2023-12-14 | 43,783 | 3 |
 | 2023-12-15 | 43,925 | 3 |
-| 2023-12-16 | 43,993 | 3 |
+| 2023-12-16 | 44,002 | 3 |
 ## Awards
 Max (Character Customization): 30  (Ranked 503)  
 Sum: 30 (Ranked 521)  

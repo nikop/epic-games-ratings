@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -53,9 +53,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1207,
+  "EOS_Progressed": 1208,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2328,6 +2328,11 @@
       "Time": "2023-12-16T08:03:32.8469804+00:00",
       "NumProgressed": 1207,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T09:03:45.2678427+00:00",
+      "NumProgressed": 1208,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2339,7 +2344,7 @@
       "Name": "Full house",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "CHALLENGE_ALPHA",
@@ -2539,7 +2544,7 @@
       "Name": "Hear me out",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "RUIN_CLEAR",
@@ -2698,7 +2703,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1207,
+      "Progressed": 1208,
       "Completed": 0
     }
   ],
@@ -2706,8 +2711,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-11-18T18:58:25.1922744+00:00",
-  "LastChanged_Achievements": "2023-12-16T08:03:32.8469801+00:00",
+  "LastChanged_Achievements": "2023-12-16T09:03:45.2678421+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:06.2219482+00:00",
-  "LastUpdate_Ratings": "2023-12-16T08:02:43.2198404+00:00",
-  "LastUpdate_Achievements": "2023-12-16T08:03:32.8470266+00:00"
+  "LastUpdate_Ratings": "2023-12-16T09:02:48.7048112+00:00",
+  "LastUpdate_Achievements": "2023-12-16T09:03:45.2678856+00:00"
 }

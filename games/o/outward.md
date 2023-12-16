@@ -6,26 +6,26 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,920 |
-| Ready for Winter | 64.00% | ~2,492 |
-| Ready for Summer | 51.00% | ~1,985 |
-| Cordon Bleu | 44.00% | ~1,713 |
-| Tapped! | 37.00% | ~1,440 |
+| Venture Outward | 75.00% | ~2,921 |
+| Ready for Winter | 64.00% | ~2,493 |
+| Ready for Summer | 51.00% | ~1,986 |
+| Cordon Bleu | 43.00% | ~1,675 |
+| Tapped! | 37.00% | ~1,441 |
 | Eureka | 32.00% | ~1,246 |
-| Scourge Slayer | 26.00% | ~1,012 |
-| Exceptional Skill | 23.00% | ~895 |
-| Science, Troglodyte! | 23.00% | ~895 |
-| Home Sweet Home | 22.00% | ~856 |
+| Scourge Slayer | 26.00% | ~1,013 |
+| Exceptional Skill | 23.00% | ~896 |
+| Science, Troglodyte! | 23.00% | ~896 |
+| Home Sweet Home | 22.00% | ~857 |
 | Encyclopedic! | 20.00% | ~779 |
 | The Power of Family | 17.00% | ~662 |
 | A Fortress Toppled! | 16.00% | ~623 |
 | Apex Predator | 16.00% | ~623 |
 | Strange amalgams | 12.00% | ~467 |
 | The Power of Faith | 12.00% | ~467 |
-| The Power of Freedom | 10.00% | ~389 |
-| Ace Detective | 8.00% | ~311 |
-| Gift from the Ancestors | 8.00% | ~311 |
-| Magic is a science | 8.00% | ~311 |
+| The Power of Freedom | 10.00% | ~390 |
+| Ace Detective | 8.00% | ~312 |
+| Gift from the Ancestors | 8.00% | ~312 |
+| Magic is a science | 8.00% | ~312 |
 | House of Cards | 7.00% | ~273 |
 | Let ‘em eat magma! | 7.00% | ~273 |
 | The power of ambition | 7.00% | ~273 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~16 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,893 (Ranked 204)  
+Progressed: 3,895 (Ranked 204)  
 Completed: 5 (0.13%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 5 (0.13%) (Ranked 283)
 | 2023-12-13 | 3,741 | 4 |
 | 2023-12-14 | 3,790 | 4 |
 | 2023-12-15 | 3,863 | 5 |
-| 2023-12-16 | 3,893 | 5 |
+| 2023-12-16 | 3,895 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 483)  
 Sum: 246 (Ranked 387)  

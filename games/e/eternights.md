@@ -25,7 +25,7 @@
 | Yohan's Promise | 5.00% | ~25 |
 | Flawless | 5.00% | ~25 |
 | Plushyboy | 4.00% | ~20 |
-| LOVEassistant | 3.00% | ~15 |
+| LOVEassistant | 4.00% | ~20 |
 | True Player | 1.00% | ~5 |
 | Dreamboat | 1.00% | ~5 |
 | Bond Lord | 0.20% | ~1 |

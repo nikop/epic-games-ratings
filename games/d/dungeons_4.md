@@ -13,7 +13,7 @@
 | Experienced Thalya | 71.00% | ~405 |
 | Thalya's Concentrated Fury | 68.00% | ~388 |
 | Bad Elves Go Everywhere | 68.00% | ~388 |
-| Heroes’ Gorge | 64.00% | ~365 |
+| Heroes’ Gorge | 65.00% | ~371 |
 | Master of Magic | 63.00% | ~360 |
 | Unicorn steaks – fresh off the hoof! | 61.00% | ~348 |
 | Magic Accidents | 59.00% | ~337 |
@@ -23,8 +23,8 @@
 | Minions, Minions! | 54.00% | ~308 |
 | The Big Eaty | 53.00% | ~303 |
 | Hard Work | 52.00% | ~297 |
+| YOU SHALL NOT PASS! | 50.00% | ~286 |
 | “… like son” | 50.00% | ~286 |
-| YOU SHALL NOT PASS! | 49.00% | ~280 |
 | The Cathedral of Light | 46.00% | ~263 |
 | Pure Dynamite! | 45.00% | ~257 |
 | Dungeonlord Gorgu | 45.00% | ~257 |

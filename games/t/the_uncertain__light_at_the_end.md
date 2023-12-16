@@ -19,7 +19,7 @@ Rating: 3.82 (Ranked 1,046)
 | U Mad Bro? | 11.00% | ~64 |
 | Short Circuit | 11.00% | ~64 |
 | A Stealthy Outlook | 7.00% | ~41 |
-| Catch You Later | 7.00% | ~41 |
+| Catch You Later | 6.00% | ~35 |
 | Between the Covers | 5.00% | ~29 |
 | Den Mother | 5.00% | ~29 |
 | Antisocial Club | 4.00% | ~23 |
@@ -35,7 +35,7 @@ Rating: 3.82 (Ranked 1,046)
 | Marvellous Toys | 2.00% | ~12 |
 | Hardcore Gamer | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 584 (Ranked 311)  
+Progressed: 585 (Ranked 310)  
 Completed: 6 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 6 (1.03%) (Ranked 170)
 | 2023-12-13 | 579 | 6 |
 | 2023-12-14 | 581 | 6 |
 | 2023-12-15 | 583 | 6 |
-| 2023-12-16 | 584 | 6 |
+| 2023-12-16 | 585 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

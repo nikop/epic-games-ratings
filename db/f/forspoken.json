@@ -487,9 +487,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 43993,
+  "EOS_Progressed": 44002,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15277,6 +15277,11 @@
       "Time": "2023-12-16T08:08:12.9582973+00:00",
       "NumProgressed": 43993,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T09:08:23.3210686+00:00",
+      "NumProgressed": 44002,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15336,7 +15341,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4399
+      "UsersEstimate": 4400
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -15614,9 +15619,9 @@
       "ID": "SKILLTREE_ALL",
       "SetID": "6d0g7k8",
       "Name": "Realized Potential",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 264
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -15624,7 +15629,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3959
+      "UsersEstimate": 3960
     },
     {
       "ID": "SPRING_ALL",
@@ -15694,9 +15699,9 @@
       "ID": "SUBQUEST_CIPAL",
       "SetID": "6d0g7k8",
       "Name": "Rebirth",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 88
     },
     {
       "ID": "TANTACAT_ALL",
@@ -15711,22 +15716,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43993,
+      "Progressed": 44002,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8830,
-      "Completed": 8830
+      "Progressed": 8839,
+      "Completed": 8839
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-16T02:18:37.9301013+00:00",
-  "LastChanged_Achievements": "2023-12-16T08:08:12.9582962+00:00",
+  "LastChanged_Achievements": "2023-12-16T09:08:23.3210681+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:12.2339808+00:00",
-  "LastUpdate_Ratings": "2023-12-16T07:57:57.4058422+00:00",
-  "LastUpdate_Achievements": "2023-12-16T08:08:12.9583883+00:00"
+  "LastUpdate_Ratings": "2023-12-16T08:58:03.6557011+00:00",
+  "LastUpdate_Achievements": "2023-12-16T09:08:23.32116+00:00"
 }
