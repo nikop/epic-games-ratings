@@ -26,7 +26,7 @@
 | 16 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 4.88 | 0 | 565 |
 | 16 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 565 |
 | 26 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.87 | 24 | 531 |
-| 26 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 307 | 253 |
+| 26 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 308 | 253 |
 | 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,532 | 133 |
 | 26 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 746 | 183 |
 | 26 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 0 | 565 |
@@ -74,7 +74,7 @@
 | 68 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 0 | 565 |
 | 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 565 |
 | 68 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 486 |
-| 68 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 955 | 161 |
+| 68 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 959 | 161 |
 | 68 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 240 | 273 |
 | 68 | [Sifu](games/s/sifu.md) | 4.82 | 6,930 | 55 |
 | 68 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 433 | 230 |
@@ -159,7 +159,7 @@
 | 150 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 4.75 | 23 | 540 |
 | 150 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.75 | 0 | 565 |
 | 150 | [Remnant 2](games/r/remnant_2.md) | 4.75 | 2,779 | 101 |
-| 150 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 854 | 171 |
+| 150 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 855 | 171 |
 | 150 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 421 | 231 |
 | 162 | [Diabotical](games/d/diabotical.md) | 4.74 | 291 | 259 |
 | 162 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 847 | 172 |
@@ -269,7 +269,7 @@
 | 261 | [Coromon](games/c/coromon.md) | 4.68 | 43 | 459 |
 | 261 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,718 | 51 |
 | 261 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,088 | 85 |
-| 261 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 757 | 180 |
+| 261 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 760 | 180 |
 | 261 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.68 | 5,815 | 67 |
 | 261 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 318,973 | 3 |
 | 261 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 277,224 | 4 |
@@ -641,18 +641,18 @@
 | 638 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.48 | 44 | 457 |
 | 638 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 565 |
 | 638 | [First Class Trouble](games/f/first_class_trouble.md) | 4.48 | 146 | 323 |
-| 638 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 565 |
 | 638 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 565 |
 | 638 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 565 |
-| 645 | [ATOM RPG](games/a/atom_rpg.md) | 4.47 | 52 | 432 |
-| 645 | [Death Coming](games/d/death_coming.md) | 4.47 | 0 | 565 |
-| 645 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,602 | 90 |
-| 645 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.47 | 0 | 565 |
-| 645 | [MythForce](games/m/mythforce.md) | 4.47 | 36 | 480 |
-| 645 | [Riverbond](games/r/riverbond.md) | 4.47 | 21 | 553 |
-| 645 | [Rocket League®](games/r/rocket_league®.md) | 4.47 | 658,109 | 2 |
-| 645 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 565 |
-| 645 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 565 |
+| 644 | [ATOM RPG](games/a/atom_rpg.md) | 4.47 | 52 | 432 |
+| 644 | [Death Coming](games/d/death_coming.md) | 4.47 | 0 | 565 |
+| 644 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,602 | 90 |
+| 644 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.47 | 0 | 565 |
+| 644 | [MythForce](games/m/mythforce.md) | 4.47 | 36 | 480 |
+| 644 | [Riverbond](games/r/riverbond.md) | 4.47 | 21 | 553 |
+| 644 | [Rocket League®](games/r/rocket_league®.md) | 4.47 | 658,109 | 2 |
+| 644 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 565 |
+| 644 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.47 | 0 | 565 |
+| 644 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 565 |
 | 654 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.46 | 0 | 565 |
 | 654 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 565 |
 | 654 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,785 | 89 |
@@ -737,7 +737,7 @@
 | 729 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 0 | 565 |
 | 729 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.41 | 0 | 565 |
 | 729 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 38 | 470 |
-| 729 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 504 | 213 |
+| 729 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 505 | 213 |
 | 729 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,237 | 109 |
 | 729 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 72 | 403 |
 | 729 | [Sheltered](games/s/sheltered.md) | 4.41 | 276 | 263 |
