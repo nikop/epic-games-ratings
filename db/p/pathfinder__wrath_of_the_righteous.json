@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4607,9 +4607,9 @@
       "Count": 401
     }
   ],
-  "EOS_Progressed": 12365,
+  "EOS_Progressed": 12368,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17012,6 +17012,11 @@
       "Time": "2023-12-16T04:09:41.1991507+00:00",
       "NumProgressed": 12365,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T05:09:41.7938376+00:00",
+      "NumProgressed": 12368,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17039,7 +17044,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "04_FithCrusade",
@@ -17077,9 +17082,9 @@
       "ID": "08_PathOfAngel",
       "SetID": "989of5o",
       "Name": "Path of the Angel",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 866
     },
     {
       "ID": "09_PathOfDemon",
@@ -17271,7 +17276,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -17391,7 +17396,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2349
+      "UsersEstimate": 2350
     },
     {
       "ID": "49_Flame",
@@ -17919,7 +17924,7 @@
       "Name": "This Wall Won\u0027t Fall",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "DLC4_27_Not the Last Sarkorian",
@@ -17927,7 +17932,7 @@
       "Name": "Not the Last Sarkorian",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -17950,21 +17955,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11147,
+      "Progressed": 11150,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12365,
+      "Progressed": 12368,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-15T21:58:59.5020076+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:09:41.1991504+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:09:41.7938371+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:58:58.4519048+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:09:41.1993927+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:58:51.1371227+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:09:41.7940108+00:00"
 }

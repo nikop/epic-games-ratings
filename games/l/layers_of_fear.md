@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Something important | 79.00% | ~99 |
-| Wanderer | 69.00% | ~86 |
+| Wanderer | 70.00% | ~88 |
 | A piece of the story | 57.00% | ~71 |
 | It's covered up for a reason | 44.00% | ~55 |
 | Do what you have to | 44.00% | ~55 |

@@ -503,7 +503,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 533214,
+  "EOS_Progressed": 533217,
   "EOS_Completed": 509,
   "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 4,
@@ -25878,6 +25878,11 @@
       "Time": "2023-12-16T04:04:22.3266682+00:00",
       "NumProgressed": 533214,
       "NumCompleted": 509
+    },
+    {
+      "Time": "2023-12-16T05:04:24.0107116+00:00",
+      "NumProgressed": 533217,
+      "NumCompleted": 509
     }
   ],
   "TotalAchievements": 57,
@@ -25889,7 +25894,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 122639
+      "UsersEstimate": 122640
     },
     {
       "ID": "10",
@@ -25897,7 +25902,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 239946
+      "UsersEstimate": 239948
     },
     {
       "ID": "11",
@@ -25905,7 +25910,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 373250
+      "UsersEstimate": 373252
     },
     {
       "ID": "12",
@@ -25913,7 +25918,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 117307
+      "UsersEstimate": 117308
     },
     {
       "ID": "13",
@@ -25937,7 +25942,7 @@
       "Name": "Walking The Line",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 53321
+      "UsersEstimate": 53322
     },
     {
       "ID": "16",
@@ -25945,7 +25950,7 @@
       "Name": "Road Less Travelled",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47989
+      "UsersEstimate": 47990
     },
     {
       "ID": "17",
@@ -25961,7 +25966,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79982
+      "UsersEstimate": 79983
     },
     {
       "ID": "19",
@@ -25969,7 +25974,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 330593
+      "UsersEstimate": 330595
     },
     {
       "ID": "2",
@@ -25977,7 +25982,7 @@
       "Name": "Not So Cute Anymore",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 53321
+      "UsersEstimate": 53322
     },
     {
       "ID": "20",
@@ -25985,7 +25990,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 127971
+      "UsersEstimate": 127972
     },
     {
       "ID": "21",
@@ -26001,7 +26006,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 47989
+      "UsersEstimate": 47990
     },
     {
       "ID": "23",
@@ -26049,7 +26054,7 @@
       "Name": "Talk the Talk",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 15996
+      "UsersEstimate": 15997
     },
     {
       "ID": "29",
@@ -26113,7 +26118,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 266607
+      "UsersEstimate": 266608
     },
     {
       "ID": "36",
@@ -26121,7 +26126,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 85314
+      "UsersEstimate": 85315
     },
     {
       "ID": "37",
@@ -26137,7 +26142,7 @@
       "Name": "Skin in the Game",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 15996
+      "UsersEstimate": 15997
     },
     {
       "ID": "39",
@@ -26145,7 +26150,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 181293
+      "UsersEstimate": 181294
     },
     {
       "ID": "4",
@@ -26185,7 +26190,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 90646
+      "UsersEstimate": 90647
     },
     {
       "ID": "44",
@@ -26201,7 +26206,7 @@
       "Name": "Caving In",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15996
+      "UsersEstimate": 15997
     },
     {
       "ID": "46",
@@ -26209,7 +26214,7 @@
       "Name": "Page Turner",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15996
+      "UsersEstimate": 15997
     },
     {
       "ID": "47",
@@ -26217,7 +26222,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 330593
+      "UsersEstimate": 330595
     },
     {
       "ID": "48",
@@ -26233,7 +26238,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 181293
+      "UsersEstimate": 181294
     },
     {
       "ID": "5",
@@ -26265,7 +26270,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 245278
+      "UsersEstimate": 245280
     },
     {
       "ID": "53",
@@ -26273,7 +26278,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 122639
+      "UsersEstimate": 122640
     },
     {
       "ID": "54",
@@ -26305,7 +26310,7 @@
       "Name": "Spinal Adjustment",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 15996
+      "UsersEstimate": 15997
     },
     {
       "ID": "6",
@@ -26313,7 +26318,7 @@
       "Name": "The Knowledge",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 15996
+      "UsersEstimate": 15997
     },
     {
       "ID": "7",
@@ -26344,15 +26349,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 533214,
+      "Progressed": 533217,
       "Completed": 509
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:04:22.3266678+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:04:24.0107114+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:06.8552827+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:00:10.2466882+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:04:22.3268147+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:59:55.1536673+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:04:24.010848+00:00"
 }

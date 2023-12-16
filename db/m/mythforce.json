@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -836,9 +836,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5546,
+  "EOS_Progressed": 5547,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11141,6 +11141,11 @@
       "Time": "2023-12-16T03:06:52.3699541+00:00",
       "NumProgressed": 5546,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-16T05:05:42.5551557+00:00",
+      "NumProgressed": 5547,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11193,7 +11198,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -11241,7 +11246,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -11273,7 +11278,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -11336,15 +11341,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5546,
+      "Progressed": 5547,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-15T05:01:12.5073089+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:05:46.1491906+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:05:42.5551554+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.410244+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:00:33.7430289+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:05:46.149245+00:00"
+  "LastUpdate_Ratings": "2023-12-16T05:00:15.9392359+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:05:42.5552165+00:00"
 }

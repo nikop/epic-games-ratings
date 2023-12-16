@@ -2367,9 +2367,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 404
     },
     {
       "ID": "DevilRope",
@@ -2423,9 +2423,9 @@
       "ID": "HastrmanAcorn",
       "SetID": "db30heh",
       "Name": "Do Not Disturb",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 280
+      "UsersEstimate": 286
     },
     {
       "ID": "HastrmanAmanita",
@@ -2479,9 +2479,9 @@
       "ID": "PriestBroom",
       "SetID": "db30heh",
       "Name": "Chastisement",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 135
+      "UsersEstimate": 140
     },
     {
       "ID": "PriestPistol",
@@ -2551,9 +2551,9 @@
       "ID": "RogueKing",
       "SetID": "db30heh",
       "Name": "Long Live The King",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 174
     },
     {
       "ID": "RogueNaked",
@@ -2599,9 +2599,9 @@
       "ID": "SwordDiamond",
       "SetID": "db30heh",
       "Name": "Precious Barter",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 280
     },
     {
       "ID": "SwordMoneyBag",
@@ -2630,8 +2630,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:05:02.3399325+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:05:00.9356161+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:40.9635354+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:59:40.5406115+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:05:02.3399649+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:59:28.3579671+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:05:00.935656+00:00"
 }

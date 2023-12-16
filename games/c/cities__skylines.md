@@ -6,35 +6,35 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~867,773 |
-| Green Energy | 60.00% | ~733,329 |
-| Singing In The- | 59.00% | ~721,107 |
-| Foggy Weather | 58.00% | ~708,885 |
-| Unpopular Mayor | 40.00% | ~488,886 |
-| Power at Your Fingertips | 33.00% | ~403,331 |
-| City Planner | 22.00% | ~268,887 |
-| Rolling in Dough | 20.00% | ~244,443 |
-| Does My Bum Look Big In This? | 17.00% | ~207,777 |
-| Climbing the Social Ladder | 16.00% | ~195,554 |
-| Safe City | 13.00% | ~158,888 |
-| Quay-King | 11.00% | ~134,444 |
-| Lawmaker | 10.00% | ~122,222 |
-| With Canals You Can! | 10.00% | ~122,222 |
-| Nomen Est Omen | 7.00% | ~85,555 |
-| Well Informed | 6.00% | ~73,333 |
-| Fire Watch | 5.00% | ~61,111 |
-| Greenest City | 4.00% | ~48,889 |
-| Heavenly City | 3.00% | ~36,666 |
-| Reporting! | 3.00% | ~36,666 |
-| SIMulated City | 3.00% | ~36,666 |
-| The Safest Town | 3.00% | ~36,666 |
-| Professional Dumper | 2.00% | ~24,444 |
-| City in Motion | 1.00% | ~12,222 |
-| Earthloving City | 1.00% | ~12,222 |
-| Metropolis | 1.00% | ~12,222 |
+| Pioneer | 71.00% | ~867,810 |
+| Green Energy | 60.00% | ~733,360 |
+| Singing In The- | 59.00% | ~721,138 |
+| Foggy Weather | 58.00% | ~708,915 |
+| Unpopular Mayor | 40.00% | ~488,907 |
+| Power at Your Fingertips | 33.00% | ~403,348 |
+| City Planner | 22.00% | ~268,899 |
+| Rolling in Dough | 20.00% | ~244,453 |
+| Does My Bum Look Big In This? | 17.00% | ~207,785 |
+| Climbing the Social Ladder | 16.00% | ~195,563 |
+| Safe City | 13.00% | ~158,895 |
+| Quay-King | 11.00% | ~134,449 |
+| Lawmaker | 10.00% | ~122,227 |
+| With Canals You Can! | 10.00% | ~122,227 |
+| Nomen Est Omen | 7.00% | ~85,559 |
+| Well Informed | 6.00% | ~73,336 |
+| Fire Watch | 5.00% | ~61,113 |
+| Greenest City | 4.00% | ~48,891 |
+| Heavenly City | 3.00% | ~36,668 |
+| Reporting! | 3.00% | ~36,668 |
+| SIMulated City | 3.00% | ~36,668 |
+| The Safest Town | 3.00% | ~36,668 |
+| Professional Dumper | 2.00% | ~24,445 |
+| City in Motion | 1.00% | ~12,223 |
+| Earthloving City | 1.00% | ~12,223 |
+| Metropolis | 1.00% | ~12,223 |
 | Higher Education | 0.80% | ~9,778 |
 | Beam Me Up | 0.70% | ~8,556 |
-| Terraformer | 0.60% | ~7,333 |
+| Terraformer | 0.60% | ~7,334 |
 | Decorator | 0.50% | ~6,111 |
 | Full Capacity | 0.50% | ~6,111 |
 | It's heading right for us! | 0.50% | ~6,111 |
@@ -57,16 +57,16 @@ Number of Ratings: 25,248  (23.09.2022)
 | Here's A Tram | 0.30% | ~3,667 |
 | Short Fuse | 0.30% | ~3,667 |
 | We need snorkels! | 0.30% | ~3,667 |
-| City in Motion 2 | 0.20% | ~2,444 |
-| Eternal City | 0.20% | ~2,444 |
-| Friendly Teaching | 0.20% | ~2,444 |
-| It's Wintertime! | 0.20% | ~2,444 |
-| Make Them Pay | 0.20% | ~2,444 |
-| Medic! | 0.20% | ~2,444 |
-| New Eden | 0.20% | ~2,444 |
-| Power to the People | 0.20% | ~2,444 |
-| Run, Bambi! | 0.20% | ~2,444 |
-| The Park To Rule All Parks | 0.20% | ~2,444 |
+| City in Motion 2 | 0.20% | ~2,445 |
+| Eternal City | 0.20% | ~2,445 |
+| Friendly Teaching | 0.20% | ~2,445 |
+| It's Wintertime! | 0.20% | ~2,445 |
+| Make Them Pay | 0.20% | ~2,445 |
+| Medic! | 0.20% | ~2,445 |
+| New Eden | 0.20% | ~2,445 |
+| Power to the People | 0.20% | ~2,445 |
+| Run, Bambi! | 0.20% | ~2,445 |
+| The Park To Rule All Parks | 0.20% | ~2,445 |
 | 1001 Nights | 0.10% | ~1,222 |
 | Academic Scholar | 0.10% | ~1,222 |
 | Airline Tycoon | 0.10% | ~1,222 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,222 |
 | Z00 | 0.10% | ~1,222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,222,215 (Ranked 11)  
+Progressed: 1,222,267 (Ranked 11)  
 Completed: 11 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,7 +366,7 @@ Completed: 11 (0.00%) (Ranked 377)
 | 2023-12-13 | 1,218,998 | 11 |
 | 2023-12-14 | 1,220,508 | 11 |
 | 2023-12-15 | 1,221,983 | 11 |
-| 2023-12-16 | 1,222,215 | 11 |
+| 2023-12-16 | 1,222,267 | 11 |
 ## Awards
 Max (Great for Beginners): 6,457  (Ranked 60)  
 Sum: 47,758 (Ranked 31)  

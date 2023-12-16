@@ -5,15 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Master trainee | 36.00% | ~20 |
-| You have three wishes left | 33.00% | ~18 |
+| You have three wishes left | 32.00% | ~18 |
+| Jung's dream | 29.00% | ~16 |
 | The battle of Great Britain | 29.00% | ~16 |
-| Jung's dream | 27.00% | ~15 |
-| Pulp! Where Monsters Dwell | 24.00% | ~13 |
-| A continent with chemistry | 20.00% | ~11 |
+| Pulp! Where Monsters Dwell | 25.00% | ~14 |
+| A continent with chemistry | 21.00% | ~12 |
 | Giant | 16.00% | ~9 |
+| Pulp! Terror Tales in the Night | 16.00% | ~9 |
 | The happy farmer girl | 16.00% | ~9 |
-| Pulp! Terror Tales in the Night | 15.00% | ~8 |
-| Pulp! Out of this World | 15.00% | ~8 |
+| Pulp! Out of this World | 14.00% | ~8 |
 | The artist | 13.00% | ~7 |
 | The seer | 13.00% | ~7 |
 | Pulp! Adventures into the Unknown | 13.00% | ~7 |
@@ -52,7 +52,7 @@
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55 (Ranked 508)  
+Progressed: 56 (Ranked 507)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,3 +86,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 47 | 0 |
 | 2023-12-14 | 51 | 0 |
 | 2023-12-15 | 55 | 0 |
+| 2023-12-16 | 56 | 0 |

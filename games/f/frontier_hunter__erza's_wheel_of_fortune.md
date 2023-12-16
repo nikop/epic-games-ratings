@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~557 |
-| Training Simulation | 79.00% | ~478 |
-| Kuku Bird Hunter | 65.00% | ~393 |
-| Storm Traveller | 59.00% | ~357 |
+| Travel Streamer | 92.00% | ~558 |
+| Training Simulation | 79.00% | ~479 |
+| Kuku Bird Hunter | 65.00% | ~394 |
+| Storm Traveller | 59.00% | ~358 |
 | Wolf King Killer | 54.00% | ~327 |
 | Fashion Connoisseur | 52.00% | ~315 |
-| Arms Mechanic | 48.00% | ~290 |
-| Flower Thief | 43.00% | ~260 |
+| Arms Mechanic | 48.00% | ~291 |
+| Flower Thief | 43.00% | ~261 |
 | Apostle of Flame | 38.00% | ~230 |
 | Beginner Artificer | 37.00% | ~224 |
 | Beginner Cook | 36.00% | ~218 |
 | Seal Breaker | 31.00% | ~188 |
-| Handyman | 28.00% | ~169 |
-| Giant Lizard Killer | 26.00% | ~157 |
-| Guardian | 25.00% | ~151 |
-| Nosebleeder | 25.00% | ~151 |
+| Handyman | 28.00% | ~170 |
+| Giant Lizard Killer | 26.00% | ~158 |
+| Guardian | 25.00% | ~152 |
+| Nosebleeder | 25.00% | ~152 |
 | Trader | 21.00% | ~127 |
 | Weapon Boost | 21.00% | ~127 |
 | Flying Kobold Killer | 18.00% | ~109 |
@@ -32,9 +32,9 @@
 | Mermaid Killer | 14.00% | ~85 |
 | Cave Master | 14.00% | ~85 |
 | Face Slapper | 14.00% | ~85 |
-| Boss challenge | 10.00% | ~60 |
-| Berserker Slayer | 10.00% | ~60 |
-| Giantess Slayer | 9.00% | ~54 |
+| Boss challenge | 10.00% | ~61 |
+| Berserker Slayer | 10.00% | ~61 |
+| Giantess Slayer | 9.00% | ~55 |
 | Master Cook | 8.00% | ~48 |
 | Warden Slayer | 8.00% | ~48 |
 | Silver Moon Wolf King Challenge | 3.00% | ~18 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 605 (Ranked 308)  
+Progressed: 606 (Ranked 308)  
 Completed: 1 (0.17%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 1 (0.17%) (Ranked 274)
 | 2023-12-12 | 594 | 1 |
 | 2023-12-14 | 600 | 1 |
 | 2023-12-15 | 603 | 1 |
-| 2023-12-16 | 605 | 1 |
+| 2023-12-16 | 606 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

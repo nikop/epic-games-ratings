@@ -4,7 +4,7 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248,
+  "EOS_Progressed": 249,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1014,6 +1014,11 @@
       "Time": "2023-12-16T04:04:58.3387261+00:00",
       "NumProgressed": 248,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T05:04:57.2334577+00:00",
+      "NumProgressed": 249,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1024,9 +1029,9 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -1088,9 +1093,9 @@
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 57
+      "UsersEstimate": 55
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -1121,14 +1126,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 248,
+      "Progressed": 249,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:04:58.3387256+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:04:57.233457+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.6680838+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:58:53.7211221+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:04:58.3387389+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:58:46.9633571+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:04:57.2334786+00:00"
 }

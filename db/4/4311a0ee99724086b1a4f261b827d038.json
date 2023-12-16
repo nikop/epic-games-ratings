@@ -737,9 +737,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 237812,
+  "EOS_Progressed": 237814,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1143,
+  "EOS_NewPlayers": 1141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17582,6 +17582,11 @@
       "Time": "2023-12-16T04:09:41.3412885+00:00",
       "NumProgressed": 237812,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T05:09:41.6724485+00:00",
+      "NumProgressed": 237814,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -17626,7 +17631,7 @@
       "Name": "Bridge of Sighs Completed",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
@@ -17674,7 +17679,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9512
+      "UsersEstimate": 9513
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -17818,7 +17823,7 @@
       "Name": "The Karos Graveyard Complete",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "HW2_MISSION7_COMPLETE",
@@ -17850,7 +17855,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59453
+      "UsersEstimate": 59454
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -17865,7 +17870,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 237812,
+      "Progressed": 237814,
       "Completed": 0
     }
   ],
@@ -17873,8 +17878,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-15T15:02:38.8127479+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:09:41.3412882+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:09:41.6724478+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:59.9211133+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:02:47.5279054+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:09:41.3413752+00:00"
+  "LastUpdate_Ratings": "2023-12-16T05:02:55.9243333+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:09:41.6725589+00:00"
 }

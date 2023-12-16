@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4035,
+  "EOS_Progressed": 4047,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3286,
+  "EOS_NewPlayers": 3294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1103,6 +1103,11 @@
       "Time": "2023-12-16T04:09:15.7553783+00:00",
       "NumProgressed": 4035,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T05:09:18.665563+00:00",
+      "NumProgressed": 4047,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1115,7 +1120,7 @@
       "Name": "Conspiracy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "03_TheStolenStar",
@@ -1201,9 +1206,9 @@
       "ID": "13_TheDoomTrader",
       "SetID": "37a94m8",
       "Name": "Doom Trader",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -1225,9 +1230,9 @@
       "ID": "16_TheRise",
       "SetID": "37a94m8",
       "Name": "The Rise",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 81
     },
     {
       "ID": "17_TheExemplar",
@@ -1345,9 +1350,9 @@
       "ID": "31_DontTouchThis",
       "SetID": "37a94m8",
       "Name": "Don\u0027t Touch This",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "32_AviationSaviour",
@@ -1369,9 +1374,9 @@
       "ID": "34_CuriosityIsNotAVice",
       "SetID": "37a94m8",
       "Name": "Curiosity Is Not a Vice",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 28
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -1634,7 +1639,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 4035,
+      "Progressed": 4047,
       "Completed": 0
     }
   ],
@@ -1642,8 +1647,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-15T18:58:17.7479432+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:09:15.7553778+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:09:18.6655626+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:58:36.4712689+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:09:15.7554319+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:58:30.9482836+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:09:18.6656093+00:00"
 }

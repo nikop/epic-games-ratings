@@ -1443,9 +1443,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6384,
+  "EOS_Progressed": 6385,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14433,6 +14433,11 @@
       "Time": "2023-12-16T01:53:18.1673378+00:00",
       "NumProgressed": 6384,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-16T05:06:44.2203613+00:00",
+      "NumProgressed": 6385,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14548,7 +14553,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -14564,7 +14569,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -14604,7 +14609,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4788
+      "UsersEstimate": 4789
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14763,15 +14768,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6384,
+      "Progressed": 6385,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-13T06:00:46.4990656+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:06:53.6456918+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:06:44.2203607+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:43.3070216+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:58:12.6926764+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:06:53.6457591+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:58:10.1613354+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:06:44.2204491+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -471,9 +471,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3393,
+  "EOS_Progressed": 3394,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.07,
   "EosHistory": [
@@ -5426,6 +5426,11 @@
       "Time": "2023-12-16T01:48:46.932679+00:00",
       "NumProgressed": 3393,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-12-16T05:03:53.3880016+00:00",
+      "NumProgressed": 3394,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 14,
@@ -5445,7 +5450,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -5501,7 +5506,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -5509,7 +5514,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "ACH_REUNION",
@@ -5517,7 +5522,7 @@
       "Name": "Reunion",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -5525,7 +5530,7 @@
       "Name": "Shovel Night",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -5548,7 +5553,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3393,
+      "Progressed": 3394,
       "Completed": 138
     }
   ],
@@ -5556,8 +5561,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-18T13:02:58.1900278+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:03:48.9037085+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:03:53.3880014+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:09.6040213+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:00:35.8172622+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:03:48.9037452+00:00"
+  "LastUpdate_Ratings": "2023-12-16T05:00:18.0643873+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:03:53.3880524+00:00"
 }

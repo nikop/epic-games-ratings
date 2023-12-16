@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1757,
+  "EOS_Progressed": 1759,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5284,6 +5284,11 @@
       "Time": "2023-12-16T00:08:03.3413383+00:00",
       "NumProgressed": 1757,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T05:09:48.5583087+00:00",
+      "NumProgressed": 1759,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5368,7 +5373,7 @@
       "Name": "The power of the Force",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_19",
@@ -5392,15 +5397,15 @@
       "Name": "Collector",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_21",
       "SetID": "271ol84",
       "Name": "Tell Jabba that I\u0027ve got his money",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 176
+      "UsersEstimate": 158
     },
     {
       "ID": "achievement_22",
@@ -5440,7 +5445,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_27",
@@ -5520,7 +5525,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1566
     },
     {
       "ID": "achievement_36",
@@ -5528,7 +5533,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "achievement_37",
@@ -5536,7 +5541,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "achievement_38",
@@ -5568,7 +5573,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "achievement_41",
@@ -5576,7 +5581,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "achievement_42",
@@ -5799,13 +5804,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1757,
+      "Progressed": 1759,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1757,
+      "Progressed": 1759,
       "Completed": 1
     }
   ],
@@ -5813,8 +5818,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:09:48.7653133+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:09:48.5583082+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.6035488+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:58:58.3512608+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:09:48.7653923+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:58:51.0092861+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:09:48.5584178+00:00"
 }

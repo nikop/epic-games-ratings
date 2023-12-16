@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16443,
+  "EOS_Progressed": 16445,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13982,6 +13982,11 @@
       "Time": "2023-12-16T04:06:54.9890653+00:00",
       "NumProgressed": 16443,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-16T05:06:45.454167+00:00",
+      "NumProgressed": 16445,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14010,7 +14015,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "12",
@@ -14098,7 +14103,7 @@
       "Name": "Drone Dodger",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "22",
@@ -14146,7 +14151,7 @@
       "Name": "Bosmang",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "28",
@@ -14170,7 +14175,7 @@
       "Name": "Captain Drummer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "30",
@@ -14202,7 +14207,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "7",
@@ -14226,7 +14231,7 @@
       "Name": "Impossible Objects",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "31",
@@ -14273,13 +14278,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16443,
+      "Progressed": 16445,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2397,
+      "Progressed": 2399,
       "Completed": 894
     }
   ],
@@ -14287,8 +14292,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:06:54.9890646+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:06:45.4541667+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:57:59.1019534+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:06:54.9891467+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:57:57.736971+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:06:45.4542418+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -950,7 +950,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 28789,
+  "EOS_Progressed": 28790,
   "EOS_Completed": 1400,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 6,
@@ -7705,6 +7705,11 @@
       "Time": "2023-12-16T04:09:11.7550482+00:00",
       "NumProgressed": 28789,
       "NumCompleted": 1400
+    },
+    {
+      "Time": "2023-12-16T05:09:15.0836764+00:00",
+      "NumProgressed": 28790,
+      "NumCompleted": 1400
     }
   ],
   "TotalAchievements": 30,
@@ -7716,7 +7721,7 @@
       "Name": "Survivor",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 12955
+      "UsersEstimate": 12956
     },
     {
       "ID": "ACH_ALL_TRANSFORM",
@@ -7756,7 +7761,7 @@
       "Name": "Deep Impact",
       "Percentage": 23,
       "XP": 70,
-      "UsersEstimate": 6621
+      "UsersEstimate": 6622
     },
     {
       "ID": "ACH_CATCH_ALL",
@@ -7764,7 +7769,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 9212
+      "UsersEstimate": 9213
     },
     {
       "ID": "ACH_CATCH_HALF",
@@ -7812,7 +7817,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 27925
+      "UsersEstimate": 27926
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -7820,7 +7825,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 19864
+      "UsersEstimate": 19865
     },
     {
       "ID": "ACH_GOLEM",
@@ -7852,7 +7857,7 @@
       "Name": "Talkin\u0027 \u0027Bout Bugsnax",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 17561
+      "UsersEstimate": 17562
     },
     {
       "ID": "ACH_LAUNCH",
@@ -7868,7 +7873,7 @@
       "Name": "Vacation\u0027s End",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 15258
+      "UsersEstimate": 15259
     },
     {
       "ID": "ACH_PUZZLE",
@@ -7876,7 +7881,7 @@
       "Name": "That Reminds Me of a Puzzle",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12379
+      "UsersEstimate": 12380
     },
     {
       "ID": "ACH_RETURN_ALL",
@@ -7900,7 +7905,7 @@
       "Name": "Grab Bag",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 6621
+      "UsersEstimate": 6622
     },
     {
       "ID": "ACH_SNAXBURG",
@@ -7908,7 +7913,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 26774
+      "UsersEstimate": 26775
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -7924,7 +7929,7 @@
       "Name": "Sundae Best",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4030
+      "UsersEstimate": 4031
     },
     {
       "ID": "ACH_TRANSFORM_GRAMBLE",
@@ -7948,22 +7953,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 25046
+      "UsersEstimate": 25047
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28789,
+      "Progressed": 28790,
       "Completed": 1400
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-12-14T20:01:26.4308829+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:09:11.7550477+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:09:15.0836757+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:23.6496884+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:57:15.6217311+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:09:11.7551002+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:57:19.1105655+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:09:15.0837191+00:00"
 }

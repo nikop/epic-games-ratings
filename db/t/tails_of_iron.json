@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2245,
+  "EOS_Progressed": 2246,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -3977,6 +3977,11 @@
       "Time": "2023-12-15T15:05:06.6722551+00:00",
       "NumProgressed": 2245,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-16T05:05:26.9342978+00:00",
+      "NumProgressed": 2246,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 30,
@@ -3988,7 +3993,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "Collect20Gold",
@@ -4012,7 +4017,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "CollectAllStatues",
@@ -4052,7 +4057,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "CompleteElderFaction",
@@ -4068,7 +4073,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1842
     },
     {
       "ID": "CompleteHunterFaction",
@@ -4076,7 +4081,7 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "CompleteStoryDM",
@@ -4092,7 +4097,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "DefeatMoziQueen",
@@ -4124,7 +4129,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "GetRangedWeapon",
@@ -4132,7 +4137,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "GetTHWeapon",
@@ -4156,7 +4161,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1414
+      "UsersEstimate": 1415
     },
     {
       "ID": "Kill25Mozi",
@@ -4164,7 +4169,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "MeetTheMoles",
@@ -4172,7 +4177,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "MysteryKingsChamber",
@@ -4220,29 +4225,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2245,
+      "Progressed": 2246,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 886,
-      "Completed": 886
+      "Progressed": 887,
+      "Completed": 887
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:05:28.8118396+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:05:26.9342973+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:13.9280126+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:58:36.3673542+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:05:28.8118692+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:58:30.9393419+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:05:26.934335+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.61 (Ranked 388)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Thorny Situation | 0.40% | ~34 |
+| A Thorny Situation | 0.50% | ~42 |
 | Azoria Beckons | 0.30% | ~25 |
 | Calm Sailing | 0.30% | ~25 |
 | Open the Gate! | 0.30% | ~25 |
 | Clear the Air | 0.30% | ~25 |
 | Break-Net Speed | 0.30% | ~25 |
+| ... And Spit Back Out | 0.30% | ~25 |
 | Bramble Breaker | 0.30% | ~25 |
 | Search for the Hairy Grell | 0.20% | ~17 |
 | Flaming Hot Completos | 0.20% | ~17 |
 | Lumberjack | 0.20% | ~17 |
 | Miner 49er | 0.20% | ~17 |
 | Humble Collector | 0.20% | ~17 |
-| ... And Spit Back Out | 0.20% | ~17 |
 | Mist Walker | 0.20% | ~17 |
 | Higher Tax Bracket | 0.20% | ~17 |
 | Chatty Neighbor | 0.20% | ~17 |

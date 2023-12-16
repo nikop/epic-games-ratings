@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 99.00% | ~492 |
-| Hidden History | 75.00% | ~373 |
-| Commencing of Quests | 65.00% | ~323 |
-| Budding Conjuror | 65.00% | ~323 |
-| Man-Machine Master | 55.00% | ~273 |
-| Subsistence Skills | 55.00% | ~273 |
-| Charmed by the Hunt | 54.00% | ~268 |
-| Fusion Conjuror | 53.00% | ~263 |
-| Mountain Splitter | 53.00% | ~263 |
-| Memory Rouser | 51.00% | ~253 |
+| Land of the Rising Sun | 99.00% | ~493 |
+| Hidden History | 76.00% | ~378 |
+| Commencing of Quests | 65.00% | ~324 |
+| Budding Conjuror | 64.00% | ~319 |
+| Subsistence Skills | 55.00% | ~274 |
+| Man-Machine Master | 54.00% | ~269 |
+| Charmed by the Hunt | 54.00% | ~269 |
+| Fusion Conjuror | 53.00% | ~264 |
+| Mountain Splitter | 53.00% | ~264 |
+| Memory Rouser | 51.00% | ~254 |
 | Kemono Hunter | 47.00% | ~234 |
 | Expert Conjuror | 45.00% | ~224 |
 | Flawless Crystal | 44.00% | ~219 |
@@ -33,14 +33,14 @@
 | Team Hunter | 27.00% | ~134 |
 | Reincarnation Cycle Stopper | 26.00% | ~129 |
 | Karakuri Isle | 25.00% | ~124 |
-| Unrivaled in Arms | 22.00% | ~109 |
-| Left Arm Leverager | 21.00% | ~104 |
-| Human Believer | 21.00% | ~104 |
-| Canyon of Karakuri | 20.00% | ~99 |
-| Style Seeker | 20.00% | ~99 |
-| Karakuri Minato | 20.00% | ~99 |
-| Threaded Harmony | 19.00% | ~94 |
-| Quintessence of Form | 17.00% | ~84 |
+| Left Arm Leverager | 21.00% | ~105 |
+| Human Believer | 21.00% | ~105 |
+| Unrivaled in Arms | 21.00% | ~105 |
+| Canyon of Karakuri | 20.00% | ~100 |
+| Style Seeker | 20.00% | ~100 |
+| Karakuri Minato | 20.00% | ~100 |
+| Threaded Harmony | 19.00% | ~95 |
+| Quintessence of Form | 17.00% | ~85 |
 | Karakuri Fortress | 16.00% | ~80 |
 | Jack of All Trades | 16.00% | ~80 |
 | Haven Hunter | 15.00% | ~75 |
@@ -53,7 +53,7 @@
 | Bewitched by Bathing | 8.00% | ~40 |
 | Tsukumo Whisperer | 5.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497 (Ranked 323)  
+Progressed: 498 (Ranked 323)  
 Completed: 8 (1.61%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,4 +145,4 @@ Completed: 8 (1.61%) (Ranked 139)
 | 2023-12-13 | 394 | 8 |
 | 2023-12-14 | 442 | 8 |
 | 2023-12-15 | 484 | 8 |
-| 2023-12-16 | 497 | 8 |
+| 2023-12-16 | 498 | 8 |

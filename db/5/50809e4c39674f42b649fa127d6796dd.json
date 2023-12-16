@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 460,
+  "EOS_Progressed": 461,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
@@ -1202,6 +1202,11 @@
       "Time": "2023-12-16T01:49:23.9441447+00:00",
       "NumProgressed": 460,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T05:04:30.0349897+00:00",
+      "NumProgressed": 461,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1270,7 +1275,7 @@
       "Name": "Combo Convert",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1278,7 +1283,7 @@
       "Name": "Perfect Run",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1286,7 +1291,7 @@
       "Name": "Big Encounter",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -1294,7 +1299,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -1302,7 +1307,7 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1318,7 +1323,7 @@
       "Name": "Unknown Threat",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1334,7 +1339,7 @@
       "Name": "Superior Ranking",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1380,9 +1385,9 @@
       "ID": "MAIN_CLEAR_ISLAND3",
       "SetID": "apihg0e",
       "Name": "Futile Resistance",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "MAIN_CLEAR_ISLAND4",
@@ -1406,7 +1411,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1533,14 +1538,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 460,
+      "Progressed": 461,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:04:28.7506107+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:04:30.0349893+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:06.567221+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:02:59.1106027+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:04:28.7506443+00:00"
+  "LastUpdate_Ratings": "2023-12-16T05:03:06.2143825+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:04:30.0350172+00:00"
 }

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2588,
+  "EOS_Progressed": 2591,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6362,6 +6362,11 @@
       "Time": "2023-12-16T04:03:57.5786552+00:00",
       "NumProgressed": 2588,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T05:04:01.1953308+00:00",
+      "NumProgressed": 2591,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6374,7 +6379,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -6382,7 +6387,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -6414,7 +6419,7 @@
       "Name": "Make It Your Own!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -6446,7 +6451,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -6550,7 +6555,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -6582,7 +6587,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -6662,7 +6667,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -6670,7 +6675,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -6678,7 +6683,7 @@
       "Name": "Champagne Spray",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -6765,14 +6770,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2588,
+      "Progressed": 2591,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:03:57.5786545+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:04:01.1953305+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.7630663+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:00:30.2526765+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:03:57.5787165+00:00"
+  "LastUpdate_Ratings": "2023-12-16T05:00:12.9636035+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:04:01.1953958+00:00"
 }

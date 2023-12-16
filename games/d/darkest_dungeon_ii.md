@@ -6,19 +6,19 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~143 |
-| This Belongs in a Museum | 3.00% | ~3,825 |
-| This guy... again? | 3.00% | ~71 |
-| Bloody Graduation | 3.00% | ~71 |
-| Lost and Found | 3.00% | ~71 |
-| Serenity Now! | 2.00% | ~2,550 |
-| Not Today! | 2.00% | ~2,550 |
-| Creep and Sleep | 2.00% | ~2,550 |
-| Meat and Greet | 2.00% | ~2,550 |
-| Catch and Decease | 2.00% | ~2,550 |
-| Overdue Notice | 2.00% | ~2,550 |
-| Escape from the Black Hole | 2.00% | ~2,550 |
-| Autodidact | 2.00% | ~2,550 |
+| Malpractice Assurance | 6.00% | ~144 |
+| Lost and Found | 4.00% | ~96 |
+| This Belongs in a Museum | 3.00% | ~3,826 |
+| This guy... again? | 3.00% | ~72 |
+| Bloody Graduation | 3.00% | ~72 |
+| Serenity Now! | 2.00% | ~2,551 |
+| Not Today! | 2.00% | ~2,551 |
+| Creep and Sleep | 2.00% | ~2,551 |
+| Meat and Greet | 2.00% | ~2,551 |
+| Catch and Decease | 2.00% | ~2,551 |
+| Overdue Notice | 2.00% | ~2,551 |
+| Escape from the Black Hole | 2.00% | ~2,551 |
+| Autodidact | 2.00% | ~2,551 |
 | Ploughshares to Swords | 2.00% | ~48 |
 | Don't Make Me Turn This Coach Around | 1.00% | ~1,275 |
 | It Rings a Bell | 1.00% | ~1,275 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,510 (Ranked 84)  
+Progressed: 127,532 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
-| 2023-12-16 | 127,510 | 3 |
+| 2023-12-16 | 127,532 | 3 |
 ## Awards
 Max (Character Customization): 7,718  (Ranked 51)  
 Sum: 20,523 (Ranked 58)  

@@ -997,9 +997,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9403,
+  "EOS_Progressed": 9404,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9377,6 +9377,11 @@
       "Time": "2023-12-16T03:09:00.4201771+00:00",
       "NumProgressed": 9403,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-16T05:08:41.2737788+00:00",
+      "NumProgressed": 9404,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9404,7 +9409,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4137
+      "UsersEstimate": 4138
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -9532,7 +9537,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -9580,7 +9585,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4325
+      "UsersEstimate": 4326
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -9684,7 +9689,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -9724,7 +9729,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -9747,7 +9752,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9403,
+      "Progressed": 9404,
       "Completed": 10
     }
   ],
@@ -9755,8 +9760,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-12T17:02:56.6362998+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:08:35.1336317+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:08:41.2737783+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:02.1312935+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:58:00.0309215+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:08:35.1337028+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:57:58.592687+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:08:41.2738573+00:00"
 }

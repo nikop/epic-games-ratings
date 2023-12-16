@@ -15,14 +15,14 @@
 | Desert Rat | 9.00% | ~19 |
 | Health Care | 8.00% | ~17 |
 | Perfect Soldier | 7.00% | ~15 |
-| Healing | 7.00% | ~15 |
 | Good payer | 7.00% | ~15 |
 | Pathfinder | 7.00% | ~15 |
-| Food Tycoon | 7.00% | ~15 |
-| Fuel Tycoon | 7.00% | ~15 |
 | Ammo Tycoon | 7.00% | ~15 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~13 |
+| Healing | 6.00% | ~13 |
 | Self-sufficient | 6.00% | ~13 |
+| Food Tycoon | 6.00% | ~13 |
+| Fuel Tycoon | 6.00% | ~13 |
 | Outdoor Decorator | 5.00% | ~11 |
 | Overpopulation | 5.00% | ~11 |
 | Property Bro | 5.00% | ~11 |
@@ -49,7 +49,7 @@
 | Sandbox Expert | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215 (Ranked 395)  
+Progressed: 216 (Ranked 395)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,4 +128,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 211 | 0 |
 | 2023-12-14 | 213 | 0 |
 | 2023-12-15 | 214 | 0 |
-| 2023-12-16 | 215 | 0 |
+| 2023-12-16 | 216 | 0 |

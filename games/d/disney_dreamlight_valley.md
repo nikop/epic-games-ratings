@@ -6,13 +6,13 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 69.00% | ~8,730 |
-| Photographer | 68.00% | ~8,603 |
+| Goofy's Investor | 69.00% | ~8,731 |
+| Photographer | 68.00% | ~8,604 |
 | Valley's Helper | 61.00% | ~7,718 |
 | Constructor | 51.00% | ~6,453 |
 | Renovator | 51.00% | ~6,453 |
 | Bestest Friend | 46.00% | ~5,820 |
-| Banker | 39.00% | ~4,934 |
+| Banker | 39.00% | ~4,935 |
 | Gardener | 31.00% | ~3,922 |
 | Generous | 25.00% | ~3,163 |
 | Chef Cook | 19.00% | ~2,404 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 6.00% | ~759 |
 | Chit Chatter | 3.00% | ~380 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,652 (Ranked 162)  
+Progressed: 12,653 (Ranked 162)  
 Completed: 313 (2.47%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 313 (2.47%) (Ranked 123)
 | 2023-12-13 | 12,548 | 312 |
 | 2023-12-14 | 12,588 | 313 |
 | 2023-12-15 | 12,639 | 313 |
-| 2023-12-16 | 12,652 | 313 |
+| 2023-12-16 | 12,653 | 313 |
 ## Awards
 Max (Great for Beginners): 1,130  (Ranked 144)  
 Sum: 8,166 (Ranked 107)  

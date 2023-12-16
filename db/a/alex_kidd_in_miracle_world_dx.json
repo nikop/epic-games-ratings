@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 343,
+  "EOS_Progressed": 344,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.17,
+  "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -594,6 +594,11 @@
       "Time": "2023-12-15T20:05:43.9214695+00:00",
       "NumProgressed": 343,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-16T05:04:49.2672917+00:00",
+      "NumProgressed": 344,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -659,9 +664,9 @@
       "ID": "GRIZZLY_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Assailants",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 86
+      "UsersEstimate": 89
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -732,7 +737,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 343,
+      "Progressed": 344,
       "Completed": 4
     }
   ],
@@ -740,8 +745,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:04:49.6591674+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:04:49.2672914+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:46.4832216+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:58:11.8455685+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:04:49.6591792+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:58:09.3732692+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:04:49.2673016+00:00"
 }

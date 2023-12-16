@@ -9,11 +9,11 @@ Rating: 4.62 (Ranked 370)
 | Realm Estate | 4.00% | ~228 |
 | A Wonderful Discovery | 4.00% | ~228 |
 | Walls Cannot Stop Us | 4.00% | ~228 |
+| From Friends to Family | 4.00% | ~228 |
 | But this one is mine | 4.00% | ~228 |
 | There Can Only Be One! | 3.00% | ~171 |
 | Full Ascension | 3.00% | ~171 |
 | Bone Peddler | 3.00% | ~171 |
-| From Friends to Family | 3.00% | ~171 |
 | Magical Synergy | 3.00% | ~171 |
 | Seat of Power | 3.00% | ~171 |
 | Valley of Wonders | 2.00% | ~114 |

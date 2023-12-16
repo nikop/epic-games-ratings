@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 215,
+  "EOS_Progressed": 216,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -954,6 +954,11 @@
       "Time": "2023-12-16T04:04:21.096242+00:00",
       "NumProgressed": 215,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T05:04:22.9473159+00:00",
+      "NumProgressed": 216,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -1068,9 +1073,9 @@
       "ID": "ACHIEVEMENT_ID_20",
       "SetID": "c504de6",
       "Name": "Healing",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_ID_21",
@@ -1196,17 +1201,17 @@
       "ID": "ACHIEVEMENT_ID_35",
       "SetID": "c504de6",
       "Name": "Food Tycoon",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_ID_36",
       "SetID": "c504de6",
       "Name": "Fuel Tycoon",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_ID_37",
@@ -1317,14 +1322,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 215,
+      "Progressed": 216,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:04:21.0962416+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:04:22.9473155+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:22.741551+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:59:17.552774+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:04:21.0962741+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:59:07.9954971+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:04:22.9473542+00:00"
 }

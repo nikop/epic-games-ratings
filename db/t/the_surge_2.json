@@ -6,8 +6,8 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 227,
-  "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -282,9 +282,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2247,
+  "EOS_Progressed": 2248,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -3387,6 +3387,11 @@
       "Time": "2023-12-16T04:03:35.3408236+00:00",
       "NumProgressed": 2247,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-16T05:03:40.8454828+00:00",
+      "NumProgressed": 2248,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3406,7 +3411,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "ACHV_03",
@@ -3414,7 +3419,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "ACHV_04",
@@ -3534,7 +3539,7 @@
       "Name": "True Survivor",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACHV_19",
@@ -3566,7 +3571,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACHV_23",
@@ -3620,9 +3625,9 @@
       "ID": "ACHV_29",
       "SetID": "8p5mlmc",
       "Name": "Triplets",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 225
     },
     {
       "ID": "ACHV_30",
@@ -3662,7 +3667,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACHV_35",
@@ -3702,7 +3707,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "ACHV_40",
@@ -3718,7 +3723,7 @@
       "Name": "Suited and Booted",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "ACHV_42",
@@ -3750,7 +3755,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACHV_46",
@@ -3758,7 +3763,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACHV_47",
@@ -3853,7 +3858,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2247,
+      "Progressed": 2248,
       "Completed": 13
     }
   ],
@@ -3861,8 +3866,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-22T02:25:03.2214817+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:03:35.3408231+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:03:40.8454825+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:57.0176831+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:57:12.637306+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:03:35.340885+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:57:16.8910639+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:03:40.8455465+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,7 +289,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19062,
+  "EOS_Progressed": 19063,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
@@ -13709,6 +13709,11 @@
       "Time": "2023-12-16T03:04:13.8381546+00:00",
       "NumProgressed": 19062,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-16T05:03:48.4684387+00:00",
+      "NumProgressed": 19063,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13760,7 +13765,7 @@
       "Name": "Chief Information Officer",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "0007",
@@ -13792,7 +13797,7 @@
       "Name": "Social of Solace",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "0011",
@@ -13920,7 +13925,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2288
     },
     {
       "ID": "0027",
@@ -13984,7 +13989,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2288
     },
     {
       "ID": "0035",
@@ -14007,7 +14012,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19062,
+      "Progressed": 19063,
       "Completed": 4
     }
   ],
@@ -14015,8 +14020,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:03:43.5342493+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:03:48.4684384+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:34.3621794+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:59:30.9780165+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:03:43.5343361+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:59:19.5995556+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:03:48.4685258+00:00"
 }

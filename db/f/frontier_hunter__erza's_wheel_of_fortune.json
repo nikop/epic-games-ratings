@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 605,
+  "EOS_Progressed": 606,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1972,6 +1972,11 @@
       "Time": "2023-12-16T04:08:43.4806276+00:00",
       "NumProgressed": 605,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T05:08:49.0230201+00:00",
+      "NumProgressed": 606,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1983,7 +1988,7 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1991,7 +1996,7 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -1999,7 +2004,7 @@
       "Name": "Guardian",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -2007,7 +2012,7 @@
       "Name": "Nosebleeder",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -2071,7 +2076,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2111,7 +2116,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2151,7 +2156,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2175,7 +2180,7 @@
       "Name": "Boss challenge",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2239,7 +2244,7 @@
       "Name": "Storm Traveller",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2255,7 +2260,7 @@
       "Name": "Berserker Slayer",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -2263,7 +2268,7 @@
       "Name": "Giantess Slayer",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -2311,7 +2316,7 @@
       "Name": "Flower Thief",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2335,14 +2340,14 @@
       "Name": "Handyman",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 605,
+      "Progressed": 606,
       "Completed": 1
     }
   ],
@@ -2350,8 +2355,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:08:43.4806271+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:08:49.0230195+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.1790952+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:58:41.9661869+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:08:43.4806675+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:58:36.419582+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:08:49.0230548+00:00"
 }

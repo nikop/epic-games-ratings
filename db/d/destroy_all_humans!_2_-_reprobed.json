@@ -757,9 +757,9 @@
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -982,8 +982,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:08:26.7296155+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:08:33.5342913+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:04.5493724+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:59:22.7494339+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:08:26.7296409+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:59:12.6638392+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:08:33.5343225+00:00"
 }

@@ -7529,10 +7529,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27743,
       "NumberOfAwardsMax": 4896
+    },
+    {
+      "Time": "2023-12-16T05:03:10.4092736+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27747,
+      "NumberOfAwardsMax": 4896
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27743,
+  "NumberOfAwards": 27747,
   "NumberOfAwardsMax": 4896,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7582,12 +7588,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3795
+      "Count": 3799
     }
   ],
-  "EOS_Progressed": 145740,
+  "EOS_Progressed": 145749,
   "EOS_Completed": 316,
-  "EOS_NewPlayers": 1365,
+  "EOS_NewPlayers": 1370,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -32615,6 +32621,11 @@
       "Time": "2023-12-16T04:04:54.9926455+00:00",
       "NumProgressed": 145740,
       "NumCompleted": 316
+    },
+    {
+      "Time": "2023-12-16T05:04:54.0635376+00:00",
+      "NumProgressed": 145749,
+      "NumCompleted": 316
     }
   ],
   "TotalAchievements": 112,
@@ -32794,7 +32805,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11659
+      "UsersEstimate": 11660
     },
     {
       "ID": "chest02",
@@ -32890,7 +32901,7 @@
       "Name": "Disintermediation",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8744
+      "UsersEstimate": 8745
     },
     {
       "ID": "craft02",
@@ -33402,7 +33413,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8744
+      "UsersEstimate": 8745
     },
     {
       "ID": "sell02",
@@ -33442,7 +33453,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11659
+      "UsersEstimate": 11660
     },
     {
       "ID": "twinenchant01",
@@ -33521,15 +33532,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 145740,
+      "Progressed": 145749,
       "Completed": 316
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-15T23:02:59.3397918+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:04:54.9926451+00:00",
+  "LastChanged": "2023-12-16T05:03:10.4092734+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:04:54.0635372+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2420411+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:03:03.8224946+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:04:54.9928786+00:00"
+  "LastUpdate_Ratings": "2023-12-16T05:03:10.409274+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:04:54.0637675+00:00"
 }

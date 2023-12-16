@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 326,
+  "EOS_Progressed": 327,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1154,6 +1154,11 @@
       "Time": "2023-12-16T04:09:21.0553567+00:00",
       "NumProgressed": 326,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T05:09:23.3781702+00:00",
+      "NumProgressed": 327,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1164,7 +1169,7 @@
       "ID": "DODO_RE_MI_NOON_LIGHT",
       "SetID": "9j9h72e",
       "Name": "Dodo Re Mi: Noonlight Sonata",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -1172,9 +1177,9 @@
       "ID": "DODO_RE_MI_PAPER_BLADDER",
       "SetID": "9j9h72e",
       "Name": "Dodo Re Mi: Paper Bladder",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "DODO_RE_MI_SAX_FAMILY",
@@ -1228,9 +1233,9 @@
       "ID": "RISKYTEXT_BOOST_VOTE",
       "SetID": "9j9h72e",
       "Name": "FixyText: Pump It Up",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -1278,7 +1283,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -1325,14 +1330,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 326,
+      "Progressed": 327,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-16T04:09:21.0553563+00:00",
+  "LastChanged_Achievements": "2023-12-16T05:09:23.3781697+00:00",
   "LastUpdate_AppInfo": "2023-12-16T01:42:15.0489028+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:02:38.5380155+00:00",
-  "LastUpdate_Achievements": "2023-12-16T04:09:21.0553701+00:00"
+  "LastUpdate_Ratings": "2023-12-16T05:02:47.7943713+00:00",
+  "LastUpdate_Achievements": "2023-12-16T05:09:23.3781836+00:00"
 }
