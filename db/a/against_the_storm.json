@@ -3461,9 +3461,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18285,
+  "EOS_Progressed": 18287,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15876,6 +15876,11 @@
       "Time": "2023-12-16T02:22:41.8060567+00:00",
       "NumProgressed": 18285,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-16T03:04:50.8466522+00:00",
+      "NumProgressed": 18287,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15958,9 +15963,9 @@
       "ID": "MetalChain",
       "SetID": "cfbk359",
       "Name": "Refinery",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 55
     },
     {
       "ID": "Win5Years",
@@ -15998,9 +16003,9 @@
       "ID": "WinNearArmory",
       "SetID": "cfbk359",
       "Name": "Ruined Armory",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 165
     },
     {
       "ID": "WinNearBandit",
@@ -16359,15 +16364,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18285,
+      "Progressed": 18287,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-15T16:01:40.7819682+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:22:41.8060564+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:04:50.8466517+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:21:02.0523805+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:22:41.8061429+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:02:28.2343207+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:04:50.8467698+00:00"
 }

@@ -48,7 +48,7 @@ Rating: 4.50 (Ranked 599)
 | Terrifying | 1.00% | ~323 |
 | Therapeutic | 0.80% | ~258 |
 | Rift Seeker | 0.60% | ~194 |
-| Master Collector | 0.50% | ~161 |
+| Master Collector | 0.50% | ~162 |
 | Ghost Expert | 0.30% | ~97 |
 | Catostrophic Destroyer | 0.20% | ~65 |
 | I don't need these | 0.20% | ~65 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 599)
 | Ultimate Defense | 0.20% | ~65 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,299 (Ranked 127)  
+Progressed: 32,300 (Ranked 127)  
 Completed: 69 (0.21%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,15 +297,15 @@ Completed: 69 (0.21%) (Ranked 261)
 | 2023-12-13 | 32,229 | 69 |
 | 2023-12-14 | 32,251 | 69 |
 | 2023-12-15 | 32,291 | 69 |
-| 2023-12-16 | 32,299 | 69 |
+| 2023-12-16 | 32,300 | 69 |
 ## Awards
 Max (Great for Beginners): 323  (Ranked 251)  
-Sum: 2,908 (Ranked 179)  
+Sum: 2,909 (Ranked 179)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 323 |
-| This game is Great for Quick Sessions | 317 |
+| This game is Great for Quick Sessions | 318 |
 | This game has Diverse Characters | 305 |
 | This game has Amazing Storytelling | 290 |
 | This game is Highly Recommended | 288 |
@@ -559,3 +559,4 @@ Diff (max vs sum): 72
 | 2023-12-12 | 4.50 | 321 | 2,901 |
 | 2023-12-14 | 4.50 | 323 | 2,906 |
 | 2023-12-15 | 4.50 | 323 | 2,908 |
+| 2023-12-16 | 4.50 | 323 | 2,909 |

@@ -5,9 +5,9 @@
   "Ranking_Rating": 370,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 275,
+  "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 981,
+  "EOS_Progressed": 983,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2669,6 +2669,11 @@
       "Time": "2023-12-16T01:54:38.687934+00:00",
       "NumProgressed": 981,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-16T03:10:10.2545964+00:00",
+      "NumProgressed": 983,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2704,7 +2709,7 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2712,7 +2717,7 @@
       "Name": "Right On Time",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2720,7 +2725,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ClockworkProgress1",
@@ -2728,15 +2733,15 @@
       "Name": "Like Clockwork",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ClovemaryGift",
       "SetID": "a9e499d",
       "Name": "Clovemary for Remembering",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 49
     },
     {
       "ID": "CosmeticCompletion1",
@@ -2744,7 +2749,7 @@
       "Name": "Sartorialist",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "CosmeticProgress1",
@@ -2768,7 +2773,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -2808,7 +2813,7 @@
       "Name": "The Betrayer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2832,7 +2837,7 @@
       "Name": "Whiz Kid",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "GrindingTime1",
@@ -2846,9 +2851,9 @@
       "ID": "HexlockGift",
       "SetID": "a9e499d",
       "Name": "Hexlock for Protection",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 49
     },
     {
       "ID": "InxChromaInTheatre",
@@ -2880,7 +2885,7 @@
       "Name": "Cartographer",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "NoCritterSump",
@@ -2926,9 +2931,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 206
     },
     {
       "ID": "ParryRepeated1",
@@ -2968,7 +2973,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "RewindParry",
@@ -2992,7 +2997,7 @@
       "Name": "Golem Chaser",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "SkillCompletion1",
@@ -3040,7 +3045,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "TheaterChests1",
@@ -3103,7 +3108,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 981,
+      "Progressed": 983,
       "Completed": 6
     }
   ],
@@ -3111,8 +3116,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:28:02.4997808+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:10:10.254596+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:21:09.7149144+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:28:02.4998217+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:02:40.0892572+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:10:10.2546427+00:00"
 }

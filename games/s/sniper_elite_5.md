@@ -5,7 +5,7 @@ Rating: 4.44 (Ranked 683)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,892 |
+| Meeting Resistance | 47.00% | ~1,893 |
 | Confirming Suspicions | 42.00% | ~1,691 |
 | The Kraken Wakes | 37.00% | ~1,490 |
 | It's Starting to Crack | 34.00% | ~1,369 |
@@ -14,16 +14,16 @@ Rating: 4.44 (Ranked 683)
 | Taking it back | 29.00% | ~1,168 |
 | Resourceful | 27.00% | ~1,087 |
 | Target America | 27.00% | ~1,087 |
-| The Kraken Sleeps | 25.00% | ~1,006 |
+| The Kraken Sleeps | 25.00% | ~1,007 |
 | As Quiet as a Mouse | 24.00% | ~966 |
 | Liberté | 23.00% | ~926 |
 | Organ Grinder | 23.00% | ~926 |
 | Sharpshooter | 23.00% | ~926 |
 | Gunslinger | 19.00% | ~765 |
 | Explosive Efficiency | 19.00% | ~765 |
-| Climbing the Ladder | 17.00% | ~684 |
-| Just a Flesh Wound | 17.00% | ~684 |
-| Der Geist | 17.00% | ~684 |
+| Climbing the Ladder | 17.00% | ~685 |
+| Just a Flesh Wound | 17.00% | ~685 |
+| Der Geist | 17.00% | ~685 |
 | Close Quarters | 16.00% | ~644 |
 | Snake in the Grass | 16.00% | ~644 |
 | Brains of the Operation | 16.00% | ~644 |
@@ -33,7 +33,7 @@ Rating: 4.44 (Ranked 683)
 | Opposing Force | 14.00% | ~564 |
 | Enemy at the Gates | 14.00% | ~564 |
 | Fields of Glory | 14.00% | ~564 |
-| Set Europe Ablaze | 13.00% | ~523 |
+| Set Europe Ablaze | 13.00% | ~524 |
 | Precision Is Key | 10.00% | ~403 |
 | My Little Friend | 10.00% | ~403 |
 | Rigged to Blow | 9.00% | ~362 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 683)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,026 (Ranked 200)  
+Progressed: 4,027 (Ranked 200)  
 Completed: 11 (0.27%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 11 (0.27%) (Ranked 248)
 | 2023-12-13 | 4,009 | 11 |
 | 2023-12-14 | 4,017 | 11 |
 | 2023-12-15 | 4,025 | 11 |
-| 2023-12-16 | 4,026 | 11 |
+| 2023-12-16 | 4,027 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 512)  
 Sum: 28 (Ranked 528)  

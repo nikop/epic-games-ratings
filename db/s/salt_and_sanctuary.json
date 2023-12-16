@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2862,9 +2862,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 540891,
+  "EOS_Progressed": 540892,
   "EOS_Completed": 1643,
-  "EOS_NewPlayers": 597,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -29312,6 +29312,11 @@
       "Time": "2023-12-16T01:48:46.7020919+00:00",
       "NumProgressed": 540891,
       "NumCompleted": 1643
+    },
+    {
+      "Time": "2023-12-16T03:04:20.4959541+00:00",
+      "NumProgressed": 540892,
+      "NumCompleted": 1643
     }
   ],
   "TotalAchievements": 37,
@@ -29339,7 +29344,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 167676
+      "UsersEstimate": 167677
     },
     {
       "ID": "DEVOTED",
@@ -29419,7 +29424,7 @@
       "Name": "Storied",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 32453
+      "UsersEstimate": 32454
     },
     {
       "ID": "THE_ALKYMANCERY",
@@ -29435,7 +29440,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 216356
+      "UsersEstimate": 216357
     },
     {
       "ID": "THE_CASTLE",
@@ -29449,9 +29454,9 @@
       "ID": "THE_CAVE",
       "SetID": "7f6ck5n",
       "Name": "The Cave",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37862
+      "UsersEstimate": 43271
     },
     {
       "ID": "THE_CONSTRUCT",
@@ -29459,7 +29464,7 @@
       "Name": "The Construct",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32453
+      "UsersEstimate": 32454
     },
     {
       "ID": "THE_CRYPT",
@@ -29515,7 +29520,7 @@
       "Name": "The Lake",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32453
+      "UsersEstimate": 32454
     },
     {
       "ID": "THE_MIRE",
@@ -29555,7 +29560,7 @@
       "Name": "The Ruins",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32453
+      "UsersEstimate": 32454
     },
     {
       "ID": "THE_SACRIFICE",
@@ -29579,7 +29584,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 346170
+      "UsersEstimate": 346171
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -29595,7 +29600,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91951
+      "UsersEstimate": 91952
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -29618,15 +29623,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 540891,
+      "Progressed": 540892,
       "Completed": 1643
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-12-14T22:57:42.1351723+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:22:19.6562483+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:04:20.4959537+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:10.0345559+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:18:32.3325752+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:22:19.6564026+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:58:10.8360451+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:04:20.4961262+00:00"
 }

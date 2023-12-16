@@ -14,17 +14,17 @@ Rating: 4.53 (Ranked 547)
 | Impossible Objects | 8.00% | ~1,315 |
 | Spore Taste | 7.00% | ~1,151 |
 | Martian Music | 7.00% | ~1,151 |
-| Safe Cracker | 7.00% | ~167 |
-| Zen Master | 7.00% | ~167 |
-| Madame Undersecretary | 7.00% | ~167 |
+| Safe Cracker | 7.00% | ~168 |
+| Zen Master | 7.00% | ~168 |
+| Madame Undersecretary | 7.00% | ~168 |
 | Stogie for Fogey | 6.00% | ~986 |
 | Call it Even | 6.00% | ~986 |
-| Keep Arjun in Check | 6.00% | ~143 |
+| Keep Arjun in Check | 6.00% | ~144 |
 | Data Archivist | 5.00% | ~822 |
 | Drug Gifter | 5.00% | ~822 |
 | Heal Thy Medic | 5.00% | ~822 |
-| Thorston Mayer | 4.00% | ~657 |
-| Khan's Revenge | 4.00% | ~657 |
+| Thorston Mayer | 4.00% | ~658 |
+| Khan's Revenge | 4.00% | ~658 |
 | Master Negotiator | 4.00% | ~96 |
 | Doctor Approved | 3.00% | ~493 |
 | Bottoms up! | 3.00% | ~493 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 547)
 | Scavenger Star | 0.20% | ~33 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,436 (Ranked 152)  
+Progressed: 16,439 (Ranked 152)  
 Completed: 43 (0.26%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 43 (0.26%) (Ranked 250)
 | 2023-12-13 | 16,124 | 43 |
 | 2023-12-14 | 16,263 | 43 |
 | 2023-12-15 | 16,416 | 43 |
-| 2023-12-16 | 16,436 | 43 |
+| 2023-12-16 | 16,439 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

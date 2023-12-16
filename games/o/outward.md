@@ -46,7 +46,7 @@ Number of Ratings: 266  (23.09.2022)
 | Vanquisher of nightmares | 1.00% | ~39 |
 | Through fire and flame. | 0.70% | ~27 |
 | Legacy of a master hunter | 0.40% | ~15 |
-| Master of Aurai | 0.30% | ~12 |
+| Master of Aurai | 0.40% | ~15 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,874 (Ranked 203)  

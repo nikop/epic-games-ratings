@@ -5,7 +5,7 @@ Rating: 4.20 (Ranked 928)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 11.00% | ~1,887 |
+| Get a Grip | 11.00% | ~1,888 |
 | Flesh Wound | 10.00% | ~1,716 |
 | Paper Jams | 10.00% | ~1,716 |
 | The Outer Way | 9.00% | ~1,544 |
@@ -13,13 +13,13 @@ Rating: 4.20 (Ranked 928)
 | Float Like A Butterfly | 8.00% | ~1,373 |
 | Desperate Times | 8.00% | ~1,373 |
 | Reforged | 7.00% | ~1,201 |
-| Two Heads Are Better Than One | 6.00% | ~1,029 |
-| Workplace Hazard | 6.00% | ~1,029 |
-| If the SHU Fits... | 6.00% | ~1,029 |
-| Without A Paddle | 6.00% | ~1,029 |
-| In the Pipe, Five by Five | 6.00% | ~1,029 |
-| Crash Site | 6.00% | ~1,029 |
-| Power Up | 6.00% | ~1,029 |
+| Two Heads Are Better Than One | 6.00% | ~1,030 |
+| Workplace Hazard | 6.00% | ~1,030 |
+| If the SHU Fits... | 6.00% | ~1,030 |
+| Without A Paddle | 6.00% | ~1,030 |
+| In the Pipe, Five by Five | 6.00% | ~1,030 |
+| Crash Site | 6.00% | ~1,030 |
+| Power Up | 6.00% | ~1,030 |
 | Keep Fighting | 6.00% | ~305 |
 | You Need a Gun | 5.00% | ~858 |
 | I Do Belong Here | 5.00% | ~858 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 928)
 | Bear Trap | 0.10% | ~5 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,158 (Ranked 150)  
+Progressed: 17,161 (Ranked 150)  
 Completed: 82 (0.48%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 82 (0.48%) (Ranked 212)
 | 2023-12-13 | 16,561 | 81 |
 | 2023-12-14 | 16,823 | 81 |
 | 2023-12-15 | 17,123 | 82 |
-| 2023-12-16 | 17,158 | 82 |
+| 2023-12-16 | 17,161 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 85  (Ranked 390)  
 Sum: 509 (Ranked 328)  

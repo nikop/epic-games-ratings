@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mind Spike | 0.10% | ~207 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,844 (Ranked 66)  
+Progressed: 240,851 (Ranked 66)  
 Completed: 2,532 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -793,7 +793,7 @@ Completed: 2,532 (1.05%) (Ranked 167)
 | 2023-12-13 | 239,847 | 2,519 |
 | 2023-12-14 | 240,414 | 2,526 |
 | 2023-12-15 | 240,802 | 2,532 |
-| 2023-12-16 | 240,844 | 2,532 |
+| 2023-12-16 | 240,851 | 2,532 |
 ## Awards
 Max (Great for Beginners): 5,645  (Ranked 70)  
 Sum: 32,899 (Ranked 41)  

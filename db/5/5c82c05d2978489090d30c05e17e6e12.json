@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67253,
+  "EOS_Progressed": 67257,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 2325,
+  "EOS_NewPlayers": 2323,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3712,6 +3712,11 @@
       "Time": "2023-12-16T02:23:43.4893853+00:00",
       "NumProgressed": 67253,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-12-16T03:06:16.3960556+00:00",
+      "NumProgressed": 67257,
+      "NumCompleted": 80
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -3724,7 +3729,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 24884
+      "UsersEstimate": 24885
     },
     {
       "ID": "Achievement_10",
@@ -3812,7 +3817,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 18158
+      "UsersEstimate": 18159
     },
     {
       "ID": "Achievement_20",
@@ -3900,7 +3905,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8070
+      "UsersEstimate": 8071
     },
     {
       "ID": "Achievement_30",
@@ -3995,7 +4000,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 67253,
+      "Progressed": 67257,
       "Completed": 80
     }
   ],
@@ -4003,8 +4008,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-14T14:03:07.7406649+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:23:43.4893851+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:06:16.3960553+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:14.9583048+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:21:30.2163192+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:23:43.4894177+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:03:11.1146083+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:06:16.3960902+00:00"
 }

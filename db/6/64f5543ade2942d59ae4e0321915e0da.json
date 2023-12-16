@@ -3,7 +3,7 @@
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 445,
-  "Ranking_EOS_Completed": 175,
+  "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110,
+  "EOS_Progressed": 111,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.91,
+  "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
     {
       "Time": "2023-10-17T15:03:17.566478+00:00",
@@ -479,6 +479,11 @@
       "Time": "2023-12-16T01:49:56.0005999+00:00",
       "NumProgressed": 110,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T03:05:57.0530704+00:00",
+      "NumProgressed": 111,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -563,15 +568,15 @@
       "Name": "Hunger",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "AC_BOSS_02",
@@ -585,7 +590,7 @@
       "ID": "AC_BOSS_03",
       "SetID": "16i2akc",
       "Name": "Sacrilege",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -635,7 +640,7 @@
       "Name": "Corpse",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "AC_DEATH_2",
@@ -665,7 +670,7 @@
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 25,
       "UsersEstimate": 36
     },
@@ -689,7 +694,7 @@
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 25,
       "UsersEstimate": 48
     },
@@ -699,7 +704,7 @@
       "Name": "Voyage",
       "Percentage": 33,
       "XP": 45,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -731,7 +736,7 @@
       "Name": "Schooling",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "AC_FULL_MAP",
@@ -771,7 +776,7 @@
       "Name": "Cook",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -795,7 +800,7 @@
       "Name": "Loss",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -826,14 +831,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 110,
+      "Progressed": 111,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:23:28.9176429+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:05:57.0530699+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:56.8907916+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:18:30.5930007+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:23:28.917673+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:58:07.3408056+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:05:57.0531033+00:00"
 }

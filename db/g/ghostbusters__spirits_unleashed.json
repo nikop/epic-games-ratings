@@ -3667,10 +3667,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2908,
       "NumberOfAwardsMax": 323
+    },
+    {
+      "Time": "2023-12-16T03:02:29.7023131+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2909,
+      "NumberOfAwardsMax": 323
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2908,
+  "NumberOfAwards": 2909,
   "NumberOfAwardsMax": 323,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3696,7 +3702,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 317
+      "Count": 318
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3747,7 +3753,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32299,
+  "EOS_Progressed": 32300,
   "EOS_Completed": 69,
   "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
@@ -22437,6 +22443,11 @@
       "Time": "2023-12-16T02:21:56.3068063+00:00",
       "NumProgressed": 32299,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-16T03:03:49.1224208+00:00",
+      "NumProgressed": 32300,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -22648,7 +22659,7 @@
       "Name": "Master Collector",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Mycophile",
@@ -22855,16 +22866,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32299,
+      "Progressed": 32300,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-12-15T07:01:21.9898413+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:21:56.3068061+00:00",
+  "LastChanged": "2023-12-16T03:02:29.702313+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:03:49.1224203+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:16.7242615+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:21:02.7820456+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:21:56.3069032+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:02:29.7023137+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:03:49.1226329+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "hush-hush-5c1fa0",
   "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 515,
+  "Ranking_EOS_NewPlayers": 516,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
@@ -224,9 +224,9 @@
       "ID": "ACHIEVEMENT_Buff",
       "SetID": "70j9o42",
       "Name": "Pump You Up",
-      "Percentage": 31,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_Cassie_Date5_Secret",
@@ -503,8 +503,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:24:28.9785706+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:07:20.196171+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:55.6326756+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:21:02.1704982+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:24:28.9785929+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:02:28.4212217+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:07:20.1961993+00:00"
 }

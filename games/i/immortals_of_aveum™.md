@@ -5,24 +5,24 @@ Rating: 4.09 (Ranked 983)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~626 |
-| Battlefields Have Memories | 80.00% | ~575 |
-| Enlisted | 72.00% | ~518 |
-| Maybe Engage a Little | 65.00% | ~467 |
+| Unforeseen | 88.00% | ~634 |
+| Battlefields Have Memories | 80.00% | ~577 |
+| Enlisted | 73.00% | ~526 |
+| Maybe Engage a Little | 65.00% | ~469 |
 | No More Names | 45.00% | ~324 |
-| Initiate | 32.00% | ~230 |
+| Initiate | 32.00% | ~231 |
 | Thrada-Kul | 29.00% | ~209 |
-| Gravity-Challenged Rocks | 23.00% | ~165 |
+| Gravity-Challenged Rocks | 23.00% | ~166 |
 | Socialite | 20.00% | ~144 |
 | Soldier | 20.00% | ~144 |
 | All the Major Food Groups | 19.00% | ~137 |
-| Beggars Would Ride | 17.00% | ~122 |
+| Beggars Would Ride | 17.00% | ~123 |
 | Control is an Illusion | 16.00% | ~115 |
-| The Means to Save It | 13.00% | ~93 |
-| Resilience to Sin | 12.00% | ~86 |
-| A Familiar Nest | 12.00% | ~86 |
+| The Means to Save It | 13.00% | ~94 |
+| Resilience to Sin | 12.00% | ~87 |
+| A Familiar Nest | 12.00% | ~87 |
+| Periapt Alizarin | 12.00% | ~87 |
 | Geas Aristeya | 11.00% | ~79 |
-| Periapt Alizarin | 11.00% | ~79 |
 | A Perfect Cycle | 10.00% | ~72 |
 | Recruit | 10.00% | ~72 |
 | Armsman | 9.00% | ~65 |
@@ -53,7 +53,7 @@ Rating: 4.09 (Ranked 983)
 | Out of Time | 0.30% | ~2 |
 | Fowl Play | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719 (Ranked 291)  
+Progressed: 721 (Ranked 291)  
 Completed: 2 (0.28%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 2 (0.28%) (Ranked 245)
 | 2023-12-13 | 357 | 2 |
 | 2023-12-14 | 532 | 2 |
 | 2023-12-15 | 689 | 2 |
-| 2023-12-16 | 719 | 2 |
+| 2023-12-16 | 721 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

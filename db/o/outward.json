@@ -6286,9 +6286,9 @@
       "ID": "MasterofAurai_20",
       "SetID": "c4hee28",
       "Name": "Master of Aurai",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "MemoryOfALegend_51",
@@ -6478,8 +6478,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-01T16:57:27.3862191+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:21:52.7871475+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:03:44.291311+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:46.9668311+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:21:17.6566661+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:21:52.7871965+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:02:52.4642928+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:03:44.2914229+00:00"
 }

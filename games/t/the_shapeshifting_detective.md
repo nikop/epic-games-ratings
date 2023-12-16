@@ -10,7 +10,7 @@
 | Patient Listener | 47.00% | ~121 |
 | Video Saved The Radio Star | 40.00% | ~103 |
 | Hashtag Winning | 38.00% | ~98 |
-| A Woman Scorned | 28.00% | ~72 |
+| A Woman Scorned | 29.00% | ~75 |
 | Chameleon | 22.00% | ~57 |
 | Look Mum I'm A Detective | 22.00% | ~57 |
 | Highlander | 18.00% | ~46 |
@@ -20,7 +20,7 @@
 | Oscar Winning Performance | 11.00% | ~28 |
 | Voyeur | 11.00% | ~28 |
 | Put A Ring On It | 10.00% | ~26 |
-| Heavy Rayne | 8.00% | ~21 |
+| Heavy Rayne | 9.00% | ~23 |
 | Chicken | 7.00% | ~18 |
 | Show Me Some Skin | 5.00% | ~13 |
 | The Big Sleep | 5.00% | ~13 |

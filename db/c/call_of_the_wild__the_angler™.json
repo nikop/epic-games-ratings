@@ -5,7 +5,7 @@
   "Ranking_Rating": 928,
   "Ranking_Popularity": 465,
   "Ranking_PopularitySum": 403,
-  "Ranking_EOS_Progress": 185,
+  "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 136,
@@ -961,9 +961,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 6982,
+  "EOS_Progressed": 6985,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11211,6 +11211,11 @@
       "Time": "2023-12-16T01:49:27.5789284+00:00",
       "NumProgressed": 6982,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T03:05:17.0197079+00:00",
+      "NumProgressed": 6985,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11254,7 +11259,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -11286,7 +11291,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -11541,13 +11546,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6982,
+      "Progressed": 6985,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6354,
+      "Progressed": 6357,
       "Completed": 113
     }
   ],
@@ -11555,8 +11560,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-15T01:46:12.7842715+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:23:00.6423697+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:05:17.0197074+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:44.0991613+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:18:43.4134517+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:23:00.6424453+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:58:27.6834995+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:05:17.0198082+00:00"
 }

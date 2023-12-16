@@ -33,6 +33,7 @@ Number of Ratings: 37  (23.09.2022)
 | Builder II | 5.00% | ~219 |
 | Conflicting parties | 5.00% | ~219 |
 | Another one bites the dust | 4.00% | ~175 |
+| I like to build stuff... IV | 4.00% | ~175 |
 | Experienced decorator | 4.00% | ~175 |
 | My precious... I | 4.00% | ~175 |
 | An honorable Governor II | 4.00% | ~175 |
@@ -41,7 +42,6 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game III | 4.00% | ~175 |
 | Tools of the trade II | 4.00% | ~175 |
 | Bread for the people III | 3.00% | ~131 |
-| I like to build stuff... IV | 3.00% | ~131 |
 | I like to build stuff... V | 3.00% | ~131 |
 | The King's new clothes II | 3.00% | ~131 |
 | Saint Florian | 3.00% | ~131 |

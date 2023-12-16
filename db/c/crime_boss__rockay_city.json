@@ -5061,9 +5061,9 @@
       "Count": 513
     }
   ],
-  "EOS_Progressed": 91936,
+  "EOS_Progressed": 91939,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28006,6 +28006,11 @@
       "Time": "2023-12-16T02:22:35.2015744+00:00",
       "NumProgressed": 91936,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-16T03:04:41.7035993+00:00",
+      "NumProgressed": 91939,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -28129,7 +28134,7 @@
       "Name": "Headhunter",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "ACH_0101",
@@ -28344,13 +28349,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91936,
+      "Progressed": 91939,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20283,
+      "Progressed": 20286,
       "Completed": 15585
     }
   ],
@@ -28358,8 +28363,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-14T15:59:08.693413+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:22:35.2015741+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:04:41.7035987+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:49.1202074+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:19:48.3873974+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:22:35.2017072+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:00:06.7147491+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:04:41.7037295+00:00"
 }

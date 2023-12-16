@@ -4,7 +4,7 @@
   "ProductSlug": "born-of-bread-008e66",
   "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -244,9 +244,9 @@
       "ID": "ACH_FIRST-PAYCHECK",
       "SetID": "6lg1p1e",
       "Name": "First Paycheck",
-      "Percentage": 27,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FRIENEMY",
@@ -316,9 +316,9 @@
       "ID": "ACH_MISCHIEVOUS-BREAD",
       "SetID": "6lg1p1e",
       "Name": "Mischievous Bread",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_MYSTERY-SOLVED",
@@ -459,8 +459,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:26:56.2989805+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:08:39.742988+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.3604769+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:17:47.8539605+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:26:56.2990217+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:57:02.7560066+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:08:39.7430114+00:00"
 }

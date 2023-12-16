@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16436,
+  "EOS_Progressed": 16439,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13972,6 +13972,11 @@
       "Time": "2023-12-16T02:25:11.5763628+00:00",
       "NumProgressed": 16436,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-16T03:08:21.5578729+00:00",
+      "NumProgressed": 16439,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14080,7 +14085,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "21",
@@ -14120,7 +14125,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "26",
@@ -14224,7 +14229,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "32",
@@ -14232,7 +14237,7 @@
       "Name": "Safe Cracker",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "33",
@@ -14240,7 +14245,7 @@
       "Name": "Zen Master",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "34",
@@ -14256,29 +14261,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16436,
+      "Progressed": 16439,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2390,
-      "Completed": 893
+      "Progressed": 2393,
+      "Completed": 894
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:25:11.5763625+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:08:21.5578725+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:18:41.0245338+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:25:11.5764438+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:58:23.9919237+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:08:21.5579704+00:00"
 }

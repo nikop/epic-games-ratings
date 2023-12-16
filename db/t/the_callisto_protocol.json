@@ -1619,9 +1619,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 17158,
+  "EOS_Progressed": 17161,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -9794,6 +9794,11 @@
       "Time": "2023-12-16T02:27:31.4693765+00:00",
       "NumProgressed": 17158,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-16T03:09:27.4653845+00:00",
+      "NumProgressed": 17161,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -9909,7 +9914,7 @@
       "Name": "Get a Grip",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -9925,7 +9930,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -9949,7 +9954,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -10005,7 +10010,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "STORY_HABITAT",
@@ -10013,7 +10018,7 @@
       "Name": "Without A Paddle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "STORY_HANGAR",
@@ -10021,7 +10026,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "STORY_MINETOWN",
@@ -10045,7 +10050,7 @@
       "Name": "Crash Site",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "STORY_TOWER",
@@ -10061,7 +10066,7 @@
       "Name": "Power Up",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "DISMEMBER_100",
@@ -10180,13 +10185,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 17158,
+      "Progressed": 17161,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 5084,
+      "Progressed": 5087,
       "Completed": 29
     }
   ],
@@ -10194,8 +10199,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-15T19:03:00.030508+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:27:31.4693762+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:09:27.465384+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.8352858+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:21:39.0572851+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:27:31.4694425+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:03:23.1455133+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:09:27.4654554+00:00"
 }

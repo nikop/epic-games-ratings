@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -643,9 +643,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4026,
+  "EOS_Progressed": 4027,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8658,6 +8658,11 @@
       "Time": "2023-12-16T00:06:58.7982669+00:00",
       "NumProgressed": 4026,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-16T03:09:04.4310389+00:00",
+      "NumProgressed": 4027,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8669,7 +8674,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -8725,7 +8730,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -8749,7 +8754,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8821,7 +8826,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -8901,7 +8906,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -9077,7 +9082,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -9236,13 +9241,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3977,
+      "Progressed": 3978,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4026,
+      "Progressed": 4027,
       "Completed": 11
     }
   ],
@@ -9250,8 +9255,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:27:14.3089498+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:09:04.4310384+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.4789046+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:20:51.8997617+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:27:14.3090298+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:01:42.3023417+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:09:04.4311405+00:00"
 }

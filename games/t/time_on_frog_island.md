@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 75.00% | ~18 |
-| Sea Legs | 71.00% | ~17 |
-| What?! | 42.00% | ~10 |
-| Frogs Legs | 33.00% | ~8 |
-| Mad Scientist | 25.00% | ~6 |
-| Socialite | 21.00% | ~5 |
-| Hoist the Sails | 21.00% | ~5 |
-| Secure the Sheets | 21.00% | ~5 |
-| Couch-surfing | 17.00% | ~4 |
-| Hands on the Helm | 17.00% | ~4 |
-| Who Even Needs Keys | 13.00% | ~3 |
-| Shrub-Seeing: Townlife | 13.00% | ~3 |
-| Shrub-Seeing: Silly Birbs | 13.00% | ~3 |
-| Sailor Swift | 13.00% | ~3 |
-| No Evil | 13.00% | ~3 |
-| Replace the Rudder | 13.00% | ~3 |
+| Shipwrecked! | 72.00% | ~18 |
+| Sea Legs | 68.00% | ~17 |
+| What?! | 40.00% | ~10 |
+| Frogs Legs | 32.00% | ~8 |
+| Mad Scientist | 24.00% | ~6 |
+| Socialite | 20.00% | ~5 |
+| Hoist the Sails | 20.00% | ~5 |
+| Secure the Sheets | 20.00% | ~5 |
+| Couch-surfing | 16.00% | ~4 |
+| Hands on the Helm | 16.00% | ~4 |
+| Who Even Needs Keys | 12.00% | ~3 |
+| Shrub-Seeing: Townlife | 12.00% | ~3 |
+| Shrub-Seeing: Silly Birbs | 12.00% | ~3 |
+| Sailor Swift | 12.00% | ~3 |
+| No Evil | 12.00% | ~3 |
+| Replace the Rudder | 12.00% | ~3 |
 | Shrub-Seeing: Ruins of old | 8.00% | ~2 |
 | Yeet! | 8.00% | ~2 |
 | Caught Ya! | 8.00% | ~2 |
@@ -40,8 +40,8 @@
 | Falling with Style | 4.00% | ~1 |
 | Froggy Friendship | 4.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 567)  
-Completed: 1 (4.17%) (Ranked 88)  
+Progressed: 25 (Ranked 565)  
+Completed: 1 (4.00%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,6 +66,7 @@ Completed: 1 (4.17%) (Ranked 88)
 | 2023-12-13 | 22 | 1 |
 | 2023-12-14 | 23 | 1 |
 | 2023-12-15 | 24 | 1 |
+| 2023-12-16 | 25 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

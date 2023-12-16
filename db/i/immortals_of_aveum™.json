@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 719,
+  "EOS_Progressed": 721,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -1904,6 +1904,11 @@
       "Time": "2023-12-16T02:27:52.237481+00:00",
       "NumProgressed": 719,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-16T03:09:56.1336293+00:00",
+      "NumProgressed": 721,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1914,9 +1919,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 626
+      "UsersEstimate": 634
     },
     {
       "ID": "achievement_10",
@@ -1932,7 +1937,7 @@
       "Name": "The Means to Save It",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_12",
@@ -1940,7 +1945,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_13",
@@ -1948,7 +1953,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_14",
@@ -2004,7 +2009,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 577
     },
     {
       "ID": "achievement_20",
@@ -2060,7 +2065,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 469
     },
     {
       "ID": "achievement_36",
@@ -2130,9 +2135,9 @@
       "ID": "achievement_45",
       "SetID": "18al4io",
       "Name": "Periapt Alizarin",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_46",
@@ -2146,9 +2151,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 526
     },
     {
       "ID": "achievement_49",
@@ -2164,7 +2169,7 @@
       "Name": "Initiate",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "achievement_50",
@@ -2268,7 +2273,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "achievement_8",
@@ -2284,14 +2289,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 719,
+      "Progressed": 721,
       "Completed": 2
     }
   ],
@@ -2299,8 +2304,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-15T20:02:43.1328227+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:27:52.2374807+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:09:56.133629+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9844668+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:17:53.6929059+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:27:52.2375211+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:57:11.2849683+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:09:56.1336692+00:00"
 }

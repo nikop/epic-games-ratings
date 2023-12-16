@@ -7585,9 +7585,9 @@
       "Count": 3795
     }
   ],
-  "EOS_Progressed": 145722,
+  "EOS_Progressed": 145725,
   "EOS_Completed": 316,
-  "EOS_NewPlayers": 1350,
+  "EOS_NewPlayers": 1352,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -32605,6 +32605,11 @@
       "Time": "2023-12-16T02:23:21.3398157+00:00",
       "NumProgressed": 145722,
       "NumCompleted": 316
+    },
+    {
+      "Time": "2023-12-16T03:05:46.1055303+00:00",
+      "NumProgressed": 145725,
+      "NumCompleted": 316
     }
   ],
   "TotalAchievements": 112,
@@ -32880,7 +32885,7 @@
       "Name": "Disintermediation",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8743
+      "UsersEstimate": 8744
     },
     {
       "ID": "craft02",
@@ -33392,7 +33397,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8743
+      "UsersEstimate": 8744
     },
     {
       "ID": "sell02",
@@ -33511,15 +33516,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 145722,
+      "Progressed": 145725,
       "Completed": 316
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-15T23:02:59.3397918+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:23:21.3398153+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:05:46.1055297+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.2420411+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:21:38.0408282+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:23:21.3400287+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:03:21.6046457+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:05:46.1057248+00:00"
 }

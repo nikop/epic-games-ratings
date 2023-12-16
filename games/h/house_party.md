@@ -6,7 +6,7 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 6.00% | ~398 |
+| A Friend in Need... | 6.00% | ~399 |
 | Smooth Operator: Madison | 5.00% | ~332 |
 | The Brahdyssey | 3.00% | ~199 |
 | Caught in the Act | 3.00% | ~199 |
@@ -24,12 +24,12 @@ Number of Ratings: 177  (23.09.2022)
 | The Muse: Madison | 1.00% | ~66 |
 | Smooth Operator: Ashley | 0.80% | ~53 |
 | The Crush | 0.80% | ~53 |
-| Amy: Scavenger Hunt | 0.70% | ~46 |
-| Casanova | 0.70% | ~46 |
+| Amy: Scavenger Hunt | 0.70% | ~47 |
+| Casanova | 0.70% | ~47 |
 | It Smells Like Roses | 0.70% | ~26 |
-| Stephanie | 0.70% | ~46 |
-| The Magic Number | 0.70% | ~46 |
-| Vickie | 0.70% | ~46 |
+| Stephanie | 0.70% | ~47 |
+| The Magic Number | 0.70% | ~47 |
+| Vickie | 0.70% | ~47 |
 | Now It's a Party! | 0.60% | ~40 |
 | Te Amo Lety | 0.60% | ~40 |
 | Ashley | 0.50% | ~33 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,641 (Ranked 187)  
+Progressed: 6,643 (Ranked 187)  
 Completed: 3 (0.05%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 3 (0.05%) (Ranked 326)
 | 2023-12-13 | 6,573 | 3 |
 | 2023-12-14 | 6,605 | 3 |
 | 2023-12-15 | 6,637 | 3 |
-| 2023-12-16 | 6,641 | 3 |
+| 2023-12-16 | 6,643 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

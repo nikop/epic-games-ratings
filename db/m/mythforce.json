@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -836,9 +836,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5544,
+  "EOS_Progressed": 5546,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11136,6 +11136,11 @@
       "Time": "2023-12-16T02:24:08.8744303+00:00",
       "NumProgressed": 5544,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-16T03:06:52.3699541+00:00",
+      "NumProgressed": 5546,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11148,7 +11153,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -11196,7 +11201,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11300,7 +11305,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -11331,15 +11336,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5544,
+      "Progressed": 5546,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-15T05:01:12.5073089+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:24:08.8744297+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:06:52.3699537+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.410244+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:21:00.9055261+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:24:08.8744953+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:02:26.5081216+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:06:52.3700309+00:00"
 }

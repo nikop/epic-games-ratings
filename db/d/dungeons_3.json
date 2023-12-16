@@ -3409,9 +3409,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 43595,
+  "EOS_Progressed": 43596,
   "EOS_Completed": 355,
-  "EOS_NewPlayers": 860,
+  "EOS_NewPlayers": 855,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -30069,6 +30069,11 @@
       "Time": "2023-12-16T02:25:16.7655755+00:00",
       "NumProgressed": 43595,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2023-12-16T03:08:28.9107589+00:00",
+      "NumProgressed": 43596,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 60,
@@ -30080,7 +30085,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 25721
+      "UsersEstimate": 25722
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -30096,7 +30101,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 25285
+      "UsersEstimate": 25286
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -30128,7 +30133,7 @@
       "Name": "This is fun, I\u2019m going to keep doing this!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5231
+      "UsersEstimate": 5232
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_2",
@@ -30168,7 +30173,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14822
+      "UsersEstimate": 14823
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -30216,7 +30221,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13514
+      "UsersEstimate": 13515
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -30232,7 +30237,7 @@
       "Name": "Then let them eat cake!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5231
+      "UsersEstimate": 5232
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_Completed",
@@ -30240,7 +30245,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 16130
+      "UsersEstimate": 16131
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -30304,7 +30309,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15694
+      "UsersEstimate": 15695
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -30440,7 +30445,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13514
+      "UsersEstimate": 13515
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -30456,7 +30461,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 14386
+      "UsersEstimate": 14387
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -30472,7 +30477,7 @@
       "Name": "Shadow hunter",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 13078
+      "UsersEstimate": 13079
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -30480,7 +30485,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 30516
+      "UsersEstimate": 30517
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -30528,7 +30533,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 13078
+      "UsersEstimate": 13079
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -30559,15 +30564,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 43595,
+      "Progressed": 43596,
       "Completed": 355
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-12-15T23:59:45.8986098+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:25:16.7655753+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:08:28.9107584+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:27.1290791+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:20:33.993929+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:25:16.7657019+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:01:15.9554089+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:08:28.9109686+00:00"
 }

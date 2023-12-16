@@ -9,14 +9,14 @@ Number of Ratings: 90  (23.09.2022)
 | Rock of the Bay | 62.00% | ~49 |
 | Mash Machine | 57.00% | ~45 |
 | Ducks in a Row, Fish in a Barrel | 39.00% | ~31 |
+| Furon Fashion | 29.00% | ~23 |
 | Shop Til They Drop | 29.00% | ~23 |
-| Furon Fashion | 28.00% | ~22 |
-| Earthly Pleasures | 19.00% | ~15 |
+| Earthly Pleasures | 22.00% | ~17 |
+| Bodied Sattva | 19.00% | ~15 |
 | Upgreatest | 19.00% | ~15 |
 | Pimp My Raid | 19.00% | ~15 |
 | I Look Up As I Walk to Takoshima | 18.00% | ~14 |
-| Bodied Sattva | 18.00% | ~14 |
-| Cult Following | 15.00% | ~12 |
+| Cult Following | 16.00% | ~13 |
 | Lie Back and Think of Albion | 14.00% | ~11 |
 | Perfect Probulator | 13.00% | ~10 |
 | Freshly Squeezed | 10.00% | ~8 |

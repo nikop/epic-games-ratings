@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9762,9 +9762,9 @@
       "Count": 1014
     }
   ],
-  "EOS_Progressed": 127483,
+  "EOS_Progressed": 127497,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1614,
+  "EOS_NewPlayers": 1625,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35242,6 +35242,11 @@
       "Time": "2023-12-16T02:27:25.1036771+00:00",
       "NumProgressed": 127483,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T03:09:19.0656728+00:00",
+      "NumProgressed": 127497,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35259,9 +35264,9 @@
       "ID": "affinity_resolute_first_time",
       "SetID": "64l4lke",
       "Name": "Serenity Now!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1275
+      "UsersEstimate": 2550
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -35291,9 +35296,9 @@
       "ID": "altar_of_hope_unlock_hero_hellion",
       "SetID": "64l4lke",
       "Name": "Unleash Hell",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 892
+      "UsersEstimate": 1020
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -35355,9 +35360,9 @@
       "ID": "altar_of_hope_upgrade_total_quarter",
       "SetID": "64l4lke",
       "Name": "Hope Rekindled",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 765
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -35381,7 +35386,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3824
+      "UsersEstimate": 3825
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35789,7 +35794,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "combat_kill_collector",
@@ -35819,9 +35824,9 @@
       "ID": "combat_land_riposte_dmg_threshold_duelist",
       "SetID": "d3bcpc8",
       "Name": "Slap on the Wrist",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -35884,21 +35889,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127483,
+      "Progressed": 127497,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2352,
+      "Progressed": 2366,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-16T01:42:19.1855215+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:27:25.1036769+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:09:19.0656723+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:17:52.9823414+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:27:25.1038358+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:57:10.1487791+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:09:19.0658458+00:00"
 }

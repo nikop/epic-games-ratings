@@ -26,10 +26,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 1.00% | ~183 |
 | Lost Colonies | 1.00% | ~183 |
 | Watchtower | 1.00% | ~183 |
+| Ruined Armory | 0.90% | ~165 |
 | Bandit Camp | 0.90% | ~165 |
 | Monastery of the Holy Flame | 0.90% | ~165 |
 | A Real Challenge | 0.90% | ~165 |
-| Ruined Armory | 0.80% | ~146 |
 | Levitating Monument | 0.80% | ~146 |
 | Corrosive Torrent | 0.80% | ~146 |
 | Cursed Lands | 0.80% | ~146 |
@@ -43,7 +43,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 0.60% | ~110 |
 | Serving Ale | 0.50% | ~91 |
 | Defying the Crown | 0.50% | ~91 |
-| Refinery | 0.40% | ~73 |
 | Dangerous Lands | 0.40% | ~73 |
 | Fishmen Ritual Site | 0.40% | ~73 |
 | Forsaken Gods Temple | 0.40% | ~73 |
@@ -51,6 +50,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 0.40% | ~73 |
 | Fox Utopia | 0.40% | ~73 |
 | Efficient Explorer | 0.30% | ~55 |
+| Refinery | 0.30% | ~55 |
 | Forbidden Lands | 0.30% | ~55 |
 | Feeding The People | 0.20% | ~37 |
 | Like a Machine | 0.20% | ~37 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,285 (Ranked 147)  
+Progressed: 18,287 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 39 (0.21%) (Ranked 261)
 | 2023-12-13 | 18,048 | 40 |
 | 2023-12-14 | 18,153 | 40 |
 | 2023-12-15 | 18,272 | 39 |
-| 2023-12-16 | 18,285 | 39 |
+| 2023-12-16 | 18,287 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 226)  
 Sum: 3,262 (Ranked 174)  

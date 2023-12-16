@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 735,
+  "EOS_Progressed": 736,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
@@ -1855,6 +1855,11 @@
       "Time": "2023-12-15T21:08:57.9136787+00:00",
       "NumProgressed": 735,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-16T03:09:32.3282465+00:00",
+      "NumProgressed": 736,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -1866,7 +1871,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1874,7 +1879,7 @@
       "Name": "Choices Matter",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ENDING_1",
@@ -1930,7 +1935,7 @@
       "Name": "The Frenzy",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -1962,7 +1967,7 @@
       "Name": "Good Karma",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "INTERROGATION",
@@ -1994,7 +1999,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "SABOTAGE",
@@ -2016,16 +2021,16 @@
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 345
+      "UsersEstimate": 339
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 735,
+      "Progressed": 736,
       "Completed": 9
     }
   ],
@@ -2033,8 +2038,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:27:34.9940892+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:09:32.3282462+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:45.8510282+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:20:05.8002387+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:27:34.99411+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:00:33.6694693+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:09:32.3282667+00:00"
 }

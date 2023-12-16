@@ -4,7 +4,7 @@
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 465,
+  "Ranking_EOS_NewPlayers": 441,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.68,
+  "EOS_Completed_Percentage": 2.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -249,6 +249,11 @@
       "Time": "2023-12-15T13:09:42.7509309+00:00",
       "NumProgressed": 112,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T03:04:52.3113303+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -268,7 +273,7 @@
       "Name": "Hunter",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AutoBullets_1",
@@ -298,9 +303,9 @@
       "ID": "EnemyDefeat_1",
       "SetID": "9e3d06k",
       "Name": "Cyborg",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "ExpertChoice",
@@ -314,17 +319,17 @@
       "ID": "FirstAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Breaking Through",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "FirstSkillBuy",
       "SetID": "9e3d06k",
       "Name": "A.I. Training",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 56
     },
     {
       "ID": "GunUnlock",
@@ -332,7 +337,7 @@
       "Name": "Symbiotic Weapon",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Headshots_0",
@@ -346,9 +351,9 @@
       "ID": "Headshots_1",
       "SetID": "9e3d06k",
       "Name": "Veteran Sniper",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "KyklosPlan",
@@ -356,7 +361,7 @@
       "Name": "The Red Herring",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "LiftEnemies_0",
@@ -372,23 +377,23 @@
       "Name": "Zero Gravity",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Neuroconnector",
       "SetID": "9e3d06k",
       "Name": "The Neuro-connector",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "SecretEnding",
@@ -402,9 +407,9 @@
       "ID": "StealthDefeat_0",
       "SetID": "9e3d06k",
       "Name": "Flatline",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "StealthDefeat_1",
@@ -444,14 +449,14 @@
       "Name": "Telekinesis",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 3
     }
   ],
@@ -459,8 +464,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:22:42.859956+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:04:52.3113299+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:38.7294154+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:18:47.0878631+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:22:42.8599675+00:00"
+  "LastUpdate_Ratings": "2023-12-16T02:58:34.2943555+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:04:52.3113459+00:00"
 }

@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 45.00% | ~1,162 |
-| First Love | 43.00% | ~1,111 |
-| Clean Race | 41.00% | ~1,059 |
-| Hear That Roar! | 39.00% | ~1,007 |
-| Rivals to the End | 28.00% | ~723 |
-| Bitter Rivalry | 27.00% | ~697 |
+| Eat My Dust | 45.00% | ~1,164 |
+| First Love | 43.00% | ~1,112 |
+| Clean Race | 41.00% | ~1,060 |
+| Hear That Roar! | 39.00% | ~1,009 |
+| Rivals to the End | 28.00% | ~724 |
+| Bitter Rivalry | 27.00% | ~698 |
 | Champagne Spray | 25.00% | ~646 |
-| We're Going to Need a Bigger Garage | 24.00% | ~620 |
+| We're Going to Need a Bigger Garage | 24.00% | ~621 |
 | Restored and Ready | 19.00% | ~491 |
 | I Want One Too! | 19.00% | ~491 |
 | Legendary!!! | 19.00% | ~491 |
 | Quick Pit Stop | 19.00% | ~491 |
-| Go-Faster Stripes | 17.00% | ~439 |
-| I'm Here Too! | 16.00% | ~413 |
+| Go-Faster Stripes | 17.00% | ~440 |
+| I'm Here Too! | 16.00% | ~414 |
 | We've Just Begun | 12.00% | ~310 |
-| Stamina Star | 9.00% | ~232 |
-| Is It the Right Size? | 9.00% | ~232 |
+| Stamina Star | 9.00% | ~233 |
+| Is It the Right Size? | 9.00% | ~233 |
 | Evangelist | 6.00% | ~155 |
 | Make It Your Own! | 5.00% | ~129 |
 | Cherry Blossom and Temples | 4.00% | ~103 |
 | The Road to Liberty | 4.00% | ~103 |
 | I Make the Rules! | 4.00% | ~103 |
-| Spoilt for Choice | 3.00% | ~77 |
-| La Dolce Vita | 3.00% | ~77 |
-| Romantic Races | 3.00% | ~77 |
-| Rounding Off | 3.00% | ~77 |
-| My Work Here Is Done | 3.00% | ~77 |
+| Spoilt for Choice | 3.00% | ~78 |
+| La Dolce Vita | 3.00% | ~78 |
+| Romantic Races | 3.00% | ~78 |
+| Rounding Off | 3.00% | ~78 |
+| My Work Here Is Done | 3.00% | ~78 |
 | Iconic! | 2.00% | ~52 |
 | I'll Be the Best! | 2.00% | ~52 |
 | Back in Blighty | 2.00% | ~52 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,583 (Ranked 221)  
+Progressed: 2,586 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,4 +160,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 2,471 | 0 |
 | 2023-12-14 | 2,522 | 0 |
 | 2023-12-15 | 2,579 | 0 |
-| 2023-12-16 | 2,583 | 0 |
+| 2023-12-16 | 2,586 | 0 |

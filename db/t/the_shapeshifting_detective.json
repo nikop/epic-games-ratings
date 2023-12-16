@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -549,9 +549,9 @@
       "ID": "a_woman_scorned",
       "SetID": "2db2j74",
       "Name": "A Woman Scorned",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "book_em_danny",
@@ -597,9 +597,9 @@
       "ID": "heavy_rayne",
       "SetID": "2db2j74",
       "Name": "Heavy Rayne",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "highlander",
@@ -726,8 +726,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-16T02:25:10.5900231+00:00",
+  "LastChanged_Achievements": "2023-12-16T03:08:20.1071886+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:09.2551695+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:21:33.4586658+00:00",
-  "LastUpdate_Achievements": "2023-12-16T02:25:10.590039+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:03:15.8928102+00:00",
+  "LastUpdate_Achievements": "2023-12-16T03:08:20.1072039+00:00"
 }
