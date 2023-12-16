@@ -4,11 +4,11 @@
   "ProductSlug": "sifu",
   "Ranking_Rating": 70,
   "Ranking_Popularity": 55,
-  "Ranking_PopularitySum": 83,
+  "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8295,9 +8295,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 730156,
+  "EOS_Progressed": 730184,
   "EOS_Completed": 12954,
-  "EOS_NewPlayers": 12237,
+  "EOS_NewPlayers": 12264,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.77,
   "EosHistory": [
@@ -29640,6 +29640,11 @@
       "Time": "2023-12-16T22:08:27.3565366+00:00",
       "NumProgressed": 730156,
       "NumCompleted": 12954
+    },
+    {
+      "Time": "2023-12-16T23:08:43.0745227+00:00",
+      "NumProgressed": 730184,
+      "NumCompleted": 12954
     }
   ],
   "TotalAchievements": 60,
@@ -29651,7 +29656,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14603
+      "UsersEstimate": 14604
     },
     {
       "ID": "02_Vengeance_H1",
@@ -29659,7 +29664,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14603
+      "UsersEstimate": 14604
     },
     {
       "ID": "03_Vengeance_H2",
@@ -29675,7 +29680,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6571
+      "UsersEstimate": 6572
     },
     {
       "ID": "05_Vengeance_H4",
@@ -29699,7 +29704,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "08_Wude_H2",
@@ -29707,7 +29712,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "09_Wude_H3",
@@ -29715,7 +29720,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "10_Wude_H4",
@@ -29723,7 +29728,7 @@
       "Name": "Iron Money",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "11_Wude_H5",
@@ -29731,7 +29736,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "12_MidAge",
@@ -29747,7 +29752,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -29763,7 +29768,7 @@
       "Name": "Detective Story",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "16_Detective_H2",
@@ -29801,9 +29806,9 @@
       "ID": "20_Traversal_Trophy",
       "SetID": "adcm20g",
       "Name": "Stuntmaster",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 6571
+      "UsersEstimate": 7302
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -29827,7 +29832,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14603
+      "UsersEstimate": 14604
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -29851,7 +29856,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6571
+      "UsersEstimate": 6572
     },
     {
       "ID": "27_ShrineBody",
@@ -29867,7 +29872,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -29907,7 +29912,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "34_TimedTakedown",
@@ -29915,7 +29920,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14603
+      "UsersEstimate": 14604
     },
     {
       "ID": "35_WideStrike",
@@ -30130,21 +30135,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 39457,
+      "Progressed": 39485,
       "Completed": 10774
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 730156,
+      "Progressed": 730184,
       "Completed": 12954
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-16T21:03:57.4975127+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:08:27.3565362+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:08:43.0745223+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:05.3418066+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:02:50.8137241+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:08:27.3567008+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:03:00.8396829+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:08:43.0747216+00:00"
 }

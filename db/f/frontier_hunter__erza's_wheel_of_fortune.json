@@ -2,8 +2,8 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 307,
-  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_Progress": 308,
+  "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
@@ -2319,9 +2319,9 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "7pimpda",
       "Name": "Warden Slayer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -2400,8 +2400,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:08:43.5943831+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:09:00.7047401+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.1790952+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:59:04.5040921+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:08:43.5944357+00:00"
+  "LastUpdate_Ratings": "2023-12-16T22:59:16.3157422+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:09:00.7047768+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 7.00% | ~188 |
-| Lost and Found | 4.00% | ~107 |
-| This Belongs in a Museum | 3.00% | ~3,834 |
-| Autodidact | 3.00% | ~3,834 |
-| This guy... again? | 3.00% | ~80 |
-| Bloody Graduation | 3.00% | ~80 |
-| Don't Make Me Turn This Coach Around | 2.00% | ~2,556 |
-| Serenity Now! | 2.00% | ~2,556 |
-| Not Today! | 2.00% | ~2,556 |
-| Creep and Sleep | 2.00% | ~2,556 |
-| Meat and Greet | 2.00% | ~2,556 |
-| Catch and Decease | 2.00% | ~2,556 |
-| Overdue Notice | 2.00% | ~2,556 |
-| Escape from the Black Hole | 2.00% | ~2,556 |
-| Rush Hour | 2.00% | ~2,556 |
-| To Grandmother's House | 2.00% | ~2,556 |
-| FNG | 2.00% | ~2,556 |
+| Malpractice Assurance | 7.00% | ~189 |
+| Lost and Found | 4.00% | ~108 |
+| This Belongs in a Museum | 3.00% | ~3,835 |
+| Autodidact | 3.00% | ~3,835 |
+| This guy... again? | 3.00% | ~81 |
+| Bloody Graduation | 3.00% | ~81 |
+| Don't Make Me Turn This Coach Around | 2.00% | ~2,557 |
+| Serenity Now! | 2.00% | ~2,557 |
+| Not Today! | 2.00% | ~2,557 |
+| Creep and Sleep | 2.00% | ~2,557 |
+| Meat and Greet | 2.00% | ~2,557 |
+| Catch and Decease | 2.00% | ~2,557 |
+| Overdue Notice | 2.00% | ~2,557 |
+| Escape from the Black Hole | 2.00% | ~2,557 |
+| Rush Hour | 2.00% | ~2,557 |
+| To Grandmother's House | 2.00% | ~2,557 |
+| FNG | 2.00% | ~2,557 |
 | Ploughshares to Swords | 2.00% | ~54 |
 | Friends 'Til the End | 2.00% | ~54 |
 | It Rings a Bell | 1.00% | ~1,278 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 | On This Long Road, We Found Redemption | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,813 (Ranked 85)  
+Progressed: 127,826 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,10 +316,10 @@ Completed: 3 (0.00%) (Ranked 378)
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
-| 2023-12-16 | 127,813 | 3 |
+| 2023-12-16 | 127,826 | 3 |
 ## Awards
 Max (Character Customization): 7,744  (Ranked 51)  
-Sum: 20,591 (Ranked 58)  
+Sum: 20,595 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -331,7 +331,7 @@ Diff (max vs sum): -7
 | This game is Extremely Fun | 1,457 |
 | This game has Amazing Storytelling | 1,378 |
 | This game has Unique Visuals | 1,359 |
-| This game has Quickly Understood Controls | 1,346 |
+| This game has Quickly Understood Controls | 1,350 |
 | This game has a Creative Community | 1,018 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -660,4 +660,4 @@ Diff (max vs sum): -7
 | 2023-12-13 | 4.68 | - | 7,665 | 20,333 |
 | 2023-12-14 | 4.68 | - | 7,689 | 20,427 |
 | 2023-12-15 | 4.68 | - | 7,718 | 20,517 |
-| 2023-12-16 | 4.68 | - | 7,744 | 20,591 |
+| 2023-12-16 | 4.68 | - | 7,744 | 20,595 |

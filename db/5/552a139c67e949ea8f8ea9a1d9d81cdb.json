@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1379,
+  "EOS_Progressed": 1380,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -3242,6 +3242,11 @@
       "Time": "2023-12-16T20:06:26.4532664+00:00",
       "NumProgressed": 1379,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T23:05:14.2626974+00:00",
+      "NumProgressed": 1380,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3356,9 +3361,9 @@
       "ID": "ML_ACHIEVEMENT_14",
       "SetID": "5k00jcd",
       "Name": "Shapeshifter",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -3621,20 +3626,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1379,
+      "Progressed": 1380,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1047,
+      "Progressed": 1048,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:04:59.6728703+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:05:14.2626967+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:58:28.3556869+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:04:59.6729233+00:00"
+  "LastUpdate_Ratings": "2023-12-16T22:58:36.796525+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:05:14.2627394+00:00"
 }

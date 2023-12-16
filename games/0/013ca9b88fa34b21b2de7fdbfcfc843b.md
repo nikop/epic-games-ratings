@@ -1,7 +1,7 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.61 (Ranked 390)  
+Rating: 4.61 (Ranked 389)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,13 +14,13 @@ Rating: 4.61 (Ranked 390)
 | Open the Gate! | 0.30% | ~25 |
 | Clear the Air | 0.30% | ~25 |
 | Search for the Hairy Grell | 0.30% | ~25 |
+| Miner 49er | 0.30% | ~25 |
 | Mist Walker | 0.30% | ~25 |
 | Azorian Anniversary | 0.30% | ~25 |
 | Exit Through The Gift Shop | 0.30% | ~3 |
 | Flaming Hot Completos | 0.20% | ~17 |
 | Fae Farmer | 0.20% | ~17 |
 | Lumberjack | 0.20% | ~17 |
-| Miner 49er | 0.20% | ~17 |
 | Beach Comber | 0.20% | ~17 |
 | Humble Collector | 0.20% | ~17 |
 | Higher Tax Bracket | 0.20% | ~17 |

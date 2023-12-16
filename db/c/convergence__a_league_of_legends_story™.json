@@ -2799,9 +2799,9 @@
       "ID": "ClovemaryGift",
       "SetID": "a9e499d",
       "Name": "Clovemary for Remembering",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 60
     },
     {
       "ID": "CosmeticCompletion1",
@@ -3176,8 +3176,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:09:25.6022362+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:09:44.0298095+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:57:22.519598+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:09:25.6022967+00:00"
+  "LastUpdate_Ratings": "2023-12-16T22:57:28.3072042+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:09:44.0299085+00:00"
 }

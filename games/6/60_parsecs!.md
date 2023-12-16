@@ -5,19 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Don't Panic! | 97.00% | ~760 |
-| Space Colonization | 81.00% | ~634 |
-| Friendzone | 80.00% | ~626 |
-| Hello World | 75.00% | ~587 |
-| Space Engineer | 65.00% | ~509 |
-| Tinkerer | 63.00% | ~493 |
-| Dust to Dust | 59.00% | ~462 |
+| Space Colonization | 81.00% | ~635 |
+| Friendzone | 80.00% | ~627 |
+| Hello World | 75.00% | ~588 |
+| Space Engineer | 65.00% | ~510 |
+| Tinkerer | 63.00% | ~494 |
+| Dust to Dust | 59.00% | ~463 |
 | Across The Stars | 49.00% | ~384 |
-| Crafty | 49.00% | ~384 |
-| All Seats Taken | 40.00% | ~313 |
+| Crafty | 48.00% | ~376 |
+| All Seats Taken | 40.00% | ~314 |
 | For Science! | 35.00% | ~274 |
 | Meet the Petersons | 32.00% | ~251 |
 | Stay Cool | 30.00% | ~235 |
-| KIA | 27.00% | ~211 |
+| KIA | 27.00% | ~212 |
 | Mutiny in making | 24.00% | ~188 |
 | Eco-Shuttle | 20.00% | ~157 |
 | Et tu, Astrocitizen? | 20.00% | ~157 |
@@ -25,7 +25,7 @@
 | Hands Full | 14.00% | ~110 |
 | Gold Medalist | 13.00% | ~102 |
 | Non-Fiction | 12.00% | ~94 |
-| No Man Left Behind | 9.00% | ~70 |
+| No Man Left Behind | 9.00% | ~71 |
 | Fix-It Felix | 8.00% | ~63 |
 | Intergalactic Breakup | 8.00% | ~63 |
 | Second Life | 8.00% | ~63 |
@@ -35,7 +35,7 @@
 | Extreme Makeover | 5.00% | ~39 |
 | The Improvinator | 4.00% | ~31 |
 | The Last Supper | 4.00% | ~31 |
-| 2018: A Soup Odyssey | 3.00% | ~23 |
+| 2018: A Soup Odyssey | 3.00% | ~24 |
 | Bovine Domain | 2.00% | ~16 |
 | That's No Moon! | 2.00% | ~16 |
 | AAARGH! | 1.00% | ~8 |
@@ -49,7 +49,7 @@
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 783 (Ranked 287)  
+Progressed: 784 (Ranked 286)  
 Completed: 1 (0.13%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,6 +178,7 @@ Completed: 1 (0.13%) (Ranked 284)
 | 2023-12-12 | 780 | 1 |
 | 2023-12-13 | 781 | 1 |
 | 2023-12-14 | 783 | 1 |
+| 2023-12-16 | 784 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -10,6 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fast Food | 0.50% | ~1,037 |
 | A Brief Tour of the Realms | 0.40% | ~965 |
 | Misaligned in Sigil | 0.30% | ~622 |
+| Beast Intentions | 0.20% | ~482 |
 | The Cursed Farmer | 0.20% | ~482 |
 | Chaos Theory | 0.20% | ~415 |
 | The Overgrown Grove | 0.20% | ~415 |
@@ -62,7 +63,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.10% | ~207 |
 | Zarak's Revenge | 0.10% | ~207 |
 | Bully for You! | 0.10% | ~207 |
-| Beast Intentions | 0.10% | ~241 |
 | Wet Feet | 0.10% | ~241 |
 | The Dark Heart | 0.10% | ~207 |
 | Undergeared | 0.10% | ~207 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Vrocks | 0.10% | ~207 |
 | Mind Spike | 0.10% | ~207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,189 (Ranked 65)  
+Progressed: 241,195 (Ranked 65)  
 Completed: 2,536 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -793,7 +793,7 @@ Completed: 2,536 (1.05%) (Ranked 168)
 | 2023-12-13 | 239,847 | 2,519 |
 | 2023-12-14 | 240,414 | 2,526 |
 | 2023-12-15 | 240,802 | 2,532 |
-| 2023-12-16 | 241,189 | 2,536 |
+| 2023-12-16 | 241,195 | 2,536 |
 ## Awards
 Max (Great for Beginners): 5,654  (Ranked 70)  
 Sum: 32,925 (Ranked 41)  

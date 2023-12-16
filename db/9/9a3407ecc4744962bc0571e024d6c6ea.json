@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -2832,17 +2832,17 @@
       "ID": "BostonHayDay",
       "SetID": "3ai6ml8",
       "Name": "Boston Hay Day",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 636
+      "UsersEstimate": 647
     },
     {
       "ID": "BoxingClever",
       "SetID": "3ai6ml8",
       "Name": "Boxing Clever",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 553
+      "UsersEstimate": 563
     },
     {
       "ID": "Cartographer",
@@ -2960,9 +2960,9 @@
       "ID": "TheSafetyOfDisbelief",
       "SetID": "3ai6ml8",
       "Name": "The Safety of Disbelief",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 574
+      "UsersEstimate": 584
     },
     {
       "ID": "TragedyDocumented",
@@ -2991,8 +2991,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:09:23.2511168+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:09:41.2339694+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:02.5994024+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:59:53.3405629+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:09:23.2511485+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:00:05.2411319+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:09:41.2340013+00:00"
 }

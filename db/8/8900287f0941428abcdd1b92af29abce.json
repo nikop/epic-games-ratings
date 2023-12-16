@@ -4,7 +4,7 @@
   "ProductSlug": "miniland-adventure-ee81ff",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-12-07T14:00:00+00:00",
@@ -145,9 +145,9 @@
       "ID": "ach-bone-meal",
       "SetID": "6aph42m",
       "Name": "I don\u0027t have the time to wait",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach-broccoli",
@@ -233,9 +233,9 @@
       "ID": "ach-copper",
       "SetID": "6aph42m",
       "Name": "Harder materials",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach-copper-watering-can",
@@ -313,17 +313,17 @@
       "ID": "ach-goblin-bed",
       "SetID": "6aph42m",
       "Name": "Helping a friend",
-      "Percentage": 22,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach-goblin-bed-destroy",
       "SetID": "6aph42m",
       "Name": "Give and take",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach-gold-bookcase",
@@ -552,8 +552,8 @@
   ],
   "FirstSeen": "2023-12-09T20:59:53.605626+00:00",
   "FirstSeenAchievements": "2023-09-27T06:05:39.2666292+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:09:00.5588039+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:09:17.9724094+00:00",
   "LastUpdate_AppInfo": "2023-12-13T11:57:08.2416501+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:59:18.307492+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:09:00.5588455+00:00"
+  "LastUpdate_Ratings": "2023-12-16T22:59:30.0875056+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:09:17.9724462+00:00"
 }

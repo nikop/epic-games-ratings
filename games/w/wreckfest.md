@@ -1,7 +1,7 @@
 # Wreckfest
 [Store](https://store.epicgames.com/en-US/p/wreckfest)  
 [View Rawdata](../../db/w/wreckfest.json)  
-Rating: 4.25 (Ranked 891)  
+Rating: 4.26 (Ranked 880)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -51,3 +51,4 @@ Rating: 4.25 (Ranked 891)
 | 2023-12-02 | 4.23 | 0 | 0 |
 | 2023-12-05 | 4.24 | 0 | 0 |
 | 2023-12-14 | 4.25 | 0 | 0 |
+| 2023-12-16 | 4.26 | 0 | 0 |

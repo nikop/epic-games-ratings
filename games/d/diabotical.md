@@ -4,12 +4,12 @@
 Rating: 4.74 (Ranked 162)  
 Number of Ratings: 572  (23.09.2022)  
 ## Awards
-Max (Great for Quick Sessions): 291  (Ranked 259)  
-Sum: 2,705 (Ranked 187)  
+Max (Great for Quick Sessions): 292  (Ranked 259)  
+Sum: 2,706 (Ranked 187)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 291 |
+| This game is Great for Quick Sessions | 292 |
 | This game has Competitive Players | 272 |
 | This game is Highly Recommended | 256 |
 | This game has Quickly Understood Controls | 256 |
@@ -206,3 +206,4 @@ Diff (max vs sum): 72
 | 2023-12-09 | 4.74 | - | 291 | 2,703 |
 | 2023-12-13 | 4.74 | - | 291 | 2,704 |
 | 2023-12-14 | 4.74 | - | 291 | 2,705 |
+| 2023-12-16 | 4.74 | - | 292 | 2,706 |

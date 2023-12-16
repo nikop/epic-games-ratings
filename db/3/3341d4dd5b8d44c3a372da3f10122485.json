@@ -3,9 +3,9 @@
   "Name": "Samorost 2",
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 408,
-  "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_Completed": 7,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 170,
-  "EOS_Completed": 74,
+  "EOS_Completed": 75,
   "EOS_NewPlayers": 26,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 43.53,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 44.12,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -1149,6 +1149,11 @@
       "Time": "2023-12-16T22:08:32.2979089+00:00",
       "NumProgressed": 170,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-12-16T23:08:48.8861552+00:00",
+      "NumProgressed": 170,
+      "NumCompleted": 75
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -1191,9 +1196,9 @@
       "ID": "Konec",
       "SetID": "823jm6g",
       "Name": "Happy End",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "Les",
@@ -1207,9 +1212,9 @@
       "ID": "Majak",
       "SetID": "823jm6g",
       "Name": "Lighthouse",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "Nora",
@@ -1265,13 +1270,13 @@
       "ID": "823jm6g",
       "IsBase": true,
       "Progressed": 170,
-      "Completed": 74
+      "Completed": 75
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:08:32.2979084+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:08:48.8861545+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9761332+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:57:26.4802319+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:08:32.297927+00:00"
+  "LastUpdate_Ratings": "2023-12-16T22:57:32.4216919+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:08:48.8861733+00:00"
 }

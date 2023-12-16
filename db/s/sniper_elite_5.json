@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -643,9 +643,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4033,
+  "EOS_Progressed": 4034,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8683,6 +8683,11 @@
       "Time": "2023-12-16T17:09:02.6705452+00:00",
       "NumProgressed": 4033,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-16T23:08:56.420747+00:00",
+      "NumProgressed": 4034,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8942,7 +8947,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -9006,7 +9011,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1371
+      "UsersEstimate": 1372
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9030,7 +9035,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -9261,13 +9266,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3984,
+      "Progressed": 3985,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4033,
+      "Progressed": 4034,
       "Completed": 11
     }
   ],
@@ -9275,8 +9280,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:08:39.4446648+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:08:56.4207467+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:53.9169066+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:57:20.7932676+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:08:39.444761+00:00"
+  "LastUpdate_Ratings": "2023-12-16T22:57:26.8130975+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:08:56.4208231+00:00"
 }

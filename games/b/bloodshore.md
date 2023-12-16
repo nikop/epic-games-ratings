@@ -16,14 +16,14 @@
 | Bromance | 30.00% | ~71 |
 | Lootaphilia | 21.00% | ~50 |
 | Maybe you should give it another go | 11.00% | ~26 |
+| Mikey Lizard | 7.00% | ~17 |
 | I used to think I was indecisive... | 7.00% | ~17 |
-| Mikey Lizard | 6.00% | ~14 |
 | Deathlooper | 4.00% | ~9 |
 | That's my boy! | 4.00% | ~9 |
 | We tried to warn you! | 4.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 236 (Ranked 389)  
-Completed: 5 (2.12%) (Ranked 131)  
+Completed: 6 (2.54%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -101,7 +101,7 @@ Completed: 5 (2.12%) (Ranked 131)
 | 2023-12-13 | 227 | 5 |
 | 2023-12-14 | 229 | 5 |
 | 2023-12-15 | 232 | 5 |
-| 2023-12-16 | 236 | 5 |
+| 2023-12-16 | 236 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

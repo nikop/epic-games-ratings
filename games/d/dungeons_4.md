@@ -38,8 +38,8 @@
 | If Looks Could Kill | 32.00% | ~184 |
 | The Finitude Drill | 30.00% | ~173 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~167 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~161 |
 | Forbidden Knowledge | 28.00% | ~161 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~156 |
 | Doom Hill | 27.00% | ~156 |
 | Hungry, Hungry Gorgu! | 26.00% | ~150 |
 | Stop Tanos! | 25.00% | ~144 |
@@ -49,8 +49,8 @@
 | The Rune Sockets of Finitude (Part 1) | 23.00% | ~132 |
 | Bonus Evilness | 22.00% | ~127 |
 | The Rune Sockets of Finitude (Part 2) | 20.00% | ~115 |
+| The Last Stand - This Time For Real! | 20.00% | ~115 |
 | Rubble and Ashes | 19.00% | ~109 |
-| The Last Stand - This Time For Real! | 19.00% | ~109 |
 | My Little Torture Chamber | 18.00% | ~104 |
 | Lavalumps on Ice! | 18.00% | ~104 |
 | To Infinity And Beyond! | 18.00% | ~104 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 9.00% | ~52 |
 | I Don't Need Any Help | 8.00% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 576 (Ranked 314)  
+Progressed: 576 (Ranked 315)  
 Completed: 17 (2.95%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |

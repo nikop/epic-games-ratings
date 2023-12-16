@@ -6,7 +6,7 @@ Rating: 4.85 (Ranked 47)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That's the spirit | 42.00% | ~504 |
-| Welcome to the Tower | 38.00% | ~456 |
+| Welcome to the Tower | 39.00% | ~468 |
 | The great escape | 32.00% | ~384 |
 | The Preacher's fate | 31.00% | ~372 |
 | A new dawn | 25.00% | ~300 |
@@ -25,14 +25,14 @@ Rating: 4.85 (Ranked 47)
 | Rascal | 16.00% | ~192 |
 | Feels like springtime | 15.00% | ~180 |
 | Alchemists Express | 15.00% | ~180 |
-| Free at last | 14.00% | ~168 |
+| Free at last | 13.00% | ~156 |
 | A Link to the Past | 12.00% | ~144 |
 | A great audience | 10.00% | ~120 |
 | For its own good | 10.00% | ~120 |
 | Fashion victim | 5.00% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,200 (Ranked 261)  
-Completed: 64 (5.33%) (Ranked 71)  
+Progressed: 1,201 (Ranked 261)  
+Completed: 66 (5.50%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -178,7 +178,7 @@ Completed: 64 (5.33%) (Ranked 71)
 | 2023-12-13 | 981 | 56 |
 | 2023-12-14 | 1,054 | 56 |
 | 2023-12-15 | 1,124 | 56 |
-| 2023-12-16 | 1,200 | 64 |
+| 2023-12-16 | 1,201 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

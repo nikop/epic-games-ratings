@@ -1,13 +1,13 @@
 # House Party
 [Store](https://store.epicgames.com/en-US/p/house-party-ae8b27)  
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.33 (Ranked 827)  
+Rating: 4.33 (Ranked 828)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Friend in Need... | 6.00% | ~400 |
-| Smooth Operator: Madison | 5.00% | ~333 |
+| Smooth Operator: Madison | 5.00% | ~334 |
 | The Brahdyssey | 3.00% | ~200 |
 | Caught in the Act | 3.00% | ~200 |
 | Katherine | 3.00% | ~200 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,669 (Ranked 187)  
+Progressed: 6,670 (Ranked 187)  
 Completed: 3 (0.04%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 3 (0.04%) (Ranked 336)
 | 2023-12-13 | 6,573 | 3 |
 | 2023-12-14 | 6,605 | 3 |
 | 2023-12-15 | 6,637 | 3 |
-| 2023-12-16 | 6,669 | 3 |
+| 2023-12-16 | 6,670 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

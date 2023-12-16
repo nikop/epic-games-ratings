@@ -62,9 +62,9 @@
 | Keep nature safe | 32.00% | ~128 |
 | Family comes first | 32.00% | ~128 |
 | Key memories | 32.00% | ~128 |
+| Careerist | 32.00% | ~128 |
 | The heart of the Resistance | 32.00% | ~128 |
 | Trap disarmed | 31.00% | ~124 |
-| Careerist | 31.00% | ~124 |
 | Anyone can resist | 31.00% | ~124 |
 | The last bell ring | 30.00% | ~120 |
 | Better cooking at home | 29.00% | ~116 |
@@ -72,7 +72,7 @@
 | Silver’s past | 28.00% | ~112 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 399 (Ranked 340)  
-Completed: 9 (2.26%) (Ranked 127)  
+Completed: 9 (2.26%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

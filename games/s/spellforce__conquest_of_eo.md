@@ -13,9 +13,9 @@
 | Harvest Time | 65.00% | ~35 |
 | Mine! | 65.00% | ~35 |
 | Artificer's Apprentice | 61.00% | ~33 |
+| Fly the friendly Sky | 52.00% | ~28 |
 | Necromancer's Apprentice | 50.00% | ~27 |
 | Get out of here! | 50.00% | ~27 |
-| Fly the friendly Sky | 50.00% | ~27 |
 | The Circle | 43.00% | ~23 |
 | Friend of Lyraine | 43.00% | ~23 |
 | Alchemist's Apprentice | 41.00% | ~22 |

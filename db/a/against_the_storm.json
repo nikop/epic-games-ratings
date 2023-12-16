@@ -3467,9 +3467,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18385,
+  "EOS_Progressed": 18388,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15982,6 +15982,11 @@
       "Time": "2023-12-16T22:04:20.616611+00:00",
       "NumProgressed": 18385,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-16T23:04:34.7542663+00:00",
+      "NumProgressed": 18388,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16160,9 +16165,9 @@
       "ID": "WinNearFishmen",
       "SetID": "cfbk359",
       "Name": "Fishmen Ritual Site",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 92
     },
     {
       "ID": "WinNearForbidden",
@@ -16426,7 +16431,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "WinNearPresence",
@@ -16465,15 +16470,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18385,
+      "Progressed": 18388,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-16T06:56:59.7467087+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:04:20.6166107+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:04:34.7542659+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:57:31.1268447+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:04:20.6167057+00:00"
+  "LastUpdate_Ratings": "2023-12-16T22:57:37.0228081+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:04:34.7543601+00:00"
 }

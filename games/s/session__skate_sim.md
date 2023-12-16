@@ -6,12 +6,12 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,957 |
+| You're free now! | 61.00% | ~1,959 |
 | Keeping it classy | 28.00% | ~899 |
-| Welcome to the family | 22.00% | ~706 |
+| Welcome to the family | 22.00% | ~707 |
 | The finer things in life | 20.00% | ~642 |
-| Backpacker | 14.00% | ~449 |
-| Go with the Flow | 14.00% | ~449 |
+| Backpacker | 14.00% | ~450 |
+| Go with the Flow | 14.00% | ~450 |
 | The flip trick crown jewel | 11.00% | ~353 |
 | Keep the dream alive | 10.00% | ~321 |
 | Plastic Surgeon | 10.00% | ~321 |
@@ -33,13 +33,13 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 6.00% | ~193 |
 | Squad goals | 6.00% | ~193 |
 | Sup widdit big dog! | 6.00% | ~193 |
-| Cops called! | 5.00% | ~160 |
-| Lines for days | 5.00% | ~160 |
-| Manny Destroys All | 5.00% | ~160 |
-| Renaissance man | 5.00% | ~160 |
-| Tank commander | 5.00% | ~160 |
-| Trick shot marksman | 5.00% | ~160 |
-| We get it, you're good | 5.00% | ~160 |
+| Cops called! | 5.00% | ~161 |
+| Lines for days | 5.00% | ~161 |
+| Manny Destroys All | 5.00% | ~161 |
+| Renaissance man | 5.00% | ~161 |
+| Tank commander | 5.00% | ~161 |
+| Trick shot marksman | 5.00% | ~161 |
+| We get it, you're good | 5.00% | ~161 |
 | G.O.A.T. status | 4.00% | ~128 |
 | Hoarder | 4.00% | ~128 |
 | Pew-Pew | 4.00% | ~128 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,209 (Ranked 216)  
+Progressed: 3,212 (Ranked 216)  
 Completed: 2 (0.06%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 2 (0.06%) (Ranked 319)
 | 2023-12-13 | 3,118 | 2 |
 | 2023-12-14 | 3,148 | 2 |
 | 2023-12-15 | 3,179 | 2 |
-| 2023-12-16 | 3,209 | 2 |
+| 2023-12-16 | 3,212 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 420)  
 Sum: 566 (Ranked 320)  

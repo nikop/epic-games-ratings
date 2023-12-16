@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 40.00% | ~246 |
+| Break Out | 40.00% | ~248 |
 | Trinity | 16.00% | ~99 |
-| I Found It | 12.00% | ~74 |
+| I Found It | 12.00% | ~75 |
+| Find Allies | 11.00% | ~68 |
 | A Taste of Wrath | 11.00% | ~68 |
 | Shatter Them All | 11.00% | ~68 |
-| Find Allies | 10.00% | ~62 |
-| Fashion Victim | 10.00% | ~62 |
+| Fashion Victim | 11.00% | ~68 |
+| Geared Up | 10.00% | ~62 |
 | The Collector | 10.00% | ~62 |
-| Adventurer | 9.00% | ~55 |
-| Geared Up | 9.00% | ~55 |
-| Tributes of Caladrias | 8.00% | ~49 |
-| Stone Collection | 8.00% | ~49 |
+| Adventurer | 9.00% | ~56 |
+| Tributes of Caladrias | 9.00% | ~56 |
+| Stone Collection | 8.00% | ~50 |
 | Scholar | 7.00% | ~43 |
 | Powerful Allies | 6.00% | ~37 |
 | Big Bazar | 6.00% | ~37 |
 | Essence Blow | 5.00% | ~31 |
+| Calm before the Storm | 4.00% | ~25 |
 | The Mentor | 4.00% | ~25 |
 | Alchemist | 4.00% | ~25 |
-| Calm before the Storm | 3.00% | ~18 |
-| To Battle | 3.00% | ~18 |
-| Godslayer | 3.00% | ~18 |
-| Airborne | 3.00% | ~18 |
-| Fine Feathers Make Fine Birds | 3.00% | ~18 |
+| To Battle | 3.00% | ~19 |
+| Godslayer | 3.00% | ~19 |
+| Airborne | 3.00% | ~19 |
+| Shatterer | 3.00% | ~19 |
+| Fine Feathers Make Fine Birds | 3.00% | ~19 |
 | Clear Sight | 2.00% | ~12 |
-| Shatterer | 2.00% | ~12 |
 | Miner | 2.00% | ~12 |
+| A Queen's Tale | 2.00% | ~12 |
 | Slayer | 1.00% | ~6 |
 | All There Is | 1.00% | ~6 |
 | False God | 1.00% | ~6 |
-| A Queen's Tale | 1.00% | ~6 |
 | Summiter | 1.00% | ~6 |
 | Forgemaster | 0.80% | ~5 |
 | Flawless Victory | 0.80% | ~5 |
@@ -41,8 +41,8 @@
 | Shardbearer | 0.60% | ~4 |
 | Feeling Fancy | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 616 (Ranked 309)  
-Completed: 3 (0.49%) (Ranked 209)  
+Progressed: 621 (Ranked 306)  
+Completed: 3 (0.48%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,4 +106,4 @@ Completed: 3 (0.49%) (Ranked 209)
 | 2023-12-13 | 282 | 3 |
 | 2023-12-14 | 376 | 3 |
 | 2023-12-15 | 486 | 3 |
-| 2023-12-16 | 616 | 3 |
+| 2023-12-16 | 621 | 3 |

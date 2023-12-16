@@ -5,23 +5,23 @@ Rating: 4.88 (Ranked 16)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 36.00% | ~2,813 |
-| Feeling the beat! | 36.00% | ~2,813 |
-| You can pet the cat! | 32.00% | ~2,500 |
-| Who put gears in there? | 24.00% | ~1,875 |
-| Cream of the Crop | 21.00% | ~1,641 |
+| Start with a bang! | 36.00% | ~2,814 |
+| Feeling the beat! | 36.00% | ~2,814 |
+| You can pet the cat! | 32.00% | ~2,501 |
+| Who put gears in there? | 24.00% | ~1,876 |
+| Cream of the Crop | 21.00% | ~1,642 |
 | Thanks for the free chip, Peppermint! | 20.00% | ~1,563 |
-| You got this, Peppermint? | 17.00% | ~1,328 |
-| Perfect Parry | 15.00% | ~1,172 |
-| Alright, that felt AWESOME! | 15.00% | ~1,172 |
+| You got this, Peppermint? | 17.00% | ~1,329 |
+| Perfect Parry | 15.00% | ~1,173 |
+| Alright, that felt AWESOME! | 15.00% | ~1,173 |
 | I play my own way! | 14.00% | ~1,094 |
 | This will cost you big time | 12.00% | ~938 |
 | Does that say weakpoint? | 12.00% | ~938 |
 | Uh, they were broken when I got here | 11.00% | ~860 |
-| Z-shielding's got nothing on us! | 10.00% | ~781 |
-| Kissing the sky! | 10.00% | ~781 |
-| Whoa! There's ANOTHER health bar!? | 9.00% | ~703 |
-| I look cool. But I can look COOLER. | 9.00% | ~703 |
+| Z-shielding's got nothing on us! | 10.00% | ~782 |
+| Kissing the sky! | 10.00% | ~782 |
+| Whoa! There's ANOTHER health bar!? | 9.00% | ~704 |
+| I look cool. But I can look COOLER. | 9.00% | ~704 |
 | The Negotiator | 8.00% | ~625 |
 | You must like calling me in, Chai | 7.00% | ~547 |
 | Out in a puff of smoke | 7.00% | ~547 |
@@ -34,8 +34,8 @@ Rating: 4.88 (Ranked 16)
 | Well that was a rush! | 4.00% | ~313 |
 | That's a lot of junk metal… | 4.00% | ~313 |
 | There's such a thing as TOO helpful | 4.00% | ~313 |
-| Beat-hit mania | 3.00% | ~234 |
-| I told you I'd be fine, Peppermint! | 3.00% | ~234 |
+| Beat-hit mania | 3.00% | ~235 |
+| I told you I'd be fine, Peppermint! | 3.00% | ~235 |
 | Chip-tuned | 2.00% | ~156 |
 | Wanna hear my playlist? | 2.00% | ~156 |
 | Check out my moves! | 2.00% | ~156 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 16)
 | Voices from within | 0.10% | ~6 |
 | Low budget finish | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,814 (Ranked 181)  
+Progressed: 7,817 (Ranked 181)  
 Completed: 8 (0.10%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 8 (0.10%) (Ranked 296)
 | 2023-12-13 | 4,535 | 8 |
 | 2023-12-14 | 5,878 | 8 |
 | 2023-12-15 | 6,923 | 8 |
-| 2023-12-16 | 7,814 | 8 |
+| 2023-12-16 | 7,817 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

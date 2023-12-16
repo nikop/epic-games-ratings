@@ -8,7 +8,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 5.00% | ~919 |
 | Overgrown Library | 5.00% | ~919 |
-| Petrified Necropolis | 4.00% | ~735 |
+| Petrified Necropolis | 4.00% | ~736 |
 | Taking Action | 3.00% | ~552 |
 | Frosts | 3.00% | ~552 |
 | Land of Greed | 3.00% | ~552 |
@@ -42,11 +42,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 0.70% | ~129 |
 | Against All Odds | 0.60% | ~110 |
 | Serving Ale | 0.50% | ~92 |
+| Fishmen Ritual Site | 0.50% | ~92 |
 | Defying the Crown | 0.50% | ~92 |
 | Into the Forest | 0.50% | ~92 |
 | Refinery | 0.40% | ~74 |
 | Dangerous Lands | 0.40% | ~74 |
-| Fishmen Ritual Site | 0.40% | ~74 |
 | Forsaken Gods Temple | 0.40% | ~74 |
 | Victory Through Prosperity | 0.40% | ~74 |
 | Fox Utopia | 0.40% | ~74 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,385 (Ranked 147)  
+Progressed: 18,388 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 39 (0.21%) (Ranked 262)
 | 2023-12-13 | 18,048 | 40 |
 | 2023-12-14 | 18,153 | 40 |
 | 2023-12-15 | 18,272 | 39 |
-| 2023-12-16 | 18,385 | 39 |
+| 2023-12-16 | 18,388 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 227)  
 Sum: 3,264 (Ranked 174)  

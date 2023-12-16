@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3688,9 +3688,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241161,
+  "EOS_Progressed": 241163,
   "EOS_Completed": 299,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -28453,6 +28453,11 @@
       "Time": "2023-12-16T22:09:43.6206397+00:00",
       "NumProgressed": 241161,
       "NumCompleted": 299
+    },
+    {
+      "Time": "2023-12-16T23:10:07.6908739+00:00",
+      "NumProgressed": 241163,
+      "NumCompleted": 299
     }
   ],
   "TotalAchievements": 138,
@@ -28678,9 +28683,9 @@
       "ID": "ENDINGCHOICE",
       "SetID": "5l8oe0h",
       "Name": "Who To Trust?",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 1206
     },
     {
       "ID": "ENDWOUNDED",
@@ -29062,9 +29067,9 @@
       "ID": "MULTIKILL30",
       "SetID": "5l8oe0h",
       "Name": "C-C-Combo",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1447
     },
     {
       "ID": "NOEPIC",
@@ -29520,7 +29525,7 @@
       "Name": "Not Touching You",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "KILLBOSSWITHNOITEMS",
@@ -29567,13 +29572,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241161,
+      "Progressed": 241163,
       "Completed": 299
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2641,
+      "Progressed": 2643,
       "Completed": 406
     }
   ],
@@ -29581,8 +29586,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-16T10:57:08.4508717+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:09:43.6206393+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:10:07.6908737+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:57:29.9393586+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:09:43.621001+00:00"
+  "LastUpdate_Ratings": "2023-12-16T22:57:35.9256964+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:10:07.6911346+00:00"
 }

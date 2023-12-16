@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1210,
+  "EOS_Progressed": 1211,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.56,
   "EosHistory": [
@@ -4162,6 +4162,11 @@
       "Time": "2023-12-16T22:04:26.786407+00:00",
       "NumProgressed": 1210,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-12-16T23:04:41.0786714+00:00",
+      "NumProgressed": 1211,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 28,
@@ -4173,7 +4178,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "MQ01_2",
@@ -4181,7 +4186,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "MQ02_1",
@@ -4189,7 +4194,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "MQ02_2",
@@ -4213,7 +4218,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "MQ03_1",
@@ -4221,7 +4226,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "MQ03_2",
@@ -4229,7 +4234,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "MQ03_3",
@@ -4245,7 +4250,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "MQ03_5",
@@ -4269,7 +4274,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "MQ04_3",
@@ -4277,7 +4282,7 @@
       "Name": "The New World",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "MQ05_1",
@@ -4285,7 +4290,7 @@
       "Name": "Open Sesame",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "MQ05_2",
@@ -4293,7 +4298,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "MQ05_3",
@@ -4301,7 +4306,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "MQ05_4",
@@ -4309,7 +4314,7 @@
       "Name": "Knives Out",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "MQ06_1",
@@ -4333,7 +4338,7 @@
       "Name": "Land, Ho!",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "MQ06_4",
@@ -4396,7 +4401,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1210,
+      "Progressed": 1211,
       "Completed": 31
     }
   ],
@@ -4404,8 +4409,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-14T11:03:29.6730885+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:04:26.7864067+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:04:41.0786709+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:02:58.5361469+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:04:26.7864364+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:03:09.1220914+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:04:41.0787429+00:00"
 }

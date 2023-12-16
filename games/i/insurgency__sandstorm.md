@@ -1,37 +1,37 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 390)  
+Rating: 4.61 (Ranked 389)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,145 |
-| Exploitative | 4.00% | ~20,116 |
-| Point Shooting | 4.00% | ~20,116 |
-| Wet Feet | 4.00% | ~20,116 |
-| High Speed Low Drag | 3.00% | ~15,087 |
-| Lucky | 3.00% | ~15,087 |
-| Stylin' | 3.00% | ~15,087 |
-| Turf War | 3.00% | ~15,087 |
-| Banged | 2.00% | ~10,058 |
-| Checkpoint Victory | 2.00% | ~10,058 |
-| First Blood | 2.00% | ~10,058 |
-| Flaccid Paralysis | 2.00% | ~10,058 |
-| Push Victory | 2.00% | ~10,058 |
-| Self-destructive | 2.00% | ~10,058 |
-| Blindfire | 1.00% | ~5,029 |
-| Ruthless | 1.00% | ~5,029 |
-| Semper Paratus | 1.00% | ~5,029 |
-| Carrying | 0.90% | ~4,526 |
-| Efficient | 0.90% | ~4,526 |
-| Mount & Gun | 0.90% | ~4,526 |
-| Personal | 0.90% | ~4,526 |
-| Grounded | 0.80% | ~4,023 |
-| Play to Win | 0.80% | ~4,023 |
-| Special Delivery | 0.70% | ~3,520 |
-| Firefight Victory | 0.60% | ~3,017 |
-| #1 | 0.60% | ~3,017 |
+| Wallbanger | 5.00% | ~25,148 |
+| Exploitative | 4.00% | ~20,119 |
+| Point Shooting | 4.00% | ~20,119 |
+| Wet Feet | 4.00% | ~20,119 |
+| High Speed Low Drag | 3.00% | ~15,089 |
+| Lucky | 3.00% | ~15,089 |
+| Stylin' | 3.00% | ~15,089 |
+| Turf War | 3.00% | ~15,089 |
+| Banged | 2.00% | ~10,059 |
+| Checkpoint Victory | 2.00% | ~10,059 |
+| First Blood | 2.00% | ~10,059 |
+| Flaccid Paralysis | 2.00% | ~10,059 |
+| Push Victory | 2.00% | ~10,059 |
+| Self-destructive | 2.00% | ~10,059 |
+| Blindfire | 1.00% | ~5,030 |
+| Ruthless | 1.00% | ~5,030 |
+| Semper Paratus | 1.00% | ~5,030 |
+| Carrying | 0.90% | ~4,527 |
+| Efficient | 0.90% | ~4,527 |
+| Mount & Gun | 0.90% | ~4,527 |
+| Personal | 0.90% | ~4,527 |
+| Grounded | 0.80% | ~4,024 |
+| Play to Win | 0.80% | ~4,024 |
+| Special Delivery | 0.70% | ~3,521 |
+| Firefight Victory | 0.60% | ~3,018 |
+| #1 | 0.60% | ~3,018 |
 | Cinematic | 0.50% | ~2,515 |
 | Thanks Station! | 0.40% | ~2,012 |
 | Knock Knock | 0.30% | ~1,509 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~503 |
 | Road Hazard | 0.10% | ~503 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 502,908 (Ranked 37)  
+Progressed: 502,965 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 2 (0.00%) (Ranked 378)
 | 2023-12-13 | 500,220 | 2 |
 | 2023-12-14 | 500,996 | 2 |
 | 2023-12-15 | 501,850 | 2 |
-| 2023-12-16 | 502,908 | 2 |
+| 2023-12-16 | 502,965 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 404  (Ranked 234)  
 Sum: 3,236 (Ranked 175)  

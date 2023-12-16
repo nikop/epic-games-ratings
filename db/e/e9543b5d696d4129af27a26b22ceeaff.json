@@ -212,9 +212,9 @@
       "ID": "ACH_COACH_OF_THE_SEASON",
       "SetID": "1lnhagg",
       "Name": "Standing at the Top",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_EMPTY_ARENA",
@@ -427,8 +427,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:04:56.7971182+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:05:11.7954311+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:15.0404929+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:02:47.0420762+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:04:56.7971359+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:02:57.3679984+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:05:11.7954602+00:00"
 }

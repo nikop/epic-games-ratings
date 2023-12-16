@@ -5,9 +5,9 @@
   "Ranking_Rating": 423,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 471,
+  "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 86,
+  "EOS_Progressed": 87,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -486,6 +486,11 @@
       "Time": "2023-12-16T18:09:50.3025616+00:00",
       "NumProgressed": 86,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T23:09:52.5131717+00:00",
+      "NumProgressed": 87,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -544,7 +549,7 @@
       "ID": "id_17",
       "SetID": "bk9jib6",
       "Name": "Freedom fighter",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -568,7 +573,7 @@
       "ID": "id_2",
       "SetID": "bk9jib6",
       "Name": "Field hand",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 40
     },
@@ -608,7 +613,7 @@
       "ID": "id_26",
       "SetID": "bk9jib6",
       "Name": "Titan Lord",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -616,7 +621,7 @@
       "ID": "id_3",
       "SetID": "bk9jib6",
       "Name": "Philanthropist",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
       "UsersEstimate": 61
     },
@@ -626,7 +631,7 @@
       "Name": "Beginner",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "id_32",
@@ -656,7 +661,7 @@
       "ID": "id_36",
       "SetID": "bk9jib6",
       "Name": "Beast slayer",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 22
     },
@@ -672,7 +677,7 @@
       "ID": "id_4",
       "SetID": "bk9jib6",
       "Name": "Samaritan",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
       "UsersEstimate": 36
     },
@@ -744,7 +749,7 @@
       "ID": "id_5",
       "SetID": "bk9jib6",
       "Name": "Peacekeeper",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
       "UsersEstimate": 16
     },
@@ -808,7 +813,7 @@
       "ID": "id_57",
       "SetID": "bk9jib6",
       "Name": "Well-to-do",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 35
     },
@@ -832,7 +837,7 @@
       "ID": "id_6",
       "SetID": "bk9jib6",
       "Name": "Fence",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
       "UsersEstimate": 16
     },
@@ -848,7 +853,7 @@
       "ID": "id_61",
       "SetID": "bk9jib6",
       "Name": "Map reader",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
       "UsersEstimate": 66
     },
@@ -864,7 +869,7 @@
       "ID": "id_63",
       "SetID": "bk9jib6",
       "Name": "King of the handymen",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -897,7 +902,7 @@
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 86,
+      "Progressed": 87,
       "Completed": 0
     }
   ],
@@ -905,8 +910,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-15T05:01:07.5728894+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:09:29.2610297+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:09:52.5131715+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:12.9761539+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:00:32.2176255+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:09:29.2610846+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:02:45.4537696+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:09:52.5132179+00:00"
 }

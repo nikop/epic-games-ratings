@@ -6,20 +6,20 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 2.00% | ~14,603 |
-| The Assault | 2.00% | ~14,603 |
-| Life is your teacher | 2.00% | ~14,603 |
-| Lightning Hands | 2.00% | ~14,603 |
+| The Old Grandmaster | 2.00% | ~14,604 |
+| The Assault | 2.00% | ~14,604 |
+| Life is your teacher | 2.00% | ~14,604 |
+| Lightning Hands | 2.00% | ~14,604 |
 | The Hateful Pole Fighter | 1.00% | ~7,302 |
+| Stuntmaster | 1.00% | ~7,302 |
 | Street Fighting | 1.00% | ~7,302 |
 | State of constant learning | 1.00% | ~7,302 |
 | Qi Gong: Essence | 1.00% | ~7,302 |
 | Old Child | 1.00% | ~7,302 |
 | Rumble in the Hangar | 1.00% | ~7,302 |
 | Diligence as a goal | 1.00% | ~395 |
-| A Lady's Blood in the Snow | 0.90% | ~6,571 |
-| Stuntmaster | 0.90% | ~6,571 |
-| Qi Gong: Breath | 0.90% | ~6,571 |
+| A Lady's Blood in the Snow | 0.90% | ~6,572 |
+| Qi Gong: Breath | 0.90% | ~6,572 |
 | Project Arena | 0.90% | ~355 |
 | Lady Wing Chun | 0.80% | ~5,841 |
 | Kill Nil | 0.80% | ~5,841 |
@@ -34,15 +34,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.50% | ~3,651 |
 | Bloody Sport | 0.50% | ~197 |
 | Martial Hub | 0.50% | ~197 |
-| Muk Yan Master | 0.30% | ~2,190 |
-| Tiger on Fire | 0.30% | ~2,190 |
-| Source of Flying Daggers | 0.30% | ~2,190 |
-| Iron Money | 0.30% | ~2,190 |
-| Legendary Talismans of Wuxing | 0.30% | ~2,190 |
-| Prodigal Child | 0.30% | ~2,190 |
-| Detective Story | 0.30% | ~2,190 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,190 |
-| Sword Stained With Blood | 0.30% | ~2,190 |
+| Muk Yan Master | 0.30% | ~2,191 |
+| Tiger on Fire | 0.30% | ~2,191 |
+| Source of Flying Daggers | 0.30% | ~2,191 |
+| Iron Money | 0.30% | ~2,191 |
+| Legendary Talismans of Wuxing | 0.30% | ~2,191 |
+| Prodigal Child | 0.30% | ~2,191 |
+| Detective Story | 0.30% | ~2,191 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,191 |
+| Sword Stained With Blood | 0.30% | ~2,191 |
 | The best strikes are the ones we avoid | 0.30% | ~118 |
 | Drunken Fighter | 0.20% | ~1,460 |
 | Martial Artist | 0.20% | ~1,460 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~39 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,156 (Ranked 24)  
+Progressed: 730,184 (Ranked 24)  
 Completed: 12,954 (1.77%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,11 +307,11 @@ Completed: 12,954 (1.77%) (Ranked 136)
 | 2023-12-13 | 718,112 | 12,953 |
 | 2023-12-14 | 722,433 | 12,953 |
 | 2023-12-15 | 726,562 | 12,953 |
-| 2023-12-16 | 730,156 | 12,954 |
+| 2023-12-16 | 730,184 | 12,954 |
 ## Awards
 Max (Great Boss Battles): 6,935  (Ranked 55)  
-Sum: 12,172 (Ranked 83)  
-Diff (max vs sum): -28  
+Sum: 12,172 (Ranked 84)  
+Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,935 |

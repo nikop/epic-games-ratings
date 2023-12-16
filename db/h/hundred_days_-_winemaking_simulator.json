@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 16232,
+  "EOS_Progressed": 16240,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 815,
+  "EOS_NewPlayers": 820,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -13835,6 +13835,11 @@
       "Time": "2023-12-16T22:09:09.6757965+00:00",
       "NumProgressed": 16232,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-16T23:09:27.375719+00:00",
+      "NumProgressed": 16240,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -13847,7 +13852,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1624
     },
     {
       "ID": "a_10",
@@ -13895,7 +13900,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 6817
+      "UsersEstimate": 6821
     },
     {
       "ID": "a_19",
@@ -13935,7 +13940,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "a_23",
@@ -14094,7 +14099,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 16232,
+      "Progressed": 16240,
       "Completed": 12
     }
   ],
@@ -14102,8 +14107,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:09:09.675796+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T21:57:11.7677951+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:57:16.203343+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:09:09.6758798+00:00"
+  "LastChanged_Achievements": "2023-12-16T23:09:27.3757186+00:00",
+  "LastUpdate_AppInfo": "2023-12-16T22:57:03.7853176+00:00",
+  "LastUpdate_Ratings": "2023-12-16T22:57:22.3758474+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:09:27.3758062+00:00"
 }

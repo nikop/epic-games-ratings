@@ -319,9 +319,9 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "fw2",
@@ -343,9 +343,9 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "g2",
@@ -463,9 +463,9 @@
       "ID": "k1",
       "SetID": "b1ggf28",
       "Name": "Advanced Technology",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "k2",
@@ -551,9 +551,9 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "w2",
@@ -654,8 +654,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:04:24.767002+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:04:38.963338+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:02:43.6147355+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:04:24.7670393+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:02:53.89664+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:04:38.9633729+00:00"
 }

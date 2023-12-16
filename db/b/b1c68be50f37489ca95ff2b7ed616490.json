@@ -2,7 +2,7 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 455,
+  "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 138,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 103,
+  "EOS_Progressed": 104,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -474,6 +474,11 @@
       "Time": "2023-12-16T22:03:17.6806577+00:00",
       "NumProgressed": 103,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T23:03:30.9742721+00:00",
+      "NumProgressed": 104,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -638,13 +643,13 @@
       "Name": "Dessert Connoisseur!",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "3",
       "SetID": "6bgoh8g",
       "Name": "It was not in the book",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -652,7 +657,7 @@
       "ID": "4",
       "SetID": "6bgoh8g",
       "Name": "A simple mistake leads to grave consequences",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -701,14 +706,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 103,
+      "Progressed": 104,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:03:17.6806574+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:03:30.9742718+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:22.4243212+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:02:55.6872209+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:03:17.6806824+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:03:06.2883801+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:03:30.9742914+00:00"
 }

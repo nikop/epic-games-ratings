@@ -1,39 +1,39 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.39 (Ranked 758)  
+Rating: 4.39 (Ranked 759)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~917 |
-| And so it begins | 72.00% | ~868 |
-| No pressure | 70.00% | ~844 |
-| Memento | 61.00% | ~736 |
-| Let there be light | 59.00% | ~712 |
-| I think you dropped this | 54.00% | ~651 |
-| Soulmate? | 53.00% | ~639 |
-| Excellent service | 49.00% | ~591 |
-| Roll with it | 46.00% | ~555 |
-| Humble beginnings | 44.00% | ~531 |
+| Good start | 76.00% | ~918 |
+| And so it begins | 72.00% | ~870 |
+| No pressure | 70.00% | ~846 |
+| Memento | 61.00% | ~737 |
+| Let there be light | 59.00% | ~713 |
+| I think you dropped this | 54.00% | ~652 |
+| Soulmate? | 53.00% | ~640 |
+| Excellent service | 49.00% | ~592 |
+| Roll with it | 46.00% | ~556 |
+| Humble beginnings | 44.00% | ~532 |
 | Love is in the air | 43.00% | ~519 |
 | Fine, I'll do it myself | 42.00% | ~507 |
 | Moving up | 42.00% | ~507 |
-| No need to call anyone | 40.00% | ~482 |
-| Big fortune | 33.00% | ~398 |
+| No need to call anyone | 40.00% | ~483 |
+| Big fortune | 33.00% | ~399 |
 | Still more work ahead | 30.00% | ~362 |
 | Aesop's fable | 28.00% | ~338 |
 | Hotel sleuthing | 28.00% | ~338 |
 | Kaboom | 27.00% | ~326 |
 | Nearly there | 26.00% | ~314 |
-| Broken heart | 24.00% | ~289 |
-| Island boy | 22.00% | ~265 |
-| You're a star | 21.00% | ~253 |
-| Unstoppable | 19.00% | ~229 |
-| Reunited | 19.00% | ~229 |
+| Broken heart | 24.00% | ~290 |
+| Island boy | 22.00% | ~266 |
+| You're a star | 21.00% | ~254 |
+| Unstoppable | 19.00% | ~230 |
+| Reunited | 19.00% | ~230 |
 | King of hospitality | 11.00% | ~133 |
 | Top spot in town | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,206 (Ranked 260)  
+Progressed: 1,208 (Ranked 260)  
 Completed: 18 (1.49%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 18 (1.49%) (Ranked 144)
 | 2023-12-13 | 1,161 | 18 |
 | 2023-12-14 | 1,174 | 18 |
 | 2023-12-15 | 1,192 | 18 |
-| 2023-12-16 | 1,206 | 18 |
+| 2023-12-16 | 1,208 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

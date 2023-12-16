@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1200,
-  "EOS_Completed": 64,
-  "EOS_NewPlayers": 269,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 5.33,
+  "EOS_Progressed": 1201,
+  "EOS_Completed": 66,
+  "EOS_NewPlayers": 268,
+  "EOS_NewCompleters": 12,
+  "EOS_Completed_Percentage": 5.5,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -4256,6 +4256,11 @@
       "Time": "2023-12-16T22:05:08.0954683+00:00",
       "NumProgressed": 1200,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-12-16T23:05:23.8008101+00:00",
+      "NumProgressed": 1201,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 25,
@@ -4321,9 +4326,9 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 156
     },
     {
       "ID": "META_RESULT_1-4",
@@ -4425,9 +4430,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 468
     },
     {
       "ID": "PROGRESS_N2",
@@ -4466,16 +4471,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1200,
-      "Completed": 64
+      "Progressed": 1201,
+      "Completed": 66
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-16T17:01:08.7568685+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:05:08.0954681+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:05:23.8008098+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:42.7667201+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:00:04.4354715+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:05:08.0955065+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:00:16.9239702+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:05:23.800844+00:00"
 }

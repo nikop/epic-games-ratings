@@ -5,20 +5,20 @@ Rating: 4.60 (Ranked 423)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 94.00% | ~81 |
-| Map reader | 77.00% | ~66 |
-| Philanthropist | 71.00% | ~61 |
+| Beginner | 94.00% | ~82 |
+| Map reader | 76.00% | ~66 |
+| Philanthropist | 70.00% | ~61 |
 | Adventurer | 67.00% | ~58 |
 | The brave little tailor | 52.00% | ~45 |
 | Archer | 51.00% | ~44 |
-| Field hand | 47.00% | ~40 |
-| Samaritan | 42.00% | ~36 |
-| Well-to-do | 41.00% | ~35 |
+| Field hand | 46.00% | ~40 |
+| Samaritan | 41.00% | ~36 |
+| Well-to-do | 40.00% | ~35 |
 | The merciful one | 38.00% | ~33 |
 | Ladies' man | 37.00% | ~32 |
 | Ferocious wild boars | 30.00% | ~26 |
 | Idiot | 28.00% | ~24 |
-| Beast slayer | 26.00% | ~22 |
+| Beast slayer | 25.00% | ~22 |
 | The fourth triplet | 24.00% | ~21 |
 | Wise man | 23.00% | ~20 |
 | Family man | 23.00% | ~20 |
@@ -31,16 +31,16 @@ Rating: 4.60 (Ranked 423)
 | Pandora's box | 20.00% | ~17 |
 | Ghost hunter | 20.00% | ~17 |
 | Master detective | 20.00% | ~17 |
-| Peacekeeper | 19.00% | ~16 |
-| Fence | 19.00% | ~16 |
+| Peacekeeper | 18.00% | ~16 |
+| Fence | 18.00% | ~16 |
 | Defender | 16.00% | ~14 |
 | Showdown | 15.00% | ~13 |
 | Workaholic | 15.00% | ~13 |
 | Safecracker | 14.00% | ~12 |
 | Master thief | 14.00% | ~12 |
-| Freedom fighter | 12.00% | ~10 |
-| Titan Lord | 12.00% | ~10 |
-| King of the handymen | 12.00% | ~10 |
+| Freedom fighter | 11.00% | ~10 |
+| Titan Lord | 11.00% | ~10 |
+| King of the handymen | 11.00% | ~10 |
 | Terror of the hens | 9.00% | ~8 |
 | Expert | 9.00% | ~8 |
 | The traveler | 8.00% | ~7 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 423)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86 (Ranked 471)  
+Progressed: 87 (Ranked 470)  
 Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 378)
 | 2023-12-13 | 70 | 0 |
 | 2023-12-14 | 75 | 0 |
 | 2023-12-15 | 81 | 0 |
-| 2023-12-16 | 86 | 0 |
+| 2023-12-16 | 87 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

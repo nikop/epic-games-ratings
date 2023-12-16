@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 265,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 4.94,
+  "EOS_Completed_Percentage": 4.91,
   "EosHistory": [
     {
       "Time": "2023-12-07T15:03:10.6458391+00:00",
@@ -719,6 +719,11 @@
       "Time": "2023-12-16T22:06:27.8757219+00:00",
       "NumProgressed": 263,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-16T23:08:24.5421615+00:00",
+      "NumProgressed": 265,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-12-07T15:03:10.6469952+00:00",
@@ -737,9 +742,9 @@
       "ID": "10000_XP",
       "SetID": "8d0im30",
       "Name": "2 000 Score",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "1000_XP",
@@ -747,7 +752,7 @@
       "Name": "1000 Score",
       "Percentage": 21,
       "XP": 200,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "100_XP",
@@ -755,7 +760,7 @@
       "Name": "500 Score",
       "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "10_XP",
@@ -770,14 +775,14 @@
     {
       "ID": "8d0im30",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 265,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-12-08T10:57:34.1568649+00:00",
   "FirstSeenAchievements": "2023-12-07T15:03:10.6469952+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:06:27.8757216+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:08:24.5421611+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:11.5515181+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:58:24.0140512+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:06:27.875727+00:00"
+  "LastUpdate_Ratings": "2023-12-16T22:58:32.0554919+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:08:24.5421801+00:00"
 }

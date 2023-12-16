@@ -4,7 +4,7 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewPlayers": 373,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -687,17 +687,17 @@
       "ID": "Achievement4",
       "SetID": "9fa3l5n",
       "Name": "The Tomb of Kih-Oskh",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement5",
       "SetID": "9fa3l5n",
       "Name": "The Weighing of the Soul",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement6",
@@ -742,8 +742,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:08:23.9315889+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:08:39.564185+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:01.5960329+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:58:55.1540279+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:08:23.9316147+00:00"
+  "LastUpdate_Ratings": "2023-12-16T22:59:06.4543846+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:08:39.5642102+00:00"
 }

@@ -734,17 +734,17 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "decrypt_one_myth",
       "SetID": "f2im8d",
       "Name": "You Can\u2019t Handle the Truth",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "dial_911",
@@ -758,9 +758,9 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "do_what_you_have_to",
@@ -830,9 +830,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "finished_it",
@@ -918,9 +918,9 @@
       "ID": "perfect_storm",
       "SetID": "f2im8d",
       "Name": "The Perfect Storm",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "piece_of_story",
@@ -958,9 +958,9 @@
       "ID": "save_all_rats",
       "SetID": "f2im8d",
       "Name": "Se7en Seas",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "secret_ending",
@@ -990,9 +990,9 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 77,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 105
     },
     {
       "ID": "spy_one_item",
@@ -1014,9 +1014,9 @@
       "ID": "the_art_of_movement",
       "SetID": "f2im8d",
       "Name": "The art of movement",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "the_tragedy_unfolds",
@@ -1046,9 +1046,9 @@
       "ID": "view_most_of_photos",
       "SetID": "f2im8d",
       "Name": "A Mosaic of Misery",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "wanderer",
@@ -1077,8 +1077,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:05:24.3639136+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:05:40.1411326+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:01.5800746+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:59:54.2977643+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:05:24.3639627+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:00:06.3769693+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:05:40.1411659+00:00"
 }

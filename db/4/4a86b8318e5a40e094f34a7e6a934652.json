@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 290,
+  "EOS_Progressed": 291,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -1274,6 +1274,11 @@
       "Time": "2023-12-16T20:04:24.0114687+00:00",
       "NumProgressed": 290,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T23:03:47.1211703+00:00",
+      "NumProgressed": 291,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1286,7 +1291,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1300,9 +1305,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 192
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1342,7 +1347,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -1350,7 +1355,7 @@
       "Name": "Farmer",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "HOUSEWARMING",
@@ -1406,7 +1411,7 @@
       "Name": "Bridge Builder",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -1420,17 +1425,17 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 102
     },
     {
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 223
+      "UsersEstimate": 221
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1438,21 +1443,21 @@
       "Name": "Strong Signal",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 290,
+      "Progressed": 291,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:03:33.5581752+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:03:47.1211699+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.1278188+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:57:16.0589348+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:03:33.558192+00:00"
+  "LastUpdate_Ratings": "2023-12-16T22:57:22.1349508+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:03:47.1211897+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 177,
@@ -8684,9 +8684,9 @@
       "ID": "COLLECT_MINERALS",
       "SetID": "9eia0f5",
       "Name": "Miner 49er",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -8947,8 +8947,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-15T16:03:24.8361061+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:09:39.7501474+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:10:03.7245761+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:03:01.8250553+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:09:39.7502175+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:03:12.8154851+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:10:03.7246487+00:00"
 }

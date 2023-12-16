@@ -3,9 +3,9 @@
   "Name": "Bloodshore",
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 389,
-  "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 348,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_Completed": 121,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -31,10 +31,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 236,
-  "EOS_Completed": 5,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 10,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.12,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 2.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -535,6 +535,11 @@
       "Time": "2023-12-16T22:03:24.7680167+00:00",
       "NumProgressed": 236,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-16T23:03:37.9682944+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 17,
@@ -608,9 +613,9 @@
       "ID": "mikey_lizard",
       "SetID": "84ad177",
       "Name": "Mikey Lizard",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "mission_complete",
@@ -682,15 +687,15 @@
       "ID": "84ad177",
       "IsBase": true,
       "Progressed": 236,
-      "Completed": 5
+      "Completed": 6
     }
   ],
   "FirstSeen": "2022-11-13T23:58:32.3641197+00:00",
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:03:24.7680163+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:03:37.9682938+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:15.9914171+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:03:05.3856159+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:03:24.7680345+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:03:16.5594833+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:03:37.9683062+00:00"
 }

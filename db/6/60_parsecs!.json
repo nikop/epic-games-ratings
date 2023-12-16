@@ -2,9 +2,9 @@
   "ID": "0ab59318bba240478a251395e7bc4a4e",
   "Name": "60 Parsecs!",
   "ProductSlug": "60-parsecs-0481c5",
-  "Ranking_EOS_Progress": 287,
+  "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 783,
+  "EOS_Progressed": 784,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1036,6 +1036,11 @@
       "Time": "2023-12-14T21:08:15.1860219+00:00",
       "NumProgressed": 783,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T23:03:35.0498923+00:00",
+      "NumProgressed": 784,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -1071,7 +1076,7 @@
       "Name": "All Seats Taken",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "Achievement_AxelInSpace",
@@ -1109,9 +1114,9 @@
       "ID": "Achievement_Crafty",
       "SetID": "c01p6e5",
       "Name": "Crafty",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 376
     },
     {
       "ID": "Achievement_DontPanic",
@@ -1127,7 +1132,7 @@
       "Name": "Dust to Dust",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -1191,7 +1196,7 @@
       "Name": "Friendzone",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -1223,7 +1228,7 @@
       "Name": "Hello World",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "Achievement_Improvinator",
@@ -1247,7 +1252,7 @@
       "Name": "KIA",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Achievement_LastSupper",
@@ -1295,7 +1300,7 @@
       "Name": "No Man Left Behind",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Achievement_NonFiction",
@@ -1327,7 +1332,7 @@
       "Name": "2018: A Soup Odyssey",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Achievement_SpaceColonization",
@@ -1335,7 +1340,7 @@
       "Name": "Space Colonization",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -1343,7 +1348,7 @@
       "Name": "Space Engineer",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -1383,7 +1388,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "Achievement_Traitor",
@@ -1398,7 +1403,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 783,
+      "Progressed": 784,
       "Completed": 1
     }
   ],
@@ -1406,8 +1411,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-12-16T22:03:21.7147056+00:00",
+  "LastChanged_Achievements": "2023-12-16T23:03:35.049892+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:54.6938704+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:58:14.9836985+00:00",
-  "LastUpdate_Achievements": "2023-12-16T22:03:21.7147751+00:00"
+  "LastUpdate_Ratings": "2023-12-16T22:58:21.602983+00:00",
+  "LastUpdate_Achievements": "2023-12-16T23:03:35.049931+00:00"
 }
