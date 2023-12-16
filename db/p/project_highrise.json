@@ -1759,9 +1759,9 @@
       "ID": "ach_tutorial",
       "SetID": "b8gh1fi",
       "Name": "We Don\u0027t Need No Education",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_util_cable",
@@ -1832,8 +1832,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:06:56.0607237+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:04:59.6356018+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:02.639298+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:57:58.0980032+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:06:56.0607949+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:57:19.1723739+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:04:59.6357094+00:00"
 }

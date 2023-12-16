@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2905,9 +2905,9 @@
       "ID": "Achievement_028",
       "SetID": "6b34g18",
       "Name": "You Clean It Up",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "Achievement_029",
@@ -3234,8 +3234,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-16T18:59:11.089974+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:08:08.8108943+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:05:52.0998874+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:19.3114561+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:00:41.3827207+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:08:08.8109615+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:59:08.7151502+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:05:52.0999656+00:00"
 }

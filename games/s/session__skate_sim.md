@@ -7,7 +7,7 @@ Number of Ratings: 111  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're free now! | 61.00% | ~1,957 |
-| Keeping it classy | 28.00% | ~898 |
+| Keeping it classy | 28.00% | ~899 |
 | Welcome to the family | 22.00% | ~706 |
 | The finer things in life | 20.00% | ~642 |
 | Backpacker | 14.00% | ~449 |
@@ -24,15 +24,15 @@ Number of Ratings: 111  (23.09.2022)
 | Bottom ply killer | 7.00% | ~225 |
 | Finally he zips it | 7.00% | ~225 |
 | G'Day Mate! | 7.00% | ~225 |
-| Commence the Hijinx! | 6.00% | ~192 |
-| DIY Boss | 6.00% | ~192 |
-| Fulfilled the dream | 6.00% | ~192 |
-| Globetrotter | 6.00% | ~192 |
-| Laid back | 6.00% | ~192 |
-| NAHELL! | 6.00% | ~192 |
-| Purple passion | 6.00% | ~192 |
-| Squad goals | 6.00% | ~192 |
-| Sup widdit big dog! | 6.00% | ~192 |
+| Commence the Hijinx! | 6.00% | ~193 |
+| DIY Boss | 6.00% | ~193 |
+| Fulfilled the dream | 6.00% | ~193 |
+| Globetrotter | 6.00% | ~193 |
+| Laid back | 6.00% | ~193 |
+| NAHELL! | 6.00% | ~193 |
+| Purple passion | 6.00% | ~193 |
+| Squad goals | 6.00% | ~193 |
+| Sup widdit big dog! | 6.00% | ~193 |
 | Cops called! | 5.00% | ~160 |
 | Lines for days | 5.00% | ~160 |
 | Manny Destroys All | 5.00% | ~160 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,208 (Ranked 216)  
+Progressed: 3,209 (Ranked 216)  
 Completed: 2 (0.06%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 2 (0.06%) (Ranked 319)
 | 2023-12-13 | 3,118 | 2 |
 | 2023-12-14 | 3,148 | 2 |
 | 2023-12-15 | 3,179 | 2 |
-| 2023-12-16 | 3,208 | 2 |
+| 2023-12-16 | 3,209 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 420)  
 Sum: 566 (Ranked 320)  

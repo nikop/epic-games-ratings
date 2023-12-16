@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1209,
+  "EOS_Progressed": 1210,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.56,
   "EosHistory": [
@@ -4157,6 +4157,11 @@
       "Time": "2023-12-16T21:06:11.9045511+00:00",
       "NumProgressed": 1209,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-12-16T22:04:26.786407+00:00",
+      "NumProgressed": 1210,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 28,
@@ -4166,17 +4171,17 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 762
+      "UsersEstimate": 750
     },
     {
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 750
+      "UsersEstimate": 738
     },
     {
       "ID": "MQ02_1",
@@ -4216,7 +4221,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "MQ03_2",
@@ -4232,7 +4237,7 @@
       "Name": "History Check",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "MQ03_4",
@@ -4248,7 +4253,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "MQ04_1",
@@ -4256,7 +4261,7 @@
       "Name": "Going Once...",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "MQ04_2",
@@ -4320,7 +4325,7 @@
       "Name": "Bookworm",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "MQ06_3",
@@ -4368,7 +4373,7 @@
       "Name": "Up In Flames",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "MQ08_3",
@@ -4376,7 +4381,7 @@
       "Name": "Fhtagn!",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "PLTN",
@@ -4391,7 +4396,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1209,
+      "Progressed": 1210,
       "Completed": 31
     }
   ],
@@ -4399,8 +4404,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-14T11:03:29.6730885+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:06:11.9045506+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:04:26.7864067+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:04:09.1029535+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:06:11.9045899+00:00"
+  "LastUpdate_Ratings": "2023-12-16T22:02:58.5361469+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:04:26.7864364+00:00"
 }

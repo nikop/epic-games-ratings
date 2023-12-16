@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 428,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1319,6 +1319,11 @@
       "Time": "2023-12-16T20:05:26.7061339+00:00",
       "NumProgressed": 425,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T22:04:17.9994884+00:00",
+      "NumProgressed": 428,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1331,7 +1336,7 @@
       "Name": "Fruit Based",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "4",
@@ -1347,7 +1352,7 @@
       "Name": "What\u0027s Cooking?",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "6",
@@ -1371,7 +1376,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "9",
@@ -1395,7 +1400,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 317
     },
     {
       "ID": "REMAKE_004",
@@ -1403,7 +1408,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 259
+      "UsersEstimate": 261
     },
     {
       "ID": "Remake_005",
@@ -1419,7 +1424,7 @@
       "Name": "Attempted Vehicular Infanticide",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Remake_007",
@@ -1427,7 +1432,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Remake_008",
@@ -1443,7 +1448,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "Remake_010",
@@ -1459,7 +1464,7 @@
       "Name": "Imma Powder Out",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Remake_12",
@@ -1475,7 +1480,7 @@
       "Name": "Toasted",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Remake_14",
@@ -1499,7 +1504,7 @@
       "Name": "Choked on Balls",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Remake_17",
@@ -1547,21 +1552,21 @@
       "Name": "Escape Lookout Cove",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 428,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:05:59.6079045+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:04:17.9994882+00:00",
   "LastUpdate_AppInfo": "2023-12-11T23:56:59.5421023+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:02:07.5534573+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:05:59.607926+00:00"
+  "LastUpdate_Ratings": "2023-12-16T22:00:08.9034749+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:04:17.9995114+00:00"
 }

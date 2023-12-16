@@ -1,7 +1,7 @@
 # Redout 2
 [Store](https://store.epicgames.com/en-US/p/redout-2)  
 [View Rawdata](../../db/r/redout_2.json)  
-Rating: 4.50 (Ranked 601)  
+Rating: 4.50 (Ranked 600)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -58,7 +58,7 @@ Rating: 4.50 (Ranked 601)
 | I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,182 (Ranked 262)  
+Progressed: 1,182 (Ranked 263)  
 Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |

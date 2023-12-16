@@ -13,7 +13,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Cursed Creature | 57.00% | ~26,842 |
 | Extraction | 57.00% | ~26,842 |
 | Chainbreaker - II | 55.00% | ~25,901 |
-| Necromancer's Apprentice | 50.00% | ~23,546 |
+| Necromancer's Apprentice | 51.00% | ~24,017 |
 | Keeper of Keys | 47.00% | ~22,133 |
 | Distillation | 43.00% | ~20,250 |
 | Transmutation | 42.00% | ~19,779 |

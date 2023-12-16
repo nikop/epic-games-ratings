@@ -2409,7 +2409,7 @@
   ],
   "EOS_Progressed": 47092,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28872,9 +28872,9 @@
       "ID": "achievements_5",
       "SetID": "6hgbao0",
       "Name": "Necromancer\u0027s Apprentice",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 23546
+      "UsersEstimate": 24017
     },
     {
       "ID": "achievements_50",
@@ -29144,8 +29144,8 @@
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-12-16T21:00:06.9953151+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:04:32.1483313+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:03:13.4856097+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:11.5197894+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:00:06.9953158+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:04:32.1484983+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:58:46.3340996+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:03:13.4857777+00:00"
 }

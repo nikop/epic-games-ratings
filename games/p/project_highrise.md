@@ -27,10 +27,10 @@
 | Artfully Done | 20.00% | ~77 |
 | Emporium Empire | 20.00% | ~77 |
 | Leveled Up Shops | 20.00% | ~77 |
+| We Don't Need No Education | 19.00% | ~73 |
 | Get Electrified | 19.00% | ~73 |
 | Rehab Expert | 18.00% | ~69 |
 | Tasty Profits | 18.00% | ~69 |
-| We Don't Need No Education | 18.00% | ~69 |
 | Established Fame | 17.00% | ~65 |
 | Under One Roof | 16.00% | ~62 |
 | Cashflow Chief | 16.00% | ~62 |

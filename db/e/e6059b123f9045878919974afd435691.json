@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1114,
+  "EOS_Progressed": 1116,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2909,6 +2909,11 @@
       "Time": "2023-12-16T21:11:07.6892271+00:00",
       "NumProgressed": 1114,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T22:09:42.4273628+00:00",
+      "NumProgressed": 1116,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2920,7 +2925,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2928,7 +2933,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2942,9 +2947,9 @@
       "ID": "AMMO_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Out Of Stock",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 134
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -2960,7 +2965,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2992,7 +2997,7 @@
       "Name": "Capraphobia",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3040,7 +3045,7 @@
       "Name": "Burnt Smell",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -3094,9 +3099,9 @@
       "ID": "COOP_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Way It Should Be",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 56
     },
     {
       "ID": "COOP_ACHIEVEMENT_2",
@@ -3120,7 +3125,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -3134,9 +3139,9 @@
       "ID": "EXT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Fire Alarm",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 179
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -3150,9 +3155,9 @@
       "ID": "FREED_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "End of Rest",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 134
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -3160,7 +3165,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -3174,9 +3179,9 @@
       "ID": "FREE_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Free Like Birds",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 134
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -3200,7 +3205,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3208,7 +3213,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -3216,7 +3221,7 @@
       "Name": "Decakill!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -3280,7 +3285,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -3288,7 +3293,7 @@
       "Name": "1, 2, 3! Grandma!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -3344,7 +3349,7 @@
       "Name": "Buy A Book",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -3352,7 +3357,7 @@
       "Name": "The Last of Us",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -3368,7 +3373,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -3447,14 +3452,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1114,
+      "Progressed": 1116,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:11:07.6892267+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:09:42.4273623+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:08.9329051+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:59:23.6244347+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:11:07.689281+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:58:17.7412316+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:09:42.4274499+00:00"
 }

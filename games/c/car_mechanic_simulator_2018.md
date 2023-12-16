@@ -1,15 +1,15 @@
 # Car Mechanic Simulator 2018
 [Store](https://store.epicgames.com/en-US/p/car-mechanic-simulator-2018)  
 [View Rawdata](../../db/c/car_mechanic_simulator_2018.json)  
-Rating: 4.49 (Ranked 620)  
+Rating: 4.49 (Ranked 621)  
 Number of Ratings: 38,343  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 2,029  (Ranked 112)  
-Sum: 15,763 (Ranked 68)  
+Max (Great for Beginners): 2,030  (Ranked 112)  
+Sum: 15,764 (Ranked 68)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 2,029 |
+| This game is Great for Beginners | 2,030 |
 | This game is Relaxing | 2,004 |
 | This game is Educational | 1,994 |
 | This game has Quickly Understood Controls | 1,955 |
@@ -293,4 +293,4 @@ Diff (max vs sum): 44
 | 2023-12-13 | 4.49 | - | 2,028 | 15,756 |
 | 2023-12-14 | 4.49 | - | 2,029 | 15,760 |
 | 2023-12-15 | 4.49 | - | 2,029 | 15,762 |
-| 2023-12-16 | 4.49 | - | 2,029 | 15,763 |
+| 2023-12-16 | 4.49 | - | 2,030 | 15,764 |

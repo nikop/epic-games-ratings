@@ -5,7 +5,7 @@
   "Ranking_Rating": 35,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 199,
+  "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_NewCompleters": 138,
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4470,
+  "EOS_Progressed": 4481,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3278,
+  "EOS_NewPlayers": 3265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1200,6 +1200,11 @@
       "Time": "2023-12-16T21:10:28.5834697+00:00",
       "NumProgressed": 4470,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T22:09:13.0237514+00:00",
+      "NumProgressed": 4481,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1212,7 +1217,7 @@
       "Name": "Conspiracy",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "03_TheStolenStar",
@@ -1316,7 +1321,7 @@
       "Name": "Pentakill",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "16_TheRise",
@@ -1428,7 +1433,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "30_The GreatestExploration",
@@ -1436,7 +1441,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "31_DontTouchThis",
@@ -1524,7 +1529,7 @@
       "Name": "Jungle Heat",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "42_TheIronJudgement",
@@ -1626,9 +1631,9 @@
       "ID": "54_ThisIsAJobForLordCaptain",
       "SetID": "37a94m8",
       "Name": "This Is a Job for the Lord Captain!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 22
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -1731,7 +1736,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 4470,
+      "Progressed": 4481,
       "Completed": 0
     }
   ],
@@ -1739,8 +1744,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-16T18:59:01.4154357+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:10:28.5834694+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:09:13.023751+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:00:27.7939992+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:10:28.5835306+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:58:59.6671626+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:09:13.0238293+00:00"
 }

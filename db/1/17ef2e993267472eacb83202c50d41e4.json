@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8818,
+  "EOS_Progressed": 8821,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8812,6 +8812,11 @@
       "Time": "2023-12-16T19:09:53.461793+00:00",
       "NumProgressed": 8818,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T22:09:43.2074471+00:00",
+      "NumProgressed": 8821,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8944,7 +8949,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2734
+      "UsersEstimate": 2735
     },
     {
       "ID": "GamesPlayed10",
@@ -9248,7 +9253,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "PlayerKills10",
@@ -9256,7 +9261,7 @@
       "Name": "10 Eliminations",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "PlayerKills100",
@@ -9384,7 +9389,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "TSUPurchased1",
@@ -9408,14 +9413,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8818,
+      "Progressed": 8821,
       "Completed": 1
     }
   ],
@@ -9423,8 +9428,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-14T20:58:55.0819028+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:11:08.5078135+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:09:43.2074468+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:27.9940225+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:01:37.7270264+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:11:08.5078956+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:59:46.4337169+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:09:43.2075581+00:00"
 }

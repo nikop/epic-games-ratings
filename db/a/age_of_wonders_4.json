@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5747,
+  "EOS_Progressed": 5751,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8220,6 +8220,11 @@
       "Time": "2023-12-16T21:04:46.4167501+00:00",
       "NumProgressed": 5747,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-16T22:03:23.9991029+00:00",
+      "NumProgressed": 5751,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8247,7 +8252,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "12",
@@ -8255,7 +8260,7 @@
       "Name": "I\u0027ve Got Everything I Need Right Here",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "13",
@@ -8271,7 +8276,7 @@
       "Name": "Full Ascension",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "15",
@@ -8303,7 +8308,7 @@
       "Name": "Arch Mage",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "19",
@@ -8311,7 +8316,7 @@
       "Name": "The Creator",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "2",
@@ -8343,15 +8348,15 @@
       "Name": "Realm Estate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "23",
       "SetID": "3aa2279",
       "Name": "A Wonderful Discovery",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 288
     },
     {
       "ID": "24",
@@ -8359,7 +8364,7 @@
       "Name": "Secret Technique",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "25",
@@ -8375,7 +8380,7 @@
       "Name": "Bone Peddler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "27",
@@ -8407,7 +8412,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "30",
@@ -8415,7 +8420,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "31",
@@ -8423,7 +8428,7 @@
       "Name": "Magical Synergy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "32",
@@ -8439,7 +8444,7 @@
       "Name": "Seat of Power",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "34",
@@ -8583,7 +8588,7 @@
       "Name": "Here be Dragons",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "46",
@@ -8599,7 +8604,7 @@
       "Name": "Duality",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "48",
@@ -8607,7 +8612,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "49",
@@ -8615,7 +8620,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "50",
@@ -8647,7 +8652,7 @@
       "Name": "Prometheus Avenged",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "54",
@@ -8663,7 +8668,7 @@
       "Name": "Seal the Deal",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "56",
@@ -8671,7 +8676,7 @@
       "Name": "A Conqueror\u0027s Cohort",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "57",
@@ -8687,7 +8692,7 @@
       "Name": "Dawn of the Dread",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "59",
@@ -8703,20 +8708,20 @@
       "Name": "A Very Special Ring",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5747,
+      "Progressed": 5751,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5747,
+      "Progressed": 5751,
       "Completed": 7
     }
   ],
@@ -8724,8 +8729,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:04:46.4167496+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:03:23.9991027+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:32.604119+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:59:13.762049+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:04:46.4169118+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:58:10.9976126+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:03:23.9992048+00:00"
 }

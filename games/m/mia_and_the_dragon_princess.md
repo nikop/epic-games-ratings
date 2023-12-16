@@ -7,10 +7,10 @@
 | Glass Act | 39.00% | ~36 |
 | Relight my Cannon | 39.00% | ~36 |
 | Tour Guide Extraordinaire | 37.00% | ~34 |
-| Explosive End | 24.00% | ~22 |
+| Explosive End | 25.00% | ~23 |
 | Snitch | 24.00% | ~22 |
+| A Box of Tricks | 23.00% | ~21 |
 | Puzzle Prodigy | 23.00% | ~21 |
-| A Box of Tricks | 22.00% | ~20 |
 | Codebreaker | 18.00% | ~17 |
 | Finger-Lickin' Bad | 18.00% | ~17 |
 | Set Sail | 18.00% | ~17 |

@@ -1669,10 +1669,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 162874,
+  "EOS_Progressed": 162884,
   "EOS_Completed": 333,
-  "EOS_NewPlayers": 1003,
-  "EOS_NewCompleters": 61,
+  "EOS_NewPlayers": 1006,
+  "EOS_NewCompleters": 60,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -19459,6 +19459,11 @@
       "Time": "2023-12-16T21:05:23.2021724+00:00",
       "NumProgressed": 162874,
       "NumCompleted": 333
+    },
+    {
+      "Time": "2023-12-16T22:03:50.8687375+00:00",
+      "NumProgressed": 162884,
+      "NumCompleted": 333
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -19607,7 +19612,7 @@
       "Name": "Harmless",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -19663,7 +19668,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -19838,21 +19843,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 162457,
+      "Progressed": 162467,
       "Completed": 1239
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 162874,
+      "Progressed": 162884,
       "Completed": 333
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-15T19:00:09.2990933+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:05:23.2021721+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:03:50.868737+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:58:14.1233329+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:05:23.2022697+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:57:30.0678707+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:03:50.8688589+00:00"
 }

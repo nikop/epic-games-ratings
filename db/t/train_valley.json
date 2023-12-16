@@ -2,12 +2,12 @@
   "ID": "317acd36093b41cab801f4237499e5d7",
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
-  "Ranking_Rating": 620,
+  "Ranking_Rating": 621,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -138,9 +138,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 551,
+  "EOS_Progressed": 553,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1443,6 +1443,11 @@
       "Time": "2023-12-16T16:04:05.8468684+00:00",
       "NumProgressed": 551,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-16T22:03:52.9615327+00:00",
+      "NumProgressed": 553,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1454,15 +1459,15 @@
       "Name": "Getting started",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "02_collector",
       "SetID": "chb1m60",
       "Name": "Collector",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 238
     },
     {
       "ID": "03_philatelist",
@@ -1470,7 +1475,7 @@
       "Name": "Philatelist",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "04_tycoon",
@@ -1486,7 +1491,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "06_living",
@@ -1494,7 +1499,7 @@
       "Name": "Living it large!",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "07_europe",
@@ -1518,7 +1523,7 @@
       "Name": "Russia",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "10_japan",
@@ -1542,15 +1547,15 @@
       "Name": "Let\u0027s roll!",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "13_bunkrupt",
       "SetID": "chb1m60",
       "Name": "It\u0027s no coincidence.",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 160
     },
     {
       "ID": "14_woodcutter",
@@ -1580,9 +1585,9 @@
       "ID": "17_builder",
       "SetID": "chb1m60",
       "Name": "Builder",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 288
     },
     {
       "ID": "18_foreman",
@@ -1612,9 +1617,9 @@
       "ID": "21_missed",
       "SetID": "chb1m60",
       "Name": "Missed it!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 100
     },
     {
       "ID": "22_ouroboros",
@@ -1630,7 +1635,7 @@
       "Name": "Close call!",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "24_mega",
@@ -1670,7 +1675,7 @@
       "Name": "Non Stop!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "29_madness",
@@ -1686,7 +1691,7 @@
       "Name": "Completely nuts!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "31_chancellor",
@@ -1718,7 +1723,7 @@
       "Name": "Need to think",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "35_achtung",
@@ -1765,15 +1770,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 551,
+      "Progressed": 553,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-03T05:59:23.5685326+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:05:26.0040418+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:03:52.9615326+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2539038+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:01:38.3208559+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:05:26.0040989+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:59:46.8419406+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:03:52.9615671+00:00"
 }

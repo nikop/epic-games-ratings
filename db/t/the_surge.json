@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4921,
+  "EOS_Progressed": 4924,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3571,6 +3571,11 @@
       "Time": "2023-12-16T21:06:16.6919865+00:00",
       "NumProgressed": 4921,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-16T22:04:30.3131584+00:00",
+      "NumProgressed": 4924,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3582,7 +3587,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -3590,7 +3595,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -3598,7 +3603,7 @@
       "Name": "Big Sister",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -3630,7 +3635,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4134
+      "UsersEstimate": 4136
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3638,7 +3643,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4626
+      "UsersEstimate": 4629
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3646,7 +3651,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3789
+      "UsersEstimate": 3791
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -3654,7 +3659,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -3662,7 +3667,7 @@
       "Name": "CREO Killed the Video Star",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ID_ACHIEV_12",
@@ -3670,7 +3675,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -3686,7 +3691,7 @@
       "Name": "Who\u0027s in Charge Here?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ID_ACHIEV_15",
@@ -3710,7 +3715,7 @@
       "Name": "Sunglasses at Night",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ID_ACHIEV_18",
@@ -3742,7 +3747,7 @@
       "Name": "Shall Not Pass",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -3774,7 +3779,7 @@
       "Name": "Duty-Bound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ID_ACHIEV_26",
@@ -3790,7 +3795,7 @@
       "Name": "Follow the White Rabbit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -3798,7 +3803,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3789
+      "UsersEstimate": 3791
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3806,7 +3811,7 @@
       "Name": "Liberation",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ID_ACHIEV_30",
@@ -3830,7 +3835,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -3854,7 +3859,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -3862,7 +3867,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -3918,7 +3923,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -3926,7 +3931,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -3934,7 +3939,7 @@
       "Name": "SENTINEL",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -4110,22 +4115,22 @@
       "Name": "Risk Assessment",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     }
   ],
   "AchievementSets": [
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4921,
+      "Progressed": 4924,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:06:16.6919861+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:04:30.3131582+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:05.6535047+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:58:06.73851+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:06:16.6920439+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:57:25.5115982+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:04:30.3132213+00:00"
 }

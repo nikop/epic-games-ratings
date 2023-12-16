@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Last Stand | 89.00% | ~513 |
-| Thalya – Simply Immortal | 88.00% | ~507 |
+| Thalya – Simply Immortal | 89.00% | ~513 |
 | For the Horde! | 83.00% | ~478 |
 | Hammer Time, Round Two | 81.00% | ~467 |
 | The Hellwoods | 77.00% | ~444 |
@@ -16,24 +16,24 @@
 | Heroes’ Gorge | 65.00% | ~374 |
 | Master of Magic | 63.00% | ~363 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~357 |
-| Magic Accidents | 59.00% | ~340 |
+| Magic Accidents | 60.00% | ~346 |
 | The Ascent | 58.00% | ~334 |
 | It's Warm and Cozy at Home | 58.00% | ~334 |
 | Trap Master | 55.00% | ~317 |
 | Minions, Minions! | 54.00% | ~311 |
 | Hard Work | 53.00% | ~305 |
 | The Big Eaty | 53.00% | ~305 |
+| “… like son” | 51.00% | ~294 |
 | YOU SHALL NOT PASS! | 50.00% | ~288 |
-| “… like son” | 50.00% | ~288 |
 | Pure Dynamite! | 46.00% | ~265 |
 | The Cathedral of Light | 46.00% | ~265 |
+| Shame! Shame! Shame! | 46.00% | ~265 |
 | Dungeonlord Gorgu | 45.00% | ~259 |
-| Shame! Shame! Shame! | 45.00% | ~259 |
 | Tanos' Crusade Against Thalya | 44.00% | ~253 |
 | Mana Cannon | 41.00% | ~236 |
 | All’s Well That Ends Evil | 38.00% | ~219 |
 | The Duel | 35.00% | ~202 |
-| Unstoppable Horde | 33.00% | ~190 |
+| Unstoppable Horde | 34.00% | ~196 |
 | Master of the Undead | 33.00% | ~190 |
 | If Looks Could Kill | 32.00% | ~184 |
 | The Finitude Drill | 30.00% | ~173 |

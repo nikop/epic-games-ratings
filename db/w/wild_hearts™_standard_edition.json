@@ -2,7 +2,7 @@
   "ID": "4cbfe407ada24702a556b6e4d28a8800",
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
-  "Ranking_EOS_Progress": 318,
+  "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 138,
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 551,
+  "EOS_Progressed": 552,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
@@ -2113,6 +2113,11 @@
       "Time": "2023-12-16T21:09:48.0688595+00:00",
       "NumProgressed": 551,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-16T22:08:43.0154188+00:00",
+      "NumProgressed": 552,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -2125,7 +2130,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "achievement_10",
@@ -2133,7 +2138,7 @@
       "Name": "Karakuri Trail",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "achievement_11",
@@ -2155,9 +2160,9 @@
       "ID": "achievement_13",
       "SetID": "2cpn27e",
       "Name": "Karakuri Fortress",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_14",
@@ -2173,7 +2178,7 @@
       "Name": "Memory Rouser",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "achievement_16",
@@ -2205,7 +2210,7 @@
       "Name": "Counter Specialist",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "achievement_2",
@@ -2221,7 +2226,7 @@
       "Name": "Subsistence Skills",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "achievement_21",
@@ -2237,7 +2242,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "achievement_23",
@@ -2253,7 +2258,7 @@
       "Name": "Single Minded",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "achievement_25",
@@ -2277,7 +2282,7 @@
       "Name": "Mighty Marmelizer",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "achievement_28",
@@ -2317,7 +2322,7 @@
       "Name": "Snare Specialist",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "achievement_32",
@@ -2341,7 +2346,7 @@
       "Name": "Kemono at Heart",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "achievement_35",
@@ -2363,9 +2368,9 @@
       "ID": "achievement_37",
       "SetID": "2cpn27e",
       "Name": "Hidden History",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 403
     },
     {
       "ID": "achievement_38",
@@ -2477,7 +2482,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "achievement_7",
@@ -2491,9 +2496,9 @@
       "ID": "achievement_8",
       "SetID": "2cpn27e",
       "Name": "Expert Conjuror",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_9",
@@ -2508,13 +2513,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 551,
+      "Progressed": 552,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:09:48.0688588+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:08:43.0154181+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:00:01.0881803+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:09:48.068902+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:58:42.5616825+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:08:43.0154593+00:00"
 }

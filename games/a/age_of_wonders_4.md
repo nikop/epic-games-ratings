@@ -5,17 +5,17 @@ Rating: 4.62 (Ranked 371)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Realm Estate | 5.00% | ~287 |
-| Secret Technique | 5.00% | ~287 |
-| A Wonderful Discovery | 4.00% | ~230 |
+| Realm Estate | 5.00% | ~288 |
+| A Wonderful Discovery | 5.00% | ~288 |
+| Secret Technique | 5.00% | ~288 |
 | Walls Cannot Stop Us | 4.00% | ~230 |
 | From Friends to Family | 4.00% | ~230 |
 | But this one is mine | 4.00% | ~230 |
-| There Can Only Be One! | 3.00% | ~172 |
-| Full Ascension | 3.00% | ~172 |
-| Bone Peddler | 3.00% | ~172 |
-| Magical Synergy | 3.00% | ~172 |
-| Seat of Power | 3.00% | ~172 |
+| There Can Only Be One! | 3.00% | ~173 |
+| Full Ascension | 3.00% | ~173 |
+| Bone Peddler | 3.00% | ~173 |
+| Magical Synergy | 3.00% | ~173 |
+| Seat of Power | 3.00% | ~173 |
 | Valley of Wonders | 2.00% | ~115 |
 | Return of the Wizard King | 2.00% | ~115 |
 | Enchanted Archipelago | 2.00% | ~115 |
@@ -31,17 +31,17 @@ Rating: 4.62 (Ranked 371)
 | Sehiran Oasis | 2.00% | ~115 |
 | Chaos Surge | 2.00% | ~115 |
 | Spoils of War | 2.00% | ~115 |
-| Arch Mage | 1.00% | ~57 |
-| The Creator | 1.00% | ~57 |
-| Crimson Caldera | 1.00% | ~57 |
-| Preparation Is Everything | 1.00% | ~57 |
-| Here be Dragons | 1.00% | ~57 |
-| Blood of the Dragon | 1.00% | ~57 |
-| Mighty Hoard | 1.00% | ~57 |
-| Prometheus Avenged | 1.00% | ~57 |
-| Seal the Deal | 1.00% | ~57 |
-| A Conqueror's Cohort | 1.00% | ~57 |
-| Dawn of the Dread | 1.00% | ~57 |
+| Arch Mage | 1.00% | ~58 |
+| The Creator | 1.00% | ~58 |
+| Crimson Caldera | 1.00% | ~58 |
+| Preparation Is Everything | 1.00% | ~58 |
+| Here be Dragons | 1.00% | ~58 |
+| Blood of the Dragon | 1.00% | ~58 |
+| Mighty Hoard | 1.00% | ~58 |
+| Prometheus Avenged | 1.00% | ~58 |
+| Seal the Deal | 1.00% | ~58 |
+| A Conqueror's Cohort | 1.00% | ~58 |
+| Dawn of the Dread | 1.00% | ~58 |
 | The Eternal Court | 0.90% | ~52 |
 | Lord of Chaos | 0.80% | ~46 |
 | Eternal Lord | 0.80% | ~46 |
@@ -51,14 +51,14 @@ Rating: 4.62 (Ranked 371)
 | Manufactured War | 0.70% | ~40 |
 | Grexolis | 0.70% | ~40 |
 | One for All, All for One | 0.70% | ~40 |
-| I've Got Everything I Need Right Here | 0.60% | ~34 |
-| Duality | 0.60% | ~34 |
+| I've Got Everything I Need Right Here | 0.60% | ~35 |
+| Duality | 0.60% | ~35 |
 | Pruning for Progress | 0.50% | ~29 |
 | Snap Out of It! | 0.30% | ~17 |
 | The Magic That Empowers Me! | 0.30% | ~17 |
 | Jack of All Tomes | 0.30% | ~17 |
 | Betrayal Most Foul | 0.30% | ~17 |
-| A Very Special Ring | 0.20% | ~11 |
+| A Very Special Ring | 0.20% | ~12 |
 | I Want to Break Free | 0.10% | ~6 |
 | Master of Evilness | 0.10% | ~6 |
 | The Grey Wizard | 0.10% | ~6 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 371)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,747 (Ranked 190)  
+Progressed: 5,751 (Ranked 190)  
 Completed: 7 (0.12%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 7 (0.12%) (Ranked 289)
 | 2023-12-13 | 5,598 | 7 |
 | 2023-12-14 | 5,643 | 7 |
 | 2023-12-15 | 5,702 | 7 |
-| 2023-12-16 | 5,747 | 7 |
+| 2023-12-16 | 5,751 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 479)  
 Sum: 93 (Ranked 460)  

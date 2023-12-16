@@ -2,9 +2,9 @@
   "ID": "0407f287e7574d88b7c00895f14628d8",
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
-  "Ranking_EOS_Progress": 510,
+  "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 57,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -224,6 +224,11 @@
       "Time": "2023-12-16T20:05:36.5737245+00:00",
       "NumProgressed": 56,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T22:04:24.7670023+00:00",
+      "NumProgressed": 57,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -266,7 +271,7 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
       "UsersEstimate": 27
     },
@@ -290,7 +295,7 @@
       "ID": "f1",
       "SetID": "b1ggf28",
       "Name": "Agriculture Tycoon",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -314,7 +319,7 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 20,
       "UsersEstimate": 25
     },
@@ -338,7 +343,7 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 20,
       "UsersEstimate": 28
     },
@@ -442,7 +447,7 @@
       "ID": "jz2",
       "SetID": "b1ggf28",
       "Name": "Architect",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -546,7 +551,7 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 63,
+      "Percentage": 61,
       "XP": 20,
       "UsersEstimate": 35
     },
@@ -643,14 +648,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 57,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:06:09.2409842+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:04:24.767002+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:03:47.2881958+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:06:09.2410152+00:00"
+  "LastUpdate_Ratings": "2023-12-16T22:02:43.6147355+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:04:24.7670393+00:00"
 }

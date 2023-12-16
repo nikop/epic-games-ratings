@@ -4,7 +4,7 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 507,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -421,9 +421,9 @@
       "ID": "22",
       "SetID": "d37idgg",
       "Name": "The artist",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "23",
@@ -541,17 +541,17 @@
       "ID": "36",
       "SetID": "d37idgg",
       "Name": "Pulp! Out of this World",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "37",
       "SetID": "d37idgg",
       "Name": "Pulp! Adventures into the Unknown",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "38",
@@ -645,9 +645,9 @@
       "ID": "5",
       "SetID": "d37idgg",
       "Name": "The happy farmer girl",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "6",
@@ -692,8 +692,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:06:25.8288739+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:04:37.0917525+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:25.4412055+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:58:59.8214453+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:06:25.8289006+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:58:01.3277177+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:04:37.0917851+00:00"
 }

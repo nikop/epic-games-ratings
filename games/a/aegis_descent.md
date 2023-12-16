@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sweep | 93.00% | ~399 |
+| Clean Sweep | 94.00% | ~403 |
 | Scavenger | 73.00% | ~313 |
 | Line of Duty | 72.00% | ~309 |
 | Gunner | 57.00% | ~245 |

@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewPlayers": 371,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251,
+  "EOS_Progressed": 252,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.76,
+  "EOS_Completed_Percentage": 10.71,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -615,6 +615,11 @@
       "Time": "2023-12-16T19:09:26.2163079+00:00",
       "NumProgressed": 251,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-12-16T22:09:15.6506895+00:00",
+      "NumProgressed": 252,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 17,
@@ -626,7 +631,7 @@
       "Name": "And away we go!",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "bless_the_rain",
@@ -634,7 +639,7 @@
       "Name": "I bless the rain down in London",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "blow",
@@ -650,7 +655,7 @@
       "Name": "Brown nosing",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "cheat",
@@ -658,7 +663,7 @@
       "Name": "Cheat",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "delusions",
@@ -682,7 +687,7 @@
       "Name": "Instinct",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "job_one_done",
@@ -690,7 +695,7 @@
       "Name": "Job one. DONE!",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "just_like_me",
@@ -698,7 +703,7 @@
       "Name": "Just like me",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "making_a_murderer",
@@ -722,7 +727,7 @@
       "Name": "Sorry, kiddo",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "the_truth",
@@ -761,7 +766,7 @@
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 251,
+      "Progressed": 252,
       "Completed": 27
     }
   ],
@@ -769,8 +774,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:10:32.20162+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:09:15.6506889+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:28.158497+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:58:50.2495394+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:10:32.2016327+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:57:54.8181654+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:09:15.650702+00:00"
 }

@@ -5,37 +5,37 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 4.00% | ~9,964 |
-| First of Many | 4.00% | ~9,964 |
-| Expanding Horizons | 2.00% | ~4,982 |
-| Quest for Survival | 2.00% | ~4,982 |
-| Not Your Average Trait | 2.00% | ~4,982 |
-| Gleaming the Cube | 1.00% | ~2,491 |
-| Not a Janitor | 1.00% | ~2,491 |
-| Familiar Face | 1.00% | ~2,491 |
-| Equal Measures | 1.00% | ~2,491 |
-| Blue Goddess | 1.00% | ~2,491 |
-| Duality | 1.00% | ~2,491 |
-| Boss'n Up | 1.00% | ~2,491 |
-| Trait Chaser | 1.00% | ~2,491 |
-| Not So Special Now | 0.90% | ~2,242 |
-| Make Some Room | 0.90% | ~2,242 |
-| Regicide | 0.90% | ~254 |
+| The Killing Jar | 4.00% | ~9,967 |
+| First of Many | 4.00% | ~9,967 |
+| Expanding Horizons | 2.00% | ~4,984 |
+| Quest for Survival | 2.00% | ~4,984 |
+| Not Your Average Trait | 2.00% | ~4,984 |
+| Gleaming the Cube | 1.00% | ~2,492 |
+| Not So Special Now | 1.00% | ~2,492 |
+| Not a Janitor | 1.00% | ~2,492 |
+| Familiar Face | 1.00% | ~2,492 |
+| Equal Measures | 1.00% | ~2,492 |
+| Blue Goddess | 1.00% | ~2,492 |
+| Duality | 1.00% | ~2,492 |
+| Boss'n Up | 1.00% | ~2,492 |
+| Trait Chaser | 1.00% | ~2,492 |
+| Make Some Room | 0.90% | ~2,243 |
+| Regicide | 0.90% | ~255 |
 | Top Performer | 0.80% | ~1,993 |
 | Was This Supposed To Happen? | 0.80% | ~1,993 |
 | Almost There | 0.80% | ~1,993 |
 | Good, But Could Be Better! | 0.80% | ~1,993 |
-| Master of the Dark Arts | 0.80% | ~226 |
+| Master of the Dark Arts | 0.80% | ~227 |
 | Chaos | 0.70% | ~1,744 |
+| Dark Designs | 0.70% | ~1,744 |
 | Shhh...It's a Secret | 0.70% | ~1,744 |
 | Am I Seeing This? | 0.60% | ~1,495 |
 | Traitor | 0.60% | ~1,495 |
 | Power Surge | 0.60% | ~1,495 |
 | The God Gambit | 0.60% | ~1,495 |
-| Dark Designs | 0.60% | ~1,495 |
+| Madman's Paradise | 0.60% | ~1,495 |
 | The Web | 0.60% | ~1,495 |
 | Scrap Collector | 0.60% | ~1,495 |
-| Madman's Paradise | 0.50% | ~1,246 |
 | The Agenda | 0.50% | ~1,246 |
 | Bad Moon Rising | 0.50% | ~1,246 |
 | Strapped | 0.50% | ~1,246 |
@@ -43,25 +43,25 @@ Rating: 4.75 (Ranked 150)
 | All These Traits� | 0.50% | ~1,246 |
 | The Ultimate Weapon | 0.50% | ~1,246 |
 | No One Should Have All That Power | 0.50% | ~1,246 |
-| Forever is a Long Time Coming | 0.40% | ~996 |
-| Tall Tales | 0.40% | ~996 |
-| Edgelord | 0.40% | ~996 |
-| Carnage in C-Minor | 0.40% | ~996 |
-| Transmutate | 0.40% | ~996 |
-| Crafty | 0.30% | ~747 |
-| Ghost in the Machine | 0.30% | ~747 |
-| Only Human | 0.30% | ~747 |
-| Red Room | 0.30% | ~747 |
-| The Trigger | 0.30% | ~747 |
-| Cutting Edge | 0.30% | ~747 |
-| The Collector | 0.30% | ~747 |
-| Maxed Out! | 0.30% | ~747 |
+| Forever is a Long Time Coming | 0.40% | ~997 |
+| Tall Tales | 0.40% | ~997 |
+| Edgelord | 0.40% | ~997 |
+| Carnage in C-Minor | 0.40% | ~997 |
+| Transmutate | 0.40% | ~997 |
+| Crafty | 0.30% | ~748 |
+| Ghost in the Machine | 0.30% | ~748 |
+| Only Human | 0.30% | ~748 |
+| Red Room | 0.30% | ~748 |
+| The Trigger | 0.30% | ~748 |
+| Cutting Edge | 0.30% | ~748 |
+| The Collector | 0.30% | ~748 |
+| Maxed Out! | 0.30% | ~748 |
 | Proving Grounds | 0.20% | ~498 |
 | Succession | 0.20% | ~57 |
 | You Shall Pass | 0.20% | ~57 |
 | A Foul Feast | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,110 (Ranked 63)  
+Progressed: 249,178 (Ranked 63)  
 Completed: 590 (0.24%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 590 (0.24%) (Ranked 255)
 | 2023-12-13 | 239,544 | 584 |
 | 2023-12-14 | 242,166 | 585 |
 | 2023-12-15 | 245,556 | 588 |
-| 2023-12-16 | 249,110 | 590 |
+| 2023-12-16 | 249,178 | 590 |
 ## Awards
 Max (Great Boss Battles): 2,821  (Ranked 100)  
 Sum: 7,056 (Ranked 124)  

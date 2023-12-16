@@ -477,7 +477,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3415,
+  "EOS_Progressed": 3416,
   "EOS_Completed": 138,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 1,
@@ -5492,6 +5492,11 @@
       "Time": "2023-12-16T21:05:33.7639673+00:00",
       "NumProgressed": 3415,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-12-16T22:03:58.5287717+00:00",
+      "NumProgressed": 3416,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 14,
@@ -5511,7 +5516,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -5567,7 +5572,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -5599,7 +5604,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -5614,7 +5619,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3415,
+      "Progressed": 3416,
       "Completed": 138
     }
   ],
@@ -5622,8 +5627,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-16T18:57:24.1820131+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:05:33.7639668+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:03:58.5287715+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:09.6040213+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:58:04.5663393+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:05:33.7640095+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:57:23.983555+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:03:58.5288053+00:00"
 }

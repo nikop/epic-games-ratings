@@ -951,17 +951,17 @@
       "ID": "DEFEATED_100_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Murderer",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 167
+      "UsersEstimate": 169
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Killer",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 196
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -1062,8 +1062,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:07:43.1012571+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:05:33.2443423+00:00",
   "LastUpdate_AppInfo": "2023-12-12T21:57:14.3760557+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:01:53.5751925+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:07:43.1012718+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:59:59.5005116+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:05:33.244357+00:00"
 }

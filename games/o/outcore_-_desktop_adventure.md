@@ -22,9 +22,9 @@
 | HIGH striker | 9.00% | ~4 |
 | Pure hearted | 6.00% | ~3 |
 | Booty Master | 4.00% | ~2 |
+| It really wasn't worth it | 4.00% | ~2 |
 | DEMON??? | 4.00% | ~2 |
 | HATE | 4.00% | ~2 |
-| It really wasn't worth it | 2.00% | ~1 |
 | Read a walkthrough | 2.00% | ~1 |
 | Tutorial Master | 2.00% | ~1 |
 | Diverse desktop | 0.00% | ~0 |

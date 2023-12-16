@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1449,7 +1449,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6428,
+  "EOS_Progressed": 6429,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
@@ -14524,6 +14524,11 @@
       "Time": "2023-12-16T21:09:04.7107484+00:00",
       "NumProgressed": 6428,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-16T22:08:11.7600705+00:00",
+      "NumProgressed": 6429,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14631,7 +14636,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2829
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -14639,7 +14644,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -14655,7 +14660,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -14807,7 +14812,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2378
+      "UsersEstimate": 2379
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -14854,15 +14859,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6428,
+      "Progressed": 6429,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-16T18:58:39.8372052+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:09:04.710748+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:08:11.7600701+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:43.3070216+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:59:56.7852732+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:09:04.7108138+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:58:39.6098159+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:08:11.7601799+00:00"
 }

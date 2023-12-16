@@ -11,11 +11,11 @@
 | Pulp! Where Monsters Dwell | 24.00% | ~14 |
 | A continent with chemistry | 21.00% | ~12 |
 | Giant | 19.00% | ~11 |
-| The happy farmer girl | 17.00% | ~10 |
+| The happy farmer girl | 19.00% | ~11 |
+| Pulp! Out of this World | 17.00% | ~10 |
+| The artist | 16.00% | ~9 |
 | Pulp! Terror Tales in the Night | 16.00% | ~9 |
-| Pulp! Out of this World | 16.00% | ~9 |
-| The artist | 14.00% | ~8 |
-| Pulp! Adventures into the Unknown | 14.00% | ~8 |
+| Pulp! Adventures into the Unknown | 16.00% | ~9 |
 | Diagnosis: fear | 14.00% | ~8 |
 | Ambition is... blind | 14.00% | ~8 |
 | The seer | 12.00% | ~7 |

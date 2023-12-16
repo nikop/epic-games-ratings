@@ -6,23 +6,23 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~51,902 |
-| Worth it | 63.00% | ~41,921 |
-| Eagle Eye | 55.00% | ~36,598 |
-| Corpseman I | 40.00% | ~26,616 |
-| Blast fishing | 37.00% | ~24,620 |
-| Not alone | 32.00% | ~21,293 |
-| Headhunter I | 26.00% | ~17,301 |
-| Manual Labour I | 25.00% | ~16,635 |
-| Developers, Developers, Developers | 24.00% | ~15,970 |
-| Basic Training | 23.00% | ~15,304 |
-| Furchtlos und Treu | 13.00% | ~8,650 |
-| Gott Mit Uns | 12.00% | ~7,985 |
+| Setting an example | 78.00% | ~51,907 |
+| Worth it | 63.00% | ~41,925 |
+| Eagle Eye | 55.00% | ~36,601 |
+| Corpseman I | 40.00% | ~26,619 |
+| Blast fishing | 37.00% | ~24,623 |
+| Not alone | 32.00% | ~21,295 |
+| Headhunter I | 26.00% | ~17,302 |
+| Manual Labour I | 25.00% | ~16,637 |
+| Developers, Developers, Developers | 24.00% | ~15,972 |
+| Basic Training | 23.00% | ~15,306 |
+| Furchtlos und Treu | 13.00% | ~8,651 |
+| Gott Mit Uns | 12.00% | ~7,986 |
 | This We'll Defend! | 9.00% | ~5,989 |
 | Anker wirf! | 9.00% | ~5,989 |
 | Providentiea Memor | 9.00% | ~5,989 |
 | For King and Country | 9.00% | ~5,989 |
-| Battle hardened | 8.00% | ~5,323 |
+| Battle hardened | 8.00% | ~5,324 |
 | Semper Fidelis! | 7.00% | ~4,658 |
 | Honneur et Patrie | 7.00% | ~4,658 |
 | In Treue Fest | 5.00% | ~3,327 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~67 |
 | Blood Brother | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,541 (Ranked 109)  
+Progressed: 66,548 (Ranked 109)  
 Completed: 4 (0.01%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,10 +306,10 @@ Completed: 4 (0.01%) (Ranked 354)
 | 2023-12-13 | 66,245 | 4 |
 | 2023-12-14 | 66,339 | 4 |
 | 2023-12-15 | 66,434 | 4 |
-| 2023-12-16 | 66,541 | 4 |
+| 2023-12-16 | 66,548 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 363)  
-Sum: 820 (Ranked 282)  
+Sum: 821 (Ranked 282)  
 Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
@@ -317,7 +317,7 @@ Diff (max vs sum): 81
 | This game is Highly Recommended | 105 |
 | This game is Extremely Fun | 95 |
 | This game has Diverse Characters | 92 |
-| This game has Quickly Understood Controls | 90 |
+| This game has Quickly Understood Controls | 91 |
 | This game has Amazing Characters | 78 |
 | This game has Competitive Players | 76 |
 | This game is Relaxing | 76 |
@@ -484,3 +484,4 @@ Diff (max vs sum): 81
 | 2023-12-09 | 4.53 | - | 105 | 817 |
 | 2023-12-12 | 4.53 | - | 105 | 819 |
 | 2023-12-13 | 4.53 | - | 105 | 820 |
+| 2023-12-16 | 4.53 | - | 105 | 821 |

@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 61.00% | ~425 |
-| The Teleprobe | 48.00% | ~334 |
-| The City | 43.00% | ~299 |
-| The field base | 39.00% | ~271 |
-| Survivors | 34.00% | ~237 |
-| The Condor | 31.00% | ~216 |
-| The End | 30.00% | ~209 |
-| The Alliance | 28.00% | ~195 |
-| The Necroevolution | 24.00% | ~167 |
-| Krauta is alive | 23.00% | ~160 |
-| Peacemaker | 20.00% | ~139 |
-| Volcanologist | 19.00% | ~132 |
-| On her own | 18.00% | ~125 |
-| Evacuation | 16.00% | ~111 |
-| Beyond divisions | 16.00% | ~111 |
-| Fierce fight | 15.00% | ~104 |
-| Flying Objects Operator | 14.00% | ~97 |
+| The Camp | 62.00% | ~433 |
+| The Teleprobe | 48.00% | ~336 |
+| The City | 43.00% | ~301 |
+| The field base | 39.00% | ~273 |
+| Survivors | 33.00% | ~231 |
+| The Condor | 31.00% | ~217 |
+| The End | 31.00% | ~217 |
+| The Alliance | 28.00% | ~196 |
+| The Necroevolution | 24.00% | ~168 |
+| Krauta is alive | 23.00% | ~161 |
+| Peacemaker | 20.00% | ~140 |
+| Volcanologist | 19.00% | ~133 |
+| On her own | 18.00% | ~126 |
+| Evacuation | 17.00% | ~119 |
+| Beyond divisions | 16.00% | ~112 |
+| Fierce fight | 15.00% | ~105 |
+| Flying Objects Operator | 14.00% | ~98 |
 | I remember everything! | 12.00% | ~84 |
 | Another giant | 10.00% | ~70 |
 | Violent solution | 9.00% | ~63 |
@@ -34,7 +34,7 @@
 | Convoy list | 0.90% | ~6 |
 | No more mistakes | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 696 (Ranked 294)  
+Progressed: 699 (Ranked 294)  
 Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,4 +75,4 @@ Completed: 0 (0.00%) (Ranked 378)
 | 2023-12-13 | 561 | 0 |
 | 2023-12-14 | 605 | 0 |
 | 2023-12-15 | 653 | 0 |
-| 2023-12-16 | 696 | 0 |
+| 2023-12-16 | 699 | 0 |

@@ -3,9 +3,9 @@
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 257,
-  "Ranking_EOS_Completed": 84,
+  "Ranking_EOS_Completed": 83,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1223,
-  "EOS_Completed": 52,
+  "EOS_Completed": 53,
   "EOS_NewPlayers": 13,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.25,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 4.33,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -2779,6 +2779,11 @@
       "Time": "2023-12-16T21:10:34.0365412+00:00",
       "NumProgressed": 1223,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-16T22:09:17.0653298+00:00",
+      "NumProgressed": 1223,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2829,9 +2834,9 @@
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 599
+      "UsersEstimate": 612
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -2871,13 +2876,13 @@
       "ID": "6f5dahd",
       "IsBase": true,
       "Progressed": 1223,
-      "Completed": 52
+      "Completed": 53
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:10:34.0365408+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:09:17.0653288+00:00",
   "LastUpdate_AppInfo": "2023-12-15T17:57:09.5109865+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:01:28.1265422+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:10:34.0365602+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:59:39.1089384+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:09:17.0653641+00:00"
 }

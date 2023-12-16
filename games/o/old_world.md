@@ -20,22 +20,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 5.00% | ~789 |
 | Hanging Gardens | 5.00% | ~789 |
 | Oracle | 5.00% | ~789 |
-| Ambitious | 4.00% | ~631 |
-| Enlightened | 4.00% | ~631 |
-| Glorious | 4.00% | ~631 |
-| Just | 4.00% | ~631 |
-| Keystone | 4.00% | ~631 |
-| Learned | 4.00% | ~631 |
-| Warrior | 4.00% | ~631 |
-| Developing Cities | 4.00% | ~631 |
-| Strong Cities | 4.00% | ~631 |
-| Ishtar Gate | 4.00% | ~631 |
-| Pyramids | 4.00% | ~631 |
-| Judaism | 4.00% | ~631 |
-| Babylonian Paganism | 4.00% | ~631 |
-| Greek Paganism | 4.00% | ~631 |
-| Naming Landmarks | 4.00% | ~631 |
-| Trade Caravan | 4.00% | ~631 |
+| Ambitious | 4.00% | ~632 |
+| Enlightened | 4.00% | ~632 |
+| Glorious | 4.00% | ~632 |
+| Just | 4.00% | ~632 |
+| Keystone | 4.00% | ~632 |
+| Learned | 4.00% | ~632 |
+| Warrior | 4.00% | ~632 |
+| Developing Cities | 4.00% | ~632 |
+| Strong Cities | 4.00% | ~632 |
+| Ishtar Gate | 4.00% | ~632 |
+| Pyramids | 4.00% | ~632 |
+| Judaism | 4.00% | ~632 |
+| Babylonian Paganism | 4.00% | ~632 |
+| Greek Paganism | 4.00% | ~632 |
+| Naming Landmarks | 4.00% | ~632 |
+| Trade Caravan | 4.00% | ~632 |
 | Regicide | 3.00% | ~474 |
 | Drillmaster | 3.00% | ~474 |
 | Brilliant | 3.00% | ~474 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,787 (Ranked 155)  
+Progressed: 15,789 (Ranked 155)  
 Completed: 5 (0.03%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -589,7 +589,7 @@ Completed: 5 (0.03%) (Ranked 339)
 | 2023-12-13 | 15,751 | 5 |
 | 2023-12-14 | 15,760 | 5 |
 | 2023-12-15 | 15,768 | 5 |
-| 2023-12-16 | 15,787 | 5 |
+| 2023-12-16 | 15,789 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 278)  
 Sum: 1,901 (Ranked 220)  

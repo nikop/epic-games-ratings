@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235,
+  "EOS_Progressed": 236,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.13,
+  "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -530,6 +530,11 @@
       "Time": "2023-12-16T19:03:33.8708425+00:00",
       "NumProgressed": 235,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-16T22:03:24.7680167+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 17,
@@ -541,7 +546,7 @@
       "Name": "Bromance",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "comedy_killer",
@@ -549,15 +554,15 @@
       "Name": "Comedy Killer",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "congratulations_you_are_a_sadist",
       "SetID": "84ad177",
       "Name": "Congratulations, you are a sadist",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 113
+      "UsersEstimate": 111
     },
     {
       "ID": "deathlooper",
@@ -589,7 +594,7 @@
       "Name": "Lootaphilia",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
@@ -669,14 +674,14 @@
       "Name": "I used to think I was indecisive...",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 235,
+      "Progressed": 236,
       "Completed": 5
     }
   ],
@@ -684,8 +689,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:04:47.0198311+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:03:24.7680163+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:15.9914171+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:04:19.355128+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:04:47.0198436+00:00"
+  "LastUpdate_Ratings": "2023-12-16T22:03:05.3856159+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:03:24.7680345+00:00"
 }

@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 758,
+  "EOS_Progressed": 759,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -2615,6 +2615,11 @@
       "Time": "2023-12-16T21:08:00.8289649+00:00",
       "NumProgressed": 758,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-16T22:05:46.1793922+00:00",
+      "NumProgressed": 759,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2666,7 +2671,7 @@
       "Name": "That was base",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "hire-lieutenant",
@@ -2674,7 +2679,7 @@
       "Name": "Our Man",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "kill-lieutenants",
@@ -2698,7 +2703,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "product-profit",
@@ -2714,7 +2719,7 @@
       "Name": "Bad Trip",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "rename-lieutenant",
@@ -2738,7 +2743,7 @@
       "Name": "Spread",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "send-smuggling",
@@ -2746,7 +2751,7 @@
       "Name": "Camellos",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "unlock-residences",
@@ -2754,7 +2759,7 @@
       "Name": "Pampered Life",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "upgrade-building",
@@ -2762,7 +2767,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "use-submarine",
@@ -2777,15 +2782,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 758,
+      "Progressed": 759,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-12T19:59:33.5091909+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:08:00.8289645+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:05:46.1793918+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4008517+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:59:29.8514002+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:08:00.8289877+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:58:21.8612682+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:05:46.1794194+00:00"
 }

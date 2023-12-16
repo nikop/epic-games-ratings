@@ -8,13 +8,13 @@ Number of Ratings: 292  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept | 39.00% | ~200 |
 | Double Kill | 30.00% | ~154 |
-| Critical Hit | 16.00% | ~82 |
+| Critical Hit | 17.00% | ~87 |
 | Veteran | 16.00% | ~82 |
 | Dressed For Success | 11.00% | ~57 |
 | Humiliation | 8.00% | ~41 |
+| Multi Kill | 7.00% | ~36 |
 | Sorcerous Spree | 7.00% | ~36 |
 | Veni, Vidi, Vici | 7.00% | ~36 |
-| Multi Kill | 6.00% | ~31 |
 | Landlord Extraordinaire | 5.00% | ~26 |
 | Master | 5.00% | ~26 |
 | Whoops! | 4.00% | ~21 |

@@ -304,9 +304,9 @@
       "ID": "RespiratoryCollapse",
       "SetID": "aaidab7",
       "Name": "Respiratory Collapse",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "RichieRich",
@@ -367,8 +367,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:06:52.4775856+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:04:56.4565553+00:00",
   "LastUpdate_AppInfo": "2023-12-12T03:57:09.7303206+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:00:57.8007628+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:06:52.4776051+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:59:19.7458192+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:04:56.4565728+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_Rating": 262,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 58,
-  "Ranking_EOS_Progress": 84,
+  "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 99,
@@ -9798,9 +9798,9 @@
       "Count": 1018
     }
   ],
-  "EOS_Progressed": 127791,
+  "EOS_Progressed": 127813,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1848,
+  "EOS_NewPlayers": 1866,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35373,6 +35373,11 @@
       "Time": "2023-12-16T21:09:57.0693214+00:00",
       "NumProgressed": 127791,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T22:08:49.5585263+00:00",
+      "NumProgressed": 127813,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35448,7 +35453,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -35456,7 +35461,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -35574,9 +35579,9 @@
       "ID": "combat_kill_gentry",
       "SetID": "64l4lke",
       "Name": "No More Mouths to Feed",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 767
+      "UsersEstimate": 895
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -35752,7 +35757,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -35784,7 +35789,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -35816,7 +35821,7 @@
       "Name": "Utopia",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -35838,9 +35843,9 @@
       "ID": "run_victory_act01",
       "SetID": "64l4lke",
       "Name": "Unshackled",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1278
     },
     {
       "ID": "run_victory_act02",
@@ -35920,7 +35925,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 188
     },
     {
       "ID": "combat_kill_collector",
@@ -35968,7 +35973,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -35984,7 +35989,7 @@
       "Name": "Lost and Found",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35992,7 +35997,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -36015,21 +36020,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127791,
+      "Progressed": 127813,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2660,
+      "Progressed": 2682,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-16T20:58:30.3207707+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:09:57.0693209+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:08:49.5585259+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:58:30.3207714+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:09:57.0695009+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:57:41.421727+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:08:49.5587128+00:00"
 }

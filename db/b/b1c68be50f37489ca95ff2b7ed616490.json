@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 102,
+  "EOS_Progressed": 103,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -469,6 +469,11 @@
       "Time": "2023-12-16T21:04:37.8649894+00:00",
       "NumProgressed": 102,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T22:03:17.6806577+00:00",
+      "NumProgressed": 103,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -481,7 +486,7 @@
       "Name": "A mystery? No! A trifle for Poirot!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "10",
@@ -567,9 +572,9 @@
       "ID": "2",
       "SetID": "6bgoh8g",
       "Name": "I do not like your face, Mr Ratchett",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "20",
@@ -631,17 +636,17 @@
       "ID": "27",
       "SetID": "6bgoh8g",
       "Name": "Dessert Connoisseur!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "3",
       "SetID": "6bgoh8g",
       "Name": "It was not in the book",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "4",
@@ -696,14 +701,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 102,
+      "Progressed": 103,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:04:37.864989+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:03:17.6806574+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:22.4243212+00:00",
-  "LastUpdate_Ratings": "2023-12-16T21:04:04.7398893+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:04:37.865229+00:00"
+  "LastUpdate_Ratings": "2023-12-16T22:02:55.6872209+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:03:17.6806824+00:00"
 }

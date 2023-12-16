@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -564,9 +564,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 17106,
+  "EOS_Progressed": 17107,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -16264,6 +16264,11 @@
       "Time": "2023-12-16T21:08:54.6529135+00:00",
       "NumProgressed": 17106,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-16T22:06:24.979604+00:00",
+      "NumProgressed": 17107,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16291,7 +16296,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3934
+      "UsersEstimate": 3935
     },
     {
       "ID": "tpote_achievement_12",
@@ -16483,7 +16488,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "tpote_achievement_34",
@@ -16539,7 +16544,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6842
+      "UsersEstimate": 6843
     },
     {
       "ID": "tpote_achievement_40",
@@ -16563,7 +16568,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4105
+      "UsersEstimate": 4106
     },
     {
       "ID": "tpote_achievement_6",
@@ -16571,7 +16576,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3934
+      "UsersEstimate": 3935
     },
     {
       "ID": "tpote_achievement_7",
@@ -16602,15 +16607,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17106,
+      "Progressed": 17107,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-13T16:01:07.6767372+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:08:54.6529131+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:06:24.9796038+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:23.5508408+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:58:02.5186455+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:08:54.6529937+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:57:22.2136589+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:06:24.9796898+00:00"
 }

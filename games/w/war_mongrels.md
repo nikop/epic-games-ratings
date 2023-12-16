@@ -6,34 +6,34 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 68.00% | ~456 |
-| Cowardice | 62.00% | ~416 |
-| NO LIFE IS WORTH SAVING... | 47.00% | ~315 |
+| Explorer | 68.00% | ~457 |
+| Cowardice | 61.00% | ~410 |
+| NO LIFE IS WORTH SAVING... | 47.00% | ~316 |
 | Eat Lead! | 46.00% | ~309 |
-| The Breaking Point | 45.00% | ~302 |
+| The Breaking Point | 44.00% | ~296 |
 | Here Comes the Boom | 43.00% | ~289 |
-| Prospector | 41.00% | ~275 |
-| Sniper Wolf | 40.00% | ~268 |
+| Prospector | 41.00% | ~276 |
+| Sniper Wolf | 40.00% | ~269 |
 | Treasure Hunter | 38.00% | ~255 |
 | The Motivation | 38.00% | ~255 |
 | Heroism | 36.00% | ~242 |
 | Collectibles of Chapter I | 34.00% | ~228 |
 | Missing in Action | 34.00% | ~228 |
-| King of Knives | 33.00% | ~221 |
+| King of Knives | 33.00% | ~222 |
 | Consequences | 32.00% | ~215 |
 | Opportunities | 31.00% | ~208 |
-| The Horror | 30.00% | ~201 |
+| The Horror | 29.00% | ~195 |
 | The Difference | 27.00% | ~181 |
-| Vengeance | 26.00% | ~174 |
+| Vengeance | 26.00% | ~175 |
 | It's Just an Accident | 25.00% | ~168 |
-| Collectibles of Chapter II | 23.00% | ~154 |
-| Broken Hopes | 23.00% | ~154 |
-| Bullseye! | 23.00% | ~154 |
+| Collectibles of Chapter II | 23.00% | ~155 |
+| Broken Hopes | 23.00% | ~155 |
+| Bullseye! | 23.00% | ~155 |
 | Sorrow | 21.00% | ~141 |
 | Atonement | 18.00% | ~121 |
 | Food Massacre | 18.00% | ~121 |
 | Helping Hand | 17.00% | ~114 |
-| Without a Second Thought | 16.00% | ~107 |
+| Without a Second Thought | 16.00% | ~108 |
 | Collectibles of Chapter III | 14.00% | ~94 |
 | Collectibles of Chapter IV | 14.00% | ~94 |
 | Collectibles of Chapter V | 11.00% | ~74 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~1 |
 | Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 671 (Ranked 297)  
+Progressed: 672 (Ranked 297)  
 Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 0 (0.00%) (Ranked 378)
 | 2023-12-11 | 663 | 0 |
 | 2023-12-13 | 665 | 0 |
 | 2023-12-15 | 667 | 0 |
-| 2023-12-16 | 671 | 0 |
+| 2023-12-16 | 672 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 424,
+  "EOS_Progressed": 426,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1460,6 +1460,11 @@
       "Time": "2023-12-16T21:11:06.3272953+00:00",
       "NumProgressed": 424,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T22:09:41.4679298+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1559,7 +1564,7 @@
       "Name": "Food producer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "COMIDA_2",
@@ -1623,7 +1628,7 @@
       "Name": "I love books!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CULTURE_3",
@@ -1807,7 +1812,7 @@
       "Name": "I love parks",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "GREEN_AREAS_3",
@@ -1823,7 +1828,7 @@
       "Name": "The woodcutter",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "MILLS",
@@ -1855,7 +1860,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -1903,7 +1908,7 @@
       "Name": "Small town",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "POPULATION_2",
@@ -1991,7 +1996,7 @@
       "Name": "Sport is good for you",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "SPORTS_2",
@@ -2102,7 +2107,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 424,
+      "Progressed": 426,
       "Completed": 0
     }
   ],
@@ -2110,8 +2115,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-16T21:11:06.3272949+00:00",
+  "LastChanged_Achievements": "2023-12-16T22:09:41.4679294+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:10.3916201+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:59:25.9094033+00:00",
-  "LastUpdate_Achievements": "2023-12-16T21:11:06.3273552+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:58:19.3301305+00:00",
+  "LastUpdate_Achievements": "2023-12-16T22:09:41.4680331+00:00"
 }
