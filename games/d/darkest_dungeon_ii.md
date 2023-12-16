@@ -6,19 +6,19 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~149 |
-| Lost and Found | 4.00% | ~99 |
+| Malpractice Assurance | 6.00% | ~150 |
+| Lost and Found | 4.00% | ~100 |
 | This Belongs in a Museum | 3.00% | ~3,829 |
 | This guy... again? | 3.00% | ~75 |
 | Bloody Graduation | 3.00% | ~75 |
-| Serenity Now! | 2.00% | ~2,552 |
-| Not Today! | 2.00% | ~2,552 |
-| Creep and Sleep | 2.00% | ~2,552 |
-| Meat and Greet | 2.00% | ~2,552 |
-| Catch and Decease | 2.00% | ~2,552 |
-| Overdue Notice | 2.00% | ~2,552 |
-| Escape from the Black Hole | 2.00% | ~2,552 |
-| Autodidact | 2.00% | ~2,552 |
+| Serenity Now! | 2.00% | ~2,553 |
+| Not Today! | 2.00% | ~2,553 |
+| Creep and Sleep | 2.00% | ~2,553 |
+| Meat and Greet | 2.00% | ~2,553 |
+| Catch and Decease | 2.00% | ~2,553 |
+| Overdue Notice | 2.00% | ~2,553 |
+| Escape from the Black Hole | 2.00% | ~2,553 |
+| Autodidact | 2.00% | ~2,553 |
 | Ploughshares to Swords | 2.00% | ~50 |
 | Don't Make Me Turn This Coach Around | 1.00% | ~1,276 |
 | It Rings a Bell | 1.00% | ~1,276 |
@@ -48,9 +48,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Predator | 0.80% | ~1,021 |
 | Now Stay Dead | 0.80% | ~1,021 |
 | Reverse Banditry | 0.80% | ~1,021 |
+| A Clear Conscience | 0.80% | ~1,021 |
 | Unshackled | 0.80% | ~1,021 |
 | Wyrdly Reconstructed | 0.70% | ~893 |
-| A Clear Conscience | 0.70% | ~893 |
 | When You Want Something Done Right | 0.70% | ~893 |
 | Utopia | 0.70% | ~893 |
 | Hope Rekindled | 0.60% | ~766 |
@@ -60,13 +60,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Looks Familiar | 0.50% | ~638 |
 | Hot Air | 0.50% | ~638 |
 | Eyes Up | 0.50% | ~638 |
-| Handled | 0.40% | ~510 |
-| Body of Work | 0.40% | ~510 |
+| Handled | 0.40% | ~511 |
+| Body of Work | 0.40% | ~511 |
 | Et Tu, Riposte? | 0.40% | ~10 |
 | For Old Time' Sake | 0.40% | ~10 |
 | Clearing the Ledger | 0.30% | ~383 |
 | Shrine of Reflection | 0.30% | ~383 |
-| Maître De La Lame | 0.30% | ~7 |
+| Maître De La Lame | 0.30% | ~8 |
 | A Life Well Lived | 0.20% | ~255 |
 | The World As It Was | 0.20% | ~255 |
 | Bacon Bits | 0.20% | ~255 |
@@ -83,10 +83,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~128 |
 | Grand Slam | 0.10% | ~128 |
 | Hard Mode | 0.10% | ~128 |
-| These Boots Are Made For Kickin' | 0.10% | ~2 |
-| On This Long Road, We Found Redemption | 0.10% | ~2 |
+| These Boots Are Made For Kickin' | 0.10% | ~3 |
+| On This Long Road, We Found Redemption | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,618 (Ranked 84)  
+Progressed: 127,634 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
-| 2023-12-16 | 127,618 | 3 |
+| 2023-12-16 | 127,634 | 3 |
 ## Awards
 Max (Character Customization): 7,744  (Ranked 51)  
 Sum: 20,557 (Ranked 58)  

@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 376,
+  "EOS_Progressed": 377,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1075,6 +1075,11 @@
       "Time": "2023-12-16T09:04:58.8314189+00:00",
       "NumProgressed": 376,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T11:06:00.8498302+00:00",
+      "NumProgressed": 377,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1118,7 +1123,7 @@
       "Name": "Floor Galore",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ach_area_1",
@@ -1174,7 +1179,7 @@
       "Name": "Campaign Launch",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ach_campaigns_1",
@@ -1230,7 +1235,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ach_consultants_a",
@@ -1294,7 +1299,7 @@
       "Name": "Proper Walls",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ach_drones",
@@ -1390,7 +1395,7 @@
       "Name": "Starting Skyward",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ach_floors_1",
@@ -1438,7 +1443,7 @@
       "Name": "Rehab Expert",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_happy",
@@ -1454,7 +1459,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_mod_1",
@@ -1606,15 +1611,15 @@
       "Name": "Dinner Dash",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ach_restaurants_4",
       "SetID": "b8gh1fi",
       "Name": "Potent Potables",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 94
     },
     {
       "ID": "ach_restaurants_5",
@@ -1622,7 +1627,7 @@
       "Name": "Starred Dining",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ach_retail_1",
@@ -1726,7 +1731,7 @@
       "Name": "We Don\u0027t Need No Education",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_util_cable",
@@ -1748,9 +1753,9 @@
       "ID": "ach_util_phone",
       "SetID": "b8gh1fi",
       "Name": "Phoning It In",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_util_power",
@@ -1782,14 +1787,14 @@
       "Name": "Destination Destiny",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 376,
+      "Progressed": 377,
       "Completed": 0
     }
   ],
@@ -1797,8 +1802,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:04:50.174849+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:06:00.8498295+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:02.639298+00:00",
-  "LastUpdate_Ratings": "2023-12-16T10:00:16.9556668+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:04:50.1749318+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:01:52.9106552+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:06:00.8499069+00:00"
 }

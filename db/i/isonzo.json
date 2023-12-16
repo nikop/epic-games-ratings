@@ -997,9 +997,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9413,
+  "EOS_Progressed": 9414,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9402,6 +9402,11 @@
       "Time": "2023-12-16T10:08:41.4528299+00:00",
       "NumProgressed": 9413,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-16T11:09:12.524882+00:00",
+      "NumProgressed": 9414,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9485,7 +9490,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -9501,7 +9506,7 @@
       "Name": "Donatello",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -9541,7 +9546,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -9565,7 +9570,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -9701,7 +9706,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -9757,7 +9762,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -9772,7 +9777,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9413,
+      "Progressed": 9414,
       "Completed": 10
     }
   ],
@@ -9780,8 +9785,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-12T17:02:56.6362998+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:08:41.4528294+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:09:12.5248814+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:02.1312935+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:58:10.6844874+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:08:41.452955+00:00"
+  "LastUpdate_Ratings": "2023-12-16T10:58:39.5969894+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:09:12.5249372+00:00"
 }

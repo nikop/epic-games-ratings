@@ -5,36 +5,36 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 59.00% | ~222 |
-| Starting Skyward | 53.00% | ~199 |
+| Starting Skyward | 53.00% | ~200 |
 | Grime is Not Good | 47.00% | ~177 |
-| Floor Galore | 41.00% | ~154 |
-| Dinner Dash | 41.00% | ~154 |
-| Campaign Launch | 40.00% | ~150 |
+| Floor Galore | 41.00% | ~155 |
+| Dinner Dash | 41.00% | ~155 |
+| Campaign Launch | 40.00% | ~151 |
 | Need a Consult | 37.00% | ~139 |
 | It's Technical | 37.00% | ~139 |
-| Upgrade Unlock | 36.00% | ~135 |
+| Upgrade Unlock | 36.00% | ~136 |
 | Delegate Maintenance | 34.00% | ~128 |
-| Proper Walls | 32.00% | ~120 |
-| Destination Destiny | 32.00% | ~120 |
+| Proper Walls | 32.00% | ~121 |
+| Destination Destiny | 32.00% | ~121 |
 | Happy Tenants | 26.00% | ~98 |
-| Potent Potables | 26.00% | ~98 |
+| Potent Potables | 25.00% | ~94 |
 | Smooth Service | 25.00% | ~94 |
 | Your Prestige is Rising | 24.00% | ~90 |
 | Retail Revenue | 24.00% | ~90 |
-| Don't Feel a Loan | 23.00% | ~86 |
+| Don't Feel a Loan | 23.00% | ~87 |
 | People Mover | 21.00% | ~79 |
 | Lux Living | 20.00% | ~75 |
 | Artfully Done | 20.00% | ~75 |
 | Emporium Empire | 20.00% | ~75 |
 | Leveled Up Shops | 20.00% | ~75 |
 | Get Electrified | 20.00% | ~75 |
-| Rehab Expert | 19.00% | ~71 |
-| We Don't Need No Education | 19.00% | ~71 |
+| Rehab Expert | 19.00% | ~72 |
+| We Don't Need No Education | 19.00% | ~72 |
 | Tasty Profits | 18.00% | ~68 |
 | Established Fame | 17.00% | ~64 |
 | Under One Roof | 16.00% | ~60 |
 | Cashflow Chief | 16.00% | ~60 |
-| Starred Dining | 15.00% | ~56 |
+| Starred Dining | 15.00% | ~57 |
 | Smooth Operator | 14.00% | ~53 |
 | Boutique Benefits | 13.00% | ~49 |
 | Terrifically Trashed | 13.00% | ~49 |
@@ -45,9 +45,9 @@
 | Master of Puppets | 10.00% | ~38 |
 | Refined Palates | 10.00% | ~38 |
 | Plaza Plan | 9.00% | ~34 |
-| Phoning It In | 9.00% | ~34 |
 | First 100 Days | 8.00% | ~30 |
 | Water Features | 8.00% | ~30 |
+| Phoning It In | 8.00% | ~30 |
 | Careful Constructor | 7.00% | ~26 |
 | Meet Me at HQ | 7.00% | ~26 |
 | Maximum Reuse | 7.00% | ~26 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 376 (Ranked 343)  
+Progressed: 377 (Ranked 343)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 360 | 0 |
 | 2023-12-14 | 367 | 0 |
 | 2023-12-15 | 372 | 0 |
-| 2023-12-16 | 376 | 0 |
+| 2023-12-16 | 377 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

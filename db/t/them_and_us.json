@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 321,
+  "EOS_Progressed": 322,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1406,6 +1406,11 @@
       "Time": "2023-12-14T15:04:00.0978845+00:00",
       "NumProgressed": 321,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T11:05:46.1186021+00:00",
+      "NumProgressed": 322,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1433,7 +1438,7 @@
       "Name": "Alone with Them",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1513,7 +1518,7 @@
       "Name": "Forced to Kill",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1569,7 +1574,7 @@
       "Name": "Open Sesame",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ETUA_OutRage",
@@ -1601,7 +1606,7 @@
       "Name": "Researcher",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ETUA_RestInPeace",
@@ -1625,7 +1630,7 @@
       "Name": "Safe...For now?",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ETUA_StayDead",
@@ -1633,7 +1638,7 @@
       "Name": "I Am The Gate Keeper!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ETUA_SurvivalHero",
@@ -1689,7 +1694,7 @@
       "Name": "This Coffin Has Your Name On It!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ETUA_ThisMansionIsClean",
@@ -1736,7 +1741,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 321,
+      "Progressed": 322,
       "Completed": 1
     }
   ],
@@ -1744,8 +1749,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:04:40.0432799+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:05:46.1186019+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.0829701+00:00",
-  "LastUpdate_Ratings": "2023-12-16T10:00:36.3101521+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:04:40.0433319+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:02:51.115438+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:05:46.1186269+00:00"
 }

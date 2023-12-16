@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 8.00% | ~11 |
-| Tinkerer | 4.00% | ~5 |
-| Welcome to the Club | 3.00% | ~4 |
-| A new World ahead | 3.00% | ~4 |
+| Self-Defence | 9.00% | ~12 |
+| Tinkerer | 5.00% | ~7 |
+| Welcome to the Club | 4.00% | ~5 |
+| A new World ahead | 4.00% | ~5 |
+| Don't Cry Wolf | 3.00% | ~4 |
 | Craftsmen | 2.00% | ~3 |
-| Don't Cry Wolf | 2.00% | ~3 |
 | Apprentice | 2.00% | ~3 |
 | Can't touch this | 1.00% | ~1 |
 | Sponsor | 0.70% | ~1 |

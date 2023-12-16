@@ -625,9 +625,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3452,
+  "EOS_Progressed": 3453,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9935,6 +9935,11 @@
       "Time": "2023-12-16T10:04:38.5682745+00:00",
       "NumProgressed": 3452,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-16T11:05:44.1027747+00:00",
+      "NumProgressed": 3453,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -10402,7 +10407,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "thealchemist",
@@ -10434,7 +10439,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "thepowerofawakening",
@@ -10506,7 +10511,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3210
+      "UsersEstimate": 3211
     },
     {
       "ID": "warmachinesarmy",
@@ -10545,7 +10550,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3452,
+      "Progressed": 3453,
       "Completed": 2
     }
   ],
@@ -10553,8 +10558,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-14T18:58:46.7589357+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:04:38.5682739+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:05:44.1027742+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:16.4016448+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:59:15.7762119+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:04:38.568443+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:00:20.3477387+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:05:44.1028665+00:00"
 }

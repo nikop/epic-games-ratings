@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -946,10 +946,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2212,
       "NumberOfAwardsMax": 291
+    },
+    {
+      "Time": "2023-12-16T11:00:11.2544679+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2213,
+      "NumberOfAwardsMax": 291
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2212,
+  "NumberOfAwards": 2213,
   "NumberOfAwardsMax": 291,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -999,7 +1005,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 285
+      "Count": 286
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1014,9 +1020,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 229513,
+  "EOS_Progressed": 229516,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27239,6 +27245,11 @@
       "Time": "2023-12-16T10:09:42.0192849+00:00",
       "NumProgressed": 229513,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-16T11:10:36.1932185+00:00",
+      "NumProgressed": 229516,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -27258,7 +27269,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59673
+      "UsersEstimate": 59674
     },
     {
       "ID": "ACH_BASE_11",
@@ -27298,7 +27309,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22951
+      "UsersEstimate": 22952
     },
     {
       "ID": "ACH_BASE_17",
@@ -27314,7 +27325,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22951
+      "UsersEstimate": 22952
     },
     {
       "ID": "ACH_BASE_19",
@@ -27521,16 +27532,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 229513,
+      "Progressed": 229516,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-12-16T02:59:53.7763706+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:09:42.0192844+00:00",
+  "LastChanged": "2023-12-16T11:00:11.2544677+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:10:36.193218+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.549712+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:59:09.3429478+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:09:42.0195286+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:00:11.2544683+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:10:36.1933584+00:00"
 }

@@ -69,7 +69,7 @@ Rating: 4.20 (Ranked 928)
 | Lingering Moments | 0.10% | ~4 |
 | A Trace of Venom | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,903 (Ranked 204)  
+Progressed: 3,921 (Ranked 204)  
 Completed: 2 (0.05%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,11 +128,11 @@ Completed: 2 (0.05%) (Ranked 326)
 | 2023-12-13 | 2,475 | 2 |
 | 2023-12-14 | 3,035 | 2 |
 | 2023-12-15 | 3,641 | 2 |
-| 2023-12-16 | 3,903 | 2 |
+| 2023-12-16 | 3,921 | 2 |
 ## Awards
-Max (Character Customization): 198  (Ranked 293)  
+Max (Character Customization): 198  (Ranked 294)  
 Sum: 518 (Ranked 326)  
-Diff (max vs sum): -33  
+Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 198 |

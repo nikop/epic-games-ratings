@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 987,
+  "EOS_Progressed": 988,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2694,6 +2694,11 @@
       "Time": "2023-12-16T08:09:11.5696156+00:00",
       "NumProgressed": 987,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-16T11:10:22.2408307+00:00",
+      "NumProgressed": 988,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2721,7 +2726,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ChestCompletion1",
@@ -2801,7 +2806,7 @@
       "Name": "Family Memories",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "FactorywoodChests1",
@@ -2825,7 +2830,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2833,7 +2838,7 @@
       "Name": "The Betrayer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2865,7 +2870,7 @@
       "Name": "Rail Rat",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "HexlockGift",
@@ -2993,7 +2998,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "RewindParry",
@@ -3097,7 +3102,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "WatcherSpared",
@@ -3128,7 +3133,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 987,
+      "Progressed": 988,
       "Completed": 6
     }
   ],
@@ -3136,8 +3141,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:09:31.4268616+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:10:22.2408302+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-16T10:00:32.4949846+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:09:31.426946+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:02:45.4065558+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:10:22.2408983+00:00"
 }

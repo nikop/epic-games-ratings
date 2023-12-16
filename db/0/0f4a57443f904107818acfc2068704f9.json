@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 897,
+  "EOS_Progressed": 898,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2057,6 +2057,11 @@
       "Time": "2023-12-16T10:03:50.3808559+00:00",
       "NumProgressed": 897,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T11:04:36.8896947+00:00",
+      "NumProgressed": 898,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2123,9 +2128,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 691
+      "UsersEstimate": 700
     },
     {
       "ID": "CompleteChapter10",
@@ -2213,7 +2218,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "CompleteChapter3",
@@ -2245,15 +2250,15 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 162
     },
     {
       "ID": "CompleteChapter8",
@@ -2364,14 +2369,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 897,
+      "Progressed": 898,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:03:50.3808556+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:04:36.8896941+00:00",
   "LastUpdate_AppInfo": "2023-12-15T09:57:06.988595+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:58:38.0190813+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:03:50.3809064+00:00"
+  "LastUpdate_Ratings": "2023-12-16T10:59:22.9163633+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:04:36.8897274+00:00"
 }

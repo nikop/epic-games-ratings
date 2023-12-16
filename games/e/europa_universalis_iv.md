@@ -1,7 +1,7 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 232)  
+Rating: 4.69 (Ranked 231)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,10 +9,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 0.30% | ~1,429 |
 | Until death do us apart | 0.30% | ~1,429 |
 | Victorious! | 0.30% | ~1,429 |
-| Brothers in Arms | 0.20% | ~952 |
-| That's a Grand Navy | 0.20% | ~952 |
-| Seriously?! | 0.20% | ~952 |
-| That is mine! | 0.20% | ~952 |
+| Brothers in Arms | 0.20% | ~953 |
+| That's a Grand Navy | 0.20% | ~953 |
+| Seriously?! | 0.20% | ~953 |
+| That is mine! | 0.20% | ~953 |
 | The 52 Garhs | 0.10% | ~476 |
 | I don't like sand | 0.10% | ~476 |
 | A Blessed Nation | 0.10% | ~476 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476,228 (Ranked 41)  
+Progressed: 476,299 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -610,7 +610,7 @@ Completed: 1 (0.00%) (Ranked 377)
 | 2023-12-13 | 474,145 | 1 |
 | 2023-12-14 | 474,899 | 1 |
 | 2023-12-15 | 475,873 | 1 |
-| 2023-12-16 | 476,228 | 1 |
+| 2023-12-16 | 476,299 | 1 |
 ## Awards
 Max (Educational): 7,396  (Ranked 54)  
 Sum: 60,992 (Ranked 24)  

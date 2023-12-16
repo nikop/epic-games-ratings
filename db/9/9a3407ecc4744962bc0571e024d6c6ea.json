@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1032,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -2893,9 +2893,9 @@
       "ID": "Outpatient",
       "SetID": "3ai6ml8",
       "Name": "Outpatient",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 650
+      "UsersEstimate": 660
     },
     {
       "ID": "Relic",
@@ -2956,8 +2956,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:09:29.8106614+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:10:19.7375768+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:02.5994024+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:59:38.5856114+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:09:29.8107147+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:00:54.5991148+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:10:19.7376036+00:00"
 }

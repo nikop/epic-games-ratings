@@ -5,9 +5,9 @@
   "Ranking_Rating": 1007,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 302,
+  "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 640,
+  "EOS_Progressed": 641,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2873,6 +2873,11 @@
       "Time": "2023-12-16T08:03:38.3160351+00:00",
       "NumProgressed": 640,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T11:04:34.186964+00:00",
+      "NumProgressed": 641,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2914,9 +2919,9 @@
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
       "SetID": "6kcl14p",
       "Name": "War with Friends",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 13
     },
     {
       "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
@@ -2948,7 +2953,7 @@
       "Name": "Earth Shattering",
       "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -2956,7 +2961,7 @@
       "Name": "La Der des Ders",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -2964,7 +2969,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -2979,7 +2984,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 640,
+      "Progressed": 641,
       "Completed": 0
     }
   ],
@@ -2987,8 +2992,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:03:48.4436874+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:04:34.1869635+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:05.7146339+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:58:50.769605+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:03:48.4437384+00:00"
+  "LastUpdate_Ratings": "2023-12-16T10:59:42.1046894+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:04:34.1869951+00:00"
 }

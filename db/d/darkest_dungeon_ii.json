@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9774,9 +9774,9 @@
       "Count": 1014
     }
   ],
-  "EOS_Progressed": 127618,
+  "EOS_Progressed": 127634,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1727,
+  "EOS_NewPlayers": 1739,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35294,6 +35294,11 @@
       "Time": "2023-12-16T10:08:55.0825081+00:00",
       "NumProgressed": 127618,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T11:09:31.3148198+00:00",
+      "NumProgressed": 127634,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35313,7 +35318,7 @@
       "Name": "Serenity Now!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -35457,7 +35462,7 @@
       "Name": "Not Today!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35465,7 +35470,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35505,7 +35510,7 @@
       "Name": "Meat and Greet",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35521,7 +35526,7 @@
       "Name": "Catch and Decease",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "combat_kill_librarian",
@@ -35529,7 +35534,7 @@
       "Name": "Overdue Notice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35545,7 +35550,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35657,7 +35662,7 @@
       "Name": "Autodidact",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "hero_story_complete_all",
@@ -35671,9 +35676,9 @@
       "ID": "hero_story_complete_any",
       "SetID": "64l4lke",
       "Name": "A Clear Conscience",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 893
+      "UsersEstimate": 1021
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -35785,7 +35790,7 @@
       "Name": "Handled",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "run_victory_act05",
@@ -35793,7 +35798,7 @@
       "Name": "Body of Work",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -35833,7 +35838,7 @@
       "Name": "Ma\u00EEtre De La Lame",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "combat_kill_chirurgeon",
@@ -35841,7 +35846,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "combat_kill_collector",
@@ -35857,7 +35862,7 @@
       "Name": "These Boots Are Made For Kickin\u0027",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "combat_kill_warlord_crusader",
@@ -35905,7 +35910,7 @@
       "Name": "Lost and Found",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35929,28 +35934,28 @@
       "Name": "On This Long Road, We Found Redemption",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127618,
+      "Progressed": 127634,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2487,
+      "Progressed": 2503,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-16T08:57:11.6954353+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:08:55.0825078+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:09:31.3148191+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:57:21.3712091+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:08:55.0828065+00:00"
+  "LastUpdate_Ratings": "2023-12-16T10:57:26.1305865+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:09:31.3150324+00:00"
 }

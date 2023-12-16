@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80753,
+  "EOS_Progressed": 80755,
   "EOS_Completed": 878,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 610,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -26843,6 +26843,11 @@
       "Time": "2023-12-16T10:04:11.0619617+00:00",
       "NumProgressed": 80753,
       "NumCompleted": 878
+    },
+    {
+      "Time": "2023-12-16T11:05:06.4119659+00:00",
+      "NumProgressed": 80755,
+      "NumCompleted": 878
     }
   ],
   "TotalAchievements": 25,
@@ -26958,7 +26963,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16958
+      "UsersEstimate": 16959
     },
     {
       "ID": "Meaty",
@@ -26982,7 +26987,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12920
+      "UsersEstimate": 12921
     },
     {
       "ID": "Nothing Left to Say",
@@ -27006,7 +27011,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11305
+      "UsersEstimate": 11306
     },
     {
       "ID": "Sniper",
@@ -27053,7 +27058,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 80753,
+      "Progressed": 80755,
       "Completed": 878
     }
   ],
@@ -27061,8 +27066,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:04:11.0619611+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:05:06.4119654+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:29.3194806+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:58:01.7264097+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:04:11.0622192+00:00"
+  "LastUpdate_Ratings": "2023-12-16T10:58:25.8356092+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:05:06.4121251+00:00"
 }

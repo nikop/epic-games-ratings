@@ -11,29 +11,29 @@ Rating: 4.54 (Ranked 534)
 | Keep 'em coming! | 42.00% | ~328 |
 | The things they print nowadays | 39.00% | ~305 |
 | Big Spender | 38.00% | ~297 |
-| That's gotta hurt | 36.00% | ~281 |
+| That's gotta hurt | 36.00% | ~282 |
 | I think it's broke | 26.00% | ~203 |
 | The Ann Flores Combo Experience | 26.00% | ~203 |
-| Club Star | 25.00% | ~195 |
+| Club Star | 25.00% | ~196 |
 | Fire in the hole! | 20.00% | ~156 |
-| Omnipotence | 19.00% | ~148 |
-| The Warlord | 19.00% | ~148 |
-| You are the One | 19.00% | ~148 |
+| Omnipotence | 19.00% | ~149 |
+| The Warlord | 19.00% | ~149 |
+| You are the One | 19.00% | ~149 |
 | Deadly Kombationem | 18.00% | ~141 |
 | The truth is out there | 16.00% | ~125 |
 | Annakin Skyscroller | 13.00% | ~102 |
 | In the smacker...I think | 10.00% | ~78 |
 | Arm Wrestlin' | 9.00% | ~70 |
 | 1+1>2 | 9.00% | ~70 |
-| This can't be right… | 8.00% | ~62 |
-| Welcome home, 06 | 8.00% | ~62 |
+| This can't be right… | 8.00% | ~63 |
+| Welcome home, 06 | 8.00% | ~63 |
 | I'm walking here! | 7.00% | ~55 |
 | So Fresh and So clean clean | 7.00% | ~55 |
 | Supreme Bartender Ann | 7.00% | ~55 |
 | Clarity of Mind | 6.00% | ~47 |
-| I feel secure, contained & protected | 6.00% | ~47 |
 | Science, it works! | 6.00% | ~47 |
-| The Traveler | 6.00% | ~47 |
+| I feel secure, contained & protected | 5.00% | ~39 |
+| The Traveler | 5.00% | ~39 |
 | Woman on a (side) mission | 4.00% | ~31 |
 | Ann ULTRA | 3.00% | ~23 |
 | Lady Luck is a cool cat | 3.00% | ~23 |
@@ -42,7 +42,7 @@ Rating: 4.54 (Ranked 534)
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 781 (Ranked 285)  
+Progressed: 782 (Ranked 285)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,6 +145,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-11 | 776 | 0 |
 | 2023-12-12 | 777 | 0 |
 | 2023-12-15 | 781 | 0 |
+| 2023-12-16 | 782 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

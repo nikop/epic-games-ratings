@@ -26,6 +26,7 @@ Rating: 4.62 (Ranked 370)
 | Fiery Friend | 2.00% | ~114 |
 | Impenetrable Fortress | 2.00% | ~114 |
 | Intimidation Tactics | 2.00% | ~114 |
+| Here be Dragons | 2.00% | ~114 |
 | Tipping the Scales | 2.00% | ~114 |
 | Freed Lands of Manuhari | 2.00% | ~114 |
 | Sehiran Oasis | 2.00% | ~114 |
@@ -35,7 +36,6 @@ Rating: 4.62 (Ranked 370)
 | The Creator | 1.00% | ~57 |
 | Crimson Caldera | 1.00% | ~57 |
 | Preparation Is Everything | 1.00% | ~57 |
-| Here be Dragons | 1.00% | ~57 |
 | Blood of the Dragon | 1.00% | ~57 |
 | Mighty Hoard | 1.00% | ~57 |
 | Prometheus Avenged | 1.00% | ~57 |

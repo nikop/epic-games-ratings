@@ -22,6 +22,7 @@ Rating: 4.61 (Ranked 388)
 | Higher Tax Bracket | 0.20% | ~17 |
 | Chatty Neighbor | 0.20% | ~17 |
 | Oui, Chef! | 0.20% | ~17 |
+| Botanical Breakthrough | 0.20% | ~17 |
 | Azorian Anniversary | 0.20% | ~17 |
 | Right Tool For the Job | 0.20% | ~17 |
 | Captain of Cozy | 0.20% | ~17 |
@@ -39,7 +40,6 @@ Rating: 4.61 (Ranked 388)
 | Rumble in the Jumble | 0.10% | ~8 |
 | Fanatical Farmer | 0.10% | ~8 |
 | I Now Pronounce You... | 0.10% | ~8 |
-| Botanical Breakthrough | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 | A Pal To All | 0.10% | ~1 |
 | Scroll Hunter | 0.10% | ~1 |
@@ -49,7 +49,7 @@ Rating: 4.61 (Ranked 388)
 | Going Down | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,461 (Ranked 177)  
+Progressed: 8,463 (Ranked 177)  
 Completed: 1 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 1 (0.01%) (Ranked 353)
 | 2023-12-13 | 8,425 | 1 |
 | 2023-12-14 | 8,437 | 1 |
 | 2023-12-15 | 8,445 | 1 |
-| 2023-12-16 | 8,461 | 1 |
+| 2023-12-16 | 8,463 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

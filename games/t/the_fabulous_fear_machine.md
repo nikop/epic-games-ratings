@@ -13,10 +13,10 @@
 | Giant | 18.00% | ~10 |
 | The happy farmer girl | 18.00% | ~10 |
 | Pulp! Terror Tales in the Night | 16.00% | ~9 |
-| Pulp! Out of this World | 14.00% | ~8 |
-| The artist | 12.00% | ~7 |
+| Pulp! Out of this World | 16.00% | ~9 |
+| The artist | 14.00% | ~8 |
+| Pulp! Adventures into the Unknown | 14.00% | ~8 |
 | The seer | 12.00% | ~7 |
-| Pulp! Adventures into the Unknown | 12.00% | ~7 |
 | Diagnosis: fear | 12.00% | ~7 |
 | Ambition is... blind | 12.00% | ~7 |
 | You have two wishes left | 12.00% | ~7 |
@@ -32,10 +32,10 @@
 | The bully | 5.00% | ~3 |
 | The adventurer | 5.00% | ~3 |
 | ECO mode | 5.00% | ~3 |
+| Vaccine fans | 5.00% | ~3 |
 | Blood Red Island | 4.00% | ~2 |
 | The scholar | 4.00% | ~2 |
 | Pulp! The Beyond | 4.00% | ~2 |
-| Vaccine fans | 4.00% | ~2 |
 | Blessed antennas | 2.00% | ~1 |
 | The beast in the Oval Office | 2.00% | ~1 |
 | Pulp! Weird Science | 2.00% | ~1 |

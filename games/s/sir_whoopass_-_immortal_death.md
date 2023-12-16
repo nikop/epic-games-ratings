@@ -23,9 +23,9 @@
 | Mushroom soup of the day | 53.00% | ~70 |
 | Honk honk! | 50.00% | ~66 |
 | Cockadoodledoo! | 50.00% | ~66 |
-| Butcher | 48.00% | ~64 |
+| Butcher | 49.00% | ~65 |
+| Spare Ribs | 49.00% | ~65 |
 | Thats disgusting! | 48.00% | ~64 |
-| Spare Ribs | 48.00% | ~64 |
 | Self assessed tax return | 44.00% | ~59 |
 | My pants squeak when I walk | 44.00% | ~59 |
 | Surprise!! | 42.00% | ~56 |
@@ -38,12 +38,12 @@
 | Karaoke king | 32.00% | ~43 |
 | Meatballs, coming up! | 31.00% | ~41 |
 | I'm going to get a concussion | 30.00% | ~40 |
-| Another one bites the iron | 28.00% | ~37 |
+| Another one bites the iron | 29.00% | ~39 |
 | Ripe Meat Off The Bone! | 26.00% | ~35 |
 | Kleptomaniac | 26.00% | ~35 |
+| A Megapint...? | 25.00% | ~33 |
 | Hovering around | 25.00% | ~33 |
 | You're not so Big anymore, Boi! | 24.00% | ~32 |
-| A Megapint...? | 24.00% | ~32 |
 | Your daily dose of Vitamin C. | 24.00% | ~32 |
 | I cant stand still! | 21.00% | ~28 |
 | Slimy... yet satisfying | 20.00% | ~27 |

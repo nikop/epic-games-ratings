@@ -5,9 +5,9 @@ Rating: 4.62 (Ranked 370)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 35.00% | ~345 |
-| The Mysterious Stranger | 27.00% | ~266 |
-| Rail Rat | 27.00% | ~266 |
+| Time Heals All Wounds | 35.00% | ~346 |
+| The Mysterious Stranger | 27.00% | ~267 |
+| Rail Rat | 27.00% | ~267 |
 | Immaculate Aim | 23.00% | ~227 |
 | The Brass Boss | 23.00% | ~227 |
 | Make Up For Lost Time | 22.00% | ~217 |
@@ -21,7 +21,7 @@ Rating: 4.62 (Ranked 370)
 | The Wicked Twins | 21.00% | ~207 |
 | Honest Mistake | 21.00% | ~207 |
 | Fast Learner | 21.00% | ~207 |
-| The Betrayer | 20.00% | ~197 |
+| The Betrayer | 20.00% | ~198 |
 | Right On Time | 19.00% | ~188 |
 | Like Clockwork | 19.00% | ~188 |
 | Golem Chaser | 19.00% | ~188 |
@@ -34,9 +34,9 @@ Rating: 4.62 (Ranked 370)
 | Whiz Kid | 14.00% | ~138 |
 | Cartographer | 14.00% | ~138 |
 | Good Neighbor | 13.00% | ~128 |
-| Chaincrawler Explorer | 12.00% | ~118 |
-| Family Memories | 12.00% | ~118 |
-| Ask Questions Later | 12.00% | ~118 |
+| Chaincrawler Explorer | 12.00% | ~119 |
+| Family Memories | 12.00% | ~119 |
+| Ask Questions Later | 12.00% | ~119 |
 | Syron for Hope | 11.00% | ~109 |
 | Factorywood Explorer | 10.00% | ~99 |
 | Fairgrounds Explorer | 10.00% | ~99 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 370)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 987 (Ranked 274)  
+Progressed: 988 (Ranked 274)  
 Completed: 6 (0.61%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 6 (0.61%) (Ranked 193)
 | 2023-12-13 | 955 | 6 |
 | 2023-12-14 | 963 | 6 |
 | 2023-12-15 | 978 | 6 |
-| 2023-12-16 | 987 | 6 |
+| 2023-12-16 | 988 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,7 +3,7 @@
   "Name": "Carsick Carventure",
   "ProductSlug": "carsick-carventure-d216ba",
   "Ranking_EOS_Progress": 383,
-  "Ranking_EOS_Completed": 81,
+  "Ranking_EOS_Completed": 74,
   "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245,
-  "EOS_Completed": 11,
-  "EOS_NewPlayers": 157,
-  "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 4.49,
+  "EOS_Progressed": 247,
+  "EOS_Completed": 12,
+  "EOS_NewPlayers": 155,
+  "EOS_NewCompleters": 12,
+  "EOS_Completed_Percentage": 4.86,
   "EosHistory": [
     {
       "Time": "2023-12-07T15:03:10.6458391+00:00",
@@ -674,6 +674,11 @@
       "Time": "2023-12-16T10:08:11.1525177+00:00",
       "NumProgressed": 245,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-16T11:08:30.2162246+00:00",
+      "NumProgressed": 247,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-12-07T15:03:10.6469952+00:00",
@@ -684,9 +689,9 @@
       "ID": "100000_XP",
       "SetID": "8d0im30",
       "Name": "5 000 Score",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "10000_XP",
@@ -700,39 +705,39 @@
       "ID": "1000_XP",
       "SetID": "8d0im30",
       "Name": "1000 Score",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "100_XP",
       "SetID": "8d0im30",
       "Name": "500 Score",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 200,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "10_XP",
       "SetID": "8d0im30",
       "Name": "200 Score",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 200,
-      "UsersEstimate": 76
+      "UsersEstimate": 79
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d0im30",
       "IsBase": true,
-      "Progressed": 245,
-      "Completed": 11
+      "Progressed": 247,
+      "Completed": 12
     }
   ],
   "FirstSeen": "2023-12-08T10:57:34.1568649+00:00",
   "FirstSeenAchievements": "2023-12-07T15:03:10.6469952+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:08:11.1525173+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:08:30.2162242+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:11.5515181+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:58:06.2724156+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:08:11.1525295+00:00"
+  "LastUpdate_Ratings": "2023-12-16T10:58:32.7074138+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:08:30.2162609+00:00"
 }

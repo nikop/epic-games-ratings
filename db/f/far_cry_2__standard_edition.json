@@ -2,7 +2,7 @@
   "ID": "a0b8d4482f3d4f939f35f87a3f367865",
   "Name": "Far Cry 2: Standard Edition",
   "ProductSlug": "far-cry-2",
-  "Ranking_Rating": 835,
+  "Ranking_Rating": 848,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 799,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.32,
+  "Rating": 4.3,
   "NumberOfRatings": 60,
   "RatingHistory": [
     {
@@ -394,6 +394,12 @@
       "Rating": 4.32,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-16T10:58:31.1922773+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -411,8 +417,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:40.0657396+00:00",
-  "LastChanged": "2023-12-07T10:02:40.3118776+00:00",
+  "LastChanged": "2023-12-16T10:58:31.1922772+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:57.6141155+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:58:05.265758+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:05:46.8513369+00:00"
+  "LastUpdate_Ratings": "2023-12-16T10:58:31.1922776+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:07:20.5127583+00:00"
 }

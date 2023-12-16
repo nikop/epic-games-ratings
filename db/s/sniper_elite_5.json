@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -643,9 +643,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4027,
+  "EOS_Progressed": 4029,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8663,6 +8663,11 @@
       "Time": "2023-12-16T03:09:04.4310389+00:00",
       "NumProgressed": 4027,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-16T11:09:16.6850031+00:00",
+      "NumProgressed": 4029,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8682,7 +8687,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -8738,7 +8743,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -8754,7 +8759,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8794,7 +8799,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -8810,7 +8815,7 @@
       "Name": "Sharpshooter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -8842,7 +8847,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8858,7 +8863,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -8874,7 +8879,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -8882,7 +8887,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -8898,7 +8903,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8914,7 +8919,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -8922,7 +8927,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8930,7 +8935,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -8938,7 +8943,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -8986,7 +8991,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9010,7 +9015,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -9050,7 +9055,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -9066,7 +9071,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -9138,7 +9143,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -9241,13 +9246,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3978,
+      "Progressed": 3980,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4027,
+      "Progressed": 4029,
       "Completed": 11
     }
   ],
@@ -9255,8 +9260,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:08:44.3794065+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:09:16.6850026+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.4789046+00:00",
-  "LastUpdate_Ratings": "2023-12-16T10:00:21.0844577+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:08:44.3796412+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:01:58.8102687+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:09:16.6850789+00:00"
 }

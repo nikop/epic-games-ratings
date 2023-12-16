@@ -2,7 +2,7 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 232,
+  "Ranking_Rating": 231,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
@@ -13317,9 +13317,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 476228,
+  "EOS_Progressed": 476299,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4632,
+  "EOS_NewPlayers": 4677,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40907,6 +40907,11 @@
       "Time": "2023-12-16T10:05:41.520009+00:00",
       "NumProgressed": 476228,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T11:07:13.3947162+00:00",
+      "NumProgressed": 476299,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -41358,7 +41363,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -41942,7 +41947,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -42918,7 +42923,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -43198,7 +43203,7 @@
       "Name": "That is mine!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -43821,21 +43826,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 476228,
+      "Progressed": 476299,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 476228,
+      "Progressed": 476299,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-16T07:58:34.359608+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:05:41.5200086+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:07:13.3947156+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:01.211805+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:58:44.0002302+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:05:41.5220348+00:00"
+  "LastUpdate_Ratings": "2023-12-16T10:59:31.8030132+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:07:13.3957678+00:00"
 }

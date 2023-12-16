@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116818,
+  "EOS_Progressed": 116819,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -21454,6 +21454,11 @@
       "Time": "2023-12-16T10:09:35.2006481+00:00",
       "NumProgressed": 116818,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-16T11:10:27.2991703+00:00",
+      "NumProgressed": 116819,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 49,
@@ -21473,7 +21478,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89950
+      "UsersEstimate": 89951
     },
     {
       "ID": "EAwards_10",
@@ -21593,7 +21598,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9345
+      "UsersEstimate": 9346
     },
     {
       "ID": "EAwards_24",
@@ -21609,7 +21614,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22195
+      "UsersEstimate": 22196
     },
     {
       "ID": "EAwards_26",
@@ -21856,7 +21861,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116818,
+      "Progressed": 116819,
       "Completed": 52
     }
   ],
@@ -21864,8 +21869,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:09:35.2006477+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:10:27.2991697+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:07.3909986+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:02:39.6210603+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:09:35.2008605+00:00"
+  "LastUpdate_Ratings": "2023-12-16T10:57:03.7711206+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:10:27.2992937+00:00"
 }

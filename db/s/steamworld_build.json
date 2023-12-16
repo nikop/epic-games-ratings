@@ -2,9 +2,9 @@
   "ID": "974d75969ed043489745f61eb0a25baf",
   "Name": "SteamWorld Build",
   "ProductSlug": "steamworld-build-71ee6c",
-  "Ranking_EOS_Progress": 451,
+  "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 106,
+  "EOS_Progressed": 107,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -404,6 +404,11 @@
       "Time": "2023-12-16T09:05:39.5915307+00:00",
       "NumProgressed": 106,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T11:06:53.3215807+00:00",
+      "NumProgressed": 107,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T14:06:40.4198033+00:00",
@@ -422,9 +427,9 @@
       "ID": "Aristocratic",
       "SetID": "4bd750m",
       "Name": "Aristocratic",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Botropolis",
@@ -432,7 +437,7 @@
       "Name": "Botropolis",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ClickEmAll",
@@ -456,7 +461,7 @@
       "Name": "Digging a Hole",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "DopaMiner",
@@ -464,15 +469,15 @@
       "Name": "Dopa-Miner",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "GottaGoFast",
@@ -504,7 +509,7 @@
       "Name": "It\u0027s Yours, My Friend",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ManicMechanic",
@@ -520,7 +525,7 @@
       "Name": "Mathematic",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "MineSweeper",
@@ -568,7 +573,7 @@
       "Name": "Slotting Machine",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "StackOverflow",
@@ -600,7 +605,7 @@
       "Name": "Systematic",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "TuttiFrutti",
@@ -608,7 +613,7 @@
       "Name": "Tutti Frutti",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "UpUpAndAway",
@@ -616,7 +621,7 @@
       "Name": "Up, Up And Away!",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Whoa",
@@ -624,7 +629,7 @@
       "Name": "Whoa!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Yup",
@@ -639,14 +644,14 @@
     {
       "ID": "4bd750m",
       "IsBase": true,
-      "Progressed": 106,
+      "Progressed": 107,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:05:27.1893359+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:06:53.3215803+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:13.5200104+00:00",
-  "LastUpdate_Ratings": "2023-12-16T10:03:01.9794392+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:05:27.1893634+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:03:24.1146017+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:06:53.3215997+00:00"
 }

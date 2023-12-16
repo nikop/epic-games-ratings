@@ -5,15 +5,15 @@ Rating: 4.58 (Ranked 453)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~756 |
-| To Hell In A Handcart | 62.00% | ~744 |
-| High Profile | 54.00% | ~648 |
-| Whispers In The Dark | 51.00% | ~612 |
+| Read Between The Lines | 63.00% | ~757 |
+| To Hell In A Handcart | 62.00% | ~745 |
+| High Profile | 54.00% | ~649 |
+| Whispers In The Dark | 51.00% | ~613 |
 | Fond Memories | 49.00% | ~588 |
 | A Method To His Madness | 47.00% | ~564 |
 | History Check | 46.00% | ~552 |
 | The New World | 44.00% | ~528 |
-| Gaze Into The Abyss | 43.00% | ~516 |
+| Gaze Into The Abyss | 42.00% | ~504 |
 | Open Sesame | 42.00% | ~504 |
 | Sticky Fingers | 42.00% | ~504 |
 | Knives Out | 42.00% | ~504 |
@@ -34,7 +34,7 @@ Rating: 4.58 (Ranked 453)
 | Big Breakthrough | 12.00% | ~144 |
 | Reawakened | 3.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,200 (Ranked 259)  
+Progressed: 1,201 (Ranked 259)  
 Completed: 31 (2.58%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 31 (2.58%) (Ranked 119)
 | 2023-12-13 | 1,149 | 31 |
 | 2023-12-14 | 1,174 | 31 |
 | 2023-12-15 | 1,190 | 31 |
-| 2023-12-16 | 1,200 | 31 |
+| 2023-12-16 | 1,201 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

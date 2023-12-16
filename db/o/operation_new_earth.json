@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2035,
+  "EOS_Progressed": 2036,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7759,6 +7759,11 @@
       "Time": "2023-12-16T08:04:46.1568164+00:00",
       "NumProgressed": 2035,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T11:06:11.445879+00:00",
+      "NumProgressed": 2036,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7778,7 +7783,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ach_defeat_players_10",
@@ -7906,7 +7911,7 @@
       "Name": "Captain",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -7946,7 +7951,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8073,7 +8078,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2035,
+      "Progressed": 2036,
       "Completed": 1
     }
   ],
@@ -8081,8 +8086,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:04:57.7049411+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:06:11.4458787+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.3449014+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:57:08.2689811+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:04:57.7050325+00:00"
+  "LastUpdate_Ratings": "2023-12-16T10:57:04.8231771+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:06:11.445925+00:00"
 }

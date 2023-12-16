@@ -10,7 +10,7 @@
 | The field base | 39.00% | ~259 |
 | Survivors | 34.00% | ~226 |
 | The Condor | 31.00% | ~206 |
-| The End | 30.00% | ~200 |
+| The End | 31.00% | ~206 |
 | The Alliance | 28.00% | ~186 |
 | The Necroevolution | 25.00% | ~166 |
 | Krauta is alive | 23.00% | ~153 |

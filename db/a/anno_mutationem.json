@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 781,
+  "EOS_Progressed": 782,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1008,6 +1008,11 @@
       "Time": "2023-12-15T22:06:20.0725731+00:00",
       "NumProgressed": 781,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T11:03:38.5611082+00:00",
+      "NumProgressed": 782,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1059,7 +1064,7 @@
       "Name": "Club Star",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "Combine",
@@ -1089,9 +1094,9 @@
       "ID": "I feel secure, contained \u0026 protected",
       "SetID": "gl7plp",
       "Name": "I feel secure, contained \u0026 protected",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 39
     },
     {
       "ID": "I\u0027m walking here!",
@@ -1147,7 +1152,7 @@
       "Name": "Omnipotence",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "SERENITY_NOW",
@@ -1195,15 +1200,15 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "The Traveler",
       "SetID": "gl7plp",
       "Name": "The Traveler",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 39
     },
     {
       "ID": "The_Age_of_Mutationem",
@@ -1227,7 +1232,7 @@
       "Name": "The Warlord",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -1251,7 +1256,7 @@
       "Name": "This can\u0027t be right\u2026",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Welcome_home_06",
@@ -1259,7 +1264,7 @@
       "Name": "Welcome home, 06",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Woman on a (side) mission",
@@ -1275,7 +1280,7 @@
       "Name": "You are the One",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "manhole",
@@ -1306,7 +1311,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 781,
+      "Progressed": 782,
       "Completed": 0
     }
   ],
@@ -1314,8 +1319,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-09T07:59:55.495838+00:00",
-  "LastChanged_Achievements": "2023-12-16T09:06:48.5205463+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:03:38.5611071+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:16.2150027+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:59:11.4083363+00:00",
-  "LastUpdate_Achievements": "2023-12-16T09:06:48.5205731+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:00:14.2962281+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:03:38.5618723+00:00"
 }

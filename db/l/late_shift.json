@@ -3,8 +3,8 @@
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 290,
-  "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_Completed": 157,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 740,
+  "EOS_Progressed": 741,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.22,
+  "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:43.1533073+00:00",
@@ -1875,6 +1875,11 @@
       "Time": "2023-12-16T08:08:43.8484994+00:00",
       "NumProgressed": 740,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-16T11:09:43.6716827+00:00",
+      "NumProgressed": 741,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -1886,7 +1891,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1948,9 +1953,9 @@
       "ID": "ENDING_7",
       "SetID": "8eejhlh",
       "Name": "The Frenzy",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 229
+      "UsersEstimate": 237
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -1958,7 +1963,7 @@
       "Name": "Even Tempered",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1974,7 +1979,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "GOOD_KARMA",
@@ -2022,7 +2027,7 @@
       "Name": "Sabotage",
       "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "SHILL_BIDDER",
@@ -2045,7 +2050,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 740,
+      "Progressed": 741,
       "Completed": 9
     }
   ],
@@ -2053,8 +2058,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:09:03.7408549+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:09:43.6716822+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:45.8510282+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:59:35.970219+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:09:03.7408848+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:00:50.5918256+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:09:43.6717057+00:00"
 }

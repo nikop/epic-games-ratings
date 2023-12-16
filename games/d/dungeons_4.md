@@ -4,58 +4,58 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 89.00% | ~508 |
-| Thalya – Simply Immortal | 88.00% | ~502 |
-| For the Horde! | 83.00% | ~474 |
+| The Last Stand | 88.00% | ~503 |
+| Thalya – Simply Immortal | 88.00% | ~503 |
+| For the Horde! | 83.00% | ~475 |
 | Hammer Time, Round Two | 81.00% | ~463 |
-| The Hellwoods | 76.00% | ~434 |
-| The Plains of Strothalm | 71.00% | ~405 |
-| Experienced Thalya | 71.00% | ~405 |
-| Thalya's Concentrated Fury | 68.00% | ~388 |
-| Bad Elves Go Everywhere | 68.00% | ~388 |
-| Heroes’ Gorge | 65.00% | ~371 |
+| The Hellwoods | 76.00% | ~435 |
+| The Plains of Strothalm | 71.00% | ~406 |
+| Experienced Thalya | 71.00% | ~406 |
+| Thalya's Concentrated Fury | 68.00% | ~389 |
+| Bad Elves Go Everywhere | 68.00% | ~389 |
+| Heroes’ Gorge | 65.00% | ~372 |
 | Master of Magic | 63.00% | ~360 |
-| Unicorn steaks – fresh off the hoof! | 61.00% | ~348 |
+| Unicorn steaks – fresh off the hoof! | 61.00% | ~349 |
 | Magic Accidents | 59.00% | ~337 |
-| The Ascent | 58.00% | ~331 |
-| It's Warm and Cozy at Home | 58.00% | ~331 |
-| Trap Master | 55.00% | ~314 |
-| Minions, Minions! | 54.00% | ~308 |
+| The Ascent | 58.00% | ~332 |
+| It's Warm and Cozy at Home | 58.00% | ~332 |
+| Trap Master | 55.00% | ~315 |
+| Minions, Minions! | 54.00% | ~309 |
 | The Big Eaty | 53.00% | ~303 |
 | Hard Work | 52.00% | ~297 |
-| “… like son” | 51.00% | ~291 |
+| “… like son” | 51.00% | ~292 |
 | YOU SHALL NOT PASS! | 50.00% | ~286 |
 | The Cathedral of Light | 46.00% | ~263 |
 | Pure Dynamite! | 45.00% | ~257 |
 | Dungeonlord Gorgu | 45.00% | ~257 |
 | Shame! Shame! Shame! | 45.00% | ~257 |
-| Tanos' Crusade Against Thalya | 44.00% | ~251 |
-| Mana Cannon | 41.00% | ~234 |
+| Tanos' Crusade Against Thalya | 44.00% | ~252 |
+| Mana Cannon | 41.00% | ~235 |
 | All’s Well That Ends Evil | 39.00% | ~223 |
 | The Duel | 35.00% | ~200 |
-| Unstoppable Horde | 33.00% | ~188 |
-| Master of the Undead | 33.00% | ~188 |
-| If Looks Could Kill | 33.00% | ~188 |
+| Unstoppable Horde | 33.00% | ~189 |
+| Master of the Undead | 33.00% | ~189 |
+| If Looks Could Kill | 33.00% | ~189 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~166 |
 | The Finitude Drill | 29.00% | ~166 |
 | Forbidden Knowledge | 28.00% | ~160 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~154 |
 | Doom Hill | 27.00% | ~154 |
-| Stop Tanos! | 26.00% | ~148 |
+| Stop Tanos! | 26.00% | ~149 |
 | Hungry, Hungry Gorgu! | 25.00% | ~143 |
 | Brimstone Shaken, Not Stirred | 25.00% | ~143 |
 | Sabotage! | 24.00% | ~137 |
-| Bonus Evilness | 23.00% | ~131 |
-| Raiders of the Lost Stone | 23.00% | ~131 |
-| The Rune Sockets of Finitude (Part 1) | 23.00% | ~131 |
+| Bonus Evilness | 23.00% | ~132 |
+| Raiders of the Lost Stone | 23.00% | ~132 |
+| The Rune Sockets of Finitude (Part 1) | 23.00% | ~132 |
 | The Rune Sockets of Finitude (Part 2) | 20.00% | ~114 |
-| Rubble and Ashes | 19.00% | ~108 |
-| The Last Stand - This Time For Real! | 19.00% | ~108 |
+| Rubble and Ashes | 19.00% | ~109 |
+| The Last Stand - This Time For Real! | 19.00% | ~109 |
 | My Little Torture Chamber | 18.00% | ~103 |
-| Lavalumps on Ice! | 18.00% | ~103 |
+| Lavalumps on Ice! | 17.00% | ~97 |
 | To the Max! | 17.00% | ~97 |
 | To Infinity And Beyond! | 17.00% | ~97 |
-| Sacrificial Pit = Garbage Disposal? | 16.00% | ~91 |
+| Sacrificial Pit = Garbage Disposal? | 16.00% | ~92 |
 | Evilification | 15.00% | ~86 |
 | Mirror, Mirror | 14.00% | ~80 |
 | Untouchable | 14.00% | ~80 |
@@ -66,8 +66,8 @@
 | No Mana, No Cry | 9.00% | ~51 |
 | I Don't Need Any Help | 8.00% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 571 (Ranked 312)  
-Completed: 17 (2.98%) (Ranked 106)  
+Progressed: 572 (Ranked 312)  
+Completed: 17 (2.97%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,4 +107,4 @@ Completed: 17 (2.98%) (Ranked 106)
 | 2023-12-13 | 545 | 15 |
 | 2023-12-14 | 555 | 15 |
 | 2023-12-15 | 566 | 17 |
-| 2023-12-16 | 571 | 17 |
+| 2023-12-16 | 572 | 17 |

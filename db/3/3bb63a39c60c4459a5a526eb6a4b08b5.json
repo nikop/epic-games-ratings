@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 996,
+  "EOS_Progressed": 997,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3834,6 +3834,11 @@
       "Time": "2023-12-16T08:09:26.1677131+00:00",
       "NumProgressed": 996,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T11:10:41.2676244+00:00",
+      "NumProgressed": 997,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3893,7 +3898,7 @@
       "Name": "That Was Close!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Creator",
@@ -3941,7 +3946,7 @@
       "Name": "Game Started",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "FullCompletion",
@@ -3981,7 +3986,7 @@
       "Name": "Large Airport",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "LargeTerritories",
@@ -4005,7 +4010,7 @@
       "Name": "Linear Network",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "LongDistance",
@@ -4029,7 +4034,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Millionaire",
@@ -4045,7 +4050,7 @@
       "Name": "New Record",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "NoTimeForModernization",
@@ -4053,7 +4058,7 @@
       "Name": "No Time for Modernization",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "NoWayBack",
@@ -4061,7 +4066,7 @@
       "Name": "No Way Back",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "NotPlanned",
@@ -4165,7 +4170,7 @@
       "Name": "Time for Management",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "TransportHub",
@@ -4180,14 +4185,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 996,
+      "Progressed": 997,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:09:45.6930345+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:10:41.267624+00:00",
   "LastUpdate_AppInfo": "2023-12-12T19:56:58.9295156+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:59:33.7976493+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:09:45.6931279+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:00:47.1257336+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:10:41.2676637+00:00"
 }

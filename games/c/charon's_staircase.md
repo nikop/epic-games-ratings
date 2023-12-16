@@ -9,7 +9,7 @@
 | Across the lake | 52.00% | ~44 |
 | There is something strange here... | 51.00% | ~43 |
 | First document retrieved | 49.00% | ~41 |
-| Curious by nature | 43.00% | ~36 |
+| Curious by nature | 44.00% | ~37 |
 | A lonely death | 37.00% | ~31 |
 | An ear for music | 36.00% | ~30 |
 | Agatha's favourite song | 33.00% | ~28 |

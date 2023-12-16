@@ -4,58 +4,58 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 89.00% | ~351 |
-| Your first fight | 86.00% | ~339 |
-| Good Person Chip | 85.00% | ~335 |
-| First winning | 84.00% | ~331 |
-| Your first job | 83.00% | ~327 |
-| Depressed visitor | 78.00% | ~307 |
-| Fitness professional | 77.00% | ~303 |
-| Old movies enjoyer | 77.00% | ~303 |
-| Neurotrainer – power gainer! | 77.00% | ~303 |
-| Employee of the week | 76.00% | ~299 |
+| Such a strange dream… | 89.00% | ~352 |
+| Your first fight | 86.00% | ~340 |
+| Good Person Chip | 85.00% | ~336 |
+| First winning | 84.00% | ~332 |
+| Your first job | 83.00% | ~328 |
+| Depressed visitor | 78.00% | ~308 |
+| Old movies enjoyer | 77.00% | ~304 |
+| Neurotrainer – power gainer! | 77.00% | ~304 |
+| Fitness professional | 76.00% | ~300 |
+| Employee of the week | 76.00% | ~300 |
 | Your own amateur gym | 71.00% | ~280 |
 | First defeat | 71.00% | ~280 |
 | Run K, run! | 71.00% | ~280 |
-| Hello, world! | 68.00% | ~268 |
-| Fighting is cool | 67.00% | ~264 |
-| No bullying more | 67.00% | ~264 |
-| Pal of your father? | 64.00% | ~252 |
-| Spirit of the past | 63.00% | ~248 |
-| Employee of the month | 63.00% | ~248 |
-| Law student | 60.00% | ~236 |
+| Hello, world! | 68.00% | ~269 |
+| Fighting is cool | 67.00% | ~265 |
+| No bullying more | 67.00% | ~265 |
+| Pal of your father? | 64.00% | ~253 |
+| Spirit of the past | 63.00% | ~249 |
+| Employee of the month | 63.00% | ~249 |
+| Law student | 59.00% | ~233 |
 | Workout professional | 58.00% | ~229 |
 | Little hacker | 57.00% | ~225 |
 | Handyman | 57.00% | ~225 |
 | Champion – starter pack | 57.00% | ~225 |
 | It's good to be alive | 57.00% | ~225 |
 | Own four walls | 57.00% | ~225 |
-| Intriguing candies | 57.00% | ~225 |
 | Employee of the year | 57.00% | ~225 |
 | Fight for life | 56.00% | ~221 |
+| Intriguing candies | 56.00% | ~221 |
 | Legal courier | 53.00% | ~209 |
 | Extreme neuropower! | 52.00% | ~205 |
-| Escaped from a big trouble | 49.00% | ~193 |
-| Now you are worthy | 46.00% | ~181 |
-| Fight is life | 45.00% | ~177 |
-| Mysterious voice | 45.00% | ~177 |
-| Guiding on the right path | 44.00% | ~173 |
-| No blades in the gym | 42.00% | ~165 |
+| Escaped from a big trouble | 49.00% | ~194 |
+| Now you are worthy | 46.00% | ~182 |
+| Fight is life | 45.00% | ~178 |
+| Mysterious voice | 45.00% | ~178 |
+| Guiding on the right path | 44.00% | ~174 |
+| No blades in the gym | 42.00% | ~166 |
 | Champion – no way back | 41.00% | ~162 |
 | Underground dwellers | 40.00% | ~158 |
 | Responsible approach | 40.00% | ~158 |
 | Deal with life | 39.00% | ~154 |
-| GYM professional | 39.00% | ~154 |
 | Mom got better | 38.00% | ~150 |
-| Poisoned fighter | 38.00% | ~150 |
+| GYM professional | 38.00% | ~150 |
 | The die is cast | 38.00% | ~150 |
+| Poisoned fighter | 37.00% | ~146 |
 | Get out of my apartment! | 36.00% | ~142 |
-| Gang wrangler | 35.00% | ~138 |
 | Seashell hunter | 35.00% | ~138 |
 | Undercover robot | 35.00% | ~138 |
-| Problems of cyborgs | 34.00% | ~134 |
-| Not little hacker | 34.00% | ~134 |
+| Gang wrangler | 34.00% | ~134 |
 | Absolute Champion! | 34.00% | ~134 |
+| Problems of cyborgs | 33.00% | ~130 |
+| Not little hacker | 33.00% | ~130 |
 | Your own way | 33.00% | ~130 |
 | Another world | 32.00% | ~126 |
 | The lonesome road | 32.00% | ~126 |
@@ -67,11 +67,11 @@
 | Trap disarmed | 31.00% | ~122 |
 | Anyone can resist | 31.00% | ~122 |
 | The last bell ring | 30.00% | ~118 |
-| Better cooking at home | 29.00% | ~114 |
-| The only right decision | 29.00% | ~114 |
-| Silver’s past | 28.00% | ~110 |
+| Better cooking at home | 29.00% | ~115 |
+| The only right decision | 29.00% | ~115 |
+| Silver’s past | 28.00% | ~111 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 394 (Ranked 340)  
+Progressed: 395 (Ranked 340)  
 Completed: 9 (2.28%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,4 +166,4 @@ Completed: 9 (2.28%) (Ranked 126)
 | 2023-12-12 | 364 | 9 |
 | 2023-12-14 | 379 | 9 |
 | 2023-12-15 | 389 | 9 |
-| 2023-12-16 | 394 | 9 |
+| 2023-12-16 | 395 | 9 |

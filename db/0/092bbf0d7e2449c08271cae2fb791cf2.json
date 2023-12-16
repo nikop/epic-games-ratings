@@ -2,10 +2,10 @@
   "ID": "092bbf0d7e2449c08271cae2fb791cf2",
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
-  "Ranking_EOS_Progress": 446,
-  "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_Progress": 444,
+  "Ranking_EOS_Completed": 177,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111,
+  "EOS_Progressed": 114,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.9,
+  "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
     {
       "Time": "2023-11-01T08:06:18.9626896+00:00",
@@ -384,6 +384,11 @@
       "Time": "2023-12-16T10:03:18.1247776+00:00",
       "NumProgressed": 111,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T11:03:50.4869004+00:00",
+      "NumProgressed": 114,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -396,15 +401,15 @@
       "Name": "Good Morning",
       "Percentage": 13,
       "XP": 145,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 145,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "ach3",
@@ -426,9 +431,9 @@
       "ID": "ach5",
       "SetID": "796kfpa",
       "Name": "Cloudbuster",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 140,
-      "UsersEstimate": 6
+      "UsersEstimate": 5
     },
     {
       "ID": "ach6",
@@ -444,21 +449,21 @@
       "Name": "Snail Racing Champion",
       "Percentage": 11,
       "XP": 145,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 111,
+      "Progressed": 114,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:03:18.1247772+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:03:50.4868999+00:00",
   "LastUpdate_AppInfo": "2023-12-13T18:57:12.2683005+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:57:14.1732708+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:03:18.1248156+00:00"
+  "LastUpdate_Ratings": "2023-12-16T10:57:14.5321606+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:03:50.4869089+00:00"
 }

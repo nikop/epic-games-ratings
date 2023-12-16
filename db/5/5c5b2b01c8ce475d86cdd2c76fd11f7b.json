@@ -226,9 +226,9 @@
       "ID": "NEW_ACHIEVEMENT_1_22",
       "SetID": "7on801h",
       "Name": "Humanity \u002B",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_23",
@@ -458,9 +458,9 @@
       "ID": "NEW_ACHIEVEMENT_2_2",
       "SetID": "7on801h",
       "Name": "Samizdat",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_20",
@@ -775,8 +775,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-16T10:04:13.8983317+00:00",
+  "LastChanged_Achievements": "2023-12-16T11:05:10.455338+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184844+00:00",
-  "LastUpdate_Ratings": "2023-12-16T09:58:19.3324815+00:00",
-  "LastUpdate_Achievements": "2023-12-16T10:04:13.8984684+00:00"
+  "LastUpdate_Ratings": "2023-12-16T10:58:53.2055885+00:00",
+  "LastUpdate_Achievements": "2023-12-16T11:05:10.4554232+00:00"
 }

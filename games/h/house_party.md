@@ -56,6 +56,7 @@ Number of Ratings: 177  (23.09.2022)
 | Ronin | 0.20% | ~13 |
 | A Striking Resemblance | 0.20% | ~13 |
 | Howz It Goin Dood | 0.20% | ~13 |
+| La Coochadora | 0.20% | ~13 |
 | Snapped | 0.20% | ~13 |
 | Against All Odds | 0.10% | ~7 |
 | Casabrova | 0.10% | ~7 |
@@ -73,10 +74,9 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.10% | ~4 |
 | The Crush(es) | 0.10% | ~7 |
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
-| La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,651 (Ranked 187)  
+Progressed: 6,653 (Ranked 187)  
 Completed: 3 (0.05%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 3 (0.05%) (Ranked 326)
 | 2023-12-13 | 6,573 | 3 |
 | 2023-12-14 | 6,605 | 3 |
 | 2023-12-15 | 6,637 | 3 |
-| 2023-12-16 | 6,651 | 3 |
+| 2023-12-16 | 6,653 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
