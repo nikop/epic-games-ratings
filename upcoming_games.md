@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Burst Hero](games/c/c923cc91073d4405bd8d2f356066bfbd.md) | 2023-12-17 | - |  | - | - |
 | [Indoorlands](games/e/e920c823522745c88a85e396965afc62.md) | 2023-12-17 | 31 (1,000 XP) | 0 | - | - |
 | [Virtual Rides 3](games/1/116f71b2da434337bba6498e0ea61d9c.md) | 2023-12-17 | 10 (1,000 XP) | 0 | - | - |
 | [Don't Turn Back](games/a/afa43d028dd1408189c2cb83f846fbd6.md) | 2023-12-18 | - |  | - | - |
@@ -10,6 +9,7 @@
 | [Solitaire Game Halloween](games/7/73adb053be4c415eab36d6b5271bf594.md) | 2023-12-18 | - |  | - | - |
 | [Argonauts Agency 6: Missing Daughter](games/1/19aea2ba9543461d8848f1d5ea27fce2.md) | 2023-12-20 | - |  | - | - |
 | [Crown of the Empire 2: Around the World Collectors Edition](games/8/88c5b728fb5443d8bb5672182b04af68.md) | 2023-12-21 | - |  | - | - |
+| [Burst Hero](games/c/c923cc91073d4405bd8d2f356066bfbd.md) | 2023-12-23 | - |  | - | - |
 | [Railbreak](games/b/b8877a4db3f04eec83b7410484e80473.md) | 2023-12-23 | 25 (1,000 XP) | 3 | - | - |
 | [Block Buster Billy](games/d/d86c7223fb3c48fba87a2ffa0c2f5103.md) | 2023-12-24 | - |  | - | - |
 | [NEVERMORE](games/4/46f62203901b4742bf782ac8c4fe9356.md) | 2023-12-24 | - |  | - | - |
@@ -154,7 +154,7 @@
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
 | [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 398,046 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 398,048 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
