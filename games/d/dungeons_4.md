@@ -35,9 +35,9 @@
 | The Duel | 34.00% | ~195 |
 | Unstoppable Horde | 33.00% | ~189 |
 | Master of the Undead | 33.00% | ~189 |
-| If Looks Could Kill | 32.00% | ~184 |
+| If Looks Could Kill | 33.00% | ~189 |
+| The Finitude Drill | 30.00% | ~172 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~166 |
-| The Finitude Drill | 29.00% | ~166 |
 | Forbidden Knowledge | 28.00% | ~161 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~155 |
 | Doom Hill | 27.00% | ~155 |
@@ -52,7 +52,7 @@
 | Rubble and Ashes | 19.00% | ~109 |
 | The Last Stand - This Time For Real! | 19.00% | ~109 |
 | My Little Torture Chamber | 18.00% | ~103 |
-| Lavalumps on Ice! | 17.00% | ~98 |
+| Lavalumps on Ice! | 18.00% | ~103 |
 | To the Max! | 17.00% | ~98 |
 | To Infinity And Beyond! | 17.00% | ~98 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~92 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 9.00% | ~52 |
 | I Don't Need Any Help | 8.00% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 574 (Ranked 312)  
+Progressed: 574 (Ranked 313)  
 Completed: 17 (2.96%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |

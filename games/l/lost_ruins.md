@@ -15,10 +15,10 @@
 | Iconoclasm | 15.00% | ~81 |
 | Reincarnation | 15.00% | ~81 |
 | Librarian | 13.00% | ~70 |
-| Gladiator | 12.00% | ~64 |
-| Lumberjack | 12.00% | ~64 |
-| Orcs Must Die! | 12.00% | ~64 |
-| The End | 12.00% | ~64 |
+| Gladiator | 12.00% | ~65 |
+| Lumberjack | 12.00% | ~65 |
+| Orcs Must Die! | 12.00% | ~65 |
+| The End | 12.00% | ~65 |
 | Troubleshooter | 11.00% | ~59 |
 | Money Swag | 8.00% | ~43 |
 | Oops | 7.00% | ~38 |
@@ -26,7 +26,7 @@
 | Treasure Hunter | 7.00% | ~38 |
 | Explorer | 6.00% | ~32 |
 | Trio | 6.00% | ~32 |
-| Pyromancer | 4.00% | ~21 |
+| Pyromancer | 4.00% | ~22 |
 | Arrive Home | 3.00% | ~16 |
 | Holy Knight | 3.00% | ~16 |
 | Marksman | 3.00% | ~16 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.40% | ~2 |
 | Hardboiled | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537 (Ranked 320)  
+Progressed: 538 (Ranked 319)  
 Completed: 1 (0.19%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 1 (0.19%) (Ranked 267)
 | 2023-12-13 | 505 | 1 |
 | 2023-12-14 | 517 | 1 |
 | 2023-12-15 | 529 | 1 |
-| 2023-12-16 | 537 | 1 |
+| 2023-12-16 | 538 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

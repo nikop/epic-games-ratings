@@ -26,7 +26,6 @@ Rating: 4.62 (Ranked 370)
 | Fiery Friend | 2.00% | ~115 |
 | Impenetrable Fortress | 2.00% | ~115 |
 | Intimidation Tactics | 2.00% | ~115 |
-| Here be Dragons | 2.00% | ~115 |
 | Tipping the Scales | 2.00% | ~115 |
 | Freed Lands of Manuhari | 2.00% | ~115 |
 | Sehiran Oasis | 2.00% | ~115 |
@@ -36,6 +35,7 @@ Rating: 4.62 (Ranked 370)
 | The Creator | 1.00% | ~57 |
 | Crimson Caldera | 1.00% | ~57 |
 | Preparation Is Everything | 1.00% | ~57 |
+| Here be Dragons | 1.00% | ~57 |
 | Blood of the Dragon | 1.00% | ~57 |
 | Mighty Hoard | 1.00% | ~57 |
 | Prometheus Avenged | 1.00% | ~57 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 370)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,732 (Ranked 190)  
+Progressed: 5,737 (Ranked 190)  
 Completed: 7 (0.12%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 7 (0.12%) (Ranked 288)
 | 2023-12-13 | 5,598 | 7 |
 | 2023-12-14 | 5,643 | 7 |
 | 2023-12-15 | 5,702 | 7 |
-| 2023-12-16 | 5,732 | 7 |
+| 2023-12-16 | 5,737 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 479)  
 Sum: 93 (Ranked 460)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1372,
+  "EOS_Progressed": 1373,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3227,6 +3227,11 @@
       "Time": "2023-12-16T14:05:31.4027807+00:00",
       "NumProgressed": 1372,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T15:04:56.7629973+00:00",
+      "NumProgressed": 1373,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3325,9 +3330,9 @@
       "ID": "ML_ACHIEVEMENT_12",
       "SetID": "5k00jcd",
       "Name": "Immortal",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -3606,20 +3611,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1372,
+      "Progressed": 1373,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1040,
+      "Progressed": 1041,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:05:31.4027803+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:04:56.7629969+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:58:28.490422+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:05:31.4028189+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:58:03.5690729+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:04:56.763045+00:00"
 }

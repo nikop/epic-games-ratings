@@ -5,10 +5,10 @@
   "Ranking_Rating": 962,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 521,
-  "Ranking_EOS_Progress": 119,
+  "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -487,9 +487,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 44042,
+  "EOS_Progressed": 44054,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 570,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15307,6 +15307,11 @@
       "Time": "2023-12-16T14:08:42.2952843+00:00",
       "NumProgressed": 44042,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T15:08:42.0340357+00:00",
+      "NumProgressed": 44054,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15366,7 +15371,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4404
+      "UsersEstimate": 4405
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -15382,7 +15387,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -15414,7 +15419,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -15422,7 +15427,7 @@
       "Name": "The Truth Will Out",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -15430,7 +15435,7 @@
       "Name": "Breaking Point",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "CHAPTER_10_CLEAR",
@@ -15438,7 +15443,7 @@
       "Name": "None the Wiser",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "CHAPTER_11_CLEAR",
@@ -15446,7 +15451,7 @@
       "Name": "Forspoken",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -15470,7 +15475,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3084
     },
     {
       "ID": "CUFF_ATTACK",
@@ -15478,7 +15483,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -15494,7 +15499,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "JUSTCOUNTER",
@@ -15534,7 +15539,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -15614,7 +15619,7 @@
       "Name": "Pilgrimage: Novice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "PARKOUR_DISTANCE",
@@ -15622,7 +15627,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "PARKOUR_TIME",
@@ -15654,7 +15659,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3964
+      "UsersEstimate": 3965
     },
     {
       "ID": "SPRING_ALL",
@@ -15741,22 +15746,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44042,
+      "Progressed": 44054,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8879,
-      "Completed": 8879
+      "Progressed": 8891,
+      "Completed": 8891
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-16T02:18:37.9301013+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:08:42.2952841+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:08:42.0340353+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:12.2339808+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:58:23.8158125+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:08:42.2953682+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:57:59.7563452+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:08:42.0341182+00:00"
 }

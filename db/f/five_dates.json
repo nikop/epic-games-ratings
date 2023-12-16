@@ -4,8 +4,8 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 753,
+  "EOS_Progressed": 754,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.46,
   "EosHistory": [
@@ -2010,6 +2010,11 @@
       "Time": "2023-12-16T14:09:49.6379585+00:00",
       "NumProgressed": 753,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-16T15:09:41.9046939+00:00",
+      "NumProgressed": 754,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -2019,9 +2024,9 @@
       "ID": "all_set_up",
       "SetID": "c4ipj3h",
       "Name": "All Set Up",
-      "Percentage": 99,
+      "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 745
+      "UsersEstimate": 739
     },
     {
       "ID": "booty_call",
@@ -2029,7 +2034,7 @@
       "Name": "Booty Call",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "crash_and_burn",
@@ -2045,7 +2050,7 @@
       "Name": "Digital Casanova",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "hold_my_beer",
@@ -2053,7 +2058,7 @@
       "Name": "Hold my Beer",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -2077,7 +2082,7 @@
       "Name": "Light Sleepers",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "not_alone",
@@ -2085,7 +2090,7 @@
       "Name": "Not Alone",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "nueva_beginnings",
@@ -2131,16 +2136,16 @@
       "ID": "we_go_again",
       "SetID": "c4ipj3h",
       "Name": "We Go Again",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 226
+      "UsersEstimate": 234
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 753,
+      "Progressed": 754,
       "Completed": 11
     }
   ],
@@ -2148,8 +2153,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:09:49.6379583+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:09:41.9046935+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:00.3976276+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:59:16.0081531+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:09:49.6379727+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:58:45.1742959+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:09:41.9047174+00:00"
 }

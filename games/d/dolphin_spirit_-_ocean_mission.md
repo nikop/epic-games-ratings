@@ -17,6 +17,7 @@
 | Pro Photographer | 5.00% | ~1 |
 | Animal reporter | 5.00% | ~1 |
 | Recycling expert | 5.00% | ~1 |
+| Island gardian angel | 5.00% | ~1 |
 | Rescuer | 5.00% | ~1 |
 | Legend of the association | 5.00% | ~1 |
 | Picture of the bay | 5.00% | ~1 |
@@ -33,11 +34,10 @@
 | Island cleanup | 0.00% | ~0 |
 | Let's get started | 0.00% | ~0 |
 | Island protector | 0.00% | ~0 |
-| Island gardian angel | 0.00% | ~0 |
 | Picture of the creek | 0.00% | ~0 |
 | Well of science | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22 (Ranked 577)  
+Progressed: 22 (Ranked 578)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |

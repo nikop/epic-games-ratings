@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1339,7 +1339,7 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259396,
+  "EOS_Progressed": 259399,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
@@ -24264,6 +24264,11 @@
       "Time": "2023-12-16T14:05:27.4693263+00:00",
       "NumProgressed": 259396,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T15:04:53.5628182+00:00",
+      "NumProgressed": 259399,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -24323,7 +24328,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80413
+      "UsersEstimate": 80414
     },
     {
       "ID": "BackHomeNTimes",
@@ -24563,7 +24568,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59661
+      "UsersEstimate": 59662
     },
     {
       "ID": "KillOthers2",
@@ -24722,7 +24727,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259396,
+      "Progressed": 259399,
       "Completed": 3
     }
   ],
@@ -24730,8 +24735,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-16T05:02:52.416752+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:05:27.469326+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:04:53.5628179+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:52.9725586+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:57:13.2411185+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:05:27.4694604+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:57:00.197696+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:04:53.5629356+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "7b8963f6857041fd97a4a23845eb113d",
   "Name": "Daydream. Forgotten Sorrow",
   "ProductSlug": "daydream-forgotten-sorrow-6025c9",
-  "Ranking_EOS_Progress": 523,
+  "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 479,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 47,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -244,6 +244,11 @@
       "Time": "2023-12-10T16:09:30.3708379+00:00",
       "NumProgressed": 46,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T15:09:42.7545178+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -253,7 +258,7 @@
       "ID": "CH1_FATHER",
       "SetID": "6d348d1",
       "Name": "What a Mess!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 70,
       "UsersEstimate": 3
     },
@@ -261,7 +266,7 @@
       "ID": "CH1_FIRST",
       "SetID": "6d348d1",
       "Name": "On a Journey!",
-      "Percentage": 76,
+      "Percentage": 74,
       "XP": 70,
       "UsersEstimate": 35
     },
@@ -309,7 +314,7 @@
       "ID": "CH3_FLOWER",
       "SetID": "6d348d1",
       "Name": "The Flower",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 70,
       "UsersEstimate": 10
     },
@@ -366,14 +371,14 @@
     {
       "ID": "6d348d1",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T16:57:07.6621394+00:00",
   "FirstSeenAchievements": "2023-06-01T12:01:12.0964223+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:09:50.5047676+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:09:42.7545176+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:58.4955869+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:00:01.246588+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:09:50.5047787+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:59:21.7996754+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:09:42.7545271+00:00"
 }

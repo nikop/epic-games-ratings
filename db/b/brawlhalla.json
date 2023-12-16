@@ -2,13 +2,13 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
-  "Ranking_Rating": 440,
+  "Ranking_Rating": 421,
   "Ranking_Popularity": 202,
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 518,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 520,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -9687,10 +9687,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 4803,
       "NumberOfAwardsMax": 585
+    },
+    {
+      "Time": "2023-12-16T14:59:01.998131+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 4807,
+      "NumberOfAwardsMax": 585
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4803,
+  "NumberOfAwards": 4807,
   "NumberOfAwardsMax": 585,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -9752,7 +9758,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 499
+      "Count": 503
     },
     {
       "Text": "This game has a Competitive Community",
@@ -9779,8 +9785,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-12-16T12:00:28.255131+00:00",
+  "LastChanged": "2023-12-16T14:59:01.9981308+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:09.4984797+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:59:36.2326725+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:09:37.778179+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:59:01.9981313+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:09:31.3687803+00:00"
 }

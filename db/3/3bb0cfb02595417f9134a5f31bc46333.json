@@ -4,8 +4,8 @@
   "ProductSlug": "retooled-6184a1",
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 518,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 520,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2024-02-29T00:00:00+00:00",
     "PcReleaseDate": "2023-09-24T22:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-15T11:57:05.4773631+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:57:44.5383198+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:04:01.5493753+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:57:24.8521104+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:03:41.945918+00:00"
 }

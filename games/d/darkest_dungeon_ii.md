@@ -6,12 +6,12 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 7.00% | ~180 |
+| Malpractice Assurance | 7.00% | ~181 |
 | Lost and Found | 4.00% | ~103 |
-| This Belongs in a Museum | 3.00% | ~3,831 |
-| Autodidact | 3.00% | ~3,831 |
-| This guy... again? | 3.00% | ~77 |
-| Bloody Graduation | 3.00% | ~77 |
+| This Belongs in a Museum | 3.00% | ~3,832 |
+| Autodidact | 3.00% | ~3,832 |
+| This guy... again? | 3.00% | ~78 |
+| Bloody Graduation | 3.00% | ~78 |
 | Serenity Now! | 2.00% | ~2,554 |
 | Not Today! | 2.00% | ~2,554 |
 | Creep and Sleep | 2.00% | ~2,554 |
@@ -19,30 +19,30 @@ Number of Ratings: 7,767  (23.09.2022)
 | Catch and Decease | 2.00% | ~2,554 |
 | Overdue Notice | 2.00% | ~2,554 |
 | Escape from the Black Hole | 2.00% | ~2,554 |
+| Rush Hour | 2.00% | ~2,554 |
 | To Grandmother's House | 2.00% | ~2,554 |
-| Ploughshares to Swords | 2.00% | ~51 |
+| Ploughshares to Swords | 2.00% | ~52 |
+| Friends 'Til the End | 2.00% | ~52 |
 | Don't Make Me Turn This Coach Around | 1.00% | ~1,277 |
 | It Rings a Bell | 1.00% | ~1,277 |
 | Dissector | 1.00% | ~1,277 |
+| Banishment | 1.00% | ~1,277 |
 | Deprogramming | 1.00% | ~1,277 |
 | It Happens | 1.00% | ~1,277 |
 | Spelunker | 1.00% | ~1,277 |
-| Rush Hour | 1.00% | ~1,277 |
 | Merry Time | 1.00% | ~1,277 |
 | Harvest Festival | 1.00% | ~1,277 |
 | Whale | 1.00% | ~1,277 |
 | A Place to Lay Your Head | 1.00% | ~1,277 |
 | FNG | 1.00% | ~1,277 |
 | Nope | 1.00% | ~1,277 |
-| Friends 'Til the End | 1.00% | ~26 |
+| Road Trip | 1.00% | ~1,277 |
 | Unfulfilled Desires | 0.90% | ~1,149 |
-| Banishment | 0.90% | ~1,149 |
 | Now Stay Dead | 0.90% | ~1,149 |
 | Reverse Banditry | 0.90% | ~1,149 |
 | Ramble On | 0.90% | ~1,149 |
 | Worldly Traveller | 0.90% | ~1,149 |
 | Unshackled | 0.90% | ~1,149 |
-| Road Trip | 0.90% | ~1,149 |
 | Resurrection | 0.80% | ~1,022 |
 | Unleash Hell | 0.80% | ~1,022 |
 | Funny Guy | 0.80% | ~1,022 |
@@ -51,15 +51,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Boxcar Kid | 0.80% | ~1,022 |
 | Predator | 0.80% | ~1,022 |
 | A Clear Conscience | 0.80% | ~1,022 |
+| Utopia | 0.80% | ~1,022 |
 | When You Want Something Done Right | 0.70% | ~894 |
-| Utopia | 0.70% | ~894 |
 | Hope Rekindled | 0.60% | ~766 |
 | Ichthyophobic | 0.60% | ~766 |
 | No More Mouths to Feed | 0.60% | ~766 |
-| Slap on the Wrist | 0.60% | ~15 |
-| This Looks Familiar | 0.50% | ~638 |
-| Hot Air | 0.50% | ~638 |
-| Eyes Up | 0.50% | ~638 |
+| Slap on the Wrist | 0.60% | ~16 |
+| This Looks Familiar | 0.50% | ~639 |
+| Hot Air | 0.50% | ~639 |
+| Eyes Up | 0.50% | ~639 |
 | For Old Time' Sake | 0.50% | ~13 |
 | Handled | 0.40% | ~511 |
 | Body of Work | 0.40% | ~511 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 | On This Long Road, We Found Redemption | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,700 (Ranked 84)  
+Progressed: 127,718 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,10 +316,10 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
-| 2023-12-16 | 127,700 | 3 |
+| 2023-12-16 | 127,718 | 3 |
 ## Awards
 Max (Character Customization): 7,744  (Ranked 51)  
-Sum: 20,563 (Ranked 58)  
+Sum: 20,571 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -327,8 +327,8 @@ Diff (max vs sum): -7
 | This game has Diverse Characters | 1,695 |
 | This game has Challenging Combat | 1,592 |
 | This game is Highly Recommended | 1,525 |
+| This game has Amazing Characters | 1,461 |
 | This game is Extremely Fun | 1,457 |
-| This game has Amazing Characters | 1,453 |
 | This game has Amazing Storytelling | 1,378 |
 | This game has Unique Visuals | 1,359 |
 | This game has Quickly Understood Controls | 1,346 |
@@ -660,4 +660,4 @@ Diff (max vs sum): -7
 | 2023-12-13 | 4.68 | - | 7,665 | 20,333 |
 | 2023-12-14 | 4.68 | - | 7,689 | 20,427 |
 | 2023-12-15 | 4.68 | - | 7,718 | 20,517 |
-| 2023-12-16 | 4.68 | - | 7,744 | 20,563 |
+| 2023-12-16 | 4.68 | - | 7,744 | 20,571 |

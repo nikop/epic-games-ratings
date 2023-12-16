@@ -3688,9 +3688,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241133,
+  "EOS_Progressed": 241139,
   "EOS_Completed": 299,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -28413,6 +28413,11 @@
       "Time": "2023-12-16T14:10:08.8403689+00:00",
       "NumProgressed": 241133,
       "NumCompleted": 299
+    },
+    {
+      "Time": "2023-12-16T15:09:58.9344151+00:00",
+      "NumProgressed": 241139,
+      "NumCompleted": 299
     }
   ],
   "TotalAchievements": 138,
@@ -28582,9 +28587,9 @@
       "ID": "DIEBOSS",
       "SetID": "5l8oe0h",
       "Name": "To The Death!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 965
     },
     {
       "ID": "DIEHARD",
@@ -29527,13 +29532,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241133,
+      "Progressed": 241139,
       "Completed": 299
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2613,
+      "Progressed": 2619,
       "Completed": 406
     }
   ],
@@ -29541,8 +29546,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-16T10:57:08.4508717+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:10:08.8403687+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:09:58.9344149+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:57:17.6512188+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:10:08.8405978+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:57:03.8880891+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:09:58.9346494+00:00"
 }

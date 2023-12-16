@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,581 |
-| Off to a good start | 66.00% | ~1,172 |
-| Do... or do not. There is no try | 51.00% | ~906 |
-| A good blaster at your side | 29.00% | ~515 |
-| I suggest a new strategy | 19.00% | ~337 |
+| New Recruit | 89.00% | ~1,582 |
+| Off to a good start | 66.00% | ~1,173 |
+| Do... or do not. There is no try | 51.00% | ~907 |
+| A good blaster at your side | 29.00% | ~516 |
+| I suggest a new strategy | 19.00% | ~338 |
 | Scrap collector | 17.00% | ~302 |
 | All right, I'll give it a try | 17.00% | ~302 |
 | Great shot, kid! | 17.00% | ~302 |
@@ -58,8 +58,8 @@
 | No such thing as luck | 0.70% | ~12 |
 | Do we take prisoners? | 0.70% | ~12 |
 | I’ll take that bet | 0.60% | ~11 |
-| Greed can be a very powerful ally | 0.50% | ~9 |
 | Stay on target | 0.40% | ~7 |
+| Greed can be a very powerful ally | 0.40% | ~7 |
 | in a galaxy far, far away.... | 0.30% | ~5 |
 | Don't get cocky | 0.30% | ~5 |
 | Master | 0.30% | ~5 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~4 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,776 (Ranked 238)  
+Progressed: 1,778 (Ranked 238)  
 Completed: 1 (0.06%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 1 (0.06%) (Ranked 318)
 | 2023-12-13 | 1,698 | 1 |
 | 2023-12-14 | 1,726 | 1 |
 | 2023-12-15 | 1,755 | 1 |
-| 2023-12-16 | 1,776 | 1 |
+| 2023-12-16 | 1,778 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

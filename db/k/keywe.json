@@ -2,10 +2,10 @@
   "ID": "2f85e4b21b8b459fa78a34e59ccac2a2",
   "Name": "KeyWe",
   "ProductSlug": "keywe-c3a70e",
-  "Ranking_EOS_Progress": 487,
+  "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
     "PcReleaseDate": "2021-08-31T00:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74,
+  "EOS_Progressed": 75,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -345,6 +345,11 @@
       "Time": "2023-12-16T14:08:27.4665569+00:00",
       "NumProgressed": 74,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T15:08:29.0774156+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:04:51.255408+00:00",
@@ -403,7 +408,7 @@
       "ID": "beatOwnScore",
       "SetID": "cfe0fhi",
       "Name": "Practice Makes Postmasters",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
       "UsersEstimate": 39
     },
@@ -419,7 +424,7 @@
       "ID": "completeGame",
       "SetID": "cfe0fhi",
       "Name": "Kiwinter Kiwonderland",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 10
     },
@@ -429,13 +434,13 @@
       "Name": "You\u0027re Hired",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "completeSummer",
       "SetID": "cfe0fhi",
       "Name": "Fun in the Bungalow Basin Sun",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 25,
       "UsersEstimate": 33
     },
@@ -443,7 +448,7 @@
       "ID": "completeTheFirstWeek",
       "SetID": "cfe0fhi",
       "Name": "Learn the Ropes",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 5,
       "UsersEstimate": 57
     },
@@ -451,7 +456,7 @@
       "ID": "findFirstCollectible",
       "SetID": "cfe0fhi",
       "Name": "A Startling Discovery",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
       "UsersEstimate": 31
     },
@@ -516,13 +521,13 @@
     {
       "ID": "cfe0fhi",
       "IsBase": true,
-      "Progressed": 74,
+      "Progressed": 75,
       "Completed": 0
     },
     {
       "ID": "cfj6lld",
       "IsBase": false,
-      "Progressed": 74,
+      "Progressed": 75,
       "Completed": 0
     }
   ],
@@ -530,8 +535,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:08:27.4665565+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:08:29.0774151+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:17.3027828+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:57:36.3091246+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:08:27.4665696+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:57:18.9964302+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:08:29.0774292+00:00"
 }

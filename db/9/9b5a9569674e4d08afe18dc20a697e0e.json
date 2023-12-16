@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -724,9 +724,9 @@
       "ID": "MOIST",
       "SetID": "40o4f14",
       "Name": "Moist",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "MOUNTAINEER",
@@ -772,17 +772,17 @@
       "ID": "SNEAKY",
       "SetID": "40o4f14",
       "Name": "Sneaky",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "SOUL",
       "SetID": "40o4f14",
       "Name": "A restless soul",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "WASHING",
@@ -819,8 +819,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:08:35.9054826+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:08:36.468157+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:18:55.6989256+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:59:51.0344113+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:08:35.9055028+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:59:14.2475844+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:08:36.4681734+00:00"
 }

@@ -5,10 +5,10 @@ Rating: 4.21 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 3.00% | ~9,892 |
-| The touch of Chaos | 3.00% | ~9,892 |
-| A powerful aura was here | 2.00% | ~6,595 |
-| Let's raise the stakes!! | 1.00% | ~3,297 |
+| May the Torchbearer light our way | 3.00% | ~9,893 |
+| The touch of Chaos | 3.00% | ~9,893 |
+| A powerful aura was here | 2.00% | ~6,596 |
+| Let's raise the stakes!! | 1.00% | ~3,298 |
 | Rumors are true | 0.80% | ~2,638 |
 | Your wounds… They are healing so fast! | 0.80% | ~2,638 |
 | We'll be careful | 0.70% | ~2,308 |
@@ -25,8 +25,8 @@ Rating: 4.21 (Ranked 919)
 | We can choose to fight | 0.40% | ~1,319 |
 | Their fate is sealed | 0.30% | ~989 |
 | I took a risk | 0.30% | ~989 |
-| Not even from this world | 0.20% | ~659 |
-| Chaos be damned! | 0.20% | ~659 |
+| Not even from this world | 0.20% | ~660 |
+| Chaos be damned! | 0.20% | ~660 |
 | No damsels in distress | 0.10% | ~330 |
 | The immortal is bound to reborn | 0.10% | ~330 |
 | A legend among Chimeras | 0.10% | ~330 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 919)
 | Something... unnatural | 0.10% | ~330 |
 | We strike as one | 0.10% | ~330 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 329,744 (Ranked 52)  
+Progressed: 329,779 (Ranked 52)  
 Completed: 5 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 5 (0.00%) (Ranked 377)
 | 2023-12-13 | 328,382 | 5 |
 | 2023-12-14 | 328,907 | 5 |
 | 2023-12-15 | 329,387 | 5 |
-| 2023-12-16 | 329,744 | 5 |
+| 2023-12-16 | 329,779 | 5 |
 ## Awards
 Max (Great Boss Battles): 69  (Ranked 409)  
 Sum: 69 (Ranked 477)  

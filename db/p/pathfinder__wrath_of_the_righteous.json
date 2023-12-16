@@ -5,10 +5,10 @@
   "Ranking_Rating": 129,
   "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 122,
-  "Ranking_EOS_Progress": 164,
+  "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4613,9 +4613,9 @@
       "Count": 401
     }
   ],
-  "EOS_Progressed": 12387,
+  "EOS_Progressed": 12391,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17063,6 +17063,11 @@
       "Time": "2023-12-16T14:09:59.8713949+00:00",
       "NumProgressed": 12387,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T15:09:51.0193723+00:00",
+      "NumProgressed": 12391,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17074,7 +17079,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3344
+      "UsersEstimate": 3346
     },
     {
       "ID": "02_BurningCity",
@@ -17090,7 +17095,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1735
     },
     {
       "ID": "04_FithCrusade",
@@ -17114,7 +17119,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "07_FinalThreshold",
@@ -17146,7 +17151,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "11_PathOfAeon",
@@ -17202,7 +17207,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "18_MythicChoices",
@@ -17210,7 +17215,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "19_EqualToAroden",
@@ -17258,7 +17263,7 @@
       "Name": "The Legacy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "25_MasterfulDispell",
@@ -17274,7 +17279,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "28_GreatUpstart",
@@ -17306,7 +17311,7 @@
       "Name": "Divide and Rule",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "32_MythicReinforcements",
@@ -17314,7 +17319,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "33_DefendersHeart",
@@ -17322,7 +17327,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -17378,7 +17383,7 @@
       "Name": "End of Eternal Guard",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "41_PlayfulMood",
@@ -17418,7 +17423,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "46_AllPathsOpen",
@@ -17450,7 +17455,7 @@
       "Name": "A Flame",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -17458,7 +17463,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -17498,7 +17503,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "56_GetToad",
@@ -17506,7 +17511,7 @@
       "Name": "Get the Toad",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "57_PathOfDevil",
@@ -18001,21 +18006,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11169,
+      "Progressed": 11173,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12387,
+      "Progressed": 12391,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-16T13:59:29.1044909+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:09:59.8713944+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:09:51.019372+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:59:29.1044916+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:09:59.8715466+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:58:55.9790013+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:09:51.0195394+00:00"
 }

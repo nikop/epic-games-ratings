@@ -2,10 +2,10 @@
   "ID": "aa192fc2c63f4db5b9faf193acc807e1",
   "Name": "Creepy Tale",
   "ProductSlug": "creepy-tale-058ebd",
-  "Ranking_EOS_Progress": 444,
+  "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115,
+  "EOS_Progressed": 116,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.96,
+  "EOS_Completed_Percentage": 6.9,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -539,6 +539,11 @@
       "Time": "2023-12-16T12:10:53.6221877+00:00",
       "NumProgressed": 115,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-16T15:09:48.8739633+00:00",
+      "NumProgressed": 116,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -559,7 +564,7 @@
       "Name": "Intuition",
       "Percentage": 22,
       "XP": 75,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "creepytaleach11",
@@ -583,7 +588,7 @@
       "Name": "True fisherman",
       "Percentage": 16,
       "XP": 80,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "creepytaleach2",
@@ -591,7 +596,7 @@
       "Name": "Naivety",
       "Percentage": 35,
       "XP": 75,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "creepytaleach3",
@@ -605,7 +610,7 @@
       "ID": "creepytaleach4",
       "SetID": "bnif31p",
       "Name": "Dominance",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 80,
       "UsersEstimate": 26
     },
@@ -645,23 +650,23 @@
       "ID": "creepytaleach9",
       "SetID": "bnif31p",
       "Name": "Idler",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 33
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 115,
+      "Progressed": 116,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:09:57.7167564+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:09:48.8739631+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.952085+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:58:22.7597309+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:09:57.7167741+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:57:58.7083285+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:09:48.873977+00:00"
 }

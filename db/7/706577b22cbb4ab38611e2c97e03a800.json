@@ -2,10 +2,10 @@
   "ID": "706577b22cbb4ab38611e2c97e03a800",
   "Name": "Geometric Sniper - Z",
   "ProductSlug": "geometric-sniper-z-ef97ef",
-  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-08T17:00:00+00:00",
     "PcReleaseDate": "2022-12-19T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 158,
+  "EOS_Progressed": 159,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -579,6 +579,11 @@
       "Time": "2023-12-15T20:05:12.2933655+00:00",
       "NumProgressed": 158,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T15:04:29.4899881+00:00",
+      "NumProgressed": 159,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-28T19:04:41.1727076+00:00",
@@ -597,9 +602,9 @@
       "ID": "ACHIEVEMENT_AV_02",
       "SetID": "b50kim2",
       "Name": "MISSION 02",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_AV_03",
@@ -990,14 +995,14 @@
     {
       "ID": "b50kim2",
       "IsBase": true,
-      "Progressed": 158,
+      "Progressed": 159,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:04:54.8543574+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:04:29.4899877+00:00",
   "LastUpdate_AppInfo": "2023-12-12T07:57:15.5904158+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:59:32.4926041+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:04:54.8543873+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:58:58.8499324+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:04:29.4900184+00:00"
 }

@@ -10,7 +10,7 @@
 | We will need a bigger wardrobe | 42.00% | ~38 |
 | Born to Win | 37.00% | ~34 |
 | Welcome to Seoul | 37.00% | ~34 |
-| Roller Race | 36.00% | ~33 |
+| Roller Race | 37.00% | ~34 |
 | Stilesville Hidden Style | 31.00% | ~28 |
 | Creating New Trends | 26.00% | ~24 |
 | Welcome to the The Stylin' Soiree | 24.00% | ~22 |

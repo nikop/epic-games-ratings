@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -422,9 +422,9 @@
       "ID": "MoneyCamouflage",
       "SetID": "7m88n8p",
       "Name": "Money Camouflage",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "MortuaryMarkup",
@@ -446,9 +446,9 @@
       "ID": "Professions",
       "SetID": "7m88n8p",
       "Name": "Different People Specialize in Different Professions",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ProtectedPower",
@@ -478,17 +478,17 @@
       "ID": "SeeingThrough",
       "SetID": "7m88n8p",
       "Name": "Seeing through Vanity",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 65,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TimeManagement",
       "SetID": "7m88n8p",
       "Name": "Master of Time Management",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "WaitingForSalvation",
@@ -517,8 +517,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:04:32.16389+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:04:09.7260318+00:00",
   "LastUpdate_AppInfo": "2023-12-11T13:04:38.7275932+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:00:14.9109035+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:04:32.1639101+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:59:33.0519212+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:04:09.7260474+00:00"
 }

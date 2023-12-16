@@ -2,7 +2,7 @@
   "ID": "63afbcc46a714796af53032c2b3ed4b3",
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
-  "Ranking_EOS_Progress": 312,
+  "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 59,
@@ -1904,9 +1904,9 @@
       "ID": "ach_main14run_completed",
       "SetID": "4hg22ll",
       "Name": "If Looks Could Kill",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 189
     },
     {
       "ID": "ach_main14run_mirroruses",
@@ -1928,9 +1928,9 @@
       "ID": "ach_main15drill_completed",
       "SetID": "4hg22ll",
       "Name": "The Finitude Drill",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 172
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -1960,9 +1960,9 @@
       "ID": "ach_main16ring_lavalings",
       "SetID": "4hg22ll",
       "Name": "Lavalumps on Ice!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_main16ring_spawners",
@@ -2079,8 +2079,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:06:44.3533319+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:06:01.4907741+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:58:10.3448953+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:06:44.3533751+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:57:48.1257608+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:06:01.4908173+00:00"
 }

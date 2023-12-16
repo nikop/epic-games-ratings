@@ -1,13 +1,13 @@
 # Haven
 [Store](https://store.epicgames.com/en-US/p/haven)  
 [View Rawdata](../../db/h/haven.json)  
-Rating: 4.75 (Ranked 150)  
+Rating: 4.75 (Ranked 149)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 77.00% | ~1,224 |
-| Lovebirds | 48.00% | ~763 |
+| Balding bloot! | 77.00% | ~1,225 |
+| Lovebirds | 48.00% | ~764 |
 | Life’s short, ride long | 44.00% | ~700 |
 | Hug therapy | 43.00% | ~684 |
 | Over my dead body | 39.00% | ~620 |
@@ -16,7 +16,7 @@ Number of Ratings: 38  (23.09.2022)
 | My little pony | 19.00% | ~302 |
 | A love supreme | 18.00% | ~286 |
 | In my shoes | 17.00% | ~270 |
-| Like new! | 15.00% | ~238 |
+| Like new! | 15.00% | ~239 |
 | Don't look back | 13.00% | ~207 |
 | Heartstrings | 13.00% | ~207 |
 | Head in the clouds | 13.00% | ~207 |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~32 |
 | À la carte | 2.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,590 (Ranked 245)  
+Progressed: 1,591 (Ranked 245)  
 Completed: 10 (0.63%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 10 (0.63%) (Ranked 191)
 | 2023-12-13 | 1,568 | 10 |
 | 2023-12-14 | 1,576 | 10 |
 | 2023-12-15 | 1,586 | 10 |
-| 2023-12-16 | 1,590 | 10 |
+| 2023-12-16 | 1,591 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

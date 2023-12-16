@@ -33,10 +33,10 @@
 | The adventurer | 5.00% | ~3 |
 | ECO mode | 5.00% | ~3 |
 | Vaccine fans | 5.00% | ~3 |
+| Blessed antennas | 3.00% | ~2 |
 | Blood Red Island | 3.00% | ~2 |
 | The scholar | 3.00% | ~2 |
 | Pulp! The Beyond | 3.00% | ~2 |
-| Blessed antennas | 2.00% | ~1 |
 | The beast in the Oval Office | 2.00% | ~1 |
 | Pulp! Weird Science | 2.00% | ~1 |
 | Pulp! Heart Throbs | 2.00% | ~1 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3416,
+  "EOS_Progressed": 3420,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4305,6 +4305,11 @@
       "Time": "2023-12-16T14:04:20.9402015+00:00",
       "NumProgressed": 3416,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T15:03:59.1247581+00:00",
+      "NumProgressed": 3420,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4332,7 +4337,7 @@
       "Name": "Look Over There!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "BloodAndIron",
@@ -4452,7 +4457,7 @@
       "Name": "Strike Force",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "HeavyExterminatusUse",
@@ -4484,7 +4489,7 @@
       "Name": "Not So Fast...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "Kills_Bleed",
@@ -4540,7 +4545,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "Kills_Streak",
@@ -4556,7 +4561,7 @@
       "Name": "Hands-On Research",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "KoramarCompleted",
@@ -4564,7 +4569,7 @@
       "Name": "An Ill Omen",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -4588,7 +4593,7 @@
       "Name": "Nemesis Master",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -4596,7 +4601,7 @@
       "Name": "Gunmaster",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "MasterOfTheForge",
@@ -4676,7 +4681,7 @@
       "Name": "Just a Scratch",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "NexusCompleted",
@@ -4746,9 +4751,9 @@
       "ID": "ReaperDefeated_Tentarus",
       "SetID": "3jha1np",
       "Name": "Death Comes For All",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     },
     {
       "ID": "SacristaCompleted",
@@ -4859,21 +4864,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3416,
+      "Progressed": 3420,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3416,
+      "Progressed": 3420,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:04:20.9402011+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:03:59.1247577+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:10.0749768+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:03:16.0912462+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:04:20.9402676+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:03:00.0594647+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:03:59.1248444+00:00"
 }

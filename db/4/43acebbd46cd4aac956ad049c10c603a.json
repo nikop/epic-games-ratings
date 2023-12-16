@@ -6,9 +6,9 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 272,
-  "Ranking_EOS_Completed": 296,
+  "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1005,
+  "EOS_Progressed": 1007,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2587,6 +2587,11 @@
       "Time": "2023-12-16T14:07:08.6140539+00:00",
       "NumProgressed": 1005,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T15:08:13.2096835+00:00",
+      "NumProgressed": 1007,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2639,7 +2644,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "BreakTheLoop",
@@ -2655,7 +2660,7 @@
       "Name": "Bridge Builder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ChasingTheLight",
@@ -2687,7 +2692,7 @@
       "Name": "Desolate Island",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Discovery",
@@ -2703,7 +2708,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "EcstaticTruth",
@@ -2751,7 +2756,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "HighPlain",
@@ -2775,7 +2780,7 @@
       "Name": "Just One Lap",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "LordOfTheFiles",
@@ -2783,7 +2788,7 @@
       "Name": "Lord of the Files",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "LostMarshes",
@@ -2791,7 +2796,7 @@
       "Name": "Lost Marshes",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "MistressOfRiddles",
@@ -2935,7 +2940,7 @@
       "Name": "Southern Coast",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "TeamSpirit",
@@ -2989,9 +2994,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 181
     },
     {
       "ID": "TheThiefOfFire",
@@ -3007,7 +3012,7 @@
       "Name": "The Word Endures",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "TouchGrass",
@@ -3055,7 +3060,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "YourBiggestFan",
@@ -3063,14 +3068,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1005,
+      "Progressed": 1007,
       "Completed": 1
     }
   ],
@@ -3078,8 +3083,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:07:08.6140534+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:08:13.2096831+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:57:44.2293661+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:07:08.6140971+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:57:24.5202379+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:08:13.2097386+00:00"
 }

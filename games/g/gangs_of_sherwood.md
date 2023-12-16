@@ -23,16 +23,16 @@
 | Ultra Rebel Instinct | 25.00% | ~19 |
 | First Aid | 24.00% | ~18 |
 | Savior | 23.00% | ~17 |
-| Merry Go Round | 21.00% | ~16 |
+| Merry Go Round | 23.00% | ~17 |
 | Take Action! | 20.00% | ~15 |
+| Ascending Will | 17.00% | ~13 |
 | Hidden Experiment | 17.00% | ~13 |
-| Ascending Will | 16.00% | ~12 |
 | Ultra Combo | 15.00% | ~11 |
-| Haute Couture | 12.00% | ~9 |
+| Haute Couture | 13.00% | ~10 |
 | Brilliant Executioner | 8.00% | ~6 |
+| Sky High Fighter | 8.00% | ~6 |
 | Into the Lion's Den | 8.00% | ~6 |
 | Bold and Bossy | 7.00% | ~5 |
-| Sky High Fighter | 7.00% | ~5 |
 | No Mercy | 5.00% | ~4 |
 | The Gang prevails | 5.00% | ~4 |
 | Out of the ring | 5.00% | ~4 |

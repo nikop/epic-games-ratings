@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8797,9 +8797,9 @@
       "Count": 3576
     }
   ],
-  "EOS_Progressed": 241025,
+  "EOS_Progressed": 241038,
   "EOS_Completed": 2535,
-  "EOS_NewPlayers": 1957,
+  "EOS_NewPlayers": 1965,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -35867,6 +35867,11 @@
       "Time": "2023-12-16T14:10:10.455822+00:00",
       "NumProgressed": 241025,
       "NumCompleted": 2535
+    },
+    {
+      "Time": "2023-12-16T15:10:00.4702619+00:00",
+      "NumProgressed": 241038,
+      "NumCompleted": 2535
     }
   ],
   "TotalAchievements": 546,
@@ -40182,7 +40187,7 @@
       "Name": "Fast Food",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "objective_completed_1563",
@@ -40245,21 +40250,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 207299,
+      "Progressed": 207312,
       "Completed": 4010
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 241025,
+      "Progressed": 241038,
       "Completed": 2535
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-16T13:01:00.4383528+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:10:10.4558217+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:10:00.4702615+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:58:50.4720135+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:10:10.4581515+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:58:23.4347277+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:10:00.4725129+00:00"
 }

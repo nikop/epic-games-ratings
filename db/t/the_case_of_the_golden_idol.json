@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 94,
   "Ranking_EOS_NewPlayers": 424,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -1017,9 +1017,9 @@
       "ID": "14",
       "SetID": "a3epimb",
       "Name": "Solved the Lemurian Vampire 1st Case",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "15",
@@ -1056,8 +1056,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:05:23.5466805+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:04:50.0873891+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:01.3861778+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:00:53.9615868+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:05:23.5466943+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:00:05.8358308+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:04:50.0874007+00:00"
 }

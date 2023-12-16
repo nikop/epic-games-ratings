@@ -2,12 +2,12 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 440,
+  "Ranking_Rating": 441,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1669,10 +1669,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 162819,
-  "EOS_Completed": 331,
+  "EOS_Progressed": 162823,
+  "EOS_Completed": 332,
   "EOS_NewPlayers": 1002,
-  "EOS_NewCompleters": 63,
+  "EOS_NewCompleters": 64,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -19424,6 +19424,11 @@
       "Time": "2023-12-16T14:04:07.854391+00:00",
       "NumProgressed": 162819,
       "NumCompleted": 331
+    },
+    {
+      "Time": "2023-12-16T15:03:47.4985993+00:00",
+      "NumProgressed": 162823,
+      "NumCompleted": 332
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -19803,21 +19808,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 162402,
+      "Progressed": 162406,
       "Completed": 1239
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 162819,
-      "Completed": 331
+      "Progressed": 162823,
+      "Completed": 332
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-15T19:00:09.2990933+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:04:07.8543908+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:03:47.498599+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:57:17.797436+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:04:07.8544902+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:57:03.9584364+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:03:47.4986966+00:00"
 }

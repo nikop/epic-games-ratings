@@ -9,21 +9,21 @@ Rating: 4.20 (Ranked 929)
 | Lost and Found | 0.30% | ~12 |
 | Comrades | 0.30% | ~12 |
 | Shared Triumph | 0.30% | ~12 |
-| No Mercy | 0.30% | ~12 |
-| Thriving in Darkness | 0.30% | ~12 |
-| Weapon Collector | 0.20% | ~8 |
-| Ammunition Collector | 0.20% | ~8 |
-| Throwable Collector | 0.20% | ~8 |
+| No Mercy | 0.20% | ~8 |
 | Shades of Violence | 0.20% | ~8 |
+| Thriving in Darkness | 0.20% | ~8 |
 | The Past Shapes the Present | 0.20% | ~8 |
 | A Rest Among the Dead | 0.20% | ~8 |
 | Wayfarer | 0.10% | ~4 |
+| Weapon Collector | 0.10% | ~4 |
 | Ironclad | 0.10% | ~4 |
 | What Sights Contained Within | 0.10% | ~4 |
 | Trinket Collector | 0.10% | ~4 |
+| Ammunition Collector | 0.10% | ~4 |
 | Inferno Adept | 0.10% | ~4 |
 | Radiant Adept | 0.10% | ~4 |
 | Umbral Adept | 0.10% | ~4 |
+| Throwable Collector | 0.10% | ~4 |
 | Gesture Collector | 0.10% | ~4 |
 | Salvation in Blood | 0.10% | ~4 |
 | Honed to Perfection | 0.10% | ~4 |
@@ -69,7 +69,7 @@ Rating: 4.20 (Ranked 929)
 | Lingering Moments | 0.10% | ~4 |
 | A Trace of Venom | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,000 (Ranked 203)  
+Progressed: 4,041 (Ranked 202)  
 Completed: 2 (0.05%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 2 (0.05%) (Ranked 326)
 | 2023-12-13 | 2,475 | 2 |
 | 2023-12-14 | 3,035 | 2 |
 | 2023-12-15 | 3,641 | 2 |
-| 2023-12-16 | 4,000 | 2 |
+| 2023-12-16 | 4,041 | 2 |
 ## Awards
 Max (Character Customization): 198  (Ranked 294)  
 Sum: 518 (Ranked 326)  

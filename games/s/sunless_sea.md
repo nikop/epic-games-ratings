@@ -1,24 +1,24 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.59 (Ranked 440)  
+Rating: 4.59 (Ranked 441)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~15,225 |
-| Sweet Sorrow | 18.00% | ~7,613 |
-| Rules the Waves | 17.00% | ~7,190 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,344 |
-| Rival | 14.00% | ~5,921 |
-| Correspondent | 12.00% | ~5,075 |
-| Lose Your Mind | 12.00% | ~5,075 |
-| Sound Mind? | 12.00% | ~5,075 |
-| Salt's Curse | 11.00% | ~4,652 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,652 |
-| The Fall of the House | 11.00% | ~4,652 |
-| Shipmate | 11.00% | ~4,652 |
-| One Year at Zee | 8.00% | ~3,383 |
+| Sink Beneath the Waves | 36.00% | ~15,228 |
+| Sweet Sorrow | 18.00% | ~7,614 |
+| Rules the Waves | 17.00% | ~7,191 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,345 |
+| Rival | 14.00% | ~5,922 |
+| Correspondent | 12.00% | ~5,076 |
+| Lose Your Mind | 12.00% | ~5,076 |
+| Sound Mind? | 12.00% | ~5,076 |
+| Salt's Curse | 11.00% | ~4,653 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,653 |
+| The Fall of the House | 11.00% | ~4,653 |
+| Shipmate | 11.00% | ~4,653 |
+| One Year at Zee | 8.00% | ~3,384 |
 | Pupil | 7.00% | ~2,961 |
 | Salvager | 7.00% | ~2,961 |
 | Open Your Ears | 7.00% | ~2,961 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~42 |
 | Ten Years at Zee | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,293 (Ranked 123)  
+Progressed: 42,299 (Ranked 123)  
 Completed: 4 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 4 (0.01%) (Ranked 353)
 | 2023-12-13 | 42,152 | 4 |
 | 2023-12-14 | 42,202 | 4 |
 | 2023-12-15 | 42,261 | 4 |
-| 2023-12-16 | 42,293 | 4 |
+| 2023-12-16 | 42,299 | 4 |
 ## Awards
 Max (Character Customization): 219  (Ranked 285)  
 Sum: 313 (Ranked 365)  

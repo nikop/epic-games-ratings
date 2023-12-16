@@ -8,8 +8,8 @@ Rating: 4.62 (Ranked 370)
 | Time Heals All Wounds | 35.00% | ~346 |
 | Rail Rat | 28.00% | ~277 |
 | The Mysterious Stranger | 27.00% | ~267 |
-| Immaculate Aim | 23.00% | ~227 |
-| The Brass Boss | 23.00% | ~227 |
+| Immaculate Aim | 23.00% | ~228 |
+| The Brass Boss | 23.00% | ~228 |
 | Make Up For Lost Time | 22.00% | ~218 |
 | Time Flies | 22.00% | ~218 |
 | No, Thanks! | 22.00% | ~218 |
@@ -21,35 +21,35 @@ Rating: 4.62 (Ranked 370)
 | The Wicked Twins | 21.00% | ~208 |
 | Honest Mistake | 21.00% | ~208 |
 | Fast Learner | 21.00% | ~208 |
-| Like Clockwork | 20.00% | ~198 |
 | The Betrayer | 20.00% | ~198 |
 | Right On Time | 19.00% | ~188 |
+| Like Clockwork | 19.00% | ~188 |
 | Golem Chaser | 19.00% | ~188 |
 | The Loose Cannon | 18.00% | ~178 |
 | Check Your Pulse | 18.00% | ~178 |
 | The Family Fortune | 18.00% | ~178 |
 | Street Style | 17.00% | ~168 |
 | The Man Who Shattered Time | 17.00% | ~168 |
-| Treasure Trove | 14.00% | ~138 |
-| Whiz Kid | 14.00% | ~138 |
-| Cartographer | 14.00% | ~138 |
+| Treasure Trove | 14.00% | ~139 |
+| Whiz Kid | 14.00% | ~139 |
+| Cartographer | 14.00% | ~139 |
 | Good Neighbor | 13.00% | ~129 |
 | Chaincrawler Explorer | 12.00% | ~119 |
 | Family Memories | 12.00% | ~119 |
 | Ask Questions Later | 12.00% | ~119 |
+| Sump Explorer | 11.00% | ~109 |
 | Syron for Hope | 11.00% | ~109 |
-| Factorywood Explorer | 10.00% | ~99 |
 | Fairgrounds Explorer | 10.00% | ~99 |
-| Sump Explorer | 10.00% | ~99 |
 | Theater Explorer | 10.00% | ~99 |
 | Cultivair Explorer | 9.00% | ~89 |
+| Factorywood Explorer | 9.00% | ~89 |
 | Corin Goes Home | 8.00% | ~79 |
 | Sartorialist | 8.00% | ~79 |
 | Entresol Explorer | 8.00% | ~79 |
 | Golem Hunter | 6.00% | ~59 |
-| Clovemary for Remembering | 5.00% | ~49 |
-| Hexlock for Protection | 5.00% | ~49 |
-| Rungs Was Right | 5.00% | ~49 |
+| Clovemary for Remembering | 5.00% | ~50 |
+| Hexlock for Protection | 5.00% | ~50 |
+| Rungs Was Right | 5.00% | ~50 |
 | Wunderkind | 2.00% | ~20 |
 | Fitting In | 2.00% | ~20 |
 | Thinking Two Steps Ahead | 1.00% | ~10 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 370)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 989 (Ranked 274)  
+Progressed: 990 (Ranked 274)  
 Completed: 6 (0.61%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 6 (0.61%) (Ranked 193)
 | 2023-12-13 | 955 | 6 |
 | 2023-12-14 | 963 | 6 |
 | 2023-12-15 | 978 | 6 |
-| 2023-12-16 | 989 | 6 |
+| 2023-12-16 | 990 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

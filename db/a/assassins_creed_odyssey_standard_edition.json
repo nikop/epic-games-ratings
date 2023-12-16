@@ -2,13 +2,13 @@
   "ID": "clary",
   "Name": "Assassins Creed Odyssey Standard Edition",
   "ProductSlug": "assassins-creed-odyssey",
-  "Ranking_Rating": 150,
+  "Ranking_Rating": 149,
   "Ranking_Popularity": 56,
-  "Ranking_PopularitySum": 62,
+  "Ranking_PopularitySum": 63,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 518,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 520,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2018-10-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -12060,18 +12060,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 18045,
       "NumberOfAwardsMax": 6832
+    },
+    {
+      "Time": "2023-12-16T14:59:42.0448309+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 18065,
+      "NumberOfAwardsMax": 6843
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18045,
-  "NumberOfAwardsMax": 6832,
+  "NumberOfAwards": 18065,
+  "NumberOfAwardsMax": 6843,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6832
+      "Count": 6843
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -12089,7 +12095,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 681
+      "Count": 685
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12107,7 +12113,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 692
+      "Count": 693
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -12137,7 +12143,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 658
+      "Count": 662
     },
     {
       "Text": "This game has a Creative Community",
@@ -12163,8 +12169,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2023-12-16T09:00:02.923091+00:00",
+  "LastChanged": "2023-12-16T14:59:42.0448307+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:50.5131939+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:00:25.7973431+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:06:13.9478035+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:59:42.0448313+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:05:34.3869644+00:00"
 }

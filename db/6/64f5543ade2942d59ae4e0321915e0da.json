@@ -2,10 +2,10 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 433,
-  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_Progress": 434,
+  "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -611,9 +611,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "AC_BOSS_01",
@@ -707,9 +707,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -731,17 +731,17 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 55
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -882,8 +882,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:05:38.8097629+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:05:03.5265101+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:56.8907916+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:58:14.9727328+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:05:38.8097921+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:57:51.9491432+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:05:03.5265324+00:00"
 }

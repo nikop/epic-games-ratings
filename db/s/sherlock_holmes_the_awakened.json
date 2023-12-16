@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1202,
+  "EOS_Progressed": 1203,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.58,
   "EosHistory": [
@@ -4132,6 +4132,11 @@
       "Time": "2023-12-16T12:05:40.3316371+00:00",
       "NumProgressed": 1202,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-12-16T15:04:24.0456669+00:00",
+      "NumProgressed": 1203,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 28,
@@ -4143,7 +4148,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "MQ01_2",
@@ -4151,7 +4156,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "MQ02_1",
@@ -4159,7 +4164,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "MQ02_2",
@@ -4175,7 +4180,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "MQ02_4",
@@ -4183,15 +4188,15 @@
       "Name": "Whispers In The Dark",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 589
+      "UsersEstimate": 602
     },
     {
       "ID": "MQ03_2",
@@ -4319,7 +4324,7 @@
       "Name": "Read It And Weep",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "MQ07_2",
@@ -4341,9 +4346,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 445
+      "UsersEstimate": 433
     },
     {
       "ID": "MQ08_3",
@@ -4366,7 +4371,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1202,
+      "Progressed": 1203,
       "Completed": 31
     }
   ],
@@ -4374,8 +4379,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-14T11:03:29.6730885+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:04:48.6059697+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:04:24.0456665+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:03:16.4488574+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:04:48.6060073+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:03:00.347285+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:04:24.0457354+00:00"
 }

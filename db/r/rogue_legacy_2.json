@@ -2,13 +2,13 @@
   "ID": "4966d5da285c4f2c876937844b0e23ee",
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
-  "Ranking_Rating": 45,
+  "Ranking_Rating": 46,
   "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 24669,
+  "EOS_Progressed": 24694,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 991,
+  "EOS_NewPlayers": 1016,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -10735,6 +10735,11 @@
       "Time": "2023-12-16T14:09:40.5949816+00:00",
       "NumProgressed": 24669,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-16T15:09:34.0429259+00:00",
+      "NumProgressed": 24694,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10810,7 +10815,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -10818,7 +10823,7 @@
       "Name": "For Glory",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "BossCastleDefeated",
@@ -10826,7 +10831,7 @@
       "Name": "Spells and Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -10874,7 +10879,7 @@
       "Name": "Harvest and Home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -10906,7 +10911,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -10922,7 +10927,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "BoxerBoss",
@@ -10938,7 +10943,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "EndTimerFail",
@@ -11057,21 +11062,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 24669,
+      "Progressed": 24694,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 3599,
+      "Progressed": 3624,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:09:40.5949813+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:09:34.0429255+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:17.8828255+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:00:00.9610641+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:09:40.5950358+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:59:21.5585994+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:09:34.0430039+00:00"
 }

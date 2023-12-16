@@ -7,10 +7,10 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 11.00% | ~376 |
-| Look Over There! | 9.00% | ~307 |
-| Not So Fast... | 9.00% | ~307 |
-| Watch Where You Step... | 9.00% | ~307 |
-| An Ill Omen | 8.00% | ~273 |
+| Look Over There! | 9.00% | ~308 |
+| Not So Fast... | 9.00% | ~308 |
+| Watch Where You Step... | 9.00% | ~308 |
+| An Ill Omen | 8.00% | ~274 |
 | Purging Spree | 7.00% | ~239 |
 | Blood for the Blood God! | 6.00% | ~205 |
 | Bloodless | 6.00% | ~205 |
@@ -19,9 +19,9 @@ Number of Ratings: 371  (23.09.2022)
 | Friendly Fire | 4.00% | ~137 |
 | The Emperor Protects | 4.00% | ~137 |
 | A Foul Creche | 4.00% | ~137 |
-| Nemesis Master | 3.00% | ~102 |
-| Gunmaster | 3.00% | ~102 |
-| Just a Scratch | 3.00% | ~102 |
+| Nemesis Master | 3.00% | ~103 |
+| Gunmaster | 3.00% | ~103 |
+| Just a Scratch | 3.00% | ~103 |
 | Hold Your Ground | 2.00% | ~68 |
 | Corruption Cleanser | 2.00% | ~68 |
 | Efficient Killer | 2.00% | ~68 |
@@ -39,12 +39,12 @@ Number of Ratings: 371  (23.09.2022)
 | Execution Force | 1.00% | ~34 |
 | Tactical Sabotage | 1.00% | ~34 |
 | For the Machine God | 0.90% | ~31 |
+| Death Comes For All | 0.90% | ~31 |
 | Patron of Deimos | 0.80% | ~27 |
 | Engine Kill | 0.80% | ~27 |
 | Harvest No More | 0.80% | ~27 |
-| Death Comes For All | 0.80% | ~27 |
-| Strike Force | 0.60% | ~20 |
-| Hands-On Research | 0.60% | ~20 |
+| Strike Force | 0.60% | ~21 |
+| Hands-On Research | 0.60% | ~21 |
 | Suffer Not the Mutant | 0.50% | ~17 |
 | Exercise in Restraint | 0.40% | ~14 |
 | True Mastery | 0.40% | ~14 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,416 (Ranked 214)  
+Progressed: 3,420 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 3,351 | 0 |
 | 2023-12-14 | 3,379 | 0 |
 | 2023-12-15 | 3,402 | 0 |
-| 2023-12-16 | 3,416 | 0 |
+| 2023-12-16 | 3,420 | 0 |
 ## Awards
 Max (Character Customization): 229  (Ranked 277)  
 Sum: 490 (Ranked 332)  

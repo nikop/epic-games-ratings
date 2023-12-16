@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 80.00% | ~36 |
-| Grand Re-Opening | 69.00% | ~31 |
-| Pup Pup Boogie | 64.00% | ~29 |
-| Summer Day | 62.00% | ~28 |
-| Mr. Porter | 53.00% | ~24 |
-| Risky Rescue | 49.00% | ~22 |
-| Carlos Is Tangled | 47.00% | ~21 |
-| Mandy Family | 44.00% | ~20 |
-| Clear the Road | 42.00% | ~19 |
-| Paw patrol member | 42.00% | ~19 |
-| Robot Out of Control | 42.00% | ~19 |
-| Break Time | 36.00% | ~16 |
+| Mighty Powers | 78.00% | ~36 |
+| Grand Re-Opening | 67.00% | ~31 |
+| Pup Pup Boogie | 63.00% | ~29 |
+| Summer Day | 61.00% | ~28 |
+| Mr. Porter | 52.00% | ~24 |
+| Risky Rescue | 48.00% | ~22 |
+| Carlos Is Tangled | 46.00% | ~21 |
+| Mandy Family | 43.00% | ~20 |
+| Clear the Road | 41.00% | ~19 |
+| Paw patrol member | 41.00% | ~19 |
+| Robot Out of Control | 41.00% | ~19 |
+| Break Time | 35.00% | ~16 |
 | Master of the Rope | 33.00% | ~15 |
 | Training Day | 33.00% | ~15 |
 | In the Air | 33.00% | ~15 |
 | Never Miss | 33.00% | ~15 |
-| Animal Sighting | 29.00% | ~13 |
-| The Fastest | 27.00% | ~12 |
+| Animal Sighting | 28.00% | ~13 |
+| The Fastest | 26.00% | ~12 |
 | Don’t Miss Any | 24.00% | ~11 |
 | You Have Been Everywhere | 22.00% | ~10 |
 | Adventure Bay’s Citizen | 22.00% | ~10 |
-| Mountain and Ice | 18.00% | ~8 |
-| Everything Under Control | 16.00% | ~7 |
+| Mountain and Ice | 17.00% | ~8 |
+| Everything Under Control | 15.00% | ~7 |
 | Nothing Can Stop You | 11.00% | ~5 |
 | A Great Explorer | 9.00% | ~4 |
 | King of the Mountain | 4.00% | ~2 |
@@ -35,7 +35,7 @@
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45 (Ranked 525)  
+Progressed: 46 (Ranked 524)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,6 +80,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-05 | 43 | 0 |
 | 2023-12-06 | 44 | 0 |
 | 2023-12-07 | 45 | 0 |
+| 2023-12-16 | 46 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

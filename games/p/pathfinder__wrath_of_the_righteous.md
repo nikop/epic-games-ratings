@@ -6,30 +6,30 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,344 |
+| Devoured by Darkness | 27.00% | ~3,346 |
 | A Spark | 19.00% | ~2,354 |
 | Burning City | 18.00% | ~2,230 |
-| Defender's Heart | 16.00% | ~1,982 |
-| Mythic Choices | 15.00% | ~1,858 |
-| Banner over the Citadel | 14.00% | ~1,734 |
-| Queen's Gratitude | 12.00% | ~1,486 |
+| Defender's Heart | 16.00% | ~1,983 |
+| Mythic Choices | 15.00% | ~1,859 |
+| Banner over the Citadel | 14.00% | ~1,735 |
+| Queen's Gratitude | 12.00% | ~1,487 |
 | Fifth Crusade | 9.00% | ~1,115 |
 | Embrace of the Abyss | 7.00% | ~867 |
 | Path of the Angel | 7.00% | ~867 |
 | Demonic and Divine | 7.00% | ~867 |
 | Great Upstart | 6.00% | ~743 |
 | All Paths Open | 6.00% | ~743 |
-| Path of the Azata | 5.00% | ~619 |
-| Transformation | 5.00% | ~619 |
-| The Legacy | 5.00% | ~619 |
-| Voice from Your Dreams | 5.00% | ~619 |
-| A Flame | 5.00% | ~619 |
-| Next-Door Play | 5.00% | ~619 |
-| Get the Toad | 5.00% | ~619 |
-| Heart of the Fallen Land | 4.00% | ~495 |
-| Divide and Rule | 4.00% | ~495 |
-| Mythic Reinforcements | 4.00% | ~495 |
-| Hey, I Know You! | 4.00% | ~495 |
+| Path of the Azata | 5.00% | ~620 |
+| Transformation | 5.00% | ~620 |
+| The Legacy | 5.00% | ~620 |
+| Voice from Your Dreams | 5.00% | ~620 |
+| A Flame | 5.00% | ~620 |
+| Next-Door Play | 5.00% | ~620 |
+| Get the Toad | 5.00% | ~620 |
+| Heart of the Fallen Land | 4.00% | ~496 |
+| Divide and Rule | 4.00% | ~496 |
+| Mythic Reinforcements | 4.00% | ~496 |
+| Hey, I Know You! | 4.00% | ~496 |
 | Path of the Trickster | 3.00% | ~372 |
 | Path of the Lich | 3.00% | ~372 |
 | Heroic Victory | 3.00% | ~372 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Profane Gift | 1.00% | ~124 |
 | This Wall Won't Fall | 1.00% | ~112 |
 | Not the Last Sarkorian | 1.00% | ~112 |
-| End of Eternal Guard | 0.90% | ~111 |
+| End of Eternal Guard | 0.90% | ~112 |
 | Masterful Charge | 0.70% | ~87 |
 | Playful Mood | 0.70% | ~87 |
 | Dreadful Dragon | 0.70% | ~87 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,387 (Ranked 164)  
+Progressed: 12,391 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -363,7 +363,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 12,300 | 0 |
 | 2023-12-14 | 12,326 | 0 |
 | 2023-12-15 | 12,356 | 0 |
-| 2023-12-16 | 12,387 | 0 |
+| 2023-12-16 | 12,391 | 0 |
 ## Awards
 Max (Character Customization): 1,761  (Ranked 123)  
 Sum: 7,143 (Ranked 122)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9700,10 +9700,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20563,
       "NumberOfAwardsMax": 7744
+    },
+    {
+      "Time": "2023-12-16T14:57:14.5165149+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20571,
+      "NumberOfAwardsMax": 7744
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20563,
+  "NumberOfAwards": 20571,
   "NumberOfAwardsMax": 7744,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9747,7 +9753,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1453
+      "Count": 1461
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9780,9 +9786,9 @@
       "Count": 1014
     }
   ],
-  "EOS_Progressed": 127700,
+  "EOS_Progressed": 127718,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1795,
+  "EOS_NewPlayers": 1811,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35320,6 +35326,11 @@
       "Time": "2023-12-16T14:09:07.196222+00:00",
       "NumProgressed": 127700,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T15:09:04.1066485+00:00",
+      "NumProgressed": 127718,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35427,7 +35438,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -35459,7 +35470,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3831
+      "UsersEstimate": 3832
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35473,9 +35484,9 @@
       "ID": "combat_kill_cosmic",
       "SetID": "64l4lke",
       "Name": "Banishment",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1277
     },
     {
       "ID": "combat_kill_death",
@@ -35625,9 +35636,9 @@
       "ID": "driving_biome_clear_city",
       "SetID": "64l4lke",
       "Name": "Rush Hour",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 2554
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -35683,7 +35694,7 @@
       "Name": "Autodidact",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3831
+      "UsersEstimate": 3832
     },
     {
       "ID": "hero_story_complete_all",
@@ -35761,9 +35772,9 @@
       "ID": "relationships_all_positive_mountain",
       "SetID": "64l4lke",
       "Name": "Utopia",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 894
+      "UsersEstimate": 1022
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -35795,7 +35806,7 @@
       "Name": "Hot Air",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "run_victory_act03",
@@ -35803,7 +35814,7 @@
       "Name": "Eyes Up",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "run_victory_act04",
@@ -35841,9 +35852,9 @@
       "ID": "stagecoach_upgrade_equip_all",
       "SetID": "64l4lke",
       "Name": "Road Trip",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1277
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -35867,7 +35878,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "combat_kill_collector",
@@ -35875,7 +35886,7 @@
       "Name": "This guy... again?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35899,7 +35910,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -35915,7 +35926,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -35923,7 +35934,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "quest_complete_crusader",
@@ -35937,9 +35948,9 @@
       "ID": "relationships_positive_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "Friends \u0027Til the End",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -35962,21 +35973,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127700,
+      "Progressed": 127718,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2569,
+      "Progressed": 2587,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-16T12:59:48.9764305+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:09:07.1962216+00:00",
+  "LastChanged": "2023-12-16T14:57:14.5165145+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:09:04.1066481+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:57:31.1411402+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:09:07.1963812+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:57:14.5165152+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:09:04.106799+00:00"
 }

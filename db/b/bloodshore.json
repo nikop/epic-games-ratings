@@ -4,8 +4,8 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -566,17 +566,17 @@
       "ID": "good_job_nerd",
       "SetID": "84ad177",
       "Name": "Good job, nerd",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "leader_you_are_not",
       "SetID": "84ad177",
       "Name": "A leader, you are not",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "lootaphilia",
@@ -679,8 +679,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:03:38.4675701+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:03:21.1056911+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:15.9914171+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:03:24.5347229+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:03:38.4675902+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:03:08.5675392+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:03:21.1057034+00:00"
 }

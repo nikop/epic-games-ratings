@@ -4,8 +4,8 @@
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
   "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 518,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 520,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
     "PcReleaseDate": "2022-09-01T15:00:00+00:00",
@@ -375,9 +375,9 @@
       "ID": "SteamAchievment_CompleteQuest06",
       "SetID": "b8gj0ip",
       "Name": "Ancient Machinery Operator",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SteamAchievment_CompleteQuest07",
@@ -502,8 +502,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:06:35.39199+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:05:53.8822094+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:42.1986517+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:00:39.5417891+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:06:35.392013+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:59:52.75779+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:05:53.8822301+00:00"
 }

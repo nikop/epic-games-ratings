@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 989,
+  "EOS_Progressed": 990,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2704,6 +2704,11 @@
       "Time": "2023-12-16T14:09:48.1544615+00:00",
       "NumProgressed": 989,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-16T15:09:40.5412748+00:00",
+      "NumProgressed": 990,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2739,7 +2744,7 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2761,9 +2766,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 188
     },
     {
       "ID": "ClovemaryGift",
@@ -2771,7 +2776,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CosmeticCompletion1",
@@ -2817,9 +2822,9 @@
       "ID": "FactorywoodChests1",
       "SetID": "a9e499d",
       "Name": "Factorywood Explorer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 89
     },
     {
       "ID": "FairgroundsChests1",
@@ -2867,7 +2872,7 @@
       "Name": "Whiz Kid",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "GrindingTime1",
@@ -2883,7 +2888,7 @@
       "Name": "Hexlock for Protection",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "InxChromaInTheatre",
@@ -2915,7 +2920,7 @@
       "Name": "Cartographer",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "NoCritterSump",
@@ -3035,7 +3040,7 @@
       "Name": "Rungs Was Right",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "SkillProgress1",
@@ -3057,9 +3062,9 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 109
     },
     {
       "ID": "SyronGift",
@@ -3091,7 +3096,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "WarwickDefeated",
@@ -3123,7 +3128,7 @@
       "Name": "The Brass Boss",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3138,7 +3143,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 989,
+      "Progressed": 990,
       "Completed": 6
     }
   ],
@@ -3146,8 +3151,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-16T14:09:48.1544611+00:00",
+  "LastChanged_Achievements": "2023-12-16T15:09:40.5412745+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:05:23.8155994+00:00",
-  "LastUpdate_Achievements": "2023-12-16T14:09:48.1545217+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:56:56.3354558+00:00",
+  "LastUpdate_Achievements": "2023-12-16T15:09:40.5413321+00:00"
 }

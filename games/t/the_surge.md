@@ -1,13 +1,13 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.43 (Ranked 699)  
+Rating: 4.43 (Ranked 698)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On My Own Two Feet | 94.00% | ~4,615 |
-| I'll Be Back | 84.00% | ~4,124 |
+| I'll Be Back | 85.00% | ~4,174 |
 | Sorry, I Dropped This | 77.00% | ~3,781 |
 | First Day on the Job | 77.00% | ~3,781 |
 | Butcher's Bill | 55.00% | ~2,700 |

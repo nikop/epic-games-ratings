@@ -6,59 +6,59 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 87.00% | ~640 |
-| All Bark, No Bite | 76.00% | ~559 |
-| Hopeful Hunter | 66.00% | ~486 |
-| The Road to Recovery | 63.00% | ~464 |
-| Amateur Adventurer | 63.00% | ~464 |
-| Partners? | 61.00% | ~449 |
-| Magical Mineral Golem | 54.00% | ~397 |
-| On Outlander Lane | 53.00% | ~390 |
-| A Girl About the Town | 50.00% | ~368 |
-| First Time Fishing | 50.00% | ~368 |
-| First Time Hunting | 48.00% | ~353 |
-| Rune Wall Wreckage | 47.00% | ~346 |
-| ...And Your Tax Money | 46.00% | ~339 |
-| The Lords of the Snowpeak | 40.00% | ~294 |
-| The Go-To Girl | 36.00% | ~265 |
-| Scavenger's Honor | 36.00% | ~265 |
-| Natural Born Monster-Killer | 36.00% | ~265 |
-| The Lava Mantor Wyrm | 35.00% | ~258 |
-| One Mean Merc | 35.00% | ~258 |
-| Money, Money, Money | 35.00% | ~258 |
-| The Great Forest...On Foot! | 35.00% | ~258 |
-| Adept, for an Acting Mayor | 34.00% | ~250 |
-| Rune Wall Master | 33.00% | ~243 |
-| The Quarry...On Foot! | 30.00% | ~221 |
-| The Runebarrows...On Foot! | 28.00% | ~206 |
-| The Lava Ruins...On Foot! | 27.00% | ~199 |
-| Meat Master | 26.00% | ~191 |
-| The Snowpeak...On Foot! | 26.00% | ~191 |
-| Armor Master | 24.00% | ~177 |
-| Fishing Master | 24.00% | ~177 |
-| The Pride of the Town | 23.00% | ~169 |
+| Plenty More to Go | 86.00% | ~636 |
+| All Bark, No Bite | 76.00% | ~562 |
+| Hopeful Hunter | 66.00% | ~488 |
+| Amateur Adventurer | 63.00% | ~466 |
+| The Road to Recovery | 62.00% | ~459 |
+| Partners? | 60.00% | ~444 |
+| Magical Mineral Golem | 54.00% | ~400 |
+| On Outlander Lane | 53.00% | ~392 |
+| First Time Fishing | 50.00% | ~370 |
+| A Girl About the Town | 49.00% | ~363 |
+| First Time Hunting | 48.00% | ~355 |
+| Rune Wall Wreckage | 47.00% | ~348 |
+| ...And Your Tax Money | 45.00% | ~333 |
+| The Lords of the Snowpeak | 39.00% | ~289 |
+| The Go-To Girl | 36.00% | ~266 |
+| Scavenger's Honor | 36.00% | ~266 |
+| Natural Born Monster-Killer | 36.00% | ~266 |
+| The Lava Mantor Wyrm | 35.00% | ~259 |
+| One Mean Merc | 35.00% | ~259 |
+| Money, Money, Money | 35.00% | ~259 |
+| The Great Forest...On Foot! | 35.00% | ~259 |
+| Adept, for an Acting Mayor | 34.00% | ~252 |
+| Rune Wall Master | 33.00% | ~244 |
+| The Quarry...On Foot! | 30.00% | ~222 |
+| The Runebarrows...On Foot! | 28.00% | ~207 |
+| The Lava Ruins...On Foot! | 27.00% | ~200 |
+| Meat Master | 26.00% | ~192 |
+| The Snowpeak...On Foot! | 26.00% | ~192 |
+| Fishing Master | 24.00% | ~178 |
+| Armor Master | 23.00% | ~170 |
+| The Pride of the Town | 22.00% | ~163 |
 | This Treasure I've Found | 21.00% | ~155 |
-| New Nevaeh's Number One Customer | 21.00% | ~155 |
-| Arms Master | 19.00% | ~140 |
+| New Nevaeh's Number One Customer | 20.00% | ~148 |
+| Arms Master | 19.00% | ~141 |
 | Rune Scholar | 16.00% | ~118 |
 | No Treasure Left Behind | 13.00% | ~96 |
-| Sommelier | 12.00% | ~88 |
-| Champion of the Great Forest | 12.00% | ~88 |
+| Sommelier | 12.00% | ~89 |
 | One-Hundred Resident Record | 11.00% | ~81 |
 | A Local Hero | 11.00% | ~81 |
+| Champion of the Great Forest | 11.00% | ~81 |
 | Gourmand | 10.00% | ~74 |
-| Accessorizer | 10.00% | ~74 |
 | Champion of the Quarry | 10.00% | ~74 |
 | Champion of the Lava Ruins | 10.00% | ~74 |
-| No One Better | 9.00% | ~66 |
-| Champion of the Snowpeak | 9.00% | ~66 |
+| No One Better | 9.00% | ~67 |
+| Accessorizer | 9.00% | ~67 |
+| Champion of the Snowpeak | 9.00% | ~67 |
 | Full Force - CJ | 8.00% | ~59 |
 | Full Force - Garoo | 8.00% | ~59 |
 | Full Force - Isha | 8.00% | ~59 |
 | Rising Champion | 7.00% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736 (Ranked 291)  
-Completed: 60 (8.15%) (Ranked 48)  
+Progressed: 740 (Ranked 291)  
+Completed: 60 (8.11%) (Ranked 48)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,7 +107,7 @@ Completed: 60 (8.15%) (Ranked 48)
 | 2023-12-13 | 709 | 60 |
 | 2023-12-14 | 716 | 60 |
 | 2023-12-15 | 729 | 60 |
-| 2023-12-16 | 736 | 60 |
+| 2023-12-16 | 740 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
