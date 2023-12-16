@@ -6,15 +6,15 @@ Rating: 4.44 (Ranked 684)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,894 |
-| Confirming Suspicions | 42.00% | ~1,692 |
+| Confirming Suspicions | 42.00% | ~1,693 |
 | The Kraken Wakes | 37.00% | ~1,491 |
 | It's Starting to Crack | 34.00% | ~1,370 |
 | Change the Channel | 31.00% | ~1,249 |
 | Lord of War | 30.00% | ~1,209 |
-| Taking it back | 29.00% | ~1,168 |
+| Taking it back | 29.00% | ~1,169 |
 | Resourceful | 27.00% | ~1,088 |
 | Target America | 27.00% | ~1,088 |
-| The Kraken Sleeps | 25.00% | ~1,007 |
+| The Kraken Sleeps | 25.00% | ~1,008 |
 | As Quiet as a Mouse | 24.00% | ~967 |
 | Liberté | 23.00% | ~927 |
 | Organ Grinder | 23.00% | ~927 |
@@ -40,11 +40,11 @@ Rating: 4.44 (Ranked 684)
 | Herr Today, Gone Tomorrow | 7.00% | ~279 |
 | The Long Game | 6.00% | ~242 |
 | Operation Foxley | 6.00% | ~239 |
-| Strategist | 5.00% | ~201 |
-| Tinkerer | 5.00% | ~201 |
-| It'll Buff Right Out | 5.00% | ~201 |
-| Road Rage | 5.00% | ~201 |
-| Don't hold your breath | 5.00% | ~201 |
+| Strategist | 5.00% | ~202 |
+| Tinkerer | 5.00% | ~202 |
+| It'll Buff Right Out | 5.00% | ~202 |
+| Road Rage | 5.00% | ~202 |
+| Don't hold your breath | 5.00% | ~202 |
 | Last Resort | 5.00% | ~199 |
 | Siegebreaker | 5.00% | ~199 |
 | Ghost of Falaise | 5.00% | ~199 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 684)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,029 (Ranked 202)  
+Progressed: 4,030 (Ranked 202)  
 Completed: 11 (0.27%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 11 (0.27%) (Ranked 247)
 | 2023-12-13 | 4,009 | 11 |
 | 2023-12-14 | 4,017 | 11 |
 | 2023-12-15 | 4,025 | 11 |
-| 2023-12-16 | 4,029 | 11 |
+| 2023-12-16 | 4,030 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 512)  
 Sum: 28 (Ranked 528)  

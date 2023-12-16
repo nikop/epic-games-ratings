@@ -1,32 +1,32 @@
 # Cartel Tycoon
 [Store](https://store.epicgames.com/en-US/p/cartel-tycoon)  
 [View Rawdata](../../db/c/cartel_tycoon.json)  
-Rating: 4.37 (Ranked 779)  
+Rating: 4.37 (Ranked 780)  
 Number of Ratings: 101  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 85.00% | ~637 |
-| Take-Off | 80.00% | ~599 |
-| Hokey-Pokey | 70.00% | ~524 |
-| Camellos | 56.00% | ~419 |
-| Bad Trip | 45.00% | ~337 |
+| Our Man | 85.00% | ~638 |
+| Take-Off | 80.00% | ~600 |
+| Hokey-Pokey | 70.00% | ~525 |
+| Camellos | 56.00% | ~420 |
+| Bad Trip | 45.00% | ~338 |
 | Didn't Miss A Single One | 44.00% | ~330 |
 | Spread | 42.00% | ~315 |
 | That was base | 40.00% | ~300 |
 | Safe Pair of Hands | 36.00% | ~270 |
 | Don't Let Mom Know You're A Druglord | 30.00% | ~225 |
-| Architect of Fortunes | 25.00% | ~187 |
+| Architect of Fortunes | 25.00% | ~188 |
 | Pampered Life | 23.00% | ~172 |
 | Bite the Blow | 22.00% | ~165 |
-| Spreading Fear | 9.00% | ~67 |
-| Follow the Money | 7.00% | ~52 |
-| I'm Going To Call You Kitty | 7.00% | ~52 |
-| Operation Odessa | 1.00% | ~7 |
+| Spreading Fear | 9.00% | ~68 |
+| Follow the Money | 7.00% | ~53 |
+| I'm Going To Call You Kitty | 7.00% | ~53 |
+| Operation Odessa | 1.00% | ~8 |
 | Iron Lady | 0.50% | ~4 |
 | Sense Of Style | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 749 (Ranked 288)  
+Progressed: 750 (Ranked 288)  
 Completed: 2 (0.27%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 2 (0.27%) (Ranked 247)
 | 2023-12-13 | 726 | 2 |
 | 2023-12-14 | 735 | 2 |
 | 2023-12-15 | 746 | 2 |
-| 2023-12-16 | 749 | 2 |
+| 2023-12-16 | 750 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

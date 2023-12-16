@@ -6,11 +6,11 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~150 |
-| Lost and Found | 4.00% | ~100 |
-| This Belongs in a Museum | 3.00% | ~3,829 |
-| This guy... again? | 3.00% | ~75 |
-| Bloody Graduation | 3.00% | ~75 |
+| Malpractice Assurance | 6.00% | ~152 |
+| Lost and Found | 4.00% | ~101 |
+| This Belongs in a Museum | 3.00% | ~3,830 |
+| This guy... again? | 3.00% | ~76 |
+| Bloody Graduation | 3.00% | ~76 |
 | Serenity Now! | 2.00% | ~2,553 |
 | Not Today! | 2.00% | ~2,553 |
 | Creep and Sleep | 2.00% | ~2,553 |
@@ -18,41 +18,41 @@ Number of Ratings: 7,767  (23.09.2022)
 | Catch and Decease | 2.00% | ~2,553 |
 | Overdue Notice | 2.00% | ~2,553 |
 | Escape from the Black Hole | 2.00% | ~2,553 |
+| To Grandmother's House | 2.00% | ~2,553 |
 | Autodidact | 2.00% | ~2,553 |
-| Ploughshares to Swords | 2.00% | ~50 |
-| Don't Make Me Turn This Coach Around | 1.00% | ~1,276 |
-| It Rings a Bell | 1.00% | ~1,276 |
-| Dissector | 1.00% | ~1,276 |
-| It Happens | 1.00% | ~1,276 |
-| Rush Hour | 1.00% | ~1,276 |
-| Merry Time | 1.00% | ~1,276 |
-| Harvest Festival | 1.00% | ~1,276 |
-| To Grandmother's House | 1.00% | ~1,276 |
-| Whale | 1.00% | ~1,276 |
-| A Place to Lay Your Head | 1.00% | ~1,276 |
-| FNG | 1.00% | ~1,276 |
-| Nope | 1.00% | ~1,276 |
+| Ploughshares to Swords | 2.00% | ~51 |
+| Don't Make Me Turn This Coach Around | 1.00% | ~1,277 |
+| It Rings a Bell | 1.00% | ~1,277 |
+| Dissector | 1.00% | ~1,277 |
+| Deprogramming | 1.00% | ~1,277 |
+| It Happens | 1.00% | ~1,277 |
+| Spelunker | 1.00% | ~1,277 |
+| Rush Hour | 1.00% | ~1,277 |
+| Merry Time | 1.00% | ~1,277 |
+| Harvest Festival | 1.00% | ~1,277 |
+| Whale | 1.00% | ~1,277 |
+| A Place to Lay Your Head | 1.00% | ~1,277 |
+| FNG | 1.00% | ~1,277 |
+| Nope | 1.00% | ~1,277 |
 | Friends 'Til the End | 1.00% | ~25 |
 | Unfulfilled Desires | 0.90% | ~1,149 |
 | Banishment | 0.90% | ~1,149 |
-| Deprogramming | 0.90% | ~1,149 |
-| Spelunker | 0.90% | ~1,149 |
+| Now Stay Dead | 0.90% | ~1,149 |
 | Ramble On | 0.90% | ~1,149 |
 | Worldly Traveller | 0.90% | ~1,149 |
+| Unshackled | 0.90% | ~1,149 |
 | Road Trip | 0.90% | ~1,149 |
 | Resurrection | 0.80% | ~1,021 |
 | Unleash Hell | 0.80% | ~1,021 |
 | Funny Guy | 0.80% | ~1,021 |
 | Long Live the King | 0.80% | ~1,021 |
+| Wyrdly Reconstructed | 0.80% | ~1,021 |
 | Boxcar Kid | 0.80% | ~1,021 |
 | Predator | 0.80% | ~1,021 |
-| Now Stay Dead | 0.80% | ~1,021 |
 | Reverse Banditry | 0.80% | ~1,021 |
 | A Clear Conscience | 0.80% | ~1,021 |
-| Unshackled | 0.80% | ~1,021 |
-| Wyrdly Reconstructed | 0.70% | ~893 |
-| When You Want Something Done Right | 0.70% | ~893 |
-| Utopia | 0.70% | ~893 |
+| When You Want Something Done Right | 0.70% | ~894 |
+| Utopia | 0.70% | ~894 |
 | Hope Rekindled | 0.60% | ~766 |
 | Ichthyophobic | 0.60% | ~766 |
 | No More Mouths to Feed | 0.60% | ~766 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 | On This Long Road, We Found Redemption | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,634 (Ranked 84)  
+Progressed: 127,658 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
-| 2023-12-16 | 127,634 | 3 |
+| 2023-12-16 | 127,658 | 3 |
 ## Awards
 Max (Character Customization): 7,744  (Ranked 51)  
 Sum: 20,557 (Ranked 58)  

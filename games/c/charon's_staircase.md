@@ -10,8 +10,8 @@
 | There is something strange here... | 51.00% | ~43 |
 | First document retrieved | 49.00% | ~41 |
 | Curious by nature | 44.00% | ~37 |
+| An ear for music | 37.00% | ~31 |
 | A lonely death | 37.00% | ~31 |
-| An ear for music | 36.00% | ~30 |
 | Agatha's favourite song | 33.00% | ~28 |
 | Lights and shadows | 32.00% | ~27 |
 | The threshold of horror | 30.00% | ~25 |

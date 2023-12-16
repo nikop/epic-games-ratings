@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3753,7 +3753,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32307,
+  "EOS_Progressed": 32309,
   "EOS_Completed": 69,
   "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
@@ -22473,6 +22473,11 @@
       "Time": "2023-12-16T11:04:03.3237067+00:00",
       "NumProgressed": 32307,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-16T12:04:29.0817644+00:00",
+      "NumProgressed": 32309,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -22484,7 +22489,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2261
+      "UsersEstimate": 2262
     },
     {
       "ID": "Animated",
@@ -22812,7 +22817,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "Teamwork",
@@ -22891,7 +22896,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32307,
+      "Progressed": 32309,
       "Completed": 69
     }
   ],
@@ -22899,8 +22904,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-16T03:02:29.702313+00:00",
-  "LastChanged_Achievements": "2023-12-16T11:04:03.3237059+00:00",
+  "LastChanged_Achievements": "2023-12-16T12:04:29.0817639+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:16.7242615+00:00",
-  "LastUpdate_Ratings": "2023-12-16T10:57:11.1008699+00:00",
-  "LastUpdate_Achievements": "2023-12-16T11:04:03.3238884+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:57:24.8709993+00:00",
+  "LastUpdate_Achievements": "2023-12-16T12:04:29.0819302+00:00"
 }

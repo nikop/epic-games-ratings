@@ -6,23 +6,23 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 74.00% | ~4,737 |
-| Un-Lonely Island | 46.00% | ~2,944 |
-| The Beginning of a Servantship | 44.00% | ~2,816 |
-| Trade Is My Trait | 37.00% | ~2,368 |
-| Number 18 | 23.00% | ~1,472 |
-| We Don't Have Time For That | 19.00% | ~1,216 |
-| The Governator | 17.00% | ~1,088 |
-| The Legend of Langostino | 16.00% | ~1,024 |
-| Caribbean Comrade | 15.00% | ~960 |
-| The Dreamer of Dreams | 15.00% | ~960 |
-| Go Sovereigns! | 11.00% | ~704 |
-| For Science! | 11.00% | ~704 |
-| Happy Ending? | 10.00% | ~640 |
-| Of Seals And Men | 9.00% | ~576 |
-| Shackadelic | 9.00% | ~576 |
-| Double Trouble | 8.00% | ~512 |
-| Firestarter | 8.00% | ~512 |
+| Just One...More...Term... | 74.00% | ~4,741 |
+| Un-Lonely Island | 46.00% | ~2,947 |
+| The Beginning of a Servantship | 44.00% | ~2,819 |
+| Trade Is My Trait | 37.00% | ~2,371 |
+| Number 18 | 23.00% | ~1,474 |
+| We Don't Have Time For That | 19.00% | ~1,217 |
+| The Governator | 17.00% | ~1,089 |
+| The Legend of Langostino | 16.00% | ~1,025 |
+| Caribbean Comrade | 15.00% | ~961 |
+| The Dreamer of Dreams | 15.00% | ~961 |
+| Go Sovereigns! | 11.00% | ~705 |
+| For Science! | 11.00% | ~705 |
+| Happy Ending? | 10.00% | ~641 |
+| Of Seals And Men | 9.00% | ~577 |
+| Shackadelic | 9.00% | ~577 |
+| Double Trouble | 8.00% | ~513 |
+| Firestarter | 8.00% | ~513 |
 | I Owe You Nothing | 7.00% | ~448 |
 | Make Tropico Great Again! | 7.00% | ~448 |
 | French Connection | 7.00% | ~448 |
@@ -45,9 +45,9 @@ Number of Ratings: 398  (23.09.2022)
 | Chain Gang | 1.00% | ~64 |
 | From Knight to Little Duck | 1.00% | ~64 |
 | Survivor | 0.80% | ~51 |
-| My Ways | 0.30% | ~19 |
+| My Ways | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,401 (Ranked 188)  
+Progressed: 6,407 (Ranked 188)  
 Completed: 2 (0.03%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 2 (0.03%) (Ranked 338)
 | 2023-12-13 | 6,313 | 2 |
 | 2023-12-14 | 6,351 | 2 |
 | 2023-12-15 | 6,377 | 2 |
-| 2023-12-16 | 6,401 | 2 |
+| 2023-12-16 | 6,407 | 2 |
 ## Awards
 Max (Highly Recommended): 104  (Ranked 364)  
 Sum: 739 (Ranked 294)  

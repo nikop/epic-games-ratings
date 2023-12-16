@@ -3,12 +3,12 @@
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
   "Ranking_Rating": 919,
-  "Ranking_Popularity": 412,
-  "Ranking_PopularitySum": 478,
+  "Ranking_Popularity": 409,
+  "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -399,11 +399,17 @@
       "Rating": 4.21,
       "NumberOfAwards": 68,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2023-12-16T11:59:39.7470394+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 69,
+      "NumberOfAwardsMax": 69
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 68,
-  "NumberOfAwardsMax": 68,
+  "NumberOfAwards": 69,
+  "NumberOfAwardsMax": 69,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -416,12 +422,12 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 68
+      "Count": 69
     }
   ],
-  "EOS_Progressed": 329651,
+  "EOS_Progressed": 329677,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3496,
+  "EOS_NewPlayers": 3487,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9809,6 +9815,11 @@
       "Time": "2023-12-16T11:04:20.7938658+00:00",
       "NumProgressed": 329651,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-16T12:04:46.9121951+00:00",
+      "NumProgressed": 329677,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9829,7 +9840,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6593
+      "UsersEstimate": 6594
     },
     {
       "ID": "S03_OTWA",
@@ -10140,16 +10151,16 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 329651,
+      "Progressed": 329677,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-28T19:01:10.9639356+00:00",
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
-  "LastChanged": "2023-12-15T21:58:33.097623+00:00",
-  "LastChanged_Achievements": "2023-12-16T11:04:20.7938654+00:00",
+  "LastChanged": "2023-12-16T11:59:39.7470392+00:00",
+  "LastChanged_Achievements": "2023-12-16T12:04:46.9121945+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-16T10:59:24.6017987+00:00",
-  "LastUpdate_Achievements": "2023-12-16T11:04:20.7939269+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:59:39.7470398+00:00",
+  "LastUpdate_Achievements": "2023-12-16T12:04:46.9122527+00:00"
 }

@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 70.00% | ~107 |
-| Purification Pioneer | 65.00% | ~99 |
-| Mechanical Buddy | 60.00% | ~92 |
-| Dicesmithing Time! | 54.00% | ~83 |
-| Sanctuary Guardian | 48.00% | ~73 |
-| Endless Tricks | 47.00% | ~72 |
-| Wild's Keeper | 43.00% | ~66 |
-| Mind Illuminator | 38.00% | ~58 |
-| Stellar Dismantler | 35.00% | ~54 |
-| Noctuan Champion | 33.00% | ~50 |
-| Anomaly Destroyer | 28.00% | ~43 |
-| Eridanian Champion | 27.00% | ~41 |
-| Astral Adventurer | 25.00% | ~38 |
-| Star Killer | 25.00% | ~38 |
-| Lacertian Champion | 25.00% | ~38 |
-| Loyal Partner | 23.00% | ~35 |
-| Shard Spender | 20.00% | ~31 |
-| Apian Champion | 20.00% | ~31 |
-| Behenian Champion | 16.00% | ~24 |
+| Meissa's Savior | 70.00% | ~109 |
+| Purification Pioneer | 65.00% | ~101 |
+| Mechanical Buddy | 60.00% | ~94 |
+| Dicesmithing Time! | 53.00% | ~83 |
+| Sanctuary Guardian | 47.00% | ~73 |
+| Endless Tricks | 46.00% | ~72 |
+| Wild's Keeper | 42.00% | ~66 |
+| Mind Illuminator | 37.00% | ~58 |
+| Stellar Dismantler | 34.00% | ~53 |
+| Noctuan Champion | 32.00% | ~50 |
+| Anomaly Destroyer | 28.00% | ~44 |
+| Eridanian Champion | 26.00% | ~41 |
+| Astral Adventurer | 25.00% | ~39 |
+| Star Killer | 25.00% | ~39 |
+| Lacertian Champion | 25.00% | ~39 |
+| Loyal Partner | 22.00% | ~34 |
+| Shard Spender | 19.00% | ~30 |
+| Apian Champion | 19.00% | ~30 |
+| Behenian Champion | 16.00% | ~25 |
 | Unbeatable | 15.00% | ~23 |
-| Sadistic Plan | 14.00% | ~21 |
+| Sadistic Plan | 14.00% | ~22 |
 | Aquarian Champion | 11.00% | ~17 |
-| Astral Seeker | 10.00% | ~15 |
-| Heart Gate | 10.00% | ~15 |
-| Heavy Purger | 10.00% | ~15 |
-| Stellar Haste | 10.00% | ~15 |
+| Astral Seeker | 10.00% | ~16 |
+| Heart Gate | 10.00% | ~16 |
+| Heavy Purger | 10.00% | ~16 |
+| Stellar Haste | 10.00% | ~16 |
 | Favored by the Cosmos | 9.00% | ~14 |
 | The Corruption Goddess | 9.00% | ~14 |
 | The Goddes Avatar | 9.00% | ~14 |
@@ -39,17 +39,17 @@
 | Artificer | 6.00% | ~9 |
 | Can't touch this | 6.00% | ~9 |
 | The Dark Moon | 6.00% | ~9 |
-| Denying Destiny | 5.00% | ~8 |
 | The Chaos Artisan | 5.00% | ~8 |
 | The Distorted Sage | 5.00% | ~8 |
 | Behenian Hero | 5.00% | ~8 |
 | Lacertian Hero | 5.00% | ~8 |
+| Astrarium of Holding | 4.00% | ~6 |
+| Denying Destiny | 4.00% | ~6 |
 | If I Had Failed... | 4.00% | ~6 |
 | Purification Avatar | 4.00% | ~6 |
 | The Abyssal Terror | 4.00% | ~6 |
 | Behenian Mastery | 4.00% | ~6 |
 | Noctuan Hero | 4.00% | ~6 |
-| Astrarium of Holding | 3.00% | ~5 |
 | Prestidigitation | 3.00% | ~5 |
 | The Ardent Prince | 3.00% | ~5 |
 | Aquarian Hero | 3.00% | ~5 |
@@ -67,17 +67,17 @@
 | Plague Doctor | 1.00% | ~2 |
 | Pocket Astrarium | 1.00% | ~2 |
 | Royal Choir | 1.00% | ~2 |
-| Anomaly Master | 0.70% | ~1 |
-| Arch-Oracle | 0.70% | ~1 |
-| Astrea's Saviors | 0.70% | ~1 |
-| Astrium Specialist | 0.70% | ~1 |
-| Dice Specialist | 0.70% | ~1 |
-| Gotta tinker'em all! | 0.70% | ~1 |
-| Six-Sided Mastery | 0.70% | ~1 |
-| This is Fine | 0.70% | ~1 |
-| Unepic Hero | 0.70% | ~1 |
-| Virtuous Warrior | 0.70% | ~1 |
-| Apian Mastery | 0.70% | ~1 |
+| Anomaly Master | 0.60% | ~1 |
+| Arch-Oracle | 0.60% | ~1 |
+| Astrea's Saviors | 0.60% | ~1 |
+| Astrium Specialist | 0.60% | ~1 |
+| Dice Specialist | 0.60% | ~1 |
+| Gotta tinker'em all! | 0.60% | ~1 |
+| Six-Sided Mastery | 0.60% | ~1 |
+| This is Fine | 0.60% | ~1 |
+| Unepic Hero | 0.60% | ~1 |
+| Virtuous Warrior | 0.60% | ~1 |
+| Apian Mastery | 0.60% | ~1 |
 | Apian Champion | 0.00% | ~0 |
 | Apian Hero | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
@@ -103,7 +103,7 @@
 | Skeptical | 0.00% | ~0 |
 | The world goes round... | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153 (Ranked 414)  
+Progressed: 156 (Ranked 413)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,4 +154,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 102 | 0 |
 | 2023-12-14 | 121 | 0 |
 | 2023-12-15 | 139 | 0 |
-| 2023-12-16 | 153 | 0 |
+| 2023-12-16 | 156 | 0 |

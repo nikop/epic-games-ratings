@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5720,
+  "EOS_Progressed": 5723,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8170,6 +8170,11 @@
       "Time": "2023-12-16T10:03:13.5089537+00:00",
       "NumProgressed": 5720,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-16T12:04:10.5939691+00:00",
+      "NumProgressed": 5723,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8445,7 +8450,7 @@
       "Name": "The Eternal Court",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "40",
@@ -8660,13 +8665,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5720,
+      "Progressed": 5723,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5720,
+      "Progressed": 5723,
       "Completed": 7
     }
   ],
@@ -8674,8 +8679,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-16T11:03:44.2742043+00:00",
+  "LastChanged_Achievements": "2023-12-16T12:04:10.5939686+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:32.604119+00:00",
-  "LastUpdate_Ratings": "2023-12-16T10:58:11.6261644+00:00",
-  "LastUpdate_Achievements": "2023-12-16T11:03:44.2743148+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:58:26.3571269+00:00",
+  "LastUpdate_Achievements": "2023-12-16T12:04:10.5940666+00:00"
 }

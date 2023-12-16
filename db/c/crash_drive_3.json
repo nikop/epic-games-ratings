@@ -2,10 +2,10 @@
   "ID": "15cb739316ba44ed87878349d10b3ffc",
   "Name": "Crash Drive 3",
   "ProductSlug": "crash-drive-3",
-  "Ranking_EOS_Progress": 337,
+  "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -639,6 +639,11 @@
       "Time": "2023-12-13T23:08:41.0406828+00:00",
       "NumProgressed": 415,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-16T12:09:06.9296144+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -650,7 +655,7 @@
       "Name": "Brace for impact!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -666,7 +671,7 @@
       "Name": "Fore!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "CATAPULT_THROW",
@@ -682,7 +687,7 @@
       "Name": "The Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -738,7 +743,7 @@
       "Name": "Drift King!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "FIND_40_M2H",
@@ -824,9 +829,9 @@
       "ID": "HIT_10_PLAYERS",
       "SetID": "20koof9",
       "Name": "Anger Issues",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 79
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -858,7 +863,7 @@
       "Name": "Insurance fraud",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -906,7 +911,7 @@
       "Name": "The Wild West",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -914,7 +919,7 @@
       "Name": "A Forest Walk",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -922,7 +927,7 @@
       "Name": "Snow Fun!",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -936,9 +941,9 @@
       "ID": "MAX_MULTIPLIER",
       "SetID": "20koof9",
       "Name": "Multiply that!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 104
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -970,7 +975,7 @@
       "Name": "Bag of Tricks",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -994,7 +999,7 @@
       "Name": "Ferry Good!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "USE_ROCKET",
@@ -1050,7 +1055,7 @@
       "Name": "Assert Dominance",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "WIN_RACE_AGAINST_3",
@@ -1058,7 +1063,7 @@
       "Name": "Speed of light",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "WIN_ROBBER",
@@ -1074,7 +1079,7 @@
       "Name": "You\u0027re it",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -1089,7 +1094,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 2
     }
   ],
@@ -1097,8 +1102,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-12-16T11:08:49.3446545+00:00",
+  "LastChanged_Achievements": "2023-12-16T12:09:06.9296138+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:14.6005473+00:00",
-  "LastUpdate_Ratings": "2023-12-16T11:02:34.6779537+00:00",
-  "LastUpdate_Achievements": "2023-12-16T11:08:49.3446893+00:00"
+  "LastUpdate_Ratings": "2023-12-16T12:02:19.8139323+00:00",
+  "LastUpdate_Achievements": "2023-12-16T12:09:06.9296684+00:00"
 }

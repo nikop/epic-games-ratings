@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26339,
+  "EOS_Progressed": 26340,
   "EOS_Completed": 493,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.87,
   "EosHistory": [
@@ -26209,6 +26209,11 @@
       "Time": "2023-12-16T11:06:19.6581021+00:00",
       "NumProgressed": 26339,
       "NumCompleted": 493
+    },
+    {
+      "Time": "2023-12-16T12:06:45.243252+00:00",
+      "NumProgressed": 26340,
+      "NumCompleted": 493
     }
   ],
   "TotalAchievements": 20,
@@ -26236,7 +26241,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3687
+      "UsersEstimate": 3688
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -26284,7 +26289,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3687
+      "UsersEstimate": 3688
     },
     {
       "ID": "FOUND_ERIN",
@@ -26379,15 +26384,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26339,
+      "Progressed": 26340,
       "Completed": 493
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-16T11:06:19.6581013+00:00",
+  "LastChanged_Achievements": "2023-12-16T12:06:45.2432514+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:05.8810572+00:00",
-  "LastUpdate_Ratings": "2023-12-16T10:59:41.7224608+00:00",
-  "LastUpdate_Achievements": "2023-12-16T11:06:19.658239+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:59:57.0019633+00:00",
+  "LastUpdate_Achievements": "2023-12-16T12:06:45.2434054+00:00"
 }

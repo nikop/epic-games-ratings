@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 354,
+  "EOS_Progressed": 355,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1344,6 +1344,11 @@
       "Time": "2023-12-16T11:07:38.4195818+00:00",
       "NumProgressed": 354,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T12:08:05.2140431+00:00",
+      "NumProgressed": 355,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -1380,7 +1385,7 @@
       "Name": "Full load",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Island",
@@ -1444,7 +1449,7 @@
       "Name": "Tangentially",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "USSR",
@@ -1467,14 +1472,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 354,
+      "Progressed": 355,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-12-16T11:07:38.4195814+00:00",
+  "LastChanged_Achievements": "2023-12-16T12:08:05.2140424+00:00",
   "LastUpdate_AppInfo": "2023-12-12T02:57:11.9041929+00:00",
-  "LastUpdate_Ratings": "2023-12-16T10:57:35.0099652+00:00",
-  "LastUpdate_Achievements": "2023-12-16T11:07:38.4195964+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:57:48.2458065+00:00",
+  "LastUpdate_Achievements": "2023-12-16T12:08:05.2140604+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -789,9 +789,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3411,
+  "EOS_Progressed": 3412,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4289,6 +4289,11 @@
       "Time": "2023-12-16T10:03:52.0362496+00:00",
       "NumProgressed": 3411,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T12:05:05.7794337+00:00",
+      "NumProgressed": 3412,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4730,9 +4735,9 @@
       "ID": "ReaperDefeated_Tentarus",
       "SetID": "3jha1np",
       "Name": "Death Comes For All",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 27
     },
     {
       "ID": "SacristaCompleted",
@@ -4843,21 +4848,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3411,
+      "Progressed": 3412,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3411,
+      "Progressed": 3412,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-12T16:03:26.7422514+00:00",
-  "LastChanged_Achievements": "2023-12-16T11:04:39.351895+00:00",
+  "LastChanged_Achievements": "2023-12-16T12:05:05.7794332+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:10.0749768+00:00",
-  "LastUpdate_Ratings": "2023-12-16T11:03:18.3925752+00:00",
-  "LastUpdate_Achievements": "2023-12-16T11:04:39.3519662+00:00"
+  "LastUpdate_Ratings": "2023-12-16T12:03:43.8446603+00:00",
+  "LastUpdate_Achievements": "2023-12-16T12:05:05.7795279+00:00"
 }

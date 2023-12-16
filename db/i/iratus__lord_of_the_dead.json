@@ -2,13 +2,13 @@
   "ID": "d250bdf072934b70ab080c6fcee77734",
   "Name": "Iratus: Lord of the Dead",
   "ProductSlug": "iratus-d0e5ba",
-  "Ranking_Rating": 779,
+  "Ranking_Rating": 780,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2401,9 +2401,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 47058,
+  "EOS_Progressed": 47059,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28476,6 +28476,11 @@
       "Time": "2023-12-16T11:07:52.1597942+00:00",
       "NumProgressed": 47058,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-12-16T12:08:19.4409518+00:00",
+      "NumProgressed": 47059,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 75,
@@ -28495,7 +28500,7 @@
       "Name": "Unholy Bones",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 10823
+      "UsersEstimate": 10824
     },
     {
       "ID": "achievements_11",
@@ -28519,7 +28524,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 26823
+      "UsersEstimate": 26824
     },
     {
       "ID": "achievements_14",
@@ -28535,7 +28540,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 22117
+      "UsersEstimate": 22118
     },
     {
       "ID": "achievements_17",
@@ -28543,7 +28548,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 16470
+      "UsersEstimate": 16471
     },
     {
       "ID": "achievements_19",
@@ -28551,7 +28556,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 13176
+      "UsersEstimate": 13177
     },
     {
       "ID": "achievements_2",
@@ -28567,7 +28572,7 @@
       "Name": "Lord of Fire",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 10823
+      "UsersEstimate": 10824
     },
     {
       "ID": "achievements_21",
@@ -28607,7 +28612,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 13176
+      "UsersEstimate": 13177
     },
     {
       "ID": "achievements_26",
@@ -28695,7 +28700,7 @@
       "Name": "Means of Recovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2823
+      "UsersEstimate": 2824
     },
     {
       "ID": "achievements_36",
@@ -28767,7 +28772,7 @@
       "Name": "Uncommon Warrior",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 10823
+      "UsersEstimate": 10824
     },
     {
       "ID": "achievements_44",
@@ -28791,7 +28796,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 39999
+      "UsersEstimate": 40000
     },
     {
       "ID": "achievements_47",
@@ -28807,7 +28812,7 @@
       "Name": "Master of Magic",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 2823
+      "UsersEstimate": 2824
     },
     {
       "ID": "achievements_49",
@@ -28839,7 +28844,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 18823
+      "UsersEstimate": 18824
     },
     {
       "ID": "achievements_52",
@@ -28847,7 +28852,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 19764
+      "UsersEstimate": 19765
     },
     {
       "ID": "achievements_53",
@@ -28855,7 +28860,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 26823
+      "UsersEstimate": 26824
     },
     {
       "ID": "achievements_54",
@@ -28935,7 +28940,7 @@
       "Name": "Revealed Secrets - II",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 11764
+      "UsersEstimate": 11765
     },
     {
       "ID": "achievements_64",
@@ -29063,7 +29068,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 34352
+      "UsersEstimate": 34353
     },
     {
       "ID": "achievements_8",
@@ -29086,15 +29091,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 47058,
+      "Progressed": 47059,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-12-15T09:58:02.9886902+00:00",
-  "LastChanged_Achievements": "2023-12-16T11:07:52.1597938+00:00",
+  "LastChanged_Achievements": "2023-12-16T12:08:19.4409512+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:11.5197894+00:00",
-  "LastUpdate_Ratings": "2023-12-16T10:59:10.2032044+00:00",
-  "LastUpdate_Achievements": "2023-12-16T11:07:52.1599594+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:59:25.6320389+00:00",
+  "LastUpdate_Achievements": "2023-12-16T12:08:19.441161+00:00"
 }

@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 43.37,
+  "EOS_Completed_Percentage": 43.11,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -1124,6 +1124,11 @@
       "Time": "2023-12-16T06:08:51.2475288+00:00",
       "NumProgressed": 166,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-12-16T12:09:25.2625235+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 72
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -1136,7 +1141,7 @@
       "Name": "Budoir",
       "Percentage": 67,
       "XP": 80,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Intro",
@@ -1144,15 +1149,15 @@
       "Name": "Intro",
       "Percentage": 96,
       "XP": 75,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Kanalizace",
       "SetID": "823jm6g",
       "Name": "Sewers",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 75,
-      "UsersEstimate": 131
+      "UsersEstimate": 130
     },
     {
       "ID": "Kompotarna",
@@ -1160,7 +1165,7 @@
       "Name": "Pantry",
       "Percentage": 80,
       "XP": 80,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Konec",
@@ -1174,9 +1179,9 @@
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 80,
-      "UsersEstimate": 105
+      "UsersEstimate": 104
     },
     {
       "ID": "Majak",
@@ -1190,9 +1195,9 @@
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 75,
-      "UsersEstimate": 105
+      "UsersEstimate": 104
     },
     {
       "ID": "Planina",
@@ -1206,9 +1211,9 @@
       "ID": "Poklop",
       "SetID": "823jm6g",
       "Name": "Hatch",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 75,
-      "UsersEstimate": 141
+      "UsersEstimate": 140
     },
     {
       "ID": "Snekoun",
@@ -1216,13 +1221,13 @@
       "Name": "Snailman",
       "Percentage": 84,
       "XP": 80,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 75,
       "UsersEstimate": 134
     },
@@ -1232,21 +1237,21 @@
       "Name": "Seal Peaks",
       "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     }
   ],
   "AchievementSets": [
     {
       "ID": "823jm6g",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 72
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-12-16T11:09:06.8099556+00:00",
+  "LastChanged_Achievements": "2023-12-16T12:09:25.2625229+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9761332+00:00",
-  "LastUpdate_Ratings": "2023-12-16T10:57:02.7438875+00:00",
-  "LastUpdate_Achievements": "2023-12-16T11:09:06.8099718+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:57:16.4782012+00:00",
+  "LastUpdate_Achievements": "2023-12-16T12:09:25.2625404+00:00"
 }

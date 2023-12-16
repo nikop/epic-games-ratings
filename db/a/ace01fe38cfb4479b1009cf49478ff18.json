@@ -3,9 +3,9 @@
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 378,
-  "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_Completed": 226,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 259,
+  "EOS_Progressed": 261,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.39,
+  "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
     {
       "Time": "2023-10-13T10:03:19.5665873+00:00",
@@ -1039,6 +1039,11 @@
       "Time": "2023-12-16T11:06:05.7407719+00:00",
       "NumProgressed": 259,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T12:06:31.0723422+00:00",
+      "NumProgressed": 261,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1059,7 +1064,7 @@
       "Name": "Chapter II - Complete",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -1146,14 +1151,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 259,
+      "Progressed": 261,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-16T11:06:05.7407715+00:00",
+  "LastChanged_Achievements": "2023-12-16T12:06:31.0723416+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.6680838+00:00",
-  "LastUpdate_Ratings": "2023-12-16T10:59:56.7735449+00:00",
-  "LastUpdate_Achievements": "2023-12-16T11:06:05.740786+00:00"
+  "LastUpdate_Ratings": "2023-12-16T12:00:11.9146525+00:00",
+  "LastUpdate_Achievements": "2023-12-16T12:06:31.0723581+00:00"
 }

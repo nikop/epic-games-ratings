@@ -6,7 +6,7 @@ Rating: 4.39 (Ranked 758)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start | 76.00% | ~911 |
-| And so it begins | 72.00% | ~863 |
+| And so it begins | 73.00% | ~875 |
 | No pressure | 70.00% | ~839 |
 | Memento | 61.00% | ~731 |
 | Let there be light | 59.00% | ~707 |

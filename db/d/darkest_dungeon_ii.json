@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9774,9 +9774,9 @@
       "Count": 1014
     }
   ],
-  "EOS_Progressed": 127634,
+  "EOS_Progressed": 127658,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1739,
+  "EOS_NewPlayers": 1759,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35299,6 +35299,11 @@
       "Time": "2023-12-16T11:09:31.3148198+00:00",
       "NumProgressed": 127634,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T12:09:49.716879+00:00",
+      "NumProgressed": 127658,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35310,7 +35315,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -35326,7 +35331,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -35372,9 +35377,9 @@
       "ID": "altar_of_hope_unlock_hero_occultist",
       "SetID": "64l4lke",
       "Name": "Wyrdly Reconstructed",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 893
+      "UsersEstimate": 1021
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -35438,7 +35443,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3829
+      "UsersEstimate": 3830
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35446,7 +35451,7 @@
       "Name": "Dissector",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "combat_kill_cosmic",
@@ -35476,9 +35481,9 @@
       "ID": "combat_kill_fanatics",
       "SetID": "64l4lke",
       "Name": "Deprogramming",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1277
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -35492,9 +35497,9 @@
       "ID": "combat_kill_gaunts",
       "SetID": "64l4lke",
       "Name": "Now Stay Dead",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1149
     },
     {
       "ID": "combat_kill_gentry",
@@ -35582,7 +35587,7 @@
       "Name": "It Happens",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -35596,9 +35601,9 @@
       "ID": "driving_biome_clear_cave",
       "SetID": "64l4lke",
       "Name": "Spelunker",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1277
     },
     {
       "ID": "driving_biome_clear_city",
@@ -35606,7 +35611,7 @@
       "Name": "Rush Hour",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -35614,7 +35619,7 @@
       "Name": "Merry Time",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -35622,15 +35627,15 @@
       "Name": "Harvest Festival",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "driving_biome_clear_forest",
       "SetID": "64l4lke",
       "Name": "To Grandmother\u0027s House",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 2553
     },
     {
       "ID": "driving_distance_easy",
@@ -35686,7 +35691,7 @@
       "Name": "Whale",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "hospital_full_service",
@@ -35702,7 +35707,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -35710,7 +35715,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -35718,7 +35723,7 @@
       "Name": "FNG",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "inn_visit_all_variants",
@@ -35742,7 +35747,7 @@
       "Name": "Utopia",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -35758,15 +35763,15 @@
       "Name": "Nope",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "run_victory_act01",
       "SetID": "64l4lke",
       "Name": "Unshackled",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1149
     },
     {
       "ID": "run_victory_act02",
@@ -35846,7 +35851,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 152
     },
     {
       "ID": "combat_kill_collector",
@@ -35854,7 +35859,7 @@
       "Name": "This guy... again?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35894,7 +35899,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -35902,7 +35907,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "quest_complete_crusader",
@@ -35910,7 +35915,7 @@
       "Name": "Lost and Found",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35941,21 +35946,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127634,
+      "Progressed": 127658,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2503,
+      "Progressed": 2527,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-16T08:57:11.6954353+00:00",
-  "LastChanged_Achievements": "2023-12-16T11:09:31.3148191+00:00",
+  "LastChanged_Achievements": "2023-12-16T12:09:49.7168783+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-16T10:57:26.1305865+00:00",
-  "LastUpdate_Achievements": "2023-12-16T11:09:31.3150324+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:57:39.6586712+00:00",
+  "LastUpdate_Achievements": "2023-12-16T12:09:49.717087+00:00"
 }

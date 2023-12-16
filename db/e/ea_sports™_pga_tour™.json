@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 629,
+  "EOS_Progressed": 630,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.59,
   "EosHistory": [
@@ -2250,6 +2250,11 @@
       "Time": "2023-12-16T07:09:46.8383001+00:00",
       "NumProgressed": 629,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-16T12:10:25.9070555+00:00",
+      "NumProgressed": 630,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2270,15 +2275,15 @@
       "Name": "Holey Moley",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "achievement_11",
       "SetID": "7ldgi7j",
       "Name": "Bomb\u0027s Away",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 296
     },
     {
       "ID": "achievement_12",
@@ -2286,7 +2291,7 @@
       "Name": "From Way Downtown",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "achievement_13",
@@ -2294,7 +2299,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "achievement_14",
@@ -2318,7 +2323,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "achievement_17",
@@ -2326,23 +2331,23 @@
       "Name": "Clean Sheet",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_18",
       "SetID": "7ldgi7j",
       "Name": "Perfect Round",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 277
+      "UsersEstimate": 271
     },
     {
       "ID": "achievement_2",
       "SetID": "7ldgi7j",
       "Name": "A Tradition Unlike Any Other",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 145
     },
     {
       "ID": "achievement_3",
@@ -2398,20 +2403,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 629,
+      "Progressed": 630,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-16T11:10:06.8533345+00:00",
+  "LastChanged_Achievements": "2023-12-16T12:10:25.9070549+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:12.3261518+00:00",
-  "LastUpdate_Ratings": "2023-12-16T11:02:32.4458088+00:00",
-  "LastUpdate_Achievements": "2023-12-16T11:10:06.853353+00:00"
+  "LastUpdate_Ratings": "2023-12-16T12:02:17.5596474+00:00",
+  "LastUpdate_Achievements": "2023-12-16T12:10:25.9070766+00:00"
 }

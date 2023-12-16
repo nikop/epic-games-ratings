@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 37.00% | ~21 |
-| You have three wishes left | 32.00% | ~18 |
+| Master trainee | 38.00% | ~22 |
+| You have three wishes left | 33.00% | ~19 |
 | Jung's dream | 28.00% | ~16 |
 | The battle of Great Britain | 28.00% | ~16 |
-| Pulp! Where Monsters Dwell | 25.00% | ~14 |
+| Pulp! Where Monsters Dwell | 24.00% | ~14 |
 | A continent with chemistry | 21.00% | ~12 |
-| Giant | 18.00% | ~10 |
-| The happy farmer girl | 18.00% | ~10 |
+| Giant | 17.00% | ~10 |
+| The happy farmer girl | 17.00% | ~10 |
 | Pulp! Terror Tales in the Night | 16.00% | ~9 |
 | Pulp! Out of this World | 16.00% | ~9 |
 | The artist | 14.00% | ~8 |
 | Pulp! Adventures into the Unknown | 14.00% | ~8 |
+| Diagnosis: fear | 14.00% | ~8 |
+| Ambition is... blind | 14.00% | ~8 |
 | The seer | 12.00% | ~7 |
-| Diagnosis: fear | 12.00% | ~7 |
-| Ambition is... blind | 12.00% | ~7 |
 | You have two wishes left | 12.00% | ~7 |
-| A rival with no options | 11.00% | ~6 |
+| A rival with no options | 10.00% | ~6 |
 | Et in arcadia ego | 9.00% | ~5 |
 | You had one wish left | 7.00% | ~4 |
 | Kirlian's best disciple | 7.00% | ~4 |
@@ -33,9 +33,9 @@
 | The adventurer | 5.00% | ~3 |
 | ECO mode | 5.00% | ~3 |
 | Vaccine fans | 5.00% | ~3 |
-| Blood Red Island | 4.00% | ~2 |
-| The scholar | 4.00% | ~2 |
-| Pulp! The Beyond | 4.00% | ~2 |
+| Blood Red Island | 3.00% | ~2 |
+| The scholar | 3.00% | ~2 |
+| Pulp! The Beyond | 3.00% | ~2 |
 | Blessed antennas | 2.00% | ~1 |
 | The beast in the Oval Office | 2.00% | ~1 |
 | Pulp! Weird Science | 2.00% | ~1 |
@@ -52,7 +52,7 @@
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57 (Ranked 507)  
+Progressed: 58 (Ranked 506)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,4 +86,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 47 | 0 |
 | 2023-12-14 | 51 | 0 |
 | 2023-12-15 | 55 | 0 |
-| 2023-12-16 | 57 | 0 |
+| 2023-12-16 | 58 | 0 |

@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 86.00% | ~32,960 |
-| Struck A Pose | 84.00% | ~32,194 |
-| Look At Him Go | 69.00% | ~26,445 |
-| On Rails Experience | 47.00% | ~18,013 |
-| A Daring Devil | 45.00% | ~17,247 |
-| Break the Bank | 36.00% | ~13,797 |
-| It Took Two | 34.00% | ~13,031 |
-| Bug Sized Relaxation | 17.00% | ~6,515 |
-| Plastic Prison Breakers | 15.00% | ~5,749 |
-| Terror Of The Seven Seas | 12.00% | ~4,599 |
-| Realize Your Art | 10.00% | ~3,833 |
-| Force Triangulated | 10.00% | ~3,833 |
-| Meditation Maestro | 10.00% | ~3,833 |
-| Lost And Found | 8.00% | ~3,066 |
-| Something Fishy | 8.00% | ~3,066 |
-| Platforming Prodigy | 7.00% | ~2,683 |
-| Snackosaurus | 6.00% | ~2,300 |
-| Mood Swing | 6.00% | ~2,300 |
-| Minigame Megalomania | 3.00% | ~1,150 |
-| Faraway Frequencies | 3.00% | ~1,150 |
+| Fried Friendship | 86.00% | ~33,336 |
+| Struck A Pose | 84.00% | ~32,561 |
+| Look At Him Go | 69.00% | ~26,746 |
+| On Rails Experience | 46.00% | ~17,831 |
+| A Daring Devil | 45.00% | ~17,443 |
+| Break the Bank | 36.00% | ~13,955 |
+| It Took Two | 34.00% | ~13,179 |
+| Bug Sized Relaxation | 17.00% | ~6,590 |
+| Plastic Prison Breakers | 15.00% | ~5,814 |
+| Terror Of The Seven Seas | 12.00% | ~4,652 |
+| Realize Your Art | 10.00% | ~3,876 |
+| Force Triangulated | 10.00% | ~3,876 |
+| Meditation Maestro | 10.00% | ~3,876 |
+| Lost And Found | 8.00% | ~3,101 |
+| Something Fishy | 8.00% | ~3,101 |
+| Platforming Prodigy | 7.00% | ~2,713 |
+| Snackosaurus | 6.00% | ~2,326 |
+| Mood Swing | 6.00% | ~2,326 |
+| Minigame Megalomania | 3.00% | ~1,163 |
+| Faraway Frequencies | 3.00% | ~1,163 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,326 (Ranked 126)  
+Progressed: 38,763 (Ranked 126)  
 Completed: 126 (0.33%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,4 +117,4 @@ Completed: 126 (0.33%) (Ranked 236)
 | 2023-12-13 | 27,552 | 122 |
 | 2023-12-14 | 29,955 | 125 |
 | 2023-12-15 | 35,301 | 125 |
-| 2023-12-16 | 38,326 | 126 |
+| 2023-12-16 | 38,763 | 126 |

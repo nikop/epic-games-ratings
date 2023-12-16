@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 61.00% | ~406 |
-| The Teleprobe | 48.00% | ~319 |
-| The City | 43.00% | ~286 |
-| The field base | 39.00% | ~259 |
-| Survivors | 34.00% | ~226 |
-| The Condor | 31.00% | ~206 |
-| The End | 31.00% | ~206 |
-| The Alliance | 28.00% | ~186 |
-| The Necroevolution | 25.00% | ~166 |
-| Krauta is alive | 23.00% | ~153 |
-| Peacemaker | 20.00% | ~133 |
-| Volcanologist | 19.00% | ~126 |
+| The Camp | 60.00% | ~401 |
+| The Teleprobe | 48.00% | ~321 |
+| The City | 43.00% | ~288 |
+| The field base | 39.00% | ~261 |
+| Survivors | 34.00% | ~227 |
+| The Condor | 31.00% | ~207 |
+| The End | 31.00% | ~207 |
+| The Alliance | 28.00% | ~187 |
+| The Necroevolution | 25.00% | ~167 |
+| Krauta is alive | 23.00% | ~154 |
+| Peacemaker | 20.00% | ~134 |
+| Volcanologist | 19.00% | ~127 |
 | On her own | 18.00% | ~120 |
-| Evacuation | 17.00% | ~113 |
-| Beyond divisions | 16.00% | ~106 |
+| Evacuation | 17.00% | ~114 |
+| Beyond divisions | 16.00% | ~107 |
 | Fierce fight | 15.00% | ~100 |
-| Flying Objects Operator | 14.00% | ~93 |
+| Flying Objects Operator | 14.00% | ~94 |
 | I remember everything! | 12.00% | ~80 |
-| Another giant | 10.00% | ~66 |
+| Another giant | 10.00% | ~67 |
 | Violent solution | 9.00% | ~60 |
-| Innate curiosity | 8.00% | ~53 |
+| Innate curiosity | 8.00% | ~54 |
 | I leave no man behind | 6.00% | ~40 |
 | The Invincible | 5.00% | ~33 |
 | Strong objection | 5.00% | ~33 |
 | Ubiquitous holes | 4.00% | ~27 |
 | Got lost again | 4.00% | ~27 |
 | I leave no man behind (no exceptions) | 2.00% | ~13 |
-| Convoy list | 0.80% | ~5 |
-| No more mistakes | 0.50% | ~3 |
+| Convoy list | 0.70% | ~5 |
+| No more mistakes | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665 (Ranked 297)  
+Progressed: 669 (Ranked 296)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,4 +75,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 561 | 0 |
 | 2023-12-14 | 605 | 0 |
 | 2023-12-15 | 653 | 0 |
-| 2023-12-16 | 665 | 0 |
+| 2023-12-16 | 669 | 0 |

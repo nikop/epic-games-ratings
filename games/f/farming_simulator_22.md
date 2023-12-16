@@ -6,41 +6,41 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 73.00% | ~40,886 |
-| I read Shakespeare and stuff | 62.00% | ~34,725 |
-| Just a sprinkle | 60.00% | ~33,605 |
-| I'm stumped | 59.00% | ~33,045 |
-| Plant get enough | 58.00% | ~32,485 |
-| This is just my weekend vehicle | 56.00% | ~31,364 |
-| It's just the beginning | 56.00% | ~31,364 |
-| Hard work pays off | 51.00% | ~28,564 |
-| It's never too late to farm | 49.00% | ~27,444 |
-| All out of Land | 43.00% | ~24,083 |
-| Field Trip | 42.00% | ~23,523 |
-| I like to switch it up | 39.00% | ~21,843 |
-| Help me to help you | 37.00% | ~20,723 |
-| Ultimutt Pawesomeness | 27.00% | ~15,122 |
-| Van Gogh | 25.00% | ~14,002 |
-| Vehicle fleet | 22.00% | ~12,322 |
-| You wood not believe it | 21.00% | ~11,762 |
-| Well-Oiled Machine | 16.00% | ~8,961 |
-| Clucky Streak | 15.00% | ~8,401 |
-| The plot thickens | 15.00% | ~8,401 |
-| Large-scale supplier | 15.00% | ~8,401 |
-| Long haul | 15.00% | ~8,401 |
-| That's a wrap | 14.00% | ~7,841 |
-| Fix me up | 12.00% | ~6,721 |
-| It's sow easy | 11.00% | ~6,161 |
-| Rock on | 11.00% | ~6,161 |
-| Highly cultivated | 10.00% | ~5,601 |
-| Giddy-up! | 9.00% | ~5,041 |
+| Own use | 73.00% | ~40,895 |
+| I read Shakespeare and stuff | 62.00% | ~34,732 |
+| Just a sprinkle | 60.00% | ~33,612 |
+| I'm stumped | 59.00% | ~33,052 |
+| Plant get enough | 58.00% | ~32,492 |
+| This is just my weekend vehicle | 56.00% | ~31,371 |
+| It's just the beginning | 56.00% | ~31,371 |
+| Hard work pays off | 51.00% | ~28,570 |
+| It's never too late to farm | 48.00% | ~26,890 |
+| All out of Land | 43.00% | ~24,089 |
+| Field Trip | 42.00% | ~23,528 |
+| I like to switch it up | 39.00% | ~21,848 |
+| Help me to help you | 37.00% | ~20,727 |
+| Ultimutt Pawesomeness | 27.00% | ~15,125 |
+| Van Gogh | 25.00% | ~14,005 |
+| Vehicle fleet | 22.00% | ~12,324 |
+| You wood not believe it | 21.00% | ~11,764 |
+| Well-Oiled Machine | 16.00% | ~8,963 |
+| Clucky Streak | 15.00% | ~8,403 |
+| The plot thickens | 15.00% | ~8,403 |
+| Large-scale supplier | 15.00% | ~8,403 |
+| Long haul | 15.00% | ~8,403 |
+| That's a wrap | 14.00% | ~7,843 |
+| Fix me up | 12.00% | ~6,722 |
+| It's sow easy | 11.00% | ~6,162 |
+| Rock on | 11.00% | ~6,162 |
+| Highly cultivated | 10.00% | ~5,602 |
+| Giddy-up! | 9.00% | ~5,042 |
 | Cowherd | 7.00% | ~3,921 |
-| Fluffyness | 6.00% | ~3,360 |
-| Road Trip | 5.00% | ~2,800 |
-| Helper A does not stop … ever | 5.00% | ~2,800 |
-| Bringing in the Honey | 5.00% | ~2,800 |
-| Three little piggies… | 4.00% | ~2,240 |
-| Game on | 4.00% | ~2,240 |
+| Fluffyness | 6.00% | ~3,361 |
+| Road Trip | 5.00% | ~2,801 |
+| Helper A does not stop … ever | 5.00% | ~2,801 |
+| Bringing in the Honey | 5.00% | ~2,801 |
+| Three little piggies… | 4.00% | ~2,241 |
+| Game on | 4.00% | ~2,241 |
 | Pretty colourful | 0.80% | ~448 |
 | Original grain | 0.80% | ~448 |
 | Thoroughbred! | 0.60% | ~336 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~224 |
 | Raisin the stakes | 0.30% | ~168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,008 (Ranked 112)  
+Progressed: 56,020 (Ranked 112)  
 Completed: 6 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,10 +290,10 @@ Completed: 6 (0.01%) (Ranked 353)
 | 2023-12-13 | 55,631 | 6 |
 | 2023-12-14 | 55,776 | 6 |
 | 2023-12-15 | 55,945 | 6 |
-| 2023-12-16 | 56,008 | 6 |
+| 2023-12-16 | 56,020 | 6 |
 ## Awards
 Max (Great for Beginners): 5,815  (Ranked 67)  
-Sum: 44,206 (Ranked 34)  
+Sum: 44,210 (Ranked 34)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -302,7 +302,7 @@ Diff (max vs sum): 33
 | This game is Educational | 4,452 |
 | This game is Highly Recommended | 4,416 |
 | This game has Quickly Understood Controls | 4,353 |
-| This game is Relaxing | 4,346 |
+| This game is Relaxing | 4,350 |
 | This game is Extremely Fun | 4,275 |
 | This game has Amazing Storytelling | 4,175 |
 | This game has Amazing Characters | 3,849 |
@@ -645,3 +645,4 @@ Diff (max vs sum): 33
 | 2023-12-13 | 4.68 | - | 5,804 | 44,126 |
 | 2023-12-14 | 4.68 | - | 5,808 | 44,164 |
 | 2023-12-15 | 4.68 | - | 5,815 | 44,206 |
+| 2023-12-16 | 4.68 | - | 5,815 | 44,210 |

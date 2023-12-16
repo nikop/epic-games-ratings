@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 30.00% | ~124 |
-| A Forest Walk | 29.00% | ~120 |
+| Brace for impact! | 30.00% | ~125 |
+| A Forest Walk | 29.00% | ~121 |
 | Baby's First Car | 28.00% | ~116 |
 | Pushover | 28.00% | ~116 |
 | Amateur Mechanic | 27.00% | ~112 |
-| Multiply that! | 26.00% | ~108 |
 | C-C-C-Combo! | 25.00% | ~104 |
-| Fore! | 23.00% | ~95 |
-| The Collector | 23.00% | ~95 |
-| Insurance fraud | 23.00% | ~95 |
-| Snow Fun! | 23.00% | ~95 |
-| The Wild West | 22.00% | ~91 |
-| Bag of Tricks | 22.00% | ~91 |
-| You're it | 22.00% | ~91 |
+| Multiply that! | 25.00% | ~104 |
+| Fore! | 23.00% | ~96 |
+| The Collector | 23.00% | ~96 |
+| Insurance fraud | 23.00% | ~96 |
+| Snow Fun! | 23.00% | ~96 |
+| The Wild West | 22.00% | ~92 |
+| Bag of Tricks | 22.00% | ~92 |
+| You're it | 22.00% | ~92 |
 | To and Fro | 21.00% | ~87 |
 | Goodbye cruel world | 21.00% | ~87 |
 | I see the light! | 21.00% | ~87 |
@@ -25,17 +25,17 @@
 | Car-Tapult | 20.00% | ~83 |
 | First Come, First Serve | 20.00% | ~83 |
 | Disoriented | 20.00% | ~83 |
-| Anger Issues | 20.00% | ~83 |
 | Take that Frosty! | 20.00% | ~83 |
 | Beach Party! | 20.00% | ~83 |
+| Anger Issues | 19.00% | ~79 |
 | Your Highness | 19.00% | ~79 |
 | Event Amateur | 18.00% | ~75 |
 | Feeling Hot Hot Hot! | 17.00% | ~71 |
 | Feeling Dizzy? | 17.00% | ~71 |
-| Drift King! | 16.00% | ~66 |
-| Ferry Good! | 16.00% | ~66 |
-| Assert Dominance | 16.00% | ~66 |
-| Speed of light | 16.00% | ~66 |
+| Drift King! | 16.00% | ~67 |
+| Ferry Good! | 16.00% | ~67 |
+| Assert Dominance | 16.00% | ~67 |
+| Speed of light | 16.00% | ~67 |
 | Out of this League | 13.00% | ~54 |
 | Special Forces | 12.00% | ~50 |
 | Blasting away! | 12.00% | ~50 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 415 (Ranked 337)  
+Progressed: 416 (Ranked 338)  
 Completed: 2 (0.48%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,6 +158,7 @@ Completed: 2 (0.48%) (Ranked 211)
 | 2023-12-06 | 412 | 2 |
 | 2023-12-09 | 413 | 2 |
 | 2023-12-13 | 415 | 2 |
+| 2023-12-16 | 416 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,28 +5,28 @@ Rating: 4.55 (Ranked 513)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 105.00% | ~19,082 |
-| Before the Downfall | 100.00% | ~18,173 |
-| Money like Water | 98.00% | ~17,810 |
-| Minimalist | 97.00% | ~17,628 |
-| Builder | 89.00% | ~16,174 |
-| Eraser | 75.00% | ~13,630 |
-| Pocket of Trains | 70.00% | ~12,721 |
-| Inspector | 64.00% | ~11,631 |
-| Going the Distance | 58.00% | ~10,540 |
-| Oil Baron | 45.00% | ~8,178 |
-| Loads-a-Money | 45.00% | ~8,178 |
-| Helper of the People | 42.00% | ~7,633 |
+| Trevithick's Legacy | 105.00% | ~19,080 |
+| Before the Downfall | 100.00% | ~18,171 |
+| Money like Water | 98.00% | ~17,808 |
+| Minimalist | 97.00% | ~17,626 |
+| Builder | 89.00% | ~16,172 |
+| Eraser | 75.00% | ~13,628 |
+| Pocket of Trains | 70.00% | ~12,720 |
+| Inspector | 64.00% | ~11,629 |
+| Going the Distance | 58.00% | ~10,539 |
+| Oil Baron | 45.00% | ~8,177 |
+| Loads-a-Money | 45.00% | ~8,177 |
+| Helper of the People | 42.00% | ~7,632 |
 | Simplification | 36.00% | ~6,542 |
 | Box of Trains | 36.00% | ~6,542 |
-| Let There be Light | 35.00% | ~6,361 |
-| Hot Water | 33.00% | ~5,997 |
-| Indecisive | 31.00% | ~5,634 |
-| The scenic route | 30.00% | ~5,452 |
-| Industrialist | 27.00% | ~4,907 |
+| Let There be Light | 35.00% | ~6,360 |
+| Hot Water | 33.00% | ~5,996 |
+| Indecisive | 31.00% | ~5,633 |
+| The scenic route | 30.00% | ~5,451 |
+| Industrialist | 27.00% | ~4,906 |
 | Perfectionist | 25.00% | ~4,543 |
 | Trains over Pipes | 25.00% | ~4,543 |
-| 8K is Enough for Everyone | 24.00% | ~4,362 |
+| 8K is Enough for Everyone | 24.00% | ~4,361 |
 | Man of Steel | 18.00% | ~3,271 |
 | Room Full of Trains | 14.00% | ~2,544 |
 | Investor | 11.00% | ~1,999 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 513)
 | Overdeer | 0.60% | ~109 |
 | Cloud Services | 0.30% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,173 (Ranked 148)  
+Progressed: 18,171 (Ranked 148)  
 Completed: 27 (0.15%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |

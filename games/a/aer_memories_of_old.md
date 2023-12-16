@@ -10,8 +10,8 @@ Number of Ratings: 170  (23.09.2022)
 | Mama? | 27.00% | ~7,112 |
 | People's Haven | 18.00% | ~4,741 |
 | Cartographer | 17.00% | ~4,478 |
-| Knowledge for Power | 14.00% | ~3,687 |
-| Antlers of Stone | 14.00% | ~3,687 |
+| Knowledge for Power | 14.00% | ~3,688 |
+| Antlers of Stone | 14.00% | ~3,688 |
 | Gaze into the abyss | 13.00% | ~3,424 |
 | Mausoleum of Ice | 13.00% | ~3,424 |
 | Wings of Stone | 12.00% | ~3,161 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Ripples on the surface | 5.00% | ~1,317 |
 | Hide and Seek | 4.00% | ~1,054 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,339 (Ranked 134)  
+Progressed: 26,340 (Ranked 134)  
 Completed: 493 (1.87%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 493 (1.87%) (Ranked 134)
 | 2023-12-13 | 26,158 | 489 |
 | 2023-12-14 | 26,227 | 491 |
 | 2023-12-15 | 26,296 | 492 |
-| 2023-12-16 | 26,339 | 493 |
+| 2023-12-16 | 26,340 | 493 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -641,9 +641,9 @@
       "ID": "id_36",
       "SetID": "bk9jib6",
       "Name": "Beast slayer",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "id_37",
@@ -890,8 +890,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-15T05:01:07.5728894+00:00",
-  "LastChanged_Achievements": "2023-12-16T11:10:28.2524778+00:00",
+  "LastChanged_Achievements": "2023-12-16T12:10:47.2391445+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:56:56.0981722+00:00",
-  "LastUpdate_Ratings": "2023-12-16T11:02:37.4864173+00:00",
-  "LastUpdate_Achievements": "2023-12-16T11:10:28.2525185+00:00"
+  "LastUpdate_Ratings": "2023-12-16T12:03:02.6203922+00:00",
+  "LastUpdate_Achievements": "2023-12-16T12:10:47.2391874+00:00"
 }

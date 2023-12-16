@@ -4,7 +4,7 @@
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 517,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:20.6475186+00:00",
-  "LastUpdate_Ratings": "2023-12-16T11:00:28.6089649+00:00",
-  "LastUpdate_Achievements": "2023-12-16T11:09:54.3227242+00:00"
+  "LastUpdate_Ratings": "2023-12-16T12:00:44.261472+00:00",
+  "LastUpdate_Achievements": "2023-12-16T12:10:12.7773639+00:00"
 }

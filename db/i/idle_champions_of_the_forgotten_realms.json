@@ -8791,9 +8791,9 @@
       "Count": 3576
     }
   ],
-  "EOS_Progressed": 240972,
+  "EOS_Progressed": 240994,
   "EOS_Completed": 2534,
-  "EOS_NewPlayers": 1924,
+  "EOS_NewPlayers": 1941,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -35846,6 +35846,11 @@
       "Time": "2023-12-16T11:10:48.7060842+00:00",
       "NumProgressed": 240972,
       "NumCompleted": 2534
+    },
+    {
+      "Time": "2023-12-16T12:11:07.8363701+00:00",
+      "NumProgressed": 240994,
+      "NumCompleted": 2534
     }
   ],
   "TotalAchievements": 546,
@@ -37527,9 +37532,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 482
     },
     {
       "ID": "objective_completed_34",
@@ -40145,7 +40150,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "objective_completed_1558",
@@ -40153,7 +40158,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "objective_completed_1562",
@@ -40169,7 +40174,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "objective_completed_598",
@@ -40177,7 +40182,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "objective_completed_673",
@@ -40185,7 +40190,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "objective_completed_678",
@@ -40193,7 +40198,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "objective_completed_683",
@@ -40201,7 +40206,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "objective_completed_860",
@@ -40224,21 +40229,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 207246,
-      "Completed": 4008
+      "Progressed": 207268,
+      "Completed": 4009
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 240972,
+      "Progressed": 240994,
       "Completed": 2534
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-16T03:58:22.1182597+00:00",
-  "LastChanged_Achievements": "2023-12-16T11:10:48.7060837+00:00",
+  "LastChanged_Achievements": "2023-12-16T12:11:07.8363695+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-16T10:59:11.3333445+00:00",
-  "LastUpdate_Achievements": "2023-12-16T11:10:48.7085234+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:59:26.7065821+00:00",
+  "LastUpdate_Achievements": "2023-12-16T12:11:07.8386546+00:00"
 }

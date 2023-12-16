@@ -39,10 +39,10 @@ Number of Ratings: 371  (23.09.2022)
 | Execution Force | 1.00% | ~34 |
 | Tactical Sabotage | 1.00% | ~34 |
 | For the Machine God | 0.90% | ~31 |
-| Death Comes For All | 0.90% | ~31 |
 | Patron of Deimos | 0.80% | ~27 |
 | Engine Kill | 0.80% | ~27 |
 | Harvest No More | 0.80% | ~27 |
+| Death Comes For All | 0.80% | ~27 |
 | Strike Force | 0.60% | ~20 |
 | Hands-On Research | 0.60% | ~20 |
 | Suffer Not the Mutant | 0.50% | ~17 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,411 (Ranked 214)  
+Progressed: 3,412 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 3,351 | 0 |
 | 2023-12-14 | 3,379 | 0 |
 | 2023-12-15 | 3,402 | 0 |
-| 2023-12-16 | 3,411 | 0 |
+| 2023-12-16 | 3,412 | 0 |
 ## Awards
 Max (Character Customization): 227  (Ranked 279)  
 Sum: 488 (Ranked 332)  

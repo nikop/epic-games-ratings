@@ -4,8 +4,8 @@
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113,
+  "EOS_Progressed": 114,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.65,
+  "EOS_Completed_Percentage": 2.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -254,6 +254,11 @@
       "Time": "2023-12-16T03:04:52.3113303+00:00",
       "NumProgressed": 113,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T12:05:33.0818642+00:00",
+      "NumProgressed": 114,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -265,7 +270,7 @@
       "Name": "Full and Final Settlement",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AutoBullets_0",
@@ -297,7 +302,7 @@
       "Name": "Unstoppable",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "EnemyDefeat_1",
@@ -321,7 +326,7 @@
       "Name": "Breaking Through",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "FirstSkillBuy",
@@ -329,15 +334,15 @@
       "Name": "A.I. Training",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "GunUnlock",
       "SetID": "9e3d06k",
       "Name": "Symbiotic Weapon",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 65
     },
     {
       "ID": "Headshots_0",
@@ -353,15 +358,15 @@
       "Name": "Veteran Sniper",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "KyklosPlan",
       "SetID": "9e3d06k",
       "Name": "The Red Herring",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 39
     },
     {
       "ID": "LiftEnemies_0",
@@ -385,13 +390,13 @@
       "Name": "The Neuro-connector",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 5,
       "UsersEstimate": 73
     },
@@ -409,7 +414,7 @@
       "Name": "Flatline",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "StealthDefeat_1",
@@ -431,7 +436,7 @@
       "ID": "TelekinesisThrow_0",
       "SetID": "9e3d06k",
       "Name": "Mind Over Matter",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
       "UsersEstimate": 21
     },
@@ -456,7 +461,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 113,
+      "Progressed": 114,
       "Completed": 3
     }
   ],
@@ -464,8 +469,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-12-16T11:05:07.3218148+00:00",
+  "LastChanged_Achievements": "2023-12-16T12:05:33.0818637+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:38.7294154+00:00",
-  "LastUpdate_Ratings": "2023-12-16T10:58:47.556615+00:00",
-  "LastUpdate_Achievements": "2023-12-16T11:05:07.321835+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:59:03.5698122+00:00",
+  "LastUpdate_Achievements": "2023-12-16T12:05:33.0818834+00:00"
 }

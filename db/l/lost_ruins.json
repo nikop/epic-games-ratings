@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 536,
+  "EOS_Progressed": 537,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1229,6 +1229,11 @@
       "Time": "2023-12-16T11:10:41.5930687+00:00",
       "NumProgressed": 536,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T12:11:01.0940617+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1272,7 +1277,7 @@
       "Name": "Boss Killer",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "BugHunter",
@@ -1304,7 +1309,7 @@
       "Name": "Ghost Buster",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Gladiator",
@@ -1352,7 +1357,7 @@
       "Name": "Iconoclasm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Inquisitor",
@@ -1422,9 +1427,9 @@
       "ID": "OrcMustDie",
       "SetID": "82505mn",
       "Name": "Orcs Must Die!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 64
     },
     {
       "ID": "Pyromancer",
@@ -1440,7 +1445,7 @@
       "Name": "Reincarnation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Roughneck",
@@ -1559,7 +1564,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 536,
+      "Progressed": 537,
       "Completed": 1
     }
   ],
@@ -1567,8 +1572,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-16T11:10:41.5930682+00:00",
+  "LastChanged_Achievements": "2023-12-16T12:11:01.0940611+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:26.5642933+00:00",
-  "LastUpdate_Ratings": "2023-12-16T10:58:09.0884026+00:00",
-  "LastUpdate_Achievements": "2023-12-16T11:10:41.5931217+00:00"
+  "LastUpdate_Ratings": "2023-12-16T11:58:23.2390379+00:00",
+  "LastUpdate_Achievements": "2023-12-16T12:11:01.094102+00:00"
 }

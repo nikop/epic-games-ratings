@@ -5,37 +5,37 @@ Rating: 4.12 (Ranked 975)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~682 |
-| Battlefields Have Memories | 80.00% | ~620 |
-| Enlisted | 73.00% | ~566 |
-| Maybe Engage a Little | 66.00% | ~512 |
-| No More Names | 45.00% | ~349 |
-| Initiate | 31.00% | ~240 |
-| Thrada-Kul | 28.00% | ~217 |
-| Gravity-Challenged Rocks | 22.00% | ~170 |
-| Socialite | 20.00% | ~155 |
-| Soldier | 19.00% | ~147 |
-| All the Major Food Groups | 18.00% | ~140 |
-| Beggars Would Ride | 16.00% | ~124 |
-| Control is an Illusion | 15.00% | ~116 |
-| The Means to Save It | 13.00% | ~101 |
-| Resilience to Sin | 12.00% | ~93 |
-| A Familiar Nest | 11.00% | ~85 |
-| Geas Aristeya | 11.00% | ~85 |
-| Periapt Alizarin | 11.00% | ~85 |
+| Unforeseen | 88.00% | ~690 |
+| Battlefields Have Memories | 80.00% | ~627 |
+| Enlisted | 73.00% | ~572 |
+| Maybe Engage a Little | 66.00% | ~517 |
+| No More Names | 45.00% | ~353 |
+| Initiate | 31.00% | ~243 |
+| Thrada-Kul | 28.00% | ~220 |
+| Gravity-Challenged Rocks | 22.00% | ~172 |
+| Socialite | 20.00% | ~157 |
+| Soldier | 19.00% | ~149 |
+| All the Major Food Groups | 18.00% | ~141 |
+| Beggars Would Ride | 16.00% | ~125 |
+| Control is an Illusion | 15.00% | ~118 |
+| The Means to Save It | 13.00% | ~102 |
+| Resilience to Sin | 12.00% | ~94 |
+| A Familiar Nest | 11.00% | ~86 |
+| Periapt Alizarin | 11.00% | ~86 |
+| Geas Aristeya | 10.00% | ~78 |
 | A Perfect Cycle | 10.00% | ~78 |
-| Recruit | 9.00% | ~70 |
-| Armsman | 8.00% | ~62 |
-| Lights Army | 6.00% | ~46 |
-| Periapt Cerulean | 6.00% | ~46 |
-| Good Boy | 6.00% | ~46 |
+| Recruit | 9.00% | ~71 |
+| Armsman | 8.00% | ~63 |
+| Lights Army | 6.00% | ~47 |
+| Periapt Cerulean | 6.00% | ~47 |
+| Good Boy | 6.00% | ~47 |
 | Periapt Viridian | 5.00% | ~39 |
 | Best Dressed | 4.00% | ~31 |
 | Armaments Azure | 4.00% | ~31 |
 | Shroudfane Explorer | 4.00% | ~31 |
-| Scholar | 3.00% | ~23 |
-| Kitted Out | 3.00% | ~23 |
-| Armaments Gules | 3.00% | ~23 |
+| Scholar | 3.00% | ~24 |
+| Kitted Out | 3.00% | ~24 |
+| Armaments Gules | 3.00% | ~24 |
 | Armaments Vert | 2.00% | ~16 |
 | Veteran | 2.00% | ~16 |
 | Shroudfane Surveyor | 1.00% | ~8 |
@@ -53,7 +53,7 @@ Rating: 4.12 (Ranked 975)
 | Out of Time | 0.30% | ~2 |
 | Fowl Play | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 775 (Ranked 286)  
+Progressed: 784 (Ranked 284)  
 Completed: 2 (0.26%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 2 (0.26%) (Ranked 249)
 | 2023-12-13 | 357 | 2 |
 | 2023-12-14 | 532 | 2 |
 | 2023-12-15 | 689 | 2 |
-| 2023-12-16 | 775 | 2 |
+| 2023-12-16 | 784 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

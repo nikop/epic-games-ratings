@@ -6,15 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sigil | 0.60% | ~1,243 |
+| Welcome to Sigil | 0.60% | ~1,244 |
 | Fast Food | 0.50% | ~1,036 |
 | A Brief Tour of the Realms | 0.40% | ~964 |
-| Misaligned in Sigil | 0.20% | ~414 |
-| Chaos Theory | 0.20% | ~414 |
-| The Overgrown Grove | 0.20% | ~414 |
-| When Tentacles Attack | 0.20% | ~414 |
-| Flames of Avernus | 0.20% | ~414 |
-| Mental Gymnastics | 0.20% | ~414 |
+| The Cursed Farmer | 0.20% | ~482 |
+| Misaligned in Sigil | 0.20% | ~415 |
+| Chaos Theory | 0.20% | ~415 |
+| The Overgrown Grove | 0.20% | ~415 |
+| When Tentacles Attack | 0.20% | ~415 |
+| Flames of Avernus | 0.20% | ~415 |
+| Mental Gymnastics | 0.20% | ~415 |
 | Maddening | 0.10% | ~241 |
 | Pros and CONs | 0.10% | ~241 |
 | Upholding the Law | 0.10% | ~241 |
@@ -223,7 +224,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~241 |
 | Our Time To Shine | 0.10% | ~241 |
 | Review by the Blackstaff | 0.10% | ~207 |
-| The Cursed Farmer | 0.10% | ~241 |
 | The Ring of Regeneration | 0.10% | ~241 |
 | The Crumbling Temple | 0.10% | ~241 |
 | The Death Curse | 0.10% | ~241 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Lose Your Head | 0.10% | ~207 |
 | Mind Spike | 0.10% | ~207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,972 (Ranked 66)  
+Progressed: 240,994 (Ranked 66)  
 Completed: 2,534 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -793,7 +793,7 @@ Completed: 2,534 (1.05%) (Ranked 167)
 | 2023-12-13 | 239,847 | 2,519 |
 | 2023-12-14 | 240,414 | 2,526 |
 | 2023-12-15 | 240,802 | 2,532 |
-| 2023-12-16 | 240,972 | 2,534 |
+| 2023-12-16 | 240,994 | 2,534 |
 ## Awards
 Max (Great for Beginners): 5,645  (Ranked 70)  
 Sum: 32,900 (Ranked 41)  
