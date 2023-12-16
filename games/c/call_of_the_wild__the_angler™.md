@@ -6,9 +6,9 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 8.00% | ~562 |
+| Fish Just Got Reel | 8.00% | ~563 |
+| Hey Good Hookin | 7.00% | ~493 |
 | Can you smell what the Rod is Hooking | 6.00% | ~422 |
-| Hey Good Hookin | 6.00% | ~422 |
 | More Fish in the Sea | 6.00% | ~422 |
 | Scaling up | 6.00% | ~422 |
 | I'm on a Boat! | 5.00% | ~352 |
@@ -31,13 +31,13 @@ Number of Ratings: 281  (23.09.2022)
 | The Beetles | 0.20% | ~14 |
 | Lake Me up Before You Go Go | 0.20% | ~14 |
 | Big Fish Small Pond | 0.20% | ~14 |
+| Golden Ridge Ranger | 0.20% | ~14 |
 | Live by the Rod, Diez by the Rod! | 0.20% | ~13 |
 | All Good Kings Must Come to an End | 0.20% | ~13 |
 | Three Square Meals | 0.20% | ~13 |
 | Head for Heights | 0.10% | ~7 |
 | Taylor Made | 0.10% | ~7 |
 | Lost and Flounder | 0.10% | ~7 |
-| Golden Ridge Ranger | 0.10% | ~7 |
 | Buckaroo | 0.10% | ~7 |
 | Rod and Troll | 0.10% | ~6 |
 | Trollsporet Tale Teller | 0.10% | ~6 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,031 (Ranked 186)  
+Progressed: 7,037 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 6,783 | 0 |
 | 2023-12-14 | 6,897 | 0 |
 | 2023-12-15 | 6,981 | 0 |
-| 2023-12-16 | 7,031 | 0 |
+| 2023-12-16 | 7,037 | 0 |
 ## Awards
 Max (Relaxing): 39  (Ranked 466)  
 Sum: 202 (Ranked 403)  

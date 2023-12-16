@@ -4,7 +4,7 @@
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -329,17 +329,17 @@
       "ID": "NEW_ACHIEVEMENT_1_27",
       "SetID": "ae95dh3",
       "Name": "The Drop",
-      "Percentage": 74,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "ae95dh3",
       "Name": "Lockdown",
-      "Percentage": 37,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
@@ -472,8 +472,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:04:18.6178946+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:04:35.1433183+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184739+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:58:11.5679444+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:04:18.6179175+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:58:25.070933+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:04:35.1433552+00:00"
 }

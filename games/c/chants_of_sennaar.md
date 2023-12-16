@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 41.00% | ~481 |
-| Welcome to the Tower | 37.00% | ~434 |
-| The great escape | 31.00% | ~364 |
-| The Preacher's fate | 30.00% | ~352 |
+| That's the spirit | 41.00% | ~483 |
+| Welcome to the Tower | 38.00% | ~448 |
+| The great escape | 31.00% | ~365 |
+| The Preacher's fate | 30.00% | ~353 |
 | A new dawn | 25.00% | ~294 |
-| Scholar | 22.00% | ~258 |
-| A good beginning | 21.00% | ~247 |
+| A good beginning | 22.00% | ~259 |
+| Scholar | 22.00% | ~259 |
 | True G3M4R | 21.00% | ~247 |
 | The darkness | 21.00% | ~247 |
-| Cable guy | 19.00% | ~223 |
-| Half the way | 19.00% | ~223 |
-| One last step | 19.00% | ~223 |
-| I did it | 18.00% | ~211 |
-| Peace walker | 18.00% | ~211 |
-| Champollion | 18.00% | ~211 |
+| Cable guy | 19.00% | ~224 |
+| Half the way | 19.00% | ~224 |
+| One last step | 19.00% | ~224 |
+| I did it | 18.00% | ~212 |
+| Peace walker | 18.00% | ~212 |
+| Champollion | 18.00% | ~212 |
 | In this together | 17.00% | ~200 |
-| Open door | 15.00% | ~176 |
-| Feels like springtime | 15.00% | ~176 |
-| Alchemists Express | 15.00% | ~176 |
-| Rascal | 15.00% | ~176 |
+| Open door | 15.00% | ~177 |
+| Feels like springtime | 15.00% | ~177 |
+| Alchemists Express | 15.00% | ~177 |
+| Rascal | 15.00% | ~177 |
 | Free at last | 13.00% | ~153 |
 | A Link to the Past | 12.00% | ~141 |
-| A great audience | 10.00% | ~117 |
-| For its own good | 10.00% | ~117 |
+| A great audience | 10.00% | ~118 |
+| For its own good | 10.00% | ~118 |
 | Fashion victim | 5.00% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,174 (Ranked 264)  
-Completed: 59 (5.03%) (Ranked 72)  
+Progressed: 1,178 (Ranked 262)  
+Completed: 60 (5.09%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -177,4 +177,4 @@ Completed: 59 (5.03%) (Ranked 72)
 | 2023-12-13 | 981 | 56 |
 | 2023-12-14 | 1,054 | 56 |
 | 2023-12-15 | 1,124 | 56 |
-| 2023-12-16 | 1,174 | 59 |
+| 2023-12-16 | 1,178 | 60 |

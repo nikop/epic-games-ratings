@@ -4,7 +4,7 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -930,9 +930,9 @@
       "ID": "DEFEATED_10000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Slayer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "DEFEATED_1000_ENEMIES",
@@ -1002,17 +1002,17 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "14g34pl",
       "Name": "Sagehaven is safe!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "14g34pl",
       "Name": "Forest is safe!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1057,8 +1057,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:05:30.3874057+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:05:47.7003592+00:00",
   "LastUpdate_AppInfo": "2023-12-12T21:57:14.3760557+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:59:33.4988491+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:05:30.3874197+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:59:47.2835821+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:05:47.7003818+00:00"
 }

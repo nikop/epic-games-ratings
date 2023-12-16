@@ -6,19 +6,19 @@ Rating: 3.47 (Ranked 1,063)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 7.00% | ~131 |
-| Catch and Release | 5.00% | ~93 |
+| Catch and Release | 5.00% | ~94 |
 | Home Is Where the Heart Is | 4.00% | ~75 |
 | Ne Plus Ultra | 4.00% | ~75 |
 | Fly Fisher | 4.00% | ~75 |
 | ICU | 4.00% | ~75 |
 | Wounded Whispers | 4.00% | ~75 |
+| Enter of Your Own Free Will | 3.00% | ~56 |
 | Blood Will Have Blood | 3.00% | ~56 |
 | Welcome to the Neighborhood | 3.00% | ~56 |
 | Peek-a-boo | 3.00% | ~56 |
 | Throw The First Stone | 3.00% | ~56 |
 | Sucks To Be You | 3.00% | ~56 |
 | Neighborhood Revitalization | 2.00% | ~37 |
-| Enter of Your Own Free Will | 2.00% | ~37 |
 | Bad Wiring | 2.00% | ~37 |
 | Radio Silence | 2.00% | ~37 |
 | Grounded | 2.00% | ~37 |
@@ -34,10 +34,10 @@ Rating: 3.47 (Ranked 1,063)
 | Helping Hand | 1.00% | ~19 |
 | I Spit On Your Grave | 1.00% | ~19 |
 | Contingency Plans | 0.90% | ~17 |
+| You Clean It Up | 0.70% | ~13 |
 | Nice Try | 0.70% | ~13 |
 | Blacklight Down | 0.70% | ~13 |
 | Revelations | 0.60% | ~11 |
-| You Clean It Up | 0.60% | ~11 |
 | Check, Please! | 0.60% | ~11 |
 | Curious Finch | 0.60% | ~11 |
 | Block Party | 0.50% | ~9 |
@@ -72,7 +72,7 @@ Rating: 3.47 (Ranked 1,063)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,867 (Ranked 235)  
+Progressed: 1,871 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 1,784 | 0 |
 | 2023-12-14 | 1,810 | 0 |
 | 2023-12-15 | 1,843 | 0 |
-| 2023-12-16 | 1,867 | 0 |
+| 2023-12-16 | 1,871 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

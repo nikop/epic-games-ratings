@@ -4,7 +4,7 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 259,
+  "EOS_Progressed": 261,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.7,
+  "EOS_Completed_Percentage": 2.68,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -466,6 +466,11 @@
       "Time": "2023-12-16T14:06:08.7897479+00:00",
       "NumProgressed": 259,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-16T16:05:47.2241446+00:00",
+      "NumProgressed": 261,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 17,
@@ -477,7 +482,7 @@
       "Name": "A Little Extra",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "career_woman",
@@ -485,7 +490,7 @@
       "Name": "Career Woman",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "deal_or_no_deal",
@@ -493,7 +498,7 @@
       "Name": "Deal Or No Deal",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "hopeful",
@@ -515,9 +520,9 @@
       "ID": "impress_theron",
       "SetID": "a3kkelb",
       "Name": "Impress Theron",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 122
+      "UsersEstimate": 120
     },
     {
       "ID": "marriage_is_off",
@@ -533,7 +538,7 @@
       "Name": "No One Is Safe",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "off_his_meds",
@@ -541,7 +546,7 @@
       "Name": "He\u0027s Off His Meds",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "on_your_bike",
@@ -549,7 +554,7 @@
       "Name": "On Your Bike",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "pearce",
@@ -565,7 +570,7 @@
       "Name": "Personal Life",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "save_dad",
@@ -587,9 +592,9 @@
       "ID": "unhelpful",
       "SetID": "a3kkelb",
       "Name": "Unhelpful",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "use_your_connections",
@@ -597,22 +602,22 @@
       "Name": "Use Your Connections",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "will_this_help",
       "SetID": "a3kkelb",
       "Name": "Will This Help?",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 196
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 259,
+      "Progressed": 261,
       "Completed": 7
     }
   ],
@@ -620,8 +625,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:05:29.9541105+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:05:47.2241441+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:57.5958396+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:57:27.9753257+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:05:29.9541201+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:57:42.8605628+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:05:47.2241588+00:00"
 }

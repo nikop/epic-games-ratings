@@ -6,28 +6,28 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~20,030 |
-| Mama? | 27.00% | ~7,116 |
-| People's Haven | 18.00% | ~4,744 |
-| Cartographer | 17.00% | ~4,480 |
-| Knowledge for Power | 14.00% | ~3,690 |
-| Antlers of Stone | 14.00% | ~3,690 |
-| Gaze into the abyss | 13.00% | ~3,426 |
-| Mausoleum of Ice | 13.00% | ~3,426 |
-| Wings of Stone | 12.00% | ~3,163 |
-| Equilibrium | 12.00% | ~3,163 |
-| In the belly of the beast | 11.00% | ~2,899 |
+| Light at the end of the tunnel | 76.00% | ~20,036 |
+| Mama? | 27.00% | ~7,118 |
+| People's Haven | 18.00% | ~4,745 |
+| Cartographer | 17.00% | ~4,482 |
+| Knowledge for Power | 14.00% | ~3,691 |
+| Antlers of Stone | 14.00% | ~3,691 |
+| Gaze into the abyss | 13.00% | ~3,427 |
+| Mausoleum of Ice | 13.00% | ~3,427 |
+| Wings of Stone | 12.00% | ~3,164 |
+| Equilibrium | 12.00% | ~3,164 |
+| In the belly of the beast | 11.00% | ~2,900 |
 | Condor condo | 10.00% | ~2,636 |
-| Memorial | 9.00% | ~2,372 |
+| Memorial | 9.00% | ~2,373 |
 | An uninvited guest | 7.00% | ~1,845 |
-| Tails of Stone | 6.00% | ~1,581 |
-| Baa from the past | 6.00% | ~1,581 |
-| Written in stone | 6.00% | ~1,581 |
-| Talk to all the spirit animals | 6.00% | ~1,581 |
+| Tails of Stone | 6.00% | ~1,582 |
+| Baa from the past | 6.00% | ~1,582 |
+| Written in stone | 6.00% | ~1,582 |
+| Talk to all the spirit animals | 6.00% | ~1,582 |
 | Ripples on the surface | 5.00% | ~1,318 |
-| Hide and Seek | 4.00% | ~1,054 |
+| Hide and Seek | 4.00% | ~1,055 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,355 (Ranked 134)  
+Progressed: 26,363 (Ranked 134)  
 Completed: 494 (1.87%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 494 (1.87%) (Ranked 134)
 | 2023-12-13 | 26,158 | 489 |
 | 2023-12-14 | 26,227 | 491 |
 | 2023-12-15 | 26,296 | 492 |
-| 2023-12-16 | 26,355 | 494 |
+| 2023-12-16 | 26,363 | 494 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

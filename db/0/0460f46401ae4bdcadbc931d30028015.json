@@ -993,9 +993,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4444,
+  "EOS_Progressed": 4445,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7393,6 +7393,11 @@
       "Time": "2023-12-16T15:05:48.6517053+00:00",
       "NumProgressed": 4444,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T16:06:06.1749021+00:00",
+      "NumProgressed": 4445,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -7445,7 +7450,7 @@
       "Name": "ROTY",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "achievement_15",
@@ -7533,7 +7538,7 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "achievement_6",
@@ -7572,7 +7577,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4444,
+      "Progressed": 4445,
       "Completed": 0
     }
   ],
@@ -7580,8 +7585,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-16T07:57:45.1161866+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:05:48.6517049+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:06:06.1749016+00:00",
   "LastUpdate_AppInfo": "2023-12-14T08:57:09.6557001+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:57:46.7649554+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:05:48.6517545+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:58:00.9087127+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:06:06.1749695+00:00"
 }

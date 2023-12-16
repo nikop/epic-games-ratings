@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 740,
+  "EOS_Progressed": 741,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.11,
+  "EOS_Completed_Percentage": 8.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -541,6 +541,11 @@
       "Time": "2023-12-16T15:03:37.579974+00:00",
       "NumProgressed": 740,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-16T16:03:57.1109868+00:00",
+      "NumProgressed": 741,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -552,7 +557,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -560,7 +565,7 @@
       "Name": "Partners?",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -576,7 +581,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -608,7 +613,7 @@
       "Name": "This Treasure I\u0027ve Found",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACHIEVEMENT009",
@@ -624,7 +629,7 @@
       "Name": "One-Hundred Resident Record",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT011",
@@ -640,7 +645,7 @@
       "Name": "The Go-To Girl",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -656,7 +661,7 @@
       "Name": "A Local Hero",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT015",
@@ -664,7 +669,7 @@
       "Name": "Scavenger\u0027s Honor",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHIEVEMENT016",
@@ -736,7 +741,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -744,7 +749,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -760,7 +765,7 @@
       "Name": "Natural Born Monster-Killer",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHIEVEMENT028",
@@ -768,7 +773,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -808,7 +813,7 @@
       "Name": "Rune Scholar",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT034",
@@ -832,7 +837,7 @@
       "Name": "First Time Hunting",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -856,7 +861,7 @@
       "Name": "Meat Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACHIEVEMENT040",
@@ -864,7 +869,7 @@
       "Name": "Rune Wall Master",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACHIEVEMENT041",
@@ -888,7 +893,7 @@
       "Name": "The Snowpeak...On Foot!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACHIEVEMENT044",
@@ -912,7 +917,7 @@
       "Name": "Champion of the Great Forest",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT047",
@@ -951,15 +956,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 740,
+      "Progressed": 741,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:03:37.5799737+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:03:57.1109863+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:23.9280041+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:59:08.6338765+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:03:37.5800295+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:59:23.0440533+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:03:57.1110301+00:00"
 }

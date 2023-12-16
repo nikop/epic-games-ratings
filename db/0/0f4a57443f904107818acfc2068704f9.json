@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -2186,9 +2186,9 @@
       "ID": "CompleteChapter15",
       "SetID": "52ail55",
       "Name": "The Great Scheme",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 81
     },
     {
       "ID": "CompleteChapter16",
@@ -2226,9 +2226,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 549
     },
     {
       "ID": "CompleteChapter3",
@@ -2258,9 +2258,9 @@
       "ID": "CompleteChapter6",
       "SetID": "52ail55",
       "Name": "More Waagh, More Problems",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 189
     },
     {
       "ID": "CompleteChapter7",
@@ -2385,8 +2385,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:03:57.2622858+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:04:13.4461626+00:00",
   "LastUpdate_AppInfo": "2023-12-15T09:57:06.988595+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:58:30.6998614+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:03:57.262326+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:58:44.561717+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:04:13.446214+00:00"
 }

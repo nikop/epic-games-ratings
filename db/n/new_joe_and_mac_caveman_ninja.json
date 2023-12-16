@@ -3,8 +3,8 @@
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 385,
-  "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_Completed": 123,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 244,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.47,
+  "EOS_Completed_Percentage": 2.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -486,6 +486,11 @@
       "Time": "2023-12-16T12:04:09.1442909+00:00",
       "NumProgressed": 243,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-16T16:03:32.8223414+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -497,7 +502,7 @@
       "Name": "The T-Rex plain.",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "02",
@@ -537,7 +542,7 @@
       "Name": "Dino Ride.",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "07",
@@ -575,9 +580,9 @@
       "ID": "11",
       "SetID": "6glb5g1",
       "Name": "Rocky fall.",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "12",
@@ -616,7 +621,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 244,
       "Completed": 6
     }
   ],
@@ -624,8 +629,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:03:19.4694878+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:03:32.8223409+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:21.3905331+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:58:52.6245842+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:03:19.4695006+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:59:06.8070195+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:03:32.8224041+00:00"
 }

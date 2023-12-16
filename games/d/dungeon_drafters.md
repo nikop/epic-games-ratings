@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Might be useful… | 38.00% | ~39 |
+| Might be useful… | 38.00% | ~40 |
 | Treasure Hunting | 36.00% | ~37 |
 | Shine! | 30.00% | ~31 |
 | Friend! | 29.00% | ~30 |
@@ -45,7 +45,7 @@
 | Gladiator | 1.00% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103 (Ranked 454)  
+Progressed: 104 (Ranked 452)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-11-26 | 96 | 0 |
 | 2023-11-28 | 97 | 0 |
 | 2023-12-14 | 101 | 0 |
-| 2023-12-16 | 103 | 0 |
+| 2023-12-16 | 104 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

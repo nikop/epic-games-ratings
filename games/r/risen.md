@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.60 (Ranked 421)  
+Rating: 4.60 (Ranked 422)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,11 +10,11 @@ Rating: 4.60 (Ranked 421)
 | Philanthropist | 72.00% | ~61 |
 | Adventurer | 68.00% | ~58 |
 | The brave little tailor | 53.00% | ~45 |
-| Archer | 51.00% | ~43 |
+| Archer | 52.00% | ~44 |
 | Field hand | 45.00% | ~38 |
 | Samaritan | 41.00% | ~35 |
-| Well-to-do | 39.00% | ~33 |
-| The merciful one | 38.00% | ~32 |
+| Well-to-do | 40.00% | ~34 |
+| The merciful one | 39.00% | ~33 |
 | Ladies' man | 36.00% | ~31 |
 | Ferocious wild boars | 31.00% | ~26 |
 | Idiot | 28.00% | ~24 |
@@ -22,8 +22,8 @@ Rating: 4.60 (Ranked 421)
 | Wise man | 24.00% | ~20 |
 | Family man | 24.00% | ~20 |
 | Death of a legend | 24.00% | ~20 |
+| Archaeologist | 24.00% | ~20 |
 | The fourth triplet | 24.00% | ~20 |
-| Archaeologist | 22.00% | ~19 |
 | Ogre friend | 22.00% | ~19 |
 | Hard worker | 22.00% | ~19 |
 | Sidelined | 22.00% | ~19 |
@@ -35,7 +35,7 @@ Rating: 4.60 (Ranked 421)
 | Fence | 19.00% | ~16 |
 | Defender | 16.00% | ~14 |
 | Showdown | 15.00% | ~13 |
-| Workaholic | 14.00% | ~12 |
+| Workaholic | 15.00% | ~13 |
 | Safecracker | 14.00% | ~12 |
 | Master thief | 14.00% | ~12 |
 | Freedom fighter | 12.00% | ~10 |

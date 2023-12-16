@@ -2,12 +2,12 @@
   "ID": "1c4745021d4243a783b459d928b9088f",
   "Name": "OCTOPATH TRAVELER\u2122",
   "ProductSlug": "octopath-traveler",
-  "Ranking_Rating": 98,
-  "Ranking_Popularity": 343,
-  "Ranking_PopularitySum": 441,
+  "Ranking_Rating": 91,
+  "Ranking_Popularity": 340,
+  "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 520,
+  "Ranking_EOS_NewPlayers": 519,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-03-25T00:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.79,
+  "Rating": 4.8,
   "NumberOfRatings": 166,
   "RatingHistory": [
     {
@@ -502,18 +502,24 @@
       "Rating": 4.79,
       "NumberOfAwards": 125,
       "NumberOfAwardsMax": 125
+    },
+    {
+      "Time": "2023-12-16T15:57:41.8832655+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 127,
+      "NumberOfAwardsMax": 127
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 125,
-  "NumberOfAwardsMax": 125,
+  "NumberOfAwards": 127,
+  "NumberOfAwardsMax": 127,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 125
+      "Count": 127
     }
   ],
   "EOS_Progressed": 0,
@@ -527,8 +533,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:15.1292703+00:00",
-  "LastChanged": "2023-12-15T10:56:58.8287999+00:00",
+  "LastChanged": "2023-12-16T15:57:41.8832653+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.7877468+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:57:26.9835241+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:03:55.7740069+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:57:41.8832659+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:04:11.9198255+00:00"
 }

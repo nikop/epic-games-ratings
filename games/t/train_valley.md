@@ -6,30 +6,30 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 78.00% | ~429 |
-| Close call! | 71.00% | ~390 |
-| Builder | 52.00% | ~286 |
+| Getting started | 78.00% | ~430 |
+| Close call! | 72.00% | ~397 |
+| Builder | 52.00% | ~287 |
 | Pangs of conscience | 45.00% | ~248 |
 | Living it large! | 45.00% | ~248 |
-| Collector | 43.00% | ~236 |
-| Need to think | 43.00% | ~236 |
+| Collector | 43.00% | ~237 |
+| Need to think | 43.00% | ~237 |
 | Completely nuts! | 41.00% | ~226 |
 | Europe | 33.00% | ~182 |
 | Just in time! | 33.00% | ~182 |
-| Madness! | 31.00% | ~170 |
+| Madness! | 31.00% | ~171 |
 | It's no coincidence. | 29.00% | ~160 |
-| Philatelist | 27.00% | ~148 |
-| Let's roll! | 27.00% | ~148 |
+| Philatelist | 26.00% | ~143 |
+| Let's roll! | 26.00% | ~143 |
 | Ouroboros | 25.00% | ~138 |
 | Non Stop! | 24.00% | ~132 |
 | Foreman | 21.00% | ~116 |
 | Russia | 20.00% | ~110 |
-| America | 19.00% | ~104 |
-| Missed it! | 19.00% | ~104 |
+| America | 19.00% | ~105 |
+| Missed it! | 19.00% | ~105 |
 | Sabotage | 16.00% | ~88 |
 | Achtung! | 12.00% | ~66 |
-| Japan | 11.00% | ~60 |
-| Woodcutter | 11.00% | ~60 |
+| Japan | 11.00% | ~61 |
+| Woodcutter | 11.00% | ~61 |
 | Engineer | 10.00% | ~55 |
 | Tycoon | 9.00% | ~50 |
 | Germany | 7.00% | ~39 |
@@ -37,7 +37,7 @@ Number of Ratings: 28  (23.09.2022)
 | Chuck Norris | 5.00% | ~28 |
 | Сhancellor | 4.00% | ~22 |
 | Peacemaker | 4.00% | ~22 |
-| Forgotten | 3.00% | ~16 |
+| Forgotten | 3.00% | ~17 |
 | Lucky vandal | 2.00% | ~11 |
 | Salesman | 0.70% | ~4 |
 | BBQ | 0.50% | ~3 |
@@ -46,8 +46,8 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 550 (Ranked 318)  
-Completed: 2 (0.36%) (Ranked 231)  
+Progressed: 551 (Ranked 317)  
+Completed: 2 (0.36%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -171,7 +171,7 @@ Completed: 2 (0.36%) (Ranked 231)
 | 2023-12-13 | 539 | 2 |
 | 2023-12-14 | 542 | 2 |
 | 2023-12-15 | 545 | 2 |
-| 2023-12-16 | 550 | 2 |
+| 2023-12-16 | 551 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

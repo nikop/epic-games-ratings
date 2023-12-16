@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -263,7 +263,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1756,
+  "EOS_Progressed": 1757,
   "EOS_Completed": 74,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
@@ -3873,6 +3873,11 @@
       "Time": "2023-12-15T19:06:28.0313305+00:00",
       "NumProgressed": 1756,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-12-16T16:08:43.4911818+00:00",
+      "NumProgressed": 1757,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 11,
@@ -3892,7 +3897,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "ACH_Cacciavite",
@@ -3932,7 +3937,7 @@
       "Name": "All together, again",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -3964,22 +3969,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1756,
+      "Progressed": 1757,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:08:27.9636847+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:08:43.4911812+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:28.7894804+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:57:42.3028807+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:08:27.9637111+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:57:56.3124404+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:08:43.4912187+00:00"
 }

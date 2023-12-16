@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1778,
+  "EOS_Progressed": 1783,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5319,6 +5319,11 @@
       "Time": "2023-12-16T15:09:57.36744+00:00",
       "NumProgressed": 1778,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T16:10:13.2588633+00:00",
+      "NumProgressed": 1783,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5363,7 +5368,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_14",
@@ -5403,7 +5408,7 @@
       "Name": "The power of the Force",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_19",
@@ -5427,7 +5432,7 @@
       "Name": "Collector",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_21",
@@ -5475,7 +5480,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_27",
@@ -5507,7 +5512,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_30",
@@ -5523,7 +5528,7 @@
       "Name": "Scrap collector",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "achievement_32",
@@ -5531,7 +5536,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "achievement_33",
@@ -5555,7 +5560,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1582
+      "UsersEstimate": 1587
     },
     {
       "ID": "achievement_36",
@@ -5571,7 +5576,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1177
     },
     {
       "ID": "achievement_38",
@@ -5593,9 +5598,9 @@
       "ID": "achievement_4",
       "SetID": "271ol84",
       "Name": "I suggest a new strategy",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 321
     },
     {
       "ID": "achievement_40",
@@ -5603,7 +5608,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 907
+      "UsersEstimate": 909
     },
     {
       "ID": "achievement_41",
@@ -5635,7 +5640,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "achievement_45",
@@ -5683,7 +5688,7 @@
       "Name": "Shoot first",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "achievement_50",
@@ -5771,7 +5776,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "achievement_60",
@@ -5811,7 +5816,7 @@
       "Name": "A cunning warrior",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_8",
@@ -5834,13 +5839,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1778,
+      "Progressed": 1783,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1778,
+      "Progressed": 1783,
       "Completed": 1
     }
   ],
@@ -5848,8 +5853,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:09:57.3674395+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:10:13.2588628+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.6035488+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:58:55.8244555+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:09:57.3675147+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:59:09.9502427+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:10:13.258952+00:00"
 }

@@ -7,8 +7,8 @@
 | Brace for impact! | 30.00% | ~125 |
 | A Forest Walk | 29.00% | ~121 |
 | Baby's First Car | 28.00% | ~117 |
+| Amateur Mechanic | 28.00% | ~117 |
 | Pushover | 28.00% | ~117 |
-| Amateur Mechanic | 27.00% | ~113 |
 | C-C-C-Combo! | 25.00% | ~104 |
 | Multiply that! | 25.00% | ~104 |
 | Fore! | 23.00% | ~96 |

@@ -20,7 +20,7 @@
 | Merry Co-operation | 35.00% | ~26 |
 | Finish Him! | 31.00% | ~23 |
 | Assault on the Ram | 28.00% | ~21 |
-| Ultra Rebel Instinct | 25.00% | ~19 |
+| Ultra Rebel Instinct | 27.00% | ~20 |
 | First Aid | 24.00% | ~18 |
 | Savior | 23.00% | ~17 |
 | Merry Go Round | 23.00% | ~17 |
@@ -29,15 +29,15 @@
 | Hidden Experiment | 17.00% | ~13 |
 | Ultra Combo | 15.00% | ~11 |
 | Haute Couture | 13.00% | ~10 |
+| Into the Lion's Den | 12.00% | ~9 |
+| The Gang prevails | 9.00% | ~7 |
 | Brilliant Executioner | 8.00% | ~6 |
 | Sky High Fighter | 8.00% | ~6 |
-| Into the Lion's Den | 8.00% | ~6 |
 | Bold and Bossy | 7.00% | ~5 |
+| Power of Friendship! | 7.00% | ~5 |
 | No Mercy | 5.00% | ~4 |
-| The Gang prevails | 5.00% | ~4 |
 | Out of the ring | 5.00% | ~4 |
 | King of the Iron Fist | 4.00% | ~3 |
-| Power of Friendship! | 3.00% | ~2 |
 | Five of Friends | 3.00% | ~2 |
 | A Gest of Robyn Hode | 3.00% | ~2 |
 | Only Child | 3.00% | ~2 |

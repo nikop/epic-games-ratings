@@ -2,12 +2,12 @@
   "ID": "50648c4c6f7f47e98a1b3756ed06cc4a",
   "Name": "Assassin\u0027s Creed II Standard Edition",
   "ProductSlug": "assassins-creed-2",
-  "Ranking_Rating": 129,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 466,
   "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 520,
+  "Ranking_EOS_NewPlayers": 519,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-10-06T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.77,
   "NumberOfRatings": 315,
   "RatingHistory": [
     {
@@ -1254,10 +1254,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 331,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-12-16T15:59:57.372478+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 332,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 331,
+  "NumberOfAwards": 332,
   "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1283,7 +1289,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game is Educational",
@@ -1333,8 +1339,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2023-12-16T11:01:16.7937311+00:00",
+  "LastChanged": "2023-12-16T15:59:57.3724778+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:17.834605+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:59:43.3773894+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:04:40.8063774+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:59:57.3724784+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:04:58.1464389+00:00"
 }

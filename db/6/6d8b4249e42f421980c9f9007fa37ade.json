@@ -627,9 +627,9 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Epic_Formula_12",
@@ -914,8 +914,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:04:25.1541292+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:04:41.7583576+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:10.2907152+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:57:29.0741109+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:04:25.1541665+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:57:43.9404165+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:04:41.7584046+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 841,
+  "EOS_Progressed": 842,
   "EOS_Completed": 140,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 16.65,
+  "EOS_Completed_Percentage": 16.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3596,6 +3596,11 @@
       "Time": "2023-12-16T09:05:18.6719592+00:00",
       "NumProgressed": 841,
       "NumCompleted": 140
+    },
+    {
+      "Time": "2023-12-16T16:05:31.0564163+00:00",
+      "NumProgressed": 842,
+      "NumCompleted": 140
     }
   ],
   "TotalAchievements": 22,
@@ -3607,7 +3612,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "LEVEL_002",
@@ -3615,7 +3620,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "LEVEL_003",
@@ -3623,15 +3628,15 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 488
+      "UsersEstimate": 480
     },
     {
       "ID": "LEVEL_005",
@@ -3671,7 +3676,7 @@
       "Name": "Who loves trains?",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "LEVEL_010",
@@ -3679,7 +3684,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "LEVEL_011",
@@ -3703,15 +3708,15 @@
       "Name": "Elevated ring",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 177
     },
     {
       "ID": "LEVEL_015",
@@ -3725,9 +3730,9 @@
       "ID": "LEVEL_016",
       "SetID": "3khpmem",
       "Name": "The beach is right there",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 160
     },
     {
       "ID": "LEVEL_017",
@@ -3743,7 +3748,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "LEVEL_019",
@@ -3751,7 +3756,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "LEVEL_020",
@@ -3782,7 +3787,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 841,
+      "Progressed": 842,
       "Completed": 140
     }
   ],
@@ -3790,8 +3795,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:05:13.9801393+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:05:31.0564159+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:33.3015256+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:57:31.7129481+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:05:13.9801645+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:57:46.6692786+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:05:31.0564564+00:00"
 }

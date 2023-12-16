@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1669,10 +1669,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 162823,
+  "EOS_Progressed": 162834,
   "EOS_Completed": 332,
-  "EOS_NewPlayers": 1002,
-  "EOS_NewCompleters": 64,
+  "EOS_NewPlayers": 1004,
+  "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -19429,6 +19429,11 @@
       "Time": "2023-12-16T15:03:47.4985993+00:00",
       "NumProgressed": 162823,
       "NumCompleted": 332
+    },
+    {
+      "Time": "2023-12-16T16:04:03.659578+00:00",
+      "NumProgressed": 162834,
+      "NumCompleted": 332
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -19489,7 +19494,7 @@
       "Name": "The Hunt",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -19585,7 +19590,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -19593,7 +19598,7 @@
       "Name": "Jawstag",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -19617,7 +19622,7 @@
       "Name": "Feast",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -19697,7 +19702,7 @@
       "Name": "Yank",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -19705,7 +19710,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -19713,7 +19718,7 @@
       "Name": "Ravenous",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -19808,21 +19813,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 162406,
+      "Progressed": 162417,
       "Completed": 1239
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 162823,
+      "Progressed": 162834,
       "Completed": 332
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-15T19:00:09.2990933+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:03:47.498599+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:04:03.6595775+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:57:03.9584364+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:03:47.4986966+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:57:17.9902806+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:04:03.659737+00:00"
 }

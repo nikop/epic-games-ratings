@@ -4,7 +4,7 @@
   "ProductSlug": "acl-pro-cornhole-4dd419",
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 520,
+  "Ranking_EOS_NewPlayers": 519,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-07-21T15:00:00+00:00",
@@ -301,8 +301,8 @@
   ],
   "FirstSeen": "2023-07-25T03:00:31.7189155+00:00",
   "FirstSeenAchievements": "2023-07-17T16:01:13.9190066+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:08:48.6054046+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:09:04.7063228+00:00",
   "LastUpdate_AppInfo": "2023-12-12T04:57:09.8372686+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:59:09.2517977+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:08:48.6054194+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:59:23.7454253+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:09:04.7063383+00:00"
 }

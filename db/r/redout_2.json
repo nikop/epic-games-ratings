@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1180,
+  "EOS_Progressed": 1181,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1169,6 +1169,11 @@
       "Time": "2023-12-12T22:05:38.9635967+00:00",
       "NumProgressed": 1180,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T16:04:23.9589361+00:00",
+      "NumProgressed": 1181,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1308,7 +1313,7 @@
       "Name": "Rookie No More",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "CAREERADVANCED",
@@ -1316,7 +1321,7 @@
       "Name": "Rookie No-No More",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "CAREERCLASSA",
@@ -1412,7 +1417,7 @@
       "Name": "Running at the speed of sound",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "FLYLONG",
@@ -1492,7 +1497,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ONEPAINT",
@@ -1516,7 +1521,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -1595,7 +1600,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1180,
+      "Progressed": 1181,
       "Completed": 0
     }
   ],
@@ -1603,8 +1608,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-11-23T19:59:23.2109032+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:04:07.6629059+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:04:23.9589356+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:10.0086911+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:02:59.1316751+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:04:07.6629484+00:00"
+  "LastUpdate_Ratings": "2023-12-16T16:03:11.8488581+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:04:23.9590049+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 365,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -447,9 +447,9 @@
       "ID": "TombExplorer",
       "SetID": "123m9l1",
       "Name": "Tomb Raider",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TrickLiHong",
@@ -472,8 +472,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:05:29.931103+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:05:47.2023463+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:55.2838081+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:59:57.7366872+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:05:29.9311172+00:00"
+  "LastUpdate_Ratings": "2023-12-16T16:00:12.0519715+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:05:47.2023668+00:00"
 }

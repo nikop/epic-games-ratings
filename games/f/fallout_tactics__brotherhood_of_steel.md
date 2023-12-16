@@ -3,8 +3,8 @@
 [View Rawdata](../../db/f/fallout_tactics__brotherhood_of_steel.json)  
 Rating: 4.43 (Ranked 698)  
 ## Awards
-Max (Character Customization): 111  (Ranked 352)  
-Sum: 111 (Ranked 449)  
+Max (Character Customization): 111  (Ranked 353)  
+Sum: 111 (Ranked 450)  
 Diff (max vs sum): -97  
 | Award | Count |
 | ----- | ----- |

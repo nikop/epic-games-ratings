@@ -4,7 +4,7 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 538,
+  "EOS_Progressed": 539,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1859,6 +1859,11 @@
       "Time": "2023-12-16T07:09:42.0710343+00:00",
       "NumProgressed": 538,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T16:09:41.856582+00:00",
+      "NumProgressed": 539,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -1919,7 +1924,7 @@
       "Name": "I love customers",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -1927,7 +1932,7 @@
       "Name": "Ready to go",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -1951,7 +1956,7 @@
       "Name": "First shock",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -2015,7 +2020,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -2039,7 +2044,7 @@
       "Name": "Unpacked",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -2063,7 +2068,7 @@
       "Name": "Unscrew you",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
@@ -2078,14 +2083,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 538,
+      "Progressed": 539,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:09:25.7411947+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:09:41.8565815+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:19.9363988+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:02:42.4460636+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:09:25.7412199+00:00"
+  "LastUpdate_Ratings": "2023-12-16T16:02:55.0758984+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:09:41.8566153+00:00"
 }

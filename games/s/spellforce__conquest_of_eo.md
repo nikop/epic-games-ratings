@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Enough rooms to swing a cat | 89.00% | ~47 |
-| Home Sweet Home | 89.00% | ~47 |
-| First to the post | 87.00% | ~46 |
-| A kind of Magic | 81.00% | ~43 |
-| Connected | 75.00% | ~40 |
-| Expansion | 74.00% | ~39 |
-| Harvest Time | 66.00% | ~35 |
-| Mine! | 66.00% | ~35 |
-| Artificer's Apprentice | 62.00% | ~33 |
-| Necromancer's Apprentice | 51.00% | ~27 |
-| Get out of here! | 51.00% | ~27 |
-| Fly the friendly Sky | 51.00% | ~27 |
+| Enough rooms to swing a cat | 87.00% | ~47 |
+| Home Sweet Home | 87.00% | ~47 |
+| First to the post | 85.00% | ~46 |
+| A kind of Magic | 80.00% | ~43 |
+| Connected | 74.00% | ~40 |
+| Expansion | 72.00% | ~39 |
+| Harvest Time | 65.00% | ~35 |
+| Mine! | 65.00% | ~35 |
+| Artificer's Apprentice | 61.00% | ~33 |
+| Necromancer's Apprentice | 50.00% | ~27 |
+| Get out of here! | 50.00% | ~27 |
+| Fly the friendly Sky | 50.00% | ~27 |
 | The Circle | 43.00% | ~23 |
 | Friend of Lyraine | 43.00% | ~23 |
-| Alchemist's Apprentice | 42.00% | ~22 |
-| Redecorating | 36.00% | ~19 |
+| Alchemist's Apprentice | 41.00% | ~22 |
+| Redecorating | 35.00% | ~19 |
 | Friend of Sevenkeeps | 26.00% | ~14 |
 | Bad JuJu | 26.00% | ~14 |
-| Slave to the rhythm | 25.00% | ~13 |
-| Castle Meldec | 21.00% | ~11 |
-| Sevenkeeps Seat of Kings | 21.00% | ~11 |
+| Slave to the rhythm | 24.00% | ~13 |
+| Castle Meldec | 20.00% | ~11 |
+| Sevenkeeps Seat of Kings | 20.00% | ~11 |
 | Friend of Alluvyan | 17.00% | ~9 |
 | Friend of Gillyshire | 17.00% | ~9 |
 | Friend of Connach | 17.00% | ~9 |
@@ -46,13 +46,13 @@
 | Mage Teacher | 9.00% | ~5 |
 | A Master of Magic | 9.00% | ~5 |
 | A Joke | 9.00% | ~5 |
-| Get to the Airship! | 8.00% | ~4 |
-| Defeat Hokan | 8.00% | ~4 |
-| Defeat Isgrimm | 8.00% | ~4 |
-| Defeat Undergast | 8.00% | ~4 |
-| Crypt of the Revenant | 8.00% | ~4 |
-| Balanced | 8.00% | ~4 |
-| Friend of Grey Dusk Vale | 8.00% | ~4 |
+| Get to the Airship! | 7.00% | ~4 |
+| Defeat Hokan | 7.00% | ~4 |
+| Defeat Isgrimm | 7.00% | ~4 |
+| Defeat Undergast | 7.00% | ~4 |
+| Crypt of the Revenant | 7.00% | ~4 |
+| Balanced | 7.00% | ~4 |
+| Friend of Grey Dusk Vale | 7.00% | ~4 |
 | Defeat Ianna | 6.00% | ~3 |
 | Defeat Rohen | 6.00% | ~3 |
 | Defeat Yria | 6.00% | ~3 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 511)  
+Progressed: 54 (Ranked 511)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 43 | 0 |
 | 2023-12-14 | 47 | 0 |
 | 2023-12-15 | 51 | 0 |
-| 2023-12-16 | 53 | 0 |
+| 2023-12-16 | 54 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

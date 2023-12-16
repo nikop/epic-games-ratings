@@ -5,7 +5,7 @@ Rating: 4.53 (Ranked 547)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 13.00% | ~2,144 |
+| Oyedang, Kopengs | 13.00% | ~2,145 |
 | The Pit and the Pirates | 8.00% | ~1,320 |
 | Martian Music | 8.00% | ~1,320 |
 | Drone Dodger | 8.00% | ~1,320 |
@@ -14,9 +14,9 @@ Rating: 4.53 (Ranked 547)
 | Celebrations are in Order | 8.00% | ~1,320 |
 | Impossible Objects | 8.00% | ~1,320 |
 | Spore Taste | 7.00% | ~1,155 |
-| Safe Cracker | 7.00% | ~171 |
-| Zen Master | 7.00% | ~171 |
-| Madame Undersecretary | 7.00% | ~171 |
+| Safe Cracker | 7.00% | ~172 |
+| Zen Master | 7.00% | ~172 |
+| Madame Undersecretary | 7.00% | ~172 |
 | Stogie for Fogey | 6.00% | ~990 |
 | Call it Even | 6.00% | ~990 |
 | Keep Arjun in Check | 6.00% | ~147 |
@@ -35,13 +35,13 @@ Rating: 4.53 (Ranked 547)
 | No Belter Left Behind | 1.00% | ~165 |
 | Debris Spree | 1.00% | ~165 |
 | Data Recoverer | 1.00% | ~165 |
-| Urshanabi Hoarder | 0.70% | ~115 |
+| Urshanabi Hoarder | 0.70% | ~116 |
 | Data Miner | 0.40% | ~66 |
 | Grave Robber | 0.40% | ~66 |
 | Scavenger Star | 0.20% | ~33 |
-| Data Collector | 0.10% | ~16 |
+| Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,495 (Ranked 152)  
+Progressed: 16,501 (Ranked 152)  
 Completed: 43 (0.26%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 43 (0.26%) (Ranked 249)
 | 2023-12-13 | 16,124 | 43 |
 | 2023-12-14 | 16,263 | 43 |
 | 2023-12-15 | 16,416 | 43 |
-| 2023-12-16 | 16,495 | 43 |
+| 2023-12-16 | 16,501 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

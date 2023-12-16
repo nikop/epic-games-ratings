@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1373,
+  "EOS_Progressed": 1376,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3232,6 +3232,11 @@
       "Time": "2023-12-16T15:04:56.7629973+00:00",
       "NumProgressed": 1373,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T16:05:13.790266+00:00",
+      "NumProgressed": 1376,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3250,9 +3255,9 @@
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "5k00jcd",
       "Name": "Acrobat",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 28
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -3260,7 +3265,7 @@
       "Name": "Out of control",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -3282,9 +3287,9 @@
       "ID": "ML_ACHIEVEMENT_06",
       "SetID": "5k00jcd",
       "Name": "Now try online",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -3292,7 +3297,7 @@
       "Name": "Globetrotter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -3300,7 +3305,7 @@
       "Name": "Versatile riding",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -3386,9 +3391,9 @@
       "ID": "ML_ACHIEVEMENT_19",
       "SetID": "5k00jcd",
       "Name": "Well begun\u2026",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 41
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -3484,7 +3489,7 @@
       "Name": "Shopping time!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -3500,7 +3505,7 @@
       "Name": "Spin the wheel",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -3556,7 +3561,7 @@
       "Name": "A little nest egg",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -3611,20 +3616,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1373,
+      "Progressed": 1376,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1041,
+      "Progressed": 1044,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:04:56.7629969+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:05:13.7902656+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:58:03.5690729+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:04:56.763045+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:58:17.1699419+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:05:13.7903419+00:00"
 }

@@ -10,11 +10,11 @@ Rating: 4.57 (Ranked 482)
 | Better On Ice | 68.00% | ~800 |
 | Notai Notes | 67.00% | ~788 |
 | Blue Dreams | 66.00% | ~776 |
+| He's Famous! | 66.00% | ~776 |
 | Cutie Poro | 66.00% | ~776 |
-| He's Famous! | 65.00% | ~764 |
 | Krugmazing | 64.00% | ~753 |
 | Moneyball | 61.00% | ~717 |
-| The Fire Below the Mountain | 60.00% | ~706 |
+| The Fire Below the Mountain | 61.00% | ~717 |
 | No Bites | 55.00% | ~647 |
 | Iceborn | 55.00% | ~647 |
 | Tear of Freedom | 52.00% | ~612 |
@@ -50,7 +50,7 @@ Rating: 4.57 (Ranked 482)
 | We Are Speed | 2.00% | ~24 |
 | Sneaky Notai | 1.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,176 (Ranked 263)  
+Progressed: 1,176 (Ranked 264)  
 Completed: 8 (0.68%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |

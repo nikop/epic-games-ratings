@@ -6,21 +6,21 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 7.00% | ~181 |
-| Lost and Found | 4.00% | ~103 |
+| Malpractice Assurance | 7.00% | ~182 |
+| Lost and Found | 4.00% | ~104 |
 | This Belongs in a Museum | 3.00% | ~3,832 |
 | Autodidact | 3.00% | ~3,832 |
 | This guy... again? | 3.00% | ~78 |
 | Bloody Graduation | 3.00% | ~78 |
-| Serenity Now! | 2.00% | ~2,554 |
-| Not Today! | 2.00% | ~2,554 |
-| Creep and Sleep | 2.00% | ~2,554 |
-| Meat and Greet | 2.00% | ~2,554 |
-| Catch and Decease | 2.00% | ~2,554 |
-| Overdue Notice | 2.00% | ~2,554 |
-| Escape from the Black Hole | 2.00% | ~2,554 |
-| Rush Hour | 2.00% | ~2,554 |
-| To Grandmother's House | 2.00% | ~2,554 |
+| Serenity Now! | 2.00% | ~2,555 |
+| Not Today! | 2.00% | ~2,555 |
+| Creep and Sleep | 2.00% | ~2,555 |
+| Meat and Greet | 2.00% | ~2,555 |
+| Catch and Decease | 2.00% | ~2,555 |
+| Overdue Notice | 2.00% | ~2,555 |
+| Escape from the Black Hole | 2.00% | ~2,555 |
+| Rush Hour | 2.00% | ~2,555 |
+| To Grandmother's House | 2.00% | ~2,555 |
 | Ploughshares to Swords | 2.00% | ~52 |
 | Friends 'Til the End | 2.00% | ~52 |
 | Don't Make Me Turn This Coach Around | 1.00% | ~1,277 |
@@ -37,22 +37,22 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 1.00% | ~1,277 |
 | Nope | 1.00% | ~1,277 |
 | Road Trip | 1.00% | ~1,277 |
-| Unfulfilled Desires | 0.90% | ~1,149 |
-| Now Stay Dead | 0.90% | ~1,149 |
-| Reverse Banditry | 0.90% | ~1,149 |
-| Ramble On | 0.90% | ~1,149 |
-| Worldly Traveller | 0.90% | ~1,149 |
-| Unshackled | 0.90% | ~1,149 |
+| Unleash Hell | 0.90% | ~1,150 |
+| Unfulfilled Desires | 0.90% | ~1,150 |
+| Now Stay Dead | 0.90% | ~1,150 |
+| Reverse Banditry | 0.90% | ~1,150 |
+| Ramble On | 0.90% | ~1,150 |
+| Worldly Traveller | 0.90% | ~1,150 |
+| Unshackled | 0.90% | ~1,150 |
 | Resurrection | 0.80% | ~1,022 |
-| Unleash Hell | 0.80% | ~1,022 |
 | Funny Guy | 0.80% | ~1,022 |
 | Long Live the King | 0.80% | ~1,022 |
 | Wyrdly Reconstructed | 0.80% | ~1,022 |
 | Boxcar Kid | 0.80% | ~1,022 |
 | Predator | 0.80% | ~1,022 |
 | A Clear Conscience | 0.80% | ~1,022 |
+| When You Want Something Done Right | 0.80% | ~1,022 |
 | Utopia | 0.80% | ~1,022 |
-| When You Want Something Done Right | 0.70% | ~894 |
 | Hope Rekindled | 0.60% | ~766 |
 | Ichthyophobic | 0.60% | ~766 |
 | No More Mouths to Feed | 0.60% | ~766 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 | On This Long Road, We Found Redemption | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,718 (Ranked 84)  
+Progressed: 127,734 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
-| 2023-12-16 | 127,718 | 3 |
+| 2023-12-16 | 127,734 | 3 |
 ## Awards
 Max (Character Customization): 7,744  (Ranked 51)  
 Sum: 20,571 (Ranked 58)  

@@ -19,7 +19,7 @@ Number of Ratings: 90  (23.09.2022)
 | Cult Following | 16.00% | ~14 |
 | Lie Back and Think of Albion | 15.00% | ~13 |
 | Perfect Probulator | 11.00% | ~10 |
-| Freshly Squeezed | 10.00% | ~9 |
+| Freshly Squeezed | 11.00% | ~10 |
 | Die Nasty | 9.00% | ~8 |
 | Transmitting From Sol-3 | 7.00% | ~6 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 6.00% | ~5 |

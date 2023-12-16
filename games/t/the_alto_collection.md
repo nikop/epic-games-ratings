@@ -6,18 +6,18 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~13,614 |
-| Finding Your Footing | 25.00% | ~12,605 |
+| Rookie | 27.00% | ~13,615 |
+| Finding Your Footing | 25.00% | ~12,606 |
 | Nomad | 17.00% | ~8,572 |
-| Picking Up Speed | 15.00% | ~7,563 |
-| Welcome Maya | 14.00% | ~7,059 |
-| Scout | 11.00% | ~5,546 |
-| Sightseer | 11.00% | ~5,546 |
-| Amateur | 10.00% | ~5,042 |
+| Picking Up Speed | 15.00% | ~7,564 |
+| Welcome Maya | 14.00% | ~7,060 |
+| Scout | 11.00% | ~5,547 |
+| Sightseer | 11.00% | ~5,547 |
+| Amateur | 10.00% | ~5,043 |
 | Unlock Maya | 8.00% | ~4,034 |
 | Wanderer | 8.00% | ~4,034 |
-| Enter Paz | 7.00% | ~3,529 |
-| Aviator | 6.00% | ~3,025 |
+| Enter Paz | 7.00% | ~3,530 |
+| Aviator | 6.00% | ~3,026 |
 | My Little Friend | 5.00% | ~2,521 |
 | One With The Board | 5.00% | ~2,521 |
 | Voyager | 5.00% | ~2,521 |
@@ -27,11 +27,11 @@ Number of Ratings: 332  (23.09.2022)
 | Human Flight | 3.00% | ~1,513 |
 | Sandboarder | 3.00% | ~1,513 |
 | Izel Has Arrived | 3.00% | ~1,513 |
-| Explorer | 2.00% | ~1,008 |
-| Pro | 2.00% | ~1,008 |
-| Journeyer | 2.00% | ~1,008 |
-| Unlock Izel | 2.00% | ~1,008 |
-| Here Comes Felipe | 2.00% | ~1,008 |
+| Explorer | 2.00% | ~1,009 |
+| Pro | 2.00% | ~1,009 |
+| Journeyer | 2.00% | ~1,009 |
+| Unlock Izel | 2.00% | ~1,009 |
+| Here Comes Felipe | 2.00% | ~1,009 |
 | Hoist the Mainsail | 1.00% | ~504 |
 | Daredevil | 1.00% | ~504 |
 | Introducing Sumara | 1.00% | ~504 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~50 |
 | Windswept | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,421 (Ranked 115)  
+Progressed: 50,426 (Ranked 115)  
 Completed: 5 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 5 (0.01%) (Ranked 353)
 | 2023-12-13 | 49,999 | 5 |
 | 2023-12-14 | 50,164 | 5 |
 | 2023-12-15 | 50,320 | 5 |
-| 2023-12-16 | 50,421 | 5 |
+| 2023-12-16 | 50,426 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 49  (Ranked 443)  
 Sum: 387 (Ranked 352)  

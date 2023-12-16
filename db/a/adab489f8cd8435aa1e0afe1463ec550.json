@@ -2,9 +2,9 @@
   "ID": "adab489f8cd8435aa1e0afe1463ec550",
   "Name": "CyberTD",
   "ProductSlug": "cybertd-22dbd6",
-  "Ranking_EOS_Progress": 595,
+  "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 520,
+  "Ranking_EOS_NewPlayers": 519,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -436,9 +436,9 @@
       "ID": "7",
       "SetID": "6hl9l7f",
       "Name": "ViKing 2000",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "8",
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:03:48.1572677+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:04:04.2625786+00:00",
   "LastUpdate_AppInfo": "2023-12-10T15:57:12.5848871+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:57:46.2086805+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:03:48.1573014+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:58:00.377632+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:04:04.2626076+00:00"
 }

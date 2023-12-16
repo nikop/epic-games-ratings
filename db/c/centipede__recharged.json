@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -335,9 +335,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23486,
+  "EOS_Progressed": 23488,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -20040,6 +20040,11 @@
       "Time": "2023-12-16T15:05:22.2854171+00:00",
       "NumProgressed": 23486,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-12-16T16:05:39.273625+00:00",
+      "NumProgressed": 23488,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 16,
@@ -20059,7 +20064,7 @@
       "Name": "Burning For You",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6106
+      "UsersEstimate": 6107
     },
     {
       "ID": "Deadline",
@@ -20083,7 +20088,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 2583
+      "UsersEstimate": 2584
     },
     {
       "ID": "Feel_The_Thunder",
@@ -20147,7 +20152,7 @@
       "Name": "Shooting Shark",
       "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 11273
+      "UsersEstimate": 11274
     },
     {
       "ID": "Sole_Survivor",
@@ -20155,7 +20160,7 @@
       "Name": "Sole Survivor",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 8220
+      "UsersEstimate": 8221
     },
     {
       "ID": "Still_Burning",
@@ -20178,15 +20183,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 23486,
+      "Progressed": 23488,
       "Completed": 117
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-12-12T11:59:02.4722779+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:05:22.2854167+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:05:39.2736246+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:23.9972538+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:00:04.2584633+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:05:22.2855308+00:00"
+  "LastUpdate_Ratings": "2023-12-16T16:00:18.0565343+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:05:39.2737956+00:00"
 }

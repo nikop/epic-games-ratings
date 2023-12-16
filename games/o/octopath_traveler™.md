@@ -1,15 +1,15 @@
 # OCTOPATH TRAVELER™
 [Store](https://store.epicgames.com/en-US/p/octopath-traveler)  
 [View Rawdata](../../db/o/octopath_traveler™.json)  
-Rating: 4.79 (Ranked 98)  
+Rating: 4.80 (Ranked 91)  
 Number of Ratings: 166  (23.09.2022)  
 ## Awards
-Max (Character Customization): 125  (Ranked 343)  
-Sum: 125 (Ranked 441)  
-Diff (max vs sum): -98  
+Max (Character Customization): 127  (Ranked 340)  
+Sum: 127 (Ranked 439)  
+Diff (max vs sum): -99  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 125 |
+| This game has Inclusive Character Customization | 127 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -100,3 +100,4 @@ Diff (max vs sum): -98
 | 2023-11-19 | 4.79 | - | 125 | 125 |
 | 2023-11-29 | 4.80 | - | 125 | 125 |
 | 2023-12-15 | 4.79 | - | 125 | 125 |
+| 2023-12-16 | 4.80 | - | 127 | 127 |

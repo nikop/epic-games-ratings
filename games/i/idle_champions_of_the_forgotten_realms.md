@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Lose Your Head | 0.10% | ~207 |
 | Mind Spike | 0.10% | ~207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,038 (Ranked 66)  
+Progressed: 241,054 (Ranked 66)  
 Completed: 2,535 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -793,20 +793,20 @@ Completed: 2,535 (1.05%) (Ranked 167)
 | 2023-12-13 | 239,847 | 2,519 |
 | 2023-12-14 | 240,414 | 2,526 |
 | 2023-12-15 | 240,802 | 2,532 |
-| 2023-12-16 | 241,038 | 2,535 |
+| 2023-12-16 | 241,054 | 2,535 |
 ## Awards
 Max (Great for Beginners): 5,645  (Ranked 70)  
-Sum: 32,906 (Ranked 41)  
+Sum: 32,916 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,645 |
 | This game has Diverse Characters | 5,607 |
-| This game has Quickly Understood Controls | 4,843 |
+| This game has Quickly Understood Controls | 4,846 |
 | This game is Relaxing | 4,731 |
 | This game has Amazing Characters | 4,258 |
-| This game is Highly Recommended | 4,246 |
-| This game has Playful Visuals | 3,576 |
+| This game is Highly Recommended | 4,251 |
+| This game has Playful Visuals | 3,578 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -1134,4 +1134,4 @@ Diff (max vs sum): 29
 | 2023-12-13 | 4.06 | - | 5,624 | 32,841 |
 | 2023-12-14 | 4.06 | - | 5,635 | 32,877 |
 | 2023-12-15 | 4.06 | - | 5,645 | 32,899 |
-| 2023-12-16 | 4.06 | - | 5,645 | 32,906 |
+| 2023-12-16 | 4.06 | - | 5,645 | 32,916 |

@@ -5,9 +5,9 @@ Rating: 4.62 (Ranked 370)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 35.00% | ~346 |
+| Time Heals All Wounds | 35.00% | ~347 |
 | Rail Rat | 28.00% | ~277 |
-| The Mysterious Stranger | 27.00% | ~267 |
+| The Mysterious Stranger | 27.00% | ~268 |
 | Immaculate Aim | 23.00% | ~228 |
 | The Brass Boss | 23.00% | ~228 |
 | Make Up For Lost Time | 22.00% | ~218 |
@@ -25,11 +25,11 @@ Rating: 4.62 (Ranked 370)
 | Right On Time | 19.00% | ~188 |
 | Like Clockwork | 19.00% | ~188 |
 | Golem Chaser | 19.00% | ~188 |
+| The Man Who Shattered Time | 18.00% | ~178 |
 | The Loose Cannon | 18.00% | ~178 |
 | Check Your Pulse | 18.00% | ~178 |
 | The Family Fortune | 18.00% | ~178 |
 | Street Style | 17.00% | ~168 |
-| The Man Who Shattered Time | 17.00% | ~168 |
 | Treasure Trove | 14.00% | ~139 |
 | Whiz Kid | 14.00% | ~139 |
 | Cartographer | 14.00% | ~139 |
@@ -37,9 +37,9 @@ Rating: 4.62 (Ranked 370)
 | Chaincrawler Explorer | 12.00% | ~119 |
 | Family Memories | 12.00% | ~119 |
 | Ask Questions Later | 12.00% | ~119 |
-| Sump Explorer | 11.00% | ~109 |
 | Syron for Hope | 11.00% | ~109 |
 | Fairgrounds Explorer | 10.00% | ~99 |
+| Sump Explorer | 10.00% | ~99 |
 | Theater Explorer | 10.00% | ~99 |
 | Cultivair Explorer | 9.00% | ~89 |
 | Factorywood Explorer | 9.00% | ~89 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 370)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 990 (Ranked 274)  
+Progressed: 991 (Ranked 274)  
 Completed: 6 (0.61%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 6 (0.61%) (Ranked 193)
 | 2023-12-13 | 955 | 6 |
 | 2023-12-14 | 963 | 6 |
 | 2023-12-15 | 978 | 6 |
-| 2023-12-16 | 990 | 6 |
+| 2023-12-16 | 991 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

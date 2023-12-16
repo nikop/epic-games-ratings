@@ -11,11 +11,11 @@
 | Cardinal Sins | 49.00% | ~43 |
 | Warm and Fuzzy | 49.00% | ~43 |
 | Master of Warfare | 37.00% | ~32 |
-| Vicious Delicious | 25.00% | ~22 |
-| Hellfire | 23.00% | ~20 |
+| Vicious Delicious | 26.00% | ~23 |
+| Hellfire | 24.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 87 (Ranked 468)  
-Completed: 17 (19.54%) (Ranked 23)  
+Completed: 18 (20.69%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -36,6 +36,7 @@ Completed: 17 (19.54%) (Ranked 23)
 | 2023-11-07 | 85 | 16 |
 | 2023-11-28 | 86 | 16 |
 | 2023-12-15 | 87 | 17 |
+| 2023-12-16 | 87 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

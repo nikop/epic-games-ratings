@@ -1,24 +1,24 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 129)  
+Rating: 4.76 (Ranked 130)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,346 |
-| A Spark | 19.00% | ~2,354 |
-| Burning City | 18.00% | ~2,230 |
+| Devoured by Darkness | 27.00% | ~3,347 |
+| A Spark | 19.00% | ~2,355 |
+| Burning City | 18.00% | ~2,231 |
 | Defender's Heart | 16.00% | ~1,983 |
 | Mythic Choices | 15.00% | ~1,859 |
 | Banner over the Citadel | 14.00% | ~1,735 |
 | Queen's Gratitude | 12.00% | ~1,487 |
-| Fifth Crusade | 9.00% | ~1,115 |
-| Embrace of the Abyss | 7.00% | ~867 |
-| Path of the Angel | 7.00% | ~867 |
-| Demonic and Divine | 7.00% | ~867 |
-| Great Upstart | 6.00% | ~743 |
-| All Paths Open | 6.00% | ~743 |
+| Fifth Crusade | 9.00% | ~1,116 |
+| Embrace of the Abyss | 7.00% | ~868 |
+| Path of the Angel | 7.00% | ~868 |
+| Demonic and Divine | 7.00% | ~868 |
+| Great Upstart | 6.00% | ~744 |
+| All Paths Open | 6.00% | ~744 |
 | Path of the Azata | 5.00% | ~620 |
 | Transformation | 5.00% | ~620 |
 | The Legacy | 5.00% | ~620 |
@@ -43,7 +43,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Aeon | 2.00% | ~248 |
 | Your First Big Enemy | 2.00% | ~248 |
 | Truly Important Deed | 2.00% | ~248 |
-| Stay Underground | 2.00% | ~223 |
+| Stay Underground | 2.00% | ~224 |
 | The Final Threshold | 1.00% | ~124 |
 | Path of the Dragon | 1.00% | ~124 |
 | Path of the Legend | 1.00% | ~124 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,391 (Ranked 165)  
+Progressed: 12,395 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -363,7 +363,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 12,300 | 0 |
 | 2023-12-14 | 12,326 | 0 |
 | 2023-12-15 | 12,356 | 0 |
-| 2023-12-16 | 12,391 | 0 |
+| 2023-12-16 | 12,395 | 0 |
 ## Awards
 Max (Character Customization): 1,761  (Ranked 123)  
 Sum: 7,143 (Ranked 122)  

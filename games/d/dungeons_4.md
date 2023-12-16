@@ -15,7 +15,7 @@
 | Bad Elves Go Everywhere | 68.00% | ~390 |
 | Heroes’ Gorge | 64.00% | ~367 |
 | Master of Magic | 63.00% | ~362 |
-| Unicorn steaks – fresh off the hoof! | 61.00% | ~350 |
+| Unicorn steaks – fresh off the hoof! | 62.00% | ~356 |
 | Magic Accidents | 59.00% | ~339 |
 | The Ascent | 57.00% | ~327 |
 | It's Warm and Cozy at Home | 57.00% | ~327 |
@@ -23,7 +23,7 @@
 | Minions, Minions! | 54.00% | ~310 |
 | The Big Eaty | 53.00% | ~304 |
 | Hard Work | 52.00% | ~298 |
-| “… like son” | 50.00% | ~287 |
+| “… like son” | 51.00% | ~293 |
 | YOU SHALL NOT PASS! | 49.00% | ~281 |
 | The Cathedral of Light | 46.00% | ~264 |
 | Pure Dynamite! | 45.00% | ~258 |

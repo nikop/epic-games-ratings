@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -487,9 +487,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 44054,
+  "EOS_Progressed": 44065,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 588,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15312,6 +15312,11 @@
       "Time": "2023-12-16T15:08:42.0340357+00:00",
       "NumProgressed": 44054,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T16:08:57.8669236+00:00",
+      "NumProgressed": 44065,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15355,7 +15360,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -15371,7 +15376,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4405
+      "UsersEstimate": 4406
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -15379,7 +15384,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -15475,7 +15480,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3084
+      "UsersEstimate": 3085
     },
     {
       "ID": "CUFF_ATTACK",
@@ -15515,7 +15520,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -15563,7 +15568,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -15579,7 +15584,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "MAGIC_IVY",
@@ -15611,7 +15616,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -15635,7 +15640,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -15659,7 +15664,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3965
+      "UsersEstimate": 3966
     },
     {
       "ID": "SPRING_ALL",
@@ -15675,7 +15680,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "STAYING_AIR",
@@ -15746,22 +15751,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44054,
+      "Progressed": 44065,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8891,
-      "Completed": 8891
+      "Progressed": 8902,
+      "Completed": 8902
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-16T02:18:37.9301013+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:08:42.0340353+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:08:57.8669232+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:12.2339808+00:00",
-  "LastUpdate_Ratings": "2023-12-16T14:57:59.7563452+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:08:42.0341182+00:00"
+  "LastUpdate_Ratings": "2023-12-16T15:58:13.060473+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:08:57.867052+00:00"
 }

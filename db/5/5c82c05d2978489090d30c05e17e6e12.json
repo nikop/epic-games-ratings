@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67410,
+  "EOS_Progressed": 67422,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 2262,
+  "EOS_NewPlayers": 2245,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3783,6 +3783,11 @@
       "Time": "2023-12-16T15:05:17.0394437+00:00",
       "NumProgressed": 67410,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-12-16T16:05:34.2103045+00:00",
+      "NumProgressed": 67422,
+      "NumCompleted": 80
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -3795,7 +3800,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 24942
+      "UsersEstimate": 24946
     },
     {
       "ID": "Achievement_10",
@@ -3827,7 +3832,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2022
+      "UsersEstimate": 2023
     },
     {
       "ID": "Achievement_14",
@@ -3841,9 +3846,9 @@
       "ID": "Achievement_15",
       "SetID": "2md12pi",
       "Name": "Lango Plantmaster",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 202
     },
     {
       "ID": "Achievement_16",
@@ -3867,7 +3872,7 @@
       "Name": "Champions of Umbra",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "Achievement_19",
@@ -3883,7 +3888,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 18201
+      "UsersEstimate": 18204
     },
     {
       "ID": "Achievement_20",
@@ -3915,7 +3920,7 @@
       "Name": "Festival Masters",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "Achievement_24",
@@ -3923,7 +3928,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2696
+      "UsersEstimate": 2697
     },
     {
       "ID": "Achievement_25",
@@ -3971,7 +3976,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8089
+      "UsersEstimate": 8091
     },
     {
       "ID": "Achievement_30",
@@ -4019,7 +4024,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6067
+      "UsersEstimate": 6068
     },
     {
       "ID": "Achievement_5",
@@ -4035,7 +4040,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2696
+      "UsersEstimate": 2697
     },
     {
       "ID": "Achievement_7",
@@ -4043,7 +4048,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2022
+      "UsersEstimate": 2023
     },
     {
       "ID": "Achievement_8",
@@ -4066,7 +4071,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 67410,
+      "Progressed": 67422,
       "Completed": 80
     }
   ],
@@ -4074,8 +4079,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-16T14:03:10.9080463+00:00",
-  "LastChanged_Achievements": "2023-12-16T15:05:17.0394434+00:00",
+  "LastChanged_Achievements": "2023-12-16T16:05:34.210304+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:14.9583048+00:00",
-  "LastUpdate_Ratings": "2023-12-16T15:02:55.6884415+00:00",
-  "LastUpdate_Achievements": "2023-12-16T15:05:17.0394815+00:00"
+  "LastUpdate_Ratings": "2023-12-16T16:03:08.3608785+00:00",
+  "LastUpdate_Achievements": "2023-12-16T16:05:34.2103582+00:00"
 }

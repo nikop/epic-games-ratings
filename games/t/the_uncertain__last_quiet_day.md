@@ -17,9 +17,9 @@ Rating: 3.75 (Ranked 1,056)
 | There is another way | 23.00% | ~137 |
 | Sysadmin | 22.00% | ~131 |
 | Every little helps | 21.00% | ~125 |
+| Annoying | 20.00% | ~119 |
+| Hacker | 20.00% | ~119 |
 | The Walking Robot Among Us | 20.00% | ~119 |
-| Annoying | 19.00% | ~113 |
-| Hacker | 19.00% | ~113 |
 | He is just a child | 19.00% | ~113 |
 | Uncertain | 18.00% | ~107 |
 | Goody | 17.00% | ~101 |
