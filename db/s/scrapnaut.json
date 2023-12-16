@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -1857,9 +1857,9 @@
       "ID": "ACH_FIND_10_TREASURES",
       "SetID": "7c4cldc",
       "Name": "Treasure Hunter",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_FIRST_BASE",
@@ -1986,8 +1986,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-11-17T17:00:24.0955126+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:09:14.6338271+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:09:07.298679+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.171246+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:01:46.5701964+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:09:14.6338531+00:00"
+  "LastUpdate_Ratings": "2023-12-16T18:00:26.3766003+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:09:07.2987047+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1594,
+  "EOS_Progressed": 1597,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -2433,6 +2433,11 @@
       "Time": "2023-12-16T17:03:44.1651602+00:00",
       "NumProgressed": 1594,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-16T18:03:33.964248+00:00",
+      "NumProgressed": 1597,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2444,7 +2449,7 @@
       "Name": "Lovebirds",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 765
+      "UsersEstimate": 767
     },
     {
       "ID": "10",
@@ -2452,7 +2457,7 @@
       "Name": "Perfect timing",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "11",
@@ -2476,7 +2481,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "14",
@@ -2492,7 +2497,7 @@
       "Name": "Back to rust",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "16",
@@ -2508,7 +2513,7 @@
       "Name": "Balding bloot!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1230
     },
     {
       "ID": "18",
@@ -2516,7 +2521,7 @@
       "Name": "Like new!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "19",
@@ -2532,7 +2537,7 @@
       "Name": "Flower Powered",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "20",
@@ -2540,7 +2545,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "21",
@@ -2580,7 +2585,7 @@
       "Name": "Heartstrings",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "27",
@@ -2604,7 +2609,7 @@
       "Name": "Hug therapy",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 685
+      "UsersEstimate": 687
     },
     {
       "ID": "30",
@@ -2636,15 +2641,15 @@
       "Name": "Head in the clouds",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "5",
       "SetID": "n50no0",
       "Name": "An eye for an eye",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 96
     },
     {
       "ID": "6",
@@ -2652,7 +2657,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 701
+      "UsersEstimate": 703
     },
     {
       "ID": "7",
@@ -2668,7 +2673,7 @@
       "Name": "Over my dead body",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "9",
@@ -2683,15 +2688,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1594,
+      "Progressed": 1597,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:03:44.1651598+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:03:33.9642476+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:06.0236888+00:00",
-  "LastUpdate_Ratings": "2023-12-16T16:57:12.654291+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:03:44.1651918+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:57:13.5121584+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:03:33.9642938+00:00"
 }

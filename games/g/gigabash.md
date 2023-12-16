@@ -5,32 +5,32 @@ Rating: 4.55 (Ranked 514)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 8.00% | ~7,020 |
-| I've Had Enough! | 7.00% | ~6,142 |
-| Fists, Fury & a lot of Rage | 5.00% | ~4,387 |
-| All For One and One For All | 4.00% | ~3,510 |
-| Seasoned Fighter | 4.00% | ~3,510 |
-| Home Sweet Home? | 3.00% | ~2,632 |
-| Oh Baby, A Triple | 2.00% | ~1,755 |
-| A New Age | 2.00% | ~1,755 |
-| Master of Disguise | 1.00% | ~877 |
-| Symbiotic | 1.00% | ~877 |
-| Battle Hardened | 0.90% | ~790 |
-| It's Mayhem! | 0.90% | ~790 |
-| Right back at'cha | 0.80% | ~702 |
-| Double Punch! | 0.70% | ~614 |
-| Spectacular Finisher | 0.70% | ~614 |
-| Cautious Veteran | 0.60% | ~526 |
-| Martyrdom | 0.60% | ~526 |
+| All Grown Up! | 8.00% | ~7,031 |
+| I've Had Enough! | 7.00% | ~6,152 |
+| Fists, Fury & a lot of Rage | 5.00% | ~4,394 |
+| All For One and One For All | 4.00% | ~3,515 |
+| Seasoned Fighter | 4.00% | ~3,515 |
+| Home Sweet Home? | 3.00% | ~2,636 |
+| Oh Baby, A Triple | 2.00% | ~1,758 |
+| A New Age | 2.00% | ~1,758 |
+| Battle Hardened | 1.00% | ~879 |
+| Master of Disguise | 1.00% | ~879 |
+| Symbiotic | 1.00% | ~879 |
+| It's Mayhem! | 0.90% | ~791 |
+| Right back at'cha | 0.80% | ~703 |
+| Double Punch! | 0.70% | ~615 |
+| Spectacular Finisher | 0.70% | ~615 |
+| Cautious Veteran | 0.60% | ~527 |
+| Martyrdom | 0.60% | ~527 |
 | Zero-sum Game | 0.50% | ~439 |
-| Katamari | 0.40% | ~351 |
-| Ninja Reflex | 0.40% | ~351 |
-| Taste Your Own Medicine | 0.30% | ~263 |
-| Eye of the Titan | 0.20% | ~175 |
-| Just Getting Warmed Up | 0.20% | ~175 |
-| This is GigaBash! | 0.20% | ~175 |
-| Sidetracked... | 0.20% | ~175 |
-| Top of the Food Chain | 0.20% | ~175 |
+| Katamari | 0.40% | ~352 |
+| Ninja Reflex | 0.40% | ~352 |
+| Taste Your Own Medicine | 0.30% | ~264 |
+| Eye of the Titan | 0.20% | ~176 |
+| Just Getting Warmed Up | 0.20% | ~176 |
+| This is GigaBash! | 0.20% | ~176 |
+| Sidetracked... | 0.20% | ~176 |
+| Top of the Food Chain | 0.20% | ~176 |
 | 5 Stages of Grief | 0.10% | ~88 |
 | Bastion of Humanity | 0.10% | ~88 |
 | Let Them Fight | 0.10% | ~88 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 514)
 | Signature Look | 0.00% | ~0 |
 | What's Mine is Yours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,745 (Ranked 96)  
+Progressed: 87,882 (Ranked 96)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,11 +52,11 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 74,092 | 0 |
 | 2023-12-14 | 80,003 | 0 |
 | 2023-12-15 | 84,190 | 0 |
-| 2023-12-16 | 87,745 | 0 |
+| 2023-12-16 | 87,882 | 0 |
 ## Awards
-Max (Great Boss Battles): 26  (Ranked 524)  
+Max (Great Boss Battles): 26  (Ranked 525)  
 Sum: 26 (Ranked 534)  
-Diff (max vs sum): -10  
+Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 26 |

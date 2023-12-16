@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3688,9 +3688,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241146,
+  "EOS_Progressed": 241148,
   "EOS_Completed": 299,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -28428,6 +28428,11 @@
       "Time": "2023-12-16T17:10:31.1470044+00:00",
       "NumProgressed": 241146,
       "NumCompleted": 299
+    },
+    {
+      "Time": "2023-12-16T18:10:05.1799875+00:00",
+      "NumProgressed": 241148,
+      "NumCompleted": 299
     }
   ],
   "TotalAchievements": 138,
@@ -28965,9 +28970,9 @@
       "ID": "KILLSPINEDSPINEBACK",
       "SetID": "5l8oe0h",
       "Name": "Spine Breaker",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1447
     },
     {
       "ID": "KILLSPITTER",
@@ -29542,13 +29547,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241146,
+      "Progressed": 241148,
       "Completed": 299
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2626,
+      "Progressed": 2628,
       "Completed": 406
     }
   ],
@@ -29556,8 +29561,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-16T10:57:08.4508717+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:10:31.1470042+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:10:05.179987+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-16T16:57:19.6648528+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:10:31.1472607+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:57:18.746786+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:10:05.1802507+00:00"
 }

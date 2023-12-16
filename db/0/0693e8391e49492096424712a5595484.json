@@ -2,7 +2,7 @@
   "ID": "0693e8391e49492096424712a5595484",
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
-  "Ranking_EOS_Progress": 314,
+  "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 53,
   "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 59,
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 574,
+  "EOS_Progressed": 575,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 7.49,
+  "EOS_Completed_Percentage": 7.48,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -2284,6 +2284,11 @@
       "Time": "2023-12-16T16:05:19.9261153+00:00",
       "NumProgressed": 574,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-16T18:05:28.5459463+00:00",
+      "NumProgressed": 575,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 45,
@@ -2317,9 +2322,9 @@
       "ID": "BearBroom",
       "SetID": "db30heh",
       "Name": "Dusted",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 86
     },
     {
       "ID": "BearPistol",
@@ -2359,7 +2364,7 @@
       "Name": "Alms",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -2375,15 +2380,15 @@
       "Name": "Home Sweet Home",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "BroomAmanita",
       "SetID": "db30heh",
       "Name": "Gone Cooking",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 276
+      "UsersEstimate": 282
     },
     {
       "ID": "BroomPistol",
@@ -2431,7 +2436,7 @@
       "Name": "Funny Granny",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "DwarfHobo",
@@ -2455,7 +2460,7 @@
       "Name": "Do Not Disturb",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "HastrmanAmanita",
@@ -2463,15 +2468,15 @@
       "Name": "Tastes Funny",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "HastrmanHappy",
       "SetID": "db30heh",
       "Name": "Regular Diet",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 253
+      "UsersEstimate": 247
     },
     {
       "ID": "HastrmanRum",
@@ -2487,7 +2492,7 @@
       "Name": "Flower",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "KingDiamond",
@@ -2503,7 +2508,7 @@
       "Name": "Your Soul Is Mine",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "PriestBroom",
@@ -2567,7 +2572,7 @@
       "Name": "Treasure Chest",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "RogueEat",
@@ -2599,7 +2604,7 @@
       "Name": "In Good Spirits",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -2623,15 +2628,15 @@
       "Name": "Poppy Sleep",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "SwordDiamond",
       "SetID": "db30heh",
       "Name": "Precious Barter",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 288
     },
     {
       "ID": "SwordMoneyBag",
@@ -2647,21 +2652,21 @@
       "Name": "Bratwurm",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     }
   ],
   "AchievementSets": [
     {
       "ID": "db30heh",
       "IsBase": true,
-      "Progressed": 574,
+      "Progressed": 575,
       "Completed": 43
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:06:18.3834065+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:05:28.545946+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:40.9635354+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:01:00.6561228+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:06:18.3834394+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:59:53.6553472+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:05:28.5459835+00:00"
 }

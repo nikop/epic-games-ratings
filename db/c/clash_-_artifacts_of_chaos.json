@@ -348,9 +348,9 @@
       "ID": "Achievement10",
       "SetID": "jf6ho5",
       "Name": "The Pride of Moozhaw",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement11",
@@ -492,9 +492,9 @@
       "ID": "Achievement8",
       "SetID": "jf6ho5",
       "Name": "Armored",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement9",
@@ -517,8 +517,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:10:23.4503669+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:09:58.6293047+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:47.6051653+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:00:09.893662+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:10:23.4503836+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:59:17.9219872+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:09:58.6293161+00:00"
 }

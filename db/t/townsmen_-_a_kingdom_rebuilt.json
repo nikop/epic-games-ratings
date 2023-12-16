@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4379,
+  "EOS_Progressed": 4381,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1717,6 +1717,11 @@
       "Time": "2023-12-16T12:11:06.9812872+00:00",
       "NumProgressed": 4379,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-16T18:10:05.5552232+00:00",
+      "NumProgressed": 4381,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -2080,7 +2085,7 @@
       "Name": "Eureka!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED2",
@@ -2376,7 +2381,7 @@
       "Name": "Tax-man I",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_TAXES2",
@@ -2480,7 +2485,7 @@
       "Name": "A new beginning",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
@@ -2535,15 +2540,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4379,
+      "Progressed": 4381,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-04T22:59:34.0965429+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:10:31.6343261+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:10:05.5552229+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:57.9071019+00:00",
-  "LastUpdate_Ratings": "2023-12-16T16:59:42.7528362+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:10:31.6344287+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:58:59.4691526+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:10:05.5553119+00:00"
 }

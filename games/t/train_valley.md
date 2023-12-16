@@ -17,7 +17,7 @@ Number of Ratings: 28  (23.09.2022)
 | Europe | 33.00% | ~182 |
 | Just in time! | 33.00% | ~182 |
 | Madness! | 31.00% | ~171 |
-| It's no coincidence. | 29.00% | ~160 |
+| It's no coincidence. | 30.00% | ~165 |
 | Philatelist | 26.00% | ~143 |
 | Let's roll! | 26.00% | ~143 |
 | Ouroboros | 25.00% | ~138 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 551 (Ranked 317)  
+Progressed: 551 (Ranked 318)  
 Completed: 2 (0.36%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |

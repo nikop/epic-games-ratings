@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8753,18 +8753,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 32916,
       "NumberOfAwardsMax": 5645
+    },
+    {
+      "Time": "2023-12-16T17:58:39.7152076+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32925,
+      "NumberOfAwardsMax": 5654
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32916,
-  "NumberOfAwardsMax": 5645,
+  "NumberOfAwards": 32925,
+  "NumberOfAwardsMax": 5654,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5645
+      "Count": 5654
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8803,10 +8809,10 @@
       "Count": 3578
     }
   ],
-  "EOS_Progressed": 241073,
-  "EOS_Completed": 2535,
-  "EOS_NewPlayers": 1977,
-  "EOS_NewCompleters": 27,
+  "EOS_Progressed": 241099,
+  "EOS_Completed": 2536,
+  "EOS_NewPlayers": 1989,
+  "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -35888,6 +35894,11 @@
       "Time": "2023-12-16T17:10:32.7523946+00:00",
       "NumProgressed": 241073,
       "NumCompleted": 2535
+    },
+    {
+      "Time": "2023-12-16T18:10:06.6547239+00:00",
+      "NumProgressed": 241099,
+      "NumCompleted": 2536
     }
   ],
   "TotalAchievements": 546,
@@ -40193,9 +40204,9 @@
       "ID": "objective_completed_1558",
       "SetID": "415jc5c",
       "Name": "Misaligned in Sigil",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 622
     },
     {
       "ID": "objective_completed_1562",
@@ -40266,21 +40277,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 207347,
-      "Completed": 4011
+      "Progressed": 207373,
+      "Completed": 4012
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 241073,
-      "Completed": 2535
+      "Progressed": 241099,
+      "Completed": 2536
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-16T15:58:37.0639951+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:10:32.7523942+00:00",
+  "LastChanged": "2023-12-16T17:58:39.7152074+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:10:06.6547235+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-16T16:59:15.8837513+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:10:32.7546892+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:58:39.7152079+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:10:06.656981+00:00"
 }

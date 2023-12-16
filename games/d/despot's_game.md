@@ -5,27 +5,27 @@ Rating: 4.50 (Ranked 601)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 86.00% | ~382 |
-| Vanquisher of Robots | 77.00% | ~342 |
+| Good start! | 86.00% | ~383 |
+| Vanquisher of Robots | 77.00% | ~343 |
 | Party | 50.00% | ~222 |
 | Impossible Cube | 47.00% | ~209 |
 | Knowledge is Power | 45.00% | ~200 |
-| Through the Darkness | 44.00% | ~195 |
+| Through the Darkness | 44.00% | ~196 |
 | No Mercy | 43.00% | ~191 |
-| The Return of a Rat | 42.00% | ~186 |
+| The Return of a Rat | 42.00% | ~187 |
 | Fat of the Earth | 36.00% | ~160 |
 | Last Man Standing | 32.00% | ~142 |
-| He's Seen It All | 28.00% | ~124 |
-| Great Hero | 28.00% | ~124 |
+| He's Seen It All | 28.00% | ~125 |
+| Great Hero | 28.00% | ~125 |
 | Campaigning | 27.00% | ~120 |
 | Catch Jonathan_tostar | 27.00% | ~120 |
 | Rookie | 27.00% | ~120 |
-| Assemble a Meganewbie | 26.00% | ~115 |
+| Assemble a Meganewbie | 26.00% | ~116 |
 | Frugal | 22.00% | ~98 |
 | Feed a God | 22.00% | ~98 |
 | To the Moon and Back | 20.00% | ~89 |
-| Great Flight | 19.00% | ~84 |
-| Holy Vengeance | 17.00% | ~75 |
+| Great Flight | 19.00% | ~85 |
+| Holy Vengeance | 17.00% | ~76 |
 | Honorary Cultist | 13.00% | ~58 |
 | Brain and Brawn | 12.00% | ~53 |
 | Strength and Sorcery | 10.00% | ~44 |
@@ -41,8 +41,8 @@ Rating: 4.50 (Ranked 601)
 | Vet | 0.90% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 444 (Ranked 333)  
-Completed: 1 (0.23%) (Ranked 256)  
+Progressed: 445 (Ranked 333)  
+Completed: 1 (0.22%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -108,7 +108,7 @@ Completed: 1 (0.23%) (Ranked 256)
 | 2023-12-13 | 440 | 1 |
 | 2023-12-14 | 441 | 1 |
 | 2023-12-15 | 443 | 1 |
-| 2023-12-16 | 444 | 1 |
+| 2023-12-16 | 445 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

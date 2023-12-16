@@ -7,7 +7,7 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 68.00% | ~456 |
-| Cowardice | 61.00% | ~409 |
+| Cowardice | 62.00% | ~416 |
 | NO LIFE IS WORTH SAVING... | 47.00% | ~315 |
 | Eat Lead! | 46.00% | ~309 |
 | The Breaking Point | 45.00% | ~302 |

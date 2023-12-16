@@ -5,7 +5,7 @@ Rating: 4.61 (Ranked 390)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Thorny Situation | 0.60% | ~51 |
+| A Thorny Situation | 0.70% | ~59 |
 | Azoria Beckons | 0.50% | ~42 |
 | Break-Net Speed | 0.40% | ~34 |
 | ... And Spit Back Out | 0.40% | ~34 |
@@ -15,6 +15,7 @@ Rating: 4.61 (Ranked 390)
 | Clear the Air | 0.30% | ~25 |
 | Search for the Hairy Grell | 0.30% | ~25 |
 | Mist Walker | 0.30% | ~25 |
+| Azorian Anniversary | 0.30% | ~25 |
 | Flaming Hot Completos | 0.20% | ~17 |
 | Lumberjack | 0.20% | ~17 |
 | Miner 49er | 0.20% | ~17 |
@@ -24,7 +25,6 @@ Rating: 4.61 (Ranked 390)
 | Chatty Neighbor | 0.20% | ~17 |
 | Oui, Chef! | 0.20% | ~17 |
 | Botanical Breakthrough | 0.20% | ~17 |
-| Azorian Anniversary | 0.20% | ~17 |
 | Right Tool For the Job | 0.20% | ~17 |
 | Captain of Cozy | 0.20% | ~17 |
 | House Proud | 0.20% | ~17 |

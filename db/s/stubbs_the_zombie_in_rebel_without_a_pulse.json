@@ -4,7 +4,7 @@
   "ProductSlug": "stubbs-the-zombie-in-rebel-without-a-pulse",
   "Ranking_Rating": 800,
   "Ranking_Popularity": 433,
-  "Ranking_PopularitySum": 486,
+  "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 520,
@@ -555,6 +555,6 @@
   "FirstSeen": "2022-07-22T20:32:41.8050293+00:00",
   "LastChanged": "2023-12-05T22:59:09.9083408+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:21.9208113+00:00",
-  "LastUpdate_Ratings": "2023-12-16T16:57:46.987435+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:05:41.2942081+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:57:37.388529+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:05:00.7230814+00:00"
 }

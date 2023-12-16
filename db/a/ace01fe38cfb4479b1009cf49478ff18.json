@@ -3,8 +3,8 @@
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 376,
-  "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 264,
+  "EOS_Progressed": 267,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.38,
+  "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
       "Time": "2023-10-13T10:03:19.5665873+00:00",
@@ -1054,6 +1054,11 @@
       "Time": "2023-12-16T15:04:59.2768884+00:00",
       "NumProgressed": 264,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T18:05:24.8514857+00:00",
+      "NumProgressed": 267,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1064,9 +1069,9 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -1104,9 +1109,9 @@
       "ID": "ach_complete_difficulty_hard",
       "SetID": "d499apg",
       "Name": "Emperor\u2019s Mercy",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 175,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_complete_difficulty_medium",
@@ -1114,15 +1119,15 @@
       "Name": "My Armour is Contempt",
       "Percentage": 7,
       "XP": 95,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_defeat_great_unclean_one",
       "SetID": "d499apg",
       "Name": "Defeat a Great Unclean One",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -1130,7 +1135,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -1144,7 +1149,7 @@
       "ID": "ach_find_all_secrets_c2",
       "SetID": "d499apg",
       "Name": "Find all Secrets - Chapter 2",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 95,
       "UsersEstimate": 2
     },
@@ -1152,7 +1157,7 @@
       "ID": "ach_find_all_secrets_c3",
       "SetID": "d499apg",
       "Name": "Find all Secrets - Chapter 3",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 95,
       "UsersEstimate": 2
     }
@@ -1161,14 +1166,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 264,
+      "Progressed": 267,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:06:13.2457571+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:05:24.8514854+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.6680838+00:00",
-  "LastUpdate_Ratings": "2023-12-16T16:59:57.9211673+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:06:13.2457773+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:59:09.7481744+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:05:24.8514965+00:00"
 }

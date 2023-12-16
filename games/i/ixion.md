@@ -5,7 +5,7 @@ Rating: 4.58 (Ranked 454)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 30.00% | ~1,053 |
+| Wakey Wakey | 30.00% | ~1,054 |
 | Sputnik 2049 | 26.00% | ~913 |
 | Infinite Growth... | 25.00% | ~878 |
 | Without Breaking Some Eggs... | 24.00% | ~843 |
@@ -16,10 +16,10 @@ Rating: 4.58 (Ranked 454)
 | Fully Recycled | 14.00% | ~492 |
 | Ain't Nobody Got Time for That | 14.00% | ~492 |
 | The Ship of Theseus | 14.00% | ~492 |
-| Guy de Borderlands | 13.00% | ~456 |
-| Exceeding Capacity | 12.00% | ~421 |
-| Breaking Protocol | 12.00% | ~421 |
-| Hope Seeker | 12.00% | ~421 |
+| Guy de Borderlands | 13.00% | ~457 |
+| Exceeding Capacity | 12.00% | ~422 |
+| Breaking Protocol | 12.00% | ~422 |
+| Hope Seeker | 12.00% | ~422 |
 | A Hunk of Junk | 11.00% | ~386 |
 | Man's Best Friend | 9.00% | ~316 |
 | Power Outage | 8.00% | ~281 |
@@ -36,9 +36,9 @@ Rating: 4.58 (Ranked 454)
 | BRAWL! | 5.00% | ~176 |
 | Drill-dozer | 5.00% | ~176 |
 | What the Ruins Teach Us | 5.00% | ~176 |
-| Sustainable Energy | 4.00% | ~140 |
-| In Dolos We Trust | 4.00% | ~140 |
-| Pedal to the Metal | 4.00% | ~140 |
+| Sustainable Energy | 4.00% | ~141 |
+| In Dolos We Trust | 4.00% | ~141 |
+| Pedal to the Metal | 4.00% | ~141 |
 | Praise the Hull! | 3.00% | ~105 |
 | Delivery! | 3.00% | ~105 |
 | Help of the Forgotten Member | 3.00% | ~105 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 454)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,511 (Ranked 211)  
+Progressed: 3,513 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 3,429 | 0 |
 | 2023-12-14 | 3,460 | 0 |
 | 2023-12-15 | 3,496 | 0 |
-| 2023-12-16 | 3,511 | 0 |
+| 2023-12-16 | 3,513 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

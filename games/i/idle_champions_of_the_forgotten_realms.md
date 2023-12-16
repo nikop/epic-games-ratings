@@ -9,8 +9,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to Sigil | 0.60% | ~1,244 |
 | Fast Food | 0.50% | ~1,037 |
 | A Brief Tour of the Realms | 0.40% | ~964 |
+| Misaligned in Sigil | 0.30% | ~622 |
 | The Cursed Farmer | 0.20% | ~482 |
-| Misaligned in Sigil | 0.20% | ~415 |
 | Chaos Theory | 0.20% | ~415 |
 | The Overgrown Grove | 0.20% | ~415 |
 | When Tentacles Attack | 0.20% | ~415 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Vrocks | 0.10% | ~207 |
 | Mind Spike | 0.10% | ~207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,073 (Ranked 66)  
-Completed: 2,535 (1.05%) (Ranked 167)  
+Progressed: 241,099 (Ranked 66)  
+Completed: 2,536 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -793,14 +793,14 @@ Completed: 2,535 (1.05%) (Ranked 167)
 | 2023-12-13 | 239,847 | 2,519 |
 | 2023-12-14 | 240,414 | 2,526 |
 | 2023-12-15 | 240,802 | 2,532 |
-| 2023-12-16 | 241,073 | 2,535 |
+| 2023-12-16 | 241,099 | 2,536 |
 ## Awards
-Max (Great for Beginners): 5,645  (Ranked 70)  
-Sum: 32,916 (Ranked 41)  
+Max (Great for Beginners): 5,654  (Ranked 70)  
+Sum: 32,925 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,645 |
+| This game is Great for Beginners | 5,654 |
 | This game has Diverse Characters | 5,607 |
 | This game has Quickly Understood Controls | 4,846 |
 | This game is Relaxing | 4,731 |
@@ -1134,4 +1134,4 @@ Diff (max vs sum): 29
 | 2023-12-13 | 4.06 | - | 5,624 | 32,841 |
 | 2023-12-14 | 4.06 | - | 5,635 | 32,877 |
 | 2023-12-15 | 4.06 | - | 5,645 | 32,899 |
-| 2023-12-16 | 4.06 | - | 5,645 | 32,916 |
+| 2023-12-16 | 4.06 | - | 5,654 | 32,925 |

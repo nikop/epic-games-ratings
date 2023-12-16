@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1009,
+  "EOS_Progressed": 1011,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2597,6 +2597,11 @@
       "Time": "2023-12-16T16:08:28.6237661+00:00",
       "NumProgressed": 1009,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T18:06:47.2535062+00:00",
+      "NumProgressed": 1011,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2649,7 +2654,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "BreakTheLoop",
@@ -2663,9 +2668,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 233
     },
     {
       "ID": "ChasingTheLight",
@@ -2721,7 +2726,7 @@
       "Name": "Ecstatic Truth",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Excellent",
@@ -2769,7 +2774,7 @@
       "Name": "High Plain",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "IntoTheMachine",
@@ -2809,7 +2814,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "Mnemosyne",
@@ -2953,7 +2958,7 @@
       "Name": "Team Spirit",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "TextAdventurer",
@@ -3017,7 +3022,7 @@
       "Name": "The Word Endures",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "TouchGrass",
@@ -3025,7 +3030,7 @@
       "Name": "Touch Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "TrevorsBiographer",
@@ -3047,9 +3052,9 @@
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 142
     },
     {
       "ID": "WesternDelta",
@@ -3080,7 +3085,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1009,
+      "Progressed": 1011,
       "Completed": 1
     }
   ],
@@ -3088,8 +3093,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:08:06.4374505+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:06:47.253506+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-16T16:57:51.5035435+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:08:06.4374978+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:57:40.585964+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:06:47.2535505+00:00"
 }

@@ -10,10 +10,10 @@ Number of Ratings: 371  (23.09.2022)
 | Look Over There! | 9.00% | ~308 |
 | Not So Fast... | 9.00% | ~308 |
 | Watch Where You Step... | 9.00% | ~308 |
-| An Ill Omen | 8.00% | ~274 |
+| An Ill Omen | 9.00% | ~308 |
 | Purging Spree | 7.00% | ~240 |
-| Blood for the Blood God! | 6.00% | ~205 |
-| Bloodless | 6.00% | ~205 |
+| Blood for the Blood God! | 6.00% | ~206 |
+| Bloodless | 6.00% | ~206 |
 | Honoured Battle-Brother | 4.00% | ~137 |
 | Surgical Excision | 4.00% | ~137 |
 | Friendly Fire | 4.00% | ~137 |
@@ -22,11 +22,11 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 3.00% | ~103 |
 | Gunmaster | 3.00% | ~103 |
 | Just a Scratch | 3.00% | ~103 |
-| Hold Your Ground | 2.00% | ~68 |
-| Corruption Cleanser | 2.00% | ~68 |
-| Efficient Killer | 2.00% | ~68 |
-| A Gift Spurned | 2.00% | ~68 |
-| Hive Exterminator | 2.00% | ~68 |
+| Hold Your Ground | 2.00% | ~69 |
+| Corruption Cleanser | 2.00% | ~69 |
+| Efficient Killer | 2.00% | ~69 |
+| A Gift Spurned | 2.00% | ~69 |
+| Hive Exterminator | 2.00% | ~69 |
 | Fleetmaster | 1.00% | ~34 |
 | Daemonkeeper | 1.00% | ~34 |
 | Exterminator | 1.00% | ~34 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,424 (Ranked 214)  
+Progressed: 3,426 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 3,351 | 0 |
 | 2023-12-14 | 3,379 | 0 |
 | 2023-12-15 | 3,402 | 0 |
-| 2023-12-16 | 3,424 | 0 |
+| 2023-12-16 | 3,426 | 0 |
 ## Awards
 Max (Character Customization): 229  (Ranked 277)  
 Sum: 490 (Ranked 332)  

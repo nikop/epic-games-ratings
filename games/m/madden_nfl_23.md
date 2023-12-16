@@ -13,12 +13,12 @@ Rating: 4.28 (Ranked 865)
 | ROTY | 32.00% | ~1,278 |
 | Roster Reshuffle | 31.00% | ~1,238 |
 | Future of the Franchise | 19.00% | ~759 |
-| Throwin’ Dots | 18.00% | ~719 |
+| Throwin’ Dots | 17.00% | ~679 |
 | Already in Progress | 17.00% | ~679 |
 | Primetime | 16.00% | ~639 |
 | Change of Scenery | 16.00% | ~639 |
 | Pro Bowler | 16.00% | ~639 |
-| Unblockable | 9.00% | ~359 |
+| Unblockable | 9.00% | ~360 |
 | Pocket Ace | 5.00% | ~200 |
 | Lockdown Corner | 5.00% | ~200 |
 | Head-to-Head | 5.00% | ~200 |
@@ -27,7 +27,7 @@ Rating: 4.28 (Ranked 865)
 | Lockdown Leader | 0.50% | ~20 |
 | The Fortress | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,994 (Ranked 204)  
+Progressed: 3,995 (Ranked 204)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 3,964 | 0 |
 | 2023-12-14 | 3,976 | 0 |
 | 2023-12-15 | 3,988 | 0 |
-| 2023-12-16 | 3,994 | 0 |
+| 2023-12-16 | 3,995 | 0 |
 ## Awards
 Max (Diverse Characters): 42  (Ranked 461)  
 Sum: 142 (Ranked 433)  

@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 58.00% | ~123 |
-| Press-ganged | 42.00% | ~89 |
-| The Package | 26.00% | ~55 |
-| Conquered | 19.00% | ~40 |
-| Randomized | 18.00% | ~38 |
-| Scribe | 12.00% | ~25 |
-| Breached | 12.00% | ~25 |
-| Tactician | 11.00% | ~23 |
+| A Second Chance | 58.00% | ~124 |
+| Press-ganged | 42.00% | ~90 |
+| The Package | 26.00% | ~56 |
+| Conquered | 19.00% | ~41 |
+| Randomized | 18.00% | ~39 |
+| Scribe | 12.00% | ~26 |
+| Breached | 12.00% | ~26 |
+| Tactician | 11.00% | ~24 |
 | Conciliator | 9.00% | ~19 |
 | Fight Another Day | 9.00% | ~19 |
 | Acquaintance | 8.00% | ~17 |
@@ -25,14 +25,14 @@
 | Deputized | 5.00% | ~11 |
 | Pilgrimage's End | 5.00% | ~11 |
 | Merchant | 5.00% | ~11 |
-| Quartermaster | 4.00% | ~8 |
-| The Voice of Hereafter | 4.00% | ~8 |
-| Despised | 4.00% | ~8 |
-| Been There | 4.00% | ~8 |
-| Spiritual Journey | 4.00% | ~8 |
-| Inquisitions of Discord | 4.00% | ~8 |
-| Trouble at Fort Larius | 4.00% | ~8 |
-| Unseen Patterns | 4.00% | ~8 |
+| Quartermaster | 4.00% | ~9 |
+| The Voice of Hereafter | 4.00% | ~9 |
+| Despised | 4.00% | ~9 |
+| Been There | 4.00% | ~9 |
+| Spiritual Journey | 4.00% | ~9 |
+| Inquisitions of Discord | 4.00% | ~9 |
+| Trouble at Fort Larius | 4.00% | ~9 |
+| Unseen Patterns | 4.00% | ~9 |
 | Bounty Hunter | 3.00% | ~6 |
 | Potential Unlocked | 3.00% | ~6 |
 | Xevarian Gambit | 3.00% | ~6 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212 (Ranked 396)  
+Progressed: 214 (Ranked 396)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 207 | 0 |
 | 2023-12-14 | 209 | 0 |
 | 2023-12-15 | 211 | 0 |
-| 2023-12-16 | 212 | 0 |
+| 2023-12-16 | 214 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

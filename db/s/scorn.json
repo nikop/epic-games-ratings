@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2653,
+  "EOS_Progressed": 2654,
   "EOS_Completed": 187,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 7.05,
   "EosHistory": [
@@ -3940,6 +3940,11 @@
       "Time": "2023-12-16T17:07:44.8878972+00:00",
       "NumProgressed": 2653,
       "NumCompleted": 187
+    },
+    {
+      "Time": "2023-12-16T18:06:31.7234397+00:00",
+      "NumProgressed": 2654,
+      "NumCompleted": 187
     }
   ],
   "TotalAchievements": 12,
@@ -3975,7 +3980,7 @@
       "Name": "004",
       "Percentage": 16,
       "XP": 80,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "005",
@@ -3983,7 +3988,7 @@
       "Name": "005",
       "Percentage": 14,
       "XP": 80,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "006",
@@ -4046,7 +4051,7 @@
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2653,
+      "Progressed": 2654,
       "Completed": 187
     }
   ],
@@ -4054,8 +4059,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-11-28T11:59:38.0602265+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:07:44.8878967+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:06:31.7234394+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.1690917+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:02:45.7466828+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:07:44.8879269+00:00"
+  "LastUpdate_Ratings": "2023-12-16T18:02:52.6458826+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:06:31.7234696+00:00"
 }

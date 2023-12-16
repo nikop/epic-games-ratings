@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7618,
+  "EOS_Progressed": 7619,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6273,6 +6273,11 @@
       "Time": "2023-12-16T17:07:00.7571642+00:00",
       "NumProgressed": 7618,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-16T18:05:59.0546057+00:00",
+      "NumProgressed": 7619,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -6300,7 +6305,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3123
+      "UsersEstimate": 3124
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -6340,7 +6345,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -6348,7 +6353,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -6420,7 +6425,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3123
+      "UsersEstimate": 3124
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -6428,7 +6433,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3123
+      "UsersEstimate": 3124
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -6436,7 +6441,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4266
+      "UsersEstimate": 4267
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6484,7 +6489,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3047
+      "UsersEstimate": 3048
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -6492,22 +6497,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7618,
+      "Progressed": 7619,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:07:00.757164+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:05:59.0546054+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:23.3516207+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:03:32.8762929+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:07:00.757215+00:00"
+  "LastUpdate_Ratings": "2023-12-16T18:03:25.4828171+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:05:59.0546506+00:00"
 }

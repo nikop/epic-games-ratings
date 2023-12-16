@@ -4,7 +4,7 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 203,
+  "EOS_Progressed": 204,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.94,
+  "EOS_Completed_Percentage": 3.92,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -904,6 +904,11 @@
       "Time": "2023-12-16T14:06:09.3202076+00:00",
       "NumProgressed": 203,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-16T18:05:56.6174571+00:00",
+      "NumProgressed": 204,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -916,15 +921,15 @@
       "Name": "Kaboom!",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Laser Beam",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 60,
-      "UsersEstimate": 122
+      "UsersEstimate": 120
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -938,17 +943,17 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 60,
-      "UsersEstimate": 122
+      "UsersEstimate": 120
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Murderer",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 168
+      "UsersEstimate": 167
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -956,7 +961,7 @@
       "Name": "Killer",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -972,7 +977,7 @@
       "Name": "Peaceful is safe!",
       "Percentage": 63,
       "XP": 60,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -996,7 +1001,7 @@
       "Name": "Northbarrow is safe!",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1004,7 +1009,7 @@
       "Name": "Sagehaven is safe!",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1028,15 +1033,15 @@
       "Name": "Powerful",
       "Percentage": 47,
       "XP": 60,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "REACH_LEVEL_15",
       "SetID": "14g34pl",
       "Name": "Robust",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 110,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "REACH_LEVEL_5",
@@ -1044,21 +1049,21 @@
       "Name": "Strong",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     }
   ],
   "AchievementSets": [
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 203,
+      "Progressed": 204,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:06:57.6184011+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:05:56.6174566+00:00",
   "LastUpdate_AppInfo": "2023-12-12T21:57:14.3760557+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:01:01.2113241+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:06:57.6184149+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:59:54.0381681+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:05:56.6174702+00:00"
 }

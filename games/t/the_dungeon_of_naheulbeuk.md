@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,511 |
-| Alt+F4 | 10.00% | ~24,309 |
-| Where's that freaking Dwarf? | 8.00% | ~19,447 |
-| Déjà vu | 7.00% | ~17,016 |
-| Sock! SOCK! | 6.00% | ~14,585 |
-| A beer, two curses, three companions | 5.00% | ~12,154 |
-| GG EZ | 5.00% | ~12,154 |
-| Speedrun | 5.00% | ~12,154 |
-| DM intervention | 4.00% | ~9,723 |
-| Fireproof Wizardess | 4.00% | ~9,723 |
+| Sowwy! | 36.00% | ~87,516 |
+| Alt+F4 | 10.00% | ~24,310 |
+| Where's that freaking Dwarf? | 8.00% | ~19,448 |
+| Déjà vu | 7.00% | ~17,017 |
+| Sock! SOCK! | 6.00% | ~14,586 |
+| A beer, two curses, three companions | 5.00% | ~12,155 |
+| GG EZ | 5.00% | ~12,155 |
+| Speedrun | 5.00% | ~12,155 |
+| DM intervention | 4.00% | ~9,724 |
+| Fireproof Wizardess | 4.00% | ~9,724 |
 | Livin' in a dwarven paradise | 3.00% | ~7,293 |
 | Way of the Wimp | 3.00% | ~7,293 |
 | The plot thickens... At the tavern | 3.00% | ~7,293 |
@@ -50,8 +50,8 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.70% | ~1,702 |
 | Holistic Adventuring Party | 0.60% | ~1,459 |
 | Law and Order | 0.60% | ~1,459 |
-| Scholar of the Lands of Fangh | 0.50% | ~1,215 |
-| It's been a hard day's night | 0.50% | ~1,215 |
+| Scholar of the Lands of Fangh | 0.50% | ~1,216 |
+| It's been a hard day's night | 0.50% | ~1,216 |
 | Friendly fire | 0.40% | ~972 |
 | I'd rather... Just... Sing! | 0.40% | ~972 |
 | The number of the counting shalt be 7 | 0.30% | ~729 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~243 |
 | Dwarf Candy | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,087 (Ranked 64)  
+Progressed: 243,100 (Ranked 64)  
 Completed: 7 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,11 +294,11 @@ Completed: 7 (0.00%) (Ranked 377)
 | 2023-12-13 | 242,616 | 7 |
 | 2023-12-14 | 242,763 | 7 |
 | 2023-12-15 | 242,956 | 7 |
-| 2023-12-16 | 243,087 | 7 |
+| 2023-12-16 | 243,100 | 7 |
 ## Awards
 Max (Character Customization): 246  (Ranked 272)  
-Sum: 518 (Ranked 326)  
-Diff (max vs sum): -54  
+Sum: 518 (Ranked 327)  
+Diff (max vs sum): -55  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 246 |

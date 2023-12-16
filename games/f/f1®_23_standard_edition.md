@@ -5,57 +5,57 @@ Rating: 4.69 (Ranked 233)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~7,029 |
-| On the Top Step | 84.00% | ~6,488 |
-| Setting up for Success | 73.00% | ~5,639 |
-| Team Orders | 71.00% | ~5,484 |
-| Engineer | 51.00% | ~3,939 |
-| Familiar Faces | 45.00% | ~3,476 |
-| Going the Extra Mile | 39.00% | ~3,012 |
-| Sharing the Love | 38.00% | ~2,935 |
-| Hitting a Season | 34.00% | ~2,626 |
-| A Dozen Pieces | 29.00% | ~2,240 |
-| Challenge Yourself | 29.00% | ~2,240 |
-| Making History | 28.00% | ~2,163 |
-| Network Success | 25.00% | ~1,931 |
-| Writing a new Chapter | 22.00% | ~1,699 |
-| Spring Cleaning | 21.00% | ~1,622 |
-| Reduce | 18.00% | ~1,390 |
-| Ups and Downs | 18.00% | ~1,390 |
-| Crucial Combo | 17.00% | ~1,313 |
-| Reuse | 15.00% | ~1,159 |
-| Proving Them Wrong | 15.00% | ~1,159 |
-| Gathering Dust | 14.00% | ~1,081 |
-| One for the Book | 14.00% | ~1,081 |
-| Oil and Water | 13.00% | ~1,004 |
-| Hitting a Bullseye | 13.00% | ~1,004 |
-| Lightning Round the World | 12.00% | ~927 |
-| Spinning Around | 12.00% | ~927 |
-| Eagle Eye | 11.00% | ~850 |
-| All in a Weekend's Work | 11.00% | ~850 |
-| Friendly Competition | 11.00% | ~850 |
-| Switcheroo | 11.00% | ~850 |
-| Recycle | 10.00% | ~772 |
-| Undisputed Winner | 8.00% | ~618 |
-| Tinkerer | 8.00% | ~618 |
-| For all Those Back at the Factory | 6.00% | ~463 |
-| Living up to Expectations | 6.00% | ~463 |
-| Smooth Operator | 6.00% | ~463 |
-| Hitting a Century | 4.00% | ~309 |
-| Loyal Bond | 4.00% | ~309 |
-| Peak Performance | 4.00% | ~309 |
-| Seasoned Rookie | 3.00% | ~232 |
-| Wait, I know you? | 3.00% | ~232 |
-| Filling in the Gaps | 2.00% | ~154 |
-| Saturday Night Drama | 1.00% | ~77 |
-| Media Darling | 1.00% | ~77 |
+| Getting on the Step | 91.00% | ~7,064 |
+| On the Top Step | 84.00% | ~6,521 |
+| Setting up for Success | 73.00% | ~5,667 |
+| Team Orders | 71.00% | ~5,512 |
+| Engineer | 50.00% | ~3,882 |
+| Familiar Faces | 45.00% | ~3,493 |
+| Going the Extra Mile | 39.00% | ~3,028 |
+| Sharing the Love | 38.00% | ~2,950 |
+| Hitting a Season | 34.00% | ~2,639 |
+| A Dozen Pieces | 29.00% | ~2,251 |
+| Challenge Yourself | 29.00% | ~2,251 |
+| Making History | 28.00% | ~2,174 |
+| Network Success | 25.00% | ~1,941 |
+| Writing a new Chapter | 22.00% | ~1,708 |
+| Spring Cleaning | 21.00% | ~1,630 |
+| Reduce | 18.00% | ~1,397 |
+| Ups and Downs | 18.00% | ~1,397 |
+| Crucial Combo | 17.00% | ~1,320 |
+| Reuse | 15.00% | ~1,164 |
+| Proving Them Wrong | 15.00% | ~1,164 |
+| Gathering Dust | 14.00% | ~1,087 |
+| One for the Book | 14.00% | ~1,087 |
+| Oil and Water | 13.00% | ~1,009 |
+| Hitting a Bullseye | 13.00% | ~1,009 |
+| Lightning Round the World | 12.00% | ~932 |
+| Spinning Around | 12.00% | ~932 |
+| Eagle Eye | 11.00% | ~854 |
+| All in a Weekend's Work | 11.00% | ~854 |
+| Friendly Competition | 11.00% | ~854 |
+| Switcheroo | 11.00% | ~854 |
+| Recycle | 10.00% | ~776 |
+| Undisputed Winner | 8.00% | ~621 |
+| Tinkerer | 8.00% | ~621 |
+| For all Those Back at the Factory | 6.00% | ~466 |
+| Living up to Expectations | 6.00% | ~466 |
+| Smooth Operator | 6.00% | ~466 |
+| Hitting a Century | 4.00% | ~311 |
+| Loyal Bond | 4.00% | ~311 |
+| Peak Performance | 4.00% | ~311 |
+| Seasoned Rookie | 3.00% | ~233 |
+| Wait, I know you? | 3.00% | ~233 |
+| Filling in the Gaps | 2.00% | ~155 |
+| Saturday Night Drama | 1.00% | ~78 |
+| Media Darling | 1.00% | ~78 |
 | Under the Microscope | 0.90% | ~70 |
 | Ultimate Collector | 0.50% | ~39 |
 | Golden Touch | 0.30% | ~23 |
 | Shot in the Dark | 0.10% | ~8 |
 | Elite Racer | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,724 (Ranked 181)  
+Progressed: 7,763 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 6,175 | 0 |
 | 2023-12-14 | 6,647 | 0 |
 | 2023-12-15 | 7,252 | 0 |
-| 2023-12-16 | 7,724 | 0 |
+| 2023-12-16 | 7,763 | 0 |
 ## Awards
 Max (Diverse Characters): 40  (Ranked 463)  
 Sum: 198 (Ranked 407)  

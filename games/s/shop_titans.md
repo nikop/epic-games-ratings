@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,670 |
-| Titan's First Steps | 8.00% | ~11,670 |
-| Basic in Bulk | 7.00% | ~10,211 |
-| Tinkle of Coins | 7.00% | ~10,211 |
+| Sponsored by Argon | 8.00% | ~11,671 |
+| Titan's First Steps | 8.00% | ~11,671 |
+| Basic in Bulk | 7.00% | ~10,212 |
+| Tinkle of Coins | 7.00% | ~10,212 |
 | Disintermediation | 6.00% | ~8,753 |
 | Capitalism Ho! | 6.00% | ~8,753 |
 | It's Free Real Estate | 5.00% | ~7,294 |
@@ -21,22 +21,22 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 4.00% | ~5,835 |
 | Through Repetition, Perfection | 4.00% | ~5,835 |
 | Own the Means of Production | 4.00% | ~5,835 |
-| The Daily Grind | 3.00% | ~4,376 |
-| On the Path to Greatness | 3.00% | ~4,376 |
-| Ascended | 3.00% | ~4,376 |
-| Vanity, Verily | 3.00% | ~4,376 |
-| Bounty Hunters | 3.00% | ~4,376 |
-| Blank Page Syndrome | 3.00% | ~4,376 |
-| Demand for Supplies | 3.00% | ~4,376 |
-| Flooding the Market | 3.00% | ~4,376 |
-| Where it Hurts | 3.00% | ~4,376 |
-| Efficient Floor Space | 3.00% | ~4,376 |
-| Gem Expert | 3.00% | ~4,376 |
-| Gild-Gotten Goods | 3.00% | ~4,376 |
-| Accomplished Merchant | 3.00% | ~4,376 |
-| Dungeon Imports | 3.00% | ~4,376 |
-| Did we pack lunch? | 3.00% | ~4,376 |
-| Arcane Industries | 3.00% | ~4,376 |
+| The Daily Grind | 3.00% | ~4,377 |
+| On the Path to Greatness | 3.00% | ~4,377 |
+| Ascended | 3.00% | ~4,377 |
+| Vanity, Verily | 3.00% | ~4,377 |
+| Bounty Hunters | 3.00% | ~4,377 |
+| Blank Page Syndrome | 3.00% | ~4,377 |
+| Demand for Supplies | 3.00% | ~4,377 |
+| Flooding the Market | 3.00% | ~4,377 |
+| Where it Hurts | 3.00% | ~4,377 |
+| Efficient Floor Space | 3.00% | ~4,377 |
+| Gem Expert | 3.00% | ~4,377 |
+| Gild-Gotten Goods | 3.00% | ~4,377 |
+| Accomplished Merchant | 3.00% | ~4,377 |
+| Dungeon Imports | 3.00% | ~4,377 |
+| Did we pack lunch? | 3.00% | ~4,377 |
+| Arcane Industries | 3.00% | ~4,377 |
 | A Notch Above the Rest | 2.00% | ~2,918 |
 | Cream of the Crop | 2.00% | ~2,918 |
 | Proud Paladin | 2.00% | ~2,918 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.30% | ~438 |
 | Capitalist Camaraderie | 0.20% | ~292 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,878 (Ranked 80)  
-Completed: 319 (0.22%) (Ranked 260)  
+Progressed: 145,884 (Ranked 80)  
+Completed: 319 (0.22%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -359,16 +359,16 @@ Completed: 319 (0.22%) (Ranked 260)
 | 2023-12-13 | 145,093 | 297 |
 | 2023-12-14 | 145,474 | 307 |
 | 2023-12-15 | 145,699 | 316 |
-| 2023-12-16 | 145,878 | 319 |
+| 2023-12-16 | 145,884 | 319 |
 ## Awards
 Max (Great for Beginners): 4,896  (Ranked 75)  
-Sum: 27,747 (Ranked 50)  
+Sum: 27,748 (Ranked 50)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,896 |
 | This game is Relaxing | 4,060 |
-| This game has Quickly Understood Controls | 4,046 |
+| This game has Quickly Understood Controls | 4,047 |
 | This game has Diverse Characters | 3,977 |
 | This game is Highly Recommended | 3,799 |
 | This game has Easy Combat | 3,748 |
@@ -696,4 +696,4 @@ Diff (max vs sum): 25
 | 2023-12-13 | 3.99 | - | 4,882 | 27,707 |
 | 2023-12-14 | 3.99 | - | 4,892 | 27,726 |
 | 2023-12-15 | 3.99 | - | 4,896 | 27,743 |
-| 2023-12-16 | 3.99 | - | 4,896 | 27,747 |
+| 2023-12-16 | 3.99 | - | 4,896 | 27,748 |

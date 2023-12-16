@@ -9792,9 +9792,9 @@
       "Count": 1014
     }
   ],
-  "EOS_Progressed": 127745,
+  "EOS_Progressed": 127759,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1824,
+  "EOS_NewPlayers": 1834,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35347,6 +35347,11 @@
       "Time": "2023-12-16T17:09:17.0975162+00:00",
       "NumProgressed": 127745,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T18:09:09.1679205+00:00",
+      "NumProgressed": 127759,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35358,7 +35363,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -35374,7 +35379,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -35382,7 +35387,7 @@
       "Name": "A Life Well Lived",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "altar_of_hope_unlock_hero_flagellant",
@@ -35412,9 +35417,9 @@
       "ID": "altar_of_hope_unlock_hero_leper",
       "SetID": "64l4lke",
       "Name": "Long Live the King",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1150
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -35446,7 +35451,7 @@
       "Name": "The World As It Was",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "altar_of_hope_upgrade_total_half",
@@ -35462,7 +35467,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -35476,9 +35481,9 @@
       "ID": "combat_kill_animal",
       "SetID": "64l4lke",
       "Name": "Predator",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1150
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -35486,7 +35491,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3832
+      "UsersEstimate": 3833
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35494,7 +35499,7 @@
       "Name": "Dissector",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "combat_kill_cosmic",
@@ -35502,7 +35507,7 @@
       "Name": "Banishment",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "combat_kill_death",
@@ -35526,7 +35531,7 @@
       "Name": "Deprogramming",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -35534,7 +35539,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "combat_kill_gaunts",
@@ -35550,7 +35555,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -35614,7 +35619,7 @@
       "Name": "Bacon Bits",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "combat_party_wipe_all_run_bosses",
@@ -35630,7 +35635,7 @@
       "Name": "It Happens",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -35638,7 +35643,7 @@
       "Name": "Hat Trick",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -35646,7 +35651,7 @@
       "Name": "Spelunker",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "driving_biome_clear_city",
@@ -35662,7 +35667,7 @@
       "Name": "Merry Time",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -35670,7 +35675,7 @@
       "Name": "Harvest Festival",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -35710,7 +35715,7 @@
       "Name": "Autodidact",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3832
+      "UsersEstimate": 3833
     },
     {
       "ID": "hero_story_complete_all",
@@ -35734,7 +35739,7 @@
       "Name": "Whale",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "hospital_full_service",
@@ -35742,7 +35747,7 @@
       "Name": "Triage",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "inn_first_time",
@@ -35750,7 +35755,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -35766,7 +35771,7 @@
       "Name": "FNG",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "inn_visit_all_variants",
@@ -35774,7 +35779,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -35798,7 +35803,7 @@
       "Name": "Eidetic",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "run_end_abandon",
@@ -35806,7 +35811,7 @@
       "Name": "Nope",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "run_victory_act01",
@@ -35870,7 +35875,7 @@
       "Name": "Road Trip",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -35894,7 +35899,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "combat_kill_collector",
@@ -35902,7 +35907,7 @@
       "Name": "This guy... again?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35934,7 +35939,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -35942,7 +35947,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -35950,7 +35955,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "quest_complete_crusader",
@@ -35966,7 +35971,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -35989,21 +35994,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127745,
+      "Progressed": 127759,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2614,
+      "Progressed": 2628,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-16T16:57:36.3925155+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:09:17.097516+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:09:09.1679201+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-16T16:57:36.3925176+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:09:17.0976871+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:57:30.2802462+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:09:09.1680651+00:00"
 }

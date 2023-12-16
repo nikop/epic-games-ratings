@@ -25,7 +25,7 @@ Number of Ratings: 38  (23.09.2022)
 | Robot Hunter | 21.00% | ~107 |
 | Advanced Survivalist | 18.00% | ~92 |
 | Master Of Technology | 16.00% | ~82 |
-| Treasure Hunter | 15.00% | ~76 |
+| Treasure Hunter | 16.00% | ~82 |
 | Mythical Smelter | 14.00% | ~71 |
 | Blacksmith | 11.00% | ~56 |
 | Master Of Management | 10.00% | ~51 |

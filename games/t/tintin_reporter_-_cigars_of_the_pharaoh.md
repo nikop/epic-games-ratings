@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 76.00% | ~68 |
-| A Loyal Friend | 38.00% | ~34 |
+| My Papyrus! | 76.00% | ~69 |
+| A Loyal Friend | 37.00% | ~34 |
 | Abandon Ship! | 24.00% | ~22 |
 | The Tomb of Kih-Oskh | 19.00% | ~17 |
-| The Weighing of the Soul | 17.00% | ~15 |
+| The Weighing of the Soul | 16.00% | ~15 |
 | The Curse of Kih-Oskh | 11.00% | ~10 |
 | Cat Lover | 7.00% | ~6 |
 | It's a Deal! | 7.00% | ~6 |
-| In the Name of the Law | 6.00% | ~5 |
-| Au Revoir, Abudin | 6.00% | ~5 |
-| Mysterious Bungalow | 6.00% | ~5 |
-| Mummy Nightmare | 6.00% | ~5 |
-| Barking Dog | 6.00% | ~5 |
-| Dynamite, Treason and Coconuts | 6.00% | ~5 |
-| Save a Friend | 6.00% | ~5 |
+| In the Name of the Law | 5.00% | ~5 |
+| Au Revoir, Abudin | 5.00% | ~5 |
+| Mysterious Bungalow | 5.00% | ~5 |
+| Mummy Nightmare | 5.00% | ~5 |
+| Barking Dog | 5.00% | ~5 |
+| Dynamite, Treason and Coconuts | 5.00% | ~5 |
+| Save a Friend | 5.00% | ~5 |
 | The Eyes! | 4.00% | ~4 |
 | Keep the Doctor Away | 4.00% | ~4 |
 | Just a Palm Tree | 4.00% | ~4 |
@@ -42,7 +42,7 @@
 | Broken Brotherhood | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 467)  
+Progressed: 91 (Ranked 465)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,4 +73,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-12 | 87 | 0 |
 | 2023-12-14 | 88 | 0 |
 | 2023-12-15 | 89 | 0 |
-| 2023-12-16 | 90 | 0 |
+| 2023-12-16 | 91 | 0 |

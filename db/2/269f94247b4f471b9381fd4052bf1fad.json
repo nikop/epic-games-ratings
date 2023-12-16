@@ -204,9 +204,9 @@
       "ID": "ACH_BREAD-AND-BREAKFAST",
       "SetID": "6lg1p1e",
       "Name": "Bread and Breakfast",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_COSPLAY",
@@ -364,9 +364,9 @@
       "ID": "ACH_PHYSIOLOGUS",
       "SetID": "6lg1p1e",
       "Name": "Physiologus",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_PRIVATE-EYE",
@@ -436,9 +436,9 @@
       "ID": "ACH_WHACK-A-MOLE",
       "SetID": "6lg1p1e",
       "Name": "Whack-a-mole",
-      "Percentage": 31,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_ZEN-MASTER",
@@ -459,8 +459,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:08:38.4574257+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:08:40.2669345+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.3604769+00:00",
-  "LastUpdate_Ratings": "2023-12-16T16:57:28.8513993+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:08:38.4574442+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:57:25.0523621+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:08:40.2669532+00:00"
 }

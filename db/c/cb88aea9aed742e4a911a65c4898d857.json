@@ -69,9 +69,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4355,
+  "EOS_Progressed": 4377,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3337,
+  "EOS_NewPlayers": 3318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1174,6 +1174,11 @@
       "Time": "2023-12-16T17:09:49.9500307+00:00",
       "NumProgressed": 4355,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T18:09:33.4126043+00:00",
+      "NumProgressed": 4377,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1186,7 +1191,7 @@
       "Name": "Conspiracy",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 392
+      "UsersEstimate": 394
     },
     {
       "ID": "03_TheStolenStar",
@@ -1290,7 +1295,7 @@
       "Name": "Pentakill",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "16_TheRise",
@@ -1394,7 +1399,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -1402,7 +1407,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "30_The GreatestExploration",
@@ -1410,7 +1415,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "31_DontTouchThis",
@@ -1426,7 +1431,7 @@
       "Name": "Aviation Saviour",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "33_TzeentchCleaning",
@@ -1498,7 +1503,7 @@
       "Name": "Jungle Heat",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "42_TheIronJudgement",
@@ -1538,7 +1543,7 @@
       "Name": "A Spark",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "47_AFlame",
@@ -1568,9 +1573,9 @@
       "ID": "50_Whodunit",
       "SetID": "37a94m8",
       "Name": "Whodunit?",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 31
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -1602,7 +1607,7 @@
       "Name": "This Is a Job for the Lord Captain!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -1664,9 +1669,9 @@
       "ID": "62_TheInvisibleBureaucracy",
       "SetID": "37a94m8",
       "Name": "Invisible Bureaucracy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "63_YouShouldGoToAnotherWindow",
@@ -1705,7 +1710,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 4355,
+      "Progressed": 4377,
       "Completed": 0
     }
   ],
@@ -1713,8 +1718,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-16T07:58:34.2168802+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:09:49.9500303+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:09:33.412604+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-16T16:59:35.0789025+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:09:49.9500883+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:58:53.7787877+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:09:33.4126589+00:00"
 }

@@ -5,31 +5,31 @@ Rating: 4.53 (Ranked 548)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 13.00% | ~2,146 |
-| The Pit and the Pirates | 8.00% | ~1,321 |
-| Martian Music | 8.00% | ~1,321 |
-| Drone Dodger | 8.00% | ~1,321 |
-| Bosmang | 8.00% | ~1,321 |
-| Captain Drummer | 8.00% | ~1,321 |
-| Celebrations are in Order | 8.00% | ~1,321 |
-| Impossible Objects | 8.00% | ~1,321 |
+| Oyedang, Kopengs | 13.00% | ~2,147 |
+| The Pit and the Pirates | 8.00% | ~1,322 |
+| Martian Music | 8.00% | ~1,322 |
+| Drone Dodger | 8.00% | ~1,322 |
+| Bosmang | 8.00% | ~1,322 |
+| Captain Drummer | 8.00% | ~1,322 |
+| Celebrations are in Order | 8.00% | ~1,322 |
+| Impossible Objects | 8.00% | ~1,322 |
+| Stogie for Fogey | 7.00% | ~1,156 |
 | Spore Taste | 7.00% | ~1,156 |
-| Safe Cracker | 7.00% | ~172 |
-| Zen Master | 7.00% | ~172 |
-| Madame Undersecretary | 7.00% | ~172 |
-| Stogie for Fogey | 6.00% | ~991 |
+| Safe Cracker | 7.00% | ~173 |
+| Zen Master | 7.00% | ~173 |
+| Madame Undersecretary | 7.00% | ~173 |
 | Call it Even | 6.00% | ~991 |
 | Keep Arjun in Check | 6.00% | ~148 |
 | Data Archivist | 5.00% | ~826 |
 | Drug Gifter | 5.00% | ~826 |
 | Heal Thy Medic | 5.00% | ~826 |
 | Khan's Revenge | 5.00% | ~826 |
-| Bottoms up! | 4.00% | ~660 |
-| Thorston Mayer | 4.00% | ~660 |
+| Bottoms up! | 4.00% | ~661 |
+| Thorston Mayer | 4.00% | ~661 |
 | Master Negotiator | 4.00% | ~99 |
-| Doctor Approved | 3.00% | ~495 |
-| Data Logger | 3.00% | ~495 |
-| Miraculous Maya | 3.00% | ~495 |
+| Doctor Approved | 3.00% | ~496 |
+| Data Logger | 3.00% | ~496 |
+| Miraculous Maya | 3.00% | ~496 |
 | Data Master | 2.00% | ~330 |
 | Brother's Reaper | 1.00% | ~165 |
 | No Belter Left Behind | 1.00% | ~165 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 548)
 | Scavenger Star | 0.20% | ~33 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,510 (Ranked 152)  
+Progressed: 16,519 (Ranked 152)  
 Completed: 43 (0.26%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 43 (0.26%) (Ranked 250)
 | 2023-12-13 | 16,124 | 43 |
 | 2023-12-14 | 16,263 | 43 |
 | 2023-12-15 | 16,416 | 43 |
-| 2023-12-16 | 16,510 | 43 |
+| 2023-12-16 | 16,519 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

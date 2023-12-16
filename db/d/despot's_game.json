@@ -6,8 +6,8 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,11 +38,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 444,
+  "EOS_Progressed": 445,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.23,
+  "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.8924559+00:00",
@@ -503,6 +503,11 @@
       "Time": "2023-12-16T00:01:21.3627788+00:00",
       "NumProgressed": 444,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T18:04:09.6114691+00:00",
+      "NumProgressed": 445,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -602,7 +607,7 @@
       "Name": "Great Flight",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "finished-quest-monster",
@@ -626,7 +631,7 @@
       "Name": "Assemble a Meganewbie",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "finished-quest-rat",
@@ -634,7 +639,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "finished-quest-reaper",
@@ -666,7 +671,7 @@
       "Name": "Holy Vengeance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "get-all",
@@ -682,7 +687,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "last-hero",
@@ -722,7 +727,7 @@
       "Name": "Great Hero",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "win-first-biom",
@@ -730,7 +735,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "win-first-level",
@@ -738,7 +743,7 @@
       "Name": "Good start!",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "win-koth-fights1",
@@ -770,7 +775,7 @@
       "Name": "Through the Darkness",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "win-with-3-cultists",
@@ -793,7 +798,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 444,
+      "Progressed": 445,
       "Completed": 1
     }
   ],
@@ -801,8 +806,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:04:32.6284809+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:04:09.6114689+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:47.7142412+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:00:08.638935+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:04:32.6285223+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:59:17.0328834+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:04:09.6114897+00:00"
 }

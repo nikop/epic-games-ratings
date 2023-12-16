@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8814,
+  "EOS_Progressed": 8815,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8802,6 +8802,11 @@
       "Time": "2023-12-16T17:10:30.6436782+00:00",
       "NumProgressed": 8814,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T18:10:04.7530587+00:00",
+      "NumProgressed": 8815,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8926,7 +8931,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "GamesPlayed1",
@@ -8934,7 +8939,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "GamesPlayed10",
@@ -9182,7 +9187,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "MaxTowersKilled6",
@@ -9405,7 +9410,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8814,
+      "Progressed": 8815,
       "Completed": 1
     }
   ],
@@ -9413,8 +9418,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-14T20:58:55.0819028+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:10:30.643678+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:10:04.7530583+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:27.9940225+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:00:45.0358931+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:10:30.6437826+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:59:41.9895332+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:10:04.7531426+00:00"
 }

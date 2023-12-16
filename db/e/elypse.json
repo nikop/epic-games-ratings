@@ -4,7 +4,7 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -628,9 +628,9 @@
       "ID": "Ach_DarkPoulpeConstellation",
       "SetID": "4o5gjp0",
       "Name": "The beast within",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Ach_DeathXTime",
@@ -676,9 +676,9 @@
       "ID": "Ach_DiscoveryTemple",
       "SetID": "4o5gjp0",
       "Name": "It\u0027s getting dark",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Ach_DiscoveryTuto",
@@ -827,8 +827,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:08:58.2324308+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:08:55.0866559+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:43.568442+00:00",
-  "LastUpdate_Ratings": "2023-12-16T16:59:06.2793345+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:08:58.2324503+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:58:32.5301757+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:08:55.0866799+00:00"
 }

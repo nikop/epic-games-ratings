@@ -10,11 +10,11 @@
 | Enemies of Fate | 33.00% | ~38 |
 | Your Training Continues | 32.00% | ~37 |
 | Over the Moon | 32.00% | ~37 |
+| Armored | 29.00% | ~34 |
 | Amokuali Tower | 28.00% | ~32 |
-| Armored | 28.00% | ~32 |
 | Freedom | 27.00% | ~31 |
 | Winner | 24.00% | ~28 |
-| The Pride of Moozhaw | 22.00% | ~26 |
+| The Pride of Moozhaw | 23.00% | ~27 |
 | Omnia Vincit Amor | 22.00% | ~26 |
 | Stilt House | 16.00% | ~19 |
 | Corwid Hill | 14.00% | ~16 |

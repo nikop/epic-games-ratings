@@ -7,7 +7,7 @@ Number of Ratings: 90  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rock of the Bay | 63.00% | ~55 |
-| Mash Machine | 59.00% | ~51 |
+| Mash Machine | 60.00% | ~52 |
 | Ducks in a Row, Fish in a Barrel | 40.00% | ~35 |
 | Furon Fashion | 30.00% | ~26 |
 | Shop Til They Drop | 29.00% | ~25 |

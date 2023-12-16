@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,591 |
-| Off to a good start | 65.00% | ~1,162 |
-| Do... or do not. There is no try | 51.00% | ~912 |
+| New Recruit | 89.00% | ~1,594 |
+| Off to a good start | 65.00% | ~1,164 |
+| Do... or do not. There is no try | 51.00% | ~913 |
 | A good blaster at your side | 29.00% | ~519 |
 | I suggest a new strategy | 18.00% | ~322 |
 | Scrap collector | 17.00% | ~304 |
 | All right, I'll give it a try | 17.00% | ~304 |
 | Great shot, kid! | 17.00% | ~304 |
-| Shoot first | 14.00% | ~250 |
-| The power of the Force | 13.00% | ~232 |
-| Collector | 13.00% | ~232 |
-| Together we can rule the galaxy | 13.00% | ~232 |
+| Shoot first | 14.00% | ~251 |
+| The power of the Force | 13.00% | ~233 |
+| Collector | 13.00% | ~233 |
+| Together we can rule the galaxy | 13.00% | ~233 |
 | Tell Jabba that I've got his money | 9.00% | ~161 |
 | Best star-pilot in the galaxy | 9.00% | ~161 |
 | Survivor | 9.00% | ~161 |
@@ -24,10 +24,10 @@
 | What's the cargo? | 7.00% | ~125 |
 | Impressive. Most impressive. | 6.00% | ~107 |
 | Judge me by my size, do you? | 6.00% | ~107 |
-| "Gonk? Gonk!" | 5.00% | ~89 |
-| Distinguished | 5.00% | ~89 |
-| A tremor in the Force | 5.00% | ~89 |
-| Support the troops | 5.00% | ~89 |
+| "Gonk? Gonk!" | 5.00% | ~90 |
+| Distinguished | 5.00% | ~90 |
+| A tremor in the Force | 5.00% | ~90 |
+| Support the troops | 5.00% | ~90 |
 | Safety ain't the point of a joyride | 4.00% | ~72 |
 | Not bad for a little furball | 4.00% | ~72 |
 | Patience you must have | 4.00% | ~72 |
@@ -48,10 +48,10 @@
 | Playing the objective | 1.00% | ~18 |
 | Ackbar's Elite | 1.00% | ~18 |
 | You have your moments | 1.00% | ~18 |
-| When surrounded by war... | 1.00% | ~18 |
 | Alternative solution | 1.00% | ~18 |
 | Onwards! | 1.00% | ~18 |
 | The circle is now complete | 1.00% | ~18 |
+| When surrounded by war... | 0.90% | ~16 |
 | A New Hope | 0.80% | ~14 |
 | Walker defender | 0.80% | ~14 |
 | Stop that Droid | 0.80% | ~14 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~4 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,788 (Ranked 238)  
+Progressed: 1,791 (Ranked 237)  
 Completed: 1 (0.06%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 1 (0.06%) (Ranked 318)
 | 2023-12-13 | 1,698 | 1 |
 | 2023-12-14 | 1,726 | 1 |
 | 2023-12-15 | 1,755 | 1 |
-| 2023-12-16 | 1,788 | 1 |
+| 2023-12-16 | 1,791 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

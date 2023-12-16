@@ -2,9 +2,9 @@
   "ID": "506c2b96b8e3483d9fa335d37ebe9d6b",
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
-  "Ranking_EOS_Progress": 467,
+  "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 90,
+  "EOS_Progressed": 91,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -419,6 +419,11 @@
       "Time": "2023-12-16T00:06:44.4779234+00:00",
       "NumProgressed": 90,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T18:08:42.4784024+00:00",
+      "NumProgressed": 91,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T17:07:46.1878997+00:00",
@@ -431,13 +436,13 @@
       "Name": "My Papyrus!",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Achievement10",
       "SetID": "9fa3l5n",
       "Name": "In the Name of the Law",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -445,7 +450,7 @@
       "ID": "Achievement11",
       "SetID": "9fa3l5n",
       "Name": "Au Revoir, Abudin",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -453,7 +458,7 @@
       "ID": "Achievement12",
       "SetID": "9fa3l5n",
       "Name": "Mysterious Bungalow",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -517,7 +522,7 @@
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
       "UsersEstimate": 34
     },
@@ -573,7 +578,7 @@
       "ID": "Achievement26",
       "SetID": "9fa3l5n",
       "Name": "Mummy Nightmare",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -637,7 +642,7 @@
       "ID": "Achievement33",
       "SetID": "9fa3l5n",
       "Name": "Barking Dog",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -685,7 +690,7 @@
       "ID": "Achievement5",
       "SetID": "9fa3l5n",
       "Name": "The Weighing of the Soul",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
       "UsersEstimate": 15
     },
@@ -709,7 +714,7 @@
       "ID": "Achievement8",
       "SetID": "9fa3l5n",
       "Name": "Dynamite, Treason and Coconuts",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -717,7 +722,7 @@
       "ID": "Achievement9",
       "SetID": "9fa3l5n",
       "Name": "Save a Friend",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 5
     }
@@ -726,14 +731,14 @@
     {
       "ID": "9fa3l5n",
       "IsBase": true,
-      "Progressed": 90,
+      "Progressed": 91,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:08:41.4011621+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:08:42.4784021+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:01.5960329+00:00",
-  "LastUpdate_Ratings": "2023-12-16T16:59:28.0559057+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:08:41.4011883+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:58:49.0608401+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:08:42.4784304+00:00"
 }

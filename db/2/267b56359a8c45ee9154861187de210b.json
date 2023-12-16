@@ -4,7 +4,7 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -718,9 +718,9 @@
       "ID": "beat_c5_silver",
       "SetID": "3448go",
       "Name": "Symbiotic Relationship",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "beat_c6_bronze",
@@ -1029,8 +1029,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:05:23.1556105+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:04:47.2367833+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:19.378274+00:00",
-  "LastUpdate_Ratings": "2023-12-16T16:57:58.3001016+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:05:23.1556833+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:57:45.2486922+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:04:47.2368645+00:00"
 }

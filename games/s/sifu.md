@@ -6,32 +6,32 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 2.00% | ~14,598 |
-| The Assault | 2.00% | ~14,598 |
-| Life is your teacher | 2.00% | ~14,598 |
-| Lightning Hands | 2.00% | ~14,598 |
-| The Hateful Pole Fighter | 1.00% | ~7,299 |
-| Street Fighting | 1.00% | ~7,299 |
-| State of constant learning | 1.00% | ~7,299 |
-| Qi Gong: Essence | 1.00% | ~7,299 |
-| Old Child | 1.00% | ~7,299 |
-| Rumble in the Hangar | 1.00% | ~7,299 |
-| Diligence as a goal | 1.00% | ~392 |
-| A Lady's Blood in the Snow | 0.90% | ~6,569 |
-| Stuntmaster | 0.90% | ~6,569 |
-| Qi Gong: Breath | 0.90% | ~6,569 |
+| The Old Grandmaster | 2.00% | ~14,599 |
+| The Assault | 2.00% | ~14,599 |
+| Life is your teacher | 2.00% | ~14,599 |
+| Lightning Hands | 2.00% | ~14,599 |
+| The Hateful Pole Fighter | 1.00% | ~7,300 |
+| Street Fighting | 1.00% | ~7,300 |
+| State of constant learning | 1.00% | ~7,300 |
+| Qi Gong: Essence | 1.00% | ~7,300 |
+| Old Child | 1.00% | ~7,300 |
+| Rumble in the Hangar | 1.00% | ~7,300 |
+| Diligence as a goal | 1.00% | ~393 |
+| A Lady's Blood in the Snow | 0.90% | ~6,570 |
+| Stuntmaster | 0.90% | ~6,570 |
+| Qi Gong: Breath | 0.90% | ~6,570 |
 | Project Arena | 0.90% | ~353 |
-| Lady Wing Chun | 0.80% | ~5,839 |
-| Kill Nil | 0.80% | ~5,839 |
-| Path of the Prospect | 0.80% | ~5,839 |
-| Furious Fists | 0.70% | ~5,109 |
-| I know Kung-Fu | 0.70% | ~5,109 |
-| Take damage to save time | 0.70% | ~5,109 |
-| Scareless | 0.60% | ~4,379 |
-| Qi Gong: Mind | 0.60% | ~4,379 |
-| Kung-Fu Tussle | 0.60% | ~4,379 |
-| Fight the way you practice | 0.60% | ~235 |
-| Dance of the Praying Mantis | 0.50% | ~3,649 |
+| Lady Wing Chun | 0.80% | ~5,840 |
+| Kill Nil | 0.80% | ~5,840 |
+| Path of the Prospect | 0.80% | ~5,840 |
+| Furious Fists | 0.70% | ~5,110 |
+| I know Kung-Fu | 0.70% | ~5,110 |
+| Take damage to save time | 0.70% | ~5,110 |
+| Scareless | 0.60% | ~4,380 |
+| Qi Gong: Mind | 0.60% | ~4,380 |
+| Kung-Fu Tussle | 0.60% | ~4,380 |
+| Fight the way you practice | 0.60% | ~236 |
+| Dance of the Praying Mantis | 0.50% | ~3,650 |
 | Bloody Sport | 0.50% | ~196 |
 | Martial Hub | 0.50% | ~196 |
 | Muk Yan Master | 0.30% | ~2,190 |
@@ -49,10 +49,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Knowledge Greed | 0.20% | ~1,460 |
 | The Pit Protector | 0.20% | ~1,460 |
 | Come Snap With Me | 0.20% | ~1,460 |
-| Deadly Venom | 0.20% | ~78 |
-| A Touch of Acumen | 0.20% | ~78 |
-| Skill and an even stronger will | 0.20% | ~78 |
-| Beatmaker | 0.20% | ~78 |
+| Deadly Venom | 0.20% | ~79 |
+| A Touch of Acumen | 0.20% | ~79 |
+| Skill and an even stronger will | 0.20% | ~79 |
+| Beatmaker | 0.20% | ~79 |
 | Healing Memory | 0.10% | ~730 |
 | Master of the Phoenix Eye Fist | 0.10% | ~730 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~730 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~39 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,880 (Ranked 24)  
+Progressed: 729,970 (Ranked 24)  
 Completed: 12,953 (1.77%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 12,953 (1.77%) (Ranked 135)
 | 2023-12-13 | 718,112 | 12,953 |
 | 2023-12-14 | 722,433 | 12,953 |
 | 2023-12-15 | 726,562 | 12,953 |
-| 2023-12-16 | 729,880 | 12,953 |
+| 2023-12-16 | 729,970 | 12,953 |
 ## Awards
 Max (Great Boss Battles): 6,935  (Ranked 55)  
 Sum: 12,170 (Ranked 83)  

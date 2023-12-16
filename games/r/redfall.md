@@ -11,19 +11,19 @@ Rating: 3.47 (Ranked 1,064)
 | Blood Will Have Blood | 4.00% | ~75 |
 | Ne Plus Ultra | 4.00% | ~75 |
 | Fly Fisher | 4.00% | ~75 |
+| Peek-a-boo | 4.00% | ~75 |
 | ICU | 4.00% | ~75 |
 | Wounded Whispers | 4.00% | ~75 |
 | Enter of Your Own Free Will | 3.00% | ~56 |
 | Welcome to the Neighborhood | 3.00% | ~56 |
-| Peek-a-boo | 3.00% | ~56 |
 | Throw The First Stone | 3.00% | ~56 |
 | Sucks To Be You | 3.00% | ~56 |
-| Neighborhood Revitalization | 2.00% | ~37 |
-| Bad Wiring | 2.00% | ~37 |
-| Radio Silence | 2.00% | ~37 |
-| Grounded | 2.00% | ~37 |
-| Heart Attack | 2.00% | ~37 |
-| Skin of Their Teeth | 2.00% | ~37 |
+| Heart Attack | 3.00% | ~56 |
+| Neighborhood Revitalization | 2.00% | ~38 |
+| Bad Wiring | 2.00% | ~38 |
+| Radio Silence | 2.00% | ~38 |
+| Grounded | 2.00% | ~38 |
+| Skin of Their Teeth | 2.00% | ~38 |
 | Sic Transit Umbra | 1.00% | ~19 |
 | Bell-ringer | 1.00% | ~19 |
 | Silence Is Golden | 1.00% | ~19 |
@@ -34,18 +34,18 @@ Rating: 3.47 (Ranked 1,064)
 | Helping Hand | 1.00% | ~19 |
 | I Spit On Your Grave | 1.00% | ~19 |
 | Contingency Plans | 0.90% | ~17 |
+| Nice Try | 0.80% | ~15 |
 | You Clean It Up | 0.70% | ~13 |
 | Check, Please! | 0.70% | ~13 |
-| Nice Try | 0.70% | ~13 |
 | Blacklight Down | 0.70% | ~13 |
 | Revelations | 0.60% | ~11 |
 | Curious Finch | 0.60% | ~11 |
 | Block Party | 0.50% | ~9 |
-| Sisterhood | 0.40% | ~7 |
-| What Lies Below | 0.40% | ~7 |
-| Bloody Initiate | 0.40% | ~7 |
-| Right This Way | 0.40% | ~7 |
-| Dexterity Save | 0.40% | ~7 |
+| Sisterhood | 0.40% | ~8 |
+| What Lies Below | 0.40% | ~8 |
+| Bloody Initiate | 0.40% | ~8 |
+| Right This Way | 0.40% | ~8 |
+| Dexterity Save | 0.40% | ~8 |
 | Neighborhood Watch | 0.30% | ~6 |
 | Blood Brother | 0.30% | ~6 |
 | Friendgineering | 0.30% | ~6 |
@@ -72,7 +72,7 @@ Rating: 3.47 (Ranked 1,064)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,874 (Ranked 235)  
+Progressed: 1,878 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 1,784 | 0 |
 | 2023-12-14 | 1,810 | 0 |
 | 2023-12-15 | 1,843 | 0 |
-| 2023-12-16 | 1,874 | 0 |
+| 2023-12-16 | 1,878 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

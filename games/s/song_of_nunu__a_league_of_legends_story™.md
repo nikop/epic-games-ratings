@@ -10,8 +10,8 @@ Rating: 4.57 (Ranked 483)
 | Better On Ice | 68.00% | ~802 |
 | Notai Notes | 67.00% | ~790 |
 | Blue Dreams | 66.00% | ~778 |
+| He's Famous! | 66.00% | ~778 |
 | Cutie Poro | 66.00% | ~778 |
-| He's Famous! | 65.00% | ~766 |
 | Krugmazing | 64.00% | ~755 |
 | Moneyball | 60.00% | ~707 |
 | The Fire Below the Mountain | 60.00% | ~707 |
@@ -22,10 +22,10 @@ Rating: 4.57 (Ranked 483)
 | My Darkest Day | 48.00% | ~566 |
 | Rhythm Of Willump | 46.00% | ~542 |
 | The Relentless Storm | 46.00% | ~542 |
-| A Tragic Reminder | 44.00% | ~519 |
+| A Tragic Reminder | 45.00% | ~531 |
 | 3000 Year Blackout | 44.00% | ~519 |
+| The Finisher | 43.00% | ~507 |
 | So Close | 42.00% | ~495 |
-| The Finisher | 42.00% | ~495 |
 | You Get Used To It | 41.00% | ~483 |
 | Family | 39.00% | ~460 |
 | Biggest Snowball Ever | 39.00% | ~460 |

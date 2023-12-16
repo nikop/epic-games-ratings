@@ -2,9 +2,9 @@
   "ID": "c1adccb6ce8344ebac8cb4e3c81f01ef",
   "Name": "Evalina The Sorceress",
   "ProductSlug": "evalinathe-sorceress-a9a60a",
-  "Ranking_EOS_Progress": 303,
-  "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_Progress": 302,
+  "Ranking_EOS_Completed": 121,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 641,
+  "EOS_Progressed": 642,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.5,
+  "EOS_Completed_Percentage": 2.49,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -2359,6 +2359,11 @@
       "Time": "2023-12-15T17:07:46.3825638+00:00",
       "NumProgressed": 641,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-16T18:08:34.4089723+00:00",
+      "NumProgressed": 642,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -2403,7 +2408,7 @@
       "Name": "Red Skeleton",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "YellowSkeleton",
@@ -2418,14 +2423,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 641,
+      "Progressed": 642,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-12-16T17:08:30.6480632+00:00",
+  "LastChanged_Achievements": "2023-12-16T18:08:34.4089719+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:14.7513495+00:00",
-  "LastUpdate_Ratings": "2023-12-16T16:57:14.456765+00:00",
-  "LastUpdate_Achievements": "2023-12-16T17:08:30.6480857+00:00"
+  "LastUpdate_Ratings": "2023-12-16T17:57:14.9375261+00:00",
+  "LastUpdate_Achievements": "2023-12-16T18:08:34.4089892+00:00"
 }
