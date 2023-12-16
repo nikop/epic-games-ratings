@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1262,
+  "EOS_Progressed": 1264,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4464,6 +4464,11 @@
       "Time": "2023-12-16T01:54:54.935022+00:00",
       "NumProgressed": 1262,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T06:10:02.3856016+00:00",
+      "NumProgressed": 1264,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4473,9 +4478,9 @@
       "ID": "adventurous_1",
       "SetID": "53c1p3k",
       "Name": "Adventurous 1",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 354
     },
     {
       "ID": "adventurous_2",
@@ -4553,9 +4558,9 @@
       "ID": "catacombs_raid_2",
       "SetID": "53c1p3k",
       "Name": "Catacombs Raid 2",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "catacombs_raid_3",
@@ -4603,7 +4608,7 @@
       "Name": "Conqueror 2",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "conqueror_3",
@@ -4643,7 +4648,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "elemental_stones_2",
@@ -4651,15 +4656,15 @@
       "Name": "Elemental stones 2",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "elemental_stones_3",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 3",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "elite_deck_1",
@@ -4763,7 +4768,7 @@
       "Name": "Invincible 1",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "invincible_2",
@@ -5002,14 +5007,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1262,
+      "Progressed": 1264,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-12-16T05:09:47.2692965+00:00",
+  "LastChanged_Achievements": "2023-12-16T06:10:02.3856011+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:27.95796+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:59:08.8896959+00:00",
-  "LastUpdate_Achievements": "2023-12-16T05:09:47.2693663+00:00"
+  "LastUpdate_Ratings": "2023-12-16T05:59:22.5356803+00:00",
+  "LastUpdate_Achievements": "2023-12-16T06:10:02.3856683+00:00"
 }

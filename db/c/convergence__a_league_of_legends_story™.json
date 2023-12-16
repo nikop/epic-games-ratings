@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 984,
+  "EOS_Progressed": 985,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2679,6 +2679,11 @@
       "Time": "2023-12-16T04:09:29.9411094+00:00",
       "NumProgressed": 984,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-16T06:09:46.0273073+00:00",
+      "NumProgressed": 985,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2736,9 +2741,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 187
     },
     {
       "ID": "ClovemaryGift",
@@ -2882,7 +2887,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "MapCompletion1",
@@ -2930,15 +2935,15 @@
       "Name": "Time Flies",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 217
     },
     {
       "ID": "ParryRepeated1",
@@ -2946,7 +2951,7 @@
       "Name": "No, Thanks!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2970,7 +2975,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "RewindDamage1",
@@ -2978,7 +2983,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "RewindParry",
@@ -2992,9 +2997,9 @@
       "ID": "ScrambotCompletion1",
       "SetID": "a9e499d",
       "Name": "Golem Hunter",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 59
     },
     {
       "ID": "ScrambotProgress1",
@@ -3066,7 +3071,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "WarwickDefeated",
@@ -3074,7 +3079,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "WatcherFought",
@@ -3098,7 +3103,7 @@
       "Name": "The Brass Boss",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3113,7 +3118,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 984,
+      "Progressed": 985,
       "Completed": 6
     }
   ],
@@ -3121,8 +3126,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-16T05:09:31.3088182+00:00",
+  "LastChanged_Achievements": "2023-12-16T06:09:46.027307+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:02:43.1827671+00:00",
-  "LastUpdate_Achievements": "2023-12-16T05:09:31.3088736+00:00"
+  "LastUpdate_Ratings": "2023-12-16T06:02:45.7357023+00:00",
+  "LastUpdate_Achievements": "2023-12-16T06:09:46.0273468+00:00"
 }

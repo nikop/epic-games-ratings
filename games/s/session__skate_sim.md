@@ -13,10 +13,10 @@ Number of Ratings: 111  (23.09.2022)
 | Backpacker | 14.00% | ~446 |
 | Go with the Flow | 14.00% | ~446 |
 | The flip trick crown jewel | 11.00% | ~350 |
-| Keep the dream alive | 10.00% | ~318 |
-| Plastic Surgeon | 10.00% | ~318 |
-| The hard way | 10.00% | ~318 |
-| Upfront shredder | 10.00% | ~318 |
+| Keep the dream alive | 10.00% | ~319 |
+| Plastic Surgeon | 10.00% | ~319 |
+| The hard way | 10.00% | ~319 |
+| Upfront shredder | 10.00% | ~319 |
 | Good vibes | 9.00% | ~287 |
 | Fashionista | 8.00% | ~255 |
 | That pinch! | 8.00% | ~255 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,185 (Ranked 216)  
+Progressed: 3,186 (Ranked 216)  
 Completed: 2 (0.06%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 2 (0.06%) (Ranked 318)
 | 2023-12-13 | 3,118 | 2 |
 | 2023-12-14 | 3,148 | 2 |
 | 2023-12-15 | 3,179 | 2 |
-| 2023-12-16 | 3,185 | 2 |
+| 2023-12-16 | 3,186 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 420)  
 Sum: 564 (Ranked 320)  

@@ -6,24 +6,24 @@
 | ---- | ---------- | ----- |
 | Meissa's Savior | 68.00% | ~100 |
 | Purification Pioneer | 63.00% | ~93 |
-| Mechanical Buddy | 56.00% | ~82 |
+| Mechanical Buddy | 58.00% | ~85 |
 | Dicesmithing Time! | 52.00% | ~76 |
-| Endless Tricks | 44.00% | ~65 |
+| Endless Tricks | 46.00% | ~68 |
 | Sanctuary Guardian | 44.00% | ~65 |
-| Wild's Keeper | 42.00% | ~62 |
+| Wild's Keeper | 43.00% | ~63 |
 | Mind Illuminator | 37.00% | ~54 |
-| Stellar Dismantler | 33.00% | ~49 |
-| Noctuan Champion | 31.00% | ~46 |
+| Stellar Dismantler | 34.00% | ~50 |
+| Noctuan Champion | 32.00% | ~47 |
 | Anomaly Destroyer | 27.00% | ~40 |
-| Eridanian Champion | 25.00% | ~37 |
+| Eridanian Champion | 26.00% | ~38 |
+| Star Killer | 25.00% | ~37 |
 | Astral Adventurer | 24.00% | ~35 |
-| Star Killer | 24.00% | ~35 |
 | Lacertian Champion | 24.00% | ~35 |
 | Loyal Partner | 22.00% | ~32 |
 | Apian Champion | 20.00% | ~29 |
 | Shard Spender | 18.00% | ~26 |
 | Behenian Champion | 16.00% | ~24 |
-| Sadistic Plan | 14.00% | ~21 |
+| Sadistic Plan | 15.00% | ~22 |
 | Unbeatable | 14.00% | ~21 |
 | Aquarian Champion | 12.00% | ~18 |
 | Astral Seeker | 11.00% | ~16 |

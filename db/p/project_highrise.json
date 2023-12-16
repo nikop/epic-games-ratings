@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 375,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1065,6 +1065,11 @@
       "Time": "2023-12-16T00:02:29.0011749+00:00",
       "NumProgressed": 374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T06:05:00.0747913+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1108,7 +1113,7 @@
       "Name": "Floor Galore",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ach_area_1",
@@ -1140,7 +1145,7 @@
       "Name": "Curated Class",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_art_outside",
@@ -1212,7 +1217,7 @@
       "Name": "Need a Consult",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ach_consultant_1",
@@ -1228,7 +1233,7 @@
       "Name": "Aestheticly Pleased",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_consultants_b",
@@ -1244,7 +1249,7 @@
       "Name": "Smooth Operator",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ach_contracts_1",
@@ -1260,7 +1265,7 @@
       "Name": "Loft Life",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_contracts_3",
@@ -1268,7 +1273,7 @@
       "Name": "Glut of Gastronomy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_contracts_4",
@@ -1292,7 +1297,7 @@
       "Name": "Plebs Are Needed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_ep1_casino",
@@ -1308,7 +1313,7 @@
       "Name": "Full House",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_ep1_checkin_2",
@@ -1316,7 +1321,7 @@
       "Name": "Royal Flush",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_ep1_event_1",
@@ -1340,7 +1345,7 @@
       "Name": "The King of Cool",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_ep1_reviews_1",
@@ -1378,9 +1383,9 @@
       "ID": "ach_floors",
       "SetID": "b8gh1fi",
       "Name": "Starting Skyward",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 202
     },
     {
       "ID": "ach_floors_1",
@@ -1396,7 +1401,7 @@
       "Name": "Such Great Heights",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_fountains",
@@ -1420,7 +1425,7 @@
       "Name": "Delegate Maintenance",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ach_grime_2",
@@ -1436,7 +1441,7 @@
       "Name": "Happy Tenants",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ach_loan",
@@ -1476,7 +1481,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ach_office_2",
@@ -1508,7 +1513,7 @@
       "Name": "Master of Puppets",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_prestige_1",
@@ -1580,7 +1585,7 @@
       "Name": "Refined Palates",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_restaurants_2",
@@ -1588,7 +1593,7 @@
       "Name": "Tasty Profits",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ach_restaurants_3",
@@ -1596,7 +1601,7 @@
       "Name": "Dinner Dash",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ach_restaurants_4",
@@ -1604,7 +1609,7 @@
       "Name": "Potent Potables",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ach_restaurants_5",
@@ -1668,7 +1673,7 @@
       "Name": "It is Payday",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_scenarios_1",
@@ -1684,7 +1689,7 @@
       "Name": "Scenario Success",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_scenarios_3",
@@ -1779,7 +1784,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 375,
       "Completed": 0
     }
   ],
@@ -1787,8 +1792,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-16T05:04:54.0669722+00:00",
+  "LastChanged_Achievements": "2023-12-16T06:05:00.0747909+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:02.639298+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:00:03.1426351+00:00",
-  "LastUpdate_Achievements": "2023-12-16T05:04:54.0670598+00:00"
+  "LastUpdate_Ratings": "2023-12-16T06:00:17.1719187+00:00",
+  "LastUpdate_Achievements": "2023-12-16T06:05:00.0748801+00:00"
 }

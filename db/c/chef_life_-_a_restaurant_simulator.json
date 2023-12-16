@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 770,
+  "EOS_Progressed": 771,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3367,6 +3367,11 @@
       "Time": "2023-12-16T03:09:37.1856525+00:00",
       "NumProgressed": 770,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T06:09:21.2385304+00:00",
+      "NumProgressed": 771,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3514,7 +3519,7 @@
       "Name": "Sous-Chef",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Level20",
@@ -3546,7 +3551,7 @@
       "Name": "Rolling in Dough",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "OpenRestaurant",
@@ -3690,14 +3695,14 @@
       "Name": "Well-Stocked Kitchen",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 770,
+      "Progressed": 771,
       "Completed": 0
     }
   ],
@@ -3705,8 +3710,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-16T05:09:07.6810627+00:00",
+  "LastChanged_Achievements": "2023-12-16T06:09:21.2385301+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:44.3806487+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:59:34.8777424+00:00",
-  "LastUpdate_Achievements": "2023-12-16T05:09:07.6810972+00:00"
+  "LastUpdate_Ratings": "2023-12-16T05:59:49.0986781+00:00",
+  "LastUpdate_Achievements": "2023-12-16T06:09:21.2385652+00:00"
 }

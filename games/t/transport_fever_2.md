@@ -15,7 +15,7 @@ Number of Ratings: 180  (23.09.2022)
 | First bus arrived | 65.00% | ~1,285 |
 | First train station | 63.00% | ~1,246 |
 | First steam train arrived | 59.00% | ~1,166 |
-| First industry upgraded | 55.00% | ~1,087 |
+| First industry upgraded | 56.00% | ~1,107 |
 | Transport millionaire | 54.00% | ~1,068 |
 | Cadet | 54.00% | ~1,068 |
 | Cargo hub | 52.00% | ~1,028 |

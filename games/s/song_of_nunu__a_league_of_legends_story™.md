@@ -23,7 +23,7 @@ Rating: 4.57 (Ranked 482)
 | Rhythm Of Willump | 47.00% | ~548 |
 | The Relentless Storm | 47.00% | ~548 |
 | A Tragic Reminder | 45.00% | ~524 |
-| 3000 Year Blackout | 44.00% | ~513 |
+| 3000 Year Blackout | 45.00% | ~524 |
 | The Finisher | 43.00% | ~501 |
 | So Close | 42.00% | ~489 |
 | You Get Used To It | 42.00% | ~489 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 482)
 | One From The Heart | 14.00% | ~163 |
 | Yummy | 10.00% | ~116 |
 | Snowball Fightn't | 9.00% | ~105 |
-| It Was Him | 7.00% | ~82 |
+| It Was Him | 8.00% | ~93 |
 | Handy Yeti | 6.00% | ~70 |
 | The Pied Piper Of Freljord | 5.00% | ~58 |
 | Braum's Poro Ranch | 3.00% | ~35 |

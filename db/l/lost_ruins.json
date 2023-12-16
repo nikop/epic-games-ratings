@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 531,
+  "EOS_Progressed": 532,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1209,6 +1209,11 @@
       "Time": "2023-12-16T04:09:45.8036518+00:00",
       "NumProgressed": 531,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T06:10:00.8463253+00:00",
+      "NumProgressed": 532,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1300,7 +1305,7 @@
       "Name": "Goblin Tales",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Hardboiled",
@@ -1380,7 +1385,7 @@
       "Name": "Money Swag",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Necromancer",
@@ -1516,7 +1521,7 @@
       "Name": "Troubleshooter",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "WeaponMaster",
@@ -1539,7 +1544,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 531,
+      "Progressed": 532,
       "Completed": 1
     }
   ],
@@ -1547,8 +1552,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-16T05:09:45.9253432+00:00",
+  "LastChanged_Achievements": "2023-12-16T06:10:00.8463249+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:26.5642933+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:57:38.4827836+00:00",
-  "LastUpdate_Achievements": "2023-12-16T05:09:45.9253874+00:00"
+  "LastUpdate_Ratings": "2023-12-16T05:57:50.4301774+00:00",
+  "LastUpdate_Achievements": "2023-12-16T06:10:00.846354+00:00"
 }

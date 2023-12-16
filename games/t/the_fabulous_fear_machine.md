@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 36.00% | ~20 |
+| Master trainee | 37.00% | ~21 |
 | You have three wishes left | 32.00% | ~18 |
-| Jung's dream | 29.00% | ~16 |
-| The battle of Great Britain | 29.00% | ~16 |
+| Jung's dream | 28.00% | ~16 |
+| The battle of Great Britain | 28.00% | ~16 |
 | Pulp! Where Monsters Dwell | 25.00% | ~14 |
 | A continent with chemistry | 21.00% | ~12 |
-| Giant | 16.00% | ~9 |
+| Giant | 18.00% | ~10 |
+| The happy farmer girl | 18.00% | ~10 |
 | Pulp! Terror Tales in the Night | 16.00% | ~9 |
-| The happy farmer girl | 16.00% | ~9 |
 | Pulp! Out of this World | 14.00% | ~8 |
-| The artist | 13.00% | ~7 |
-| The seer | 13.00% | ~7 |
-| Pulp! Adventures into the Unknown | 13.00% | ~7 |
-| Diagnosis: fear | 13.00% | ~7 |
-| Ambition is... blind | 13.00% | ~7 |
-| You have two wishes left | 13.00% | ~7 |
+| The artist | 12.00% | ~7 |
+| The seer | 12.00% | ~7 |
+| Pulp! Adventures into the Unknown | 12.00% | ~7 |
+| Diagnosis: fear | 12.00% | ~7 |
+| Ambition is... blind | 12.00% | ~7 |
+| You have two wishes left | 12.00% | ~7 |
 | A rival with no options | 11.00% | ~6 |
 | Et in arcadia ego | 9.00% | ~5 |
 | You had one wish left | 7.00% | ~4 |
@@ -52,7 +52,7 @@
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56 (Ranked 507)  
+Progressed: 57 (Ranked 507)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,4 +86,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 47 | 0 |
 | 2023-12-14 | 51 | 0 |
 | 2023-12-15 | 55 | 0 |
-| 2023-12-16 | 56 | 0 |
+| 2023-12-16 | 57 | 0 |

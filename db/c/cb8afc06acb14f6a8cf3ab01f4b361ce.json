@@ -3,12 +3,12 @@
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
   "Ranking_Rating": 918,
-  "Ranking_Popularity": 411,
+  "Ranking_Popularity": 412,
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewPlayers": 41,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -419,9 +419,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 329517,
+  "EOS_Progressed": 329535,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3517,
+  "EOS_NewPlayers": 3515,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9779,6 +9779,11 @@
       "Time": "2023-12-16T05:03:43.4477004+00:00",
       "NumProgressed": 329517,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-16T06:03:48.3284827+00:00",
+      "NumProgressed": 329535,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9799,7 +9804,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6590
+      "UsersEstimate": 6591
     },
     {
       "ID": "S03_OTWA",
@@ -10110,7 +10115,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 329517,
+      "Progressed": 329535,
       "Completed": 5
     }
   ],
@@ -10118,8 +10123,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-15T21:58:33.097623+00:00",
-  "LastChanged_Achievements": "2023-12-16T05:03:43.4477003+00:00",
+  "LastChanged_Achievements": "2023-12-16T06:03:48.3284825+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:58:26.2435315+00:00",
-  "LastUpdate_Achievements": "2023-12-16T05:03:43.4477605+00:00"
+  "LastUpdate_Ratings": "2023-12-16T05:58:39.4925652+00:00",
+  "LastUpdate_Achievements": "2023-12-16T06:03:48.3285459+00:00"
 }

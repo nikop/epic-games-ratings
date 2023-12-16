@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -3228,9 +3228,9 @@
       "ID": "ACH_WASHCAR_01",
       "SetID": "5fn8ia4",
       "Name": "Welcome to the Car Wash",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 592
+      "UsersEstimate": 604
     },
     {
       "ID": "ACH_WASHCAR_02",
@@ -3428,9 +3428,9 @@
       "ID": "GSS_ACH_23_LOCKPICKING_03",
       "SetID": "5fn8ia4",
       "Name": "Just Checking!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 407
     },
     {
       "ID": "GSS_ACH_25_DENNIS",
@@ -3884,9 +3884,9 @@
       "ID": "GSS_ACH_88_DECORATION_02",
       "SetID": "5fn8ia4",
       "Name": "Decorating Better",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 370
     },
     {
       "ID": "GSS_ACH_89_DECORATION_03",
@@ -3909,8 +3909,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-15T16:57:11.4281266+00:00",
-  "LastChanged_Achievements": "2023-12-16T05:04:36.2956203+00:00",
+  "LastChanged_Achievements": "2023-12-16T06:04:42.1265217+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:57:36.0880249+00:00",
-  "LastUpdate_Achievements": "2023-12-16T05:04:36.2957149+00:00"
+  "LastUpdate_Ratings": "2023-12-16T05:57:47.996012+00:00",
+  "LastUpdate_Achievements": "2023-12-16T06:04:42.1594737+00:00"
 }

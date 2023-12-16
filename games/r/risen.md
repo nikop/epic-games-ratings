@@ -26,13 +26,13 @@ Rating: 4.60 (Ranked 420)
 | Ogre friend | 23.00% | ~19 |
 | Hard worker | 23.00% | ~19 |
 | The fourth triplet | 23.00% | ~19 |
+| Sidelined | 23.00% | ~19 |
 | Little hero | 22.00% | ~18 |
-| Sidelined | 22.00% | ~18 |
 | Pandora's box | 21.00% | ~17 |
 | Master detective | 21.00% | ~17 |
 | Ghost hunter | 20.00% | ~16 |
 | Peacekeeper | 20.00% | ~16 |
-| Fence | 19.00% | ~15 |
+| Fence | 20.00% | ~16 |
 | Defender | 17.00% | ~14 |
 | Showdown | 16.00% | ~13 |
 | Workaholic | 15.00% | ~12 |

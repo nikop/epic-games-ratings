@@ -2,10 +2,10 @@
   "ID": "ef23a06e26f1497a8a39ff8d70e66833",
   "Name": "Outbreak Epidemic Viral Terror",
   "ProductSlug": "outbreak-epidemic-viral-terror-54b6e9",
-  "Ranking_EOS_Progress": 638,
+  "Ranking_EOS_Progress": 633,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 514,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-27T14:00:00+00:00",
     "PcReleaseDate": "2023-09-27T14:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46,6 +46,11 @@
     {
       "Time": "2023-12-13T08:04:50.0819578+00:00",
       "NumProgressed": 9,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T06:05:24.5882668+00:00",
+      "NumProgressed": 10,
       "NumCompleted": 0
     }
   ],
@@ -81,7 +86,7 @@
       "ID": "QUITE_THE_CREW_ACH",
       "SetID": "7ec7obg",
       "Name": "Quite the Crew",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -89,7 +94,7 @@
       "ID": "ROOKIE_MISTAKE_ACH",
       "SetID": "7ec7obg",
       "Name": "Rookie Mistake",
-      "Percentage": 44,
+      "Percentage": 40,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -145,22 +150,22 @@
       "ID": "WHAT_A_JOKE_ACH",
       "SetID": "7ec7obg",
       "Name": "What a Joke",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ec7obg",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:20.9427782+00:00",
-  "LastChanged_Achievements": "2023-12-16T05:05:20.2753026+00:00",
+  "LastChanged_Achievements": "2023-12-16T06:05:24.5882664+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:15.2155163+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:58:34.6718241+00:00",
-  "LastUpdate_Achievements": "2023-12-16T05:05:20.2753116+00:00"
+  "LastUpdate_Ratings": "2023-12-16T05:58:47.7127267+00:00",
+  "LastUpdate_Achievements": "2023-12-16T06:05:24.5882752+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -2822,9 +2822,9 @@
       "ID": "EV_ACH07",
       "SetID": "6jeac23",
       "Name": "3000 Year Blackout",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 513
+      "UsersEstimate": 524
     },
     {
       "ID": "EV_ACH08",
@@ -3022,9 +3022,9 @@
       "ID": "EV_ACH32",
       "SetID": "6jeac23",
       "Name": "It Was Him",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 82
+      "UsersEstimate": 93
     },
     {
       "ID": "EV_ACH33",
@@ -3135,8 +3135,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-09T18:58:15.9696889+00:00",
-  "LastChanged_Achievements": "2023-12-16T05:09:47.3686805+00:00",
+  "LastChanged_Achievements": "2023-12-16T06:10:02.3789711+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:39.9940514+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:58:00.0001483+00:00",
-  "LastUpdate_Achievements": "2023-12-16T05:09:47.3687201+00:00"
+  "LastUpdate_Ratings": "2023-12-16T05:58:12.392003+00:00",
+  "LastUpdate_Achievements": "2023-12-16T06:10:02.3790127+00:00"
 }

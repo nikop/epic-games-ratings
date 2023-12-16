@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | The secret passage | 57.00% | ~48 |
 | Seth's office | 56.00% | ~47 |
+| There is something strange here... | 51.00% | ~43 |
 | Across the lake | 51.00% | ~43 |
-| There is something strange here... | 50.00% | ~42 |
 | First document retrieved | 49.00% | ~41 |
 | Curious by nature | 43.00% | ~36 |
 | A lonely death | 37.00% | ~31 |

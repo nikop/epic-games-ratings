@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -495,9 +495,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 254740,
+  "EOS_Progressed": 254742,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27305,6 +27305,11 @@
       "Time": "2023-12-16T05:05:33.4325891+00:00",
       "NumProgressed": 254740,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-16T06:05:37.8781876+00:00",
+      "NumProgressed": 254742,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -27532,7 +27537,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63685
+      "UsersEstimate": 63686
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -27596,7 +27601,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15284
+      "UsersEstimate": 15285
     },
     {
       "ID": "ACH_MEMORY5",
@@ -27636,7 +27641,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63685
+      "UsersEstimate": 63686
     },
     {
       "ID": "ACH_SOREAD",
@@ -27684,7 +27689,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15284
+      "UsersEstimate": 15285
     },
     {
       "ID": "ACH_TROLLKING",
@@ -27700,7 +27705,7 @@
       "Name": "Valedictorian",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 15284
+      "UsersEstimate": 15285
     },
     {
       "ID": "ACH_WAKEUP",
@@ -27731,7 +27736,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 254740,
+      "Progressed": 254742,
       "Completed": 7
     }
   ],
@@ -27739,8 +27744,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-30T10:59:11.8312964+00:00",
-  "LastChanged_Achievements": "2023-12-16T05:05:33.4325887+00:00",
+  "LastChanged_Achievements": "2023-12-16T06:05:37.8781874+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:18.8009639+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:02:58.1956991+00:00",
-  "LastUpdate_Achievements": "2023-12-16T05:05:33.4327474+00:00"
+  "LastUpdate_Ratings": "2023-12-16T06:03:01.1582792+00:00",
+  "LastUpdate_Achievements": "2023-12-16T06:05:37.8783174+00:00"
 }

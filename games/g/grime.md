@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 1.00% | ~1,627 |
-| Imprint | 1.00% | ~1,627 |
+| Taste | 1.00% | ~1,628 |
+| Imprint | 1.00% | ~1,628 |
 | The Hunt | 0.90% | ~1,465 |
 | Ravenous | 0.90% | ~1,465 |
 | Weeper | 0.70% | ~1,139 |
@@ -20,13 +20,13 @@ Number of Ratings: 46  (23.09.2022)
 | Feast | 0.30% | ~488 |
 | Yank | 0.30% | ~488 |
 | Sharpened Vessel | 0.30% | ~488 |
-| Assimilation | 0.20% | ~325 |
-| Shapely | 0.20% | ~325 |
+| Assimilation | 0.20% | ~326 |
+| Shapely | 0.20% | ~326 |
 | Glare | 0.20% | ~325 |
 | Host | 0.20% | ~325 |
-| Celebration | 0.20% | ~325 |
-| Watcher | 0.20% | ~325 |
-| Predator | 0.20% | ~325 |
+| Celebration | 0.20% | ~326 |
+| Watcher | 0.20% | ~326 |
+| Predator | 0.20% | ~326 |
 | Spiral Heart | 0.10% | ~161 |
 | Bloodhunter | 0.10% | ~163 |
 | Skinmaker | 0.10% | ~163 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~162 |
 | Intensify | 0.10% | ~162 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 162,749 (Ranked 78)  
+Progressed: 162,754 (Ranked 78)  
 Completed: 330 (0.20%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 330 (0.20%) (Ranked 264)
 | 2023-12-13 | 162,413 | 307 |
 | 2023-12-14 | 162,555 | 324 |
 | 2023-12-15 | 162,701 | 330 |
-| 2023-12-16 | 162,749 | 330 |
+| 2023-12-16 | 162,754 | 330 |
 ## Awards
 Max (Highly Recommended): 56  (Ranked 424)  
 Sum: 404 (Ranked 345)  

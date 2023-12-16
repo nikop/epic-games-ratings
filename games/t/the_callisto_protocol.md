@@ -5,13 +5,13 @@ Rating: 4.20 (Ranked 928)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 11.00% | ~1,890 |
-| Flesh Wound | 10.00% | ~1,718 |
-| Paper Jams | 10.00% | ~1,718 |
-| The Outer Way | 10.00% | ~1,718 |
-| Chew 'Em Up | 8.00% | ~1,374 |
-| Float Like A Butterfly | 8.00% | ~1,374 |
-| Desperate Times | 8.00% | ~1,374 |
+| Get a Grip | 11.00% | ~1,891 |
+| Flesh Wound | 10.00% | ~1,719 |
+| Paper Jams | 10.00% | ~1,719 |
+| The Outer Way | 10.00% | ~1,719 |
+| Chew 'Em Up | 8.00% | ~1,375 |
+| Float Like A Butterfly | 8.00% | ~1,375 |
+| Desperate Times | 8.00% | ~1,375 |
 | Reforged | 7.00% | ~1,203 |
 | Two Heads Are Better Than One | 6.00% | ~1,031 |
 | Workplace Hazard | 6.00% | ~1,031 |
@@ -20,21 +20,21 @@ Rating: 4.20 (Ranked 928)
 | In the Pipe, Five by Five | 6.00% | ~1,031 |
 | Crash Site | 6.00% | ~1,031 |
 | Power Up | 6.00% | ~1,031 |
-| Keep Fighting | 6.00% | ~306 |
-| You Need a Gun | 5.00% | ~859 |
-| I Do Belong Here | 5.00% | ~859 |
-| Terminated | 5.00% | ~859 |
-| What Lies Beneath | 5.00% | ~859 |
-| Full Circle | 5.00% | ~859 |
-| Giving Back | 4.00% | ~687 |
-| It's Time | 4.00% | ~204 |
-| In Striking Distance | 3.00% | ~515 |
-| The Commonality | 3.00% | ~515 |
+| Keep Fighting | 6.00% | ~307 |
+| You Need a Gun | 5.00% | ~860 |
+| I Do Belong Here | 5.00% | ~860 |
+| Terminated | 5.00% | ~860 |
+| What Lies Beneath | 5.00% | ~860 |
+| Full Circle | 5.00% | ~860 |
+| Giving Back | 4.00% | ~688 |
+| It's Time | 4.00% | ~205 |
+| In Striking Distance | 3.00% | ~516 |
+| The Commonality | 3.00% | ~516 |
 | One Last Job | 2.00% | ~102 |
 | Big Spender | 1.00% | ~51 |
 | This Isn't About Escape | 1.00% | ~51 |
 | Armed to the Teeth | 0.90% | ~46 |
-| Grim Reaper | 0.80% | ~137 |
+| Grim Reaper | 0.80% | ~138 |
 | Parole Denied | 0.80% | ~41 |
 | Information Overload | 0.80% | ~41 |
 | Mugshot | 0.70% | ~120 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 928)
 | Bear Trap | 0.10% | ~5 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,180 (Ranked 150)  
+Progressed: 17,190 (Ranked 150)  
 Completed: 82 (0.48%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 82 (0.48%) (Ranked 212)
 | 2023-12-13 | 16,561 | 81 |
 | 2023-12-14 | 16,823 | 81 |
 | 2023-12-15 | 17,123 | 82 |
-| 2023-12-16 | 17,180 | 82 |
+| 2023-12-16 | 17,190 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 85  (Ranked 390)  
 Sum: 509 (Ranked 328)  

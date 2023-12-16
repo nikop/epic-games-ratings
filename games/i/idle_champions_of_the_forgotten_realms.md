@@ -146,6 +146,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Bitter End | 0.10% | ~207 |
 | A Nimble Approach | 0.10% | ~207 |
 | The Palace of Heart's Desire | 0.10% | ~207 |
+| The Egg of Nat's Desire | 0.10% | ~207 |
 | No One Can Hear You Scream | 0.10% | ~207 |
 | Anchors Aweigh | 0.10% | ~207 |
 | Welcome to the Rock | 0.10% | ~207 |
@@ -551,10 +552,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | When Tentacles Attack | 0.10% | ~207 |
 | Don't Lose Your Head | 0.10% | ~207 |
 | Mind Spike | 0.10% | ~207 |
-| The Egg of Nat's Desire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,876 (Ranked 66)  
-Completed: 2,533 (1.05%) (Ranked 167)  
+Progressed: 240,894 (Ranked 66)  
+Completed: 2,533 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -793,7 +793,7 @@ Completed: 2,533 (1.05%) (Ranked 167)
 | 2023-12-13 | 239,847 | 2,519 |
 | 2023-12-14 | 240,414 | 2,526 |
 | 2023-12-15 | 240,802 | 2,532 |
-| 2023-12-16 | 240,876 | 2,533 |
+| 2023-12-16 | 240,894 | 2,533 |
 ## Awards
 Max (Great for Beginners): 5,645  (Ranked 70)  
 Sum: 32,900 (Ranked 41)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -3233,9 +3233,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "5k00jcd",
       "Name": "Out of control",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 27
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -3313,9 +3313,9 @@
       "ID": "ML_ACHIEVEMENT_13",
       "SetID": "5k00jcd",
       "Name": "Look, Mom! No track!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_14",
@@ -3401,9 +3401,9 @@
       "ID": "ML_ACHIEVEMENT_24",
       "SetID": "5k00jcd",
       "Name": "The Terrordactyl",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -3537,9 +3537,9 @@
       "ID": "ML_ACHIEVEMENT_41",
       "SetID": "5k00jcd",
       "Name": "You\u0027re good at this!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ML_ACHIEVEMENT_42",
@@ -3598,8 +3598,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-16T05:04:54.4668825+00:00",
+  "LastChanged_Achievements": "2023-12-16T06:05:00.4806532+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:57:58.5940912+00:00",
-  "LastUpdate_Achievements": "2023-12-16T05:04:54.466924+00:00"
+  "LastUpdate_Ratings": "2023-12-16T05:58:10.9975673+00:00",
+  "LastUpdate_Achievements": "2023-12-16T06:05:00.4806903+00:00"
 }

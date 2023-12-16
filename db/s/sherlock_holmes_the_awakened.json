@@ -127,7 +127,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1197,
+  "EOS_Progressed": 1198,
   "EOS_Completed": 31,
   "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 3,
@@ -4107,6 +4107,11 @@
       "Time": "2023-12-16T05:04:21.5375842+00:00",
       "NumProgressed": 1197,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-12-16T06:04:26.9460296+00:00",
+      "NumProgressed": 1198,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 28,
@@ -4116,17 +4121,17 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 742
+      "UsersEstimate": 755
     },
     {
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 730
+      "UsersEstimate": 743
     },
     {
       "ID": "MQ02_1",
@@ -4134,7 +4139,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "MQ02_2",
@@ -4150,7 +4155,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "MQ02_4",
@@ -4158,7 +4163,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "MQ03_1",
@@ -4172,9 +4177,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 503
+      "UsersEstimate": 491
     },
     {
       "ID": "MQ03_3",
@@ -4228,9 +4233,9 @@
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 515
+      "UsersEstimate": 503
     },
     {
       "ID": "MQ05_2",
@@ -4294,7 +4299,7 @@
       "Name": "Read It And Weep",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "MQ07_2",
@@ -4341,7 +4346,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1197,
+      "Progressed": 1198,
       "Completed": 31
     }
   ],
@@ -4349,8 +4354,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-14T11:03:29.6730885+00:00",
-  "LastChanged_Achievements": "2023-12-16T05:04:21.5375837+00:00",
+  "LastChanged_Achievements": "2023-12-16T06:04:26.9460291+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:03:08.3069943+00:00",
-  "LastUpdate_Achievements": "2023-12-16T05:04:21.5376361+00:00"
+  "LastUpdate_Ratings": "2023-12-16T06:03:12.0745304+00:00",
+  "LastUpdate_Achievements": "2023-12-16T06:04:26.9460716+00:00"
 }

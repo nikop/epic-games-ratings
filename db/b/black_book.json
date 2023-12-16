@@ -668,9 +668,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 60253,
+  "EOS_Progressed": 60255,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 1473,
+  "EOS_NewPlayers": 1468,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13388,6 +13388,11 @@
       "Time": "2023-12-16T05:05:41.38704+00:00",
       "NumProgressed": 60253,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-16T06:05:45.8122983+00:00",
+      "NumProgressed": 60255,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -13424,7 +13429,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8435
+      "UsersEstimate": 8436
     },
     {
       "ID": "BAD_END",
@@ -13576,7 +13581,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8435
+      "UsersEstimate": 8436
     },
     {
       "ID": "HERBS_2",
@@ -13584,7 +13589,7 @@
       "Name": "Herbalist",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6025
+      "UsersEstimate": 6026
     },
     {
       "ID": "HERBS_3",
@@ -13648,7 +13653,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7230
+      "UsersEstimate": 7231
     },
     {
       "ID": "NORMAL_END",
@@ -13752,7 +13757,7 @@
       "Name": "Water",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6025
+      "UsersEstimate": 6026
     },
     {
       "ID": "WOLF",
@@ -13776,7 +13781,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 9640
+      "UsersEstimate": 9641
     },
     {
       "ID": "ZNATKOST_2",
@@ -13799,15 +13804,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 60253,
+      "Progressed": 60255,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-16T05:05:41.3870397+00:00",
+  "LastChanged_Achievements": "2023-12-16T06:05:45.812298+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:06.7954209+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:02:53.2334327+00:00",
-  "LastUpdate_Achievements": "2023-12-16T05:05:41.3871326+00:00"
+  "LastUpdate_Ratings": "2023-12-16T06:02:56.1338512+00:00",
+  "LastUpdate_Achievements": "2023-12-16T06:05:45.8123743+00:00"
 }

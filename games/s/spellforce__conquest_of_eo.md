@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Enough rooms to swing a cat | 89.00% | ~47 |
 | Home Sweet Home | 89.00% | ~47 |
-| First to the post | 85.00% | ~45 |
+| First to the post | 87.00% | ~46 |
 | A kind of Magic | 81.00% | ~43 |
 | Connected | 75.00% | ~40 |
 | Expansion | 74.00% | ~39 |

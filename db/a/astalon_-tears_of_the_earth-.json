@@ -2,10 +2,10 @@
   "ID": "5e09944aaced4155ac9463196b5deada",
   "Name": "Astalon -Tears of the Earth-",
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
-  "Ranking_EOS_Progress": 491,
-  "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_Progress": 489,
+  "Ranking_EOS_Completed": 86,
+  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70,
+  "EOS_Progressed": 71,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.29,
+  "EOS_Completed_Percentage": 4.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:01.3708206+00:00",
@@ -134,6 +134,11 @@
       "Time": "2023-12-15T21:08:02.877212+00:00",
       "NumProgressed": 70,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T06:08:27.2748331+00:00",
+      "NumProgressed": 71,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 30,
@@ -167,7 +172,7 @@
       "ID": "Beat_Game_BK",
       "SetID": "4f0g260",
       "Name": "True Black Knight",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -175,7 +180,7 @@
       "ID": "Beat_Game_Gargoyle",
       "SetID": "4f0g260",
       "Name": "Freedom Monster",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -183,7 +188,7 @@
       "ID": "Buy_All_Algus_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Wizard Mastery",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -215,7 +220,7 @@
       "ID": "Buy_All_Kyuli_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Rogue Mastery",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -231,7 +236,7 @@
       "ID": "Collect_10000_Orbs",
       "SetID": "4f0g260",
       "Name": "Orb Gatherer",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 23
     },
@@ -271,7 +276,7 @@
       "ID": "Complete_Bestiary_80",
       "SetID": "4f0g260",
       "Name": "Beast Knight",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 40,
       "UsersEstimate": 20
     },
@@ -319,7 +324,7 @@
       "ID": "Defeat_Tauros",
       "SetID": "4f0g260",
       "Name": "Horn prize!",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
       "UsersEstimate": 34
     },
@@ -327,7 +332,7 @@
       "ID": "Defeat_Volantis",
       "SetID": "4f0g260",
       "Name": "Space worm!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 23
     },
@@ -335,7 +340,7 @@
       "ID": "Find_Secret_Ending1",
       "SetID": "4f0g260",
       "Name": "Fly, you fool!",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 20
     },
@@ -343,7 +348,7 @@
       "ID": "Get_100_Item_Completion",
       "SetID": "4f0g260",
       "Name": "Relic Collector",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 40,
       "UsersEstimate": 18
     },
@@ -384,7 +389,7 @@
     {
       "ID": "4f0g260",
       "IsBase": true,
-      "Progressed": 70,
+      "Progressed": 71,
       "Completed": 3
     }
   ],
@@ -392,8 +397,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-12-16T05:06:42.8950661+00:00",
+  "LastChanged_Achievements": "2023-12-16T06:08:27.2748324+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:28.3481633+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:57:24.8650527+00:00",
-  "LastUpdate_Achievements": "2023-12-16T05:06:42.8950821+00:00"
+  "LastUpdate_Ratings": "2023-12-16T05:57:36.6014559+00:00",
+  "LastUpdate_Achievements": "2023-12-16T06:08:27.2748507+00:00"
 }

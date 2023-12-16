@@ -6,11 +6,11 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~144 |
-| Lost and Found | 4.00% | ~96 |
-| This Belongs in a Museum | 3.00% | ~3,826 |
-| This guy... again? | 3.00% | ~72 |
-| Bloody Graduation | 3.00% | ~72 |
+| Malpractice Assurance | 6.00% | ~146 |
+| Lost and Found | 4.00% | ~97 |
+| This Belongs in a Museum | 3.00% | ~3,827 |
+| This guy... again? | 3.00% | ~73 |
+| Bloody Graduation | 3.00% | ~73 |
 | Serenity Now! | 2.00% | ~2,551 |
 | Not Today! | 2.00% | ~2,551 |
 | Creep and Sleep | 2.00% | ~2,551 |
@@ -19,19 +19,19 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 2.00% | ~2,551 |
 | Escape from the Black Hole | 2.00% | ~2,551 |
 | Autodidact | 2.00% | ~2,551 |
-| Ploughshares to Swords | 2.00% | ~48 |
-| Don't Make Me Turn This Coach Around | 1.00% | ~1,275 |
-| It Rings a Bell | 1.00% | ~1,275 |
-| Dissector | 1.00% | ~1,275 |
-| It Happens | 1.00% | ~1,275 |
-| Rush Hour | 1.00% | ~1,275 |
-| Merry Time | 1.00% | ~1,275 |
-| Harvest Festival | 1.00% | ~1,275 |
-| To Grandmother's House | 1.00% | ~1,275 |
-| Whale | 1.00% | ~1,275 |
-| A Place to Lay Your Head | 1.00% | ~1,275 |
-| FNG | 1.00% | ~1,275 |
-| Nope | 1.00% | ~1,275 |
+| Ploughshares to Swords | 2.00% | ~49 |
+| Don't Make Me Turn This Coach Around | 1.00% | ~1,276 |
+| It Rings a Bell | 1.00% | ~1,276 |
+| Dissector | 1.00% | ~1,276 |
+| It Happens | 1.00% | ~1,276 |
+| Rush Hour | 1.00% | ~1,276 |
+| Merry Time | 1.00% | ~1,276 |
+| Harvest Festival | 1.00% | ~1,276 |
+| To Grandmother's House | 1.00% | ~1,276 |
+| Whale | 1.00% | ~1,276 |
+| A Place to Lay Your Head | 1.00% | ~1,276 |
+| FNG | 1.00% | ~1,276 |
+| Nope | 1.00% | ~1,276 |
 | Friends 'Til the End | 1.00% | ~24 |
 | Banishment | 0.90% | ~1,148 |
 | Deprogramming | 0.90% | ~1,148 |
@@ -56,7 +56,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hope Rekindled | 0.60% | ~765 |
 | Ichthyophobic | 0.60% | ~765 |
 | No More Mouths to Feed | 0.60% | ~765 |
-| Slap on the Wrist | 0.60% | ~14 |
+| Slap on the Wrist | 0.60% | ~15 |
 | This Looks Familiar | 0.50% | ~638 |
 | Hot Air | 0.50% | ~638 |
 | Eyes Up | 0.50% | ~638 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,532 (Ranked 84)  
+Progressed: 127,559 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
-| 2023-12-16 | 127,532 | 3 |
+| 2023-12-16 | 127,559 | 3 |
 ## Awards
 Max (Character Customization): 7,718  (Ranked 51)  
 Sum: 20,523 (Ranked 58)  

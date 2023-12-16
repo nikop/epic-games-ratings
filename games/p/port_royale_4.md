@@ -6,32 +6,32 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~877 |
-| My little farm | 64.00% | ~693 |
-| Every beginning is difficult | 63.00% | ~682 |
-| Gofer | 57.00% | ~617 |
-| 3, 2, 1, mine | 55.00% | ~596 |
-| O Captain! My Captain! | 55.00% | ~596 |
-| Seafarer | 52.00% | ~563 |
-| Greed for gold | 43.00% | ~466 |
-| Intangible | 42.00% | ~455 |
-| I'm out of here for a while | 42.00% | ~455 |
-| In a mint condition | 38.00% | ~412 |
-| Licence to Kill | 37.00% | ~401 |
-| Pirates! | 35.00% | ~379 |
-| Collectionitis | 29.00% | ~314 |
-| Megalomania | 29.00% | ~314 |
-| Christening | 28.00% | ~303 |
+| Cabin boy | 80.00% | ~869 |
+| My little farm | 64.00% | ~695 |
+| Every beginning is difficult | 62.00% | ~673 |
+| Gofer | 57.00% | ~619 |
+| 3, 2, 1, mine | 55.00% | ~597 |
+| O Captain! My Captain! | 55.00% | ~597 |
+| Seafarer | 51.00% | ~554 |
+| Greed for gold | 43.00% | ~467 |
+| Intangible | 42.00% | ~456 |
+| I'm out of here for a while | 42.00% | ~456 |
+| In a mint condition | 38.00% | ~413 |
+| Licence to Kill | 37.00% | ~402 |
+| Pirates! | 35.00% | ~380 |
+| Collectionitis | 29.00% | ~315 |
+| Megalomania | 29.00% | ~315 |
+| Christening | 28.00% | ~304 |
 | Groundskeeper | 26.00% | ~282 |
-| Walk the plank | 22.00% | ~238 |
-| Wholesale | 22.00% | ~238 |
+| Walk the plank | 22.00% | ~239 |
+| Wholesale | 22.00% | ~239 |
 | Pearly gates | 18.00% | ~195 |
 | My precious! | 18.00% | ~195 |
 | Conquistador | 14.00% | ~152 |
 | Panic buying | 11.00% | ~119 |
-| Your vessel, my vessel | 10.00% | ~108 |
-| Just a scratch | 9.00% | ~97 |
-| All mine! | 9.00% | ~97 |
+| Your vessel, my vessel | 10.00% | ~109 |
+| Just a scratch | 9.00% | ~98 |
+| All mine! | 9.00% | ~98 |
 | Paths of Glory | 8.00% | ~87 |
 | Panel of experts | 8.00% | ~87 |
 | Maker | 7.00% | ~76 |
@@ -41,8 +41,8 @@ Number of Ratings: 53  (23.09.2022)
 | Flying Dutchman | 5.00% | ~54 |
 | A true pirate! | 4.00% | ~43 |
 | Overpopulation | 4.00% | ~43 |
-| Premier Maître | 3.00% | ~32 |
-| Supreme conqueror | 3.00% | ~32 |
+| Premier Maître | 3.00% | ~33 |
+| Supreme conqueror | 3.00% | ~33 |
 | Strategist | 2.00% | ~22 |
 | The customer is always right | 2.00% | ~22 |
 | Master & Commander | 2.00% | ~22 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.70% | ~8 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,083 (Ranked 269)  
+Progressed: 1,086 (Ranked 268)  
 Completed: 1 (0.09%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,6 +264,7 @@ Completed: 1 (0.09%) (Ranked 303)
 | 2023-12-13 | 1,073 | 1 |
 | 2023-12-14 | 1,081 | 1 |
 | 2023-12-15 | 1,083 | 1 |
+| 2023-12-16 | 1,086 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

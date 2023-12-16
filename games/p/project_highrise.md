@@ -5,19 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 59.00% | ~221 |
-| Starting Skyward | 53.00% | ~198 |
+| Starting Skyward | 54.00% | ~202 |
 | Grime is Not Good | 47.00% | ~176 |
-| Floor Galore | 41.00% | ~153 |
-| Dinner Dash | 41.00% | ~153 |
+| Floor Galore | 41.00% | ~154 |
+| Dinner Dash | 41.00% | ~154 |
 | Campaign Launch | 40.00% | ~150 |
-| Need a Consult | 37.00% | ~138 |
-| It's Technical | 37.00% | ~138 |
+| Need a Consult | 37.00% | ~139 |
+| It's Technical | 37.00% | ~139 |
 | Upgrade Unlock | 36.00% | ~135 |
-| Delegate Maintenance | 34.00% | ~127 |
+| Delegate Maintenance | 34.00% | ~128 |
 | Proper Walls | 32.00% | ~120 |
 | Destination Destiny | 32.00% | ~120 |
-| Happy Tenants | 26.00% | ~97 |
-| Potent Potables | 26.00% | ~97 |
+| Happy Tenants | 26.00% | ~98 |
+| Potent Potables | 26.00% | ~98 |
 | Smooth Service | 25.00% | ~94 |
 | Your Prestige is Rising | 24.00% | ~90 |
 | Retail Revenue | 24.00% | ~90 |
@@ -30,20 +30,20 @@
 | Get Electrified | 20.00% | ~75 |
 | Rehab Expert | 19.00% | ~71 |
 | We Don't Need No Education | 19.00% | ~71 |
-| Tasty Profits | 18.00% | ~67 |
+| Tasty Profits | 18.00% | ~68 |
 | Established Fame | 17.00% | ~64 |
 | Under One Roof | 16.00% | ~60 |
 | Cashflow Chief | 16.00% | ~60 |
 | Starred Dining | 15.00% | ~56 |
-| Smooth Operator | 14.00% | ~52 |
+| Smooth Operator | 14.00% | ~53 |
 | Boutique Benefits | 13.00% | ~49 |
 | Terrifically Trashed | 13.00% | ~49 |
 | Thrilled Tenants | 13.00% | ~49 |
 | 28 Days Later | 11.00% | ~41 |
 | Swimming in Surplus | 11.00% | ~41 |
-| Aestheticly Pleased | 10.00% | ~37 |
-| Master of Puppets | 10.00% | ~37 |
-| Refined Palates | 10.00% | ~37 |
+| Aestheticly Pleased | 10.00% | ~38 |
+| Master of Puppets | 10.00% | ~38 |
+| Refined Palates | 10.00% | ~38 |
 | Plaza Plan | 9.00% | ~34 |
 | Phoning It In | 9.00% | ~34 |
 | First 100 Days | 8.00% | ~30 |
@@ -70,16 +70,16 @@
 | Three of a Kind | 3.00% | ~11 |
 | Four of a Kind | 3.00% | ~11 |
 | In the Money | 3.00% | ~11 |
-| Curated Class | 2.00% | ~7 |
-| Loft Life | 2.00% | ~7 |
-| Glut of Gastronomy | 2.00% | ~7 |
-| Plebs Are Needed | 2.00% | ~7 |
-| Full House | 2.00% | ~7 |
-| Royal Flush | 2.00% | ~7 |
-| The King of Cool | 2.00% | ~7 |
-| Such Great Heights | 2.00% | ~7 |
-| It is Payday | 2.00% | ~7 |
-| Scenario Success | 2.00% | ~7 |
+| Curated Class | 2.00% | ~8 |
+| Loft Life | 2.00% | ~8 |
+| Glut of Gastronomy | 2.00% | ~8 |
+| Plebs Are Needed | 2.00% | ~8 |
+| Full House | 2.00% | ~8 |
+| Royal Flush | 2.00% | ~8 |
+| The King of Cool | 2.00% | ~8 |
+| Such Great Heights | 2.00% | ~8 |
+| It is Payday | 2.00% | ~8 |
+| Scenario Success | 2.00% | ~8 |
 | Double Down | 1.00% | ~4 |
 | Lofty Landlord | 1.00% | ~4 |
 | Artistic Largesse | 0.80% | ~3 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 374 (Ranked 343)  
+Progressed: 375 (Ranked 343)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 360 | 0 |
 | 2023-12-14 | 367 | 0 |
 | 2023-12-15 | 372 | 0 |
-| 2023-12-16 | 374 | 0 |
+| 2023-12-16 | 375 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 109,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.41,
+  "EOS_Completed_Percentage": 7.34,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -514,6 +514,11 @@
       "Time": "2023-12-16T05:09:40.5930934+00:00",
       "NumProgressed": 108,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-16T06:09:55.472444+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -540,7 +545,7 @@
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 75,
       "UsersEstimate": 58
     },
@@ -558,15 +563,15 @@
       "Name": "True fisherman",
       "Percentage": 17,
       "XP": 80,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "creepytaleach2",
       "SetID": "bnif31p",
       "Name": "Naivety",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 75,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "creepytaleach3",
@@ -588,9 +593,9 @@
       "ID": "creepytaleach5",
       "SetID": "bnif31p",
       "Name": "Incorrigible researcher",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 75,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "creepytaleach6",
@@ -620,7 +625,7 @@
       "ID": "creepytaleach9",
       "SetID": "bnif31p",
       "Name": "Idler",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 75,
       "UsersEstimate": 33
     }
@@ -629,14 +634,14 @@
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-16T05:09:40.593093+00:00",
+  "LastChanged_Achievements": "2023-12-16T06:09:55.4724437+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.952085+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:57:53.753908+00:00",
-  "LastUpdate_Achievements": "2023-12-16T05:09:40.5931092+00:00"
+  "LastUpdate_Ratings": "2023-12-16T05:58:06.2221522+00:00",
+  "LastUpdate_Achievements": "2023-12-16T06:09:55.4724804+00:00"
 }

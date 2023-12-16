@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -223,7 +223,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8456,
+  "EOS_Progressed": 8457,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
@@ -8528,6 +8528,11 @@
       "Time": "2023-12-16T04:09:46.3501377+00:00",
       "NumProgressed": 8456,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T06:10:01.5279373+00:00",
+      "NumProgressed": 8457,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8754,9 +8759,9 @@
       "ID": "PREPARE_MEALS_1",
       "SetID": "9eia0f5",
       "Name": "Oui, Chef!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -8883,13 +8888,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8456,
+      "Progressed": 8457,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1073,
+      "Progressed": 1074,
       "Completed": 1050
     }
   ],
@@ -8897,8 +8902,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-15T16:03:24.8361061+00:00",
-  "LastChanged_Achievements": "2023-12-16T05:09:46.5314255+00:00",
+  "LastChanged_Achievements": "2023-12-16T06:10:01.5279369+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:03:11.7841417+00:00",
-  "LastUpdate_Achievements": "2023-12-16T05:09:46.5315018+00:00"
+  "LastUpdate_Ratings": "2023-12-16T06:03:15.6581917+00:00",
+  "LastUpdate_Achievements": "2023-12-16T06:10:01.5280135+00:00"
 }

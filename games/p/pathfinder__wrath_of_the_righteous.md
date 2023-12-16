@@ -6,26 +6,26 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,339 |
-| A Spark | 19.00% | ~2,350 |
-| Burning City | 18.00% | ~2,226 |
-| Defender's Heart | 16.00% | ~1,979 |
-| Mythic Choices | 15.00% | ~1,855 |
+| Devoured by Darkness | 27.00% | ~3,340 |
+| A Spark | 19.00% | ~2,351 |
+| Burning City | 18.00% | ~2,227 |
+| Defender's Heart | 16.00% | ~1,980 |
+| Mythic Choices | 15.00% | ~1,856 |
 | Banner over the Citadel | 14.00% | ~1,732 |
-| Queen's Gratitude | 12.00% | ~1,484 |
+| Queen's Gratitude | 12.00% | ~1,485 |
 | Fifth Crusade | 9.00% | ~1,113 |
 | Embrace of the Abyss | 7.00% | ~866 |
-| Path of the Angel | 7.00% | ~866 |
 | Demonic and Divine | 7.00% | ~866 |
+| Path of the Angel | 6.00% | ~742 |
 | Great Upstart | 6.00% | ~742 |
 | All Paths Open | 6.00% | ~742 |
-| Path of the Azata | 5.00% | ~618 |
-| Transformation | 5.00% | ~618 |
-| The Legacy | 5.00% | ~618 |
-| Voice from Your Dreams | 5.00% | ~618 |
-| A Flame | 5.00% | ~618 |
-| Next-Door Play | 5.00% | ~618 |
-| Get the Toad | 5.00% | ~618 |
+| Path of the Azata | 5.00% | ~619 |
+| Transformation | 5.00% | ~619 |
+| The Legacy | 5.00% | ~619 |
+| Voice from Your Dreams | 5.00% | ~619 |
+| A Flame | 5.00% | ~619 |
+| Next-Door Play | 5.00% | ~619 |
+| Get the Toad | 5.00% | ~619 |
 | Heart of the Fallen Land | 4.00% | ~495 |
 | Divide and Rule | 4.00% | ~495 |
 | Mythic Reinforcements | 4.00% | ~495 |
@@ -35,10 +35,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heroic Victory | 3.00% | ~371 |
 | Capitulation Is Now Moot | 3.00% | ~371 |
 | Core of the Riddle | 3.00% | ~371 |
-| Hanged Man's Notes | 3.00% | ~334 |
-| Sarkoris Will Be Green | 3.00% | ~334 |
-| The Lady of the Forest | 3.00% | ~334 |
-| Beware Still Water | 3.00% | ~334 |
+| Hanged Man's Notes | 3.00% | ~335 |
+| Sarkoris Will Be Green | 3.00% | ~335 |
+| The Lady of the Forest | 3.00% | ~335 |
+| Beware Still Water | 3.00% | ~335 |
 | Path of the Demon | 2.00% | ~247 |
 | Path of the Aeon | 2.00% | ~247 |
 | Your First Big Enemy | 2.00% | ~247 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,368 (Ranked 163)  
+Progressed: 12,372 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -363,7 +363,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 12,300 | 0 |
 | 2023-12-14 | 12,326 | 0 |
 | 2023-12-15 | 12,356 | 0 |
-| 2023-12-16 | 12,368 | 0 |
+| 2023-12-16 | 12,372 | 0 |
 ## Awards
 Max (Character Customization): 1,761  (Ranked 123)  
 Sum: 7,142 (Ranked 122)  

@@ -3,7 +3,7 @@
   "Name": "The Hidden Room",
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 193,
-  "Ranking_EOS_Completed": 173,
+  "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5472,
+  "EOS_Progressed": 5473,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -5099,6 +5099,11 @@
       "Time": "2023-12-16T05:08:33.2250348+00:00",
       "NumProgressed": 5472,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-16T06:08:46.7337507+00:00",
+      "NumProgressed": 5473,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -5151,7 +5156,7 @@
       "Name": "Move the sofa",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -5159,7 +5164,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 3119
+      "UsersEstimate": 3120
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -5238,14 +5243,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 5472,
+      "Progressed": 5473,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-16T05:08:33.2250343+00:00",
+  "LastChanged_Achievements": "2023-12-16T06:08:46.7337503+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:54.5364953+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:57:07.6666542+00:00",
-  "LastUpdate_Achievements": "2023-12-16T05:08:33.2250672+00:00"
+  "LastUpdate_Ratings": "2023-12-16T05:57:19.0919412+00:00",
+  "LastUpdate_Achievements": "2023-12-16T06:08:46.7337842+00:00"
 }

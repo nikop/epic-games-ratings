@@ -3,12 +3,12 @@
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
   "Ranking_Rating": 388,
-  "Ranking_Popularity": 413,
+  "Ranking_Popularity": 414,
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 514,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewPlayers": 516,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1597,10 +1597,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 481,
       "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2023-12-16T05:57:20.0072845+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 482,
+      "NumberOfAwardsMax": 66
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 481,
+  "NumberOfAwards": 482,
   "NumberOfAwardsMax": 66,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1674,7 +1680,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 42
+      "Count": 43
     }
   ],
   "EOS_Progressed": 0,
@@ -1689,8 +1695,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-12-16T02:17:51.3501904+00:00",
+  "LastChanged": "2023-12-16T05:57:20.0072844+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.7062582+00:00",
-  "LastUpdate_Ratings": "2023-12-16T04:57:08.5681955+00:00",
-  "LastUpdate_Achievements": "2023-12-16T05:05:57.4020759+00:00"
+  "LastUpdate_Ratings": "2023-12-16T05:57:20.0072849+00:00",
+  "LastUpdate_Achievements": "2023-12-16T06:06:01.8573723+00:00"
 }
