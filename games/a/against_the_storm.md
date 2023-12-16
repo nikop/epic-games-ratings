@@ -13,14 +13,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Land of Greed | 3.00% | ~548 |
 | Ominous Presence | 3.00% | ~548 |
 | Gathering Storm | 3.00% | ~548 |
-| First Real Expedition | 2.00% | ~365 |
-| Overcoming Difficulty | 2.00% | ~365 |
-| Coral Forest | 2.00% | ~365 |
-| The Marshlands | 2.00% | ~365 |
-| The Scarlet Orchard | 2.00% | ~365 |
-| Taking Action | 2.00% | ~365 |
-| No Deaths | 2.00% | ~365 |
-| Untamed Wilds | 2.00% | ~365 |
+| First Real Expedition | 2.00% | ~366 |
+| Overcoming Difficulty | 2.00% | ~366 |
+| Coral Forest | 2.00% | ~366 |
+| The Marshlands | 2.00% | ~366 |
+| The Scarlet Orchard | 2.00% | ~366 |
+| Taking Action | 2.00% | ~366 |
+| No Deaths | 2.00% | ~366 |
+| Untamed Wilds | 2.00% | ~366 |
 | Homesick | 1.00% | ~183 |
 | Fertile Meadows | 1.00% | ~183 |
 | Royal Outpost | 1.00% | ~183 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,272 (Ranked 147)  
+Progressed: 18,275 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,6 +306,7 @@ Completed: 39 (0.21%) (Ranked 261)
 | 2023-12-13 | 18,048 | 40 |
 | 2023-12-14 | 18,153 | 40 |
 | 2023-12-15 | 18,272 | 39 |
+| 2023-12-16 | 18,275 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 227)  
 Sum: 3,262 (Ranked 174)  

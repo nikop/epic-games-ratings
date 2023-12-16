@@ -239,9 +239,9 @@
       "ID": "Nocturnal_Achivement_1_Flame",
       "SetID": "329ifed",
       "Name": "Form Blazing Sword",
-      "Percentage": 86,
+      "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Nocturnal_Achivement_2_Shrine",
@@ -318,8 +318,8 @@
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:09:42.7924401+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:07:56.1108122+00:00",
   "LastUpdate_AppInfo": "2023-12-12T04:57:10.5071003+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:57:11.7525728+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:09:42.7924494+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:57:07.6836879+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:07:56.1108211+00:00"
 }

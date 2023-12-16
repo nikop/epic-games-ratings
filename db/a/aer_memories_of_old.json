@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26296,
+  "EOS_Progressed": 26301,
   "EOS_Completed": 492,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.87,
   "EosHistory": [
@@ -26154,6 +26154,11 @@
       "Time": "2023-12-15T23:04:47.2905005+00:00",
       "NumProgressed": 26296,
       "NumCompleted": 492
+    },
+    {
+      "Time": "2023-12-16T00:02:41.7981085+00:00",
+      "NumProgressed": 26301,
+      "NumCompleted": 492
     }
   ],
   "TotalAchievements": 20,
@@ -26165,7 +26170,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -26181,7 +26186,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3681
+      "UsersEstimate": 3682
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -26229,7 +26234,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3681
+      "UsersEstimate": 3682
     },
     {
       "ID": "FOUND_ERIN",
@@ -26261,7 +26266,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3418
+      "UsersEstimate": 3419
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -26285,7 +26290,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 19985
+      "UsersEstimate": 19989
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -26293,7 +26298,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7100
+      "UsersEstimate": 7101
     },
     {
       "ID": "NORTH_FINISHED",
@@ -26301,7 +26306,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3418
+      "UsersEstimate": 3419
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -26317,22 +26322,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4733
+      "UsersEstimate": 4734
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26296,
+      "Progressed": 26301,
       "Completed": 492
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:04:47.2905002+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:02:41.7981081+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:05.8810572+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:58:34.6337339+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:04:47.2906429+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:58:34.2509254+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:02:41.7983343+00:00"
 }

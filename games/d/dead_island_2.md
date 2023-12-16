@@ -5,38 +5,38 @@ Rating: 4.54 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~22,228 |
-| Coup de Grâce | 3.00% | ~22,228 |
-| Hotel California | 3.00% | ~22,228 |
-| Welcome To Hell-A | 3.00% | ~22,228 |
-| One of Us | 3.00% | ~1,995 |
-| Whatever It Takes | 3.00% | ~1,995 |
-| Pork Chopped | 3.00% | ~1,995 |
-| Dr. Reed, I Presume? | 2.00% | ~14,819 |
-| Git Gutte! | 2.00% | ~14,819 |
-| Anger Management | 2.00% | ~14,819 |
-| Bookworm | 2.00% | ~14,819 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,819 |
-| But Doctor, I am Butcho | 2.00% | ~14,819 |
-| Slayer Squad | 2.00% | ~14,819 |
-| Can't Handle the Truth | 2.00% | ~14,819 |
-| Like Riding a Bike | 2.00% | ~14,819 |
-| Hazardous Materials | 2.00% | ~14,819 |
-| Friends Like These | 2.00% | ~14,819 |
-| Apex Predator | 2.00% | ~14,819 |
-| Zombologist | 2.00% | ~14,819 |
-| A Patton Emerges | 2.00% | ~14,819 |
-| Stacking the Deck | 2.00% | ~14,819 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,819 |
-| Our True Nature | 2.00% | ~14,819 |
-| This is My Weapon | 2.00% | ~14,819 |
-| Making Your Mark | 1.00% | ~7,409 |
-| Perks of the Job | 1.00% | ~7,409 |
-| Ooh, Shiny! | 1.00% | ~7,409 |
-| Humanity Distilled | 1.00% | ~7,409 |
-| I Am the Resurrection | 1.00% | ~7,409 |
-| Down with the Sickness | 1.00% | ~7,409 |
-| Max Headroom | 1.00% | ~7,409 |
+| Break A Leg | 3.00% | ~22,231 |
+| Coup de Grâce | 3.00% | ~22,231 |
+| Hotel California | 3.00% | ~22,231 |
+| Welcome To Hell-A | 3.00% | ~22,231 |
+| One of Us | 3.00% | ~1,997 |
+| Whatever It Takes | 3.00% | ~1,997 |
+| Pork Chopped | 3.00% | ~1,997 |
+| Dr. Reed, I Presume? | 2.00% | ~14,821 |
+| Git Gutte! | 2.00% | ~14,821 |
+| Anger Management | 2.00% | ~14,821 |
+| Bookworm | 2.00% | ~14,821 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,821 |
+| But Doctor, I am Butcho | 2.00% | ~14,821 |
+| Slayer Squad | 2.00% | ~14,821 |
+| Can't Handle the Truth | 2.00% | ~14,821 |
+| Like Riding a Bike | 2.00% | ~14,821 |
+| Hazardous Materials | 2.00% | ~14,821 |
+| Friends Like These | 2.00% | ~14,821 |
+| Apex Predator | 2.00% | ~14,821 |
+| Zombologist | 2.00% | ~14,821 |
+| A Patton Emerges | 2.00% | ~14,821 |
+| Stacking the Deck | 2.00% | ~14,821 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,821 |
+| Our True Nature | 2.00% | ~14,821 |
+| This is My Weapon | 2.00% | ~14,821 |
+| Making Your Mark | 1.00% | ~7,410 |
+| Perks of the Job | 1.00% | ~7,410 |
+| Ooh, Shiny! | 1.00% | ~7,410 |
+| Humanity Distilled | 1.00% | ~7,410 |
+| I Am the Resurrection | 1.00% | ~7,410 |
+| Down with the Sickness | 1.00% | ~7,410 |
+| Max Headroom | 1.00% | ~7,410 |
 | Jumbo Keyring | 0.90% | ~6,669 |
 | Go, Bobcats! | 0.90% | ~6,669 |
 | Rising Star | 0.90% | ~6,669 |
@@ -55,9 +55,9 @@ Rating: 4.54 (Ranked 534)
 | Lawn and Order | 0.20% | ~133 |
 | Donk! | 0.10% | ~741 |
 | Bucket List | 0.10% | ~741 |
-| Wilhelm | 0.10% | ~66 |
+| Wilhelm | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 740,945 (Ranked 21)  
+Progressed: 741,041 (Ranked 21)  
 Completed: 2,483 (0.34%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,6 +297,7 @@ Completed: 2,483 (0.34%) (Ranked 235)
 | 2023-12-13 | 734,518 | 2,482 |
 | 2023-12-14 | 737,598 | 2,483 |
 | 2023-12-15 | 740,945 | 2,483 |
+| 2023-12-16 | 741,041 | 2,483 |
 ## Awards
 Max (Great Boss Battles): 8,179  (Ranked 48)  
 Sum: 12,583 (Ranked 81)  

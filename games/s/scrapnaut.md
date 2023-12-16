@@ -1,29 +1,29 @@
 # Scrapnaut
 [Store](https://store.epicgames.com/en-US/p/scrapnaut)  
 [View Rawdata](../../db/s/scrapnaut.json)  
-Rating: 4.28 (Ranked 864)  
+Rating: 4.28 (Ranked 865)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 62.00% | ~315 |
-| Mushroom Picker | 56.00% | ~284 |
-| Scrap Gatherer | 56.00% | ~284 |
+| My New Home | 62.00% | ~316 |
+| Mushroom Picker | 56.00% | ~285 |
+| Scrap Gatherer | 56.00% | ~285 |
 | Scrapper | 46.00% | ~234 |
 | Teleport | 44.00% | ~224 |
-| Cook | 43.00% | ~218 |
+| Cook | 43.00% | ~219 |
 | Scrap Master | 38.00% | ~193 |
 | Smelter | 35.00% | ~178 |
 | Digger | 32.00% | ~163 |
 | Electro-Scrap Gatherer | 32.00% | ~163 |
-| Survivor | 31.00% | ~157 |
-| Lumberjack | 30.00% | ~152 |
-| Robot Destroyer | 29.00% | ~147 |
-| Herbalist | 28.00% | ~142 |
+| Survivor | 31.00% | ~158 |
+| Lumberjack | 29.00% | ~148 |
+| Robot Destroyer | 29.00% | ~148 |
+| Herbalist | 28.00% | ~143 |
 | Prepper | 26.00% | ~132 |
 | Electro-Scrap Master | 24.00% | ~122 |
 | Robot Hunter | 21.00% | ~107 |
-| Advanced Survivalist | 19.00% | ~97 |
+| Advanced Survivalist | 18.00% | ~92 |
 | Master Of Technology | 16.00% | ~81 |
 | Treasure Hunter | 16.00% | ~81 |
 | Mythical Smelter | 14.00% | ~71 |
@@ -38,7 +38,7 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Killer | 2.00% | ~10 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 508 (Ranked 320)  
+Progressed: 509 (Ranked 320)  
 Completed: 1 (0.20%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,6 +193,7 @@ Completed: 1 (0.20%) (Ranked 264)
 | 2023-12-13 | 497 | 1 |
 | 2023-12-14 | 502 | 1 |
 | 2023-12-15 | 508 | 1 |
+| 2023-12-16 | 509 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

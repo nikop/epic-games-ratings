@@ -728,17 +728,17 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "earn_all_trophies",
@@ -952,9 +952,9 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "something_important",
@@ -1047,8 +1047,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:04:58.6455333+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:02:52.947709+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:01.5800746+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:59:21.7184224+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:04:58.645565+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:59:22.4299456+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:02:52.9477523+00:00"
 }

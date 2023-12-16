@@ -2,12 +2,12 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 682,
+  "Ranking_Rating": 683,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -643,9 +643,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4025,
+  "EOS_Progressed": 4026,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8653,6 +8653,11 @@
       "Time": "2023-12-15T22:08:56.70095+00:00",
       "NumProgressed": 4025,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-16T00:06:58.7982669+00:00",
+      "NumProgressed": 4026,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8824,7 +8829,7 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -8832,7 +8837,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8840,7 +8845,7 @@
       "Name": "Out of Scope",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "REWARD_32_RIGGED_BLOW",
@@ -8856,7 +8861,7 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -8912,7 +8917,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8960,7 +8965,7 @@
       "Name": "Eagle Eyed",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
@@ -8976,7 +8981,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9008,7 +9013,7 @@
       "Name": "Up close and personal",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -9032,7 +9037,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -9080,7 +9085,7 @@
       "Name": "Can\u0027t Outrun A Bullet",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -9231,13 +9236,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3976,
+      "Progressed": 3977,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4025,
+      "Progressed": 4026,
       "Completed": 11
     }
   ],
@@ -9245,8 +9250,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:08:46.4225763+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:06:58.7982666+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.4789046+00:00",
-  "LastUpdate_Ratings": "2023-12-15T23:00:01.9469664+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:08:46.4226674+00:00"
+  "LastUpdate_Ratings": "2023-12-16T00:00:03.1330526+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:06:58.7984045+00:00"
 }

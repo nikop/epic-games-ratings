@@ -2223,9 +2223,9 @@
       "ID": "ACH_ITS_HEATING_UP",
       "SetID": "108h92c",
       "Name": "It\u2019s Heating up!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 688
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2312,8 +2312,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-11-20T03:58:42.1118377+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:09:02.1324274+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:07:14.6046608+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:55.4900519+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:57:29.6807755+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:09:02.1324514+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:57:26.638301+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:07:14.6046966+00:00"
 }

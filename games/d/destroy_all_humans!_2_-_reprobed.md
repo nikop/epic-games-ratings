@@ -17,8 +17,8 @@ Number of Ratings: 90  (23.09.2022)
 | I Look Up As I Walk to Takoshima | 17.00% | ~13 |
 | Bodied Sattva | 17.00% | ~13 |
 | Cult Following | 15.00% | ~11 |
+| Lie Back and Think of Albion | 15.00% | ~11 |
 | Perfect Probulator | 13.00% | ~10 |
-| Lie Back and Think of Albion | 13.00% | ~10 |
 | Freshly Squeezed | 11.00% | ~8 |
 | Die Nasty | 11.00% | ~8 |
 | Transmitting From Sol-3 | 8.00% | ~6 |

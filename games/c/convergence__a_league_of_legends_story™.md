@@ -5,7 +5,7 @@ Rating: 4.62 (Ranked 370)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 35.00% | ~342 |
+| Time Heals All Wounds | 35.00% | ~343 |
 | The Mysterious Stranger | 27.00% | ~264 |
 | Rail Rat | 27.00% | ~264 |
 | Immaculate Aim | 23.00% | ~225 |
@@ -16,11 +16,11 @@ Rating: 4.62 (Ranked 370)
 | No, Thanks! | 22.00% | ~215 |
 | The Prince in Heels | 22.00% | ~215 |
 | Immaculate Aim | 22.00% | ~215 |
-| The Steel Shadow | 21.00% | ~205 |
-| Breaking Down Barriers | 21.00% | ~205 |
-| The Wicked Twins | 21.00% | ~205 |
-| Honest Mistake | 21.00% | ~205 |
-| Fast Learner | 21.00% | ~205 |
+| The Steel Shadow | 21.00% | ~206 |
+| Breaking Down Barriers | 21.00% | ~206 |
+| The Wicked Twins | 21.00% | ~206 |
+| Honest Mistake | 21.00% | ~206 |
+| Fast Learner | 21.00% | ~206 |
 | Like Clockwork | 20.00% | ~196 |
 | The Betrayer | 20.00% | ~196 |
 | Right On Time | 19.00% | ~186 |
@@ -46,7 +46,7 @@ Rating: 4.62 (Ranked 370)
 | Corin Goes Home | 8.00% | ~78 |
 | Sartorialist | 8.00% | ~78 |
 | Entresol Explorer | 8.00% | ~78 |
-| Golem Hunter | 7.00% | ~68 |
+| Golem Hunter | 7.00% | ~69 |
 | Clovemary for Remembering | 6.00% | ~59 |
 | Hexlock for Protection | 5.00% | ~49 |
 | Rungs Was Right | 5.00% | ~49 |
@@ -59,8 +59,8 @@ Rating: 4.62 (Ranked 370)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 978 (Ranked 275)  
-Completed: 6 (0.61%) (Ranked 194)  
+Progressed: 979 (Ranked 275)  
+Completed: 6 (0.61%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -205,6 +205,7 @@ Completed: 6 (0.61%) (Ranked 194)
 | 2023-12-13 | 955 | 6 |
 | 2023-12-14 | 963 | 6 |
 | 2023-12-15 | 978 | 6 |
+| 2023-12-16 | 979 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

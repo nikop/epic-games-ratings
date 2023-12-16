@@ -10,6 +10,7 @@ Rating: 4.61 (Ranked 388)
 | Open the Gate! | 0.30% | ~25 |
 | Clear the Air | 0.30% | ~25 |
 | Break-Net Speed | 0.30% | ~25 |
+| Bramble Breaker | 0.30% | ~25 |
 | Azoria Beckons | 0.20% | ~17 |
 | Search for the Hairy Grell | 0.20% | ~17 |
 | Flaming Hot Completos | 0.20% | ~17 |
@@ -18,13 +19,14 @@ Rating: 4.61 (Ranked 388)
 | Humble Collector | 0.20% | ~17 |
 | ... And Spit Back Out | 0.20% | ~17 |
 | Mist Walker | 0.20% | ~17 |
-| Bramble Breaker | 0.20% | ~17 |
 | Higher Tax Bracket | 0.20% | ~17 |
 | Chatty Neighbor | 0.20% | ~17 |
 | Azorian Anniversary | 0.20% | ~17 |
 | Right Tool For the Job | 0.20% | ~17 |
 | Captain of Cozy | 0.20% | ~17 |
+| House Proud | 0.20% | ~17 |
 | Skilled | 0.20% | ~17 |
+| Exit Through The Gift Shop | 0.20% | ~2 |
 | Fae Farmer | 0.10% | ~8 |
 | Cloverfield Island | 0.10% | ~8 |
 | Got to Catch Them All | 0.10% | ~8 |
@@ -39,17 +41,15 @@ Rating: 4.61 (Ranked 388)
 | Oui, Chef! | 0.10% | ~8 |
 | Botanical Breakthrough | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
-| House Proud | 0.10% | ~8 |
 | A Pal To All | 0.10% | ~1 |
 | Scroll Hunter | 0.10% | ~1 |
 | Polyglot | 0.10% | ~1 |
 | Splish-Splash | 0.10% | ~1 |
 | Azorian Hat Dance | 0.10% | ~1 |
 | Going Down | 0.10% | ~1 |
-| Exit Through The Gift Shop | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,445 (Ranked 177)  
+Progressed: 8,446 (Ranked 177)  
 Completed: 1 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,6 +162,7 @@ Completed: 1 (0.01%) (Ranked 353)
 | 2023-12-13 | 8,425 | 1 |
 | 2023-12-14 | 8,437 | 1 |
 | 2023-12-15 | 8,445 | 1 |
+| 2023-12-16 | 8,446 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "3a5c77a536854024add2714cbd0fa865",
   "Name": "RoboCop: Rogue City",
   "ProductSlug": "robocop-rogue-city",
-  "Ranking_Rating": 872,
+  "Ranking_Rating": 855,
   "Ranking_Popularity": 417,
   "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 291,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "robocop-rogue-city"
     }
   },
-  "Rating": 4.27,
+  "Rating": 4.29,
   "RatingHistory": [
     {
       "Time": "2023-11-07T18:58:52.6047076+00:00",
@@ -307,6 +307,12 @@
     {
       "Time": "2023-12-15T00:00:32.1568063+00:00",
       "Rating": 4.27,
+      "NumberOfAwards": 64,
+      "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2023-12-15T23:59:52.6922224+00:00",
+      "Rating": 4.29,
       "NumberOfAwards": 64,
       "NumberOfAwardsMax": 64
     }
@@ -1467,9 +1473,9 @@
   "FirstSeen": "2023-11-02T16:00:47.732778+00:00",
   "FirstSeenRating": "2023-11-07T18:58:52.6047074+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged": "2023-12-15T00:00:32.1568061+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:06:17.8079579+00:00",
+  "LastChanged": "2023-12-15T23:59:52.6922222+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:06:21.0330263+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:02.9393228+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:59:51.718727+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:06:17.8079811+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:59:52.6922228+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:06:21.0330682+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9670,10 +9670,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20514,
       "NumberOfAwardsMax": 7718
+    },
+    {
+      "Time": "2023-12-15T23:57:05.5434911+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20517,
+      "NumberOfAwardsMax": 7718
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20514,
+  "NumberOfAwards": 20517,
   "NumberOfAwardsMax": 7718,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9741,7 +9747,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1375
+      "Count": 1378
     },
     {
       "Text": "This game has a Creative Community",
@@ -9750,9 +9756,9 @@
       "Count": 1014
     }
   ],
-  "EOS_Progressed": 127439,
+  "EOS_Progressed": 127452,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1580,
+  "EOS_NewPlayers": 1591,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35215,6 +35221,11 @@
       "Time": "2023-12-15T23:08:56.8069019+00:00",
       "NumProgressed": 127439,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T00:07:09.2557807+00:00",
+      "NumProgressed": 127452,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35226,7 +35237,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -35234,7 +35245,7 @@
       "Name": "Serenity Now!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -35242,7 +35253,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -35354,7 +35365,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3823
+      "UsersEstimate": 3824
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35362,7 +35373,7 @@
       "Name": "Dissector",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "combat_kill_cosmic",
@@ -35498,7 +35509,7 @@
       "Name": "It Happens",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -35522,7 +35533,7 @@
       "Name": "Rush Hour",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -35530,7 +35541,7 @@
       "Name": "Merry Time",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -35538,7 +35549,7 @@
       "Name": "Harvest Festival",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -35546,7 +35557,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "driving_distance_easy",
@@ -35602,7 +35613,7 @@
       "Name": "Whale",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "hospital_full_service",
@@ -35618,7 +35629,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -35634,7 +35645,7 @@
       "Name": "FNG",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "inn_visit_all_variants",
@@ -35656,9 +35667,9 @@
       "ID": "relationships_all_positive_mountain",
       "SetID": "64l4lke",
       "Name": "Utopia",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 765
+      "UsersEstimate": 892
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -35674,7 +35685,7 @@
       "Name": "Nope",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "run_victory_act01",
@@ -35736,9 +35747,9 @@
       "ID": "stagecoach_upgrade_equip_all",
       "SetID": "64l4lke",
       "Name": "Road Trip",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1147
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -35762,7 +35773,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "combat_kill_collector",
@@ -35770,7 +35781,7 @@
       "Name": "This guy... again?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35818,7 +35829,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "quest_complete_crusader",
@@ -35826,7 +35837,7 @@
       "Name": "Lost and Found",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -35857,21 +35868,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127439,
+      "Progressed": 127452,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2308,
+      "Progressed": 2321,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-15T21:57:13.7923636+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:08:56.8069016+00:00",
+  "LastChanged": "2023-12-15T23:57:05.5434908+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:07:09.2557805+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:57:09.530132+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:08:56.8070623+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:57:05.5434916+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:07:09.2560374+00:00"
 }

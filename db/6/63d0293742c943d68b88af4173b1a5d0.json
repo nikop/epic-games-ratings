@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 405,
+  "EOS_Progressed": 406,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1264,6 +1264,11 @@
       "Time": "2023-12-15T19:03:47.6438368+00:00",
       "NumProgressed": 405,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T00:01:48.0925556+00:00",
+      "NumProgressed": 406,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1292,7 +1297,7 @@
       "Name": "What\u0027s Cooking?",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "6",
@@ -1332,7 +1337,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "REMAKE_002",
@@ -1348,7 +1353,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "Remake_005",
@@ -1364,7 +1369,7 @@
       "Name": "Attempted Vehicular Infanticide",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Remake_007",
@@ -1372,7 +1377,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "Remake_008",
@@ -1388,7 +1393,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "Remake_010",
@@ -1404,7 +1409,7 @@
       "Name": "Imma Powder Out",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Remake_12",
@@ -1499,14 +1504,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 405,
+      "Progressed": 406,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:03:52.2827317+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:01:48.0925553+00:00",
   "LastUpdate_AppInfo": "2023-12-11T23:56:59.5421023+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:59:34.0694139+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:03:52.2827587+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:59:35.8597492+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:01:48.0925824+00:00"
 }

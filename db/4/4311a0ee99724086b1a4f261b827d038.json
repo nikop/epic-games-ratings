@@ -737,9 +737,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 237781,
+  "EOS_Progressed": 237788,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1138,
+  "EOS_NewPlayers": 1137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17557,6 +17557,11 @@
       "Time": "2023-12-15T23:09:43.1686611+00:00",
       "NumProgressed": 237781,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T00:07:56.4521646+00:00",
+      "NumProgressed": 237788,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -17625,7 +17630,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49934
+      "UsersEstimate": 49935
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -17633,7 +17638,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21400
+      "UsersEstimate": 21401
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -17649,7 +17654,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9511
+      "UsersEstimate": 9512
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -17665,7 +17670,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7133
+      "UsersEstimate": 7134
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -17673,7 +17678,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7133
+      "UsersEstimate": 7134
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -17705,7 +17710,7 @@
       "Name": "Keepers of Sajuuk Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "HW2_MISSION11_COMPLETE",
@@ -17713,7 +17718,7 @@
       "Name": "Sacrifice Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "HW2_MISSION12_COMPLETE",
@@ -17753,7 +17758,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33289
+      "UsersEstimate": 33290
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -17801,7 +17806,7 @@
       "Name": "Derelicts Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "HW2_MISSION8_COMPLETE",
@@ -17809,7 +17814,7 @@
       "Name": "Dreadnaught Berth Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "HW2_MISSION9_COMPLETE",
@@ -17825,7 +17830,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59445
+      "UsersEstimate": 59447
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -17840,7 +17845,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 237781,
+      "Progressed": 237788,
       "Completed": 0
     }
   ],
@@ -17848,8 +17853,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-15T15:02:38.8127479+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:09:43.1686609+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:07:56.4521645+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:59.9211133+00:00",
-  "LastUpdate_Ratings": "2023-12-15T23:02:44.2964573+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:09:43.1687657+00:00"
+  "LastUpdate_Ratings": "2023-12-16T00:00:38.1497557+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:07:56.4522832+00:00"
 }

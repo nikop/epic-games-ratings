@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 374,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 443,
+  "EOS_Progressed": 444,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -498,6 +498,11 @@
       "Time": "2023-12-15T14:03:22.1497474+00:00",
       "NumProgressed": 443,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T00:01:21.3627788+00:00",
+      "NumProgressed": 444,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -525,7 +530,7 @@
       "Name": "Omae Wa Mou Shindeiru",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "collect-combos",
@@ -541,7 +546,7 @@
       "Name": "Frugal",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "collect-discounted-items2",
@@ -557,7 +562,7 @@
       "Name": "No Mercy",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "different-items1",
@@ -581,7 +586,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "finished-quest-cube",
@@ -589,7 +594,7 @@
       "Name": "Impossible Cube",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "finished-quest-flight",
@@ -613,7 +618,7 @@
       "Name": "Feed a God",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "finished-quest-pit",
@@ -645,7 +650,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "finished-quest-secret",
@@ -725,7 +730,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "win-first-level",
@@ -733,7 +738,7 @@
       "Name": "Good start!",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "win-koth-fights1",
@@ -788,7 +793,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 443,
+      "Progressed": 444,
       "Completed": 1
     }
   ],
@@ -796,8 +801,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:03:24.904455+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:01:21.3627785+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:47.7142412+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:58:50.0447465+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:03:24.9044788+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:58:50.068426+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:01:21.3628029+00:00"
 }

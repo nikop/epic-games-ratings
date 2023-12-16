@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4607,9 +4607,9 @@
       "Count": 401
     }
   ],
-  "EOS_Progressed": 12356,
+  "EOS_Progressed": 12359,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16992,6 +16992,11 @@
       "Time": "2023-12-15T23:09:42.8031858+00:00",
       "NumProgressed": 12356,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T00:07:56.2584381+00:00",
+      "NumProgressed": 12359,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17003,7 +17008,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3336
+      "UsersEstimate": 3337
     },
     {
       "ID": "02_BurningCity",
@@ -17011,7 +17016,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2224
+      "UsersEstimate": 2225
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -17059,7 +17064,7 @@
       "Name": "Path of the Angel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "09_PathOfDemon",
@@ -17139,7 +17144,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1853
+      "UsersEstimate": 1854
     },
     {
       "ID": "19_EqualToAroden",
@@ -17179,7 +17184,7 @@
       "Name": "Masterful Charge",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "24_Legacy",
@@ -17211,7 +17216,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "29_StrategicVictory",
@@ -17315,7 +17320,7 @@
       "Name": "Playful Mood",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "42_JustPathetic",
@@ -17331,7 +17336,7 @@
       "Name": "Dreadful Dragon",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "44_AshesToAshes",
@@ -17355,7 +17360,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -17930,21 +17935,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11138,
+      "Progressed": 11141,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12356,
+      "Progressed": 12359,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-15T21:58:59.5020076+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:09:42.8031855+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:07:56.2584379+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:58:47.2769224+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:09:42.8033454+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:58:47.0947603+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:07:56.2586681+00:00"
 }

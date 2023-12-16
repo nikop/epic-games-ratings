@@ -294,9 +294,9 @@
       "ID": "1",
       "SetID": "d37idgg",
       "Name": "Master trainee",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "10",
@@ -366,9 +366,9 @@
       "ID": "18",
       "SetID": "d37idgg",
       "Name": "Jung\u0027s dream",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "19",
@@ -382,9 +382,9 @@
       "ID": "2",
       "SetID": "d37idgg",
       "Name": "You have three wishes left",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "20",
@@ -470,9 +470,9 @@
       "ID": "3",
       "SetID": "d37idgg",
       "Name": "The battle of Great Britain",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "30",
@@ -510,17 +510,17 @@
       "ID": "34",
       "SetID": "d37idgg",
       "Name": "Pulp! Terror Tales in the Night",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "35",
       "SetID": "d37idgg",
       "Name": "Pulp! Where Monsters Dwell",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "36",
@@ -558,9 +558,9 @@
       "ID": "4",
       "SetID": "d37idgg",
       "Name": "A continent with chemistry",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "40",
@@ -677,8 +677,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:04:11.0122578+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:02:06.6613353+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:25.4412055+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:57:30.2644537+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:04:11.0122948+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:57:27.4706893+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:02:06.6613864+00:00"
 }

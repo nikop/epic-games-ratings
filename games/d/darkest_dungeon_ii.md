@@ -6,11 +6,11 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~138 |
-| This Belongs in a Museum | 3.00% | ~3,823 |
-| This guy... again? | 3.00% | ~69 |
-| Bloody Graduation | 3.00% | ~69 |
-| Lost and Found | 3.00% | ~69 |
+| Malpractice Assurance | 6.00% | ~139 |
+| This Belongs in a Museum | 3.00% | ~3,824 |
+| This guy... again? | 3.00% | ~70 |
+| Bloody Graduation | 3.00% | ~70 |
+| Lost and Found | 3.00% | ~70 |
 | Not Today! | 2.00% | ~2,549 |
 | Creep and Sleep | 2.00% | ~2,549 |
 | Meat and Greet | 2.00% | ~2,549 |
@@ -19,30 +19,30 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 2.00% | ~2,549 |
 | Autodidact | 2.00% | ~2,549 |
 | Ploughshares to Swords | 2.00% | ~46 |
-| Don't Make Me Turn This Coach Around | 1.00% | ~1,274 |
-| Serenity Now! | 1.00% | ~1,274 |
-| It Rings a Bell | 1.00% | ~1,274 |
-| Dissector | 1.00% | ~1,274 |
-| It Happens | 1.00% | ~1,274 |
-| Rush Hour | 1.00% | ~1,274 |
-| Merry Time | 1.00% | ~1,274 |
-| Harvest Festival | 1.00% | ~1,274 |
-| To Grandmother's House | 1.00% | ~1,274 |
-| Whale | 1.00% | ~1,274 |
-| A Place to Lay Your Head | 1.00% | ~1,274 |
-| FNG | 1.00% | ~1,274 |
-| Nope | 1.00% | ~1,274 |
+| Don't Make Me Turn This Coach Around | 1.00% | ~1,275 |
+| Serenity Now! | 1.00% | ~1,275 |
+| It Rings a Bell | 1.00% | ~1,275 |
+| Dissector | 1.00% | ~1,275 |
+| It Happens | 1.00% | ~1,275 |
+| Rush Hour | 1.00% | ~1,275 |
+| Merry Time | 1.00% | ~1,275 |
+| Harvest Festival | 1.00% | ~1,275 |
+| To Grandmother's House | 1.00% | ~1,275 |
+| Whale | 1.00% | ~1,275 |
+| A Place to Lay Your Head | 1.00% | ~1,275 |
+| FNG | 1.00% | ~1,275 |
+| Nope | 1.00% | ~1,275 |
 | Friends 'Til the End | 1.00% | ~23 |
 | Banishment | 0.90% | ~1,147 |
 | Deprogramming | 0.90% | ~1,147 |
 | Spelunker | 0.90% | ~1,147 |
 | Worldly Traveller | 0.90% | ~1,147 |
+| Road Trip | 0.90% | ~1,147 |
 | Unfulfilled Desires | 0.80% | ~1,020 |
 | Now Stay Dead | 0.80% | ~1,020 |
 | Reverse Banditry | 0.80% | ~1,020 |
 | Ramble On | 0.80% | ~1,020 |
 | Unshackled | 0.80% | ~1,020 |
-| Road Trip | 0.80% | ~1,020 |
 | Resurrection | 0.70% | ~892 |
 | Unleash Hell | 0.70% | ~892 |
 | Funny Guy | 0.70% | ~892 |
@@ -52,9 +52,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Predator | 0.70% | ~892 |
 | A Clear Conscience | 0.70% | ~892 |
 | When You Want Something Done Right | 0.70% | ~892 |
+| Utopia | 0.70% | ~892 |
 | Ichthyophobic | 0.60% | ~765 |
 | No More Mouths to Feed | 0.60% | ~765 |
-| Utopia | 0.60% | ~765 |
 | Hope Rekindled | 0.50% | ~637 |
 | Hot Air | 0.50% | ~637 |
 | Slap on the Wrist | 0.50% | ~12 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,439 (Ranked 84)  
+Progressed: 127,452 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,9 +316,10 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
+| 2023-12-16 | 127,452 | 3 |
 ## Awards
 Max (Character Customization): 7,718  (Ranked 51)  
-Sum: 20,514 (Ranked 58)  
+Sum: 20,517 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -328,7 +329,7 @@ Diff (max vs sum): -7
 | This game is Highly Recommended | 1,525 |
 | This game has Amazing Characters | 1,453 |
 | This game is Extremely Fun | 1,451 |
-| This game has Amazing Storytelling | 1,375 |
+| This game has Amazing Storytelling | 1,378 |
 | This game has Unique Visuals | 1,351 |
 | This game has Quickly Understood Controls | 1,346 |
 | This game has a Creative Community | 1,014 |
@@ -658,4 +659,4 @@ Diff (max vs sum): -7
 | 2023-12-12 | 4.68 | - | 7,622 | 20,221 |
 | 2023-12-13 | 4.68 | - | 7,665 | 20,333 |
 | 2023-12-14 | 4.68 | - | 7,689 | 20,427 |
-| 2023-12-15 | 4.68 | - | 7,718 | 20,514 |
+| 2023-12-15 | 4.68 | - | 7,718 | 20,517 |

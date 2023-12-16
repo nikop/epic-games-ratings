@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1358,
+  "EOS_Progressed": 1359,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
@@ -3182,6 +3182,11 @@
       "Time": "2023-12-15T23:04:34.652596+00:00",
       "NumProgressed": 1358,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T00:02:29.0894592+00:00",
+      "NumProgressed": 1359,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3200,9 +3205,9 @@
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "5k00jcd",
       "Name": "Acrobat",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -3464,9 +3469,9 @@
       "ID": "ML_ACHIEVEMENT_35",
       "SetID": "5k00jcd",
       "Name": "Extra gear",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -3561,20 +3566,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1358,
+      "Progressed": 1359,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1026,
+      "Progressed": 1027,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:04:34.6525958+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:02:29.089459+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:57:56.5777135+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:04:34.6526353+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:57:55.3927116+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:02:29.089526+00:00"
 }

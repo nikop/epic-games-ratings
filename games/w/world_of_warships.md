@@ -6,52 +6,52 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 78.00% | ~52,839 |
-| Initial Capital | 65.00% | ~44,032 |
-| Junior Supply Officer | 43.00% | ~29,129 |
-| Moneybags | 42.00% | ~28,452 |
-| Naval Warfare. Arson | 32.00% | ~21,677 |
-| Naval Warfare. Ramming | 31.00% | ~21,000 |
-| Amateur | 29.00% | ~19,645 |
-| Naval Warfare. Tactics | 29.00% | ~19,645 |
-| Naval Constructor | 29.00% | ~19,645 |
-| Naval Warfare. Weaponry Basics | 22.00% | ~14,903 |
-| Naval Warfare. Lucky Shot | 19.00% | ~12,871 |
-| Naval Warfare. Flooding | 18.00% | ~12,194 |
-| Battle Hero | 15.00% | ~10,161 |
-| Business Magnate | 15.00% | ~10,161 |
-| Warrior | 12.00% | ~8,129 |
-| Supply Officer | 12.00% | ~8,129 |
-| Smooth Supply | 12.00% | ~8,129 |
-| Veteran | 7.00% | ~4,742 |
-| Legend of the Seas | 3.00% | ~2,032 |
-| Chief Naval Architect | 3.00% | ~2,032 |
-| Important Missions | 3.00% | ~2,032 |
-| Shield | 3.00% | ~2,032 |
-| Senior Supply Officer | 2.00% | ~1,355 |
-| Weather Beaten | 2.00% | ~1,355 |
-| Guardian | 2.00% | ~1,355 |
-| Bane of the Oceans | 1.00% | ~677 |
-| "Science of Victory" | 1.00% | ~677 |
-| Old-Timer | 1.00% | ~677 |
-| Special Orders | 1.00% | ~677 |
-| Protector | 1.00% | ~677 |
-| Exterminator | 1.00% | ~677 |
-| American Cruisers | 1.00% | ~677 |
-| Secret Instructions | 0.60% | ~406 |
-| Raider | 0.60% | ~406 |
+| Junior Naval Designer | 78.00% | ~52,869 |
+| Initial Capital | 65.00% | ~44,058 |
+| Junior Supply Officer | 43.00% | ~29,146 |
+| Moneybags | 42.00% | ~28,468 |
+| Naval Warfare. Arson | 32.00% | ~21,690 |
+| Naval Warfare. Ramming | 31.00% | ~21,012 |
+| Amateur | 29.00% | ~19,656 |
+| Naval Warfare. Tactics | 29.00% | ~19,656 |
+| Naval Constructor | 29.00% | ~19,656 |
+| Naval Warfare. Weaponry Basics | 22.00% | ~14,912 |
+| Naval Warfare. Lucky Shot | 19.00% | ~12,878 |
+| Naval Warfare. Flooding | 18.00% | ~12,201 |
+| Battle Hero | 15.00% | ~10,167 |
+| Business Magnate | 15.00% | ~10,167 |
+| Warrior | 12.00% | ~8,134 |
+| Supply Officer | 12.00% | ~8,134 |
+| Smooth Supply | 12.00% | ~8,134 |
+| Veteran | 7.00% | ~4,745 |
+| Legend of the Seas | 3.00% | ~2,033 |
+| Chief Naval Architect | 3.00% | ~2,033 |
+| Important Missions | 3.00% | ~2,033 |
+| Shield | 3.00% | ~2,033 |
+| Senior Supply Officer | 2.00% | ~1,356 |
+| Weather Beaten | 2.00% | ~1,356 |
+| Guardian | 2.00% | ~1,356 |
+| Bane of the Oceans | 1.00% | ~678 |
+| "Science of Victory" | 1.00% | ~678 |
+| Old-Timer | 1.00% | ~678 |
+| Special Orders | 1.00% | ~678 |
+| Protector | 1.00% | ~678 |
+| Exterminator | 1.00% | ~678 |
+| American Cruisers | 1.00% | ~678 |
+| Secret Instructions | 0.60% | ~407 |
+| Raider | 0.60% | ~407 |
 | Experienced One | 0.50% | ~339 |
 | Ravager | 0.30% | ~203 |
 | "Yamamoto Isoroku" | 0.30% | ~203 |
 | "Yamamoto Isoroku" | 0.30% | ~203 |
-| "Honorable Service" | 0.20% | ~135 |
-| Hit Hard! Hit Fast! Hit Often! | 0.20% | ~135 |
+| "Honorable Service" | 0.20% | ~136 |
+| Hit Hard! Hit Fast! Hit Often! | 0.20% | ~136 |
 | "Science of Victory" with Honors | 0.10% | ~68 |
 | "Honorable Service" with Honors | 0.10% | ~68 |
 | "Yamamoto Isoroku" with Honors | 0.10% | ~68 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,742 (Ranked 107)  
+Progressed: 67,781 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,16 +176,17 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 66,300 | 0 |
 | 2023-12-14 | 67,016 | 0 |
 | 2023-12-15 | 67,742 | 0 |
+| 2023-12-16 | 67,781 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,599  (Ranked 127)  
-Sum: 13,378 (Ranked 78)  
+Sum: 13,380 (Ranked 78)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 1,599 |
 | This game is Relaxing | 1,597 |
 | This game has Challenging Combat | 1,573 |
-| This game has Competitive Players | 1,550 |
+| This game has Competitive Players | 1,552 |
 | This game is Extremely Fun | 1,550 |
 | This game is Highly Recommended | 1,534 |
 | This game has Realistic Visuals | 1,394 |
@@ -532,4 +533,4 @@ Diff (max vs sum): 49
 | 2023-12-12 | 4.41 | - | 1,590 | 13,298 |
 | 2023-12-13 | 4.41 | - | 1,596 | 13,332 |
 | 2023-12-14 | 4.41 | - | 1,597 | 13,362 |
-| 2023-12-15 | 4.41 | - | 1,599 | 13,378 |
+| 2023-12-15 | 4.41 | - | 1,599 | 13,380 |

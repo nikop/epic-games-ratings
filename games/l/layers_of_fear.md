@@ -8,11 +8,11 @@
 | Wanderer | 69.00% | ~86 |
 | A piece of the story | 57.00% | ~71 |
 | It's covered up for a reason | 44.00% | ~55 |
-| Do what you have to | 43.00% | ~54 |
+| Do what you have to | 44.00% | ~55 |
 | Scraps of love | 43.00% | ~54 |
 | The artist’s impression | 42.00% | ~52 |
-| Sign of weakness | 36.00% | ~45 |
-| Refuse to look | 35.00% | ~44 |
+| Sign of weakness | 37.00% | ~46 |
+| Refuse to look | 36.00% | ~45 |
 | Finished it | 29.00% | ~36 |
 | Face your fears | 27.00% | ~34 |
 | Whispers long forgotten | 16.00% | ~20 |

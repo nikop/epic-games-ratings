@@ -6,8 +6,8 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 275,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 978,
+  "EOS_Progressed": 979,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2659,6 +2659,11 @@
       "Time": "2023-12-15T23:09:32.3331917+00:00",
       "NumProgressed": 978,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-16T00:07:45.847415+00:00",
+      "NumProgressed": 979,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2678,7 +2683,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2934,7 +2939,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2942,7 +2947,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "PidgeDefeated",
@@ -2958,7 +2963,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "RewindParry",
@@ -2966,7 +2971,7 @@
       "Name": "Honest Mistake",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2974,7 +2979,7 @@
       "Name": "Golem Hunter",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ScrambotProgress1",
@@ -2998,7 +3003,7 @@
       "Name": "Fast Learner",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "SpeedRun",
@@ -3093,7 +3098,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 978,
+      "Progressed": 979,
       "Completed": 6
     }
   ],
@@ -3101,8 +3106,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:09:32.3331915+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:07:45.8474145+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-15T23:02:32.2072759+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:09:32.3332339+00:00"
+  "LastUpdate_Ratings": "2023-12-16T00:00:25.7658851+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:07:45.8474713+00:00"
 }

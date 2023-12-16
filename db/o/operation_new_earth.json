@@ -89,7 +89,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2031,
+  "EOS_Progressed": 2032,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -7739,6 +7739,11 @@
       "Time": "2023-12-15T19:04:36.6613798+00:00",
       "NumProgressed": 2031,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T00:02:35.5663179+00:00",
+      "NumProgressed": 2032,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7766,7 +7771,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ach_defeat_players_100",
@@ -7814,7 +7819,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -7926,7 +7931,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7998,7 +8003,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -8053,7 +8058,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2031,
+      "Progressed": 2032,
       "Completed": 1
     }
   ],
@@ -8061,8 +8066,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:04:41.1042614+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:02:35.5663176+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.3449014+00:00",
-  "LastUpdate_Ratings": "2023-12-15T23:02:34.4524269+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:04:41.1043129+00:00"
+  "LastUpdate_Ratings": "2023-12-16T00:00:28.3292397+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:02:35.5663954+00:00"
 }

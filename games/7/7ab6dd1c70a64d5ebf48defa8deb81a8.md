@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 35.00% | ~170 |
-| Trinity | 14.00% | ~68 |
-| Shatter Them All | 11.00% | ~53 |
+| Break Out | 35.00% | ~172 |
+| Trinity | 14.00% | ~69 |
+| Shatter Them All | 11.00% | ~54 |
 | A Taste of Wrath | 10.00% | ~49 |
+| Geared Up | 10.00% | ~49 |
 | Fashion Victim | 10.00% | ~49 |
 | I Found It | 10.00% | ~49 |
+| The Collector | 10.00% | ~49 |
 | Find Allies | 9.00% | ~44 |
-| Geared Up | 9.00% | ~44 |
-| The Collector | 9.00% | ~44 |
 | Adventurer | 8.00% | ~39 |
 | Tributes of Caladrias | 8.00% | ~39 |
 | Powerful Allies | 7.00% | ~34 |
 | Big Bazar | 7.00% | ~34 |
 | Scholar | 7.00% | ~34 |
 | Stone Collection | 7.00% | ~34 |
-| Essence Blow | 6.00% | ~29 |
-| The Mentor | 5.00% | ~24 |
-| Calm before the Storm | 4.00% | ~19 |
-| To Battle | 4.00% | ~19 |
-| Godslayer | 4.00% | ~19 |
-| Alchemist | 4.00% | ~19 |
+| The Mentor | 5.00% | ~25 |
+| Essence Blow | 5.00% | ~25 |
+| Calm before the Storm | 4.00% | ~20 |
+| To Battle | 4.00% | ~20 |
+| Godslayer | 4.00% | ~20 |
+| Alchemist | 4.00% | ~20 |
 | Clear Sight | 3.00% | ~15 |
 | Airborne | 3.00% | ~15 |
 | Shatterer | 3.00% | ~15 |
@@ -41,8 +41,8 @@
 | Shardbearer | 0.60% | ~3 |
 | Feeling Fancy | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 486 (Ranked 325)  
-Completed: 3 (0.62%) (Ranked 193)  
+Progressed: 491 (Ranked 323)  
+Completed: 3 (0.61%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,3 +106,4 @@ Completed: 3 (0.62%) (Ranked 193)
 | 2023-12-13 | 282 | 3 |
 | 2023-12-14 | 376 | 3 |
 | 2023-12-15 | 486 | 3 |
+| 2023-12-16 | 491 | 3 |

@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8445,
+  "EOS_Progressed": 8446,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8508,6 +8508,11 @@
       "Time": "2023-12-15T21:09:39.6776151+00:00",
       "NumProgressed": 8445,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T00:08:01.1089581+00:00",
+      "NumProgressed": 8446,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8694,9 +8699,9 @@
       "ID": "DISPATCH_THORNS",
       "SetID": "9eia0f5",
       "Name": "Bramble Breaker",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -8782,9 +8787,9 @@
       "ID": "UPGRADE_HOUSEMAX",
       "SetID": "9eia0f5",
       "Name": "House Proud",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
@@ -8854,22 +8859,22 @@
       "ID": "DLC1_ACHIEVEMENT_08",
       "SetID": "6p01o4j",
       "Name": "Exit Through The Gift Shop",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8445,
+      "Progressed": 8446,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1062,
+      "Progressed": 1063,
       "Completed": 1050
     }
   ],
@@ -8877,8 +8882,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-15T16:03:24.8361061+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:09:47.9977085+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:08:01.1089577+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-15T23:03:00.6954934+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:09:47.9977678+00:00"
+  "LastUpdate_Ratings": "2023-12-16T00:00:53.93394+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:08:01.1090605+00:00"
 }

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2579,
+  "EOS_Progressed": 2581,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6342,6 +6342,11 @@
       "Time": "2023-12-15T23:03:41.4279444+00:00",
       "NumProgressed": 2579,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T00:01:37.4894134+00:00",
+      "NumProgressed": 2581,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6354,7 +6359,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -6362,7 +6367,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -6370,7 +6375,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -6562,7 +6567,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -6610,7 +6615,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -6642,7 +6647,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -6706,7 +6711,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -6745,14 +6750,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2579,
+      "Progressed": 2581,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:03:41.4279442+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:01:37.4894131+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.7630663+00:00",
-  "LastUpdate_Ratings": "2023-12-15T23:00:07.8067764+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:03:41.4280035+00:00"
+  "LastUpdate_Ratings": "2023-12-16T00:00:10.9906979+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:01:37.4894946+00:00"
 }

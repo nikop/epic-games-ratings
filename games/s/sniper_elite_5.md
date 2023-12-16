@@ -1,17 +1,17 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.44 (Ranked 682)  
+Rating: 4.44 (Ranked 683)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,892 |
-| Confirming Suspicions | 42.00% | ~1,690 |
-| The Kraken Wakes | 37.00% | ~1,489 |
-| It's Starting to Crack | 34.00% | ~1,368 |
+| Confirming Suspicions | 42.00% | ~1,691 |
+| The Kraken Wakes | 37.00% | ~1,490 |
+| It's Starting to Crack | 34.00% | ~1,369 |
 | Change the Channel | 31.00% | ~1,248 |
 | Lord of War | 30.00% | ~1,208 |
-| Taking it back | 29.00% | ~1,167 |
+| Taking it back | 29.00% | ~1,168 |
 | Resourceful | 27.00% | ~1,087 |
 | Target America | 27.00% | ~1,087 |
 | The Kraken Sleeps | 25.00% | ~1,006 |
@@ -34,8 +34,8 @@ Rating: 4.44 (Ranked 682)
 | Enemy at the Gates | 14.00% | ~564 |
 | Fields of Glory | 14.00% | ~564 |
 | Set Europe Ablaze | 13.00% | ~523 |
-| Precision Is Key | 10.00% | ~402 |
-| My Little Friend | 10.00% | ~402 |
+| Precision Is Key | 10.00% | ~403 |
+| My Little Friend | 10.00% | ~403 |
 | Rigged to Blow | 9.00% | ~362 |
 | Herr Today, Gone Tomorrow | 7.00% | ~278 |
 | The Long Game | 6.00% | ~242 |
@@ -56,10 +56,10 @@ Rating: 4.44 (Ranked 682)
 | If You Go Down To The Woods Today | 3.00% | ~119 |
 | Fight Another Day | 3.00% | ~119 |
 | Shipbreaker | 3.00% | ~119 |
-| Out of Scope | 2.00% | ~80 |
-| Eagle Eyed | 2.00% | ~80 |
-| Up close and personal | 2.00% | ~80 |
-| Can't Outrun A Bullet | 2.00% | ~80 |
+| Out of Scope | 2.00% | ~81 |
+| Eagle Eyed | 2.00% | ~81 |
+| Up close and personal | 2.00% | ~81 |
+| Can't Outrun A Bullet | 2.00% | ~81 |
 | Führerious Repetition | 2.00% | ~80 |
 | Reich To The Point | 2.00% | ~80 |
 | Covert Elimination | 2.00% | ~80 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 682)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,025 (Ranked 200)  
+Progressed: 4,026 (Ranked 200)  
 Completed: 11 (0.27%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,6 +315,7 @@ Completed: 11 (0.27%) (Ranked 248)
 | 2023-12-13 | 4,009 | 11 |
 | 2023-12-14 | 4,017 | 11 |
 | 2023-12-15 | 4,025 | 11 |
+| 2023-12-16 | 4,026 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 512)  
 Sum: 28 (Ranked 528)  

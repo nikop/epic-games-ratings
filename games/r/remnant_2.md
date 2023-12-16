@@ -5,27 +5,27 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 3.00% | ~7,367 |
-| First of Many | 2.00% | ~4,911 |
-| Not Your Average Trait | 2.00% | ~4,911 |
+| The Killing Jar | 3.00% | ~7,368 |
+| First of Many | 2.00% | ~4,912 |
+| Not Your Average Trait | 2.00% | ~4,912 |
 | Expanding Horizons | 1.00% | ~2,456 |
 | Quest for Survival | 1.00% | ~2,456 |
 | Familiar Face | 1.00% | ~2,456 |
-| Boss'n Up | 0.90% | ~2,210 |
-| Regicide | 0.90% | ~222 |
-| Gleaming the Cube | 0.80% | ~1,964 |
-| Not a Janitor | 0.80% | ~1,964 |
-| Trait Chaser | 0.80% | ~1,964 |
+| Boss'n Up | 0.90% | ~2,211 |
+| Regicide | 0.90% | ~223 |
+| Gleaming the Cube | 0.80% | ~1,965 |
+| Not a Janitor | 0.80% | ~1,965 |
+| Trait Chaser | 0.80% | ~1,965 |
 | Master of the Dark Arts | 0.80% | ~198 |
 | Not So Special Now | 0.70% | ~1,719 |
 | Equal Measures | 0.70% | ~1,719 |
 | Blue Goddess | 0.70% | ~1,719 |
 | Duality | 0.70% | ~1,719 |
-| Top Performer | 0.60% | ~1,473 |
-| Was This Supposed To Happen? | 0.60% | ~1,473 |
-| Almost There | 0.60% | ~1,473 |
-| Make Some Room | 0.60% | ~1,473 |
-| Good, But Could Be Better! | 0.60% | ~1,473 |
+| Top Performer | 0.60% | ~1,474 |
+| Was This Supposed To Happen? | 0.60% | ~1,474 |
+| Almost There | 0.60% | ~1,474 |
+| Make Some Room | 0.60% | ~1,474 |
+| Good, But Could Be Better! | 0.60% | ~1,474 |
 | Am I Seeing This? | 0.50% | ~1,228 |
 | Chaos | 0.50% | ~1,228 |
 | Power Surge | 0.50% | ~1,228 |
@@ -57,11 +57,11 @@ Rating: 4.75 (Ranked 150)
 | The Collector | 0.20% | ~491 |
 | Proving Grounds | 0.20% | ~491 |
 | Maxed Out! | 0.20% | ~491 |
-| Succession | 0.20% | ~49 |
-| You Shall Pass | 0.20% | ~49 |
+| Succession | 0.20% | ~50 |
+| You Shall Pass | 0.20% | ~50 |
 | A Foul Feast | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,556 (Ranked 63)  
+Progressed: 245,613 (Ranked 63)  
 Completed: 588 (0.24%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,6 +214,7 @@ Completed: 588 (0.24%) (Ranked 254)
 | 2023-12-13 | 239,544 | 584 |
 | 2023-12-14 | 242,166 | 585 |
 | 2023-12-15 | 245,556 | 588 |
+| 2023-12-16 | 245,613 | 588 |
 ## Awards
 Max (Great Boss Battles): 2,779  (Ranked 101)  
 Sum: 6,979 (Ranked 125)  

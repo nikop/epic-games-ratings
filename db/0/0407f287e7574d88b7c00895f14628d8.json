@@ -240,9 +240,9 @@
       "ID": "f1",
       "SetID": "b1ggf28",
       "Name": "Agriculture Tycoon",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "f2",
@@ -264,9 +264,9 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "fw2",
@@ -288,9 +288,9 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 46,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "g2",
@@ -408,9 +408,9 @@
       "ID": "k1",
       "SetID": "b1ggf28",
       "Name": "Advanced Technology",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "k2",
@@ -599,8 +599,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:03:59.349438+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:01:55.1441509+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-15T23:02:42.027509+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:03:59.349494+00:00"
+  "LastUpdate_Ratings": "2023-12-16T00:00:35.8337065+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:01:55.1441886+00:00"
 }

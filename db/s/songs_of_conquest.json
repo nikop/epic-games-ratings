@@ -5,9 +5,9 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 518,
   "Ranking_PopularitySum": 410,
-  "Ranking_EOS_Progress": 324,
+  "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -2432,9 +2432,9 @@
       "ID": "WinSiegeAsAttacker",
       "SetID": "71c0n9i",
       "Name": "Veni, Vidi, Vici",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -2488,8 +2488,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:08:23.6055093+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:06:35.7266917+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:59:11.2692165+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:08:23.6055479+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:59:11.830472+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:06:35.7267417+00:00"
 }

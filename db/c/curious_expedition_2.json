@@ -5,9 +5,9 @@
   "Ranking_Rating": 174,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 350,
-  "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_Progress": 349,
+  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,11 +70,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 350,
+  "EOS_Progressed": 351,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.29,
+  "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:50.9590463+00:00",
@@ -375,6 +375,11 @@
       "Time": "2023-12-15T21:09:41.4775053+00:00",
       "NumProgressed": 350,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T00:08:02.8654711+00:00",
+      "NumProgressed": 351,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -450,7 +455,7 @@
       "Name": "A Familiar Figure",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach-butterflies",
@@ -490,7 +495,7 @@
       "Name": "Lunatic",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach-campaign-finish-normal",
@@ -498,7 +503,7 @@
       "Name": "Adventurer",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ach-campaign-noDeath",
@@ -522,7 +527,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ach-campaign-story2",
@@ -546,7 +551,7 @@
       "Name": "A Perfect Map",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach-diceChallenges",
@@ -562,7 +567,7 @@
       "Name": "Cartographer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ach-discover-locations-high",
@@ -578,7 +583,7 @@
       "Name": "Under the Table",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ach-environmentKill",
@@ -594,7 +599,7 @@
       "Name": "Red Flag Pirate",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ach-find-treasure-high",
@@ -610,7 +615,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ach-hardExpeditions",
@@ -618,7 +623,7 @@
       "Name": "Risk/Reward",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach-interspeciesLove",
@@ -650,7 +655,7 @@
       "Name": "Taxonomist",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ach-kill-hyenas",
@@ -722,7 +727,7 @@
       "Name": "Look Ma, No Equipment!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach-noRest",
@@ -730,7 +735,7 @@
       "Name": "Insomnia",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ach-pacifist-goals",
@@ -778,7 +783,7 @@
       "Name": "Good Mama",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ach-redElk",
@@ -826,7 +831,7 @@
       "Name": "I Set Forth Again... and Again... and Again...",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach-treasureFameInExpedition",
@@ -858,14 +863,14 @@
       "Name": "Dapper",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     }
   ],
   "AchievementSets": [
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 350,
+      "Progressed": 351,
       "Completed": 1
     }
   ],
@@ -873,8 +878,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:09:49.8026187+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:08:02.8654708+00:00",
   "LastUpdate_AppInfo": "2023-12-09T12:59:37.4155215+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:57:19.6240398+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:09:49.8026622+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:57:16.8069743+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:08:02.8655304+00:00"
 }

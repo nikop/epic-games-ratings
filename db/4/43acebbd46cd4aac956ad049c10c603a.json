@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 995,
+  "EOS_Progressed": 996,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2552,6 +2552,11 @@
       "Time": "2023-12-15T23:06:01.9195493+00:00",
       "NumProgressed": 995,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T00:06:05.3767124+00:00",
+      "NumProgressed": 996,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2570,9 +2575,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 179
     },
     {
       "ID": "AnthropicHills",
@@ -2628,7 +2633,7 @@
       "Name": "Chasing the Light",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Chicken",
@@ -2780,7 +2785,7 @@
       "Name": "Museum Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "MuseumVisitor",
@@ -2828,7 +2833,7 @@
       "Name": "Persistent",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "PrometheusUnbound",
@@ -2844,7 +2849,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "RemnantsOfThePast",
@@ -2876,7 +2881,7 @@
       "Name": "Signatory",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "SingleRod",
@@ -3035,7 +3040,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 995,
+      "Progressed": 996,
       "Completed": 1
     }
   ],
@@ -3043,8 +3048,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:06:01.9195491+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:06:05.3767121+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:57:19.8544065+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:06:01.9195945+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:57:17.0541824+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:06:05.3767828+00:00"
 }

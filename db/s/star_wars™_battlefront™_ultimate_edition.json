@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 239,
+  "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 136,
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1755,
+  "EOS_Progressed": 1757,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5279,6 +5279,11 @@
       "Time": "2023-12-15T23:09:50.2665404+00:00",
       "NumProgressed": 1755,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T00:08:03.3413383+00:00",
+      "NumProgressed": 1757,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5385,9 +5390,9 @@
       "ID": "achievement_20",
       "SetID": "271ol84",
       "Name": "Collector",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_21",
@@ -5467,7 +5472,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_30",
@@ -5483,7 +5488,7 @@
       "Name": "Scrap collector",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "achievement_32",
@@ -5491,7 +5496,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "achievement_33",
@@ -5515,7 +5520,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1564
     },
     {
       "ID": "achievement_36",
@@ -5531,7 +5536,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1160
     },
     {
       "ID": "achievement_38",
@@ -5555,7 +5560,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "achievement_40",
@@ -5563,7 +5568,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "achievement_41",
@@ -5595,7 +5600,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "achievement_45",
@@ -5731,7 +5736,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "achievement_60",
@@ -5771,7 +5776,7 @@
       "Name": "A cunning warrior",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_8",
@@ -5794,13 +5799,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1755,
+      "Progressed": 1757,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1755,
+      "Progressed": 1757,
       "Completed": 1
     }
   ],
@@ -5808,8 +5813,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-15T23:09:50.2665403+00:00",
+  "LastChanged_Achievements": "2023-12-16T00:08:03.341338+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:12.6035488+00:00",
-  "LastUpdate_Ratings": "2023-12-15T22:58:47.2688078+00:00",
-  "LastUpdate_Achievements": "2023-12-15T23:09:50.266615+00:00"
+  "LastUpdate_Ratings": "2023-12-15T23:58:47.0374035+00:00",
+  "LastUpdate_Achievements": "2023-12-16T00:08:03.3414346+00:00"
 }
