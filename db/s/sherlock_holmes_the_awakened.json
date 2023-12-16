@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1191,
+  "EOS_Progressed": 1192,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.6,
   "EosHistory": [
@@ -4087,6 +4087,11 @@
       "Time": "2023-12-16T00:01:57.1972921+00:00",
       "NumProgressed": 1191,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-12-16T01:49:15.4442262+00:00",
+      "NumProgressed": 1192,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 28,
@@ -4098,7 +4103,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "MQ01_2",
@@ -4106,7 +4111,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "MQ02_1",
@@ -4114,7 +4119,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "MQ02_2",
@@ -4130,7 +4135,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "MQ02_4",
@@ -4138,15 +4143,15 @@
       "Name": "Whispers In The Dark",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 596
+      "UsersEstimate": 584
     },
     {
       "ID": "MQ03_2",
@@ -4154,7 +4159,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "MQ03_3",
@@ -4170,7 +4175,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "MQ03_5",
@@ -4210,7 +4215,7 @@
       "Name": "Open Sesame",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "MQ05_2",
@@ -4218,7 +4223,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "MQ05_3",
@@ -4226,7 +4231,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "MQ05_4",
@@ -4234,7 +4239,7 @@
       "Name": "Knives Out",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "MQ06_1",
@@ -4242,7 +4247,7 @@
       "Name": "Brain Food",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "MQ06_2",
@@ -4258,7 +4263,7 @@
       "Name": "Land, Ho!",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "MQ06_4",
@@ -4266,7 +4271,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "MQ07_1",
@@ -4274,7 +4279,7 @@
       "Name": "Read It And Weep",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "MQ07_2",
@@ -4282,7 +4287,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "MQ08_1",
@@ -4290,7 +4295,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "MQ08_2",
@@ -4321,7 +4326,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1191,
+      "Progressed": 1192,
       "Completed": 31
     }
   ],
@@ -4329,8 +4334,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-14T11:03:29.6730885+00:00",
-  "LastChanged_Achievements": "2023-12-16T00:01:57.1972917+00:00",
+  "LastChanged_Achievements": "2023-12-16T01:49:15.444226+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-16T00:00:50.5439364+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:01:57.1973541+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:48:05.1135875+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:49:15.4442828+00:00"
 }

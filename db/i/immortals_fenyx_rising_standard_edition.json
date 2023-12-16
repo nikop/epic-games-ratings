@@ -4,10 +4,10 @@
   "ProductSlug": "immortals-fenyx-rising",
   "Ranking_Rating": 420,
   "Ranking_Popularity": 174,
-  "Ranking_PopularitySum": 248,
+  "Ranking_PopularitySum": 247,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 512,
+  "Ranking_EOS_NewPlayers": 514,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2020-12-03T16:00:00+00:00",
@@ -2302,10 +2302,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 1249,
       "NumberOfAwardsMax": 815
+    },
+    {
+      "Time": "2023-12-16T01:42:42.9090779+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1250,
+      "NumberOfAwardsMax": 815
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1249,
+  "NumberOfAwards": 1250,
   "NumberOfAwardsMax": 815,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2319,7 +2325,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 68
+      "Count": 69
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2381,8 +2387,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2023-12-15T23:57:29.33105+00:00",
+  "LastChanged": "2023-12-16T01:42:42.9090777+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:51.3852311+00:00",
-  "LastUpdate_Ratings": "2023-12-15T23:57:29.3310505+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:01:27.859728+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:42:42.9090783+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:48:44.9460051+00:00"
 }

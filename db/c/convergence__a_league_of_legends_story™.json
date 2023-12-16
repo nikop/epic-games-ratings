@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 979,
+  "EOS_Progressed": 981,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2664,6 +2664,11 @@
       "Time": "2023-12-16T00:07:45.847415+00:00",
       "NumProgressed": 979,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-16T01:54:38.687934+00:00",
+      "NumProgressed": 981,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2691,7 +2696,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ChestCompletion1",
@@ -2747,7 +2752,7 @@
       "Name": "Street Style",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "CultivairChests1",
@@ -2771,7 +2776,7 @@
       "Name": "Family Memories",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "FactorywoodChests1",
@@ -2795,7 +2800,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2811,7 +2816,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "GadgetCompletion1",
@@ -2825,9 +2830,9 @@
       "ID": "GadgetProgress1",
       "SetID": "a9e499d",
       "Name": "Whiz Kid",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 137
     },
     {
       "ID": "GrindingTime1",
@@ -2835,15 +2840,15 @@
       "Name": "Rail Rat",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "HexlockGift",
       "SetID": "a9e499d",
       "Name": "Hexlock for Protection",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 59
     },
     {
       "ID": "InxChromaInTheatre",
@@ -2859,7 +2864,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "LacunaCompleted",
@@ -2867,7 +2872,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "MapCompletion1",
@@ -2915,7 +2920,7 @@
       "Name": "Time Flies",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ParryBoss",
@@ -2923,7 +2928,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ParryRepeated1",
@@ -2931,7 +2936,7 @@
       "Name": "No, Thanks!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2955,7 +2960,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "RewindDamage1",
@@ -3051,7 +3056,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "WarwickDefeated",
@@ -3059,7 +3064,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "WatcherFought",
@@ -3067,7 +3072,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "WatcherSpared",
@@ -3075,7 +3080,7 @@
       "Name": "Good Neighbor",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Zarkon1Defeated",
@@ -3083,7 +3088,7 @@
       "Name": "The Brass Boss",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3091,14 +3096,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 979,
+      "Progressed": 981,
       "Completed": 6
     }
   ],
@@ -3106,8 +3111,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-16T00:07:45.8474145+00:00",
+  "LastChanged_Achievements": "2023-12-16T01:54:38.6879337+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-16T00:00:25.7658851+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:07:45.8474713+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:47:38.4539561+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:54:38.687973+00:00"
 }

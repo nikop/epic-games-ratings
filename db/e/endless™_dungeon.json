@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1336,
+  "EOS_Progressed": 1337,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
@@ -2635,6 +2635,11 @@
       "Time": "2023-12-15T22:04:57.2379526+00:00",
       "NumProgressed": 1336,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T01:50:08.6480158+00:00",
+      "NumProgressed": 1337,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2727,7 +2732,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -2741,17 +2746,17 @@
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
       "SetID": "9991201",
       "Name": "Getting the Hang of It",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 562
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
       "SetID": "9991201",
       "Name": "Obsessively Thorough",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -2886,14 +2891,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1336,
+      "Progressed": 1337,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-16T00:02:48.187396+00:00",
+  "LastChanged_Achievements": "2023-12-16T01:50:08.6480154+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.2067733+00:00",
-  "LastUpdate_Ratings": "2023-12-16T00:00:34.8956517+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:02:48.1874445+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:47:47.6868753+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:50:08.6480405+00:00"
 }

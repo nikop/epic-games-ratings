@@ -6,26 +6,26 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,900 |
-| Ready for Winter | 64.00% | ~2,475 |
-| Ready for Summer | 51.00% | ~1,972 |
-| Cordon Bleu | 44.00% | ~1,701 |
-| Tapped! | 37.00% | ~1,431 |
-| Eureka | 32.00% | ~1,237 |
-| Scourge Slayer | 26.00% | ~1,005 |
-| Science, Troglodyte! | 24.00% | ~928 |
-| Exceptional Skill | 23.00% | ~889 |
-| Home Sweet Home | 22.00% | ~851 |
-| Encyclopedic! | 20.00% | ~773 |
-| The Power of Family | 17.00% | ~657 |
-| A Fortress Toppled! | 16.00% | ~619 |
-| Apex Predator | 16.00% | ~619 |
-| Strange amalgams | 12.00% | ~464 |
-| The Power of Faith | 12.00% | ~464 |
+| Venture Outward | 75.00% | ~2,906 |
+| Ready for Winter | 64.00% | ~2,479 |
+| Ready for Summer | 51.00% | ~1,976 |
+| Cordon Bleu | 44.00% | ~1,705 |
+| Tapped! | 37.00% | ~1,433 |
+| Eureka | 32.00% | ~1,240 |
+| Scourge Slayer | 26.00% | ~1,007 |
+| Science, Troglodyte! | 24.00% | ~930 |
+| Exceptional Skill | 23.00% | ~891 |
+| Home Sweet Home | 22.00% | ~852 |
+| Encyclopedic! | 20.00% | ~775 |
+| The Power of Family | 17.00% | ~659 |
+| A Fortress Toppled! | 16.00% | ~620 |
+| Apex Predator | 16.00% | ~620 |
+| Strange amalgams | 12.00% | ~465 |
+| The Power of Faith | 12.00% | ~465 |
 | The Power of Freedom | 10.00% | ~387 |
-| Ace Detective | 8.00% | ~309 |
-| Gift from the Ancestors | 8.00% | ~309 |
-| Magic is a science | 8.00% | ~309 |
+| Ace Detective | 8.00% | ~310 |
+| Gift from the Ancestors | 8.00% | ~310 |
+| Magic is a science | 8.00% | ~310 |
 | House of Cards | 7.00% | ~271 |
 | Let ‘em eat magma! | 7.00% | ~271 |
 | The power of ambition | 7.00% | ~271 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~12 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,867 (Ranked 203)  
+Progressed: 3,874 (Ranked 203)  
 Completed: 5 (0.13%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,11 +275,11 @@ Completed: 5 (0.13%) (Ranked 283)
 | 2023-12-13 | 3,741 | 4 |
 | 2023-12-14 | 3,790 | 4 |
 | 2023-12-15 | 3,863 | 5 |
-| 2023-12-16 | 3,867 | 5 |
+| 2023-12-16 | 3,874 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 483)  
-Sum: 246 (Ranked 387)  
-Diff (max vs sum): 96  
+Sum: 246 (Ranked 388)  
+Diff (max vs sum): 95  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

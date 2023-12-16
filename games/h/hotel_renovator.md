@@ -1,25 +1,25 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.38 (Ranked 770)  
+Rating: 4.39 (Ranked 758)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~906 |
-| And so it begins | 72.00% | ~858 |
-| No pressure | 70.00% | ~834 |
-| Memento | 61.00% | ~727 |
-| Let there be light | 59.00% | ~703 |
+| Good start | 76.00% | ~907 |
+| And so it begins | 73.00% | ~871 |
+| No pressure | 70.00% | ~835 |
+| Memento | 61.00% | ~728 |
+| Let there be light | 59.00% | ~704 |
 | I think you dropped this | 54.00% | ~644 |
 | Soulmate? | 53.00% | ~632 |
-| Excellent service | 49.00% | ~584 |
-| Roll with it | 47.00% | ~560 |
-| Humble beginnings | 44.00% | ~524 |
+| Excellent service | 49.00% | ~585 |
+| Roll with it | 47.00% | ~561 |
+| Humble beginnings | 44.00% | ~525 |
 | Love is in the air | 43.00% | ~513 |
 | Fine, I'll do it myself | 42.00% | ~501 |
 | Moving up | 42.00% | ~501 |
 | No need to call anyone | 40.00% | ~477 |
-| Big fortune | 33.00% | ~393 |
+| Big fortune | 33.00% | ~394 |
 | Still more work ahead | 30.00% | ~358 |
 | Aesop's fable | 29.00% | ~346 |
 | Hotel sleuthing | 28.00% | ~334 |
@@ -27,13 +27,13 @@ Rating: 4.38 (Ranked 770)
 | Nearly there | 26.00% | ~310 |
 | Broken heart | 24.00% | ~286 |
 | Island boy | 22.00% | ~262 |
-| You're a star | 21.00% | ~250 |
-| Unstoppable | 19.00% | ~226 |
-| Reunited | 19.00% | ~226 |
+| You're a star | 21.00% | ~251 |
+| Unstoppable | 19.00% | ~227 |
+| Reunited | 19.00% | ~227 |
 | King of hospitality | 11.00% | ~131 |
 | Top spot in town | 3.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,192 (Ranked 259)  
+Progressed: 1,193 (Ranked 259)  
 Completed: 18 (1.51%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,6 +219,7 @@ Completed: 18 (1.51%) (Ranked 144)
 | 2023-12-13 | 1,161 | 18 |
 | 2023-12-14 | 1,174 | 18 |
 | 2023-12-15 | 1,192 | 18 |
+| 2023-12-16 | 1,193 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -254,3 +255,4 @@ Completed: 18 (1.51%) (Ranked 144)
 | 2023-11-06 | 4.38 | 0 | 0 |
 | 2023-11-30 | 4.39 | 0 | 0 |
 | 2023-12-04 | 4.38 | 0 | 0 |
+| 2023-12-16 | 4.39 | 0 | 0 |

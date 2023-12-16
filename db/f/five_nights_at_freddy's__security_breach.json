@@ -4,10 +4,10 @@
   "ProductSlug": "five-nights-at-freddys-security-breach-8dee2a",
   "Ranking_Rating": 388,
   "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 398,
+  "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 512,
+  "Ranking_EOS_NewPlayers": 514,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-03-01T00:00:00+00:00",
@@ -986,10 +986,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 220,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-12-16T01:43:34.635082+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 221,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 220,
+  "NumberOfAwards": 221,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1051,7 +1057,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 24
+      "Count": 25
     }
   ],
   "EOS_Progressed": 0,
@@ -1065,8 +1071,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:10.1176223+00:00",
-  "LastChanged": "2023-12-14T08:57:58.5840844+00:00",
+  "LastChanged": "2023-12-16T01:43:34.6350818+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:52.6284537+00:00",
-  "LastUpdate_Ratings": "2023-12-15T23:58:20.819157+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:01:46.7043664+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:43:34.6350824+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:49:04.8437607+00:00"
 }

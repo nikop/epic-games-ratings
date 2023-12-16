@@ -4,7 +4,7 @@
   "ProductSlug": "necrovision-657441",
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 512,
+  "Ranking_EOS_NewPlayers": 514,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-05-11T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-16T18:56:56.7810848+00:00",
   "LastUpdate_AppInfo": "2023-12-15T09:57:07.3527103+00:00",
-  "LastUpdate_Ratings": "2023-12-15T23:58:34.4206962+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:05:22.6263671+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:43:49.0587899+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:50:32.5657265+00:00"
 }

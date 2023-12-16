@@ -2,9 +2,9 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 464,
+  "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 90,
+  "EOS_Progressed": 91,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -419,6 +419,11 @@
       "Time": "2023-12-16T00:06:24.0142089+00:00",
       "NumProgressed": 90,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T01:53:15.3993713+00:00",
+      "NumProgressed": 91,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -431,7 +436,7 @@
       "Name": "A mystery? No! A trifle for Poirot!",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "10",
@@ -493,7 +498,7 @@
       "ID": "17",
       "SetID": "6bgoh8g",
       "Name": "Master Chess",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -517,7 +522,7 @@
       "ID": "2",
       "SetID": "6bgoh8g",
       "Name": "I do not like your face, Mr Ratchett",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -637,7 +642,7 @@
       "ID": "9",
       "SetID": "6bgoh8g",
       "Name": "Encore!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 5
     }
@@ -646,14 +651,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 90,
+      "Progressed": 91,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-16T00:06:24.0142086+00:00",
+  "LastChanged_Achievements": "2023-12-16T01:53:15.399371+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:22.4243212+00:00",
-  "LastUpdate_Ratings": "2023-12-16T00:00:47.7042955+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:06:24.0142291+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:48:01.9714466+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:53:15.3993884+00:00"
 }

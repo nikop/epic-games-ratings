@@ -3,7 +3,7 @@
   "Name": "Californium",
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 512,
+  "Ranking_EOS_NewPlayers": 514,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:31.7996006+00:00",
-  "LastUpdate_Ratings": "2023-12-15T23:59:06.5536732+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:01:37.8446331+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:44:21.5543298+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:48:55.2057545+00:00"
 }

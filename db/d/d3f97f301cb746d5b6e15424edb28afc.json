@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -3655,9 +3655,9 @@
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 3",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 493
     },
     {
       "ID": "GSS_ACH_54_UPGRADE_WORKSHOP_04",
@@ -3904,8 +3904,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-15T16:57:11.4281266+00:00",
-  "LastChanged_Achievements": "2023-12-16T00:02:11.4123402+00:00",
+  "LastChanged_Achievements": "2023-12-16T01:49:30.1734676+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-15T23:57:32.1771507+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:02:11.412432+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:42:45.977876+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:49:30.1735681+00:00"
 }

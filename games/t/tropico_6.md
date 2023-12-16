@@ -6,36 +6,36 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,784 |
-| Un-Lonely Island | 46.00% | ~2,934 |
-| The Beginning of a Servantship | 44.00% | ~2,806 |
-| Trade Is My Trait | 37.00% | ~2,360 |
-| Number 18 | 23.00% | ~1,467 |
-| We Don't Have Time For That | 19.00% | ~1,212 |
-| The Governator | 17.00% | ~1,084 |
-| The Legend of Langostino | 16.00% | ~1,020 |
-| Caribbean Comrade | 15.00% | ~957 |
-| The Dreamer of Dreams | 15.00% | ~957 |
+| Just One...More...Term... | 75.00% | ~4,788 |
+| Un-Lonely Island | 46.00% | ~2,937 |
+| The Beginning of a Servantship | 44.00% | ~2,809 |
+| Trade Is My Trait | 37.00% | ~2,362 |
+| Number 18 | 23.00% | ~1,468 |
+| We Don't Have Time For That | 19.00% | ~1,213 |
+| The Governator | 17.00% | ~1,085 |
+| The Legend of Langostino | 16.00% | ~1,021 |
+| Caribbean Comrade | 15.00% | ~958 |
+| The Dreamer of Dreams | 15.00% | ~958 |
 | Go Sovereigns! | 11.00% | ~702 |
 | For Science! | 11.00% | ~702 |
 | Happy Ending? | 10.00% | ~638 |
-| Of Seals And Men | 9.00% | ~574 |
-| Shackadelic | 9.00% | ~574 |
-| Double Trouble | 8.00% | ~510 |
-| Firestarter | 8.00% | ~510 |
-| I Owe You Nothing | 7.00% | ~446 |
-| Make Tropico Great Again! | 7.00% | ~446 |
-| French Connection | 7.00% | ~446 |
+| Of Seals And Men | 9.00% | ~575 |
+| Shackadelic | 9.00% | ~575 |
+| Double Trouble | 8.00% | ~511 |
+| Firestarter | 8.00% | ~511 |
+| I Owe You Nothing | 7.00% | ~447 |
+| Make Tropico Great Again! | 7.00% | ~447 |
+| French Connection | 7.00% | ~447 |
 | Don't Panic! | 6.00% | ~383 |
 | Beware The Betman | 6.00% | ~383 |
 | Viva Tropico! | 5.00% | ~319 |
 | Computer Says "No" | 5.00% | ~319 |
 | Watch The World Burn | 5.00% | ~319 |
 | Fairy Tale Come True | 5.00% | ~319 |
-| Been there, Done That | 3.00% | ~191 |
-| Apocalypso | 3.00% | ~191 |
-| Narcissist | 3.00% | ~191 |
-| The Time For Wonders | 3.00% | ~191 |
+| Been there, Done That | 3.00% | ~192 |
+| Apocalypso | 3.00% | ~192 |
+| Narcissist | 3.00% | ~192 |
+| The Time For Wonders | 3.00% | ~192 |
 | One Does Not Simply Stage A Coup | 2.00% | ~128 |
 | Promising Endeavors | 2.00% | ~128 |
 | Sublime Subliminal Supreme | 2.00% | ~128 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~51 |
 | My Ways | 0.30% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,378 (Ranked 188)  
+Progressed: 6,384 (Ranked 188)  
 Completed: 2 (0.03%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 2 (0.03%) (Ranked 338)
 | 2023-12-13 | 6,313 | 2 |
 | 2023-12-14 | 6,351 | 2 |
 | 2023-12-15 | 6,377 | 2 |
-| 2023-12-16 | 6,378 | 2 |
+| 2023-12-16 | 6,384 | 2 |
 ## Awards
 Max (Highly Recommended): 104  (Ranked 365)  
 Sum: 739 (Ranked 295)  

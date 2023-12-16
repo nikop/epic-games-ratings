@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -836,9 +836,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5541,
+  "EOS_Progressed": 5542,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11126,6 +11126,11 @@
       "Time": "2023-12-16T00:05:25.3860842+00:00",
       "NumProgressed": 5541,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-16T01:50:35.4015539+00:00",
+      "NumProgressed": 5542,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11200,9 +11205,9 @@
       "ID": "MF_Ach_FlawlessVictory",
       "SetID": "9b9n573",
       "Name": "Flawless Victory",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 332
+      "UsersEstimate": 388
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -11218,7 +11223,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -11226,7 +11231,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1385
+      "UsersEstimate": 1386
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -11234,7 +11239,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -11266,7 +11271,7 @@
       "Name": "On this Episode!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -11321,15 +11326,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5541,
+      "Progressed": 5542,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-15T05:01:12.5073089+00:00",
-  "LastChanged_Achievements": "2023-12-16T00:05:25.3860839+00:00",
+  "LastChanged_Achievements": "2023-12-16T01:50:35.4015536+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.410244+00:00",
-  "LastUpdate_Ratings": "2023-12-16T00:00:15.0380032+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:05:25.3861899+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:45:28.0039897+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:50:35.4016085+00:00"
 }

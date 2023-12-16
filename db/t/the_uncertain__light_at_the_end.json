@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 583,
+  "EOS_Progressed": 584,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -993,6 +993,11 @@
       "Time": "2023-12-15T04:04:28.6885109+00:00",
       "NumProgressed": 583,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-16T01:49:52.1326901+00:00",
+      "NumProgressed": 584,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1076,7 +1081,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Headshot",
@@ -1092,7 +1097,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "Hitman",
@@ -1124,7 +1129,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Leisurely_Strol",
@@ -1180,7 +1185,7 @@
       "Name": "A Familiar Face",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Paparazzi",
@@ -1188,7 +1193,7 @@
       "Name": "Paparazzi",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Park",
@@ -1204,7 +1209,7 @@
       "Name": "Life of the Party",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Smart cookie",
@@ -1235,7 +1240,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 583,
+      "Progressed": 584,
       "Completed": 6
     }
   ],
@@ -1243,8 +1248,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-12-16T00:02:32.343863+00:00",
+  "LastChanged_Achievements": "2023-12-16T01:49:52.1326899+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:57:04.1542275+00:00",
-  "LastUpdate_Ratings": "2023-12-16T00:01:02.87364+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:02:32.3438867+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:48:16.034972+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:49:52.1327149+00:00"
 }

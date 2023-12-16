@@ -11,11 +11,11 @@ Rating: 3.47 (Ranked 1,062)
 | ICU | 4.00% | ~74 |
 | Wounded Whispers | 4.00% | ~74 |
 | Catch and Release | 4.00% | ~74 |
-| Blood Will Have Blood | 3.00% | ~55 |
-| Fly Fisher | 3.00% | ~55 |
-| Peek-a-boo | 3.00% | ~55 |
-| Throw The First Stone | 3.00% | ~55 |
-| Sucks To Be You | 3.00% | ~55 |
+| Blood Will Have Blood | 3.00% | ~56 |
+| Fly Fisher | 3.00% | ~56 |
+| Peek-a-boo | 3.00% | ~56 |
+| Throw The First Stone | 3.00% | ~56 |
+| Sucks To Be You | 3.00% | ~56 |
 | Neighborhood Revitalization | 2.00% | ~37 |
 | Enter of Your Own Free Will | 2.00% | ~37 |
 | Welcome to the Neighborhood | 2.00% | ~37 |
@@ -24,22 +24,22 @@ Rating: 3.47 (Ranked 1,062)
 | Grounded | 2.00% | ~37 |
 | Heart Attack | 2.00% | ~37 |
 | Skin of Their Teeth | 2.00% | ~37 |
-| Sic Transit Umbra | 1.00% | ~18 |
-| Bell-ringer | 1.00% | ~18 |
-| Silence Is Golden | 1.00% | ~18 |
-| Good Morning | 1.00% | ~18 |
-| From the Shadows | 1.00% | ~18 |
-| Starve the Beast | 1.00% | ~18 |
-| Harvest’s End | 1.00% | ~18 |
-| Helping Hand | 1.00% | ~18 |
-| I Spit On Your Grave | 1.00% | ~18 |
+| Sic Transit Umbra | 1.00% | ~19 |
+| Bell-ringer | 1.00% | ~19 |
+| Silence Is Golden | 1.00% | ~19 |
+| Good Morning | 1.00% | ~19 |
+| From the Shadows | 1.00% | ~19 |
+| Starve the Beast | 1.00% | ~19 |
+| Harvest’s End | 1.00% | ~19 |
+| Helping Hand | 1.00% | ~19 |
+| I Spit On Your Grave | 1.00% | ~19 |
 | Contingency Plans | 0.80% | ~15 |
-| You Clean It Up | 0.70% | ~13 |
-| Check, Please! | 0.70% | ~13 |
 | Nice Try | 0.70% | ~13 |
 | Blacklight Down | 0.70% | ~13 |
-| Curious Finch | 0.70% | ~13 |
 | Revelations | 0.60% | ~11 |
+| You Clean It Up | 0.60% | ~11 |
+| Check, Please! | 0.60% | ~11 |
+| Curious Finch | 0.60% | ~11 |
 | Block Party | 0.50% | ~9 |
 | Sisterhood | 0.40% | ~7 |
 | What Lies Below | 0.40% | ~7 |
@@ -72,7 +72,7 @@ Rating: 3.47 (Ranked 1,062)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,846 (Ranked 235)  
+Progressed: 1,851 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 1,784 | 0 |
 | 2023-12-14 | 1,810 | 0 |
 | 2023-12-15 | 1,843 | 0 |
-| 2023-12-16 | 1,846 | 0 |
+| 2023-12-16 | 1,851 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

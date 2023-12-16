@@ -419,7 +419,7 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 329404,
+  "EOS_Progressed": 329447,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 3510,
   "EOS_NewCompleters": 0,
@@ -9754,6 +9754,11 @@
       "Time": "2023-12-16T00:01:19.8725308+00:00",
       "NumProgressed": 329404,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-16T01:48:36.4394044+00:00",
+      "NumProgressed": 329447,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9766,7 +9771,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9882
+      "UsersEstimate": 9883
     },
     {
       "ID": "S02_BRDA",
@@ -9774,7 +9779,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6588
+      "UsersEstimate": 6589
     },
     {
       "ID": "S03_OTWA",
@@ -9782,7 +9787,7 @@
       "Name": "Rumors are true",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "S04_BRDC",
@@ -9902,7 +9907,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9882
+      "UsersEstimate": 9883
     },
     {
       "ID": "S19_CHALLENGES",
@@ -9990,7 +9995,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "S30_DIAMOND",
@@ -10085,7 +10090,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 329404,
+      "Progressed": 329447,
       "Completed": 5
     }
   ],
@@ -10093,8 +10098,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-15T21:58:33.097623+00:00",
-  "LastChanged_Achievements": "2023-12-16T00:01:19.8725303+00:00",
+  "LastChanged_Achievements": "2023-12-16T01:48:36.4394041+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-15T23:58:23.5746034+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:01:19.8726288+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:43:37.5961977+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:48:36.4394584+00:00"
 }

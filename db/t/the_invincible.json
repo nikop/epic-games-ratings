@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -1866,9 +1866,9 @@
       "ID": "AchvAssertive",
       "SetID": "1hj060c",
       "Name": "On her own",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 118
     },
     {
       "ID": "AchvBattleScore",
@@ -1978,9 +1978,9 @@
       "ID": "AchvNecro",
       "SetID": "1hj060c",
       "Name": "The Necroevolution",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 164
     },
     {
       "ID": "AchvNest",
@@ -2050,9 +2050,9 @@
       "ID": "AchvSurvivors",
       "SetID": "1hj060c",
       "Name": "Survivors",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 223
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -2089,8 +2089,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-16T00:07:22.666757+00:00",
+  "LastChanged_Achievements": "2023-12-16T01:54:15.3862558+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:00.1415487+00:00",
-  "LastUpdate_Ratings": "2023-12-15T23:59:55.4186323+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:07:22.6667963+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:45:11.3528223+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:54:15.3862815+00:00"
 }

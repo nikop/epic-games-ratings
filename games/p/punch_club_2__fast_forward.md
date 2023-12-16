@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | Such a strange dream… | 89.00% | ~349 |
 | Your first fight | 86.00% | ~337 |
+| Good Person Chip | 85.00% | ~333 |
 | First winning | 84.00% | ~329 |
-| Good Person Chip | 84.00% | ~329 |
 | Your first job | 83.00% | ~325 |
 | Depressed visitor | 78.00% | ~306 |
+| Neurotrainer – power gainer! | 78.00% | ~306 |
 | Fitness professional | 77.00% | ~302 |
 | Old movies enjoyer | 77.00% | ~302 |
-| Neurotrainer – power gainer! | 77.00% | ~302 |
 | Employee of the week | 76.00% | ~298 |
 | Your own amateur gym | 71.00% | ~278 |
 | First defeat | 71.00% | ~278 |

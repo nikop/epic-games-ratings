@@ -4,7 +4,7 @@
   "ProductSlug": "supermash",
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 512,
+  "Ranking_EOS_NewPlayers": 514,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2019-12-10T18:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:11.6907331+00:00",
   "LastChanged": "2023-03-31T05:58:11.6907332+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:00.6868753+00:00",
-  "LastUpdate_Ratings": "2023-12-15T23:58:09.7930321+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:06:36.0204077+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:43:24.2400209+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:53:27.8143575+00:00"
 }

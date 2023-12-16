@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -789,9 +789,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3404,
+  "EOS_Progressed": 3408,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4269,6 +4269,11 @@
       "Time": "2023-12-16T00:01:32.5538516+00:00",
       "NumProgressed": 3404,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T01:48:49.8304009+00:00",
+      "NumProgressed": 3408,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4294,9 +4299,9 @@
       "ID": "AutoDisrupted",
       "SetID": "3jha1np",
       "Name": "Look Over There!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 307
     },
     {
       "ID": "BloodAndIron",
@@ -4448,7 +4453,7 @@
       "Name": "Not So Fast...",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "Kills_Bleed",
@@ -4472,7 +4477,7 @@
       "Name": "Executioner",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "Kills_Exterminator",
@@ -4504,7 +4509,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "Kills_Streak",
@@ -4512,7 +4517,7 @@
       "Name": "Purging Spree",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "Kills_Vakir",
@@ -4528,7 +4533,7 @@
       "Name": "An Ill Omen",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -4823,21 +4828,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3404,
+      "Progressed": 3408,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3404,
+      "Progressed": 3408,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-12T16:03:26.7422514+00:00",
-  "LastChanged_Achievements": "2023-12-16T00:01:32.5538513+00:00",
+  "LastChanged_Achievements": "2023-12-16T01:48:49.8304006+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:10.0749768+00:00",
-  "LastUpdate_Ratings": "2023-12-16T00:00:50.1194501+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:01:32.5539283+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:48:04.7331781+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:48:49.8304595+00:00"
 }

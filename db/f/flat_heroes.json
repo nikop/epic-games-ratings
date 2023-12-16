@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -1562,9 +1562,9 @@
       "ID": "World9Boss",
       "SetID": "d9ekhim",
       "Name": "Pim Pam Pum",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
@@ -1579,8 +1579,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-12-16T00:07:35.884023+00:00",
+  "LastChanged_Achievements": "2023-12-16T01:54:28.8553611+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:23.0882526+00:00",
-  "LastUpdate_Ratings": "2023-12-16T00:00:54.5614464+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:07:35.8840612+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:48:09.3226197+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:54:28.8553962+00:00"
 }

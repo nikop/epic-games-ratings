@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8025,
+  "EOS_Progressed": 8026,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9181,6 +9181,11 @@
       "Time": "2023-12-16T00:01:08.0018625+00:00",
       "NumProgressed": 8025,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-16T01:48:23.8506331+00:00",
+      "NumProgressed": 8026,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9192,7 +9197,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "ARRR",
@@ -9200,7 +9205,7 @@
       "Name": "Arrr!",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "AUDIOPHILE",
@@ -9328,7 +9333,7 @@
       "Name": "Snip Snip",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "SOUL_CANON",
@@ -9359,7 +9364,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8025,
+      "Progressed": 8026,
       "Completed": 34
     }
   ],
@@ -9367,8 +9372,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-16T00:01:08.0018621+00:00",
+  "LastChanged_Achievements": "2023-12-16T01:48:23.8506327+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:30.6418185+00:00",
-  "LastUpdate_Ratings": "2023-12-16T00:00:37.6825627+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:01:08.001955+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:47:50.6596849+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:48:23.8507069+00:00"
 }

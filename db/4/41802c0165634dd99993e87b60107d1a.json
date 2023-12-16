@@ -4,7 +4,7 @@
   "ProductSlug": "the-casting-of-frank-stone-09928b",
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 512,
+  "Ranking_EOS_NewPlayers": 514,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-08T01:51:35.4952936+00:00",
-  "LastChanged_Achievements": "2023-12-16T00:06:13.8532797+00:00",
+  "LastChanged_Achievements": "2023-12-16T01:51:25.4066577+00:00",
   "LastUpdate_AppInfo": "2023-12-15T01:45:31.0233193+00:00",
-  "LastUpdate_Ratings": "2023-12-15T23:57:36.405464+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:06:13.8532823+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:42:50.045411+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:51:25.4066601+00:00"
 }

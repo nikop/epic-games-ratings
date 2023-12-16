@@ -271,7 +271,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39035,
+  "EOS_Progressed": 39038,
   "EOS_Completed": 121,
   "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 1,
@@ -21076,6 +21076,11 @@
       "Time": "2023-12-16T00:05:15.0543836+00:00",
       "NumProgressed": 39035,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-12-16T01:50:24.6935614+00:00",
+      "NumProgressed": 39038,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -21103,7 +21108,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10149
+      "UsersEstimate": 10150
     },
     {
       "ID": "allItems",
@@ -21159,7 +21164,7 @@
       "Name": "Hummed of Mystery",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1561
+      "UsersEstimate": 1562
     },
     {
       "ID": "firstBunny",
@@ -21167,7 +21172,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9368
+      "UsersEstimate": 9369
     },
     {
       "ID": "firstItem",
@@ -21175,7 +21180,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 30057
+      "UsersEstimate": 30059
     },
     {
       "ID": "roots",
@@ -21198,15 +21203,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 39035,
+      "Progressed": 39038,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-09T15:00:19.5920578+00:00",
-  "LastChanged_Achievements": "2023-12-16T00:05:15.0543832+00:00",
+  "LastChanged_Achievements": "2023-12-16T01:50:24.693561+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:18.6627904+00:00",
-  "LastUpdate_Ratings": "2023-12-15T23:59:51.9709525+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:05:15.054533+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:45:07.7582865+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:50:24.693667+00:00"
 }

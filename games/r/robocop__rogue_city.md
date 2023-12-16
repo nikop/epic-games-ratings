@@ -33,7 +33,7 @@ Rating: 4.29 (Ranked 855)
 | "This Guy Is Really Good" | 0.00% | ~0 |
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705 (Ranked 291)  
+Progressed: 705 (Ranked 292)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |

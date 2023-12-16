@@ -4,7 +4,7 @@
   "ProductSlug": "wolfsbane-c8bb3a",
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 512,
+  "Ranking_EOS_NewPlayers": 514,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-09T22:57:13.7250771+00:00",
-  "LastUpdate_Ratings": "2023-12-16T00:00:19.5131555+00:00",
-  "LastUpdate_Achievements": "2023-12-16T00:06:49.566302+00:00"
+  "LastUpdate_Ratings": "2023-12-16T01:45:31.7385031+00:00",
+  "LastUpdate_Achievements": "2023-12-16T01:53:41.8377541+00:00"
 }

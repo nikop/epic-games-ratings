@@ -9,9 +9,9 @@
 | Digging a Hole | 66.00% | ~67 |
 | Conducted Trade | 65.00% | ~66 |
 | Going Places | 65.00% | ~66 |
-| Aristocratic | 62.00% | ~63 |
+| Aristocratic | 63.00% | ~64 |
 | Tutti Frutti | 56.00% | ~57 |
-| Gotta Go Fast | 46.00% | ~47 |
+| Gotta Go Fast | 47.00% | ~48 |
 | Slotting Machine | 40.00% | ~41 |
 | Systematic | 38.00% | ~39 |
 | Mine Sweeper | 35.00% | ~36 |

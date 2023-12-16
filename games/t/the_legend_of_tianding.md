@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 87.00% | ~33 |
-| Eat the Rich | 61.00% | ~23 |
-| Killing Machine | 50.00% | ~19 |
-| Phantom Kunoichi | 45.00% | ~17 |
-| Death Battle | 42.00% | ~16 |
-| Divine Retribution | 39.00% | ~15 |
-| Dispel Rumors | 37.00% | ~14 |
-| Captain Mustache | 37.00% | ~14 |
-| Final Showdown | 32.00% | ~12 |
-| The End of an Outlaw | 32.00% | ~12 |
-| Sewer Rat | 32.00% | ~12 |
-| Urban Explorer | 29.00% | ~11 |
+| Hero Arrives | 87.00% | ~34 |
+| Eat the Rich | 59.00% | ~23 |
+| Killing Machine | 49.00% | ~19 |
+| Phantom Kunoichi | 44.00% | ~17 |
+| Death Battle | 41.00% | ~16 |
+| Divine Retribution | 38.00% | ~15 |
+| Dispel Rumors | 36.00% | ~14 |
+| Captain Mustache | 36.00% | ~14 |
+| Final Showdown | 31.00% | ~12 |
+| The End of an Outlaw | 31.00% | ~12 |
+| Sewer Rat | 31.00% | ~12 |
+| Urban Explorer | 28.00% | ~11 |
 | Demon Slayer | 26.00% | ~10 |
 | Steal Her Away | 26.00% | ~10 |
 | Fight Fire With Fire | 26.00% | ~10 |
-| Tour Guide | 24.00% | ~9 |
-| Coward | 24.00% | ~9 |
+| Tour Guide | 23.00% | ~9 |
+| Coward | 23.00% | ~9 |
 | Big Eater | 21.00% | ~8 |
 | The Real O.G. | 21.00% | ~8 |
 | Not Today | 21.00% | ~8 |
-| Tomb Raider | 16.00% | ~6 |
+| Tomb Raider | 15.00% | ~6 |
 | Talk to the Fist | 13.00% | ~5 |
-| The Hero of the People | 11.00% | ~4 |
+| The Hero of the People | 10.00% | ~4 |
 | Collector | 5.00% | ~2 |
 | The Legend | 5.00% | ~2 |
 | Taoist | 5.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 535)  
-Completed: 2 (5.26%) (Ranked 70)  
+Progressed: 39 (Ranked 535)  
+Completed: 2 (5.13%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,6 +68,7 @@ Completed: 2 (5.26%) (Ranked 70)
 | 2023-12-11 | 34 | 2 |
 | 2023-12-13 | 37 | 2 |
 | 2023-12-14 | 38 | 2 |
+| 2023-12-16 | 39 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

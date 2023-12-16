@@ -5,9 +5,9 @@ Rating: 4.58 (Ranked 453)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 29.00% | ~1,014 |
-| Sputnik 2049 | 26.00% | ~909 |
-| Infinite Growth... | 25.00% | ~874 |
+| Wakey Wakey | 29.00% | ~1,015 |
+| Sputnik 2049 | 26.00% | ~910 |
+| Infinite Growth... | 25.00% | ~875 |
 | Without Breaking Some Eggs... | 24.00% | ~840 |
 | A Thousand Strong | 18.00% | ~630 |
 | Ready for a New World | 18.00% | ~630 |
@@ -59,11 +59,11 @@ Rating: 4.58 (Ranked 453)
 | A Junker's Dream | 0.30% | ~10 |
 | Scenic View | 0.20% | ~7 |
 | I Give You the Stars | 0.20% | ~3 |
-| Beyond Time and Space | 0.10% | ~3 |
-| This is Fine | 0.10% | ~3 |
-| Suburban Perfection | 0.10% | ~3 |
+| Beyond Time and Space | 0.10% | ~4 |
+| This is Fine | 0.10% | ~4 |
+| Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,498 (Ranked 211)  
+Progressed: 3,500 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 3,429 | 0 |
 | 2023-12-14 | 3,460 | 0 |
 | 2023-12-15 | 3,496 | 0 |
-| 2023-12-16 | 3,498 | 0 |
+| 2023-12-16 | 3,500 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

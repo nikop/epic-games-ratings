@@ -17,7 +17,7 @@
 | Bubble Party | 9.00% | ~58 |
 | The Colossus | 8.00% | ~52 |
 | Floor is Lava | 7.00% | ~45 |
-| Pim Pam Pum | 6.00% | ~39 |
+| Pim Pam Pum | 7.00% | ~45 |
 | Black Belt | 4.00% | ~26 |
 | Dash Crash - Hero Edition | 4.00% | ~26 |
 | Ambush | 4.00% | ~26 |
