@@ -3305,9 +3305,9 @@
       "ID": "ML_ACHIEVEMENT_12",
       "SetID": "5k00jcd",
       "Name": "Immortal",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -3598,8 +3598,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:05:00.4806532+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:05:44.6022667+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:58:10.9975673+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:05:00.4806903+00:00"
+  "LastUpdate_Ratings": "2023-12-16T06:58:28.2137105+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:05:44.602319+00:00"
 }

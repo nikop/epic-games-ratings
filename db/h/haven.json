@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1588,
+  "EOS_Progressed": 1589,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -2413,6 +2413,11 @@
       "Time": "2023-12-16T06:06:20.8958515+00:00",
       "NumProgressed": 1588,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-16T07:07:38.0675275+00:00",
+      "NumProgressed": 1589,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2424,7 +2429,7 @@
       "Name": "Lovebirds",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "10",
@@ -2448,7 +2453,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "13",
@@ -2488,7 +2493,7 @@
       "Name": "Balding bloot!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "18",
@@ -2520,7 +2525,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 13,
       "XP": 70,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "21",
@@ -2560,7 +2565,7 @@
       "Name": "Heartstrings",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "27",
@@ -2616,7 +2621,7 @@
       "Name": "Head in the clouds",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "5",
@@ -2648,7 +2653,7 @@
       "Name": "Over my dead body",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "9",
@@ -2663,15 +2668,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1588,
+      "Progressed": 1589,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:06:20.8958512+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:07:38.0675269+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:06.0236888+00:00",
-  "LastUpdate_Ratings": "2023-12-16T06:00:21.8043541+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:06:20.8958827+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:01:44.311536+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:07:38.0675535+00:00"
 }

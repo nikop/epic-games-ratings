@@ -5,27 +5,27 @@ Rating: 4.81 (Ranked 84)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,671 |
-| No more cages! | 91.00% | ~2,532 |
-| Everfrost | 78.00% | ~2,170 |
-| Pentakill | 77.00% | ~2,142 |
-| Dark Forest | 77.00% | ~2,142 |
-| The use of petricite | 74.00% | ~2,059 |
-| You can pet the dog | 61.00% | ~1,697 |
-| Big Helmet Bro | 39.00% | ~1,085 |
-| Thornbarrow | 39.00% | ~1,085 |
-| Clarion Cove | 38.00% | ~1,057 |
-| Past trauma | 37.00% | ~1,029 |
-| Elemental master | 36.00% | ~1,002 |
+| For Demacia | 96.00% | ~2,673 |
+| No more cages! | 91.00% | ~2,533 |
+| Everfrost | 78.00% | ~2,172 |
+| Pentakill | 77.00% | ~2,144 |
+| Dark Forest | 77.00% | ~2,144 |
+| The use of petricite | 74.00% | ~2,060 |
+| You can pet the dog | 61.00% | ~1,698 |
+| Big Helmet Bro | 39.00% | ~1,086 |
+| Thornbarrow | 39.00% | ~1,086 |
+| Clarion Cove | 38.00% | ~1,058 |
+| Elemental master | 37.00% | ~1,030 |
+| Past trauma | 37.00% | ~1,030 |
 | Ternmoat Headquarters | 36.00% | ~1,002 |
-| Cypress Glen Headquarters | 33.00% | ~918 |
-| Petricite Burst | 33.00% | ~918 |
-| Old friend | 31.00% | ~862 |
+| Cypress Glen Headquarters | 33.00% | ~919 |
+| Petricite Burst | 33.00% | ~919 |
+| Old friend | 31.00% | ~863 |
 | Hijack | 30.00% | ~835 |
 | Devineur | 30.00% | ~835 |
-| Whispers in the Woods I | 28.00% | ~779 |
-| I chose my shackles | 26.00% | ~723 |
-| Ancient power | 26.00% | ~723 |
+| Whispers in the Woods I | 28.00% | ~780 |
+| I chose my shackles | 26.00% | ~724 |
+| Ancient power | 26.00% | ~724 |
 | Sacred Woods | 24.00% | ~668 |
 | Little light | 23.00% | ~640 |
 | Capelworth | 23.00% | ~640 |
@@ -43,8 +43,8 @@ Rating: 4.81 (Ranked 84)
 | My heart and sword always for Demacia | 16.00% | ~445 |
 | Meltridge | 16.00% | ~445 |
 | Cloven Dell Headquarters | 16.00% | ~445 |
-| Whispers in the Woods IV | 14.00% | ~389 |
-| I smell fear | 14.00% | ~389 |
+| Whispers in the Woods IV | 14.00% | ~390 |
+| I smell fear | 14.00% | ~390 |
 | Embrace the darkness | 13.00% | ~362 |
 | The end of the experiments | 13.00% | ~362 |
 | The Great City of Demacia | 13.00% | ~362 |
@@ -59,8 +59,8 @@ Rating: 4.81 (Ranked 84)
 | Silverwing nest | 2.00% | ~56 |
 | The Unshackled | 1.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,782 (Ranked 218)  
-Completed: 16 (0.58%) (Ranked 196)  
+Progressed: 2,784 (Ranked 218)  
+Completed: 16 (0.57%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -246,7 +246,7 @@ Completed: 16 (0.58%) (Ranked 196)
 | 2023-12-13 | 2,685 | 16 |
 | 2023-12-14 | 2,731 | 16 |
 | 2023-12-15 | 2,774 | 16 |
-| 2023-12-16 | 2,782 | 16 |
+| 2023-12-16 | 2,784 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

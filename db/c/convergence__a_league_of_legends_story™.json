@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 985,
+  "EOS_Progressed": 986,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2684,6 +2684,11 @@
       "Time": "2023-12-16T06:09:46.0273073+00:00",
       "NumProgressed": 985,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-16T07:10:01.6164939+00:00",
+      "NumProgressed": 986,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2767,7 +2772,7 @@
       "Name": "Street Style",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "CultivairChests1",
@@ -2799,7 +2804,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "FairgroundsChests1",
@@ -2807,7 +2812,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -3039,7 +3044,7 @@
       "Name": "Sump Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "SyronGift",
@@ -3063,7 +3068,7 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -3118,7 +3123,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 985,
+      "Progressed": 986,
       "Completed": 6
     }
   ],
@@ -3126,8 +3131,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:09:46.027307+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:10:01.6164936+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-16T06:02:45.7357023+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:09:46.0273468+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:02:33.0357195+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:10:01.6165473+00:00"
 }

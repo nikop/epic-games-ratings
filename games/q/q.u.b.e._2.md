@@ -1,7 +1,7 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.44 (Ranked 683)  
+Rating: 4.45 (Ranked 671)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -248,3 +248,4 @@ Completed: 211 (0.48%) (Ranked 212)
 | 2023-12-05 | 4.44 | - | 0 | 0 |
 | 2023-12-06 | 4.43 | - | 0 | 0 |
 | 2023-12-07 | 4.44 | - | 0 | 0 |
+| 2023-12-16 | 4.45 | - | 0 | 0 |

@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8804,
+  "EOS_Progressed": 8805,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8767,6 +8767,11 @@
       "Time": "2023-12-16T06:10:05.0966767+00:00",
       "NumProgressed": 8804,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T07:10:26.5292005+00:00",
+      "NumProgressed": 8805,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8899,7 +8904,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2729
+      "UsersEstimate": 2730
     },
     {
       "ID": "GamesPlayed10",
@@ -9363,14 +9368,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8804,
+      "Progressed": 8805,
       "Completed": 1
     }
   ],
@@ -9378,8 +9383,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-14T20:58:55.0819028+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:10:05.0966763+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:10:26.5292+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:27.9940225+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:59:31.4531127+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:10:05.0967709+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:00:28.4708192+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:10:26.529295+00:00"
 }

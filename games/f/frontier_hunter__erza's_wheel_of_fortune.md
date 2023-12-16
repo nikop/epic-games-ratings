@@ -15,7 +15,7 @@
 | Apostle of Flame | 38.00% | ~230 |
 | Beginner Artificer | 37.00% | ~224 |
 | Beginner Cook | 36.00% | ~218 |
-| Seal Breaker | 31.00% | ~188 |
+| Seal Breaker | 32.00% | ~194 |
 | Handyman | 28.00% | ~170 |
 | Giant Lizard Killer | 26.00% | ~158 |
 | Guardian | 25.00% | ~152 |
@@ -34,8 +34,8 @@
 | Face Slapper | 14.00% | ~85 |
 | Boss challenge | 10.00% | ~61 |
 | Berserker Slayer | 10.00% | ~61 |
+| Master Cook | 9.00% | ~55 |
 | Giantess Slayer | 9.00% | ~55 |
-| Master Cook | 8.00% | ~48 |
 | Warden Slayer | 8.00% | ~48 |
 | Silver Moon Wolf King Challenge | 3.00% | ~18 |
 | Rebellious | 2.00% | ~12 |

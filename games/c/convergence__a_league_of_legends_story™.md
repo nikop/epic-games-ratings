@@ -29,7 +29,7 @@ Rating: 4.62 (Ranked 370)
 | The Loose Cannon | 18.00% | ~177 |
 | Check Your Pulse | 18.00% | ~177 |
 | The Family Fortune | 18.00% | ~177 |
-| Street Style | 17.00% | ~167 |
+| Street Style | 17.00% | ~168 |
 | Treasure Trove | 14.00% | ~138 |
 | Whiz Kid | 14.00% | ~138 |
 | Cartographer | 14.00% | ~138 |
@@ -38,10 +38,10 @@ Rating: 4.62 (Ranked 370)
 | Family Memories | 12.00% | ~118 |
 | Ask Questions Later | 12.00% | ~118 |
 | Syron for Hope | 11.00% | ~108 |
-| Factorywood Explorer | 10.00% | ~98 |
-| Fairgrounds Explorer | 10.00% | ~98 |
-| Sump Explorer | 10.00% | ~98 |
-| Theater Explorer | 10.00% | ~98 |
+| Factorywood Explorer | 10.00% | ~99 |
+| Fairgrounds Explorer | 10.00% | ~99 |
+| Sump Explorer | 10.00% | ~99 |
+| Theater Explorer | 10.00% | ~99 |
 | Cultivair Explorer | 9.00% | ~89 |
 | Corin Goes Home | 8.00% | ~79 |
 | Sartorialist | 8.00% | ~79 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 370)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 985 (Ranked 274)  
+Progressed: 986 (Ranked 274)  
 Completed: 6 (0.61%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 6 (0.61%) (Ranked 193)
 | 2023-12-13 | 955 | 6 |
 | 2023-12-14 | 963 | 6 |
 | 2023-12-15 | 978 | 6 |
-| 2023-12-16 | 985 | 6 |
+| 2023-12-16 | 986 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

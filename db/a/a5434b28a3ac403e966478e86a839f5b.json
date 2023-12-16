@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 635,
+  "EOS_Progressed": 636,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.26,
   "EosHistory": [
@@ -2140,6 +2140,11 @@
       "Time": "2023-12-16T01:51:26.0684283+00:00",
       "NumProgressed": 635,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-16T07:08:01.3302741+00:00",
+      "NumProgressed": 636,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2160,7 +2165,7 @@
       "Name": "Establish Communications",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ACH_eou2",
@@ -2174,9 +2179,9 @@
       "ID": "ACH_eou3",
       "SetID": "51of0eo",
       "Name": "Destroy Security Grid",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 165
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_eou4",
@@ -2184,7 +2189,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_eou5",
@@ -2224,7 +2229,7 @@
       "Name": "Disc Collector",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_n64",
@@ -2232,7 +2237,7 @@
       "Name": "Shut Down the Core",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_rogue",
@@ -2255,14 +2260,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 635,
+      "Progressed": 636,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:06:37.1623824+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:08:01.3302737+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:57.6157011+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:57:42.9539829+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:06:37.1624017+00:00"
+  "LastUpdate_Ratings": "2023-12-16T06:57:45.8249128+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:08:01.3302921+00:00"
 }

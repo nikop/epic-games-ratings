@@ -6,9 +6,9 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 5.00% | ~915 |
-| Overgrown Library | 5.00% | ~915 |
-| Petrified Necropolis | 4.00% | ~732 |
+| Abandoned Settlement | 5.00% | ~916 |
+| Overgrown Library | 5.00% | ~916 |
+| Petrified Necropolis | 4.00% | ~733 |
 | Frosts | 3.00% | ~549 |
 | Land of Greed | 3.00% | ~549 |
 | Ominous Presence | 3.00% | ~549 |
@@ -30,10 +30,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruined Armory | 0.90% | ~165 |
 | Bandit Camp | 0.90% | ~165 |
 | Monastery of the Holy Flame | 0.90% | ~165 |
-| Levitating Monument | 0.80% | ~146 |
-| Corrosive Torrent | 0.80% | ~146 |
-| Cursed Lands | 0.80% | ~146 |
-| Trade Baron | 0.80% | ~146 |
+| Trade Baron | 0.90% | ~165 |
+| Levitating Monument | 0.80% | ~147 |
+| Corrosive Torrent | 0.80% | ~147 |
+| Cursed Lands | 0.80% | ~147 |
 | Barren Lands | 0.70% | ~128 |
 | Ancient Battleground | 0.70% | ~128 |
 | Statue of the Forefathers | 0.70% | ~128 |
@@ -43,6 +43,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 0.60% | ~110 |
 | Serving Ale | 0.50% | ~92 |
 | Defying the Crown | 0.50% | ~92 |
+| Refinery | 0.40% | ~73 |
 | Dangerous Lands | 0.40% | ~73 |
 | Fishmen Ritual Site | 0.40% | ~73 |
 | Forsaken Gods Temple | 0.40% | ~73 |
@@ -50,9 +51,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 0.40% | ~73 |
 | Fox Utopia | 0.40% | ~73 |
 | Efficient Explorer | 0.30% | ~55 |
-| Refinery | 0.30% | ~55 |
 | Forbidden Lands | 0.30% | ~55 |
 | Feeding The People | 0.20% | ~37 |
+| Prestigious Expedition | 0.20% | ~37 |
 | Blood Flower Farmer | 0.20% | ~37 |
 | Like a Machine | 0.20% | ~37 |
 | Paradise | 0.10% | ~18 |
@@ -61,12 +62,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Harpy Utopia | 0.10% | ~18 |
 | Human Utopia | 0.10% | ~18 |
 | Lizard Utopia | 0.10% | ~18 |
-| Prestigious Expedition | 0.10% | ~18 |
 | The Queen's Chosen | 0.10% | ~18 |
 | Treasure | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,306 (Ranked 147)  
+Progressed: 18,315 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,16 +306,16 @@ Completed: 39 (0.21%) (Ranked 261)
 | 2023-12-13 | 18,048 | 40 |
 | 2023-12-14 | 18,153 | 40 |
 | 2023-12-15 | 18,272 | 39 |
-| 2023-12-16 | 18,306 | 39 |
+| 2023-12-16 | 18,315 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 226)  
-Sum: 3,262 (Ranked 174)  
+Sum: 3,264 (Ranked 174)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 442 |
 | This game is Relaxing | 436 |
-| This game is Great for Beginners | 426 |
+| This game is Great for Beginners | 428 |
 | This game is Extremely Fun | 410 |
 | This game is Highly Recommended | 391 |
 | This game has Unique Visuals | 332 |
@@ -581,3 +581,4 @@ Diff (max vs sum): 52
 | 2023-12-13 | 4.82 | - | 442 | 3,256 |
 | 2023-12-14 | 4.82 | - | 442 | 3,258 |
 | 2023-12-15 | 4.82 | - | 442 | 3,262 |
+| 2023-12-16 | 4.82 | - | 442 | 3,264 |

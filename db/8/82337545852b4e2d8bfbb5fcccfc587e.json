@@ -2,9 +2,9 @@
   "ID": "82337545852b4e2d8bfbb5fcccfc587e",
   "Name": "DEEEER Simulator: Your Average Everyday Deer Game",
   "ProductSlug": "deeeer-simulator-9bfc4a",
-  "Ranking_EOS_Progress": 440,
+  "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewPlayers": 440,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -777,8 +777,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:08:50.121315+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:08:45.1392093+00:00",
   "LastUpdate_AppInfo": "2023-12-13T14:57:07.3813852+00:00",
-  "LastUpdate_Ratings": "2023-12-16T06:00:05.9221111+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:08:50.121328+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:01:20.3819607+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:08:45.1392196+00:00"
 }

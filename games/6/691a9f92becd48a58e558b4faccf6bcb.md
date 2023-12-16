@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost forever | 9.00% | ~28 |
+| Lost forever | 10.00% | ~31 |
 | Golden Carrot | 5.00% | ~16 |
 | Naughty list | 5.00% | ~16 |
 | Silver Hat | 5.00% | ~16 |

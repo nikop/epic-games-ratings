@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 99.00% | ~494 |
-| Hidden History | 75.00% | ~374 |
-| Commencing of Quests | 65.00% | ~324 |
-| Budding Conjuror | 64.00% | ~319 |
-| Subsistence Skills | 55.00% | ~274 |
-| Man-Machine Master | 54.00% | ~269 |
-| Charmed by the Hunt | 54.00% | ~269 |
-| Fusion Conjuror | 53.00% | ~264 |
-| Mountain Splitter | 53.00% | ~264 |
-| Memory Rouser | 51.00% | ~254 |
+| Land of the Rising Sun | 99.00% | ~496 |
+| Hidden History | 75.00% | ~376 |
+| Commencing of Quests | 65.00% | ~326 |
+| Budding Conjuror | 64.00% | ~321 |
+| Man-Machine Master | 54.00% | ~271 |
+| Subsistence Skills | 54.00% | ~271 |
+| Mountain Splitter | 53.00% | ~266 |
+| Charmed by the Hunt | 53.00% | ~266 |
+| Fusion Conjuror | 52.00% | ~261 |
+| Memory Rouser | 51.00% | ~256 |
 | Kemono Hunter | 47.00% | ~235 |
 | Expert Conjuror | 45.00% | ~225 |
 | Flawless Crystal | 44.00% | ~220 |
@@ -53,7 +53,7 @@
 | Bewitched by Bathing | 8.00% | ~40 |
 | Tsukumo Whisperer | 5.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499 (Ranked 323)  
+Progressed: 501 (Ranked 322)  
 Completed: 8 (1.60%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,4 +145,4 @@ Completed: 8 (1.60%) (Ranked 139)
 | 2023-12-13 | 394 | 8 |
 | 2023-12-14 | 442 | 8 |
 | 2023-12-15 | 484 | 8 |
-| 2023-12-16 | 499 | 8 |
+| 2023-12-16 | 501 | 8 |

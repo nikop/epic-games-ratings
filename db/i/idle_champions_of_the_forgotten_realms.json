@@ -8791,10 +8791,10 @@
       "Count": 3576
     }
   ],
-  "EOS_Progressed": 240894,
-  "EOS_Completed": 2533,
-  "EOS_NewPlayers": 1873,
-  "EOS_NewCompleters": 25,
+  "EOS_Progressed": 240910,
+  "EOS_Completed": 2534,
+  "EOS_NewPlayers": 1887,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -35821,6 +35821,11 @@
       "Time": "2023-12-16T06:10:06.7670882+00:00",
       "NumProgressed": 240894,
       "NumCompleted": 2533
+    },
+    {
+      "Time": "2023-12-16T07:10:28.5086599+00:00",
+      "NumProgressed": 240910,
+      "NumCompleted": 2534
     }
   ],
   "TotalAchievements": 546,
@@ -35830,9 +35835,9 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 964
     },
     {
       "ID": "objective_completed_10",
@@ -40158,9 +40163,9 @@
       "ID": "objective_completed_673",
       "SetID": "415jc5c",
       "Name": "When Tentacles Attack",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 414
     },
     {
       "ID": "objective_completed_678",
@@ -40199,21 +40204,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 207168,
-      "Completed": 4004
+      "Progressed": 207184,
+      "Completed": 4005
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 240894,
-      "Completed": 2533
+      "Progressed": 240910,
+      "Completed": 2534
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-16T03:58:22.1182597+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:10:06.7670877+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:10:28.5086595+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:13.366406+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:58:30.6673811+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:10:06.769301+00:00"
+  "LastUpdate_Ratings": "2023-12-16T06:58:58.3873482+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:10:28.5110298+00:00"
 }

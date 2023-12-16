@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1569,9 +1569,9 @@
       "ID": "ach_main01begin_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 508
     },
     {
       "ID": "ach_main01begin_die",
@@ -2064,8 +2064,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:06:06.0735928+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:07:17.5929706+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:57:55.7523833+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:06:06.0736364+00:00"
+  "LastUpdate_Ratings": "2023-12-16T06:58:05.4336442+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:07:17.5930399+00:00"
 }

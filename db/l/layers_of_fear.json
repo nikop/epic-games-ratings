@@ -2,9 +2,9 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 431,
+  "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -614,6 +614,11 @@
       "Time": "2023-12-15T23:04:58.6455335+00:00",
       "NumProgressed": 125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T07:06:19.8374218+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -626,7 +631,7 @@
       "Name": "A new way",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "another_perspective",
@@ -634,7 +639,7 @@
       "Name": "Another perspective",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "assemble_puzzles",
@@ -642,7 +647,7 @@
       "Name": "The Big Picture",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "breaking_free",
@@ -650,7 +655,7 @@
       "Name": "Breaking free",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "casting_finished",
@@ -698,7 +703,7 @@
       "Name": "Dark correspondence",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "covered_up_for_a_reason",
@@ -722,7 +727,7 @@
       "Name": "It was worth a try",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "do_not_look",
@@ -762,7 +767,7 @@
       "Name": "Immortalized in my heart",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "find_most_of_rat_sketches",
@@ -802,7 +807,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "finished_it",
@@ -810,7 +815,7 @@
       "Name": "Finished it",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "first_step",
@@ -826,7 +831,7 @@
       "Name": "Full Scoop",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "hear_one_interview",
@@ -834,7 +839,7 @@
       "Name": "Sound Bite",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "heavy_burden",
@@ -850,7 +855,7 @@
       "Name": "In One Take",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "inheritance",
@@ -874,7 +879,7 @@
       "Name": "Lights! Camera! Action!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "once_upon_a_time",
@@ -896,7 +901,7 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
       "UsersEstimate": 71
     },
@@ -914,7 +919,7 @@
       "Name": "Preferred Parent",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "rocket_science",
@@ -930,7 +935,7 @@
       "Name": "Se7en Seas",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "secret_ending",
@@ -944,9 +949,9 @@
       "ID": "self_preservation",
       "SetID": "f2im8d",
       "Name": "Instinct of self-preservation",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "sign_of_weakness",
@@ -954,7 +959,7 @@
       "Name": "Sign of weakness",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "something_important",
@@ -962,7 +967,7 @@
       "Name": "Something important",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "spy_one_item",
@@ -1010,7 +1015,7 @@
       "Name": "True Reflection",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "view_most_of_photos",
@@ -1018,15 +1023,15 @@
       "Name": "A Mosaic of Misery",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 87
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1041,14 +1046,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:05:25.2637802+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:06:19.8374214+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:01.5800746+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:59:39.2208372+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:05:25.2638128+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:00:40.5878197+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:06:19.8374701+00:00"
 }

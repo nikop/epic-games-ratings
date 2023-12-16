@@ -2,13 +2,13 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 497,
+  "Ranking_Rating": 496,
   "Ranking_Popularity": 483,
   "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -535,9 +535,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3885,
+  "EOS_Progressed": 3887,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6140,6 +6140,11 @@
       "Time": "2023-12-16T06:03:32.1947112+00:00",
       "NumProgressed": 3885,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-16T07:03:42.6648755+00:00",
+      "NumProgressed": 3887,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6191,7 +6196,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "CrowdPleaser",
@@ -6215,7 +6220,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -6335,7 +6340,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "ReadyforWinter_42",
@@ -6343,7 +6348,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2488
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6359,7 +6364,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -6375,7 +6380,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -6415,7 +6420,7 @@
       "Name": "The Power of Family",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -6423,7 +6428,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "TheStuffOfLegends",
@@ -6471,7 +6476,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2914
+      "UsersEstimate": 2915
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6486,15 +6491,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3885,
+      "Progressed": 3887,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-01T16:57:27.3862191+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:03:32.1947108+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:03:42.6648751+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:46.9668311+00:00",
-  "LastUpdate_Ratings": "2023-12-16T06:02:54.1348398+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:03:32.1947707+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:02:45.0291734+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:03:42.6649542+00:00"
 }

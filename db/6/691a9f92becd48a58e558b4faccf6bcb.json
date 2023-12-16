@@ -4,7 +4,7 @@
   "ProductSlug": "snowmen-5987b9",
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -1468,9 +1468,9 @@
       "ID": "ACHIEVEMENT_ENDING_BAD_SNOWMAN",
       "SetID": "5lffoo5",
       "Name": "Lost forever",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_ENDING_GOOD_HOME",
@@ -1595,8 +1595,8 @@
   ],
   "FirstSeen": "2023-12-08T01:45:34.789391+00:00",
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:09:42.4496161+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:09:56.7004515+00:00",
   "LastUpdate_AppInfo": "2023-12-11T01:45:34.1220412+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:58:09.9926143+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:09:42.4496316+00:00"
+  "LastUpdate_Ratings": "2023-12-16T06:58:26.7190582+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:09:56.7004701+00:00"
 }

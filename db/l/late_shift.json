@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 737,
+  "EOS_Progressed": 739,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
@@ -1865,6 +1865,11 @@
       "Time": "2023-12-16T05:09:04.2308035+00:00",
       "NumProgressed": 737,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-16T07:09:23.5820945+00:00",
+      "NumProgressed": 739,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -1874,9 +1879,9 @@
       "ID": "CAUSE_AND_EFFECT",
       "SetID": "8eejhlh",
       "Name": "Cause and Effect",
-      "Percentage": 96,
+      "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 708
+      "UsersEstimate": 702
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1924,7 +1929,7 @@
       "Name": "The Delivery",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ENDING_6",
@@ -1932,7 +1937,7 @@
       "Name": "The Bribe",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ENDING_7",
@@ -1948,7 +1953,7 @@
       "Name": "Even Tempered",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1964,7 +1969,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 501
+      "UsersEstimate": 503
     },
     {
       "ID": "GOOD_KARMA",
@@ -1972,7 +1977,7 @@
       "Name": "Good Karma",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "INTERROGATION",
@@ -1988,7 +1993,7 @@
       "Name": "Office Clerk",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -1996,7 +2001,7 @@
       "Name": "Proficient Storyteller",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "PROTECTOR",
@@ -2004,7 +2009,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "SABOTAGE",
@@ -2026,16 +2031,16 @@
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 346
+      "UsersEstimate": 340
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 737,
+      "Progressed": 739,
       "Completed": 9
     }
   ],
@@ -2043,8 +2048,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:09:17.7397075+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:09:23.5820942+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:45.8510282+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:59:35.559083+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:09:17.7397283+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:00:34.9686635+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:09:23.5821173+00:00"
 }

@@ -56,14 +56,14 @@ Rating: 4.58 (Ranked 453)
 | Work Harder | 0.60% | ~21 |
 | Crunch Culture | 0.40% | ~14 |
 | Soylent Green | 0.40% | ~14 |
-| A Junker's Dream | 0.30% | ~10 |
+| A Junker's Dream | 0.30% | ~11 |
 | Scenic View | 0.20% | ~7 |
 | I Give You the Stars | 0.20% | ~3 |
 | Beyond Time and Space | 0.10% | ~4 |
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,500 (Ranked 211)  
+Progressed: 3,501 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 3,429 | 0 |
 | 2023-12-14 | 3,460 | 0 |
 | 2023-12-15 | 3,496 | 0 |
-| 2023-12-16 | 3,500 | 0 |
+| 2023-12-16 | 3,501 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

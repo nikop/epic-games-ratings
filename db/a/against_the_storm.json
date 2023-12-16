@@ -3393,10 +3393,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3262,
       "NumberOfAwardsMax": 442
+    },
+    {
+      "Time": "2023-12-16T06:56:59.746709+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3264,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3262,
+  "NumberOfAwards": 3264,
   "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3434,7 +3440,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 426
+      "Count": 428
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3461,9 +3467,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18306,
+  "EOS_Progressed": 18315,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15896,6 +15902,11 @@
       "Time": "2023-12-16T06:04:20.0926777+00:00",
       "NumProgressed": 18306,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-16T07:04:49.6674336+00:00",
+      "NumProgressed": 18315,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15978,9 +15989,9 @@
       "ID": "MetalChain",
       "SetID": "cfbk359",
       "Name": "Refinery",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 73
     },
     {
       "ID": "Win5Years",
@@ -16100,7 +16111,7 @@
       "Name": "Levitating Monument",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "WinNearMines",
@@ -16156,7 +16167,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "WinNearWatchtower",
@@ -16180,7 +16191,7 @@
       "Name": "Cursed Lands",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "WinOnMarshlands",
@@ -16202,9 +16213,9 @@
       "ID": "WinPrestige10",
       "SetID": "cfbk359",
       "Name": "Prestigious Expedition",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 37
     },
     {
       "ID": "WinPrestige20",
@@ -16274,9 +16285,9 @@
       "ID": "WinWithTradeRoutes",
       "SetID": "cfbk359",
       "Name": "Trade Baron",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 165
     },
     {
       "ID": "WinWithoutDeath",
@@ -16308,7 +16319,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "WinNearFrosts",
@@ -16332,7 +16343,7 @@
       "Name": "Overgrown Library",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "WinNearPetrified",
@@ -16340,7 +16351,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "WinNearPresence",
@@ -16379,15 +16390,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18306,
+      "Progressed": 18315,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-15T16:01:40.7819682+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:04:20.092677+00:00",
+  "LastChanged": "2023-12-16T06:56:59.7467087+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:04:49.6674333+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:00:16.8180702+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:04:20.0927639+00:00"
+  "LastUpdate_Ratings": "2023-12-16T06:56:59.7467094+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:04:49.6675406+00:00"
 }

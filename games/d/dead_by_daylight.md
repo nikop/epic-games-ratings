@@ -6,19 +6,19 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~32,939 |
-| It wakes | 3.00% | ~32,939 |
-| Skillful | 3.00% | ~32,939 |
-| No one left behind | 2.00% | ~21,960 |
-| Handyman | 2.00% | ~21,960 |
-| Not half bad | 2.00% | ~21,960 |
-| Apt Survivor | 2.00% | ~21,960 |
-| Survival Treasures | 2.00% | ~21,960 |
-| I | 2.00% | ~21,960 |
-| Sorted | 2.00% | ~21,960 |
-| Resurgence | 2.00% | ~21,960 |
-| Preemptive Strike | 2.00% | ~21,960 |
-| Make Some Noise | 2.00% | ~21,960 |
+| Zealous | 3.00% | ~32,941 |
+| It wakes | 3.00% | ~32,941 |
+| Skillful | 3.00% | ~32,941 |
+| No one left behind | 2.00% | ~21,961 |
+| Handyman | 2.00% | ~21,961 |
+| Not half bad | 2.00% | ~21,961 |
+| Apt Survivor | 2.00% | ~21,961 |
+| Survival Treasures | 2.00% | ~21,961 |
+| I | 2.00% | ~21,961 |
+| Sorted | 2.00% | ~21,961 |
+| Resurgence | 2.00% | ~21,961 |
+| Preemptive Strike | 2.00% | ~21,961 |
+| Make Some Noise | 2.00% | ~21,961 |
 | The Grand Sacrifice | 1.00% | ~10,980 |
 | Agonizing Escape | 1.00% | ~10,980 |
 | Backdoor Escape | 1.00% | ~10,980 |
@@ -37,13 +37,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | Humanitarian | 1.00% | ~10,980 |
 | Vulture | 0.90% | ~9,882 |
 | III | 0.90% | ~9,882 |
+| Lifting The Fog | 0.90% | ~9,882 |
 | Second Act | 0.90% | ~9,882 |
 | Escape Artist | 0.80% | ~8,784 |
 | First to the Punch | 0.80% | ~8,784 |
 | Operation: Survival | 0.80% | ~8,784 |
 | Every Last Drop | 0.80% | ~8,784 |
 | With Scars to Show | 0.80% | ~8,784 |
-| Lifting The Fog | 0.80% | ~8,784 |
 | Blood on your hands | 0.70% | ~7,686 |
 | Gifts for the Fog | 0.70% | ~7,686 |
 | III-50 | 0.70% | ~7,686 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,098 |
 | Adept Good Guy | 0.10% | ~1,098 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,097,978 (Ranked 12)  
+Progressed: 1,098,041 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -479,7 +479,7 @@ Completed: 62 (0.01%) (Ranked 353)
 | 2023-12-13 | 1,092,812 | 62 |
 | 2023-12-14 | 1,095,217 | 62 |
 | 2023-12-15 | 1,097,468 | 62 |
-| 2023-12-16 | 1,097,978 | 62 |
+| 2023-12-16 | 1,098,041 | 62 |
 ## Awards
 Max (Diverse Characters): 38,017  (Ranked 15)  
 Sum: 287,519 (Ranked 12)  

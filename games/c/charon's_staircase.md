@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Seth's office | 57.00% | ~48 |
 | The secret passage | 57.00% | ~48 |
-| Seth's office | 56.00% | ~47 |
 | There is something strange here... | 51.00% | ~43 |
 | Across the lake | 51.00% | ~43 |
 | First document retrieved | 49.00% | ~41 |

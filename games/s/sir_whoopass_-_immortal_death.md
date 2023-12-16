@@ -18,7 +18,7 @@
 | Fire-fighter! | 67.00% | ~89 |
 | Oh, you're up to no gouda! | 65.00% | ~86 |
 | Make Love not War-Craft a Mistlefoe | 62.00% | ~82 |
-| Meat grinder | 61.00% | ~81 |
+| Meat grinder | 62.00% | ~82 |
 | You're not going to blow me up! | 56.00% | ~74 |
 | Mushroom soup of the day | 53.00% | ~70 |
 | Cockadoodledoo! | 50.00% | ~66 |
@@ -28,7 +28,7 @@
 | Thats disgusting! | 47.00% | ~63 |
 | My pants squeak when I walk | 44.00% | ~59 |
 | Self assessed tax return | 43.00% | ~57 |
-| Surprise!! | 41.00% | ~55 |
+| Surprise!! | 42.00% | ~56 |
 | Haemochromatosis | 40.00% | ~53 |
 | Make America Grate Again | 36.00% | ~48 |
 | Pasta Bolognese | 35.00% | ~47 |

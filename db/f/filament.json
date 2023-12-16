@@ -372,9 +372,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 207114,
+  "EOS_Progressed": 207117,
   "EOS_Completed": 543,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -25982,6 +25982,11 @@
       "Time": "2023-12-16T06:03:41.5705439+00:00",
       "NumProgressed": 207114,
       "NumCompleted": 543
+    },
+    {
+      "Time": "2023-12-16T07:03:55.7901133+00:00",
+      "NumProgressed": 207117,
+      "NumCompleted": 543
     }
   ],
   "TotalAchievements": 29,
@@ -26017,7 +26022,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 194687
+      "UsersEstimate": 194690
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -26065,7 +26070,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6213
+      "UsersEstimate": 6214
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -26161,7 +26166,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6213
+      "UsersEstimate": 6214
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -26177,7 +26182,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20711
+      "UsersEstimate": 20712
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -26224,7 +26229,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 207114,
+      "Progressed": 207117,
       "Completed": 543
     }
   ],
@@ -26232,8 +26237,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-12-14T16:59:49.3073331+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:03:41.5705435+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:03:55.7901129+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:21.2833289+00:00",
-  "LastUpdate_Ratings": "2023-12-16T06:00:11.6360173+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:03:41.5706868+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:01:29.0791218+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:03:55.7902668+00:00"
 }

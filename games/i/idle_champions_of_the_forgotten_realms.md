@@ -8,10 +8,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | Welcome to Sigil | 0.60% | ~1,243 |
 | Fast Food | 0.50% | ~1,036 |
-| A Brief Tour of the Realms | 0.30% | ~723 |
+| A Brief Tour of the Realms | 0.40% | ~964 |
 | Misaligned in Sigil | 0.20% | ~414 |
 | Chaos Theory | 0.20% | ~414 |
 | The Overgrown Grove | 0.20% | ~414 |
+| When Tentacles Attack | 0.20% | ~414 |
 | Flames of Avernus | 0.20% | ~414 |
 | Mental Gymnastics | 0.20% | ~414 |
 | Maddening | 0.10% | ~241 |
@@ -549,12 +550,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Brains of an Illithid's Desire | 0.10% | ~207 |
 | Arcane Suppression | 0.10% | ~207 |
 | Welcome to the Vrocks | 0.10% | ~207 |
-| When Tentacles Attack | 0.10% | ~207 |
 | Don't Lose Your Head | 0.10% | ~207 |
 | Mind Spike | 0.10% | ~207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,894 (Ranked 66)  
-Completed: 2,533 (1.05%) (Ranked 168)  
+Progressed: 240,910 (Ranked 66)  
+Completed: 2,534 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -793,7 +793,7 @@ Completed: 2,533 (1.05%) (Ranked 168)
 | 2023-12-13 | 239,847 | 2,519 |
 | 2023-12-14 | 240,414 | 2,526 |
 | 2023-12-15 | 240,802 | 2,532 |
-| 2023-12-16 | 240,894 | 2,533 |
+| 2023-12-16 | 240,910 | 2,534 |
 ## Awards
 Max (Great for Beginners): 5,645  (Ranked 70)  
 Sum: 32,900 (Ranked 41)  

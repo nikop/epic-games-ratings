@@ -2,10 +2,10 @@
   "ID": "7509a5c8feb744ae866d9e3326d52d3b",
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
-  "Ranking_EOS_Progress": 379,
+  "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 257,
+  "EOS_Progressed": 258,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.17,
+  "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:57.7196507+00:00",
@@ -545,6 +545,11 @@
       "Time": "2023-12-16T06:08:28.6108952+00:00",
       "NumProgressed": 257,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T07:08:15.1035494+00:00",
+      "NumProgressed": 258,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -564,7 +569,7 @@
       "Name": "Book \u0027em Danny",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "bullseye",
@@ -634,9 +639,9 @@
       "ID": "patient_listener",
       "SetID": "2db2j74",
       "Name": "Patient Listener",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 124
     },
     {
       "ID": "play_it_again_sam",
@@ -644,7 +649,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "play_me_by_the_hour",
@@ -652,7 +657,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "poetent",
@@ -660,7 +665,7 @@
       "Name": "Poetent",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "put_a_ring_on_it",
@@ -684,7 +689,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "the_big_sleep",
@@ -723,7 +728,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 257,
+      "Progressed": 258,
       "Completed": 3
     }
   ],
@@ -731,8 +736,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:08:28.6108948+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:08:15.103549+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:09.2551695+00:00",
-  "LastUpdate_Ratings": "2023-12-16T06:03:10.5441249+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:08:28.6109092+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:03:08.8590771+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:08:15.1035685+00:00"
 }

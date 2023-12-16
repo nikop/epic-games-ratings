@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 12,
   "Ranking_EOS_Completed": 353,
   "Ranking_EOS_NewPlayers": 9,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -13856,9 +13856,9 @@
       "Count": 28114
     }
   ],
-  "EOS_Progressed": 1097978,
+  "EOS_Progressed": 1098041,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 16788,
+  "EOS_NewPlayers": 16774,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -41466,6 +41466,11 @@
       "Time": "2023-12-16T06:10:06.2015318+00:00",
       "NumProgressed": 1097978,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-12-16T07:10:27.6154027+00:00",
+      "NumProgressed": 1098041,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 232,
@@ -41597,7 +41602,7 @@
       "Name": "No one left behind",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21960
+      "UsersEstimate": 21961
     },
     {
       "ID": "ACH_017",
@@ -41613,7 +41618,7 @@
       "Name": "Handyman",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21960
+      "UsersEstimate": 21961
     },
     {
       "ID": "ACH_019",
@@ -41645,7 +41650,7 @@
       "Name": "Zealous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 32939
+      "UsersEstimate": 32941
     },
     {
       "ID": "ACH_023",
@@ -41653,7 +41658,7 @@
       "Name": "It wakes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 32939
+      "UsersEstimate": 32941
     },
     {
       "ID": "ACH_024",
@@ -41661,7 +41666,7 @@
       "Name": "Not half bad",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21960
+      "UsersEstimate": 21961
     },
     {
       "ID": "ACH_025",
@@ -41685,7 +41690,7 @@
       "Name": "Apt Survivor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21960
+      "UsersEstimate": 21961
     },
     {
       "ID": "ACH_028",
@@ -41709,7 +41714,7 @@
       "Name": "Survival Treasures",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21960
+      "UsersEstimate": 21961
     },
     {
       "ID": "ACH_031",
@@ -41781,7 +41786,7 @@
       "Name": "Skillful",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 32939
+      "UsersEstimate": 32941
     },
     {
       "ID": "ACH_040",
@@ -41789,7 +41794,7 @@
       "Name": "I",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21960
+      "UsersEstimate": 21961
     },
     {
       "ID": "ACH_041",
@@ -42045,7 +42050,7 @@
       "Name": "Sorted",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 21960
+      "UsersEstimate": 21961
     },
     {
       "ID": "ACH_073",
@@ -42693,7 +42698,7 @@
       "Name": "Resurgence",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 21960
+      "UsersEstimate": 21961
     },
     {
       "ID": "ACH_157",
@@ -42813,7 +42818,7 @@
       "Name": "Preemptive Strike",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 21960
+      "UsersEstimate": 21961
     },
     {
       "ID": "ACH_172",
@@ -43123,9 +43128,9 @@
       "ID": "ACH_210",
       "SetID": "16jml5b",
       "Name": "Lifting The Fog",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 8784
+      "UsersEstimate": 9882
     },
     {
       "ID": "ACH_211",
@@ -43245,7 +43250,7 @@
       "Name": "Make Some Noise",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 21960
+      "UsersEstimate": 21961
     },
     {
       "ID": "ACH_226",
@@ -43332,21 +43337,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1097978,
+      "Progressed": 1098041,
       "Completed": 72
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1097978,
+      "Progressed": 1098041,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-16T03:01:40.7908881+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:10:06.2015315+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:10:27.6154022+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:04.6915989+00:00",
-  "LastUpdate_Ratings": "2023-12-16T06:00:20.0489983+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:10:06.2020704+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:01:41.4690423+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:10:27.6159639+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "e8bab5eae849405890fca0cd2d1f808e",
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
-  "Ranking_Rating": 497,
+  "Ranking_Rating": 496,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 117,
@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44329,
+  "EOS_Progressed": 44330,
   "EOS_Completed": 245,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -19045,6 +19045,11 @@
       "Time": "2023-12-16T02:22:07.2299409+00:00",
       "NumProgressed": 44329,
       "NumCompleted": 245
+    },
+    {
+      "Time": "2023-12-16T07:04:01.6667472+00:00",
+      "NumProgressed": 44330,
+      "NumCompleted": 245
     }
   ],
   "TotalAchievements": 44,
@@ -19072,7 +19077,7 @@
       "Name": "Embers",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 9752
+      "UsersEstimate": 9753
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -19096,7 +19101,7 @@
       "Name": "Ruse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5319
+      "UsersEstimate": 5320
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -19176,7 +19181,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35463
+      "UsersEstimate": 35464
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -19280,7 +19285,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24381
+      "UsersEstimate": 24382
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -19288,7 +19293,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14185
+      "UsersEstimate": 14186
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -19296,7 +19301,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27927
+      "UsersEstimate": 27928
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -19320,7 +19325,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26597
+      "UsersEstimate": 26598
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -19328,7 +19333,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29700
+      "UsersEstimate": 29701
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -19392,7 +19397,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41226
+      "UsersEstimate": 41227
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -19400,14 +19405,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23051
+      "UsersEstimate": 23052
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44329,
+      "Progressed": 44330,
       "Completed": 245
     }
   ],
@@ -19415,8 +19420,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-03T18:02:47.0707275+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:03:45.8952309+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:04:01.6667469+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:11.003832+00:00",
-  "LastUpdate_Ratings": "2023-12-16T06:03:12.6746564+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:03:45.8953282+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:03:11.8762123+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:04:01.6668577+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
   "Ranking_Rating": 68,
   "Ranking_Popularity": 161,
-  "Ranking_PopularitySum": 117,
+  "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 516,
@@ -9561,10 +9561,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 7340,
       "NumberOfAwardsMax": 959
+    },
+    {
+      "Time": "2023-12-16T07:01:32.8566097+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 7347,
+      "NumberOfAwardsMax": 959
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7340,
+  "NumberOfAwards": 7347,
   "NumberOfAwardsMax": 959,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9578,7 +9584,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 914
+      "Count": 921
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9652,8 +9658,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2023-12-16T04:00:15.7410418+00:00",
+  "LastChanged": "2023-12-16T07:01:32.8566096+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:59.9088137+00:00",
-  "LastUpdate_Ratings": "2023-12-16T06:00:14.2236771+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:06:24.4526199+00:00"
+  "LastUpdate_Ratings": "2023-12-16T07:01:32.8566102+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:07:43.4168937+00:00"
 }

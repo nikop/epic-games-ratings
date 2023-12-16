@@ -57,7 +57,7 @@
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132 (Ranked 423)  
+Progressed: 133 (Ranked 422)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,6 +147,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-03 | 128 | 0 |
 | 2023-12-14 | 129 | 0 |
 | 2023-12-15 | 132 | 0 |
+| 2023-12-16 | 133 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

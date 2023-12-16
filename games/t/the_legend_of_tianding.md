@@ -16,15 +16,15 @@
 | Final Showdown | 31.00% | ~12 |
 | The End of an Outlaw | 31.00% | ~12 |
 | Urban Explorer | 31.00% | ~12 |
-| Demon Slayer | 26.00% | ~10 |
-| Steal Her Away | 26.00% | ~10 |
-| Fight Fire With Fire | 26.00% | ~10 |
+| Demon Slayer | 28.00% | ~11 |
+| Steal Her Away | 28.00% | ~11 |
+| Fight Fire With Fire | 28.00% | ~11 |
 | Tour Guide | 23.00% | ~9 |
 | Coward | 23.00% | ~9 |
 | Big Eater | 21.00% | ~8 |
 | The Real O.G. | 21.00% | ~8 |
 | Not Today | 21.00% | ~8 |
-| Tomb Raider | 15.00% | ~6 |
+| Tomb Raider | 18.00% | ~7 |
 | Talk to the Fist | 13.00% | ~5 |
 | The Hero of the People | 10.00% | ~4 |
 | Collector | 5.00% | ~2 |

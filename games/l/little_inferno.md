@@ -1,7 +1,7 @@
 # Little Inferno
 [Store](https://store.epicgames.com/en-US/p/little-inferno)  
 [View Rawdata](../../db/l/little_inferno.json)  
-Rating: 4.58 (Ranked 453)  
+Rating: 4.56 (Ranked 496)  
 Number of Ratings: 66  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -77,3 +77,4 @@ Number of Ratings: 66  (23.09.2022)
 | 2023-08-16 | 4.56 | - | 0 | 0 |
 | 2023-09-20 | 4.57 | - | 0 | 0 |
 | 2023-10-20 | 4.58 | - | 0 | 0 |
+| 2023-12-16 | 4.56 | - | 0 | 0 |

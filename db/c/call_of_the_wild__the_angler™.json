@@ -961,9 +961,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 6990,
+  "EOS_Progressed": 6993,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11231,6 +11231,11 @@
       "Time": "2023-12-16T06:04:39.3237398+00:00",
       "NumProgressed": 6990,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T07:05:15.7257544+00:00",
+      "NumProgressed": 6993,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11242,7 +11247,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -11250,7 +11255,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -11258,7 +11263,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -11290,15 +11295,15 @@
       "Name": "More Fish in the Sea",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "ACHIEVEMENT_008",
       "SetID": "1a05lfd",
       "Name": "Scaling up",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 350
+      "UsersEstimate": 420
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -11561,13 +11566,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6990,
+      "Progressed": 6993,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6362,
+      "Progressed": 6365,
       "Completed": 113
     }
   ],
@@ -11575,8 +11580,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-15T01:46:12.7842715+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:04:39.3237394+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:05:15.7257541+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:44.0991613+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:58:12.5395585+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:04:39.3238228+00:00"
+  "LastUpdate_Ratings": "2023-12-16T06:58:30.4677015+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:05:15.7258328+00:00"
 }

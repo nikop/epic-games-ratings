@@ -8792,7 +8792,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 477734,
+  "EOS_Progressed": 477735,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 0,
@@ -33022,6 +33022,11 @@
       "Time": "2023-12-16T06:04:31.3305839+00:00",
       "NumProgressed": 477734,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-16T07:05:04.6901306+00:00",
+      "NumProgressed": 477735,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -33177,7 +33182,7 @@
       "Name": "Beating Expectations",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76437
+      "UsersEstimate": 76438
     },
     {
       "ID": "achievement_big_win",
@@ -33193,7 +33198,7 @@
       "Name": "Splashing The Cash",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 105101
+      "UsersEstimate": 105102
     },
     {
       "ID": "achievement_childhood_dream",
@@ -33209,7 +33214,7 @@
       "Name": "Clean Bill of Health",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 105101
+      "UsersEstimate": 105102
     },
     {
       "ID": "achievement_clean_sheet",
@@ -33217,7 +33222,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238867
+      "UsersEstimate": 238868
     },
     {
       "ID": "achievement_club_world_cup",
@@ -33233,7 +33238,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90769
+      "UsersEstimate": 90770
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -33265,7 +33270,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 200648
+      "UsersEstimate": 200649
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -33305,7 +33310,7 @@
       "Name": "What A Goal!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 105101
+      "UsersEstimate": 105102
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -33313,7 +33318,7 @@
       "Name": "Superb Strike",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 47773
+      "UsersEstimate": 47774
     },
     {
       "ID": "achievement_goal_scored_in_20_consecutive_matches",
@@ -33449,7 +33454,7 @@
       "Name": "Overachiever!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76437
+      "UsersEstimate": 76438
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -33513,7 +33518,7 @@
       "Name": "International Superstar",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 47773
+      "UsersEstimate": 47774
     },
     {
       "ID": "achievement_reach_top_of_hall_of_fame",
@@ -33545,7 +33550,7 @@
       "Name": "Rushed signing",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 76437
+      "UsersEstimate": 76438
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -33577,7 +33582,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 229312
+      "UsersEstimate": 229313
     },
     {
       "ID": "achievement_signed_a_player",
@@ -33585,7 +33590,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238867
+      "UsersEstimate": 238868
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -33665,7 +33670,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238867
+      "UsersEstimate": 238868
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -33673,7 +33678,7 @@
       "Name": "Cup Glory!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 105101
+      "UsersEstimate": 105102
     },
     {
       "ID": "achievement_won_international_championship",
@@ -33689,7 +33694,7 @@
       "Name": "You\u0027re Up!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 62105
+      "UsersEstimate": 62106
     },
     {
       "ID": "achievement_won_world_cup",
@@ -33705,7 +33710,7 @@
       "Name": "Best In The World",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 47773
+      "UsersEstimate": 47774
     },
     {
       "ID": "career_earnings_over_100_million",
@@ -33816,15 +33821,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 477734,
+      "Progressed": 477735,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-12-15T06:58:17.3976455+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:04:31.3305835+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:05:04.6901303+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:04.1665984+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:58:30.9976083+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:04:31.3307771+00:00"
+  "LastUpdate_Ratings": "2023-12-16T06:58:58.8752145+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:05:04.6903065+00:00"
 }

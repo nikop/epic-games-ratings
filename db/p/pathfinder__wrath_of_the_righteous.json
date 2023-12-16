@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -17087,9 +17087,9 @@
       "ID": "08_PathOfAngel",
       "SetID": "989of5o",
       "Name": "Path of the Angel",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 866
     },
     {
       "ID": "09_PathOfDemon",
@@ -17973,8 +17973,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-15T21:58:59.5020076+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:09:56.7453893+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:10:16.09326+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:59:04.2600442+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:09:56.7455573+00:00"
+  "LastUpdate_Ratings": "2023-12-16T06:59:47.6344244+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:10:16.0934312+00:00"
 }

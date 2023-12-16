@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 68.00% | ~100 |
-| Purification Pioneer | 63.00% | ~93 |
-| Mechanical Buddy | 58.00% | ~85 |
-| Dicesmithing Time! | 52.00% | ~76 |
-| Endless Tricks | 46.00% | ~68 |
-| Sanctuary Guardian | 44.00% | ~65 |
-| Wild's Keeper | 43.00% | ~63 |
-| Mind Illuminator | 37.00% | ~54 |
-| Stellar Dismantler | 34.00% | ~50 |
-| Noctuan Champion | 32.00% | ~47 |
+| Meissa's Savior | 69.00% | ~103 |
+| Purification Pioneer | 64.00% | ~95 |
+| Mechanical Buddy | 58.00% | ~86 |
+| Dicesmithing Time! | 53.00% | ~79 |
+| Endless Tricks | 46.00% | ~69 |
+| Sanctuary Guardian | 46.00% | ~69 |
+| Wild's Keeper | 42.00% | ~63 |
+| Mind Illuminator | 38.00% | ~57 |
+| Stellar Dismantler | 34.00% | ~51 |
+| Noctuan Champion | 32.00% | ~48 |
 | Anomaly Destroyer | 27.00% | ~40 |
-| Eridanian Champion | 26.00% | ~38 |
+| Eridanian Champion | 26.00% | ~39 |
 | Star Killer | 25.00% | ~37 |
-| Astral Adventurer | 24.00% | ~35 |
-| Lacertian Champion | 24.00% | ~35 |
-| Loyal Partner | 22.00% | ~32 |
-| Apian Champion | 20.00% | ~29 |
-| Shard Spender | 18.00% | ~26 |
+| Astral Adventurer | 24.00% | ~36 |
+| Lacertian Champion | 24.00% | ~36 |
+| Loyal Partner | 23.00% | ~34 |
+| Apian Champion | 20.00% | ~30 |
+| Shard Spender | 19.00% | ~28 |
 | Behenian Champion | 16.00% | ~24 |
 | Sadistic Plan | 15.00% | ~22 |
 | Unbeatable | 14.00% | ~21 |
-| Aquarian Champion | 12.00% | ~18 |
 | Astral Seeker | 11.00% | ~16 |
 | Stellar Haste | 11.00% | ~16 |
-| Favored by the Cosmos | 10.00% | ~15 |
+| Aquarian Champion | 11.00% | ~16 |
 | Heart Gate | 10.00% | ~15 |
 | Heavy Purger | 10.00% | ~15 |
-| The Corruption Goddess | 10.00% | ~15 |
-| The Goddes Avatar | 10.00% | ~15 |
+| Favored by the Cosmos | 9.00% | ~13 |
+| The Corruption Goddess | 9.00% | ~13 |
+| The Goddes Avatar | 9.00% | ~13 |
 | Wave Bender | 7.00% | ~10 |
 | Apian Hero | 7.00% | ~10 |
 | Anomaly Control | 6.00% | ~9 |
@@ -103,7 +103,7 @@
 | Skeptical | 0.00% | ~0 |
 | The world goes round... | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147 (Ranked 416)  
+Progressed: 149 (Ranked 416)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,4 +154,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 102 | 0 |
 | 2023-12-14 | 121 | 0 |
 | 2023-12-15 | 139 | 0 |
-| 2023-12-16 | 147 | 0 |
+| 2023-12-16 | 149 | 0 |

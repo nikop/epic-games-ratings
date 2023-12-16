@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
@@ -319,9 +319,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 233638,
+  "EOS_Progressed": 233639,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24604,6 +24604,11 @@
       "Time": "2023-12-16T06:09:10.4891916+00:00",
       "NumProgressed": 233638,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-16T07:09:13.7966886+00:00",
+      "NumProgressed": 233639,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -24775,7 +24780,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51400
+      "UsersEstimate": 51401
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -24823,7 +24828,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39718
+      "UsersEstimate": 39719
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -24838,7 +24843,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 233638,
+      "Progressed": 233639,
       "Completed": 5
     }
   ],
@@ -24846,8 +24851,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-08T19:00:51.9158199+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:09:10.4891912+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:09:13.7966882+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:19.2756281+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:57:26.6104389+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:09:10.489303+00:00"
+  "LastUpdate_Ratings": "2023-12-16T06:57:21.4517312+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:09:13.7968293+00:00"
 }

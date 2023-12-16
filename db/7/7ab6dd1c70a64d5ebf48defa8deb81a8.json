@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 520,
+  "EOS_Progressed": 521,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -1370,6 +1370,11 @@
       "Time": "2023-12-16T06:09:59.7077752+00:00",
       "NumProgressed": 520,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T07:10:19.9912857+00:00",
+      "NumProgressed": 521,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1381,7 +1386,7 @@
       "Name": "Break Out",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_02",
@@ -1427,9 +1432,9 @@
       "ID": "ACH_07",
       "SetID": "efe2lj",
       "Name": "Clear Sight",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_08",
@@ -1491,9 +1496,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_16",
@@ -1571,17 +1576,17 @@
       "ID": "ACH_25",
       "SetID": "efe2lj",
       "Name": "Fashion Victim",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_27",
@@ -1619,17 +1624,17 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_34",
@@ -1668,14 +1673,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 520,
+      "Progressed": 521,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-16T06:09:59.7077748+00:00",
+  "LastChanged_Achievements": "2023-12-16T07:10:19.9912855+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-16T05:58:43.3354907+00:00",
-  "LastUpdate_Achievements": "2023-12-16T06:09:59.7078067+00:00"
+  "LastUpdate_Ratings": "2023-12-16T06:59:16.8733169+00:00",
+  "LastUpdate_Achievements": "2023-12-16T07:10:19.991315+00:00"
 }
