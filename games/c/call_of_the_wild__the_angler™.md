@@ -11,7 +11,7 @@ Number of Ratings: 281  (23.09.2022)
 | More Fish in the Sea | 7.00% | ~494 |
 | Can you smell what the Rod is Hooking | 6.00% | ~423 |
 | Scaling up | 6.00% | ~423 |
-| I'm on a Boat! | 5.00% | ~352 |
+| I'm on a Boat! | 5.00% | ~353 |
 | Ready to Rod and Roll | 4.00% | ~282 |
 | Fish Out of Water | 3.00% | ~212 |
 | Things that go Splash in the Night | 3.00% | ~212 |
@@ -19,7 +19,7 @@ Number of Ratings: 281  (23.09.2022)
 | Goldfish? | 2.00% | ~141 |
 | Going for Gold | 2.00% | ~141 |
 | School's Out for Summer | 2.00% | ~141 |
-| I'm Hooked! | 1.00% | ~70 |
+| I'm Hooked! | 1.00% | ~71 |
 | I'm the Captain Now | 0.60% | ~42 |
 | Marathon | 0.60% | ~42 |
 | Diamond in the Rough | 0.60% | ~42 |
@@ -27,12 +27,12 @@ Number of Ratings: 281  (23.09.2022)
 | More than a Tourist | 0.40% | ~28 |
 | No Fin left to give | 0.40% | ~28 |
 | Gonna Need a Bigger Boat | 0.40% | ~28 |
+| Live by the Rod, Diez by the Rod! | 0.30% | ~19 |
 | Aguas Claras Conquistador | 0.30% | ~19 |
 | The Beetles | 0.20% | ~14 |
 | Lake Me up Before You Go Go | 0.20% | ~14 |
 | Big Fish Small Pond | 0.20% | ~14 |
 | Golden Ridge Ranger | 0.20% | ~14 |
-| Live by the Rod, Diez by the Rod! | 0.20% | ~13 |
 | All Good Kings Must Come to an End | 0.20% | ~13 |
 | Three Square Meals | 0.20% | ~13 |
 | Head for Heights | 0.10% | ~7 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,050 (Ranked 186)  
+Progressed: 7,053 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 0 (0.00%) (Ranked 378)
 | 2023-12-13 | 6,783 | 0 |
 | 2023-12-14 | 6,897 | 0 |
 | 2023-12-15 | 6,981 | 0 |
-| 2023-12-16 | 7,050 | 0 |
+| 2023-12-16 | 7,053 | 0 |
 ## Awards
 Max (Relaxing): 39  (Ranked 466)  
 Sum: 202 (Ranked 403)  

@@ -23,13 +23,13 @@
 | Courier | 6.00% | ~13 |
 | Strategist | 5.00% | ~11 |
 | Deputized | 5.00% | ~11 |
+| Spiritual Journey | 5.00% | ~11 |
 | Pilgrimage's End | 5.00% | ~11 |
 | Merchant | 5.00% | ~11 |
 | Quartermaster | 4.00% | ~9 |
 | The Voice of Hereafter | 4.00% | ~9 |
 | Despised | 4.00% | ~9 |
 | Been There | 4.00% | ~9 |
-| Spiritual Journey | 4.00% | ~9 |
 | Inquisitions of Discord | 4.00% | ~9 |
 | Trouble at Fort Larius | 4.00% | ~9 |
 | Unseen Patterns | 4.00% | ~9 |

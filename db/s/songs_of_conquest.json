@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 512,
+  "EOS_Progressed": 514,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2118,6 +2118,11 @@
       "Time": "2023-12-16T20:08:48.724569+00:00",
       "NumProgressed": 512,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T21:09:12.7036+00:00",
+      "NumProgressed": 514,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2154,7 +2159,7 @@
       "Name": "Dressed For Success",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "AttackCount",
@@ -2240,9 +2245,9 @@
       "ID": "Deepstrike",
       "SetID": "71c0n9i",
       "Name": "Deepstrike",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "DieByTheBow",
@@ -2370,7 +2375,7 @@
       "Name": "Whoops!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "RanaCampaign",
@@ -2561,15 +2566,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 512,
+      "Progressed": 514,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:08:48.7245686+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:09:12.7035996+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:29.4380381+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:01:08.5252373+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:08:48.7246057+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:01:33.8763325+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:09:12.7036441+00:00"
 }

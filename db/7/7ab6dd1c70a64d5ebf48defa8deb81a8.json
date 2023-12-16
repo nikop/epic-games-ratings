@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 610,
+  "EOS_Progressed": 613,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -1440,6 +1440,11 @@
       "Time": "2023-12-16T20:10:43.7713139+00:00",
       "NumProgressed": 610,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T21:11:02.2109669+00:00",
+      "NumProgressed": 613,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1449,9 +1454,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_02",
@@ -1515,7 +1520,7 @@
       "Name": "The Mentor",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_10",
@@ -1571,7 +1576,7 @@
       "Name": "Essence Blow",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_17",
@@ -1683,7 +1688,7 @@
       "Name": "Alchemist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_31",
@@ -1738,14 +1743,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 610,
+      "Progressed": 613,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:10:43.7713134+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:11:02.2109665+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:00:00.5907077+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:10:43.771365+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:00:27.0947932+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:11:02.2109966+00:00"
 }

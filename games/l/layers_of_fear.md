@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 78.00% | ~102 |
+| Something important | 78.00% | ~103 |
 | Wanderer | 67.00% | ~88 |
-| A piece of the story | 55.00% | ~72 |
-| It's covered up for a reason | 43.00% | ~56 |
+| A piece of the story | 56.00% | ~74 |
+| It's covered up for a reason | 43.00% | ~57 |
 | Do what you have to | 42.00% | ~55 |
-| Scraps of love | 41.00% | ~54 |
-| The artist’s impression | 40.00% | ~52 |
+| Scraps of love | 42.00% | ~55 |
+| The artist’s impression | 42.00% | ~55 |
 | Sign of weakness | 35.00% | ~46 |
 | Refuse to look | 34.00% | ~45 |
-| Finished it | 28.00% | ~37 |
-| Face your fears | 27.00% | ~35 |
+| Finished it | 29.00% | ~38 |
+| Face your fears | 27.00% | ~36 |
 | Whispers long forgotten | 15.00% | ~20 |
 | Playtime | 12.00% | ~16 |
 | Tough conversation | 12.00% | ~16 |
-| A Slice of Life | 11.00% | ~14 |
-| Debut | 11.00% | ~14 |
-| First steps | 11.00% | ~14 |
-| The art of movement | 11.00% | ~14 |
-| The tragedy unfolds | 11.00% | ~14 |
+| A Slice of Life | 11.00% | ~15 |
+| Debut | 11.00% | ~15 |
+| First steps | 11.00% | ~15 |
+| Sound Bite | 11.00% | ~15 |
+| The art of movement | 11.00% | ~15 |
+| The tragedy unfolds | 11.00% | ~15 |
 | A new way | 10.00% | ~13 |
-| Sound Bite | 10.00% | ~13 |
 | Another perspective | 9.00% | ~12 |
 | Breaking free | 9.00% | ~12 |
 | Lights! Camera! Action! | 9.00% | ~12 |
 | True Reflection | 9.00% | ~12 |
 | Casting Finished | 7.00% | ~9 |
 | Heavy Burden | 7.00% | ~9 |
-| Fisherman | 6.00% | ~8 |
+| Fisherman | 7.00% | ~9 |
 | We Are Not Alone | 5.00% | ~7 |
 | The Perfect Storm | 4.00% | ~5 |
 | Instinct of self-preservation | 4.00% | ~5 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131 (Ranked 425)  
+Progressed: 132 (Ranked 424)  
 Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,4 +111,4 @@ Completed: 0 (0.00%) (Ranked 378)
 | 2023-12-13 | 109 | 0 |
 | 2023-12-14 | 117 | 0 |
 | 2023-12-15 | 125 | 0 |
-| 2023-12-16 | 131 | 0 |
+| 2023-12-16 | 132 | 0 |

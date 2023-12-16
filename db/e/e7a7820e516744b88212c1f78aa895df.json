@@ -2,10 +2,10 @@
   "ID": "e7a7820e516744b88212c1f78aa895df",
   "Name": "Overpass 2",
   "ProductSlug": "overpass-2",
-  "Ranking_EOS_Progress": 369,
+  "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 297,
+  "EOS_Progressed": 298,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1205,6 +1205,11 @@
       "Time": "2023-12-16T10:09:14.4094123+00:00",
       "NumProgressed": 297,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T21:10:22.8600899+00:00",
+      "NumProgressed": 298,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -1271,9 +1276,9 @@
       "ID": "achScout1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Hired!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "achScoutMaxStar",
@@ -1440,14 +1445,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 297,
+      "Progressed": 298,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:10:02.205215+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:10:22.8600895+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:11.6032807+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:59:28.0742582+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:10:02.2052344+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:59:55.3596901+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:10:22.8601086+00:00"
 }

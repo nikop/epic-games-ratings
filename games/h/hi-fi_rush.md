@@ -5,9 +5,9 @@ Rating: 4.88 (Ranked 16)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 36.00% | ~2,809 |
-| Feeling the beat! | 36.00% | ~2,809 |
-| You can pet the cat! | 32.00% | ~2,497 |
+| Start with a bang! | 36.00% | ~2,810 |
+| Feeling the beat! | 36.00% | ~2,810 |
+| You can pet the cat! | 32.00% | ~2,498 |
 | Who put gears in there? | 24.00% | ~1,873 |
 | Cream of the Crop | 21.00% | ~1,639 |
 | Thanks for the free chip, Peppermint! | 20.00% | ~1,561 |
@@ -15,21 +15,21 @@ Rating: 4.88 (Ranked 16)
 | Perfect Parry | 15.00% | ~1,171 |
 | Alright, that felt AWESOME! | 15.00% | ~1,171 |
 | I play my own way! | 14.00% | ~1,093 |
-| This will cost you big time | 12.00% | ~936 |
-| Does that say weakpoint? | 12.00% | ~936 |
-| Uh, they were broken when I got here | 11.00% | ~858 |
-| Z-shielding's got nothing on us! | 10.00% | ~780 |
-| Kissing the sky! | 10.00% | ~780 |
-| Whoa! There's ANOTHER health bar!? | 9.00% | ~702 |
-| I look cool. But I can look COOLER. | 9.00% | ~702 |
+| This will cost you big time | 12.00% | ~937 |
+| Does that say weakpoint? | 12.00% | ~937 |
+| Uh, they were broken when I got here | 11.00% | ~859 |
+| Z-shielding's got nothing on us! | 10.00% | ~781 |
+| Kissing the sky! | 10.00% | ~781 |
+| Whoa! There's ANOTHER health bar!? | 9.00% | ~703 |
+| I look cool. But I can look COOLER. | 9.00% | ~703 |
 | The Negotiator | 8.00% | ~624 |
 | You must like calling me in, Chai | 7.00% | ~546 |
 | Out in a puff of smoke | 7.00% | ~546 |
 | Headliner | 6.00% | ~468 |
 | Time to pay up! | 6.00% | ~468 |
 | Who's the boss now? | 6.00% | ~468 |
+| I have to read these things? | 6.00% | ~468 |
 | Perfecter Parry-er! | 6.00% | ~468 |
-| I have to read these things? | 5.00% | ~390 |
 | NOW we got a kickass hideout! | 5.00% | ~316 |
 | Well that was a rush! | 4.00% | ~312 |
 | That's a lot of junk metal… | 4.00% | ~312 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 16)
 | Voices from within | 0.10% | ~6 |
 | Low budget finish | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,804 (Ranked 181)  
+Progressed: 7,806 (Ranked 181)  
 Completed: 8 (0.10%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 8 (0.10%) (Ranked 296)
 | 2023-12-13 | 4,535 | 8 |
 | 2023-12-14 | 5,878 | 8 |
 | 2023-12-15 | 6,923 | 8 |
-| 2023-12-16 | 7,804 | 8 |
+| 2023-12-16 | 7,806 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

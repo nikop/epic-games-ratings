@@ -3,9 +3,9 @@
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 385,
-  "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_Completed": 125,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246,
+  "EOS_Progressed": 247,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.44,
+  "EOS_Completed_Percentage": 2.43,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -496,6 +496,11 @@
       "Time": "2023-12-16T20:04:08.4344858+00:00",
       "NumProgressed": 246,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-16T21:04:44.7282013+00:00",
+      "NumProgressed": 247,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -505,9 +510,9 @@
       "ID": "01",
       "SetID": "6glb5g1",
       "Name": "The T-Rex plain.",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 126
     },
     {
       "ID": "02",
@@ -515,7 +520,7 @@
       "Name": "Crazy Jungle.",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "03",
@@ -563,7 +568,7 @@
       "Name": "Aggressive rocks.",
       "Percentage": 16,
       "XP": 80,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "09",
@@ -626,7 +631,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 246,
+      "Progressed": 247,
       "Completed": 6
     }
   ],
@@ -634,8 +639,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:04:08.4344854+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:04:44.7282008+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:21.3905331+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:00:26.4245054+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:04:08.4345016+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:00:52.4390511+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:04:44.7282175+00:00"
 }

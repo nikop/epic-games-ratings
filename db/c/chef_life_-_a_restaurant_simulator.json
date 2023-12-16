@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 780,
+  "EOS_Progressed": 781,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3412,6 +3412,11 @@
       "Time": "2023-12-16T20:09:52.8531878+00:00",
       "NumProgressed": 780,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T21:10:13.927565+00:00",
+      "NumProgressed": 781,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3469,9 +3474,9 @@
       "ID": "BistroSet",
       "SetID": "d1bm05f",
       "Name": "French Flair",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 117
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -3599,7 +3604,7 @@
       "Name": "The Big Day",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "Packing20",
@@ -3742,7 +3747,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 780,
+      "Progressed": 781,
       "Completed": 0
     }
   ],
@@ -3750,8 +3755,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:09:52.8531873+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:10:13.9275646+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:44.3806487+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:01:40.4879745+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:09:52.8532548+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:02:03.5158294+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:10:13.9275971+00:00"
 }

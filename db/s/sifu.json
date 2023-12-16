@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8209,10 +8209,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12170,
       "NumberOfAwardsMax": 6935
+    },
+    {
+      "Time": "2023-12-16T21:03:57.4975129+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12172,
+      "NumberOfAwardsMax": 6935
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12170,
+  "NumberOfAwards": 12172,
   "NumberOfAwardsMax": 6935,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8244,7 +8250,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 590
+      "Count": 592
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8289,9 +8295,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 730084,
+  "EOS_Progressed": 730126,
   "EOS_Completed": 12954,
-  "EOS_NewPlayers": 12166,
+  "EOS_NewPlayers": 12208,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.77,
   "EosHistory": [
@@ -29624,6 +29630,11 @@
       "Time": "2023-12-16T20:09:02.7893868+00:00",
       "NumProgressed": 730084,
       "NumCompleted": 12954
+    },
+    {
+      "Time": "2023-12-16T21:09:26.165886+00:00",
+      "NumProgressed": 730126,
+      "NumCompleted": 12954
     }
   ],
   "TotalAchievements": 60,
@@ -29635,7 +29646,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14602
+      "UsersEstimate": 14603
     },
     {
       "ID": "02_Vengeance_H1",
@@ -29643,7 +29654,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14602
+      "UsersEstimate": 14603
     },
     {
       "ID": "03_Vengeance_H2",
@@ -29795,7 +29806,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3650
+      "UsersEstimate": 3651
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -29811,7 +29822,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14602
+      "UsersEstimate": 14603
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -29899,7 +29910,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14602
+      "UsersEstimate": 14603
     },
     {
       "ID": "35_WideStrike",
@@ -29971,7 +29982,7 @@
       "Name": "Project Arena",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -30099,7 +30110,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -30114,21 +30125,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 39385,
+      "Progressed": 39427,
       "Completed": 10774
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 730084,
+      "Progressed": 730126,
       "Completed": 12954
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-16T11:03:07.304342+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:09:02.7893865+00:00",
+  "LastChanged": "2023-12-16T21:03:57.4975127+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:09:26.1658855+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:05.3418066+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:03:20.681197+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:09:02.7895037+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:03:57.4975133+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:09:26.1660081+00:00"
 }

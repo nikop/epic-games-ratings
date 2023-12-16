@@ -1,7 +1,7 @@
 # Sable
 [Store](https://store.epicgames.com/en-US/p/sable)  
 [View Rawdata](../../db/s/sable.json)  
-Rating: 4.53 (Ranked 549)  
+Rating: 4.53 (Ranked 550)  
 Number of Ratings: 43  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,14 +13,14 @@ Number of Ratings: 43  (23.09.2022)
 | Got Your Nose | 24.00% | ~25,102 |
 | The Gift of Gab | 24.00% | ~25,102 |
 | Wrapping Up | 22.00% | ~23,010 |
-| More Than A Box Of Sand | 18.00% | ~18,826 |
-| The Dunboyne | 17.00% | ~17,780 |
-| Badge Hobbyist | 17.00% | ~17,780 |
-| Chum Novice | 16.00% | ~16,734 |
-| Silver-Tongued Sable | 16.00% | ~16,734 |
-| Sticky Paws | 16.00% | ~16,734 |
-| Bubble Up | 16.00% | ~16,734 |
-| Thread The Needle | 15.00% | ~15,688 |
+| More Than A Box Of Sand | 18.00% | ~18,827 |
+| The Dunboyne | 17.00% | ~17,781 |
+| Badge Hobbyist | 17.00% | ~17,781 |
+| Chum Novice | 16.00% | ~16,735 |
+| Silver-Tongued Sable | 16.00% | ~16,735 |
+| Sticky Paws | 16.00% | ~16,735 |
+| Bubble Up | 16.00% | ~16,735 |
+| Thread The Needle | 15.00% | ~15,689 |
 | Power to the People | 14.00% | ~14,643 |
 | Nesting Giant | 14.00% | ~14,643 |
 | Take That! | 13.00% | ~13,597 |
@@ -50,10 +50,10 @@ Number of Ratings: 43  (23.09.2022)
 | The Guard Mask | 7.00% | ~7,321 |
 | Smoked Out | 7.00% | ~7,321 |
 | A Hard Place | 7.00% | ~7,321 |
-| The Climber Mask | 6.00% | ~6,275 |
-| The Merchant Mask | 6.00% | ~6,275 |
-| Honorary Chum | 6.00% | ~6,275 |
-| Bikes Don't Fly | 6.00% | ~6,275 |
+| The Climber Mask | 6.00% | ~6,276 |
+| The Merchant Mask | 6.00% | ~6,276 |
+| Honorary Chum | 6.00% | ~6,276 |
+| Bikes Don't Fly | 6.00% | ~6,276 |
 | The Gliding | 5.00% | ~5,230 |
 | The Entertainer Mask | 5.00% | ~5,230 |
 | The Quick and the Curious | 4.00% | ~4,184 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,138 |
 | Vivacious Vivarium | 2.00% | ~2,092 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 104,590 (Ranked 90)  
+Progressed: 104,592 (Ranked 90)  
 Completed: 1,063 (1.02%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 1,063 (1.02%) (Ranked 171)
 | 2023-12-13 | 103,948 | 1,054 |
 | 2023-12-14 | 104,188 | 1,058 |
 | 2023-12-15 | 104,389 | 1,059 |
-| 2023-12-16 | 104,590 | 1,063 |
+| 2023-12-16 | 104,592 | 1,063 |
 ## Awards
 Max (Extremely Fun): 28  (Ranked 512)  
 Sum: 118 (Ranked 445)  

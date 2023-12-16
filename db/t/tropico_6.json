@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1449,7 +1449,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6426,
+  "EOS_Progressed": 6428,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
@@ -14519,6 +14519,11 @@
       "Time": "2023-12-16T20:08:40.7117071+00:00",
       "NumProgressed": 6426,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-16T21:09:04.7107484+00:00",
+      "NumProgressed": 6428,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14610,7 +14615,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -14626,7 +14631,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -14642,7 +14647,7 @@
       "Name": "Shackadelic",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -14682,7 +14687,7 @@
       "Name": "The Governator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -14690,7 +14695,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4755
+      "UsersEstimate": 4757
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14712,9 +14717,9 @@
       "ID": "ACH_MISSION_NOELECTION",
       "SetID": "1p8ab95",
       "Name": "We Don\u0027t Have Time For That",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1157
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -14786,7 +14791,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2956
+      "UsersEstimate": 2957
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -14849,15 +14854,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6426,
+      "Progressed": 6428,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-16T18:58:39.8372052+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:08:40.7117065+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:09:04.710748+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:43.3070216+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:59:29.401214+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:08:40.711773+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:59:56.7852732+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:09:04.7108138+00:00"
 }

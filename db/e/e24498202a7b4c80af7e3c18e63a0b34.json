@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -7378,9 +7378,9 @@
       "ID": "achievement_01_03",
       "SetID": "4f1m94d",
       "Name": "Brand New Ride",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4752
+      "UsersEstimate": 4826
     },
     {
       "ID": "achievement_01_04",
@@ -7650,9 +7650,9 @@
       "ID": "achievement_04_08",
       "SetID": "4f1m94d",
       "Name": "Trigger-Happy",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 6386
+      "UsersEstimate": 6460
     },
     {
       "ID": "achievement_04_09",
@@ -7675,8 +7675,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-12-15T14:57:21.0131466+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:05:50.7427638+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:06:22.6697287+00:00",
   "LastUpdate_AppInfo": "2023-12-14T22:57:19.0822196+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:58:37.0756226+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:05:50.7428108+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:59:08.7618836+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:06:22.669787+00:00"
 }

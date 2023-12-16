@@ -50,19 +50,18 @@ Number of Ratings: 177  (23.09.2022)
 | Derezzed | 0.30% | ~20 |
 | The Elder Brahs | 0.30% | ~20 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~7 |
-| Good Riddance! | 0.20% | ~13 |
-| I Know Grump-Fu | 0.20% | ~13 |
 | The Harder They Fall...Dood | 0.20% | ~13 |
 | Ronin | 0.20% | ~13 |
 | A Striking Resemblance | 0.20% | ~13 |
 | Howz It Goin Dood | 0.20% | ~13 |
-| La Coochadora | 0.20% | ~13 |
 | Snapped | 0.20% | ~13 |
 | Against All Odds | 0.10% | ~7 |
 | Casabrova | 0.10% | ~7 |
 | Congrats, A Celebrity Hates You | 0.10% | ~4 |
 | D-Club Certified | 0.10% | ~7 |
 | Duck n' Weave | 0.10% | ~7 |
+| Good Riddance! | 0.10% | ~7 |
+| I Know Grump-Fu | 0.10% | ~7 |
 | Hijinks Averted | 0.10% | ~7 |
 | Host Hijinks | 0.10% | ~7 |
 | Hungry Hungry Hot Tubs | 0.10% | ~4 |
@@ -74,10 +73,11 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.10% | ~4 |
 | The Crush(es) | 0.10% | ~7 |
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
+| La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,666 (Ranked 187)  
-Completed: 3 (0.05%) (Ranked 327)  
+Progressed: 6,667 (Ranked 187)  
+Completed: 3 (0.04%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -307,7 +307,7 @@ Completed: 3 (0.05%) (Ranked 327)
 | 2023-12-13 | 6,573 | 3 |
 | 2023-12-14 | 6,605 | 3 |
 | 2023-12-15 | 6,637 | 3 |
-| 2023-12-16 | 6,666 | 3 |
+| 2023-12-16 | 6,667 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

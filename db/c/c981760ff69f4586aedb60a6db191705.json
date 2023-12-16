@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-11-07T14:00:00+00:00",
     "PcReleaseDate": "2020-08-20T15:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30210,
+  "EOS_Progressed": 30231,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 2237,
+  "EOS_NewPlayers": 2232,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4772,6 +4772,11 @@
       "Time": "2023-12-16T20:07:46.8885106+00:00",
       "NumProgressed": 30210,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-16T21:08:13.5023525+00:00",
+      "NumProgressed": 30231,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-10-27T13:09:43.46159+00:00",
@@ -4784,7 +4789,7 @@
       "Name": "Haven 8",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 24168
+      "UsersEstimate": 24185
     },
     {
       "ID": "ACT2_COMPLETED",
@@ -4792,7 +4797,7 @@
       "Name": "Taking it Back!",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 14803
+      "UsersEstimate": 14813
     },
     {
       "ID": "ACT3_COMPLETED",
@@ -4800,7 +4805,7 @@
       "Name": "Moonwalker",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12084
+      "UsersEstimate": 12092
     },
     {
       "ID": "ARMOR_MAX",
@@ -4808,7 +4813,7 @@
       "Name": "Iron Maiden",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "BASECAMP_FULL",
@@ -4816,7 +4821,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3625
+      "UsersEstimate": 3628
     },
     {
       "ID": "BILLY_EXPLOSION",
@@ -4824,7 +4829,7 @@
       "Name": "Oopsie...",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 9667
+      "UsersEstimate": 9674
     },
     {
       "ID": "BOSS_TAKEDOWN_BRONZE",
@@ -4832,7 +4837,7 @@
       "Name": "Boss Punisher (Bronze)",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 16616
+      "UsersEstimate": 16627
     },
     {
       "ID": "BOSS_TAKEDOWN_GOLD",
@@ -4840,7 +4845,7 @@
       "Name": "Boss Punisher (Gold)",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 10574
+      "UsersEstimate": 10581
     },
     {
       "ID": "BOSS_TAKEDOWN_SILVER",
@@ -4848,7 +4853,7 @@
       "Name": "Boss Punisher (Silver)",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 12990
+      "UsersEstimate": 12999
     },
     {
       "ID": "BROBOT_JOIN",
@@ -4856,7 +4861,7 @@
       "Name": "Meet my Brobot",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 19032
+      "UsersEstimate": 19046
     },
     {
       "ID": "BROBOT_REBOOTED",
@@ -4864,7 +4869,7 @@
       "Name": "Field Mechanic",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 16918
+      "UsersEstimate": 16929
     },
     {
       "ID": "BUS_JUMP",
@@ -4872,7 +4877,7 @@
       "Name": "Party Bus",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 20543
+      "UsersEstimate": 20557
     },
     {
       "ID": "CANYON_DEATH",
@@ -4880,7 +4885,7 @@
       "Name": "It\u0027s Gonna be a Looong Journey",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 7552
+      "UsersEstimate": 7558
     },
     {
       "ID": "COMMANDO_FINISH_GAME",
@@ -4888,7 +4893,7 @@
       "Name": "Booyakasha",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3021
+      "UsersEstimate": 3023
     },
     {
       "ID": "COMMANDO_MULTI_ROCKET",
@@ -4896,7 +4901,7 @@
       "Name": "Special Delivery",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 10876
+      "UsersEstimate": 10883
     },
     {
       "ID": "COMMANDO_UNLOCK",
@@ -4904,7 +4909,7 @@
       "Name": "Commando",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 21147
+      "UsersEstimate": 21162
     },
     {
       "ID": "COMPENDIUM_FULL",
@@ -4920,7 +4925,7 @@
       "Name": "Crystal Claimer (Bronze)",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 14199
+      "UsersEstimate": 14209
     },
     {
       "ID": "CRYSTAL_UNLOCK_GOLD",
@@ -4928,7 +4933,7 @@
       "Name": "Crystal Claimer (Gold)",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 5438
+      "UsersEstimate": 5442
     },
     {
       "ID": "CRYSTAL_UNLOCK_SILVER",
@@ -4936,7 +4941,7 @@
       "Name": "Crystal Claimer (Silver)",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 9063
+      "UsersEstimate": 9069
     },
     {
       "ID": "DAMAGE_DEALT_BRONZE",
@@ -4944,7 +4949,7 @@
       "Name": "Damage Dealer (Bronze)",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 26887
+      "UsersEstimate": 26906
     },
     {
       "ID": "DAMAGE_DEALT_GOLD",
@@ -4952,7 +4957,7 @@
       "Name": "Damage Dealer (Gold)",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 12688
+      "UsersEstimate": 12697
     },
     {
       "ID": "DAMAGE_DEALT_SILVER",
@@ -4960,7 +4965,7 @@
       "Name": "Damage Dealer (Silver)",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 16011
+      "UsersEstimate": 16022
     },
     {
       "ID": "DEFUSE_BOMB",
@@ -4968,7 +4973,7 @@
       "Name": "Just in Time",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3927
+      "UsersEstimate": 3930
     },
     {
       "ID": "ENEMY_DESTROY_BRONZE",
@@ -4976,7 +4981,7 @@
       "Name": "Robo-Regulator (Bronze)",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 23262
+      "UsersEstimate": 23278
     },
     {
       "ID": "ENEMY_DESTROY_GOLD",
@@ -4984,7 +4989,7 @@
       "Name": "Robo-Regulator (Gold)",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 5136
+      "UsersEstimate": 5139
     },
     {
       "ID": "ENEMY_DESTROY_SILVER",
@@ -4992,7 +4997,7 @@
       "Name": "Robo-Regulator (Silver)",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 10271
+      "UsersEstimate": 10279
     },
     {
       "ID": "ENGINEER_FINISH_GAME",
@@ -5000,7 +5005,7 @@
       "Name": "Science Above All!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4229
+      "UsersEstimate": 4232
     },
     {
       "ID": "ENGINEER_SUMMON",
@@ -5008,7 +5013,7 @@
       "Name": "For the Swarm!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 5438
+      "UsersEstimate": 5442
     },
     {
       "ID": "ENGINEER_UNLOCK",
@@ -5016,7 +5021,7 @@
       "Name": "Engineer",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 16918
+      "UsersEstimate": 16929
     },
     {
       "ID": "FIELDS_PORTAL",
@@ -5024,7 +5029,7 @@
       "Name": "Waaaaarp Zone!",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 11782
+      "UsersEstimate": 11790
     },
     {
       "ID": "FINISH_GAME",
@@ -5032,7 +5037,7 @@
       "Name": "Reboot",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 9365
+      "UsersEstimate": 9372
     },
     {
       "ID": "FINISH_GAME_BUDDYBOT",
@@ -5040,7 +5045,7 @@
       "Name": "Best Buddy Forever",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "FINISH_GAME_DIFF_MAX",
@@ -5048,7 +5053,7 @@
       "Name": "Hardened Guardian",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "FINISH_GAME_DIFF_MAX_RANK_S",
@@ -5064,7 +5069,7 @@
       "Name": "The Power of Friendship",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 5438
+      "UsersEstimate": 5442
     },
     {
       "ID": "FINISH_GAME_RANK_S",
@@ -5072,7 +5077,7 @@
       "Name": "Perfect Run",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 3021
+      "UsersEstimate": 3023
     },
     {
       "ID": "GADGET_UNLOCK_BRONZE",
@@ -5080,7 +5085,7 @@
       "Name": "Inspector Gadget (Bronze)",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 19032
+      "UsersEstimate": 19046
     },
     {
       "ID": "GADGET_UNLOCK_GOLD",
@@ -5088,7 +5093,7 @@
       "Name": "Inspector Gadget (Gold)",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "GADGET_UNLOCK_SILVER",
@@ -5096,7 +5101,7 @@
       "Name": "Inspector Gadget (Silver)",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 8761
+      "UsersEstimate": 8767
     },
     {
       "ID": "GUARDIAN_AMMO",
@@ -5104,7 +5109,7 @@
       "Name": "Ammo Belt",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "GUARDIAN_FINISH_GAME",
@@ -5112,7 +5117,7 @@
       "Name": "The Last Bastion",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3323
+      "UsersEstimate": 3325
     },
     {
       "ID": "GUARDIAN_HAMMER",
@@ -5120,7 +5125,7 @@
       "Name": "Whack-A-Mole",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "HEADBONK_STRAIGHT",
@@ -5128,7 +5133,7 @@
       "Name": "Mamma Mia",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 12688
+      "UsersEstimate": 12697
     },
     {
       "ID": "ITEMS_EQUIPPED",
@@ -5136,7 +5141,7 @@
       "Name": "Bazaar Best Friend",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6042
+      "UsersEstimate": 6046
     },
     {
       "ID": "LANGUAGE_FRENCH",
@@ -5144,7 +5149,7 @@
       "Name": "Confr\u00E9rie du Croissant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3021
+      "UsersEstimate": 3023
     },
     {
       "ID": "LEGENDARY_BUDDYBOT",
@@ -5152,7 +5157,7 @@
       "Name": "Pimp my Buddy",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 9365
+      "UsersEstimate": 9372
     },
     {
       "ID": "LEGENDARY_EQUIP",
@@ -5160,7 +5165,7 @@
       "Name": "Legen... wait for it... dary!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 12990
+      "UsersEstimate": 12999
     },
     {
       "ID": "LEVEL_CORRUPTED_DISCOVERED",
@@ -5168,7 +5173,7 @@
       "Name": "Nest of Corruption",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 19636
+      "UsersEstimate": 19650
     },
     {
       "ID": "LOG_UNLOCK_BRONZE",
@@ -5176,7 +5181,7 @@
       "Name": "Log Collector (Bronze)",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 24772
+      "UsersEstimate": 24789
     },
     {
       "ID": "LOG_UNLOCK_GOLD",
@@ -5184,7 +5189,7 @@
       "Name": "Log Collector (Gold)",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "LOG_UNLOCK_SILVER",
@@ -5192,7 +5197,7 @@
       "Name": "Log Collector (Silver)",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 10271
+      "UsersEstimate": 10279
     },
     {
       "ID": "LOOT_BUDDYBOT",
@@ -5200,7 +5205,7 @@
       "Name": "My Little Buddy",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 13897
+      "UsersEstimate": 13906
     },
     {
       "ID": "LOOT_SHOVEL",
@@ -5208,7 +5213,7 @@
       "Name": "Shovel Knight",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 13292
+      "UsersEstimate": 13302
     },
     {
       "ID": "MAGUS_FINISH_GAME",
@@ -5216,7 +5221,7 @@
       "Name": "Elementary",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "MAGUS_METEOR_DAMAGE",
@@ -5224,7 +5229,7 @@
       "Name": "Final Flash",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "MAGUS_UNLOCK",
@@ -5232,7 +5237,7 @@
       "Name": "Elementalist",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 6344
+      "UsersEstimate": 6349
     },
     {
       "ID": "MAX_LEVEL_REACHED",
@@ -5240,7 +5245,7 @@
       "Name": "Muscle \u002B4000",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3323
+      "UsersEstimate": 3325
     },
     {
       "ID": "MOVESPEED_MAX",
@@ -5248,7 +5253,7 @@
       "Name": "Faster Than Light",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3927
+      "UsersEstimate": 3930
     },
     {
       "ID": "POWERCELLS_SPENT",
@@ -5256,7 +5261,7 @@
       "Name": "Energy Wallet",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 13292
+      "UsersEstimate": 13302
     },
     {
       "ID": "POWERCELL_GATHER_BRONZE",
@@ -5264,7 +5269,7 @@
       "Name": "Powercell Gatherer (Bronze)",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 21449
+      "UsersEstimate": 21464
     },
     {
       "ID": "POWERCELL_GATHER_GOLD",
@@ -5272,7 +5277,7 @@
       "Name": "Powercell Gatherer (Gold)",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "POWERCELL_GATHER_SILVER",
@@ -5280,7 +5285,7 @@
       "Name": "Powercell Gatherer (Silver)",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5740
+      "UsersEstimate": 5744
     },
     {
       "ID": "QUARRY_DETONATOR",
@@ -5288,7 +5293,7 @@
       "Name": "What\u0027s That Lever For?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 12386
+      "UsersEstimate": 12395
     },
     {
       "ID": "RECON_FINISH_GAME",
@@ -5296,7 +5301,7 @@
       "Name": "Fast and Furious",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3021
+      "UsersEstimate": 3023
     },
     {
       "ID": "RECON_MULTI_SLASH",
@@ -5304,7 +5309,7 @@
       "Name": "Sushi Master",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 5438
+      "UsersEstimate": 5442
     },
     {
       "ID": "RECON_UNLOCK",
@@ -5312,7 +5317,7 @@
       "Name": "Recon",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 14501
+      "UsersEstimate": 14511
     },
     {
       "ID": "SENTINEL_FINISH_GAME",
@@ -5320,7 +5325,7 @@
       "Name": "The Long Hunt",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3323
+      "UsersEstimate": 3325
     },
     {
       "ID": "SENTINEL_JAVELIN_DAMAGE",
@@ -5328,7 +5333,7 @@
       "Name": "Bot Skewer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 3927
+      "UsersEstimate": 3930
     },
     {
       "ID": "SENTINEL_UNLOCK",
@@ -5336,7 +5341,7 @@
       "Name": "Ranger",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 21449
+      "UsersEstimate": 21464
     },
     {
       "ID": "SLIM_POWERCELL",
@@ -5344,7 +5349,7 @@
       "Name": "Spare Some Change?",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 21751
+      "UsersEstimate": 21766
     },
     {
       "ID": "UNTOUCHED_BOSS",
@@ -5352,7 +5357,7 @@
       "Name": "Easy Peasy",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12084
+      "UsersEstimate": 12092
     },
     {
       "ID": "WONKABAR_TRIGGER",
@@ -5360,7 +5365,7 @@
       "Name": "Master Gambler",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5136
+      "UsersEstimate": 5139
     },
     {
       "ID": "WRENCH_GATHER_BRONZE",
@@ -5368,7 +5373,7 @@
       "Name": "Wrench Picker (Bronze)",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 20845
+      "UsersEstimate": 20859
     },
     {
       "ID": "WRENCH_GATHER_GOLD",
@@ -5376,7 +5381,7 @@
       "Name": "Wrench Picker (Gold)",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 6042
+      "UsersEstimate": 6046
     },
     {
       "ID": "WRENCH_GATHER_SILVER",
@@ -5384,14 +5389,14 @@
       "Name": "Wrench Picker (Silver)",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 11178
+      "UsersEstimate": 11185
     }
   ],
   "AchievementSets": [
     {
       "ID": "af18nmg",
       "IsBase": true,
-      "Progressed": 30210,
+      "Progressed": 30231,
       "Completed": 46
     }
   ],
@@ -5399,8 +5404,8 @@
   "FirstSeenRating": "2023-12-12T22:56:57.7167838+00:00",
   "FirstSeenAchievements": "2023-10-19T14:04:35.320246+00:00",
   "LastChanged": "2023-12-15T22:58:27.6483323+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:07:46.88851+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:08:13.5023521+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.2320712+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:00:00.7893577+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:07:46.8885799+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:00:27.2753254+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:08:13.5024237+00:00"
 }

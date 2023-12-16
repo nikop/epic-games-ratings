@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -4549,9 +4549,9 @@
       "ID": "ACH_TOTN",
       "SetID": "b3fep3o",
       "Name": "Reign in Blood",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_TP",
@@ -4638,8 +4638,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:08:45.8103202+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:09:10.1265712+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:06.5962592+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:57:18.6717969+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:08:45.8103748+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:57:54.4687341+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:09:10.1266255+00:00"
 }

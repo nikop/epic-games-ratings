@@ -1,7 +1,7 @@
 # Lords of the Fallen
 [Store](https://store.epicgames.com/en-US/p/lords-of-the-fallen)  
 [View Rawdata](../../db/t/the_lords_of_the_fallen.json)  
-Rating: 4.21 (Ranked 920)  
+Rating: 4.22 (Ranked 915)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,11 +9,11 @@ Rating: 4.21 (Ranked 920)
 | Lost and Found | 0.30% | ~13 |
 | Comrades | 0.30% | ~13 |
 | Shared Triumph | 0.30% | ~13 |
-| No Mercy | 0.20% | ~8 |
-| Shades of Violence | 0.20% | ~8 |
-| Thriving in Darkness | 0.20% | ~8 |
-| The Past Shapes the Present | 0.20% | ~8 |
-| A Rest Among the Dead | 0.20% | ~8 |
+| No Mercy | 0.20% | ~9 |
+| Shades of Violence | 0.20% | ~9 |
+| Thriving in Darkness | 0.20% | ~9 |
+| The Past Shapes the Present | 0.20% | ~9 |
+| A Rest Among the Dead | 0.20% | ~9 |
 | Wayfarer | 0.10% | ~4 |
 | Weapon Collector | 0.10% | ~4 |
 | Ironclad | 0.10% | ~4 |
@@ -69,7 +69,7 @@ Rating: 4.21 (Ranked 920)
 | Lingering Moments | 0.10% | ~4 |
 | A Trace of Venom | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,242 (Ranked 201)  
+Progressed: 4,276 (Ranked 201)  
 Completed: 2 (0.05%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,14 +128,14 @@ Completed: 2 (0.05%) (Ranked 327)
 | 2023-12-13 | 2,475 | 2 |
 | 2023-12-14 | 3,035 | 2 |
 | 2023-12-15 | 3,641 | 2 |
-| 2023-12-16 | 4,242 | 2 |
+| 2023-12-16 | 4,276 | 2 |
 ## Awards
-Max (Character Customization): 198  (Ranked 294)  
-Sum: 520 (Ranked 326)  
-Diff (max vs sum): -32  
+Max (Character Customization): 201  (Ranked 292)  
+Sum: 523 (Ranked 326)  
+Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 198 |
+| This game has Inclusive Character Customization | 201 |
 | This game has Great Boss Battles | 148 |
 | This game has Amazing Storytelling | 29 |
 | This game has Competitive Players | 28 |
@@ -205,4 +205,4 @@ Diff (max vs sum): -32
 | 2023-12-13 | 4.21 | 197 | 460 |
 | 2023-12-14 | 4.21 | 197 | 511 |
 | 2023-12-15 | 4.21 | 198 | 518 |
-| 2023-12-16 | 4.21 | 198 | 520 |
+| 2023-12-16 | 4.22 | 201 | 523 |

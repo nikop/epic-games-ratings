@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Under the Bridge | 90.00% | ~114 |
-| Treasure Hunter | 8.00% | ~10 |
-| Budget Killer | 5.00% | ~6 |
+| Treasure Hunter | 9.00% | ~11 |
+| Budget Killer | 6.00% | ~8 |
 | Space Invader | 5.00% | ~6 |
 | Extra Life | 4.00% | ~5 |
 | One Man Army | 4.00% | ~5 |
@@ -20,7 +20,7 @@
 | Mise-en-scènester | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 127 (Ranked 430)  
-Completed: 2 (1.57%) (Ranked 143)  
+Completed: 2 (1.57%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

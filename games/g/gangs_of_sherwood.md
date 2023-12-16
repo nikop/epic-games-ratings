@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 87.00% | ~66 |
-| Air Fighter | 78.00% | ~59 |
+| Act of Kindness | 87.00% | ~67 |
+| Air Fighter | 78.00% | ~60 |
 | Oo-De-Lally | 68.00% | ~52 |
-| The Altruist | 67.00% | ~51 |
-| Treasure Hunter | 66.00% | ~50 |
-| Watch your Step! | 53.00% | ~40 |
-| MAX LEVEL | 53.00% | ~40 |
-| Tap Dancing | 50.00% | ~38 |
+| The Altruist | 68.00% | ~52 |
+| Treasure Hunter | 66.00% | ~51 |
+| Watch your Step! | 53.00% | ~41 |
+| Tap Dancing | 52.00% | ~40 |
+| MAX LEVEL | 52.00% | ~40 |
+| Spring Board | 43.00% | ~33 |
 | Right between the eyes | 42.00% | ~32 |
-| Spring Board | 42.00% | ~32 |
-| Starry Night | 38.00% | ~29 |
+| Starry Night | 39.00% | ~30 |
 | Rebel Unleashed | 38.00% | ~29 |
-| Locksley's Tears | 36.00% | ~27 |
+| Locksley's Tears | 35.00% | ~27 |
 | Merry Co-operation | 34.00% | ~26 |
 | Finish Him! | 30.00% | ~23 |
-| Assault on the Ram | 28.00% | ~21 |
+| Assault on the Ram | 27.00% | ~21 |
 | Ultra Rebel Instinct | 26.00% | ~20 |
-| First Aid | 24.00% | ~18 |
+| First Aid | 23.00% | ~18 |
 | Savior | 22.00% | ~17 |
 | Merry Go Round | 22.00% | ~17 |
-| Take Action! | 20.00% | ~15 |
+| Take Action! | 19.00% | ~15 |
 | Hidden Experiment | 18.00% | ~14 |
 | Ascending Will | 17.00% | ~13 |
 | Ultra Combo | 14.00% | ~11 |
 | Haute Couture | 13.00% | ~10 |
 | Into the Lion's Den | 12.00% | ~9 |
 | The Gang prevails | 9.00% | ~7 |
+| Sky High Fighter | 9.00% | ~7 |
 | Brilliant Executioner | 8.00% | ~6 |
-| Sky High Fighter | 8.00% | ~6 |
-| Bold and Bossy | 7.00% | ~5 |
-| Power of Friendship! | 7.00% | ~5 |
+| Bold and Bossy | 6.00% | ~5 |
+| Power of Friendship! | 6.00% | ~5 |
 | No Mercy | 5.00% | ~4 |
 | Out of the ring | 5.00% | ~4 |
 | King of the Iron Fist | 4.00% | ~3 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76 (Ranked 485)  
+Progressed: 77 (Ranked 485)  
 Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,4 +83,4 @@ Completed: 0 (0.00%) (Ranked 378)
 | 2023-12-11 | 67 | 0 |
 | 2023-12-14 | 68 | 0 |
 | 2023-12-15 | 71 | 0 |
-| 2023-12-16 | 76 | 0 |
+| 2023-12-16 | 77 | 0 |

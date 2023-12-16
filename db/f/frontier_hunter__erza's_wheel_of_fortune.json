@@ -2,10 +2,10 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 308,
+  "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 616,
+  "EOS_Progressed": 617,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2017,6 +2017,11 @@
       "Time": "2023-12-16T20:09:25.9200297+00:00",
       "NumProgressed": 616,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T21:09:48.721634+00:00",
+      "NumProgressed": 617,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -2028,7 +2033,7 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2116,7 +2121,7 @@
       "Name": "Training Simulation",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2180,7 +2185,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2188,7 +2193,7 @@
       "Name": "Trader",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -2196,7 +2201,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2212,7 +2217,7 @@
       "Name": "Weapon Boost",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -2268,7 +2273,7 @@
       "Name": "Silver Moon Wolf King Challenge",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -2284,7 +2289,7 @@
       "Name": "Storm Traveller",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2308,7 +2313,7 @@
       "Name": "Giantess Slayer",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -2380,14 +2385,14 @@
       "Name": "Handyman",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 616,
+      "Progressed": 617,
       "Completed": 1
     }
   ],
@@ -2395,8 +2400,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:09:25.9200292+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:09:48.7216335+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.1790952+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:00:08.9807455+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:09:25.9200618+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:00:35.116939+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:09:48.7216728+00:00"
 }

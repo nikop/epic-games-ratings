@@ -2,10 +2,10 @@
   "ID": "8805c35d5be3445883a032fd3efc14d0",
   "Name": "Starlight X-2 Galactic Puzzles",
   "ProductSlug": "starlight-x2-galactic-puzzles-dede7d",
-  "Ranking_EOS_Progress": 485,
+  "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-06-07T07:00:00+00:00",
     "PcReleaseDate": "2021-04-15T10:00:00+00:00",
@@ -494,9 +494,9 @@
       "ID": "ach_fast_07",
       "SetID": "8jkn3bi",
       "Name": "Fast 13x13",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_levels_00",
@@ -734,9 +734,9 @@
       "ID": "ach_usehints_02",
       "SetID": "8jkn3bi",
       "Name": "Use 50 hints",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -749,8 +749,8 @@
   ],
   "FirstSeen": "2023-11-18T16:58:15.9400848+00:00",
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:10:33.3560098+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:10:52.3606909+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:56:59.5295548+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:57:57.883516+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:10:33.3560381+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:58:32.8162596+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:10:52.3607237+00:00"
 }

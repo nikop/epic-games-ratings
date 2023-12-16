@@ -4,8 +4,8 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 358,
+  "EOS_Progressed": 359,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1359,6 +1359,11 @@
       "Time": "2023-12-16T14:06:47.5188855+00:00",
       "NumProgressed": 358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T21:08:30.1069798+00:00",
+      "NumProgressed": 359,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -1482,14 +1487,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 358,
+      "Progressed": 359,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:08:04.2088083+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:08:30.1069791+00:00",
   "LastUpdate_AppInfo": "2023-12-12T02:57:11.9041929+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:58:03.8869028+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:08:04.2088212+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:58:38.3491396+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:08:30.1069999+00:00"
 }

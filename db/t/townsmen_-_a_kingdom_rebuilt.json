@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4381,
+  "EOS_Progressed": 4382,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1722,6 +1722,11 @@
       "Time": "2023-12-16T18:10:05.5552232+00:00",
       "NumProgressed": 4381,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-16T21:11:09.4098733+00:00",
+      "NumProgressed": 4382,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -1739,9 +1744,9 @@
       "ID": "ACHIEVEMENT_AUTOTRADE_01",
       "SetID": "9eacipp",
       "Name": "Not a small trader anymore",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 219
     },
     {
       "ID": "ACHIEVEMENT_AVALANCHE_MINES",
@@ -1965,7 +1970,7 @@
       "Name": "Builder I",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACHIEVEMENT_POPULATION2",
@@ -2005,7 +2010,7 @@
       "Name": "An honorable Governor I",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACHIEVEMENT_PRESTIGE2",
@@ -2061,7 +2066,7 @@
       "Name": "Full-time job I",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACHIEVEMENT_REPAIR2",
@@ -2093,7 +2098,7 @@
       "Name": "Researcher",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED3",
@@ -2389,7 +2394,7 @@
       "Name": "Tax-man II",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACHIEVEMENT_TAXES3",
@@ -2501,7 +2506,7 @@
       "Name": "Time for some trade",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION04",
@@ -2540,15 +2545,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4381,
+      "Progressed": 4382,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-04T22:59:34.0965429+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:10:51.3924019+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:11:09.4098728+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:57.9071019+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:00:09.32999+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:10:51.3924933+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:00:35.3361948+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:11:09.4099613+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "4cbfe407ada24702a556b6e4d28a8800",
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
-  "Ranking_EOS_Progress": 319,
+  "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 550,
+  "EOS_Progressed": 551,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.45,
   "EosHistory": [
@@ -2108,6 +2108,11 @@
       "Time": "2023-12-16T20:09:25.2399212+00:00",
       "NumProgressed": 550,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-16T21:09:48.0688595+00:00",
+      "NumProgressed": 551,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -2120,7 +2125,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "achievement_10",
@@ -2136,7 +2141,7 @@
       "Name": "Karakuri Isle",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_12",
@@ -2152,7 +2157,7 @@
       "Name": "Karakuri Fortress",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_14",
@@ -2176,7 +2181,7 @@
       "Name": "Distance Devourer",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_17",
@@ -2184,15 +2189,15 @@
       "Name": "Master of the Skies",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "achievement_18",
       "SetID": "2cpn27e",
       "Name": "Man-Machine Master",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 276
     },
     {
       "ID": "achievement_19",
@@ -2216,7 +2221,7 @@
       "Name": "Subsistence Skills",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_21",
@@ -2224,7 +2229,7 @@
       "Name": "Left Arm Leverager",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_22",
@@ -2246,9 +2251,9 @@
       "ID": "achievement_24",
       "SetID": "2cpn27e",
       "Name": "Single Minded",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 160
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_25",
@@ -2270,9 +2275,9 @@
       "ID": "achievement_27",
       "SetID": "2cpn27e",
       "Name": "Mighty Marmelizer",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_28",
@@ -2288,7 +2293,7 @@
       "Name": "Fair Means or Foul",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_3",
@@ -2296,7 +2301,7 @@
       "Name": "Bonds of Enmity",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_30",
@@ -2328,7 +2333,7 @@
       "Name": "Human Believer",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_34",
@@ -2358,9 +2363,9 @@
       "ID": "achievement_37",
       "SetID": "2cpn27e",
       "Name": "Hidden History",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 397
     },
     {
       "ID": "achievement_38",
@@ -2392,7 +2397,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_41",
@@ -2424,7 +2429,7 @@
       "Name": "Artful Assister",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "achievement_45",
@@ -2470,9 +2475,9 @@
       "ID": "achievement_6",
       "SetID": "2cpn27e",
       "Name": "Commencing of Quests",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 347
     },
     {
       "ID": "achievement_7",
@@ -2480,15 +2485,15 @@
       "Name": "Budding Conjuror",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "achievement_8",
       "SetID": "2cpn27e",
       "Name": "Expert Conjuror",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 231
     },
     {
       "ID": "achievement_9",
@@ -2503,13 +2508,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 550,
+      "Progressed": 551,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:09:25.2399208+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:09:48.0688588+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:59:34.094443+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:09:25.2399916+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:00:01.0881803+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:09:48.068902+00:00"
 }

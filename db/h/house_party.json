@@ -6,9 +6,9 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 187,
-  "Ranking_EOS_Completed": 327,
+  "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -377,11 +377,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6666,
+  "EOS_Progressed": 6667,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.05,
+  "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:09.6662646+00:00",
@@ -6957,6 +6957,11 @@
       "Time": "2023-12-16T20:06:08.3741725+00:00",
       "NumProgressed": 6666,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T21:06:39.2086038+00:00",
+      "NumProgressed": 6667,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -7150,17 +7155,17 @@
       "ID": "GoodRiddance",
       "SetID": "bmkn7o4",
       "Name": "Good Riddance!",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 7
     },
     {
       "ID": "GrumpFu",
       "SetID": "bmkn7o4",
       "Name": "I Know Grump-Fu",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 7
     },
     {
       "ID": "HarderDood",
@@ -7462,9 +7467,9 @@
       "ID": "cooch",
       "SetID": "bmkn7o4",
       "Name": "La Coochadora",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 7
     },
     {
       "ID": "derezzed",
@@ -7519,21 +7524,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3705,
+      "Progressed": 3706,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6666,
+      "Progressed": 6667,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:06:08.3741721+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:06:39.2086034+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:00.6837777+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:02:10.9936357+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:06:08.3742442+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:02:30.9330929+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:06:39.2086754+00:00"
 }

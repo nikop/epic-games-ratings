@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -299,9 +299,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2414,
+  "EOS_Progressed": 2415,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6824,6 +6824,11 @@
       "Time": "2023-12-16T20:07:17.3966855+00:00",
       "NumProgressed": 2414,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T21:07:45.4853779+00:00",
+      "NumProgressed": 2415,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -6859,7 +6864,7 @@
       "Name": "Resistance is futile",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "A04",
@@ -6915,7 +6920,7 @@
       "Name": "From X to Y",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "A11",
@@ -6931,7 +6936,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "A13",
@@ -6939,7 +6944,7 @@
       "Name": "Seven at one stroke",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "A14",
@@ -6947,7 +6952,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "A15",
@@ -6955,7 +6960,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "A16",
@@ -6971,7 +6976,7 @@
       "Name": "Facility Manager",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "A18",
@@ -7011,7 +7016,7 @@
       "Name": "Brainstorm",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "A23",
@@ -7073,9 +7078,9 @@
       "ID": "A30",
       "SetID": "9b7p7eo",
       "Name": "All mine",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 724
+      "UsersEstimate": 749
     },
     {
       "ID": "A31",
@@ -7107,7 +7112,7 @@
       "Name": "Producer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "A35",
@@ -7123,7 +7128,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "A37",
@@ -7155,7 +7160,7 @@
       "Name": "Mind the Gap",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "A41",
@@ -7163,7 +7168,7 @@
       "Name": "Right through the middle",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "A42",
@@ -7211,7 +7216,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "A48",
@@ -7227,7 +7232,7 @@
       "Name": "Financial Shark",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "A50",
@@ -7274,7 +7279,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2414,
+      "Progressed": 2415,
       "Completed": 0
     }
   ],
@@ -7282,8 +7287,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-07T22:58:14.7831098+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:07:17.3966852+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:07:45.4853776+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:15.8149041+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:00:42.7957974+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:07:17.396764+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:01:09.3939391+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:07:45.485446+00:00"
 }

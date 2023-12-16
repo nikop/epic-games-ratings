@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 2.00% | ~14,602 |
-| The Assault | 2.00% | ~14,602 |
-| Life is your teacher | 2.00% | ~14,602 |
-| Lightning Hands | 2.00% | ~14,602 |
+| The Old Grandmaster | 2.00% | ~14,603 |
+| The Assault | 2.00% | ~14,603 |
+| Life is your teacher | 2.00% | ~14,603 |
+| Lightning Hands | 2.00% | ~14,603 |
 | The Hateful Pole Fighter | 1.00% | ~7,301 |
 | Street Fighting | 1.00% | ~7,301 |
 | State of constant learning | 1.00% | ~7,301 |
@@ -20,7 +20,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Lady's Blood in the Snow | 0.90% | ~6,571 |
 | Stuntmaster | 0.90% | ~6,571 |
 | Qi Gong: Breath | 0.90% | ~6,571 |
-| Project Arena | 0.90% | ~354 |
+| Project Arena | 0.90% | ~355 |
 | Lady Wing Chun | 0.80% | ~5,841 |
 | Kill Nil | 0.80% | ~5,841 |
 | Path of the Prospect | 0.80% | ~5,841 |
@@ -30,8 +30,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Scareless | 0.60% | ~4,381 |
 | Qi Gong: Mind | 0.60% | ~4,381 |
 | Kung-Fu Tussle | 0.60% | ~4,381 |
-| Fight the way you practice | 0.60% | ~236 |
-| Dance of the Praying Mantis | 0.50% | ~3,650 |
+| Fight the way you practice | 0.60% | ~237 |
+| Dance of the Praying Mantis | 0.50% | ~3,651 |
 | Bloody Sport | 0.50% | ~197 |
 | Martial Hub | 0.50% | ~197 |
 | Muk Yan Master | 0.30% | ~2,190 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~39 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,084 (Ranked 24)  
+Progressed: 730,126 (Ranked 24)  
 Completed: 12,954 (1.77%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,10 +307,10 @@ Completed: 12,954 (1.77%) (Ranked 136)
 | 2023-12-13 | 718,112 | 12,953 |
 | 2023-12-14 | 722,433 | 12,953 |
 | 2023-12-15 | 726,562 | 12,953 |
-| 2023-12-16 | 730,084 | 12,954 |
+| 2023-12-16 | 730,126 | 12,954 |
 ## Awards
 Max (Great Boss Battles): 6,935  (Ranked 55)  
-Sum: 12,170 (Ranked 83)  
+Sum: 12,172 (Ranked 83)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
@@ -318,7 +318,7 @@ Diff (max vs sum): -28
 | This game has Diverse Characters | 678 |
 | This game has Challenging Combat | 620 |
 | This game has Amazing Storytelling | 603 |
-| This game has Amazing Characters | 590 |
+| This game has Amazing Characters | 592 |
 | This game is Highly Recommended | 586 |
 | This game has Quickly Understood Controls | 584 |
 | This game is Extremely Fun | 573 |
@@ -661,4 +661,4 @@ Diff (max vs sum): -28
 | 2023-12-13 | 4.82 | - | 6,915 | 12,141 |
 | 2023-12-14 | 4.82 | - | 6,923 | 12,152 |
 | 2023-12-15 | 4.82 | - | 6,930 | 12,162 |
-| 2023-12-16 | 4.82 | - | 6,935 | 12,170 |
+| 2023-12-16 | 4.82 | - | 6,935 | 12,172 |

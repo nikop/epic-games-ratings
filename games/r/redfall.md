@@ -14,15 +14,15 @@ Rating: 3.50 (Ranked 1,062)
 | Ne Plus Ultra | 4.00% | ~75 |
 | Fly Fisher | 4.00% | ~75 |
 | Peek-a-boo | 4.00% | ~75 |
-| Enter of Your Own Free Will | 3.00% | ~56 |
-| Welcome to the Neighborhood | 3.00% | ~56 |
-| Throw The First Stone | 3.00% | ~56 |
-| Sucks To Be You | 3.00% | ~56 |
+| Enter of Your Own Free Will | 3.00% | ~57 |
+| Welcome to the Neighborhood | 3.00% | ~57 |
+| Throw The First Stone | 3.00% | ~57 |
+| Sucks To Be You | 3.00% | ~57 |
+| Heart Attack | 3.00% | ~57 |
 | Neighborhood Revitalization | 2.00% | ~38 |
 | Bad Wiring | 2.00% | ~38 |
 | Radio Silence | 2.00% | ~38 |
 | Grounded | 2.00% | ~38 |
-| Heart Attack | 2.00% | ~38 |
 | Skin of Their Teeth | 2.00% | ~38 |
 | Sic Transit Umbra | 1.00% | ~19 |
 | Bell-ringer | 1.00% | ~19 |
@@ -72,7 +72,7 @@ Rating: 3.50 (Ranked 1,062)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,883 (Ranked 235)  
+Progressed: 1,885 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 0 (0.00%) (Ranked 378)
 | 2023-12-13 | 1,784 | 0 |
 | 2023-12-14 | 1,810 | 0 |
 | 2023-12-15 | 1,843 | 0 |
-| 2023-12-16 | 1,883 | 0 |
+| 2023-12-16 | 1,885 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

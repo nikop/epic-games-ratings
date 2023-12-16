@@ -9,7 +9,7 @@ Number of Ratings: 58  (23.09.2022)
 | Another Life | 84.00% | ~1,104 |
 | Voices from the Past | 77.00% | ~1,012 |
 | Space Traveler | 77.00% | ~1,012 |
-| Demigod | 74.00% | ~972 |
+| Demigod | 75.00% | ~986 |
 | The Great Destroyer | 73.00% | ~959 |
 | Shields Down | 71.00% | ~933 |
 | Helping Hand | 66.00% | ~867 |
@@ -51,7 +51,7 @@ Number of Ratings: 58  (23.09.2022)
 | At Least You Tried | 2.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,314 (Ranked 252)  
-Completed: 17 (1.29%) (Ranked 152)  
+Completed: 17 (1.29%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

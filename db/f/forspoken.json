@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -487,9 +487,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 44098,
+  "EOS_Progressed": 44104,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 615,
+  "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15337,6 +15337,11 @@
       "Time": "2023-12-16T20:09:02.8628201+00:00",
       "NumProgressed": 44098,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T21:09:26.3190412+00:00",
+      "NumProgressed": 44104,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15586,9 +15591,9 @@
       "ID": "MAGIC_BREAK",
       "SetID": "6d0g7k8",
       "Name": "Knock \u0027Em Dead",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2646
+      "UsersEstimate": 3087
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -15771,22 +15776,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44098,
+      "Progressed": 44104,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8935,
-      "Completed": 8935
+      "Progressed": 8941,
+      "Completed": 8941
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-16T02:18:37.9301013+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:09:02.8628198+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T20:57:12.2339808+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:59:05.7521869+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:09:02.8629198+00:00"
+  "LastChanged_Achievements": "2023-12-16T21:09:26.3190405+00:00",
+  "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
+  "LastUpdate_Ratings": "2023-12-16T20:59:33.9335927+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:09:26.3191699+00:00"
 }

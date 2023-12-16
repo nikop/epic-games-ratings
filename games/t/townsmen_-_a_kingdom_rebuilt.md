@@ -12,21 +12,21 @@ Number of Ratings: 37  (23.09.2022)
 | Friends from the past | 11.00% | ~482 |
 | I like to build stuff... I | 10.00% | ~438 |
 | A time consuming game I | 9.00% | ~394 |
-| Builder I | 8.00% | ~350 |
-| An honorable Governor I | 8.00% | ~350 |
-| Full-time job I | 8.00% | ~350 |
-| Researcher | 8.00% | ~350 |
-| Tax-man II | 8.00% | ~350 |
-| Time for some trade | 8.00% | ~350 |
+| Builder I | 8.00% | ~351 |
+| An honorable Governor I | 8.00% | ~351 |
+| Full-time job I | 8.00% | ~351 |
+| Researcher | 8.00% | ~351 |
+| Tax-man II | 8.00% | ~351 |
+| Time for some trade | 8.00% | ~351 |
 | Bread for the people I | 7.00% | ~307 |
 | I like to build stuff... II | 7.00% | ~307 |
 | Completionist I | 7.00% | ~307 |
-| Not a small trader anymore | 6.00% | ~263 |
 | Full-time job II | 6.00% | ~263 |
 | Tax-man III | 6.00% | ~263 |
 | A time consuming game II | 6.00% | ~263 |
 | Tools of the trade I | 6.00% | ~263 |
 | Knee deep in snow | 6.00% | ~263 |
+| Not a small trader anymore | 5.00% | ~219 |
 | Bread for the people II | 5.00% | ~219 |
 | I like to build stuff... III | 5.00% | ~219 |
 | The King's new clothes I | 5.00% | ~219 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,381 (Ranked 200)  
+Progressed: 4,382 (Ranked 200)  
 Completed: 4 (0.09%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 4 (0.09%) (Ranked 304)
 | 2023-12-11 | 4,365 | 4 |
 | 2023-12-14 | 4,371 | 4 |
 | 2023-12-15 | 4,377 | 4 |
-| 2023-12-16 | 4,381 | 4 |
+| 2023-12-16 | 4,382 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

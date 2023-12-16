@@ -12,13 +12,13 @@
 | Persephone's Guidance | 5.00% | ~190 |
 | Lochos | 5.00% | ~190 |
 | Strength of Herakles | 5.00% | ~190 |
+| Reign in Blood | 5.00% | ~190 |
 | Immolator | 4.00% | ~152 |
 | Go For the Head | 4.00% | ~152 |
 | Spartan Sandal | 4.00% | ~152 |
 | Symbols of Heresy | 4.00% | ~152 |
 | The Sons of Minos | 4.00% | ~152 |
 | Eidola | 4.00% | ~152 |
-| Reign in Blood | 4.00% | ~152 |
 | Comedy and Tragedy | 3.00% | ~114 |
 | Pillars of Eternity | 3.00% | ~114 |
 | War Chest | 3.00% | ~114 |

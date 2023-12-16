@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -491,9 +491,9 @@
       "ID": "CgkIxYDzrbcPEAIQBw",
       "SetID": "4egpam7",
       "Name": "Cave Exploration",
-      "Percentage": 52,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCA",
@@ -547,9 +547,9 @@
       "ID": "CgkIxYDzrbcPEAIQDg",
       "SetID": "4egpam7",
       "Name": "Fireman",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDw",
@@ -690,8 +690,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:07:57.408336+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:08:23.8169785+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:44.1907943+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:58:50.6457399+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:07:57.4083586+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:59:21.2303988+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:08:23.8169985+00:00"
 }

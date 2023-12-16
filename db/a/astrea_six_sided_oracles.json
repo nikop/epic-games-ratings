@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1069,9 +1069,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1500,8 +1500,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:08:34.4962863+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:08:58.6733206+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:21.3287789+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:00:34.2779078+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:08:34.4963685+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:01:00.2047563+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:08:58.6734121+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1883,
+  "EOS_Progressed": 1885,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2683,6 +2683,11 @@
       "Time": "2023-12-16T20:07:41.9955739+00:00",
       "NumProgressed": 1883,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T21:08:08.8108947+00:00",
+      "NumProgressed": 1885,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2718,7 +2723,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Achievement_006",
@@ -2758,7 +2763,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Achievement_011",
@@ -2910,7 +2915,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Achievement_030",
@@ -2926,7 +2931,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Achievement_032",
@@ -2996,9 +3001,9 @@
       "ID": "Achievement_040",
       "SetID": "6b34g18",
       "Name": "Heart Attack",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 57
     },
     {
       "ID": "Achievement_041",
@@ -3221,7 +3226,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1883,
+      "Progressed": 1885,
       "Completed": 0
     }
   ],
@@ -3229,8 +3234,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-16T18:59:11.089974+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:07:41.9955734+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:08:08.8108943+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:19.3114561+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:00:15.6299625+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:07:41.9956293+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:00:41.3827207+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:08:08.8109615+00:00"
 }

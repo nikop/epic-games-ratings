@@ -11,7 +11,7 @@ Number of Ratings: 285  (23.09.2022)
 | Debuff Dogpile | 24.00% | ~1,335 |
 | Perk Shard Punch Card | 24.00% | ~1,335 |
 | That'll Leave a Mark | 24.00% | ~1,335 |
-| Mushroom Madness! | 22.00% | ~1,223 |
+| Mushroom Madness! | 22.00% | ~1,224 |
 | First Strike | 20.00% | ~1,112 |
 | Spending Spree | 19.00% | ~1,057 |
 | Horder Better Faster Stronger | 18.00% | ~1,001 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.50% | ~28 |
 | Deadalus and Loving It | 0.20% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,561 (Ranked 192)  
+Progressed: 5,562 (Ranked 192)  
 Completed: 4 (0.07%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 4 (0.07%) (Ranked 312)
 | 2023-12-13 | 5,474 | 4 |
 | 2023-12-14 | 5,506 | 4 |
 | 2023-12-15 | 5,538 | 4 |
-| 2023-12-16 | 5,561 | 4 |
+| 2023-12-16 | 5,562 | 4 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 480)  
 Sum: 264 (Ranked 381)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -3308,9 +3308,9 @@
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "5k00jcd",
       "Name": "Versatile riding",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -3348,9 +3348,9 @@
       "ID": "ML_ACHIEVEMENT_13",
       "SetID": "5k00jcd",
       "Name": "Look, Mom! No track!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ML_ACHIEVEMENT_14",
@@ -3428,9 +3428,9 @@
       "ID": "ML_ACHIEVEMENT_23",
       "SetID": "5k00jcd",
       "Name": "The Scorpion",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -3516,9 +3516,9 @@
       "ID": "ML_ACHIEVEMENT_34",
       "SetID": "5k00jcd",
       "Name": "Beyond the limit",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 28
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -3633,8 +3633,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:06:26.4532657+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:06:56.35283+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:59:11.6119251+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:06:26.4533115+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:59:39.8808439+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:06:56.3528812+00:00"
 }

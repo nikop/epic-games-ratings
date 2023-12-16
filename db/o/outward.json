@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3934,
+  "EOS_Progressed": 3935,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6211,6 +6211,11 @@
       "Time": "2023-12-16T20:04:23.9329079+00:00",
       "NumProgressed": 3934,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-16T21:04:59.7601079+00:00",
+      "NumProgressed": 3935,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6222,7 +6227,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "AceDetective_9",
@@ -6246,7 +6251,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "BloodAndJustice_50",
@@ -6294,7 +6299,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ForAllAurai_8",
@@ -6326,7 +6331,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "HouseofCards_19",
@@ -6406,7 +6411,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "ReadyforWinter_42",
@@ -6494,7 +6499,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "TheStuffOfLegends",
@@ -6540,9 +6545,9 @@
       "ID": "VentureOutward_21",
       "SetID": "c4hee28",
       "Name": "Venture Outward",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2911
+      "UsersEstimate": 2951
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6557,15 +6562,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3934,
+      "Progressed": 3935,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:04:23.9329076+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:04:59.7601077+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:46.9668311+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:03:08.7311602+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:04:23.9329545+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:03:46.237043+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:04:59.760153+00:00"
 }

@@ -6,41 +6,41 @@ Rating: 4.42 (Ranked 720)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 76.00% | ~1,835 |
-| A new Journey | 75.00% | ~1,810 |
-| Departure | 74.00% | ~1,786 |
-| From X to Y | 73.00% | ~1,762 |
-| Way of Iron | 71.00% | ~1,714 |
+| A new Journey | 75.00% | ~1,811 |
+| Departure | 74.00% | ~1,787 |
+| From X to Y | 73.00% | ~1,763 |
+| Way of Iron | 71.00% | ~1,715 |
 | Mystery Tour | 69.00% | ~1,666 |
 | We brake for nobody | 68.00% | ~1,642 |
-| Brainstorm | 66.00% | ~1,593 |
-| Travel Company | 66.00% | ~1,593 |
-| Mind the Gap | 65.00% | ~1,569 |
+| Brainstorm | 66.00% | ~1,594 |
+| Travel Company | 66.00% | ~1,594 |
+| Mind the Gap | 65.00% | ~1,570 |
 | All around the World | 63.00% | ~1,521 |
-| Right through the middle | 58.00% | ~1,400 |
+| Right through the middle | 58.00% | ~1,401 |
 | Poor Devil | 54.00% | ~1,304 |
-| Facility Manager | 53.00% | ~1,279 |
-| Producer | 50.00% | ~1,207 |
+| Facility Manager | 53.00% | ~1,280 |
+| Producer | 50.00% | ~1,208 |
 | Apprentice | 42.00% | ~1,014 |
 | Bridge Builder | 42.00% | ~1,014 |
 | Going once, going twice, sold | 36.00% | ~869 |
 | Access granted | 35.00% | ~845 |
 | Bull and bear | 34.00% | ~821 |
 | Stoker | 33.00% | ~797 |
-| Full Steam ahead | 32.00% | ~772 |
-| Financial Shark | 31.00% | ~748 |
-| All mine | 30.00% | ~724 |
+| Full Steam ahead | 32.00% | ~773 |
+| All mine | 31.00% | ~749 |
+| Financial Shark | 31.00% | ~749 |
 | Mole | 30.00% | ~724 |
 | Socializer | 30.00% | ~724 |
 | General Manager | 28.00% | ~676 |
 | Country Life | 28.00% | ~676 |
 | Hostile Takeover | 25.00% | ~604 |
-| Seven at one stroke | 24.00% | ~579 |
+| Seven at one stroke | 24.00% | ~580 |
 | Breaking Ground | 22.00% | ~531 |
 | Trailblazer | 21.00% | ~507 |
 | Traffic Junction | 21.00% | ~507 |
 | Traffic Jam | 19.00% | ~459 |
 | Networker | 18.00% | ~435 |
-| Resistance is futile | 17.00% | ~410 |
+| Resistance is futile | 17.00% | ~411 |
 | Bold and beautiful | 16.00% | ~386 |
 | Assimilated | 15.00% | ~362 |
 | Settler | 15.00% | ~362 |
@@ -61,7 +61,7 @@ Rating: 4.42 (Ranked 720)
 | United States | 0.60% | ~14 |
 | Together we stand | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,414 (Ranked 224)  
+Progressed: 2,415 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 0 (0.00%) (Ranked 378)
 | 2023-12-13 | 2,380 | 0 |
 | 2023-12-14 | 2,388 | 0 |
 | 2023-12-15 | 2,397 | 0 |
-| 2023-12-16 | 2,414 | 0 |
+| 2023-12-16 | 2,415 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

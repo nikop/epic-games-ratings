@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1669,10 +1669,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 162864,
-  "EOS_Completed": 332,
-  "EOS_NewPlayers": 998,
-  "EOS_NewCompleters": 60,
+  "EOS_Progressed": 162874,
+  "EOS_Completed": 333,
+  "EOS_NewPlayers": 1003,
+  "EOS_NewCompleters": 61,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -19454,6 +19454,11 @@
       "Time": "2023-12-16T20:04:48.913027+00:00",
       "NumProgressed": 162864,
       "NumCompleted": 332
+    },
+    {
+      "Time": "2023-12-16T21:05:23.2021724+00:00",
+      "NumProgressed": 162874,
+      "NumCompleted": 333
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -19664,9 +19669,9 @@
       "ID": "MISC_ABSORBMANY",
       "SetID": "ccc0dlh",
       "Name": "Devourer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 814
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -19833,21 +19838,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 162447,
+      "Progressed": 162457,
       "Completed": 1239
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 162864,
-      "Completed": 332
+      "Progressed": 162874,
+      "Completed": 333
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-15T19:00:09.2990933+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:04:48.9130266+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:05:23.2021721+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-16T19:57:38.6421931+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:04:48.9131276+00:00"
+  "LastUpdate_Ratings": "2023-12-16T20:58:14.1233329+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:05:23.2022697+00:00"
 }

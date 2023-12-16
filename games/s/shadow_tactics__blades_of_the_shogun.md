@@ -6,18 +6,18 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,364 |
-| A thief's beginning | 11.00% | ~24,167 |
-| Thorough | 11.00% | ~24,167 |
-| Disguised | 9.00% | ~19,773 |
-| Rollin' | 9.00% | ~19,773 |
-| Tanuki Time | 9.00% | ~19,773 |
-| Rescue Takuma | 8.00% | ~17,576 |
-| Stoned Ox | 8.00% | ~17,576 |
-| Happy Planning | 7.00% | ~15,379 |
-| Ice Ice Yuki | 7.00% | ~15,379 |
-| Jonin | 7.00% | ~15,379 |
-| Yabu | 7.00% | ~15,379 |
+| Genin | 12.00% | ~26,365 |
+| A thief's beginning | 11.00% | ~24,168 |
+| Thorough | 11.00% | ~24,168 |
+| Disguised | 9.00% | ~19,774 |
+| Rollin' | 9.00% | ~19,774 |
+| Tanuki Time | 9.00% | ~19,774 |
+| Rescue Takuma | 8.00% | ~17,577 |
+| Stoned Ox | 8.00% | ~17,577 |
+| Happy Planning | 7.00% | ~15,380 |
+| Ice Ice Yuki | 7.00% | ~15,380 |
+| Jonin | 7.00% | ~15,380 |
+| Yabu | 7.00% | ~15,380 |
 | Chunin | 6.00% | ~13,182 |
 | Flying Rocks | 6.00% | ~13,182 |
 | Mugen Unchained | 6.00% | ~13,182 |
@@ -43,7 +43,7 @@ Number of Ratings: 495  (23.09.2022)
 | High Five the Moon | 0.80% | ~1,758 |
 | The Cave | 0.80% | ~1,758 |
 | Time Paradox | 0.60% | ~1,318 |
-| Merciful | 0.50% | ~1,098 |
+| Merciful | 0.50% | ~1,099 |
 | Five Shadows | 0.40% | ~879 |
 | Complete Mastery | 0.20% | ~439 |
 | Praise the Shogun | 0.20% | ~439 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~220 |
 | Release the Kraken | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,700 (Ranked 72)  
+Progressed: 219,708 (Ranked 72)  
 Completed: 101 (0.05%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,10 +291,10 @@ Completed: 101 (0.05%) (Ranked 327)
 | 2023-12-13 | 219,036 | 101 |
 | 2023-12-14 | 219,244 | 101 |
 | 2023-12-15 | 219,467 | 101 |
-| 2023-12-16 | 219,700 | 101 |
+| 2023-12-16 | 219,708 | 101 |
 ## Awards
 Max (Great for Beginners): 588  (Ranked 201)  
-Sum: 4,913 (Ranked 145)  
+Sum: 4,915 (Ranked 145)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -307,7 +307,7 @@ Diff (max vs sum): 56
 | This game has Challenging Combat | 497 |
 | This game is Highly Recommended | 496 |
 | This game has Quickly Understood Controls | 463 |
-| This game has a Creative Community | 256 |
+| This game has a Creative Community | 258 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -548,4 +548,4 @@ Diff (max vs sum): 56
 | 2023-12-12 | 4.67 | - | 584 | 4,903 |
 | 2023-12-14 | 4.67 | - | 586 | 4,907 |
 | 2023-12-15 | 4.67 | - | 586 | 4,910 |
-| 2023-12-16 | 4.67 | - | 588 | 4,913 |
+| 2023-12-16 | 4.67 | - | 588 | 4,915 |

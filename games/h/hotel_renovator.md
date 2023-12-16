@@ -5,22 +5,22 @@ Rating: 4.39 (Ranked 758)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~914 |
-| And so it begins | 72.00% | ~866 |
-| No pressure | 70.00% | ~842 |
-| Memento | 61.00% | ~734 |
-| Let there be light | 59.00% | ~710 |
-| I think you dropped this | 54.00% | ~650 |
-| Soulmate? | 53.00% | ~638 |
-| Excellent service | 49.00% | ~589 |
-| Roll with it | 46.00% | ~553 |
-| Humble beginnings | 44.00% | ~529 |
-| Love is in the air | 43.00% | ~517 |
-| Fine, I'll do it myself | 42.00% | ~505 |
-| Moving up | 42.00% | ~505 |
-| No need to call anyone | 40.00% | ~481 |
-| Big fortune | 33.00% | ~397 |
-| Still more work ahead | 30.00% | ~361 |
+| Good start | 76.00% | ~916 |
+| And so it begins | 72.00% | ~868 |
+| No pressure | 70.00% | ~844 |
+| Memento | 61.00% | ~735 |
+| Let there be light | 59.00% | ~711 |
+| I think you dropped this | 54.00% | ~651 |
+| Soulmate? | 53.00% | ~639 |
+| Excellent service | 49.00% | ~590 |
+| Roll with it | 46.00% | ~554 |
+| Humble beginnings | 44.00% | ~530 |
+| Love is in the air | 43.00% | ~518 |
+| Fine, I'll do it myself | 42.00% | ~506 |
+| Moving up | 42.00% | ~506 |
+| No need to call anyone | 40.00% | ~482 |
+| Big fortune | 33.00% | ~398 |
+| Still more work ahead | 30.00% | ~362 |
 | Aesop's fable | 28.00% | ~337 |
 | Hotel sleuthing | 28.00% | ~337 |
 | Kaboom | 27.00% | ~325 |
@@ -30,11 +30,11 @@ Rating: 4.39 (Ranked 758)
 | You're a star | 21.00% | ~253 |
 | Unstoppable | 19.00% | ~229 |
 | Reunited | 19.00% | ~229 |
-| King of hospitality | 11.00% | ~132 |
+| King of hospitality | 11.00% | ~133 |
 | Top spot in town | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,203 (Ranked 260)  
-Completed: 18 (1.50%) (Ranked 144)  
+Progressed: 1,205 (Ranked 260)  
+Completed: 18 (1.49%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -219,7 +219,7 @@ Completed: 18 (1.50%) (Ranked 144)
 | 2023-12-13 | 1,161 | 18 |
 | 2023-12-14 | 1,174 | 18 |
 | 2023-12-15 | 1,192 | 18 |
-| 2023-12-16 | 1,203 | 18 |
+| 2023-12-16 | 1,205 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

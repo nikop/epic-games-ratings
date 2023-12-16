@@ -4,8 +4,8 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -290,9 +290,9 @@
       "ID": "f1",
       "SetID": "b1ggf28",
       "Name": "Agriculture Tycoon",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "f2",
@@ -338,9 +338,9 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "g2",
@@ -410,9 +410,9 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "jk2",
@@ -466,9 +466,9 @@
       "ID": "k2",
       "SetID": "b1ggf28",
       "Name": "Practice Makes Perfect",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "k3",
@@ -482,9 +482,9 @@
       "ID": "m1",
       "SetID": "b1ggf28",
       "Name": "Animal Imports",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "m2",
@@ -498,9 +498,9 @@
       "ID": "m3",
       "SetID": "b1ggf28",
       "Name": "Developed Economy",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "r1",
@@ -649,8 +649,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-16T20:05:36.5737241+00:00",
+  "LastChanged_Achievements": "2023-12-16T21:06:09.2409842+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-16T20:03:09.6559518+00:00",
-  "LastUpdate_Achievements": "2023-12-16T20:05:36.5737534+00:00"
+  "LastUpdate_Ratings": "2023-12-16T21:03:47.2881958+00:00",
+  "LastUpdate_Achievements": "2023-12-16T21:06:09.2410152+00:00"
 }

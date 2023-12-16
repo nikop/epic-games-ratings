@@ -8,7 +8,7 @@ Rating: 4.62 (Ranked 371)
 | Time Heals All Wounds | 36.00% | ~359 |
 | Rail Rat | 28.00% | ~279 |
 | The Mysterious Stranger | 27.00% | ~269 |
-| Immaculate Aim | 23.00% | ~229 |
+| Immaculate Aim | 24.00% | ~239 |
 | The Brass Boss | 23.00% | ~229 |
 | Make Up For Lost Time | 22.00% | ~219 |
 | Time Flies | 22.00% | ~219 |
@@ -30,8 +30,8 @@ Rating: 4.62 (Ranked 371)
 | Check Your Pulse | 18.00% | ~179 |
 | The Family Fortune | 18.00% | ~179 |
 | Street Style | 17.00% | ~169 |
+| Whiz Kid | 15.00% | ~150 |
 | Treasure Trove | 14.00% | ~140 |
-| Whiz Kid | 14.00% | ~140 |
 | Cartographer | 14.00% | ~140 |
 | Good Neighbor | 13.00% | ~130 |
 | Chaincrawler Explorer | 12.00% | ~120 |

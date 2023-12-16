@@ -7,10 +7,10 @@ Rating: 4.61 (Ranked 390)
 | ---- | ---------- | ----- |
 | A Thorny Situation | 0.70% | ~59 |
 | Azoria Beckons | 0.50% | ~42 |
+| Calm Sailing | 0.40% | ~34 |
 | Break-Net Speed | 0.40% | ~34 |
 | ... And Spit Back Out | 0.40% | ~34 |
 | Bramble Breaker | 0.40% | ~34 |
-| Calm Sailing | 0.30% | ~25 |
 | Open the Gate! | 0.30% | ~25 |
 | Clear the Air | 0.30% | ~25 |
 | Search for the Hairy Grell | 0.30% | ~25 |
@@ -18,8 +18,10 @@ Rating: 4.61 (Ranked 390)
 | Azorian Anniversary | 0.30% | ~25 |
 | Exit Through The Gift Shop | 0.30% | ~3 |
 | Flaming Hot Completos | 0.20% | ~17 |
+| Fae Farmer | 0.20% | ~17 |
 | Lumberjack | 0.20% | ~17 |
 | Miner 49er | 0.20% | ~17 |
+| Beach Comber | 0.20% | ~17 |
 | Humble Collector | 0.20% | ~17 |
 | Higher Tax Bracket | 0.20% | ~17 |
 | I Now Pronounce You... | 0.20% | ~17 |
@@ -30,11 +32,9 @@ Rating: 4.61 (Ranked 390)
 | Captain of Cozy | 0.20% | ~17 |
 | House Proud | 0.20% | ~17 |
 | Skilled | 0.20% | ~17 |
-| Fae Farmer | 0.10% | ~8 |
 | Cloverfield Island | 0.10% | ~8 |
 | Got to Catch Them All | 0.10% | ~8 |
 | Angling Authority | 0.10% | ~8 |
-| Beach Comber | 0.10% | ~8 |
 | Workaholic | 0.10% | ~8 |
 | Giving the People What They Want | 0.10% | ~8 |
 | Scattered Scroll Scrounger | 0.10% | ~8 |
