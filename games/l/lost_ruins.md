@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Inquisitor | 38.00% | ~201 |
+| Inquisitor | 38.00% | ~202 |
 | Goblin Tales | 30.00% | ~159 |
-| Bug Hunter | 25.00% | ~132 |
+| Bug Hunter | 25.00% | ~133 |
 | Boss Killer | 23.00% | ~122 |
-| The Fallen | 21.00% | ~111 |
+| The Fallen | 21.00% | ~112 |
 | Artifact Collector | 19.00% | ~101 |
 | Trap Master | 19.00% | ~101 |
-| Ghost Buster | 16.00% | ~85 |
-| Reincarnation | 16.00% | ~85 |
-| Iconoclasm | 15.00% | ~79 |
+| Ghost Buster | 15.00% | ~80 |
+| Iconoclasm | 15.00% | ~80 |
+| Reincarnation | 15.00% | ~80 |
 | Librarian | 13.00% | ~69 |
 | Orcs Must Die! | 13.00% | ~69 |
-| Gladiator | 12.00% | ~63 |
-| Lumberjack | 12.00% | ~63 |
-| The End | 12.00% | ~63 |
+| Gladiator | 12.00% | ~64 |
+| Lumberjack | 12.00% | ~64 |
+| The End | 12.00% | ~64 |
 | Troubleshooter | 11.00% | ~58 |
 | Money Swag | 8.00% | ~42 |
 | Oops | 7.00% | ~37 |
@@ -26,7 +26,7 @@
 | Treasure Hunter | 7.00% | ~37 |
 | Explorer | 6.00% | ~32 |
 | Trio | 6.00% | ~32 |
-| Pyromancer | 5.00% | ~26 |
+| Pyromancer | 5.00% | ~27 |
 | Arrive Home | 3.00% | ~16 |
 | Holy Knight | 3.00% | ~16 |
 | Marksman | 3.00% | ~16 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.40% | ~2 |
 | Hardboiled | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 529 (Ranked 319)  
+Progressed: 531 (Ranked 319)  
 Completed: 1 (0.19%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,6 +160,7 @@ Completed: 1 (0.19%) (Ranked 267)
 | 2023-12-13 | 505 | 1 |
 | 2023-12-14 | 517 | 1 |
 | 2023-12-15 | 529 | 1 |
+| 2023-12-16 | 531 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

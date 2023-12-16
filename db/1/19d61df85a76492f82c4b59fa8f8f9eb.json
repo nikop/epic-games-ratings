@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 362,
+  "EOS_Progressed": 363,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.22,
+  "EOS_Completed_Percentage": 10.19,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1714,6 +1714,11 @@
       "Time": "2023-12-15T23:08:42.9473533+00:00",
       "NumProgressed": 362,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-12-16T04:08:34.0489166+00:00",
+      "NumProgressed": 363,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 6,
@@ -1725,7 +1730,7 @@
       "Name": "Printing Press",
       "Percentage": 60,
       "XP": 175,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -1757,7 +1762,7 @@
       "Name": "Revolving Bridge",
       "Percentage": 33,
       "XP": 165,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -1772,14 +1777,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 362,
+      "Progressed": 363,
       "Completed": 37
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-12-16T03:08:59.1218459+00:00",
+  "LastChanged_Achievements": "2023-12-16T04:08:34.0489162+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:09.453907+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:58:32.3994945+00:00",
-  "LastUpdate_Achievements": "2023-12-16T03:08:59.1218624+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:58:04.2444763+00:00",
+  "LastUpdate_Achievements": "2023-12-16T04:08:34.0489294+00:00"
 }

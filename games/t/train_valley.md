@@ -6,14 +6,14 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 78.00% | ~425 |
-| Close call! | 72.00% | ~392 |
-| Builder | 52.00% | ~283 |
-| Pangs of conscience | 45.00% | ~245 |
-| Living it large! | 45.00% | ~245 |
-| Collector | 43.00% | ~234 |
-| Need to think | 43.00% | ~234 |
-| Completely nuts! | 41.00% | ~223 |
+| Getting started | 78.00% | ~426 |
+| Close call! | 72.00% | ~393 |
+| Builder | 52.00% | ~284 |
+| Pangs of conscience | 45.00% | ~246 |
+| Living it large! | 45.00% | ~246 |
+| Collector | 43.00% | ~235 |
+| Need to think | 43.00% | ~235 |
+| Completely nuts! | 41.00% | ~224 |
 | Europe | 33.00% | ~180 |
 | Just in time! | 33.00% | ~180 |
 | Madness! | 31.00% | ~169 |
@@ -22,15 +22,15 @@ Number of Ratings: 28  (23.09.2022)
 | Let's roll! | 27.00% | ~147 |
 | Ouroboros | 25.00% | ~136 |
 | Non Stop! | 24.00% | ~131 |
-| Foreman | 21.00% | ~114 |
+| Foreman | 21.00% | ~115 |
 | Russia | 20.00% | ~109 |
 | America | 19.00% | ~104 |
 | Missed it! | 19.00% | ~104 |
 | Sabotage | 16.00% | ~87 |
-| Achtung! | 12.00% | ~65 |
+| Achtung! | 12.00% | ~66 |
 | Japan | 11.00% | ~60 |
 | Woodcutter | 11.00% | ~60 |
-| Engineer | 10.00% | ~54 |
+| Engineer | 10.00% | ~55 |
 | Tycoon | 9.00% | ~49 |
 | Germany | 7.00% | ~38 |
 | Supercrash! | 5.00% | ~27 |
@@ -40,13 +40,13 @@ Number of Ratings: 28  (23.09.2022)
 | Forgotten | 3.00% | ~16 |
 | Lucky vandal | 2.00% | ~11 |
 | Salesman | 0.70% | ~4 |
-| BBQ | 0.60% | ~3 |
+| BBQ | 0.50% | ~3 |
 | Vandal | 0.40% | ~2 |
 | Mega-railroad | 0.40% | ~2 |
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 545 (Ranked 317)  
+Progressed: 546 (Ranked 317)  
 Completed: 2 (0.37%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,6 +171,7 @@ Completed: 2 (0.37%) (Ranked 231)
 | 2023-12-13 | 539 | 2 |
 | 2023-12-14 | 542 | 2 |
 | 2023-12-15 | 545 | 2 |
+| 2023-12-16 | 546 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

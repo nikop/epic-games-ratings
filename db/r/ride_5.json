@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2586,
+  "EOS_Progressed": 2588,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6357,6 +6357,11 @@
       "Time": "2023-12-16T03:04:31.6629617+00:00",
       "NumProgressed": 2586,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T04:03:57.5786552+00:00",
+      "NumProgressed": 2588,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6369,7 +6374,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -6401,7 +6406,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -6425,7 +6430,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -6457,7 +6462,7 @@
       "Name": "Legendary!!!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -6473,7 +6478,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -6497,7 +6502,7 @@
       "Name": "Cherry Blossom and Temples",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -6521,7 +6526,7 @@
       "Name": "The Road to Liberty",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -6577,7 +6582,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -6593,7 +6598,7 @@
       "Name": "I Make the Rules!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -6625,7 +6630,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -6657,7 +6662,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -6665,7 +6670,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -6673,7 +6678,7 @@
       "Name": "Champagne Spray",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -6721,7 +6726,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -6760,14 +6765,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2586,
+      "Progressed": 2588,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-16T03:04:31.6629613+00:00",
+  "LastChanged_Achievements": "2023-12-16T04:03:57.5786545+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:07.7630663+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:02:22.3436276+00:00",
-  "LastUpdate_Achievements": "2023-12-16T03:04:31.6630208+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:00:30.2526765+00:00",
+  "LastUpdate_Achievements": "2023-12-16T04:03:57.5787165+00:00"
 }

@@ -6,31 +6,31 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~238,865 |
-| He's Signed! | 50.00% | ~238,865 |
-| First Victory | 50.00% | ~238,865 |
-| He's Sold! | 48.00% | ~229,310 |
+| Clean Sheet | 50.00% | ~238,866 |
+| He's Signed! | 50.00% | ~238,866 |
+| First Victory | 50.00% | ~238,866 |
+| He's Sold! | 48.00% | ~229,311 |
 | I'm The Boss! | 42.00% | ~200,647 |
-| Hat-trick | 41.00% | ~195,869 |
-| Scoring Streak | 38.00% | ~181,537 |
+| Hat-trick | 41.00% | ~195,870 |
+| Scoring Streak | 38.00% | ~181,538 |
 | Unbeatable! | 37.00% | ~176,760 |
 | Thumping | 37.00% | ~176,760 |
 | Superb Dressing Room Atmosphere | 35.00% | ~167,206 |
 | Total Support | 32.00% | ~152,874 |
 | Record Signing | 32.00% | ~152,874 |
-| He's a Natural | 31.00% | ~148,096 |
-| Millionaire's Club | 31.00% | ~148,096 |
+| He's a Natural | 31.00% | ~148,097 |
+| Millionaire's Club | 31.00% | ~148,097 |
 | Team Performance | 30.00% | ~143,319 |
 | Parked The Bus | 29.00% | ~138,542 |
 | Shrewd Spender | 29.00% | ~138,542 |
 | Star Man | 29.00% | ~138,542 |
-| Attack! | 28.00% | ~133,764 |
+| Attack! | 28.00% | ~133,765 |
 | You're On Fire | 27.00% | ~128,987 |
 | Tremendous Trio | 27.00% | ~128,987 |
 | Record Sale | 27.00% | ~128,987 |
 | On A Roll | 26.00% | ~124,210 |
 | Unstoppable Force | 26.00% | ~124,210 |
-| Armchair Expert | 25.00% | ~119,432 |
+| Armchair Expert | 25.00% | ~119,433 |
 | Fantastic Five | 24.00% | ~114,655 |
 | Full Faith | 24.00% | ~114,655 |
 | Iron Curtain | 24.00% | ~114,655 |
@@ -68,8 +68,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Parked The Tank | 6.00% | ~28,664 |
 | World Renowned | 6.00% | ~28,664 |
 | Head-to-Head | 6.00% | ~28,664 |
-| Going Places | 5.00% | ~23,886 |
-| We Trust You | 5.00% | ~23,886 |
+| Going Places | 5.00% | ~23,887 |
+| We Trust You | 5.00% | ~23,887 |
 | Trophy Hoarder | 4.00% | ~19,109 |
 | National Hero | 3.00% | ~14,332 |
 | Golden Boot | 3.00% | ~14,332 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~478 |
 | Shoestring Budget | 0.10% | ~478 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 477,730 (Ranked 40)  
+Progressed: 477,731 (Ranked 40)  
 Completed: 22 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 22 (0.00%) (Ranked 377)
 | 2023-12-13 | 477,607 | 22 |
 | 2023-12-14 | 477,672 | 22 |
 | 2023-12-15 | 477,725 | 22 |
-| 2023-12-16 | 477,730 | 22 |
+| 2023-12-16 | 477,731 | 22 |
 ## Awards
 Max (Relaxing): 6,482  (Ranked 59)  
 Sum: 51,125 (Ranked 29)  

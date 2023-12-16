@@ -5,7 +5,7 @@ Rating: 4.04 (Ranked 1,007)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Earth Shattering | 47.00% | ~300 |
+| Earth Shattering | 48.00% | ~307 |
 | La Der des Ders | 16.00% | ~102 |
 | Das Ist Endgültig! | 16.00% | ~102 |
 | From the Pages of History | 8.00% | ~51 |

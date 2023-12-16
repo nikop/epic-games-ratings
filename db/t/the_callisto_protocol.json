@@ -1619,9 +1619,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 17161,
+  "EOS_Progressed": 17170,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 650,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -9799,6 +9799,11 @@
       "Time": "2023-12-16T03:09:27.4653845+00:00",
       "NumProgressed": 17161,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-16T04:08:56.1757469+00:00",
+      "NumProgressed": 17170,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -9826,7 +9831,7 @@
       "Name": "Giving Back",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -9842,7 +9847,7 @@
       "Name": "Flesh Wound",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -9914,7 +9919,7 @@
       "Name": "Get a Grip",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -9938,7 +9943,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1374
     },
     {
       "ID": "KILL_ROBOT",
@@ -9970,7 +9975,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1374
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -9978,7 +9983,7 @@
       "Name": "Reforged",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "PRINT_WEAPON",
@@ -9986,7 +9991,7 @@
       "Name": "Paper Jams",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "SHARE_PHOTO",
@@ -10002,7 +10007,7 @@
       "Name": "The Outer Way",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "STORY_ESCAPE",
@@ -10042,7 +10047,7 @@
       "Name": "Desperate Times",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1374
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -10162,7 +10167,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -10170,7 +10175,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -10185,13 +10190,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 17161,
+      "Progressed": 17170,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 5087,
+      "Progressed": 5096,
       "Completed": 29
     }
   ],
@@ -10199,8 +10204,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-15T19:03:00.030508+00:00",
-  "LastChanged_Achievements": "2023-12-16T03:09:27.465384+00:00",
+  "LastChanged_Achievements": "2023-12-16T04:08:56.1757465+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:12.8352858+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:03:23.1455133+00:00",
-  "LastUpdate_Achievements": "2023-12-16T03:09:27.4654554+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:03:04.9538495+00:00",
+  "LastUpdate_Achievements": "2023-12-16T04:08:56.1758081+00:00"
 }

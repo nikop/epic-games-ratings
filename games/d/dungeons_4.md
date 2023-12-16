@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~501 |
-| Thalya – Simply Immortal | 88.00% | ~501 |
+| The Last Stand | 89.00% | ~506 |
+| Thalya – Simply Immortal | 89.00% | ~506 |
 | For the Horde! | 83.00% | ~472 |
 | Hammer Time, Round Two | 81.00% | ~461 |
 | The Hellwoods | 76.00% | ~432 |

@@ -5,7 +5,7 @@
   "Ranking_Rating": 84,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 201,
+  "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 44,
   "Ranking_EOS_NewCompleters": 136,
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4017,
+  "EOS_Progressed": 4035,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3272,
+  "EOS_NewPlayers": 3286,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1098,6 +1098,11 @@
       "Time": "2023-12-16T03:09:52.305388+00:00",
       "NumProgressed": 4017,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T04:09:15.7553783+00:00",
+      "NumProgressed": 4035,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1118,7 +1123,7 @@
       "Name": "Stolen Star",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -1212,9 +1217,9 @@
       "ID": "15_Pentakill",
       "SetID": "37a94m8",
       "Name": "Pentakill",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "16_TheRise",
@@ -1238,15 +1243,15 @@
       "Name": "Rookie Skipper",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "19_TheVoidWolf",
       "SetID": "37a94m8",
       "Name": "Void Wolf",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 28
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -1326,15 +1331,15 @@
       "Name": "No Stone Unturned",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "30_The GreatestExploration",
       "SetID": "37a94m8",
       "Name": "Greatest Exploration",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "31_DontTouchThis",
@@ -1358,7 +1363,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -1462,7 +1467,7 @@
       "Name": "A Spark",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "47_AFlame",
@@ -1629,7 +1634,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 4017,
+      "Progressed": 4035,
       "Completed": 0
     }
   ],
@@ -1637,8 +1642,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-15T18:58:17.7479432+00:00",
-  "LastChanged_Achievements": "2023-12-16T03:09:52.3053876+00:00",
+  "LastChanged_Achievements": "2023-12-16T04:09:15.7553778+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:59:15.5159504+00:00",
-  "LastUpdate_Achievements": "2023-12-16T03:09:52.305435+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:58:36.4712689+00:00",
+  "LastUpdate_Achievements": "2023-12-16T04:09:15.7554319+00:00"
 }

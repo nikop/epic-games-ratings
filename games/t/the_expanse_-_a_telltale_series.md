@@ -5,7 +5,7 @@ Rating: 4.53 (Ranked 547)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 13.00% | ~2,137 |
+| Oyedang, Kopengs | 13.00% | ~2,138 |
 | The Pit and the Pirates | 8.00% | ~1,315 |
 | Drone Dodger | 8.00% | ~1,315 |
 | Bosmang | 8.00% | ~1,315 |
@@ -17,8 +17,8 @@ Rating: 4.53 (Ranked 547)
 | Safe Cracker | 7.00% | ~168 |
 | Zen Master | 7.00% | ~168 |
 | Madame Undersecretary | 7.00% | ~168 |
-| Stogie for Fogey | 6.00% | ~986 |
-| Call it Even | 6.00% | ~986 |
+| Stogie for Fogey | 6.00% | ~987 |
+| Call it Even | 6.00% | ~987 |
 | Keep Arjun in Check | 6.00% | ~144 |
 | Data Archivist | 5.00% | ~822 |
 | Drug Gifter | 5.00% | ~822 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 547)
 | Scavenger Star | 0.20% | ~33 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,439 (Ranked 152)  
+Progressed: 16,443 (Ranked 152)  
 Completed: 43 (0.26%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 43 (0.26%) (Ranked 250)
 | 2023-12-13 | 16,124 | 43 |
 | 2023-12-14 | 16,263 | 43 |
 | 2023-12-15 | 16,416 | 43 |
-| 2023-12-16 | 16,439 | 43 |
+| 2023-12-16 | 16,443 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

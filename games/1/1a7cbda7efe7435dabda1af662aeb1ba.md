@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breaking Free | 35.00% | ~11 |
+| Breaking Free | 39.00% | ~12 |
 | Overcoming Weakness | 19.00% | ~6 |
+| Fence-Sitter | 16.00% | ~5 |
 | Boulder Breaker | 13.00% | ~4 |
-| Fence-Sitter | 13.00% | ~4 |
 | Green Thumb | 13.00% | ~4 |
 | Crystal Hunter | 10.00% | ~3 |
 | Equivalent Exchange | 6.00% | ~2 |

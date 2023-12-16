@@ -6,11 +6,11 @@ Rating: 3.47 (Ranked 1,062)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 6.00% | ~111 |
+| Catch and Release | 5.00% | ~93 |
 | Home Is Where the Heart Is | 4.00% | ~74 |
 | Ne Plus Ultra | 4.00% | ~74 |
 | ICU | 4.00% | ~74 |
 | Wounded Whispers | 4.00% | ~74 |
-| Catch and Release | 4.00% | ~74 |
 | Blood Will Have Blood | 3.00% | ~56 |
 | Fly Fisher | 3.00% | ~56 |
 | Peek-a-boo | 3.00% | ~56 |
@@ -72,7 +72,7 @@ Rating: 3.47 (Ranked 1,062)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,853 (Ranked 234)  
+Progressed: 1,855 (Ranked 234)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 1,784 | 0 |
 | 2023-12-14 | 1,810 | 0 |
 | 2023-12-15 | 1,843 | 0 |
-| 2023-12-16 | 1,853 | 0 |
+| 2023-12-16 | 1,855 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 996,
+  "EOS_Progressed": 997,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2557,6 +2557,11 @@
       "Time": "2023-12-16T00:06:05.3767124+00:00",
       "NumProgressed": 996,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T04:06:31.3110353+00:00",
+      "NumProgressed": 997,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2769,7 +2774,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "Mnemosyne",
@@ -2793,7 +2798,7 @@
       "Name": "Museum Visitor",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "NewBeginning",
@@ -2913,7 +2918,7 @@
       "Name": "Team Spirit",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "TextAdventurer",
@@ -2929,7 +2934,7 @@
       "Name": "The All-Gifted",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "TheEdgeOfForever",
@@ -2969,15 +2974,15 @@
       "Name": "The Thief of Fire",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 229
     },
     {
       "ID": "TouchGrass",
@@ -2985,7 +2990,7 @@
       "Name": "Touch Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "TrevorsBiographer",
@@ -3009,7 +3014,7 @@
       "Name": "Wanderers",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "WesternDelta",
@@ -3040,7 +3045,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 996,
+      "Progressed": 997,
       "Completed": 1
     }
   ],
@@ -3048,8 +3053,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-16T03:07:50.809219+00:00",
+  "LastChanged_Achievements": "2023-12-16T04:06:31.311035+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:57:27.0777419+00:00",
-  "LastUpdate_Achievements": "2023-12-16T03:07:50.8092835+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:57:17.280477+00:00",
+  "LastUpdate_Achievements": "2023-12-16T04:06:31.3110899+00:00"
 }

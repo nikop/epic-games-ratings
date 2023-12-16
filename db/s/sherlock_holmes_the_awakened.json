@@ -129,7 +129,7 @@
   "Tags": [],
   "EOS_Progressed": 1195,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.59,
   "EosHistory": [
@@ -4119,9 +4119,9 @@
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 729
+      "UsersEstimate": 741
     },
     {
       "ID": "MQ02_1",
@@ -4344,8 +4344,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-14T11:03:29.6730885+00:00",
-  "LastChanged_Achievements": "2023-12-16T03:04:59.93423+00:00",
+  "LastChanged_Achievements": "2023-12-16T04:04:19.5133618+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:03:18.2898226+00:00",
-  "LastUpdate_Achievements": "2023-12-16T03:04:59.9342773+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:03:01.4818755+00:00",
+  "LastUpdate_Achievements": "2023-12-16T04:04:19.5133932+00:00"
 }

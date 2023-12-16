@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 6.00% | ~142 |
+| Malpractice Assurance | 6.00% | ~143 |
 | This Belongs in a Museum | 3.00% | ~3,825 |
 | This guy... again? | 3.00% | ~71 |
 | Bloody Graduation | 3.00% | ~71 |
@@ -19,7 +19,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 2.00% | ~2,550 |
 | Escape from the Black Hole | 2.00% | ~2,550 |
 | Autodidact | 2.00% | ~2,550 |
-| Ploughshares to Swords | 2.00% | ~47 |
+| Ploughshares to Swords | 2.00% | ~48 |
 | Don't Make Me Turn This Coach Around | 1.00% | ~1,275 |
 | It Rings a Bell | 1.00% | ~1,275 |
 | Dissector | 1.00% | ~1,275 |
@@ -33,38 +33,38 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 1.00% | ~1,275 |
 | Nope | 1.00% | ~1,275 |
 | Friends 'Til the End | 1.00% | ~24 |
-| Banishment | 0.90% | ~1,147 |
-| Deprogramming | 0.90% | ~1,147 |
-| Spelunker | 0.90% | ~1,147 |
-| Worldly Traveller | 0.90% | ~1,147 |
-| Road Trip | 0.90% | ~1,147 |
+| Banishment | 0.90% | ~1,148 |
+| Deprogramming | 0.90% | ~1,148 |
+| Spelunker | 0.90% | ~1,148 |
+| Worldly Traveller | 0.90% | ~1,148 |
+| Road Trip | 0.90% | ~1,148 |
 | Unleash Hell | 0.80% | ~1,020 |
+| Long Live the King | 0.80% | ~1,020 |
 | Unfulfilled Desires | 0.80% | ~1,020 |
 | Predator | 0.80% | ~1,020 |
 | Now Stay Dead | 0.80% | ~1,020 |
 | Reverse Banditry | 0.80% | ~1,020 |
 | Ramble On | 0.80% | ~1,020 |
 | Unshackled | 0.80% | ~1,020 |
-| Resurrection | 0.70% | ~892 |
-| Funny Guy | 0.70% | ~892 |
-| Long Live the King | 0.70% | ~892 |
-| Wyrdly Reconstructed | 0.70% | ~892 |
-| Boxcar Kid | 0.70% | ~892 |
-| A Clear Conscience | 0.70% | ~892 |
-| When You Want Something Done Right | 0.70% | ~892 |
-| Utopia | 0.70% | ~892 |
+| Resurrection | 0.70% | ~893 |
+| Funny Guy | 0.70% | ~893 |
+| Wyrdly Reconstructed | 0.70% | ~893 |
+| Boxcar Kid | 0.70% | ~893 |
+| A Clear Conscience | 0.70% | ~893 |
+| When You Want Something Done Right | 0.70% | ~893 |
+| Utopia | 0.70% | ~893 |
 | Hope Rekindled | 0.60% | ~765 |
 | Ichthyophobic | 0.60% | ~765 |
 | No More Mouths to Feed | 0.60% | ~765 |
 | Slap on the Wrist | 0.60% | ~14 |
-| Hot Air | 0.50% | ~637 |
-| Eyes Up | 0.50% | ~637 |
-| This Looks Familiar | 0.40% | ~510 |
+| This Looks Familiar | 0.50% | ~638 |
+| Hot Air | 0.50% | ~638 |
+| Eyes Up | 0.50% | ~638 |
 | Handled | 0.40% | ~510 |
 | Body of Work | 0.40% | ~510 |
-| Et Tu, Riposte? | 0.40% | ~9 |
-| For Old Time' Sake | 0.40% | ~9 |
-| Shrine of Reflection | 0.30% | ~382 |
+| Et Tu, Riposte? | 0.40% | ~10 |
+| For Old Time' Sake | 0.40% | ~10 |
+| Shrine of Reflection | 0.30% | ~383 |
 | Maître De La Lame | 0.30% | ~7 |
 | A Life Well Lived | 0.20% | ~255 |
 | The World As It Was | 0.20% | ~255 |
@@ -74,19 +74,19 @@ Number of Ratings: 7,767  (23.09.2022)
 | Triage | 0.20% | ~255 |
 | Eidetic | 0.20% | ~255 |
 | Battle Hardened | 0.20% | ~5 |
-| Loop Year | 0.10% | ~127 |
-| Circle of Life | 0.10% | ~127 |
-| No Gravestone Left Unturned | 0.10% | ~127 |
-| 20,000 Leagues Above the Sea | 0.10% | ~127 |
-| Tears in the Rain | 0.10% | ~127 |
-| The Clash | 0.10% | ~127 |
-| Grand Slam | 0.10% | ~127 |
-| Hard Mode | 0.10% | ~127 |
+| Loop Year | 0.10% | ~128 |
+| Circle of Life | 0.10% | ~128 |
+| No Gravestone Left Unturned | 0.10% | ~128 |
+| 20,000 Leagues Above the Sea | 0.10% | ~128 |
+| Tears in the Rain | 0.10% | ~128 |
+| The Clash | 0.10% | ~128 |
+| Grand Slam | 0.10% | ~128 |
+| Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~2 |
 | No Mercy | 0.10% | ~2 |
 | On This Long Road, We Found Redemption | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,497 (Ranked 84)  
+Progressed: 127,510 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
-| 2023-12-16 | 127,497 | 3 |
+| 2023-12-16 | 127,510 | 3 |
 ## Awards
 Max (Character Customization): 7,718  (Ranked 51)  
 Sum: 20,523 (Ranked 58)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3602,10 +3602,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11736,
       "NumberOfAwardsMax": 1511
+    },
+    {
+      "Time": "2023-12-16T04:00:37.4613447+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11738,
+      "NumberOfAwardsMax": 1511
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11736,
+  "NumberOfAwards": 11738,
   "NumberOfAwardsMax": 1511,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3667,7 +3673,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1440
+      "Count": 1442
     },
     {
       "Text": "This game has a Creative Community",
@@ -3676,9 +3682,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241103,
+  "EOS_Progressed": 241105,
   "EOS_Completed": 299,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -28346,6 +28352,11 @@
       "Time": "2023-12-16T03:10:35.8059967+00:00",
       "NumProgressed": 241103,
       "NumCompleted": 299
+    },
+    {
+      "Time": "2023-12-16T04:09:50.4931268+00:00",
+      "NumProgressed": 241105,
+      "NumCompleted": 299
     }
   ],
   "TotalAchievements": 138,
@@ -28851,9 +28862,9 @@
       "ID": "KILLNICEDOG",
       "SetID": "5l8oe0h",
       "Name": "Heartless",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1447
     },
     {
       "ID": "KILLPARANOIA",
@@ -29460,22 +29471,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241103,
+      "Progressed": 241105,
       "Completed": 299
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2583,
+      "Progressed": 2585,
       "Completed": 406
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2023-12-16T03:02:32.2911838+00:00",
-  "LastChanged_Achievements": "2023-12-16T03:10:35.8059963+00:00",
+  "LastChanged": "2023-12-16T04:00:37.4613445+00:00",
+  "LastChanged_Achievements": "2023-12-16T04:09:50.4931263+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:02:32.2911844+00:00",
-  "LastUpdate_Achievements": "2023-12-16T03:10:35.8063232+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:00:37.461345+00:00",
+  "LastUpdate_Achievements": "2023-12-16T04:09:50.4933613+00:00"
 }

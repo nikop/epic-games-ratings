@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 604,
+  "EOS_Progressed": 605,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1967,6 +1967,11 @@
       "Time": "2023-12-16T00:07:03.7097539+00:00",
       "NumProgressed": 604,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T04:08:43.4806276+00:00",
+      "NumProgressed": 605,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1978,7 +1983,7 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2064,9 +2069,9 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "7pimpda",
       "Name": "Training Simulation",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 471
+      "UsersEstimate": 478
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2090,7 +2095,7 @@
       "Name": "Beginner Cook",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -2114,7 +2119,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2130,7 +2135,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2234,7 +2239,7 @@
       "Name": "Storm Traveller",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2298,7 +2303,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2322,7 +2327,7 @@
       "Name": "Seal Breaker",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -2337,7 +2342,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 604,
+      "Progressed": 605,
       "Completed": 1
     }
   ],
@@ -2345,8 +2350,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-16T03:09:11.2476921+00:00",
+  "LastChanged_Achievements": "2023-12-16T04:08:43.4806271+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:03.1790952+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:59:23.1449746+00:00",
-  "LastUpdate_Achievements": "2023-12-16T03:09:11.247739+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:58:41.9661869+00:00",
+  "LastUpdate_Achievements": "2023-12-16T04:08:43.4806675+00:00"
 }

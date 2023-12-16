@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16439,
+  "EOS_Progressed": 16443,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13977,6 +13977,11 @@
       "Time": "2023-12-16T03:08:21.5578729+00:00",
       "NumProgressed": 16439,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-16T04:06:54.9890653+00:00",
+      "NumProgressed": 16443,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14021,7 +14026,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2137
+      "UsersEstimate": 2138
     },
     {
       "ID": "14",
@@ -14037,7 +14042,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "16",
@@ -14133,7 +14138,7 @@
       "Name": "Call it Even",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "27",
@@ -14268,13 +14273,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16439,
+      "Progressed": 16443,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2393,
+      "Progressed": 2397,
       "Completed": 894
     }
   ],
@@ -14282,8 +14287,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-16T03:08:21.5578725+00:00",
+  "LastChanged_Achievements": "2023-12-16T04:06:54.9890646+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:58:23.9919237+00:00",
-  "LastUpdate_Achievements": "2023-12-16T03:08:21.5579704+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:57:59.1019534+00:00",
+  "LastUpdate_Achievements": "2023-12-16T04:06:54.9891467+00:00"
 }

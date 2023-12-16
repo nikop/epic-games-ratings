@@ -18,6 +18,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Colorful Corpse | 0.60% | ~1,447 |
 | Defeat The Dark | 0.60% | ~1,447 |
 | Goodbye, Frog Friend | 0.60% | ~1,447 |
+| Heartless | 0.60% | ~1,447 |
 | A Donation | 0.60% | ~1,447 |
 | Deflection | 0.60% | ~1,447 |
 | Explorer | 0.60% | ~1,447 |
@@ -30,7 +31,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Cold Hearted | 0.50% | ~1,206 |
 | I Am Overburdened | 0.50% | ~1,206 |
 | The Bestiary | 0.50% | ~1,206 |
-| Heartless | 0.50% | ~1,206 |
 | What's Yours Is Mine | 0.50% | ~1,206 |
 | Spine Breaker | 0.50% | ~1,206 |
 | Shootout | 0.50% | ~1,206 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,103 (Ranked 65)  
+Progressed: 241,105 (Ranked 65)  
 Completed: 299 (0.12%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -385,17 +385,17 @@ Completed: 299 (0.12%) (Ranked 288)
 | 2023-12-13 | 240,984 | 298 |
 | 2023-12-14 | 241,040 | 298 |
 | 2023-12-15 | 241,093 | 299 |
-| 2023-12-16 | 241,103 | 299 |
+| 2023-12-16 | 241,105 | 299 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
-Sum: 11,736 (Ranked 87)  
+Sum: 11,738 (Ranked 87)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,534 |
 | This game has Quickly Understood Controls | 1,511 |
 | This game has Challenging Combat | 1,442 |
-| This game is Relaxing | 1,440 |
+| This game is Relaxing | 1,442 |
 | This game is Extremely Fun | 1,419 |
 | This game is Highly Recommended | 1,387 |
 | This game has Amazing Storytelling | 1,329 |
@@ -638,4 +638,4 @@ Diff (max vs sum): 47
 | 2023-12-13 | 4.58 | - | 1,508 | 11,729 |
 | 2023-12-14 | 4.58 | - | 1,508 | 11,730 |
 | 2023-12-15 | 4.58 | - | 1,510 | 11,735 |
-| 2023-12-16 | 4.58 | - | 1,511 | 11,736 |
+| 2023-12-16 | 4.58 | - | 1,511 | 11,738 |

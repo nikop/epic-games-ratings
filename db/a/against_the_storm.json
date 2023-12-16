@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 3741,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3461,9 +3461,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18287,
+  "EOS_Progressed": 18297,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15881,6 +15881,11 @@
       "Time": "2023-12-16T03:04:50.8466522+00:00",
       "NumProgressed": 18287,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-16T04:04:12.6066905+00:00",
+      "NumProgressed": 18297,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16203,9 +16208,9 @@
       "ID": "WinVeryHard",
       "SetID": "cfbk359",
       "Name": "A Real Challenge",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 183
     },
     {
       "ID": "WinWIthCaches",
@@ -16293,7 +16298,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "WinNearFrosts",
@@ -16317,7 +16322,7 @@
       "Name": "Overgrown Library",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "WinNearPetrified",
@@ -16325,7 +16330,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "WinNearPresence",
@@ -16364,15 +16369,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18287,
+      "Progressed": 18297,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-15T16:01:40.7819682+00:00",
-  "LastChanged_Achievements": "2023-12-16T03:04:50.8466517+00:00",
+  "LastChanged_Achievements": "2023-12-16T04:04:12.6066901+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:02:28.2343207+00:00",
-  "LastUpdate_Achievements": "2023-12-16T03:04:50.8467698+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:00:34.7407931+00:00",
+  "LastUpdate_Achievements": "2023-12-16T04:04:12.6067758+00:00"
 }

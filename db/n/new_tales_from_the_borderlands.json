@@ -1896,9 +1896,9 @@
       "ID": "BUY_COSMETIC_ITEM",
       "SetID": "kakdpn",
       "Name": "You\u0027re Not Naked",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1115
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -2113,8 +2113,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-12-16T03:04:19.2498617+00:00",
+  "LastChanged_Achievements": "2023-12-16T04:03:47.7676596+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:46.6955721+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:58:07.2544514+00:00",
-  "LastUpdate_Achievements": "2023-12-16T03:04:19.2498919+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:57:46.5503274+00:00",
+  "LastUpdate_Achievements": "2023-12-16T04:03:47.7676881+00:00"
 }

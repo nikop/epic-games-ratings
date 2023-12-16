@@ -957,9 +957,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3746,
+  "EOS_Progressed": 3770,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1450,
+  "EOS_NewPlayers": 1474,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4927,6 +4927,11 @@
       "Time": "2023-12-16T03:08:50.3257117+00:00",
       "NumProgressed": 3746,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-16T04:08:27.6001654+00:00",
+      "NumProgressed": 3770,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -4963,7 +4968,7 @@
       "Name": "Weapon Collector",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_005",
@@ -4995,7 +5000,7 @@
       "Name": "Ammunition Collector",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_009",
@@ -5027,7 +5032,7 @@
       "Name": "Throwable Collector",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_013",
@@ -5147,7 +5152,7 @@
       "Name": "Shades of Violence",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_028",
@@ -5411,7 +5416,7 @@
       "Name": "The Past Shapes the Present",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_061",
@@ -5427,7 +5432,7 @@
       "Name": "A Rest Among the Dead",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_063",
@@ -5442,7 +5447,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 3746,
+      "Progressed": 3770,
       "Completed": 2
     }
   ],
@@ -5450,8 +5455,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-15T16:59:21.0142262+00:00",
-  "LastChanged_Achievements": "2023-12-16T03:08:50.3257114+00:00",
+  "LastChanged_Achievements": "2023-12-16T04:08:27.6001652+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:58.7777436+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:01:07.0807461+00:00",
-  "LastUpdate_Achievements": "2023-12-16T03:08:50.3257695+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:59:57.2577517+00:00",
+  "LastUpdate_Achievements": "2023-12-16T04:08:27.600219+00:00"
 }

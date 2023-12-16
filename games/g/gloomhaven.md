@@ -1,34 +1,34 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 645)  
+Rating: 4.47 (Ranked 644)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 40.00% | ~10,630 |
-| Overkill | 34.00% | ~9,035 |
-| Vaccine Incoming | 33.00% | ~8,769 |
-| A normal day in Gloomhaven | 30.00% | ~7,972 |
-| Spread the plague | 28.00% | ~7,441 |
-| Get over here! | 24.00% | ~6,378 |
-| Just when I thought I was out... | 19.00% | ~5,049 |
-| Precious! | 17.00% | ~4,518 |
-| Mine... All Mine... | 17.00% | ~4,518 |
-| Grizzled veteran | 15.00% | ~3,986 |
-| Anatomy Lesson | 15.00% | ~3,986 |
-| Obstacle race | 13.00% | ~3,455 |
-| Light of my life | 13.00% | ~3,455 |
-| You activated my trap card! | 12.00% | ~3,189 |
-| Who's the Boss? | 11.00% | ~2,923 |
-| Augmented rat | 11.00% | ~2,923 |
-| Doom and gloom | 10.00% | ~2,657 |
+| I'm not dead yet | 40.00% | ~10,633 |
+| Overkill | 34.00% | ~9,038 |
+| Vaccine Incoming | 33.00% | ~8,772 |
+| A normal day in Gloomhaven | 30.00% | ~7,975 |
+| Spread the plague | 28.00% | ~7,443 |
+| Get over here! | 24.00% | ~6,380 |
+| Just when I thought I was out... | 19.00% | ~5,051 |
+| Precious! | 17.00% | ~4,519 |
+| Mine... All Mine... | 17.00% | ~4,519 |
+| Grizzled veteran | 15.00% | ~3,987 |
+| Anatomy Lesson | 15.00% | ~3,987 |
+| Obstacle race | 13.00% | ~3,456 |
+| Light of my life | 13.00% | ~3,456 |
+| You activated my trap card! | 12.00% | ~3,190 |
+| Who's the Boss? | 11.00% | ~2,924 |
+| Augmented rat | 11.00% | ~2,924 |
+| Doom and gloom | 10.00% | ~2,658 |
 | Dungeon Veteran | 9.00% | ~2,392 |
-| Pack leader | 8.00% | ~2,126 |
-| Pain is your friend | 8.00% | ~2,126 |
-| Black death | 8.00% | ~2,126 |
-| Play it again, Sam | 8.00% | ~2,126 |
-| Quad damage | 6.00% | ~1,594 |
+| Pack leader | 8.00% | ~2,127 |
+| Pain is your friend | 8.00% | ~2,127 |
+| Black death | 8.00% | ~2,127 |
+| Play it again, Sam | 8.00% | ~2,127 |
+| Quad damage | 6.00% | ~1,595 |
 | Power Up! | 5.00% | ~1,329 |
 | Merchant of doom | 5.00% | ~1,329 |
 | Caught off guard | 5.00% | ~1,329 |
@@ -39,13 +39,13 @@ Number of Ratings: 68  (23.09.2022)
 | Down the hatch | 3.00% | ~797 |
 | An eye for an eye | 3.00% | ~797 |
 | The Cephalophore | 3.00% | ~797 |
-| From Gloom, only greed and death emerges | 2.00% | ~531 |
-| The Rat King | 2.00% | ~531 |
-| How to train your Drake | 2.00% | ~531 |
-| Master Assassin | 2.00% | ~531 |
-| The Sniper | 2.00% | ~531 |
-| Grin and bear it | 2.00% | ~531 |
-| An axe to grind | 2.00% | ~531 |
+| From Gloom, only greed and death emerges | 2.00% | ~532 |
+| The Rat King | 2.00% | ~532 |
+| How to train your Drake | 2.00% | ~532 |
+| Master Assassin | 2.00% | ~532 |
+| The Sniper | 2.00% | ~532 |
+| Grin and bear it | 2.00% | ~532 |
+| An axe to grind | 2.00% | ~532 |
 | Betray this | 1.00% | ~266 |
 | Add a bit of colour | 1.00% | ~266 |
 | Captain hooked | 1.00% | ~266 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~27 |
 | Hard-travelling Heroes | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,574 (Ranked 133)  
+Progressed: 26,582 (Ranked 133)  
 Completed: 1 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 1 (0.00%) (Ranked 377)
 | 2023-12-13 | 26,164 | 1 |
 | 2023-12-14 | 26,331 | 1 |
 | 2023-12-15 | 26,519 | 1 |
-| 2023-12-16 | 26,574 | 1 |
+| 2023-12-16 | 26,582 | 1 |
 ## Awards
 Max (Character Customization): 3,602  (Ranked 90)  
 Sum: 8,412 (Ranked 103)  

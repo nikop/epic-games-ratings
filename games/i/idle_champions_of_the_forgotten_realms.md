@@ -12,6 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Misaligned in Sigil | 0.20% | ~414 |
 | Chaos Theory | 0.20% | ~414 |
 | The Overgrown Grove | 0.20% | ~414 |
+| Flames of Avernus | 0.20% | ~414 |
 | Mental Gymnastics | 0.20% | ~414 |
 | Maddening | 0.10% | ~241 |
 | Pros and CONs | 0.10% | ~241 |
@@ -548,13 +549,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Arcane Suppression | 0.10% | ~207 |
 | Welcome to the Vrocks | 0.10% | ~207 |
 | When Tentacles Attack | 0.10% | ~207 |
-| Flames of Avernus | 0.10% | ~207 |
 | Don't Lose Your Head | 0.10% | ~207 |
 | Mind Spike | 0.10% | ~207 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,851 (Ranked 66)  
-Completed: 2,532 (1.05%) (Ranked 167)  
+Progressed: 240,865 (Ranked 66)  
+Completed: 2,533 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -793,10 +793,10 @@ Completed: 2,532 (1.05%) (Ranked 167)
 | 2023-12-13 | 239,847 | 2,519 |
 | 2023-12-14 | 240,414 | 2,526 |
 | 2023-12-15 | 240,802 | 2,532 |
-| 2023-12-16 | 240,851 | 2,532 |
+| 2023-12-16 | 240,865 | 2,533 |
 ## Awards
 Max (Great for Beginners): 5,645  (Ranked 70)  
-Sum: 32,899 (Ranked 41)  
+Sum: 32,900 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -804,7 +804,7 @@ Diff (max vs sum): 29
 | This game has Diverse Characters | 5,601 |
 | This game has Quickly Understood Controls | 4,843 |
 | This game is Relaxing | 4,731 |
-| This game has Amazing Characters | 4,257 |
+| This game has Amazing Characters | 4,258 |
 | This game is Highly Recommended | 4,246 |
 | This game has Playful Visuals | 3,576 |
 ## Ratings History
@@ -1134,3 +1134,4 @@ Diff (max vs sum): 29
 | 2023-12-13 | 4.06 | - | 5,624 | 32,841 |
 | 2023-12-14 | 4.06 | - | 5,635 | 32,877 |
 | 2023-12-15 | 4.06 | - | 5,645 | 32,899 |
+| 2023-12-16 | 4.06 | - | 5,645 | 32,900 |

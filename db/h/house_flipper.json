@@ -2157,9 +2157,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 21537,
+  "EOS_Progressed": 21538,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11397,6 +11397,11 @@
       "Time": "2023-12-16T01:48:59.5918903+00:00",
       "NumProgressed": 21537,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-16T04:04:02.5663779+00:00",
+      "NumProgressed": 21538,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -11456,7 +11461,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20460
+      "UsersEstimate": 20461
     },
     {
       "ID": "GameOver",
@@ -11520,7 +11525,7 @@
       "Name": "Just Enough",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4307
+      "UsersEstimate": 4308
     },
     {
       "ID": "Negotiator",
@@ -11544,7 +11549,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4307
+      "UsersEstimate": 4308
     },
     {
       "ID": "SeniorEstateAgent",
@@ -11568,7 +11573,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6676
+      "UsersEstimate": 6677
     },
     {
       "ID": "VeronicaLiptson",
@@ -11591,15 +11596,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21537,
+      "Progressed": 21538,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-15T22:00:02.2475066+00:00",
-  "LastChanged_Achievements": "2023-12-16T03:04:37.9998729+00:00",
+  "LastChanged_Achievements": "2023-12-16T04:04:02.5663773+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:23.2037957+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:01:16.7159765+00:00",
-  "LastUpdate_Achievements": "2023-12-16T03:04:37.9999293+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:00:04.1949284+00:00",
+  "LastUpdate_Achievements": "2023-12-16T04:04:02.5664347+00:00"
 }

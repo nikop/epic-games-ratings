@@ -4607,9 +4607,9 @@
       "Count": 401
     }
   ],
-  "EOS_Progressed": 12364,
+  "EOS_Progressed": 12365,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17007,6 +17007,11 @@
       "Time": "2023-12-16T03:10:24.6069804+00:00",
       "NumProgressed": 12364,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T04:09:41.1991507+00:00",
+      "NumProgressed": 12365,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17018,7 +17023,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3338
+      "UsersEstimate": 3339
     },
     {
       "ID": "02_BurningCity",
@@ -17050,7 +17055,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -17410,7 +17415,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -17945,21 +17950,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11146,
+      "Progressed": 11147,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12364,
+      "Progressed": 12365,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-15T21:58:59.5020076+00:00",
-  "LastChanged_Achievements": "2023-12-16T03:10:24.6069801+00:00",
+  "LastChanged_Achievements": "2023-12-16T04:09:41.1991504+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:59:45.801725+00:00",
-  "LastUpdate_Achievements": "2023-12-16T03:10:24.6071562+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:58:58.4519048+00:00",
+  "LastUpdate_Achievements": "2023-12-16T04:09:41.1993927+00:00"
 }

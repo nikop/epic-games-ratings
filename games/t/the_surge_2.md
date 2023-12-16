@@ -5,15 +5,15 @@ Rating: 4.25 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,797 |
-| Don't I Know You...? | 77.00% | ~1,729 |
-| Jailbreak | 66.00% | ~1,482 |
+| Rigged And Ready | 80.00% | ~1,798 |
+| Don't I Know You...? | 77.00% | ~1,730 |
+| Jailbreak | 66.00% | ~1,483 |
 | Suited and Booted | 39.00% | ~876 |
-| HEADSHOT! | 38.00% | ~853 |
+| HEADSHOT! | 38.00% | ~854 |
 | Sleeping With The Fishes | 36.00% | ~809 |
-| Overheated | 31.00% | ~696 |
-| High Performance | 31.00% | ~696 |
-| Powered Up | 29.00% | ~651 |
+| Overheated | 31.00% | ~697 |
+| High Performance | 31.00% | ~697 |
+| Powered Up | 29.00% | ~652 |
 | Studied The Blade | 25.00% | ~562 |
 | Home Invasion | 23.00% | ~517 |
 | Luminary | 23.00% | ~517 |
@@ -27,8 +27,8 @@ Rating: 4.25 (Ranked 890)
 | Dead Again | 18.00% | ~404 |
 | Full Arsenal | 17.00% | ~382 |
 | Can't Trust Banks | 15.00% | ~337 |
-| Mommy Dearest | 14.00% | ~314 |
-| Bad Dog | 14.00% | ~314 |
+| Mommy Dearest | 14.00% | ~315 |
+| Bad Dog | 14.00% | ~315 |
 | Where It All Began | 13.00% | ~292 |
 | Risk Tolerant | 13.00% | ~292 |
 | What A Catchy Song | 13.00% | ~292 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 890)
 | Loot, Pillage & Craft | 2.00% | ~45 |
 | Swiss Army Drone | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,246 (Ranked 227)  
+Progressed: 2,247 (Ranked 227)  
 Completed: 13 (0.58%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,6 +240,7 @@ Completed: 13 (0.58%) (Ranked 197)
 | 2023-12-11 | 2,224 | 13 |
 | 2023-12-14 | 2,235 | 13 |
 | 2023-12-15 | 2,246 | 13 |
+| 2023-12-16 | 2,247 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

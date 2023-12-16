@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1564,17 +1564,17 @@
       "ID": "ach_main01begin_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 506
     },
     {
       "ID": "ach_main01begin_die",
       "SetID": "4hg22ll",
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 506
     },
     {
       "ID": "ach_main01begin_storm",
@@ -2059,8 +2059,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-16T03:07:18.9333249+00:00",
+  "LastChanged_Achievements": "2023-12-16T04:06:06.8919828+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:56:56.6209575+00:00",
-  "LastUpdate_Ratings": "2023-12-16T02:58:01.7631828+00:00",
-  "LastUpdate_Achievements": "2023-12-16T03:07:18.9333764+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:57:42.4479239+00:00",
+  "LastUpdate_Achievements": "2023-12-16T04:06:06.8920273+00:00"
 }

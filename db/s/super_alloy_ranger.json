@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -776,9 +776,9 @@
       "ID": "Achi_18",
       "SetID": "51a97k7",
       "Name": "Gear Up",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Achi_19",
@@ -848,9 +848,9 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "Achi_28",
@@ -872,9 +872,9 @@
       "ID": "Achi_30",
       "SetID": "51a97k7",
       "Name": "A Grand Show",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Achi_31",
@@ -1049,8 +1049,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-12-16T03:08:18.7066064+00:00",
+  "LastChanged_Achievements": "2023-12-16T04:06:52.7540336+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:46.3254839+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:00:36.3755517+00:00",
-  "LastUpdate_Achievements": "2023-12-16T03:08:18.706648+00:00"
+  "LastUpdate_Ratings": "2023-12-16T03:59:35.0656034+00:00",
+  "LastUpdate_Achievements": "2023-12-16T04:06:52.7540653+00:00"
 }

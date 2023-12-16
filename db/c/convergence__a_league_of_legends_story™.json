@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 983,
+  "EOS_Progressed": 984,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2674,6 +2674,11 @@
       "Time": "2023-12-16T03:10:10.2545964+00:00",
       "NumProgressed": 983,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-16T04:09:29.9411094+00:00",
+      "NumProgressed": 984,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2693,7 +2698,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2765,7 +2770,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "EntresolChests1",
@@ -2805,7 +2810,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2845,7 +2850,7 @@
       "Name": "Rail Rat",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "HexlockGift",
@@ -2933,7 +2938,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ParryRepeated1",
@@ -2949,7 +2954,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2957,7 +2962,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "PidgeDefeated",
@@ -2981,7 +2986,7 @@
       "Name": "Honest Mistake",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ScrambotCompletion1",
@@ -3013,7 +3018,7 @@
       "Name": "Fast Learner",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "SpeedRun",
@@ -3043,9 +3048,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 177
     },
     {
       "ID": "TheaterChests1",
@@ -3108,7 +3113,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 983,
+      "Progressed": 984,
       "Completed": 6
     }
   ],
@@ -3116,8 +3121,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-16T03:10:10.254596+00:00",
+  "LastChanged_Achievements": "2023-12-16T04:09:29.9411089+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-16T03:02:40.0892572+00:00",
-  "LastUpdate_Achievements": "2023-12-16T03:10:10.2546427+00:00"
+  "LastUpdate_Ratings": "2023-12-16T04:02:33.3516837+00:00",
+  "LastUpdate_Achievements": "2023-12-16T04:09:29.9411637+00:00"
 }

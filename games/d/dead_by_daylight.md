@@ -6,18 +6,19 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~32,933 |
-| Skillful | 3.00% | ~32,933 |
-| No one left behind | 2.00% | ~21,955 |
-| Handyman | 2.00% | ~21,955 |
-| Zealous | 2.00% | ~21,955 |
-| Not half bad | 2.00% | ~21,955 |
-| Apt Survivor | 2.00% | ~21,955 |
-| Survival Treasures | 2.00% | ~21,955 |
-| I | 2.00% | ~21,955 |
-| Sorted | 2.00% | ~21,955 |
-| Resurgence | 2.00% | ~21,955 |
-| Make Some Noise | 2.00% | ~21,955 |
+| It wakes | 3.00% | ~32,935 |
+| Skillful | 3.00% | ~32,935 |
+| No one left behind | 2.00% | ~21,957 |
+| Handyman | 2.00% | ~21,957 |
+| Zealous | 2.00% | ~21,957 |
+| Not half bad | 2.00% | ~21,957 |
+| Apt Survivor | 2.00% | ~21,957 |
+| Survival Treasures | 2.00% | ~21,957 |
+| I | 2.00% | ~21,957 |
+| Sorted | 2.00% | ~21,957 |
+| Resurgence | 2.00% | ~21,957 |
+| Preemptive Strike | 2.00% | ~21,957 |
+| Make Some Noise | 2.00% | ~21,957 |
 | The Grand Sacrifice | 1.00% | ~10,978 |
 | Agonizing Escape | 1.00% | ~10,978 |
 | Backdoor Escape | 1.00% | ~10,978 |
@@ -33,28 +34,27 @@ Number of Ratings: 70,340  (23.09.2022)
 | Wounded Healer | 1.00% | ~10,978 |
 | Healthy Obsession | 1.00% | ~10,978 |
 | Close Shave | 1.00% | ~10,978 |
-| Preemptive Strike | 1.00% | ~10,978 |
 | Humanitarian | 1.00% | ~10,978 |
-| Vulture | 0.90% | ~9,880 |
-| III | 0.90% | ~9,880 |
-| Second Act | 0.90% | ~9,880 |
-| Escape Artist | 0.80% | ~8,782 |
-| First to the Punch | 0.80% | ~8,782 |
-| Operation: Survival | 0.80% | ~8,782 |
-| Every Last Drop | 0.80% | ~8,782 |
-| With Scars to Show | 0.80% | ~8,782 |
-| Lifting The Fog | 0.80% | ~8,782 |
-| Blood on your hands | 0.70% | ~7,684 |
-| III-50 | 0.70% | ~7,684 |
-| Cherish your Life | 0.70% | ~7,684 |
-| Unforgettable Getaway | 0.70% | ~7,684 |
-| Old West Oasis | 0.70% | ~7,684 |
-| Raccoon City Recruit | 0.70% | ~7,684 |
-| Flight to Freedom | 0.70% | ~7,684 |
-| Chorus of Chaos | 0.70% | ~7,684 |
+| Vulture | 0.90% | ~9,881 |
+| III | 0.90% | ~9,881 |
+| Second Act | 0.90% | ~9,881 |
+| Escape Artist | 0.80% | ~8,783 |
+| First to the Punch | 0.80% | ~8,783 |
+| Operation: Survival | 0.80% | ~8,783 |
+| Every Last Drop | 0.80% | ~8,783 |
+| With Scars to Show | 0.80% | ~8,783 |
+| Lifting The Fog | 0.80% | ~8,783 |
+| Blood on your hands | 0.70% | ~7,685 |
+| Gifts for the Fog | 0.70% | ~7,685 |
+| III-50 | 0.70% | ~7,685 |
+| Cherish your Life | 0.70% | ~7,685 |
+| Unforgettable Getaway | 0.70% | ~7,685 |
+| Old West Oasis | 0.70% | ~7,685 |
+| Raccoon City Recruit | 0.70% | ~7,685 |
+| Flight to Freedom | 0.70% | ~7,685 |
+| Chorus of Chaos | 0.70% | ~7,685 |
 | Made it out alive! | 0.60% | ~6,587 |
 | Nerves of steel | 0.60% | ~6,587 |
-| Gifts for the Fog | 0.60% | ~6,587 |
 | All Aboard | 0.60% | ~6,587 |
 | Item of Obsession | 0.60% | ~6,587 |
 | House of Pain | 0.60% | ~6,587 |
@@ -89,20 +89,20 @@ Number of Ratings: 70,340  (23.09.2022)
 | Insult and Injury | 0.40% | ~4,391 |
 | High Speed Pursuit | 0.40% | ~4,391 |
 | Rebuilding The Borgo | 0.40% | ~4,391 |
-| Blood in your mouth | 0.30% | ~3,293 |
-| Jump Scares | 0.30% | ~3,293 |
-| Deep Cleansing | 0.30% | ~3,293 |
-| Texas BBQ | 0.30% | ~3,293 |
-| Party Crasher | 0.30% | ~3,293 |
-| Whiffing to Success | 0.30% | ~3,293 |
-| Outrage | 0.30% | ~3,293 |
-| Heavy Burden | 0.30% | ~3,293 |
-| I See You | 0.30% | ~3,293 |
-| Power Moves | 0.30% | ~3,293 |
-| Punch Drunk | 0.30% | ~3,293 |
-| Prowler | 0.30% | ~3,293 |
-| Triage | 0.30% | ~3,293 |
-| Complete the Evolution | 0.30% | ~3,293 |
+| Blood in your mouth | 0.30% | ~3,294 |
+| Jump Scares | 0.30% | ~3,294 |
+| Deep Cleansing | 0.30% | ~3,294 |
+| Texas BBQ | 0.30% | ~3,294 |
+| Party Crasher | 0.30% | ~3,294 |
+| Whiffing to Success | 0.30% | ~3,294 |
+| Outrage | 0.30% | ~3,294 |
+| Heavy Burden | 0.30% | ~3,294 |
+| I See You | 0.30% | ~3,294 |
+| Power Moves | 0.30% | ~3,294 |
+| Punch Drunk | 0.30% | ~3,294 |
+| Prowler | 0.30% | ~3,294 |
+| Triage | 0.30% | ~3,294 |
+| Complete the Evolution | 0.30% | ~3,294 |
 | Mad House | 0.20% | ~2,196 |
 | Looter | 0.20% | ~2,196 |
 | Dismantle | 0.20% | ~2,196 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,098 |
 | Adept Good Guy | 0.10% | ~1,098 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,097,768 (Ranked 12)  
+Progressed: 1,097,848 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -479,7 +479,7 @@ Completed: 62 (0.01%) (Ranked 353)
 | 2023-12-13 | 1,092,812 | 62 |
 | 2023-12-14 | 1,095,217 | 62 |
 | 2023-12-15 | 1,097,468 | 62 |
-| 2023-12-16 | 1,097,768 | 62 |
+| 2023-12-16 | 1,097,848 | 62 |
 ## Awards
 Max (Diverse Characters): 38,017  (Ranked 15)  
 Sum: 287,519 (Ranked 12)  

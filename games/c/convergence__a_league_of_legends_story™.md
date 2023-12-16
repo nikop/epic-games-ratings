@@ -6,8 +6,8 @@ Rating: 4.62 (Ranked 370)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 35.00% | ~344 |
-| The Mysterious Stranger | 27.00% | ~265 |
-| Rail Rat | 27.00% | ~265 |
+| The Mysterious Stranger | 27.00% | ~266 |
+| Rail Rat | 27.00% | ~266 |
 | Immaculate Aim | 23.00% | ~226 |
 | The Brass Boss | 23.00% | ~226 |
 | Make Up For Lost Time | 22.00% | ~216 |
@@ -15,19 +15,19 @@ Rating: 4.62 (Ranked 370)
 | No, Thanks! | 22.00% | ~216 |
 | The Prince in Heels | 22.00% | ~216 |
 | Immaculate Aim | 22.00% | ~216 |
-| The Steel Shadow | 21.00% | ~206 |
-| The Harder They Fall | 21.00% | ~206 |
-| Breaking Down Barriers | 21.00% | ~206 |
-| The Wicked Twins | 21.00% | ~206 |
-| Honest Mistake | 21.00% | ~206 |
-| Fast Learner | 21.00% | ~206 |
+| The Steel Shadow | 21.00% | ~207 |
+| The Harder They Fall | 21.00% | ~207 |
+| Breaking Down Barriers | 21.00% | ~207 |
+| The Wicked Twins | 21.00% | ~207 |
+| Honest Mistake | 21.00% | ~207 |
+| Fast Learner | 21.00% | ~207 |
 | Like Clockwork | 20.00% | ~197 |
 | The Betrayer | 20.00% | ~197 |
 | Right On Time | 19.00% | ~187 |
 | Golem Chaser | 19.00% | ~187 |
-| Check Your Pulse | 19.00% | ~187 |
 | The Man Who Shattered Time | 18.00% | ~177 |
 | The Loose Cannon | 18.00% | ~177 |
+| Check Your Pulse | 18.00% | ~177 |
 | The Family Fortune | 18.00% | ~177 |
 | Street Style | 17.00% | ~167 |
 | Treasure Trove | 14.00% | ~138 |
@@ -42,7 +42,7 @@ Rating: 4.62 (Ranked 370)
 | Fairgrounds Explorer | 10.00% | ~98 |
 | Sump Explorer | 10.00% | ~98 |
 | Theater Explorer | 10.00% | ~98 |
-| Cultivair Explorer | 9.00% | ~88 |
+| Cultivair Explorer | 9.00% | ~89 |
 | Corin Goes Home | 8.00% | ~79 |
 | Sartorialist | 8.00% | ~79 |
 | Entresol Explorer | 8.00% | ~79 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 370)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 983 (Ranked 274)  
+Progressed: 984 (Ranked 274)  
 Completed: 6 (0.61%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 6 (0.61%) (Ranked 193)
 | 2023-12-13 | 955 | 6 |
 | 2023-12-14 | 963 | 6 |
 | 2023-12-15 | 978 | 6 |
-| 2023-12-16 | 983 | 6 |
+| 2023-12-16 | 984 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
