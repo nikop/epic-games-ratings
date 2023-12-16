@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1086,
+  "EOS_Progressed": 1087,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2956,6 +2956,11 @@
       "Time": "2023-12-16T06:06:38.3154636+00:00",
       "NumProgressed": 1086,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T14:07:17.7371088+00:00",
+      "NumProgressed": 1087,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2967,7 +2972,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "ACH001",
@@ -3023,7 +3028,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "ACH008",
@@ -3055,7 +3060,7 @@
       "Name": "Intangible",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH012",
@@ -3063,7 +3068,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH013",
@@ -3087,7 +3092,7 @@
       "Name": "Groundskeeper",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH016",
@@ -3103,7 +3108,7 @@
       "Name": "Pearly gates",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH018",
@@ -3151,7 +3156,7 @@
       "Name": "Gofer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH024",
@@ -3167,7 +3172,7 @@
       "Name": "My precious!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH026",
@@ -3183,7 +3188,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH028",
@@ -3221,9 +3226,9 @@
       "ID": "ACH032",
       "SetID": "69nfp41",
       "Name": "Pirates!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 370
     },
     {
       "ID": "ACH033",
@@ -3239,7 +3244,7 @@
       "Name": "Panic buying",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH035",
@@ -3253,9 +3258,9 @@
       "ID": "ACH036",
       "SetID": "69nfp41",
       "Name": "Every beginning is difficult",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 674
     },
     {
       "ID": "ACH037",
@@ -3271,7 +3276,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH039",
@@ -3366,15 +3371,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1086,
+      "Progressed": 1087,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-12-16T13:10:52.4560773+00:00",
+  "LastChanged_Achievements": "2023-12-16T14:07:17.7371085+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:45.6816391+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:02:25.2274385+00:00",
-  "LastUpdate_Achievements": "2023-12-16T13:10:52.4561265+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:00:27.491785+00:00",
+  "LastUpdate_Achievements": "2023-12-16T14:07:17.7371466+00:00"
 }

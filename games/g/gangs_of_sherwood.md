@@ -13,21 +13,21 @@
 | MAX LEVEL | 53.00% | ~40 |
 | Tap Dancing | 51.00% | ~38 |
 | Right between the eyes | 43.00% | ~32 |
-| Spring Board | 41.00% | ~31 |
+| Spring Board | 43.00% | ~32 |
 | Starry Night | 39.00% | ~29 |
 | Rebel Unleashed | 39.00% | ~29 |
 | Locksley's Tears | 36.00% | ~27 |
 | Merry Co-operation | 35.00% | ~26 |
 | Finish Him! | 31.00% | ~23 |
 | Assault on the Ram | 28.00% | ~21 |
+| Ultra Rebel Instinct | 25.00% | ~19 |
 | First Aid | 24.00% | ~18 |
 | Savior | 23.00% | ~17 |
-| Ultra Rebel Instinct | 23.00% | ~17 |
 | Merry Go Round | 21.00% | ~16 |
 | Take Action! | 20.00% | ~15 |
+| Hidden Experiment | 17.00% | ~13 |
 | Ascending Will | 16.00% | ~12 |
 | Ultra Combo | 15.00% | ~11 |
-| Hidden Experiment | 13.00% | ~10 |
 | Haute Couture | 12.00% | ~9 |
 | Brilliant Executioner | 8.00% | ~6 |
 | Into the Lion's Den | 8.00% | ~6 |
@@ -39,12 +39,12 @@
 | King of the Iron Fist | 4.00% | ~3 |
 | Power of Friendship! | 3.00% | ~2 |
 | Five of Friends | 3.00% | ~2 |
+| A Gest of Robyn Hode | 3.00% | ~2 |
 | Only Child | 3.00% | ~2 |
 | The Arsenal | 3.00% | ~2 |
 | Master of One | 3.00% | ~2 |
 | Sherwood Moment 37 | 1.00% | ~1 |
 | The Crowkiller | 1.00% | ~1 |
-| A Gest of Robyn Hode | 1.00% | ~1 |
 | Money can not buy happiness | 1.00% | ~1 |
 | Fashionista | 1.00% | ~1 |
 | Challenger | 0.00% | ~0 |

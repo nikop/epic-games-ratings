@@ -6,23 +6,23 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,934 |
-| Ready for Winter | 64.00% | ~2,504 |
-| Ready for Summer | 51.00% | ~1,995 |
-| Cordon Bleu | 43.00% | ~1,682 |
-| Tapped! | 37.00% | ~1,447 |
-| Eureka | 32.00% | ~1,252 |
-| Scourge Slayer | 26.00% | ~1,017 |
-| Exceptional Skill | 23.00% | ~900 |
-| Science, Troglodyte! | 23.00% | ~900 |
-| Home Sweet Home | 22.00% | ~861 |
-| Encyclopedic! | 20.00% | ~782 |
-| The Power of Family | 17.00% | ~665 |
-| A Fortress Toppled! | 16.00% | ~626 |
-| Apex Predator | 16.00% | ~626 |
-| Strange amalgams | 12.00% | ~469 |
-| The Power of Faith | 12.00% | ~469 |
-| The Power of Freedom | 10.00% | ~391 |
+| Venture Outward | 74.00% | ~2,899 |
+| Ready for Winter | 64.00% | ~2,507 |
+| Ready for Summer | 51.00% | ~1,998 |
+| Cordon Bleu | 43.00% | ~1,684 |
+| Tapped! | 37.00% | ~1,449 |
+| Eureka | 32.00% | ~1,253 |
+| Scourge Slayer | 26.00% | ~1,018 |
+| Science, Troglodyte! | 23.00% | ~901 |
+| Exceptional Skill | 22.00% | ~862 |
+| Home Sweet Home | 22.00% | ~862 |
+| Encyclopedic! | 20.00% | ~783 |
+| The Power of Family | 17.00% | ~666 |
+| A Fortress Toppled! | 16.00% | ~627 |
+| Apex Predator | 16.00% | ~627 |
+| Strange amalgams | 12.00% | ~470 |
+| The Power of Faith | 12.00% | ~470 |
+| The Power of Freedom | 10.00% | ~392 |
 | Ace Detective | 8.00% | ~313 |
 | Gift from the Ancestors | 8.00% | ~313 |
 | Magic is a science | 8.00% | ~313 |
@@ -32,11 +32,11 @@ Number of Ratings: 266  (23.09.2022)
 | Blood and justice | 6.00% | ~235 |
 | Hold my Mead and Watch This | 6.00% | ~235 |
 | The stuff of legends. | 6.00% | ~235 |
-| Ancestor's Pride | 4.00% | ~156 |
-| For All Aurai | 4.00% | ~156 |
-| Memory of a legend | 4.00% | ~156 |
-| Light of Levant | 3.00% | ~117 |
-| This was a mistake... | 3.00% | ~117 |
+| Ancestor's Pride | 4.00% | ~157 |
+| For All Aurai | 4.00% | ~157 |
+| Memory of a legend | 4.00% | ~157 |
+| Light of Levant | 3.00% | ~118 |
+| This was a mistake... | 3.00% | ~118 |
 | Crowd Pleaser. | 2.00% | ~78 |
 | Perfect Defense | 2.00% | ~78 |
 | Power! To! The People! | 2.00% | ~78 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~16 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,912 (Ranked 205)  
+Progressed: 3,917 (Ranked 205)  
 Completed: 5 (0.13%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 5 (0.13%) (Ranked 283)
 | 2023-12-13 | 3,741 | 4 |
 | 2023-12-14 | 3,790 | 4 |
 | 2023-12-15 | 3,863 | 5 |
-| 2023-12-16 | 3,912 | 5 |
+| 2023-12-16 | 3,917 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 483)  
 Sum: 246 (Ranked 387)  

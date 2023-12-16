@@ -10,13 +10,13 @@
 | First winning | 84.00% | ~333 |
 | Your first job | 83.00% | ~329 |
 | Depressed visitor | 78.00% | ~309 |
+| Fitness professional | 77.00% | ~305 |
 | Old movies enjoyer | 77.00% | ~305 |
 | Neurotrainer – power gainer! | 77.00% | ~305 |
-| Fitness professional | 76.00% | ~301 |
 | Employee of the week | 76.00% | ~301 |
+| Your own amateur gym | 71.00% | ~281 |
 | First defeat | 71.00% | ~281 |
 | Run K, run! | 71.00% | ~281 |
-| Your own amateur gym | 70.00% | ~277 |
 | Hello, world! | 68.00% | ~269 |
 | No bullying more | 67.00% | ~265 |
 | Fighting is cool | 66.00% | ~261 |
@@ -30,9 +30,9 @@
 | Champion – starter pack | 57.00% | ~226 |
 | It's good to be alive | 57.00% | ~226 |
 | Own four walls | 57.00% | ~226 |
+| Intriguing candies | 57.00% | ~226 |
 | Employee of the year | 57.00% | ~226 |
 | Fight for life | 56.00% | ~222 |
-| Intriguing candies | 56.00% | ~222 |
 | Legal courier | 53.00% | ~210 |
 | Extreme neuropower! | 52.00% | ~206 |
 | Escaped from a big trouble | 49.00% | ~194 |

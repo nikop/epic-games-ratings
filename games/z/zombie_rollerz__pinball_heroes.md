@@ -5,15 +5,15 @@ Rating: 4.29 (Ranked 855)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 88.00% | ~178 |
-| Bullseye! | 85.00% | ~172 |
+| Level Up! | 88.00% | ~179 |
+| Bullseye! | 85.00% | ~173 |
 | Graduation! | 80.00% | ~162 |
-| Villfir Forest | 74.00% | ~149 |
-| Right in the kisser! | 58.00% | ~117 |
-| The Thrower | 47.00% | ~95 |
-| Duscot Steamcity | 47.00% | ~95 |
-| The Shaman | 45.00% | ~91 |
+| Villfir Forest | 73.00% | ~148 |
+| Right in the kisser! | 58.00% | ~118 |
+| The Thrower | 46.00% | ~93 |
+| Duscot Steamcity | 46.00% | ~93 |
 | The Penguin | 44.00% | ~89 |
+| The Shaman | 44.00% | ~89 |
 | The Magician | 39.00% | ~79 |
 | The Tunneler | 39.00% | ~79 |
 | Level Up!! | 36.00% | ~73 |
@@ -22,13 +22,13 @@ Rating: 4.29 (Ranked 855)
 | Topped up | 29.00% | ~59 |
 | The Bird | 27.00% | ~55 |
 | The Ninja | 26.00% | ~53 |
-| The Idol | 25.00% | ~50 |
-| Inferno Ruins | 24.00% | ~48 |
-| I'm Rich | 22.00% | ~44 |
-| 1 is all I need | 21.00% | ~42 |
-| The Slime | 21.00% | ~42 |
-| Untouchable | 20.00% | ~40 |
-| The Giant | 17.00% | ~34 |
+| The Idol | 25.00% | ~51 |
+| Inferno Ruins | 24.00% | ~49 |
+| I'm Rich | 22.00% | ~45 |
+| 1 is all I need | 21.00% | ~43 |
+| The Slime | 21.00% | ~43 |
+| Untouchable | 20.00% | ~41 |
+| The Giant | 17.00% | ~35 |
 | The Blacksmith | 16.00% | ~32 |
 | The Flower | 16.00% | ~32 |
 | The Ooze | 16.00% | ~32 |
@@ -79,8 +79,8 @@ Rating: 4.29 (Ranked 855)
 | Divinity | 0.50% | ~1 |
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202 (Ranked 398)  
-Completed: 1 (0.50%) (Ranked 208)  
+Progressed: 203 (Ranked 398)  
+Completed: 1 (0.49%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -190,6 +190,7 @@ Completed: 1 (0.50%) (Ranked 208)
 | 2023-12-09 | 200 | 1 |
 | 2023-12-12 | 201 | 1 |
 | 2023-12-13 | 202 | 1 |
+| 2023-12-16 | 203 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

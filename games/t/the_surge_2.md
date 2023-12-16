@@ -5,18 +5,18 @@ Rating: 4.25 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,803 |
+| Rigged And Ready | 80.00% | ~1,804 |
 | Don't I Know You...? | 77.00% | ~1,736 |
 | Jailbreak | 66.00% | ~1,488 |
 | Suited and Booted | 39.00% | ~879 |
 | HEADSHOT! | 38.00% | ~857 |
-| Sleeping With The Fishes | 36.00% | ~811 |
+| Sleeping With The Fishes | 36.00% | ~812 |
 | Overheated | 31.00% | ~699 |
 | High Performance | 31.00% | ~699 |
 | Powered Up | 29.00% | ~654 |
 | Studied The Blade | 25.00% | ~564 |
-| Home Invasion | 23.00% | ~518 |
-| Luminary | 23.00% | ~518 |
+| Home Invasion | 23.00% | ~519 |
+| Luminary | 23.00% | ~519 |
 | True Survivor | 22.00% | ~496 |
 | It's a Trap | 22.00% | ~496 |
 | Offensive Defense | 20.00% | ~451 |
@@ -32,11 +32,11 @@ Rating: 4.25 (Ranked 890)
 | Where It All Began | 13.00% | ~293 |
 | Risk Tolerant | 13.00% | ~293 |
 | What A Catchy Song | 13.00% | ~293 |
-| Corrupted Beauty | 12.00% | ~270 |
-| Marked For Success | 12.00% | ~270 |
-| Sorry, Didn't See You There | 12.00% | ~270 |
-| Stimulating The Local Economy | 10.00% | ~225 |
-| Triplets | 10.00% | ~225 |
+| Corrupted Beauty | 12.00% | ~271 |
+| Marked For Success | 12.00% | ~271 |
+| Sorry, Didn't See You There | 12.00% | ~271 |
+| Stimulating The Local Economy | 10.00% | ~226 |
+| Triplets | 10.00% | ~226 |
 | Denying Prophecy | 9.00% | ~203 |
 | A Little Banged Up | 8.00% | ~180 |
 | Following In Their Footsteps | 8.00% | ~180 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 890)
 | Loot, Pillage & Craft | 2.00% | ~45 |
 | Swiss Army Drone | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,254 (Ranked 227)  
+Progressed: 2,255 (Ranked 227)  
 Completed: 13 (0.58%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 13 (0.58%) (Ranked 196)
 | 2023-12-11 | 2,224 | 13 |
 | 2023-12-14 | 2,235 | 13 |
 | 2023-12-15 | 2,246 | 13 |
-| 2023-12-16 | 2,254 | 13 |
+| 2023-12-16 | 2,255 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

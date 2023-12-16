@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 783,
+  "EOS_Progressed": 784,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1018,6 +1018,11 @@
       "Time": "2023-12-16T12:04:04.947709+00:00",
       "NumProgressed": 783,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T14:03:33.403755+00:00",
+      "NumProgressed": 784,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1029,7 +1034,7 @@
       "Name": "Ann ULTRA",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Annakin Skyscroller",
@@ -1045,7 +1050,7 @@
       "Name": "Arm Wrestlin\u0027",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Big_Spender",
@@ -1077,7 +1082,7 @@
       "Name": "1\u002B1\u003E2",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Deadly_Kombationem",
@@ -1115,9 +1120,9 @@
       "ID": "I_just_love_stuff",
       "SetID": "gl7plp",
       "Name": "I just love stuff!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 321
     },
     {
       "ID": "I_think_its_broke",
@@ -1149,7 +1154,7 @@
       "Name": "Lady Luck is a cool cat",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Omnipotence",
@@ -1195,9 +1200,9 @@
       "ID": "Tell_me_your_story",
       "SetID": "gl7plp",
       "Name": "Tell me your story",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 596
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -1245,7 +1250,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "The_truth_is_out_there",
@@ -1316,7 +1321,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 783,
+      "Progressed": 784,
       "Completed": 0
     }
   ],
@@ -1324,8 +1329,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-09T07:59:55.495838+00:00",
-  "LastChanged_Achievements": "2023-12-16T13:05:59.9289972+00:00",
+  "LastChanged_Achievements": "2023-12-16T14:03:33.4037544+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:16.2150027+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:01:43.3435967+00:00",
-  "LastUpdate_Achievements": "2023-12-16T13:05:59.9295651+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:59:37.42002+00:00",
+  "LastUpdate_Achievements": "2023-12-16T14:03:33.4037927+00:00"
 }

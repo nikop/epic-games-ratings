@@ -3467,9 +3467,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18341,
+  "EOS_Progressed": 18351,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 586,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15937,6 +15937,11 @@
       "Time": "2023-12-16T13:07:02.3291453+00:00",
       "NumProgressed": 18341,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-16T14:04:41.491579+00:00",
+      "NumProgressed": 18351,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16029,7 +16034,7 @@
       "Name": "Homesick",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "WinFirstGame",
@@ -16109,7 +16114,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "WinNearFishmen",
@@ -16165,7 +16170,7 @@
       "Name": "Royal Outpost",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "WinNearRuins",
@@ -16173,15 +16178,15 @@
       "Name": "Lost Colonies",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "WinNearStatue",
       "SetID": "cfbk359",
       "Name": "Statue of the Forefathers",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 147
     },
     {
       "ID": "WinNearTemple",
@@ -16205,7 +16210,7 @@
       "Name": "Watchtower",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "WinOnCoral",
@@ -16261,7 +16266,7 @@
       "Name": "A Real Challenge",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "WinWIthCaches",
@@ -16349,7 +16354,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "WinNearFrosts",
@@ -16357,7 +16362,7 @@
       "Name": "Frosts",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "WinNearGreed",
@@ -16365,7 +16370,7 @@
       "Name": "Land of Greed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "WinNearLibrary",
@@ -16373,7 +16378,7 @@
       "Name": "Overgrown Library",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "WinNearPetrified",
@@ -16389,7 +16394,7 @@
       "Name": "Ominous Presence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "WinNearStorms",
@@ -16397,7 +16402,7 @@
       "Name": "Gathering Storm",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -16420,15 +16425,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18341,
+      "Progressed": 18351,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-16T06:56:59.7467087+00:00",
-  "LastChanged_Achievements": "2023-12-16T13:07:02.3291448+00:00",
+  "LastChanged_Achievements": "2023-12-16T14:04:41.4915785+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:59:38.9322422+00:00",
-  "LastUpdate_Achievements": "2023-12-16T13:07:02.3292323+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:57:18.9565017+00:00",
+  "LastUpdate_Achievements": "2023-12-16T14:04:41.4917544+00:00"
 }

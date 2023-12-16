@@ -295,18 +295,18 @@ Completed: 1 (0.05%) (Ranked 326)
 | 2023-12-15 | 1,976 | 1 |
 | 2023-12-16 | 1,984 | 1 |
 ## Awards
-Max (Great for Beginners): 45  (Ranked 453)  
-Sum: 320 (Ranked 364)  
-Diff (max vs sum): 89  
+Max (Great for Beginners): 46  (Ranked 451)  
+Sum: 322 (Ranked 364)  
+Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 45 |
+| This game is Great for Beginners | 46 |
 | This game is Highly Recommended | 44 |
 | This game has Amazing Storytelling | 39 |
 | This game is Extremely Fun | 38 |
 | This game has Quickly Understood Controls | 35 |
 | This game is Relaxing | 34 |
-| This game has a Creative Community | 30 |
+| This game has a Creative Community | 31 |
 | This game is Educational | 29 |
 | This game has Amazing Characters | 26 |
 | This game has Obsessive Gameplay | 21 |
@@ -423,3 +423,4 @@ Diff (max vs sum): 89
 | 2023-12-09 | 4.68 | - | 44 | 318 |
 | 2023-12-13 | 4.68 | - | 44 | 319 |
 | 2023-12-14 | 4.68 | - | 45 | 320 |
+| 2023-12-16 | 4.68 | - | 46 | 322 |

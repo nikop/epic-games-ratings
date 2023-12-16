@@ -30,12 +30,12 @@ Number of Ratings: 177  (23.09.2022)
 | Stephanie | 0.70% | ~47 |
 | The Magic Number | 0.70% | ~47 |
 | Vickie | 0.70% | ~47 |
+| Deck the Balls | 0.60% | ~22 |
 | Now It's a Party! | 0.60% | ~40 |
 | Te Amo Lety | 0.60% | ~40 |
 | Ashley | 0.50% | ~33 |
 | Benedict Brahrnold | 0.50% | ~33 |
 | I'll Be Back | 0.50% | ~33 |
-| Deck the Balls | 0.50% | ~18 |
 | Love Conquers All | 0.50% | ~33 |
 | Rule 34 | 0.40% | ~27 |
 | Rachael | 0.40% | ~27 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,655 (Ranked 187)  
+Progressed: 6,657 (Ranked 187)  
 Completed: 3 (0.05%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 3 (0.05%) (Ranked 326)
 | 2023-12-13 | 6,573 | 3 |
 | 2023-12-14 | 6,605 | 3 |
 | 2023-12-15 | 6,637 | 3 |
-| 2023-12-16 | 6,655 | 3 |
+| 2023-12-16 | 6,657 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

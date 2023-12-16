@@ -6,11 +6,12 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 7.00% | ~178 |
-| Lost and Found | 4.00% | ~102 |
-| This Belongs in a Museum | 3.00% | ~3,830 |
-| This guy... again? | 3.00% | ~76 |
-| Bloody Graduation | 3.00% | ~76 |
+| Malpractice Assurance | 7.00% | ~180 |
+| Lost and Found | 4.00% | ~103 |
+| This Belongs in a Museum | 3.00% | ~3,831 |
+| Autodidact | 3.00% | ~3,831 |
+| This guy... again? | 3.00% | ~77 |
+| Bloody Graduation | 3.00% | ~77 |
 | Serenity Now! | 2.00% | ~2,554 |
 | Not Today! | 2.00% | ~2,554 |
 | Creep and Sleep | 2.00% | ~2,554 |
@@ -19,7 +20,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 2.00% | ~2,554 |
 | Escape from the Black Hole | 2.00% | ~2,554 |
 | To Grandmother's House | 2.00% | ~2,554 |
-| Autodidact | 2.00% | ~2,554 |
 | Ploughshares to Swords | 2.00% | ~51 |
 | Don't Make Me Turn This Coach Around | 1.00% | ~1,277 |
 | It Rings a Bell | 1.00% | ~1,277 |
@@ -34,23 +34,23 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 1.00% | ~1,277 |
 | FNG | 1.00% | ~1,277 |
 | Nope | 1.00% | ~1,277 |
-| Friends 'Til the End | 1.00% | ~25 |
+| Friends 'Til the End | 1.00% | ~26 |
 | Unfulfilled Desires | 0.90% | ~1,149 |
 | Banishment | 0.90% | ~1,149 |
 | Now Stay Dead | 0.90% | ~1,149 |
+| Reverse Banditry | 0.90% | ~1,149 |
 | Ramble On | 0.90% | ~1,149 |
 | Worldly Traveller | 0.90% | ~1,149 |
 | Unshackled | 0.90% | ~1,149 |
 | Road Trip | 0.90% | ~1,149 |
-| Resurrection | 0.80% | ~1,021 |
-| Unleash Hell | 0.80% | ~1,021 |
-| Funny Guy | 0.80% | ~1,021 |
-| Long Live the King | 0.80% | ~1,021 |
-| Wyrdly Reconstructed | 0.80% | ~1,021 |
-| Boxcar Kid | 0.80% | ~1,021 |
-| Predator | 0.80% | ~1,021 |
-| Reverse Banditry | 0.80% | ~1,021 |
-| A Clear Conscience | 0.80% | ~1,021 |
+| Resurrection | 0.80% | ~1,022 |
+| Unleash Hell | 0.80% | ~1,022 |
+| Funny Guy | 0.80% | ~1,022 |
+| Long Live the King | 0.80% | ~1,022 |
+| Wyrdly Reconstructed | 0.80% | ~1,022 |
+| Boxcar Kid | 0.80% | ~1,022 |
+| Predator | 0.80% | ~1,022 |
+| A Clear Conscience | 0.80% | ~1,022 |
 | When You Want Something Done Right | 0.70% | ~894 |
 | Utopia | 0.70% | ~894 |
 | Hope Rekindled | 0.60% | ~766 |
@@ -60,10 +60,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Looks Familiar | 0.50% | ~638 |
 | Hot Air | 0.50% | ~638 |
 | Eyes Up | 0.50% | ~638 |
+| For Old Time' Sake | 0.50% | ~13 |
 | Handled | 0.40% | ~511 |
 | Body of Work | 0.40% | ~511 |
 | Et Tu, Riposte? | 0.40% | ~10 |
-| For Old Time' Sake | 0.40% | ~10 |
 | Clearing the Ledger | 0.30% | ~383 |
 | Shrine of Reflection | 0.30% | ~383 |
 | Maître De La Lame | 0.30% | ~8 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 | On This Long Road, We Found Redemption | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,677 (Ranked 84)  
+Progressed: 127,700 (Ranked 84)  
 Completed: 3 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
-| 2023-12-16 | 127,677 | 3 |
+| 2023-12-16 | 127,700 | 3 |
 ## Awards
 Max (Character Customization): 7,744  (Ranked 51)  
 Sum: 20,563 (Ranked 58)  

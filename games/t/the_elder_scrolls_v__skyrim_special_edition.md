@@ -1,7 +1,7 @@
 # The Elder Scrolls V: Skyrim Special Edition
 [Store](https://store.epicgames.com/en-US/p/skyrim)  
 [View Rawdata](../../db/t/the_elder_scrolls_v__skyrim_special_edition.json)  
-Rating: 4.86 (Ranked 34)  
+Rating: 4.86 (Ranked 35)  
 ## Awards
 Max (Character Customization): 1,593  (Ranked 130)  
 Sum: 3,619 (Ranked 165)  

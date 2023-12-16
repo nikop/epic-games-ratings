@@ -3,9 +3,9 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 240,
-  "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_Completed": 55,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1704,
+  "EOS_Progressed": 1705,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 7.34,
+  "EOS_Completed_Percentage": 7.33,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -4149,6 +4149,11 @@
       "Time": "2023-12-16T10:09:42.6601013+00:00",
       "NumProgressed": 1704,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-16T14:10:00.1616772+00:00",
+      "NumProgressed": 1705,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 30,
@@ -4160,7 +4165,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "LEVEL_002",
@@ -4168,7 +4173,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "LEVEL_003",
@@ -4184,7 +4189,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "LEVEL_005",
@@ -4200,7 +4205,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "LEVEL_007",
@@ -4208,7 +4213,7 @@
       "Name": "Animals in the farm",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "LEVEL_008",
@@ -4216,7 +4221,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "LEVEL_009",
@@ -4304,7 +4309,7 @@
       "Name": "Calling Mr. Joe",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "LEVEL_020",
@@ -4312,7 +4317,7 @@
       "Name": "Go round and round",
       "Percentage": 12,
       "XP": 110,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "LEVEL_021",
@@ -4399,14 +4404,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1704,
+      "Progressed": 1705,
       "Completed": 125
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-12-16T13:12:25.1682917+00:00",
+  "LastChanged_Achievements": "2023-12-16T14:10:00.1616769+00:00",
   "LastUpdate_AppInfo": "2023-12-12T04:57:10.8541257+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:00:11.6985885+00:00",
-  "LastUpdate_Achievements": "2023-12-16T13:12:25.168327+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:57:55.6085587+00:00",
+  "LastUpdate_Achievements": "2023-12-16T14:10:00.1617074+00:00"
 }

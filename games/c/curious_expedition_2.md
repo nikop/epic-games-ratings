@@ -7,23 +7,23 @@ Number of Ratings: 20  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Adventure Begins | 63.00% | ~222 |
-| Cartographer | 56.00% | ~197 |
-| A Strange Artefact | 52.00% | ~183 |
+| Cartographer | 56.00% | ~198 |
+| A Strange Artefact | 52.00% | ~184 |
 | Insomnia | 48.00% | ~169 |
 | Lost & Found & Lost Again | 42.00% | ~148 |
-| From Whence we Came | 41.00% | ~144 |
+| From Whence we Came | 41.00% | ~145 |
 | Fire and Flood | 40.00% | ~141 |
 | Spooky! | 36.00% | ~127 |
 | Shennong Herbalist | 34.00% | ~120 |
 | Treasure Hunt | 34.00% | ~120 |
-| Good Mama | 32.00% | ~113 |
+| Good Mama | 31.00% | ~109 |
 | O Captain My Captain | 30.00% | ~106 |
 | Plunderer | 29.00% | ~102 |
 | Taxonomist | 27.00% | ~95 |
 | Traveller | 25.00% | ~88 |
 | Uncertain Loyalties | 25.00% | ~88 |
-| Nahua Seeker | 24.00% | ~84 |
-| Roll to Save | 22.00% | ~77 |
+| Nahua Seeker | 24.00% | ~85 |
+| Roll to Save | 22.00% | ~78 |
 | Veteran Explorer | 21.00% | ~74 |
 | Red Flag Pirate | 19.00% | ~67 |
 | Iron Man | 17.00% | ~60 |
@@ -61,14 +61,14 @@ Number of Ratings: 20  (23.09.2022)
 | Risk/Reward | 3.00% | ~11 |
 | Look Ma, No Equipment! | 3.00% | ~11 |
 | I Set Forth Again... and Again... and Again... | 3.00% | ~11 |
-| Abominable Hunger | 0.90% | ~3 |
-| Everything is FINE... | 0.90% | ~3 |
-| Pacifism Ain't Easy | 0.90% | ~3 |
-| It's Not Too Late | 0.90% | ~3 |
+| Abominable Hunger | 0.80% | ~3 |
+| Everything is FINE... | 0.80% | ~3 |
+| Pacifism Ain't Easy | 0.80% | ~3 |
+| It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 352 (Ranked 349)  
-Completed: 1 (0.28%) (Ranked 245)  
+Progressed: 353 (Ranked 348)  
+Completed: 1 (0.28%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,7 +121,7 @@ Completed: 1 (0.28%) (Ranked 245)
 | 2023-12-13 | 343 | 1 |
 | 2023-12-14 | 345 | 1 |
 | 2023-12-15 | 350 | 1 |
-| 2023-12-16 | 352 | 1 |
+| 2023-12-16 | 353 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

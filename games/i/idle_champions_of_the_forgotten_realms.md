@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Lose Your Head | 0.10% | ~207 |
 | Mind Spike | 0.10% | ~207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,011 (Ranked 66)  
-Completed: 2,534 (1.05%) (Ranked 167)  
+Progressed: 241,025 (Ranked 66)  
+Completed: 2,535 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -793,7 +793,7 @@ Completed: 2,534 (1.05%) (Ranked 167)
 | 2023-12-13 | 239,847 | 2,519 |
 | 2023-12-14 | 240,414 | 2,526 |
 | 2023-12-15 | 240,802 | 2,532 |
-| 2023-12-16 | 241,011 | 2,534 |
+| 2023-12-16 | 241,025 | 2,535 |
 ## Awards
 Max (Great for Beginners): 5,645  (Ranked 70)  
 Sum: 32,906 (Ranked 41)  

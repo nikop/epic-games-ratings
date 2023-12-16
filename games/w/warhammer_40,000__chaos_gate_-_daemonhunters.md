@@ -6,7 +6,7 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 11.00% | ~375 |
+| Executioner | 11.00% | ~376 |
 | Look Over There! | 9.00% | ~307 |
 | Not So Fast... | 9.00% | ~307 |
 | Watch Where You Step... | 9.00% | ~307 |
@@ -14,11 +14,11 @@ Number of Ratings: 371  (23.09.2022)
 | Purging Spree | 7.00% | ~239 |
 | Blood for the Blood God! | 6.00% | ~205 |
 | Bloodless | 6.00% | ~205 |
-| Honoured Battle-Brother | 4.00% | ~136 |
-| Surgical Excision | 4.00% | ~136 |
-| Friendly Fire | 4.00% | ~136 |
-| The Emperor Protects | 4.00% | ~136 |
-| A Foul Creche | 4.00% | ~136 |
+| Honoured Battle-Brother | 4.00% | ~137 |
+| Surgical Excision | 4.00% | ~137 |
+| Friendly Fire | 4.00% | ~137 |
+| The Emperor Protects | 4.00% | ~137 |
+| A Foul Creche | 4.00% | ~137 |
 | Nemesis Master | 3.00% | ~102 |
 | Gunmaster | 3.00% | ~102 |
 | Just a Scratch | 3.00% | ~102 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,412 (Ranked 214)  
+Progressed: 3,416 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 3,351 | 0 |
 | 2023-12-14 | 3,379 | 0 |
 | 2023-12-15 | 3,402 | 0 |
-| 2023-12-16 | 3,412 | 0 |
+| 2023-12-16 | 3,416 | 0 |
 ## Awards
 Max (Character Customization): 229  (Ranked 277)  
 Sum: 490 (Ranked 332)  

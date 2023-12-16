@@ -5,11 +5,11 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~587 |
+| Tell me your story | 76.00% | ~596 |
 | Don't judge a manhole by its cover | 60.00% | ~470 |
-| I just love stuff! | 42.00% | ~329 |
 | Keep 'em coming! | 42.00% | ~329 |
-| The things they print nowadays | 39.00% | ~305 |
+| I just love stuff! | 41.00% | ~321 |
+| The things they print nowadays | 39.00% | ~306 |
 | Big Spender | 38.00% | ~298 |
 | That's gotta hurt | 36.00% | ~282 |
 | I think it's broke | 26.00% | ~204 |
@@ -23,8 +23,8 @@ Rating: 4.54 (Ranked 533)
 | The truth is out there | 16.00% | ~125 |
 | Annakin Skyscroller | 13.00% | ~102 |
 | In the smacker...I think | 10.00% | ~78 |
-| Arm Wrestlin' | 9.00% | ~70 |
-| 1+1>2 | 9.00% | ~70 |
+| Arm Wrestlin' | 9.00% | ~71 |
+| 1+1>2 | 9.00% | ~71 |
 | This can't be right… | 8.00% | ~63 |
 | Welcome home, 06 | 8.00% | ~63 |
 | I'm walking here! | 7.00% | ~55 |
@@ -35,14 +35,14 @@ Rating: 4.54 (Ranked 533)
 | I feel secure, contained & protected | 5.00% | ~39 |
 | The Traveler | 5.00% | ~39 |
 | Woman on a (side) mission | 4.00% | ~31 |
-| Ann ULTRA | 3.00% | ~23 |
-| Lady Luck is a cool cat | 3.00% | ~23 |
+| Ann ULTRA | 3.00% | ~24 |
+| Lady Luck is a cool cat | 3.00% | ~24 |
 | SERENITY NOW | 2.00% | ~16 |
 | I just got real good | 2.00% | ~16 |
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 783 (Ranked 285)  
+Progressed: 784 (Ranked 285)  
 Completed: 0 (0.00%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-11 | 776 | 0 |
 | 2023-12-12 | 777 | 0 |
 | 2023-12-15 | 781 | 0 |
-| 2023-12-16 | 783 | 0 |
+| 2023-12-16 | 784 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

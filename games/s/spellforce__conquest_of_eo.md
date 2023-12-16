@@ -28,9 +28,9 @@
 | Friend of Alluvyan | 17.00% | ~9 |
 | Friend of Gillyshire | 17.00% | ~9 |
 | Friend of Connach | 17.00% | ~9 |
+| Philo's Tale | 15.00% | ~8 |
 | Friend of Bastion | 15.00% | ~8 |
 | Break Free | 15.00% | ~8 |
-| Philo's Tale | 13.00% | ~7 |
 | Stormwatch Faste | 13.00% | ~7 |
 | Friend of Orgash | 13.00% | ~7 |
 | Defeat Gor | 11.00% | ~6 |

@@ -4,8 +4,8 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -907,9 +907,9 @@
       "ID": "TINGWD_DETECTIVE",
       "SetID": "c0imaa6",
       "Name": "Private Detective",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 174
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -1058,8 +1058,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-16T13:09:17.4875997+00:00",
+  "LastChanged_Achievements": "2023-12-16T14:07:13.5600304+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:03.1671166+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:01:14.8283979+00:00",
-  "LastUpdate_Achievements": "2023-12-16T13:09:17.4876236+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:59:06.9332722+00:00",
+  "LastUpdate_Achievements": "2023-12-16T14:07:13.5600528+00:00"
 }

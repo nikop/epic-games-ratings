@@ -5,35 +5,35 @@ Rating: 4.81 (Ranked 85)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 66.00% | ~774 |
-| The Adventure Begins | 49.00% | ~574 |
-| Swabbie | 37.00% | ~434 |
-| With Great Power… | 37.00% | ~434 |
-| This Belongs in a Museum | 33.00% | ~387 |
-| The Gambit Has Begun | 30.00% | ~352 |
-| Somewhere Deep in the Lost Caribbean | 27.00% | ~316 |
-| Powder Monkey | 27.00% | ~316 |
-| Mirror Mirror on the Wall | 26.00% | ~305 |
-| Pirates Assemble! | 24.00% | ~281 |
-| Buccaneer | 20.00% | ~234 |
-| Fishy Fish | 20.00% | ~234 |
-| All Good Things | 18.00% | ~211 |
+| A New Journey | 66.00% | ~776 |
+| The Adventure Begins | 49.00% | ~576 |
+| Swabbie | 37.00% | ~435 |
+| With Great Power… | 37.00% | ~435 |
+| This Belongs in a Museum | 33.00% | ~388 |
+| The Gambit Has Begun | 30.00% | ~353 |
+| Somewhere Deep in the Lost Caribbean | 27.00% | ~318 |
+| Powder Monkey | 27.00% | ~318 |
+| Mirror Mirror on the Wall | 26.00% | ~306 |
+| Pirates Assemble! | 24.00% | ~282 |
+| Buccaneer | 20.00% | ~235 |
+| Fishy Fish | 20.00% | ~235 |
+| All Good Things | 18.00% | ~212 |
 | Persistent Parasite | 16.00% | ~188 |
 | Seadog | 15.00% | ~176 |
 | Jaded Judge | 12.00% | ~141 |
 | Rustic Recipe | 11.00% | ~129 |
-| Tobacco Travesty | 10.00% | ~117 |
-| Privateer | 9.00% | ~105 |
-| Accursed Artifacts | 9.00% | ~105 |
-| Lyrical Longing | 9.00% | ~105 |
-| Corsair | 6.00% | ~70 |
-| Fully Decked | 6.00% | ~70 |
+| Tobacco Travesty | 10.00% | ~118 |
+| Privateer | 9.00% | ~106 |
+| Accursed Artifacts | 9.00% | ~106 |
+| Lyrical Longing | 9.00% | ~106 |
+| Corsair | 6.00% | ~71 |
+| Fully Decked | 6.00% | ~71 |
 | Freebooter | 4.00% | ~47 |
 | Marauder | 3.00% | ~35 |
 | Welcome Back Jester | 3.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,172 (Ranked 263)  
-Completed: 32 (2.73%) (Ranked 113)  
+Progressed: 1,176 (Ranked 262)  
+Completed: 32 (2.72%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -160,7 +160,7 @@ Completed: 32 (2.73%) (Ranked 113)
 | 2023-12-13 | 1,126 | 32 |
 | 2023-12-14 | 1,151 | 32 |
 | 2023-12-15 | 1,166 | 32 |
-| 2023-12-16 | 1,172 | 32 |
+| 2023-12-16 | 1,176 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

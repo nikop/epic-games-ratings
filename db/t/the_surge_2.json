@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -282,9 +282,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2254,
+  "EOS_Progressed": 2255,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -3407,6 +3407,11 @@
       "Time": "2023-12-16T13:06:27.6309243+00:00",
       "NumProgressed": 2254,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-16T14:04:03.216286+00:00",
+      "NumProgressed": 2255,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3458,7 +3463,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACHV_07",
@@ -3490,7 +3495,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACHV_11",
@@ -3570,7 +3575,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACHV_21",
@@ -3578,7 +3583,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACHV_22",
@@ -3618,7 +3623,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "ACHV_27",
@@ -3642,7 +3647,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACHV_30",
@@ -3690,7 +3695,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "ACHV_36",
@@ -3706,7 +3711,7 @@
       "Name": "Luminary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACHV_38",
@@ -3746,7 +3751,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACHV_43",
@@ -3873,7 +3878,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2254,
+      "Progressed": 2255,
       "Completed": 13
     }
   ],
@@ -3881,8 +3886,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-22T02:25:03.2214817+00:00",
-  "LastChanged_Achievements": "2023-12-16T13:06:27.6309238+00:00",
+  "LastChanged_Achievements": "2023-12-16T14:04:03.2162859+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:57.0176831+00:00",
-  "LastUpdate_Ratings": "2023-12-16T12:59:57.3054503+00:00",
-  "LastUpdate_Achievements": "2023-12-16T13:06:27.6309918+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:57:38.6293673+00:00",
+  "LastUpdate_Achievements": "2023-12-16T14:04:03.2163469+00:00"
 }

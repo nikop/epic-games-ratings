@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Cheap Tricks | 23.00% | ~826 |
 | The Purpose Of Betrayal | 20.00% | ~718 |
-| Rightfully Yours | 17.00% | ~610 |
+| Rightfully Yours | 17.00% | ~611 |
 | Like Swatting Flies | 16.00% | ~575 |
 | Moment Of Perfection | 10.00% | ~359 |
 | Even While Weakened | 10.00% | ~359 |
 | Balance Incarnate | 10.00% | ~359 |
 | Purpose Lost | 7.00% | ~251 |
 | A Scarlet Mark | 7.00% | ~251 |
-| Hot Potato | 6.00% | ~215 |
+| Hot Potato | 6.00% | ~216 |
 | Emperor's Hubris | 4.00% | ~144 |
 | Nothing To Lose | 4.00% | ~144 |
 | Dreams Of Perfection | 3.00% | ~108 |
@@ -40,7 +40,7 @@
 | Full Might Of The Armada | 0.10% | ~4 |
 | The Many Fates Of The Many | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,591 (Ranked 209)  
+Progressed: 3,592 (Ranked 209)  
 Completed: -28 (-0.78%) (Ranked 3,744)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: -28 (-0.78%) (Ranked 3,744)
 | 2023-12-03 | 3,585 | -28 |
 | 2023-12-10 | 3,586 | -28 |
 | 2023-12-15 | 3,587 | -28 |
-| 2023-12-16 | 3,591 | -28 |
+| 2023-12-16 | 3,592 | -28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

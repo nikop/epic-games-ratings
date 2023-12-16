@@ -4533,10 +4533,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7142,
       "NumberOfAwardsMax": 1761
+    },
+    {
+      "Time": "2023-12-16T13:59:29.1044911+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7143,
+      "NumberOfAwardsMax": 1761
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7142,
+  "NumberOfAwards": 7143,
   "NumberOfAwardsMax": 1761,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4574,7 +4580,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 654
+      "Count": 655
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4607,9 +4613,9 @@
       "Count": 401
     }
   ],
-  "EOS_Progressed": 12384,
+  "EOS_Progressed": 12387,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17052,6 +17058,11 @@
       "Time": "2023-12-16T13:12:24.7913815+00:00",
       "NumProgressed": 12384,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T14:09:59.8713949+00:00",
+      "NumProgressed": 12387,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17071,7 +17082,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2229
+      "UsersEstimate": 2230
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -17311,7 +17322,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -17431,7 +17442,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2354
     },
     {
       "ID": "49_Flame",
@@ -17990,21 +18001,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11166,
+      "Progressed": 11169,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12384,
+      "Progressed": 12387,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-12-15T21:58:59.5020076+00:00",
-  "LastChanged_Achievements": "2023-12-16T13:12:24.7913812+00:00",
+  "LastChanged": "2023-12-16T13:59:29.1044909+00:00",
+  "LastChanged_Achievements": "2023-12-16T14:09:59.8713944+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:07.8359019+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:01:33.8220163+00:00",
-  "LastUpdate_Achievements": "2023-12-16T13:12:24.7915746+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:59:29.1044916+00:00",
+  "LastUpdate_Achievements": "2023-12-16T14:09:59.8715466+00:00"
 }

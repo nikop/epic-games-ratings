@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8465,
+  "EOS_Progressed": 8466,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8553,6 +8553,11 @@
       "Time": "2023-12-16T13:12:29.2270121+00:00",
       "NumProgressed": 8465,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T14:10:04.4897113+00:00",
+      "NumProgressed": 8466,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8715,9 +8720,9 @@
       "ID": "DISCOVER_WHIRLPOOL",
       "SetID": "9eia0f5",
       "Name": "... And Spit Back Out",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -8908,13 +8913,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8465,
+      "Progressed": 8466,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1082,
+      "Progressed": 1083,
       "Completed": 1050
     }
   ],
@@ -8922,8 +8927,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-15T16:03:24.8361061+00:00",
-  "LastChanged_Achievements": "2023-12-16T13:12:29.2270118+00:00",
+  "LastChanged_Achievements": "2023-12-16T14:10:04.4897111+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:05:50.0433098+00:00",
-  "LastUpdate_Achievements": "2023-12-16T13:12:29.2270831+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:03:20.415097+00:00",
+  "LastUpdate_Achievements": "2023-12-16T14:10:04.4897647+00:00"
 }

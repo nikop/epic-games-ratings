@@ -252,9 +252,9 @@
       "ID": "creepytale3_ach_17",
       "SetID": "7idcjbn",
       "Name": "Pain lover",
-      "Percentage": 31,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "creepytale3_ach_18",
@@ -412,9 +412,9 @@
       "ID": "creepytale3_ach_39",
       "SetID": "7idcjbn",
       "Name": "Picklock style",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "creepytale3_ach_4",
@@ -475,8 +475,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-16T13:07:31.5878309+00:00",
+  "LastChanged_Achievements": "2023-12-16T14:05:18.874359+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.5738942+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:02:33.6406701+00:00",
-  "LastUpdate_Achievements": "2023-12-16T13:07:31.5878494+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:00:37.2805798+00:00",
+  "LastUpdate_Achievements": "2023-12-16T14:05:18.87438+00:00"
 }

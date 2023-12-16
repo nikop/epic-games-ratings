@@ -2,9 +2,9 @@
   "ID": "2a873e03d3c94f6ab62bf1e633e5f008",
   "Name": "Night Book",
   "ProductSlug": "night-book-77f2c7",
-  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 258,
+  "EOS_Progressed": 259,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.71,
+  "EOS_Completed_Percentage": 2.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -461,6 +461,11 @@
       "Time": "2023-12-16T01:50:23.2429767+00:00",
       "NumProgressed": 258,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-16T14:06:08.7897479+00:00",
+      "NumProgressed": 259,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 17,
@@ -480,7 +485,7 @@
       "Name": "Career Woman",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "deal_or_no_deal",
@@ -496,7 +501,7 @@
       "Name": "Hopeful",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "horrific",
@@ -512,7 +517,7 @@
       "Name": "Impress Theron",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "marriage_is_off",
@@ -528,7 +533,7 @@
       "Name": "No One Is Safe",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "off_his_meds",
@@ -536,7 +541,7 @@
       "Name": "He\u0027s Off His Meds",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "on_your_bike",
@@ -576,7 +581,7 @@
       "Name": "Shady Truth",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "unhelpful",
@@ -600,14 +605,14 @@
       "Name": "Will This Help?",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 258,
+      "Progressed": 259,
       "Completed": 7
     }
   ],
@@ -615,8 +620,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-12-16T13:08:18.4569497+00:00",
+  "LastChanged_Achievements": "2023-12-16T14:06:08.7897472+00:00",
   "LastUpdate_AppInfo": "2023-12-09T16:56:57.5958396+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:00:05.2063021+00:00",
-  "LastUpdate_Achievements": "2023-12-16T13:08:18.4569616+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:57:48.2550043+00:00",
+  "LastUpdate_Achievements": "2023-12-16T14:06:08.7897643+00:00"
 }

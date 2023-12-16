@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 750,
+  "EOS_Progressed": 751,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -2585,6 +2585,11 @@
       "Time": "2023-12-16T12:07:34.8169946+00:00",
       "NumProgressed": 750,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-16T14:06:23.9268504+00:00",
+      "NumProgressed": 751,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2660,7 +2665,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "play-at-night",
@@ -2716,7 +2721,7 @@
       "Name": "Camellos",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "unlock-residences",
@@ -2724,7 +2729,7 @@
       "Name": "Pampered Life",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "upgrade-building",
@@ -2732,7 +2737,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "use-submarine",
@@ -2747,15 +2752,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 750,
+      "Progressed": 751,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-12T19:59:33.5091909+00:00",
-  "LastChanged_Achievements": "2023-12-16T13:08:32.5666921+00:00",
+  "LastChanged_Achievements": "2023-12-16T14:06:23.9268499+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4008517+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:00:33.2242499+00:00",
-  "LastUpdate_Achievements": "2023-12-16T13:08:32.5667168+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:58:20.3375282+00:00",
+  "LastUpdate_Achievements": "2023-12-16T14:06:23.9268725+00:00"
 }

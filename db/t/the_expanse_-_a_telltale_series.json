@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16484,
+  "EOS_Progressed": 16488,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -14027,6 +14027,11 @@
       "Time": "2023-12-16T13:10:59.8125332+00:00",
       "NumProgressed": 16484,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-16T14:08:25.6642019+00:00",
+      "NumProgressed": 16488,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14111,7 +14116,7 @@
       "Name": "Bottoms up!",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "19",
@@ -14135,7 +14140,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "21",
@@ -14175,7 +14180,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "26",
@@ -14279,7 +14284,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "32",
@@ -14318,22 +14323,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16484,
+      "Progressed": 16488,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2438,
-      "Completed": 897
+      "Progressed": 2442,
+      "Completed": 899
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-16T13:10:59.8125329+00:00",
+  "LastChanged_Achievements": "2023-12-16T14:08:25.6642014+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:00:39.4140938+00:00",
-  "LastUpdate_Achievements": "2023-12-16T13:10:59.8126034+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:58:27.5098328+00:00",
+  "LastUpdate_Achievements": "2023-12-16T14:08:25.6643055+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,369 |
-| One HIT wonder | 36.00% | ~498 |
-| Wanderer | 35.00% | ~484 |
-| One shot, one kill | 28.00% | ~387 |
+| Atom Agent | 99.00% | ~1,372 |
+| One HIT wonder | 36.00% | ~499 |
+| Wanderer | 35.00% | ~485 |
+| One shot, one kill | 28.00% | ~388 |
 | Traveler | 25.00% | ~346 |
 | Explorer | 18.00% | ~249 |
 | Grave Robber | 18.00% | ~249 |
 | Head Burst | 18.00% | ~249 |
-| Double agent | 15.00% | ~207 |
-| Paranoia | 15.00% | ~207 |
-| Kraina Grzybow | 10.00% | ~138 |
-| Savant | 10.00% | ~138 |
-| Love Guru | 9.00% | ~124 |
+| Double agent | 15.00% | ~208 |
+| Paranoia | 15.00% | ~208 |
+| Kraina Grzybow | 10.00% | ~139 |
+| Savant | 10.00% | ~139 |
+| Love Guru | 9.00% | ~125 |
 | Bustin' nuts | 8.00% | ~111 |
 | Not-so-private Eye | 8.00% | ~111 |
 | Superhuman | 8.00% | ~111 |
@@ -27,12 +27,12 @@ Number of Ratings: 54  (23.09.2022)
 | Secret room | 5.00% | ~69 |
 | Indy | 4.00% | ~55 |
 | Sacrifice | 4.00% | ~55 |
-| Wishmaster | 3.00% | ~41 |
+| Wishmaster | 3.00% | ~42 |
 | Career criminal | 2.00% | ~28 |
 | Neanderthal | 2.00% | ~28 |
 | Cosmic Horror | 2.00% | ~28 |
 | It was worth a shot | 0.90% | ~12 |
-| Ghostbuster | 0.70% | ~10 |
+| Ghostbuster | 0.60% | ~8 |
 | Comrade Yogi | 0.50% | ~7 |
 | Tourist Korallov | 0.50% | ~7 |
 | Cheeki Breeki | 0.40% | ~6 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.10% | ~1 |
 | Pacifist | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,383 (Ranked 249)  
+Progressed: 1,386 (Ranked 249)  
 Completed: 1 (0.07%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 1 (0.07%) (Ranked 311)
 | 2023-12-13 | 1,351 | 1 |
 | 2023-12-14 | 1,362 | 1 |
 | 2023-12-15 | 1,375 | 1 |
-| 2023-12-16 | 1,383 | 1 |
+| 2023-12-16 | 1,386 | 1 |
 ## Awards
 Max (Character Customization): 52  (Ranked 433)  
 Sum: 52 (Ranked 486)  

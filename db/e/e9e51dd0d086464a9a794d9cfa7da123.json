@@ -2,9 +2,9 @@
   "ID": "e9e51dd0d086464a9a794d9cfa7da123",
   "Name": "Desktop Girlfriend NEO",
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
-  "Ranking_EOS_Progress": 493,
+  "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70,
+  "EOS_Progressed": 71,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -369,6 +369,11 @@
       "Time": "2023-12-16T12:11:04.8068056+00:00",
       "NumProgressed": 70,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T14:10:07.1868163+00:00",
+      "NumProgressed": 71,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-16T10:08:21.0101681+00:00",
@@ -387,7 +392,7 @@
       "ID": "CK",
       "SetID": "2621k8c",
       "Name": "Conversation Killer",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -427,7 +432,7 @@
       "ID": "DM",
       "SetID": "2621k8c",
       "Name": "Dance Master",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -539,7 +544,7 @@
       "ID": "Frivolous",
       "SetID": "2621k8c",
       "Name": "Frivolous",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -563,7 +568,7 @@
       "ID": "HAB",
       "SetID": "2621k8c",
       "Name": "Healthy and beautiful",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -595,7 +600,7 @@
       "ID": "HT",
       "SetID": "2621k8c",
       "Name": "Home Theater",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -643,7 +648,7 @@
       "ID": "Impetuous",
       "SetID": "2621k8c",
       "Name": "Impetuous",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -675,7 +680,7 @@
       "ID": "KALP",
       "SetID": "2621k8c",
       "Name": "Keep a low profile",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -707,7 +712,7 @@
       "ID": "LW",
       "SetID": "2621k8c",
       "Name": "Live Well",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -795,7 +800,7 @@
       "ID": "Otaku",
       "SetID": "2621k8c",
       "Name": "Otaku",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -843,7 +848,7 @@
       "ID": "Perfunctory",
       "SetID": "2621k8c",
       "Name": "Perfunctory",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -891,7 +896,7 @@
       "ID": "Richer",
       "SetID": "2621k8c",
       "Name": "Richer",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -1067,7 +1072,7 @@
       "ID": "Underestimate",
       "SetID": "2621k8c",
       "Name": "Underestimate",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -1075,7 +1080,7 @@
       "ID": "Unfeeling",
       "SetID": "2621k8c",
       "Name": "Unfeeling",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -1099,7 +1104,7 @@
       "ID": "VP",
       "SetID": "2621k8c",
       "Name": "Virtual Pet",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -1124,14 +1129,14 @@
     {
       "ID": "2621k8c",
       "IsBase": true,
-      "Progressed": 70,
+      "Progressed": 71,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-12-16T13:12:31.9382491+00:00",
+  "LastChanged_Achievements": "2023-12-16T14:10:07.1868159+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.0306936+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:01:43.9688734+00:00",
-  "LastUpdate_Achievements": "2023-12-16T13:12:31.9383248+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:59:38.1437847+00:00",
+  "LastUpdate_Achievements": "2023-12-16T14:10:07.1868959+00:00"
 }

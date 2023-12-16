@@ -5,9 +5,9 @@
   "Ranking_Rating": 174,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 349,
-  "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_Progress": 348,
+  "Ranking_EOS_Completed": 244,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 352,
+  "EOS_Progressed": 353,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -385,6 +385,11 @@
       "Time": "2023-12-16T05:09:48.3022244+00:00",
       "NumProgressed": 352,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-16T14:10:06.4787291+00:00",
+      "NumProgressed": 353,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -394,7 +399,7 @@
       "ID": "ach-abominationEatPerson",
       "SetID": "17ih7ma",
       "Name": "Abominable Hunger",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -402,7 +407,7 @@
       "ID": "ach-ailments",
       "SetID": "17ih7ma",
       "Name": "Everything is FINE...",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -522,7 +527,7 @@
       "ID": "ach-campaign-pacifist",
       "SetID": "17ih7ma",
       "Name": "Pacifism Ain\u0027t Easy",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -532,7 +537,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ach-campaign-story2",
@@ -564,7 +569,7 @@
       "Name": "Roll to Save",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ach-discover-locations",
@@ -572,7 +577,7 @@
       "Name": "Cartographer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ach-discover-locations-high",
@@ -748,13 +753,13 @@
       "Name": "Nahua Seeker",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ach-paleMask-cure",
       "SetID": "17ih7ma",
       "Name": "It\u0027s Not Too Late",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -772,7 +777,7 @@
       "Name": "From Whence we Came",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ach-promotion",
@@ -786,9 +791,9 @@
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 109
     },
     {
       "ID": "ach-redElk",
@@ -875,7 +880,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 352,
+      "Progressed": 353,
       "Completed": 1
     }
   ],
@@ -883,8 +888,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-16T13:12:31.2620402+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T12:59:37.4155215+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:00:01.3276929+00:00",
-  "LastUpdate_Achievements": "2023-12-16T13:12:31.2620769+00:00"
+  "LastChanged_Achievements": "2023-12-16T14:10:06.4787285+00:00",
+  "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
+  "LastUpdate_Ratings": "2023-12-16T13:57:43.7943471+00:00",
+  "LastUpdate_Achievements": "2023-12-16T14:10:06.4787778+00:00"
 }

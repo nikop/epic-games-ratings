@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233,
+  "EOS_Progressed": 234,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.15,
+  "EOS_Completed_Percentage": 2.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -520,6 +520,11 @@
       "Time": "2023-12-16T09:03:13.1547534+00:00",
       "NumProgressed": 233,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-16T14:03:38.4675706+00:00",
+      "NumProgressed": 234,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 17,
@@ -563,7 +568,7 @@
       "Name": "Good job, nerd",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "leader_you_are_not",
@@ -603,15 +608,15 @@
       "Name": "Mission Complete",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 119
+      "UsersEstimate": 117
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -635,7 +640,7 @@
       "Name": "This won\u0027t end well...",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "tried_to_warn_you",
@@ -666,7 +671,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 233,
+      "Progressed": 234,
       "Completed": 5
     }
   ],
@@ -674,8 +679,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-12-16T13:06:04.7594683+00:00",
+  "LastChanged_Achievements": "2023-12-16T14:03:38.4675701+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:15.9914171+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:05:53.7384763+00:00",
-  "LastUpdate_Achievements": "2023-12-16T13:06:04.7594788+00:00"
+  "LastUpdate_Ratings": "2023-12-16T14:03:24.5347229+00:00",
+  "LastUpdate_Achievements": "2023-12-16T14:03:38.4675902+00:00"
 }

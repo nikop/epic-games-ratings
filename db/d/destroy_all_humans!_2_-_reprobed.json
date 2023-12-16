@@ -5,7 +5,7 @@
   "Ranking_Rating": 547,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 512,
-  "Ranking_EOS_Progress": 469,
+  "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 140,
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 86,
+  "EOS_Progressed": 87,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -636,6 +636,11 @@
       "Time": "2023-12-16T13:11:15.751143+00:00",
       "NumProgressed": 86,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T14:08:43.396049+00:00",
+      "NumProgressed": 87,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -662,7 +667,7 @@
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -758,7 +763,7 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 35
     },
@@ -784,7 +789,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -814,7 +819,7 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -838,9 +843,9 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -999,7 +1004,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 86,
+      "Progressed": 87,
       "Completed": 0
     }
   ],
@@ -1007,8 +1012,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-16T13:11:15.7511425+00:00",
+  "LastChanged_Achievements": "2023-12-16T14:08:43.3960487+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:04.5493724+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:01:58.0452672+00:00",
-  "LastUpdate_Achievements": "2023-12-16T13:11:15.7511801+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:59:56.213643+00:00",
+  "LastUpdate_Achievements": "2023-12-16T14:08:43.3960727+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1651,17 +1651,17 @@
       "ID": "any_stat_5",
       "SetID": "69co12a",
       "Name": "Fitness professional",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 305
     },
     {
       "ID": "buy_trainer",
       "SetID": "69co12a",
       "Name": "Your own amateur gym",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 281
     },
     {
       "ID": "carla_journey",
@@ -2027,9 +2027,9 @@
       "ID": "sleep_candy",
       "SetID": "69co12a",
       "Name": "Intriguing candies",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 226
     },
     {
       "ID": "soft_install",
@@ -2114,8 +2114,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-16T13:11:43.3373993+00:00",
+  "LastChanged_Achievements": "2023-12-16T14:09:13.4269175+00:00",
   "LastUpdate_AppInfo": "2023-12-09T19:57:01.6440907+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:01:07.1134294+00:00",
-  "LastUpdate_Achievements": "2023-12-16T13:11:43.3374595+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:58:57.9655636+00:00",
+  "LastUpdate_Achievements": "2023-12-16T14:09:13.4269631+00:00"
 }

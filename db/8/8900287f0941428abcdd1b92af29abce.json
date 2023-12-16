@@ -4,7 +4,7 @@
   "ProductSlug": "miniland-adventure-ee81ff",
   "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-12-07T14:00:00+00:00",
@@ -172,9 +172,9 @@
       "ID": "ach-bucket-of-salt-water",
       "SetID": "6aph42m",
       "Name": "Now I can drink that",
-      "Percentage": 12,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach-cactus",
@@ -212,9 +212,9 @@
       "ID": "ach-cooked-mutton",
       "SetID": "6aph42m",
       "Name": "Getting nutritions!",
-      "Percentage": 41,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach-cooked-ostrich-egg",
@@ -340,9 +340,9 @@
       "ID": "ach-ladder",
       "SetID": "6aph42m",
       "Name": "It\u0027s dark here!",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach-lava-lamp",
@@ -547,8 +547,8 @@
   ],
   "FirstSeen": "2023-12-09T20:59:53.605626+00:00",
   "FirstSeenAchievements": "2023-09-27T06:05:39.2666292+00:00",
-  "LastChanged_Achievements": "2023-12-16T13:11:49.4333147+00:00",
+  "LastChanged_Achievements": "2023-12-16T14:09:20.1450305+00:00",
   "LastUpdate_AppInfo": "2023-12-13T11:57:08.2416501+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:01:32.4466539+00:00",
-  "LastUpdate_Achievements": "2023-12-16T13:11:49.4333452+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:59:27.6185906+00:00",
+  "LastUpdate_Achievements": "2023-12-16T14:09:20.1450614+00:00"
 }

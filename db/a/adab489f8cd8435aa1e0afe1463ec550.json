@@ -204,9 +204,9 @@
       "ID": "18",
       "SetID": "6hl9l7f",
       "Name": "Monolith",
-      "Percentage": 22,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "19",
@@ -228,17 +228,17 @@
       "ID": "20",
       "SetID": "6hl9l7f",
       "Name": "Jammer",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "21",
       "SetID": "6hl9l7f",
       "Name": "Laser Fiend",
-      "Percentage": 39,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "22",
@@ -268,17 +268,17 @@
       "ID": "25",
       "SetID": "6hl9l7f",
       "Name": "Milestone Reached",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "26",
       "SetID": "6hl9l7f",
       "Name": "Virus Zone",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "27",
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-12-16T13:06:32.6633332+00:00",
+  "LastChanged_Achievements": "2023-12-16T14:04:08.6083245+00:00",
   "LastUpdate_AppInfo": "2023-12-10T15:57:12.5848871+00:00",
-  "LastUpdate_Ratings": "2023-12-16T13:00:23.0889934+00:00",
-  "LastUpdate_Achievements": "2023-12-16T13:06:32.663361+00:00"
+  "LastUpdate_Ratings": "2023-12-16T13:58:08.1119819+00:00",
+  "LastUpdate_Achievements": "2023-12-16T14:04:08.6083569+00:00"
 }
