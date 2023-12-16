@@ -29,9 +29,9 @@
 | Friend of Gillyshire | 17.00% | ~9 |
 | Friend of Connach | 17.00% | ~9 |
 | Philo's Tale | 15.00% | ~8 |
+| Stormwatch Faste | 15.00% | ~8 |
 | Friend of Bastion | 15.00% | ~8 |
 | Break Free | 15.00% | ~8 |
-| Stormwatch Faste | 13.00% | ~7 |
 | Friend of Orgash | 13.00% | ~7 |
 | Defeat Gor | 11.00% | ~6 |
 | The Forge of Regan Gor | 11.00% | ~6 |
@@ -76,7 +76,7 @@
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 54 (Ranked 511)  
-Completed: 0 (0.00%) (Ranked 377)  
+Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

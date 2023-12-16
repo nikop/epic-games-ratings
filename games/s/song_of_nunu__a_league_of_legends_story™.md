@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.57 (Ranked 483)  
+Rating: 4.59 (Ranked 442)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,7 +13,7 @@ Rating: 4.57 (Ranked 483)
 | He's Famous! | 66.00% | ~778 |
 | Cutie Poro | 66.00% | ~778 |
 | Krugmazing | 64.00% | ~755 |
-| Moneyball | 60.00% | ~707 |
+| Moneyball | 61.00% | ~719 |
 | The Fire Below the Mountain | 60.00% | ~707 |
 | No Bites | 55.00% | ~648 |
 | Iceborn | 55.00% | ~648 |
@@ -50,8 +50,8 @@ Rating: 4.57 (Ranked 483)
 | We Are Speed | 2.00% | ~24 |
 | Sneaky Notai | 1.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,179 (Ranked 263)  
-Completed: 8 (0.68%) (Ranked 189)  
+Progressed: 1,179 (Ranked 264)  
+Completed: 8 (0.68%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -113,3 +113,4 @@ Completed: 8 (0.68%) (Ranked 189)
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-12-07 | 4.65 | 0 | 0 |
 | 2023-12-09 | 4.57 | 0 | 0 |
+| 2023-12-16 | 4.59 | 0 | 0 |

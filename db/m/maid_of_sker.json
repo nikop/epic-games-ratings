@@ -3,9 +3,9 @@
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 390,
-  "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_Completed": 378,
+  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229,
+  "EOS_Progressed": 230,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -530,6 +530,11 @@
       "Time": "2023-12-15T14:04:07.5146887+00:00",
       "NumProgressed": 229,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T19:04:39.2137247+00:00",
+      "NumProgressed": 230,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -581,7 +586,7 @@
       "Name": "Choking Hazard",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "dodgy_geezer",
@@ -707,9 +712,9 @@
       "ID": "perfect_harmony",
       "SetID": "3j2phem",
       "Name": "Perfect Harmony!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "phonic_boom",
@@ -780,7 +785,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 229,
+      "Progressed": 230,
       "Completed": 0
     }
   ],
@@ -788,8 +793,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-12-16T18:04:51.1582158+00:00",
+  "LastChanged_Achievements": "2023-12-16T19:04:39.2137241+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:59.4034255+00:00",
-  "LastUpdate_Ratings": "2023-12-16T18:00:24.8431817+00:00",
-  "LastUpdate_Achievements": "2023-12-16T18:04:51.1582316+00:00"
+  "LastUpdate_Ratings": "2023-12-16T19:00:28.4634526+00:00",
+  "LastUpdate_Achievements": "2023-12-16T19:04:39.2137415+00:00"
 }

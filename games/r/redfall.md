@@ -1,11 +1,12 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.47 (Ranked 1,064)  
+Rating: 3.50 (Ranked 1,063)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 7.00% | ~131 |
+| I Like My Stakes Rare! | 7.00% | ~132 |
+| Wounded Whispers | 5.00% | ~94 |
 | Catch and Release | 5.00% | ~94 |
 | Home Is Where the Heart Is | 4.00% | ~75 |
 | Blood Will Have Blood | 4.00% | ~75 |
@@ -13,16 +14,15 @@ Rating: 3.47 (Ranked 1,064)
 | Fly Fisher | 4.00% | ~75 |
 | Peek-a-boo | 4.00% | ~75 |
 | ICU | 4.00% | ~75 |
-| Wounded Whispers | 4.00% | ~75 |
 | Enter of Your Own Free Will | 3.00% | ~56 |
 | Welcome to the Neighborhood | 3.00% | ~56 |
 | Throw The First Stone | 3.00% | ~56 |
 | Sucks To Be You | 3.00% | ~56 |
-| Heart Attack | 3.00% | ~56 |
 | Neighborhood Revitalization | 2.00% | ~38 |
 | Bad Wiring | 2.00% | ~38 |
 | Radio Silence | 2.00% | ~38 |
 | Grounded | 2.00% | ~38 |
+| Heart Attack | 2.00% | ~38 |
 | Skin of Their Teeth | 2.00% | ~38 |
 | Sic Transit Umbra | 1.00% | ~19 |
 | Bell-ringer | 1.00% | ~19 |
@@ -72,8 +72,8 @@ Rating: 3.47 (Ranked 1,064)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,878 (Ranked 235)  
-Completed: 0 (0.00%) (Ranked 377)  
+Progressed: 1,881 (Ranked 235)  
+Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -189,7 +189,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 1,784 | 0 |
 | 2023-12-14 | 1,810 | 0 |
 | 2023-12-15 | 1,843 | 0 |
-| 2023-12-16 | 1,878 | 0 |
+| 2023-12-16 | 1,881 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -228,3 +228,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-11-12 | 3.47 | 0 | 0 |
 | 2023-11-22 | 3.45 | 0 | 0 |
 | 2023-12-10 | 3.47 | 0 | 0 |
+| 2023-12-16 | 3.50 | 0 | 0 |

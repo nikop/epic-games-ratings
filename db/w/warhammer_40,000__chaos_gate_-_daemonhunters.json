@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 454,
+  "Ranking_Rating": 455,
   "Ranking_Popularity": 277,
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 214,
-  "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_Completed": 378,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3426,
+  "EOS_Progressed": 3428,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4325,6 +4325,11 @@
       "Time": "2023-12-16T18:04:22.1414622+00:00",
       "NumProgressed": 3426,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T19:04:11.6402436+00:00",
+      "NumProgressed": 3428,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4352,7 +4357,7 @@
       "Name": "Look Over There!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "BloodAndIron",
@@ -4504,7 +4509,7 @@
       "Name": "Not So Fast...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "Kills_Bleed",
@@ -4560,7 +4565,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "Kills_Streak",
@@ -4584,7 +4589,7 @@
       "Name": "An Ill Omen",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -4879,21 +4884,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3426,
+      "Progressed": 3428,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3426,
+      "Progressed": 3428,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-16T18:04:22.1414618+00:00",
+  "LastChanged_Achievements": "2023-12-16T19:04:11.6402432+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:10.0749768+00:00",
-  "LastUpdate_Ratings": "2023-12-16T18:03:19.1104248+00:00",
-  "LastUpdate_Achievements": "2023-12-16T18:04:22.1415456+00:00"
+  "LastUpdate_Ratings": "2023-12-16T19:03:08.9988977+00:00",
+  "LastUpdate_Achievements": "2023-12-16T19:04:11.6403087+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "ProductSlug": "ark",
-  "Ranking_Rating": 454,
+  "Ranking_Rating": 455,
   "Ranking_Popularity": 11,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 799,
-  "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 520,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_Completed": 378,
+  "Ranking_EOS_NewPlayers": 521,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -15546,10 +15546,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 280725,
       "NumberOfAwardsMax": 64701
+    },
+    {
+      "Time": "2023-12-16T18:59:53.2149009+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 280747,
+      "NumberOfAwardsMax": 64701
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 280725,
+  "NumberOfAwards": 280747,
   "NumberOfAwardsMax": 64701,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15569,7 +15575,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 22563
+      "Count": 22578
     },
     {
       "Text": "This game is Extremely Fun",
@@ -15599,7 +15605,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 20518
+      "Count": 20525
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15637,8 +15643,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-12-16T15:59:40.9940041+00:00",
+  "LastChanged": "2023-12-16T18:59:53.2149007+00:00",
   "LastUpdate_AppInfo": "2023-12-09T21:57:22.0213405+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:59:46.6651326+00:00",
-  "LastUpdate_Achievements": "2023-12-16T18:06:04.4352389+00:00"
+  "LastUpdate_Ratings": "2023-12-16T18:59:53.2149026+00:00",
+  "LastUpdate_Achievements": "2023-12-16T19:05:49.3106958+00:00"
 }

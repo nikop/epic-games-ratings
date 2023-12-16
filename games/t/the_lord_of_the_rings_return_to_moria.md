@@ -1,40 +1,40 @@
 # The Lord of The Rings Return to Moria
 [Store](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344)  
 [View Rawdata](../../db/t/the_lord_of_the_rings_return_to_moria.json)  
-Rating: 4.43 (Ranked 699)  
+Rating: 4.43 (Ranked 698)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 83.00% | ~249,374 |
-| Delving Onward | 70.00% | ~210,315 |
-| Miner's Helper | 61.00% | ~183,274 |
-| Suit Up | 55.00% | ~165,248 |
-| To the Mountain's Roots | 51.00% | ~153,230 |
-| Remains To Be Seen | 35.00% | ~105,158 |
-| Covered Head to Toe | 34.00% | ~102,153 |
-| Line of Azog, Ended | 33.00% | ~99,148 |
-| Risk a Little Real Light | 31.00% | ~93,140 |
-| Caradhras The Cruel | 18.00% | ~54,081 |
-| A Memory of this Place | 18.00% | ~54,081 |
-| False King, Deposed | 14.00% | ~42,063 |
-| Baruk Khazâd! | 13.00% | ~39,058 |
-| Battering Ram | 13.00% | ~39,058 |
-| Shadow's Bane | 10.00% | ~30,045 |
-| Westgate Weaponcraft | 9.00% | ~27,040 |
-| Deeps Weaponcraft | 8.00% | ~24,036 |
-| Darkness Is Passing | 7.00% | ~21,032 |
-| Decked Out | 5.00% | ~15,022 |
-| Guarded from Despair | 4.00% | ~12,018 |
-| Master of All Trades | 4.00% | ~12,018 |
-| Eregion Weaponcraft | 3.00% | ~9,014 |
-| True-silver | 3.00% | ~9,014 |
-| Dimrill Weaponcraft | 3.00% | ~9,014 |
-| Hard-headed | 1.00% | ~3,004 |
-| Shielded | 1.00% | ~3,004 |
-| We're Gonna Need More Mugs | 0.10% | ~300 |
+| Speak Friend | 83.00% | ~249,639 |
+| Delving Onward | 70.00% | ~210,539 |
+| Miner's Helper | 61.00% | ~183,470 |
+| Suit Up | 55.00% | ~165,424 |
+| To the Mountain's Roots | 51.00% | ~153,393 |
+| Remains To Be Seen | 35.00% | ~105,270 |
+| Covered Head to Toe | 34.00% | ~102,262 |
+| Line of Azog, Ended | 33.00% | ~99,254 |
+| Risk a Little Real Light | 31.00% | ~93,239 |
+| Caradhras The Cruel | 18.00% | ~54,139 |
+| A Memory of this Place | 18.00% | ~54,139 |
+| False King, Deposed | 14.00% | ~42,108 |
+| Baruk Khazâd! | 13.00% | ~39,100 |
+| Battering Ram | 13.00% | ~39,100 |
+| Shadow's Bane | 10.00% | ~30,077 |
+| Westgate Weaponcraft | 9.00% | ~27,069 |
+| Deeps Weaponcraft | 8.00% | ~24,062 |
+| Darkness Is Passing | 7.00% | ~21,054 |
+| Decked Out | 5.00% | ~15,038 |
+| Guarded from Despair | 4.00% | ~12,031 |
+| Master of All Trades | 4.00% | ~12,031 |
+| Eregion Weaponcraft | 3.00% | ~9,023 |
+| True-silver | 3.00% | ~9,023 |
+| Dimrill Weaponcraft | 3.00% | ~9,023 |
+| Hard-headed | 1.00% | ~3,008 |
+| Shielded | 1.00% | ~3,008 |
+| We're Gonna Need More Mugs | 0.10% | ~301 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300,450 (Ranked 55)  
-Completed: 161 (0.05%) (Ranked 326)  
+Progressed: 300,770 (Ranked 55)  
+Completed: 162 (0.05%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,16 +91,16 @@ Completed: 161 (0.05%) (Ranked 326)
 | 2023-12-13 | 291,336 | 147 |
 | 2023-12-14 | 293,279 | 152 |
 | 2023-12-15 | 297,073 | 155 |
-| 2023-12-16 | 300,450 | 161 |
+| 2023-12-16 | 300,770 | 162 |
 ## Awards
 Max (Great for Beginners): 698  (Ranked 189)  
-Sum: 4,001 (Ranked 156)  
+Sum: 4,006 (Ranked 156)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 698 |
 | This game is Highly Recommended | 559 |
-| This game is Extremely Fun | 545 |
+| This game is Extremely Fun | 550 |
 | This game has Amazing Storytelling | 490 |
 | This game is Relaxing | 483 |
 | This game has Quickly Understood Controls | 470 |
@@ -162,4 +162,4 @@ Diff (max vs sum): 33
 | 2023-12-13 | 4.43 | 675 | 3,931 |
 | 2023-12-14 | 4.43 | 680 | 3,957 |
 | 2023-12-15 | 4.43 | 686 | 3,983 |
-| 2023-12-16 | 4.43 | 698 | 4,001 |
+| 2023-12-16 | 4.43 | 698 | 4,006 |

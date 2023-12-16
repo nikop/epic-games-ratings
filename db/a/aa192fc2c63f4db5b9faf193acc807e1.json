@@ -2,10 +2,10 @@
   "ID": "aa192fc2c63f4db5b9faf193acc807e1",
   "Name": "Creepy Tale",
   "ProductSlug": "creepy-tale-058ebd",
-  "Ranking_EOS_Progress": 442,
-  "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_Progress": 440,
+  "Ranking_EOS_Completed": 60,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116,
+  "EOS_Progressed": 118,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.9,
+  "EOS_Completed_Percentage": 6.78,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -544,6 +544,11 @@
       "Time": "2023-12-16T15:09:48.8739633+00:00",
       "NumProgressed": 116,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-16T19:09:43.8537107+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -572,7 +577,7 @@
       "Name": "Alchemist",
       "Percentage": 53,
       "XP": 75,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "creepytaleach12",
@@ -586,9 +591,9 @@
       "ID": "creepytaleach13",
       "SetID": "bnif31p",
       "Name": "True fisherman",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "creepytaleach2",
@@ -604,7 +609,7 @@
       "Name": "Happy end",
       "Percentage": 39,
       "XP": 75,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "creepytaleach4",
@@ -620,7 +625,7 @@
       "Name": "Incorrigible researcher",
       "Percentage": 37,
       "XP": 75,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "creepytaleach6",
@@ -642,7 +647,7 @@
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 75,
       "UsersEstimate": 52
     },
@@ -652,21 +657,21 @@
       "Name": "Idler",
       "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 116,
+      "Progressed": 118,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-16T18:09:54.7775886+00:00",
+  "LastChanged_Achievements": "2023-12-16T19:09:43.8537103+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.952085+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:58:14.6877542+00:00",
-  "LastUpdate_Achievements": "2023-12-16T18:09:54.7775978+00:00"
+  "LastUpdate_Ratings": "2023-12-16T18:58:23.0931355+00:00",
+  "LastUpdate_Achievements": "2023-12-16T19:09:43.8537184+00:00"
 }

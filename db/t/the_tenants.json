@@ -2,13 +2,13 @@
   "ID": "edaebe133189475c9fd853858b7fa9ac",
   "Name": "The Tenants",
   "ProductSlug": "the-tenants",
-  "Ranking_Rating": 548,
+  "Ranking_Rating": 549,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_Completed": 378,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2021-03-25T23:00:00+00:00",
     "PcReleaseDate": "2021-03-25T23:00:00+00:00",
@@ -315,9 +315,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9756,
+  "EOS_Progressed": 9757,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -909,6 +909,11 @@
     {
       "Time": "2023-12-16T12:07:09.8511595+00:00",
       "NumProgressed": 9756,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T19:05:38.1749321+00:00",
+      "NumProgressed": 9757,
       "NumCompleted": 0
     }
   ],
@@ -1608,21 +1613,21 @@
     {
       "ID": "13614nd",
       "IsBase": true,
-      "Progressed": 9756,
+      "Progressed": 9757,
       "Completed": 0
     },
     {
       "ID": "1ejmoln",
       "IsBase": false,
-      "Progressed": 253,
+      "Progressed": 254,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.1531533+00:00",
   "LastChanged": "2023-07-15T20:59:23.7762639+00:00",
-  "LastChanged_Achievements": "2023-12-16T18:05:52.7063551+00:00",
+  "LastChanged_Achievements": "2023-12-16T19:05:38.1749318+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:35.786665+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:59:45.3112004+00:00",
-  "LastUpdate_Achievements": "2023-12-16T18:05:52.7064277+00:00"
+  "LastUpdate_Ratings": "2023-12-16T18:59:52.2583264+00:00",
+  "LastUpdate_Achievements": "2023-12-16T19:05:38.1750002+00:00"
 }

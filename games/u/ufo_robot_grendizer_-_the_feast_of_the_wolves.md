@@ -36,7 +36,7 @@
 | The Flying Octopus | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16 (Ranked 606)  
-Completed: 0 (0.00%) (Ranked 377)  
+Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

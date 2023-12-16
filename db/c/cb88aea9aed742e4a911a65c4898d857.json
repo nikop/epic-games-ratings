@@ -2,13 +2,13 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 53,
+  "Ranking_Rating": 35,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 200,
-  "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_Progress": 199,
+  "Ranking_EOS_Completed": 378,
+  "Ranking_EOS_NewPlayers": 46,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.84,
+  "Rating": 4.86,
   "RatingHistory": [
     {
       "Time": "2023-12-11T06:59:42.897175+00:00",
@@ -63,15 +63,21 @@
       "Rating": 4.84,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-16T18:59:01.4154358+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4377,
+  "EOS_Progressed": 4410,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3318,
+  "EOS_NewPlayers": 3299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1179,6 +1185,11 @@
       "Time": "2023-12-16T18:09:33.4126043+00:00",
       "NumProgressed": 4377,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T19:09:23.5039261+00:00",
+      "NumProgressed": 4410,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1189,9 +1200,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 441
     },
     {
       "ID": "03_TheStolenStar",
@@ -1199,7 +1210,7 @@
       "Name": "Stolen Star",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -1301,25 +1312,25 @@
       "ID": "16_TheRise",
       "SetID": "37a94m8",
       "Name": "The Rise",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 176
     },
     {
       "ID": "17_TheExemplar",
       "SetID": "37a94m8",
       "Name": "Exemplar",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "18_TheRookieSkipper",
       "SetID": "37a94m8",
       "Name": "Rookie Skipper",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 176
     },
     {
       "ID": "19_TheVoidWolf",
@@ -1351,15 +1362,15 @@
       "Name": "Perfect Timing",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "23_DynastyRestored",
       "SetID": "37a94m8",
       "Name": "The Dynasty Restored",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "24_TheHighrise",
@@ -1407,7 +1418,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "30_The GreatestExploration",
@@ -1421,9 +1432,9 @@
       "ID": "31_DontTouchThis",
       "SetID": "37a94m8",
       "Name": "Don\u0027t Touch This",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 40
     },
     {
       "ID": "32_AviationSaviour",
@@ -1439,7 +1450,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -1509,9 +1520,9 @@
       "ID": "42_TheIronJudgement",
       "SetID": "37a94m8",
       "Name": "Iron Judgement",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -1541,9 +1552,9 @@
       "ID": "46_ASpark",
       "SetID": "37a94m8",
       "Name": "A Spark",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 220
     },
     {
       "ID": "47_AFlame",
@@ -1710,16 +1721,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 4377,
+      "Progressed": 4410,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2023-12-16T07:58:34.2168802+00:00",
-  "LastChanged_Achievements": "2023-12-16T18:09:33.412604+00:00",
+  "LastChanged": "2023-12-16T18:59:01.4154357+00:00",
+  "LastChanged_Achievements": "2023-12-16T19:09:23.5039257+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:58:53.7787877+00:00",
-  "LastUpdate_Achievements": "2023-12-16T18:09:33.4126589+00:00"
+  "LastUpdate_Ratings": "2023-12-16T18:59:01.415436+00:00",
+  "LastUpdate_Achievements": "2023-12-16T19:09:23.5039713+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 454,
+  "Ranking_Rating": 455,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 259,
-  "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1206,
+  "EOS_Progressed": 1207,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.57,
   "EosHistory": [
@@ -4147,6 +4147,11 @@
       "Time": "2023-12-16T17:05:22.9485824+00:00",
       "NumProgressed": 1206,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-12-16T19:04:35.1370772+00:00",
+      "NumProgressed": 1207,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 28,
@@ -4174,7 +4179,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "MQ02_2",
@@ -4198,7 +4203,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "MQ03_1",
@@ -4206,7 +4211,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "MQ03_2",
@@ -4268,9 +4273,9 @@
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 519
     },
     {
       "ID": "MQ05_2",
@@ -4278,7 +4283,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "MQ05_3",
@@ -4310,7 +4315,7 @@
       "Name": "Bookworm",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "MQ06_3",
@@ -4318,7 +4323,7 @@
       "Name": "Land, Ho!",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "MQ06_4",
@@ -4326,7 +4331,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "MQ07_1",
@@ -4342,7 +4347,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "MQ08_1",
@@ -4358,7 +4363,7 @@
       "Name": "Up In Flames",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "MQ08_3",
@@ -4366,7 +4371,7 @@
       "Name": "Fhtagn!",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "PLTN",
@@ -4381,7 +4386,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1206,
+      "Progressed": 1207,
       "Completed": 31
     }
   ],
@@ -4389,8 +4394,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-14T11:03:29.6730885+00:00",
-  "LastChanged_Achievements": "2023-12-16T18:04:46.9054131+00:00",
+  "LastChanged_Achievements": "2023-12-16T19:04:35.1370769+00:00",
   "LastUpdate_AppInfo": "2023-12-09T18:57:08.4328302+00:00",
-  "LastUpdate_Ratings": "2023-12-16T18:03:19.3853295+00:00",
-  "LastUpdate_Achievements": "2023-12-16T18:04:46.9054482+00:00"
+  "LastUpdate_Ratings": "2023-12-16T19:03:09.3267094+00:00",
+  "LastUpdate_Achievements": "2023-12-16T19:04:35.1371064+00:00"
 }

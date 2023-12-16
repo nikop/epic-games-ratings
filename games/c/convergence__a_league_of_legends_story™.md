@@ -5,7 +5,7 @@ Rating: 4.62 (Ranked 371)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 35.00% | ~349 |
+| Time Heals All Wounds | 36.00% | ~359 |
 | Rail Rat | 28.00% | ~279 |
 | The Mysterious Stranger | 27.00% | ~269 |
 | Immaculate Aim | 23.00% | ~229 |
@@ -30,19 +30,19 @@ Rating: 4.62 (Ranked 371)
 | Check Your Pulse | 18.00% | ~179 |
 | The Family Fortune | 18.00% | ~179 |
 | Street Style | 17.00% | ~169 |
-| Treasure Trove | 14.00% | ~139 |
-| Whiz Kid | 14.00% | ~139 |
-| Cartographer | 14.00% | ~139 |
-| Good Neighbor | 13.00% | ~129 |
+| Treasure Trove | 14.00% | ~140 |
+| Whiz Kid | 14.00% | ~140 |
+| Cartographer | 14.00% | ~140 |
+| Good Neighbor | 13.00% | ~130 |
 | Chaincrawler Explorer | 12.00% | ~120 |
 | Family Memories | 12.00% | ~120 |
 | Ask Questions Later | 12.00% | ~120 |
 | Syron for Hope | 11.00% | ~110 |
+| Factorywood Explorer | 10.00% | ~100 |
 | Fairgrounds Explorer | 10.00% | ~100 |
 | Sump Explorer | 10.00% | ~100 |
 | Theater Explorer | 10.00% | ~100 |
 | Cultivair Explorer | 9.00% | ~90 |
-| Factorywood Explorer | 9.00% | ~90 |
 | Corin Goes Home | 8.00% | ~80 |
 | Sartorialist | 8.00% | ~80 |
 | Entresol Explorer | 8.00% | ~80 |
@@ -59,8 +59,8 @@ Rating: 4.62 (Ranked 371)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 996 (Ranked 274)  
-Completed: 6 (0.60%) (Ranked 193)  
+Progressed: 997 (Ranked 274)  
+Completed: 6 (0.60%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -205,7 +205,7 @@ Completed: 6 (0.60%) (Ranked 193)
 | 2023-12-13 | 955 | 6 |
 | 2023-12-14 | 963 | 6 |
 | 2023-12-15 | 978 | 6 |
-| 2023-12-16 | 996 | 6 |
+| 2023-12-16 | 997 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

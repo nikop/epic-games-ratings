@@ -6,8 +6,8 @@
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 147,
-  "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_Completed": 262,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 3743,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3467,9 +3467,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18368,
+  "EOS_Progressed": 18376,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15962,6 +15962,11 @@
       "Time": "2023-12-16T18:04:40.6615648+00:00",
       "NumProgressed": 18368,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-16T19:04:29.0588123+00:00",
+      "NumProgressed": 18376,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16046,7 +16051,7 @@
       "Name": "Refinery",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Win5Years",
@@ -16062,7 +16067,7 @@
       "Name": "First Real Expedition",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "WinHard",
@@ -16070,7 +16075,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "WinImpossible",
@@ -16126,7 +16131,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "WinNearFertile",
@@ -16142,7 +16147,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "WinNearForbidden",
@@ -16188,9 +16193,9 @@
       "ID": "WinNearOutpost",
       "SetID": "cfbk359",
       "Name": "Royal Outpost",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 368
     },
     {
       "ID": "WinNearRuins",
@@ -16214,7 +16219,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "WinNearTorrent",
@@ -16238,15 +16243,15 @@
       "Name": "Coral Forest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "WinOnCursed",
       "SetID": "cfbk359",
       "Name": "Cursed Lands",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 165
     },
     {
       "ID": "WinOnMarshlands",
@@ -16254,7 +16259,7 @@
       "Name": "The Marshlands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "WinOnMoorlands",
@@ -16262,7 +16267,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "WinPrestige10",
@@ -16308,9 +16313,9 @@
       "ID": "WinWithEvents",
       "SetID": "cfbk359",
       "Name": "Taking Action",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 551
     },
     {
       "ID": "WinWithResolve",
@@ -16318,7 +16323,7 @@
       "Name": "Victory Through Prosperity",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "WinWithRuins",
@@ -16350,7 +16355,7 @@
       "Name": "No Deaths",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "WinWithoutOrders",
@@ -16374,7 +16379,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "WinNearFrosts",
@@ -16398,7 +16403,7 @@
       "Name": "Overgrown Library",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "WinNearPetrified",
@@ -16430,7 +16435,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "WinWithFoxes",
@@ -16438,22 +16443,22 @@
       "Name": "Fox Utopia",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18368,
+      "Progressed": 18376,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-16T06:56:59.7467087+00:00",
-  "LastChanged_Achievements": "2023-12-16T18:04:40.6615644+00:00",
+  "LastChanged_Achievements": "2023-12-16T19:04:29.0588117+00:00",
   "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:57:19.9456575+00:00",
-  "LastUpdate_Achievements": "2023-12-16T18:04:40.6616512+00:00"
+  "LastUpdate_Ratings": "2023-12-16T18:57:31.1046118+00:00",
+  "LastUpdate_Achievements": "2023-12-16T19:04:29.0589039+00:00"
 }

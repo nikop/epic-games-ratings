@@ -3,9 +3,9 @@
   "Name": "Undead Horde",
   "ProductSlug": "undead-horde-89d7d1",
   "Ranking_EOS_Progress": 698,
-  "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 520,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_Completed": 378,
+  "Ranking_EOS_NewPlayers": 521,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-04-11T10:00:00+00:00",
     "PcReleaseDate": "2019-05-14T23:00:00+00:00",
@@ -251,8 +251,8 @@
   "FirstSeenRating": "2023-04-24T19:59:13.9669535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.0780517+00:00",
   "LastChanged": "2023-04-24T19:59:13.9669536+00:00",
-  "LastChanged_Achievements": "2023-12-16T18:09:26.5030911+00:00",
+  "LastChanged_Achievements": "2023-12-16T19:09:17.0817179+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.8601279+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:57:27.9354032+00:00",
-  "LastUpdate_Achievements": "2023-12-16T18:09:26.5031045+00:00"
+  "LastUpdate_Ratings": "2023-12-16T18:57:39.2291475+00:00",
+  "LastUpdate_Achievements": "2023-12-16T19:09:17.0817327+00:00"
 }

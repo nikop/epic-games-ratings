@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 84.00% | ~95 |
-| It's Yours, My Friend | 71.00% | ~80 |
-| Digging a Hole | 65.00% | ~73 |
-| Going Places | 64.00% | ~72 |
-| Conducted Trade | 62.00% | ~70 |
-| Aristocratic | 61.00% | ~69 |
-| Tutti Frutti | 55.00% | ~62 |
+| Mathematic | 85.00% | ~97 |
+| It's Yours, My Friend | 70.00% | ~80 |
+| Digging a Hole | 66.00% | ~75 |
+| Going Places | 65.00% | ~74 |
+| Conducted Trade | 62.00% | ~71 |
+| Aristocratic | 61.00% | ~70 |
+| Tutti Frutti | 54.00% | ~62 |
 | Gotta Go Fast | 44.00% | ~50 |
 | Slotting Machine | 38.00% | ~43 |
 | Systematic | 37.00% | ~42 |
 | Mine Sweeper | 32.00% | ~36 |
 | Roll Out | 31.00% | ~35 |
 | Dopa-Miner | 24.00% | ~27 |
-| Up, Up And Away! | 23.00% | ~26 |
+| Up, Up And Away! | 24.00% | ~27 |
 | Whoa! | 22.00% | ~25 |
 | Botropolis | 21.00% | ~24 |
 | Steam Powered | 16.00% | ~18 |
 | Steaming Rich | 15.00% | ~17 |
 | Manic Mechanic | 14.00% | ~16 |
-| Room To Spare | 11.00% | ~12 |
+| Room To Spare | 11.00% | ~13 |
 | Real Purdy | 4.00% | ~5 |
 | Stack Overflow | 4.00% | ~5 |
 | Click 'Em All | 3.00% | ~3 |
@@ -33,8 +33,8 @@
 | Yup. | 0.90% | ~1 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113 (Ranked 448)  
-Completed: 0 (0.00%) (Ranked 377)  
+Progressed: 114 (Ranked 447)  
+Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -51,4 +51,4 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 82 | 0 |
 | 2023-12-14 | 93 | 0 |
 | 2023-12-15 | 102 | 0 |
-| 2023-12-16 | 113 | 0 |
+| 2023-12-16 | 114 | 0 |

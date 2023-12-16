@@ -9,9 +9,9 @@
 | Good Person Chip | 85.00% | ~338 |
 | First winning | 84.00% | ~334 |
 | Your first job | 83.00% | ~330 |
+| Depressed visitor | 78.00% | ~310 |
 | Fitness professional | 77.00% | ~306 |
 | Old movies enjoyer | 77.00% | ~306 |
-| Depressed visitor | 77.00% | ~306 |
 | Neurotrainer – power gainer! | 77.00% | ~306 |
 | Employee of the week | 76.00% | ~302 |
 | Your own amateur gym | 71.00% | ~283 |
@@ -29,9 +29,9 @@
 | Handyman | 57.00% | ~227 |
 | Champion – starter pack | 57.00% | ~227 |
 | It's good to be alive | 57.00% | ~227 |
+| Intriguing candies | 57.00% | ~227 |
 | Fight for life | 56.00% | ~223 |
 | Own four walls | 56.00% | ~223 |
-| Intriguing candies | 56.00% | ~223 |
 | Employee of the year | 56.00% | ~223 |
 | Legal courier | 52.00% | ~207 |
 | Extreme neuropower! | 52.00% | ~207 |
@@ -72,7 +72,7 @@
 | Silver’s past | 28.00% | ~111 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 398 (Ranked 340)  
-Completed: 9 (2.26%) (Ranked 127)  
+Completed: 9 (2.26%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,11 +1,11 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.53 (Ranked 548)  
+Rating: 4.54 (Ranked 535)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 13.00% | ~2,147 |
+| Oyedang, Kopengs | 13.00% | ~2,148 |
 | The Pit and the Pirates | 8.00% | ~1,322 |
 | Martian Music | 8.00% | ~1,322 |
 | Drone Dodger | 8.00% | ~1,322 |
@@ -13,13 +13,13 @@ Rating: 4.53 (Ranked 548)
 | Captain Drummer | 8.00% | ~1,322 |
 | Celebrations are in Order | 8.00% | ~1,322 |
 | Impossible Objects | 8.00% | ~1,322 |
-| Stogie for Fogey | 7.00% | ~1,156 |
-| Spore Taste | 7.00% | ~1,156 |
+| Stogie for Fogey | 7.00% | ~1,157 |
+| Spore Taste | 7.00% | ~1,157 |
 | Safe Cracker | 7.00% | ~173 |
 | Zen Master | 7.00% | ~173 |
 | Madame Undersecretary | 7.00% | ~173 |
 | Call it Even | 6.00% | ~991 |
-| Keep Arjun in Check | 6.00% | ~148 |
+| Keep Arjun in Check | 6.00% | ~149 |
 | Data Archivist | 5.00% | ~826 |
 | Drug Gifter | 5.00% | ~826 |
 | Heal Thy Medic | 5.00% | ~826 |
@@ -41,8 +41,8 @@ Rating: 4.53 (Ranked 548)
 | Scavenger Star | 0.20% | ~33 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,519 (Ranked 152)  
-Completed: 43 (0.26%) (Ranked 250)  
+Progressed: 16,524 (Ranked 152)  
+Completed: 43 (0.26%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -188,7 +188,7 @@ Completed: 43 (0.26%) (Ranked 250)
 | 2023-12-13 | 16,124 | 43 |
 | 2023-12-14 | 16,263 | 43 |
 | 2023-12-15 | 16,416 | 43 |
-| 2023-12-16 | 16,519 | 43 |
+| 2023-12-16 | 16,524 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -233,3 +233,4 @@ Completed: 43 (0.26%) (Ranked 250)
 | 2023-12-09 | 4.55 | 0 | 0 |
 | 2023-12-10 | 4.52 | 0 | 0 |
 | 2023-12-11 | 4.53 | 0 | 0 |
+| 2023-12-16 | 4.54 | 0 | 0 |

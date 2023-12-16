@@ -14,7 +14,7 @@
 | An ear for music | 37.00% | ~31 |
 | Agatha's favourite song | 35.00% | ~29 |
 | Lights and shadows | 33.00% | ~28 |
-| The threshold of horror | 30.00% | ~25 |
+| The threshold of horror | 31.00% | ~26 |
 | Second document retrieved | 29.00% | ~24 |
 | Third document retrieved | 27.00% | ~23 |
 | Deadly chase | 27.00% | ~23 |
@@ -26,7 +26,7 @@
 | Spectres from the past | 7.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 84 (Ranked 476)  
-Completed: 3 (3.57%) (Ranked 95)  
+Completed: 3 (3.57%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

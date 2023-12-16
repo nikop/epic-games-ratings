@@ -2,13 +2,13 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 1064,
+  "Ranking_Rating": 1063,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 235,
-  "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_Completed": 378,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.47,
+  "Rating": 3.5,
   "RatingHistory": [
     {
       "Time": "2023-05-02T02:57:49.0820146+00:00",
@@ -241,15 +241,21 @@
       "Rating": 3.47,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-16T18:59:11.0899742+00:00",
+      "Rating": 3.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1878,
+  "EOS_Progressed": 1881,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2667,6 +2673,11 @@
       "Time": "2023-12-16T18:06:16.0758754+00:00",
       "NumProgressed": 1878,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T19:06:01.0556994+00:00",
+      "NumProgressed": 1881,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2814,7 +2825,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "Achievement_020",
@@ -2924,9 +2935,9 @@
       "ID": "Achievement_033",
       "SetID": "6b34g18",
       "Name": "Wounded Whispers",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 94
     },
     {
       "ID": "Achievement_034",
@@ -2980,9 +2991,9 @@
       "ID": "Achievement_040",
       "SetID": "6b34g18",
       "Name": "Heart Attack",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 38
     },
     {
       "ID": "Achievement_041",
@@ -3205,16 +3216,16 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1878,
+      "Progressed": 1881,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-02T02:57:49.0820129+00:00",
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
-  "LastChanged": "2023-12-10T01:51:29.5345174+00:00",
-  "LastChanged_Achievements": "2023-12-16T18:06:16.0758751+00:00",
+  "LastChanged": "2023-12-16T18:59:11.089974+00:00",
+  "LastChanged_Achievements": "2023-12-16T19:06:01.0556991+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:19.3114561+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:59:03.7221753+00:00",
-  "LastUpdate_Achievements": "2023-12-16T18:06:16.0759307+00:00"
+  "LastUpdate_Ratings": "2023-12-16T18:59:11.0899745+00:00",
+  "LastUpdate_Achievements": "2023-12-16T19:06:01.0557548+00:00"
 }

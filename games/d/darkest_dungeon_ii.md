@@ -6,12 +6,13 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 7.00% | ~184 |
-| Lost and Found | 4.00% | ~105 |
+| Malpractice Assurance | 7.00% | ~185 |
+| Lost and Found | 4.00% | ~106 |
 | This Belongs in a Museum | 3.00% | ~3,833 |
 | Autodidact | 3.00% | ~3,833 |
 | This guy... again? | 3.00% | ~79 |
 | Bloody Graduation | 3.00% | ~79 |
+| Don't Make Me Turn This Coach Around | 2.00% | ~2,555 |
 | Serenity Now! | 2.00% | ~2,555 |
 | Not Today! | 2.00% | ~2,555 |
 | Creep and Sleep | 2.00% | ~2,555 |
@@ -23,7 +24,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 2.00% | ~2,555 |
 | Ploughshares to Swords | 2.00% | ~53 |
 | Friends 'Til the End | 2.00% | ~53 |
-| Don't Make Me Turn This Coach Around | 1.00% | ~1,278 |
 | It Rings a Bell | 1.00% | ~1,278 |
 | Dissector | 1.00% | ~1,278 |
 | Banishment | 1.00% | ~1,278 |
@@ -39,6 +39,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 1.00% | ~1,278 |
 | Road Trip | 1.00% | ~1,278 |
 | Unleash Hell | 0.90% | ~1,150 |
+| Funny Guy | 0.90% | ~1,150 |
 | Long Live the King | 0.90% | ~1,150 |
 | Unfulfilled Desires | 0.90% | ~1,150 |
 | Predator | 0.90% | ~1,150 |
@@ -47,18 +48,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ramble On | 0.90% | ~1,150 |
 | Unshackled | 0.90% | ~1,150 |
 | Resurrection | 0.80% | ~1,022 |
-| Funny Guy | 0.80% | ~1,022 |
 | Wyrdly Reconstructed | 0.80% | ~1,022 |
 | Boxcar Kid | 0.80% | ~1,022 |
 | A Clear Conscience | 0.80% | ~1,022 |
 | When You Want Something Done Right | 0.80% | ~1,022 |
 | Utopia | 0.80% | ~1,022 |
-| Hope Rekindled | 0.60% | ~767 |
+| Hope Rekindled | 0.70% | ~894 |
 | Ichthyophobic | 0.60% | ~767 |
 | No More Mouths to Feed | 0.60% | ~767 |
+| Hot Air | 0.60% | ~767 |
 | Slap on the Wrist | 0.60% | ~16 |
 | This Looks Familiar | 0.50% | ~639 |
-| Hot Air | 0.50% | ~639 |
 | Eyes Up | 0.50% | ~639 |
 | For Old Time' Sake | 0.50% | ~13 |
 | Shrine of Reflection | 0.40% | ~511 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 | On This Long Road, We Found Redemption | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,759 (Ranked 84)  
-Completed: 3 (0.00%) (Ranked 377)  
+Progressed: 127,772 (Ranked 84)  
+Completed: 3 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -316,7 +316,7 @@ Completed: 3 (0.00%) (Ranked 377)
 | 2023-12-13 | 126,690 | 3 |
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
-| 2023-12-16 | 127,759 | 3 |
+| 2023-12-16 | 127,772 | 3 |
 ## Awards
 Max (Character Customization): 7,744  (Ranked 51)  
 Sum: 20,587 (Ranked 58)  

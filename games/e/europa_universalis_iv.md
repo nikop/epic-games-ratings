@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 0.30% | ~1,430 |
-| That is mine! | 0.30% | ~1,430 |
-| Until death do us apart | 0.30% | ~1,430 |
-| Victorious! | 0.30% | ~1,430 |
+| That's a Grand Army | 0.30% | ~1,431 |
+| That is mine! | 0.30% | ~1,431 |
+| Until death do us apart | 0.30% | ~1,431 |
+| Victorious! | 0.30% | ~1,431 |
 | Brothers in Arms | 0.20% | ~954 |
 | That's a Grand Navy | 0.20% | ~954 |
 | Seriously?! | 0.20% | ~954 |
@@ -370,8 +370,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476,793 (Ranked 41)  
-Completed: 1 (0.00%) (Ranked 377)  
+Progressed: 476,854 (Ranked 41)  
+Completed: 1 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -610,16 +610,16 @@ Completed: 1 (0.00%) (Ranked 377)
 | 2023-12-13 | 474,145 | 1 |
 | 2023-12-14 | 474,899 | 1 |
 | 2023-12-15 | 475,873 | 1 |
-| 2023-12-16 | 476,793 | 1 |
+| 2023-12-16 | 476,854 | 1 |
 ## Awards
 Max (Educational): 7,396  (Ranked 54)  
-Sum: 61,067 (Ranked 24)  
+Sum: 61,090 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,396 |
 | This game has Diverse Characters | 7,211 |
-| This game is Highly Recommended | 7,109 |
+| This game is Highly Recommended | 7,132 |
 | This game has Challenging Combat | 7,039 |
 | This game is Extremely Fun | 6,950 |
 | This game is Relaxing | 6,820 |
@@ -963,4 +963,4 @@ Diff (max vs sum): 30
 | 2023-12-13 | 4.69 | - | 7,367 | 60,723 |
 | 2023-12-14 | 4.69 | - | 7,379 | 60,850 |
 | 2023-12-15 | 4.69 | - | 7,396 | 60,976 |
-| 2023-12-16 | 4.69 | - | 7,396 | 61,067 |
+| 2023-12-16 | 4.69 | - | 7,396 | 61,090 |

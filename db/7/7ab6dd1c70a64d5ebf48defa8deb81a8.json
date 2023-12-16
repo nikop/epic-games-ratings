@@ -3,9 +3,9 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 309,
-  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 598,
+  "EOS_Progressed": 602,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1430,6 +1430,11 @@
       "Time": "2023-12-16T18:09:59.3036028+00:00",
       "NumProgressed": 598,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T19:09:48.2526121+00:00",
+      "NumProgressed": 602,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1439,9 +1444,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_02",
@@ -1463,9 +1468,9 @@
       "ID": "ACH_04",
       "SetID": "efe2lj",
       "Name": "Calm before the Storm",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_05",
@@ -1583,9 +1588,9 @@
       "ID": "ACH_19",
       "SetID": "efe2lj",
       "Name": "Slayer",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 12
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_20",
@@ -1623,9 +1628,9 @@
       "ID": "ACH_24",
       "SetID": "efe2lj",
       "Name": "All There Is",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 12
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_25",
@@ -1728,14 +1733,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 598,
+      "Progressed": 602,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-16T18:09:59.3036025+00:00",
+  "LastChanged_Achievements": "2023-12-16T19:09:48.2526116+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:58:53.0942317+00:00",
-  "LastUpdate_Achievements": "2023-12-16T18:09:59.3036316+00:00"
+  "LastUpdate_Ratings": "2023-12-16T18:59:00.9562698+00:00",
+  "LastUpdate_Achievements": "2023-12-16T19:09:48.2526515+00:00"
 }

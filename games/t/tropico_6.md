@@ -6,28 +6,28 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 74.00% | ~4,752 |
-| Un-Lonely Island | 46.00% | ~2,954 |
-| The Beginning of a Servantship | 44.00% | ~2,825 |
-| Trade Is My Trait | 37.00% | ~2,376 |
-| Number 18 | 23.00% | ~1,477 |
-| We Don't Have Time For That | 19.00% | ~1,220 |
+| Just One...More...Term... | 74.00% | ~4,754 |
+| Un-Lonely Island | 46.00% | ~2,956 |
+| The Beginning of a Servantship | 44.00% | ~2,827 |
+| Trade Is My Trait | 37.00% | ~2,377 |
+| Number 18 | 23.00% | ~1,478 |
+| We Don't Have Time For That | 19.00% | ~1,221 |
 | The Governator | 17.00% | ~1,092 |
-| The Legend of Langostino | 16.00% | ~1,027 |
-| Caribbean Comrade | 15.00% | ~963 |
-| The Dreamer of Dreams | 15.00% | ~963 |
-| Go Sovereigns! | 11.00% | ~706 |
-| For Science! | 11.00% | ~706 |
+| The Legend of Langostino | 16.00% | ~1,028 |
+| Caribbean Comrade | 15.00% | ~964 |
+| The Dreamer of Dreams | 15.00% | ~964 |
+| Go Sovereigns! | 11.00% | ~707 |
+| For Science! | 11.00% | ~707 |
 | Happy Ending? | 10.00% | ~642 |
 | Of Seals And Men | 9.00% | ~578 |
 | Shackadelic | 9.00% | ~578 |
 | Double Trouble | 8.00% | ~514 |
 | Firestarter | 8.00% | ~514 |
-| I Owe You Nothing | 7.00% | ~449 |
-| Make Tropico Great Again! | 7.00% | ~449 |
-| French Connection | 7.00% | ~449 |
-| Don't Panic! | 6.00% | ~385 |
-| Beware The Betman | 6.00% | ~385 |
+| I Owe You Nothing | 7.00% | ~450 |
+| Make Tropico Great Again! | 7.00% | ~450 |
+| French Connection | 7.00% | ~450 |
+| Don't Panic! | 6.00% | ~386 |
+| Beware The Betman | 6.00% | ~386 |
 | Viva Tropico! | 5.00% | ~321 |
 | Computer Says "No" | 5.00% | ~321 |
 | Watch The World Burn | 5.00% | ~321 |
@@ -47,8 +47,8 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~51 |
 | My Ways | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,421 (Ranked 188)  
-Completed: 2 (0.03%) (Ranked 338)  
+Progressed: 6,425 (Ranked 188)  
+Completed: 2 (0.03%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -287,10 +287,10 @@ Completed: 2 (0.03%) (Ranked 338)
 | 2023-12-13 | 6,313 | 2 |
 | 2023-12-14 | 6,351 | 2 |
 | 2023-12-15 | 6,377 | 2 |
-| 2023-12-16 | 6,421 | 2 |
+| 2023-12-16 | 6,425 | 2 |
 ## Awards
 Max (Highly Recommended): 104  (Ranked 364)  
-Sum: 739 (Ranked 294)  
+Sum: 740 (Ranked 294)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -299,7 +299,7 @@ Diff (max vs sum): 70
 | This game has Quickly Understood Controls | 102 |
 | This game is Relaxing | 100 |
 | This game has Amazing Storytelling | 94 |
-| This game is Extremely Fun | 91 |
+| This game is Extremely Fun | 92 |
 | This game has Amazing Characters | 90 |
 | This game is Educational | 90 |
 | This game has a Creative Community | 68 |
@@ -480,3 +480,4 @@ Diff (max vs sum): 70
 | 2023-12-04 | 4.66 | - | 103 | 737 |
 | 2023-12-08 | 4.66 | - | 104 | 739 |
 | 2023-12-13 | 4.65 | - | 104 | 739 |
+| 2023-12-16 | 4.65 | - | 104 | 740 |

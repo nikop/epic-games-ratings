@@ -9,10 +9,10 @@
 | For the Horde! | 83.00% | ~477 |
 | Hammer Time, Round Two | 81.00% | ~466 |
 | The Hellwoods | 76.00% | ~437 |
+| Experienced Thalya | 72.00% | ~414 |
 | The Plains of Strothalm | 71.00% | ~408 |
-| Experienced Thalya | 71.00% | ~408 |
+| Bad Elves Go Everywhere | 69.00% | ~397 |
 | Thalya's Concentrated Fury | 68.00% | ~391 |
-| Bad Elves Go Everywhere | 68.00% | ~391 |
 | Heroes’ Gorge | 65.00% | ~374 |
 | Master of Magic | 63.00% | ~362 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~356 |
@@ -21,12 +21,12 @@
 | It's Warm and Cozy at Home | 58.00% | ~334 |
 | Trap Master | 55.00% | ~316 |
 | Minions, Minions! | 54.00% | ~310 |
+| Hard Work | 53.00% | ~305 |
 | The Big Eaty | 53.00% | ~305 |
-| Hard Work | 52.00% | ~299 |
 | YOU SHALL NOT PASS! | 50.00% | ~288 |
 | “… like son” | 50.00% | ~288 |
+| Pure Dynamite! | 46.00% | ~264 |
 | The Cathedral of Light | 46.00% | ~264 |
-| Pure Dynamite! | 45.00% | ~259 |
 | Dungeonlord Gorgu | 45.00% | ~259 |
 | Shame! Shame! Shame! | 45.00% | ~259 |
 | Tanos' Crusade Against Thalya | 44.00% | ~253 |
@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 8.00% | ~46 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 575 (Ranked 313)  
-Completed: 17 (2.96%) (Ranked 106)  
+Completed: 17 (2.96%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

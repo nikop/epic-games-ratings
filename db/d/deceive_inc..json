@@ -2,13 +2,13 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 454,
+  "Ranking_Rating": 455,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_Completed": 346,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19067,
+  "EOS_Progressed": 19069,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13729,6 +13729,11 @@
       "Time": "2023-12-16T18:04:13.8027219+00:00",
       "NumProgressed": 19067,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-16T19:04:03.3555729+00:00",
+      "NumProgressed": 19069,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13740,7 +13745,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5720
+      "UsersEstimate": 5721
     },
     {
       "ID": "0002",
@@ -13756,7 +13761,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3241
+      "UsersEstimate": 3242
     },
     {
       "ID": "0004",
@@ -13804,7 +13809,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4385
+      "UsersEstimate": 4386
     },
     {
       "ID": "0010",
@@ -13948,7 +13953,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "0028",
@@ -13956,7 +13961,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4385
+      "UsersEstimate": 4386
     },
     {
       "ID": "0029",
@@ -13980,7 +13985,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "0032",
@@ -13988,7 +13993,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "0033",
@@ -13996,7 +14001,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "0034",
@@ -14027,7 +14032,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19067,
+      "Progressed": 19069,
       "Completed": 4
     }
   ],
@@ -14035,8 +14040,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-16T18:04:13.8027215+00:00",
+  "LastChanged_Achievements": "2023-12-16T19:04:03.3555723+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:34.3621794+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:59:43.8576246+00:00",
-  "LastUpdate_Achievements": "2023-12-16T18:04:13.8028063+00:00"
+  "LastUpdate_Ratings": "2023-12-16T18:59:50.580448+00:00",
+  "LastUpdate_Achievements": "2023-12-16T19:04:03.3556856+00:00"
 }

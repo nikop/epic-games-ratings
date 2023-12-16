@@ -3,9 +3,9 @@
   "Name": "EBOLA 2",
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 366,
-  "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 425,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_Completed": 378,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 301,
+  "EOS_Progressed": 302,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1204,6 +1204,11 @@
       "Time": "2023-12-15T13:15:27.2782099+00:00",
       "NumProgressed": 301,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-16T19:09:36.2818453+00:00",
+      "NumProgressed": 302,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -1303,7 +1308,7 @@
       "Name": "Recluse \u2714",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "achMeat",
@@ -1358,14 +1363,14 @@
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 301,
+      "Progressed": 302,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-12-16T18:09:46.7546783+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T18:57:03.1835162+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:58:19.3382003+00:00",
-  "LastUpdate_Achievements": "2023-12-16T18:09:46.7546943+00:00"
+  "LastChanged_Achievements": "2023-12-16T19:09:36.2818451+00:00",
+  "LastUpdate_AppInfo": "2023-12-16T18:57:10.752196+00:00",
+  "LastUpdate_Ratings": "2023-12-16T18:58:27.5761857+00:00",
+  "LastUpdate_Achievements": "2023-12-16T19:09:36.281858+00:00"
 }

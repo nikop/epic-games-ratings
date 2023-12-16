@@ -2,13 +2,13 @@
   "ID": "4966d5da285c4f2c876937844b0e23ee",
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
-  "Ranking_Rating": 46,
+  "Ranking_Rating": 47,
   "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 137,
-  "Ranking_EOS_Completed": 282,
+  "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 24748,
+  "EOS_Progressed": 24756,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1068,
+  "EOS_NewPlayers": 1076,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -10755,6 +10755,11 @@
       "Time": "2023-12-16T18:09:39.3940375+00:00",
       "NumProgressed": 24748,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-16T19:09:29.3693383+00:00",
+      "NumProgressed": 24756,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10774,7 +10779,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "AllEquipment",
@@ -10782,7 +10787,7 @@
       "Name": "Black-shoppe",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "AllFriends",
@@ -10830,7 +10835,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -10862,7 +10867,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -10870,7 +10875,7 @@
       "Name": "For Greed",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "BossFinalDefeated",
@@ -10878,7 +10883,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -10902,7 +10907,7 @@
       "Name": "For Penance",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "BossGardenDefeated",
@@ -10910,7 +10915,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -10990,7 +10995,7 @@
       "Name": "Good Practice",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Icarus",
@@ -10998,7 +11003,7 @@
       "Name": "Maybe Wax Doesn\u0027t Melt",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "NightmareKhidr",
@@ -11006,7 +11011,7 @@
       "Name": "A Glimpse of the Future",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "PetDragon",
@@ -11014,7 +11019,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "PrequelReveal",
@@ -11022,7 +11027,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "RogueMode",
@@ -11077,21 +11082,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 24748,
+      "Progressed": 24756,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 3678,
+      "Progressed": 3686,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-16T18:09:39.394037+00:00",
+  "LastChanged_Achievements": "2023-12-16T19:09:29.3693378+00:00",
   "LastUpdate_AppInfo": "2023-12-09T20:57:17.8828255+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:59:40.6475267+00:00",
-  "LastUpdate_Achievements": "2023-12-16T18:09:39.394153+00:00"
+  "LastUpdate_Ratings": "2023-12-16T18:59:47.3983174+00:00",
+  "LastUpdate_Achievements": "2023-12-16T19:09:29.3694054+00:00"
 }

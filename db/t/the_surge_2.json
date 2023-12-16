@@ -6,9 +6,9 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 227,
-  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -282,11 +282,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2260,
+  "EOS_Progressed": 2261,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.58,
+  "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:46.0038697+00:00",
@@ -3427,6 +3427,11 @@
       "Time": "2023-12-16T18:04:06.2227222+00:00",
       "NumProgressed": 2260,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-16T19:03:56.0759333+00:00",
+      "NumProgressed": 2261,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3486,7 +3491,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACHV_08",
@@ -3494,7 +3499,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACHV_09",
@@ -3502,7 +3507,7 @@
       "Name": "Bad Dog",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACHV_10",
@@ -3638,7 +3643,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "ACHV_27",
@@ -3654,7 +3659,7 @@
       "Name": "Clean Cut",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACHV_29",
@@ -3670,7 +3675,7 @@
       "Name": "Powered Up",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "ACHV_31",
@@ -3758,7 +3763,7 @@
       "Name": "Suited and Booted",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "ACHV_42",
@@ -3893,7 +3898,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2260,
+      "Progressed": 2261,
       "Completed": 13
     }
   ],
@@ -3901,8 +3906,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-22T02:25:03.2214817+00:00",
-  "LastChanged_Achievements": "2023-12-16T18:04:06.2227218+00:00",
+  "LastChanged_Achievements": "2023-12-16T19:03:56.0759327+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:57:00.284762+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:57:36.629372+00:00",
-  "LastUpdate_Achievements": "2023-12-16T18:04:06.2227918+00:00"
+  "LastUpdate_Ratings": "2023-12-16T18:57:47.5898717+00:00",
+  "LastUpdate_Achievements": "2023-12-16T19:03:56.0759846+00:00"
 }

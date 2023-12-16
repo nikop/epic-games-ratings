@@ -5,54 +5,54 @@ Rating: 4.51 (Ranked 577)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 79.00% | ~3,301 |
-| Keep 'Em Coming | 69.00% | ~2,884 |
-| Snatched Out | 69.00% | ~2,884 |
-| Cleaning Lethe, One Nest At A Time | 62.00% | ~2,591 |
-| Call Me Snake | 58.00% | ~2,424 |
-| Something Lurks Under The Hills | 56.00% | ~2,340 |
-| This Was No Papercut | 55.00% | ~2,298 |
-| The Shrink Hates Me | 53.00% | ~2,215 |
-| People Person | 52.00% | ~2,173 |
-| Use The Bumper, That's What It's For | 49.00% | ~2,048 |
-| First Steps Into Madness | 49.00% | ~2,048 |
-| Colonial Barrels | 47.00% | ~1,964 |
-| Harper's Hell | 42.00% | ~1,755 |
-| Making a Stand | 41.00% | ~1,713 |
-| Damn Dude, You Gotta Lose Some Weight! | 39.00% | ~1,630 |
-| Where It All Begun | 37.00% | ~1,546 |
-| Recouped Investment | 36.00% | ~1,504 |
-| Living Nightmare | 32.00% | ~1,337 |
-| The More The Merrier | 32.00% | ~1,337 |
-| Omelette Du Fromage | 31.00% | ~1,295 |
-| The Darwin Era Was Here | 29.00% | ~1,212 |
-| Deep Into Insanity | 27.00% | ~1,128 |
-| The Passenger | 27.00% | ~1,128 |
-| Come on, You Wanna Live Forever? | 26.00% | ~1,087 |
-| The Spire | 25.00% | ~1,045 |
-| El Riesgo Siempre Vive | 23.00% | ~961 |
-| Excavating The Truth | 22.00% | ~919 |
-| Stuff Of Nightmares | 21.00% | ~878 |
-| Abysmal Horrors | 21.00% | ~878 |
-| Frontliner | 20.00% | ~836 |
-| One For Every Occasion | 19.00% | ~794 |
-| The Cable Guy | 19.00% | ~794 |
-| Bandage Lover | 18.00% | ~752 |
+| This Is Hayes, Pioneer Station, Signing Off | 79.00% | ~3,305 |
+| Keep 'Em Coming | 69.00% | ~2,887 |
+| Snatched Out | 69.00% | ~2,887 |
+| Cleaning Lethe, One Nest At A Time | 62.00% | ~2,594 |
+| Call Me Snake | 58.00% | ~2,427 |
+| Something Lurks Under The Hills | 56.00% | ~2,343 |
+| This Was No Papercut | 55.00% | ~2,301 |
+| The Shrink Hates Me | 53.00% | ~2,218 |
+| People Person | 52.00% | ~2,176 |
+| Use The Bumper, That's What It's For | 49.00% | ~2,050 |
+| First Steps Into Madness | 49.00% | ~2,050 |
+| Colonial Barrels | 47.00% | ~1,966 |
+| Harper's Hell | 42.00% | ~1,757 |
+| Making a Stand | 41.00% | ~1,715 |
+| Damn Dude, You Gotta Lose Some Weight! | 39.00% | ~1,632 |
+| Where It All Begun | 37.00% | ~1,548 |
+| Recouped Investment | 36.00% | ~1,506 |
+| Living Nightmare | 32.00% | ~1,339 |
+| The More The Merrier | 32.00% | ~1,339 |
+| Omelette Du Fromage | 31.00% | ~1,297 |
+| The Darwin Era Was Here | 29.00% | ~1,213 |
+| Deep Into Insanity | 27.00% | ~1,130 |
+| The Passenger | 27.00% | ~1,130 |
+| Come on, You Wanna Live Forever? | 26.00% | ~1,088 |
+| The Spire | 25.00% | ~1,046 |
+| El Riesgo Siempre Vive | 23.00% | ~962 |
+| Excavating The Truth | 22.00% | ~920 |
+| Stuff Of Nightmares | 21.00% | ~879 |
+| Abysmal Horrors | 21.00% | ~879 |
+| Frontliner | 20.00% | ~837 |
+| One For Every Occasion | 19.00% | ~795 |
+| The Cable Guy | 19.00% | ~795 |
+| Bandage Lover | 18.00% | ~753 |
 | Regicide | 16.00% | ~669 |
-| This Went Smoothly | 14.00% | ~585 |
-| Flawless Victory | 13.00% | ~543 |
-| Heavy Steps | 12.00% | ~501 |
-| Perfect Enhancements | 9.00% | ~376 |
+| This Went Smoothly | 14.00% | ~586 |
+| Flawless Victory | 13.00% | ~544 |
+| Heavy Steps | 12.00% | ~502 |
+| Perfect Enhancements | 9.00% | ~377 |
 | Hardened In The Heat Of Battle | 7.00% | ~293 |
 | The True Experience | 6.00% | ~251 |
-| Fair And Square | 3.00% | ~125 |
+| Fair And Square | 3.00% | ~126 |
 | Archivist | 2.00% | ~84 |
 | Perfect Organism | 0.90% | ~38 |
 | This Ain't No Picnic | 0.70% | ~29 |
 | Chalk It Up To Experience | 0.70% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,179 (Ranked 201)  
-Completed: 3 (0.07%) (Ranked 311)  
+Progressed: 4,184 (Ranked 202)  
+Completed: 3 (0.07%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -224,7 +224,7 @@ Completed: 3 (0.07%) (Ranked 311)
 | 2023-12-13 | 3,773 | 3 |
 | 2023-12-14 | 3,910 | 3 |
 | 2023-12-15 | 4,069 | 3 |
-| 2023-12-16 | 4,179 | 3 |
+| 2023-12-16 | 4,184 | 3 |
 ## Awards
 Max (Great Boss Battles): 40  (Ranked 463)  
 Sum: 40 (Ranked 504)  

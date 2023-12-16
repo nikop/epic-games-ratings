@@ -1,18 +1,18 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 548)  
+Rating: 4.53 (Ranked 549)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 63.00% | ~55 |
-| Mash Machine | 60.00% | ~52 |
-| Ducks in a Row, Fish in a Barrel | 40.00% | ~35 |
-| Furon Fashion | 30.00% | ~26 |
-| Shop Til They Drop | 29.00% | ~25 |
-| Earthly Pleasures | 21.00% | ~18 |
-| Pimp My Raid | 20.00% | ~17 |
+| Rock of the Bay | 63.00% | ~56 |
+| Mash Machine | 58.00% | ~52 |
+| Ducks in a Row, Fish in a Barrel | 39.00% | ~35 |
+| Furon Fashion | 29.00% | ~26 |
+| Shop Til They Drop | 28.00% | ~25 |
+| Earthly Pleasures | 20.00% | ~18 |
+| Pimp My Raid | 19.00% | ~17 |
 | Bodied Sattva | 18.00% | ~16 |
 | I Look Up As I Walk to Takoshima | 17.00% | ~15 |
 | Upgreatest | 17.00% | ~15 |
@@ -24,7 +24,7 @@ Number of Ratings: 90  (23.09.2022)
 | Transmitting From Sol-3 | 7.00% | ~6 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 6.00% | ~5 |
 | Dusted | 6.00% | ~5 |
-| Fly Me to the Moon Base | 5.00% | ~4 |
+| Fly Me to the Moon Base | 4.00% | ~4 |
 | Kaijuiced | 3.00% | ~3 |
 | Scuttled | 3.00% | ~3 |
 | Lobster Blisque | 2.00% | ~2 |
@@ -51,8 +51,8 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 468)  
-Completed: 0 (0.00%) (Ranked 377)  
+Progressed: 89 (Ranked 468)  
+Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 45 | 0 |
 | 2023-12-14 | 60 | 0 |
 | 2023-12-15 | 75 | 0 |
-| 2023-12-16 | 87 | 0 |
+| 2023-12-16 | 89 | 0 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 480)  
 Sum: 36 (Ranked 512)  

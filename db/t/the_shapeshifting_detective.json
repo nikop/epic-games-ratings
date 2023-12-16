@@ -2,10 +2,10 @@
   "ID": "7509a5c8feb744ae866d9e3326d52d3b",
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Completed": 164,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 262,
+  "EOS_Progressed": 263,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.15,
+  "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:57.7196507+00:00",
@@ -565,6 +565,11 @@
       "Time": "2023-12-16T16:08:41.5953778+00:00",
       "NumProgressed": 262,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-16T19:08:22.023994+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -592,7 +597,7 @@
       "Name": "Bullseye",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "chameleon",
@@ -656,7 +661,7 @@
       "Name": "Patient Listener",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "play_it_again_sam",
@@ -664,7 +669,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "play_me_by_the_hour",
@@ -704,7 +709,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "the_big_sleep",
@@ -743,7 +748,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 262,
+      "Progressed": 263,
       "Completed": 3
     }
   ],
@@ -751,8 +756,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-16T18:08:29.7448903+00:00",
+  "LastChanged_Achievements": "2023-12-16T19:08:22.0239938+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:59:09.2551695+00:00",
-  "LastUpdate_Ratings": "2023-12-16T18:03:17.8952357+00:00",
-  "LastUpdate_Achievements": "2023-12-16T18:08:29.7449011+00:00"
+  "LastUpdate_Ratings": "2023-12-16T19:03:07.9195742+00:00",
+  "LastUpdate_Achievements": "2023-12-16T19:08:22.024009+00:00"
 }

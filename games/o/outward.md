@@ -6,22 +6,22 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,944 |
-| Ready for Winter | 64.00% | ~2,513 |
-| Ready for Summer | 51.00% | ~2,002 |
-| Cordon Bleu | 43.00% | ~1,688 |
-| Tapped! | 37.00% | ~1,453 |
-| Eureka | 32.00% | ~1,256 |
-| Scourge Slayer | 26.00% | ~1,021 |
-| Science, Troglodyte! | 23.00% | ~903 |
-| Exceptional Skill | 22.00% | ~864 |
-| Home Sweet Home | 22.00% | ~864 |
-| Encyclopedic! | 20.00% | ~785 |
-| The Power of Family | 17.00% | ~667 |
-| A Fortress Toppled! | 16.00% | ~628 |
-| Apex Predator | 16.00% | ~628 |
-| Strange amalgams | 12.00% | ~471 |
-| The Power of Faith | 12.00% | ~471 |
+| Venture Outward | 75.00% | ~2,948 |
+| Ready for Winter | 64.00% | ~2,515 |
+| Ready for Summer | 51.00% | ~2,004 |
+| Cordon Bleu | 43.00% | ~1,690 |
+| Tapped! | 37.00% | ~1,454 |
+| Eureka | 32.00% | ~1,258 |
+| Scourge Slayer | 26.00% | ~1,022 |
+| Science, Troglodyte! | 23.00% | ~904 |
+| Exceptional Skill | 22.00% | ~865 |
+| Home Sweet Home | 22.00% | ~865 |
+| Encyclopedic! | 20.00% | ~786 |
+| The Power of Family | 17.00% | ~668 |
+| A Fortress Toppled! | 16.00% | ~629 |
+| Apex Predator | 16.00% | ~629 |
+| Strange amalgams | 12.00% | ~472 |
+| The Power of Faith | 12.00% | ~472 |
 | The Power of Freedom | 10.00% | ~393 |
 | Ace Detective | 8.00% | ~314 |
 | Gift from the Ancestors | 8.00% | ~314 |
@@ -44,13 +44,13 @@ Number of Ratings: 266  (23.09.2022)
 | The blood is life | 1.00% | ~39 |
 | They'll Tell Stories About This | 1.00% | ~39 |
 | Vanquisher of nightmares | 1.00% | ~39 |
-| Through fire and flame. | 0.70% | ~27 |
+| Through fire and flame. | 0.70% | ~28 |
 | Legacy of a master hunter | 0.40% | ~16 |
 | Master of Aurai | 0.40% | ~16 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,926 (Ranked 205)  
-Completed: 5 (0.13%) (Ranked 283)  
+Progressed: 3,930 (Ranked 205)  
+Completed: 5 (0.13%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -275,7 +275,7 @@ Completed: 5 (0.13%) (Ranked 283)
 | 2023-12-13 | 3,741 | 4 |
 | 2023-12-14 | 3,790 | 4 |
 | 2023-12-15 | 3,863 | 5 |
-| 2023-12-16 | 3,926 | 5 |
+| 2023-12-16 | 3,930 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 483)  
 Sum: 246 (Ranked 387)  

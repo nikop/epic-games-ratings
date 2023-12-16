@@ -13,10 +13,10 @@
 | Roller Race | 37.00% | ~34 |
 | Stilesville Hidden Style | 31.00% | ~28 |
 | Creating New Trends | 26.00% | ~24 |
+| Best Gala Ever | 24.00% | ~22 |
 | Welcome to the The Stylin' Soiree | 24.00% | ~22 |
 | Scooter Race | 24.00% | ~22 |
 | Barcelona Hidden Style | 23.00% | ~21 |
-| Best Gala Ever | 23.00% | ~21 |
 | Seoul Hidden Style | 15.00% | ~14 |
 | Hoverboard Race | 7.00% | ~6 |
 | Trendy Selfies | 3.00% | ~3 |
@@ -25,7 +25,7 @@
 | Exclusive Photoshoot | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 91 (Ranked 465)  
-Completed: 0 (0.00%) (Ranked 377)  
+Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

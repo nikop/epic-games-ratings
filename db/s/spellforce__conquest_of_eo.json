@@ -3,9 +3,9 @@
   "Name": "SpellForce: Conquest of Eo",
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 511,
-  "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_Completed": 378,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -573,9 +573,9 @@
       "ID": "Landmark_StormwatchFaste",
       "SetID": "7b9f97e",
       "Name": "Stormwatch Faste",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Landmark_Throne",
@@ -878,8 +878,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-16T18:09:06.1221688+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T18:56:57.4155187+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:58:02.1942176+00:00",
-  "LastUpdate_Achievements": "2023-12-16T18:09:06.1222168+00:00"
+  "LastChanged_Achievements": "2023-12-16T19:08:57.3850167+00:00",
+  "LastUpdate_AppInfo": "2023-12-16T18:57:09.2965751+00:00",
+  "LastUpdate_Ratings": "2023-12-16T18:58:11.0440148+00:00",
+  "LastUpdate_Achievements": "2023-12-16T19:08:57.3850651+00:00"
 }

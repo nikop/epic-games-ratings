@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Vrocks | 0.10% | ~207 |
 | Mind Spike | 0.10% | ~207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,099 (Ranked 66)  
-Completed: 2,536 (1.05%) (Ranked 167)  
+Progressed: 241,121 (Ranked 66)  
+Completed: 2,536 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -793,7 +793,7 @@ Completed: 2,536 (1.05%) (Ranked 167)
 | 2023-12-13 | 239,847 | 2,519 |
 | 2023-12-14 | 240,414 | 2,526 |
 | 2023-12-15 | 240,802 | 2,532 |
-| 2023-12-16 | 241,099 | 2,536 |
+| 2023-12-16 | 241,121 | 2,536 |
 ## Awards
 Max (Great for Beginners): 5,654  (Ranked 70)  
 Sum: 32,925 (Ranked 41)  

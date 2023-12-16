@@ -18,9 +18,9 @@
 | The beast within | 34.00% | ~37 |
 | It's getting dark | 34.00% | ~37 |
 | Sensitive soul | 33.00% | ~36 |
+| Rooftop | 31.00% | ~33 |
 | Hard Rock | 31.00% | ~33 |
-| Rooftop | 30.00% | ~32 |
-| Homeless | 28.00% | ~30 |
+| Homeless | 29.00% | ~31 |
 | Big badaboom! | 28.00% | ~30 |
 | Magnitude 5 | 24.00% | ~26 |
 | Bookworm | 24.00% | ~26 |
@@ -40,7 +40,7 @@
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 108 (Ranked 449)  
-Completed: 0 (0.00%) (Ranked 377)  
+Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

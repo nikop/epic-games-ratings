@@ -2,10 +2,10 @@
   "ID": "d00a1f7b44a14dddab853280118f8580",
   "Name": "100 Doors - Escape from Prison",
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
-  "Ranking_EOS_Progress": 342,
+  "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 409,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 381,
-  "EOS_Completed": 72,
+  "EOS_Completed": 73,
   "EOS_NewPlayers": 4,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 18.9,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 19.16,
   "EosHistory": [
     {
       "Time": "2023-07-27T20:02:52.2340673+00:00",
@@ -1554,6 +1554,11 @@
       "Time": "2023-12-15T20:09:37.1836271+00:00",
       "NumProgressed": 381,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-12-16T19:08:59.4606881+00:00",
+      "NumProgressed": 381,
+      "NumCompleted": 73
     }
   ],
   "AchievementsAdded": "2023-07-27T20:02:52.2356404+00:00",
@@ -1654,13 +1659,13 @@
       "ID": "5e260i9",
       "IsBase": true,
       "Progressed": 381,
-      "Completed": 72
+      "Completed": 73
     }
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-12-16T18:09:08.2464495+00:00",
+  "LastChanged_Achievements": "2023-12-16T19:08:59.4606877+00:00",
   "LastUpdate_AppInfo": "2023-12-15T09:57:06.7212667+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:58:18.7486816+00:00",
-  "LastUpdate_Achievements": "2023-12-16T18:09:08.2464693+00:00"
+  "LastUpdate_Ratings": "2023-12-16T18:58:27.002549+00:00",
+  "LastUpdate_Achievements": "2023-12-16T19:08:59.4607014+00:00"
 }

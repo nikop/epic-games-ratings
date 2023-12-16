@@ -14,7 +14,7 @@
 | Falling For You | 43.00% | ~292 |
 | Trust Me For Once | 27.00% | ~184 |
 | Lab Rat | 25.00% | ~170 |
-| Stalemate | 20.00% | ~136 |
+| Stalemate | 21.00% | ~143 |
 | Kindar Surprise | 17.00% | ~116 |
 | MVP - Most Vanishing Person | 14.00% | ~95 |
 | Deadly Secret | 13.00% | ~88 |
@@ -26,7 +26,7 @@
 | Not A People Person | 4.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 680 (Ranked 296)  
-Completed: 21 (3.09%) (Ranked 104)  
+Completed: 21 (3.09%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

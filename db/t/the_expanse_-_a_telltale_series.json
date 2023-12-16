@@ -2,13 +2,13 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 548,
+  "Ranking_Rating": 535,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2023-08-26T16:57:34.4680467+00:00",
@@ -271,13 +271,19 @@
       "Rating": 4.53,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-16T18:58:26.9677079+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16519,
+  "EOS_Progressed": 16524,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 2,
@@ -14052,6 +14058,11 @@
       "Time": "2023-12-16T18:08:31.2138456+00:00",
       "NumProgressed": 16519,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-16T19:08:23.4912658+00:00",
+      "NumProgressed": 16524,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14096,7 +14107,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "14",
@@ -14112,7 +14123,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "16",
@@ -14128,7 +14139,7 @@
       "Name": "Spore Taste",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "18",
@@ -14304,7 +14315,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "32",
@@ -14343,22 +14354,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16519,
+      "Progressed": 16524,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2473,
-      "Completed": 899
+      "Progressed": 2478,
+      "Completed": 901
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged": "2023-12-11T17:59:45.5334026+00:00",
-  "LastChanged_Achievements": "2023-12-16T18:08:31.2138453+00:00",
+  "LastChanged": "2023-12-16T18:58:26.9677078+00:00",
+  "LastChanged_Achievements": "2023-12-16T19:08:23.4912654+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-16T17:58:18.7277082+00:00",
-  "LastUpdate_Achievements": "2023-12-16T18:08:31.213913+00:00"
+  "LastUpdate_Ratings": "2023-12-16T18:58:26.9677083+00:00",
+  "LastUpdate_Achievements": "2023-12-16T19:08:23.4913561+00:00"
 }

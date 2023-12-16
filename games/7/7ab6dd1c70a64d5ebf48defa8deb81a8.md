@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 38.00% | ~227 |
+| Break Out | 39.00% | ~235 |
 | Trinity | 15.00% | ~90 |
 | A Taste of Wrath | 11.00% | ~66 |
 | Shatter Them All | 11.00% | ~66 |
@@ -20,18 +20,18 @@
 | Powerful Allies | 6.00% | ~36 |
 | Big Bazar | 6.00% | ~36 |
 | Essence Blow | 5.00% | ~30 |
-| Calm before the Storm | 4.00% | ~24 |
 | The Mentor | 4.00% | ~24 |
 | Alchemist | 4.00% | ~24 |
+| Calm before the Storm | 3.00% | ~18 |
 | To Battle | 3.00% | ~18 |
 | Godslayer | 3.00% | ~18 |
 | Airborne | 3.00% | ~18 |
 | Fine Feathers Make Fine Birds | 3.00% | ~18 |
 | Clear Sight | 2.00% | ~12 |
 | Shatterer | 2.00% | ~12 |
-| Slayer | 2.00% | ~12 |
-| All There Is | 2.00% | ~12 |
 | Miner | 2.00% | ~12 |
+| Slayer | 1.00% | ~6 |
+| All There Is | 1.00% | ~6 |
 | False God | 1.00% | ~6 |
 | A Queen's Tale | 1.00% | ~6 |
 | Summiter | 1.00% | ~6 |
@@ -41,8 +41,8 @@
 | Shardbearer | 0.70% | ~4 |
 | Feeling Fancy | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 598 (Ranked 309)  
-Completed: 3 (0.50%) (Ranked 207)  
+Progressed: 602 (Ranked 309)  
+Completed: 3 (0.50%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,4 +106,4 @@ Completed: 3 (0.50%) (Ranked 207)
 | 2023-12-13 | 282 | 3 |
 | 2023-12-14 | 376 | 3 |
 | 2023-12-15 | 486 | 3 |
-| 2023-12-16 | 598 | 3 |
+| 2023-12-16 | 602 | 3 |

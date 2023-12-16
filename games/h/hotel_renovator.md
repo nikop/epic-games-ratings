@@ -17,7 +17,7 @@ Rating: 4.39 (Ranked 759)
 | Humble beginnings | 44.00% | ~529 |
 | Love is in the air | 43.00% | ~517 |
 | Fine, I'll do it myself | 42.00% | ~505 |
-| Moving up | 41.00% | ~493 |
+| Moving up | 42.00% | ~505 |
 | No need to call anyone | 40.00% | ~481 |
 | Big fortune | 33.00% | ~397 |
 | Still more work ahead | 30.00% | ~361 |
@@ -34,7 +34,7 @@ Rating: 4.39 (Ranked 759)
 | Top spot in town | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,202 (Ranked 260)  
-Completed: 18 (1.50%) (Ranked 143)  
+Completed: 18 (1.50%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

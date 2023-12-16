@@ -1,30 +1,30 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.58 (Ranked 454)  
+Rating: 4.58 (Ranked 455)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Read Between The Lines | 63.00% | ~760 |
 | To Hell In A Handcart | 62.00% | ~748 |
-| High Profile | 54.00% | ~651 |
-| Whispers In The Dark | 51.00% | ~615 |
-| Fond Memories | 50.00% | ~603 |
+| High Profile | 54.00% | ~652 |
+| Whispers In The Dark | 51.00% | ~616 |
+| Fond Memories | 50.00% | ~604 |
 | A Method To His Madness | 47.00% | ~567 |
 | History Check | 46.00% | ~555 |
 | The New World | 44.00% | ~531 |
 | Gaze Into The Abyss | 43.00% | ~519 |
+| Open Sesame | 43.00% | ~519 |
 | Lock, Stock, And Barrel | 42.00% | ~507 |
-| Open Sesame | 42.00% | ~507 |
 | Sticky Fingers | 42.00% | ~507 |
 | Knives Out | 42.00% | ~507 |
-| Back In The Saddle | 41.00% | ~494 |
-| Land, Ho! | 41.00% | ~494 |
-| No Man Is An Island | 40.00% | ~482 |
-| At Wits' End | 39.00% | ~470 |
-| Fhtagn! | 37.00% | ~446 |
-| Bookworm | 36.00% | ~434 |
-| Up In Flames | 36.00% | ~434 |
+| Back In The Saddle | 41.00% | ~495 |
+| Land, Ho! | 41.00% | ~495 |
+| No Man Is An Island | 40.00% | ~483 |
+| At Wits' End | 39.00% | ~471 |
+| Fhtagn! | 37.00% | ~447 |
+| Bookworm | 36.00% | ~435 |
+| Up In Flames | 36.00% | ~435 |
 | Going Once... | 35.00% | ~422 |
 | Let Me Be Frank | 34.00% | ~410 |
 | No Stone Unturned | 31.00% | ~374 |
@@ -34,8 +34,8 @@ Rating: 4.58 (Ranked 454)
 | Big Breakthrough | 12.00% | ~145 |
 | Reawakened | 3.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,206 (Ranked 259)  
-Completed: 31 (2.57%) (Ranked 119)  
+Progressed: 1,207 (Ranked 259)  
+Completed: 31 (2.57%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,7 +230,7 @@ Completed: 31 (2.57%) (Ranked 119)
 | 2023-12-13 | 1,149 | 31 |
 | 2023-12-14 | 1,174 | 31 |
 | 2023-12-15 | 1,190 | 31 |
-| 2023-12-16 | 1,206 | 31 |
+| 2023-12-16 | 1,207 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

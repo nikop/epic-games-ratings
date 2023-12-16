@@ -11,10 +11,10 @@
 | It is nice to share with friends in the city | 6.00% | ~25 |
 | Sport is good for you | 6.00% | ~25 |
 | I like books | 5.00% | ~21 |
-| I like my life | 5.00% | ~21 |
-| Clean energy | 5.00% | ~21 |
 | Bucolic city | 5.00% | ~21 |
 | Soviet town | 5.00% | ~21 |
+| I like my life | 4.00% | ~17 |
+| Clean energy | 4.00% | ~17 |
 | I love books! | 2.00% | ~8 |
 | I love parks | 2.00% | ~8 |
 | Food producer | 1.00% | ~4 |
@@ -84,8 +84,8 @@
 | Rainforest master | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 422 (Ranked 337)  
-Completed: 0 (0.00%) (Ranked 377)  
+Progressed: 423 (Ranked 337)  
+Completed: 0 (0.00%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -238,7 +238,7 @@ Completed: 0 (0.00%) (Ranked 377)
 | 2023-12-13 | 413 | 0 |
 | 2023-12-14 | 419 | 0 |
 | 2023-12-15 | 421 | 0 |
-| 2023-12-16 | 422 | 0 |
+| 2023-12-16 | 423 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
