@@ -180,7 +180,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-17 | 69,136 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,603  (Ranked 127)  
-Sum: 13,433 (Ranked 78)  
+Sum: 13,436 (Ranked 78)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -190,7 +190,7 @@ Diff (max vs sum): 49
 | This game has Competitive Players | 1,556 |
 | This game is Extremely Fun | 1,553 |
 | This game is Highly Recommended | 1,541 |
-| This game has Realistic Visuals | 1,402 |
+| This game has Realistic Visuals | 1,405 |
 | This game has Amazing Storytelling | 1,332 |
 | This game has a Competitive Community | 1,264 |
 | This game has Amazing Characters | 942 |
@@ -536,4 +536,4 @@ Diff (max vs sum): 49
 | 2023-12-14 | 4.41 | - | 1,597 | 13,362 |
 | 2023-12-15 | 4.41 | - | 1,599 | 13,380 |
 | 2023-12-16 | 4.41 | - | 1,603 | 13,420 |
-| 2023-12-17 | 4.41 | - | 1,603 | 13,433 |
+| 2023-12-17 | 4.41 | - | 1,603 | 13,436 |

@@ -8,12 +8,12 @@ Number of Ratings: 45  (23.09.2022)
 | ---- | ---------- | ----- |
 | Me and My Familiar | 5.00% | ~76 |
 | The Cost of Heroism | 5.00% | ~76 |
+| Gotta Ca... Must Collect All of Them | 4.00% | ~61 |
 | Passing Shadow | 4.00% | ~61 |
 | This Too Shall Pass | 4.00% | ~61 |
 | How Romantic! | 4.00% | ~61 |
 | Cutthroat Competitors | 4.00% | ~61 |
 | Daybreak | 4.00% | ~61 |
-| Gotta Ca... Must Collect All of Them | 3.00% | ~46 |
 | A Mythic Menagerie | 2.00% | ~31 |
 | Completing the Look | 2.00% | ~31 |
 | Who's Counting? | 2.00% | ~31 |

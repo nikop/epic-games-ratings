@@ -6,29 +6,29 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 76.00% | ~1,238 |
-| Lovebirds | 48.00% | ~782 |
-| Life’s short, ride long | 43.00% | ~700 |
-| Hug therapy | 42.00% | ~684 |
-| Over my dead body | 38.00% | ~619 |
+| Balding bloot! | 76.00% | ~1,240 |
+| Lovebirds | 48.00% | ~783 |
+| Life’s short, ride long | 43.00% | ~702 |
+| Hug therapy | 42.00% | ~685 |
+| Over my dead body | 38.00% | ~620 |
 | Shake the rust off their feet | 20.00% | ~326 |
 | My little pony | 19.00% | ~310 |
-| Strike! | 18.00% | ~293 |
-| A love supreme | 18.00% | ~293 |
+| Strike! | 18.00% | ~294 |
+| A love supreme | 18.00% | ~294 |
 | In my shoes | 16.00% | ~261 |
 | Like new! | 14.00% | ~228 |
 | Heartstrings | 13.00% | ~212 |
 | Head in the clouds | 13.00% | ~212 |
-| Back to rust | 12.00% | ~195 |
-| Don't look back | 12.00% | ~195 |
-| Flower Powered | 11.00% | ~179 |
+| Back to rust | 12.00% | ~196 |
+| Don't look back | 12.00% | ~196 |
+| Flower Powered | 11.00% | ~180 |
 | Perfect timing | 9.00% | ~147 |
 | Unstoppable | 9.00% | ~147 |
-| Self-sustainability | 8.00% | ~130 |
-| Ain't no mountain high enough | 8.00% | ~130 |
-| Can't get wetter... | 5.00% | ~81 |
-| Spring cleaning | 5.00% | ~81 |
-| An eye for an eye | 5.00% | ~81 |
+| Self-sustainability | 8.00% | ~131 |
+| Ain't no mountain high enough | 8.00% | ~131 |
+| Can't get wetter... | 5.00% | ~82 |
+| Spring cleaning | 5.00% | ~82 |
+| An eye for an eye | 5.00% | ~82 |
 | Second thoughts | 4.00% | ~65 |
 | Mooning the moon | 4.00% | ~65 |
 | Strip-a-bobble | 4.00% | ~65 |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~33 |
 | À la carte | 2.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,629 (Ranked 244)  
+Progressed: 1,632 (Ranked 244)  
 Completed: 10 (0.61%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 10 (0.61%) (Ranked 195)
 | 2023-12-14 | 1,576 | 10 |
 | 2023-12-15 | 1,586 | 10 |
 | 2023-12-16 | 1,606 | 10 |
-| 2023-12-17 | 1,629 | 10 |
+| 2023-12-17 | 1,632 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,20 +6,20 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~311,777 |
-| Jeef Skeejj | 44.00% | ~207,851 |
-| Careful planning | 39.00% | ~184,232 |
-| Second Coming | 34.00% | ~160,612 |
-| Jeef Skagg | 30.00% | ~141,717 |
-| Mother | 25.00% | ~118,097 |
-| In space, no one can hear you scream | 24.00% | ~113,373 |
+| The Shutdown | 66.00% | ~311,779 |
+| Jeef Skeejj | 44.00% | ~207,853 |
+| Careful planning | 39.00% | ~184,233 |
+| Second Coming | 34.00% | ~160,614 |
+| Jeef Skagg | 30.00% | ~141,718 |
+| Mother | 25.00% | ~118,098 |
+| In space, no one can hear you scream | 24.00% | ~113,374 |
 | Chapter I: Echoes | 22.00% | ~103,926 |
 | Excelsior Rule | 22.00% | ~103,926 |
-| Things persisted in not being what they seemed | 20.00% | ~94,478 |
-| Knightmare Frames | 15.00% | ~70,858 |
-| May His passing cleanse the world | 15.00% | ~70,858 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,858 |
-| Pope Zenon | 15.00% | ~70,858 |
+| Things persisted in not being what they seemed | 20.00% | ~94,479 |
+| Knightmare Frames | 15.00% | ~70,859 |
+| May His passing cleanse the world | 15.00% | ~70,859 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,859 |
+| Pope Zenon | 15.00% | ~70,859 |
 | Plan for the worst | 12.00% | ~56,687 |
 | Tetsuo | 11.00% | ~51,963 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,239 |
@@ -28,27 +28,27 @@ Number of Ratings: 1,003  (23.09.2022)
 | General Vivar | 8.00% | ~37,791 |
 | Back to Ganyma | 8.00% | ~37,791 |
 | Kaos Rule | 8.00% | ~37,791 |
-| Admiral Okonkwo | 7.00% | ~33,067 |
-| The Survivalists | 7.00% | ~33,067 |
-| The Tech Specialist | 7.00% | ~33,067 |
-| Chapter V: Memories of None | 6.00% | ~28,343 |
-| Meet your maker | 6.00% | ~28,343 |
-| The Impersonator | 6.00% | ~28,343 |
-| The Kid | 6.00% | ~28,343 |
-| The Evangelist | 6.00% | ~28,343 |
-| The Inquisitor | 6.00% | ~28,343 |
-| The Ace Pilot | 6.00% | ~28,343 |
-| The Tech Med | 6.00% | ~28,343 |
-| The Mech Soldier | 6.00% | ~28,343 |
-| The lucky charm | 6.00% | ~28,343 |
-| The Anonymous | 6.00% | ~28,343 |
-| The Smuggler | 6.00% | ~28,343 |
-| The Crazy Repairman | 6.00% | ~28,343 |
-| The Weasel | 6.00% | ~28,343 |
-| Kill the Doctor | 5.00% | ~23,619 |
-| Forsaken | 5.00% | ~23,619 |
-| Mercy | 5.00% | ~23,619 |
-| Jericho Rule | 5.00% | ~23,619 |
+| Admiral Okonkwo | 7.00% | ~33,068 |
+| The Survivalists | 7.00% | ~33,068 |
+| The Tech Specialist | 7.00% | ~33,068 |
+| Chapter V: Memories of None | 6.00% | ~28,344 |
+| Meet your maker | 6.00% | ~28,344 |
+| The Impersonator | 6.00% | ~28,344 |
+| The Kid | 6.00% | ~28,344 |
+| The Evangelist | 6.00% | ~28,344 |
+| The Inquisitor | 6.00% | ~28,344 |
+| The Ace Pilot | 6.00% | ~28,344 |
+| The Tech Med | 6.00% | ~28,344 |
+| The Mech Soldier | 6.00% | ~28,344 |
+| The lucky charm | 6.00% | ~28,344 |
+| The Anonymous | 6.00% | ~28,344 |
+| The Smuggler | 6.00% | ~28,344 |
+| The Crazy Repairman | 6.00% | ~28,344 |
+| The Weasel | 6.00% | ~28,344 |
+| Kill the Doctor | 5.00% | ~23,620 |
+| Forsaken | 5.00% | ~23,620 |
+| Mercy | 5.00% | ~23,620 |
+| Jericho Rule | 5.00% | ~23,620 |
 | Geno Rule | 3.00% | ~14,172 |
 | Hammer Rule | 3.00% | ~14,172 |
 | Survivor | 2.00% | ~9,448 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~16 |
 | Kronos Rule | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,389 (Ranked 42)  
+Progressed: 472,393 (Ranked 42)  
 Completed: 20 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,11 +327,11 @@ Completed: 20 (0.00%) (Ranked 380)
 | 2023-12-14 | 472,254 | 20 |
 | 2023-12-15 | 472,301 | 20 |
 | 2023-12-16 | 472,356 | 20 |
-| 2023-12-17 | 472,389 | 20 |
+| 2023-12-17 | 472,393 | 20 |
 ## Awards
 Max (Character Customization): 226  (Ranked 280)  
-Sum: 250 (Ranked 386)  
-Diff (max vs sum): -106  
+Sum: 250 (Ranked 387)  
+Diff (max vs sum): -107  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 226 |

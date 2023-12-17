@@ -6,9 +6,9 @@
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 233,
-  "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -376,7 +376,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2034,
+  "EOS_Progressed": 2035,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
@@ -2916,6 +2916,11 @@
       "Time": "2023-12-15T22:05:30.867721+00:00",
       "NumProgressed": 2034,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-17T16:06:12.3205474+00:00",
+      "NumProgressed": 2035,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2951,7 +2956,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -2959,7 +2964,7 @@
       "Name": "Dog Days",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_DO_NOT_PASS_GO",
@@ -2991,7 +2996,7 @@
       "Name": "Fallen Star",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_FOR_BALANCE",
@@ -2999,7 +3004,7 @@
       "Name": "For Balance",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_FULL_HOUSE",
@@ -3047,7 +3052,7 @@
       "Name": "Here Comes Santa Claus",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_IT_ALL_DIES",
@@ -3079,7 +3084,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1201
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -3167,7 +3172,7 @@
       "Name": "Out on the Ebb Tide",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_PERKY",
@@ -3175,7 +3180,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -3199,7 +3204,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_REVENANT",
@@ -3215,7 +3220,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -3223,7 +3228,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -3239,7 +3244,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -3271,7 +3276,7 @@
       "Name": "The Philosopher\u2019s Stone",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_THIS_IS_SPARTA",
@@ -3295,7 +3300,7 @@
       "Name": "Turning the Tables",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_UNFORGIVEN",
@@ -3303,7 +3308,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1791
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3311,7 +3316,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -3335,7 +3340,7 @@
       "Name": "Winds of War",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_WORKERS_RIGHTS",
@@ -3343,22 +3348,22 @@
       "Name": "Workers\u0027 Rights",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     }
   ],
   "AchievementSets": [
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2034,
+      "Progressed": 2035,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-26T10:59:42.9428977+00:00",
-  "LastChanged_Achievements": "2023-12-17T15:06:41.2874939+00:00",
+  "LastChanged_Achievements": "2023-12-17T16:06:12.3205467+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.3075289+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:57:47.7079534+00:00",
-  "LastUpdate_Achievements": "2023-12-17T15:06:41.2875411+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:57:46.4852284+00:00",
+  "LastUpdate_Achievements": "2023-12-17T16:06:12.3205879+00:00"
 }

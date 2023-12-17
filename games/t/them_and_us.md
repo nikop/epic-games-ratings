@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 71.00% | ~231 |
-| Forced to Kill | 68.00% | ~222 |
+| Alone with Them | 72.00% | ~235 |
+| Forced to Kill | 69.00% | ~225 |
 | A Night To Remember | 41.00% | ~134 |
 | Safe...For now? | 35.00% | ~114 |
 | Open Sesame | 30.00% | ~98 |
@@ -46,7 +46,7 @@
 | Survival Horror | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 326 (Ranked 360)  
-Completed: 1 (0.31%) (Ranked 241)  
+Completed: 1 (0.31%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

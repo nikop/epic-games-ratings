@@ -6,9 +6,9 @@
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 382,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 261,
+  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 445,
+  "EOS_Progressed": 446,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -508,6 +508,11 @@
       "Time": "2023-12-16T18:04:09.6114691+00:00",
       "NumProgressed": 445,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T16:04:11.2918377+00:00",
+      "NumProgressed": 446,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -519,7 +524,7 @@
       "Name": "Strength and Sorcery",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "assemble-team2",
@@ -527,7 +532,7 @@
       "Name": "Brain and Brawn",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "assemble-team3",
@@ -567,7 +572,7 @@
       "Name": "No Mercy",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "different-items1",
@@ -575,7 +580,7 @@
       "Name": "Party",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "different-items2",
@@ -591,7 +596,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "finished-quest-cube",
@@ -599,7 +604,7 @@
       "Name": "Impossible Cube",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "finished-quest-flight",
@@ -655,7 +660,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "finished-quest-secret",
@@ -695,7 +700,7 @@
       "Name": "Last Man Standing",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "save-zombie",
@@ -743,7 +748,7 @@
       "Name": "Good start!",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "win-koth-fights1",
@@ -798,7 +803,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 445,
+      "Progressed": 446,
       "Completed": 1
     }
   ],
@@ -806,8 +811,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-17T15:04:22.1844471+00:00",
+  "LastChanged_Achievements": "2023-12-17T16:04:11.2918374+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:10.0467066+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:59:46.8282156+00:00",
-  "LastUpdate_Achievements": "2023-12-17T15:04:22.1844663+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:59:29.1337973+00:00",
+  "LastUpdate_Achievements": "2023-12-17T16:04:11.2918578+00:00"
 }

@@ -11,22 +11,22 @@
 | Dinner Dash | 41.00% | ~160 |
 | Campaign Launch | 40.00% | ~156 |
 | Need a Consult | 37.00% | ~144 |
-| It's Technical | 36.00% | ~140 |
-| Upgrade Unlock | 35.00% | ~136 |
+| It's Technical | 37.00% | ~144 |
+| Upgrade Unlock | 36.00% | ~140 |
 | Delegate Maintenance | 34.00% | ~133 |
 | Proper Walls | 31.00% | ~121 |
 | Destination Destiny | 31.00% | ~121 |
-| Happy Tenants | 25.00% | ~98 |
+| Happy Tenants | 26.00% | ~101 |
 | Potent Potables | 25.00% | ~98 |
 | Smooth Service | 25.00% | ~98 |
 | Your Prestige is Rising | 24.00% | ~94 |
 | Don't Feel a Loan | 23.00% | ~90 |
 | Retail Revenue | 23.00% | ~90 |
 | People Mover | 21.00% | ~82 |
+| Lux Living | 20.00% | ~78 |
 | Artfully Done | 20.00% | ~78 |
 | Emporium Empire | 20.00% | ~78 |
 | Leveled Up Shops | 20.00% | ~78 |
-| Lux Living | 19.00% | ~74 |
 | We Don't Need No Education | 19.00% | ~74 |
 | Get Electrified | 19.00% | ~74 |
 | Rehab Expert | 18.00% | ~70 |

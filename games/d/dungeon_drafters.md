@@ -5,24 +5,24 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Might be useful… | 37.00% | ~40 |
-| Treasure Hunting | 36.00% | ~39 |
+| Treasure Hunting | 35.00% | ~37 |
 | Shine! | 30.00% | ~32 |
 | Friend! | 29.00% | ~31 |
 | Uncut Gem | 29.00% | ~31 |
 | Clear as Water | 25.00% | ~27 |
-| Setting Off | 23.00% | ~25 |
+| Setting Off | 24.00% | ~26 |
 | Card Collector | 23.00% | ~25 |
 | Riddlesolver | 21.00% | ~22 |
 | Dungeon Mastery | 19.00% | ~20 |
 | The Steed | 9.00% | ~10 |
 | A Strange Proposition | 9.00% | ~10 |
 | Card Completionist | 8.00% | ~9 |
-| The Bodyguard | 7.00% | ~7 |
-| The Apprentice | 7.00% | ~7 |
 | Braving Miasma | 7.00% | ~7 |
-| Oracle Mastery | 7.00% | ~7 |
-| No Stone Unturned | 7.00% | ~7 |
+| The Bodyguard | 6.00% | ~6 |
+| The Apprentice | 6.00% | ~6 |
 | The Familiar | 6.00% | ~6 |
+| Oracle Mastery | 6.00% | ~6 |
+| No Stone Unturned | 6.00% | ~6 |
 | Traveler Mastery | 5.00% | ~5 |
 | Warden Mastery | 5.00% | ~5 |
 | The Plot Thickens | 5.00% | ~5 |

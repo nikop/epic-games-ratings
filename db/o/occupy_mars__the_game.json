@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1790,
+  "EOS_Progressed": 1791,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4604,6 +4604,11 @@
       "Time": "2023-12-16T13:11:36.276082+00:00",
       "NumProgressed": 1790,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T16:08:51.2778867+00:00",
+      "NumProgressed": 1791,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4807,7 +4812,7 @@
       "Name": "Gardener",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -4863,15 +4868,15 @@
       "Name": "Miner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
       "SetID": "l546gc",
       "Name": "I don\u0027t feel so good",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 752
+      "UsersEstimate": 734
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4998,7 +5003,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1790,
+      "Progressed": 1791,
       "Completed": 0
     }
   ],
@@ -5006,8 +5011,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-14T23:59:39.4991795+00:00",
-  "LastChanged_Achievements": "2023-12-17T15:08:37.9477233+00:00",
+  "LastChanged_Achievements": "2023-12-17T16:08:51.2778864+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:59.196607+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:00:18.6135742+00:00",
-  "LastUpdate_Achievements": "2023-12-17T15:08:37.947763+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:59:56.4188452+00:00",
+  "LastUpdate_Achievements": "2023-12-17T16:08:51.277929+00:00"
 }

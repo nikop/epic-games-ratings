@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 550)  
+Rating: 4.53 (Ranked 551)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,10 +22,10 @@ Number of Ratings: 90  (23.09.2022)
 | Freshly Squeezed | 11.00% | ~11 |
 | Die Nasty | 9.00% | ~9 |
 | Transmitting From Sol-3 | 7.00% | ~7 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 6.00% | ~6 |
-| Dusted | 6.00% | ~6 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 7.00% | ~7 |
+| Dusted | 7.00% | ~7 |
 | Fly Me to the Moon Base | 5.00% | ~5 |
-| Kaijuiced | 4.00% | ~4 |
+| Kaijuiced | 5.00% | ~5 |
 | Scuttled | 4.00% | ~4 |
 | Lobster Blisque | 2.00% | ~2 |
 | Deincarnated | 2.00% | ~2 |

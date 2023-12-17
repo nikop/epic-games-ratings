@@ -2,13 +2,13 @@
   "ID": "096d7313d4ae432f9327081a45db439d",
   "Name": "Titan Quest Anniversary Edition",
   "ProductSlug": "titan-quest",
-  "Ranking_Rating": 233,
+  "Ranking_Rating": 280,
   "Ranking_Popularity": 376,
-  "Ranking_PopularitySum": 388,
+  "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 534,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 535,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-12-03T18:00:00+00:00",
     "PcReleaseDate": "2016-08-31T18:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.69,
+  "Rating": 4.67,
   "NumberOfRatings": 98,
   "RatingHistory": [
     {
@@ -577,10 +577,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 246,
       "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-12-17T15:59:09.162956+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 266,
+      "NumberOfAwardsMax": 96
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 246,
+  "NumberOfAwards": 266,
   "NumberOfAwardsMax": 96,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -619,6 +625,12 @@
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 20
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -632,8 +644,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:19.7700636+00:00",
-  "LastChanged": "2023-12-16T09:58:45.7263247+00:00",
+  "LastChanged": "2023-12-17T15:59:09.1629559+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:59.3532015+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:59:23.5278138+00:00",
-  "LastUpdate_Achievements": "2023-12-17T15:05:22.9596225+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:59:09.1629563+00:00",
+  "LastUpdate_Achievements": "2023-12-17T16:05:05.5830707+00:00"
 }

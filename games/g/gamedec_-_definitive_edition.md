@@ -1,16 +1,16 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.29 (Ranked 856)  
+Rating: 4.29 (Ranked 855)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~73,920 |
-| Powergamer | 27.00% | ~68,822 |
-| Write that down | 25.00% | ~63,724 |
-| Barely scratched the surface | 25.00% | ~63,724 |
-| Guns, lots of guns | 13.00% | ~33,137 |
+| I will finish what you started | 29.00% | ~73,922 |
+| Powergamer | 27.00% | ~68,824 |
+| Write that down | 25.00% | ~63,726 |
+| Barely scratched the surface | 25.00% | ~63,726 |
+| Guns, lots of guns | 13.00% | ~33,138 |
 | Collector | 12.00% | ~30,588 |
 | Elementary! | 9.00% | ~22,941 |
 | Griever | 8.00% | ~20,392 |
@@ -47,8 +47,8 @@ Number of Ratings: 33  (23.09.2022)
 | Let's try another | 0.80% | ~2,039 |
 | Home run | 0.80% | ~2,039 |
 | I have the high ground | 0.70% | ~1,784 |
-| Enjoy these little moments | 0.50% | ~1,274 |
-| Who wouldn't love a troll? | 0.50% | ~1,274 |
+| Enjoy these little moments | 0.50% | ~1,275 |
+| Who wouldn't love a troll? | 0.50% | ~1,275 |
 | Irondec | 0.40% | ~1,020 |
 | LET ME OUT! | 0.40% | ~1,020 |
 | Un-bear-able | 0.40% | ~1,020 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~510 |
 | Memory 5 | 0.10% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,897 (Ranked 61)  
+Progressed: 254,904 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 7 (0.00%) (Ranked 380)
 | 2023-12-14 | 254,640 | 7 |
 | 2023-12-15 | 254,725 | 7 |
 | 2023-12-16 | 254,828 | 7 |
-| 2023-12-17 | 254,897 | 7 |
+| 2023-12-17 | 254,904 | 7 |
 ## Awards
 Max (Character Customization): 92  (Ranked 382)  
 Sum: 92 (Ranked 462)  

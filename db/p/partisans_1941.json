@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,7 +304,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1859,
+  "EOS_Progressed": 1860,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
@@ -4444,6 +4444,11 @@
       "Time": "2023-12-17T14:09:54.4111642+00:00",
       "NumProgressed": 1859,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T16:09:03.0045055+00:00",
+      "NumProgressed": 1860,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4487,7 +4492,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "Commandos",
@@ -4559,7 +4564,7 @@
       "Name": "Game Over",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "Grenadier",
@@ -4647,7 +4652,7 @@
       "Name": "Mosquito bite",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "Scout",
@@ -4694,15 +4699,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1859,
+      "Progressed": 1860,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-17T15:08:51.1571529+00:00",
+  "LastChanged_Achievements": "2023-12-17T16:09:03.0045051+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.5557319+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:02:45.9202748+00:00",
-  "LastUpdate_Achievements": "2023-12-17T15:08:51.157191+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:02:45.239586+00:00",
+  "LastUpdate_Achievements": "2023-12-17T16:09:03.0045382+00:00"
 }

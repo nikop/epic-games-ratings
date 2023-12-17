@@ -8,7 +8,7 @@
 | Remembering of the past | 35.00% | ~14 |
 | Ouch, that hurt! | 30.00% | ~12 |
 | Fight like an idiot | 25.00% | ~10 |
-| Slam-KABAM | 20.00% | ~8 |
+| Slam-KABAM | 23.00% | ~9 |
 | Repair the Mind Validation Machine | 20.00% | ~8 |
 | A heavy thinker | 18.00% | ~7 |
 | Elementary, My Dear Dusty | 13.00% | ~5 |
@@ -23,7 +23,7 @@
 | You're a-MAZE-ing! | 0.00% | ~0 |
 | Memory Completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 535)  
+Progressed: 40 (Ranked 537)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -12,8 +12,8 @@
 | Divine Retribution | 38.00% | ~16 |
 | Dispel Rumors | 36.00% | ~15 |
 | Captain Mustache | 36.00% | ~15 |
-| Final Showdown | 31.00% | ~13 |
-| The End of an Outlaw | 31.00% | ~13 |
+| Final Showdown | 33.00% | ~14 |
+| The End of an Outlaw | 33.00% | ~14 |
 | Demon Slayer | 31.00% | ~13 |
 | Steal Her Away | 31.00% | ~13 |
 | Sewer Rat | 31.00% | ~13 |
@@ -21,18 +21,18 @@
 | Fight Fire With Fire | 29.00% | ~12 |
 | Tour Guide | 26.00% | ~11 |
 | Big Eater | 24.00% | ~10 |
+| Not Today | 24.00% | ~10 |
 | Coward | 24.00% | ~10 |
-| Not Today | 21.00% | ~9 |
 | Tomb Raider | 21.00% | ~9 |
 | The Real O.G. | 19.00% | ~8 |
+| The Hero of the People | 14.00% | ~6 |
 | Talk to the Fist | 14.00% | ~6 |
-| The Hero of the People | 12.00% | ~5 |
-| Collector | 5.00% | ~2 |
-| The Legend | 5.00% | ~2 |
-| Taoist | 5.00% | ~2 |
+| Collector | 7.00% | ~3 |
+| The Legend | 7.00% | ~3 |
+| Taoist | 7.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 42 (Ranked 533)  
-Completed: 2 (4.76%) (Ranked 78)  
+Completed: 3 (7.14%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -69,7 +69,7 @@ Completed: 2 (4.76%) (Ranked 78)
 | 2023-12-13 | 37 | 2 |
 | 2023-12-14 | 38 | 2 |
 | 2023-12-16 | 40 | 2 |
-| 2023-12-17 | 42 | 2 |
+| 2023-12-17 | 42 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

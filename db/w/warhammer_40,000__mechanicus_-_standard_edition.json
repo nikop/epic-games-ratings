@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1020,7 +1020,7 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 229635,
+  "EOS_Progressed": 229638,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 0,
@@ -27385,6 +27385,11 @@
       "Time": "2023-12-17T15:09:29.1542633+00:00",
       "NumProgressed": 229635,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-17T16:09:38.0533458+00:00",
+      "NumProgressed": 229638,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -27396,7 +27401,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45927
+      "UsersEstimate": 45928
     },
     {
       "ID": "ACH_BASE_10",
@@ -27404,7 +27409,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59705
+      "UsersEstimate": 59706
     },
     {
       "ID": "ACH_BASE_11",
@@ -27420,7 +27425,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9185
+      "UsersEstimate": 9186
     },
     {
       "ID": "ACH_BASE_13",
@@ -27564,7 +27569,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9185
+      "UsersEstimate": 9186
     },
     {
       "ID": "ACH_BASE_30",
@@ -27652,7 +27657,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9185
+      "UsersEstimate": 9186
     },
     {
       "ID": "ACH_BASE_9",
@@ -27667,7 +27672,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 229635,
+      "Progressed": 229638,
       "Completed": 5
     }
   ],
@@ -27675,8 +27680,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-16T11:00:11.2544677+00:00",
-  "LastChanged_Achievements": "2023-12-17T15:09:29.1542631+00:00",
+  "LastChanged_Achievements": "2023-12-17T16:09:38.0533454+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.0870994+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:59:49.8952652+00:00",
-  "LastUpdate_Achievements": "2023-12-17T15:09:29.1544158+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:59:31.7765667+00:00",
+  "LastUpdate_Achievements": "2023-12-17T16:09:38.0534878+00:00"
 }

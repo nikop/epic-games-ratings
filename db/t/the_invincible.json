@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -2019,9 +2019,9 @@
       "ID": "AchvBattleScore",
       "SetID": "1hj060c",
       "Name": "Fierce fight",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 117
     },
     {
       "ID": "AchvBombStop",
@@ -2099,9 +2099,9 @@
       "ID": "AchvLava",
       "SetID": "1hj060c",
       "Name": "Volcanologist",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 147
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -2171,9 +2171,9 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 455
+      "UsersEstimate": 462
     },
     {
       "ID": "AchvReachCity",
@@ -2187,9 +2187,9 @@
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 235
     },
     {
       "ID": "AchvSurvivors",
@@ -2234,8 +2234,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-17T15:08:52.957326+00:00",
+  "LastChanged_Achievements": "2023-12-17T16:09:04.581936+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:56:51.4895627+00:00",
-  "LastUpdate_Achievements": "2023-12-17T15:08:52.9573497+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:56:57.7159234+00:00",
+  "LastUpdate_Achievements": "2023-12-17T16:09:04.5819629+00:00"
 }

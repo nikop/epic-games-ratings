@@ -6,9 +6,9 @@
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 181,
-  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8068,
+  "EOS_Progressed": 8071,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
@@ -9317,6 +9317,11 @@
       "Time": "2023-12-17T15:04:06.4159632+00:00",
       "NumProgressed": 8068,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-17T16:03:57.1194905+00:00",
+      "NumProgressed": 8071,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9344,7 +9349,7 @@
       "Name": "Audiophile",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -9352,7 +9357,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -9400,7 +9405,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -9408,7 +9413,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "HISTORIAN",
@@ -9432,7 +9437,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "LIBERATOR",
@@ -9440,7 +9445,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "LIVE_WIRE",
@@ -9456,7 +9461,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "SNIP_SNIP",
@@ -9495,7 +9500,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8068,
+      "Progressed": 8071,
       "Completed": 34
     }
   ],
@@ -9503,8 +9508,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-17T08:57:44.8415466+00:00",
-  "LastChanged_Achievements": "2023-12-17T15:04:06.4159628+00:00",
+  "LastChanged_Achievements": "2023-12-17T16:03:57.11949+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.5620941+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:57:05.233704+00:00",
-  "LastUpdate_Achievements": "2023-12-17T15:04:06.4160181+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:57:10.4436357+00:00",
+  "LastUpdate_Achievements": "2023-12-17T16:03:57.1195568+00:00"
 }

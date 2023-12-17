@@ -5,27 +5,27 @@ Rating: 4.56 (Ranked 498)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 10.00% | ~9,078 |
-| I've Had Enough! | 8.00% | ~7,263 |
-| Fists, Fury & a lot of Rage | 6.00% | ~5,447 |
-| Seasoned Fighter | 5.00% | ~4,539 |
-| All For One and One For All | 4.00% | ~3,631 |
-| A New Age | 3.00% | ~2,724 |
-| Home Sweet Home? | 3.00% | ~2,724 |
-| Oh Baby, A Triple | 2.00% | ~1,816 |
-| Battle Hardened | 1.00% | ~908 |
-| Master of Disguise | 1.00% | ~908 |
-| It's Mayhem! | 1.00% | ~908 |
-| Right back at'cha | 1.00% | ~908 |
-| Symbiotic | 1.00% | ~908 |
-| Double Punch! | 0.80% | ~726 |
-| Spectacular Finisher | 0.80% | ~726 |
-| Martyrdom | 0.70% | ~635 |
-| Cautious Veteran | 0.60% | ~545 |
-| Katamari | 0.50% | ~454 |
-| Ninja Reflex | 0.50% | ~454 |
-| Zero-sum Game | 0.50% | ~454 |
-| Taste Your Own Medicine | 0.40% | ~363 |
+| All Grown Up! | 10.00% | ~9,092 |
+| I've Had Enough! | 8.00% | ~7,274 |
+| Fists, Fury & a lot of Rage | 6.00% | ~5,455 |
+| Seasoned Fighter | 5.00% | ~4,546 |
+| All For One and One For All | 4.00% | ~3,637 |
+| A New Age | 3.00% | ~2,728 |
+| Home Sweet Home? | 3.00% | ~2,728 |
+| Oh Baby, A Triple | 2.00% | ~1,818 |
+| Battle Hardened | 1.00% | ~909 |
+| Master of Disguise | 1.00% | ~909 |
+| It's Mayhem! | 1.00% | ~909 |
+| Right back at'cha | 1.00% | ~909 |
+| Symbiotic | 1.00% | ~909 |
+| Double Punch! | 0.80% | ~727 |
+| Spectacular Finisher | 0.80% | ~727 |
+| Cautious Veteran | 0.70% | ~636 |
+| Martyrdom | 0.70% | ~636 |
+| Katamari | 0.50% | ~455 |
+| Ninja Reflex | 0.50% | ~455 |
+| Zero-sum Game | 0.50% | ~455 |
+| Taste Your Own Medicine | 0.40% | ~364 |
 | Eye of the Titan | 0.20% | ~182 |
 | Just Getting Warmed Up | 0.20% | ~182 |
 | This is GigaBash! | 0.20% | ~182 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 498)
 | Signature Look | 0.00% | ~0 |
 | What's Mine is Yours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,784 (Ranked 95)  
+Progressed: 90,922 (Ranked 95)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,7 +53,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 80,003 | 0 |
 | 2023-12-15 | 84,190 | 0 |
 | 2023-12-16 | 88,472 | 0 |
-| 2023-12-17 | 90,784 | 0 |
+| 2023-12-17 | 90,922 | 0 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 525)  
 Sum: 26 (Ranked 534)  

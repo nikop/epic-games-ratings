@@ -1,7 +1,7 @@
 # Supraland Six Inches Under
 [Store](https://store.epicgames.com/en-US/p/supraland-six-inches-under-dd0220)  
 [View Rawdata](../../db/s/supraland_six_inches_under.json)  
-Rating: 4.77 (Ranked 118)  
+Rating: 4.77 (Ranked 119)  
 Number of Ratings: 209  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -51,7 +51,7 @@ Number of Ratings: 209  (23.09.2022)
 | Faster | 60.00% | ~1,423 |
 | Much Magic | 58.00% | ~1,376 |
 | Chest Detector | 55.00% | ~1,305 |
-| Flames | 52.00% | ~1,233 |
+| Flames | 53.00% | ~1,257 |
 | Momentum | 46.00% | ~1,091 |
 | You're unsure if you broke the game or not | 43.00% | ~1,020 |
 | But wait... ...There's more... | 40.00% | ~949 |

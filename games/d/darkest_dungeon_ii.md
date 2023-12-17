@@ -1,19 +1,19 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 262)  
+Rating: 4.68 (Ranked 261)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 7.00% | ~204 |
+| Malpractice Assurance | 7.00% | ~206 |
 | This guy... again? | 4.00% | ~117 |
 | Lost and Found | 4.00% | ~117 |
-| This Belongs in a Museum | 3.00% | ~3,841 |
-| Overdue Notice | 3.00% | ~3,841 |
-| Escape from the Black Hole | 3.00% | ~3,841 |
-| Autodidact | 3.00% | ~3,841 |
-| Bloody Graduation | 3.00% | ~87 |
+| This Belongs in a Museum | 3.00% | ~3,842 |
+| Overdue Notice | 3.00% | ~3,842 |
+| Escape from the Black Hole | 3.00% | ~3,842 |
+| Autodidact | 3.00% | ~3,842 |
+| Bloody Graduation | 3.00% | ~88 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,561 |
 | Serenity Now! | 2.00% | ~2,561 |
 | It Rings a Bell | 2.00% | ~2,561 |
@@ -26,41 +26,41 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 2.00% | ~2,561 |
 | A Place to Lay Your Head | 2.00% | ~2,561 |
 | FNG | 2.00% | ~2,561 |
-| Ploughshares to Swords | 2.00% | ~58 |
-| Friends 'Til the End | 2.00% | ~58 |
-| Resurrection | 1.00% | ~1,280 |
-| Unleash Hell | 1.00% | ~1,280 |
-| Funny Guy | 1.00% | ~1,280 |
-| Long Live the King | 1.00% | ~1,280 |
-| Unfulfilled Desires | 1.00% | ~1,280 |
-| Predator | 1.00% | ~1,280 |
-| Dissector | 1.00% | ~1,280 |
-| Banishment | 1.00% | ~1,280 |
-| Deprogramming | 1.00% | ~1,280 |
-| Now Stay Dead | 1.00% | ~1,280 |
-| Reverse Banditry | 1.00% | ~1,280 |
-| Spelunker | 1.00% | ~1,280 |
-| Merry Time | 1.00% | ~1,280 |
-| Harvest Festival | 1.00% | ~1,280 |
-| Ramble On | 1.00% | ~1,280 |
-| A Clear Conscience | 1.00% | ~1,280 |
-| Whale | 1.00% | ~1,280 |
-| Worldly Traveller | 1.00% | ~1,280 |
-| Nope | 1.00% | ~1,280 |
-| Unshackled | 1.00% | ~1,280 |
-| Road Trip | 1.00% | ~1,280 |
-| Wyrdly Reconstructed | 0.90% | ~1,152 |
-| Boxcar Kid | 0.90% | ~1,152 |
-| When You Want Something Done Right | 0.90% | ~1,152 |
-| Utopia | 0.90% | ~1,152 |
-| Hope Rekindled | 0.80% | ~1,024 |
+| Ploughshares to Swords | 2.00% | ~59 |
+| Friends 'Til the End | 2.00% | ~59 |
+| Resurrection | 1.00% | ~1,281 |
+| Unleash Hell | 1.00% | ~1,281 |
+| Funny Guy | 1.00% | ~1,281 |
+| Long Live the King | 1.00% | ~1,281 |
+| Wyrdly Reconstructed | 1.00% | ~1,281 |
+| Unfulfilled Desires | 1.00% | ~1,281 |
+| Predator | 1.00% | ~1,281 |
+| Dissector | 1.00% | ~1,281 |
+| Banishment | 1.00% | ~1,281 |
+| Deprogramming | 1.00% | ~1,281 |
+| Now Stay Dead | 1.00% | ~1,281 |
+| Reverse Banditry | 1.00% | ~1,281 |
+| Spelunker | 1.00% | ~1,281 |
+| Merry Time | 1.00% | ~1,281 |
+| Harvest Festival | 1.00% | ~1,281 |
+| Ramble On | 1.00% | ~1,281 |
+| A Clear Conscience | 1.00% | ~1,281 |
+| Whale | 1.00% | ~1,281 |
+| Worldly Traveller | 1.00% | ~1,281 |
+| Nope | 1.00% | ~1,281 |
+| Unshackled | 1.00% | ~1,281 |
+| Road Trip | 1.00% | ~1,281 |
+| Boxcar Kid | 0.90% | ~1,153 |
+| When You Want Something Done Right | 0.90% | ~1,153 |
+| Utopia | 0.90% | ~1,153 |
+| Hope Rekindled | 0.80% | ~1,025 |
 | Ichthyophobic | 0.70% | ~896 |
 | No More Mouths to Feed | 0.70% | ~896 |
-| Slap on the Wrist | 0.70% | ~20 |
+| Slap on the Wrist | 0.70% | ~21 |
 | This Looks Familiar | 0.60% | ~768 |
 | Hot Air | 0.60% | ~768 |
 | Eyes Up | 0.60% | ~768 |
-| For Old Time' Sake | 0.60% | ~17 |
+| For Old Time' Sake | 0.60% | ~18 |
 | Handled | 0.50% | ~640 |
 | Et Tu, Riposte? | 0.50% | ~15 |
 | Shrine of Reflection | 0.40% | ~512 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,047 (Ranked 85)  
+Progressed: 128,067 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 3 (0.00%) (Ranked 380)
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
-| 2023-12-17 | 128,047 | 3 |
+| 2023-12-17 | 128,067 | 3 |
 ## Awards
 Max (Character Customization): 7,763  (Ranked 50)  
 Sum: 20,652 (Ranked 58)  

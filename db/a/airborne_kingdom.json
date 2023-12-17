@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7625,
+  "EOS_Progressed": 7626,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6298,6 +6298,11 @@
       "Time": "2023-12-17T15:06:25.8989817+00:00",
       "NumProgressed": 7625,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-17T16:05:58.2714798+00:00",
+      "NumProgressed": 7626,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -6317,7 +6322,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -6325,7 +6330,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3126
+      "UsersEstimate": 3127
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -6333,7 +6338,7 @@
       "Name": "Glowing Waters",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "AK_GROVE_REPLANTED",
@@ -6341,7 +6346,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4041
+      "UsersEstimate": 4042
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -6445,7 +6450,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3126
+      "UsersEstimate": 3127
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -6453,7 +6458,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3126
+      "UsersEstimate": 3127
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -6461,7 +6466,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4270
+      "UsersEstimate": 4271
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6469,7 +6474,7 @@
       "Name": "Sparkling Alloys",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "AK_TAKES_VILLAGE",
@@ -6477,7 +6482,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2592
+      "UsersEstimate": 2593
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -6493,7 +6498,7 @@
       "Name": "A True Challenge",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "AK_WANDERERS_GUIDE",
@@ -6524,15 +6529,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7625,
+      "Progressed": 7626,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-12-17T15:06:25.8989814+00:00",
+  "LastChanged_Achievements": "2023-12-17T16:05:58.2714795+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:12.2358899+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:03:07.5904952+00:00",
-  "LastUpdate_Achievements": "2023-12-17T15:06:25.8990238+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:03:04.4820005+00:00",
+  "LastUpdate_Achievements": "2023-12-17T16:05:58.2715204+00:00"
 }

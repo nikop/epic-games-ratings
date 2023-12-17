@@ -5,19 +5,19 @@ Rating: 4.17 (Ranked 951)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~876 |
-| Battlefields Have Memories | 79.00% | ~796 |
-| Enlisted | 73.00% | ~735 |
-| Maybe Engage a Little | 66.00% | ~665 |
-| No More Names | 47.00% | ~473 |
-| Initiate | 31.00% | ~312 |
-| Thrada-Kul | 27.00% | ~272 |
-| Socialite | 21.00% | ~211 |
-| Gravity-Challenged Rocks | 21.00% | ~211 |
-| Soldier | 17.00% | ~171 |
-| All the Major Food Groups | 17.00% | ~171 |
-| Beggars Would Ride | 15.00% | ~151 |
-| Control is an Illusion | 14.00% | ~141 |
+| Unforeseen | 87.00% | ~880 |
+| Battlefields Have Memories | 79.00% | ~799 |
+| Enlisted | 73.00% | ~739 |
+| Maybe Engage a Little | 67.00% | ~678 |
+| No More Names | 47.00% | ~476 |
+| Initiate | 32.00% | ~324 |
+| Thrada-Kul | 27.00% | ~273 |
+| Socialite | 21.00% | ~213 |
+| Gravity-Challenged Rocks | 21.00% | ~213 |
+| Soldier | 17.00% | ~172 |
+| All the Major Food Groups | 17.00% | ~172 |
+| Beggars Would Ride | 15.00% | ~152 |
+| Control is an Illusion | 14.00% | ~142 |
 | The Means to Save It | 11.00% | ~111 |
 | Resilience to Sin | 10.00% | ~101 |
 | A Familiar Nest | 10.00% | ~101 |
@@ -25,10 +25,10 @@ Rating: 4.17 (Ranked 951)
 | Periapt Alizarin | 9.00% | ~91 |
 | A Perfect Cycle | 8.00% | ~81 |
 | Recruit | 8.00% | ~81 |
-| Armsman | 7.00% | ~70 |
-| Lights Army | 5.00% | ~50 |
-| Periapt Cerulean | 5.00% | ~50 |
-| Good Boy | 5.00% | ~50 |
+| Armsman | 7.00% | ~71 |
+| Lights Army | 5.00% | ~51 |
+| Periapt Cerulean | 5.00% | ~51 |
+| Good Boy | 5.00% | ~51 |
 | Periapt Viridian | 4.00% | ~40 |
 | Kitted Out | 3.00% | ~30 |
 | Best Dressed | 3.00% | ~30 |
@@ -53,7 +53,7 @@ Rating: 4.17 (Ranked 951)
 | Out of Time | 0.20% | ~2 |
 | Fowl Play | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,007 (Ranked 275)  
+Progressed: 1,012 (Ranked 275)  
 Completed: 2 (0.20%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 2 (0.20%) (Ranked 267)
 | 2023-12-14 | 532 | 2 |
 | 2023-12-15 | 689 | 2 |
 | 2023-12-16 | 908 | 2 |
-| 2023-12-17 | 1,007 | 2 |
+| 2023-12-17 | 1,012 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,27 +5,27 @@ Rating: 4.51 (Ranked 578)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~173,944 |
-| FIRST BLOOD | 40.00% | ~154,617 |
-| KEVIN! | 30.00% | ~115,963 |
-| JACK OF ALL TRADES | 23.00% | ~88,905 |
-| CRIMINAL | 20.00% | ~77,308 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~42,520 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~34,789 |
-| HONORS STUDENT | 8.00% | ~30,923 |
-| BUTCHER | 6.00% | ~23,193 |
-| INDIVIDUAL APPROACH | 5.00% | ~19,327 |
-| RAMBO | 5.00% | ~19,327 |
-| HELL'S KITCHEN | 4.00% | ~15,462 |
-| CELEBRITY | 3.00% | ~11,596 |
-| MARTYR | 3.00% | ~11,596 |
+| MASTER CHEF | 45.00% | ~173,956 |
+| FIRST BLOOD | 40.00% | ~154,628 |
+| KEVIN! | 30.00% | ~115,971 |
+| JACK OF ALL TRADES | 23.00% | ~88,911 |
+| CRIMINAL | 20.00% | ~77,314 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~42,523 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~34,791 |
+| HONORS STUDENT | 8.00% | ~30,926 |
+| BUTCHER | 6.00% | ~23,194 |
+| INDIVIDUAL APPROACH | 5.00% | ~19,328 |
+| RAMBO | 5.00% | ~19,328 |
+| HELL'S KITCHEN | 4.00% | ~15,463 |
+| CELEBRITY | 3.00% | ~11,597 |
+| MARTYR | 3.00% | ~11,597 |
 | GRATITUDE | 2.00% | ~7,731 |
 | PATTY-KILLER | 2.00% | ~7,731 |
-| EXPERIMENTALIST | 1.00% | ~3,865 |
-| GOURMET | 1.00% | ~3,865 |
-| LAW-ABIDING CITIZEN | 1.00% | ~3,865 |
-| PRUDENT | 1.00% | ~3,865 |
-| SCATTERBRAIN | 0.80% | ~3,092 |
+| EXPERIMENTALIST | 1.00% | ~3,866 |
+| GOURMET | 1.00% | ~3,866 |
+| LAW-ABIDING CITIZEN | 1.00% | ~3,866 |
+| PRUDENT | 1.00% | ~3,866 |
+| SCATTERBRAIN | 0.80% | ~3,093 |
 | HIGH TECHNOLOGIES | 0.70% | ~2,706 |
 | TASTE UNTASTY | 0.50% | ~1,933 |
 | DEBTOR | 0.20% | ~773 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 578)
 | MISTER ALL THUMBS | 0.10% | ~387 |
 | TRAVELER | 0.10% | ~387 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386,542 (Ranked 47)  
+Progressed: 386,570 (Ranked 47)  
 Completed: 49 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 49 (0.01%) (Ranked 356)
 | 2023-12-14 | 385,056 | 49 |
 | 2023-12-15 | 385,559 | 49 |
 | 2023-12-16 | 386,180 | 49 |
-| 2023-12-17 | 386,542 | 49 |
+| 2023-12-17 | 386,570 | 49 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

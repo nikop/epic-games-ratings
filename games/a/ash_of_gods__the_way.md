@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 97.00% | ~37 |
-| Suicide squad | 58.00% | ~22 |
-| First blood | 37.00% | ~14 |
-| Train hard, fight easy | 34.00% | ~13 |
-| Under cover | 34.00% | ~13 |
-| All for one! | 29.00% | ~11 |
-| Royal blessing | 29.00% | ~11 |
-| A hidden snake | 29.00% | ~11 |
-| Blood and sand | 29.00% | ~11 |
-| Vene, vidi, vici | 24.00% | ~9 |
+| First success | 95.00% | ~37 |
+| Suicide squad | 56.00% | ~22 |
+| First blood | 36.00% | ~14 |
+| Train hard, fight easy | 33.00% | ~13 |
+| Under cover | 33.00% | ~13 |
+| All for one! | 28.00% | ~11 |
+| Royal blessing | 28.00% | ~11 |
+| A hidden snake | 28.00% | ~11 |
+| Blood and sand | 28.00% | ~11 |
+| Vene, vidi, vici | 23.00% | ~9 |
 | Crimson rivers | 21.00% | ~8 |
 | Power of Inquisition | 21.00% | ~8 |
 | Surpass the teacher | 21.00% | ~8 |
@@ -21,15 +21,15 @@
 | She-Wolf | 21.00% | ~8 |
 | Berkanan Borgia | 18.00% | ~7 |
 | Trial by cold | 18.00% | ~7 |
-| The champion of the arena | 16.00% | ~6 |
+| The champion of the arena | 15.00% | ~6 |
 | Stronger than Gellian steel | 13.00% | ~5 |
 | Rage | 13.00% | ~5 |
 | Protect the Healer! | 13.00% | ~5 |
-| For the greater good | 11.00% | ~4 |
-| Collector | 11.00% | ~4 |
-| Overplay the rogue | 11.00% | ~4 |
-| Punish the Punisher | 11.00% | ~4 |
-| The End | 11.00% | ~4 |
+| For the greater good | 10.00% | ~4 |
+| Collector | 10.00% | ~4 |
+| Overplay the rogue | 10.00% | ~4 |
+| Punish the Punisher | 10.00% | ~4 |
+| The End | 10.00% | ~4 |
 | The best apprentice | 8.00% | ~3 |
 | First among Frisians | 8.00% | ~3 |
 | Defeat the bear | 8.00% | ~3 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 543)  
+Progressed: 39 (Ranked 541)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-11-27 | 35 | 0 |
 | 2023-11-28 | 36 | 0 |
 | 2023-12-15 | 37 | 0 |
-| 2023-12-17 | 38 | 0 |
+| 2023-12-17 | 39 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

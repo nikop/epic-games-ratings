@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Enough rooms to swing a cat | 86.00% | ~48 |
-| Home Sweet Home | 86.00% | ~48 |
-| First to the post | 84.00% | ~47 |
-| A kind of Magic | 80.00% | ~45 |
-| Connected | 73.00% | ~41 |
-| Expansion | 70.00% | ~39 |
-| Harvest Time | 66.00% | ~37 |
-| Mine! | 63.00% | ~35 |
-| Artificer's Apprentice | 61.00% | ~34 |
-| Fly the friendly Sky | 50.00% | ~28 |
-| Necromancer's Apprentice | 48.00% | ~27 |
-| Get out of here! | 48.00% | ~27 |
-| The Circle | 43.00% | ~24 |
-| Alchemist's Apprentice | 41.00% | ~23 |
-| Friend of Lyraine | 41.00% | ~23 |
-| Redecorating | 36.00% | ~20 |
-| Bad JuJu | 27.00% | ~15 |
+| Enough rooms to swing a cat | 86.00% | ~49 |
+| Home Sweet Home | 86.00% | ~49 |
+| First to the post | 82.00% | ~47 |
+| A kind of Magic | 81.00% | ~46 |
+| Connected | 74.00% | ~42 |
+| Expansion | 70.00% | ~40 |
+| Harvest Time | 65.00% | ~37 |
+| Mine! | 61.00% | ~35 |
+| Artificer's Apprentice | 60.00% | ~34 |
+| Fly the friendly Sky | 49.00% | ~28 |
+| Necromancer's Apprentice | 47.00% | ~27 |
+| Get out of here! | 47.00% | ~27 |
+| The Circle | 42.00% | ~24 |
+| Alchemist's Apprentice | 42.00% | ~24 |
+| Friend of Lyraine | 42.00% | ~24 |
+| Redecorating | 35.00% | ~20 |
+| Bad JuJu | 26.00% | ~15 |
 | Friend of Sevenkeeps | 25.00% | ~14 |
 | Slave to the rhythm | 23.00% | ~13 |
-| Castle Meldec | 20.00% | ~11 |
-| Sevenkeeps Seat of Kings | 20.00% | ~11 |
+| Castle Meldec | 19.00% | ~11 |
+| Sevenkeeps Seat of Kings | 19.00% | ~11 |
 | Friend of Alluvyan | 16.00% | ~9 |
 | Friend of Gillyshire | 16.00% | ~9 |
 | Friend of Connach | 16.00% | ~9 |
@@ -32,7 +32,7 @@
 | Stormwatch Faste | 14.00% | ~8 |
 | Friend of Bastion | 14.00% | ~8 |
 | Break Free | 14.00% | ~8 |
-| Friend of Orgash | 13.00% | ~7 |
+| Friend of Orgash | 12.00% | ~7 |
 | Defeat Gor | 11.00% | ~6 |
 | The Forge of Regan Gor | 11.00% | ~6 |
 | Friend of Silver Drift Hollow | 11.00% | ~6 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56 (Ranked 511)  
+Progressed: 57 (Ranked 511)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 47 | 0 |
 | 2023-12-15 | 51 | 0 |
 | 2023-12-16 | 54 | 0 |
-| 2023-12-17 | 56 | 0 |
+| 2023-12-17 | 57 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

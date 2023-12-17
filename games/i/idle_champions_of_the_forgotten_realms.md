@@ -8,7 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | Welcome to Sigil | 0.70% | ~1,454 |
 | A Brief Tour of the Realms | 0.50% | ~1,207 |
-| Fast Food | 0.50% | ~1,038 |
+| Fast Food | 0.50% | ~1,039 |
 | Misaligned in Sigil | 0.30% | ~623 |
 | Chaos Theory | 0.30% | ~623 |
 | The Overgrown Grove | 0.30% | ~623 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Arcane Suppression | 0.10% | ~208 |
 | Welcome to the Vrocks | 0.10% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,415 (Ranked 65)  
-Completed: 2,537 (1.05%) (Ranked 169)  
+Progressed: 241,437 (Ranked 65)  
+Completed: 2,537 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -794,10 +794,10 @@ Completed: 2,537 (1.05%) (Ranked 169)
 | 2023-12-14 | 240,414 | 2,526 |
 | 2023-12-15 | 240,802 | 2,532 |
 | 2023-12-16 | 241,195 | 2,536 |
-| 2023-12-17 | 241,415 | 2,537 |
+| 2023-12-17 | 241,437 | 2,537 |
 ## Awards
 Max (Great for Beginners): 5,654  (Ranked 70)  
-Sum: 32,928 (Ranked 41)  
+Sum: 32,931 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -806,7 +806,7 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 4,846 |
 | This game is Relaxing | 4,731 |
 | This game has Amazing Characters | 4,261 |
-| This game is Highly Recommended | 4,251 |
+| This game is Highly Recommended | 4,254 |
 | This game has Playful Visuals | 3,578 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1136,4 +1136,4 @@ Diff (max vs sum): 29
 | 2023-12-14 | 4.06 | - | 5,635 | 32,877 |
 | 2023-12-15 | 4.06 | - | 5,645 | 32,899 |
 | 2023-12-16 | 4.06 | - | 5,654 | 32,925 |
-| 2023-12-17 | 4.06 | - | 5,654 | 32,928 |
+| 2023-12-17 | 4.06 | - | 5,654 | 32,931 |

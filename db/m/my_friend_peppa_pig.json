@@ -3,9 +3,9 @@
   "Name": "My Friend Peppa Pig",
   "ProductSlug": "my-friend-peppa-pig-2de0dc",
   "Ranking_EOS_Progress": 466,
-  "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 86,
+  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
     "PcReleaseDate": "2021-10-21T23:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92,
+  "EOS_Progressed": 93,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.35,
+  "EOS_Completed_Percentage": 4.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:28.924727+00:00",
@@ -176,6 +176,11 @@
       "Time": "2023-12-17T12:10:05.043476+00:00",
       "NumProgressed": 92,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-17T16:09:12.4664264+00:00",
+      "NumProgressed": 93,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 11,
@@ -217,7 +222,7 @@
       "ID": "3",
       "SetID": "5jd5jfm",
       "Name": "Whose tracks are these?",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 80,
       "UsersEstimate": 41
     },
@@ -225,7 +230,7 @@
       "ID": "4",
       "SetID": "5jd5jfm",
       "Name": "The Best Snowman Ever!",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 80,
       "UsersEstimate": 43
     },
@@ -241,7 +246,7 @@
       "ID": "6",
       "SetID": "5jd5jfm",
       "Name": "Rounding Up the Chickens.",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 80,
       "UsersEstimate": 42
     },
@@ -257,7 +262,7 @@
       "ID": "8",
       "SetID": "5jd5jfm",
       "Name": "The View From Windy Castle.",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 80,
       "UsersEstimate": 53
     },
@@ -274,7 +279,7 @@
     {
       "ID": "5jd5jfm",
       "IsBase": true,
-      "Progressed": 92,
+      "Progressed": 93,
       "Completed": 4
     }
   ],
@@ -282,8 +287,8 @@
   "FirstSeenRating": "2023-03-31T05:57:56.0490903+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:28.9247276+00:00",
   "LastChanged": "2023-03-31T05:57:56.0490904+00:00",
-  "LastChanged_Achievements": "2023-12-17T15:09:01.1562008+00:00",
+  "LastChanged_Achievements": "2023-12-17T16:09:12.4664261+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:28.145083+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:57:42.9638109+00:00",
-  "LastUpdate_Achievements": "2023-12-17T15:09:01.1562089+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:57:42.2088875+00:00",
+  "LastUpdate_Achievements": "2023-12-17T16:09:12.4664339+00:00"
 }

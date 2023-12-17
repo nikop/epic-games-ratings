@@ -5,19 +5,19 @@ Rating: 4.60 (Ranked 423)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 94.00% | ~82 |
-| Map reader | 76.00% | ~66 |
-| Philanthropist | 70.00% | ~61 |
-| Adventurer | 67.00% | ~58 |
-| The brave little tailor | 52.00% | ~45 |
-| Archer | 52.00% | ~45 |
-| Field hand | 46.00% | ~40 |
-| Samaritan | 44.00% | ~38 |
+| Beginner | 94.00% | ~83 |
+| Map reader | 75.00% | ~66 |
+| Philanthropist | 69.00% | ~61 |
+| Adventurer | 66.00% | ~58 |
+| The brave little tailor | 51.00% | ~45 |
+| Archer | 51.00% | ~45 |
+| Field hand | 45.00% | ~40 |
+| Samaritan | 43.00% | ~38 |
 | Well-to-do | 41.00% | ~36 |
 | The merciful one | 40.00% | ~35 |
 | Ladies' man | 39.00% | ~34 |
 | Ferocious wild boars | 30.00% | ~26 |
-| Idiot | 28.00% | ~24 |
+| Idiot | 27.00% | ~24 |
 | Beast slayer | 25.00% | ~22 |
 | Family man | 24.00% | ~21 |
 | The fourth triplet | 24.00% | ~21 |
@@ -28,17 +28,17 @@ Rating: 4.60 (Ranked 423)
 | Little hero | 22.00% | ~19 |
 | Hard worker | 22.00% | ~19 |
 | Sidelined | 22.00% | ~19 |
-| Pandora's box | 20.00% | ~17 |
-| Ghost hunter | 20.00% | ~17 |
-| Fence | 20.00% | ~17 |
-| Master detective | 20.00% | ~17 |
+| Pandora's box | 19.00% | ~17 |
+| Ghost hunter | 19.00% | ~17 |
+| Fence | 19.00% | ~17 |
+| Master detective | 19.00% | ~17 |
 | Peacekeeper | 18.00% | ~16 |
 | Defender | 16.00% | ~14 |
 | Showdown | 15.00% | ~13 |
 | Workaholic | 15.00% | ~13 |
 | Safecracker | 14.00% | ~12 |
 | Master thief | 14.00% | ~12 |
-| Freedom fighter | 11.00% | ~10 |
+| Freedom fighter | 13.00% | ~11 |
 | Titan Lord | 11.00% | ~10 |
 | King of the handymen | 11.00% | ~10 |
 | Terror of the hens | 9.00% | ~8 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 423)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 470)  
+Progressed: 88 (Ranked 470)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,6 +105,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 75 | 0 |
 | 2023-12-15 | 81 | 0 |
 | 2023-12-16 | 87 | 0 |
+| 2023-12-17 | 88 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

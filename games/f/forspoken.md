@@ -5,10 +5,10 @@ Rating: 4.15 (Ranked 964)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,421 |
-| Unlocked Potential | 9.00% | ~3,979 |
-| Tinkerer | 7.00% | ~3,095 |
-| Knock 'Em Dead | 7.00% | ~3,095 |
+| Attachments | 10.00% | ~4,422 |
+| Unlocked Potential | 9.00% | ~3,980 |
+| Tinkerer | 7.00% | ~3,096 |
+| Knock 'Em Dead | 7.00% | ~3,096 |
 | Leapfrogger | 6.00% | ~2,653 |
 | Pilgrimage: Initiate | 6.00% | ~2,653 |
 | Hell of a Run | 6.00% | ~2,653 |
@@ -16,12 +16,12 @@ Rating: 4.15 (Ranked 964)
 | No Mercy | 5.00% | ~2,211 |
 | Explorer: Seeker | 5.00% | ~2,211 |
 | Help Me Out Here | 5.00% | ~2,211 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,768 |
-| Stuck | 4.00% | ~1,768 |
-| Outdoorsperson | 3.00% | ~1,326 |
-| The Interloper | 3.00% | ~1,326 |
-| Hop, Step, Jump | 3.00% | ~1,326 |
-| Endless Runner | 3.00% | ~1,326 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,769 |
+| Stuck | 4.00% | ~1,769 |
+| Outdoorsperson | 3.00% | ~1,327 |
+| The Interloper | 3.00% | ~1,327 |
+| Hop, Step, Jump | 3.00% | ~1,327 |
+| Endless Runner | 3.00% | ~1,327 |
 | What Must Be Done | 2.00% | ~884 |
 | Might and Main | 2.00% | ~884 |
 | Damned If You Do... | 2.00% | ~884 |
@@ -34,7 +34,7 @@ Rating: 4.15 (Ranked 964)
 | None the Wiser | 1.00% | ~442 |
 | Forspoken | 1.00% | ~442 |
 | Pilgrimage: Novice | 1.00% | ~442 |
-| Wildfire | 0.70% | ~309 |
+| Wildfire | 0.70% | ~310 |
 | Awakening | 0.60% | ~265 |
 | Explorer: Trailblazer | 0.60% | ~265 |
 | Realized Potential | 0.60% | ~265 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 964)
 | Remembrance | 0.10% | ~44 |
 | Cat Person | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,212 (Ranked 120)  
+Progressed: 44,222 (Ranked 120)  
 Completed: 3 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 3 (0.01%) (Ranked 356)
 | 2023-12-14 | 43,783 | 3 |
 | 2023-12-15 | 43,925 | 3 |
 | 2023-12-16 | 44,114 | 3 |
-| 2023-12-17 | 44,212 | 3 |
+| 2023-12-17 | 44,222 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

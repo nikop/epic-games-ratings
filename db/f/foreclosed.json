@@ -3,9 +3,9 @@
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 447,
-  "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 422,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 121,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115,
+  "EOS_Progressed": 116,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.61,
+  "EOS_Completed_Percentage": 2.59,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -264,6 +264,11 @@
       "Time": "2023-12-17T07:04:42.2385903+00:00",
       "NumProgressed": 115,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T16:04:42.6687982+00:00",
+      "NumProgressed": 116,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -299,7 +304,7 @@
       "Name": "Sapper",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "EnemyDefeat_0",
@@ -331,15 +336,15 @@
       "Name": "Breaking Through",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "FirstSkillBuy",
       "SetID": "9e3d06k",
       "Name": "A.I. Training",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 57
     },
     {
       "ID": "GunUnlock",
@@ -377,9 +382,9 @@
       "ID": "LiftEnemies_0",
       "SetID": "9e3d06k",
       "Name": "Lifter",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "LiftEnemies_1",
@@ -433,9 +438,9 @@
       "ID": "StoryEnd",
       "SetID": "9e3d06k",
       "Name": "One Click Away",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 19
     },
     {
       "ID": "TelekinesisThrow_0",
@@ -457,16 +462,16 @@
       "ID": "ThirdAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Telekinesis",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 115,
+      "Progressed": 116,
       "Completed": 3
     }
   ],
@@ -474,8 +479,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-12-17T15:04:57.1623756+00:00",
+  "LastChanged_Achievements": "2023-12-17T16:04:42.6687977+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:43.8867802+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:58:49.5026448+00:00",
-  "LastUpdate_Achievements": "2023-12-17T15:04:57.1623904+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:58:39.9319393+00:00",
+  "LastUpdate_Achievements": "2023-12-17T16:04:42.6688144+00:00"
 }

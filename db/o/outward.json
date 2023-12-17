@@ -4,11 +4,11 @@
   "ProductSlug": "outward",
   "Ranking_Rating": 516,
   "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 388,
+  "Ranking_PopularitySum": 389,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3965,
+  "EOS_Progressed": 3966,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6296,6 +6296,11 @@
       "Time": "2023-12-17T14:04:53.2567969+00:00",
       "NumProgressed": 3965,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-17T16:03:54.8249268+00:00",
+      "NumProgressed": 3966,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6307,7 +6312,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "AceDetective_9",
@@ -6331,7 +6336,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "BloodAndJustice_50",
@@ -6363,7 +6368,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "Eureka_23",
@@ -6379,7 +6384,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "ForAllAurai_8",
@@ -6411,7 +6416,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "HouseofCards_19",
@@ -6491,7 +6496,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 2022
+      "UsersEstimate": 2023
     },
     {
       "ID": "ReadyforWinter_42",
@@ -6515,7 +6520,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -6579,7 +6584,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "TheStuffOfLegends",
@@ -6627,7 +6632,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2934
+      "UsersEstimate": 2935
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6642,15 +6647,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3965,
+      "Progressed": 3966,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-17T15:04:03.8695866+00:00",
+  "LastChanged_Achievements": "2023-12-17T16:03:54.8249264+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:02:44.6675282+00:00",
-  "LastUpdate_Achievements": "2023-12-17T15:04:03.8696492+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:02:44.1271928+00:00",
+  "LastUpdate_Achievements": "2023-12-17T16:03:54.8249798+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 533,
-  "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 377,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 58,
+  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -31,10 +31,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 42,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 8,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.76,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 7.14,
   "EosHistory": [
     {
       "Time": "2023-09-28T09:07:03.7102413+00:00",
@@ -255,6 +255,11 @@
       "Time": "2023-12-17T08:05:54.8695953+00:00",
       "NumProgressed": 42,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T16:05:55.2611274+00:00",
+      "NumProgressed": 42,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-28T03:06:31.4397832+00:00",
@@ -289,9 +294,9 @@
       "ID": "BeatBossShimada",
       "SetID": "123m9l1",
       "Name": "Final Showdown",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "BeatBossTing",
@@ -329,9 +334,9 @@
       "ID": "Collector",
       "SetID": "123m9l1",
       "Name": "Collector",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ExpressTrainExplorer",
@@ -353,9 +358,9 @@
       "ID": "FinishTheGame",
       "SetID": "123m9l1",
       "Name": "The End of an Outlaw",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "FinishTutorialStage",
@@ -369,17 +374,17 @@
       "ID": "HardcorePlayer",
       "SetID": "123m9l1",
       "Name": "The Hero of the People",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Legendary",
       "SetID": "123m9l1",
       "Name": "The Legend",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 110,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MightySword",
@@ -401,9 +406,9 @@
       "ID": "OmamoriExpert",
       "SetID": "123m9l1",
       "Name": "Taoist",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "RescueAKuai",
@@ -433,9 +438,9 @@
       "ID": "Survivor",
       "SetID": "123m9l1",
       "Name": "Not Today",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TeachGushanALesson",
@@ -475,15 +480,15 @@
       "ID": "123m9l1",
       "IsBase": true,
       "Progressed": 42,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:21:28.7680549+00:00",
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-12-17T15:06:22.3550422+00:00",
+  "LastChanged_Achievements": "2023-12-17T16:05:55.2611271+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:41.0518809+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:57:00.7455724+00:00",
-  "LastUpdate_Achievements": "2023-12-17T15:06:22.3550575+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:57:06.5455144+00:00",
+  "LastUpdate_Achievements": "2023-12-17T16:05:55.2611428+00:00"
 }

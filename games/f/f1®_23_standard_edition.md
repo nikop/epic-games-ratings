@@ -5,57 +5,57 @@ Rating: 4.69 (Ranked 233)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~7,594 |
-| On the Top Step | 83.00% | ~6,926 |
-| Setting up for Success | 71.00% | ~5,925 |
-| Team Orders | 70.00% | ~5,842 |
-| Engineer | 49.00% | ~4,089 |
-| Familiar Faces | 45.00% | ~3,755 |
-| Going the Extra Mile | 38.00% | ~3,171 |
-| Sharing the Love | 37.00% | ~3,088 |
-| Hitting a Season | 32.00% | ~2,670 |
-| A Dozen Pieces | 28.00% | ~2,337 |
-| Challenge Yourself | 27.00% | ~2,253 |
-| Making History | 27.00% | ~2,253 |
-| Network Success | 24.00% | ~2,003 |
-| Spring Cleaning | 21.00% | ~1,752 |
-| Writing a new Chapter | 21.00% | ~1,752 |
-| Crucial Combo | 17.00% | ~1,419 |
-| Reduce | 17.00% | ~1,419 |
-| Ups and Downs | 17.00% | ~1,419 |
-| Reuse | 14.00% | ~1,168 |
-| Proving Them Wrong | 14.00% | ~1,168 |
-| Gathering Dust | 13.00% | ~1,085 |
-| Hitting a Bullseye | 13.00% | ~1,085 |
-| One for the Book | 13.00% | ~1,085 |
-| Oil and Water | 12.00% | ~1,001 |
-| Lightning Round the World | 12.00% | ~1,001 |
-| Eagle Eye | 11.00% | ~918 |
-| All in a Weekend's Work | 11.00% | ~918 |
-| Switcheroo | 11.00% | ~918 |
-| Spinning Around | 11.00% | ~918 |
-| Friendly Competition | 10.00% | ~834 |
-| Recycle | 9.00% | ~751 |
-| Undisputed Winner | 8.00% | ~668 |
-| Tinkerer | 8.00% | ~668 |
-| For all Those Back at the Factory | 6.00% | ~501 |
-| Smooth Operator | 6.00% | ~501 |
-| Living up to Expectations | 5.00% | ~417 |
-| Loyal Bond | 4.00% | ~334 |
-| Peak Performance | 4.00% | ~334 |
-| Seasoned Rookie | 3.00% | ~250 |
-| Hitting a Century | 3.00% | ~250 |
-| Wait, I know you? | 2.00% | ~167 |
-| Filling in the Gaps | 2.00% | ~167 |
-| Saturday Night Drama | 1.00% | ~83 |
-| Media Darling | 1.00% | ~83 |
+| Getting on the Step | 91.00% | ~7,624 |
+| On the Top Step | 83.00% | ~6,954 |
+| Setting up for Success | 71.00% | ~5,948 |
+| Team Orders | 70.00% | ~5,865 |
+| Engineer | 49.00% | ~4,105 |
+| Familiar Faces | 45.00% | ~3,770 |
+| Going the Extra Mile | 38.00% | ~3,184 |
+| Sharing the Love | 37.00% | ~3,100 |
+| Hitting a Season | 32.00% | ~2,681 |
+| A Dozen Pieces | 28.00% | ~2,346 |
+| Challenge Yourself | 27.00% | ~2,262 |
+| Making History | 27.00% | ~2,262 |
+| Network Success | 24.00% | ~2,011 |
+| Spring Cleaning | 21.00% | ~1,759 |
+| Writing a new Chapter | 21.00% | ~1,759 |
+| Crucial Combo | 17.00% | ~1,424 |
+| Reduce | 17.00% | ~1,424 |
+| Ups and Downs | 17.00% | ~1,424 |
+| Reuse | 14.00% | ~1,173 |
+| Proving Them Wrong | 14.00% | ~1,173 |
+| Gathering Dust | 13.00% | ~1,089 |
+| Hitting a Bullseye | 13.00% | ~1,089 |
+| One for the Book | 13.00% | ~1,089 |
+| Oil and Water | 12.00% | ~1,005 |
+| Lightning Round the World | 12.00% | ~1,005 |
+| Eagle Eye | 11.00% | ~922 |
+| All in a Weekend's Work | 11.00% | ~922 |
+| Switcheroo | 11.00% | ~922 |
+| Spinning Around | 11.00% | ~922 |
+| Friendly Competition | 10.00% | ~838 |
+| Recycle | 9.00% | ~754 |
+| Undisputed Winner | 8.00% | ~670 |
+| Tinkerer | 8.00% | ~670 |
+| For all Those Back at the Factory | 6.00% | ~503 |
+| Smooth Operator | 6.00% | ~503 |
+| Living up to Expectations | 5.00% | ~419 |
+| Loyal Bond | 4.00% | ~335 |
+| Peak Performance | 4.00% | ~335 |
+| Seasoned Rookie | 3.00% | ~251 |
+| Hitting a Century | 3.00% | ~251 |
+| Wait, I know you? | 2.00% | ~168 |
+| Filling in the Gaps | 2.00% | ~168 |
+| Saturday Night Drama | 1.00% | ~84 |
+| Media Darling | 1.00% | ~84 |
 | Under the Microscope | 0.80% | ~67 |
 | Ultimate Collector | 0.50% | ~42 |
 | Golden Touch | 0.30% | ~25 |
 | Shot in the Dark | 0.10% | ~8 |
 | Elite Racer | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,345 (Ranked 179)  
+Progressed: 8,378 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 6,647 | 0 |
 | 2023-12-15 | 7,252 | 0 |
 | 2023-12-16 | 7,967 | 0 |
-| 2023-12-17 | 8,345 | 0 |
+| 2023-12-17 | 8,378 | 0 |
 ## Awards
 Max (Diverse Characters): 43  (Ranked 460)  
 Sum: 243 (Ranked 392)  

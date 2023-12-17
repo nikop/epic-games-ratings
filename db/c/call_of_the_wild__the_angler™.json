@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -961,9 +961,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7109,
+  "EOS_Progressed": 7115,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11386,6 +11386,11 @@
       "Time": "2023-12-17T15:05:15.6669164+00:00",
       "NumProgressed": 7109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T16:04:59.0407497+00:00",
+      "NumProgressed": 7115,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11419,9 +11424,9 @@
       "ID": "ACHIEVEMENT_004",
       "SetID": "1a05lfd",
       "Name": "Ready to Rod and Roll",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 356
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -11716,13 +11721,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7109,
+      "Progressed": 7115,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6481,
+      "Progressed": 6487,
       "Completed": 113
     }
   ],
@@ -11730,8 +11735,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-15T01:46:12.7842715+00:00",
-  "LastChanged_Achievements": "2023-12-17T15:05:15.6669162+00:00",
+  "LastChanged_Achievements": "2023-12-17T16:04:59.0407495+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:58:45.7151288+00:00",
-  "LastUpdate_Achievements": "2023-12-17T15:05:15.6669995+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:58:36.7122614+00:00",
+  "LastUpdate_Achievements": "2023-12-17T16:04:59.0408239+00:00"
 }

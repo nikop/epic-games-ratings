@@ -35,13 +35,13 @@
 | Trouble at Fort Larius | 4.00% | ~9 |
 | Unseen Patterns | 4.00% | ~9 |
 | Bounty Hunter | 3.00% | ~7 |
+| Huntress Unbound | 3.00% | ~7 |
 | Xevarian Gambit | 3.00% | ~7 |
 | A Terrible Will | 3.00% | ~7 |
 | Life... Finds a Way | 3.00% | ~7 |
 | Insectoid Propagator | 3.00% | ~7 |
 | Supercargo | 2.00% | ~4 |
 | Talent Nurtured | 2.00% | ~4 |
-| Huntress Unbound | 2.00% | ~4 |
 | Business As Usual | 2.00% | ~4 |
 | Legacy of a Mercenary | 2.00% | ~4 |
 | Delayed | 2.00% | ~4 |

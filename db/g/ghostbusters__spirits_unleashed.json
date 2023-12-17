@@ -6,9 +6,9 @@
   "Ranking_Popularity": 251,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 127,
-  "Ranking_EOS_Completed": 262,
+  "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3771,9 +3771,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32364,
+  "EOS_Progressed": 32368,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -22616,6 +22616,11 @@
       "Time": "2023-12-17T15:04:07.8960441+00:00",
       "NumProgressed": 32364,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-17T16:03:58.6152826+00:00",
+      "NumProgressed": 32368,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -22627,7 +22632,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2265
+      "UsersEstimate": 2266
     },
     {
       "ID": "Animated",
@@ -22931,7 +22936,7 @@
       "Name": "Stylish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3236
+      "UsersEstimate": 3237
     },
     {
       "ID": "Summoner",
@@ -23034,7 +23039,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32364,
+      "Progressed": 32368,
       "Completed": 69
     }
   ],
@@ -23042,8 +23047,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-17T05:57:38.4660594+00:00",
-  "LastChanged_Achievements": "2023-12-17T15:04:07.8960438+00:00",
+  "LastChanged_Achievements": "2023-12-17T16:03:58.6152821+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.1146147+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:57:37.768428+00:00",
-  "LastUpdate_Achievements": "2023-12-17T15:04:07.8961458+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:57:37.8438577+00:00",
+  "LastUpdate_Achievements": "2023-12-17T16:03:58.6153948+00:00"
 }

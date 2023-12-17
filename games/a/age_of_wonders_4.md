@@ -10,11 +10,11 @@ Rating: 4.62 (Ranked 370)
 | A Wonderful Discovery | 5.00% | ~289 |
 | Walls Cannot Stop Us | 5.00% | ~289 |
 | But this one is mine | 5.00% | ~289 |
+| Bone Peddler | 4.00% | ~231 |
 | From Friends to Family | 4.00% | ~231 |
 | Valley of Wonders | 3.00% | ~174 |
 | There Can Only Be One! | 3.00% | ~174 |
 | Full Ascension | 3.00% | ~174 |
-| Bone Peddler | 3.00% | ~174 |
 | Stronger Together | 3.00% | ~174 |
 | Magical Synergy | 3.00% | ~174 |
 | Seat of Power | 3.00% | ~174 |

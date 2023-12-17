@@ -2,13 +2,13 @@
   "ID": "a17cc66c3a3c4d75875febf281c73fd2",
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
-  "Ranking_Rating": 262,
+  "Ranking_Rating": 261,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 801,
+  "EOS_Progressed": 802,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2421,6 +2421,11 @@
       "Time": "2023-12-17T15:09:30.7309841+00:00",
       "NumProgressed": 801,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T16:09:39.572942+00:00",
+      "NumProgressed": 802,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2687,7 +2692,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 801,
+      "Progressed": 802,
       "Completed": 1
     }
   ],
@@ -2695,8 +2700,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-12-17T15:09:30.7309839+00:00",
+  "LastChanged_Achievements": "2023-12-17T16:09:39.5729415+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.6567295+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:59:57.1748021+00:00",
-  "LastUpdate_Achievements": "2023-12-17T15:09:30.7310112+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:59:37.4653686+00:00",
+  "LastUpdate_Achievements": "2023-12-17T16:09:39.5729725+00:00"
 }

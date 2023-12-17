@@ -6,35 +6,35 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,790 |
-| Self-Improvement | 71.00% | ~1,444 |
-| Perky | 65.00% | ~1,322 |
-| Let’s Ride | 59.00% | ~1,200 |
-| Welcome to the Weird West | 56.00% | ~1,139 |
+| Unforgiven | 88.00% | ~1,791 |
+| Self-Improvement | 71.00% | ~1,445 |
+| Perky | 65.00% | ~1,323 |
+| Let’s Ride | 59.00% | ~1,201 |
+| Welcome to the Weird West | 56.00% | ~1,140 |
 | Dead or Alive | 55.00% | ~1,119 |
 | Full House | 37.00% | ~753 |
 | Off the Trail | 34.00% | ~692 |
 | Justice Served | 30.00% | ~610 |
 | Chain Reaction | 27.00% | ~549 |
 | Through Their Eyes | 26.00% | ~529 |
-| Dishonored | 25.00% | ~508 |
-| Rain of Death | 25.00% | ~508 |
-| Scholar | 25.00% | ~508 |
+| Dishonored | 25.00% | ~509 |
+| Rain of Death | 25.00% | ~509 |
+| Scholar | 25.00% | ~509 |
 | The Great Escape | 23.00% | ~468 |
-| That’s All, Folks | 19.00% | ~386 |
-| Fallen Star | 16.00% | ~325 |
-| For Balance | 16.00% | ~325 |
-| Here Comes Santa Claus | 16.00% | ~325 |
-| Winds of War | 16.00% | ~325 |
-| Dog Days | 13.00% | ~264 |
-| Out on the Ebb Tide | 13.00% | ~264 |
-| Turning the Tables | 13.00% | ~264 |
-| Workers' Rights | 13.00% | ~264 |
+| That’s All, Folks | 19.00% | ~387 |
+| Fallen Star | 16.00% | ~326 |
+| For Balance | 16.00% | ~326 |
+| Here Comes Santa Claus | 16.00% | ~326 |
+| Winds of War | 16.00% | ~326 |
+| Dog Days | 13.00% | ~265 |
+| Out on the Ebb Tide | 13.00% | ~265 |
+| Turning the Tables | 13.00% | ~265 |
+| Workers' Rights | 13.00% | ~265 |
 | Elusive Prey | 12.00% | ~244 |
 | Power Behind the Pulpit | 12.00% | ~244 |
 | Something Wicked This Way Comes… | 12.00% | ~244 |
 | There is Hope | 12.00% | ~244 |
-| The Philosopher’s Stone | 10.00% | ~203 |
+| The Philosopher’s Stone | 10.00% | ~204 |
 | Loyalty to the Pack | 9.00% | ~183 |
 | Eternity Can Wait | 9.00% | ~183 |
 | Mystery Machine | 9.00% | ~183 |
@@ -60,8 +60,8 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~10 |
 | Winter Has Come | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,034 (Ranked 233)  
-Completed: 7 (0.34%) (Ranked 235)  
+Progressed: 2,035 (Ranked 233)  
+Completed: 7 (0.34%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -241,6 +241,7 @@ Completed: 7 (0.34%) (Ranked 235)
 | 2023-12-12 | 2,028 | 7 |
 | 2023-12-13 | 2,029 | 7 |
 | 2023-12-15 | 2,034 | 7 |
+| 2023-12-17 | 2,035 | 7 |
 ## Awards
 Max (Impact the Story): 29  (Ranked 506)  
 Sum: 29 (Ranked 523)  

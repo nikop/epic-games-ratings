@@ -6,7 +6,7 @@
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 147,
-  "Ranking_EOS_Completed": 262,
+  "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 3744,
   "Store": {
@@ -3479,9 +3479,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18494,
+  "EOS_Progressed": 18501,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16074,6 +16074,11 @@
       "Time": "2023-12-17T15:04:55.8253529+00:00",
       "NumProgressed": 18494,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-17T16:04:41.5046315+00:00",
+      "NumProgressed": 18501,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16086,7 +16091,7 @@
       "Name": "Serving Ale",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "AllFood",
@@ -16102,7 +16107,7 @@
       "Name": "Paradise",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "AllServices",
@@ -16110,7 +16115,7 @@
       "Name": "Higher Needs",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "BeaverUtopia",
@@ -16118,7 +16123,7 @@
       "Name": "Beaver Utopia",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "HarpyUtopia",
@@ -16126,7 +16131,7 @@
       "Name": "Harpy Utopia",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "HumanUtopia",
@@ -16134,7 +16139,7 @@
       "Name": "Human Utopia",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "LizardUtopia",
@@ -16142,7 +16147,7 @@
       "Name": "Lizard Utopia",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ManyEvents",
@@ -16230,7 +16235,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "WinNearDangerous",
@@ -16254,7 +16259,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "WinNearForbidden",
@@ -16262,7 +16267,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "WinNearHaunted",
@@ -16270,7 +16275,7 @@
       "Name": "Haunted Forest",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "WinNearLevitating",
@@ -16286,7 +16291,7 @@
       "Name": "Flooded Mines",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "WinNearMonastery",
@@ -16324,9 +16329,9 @@
       "ID": "WinNearTemple",
       "SetID": "cfbk359",
       "Name": "Forsaken Gods Temple",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 93
     },
     {
       "ID": "WinNearTorrent",
@@ -16334,7 +16339,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "WinNearWatchtower",
@@ -16358,7 +16363,7 @@
       "Name": "Cursed Lands",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "WinOnMarshlands",
@@ -16390,7 +16395,7 @@
       "Name": "The Queen\u0027s Chosen",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "WinVeryHard",
@@ -16406,7 +16411,7 @@
       "Name": "Treasure",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "WinWithBlight",
@@ -16430,7 +16435,7 @@
       "Name": "Victory Through Prosperity",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "WinWithRuins",
@@ -16438,7 +16443,7 @@
       "Name": "Ruins",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "WinWithTimedOrders",
@@ -16478,7 +16483,7 @@
       "Name": "Into the Forest",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "WinNearAbandoned",
@@ -16557,15 +16562,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18494,
+      "Progressed": 18501,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-17T13:58:09.0475523+00:00",
-  "LastChanged_Achievements": "2023-12-17T15:04:55.8253525+00:00",
+  "LastChanged_Achievements": "2023-12-17T16:04:41.5046303+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:57:36.9548896+00:00",
-  "LastUpdate_Achievements": "2023-12-17T15:04:55.8254331+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:57:37.2388126+00:00",
+  "LastUpdate_Achievements": "2023-12-17T16:04:41.5047241+00:00"
 }
