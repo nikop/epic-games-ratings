@@ -6,33 +6,33 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,942 |
-| keep it tidy | 78.00% | ~8,078 |
-| podium | 72.00% | ~7,456 |
-| medium attack | 60.00% | ~6,214 |
-| brail | 57.00% | ~5,903 |
-| good drivers have dead flies on the side windows | 44.00% | ~4,557 |
-| grocery-getter | 40.00% | ~4,142 |
-| rwd only | 27.00% | ~2,796 |
-| food tour: pasta | 27.00% | ~2,796 |
-| to finish first, first you must finish | 22.00% | ~2,278 |
-| autopilot | 22.00% | ~2,278 |
-| you can't treat a car like a human being. a car requires love | 22.00% | ~2,278 |
-| turbo | 20.00% | ~2,071 |
-| food tour: pretzel | 20.00% | ~2,071 |
+| light attack | 96.00% | ~9,944 |
+| keep it tidy | 78.00% | ~8,079 |
+| podium | 72.00% | ~7,458 |
+| medium attack | 60.00% | ~6,215 |
+| brail | 57.00% | ~5,904 |
+| good drivers have dead flies on the side windows | 44.00% | ~4,558 |
+| grocery-getter | 40.00% | ~4,143 |
+| rwd only | 27.00% | ~2,797 |
+| food tour: pasta | 27.00% | ~2,797 |
+| to finish first, first you must finish | 22.00% | ~2,279 |
+| autopilot | 22.00% | ~2,279 |
+| you can't treat a car like a human being. a car requires love | 22.00% | ~2,279 |
+| turbo | 20.00% | ~2,072 |
+| food tour: pretzel | 20.00% | ~2,072 |
 | car wash | 16.00% | ~1,657 |
-| bicycle race | 15.00% | ~1,553 |
-| the artist | 15.00% | ~1,553 |
+| bicycle race | 15.00% | ~1,554 |
+| the artist | 15.00% | ~1,554 |
 | perkele | 14.00% | ~1,450 |
 | monster | 14.00% | ~1,450 |
 | night ride | 14.00% | ~1,450 |
 | snorkel | 14.00% | ~1,450 |
-| where is the stage? | 13.00% | ~1,346 |
+| where is the stage? | 13.00% | ~1,347 |
 | maximum attack | 11.00% | ~1,139 |
 | espresso | 10.00% | ~1,036 |
 | parallel universe | 10.00% | ~1,036 |
-| mittens | 8.00% | ~828 |
-| samir | 8.00% | ~828 |
+| mittens | 8.00% | ~829 |
+| samir | 8.00% | ~829 |
 | eurobeat | 7.00% | ~725 |
 | viking | 7.00% | ~725 |
 | master of rally | 7.00% | ~725 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.40% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,356 (Ranked 168)  
+Progressed: 10,358 (Ranked 168)  
 Completed: 10 (0.10%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 10 (0.10%) (Ranked 297)
 | 2023-12-14 | 10,345 | 10 |
 | 2023-12-15 | 10,352 | 10 |
 | 2023-12-16 | 10,355 | 10 |
-| 2023-12-17 | 10,356 | 10 |
+| 2023-12-17 | 10,358 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

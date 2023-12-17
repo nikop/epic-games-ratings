@@ -6,7 +6,7 @@
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 78,
-  "Ranking_EOS_Completed": 263,
+  "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
@@ -1669,10 +1669,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 162953,
-  "EOS_Completed": 335,
-  "EOS_NewPlayers": 1032,
-  "EOS_NewCompleters": 60,
+  "EOS_Progressed": 162957,
+  "EOS_Completed": 336,
+  "EOS_NewPlayers": 1029,
+  "EOS_NewCompleters": 61,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
     {
@@ -19504,6 +19504,11 @@
       "Time": "2023-12-17T06:04:10.9577942+00:00",
       "NumProgressed": 162953,
       "NumCompleted": 335
+    },
+    {
+      "Time": "2023-12-17T07:04:10.9785231+00:00",
+      "NumProgressed": 162957,
+      "NumCompleted": 336
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -19778,9 +19783,9 @@
       "ID": "MISC_REACHHIGHLEVEL",
       "SetID": "ccc0dlh",
       "Name": "Sharpened Vessel",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 489
+      "UsersEstimate": 652
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -19883,21 +19888,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 162536,
+      "Progressed": 162540,
       "Completed": 1239
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 162953,
-      "Completed": 335
+      "Progressed": 162957,
+      "Completed": 336
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-15T19:00:09.2990933+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:04:10.9577939+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:04:10.9785229+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.4801204+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:57:36.8032041+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:04:10.9579354+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:57:36.600168+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:04:10.9786334+00:00"
 }

@@ -7,17 +7,17 @@ Number of Ratings: 266  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Venture Outward | 75.00% | ~2,962 |
-| Ready for Winter | 64.00% | ~2,527 |
+| Ready for Winter | 64.00% | ~2,528 |
 | Ready for Summer | 51.00% | ~2,014 |
 | Cordon Bleu | 43.00% | ~1,698 |
-| Tapped! | 37.00% | ~1,461 |
+| Tapped! | 37.00% | ~1,462 |
 | Eureka | 32.00% | ~1,264 |
 | Scourge Slayer | 26.00% | ~1,027 |
 | Science, Troglodyte! | 23.00% | ~908 |
 | Exceptional Skill | 22.00% | ~869 |
 | Home Sweet Home | 22.00% | ~869 |
 | Encyclopedic! | 19.00% | ~750 |
-| The Power of Family | 17.00% | ~671 |
+| The Power of Family | 17.00% | ~672 |
 | A Fortress Toppled! | 16.00% | ~632 |
 | Apex Predator | 16.00% | ~632 |
 | Strange amalgams | 12.00% | ~474 |
@@ -41,15 +41,15 @@ Number of Ratings: 266  (23.09.2022)
 | Perfect Defense | 2.00% | ~79 |
 | Power! To! The People! | 2.00% | ~79 |
 | Your actions define you | 2.00% | ~79 |
-| The blood is life | 1.00% | ~39 |
-| They'll Tell Stories About This | 1.00% | ~39 |
-| Vanquisher of nightmares | 1.00% | ~39 |
+| The blood is life | 1.00% | ~40 |
+| They'll Tell Stories About This | 1.00% | ~40 |
+| Vanquisher of nightmares | 1.00% | ~40 |
 | Through fire and flame. | 0.70% | ~28 |
 | Legacy of a master hunter | 0.40% | ~16 |
 | Master of Aurai | 0.40% | ~16 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,949 (Ranked 205)  
+Progressed: 3,950 (Ranked 205)  
 Completed: 5 (0.13%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 5 (0.13%) (Ranked 285)
 | 2023-12-14 | 3,790 | 4 |
 | 2023-12-15 | 3,863 | 5 |
 | 2023-12-16 | 3,940 | 5 |
-| 2023-12-17 | 3,949 | 5 |
+| 2023-12-17 | 3,950 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 483)  
 Sum: 246 (Ranked 388)  

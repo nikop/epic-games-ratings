@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1402,
+  "EOS_Progressed": 1403,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3348,6 +3348,11 @@
       "Time": "2023-12-17T05:10:22.8055895+00:00",
       "NumProgressed": 1402,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T07:09:22.7576887+00:00",
+      "NumProgressed": 1403,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3415,7 +3420,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "EXPERT_1",
@@ -3431,7 +3436,7 @@
       "Name": "Explorer",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "GHOSTBUSTER",
@@ -3447,7 +3452,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "HEAD_BURST_1",
@@ -3455,7 +3460,7 @@
       "Name": "Head Burst",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "INDY_1",
@@ -3509,9 +3514,9 @@
       "ID": "ONE_HIT_WONDER_1",
       "SetID": "bf13m8j",
       "Name": "One HIT wonder",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 491
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3615,7 +3620,7 @@
       "Name": "Traveler",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "VVE",
@@ -3646,15 +3651,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1402,
+      "Progressed": 1403,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:09:41.6957982+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:09:22.7576885+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.4071615+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:59:55.1893026+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:09:41.6958374+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:59:53.9788634+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:09:22.7577174+00:00"
 }

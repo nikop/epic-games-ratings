@@ -6,35 +6,35 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 2.00% | ~14,617 |
-| The Assault | 2.00% | ~14,617 |
-| Life is your teacher | 2.00% | ~14,617 |
-| Lightning Hands | 2.00% | ~14,617 |
-| The Hateful Pole Fighter | 1.00% | ~7,309 |
-| Stuntmaster | 1.00% | ~7,309 |
-| Street Fighting | 1.00% | ~7,309 |
-| State of constant learning | 1.00% | ~7,309 |
-| Qi Gong: Breath | 1.00% | ~7,309 |
-| Qi Gong: Essence | 1.00% | ~7,309 |
-| Old Child | 1.00% | ~7,309 |
-| Rumble in the Hangar | 1.00% | ~7,309 |
-| Diligence as a goal | 1.00% | ~402 |
-| A Lady's Blood in the Snow | 0.90% | ~6,578 |
-| Project Arena | 0.90% | ~361 |
-| Lady Wing Chun | 0.80% | ~5,847 |
-| Kill Nil | 0.80% | ~5,847 |
-| Path of the Prospect | 0.80% | ~5,847 |
-| Furious Fists | 0.70% | ~5,116 |
-| I know Kung-Fu | 0.70% | ~5,116 |
-| Take damage to save time | 0.70% | ~5,116 |
-| Scareless | 0.60% | ~4,385 |
-| Qi Gong: Mind | 0.60% | ~4,385 |
-| Kung-Fu Tussle | 0.60% | ~4,385 |
-| Fight the way you practice | 0.60% | ~241 |
-| Dance of the Praying Mantis | 0.50% | ~3,654 |
-| Bloody Sport | 0.50% | ~201 |
-| Martial Hub | 0.50% | ~201 |
-| Muk Yan Master | 0.40% | ~2,923 |
+| The Old Grandmaster | 2.00% | ~14,621 |
+| The Assault | 2.00% | ~14,621 |
+| Life is your teacher | 2.00% | ~14,621 |
+| Lightning Hands | 2.00% | ~14,621 |
+| The Hateful Pole Fighter | 1.00% | ~7,310 |
+| Stuntmaster | 1.00% | ~7,310 |
+| Street Fighting | 1.00% | ~7,310 |
+| State of constant learning | 1.00% | ~7,310 |
+| Qi Gong: Breath | 1.00% | ~7,310 |
+| Qi Gong: Essence | 1.00% | ~7,310 |
+| Old Child | 1.00% | ~7,310 |
+| Rumble in the Hangar | 1.00% | ~7,310 |
+| Diligence as a goal | 1.00% | ~403 |
+| A Lady's Blood in the Snow | 0.90% | ~6,579 |
+| Path of the Prospect | 0.90% | ~6,579 |
+| Project Arena | 0.90% | ~363 |
+| Lady Wing Chun | 0.80% | ~5,848 |
+| Kill Nil | 0.80% | ~5,848 |
+| Furious Fists | 0.70% | ~5,117 |
+| I know Kung-Fu | 0.70% | ~5,117 |
+| Take damage to save time | 0.70% | ~5,117 |
+| Scareless | 0.60% | ~4,386 |
+| Qi Gong: Mind | 0.60% | ~4,386 |
+| Kung-Fu Tussle | 0.60% | ~4,386 |
+| Fight the way you practice | 0.60% | ~242 |
+| Dance of the Praying Mantis | 0.50% | ~3,655 |
+| Bloody Sport | 0.50% | ~202 |
+| Martial Hub | 0.50% | ~202 |
+| Muk Yan Master | 0.40% | ~2,924 |
 | Tiger on Fire | 0.30% | ~2,193 |
 | Source of Flying Daggers | 0.30% | ~2,193 |
 | Iron Money | 0.30% | ~2,193 |
@@ -43,16 +43,16 @@ Number of Ratings: 9,492  (23.09.2022)
 | Detective Story | 0.30% | ~2,193 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,193 |
 | Sword Stained With Blood | 0.30% | ~2,193 |
-| The best strikes are the ones we avoid | 0.30% | ~120 |
+| The best strikes are the ones we avoid | 0.30% | ~121 |
 | Drunken Fighter | 0.20% | ~1,462 |
 | Martial Artist | 0.20% | ~1,462 |
 | Knowledge Greed | 0.20% | ~1,462 |
 | The Pit Protector | 0.20% | ~1,462 |
 | Come Snap With Me | 0.20% | ~1,462 |
-| Deadly Venom | 0.20% | ~80 |
-| A Touch of Acumen | 0.20% | ~80 |
-| Skill and an even stronger will | 0.20% | ~80 |
-| Beatmaker | 0.20% | ~80 |
+| Deadly Venom | 0.20% | ~81 |
+| A Touch of Acumen | 0.20% | ~81 |
+| Skill and an even stronger will | 0.20% | ~81 |
+| Beatmaker | 0.20% | ~81 |
 | Healing Memory | 0.10% | ~731 |
 | Master of the Phoenix Eye Fist | 0.10% | ~731 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~731 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~40 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,863 (Ranked 24)  
+Progressed: 731,030 (Ranked 24)  
 Completed: 12,954 (1.77%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 12,954 (1.77%) (Ranked 137)
 | 2023-12-14 | 722,433 | 12,953 |
 | 2023-12-15 | 726,562 | 12,953 |
 | 2023-12-16 | 730,184 | 12,954 |
-| 2023-12-17 | 730,863 | 12,954 |
+| 2023-12-17 | 731,030 | 12,954 |
 ## Awards
 Max (Great Boss Battles): 6,935  (Ranked 55)  
 Sum: 12,173 (Ranked 84)  

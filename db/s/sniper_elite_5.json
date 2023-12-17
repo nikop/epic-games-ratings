@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 685,
+  "Ranking_Rating": 684,
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 203,
@@ -643,9 +643,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4036,
+  "EOS_Progressed": 4037,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8698,6 +8698,11 @@
       "Time": "2023-12-17T05:09:09.7352772+00:00",
       "NumProgressed": 4036,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-17T07:08:29.8432519+00:00",
+      "NumProgressed": 4037,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8717,7 +8722,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -8733,7 +8738,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -8773,7 +8778,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -8837,7 +8842,7 @@
       "Name": "Skirmisher",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -8845,7 +8850,7 @@
       "Name": "Sharpshooter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -8877,7 +8882,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8925,7 +8930,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -8957,7 +8962,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -9021,7 +9026,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9077,7 +9082,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -9276,13 +9281,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3987,
+      "Progressed": 3988,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4036,
+      "Progressed": 4037,
       "Completed": 11
     }
   ],
@@ -9290,8 +9295,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:08:50.2381605+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:08:29.8432517+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:53.9169066+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:57:27.6728477+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:08:50.2382473+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:57:27.4754172+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:08:29.8433279+00:00"
 }

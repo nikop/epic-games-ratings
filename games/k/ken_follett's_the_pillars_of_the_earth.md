@@ -11,16 +11,16 @@ Number of Ratings: 368  (23.09.2022)
 | Friends of sorts | 33.00% | ~5,648 |
 | Yet another secret | 33.00% | ~5,648 |
 | Let there be darkness | 31.00% | ~5,306 |
-| End of Book One | 29.00% | ~4,963 |
+| End of Book One | 29.00% | ~4,964 |
 | Garden of Eden | 24.00% | ~4,108 |
-| Wannabe knight | 23.00% | ~3,936 |
-| Full house | 23.00% | ~3,936 |
+| Wannabe knight | 23.00% | ~3,937 |
+| Full house | 23.00% | ~3,937 |
 | Help an old friend | 21.00% | ~3,594 |
 | Two of us | 20.00% | ~3,423 |
 | Negotiation skills | 18.00% | ~3,081 |
 | Workers' union | 18.00% | ~3,081 |
 | End of Book Two | 18.00% | ~3,081 |
-| Everything's in order | 16.00% | ~2,738 |
+| Everything's in order | 16.00% | ~2,739 |
 | Twist of Fate | 14.00% | ~2,396 |
 | Jack was here! | 14.00% | ~2,396 |
 | Exterminator | 13.00% | ~2,225 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~513 |
 | Boy of mystery | 2.00% | ~342 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,115 (Ranked 151)  
+Progressed: 17,116 (Ranked 151)  
 Completed: 119 (0.70%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,15 +289,15 @@ Completed: 119 (0.70%) (Ranked 190)
 | 2023-12-14 | 17,039 | 119 |
 | 2023-12-15 | 17,058 | 119 |
 | 2023-12-16 | 17,109 | 119 |
-| 2023-12-17 | 17,115 | 119 |
+| 2023-12-17 | 17,116 | 119 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 320)  
-Sum: 199 (Ranked 406)  
+Sum: 200 (Ranked 406)  
 Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
 | This game features Easy Puzzles | 156 |
-| In this game, your choices Impact the Story | 43 |
+| In this game, your choices Impact the Story | 44 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -394,3 +394,4 @@ Diff (max vs sum): -86
 | 2023-10-26 | 4.51 | - | 154 | 197 |
 | 2023-11-05 | 4.51 | - | 155 | 198 |
 | 2023-12-13 | 4.51 | - | 156 | 199 |
+| 2023-12-17 | 4.51 | - | 156 | 200 |

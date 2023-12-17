@@ -4,7 +4,7 @@
   "ProductSlug": "the-abbey-b6fbc4",
   "Ranking_EOS_Progress": 800,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewPlayers": 529,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-10-31T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-17T01:48:28.2722488+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:58:12.5512419+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:03:30.8322442+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:58:12.1796858+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:03:19.8752181+00:00"
 }

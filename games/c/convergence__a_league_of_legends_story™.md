@@ -5,16 +5,16 @@ Rating: 4.62 (Ranked 371)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 36.00% | ~362 |
+| Time Heals All Wounds | 36.00% | ~363 |
 | Rail Rat | 28.00% | ~282 |
 | The Mysterious Stranger | 27.00% | ~272 |
-| Immaculate Aim | 23.00% | ~231 |
-| The Brass Boss | 23.00% | ~231 |
-| Make Up For Lost Time | 22.00% | ~221 |
-| Time Flies | 22.00% | ~221 |
-| No, Thanks! | 22.00% | ~221 |
-| The Prince in Heels | 22.00% | ~221 |
-| Immaculate Aim | 22.00% | ~221 |
+| Immaculate Aim | 23.00% | ~232 |
+| The Brass Boss | 23.00% | ~232 |
+| Make Up For Lost Time | 22.00% | ~222 |
+| Time Flies | 22.00% | ~222 |
+| No, Thanks! | 22.00% | ~222 |
+| The Prince in Heels | 22.00% | ~222 |
+| Immaculate Aim | 22.00% | ~222 |
 | The Steel Shadow | 21.00% | ~211 |
 | The Harder They Fall | 21.00% | ~211 |
 | Breaking Down Barriers | 21.00% | ~211 |
@@ -43,9 +43,9 @@ Rating: 4.62 (Ranked 371)
 | Cultivair Explorer | 9.00% | ~91 |
 | Factorywood Explorer | 9.00% | ~91 |
 | Fairgrounds Explorer | 9.00% | ~91 |
-| Corin Goes Home | 8.00% | ~80 |
-| Sartorialist | 8.00% | ~80 |
-| Entresol Explorer | 8.00% | ~80 |
+| Corin Goes Home | 8.00% | ~81 |
+| Sartorialist | 8.00% | ~81 |
+| Entresol Explorer | 8.00% | ~81 |
 | Golem Hunter | 6.00% | ~60 |
 | Clovemary for Remembering | 5.00% | ~50 |
 | Hexlock for Protection | 5.00% | ~50 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 371)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,006 (Ranked 273)  
+Progressed: 1,007 (Ranked 273)  
 Completed: 6 (0.60%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 6 (0.60%) (Ranked 195)
 | 2023-12-14 | 963 | 6 |
 | 2023-12-15 | 978 | 6 |
 | 2023-12-16 | 1,000 | 6 |
-| 2023-12-17 | 1,006 | 6 |
+| 2023-12-17 | 1,007 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

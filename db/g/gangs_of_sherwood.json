@@ -2,9 +2,9 @@
   "ID": "f76aab05872f4293bb5f46485cb2f16c",
   "Name": "Gangs of Sherwood",
   "ProductSlug": "gangs-of-sherwood",
-  "Ranking_EOS_Progress": 481,
+  "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -413,9 +413,9 @@
       "ID": "ACH_AIR_COMBO",
       "SetID": "5akmpni",
       "Name": "Air Fighter",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_ALL_CHALENGES",
@@ -517,9 +517,9 @@
       "ID": "ACH_ENEMY_FIRE",
       "SetID": "5akmpni",
       "Name": "Tap Dancing",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_ENEMY_LEDGE_FALL",
@@ -796,8 +796,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:04:24.5393297+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:04:25.0892099+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:38.8820495+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:02:41.7874774+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:04:24.5393828+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:00:29.4879141+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:04:25.0892472+00:00"
 }

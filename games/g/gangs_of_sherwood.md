@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Act of Kindness | 85.00% | ~68 |
-| Air Fighter | 75.00% | ~60 |
+| Air Fighter | 76.00% | ~61 |
 | Oo-De-Lally | 66.00% | ~53 |
 | The Altruist | 65.00% | ~52 |
 | Treasure Hunter | 64.00% | ~51 |
+| Tap Dancing | 51.00% | ~41 |
 | Watch your Step! | 51.00% | ~41 |
-| Tap Dancing | 50.00% | ~40 |
 | MAX LEVEL | 50.00% | ~40 |
 | Spring Board | 41.00% | ~33 |
 | Right between the eyes | 40.00% | ~32 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 481)  
+Progressed: 80 (Ranked 482)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |

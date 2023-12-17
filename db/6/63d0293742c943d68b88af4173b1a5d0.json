@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 432,
+  "EOS_Progressed": 434,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1344,6 +1344,11 @@
       "Time": "2023-12-17T06:04:37.125908+00:00",
       "NumProgressed": 432,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T07:04:37.9825715+00:00",
+      "NumProgressed": 434,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1396,7 +1401,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "9",
@@ -1420,7 +1425,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "REMAKE_004",
@@ -1428,7 +1433,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "Remake_005",
@@ -1442,9 +1447,9 @@
       "ID": "Remake_006",
       "SetID": "5pi96jj",
       "Name": "Attempted Vehicular Infanticide",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 43
     },
     {
       "ID": "Remake_007",
@@ -1500,7 +1505,7 @@
       "Name": "Toasted",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Remake_14",
@@ -1514,9 +1519,9 @@
       "ID": "Remake_15",
       "SetID": "5pi96jj",
       "Name": "Ready for the Big Leagues",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "Remake_16",
@@ -1579,14 +1584,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 432,
+      "Progressed": 434,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:04:37.1259077+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:04:37.9825711+00:00",
   "LastUpdate_AppInfo": "2023-12-11T23:56:59.5421023+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:00:20.5635467+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:04:37.1259422+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:00:19.4603886+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:04:37.9825951+00:00"
 }

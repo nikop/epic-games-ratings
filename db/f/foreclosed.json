@@ -2,9 +2,9 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
-  "Ranking_EOS_Progress": 448,
+  "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_NewPlayers": 415,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114,
+  "EOS_Progressed": 115,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.63,
+  "EOS_Completed_Percentage": 2.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -259,6 +259,11 @@
       "Time": "2023-12-16T12:05:33.0818642+00:00",
       "NumProgressed": 114,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T07:04:42.2385903+00:00",
+      "NumProgressed": 115,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -268,9 +273,9 @@
       "ID": "AllCreditorsComplete",
       "SetID": "9e3d06k",
       "Name": "Full and Final Settlement",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     },
     {
       "ID": "AutoBullets_0",
@@ -292,17 +297,17 @@
       "ID": "ClubTurretsHack",
       "SetID": "9e3d06k",
       "Name": "Sapper",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 26
     },
     {
       "ID": "EnemyDefeat_0",
       "SetID": "9e3d06k",
       "Name": "Unstoppable",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     },
     {
       "ID": "EnemyDefeat_1",
@@ -326,7 +331,7 @@
       "Name": "Breaking Through",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "FirstSkillBuy",
@@ -334,7 +339,7 @@
       "Name": "A.I. Training",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "GunUnlock",
@@ -342,13 +347,13 @@
       "Name": "Symbiotic Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Headshots_0",
       "SetID": "9e3d06k",
       "Name": "Sniper",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 25,
       "UsersEstimate": 44
     },
@@ -374,7 +379,7 @@
       "Name": "Lifter",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "LiftEnemies_1",
@@ -396,9 +401,9 @@
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "SecretEnding",
@@ -430,7 +435,7 @@
       "Name": "One Click Away",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "TelekinesisThrow_0",
@@ -461,7 +466,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 114,
+      "Progressed": 115,
       "Completed": 3
     }
   ],
@@ -469,8 +474,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:04:41.4917965+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:04:42.2385899+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:43.8867802+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:58:42.8411865+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:04:41.4918167+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:58:41.9831031+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:04:42.2386055+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -622,9 +622,9 @@
       "ID": "creepytaleach3",
       "SetID": "bnif31p",
       "Name": "Happy end",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 75,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "creepytaleach4",
@@ -685,8 +685,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:09:43.3241232+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:09:24.3903921+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.952085+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:58:31.4934154+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:09:43.3241327+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:58:31.9594307+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:09:24.3904051+00:00"
 }

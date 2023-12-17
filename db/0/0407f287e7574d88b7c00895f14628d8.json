@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -289,9 +289,9 @@
       "ID": "dl2",
       "SetID": "b1ggf28",
       "Name": "Road Planning",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "dl3",
@@ -513,9 +513,9 @@
       "ID": "m3",
       "SetID": "b1ggf28",
       "Name": "Developed Economy",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "r1",
@@ -664,8 +664,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:04:44.0056001+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:04:44.7656543+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:02:54.7397531+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:04:44.0056389+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:02:41.6994004+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:04:44.7656813+00:00"
 }

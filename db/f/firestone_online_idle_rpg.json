@@ -631,9 +631,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3479,
+  "EOS_Progressed": 3480,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10011,6 +10011,11 @@
       "Time": "2023-12-17T05:06:01.2915016+00:00",
       "NumProgressed": 3479,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T07:05:08.0610005+00:00",
+      "NumProgressed": 3480,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -10206,7 +10211,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "fourleafclover",
@@ -10478,7 +10483,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1948
+      "UsersEstimate": 1949
     },
     {
       "ID": "thealchemist",
@@ -10582,7 +10587,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3235
+      "UsersEstimate": 3236
     },
     {
       "ID": "warmachinesarmy",
@@ -10621,7 +10626,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3479,
+      "Progressed": 3480,
       "Completed": 2
     }
   ],
@@ -10629,8 +10634,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-16T17:00:21.4144264+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:05:08.5612125+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:05:08.0610003+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.7887636+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:59:43.8759438+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:05:08.5613004+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:59:41.2504637+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:05:08.0610856+00:00"
 }

@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4594,
+  "EOS_Progressed": 4606,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3257,
+  "EOS_NewPlayers": 3259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1245,6 +1245,11 @@
       "Time": "2023-12-17T06:09:23.4243956+00:00",
       "NumProgressed": 4594,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T07:09:04.0075899+00:00",
+      "NumProgressed": 4606,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1257,7 +1262,7 @@
       "Name": "Conspiracy",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 553
     },
     {
       "ID": "03_TheStolenStar",
@@ -1367,9 +1372,9 @@
       "ID": "16_TheRise",
       "SetID": "37a94m8",
       "Name": "The Rise",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 230
     },
     {
       "ID": "17_TheExemplar",
@@ -1383,9 +1388,9 @@
       "ID": "18_TheRookieSkipper",
       "SetID": "37a94m8",
       "Name": "Rookie Skipper",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 230
     },
     {
       "ID": "19_TheVoidWolf",
@@ -1431,9 +1436,9 @@
       "ID": "24_TheHighrise",
       "SetID": "37a94m8",
       "Name": "Highrise",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "25_DynastyProspers",
@@ -1776,7 +1781,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 4594,
+      "Progressed": 4606,
       "Completed": 0
     }
   ],
@@ -1784,8 +1789,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-16T18:59:01.4154357+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:09:23.4243954+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:09:04.0075897+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:59:10.159161+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:09:23.4244579+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:59:09.6345384+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:09:04.0076395+00:00"
 }

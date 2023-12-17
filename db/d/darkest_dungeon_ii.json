@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9810,9 +9810,9 @@
       "Count": 1018
     }
   ],
-  "EOS_Progressed": 127909,
+  "EOS_Progressed": 127919,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1931,
+  "EOS_NewPlayers": 1936,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35430,6 +35430,11 @@
       "Time": "2023-12-17T06:09:00.7470594+00:00",
       "NumProgressed": 127909,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T07:08:40.499532+00:00",
+      "NumProgressed": 127919,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35455,9 +35460,9 @@
       "ID": "altar_of_hope_memory_equip_first_time",
       "SetID": "64l4lke",
       "Name": "It Rings a Bell",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1279
+      "UsersEstimate": 2558
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -35537,7 +35542,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -35569,7 +35574,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3837
+      "UsersEstimate": 3838
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35793,7 +35798,7 @@
       "Name": "Autodidact",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3837
+      "UsersEstimate": 3838
     },
     {
       "ID": "hero_story_complete_all",
@@ -35839,9 +35844,9 @@
       "ID": "inn_hire_mercenary_bounty_hunter",
       "SetID": "64l4lke",
       "Name": "When You Want Something Done Right",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1151
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -35905,7 +35910,7 @@
       "Name": "Hot Air",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "run_victory_act03",
@@ -35913,7 +35918,7 @@
       "Name": "Eyes Up",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "run_victory_act04",
@@ -35977,7 +35982,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "combat_kill_collector",
@@ -35985,7 +35990,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36033,7 +36038,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "quest_complete_crusader",
@@ -36041,7 +36046,7 @@
       "Name": "Lost and Found",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36072,21 +36077,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127909,
+      "Progressed": 127919,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2778,
+      "Progressed": 2788,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-17T01:50:35.302696+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:09:00.7470592+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:08:40.4995317+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:57:47.7659233+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:09:00.7472348+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:57:47.6619185+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:08:40.4996852+00:00"
 }

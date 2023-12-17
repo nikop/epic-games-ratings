@@ -1449,9 +1449,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6445,
+  "EOS_Progressed": 6446,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14569,6 +14569,11 @@
       "Time": "2023-12-17T06:08:24.2022481+00:00",
       "NumProgressed": 6445,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T07:08:03.2293718+00:00",
+      "NumProgressed": 6446,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14604,7 +14609,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -14700,7 +14705,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -14740,7 +14745,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4769
+      "UsersEstimate": 4770
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14899,15 +14904,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6445,
+      "Progressed": 6446,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-16T18:58:39.8372052+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:08:24.2022479+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:08:03.2293716+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.7844638+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:58:49.0849442+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:08:24.2023285+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:58:48.272646+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:08:03.2294365+00:00"
 }

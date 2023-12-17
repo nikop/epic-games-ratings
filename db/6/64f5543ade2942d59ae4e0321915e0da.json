@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 130,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -649,9 +649,9 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "AC_BOSS_02",
@@ -753,9 +753,9 @@
       "ID": "AC_DEATH_ENEMIES_3",
       "SetID": "16i2akc",
       "Name": "Genocide",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 45,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -769,17 +769,17 @@
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 45,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -873,9 +873,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -912,8 +912,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:05:27.7958652+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:05:27.4819833+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:56.8907916+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:58:25.3812398+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:05:27.7958965+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:58:25.5185269+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:05:27.482013+00:00"
 }

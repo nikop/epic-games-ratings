@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.50 (Ranked 1,062)  
+Rating: 3.51 (Ranked 1,062)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,10 +14,10 @@ Rating: 3.50 (Ranked 1,062)
 | Ne Plus Ultra | 4.00% | ~76 |
 | Fly Fisher | 4.00% | ~76 |
 | Peek-a-boo | 4.00% | ~76 |
+| Sucks To Be You | 4.00% | ~76 |
 | Enter of Your Own Free Will | 3.00% | ~57 |
 | Welcome to the Neighborhood | 3.00% | ~57 |
 | Throw The First Stone | 3.00% | ~57 |
-| Sucks To Be You | 3.00% | ~57 |
 | Heart Attack | 3.00% | ~57 |
 | Neighborhood Revitalization | 2.00% | ~38 |
 | Bad Wiring | 2.00% | ~38 |
@@ -230,3 +230,4 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-11-22 | 3.45 | 0 | 0 |
 | 2023-12-10 | 3.47 | 0 | 0 |
 | 2023-12-16 | 3.50 | 0 | 0 |
+| 2023-12-17 | 3.51 | 0 | 0 |

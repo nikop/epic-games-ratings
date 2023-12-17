@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 785,
+  "EOS_Progressed": 788,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3437,6 +3437,11 @@
       "Time": "2023-12-17T05:09:40.9356578+00:00",
       "NumProgressed": 785,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T07:08:52.651689+00:00",
+      "NumProgressed": 788,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3464,7 +3469,7 @@
       "Name": "Culinary Arts",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "5OvenDishesMenu",
@@ -3504,7 +3509,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Clothes10",
@@ -3624,7 +3629,7 @@
       "Name": "The Big Day",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 504
     },
     {
       "ID": "Packing20",
@@ -3648,7 +3653,7 @@
       "Name": "Home Cook",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "RecipeDifferent30",
@@ -3704,7 +3709,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "TrattoriaSet",
@@ -3760,14 +3765,14 @@
       "Name": "Well-Stocked Kitchen",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 785,
+      "Progressed": 788,
       "Completed": 0
     }
   ],
@@ -3775,8 +3780,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:09:12.4881334+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:08:52.6516888+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:31.9021331+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:00:17.4337932+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:09:12.4881803+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:00:16.7593845+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:08:52.6517242+00:00"
 }

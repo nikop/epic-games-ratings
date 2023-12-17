@@ -3634,9 +3634,9 @@
       "ID": "GSS_ACH_41_PARTY_BUS",
       "SetID": "5fn8ia4",
       "Name": "Party Bus",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 825
+      "UsersEstimate": 838
     },
     {
       "ID": "GSS_ACH_42_CARAVAN_01",
@@ -3818,9 +3818,9 @@
       "ID": "GSS_ACH_64_POPULARITY_04",
       "SetID": "5fn8ia4",
       "Name": "Local Celebrity",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 875
+      "UsersEstimate": 888
     },
     {
       "ID": "GSS_ACH_65_POPULARITY_05",
@@ -3834,9 +3834,9 @@
       "ID": "GSS_ACH_66_POPULARITY_06",
       "SetID": "5fn8ia4",
       "Name": "Getting Famous",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 462
+      "UsersEstimate": 475
     },
     {
       "ID": "GSS_ACH_67_POPULARITY_07",
@@ -3979,8 +3979,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-15T16:57:11.4281266+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:05:03.2825383+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:05:02.6474739+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:58:14.5008202+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:05:03.2827477+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:58:14.1985883+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:05:02.6475528+00:00"
 }

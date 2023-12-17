@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 115,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -1039,8 +1039,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:04:46.2283221+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:04:47.0221812+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:55.8022632+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:57:54.7897048+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:04:46.2283568+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:57:55.7146846+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:04:47.0222111+00:00"
 }

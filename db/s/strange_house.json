@@ -2,9 +2,9 @@
   "ID": "e65306b6830641a68e3b76e5b1bc2dfd",
   "Name": "Strange House",
   "ProductSlug": "strange-house-5fd1b5",
-  "Ranking_EOS_Progress": 539,
+  "Ranking_EOS_Progress": 537,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 487,
+  "Ranking_EOS_NewPlayers": 453,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 38,
+  "EOS_Progressed": 39,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -217,6 +217,11 @@
       "Time": "2023-12-16T20:09:19.2388146+00:00",
       "NumProgressed": 38,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T07:08:29.0865365+00:00",
+      "NumProgressed": 39,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-08T22:03:43.7557522+00:00",
@@ -227,7 +232,7 @@
       "ID": "AlcoholMachine",
       "SetID": "a2ci5mh",
       "Name": "Alcoholic",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 150,
       "UsersEstimate": 6
     },
@@ -243,7 +248,7 @@
       "ID": "FoundPig",
       "SetID": "a2ci5mh",
       "Name": "Piglet",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 200,
       "UsersEstimate": 4
     },
@@ -259,7 +264,7 @@
       "ID": "Underground",
       "SetID": "a2ci5mh",
       "Name": "Underground",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 150,
       "UsersEstimate": 6
     },
@@ -276,13 +281,13 @@
     {
       "ID": "a2ci5mh",
       "IsBase": true,
-      "Progressed": 38,
+      "Progressed": 39,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:08:49.5095893+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:08:29.0865363+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.9857992+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:03:08.4721259+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:08:49.5095969+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:02:55.6758863+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:08:29.0865419+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "devils-island-03e902",
   "Ranking_EOS_Progress": 800,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewPlayers": 529,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-04T17:03:44.6686137+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:03:36.9131964+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:03:35.7905572+00:00",
   "LastUpdate_AppInfo": "2023-12-11T17:57:03.318439+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:00:08.0898676+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:03:36.9132425+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:00:07.5190749+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:03:35.7905589+00:00"
 }

@@ -5,34 +5,34 @@ Rating: 4.56 (Ranked 497)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~12,124 |
-| Pay 'n' Spray | 50.00% | ~7,484 |
-| All Dressed Up for San Fierro | 25.00% | ~3,742 |
-| The American Dream | 19.00% | ~2,844 |
-| School's Out | 18.00% | ~2,694 |
-| Smooth Moves | 17.00% | ~2,545 |
-| What happens in Las Venturas... | 15.00% | ~2,245 |
-| Today Was a Good Day | 15.00% | ~2,245 |
-| Horror of the Santa Maria | 11.00% | ~1,646 |
-| Liberty City State of Mind | 10.00% | ~1,497 |
-| The End of the Line | 8.00% | ~1,197 |
-| Original Gangster | 8.00% | ~1,197 |
+| Getting Started | 81.00% | ~12,131 |
+| Pay 'n' Spray | 50.00% | ~7,488 |
+| All Dressed Up for San Fierro | 25.00% | ~3,744 |
+| The American Dream | 19.00% | ~2,846 |
+| School's Out | 18.00% | ~2,696 |
+| Smooth Moves | 17.00% | ~2,546 |
+| What happens in Las Venturas... | 15.00% | ~2,247 |
+| Today Was a Good Day | 15.00% | ~2,247 |
+| Horror of the Santa Maria | 11.00% | ~1,647 |
+| Liberty City State of Mind | 10.00% | ~1,498 |
+| The End of the Line | 8.00% | ~1,198 |
+| Original Gangster | 8.00% | ~1,198 |
 | With Extra Dip | 7.00% | ~1,048 |
-| Saviour | 6.00% | ~898 |
-| They Can’t Stop All of Us | 5.00% | ~748 |
-| Rescue a Kitten Too? | 5.00% | ~748 |
+| Saviour | 6.00% | ~899 |
+| They Can’t Stop All of Us | 5.00% | ~749 |
+| Rescue a Kitten Too? | 5.00% | ~749 |
 | What are the Odds | 4.00% | ~599 |
 | Bike or Biker | 3.00% | ~449 |
 | What the City Needs | 3.00% | ~449 |
 | Yes I Speak English | 3.00% | ~449 |
-| A Legitimate Business | 2.00% | ~299 |
-| I’ll Have Two Number 9s | 2.00% | ~299 |
-| Who Needs Directions? | 2.00% | ~299 |
-| Swiss Army Strife | 2.00% | ~299 |
-| Double or Nothin' | 2.00% | ~299 |
-| Assassin | 2.00% | ~299 |
-| Public Enemy No. 1 | 2.00% | ~299 |
-| Ain’t Nothing But a G Thing | 2.00% | ~299 |
+| A Legitimate Business | 2.00% | ~300 |
+| I’ll Have Two Number 9s | 2.00% | ~300 |
+| Who Needs Directions? | 2.00% | ~300 |
+| Swiss Army Strife | 2.00% | ~300 |
+| Double or Nothin' | 2.00% | ~300 |
+| Assassin | 2.00% | ~300 |
+| Public Enemy No. 1 | 2.00% | ~300 |
+| Ain’t Nothing But a G Thing | 2.00% | ~300 |
 | Hoopin' it Up | 1.00% | ~150 |
 | Lucky Spinner | 1.00% | ~150 |
 | Not a Player | 1.00% | ~150 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 497)
 | ...Here we go again | 0.50% | ~75 |
 | I Ain't No Buster | 0.40% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,968 (Ranked 158)  
+Progressed: 14,977 (Ranked 158)  
 Completed: 58 (0.39%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 58 (0.39%) (Ranked 226)
 | 2023-12-14 | 14,291 | 58 |
 | 2023-12-15 | 14,573 | 58 |
 | 2023-12-16 | 14,887 | 58 |
-| 2023-12-17 | 14,968 | 58 |
+| 2023-12-17 | 14,977 | 58 |
 ## Awards
 Max (Great Boss Battles): 448  (Ranked 223)  
 Sum: 696 (Ranked 301)  

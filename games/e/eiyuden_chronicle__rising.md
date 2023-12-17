@@ -6,42 +6,42 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 86.00% | ~638 |
-| All Bark, No Bite | 76.00% | ~564 |
+| Plenty More to Go | 86.00% | ~639 |
+| All Bark, No Bite | 76.00% | ~565 |
 | Hopeful Hunter | 66.00% | ~490 |
-| Amateur Adventurer | 63.00% | ~467 |
-| The Road to Recovery | 62.00% | ~460 |
-| Partners? | 61.00% | ~453 |
+| Amateur Adventurer | 63.00% | ~468 |
+| The Road to Recovery | 62.00% | ~461 |
+| Partners? | 60.00% | ~446 |
 | Magical Mineral Golem | 54.00% | ~401 |
-| On Outlander Lane | 53.00% | ~393 |
-| First Time Fishing | 50.00% | ~371 |
+| On Outlander Lane | 53.00% | ~394 |
+| First Time Fishing | 50.00% | ~372 |
 | A Girl About the Town | 49.00% | ~364 |
-| First Time Hunting | 48.00% | ~356 |
+| First Time Hunting | 48.00% | ~357 |
 | Rune Wall Wreckage | 47.00% | ~349 |
 | ...And Your Tax Money | 45.00% | ~334 |
-| The Lords of the Snowpeak | 39.00% | ~289 |
+| The Lords of the Snowpeak | 39.00% | ~290 |
 | The Go-To Girl | 36.00% | ~267 |
 | Scavenger's Honor | 36.00% | ~267 |
 | Natural Born Monster-Killer | 36.00% | ~267 |
 | The Lava Mantor Wyrm | 35.00% | ~260 |
 | One Mean Merc | 35.00% | ~260 |
-| Money, Money, Money | 35.00% | ~260 |
 | The Great Forest...On Foot! | 35.00% | ~260 |
-| Adept, for an Acting Mayor | 34.00% | ~252 |
+| Adept, for an Acting Mayor | 34.00% | ~253 |
+| Money, Money, Money | 34.00% | ~253 |
 | Rune Wall Master | 33.00% | ~245 |
 | The Quarry...On Foot! | 30.00% | ~223 |
 | The Runebarrows...On Foot! | 28.00% | ~208 |
-| The Lava Ruins...On Foot! | 27.00% | ~200 |
+| The Lava Ruins...On Foot! | 27.00% | ~201 |
 | Meat Master | 26.00% | ~193 |
 | The Snowpeak...On Foot! | 26.00% | ~193 |
 | Fishing Master | 24.00% | ~178 |
 | Armor Master | 23.00% | ~171 |
 | The Pride of the Town | 22.00% | ~163 |
-| This Treasure I've Found | 20.00% | ~148 |
-| New Nevaeh's Number One Customer | 20.00% | ~148 |
+| This Treasure I've Found | 20.00% | ~149 |
+| New Nevaeh's Number One Customer | 20.00% | ~149 |
 | Arms Master | 19.00% | ~141 |
 | Rune Scholar | 16.00% | ~119 |
-| No Treasure Left Behind | 13.00% | ~96 |
+| No Treasure Left Behind | 13.00% | ~97 |
 | Sommelier | 12.00% | ~89 |
 | One-Hundred Resident Record | 11.00% | ~82 |
 | A Local Hero | 11.00% | ~82 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 8.00% | ~59 |
 | Rising Champion | 7.00% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 742 (Ranked 291)  
-Completed: 60 (8.09%) (Ranked 49)  
+Progressed: 743 (Ranked 291)  
+Completed: 60 (8.08%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -108,7 +108,7 @@ Completed: 60 (8.09%) (Ranked 49)
 | 2023-12-14 | 716 | 60 |
 | 2023-12-15 | 729 | 60 |
 | 2023-12-16 | 741 | 60 |
-| 2023-12-17 | 742 | 60 |
+| 2023-12-17 | 743 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

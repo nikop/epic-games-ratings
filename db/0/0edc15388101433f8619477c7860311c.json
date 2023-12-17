@@ -406,9 +406,9 @@
       "ID": "Letters",
       "SetID": "7m88n8p",
       "Name": "Conveying Love through Letters",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "LoveCrawler",
@@ -430,9 +430,9 @@
       "ID": "MortuaryMarkup",
       "SetID": "7m88n8p",
       "Name": "Mortuary Makeup Artist",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 65,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "NoOneLeft",
@@ -517,8 +517,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:04:31.8966991+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:04:32.5195325+00:00",
   "LastUpdate_AppInfo": "2023-12-11T13:04:38.7275932+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:00:10.21413+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:04:31.8967133+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:00:09.5959048+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:04:32.519546+00:00"
 }

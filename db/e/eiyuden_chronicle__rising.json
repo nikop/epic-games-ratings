@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 742,
+  "EOS_Progressed": 743,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.09,
+  "EOS_Completed_Percentage": 8.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -551,6 +551,11 @@
       "Time": "2023-12-17T05:04:35.7679677+00:00",
       "NumProgressed": 742,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-17T07:04:04.7013795+00:00",
+      "NumProgressed": 743,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -562,15 +567,15 @@
       "Name": "Plenty More to Go",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "ACHIEVEMENT002",
       "SetID": "dejhjd5",
       "Name": "Partners?",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 446
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -586,7 +591,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -602,7 +607,7 @@
       "Name": "The Lords of the Snowpeak",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACHIEVEMENT007",
@@ -618,7 +623,7 @@
       "Name": "This Treasure I\u0027ve Found",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACHIEVEMENT009",
@@ -626,7 +631,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -690,7 +695,7 @@
       "Name": "Adept, for an Acting Mayor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACHIEVEMENT018",
@@ -746,7 +751,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -762,7 +767,7 @@
       "Name": "No Treasure Left Behind",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT027",
@@ -778,7 +783,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -786,7 +791,7 @@
       "Name": "New Nevaeh\u0027s Number One Customer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACHIEVEMENT030",
@@ -824,9 +829,9 @@
       "ID": "ACHIEVEMENT034",
       "SetID": "dejhjd5",
       "Name": "Money, Money, Money",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 253
     },
     {
       "ID": "ACHIEVEMENT035",
@@ -834,7 +839,7 @@
       "Name": "First Time Fishing",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -842,7 +847,7 @@
       "Name": "First Time Hunting",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -906,7 +911,7 @@
       "Name": "The Lava Ruins...On Foot!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENT045",
@@ -961,15 +966,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 742,
+      "Progressed": 743,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:04:04.9304906+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:04:04.7013792+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:14.9591133+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:59:45.7696747+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:04:04.9305245+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:59:43.4388869+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:04:04.7014149+00:00"
 }

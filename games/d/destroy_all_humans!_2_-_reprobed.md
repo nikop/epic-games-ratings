@@ -32,9 +32,9 @@ Number of Ratings: 90  (23.09.2022)
 | Yettisoned | 2.00% | ~2 |
 | Re-Return of the Clone of the Invasion II-2 | 2.00% | ~2 |
 | Arkvoodle Doodle | 2.00% | ~2 |
+| Ultimate Smoothie | 1.00% | ~1 |
 | Arty Facts | 1.00% | ~1 |
 | Forbidden Donut | 1.00% | ~1 |
-| Ultimate Smoothie | 0.00% | ~0 |
 | PK Slam Dunk | 0.00% | ~0 |
 | Gotta Catch All the Pop Art | 0.00% | ~0 |
 | This Is Earth Radio | 0.00% | ~0 |

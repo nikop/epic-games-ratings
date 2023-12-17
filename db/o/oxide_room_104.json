@@ -2,9 +2,9 @@
   "ID": "877e0717992c4058acdb32363130958a",
   "Name": "Oxide Room 104",
   "ProductSlug": "oxide-room-104-4c1249",
-  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 264,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1209,6 +1209,11 @@
       "Time": "2023-12-16T18:05:20.0953764+00:00",
       "NumProgressed": 263,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T07:05:18.259352+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1252,7 +1257,7 @@
       "Name": "What\u0027s going on here?",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_COMMONAREA",
@@ -1316,7 +1321,7 @@
       "Name": "Brute force",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_GOODENDING",
@@ -1332,7 +1337,7 @@
       "Name": "Let\u0027s play a game\u2026",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_KITCHEN",
@@ -1356,7 +1361,7 @@
       "Name": "Soundtrack",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_NOBULLETS",
@@ -1444,7 +1449,7 @@
       "Name": "Face to face",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_THIRDFLOOR",
@@ -1460,21 +1465,21 @@
       "Name": "Now or never",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     }
   ],
   "AchievementSets": [
     {
       "ID": "511e31d",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 264,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:05:18.7666008+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:05:18.2593517+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.3257713+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:58:48.3933726+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:05:18.7666248+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:58:47.6443004+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:05:18.2593697+00:00"
 }

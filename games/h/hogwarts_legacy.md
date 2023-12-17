@@ -5,53 +5,53 @@ Rating: 4.76 (Ranked 131)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 20.00% | ~63,869 |
-| First Class Student | 17.00% | ~54,288 |
-| Troll with the Punches | 16.00% | ~51,095 |
-| A Keen Sense of Spell | 14.00% | ~44,708 |
-| A Talent for Spending | 13.00% | ~41,515 |
-| That's a Keeper | 13.00% | ~41,515 |
-| Loom for Improvement | 12.00% | ~38,321 |
-| Grappling with a Graphorn | 11.00% | ~35,128 |
-| The One Who Mastered Memories | 11.00% | ~35,128 |
-| The Hallowed Hero | 11.00% | ~35,128 |
-| The Defender of Dragons | 11.00% | ~35,128 |
-| Challenge Accepted | 11.00% | ~35,128 |
-| Coasting Along | 11.00% | ~35,128 |
-| The Hero of Hogwarts | 10.00% | ~31,934 |
-| Followed the Butterflies | 10.00% | ~31,934 |
-| Rising From the Ashes | 10.00% | ~31,934 |
-| The Spell Master | 9.00% | ~28,741 |
-| The Avenging Gazelle | 8.00% | ~25,547 |
-| Beast Friends | 8.00% | ~25,547 |
-| A Sallow Grave | 8.00% | ~25,547 |
-| Flight the Good Flight | 8.00% | ~25,547 |
-| Raising Expectations | 7.00% | ~22,354 |
-| The Seeker of Knowledge | 6.00% | ~19,161 |
-| The Root of the Problem | 6.00% | ~19,161 |
-| Third Time's a Charm | 6.00% | ~19,161 |
-| The Toast of the Town | 5.00% | ~15,967 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,967 |
-| The Ends Petrify the Means | 5.00% | ~15,967 |
-| Going Through the Potions | 4.00% | ~12,774 |
-| Room with a View | 4.00% | ~12,774 |
-| The Intrepid Explorer | 4.00% | ~12,774 |
-| The Wise Owl | 4.00% | ~12,774 |
-| Put Down Roots | 3.00% | ~9,580 |
-| The Auror's Apprentice | 3.00% | ~9,580 |
-| Floo Around the World | 3.00% | ~9,580 |
-| The Good Samaritan | 2.00% | ~6,387 |
-| Rise to the Challenges | 2.00% | ~6,387 |
-| Demiguise Dread | 2.00% | ~6,387 |
-| Finishing Touches | 2.00% | ~6,387 |
-| A Forte for Achievement | 2.00% | ~6,387 |
-| Savvy Spender | 1.00% | ~3,193 |
-| Merlin's Beard! | 1.00% | ~3,193 |
-| Spilled Milk | 0.90% | ~2,874 |
-| The Nature of the Beast | 0.70% | ~2,235 |
+| The Sort Who Makes an Entrance | 20.00% | ~63,898 |
+| First Class Student | 17.00% | ~54,314 |
+| Troll with the Punches | 16.00% | ~51,119 |
+| A Keen Sense of Spell | 14.00% | ~44,729 |
+| A Talent for Spending | 13.00% | ~41,534 |
+| That's a Keeper | 13.00% | ~41,534 |
+| Loom for Improvement | 12.00% | ~38,339 |
+| Grappling with a Graphorn | 11.00% | ~35,144 |
+| The One Who Mastered Memories | 11.00% | ~35,144 |
+| The Hallowed Hero | 11.00% | ~35,144 |
+| The Defender of Dragons | 11.00% | ~35,144 |
+| Challenge Accepted | 11.00% | ~35,144 |
+| Coasting Along | 11.00% | ~35,144 |
+| The Hero of Hogwarts | 10.00% | ~31,949 |
+| Followed the Butterflies | 10.00% | ~31,949 |
+| Rising From the Ashes | 10.00% | ~31,949 |
+| The Spell Master | 9.00% | ~28,754 |
+| The Avenging Gazelle | 8.00% | ~25,559 |
+| Beast Friends | 8.00% | ~25,559 |
+| A Sallow Grave | 8.00% | ~25,559 |
+| Flight the Good Flight | 8.00% | ~25,559 |
+| Raising Expectations | 7.00% | ~22,364 |
+| The Seeker of Knowledge | 6.00% | ~19,170 |
+| The Root of the Problem | 6.00% | ~19,170 |
+| Third Time's a Charm | 6.00% | ~19,170 |
+| The Toast of the Town | 5.00% | ~15,975 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,975 |
+| The Ends Petrify the Means | 5.00% | ~15,975 |
+| Going Through the Potions | 4.00% | ~12,780 |
+| Room with a View | 4.00% | ~12,780 |
+| The Intrepid Explorer | 4.00% | ~12,780 |
+| The Wise Owl | 4.00% | ~12,780 |
+| Put Down Roots | 3.00% | ~9,585 |
+| The Auror's Apprentice | 3.00% | ~9,585 |
+| Floo Around the World | 3.00% | ~9,585 |
+| The Good Samaritan | 2.00% | ~6,390 |
+| Rise to the Challenges | 2.00% | ~6,390 |
+| Demiguise Dread | 2.00% | ~6,390 |
+| Finishing Touches | 2.00% | ~6,390 |
+| A Forte for Achievement | 2.00% | ~6,390 |
+| Savvy Spender | 1.00% | ~3,195 |
+| Merlin's Beard! | 1.00% | ~3,195 |
+| Spilled Milk | 0.90% | ~2,875 |
+| The Nature of the Beast | 0.70% | ~2,236 |
 | Collector's Edition | 0.30% | ~958 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 319,343 (Ranked 54)  
+Progressed: 319,492 (Ranked 54)  
 Completed: 525 (0.16%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 525 (0.16%) (Ranked 277)
 | 2023-12-14 | 308,940 | 525 |
 | 2023-12-15 | 313,415 | 525 |
 | 2023-12-16 | 318,302 | 525 |
-| 2023-12-17 | 319,343 | 525 |
+| 2023-12-17 | 319,492 | 525 |
 ## Awards
 Max (Character Customization): 25,257  (Ranked 17)  
 Sum: 50,850 (Ranked 30)  

@@ -5,9 +5,9 @@
   "Ranking_Rating": 86,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
-  "Ranking_EOS_Progress": 263,
+  "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -149,9 +149,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1184,
+  "EOS_Progressed": 1185,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.7,
   "EosHistory": [
@@ -3969,6 +3969,11 @@
       "Time": "2023-12-16T22:05:38.7425414+00:00",
       "NumProgressed": 1184,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-17T07:05:59.9760595+00:00",
+      "NumProgressed": 1185,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3989,7 +3994,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "_03_FinishAct1",
@@ -3997,7 +4002,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4013,7 +4018,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4125,7 +4130,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -4188,7 +4193,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1184,
+      "Progressed": 1185,
       "Completed": 32
     }
   ],
@@ -4196,8 +4201,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:05:59.4743609+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:05:59.9760593+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:59:50.3559839+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:05:59.4743973+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:59:48.7853738+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:05:59.9760856+00:00"
 }

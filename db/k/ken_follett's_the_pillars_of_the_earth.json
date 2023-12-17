@@ -544,10 +544,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 199,
       "NumberOfAwardsMax": 156
+    },
+    {
+      "Time": "2023-12-17T06:57:28.9186119+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 200,
+      "NumberOfAwardsMax": 156
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 199,
+  "NumberOfAwards": 200,
   "NumberOfAwardsMax": 156,
   "MaxAwardTitle": "Easy Puzzles",
   "Tags": [
@@ -561,12 +567,12 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 43
+      "Count": 44
     }
   ],
-  "EOS_Progressed": 17115,
+  "EOS_Progressed": 17116,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -16289,6 +16295,11 @@
       "Time": "2023-12-17T06:08:18.4016008+00:00",
       "NumProgressed": 17115,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-17T07:07:57.3575398+00:00",
+      "NumProgressed": 17116,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16316,7 +16327,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3936
+      "UsersEstimate": 3937
     },
     {
       "ID": "tpote_achievement_12",
@@ -16364,7 +16375,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "tpote_achievement_18",
@@ -16404,7 +16415,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 4963
+      "UsersEstimate": 4964
     },
     {
       "ID": "tpote_achievement_22",
@@ -16596,7 +16607,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3936
+      "UsersEstimate": 3937
     },
     {
       "ID": "tpote_achievement_7",
@@ -16627,15 +16638,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17115,
+      "Progressed": 17116,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
-  "LastChanged": "2023-12-13T16:01:07.6767372+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:08:18.4016005+00:00",
+  "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:07:57.3575395+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:57:29.0528439+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:08:18.4017005+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:57:28.9186121+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:07:57.3576201+00:00"
 }

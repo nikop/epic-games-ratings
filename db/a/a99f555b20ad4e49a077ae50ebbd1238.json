@@ -4,7 +4,7 @@
   "ProductSlug": "zeeverse-92a34e",
   "Ranking_EOS_Progress": 800,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewPlayers": 529,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-13T14:57:06.1057156+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:58:48.2745732+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:04:39.8604772+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:58:47.5238776+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:04:40.520165+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.15 (Ranked 963)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,415 |
+| Attachments | 10.00% | ~4,416 |
 | Unlocked Potential | 9.00% | ~3,974 |
 | Tinkerer | 7.00% | ~3,091 |
 | Knock 'Em Dead | 7.00% | ~3,091 |
@@ -15,9 +15,9 @@ Rating: 4.15 (Ranked 963)
 | Call of the Fount: Baptized | 6.00% | ~2,649 |
 | No Mercy | 5.00% | ~2,208 |
 | Explorer: Seeker | 5.00% | ~2,208 |
-| Help Me Out Here | 5.00% | ~2,208 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,766 |
 | Stuck | 4.00% | ~1,766 |
+| Help Me Out Here | 4.00% | ~1,766 |
 | Outdoorsperson | 3.00% | ~1,325 |
 | The Interloper | 3.00% | ~1,325 |
 | Hop, Step, Jump | 3.00% | ~1,325 |
@@ -35,9 +35,9 @@ Rating: 4.15 (Ranked 963)
 | Forspoken | 1.00% | ~442 |
 | Pilgrimage: Novice | 1.00% | ~442 |
 | Wildfire | 0.70% | ~309 |
-| Realized Potential | 0.70% | ~309 |
 | Awakening | 0.60% | ~265 |
 | Explorer: Trailblazer | 0.60% | ~265 |
+| Realized Potential | 0.60% | ~265 |
 | Through the Eyes of Another: Seer | 0.40% | ~177 |
 | Archivist | 0.30% | ~132 |
 | Craftsperson | 0.30% | ~132 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 963)
 | Remembrance | 0.10% | ~44 |
 | Cat Person | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,151 (Ranked 120)  
+Progressed: 44,157 (Ranked 119)  
 Completed: 3 (0.01%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 3 (0.01%) (Ranked 355)
 | 2023-12-14 | 43,783 | 3 |
 | 2023-12-15 | 43,925 | 3 |
 | 2023-12-16 | 44,114 | 3 |
-| 2023-12-17 | 44,151 | 3 |
+| 2023-12-17 | 44,157 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

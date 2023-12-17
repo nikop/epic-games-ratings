@@ -16,7 +16,7 @@ Rating: 4.59 (Ranked 443)
 | The Fire Below the Mountain | 61.00% | ~723 |
 | Moneyball | 60.00% | ~711 |
 | No Bites | 55.00% | ~652 |
-| Iceborn | 54.00% | ~640 |
+| Iceborn | 55.00% | ~652 |
 | Boom Things | 52.00% | ~616 |
 | Tear of Freedom | 51.00% | ~604 |
 | My Darkest Day | 48.00% | ~569 |

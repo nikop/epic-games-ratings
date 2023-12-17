@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1384,
+  "EOS_Progressed": 1385,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -3262,6 +3262,11 @@
       "Time": "2023-12-17T03:05:02.4041195+00:00",
       "NumProgressed": 1384,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T07:05:20.0888017+00:00",
+      "NumProgressed": 1385,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3272,9 +3277,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "5k00jcd",
       "Name": "Rookie",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 69
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3328,17 +3333,17 @@
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "5k00jcd",
       "Name": "Versatile riding",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
       "SetID": "5k00jcd",
       "Name": "Masterful!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -3520,9 +3525,9 @@
       "ID": "ML_ACHIEVEMENT_32",
       "SetID": "5k00jcd",
       "Name": "Spendthrift",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_33",
@@ -3641,20 +3646,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1384,
+      "Progressed": 1385,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1052,
+      "Progressed": 1053,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:05:20.5386332+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:05:20.0888012+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:58:37.7682266+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:05:20.5386739+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:58:37.0217344+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:05:20.0888392+00:00"
 }

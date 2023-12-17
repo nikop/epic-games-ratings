@@ -6,7 +6,7 @@
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 65,
-  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
@@ -8809,9 +8809,9 @@
       "Count": 3578
     }
   ],
-  "EOS_Progressed": 241283,
+  "EOS_Progressed": 241296,
   "EOS_Completed": 2537,
-  "EOS_NewPlayers": 2093,
+  "EOS_NewPlayers": 2098,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -35959,6 +35959,11 @@
       "Time": "2023-12-17T06:09:54.8122946+00:00",
       "NumProgressed": 241283,
       "NumCompleted": 2537
+    },
+    {
+      "Time": "2023-12-17T07:09:36.3128806+00:00",
+      "NumProgressed": 241296,
+      "NumCompleted": 2537
     }
   ],
   "TotalAchievements": 546,
@@ -40288,9 +40293,9 @@
       "ID": "objective_completed_598",
       "SetID": "415jc5c",
       "Name": "The Overgrown Grove",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 623
     },
     {
       "ID": "objective_completed_673",
@@ -40337,21 +40342,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 207557,
+      "Progressed": 207570,
       "Completed": 4019
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 241283,
+      "Progressed": 241296,
       "Completed": 2537
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-16T17:58:39.7152074+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:09:54.8122945+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:09:36.3128804+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:58:57.4563773+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:09:54.8147612+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:58:56.0454596+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:09:36.3152214+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "horror-story-hallowseed",
   "Ranking_EOS_Progress": 800,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewPlayers": 529,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-10-28T17:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:23.9317583+00:00",
   "LastChanged": "2023-03-31T05:57:23.9317584+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:19.8493463+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:57:52.3600902+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:08:21.3123936+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:57:53.129793+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:08:00.2298552+00:00"
 }

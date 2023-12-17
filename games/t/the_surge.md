@@ -6,27 +6,27 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,632 |
-| I'll Be Back | 84.00% | ~4,140 |
-| Sorry, I Dropped This | 77.00% | ~3,795 |
-| First Day on the Job | 77.00% | ~3,795 |
-| Butcher's Bill | 55.00% | ~2,710 |
-| P.A.X | 37.00% | ~1,823 |
-| Hey Listen | 37.00% | ~1,823 |
-| OPERATOR | 36.00% | ~1,774 |
-| It's Blue Light | 33.00% | ~1,626 |
+| On My Own Two Feet | 94.00% | ~4,634 |
+| I'll Be Back | 84.00% | ~4,141 |
+| Sorry, I Dropped This | 77.00% | ~3,796 |
+| First Day on the Job | 77.00% | ~3,796 |
+| Butcher's Bill | 55.00% | ~2,712 |
+| P.A.X | 37.00% | ~1,824 |
+| Hey Listen | 37.00% | ~1,824 |
+| OPERATOR | 36.00% | ~1,775 |
+| It's Blue Light | 33.00% | ~1,627 |
 | Most Wanted | 27.00% | ~1,331 |
-| Infidel | 23.00% | ~1,133 |
+| Infidel | 23.00% | ~1,134 |
 | GOLIATH | 21.00% | ~1,035 |
 | Firebug | 20.00% | ~986 |
 | I Choose You | 18.00% | ~887 |
 | Nothing to Lose | 18.00% | ~887 |
-| Big Sister | 16.00% | ~788 |
-| SENTINEL | 16.00% | ~788 |
-| Gear Up | 15.00% | ~739 |
+| Big Sister | 16.00% | ~789 |
+| SENTINEL | 16.00% | ~789 |
+| Gear Up | 15.00% | ~740 |
 | Core Power | 13.00% | ~641 |
-| The Black Cerberus | 12.00% | ~591 |
-| Watchman | 12.00% | ~591 |
+| The Black Cerberus | 12.00% | ~592 |
+| Watchman | 12.00% | ~592 |
 | CREO Killed the Video Star | 11.00% | ~542 |
 | Who's in Charge Here? | 11.00% | ~542 |
 | Shall Not Pass | 11.00% | ~542 |
@@ -70,11 +70,11 @@ Number of Ratings: 62  (23.09.2022)
 | Sniffing Around | 0.80% | ~39 |
 | Suited and Booted | 0.80% | ~39 |
 | Tools of War | 0.80% | ~39 |
-| Modus Operandi | 0.70% | ~34 |
+| Modus Operandi | 0.70% | ~35 |
 | Brave New World | 0.60% | ~30 |
 | The Surge | 0.40% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,928 (Ranked 196)  
+Progressed: 4,930 (Ranked 196)  
 Completed: 18 (0.37%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 18 (0.37%) (Ranked 231)
 | 2023-12-14 | 4,883 | 18 |
 | 2023-12-15 | 4,898 | 18 |
 | 2023-12-16 | 4,924 | 18 |
-| 2023-12-17 | 4,928 | 18 |
+| 2023-12-17 | 4,930 | 18 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 506)  
 Sum: 29 (Ranked 523)  

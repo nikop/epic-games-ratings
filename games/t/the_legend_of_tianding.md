@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Hero Arrives | 88.00% | ~36 |
-| Eat the Rich | 59.00% | ~24 |
+| Eat the Rich | 61.00% | ~25 |
 | Phantom Kunoichi | 49.00% | ~20 |
 | Killing Machine | 49.00% | ~20 |
-| Death Battle | 44.00% | ~18 |
+| Death Battle | 46.00% | ~19 |
 | Divine Retribution | 37.00% | ~15 |
 | Dispel Rumors | 34.00% | ~14 |
 | Captain Mustache | 34.00% | ~14 |
@@ -19,8 +19,8 @@
 | Demon Slayer | 27.00% | ~11 |
 | Steal Her Away | 27.00% | ~11 |
 | Fight Fire With Fire | 27.00% | ~11 |
+| Tour Guide | 24.00% | ~10 |
 | Big Eater | 22.00% | ~9 |
-| Tour Guide | 22.00% | ~9 |
 | Not Today | 22.00% | ~9 |
 | Coward | 22.00% | ~9 |
 | The Real O.G. | 20.00% | ~8 |

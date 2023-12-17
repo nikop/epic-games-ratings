@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 543,
+  "EOS_Progressed": 545,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1264,6 +1264,11 @@
       "Time": "2023-12-17T05:10:32.1886722+00:00",
       "NumProgressed": 543,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T07:09:30.1005877+00:00",
+      "NumProgressed": 545,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1291,7 +1296,7 @@
       "Name": "Artifact Collector",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Assassin",
@@ -1339,7 +1344,7 @@
       "Name": "Ghost Buster",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Gladiator",
@@ -1355,7 +1360,7 @@
       "Name": "Goblin Tales",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Hardboiled",
@@ -1387,7 +1392,7 @@
       "Name": "Iconoclasm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Inquisitor",
@@ -1395,7 +1400,7 @@
       "Name": "Inquisitor",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "Librarian",
@@ -1435,7 +1440,7 @@
       "Name": "Money Swag",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Necromancer",
@@ -1475,7 +1480,7 @@
       "Name": "Reincarnation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Roughneck",
@@ -1555,7 +1560,7 @@
       "Name": "Trap Master",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "TreasureHunter",
@@ -1594,7 +1599,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 543,
+      "Progressed": 545,
       "Completed": 1
     }
   ],
@@ -1602,8 +1607,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:09:48.8285213+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:09:30.1005875+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:58:17.015042+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:09:48.8285614+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:58:16.835687+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:09:30.1006126+00:00"
 }

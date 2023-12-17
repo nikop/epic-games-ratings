@@ -2131,9 +2131,9 @@
       "ID": "hold_my_beer",
       "SetID": "c4ipj3h",
       "Name": "Hold my Beer",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 593
+      "UsersEstimate": 602
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -2228,8 +2228,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-17T06:09:36.5997174+00:00",
+  "LastChanged_Achievements": "2023-12-17T07:09:17.5097987+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.6209919+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:59:20.7684964+00:00",
-  "LastUpdate_Achievements": "2023-12-17T06:09:36.5997361+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:59:18.3405071+00:00",
+  "LastUpdate_Achievements": "2023-12-17T07:09:17.5098222+00:00"
 }
