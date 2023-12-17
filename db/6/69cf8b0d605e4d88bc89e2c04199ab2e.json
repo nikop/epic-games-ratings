@@ -2,10 +2,10 @@
   "ID": "69cf8b0d605e4d88bc89e2c04199ab2e",
   "Name": "Super Kids Racing",
   "ProductSlug": "super-kids-racing-7bf296",
-  "Ranking_EOS_Progress": 698,
+  "Ranking_EOS_Progress": 682,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 528,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 483,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-12-07T18:30:00+00:00",
     "PcReleaseDate": "2018-02-08T18:30:00+00:00",
@@ -22,15 +22,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-12-04T01:51:30.571416+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T02:28:48.1205269+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -107,13 +112,13 @@
     {
       "ID": "cb3b2nm",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-04T01:51:30.5725375+00:00",
-  "LastChanged_Achievements": "2023-12-17T01:56:29.2631513+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:28:48.1205264+00:00",
   "LastUpdate_AppInfo": "2023-12-11T01:45:34.5665163+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:52:23.2629344+00:00",
-  "LastUpdate_Achievements": "2023-12-17T01:56:29.2631593+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:24:20.3523883+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:28:48.1205329+00:00"
 }

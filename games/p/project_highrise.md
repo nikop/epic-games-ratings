@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~227 |
-| Starting Skyward | 53.00% | ~204 |
-| Grime is Not Good | 46.00% | ~177 |
+| In the Black | 59.00% | ~228 |
+| Starting Skyward | 53.00% | ~205 |
+| Grime is Not Good | 46.00% | ~178 |
 | Floor Galore | 41.00% | ~158 |
 | Dinner Dash | 41.00% | ~158 |
 | Campaign Launch | 40.00% | ~154 |
-| Need a Consult | 37.00% | ~142 |
+| Need a Consult | 37.00% | ~143 |
 | Upgrade Unlock | 36.00% | ~139 |
 | It's Technical | 36.00% | ~139 |
 | Delegate Maintenance | 34.00% | ~131 |
-| Proper Walls | 31.00% | ~119 |
-| Destination Destiny | 31.00% | ~119 |
+| Proper Walls | 31.00% | ~120 |
+| Destination Destiny | 31.00% | ~120 |
 | Happy Tenants | 26.00% | ~100 |
 | Potent Potables | 25.00% | ~96 |
 | Smooth Service | 25.00% | ~96 |
-| Your Prestige is Rising | 24.00% | ~92 |
+| Your Prestige is Rising | 24.00% | ~93 |
 | Don't Feel a Loan | 23.00% | ~89 |
 | Retail Revenue | 23.00% | ~89 |
 | People Mover | 21.00% | ~81 |
@@ -31,7 +31,7 @@
 | Get Electrified | 19.00% | ~73 |
 | Rehab Expert | 18.00% | ~69 |
 | Tasty Profits | 18.00% | ~69 |
-| Established Fame | 17.00% | ~65 |
+| Established Fame | 17.00% | ~66 |
 | Under One Roof | 16.00% | ~62 |
 | Cashflow Chief | 16.00% | ~62 |
 | Starred Dining | 15.00% | ~58 |
@@ -41,7 +41,7 @@
 | Thrilled Tenants | 13.00% | ~50 |
 | 28 Days Later | 11.00% | ~42 |
 | Swimming in Surplus | 11.00% | ~42 |
-| Aestheticly Pleased | 10.00% | ~38 |
+| Aestheticly Pleased | 10.00% | ~39 |
 | Plaza Plan | 9.00% | ~35 |
 | Master of Puppets | 9.00% | ~35 |
 | Refined Palates | 9.00% | ~35 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 385 (Ranked 342)  
+Progressed: 386 (Ranked 342)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,6 +197,7 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 367 | 0 |
 | 2023-12-15 | 372 | 0 |
 | 2023-12-16 | 385 | 0 |
+| 2023-12-17 | 386 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

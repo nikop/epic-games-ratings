@@ -123,7 +123,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80825,
+  "EOS_Progressed": 80826,
   "EOS_Completed": 879,
   "EOS_NewPlayers": 610,
   "EOS_NewCompleters": 11,
@@ -26918,6 +26918,11 @@
       "Time": "2023-12-17T01:57:23.1148351+00:00",
       "NumProgressed": 80825,
       "NumCompleted": 879
+    },
+    {
+      "Time": "2023-12-17T02:29:41.8903539+00:00",
+      "NumProgressed": 80826,
+      "NumCompleted": 879
     }
   ],
   "TotalAchievements": 25,
@@ -26953,7 +26958,7 @@
       "Name": "Audiophile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "Be Seeing You",
@@ -26969,7 +26974,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14548
+      "UsersEstimate": 14549
     },
     {
       "ID": "Butcher",
@@ -27113,7 +27118,7 @@
       "Name": "Tape Head",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "Vinyl Vibes",
@@ -27128,7 +27133,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 80825,
+      "Progressed": 80826,
       "Completed": 879
     }
   ],
@@ -27136,8 +27141,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-17T01:57:23.1148347+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:29:41.8903536+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.6719063+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:51:15.4211845+00:00",
-  "LastUpdate_Achievements": "2023-12-17T01:57:23.1149398+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:23:14.619507+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:29:41.8905121+00:00"
 }

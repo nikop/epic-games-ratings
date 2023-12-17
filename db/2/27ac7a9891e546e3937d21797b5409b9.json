@@ -2,10 +2,10 @@
   "ID": "27ac7a9891e546e3937d21797b5409b9",
   "Name": "REMORE INFESTED KINGDOM",
   "ProductSlug": "remore-infested-kingdom-d1a6b5",
-  "Ranking_EOS_Progress": 698,
+  "Ranking_EOS_Progress": 699,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 528,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-10-31T02:00:00+00:00",
     "PcReleaseDate": "2023-10-31T02:00:00+00:00",
@@ -168,8 +168,8 @@
   ],
   "FirstSeen": "2023-10-31T11:57:47.7378802+00:00",
   "FirstSeenAchievements": "2023-07-21T08:05:36.9140718+00:00",
-  "LastChanged_Achievements": "2023-12-17T01:58:22.9279435+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:30:41.1379849+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.2100379+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:51:00.7680794+00:00",
-  "LastUpdate_Achievements": "2023-12-17T01:58:22.927954+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:22:59.8303127+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:30:41.1379956+00:00"
 }

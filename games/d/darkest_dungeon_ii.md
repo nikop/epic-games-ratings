@@ -57,9 +57,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ichthyophobic | 0.70% | ~895 |
 | No More Mouths to Feed | 0.70% | ~895 |
 | Hot Air | 0.60% | ~767 |
+| Eyes Up | 0.60% | ~767 |
 | Slap on the Wrist | 0.60% | ~16 |
 | This Looks Familiar | 0.50% | ~639 |
-| Eyes Up | 0.50% | ~639 |
 | For Old Time' Sake | 0.50% | ~14 |
 | Shrine of Reflection | 0.40% | ~511 |
 | Handled | 0.40% | ~511 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 | On This Long Road, We Found Redemption | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,860 (Ranked 85)  
+Progressed: 127,864 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 3 (0.00%) (Ranked 379)
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
-| 2023-12-17 | 127,860 | 3 |
+| 2023-12-17 | 127,864 | 3 |
 ## Awards
 Max (Character Customization): 7,744  (Ranked 51)  
 Sum: 20,608 (Ranked 58)  

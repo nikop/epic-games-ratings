@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 760,
+  "EOS_Progressed": 761,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -2625,6 +2625,11 @@
       "Time": "2023-12-17T00:06:55.952995+00:00",
       "NumProgressed": 760,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T02:31:07.8952454+00:00",
+      "NumProgressed": 761,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2660,7 +2665,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "female-conqueror",
@@ -2684,7 +2689,7 @@
       "Name": "Our Man",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "kill-lieutenants",
@@ -2700,7 +2705,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "play-at-night",
@@ -2748,7 +2753,7 @@
       "Name": "Spread",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "send-smuggling",
@@ -2772,7 +2777,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "use-submarine",
@@ -2787,15 +2792,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 760,
+      "Progressed": 761,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-12T19:59:33.5091909+00:00",
-  "LastChanged_Achievements": "2023-12-17T01:58:49.9560515+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:31:07.8952451+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.4837395+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:51:17.6825964+00:00",
-  "LastUpdate_Achievements": "2023-12-17T01:58:49.956077+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:23:16.8290942+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:31:07.8952641+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 437,
-  "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_Completed": 64,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 121,
-  "EOS_Completed": 7,
+  "EOS_Completed": 8,
   "EOS_NewPlayers": 14,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.79,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 6.61,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -634,6 +634,11 @@
       "Time": "2023-12-16T15:03:50.3384746+00:00",
       "NumProgressed": 121,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-17T02:29:14.3283173+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -886,13 +891,13 @@
       "ID": "ag48e8e",
       "IsBase": true,
       "Progressed": 121,
-      "Completed": 7
+      "Completed": 8
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-17T01:56:55.2365002+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:29:14.328317+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9485544+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:55:36.9561891+00:00",
-  "LastUpdate_Achievements": "2023-12-17T01:56:55.2365187+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:27:53.9255243+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:29:14.328345+00:00"
 }

@@ -10,8 +10,8 @@ Rating: 4.20 (Ranked 929)
 | Paper Jams | 11.00% | ~1,922 |
 | The Outer Way | 11.00% | ~1,922 |
 | Desperate Times | 10.00% | ~1,747 |
-| Chew 'Em Up | 9.00% | ~1,572 |
-| Float Like A Butterfly | 9.00% | ~1,572 |
+| Chew 'Em Up | 9.00% | ~1,573 |
+| Float Like A Butterfly | 9.00% | ~1,573 |
 | Reforged | 8.00% | ~1,398 |
 | Workplace Hazard | 7.00% | ~1,223 |
 | If the SHU Fits... | 7.00% | ~1,223 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 929)
 | Bear Trap | 0.10% | ~5 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,470 (Ranked 149)  
+Progressed: 17,474 (Ranked 149)  
 Completed: 82 (0.47%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 82 (0.47%) (Ranked 215)
 | 2023-12-14 | 16,823 | 81 |
 | 2023-12-15 | 17,123 | 82 |
 | 2023-12-16 | 17,442 | 82 |
-| 2023-12-17 | 17,470 | 82 |
+| 2023-12-17 | 17,474 | 82 |
 ## Awards
 Max (Amazing Storytelling): 87  (Ranked 387)  
 Sum: 514 (Ranked 328)  

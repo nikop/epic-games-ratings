@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 355,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1901,9 +1901,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 66565,
+  "EOS_Progressed": 66566,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 625,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28376,6 +28376,11 @@
       "Time": "2023-12-17T01:59:03.9212224+00:00",
       "NumProgressed": 66565,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-17T02:31:21.6823012+00:00",
+      "NumProgressed": 66566,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -28675,7 +28680,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 41936
+      "UsersEstimate": 41937
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -28731,7 +28736,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16641
+      "UsersEstimate": 16642
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -28803,7 +28808,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8653
+      "UsersEstimate": 8654
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -28858,15 +28863,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 66565,
+      "Progressed": 66566,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-16T22:00:11.5437359+00:00",
-  "LastChanged_Achievements": "2023-12-17T01:59:03.921222+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:31:21.6823007+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:33.1495851+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:53:11.9965804+00:00",
-  "LastUpdate_Achievements": "2023-12-17T01:59:03.9214937+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:25:09.2234562+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:31:21.6824485+00:00"
 }

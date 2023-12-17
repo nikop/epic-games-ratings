@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -224,7 +224,7 @@
   ],
   "EOS_Progressed": 1022,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2776,9 +2776,9 @@
       "ID": "GoodCitizen",
       "SetID": "1n308hc",
       "Name": "Good Citizen",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 51
     },
     {
       "ID": "GrasslandsRing",
@@ -2920,9 +2920,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 225
     },
     {
       "ID": "RenaissanceRobot",
@@ -2992,9 +2992,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 133
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3113,8 +3113,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-17T01:56:12.8631058+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:28:31.2716614+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:50:46.0840195+00:00",
-  "LastUpdate_Achievements": "2023-12-17T01:56:12.8631552+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:22:45.7368966+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:28:31.2717585+00:00"
 }

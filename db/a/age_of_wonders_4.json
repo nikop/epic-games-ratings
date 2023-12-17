@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5756,
+  "EOS_Progressed": 5761,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8235,6 +8235,11 @@
       "Time": "2023-12-17T01:56:25.6016056+00:00",
       "NumProgressed": 5756,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-17T02:28:44.6335285+00:00",
+      "NumProgressed": 5761,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8412,9 +8417,9 @@
       "ID": "29",
       "SetID": "3aa2279",
       "Name": "Stronger Together",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 115
     },
     {
       "ID": "3",
@@ -8460,9 +8465,9 @@
       "ID": "34",
       "SetID": "3aa2279",
       "Name": "In a Liege of Your Own",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 115
     },
     {
       "ID": "35",
@@ -8725,13 +8730,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5756,
+      "Progressed": 5761,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5756,
+      "Progressed": 5761,
       "Completed": 7
     }
   ],
@@ -8739,8 +8744,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-17T01:56:25.6016052+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:28:44.6335279+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:51:06.4888097+00:00",
-  "LastUpdate_Achievements": "2023-12-17T01:56:25.6016708+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:23:05.4212254+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:28:44.6336191+00:00"
 }

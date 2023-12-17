@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 921)
 | Something... unnatural | 0.10% | ~330 |
 | We strike as one | 0.10% | ~330 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 330,089 (Ranked 52)  
+Progressed: 330,096 (Ranked 52)  
 Completed: 5 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 5 (0.00%) (Ranked 379)
 | 2023-12-14 | 328,907 | 5 |
 | 2023-12-15 | 329,387 | 5 |
 | 2023-12-16 | 330,022 | 5 |
-| 2023-12-17 | 330,089 | 5 |
+| 2023-12-17 | 330,096 | 5 |
 ## Awards
 Max (Great Boss Battles): 69  (Ranked 410)  
 Sum: 69 (Ranked 478)  

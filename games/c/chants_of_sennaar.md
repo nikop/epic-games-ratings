@@ -25,7 +25,7 @@ Rating: 4.85 (Ranked 47)
 | Rascal | 16.00% | ~193 |
 | Feels like springtime | 15.00% | ~181 |
 | Alchemists Express | 15.00% | ~181 |
-| Free at last | 13.00% | ~157 |
+| Free at last | 14.00% | ~169 |
 | A Link to the Past | 12.00% | ~145 |
 | A great audience | 10.00% | ~121 |
 | For its own good | 10.00% | ~121 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -3309,9 +3309,9 @@
       "ID": "MARY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Hostage of the Elderly",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 303
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -3468,8 +3468,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:02:55.5359891+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:34:51.4263005+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:08.9329051+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:51:13.4312883+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:02:55.5360438+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:23:12.6187193+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:34:51.4263563+00:00"
 }

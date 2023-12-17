@@ -16742,10 +16742,10 @@
       "Count": 15884
     }
   ],
-  "EOS_Progressed": 977416,
+  "EOS_Progressed": 977424,
   "EOS_Completed": 2924,
-  "EOS_NewPlayers": 3921,
-  "EOS_NewCompleters": 52,
+  "EOS_NewPlayers": 3913,
+  "EOS_NewCompleters": 51,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -44152,6 +44152,11 @@
       "Time": "2023-12-17T01:57:06.9582025+00:00",
       "NumProgressed": 977416,
       "NumCompleted": 2924
+    },
+    {
+      "Time": "2023-12-17T02:29:25.9953887+00:00",
+      "NumProgressed": 977424,
+      "NumCompleted": 2924
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -44218,9 +44223,9 @@
       "ID": "Gearhead",
       "SetID": "47clieb",
       "Name": "Autojock",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 4887
+      "UsersEstimate": 5865
     },
     {
       "ID": "GetMeThereScottie",
@@ -44236,7 +44241,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78193
+      "UsersEstimate": 78194
     },
     {
       "ID": "Gunslinger",
@@ -44284,7 +44289,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29322
+      "UsersEstimate": 29323
     },
     {
       "ID": "MaxPain",
@@ -44332,7 +44337,7 @@
       "Name": "Life of the Road",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29322
+      "UsersEstimate": 29323
     },
     {
       "ID": "Roleplayer",
@@ -44396,7 +44401,7 @@
       "Name": "The High Priestess",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29322
+      "UsersEstimate": 29323
     },
     {
       "ID": "TheLovers",
@@ -44468,7 +44473,7 @@
       "Name": "True Warrior",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 29322
+      "UsersEstimate": 29323
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -44492,7 +44497,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117290
+      "UsersEstimate": 117291
     },
     {
       "ID": "YipMan",
@@ -44508,7 +44513,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 29322
+      "UsersEstimate": 29323
     },
     {
       "ID": "All the President\u0027s Men",
@@ -44699,21 +44704,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 977416,
+      "Progressed": 977424,
       "Completed": 2924
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 106039,
+      "Progressed": 106047,
       "Completed": 10395
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-17T01:55:50.9783082+00:00",
-  "LastChanged_Achievements": "2023-12-17T01:57:06.9582021+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:29:25.9953885+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:11.4044836+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:55:50.9783091+00:00",
-  "LastUpdate_Achievements": "2023-12-17T01:57:06.9583505+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:28:07.3407398+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:29:25.9955535+00:00"
 }

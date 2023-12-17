@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16579,
+  "EOS_Progressed": 16583,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 558,
+  "EOS_NewPlayers": 562,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -14093,6 +14093,11 @@
       "Time": "2023-12-17T02:01:23.9173913+00:00",
       "NumProgressed": 16579,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-17T02:33:20.1660115+00:00",
+      "NumProgressed": 16583,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14121,7 +14126,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "12",
@@ -14137,7 +14142,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2155
+      "UsersEstimate": 2156
     },
     {
       "ID": "14",
@@ -14185,7 +14190,7 @@
       "Name": "Martian Music",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "2",
@@ -14209,7 +14214,7 @@
       "Name": "Drone Dodger",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "22",
@@ -14313,7 +14318,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "7",
@@ -14337,7 +14342,7 @@
       "Name": "Impossible Objects",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "31",
@@ -14353,7 +14358,7 @@
       "Name": "Safe Cracker",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "33",
@@ -14361,7 +14366,7 @@
       "Name": "Zen Master",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "34",
@@ -14377,20 +14382,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16579,
+      "Progressed": 16583,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2533,
+      "Progressed": 2537,
       "Completed": 908
     }
   ],
@@ -14398,8 +14403,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-16T18:58:26.9677078+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:01:23.9173909+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:33:20.1660111+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:51:23.8071935+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:01:23.9174787+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:23:22.8326097+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:33:20.1661016+00:00"
 }

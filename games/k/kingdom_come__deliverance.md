@@ -7,8 +7,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 32.00% | ~260,130 |
-| Cavalier | 25.00% | ~203,226 |
-| Fatso | 23.00% | ~186,968 |
+| Cavalier | 25.00% | ~203,227 |
+| Fatso | 23.00% | ~186,969 |
 | Awakening | 21.00% | ~170,710 |
 | Ranger | 20.00% | ~162,581 |
 | Scrooge | 20.00% | ~162,581 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~813 |
 | Wingman | 0.10% | ~813 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 812,906 (Ranked 18)  
+Progressed: 812,907 (Ranked 18)  
 Completed: 52 (0.01%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,10 +330,10 @@ Completed: 52 (0.01%) (Ranked 355)
 | 2023-12-14 | 812,507 | 52 |
 | 2023-12-15 | 812,670 | 52 |
 | 2023-12-16 | 812,891 | 52 |
-| 2023-12-17 | 812,906 | 52 |
+| 2023-12-17 | 812,907 | 52 |
 ## Awards
 Max (Character Customization): 7,674  (Ranked 52)  
-Sum: 28,514 (Ranked 49)  
+Sum: 28,515 (Ranked 49)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -347,7 +347,7 @@ Diff (max vs sum): 3
 | This game has Realistic Visuals | 1,682 |
 | This game has Amazing Characters | 1,681 |
 | This game is Educational | 1,620 |
-| This game is Relaxing | 1,548 |
+| This game is Relaxing | 1,549 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
 ## Ratings History
@@ -676,3 +676,4 @@ Diff (max vs sum): 3
 | 2023-12-14 | 4.71 | - | 7,671 | 28,499 |
 | 2023-12-15 | 4.71 | - | 7,674 | 28,505 |
 | 2023-12-16 | 4.71 | - | 7,674 | 28,514 |
+| 2023-12-17 | 4.71 | - | 7,674 | 28,515 |

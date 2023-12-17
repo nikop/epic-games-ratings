@@ -4,8 +4,8 @@
   "ProductSlug": "outbreak-the-nightmare-chronicles-reinvestigated-b631d4",
   "Ranking_EOS_Progress": 582,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 528,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-09-13T14:00:00+00:00",
     "PcReleaseDate": "2023-09-13T14:00:00+00:00",
@@ -124,9 +124,9 @@
       "ID": "QUITE_THE_DETECTIVE_ACH",
       "SetID": "2gpm4c0",
       "Name": "Quite the Detective",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SURVIVING_THE_NIGHTMARE_ACH",
@@ -154,8 +154,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:21.113084+00:00",
-  "LastChanged_Achievements": "2023-12-17T01:56:19.607511+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:28:38.3313081+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:13.4134621+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:51:50.5054347+00:00",
-  "LastUpdate_Achievements": "2023-12-17T01:56:19.6075197+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:23:48.6011016+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:28:38.3313155+00:00"
 }

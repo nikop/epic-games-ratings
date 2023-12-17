@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2252,10 +2252,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4915,
       "NumberOfAwardsMax": 588
+    },
+    {
+      "Time": "2023-12-17T02:23:36.2832081+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4916,
+      "NumberOfAwardsMax": 588
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4915,
+  "NumberOfAwards": 4916,
   "NumberOfAwardsMax": 588,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2299,7 +2305,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 544
+      "Count": 545
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2326,9 +2332,9 @@
       "Count": 258
     }
   ],
-  "EOS_Progressed": 219742,
+  "EOS_Progressed": 219745,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 1400,
+  "EOS_NewPlayers": 1401,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -29941,6 +29947,11 @@
       "Time": "2023-12-17T01:56:09.788607+00:00",
       "NumProgressed": 219742,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-12-17T02:28:28.2138567+00:00",
+      "NumProgressed": 219745,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 44,
@@ -30200,7 +30211,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17579
+      "UsersEstimate": 17580
     },
     {
       "ID": "TanukiTime",
@@ -30303,15 +30314,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 219742,
+      "Progressed": 219745,
       "Completed": 101
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-12-16T20:59:57.6758891+00:00",
-  "LastChanged_Achievements": "2023-12-17T01:56:09.7886066+00:00",
+  "LastChanged": "2023-12-17T02:23:36.283208+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:28:28.2138563+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.0979756+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:51:37.4074441+00:00",
-  "LastUpdate_Achievements": "2023-12-17T01:56:09.788734+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:23:36.2832085+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:28:28.214046+00:00"
 }

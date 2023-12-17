@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -969,9 +969,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4397,
+  "EOS_Progressed": 4405,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2089,
+  "EOS_NewPlayers": 2097,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5049,6 +5049,11 @@
       "Time": "2023-12-17T02:01:41.0224313+00:00",
       "NumProgressed": 4397,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T02:33:37.423366+00:00",
+      "NumProgressed": 4405,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -5075,9 +5080,9 @@
       "ID": "TLOTF_ACHIEVEMENT_003",
       "SetID": "87e61g",
       "Name": "Lost and Found",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_004",
@@ -5564,7 +5569,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 4397,
+      "Progressed": 4405,
       "Completed": 2
     }
   ],
@@ -5572,8 +5577,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-16T21:02:14.7785587+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:01:41.0224309+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:33:37.4233654+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:35.9560906+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:53:14.1287473+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:01:41.0224853+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:25:11.2538073+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:33:37.4234891+00:00"
 }

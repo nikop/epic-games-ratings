@@ -10,7 +10,7 @@ Rating: 3.53 (Ranked 1,061)
 | Hard Worker | 20.00% | ~16,165 |
 | Adios, Friendo | 19.00% | ~15,357 |
 | Mechanic | 19.00% | ~15,357 |
-| Bottom's Up | 18.00% | ~14,548 |
+| Bottom's Up | 18.00% | ~14,549 |
 | Nice Try | 16.00% | ~12,932 |
 | Right On Target | 14.00% | ~11,316 |
 | Piano Man | 11.00% | ~8,891 |
@@ -28,10 +28,10 @@ Rating: 3.53 (Ranked 1,061)
 | Hearty | 3.00% | ~2,425 |
 | Meaty | 3.00% | ~2,425 |
 | Taco Toto | 3.00% | ~2,425 |
-| Audiophile | 2.00% | ~1,616 |
-| Tape Head | 2.00% | ~1,616 |
+| Audiophile | 2.00% | ~1,617 |
+| Tape Head | 2.00% | ~1,617 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,825 (Ranked 99)  
+Progressed: 80,826 (Ranked 99)  
 Completed: 879 (1.09%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 879 (1.09%) (Ranked 167)
 | 2023-12-14 | 80,603 | 877 |
 | 2023-12-15 | 80,707 | 877 |
 | 2023-12-16 | 80,812 | 879 |
-| 2023-12-17 | 80,825 | 879 |
+| 2023-12-17 | 80,826 | 879 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

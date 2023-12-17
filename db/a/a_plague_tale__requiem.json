@@ -713,9 +713,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 14373,
+  "EOS_Progressed": 14374,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -12548,6 +12548,11 @@
       "Time": "2023-12-17T01:59:13.0623227+00:00",
       "NumProgressed": 14373,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-17T02:31:30.7644576+00:00",
+      "NumProgressed": 14374,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 35,
@@ -12559,7 +12564,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 13223
+      "UsersEstimate": 13224
     },
     {
       "ID": "ACH_02",
@@ -12567,7 +12572,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 11211
+      "UsersEstimate": 11212
     },
     {
       "ID": "ACH_03",
@@ -12575,7 +12580,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 10492
+      "UsersEstimate": 10493
     },
     {
       "ID": "ACH_04",
@@ -12583,7 +12588,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 10061
+      "UsersEstimate": 10062
     },
     {
       "ID": "ACH_05",
@@ -12599,7 +12604,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 9342
+      "UsersEstimate": 9343
     },
     {
       "ID": "ACH_07",
@@ -12607,7 +12612,7 @@
       "Name": "Felons",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 8911
+      "UsersEstimate": 8912
     },
     {
       "ID": "ACH_08",
@@ -12623,7 +12628,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 8336
+      "UsersEstimate": 8337
     },
     {
       "ID": "ACH_10",
@@ -12647,7 +12652,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 6755
+      "UsersEstimate": 6756
     },
     {
       "ID": "ACH_13",
@@ -12655,7 +12660,7 @@
       "Name": "Nothing Left",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 5749
+      "UsersEstimate": 5750
     },
     {
       "ID": "ACH_14",
@@ -12679,7 +12684,7 @@
       "Name": "King Hugo",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3593
+      "UsersEstimate": 3594
     },
     {
       "ID": "ACH_17",
@@ -12687,7 +12692,7 @@
       "Name": "Knights!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3018
+      "UsersEstimate": 3019
     },
     {
       "ID": "ACH_18",
@@ -12743,7 +12748,7 @@
       "Name": "Handful of pockets",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "ACH_25",
@@ -12767,7 +12772,7 @@
       "Name": "Night guard",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 6324
+      "UsersEstimate": 6325
     },
     {
       "ID": "ACH_28",
@@ -12815,7 +12820,7 @@
       "Name": "Perfect throw",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 3018
+      "UsersEstimate": 3019
     },
     {
       "ID": "ACH_34",
@@ -12838,7 +12843,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 14373,
+      "Progressed": 14374,
       "Completed": 58
     }
   ],
@@ -12846,8 +12851,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-12-15T12:02:47.4562311+00:00",
-  "LastChanged_Achievements": "2023-12-17T01:59:13.0623222+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:31:30.7644572+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:19.5371388+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:50:39.2697513+00:00",
-  "LastUpdate_Achievements": "2023-12-17T01:59:13.0623936+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:22:38.7714883+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:31:30.7645223+00:00"
 }

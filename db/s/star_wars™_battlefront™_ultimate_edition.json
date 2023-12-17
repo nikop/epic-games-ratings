@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1819,
+  "EOS_Progressed": 1820,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5364,6 +5364,11 @@
       "Time": "2023-12-17T02:02:55.0745767+00:00",
       "NumProgressed": 1819,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T02:34:50.9274553+00:00",
+      "NumProgressed": 1820,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5448,7 +5453,7 @@
       "Name": "The power of the Force",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_19",
@@ -5472,7 +5477,7 @@
       "Name": "Collector",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_21",
@@ -5520,7 +5525,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_27",
@@ -5600,7 +5605,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1620
     },
     {
       "ID": "achievement_36",
@@ -5616,7 +5621,7 @@
       "Name": "Off to a good start",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "achievement_38",
@@ -5640,7 +5645,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "achievement_40",
@@ -5680,7 +5685,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "achievement_45",
@@ -5879,13 +5884,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1819,
+      "Progressed": 1820,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1819,
+      "Progressed": 1820,
       "Completed": 1
     }
   ],
@@ -5893,8 +5898,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:02:55.0745764+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:34:50.927455+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:52:19.8764808+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:02:55.0746456+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:24:16.5189039+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:34:50.9275431+00:00"
 }

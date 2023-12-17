@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1449,9 +1449,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6437,
+  "EOS_Progressed": 6438,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14544,6 +14544,11 @@
       "Time": "2023-12-17T02:01:22.9464058+00:00",
       "NumProgressed": 6437,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T02:33:19.184215+00:00",
+      "NumProgressed": 6438,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14651,7 +14656,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2832
+      "UsersEstimate": 2833
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -14715,7 +14720,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4763
+      "UsersEstimate": 4764
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14787,7 +14792,7 @@
       "Name": "Survivor",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -14874,15 +14879,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6437,
+      "Progressed": 6438,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-16T18:58:39.8372052+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:01:22.9464055+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:33:19.1842147+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.7844638+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:51:36.7467262+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:01:22.94648+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:23:35.6496247+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:33:19.1843112+00:00"
 }

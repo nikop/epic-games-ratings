@@ -25,7 +25,7 @@ Rating: 4.58 (Ranked 455)
 | Hostile Takeover | 11.00% | ~2,098 |
 | Keycards Royale | 10.00% | ~1,907 |
 | Dr. No Kill | 10.00% | ~1,907 |
-| In It to Win It | 9.00% | ~1,716 |
+| In It to Win It | 9.00% | ~1,717 |
 | Security Supervisor | 6.00% | ~1,144 |
 | License to Thrill | 5.00% | ~954 |
 | Social of Solace | 4.00% | ~763 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 455)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,072 (Ranked 146)  
+Progressed: 19,073 (Ranked 146)  
 Completed: 4 (0.02%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 4 (0.02%) (Ranked 347)
 | 2023-12-14 | 19,048 | 4 |
 | 2023-12-15 | 19,057 | 4 |
 | 2023-12-16 | 19,070 | 4 |
-| 2023-12-17 | 19,072 | 4 |
+| 2023-12-17 | 19,073 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

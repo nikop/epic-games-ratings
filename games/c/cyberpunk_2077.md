@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,290 |
-| Gun Fu | 8.00% | ~78,193 |
+| V for Vendetta | 12.00% | ~117,291 |
+| Gun Fu | 8.00% | ~78,194 |
 | Right Back At Ya | 6.00% | ~58,645 |
 | The Fool | 6.00% | ~58,645 |
 | The Lovers | 5.00% | ~48,871 |
@@ -18,11 +18,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 4.00% | ~39,097 |
 | All the President's Men | 4.00% | ~4,242 |
 | Arachnophobia | 4.00% | ~4,242 |
-| Christmas Tree Attack | 3.00% | ~29,322 |
-| Life of the Road | 3.00% | ~29,322 |
-| The High Priestess | 3.00% | ~29,322 |
-| True Warrior | 3.00% | ~29,322 |
-| Legend of The Afterlife | 3.00% | ~29,322 |
+| Christmas Tree Attack | 3.00% | ~29,323 |
+| Life of the Road | 3.00% | ~29,323 |
+| The High Priestess | 3.00% | ~29,323 |
+| True Warrior | 3.00% | ~29,323 |
+| Legend of The Afterlife | 3.00% | ~29,323 |
 | Relic Ruler | 3.00% | ~3,181 |
 | Bushido and Chill | 2.00% | ~19,548 |
 | To Protect and Serve | 2.00% | ~19,548 |
@@ -42,8 +42,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Ten out of Ten | 0.80% | ~7,819 |
 | Breathtaking | 0.70% | ~6,842 |
 | The Star | 0.70% | ~6,842 |
+| Autojock | 0.60% | ~5,865 |
 | The Tower | 0.60% | ~636 |
-| Autojock | 0.50% | ~4,887 |
 | Must Be Rats | 0.50% | ~4,887 |
 | Temperance | 0.50% | ~4,887 |
 | The APB is Not Enough | 0.50% | ~530 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 977,416 (Ranked 15)  
+Progressed: 977,424 (Ranked 15)  
 Completed: 2,924 (0.30%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 2,924 (0.30%) (Ranked 243)
 | 2023-12-14 | 976,057 | 2,907 |
 | 2023-12-15 | 976,625 | 2,913 |
 | 2023-12-16 | 977,366 | 2,924 |
-| 2023-12-17 | 977,416 | 2,924 |
+| 2023-12-17 | 977,424 | 2,924 |
 ## Awards
 Max (Character Customization): 123,963  (Ranked 8)  
 Sum: 424,515 (Ranked 9)  

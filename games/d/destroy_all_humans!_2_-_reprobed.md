@@ -7,11 +7,11 @@ Number of Ratings: 90  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rock of the Bay | 66.00% | ~61 |
-| Mash Machine | 61.00% | ~57 |
+| Mash Machine | 62.00% | ~58 |
 | Ducks in a Row, Fish in a Barrel | 41.00% | ~38 |
-| Furon Fashion | 33.00% | ~31 |
+| Furon Fashion | 34.00% | ~32 |
 | Shop Til They Drop | 30.00% | ~28 |
-| Earthly Pleasures | 23.00% | ~21 |
+| Earthly Pleasures | 24.00% | ~22 |
 | Pimp My Raid | 19.00% | ~18 |
 | Bodied Sattva | 18.00% | ~17 |
 | I Look Up As I Walk to Takoshima | 16.00% | ~15 |
@@ -28,12 +28,12 @@ Number of Ratings: 90  (23.09.2022)
 | Kaijuiced | 4.00% | ~4 |
 | Scuttled | 3.00% | ~3 |
 | Lobster Blisque | 2.00% | ~2 |
+| Yettisoned | 2.00% | ~2 |
 | Re-Return of the Clone of the Invasion II-2 | 2.00% | ~2 |
 | Arkvoodle Doodle | 2.00% | ~2 |
 | Arty Facts | 1.00% | ~1 |
 | Forbidden Donut | 1.00% | ~1 |
 | Deincarnated | 1.00% | ~1 |
-| Yettisoned | 1.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
 | PK Slam Dunk | 0.00% | ~0 |
 | Gotta Catch All the Pop Art | 0.00% | ~0 |

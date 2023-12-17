@@ -2,10 +2,10 @@
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 541,
+  "EOS_Progressed": 542,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1254,6 +1254,11 @@
       "Time": "2023-12-17T00:10:31.7479249+00:00",
       "NumProgressed": 541,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T02:34:47.9943633+00:00",
+      "NumProgressed": 542,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1297,7 +1302,7 @@
       "Name": "Boss Killer",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "BugHunter",
@@ -1305,7 +1310,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Cryomancer",
@@ -1321,7 +1326,7 @@
       "Name": "Explorer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "GhostBuster",
@@ -1345,7 +1350,7 @@
       "Name": "Goblin Tales",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "Hardboiled",
@@ -1463,9 +1468,9 @@
       "ID": "Reincarnation",
       "SetID": "82505mn",
       "Name": "Reincarnation",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 81
     },
     {
       "ID": "Roughneck",
@@ -1537,7 +1542,7 @@
       "Name": "Trio",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "TrapMaster",
@@ -1584,7 +1589,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 541,
+      "Progressed": 542,
       "Completed": 1
     }
   ],
@@ -1592,8 +1597,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:02:52.2173+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:34:47.9943631+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:51:04.4932825+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:02:52.2173321+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:23:03.5431417+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:34:47.9943936+00:00"
 }

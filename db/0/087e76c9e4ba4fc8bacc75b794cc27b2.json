@@ -2,10 +2,10 @@
   "ID": "087e76c9e4ba4fc8bacc75b794cc27b2",
   "Name": "What The Duck",
   "ProductSlug": "what-the-duck-83e293",
-  "Ranking_EOS_Progress": 681,
+  "Ranking_EOS_Progress": 672,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 528,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-11-09T15:00:00+00:00",
     "PcReleaseDate": "2023-11-09T15:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -36,6 +36,11 @@
     {
       "Time": "2023-11-20T10:08:44.7235168+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T02:28:59.1455298+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -199,7 +204,7 @@
       "ID": "GroceryBoy",
       "SetID": "cidef9m",
       "Name": "Grocery Boy",
-      "Percentage": 100,
+      "Percentage": 75,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -400,13 +405,13 @@
     {
       "ID": "cidef9m",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-09T16:12:35.1501319+00:00",
-  "LastChanged_Achievements": "2023-12-17T01:56:40.4112275+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:28:59.1455295+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:10.3340942+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:50:05.7238602+00:00",
-  "LastUpdate_Achievements": "2023-12-17T01:56:40.4112512+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:22:04.6691286+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:28:59.1455569+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~40,037 |
-| Blood Moon | 73.00% | ~34,384 |
-| Path of the Necromancer | 65.00% | ~30,616 |
-| Chainbreaker - I | 60.00% | ~28,261 |
-| Cursed Creature | 57.00% | ~26,848 |
-| Extraction | 57.00% | ~26,848 |
-| Chainbreaker - II | 55.00% | ~25,906 |
-| Necromancer's Apprentice | 51.00% | ~24,022 |
-| Keeper of Keys | 47.00% | ~22,138 |
-| Distillation | 43.00% | ~20,254 |
-| Transmutation | 42.00% | ~19,783 |
-| Mountain King - I | 41.00% | ~19,312 |
-| Prepared Necromancer | 40.00% | ~18,841 |
-| Mountain King - II | 39.00% | ~18,370 |
-| Blind Rage | 38.00% | ~17,899 |
+| Improvement | 85.00% | ~40,038 |
+| Blood Moon | 73.00% | ~34,386 |
+| Path of the Necromancer | 65.00% | ~30,618 |
+| Chainbreaker - I | 60.00% | ~28,262 |
+| Cursed Creature | 57.00% | ~26,849 |
+| Extraction | 57.00% | ~26,849 |
+| Chainbreaker - II | 55.00% | ~25,907 |
+| Necromancer's Apprentice | 51.00% | ~24,023 |
+| Keeper of Keys | 47.00% | ~22,139 |
+| Distillation | 43.00% | ~20,255 |
+| Transmutation | 42.00% | ~19,784 |
+| Mountain King - I | 41.00% | ~19,313 |
+| Prepared Necromancer | 40.00% | ~18,842 |
+| Mountain King - II | 39.00% | ~18,371 |
+| Blind Rage | 38.00% | ~17,900 |
 | Mad Genius | 35.00% | ~16,486 |
 | Cannon Fodder - I | 34.00% | ~16,015 |
 | Soul of Lies | 34.00% | ~16,015 |
@@ -32,27 +32,27 @@ Number of Ratings: 10,109  (23.09.2022)
 | Chainbreaker - III | 28.00% | ~13,189 |
 | Revealed Secrets - I | 26.00% | ~12,247 |
 | Revealed Secrets - II | 25.00% | ~11,776 |
-| Blood Elemental | 24.00% | ~11,304 |
-| Unholy Bones | 23.00% | ~10,833 |
-| Lord of Fire | 23.00% | ~10,833 |
-| Uncommon Warrior | 23.00% | ~10,833 |
-| Cannon Fodder - III | 22.00% | ~10,362 |
-| Spiritual Attraction | 22.00% | ~10,362 |
-| Nightmare of the Humanity - I | 22.00% | ~10,362 |
-| Nightmare of the Humanity - II | 21.00% | ~9,891 |
-| That Was Easy! | 20.00% | ~9,420 |
-| Silent Waters | 20.00% | ~9,420 |
-| Head of Order | 20.00% | ~9,420 |
-| Calcination | 19.00% | ~8,949 |
-| Blood Mage | 17.00% | ~8,007 |
-| Wild Hunger | 16.00% | ~7,536 |
-| Rage Concentrated | 16.00% | ~7,536 |
-| Mountain King - III | 15.00% | ~7,065 |
-| Rare Warrior | 15.00% | ~7,065 |
-| Grand Arena | 14.00% | ~6,594 |
-| Blood Madness | 13.00% | ~6,123 |
-| First Sacrifice | 13.00% | ~6,123 |
-| Master of Alchemy | 13.00% | ~6,123 |
+| Blood Elemental | 24.00% | ~11,305 |
+| Unholy Bones | 23.00% | ~10,834 |
+| Lord of Fire | 23.00% | ~10,834 |
+| Cannon Fodder - III | 22.00% | ~10,363 |
+| Spiritual Attraction | 22.00% | ~10,363 |
+| Uncommon Warrior | 22.00% | ~10,363 |
+| Nightmare of the Humanity - I | 22.00% | ~10,363 |
+| Nightmare of the Humanity - II | 21.00% | ~9,892 |
+| That Was Easy! | 20.00% | ~9,421 |
+| Silent Waters | 20.00% | ~9,421 |
+| Head of Order | 20.00% | ~9,421 |
+| Calcination | 19.00% | ~8,950 |
+| Blood Mage | 17.00% | ~8,008 |
+| Wild Hunger | 16.00% | ~7,537 |
+| Rage Concentrated | 16.00% | ~7,537 |
+| Mountain King - III | 15.00% | ~7,066 |
+| Rare Warrior | 15.00% | ~7,066 |
+| Grand Arena | 14.00% | ~6,595 |
+| Blood Madness | 13.00% | ~6,124 |
+| First Sacrifice | 13.00% | ~6,124 |
+| Master of Alchemy | 13.00% | ~6,124 |
 | Legendary Warrior | 12.00% | ~5,652 |
 | Bane of Mercenaries - III | 10.00% | ~4,710 |
 | Monument to Greatness | 10.00% | ~4,710 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.60% | ~283 |
 | Renowned Researcher | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,102 (Ranked 116)  
+Progressed: 47,104 (Ranked 116)  
 Completed: 26 (0.06%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 26 (0.06%) (Ranked 320)
 | 2023-12-14 | 46,955 | 26 |
 | 2023-12-15 | 47,028 | 26 |
 | 2023-12-16 | 47,094 | 26 |
-| 2023-12-17 | 47,102 | 26 |
+| 2023-12-17 | 47,104 | 26 |
 ## Awards
 Max (Character Customization): 2,163  (Ranked 111)  
 Sum: 4,214 (Ranked 153)  

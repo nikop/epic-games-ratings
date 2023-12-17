@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~568 |
-| Training Simulation | 78.00% | ~481 |
-| Kuku Bird Hunter | 65.00% | ~401 |
-| Storm Traveller | 59.00% | ~364 |
-| Wolf King Killer | 54.00% | ~333 |
+| Travel Streamer | 92.00% | ~569 |
+| Training Simulation | 78.00% | ~482 |
+| Kuku Bird Hunter | 65.00% | ~402 |
+| Storm Traveller | 59.00% | ~365 |
+| Wolf King Killer | 54.00% | ~334 |
 | Fashion Connoisseur | 52.00% | ~321 |
-| Arms Mechanic | 48.00% | ~296 |
-| Flower Thief | 43.00% | ~265 |
-| Apostle of Flame | 38.00% | ~234 |
-| Beginner Artificer | 37.00% | ~228 |
+| Arms Mechanic | 48.00% | ~297 |
+| Flower Thief | 43.00% | ~266 |
+| Apostle of Flame | 38.00% | ~235 |
+| Beginner Artificer | 37.00% | ~229 |
 | Beginner Cook | 36.00% | ~222 |
-| Seal Breaker | 31.00% | ~191 |
+| Seal Breaker | 31.00% | ~192 |
 | Handyman | 27.00% | ~167 |
-| Giant Lizard Killer | 26.00% | ~160 |
+| Giant Lizard Killer | 26.00% | ~161 |
 | Guardian | 25.00% | ~154 |
 | Nosebleeder | 25.00% | ~154 |
 | Trader | 21.00% | ~130 |
@@ -28,10 +28,10 @@
 | Lethal Blade Mantis Killer | 16.00% | ~99 |
 | Squeaky Clean | 16.00% | ~99 |
 | Master Artificer | 16.00% | ~99 |
-| Kind Adventurer | 14.00% | ~86 |
-| Mermaid Killer | 14.00% | ~86 |
-| Cave Master | 14.00% | ~86 |
-| Face Slapper | 14.00% | ~86 |
+| Kind Adventurer | 14.00% | ~87 |
+| Mermaid Killer | 14.00% | ~87 |
+| Cave Master | 14.00% | ~87 |
+| Face Slapper | 14.00% | ~87 |
 | Boss challenge | 10.00% | ~62 |
 | Berserker Slayer | 10.00% | ~62 |
 | Giantess Slayer | 9.00% | ~56 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 617 (Ranked 308)  
+Progressed: 618 (Ranked 308)  
 Completed: 1 (0.16%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,6 +153,7 @@ Completed: 1 (0.16%) (Ranked 277)
 | 2023-12-14 | 600 | 1 |
 | 2023-12-15 | 603 | 1 |
 | 2023-12-16 | 617 | 1 |
+| 2023-12-17 | 618 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3943,
+  "EOS_Progressed": 3944,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6231,6 +6231,11 @@
       "Time": "2023-12-17T00:04:27.3574856+00:00",
       "NumProgressed": 3943,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-17T02:28:54.0852914+00:00",
+      "NumProgressed": 3944,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6250,7 +6255,7 @@
       "Name": "Ace Detective",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "AncestorsPride_13",
@@ -6282,7 +6287,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "CrowdPleaser",
@@ -6314,7 +6319,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "ForAllAurai_8",
@@ -6330,7 +6335,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -6346,7 +6351,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "HouseofCards_19",
@@ -6386,7 +6391,7 @@
       "Name": "Magic is a science",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "MasterofAurai_20",
@@ -6562,7 +6567,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2957
+      "UsersEstimate": 2958
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6577,15 +6582,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3943,
+      "Progressed": 3944,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-17T01:56:35.2574534+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:28:54.085291+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:55:37.8644285+00:00",
-  "LastUpdate_Achievements": "2023-12-17T01:56:35.257511+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:27:54.8045416+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:28:54.0853856+00:00"
 }

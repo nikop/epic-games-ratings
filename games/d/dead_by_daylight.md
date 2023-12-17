@@ -6,36 +6,36 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~33,007 |
-| It wakes | 3.00% | ~33,007 |
-| Skillful | 3.00% | ~33,007 |
-| No one left behind | 2.00% | ~22,004 |
-| Handyman | 2.00% | ~22,004 |
-| Not half bad | 2.00% | ~22,004 |
-| Apt Survivor | 2.00% | ~22,004 |
-| Survival Treasures | 2.00% | ~22,004 |
-| I | 2.00% | ~22,004 |
-| Sorted | 2.00% | ~22,004 |
-| Resurgence | 2.00% | ~22,004 |
-| Preemptive Strike | 2.00% | ~22,004 |
-| Make Some Noise | 2.00% | ~22,004 |
-| The Grand Sacrifice | 1.00% | ~11,002 |
-| Agonizing Escape | 1.00% | ~11,002 |
-| Backdoor Escape | 1.00% | ~11,002 |
-| I've got your back | 1.00% | ~11,002 |
-| Medic | 1.00% | ~11,002 |
-| Perfect Escape | 1.00% | ~11,002 |
-| Perfect Killing | 1.00% | ~11,002 |
-| Bloody Millionaire | 1.00% | ~11,002 |
-| Apt Killer | 1.00% | ~11,002 |
-| Risk it all | 1.00% | ~11,002 |
-| II | 1.00% | ~11,002 |
-| III | 1.00% | ~11,002 |
-| Engineer | 1.00% | ~11,002 |
-| Wounded Healer | 1.00% | ~11,002 |
-| Healthy Obsession | 1.00% | ~11,002 |
-| Close Shave | 1.00% | ~11,002 |
-| Humanitarian | 1.00% | ~11,002 |
+| Zealous | 3.00% | ~33,008 |
+| It wakes | 3.00% | ~33,008 |
+| Skillful | 3.00% | ~33,008 |
+| No one left behind | 2.00% | ~22,005 |
+| Handyman | 2.00% | ~22,005 |
+| Not half bad | 2.00% | ~22,005 |
+| Apt Survivor | 2.00% | ~22,005 |
+| Survival Treasures | 2.00% | ~22,005 |
+| I | 2.00% | ~22,005 |
+| Sorted | 2.00% | ~22,005 |
+| Resurgence | 2.00% | ~22,005 |
+| Preemptive Strike | 2.00% | ~22,005 |
+| Make Some Noise | 2.00% | ~22,005 |
+| The Grand Sacrifice | 1.00% | ~11,003 |
+| Agonizing Escape | 1.00% | ~11,003 |
+| Backdoor Escape | 1.00% | ~11,003 |
+| I've got your back | 1.00% | ~11,003 |
+| Medic | 1.00% | ~11,003 |
+| Perfect Escape | 1.00% | ~11,003 |
+| Perfect Killing | 1.00% | ~11,003 |
+| Bloody Millionaire | 1.00% | ~11,003 |
+| Apt Killer | 1.00% | ~11,003 |
+| Risk it all | 1.00% | ~11,003 |
+| II | 1.00% | ~11,003 |
+| III | 1.00% | ~11,003 |
+| Engineer | 1.00% | ~11,003 |
+| Wounded Healer | 1.00% | ~11,003 |
+| Healthy Obsession | 1.00% | ~11,003 |
+| Close Shave | 1.00% | ~11,003 |
+| Humanitarian | 1.00% | ~11,003 |
 | Vulture | 0.90% | ~9,902 |
 | First to the Punch | 0.90% | ~9,902 |
 | With Scars to Show | 0.90% | ~9,902 |
@@ -54,19 +54,19 @@ Number of Ratings: 70,340  (23.09.2022)
 | Unforgettable Getaway | 0.70% | ~7,702 |
 | Old West Oasis | 0.70% | ~7,702 |
 | Classy Act | 0.70% | ~7,702 |
-| Made it out alive! | 0.60% | ~6,601 |
-| Nerves of steel | 0.60% | ~6,601 |
-| Shock Therapy | 0.60% | ~6,601 |
-| All Aboard | 0.60% | ~6,601 |
-| Item of Obsession | 0.60% | ~6,601 |
-| House of Pain | 0.60% | ~6,601 |
-| Holiday Get-Together | 0.60% | ~6,601 |
-| Near-Death Experience | 0.60% | ~6,601 |
-| Ancestor's Rite | 0.60% | ~6,601 |
-| Cutting Out | 0.60% | ~6,601 |
-| Outrun Evil | 0.60% | ~6,601 |
-| One More Step | 0.60% | ~6,601 |
-| MU/TH/UR Dearest | 0.60% | ~6,601 |
+| Made it out alive! | 0.60% | ~6,602 |
+| Nerves of steel | 0.60% | ~6,602 |
+| Shock Therapy | 0.60% | ~6,602 |
+| All Aboard | 0.60% | ~6,602 |
+| Item of Obsession | 0.60% | ~6,602 |
+| House of Pain | 0.60% | ~6,602 |
+| Holiday Get-Together | 0.60% | ~6,602 |
+| Near-Death Experience | 0.60% | ~6,602 |
+| Ancestor's Rite | 0.60% | ~6,602 |
+| Cutting Out | 0.60% | ~6,602 |
+| Outrun Evil | 0.60% | ~6,602 |
+| One More Step | 0.60% | ~6,602 |
+| MU/TH/UR Dearest | 0.60% | ~6,602 |
 | A bite for the Entity | 0.50% | ~5,501 |
 | Blood on your face | 0.50% | ~5,501 |
 | Leapfrog | 0.50% | ~5,501 |
@@ -104,17 +104,17 @@ Number of Ratings: 70,340  (23.09.2022)
 | Prowler | 0.30% | ~3,301 |
 | Triage | 0.30% | ~3,301 |
 | Kitted Out | 0.30% | ~3,301 |
-| Mad House | 0.20% | ~2,200 |
-| Looter | 0.20% | ~2,200 |
-| Dismantle | 0.20% | ~2,200 |
-| Denied! | 0.20% | ~2,200 |
-| Bodyguard | 0.20% | ~2,200 |
-| Death of Ignorance | 0.20% | ~2,200 |
-| Ghost in the Machine | 0.20% | ~2,200 |
-| From the Deep | 0.20% | ~2,200 |
-| Hack the Mainframe | 0.20% | ~2,200 |
-| Disarm and Dismember | 0.20% | ~2,200 |
-| Joke’s On You | 0.20% | ~2,200 |
+| Mad House | 0.20% | ~2,201 |
+| Looter | 0.20% | ~2,201 |
+| Dismantle | 0.20% | ~2,201 |
+| Denied! | 0.20% | ~2,201 |
+| Bodyguard | 0.20% | ~2,201 |
+| Death of Ignorance | 0.20% | ~2,201 |
+| Ghost in the Machine | 0.20% | ~2,201 |
+| From the Deep | 0.20% | ~2,201 |
+| Hack the Mainframe | 0.20% | ~2,201 |
+| Disarm and Dismember | 0.20% | ~2,201 |
+| Joke’s On You | 0.20% | ~2,201 |
 | A feast for the Entity | 0.10% | ~1,100 |
 | Cripple them all | 0.10% | ~1,100 |
 | The Grind | 0.10% | ~1,100 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,100 |
 | Adept Good Guy | 0.10% | ~1,100 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,100,222 (Ranked 12)  
+Progressed: 1,100,264 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -480,7 +480,7 @@ Completed: 62 (0.01%) (Ranked 355)
 | 2023-12-14 | 1,095,217 | 62 |
 | 2023-12-15 | 1,097,468 | 62 |
 | 2023-12-16 | 1,099,953 | 62 |
-| 2023-12-17 | 1,100,222 | 62 |
+| 2023-12-17 | 1,100,264 | 62 |
 ## Awards
 Max (Diverse Characters): 38,017  (Ranked 15)  
 Sum: 287,918 (Ranked 12)  

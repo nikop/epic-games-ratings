@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
     "PcReleaseDate": "2017-06-21T00:00:00+00:00",
@@ -455,9 +455,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 222375,
+  "EOS_Progressed": 222379,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1047,
+  "EOS_NewPlayers": 1045,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27905,6 +27905,11 @@
       "Time": "2023-12-17T01:56:07.1866827+00:00",
       "NumProgressed": 222375,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T02:28:25.6224835+00:00",
+      "NumProgressed": 222379,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -27916,7 +27921,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 104516
+      "UsersEstimate": 104518
     },
     {
       "ID": "AlekhinesGun",
@@ -27964,7 +27969,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 122306
+      "UsersEstimate": 122308
     },
     {
       "ID": "Checkmate",
@@ -27972,7 +27977,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 66712
+      "UsersEstimate": 66714
     },
     {
       "ID": "ChessChampion",
@@ -27988,7 +27993,7 @@
       "Name": "Chop Wood",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 157886
+      "UsersEstimate": 157889
     },
     {
       "ID": "DoubleCheck",
@@ -27996,7 +28001,7 @@
       "Name": "Double Check",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15566
+      "UsersEstimate": 15567
     },
     {
       "ID": "DoubledPawn",
@@ -28004,7 +28009,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 126754
+      "UsersEstimate": 126756
     },
     {
       "ID": "Elo",
@@ -28052,7 +28057,7 @@
       "Name": "Family Fork",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13342
+      "UsersEstimate": 13343
     },
     {
       "ID": "FoolsMate",
@@ -28084,7 +28089,7 @@
       "Name": "O-O",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 53370
+      "UsersEstimate": 53371
     },
     {
       "ID": "O-O-O",
@@ -28108,7 +28113,7 @@
       "Name": "Piece Collector",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13342
+      "UsersEstimate": 13343
     },
     {
       "ID": "ProblemSolved",
@@ -28132,7 +28137,7 @@
       "Name": "Promotion",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 68936
+      "UsersEstimate": 68937
     },
     {
       "ID": "QueenSacrifice",
@@ -28140,7 +28145,7 @@
       "Name": "Queen Sacrifice",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 44475
+      "UsersEstimate": 44476
     },
     {
       "ID": "ScholarsMate",
@@ -28156,7 +28161,7 @@
       "Name": "Spanish Bishop",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 46699
+      "UsersEstimate": 46700
     },
     {
       "ID": "Stalemate",
@@ -28219,7 +28224,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 222375,
+      "Progressed": 222379,
       "Completed": 2
     }
   ],
@@ -28227,8 +28232,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-12-16T18:59:30.1904477+00:00",
-  "LastChanged_Achievements": "2023-12-17T01:56:07.186682+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:28:25.6224833+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:57.4118976+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:52:28.901634+00:00",
-  "LastUpdate_Achievements": "2023-12-17T01:56:07.1869077+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:24:26.6525788+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:28:25.6226483+00:00"
 }

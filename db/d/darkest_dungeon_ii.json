@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9810,9 +9810,9 @@
       "Count": 1018
     }
   ],
-  "EOS_Progressed": 127860,
+  "EOS_Progressed": 127864,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1897,
+  "EOS_NewPlayers": 1899,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35405,6 +35405,11 @@
       "Time": "2023-12-17T02:02:01.944959+00:00",
       "NumProgressed": 127860,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T02:33:57.7641841+00:00",
+      "NumProgressed": 127864,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35886,9 +35891,9 @@
       "ID": "run_victory_act03",
       "SetID": "64l4lke",
       "Name": "Eyes Up",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 639
+      "UsersEstimate": 767
     },
     {
       "ID": "run_victory_act04",
@@ -36047,21 +36052,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127860,
+      "Progressed": 127864,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2729,
+      "Progressed": 2733,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-17T01:50:35.302696+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:02:01.9449587+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:33:57.7641838+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:50:35.3026966+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:02:01.9451208+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:22:34.0735633+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:33:57.7643265+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Aya \u0026 Naya",
   "ProductSlug": "aya-and-naya-b7791e",
   "Ranking_EOS_Progress": 247,
-  "Ranking_EOS_Completed": 85,
+  "Ranking_EOS_Completed": 83,
   "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-08-17T20:00:00+00:00",
     "PcReleaseDate": "2023-08-31T16:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1445,
-  "EOS_Completed": 62,
+  "EOS_Completed": 63,
   "EOS_NewPlayers": 25,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.29,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 4.36,
   "EosHistory": [
     {
       "Time": "2023-08-08T23:02:04.1783243+00:00",
@@ -3869,6 +3869,11 @@
       "Time": "2023-12-17T02:02:46.0063264+00:00",
       "NumProgressed": 1445,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-12-17T02:34:41.5660963+00:00",
+      "NumProgressed": 1445,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -3911,9 +3916,9 @@
       "ID": "Mission5",
       "SetID": "6igjng7",
       "Name": "Finished!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 72
+      "UsersEstimate": 87
     }
   ],
   "AchievementSets": [
@@ -3921,13 +3926,13 @@
       "ID": "6igjng7",
       "IsBase": true,
       "Progressed": 1445,
-      "Completed": 62
+      "Completed": 63
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:02:46.0063259+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:34:41.566096+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5961153+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:50:46.480067+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:02:46.0063529+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:22:46.0981223+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:34:41.5661203+00:00"
 }

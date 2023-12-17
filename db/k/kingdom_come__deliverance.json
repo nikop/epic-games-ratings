@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 355,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -9235,10 +9235,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28514,
       "NumberOfAwardsMax": 7674
+    },
+    {
+      "Time": "2023-12-17T02:22:27.8842482+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28515,
+      "NumberOfAwardsMax": 7674
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28514,
+  "NumberOfAwards": 28515,
   "NumberOfAwardsMax": 7674,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9306,7 +9312,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1548
+      "Count": 1549
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9321,9 +9327,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 812906,
+  "EOS_Progressed": 812907,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 1060,
+  "EOS_NewPlayers": 1059,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -36451,6 +36457,11 @@
       "Time": "2023-12-17T02:02:32.4693796+00:00",
       "NumProgressed": 812906,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-17T02:34:27.9176383+00:00",
+      "NumProgressed": 812907,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -36574,7 +36585,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 203226
+      "UsersEstimate": 203227
     },
     {
       "ID": "Chivalrous",
@@ -36662,7 +36673,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 186968
+      "UsersEstimate": 186969
     },
     {
       "ID": "Fighter",
@@ -37117,15 +37128,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 812906,
+      "Progressed": 812907,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-12-16T20:58:21.3482302+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:02:32.4693792+00:00",
+  "LastChanged": "2023-12-17T02:22:27.884248+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:34:27.917638+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.6961501+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:50:29.0024471+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:02:32.4695615+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:22:27.8842486+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:34:27.9178008+00:00"
 }

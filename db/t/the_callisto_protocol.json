@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1643,9 +1643,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 17470,
+  "EOS_Progressed": 17474,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 949,
+  "EOS_NewPlayers": 953,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -9933,6 +9933,11 @@
       "Time": "2023-12-17T02:02:06.9430033+00:00",
       "NumProgressed": 17470,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-17T02:34:02.8247175+00:00",
+      "NumProgressed": 17474,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10072,7 +10077,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "KILL_ROBOT",
@@ -10104,7 +10109,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -10319,13 +10324,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 17470,
+      "Progressed": 17474,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 5396,
+      "Progressed": 5400,
       "Completed": 29
     }
   ],
@@ -10333,8 +10338,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-17T01:55:57.522041+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:02:06.943003+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:34:02.8247172+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-17T01:55:57.5220419+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:02:06.943076+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:28:14.2583029+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:34:02.8247751+00:00"
 }
