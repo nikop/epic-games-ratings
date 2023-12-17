@@ -6,41 +6,41 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~33,018 |
-| It wakes | 3.00% | ~33,018 |
-| Skillful | 3.00% | ~33,018 |
-| The Grand Sacrifice | 2.00% | ~22,012 |
-| No one left behind | 2.00% | ~22,012 |
-| Handyman | 2.00% | ~22,012 |
-| Not half bad | 2.00% | ~22,012 |
-| Apt Survivor | 2.00% | ~22,012 |
-| Survival Treasures | 2.00% | ~22,012 |
-| I | 2.00% | ~22,012 |
-| Sorted | 2.00% | ~22,012 |
-| Healthy Obsession | 2.00% | ~22,012 |
-| Resurgence | 2.00% | ~22,012 |
-| Preemptive Strike | 2.00% | ~22,012 |
-| Make Some Noise | 2.00% | ~22,012 |
-| Agonizing Escape | 1.00% | ~11,006 |
-| Backdoor Escape | 1.00% | ~11,006 |
-| I've got your back | 1.00% | ~11,006 |
-| Medic | 1.00% | ~11,006 |
-| Perfect Escape | 1.00% | ~11,006 |
-| Perfect Killing | 1.00% | ~11,006 |
-| Bloody Millionaire | 1.00% | ~11,006 |
-| Apt Killer | 1.00% | ~11,006 |
-| Risk it all | 1.00% | ~11,006 |
-| II | 1.00% | ~11,006 |
-| III | 1.00% | ~11,006 |
-| Engineer | 1.00% | ~11,006 |
-| Wounded Healer | 1.00% | ~11,006 |
-| Close Shave | 1.00% | ~11,006 |
-| Humanitarian | 1.00% | ~11,006 |
-| Vulture | 0.90% | ~9,905 |
-| First to the Punch | 0.90% | ~9,905 |
-| With Scars to Show | 0.90% | ~9,905 |
-| Lifting The Fog | 0.90% | ~9,905 |
-| Second Act | 0.90% | ~9,905 |
+| Zealous | 3.00% | ~33,020 |
+| It wakes | 3.00% | ~33,020 |
+| Skillful | 3.00% | ~33,020 |
+| The Grand Sacrifice | 2.00% | ~22,013 |
+| No one left behind | 2.00% | ~22,013 |
+| Handyman | 2.00% | ~22,013 |
+| Not half bad | 2.00% | ~22,013 |
+| Bloody Millionaire | 2.00% | ~22,013 |
+| Apt Survivor | 2.00% | ~22,013 |
+| Survival Treasures | 2.00% | ~22,013 |
+| I | 2.00% | ~22,013 |
+| Sorted | 2.00% | ~22,013 |
+| Healthy Obsession | 2.00% | ~22,013 |
+| Resurgence | 2.00% | ~22,013 |
+| Preemptive Strike | 2.00% | ~22,013 |
+| Make Some Noise | 2.00% | ~22,013 |
+| Agonizing Escape | 1.00% | ~11,007 |
+| Backdoor Escape | 1.00% | ~11,007 |
+| I've got your back | 1.00% | ~11,007 |
+| Medic | 1.00% | ~11,007 |
+| Perfect Escape | 1.00% | ~11,007 |
+| Perfect Killing | 1.00% | ~11,007 |
+| Apt Killer | 1.00% | ~11,007 |
+| Risk it all | 1.00% | ~11,007 |
+| II | 1.00% | ~11,007 |
+| III | 1.00% | ~11,007 |
+| Engineer | 1.00% | ~11,007 |
+| Wounded Healer | 1.00% | ~11,007 |
+| Close Shave | 1.00% | ~11,007 |
+| Humanitarian | 1.00% | ~11,007 |
+| Vulture | 0.90% | ~9,906 |
+| First to the Punch | 0.90% | ~9,906 |
+| With Scars to Show | 0.90% | ~9,906 |
+| Lifting The Fog | 0.90% | ~9,906 |
+| Second Act | 0.90% | ~9,906 |
 | Blood on your hands | 0.80% | ~8,805 |
 | Escape Artist | 0.80% | ~8,805 |
 | Operation: Survival | 0.80% | ~8,805 |
@@ -48,14 +48,14 @@ Number of Ratings: 70,340  (23.09.2022)
 | Raccoon City Recruit | 0.80% | ~8,805 |
 | Flight to Freedom | 0.80% | ~8,805 |
 | Chorus of Chaos | 0.80% | ~8,805 |
-| Gifts for the Fog | 0.70% | ~7,704 |
-| III-50 | 0.70% | ~7,704 |
-| Item of Obsession | 0.70% | ~7,704 |
-| Holiday Get-Together | 0.70% | ~7,704 |
-| Cherish your Life | 0.70% | ~7,704 |
-| Unforgettable Getaway | 0.70% | ~7,704 |
-| Old West Oasis | 0.70% | ~7,704 |
-| Classy Act | 0.70% | ~7,704 |
+| Gifts for the Fog | 0.70% | ~7,705 |
+| III-50 | 0.70% | ~7,705 |
+| Item of Obsession | 0.70% | ~7,705 |
+| Holiday Get-Together | 0.70% | ~7,705 |
+| Cherish your Life | 0.70% | ~7,705 |
+| Unforgettable Getaway | 0.70% | ~7,705 |
+| Old West Oasis | 0.70% | ~7,705 |
+| Classy Act | 0.70% | ~7,705 |
 | Made it out alive! | 0.60% | ~6,604 |
 | Nerves of steel | 0.60% | ~6,604 |
 | Shock Therapy | 0.60% | ~6,604 |
@@ -77,21 +77,21 @@ Number of Ratings: 70,340  (23.09.2022)
 | Devoted Gatekeeping | 0.50% | ~5,503 |
 | Shrine Apparatus | 0.50% | ~5,503 |
 | Grim Pilgrimage | 0.50% | ~5,503 |
+| Selfless Survival | 0.50% | ~5,503 |
 | End of Days | 0.50% | ~5,503 |
 | Outrun the Overlap | 0.50% | ~5,503 |
 | Rebuilding The Borgo | 0.50% | ~5,503 |
 | Extraterrestrial | 0.50% | ~5,503 |
 | Outta Nowhere | 0.50% | ~5,503 |
-| Jump Scares | 0.40% | ~4,402 |
-| Hemophobia | 0.40% | ~4,402 |
-| Serial Killer | 0.40% | ~4,402 |
-| Game Over | 0.40% | ~4,402 |
-| Party Crasher | 0.40% | ~4,402 |
-| Broken Bodies | 0.40% | ~4,402 |
-| Selfless Survival | 0.40% | ~4,402 |
-| Insult and Injury | 0.40% | ~4,402 |
-| High Speed Pursuit | 0.40% | ~4,402 |
-| Complete the Evolution | 0.40% | ~4,402 |
+| Jump Scares | 0.40% | ~4,403 |
+| Hemophobia | 0.40% | ~4,403 |
+| Serial Killer | 0.40% | ~4,403 |
+| Game Over | 0.40% | ~4,403 |
+| Party Crasher | 0.40% | ~4,403 |
+| Broken Bodies | 0.40% | ~4,403 |
+| Insult and Injury | 0.40% | ~4,403 |
+| High Speed Pursuit | 0.40% | ~4,403 |
+| Complete the Evolution | 0.40% | ~4,403 |
 | Blood in your mouth | 0.30% | ~3,302 |
 | Deep Cleansing | 0.30% | ~3,302 |
 | Texas BBQ | 0.30% | ~3,302 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,101 |
 | Adept Good Guy | 0.10% | ~1,101 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,100,607 (Ranked 12)  
+Progressed: 1,100,671 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -480,15 +480,15 @@ Completed: 62 (0.01%) (Ranked 355)
 | 2023-12-14 | 1,095,217 | 62 |
 | 2023-12-15 | 1,097,468 | 62 |
 | 2023-12-16 | 1,099,953 | 62 |
-| 2023-12-17 | 1,100,607 | 62 |
+| 2023-12-17 | 1,100,671 | 62 |
 ## Awards
 Max (Diverse Characters): 38,094  (Ranked 15)  
-Sum: 287,995 (Ranked 12)  
+Sum: 288,056 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 38,094 |
-| This game is Highly Recommended | 32,937 |
+| This game is Highly Recommended | 32,998 |
 | This game has Amazing Characters | 32,447 |
 | This game has Competitive Players | 32,229 |
 | This game is Extremely Fun | 31,888 |
@@ -828,4 +828,4 @@ Diff (max vs sum): 3
 | 2023-12-14 | 4.51 | - | 37,855 | 286,889 |
 | 2023-12-15 | 4.51 | - | 37,936 | 287,393 |
 | 2023-12-16 | 4.51 | - | 38,017 | 287,918 |
-| 2023-12-17 | 4.51 | - | 38,094 | 287,995 |
+| 2023-12-17 | 4.51 | - | 38,094 | 288,056 |

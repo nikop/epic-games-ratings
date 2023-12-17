@@ -2,10 +2,10 @@
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 545,
+  "EOS_Progressed": 546,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1269,6 +1269,11 @@
       "Time": "2023-12-17T07:09:30.1005877+00:00",
       "NumProgressed": 545,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T08:10:00.9417057+00:00",
+      "NumProgressed": 546,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1286,7 +1291,7 @@
       "ID": "ArtCollector",
       "SetID": "82505mn",
       "Name": "Art Collector",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -1312,7 +1317,7 @@
       "Name": "Boss Killer",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "BugHunter",
@@ -1334,9 +1339,9 @@
       "ID": "Explorer",
       "SetID": "82505mn",
       "Name": "Explorer",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 27
     },
     {
       "ID": "GhostBuster",
@@ -1352,15 +1357,15 @@
       "Name": "Gladiator",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "GoblinTales",
       "SetID": "82505mn",
       "Name": "Goblin Tales",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 164
+      "UsersEstimate": 158
     },
     {
       "ID": "Hardboiled",
@@ -1416,7 +1421,7 @@
       "Name": "Lumberjack",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Marksman",
@@ -1446,7 +1451,7 @@
       "ID": "Necromancer",
       "SetID": "82505mn",
       "Name": "Necromancer",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -1464,7 +1469,7 @@
       "Name": "Orcs Must Die!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Pyromancer",
@@ -1536,7 +1541,7 @@
       "Name": "The End",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "TheFallen",
@@ -1544,7 +1549,7 @@
       "Name": "The Fallen",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "TheTrio",
@@ -1558,9 +1563,9 @@
       "ID": "TrapMaster",
       "SetID": "82505mn",
       "Name": "Trap Master",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 98
     },
     {
       "ID": "TreasureHunter",
@@ -1599,7 +1604,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 545,
+      "Progressed": 546,
       "Completed": 1
     }
   ],
@@ -1607,8 +1612,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:09:30.1005875+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:10:00.9417052+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:58:16.835687+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:09:30.1006126+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:58:24.9198161+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:10:00.9417658+00:00"
 }

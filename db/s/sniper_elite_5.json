@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -643,9 +643,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4037,
+  "EOS_Progressed": 4038,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8703,6 +8703,11 @@
       "Time": "2023-12-17T07:08:29.8432519+00:00",
       "NumProgressed": 4037,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-17T08:09:00.409886+00:00",
+      "NumProgressed": 4038,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8794,7 +8799,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9042,7 +9047,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -9050,7 +9055,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -9122,7 +9127,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -9281,13 +9286,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3988,
+      "Progressed": 3989,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4037,
+      "Progressed": 4038,
       "Completed": 11
     }
   ],
@@ -9295,8 +9300,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:08:29.8432517+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:09:00.4098854+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:53.9169066+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:57:27.4754172+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:08:29.8433279+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:57:34.83654+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:09:00.4099809+00:00"
 }

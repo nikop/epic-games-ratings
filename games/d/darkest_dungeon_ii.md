@@ -6,24 +6,24 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 7.00% | ~195 |
+| Malpractice Assurance | 7.00% | ~196 |
 | This guy... again? | 4.00% | ~112 |
 | Lost and Found | 4.00% | ~112 |
 | This Belongs in a Museum | 3.00% | ~3,838 |
 | Autodidact | 3.00% | ~3,838 |
 | Bloody Graduation | 3.00% | ~84 |
-| Don't Make Me Turn This Coach Around | 2.00% | ~2,558 |
-| Serenity Now! | 2.00% | ~2,558 |
-| It Rings a Bell | 2.00% | ~2,558 |
-| Not Today! | 2.00% | ~2,558 |
-| Creep and Sleep | 2.00% | ~2,558 |
-| Meat and Greet | 2.00% | ~2,558 |
-| Catch and Decease | 2.00% | ~2,558 |
-| Overdue Notice | 2.00% | ~2,558 |
-| Escape from the Black Hole | 2.00% | ~2,558 |
-| Rush Hour | 2.00% | ~2,558 |
-| To Grandmother's House | 2.00% | ~2,558 |
-| FNG | 2.00% | ~2,558 |
+| Don't Make Me Turn This Coach Around | 2.00% | ~2,559 |
+| Serenity Now! | 2.00% | ~2,559 |
+| It Rings a Bell | 2.00% | ~2,559 |
+| Not Today! | 2.00% | ~2,559 |
+| Creep and Sleep | 2.00% | ~2,559 |
+| Meat and Greet | 2.00% | ~2,559 |
+| Catch and Decease | 2.00% | ~2,559 |
+| Overdue Notice | 2.00% | ~2,559 |
+| Escape from the Black Hole | 2.00% | ~2,559 |
+| Rush Hour | 2.00% | ~2,559 |
+| To Grandmother's House | 2.00% | ~2,559 |
+| FNG | 2.00% | ~2,559 |
 | Ploughshares to Swords | 2.00% | ~56 |
 | Friends 'Til the End | 2.00% | ~56 |
 | Unleash Hell | 1.00% | ~1,279 |
@@ -53,9 +53,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 0.90% | ~1,151 |
 | When You Want Something Done Right | 0.90% | ~1,151 |
 | Utopia | 0.90% | ~1,151 |
-| Hope Rekindled | 0.70% | ~895 |
-| Ichthyophobic | 0.70% | ~895 |
-| No More Mouths to Feed | 0.70% | ~895 |
+| Hope Rekindled | 0.70% | ~896 |
+| Ichthyophobic | 0.70% | ~896 |
+| No More Mouths to Feed | 0.70% | ~896 |
 | This Looks Familiar | 0.60% | ~768 |
 | Hot Air | 0.60% | ~768 |
 | Eyes Up | 0.60% | ~768 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 | On This Long Road, We Found Redemption | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,919 (Ranked 85)  
+Progressed: 127,934 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 3 (0.00%) (Ranked 379)
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
-| 2023-12-17 | 127,919 | 3 |
+| 2023-12-17 | 127,934 | 3 |
 ## Awards
 Max (Character Customization): 7,744  (Ranked 51)  
 Sum: 20,608 (Ranked 58)  

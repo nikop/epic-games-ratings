@@ -5,44 +5,44 @@ Rating: 4.18 (Ranked 946)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~39,216 |
-| Har, Har, Har, Very Funny | 34.00% | ~26,667 |
-| Loose Ends | 33.00% | ~25,883 |
-| To the Victor Go the Spoils | 28.00% | ~21,961 |
-| Knighthood | 27.00% | ~21,177 |
-| Get ReQ'd | 25.00% | ~19,608 |
-| Whispered Words | 24.00% | ~18,824 |
-| The Batman Family | 22.00% | ~17,255 |
-| Lock and Key | 22.00% | ~17,255 |
-| Something in the Clay | 21.00% | ~16,471 |
-| Quartzer Life Crisis | 20.00% | ~15,686 |
-| Working Hard or Harley Working? | 20.00% | ~15,686 |
-| Unstoppable Force | 20.00% | ~15,686 |
-| Bad Apples in Every Orchard | 20.00% | ~15,686 |
-| Snow Problem | 19.00% | ~14,902 |
-| The Show Mud Go On | 18.00% | ~14,118 |
-| From Inside Gotham's Walls | 18.00% | ~14,118 |
-| Protector of Gotham | 16.00% | ~12,549 |
-| Universal Health Scare | 16.00% | ~12,549 |
-| In Your Element | 15.00% | ~11,765 |
-| Voiceless | 15.00% | ~11,765 |
-| Rock and a Hard Place | 14.00% | ~10,980 |
-| Cooldown | 14.00% | ~10,980 |
-| Seeking Asylum | 14.00% | ~10,980 |
-| Not On My Watch | 13.00% | ~10,196 |
-| Shock Til They Drop | 13.00% | ~10,196 |
-| End of an Era | 12.00% | ~9,412 |
-| Bulldozed | 12.00% | ~9,412 |
-| Gotham Knight | 12.00% | ~9,412 |
+| First Step Into the Knight | 50.00% | ~39,219 |
+| Har, Har, Har, Very Funny | 34.00% | ~26,669 |
+| Loose Ends | 33.00% | ~25,885 |
+| To the Victor Go the Spoils | 28.00% | ~21,963 |
+| Knighthood | 27.00% | ~21,178 |
+| Get ReQ'd | 25.00% | ~19,610 |
+| Whispered Words | 24.00% | ~18,825 |
+| The Batman Family | 22.00% | ~17,256 |
+| Lock and Key | 22.00% | ~17,256 |
+| Something in the Clay | 21.00% | ~16,472 |
+| Quartzer Life Crisis | 20.00% | ~15,688 |
+| Working Hard or Harley Working? | 20.00% | ~15,688 |
+| Unstoppable Force | 20.00% | ~15,688 |
+| Bad Apples in Every Orchard | 20.00% | ~15,688 |
+| Snow Problem | 19.00% | ~14,903 |
+| The Show Mud Go On | 18.00% | ~14,119 |
+| From Inside Gotham's Walls | 17.00% | ~13,334 |
+| Protector of Gotham | 16.00% | ~12,550 |
+| Universal Health Scare | 16.00% | ~12,550 |
+| In Your Element | 15.00% | ~11,766 |
+| Voiceless | 15.00% | ~11,766 |
+| Rock and a Hard Place | 14.00% | ~10,981 |
+| Cooldown | 14.00% | ~10,981 |
+| Seeking Asylum | 14.00% | ~10,981 |
+| Not On My Watch | 13.00% | ~10,197 |
+| Shock Til They Drop | 13.00% | ~10,197 |
+| End of an Era | 12.00% | ~9,413 |
+| Bulldozed | 12.00% | ~9,413 |
+| Gotham Knight | 12.00% | ~9,413 |
 | Gotham City Confidential | 11.00% | ~8,628 |
-| Drone You Out | 10.00% | ~7,843 |
+| Drone You Out | 10.00% | ~7,844 |
 | Out of Their League | 9.00% | ~7,059 |
 | Solid Alibi | 9.00% | ~7,059 |
-| Fusion Expert | 7.00% | ~5,490 |
+| Fusion Expert | 7.00% | ~5,491 |
 | Family Meeting | 6.00% | ~4,706 |
 | A Worthy Successor | 6.00% | ~4,706 |
 | Expert Crime Fighter | 5.00% | ~3,922 |
-| Dressed to Impress | 4.00% | ~3,137 |
+| Dressed to Impress | 4.00% | ~3,138 |
 | A Momentum Occasion | 3.00% | ~2,353 |
 | Bat Out of Hell | 3.00% | ~2,353 |
 | Practice Makes Perfect | 2.00% | ~1,569 |
@@ -52,7 +52,7 @@ Rating: 4.18 (Ranked 946)
 | Batarang Collector | 1.00% | ~784 |
 | Claiming the Mural High Ground | 1.00% | ~784 |
 | Icebreaker | 0.80% | ~390 |
-| History Major | 0.80% | ~627 |
+| History Major | 0.80% | ~628 |
 | A Sophisticated Mallet | 0.80% | ~390 |
 | Read Owl About It | 0.70% | ~549 |
 | Gotham's Greatest Depths | 0.60% | ~292 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 946)
 | Element of Surprise | 0.20% | ~97 |
 | It's Nice to Be Wanted | 0.20% | ~97 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,432 (Ranked 101)  
+Progressed: 78,438 (Ranked 101)  
 Completed: 126 (0.16%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 126 (0.16%) (Ranked 277)
 | 2023-12-14 | 78,083 | 126 |
 | 2023-12-15 | 78,220 | 126 |
 | 2023-12-16 | 78,368 | 126 |
-| 2023-12-17 | 78,432 | 126 |
+| 2023-12-17 | 78,438 | 126 |
 ## Awards
 Max (Great Boss Battles): 3,013  (Ranked 98)  
 Sum: 5,155 (Ranked 142)  

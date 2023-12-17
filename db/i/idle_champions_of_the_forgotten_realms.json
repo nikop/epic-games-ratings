@@ -8809,9 +8809,9 @@
       "Count": 3578
     }
   ],
-  "EOS_Progressed": 241296,
+  "EOS_Progressed": 241311,
   "EOS_Completed": 2537,
-  "EOS_NewPlayers": 2098,
+  "EOS_NewPlayers": 2107,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -35964,6 +35964,11 @@
       "Time": "2023-12-17T07:09:36.3128806+00:00",
       "NumProgressed": 241296,
       "NumCompleted": 2537
+    },
+    {
+      "Time": "2023-12-17T08:10:06.802208+00:00",
+      "NumProgressed": 241311,
+      "NumCompleted": 2537
     }
   ],
   "TotalAchievements": 546,
@@ -35975,7 +35980,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "objective_completed_10",
@@ -39117,9 +39122,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 483
     },
     {
       "ID": "objective_completed_70",
@@ -40263,7 +40268,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "objective_completed_1558",
@@ -40342,21 +40347,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 207570,
-      "Completed": 4019
+      "Progressed": 207585,
+      "Completed": 4020
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 241296,
+      "Progressed": 241311,
       "Completed": 2537
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-16T17:58:39.7152074+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:09:36.3128804+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:10:06.8022075+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:58:56.0454596+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:09:36.3152214+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:59:05.3748045+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:10:06.804633+00:00"
 }

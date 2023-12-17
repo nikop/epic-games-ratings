@@ -221,9 +221,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89788,
+  "EOS_Progressed": 89789,
   "EOS_Completed": 305,
-  "EOS_NewPlayers": 681,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -14581,6 +14581,11 @@
       "Time": "2023-12-17T07:03:47.4325009+00:00",
       "NumProgressed": 89788,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2023-12-17T08:03:48.3619006+00:00",
+      "NumProgressed": 89789,
+      "NumCompleted": 305
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -14593,7 +14598,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 71830
+      "UsersEstimate": 71831
     },
     {
       "ID": "grp_beet",
@@ -14601,7 +14606,7 @@
       "Name": "The early bird gets the beet",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 18855
+      "UsersEstimate": 18856
     },
     {
       "ID": "grp_collect_ruby",
@@ -14609,7 +14614,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 69137
+      "UsersEstimate": 69138
     },
     {
       "ID": "grp_endless",
@@ -14689,7 +14694,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 66443
+      "UsersEstimate": 66444
     },
     {
       "ID": "grp_speed",
@@ -14697,7 +14702,7 @@
       "Name": "As the dodo flies",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 42200
+      "UsersEstimate": 42201
     },
     {
       "ID": "grp_stone",
@@ -14728,7 +14733,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 89788,
+      "Progressed": 89789,
       "Completed": 305
     }
   ],
@@ -14736,8 +14741,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-12-16T14:00:50.6822682+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:03:47.4325007+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:03:48.3619004+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:08.8356638+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:57:17.5473071+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:03:47.4325723+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:57:24.7270946+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:03:48.3619665+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 398092,
+  "EOS_Progressed": 398094,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2914,
+  "EOS_NewPlayers": 2901,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12252,6 +12252,11 @@
       "Time": "2023-12-17T07:04:52.8081047+00:00",
       "NumProgressed": 398092,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T08:04:53.9268589+00:00",
+      "NumProgressed": 398094,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -12360,7 +12365,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 222932
+      "UsersEstimate": 222933
     },
     {
       "ID": "kills_100",
@@ -12511,13 +12516,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 398092,
+      "Progressed": 398094,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:04:52.8081044+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:04:53.9268586+00:00",
   "LastUpdate_AppInfo": "2023-12-13T18:57:11.3093741+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:00:02.3104622+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:04:52.8081626+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:00:12.0045528+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:04:53.9269149+00:00"
 }

@@ -1530,9 +1530,9 @@
       "ID": "SUB_CLEAR_ISLAND2",
       "SetID": "apihg0e",
       "Name": "Ares Island Expert",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 14
     },
     {
       "ID": "SUB_CLEAR_ISLAND3",
@@ -1569,8 +1569,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:04:55.8399329+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:04:56.8605255+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:06.567221+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:02:52.9515225+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:04:55.839956+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:03:02.5038482+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:04:56.8605568+00:00"
 }

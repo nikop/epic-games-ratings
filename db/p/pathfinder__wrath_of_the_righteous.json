@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4619,9 +4619,9 @@
       "Count": 401
     }
   ],
-  "EOS_Progressed": 12424,
+  "EOS_Progressed": 12425,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17144,6 +17144,11 @@
       "Time": "2023-12-17T07:09:27.6664784+00:00",
       "NumProgressed": 12424,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T08:09:58.5228006+00:00",
+      "NumProgressed": 12425,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17155,7 +17160,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3354
+      "UsersEstimate": 3355
     },
     {
       "ID": "02_BurningCity",
@@ -17171,7 +17176,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1740
     },
     {
       "ID": "04_FithCrusade",
@@ -17363,7 +17368,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "29_StrategicVictory",
@@ -17507,7 +17512,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -18082,21 +18087,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11206,
+      "Progressed": 11207,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12424,
+      "Progressed": 12425,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-17T00:00:07.3191372+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:09:27.6664782+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:09:58.5228003+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:59:30.5751688+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:09:27.6666345+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:59:40.2368789+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:09:58.5229679+00:00"
 }

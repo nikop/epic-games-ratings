@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,679 |
-| Basic in Bulk | 8.00% | ~11,679 |
-| Titan's First Steps | 8.00% | ~11,679 |
-| Tinkle of Coins | 7.00% | ~10,219 |
+| Sponsored by Argon | 8.00% | ~11,680 |
+| Basic in Bulk | 8.00% | ~11,680 |
+| Titan's First Steps | 8.00% | ~11,680 |
+| Tinkle of Coins | 7.00% | ~10,220 |
 | Disintermediation | 6.00% | ~8,760 |
 | Capitalism Ho! | 6.00% | ~8,760 |
 | Another Satisfied Customer | 5.00% | ~7,300 |
@@ -33,12 +33,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | Efficient Floor Space | 3.00% | ~4,380 |
 | Gem Expert | 3.00% | ~4,380 |
 | Gild-Gotten Goods | 3.00% | ~4,380 |
+| Helping Hand | 3.00% | ~4,380 |
 | Accomplished Merchant | 3.00% | ~4,380 |
 | Dungeon Imports | 3.00% | ~4,380 |
 | Did we pack lunch? | 3.00% | ~4,380 |
 | Arcane Industries | 3.00% | ~4,380 |
 | A Notch Above the Rest | 2.00% | ~2,920 |
 | Cream of the Crop | 2.00% | ~2,920 |
+| Top of the World | 2.00% | ~2,920 |
 | Proud Paladin | 2.00% | ~2,920 |
 | Above the Norm | 2.00% | ~2,920 |
 | A Ronin Reborn | 2.00% | ~2,920 |
@@ -71,7 +73,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 2.00% | ~2,920 |
 | Mammonite | 2.00% | ~2,920 |
 | Wealth Beyond Measure | 2.00% | ~2,920 |
-| Helping Hand | 2.00% | ~2,920 |
 | Fat Cat Tag Team | 2.00% | ~2,920 |
 | Necromancer Queen | 2.00% | ~2,920 |
 | Item of Renown | 2.00% | ~2,920 |
@@ -86,6 +87,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Attrition Mission | 2.00% | ~2,920 |
 | Glittering Collection | 2.00% | ~2,920 |
 | Treasure Trove | 2.00% | ~2,920 |
+| Moment of Respite | 2.00% | ~2,920 |
 | Black Friday Special | 2.00% | ~2,920 |
 | Master Recycler | 2.00% | ~2,920 |
 | Magical Harmony | 2.00% | ~2,920 |
@@ -94,7 +96,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 2.00% | ~2,920 |
 | Complete Monopoly | 2.00% | ~2,920 |
 | King's Blade | 2.00% | ~2,920 |
-| Top of the World | 1.00% | ~1,460 |
 | Constellated | 1.00% | ~1,460 |
 | The Free Encyclopedia | 1.00% | ~1,460 |
 | Fillin' the Bin | 1.00% | ~1,460 |
@@ -102,7 +103,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thank You Tom Nook | 1.00% | ~1,460 |
 | Jackpot! | 1.00% | ~1,460 |
 | Eternal Crusade | 1.00% | ~1,460 |
-| Moment of Respite | 1.00% | ~1,460 |
 | King's Shadow | 1.00% | ~1,460 |
 | Economy of Scarce | 1.00% | ~1,460 |
 | The Greatest Grind | 0.80% | ~1,168 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~584 |
 | Capitalist Camaraderie | 0.20% | ~292 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,992 (Ranked 80)  
+Progressed: 146,000 (Ranked 80)  
 Completed: 319 (0.22%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -360,7 +360,7 @@ Completed: 319 (0.22%) (Ranked 259)
 | 2023-12-14 | 145,474 | 307 |
 | 2023-12-15 | 145,699 | 316 |
 | 2023-12-16 | 145,933 | 319 |
-| 2023-12-17 | 145,992 | 319 |
+| 2023-12-17 | 146,000 | 319 |
 ## Awards
 Max (Great for Beginners): 4,896  (Ranked 75)  
 Sum: 27,754 (Ranked 51)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -244,9 +244,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 42174,
+  "EOS_Progressed": 42177,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -26369,6 +26369,11 @@
       "Time": "2023-12-17T07:05:29.1067539+00:00",
       "NumProgressed": 42174,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-12-17T08:05:30.0582152+00:00",
+      "NumProgressed": 42177,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 29,
@@ -26420,7 +26425,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -26492,7 +26497,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -26532,7 +26537,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -26540,7 +26545,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -26611,7 +26616,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 42174,
+      "Progressed": 42177,
       "Completed": 29
     }
   ],
@@ -26619,8 +26624,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-02T18:57:45.107059+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:05:29.1067537+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:05:30.0582147+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:31.5071316+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:58:08.7622668+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:05:29.1068727+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:58:16.50824+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:05:30.0583306+00:00"
 }

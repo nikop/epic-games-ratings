@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -961,9 +961,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7074,
+  "EOS_Progressed": 7077,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11351,6 +11351,11 @@
       "Time": "2023-12-17T07:04:58.9085027+00:00",
       "NumProgressed": 7074,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T08:04:59.9376814+00:00",
+      "NumProgressed": 7077,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11370,7 +11375,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -11402,7 +11407,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -11418,7 +11423,7 @@
       "Name": "Scaling up",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -11434,7 +11439,7 @@
       "Name": "License to Gill",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -11466,7 +11471,7 @@
       "Name": "Goldfish?",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -11474,7 +11479,7 @@
       "Name": "Going for Gold",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -11482,7 +11487,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -11681,13 +11686,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7074,
+      "Progressed": 7077,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6446,
+      "Progressed": 6449,
       "Completed": 113
     }
   ],
@@ -11695,8 +11700,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-15T01:46:12.7842715+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:04:58.9085024+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:04:59.9376811+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:58:38.6538908+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:04:58.9085675+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:58:46.8040601+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:04:59.9377382+00:00"
 }

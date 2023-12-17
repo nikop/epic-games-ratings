@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116922,
+  "EOS_Progressed": 116924,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 620,
+  "EOS_NewPlayers": 618,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21559,6 +21559,11 @@
       "Time": "2023-12-17T07:09:20.0676409+00:00",
       "NumProgressed": 116922,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-17T08:09:50.885338+00:00",
+      "NumProgressed": 116924,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 49,
@@ -21578,7 +21583,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 90030
+      "UsersEstimate": 90031
     },
     {
       "ID": "EAwards_10",
@@ -21602,7 +21607,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17538
+      "UsersEstimate": 17539
     },
     {
       "ID": "EAwards_13",
@@ -21642,7 +21647,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43261
+      "UsersEstimate": 43262
     },
     {
       "ID": "EAwards_18",
@@ -21666,7 +21671,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 57292
+      "UsersEstimate": 57293
     },
     {
       "ID": "EAwards_20",
@@ -21674,7 +21679,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12861
+      "UsersEstimate": 12862
     },
     {
       "ID": "EAwards_21",
@@ -21714,7 +21719,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22215
+      "UsersEstimate": 22216
     },
     {
       "ID": "EAwards_26",
@@ -21722,7 +21727,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12861
+      "UsersEstimate": 12862
     },
     {
       "ID": "EAwards_27",
@@ -21754,7 +21759,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23384
+      "UsersEstimate": 23385
     },
     {
       "ID": "EAwards_30",
@@ -21770,7 +21775,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12861
+      "UsersEstimate": 12862
     },
     {
       "ID": "EAwards_32",
@@ -21954,14 +21959,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12861
+      "UsersEstimate": 12862
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116922,
+      "Progressed": 116924,
       "Completed": 53
     }
   ],
@@ -21969,8 +21974,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:09:20.0676407+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:09:50.8853374+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:07.3909986+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:57:33.6043218+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:09:20.067799+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:57:40.8241326+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:09:50.8854482+00:00"
 }

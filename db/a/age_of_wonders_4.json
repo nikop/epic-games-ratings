@@ -6,9 +6,9 @@
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 190,
-  "Ranking_EOS_Completed": 290,
+  "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5766,
+  "EOS_Progressed": 5767,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8255,6 +8255,11 @@
       "Time": "2023-12-17T06:03:45.0328667+00:00",
       "NumProgressed": 5766,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-17T08:03:45.1126717+00:00",
+      "NumProgressed": 5767,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8616,9 +8621,9 @@
       "ID": "45",
       "SetID": "7132754",
       "Name": "Here be Dragons",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 115
     },
     {
       "ID": "46",
@@ -8745,13 +8750,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5766,
+      "Progressed": 5767,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5766,
+      "Progressed": 5767,
       "Completed": 7
     }
   ],
@@ -8759,8 +8764,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:03:44.1093679+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:03:45.1126713+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:58:18.7914465+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:03:44.1094412+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:58:27.1458822+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:03:45.1127426+00:00"
 }

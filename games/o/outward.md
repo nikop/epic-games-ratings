@@ -1,42 +1,42 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 515)  
+Rating: 4.55 (Ranked 516)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,962 |
-| Ready for Winter | 64.00% | ~2,528 |
-| Ready for Summer | 51.00% | ~2,014 |
-| Cordon Bleu | 43.00% | ~1,698 |
-| Tapped! | 37.00% | ~1,462 |
-| Eureka | 32.00% | ~1,264 |
-| Scourge Slayer | 26.00% | ~1,027 |
-| Science, Troglodyte! | 23.00% | ~908 |
-| Exceptional Skill | 22.00% | ~869 |
-| Home Sweet Home | 22.00% | ~869 |
-| Encyclopedic! | 19.00% | ~750 |
+| Venture Outward | 75.00% | ~2,966 |
+| Ready for Winter | 64.00% | ~2,531 |
+| Ready for Summer | 51.00% | ~2,017 |
+| Cordon Bleu | 43.00% | ~1,700 |
+| Tapped! | 37.00% | ~1,463 |
+| Eureka | 32.00% | ~1,265 |
+| Scourge Slayer | 25.00% | ~988 |
+| Science, Troglodyte! | 23.00% | ~909 |
+| Exceptional Skill | 22.00% | ~870 |
+| Home Sweet Home | 22.00% | ~870 |
+| Encyclopedic! | 19.00% | ~751 |
 | The Power of Family | 17.00% | ~672 |
-| A Fortress Toppled! | 16.00% | ~632 |
-| Apex Predator | 16.00% | ~632 |
+| A Fortress Toppled! | 16.00% | ~633 |
+| Apex Predator | 16.00% | ~633 |
 | Strange amalgams | 12.00% | ~474 |
 | The Power of Faith | 12.00% | ~474 |
 | The Power of Freedom | 10.00% | ~395 |
 | Ace Detective | 8.00% | ~316 |
 | Gift from the Ancestors | 8.00% | ~316 |
 | Magic is a science | 8.00% | ~316 |
-| House of Cards | 7.00% | ~276 |
-| Let ‘em eat magma! | 7.00% | ~276 |
-| The power of ambition | 7.00% | ~276 |
+| House of Cards | 7.00% | ~277 |
+| Let ‘em eat magma! | 7.00% | ~277 |
+| The power of ambition | 7.00% | ~277 |
 | Blood and justice | 6.00% | ~237 |
 | Hold my Mead and Watch This | 6.00% | ~237 |
 | The stuff of legends. | 6.00% | ~237 |
 | Ancestor's Pride | 4.00% | ~158 |
 | For All Aurai | 4.00% | ~158 |
 | Memory of a legend | 4.00% | ~158 |
-| Light of Levant | 3.00% | ~118 |
-| This was a mistake... | 3.00% | ~118 |
+| Light of Levant | 3.00% | ~119 |
+| This was a mistake... | 3.00% | ~119 |
 | Crowd Pleaser. | 2.00% | ~79 |
 | Perfect Defense | 2.00% | ~79 |
 | Power! To! The People! | 2.00% | ~79 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~16 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,950 (Ranked 205)  
+Progressed: 3,954 (Ranked 205)  
 Completed: 5 (0.13%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 5 (0.13%) (Ranked 285)
 | 2023-12-14 | 3,790 | 4 |
 | 2023-12-15 | 3,863 | 5 |
 | 2023-12-16 | 3,940 | 5 |
-| 2023-12-17 | 3,950 | 5 |
+| 2023-12-17 | 3,954 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 483)  
 Sum: 246 (Ranked 388)  

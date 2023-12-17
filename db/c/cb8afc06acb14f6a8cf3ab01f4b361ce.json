@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 43,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -425,9 +425,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 330196,
+  "EOS_Progressed": 330223,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3500,
+  "EOS_NewPlayers": 3510,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9915,6 +9915,11 @@
       "Time": "2023-12-17T07:04:09.3979037+00:00",
       "NumProgressed": 330196,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-17T08:04:10.2405115+00:00",
+      "NumProgressed": 330223,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9927,7 +9932,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9906
+      "UsersEstimate": 9907
     },
     {
       "ID": "S02_BRDA",
@@ -9951,7 +9956,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2311
+      "UsersEstimate": 2312
     },
     {
       "ID": "S05_SWRA",
@@ -10063,7 +10068,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9906
+      "UsersEstimate": 9907
     },
     {
       "ID": "S19_CHALLENGES",
@@ -10119,7 +10124,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2311
+      "UsersEstimate": 2312
     },
     {
       "ID": "S26_CRTA",
@@ -10246,7 +10251,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 330196,
+      "Progressed": 330223,
       "Completed": 5
     }
   ],
@@ -10254,8 +10259,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-16T11:59:39.7470392+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:04:09.3979034+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:04:10.2405113+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:59:05.1764377+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:04:09.3979874+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:59:14.4798086+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:04:10.2405697+00:00"
 }

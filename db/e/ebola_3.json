@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 489,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 287,
+  "EOS_Progressed": 288,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1231,6 +1231,11 @@
       "Time": "2023-12-15T07:10:39.1171664+00:00",
       "NumProgressed": 287,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T08:10:01.6315657+00:00",
+      "NumProgressed": 288,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1434,7 +1439,7 @@
       "Name": "Group Alpha \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achKloyn",
@@ -1442,7 +1447,7 @@
       "Name": "Fright \u2714",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "achLizun",
@@ -1450,7 +1455,7 @@
       "Name": "Mutant fight \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achLizunTwo",
@@ -1458,7 +1463,7 @@
       "Name": "Mutant run \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achMaikl",
@@ -1474,7 +1479,7 @@
       "Name": "Sheriff \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achOsipovTwo",
@@ -1490,7 +1495,7 @@
       "Name": "City on fire \u2714",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achPlotThree",
@@ -1514,7 +1519,7 @@
       "Name": "Police officers \u2714",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "achPriest",
@@ -1522,7 +1527,7 @@
       "Name": "Priest \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achRankOne",
@@ -1626,7 +1631,7 @@
       "Name": "Weapon \u2714",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "achWorms",
@@ -1641,7 +1646,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 287,
+      "Progressed": 288,
       "Completed": 0
     }
   ],
@@ -1649,8 +1654,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:09:30.6986991+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:10:01.6315652+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:04.7149129+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:59:23.3024405+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:09:30.6987293+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:59:33.3975165+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:10:01.6316064+00:00"
 }

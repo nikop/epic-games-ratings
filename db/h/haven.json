@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1610,
+  "EOS_Progressed": 1611,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2478,6 +2478,11 @@
       "Time": "2023-12-17T06:03:35.8243466+00:00",
       "NumProgressed": 1610,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-17T08:03:35.7250123+00:00",
+      "NumProgressed": 1611,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2601,7 +2606,7 @@
       "Name": "Can\u0027t get wetter...",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "23",
@@ -2649,7 +2654,7 @@
       "Name": "Hug therapy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "30",
@@ -2673,7 +2678,7 @@
       "Name": "Spring cleaning",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "4",
@@ -2689,7 +2694,7 @@
       "Name": "An eye for an eye",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "6",
@@ -2697,7 +2702,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "7",
@@ -2728,15 +2733,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1610,
+      "Progressed": 1611,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:03:34.8260938+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:03:35.7250121+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.3116727+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:57:31.6126323+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:03:34.8261163+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:57:38.8610182+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:03:35.7250452+00:00"
 }

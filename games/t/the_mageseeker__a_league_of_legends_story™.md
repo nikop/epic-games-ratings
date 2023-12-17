@@ -1,45 +1,45 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.81 (Ranked 86)  
+Rating: 4.81 (Ranked 85)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,672 |
-| No more cages! | 91.00% | ~2,560 |
-| Everfrost | 78.00% | ~2,194 |
-| Pentakill | 77.00% | ~2,166 |
-| Dark Forest | 77.00% | ~2,166 |
-| The use of petricite | 74.00% | ~2,082 |
-| You can pet the dog | 61.00% | ~1,716 |
-| Thornbarrow | 40.00% | ~1,125 |
-| Big Helmet Bro | 39.00% | ~1,097 |
-| Clarion Cove | 38.00% | ~1,069 |
-| Past trauma | 37.00% | ~1,041 |
+| For Demacia | 95.00% | ~2,674 |
+| No more cages! | 91.00% | ~2,562 |
+| Everfrost | 78.00% | ~2,196 |
+| Pentakill | 77.00% | ~2,168 |
+| Dark Forest | 77.00% | ~2,168 |
+| The use of petricite | 74.00% | ~2,083 |
+| You can pet the dog | 61.00% | ~1,717 |
+| Thornbarrow | 40.00% | ~1,126 |
+| Big Helmet Bro | 39.00% | ~1,098 |
+| Clarion Cove | 38.00% | ~1,070 |
+| Past trauma | 37.00% | ~1,042 |
 | Elemental master | 36.00% | ~1,013 |
 | Ternmoat Headquarters | 36.00% | ~1,013 |
-| Cypress Glen Headquarters | 33.00% | ~928 |
-| Petricite Burst | 33.00% | ~928 |
-| Old friend | 31.00% | ~872 |
+| Cypress Glen Headquarters | 33.00% | ~929 |
+| Petricite Burst | 33.00% | ~929 |
+| Old friend | 31.00% | ~873 |
 | Hijack | 30.00% | ~844 |
 | Devineur | 30.00% | ~844 |
 | Whispers in the Woods I | 27.00% | ~760 |
-| I chose my shackles | 26.00% | ~731 |
-| Ancient power | 26.00% | ~731 |
-| Sacred Woods | 24.00% | ~675 |
+| I chose my shackles | 26.00% | ~732 |
+| Ancient power | 26.00% | ~732 |
+| Sacred Woods | 24.00% | ~676 |
 | Little light | 23.00% | ~647 |
 | Capelworth | 23.00% | ~647 |
 | Full equipped | 23.00% | ~647 |
 | Glyndemere | 22.00% | ~619 |
 | Iffighain Headquarters | 22.00% | ~619 |
-| Whispers in the Woods II | 19.00% | ~534 |
-| Quickmoore Headquarters | 19.00% | ~534 |
-| No more holding back | 18.00% | ~506 |
-| Terbisia | 18.00% | ~506 |
-| Whispers in the Woods III | 17.00% | ~478 |
-| Friendly fire | 17.00% | ~478 |
-| True power | 17.00% | ~478 |
-| The Central Headquarters | 17.00% | ~478 |
+| Whispers in the Woods II | 19.00% | ~535 |
+| Quickmoore Headquarters | 19.00% | ~535 |
+| No more holding back | 18.00% | ~507 |
+| Terbisia | 18.00% | ~507 |
+| Whispers in the Woods III | 17.00% | ~479 |
+| Friendly fire | 17.00% | ~479 |
+| True power | 17.00% | ~479 |
+| The Central Headquarters | 17.00% | ~479 |
 | My heart and sword always for Demacia | 16.00% | ~450 |
 | Meltridge | 16.00% | ~450 |
 | Cloven Dell Headquarters | 16.00% | ~450 |
@@ -52,14 +52,14 @@ Rating: 4.81 (Ranked 86)
 | Call it 'redistribution of magic | 13.00% | ~366 |
 | Do you trust me? | 12.00% | ~338 |
 | Back to sleep, then... | 12.00% | ~338 |
-| Chains master | 11.00% | ~309 |
-| The great mage rebellion starts now | 11.00% | ~309 |
-| You can pet the... horse | 11.00% | ~309 |
-| Spellcrafting | 10.00% | ~281 |
+| Chains master | 11.00% | ~310 |
+| The great mage rebellion starts now | 11.00% | ~310 |
+| You can pet the... horse | 11.00% | ~310 |
+| Spellcrafting | 10.00% | ~282 |
 | Silverwing nest | 2.00% | ~56 |
 | The Unshackled | 1.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,813 (Ranked 218)  
+Progressed: 2,815 (Ranked 218)  
 Completed: 16 (0.57%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 16 (0.57%) (Ranked 200)
 | 2023-12-14 | 2,731 | 16 |
 | 2023-12-15 | 2,774 | 16 |
 | 2023-12-16 | 2,805 | 16 |
-| 2023-12-17 | 2,813 | 16 |
+| 2023-12-17 | 2,815 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

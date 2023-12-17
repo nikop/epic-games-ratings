@@ -23,9 +23,9 @@ Number of Ratings: 45  (23.09.2022)
 | Thematic Divergence | 1.00% | ~15 |
 | Pyrrhic Victory | 1.00% | ~15 |
 | Echoes Die | 1.00% | ~15 |
-| Turncoat | 0.90% | ~14 |
 | Another Tale to Tell | 0.80% | ~12 |
 | A Story of Heroes | 0.80% | ~12 |
+| Turncoat | 0.80% | ~12 |
 | Legends Never Die | 0.70% | ~11 |
 | No Time for Clawmonsters | 0.70% | ~11 |
 | Chain Reaction | 0.60% | ~9 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,529 (Ranked 246)  
+Progressed: 1,530 (Ranked 246)  
 Completed: 6 (0.39%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 6 (0.39%) (Ranked 226)
 | 2023-12-14 | 1,523 | 6 |
 | 2023-12-15 | 1,526 | 6 |
 | 2023-12-16 | 1,527 | 6 |
-| 2023-12-17 | 1,529 | 6 |
+| 2023-12-17 | 1,530 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 506)  
 Sum: 29 (Ranked 523)  

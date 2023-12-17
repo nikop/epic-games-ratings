@@ -3,9 +3,9 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 298,
-  "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_Completed": 217,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 663,
+  "EOS_Progressed": 668,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -1495,6 +1495,11 @@
       "Time": "2023-12-17T07:09:29.0125675+00:00",
       "NumProgressed": 663,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T08:09:59.922228+00:00",
+      "NumProgressed": 668,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1506,7 +1511,7 @@
       "Name": "Break Out",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_02",
@@ -1522,7 +1527,7 @@
       "Name": "Powerful Allies",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_04",
@@ -1560,9 +1565,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_09",
@@ -1578,13 +1583,13 @@
       "Name": "Trinity",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_11",
       "SetID": "efe2lj",
       "Name": "Forgemaster",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 40,
       "UsersEstimate": 5
     },
@@ -1666,7 +1671,7 @@
       "Name": "Big Bazar",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_22",
@@ -1682,7 +1687,7 @@
       "Name": "Geared Up",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_24",
@@ -1722,13 +1727,13 @@
       "Name": "I Found It",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_29",
       "SetID": "efe2lj",
       "Name": "All That Gold",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 60,
       "UsersEstimate": 5
     },
@@ -1768,7 +1773,7 @@
       "ID": "ACH_35",
       "SetID": "efe2lj",
       "Name": "Feeling Fancy",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -1776,9 +1781,9 @@
       "ID": "ACH_36",
       "SetID": "efe2lj",
       "Name": "A Queen\u0027s Tale",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_38",
@@ -1793,14 +1798,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 663,
+      "Progressed": 668,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:09:29.0125673+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:09:59.9222276+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:59:08.9154814+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:09:29.0125914+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:59:19.4069655+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:09:59.9222609+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Astalon -Tears of the Earth-",
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 491,
-  "Ranking_EOS_Completed": 86,
+  "Ranking_EOS_Completed": 87,
   "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -284,9 +284,9 @@
       "ID": "Defeat_1000_Enemies",
       "SetID": "4f0g260",
       "Name": "Monster Hunt",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Defeat_5000_Enemies",
@@ -397,8 +397,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:03:18.8619674+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:03:29.9795284+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:25.0046132+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:58:03.1742623+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:03:18.8619837+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:58:10.9780241+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:03:29.9795459+00:00"
 }

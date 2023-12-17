@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 521,
+  "EOS_Progressed": 523,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2143,6 +2143,11 @@
       "Time": "2023-12-17T07:08:07.7569277+00:00",
       "NumProgressed": 521,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T08:08:38.2208799+00:00",
+      "NumProgressed": 523,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2179,7 +2184,7 @@
       "Name": "Dressed For Success",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "AttackCount",
@@ -2363,7 +2368,7 @@
       "Name": "Multi Kill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "MultiplayerWins",
@@ -2435,7 +2440,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -2457,9 +2462,9 @@
       "ID": "TownCompletion",
       "SetID": "71c0n9i",
       "Name": "Landlord Extraordinaire",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 31
     },
     {
       "ID": "TrojanHorse",
@@ -2483,7 +2488,7 @@
       "Name": "Adept",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "WielderLevel2",
@@ -2491,7 +2496,7 @@
       "Name": "Veteran",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "WielderLevel3",
@@ -2539,7 +2544,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -2586,15 +2591,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 521,
+      "Progressed": 523,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:08:07.7569276+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:08:38.2208795+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:59:56.1065696+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:08:07.7569692+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:00:05.7737061+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:08:38.220924+00:00"
 }

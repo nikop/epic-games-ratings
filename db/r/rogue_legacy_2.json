@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 24922,
+  "EOS_Progressed": 24938,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1238,
+  "EOS_NewPlayers": 1254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -10820,6 +10820,11 @@
       "Time": "2023-12-17T07:09:09.9324171+00:00",
       "NumProgressed": 24922,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-17T08:09:40.3098899+00:00",
+      "NumProgressed": 24938,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10863,7 +10868,7 @@
       "Name": "Pillow Investments",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "AllScarsBronze",
@@ -10877,9 +10882,9 @@
       "ID": "AllSkills",
       "SetID": "3ojhj46",
       "Name": "Looks Familiar",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 150
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -10903,7 +10908,7 @@
       "Name": "For Glory",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "BossCastleDefeated",
@@ -10911,7 +10916,7 @@
       "Name": "Spells and Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -10959,7 +10964,7 @@
       "Name": "Harvest and Home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -10991,7 +10996,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -11007,7 +11012,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "BoxerBoss",
@@ -11023,7 +11028,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "EndTimerFail",
@@ -11142,21 +11147,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 24922,
+      "Progressed": 24938,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 3852,
+      "Progressed": 3868,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:09:09.9324169+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:09:40.3098895+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:59:57.294937+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:09:09.9324888+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:00:06.9287143+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:09:40.3099552+00:00"
 }

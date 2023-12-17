@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -2698,9 +2698,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 236
     },
     {
       "ID": "ChasingTheLight",
@@ -2954,9 +2954,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 123
     },
     {
       "ID": "SingleRod",
@@ -3034,9 +3034,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 195
     },
     {
       "ID": "TheThiefOfFire",
@@ -3050,9 +3050,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 246
     },
     {
       "ID": "TouchGrass",
@@ -3123,8 +3123,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:03:31.4210125+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:03:32.4056315+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:57:58.9559946+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:03:31.4210793+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:58:06.5667161+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:03:32.4056888+00:00"
 }

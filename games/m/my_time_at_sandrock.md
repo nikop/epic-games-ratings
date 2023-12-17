@@ -6,18 +6,18 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 222.00% | ~1,316 |
+| Adept Assembler | 223.00% | ~1,322 |
 | Iron Chef | 160.00% | ~949 |
 | Super Spelunker | 133.00% | ~789 |
 | Greeno-B-Gone | 125.00% | ~741 |
 | The Little Wood that Could | 116.00% | ~688 |
 | Your Especially Earned Trajectory | 103.00% | ~611 |
-| On that Grindset | 83.00% | ~492 |
+| On that Grindset | 84.00% | ~498 |
 | No Mountain Wide Enough | 83.00% | ~492 |
 | One of the Cool Kids | 83.00% | ~492 |
 | Yakmel Whisperer | 78.00% | ~463 |
+| I Do! | 77.00% | ~457 |
 | Pack Mule | 76.00% | ~451 |
-| I Do! | 76.00% | ~451 |
 | Diamonds are Forever | 75.00% | ~445 |
 | Can We Keep It? | 73.00% | ~433 |
 | First Love | 71.00% | ~421 |
@@ -27,14 +27,14 @@ Number of Ratings: 892  (23.09.2022)
 | Chatterbox | 66.00% | ~391 |
 | Big Game Hunter | 64.00% | ~380 |
 | Financially Secure | 64.00% | ~380 |
-| Better Late than Never | 63.00% | ~374 |
+| Better Late than Never | 64.00% | ~380 |
 | Got Served | 63.00% | ~374 |
 | Lifeline Pipeline | 62.00% | ~368 |
 | Builder of the Month | 61.00% | ~362 |
+| Mole Masher | 61.00% | ~362 |
 | Waste Not Want Not | 61.00% | ~362 |
 | Panda-kin | 60.00% | ~356 |
 | Anti-Santa | 60.00% | ~356 |
-| Mole Masher | 60.00% | ~356 |
 | Martle's Dream | 59.00% | ~350 |
 | Happier-est Place on Earth | 59.00% | ~350 |
 | You Don't Win Friends With Salad | 59.00% | ~350 |

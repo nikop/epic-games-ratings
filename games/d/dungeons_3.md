@@ -6,17 +6,17 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~30,623 |
+| The Shadow strikes | 70.00% | ~30,624 |
 | The Evilest Evil | 59.00% | ~25,811 |
-| Twistram is devastated | 58.00% | ~25,373 |
+| Twistram is devastated | 58.00% | ~25,374 |
 | The Gehenna Stones | 50.00% | ~21,874 |
-| No one has to die today! | 47.00% | ~20,561 |
+| No one has to die today! | 47.00% | ~20,562 |
 | Death and destruction! | 46.00% | ~20,124 |
 | The Swamplanders from the swamplands | 44.00% | ~19,249 |
-| The One-Huge-Army-Building Evil | 41.00% | ~17,936 |
-| Rusty Steel | 41.00% | ~17,936 |
+| The One-Huge-Army-Building Evil | 41.00% | ~17,937 |
+| Rusty Steel | 41.00% | ~17,937 |
 | Braiiiiins! | 38.00% | ~16,624 |
-| The last burger | 37.00% | ~16,186 |
+| The last burger | 37.00% | ~16,187 |
 | Hands off the Dungeonheart! | 36.00% | ~15,749 |
 | A trip on sea, what fun it can be | 34.00% | ~14,874 |
 | Damned good | 33.00% | ~14,437 |
@@ -30,16 +30,16 @@ Number of Ratings: 1,635  (23.09.2022)
 | Destroy the thing | 26.00% | ~11,374 |
 | Tide Master | 26.00% | ~11,374 |
 | Difficult family relationships | 25.00% | ~10,937 |
-| MASS-O-BOT | 24.00% | ~10,499 |
-| Prepare the grave | 24.00% | ~10,499 |
-| Angel of Fire | 24.00% | ~10,499 |
+| MASS-O-BOT | 24.00% | ~10,500 |
+| Prepare the grave | 24.00% | ~10,500 |
+| Angel of Fire | 24.00% | ~10,500 |
 | Where there is Light, there is Shadow | 23.00% | ~10,062 |
-| At the foot of Mount Destiny | 22.00% | ~9,624 |
+| At the foot of Mount Destiny | 22.00% | ~9,625 |
 | The Force disturbed | 21.00% | ~9,187 |
-| The Victorious Evil | 20.00% | ~8,749 |
+| The Victorious Evil | 20.00% | ~8,750 |
 | Chorus of damnation | 19.00% | ~8,312 |
 | We don’t have time! | 19.00% | ~8,312 |
-| The Stones’ Power | 18.00% | ~7,874 |
+| The Stones’ Power | 18.00% | ~7,875 |
 | Flat as a pancake | 17.00% | ~7,437 |
 | Lifeguard | 17.00% | ~7,437 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~6,562 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~875 |
 | Sacrifices! | 2.00% | ~875 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,747 (Ranked 122)  
+Progressed: 43,748 (Ranked 123)  
 Completed: 357 (0.82%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 357 (0.82%) (Ranked 184)
 | 2023-12-14 | 43,471 | 355 |
 | 2023-12-15 | 43,580 | 355 |
 | 2023-12-16 | 43,722 | 356 |
-| 2023-12-17 | 43,747 | 357 |
+| 2023-12-17 | 43,748 | 357 |
 ## Awards
 Max (Great for Beginners): 389  (Ranked 237)  
 Sum: 2,810 (Ranked 183)  

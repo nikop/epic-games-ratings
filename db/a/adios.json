@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -123,10 +123,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80843,
+  "EOS_Progressed": 80845,
   "EOS_Completed": 879,
-  "EOS_NewPlayers": 615,
-  "EOS_NewCompleters": 11,
+  "EOS_NewPlayers": 614,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
     {
@@ -26943,6 +26943,11 @@
       "Time": "2023-12-17T07:04:41.2481626+00:00",
       "NumProgressed": 80843,
       "NumCompleted": 879
+    },
+    {
+      "Time": "2023-12-17T08:04:42.0849692+00:00",
+      "NumProgressed": 80845,
+      "NumCompleted": 879
     }
   ],
   "TotalAchievements": 25,
@@ -26970,7 +26975,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15360
+      "UsersEstimate": 15361
     },
     {
       "ID": "Audiophile",
@@ -26986,7 +26991,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17785
+      "UsersEstimate": 17786
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -27074,7 +27079,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15360
+      "UsersEstimate": 15361
     },
     {
       "ID": "Nice Try",
@@ -27146,14 +27151,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6467
+      "UsersEstimate": 6468
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 80843,
+      "Progressed": 80845,
       "Completed": 879
     }
   ],
@@ -27161,8 +27166,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:04:41.2481623+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:04:42.084969+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.6719063+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:58:27.6304474+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:04:41.2483142+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:58:36.0775294+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:04:42.0850791+00:00"
 }

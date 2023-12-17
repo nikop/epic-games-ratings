@@ -6,13 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sigil | 0.60% | ~1,245 |
-| A Brief Tour of the Realms | 0.50% | ~1,206 |
+| Welcome to Sigil | 0.60% | ~1,246 |
+| A Brief Tour of the Realms | 0.50% | ~1,207 |
 | Fast Food | 0.50% | ~1,038 |
 | Misaligned in Sigil | 0.30% | ~623 |
 | The Overgrown Grove | 0.30% | ~623 |
 | Beast Intentions | 0.20% | ~483 |
 | The Cursed Farmer | 0.20% | ~483 |
+| The Mad Wizard | 0.20% | ~483 |
 | Chaos Theory | 0.20% | ~415 |
 | When Tentacles Attack | 0.20% | ~415 |
 | Flames of Avernus | 0.20% | ~415 |
@@ -408,7 +409,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~208 |
 | Mirage Arcane | 0.10% | ~208 |
 | Only Human | 0.10% | ~208 |
-| The Mad Wizard | 0.10% | ~241 |
 | Close Escort | 0.10% | ~241 |
 | Constant Banditry | 0.10% | ~241 |
 | The Long Haul | 0.10% | ~241 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Vrocks | 0.10% | ~208 |
 | Mind Spike | 0.10% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,296 (Ranked 65)  
+Progressed: 241,311 (Ranked 65)  
 Completed: 2,537 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -794,7 +794,7 @@ Completed: 2,537 (1.05%) (Ranked 168)
 | 2023-12-14 | 240,414 | 2,526 |
 | 2023-12-15 | 240,802 | 2,532 |
 | 2023-12-16 | 241,195 | 2,536 |
-| 2023-12-17 | 241,296 | 2,537 |
+| 2023-12-17 | 241,311 | 2,537 |
 ## Awards
 Max (Great for Beginners): 5,654  (Ranked 70)  
 Sum: 32,925 (Ranked 41)  

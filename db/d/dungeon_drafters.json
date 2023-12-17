@@ -4,8 +4,8 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104,
+  "EOS_Progressed": 105,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -511,6 +511,11 @@
       "Time": "2023-12-16T16:06:10.9262474+00:00",
       "NumProgressed": 104,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T08:06:18.8450987+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -536,7 +541,7 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 37
     },
@@ -712,9 +717,9 @@
       "ID": "any_curio",
       "SetID": "3b8n56h",
       "Name": "Might be useful\u2026",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 39
     },
     {
       "ID": "bad_ending",
@@ -762,7 +767,7 @@
       "Name": "Shine!",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "git_gud?",
@@ -841,7 +846,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 0
     }
   ],
@@ -849,8 +854,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:06:17.2206893+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:06:18.8450984+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:00.4120511+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:02:42.9634752+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:06:17.2207142+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:57:13.1243451+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:06:18.8451193+00:00"
 }

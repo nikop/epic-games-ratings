@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1449,9 +1449,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6446,
+  "EOS_Progressed": 6449,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14574,6 +14574,11 @@
       "Time": "2023-12-17T07:08:03.2293718+00:00",
       "NumProgressed": 6446,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T08:08:33.6338328+00:00",
+      "NumProgressed": 6449,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14681,7 +14686,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2836
+      "UsersEstimate": 2838
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -14689,7 +14694,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -14745,7 +14750,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4770
+      "UsersEstimate": 4772
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14769,7 +14774,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -14841,7 +14846,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2965
+      "UsersEstimate": 2967
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -14857,7 +14862,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2385
+      "UsersEstimate": 2386
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -14904,15 +14909,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6446,
+      "Progressed": 6449,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-16T18:58:39.8372052+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:08:03.2293716+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:08:33.6338323+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.7844638+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:58:48.272646+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:08:03.2294365+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:58:57.0214699+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:08:33.6339002+00:00"
 }

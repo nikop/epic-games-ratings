@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3530,
+  "EOS_Progressed": 3532,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6536,6 +6536,11 @@
       "Time": "2023-12-17T07:05:31.234205+00:00",
       "NumProgressed": 3530,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T08:05:32.2496594+00:00",
+      "NumProgressed": 3532,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6547,7 +6552,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "ACH_BASE_10",
@@ -6579,7 +6584,7 @@
       "Name": "Oats",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_BASE_15",
@@ -6603,7 +6608,7 @@
       "Name": "What They Hide From Us",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_BASE_18",
@@ -6611,7 +6616,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "ACH_BASE_19",
@@ -6619,7 +6624,7 @@
       "Name": "...  in a finite world",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_BASE_2",
@@ -6635,7 +6640,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "ACH_BASE_22",
@@ -6683,7 +6688,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH_BASE_28",
@@ -6699,7 +6704,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "ACH_BASE_3",
@@ -6723,7 +6728,7 @@
       "Name": "Power Outage",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_BASE_32",
@@ -6747,7 +6752,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "ACH_BASE_35",
@@ -6875,7 +6880,7 @@
       "Name": "Convenient Transport",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_BASE_52",
@@ -6883,7 +6888,7 @@
       "Name": "BRAWL!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_BASE_53",
@@ -6899,7 +6904,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_BASE_57",
@@ -6915,7 +6920,7 @@
       "Name": "Drill-dozer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_BASE_59",
@@ -6987,7 +6992,7 @@
       "Name": "What the Ruins Teach Us",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_BASE_9",
@@ -7002,13 +7007,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1714,
+      "Progressed": 1716,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3530,
+      "Progressed": 3532,
       "Completed": 0
     }
   ],
@@ -7016,8 +7021,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:05:31.2342048+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:05:32.2496591+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:58:30.21388+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:05:31.234281+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:58:38.5708664+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:05:32.2497188+00:00"
 }

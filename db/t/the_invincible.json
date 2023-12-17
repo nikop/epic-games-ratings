@@ -4,8 +4,8 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 715,
+  "EOS_Progressed": 716,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1955,6 +1955,11 @@
       "Time": "2023-12-17T07:08:52.2162894+00:00",
       "NumProgressed": 715,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T08:09:22.7249376+00:00",
+      "NumProgressed": 716,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1967,7 +1972,7 @@
       "Name": "The Teleprobe",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "AchvAllMemories",
@@ -1981,9 +1986,9 @@
       "ID": "AchvAssertive",
       "SetID": "1hj060c",
       "Name": "On her own",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 129
     },
     {
       "ID": "AchvBattleScore",
@@ -2029,9 +2034,9 @@
       "ID": "AchvDiscoverAlliance",
       "SetID": "1hj060c",
       "Name": "The Alliance",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 215
     },
     {
       "ID": "AchvDoom",
@@ -2063,7 +2068,7 @@
       "Name": "Krauta is alive",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "AchvLava",
@@ -2143,7 +2148,7 @@
       "Name": "The Camp",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "AchvReachCity",
@@ -2183,7 +2188,7 @@
       "Name": "The End",
       "Percentage": 30,
       "XP": 55,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "AchvUnity",
@@ -2191,21 +2196,21 @@
       "Name": "Beyond divisions",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 715,
+      "Progressed": 716,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:08:52.2162891+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:09:22.7249371+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:02:31.5923181+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:08:52.2163162+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:02:40.3017844+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:09:22.7249617+00:00"
 }

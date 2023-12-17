@@ -5,7 +5,7 @@
   "Ranking_Rating": 297,
   "Ranking_Popularity": 237,
   "Ranking_PopularitySum": 183,
-  "Ranking_EOS_Progress": 122,
+  "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 35,
@@ -3415,9 +3415,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 43747,
+  "EOS_Progressed": 43748,
   "EOS_Completed": 357,
-  "EOS_NewPlayers": 850,
+  "EOS_NewPlayers": 846,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -30215,6 +30215,11 @@
       "Time": "2023-12-17T07:03:48.1149185+00:00",
       "NumProgressed": 43747,
       "NumCompleted": 357
+    },
+    {
+      "Time": "2023-12-17T08:03:49.1823636+00:00",
+      "NumProgressed": 43748,
+      "NumCompleted": 357
     }
   ],
   "TotalAchievements": 60,
@@ -30234,7 +30239,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20561
+      "UsersEstimate": 20562
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -30242,7 +30247,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 25373
+      "UsersEstimate": 25374
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -30266,7 +30271,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 9624
+      "UsersEstimate": 9625
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -30322,7 +30327,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7874
+      "UsersEstimate": 7875
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -30370,7 +30375,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 10499
+      "UsersEstimate": 10500
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -30386,7 +30391,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 16186
+      "UsersEstimate": 16187
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -30394,7 +30399,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 10499
+      "UsersEstimate": 10500
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -30410,7 +30415,7 @@
       "Name": "Angel of Fire",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 10499
+      "UsersEstimate": 10500
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -30442,7 +30447,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17936
+      "UsersEstimate": 17937
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -30458,7 +30463,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17936
+      "UsersEstimate": 17937
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -30626,7 +30631,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 30623
+      "UsersEstimate": 30624
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -30650,7 +30655,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 8749
+      "UsersEstimate": 8750
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -30705,15 +30710,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 43747,
+      "Progressed": 43748,
       "Completed": 357
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-12-16T12:01:48.6572157+00:00",
-  "LastChanged_Achievements": "2023-12-17T07:03:48.1149182+00:00",
+  "LastChanged_Achievements": "2023-12-17T08:03:49.1823631+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:12.618272+00:00",
-  "LastUpdate_Ratings": "2023-12-17T06:57:07.4107714+00:00",
-  "LastUpdate_Achievements": "2023-12-17T07:03:48.1150993+00:00"
+  "LastUpdate_Ratings": "2023-12-17T07:57:14.6593115+00:00",
+  "LastUpdate_Achievements": "2023-12-17T08:03:49.1825092+00:00"
 }
