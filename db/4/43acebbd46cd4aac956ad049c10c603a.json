@@ -224,7 +224,7 @@
   ],
   "EOS_Progressed": 1025,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2858,9 +2858,9 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 123
     },
     {
       "ID": "MuseumVisitor",
@@ -3123,8 +3123,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:03:54.3415417+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:03:25.6821962+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:58:22.0045594+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:03:54.3416591+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:57:49.7376978+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:03:25.6822489+00:00"
 }

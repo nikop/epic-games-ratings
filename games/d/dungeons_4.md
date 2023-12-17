@@ -25,9 +25,9 @@
 | The Big Eaty | 53.00% | ~307 |
 | “… like son” | 51.00% | ~295 |
 | YOU SHALL NOT PASS! | 50.00% | ~290 |
+| Shame! Shame! Shame! | 47.00% | ~272 |
 | Dungeonlord Gorgu | 46.00% | ~266 |
 | The Cathedral of Light | 46.00% | ~266 |
-| Shame! Shame! Shame! | 46.00% | ~266 |
 | Pure Dynamite! | 45.00% | ~261 |
 | Tanos' Crusade Against Thalya | 44.00% | ~255 |
 | Mana Cannon | 41.00% | ~237 |

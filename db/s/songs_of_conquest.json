@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 526,
+  "EOS_Progressed": 528,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2158,6 +2158,11 @@
       "Time": "2023-12-17T10:08:27.9555437+00:00",
       "NumProgressed": 526,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T11:08:12.4038417+00:00",
+      "NumProgressed": 528,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2274,7 +2279,7 @@
       "Name": "Critical Hit",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Deepstrike",
@@ -2314,7 +2319,7 @@
       "Name": "Double Kill",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2416,7 +2421,7 @@
       "ID": "RanaCampaign",
       "SetID": "71c0n9i",
       "Name": "From the Ashes",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -2496,9 +2501,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 211
     },
     {
       "ID": "WielderLevel2",
@@ -2512,15 +2517,15 @@
       "ID": "WielderLevel3",
       "SetID": "71c0n9i",
       "Name": "Master",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 26
     },
     {
       "ID": "WielderLevel4",
       "SetID": "71c0n9i",
       "Name": "Grand Master",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -2601,15 +2606,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 526,
+      "Progressed": 528,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:08:27.9555434+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:08:12.4038414+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:01:16.5215305+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:08:27.9555912+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:59:47.2914386+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:08:12.4038772+00:00"
 }

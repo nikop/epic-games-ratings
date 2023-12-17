@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 357,
+  "EOS_Progressed": 358,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -410,6 +410,11 @@
       "Time": "2023-12-17T09:10:52.4545959+00:00",
       "NumProgressed": 357,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T11:09:38.426945+00:00",
+      "NumProgressed": 358,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -461,7 +466,7 @@
       "Name": "The New Director",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach-ascension-complete-years",
@@ -477,7 +482,7 @@
       "Name": "The Director is Dead",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach-ascension-inspector-return",
@@ -509,7 +514,7 @@
       "Name": "And Here Is Your Statue",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach-campaign-finish-easy",
@@ -563,17 +568,17 @@
       "ID": "ach-campaign-story2",
       "SetID": "17ih7ma",
       "Name": "Lost \u0026 Found \u0026 Lost Again",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 150
     },
     {
       "ID": "ach-campaign-story3",
       "SetID": "17ih7ma",
       "Name": "O Captain My Captain",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 107
     },
     {
       "ID": "ach-cartography-complete",
@@ -605,7 +610,7 @@
       "Name": "Discovery",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach-drinkingContest",
@@ -645,7 +650,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ach-hardExpeditions",
@@ -677,7 +682,7 @@
       "Name": "Plays Well With Others",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach-kill-animal-groups",
@@ -685,7 +690,7 @@
       "Name": "Taxonomist",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ach-kill-hyenas",
@@ -709,7 +714,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -765,15 +770,15 @@
       "Name": "Insomnia",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ach-pacifist-goals",
       "SetID": "17ih7ma",
       "Name": "Nahua Seeker",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 82
     },
     {
       "ID": "ach-paleMask-cure",
@@ -789,7 +794,7 @@
       "Name": "Uncertain Loyalties",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ach-portal-return",
@@ -813,7 +818,7 @@
       "Name": "Good Mama",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ach-redElk",
@@ -869,7 +874,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -900,7 +905,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 357,
+      "Progressed": 358,
       "Completed": 1
     }
   ],
@@ -908,8 +913,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:10:27.2652695+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:09:38.4269449+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:58:21.4403174+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:10:27.2653225+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:57:49.3470631+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:09:38.4269814+00:00"
 }

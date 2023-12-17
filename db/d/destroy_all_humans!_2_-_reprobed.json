@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 96,
+  "EOS_Progressed": 97,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -676,6 +676,11 @@
       "Time": "2023-12-17T08:08:49.3381532+00:00",
       "NumProgressed": 96,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T11:08:23.5737083+00:00",
+      "NumProgressed": 97,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -686,7 +691,7 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
       "UsersEstimate": 60
     },
@@ -798,7 +803,7 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 39
     },
@@ -814,7 +819,7 @@
       "ID": "ACH_ENTER_ALBION",
       "SetID": "4n84pon",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 14
     },
@@ -824,7 +829,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -838,7 +843,7 @@
       "ID": "ACH_ENTER_TAKOSHIMA",
       "SetID": "4n84pon",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 15
     },
@@ -886,9 +891,9 @@
       "ID": "ACH_KILL_PONSONBY",
       "SetID": "4n84pon",
       "Name": "Die Nasty",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -942,7 +947,7 @@
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -1039,7 +1044,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 96,
+      "Progressed": 97,
       "Completed": 0
     }
   ],
@@ -1047,8 +1052,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:08:43.3303299+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:08:23.5737081+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:01:12.5369071+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:08:43.3303596+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:59:44.6556268+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:08:23.5737309+00:00"
 }

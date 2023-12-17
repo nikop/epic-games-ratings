@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -251,7 +251,7 @@
   "Tags": [],
   "EOS_Progressed": 5813,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8162,9 +8162,9 @@
       "ID": "ACH_HELP",
       "SetID": "5nj1ea3",
       "Name": "What goes around...",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2558
+      "UsersEstimate": 2616
     },
     {
       "ID": "ACH_HOLIDAYS",
@@ -8387,8 +8387,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-12-16T21:02:29.6896541+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:05:18.0400675+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:04:25.7849242+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:40.8323499+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:57:01.8869367+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:05:18.040164+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:56:54.5710986+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:04:25.7849857+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1405,
+  "EOS_Progressed": 1407,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3363,6 +3363,11 @@
       "Time": "2023-12-17T10:10:14.1688576+00:00",
       "NumProgressed": 1405,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T11:09:28.1285318+00:00",
+      "NumProgressed": 1407,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3374,7 +3379,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -3430,7 +3435,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1393
     },
     {
       "ID": "EXPERT_1",
@@ -3494,7 +3499,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "LOVE_GURU_1",
@@ -3502,7 +3507,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -3532,9 +3537,9 @@
       "ID": "ONE_SHOT_ONE_KILL_1",
       "SetID": "bf13m8j",
       "Name": "One shot, one kill",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 394
     },
     {
       "ID": "PACIFIST",
@@ -3558,7 +3563,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -3598,7 +3603,7 @@
       "Name": "Savant",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "SECRET_ROOM",
@@ -3622,7 +3627,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "TRAVELER_1",
@@ -3630,7 +3635,7 @@
       "Name": "Traveler",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "VVE",
@@ -3661,15 +3666,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1405,
+      "Progressed": 1407,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:10:14.1688573+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:09:28.1285316+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.4071615+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:01:13.6563745+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:10:14.1689011+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:59:45.4063521+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:09:28.1285582+00:00"
 }

@@ -6,38 +6,38 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 77.00% | ~1,241 |
-| Lovebirds | 48.00% | ~774 |
-| Life’s short, ride long | 43.00% | ~693 |
-| Hug therapy | 42.00% | ~677 |
-| Over my dead body | 39.00% | ~629 |
-| Shake the rust off their feet | 21.00% | ~339 |
-| My little pony | 19.00% | ~306 |
-| Strike! | 18.00% | ~290 |
-| A love supreme | 18.00% | ~290 |
-| In my shoes | 17.00% | ~274 |
-| Like new! | 15.00% | ~242 |
+| Balding bloot! | 77.00% | ~1,244 |
+| Lovebirds | 48.00% | ~776 |
+| Life’s short, ride long | 43.00% | ~695 |
+| Hug therapy | 42.00% | ~679 |
+| Over my dead body | 39.00% | ~630 |
+| Shake the rust off their feet | 20.00% | ~323 |
+| My little pony | 19.00% | ~307 |
+| Strike! | 18.00% | ~291 |
+| A love supreme | 18.00% | ~291 |
+| In my shoes | 17.00% | ~275 |
+| Like new! | 14.00% | ~226 |
 | Heartstrings | 13.00% | ~210 |
 | Head in the clouds | 13.00% | ~210 |
-| Back to rust | 12.00% | ~193 |
-| Flower Powered | 12.00% | ~193 |
-| Don't look back | 12.00% | ~193 |
-| Unstoppable | 10.00% | ~161 |
+| Back to rust | 12.00% | ~194 |
+| Flower Powered | 12.00% | ~194 |
+| Don't look back | 12.00% | ~194 |
+| Unstoppable | 10.00% | ~162 |
 | Perfect timing | 9.00% | ~145 |
 | Self-sustainability | 8.00% | ~129 |
 | Ain't no mountain high enough | 8.00% | ~129 |
 | Can't get wetter... | 5.00% | ~81 |
 | Spring cleaning | 5.00% | ~81 |
 | An eye for an eye | 5.00% | ~81 |
-| Second thoughts | 4.00% | ~64 |
-| Mooning the moon | 4.00% | ~64 |
-| Strip-a-bobble | 4.00% | ~64 |
+| Second thoughts | 4.00% | ~65 |
+| Mooning the moon | 4.00% | ~65 |
+| Strip-a-bobble | 4.00% | ~65 |
 | Pearls before Birble | 3.00% | ~48 |
 | Last minute | 3.00% | ~48 |
 | Thar she blows | 2.00% | ~32 |
 | À la carte | 2.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,612 (Ranked 245)  
+Progressed: 1,616 (Ranked 244)  
 Completed: 10 (0.62%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 10 (0.62%) (Ranked 194)
 | 2023-12-14 | 1,576 | 10 |
 | 2023-12-15 | 1,586 | 10 |
 | 2023-12-16 | 1,606 | 10 |
-| 2023-12-17 | 1,612 | 10 |
+| 2023-12-17 | 1,616 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

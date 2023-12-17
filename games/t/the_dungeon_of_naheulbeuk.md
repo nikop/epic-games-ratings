@@ -1,14 +1,14 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 455)  
+Rating: 4.58 (Ranked 456)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,557 |
-| Alt+F4 | 10.00% | ~24,321 |
-| Where's that freaking Dwarf? | 8.00% | ~19,457 |
+| Sowwy! | 36.00% | ~87,559 |
+| Alt+F4 | 10.00% | ~24,322 |
+| Where's that freaking Dwarf? | 8.00% | ~19,458 |
 | Déjà vu | 7.00% | ~17,025 |
 | Sock! SOCK! | 6.00% | ~14,593 |
 | A beer, two curses, three companions | 5.00% | ~12,161 |
@@ -16,11 +16,11 @@ Number of Ratings: 118  (23.09.2022)
 | Speedrun | 5.00% | ~12,161 |
 | DM intervention | 4.00% | ~9,729 |
 | Fireproof Wizardess | 4.00% | ~9,729 |
-| Livin' in a dwarven paradise | 3.00% | ~7,296 |
-| Way of the Wimp | 3.00% | ~7,296 |
-| The plot thickens... At the tavern | 3.00% | ~7,296 |
-| The demons' feast | 3.00% | ~7,296 |
-| The Woman in the High Castle | 3.00% | ~7,296 |
+| Livin' in a dwarven paradise | 3.00% | ~7,297 |
+| Way of the Wimp | 3.00% | ~7,297 |
+| The plot thickens... At the tavern | 3.00% | ~7,297 |
+| The demons' feast | 3.00% | ~7,297 |
+| The Woman in the High Castle | 3.00% | ~7,297 |
 | Shiny and Crôm | 2.00% | ~4,864 |
 | The Great Library | 2.00% | ~4,864 |
 | Torture and Sensibility | 2.00% | ~4,864 |
@@ -47,7 +47,7 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 1.00% | ~2,432 |
 | Lëgal Legend | 0.90% | ~2,189 |
 | We come in peace | 0.80% | ~1,946 |
-| An old poacher makes the best gamekeeper | 0.70% | ~1,702 |
+| An old poacher makes the best gamekeeper | 0.70% | ~1,703 |
 | Holistic Adventuring Party | 0.60% | ~1,459 |
 | Law and Order | 0.60% | ~1,459 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,216 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~243 |
 | Dwarf Candy | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,214 (Ranked 64)  
+Progressed: 243,220 (Ranked 64)  
 Completed: 7 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 7 (0.00%) (Ranked 379)
 | 2023-12-14 | 242,763 | 7 |
 | 2023-12-15 | 242,956 | 7 |
 | 2023-12-16 | 243,151 | 7 |
-| 2023-12-17 | 243,214 | 7 |
+| 2023-12-17 | 243,220 | 7 |
 ## Awards
 Max (Character Customization): 246  (Ranked 272)  
 Sum: 518 (Ranked 327)  

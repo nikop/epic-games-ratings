@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 71.00% | ~119 |
+| Meissa's Savior | 72.00% | ~122 |
 | Purification Pioneer | 67.00% | ~113 |
-| Mechanical Buddy | 62.00% | ~104 |
-| Dicesmithing Time! | 55.00% | ~92 |
-| Sanctuary Guardian | 51.00% | ~86 |
-| Endless Tricks | 49.00% | ~82 |
-| Wild's Keeper | 43.00% | ~72 |
-| Mind Illuminator | 42.00% | ~71 |
-| Stellar Dismantler | 33.00% | ~55 |
-| Noctuan Champion | 33.00% | ~55 |
+| Mechanical Buddy | 62.00% | ~105 |
+| Dicesmithing Time! | 56.00% | ~95 |
+| Sanctuary Guardian | 50.00% | ~84 |
+| Endless Tricks | 49.00% | ~83 |
+| Mind Illuminator | 43.00% | ~73 |
+| Wild's Keeper | 43.00% | ~73 |
+| Stellar Dismantler | 34.00% | ~57 |
+| Noctuan Champion | 33.00% | ~56 |
 | Anomaly Destroyer | 28.00% | ~47 |
 | Astral Adventurer | 28.00% | ~47 |
-| Star Killer | 27.00% | ~45 |
+| Star Killer | 27.00% | ~46 |
 | Eridanian Champion | 26.00% | ~44 |
-| Lacertian Champion | 24.00% | ~40 |
+| Lacertian Champion | 24.00% | ~41 |
 | Loyal Partner | 22.00% | ~37 |
 | Apian Champion | 21.00% | ~35 |
 | Shard Spender | 20.00% | ~34 |
 | Unbeatable | 17.00% | ~29 |
-| Behenian Champion | 15.00% | ~25 |
+| Behenian Champion | 16.00% | ~27 |
 | Sadistic Plan | 14.00% | ~24 |
-| Stellar Haste | 11.00% | ~18 |
-| Astral Seeker | 10.00% | ~17 |
-| Heavy Purger | 10.00% | ~17 |
-| Aquarian Champion | 10.00% | ~17 |
+| Stellar Haste | 11.00% | ~19 |
+| Aquarian Champion | 11.00% | ~19 |
+| Astral Seeker | 9.00% | ~15 |
 | Heart Gate | 9.00% | ~15 |
-| Favored by the Cosmos | 8.00% | ~13 |
-| The Corruption Goddess | 8.00% | ~13 |
-| The Goddes Avatar | 8.00% | ~13 |
-| Wave Bender | 8.00% | ~13 |
+| Heavy Purger | 9.00% | ~15 |
+| Favored by the Cosmos | 8.00% | ~14 |
+| The Corruption Goddess | 8.00% | ~14 |
+| The Goddes Avatar | 8.00% | ~14 |
+| Wave Bender | 8.00% | ~14 |
 | Can't touch this | 7.00% | ~12 |
 | Apian Hero | 7.00% | ~12 |
 | Anomaly Control | 6.00% | ~10 |
@@ -74,6 +74,7 @@
 | Dice Specialist | 0.60% | ~1 |
 | Gotta tinker'em all! | 0.60% | ~1 |
 | Six-Sided Mastery | 0.60% | ~1 |
+| The world goes round... | 0.60% | ~1 |
 | This is Fine | 0.60% | ~1 |
 | Unepic Hero | 0.60% | ~1 |
 | Virtuous Warrior | 0.60% | ~1 |
@@ -101,9 +102,8 @@
 | Noctuan Hero | 0.00% | ~0 |
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
-| The world goes round... | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168 (Ranked 410)  
+Progressed: 169 (Ranked 410)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,4 +155,4 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 121 | 0 |
 | 2023-12-15 | 139 | 0 |
 | 2023-12-16 | 161 | 0 |
-| 2023-12-17 | 168 | 0 |
+| 2023-12-17 | 169 | 0 |

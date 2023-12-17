@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -2675,9 +2675,9 @@
       "Count": 218
     }
   ],
-  "EOS_Progressed": 26918,
+  "EOS_Progressed": 26925,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1349,
+  "EOS_NewPlayers": 1350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13335,6 +13335,11 @@
       "Time": "2023-12-17T10:09:18.3625465+00:00",
       "NumProgressed": 26918,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T11:08:48.638759+00:00",
+      "NumProgressed": 26925,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -13387,7 +13392,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2961
+      "UsersEstimate": 2962
     },
     {
       "ID": "Achievement_Trophy07",
@@ -13515,7 +13520,7 @@
       "Name": "Precious!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 4307
+      "UsersEstimate": 4308
     },
     {
       "ID": "Achievement_Trophy23",
@@ -13523,7 +13528,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 4038
+      "UsersEstimate": 4039
     },
     {
       "ID": "Achievement_Trophy24",
@@ -13531,7 +13536,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 10767
+      "UsersEstimate": 10770
     },
     {
       "ID": "Achievement_Trophy25",
@@ -13539,7 +13544,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3230
+      "UsersEstimate": 3231
     },
     {
       "ID": "Achievement_Trophy26",
@@ -13547,7 +13552,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 9152
+      "UsersEstimate": 9154
     },
     {
       "ID": "Achievement_Trophy27",
@@ -13563,7 +13568,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 8883
+      "UsersEstimate": 8885
     },
     {
       "ID": "Achievement_Trophy29",
@@ -13579,7 +13584,7 @@
       "Name": "Spread the plague",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 7537
+      "UsersEstimate": 7539
     },
     {
       "ID": "Achievement_Trophy31",
@@ -13587,7 +13592,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 8075
+      "UsersEstimate": 8078
     },
     {
       "ID": "Achievement_Trophy32",
@@ -13603,7 +13608,7 @@
       "Name": "Pack leader",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "Achievement_Trophy34",
@@ -13611,7 +13616,7 @@
       "Name": "Augmented rat",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2961
+      "UsersEstimate": 2962
     },
     {
       "ID": "Achievement_Trophy35",
@@ -13635,7 +13640,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 6460
+      "UsersEstimate": 6462
     },
     {
       "ID": "Achievement_Trophy38",
@@ -13643,7 +13648,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4576
+      "UsersEstimate": 4577
     },
     {
       "ID": "Achievement_Trophy39",
@@ -13651,7 +13656,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 5114
+      "UsersEstimate": 5116
     },
     {
       "ID": "Achievement_Trophy40",
@@ -13659,7 +13664,7 @@
       "Name": "Pain is your friend",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "Achievement_Trophy41",
@@ -13667,7 +13672,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3499
+      "UsersEstimate": 3500
     },
     {
       "ID": "Achievement_Trophy42",
@@ -13675,7 +13680,7 @@
       "Name": "Black death",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "Achievement_Trophy43",
@@ -13683,7 +13688,7 @@
       "Name": "Light of my life",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3499
+      "UsersEstimate": 3500
     },
     {
       "ID": "Achievement_Trophy44",
@@ -13691,7 +13696,7 @@
       "Name": "Quad damage",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "Achievement_Trophy45",
@@ -13715,7 +13720,7 @@
       "Name": "Play it again, Sam",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "Achievement_Trophy48",
@@ -13731,7 +13736,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 4038
+      "UsersEstimate": 4039
     },
     {
       "ID": "Achievement_Trophy50",
@@ -13834,7 +13839,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 26918,
+      "Progressed": 26925,
       "Completed": 1
     }
   ],
@@ -13842,8 +13847,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-17T08:59:00.5805471+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:09:18.3625461+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:08:48.6387588+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:35.1754464+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:59:00.911745+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:09:18.3626649+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:58:15.4148704+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:08:48.6388347+00:00"
 }

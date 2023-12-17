@@ -931,9 +931,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4007,
+  "EOS_Progressed": 4008,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7201,6 +7201,11 @@
       "Time": "2023-12-17T09:07:00.7928399+00:00",
       "NumProgressed": 4007,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T11:06:07.787514+00:00",
+      "NumProgressed": 4008,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7229,7 +7234,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "achievement_12",
@@ -7269,7 +7274,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "achievement_17",
@@ -7380,7 +7385,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4007,
+      "Progressed": 4008,
       "Completed": 0
     }
   ],
@@ -7388,8 +7393,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-17T03:02:47.5026228+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:07:39.9398627+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:06:07.7875137+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:51.9510539+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:03:01.7890992+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:07:39.939907+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:02:48.6847416+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:06:07.7875544+00:00"
 }

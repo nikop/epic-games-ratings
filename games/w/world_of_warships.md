@@ -6,38 +6,38 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 78.00% | ~53,758 |
-| Initial Capital | 65.00% | ~44,799 |
-| Junior Supply Officer | 43.00% | ~29,636 |
-| Moneybags | 42.00% | ~28,947 |
-| Naval Warfare. Arson | 32.00% | ~22,055 |
-| Naval Warfare. Ramming | 31.00% | ~21,366 |
-| Amateur | 29.00% | ~19,987 |
-| Naval Warfare. Tactics | 29.00% | ~19,987 |
-| Naval Constructor | 29.00% | ~19,987 |
-| Naval Warfare. Weaponry Basics | 21.00% | ~14,473 |
-| Naval Warfare. Lucky Shot | 19.00% | ~13,095 |
-| Naval Warfare. Flooding | 18.00% | ~12,406 |
-| Business Magnate | 15.00% | ~10,338 |
-| Battle Hero | 14.00% | ~9,649 |
-| Supply Officer | 12.00% | ~8,271 |
-| Smooth Supply | 12.00% | ~8,271 |
-| Warrior | 11.00% | ~7,581 |
-| Veteran | 7.00% | ~4,824 |
-| Legend of the Seas | 3.00% | ~2,068 |
-| Chief Naval Architect | 3.00% | ~2,068 |
-| Important Missions | 3.00% | ~2,068 |
-| Shield | 3.00% | ~2,068 |
-| Senior Supply Officer | 2.00% | ~1,378 |
-| Weather Beaten | 2.00% | ~1,378 |
-| Guardian | 2.00% | ~1,378 |
-| Bane of the Oceans | 1.00% | ~689 |
-| "Science of Victory" | 1.00% | ~689 |
-| Old-Timer | 1.00% | ~689 |
-| Special Orders | 1.00% | ~689 |
-| Protector | 1.00% | ~689 |
-| Exterminator | 1.00% | ~689 |
-| American Cruisers | 1.00% | ~689 |
+| Junior Naval Designer | 78.00% | ~53,790 |
+| Initial Capital | 65.00% | ~44,825 |
+| Junior Supply Officer | 43.00% | ~29,654 |
+| Moneybags | 42.00% | ~28,964 |
+| Naval Warfare. Arson | 32.00% | ~22,068 |
+| Naval Warfare. Ramming | 31.00% | ~21,378 |
+| Amateur | 29.00% | ~19,999 |
+| Naval Warfare. Tactics | 29.00% | ~19,999 |
+| Naval Constructor | 29.00% | ~19,999 |
+| Naval Warfare. Weaponry Basics | 21.00% | ~14,482 |
+| Naval Warfare. Lucky Shot | 19.00% | ~13,103 |
+| Naval Warfare. Flooding | 18.00% | ~12,413 |
+| Business Magnate | 15.00% | ~10,344 |
+| Battle Hero | 14.00% | ~9,655 |
+| Supply Officer | 12.00% | ~8,275 |
+| Smooth Supply | 12.00% | ~8,275 |
+| Warrior | 11.00% | ~7,586 |
+| Veteran | 7.00% | ~4,827 |
+| Legend of the Seas | 3.00% | ~2,069 |
+| Chief Naval Architect | 3.00% | ~2,069 |
+| Important Missions | 3.00% | ~2,069 |
+| Shield | 3.00% | ~2,069 |
+| Senior Supply Officer | 2.00% | ~1,379 |
+| Weather Beaten | 2.00% | ~1,379 |
+| Guardian | 2.00% | ~1,379 |
+| Bane of the Oceans | 1.00% | ~690 |
+| "Science of Victory" | 1.00% | ~690 |
+| Old-Timer | 1.00% | ~690 |
+| Special Orders | 1.00% | ~690 |
+| Protector | 1.00% | ~690 |
+| Exterminator | 1.00% | ~690 |
+| American Cruisers | 1.00% | ~690 |
 | Secret Instructions | 0.60% | ~414 |
 | Raider | 0.60% | ~414 |
 | Experienced One | 0.50% | ~345 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~69 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,921 (Ranked 106)  
+Progressed: 68,962 (Ranked 106)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,10 +177,10 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 67,016 | 0 |
 | 2023-12-15 | 67,742 | 0 |
 | 2023-12-16 | 68,649 | 0 |
-| 2023-12-17 | 68,921 | 0 |
+| 2023-12-17 | 68,962 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,603  (Ranked 127)  
-Sum: 13,430 (Ranked 78)  
+Sum: 13,433 (Ranked 78)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -189,7 +189,7 @@ Diff (max vs sum): 49
 | This game has Challenging Combat | 1,579 |
 | This game has Competitive Players | 1,556 |
 | This game is Extremely Fun | 1,553 |
-| This game is Highly Recommended | 1,538 |
+| This game is Highly Recommended | 1,541 |
 | This game has Realistic Visuals | 1,402 |
 | This game has Amazing Storytelling | 1,332 |
 | This game has a Competitive Community | 1,264 |
@@ -536,4 +536,4 @@ Diff (max vs sum): 49
 | 2023-12-14 | 4.41 | - | 1,597 | 13,362 |
 | 2023-12-15 | 4.41 | - | 1,599 | 13,380 |
 | 2023-12-16 | 4.41 | - | 1,603 | 13,420 |
-| 2023-12-17 | 4.41 | - | 1,603 | 13,430 |
+| 2023-12-17 | 4.41 | - | 1,603 | 13,433 |

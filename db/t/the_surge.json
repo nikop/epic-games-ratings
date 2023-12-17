@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4932,
+  "EOS_Progressed": 4935,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3601,6 +3601,11 @@
       "Time": "2023-12-17T09:05:41.0806095+00:00",
       "NumProgressed": 4932,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-17T11:04:45.3822423+00:00",
+      "NumProgressed": 4935,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3612,7 +3617,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -3620,7 +3625,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -3628,7 +3633,7 @@
       "Name": "Big Sister",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -3660,7 +3665,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4143
+      "UsersEstimate": 4145
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3668,7 +3673,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4636
+      "UsersEstimate": 4639
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3676,7 +3681,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3798
+      "UsersEstimate": 3800
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -3684,7 +3689,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -3780,7 +3785,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -3796,7 +3801,7 @@
       "Name": "Core Power",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -3826,9 +3831,9 @@
       "ID": "ID_ACHIEV_28",
       "SetID": "98bke8c",
       "Name": "First Day on the Job",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3798
+      "UsersEstimate": 3751
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3860,7 +3865,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2713
+      "UsersEstimate": 2714
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -3884,7 +3889,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -3892,7 +3897,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -3956,7 +3961,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -3964,7 +3969,7 @@
       "Name": "SENTINEL",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -4090,17 +4095,17 @@
       "ID": "ID_ACHIEV_62",
       "SetID": "98bke8c",
       "Name": "Suited and Booted",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 35
     },
     {
       "ID": "ID_ACHIEV_63",
       "SetID": "98bke8c",
       "Name": "Tools of War",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 35
     },
     {
       "ID": "ID_ACHIEV_64",
@@ -4147,15 +4152,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4932,
+      "Progressed": 4935,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:05:45.9186748+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:04:45.3822421+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:57:41.4249973+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:05:45.9187515+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:57:23.2233194+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:04:45.382299+00:00"
 }

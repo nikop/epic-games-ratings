@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9742,10 +9742,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20642,
       "NumberOfAwardsMax": 7763
+    },
+    {
+      "Time": "2023-12-17T10:57:39.1040646+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20652,
+      "NumberOfAwardsMax": 7763
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20642,
+  "NumberOfAwards": 20652,
   "NumberOfAwardsMax": 7763,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9765,7 +9771,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1525
+      "Count": 1535
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9822,9 +9828,9 @@
       "Count": 1018
     }
   ],
-  "EOS_Progressed": 127956,
+  "EOS_Progressed": 127973,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1962,
+  "EOS_NewPlayers": 1975,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35462,6 +35468,11 @@
       "Time": "2023-12-17T10:09:14.19525+00:00",
       "NumProgressed": 127956,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T11:08:45.7752303+00:00",
+      "NumProgressed": 127973,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35519,9 +35530,9 @@
       "ID": "altar_of_hope_unlock_hero_jester",
       "SetID": "64l4lke",
       "Name": "Funny Guy",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1280
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -36001,7 +36012,7 @@
       "Name": "Ma\u00EEtre De La Lame",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "combat_kill_chirurgeon",
@@ -36009,7 +36020,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "combat_kill_collector",
@@ -36017,7 +36028,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36057,7 +36068,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -36073,7 +36084,7 @@
       "Name": "Lost and Found",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36081,7 +36092,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -36104,21 +36115,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127956,
+      "Progressed": 127973,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2825,
+      "Progressed": 2842,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-17T09:58:06.1426776+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:09:14.1952496+00:00",
+  "LastChanged": "2023-12-17T10:57:39.1040645+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:08:45.7752301+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:58:06.1426783+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:09:14.1954815+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:57:39.1040649+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:08:45.7753878+00:00"
 }

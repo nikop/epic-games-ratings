@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -39,11 +39,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 594,
+  "EOS_Progressed": 595,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.2,
+  "EOS_Completed_Percentage": 3.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -899,6 +899,11 @@
       "Time": "2023-12-16T15:09:47.7213566+00:00",
       "NumProgressed": 594,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-17T11:09:29.3341211+00:00",
+      "NumProgressed": 595,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -916,9 +921,9 @@
       "ID": "ANNOYING",
       "SetID": "2iigf77",
       "Name": "Annoying",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 113
     },
     {
       "ID": "BLADE_RUNNER",
@@ -926,7 +931,7 @@
       "Name": "Blade Runner",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "BUCKLE_UP",
@@ -934,7 +939,7 @@
       "Name": "Buckle up",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -950,7 +955,7 @@
       "Name": "Curious",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -988,9 +993,9 @@
       "ID": "HACKER",
       "SetID": "2iigf77",
       "Name": "Hacker",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 113
     },
     {
       "ID": "HANDS_UP",
@@ -1030,7 +1035,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "LUCKY_DOG",
@@ -1078,7 +1083,7 @@
       "Name": "Perfect hearing",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "PLEASE",
@@ -1102,7 +1107,7 @@
       "Name": "Quick charge",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -1165,7 +1170,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 594,
+      "Progressed": 595,
       "Completed": 19
     }
   ],
@@ -1173,8 +1178,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:10:15.3293704+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:09:29.3341209+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.7016288+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:58:05.757658+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:10:15.3294022+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:57:38.852753+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:09:29.3341375+00:00"
 }

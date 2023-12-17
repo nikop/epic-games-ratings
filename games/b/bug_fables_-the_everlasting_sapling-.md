@@ -35,7 +35,7 @@
 | Our job's done! | 5.00% | ~5 |
 | Crystal Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96 (Ranked 462)  
+Progressed: 96 (Ranked 463)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 455,
+  "Ranking_Rating": 456,
   "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 64,
@@ -1503,9 +1503,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 243214,
+  "EOS_Progressed": 243220,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1142,
+  "EOS_NewPlayers": 1141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22593,6 +22593,11 @@
       "Time": "2023-12-17T10:10:06.3688788+00:00",
       "NumProgressed": 243214,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-17T11:09:22.697662+00:00",
+      "NumProgressed": 243220,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -22604,7 +22609,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7296
+      "UsersEstimate": 7297
     },
     {
       "ID": "100Fail",
@@ -22636,7 +22641,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7296
+      "UsersEstimate": 7297
     },
     {
       "ID": "BookCollection",
@@ -22668,7 +22673,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7296
+      "UsersEstimate": 7297
     },
     {
       "ID": "Chapter4",
@@ -22676,7 +22681,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7296
+      "UsersEstimate": 7297
     },
     {
       "ID": "Chapter5",
@@ -22756,7 +22761,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7296
+      "UsersEstimate": 7297
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -23004,7 +23009,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19457
+      "UsersEstimate": 19458
     },
     {
       "ID": "DwarfElf15Support",
@@ -23052,7 +23057,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87557
+      "UsersEstimate": 87559
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23100,7 +23105,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24321
+      "UsersEstimate": 24322
     },
     {
       "ID": "FollowBraztok",
@@ -23116,7 +23121,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1703
     },
     {
       "ID": "InsultLoose",
@@ -23307,21 +23312,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 243214,
+      "Progressed": 243220,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 243214,
+      "Progressed": 243220,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-12T21:57:44.3633431+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:10:06.3688784+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:09:22.6976619+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:08.5726178+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:00:52.143125+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:10:06.3690741+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:59:30.4606363+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:09:22.697811+00:00"
 }

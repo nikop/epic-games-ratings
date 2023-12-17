@@ -961,9 +961,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7087,
+  "EOS_Progressed": 7092,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11366,6 +11366,11 @@
       "Time": "2023-12-17T10:05:58.1643409+00:00",
       "NumProgressed": 7087,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T11:04:53.8967154+00:00",
+      "NumProgressed": 7092,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11385,7 +11390,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -11401,7 +11406,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -11417,7 +11422,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -11433,7 +11438,7 @@
       "Name": "Scaling up",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -11696,13 +11701,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7087,
+      "Progressed": 7092,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6459,
+      "Progressed": 6464,
       "Completed": 113
     }
   ],
@@ -11710,8 +11715,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-15T01:46:12.7842715+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:05:58.1643404+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:04:53.8967152+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:59:22.5189995+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:05:58.1644262+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:58:29.8313872+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:04:53.8967958+00:00"
 }

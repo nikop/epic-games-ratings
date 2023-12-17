@@ -2,12 +2,12 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 455,
+  "Ranking_Rating": 456,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19074,
+  "EOS_Progressed": 19076,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13759,6 +13759,11 @@
       "Time": "2023-12-17T09:05:04.9244183+00:00",
       "NumProgressed": 19074,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-17T11:04:09.0408129+00:00",
+      "NumProgressed": 19076,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13770,7 +13775,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5722
+      "UsersEstimate": 5723
     },
     {
       "ID": "0002",
@@ -13794,7 +13799,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "0005",
@@ -13802,7 +13807,7 @@
       "Name": "Branch Manager",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "0006",
@@ -13826,7 +13831,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3433
+      "UsersEstimate": 3434
     },
     {
       "ID": "0009",
@@ -13866,7 +13871,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "0014",
@@ -13898,7 +13903,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3433
+      "UsersEstimate": 3434
     },
     {
       "ID": "0018",
@@ -13922,7 +13927,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "0021",
@@ -13930,7 +13935,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "0022",
@@ -13938,7 +13943,7 @@
       "Name": "PHD in VIP",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "0023",
@@ -13954,7 +13959,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4196
+      "UsersEstimate": 4197
     },
     {
       "ID": "0025",
@@ -13962,7 +13967,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3433
+      "UsersEstimate": 3434
     },
     {
       "ID": "0026",
@@ -14002,7 +14007,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3433
+      "UsersEstimate": 3434
     },
     {
       "ID": "0031",
@@ -14057,7 +14062,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19074,
+      "Progressed": 19076,
       "Completed": 4
     }
   ],
@@ -14065,8 +14070,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:04:54.4501994+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:04:09.0408127+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:23.0079073+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:01:23.3646484+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:04:54.4503375+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:59:51.810411+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:04:09.0408796+00:00"
 }

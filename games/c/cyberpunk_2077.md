@@ -6,42 +6,42 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,316 |
-| Gun Fu | 8.00% | ~78,211 |
-| Right Back At Ya | 6.00% | ~58,658 |
-| The Fool | 6.00% | ~58,658 |
-| The Lovers | 5.00% | ~48,882 |
-| Full Body Conversion | 4.00% | ~39,105 |
-| Stanislavski's Method | 4.00% | ~39,105 |
-| The Hermit | 4.00% | ~39,105 |
-| The Wheel of Fortune | 4.00% | ~39,105 |
-| True Soldier | 4.00% | ~39,105 |
-| All the President's Men | 4.00% | ~4,250 |
-| Arachnophobia | 4.00% | ~4,250 |
-| Christmas Tree Attack | 3.00% | ~29,329 |
-| Life of the Road | 3.00% | ~29,329 |
-| The High Priestess | 3.00% | ~29,329 |
-| True Warrior | 3.00% | ~29,329 |
-| Legend of The Afterlife | 3.00% | ~29,329 |
-| Relic Ruler | 3.00% | ~3,188 |
-| Bushido and Chill | 2.00% | ~19,553 |
-| To Protect and Serve | 2.00% | ~19,553 |
-| Master Crafter | 2.00% | ~19,553 |
-| I Am The Law | 2.00% | ~19,553 |
-| The Quick and the Dead | 2.00% | ~19,553 |
-| The World | 2.00% | ~19,553 |
-| Two Heads, One Bullet | 2.00% | ~19,553 |
-| Judy vs Night City | 2.00% | ~19,553 |
-| The Wandering Fool | 1.00% | ~9,776 |
+| V for Vendetta | 12.00% | ~117,321 |
+| Gun Fu | 8.00% | ~78,214 |
+| Right Back At Ya | 6.00% | ~58,660 |
+| The Fool | 6.00% | ~58,660 |
+| The Lovers | 5.00% | ~48,884 |
+| Full Body Conversion | 4.00% | ~39,107 |
+| Stanislavski's Method | 4.00% | ~39,107 |
+| The Hermit | 4.00% | ~39,107 |
+| The Wheel of Fortune | 4.00% | ~39,107 |
+| True Soldier | 4.00% | ~39,107 |
+| All the President's Men | 4.00% | ~4,252 |
+| Arachnophobia | 4.00% | ~4,252 |
+| Christmas Tree Attack | 3.00% | ~29,330 |
+| Life of the Road | 3.00% | ~29,330 |
+| The High Priestess | 3.00% | ~29,330 |
+| True Warrior | 3.00% | ~29,330 |
+| Legend of The Afterlife | 3.00% | ~29,330 |
+| Relic Ruler | 3.00% | ~3,189 |
+| Bushido and Chill | 2.00% | ~19,554 |
+| To Protect and Serve | 2.00% | ~19,554 |
+| Master Crafter | 2.00% | ~19,554 |
+| I Am The Law | 2.00% | ~19,554 |
+| The Quick and the Dead | 2.00% | ~19,554 |
+| The World | 2.00% | ~19,554 |
+| Two Heads, One Bullet | 2.00% | ~19,554 |
+| Judy vs Night City | 2.00% | ~19,554 |
+| The Wandering Fool | 1.00% | ~9,777 |
 | Spin Doctor | 1.00% | ~1,063 |
 | King of Wands | 1.00% | ~1,063 |
 | Easy Come, Easy Go | 1.00% | ~1,063 |
 | The Sun | 0.90% | ~8,799 |
-| Dirty Deeds | 0.90% | ~956 |
+| Dirty Deeds | 0.90% | ~957 |
 | To Bad Decisions! | 0.80% | ~7,821 |
 | Ten out of Ten | 0.80% | ~7,821 |
-| Breathtaking | 0.70% | ~6,843 |
-| The Star | 0.70% | ~6,843 |
+| Breathtaking | 0.70% | ~6,844 |
+| The Star | 0.70% | ~6,844 |
 | Autojock | 0.60% | ~5,866 |
 | Judgement Day | 0.60% | ~638 |
 | The Tower | 0.60% | ~638 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 977,632 (Ranked 16)  
+Progressed: 977,675 (Ranked 16)  
 Completed: 2,926 (0.30%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,19 +315,19 @@ Completed: 2,926 (0.30%) (Ranked 242)
 | 2023-12-14 | 976,057 | 2,907 |
 | 2023-12-15 | 976,625 | 2,913 |
 | 2023-12-16 | 977,366 | 2,924 |
-| 2023-12-17 | 977,632 | 2,926 |
+| 2023-12-17 | 977,675 | 2,926 |
 ## Awards
 Max (Character Customization): 123,963  (Ranked 8)  
-Sum: 424,515 (Ranked 9)  
+Sum: 425,313 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 123,963 |
-| This game has Great Boss Battles | 90,620 |
+| This game has Great Boss Battles | 91,189 |
 | This game is Great for Beginners | 26,210 |
 | This game has Diverse Characters | 25,748 |
 | This game is Highly Recommended | 24,475 |
-| This game has Amazing Storytelling | 24,104 |
+| This game has Amazing Storytelling | 24,333 |
 | This game is Extremely Fun | 23,981 |
 | This game has Amazing Characters | 23,723 |
 | This game is Relaxing | 22,987 |
@@ -668,4 +668,4 @@ Diff (max vs sum): -1
 | 2023-12-14 | 4.66 | - | 122,911 | 418,778 |
 | 2023-12-15 | 4.66 | - | 123,411 | 421,451 |
 | 2023-12-16 | 4.66 | - | 123,963 | 424,262 |
-| 2023-12-17 | 4.66 | - | 123,963 | 424,515 |
+| 2023-12-17 | 4.66 | - | 123,963 | 425,313 |

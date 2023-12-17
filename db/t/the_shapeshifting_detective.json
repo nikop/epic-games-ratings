@@ -3,9 +3,9 @@
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 378,
-  "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_Completed": 165,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 265,
+  "EOS_Progressed": 266,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -580,6 +580,11 @@
       "Time": "2023-12-17T10:08:20.8699424+00:00",
       "NumProgressed": 265,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T11:06:37.7456013+00:00",
+      "NumProgressed": 266,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -599,7 +604,7 @@
       "Name": "Book \u0027em Danny",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "bullseye",
@@ -653,9 +658,9 @@
       "ID": "look_mum_im_a_detective",
       "SetID": "2db2j74",
       "Name": "Look Mum I\u0027m A Detective",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "oscar_winning_performance",
@@ -679,7 +684,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "play_me_by_the_hour",
@@ -695,7 +700,7 @@
       "Name": "Poetent",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "put_a_ring_on_it",
@@ -703,7 +708,7 @@
       "Name": "Put A Ring On It",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "show_me_some_skin",
@@ -719,7 +724,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "the_big_sleep",
@@ -735,7 +740,7 @@
       "Name": "Video Saved The Radio Star",
       "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "voyeur",
@@ -758,7 +763,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 265,
+      "Progressed": 266,
       "Completed": 3
     }
   ],
@@ -766,8 +771,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:08:20.8699418+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:06:37.7456011+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.0210156+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:03:06.8903922+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:08:20.8699581+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:02:52.0152997+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:06:37.7456151+00:00"
 }

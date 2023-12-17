@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 25002,
+  "EOS_Progressed": 25037,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1317,
+  "EOS_NewPlayers": 1352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -10835,6 +10835,11 @@
       "Time": "2023-12-17T10:09:56.2954114+00:00",
       "NumProgressed": 25002,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-17T11:09:15.1842627+00:00",
+      "NumProgressed": 25037,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10910,7 +10915,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -10926,7 +10931,7 @@
       "Name": "Spells and Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -10964,9 +10969,9 @@
       "ID": "BossForestAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Survival",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 125
     },
     {
       "ID": "BossForestDefeated",
@@ -10974,7 +10979,7 @@
       "Name": "Harvest and Home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -10996,9 +11001,9 @@
       "ID": "BossStudyAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Love",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 100
     },
     {
       "ID": "BossStudyDefeated",
@@ -11006,7 +11011,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -11022,7 +11027,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "BoxerBoss",
@@ -11036,9 +11041,9 @@
       "ID": "EnableHouseRules",
       "SetID": "3ojhj46",
       "Name": "No Harm in Looking",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 751
     },
     {
       "ID": "EndTimerFail",
@@ -11157,21 +11162,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 25002,
+      "Progressed": 25037,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 3932,
+      "Progressed": 3967,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:09:56.2954111+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:09:15.1842624+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:01:18.4403066+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:09:56.2954885+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:59:48.4122492+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:09:15.1843168+00:00"
 }

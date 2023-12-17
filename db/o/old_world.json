@@ -2154,9 +2154,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15791,
+  "EOS_Progressed": 15793,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17794,6 +17794,11 @@
       "Time": "2023-12-17T04:09:04.1757268+00:00",
       "NumProgressed": 15791,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-17T11:08:59.862235+00:00",
+      "NumProgressed": 15793,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -18237,7 +18242,7 @@
       "Name": "Explorer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -18293,7 +18298,7 @@
       "Name": "Intrepid",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -18717,7 +18722,7 @@
       "Name": "Friendly Family",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -20540,21 +20545,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15791,
+      "Progressed": 15793,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15791,
+      "Progressed": 15793,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-15T15:02:40.4686922+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:09:34.8116282+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:08:59.8622348+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:02:53.0799899+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:09:34.8127781+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:02:42.2939268+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:08:59.8631722+00:00"
 }

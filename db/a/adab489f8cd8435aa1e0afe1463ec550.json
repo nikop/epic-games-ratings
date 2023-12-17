@@ -4,7 +4,7 @@
   "ProductSlug": "cybertd-22dbd6",
   "Ranking_EOS_Progress": 599,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewPlayers": 531,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -140,17 +140,17 @@
       "ID": "10",
       "SetID": "6hl9l7f",
       "Name": "The End?",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "11",
       "SetID": "6hl9l7f",
       "Name": "Weapon Master",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "12",
@@ -172,17 +172,17 @@
       "ID": "14",
       "SetID": "6hl9l7f",
       "Name": "Ability Master",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "15",
       "SetID": "6hl9l7f",
       "Name": "Infected Triforce",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "16",
@@ -244,9 +244,9 @@
       "ID": "22",
       "SetID": "6hl9l7f",
       "Name": "Trashmaster",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "23",
@@ -372,9 +372,9 @@
       "ID": "37",
       "SetID": "6hl9l7f",
       "Name": "Smoking Can Kill",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "38",
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:04:50.0410512+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:04:05.6282413+00:00",
   "LastUpdate_AppInfo": "2023-12-10T15:57:12.5848871+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:58:54.1023596+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:04:50.041084+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:58:11.0000995+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:04:05.6282618+00:00"
 }

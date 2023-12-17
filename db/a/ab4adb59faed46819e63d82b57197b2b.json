@@ -4,7 +4,7 @@
   "ProductSlug": "the-crackpet-show-0bf5c4",
   "Ranking_EOS_Progress": 594,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewPlayers": 531,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-09-27T15:00:00+00:00",
@@ -246,9 +246,9 @@
       "ID": "DO_N_RUNS_1",
       "SetID": "dcng643",
       "Name": "Rookie",
-      "Percentage": 32,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "DO_N_RUNS_2",
@@ -470,9 +470,9 @@
       "ID": "KILL_BOSS_4",
       "SetID": "dcng643",
       "Name": "Holy Moly",
-      "Percentage": 21,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "KILL_BOSS_5",
@@ -797,8 +797,8 @@
   ],
   "FirstSeen": "2023-09-28T16:00:28.1613796+00:00",
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:08:09.6390511+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:06:29.7033753+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:11.0747481+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:01:14.0201733+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:08:09.6391166+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:59:45.655029+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:06:29.7034327+00:00"
 }

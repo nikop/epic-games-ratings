@@ -2,9 +2,9 @@
   "ID": "3319fe5042ab4392a2b11c6938c0cda1",
   "Name": "Thief",
   "ProductSlug": "thief-5bb95f",
-  "Ranking_EOS_Progress": 528,
+  "Ranking_EOS_Progress": 526,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 45,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -194,6 +194,11 @@
       "Time": "2023-12-17T08:04:42.5954785+00:00",
       "NumProgressed": 44,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T11:04:36.6025857+00:00",
+      "NumProgressed": 45,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.6694863+00:00",
@@ -244,7 +249,7 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "ae95dh3",
       "Name": "Child of the Shadows",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -300,7 +305,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "ae95dh3",
       "Name": "Quickly Pick a Lucky Lock",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -340,7 +345,7 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "ae95dh3",
       "Name": "All That Glitters",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -356,7 +361,7 @@
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "ae95dh3",
       "Name": "Two Faced",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -364,7 +369,7 @@
       "ID": "NEW_ACHIEVEMENT_1_27",
       "SetID": "ae95dh3",
       "Name": "The Drop",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 30
     },
@@ -372,7 +377,7 @@
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "ae95dh3",
       "Name": "Lockdown",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -396,7 +401,7 @@
       "ID": "NEW_ACHIEVEMENT_1_30",
       "SetID": "ae95dh3",
       "Name": "Dirty Secrets",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -501,14 +506,14 @@
     {
       "ID": "ae95dh3",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 45,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:05:33.1178779+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:04:36.6025856+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184739+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:59:32.8703372+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:05:33.1179027+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:58:36.42339+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:04:36.6026031+00:00"
 }

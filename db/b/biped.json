@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8050,
+  "EOS_Progressed": 8057,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 733,
+  "EOS_NewPlayers": 739,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14189,6 +14189,11 @@
       "Time": "2023-12-17T10:07:04.3822498+00:00",
       "NumProgressed": 8050,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T11:05:42.7733999+00:00",
+      "NumProgressed": 8057,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -14200,7 +14205,7 @@
       "Name": "First Step",
       "Percentage": 33,
       "XP": 45,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2659
     },
     {
       "ID": "10",
@@ -14216,7 +14221,7 @@
       "Name": "Telepathic",
       "Percentage": 8,
       "XP": 70,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "12",
@@ -14256,7 +14261,7 @@
       "Name": "Dense Forest",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     },
     {
       "ID": "3",
@@ -14264,7 +14269,7 @@
       "Name": "Cactus Vally",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "4",
@@ -14296,7 +14301,7 @@
       "Name": "Blue Rapids",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "8",
@@ -14319,7 +14324,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 8050,
+      "Progressed": 8057,
       "Completed": 0
     }
   ],
@@ -14327,8 +14332,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:07:04.3822493+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:05:42.7733997+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:47.9764383+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:57:21.8512369+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:07:04.3823577+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:57:07.9071657+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:05:42.7734615+00:00"
 }

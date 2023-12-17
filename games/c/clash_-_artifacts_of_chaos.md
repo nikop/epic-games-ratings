@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Declawing | 66.00% | ~80 |
+| Declawing | 67.00% | ~81 |
 | Target Practice | 43.00% | ~52 |
 | The Bigger They Are | 32.00% | ~39 |
 | Your Training Continues | 31.00% | ~38 |

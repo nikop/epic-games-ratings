@@ -13,12 +13,12 @@ Rating: 4.54 (Ranked 535)
 | Drone Dodger | 8.00% | ~1,329 |
 | Celebrations are in Order | 8.00% | ~1,329 |
 | Impossible Objects | 8.00% | ~1,329 |
-| Stogie for Fogey | 7.00% | ~1,162 |
-| Spore Taste | 7.00% | ~1,162 |
+| Stogie for Fogey | 7.00% | ~1,163 |
+| Spore Taste | 7.00% | ~1,163 |
 | Safe Cracker | 7.00% | ~179 |
 | Zen Master | 7.00% | ~179 |
 | Madame Undersecretary | 7.00% | ~179 |
-| Call it Even | 6.00% | ~996 |
+| Call it Even | 6.00% | ~997 |
 | Keep Arjun in Check | 6.00% | ~154 |
 | Data Archivist | 5.00% | ~830 |
 | Drug Gifter | 5.00% | ~830 |
@@ -27,7 +27,7 @@ Rating: 4.54 (Ranked 535)
 | Doctor Approved | 4.00% | ~664 |
 | Bottoms up! | 4.00% | ~664 |
 | Thorston Mayer | 4.00% | ~664 |
-| Master Negotiator | 4.00% | ~102 |
+| Master Negotiator | 4.00% | ~103 |
 | Data Logger | 3.00% | ~498 |
 | Miraculous Maya | 3.00% | ~498 |
 | Data Master | 2.00% | ~332 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 535)
 | Scavenger Star | 0.20% | ~33 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,607 (Ranked 152)  
+Progressed: 16,610 (Ranked 152)  
 Completed: 43 (0.26%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 43 (0.26%) (Ranked 251)
 | 2023-12-14 | 16,263 | 43 |
 | 2023-12-15 | 16,416 | 43 |
 | 2023-12-16 | 16,565 | 43 |
-| 2023-12-17 | 16,607 | 43 |
+| 2023-12-17 | 16,610 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

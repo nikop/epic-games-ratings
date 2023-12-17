@@ -36,8 +36,8 @@ Number of Ratings: 45  (23.09.2022)
 | Empty the Caves | 0.50% | ~8 |
 | Bonebreakers | 0.50% | ~8 |
 | Plague Doctor | 0.50% | ~8 |
+| In Soil, In Smoke | 0.50% | ~8 |
 | All My Birds, Safely Home | 0.50% | ~8 |
-| In Soil, In Smoke | 0.40% | ~6 |
 | Wingknight's Prowess | 0.40% | ~6 |
 | Lochias's Hunger | 0.40% | ~6 |
 | We Emerge Changed | 0.30% | ~5 |

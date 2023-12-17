@@ -1005,9 +1005,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4588,
+  "EOS_Progressed": 4589,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 479,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7500,6 +7500,11 @@
       "Time": "2023-12-17T10:07:43.4293366+00:00",
       "NumProgressed": 4588,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T11:06:10.3361059+00:00",
+      "NumProgressed": 4589,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -7528,7 +7533,7 @@
       "Name": "Big Spender",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "achievement_12",
@@ -7608,7 +7613,7 @@
       "Name": "Saw It Coming",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2662
     },
     {
       "ID": "achievement_21",
@@ -7646,9 +7651,9 @@
       "ID": "achievement_6",
       "SetID": "aiin7da",
       "Name": "Roster Reshuffle",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1193
     },
     {
       "ID": "achievement_7",
@@ -7679,7 +7684,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4588,
+      "Progressed": 4589,
       "Completed": 0
     }
   ],
@@ -7687,8 +7692,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-17T01:51:08.1616116+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:07:43.4293362+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:06:10.3361056+00:00",
   "LastUpdate_AppInfo": "2023-12-14T08:57:09.6557001+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:58:55.0898903+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:07:43.429385+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:58:11.6423388+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:06:10.3361474+00:00"
 }

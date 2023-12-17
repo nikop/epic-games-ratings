@@ -5,9 +5,9 @@
   "Ranking_Rating": 150,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
-  "Ranking_EOS_Progress": 245,
+  "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1612,
+  "EOS_Progressed": 1616,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2488,6 +2488,11 @@
       "Time": "2023-12-17T09:04:24.9857112+00:00",
       "NumProgressed": 1612,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-17T11:03:28.9565281+00:00",
+      "NumProgressed": 1616,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2499,7 +2504,7 @@
       "Name": "Lovebirds",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 774
+      "UsersEstimate": 776
     },
     {
       "ID": "10",
@@ -2515,15 +2520,15 @@
       "Name": "Strike!",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "12",
       "SetID": "n50no0",
       "Name": "Shake the rust off their feet",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 339
+      "UsersEstimate": 323
     },
     {
       "ID": "13",
@@ -2531,7 +2536,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "14",
@@ -2547,7 +2552,7 @@
       "Name": "Back to rust",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "16",
@@ -2555,7 +2560,7 @@
       "Name": "My little pony",
       "Percentage": 19,
       "XP": 70,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "17",
@@ -2563,15 +2568,15 @@
       "Name": "Balding bloot!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1244
     },
     {
       "ID": "18",
       "SetID": "n50no0",
       "Name": "Like new!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 226
     },
     {
       "ID": "19",
@@ -2579,7 +2584,7 @@
       "Name": "Second thoughts",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "2",
@@ -2587,7 +2592,7 @@
       "Name": "Flower Powered",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "20",
@@ -2595,7 +2600,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "21",
@@ -2603,7 +2608,7 @@
       "Name": "Mooning the moon",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "22",
@@ -2627,7 +2632,7 @@
       "Name": "In my shoes",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "25",
@@ -2643,7 +2648,7 @@
       "Name": "Strip-a-bobble",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "29",
@@ -2651,7 +2656,7 @@
       "Name": "A love supreme",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "3",
@@ -2659,7 +2664,7 @@
       "Name": "Hug therapy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 679
     },
     {
       "ID": "30",
@@ -2707,7 +2712,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 695
     },
     {
       "ID": "7",
@@ -2723,7 +2728,7 @@
       "Name": "Over my dead body",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "9",
@@ -2738,15 +2743,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1612,
+      "Progressed": 1616,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:03:58.8730769+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:03:28.9565279+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.3116727+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:57:41.0548111+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:03:58.8731253+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:57:22.9485398+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:03:28.9565598+00:00"
 }

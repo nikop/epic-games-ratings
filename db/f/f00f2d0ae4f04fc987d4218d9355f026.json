@@ -2,9 +2,9 @@
   "ID": "f00f2d0ae4f04fc987d4218d9355f026",
   "Name": "Bio Inc. Redemption",
   "ProductSlug": "bio-inc-redemption-280fe5",
-  "Ranking_EOS_Progress": 606,
+  "Ranking_EOS_Progress": 603,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -99,6 +99,11 @@
       "Time": "2023-12-17T01:57:59.4144758+00:00",
       "NumProgressed": 16,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T11:05:13.1594657+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T04:03:25.1214353+00:00",
@@ -133,7 +138,7 @@
       "ID": "BusyLabs",
       "SetID": "aaidab7",
       "Name": "Busy Labs",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -141,7 +146,7 @@
       "ID": "CirculatoryCollapse",
       "SetID": "aaidab7",
       "Name": "Circulatory Collapse",
-      "Percentage": 50,
+      "Percentage": 47,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -173,7 +178,7 @@
       "ID": "DiagnosticPro",
       "SetID": "aaidab7",
       "Name": "Diagnostic Professional",
-      "Percentage": 38,
+      "Percentage": 35,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -189,7 +194,7 @@
       "ID": "HeartAttack",
       "SetID": "aaidab7",
       "Name": "Heart Attack",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -229,7 +234,7 @@
       "ID": "Loser",
       "SetID": "aaidab7",
       "Name": "Loser",
-      "Percentage": 38,
+      "Percentage": 35,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -253,7 +258,7 @@
       "ID": "MedStudent",
       "SetID": "aaidab7",
       "Name": "Medical Student",
-      "Percentage": 50,
+      "Percentage": 47,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -269,7 +274,7 @@
       "ID": "NervousCollapse",
       "SetID": "aaidab7",
       "Name": "Nervous Collapse",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -277,7 +282,7 @@
       "ID": "Opportunist",
       "SetID": "aaidab7",
       "Name": "Opportunist",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -285,7 +290,7 @@
       "ID": "PrescriptionFrenzy",
       "SetID": "aaidab7",
       "Name": "Prescription Frenzy",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -301,7 +306,7 @@
       "ID": "RenalCollapse",
       "SetID": "aaidab7",
       "Name": "Renal Collapse",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -309,7 +314,7 @@
       "ID": "RespiratoryCollapse",
       "SetID": "aaidab7",
       "Name": "Respiratory Collapse",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -317,7 +322,7 @@
       "ID": "RichieRich",
       "SetID": "aaidab7",
       "Name": "Richie Rich",
-      "Percentage": 50,
+      "Percentage": 47,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -325,7 +330,7 @@
       "ID": "SilentKiller",
       "SetID": "aaidab7",
       "Name": "Silent Killer",
-      "Percentage": 50,
+      "Percentage": 47,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -341,7 +346,7 @@
       "ID": "Stabilized",
       "SetID": "aaidab7",
       "Name": "Stabilized",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -349,15 +354,15 @@
       "ID": "Thrifty",
       "SetID": "aaidab7",
       "Name": "Thrifty",
-      "Percentage": 19,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "WalkInThePark",
       "SetID": "aaidab7",
       "Name": "Walk In The Park",
-      "Percentage": 63,
+      "Percentage": 59,
       "XP": 30,
       "UsersEstimate": 10
     }
@@ -366,14 +371,14 @@
     {
       "ID": "aaidab7",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:06:25.7070064+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:05:13.1594656+00:00",
   "LastUpdate_AppInfo": "2023-12-12T03:57:09.7303206+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:00:39.3276732+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:06:25.7070298+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:59:21.0723695+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:05:13.159479+00:00"
 }

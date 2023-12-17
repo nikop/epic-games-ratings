@@ -18,9 +18,9 @@
 | Pulp! Adventures into the Unknown | 15.00% | ~9 |
 | Diagnosis: fear | 15.00% | ~9 |
 | Ambition is... blind | 15.00% | ~9 |
+| The seer | 14.00% | ~8 |
 | You have two wishes left | 14.00% | ~8 |
-| The seer | 12.00% | ~7 |
-| A rival with no options | 10.00% | ~6 |
+| A rival with no options | 12.00% | ~7 |
 | Et in arcadia ego | 10.00% | ~6 |
 | You've awakened the beast | 8.00% | ~5 |
 | Hate is... addictive | 8.00% | ~5 |
@@ -30,6 +30,7 @@
 | Welcome to Hellville | 8.00% | ~5 |
 | Bread and bocaua | 5.00% | ~3 |
 | Fanatacism is... poisonous | 5.00% | ~3 |
+| The scholar | 5.00% | ~3 |
 | The adventurer | 5.00% | ~3 |
 | Pulp! The Beyond | 5.00% | ~3 |
 | ECO mode | 5.00% | ~3 |
@@ -37,7 +38,6 @@
 | Blessed antennas | 3.00% | ~2 |
 | The beast in the Oval Office | 3.00% | ~2 |
 | Blood Red Island | 3.00% | ~2 |
-| The scholar | 3.00% | ~2 |
 | Pulp! True Adventures | 3.00% | ~2 |
 | Pulp! Weird Science | 2.00% | ~1 |
 | Pulp! Heart Throbs | 2.00% | ~1 |

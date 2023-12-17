@@ -33,7 +33,7 @@
 | Intriguing candies | 57.00% | ~227 |
 | Employee of the year | 57.00% | ~227 |
 | Fight for life | 56.00% | ~223 |
-| Legal courier | 52.00% | ~207 |
+| Legal courier | 53.00% | ~211 |
 | Extreme neuropower! | 52.00% | ~207 |
 | Escaped from a big trouble | 49.00% | ~196 |
 | Now you are worthy | 46.00% | ~184 |

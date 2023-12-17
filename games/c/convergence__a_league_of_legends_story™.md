@@ -15,16 +15,16 @@ Rating: 4.62 (Ranked 370)
 | No, Thanks! | 22.00% | ~222 |
 | The Prince in Heels | 22.00% | ~222 |
 | Honest Mistake | 22.00% | ~222 |
+| Fast Learner | 22.00% | ~222 |
 | Immaculate Aim | 22.00% | ~222 |
 | The Steel Shadow | 21.00% | ~212 |
 | The Harder They Fall | 21.00% | ~212 |
 | Breaking Down Barriers | 21.00% | ~212 |
 | The Wicked Twins | 21.00% | ~212 |
-| Fast Learner | 21.00% | ~212 |
+| Like Clockwork | 20.00% | ~202 |
 | The Betrayer | 20.00% | ~202 |
+| Golem Chaser | 20.00% | ~202 |
 | Right On Time | 19.00% | ~192 |
-| Like Clockwork | 19.00% | ~192 |
-| Golem Chaser | 19.00% | ~192 |
 | The Loose Cannon | 18.00% | ~182 |
 | Check Your Pulse | 18.00% | ~182 |
 | The Family Fortune | 18.00% | ~182 |

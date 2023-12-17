@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Welcome to Maupiroa | 43.00% | ~10 |
 | Recycling newbie | 35.00% | ~8 |
-| New recruit | 17.00% | ~4 |
-| Interesting | 13.00% | ~3 |
-| Amateur photographer | 9.00% | ~2 |
+| New recruit | 22.00% | ~5 |
+| Interesting | 17.00% | ~4 |
+| Amateur photographer | 13.00% | ~3 |
 | Heroic member | 9.00% | ~2 |
 | In search of knowledge | 9.00% | ~2 |
 | Power of the turtle | 9.00% | ~2 |
@@ -37,7 +37,7 @@
 | Picture of the creek | 0.00% | ~0 |
 | Well of science | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 577)  
+Progressed: 23 (Ranked 578)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |

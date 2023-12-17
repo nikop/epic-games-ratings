@@ -6,12 +6,12 @@ Number of Ratings: 1,331  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spells and Swords | 4.00% | ~1,000 |
-| Captain and Crew | 3.00% | ~750 |
-| Harvest and Home | 2.00% | ~500 |
-| Poise and Poisons | 2.00% | ~500 |
-| Suns and Soldiers | 2.00% | ~500 |
-| No Harm in Looking | 2.00% | ~500 |
+| Spells and Swords | 4.00% | ~1,001 |
+| Captain and Crew | 3.00% | ~751 |
+| No Harm in Looking | 3.00% | ~751 |
+| Harvest and Home | 2.00% | ~501 |
+| Poise and Poisons | 2.00% | ~501 |
+| Suns and Soldiers | 2.00% | ~501 |
 | Hands and Hammers | 1.00% | ~250 |
 | King and Kin | 1.00% | ~250 |
 | Progenitor and Protégé | 1.00% | ~250 |
@@ -22,10 +22,10 @@ Number of Ratings: 1,331  (23.09.2022)
 | Looks Familiar | 0.60% | ~150 |
 | Good Boy! | 0.60% | ~150 |
 | For Justice | 0.50% | ~125 |
-| For Survival | 0.40% | ~100 |
+| For Survival | 0.50% | ~125 |
+| For Love | 0.40% | ~100 |
 | Jack of all Trades | 0.40% | ~100 |
 | For Wrath | 0.30% | ~75 |
-| For Love | 0.30% | ~75 |
 | For Pride | 0.30% | ~75 |
 | K.O. | 0.30% | ~75 |
 | Just the Beginning | 0.30% | ~75 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,002 (Ranked 138)  
+Progressed: 25,037 (Ranked 138)  
 Completed: 35 (0.14%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 35 (0.14%) (Ranked 284)
 | 2023-12-14 | 24,104 | 35 |
 | 2023-12-15 | 24,454 | 35 |
 | 2023-12-16 | 24,777 | 35 |
-| 2023-12-17 | 25,002 | 35 |
+| 2023-12-17 | 25,037 | 35 |
 ## Awards
 Max (Extremely Fun): 223  (Ranked 283)  
 Sum: 1,704 (Ranked 225)  

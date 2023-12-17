@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -726,9 +726,9 @@
       "ID": "KR4_ACHIEVEMENT_BLACKBROTHER",
       "SetID": "caeik3h",
       "Name": "My Watch Begins",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "KR4_ACHIEVEMENT_BLACKBURN_RETURNS",
@@ -758,9 +758,9 @@
       "ID": "KR4_ACHIEVEMENT_BUILD_TOWERS_EASY",
       "SetID": "caeik3h",
       "Name": "We Can Build It!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 117
     },
     {
       "ID": "KR4_ACHIEVEMENT_CALL_EARLY_WAVES",
@@ -846,9 +846,9 @@
       "ID": "KR4_ACHIEVEMENT_FEELS_GOOD_TO_BE_BACK",
       "SetID": "caeik3h",
       "Name": "Feels Good To Be Back",
-      "Percentage": 99,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "KR4_ACHIEVEMENT_FIND_THE_CAPT",
@@ -934,9 +934,9 @@
       "ID": "KR4_ACHIEVEMENT_HODOR",
       "SetID": "caeik3h",
       "Name": "Hold The Door",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "KR4_ACHIEVEMENT_HORN",
@@ -1014,17 +1014,17 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_EASY",
       "SetID": "caeik3h",
       "Name": "No Survivors I",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_HARD",
       "SetID": "caeik3h",
       "Name": "No Survivors III",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
@@ -1046,25 +1046,25 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
       "SetID": "caeik3h",
       "Name": "Rightful Owner",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "KR4_ACHIEVEMENT_MADAGASCAR",
       "SetID": "caeik3h",
       "Name": "You Didn\u0027t See Nothing",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "KR4_ACHIEVEMENT_MELTINGFURNACE",
@@ -1086,9 +1086,9 @@
       "ID": "KR4_ACHIEVEMENT_MINE_CART_CARNAGE",
       "SetID": "caeik3h",
       "Name": "Mine Cart Carnage",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "KR4_ACHIEVEMENT_MOLE",
@@ -1134,9 +1134,9 @@
       "ID": "KR4_ACHIEVEMENT_ORCSHAMAN",
       "SetID": "caeik3h",
       "Name": "Thunderstruck",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "KR4_ACHIEVEMENT_PEERLESS_DEFENDER",
@@ -1174,9 +1174,9 @@
       "ID": "KR4_ACHIEVEMENT_SELL_TOWERS",
       "SetID": "caeik3h",
       "Name": "Go Green or Go Home",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "KR4_ACHIEVEMENT_SHADOWARCHERS",
@@ -1323,8 +1323,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:03:51.1922533+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:03:23.4322045+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.9365218+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:00:22.7612719+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:03:51.1923521+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:59:10.0314803+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:03:23.43228+00:00"
 }

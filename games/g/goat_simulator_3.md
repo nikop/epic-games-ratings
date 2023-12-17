@@ -1,51 +1,51 @@
 # Goat Simulator 3
 [Store](https://store.epicgames.com/en-US/p/goat-simulator-3)  
 [View Rawdata](../../db/g/goat_simulator_3.json)  
-Rating: 4.84 (Ranked 53)  
+Rating: 4.83 (Ranked 62)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~233,754 |
-| Private Club | 73.00% | ~187,517 |
-| Rogue Guild | 65.00% | ~166,967 |
-| I Watched the Intro | 57.00% | ~146,418 |
-| Covert Consortium | 55.00% | ~141,280 |
-| Goat Queen | 53.00% | ~136,143 |
-| Reach the Stratosphere | 50.00% | ~128,436 |
-| Synchronization Complete | 47.00% | ~120,730 |
-| Secret Society | 45.00% | ~115,593 |
-| Shadow Syndicate | 37.00% | ~95,043 |
-| What a Waste of Money | 33.00% | ~84,768 |
-| New Goat Order | 30.00% | ~77,062 |
-| Don't touch the servers | 28.00% | ~71,924 |
-| Real Buoy | 27.00% | ~69,356 |
-| San Angora: Become Human | 26.00% | ~66,787 |
-| Raider of the Lost Parking Garage | 26.00% | ~66,787 |
-| Welcome to Earth | 25.00% | ~64,218 |
-| Egg Simulator | 19.00% | ~48,806 |
-| Into the Matrix | 19.00% | ~48,806 |
-| Where is It? | 17.00% | ~43,668 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~38,531 |
-| 401(K.O.) | 15.00% | ~38,531 |
-| Black Market | 14.00% | ~35,962 |
-| Car Cave | 12.00% | ~30,825 |
-| Club Mohair | 8.00% | ~20,550 |
-| A Center for Ants? | 8.00% | ~20,550 |
-| French Fika | 7.00% | ~17,981 |
-| Nasty! | 5.00% | ~12,844 |
-| Who Baywatches the Baywatch? | 4.00% | ~10,275 |
-| [REDACTED] | 4.00% | ~10,275 |
-| Cannibanana | 2.00% | ~5,137 |
-| Daredevil | 2.00% | ~5,137 |
+| Forgotten Sorority | 91.00% | ~233,793 |
+| Private Club | 73.00% | ~187,548 |
+| Rogue Guild | 65.00% | ~166,995 |
+| I Watched the Intro | 57.00% | ~146,442 |
+| Covert Consortium | 55.00% | ~141,303 |
+| Goat Queen | 53.00% | ~136,165 |
+| Reach the Stratosphere | 50.00% | ~128,458 |
+| Synchronization Complete | 47.00% | ~120,750 |
+| Secret Society | 45.00% | ~115,612 |
+| Shadow Syndicate | 37.00% | ~95,059 |
+| What a Waste of Money | 33.00% | ~84,782 |
+| New Goat Order | 30.00% | ~77,074 |
+| Don't touch the servers | 28.00% | ~71,936 |
+| Real Buoy | 27.00% | ~69,367 |
+| San Angora: Become Human | 26.00% | ~66,798 |
+| Raider of the Lost Parking Garage | 26.00% | ~66,798 |
+| Welcome to Earth | 25.00% | ~64,229 |
+| Egg Simulator | 19.00% | ~48,814 |
+| Into the Matrix | 19.00% | ~48,814 |
+| Where is It? | 17.00% | ~43,676 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~38,537 |
+| 401(K.O.) | 15.00% | ~38,537 |
+| Black Market | 14.00% | ~35,968 |
+| Car Cave | 12.00% | ~30,830 |
+| Club Mohair | 8.00% | ~20,553 |
+| A Center for Ants? | 8.00% | ~20,553 |
+| French Fika | 7.00% | ~17,984 |
+| Nasty! | 5.00% | ~12,846 |
+| Who Baywatches the Baywatch? | 4.00% | ~10,277 |
+| [REDACTED] | 4.00% | ~10,277 |
+| Cannibanana | 2.00% | ~5,138 |
+| Daredevil | 2.00% | ~5,138 |
 | Crocsquatch | 1.00% | ~2,569 |
 | You Trusted Your Instincts | 1.00% | ~2,569 |
 | Certified Fresh | 1.00% | ~2,569 |
 | Streaking | 1.00% | ~2,569 |
 | Try Hard 2 | 1.00% | ~2,569 |
 | Move! That! Bus! | 0.60% | ~1,541 |
-| G.O.A.T | 0.40% | ~1,027 |
+| G.O.A.T | 0.40% | ~1,028 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,873 (Ranked 60)  
+Progressed: 256,915 (Ranked 60)  
 Completed: 909 (0.35%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,22 +286,22 @@ Completed: 909 (0.35%) (Ranked 233)
 | 2023-12-14 | 254,935 | 904 |
 | 2023-12-15 | 255,724 | 906 |
 | 2023-12-16 | 256,556 | 907 |
-| 2023-12-17 | 256,873 | 909 |
+| 2023-12-17 | 256,915 | 909 |
 ## Awards
 Max (Great for Beginners): 499  (Ranked 214)  
-Sum: 4,110 (Ranked 155)  
+Sum: 4,115 (Ranked 155)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 499 |
 | This game has Diverse Characters | 474 |
 | This game is Highly Recommended | 439 |
-| This game has Amazing Characters | 410 |
+| This game has Amazing Characters | 413 |
 | This game is Extremely Fun | 403 |
 | This game has Amazing Storytelling | 388 |
+| This game has Quickly Understood Controls | 381 |
 | This game has a Silly Community | 381 |
 | This game is Relaxing | 379 |
-| This game has Quickly Understood Controls | 379 |
 | This game has Easy Combat | 358 |
 | This game is Educational | 263 |
 ## Ratings History
@@ -571,4 +571,4 @@ Diff (max vs sum): 59
 | 2023-12-14 | 4.84 | 494 | 4,088 |
 | 2023-12-15 | 4.84 | 497 | 4,098 |
 | 2023-12-16 | 4.84 | 499 | 4,109 |
-| 2023-12-17 | 4.84 | 499 | 4,110 |
+| 2023-12-17 | 4.84 | 499 | 4,115 |

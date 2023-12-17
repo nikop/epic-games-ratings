@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.42 (Ranked 720)  
+Rating: 4.42 (Ranked 719)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,7 +19,7 @@ Rating: 4.42 (Ranked 720)
 | Right through the middle | 58.00% | ~1,404 |
 | Poor Devil | 54.00% | ~1,307 |
 | Facility Manager | 53.00% | ~1,283 |
-| Producer | 50.00% | ~1,210 |
+| Producer | 51.00% | ~1,235 |
 | Apprentice | 42.00% | ~1,017 |
 | Bridge Builder | 42.00% | ~1,017 |
 | Going once, going twice, sold | 36.00% | ~872 |
@@ -35,9 +35,9 @@ Rating: 4.42 (Ranked 720)
 | Country Life | 28.00% | ~678 |
 | Hostile Takeover | 25.00% | ~605 |
 | Seven at one stroke | 24.00% | ~581 |
+| Traffic Junction | 22.00% | ~533 |
 | Breaking Ground | 22.00% | ~533 |
 | Trailblazer | 21.00% | ~508 |
-| Traffic Junction | 21.00% | ~508 |
 | Traffic Jam | 19.00% | ~460 |
 | Networker | 18.00% | ~436 |
 | Resistance is futile | 17.00% | ~412 |

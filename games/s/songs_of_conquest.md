@@ -6,9 +6,9 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 39.00% | ~205 |
-| Double Kill | 32.00% | ~168 |
-| Critical Hit | 17.00% | ~89 |
+| Adept | 40.00% | ~211 |
+| Double Kill | 32.00% | ~169 |
+| Critical Hit | 17.00% | ~90 |
 | Veteran | 16.00% | ~84 |
 | Dressed For Success | 11.00% | ~58 |
 | Humiliation | 8.00% | ~42 |
@@ -16,7 +16,7 @@ Number of Ratings: 292  (23.09.2022)
 | Veni, Vidi, Vici | 7.00% | ~37 |
 | Multi Kill | 6.00% | ~32 |
 | Landlord Extraordinaire | 6.00% | ~32 |
-| Master | 6.00% | ~32 |
+| Master | 5.00% | ~26 |
 | Whoops! | 4.00% | ~21 |
 | Don't Touch My Stuff | 3.00% | ~16 |
 | Trojan Horse | 3.00% | ~16 |
@@ -28,10 +28,10 @@ Number of Ratings: 292  (23.09.2022)
 | Deepstrike | 2.00% | ~11 |
 | Pyrrhic Victory | 2.00% | ~11 |
 | Infernal Influence | 1.00% | ~5 |
-| From the Ashes | 1.00% | ~5 |
 | Such A Fungi | 1.00% | ~5 |
 | Ultra Kill | 1.00% | ~5 |
-| Grand Master | 1.00% | ~5 |
+| From the Ashes | 0.90% | ~5 |
+| Grand Master | 0.90% | ~5 |
 | Get Over Here! | 0.80% | ~4 |
 | Death To Diplomacy | 0.60% | ~3 |
 | Unlimited Power! | 0.60% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526 (Ranked 324)  
+Progressed: 528 (Ranked 324)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 474 | 0 |
 | 2023-12-15 | 488 | 0 |
 | 2023-12-16 | 515 | 0 |
-| 2023-12-17 | 526 | 0 |
+| 2023-12-17 | 528 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 519)  
 Sum: 194 (Ranked 411)  

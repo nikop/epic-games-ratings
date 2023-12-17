@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,681 |
-| Basic in Bulk | 8.00% | ~11,681 |
-| Titan's First Steps | 8.00% | ~11,681 |
-| Tinkle of Coins | 7.00% | ~10,221 |
+| Sponsored by Argon | 8.00% | ~11,682 |
+| Basic in Bulk | 8.00% | ~11,682 |
+| Titan's First Steps | 8.00% | ~11,682 |
+| Tinkle of Coins | 7.00% | ~10,222 |
 | Disintermediation | 6.00% | ~8,761 |
 | Capitalism Ho! | 6.00% | ~8,761 |
 | Another Satisfied Customer | 5.00% | ~7,301 |
@@ -21,23 +21,23 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 4.00% | ~5,841 |
 | Through Repetition, Perfection | 4.00% | ~5,841 |
 | Own the Means of Production | 4.00% | ~5,841 |
-| The Daily Grind | 3.00% | ~4,380 |
-| On the Path to Greatness | 3.00% | ~4,380 |
-| Ascended | 3.00% | ~4,380 |
-| Vanity, Verily | 3.00% | ~4,380 |
-| Bounty Hunters | 3.00% | ~4,380 |
-| Blank Page Syndrome | 3.00% | ~4,380 |
-| Demand for Supplies | 3.00% | ~4,380 |
-| Flooding the Market | 3.00% | ~4,380 |
-| Where it Hurts | 3.00% | ~4,380 |
-| Efficient Floor Space | 3.00% | ~4,380 |
-| Gem Expert | 3.00% | ~4,380 |
-| Gild-Gotten Goods | 3.00% | ~4,380 |
-| Helping Hand | 3.00% | ~4,380 |
-| Accomplished Merchant | 3.00% | ~4,380 |
-| Dungeon Imports | 3.00% | ~4,380 |
-| Did we pack lunch? | 3.00% | ~4,380 |
-| Arcane Industries | 3.00% | ~4,380 |
+| The Daily Grind | 3.00% | ~4,381 |
+| On the Path to Greatness | 3.00% | ~4,381 |
+| Ascended | 3.00% | ~4,381 |
+| Vanity, Verily | 3.00% | ~4,381 |
+| Bounty Hunters | 3.00% | ~4,381 |
+| Blank Page Syndrome | 3.00% | ~4,381 |
+| Demand for Supplies | 3.00% | ~4,381 |
+| Flooding the Market | 3.00% | ~4,381 |
+| Where it Hurts | 3.00% | ~4,381 |
+| Efficient Floor Space | 3.00% | ~4,381 |
+| Gem Expert | 3.00% | ~4,381 |
+| Gild-Gotten Goods | 3.00% | ~4,381 |
+| Helping Hand | 3.00% | ~4,381 |
+| Accomplished Merchant | 3.00% | ~4,381 |
+| Dungeon Imports | 3.00% | ~4,381 |
+| Did we pack lunch? | 3.00% | ~4,381 |
+| Arcane Industries | 3.00% | ~4,381 |
 | A Notch Above the Rest | 2.00% | ~2,920 |
 | Cream of the Crop | 2.00% | ~2,920 |
 | Top of the World | 2.00% | ~2,920 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~584 |
 | Capitalist Camaraderie | 0.20% | ~292 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,014 (Ranked 80)  
+Progressed: 146,023 (Ranked 80)  
 Completed: 319 (0.22%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -360,7 +360,7 @@ Completed: 319 (0.22%) (Ranked 259)
 | 2023-12-14 | 145,474 | 307 |
 | 2023-12-15 | 145,699 | 316 |
 | 2023-12-16 | 145,933 | 319 |
-| 2023-12-17 | 146,014 | 319 |
+| 2023-12-17 | 146,023 | 319 |
 ## Awards
 Max (Great for Beginners): 4,898  (Ranked 75)  
 Sum: 27,756 (Ranked 51)  

@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 7.00% | ~198 |
-| This guy... again? | 4.00% | ~113 |
-| Lost and Found | 4.00% | ~113 |
+| Malpractice Assurance | 7.00% | ~199 |
+| This guy... again? | 4.00% | ~114 |
+| Lost and Found | 4.00% | ~114 |
 | This Belongs in a Museum | 3.00% | ~3,839 |
 | Autodidact | 3.00% | ~3,839 |
 | Bloody Graduation | 3.00% | ~85 |
@@ -24,9 +24,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 2.00% | ~2,559 |
 | To Grandmother's House | 2.00% | ~2,559 |
 | FNG | 2.00% | ~2,559 |
-| Ploughshares to Swords | 2.00% | ~56 |
-| Friends 'Til the End | 2.00% | ~56 |
+| Ploughshares to Swords | 2.00% | ~57 |
+| Friends 'Til the End | 2.00% | ~57 |
 | Unleash Hell | 1.00% | ~1,280 |
+| Funny Guy | 1.00% | ~1,280 |
 | Long Live the King | 1.00% | ~1,280 |
 | Unfulfilled Desires | 1.00% | ~1,280 |
 | Dissector | 1.00% | ~1,280 |
@@ -46,7 +47,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unshackled | 1.00% | ~1,280 |
 | Road Trip | 1.00% | ~1,280 |
 | Resurrection | 0.90% | ~1,152 |
-| Funny Guy | 0.90% | ~1,152 |
 | Wyrdly Reconstructed | 0.90% | ~1,152 |
 | Boxcar Kid | 0.90% | ~1,152 |
 | Predator | 0.90% | ~1,152 |
@@ -68,7 +68,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Clearing the Ledger | 0.30% | ~384 |
 | Bacon Bits | 0.30% | ~384 |
 | Triage | 0.30% | ~384 |
-| Maître De La Lame | 0.30% | ~8 |
+| Maître De La Lame | 0.30% | ~9 |
 | A Life Well Lived | 0.20% | ~256 |
 | The World As It Was | 0.20% | ~256 |
 | Hat Trick | 0.20% | ~256 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 | On This Long Road, We Found Redemption | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,956 (Ranked 85)  
+Progressed: 127,973 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,17 +317,17 @@ Completed: 3 (0.00%) (Ranked 379)
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
-| 2023-12-17 | 127,956 | 3 |
+| 2023-12-17 | 127,973 | 3 |
 ## Awards
 Max (Character Customization): 7,763  (Ranked 50)  
-Sum: 20,642 (Ranked 58)  
+Sum: 20,652 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,763 |
 | This game has Diverse Characters | 1,711 |
 | This game has Challenging Combat | 1,599 |
-| This game is Highly Recommended | 1,525 |
+| This game is Highly Recommended | 1,535 |
 | This game has Amazing Characters | 1,461 |
 | This game is Extremely Fun | 1,457 |
 | This game has Amazing Storytelling | 1,384 |
@@ -662,4 +662,4 @@ Diff (max vs sum): -8
 | 2023-12-14 | 4.68 | - | 7,689 | 20,427 |
 | 2023-12-15 | 4.68 | - | 7,718 | 20,517 |
 | 2023-12-16 | 4.68 | - | 7,744 | 20,595 |
-| 2023-12-17 | 4.68 | - | 7,763 | 20,642 |
+| 2023-12-17 | 4.68 | - | 7,763 | 20,652 |

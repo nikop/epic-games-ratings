@@ -5,55 +5,55 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 12.00% | ~2,108 |
-| Get a Grip | 12.00% | ~2,108 |
-| Paper Jams | 11.00% | ~1,933 |
-| The Outer Way | 11.00% | ~1,933 |
-| Desperate Times | 10.00% | ~1,757 |
-| Chew 'Em Up | 9.00% | ~1,581 |
-| Float Like A Butterfly | 9.00% | ~1,581 |
-| Reforged | 8.00% | ~1,406 |
-| Workplace Hazard | 7.00% | ~1,230 |
-| If the SHU Fits... | 7.00% | ~1,230 |
-| Two Heads Are Better Than One | 6.00% | ~1,054 |
-| Without A Paddle | 6.00% | ~1,054 |
-| In the Pipe, Five by Five | 6.00% | ~1,054 |
-| Crash Site | 6.00% | ~1,054 |
-| Full Circle | 6.00% | ~1,054 |
-| Power Up | 6.00% | ~1,054 |
-| Keep Fighting | 6.00% | ~330 |
-| You Need a Gun | 5.00% | ~878 |
-| I Do Belong Here | 5.00% | ~878 |
-| Terminated | 5.00% | ~878 |
-| What Lies Beneath | 5.00% | ~878 |
+| Flesh Wound | 12.00% | ~2,110 |
+| Get a Grip | 12.00% | ~2,110 |
+| Paper Jams | 11.00% | ~1,934 |
+| The Outer Way | 11.00% | ~1,934 |
+| Desperate Times | 10.00% | ~1,758 |
+| Chew 'Em Up | 9.00% | ~1,583 |
+| Float Like A Butterfly | 9.00% | ~1,583 |
+| Reforged | 8.00% | ~1,407 |
+| Workplace Hazard | 7.00% | ~1,231 |
+| If the SHU Fits... | 7.00% | ~1,231 |
+| Two Heads Are Better Than One | 6.00% | ~1,055 |
+| Without A Paddle | 6.00% | ~1,055 |
+| In the Pipe, Five by Five | 6.00% | ~1,055 |
+| Crash Site | 6.00% | ~1,055 |
+| Full Circle | 6.00% | ~1,055 |
+| Power Up | 6.00% | ~1,055 |
+| Keep Fighting | 6.00% | ~331 |
+| You Need a Gun | 5.00% | ~879 |
+| I Do Belong Here | 5.00% | ~879 |
+| Terminated | 5.00% | ~879 |
+| What Lies Beneath | 5.00% | ~879 |
 | Giving Back | 4.00% | ~703 |
 | It's Time | 4.00% | ~220 |
-| In Striking Distance | 3.00% | ~527 |
-| The Commonality | 3.00% | ~527 |
+| In Striking Distance | 3.00% | ~528 |
+| The Commonality | 3.00% | ~528 |
 | One Last Job | 2.00% | ~110 |
 | Big Spender | 1.00% | ~55 |
 | This Isn't About Escape | 1.00% | ~55 |
-| Armed to the Teeth | 0.90% | ~49 |
+| Armed to the Teeth | 0.90% | ~50 |
 | Grim Reaper | 0.80% | ~141 |
 | Parole Denied | 0.80% | ~44 |
 | Information Overload | 0.80% | ~44 |
 | Mugshot | 0.70% | ~123 |
-| Instigator | 0.70% | ~38 |
+| Instigator | 0.70% | ~39 |
 | Quick Pick | 0.60% | ~33 |
 | Subject Alpha | 0.40% | ~22 |
-| Don't Let It Mellow | 0.30% | ~16 |
+| Don't Let It Mellow | 0.30% | ~17 |
 | The Protocol is About Life | 0.20% | ~35 |
 | Recidivist | 0.20% | ~11 |
 | Hoard Mode | 0.20% | ~11 |
 | It's over, Jacob! | 0.10% | ~18 |
-| Glutton for Punishment | 0.10% | ~5 |
-| You Belong Here | 0.10% | ~5 |
-| Lifer | 0.10% | ~5 |
-| Big Game Hunter | 0.10% | ~5 |
-| Bear Trap | 0.10% | ~5 |
+| Glutton for Punishment | 0.10% | ~6 |
+| You Belong Here | 0.10% | ~6 |
+| Lifer | 0.10% | ~6 |
+| Big Game Hunter | 0.10% | ~6 |
+| Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,570 (Ranked 149)  
+Progressed: 17,584 (Ranked 149)  
 Completed: 82 (0.47%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 82 (0.47%) (Ranked 215)
 | 2023-12-14 | 16,823 | 81 |
 | 2023-12-15 | 17,123 | 82 |
 | 2023-12-16 | 17,442 | 82 |
-| 2023-12-17 | 17,570 | 82 |
+| 2023-12-17 | 17,584 | 82 |
 ## Awards
 Max (Amazing Storytelling): 87  (Ranked 387)  
 Sum: 515 (Ranked 328)  

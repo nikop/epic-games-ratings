@@ -1749,9 +1749,9 @@
       "ID": "ACHIEVEMENT_AUTOTRADE_01",
       "SetID": "9eacipp",
       "Name": "Not a small trader anymore",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 263
     },
     {
       "ID": "ACHIEVEMENT_AVALANCHE_MINES",
@@ -2557,8 +2557,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-04T22:59:34.0965429+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:10:30.0419166+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:09:40.9180176+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.0701157+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:00:16.7591505+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:10:30.0420436+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:59:06.1110187+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:09:40.9181046+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "dishonored-death-of-the-outsider",
   "Ranking_Rating": 699,
   "Ranking_Popularity": 441,
-  "Ranking_PopularitySum": 351,
+  "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewPlayers": 531,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-12-15T16:00:00+00:00",
@@ -1347,10 +1347,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 388,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-12-17T10:58:20.6317828+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 392,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 388,
+  "NumberOfAwards": 392,
   "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1364,7 +1370,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game is Relaxing",
@@ -1382,7 +1388,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1400,7 +1406,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 44
+      "Count": 46
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1433,8 +1439,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-15T22:58:09.2323476+00:00",
   "FirstSeenRating": "2022-12-26T17:58:45.352902+00:00",
-  "LastChanged": "2023-12-16T10:58:28.4880731+00:00",
+  "LastChanged": "2023-12-17T10:58:20.6317826+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.3202554+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:59:08.4172763+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:05:44.5629675+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:58:20.6317833+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:04:44.4269022+00:00"
 }

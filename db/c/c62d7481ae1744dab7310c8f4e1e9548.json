@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -662,9 +662,9 @@
       "ID": "Cikady",
       "SetID": "ag48e8e",
       "Name": "Cicadas",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "Destilat",
@@ -750,9 +750,9 @@
       "ID": "MluviciPapouch",
       "SetID": "ag48e8e",
       "Name": "Mimicking Parrot",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Myska",
@@ -774,9 +774,9 @@
       "ID": "Netopyrek",
       "SetID": "ag48e8e",
       "Name": "Liana Bats",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Pejsek",
@@ -806,9 +806,9 @@
       "ID": "Rybka",
       "SetID": "ag48e8e",
       "Name": "Goldfish",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Sova",
@@ -886,9 +886,9 @@
       "ID": "ZpivajiciHouba",
       "SetID": "ag48e8e",
       "Name": "Dancing Fungus",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
@@ -901,8 +901,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:04:53.2468113+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:04:08.031094+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9485544+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:02:46.1123008+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:04:53.2468393+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:02:37.7826766+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:04:08.0311154+00:00"
 }

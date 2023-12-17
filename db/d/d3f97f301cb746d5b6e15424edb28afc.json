@@ -5,9 +5,9 @@
   "Ranking_Rating": 535,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
-  "Ranking_EOS_Progress": 256,
+  "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -79,7 +79,7 @@
   "Tags": [],
   "EOS_Progressed": 1251,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3311,9 +3311,9 @@
       "ID": "ACH_WASHCAR_02",
       "SetID": "5fn8ia4",
       "Name": "Squeaky Clean",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 450
+      "UsersEstimate": 463
     },
     {
       "ID": "ACH_WASHCAR_03",
@@ -3759,9 +3759,9 @@
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Obtained!",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1051
     },
     {
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
@@ -3984,8 +3984,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-15T16:57:11.4281266+00:00",
-  "LastChanged_Achievements": "2023-12-17T10:06:05.0789084+00:00",
+  "LastChanged_Achievements": "2023-12-17T11:04:58.1821373+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:58:45.087997+00:00",
-  "LastUpdate_Achievements": "2023-12-17T10:06:05.0790275+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:58:05.1992814+00:00",
+  "LastUpdate_Achievements": "2023-12-17T11:04:58.1822151+00:00"
 }

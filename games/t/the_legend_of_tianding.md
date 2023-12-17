@@ -17,9 +17,9 @@
 | Sewer Rat | 31.00% | ~13 |
 | Urban Explorer | 29.00% | ~12 |
 | Steal Her Away | 29.00% | ~12 |
+| Tour Guide | 26.00% | ~11 |
 | Demon Slayer | 26.00% | ~11 |
 | Fight Fire With Fire | 26.00% | ~11 |
-| Tour Guide | 24.00% | ~10 |
 | Big Eater | 21.00% | ~9 |
 | Not Today | 21.00% | ~9 |
 | Coward | 21.00% | ~9 |
