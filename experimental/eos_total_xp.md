@@ -164,6 +164,7 @@
 | [Bug Fables -The Everlasting Sapling-](../games/b/bug_fables_-the_everlasting_sapling-.md) | 30 | 1,000 |
 | [Bugsnax](../games/b/bugsnax.md) | 30 | 1,000 |
 | [Bunny Park](../games/b/bunny_park.md) | 18 | 1,000 |
+| [Burst Hero](../games/c/c923cc91073d4405bd8d2f356066bfbd.md) | 69 | 1,000 |
 | [Bus World](../games/e/e5fe6253deb3455c9ce9ecf0d2b68a6d.md) | 14 | 1,000 |
 | [Busway Islands - Puzzle](../games/b/busway_islands_-_puzzle.md) | 35 | 1,000 |
 | [Butchers Don't Surf!](../games/b/butchers_don't_surf!.md) | 21 | 1,000 |
