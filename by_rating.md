@@ -77,7 +77,7 @@
 | 71 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 0 | 564 |
 | 71 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 564 |
 | 71 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 486 |
-| 71 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 959 | 161 |
+| 71 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 965 | 161 |
 | 71 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 241 | 273 |
 | 71 | [Sifu](games/s/sifu.md) | 4.82 | 6,935 | 55 |
 | 71 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 433 | 230 |
@@ -229,7 +229,7 @@
 | 215 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 0 | 564 |
 | 215 | [Tchia](games/t/tchia.md) | 4.70 | 0 | 564 |
 | 215 | [The Witness](games/t/the_witness.md) | 4.70 | 187 | 303 |
-| 215 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,751 | 78 |
+| 215 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,753 | 78 |
 | 215 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 0 | 564 |
 | 215 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 564 |
 | 233 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 564 |
@@ -493,7 +493,7 @@
 | 484 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 25 | 528 |
 | 484 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,390 | 96 |
 | 484 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 564 |
-| 484 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,608 | 81 |
+| 484 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,621 | 81 |
 | 484 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 20,845 | 22 |
 | 484 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,794 | 121 |
 | 497 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 0 | 564 |
@@ -506,7 +506,7 @@
 | 497 | [Hue](games/h/hue.md) | 4.56 | 0 | 564 |
 | 497 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 564 |
 | 497 | [Little Inferno](games/l/little_inferno.md) | 4.56 | 0 | 564 |
-| 497 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,751 | 78 |
+| 497 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,751 | 79 |
 | 497 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 8,417 | 46 |
 | 497 | [Oxenfree](games/o/oxenfree.md) | 4.56 | 0 | 564 |
 | 497 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,825 | 119 |
@@ -836,19 +836,19 @@
 | 834 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.32 | 0 | 564 |
 | 834 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 4.32 | 0 | 564 |
 | 834 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.32 | 22 | 546 |
-| 834 | [Golden Light](games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 4.32 | 0 | 564 |
 | 834 | [Hammerting](games/h/hammerting.md) | 4.32 | 0 | 564 |
 | 834 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 0 | 564 |
 | 834 | [Paladins](games/p/paladins.md) | 4.32 | 3,926 | 87 |
 | 834 | [Predecessor](games/p/predecessor.md) | 4.32 | 241 | 273 |
 | 834 | [Vampyr](games/v/vampyr.md) | 4.32 | 582 | 204 |
-| 843 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 373 | 240 |
-| 843 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 0 | 564 |
-| 843 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 564 |
-| 843 | [Chess Ultra](games/c/chess_ultra.md) | 4.31 | 0 | 564 |
-| 843 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.31 | 71 | 405 |
-| 843 | [Hellpoint](games/h/hellpoint.md) | 4.31 | 0 | 564 |
-| 843 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 992 | 157 |
+| 842 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 373 | 240 |
+| 842 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 0 | 564 |
+| 842 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 564 |
+| 842 | [Chess Ultra](games/c/chess_ultra.md) | 4.31 | 0 | 564 |
+| 842 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.31 | 71 | 405 |
+| 842 | [Golden Light](games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 4.31 | 0 | 564 |
+| 842 | [Hellpoint](games/h/hellpoint.md) | 4.31 | 0 | 564 |
+| 842 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 992 | 157 |
 | 850 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.30 | 1,037 | 154 |
 | 850 | [ELEX II](games/e/elex_ii.md) | 4.30 | 0 | 564 |
 | 850 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.30 | 0 | 564 |

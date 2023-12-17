@@ -800,6 +800,7 @@
 | [Train World](../games/t/train_world.md) | 50 | 1,000 |
 | [Transport Fever 2](../games/t/transport_fever_2.md) | 61 | 1,000 |
 | [Trash Troopers Earth Reclaim](../games/4/403db5711e5047ef8407ba1ab1fb944a.md) | 8 | 1,000 |
+| [TrekkingAndCamping](../games/5/5f9ba5f02fce44f4ab7faba53e835305.md) | 16 | 1,000 |
 | [Tri6 Infinite](../games/9/9588d511dc28483dbadb1b8c1ec196e9.md) | 24 | 1,000 |
 | [Tribu](../games/e/e7b4e081597b4c148f26d6e8d6866efd.md) | 14 | 1,000 |
 | [Trifox](../games/t/trifox.md) | 46 | 1,000 |
