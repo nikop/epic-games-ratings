@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 483,
+  "Ranking_EOS_NewPlayers": 484,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -326,9 +326,9 @@
       "ID": "15",
       "SetID": "38ide56",
       "Name": "Mr. Porter",
-      "Percentage": 52,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "16",
@@ -398,9 +398,9 @@
       "ID": "23",
       "SetID": "38ide56",
       "Name": "Never Miss",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "24",
@@ -454,17 +454,17 @@
       "ID": "3",
       "SetID": "38ide56",
       "Name": "Risky Rescue",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "4",
       "SetID": "38ide56",
       "Name": "Carlos Is Tangled",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "5",
@@ -519,8 +519,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:03:25.5280453+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:03:31.2882402+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:49.2024353+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:58:45.6062383+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:03:25.5280653+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:58:47.2011691+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:03:31.2882531+00:00"
 }

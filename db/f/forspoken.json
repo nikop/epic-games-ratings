@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 355,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -486,9 +486,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 44131,
+  "EOS_Progressed": 44139,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 636,
+  "EOS_NewPlayers": 642,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15371,6 +15371,11 @@
       "Time": "2023-12-17T03:08:24.1112468+00:00",
       "NumProgressed": 44131,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T04:08:28.3609511+00:00",
+      "NumProgressed": 44139,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15396,9 +15401,9 @@
       "ID": "CAMP",
       "SetID": "6d0g7k8",
       "Name": "Outdoorsperson",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 1324
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -15414,7 +15419,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1766
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -15430,7 +15435,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -15438,7 +15443,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1766
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -15534,7 +15539,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3089
+      "UsersEstimate": 3090
     },
     {
       "ID": "CUFF_ATTACK",
@@ -15622,7 +15627,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3089
+      "UsersEstimate": 3090
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -15638,7 +15643,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1766
     },
     {
       "ID": "MAGIC_IVY",
@@ -15718,7 +15723,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3972
+      "UsersEstimate": 3973
     },
     {
       "ID": "SPRING_ALL",
@@ -15805,22 +15810,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44131,
+      "Progressed": 44139,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8968,
-      "Completed": 8968
+      "Progressed": 8976,
+      "Completed": 8976
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-16T02:18:37.9301013+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:08:24.1112464+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:08:28.3609509+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:58:26.8620697+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:08:24.1113305+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:58:28.5861544+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:08:28.3610316+00:00"
 }

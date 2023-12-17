@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 483,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 478,
+  "EOS_Progressed": 479,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -517,6 +517,11 @@
       "Time": "2023-12-15T16:03:52.4974313+00:00",
       "NumProgressed": 478,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T04:04:00.9311315+00:00",
+      "NumProgressed": 479,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -584,7 +589,7 @@
       "Name": "Built in a Day",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -630,9 +635,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "631ndc2",
       "Name": "More Brain Than Brawn",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 144
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -640,7 +645,7 @@
       "Name": "Club Member",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -656,7 +661,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -688,7 +693,7 @@
       "Name": "Hundred Percent Second",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -896,7 +901,7 @@
       "Name": "Mobile Infantry",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_48",
@@ -927,7 +932,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 478,
+      "Progressed": 479,
       "Completed": 1
     }
   ],
@@ -935,8 +940,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:03:55.8882322+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:04:00.9311312+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.7923718+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:59:48.0185754+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:03:55.8882691+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:59:50.7754+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:04:00.9311774+00:00"
 }

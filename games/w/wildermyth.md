@@ -38,11 +38,11 @@ Number of Ratings: 45  (23.09.2022)
 | Plague Doctor | 0.50% | ~8 |
 | All My Birds, Safely Home | 0.50% | ~8 |
 | In Soil, In Smoke | 0.40% | ~6 |
+| Wingknight's Prowess | 0.40% | ~6 |
 | Lochias's Hunger | 0.40% | ~6 |
 | We Emerge Changed | 0.30% | ~5 |
 | Worldwalker | 0.30% | ~5 |
 | No More Nightmares | 0.30% | ~5 |
-| Wingknight's Prowess | 0.30% | ~5 |
 | Bears are Scary | 0.30% | ~5 |
 | Fight Like a Bird | 0.30% | ~5 |
 | Grillmaster | 0.30% | ~5 |

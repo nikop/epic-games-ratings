@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -475,10 +475,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1556646,
-  "EOS_Completed": 746,
-  "EOS_NewPlayers": 1365,
-  "EOS_NewCompleters": 5,
+  "EOS_Progressed": 1556650,
+  "EOS_Completed": 747,
+  "EOS_NewPlayers": 1363,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
     {
@@ -27995,6 +27995,11 @@
       "Time": "2023-12-17T03:03:48.5152525+00:00",
       "NumProgressed": 1556646,
       "NumCompleted": 746
+    },
+    {
+      "Time": "2023-12-17T04:03:53.6341856+00:00",
+      "NumProgressed": 1556650,
+      "NumCompleted": 747
     }
   ],
   "TotalAchievements": 20,
@@ -28014,7 +28019,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 108965
+      "UsersEstimate": 108966
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -28038,7 +28043,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 46699
+      "UsersEstimate": 46700
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -28086,7 +28091,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 46699
+      "UsersEstimate": 46700
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -28165,15 +28170,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1556646,
-      "Completed": 746
+      "Progressed": 1556650,
+      "Completed": 747
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-12-08T12:00:51.5497062+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:03:48.5152521+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:03:53.6341855+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.8814559+00:00",
-  "LastUpdate_Ratings": "2023-12-17T03:00:28.423291+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:03:48.5153854+00:00"
+  "LastUpdate_Ratings": "2023-12-17T04:02:32.5407588+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:03:53.6342899+00:00"
 }

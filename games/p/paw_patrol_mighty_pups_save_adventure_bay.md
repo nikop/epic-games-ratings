@@ -8,18 +8,18 @@
 | Grand Re-Opening | 67.00% | ~31 |
 | Pup Pup Boogie | 67.00% | ~31 |
 | Summer Day | 63.00% | ~29 |
-| Mr. Porter | 52.00% | ~24 |
-| Risky Rescue | 50.00% | ~23 |
-| Carlos Is Tangled | 48.00% | ~22 |
+| Mr. Porter | 54.00% | ~25 |
+| Risky Rescue | 52.00% | ~24 |
+| Carlos Is Tangled | 50.00% | ~23 |
 | Mandy Family | 43.00% | ~20 |
 | Clear the Road | 41.00% | ~19 |
 | Paw patrol member | 41.00% | ~19 |
 | Robot Out of Control | 41.00% | ~19 |
 | Break Time | 35.00% | ~16 |
+| Never Miss | 35.00% | ~16 |
 | Master of the Rope | 33.00% | ~15 |
 | Training Day | 33.00% | ~15 |
 | In the Air | 33.00% | ~15 |
-| Never Miss | 33.00% | ~15 |
 | Animal Sighting | 28.00% | ~13 |
 | The Fastest | 26.00% | ~12 |
 | Don’t Miss Any | 26.00% | ~12 |

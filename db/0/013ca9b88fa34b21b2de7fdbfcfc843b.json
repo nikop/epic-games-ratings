@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 355,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -225,7 +225,7 @@
   "Tags": [],
   "EOS_Progressed": 8477,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8625,9 +8625,9 @@
       "ID": "CHAPTER_5_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Clear the Air",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -8952,8 +8952,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-15T16:03:24.8361061+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:09:37.0168756+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:09:41.818039+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-17T03:02:55.6518656+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:09:37.0169491+00:00"
+  "LastUpdate_Ratings": "2023-12-17T04:03:00.2128386+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:09:41.8180978+00:00"
 }

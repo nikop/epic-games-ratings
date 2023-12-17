@@ -4,7 +4,7 @@
   "ProductSlug": "monster-tide-ee5a7b",
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-30T01:50:14.6628972+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:03:16.6423507+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:03:22.2842988+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:18:55.5467292+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:59:15.6663156+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:03:16.6423554+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:59:17.0769085+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:03:22.2843014+00:00"
 }

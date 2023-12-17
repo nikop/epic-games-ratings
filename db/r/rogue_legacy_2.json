@@ -3,11 +3,11 @@
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
   "Ranking_Rating": 47,
-  "Ranking_Popularity": 282,
+  "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 24815,
+  "EOS_Progressed": 24836,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1133,
+  "EOS_NewPlayers": 1153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -10800,6 +10800,11 @@
       "Time": "2023-12-17T03:09:16.2514352+00:00",
       "NumProgressed": 24815,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-17T04:09:20.7903767+00:00",
+      "NumProgressed": 24836,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10875,7 +10880,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -10899,7 +10904,7 @@
       "Name": "For Wrath",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "BossCaveDefeated",
@@ -10939,7 +10944,7 @@
       "Name": "Harvest and Home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -10971,7 +10976,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -10979,7 +10984,7 @@
       "Name": "For Pride",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "BossTowerDefeated",
@@ -10987,7 +10992,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "BoxerBoss",
@@ -10995,7 +11000,7 @@
       "Name": "K.O.",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "EnableHouseRules",
@@ -11003,7 +11008,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "EndTimerFail",
@@ -11083,7 +11088,7 @@
       "Name": "Just the Beginning",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "StoryTutorial",
@@ -11091,7 +11096,7 @@
       "Name": "Wasted Betrayal",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "TitleDrop",
@@ -11122,21 +11127,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 24815,
+      "Progressed": 24836,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 3745,
+      "Progressed": 3766,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:09:16.2514348+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:09:20.7903765+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:59:48.9936488+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:09:16.2515036+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:59:51.8072469+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:09:20.7904933+00:00"
 }

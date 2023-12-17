@@ -2,9 +2,9 @@
   "ID": "78d62c43bcae4a649f87fdb6c0105b9a",
   "Name": "Enchanted Portals",
   "ProductSlug": "enchanted-portals-65ca68",
-  "Ranking_EOS_Progress": 531,
+  "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 484,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-09-26T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42,
+  "EOS_Progressed": 43,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -239,6 +239,11 @@
       "Time": "2023-12-06T01:57:02.1599857+00:00",
       "NumProgressed": 42,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T04:08:39.7600039+00:00",
+      "NumProgressed": 43,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T01:48:39.6492868+00:00",
@@ -265,7 +270,7 @@
       "ID": "forest",
       "SetID": "40o2ndb",
       "Name": "Welcome to the whoOoOoOoOotel",
-      "Percentage": 60,
+      "Percentage": 58,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -273,7 +278,7 @@
       "ID": "hotel",
       "SetID": "40o2ndb",
       "Name": "Very clean, would recommend!",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -297,7 +302,7 @@
       "ID": "laboratory",
       "SetID": "40o2ndb",
       "Name": "Loose frogs in the laboratory",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -313,7 +318,7 @@
       "ID": "matrix",
       "SetID": "40o2ndb",
       "Name": "The virus database has been updated.",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -329,7 +334,7 @@
       "ID": "ufo",
       "SetID": "40o2ndb",
       "Name": "The great escape",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -337,7 +342,7 @@
       "ID": "world1",
       "SetID": "40o2ndb",
       "Name": "Hasta la vista, Meowitch!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 85,
       "UsersEstimate": 16
     },
@@ -385,7 +390,7 @@
       "ID": "world4",
       "SetID": "40o2ndb",
       "Name": "Sleep well Mwamwa Princess",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 85,
       "UsersEstimate": 7
     },
@@ -401,7 +406,7 @@
       "ID": "world5",
       "SetID": "40o2ndb",
       "Name": "Rocky, the eye of the rooster",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 85,
       "UsersEstimate": 7
     },
@@ -417,7 +422,7 @@
       "ID": "world6",
       "SetID": "40o2ndb",
       "Name": "The tale is over and the mages come over",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 85,
       "UsersEstimate": 7
     }
@@ -426,14 +431,14 @@
     {
       "ID": "40o2ndb",
       "IsBase": true,
-      "Progressed": 42,
+      "Progressed": 43,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:08:35.366956+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:08:39.7600038+00:00",
   "LastUpdate_AppInfo": "2023-12-11T01:45:34.759912+00:00",
-  "LastUpdate_Ratings": "2023-12-17T03:02:45.0645944+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:08:35.3669689+00:00"
+  "LastUpdate_Ratings": "2023-12-17T04:02:49.2548162+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:08:39.760013+00:00"
 }

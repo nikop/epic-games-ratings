@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1022,
+  "EOS_Progressed": 1023,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2622,6 +2622,11 @@
       "Time": "2023-12-16T23:03:24.9864602+00:00",
       "NumProgressed": 1022,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T04:03:19.7272858+00:00",
+      "NumProgressed": 1023,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2642,7 +2647,7 @@
       "Name": "Ab Initio",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "AnthropicHills",
@@ -2688,9 +2693,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 225
     },
     {
       "ID": "ChasingTheLight",
@@ -2698,7 +2703,7 @@
       "Name": "Chasing the Light",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Chicken",
@@ -2776,9 +2781,9 @@
       "ID": "GoodCitizen",
       "SetID": "1n308hc",
       "Name": "Good Citizen",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 41
     },
     {
       "ID": "GrasslandsRing",
@@ -2850,7 +2855,7 @@
       "Name": "Museum Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "MuseumVisitor",
@@ -2914,7 +2919,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "RemnantsOfThePast",
@@ -2946,7 +2951,7 @@
       "Name": "Signatory",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "SingleRod",
@@ -3105,7 +3110,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1022,
+      "Progressed": 1023,
       "Completed": 1
     }
   ],
@@ -3113,8 +3118,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:03:14.0570874+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:03:19.7272856+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:57:53.9725416+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:03:14.0571432+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:57:53.818581+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:03:19.7273718+00:00"
 }

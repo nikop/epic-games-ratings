@@ -5,7 +5,7 @@ Rating: 3.50 (Ranked 1,062)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 7.00% | ~133 |
+| I Like My Stakes Rare! | 8.00% | ~151 |
 | Home Is Where the Heart Is | 5.00% | ~95 |
 | ICU | 5.00% | ~95 |
 | Wounded Whispers | 5.00% | ~95 |

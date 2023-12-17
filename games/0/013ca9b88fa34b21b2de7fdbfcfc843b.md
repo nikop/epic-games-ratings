@@ -9,10 +9,10 @@ Rating: 4.61 (Ranked 389)
 | Azoria Beckons | 0.60% | ~51 |
 | ... And Spit Back Out | 0.50% | ~42 |
 | Calm Sailing | 0.40% | ~34 |
+| Clear the Air | 0.40% | ~34 |
 | Break-Net Speed | 0.40% | ~34 |
 | Bramble Breaker | 0.40% | ~34 |
 | Open the Gate! | 0.30% | ~25 |
-| Clear the Air | 0.30% | ~25 |
 | Search for the Hairy Grell | 0.30% | ~25 |
 | Miner 49er | 0.30% | ~25 |
 | Humble Collector | 0.30% | ~25 |

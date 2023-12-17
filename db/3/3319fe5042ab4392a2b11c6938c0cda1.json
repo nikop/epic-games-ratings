@@ -2,9 +2,9 @@
   "ID": "3319fe5042ab4392a2b11c6938c0cda1",
   "Name": "Thief",
   "ProductSlug": "thief-5bb95f",
-  "Ranking_EOS_Progress": 536,
+  "Ranking_EOS_Progress": 532,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -174,6 +174,11 @@
       "Time": "2023-12-17T02:29:42.2299842+00:00",
       "NumProgressed": 39,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T04:04:29.6726361+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.6694863+00:00",
@@ -184,7 +189,7 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "ae95dh3",
       "Name": "Obsessive Compulsive",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -264,9 +269,9 @@
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "ae95dh3",
       "Name": "Happy Birthday",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -344,7 +349,7 @@
       "ID": "NEW_ACHIEVEMENT_1_27",
       "SetID": "ae95dh3",
       "Name": "The Drop",
-      "Percentage": 72,
+      "Percentage": 68,
       "XP": 5,
       "UsersEstimate": 28
     },
@@ -352,7 +357,7 @@
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "ae95dh3",
       "Name": "Lockdown",
-      "Percentage": 36,
+      "Percentage": 34,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -360,7 +365,7 @@
       "ID": "NEW_ACHIEVEMENT_1_29",
       "SetID": "ae95dh3",
       "Name": "Dust to Dust",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -384,7 +389,7 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "ae95dh3",
       "Name": "A Friend in Need",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -408,7 +413,7 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "ae95dh3",
       "Name": "Mint Condition",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -440,7 +445,7 @@
       "ID": "NEW_ACHIEVEMENT_2_0",
       "SetID": "ae95dh3",
       "Name": "The Forsaken",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -448,7 +453,7 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "ae95dh3",
       "Name": "A Man Apart",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -456,7 +461,7 @@
       "ID": "NEW_ACHIEVEMENT_2_2",
       "SetID": "ae95dh3",
       "Name": "The Hidden City",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -464,7 +469,7 @@
       "ID": "NEW_ACHIEVEMENT_2_3",
       "SetID": "ae95dh3",
       "Name": "The Dawn\u0027s Light",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -481,14 +486,14 @@
     {
       "ID": "ae95dh3",
       "IsBase": true,
-      "Progressed": 39,
+      "Progressed": 41,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:04:24.6890125+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:04:29.6726359+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184739+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:58:39.2336966+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:04:24.6890461+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:58:40.8016754+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:04:29.6726531+00:00"
 }

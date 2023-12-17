@@ -251,9 +251,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 9589,
+  "EOS_Progressed": 9613,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1943,
+  "EOS_NewPlayers": 1966,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -6801,6 +6801,11 @@
       "Time": "2023-12-17T03:09:30.7650269+00:00",
       "NumProgressed": 9589,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-17T04:09:35.3779519+00:00",
+      "NumProgressed": 9613,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6821,7 +6826,7 @@
       "Name": "Baby Steps",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2781
+      "UsersEstimate": 2788
     },
     {
       "ID": "BeLikeWater",
@@ -6837,7 +6842,7 @@
       "Name": "Bikemaggedon",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 479
+      "UsersEstimate": 481
     },
     {
       "ID": "ChewingTheScenery",
@@ -6853,7 +6858,7 @@
       "Name": "Connection Lost",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1442
     },
     {
       "ID": "Eavesdropper",
@@ -6869,7 +6874,7 @@
       "Name": "Explosive Personality",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1154
     },
     {
       "ID": "FasterThanLight",
@@ -6885,7 +6890,7 @@
       "Name": "First Time?",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 3836
+      "UsersEstimate": 3845
     },
     {
       "ID": "FuneralForTheDeath",
@@ -6893,7 +6898,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 863
+      "UsersEstimate": 865
     },
     {
       "ID": "GarbageMan",
@@ -6901,15 +6906,15 @@
       "Name": "Garbage Man",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Godrunner",
       "SetID": "acc6ea0",
       "Name": "Godrunner",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 19
     },
     {
       "ID": "HalfManHalfMachine",
@@ -6917,7 +6922,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1250
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -6925,7 +6930,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 479
+      "UsersEstimate": 481
     },
     {
       "ID": "JackOfAllTrades",
@@ -6941,7 +6946,7 @@
       "Name": "Live By The Sword",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "MasterManipulator",
@@ -6957,7 +6962,7 @@
       "Name": "Nasty!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1918
+      "UsersEstimate": 1923
     },
     {
       "ID": "NoMoreTotems",
@@ -6965,7 +6970,7 @@
       "Name": "No More Totems",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 671
+      "UsersEstimate": 673
     },
     {
       "ID": "NotLikeTheOthers",
@@ -6989,7 +6994,7 @@
       "Name": "Scorch Squaaad!",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "TheFloorIsLava",
@@ -7005,7 +7010,7 @@
       "Name": "The Old-School Way",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1634
     },
     {
       "ID": "TheQuarterback",
@@ -7013,7 +7018,7 @@
       "Name": "The Quarterback",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2973
+      "UsersEstimate": 2980
     },
     {
       "ID": "ThisIsDharma",
@@ -7021,7 +7026,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 959
+      "UsersEstimate": 961
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -7029,7 +7034,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1346
     },
     {
       "ID": "UnResurrected",
@@ -7037,7 +7042,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 671
+      "UsersEstimate": 673
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -7045,7 +7050,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1250
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -7053,7 +7058,7 @@
       "Name": "Digestive Issues",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 863
+      "UsersEstimate": 865
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -7069,7 +7074,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 575
+      "UsersEstimate": 577
     },
     {
       "ID": "k01101110",
@@ -7077,14 +7082,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 575
+      "UsersEstimate": 577
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 9589,
+      "Progressed": 9613,
       "Completed": 17
     }
   ],
@@ -7092,8 +7097,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-16T16:58:00.480404+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:09:30.7650261+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:09:35.3779517+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:14.4379471+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:57:59.9767388+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:09:30.7650812+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:58:00.0102977+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:09:35.3779908+00:00"
 }

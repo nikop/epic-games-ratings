@@ -5,7 +5,7 @@
   "Ranking_Rating": 455,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
-  "Ranking_EOS_Progress": 259,
+  "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 58,
@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1214,
+  "EOS_Progressed": 1215,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.55,
   "EosHistory": [
@@ -4177,6 +4177,11 @@
       "Time": "2023-12-17T03:04:29.8518402+00:00",
       "NumProgressed": 1214,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-12-17T04:04:35.0580134+00:00",
+      "NumProgressed": 1215,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 28,
@@ -4194,9 +4199,9 @@
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 741
+      "UsersEstimate": 753
     },
     {
       "ID": "MQ02_1",
@@ -4228,7 +4233,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "MQ03_1",
@@ -4236,7 +4241,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "MQ03_2",
@@ -4252,7 +4257,7 @@
       "Name": "History Check",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "MQ03_4",
@@ -4292,15 +4297,15 @@
       "Name": "The New World",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 522
+      "UsersEstimate": 510
     },
     {
       "ID": "MQ05_2",
@@ -4372,7 +4377,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "MQ08_1",
@@ -4380,7 +4385,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "MQ08_2",
@@ -4396,7 +4401,7 @@
       "Name": "Fhtagn!",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "PLTN",
@@ -4411,7 +4416,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1214,
+      "Progressed": 1215,
       "Completed": 31
     }
   ],
@@ -4419,8 +4424,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-14T11:03:29.6730885+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:04:29.8518399+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:04:35.058013+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-17T03:02:52.3052185+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:04:29.8518701+00:00"
+  "LastUpdate_Ratings": "2023-12-17T04:02:56.8263033+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:04:35.0580467+00:00"
 }

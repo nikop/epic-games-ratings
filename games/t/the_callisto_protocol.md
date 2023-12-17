@@ -1,35 +1,35 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.20 (Ranked 929)  
+Rating: 4.20 (Ranked 930)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 11.00% | ~1,923 |
-| Get a Grip | 11.00% | ~1,923 |
-| Paper Jams | 11.00% | ~1,923 |
-| The Outer Way | 11.00% | ~1,923 |
-| Desperate Times | 10.00% | ~1,748 |
-| Chew 'Em Up | 9.00% | ~1,573 |
-| Float Like A Butterfly | 9.00% | ~1,573 |
+| Flesh Wound | 11.00% | ~1,924 |
+| Get a Grip | 11.00% | ~1,924 |
+| Paper Jams | 11.00% | ~1,924 |
+| The Outer Way | 11.00% | ~1,924 |
+| Desperate Times | 10.00% | ~1,749 |
+| Chew 'Em Up | 9.00% | ~1,574 |
+| Float Like A Butterfly | 9.00% | ~1,574 |
 | Reforged | 8.00% | ~1,399 |
 | Workplace Hazard | 7.00% | ~1,224 |
 | If the SHU Fits... | 7.00% | ~1,224 |
-| Two Heads Are Better Than One | 6.00% | ~1,049 |
-| Without A Paddle | 6.00% | ~1,049 |
-| In the Pipe, Five by Five | 6.00% | ~1,049 |
-| Crash Site | 6.00% | ~1,049 |
-| Power Up | 6.00% | ~1,049 |
+| Two Heads Are Better Than One | 6.00% | ~1,050 |
+| Without A Paddle | 6.00% | ~1,050 |
+| In the Pipe, Five by Five | 6.00% | ~1,050 |
+| Crash Site | 6.00% | ~1,050 |
+| Power Up | 6.00% | ~1,050 |
 | Keep Fighting | 6.00% | ~325 |
-| You Need a Gun | 5.00% | ~874 |
-| I Do Belong Here | 5.00% | ~874 |
-| Terminated | 5.00% | ~874 |
-| What Lies Beneath | 5.00% | ~874 |
-| Full Circle | 5.00% | ~874 |
-| Giving Back | 4.00% | ~699 |
-| It's Time | 4.00% | ~216 |
-| In Striking Distance | 3.00% | ~524 |
-| The Commonality | 3.00% | ~524 |
+| You Need a Gun | 5.00% | ~875 |
+| I Do Belong Here | 5.00% | ~875 |
+| Terminated | 5.00% | ~875 |
+| What Lies Beneath | 5.00% | ~875 |
+| Full Circle | 5.00% | ~875 |
+| Giving Back | 4.00% | ~700 |
+| It's Time | 4.00% | ~217 |
+| In Striking Distance | 3.00% | ~525 |
+| The Commonality | 3.00% | ~525 |
 | One Last Job | 2.00% | ~108 |
 | Big Spender | 1.00% | ~54 |
 | This Isn't About Escape | 1.00% | ~54 |
@@ -39,7 +39,7 @@ Rating: 4.20 (Ranked 929)
 | Information Overload | 0.80% | ~43 |
 | Mugshot | 0.70% | ~122 |
 | Instigator | 0.70% | ~38 |
-| Quick Pick | 0.60% | ~32 |
+| Quick Pick | 0.60% | ~33 |
 | Subject Alpha | 0.40% | ~22 |
 | Don't Let It Mellow | 0.30% | ~16 |
 | The Protocol is About Life | 0.20% | ~35 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 929)
 | Bear Trap | 0.10% | ~5 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,483 (Ranked 149)  
+Progressed: 17,492 (Ranked 149)  
 Completed: 82 (0.47%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,16 +286,16 @@ Completed: 82 (0.47%) (Ranked 215)
 | 2023-12-14 | 16,823 | 81 |
 | 2023-12-15 | 17,123 | 82 |
 | 2023-12-16 | 17,442 | 82 |
-| 2023-12-17 | 17,483 | 82 |
+| 2023-12-17 | 17,492 | 82 |
 ## Awards
 Max (Amazing Storytelling): 87  (Ranked 387)  
-Sum: 514 (Ranked 328)  
+Sum: 515 (Ranked 328)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 87 |
+| This game has Quickly Understood Controls | 86 |
 | This game is Highly Recommended | 85 |
-| This game has Quickly Understood Controls | 85 |
 | This game has Amazing Characters | 83 |
 | This game is Extremely Fun | 79 |
 | This game has Challenging Combat | 63 |
@@ -476,4 +476,4 @@ Diff (max vs sum): 59
 | 2023-12-14 | 4.19 | 85 | 506 |
 | 2023-12-15 | 4.20 | 85 | 509 |
 | 2023-12-16 | 4.20 | 85 | 512 |
-| 2023-12-17 | 4.20 | 87 | 514 |
+| 2023-12-17 | 4.20 | 87 | 515 |

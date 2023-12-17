@@ -5,9 +5,9 @@
   "Ranking_Rating": 215,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
-  "Ranking_EOS_Progress": 178,
+  "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -251,7 +251,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8058,
+  "EOS_Progressed": 8059,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
@@ -9276,6 +9276,11 @@
       "Time": "2023-12-17T01:56:37.8256093+00:00",
       "NumProgressed": 8058,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-17T04:03:44.2662881+00:00",
+      "NumProgressed": 8059,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9375,7 +9380,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "ICONOCLAST",
@@ -9383,7 +9388,7 @@
       "Name": "Iconoclast",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "IN_A_PINCH",
@@ -9431,7 +9436,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -9454,7 +9459,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8058,
+      "Progressed": 8059,
       "Completed": 34
     }
   ],
@@ -9462,8 +9467,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:03:38.4389841+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:03:44.2662879+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.5620941+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:27:57.8638239+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:03:38.4390436+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:57:04.5099485+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:03:44.2663475+00:00"
 }

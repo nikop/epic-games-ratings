@@ -6,15 +6,15 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,677 |
-| Basic in Bulk | 8.00% | ~11,677 |
-| Titan's First Steps | 8.00% | ~11,677 |
+| Sponsored by Argon | 8.00% | ~11,678 |
+| Basic in Bulk | 8.00% | ~11,678 |
+| Titan's First Steps | 8.00% | ~11,678 |
 | Tinkle of Coins | 7.00% | ~10,218 |
 | Disintermediation | 6.00% | ~8,758 |
 | Capitalism Ho! | 6.00% | ~8,758 |
-| Another Satisfied Customer | 5.00% | ~7,298 |
-| It's Free Real Estate | 5.00% | ~7,298 |
-| Budding Merchant | 5.00% | ~7,298 |
+| Another Satisfied Customer | 5.00% | ~7,299 |
+| It's Free Real Estate | 5.00% | ~7,299 |
+| Budding Merchant | 5.00% | ~7,299 |
 | One Easy Payment | 4.00% | ~5,839 |
 | Some Assembly Required | 4.00% | ~5,839 |
 | Pretty Penny | 4.00% | ~5,839 |
@@ -37,63 +37,63 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 3.00% | ~4,379 |
 | Did we pack lunch? | 3.00% | ~4,379 |
 | Arcane Industries | 3.00% | ~4,379 |
-| A Notch Above the Rest | 2.00% | ~2,919 |
-| Cream of the Crop | 2.00% | ~2,919 |
-| Proud Paladin | 2.00% | ~2,919 |
-| Above the Norm | 2.00% | ~2,919 |
-| A Ronin Reborn | 2.00% | ~2,919 |
-| Tax not Included | 2.00% | ~2,919 |
-| The King's Caprice | 2.00% | ~2,919 |
-| Research & Development | 2.00% | ~2,919 |
-| Thirst for Knowledge | 2.00% | ~2,919 |
-| Big Game Hunting | 2.00% | ~2,919 |
-| Fated Encounters | 2.00% | ~2,919 |
-| For the Hoard! | 2.00% | ~2,919 |
-| Booty by the Boatload | 2.00% | ~2,919 |
-| Scrapbooker | 2.00% | ~2,919 |
-| Archivist | 2.00% | ~2,919 |
-| Locally Sourced | 2.00% | ~2,919 |
-| Flying off the Shelves | 2.00% | ~2,919 |
-| This Power Level...! | 2.00% | ~2,919 |
-| Omae wa Mou Shindeiru | 2.00% | ~2,919 |
-| Master of Transmutation | 2.00% | ~2,919 |
-| Hidden Potential | 2.00% | ~2,919 |
-| Power of Love | 2.00% | ~2,919 |
-| Supercharged | 2.00% | ~2,919 |
-| Expansion in Session | 2.00% | ~2,919 |
-| Ritualist | 2.00% | ~2,919 |
-| Cranked up to 11 | 2.00% | ~2,919 |
-| Fit for a King | 2.00% | ~2,919 |
-| By Your Powers Combined... | 2.00% | ~2,919 |
-| Flawless Fusion | 2.00% | ~2,919 |
-| A Legend is Born | 2.00% | ~2,919 |
-| Trash to Treasure | 2.00% | ~2,919 |
-| Royal Ransom | 2.00% | ~2,919 |
-| Mammonite | 2.00% | ~2,919 |
-| Wealth Beyond Measure | 2.00% | ~2,919 |
-| Helping Hand | 2.00% | ~2,919 |
-| Fat Cat Tag Team | 2.00% | ~2,919 |
-| Necromancer Queen | 2.00% | ~2,919 |
-| Item of Renown | 2.00% | ~2,919 |
-| Master Merchant | 2.00% | ~2,919 |
-| Miracle Alchemist | 2.00% | ~2,919 |
-| Laden with Loot | 2.00% | ~2,919 |
-| Bountiful Harvest | 2.00% | ~2,919 |
-| Natural 20 | 2.00% | ~2,919 |
-| Seasoned Journeyman | 2.00% | ~2,919 |
-| Precision Engineering | 2.00% | ~2,919 |
-| Scourge of the Seas | 2.00% | ~2,919 |
-| Attrition Mission | 2.00% | ~2,919 |
-| Glittering Collection | 2.00% | ~2,919 |
-| Treasure Trove | 2.00% | ~2,919 |
-| Black Friday Special | 2.00% | ~2,919 |
-| Master Recycler | 2.00% | ~2,919 |
-| Magical Harmony | 2.00% | ~2,919 |
-| All Accounted For | 2.00% | ~2,919 |
-| Special Ingredient | 2.00% | ~2,919 |
-| Exotic Commodities | 2.00% | ~2,919 |
-| Complete Monopoly | 2.00% | ~2,919 |
-| King's Blade | 2.00% | ~2,919 |
+| A Notch Above the Rest | 2.00% | ~2,920 |
+| Cream of the Crop | 2.00% | ~2,920 |
+| Proud Paladin | 2.00% | ~2,920 |
+| Above the Norm | 2.00% | ~2,920 |
+| A Ronin Reborn | 2.00% | ~2,920 |
+| Tax not Included | 2.00% | ~2,920 |
+| The King's Caprice | 2.00% | ~2,920 |
+| Research & Development | 2.00% | ~2,920 |
+| Thirst for Knowledge | 2.00% | ~2,920 |
+| Big Game Hunting | 2.00% | ~2,920 |
+| Fated Encounters | 2.00% | ~2,920 |
+| For the Hoard! | 2.00% | ~2,920 |
+| Booty by the Boatload | 2.00% | ~2,920 |
+| Scrapbooker | 2.00% | ~2,920 |
+| Archivist | 2.00% | ~2,920 |
+| Locally Sourced | 2.00% | ~2,920 |
+| Flying off the Shelves | 2.00% | ~2,920 |
+| This Power Level...! | 2.00% | ~2,920 |
+| Omae wa Mou Shindeiru | 2.00% | ~2,920 |
+| Master of Transmutation | 2.00% | ~2,920 |
+| Hidden Potential | 2.00% | ~2,920 |
+| Power of Love | 2.00% | ~2,920 |
+| Supercharged | 2.00% | ~2,920 |
+| Expansion in Session | 2.00% | ~2,920 |
+| Ritualist | 2.00% | ~2,920 |
+| Cranked up to 11 | 2.00% | ~2,920 |
+| Fit for a King | 2.00% | ~2,920 |
+| By Your Powers Combined... | 2.00% | ~2,920 |
+| Flawless Fusion | 2.00% | ~2,920 |
+| A Legend is Born | 2.00% | ~2,920 |
+| Trash to Treasure | 2.00% | ~2,920 |
+| Royal Ransom | 2.00% | ~2,920 |
+| Mammonite | 2.00% | ~2,920 |
+| Wealth Beyond Measure | 2.00% | ~2,920 |
+| Helping Hand | 2.00% | ~2,920 |
+| Fat Cat Tag Team | 2.00% | ~2,920 |
+| Necromancer Queen | 2.00% | ~2,920 |
+| Item of Renown | 2.00% | ~2,920 |
+| Master Merchant | 2.00% | ~2,920 |
+| Miracle Alchemist | 2.00% | ~2,920 |
+| Laden with Loot | 2.00% | ~2,920 |
+| Bountiful Harvest | 2.00% | ~2,920 |
+| Natural 20 | 2.00% | ~2,920 |
+| Seasoned Journeyman | 2.00% | ~2,920 |
+| Precision Engineering | 2.00% | ~2,920 |
+| Scourge of the Seas | 2.00% | ~2,920 |
+| Attrition Mission | 2.00% | ~2,920 |
+| Glittering Collection | 2.00% | ~2,920 |
+| Treasure Trove | 2.00% | ~2,920 |
+| Black Friday Special | 2.00% | ~2,920 |
+| Master Recycler | 2.00% | ~2,920 |
+| Magical Harmony | 2.00% | ~2,920 |
+| All Accounted For | 2.00% | ~2,920 |
+| Special Ingredient | 2.00% | ~2,920 |
+| Exotic Commodities | 2.00% | ~2,920 |
+| Complete Monopoly | 2.00% | ~2,920 |
+| King's Blade | 2.00% | ~2,920 |
 | Top of the World | 1.00% | ~1,460 |
 | Constellated | 1.00% | ~1,460 |
 | The Free Encyclopedia | 1.00% | ~1,460 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~584 |
 | Capitalist Camaraderie | 0.20% | ~292 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,966 (Ranked 80)  
-Completed: 319 (0.22%) (Ranked 260)  
+Progressed: 145,975 (Ranked 80)  
+Completed: 319 (0.22%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -360,17 +360,17 @@ Completed: 319 (0.22%) (Ranked 260)
 | 2023-12-14 | 145,474 | 307 |
 | 2023-12-15 | 145,699 | 316 |
 | 2023-12-16 | 145,933 | 319 |
-| 2023-12-17 | 145,966 | 319 |
+| 2023-12-17 | 145,975 | 319 |
 ## Awards
 Max (Great for Beginners): 4,896  (Ranked 75)  
-Sum: 27,750 (Ranked 51)  
+Sum: 27,754 (Ranked 51)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,896 |
 | This game is Relaxing | 4,062 |
 | This game has Quickly Understood Controls | 4,047 |
-| This game has Diverse Characters | 3,977 |
+| This game has Diverse Characters | 3,981 |
 | This game is Highly Recommended | 3,799 |
 | This game has Easy Combat | 3,748 |
 | This game has Playful Visuals | 3,221 |
@@ -698,3 +698,4 @@ Diff (max vs sum): 24
 | 2023-12-14 | 3.99 | - | 4,892 | 27,726 |
 | 2023-12-15 | 3.99 | - | 4,896 | 27,743 |
 | 2023-12-16 | 3.99 | - | 4,896 | 27,750 |
+| 2023-12-17 | 3.99 | - | 4,896 | 27,754 |

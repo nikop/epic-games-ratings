@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -288,9 +288,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 25412,
+  "EOS_Progressed": 25415,
   "EOS_Completed": 159,
-  "EOS_NewPlayers": 1024,
+  "EOS_NewPlayers": 1018,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -7143,6 +7143,11 @@
       "Time": "2023-12-17T03:09:29.6682121+00:00",
       "NumProgressed": 25412,
       "NumCompleted": 159
+    },
+    {
+      "Time": "2023-12-17T04:09:34.3915739+00:00",
+      "NumProgressed": 25415,
+      "NumCompleted": 159
     }
   ],
   "TotalAchievements": 24,
@@ -7266,7 +7271,7 @@
       "Name": "Master Room",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "ACH_S8MaxPoints",
@@ -7282,7 +7287,7 @@
       "Name": "Sector 1",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6861
+      "UsersEstimate": 6862
     },
     {
       "ID": "ACH_Sector2",
@@ -7290,7 +7295,7 @@
       "Name": "Sector 2",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 6099
+      "UsersEstimate": 6100
     },
     {
       "ID": "ACH_Sector3",
@@ -7306,7 +7311,7 @@
       "Name": "Sector 4",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 4320
+      "UsersEstimate": 4321
     },
     {
       "ID": "ACH_Sector5",
@@ -7314,7 +7319,7 @@
       "Name": "Sector 5",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2795
+      "UsersEstimate": 2796
     },
     {
       "ID": "ACH_Sector6",
@@ -7345,7 +7350,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 25412,
+      "Progressed": 25415,
       "Completed": 159
     }
   ],
@@ -7353,8 +7358,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-12-11T17:59:07.2531282+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:09:29.6682117+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:09:34.3915737+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.5220859+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:58:01.6155314+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:09:29.6682524+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:58:01.615637+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:09:34.3916259+00:00"
 }

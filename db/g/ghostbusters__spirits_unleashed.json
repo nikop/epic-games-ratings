@@ -3679,18 +3679,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 2910,
       "NumberOfAwardsMax": 323
+    },
+    {
+      "Time": "2023-12-17T03:57:33.5403263+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2911,
+      "NumberOfAwardsMax": 324
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2910,
-  "NumberOfAwardsMax": 323,
+  "NumberOfAwards": 2911,
+  "NumberOfAwardsMax": 324,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 323
+      "Count": 324
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3759,7 +3765,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32342,
+  "EOS_Progressed": 32344,
   "EOS_Completed": 69,
   "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
@@ -22559,6 +22565,11 @@
       "Time": "2023-12-17T03:03:39.4709436+00:00",
       "NumProgressed": 32342,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-17T04:03:45.304001+00:00",
+      "NumProgressed": 32344,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -22682,7 +22693,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "Escape_Artist",
@@ -22977,16 +22988,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32342,
+      "Progressed": 32344,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-12-17T01:50:25.8294237+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:03:39.4709433+00:00",
+  "LastChanged": "2023-12-17T03:57:33.5403262+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:03:45.3040008+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.1146147+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:57:34.7157191+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:03:39.4710478+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:57:33.5403267+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:03:45.3041368+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "2015d187216e4b33b88edee66282e4a1",
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
-  "Ranking_EOS_Progress": 533,
+  "Ranking_EOS_Progress": 534,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -279,9 +279,9 @@
       "ID": "BeatBossShimada",
       "SetID": "123m9l1",
       "Name": "Final Showdown",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "BeatBossTing",
@@ -303,9 +303,9 @@
       "ID": "BigEater",
       "SetID": "123m9l1",
       "Name": "Big Eater",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ClarifyRumors",
@@ -343,9 +343,9 @@
       "ID": "FinishTheGame",
       "SetID": "123m9l1",
       "Name": "The End of an Outlaw",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "FinishTutorialStage",
@@ -359,9 +359,9 @@
       "ID": "HardcorePlayer",
       "SetID": "123m9l1",
       "Name": "The Hero of the People",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Legendary",
@@ -423,9 +423,9 @@
       "ID": "Survivor",
       "SetID": "123m9l1",
       "Name": "Not Today",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TeachGushanALesson",
@@ -472,8 +472,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:05:35.9949901+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:05:41.6416562+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:41.0518809+00:00",
-  "LastUpdate_Ratings": "2023-12-17T03:00:24.9072748+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:05:35.9950072+00:00"
+  "LastUpdate_Ratings": "2023-12-17T04:00:29.5247118+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:05:41.6416722+00:00"
 }

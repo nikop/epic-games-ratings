@@ -6,23 +6,23 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 7.00% | ~192 |
+| Malpractice Assurance | 7.00% | ~193 |
 | Lost and Found | 4.00% | ~110 |
-| This Belongs in a Museum | 3.00% | ~3,836 |
-| Autodidact | 3.00% | ~3,836 |
-| This guy... again? | 3.00% | ~82 |
-| Bloody Graduation | 3.00% | ~82 |
-| Don't Make Me Turn This Coach Around | 2.00% | ~2,557 |
-| Serenity Now! | 2.00% | ~2,557 |
-| Not Today! | 2.00% | ~2,557 |
-| Creep and Sleep | 2.00% | ~2,557 |
-| Meat and Greet | 2.00% | ~2,557 |
-| Catch and Decease | 2.00% | ~2,557 |
-| Overdue Notice | 2.00% | ~2,557 |
-| Escape from the Black Hole | 2.00% | ~2,557 |
-| Rush Hour | 2.00% | ~2,557 |
-| To Grandmother's House | 2.00% | ~2,557 |
-| FNG | 2.00% | ~2,557 |
+| This Belongs in a Museum | 3.00% | ~3,837 |
+| Autodidact | 3.00% | ~3,837 |
+| This guy... again? | 3.00% | ~83 |
+| Bloody Graduation | 3.00% | ~83 |
+| Don't Make Me Turn This Coach Around | 2.00% | ~2,558 |
+| Serenity Now! | 2.00% | ~2,558 |
+| Not Today! | 2.00% | ~2,558 |
+| Creep and Sleep | 2.00% | ~2,558 |
+| Meat and Greet | 2.00% | ~2,558 |
+| Catch and Decease | 2.00% | ~2,558 |
+| Overdue Notice | 2.00% | ~2,558 |
+| Escape from the Black Hole | 2.00% | ~2,558 |
+| Rush Hour | 2.00% | ~2,558 |
+| To Grandmother's House | 2.00% | ~2,558 |
+| FNG | 2.00% | ~2,558 |
 | Ploughshares to Swords | 2.00% | ~55 |
 | Friends 'Til the End | 2.00% | ~55 |
 | It Rings a Bell | 1.00% | ~1,279 |
@@ -46,25 +46,25 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unleash Hell | 0.90% | ~1,151 |
 | Funny Guy | 0.90% | ~1,151 |
 | Long Live the King | 0.90% | ~1,151 |
+| Wyrdly Reconstructed | 0.90% | ~1,151 |
+| Boxcar Kid | 0.90% | ~1,151 |
 | Predator | 0.90% | ~1,151 |
 | Reverse Banditry | 0.90% | ~1,151 |
 | A Clear Conscience | 0.90% | ~1,151 |
-| Wyrdly Reconstructed | 0.80% | ~1,023 |
-| Boxcar Kid | 0.80% | ~1,023 |
 | When You Want Something Done Right | 0.80% | ~1,023 |
 | Utopia | 0.80% | ~1,023 |
 | Hope Rekindled | 0.70% | ~895 |
 | Ichthyophobic | 0.70% | ~895 |
 | No More Mouths to Feed | 0.70% | ~895 |
+| This Looks Familiar | 0.60% | ~767 |
 | Hot Air | 0.60% | ~767 |
 | Eyes Up | 0.60% | ~767 |
-| Slap on the Wrist | 0.60% | ~16 |
-| This Looks Familiar | 0.50% | ~639 |
+| Slap on the Wrist | 0.60% | ~17 |
 | Et Tu, Riposte? | 0.50% | ~14 |
 | For Old Time' Sake | 0.50% | ~14 |
-| Shrine of Reflection | 0.40% | ~511 |
-| Handled | 0.40% | ~511 |
-| Body of Work | 0.40% | ~511 |
+| Shrine of Reflection | 0.40% | ~512 |
+| Handled | 0.40% | ~512 |
+| Body of Work | 0.40% | ~512 |
 | Clearing the Ledger | 0.30% | ~384 |
 | Triage | 0.30% | ~384 |
 | Maître De La Lame | 0.30% | ~8 |
@@ -73,8 +73,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Bacon Bits | 0.20% | ~256 |
 | Hat Trick | 0.20% | ~256 |
 | Eidetic | 0.20% | ~256 |
-| Battle Hardened | 0.20% | ~5 |
-| No Mercy | 0.20% | ~5 |
+| Battle Hardened | 0.20% | ~6 |
+| No Mercy | 0.20% | ~6 |
 | Loop Year | 0.10% | ~128 |
 | Circle of Life | 0.10% | ~128 |
 | No Gravestone Left Unturned | 0.10% | ~128 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 | On This Long Road, We Found Redemption | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,871 (Ranked 85)  
+Progressed: 127,887 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 3 (0.00%) (Ranked 379)
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
-| 2023-12-17 | 127,871 | 3 |
+| 2023-12-17 | 127,887 | 3 |
 ## Awards
 Max (Character Customization): 7,744  (Ranked 51)  
 Sum: 20,608 (Ranked 58)  

@@ -1,20 +1,20 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 645)  
+Rating: 4.47 (Ranked 646)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~373,297 |
-| Now You're Talking | 62.00% | ~330,634 |
-| Steel Yourself | 62.00% | ~330,634 |
-| Window Dressing | 50.00% | ~266,640 |
-| Trigger Happy | 46.00% | ~245,309 |
-| Riverborn | 45.00% | ~239,976 |
+| Now You're Talking | 62.00% | ~330,635 |
+| Steel Yourself | 62.00% | ~330,635 |
+| Window Dressing | 50.00% | ~266,641 |
+| Trigger Happy | 46.00% | ~245,310 |
+| Riverborn | 45.00% | ~239,977 |
 | Starry Eyed | 34.00% | ~181,316 |
 | Poking Around | 34.00% | ~181,316 |
-| Talk of the Town | 24.00% | ~127,987 |
+| Talk of the Town | 24.00% | ~127,988 |
 | AAARR! | 23.00% | ~122,655 |
 | Hello Darkness | 23.00% | ~122,655 |
 | Wind At Our Backs | 22.00% | ~117,322 |
@@ -30,7 +30,7 @@ Number of Ratings: 617  (23.09.2022)
 | Not So Cute Anymore | 10.00% | ~53,328 |
 | Road Less Travelled | 9.00% | ~47,995 |
 | Lost and Found | 9.00% | ~47,995 |
-| Under the Radar | 8.00% | ~42,662 |
+| Under the Radar | 8.00% | ~42,663 |
 | Partner in Crime | 7.00% | ~37,330 |
 | Hard to Hear | 7.00% | ~37,330 |
 | Moving On Up | 6.00% | ~31,997 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,600 |
 | Point Taken | 0.20% | ~1,067 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533,281 (Ranked 35)  
+Progressed: 533,282 (Ranked 35)  
 Completed: 510 (0.10%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 510 (0.10%) (Ranked 297)
 | 2023-12-14 | 533,142 | 509 |
 | 2023-12-15 | 533,198 | 509 |
 | 2023-12-16 | 533,271 | 510 |
-| 2023-12-17 | 533,281 | 510 |
+| 2023-12-17 | 533,282 | 510 |
 ## Awards
 Max (Relaxing): 21  (Ranked 553)  
 Sum: 21 (Ranked 555)  

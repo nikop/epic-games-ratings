@@ -9810,9 +9810,9 @@
       "Count": 1018
     }
   ],
-  "EOS_Progressed": 127871,
+  "EOS_Progressed": 127887,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1905,
+  "EOS_NewPlayers": 1919,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35415,6 +35415,11 @@
       "Time": "2023-12-17T03:08:46.5324507+00:00",
       "NumProgressed": 127871,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T04:08:51.236946+00:00",
+      "NumProgressed": 127887,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35426,7 +35431,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -35434,7 +35439,7 @@
       "Name": "Serenity Now!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -35488,17 +35493,17 @@
       "ID": "altar_of_hope_unlock_hero_occultist",
       "SetID": "64l4lke",
       "Name": "Wyrdly Reconstructed",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1151
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
       "SetID": "64l4lke",
       "Name": "Boxcar Kid",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1151
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -35520,9 +35525,9 @@
       "ID": "altar_of_hope_upgrade_total_half",
       "SetID": "64l4lke",
       "Name": "This Looks Familiar",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 639
+      "UsersEstimate": 767
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -35554,7 +35559,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3836
+      "UsersEstimate": 3837
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35578,7 +35583,7 @@
       "Name": "Not Today!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35586,7 +35591,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35626,7 +35631,7 @@
       "Name": "Meat and Greet",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35642,7 +35647,7 @@
       "Name": "Catch and Decease",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "combat_kill_librarian",
@@ -35650,7 +35655,7 @@
       "Name": "Overdue Notice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35666,7 +35671,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35722,7 +35727,7 @@
       "Name": "Rush Hour",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -35746,7 +35751,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "driving_distance_easy",
@@ -35778,7 +35783,7 @@
       "Name": "Autodidact",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3836
+      "UsersEstimate": 3837
     },
     {
       "ID": "hero_story_complete_all",
@@ -35786,7 +35791,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "hero_story_complete_any",
@@ -35834,7 +35839,7 @@
       "Name": "FNG",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "inn_visit_all_variants",
@@ -35906,7 +35911,7 @@
       "Name": "Handled",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "run_victory_act05",
@@ -35914,7 +35919,7 @@
       "Name": "Body of Work",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -35946,7 +35951,7 @@
       "Name": "Battle Hardened",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -35962,7 +35967,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "combat_kill_collector",
@@ -35970,7 +35975,7 @@
       "Name": "This guy... again?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35986,7 +35991,7 @@
       "Name": "No Mercy",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -35994,7 +35999,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -36018,7 +36023,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "quest_complete_crusader",
@@ -36057,21 +36062,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127871,
+      "Progressed": 127887,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2740,
+      "Progressed": 2756,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-17T01:50:35.302696+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:08:46.5324503+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:08:51.2369457+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:57:43.6927931+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:08:46.5326273+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:57:42.9285045+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:08:51.2371399+00:00"
 }

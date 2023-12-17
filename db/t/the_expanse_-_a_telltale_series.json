@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16583,
+  "EOS_Progressed": 16585,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 562,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -14098,6 +14098,11 @@
       "Time": "2023-12-17T02:33:20.1660115+00:00",
       "NumProgressed": 16583,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-17T04:03:09.0217648+00:00",
+      "NumProgressed": 16585,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14198,7 +14203,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "20",
@@ -14238,7 +14243,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "25",
@@ -14262,7 +14267,7 @@
       "Name": "Bosmang",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "28",
@@ -14286,7 +14291,7 @@
       "Name": "Captain Drummer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "30",
@@ -14374,7 +14379,7 @@
       "Name": "Master Negotiator",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "35",
@@ -14389,22 +14394,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16583,
+      "Progressed": 16585,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2537,
-      "Completed": 908
+      "Progressed": 2539,
+      "Completed": 909
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-16T18:58:26.9677078+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:33:20.1660111+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:03:09.0217642+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:58:29.7889014+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:33:20.1661016+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:58:31.6457189+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:03:09.0234774+00:00"
 }

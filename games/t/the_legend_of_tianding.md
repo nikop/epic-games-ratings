@@ -12,26 +12,26 @@
 | Divine Retribution | 38.00% | ~15 |
 | Dispel Rumors | 35.00% | ~14 |
 | Captain Mustache | 35.00% | ~14 |
+| Final Showdown | 33.00% | ~13 |
+| The End of an Outlaw | 33.00% | ~13 |
 | Sewer Rat | 33.00% | ~13 |
-| Final Showdown | 30.00% | ~12 |
-| The End of an Outlaw | 30.00% | ~12 |
 | Urban Explorer | 30.00% | ~12 |
 | Demon Slayer | 28.00% | ~11 |
 | Steal Her Away | 28.00% | ~11 |
 | Fight Fire With Fire | 28.00% | ~11 |
+| Big Eater | 23.00% | ~9 |
 | Tour Guide | 23.00% | ~9 |
+| Not Today | 23.00% | ~9 |
 | Coward | 23.00% | ~9 |
-| Big Eater | 20.00% | ~8 |
 | The Real O.G. | 20.00% | ~8 |
-| Not Today | 20.00% | ~8 |
 | Tomb Raider | 20.00% | ~8 |
+| The Hero of the People | 13.00% | ~5 |
 | Talk to the Fist | 13.00% | ~5 |
-| The Hero of the People | 10.00% | ~4 |
 | Collector | 5.00% | ~2 |
 | The Legend | 5.00% | ~2 |
 | Taoist | 5.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 533)  
+Progressed: 40 (Ranked 534)  
 Completed: 2 (5.00%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |

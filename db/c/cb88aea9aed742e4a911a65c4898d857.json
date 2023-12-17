@@ -75,7 +75,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4550,
+  "EOS_Progressed": 4567,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 3258,
   "EOS_NewCompleters": 0,
@@ -1230,6 +1230,11 @@
       "Time": "2023-12-17T03:09:09.518712+00:00",
       "NumProgressed": 4550,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T04:09:14.7709419+00:00",
+      "NumProgressed": 4567,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1242,7 +1247,7 @@
       "Name": "Conspiracy",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 548
     },
     {
       "ID": "03_TheStolenStar",
@@ -1250,7 +1255,7 @@
       "Name": "Stolen Star",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -1354,7 +1359,7 @@
       "Name": "The Rise",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "17_TheExemplar",
@@ -1370,7 +1375,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "19_TheVoidWolf",
@@ -1402,7 +1407,7 @@
       "Name": "Perfect Timing",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "23_DynastyRestored",
@@ -1416,9 +1421,9 @@
       "ID": "24_TheHighrise",
       "SetID": "37a94m8",
       "Name": "Highrise",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "25_DynastyProspers",
@@ -1450,7 +1455,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -1458,7 +1463,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "30_The GreatestExploration",
@@ -1472,9 +1477,9 @@
       "ID": "31_DontTouchThis",
       "SetID": "37a94m8",
       "Name": "Don\u0027t Touch This",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 46
     },
     {
       "ID": "32_AviationSaviour",
@@ -1490,7 +1495,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -1626,7 +1631,7 @@
       "Name": "Whodunit?",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -1761,7 +1766,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 4550,
+      "Progressed": 4567,
       "Completed": 0
     }
   ],
@@ -1769,8 +1774,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-16T18:59:01.4154357+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:09:09.5187116+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:09:14.7709417+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:59:03.7472621+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:09:09.5187568+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:59:05.0602442+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:09:14.771012+00:00"
 }

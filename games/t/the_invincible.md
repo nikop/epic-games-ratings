@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 62.00% | ~438 |
-| The Teleprobe | 48.00% | ~339 |
-| The City | 43.00% | ~304 |
-| The field base | 39.00% | ~276 |
-| Survivors | 33.00% | ~233 |
-| The Condor | 31.00% | ~219 |
-| The End | 31.00% | ~219 |
-| The Alliance | 29.00% | ~205 |
-| The Necroevolution | 25.00% | ~177 |
-| Krauta is alive | 23.00% | ~163 |
-| Peacemaker | 21.00% | ~148 |
-| Volcanologist | 19.00% | ~134 |
-| On her own | 18.00% | ~127 |
-| Evacuation | 17.00% | ~120 |
-| Beyond divisions | 16.00% | ~113 |
-| Fierce fight | 15.00% | ~106 |
-| Flying Objects Operator | 14.00% | ~99 |
+| The Camp | 62.00% | ~441 |
+| The Teleprobe | 48.00% | ~341 |
+| The City | 43.00% | ~306 |
+| The field base | 39.00% | ~277 |
+| Survivors | 33.00% | ~235 |
+| The Condor | 31.00% | ~220 |
+| The End | 31.00% | ~220 |
+| The Alliance | 29.00% | ~206 |
+| The Necroevolution | 25.00% | ~178 |
+| Krauta is alive | 23.00% | ~164 |
+| Peacemaker | 20.00% | ~142 |
+| Volcanologist | 19.00% | ~135 |
+| On her own | 18.00% | ~128 |
+| Evacuation | 17.00% | ~121 |
+| Beyond divisions | 16.00% | ~114 |
+| Fierce fight | 15.00% | ~107 |
+| Flying Objects Operator | 14.00% | ~100 |
 | I remember everything! | 12.00% | ~85 |
 | Another giant | 10.00% | ~71 |
 | Violent solution | 9.00% | ~64 |
-| Innate curiosity | 7.00% | ~49 |
-| I leave no man behind | 6.00% | ~42 |
-| The Invincible | 5.00% | ~35 |
-| Strong objection | 5.00% | ~35 |
+| Innate curiosity | 7.00% | ~50 |
+| I leave no man behind | 6.00% | ~43 |
+| The Invincible | 5.00% | ~36 |
+| Strong objection | 5.00% | ~36 |
 | Ubiquitous holes | 4.00% | ~28 |
 | Got lost again | 4.00% | ~28 |
 | I leave no man behind (no exceptions) | 2.00% | ~14 |
 | Convoy list | 0.80% | ~6 |
 | No more mistakes | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707 (Ranked 292)  
+Progressed: 711 (Ranked 292)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,4 +76,4 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 605 | 0 |
 | 2023-12-15 | 653 | 0 |
 | 2023-12-16 | 700 | 0 |
-| 2023-12-17 | 707 | 0 |
+| 2023-12-17 | 711 | 0 |

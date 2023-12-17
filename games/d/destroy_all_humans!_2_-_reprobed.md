@@ -6,27 +6,27 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 65.00% | ~61 |
-| Mash Machine | 62.00% | ~58 |
+| Rock of the Bay | 65.00% | ~62 |
+| Mash Machine | 62.00% | ~59 |
 | Ducks in a Row, Fish in a Barrel | 41.00% | ~39 |
-| Furon Fashion | 34.00% | ~32 |
-| Shop Til They Drop | 30.00% | ~28 |
-| Earthly Pleasures | 24.00% | ~23 |
-| Bodied Sattva | 19.00% | ~18 |
+| Furon Fashion | 35.00% | ~33 |
+| Shop Til They Drop | 29.00% | ~28 |
+| Earthly Pleasures | 25.00% | ~24 |
+| Bodied Sattva | 20.00% | ~19 |
 | Pimp My Raid | 19.00% | ~18 |
-| Cult Following | 16.00% | ~15 |
+| Cult Following | 18.00% | ~17 |
 | I Look Up As I Walk to Takoshima | 16.00% | ~15 |
 | Upgreatest | 16.00% | ~15 |
 | Lie Back and Think of Albion | 14.00% | ~13 |
 | Perfect Probulator | 11.00% | ~10 |
 | Freshly Squeezed | 11.00% | ~10 |
-| Die Nasty | 9.00% | ~8 |
+| Die Nasty | 8.00% | ~8 |
 | Transmitting From Sol-3 | 6.00% | ~6 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 6.00% | ~6 |
 | Dusted | 6.00% | ~6 |
 | Fly Me to the Moon Base | 4.00% | ~4 |
 | Kaijuiced | 4.00% | ~4 |
-| Scuttled | 3.00% | ~3 |
+| Scuttled | 4.00% | ~4 |
 | Lobster Blisque | 2.00% | ~2 |
 | Yettisoned | 2.00% | ~2 |
 | Re-Return of the Clone of the Invasion II-2 | 2.00% | ~2 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94 (Ranked 464)  
+Progressed: 95 (Ranked 464)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 60 | 0 |
 | 2023-12-15 | 75 | 0 |
 | 2023-12-16 | 92 | 0 |
-| 2023-12-17 | 94 | 0 |
+| 2023-12-17 | 95 | 0 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 480)  
 Sum: 36 (Ranked 512)  

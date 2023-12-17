@@ -4,10 +4,10 @@
   "ProductSlug": "five-nights-at-freddys-security-breach-8dee2a",
   "Ranking_Rating": 389,
   "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 397,
+  "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-03-01T00:00:00+00:00",
@@ -1073,6 +1073,6 @@
   "FirstSeen": "2022-07-22T20:19:10.1176223+00:00",
   "LastChanged": "2023-12-16T01:43:34.6350818+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:54.6565328+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:58:56.8245791+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:04:19.2284375+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:58:57.8192356+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:04:23.7703375+00:00"
 }

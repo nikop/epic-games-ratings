@@ -5,26 +5,26 @@ Rating: 4.73 (Ranked 175)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~13,227 |
-| Newcomers | 78.00% | ~11,214 |
-| A Burden of Blood | 73.00% | ~10,495 |
-| Protector's Duty | 70.00% | ~10,064 |
-| In our Wake | 68.00% | ~9,776 |
-| Alchemist | 68.00% | ~9,776 |
-| Leaving all Behind | 65.00% | ~9,345 |
+| Under a New Sun | 92.00% | ~13,228 |
+| Newcomers | 78.00% | ~11,215 |
+| A Burden of Blood | 73.00% | ~10,496 |
+| Protector's Duty | 70.00% | ~10,065 |
+| In our Wake | 68.00% | ~9,777 |
+| Alchemist | 68.00% | ~9,777 |
+| Leaving all Behind | 65.00% | ~9,346 |
 | Felons | 62.00% | ~8,914 |
-| A Sea of Promises | 61.00% | ~8,770 |
+| A Sea of Promises | 61.00% | ~8,771 |
 | Tales and Revelations | 58.00% | ~8,339 |
 | Bloodline | 53.00% | ~7,620 |
 | The Cradle of Centuries | 49.00% | ~7,045 |
-| The Life We Deserve | 47.00% | ~6,757 |
+| The Life We Deserve | 47.00% | ~6,758 |
 | Night guard | 44.00% | ~6,326 |
 | Nothing Left | 40.00% | ~5,751 |
-| Healing our Wounds | 38.00% | ~5,463 |
-| Dying Sun | 34.00% | ~4,888 |
+| Healing our Wounds | 38.00% | ~5,464 |
+| Dying Sun | 34.00% | ~4,889 |
 | Improved crossbow | 27.00% | ~3,882 |
 | King Hugo | 25.00% | ~3,594 |
-| Mercy | 24.00% | ~3,450 |
+| Mercy | 24.00% | ~3,451 |
 | Perfect shot | 23.00% | ~3,307 |
 | Effective instruments | 22.00% | ~3,163 |
 | Knights! | 21.00% | ~3,019 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 175)
 | Old protector | 2.00% | ~288 |
 | Malignant | 1.00% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,377 (Ranked 161)  
+Progressed: 14,378 (Ranked 161)  
 Completed: 58 (0.40%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 58 (0.40%) (Ranked 224)
 | 2023-12-14 | 14,178 | 58 |
 | 2023-12-15 | 14,260 | 58 |
 | 2023-12-16 | 14,360 | 58 |
-| 2023-12-17 | 14,377 | 58 |
+| 2023-12-17 | 14,378 | 58 |
 ## Awards
 Max (Great Boss Battles): 436  (Ranked 229)  
 Sum: 691 (Ranked 305)  

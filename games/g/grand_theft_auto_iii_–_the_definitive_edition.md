@@ -1,25 +1,25 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.20 (Ranked 929)  
+Rating: 4.21 (Ranked 921)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~7,870 |
-| Disposing of the Evidence | 38.00% | ~3,603 |
-| Without a Scratch | 34.00% | ~3,224 |
-| Wreckless Driving | 28.00% | ~2,655 |
-| A Marked Man | 25.00% | ~2,370 |
-| Street Sweeper | 18.00% | ~1,707 |
-| Liberty City Minute | 17.00% | ~1,612 |
+| First Day on the Job | 83.00% | ~7,875 |
+| Disposing of the Evidence | 38.00% | ~3,605 |
+| Without a Scratch | 34.00% | ~3,226 |
+| Wreckless Driving | 28.00% | ~2,657 |
+| A Marked Man | 25.00% | ~2,372 |
+| Street Sweeper | 18.00% | ~1,708 |
+| Liberty City Minute | 17.00% | ~1,613 |
 | Offshore Delivery | 13.00% | ~1,233 |
-| Dirty Money | 12.00% | ~1,138 |
-| By a Mile | 10.00% | ~948 |
-| Not So Fast | 10.00% | ~948 |
-| Right-hand Man | 10.00% | ~948 |
+| Dirty Money | 12.00% | ~1,139 |
+| By a Mile | 10.00% | ~949 |
+| Not So Fast | 10.00% | ~949 |
+| Right-hand Man | 10.00% | ~949 |
 | A Gift from the King | 7.00% | ~664 |
-| Full Artillery | 4.00% | ~379 |
-| Mob Boss | 3.00% | ~284 |
+| Full Artillery | 4.00% | ~380 |
+| Mob Boss | 3.00% | ~285 |
 | Escape Artist | 2.00% | ~190 |
 | Where To? | 2.00% | ~190 |
 | Splish Splash | 2.00% | ~190 |
@@ -35,7 +35,7 @@ Rating: 4.20 (Ranked 929)
 | Is That All You've Got? | 0.90% | ~85 |
 | King of Liberty City | 0.60% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,482 (Ranked 173)  
+Progressed: 9,488 (Ranked 173)  
 Completed: 60 (0.63%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 60 (0.63%) (Ranked 192)
 | 2023-12-14 | 9,067 | 60 |
 | 2023-12-15 | 9,263 | 60 |
 | 2023-12-16 | 9,453 | 60 |
-| 2023-12-17 | 9,482 | 60 |
+| 2023-12-17 | 9,488 | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -375,3 +375,4 @@ Completed: 60 (0.63%) (Ranked 192)
 | 2023-12-13 | 4.22 | 0 | 0 |
 | 2023-12-15 | 4.21 | 0 | 0 |
 | 2023-12-16 | 4.20 | 0 | 0 |
+| 2023-12-17 | 4.21 | 0 | 0 |

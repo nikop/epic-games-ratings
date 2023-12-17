@@ -606,9 +606,9 @@
       "ID": "ACH_MORGENGRAUEN",
       "SetID": "88d7anj",
       "Name": "Morgengrauen",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_NOONELEFTBEHIND",
@@ -646,9 +646,9 @@
       "ID": "ACH_PATHOFDESPAIR",
       "SetID": "88d7anj",
       "Name": "Path of Despair",
-      "Percentage": 85,
+      "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_PATHOFPAIN",
@@ -709,8 +709,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:03:12.598828+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:03:18.2984322+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:55.2807884+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:58:58.2728509+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:03:12.5988576+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:58:59.3440194+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:03:18.2984547+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
-  "Ranking_Rating": 645,
+  "Ranking_Rating": 646,
   "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -3504,9 +3504,9 @@
       "ID": "ONE_HIT_WONDER_1",
       "SetID": "bf13m8j",
       "Name": "One HIT wonder",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 504
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3648,8 +3648,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:09:28.8341262+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:09:33.788368+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.4071615+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:59:46.0820879+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:09:28.8341875+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:59:48.4221611+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:09:33.7884117+00:00"
 }

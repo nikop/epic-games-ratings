@@ -6,41 +6,41 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~33,009 |
-| It wakes | 3.00% | ~33,009 |
-| Skillful | 3.00% | ~33,009 |
-| No one left behind | 2.00% | ~22,006 |
-| Handyman | 2.00% | ~22,006 |
-| Not half bad | 2.00% | ~22,006 |
-| Apt Survivor | 2.00% | ~22,006 |
-| Survival Treasures | 2.00% | ~22,006 |
-| I | 2.00% | ~22,006 |
-| Sorted | 2.00% | ~22,006 |
-| Resurgence | 2.00% | ~22,006 |
-| Preemptive Strike | 2.00% | ~22,006 |
-| Make Some Noise | 2.00% | ~22,006 |
-| The Grand Sacrifice | 1.00% | ~11,003 |
-| Agonizing Escape | 1.00% | ~11,003 |
-| Backdoor Escape | 1.00% | ~11,003 |
-| I've got your back | 1.00% | ~11,003 |
-| Medic | 1.00% | ~11,003 |
-| Perfect Escape | 1.00% | ~11,003 |
-| Perfect Killing | 1.00% | ~11,003 |
-| Bloody Millionaire | 1.00% | ~11,003 |
-| Apt Killer | 1.00% | ~11,003 |
-| Risk it all | 1.00% | ~11,003 |
-| II | 1.00% | ~11,003 |
-| III | 1.00% | ~11,003 |
-| Engineer | 1.00% | ~11,003 |
-| Wounded Healer | 1.00% | ~11,003 |
-| Healthy Obsession | 1.00% | ~11,003 |
-| Close Shave | 1.00% | ~11,003 |
-| Humanitarian | 1.00% | ~11,003 |
-| Vulture | 0.90% | ~9,903 |
-| First to the Punch | 0.90% | ~9,903 |
-| With Scars to Show | 0.90% | ~9,903 |
-| Lifting The Fog | 0.90% | ~9,903 |
-| Second Act | 0.90% | ~9,903 |
+| Zealous | 3.00% | ~33,012 |
+| It wakes | 3.00% | ~33,012 |
+| Skillful | 3.00% | ~33,012 |
+| No one left behind | 2.00% | ~22,008 |
+| Handyman | 2.00% | ~22,008 |
+| Not half bad | 2.00% | ~22,008 |
+| Apt Survivor | 2.00% | ~22,008 |
+| Survival Treasures | 2.00% | ~22,008 |
+| I | 2.00% | ~22,008 |
+| Sorted | 2.00% | ~22,008 |
+| Resurgence | 2.00% | ~22,008 |
+| Preemptive Strike | 2.00% | ~22,008 |
+| Make Some Noise | 2.00% | ~22,008 |
+| The Grand Sacrifice | 1.00% | ~11,004 |
+| Agonizing Escape | 1.00% | ~11,004 |
+| Backdoor Escape | 1.00% | ~11,004 |
+| I've got your back | 1.00% | ~11,004 |
+| Medic | 1.00% | ~11,004 |
+| Perfect Escape | 1.00% | ~11,004 |
+| Perfect Killing | 1.00% | ~11,004 |
+| Bloody Millionaire | 1.00% | ~11,004 |
+| Apt Killer | 1.00% | ~11,004 |
+| Risk it all | 1.00% | ~11,004 |
+| II | 1.00% | ~11,004 |
+| III | 1.00% | ~11,004 |
+| Engineer | 1.00% | ~11,004 |
+| Wounded Healer | 1.00% | ~11,004 |
+| Healthy Obsession | 1.00% | ~11,004 |
+| Close Shave | 1.00% | ~11,004 |
+| Humanitarian | 1.00% | ~11,004 |
+| Vulture | 0.90% | ~9,904 |
+| First to the Punch | 0.90% | ~9,904 |
+| With Scars to Show | 0.90% | ~9,904 |
+| Lifting The Fog | 0.90% | ~9,904 |
+| Second Act | 0.90% | ~9,904 |
 | Blood on your hands | 0.80% | ~8,803 |
 | Escape Artist | 0.80% | ~8,803 |
 | Operation: Survival | 0.80% | ~8,803 |
@@ -48,17 +48,17 @@ Number of Ratings: 70,340  (23.09.2022)
 | Raccoon City Recruit | 0.80% | ~8,803 |
 | Flight to Freedom | 0.80% | ~8,803 |
 | Chorus of Chaos | 0.80% | ~8,803 |
-| Gifts for the Fog | 0.70% | ~7,702 |
-| III-50 | 0.70% | ~7,702 |
-| Cherish your Life | 0.70% | ~7,702 |
-| Unforgettable Getaway | 0.70% | ~7,702 |
-| Old West Oasis | 0.70% | ~7,702 |
-| Classy Act | 0.70% | ~7,702 |
+| Gifts for the Fog | 0.70% | ~7,703 |
+| III-50 | 0.70% | ~7,703 |
+| Item of Obsession | 0.70% | ~7,703 |
+| Cherish your Life | 0.70% | ~7,703 |
+| Unforgettable Getaway | 0.70% | ~7,703 |
+| Old West Oasis | 0.70% | ~7,703 |
+| Classy Act | 0.70% | ~7,703 |
 | Made it out alive! | 0.60% | ~6,602 |
 | Nerves of steel | 0.60% | ~6,602 |
 | Shock Therapy | 0.60% | ~6,602 |
 | All Aboard | 0.60% | ~6,602 |
-| Item of Obsession | 0.60% | ~6,602 |
 | House of Pain | 0.60% | ~6,602 |
 | Holiday Get-Together | 0.60% | ~6,602 |
 | Near-Death Experience | 0.60% | ~6,602 |
@@ -81,17 +81,17 @@ Number of Ratings: 70,340  (23.09.2022)
 | A Fast Death | 0.50% | ~5,502 |
 | Extraterrestrial | 0.50% | ~5,502 |
 | Outta Nowhere | 0.50% | ~5,502 |
-| Jump Scares | 0.40% | ~4,401 |
-| Hemophobia | 0.40% | ~4,401 |
-| Serial Killer | 0.40% | ~4,401 |
-| Game Over | 0.40% | ~4,401 |
-| Party Crasher | 0.40% | ~4,401 |
-| Broken Bodies | 0.40% | ~4,401 |
-| Selfless Survival | 0.40% | ~4,401 |
-| Insult and Injury | 0.40% | ~4,401 |
-| High Speed Pursuit | 0.40% | ~4,401 |
-| Rebuilding The Borgo | 0.40% | ~4,401 |
-| Complete the Evolution | 0.40% | ~4,401 |
+| Jump Scares | 0.40% | ~4,402 |
+| Hemophobia | 0.40% | ~4,402 |
+| Serial Killer | 0.40% | ~4,402 |
+| Game Over | 0.40% | ~4,402 |
+| Party Crasher | 0.40% | ~4,402 |
+| Broken Bodies | 0.40% | ~4,402 |
+| Selfless Survival | 0.40% | ~4,402 |
+| Insult and Injury | 0.40% | ~4,402 |
+| High Speed Pursuit | 0.40% | ~4,402 |
+| Rebuilding The Borgo | 0.40% | ~4,402 |
+| Complete the Evolution | 0.40% | ~4,402 |
 | Blood in your mouth | 0.30% | ~3,301 |
 | Deep Cleansing | 0.30% | ~3,301 |
 | Texas BBQ | 0.30% | ~3,301 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,100 |
 | Adept Good Guy | 0.10% | ~1,100 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,100,313 (Ranked 12)  
+Progressed: 1,100,390 (Ranked 12)  
 Completed: 62 (0.01%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -480,14 +480,14 @@ Completed: 62 (0.01%) (Ranked 355)
 | 2023-12-14 | 1,095,217 | 62 |
 | 2023-12-15 | 1,097,468 | 62 |
 | 2023-12-16 | 1,099,953 | 62 |
-| 2023-12-17 | 1,100,313 | 62 |
+| 2023-12-17 | 1,100,390 | 62 |
 ## Awards
-Max (Diverse Characters): 38,017  (Ranked 15)  
-Sum: 287,918 (Ranked 12)  
+Max (Diverse Characters): 38,094  (Ranked 15)  
+Sum: 287,995 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 38,017 |
+| This game has Diverse Characters | 38,094 |
 | This game is Highly Recommended | 32,937 |
 | This game has Amazing Characters | 32,447 |
 | This game has Competitive Players | 32,229 |
@@ -828,3 +828,4 @@ Diff (max vs sum): 3
 | 2023-12-14 | 4.51 | - | 37,855 | 286,889 |
 | 2023-12-15 | 4.51 | - | 37,936 | 287,393 |
 | 2023-12-16 | 4.51 | - | 38,017 | 287,918 |
+| 2023-12-17 | 4.51 | - | 38,094 | 287,995 |

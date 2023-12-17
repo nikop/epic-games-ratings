@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -956,7 +956,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 28813,
+  "EOS_Progressed": 28814,
   "EOS_Completed": 1400,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 5,
@@ -7796,6 +7796,11 @@
       "Time": "2023-12-17T00:09:58.610226+00:00",
       "NumProgressed": 28813,
       "NumCompleted": 1400
+    },
+    {
+      "Time": "2023-12-17T04:09:10.7807482+00:00",
+      "NumProgressed": 28814,
+      "NumCompleted": 1400
     }
   ],
   "TotalAchievements": 30,
@@ -7815,7 +7820,7 @@
       "Name": "Feeding Frenzy",
       "Percentage": 19,
       "XP": 70,
-      "UsersEstimate": 5474
+      "UsersEstimate": 5475
     },
     {
       "ID": "ACH_ALL_VIDS",
@@ -7871,7 +7876,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 22186
+      "UsersEstimate": 22187
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -7903,7 +7908,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 27949
+      "UsersEstimate": 27950
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -7911,7 +7916,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 19881
+      "UsersEstimate": 19882
     },
     {
       "ID": "ACH_GOLEM",
@@ -7943,7 +7948,7 @@
       "Name": "Talkin\u0027 \u0027Bout Bugsnax",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 17576
+      "UsersEstimate": 17577
     },
     {
       "ID": "ACH_LAUNCH",
@@ -7951,7 +7956,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 16135
+      "UsersEstimate": 16136
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -7983,7 +7988,7 @@
       "Name": "Sidetracked",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 11525
+      "UsersEstimate": 11526
     },
     {
       "ID": "ACH_SNAKPODS",
@@ -7999,7 +8004,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 26796
+      "UsersEstimate": 26797
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -8007,7 +8012,7 @@
       "Name": "Perf Dirt",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 16423
+      "UsersEstimate": 16424
     },
     {
       "ID": "ACH_SUNDAE",
@@ -8039,22 +8044,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 25067
+      "UsersEstimate": 25068
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28813,
+      "Progressed": 28814,
       "Completed": 1400
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-12-16T21:57:50.1602353+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:09:05.6335701+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:09:10.780748+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:22.6495226+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:57:52.8879265+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:09:05.6336157+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:57:52.6401841+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:09:10.7808023+00:00"
 }

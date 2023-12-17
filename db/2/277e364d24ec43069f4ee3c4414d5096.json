@@ -2,7 +2,7 @@
   "ID": "277e364d24ec43069f4ee3c4414d5096",
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
-  "Ranking_Rating": 423,
+  "Ranking_Rating": 424,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 86,
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116909,
+  "EOS_Progressed": 116911,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 620,
+  "EOS_NewPlayers": 621,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21539,6 +21539,11 @@
       "Time": "2023-12-17T03:09:26.2557479+00:00",
       "NumProgressed": 116909,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-17T04:09:31.0373435+00:00",
+      "NumProgressed": 116911,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 49,
@@ -21558,7 +21563,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 90020
+      "UsersEstimate": 90021
     },
     {
       "ID": "EAwards_10",
@@ -21574,7 +21579,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 30396
+      "UsersEstimate": 30397
     },
     {
       "ID": "EAwards_12",
@@ -21582,7 +21587,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17536
+      "UsersEstimate": 17537
     },
     {
       "ID": "EAwards_13",
@@ -21622,7 +21627,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43256
+      "UsersEstimate": 43257
     },
     {
       "ID": "EAwards_18",
@@ -21646,7 +21651,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 57285
+      "UsersEstimate": 57286
     },
     {
       "ID": "EAwards_20",
@@ -21941,7 +21946,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116909,
+      "Progressed": 116911,
       "Completed": 53
     }
   ],
@@ -21949,8 +21954,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-17T03:09:26.2557476+00:00",
+  "LastChanged_Achievements": "2023-12-17T04:09:31.0373434+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:07.3909986+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:57:28.9570282+00:00",
-  "LastUpdate_Achievements": "2023-12-17T03:09:26.2558551+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:57:28.8105013+00:00",
+  "LastUpdate_Achievements": "2023-12-17T04:09:31.03745+00:00"
 }
