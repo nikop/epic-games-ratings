@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5085,9 +5085,9 @@
       "Count": 515
     }
   ],
-  "EOS_Progressed": 92071,
+  "EOS_Progressed": 92073,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28205,6 +28205,11 @@
       "Time": "2023-12-17T17:05:31.8056207+00:00",
       "NumProgressed": 92071,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-17T18:04:33.9758636+00:00",
+      "NumProgressed": 92073,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -28296,7 +28301,7 @@
       "Name": "I Like Trains",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ACH_0050",
@@ -28312,7 +28317,7 @@
       "Name": "Freebooter",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ACH_0061",
@@ -28543,13 +28548,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92071,
+      "Progressed": 92073,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20418,
+      "Progressed": 20420,
       "Completed": 15585
     }
   ],
@@ -28557,8 +28562,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-17T02:59:36.9660812+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:05:31.8056204+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:04:33.9758632+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:15.2774722+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:01:15.0177916+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:05:31.8057361+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:59:45.6930358+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:04:33.9759671+00:00"
 }

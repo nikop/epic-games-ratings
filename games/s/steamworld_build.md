@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 84.00% | ~108 |
-| It's Yours, My Friend | 71.00% | ~91 |
-| Digging a Hole | 69.00% | ~88 |
+| Mathematic | 85.00% | ~109 |
+| It's Yours, My Friend | 72.00% | ~92 |
+| Digging a Hole | 70.00% | ~90 |
 | Going Places | 65.00% | ~83 |
 | Conducted Trade | 63.00% | ~81 |
 | Aristocratic | 61.00% | ~78 |
-| Tutti Frutti | 52.00% | ~67 |
+| Tutti Frutti | 54.00% | ~69 |
 | Gotta Go Fast | 42.00% | ~54 |
-| Slotting Machine | 37.00% | ~47 |
+| Slotting Machine | 38.00% | ~49 |
 | Systematic | 35.00% | ~45 |
-| Mine Sweeper | 32.00% | ~41 |
-| Roll Out | 30.00% | ~38 |
+| Mine Sweeper | 33.00% | ~42 |
+| Roll Out | 32.00% | ~41 |
 | Dopa-Miner | 23.00% | ~29 |
 | Up, Up And Away! | 23.00% | ~29 |
 | Whoa! | 22.00% | ~28 |
 | Botropolis | 21.00% | ~27 |
+| Steam Powered | 16.00% | ~20 |
 | Steaming Rich | 16.00% | ~20 |
-| Steam Powered | 15.00% | ~19 |
 | Manic Mechanic | 14.00% | ~18 |
-| Room To Spare | 9.00% | ~12 |
+| Room To Spare | 10.00% | ~13 |
+| Stack Overflow | 5.00% | ~6 |
 | Real Purdy | 4.00% | ~5 |
-| Stack Overflow | 4.00% | ~5 |
 | Accustomed Customer | 2.00% | ~3 |
 | Click 'Em All | 2.00% | ~3 |
 | I'm A Lumberbot | 0.80% | ~1 |

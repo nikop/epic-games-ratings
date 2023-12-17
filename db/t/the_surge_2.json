@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2270,
+  "EOS_Progressed": 2271,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3473,6 +3473,11 @@
       "Time": "2023-12-17T14:05:12.9226213+00:00",
       "NumProgressed": 2270,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-17T18:04:06.8322756+00:00",
+      "NumProgressed": 2271,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3492,7 +3497,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "ACHV_03",
@@ -3556,7 +3561,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACHV_11",
@@ -3620,7 +3625,7 @@
       "Name": "True Survivor",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACHV_19",
@@ -3636,7 +3641,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACHV_21",
@@ -3684,7 +3689,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1816
+      "UsersEstimate": 1817
     },
     {
       "ID": "ACHV_27",
@@ -3716,7 +3721,7 @@
       "Name": "Powered Up",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "ACHV_31",
@@ -3756,7 +3761,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ACHV_36",
@@ -3764,7 +3769,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACHV_37",
@@ -3788,7 +3793,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "ACHV_40",
@@ -3804,7 +3809,7 @@
       "Name": "Suited and Booted",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "ACHV_42",
@@ -3812,7 +3817,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACHV_43",
@@ -3836,7 +3841,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACHV_46",
@@ -3939,7 +3944,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2270,
+      "Progressed": 2271,
       "Completed": 13
     }
   ],
@@ -3947,8 +3952,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:04:54.7776577+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:04:06.8322754+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:57:00.284762+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:58:39.8630344+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:04:54.7777087+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:57:56.6309251+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:04:06.8323217+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -1290,9 +1290,9 @@
       "ID": "ending_5",
       "SetID": "d4f4pll",
       "Name": "Lab Rat",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 165
+      "UsersEstimate": 172
     },
     {
       "ID": "ending_6",
@@ -1403,8 +1403,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:09:52.9074691+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:08:56.2825942+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:08.7462011+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:59:00.8964019+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:09:52.9074876+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:58:11.5579869+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:08:56.2826106+00:00"
 }

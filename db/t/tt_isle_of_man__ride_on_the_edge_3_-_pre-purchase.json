@@ -2,10 +2,10 @@
   "ID": "3d7d73d0611849969f568da28ae10530",
   "Name": "TT Isle of Man: Ride on the Edge 3",
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
-  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -1268,8 +1268,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:04:07.8323201+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:03:31.4119439+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:23.9007171+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:58:50.788021+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:04:07.8323498+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:58:04.3762491+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:03:31.4119778+00:00"
 }

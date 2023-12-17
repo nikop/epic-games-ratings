@@ -6,35 +6,35 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,361 |
-| A Spark | 19.00% | ~2,365 |
+| Devoured by Darkness | 27.00% | ~3,362 |
+| A Spark | 19.00% | ~2,366 |
 | Burning City | 18.00% | ~2,241 |
 | Defender's Heart | 16.00% | ~1,992 |
-| Mythic Choices | 15.00% | ~1,867 |
+| Mythic Choices | 15.00% | ~1,868 |
 | Banner over the Citadel | 14.00% | ~1,743 |
 | Queen's Gratitude | 12.00% | ~1,494 |
-| Fifth Crusade | 9.00% | ~1,120 |
-| Embrace of the Abyss | 7.00% | ~871 |
-| Demonic and Divine | 7.00% | ~871 |
-| Path of the Angel | 6.00% | ~747 |
+| Fifth Crusade | 9.00% | ~1,121 |
+| Embrace of the Abyss | 7.00% | ~872 |
+| Path of the Angel | 7.00% | ~872 |
+| Demonic and Divine | 7.00% | ~872 |
 | Great Upstart | 6.00% | ~747 |
 | All Paths Open | 6.00% | ~747 |
-| Path of the Azata | 5.00% | ~622 |
-| Transformation | 5.00% | ~622 |
-| The Legacy | 5.00% | ~622 |
-| Voice from Your Dreams | 5.00% | ~622 |
-| A Flame | 5.00% | ~622 |
-| Next-Door Play | 5.00% | ~622 |
-| Get the Toad | 5.00% | ~622 |
+| Path of the Azata | 5.00% | ~623 |
+| Transformation | 5.00% | ~623 |
+| The Legacy | 5.00% | ~623 |
+| Voice from Your Dreams | 5.00% | ~623 |
+| A Flame | 5.00% | ~623 |
+| Next-Door Play | 5.00% | ~623 |
+| Get the Toad | 5.00% | ~623 |
 | Heart of the Fallen Land | 4.00% | ~498 |
 | Divide and Rule | 4.00% | ~498 |
 | Mythic Reinforcements | 4.00% | ~498 |
 | Hey, I Know You! | 4.00% | ~498 |
-| Path of the Trickster | 3.00% | ~373 |
-| Path of the Lich | 3.00% | ~373 |
-| Heroic Victory | 3.00% | ~373 |
-| Capitulation Is Now Moot | 3.00% | ~373 |
-| Core of the Riddle | 3.00% | ~373 |
+| Path of the Trickster | 3.00% | ~374 |
+| Path of the Lich | 3.00% | ~374 |
+| Heroic Victory | 3.00% | ~374 |
+| Capitulation Is Now Moot | 3.00% | ~374 |
+| Core of the Riddle | 3.00% | ~374 |
 | Hanged Man's Notes | 3.00% | ~337 |
 | Sarkoris Will Be Green | 3.00% | ~337 |
 | The Lady of the Forest | 3.00% | ~337 |
@@ -44,12 +44,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Your First Big Enemy | 2.00% | ~249 |
 | Truly Important Deed | 2.00% | ~249 |
 | Stay Underground | 2.00% | ~225 |
-| The Final Threshold | 1.00% | ~124 |
-| Path of the Dragon | 1.00% | ~124 |
-| Path of the Legend | 1.00% | ~124 |
-| Strategic Victory | 1.00% | ~124 |
-| Abyssal Conspiracy | 1.00% | ~124 |
-| Truly Profane Gift | 1.00% | ~124 |
+| The Final Threshold | 1.00% | ~125 |
+| Path of the Dragon | 1.00% | ~125 |
+| Path of the Legend | 1.00% | ~125 |
+| Strategic Victory | 1.00% | ~125 |
+| Abyssal Conspiracy | 1.00% | ~125 |
+| Truly Profane Gift | 1.00% | ~125 |
 | This Wall Won't Fall | 1.00% | ~112 |
 | Not the Last Sarkorian | 1.00% | ~112 |
 | End of Eternal Guard | 0.90% | ~112 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,449 (Ranked 167)  
+Progressed: 12,452 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -364,14 +364,14 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 12,326 | 0 |
 | 2023-12-15 | 12,356 | 0 |
 | 2023-12-16 | 12,405 | 0 |
-| 2023-12-17 | 12,449 | 0 |
+| 2023-12-17 | 12,452 | 0 |
 ## Awards
-Max (Character Customization): 1,761  (Ranked 124)  
-Sum: 7,144 (Ranked 122)  
+Max (Character Customization): 1,763  (Ranked 124)  
+Sum: 7,148 (Ranked 122)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,761 |
+| This game has Inclusive Character Customization | 1,763 |
 | This game is Extremely Fun | 661 |
 | This game is Highly Recommended | 655 |
 | This game has Diverse Characters | 650 |
@@ -380,7 +380,7 @@ Diff (max vs sum): 2
 | This game has Challenging Combat | 596 |
 | This game has Quickly Understood Controls | 582 |
 | This game is Relaxing | 563 |
-| This game has a Creative Community | 401 |
+| This game has a Creative Community | 403 |
 | This game has Obsessive Gameplay | 364 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -678,4 +678,4 @@ Diff (max vs sum): 2
 | 2023-12-14 | 4.76 | - | 1,761 | 7,138 |
 | 2023-12-15 | 4.76 | - | 1,761 | 7,142 |
 | 2023-12-16 | 4.76 | - | 1,761 | 7,143 |
-| 2023-12-17 | 4.76 | - | 1,761 | 7,144 |
+| 2023-12-17 | 4.76 | - | 1,763 | 7,148 |

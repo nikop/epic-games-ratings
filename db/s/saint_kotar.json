@@ -4,8 +4,8 @@
   "ProductSlug": "saint-kotar-7f0c47",
   "Ranking_EOS_Progress": 578,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 535,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 537,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-10-28T11:00:00+00:00",
     "PcReleaseDate": "2021-10-28T11:00:00+00:00",
@@ -385,9 +385,9 @@
       "ID": "map_enabled_for_Benedek",
       "SetID": "4akddl8",
       "Name": "A Map for Benedek",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "map_enabled_for_Nikolay",
@@ -442,8 +442,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:04:47.4994474+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:04:01.1741132+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:02.1166967+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:03:02.9946096+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:04:47.4994763+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:02:43.1950802+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:04:01.1741466+00:00"
 }

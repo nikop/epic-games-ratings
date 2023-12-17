@@ -4,8 +4,8 @@
   "ProductSlug": "guild-of-dungeoneering-classic",
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 535,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 537,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-16T22:57:13.098992+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:57:32.2216165+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:09:44.6633731+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:57:10.5146697+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:08:49.9947919+00:00"
 }

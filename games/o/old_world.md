@@ -140,10 +140,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.90% | ~142 |
 | Deposed Tribe | 0.90% | ~142 |
 | Ishtar Gate in Babylon | 0.80% | ~126 |
+| Carthage - Ox Hide | 0.80% | ~126 |
 | Learn to Play 5 | 0.80% | ~126 |
 | Cataphract Archer | 0.80% | ~126 |
 | Kmt Unified | 0.80% | ~126 |
-| Carthage - Ox Hide | 0.70% | ~111 |
 | Old | 0.70% | ~111 |
 | Old World Order | 0.70% | ~111 |
 | No Undo | 0.70% | ~111 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,797 (Ranked 155)  
+Progressed: 15,801 (Ranked 155)  
 Completed: 5 (0.03%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -590,7 +590,7 @@ Completed: 5 (0.03%) (Ranked 341)
 | 2023-12-14 | 15,760 | 5 |
 | 2023-12-15 | 15,768 | 5 |
 | 2023-12-16 | 15,789 | 5 |
-| 2023-12-17 | 15,797 | 5 |
+| 2023-12-17 | 15,801 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 278)  
 Sum: 1,901 (Ranked 220)  

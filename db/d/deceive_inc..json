@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19085,
+  "EOS_Progressed": 19086,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13789,6 +13789,11 @@
       "Time": "2023-12-17T17:05:04.0690216+00:00",
       "NumProgressed": 19085,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-17T18:04:13.9925717+00:00",
+      "NumProgressed": 19086,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13816,7 +13821,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3244
+      "UsersEstimate": 3245
     },
     {
       "ID": "0004",
@@ -13896,7 +13901,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "0014",
@@ -13952,7 +13957,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "0021",
@@ -14087,7 +14092,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19085,
+      "Progressed": 19086,
       "Completed": 4
     }
   ],
@@ -14095,8 +14100,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:05:04.0690212+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:04:13.9925714+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:23.0079073+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:01:37.0074542+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:05:04.0691117+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:00:01.2702531+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:04:13.9926623+00:00"
 }

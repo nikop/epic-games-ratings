@@ -1,29 +1,29 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 390)  
+Rating: 4.61 (Ranked 391)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~449,130 |
-| The Three | 64.00% | ~346,317 |
-| The Banquet | 40.00% | ~216,448 |
-| Devara's Light | 31.00% | ~167,747 |
+| Find Sanctuary | 83.00% | ~449,132 |
+| The Three | 64.00% | ~346,319 |
+| The Banquet | 40.00% | ~216,449 |
+| Devara's Light | 31.00% | ~167,748 |
 | The Iron Ones | 19.00% | ~102,813 |
-| The Village | 17.00% | ~91,990 |
+| The Village | 17.00% | ~91,991 |
 | The Forest | 15.00% | ~81,168 |
 | The Imposter | 14.00% | ~75,757 |
 | The Keep | 14.00% | ~75,757 |
 | Branded | 13.00% | ~70,346 |
-| The Castle | 11.00% | ~59,523 |
+| The Castle | 11.00% | ~59,524 |
 | The Dome | 9.00% | ~48,701 |
 | The Red Hall | 9.00% | ~48,701 |
 | The Sacrifice | 9.00% | ~48,701 |
 | The Cave | 8.00% | ~43,290 |
 | The Ziggurat | 8.00% | ~43,290 |
-| The Mire | 7.00% | ~37,878 |
-| The Stone Roots | 7.00% | ~37,878 |
+| The Mire | 7.00% | ~37,879 |
+| The Stone Roots | 7.00% | ~37,879 |
 | Storied | 6.00% | ~32,467 |
 | The Construct | 6.00% | ~32,467 |
 | The Lake | 6.00% | ~32,467 |
@@ -44,8 +44,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,822 |
 | Fading Fast | 1.00% | ~5,411 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 541,120 (Ranked 34)  
-Completed: 1,646 (0.30%) (Ranked 244)  
+Progressed: 541,123 (Ranked 34)  
+Completed: 1,646 (0.30%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -285,7 +285,7 @@ Completed: 1,646 (0.30%) (Ranked 244)
 | 2023-12-14 | 540,768 | 1,643 |
 | 2023-12-15 | 540,878 | 1,643 |
 | 2023-12-16 | 541,020 | 1,644 |
-| 2023-12-17 | 541,120 | 1,646 |
+| 2023-12-17 | 541,123 | 1,646 |
 ## Awards
 Max (Challenging Combat): 294  (Ranked 257)  
 Sum: 2,011 (Ranked 215)  

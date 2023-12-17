@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8840,
+  "EOS_Progressed": 8846,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8882,6 +8882,11 @@
       "Time": "2023-12-17T17:10:44.5195834+00:00",
       "NumProgressed": 8840,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T18:09:36.4937589+00:00",
+      "NumProgressed": 8846,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8934,7 +8939,7 @@
       "Name": "Upgraded Cybernetic Enhancement to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "CreditsEarned50000",
@@ -9006,7 +9011,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "GamesPlayed1",
@@ -9014,7 +9019,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2740
+      "UsersEstimate": 2742
     },
     {
       "ID": "GamesPlayed10",
@@ -9038,7 +9043,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "GamesWon10",
@@ -9214,7 +9219,7 @@
       "Name": "Dealt 30000 Damage in a single match",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "MaxHealingDone30000",
@@ -9254,7 +9259,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "MaxTowersKilled3",
@@ -9262,7 +9267,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "MaxTowersKilled6",
@@ -9326,7 +9331,7 @@
       "Name": "10 Eliminations",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "PlayerKills100",
@@ -9422,7 +9427,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -9438,7 +9443,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "TGPurchased1",
@@ -9454,7 +9459,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "TSUPurchased1",
@@ -9478,14 +9483,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8840,
+      "Progressed": 8846,
       "Completed": 1
     }
   ],
@@ -9493,8 +9498,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-14T20:58:55.0819028+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:10:44.5195831+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:09:36.4937585+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:27.9940225+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:01:34.1727161+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:10:44.5197174+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:59:59.287054+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:09:36.4938488+00:00"
 }

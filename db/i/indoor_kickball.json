@@ -4,8 +4,8 @@
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 535,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 537,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
     "PcReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -529,9 +529,9 @@
       "ID": "16",
       "SetID": "39djiaj",
       "Name": "Kick It",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "17",
@@ -800,8 +800,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:09:56.5280318+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:08:58.9939442+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.1788877+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:57:57.511257+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:09:56.5280623+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:57:28.0431011+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:08:58.9939921+00:00"
 }

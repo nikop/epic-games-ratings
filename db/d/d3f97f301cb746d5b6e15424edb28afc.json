@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -3348,9 +3348,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1105
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -3372,9 +3372,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1080
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -3388,9 +3388,9 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1156
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
@@ -3444,9 +3444,9 @@
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
       "SetID": "5fn8ia4",
       "Name": "So it begins",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1168
     },
     {
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
@@ -3468,9 +3468,9 @@
       "ID": "GSS_ACH_16_ORDER_FUEL",
       "SetID": "5fn8ia4",
       "Name": "Fuel Ordered",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1181
     },
     {
       "ID": "GSS_ACH_17_ORDER_TRASH_COLLECTION",
@@ -3484,17 +3484,17 @@
       "ID": "GSS_ACH_18_ALIENS",
       "SetID": "5fn8ia4",
       "Name": "ALIENS!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 590
     },
     {
       "ID": "GSS_ACH_19_RUDY",
       "SetID": "5fn8ia4",
       "Name": "Rudy!",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1206
     },
     {
       "ID": "GSS_ACH_20_DECORATION_01",
@@ -3556,9 +3556,9 @@
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1042
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
@@ -3692,9 +3692,9 @@
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
       "SetID": "5fn8ia4",
       "Name": "Products Please!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1042
     },
     {
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
@@ -3708,9 +3708,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1093
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -3916,9 +3916,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1105
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -4005,8 +4005,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-17T13:01:05.5072332+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:06:09.2334279+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:05:02.6790123+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:59:07.2076958+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:06:09.2335236+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:58:16.1749779+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:05:02.6790918+00:00"
 }

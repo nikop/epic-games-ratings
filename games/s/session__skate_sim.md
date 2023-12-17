@@ -7,7 +7,7 @@ Number of Ratings: 111  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're free now! | 61.00% | ~1,968 |
-| Keeping it classy | 28.00% | ~903 |
+| Keeping it classy | 28.00% | ~904 |
 | Welcome to the family | 22.00% | ~710 |
 | The finer things in life | 20.00% | ~645 |
 | Backpacker | 14.00% | ~452 |
@@ -18,10 +18,10 @@ Number of Ratings: 111  (23.09.2022)
 | The hard way | 10.00% | ~323 |
 | Upfront shredder | 10.00% | ~323 |
 | Good vibes | 9.00% | ~290 |
-| Fashionista | 8.00% | ~258 |
 | That pinch! | 8.00% | ~258 |
 | Tight lipslides | 8.00% | ~258 |
 | Bottom ply killer | 7.00% | ~226 |
+| Fashionista | 7.00% | ~226 |
 | Finally he zips it | 7.00% | ~226 |
 | G'Day Mate! | 7.00% | ~226 |
 | Commence the Hijinx! | 6.00% | ~194 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,226 (Ranked 216)  
+Progressed: 3,227 (Ranked 216)  
 Completed: 2 (0.06%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 2 (0.06%) (Ranked 321)
 | 2023-12-14 | 3,148 | 2 |
 | 2023-12-15 | 3,179 | 2 |
 | 2023-12-16 | 3,212 | 2 |
-| 2023-12-17 | 3,226 | 2 |
+| 2023-12-17 | 3,227 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 420)  
 Sum: 566 (Ranked 321)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -888,17 +888,17 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_KILL_PONSONBY",
       "SetID": "4n84pon",
       "Name": "Die Nasty",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1057,8 +1057,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:09:05.6663142+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:08:20.0414885+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:01:26.9231183+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:09:05.6663492+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:59:54.0826639+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:08:20.0415116+00:00"
 }

@@ -16,8 +16,8 @@
 | First Win | 64.00% | ~63 |
 | True Story! | 46.00% | ~46 |
 | Bedroom Secret Spot | 41.00% | ~41 |
+| Kick It | 35.00% | ~35 |
 | At least everyone still had fun | 35.00% | ~35 |
-| Kick It | 34.00% | ~34 |
 | Classroom Secret Spot | 30.00% | ~30 |
 | Spooky | 28.00% | ~28 |
 | Grand Slam! | 26.00% | ~26 |

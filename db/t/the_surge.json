@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4950,
+  "EOS_Progressed": 4951,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3636,6 +3636,11 @@
       "Time": "2023-12-17T17:05:52.5869501+00:00",
       "NumProgressed": 4950,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-17T18:04:49.8799085+00:00",
+      "NumProgressed": 4951,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3695,7 +3700,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4159
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3703,7 +3708,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4653
+      "UsersEstimate": 4654
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3727,7 +3732,7 @@
       "Name": "CREO Killed the Video Star",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "ID_ACHIEV_12",
@@ -3735,7 +3740,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -3751,7 +3756,7 @@
       "Name": "Who\u0027s in Charge Here?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "ID_ACHIEV_15",
@@ -3759,7 +3764,7 @@
       "Name": "Turing Test",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ID_ACHIEV_16",
@@ -3799,7 +3804,7 @@
       "Name": "Repeat Customer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ID_ACHIEV_21",
@@ -3807,7 +3812,7 @@
       "Name": "Shall Not Pass",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -3863,7 +3868,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3762
+      "UsersEstimate": 3763
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3887,7 +3892,7 @@
       "Name": "Evolution Theory",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ID_ACHIEV_32",
@@ -3895,7 +3900,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2722
+      "UsersEstimate": 2723
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -3909,9 +3914,9 @@
       "ID": "ID_ACHIEV_35",
       "SetID": "98bke8c",
       "Name": "Most Wanted",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1287
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -3919,7 +3924,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -4182,15 +4187,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4950,
+      "Progressed": 4951,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:05:52.5869498+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:04:49.879908+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:58:08.5562405+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:05:52.5870287+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:57:34.2811394+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:04:49.8799672+00:00"
 }

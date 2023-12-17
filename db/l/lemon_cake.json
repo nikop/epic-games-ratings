@@ -4,8 +4,8 @@
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 459,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 440,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
     "PcReleaseDate": "2021-02-18T01:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 171,
+  "EOS_Progressed": 172,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.17,
+  "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:16.6062056+00:00",
@@ -325,6 +325,11 @@
       "Time": "2023-12-17T06:08:23.0313939+00:00",
       "NumProgressed": 171,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T18:08:04.5389417+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 17,
@@ -336,7 +341,7 @@
       "Name": "Proving Your Skills",
       "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "LC-02",
@@ -382,9 +387,9 @@
       "ID": "LC-07",
       "SetID": "ap2ljl4",
       "Name": "Expert Baker",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "LC-08",
@@ -430,9 +435,9 @@
       "ID": "LC-13",
       "SetID": "ap2ljl4",
       "Name": "The Kitchen Is On Fire",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "LC-14",
@@ -464,14 +469,14 @@
       "Name": "Perfect Server",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 171,
+      "Progressed": 172,
       "Completed": 2
     }
   ],
@@ -479,8 +484,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:08:43.2030218+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:08:04.5389413+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:38.5761808+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:57:32.5501622+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:08:43.2030348+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:57:10.6777133+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:08:04.5389517+00:00"
 }

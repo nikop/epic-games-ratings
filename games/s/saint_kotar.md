@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Finish the Tutorial | 74.00% | ~17 |
-| A Map for Benedek | 48.00% | ~11 |
+| A Map for Benedek | 52.00% | ~12 |
 | A Map for Nikolay | 48.00% | ~11 |
 | The Wall of Laments | 39.00% | ~9 |
 | Death Whistle | 39.00% | ~9 |

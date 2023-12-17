@@ -9754,10 +9754,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20660,
       "NumberOfAwardsMax": 7763
+    },
+    {
+      "Time": "2023-12-17T17:57:50.1204648+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20669,
+      "NumberOfAwardsMax": 7763
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20660,
+  "NumberOfAwards": 20669,
   "NumberOfAwardsMax": 7763,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9807,7 +9813,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1711
+      "Count": 1720
     },
     {
       "Text": "This game is Relaxing",
@@ -9834,7 +9840,7 @@
       "Count": 1018
     }
   ],
-  "EOS_Progressed": 128076,
+  "EOS_Progressed": 128085,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 2043,
   "EOS_NewCompleters": 1,
@@ -35509,6 +35515,11 @@
       "Time": "2023-12-17T17:09:34.4869069+00:00",
       "NumProgressed": 128076,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T18:08:42.1444005+00:00",
+      "NumProgressed": 128085,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35590,9 +35601,9 @@
       "ID": "altar_of_hope_unlock_hero_runaway",
       "SetID": "64l4lke",
       "Name": "Boxcar Kid",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1281
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -35616,7 +35627,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -35648,7 +35659,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3842
+      "UsersEstimate": 3843
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35744,7 +35755,7 @@
       "Name": "Overdue Notice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3842
+      "UsersEstimate": 3843
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35760,7 +35771,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3842
+      "UsersEstimate": 3843
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35872,7 +35883,7 @@
       "Name": "Autodidact",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3842
+      "UsersEstimate": 3843
     },
     {
       "ID": "hero_story_complete_all",
@@ -35982,9 +35993,9 @@
       "ID": "run_victory_act02",
       "SetID": "64l4lke",
       "Name": "Hot Air",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 768
+      "UsersEstimate": 897
     },
     {
       "ID": "run_victory_act03",
@@ -35992,7 +36003,7 @@
       "Name": "Eyes Up",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "run_victory_act04",
@@ -36056,7 +36067,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "combat_kill_collector",
@@ -36112,7 +36123,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "quest_complete_crusader",
@@ -36151,21 +36162,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128076,
+      "Progressed": 128085,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2945,
+      "Progressed": 2954,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-17T16:58:30.6151938+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:09:34.4869064+00:00",
+  "LastChanged": "2023-12-17T17:57:50.1204647+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:08:42.1444002+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:58:30.6151944+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:09:34.4870968+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:57:50.1204656+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:08:42.1445967+00:00"
 }

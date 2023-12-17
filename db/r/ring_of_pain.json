@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3696,7 +3696,7 @@
   ],
   "EOS_Progressed": 241199,
   "EOS_Completed": 299,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29062,9 +29062,9 @@
       "ID": "KILLPARANOIA",
       "SetID": "5l8oe0h",
       "Name": "What\u0027s Yours Is Mine",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1447
     },
     {
       "ID": "KILLREFLECT10",
@@ -29677,8 +29677,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-17T13:00:27.9873686+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:10:45.008866+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:09:36.9319893+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.1397919+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:58:15.1429997+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:10:45.0090979+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:57:39.0802508+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:09:36.9322233+00:00"
 }

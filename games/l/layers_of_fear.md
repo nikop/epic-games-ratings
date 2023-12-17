@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 78.00% | ~111 |
-| Wanderer | 63.00% | ~89 |
-| A piece of the story | 57.00% | ~81 |
-| It's covered up for a reason | 44.00% | ~62 |
+| Something important | 78.00% | ~112 |
+| Wanderer | 63.00% | ~91 |
+| A piece of the story | 56.00% | ~81 |
+| It's covered up for a reason | 44.00% | ~63 |
 | Scraps of love | 42.00% | ~60 |
-| The artist’s impression | 42.00% | ~60 |
-| Do what you have to | 41.00% | ~58 |
-| Sign of weakness | 34.00% | ~48 |
-| Refuse to look | 32.00% | ~45 |
-| Finished it | 27.00% | ~38 |
+| Do what you have to | 41.00% | ~59 |
+| The artist’s impression | 41.00% | ~59 |
+| Sign of weakness | 34.00% | ~49 |
+| Refuse to look | 33.00% | ~48 |
 | Face your fears | 26.00% | ~37 |
+| Finished it | 26.00% | ~37 |
 | Whispers long forgotten | 14.00% | ~20 |
-| A Slice of Life | 11.00% | ~16 |
 | Debut | 11.00% | ~16 |
 | Playtime | 11.00% | ~16 |
 | The art of movement | 11.00% | ~16 |
-| The tragedy unfolds | 11.00% | ~16 |
 | Tough conversation | 11.00% | ~16 |
+| A Slice of Life | 10.00% | ~14 |
 | First steps | 10.00% | ~14 |
 | Sound Bite | 10.00% | ~14 |
+| The tragedy unfolds | 10.00% | ~14 |
 | A new way | 9.00% | ~13 |
 | True Reflection | 9.00% | ~13 |
-| Another perspective | 8.00% | ~11 |
-| Breaking free | 8.00% | ~11 |
-| Lights! Camera! Action! | 8.00% | ~11 |
+| Another perspective | 8.00% | ~12 |
+| Breaking free | 8.00% | ~12 |
+| Lights! Camera! Action! | 8.00% | ~12 |
 | Casting Finished | 7.00% | ~10 |
 | Heavy Burden | 7.00% | ~10 |
 | Fisherman | 6.00% | ~9 |
 | We Are Not Alone | 5.00% | ~7 |
 | The Perfect Storm | 4.00% | ~6 |
-| Instinct of self-preservation | 4.00% | ~6 |
 | Something to think about | 3.00% | ~4 |
 | I remember It Like Was Yesterday | 3.00% | ~4 |
 | Body of Work | 3.00% | ~4 |
 | Se7en Seas | 3.00% | ~4 |
+| Instinct of self-preservation | 3.00% | ~4 |
 | A Mosaic of Misery | 3.00% | ~4 |
 | Dark correspondence | 2.00% | ~3 |
 | It was worth a try | 2.00% | ~3 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142 (Ranked 421)  
+Progressed: 144 (Ranked 421)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,4 +112,4 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 117 | 0 |
 | 2023-12-15 | 125 | 0 |
 | 2023-12-16 | 133 | 0 |
-| 2023-12-17 | 142 | 0 |
+| 2023-12-17 | 144 | 0 |

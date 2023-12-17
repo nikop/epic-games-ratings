@@ -3,9 +3,9 @@
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 330,
-  "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Completed": 219,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 466,
+  "EOS_Progressed": 467,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1237,6 +1237,11 @@
       "Time": "2023-12-17T14:06:22.3044057+00:00",
       "NumProgressed": 466,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T18:04:55.5895351+00:00",
+      "NumProgressed": 467,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1287,17 +1292,17 @@
       "ID": "DEFENCE_LEVEL_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Hardened Hedgehog",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "ENEMY_DEFEATED_ALL",
       "SetID": "apihg0e",
       "Name": "Easy Prey",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "FIRST_ACCEL_COMBO",
@@ -1305,7 +1310,7 @@
       "Name": "Combo Convert",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1337,15 +1342,15 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
       "SetID": "apihg0e",
       "Name": "Celestial Rain",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 103
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1353,7 +1358,7 @@
       "Name": "Unknown Threat",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1361,7 +1366,7 @@
       "Name": "Speed Demon",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1423,9 +1428,9 @@
       "ID": "MAIN_CLEAR_ISLAND4",
       "SetID": "apihg0e",
       "Name": "Hope Across Ages",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "MAIN_CLEAR_LAST",
@@ -1441,7 +1446,7 @@
       "Name": "The Journey Begins",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1527,9 +1532,9 @@
       "ID": "SUB_CLEAR_ISLAND1",
       "SetID": "apihg0e",
       "Name": "Kronos Island Expert",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "SUB_CLEAR_ISLAND2",
@@ -1543,9 +1548,9 @@
       "ID": "SUB_CLEAR_ISLAND3",
       "SetID": "apihg0e",
       "Name": "Chaos Island Expert",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "SUB_CLEAR_ISLAND4",
@@ -1561,21 +1566,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 466,
+      "Progressed": 467,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:06:00.1402542+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:04:55.5895348+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:06.567221+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:03:13.6410636+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:06:00.140287+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:02:51.1917246+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:04:55.5895641+00:00"
 }

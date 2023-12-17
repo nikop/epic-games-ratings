@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -692,17 +692,17 @@
       "ID": "Achievement4",
       "SetID": "9fa3l5n",
       "Name": "The Tomb of Kih-Oskh",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Achievement5",
       "SetID": "9fa3l5n",
       "Name": "The Weighing of the Soul",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achievement6",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:08:57.9373812+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:08:14.3631369+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:55.8592774+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:00:20.1397912+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:08:57.9374109+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:59:07.1381107+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:08:14.3631602+00:00"
 }

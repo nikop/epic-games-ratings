@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 442,
+  "EOS_Progressed": 444,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1374,6 +1374,11 @@
       "Time": "2023-12-17T16:04:38.3734955+00:00",
       "NumProgressed": 442,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T18:04:37.2356436+00:00",
+      "NumProgressed": 444,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1426,7 +1431,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "9",
@@ -1448,17 +1453,17 @@
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 324
     },
     {
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 265
+      "UsersEstimate": 262
     },
     {
       "ID": "Remake_005",
@@ -1482,7 +1487,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Remake_008",
@@ -1498,7 +1503,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Remake_010",
@@ -1609,14 +1614,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 442,
+      "Progressed": 444,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:05:36.088787+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:04:37.2356432+00:00",
   "LastUpdate_AppInfo": "2023-12-11T23:56:59.5421023+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:57:14.0569706+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:05:36.0888104+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:56:57.2568329+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:04:37.2356673+00:00"
 }

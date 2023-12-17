@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -303,9 +303,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 988,
+  "EOS_Progressed": 989,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2103,6 +2103,11 @@
       "Time": "2023-12-17T17:09:39.9445889+00:00",
       "NumProgressed": 988,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T18:08:46.2640557+00:00",
+      "NumProgressed": 989,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2122,7 +2127,7 @@
       "Name": "Act II Complete",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
@@ -2138,7 +2143,7 @@
       "Name": "Always Finding Your Mark",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -2194,7 +2199,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -2264,9 +2269,9 @@
       "ID": "ACH_I_CAN_FIX_IT",
       "SetID": "108h92c",
       "Name": "I can fix it!",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 613
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -2274,7 +2279,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2290,7 +2295,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -2314,7 +2319,7 @@
       "Name": "The Weight of the World",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -2322,14 +2327,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 988,
+      "Progressed": 989,
       "Completed": 0
     }
   ],
@@ -2337,8 +2342,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-11-20T03:58:42.1118377+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:09:39.9445885+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:08:46.2640555+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:08.6185668+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:58:59.6926875+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:09:39.9446149+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:58:10.6941051+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:08:46.2640792+00:00"
 }

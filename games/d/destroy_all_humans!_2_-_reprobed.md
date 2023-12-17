@@ -18,9 +18,9 @@ Number of Ratings: 90  (23.09.2022)
 | Upgreatest | 17.00% | ~17 |
 | I Look Up As I Walk to Takoshima | 16.00% | ~16 |
 | Lie Back and Think of Albion | 15.00% | ~15 |
+| Freshly Squeezed | 12.00% | ~12 |
 | Perfect Probulator | 11.00% | ~11 |
-| Freshly Squeezed | 11.00% | ~11 |
-| Die Nasty | 9.00% | ~9 |
+| Die Nasty | 10.00% | ~10 |
 | Transmitting From Sol-3 | 7.00% | ~7 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 7.00% | ~7 |
 | Dusted | 7.00% | ~7 |

@@ -2,10 +2,10 @@
   "ID": "f3b63c1a16ed4e78973359dbfaebbd1f",
   "Name": "Rogue Spirit",
   "ProductSlug": "rogue-spirit",
-  "Ranking_EOS_Progress": 575,
+  "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 459,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 440,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-07T16:00:00+00:00",
     "PcReleaseDate": "2023-03-07T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24,
+  "EOS_Progressed": 25,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -73,6 +73,11 @@
     {
       "Time": "2023-12-15T22:03:29.4541745+00:00",
       "NumProgressed": 24,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T18:04:12.5797718+00:00",
+      "NumProgressed": 25,
       "NumCompleted": 0
     }
   ],
@@ -259,7 +264,7 @@
       "ID": "FamineDefeated",
       "SetID": "b42i7am",
       "Name": "Famine Defeated",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -323,7 +328,7 @@
       "ID": "GoldCollector",
       "SetID": "b42i7am",
       "Name": "Gold Collector",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -363,7 +368,7 @@
       "ID": "Liberator",
       "SetID": "b42i7am",
       "Name": "Liberator",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -403,7 +408,7 @@
       "ID": "ParryMastery",
       "SetID": "b42i7am",
       "Name": "Parry Mastery",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -411,7 +416,7 @@
       "ID": "Perceptive",
       "SetID": "b42i7am",
       "Name": "Perceptive",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -419,7 +424,7 @@
       "ID": "PossessMastery",
       "SetID": "b42i7am",
       "Name": "Possess Mastery",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -475,9 +480,9 @@
       "ID": "SilentAssassin",
       "SetID": "b42i7am",
       "Name": "Silent Assassin",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SkilfulChampion",
@@ -564,7 +569,7 @@
     {
       "ID": "b42i7am",
       "IsBase": true,
-      "Progressed": 24,
+      "Progressed": 25,
       "Completed": 0
     }
   ],
@@ -572,8 +577,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2469383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:48.9680717+00:00",
   "LastChanged": "2023-03-31T05:58:07.2469384+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:05:02.2105677+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:04:12.5797715+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:11.2339029+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:02:38.9314481+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:05:02.2106167+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:00:16.6571616+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:04:12.5798078+00:00"
 }

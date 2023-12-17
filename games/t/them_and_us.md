@@ -45,7 +45,7 @@
 | Nightmare Over | 0.30% | ~1 |
 | Survival Horror | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 326 (Ranked 360)  
+Progressed: 326 (Ranked 361)  
 Completed: 1 (0.31%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |

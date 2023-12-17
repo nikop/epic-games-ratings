@@ -8821,9 +8821,9 @@
       "Count": 3578
     }
   ],
-  "EOS_Progressed": 241457,
+  "EOS_Progressed": 241479,
   "EOS_Completed": 2537,
-  "EOS_NewPlayers": 2175,
+  "EOS_NewPlayers": 2188,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36026,6 +36026,11 @@
       "Time": "2023-12-17T17:10:46.5150119+00:00",
       "NumProgressed": 241457,
       "NumCompleted": 2537
+    },
+    {
+      "Time": "2023-12-17T18:09:37.9709294+00:00",
+      "NumProgressed": 241479,
+      "NumCompleted": 2537
     }
   ],
   "TotalAchievements": 546,
@@ -40365,7 +40370,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "objective_completed_678",
@@ -40373,7 +40378,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "objective_completed_683",
@@ -40389,7 +40394,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "objective_completed_865",
@@ -40397,28 +40402,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 207731,
+      "Progressed": 207753,
       "Completed": 4024
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 241457,
+      "Progressed": 241479,
       "Completed": 2537
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-17T15:58:55.0100345+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:10:46.5150112+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:09:37.9709289+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:00:08.2558008+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:10:46.5172605+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:58:58.2010535+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:09:37.973233+00:00"
 }

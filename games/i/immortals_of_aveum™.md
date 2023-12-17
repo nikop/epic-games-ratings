@@ -5,27 +5,27 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~887 |
-| Battlefields Have Memories | 79.00% | ~805 |
-| Enlisted | 73.00% | ~744 |
-| Maybe Engage a Little | 67.00% | ~683 |
-| No More Names | 47.00% | ~479 |
-| Initiate | 32.00% | ~326 |
-| Thrada-Kul | 28.00% | ~285 |
-| Socialite | 21.00% | ~214 |
-| Gravity-Challenged Rocks | 21.00% | ~214 |
-| Soldier | 18.00% | ~183 |
-| All the Major Food Groups | 17.00% | ~173 |
-| Beggars Would Ride | 15.00% | ~153 |
-| Control is an Illusion | 14.00% | ~143 |
-| The Means to Save It | 11.00% | ~112 |
-| Resilience to Sin | 10.00% | ~102 |
-| A Familiar Nest | 10.00% | ~102 |
-| Geas Aristeya | 9.00% | ~92 |
-| Periapt Alizarin | 9.00% | ~92 |
+| Unforeseen | 87.00% | ~894 |
+| Battlefields Have Memories | 79.00% | ~812 |
+| Enlisted | 73.00% | ~750 |
+| Maybe Engage a Little | 66.00% | ~678 |
+| No More Names | 47.00% | ~483 |
+| Initiate | 32.00% | ~329 |
+| Thrada-Kul | 28.00% | ~288 |
+| Socialite | 21.00% | ~216 |
+| Gravity-Challenged Rocks | 21.00% | ~216 |
+| Soldier | 18.00% | ~185 |
+| All the Major Food Groups | 17.00% | ~175 |
+| Beggars Would Ride | 15.00% | ~154 |
+| Control is an Illusion | 14.00% | ~144 |
+| The Means to Save It | 11.00% | ~113 |
+| Resilience to Sin | 10.00% | ~103 |
+| A Familiar Nest | 9.00% | ~93 |
+| Geas Aristeya | 9.00% | ~93 |
+| Periapt Alizarin | 9.00% | ~93 |
 | A Perfect Cycle | 8.00% | ~82 |
 | Recruit | 8.00% | ~82 |
-| Armsman | 7.00% | ~71 |
+| Armsman | 7.00% | ~72 |
 | Lights Army | 5.00% | ~51 |
 | Periapt Cerulean | 5.00% | ~51 |
 | Good Boy | 5.00% | ~51 |
@@ -35,9 +35,9 @@ Rating: 4.19 (Ranked 939)
 | Best Dressed | 3.00% | ~31 |
 | Armaments Azure | 3.00% | ~31 |
 | Armaments Gules | 3.00% | ~31 |
-| Scholar | 2.00% | ~20 |
-| Armaments Vert | 2.00% | ~20 |
-| Veteran | 2.00% | ~20 |
+| Scholar | 2.00% | ~21 |
+| Armaments Vert | 2.00% | ~21 |
+| Veteran | 2.00% | ~21 |
 | Master of Carmine | 1.00% | ~10 |
 | Shroudfane Surveyor | 0.80% | ~8 |
 | Tip of the Spear | 0.80% | ~8 |
@@ -53,8 +53,8 @@ Rating: 4.19 (Ranked 939)
 | Out of Time | 0.20% | ~2 |
 | Fowl Play | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,019 (Ranked 274)  
-Completed: 2 (0.20%) (Ranked 267)  
+Progressed: 1,028 (Ranked 274)  
+Completed: 2 (0.19%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -133,7 +133,7 @@ Completed: 2 (0.20%) (Ranked 267)
 | 2023-12-14 | 532 | 2 |
 | 2023-12-15 | 689 | 2 |
 | 2023-12-16 | 908 | 2 |
-| 2023-12-17 | 1,019 | 2 |
+| 2023-12-17 | 1,028 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

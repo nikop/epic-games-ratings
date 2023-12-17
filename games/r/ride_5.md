@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 46.00% | ~1,226 |
-| First Love | 43.00% | ~1,146 |
-| Clean Race | 41.00% | ~1,093 |
-| Hear That Roar! | 40.00% | ~1,066 |
-| Rivals to the End | 29.00% | ~773 |
-| Bitter Rivalry | 28.00% | ~746 |
-| We're Going to Need a Bigger Garage | 25.00% | ~666 |
-| Champagne Spray | 25.00% | ~666 |
-| I Want One Too! | 20.00% | ~533 |
+| Eat My Dust | 46.00% | ~1,229 |
+| First Love | 43.00% | ~1,149 |
+| Clean Race | 41.00% | ~1,095 |
+| Hear That Roar! | 40.00% | ~1,068 |
+| Rivals to the End | 29.00% | ~775 |
+| Bitter Rivalry | 28.00% | ~748 |
+| We're Going to Need a Bigger Garage | 25.00% | ~668 |
+| Champagne Spray | 25.00% | ~668 |
+| I Want One Too! | 20.00% | ~534 |
 | Restored and Ready | 19.00% | ~507 |
 | Legendary!!! | 19.00% | ~507 |
 | Quick Pit Stop | 19.00% | ~507 |
-| Go-Faster Stripes | 17.00% | ~453 |
-| I'm Here Too! | 15.00% | ~400 |
-| We've Just Begun | 12.00% | ~320 |
-| Stamina Star | 9.00% | ~240 |
+| Go-Faster Stripes | 17.00% | ~454 |
+| I'm Here Too! | 15.00% | ~401 |
+| We've Just Begun | 12.00% | ~321 |
 | Is It the Right Size? | 9.00% | ~240 |
+| Stamina Star | 8.00% | ~214 |
 | Evangelist | 6.00% | ~160 |
-| Make It Your Own! | 5.00% | ~133 |
+| Make It Your Own! | 5.00% | ~134 |
 | Cherry Blossom and Temples | 4.00% | ~107 |
 | Spoilt for Choice | 3.00% | ~80 |
 | La Dolce Vita | 3.00% | ~80 |
@@ -38,23 +38,23 @@
 | Overtaking the Master | 2.00% | ~53 |
 | Next Level | 1.00% | ~27 |
 | I Don't Stop | 1.00% | ~27 |
-| Exhausted but Happy | 0.80% | ~21 |
+| Exhausted but Happy | 0.70% | ~19 |
 | In Search of Perfection | 0.60% | ~16 |
-| Globe-trotter | 0.50% | ~13 |
+| Globe-trotter | 0.40% | ~11 |
 | Maximum Endurance | 0.20% | ~5 |
 | Breathtaking Views | 0.20% | ~5 |
 | Beyond the Limiter | 0.20% | ~5 |
 | All My Own Toys | 0.20% | ~5 |
 | Full Power | 0.20% | ~5 |
-| There's a Great View up Here | 0.20% | ~5 |
 | Endless | 0.10% | ~3 |
 | At the Top | 0.10% | ~3 |
+| There's a Great View up Here | 0.10% | ~3 |
 | Absolute Champion | 0.10% | ~3 |
 | Dream Chaser | 0.00% | ~0 |
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,666 (Ranked 221)  
+Progressed: 2,671 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,4 +161,4 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 2,522 | 0 |
 | 2023-12-15 | 2,579 | 0 |
 | 2023-12-16 | 2,636 | 0 |
-| 2023-12-17 | 2,666 | 0 |
+| 2023-12-17 | 2,671 | 0 |

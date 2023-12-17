@@ -6,14 +6,14 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 7.00% | ~206 |
+| Malpractice Assurance | 7.00% | ~207 |
 | This guy... again? | 4.00% | ~118 |
 | Lost and Found | 4.00% | ~118 |
-| This Belongs in a Museum | 3.00% | ~3,842 |
-| Overdue Notice | 3.00% | ~3,842 |
-| Escape from the Black Hole | 3.00% | ~3,842 |
-| Autodidact | 3.00% | ~3,842 |
-| Bloody Graduation | 3.00% | ~88 |
+| This Belongs in a Museum | 3.00% | ~3,843 |
+| Overdue Notice | 3.00% | ~3,843 |
+| Escape from the Black Hole | 3.00% | ~3,843 |
+| Autodidact | 3.00% | ~3,843 |
+| Bloody Graduation | 3.00% | ~89 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,562 |
 | Serenity Now! | 2.00% | ~2,562 |
 | It Rings a Bell | 2.00% | ~2,562 |
@@ -33,6 +33,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Funny Guy | 1.00% | ~1,281 |
 | Long Live the King | 1.00% | ~1,281 |
 | Wyrdly Reconstructed | 1.00% | ~1,281 |
+| Boxcar Kid | 1.00% | ~1,281 |
 | Unfulfilled Desires | 1.00% | ~1,281 |
 | Predator | 1.00% | ~1,281 |
 | Dissector | 1.00% | ~1,281 |
@@ -50,16 +51,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 1.00% | ~1,281 |
 | Unshackled | 1.00% | ~1,281 |
 | Road Trip | 1.00% | ~1,281 |
-| Boxcar Kid | 0.90% | ~1,153 |
 | When You Want Something Done Right | 0.90% | ~1,153 |
 | Utopia | 0.90% | ~1,153 |
 | Hope Rekindled | 0.80% | ~1,025 |
 | Ichthyophobic | 0.70% | ~897 |
 | No More Mouths to Feed | 0.70% | ~897 |
+| Hot Air | 0.70% | ~897 |
 | Slap on the Wrist | 0.70% | ~21 |
-| This Looks Familiar | 0.60% | ~768 |
-| Hot Air | 0.60% | ~768 |
-| Eyes Up | 0.60% | ~768 |
+| This Looks Familiar | 0.60% | ~769 |
+| Eyes Up | 0.60% | ~769 |
 | For Old Time' Sake | 0.60% | ~18 |
 | Handled | 0.50% | ~640 |
 | Body of Work | 0.50% | ~640 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,076 (Ranked 85)  
+Progressed: 128,085 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,15 +317,15 @@ Completed: 3 (0.00%) (Ranked 380)
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
-| 2023-12-17 | 128,076 | 3 |
+| 2023-12-17 | 128,085 | 3 |
 ## Awards
 Max (Character Customization): 7,763  (Ranked 50)  
-Sum: 20,660 (Ranked 58)  
+Sum: 20,669 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,763 |
-| This game has Diverse Characters | 1,711 |
+| This game has Diverse Characters | 1,720 |
 | This game has Challenging Combat | 1,599 |
 | This game is Highly Recommended | 1,535 |
 | This game is Extremely Fun | 1,465 |
@@ -662,4 +662,4 @@ Diff (max vs sum): -8
 | 2023-12-14 | 4.68 | - | 7,689 | 20,427 |
 | 2023-12-15 | 4.68 | - | 7,718 | 20,517 |
 | 2023-12-16 | 4.68 | - | 7,744 | 20,595 |
-| 2023-12-17 | 4.68 | - | 7,763 | 20,660 |
+| 2023-12-17 | 4.68 | - | 7,763 | 20,669 |

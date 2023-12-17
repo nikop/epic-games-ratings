@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 459,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 440,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 479,
+  "EOS_Progressed": 480,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -522,6 +522,11 @@
       "Time": "2023-12-17T04:04:00.9311315+00:00",
       "NumProgressed": 479,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T18:04:12.2739187+00:00",
+      "NumProgressed": 480,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -597,7 +602,7 @@
       "Name": "Path of Learning",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -605,7 +610,7 @@
       "Name": "Time Travel!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -637,7 +642,7 @@
       "Name": "More Brain Than Brawn",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -765,7 +770,7 @@
       "Name": "King of District 1",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -853,7 +858,7 @@
       "Name": "Self Defense",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -869,7 +874,7 @@
       "Name": "Amazing!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -932,7 +937,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 479,
+      "Progressed": 480,
       "Completed": 1
     }
   ],
@@ -940,8 +945,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:05:01.9425767+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:04:12.2739185+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.7923718+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:01:30.6140508+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:05:01.9426183+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:59:56.8549414+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:04:12.2739552+00:00"
 }

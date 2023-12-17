@@ -5,34 +5,34 @@ Rating: 4.08 (Ranked 988)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Who Needs Keys? | 50.00% | ~1,861 |
-| Totally Intentional | 45.00% | ~1,675 |
-| Each Sold Separately | 38.00% | ~1,414 |
-| We're In | 33.00% | ~1,228 |
-| You're Not Naked | 30.00% | ~1,117 |
+| Who Needs Keys? | 50.00% | ~1,862 |
+| Totally Intentional | 45.00% | ~1,676 |
+| Each Sold Separately | 38.00% | ~1,415 |
+| We're In | 33.00% | ~1,229 |
 | Tale in the Toilet | 30.00% | ~1,117 |
-| From Zeroes... | 29.00% | ~1,079 |
+| You're Not Naked | 29.00% | ~1,080 |
+| From Zeroes... | 29.00% | ~1,080 |
 | Don't Get Cocky | 27.00% | ~1,005 |
-| Shard Snatchers | 25.00% | ~930 |
-| You Rich Now! | 23.00% | ~856 |
+| Shard Snatchers | 25.00% | ~931 |
+| You Rich Now! | 23.00% | ~857 |
 | Our Lucky Winner | 21.00% | ~782 |
 | You Poor Now! | 21.00% | ~782 |
-| The Shardmenstration | 20.00% | ~744 |
-| You Got the Goods, Kid | 20.00% | ~744 |
-| Those Were the Days... | 19.00% | ~707 |
+| The Shardmenstration | 20.00% | ~745 |
+| You Got the Goods, Kid | 20.00% | ~745 |
+| Those Were the Days... | 19.00% | ~708 |
 | ...To Heroes | 18.00% | ~670 |
 | Mas, Por Favor | 18.00% | ~670 |
-| And Still Champion... | 15.00% | ~558 |
+| And Still Champion... | 15.00% | ~559 |
 | Super Trusting Friend! | 9.00% | ~335 |
 | Bring back the butt! | 4.00% | ~149 |
 | Hey, thanks! | 4.00% | ~149 |
 | Murderous Mascot Mayhem | 3.00% | ~112 |
-| New Business | 0.90% | ~33 |
+| New Business | 0.90% | ~34 |
 | Okay, Vain Much? | 0.50% | ~19 |
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,722 (Ranked 208)  
+Progressed: 3,724 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-13 | 3,711 | 0 |
 | 2023-12-14 | 3,713 | 0 |
 | 2023-12-15 | 3,717 | 0 |
-| 2023-12-17 | 3,722 | 0 |
+| 2023-12-17 | 3,724 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

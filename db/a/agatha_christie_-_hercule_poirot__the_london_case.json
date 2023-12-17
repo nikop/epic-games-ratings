@@ -4,8 +4,8 @@
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -549,9 +549,9 @@
       "ID": "ACH_041",
       "SetID": "7b646ck",
       "Name": "Marc Allard",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_042",
@@ -644,8 +644,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:09:49.4864839+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:08:53.6378727+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:34.2586624+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:02:38.1649088+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:09:49.4865158+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:00:16.0234736+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:08:53.6379226+00:00"
 }

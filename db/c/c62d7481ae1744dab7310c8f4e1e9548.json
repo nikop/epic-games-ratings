@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123,
+  "EOS_Progressed": 124,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.5,
+  "EOS_Completed_Percentage": 6.45,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -649,6 +649,11 @@
       "Time": "2023-12-17T15:04:25.5414443+00:00",
       "NumProgressed": 123,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-17T18:04:12.9873636+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -699,17 +704,17 @@
       "ID": "Houby",
       "SetID": "ag48e8e",
       "Name": "Mushrooms",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 29
     },
     {
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Kamzik",
@@ -723,9 +728,9 @@
       "ID": "Kour",
       "SetID": "ag48e8e",
       "Name": "Spiral Smoke",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "KrabiPyramida",
@@ -739,7 +744,7 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
       "UsersEstimate": 76
     },
@@ -755,9 +760,9 @@
       "ID": "MluviciPapouch",
       "SetID": "ag48e8e",
       "Name": "Mimicking Parrot",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "Myska",
@@ -779,9 +784,9 @@
       "ID": "Netopyrek",
       "SetID": "ag48e8e",
       "Name": "Liana Bats",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Pejsek",
@@ -811,9 +816,9 @@
       "ID": "Rybka",
       "SetID": "ag48e8e",
       "Name": "Goldfish",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 24
     },
     {
       "ID": "Sova",
@@ -827,25 +832,25 @@
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Sputnik2",
       "SetID": "ag48e8e",
       "Name": "Sputnik",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Stonozka",
       "SetID": "ag48e8e",
       "Name": "Centipede",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Strom",
@@ -900,14 +905,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 123,
+      "Progressed": 124,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:05:02.7950867+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:04:12.9873634+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9485544+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:02:55.2754917+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:05:02.795105+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:02:37.8250448+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:04:12.9873832+00:00"
 }

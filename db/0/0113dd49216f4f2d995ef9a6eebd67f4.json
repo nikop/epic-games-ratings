@@ -4,8 +4,8 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -756,9 +756,9 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -907,8 +907,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:08:59.3482756+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:08:15.4695923+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.0565697+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:59:24.1066681+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:08:59.3483017+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:58:27.5448587+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:08:15.4696155+00:00"
 }

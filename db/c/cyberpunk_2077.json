@@ -6,7 +6,7 @@
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 16,
-  "Ranking_EOS_Completed": 244,
+  "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 41,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -16766,10 +16766,10 @@
       "Count": 16026
     }
   ],
-  "EOS_Progressed": 977894,
-  "EOS_Completed": 2928,
-  "EOS_NewPlayers": 3859,
-  "EOS_NewCompleters": 48,
+  "EOS_Progressed": 977918,
+  "EOS_Completed": 2929,
+  "EOS_NewPlayers": 3856,
+  "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -44256,6 +44256,11 @@
       "Time": "2023-12-17T17:05:19.2393285+00:00",
       "NumProgressed": 977894,
       "NumCompleted": 2928
+    },
+    {
+      "Time": "2023-12-17T18:04:25.1242641+00:00",
+      "NumProgressed": 977918,
+      "NumCompleted": 2929
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -44292,7 +44297,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39116
+      "UsersEstimate": 39117
     },
     {
       "ID": "Denied",
@@ -44300,7 +44305,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58674
+      "UsersEstimate": 58675
     },
     {
       "ID": "FollowingTheRiver",
@@ -44324,7 +44329,7 @@
       "Name": "Autojock",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5867
+      "UsersEstimate": 5868
     },
     {
       "ID": "GetMeThereScottie",
@@ -44340,7 +44345,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78232
+      "UsersEstimate": 78233
     },
     {
       "ID": "Gunslinger",
@@ -44388,7 +44393,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29337
+      "UsersEstimate": 29338
     },
     {
       "ID": "MaxPain",
@@ -44404,7 +44409,7 @@
       "Name": "Must Be Rats",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4889
+      "UsersEstimate": 4890
     },
     {
       "ID": "NeverFadeAway",
@@ -44436,7 +44441,7 @@
       "Name": "Life of the Road",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29337
+      "UsersEstimate": 29338
     },
     {
       "ID": "Roleplayer",
@@ -44444,7 +44449,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39116
+      "UsersEstimate": 39117
     },
     {
       "ID": "Specialist",
@@ -44460,7 +44465,7 @@
       "Name": "Temperance",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4889
+      "UsersEstimate": 4890
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -44484,7 +44489,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58674
+      "UsersEstimate": 58675
     },
     {
       "ID": "TheHermit",
@@ -44492,7 +44497,7 @@
       "Name": "The Hermit",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39116
+      "UsersEstimate": 39117
     },
     {
       "ID": "TheHightPriestess",
@@ -44500,7 +44505,7 @@
       "Name": "The High Priestess",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29337
+      "UsersEstimate": 29338
     },
     {
       "ID": "TheLovers",
@@ -44508,7 +44513,7 @@
       "Name": "The Lovers",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48895
+      "UsersEstimate": 48896
     },
     {
       "ID": "TheStar",
@@ -44532,7 +44537,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39116
+      "UsersEstimate": 39117
     },
     {
       "ID": "TheWorld",
@@ -44564,7 +44569,7 @@
       "Name": "True Soldier",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 39116
+      "UsersEstimate": 39117
     },
     {
       "ID": "TrueWarrior",
@@ -44572,7 +44577,7 @@
       "Name": "True Warrior",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 29337
+      "UsersEstimate": 29338
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -44596,7 +44601,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117347
+      "UsersEstimate": 117350
     },
     {
       "ID": "YipMan",
@@ -44612,7 +44617,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 29337
+      "UsersEstimate": 29338
     },
     {
       "ID": "All the President\u0027s Men",
@@ -44724,7 +44729,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4261
+      "UsersEstimate": 4262
     },
     {
       "ID": "HydraIsDead",
@@ -44740,7 +44745,7 @@
       "Name": "Arachnophobia",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4261
+      "UsersEstimate": 4262
     },
     {
       "ID": "KingOfTheCups",
@@ -44803,21 +44808,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 977894,
-      "Completed": 2928
+      "Progressed": 977918,
+      "Completed": 2929
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 106517,
+      "Progressed": 106541,
       "Completed": 10404
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-17T16:02:55.1950569+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:05:19.2393281+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:04:25.1242638+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:11.4044836+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:03:11.6810092+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:05:19.2395596+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:02:49.827776+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:04:25.1243959+00:00"
 }

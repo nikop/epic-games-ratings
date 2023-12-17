@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1481,
+  "EOS_Progressed": 1482,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.25,
   "EosHistory": [
@@ -3099,6 +3099,11 @@
       "Time": "2023-12-17T17:10:17.8909905+00:00",
       "NumProgressed": 1481,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-12-17T18:09:14.835266+00:00",
+      "NumProgressed": 1482,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 16,
@@ -3134,7 +3139,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -3158,7 +3163,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -3214,7 +3219,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ACH_THEEND",
@@ -3237,7 +3242,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1481,
+      "Progressed": 1482,
       "Completed": 63
     }
   ],
@@ -3245,8 +3250,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:10:17.8909902+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:09:14.8352656+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:50.4706145+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:00:04.2513198+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:10:17.8910106+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:58:55.5538749+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:09:14.8353094+00:00"
 }

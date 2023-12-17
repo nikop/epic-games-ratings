@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3543,
+  "EOS_Progressed": 3544,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6566,6 +6566,11 @@
       "Time": "2023-12-17T17:06:46.7319501+00:00",
       "NumProgressed": 3543,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T18:05:31.0470974+00:00",
+      "NumProgressed": 3544,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6753,7 +6758,7 @@
       "Name": "Power Outage",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACH_BASE_32",
@@ -6873,7 +6878,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ACH_BASE_49",
@@ -6905,7 +6910,7 @@
       "Name": "Convenient Transport",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACH_BASE_52",
@@ -6929,7 +6934,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACH_BASE_57",
@@ -7032,13 +7037,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1727,
+      "Progressed": 1728,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3543,
+      "Progressed": 3544,
       "Completed": 0
     }
   ],
@@ -7046,8 +7051,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:06:46.7319497+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:05:31.0470969+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:59:30.2484711+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:06:46.7320311+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:58:31.8856139+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:05:31.0471684+00:00"
 }

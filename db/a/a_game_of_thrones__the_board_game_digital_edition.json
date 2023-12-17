@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1344,9 +1344,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 30618,
+  "EOS_Progressed": 30620,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -27179,6 +27179,11 @@
       "Time": "2023-12-17T17:10:13.5357108+00:00",
       "NumProgressed": 30618,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-12-17T18:09:11.6013971+00:00",
+      "NumProgressed": 30620,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 22,
@@ -27262,7 +27267,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2449
+      "UsersEstimate": 2450
     },
     {
       "ID": "1025",
@@ -27294,7 +27299,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5511
+      "UsersEstimate": 5512
     },
     {
       "ID": "1029",
@@ -27302,7 +27307,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2449
+      "UsersEstimate": 2450
     },
     {
       "ID": "1030",
@@ -27318,7 +27323,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3980
+      "UsersEstimate": 3981
     },
     {
       "ID": "1032",
@@ -27326,7 +27331,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12247
+      "UsersEstimate": 12248
     },
     {
       "ID": "1033",
@@ -27350,7 +27355,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3980
+      "UsersEstimate": 3981
     },
     {
       "ID": "1036",
@@ -27358,22 +27363,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2449
+      "UsersEstimate": 2450
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 30618,
+      "Progressed": 30620,
       "Completed": 84
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-16T17:01:32.5385124+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:10:13.5357104+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:09:11.6013968+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:33.5053041+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:02:48.7492055+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:10:13.5358802+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:02:33.2011565+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:09:11.6015102+00:00"
 }

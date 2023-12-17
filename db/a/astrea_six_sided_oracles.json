@@ -4,8 +4,8 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1250,9 +1250,9 @@
       "ID": "StarKiller",
       "SetID": "1jeo1g7",
       "Name": "Star Killer",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "StellarDismantler",
@@ -1354,9 +1354,9 @@
       "ID": "Unbeatable",
       "SetID": "1jeo1g7",
       "Name": "Unbeatable",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "UnepicHero",
@@ -1545,8 +1545,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:08:40.7481235+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:08:03.4275019+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:09.6615872+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:00:57.9293789+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:08:40.7482619+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:59:33.9733433+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:08:03.4275779+00:00"
 }

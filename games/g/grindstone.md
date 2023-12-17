@@ -6,31 +6,31 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,093 |
-| The Journey Begins | 98.00% | ~5,093 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~4,054 |
-| There is No Escape | 71.00% | ~3,690 |
-| Fun, Flirty, and Thirty | 63.00% | ~3,274 |
-| Royal Flush | 62.00% | ~3,222 |
-| Timber! | 61.00% | ~3,170 |
-| Survive the Bombsequences | 59.00% | ~3,066 |
-| Killed 20 Jerks | 54.00% | ~2,806 |
-| Death Defied | 54.00% | ~2,806 |
-| Fortunate Soul | 50.00% | ~2,598 |
-| Jerk-Slayer | 43.00% | ~2,235 |
-| Employee of the Month | 37.00% | ~1,923 |
-| I Believe I Can Fly | 37.00% | ~1,923 |
-| Bone Collector | 35.00% | ~1,819 |
-| Fe-Festival | 35.00% | ~1,819 |
-| Pardon my Slob | 33.00% | ~1,715 |
-| Top of the Food Chain | 32.00% | ~1,663 |
-| Humerus Achievement | 32.00% | ~1,663 |
-| Ghost Facers! | 28.00% | ~1,455 |
-| If It Bleeds, You Can Kill It | 21.00% | ~1,091 |
-| Royal Flush, Again | 19.00% | ~987 |
-| Trying To Get Into That 1%, Huh? | 18.00% | ~935 |
-| Can't Touch This | 18.00% | ~935 |
-| That Was Quick | 17.00% | ~883 |
+| Quinceañera Time | 98.00% | ~5,095 |
+| The Journey Begins | 98.00% | ~5,095 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~4,055 |
+| There is No Escape | 71.00% | ~3,691 |
+| Fun, Flirty, and Thirty | 63.00% | ~3,275 |
+| Royal Flush | 62.00% | ~3,223 |
+| Timber! | 60.00% | ~3,119 |
+| Survive the Bombsequences | 59.00% | ~3,067 |
+| Killed 20 Jerks | 54.00% | ~2,807 |
+| Death Defied | 54.00% | ~2,807 |
+| Fortunate Soul | 50.00% | ~2,600 |
+| Jerk-Slayer | 43.00% | ~2,236 |
+| Employee of the Month | 37.00% | ~1,924 |
+| I Believe I Can Fly | 37.00% | ~1,924 |
+| Bone Collector | 35.00% | ~1,820 |
+| Fe-Festival | 35.00% | ~1,820 |
+| Pardon my Slob | 33.00% | ~1,716 |
+| Top of the Food Chain | 32.00% | ~1,664 |
+| Humerus Achievement | 32.00% | ~1,664 |
+| Ghost Facers! | 28.00% | ~1,456 |
+| If It Bleeds, You Can Kill It | 21.00% | ~1,092 |
+| Royal Flush, Again | 19.00% | ~988 |
+| Trying To Get Into That 1%, Huh? | 18.00% | ~936 |
+| Can't Touch This | 18.00% | ~936 |
+| That Was Quick | 17.00% | ~884 |
 | Yummy! | 16.00% | ~832 |
 | Goldrush Glory Days | 15.00% | ~780 |
 | Best Party Guest | 15.00% | ~780 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.70% | ~36 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,197 (Ranked 195)  
+Progressed: 5,199 (Ranked 195)  
 Completed: 30 (0.58%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 30 (0.58%) (Ranked 199)
 | 2023-12-14 | 5,186 | 30 |
 | 2023-12-15 | 5,191 | 30 |
 | 2023-12-16 | 5,195 | 30 |
-| 2023-12-17 | 5,197 | 30 |
+| 2023-12-17 | 5,199 | 30 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

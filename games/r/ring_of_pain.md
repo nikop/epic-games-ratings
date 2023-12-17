@@ -22,6 +22,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Colorful Corpse | 0.60% | ~1,447 |
 | Goodbye, Frog Friend | 0.60% | ~1,447 |
 | Heartless | 0.60% | ~1,447 |
+| What's Yours Is Mine | 0.60% | ~1,447 |
 | Spine Breaker | 0.60% | ~1,447 |
 | A Donation | 0.60% | ~1,447 |
 | C-C-Combo | 0.60% | ~1,447 |
@@ -35,7 +36,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | I Am Overburdened | 0.50% | ~1,206 |
 | Destroy Your Fears | 0.50% | ~1,206 |
 | The Bestiary | 0.50% | ~1,206 |
-| What's Yours Is Mine | 0.50% | ~1,206 |
 | Shootout | 0.50% | ~1,206 |
 | Stone Touch | 0.50% | ~1,206 |
 | Toxic | 0.50% | ~1,206 |

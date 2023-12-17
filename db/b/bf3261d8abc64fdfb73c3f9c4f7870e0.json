@@ -4,8 +4,8 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 552,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -235,9 +235,9 @@
       "ID": "achievement_berserk",
       "SetID": "bngbnfb",
       "Name": "Berserker",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_blance_is_my_choise",
@@ -443,17 +443,17 @@
       "ID": "achievement_not_energetic",
       "SetID": "bngbnfb",
       "Name": "Not energetic",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_not_risky",
       "SetID": "bngbnfb",
       "Name": "Not a daredevil",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_rush",
@@ -586,8 +586,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:09:20.8767828+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:08:31.8399969+00:00",
   "LastUpdate_AppInfo": "2023-12-13T14:57:06.6138532+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:01:16.0518125+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:09:20.8768123+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:59:46.4152685+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:08:31.8400244+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5197,
+  "EOS_Progressed": 5199,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -968,6 +968,11 @@
       "Time": "2023-12-17T15:06:25.3915628+00:00",
       "NumProgressed": 5197,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-17T18:05:56.5152218+00:00",
+      "NumProgressed": 5199,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -979,7 +984,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1923
+      "UsersEstimate": 1924
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -995,7 +1000,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1923
+      "UsersEstimate": 1924
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -1003,7 +1008,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -1011,7 +1016,7 @@
       "Name": "Trying To Get Into That 1%, Huh?",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "ACHIEVE_50_ECTOPLASM",
@@ -1019,7 +1024,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -1035,7 +1040,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2235
+      "UsersEstimate": 2236
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -1051,7 +1056,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -1081,9 +1086,9 @@
       "ID": "ACHIEVE_50_WOOD",
       "SetID": "b8l3p0g",
       "Name": "Timber!",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3119
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1107,7 +1112,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5093
+      "UsersEstimate": 5095
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1115,7 +1120,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3274
+      "UsersEstimate": 3275
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1123,7 +1128,7 @@
       "Name": "Top of the Food Chain",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "ACHIEVE_DODGE",
@@ -1131,7 +1136,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "ACHIEVE_FELLOWSHIP",
@@ -1155,7 +1160,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2598
+      "UsersEstimate": 2600
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1187,7 +1192,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4054
+      "UsersEstimate": 4055
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1195,7 +1200,7 @@
       "Name": "If It Bleeds, You Can Kill It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_20",
@@ -1203,7 +1208,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2806
+      "UsersEstimate": 2807
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1219,7 +1224,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3222
+      "UsersEstimate": 3223
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1227,7 +1232,7 @@
       "Name": "Royal Flush, Again",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "ACHIEVE_LVL_120_COMPLETE",
@@ -1251,7 +1256,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3066
+      "UsersEstimate": 3067
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1267,7 +1272,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5093
+      "UsersEstimate": 5095
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1275,7 +1280,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -1323,7 +1328,7 @@
       "Name": "Death Defied",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2806
+      "UsersEstimate": 2807
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1339,7 +1344,7 @@
       "Name": "That Was Quick",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "ACHIEVE_ROBINHOOD",
@@ -1355,7 +1360,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1363,22 +1368,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3690
+      "UsersEstimate": 3691
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5197,
+      "Progressed": 5199,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:07:20.3768811+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:05:56.5152216+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:32.3869893+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:01:42.7821544+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:07:20.3769233+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:00:05.5360886+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:05:56.5152542+00:00"
 }

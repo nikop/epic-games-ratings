@@ -2,10 +2,10 @@
   "ID": "9b5a9569674e4d08afe18dc20a697e0e",
   "Name": "Aron\u0027s Adventure: Magic Reborn",
   "ProductSlug": "arons-adventure-1e76cd",
-  "Ranking_EOS_Progress": 421,
+  "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 439,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 440,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -625,9 +625,9 @@
       "ID": "DRESSED",
       "SetID": "40o4f14",
       "Name": "Dressed for success",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GAMBLER",
@@ -665,9 +665,9 @@
       "ID": "HERO",
       "SetID": "40o4f14",
       "Name": "Hero",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KING",
@@ -824,8 +824,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:08:56.6149476+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:08:13.4401746+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:18:55.6989256+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:01:21.5644582+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:08:56.614969+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:59:50.4319143+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:08:13.4402053+00:00"
 }

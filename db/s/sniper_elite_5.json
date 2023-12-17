@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -643,9 +643,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4045,
+  "EOS_Progressed": 4046,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8728,6 +8728,11 @@
       "Time": "2023-12-17T17:09:20.1170218+00:00",
       "NumProgressed": 4045,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-17T18:08:31.317713+00:00",
+      "NumProgressed": 4046,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8747,7 +8752,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -8803,7 +8808,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -8819,7 +8824,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8875,7 +8880,7 @@
       "Name": "Sharpshooter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -8899,7 +8904,7 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -8907,7 +8912,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8931,7 +8936,7 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -9051,7 +9056,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1376
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9113,9 +9118,9 @@
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 647
+      "UsersEstimate": 607
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -9147,7 +9152,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -9306,13 +9311,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3996,
+      "Progressed": 3997,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4045,
+      "Progressed": 4046,
       "Completed": 11
     }
   ],
@@ -9320,8 +9325,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:09:20.1170215+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:08:31.3177125+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:53.9169066+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:58:00.3233083+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:09:20.1170964+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:57:29.9238437+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:08:31.317792+00:00"
 }

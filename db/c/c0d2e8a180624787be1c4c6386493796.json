@@ -4,8 +4,8 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -714,9 +714,9 @@
       "ID": "KR4_ACHIEVEMENT_APEX_PREDATOR",
       "SetID": "caeik3h",
       "Name": "Apex Predator",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "KR4_ACHIEVEMENT_ASRA_MAX",
@@ -858,9 +858,9 @@
       "ID": "KR4_ACHIEVEMENT_FARMER_JOE",
       "SetID": "caeik3h",
       "Name": "Kill Joe Jenkins",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "KR4_ACHIEVEMENT_FEELS_GOOD_TO_BE_BACK",
@@ -1343,8 +1343,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:04:04.367+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:03:28.9435993+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.9365218+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:00:39.5395544+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:04:04.3670791+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:59:21.2249369+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:03:28.9436631+00:00"
 }

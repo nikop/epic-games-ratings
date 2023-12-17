@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -350,9 +350,9 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "ae95dh3",
       "Name": "All That Glitters",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -382,9 +382,9 @@
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "ae95dh3",
       "Name": "Lockdown",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
@@ -517,8 +517,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:05:40.9799953+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:04:40.9873451+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184739+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:59:51.5880399+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:05:40.9800185+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:58:46.9549443+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:04:40.9873695+00:00"
 }

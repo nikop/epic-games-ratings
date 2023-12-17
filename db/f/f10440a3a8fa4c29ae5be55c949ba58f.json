@@ -4,8 +4,8 @@
   "ProductSlug": "tangles-e99298",
   "Ranking_EOS_Progress": 672,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 459,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 462,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-21T14:30:00+00:00",
     "PcReleaseDate": "2023-12-21T14:30:00+00:00",
@@ -57,25 +57,25 @@
       "ID": "CompleteGame",
       "SetID": "ao2gjap",
       "Name": "Final Destination",
-      "Percentage": 50,
+      "Percentage": 75,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Document1",
       "SetID": "ao2gjap",
       "Name": "The Seeker in the Shadows",
-      "Percentage": 25,
+      "Percentage": 75,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "Document2",
       "SetID": "ao2gjap",
       "Name": "Document Discoverer",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Document3",
@@ -113,9 +113,9 @@
       "ID": "Untraceable2",
       "SetID": "ao2gjap",
       "Name": "Untraceable",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -127,8 +127,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:09:38.6378029+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:08:45.2395857+00:00",
   "LastUpdate_AppInfo": "2023-12-10T19:56:58.5544762+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:59:56.3626003+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:09:38.6378087+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:58:49.9830853+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:08:45.2395905+00:00"
 }

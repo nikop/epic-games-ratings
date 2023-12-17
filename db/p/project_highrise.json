@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -1835,9 +1835,9 @@
       "ID": "ach_visitors_1",
       "SetID": "b8gh1fi",
       "Name": "Destination Destiny",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 125
     }
   ],
   "AchievementSets": [
@@ -1852,8 +1852,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-17T17:06:33.8240229+00:00",
+  "LastChanged_Achievements": "2023-12-17T18:05:21.3463569+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.491222+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:57:57.6060831+00:00",
-  "LastUpdate_Achievements": "2023-12-17T17:06:33.8241312+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:57:28.1198047+00:00",
+  "LastUpdate_Achievements": "2023-12-17T18:05:21.3464515+00:00"
 }
