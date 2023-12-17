@@ -5,20 +5,20 @@ Rating: 4.60 (Ranked 423)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 93.00% | ~84 |
-| Map reader | 73.00% | ~66 |
-| Philanthropist | 68.00% | ~61 |
-| Adventurer | 64.00% | ~58 |
-| The brave little tailor | 50.00% | ~45 |
-| Archer | 50.00% | ~45 |
+| Beginner | 93.00% | ~85 |
+| Map reader | 74.00% | ~67 |
+| Philanthropist | 67.00% | ~61 |
+| Adventurer | 65.00% | ~59 |
+| The brave little tailor | 49.00% | ~45 |
+| Archer | 49.00% | ~45 |
 | Field hand | 44.00% | ~40 |
 | Samaritan | 42.00% | ~38 |
 | Well-to-do | 40.00% | ~36 |
-| The merciful one | 39.00% | ~35 |
-| Ladies' man | 38.00% | ~34 |
+| The merciful one | 38.00% | ~35 |
+| Ladies' man | 37.00% | ~34 |
 | Ferocious wild boars | 29.00% | ~26 |
-| Idiot | 28.00% | ~25 |
-| Beast slayer | 26.00% | ~23 |
+| Idiot | 27.00% | ~25 |
+| Beast slayer | 25.00% | ~23 |
 | Family man | 23.00% | ~21 |
 | Death of a legend | 23.00% | ~21 |
 | The fourth triplet | 23.00% | ~21 |
@@ -33,7 +33,7 @@ Rating: 4.60 (Ranked 423)
 | Fence | 19.00% | ~17 |
 | Master detective | 19.00% | ~17 |
 | Peacekeeper | 18.00% | ~16 |
-| Defender | 16.00% | ~14 |
+| Defender | 15.00% | ~14 |
 | Showdown | 14.00% | ~13 |
 | Workaholic | 14.00% | ~13 |
 | Safecracker | 13.00% | ~12 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 423)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 470)  
+Progressed: 91 (Ranked 470)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 75 | 0 |
 | 2023-12-15 | 81 | 0 |
 | 2023-12-16 | 87 | 0 |
-| 2023-12-17 | 90 | 0 |
+| 2023-12-17 | 91 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

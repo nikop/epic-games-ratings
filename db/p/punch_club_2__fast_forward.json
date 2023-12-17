@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1704,9 +1704,9 @@
       "ID": "buy_trainer",
       "SetID": "69co12a",
       "Name": "Your own amateur gym",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 293
     },
     {
       "ID": "carla_journey",
@@ -1856,9 +1856,9 @@
       "ID": "huey_win",
       "SetID": "69co12a",
       "Name": "No bullying more",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 273
     },
     {
       "ID": "intro_dream",
@@ -1928,9 +1928,9 @@
       "ID": "mick_house",
       "SetID": "69co12a",
       "Name": "Spirit of the past",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 252
     },
     {
       "ID": "mike_resurect",
@@ -2072,9 +2072,9 @@
       "ID": "sleep_candy",
       "SetID": "69co12a",
       "Name": "Intriguing candies",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 232
     },
     {
       "ID": "soft_install",
@@ -2159,8 +2159,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:09:25.5001961+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:09:20.2506617+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:32.3459278+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:59:35.7648102+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:09:25.5002546+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:00:18.4536123+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:09:20.2507089+00:00"
 }

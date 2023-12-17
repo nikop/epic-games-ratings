@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -1560,9 +1560,9 @@
       "ID": "12_roll",
       "SetID": "chb1m60",
       "Name": "Let\u0027s roll!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 150
     },
     {
       "ID": "13_bunkrupt",
@@ -1632,9 +1632,9 @@
       "ID": "21_missed",
       "SetID": "chb1m60",
       "Name": "Missed it!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 106
     },
     {
       "ID": "22_ouroboros",
@@ -1792,8 +1792,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-03T05:59:23.5685326+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:04:35.0059884+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:05:08.9229235+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2539038+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:00:38.7958122+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:04:35.0060143+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:01:41.4907966+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:05:08.9229561+00:00"
 }

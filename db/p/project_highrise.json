@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 391,
+  "EOS_Progressed": 392,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1135,6 +1135,11 @@
       "Time": "2023-12-17T20:05:49.629029+00:00",
       "NumProgressed": 391,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T21:06:44.6718071+00:00",
+      "NumProgressed": 392,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1178,7 +1183,7 @@
       "Name": "Floor Galore",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ach_area_1",
@@ -1234,7 +1239,7 @@
       "Name": "Campaign Launch",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ach_campaigns_1",
@@ -1306,7 +1311,7 @@
       "Name": "I\u0027m Busy Ruling",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_consultants_c",
@@ -1354,7 +1359,7 @@
       "Name": "Proper Walls",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ach_drones",
@@ -1448,9 +1453,9 @@
       "ID": "ach_floors",
       "SetID": "b8gh1fi",
       "Name": "Starting Skyward",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 208
     },
     {
       "ID": "ach_floors_1",
@@ -1458,7 +1463,7 @@
       "Name": "Careful Constructor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_floors_2",
@@ -1480,9 +1485,9 @@
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 180
     },
     {
       "ID": "ach_grime_1",
@@ -1498,7 +1503,7 @@
       "Name": "Rehab Expert",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ach_happy",
@@ -1512,9 +1517,9 @@
       "ID": "ach_loan",
       "SetID": "b8gh1fi",
       "Name": "Don\u0027t Feel a Loan",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_mod_1",
@@ -1594,7 +1599,7 @@
       "Name": "Established Fame",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_prestige_3",
@@ -1626,7 +1631,7 @@
       "Name": "Profound Proceeds",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_recycling_1",
@@ -1634,7 +1639,7 @@
       "Name": "Maximum Reuse",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_renters",
@@ -1658,7 +1663,7 @@
       "Name": "Tasty Profits",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ach_restaurants_3",
@@ -1666,7 +1671,7 @@
       "Name": "Dinner Dash",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ach_restaurants_4",
@@ -1794,7 +1799,7 @@
       "Name": "Tuned In",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_util_gas",
@@ -1802,7 +1807,7 @@
       "Name": "It\u0027s a Gas",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_util_phone",
@@ -1849,7 +1854,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 391,
+      "Progressed": 392,
       "Completed": 0
     }
   ],
@@ -1857,8 +1862,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:05:49.6290284+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:06:44.6718067+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.491222+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:57:43.9046091+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:05:49.6291185+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:57:50.9578868+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:06:44.67188+00:00"
 }

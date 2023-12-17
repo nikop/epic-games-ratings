@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 938,
+  "Ranking_Rating": 939,
   "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 149,
@@ -1661,9 +1661,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 17732,
+  "EOS_Progressed": 17740,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1208,
+  "EOS_NewPlayers": 1216,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -10046,6 +10046,11 @@
       "Time": "2023-12-17T20:09:24.759651+00:00",
       "NumProgressed": 17732,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-17T21:09:19.4318841+00:00",
+      "NumProgressed": 17740,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10089,7 +10094,7 @@
       "Name": "Flesh Wound",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2129
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -10151,9 +10156,9 @@
       "ID": "FINISH_NEW_GAME_PLUS",
       "SetID": "6j5ggkc",
       "Name": "Parole Denied",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 40
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -10161,7 +10166,7 @@
       "Name": "Get a Grip",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2129
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -10185,7 +10190,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "KILL_ROBOT",
@@ -10201,7 +10206,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -10217,7 +10222,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -10233,7 +10238,7 @@
       "Name": "Paper Jams",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2129
     },
     {
       "ID": "SHARE_PHOTO",
@@ -10249,7 +10254,7 @@
       "Name": "The Outer Way",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2129
     },
     {
       "ID": "STORY_ESCAPE",
@@ -10257,7 +10262,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "STORY_HABITAT",
@@ -10409,7 +10414,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -10417,7 +10422,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -10432,13 +10437,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 17732,
+      "Progressed": 17740,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 5658,
+      "Progressed": 5666,
       "Completed": 29
     }
   ],
@@ -10446,8 +10451,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-17T19:02:55.5200667+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:09:24.7596505+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:09:19.431884+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:03:08.0398488+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:09:24.7597159+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:03:15.9738247+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:09:19.4319541+00:00"
 }

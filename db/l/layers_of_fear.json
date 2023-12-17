@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1025,9 +1025,9 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "spy_one_item",
@@ -1112,8 +1112,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:06:16.6435541+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:07:18.59788+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:26.5525701+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:00:46.7379987+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:06:16.6435933+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:01:52.2966067+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:07:18.5979123+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -299,9 +299,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2427,
+  "EOS_Progressed": 2428,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6879,6 +6879,11 @@
       "Time": "2023-12-17T20:06:28.8037922+00:00",
       "NumProgressed": 2427,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T21:07:33.6682876+00:00",
+      "NumProgressed": 2428,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -6890,7 +6895,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "A01",
@@ -6938,7 +6943,7 @@
       "Name": "Unstoppable",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "A07",
@@ -6946,7 +6951,7 @@
       "Name": "Track to the Future",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "A08",
@@ -6986,7 +6991,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "A13",
@@ -6994,7 +6999,7 @@
       "Name": "Seven at one stroke",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "A14",
@@ -7002,7 +7007,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1820
+      "UsersEstimate": 1821
     },
     {
       "ID": "A15",
@@ -7082,7 +7087,7 @@
       "Name": "Access granted",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "A25",
@@ -7114,7 +7119,7 @@
       "Name": "We brake for nobody",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "A29",
@@ -7130,7 +7135,7 @@
       "Name": "All mine",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "A31",
@@ -7168,9 +7173,9 @@
       "ID": "A35",
       "SetID": "9b7p7eo",
       "Name": "Traffic Junction",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 510
     },
     {
       "ID": "A36",
@@ -7178,7 +7183,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "A37",
@@ -7186,7 +7191,7 @@
       "Name": "All around the World",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "A38",
@@ -7216,9 +7221,9 @@
       "ID": "A41",
       "SetID": "9b7p7eo",
       "Name": "Right through the middle",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1433
     },
     {
       "ID": "A42",
@@ -7226,7 +7231,7 @@
       "Name": "Bridge Builder",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "A43",
@@ -7274,7 +7279,7 @@
       "Name": "Bull and bear",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "A49",
@@ -7298,7 +7303,7 @@
       "Name": "Call of Duty",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "A52",
@@ -7329,7 +7334,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2427,
+      "Progressed": 2428,
       "Completed": 0
     }
   ],
@@ -7337,8 +7342,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-07T22:58:14.7831098+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:06:28.8037915+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:07:33.6682873+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:12.4572163+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:00:15.0753008+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:06:28.8038577+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:01:10.2417694+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:07:33.6683585+00:00"
 }

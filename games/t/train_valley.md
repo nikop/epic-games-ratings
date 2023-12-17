@@ -19,13 +19,13 @@ Number of Ratings: 28  (23.09.2022)
 | Madness! | 31.00% | ~172 |
 | It's no coincidence. | 30.00% | ~167 |
 | Philatelist | 27.00% | ~150 |
-| Let's roll! | 26.00% | ~145 |
+| Let's roll! | 27.00% | ~150 |
 | Ouroboros | 25.00% | ~139 |
 | Non Stop! | 24.00% | ~133 |
 | Foreman | 21.00% | ~117 |
 | Russia | 20.00% | ~111 |
 | America | 19.00% | ~106 |
-| Missed it! | 18.00% | ~100 |
+| Missed it! | 19.00% | ~106 |
 | Sabotage | 16.00% | ~89 |
 | Achtung! | 12.00% | ~67 |
 | Japan | 11.00% | ~61 |

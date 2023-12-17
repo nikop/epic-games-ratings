@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -1114,9 +1114,9 @@
       "ID": "I feel secure, contained \u0026 protected",
       "SetID": "gl7plp",
       "Name": "I feel secure, contained \u0026 protected",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 39
+      "UsersEstimate": 47
     },
     {
       "ID": "I\u0027m walking here!",
@@ -1250,9 +1250,9 @@
       "ID": "The_Warlord",
       "SetID": "gl7plp",
       "Name": "The Warlord",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 149
+      "UsersEstimate": 157
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -1339,8 +1339,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-09T07:59:55.495838+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:03:58.4757675+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:04:23.3697706+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:41.3639651+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:00:14.7779244+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:03:58.4758006+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:01:09.7339075+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:04:23.3698018+00:00"
 }

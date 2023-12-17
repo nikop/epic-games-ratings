@@ -4,8 +4,8 @@
   "ProductSlug": "openseason-75e993",
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 538,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 539,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2024-01-05T17:00:00+00:00",
     "PcReleaseDate": "2024-01-05T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-17T15:56:55.6120432+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:57:31.815466+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:05:07.5836234+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:57:35.3585522+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:05:51.1942788+00:00"
 }

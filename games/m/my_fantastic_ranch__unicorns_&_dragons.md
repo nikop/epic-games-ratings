@@ -18,11 +18,11 @@
 | Landscaper | 8.00% | ~3 |
 | Dream Big | 8.00% | ~3 |
 | Diamonds in the Rough | 5.00% | ~2 |
+| Neverending Story | 5.00% | ~2 |
 | Kindred Spirits | 5.00% | ~2 |
 | Protected Nature Reserve | 3.00% | ~1 |
 | Paving the Way | 3.00% | ~1 |
 | Fully Booked! | 3.00% | ~1 |
-| Neverending Story | 3.00% | ~1 |
 | Kingdom Champions | 0.00% | ~0 |
 | Dream Team | 0.00% | ~0 |
 | S is for Sensational | 0.00% | ~0 |

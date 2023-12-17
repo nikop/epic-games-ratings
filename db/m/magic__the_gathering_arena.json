@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 17,
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 538,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 539,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -15206,24 +15206,30 @@
       "Rating": 4.46,
       "NumberOfAwards": 99393,
       "NumberOfAwardsMax": 12687
+    },
+    {
+      "Time": "2023-12-17T21:01:09.5514044+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 99420,
+      "NumberOfAwardsMax": 12694
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 99393,
-  "NumberOfAwardsMax": 12687,
+  "NumberOfAwards": 99420,
+  "NumberOfAwardsMax": 12694,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 12687
+      "Count": 12694
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 10484
+      "Count": 10494
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -15247,7 +15253,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 9939
+      "Count": 9949
     },
     {
       "Text": "This game is Highly Recommended",
@@ -15291,8 +15297,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-12-17T14:59:52.1530771+00:00",
+  "LastChanged": "2023-12-17T21:01:09.5514042+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:12.3284096+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:00:14.641829+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:04:23.8087247+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:01:09.5514048+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:04:54.946798+00:00"
 }

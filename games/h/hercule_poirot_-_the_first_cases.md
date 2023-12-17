@@ -12,11 +12,11 @@ Rating: 4.35 (Ranked 800)
 | Little Grey Cells | 69.00% | ~317 |
 | The Bracelet | 66.00% | ~303 |
 | The Blackmail | 55.00% | ~252 |
+| Major Felix Hagen | 55.00% | ~252 |
 | Fine-toothed Comb | 54.00% | ~248 |
 | Florette Duval | 54.00% | ~248 |
-| Major Felix Hagen | 54.00% | ~248 |
 | Order and Method | 52.00% | ~239 |
-| The Altercation | 49.00% | ~225 |
+| The Altercation | 50.00% | ~230 |
 | Truth from Within | 48.00% | ~220 |
 | The Major | 47.00% | ~216 |
 | Comtesse Margaux de Vos | 45.00% | ~207 |
@@ -50,7 +50,7 @@ Rating: 4.35 (Ranked 800)
 | Probably the Greatest Detective in the World | 12.00% | ~55 |
 | Take a Break | 11.00% | ~50 |
 | Room with a View | 7.00% | ~32 |
-| Work-life Balance | 2.00% | ~9 |
+| Work-life Balance | 3.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 459 (Ranked 332)  
 Completed: 6 (1.31%) (Ranked 150)  

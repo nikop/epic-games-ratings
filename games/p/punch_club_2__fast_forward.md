@@ -14,23 +14,23 @@
 | Old movies enjoyer | 77.00% | ~313 |
 | Neurotrainer – power gainer! | 77.00% | ~313 |
 | Employee of the week | 76.00% | ~309 |
-| Your own amateur gym | 71.00% | ~289 |
+| Your own amateur gym | 72.00% | ~293 |
 | First defeat | 71.00% | ~289 |
 | Run K, run! | 71.00% | ~289 |
 | Hello, world! | 68.00% | ~277 |
+| No bullying more | 67.00% | ~273 |
 | Fighting is cool | 66.00% | ~269 |
-| No bullying more | 66.00% | ~269 |
 | Pal of your father? | 64.00% | ~260 |
-| Spirit of the past | 61.00% | ~248 |
+| Spirit of the past | 62.00% | ~252 |
 | Employee of the month | 61.00% | ~248 |
 | Law student | 58.00% | ~236 |
 | Workout professional | 57.00% | ~232 |
 | Little hacker | 57.00% | ~232 |
+| Intriguing candies | 57.00% | ~232 |
 | Handyman | 56.00% | ~228 |
 | Champion – starter pack | 56.00% | ~228 |
 | It's good to be alive | 56.00% | ~228 |
 | Own four walls | 56.00% | ~228 |
-| Intriguing candies | 56.00% | ~228 |
 | Employee of the year | 56.00% | ~228 |
 | Fight for life | 55.00% | ~224 |
 | Legal courier | 52.00% | ~212 |

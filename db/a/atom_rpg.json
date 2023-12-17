@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1414,
+  "EOS_Progressed": 1416,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3393,6 +3393,11 @@
       "Time": "2023-12-17T20:10:06.682699+00:00",
       "NumProgressed": 1414,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T21:10:11.1656354+00:00",
+      "NumProgressed": 1416,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3460,7 +3465,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1402
     },
     {
       "ID": "EXPERT_1",
@@ -3476,7 +3481,7 @@
       "Name": "Explorer",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "GHOSTBUSTER",
@@ -3524,7 +3529,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "LOVE_GURU_1",
@@ -3556,7 +3561,7 @@
       "Name": "One HIT wonder",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3628,7 +3633,7 @@
       "Name": "Savant",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "SECRET_ROOM",
@@ -3691,15 +3696,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1414,
+      "Progressed": 1416,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:10:06.6826985+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:10:11.1656351+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.4071615+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:00:32.7760372+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:10:06.6827458+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:01:34.131769+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:10:11.1656772+00:00"
 }

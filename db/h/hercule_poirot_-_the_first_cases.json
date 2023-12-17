@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -828,9 +828,9 @@
       "ID": "ACH_026",
       "SetID": "72imik0",
       "Name": "Work-life Balance",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_027",
@@ -860,9 +860,9 @@
       "ID": "ACH_03",
       "SetID": "72imik0",
       "Name": "The Altercation",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 225
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_030",
@@ -980,9 +980,9 @@
       "ID": "ACH_043",
       "SetID": "72imik0",
       "Name": "Major Felix Hagen",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 248
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_044",
@@ -1061,8 +1061,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:05:47.9542026+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:06:42.4879383+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:51.2766096+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:02:57.1509731+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:05:47.9542322+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:03:01.5098911+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:06:42.4879731+00:00"
 }

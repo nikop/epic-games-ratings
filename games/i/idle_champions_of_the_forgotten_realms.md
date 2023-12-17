@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sigil | 0.70% | ~1,454 |
+| Welcome to Sigil | 0.70% | ~1,455 |
 | A Brief Tour of the Realms | 0.50% | ~1,208 |
 | Fast Food | 0.50% | ~1,039 |
 | Misaligned in Sigil | 0.30% | ~623 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Arcane Suppression | 0.10% | ~208 |
 | Welcome to the Vrocks | 0.10% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,500 (Ranked 65)  
+Progressed: 241,518 (Ranked 65)  
 Completed: 2,538 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -794,7 +794,7 @@ Completed: 2,538 (1.05%) (Ranked 168)
 | 2023-12-14 | 240,414 | 2,526 |
 | 2023-12-15 | 240,802 | 2,532 |
 | 2023-12-16 | 241,195 | 2,536 |
-| 2023-12-17 | 241,500 | 2,538 |
+| 2023-12-17 | 241,518 | 2,538 |
 ## Awards
 Max (Great for Beginners): 5,658  (Ranked 70)  
 Sum: 32,935 (Ranked 41)  

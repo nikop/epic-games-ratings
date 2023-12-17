@@ -1467,9 +1467,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 24463,
+  "EOS_Progressed": 24464,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -27432,6 +27432,11 @@
       "Time": "2023-12-17T20:03:53.2343625+00:00",
       "NumProgressed": 24463,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-12-17T21:04:16.5025371+00:00",
+      "NumProgressed": 24464,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 45,
@@ -27483,7 +27488,7 @@
       "Name": "Dead in the air",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3669
+      "UsersEstimate": 3670
     },
     {
       "ID": "EveryoneNeedsAHobby",
@@ -27507,7 +27512,7 @@
       "Name": "Finish line",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 6360
+      "UsersEstimate": 6361
     },
     {
       "ID": "GRProjectComplete",
@@ -27539,7 +27544,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 10519
+      "UsersEstimate": 10520
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -27579,7 +27584,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 18592
+      "UsersEstimate": 18593
     },
     {
       "ID": "MoreThanHuman",
@@ -27659,7 +27664,7 @@
       "Name": "R is for Running",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 3669
+      "UsersEstimate": 3670
     },
     {
       "ID": "RunningOutOfBreath",
@@ -27667,7 +27672,7 @@
       "Name": "Running out of breath",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 12965
+      "UsersEstimate": 12966
     },
     {
       "ID": "RunningWild",
@@ -27675,7 +27680,7 @@
       "Name": "Running Wild",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6360
+      "UsersEstimate": 6361
     },
     {
       "ID": "Scrapped",
@@ -27715,7 +27720,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 14922
+      "UsersEstimate": 14923
     },
     {
       "ID": "SwordToAGunfight",
@@ -27723,7 +27728,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 7094
+      "UsersEstimate": 7095
     },
     {
       "ID": "TripleA",
@@ -27755,7 +27760,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 7094
+      "UsersEstimate": 7095
     },
     {
       "ID": "Wallrunner",
@@ -27763,7 +27768,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 12965
+      "UsersEstimate": 12966
     },
     {
       "ID": "WaveOfMutilation",
@@ -27779,7 +27784,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 9785
+      "UsersEstimate": 9786
     },
     {
       "ID": "WhereHeStood",
@@ -27795,28 +27800,28 @@
       "Name": "Why not both",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 7094
+      "UsersEstimate": 7095
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 24463,
+      "Progressed": 24464,
       "Completed": 65
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 24463,
+      "Progressed": 24464,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-12-17T16:58:19.716703+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:03:53.2343621+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:04:16.5025367+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.3617776+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:58:00.6786644+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:03:53.2344882+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:58:11.715517+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:04:16.5026626+00:00"
 }

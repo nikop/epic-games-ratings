@@ -78,6 +78,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Combined Arms | 0.10% | ~478 |
 | Consulate of the Sea | 0.10% | ~478 |
 | Copium Wars | 0.10% | ~478 |
+| Core-fu | 0.10% | ~478 |
 | Cotton Kandy | 0.10% | ~478 |
 | Cowardly Tactics | 0.10% | ~478 |
 | Czechs and Balances | 0.10% | ~478 |
@@ -135,6 +136,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | In the Name of the Father | 0.10% | ~478 |
 | An Industrial Evolution | 0.10% | ~478 |
 | Industrial Powerhouse | 0.10% | ~478 |
+| Inner Turmoil | 0.10% | ~478 |
 | Isn't this the way to India? | 0.10% | ~478 |
 | Italian Ambition | 0.10% | ~478 |
 | It's all about luck | 0.10% | ~478 |
@@ -191,6 +193,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Faith | 0.10% | ~478 |
 | One Family to Rule them All | 0.10% | ~478 |
 | One King to Rule! | 0.10% | ~478 |
+| One nation to rule them all | 0.10% | ~478 |
 | One Night in Paris | 0.10% | ~478 |
 | Over a Thousand! | 0.10% | ~478 |
 | Parisian Pasha | 0.10% | ~478 |
@@ -226,6 +229,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Spanish Fly | 0.10% | ~478 |
 | Spice Girls | 0.10% | ~478 |
 | The Spice Must Flow | 0.10% | ~478 |
+| Stiff Upper Lippe | 0.10% | ~478 |
 | Strait Talk | 0.10% | ~478 |
 | Subsidize my Love | 0.10% | ~478 |
 | The Sudanese Expedition | 0.10% | ~478 |
@@ -302,7 +306,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Around the World in 80 Years | 0.00% | ~0 |
 | Barbarossa | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
-| Core-fu | 0.00% | ~0 |
 | Crossing the Finnish Line | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
@@ -320,7 +323,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Hoarder | 0.00% | ~0 |
 | Holy Horder | 0.00% | ~0 |
 | Ideas Guy | 0.00% | ~0 |
-| Inner Turmoil | 0.00% | ~0 |
 | The Iron Price | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
@@ -333,7 +335,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | New, New Deli | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
 | On the Edge of Madness | 0.00% | ~0 |
-| One nation to rule them all | 0.00% | ~0 |
 | Østindisk Kompagni Te | 0.00% | ~0 |
 | Pandya Empire | 0.00% | ~0 |
 | Philippine Tiger | 0.00% | ~0 |
@@ -347,7 +348,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Spaghetti Western | 0.00% | ~0 |
 | Stardust Crusaders | 0.00% | ~0 |
 | Stern des Südens | 0.00% | ~0 |
-| Stiff Upper Lippe | 0.00% | ~0 |
 | The Sun Never Sets on the Indian Empire | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
 | Tatarstan | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478,020 (Ranked 40)  
+Progressed: 478,068 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -611,7 +611,7 @@ Completed: 1 (0.00%) (Ranked 380)
 | 2023-12-14 | 474,899 | 1 |
 | 2023-12-15 | 475,873 | 1 |
 | 2023-12-16 | 477,098 | 1 |
-| 2023-12-17 | 478,020 | 1 |
+| 2023-12-17 | 478,068 | 1 |
 ## Awards
 Max (Educational): 7,422  (Ranked 54)  
 Sum: 61,252 (Ranked 24)  

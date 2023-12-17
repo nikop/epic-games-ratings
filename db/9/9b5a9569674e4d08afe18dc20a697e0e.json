@@ -2,10 +2,10 @@
   "ID": "9b5a9569674e4d08afe18dc20a697e0e",
   "Name": "Aron\u0027s Adventure: Magic Reborn",
   "ProductSlug": "arons-adventure-1e76cd",
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -574,9 +574,9 @@
       "ID": "ADVENTURE",
       "SetID": "40o4f14",
       "Name": "Adventure awaits",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 100,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "BARON",
@@ -734,9 +734,9 @@
       "ID": "MOIST",
       "SetID": "40o4f14",
       "Name": "Moist",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "MOUNTAINEER",
@@ -829,8 +829,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:08:47.4662042+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:08:33.5612882+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:18:55.6989256+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:00:27.7968197+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:08:47.4662319+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:01:26.5625498+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:08:33.5613096+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "a0e5651da05447508a6cfe91e883af3a",
   "Name": "Dark Table CCG",
   "ProductSlug": "dark-table-ccg-abe8b6",
-  "Ranking_EOS_Progress": 381,
+  "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-18T02:00:00+00:00",
     "PcReleaseDate": "2023-11-18T02:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 266,
+  "EOS_Progressed": 267,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -924,6 +924,11 @@
       "Time": "2023-12-17T20:09:51.9497794+00:00",
       "NumProgressed": 266,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T21:09:52.5239522+00:00",
+      "NumProgressed": 267,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-03T19:09:22.7139112+00:00",
@@ -1040,7 +1045,7 @@
       "Name": "First Login",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "Losses_100",
@@ -1070,7 +1075,7 @@
       "ID": "Wins_10",
       "SetID": "2bonhb9",
       "Name": "10 Wins",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1151,14 +1156,14 @@
     {
       "ID": "2bonhb9",
       "IsBase": true,
-      "Progressed": 266,
+      "Progressed": 267,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-18T15:00:14.9921948+00:00",
   "FirstSeenAchievements": "2023-08-03T14:01:50.784469+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:09:51.9497789+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:09:52.5239517+00:00",
   "LastUpdate_AppInfo": "2023-12-15T01:45:31.7260818+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:57:55.6323464+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:09:51.949799+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:58:05.5132925+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:09:52.5239697+00:00"
 }

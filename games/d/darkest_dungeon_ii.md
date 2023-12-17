@@ -6,28 +6,28 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 7.00% | ~208 |
-| This guy... again? | 4.00% | ~119 |
-| Lost and Found | 4.00% | ~119 |
-| This Belongs in a Museum | 3.00% | ~3,843 |
-| Overdue Notice | 3.00% | ~3,843 |
-| Escape from the Black Hole | 3.00% | ~3,843 |
-| Autodidact | 3.00% | ~3,843 |
-| Bloody Graduation | 3.00% | ~89 |
-| Don't Make Me Turn This Coach Around | 2.00% | ~2,562 |
-| Serenity Now! | 2.00% | ~2,562 |
-| It Rings a Bell | 2.00% | ~2,562 |
-| Not Today! | 2.00% | ~2,562 |
-| Creep and Sleep | 2.00% | ~2,562 |
-| Meat and Greet | 2.00% | ~2,562 |
-| Catch and Decease | 2.00% | ~2,562 |
-| It Happens | 2.00% | ~2,562 |
-| Rush Hour | 2.00% | ~2,562 |
-| To Grandmother's House | 2.00% | ~2,562 |
-| A Place to Lay Your Head | 2.00% | ~2,562 |
-| FNG | 2.00% | ~2,562 |
-| Nope | 2.00% | ~2,562 |
-| Ploughshares to Swords | 2.00% | ~60 |
+| Malpractice Assurance | 7.00% | ~210 |
+| This guy... again? | 4.00% | ~120 |
+| Lost and Found | 4.00% | ~120 |
+| This Belongs in a Museum | 3.00% | ~3,844 |
+| Overdue Notice | 3.00% | ~3,844 |
+| Escape from the Black Hole | 3.00% | ~3,844 |
+| Autodidact | 3.00% | ~3,844 |
+| Ploughshares to Swords | 3.00% | ~90 |
+| Bloody Graduation | 3.00% | ~90 |
+| Don't Make Me Turn This Coach Around | 2.00% | ~2,563 |
+| Serenity Now! | 2.00% | ~2,563 |
+| It Rings a Bell | 2.00% | ~2,563 |
+| Not Today! | 2.00% | ~2,563 |
+| Creep and Sleep | 2.00% | ~2,563 |
+| Meat and Greet | 2.00% | ~2,563 |
+| Catch and Decease | 2.00% | ~2,563 |
+| It Happens | 2.00% | ~2,563 |
+| Rush Hour | 2.00% | ~2,563 |
+| To Grandmother's House | 2.00% | ~2,563 |
+| A Place to Lay Your Head | 2.00% | ~2,563 |
+| FNG | 2.00% | ~2,563 |
+| Nope | 2.00% | ~2,563 |
 | Friends 'Til the End | 2.00% | ~60 |
 | Resurrection | 1.00% | ~1,281 |
 | Unleash Hell | 1.00% | ~1,281 |
@@ -49,10 +49,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 1.00% | ~1,281 |
 | Whale | 1.00% | ~1,281 |
 | Worldly Traveller | 1.00% | ~1,281 |
+| Utopia | 1.00% | ~1,281 |
 | Unshackled | 1.00% | ~1,281 |
 | Road Trip | 1.00% | ~1,281 |
 | When You Want Something Done Right | 0.90% | ~1,153 |
-| Utopia | 0.90% | ~1,153 |
 | Hope Rekindled | 0.80% | ~1,025 |
 | Ichthyophobic | 0.70% | ~897 |
 | No More Mouths to Feed | 0.70% | ~897 |
@@ -64,7 +64,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Handled | 0.50% | ~641 |
 | Body of Work | 0.50% | ~641 |
 | Et Tu, Riposte? | 0.50% | ~15 |
-| Shrine of Reflection | 0.40% | ~512 |
+| Shrine of Reflection | 0.40% | ~513 |
 | Clearing the Ledger | 0.30% | ~384 |
 | Bacon Bits | 0.30% | ~384 |
 | Hat Trick | 0.30% | ~384 |
@@ -72,6 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Maître De La Lame | 0.30% | ~9 |
 | A Life Well Lived | 0.20% | ~256 |
 | The World As It Was | 0.20% | ~256 |
+| Tears in the Rain | 0.20% | ~256 |
 | Eidetic | 0.20% | ~256 |
 | Battle Hardened | 0.20% | ~6 |
 | No Mercy | 0.20% | ~6 |
@@ -80,13 +81,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Circle of Life | 0.10% | ~128 |
 | No Gravestone Left Unturned | 0.10% | ~128 |
 | 20,000 Leagues Above the Sea | 0.10% | ~128 |
-| Tears in the Rain | 0.10% | ~128 |
 | The Clash | 0.10% | ~128 |
 | Grand Slam | 0.10% | ~128 |
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,109 (Ranked 85)  
+Progressed: 128,126 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 3 (0.00%) (Ranked 380)
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
-| 2023-12-17 | 128,109 | 3 |
+| 2023-12-17 | 128,126 | 3 |
 ## Awards
 Max (Character Customization): 7,763  (Ranked 50)  
 Sum: 20,673 (Ranked 58)  

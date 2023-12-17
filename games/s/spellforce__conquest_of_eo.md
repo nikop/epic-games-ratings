@@ -16,9 +16,9 @@
 | Fly the friendly Sky | 48.00% | ~29 |
 | Necromancer's Apprentice | 45.00% | ~27 |
 | Get out of here! | 45.00% | ~27 |
+| The Circle | 42.00% | ~25 |
 | Alchemist's Apprentice | 42.00% | ~25 |
 | Friend of Lyraine | 42.00% | ~25 |
-| The Circle | 40.00% | ~24 |
 | Redecorating | 33.00% | ~20 |
 | Bad JuJu | 25.00% | ~15 |
 | Friend of Sevenkeeps | 23.00% | ~14 |

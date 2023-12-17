@@ -494,9 +494,9 @@
       "ID": "RED_SLIME_TIME",
       "SetID": "ca3djk0",
       "Name": "Red Slime Time",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 199
+      "UsersEstimate": 202
     },
     {
       "ID": "SAVE_THE_SLIMES",
@@ -543,8 +543,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:09:44.9706257+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:09:43.783735+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:48.5922633+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:02:52.7986999+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:09:44.9706341+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:02:55.5580856+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:09:43.7837421+00:00"
 }

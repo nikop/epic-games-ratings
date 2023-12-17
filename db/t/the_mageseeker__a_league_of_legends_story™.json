@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2830,
+  "EOS_Progressed": 2831,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -4555,6 +4555,11 @@
       "Time": "2023-12-17T20:06:02.2335853+00:00",
       "NumProgressed": 2830,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-17T21:07:00.3285968+00:00",
+      "NumProgressed": 2831,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -4622,7 +4627,7 @@
       "Name": "No more holding back",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -4630,7 +4635,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2688
+      "UsersEstimate": 2689
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -4646,7 +4651,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -4702,7 +4707,7 @@
       "Name": "Old friend",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -4742,7 +4747,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -4750,7 +4755,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2575
+      "UsersEstimate": 2576
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -4782,7 +4787,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -4838,7 +4843,7 @@
       "Name": "Terbisia",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -4870,7 +4875,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1726
+      "UsersEstimate": 1727
     },
     {
       "ID": "STB_PET_HORSE",
@@ -4910,7 +4915,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -4942,7 +4947,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -4989,7 +4994,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2830,
+      "Progressed": 2831,
       "Completed": 16
     }
   ],
@@ -4997,8 +5002,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-17T13:59:07.4077367+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:06:02.2335849+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:07:00.3285962+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:24.9335177+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:58:41.0852022+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:06:02.2336318+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:59:04.511084+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:07:00.3286438+00:00"
 }

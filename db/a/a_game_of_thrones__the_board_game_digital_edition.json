@@ -2,10 +2,10 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 930,
+  "Ranking_Rating": 929,
   "Ranking_Popularity": 340,
   "Ranking_PopularitySum": 284,
-  "Ranking_EOS_Progress": 130,
+  "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 98,
@@ -1344,9 +1344,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 30636,
+  "EOS_Progressed": 30646,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 523,
+  "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -27194,6 +27194,11 @@
       "Time": "2023-12-17T20:09:52.4486116+00:00",
       "NumProgressed": 30636,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-12-17T21:09:53.1499062+00:00",
+      "NumProgressed": 30646,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 22,
@@ -27213,7 +27218,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "1017",
@@ -27221,7 +27226,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "1018",
@@ -27261,7 +27266,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "1023",
@@ -27277,7 +27282,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2451
+      "UsersEstimate": 2452
     },
     {
       "ID": "1025",
@@ -27301,7 +27306,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "1028",
@@ -27309,7 +27314,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5514
+      "UsersEstimate": 5516
     },
     {
       "ID": "1029",
@@ -27317,7 +27322,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2451
+      "UsersEstimate": 2452
     },
     {
       "ID": "1030",
@@ -27325,7 +27330,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6127
+      "UsersEstimate": 6129
     },
     {
       "ID": "1031",
@@ -27333,7 +27338,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "1032",
@@ -27341,7 +27346,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12254
+      "UsersEstimate": 12258
     },
     {
       "ID": "1033",
@@ -27365,7 +27370,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "1036",
@@ -27373,22 +27378,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2451
+      "UsersEstimate": 2452
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 30636,
+      "Progressed": 30646,
       "Completed": 84
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-16T17:01:32.5385124+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:09:52.448611+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:09:53.1499058+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:33.5053041+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:02:42.1132146+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:09:52.448746+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:02:40.4512397+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:09:53.1500339+00:00"
 }

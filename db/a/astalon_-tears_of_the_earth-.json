@@ -2,10 +2,10 @@
   "ID": "5e09944aaced4155ac9463196b5deada",
   "Name": "Astalon -Tears of the Earth-",
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
-  "Ranking_EOS_Progress": 494,
+  "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 462,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 463,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -268,9 +268,9 @@
       "ID": "Complete_Bestiary_50",
       "SetID": "4f0g260",
       "Name": "Beast Hunter",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Complete_Bestiary_80",
@@ -397,8 +397,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:03:46.0375964+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:04:07.458417+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:25.0046132+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:58:27.0868003+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:03:46.0376152+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:58:46.3900612+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:04:07.458438+00:00"
 }

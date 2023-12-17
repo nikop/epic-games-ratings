@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,689 |
-| Basic in Bulk | 8.00% | ~11,689 |
-| Titan's First Steps | 8.00% | ~11,689 |
+| Sponsored by Argon | 8.00% | ~11,690 |
+| Basic in Bulk | 8.00% | ~11,690 |
+| Titan's First Steps | 8.00% | ~11,690 |
 | Tinkle of Coins | 7.00% | ~10,228 |
 | Disintermediation | 6.00% | ~8,767 |
 | Capitalism Ho! | 6.00% | ~8,767 |
@@ -16,28 +16,28 @@ Number of Ratings: 12,664  (23.09.2022)
 | It's Free Real Estate | 5.00% | ~7,306 |
 | Budding Merchant | 5.00% | ~7,306 |
 | Own the Means of Production | 5.00% | ~7,306 |
-| One Easy Payment | 4.00% | ~5,844 |
-| Some Assembly Required | 4.00% | ~5,844 |
-| Pretty Penny | 4.00% | ~5,844 |
-| One-Armed Bandit | 4.00% | ~5,844 |
-| Through Repetition, Perfection | 4.00% | ~5,844 |
-| The Daily Grind | 3.00% | ~4,383 |
-| On the Path to Greatness | 3.00% | ~4,383 |
-| Ascended | 3.00% | ~4,383 |
-| Vanity, Verily | 3.00% | ~4,383 |
-| Bounty Hunters | 3.00% | ~4,383 |
-| Blank Page Syndrome | 3.00% | ~4,383 |
-| Demand for Supplies | 3.00% | ~4,383 |
-| Flooding the Market | 3.00% | ~4,383 |
-| Where it Hurts | 3.00% | ~4,383 |
-| Efficient Floor Space | 3.00% | ~4,383 |
-| Gem Expert | 3.00% | ~4,383 |
-| Gild-Gotten Goods | 3.00% | ~4,383 |
-| Helping Hand | 3.00% | ~4,383 |
-| Accomplished Merchant | 3.00% | ~4,383 |
-| Dungeon Imports | 3.00% | ~4,383 |
-| Did we pack lunch? | 3.00% | ~4,383 |
-| Arcane Industries | 3.00% | ~4,383 |
+| One Easy Payment | 4.00% | ~5,845 |
+| Some Assembly Required | 4.00% | ~5,845 |
+| Pretty Penny | 4.00% | ~5,845 |
+| One-Armed Bandit | 4.00% | ~5,845 |
+| Through Repetition, Perfection | 4.00% | ~5,845 |
+| The Daily Grind | 3.00% | ~4,384 |
+| On the Path to Greatness | 3.00% | ~4,384 |
+| Ascended | 3.00% | ~4,384 |
+| Vanity, Verily | 3.00% | ~4,384 |
+| Bounty Hunters | 3.00% | ~4,384 |
+| Blank Page Syndrome | 3.00% | ~4,384 |
+| Demand for Supplies | 3.00% | ~4,384 |
+| Flooding the Market | 3.00% | ~4,384 |
+| Where it Hurts | 3.00% | ~4,384 |
+| Efficient Floor Space | 3.00% | ~4,384 |
+| Gem Expert | 3.00% | ~4,384 |
+| Gild-Gotten Goods | 3.00% | ~4,384 |
+| Helping Hand | 3.00% | ~4,384 |
+| Accomplished Merchant | 3.00% | ~4,384 |
+| Dungeon Imports | 3.00% | ~4,384 |
+| Did we pack lunch? | 3.00% | ~4,384 |
+| Arcane Industries | 3.00% | ~4,384 |
 | A Notch Above the Rest | 2.00% | ~2,922 |
 | Cream of the Crop | 2.00% | ~2,922 |
 | Top of the World | 2.00% | ~2,922 |
@@ -105,8 +105,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Eternal Crusade | 1.00% | ~1,461 |
 | King's Shadow | 1.00% | ~1,461 |
 | Economy of Scarce | 1.00% | ~1,461 |
+| All or Nothing! | 0.90% | ~1,315 |
 | The Greatest Grind | 0.80% | ~1,169 |
-| All or Nothing! | 0.80% | ~1,169 |
 | Marvels from the World Over | 0.80% | ~1,169 |
 | Bane of Legends | 0.70% | ~1,023 |
 | Anything not Nailed Down | 0.70% | ~1,023 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~584 |
 | Capitalist Camaraderie | 0.20% | ~292 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,111 (Ranked 80)  
+Progressed: 146,120 (Ranked 81)  
 Completed: 322 (0.22%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -360,10 +360,10 @@ Completed: 322 (0.22%) (Ranked 261)
 | 2023-12-14 | 145,474 | 307 |
 | 2023-12-15 | 145,699 | 316 |
 | 2023-12-16 | 145,933 | 319 |
-| 2023-12-17 | 146,111 | 322 |
+| 2023-12-17 | 146,120 | 322 |
 ## Awards
 Max (Great for Beginners): 4,898  (Ranked 75)  
-Sum: 27,756 (Ranked 51)  
+Sum: 27,757 (Ranked 51)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
@@ -371,7 +371,7 @@ Diff (max vs sum): 24
 | This game is Relaxing | 4,062 |
 | This game has Quickly Understood Controls | 4,047 |
 | This game has Diverse Characters | 3,981 |
-| This game is Highly Recommended | 3,799 |
+| This game is Highly Recommended | 3,800 |
 | This game has Easy Combat | 3,748 |
 | This game has Playful Visuals | 3,221 |
 | This game has Inclusive Character Customization | 22 |
@@ -698,4 +698,4 @@ Diff (max vs sum): 24
 | 2023-12-14 | 3.99 | - | 4,892 | 27,726 |
 | 2023-12-15 | 3.99 | - | 4,896 | 27,743 |
 | 2023-12-16 | 3.99 | - | 4,896 | 27,750 |
-| 2023-12-17 | 3.99 | - | 4,898 | 27,756 |
+| 2023-12-17 | 3.99 | - | 4,898 | 27,757 |

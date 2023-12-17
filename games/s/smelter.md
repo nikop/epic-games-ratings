@@ -12,15 +12,15 @@
 | Smeltastic! | 42.00% | ~18 |
 | Locked Away | 37.00% | ~16 |
 | A Little Renovating | 35.00% | ~15 |
-| It's a Sign! | 30.00% | ~13 |
+| It's a Sign! | 33.00% | ~14 |
 | Deflect This! | 28.00% | ~12 |
+| Just Some Improvements | 23.00% | ~10 |
 | My Precious Gems! | 21.00% | ~9 |
-| Just Some Improvements | 21.00% | ~9 |
+| A Little Extra Love | 21.00% | ~9 |
 | An Unexpected Visitor | 21.00% | ~9 |
 | Final Announcement | 21.00% | ~9 |
-| A Little Extra Love | 19.00% | ~8 |
-| A New Strategy | 19.00% | ~8 |
-| A Terrible Way to Go | 19.00% | ~8 |
+| A New Strategy | 21.00% | ~9 |
+| A Terrible Way to Go | 21.00% | ~9 |
 | Isn't It Beautiful? | 16.00% | ~7 |
 | A Generous Leader | 16.00% | ~7 |
 | Dr. Dreinstein III | 14.00% | ~6 |

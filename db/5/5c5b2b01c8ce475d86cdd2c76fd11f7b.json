@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 569,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2016-08-23T05:00:00+00:00",
@@ -183,9 +183,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "7on801h",
       "Name": "Between Technology and the Divine",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -820,8 +820,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:05:09.8931871+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:05:54.0761831+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184844+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:59:15.378091+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:05:09.8932505+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:59:49.4806797+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:05:54.0762487+00:00"
 }

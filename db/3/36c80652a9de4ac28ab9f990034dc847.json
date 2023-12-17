@@ -2,10 +2,10 @@
   "ID": "36c80652a9de4ac28ab9f990034dc847",
   "Name": "Death Crown",
   "ProductSlug": "death-crown-b2f5cd",
-  "Ranking_EOS_Progress": 571,
-  "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 377,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_Progress": 569,
+  "Ranking_EOS_Completed": 94,
+  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-22T23:00:00+00:00",
     "PcReleaseDate": "2019-08-22T23:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25,
+  "EOS_Progressed": 26,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4,
+  "EOS_Completed_Percentage": 3.85,
   "EosHistory": [
     {
       "Time": "2023-08-23T22:02:05.0482653+00:00",
@@ -159,6 +159,11 @@
       "Time": "2023-12-17T05:09:44.202095+00:00",
       "NumProgressed": 25,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T21:09:31.829001+00:00",
+      "NumProgressed": 26,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-23T22:02:05.0482707+00:00",
@@ -169,7 +174,7 @@
       "ID": "All_Bosses",
       "SetID": "cla1dpp",
       "Name": "Till death tear us apart!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -193,7 +198,7 @@
       "ID": "Boss_Blacksmith",
       "SetID": "cla1dpp",
       "Name": "No, this is not a stack of coins!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -209,7 +214,7 @@
       "ID": "Boss_Cube",
       "SetID": "cla1dpp",
       "Name": "I hate geometry so much!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -225,7 +230,7 @@
       "ID": "Boss_Pyramid",
       "SetID": "cla1dpp",
       "Name": "We\u0027ll build a new one!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -241,7 +246,7 @@
       "ID": "Boss_Tower",
       "SetID": "cla1dpp",
       "Name": "My tower is bigger than yours.",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -265,7 +270,7 @@
       "ID": "Full_Upgrade_Cita",
       "SetID": "cla1dpp",
       "Name": "Anything for my princess!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -281,7 +286,7 @@
       "ID": "Pass_Tutorial",
       "SetID": "cla1dpp",
       "Name": "First time here?",
-      "Percentage": 56,
+      "Percentage": 54,
       "XP": 25,
       "UsersEstimate": 14
     },
@@ -329,7 +334,7 @@
       "ID": "Up_Farm",
       "SetID": "cla1dpp",
       "Name": "We need to go deeper!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -337,7 +342,7 @@
       "ID": "Up_Tower",
       "SetID": "cla1dpp",
       "Name": "Prepare Uranus!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 4
     }
@@ -346,14 +351,14 @@
     {
       "ID": "cla1dpp",
       "IsBase": true,
-      "Progressed": 25,
+      "Progressed": 26,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-24T18:58:49.6745587+00:00",
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:09:34.5465537+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:09:31.8290007+00:00",
   "LastUpdate_AppInfo": "2023-12-14T01:44:00.5789104+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:58:36.3940267+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:09:34.5465743+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:58:58.2434047+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:09:31.8290142+00:00"
 }

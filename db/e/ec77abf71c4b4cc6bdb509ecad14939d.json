@@ -4,8 +4,8 @@
   "ProductSlug": "plague-london-1665-203017",
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 538,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 539,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-15T22:57:06.6370092+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:58:07.3098037+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:04:12.0543282+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:58:20.0159094+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:04:40.3712984+00:00"
 }

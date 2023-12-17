@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1641,
+  "EOS_Progressed": 1642,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2523,6 +2523,11 @@
       "Time": "2023-12-17T20:03:52.4346921+00:00",
       "NumProgressed": 1641,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-17T21:04:15.4879788+00:00",
+      "NumProgressed": 1642,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2534,7 +2539,7 @@
       "Name": "Lovebirds",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "10",
@@ -2550,7 +2555,7 @@
       "Name": "Strike!",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "12",
@@ -2598,7 +2603,7 @@
       "Name": "Balding bloot!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "18",
@@ -2686,7 +2691,7 @@
       "Name": "A love supreme",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "3",
@@ -2694,7 +2699,7 @@
       "Name": "Hug therapy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "30",
@@ -2773,15 +2778,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1641,
+      "Progressed": 1642,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:03:52.4346917+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:04:15.4879784+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.3116727+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:57:51.1609804+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:03:52.4347212+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:57:59.7376486+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:04:15.4880065+00:00"
 }

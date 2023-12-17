@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 656,
+  "EOS_Progressed": 657,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
@@ -2220,6 +2220,11 @@
       "Time": "2023-12-17T19:07:54.6939316+00:00",
       "NumProgressed": 656,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-17T21:08:16.4905125+00:00",
+      "NumProgressed": 657,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2264,7 +2269,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_eou5",
@@ -2280,7 +2285,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_eou7",
@@ -2288,7 +2293,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_eou8",
@@ -2320,7 +2325,7 @@
       "Name": "Anti-Gravity",
       "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_xatrix",
@@ -2335,14 +2340,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 656,
+      "Progressed": 657,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:08:33.1820608+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:08:16.4905123+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:57.6157011+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:58:34.6032164+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:08:33.1820796+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:58:55.997723+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:08:16.4905285+00:00"
 }

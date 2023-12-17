@@ -6,9 +6,9 @@
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 255,
-  "Ranking_EOS_Completed": 74,
+  "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -37,11 +37,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1293,
+  "EOS_Progressed": 1294,
   "EOS_Completed": 69,
   "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 15,
-  "EOS_Completed_Percentage": 5.34,
+  "EOS_Completed_Percentage": 5.33,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -4367,6 +4367,11 @@
       "Time": "2023-12-17T20:05:57.3243399+00:00",
       "NumProgressed": 1293,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-17T21:06:54.2205979+00:00",
+      "NumProgressed": 1294,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 25,
@@ -4480,9 +4485,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 220
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -4490,7 +4495,7 @@
       "Name": "True G3M4R",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -4528,9 +4533,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 297
+      "UsersEstimate": 285
     },
     {
       "ID": "PROGRESS_N1",
@@ -4538,7 +4543,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "PROGRESS_N2",
@@ -4562,7 +4567,7 @@
       "Name": "The darkness",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "PROGRESS_N5",
@@ -4577,7 +4582,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1293,
+      "Progressed": 1294,
       "Completed": 69
     }
   ],
@@ -4585,8 +4590,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-17T17:02:33.5506237+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:05:57.3243395+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:06:54.2205976+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:02:32.9922436+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:05:57.3243786+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:01:58.8792306+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:06:54.2206332+00:00"
 }

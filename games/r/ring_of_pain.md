@@ -27,6 +27,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Donation | 0.60% | ~1,447 |
 | C-C-Combo | 0.60% | ~1,447 |
 | Deflection | 0.60% | ~1,447 |
+| Sneaky | 0.60% | ~1,447 |
 | Ambitious Intent | 0.50% | ~1,206 |
 | R.I.P | 0.50% | ~1,206 |
 | Dig Your Own Grave | 0.50% | ~1,206 |
@@ -39,7 +40,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shootout | 0.50% | ~1,206 |
 | Stone Touch | 0.50% | ~1,206 |
 | Toxic | 0.50% | ~1,206 |
-| Sneaky | 0.50% | ~1,206 |
 | Shadow Walker | 0.50% | ~1,206 |
 | Flesh Wound | 0.50% | ~1,206 |
 | Expensive Look | 0.50% | ~13 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,201 (Ranked 66)  
+Progressed: 241,205 (Ranked 66)  
 Completed: 299 (0.12%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -386,7 +386,7 @@ Completed: 299 (0.12%) (Ranked 290)
 | 2023-12-14 | 241,040 | 298 |
 | 2023-12-15 | 241,093 | 299 |
 | 2023-12-16 | 241,163 | 299 |
-| 2023-12-17 | 241,201 | 299 |
+| 2023-12-17 | 241,205 | 299 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,743 (Ranked 87)  

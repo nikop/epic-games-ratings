@@ -9,8 +9,8 @@
 | Monster Hunt | 35.00% | ~25 |
 | Orb Gatherer | 34.00% | ~24 |
 | Space worm! | 34.00% | ~24 |
+| Beast Hunter | 32.00% | ~23 |
 | Loot, loot! | 32.00% | ~23 |
-| Beast Hunter | 31.00% | ~22 |
 | Vanquisher! | 30.00% | ~21 |
 | Orb Collector | 30.00% | ~21 |
 | Twin slayer! | 30.00% | ~21 |
@@ -35,7 +35,7 @@
 | No match for me! | 4.00% | ~3 |
 | True Titan | 4.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71 (Ranked 494)  
+Progressed: 71 (Ranked 495)  
 Completed: 3 (4.23%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -1,12 +1,12 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.19 (Ranked 938)  
+Rating: 4.20 (Ranked 929)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 9.00% | ~641 |
+| Fish Just Got Reel | 9.00% | ~642 |
 | Can you smell what the Rod is Hooking | 7.00% | ~499 |
 | Hey Good Hookin | 7.00% | ~499 |
 | More Fish in the Sea | 7.00% | ~499 |
@@ -27,9 +27,9 @@ Number of Ratings: 281  (23.09.2022)
 | More than a Tourist | 0.40% | ~29 |
 | No Fin left to give | 0.40% | ~29 |
 | Gonna Need a Bigger Boat | 0.40% | ~29 |
-| Live by the Rod, Diez by the Rod! | 0.30% | ~19 |
-| Aguas Claras Conquistador | 0.30% | ~19 |
-| All Good Kings Must Come to an End | 0.30% | ~19 |
+| Live by the Rod, Diez by the Rod! | 0.30% | ~20 |
+| Aguas Claras Conquistador | 0.30% | ~20 |
+| All Good Kings Must Come to an End | 0.30% | ~20 |
 | The Beetles | 0.20% | ~14 |
 | Lake Me up Before You Go Go | 0.20% | ~14 |
 | Big Fish Small Pond | 0.20% | ~14 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,127 (Ranked 186)  
+Progressed: 7,128 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,15 +288,15 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 6,897 | 0 |
 | 2023-12-15 | 6,981 | 0 |
 | 2023-12-16 | 7,057 | 0 |
-| 2023-12-17 | 7,127 | 0 |
+| 2023-12-17 | 7,128 | 0 |
 ## Awards
 Max (Relaxing): 39  (Ranked 467)  
-Sum: 202 (Ranked 404)  
-Diff (max vs sum): 63  
+Sum: 204 (Ranked 402)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 39 |
-| This game is Great for Beginners | 37 |
+| This game is Great for Beginners | 39 |
 | This game is Highly Recommended | 36 |
 | This game has Amazing Storytelling | 35 |
 | This game is Extremely Fun | 31 |
@@ -402,4 +402,4 @@ Diff (max vs sum): 63
 | 2023-12-12 | 4.20 | - | 38 | 200 |
 | 2023-12-13 | 4.20 | - | 38 | 201 |
 | 2023-12-15 | 4.20 | - | 39 | 202 |
-| 2023-12-17 | 4.19 | - | 39 | 202 |
+| 2023-12-17 | 4.20 | - | 39 | 204 |

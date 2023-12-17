@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13383,9 +13383,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 478020,
+  "EOS_Progressed": 478068,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5350,
+  "EOS_NewPlayers": 5366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41143,6 +41143,11 @@
       "Time": "2023-12-17T20:08:20.5492897+00:00",
       "NumProgressed": 478020,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T21:08:00.032022+00:00",
+      "NumProgressed": 478068,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -41712,9 +41717,9 @@
       "ID": "achievement_core_fu",
       "SetID": "8p2n7he",
       "Name": "Core-fu",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 478
     },
     {
       "ID": "achievement_cotton_kandy",
@@ -42328,9 +42333,9 @@
       "ID": "achievement_inner_turmoil",
       "SetID": "8p2n7he",
       "Name": "Inner Turmoil",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 478
     },
     {
       "ID": "achievement_iron_price",
@@ -42880,9 +42885,9 @@
       "ID": "achievement_one_nation_to_rule_them_all",
       "SetID": "8p2n7he",
       "Name": "One nation to rule them all",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 478
     },
     {
       "ID": "achievement_one_night_in_paris",
@@ -43280,9 +43285,9 @@
       "ID": "achievement_stiff_upper_lippe",
       "SetID": "8p2n7he",
       "Name": "Stiff Upper Lippe",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 478
     },
     {
       "ID": "achievement_strait_talk",
@@ -44057,21 +44062,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 478020,
+      "Progressed": 478068,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 478020,
+      "Progressed": 478068,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-17T19:59:43.8472957+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:08:20.5492892+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:08:00.0320213+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.9920534+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:59:43.8472966+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:08:20.5503591+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:00:28.637506+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:08:00.0330609+00:00"
 }

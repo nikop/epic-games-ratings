@@ -4,11 +4,11 @@
   "ProductSlug": "the-settlers",
   "Ranking_Rating": 1047,
   "Ranking_Popularity": 379,
-  "Ranking_PopularitySum": 378,
+  "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 538,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 539,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-02-17T09:00:00+00:00",
     "PcReleaseDate": "2023-02-17T09:00:00+00:00",
@@ -1321,10 +1321,16 @@
       "Rating": 3.82,
       "NumberOfAwards": 277,
       "NumberOfAwardsMax": 95
+    },
+    {
+      "Time": "2023-12-17T21:02:56.1031175+00:00",
+      "Rating": 3.82,
+      "NumberOfAwards": 279,
+      "NumberOfAwardsMax": 95
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 277,
+  "NumberOfAwards": 279,
   "NumberOfAwardsMax": 95,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1338,7 +1344,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 87
+      "Count": 89
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1359,8 +1365,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-17T13:12:44.8398615+00:00",
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
-  "LastChanged": "2023-12-15T08:02:54.8966979+00:00",
+  "LastChanged": "2023-12-17T21:02:56.1031174+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:11.0183846+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:02:53.0521314+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:04:17.0296427+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:02:56.1031178+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:04:46.4993062+00:00"
 }

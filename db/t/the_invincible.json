@@ -2,10 +2,10 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_EOS_Progress": 292,
+  "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 740,
+  "EOS_Progressed": 741,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2000,6 +2000,11 @@
       "Time": "2023-12-17T19:08:53.0178704+00:00",
       "NumProgressed": 740,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T21:09:28.4507602+00:00",
+      "NumProgressed": 741,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -2036,7 +2041,7 @@
       "Name": "Fierce fight",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "AchvBombStop",
@@ -2044,7 +2049,7 @@
       "Name": "Peacemaker",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "AchvBombing",
@@ -2076,7 +2081,7 @@
       "Name": "The Alliance",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "AchvDoom",
@@ -2100,7 +2105,7 @@
       "Name": "Another giant",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "AchvKrautaAlive",
@@ -2188,7 +2193,7 @@
       "Name": "The Camp",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "AchvReachCity",
@@ -2228,7 +2233,7 @@
       "Name": "The End",
       "Percentage": 31,
       "XP": 55,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "AchvUnity",
@@ -2236,21 +2241,21 @@
       "Name": "Beyond divisions",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 740,
+      "Progressed": 741,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:09:31.9106332+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:09:28.4507599+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:57:11.9545005+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:09:31.9106635+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:57:08.7954769+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:09:28.4507807+00:00"
 }

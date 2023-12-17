@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,7 +311,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3547,
+  "EOS_Progressed": 3548,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
@@ -6576,6 +6576,11 @@
       "Time": "2023-12-17T19:05:49.6954013+00:00",
       "NumProgressed": 3547,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T21:06:57.8131223+00:00",
+      "NumProgressed": 3548,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6739,7 +6744,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "ACH_BASE_3",
@@ -6787,7 +6792,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "ACH_BASE_35",
@@ -7042,13 +7047,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1731,
+      "Progressed": 1732,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3547,
+      "Progressed": 3548,
       "Completed": 0
     }
   ],
@@ -7056,8 +7061,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:06:00.1328629+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:06:57.813122+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:58:58.6400592+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:06:00.1329235+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:59:26.8261772+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:06:57.8131826+00:00"
 }

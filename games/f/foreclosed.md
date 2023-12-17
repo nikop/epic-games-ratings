@@ -9,7 +9,7 @@
 | Symbiotic Weapon | 58.00% | ~68 |
 | A.I. Training | 50.00% | ~58 |
 | Sniper | 38.00% | ~44 |
-| The Red Herring | 33.00% | ~39 |
+| The Red Herring | 34.00% | ~40 |
 | Telekinesis | 28.00% | ~33 |
 | Sapper | 23.00% | ~27 |
 | Tough Decision | 21.00% | ~25 |
@@ -29,7 +29,7 @@
 | No Place to Hide | 3.00% | ~4 |
 | A Voice in the Dark | 3.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 446)  
+Progressed: 117 (Ranked 447)  
 Completed: 3 (2.56%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |

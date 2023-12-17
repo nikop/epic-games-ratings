@@ -4,8 +4,8 @@
   "ProductSlug": "wildfire-f4546e",
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 538,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 539,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-10T16:00:00+00:00",
     "PcReleaseDate": "2023-09-10T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-16T08:56:56.9223203+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:57:27.9332517+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:08:29.7611782+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:57:30.1346124+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:08:11.0408895+00:00"
 }

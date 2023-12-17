@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Shard | 82.00% | ~271 |
-| Found the Healer | 34.00% | ~112 |
+| Found the Healer | 35.00% | ~115 |
 | Second Shard | 8.00% | ~26 |
 | Champion of Kalevala | 7.00% | ~23 |
 | Death is Merely a Setback | 7.00% | ~23 |

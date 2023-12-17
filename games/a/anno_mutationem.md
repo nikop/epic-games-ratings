@@ -17,7 +17,7 @@ Rating: 4.54 (Ranked 534)
 | Club Star | 25.00% | ~196 |
 | Fire in the hole! | 20.00% | ~157 |
 | Omnipotence | 20.00% | ~157 |
-| The Warlord | 19.00% | ~149 |
+| The Warlord | 20.00% | ~157 |
 | You are the One | 19.00% | ~149 |
 | Deadly Kombationem | 18.00% | ~141 |
 | The truth is out there | 16.00% | ~126 |
@@ -31,8 +31,8 @@ Rating: 4.54 (Ranked 534)
 | So Fresh and So clean clean | 7.00% | ~55 |
 | Supreme Bartender Ann | 7.00% | ~55 |
 | Clarity of Mind | 6.00% | ~47 |
+| I feel secure, contained & protected | 6.00% | ~47 |
 | Science, it works! | 6.00% | ~47 |
-| I feel secure, contained & protected | 5.00% | ~39 |
 | The Traveler | 5.00% | ~39 |
 | Woman on a (side) mission | 4.00% | ~31 |
 | Ann ULTRA | 3.00% | ~24 |

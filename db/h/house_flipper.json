@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2169,9 +2169,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 21580,
+  "EOS_Progressed": 21584,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11539,6 +11539,11 @@
       "Time": "2023-12-17T20:04:53.7705257+00:00",
       "NumProgressed": 21580,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-17T21:05:33.7865709+00:00",
+      "NumProgressed": 21584,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -11550,7 +11555,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2805
+      "UsersEstimate": 2806
     },
     {
       "ID": "CarMechanic",
@@ -11566,7 +11571,7 @@
       "Name": "Nerd",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "DoItASAP",
@@ -11574,7 +11579,7 @@
       "Name": "Do it ASAP",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "DolanTrusk",
@@ -11582,7 +11587,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3021
+      "UsersEstimate": 3022
     },
     {
       "ID": "EstateAgent",
@@ -11598,7 +11603,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20501
+      "UsersEstimate": 20505
     },
     {
       "ID": "GameOver",
@@ -11614,7 +11619,7 @@
       "Name": "I\u0027m Belieber",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "JackTarinton",
@@ -11638,7 +11643,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2805
+      "UsersEstimate": 2806
     },
     {
       "ID": "KnockKnock",
@@ -11662,7 +11667,7 @@
       "Name": "Just Enough",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4316
+      "UsersEstimate": 4317
     },
     {
       "ID": "Negotiator",
@@ -11686,7 +11691,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4316
+      "UsersEstimate": 4317
     },
     {
       "ID": "SeniorEstateAgent",
@@ -11694,7 +11699,7 @@
       "Name": "Senior Estate Agent",
       "Percentage": 0.6,
       "XP": 150,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "SmothFamily",
@@ -11702,7 +11707,7 @@
       "Name": "Pro-creative",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4100
+      "UsersEstimate": 4101
     },
     {
       "ID": "Strongman",
@@ -11710,7 +11715,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6690
+      "UsersEstimate": 6691
     },
     {
       "ID": "VeronicaLiptson",
@@ -11733,15 +11738,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21580,
+      "Progressed": 21584,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-17T11:57:15.7420284+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:04:53.7705251+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:05:33.7865706+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:12.9668458+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:57:23.2607698+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:04:53.7705864+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:57:23.3927367+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:05:33.7866161+00:00"
 }

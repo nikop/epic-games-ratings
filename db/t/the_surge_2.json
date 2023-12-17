@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2273,
+  "EOS_Progressed": 2274,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3488,6 +3488,11 @@
       "Time": "2023-12-17T20:04:28.4530733+00:00",
       "NumProgressed": 2273,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-17T21:05:00.8993838+00:00",
+      "NumProgressed": 2274,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3507,7 +3512,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "ACHV_03",
@@ -3691,7 +3696,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ACHV_26",
@@ -3699,7 +3704,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "ACHV_27",
@@ -3739,7 +3744,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACHV_32",
@@ -3771,7 +3776,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "ACHV_36",
@@ -3795,15 +3800,15 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACHV_39",
       "SetID": "8p5mlmc",
       "Name": "Don\u0027t I Know You...?",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1750
+      "UsersEstimate": 1728
     },
     {
       "ID": "ACHV_40",
@@ -3819,7 +3824,7 @@
       "Name": "Suited and Booted",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "ACHV_42",
@@ -3835,7 +3840,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACHV_44",
@@ -3954,7 +3959,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2273,
+      "Progressed": 2274,
       "Completed": 13
     }
   ],
@@ -3962,8 +3967,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-17T20:04:28.4530728+00:00",
+  "LastChanged_Achievements": "2023-12-17T21:05:00.8993835+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:57:00.284762+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:58:17.609056+00:00",
-  "LastUpdate_Achievements": "2023-12-17T20:04:28.4531188+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:58:34.0081048+00:00",
+  "LastUpdate_Achievements": "2023-12-17T21:05:00.8994386+00:00"
 }

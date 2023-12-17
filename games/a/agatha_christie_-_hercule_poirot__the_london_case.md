@@ -16,15 +16,15 @@
 | The Missing Magdalene | 50.00% | ~23 |
 | Arthur Hastings | 50.00% | ~23 |
 | Everything matters | 46.00% | ~21 |
-| An expert mediator | 41.00% | ~19 |
-| DI Hardwicke | 41.00% | ~19 |
-| Order and method | 39.00% | ~18 |
-| Betty Allen | 37.00% | ~17 |
-| The Investigation Begins | 37.00% | ~17 |
-| Ms. Camilla B. Culsham | 33.00% | ~15 |
-| Irene Court-Smyth | 33.00% | ~15 |
-| An odd series of events | 30.00% | ~14 |
-| The Apartment | 30.00% | ~14 |
+| An expert mediator | 43.00% | ~20 |
+| DI Hardwicke | 43.00% | ~20 |
+| Order and method | 41.00% | ~19 |
+| Betty Allen | 39.00% | ~18 |
+| The Investigation Begins | 39.00% | ~18 |
+| Ms. Camilla B. Culsham | 35.00% | ~16 |
+| Irene Court-Smyth | 35.00% | ~16 |
+| An odd series of events | 33.00% | ~15 |
+| The Apartment | 33.00% | ~15 |
 | Nathaniel Dryden | 28.00% | ~13 |
 | Well-acquainted | 26.00% | ~12 |
 | Truth from within | 26.00% | ~12 |
