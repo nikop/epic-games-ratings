@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -3331,9 +3331,9 @@
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 895
+      "UsersEstimate": 908
     },
     {
       "ID": "AC03",
@@ -3635,9 +3635,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1069
     },
     {
       "ID": "AC41",
@@ -3692,8 +3692,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-13T22:00:21.7018049+00:00",
-  "LastChanged_Achievements": "2023-12-17T14:04:16.0844926+00:00",
+  "LastChanged_Achievements": "2023-12-17T15:03:34.8859835+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:44.5606116+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:59:32.7844852+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:04:16.0845799+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:58:36.9799409+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:03:34.8860268+00:00"
 }

@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 62.00% | ~453 |
-| The Teleprobe | 49.00% | ~358 |
-| The City | 44.00% | ~321 |
-| The field base | 40.00% | ~292 |
-| Survivors | 34.00% | ~248 |
-| The Condor | 31.00% | ~226 |
-| The End | 31.00% | ~226 |
-| The Alliance | 30.00% | ~219 |
-| The Necroevolution | 25.00% | ~182 |
-| Krauta is alive | 24.00% | ~175 |
-| Peacemaker | 21.00% | ~153 |
+| The Camp | 62.00% | ~455 |
+| The Teleprobe | 49.00% | ~360 |
+| The City | 44.00% | ~323 |
+| The field base | 40.00% | ~294 |
+| Survivors | 34.00% | ~250 |
+| The Condor | 31.00% | ~228 |
+| The End | 31.00% | ~228 |
+| The Alliance | 30.00% | ~220 |
+| The Necroevolution | 25.00% | ~184 |
+| Krauta is alive | 24.00% | ~176 |
+| Peacemaker | 21.00% | ~154 |
 | Volcanologist | 19.00% | ~139 |
-| On her own | 18.00% | ~131 |
-| Evacuation | 16.00% | ~117 |
+| On her own | 18.00% | ~132 |
+| Evacuation | 17.00% | ~125 |
 | Beyond divisions | 16.00% | ~117 |
 | Fierce fight | 15.00% | ~110 |
-| Flying Objects Operator | 14.00% | ~102 |
+| Flying Objects Operator | 14.00% | ~103 |
 | I remember everything! | 12.00% | ~88 |
 | Another giant | 10.00% | ~73 |
 | Violent solution | 9.00% | ~66 |
-| Innate curiosity | 8.00% | ~58 |
-| I leave no man behind | 6.00% | ~44 |
-| Ubiquitous holes | 5.00% | ~36 |
-| The Invincible | 5.00% | ~36 |
-| Strong objection | 5.00% | ~36 |
+| Innate curiosity | 8.00% | ~59 |
+| I leave no man behind | 7.00% | ~51 |
+| Ubiquitous holes | 5.00% | ~37 |
+| The Invincible | 5.00% | ~37 |
+| Strong objection | 5.00% | ~37 |
 | Got lost again | 4.00% | ~29 |
 | I leave no man behind (no exceptions) | 2.00% | ~15 |
 | Convoy list | 0.80% | ~6 |
 | No more mistakes | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730 (Ranked 292)  
+Progressed: 734 (Ranked 292)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,4 +76,4 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 605 | 0 |
 | 2023-12-15 | 653 | 0 |
 | 2023-12-16 | 700 | 0 |
-| 2023-12-17 | 730 | 0 |
+| 2023-12-17 | 734 | 0 |

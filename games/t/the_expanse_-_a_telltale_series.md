@@ -5,20 +5,20 @@ Rating: 4.54 (Ranked 536)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 13.00% | ~2,161 |
-| Bosmang | 9.00% | ~1,496 |
-| Captain Drummer | 9.00% | ~1,496 |
+| Oyedang, Kopengs | 13.00% | ~2,162 |
+| Bosmang | 9.00% | ~1,497 |
+| Captain Drummer | 9.00% | ~1,497 |
+| Celebrations are in Order | 9.00% | ~1,497 |
 | The Pit and the Pirates | 8.00% | ~1,330 |
 | Martian Music | 8.00% | ~1,330 |
 | Drone Dodger | 8.00% | ~1,330 |
-| Celebrations are in Order | 8.00% | ~1,330 |
 | Impossible Objects | 8.00% | ~1,330 |
 | Stogie for Fogey | 7.00% | ~1,164 |
 | Spore Taste | 7.00% | ~1,164 |
-| Safe Cracker | 7.00% | ~180 |
-| Zen Master | 7.00% | ~180 |
-| Madame Undersecretary | 7.00% | ~180 |
-| Call it Even | 6.00% | ~997 |
+| Safe Cracker | 7.00% | ~181 |
+| Zen Master | 7.00% | ~181 |
+| Madame Undersecretary | 7.00% | ~181 |
+| Call it Even | 6.00% | ~998 |
 | Keep Arjun in Check | 6.00% | ~155 |
 | Data Archivist | 5.00% | ~831 |
 | Drug Gifter | 5.00% | ~831 |
@@ -30,18 +30,18 @@ Rating: 4.54 (Ranked 536)
 | Master Negotiator | 4.00% | ~103 |
 | Data Logger | 3.00% | ~499 |
 | Miraculous Maya | 3.00% | ~499 |
-| Data Master | 2.00% | ~332 |
+| Data Master | 2.00% | ~333 |
 | Brother's Reaper | 1.00% | ~166 |
 | No Belter Left Behind | 1.00% | ~166 |
 | Debris Spree | 1.00% | ~166 |
 | Data Recoverer | 1.00% | ~166 |
 | Urshanabi Hoarder | 0.70% | ~116 |
-| Data Miner | 0.40% | ~66 |
-| Grave Robber | 0.40% | ~66 |
+| Data Miner | 0.40% | ~67 |
+| Grave Robber | 0.40% | ~67 |
 | Scavenger Star | 0.20% | ~33 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,624 (Ranked 152)  
+Progressed: 16,628 (Ranked 152)  
 Completed: 43 (0.26%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 43 (0.26%) (Ranked 252)
 | 2023-12-14 | 16,263 | 43 |
 | 2023-12-15 | 16,416 | 43 |
 | 2023-12-16 | 16,565 | 43 |
-| 2023-12-17 | 16,624 | 43 |
+| 2023-12-17 | 16,628 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

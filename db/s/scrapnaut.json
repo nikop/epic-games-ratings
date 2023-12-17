@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1861,9 +1861,9 @@
       "ID": "ACH_CUT_20_TREES",
       "SetID": "7c4cldc",
       "Name": "Lumberjack",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -1909,9 +1909,9 @@
       "ID": "ACH_KILL_50",
       "SetID": "7c4cldc",
       "Name": "Robot Destroyer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 149
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -2006,8 +2006,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-11-17T17:00:24.0955126+00:00",
-  "LastChanged_Achievements": "2023-12-17T14:09:36.7467595+00:00",
+  "LastChanged_Achievements": "2023-12-17T15:08:37.5242628+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.762988+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:57:11.3293446+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:09:36.7467892+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:56:54.4072137+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:08:37.5242888+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 390,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
-  "Ranking_EOS_Progress": 177,
+  "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -225,7 +225,7 @@
   "Tags": [],
   "EOS_Progressed": 8489,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8628,33 +8628,33 @@
       "ID": "CHAPTER_1_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Azoria Beckons",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 59
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "A Thorny Situation",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 76
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Calm Sailing",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 42
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Open the Gate!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -8668,9 +8668,9 @@
       "ID": "CHAPTER_6_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Search for the Hairy Grell",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -8764,9 +8764,9 @@
       "ID": "DISCOVER_SCROLLS_1",
       "SetID": "9eia0f5",
       "Name": "Humble Collector",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -8788,9 +8788,9 @@
       "ID": "DISPATCH_CLOUDS",
       "SetID": "9eia0f5",
       "Name": "Mist Walker",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -8804,17 +8804,17 @@
       "ID": "DISPATCH_THORNS",
       "SetID": "9eia0f5",
       "Name": "Bramble Breaker",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 51
     },
     {
       "ID": "EARN_FLORINS_1",
       "SetID": "9eia0f5",
       "Name": "Higher Tax Bracket",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -8900,9 +8900,9 @@
       "ID": "UPGRADE_ONESKILLMAX",
       "SetID": "9eia0f5",
       "Name": "Skilled",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "DLC1_ACHIEVEMENT_01",
@@ -8987,8 +8987,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-15T16:03:24.8361061+00:00",
-  "LastChanged_Achievements": "2023-12-17T14:10:50.2701967+00:00",
+  "LastChanged_Achievements": "2023-12-17T15:09:34.613784+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:03:35.9708788+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:10:50.2702816+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:03:04.5760234+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:09:34.6138366+00:00"
 }

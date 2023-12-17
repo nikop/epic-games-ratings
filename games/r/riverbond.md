@@ -7,8 +7,8 @@ Number of Ratings: 617  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~373,316 |
-| Now You're Talking | 62.00% | ~330,651 |
-| Steel Yourself | 62.00% | ~330,651 |
+| Now You're Talking | 62.00% | ~330,652 |
+| Steel Yourself | 62.00% | ~330,652 |
 | Window Dressing | 50.00% | ~266,654 |
 | Trigger Happy | 46.00% | ~245,322 |
 | Riverborn | 45.00% | ~239,989 |
@@ -19,7 +19,7 @@ Number of Ratings: 617  (23.09.2022)
 | Hello Darkness | 23.00% | ~122,661 |
 | Wind At Our Backs | 22.00% | ~117,328 |
 | To the Beat | 20.00% | ~106,662 |
-| Sunny Shores | 17.00% | ~90,662 |
+| Sunny Shores | 17.00% | ~90,663 |
 | Sunday Best | 16.00% | ~85,329 |
 | To Victory! | 15.00% | ~79,996 |
 | Two of a Kind | 14.00% | ~74,663 |
@@ -33,12 +33,12 @@ Number of Ratings: 617  (23.09.2022)
 | Under the Radar | 8.00% | ~42,665 |
 | Partner in Crime | 7.00% | ~37,332 |
 | Hard to Hear | 7.00% | ~37,332 |
-| Moving On Up | 6.00% | ~31,998 |
-| Owl Knows Best | 6.00% | ~31,998 |
-| Mind the Moose | 6.00% | ~31,998 |
-| Oh, Romeo! | 6.00% | ~31,998 |
-| Dressed to Kill | 6.00% | ~31,998 |
-| Beast Mode | 6.00% | ~31,998 |
+| Moving On Up | 6.00% | ~31,999 |
+| Owl Knows Best | 6.00% | ~31,999 |
+| Mind the Moose | 6.00% | ~31,999 |
+| Oh, Romeo! | 6.00% | ~31,999 |
+| Dressed to Kill | 6.00% | ~31,999 |
+| Beast Mode | 6.00% | ~31,999 |
 | Noble Intentions | 5.00% | ~26,665 |
 | Rising Star | 5.00% | ~26,665 |
 | Slime Slayer | 5.00% | ~26,665 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,600 |
 | Point Taken | 0.20% | ~1,067 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533,308 (Ranked 35)  
+Progressed: 533,309 (Ranked 35)  
 Completed: 510 (0.10%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 510 (0.10%) (Ranked 298)
 | 2023-12-14 | 533,142 | 509 |
 | 2023-12-15 | 533,198 | 509 |
 | 2023-12-16 | 533,271 | 510 |
-| 2023-12-17 | 533,308 | 510 |
+| 2023-12-17 | 533,309 | 510 |
 ## Awards
 Max (Relaxing): 21  (Ranked 553)  
 Sum: 21 (Ranked 555)  

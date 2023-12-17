@@ -13,7 +13,7 @@
 | Coal's fur | 58.00% | ~130 |
 | Blue's drawing | 53.00% | ~119 |
 | Mysterious footprints | 47.00% | ~105 |
-| Glass shards | 44.00% | ~99 |
+| Glass shards | 45.00% | ~101 |
 | Complicated padlock | 42.00% | ~94 |
 | Big metal ruler | 39.00% | ~87 |
 | Windmill | 39.00% | ~87 |

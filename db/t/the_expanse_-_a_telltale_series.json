@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16624,
+  "EOS_Progressed": 16628,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -14153,6 +14153,11 @@
       "Time": "2023-12-17T14:04:05.9856925+00:00",
       "NumProgressed": 16624,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-17T15:03:27.1300176+00:00",
+      "NumProgressed": 16628,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14173,7 +14178,7 @@
       "Name": "Data Miner",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "11",
@@ -14197,7 +14202,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2161
+      "UsersEstimate": 2162
     },
     {
       "ID": "14",
@@ -14309,7 +14314,7 @@
       "Name": "Call it Even",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "27",
@@ -14317,7 +14322,7 @@
       "Name": "Bosmang",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "28",
@@ -14341,7 +14346,7 @@
       "Name": "Captain Drummer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "30",
@@ -14365,15 +14370,15 @@
       "Name": "Data Master",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "6",
       "SetID": "458bbdk",
       "Name": "Celebrations are in Order",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1497
     },
     {
       "ID": "7",
@@ -14381,7 +14386,7 @@
       "Name": "Grave Robber",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "8",
@@ -14413,7 +14418,7 @@
       "Name": "Safe Cracker",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "33",
@@ -14421,7 +14426,7 @@
       "Name": "Zen Master",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "34",
@@ -14437,20 +14442,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16624,
+      "Progressed": 16628,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2578,
+      "Progressed": 2582,
       "Completed": 917
     }
   ],
@@ -14458,8 +14463,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-16T18:58:26.9677078+00:00",
-  "LastChanged_Achievements": "2023-12-17T14:04:05.9856919+00:00",
+  "LastChanged_Achievements": "2023-12-17T15:03:27.1300173+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:59:40.2568039+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:04:05.9858556+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:58:42.7119142+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:03:27.1302811+00:00"
 }

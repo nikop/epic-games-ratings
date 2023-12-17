@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1028,
+  "EOS_Progressed": 1029,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2637,6 +2637,11 @@
       "Time": "2023-12-17T12:04:10.3777757+00:00",
       "NumProgressed": 1028,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T15:03:39.0643604+00:00",
+      "NumProgressed": 1029,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2647,9 +2652,9 @@
       "ID": "AbAeterno",
       "SetID": "1n308hc",
       "Name": "Ab Aeterno",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 31
     },
     {
       "ID": "AbInitio",
@@ -2689,7 +2694,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "BreakTheLoop",
@@ -2705,7 +2710,7 @@
       "Name": "Bridge Builder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ChasingTheLight",
@@ -2775,9 +2780,9 @@
       "ID": "FloodedValley",
       "SetID": "1n308hc",
       "Name": "Flooded Valley",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 82
     },
     {
       "ID": "GnothiSeauton",
@@ -2991,9 +2996,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 165
     },
     {
       "ID": "TextAdventurer",
@@ -3041,7 +3046,7 @@
       "Name": "The Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "TheThiefOfFire",
@@ -3049,7 +3054,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "TheWordEndures",
@@ -3087,9 +3092,9 @@
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 154
     },
     {
       "ID": "WesternDelta",
@@ -3120,7 +3125,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1028,
+      "Progressed": 1029,
       "Completed": 1
     }
   ],
@@ -3128,8 +3133,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-17T14:04:21.3581785+00:00",
+  "LastChanged_Achievements": "2023-12-17T15:03:39.0643601+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:58:41.4216233+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:04:21.3582432+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:58:00.40599+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:03:39.0644271+00:00"
 }

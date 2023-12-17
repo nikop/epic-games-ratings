@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7615,9 +7615,9 @@
       "Count": 3799
     }
   ],
-  "EOS_Progressed": 146058,
+  "EOS_Progressed": 146065,
   "EOS_Completed": 320,
-  "EOS_NewPlayers": 1457,
+  "EOS_NewPlayers": 1452,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -32815,6 +32815,11 @@
       "Time": "2023-12-17T14:06:59.2621109+00:00",
       "NumProgressed": 146058,
       "NumCompleted": 320
+    },
+    {
+      "Time": "2023-12-17T15:05:47.1249571+00:00",
+      "NumProgressed": 146065,
+      "NumCompleted": 320
     }
   ],
   "TotalAchievements": 112,
@@ -32906,7 +32911,7 @@
       "Name": "One Easy Payment",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5842
+      "UsersEstimate": 5843
     },
     {
       "ID": "bigsale02",
@@ -32930,7 +32935,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5842
+      "UsersEstimate": 5843
     },
     {
       "ID": "blueprint02",
@@ -33090,7 +33095,7 @@
       "Name": "Disintermediation",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8763
+      "UsersEstimate": 8764
     },
     {
       "ID": "craft02",
@@ -33298,7 +33303,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10224
+      "UsersEstimate": 10225
     },
     {
       "ID": "gold02",
@@ -33306,7 +33311,7 @@
       "Name": "Pretty Penny",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5842
+      "UsersEstimate": 5843
     },
     {
       "ID": "gold03",
@@ -33378,7 +33383,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5842
+      "UsersEstimate": 5843
     },
     {
       "ID": "jackslot02",
@@ -33482,7 +33487,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5842
+      "UsersEstimate": 5843
     },
     {
       "ID": "master02",
@@ -33514,7 +33519,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "masterpiece",
@@ -33522,7 +33527,7 @@
       "Name": "All or Nothing!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "polonia_a",
@@ -33602,7 +33607,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8763
+      "UsersEstimate": 8764
     },
     {
       "ID": "sell02",
@@ -33690,7 +33695,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5842
+      "UsersEstimate": 5843
     },
     {
       "ID": "workers02",
@@ -33721,15 +33726,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 146058,
+      "Progressed": 146065,
       "Completed": 320
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-17T09:03:53.9307678+00:00",
-  "LastChanged_Achievements": "2023-12-17T14:06:59.2621105+00:00",
+  "LastChanged_Achievements": "2023-12-17T15:05:47.1249567+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:03:34.0998415+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:06:59.2623006+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:03:03.2224118+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:05:47.1251432+00:00"
 }

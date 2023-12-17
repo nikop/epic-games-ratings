@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 398101,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2758,
+  "EOS_NewPlayers": 2719,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12287,9 +12287,9 @@
       "ID": "ak47_wkills_100",
       "SetID": "413a09o",
       "Name": "Soldier 47",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 398
+      "UsersEstimate": 796
     },
     {
       "ID": "firstKills_1",
@@ -12541,8 +12541,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-12-17T14:06:18.3566884+00:00",
+  "LastChanged_Achievements": "2023-12-17T15:05:09.4592019+00:00",
   "LastUpdate_AppInfo": "2023-12-13T18:57:11.3093741+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:01:52.003574+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:06:18.3567626+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:00:19.8494486+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:05:09.4592811+00:00"
 }

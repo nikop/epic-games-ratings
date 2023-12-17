@@ -18,7 +18,7 @@ Number of Ratings: 48  (23.09.2022)
 | A Girl About the Town | 49.00% | ~366 |
 | First Time Hunting | 48.00% | ~358 |
 | Rune Wall Wreckage | 47.00% | ~351 |
-| ...And Your Tax Money | 45.00% | ~336 |
+| ...And Your Tax Money | 46.00% | ~343 |
 | The Lords of the Snowpeak | 39.00% | ~291 |
 | The Go-To Girl | 36.00% | ~269 |
 | Natural Born Monster-Killer | 36.00% | ~269 |

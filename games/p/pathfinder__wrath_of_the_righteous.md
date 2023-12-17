@@ -6,17 +6,17 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,360 |
-| A Spark | 19.00% | ~2,364 |
-| Burning City | 18.00% | ~2,240 |
-| Defender's Heart | 16.00% | ~1,991 |
-| Mythic Choices | 15.00% | ~1,866 |
-| Banner over the Citadel | 14.00% | ~1,742 |
-| Queen's Gratitude | 12.00% | ~1,493 |
+| Devoured by Darkness | 27.00% | ~3,361 |
+| A Spark | 19.00% | ~2,365 |
+| Burning City | 18.00% | ~2,241 |
+| Defender's Heart | 16.00% | ~1,992 |
+| Mythic Choices | 15.00% | ~1,867 |
+| Banner over the Citadel | 14.00% | ~1,743 |
+| Queen's Gratitude | 12.00% | ~1,494 |
 | Fifth Crusade | 9.00% | ~1,120 |
 | Embrace of the Abyss | 7.00% | ~871 |
-| Path of the Angel | 7.00% | ~871 |
 | Demonic and Divine | 7.00% | ~871 |
+| Path of the Angel | 6.00% | ~747 |
 | Great Upstart | 6.00% | ~747 |
 | All Paths Open | 6.00% | ~747 |
 | Path of the Azata | 5.00% | ~622 |
@@ -43,7 +43,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Aeon | 2.00% | ~249 |
 | Your First Big Enemy | 2.00% | ~249 |
 | Truly Important Deed | 2.00% | ~249 |
-| Stay Underground | 2.00% | ~224 |
+| Stay Underground | 2.00% | ~225 |
 | The Final Threshold | 1.00% | ~124 |
 | Path of the Dragon | 1.00% | ~124 |
 | Path of the Legend | 1.00% | ~124 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,443 (Ranked 167)  
+Progressed: 12,448 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -364,7 +364,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 12,326 | 0 |
 | 2023-12-15 | 12,356 | 0 |
 | 2023-12-16 | 12,405 | 0 |
-| 2023-12-17 | 12,443 | 0 |
+| 2023-12-17 | 12,448 | 0 |
 ## Awards
 Max (Character Customization): 1,761  (Ranked 124)  
 Sum: 7,144 (Ranked 122)  

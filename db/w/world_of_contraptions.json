@@ -4,8 +4,8 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
     "PcReleaseDate": "2022-03-24T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 349,
+  "EOS_Progressed": 350,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1514,6 +1514,11 @@
       "Time": "2023-12-17T10:09:11.0082005+00:00",
       "NumProgressed": 349,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T15:08:38.236248+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1525,7 +1530,7 @@
       "Name": "The first of many",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -1533,7 +1538,7 @@
       "Name": "Easy group",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "GROUP_EASY_GOLD",
@@ -1629,7 +1634,7 @@
       "Name": "Medium group",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GROUP_MEDIUM_GOLD",
@@ -1749,7 +1754,7 @@
       "Name": "First medium level",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "TUTORIAL_FIRST",
@@ -1757,21 +1762,21 @@
       "Name": "Starting to take notes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     }
   ],
   "AchievementSets": [
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 349,
+      "Progressed": 350,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-12-17T14:09:37.6452037+00:00",
+  "LastChanged_Achievements": "2023-12-17T15:08:38.2362477+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.9324538+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:58:28.4757817+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:09:37.64523+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:57:51.0918185+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:08:38.2362719+00:00"
 }

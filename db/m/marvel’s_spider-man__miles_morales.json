@@ -2,13 +2,13 @@
   "ID": "f696430be718494fac1d6542cfb22542",
   "Name": "Marvel\u2019s Spider-Man: Miles Morales",
   "ProductSlug": "marvels-spider-man-miles-morales",
-  "Ranking_Rating": 119,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 115,
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 534,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-11-18T16:00:00+00:00",
     "PcReleaseDate": "2022-11-18T16:00:00+00:00",
@@ -3579,6 +3579,6 @@
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
   "LastChanged": "2023-12-17T10:59:27.1686756+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.451389+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:01:13.10867+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:06:14.8317539+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:59:50.3046889+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:05:06.6788235+00:00"
 }

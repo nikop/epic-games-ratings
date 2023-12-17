@@ -5,53 +5,53 @@ Rating: 4.79 (Ranked 99)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,678 |
-| No more cages! | 91.00% | ~2,565 |
-| Everfrost | 78.00% | ~2,199 |
-| Pentakill | 77.00% | ~2,171 |
-| Dark Forest | 77.00% | ~2,171 |
-| The use of petricite | 74.00% | ~2,086 |
-| You can pet the dog | 61.00% | ~1,720 |
-| Thornbarrow | 40.00% | ~1,128 |
-| Big Helmet Bro | 39.00% | ~1,099 |
-| Clarion Cove | 39.00% | ~1,099 |
-| Past trauma | 37.00% | ~1,043 |
-| Ternmoat Headquarters | 37.00% | ~1,043 |
-| Elemental master | 36.00% | ~1,015 |
-| Cypress Glen Headquarters | 34.00% | ~958 |
-| Petricite Burst | 33.00% | ~930 |
-| Old friend | 31.00% | ~874 |
-| Hijack | 30.00% | ~846 |
-| Devineur | 30.00% | ~846 |
-| Whispers in the Woods I | 28.00% | ~789 |
-| I chose my shackles | 26.00% | ~733 |
-| Ancient power | 26.00% | ~733 |
+| For Demacia | 95.00% | ~2,681 |
+| No more cages! | 91.00% | ~2,568 |
+| Everfrost | 78.00% | ~2,201 |
+| Pentakill | 77.00% | ~2,173 |
+| Dark Forest | 77.00% | ~2,173 |
+| The use of petricite | 74.00% | ~2,088 |
+| You can pet the dog | 61.00% | ~1,721 |
+| Thornbarrow | 40.00% | ~1,129 |
+| Big Helmet Bro | 39.00% | ~1,101 |
+| Clarion Cove | 39.00% | ~1,101 |
+| Past trauma | 37.00% | ~1,044 |
+| Ternmoat Headquarters | 37.00% | ~1,044 |
+| Elemental master | 36.00% | ~1,016 |
+| Cypress Glen Headquarters | 34.00% | ~959 |
+| Petricite Burst | 33.00% | ~931 |
+| Old friend | 31.00% | ~875 |
+| Hijack | 30.00% | ~847 |
+| Devineur | 30.00% | ~847 |
+| Whispers in the Woods I | 27.00% | ~762 |
+| I chose my shackles | 26.00% | ~734 |
+| Ancient power | 26.00% | ~734 |
 | Sacred Woods | 24.00% | ~677 |
-| Little light | 23.00% | ~648 |
-| Capelworth | 23.00% | ~648 |
-| Full equipped | 23.00% | ~648 |
-| Glyndemere | 22.00% | ~620 |
-| Iffighain Headquarters | 22.00% | ~620 |
+| Little light | 23.00% | ~649 |
+| Capelworth | 23.00% | ~649 |
+| Full equipped | 23.00% | ~649 |
+| Glyndemere | 22.00% | ~621 |
+| Iffighain Headquarters | 22.00% | ~621 |
 | Whispers in the Woods II | 19.00% | ~536 |
 | Quickmoore Headquarters | 19.00% | ~536 |
-| No more holding back | 18.00% | ~507 |
-| Terbisia | 18.00% | ~507 |
-| Whispers in the Woods III | 17.00% | ~479 |
-| Friendly fire | 17.00% | ~479 |
-| The Central Headquarters | 17.00% | ~479 |
-| My heart and sword always for Demacia | 16.00% | ~451 |
-| True power | 16.00% | ~451 |
-| Meltridge | 16.00% | ~451 |
-| Cloven Dell Headquarters | 16.00% | ~451 |
+| No more holding back | 18.00% | ~508 |
+| Terbisia | 18.00% | ~508 |
+| Whispers in the Woods III | 17.00% | ~480 |
+| Friendly fire | 17.00% | ~480 |
+| True power | 17.00% | ~480 |
+| The Central Headquarters | 17.00% | ~480 |
+| My heart and sword always for Demacia | 16.00% | ~452 |
+| Meltridge | 16.00% | ~452 |
+| Cloven Dell Headquarters | 16.00% | ~452 |
 | Whispers in the Woods IV | 14.00% | ~395 |
 | I smell fear | 14.00% | ~395 |
-| Embrace the darkness | 13.00% | ~366 |
-| The end of the experiments | 13.00% | ~366 |
-| The Great City of Demacia | 13.00% | ~366 |
-| Truth is a dark mirror | 13.00% | ~366 |
-| Call it 'redistribution of magic | 13.00% | ~366 |
-| Do you trust me? | 12.00% | ~338 |
-| Back to sleep, then... | 12.00% | ~338 |
+| Embrace the darkness | 13.00% | ~367 |
+| The end of the experiments | 13.00% | ~367 |
+| The Great City of Demacia | 13.00% | ~367 |
+| Truth is a dark mirror | 13.00% | ~367 |
+| Call it 'redistribution of magic | 13.00% | ~367 |
+| Do you trust me? | 12.00% | ~339 |
+| Back to sleep, then... | 12.00% | ~339 |
 | Chains master | 11.00% | ~310 |
 | The great mage rebellion starts now | 11.00% | ~310 |
 | You can pet the... horse | 11.00% | ~310 |
@@ -59,7 +59,7 @@ Rating: 4.79 (Ranked 99)
 | Silverwing nest | 2.00% | ~56 |
 | The Unshackled | 1.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,819 (Ranked 218)  
+Progressed: 2,822 (Ranked 218)  
 Completed: 16 (0.57%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 16 (0.57%) (Ranked 201)
 | 2023-12-14 | 2,731 | 16 |
 | 2023-12-15 | 2,774 | 16 |
 | 2023-12-16 | 2,805 | 16 |
-| 2023-12-17 | 2,819 | 16 |
+| 2023-12-17 | 2,822 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

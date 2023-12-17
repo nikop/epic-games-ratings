@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10358,
+  "EOS_Progressed": 10359,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2057,6 +2057,11 @@
       "Time": "2023-12-17T07:05:51.3502158+00:00",
       "NumProgressed": 10358,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-17T15:06:19.8805161+00:00",
+      "NumProgressed": 10359,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 43,
@@ -2100,7 +2105,7 @@
       "Name": "parking lot",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH_BICYCLE",
@@ -2132,7 +2137,7 @@
       "Name": "oktoberfest",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH_COLLECTIBLES_JAPAN",
@@ -2172,7 +2177,7 @@
       "Name": "grocery-getter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 4143
+      "UsersEstimate": 4144
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -2228,7 +2233,7 @@
       "Name": "keep it tidy",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 8079
+      "UsersEstimate": 8080
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -2244,7 +2249,7 @@
       "Name": "in like a lamb, out like a lion",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH_FIVE_HUNDRED_KM",
@@ -2276,7 +2281,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5904
+      "UsersEstimate": 5905
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -2284,7 +2289,7 @@
       "Name": "if in doubt, flat out!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH_MAX_SPEED_LIGHT",
@@ -2292,7 +2297,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9944
+      "UsersEstimate": 9945
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -2411,15 +2416,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10358,
+      "Progressed": 10359,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-12-17T14:07:41.9445118+00:00",
+  "LastChanged_Achievements": "2023-12-17T15:06:19.8805154+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:05.192967+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:58:49.6406518+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:07:41.9445624+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:58:06.3844338+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:06:19.8805513+00:00"
 }

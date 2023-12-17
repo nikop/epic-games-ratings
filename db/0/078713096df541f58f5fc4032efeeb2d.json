@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 535,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 312,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -477,9 +477,9 @@
       "ID": "creepytale3_ach_8",
       "SetID": "7idcjbn",
       "Name": "Save mission",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "creepytale3_ach_9",
@@ -500,8 +500,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-17T14:06:41.2503368+00:00",
+  "LastChanged_Achievements": "2023-12-17T15:05:26.9487412+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.5738942+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:02:57.3684082+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:06:41.2503652+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:02:35.5602957+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:05:26.9487564+00:00"
 }

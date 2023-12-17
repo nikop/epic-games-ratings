@@ -4,8 +4,8 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -251,9 +251,9 @@
       "ID": "ACH_FIRST_STAR_MANAGER",
       "SetID": "1lnhagg",
       "Name": "The First Star",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_FIRST_WIN",
@@ -442,8 +442,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-17T14:06:53.8898128+00:00",
+  "LastChanged_Achievements": "2023-12-17T15:05:41.6399311+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:15.0404929+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:03:12.4957837+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:06:53.8898362+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:02:48.1757853+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:05:41.6399513+00:00"
 }

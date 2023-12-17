@@ -7,15 +7,15 @@
 | Let the Adventure Begin! | 62.00% | ~24 |
 | Spirit of competition | 38.00% | ~15 |
 | Creature Evolution | 36.00% | ~14 |
-| Prized Possession | 33.00% | ~13 |
+| Prized Possession | 36.00% | ~14 |
 | Think Positive | 26.00% | ~10 |
 | Kingdom Party Time | 26.00% | ~10 |
 | Festival Fever | 21.00% | ~8 |
 | Entering New Territory | 18.00% | ~7 |
+| Lecturer | 10.00% | ~4 |
 | Gotta Adopt Them All! | 8.00% | ~3 |
 | Landscaper | 8.00% | ~3 |
 | Just One More Go | 8.00% | ~3 |
-| Lecturer | 8.00% | ~3 |
 | Diamonds in the Rough | 5.00% | ~2 |
 | Dream Big | 5.00% | ~2 |
 | Kindred Spirits | 5.00% | ~2 |
@@ -30,7 +30,7 @@
 | Job Done! | 0.00% | ~0 |
 | Claim to Fame | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39 (Ranked 540)  
+Progressed: 39 (Ranked 541)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 494,
+  "EOS_Progressed": 495,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1707,6 +1707,11 @@
       "Time": "2023-12-17T14:10:43.4721793+00:00",
       "NumProgressed": 494,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T15:09:28.9354388+00:00",
+      "NumProgressed": 495,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1726,7 +1731,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 44,
       "XP": 80,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "completeact3",
@@ -1734,7 +1739,7 @@
       "Name": "On the Road",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "findalltapes",
@@ -1766,15 +1771,15 @@
       "Name": "Freedom",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "scoreminrankrf1",
       "SetID": "40n95i5",
       "Name": "86\u0027s Nightmare",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 40
     },
     {
       "ID": "scoreminrankrf2",
@@ -1782,7 +1787,7 @@
       "Name": "Partners in Crime",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "scoreminrankrh1",
@@ -1790,7 +1795,7 @@
       "Name": "Souvenirs",
       "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "scoreminrankrp1",
@@ -1837,7 +1842,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 494,
+      "Progressed": 495,
       "Completed": 2
     }
   ],
@@ -1845,8 +1850,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-17T14:10:43.4721788+00:00",
+  "LastChanged_Achievements": "2023-12-17T15:09:28.9354385+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.6488501+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:00:04.1604799+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:10:43.4722011+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:59:00.2062823+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:09:28.9354541+00:00"
 }

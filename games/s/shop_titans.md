@@ -9,18 +9,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 8.00% | ~11,685 |
 | Basic in Bulk | 8.00% | ~11,685 |
 | Titan's First Steps | 8.00% | ~11,685 |
-| Tinkle of Coins | 7.00% | ~10,224 |
-| Disintermediation | 6.00% | ~8,763 |
-| Capitalism Ho! | 6.00% | ~8,763 |
+| Tinkle of Coins | 7.00% | ~10,225 |
+| Disintermediation | 6.00% | ~8,764 |
+| Capitalism Ho! | 6.00% | ~8,764 |
 | Another Satisfied Customer | 5.00% | ~7,303 |
 | It's Free Real Estate | 5.00% | ~7,303 |
 | Budding Merchant | 5.00% | ~7,303 |
-| One Easy Payment | 4.00% | ~5,842 |
-| Some Assembly Required | 4.00% | ~5,842 |
-| Pretty Penny | 4.00% | ~5,842 |
-| One-Armed Bandit | 4.00% | ~5,842 |
-| Through Repetition, Perfection | 4.00% | ~5,842 |
-| Own the Means of Production | 4.00% | ~5,842 |
+| One Easy Payment | 4.00% | ~5,843 |
+| Some Assembly Required | 4.00% | ~5,843 |
+| Pretty Penny | 4.00% | ~5,843 |
+| One-Armed Bandit | 4.00% | ~5,843 |
+| Through Repetition, Perfection | 4.00% | ~5,843 |
+| Own the Means of Production | 4.00% | ~5,843 |
 | The Daily Grind | 3.00% | ~4,382 |
 | On the Path to Greatness | 3.00% | ~4,382 |
 | Ascended | 3.00% | ~4,382 |
@@ -105,8 +105,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Eternal Crusade | 1.00% | ~1,461 |
 | King's Shadow | 1.00% | ~1,461 |
 | Economy of Scarce | 1.00% | ~1,461 |
-| The Greatest Grind | 0.80% | ~1,168 |
-| All or Nothing! | 0.80% | ~1,168 |
+| The Greatest Grind | 0.80% | ~1,169 |
+| All or Nothing! | 0.80% | ~1,169 |
 | Bane of Legends | 0.70% | ~1,022 |
 | Anything not Nailed Down | 0.70% | ~1,022 |
 | Marvels from the World Over | 0.70% | ~1,022 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~584 |
 | Capitalist Camaraderie | 0.20% | ~292 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,058 (Ranked 80)  
+Progressed: 146,065 (Ranked 80)  
 Completed: 320 (0.22%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -360,7 +360,7 @@ Completed: 320 (0.22%) (Ranked 260)
 | 2023-12-14 | 145,474 | 307 |
 | 2023-12-15 | 145,699 | 316 |
 | 2023-12-16 | 145,933 | 319 |
-| 2023-12-17 | 146,058 | 320 |
+| 2023-12-17 | 146,065 | 320 |
 ## Awards
 Max (Great for Beginners): 4,898  (Ranked 75)  
 Sum: 27,756 (Ranked 51)  

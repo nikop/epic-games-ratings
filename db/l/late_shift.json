@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 756,
+  "EOS_Progressed": 757,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
@@ -1935,6 +1935,11 @@
       "Time": "2023-12-17T14:09:52.1147201+00:00",
       "NumProgressed": 756,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-17T15:08:49.3743346+00:00",
+      "NumProgressed": 757,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -1946,7 +1951,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1978,7 +1983,7 @@
       "Name": "The Ploy",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ENDING_4",
@@ -2034,7 +2039,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "GOOD_KARMA",
@@ -2050,7 +2055,7 @@
       "Name": "Interrogation",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "OFFICE_CLERK",
@@ -2105,7 +2110,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 756,
+      "Progressed": 757,
       "Completed": 9
     }
   ],
@@ -2113,8 +2118,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-17T14:09:52.1147197+00:00",
+  "LastChanged_Achievements": "2023-12-17T15:08:49.3743343+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.4540531+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:01:52.5768986+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:09:52.1147546+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:00:20.2598811+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:08:49.3743547+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 1062,
+  "Ranking_Rating": 1063,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -3015,9 +3015,9 @@
       "ID": "Achievement_034",
       "SetID": "6b34g18",
       "Name": "Catch and Release",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 114
     },
     {
       "ID": "Achievement_035",
@@ -3296,8 +3296,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-17T07:59:30.0053245+00:00",
-  "LastChanged_Achievements": "2023-12-17T14:08:14.4478502+00:00",
+  "LastChanged_Achievements": "2023-12-17T15:06:44.6871533+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:00:48.3131964+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:08:14.4479225+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:59:32.6113825+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:06:44.6872077+00:00"
 }

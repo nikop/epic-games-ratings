@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1834,
+  "EOS_Progressed": 1836,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5414,6 +5414,11 @@
       "Time": "2023-12-17T14:10:53.186696+00:00",
       "NumProgressed": 1834,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T15:09:37.1494304+00:00",
+      "NumProgressed": 1836,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5458,7 +5463,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_14",
@@ -5498,7 +5503,7 @@
       "Name": "The power of the Force",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_19",
@@ -5522,7 +5527,7 @@
       "Name": "Collector",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_21",
@@ -5570,7 +5575,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_27",
@@ -5650,7 +5655,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1634
     },
     {
       "ID": "achievement_36",
@@ -5666,15 +5671,15 @@
       "Name": "Off to a good start",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "achievement_38",
       "SetID": "271ol84",
       "Name": "Survivor",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_39",
@@ -5698,7 +5703,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "achievement_41",
@@ -5906,7 +5911,7 @@
       "Name": "A cunning warrior",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_8",
@@ -5929,13 +5934,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1834,
+      "Progressed": 1836,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1834,
+      "Progressed": 1836,
       "Completed": 1
     }
   ],
@@ -5943,8 +5948,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-17T14:10:53.1866957+00:00",
+  "LastChanged_Achievements": "2023-12-17T15:09:37.1494302+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:01:03.9842751+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:10:53.1867614+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:59:43.8197593+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:09:37.1495112+00:00"
 }

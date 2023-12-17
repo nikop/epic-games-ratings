@@ -17,9 +17,9 @@ Number of Ratings: 38  (23.09.2022)
 | Digger | 32.00% | ~164 |
 | Electro-Scrap Gatherer | 32.00% | ~164 |
 | Survivor | 31.00% | ~159 |
+| Lumberjack | 30.00% | ~154 |
+| Robot Destroyer | 30.00% | ~154 |
 | Herbalist | 29.00% | ~149 |
-| Lumberjack | 29.00% | ~149 |
-| Robot Destroyer | 29.00% | ~149 |
 | Prepper | 26.00% | ~134 |
 | Electro-Scrap Master | 24.00% | ~123 |
 | Robot Hunter | 21.00% | ~108 |

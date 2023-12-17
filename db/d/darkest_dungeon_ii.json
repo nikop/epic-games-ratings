@@ -9828,9 +9828,9 @@
       "Count": 1018
     }
   ],
-  "EOS_Progressed": 128028,
+  "EOS_Progressed": 128047,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2019,
+  "EOS_NewPlayers": 2032,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35488,6 +35488,11 @@
       "Time": "2023-12-17T14:09:40.8229044+00:00",
       "NumProgressed": 128028,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T15:08:40.5895673+00:00",
+      "NumProgressed": 128047,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36035,7 +36040,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "combat_kill_collector",
@@ -36043,7 +36048,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36075,7 +36080,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -36099,7 +36104,7 @@
       "Name": "Lost and Found",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36130,21 +36135,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128028,
+      "Progressed": 128047,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2897,
+      "Progressed": 2916,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-17T10:57:39.1040645+00:00",
-  "LastChanged_Achievements": "2023-12-17T14:09:40.8229039+00:00",
+  "LastChanged_Achievements": "2023-12-17T15:08:40.5895669+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:58:25.3405358+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:09:40.8231873+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:57:48.1301359+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:08:40.5897677+00:00"
 }

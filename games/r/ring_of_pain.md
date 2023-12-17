@@ -8,7 +8,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | ---- | ---------- | ----- |
 | Matching | 1.00% | ~27 |
 | First Steps | 0.90% | ~2,171 |
-| Uncharted Territory | 0.80% | ~1,929 |
+| Uncharted Territory | 0.80% | ~1,930 |
 | Getting A Glimpse | 0.70% | ~1,688 |
 | Defeat The Dark | 0.70% | ~1,688 |
 | A Quick Escape | 0.70% | ~1,688 |
@@ -33,6 +33,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Walk It Off | 0.50% | ~1,206 |
 | Cold Hearted | 0.50% | ~1,206 |
 | I Am Overburdened | 0.50% | ~1,206 |
+| Destroy Your Fears | 0.50% | ~1,206 |
 | The Bestiary | 0.50% | ~1,206 |
 | What's Yours Is Mine | 0.50% | ~1,206 |
 | Shootout | 0.50% | ~1,206 |
@@ -48,7 +49,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Well Prepared | 0.40% | ~965 |
 | Just Chilling | 0.40% | ~965 |
 | Save Our Souls | 0.40% | ~965 |
-| Destroy Your Fears | 0.40% | ~965 |
 | All Consuming | 0.40% | ~965 |
 | Stop Hitting Yourself | 0.40% | ~965 |
 | Doing Time | 0.40% | ~965 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,186 (Ranked 66)  
+Progressed: 241,189 (Ranked 66)  
 Completed: 299 (0.12%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -386,7 +386,7 @@ Completed: 299 (0.12%) (Ranked 290)
 | 2023-12-14 | 241,040 | 298 |
 | 2023-12-15 | 241,093 | 299 |
 | 2023-12-16 | 241,163 | 299 |
-| 2023-12-17 | 241,186 | 299 |
+| 2023-12-17 | 241,189 | 299 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,743 (Ranked 87)  

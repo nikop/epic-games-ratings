@@ -6,27 +6,27 @@ Number of Ratings: 101  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 85.00% | ~649 |
-| Take-Off | 80.00% | ~610 |
-| Hokey-Pokey | 70.00% | ~534 |
-| Camellos | 56.00% | ~427 |
-| Bad Trip | 45.00% | ~343 |
-| Didn't Miss A Single One | 44.00% | ~336 |
-| Spread | 42.00% | ~320 |
-| That was base | 40.00% | ~305 |
-| Safe Pair of Hands | 36.00% | ~275 |
-| Don't Let Mom Know You're A Druglord | 30.00% | ~229 |
-| Architect of Fortunes | 25.00% | ~191 |
-| Pampered Life | 23.00% | ~175 |
-| Bite the Blow | 22.00% | ~168 |
+| Our Man | 85.00% | ~651 |
+| Take-Off | 80.00% | ~613 |
+| Hokey-Pokey | 70.00% | ~536 |
+| Camellos | 56.00% | ~429 |
+| Bad Trip | 45.00% | ~345 |
+| Didn't Miss A Single One | 44.00% | ~337 |
+| Spread | 42.00% | ~322 |
+| That was base | 40.00% | ~306 |
+| Safe Pair of Hands | 36.00% | ~276 |
+| Don't Let Mom Know You're A Druglord | 30.00% | ~230 |
+| Architect of Fortunes | 25.00% | ~192 |
+| Pampered Life | 23.00% | ~176 |
+| Bite the Blow | 22.00% | ~169 |
 | Spreading Fear | 9.00% | ~69 |
-| Follow the Money | 7.00% | ~53 |
-| I'm Going To Call You Kitty | 7.00% | ~53 |
+| Follow the Money | 7.00% | ~54 |
+| I'm Going To Call You Kitty | 7.00% | ~54 |
 | Operation Odessa | 1.00% | ~8 |
 | Iron Lady | 0.50% | ~4 |
 | Sense Of Style | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 763 (Ranked 289)  
+Progressed: 766 (Ranked 289)  
 Completed: 2 (0.26%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 2 (0.26%) (Ranked 252)
 | 2023-12-14 | 735 | 2 |
 | 2023-12-15 | 746 | 2 |
 | 2023-12-16 | 759 | 2 |
-| 2023-12-17 | 763 | 2 |
+| 2023-12-17 | 766 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

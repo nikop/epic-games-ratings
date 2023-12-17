@@ -24,9 +24,9 @@ Rating: 4.59 (Ranked 442)
 | The Relentless Storm | 46.00% | ~548 |
 | A Tragic Reminder | 45.00% | ~536 |
 | 3000 Year Blackout | 44.00% | ~524 |
+| The Finisher | 43.00% | ~513 |
 | So Close | 42.00% | ~501 |
-| The Finisher | 42.00% | ~501 |
-| You Get Used To It | 41.00% | ~489 |
+| You Get Used To It | 42.00% | ~501 |
 | Family | 40.00% | ~477 |
 | Biggest Snowball Ever | 39.00% | ~465 |
 | Freeze The Ice Witch | 39.00% | ~465 |
@@ -51,7 +51,7 @@ Rating: 4.59 (Ranked 442)
 | Sneaky Notai | 1.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,192 (Ranked 262)  
-Completed: 8 (0.67%) (Ranked 192)  
+Completed: 8 (0.67%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

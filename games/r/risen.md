@@ -49,7 +49,7 @@ Rating: 4.60 (Ranked 423)
 | Fervent swimmer | 5.00% | ~4 |
 | Jester | 5.00% | ~4 |
 | King Midas | 5.00% | ~4 |
-| Big game hunter | 2.00% | ~2 |
+| Big game hunter | 3.00% | ~3 |
 | Mage | 2.00% | ~2 |
 | Sharpshooter | 2.00% | ~2 |
 | Gladiator | 1.00% | ~1 |

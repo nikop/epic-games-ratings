@@ -6,9 +6,9 @@
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 262,
-  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -2929,9 +2929,9 @@
       "ID": "EV_ACH09",
       "SetID": "6jeac23",
       "Name": "You Get Used To It",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 501
     },
     {
       "ID": "EV_ACH10",
@@ -3153,9 +3153,9 @@
       "ID": "EV_ACH37",
       "SetID": "6jeac23",
       "Name": "The Finisher",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 501
+      "UsersEstimate": 513
     },
     {
       "ID": "EV_ACH38",
@@ -3226,8 +3226,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-16T18:58:29.1702148+00:00",
-  "LastChanged_Achievements": "2023-12-17T14:10:51.235367+00:00",
+  "LastChanged_Achievements": "2023-12-17T15:09:35.3539729+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.6283728+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:59:44.0955849+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:10:51.2354345+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:58:45.5826465+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:09:35.3540145+00:00"
 }

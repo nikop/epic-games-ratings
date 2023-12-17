@@ -3479,9 +3479,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18481,
+  "EOS_Progressed": 18494,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 625,
+  "EOS_NewPlayers": 635,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16069,6 +16069,11 @@
       "Time": "2023-12-17T14:06:01.1696744+00:00",
       "NumProgressed": 18481,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-17T15:04:55.8253529+00:00",
+      "NumProgressed": 18494,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16417,7 +16422,7 @@
       "Name": "Taking Action",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "WinWithResolve",
@@ -16457,7 +16462,7 @@
       "Name": "No Deaths",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "WinWithoutOrders",
@@ -16481,7 +16486,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "WinNearFrosts",
@@ -16489,7 +16494,7 @@
       "Name": "Frosts",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "WinNearGreed",
@@ -16497,7 +16502,7 @@
       "Name": "Land of Greed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "WinNearLibrary",
@@ -16505,7 +16510,7 @@
       "Name": "Overgrown Library",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "WinNearPetrified",
@@ -16513,7 +16518,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "WinNearPresence",
@@ -16521,15 +16526,15 @@
       "Name": "Ominous Presence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "WinNearStorms",
       "SetID": "cfbk359",
       "Name": "Gathering Storm",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 740
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -16552,15 +16557,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18481,
+      "Progressed": 18494,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-17T13:58:09.0475523+00:00",
-  "LastChanged_Achievements": "2023-12-17T14:06:01.1696737+00:00",
+  "LastChanged_Achievements": "2023-12-17T15:04:55.8253525+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:58:09.0475529+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:06:01.1697994+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:57:36.9548896+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:04:55.8254331+00:00"
 }

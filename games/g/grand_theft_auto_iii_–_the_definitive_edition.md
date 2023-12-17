@@ -5,21 +5,21 @@ Rating: 4.21 (Ranked 921)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~7,926 |
-| Disposing of the Evidence | 38.00% | ~3,629 |
-| Without a Scratch | 34.00% | ~3,247 |
-| Wreckless Driving | 28.00% | ~2,674 |
-| A Marked Man | 25.00% | ~2,388 |
-| Street Sweeper | 18.00% | ~1,719 |
-| Liberty City Minute | 17.00% | ~1,624 |
-| Offshore Delivery | 13.00% | ~1,242 |
-| Dirty Money | 12.00% | ~1,146 |
-| By a Mile | 10.00% | ~955 |
-| Not So Fast | 10.00% | ~955 |
-| Right-hand Man | 10.00% | ~955 |
+| First Day on the Job | 83.00% | ~7,936 |
+| Disposing of the Evidence | 38.00% | ~3,634 |
+| Without a Scratch | 34.00% | ~3,251 |
+| Wreckless Driving | 28.00% | ~2,677 |
+| A Marked Man | 25.00% | ~2,390 |
+| Street Sweeper | 18.00% | ~1,721 |
+| Liberty City Minute | 17.00% | ~1,626 |
+| Offshore Delivery | 13.00% | ~1,243 |
+| Dirty Money | 12.00% | ~1,147 |
+| By a Mile | 10.00% | ~956 |
+| Not So Fast | 10.00% | ~956 |
+| Right-hand Man | 10.00% | ~956 |
 | A Gift from the King | 7.00% | ~669 |
 | Full Artillery | 4.00% | ~382 |
-| Mob Boss | 3.00% | ~286 |
+| Mob Boss | 3.00% | ~287 |
 | Escape Artist | 2.00% | ~191 |
 | Where To? | 2.00% | ~191 |
 | Splish Splash | 2.00% | ~191 |
@@ -35,7 +35,7 @@ Rating: 4.21 (Ranked 921)
 | Is That All You've Got? | 0.90% | ~86 |
 | King of Liberty City | 0.60% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,550 (Ranked 173)  
+Progressed: 9,562 (Ranked 173)  
 Completed: 60 (0.63%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 60 (0.63%) (Ranked 193)
 | 2023-12-14 | 9,067 | 60 |
 | 2023-12-15 | 9,263 | 60 |
 | 2023-12-16 | 9,453 | 60 |
-| 2023-12-17 | 9,550 | 60 |
+| 2023-12-17 | 9,562 | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

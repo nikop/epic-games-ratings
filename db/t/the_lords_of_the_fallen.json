@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -975,9 +975,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4663,
+  "EOS_Progressed": 4696,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2348,
+  "EOS_NewPlayers": 2379,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5120,6 +5120,11 @@
       "Time": "2023-12-17T14:09:10.8526504+00:00",
       "NumProgressed": 4663,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T15:08:17.7619197+00:00",
+      "NumProgressed": 4696,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -5618,9 +5623,9 @@
       "ID": "TLOTF_ACHIEVEMENT_062",
       "SetID": "87e61g",
       "Name": "A Rest Among the Dead",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_063",
@@ -5635,7 +5640,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 4663,
+      "Progressed": 4696,
       "Completed": 2
     }
   ],
@@ -5643,8 +5648,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-17T07:00:24.363428+00:00",
-  "LastChanged_Achievements": "2023-12-17T14:09:10.8526501+00:00",
+  "LastChanged_Achievements": "2023-12-17T15:08:17.7619194+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:35.9560906+00:00",
-  "LastUpdate_Ratings": "2023-12-17T14:02:52.3006678+00:00",
-  "LastUpdate_Achievements": "2023-12-17T14:09:10.8527425+00:00"
+  "LastUpdate_Ratings": "2023-12-17T15:02:31.9956126+00:00",
+  "LastUpdate_Achievements": "2023-12-17T15:08:17.7619741+00:00"
 }

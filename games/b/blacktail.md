@@ -13,32 +13,32 @@ Rating: 4.68 (Ranked 262)
 | Devoted | 10.00% | ~80 |
 | Slavic squatter | 9.00% | ~72 |
 | Spirit animal | 8.00% | ~64 |
-| Gold rush | 7.00% | ~56 |
-| Liar Liar | 6.00% | ~48 |
+| Gold rush | 6.00% | ~48 |
 | A friend in need... | 6.00% | ~48 |
-| Sneak peek | 5.00% | ~40 |
 | Fishing fanatic | 5.00% | ~40 |
 | The word around is... | 5.00% | ~40 |
+| Liar Liar | 5.00% | ~40 |
 | The cycle acknowledged | 5.00% | ~40 |
-| Queen | 5.00% | ~40 |
 | Baba Yaga | 5.00% | ~40 |
 | Extensive retelling | 4.00% | ~32 |
+| Sneak peek | 4.00% | ~32 |
 | Favorite | 4.00% | ~32 |
+| Queen | 4.00% | ~32 |
 | Goal! | 3.00% | ~24 |
 | Both sides | 3.00% | ~24 |
 | Specialist | 3.00% | ~24 |
-| Always worth a try | 3.00% | ~24 |
-| Toxic | 3.00% | ~24 |
 | Witch's cookbook | 3.00% | ~24 |
 | Bad apple | 2.00% | ~16 |
 | Gnowlledgeable | 2.00% | ~16 |
+| Always worth a try | 2.00% | ~16 |
+| Toxic | 2.00% | ~16 |
 | Entangled | 2.00% | ~16 |
 | Loremaster | 1.00% | ~8 |
 | Awards unwarded | 1.00% | ~8 |
 | Mushrooming enthusiast | 0.60% | ~5 |
-| Apex predator | 0.30% | ~2 |
+| Apex predator | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 800 (Ranked 284)  
+Progressed: 801 (Ranked 284)  
 Completed: 1 (0.12%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 1 (0.12%) (Ranked 290)
 | 2023-12-14 | 786 | 1 |
 | 2023-12-15 | 791 | 1 |
 | 2023-12-16 | 797 | 1 |
-| 2023-12-17 | 800 | 1 |
+| 2023-12-17 | 801 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -14,17 +14,17 @@
 | Captain Mustache | 36.00% | ~15 |
 | Final Showdown | 31.00% | ~13 |
 | The End of an Outlaw | 31.00% | ~13 |
+| Demon Slayer | 31.00% | ~13 |
 | Steal Her Away | 31.00% | ~13 |
 | Sewer Rat | 31.00% | ~13 |
-| Demon Slayer | 29.00% | ~12 |
 | Urban Explorer | 29.00% | ~12 |
 | Fight Fire With Fire | 29.00% | ~12 |
 | Tour Guide | 26.00% | ~11 |
+| Big Eater | 24.00% | ~10 |
 | Coward | 24.00% | ~10 |
-| Big Eater | 21.00% | ~9 |
 | Not Today | 21.00% | ~9 |
+| Tomb Raider | 21.00% | ~9 |
 | The Real O.G. | 19.00% | ~8 |
-| Tomb Raider | 19.00% | ~8 |
 | Talk to the Fist | 14.00% | ~6 |
 | The Hero of the People | 12.00% | ~5 |
 | Collector | 5.00% | ~2 |

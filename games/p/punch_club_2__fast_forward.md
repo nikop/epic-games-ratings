@@ -29,10 +29,10 @@
 | Handyman | 57.00% | ~229 |
 | Champion – starter pack | 57.00% | ~229 |
 | It's good to be alive | 57.00% | ~229 |
+| Own four walls | 57.00% | ~229 |
 | Intriguing candies | 57.00% | ~229 |
 | Employee of the year | 57.00% | ~229 |
 | Fight for life | 56.00% | ~225 |
-| Own four walls | 56.00% | ~225 |
 | Legal courier | 52.00% | ~209 |
 | Extreme neuropower! | 52.00% | ~209 |
 | Escaped from a big trouble | 49.00% | ~196 |
