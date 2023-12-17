@@ -11,11 +11,11 @@
 | Don't Cry Wolf | 3.00% | ~4 |
 | Craftsmen | 2.00% | ~3 |
 | Apprentice | 2.00% | ~3 |
+| Locked and Loaded | 1.00% | ~1 |
 | Can't touch this | 1.00% | ~1 |
 | Sponsor | 0.70% | ~1 |
 | Defeat Tezuth | 0.70% | ~1 |
 | Freezing Cold | 0.70% | ~1 |
-| Locked and Loaded | 0.70% | ~1 |
 | The A-Team | 0.70% | ~1 |
 | A Deceiving Gift | 0.70% | ~1 |
 | The Golden Flash | 0.70% | ~1 |

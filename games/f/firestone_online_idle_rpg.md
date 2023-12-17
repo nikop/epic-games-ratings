@@ -5,11 +5,11 @@ Rating: 4.04 (Ranked 1,007)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,253 |
-| World Map | 78.00% | ~2,728 |
-| Temple of Eternals | 56.00% | ~1,959 |
-| Prestigious | 53.00% | ~1,854 |
-| Fellowship Power | 42.00% | ~1,469 |
+| Victor | 93.00% | ~3,256 |
+| World Map | 78.00% | ~2,731 |
+| Temple of Eternals | 56.00% | ~1,961 |
+| Prestigious | 53.00% | ~1,856 |
+| Fellowship Power | 42.00% | ~1,470 |
 | Full Party | 24.00% | ~840 |
 | Guild Power | 23.00% | ~805 |
 | Prestigious x10 | 21.00% | ~735 |
@@ -17,10 +17,10 @@ Rating: 4.04 (Ranked 1,007)
 | Dragon Clicker | 16.00% | ~560 |
 | Exotic Merchant | 16.00% | ~560 |
 | Miner Clicker | 15.00% | ~525 |
+| Enlightenment | 14.00% | ~490 |
 | Hero inspection | 14.00% | ~490 |
 | Inspection | 14.00% | ~490 |
 | Dragon Master | 13.00% | ~455 |
-| Enlightenment | 13.00% | ~455 |
 | Lieutenant | 13.00% | ~455 |
 | Milestone collector | 11.00% | ~385 |
 | Mysterious Rock | 11.00% | ~385 |
@@ -73,15 +73,15 @@ Rating: 4.04 (Ranked 1,007)
 | Titan Power | 1.00% | ~35 |
 | Transmute | 1.00% | ~35 |
 | Tree of Life | 1.00% | ~35 |
-| Angel Power | 0.90% | ~31 |
-| Training makes a Pro player | 0.90% | ~31 |
+| Angel Power | 0.90% | ~32 |
+| Training makes a Pro player | 0.90% | ~32 |
 | Silverwood liberator | 0.80% | ~28 |
-| Beast War Machines | 0.70% | ~24 |
+| Beast War Machines | 0.70% | ~25 |
 | Ultimate War Machines | 0.60% | ~21 |
 | Jewel Enchanting | 0.20% | ~7 |
-| War Machines Army | 0.10% | ~3 |
+| War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,498 (Ranked 212)  
+Progressed: 3,501 (Ranked 212)  
 Completed: 2 (0.06%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 2 (0.06%) (Ranked 321)
 | 2023-12-14 | 3,410 | 2 |
 | 2023-12-15 | 3,437 | 2 |
 | 2023-12-16 | 3,473 | 2 |
-| 2023-12-17 | 3,498 | 2 |
+| 2023-12-17 | 3,501 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 471)  
 Sum: 145 (Ranked 432)  

@@ -6,9 +6,9 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 5.00% | ~926 |
-| Overgrown Library | 5.00% | ~926 |
-| Petrified Necropolis | 5.00% | ~926 |
+| Abandoned Settlement | 5.00% | ~927 |
+| Overgrown Library | 5.00% | ~927 |
+| Petrified Necropolis | 5.00% | ~927 |
 | Gathering Storm | 4.00% | ~741 |
 | First Real Expedition | 3.00% | ~556 |
 | Taking Action | 3.00% | ~556 |
@@ -37,18 +37,18 @@ Number of Ratings: 1,845  (23.09.2022)
 | Barren Lands | 0.80% | ~148 |
 | Ancient Battleground | 0.80% | ~148 |
 | Statue of the Forefathers | 0.80% | ~148 |
+| Against All Odds | 0.70% | ~130 |
 | Sparkdew Crystals | 0.70% | ~130 |
 | Haunted Forest | 0.70% | ~130 |
 | Flooded Mines | 0.70% | ~130 |
-| Against All Odds | 0.60% | ~111 |
 | Defying the Crown | 0.60% | ~111 |
 | Serving Ale | 0.50% | ~93 |
+| Refinery | 0.50% | ~93 |
 | Fishmen Ritual Site | 0.50% | ~93 |
 | Forsaken Gods Temple | 0.50% | ~93 |
 | Victory Through Prosperity | 0.50% | ~93 |
 | Into the Forest | 0.50% | ~93 |
 | Efficient Explorer | 0.40% | ~74 |
-| Refinery | 0.40% | ~74 |
 | Dangerous Lands | 0.40% | ~74 |
 | Fox Utopia | 0.40% | ~74 |
 | Forbidden Lands | 0.30% | ~56 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,527 (Ranked 147)  
+Progressed: 18,532 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 39 (0.21%) (Ranked 263)
 | 2023-12-14 | 18,153 | 40 |
 | 2023-12-15 | 18,272 | 39 |
 | 2023-12-16 | 18,388 | 39 |
-| 2023-12-17 | 18,527 | 40 |
+| 2023-12-17 | 18,532 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,267 (Ranked 175)  

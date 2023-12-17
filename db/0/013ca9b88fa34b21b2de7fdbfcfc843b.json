@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8498,
+  "EOS_Progressed": 8500,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8638,6 +8638,11 @@
       "Time": "2023-12-17T21:10:21.4495794+00:00",
       "NumProgressed": 8498,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T22:09:50.0862351+00:00",
+      "NumProgressed": 8500,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8658,7 +8663,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -8738,7 +8743,7 @@
       "Name": "Lumberjack",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -8834,7 +8839,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -8866,7 +8871,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -8882,7 +8887,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -8922,7 +8927,7 @@
       "Name": "Skilled",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "DLC1_ACHIEVEMENT_01",
@@ -8984,22 +8989,22 @@
       "ID": "DLC1_ACHIEVEMENT_08",
       "SetID": "6p01o4j",
       "Name": "Exit Through The Gift Shop",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8498,
+      "Progressed": 8500,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1115,
+      "Progressed": 1117,
       "Completed": 1050
     }
   ],
@@ -9007,8 +9012,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-15T16:03:24.8361061+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:10:21.4495792+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:09:50.0862348+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:03:17.7152084+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:10:21.4496419+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:03:04.4962053+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:09:50.0862994+00:00"
 }

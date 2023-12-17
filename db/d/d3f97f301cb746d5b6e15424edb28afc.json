@@ -2,7 +2,7 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 513,
+  "Ranking_Rating": 512,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 257,
@@ -3539,9 +3539,9 @@
       "ID": "GSS_ACH_23_LOCKPICKING_03",
       "SetID": "5fn8ia4",
       "Name": "Just Checking!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 415
     },
     {
       "ID": "GSS_ACH_25_DENNIS",
@@ -3691,9 +3691,9 @@
       "ID": "GSS_ACH_43_CARAVAN_02",
       "SetID": "5fn8ia4",
       "Name": "Raising the Stakes",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 541
+      "UsersEstimate": 554
     },
     {
       "ID": "GSS_ACH_44_CARAVAN_03",
@@ -3715,9 +3715,9 @@
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 969
+      "UsersEstimate": 982
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -3755,9 +3755,9 @@
       "ID": "GSS_ACH_51_UPGRADE_WORKSHOP_01",
       "SetID": "5fn8ia4",
       "Name": "Workshop Obtained!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 982
+      "UsersEstimate": 995
     },
     {
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
@@ -3795,9 +3795,9 @@
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Obtained!",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1058
     },
     {
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
@@ -4020,8 +4020,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-17T13:01:05.5072332+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:06:18.7318353+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:05:14.8096486+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:59:03.0483059+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:06:18.7319169+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:58:25.3657231+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:05:14.8097294+00:00"
 }

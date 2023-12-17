@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -288,9 +288,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 25546,
+  "EOS_Progressed": 25555,
   "EOS_Completed": 161,
-  "EOS_NewPlayers": 1018,
+  "EOS_NewPlayers": 1021,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -7233,6 +7233,11 @@
       "Time": "2023-12-17T21:10:11.1441019+00:00",
       "NumProgressed": 25546,
       "NumCompleted": 161
+    },
+    {
+      "Time": "2023-12-17T22:09:42.2512063+00:00",
+      "NumProgressed": 25555,
+      "NumCompleted": 161
     }
   ],
   "TotalAchievements": 24,
@@ -7244,7 +7249,7 @@
       "Name": "Feeling the Blues",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "ACH_CollectAll",
@@ -7252,7 +7257,7 @@
       "Name": "The Collector",
       "Percentage": 1,
       "XP": 70,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_CrushEnemy",
@@ -7260,7 +7265,7 @@
       "Name": "Squished",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "ACH_CrushPhysicsBall",
@@ -7268,7 +7273,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4087
+      "UsersEstimate": 4089
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -7276,7 +7281,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 5365
+      "UsersEstimate": 5367
     },
     {
       "ID": "ACH_Finale",
@@ -7284,7 +7289,7 @@
       "Name": "Finale",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "ACH_S8AllBronze",
@@ -7300,7 +7305,7 @@
       "Name": "Master Of The Collectables",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_S8AllGold",
@@ -7364,7 +7369,7 @@
       "Name": "Maxed Out",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_Sector1",
@@ -7372,7 +7377,7 @@
       "Name": "Sector 1",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 7153
+      "UsersEstimate": 7155
     },
     {
       "ID": "ACH_Sector2",
@@ -7380,7 +7385,7 @@
       "Name": "Sector 2",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 6386
+      "UsersEstimate": 6389
     },
     {
       "ID": "ACH_Sector3",
@@ -7388,7 +7393,7 @@
       "Name": "Sector 3",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 5365
+      "UsersEstimate": 5367
     },
     {
       "ID": "ACH_Sector4",
@@ -7396,7 +7401,7 @@
       "Name": "Sector 4",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 4343
+      "UsersEstimate": 4344
     },
     {
       "ID": "ACH_Sector5",
@@ -7404,7 +7409,7 @@
       "Name": "Sector 5",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2810
+      "UsersEstimate": 2811
     },
     {
       "ID": "ACH_Sector6",
@@ -7412,7 +7417,7 @@
       "Name": "Sector 6",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "ACH_Sector7",
@@ -7420,7 +7425,7 @@
       "Name": "Sector 7",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "ACH_TurnBallBlack",
@@ -7435,7 +7440,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 25546,
+      "Progressed": 25555,
       "Completed": 161
     }
   ],
@@ -7443,8 +7448,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-12-11T17:59:07.2531282+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:10:11.1441015+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:09:42.251206+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.5220859+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:58:52.0601291+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:10:11.1441539+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:58:17.9825773+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:09:42.2512404+00:00"
 }

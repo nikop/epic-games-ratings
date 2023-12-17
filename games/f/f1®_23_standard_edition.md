@@ -5,48 +5,48 @@ Rating: 4.69 (Ranked 233)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~7,793 |
-| On the Top Step | 83.00% | ~7,108 |
-| Setting up for Success | 71.00% | ~6,080 |
-| Team Orders | 70.00% | ~5,995 |
-| Engineer | 49.00% | ~4,196 |
-| Familiar Faces | 44.00% | ~3,768 |
-| Going the Extra Mile | 38.00% | ~3,254 |
-| Sharing the Love | 36.00% | ~3,083 |
-| Hitting a Season | 32.00% | ~2,740 |
-| A Dozen Pieces | 28.00% | ~2,398 |
-| Challenge Yourself | 27.00% | ~2,312 |
-| Making History | 27.00% | ~2,312 |
-| Network Success | 24.00% | ~2,055 |
-| Writing a new Chapter | 21.00% | ~1,798 |
-| Spring Cleaning | 20.00% | ~1,713 |
-| Reduce | 17.00% | ~1,456 |
-| Ups and Downs | 17.00% | ~1,456 |
-| Crucial Combo | 16.00% | ~1,370 |
-| Reuse | 14.00% | ~1,199 |
-| Proving Them Wrong | 14.00% | ~1,199 |
-| Gathering Dust | 13.00% | ~1,113 |
-| One for the Book | 13.00% | ~1,113 |
-| Oil and Water | 12.00% | ~1,028 |
-| Hitting a Bullseye | 12.00% | ~1,028 |
-| Eagle Eye | 11.00% | ~942 |
-| All in a Weekend's Work | 11.00% | ~942 |
-| Lightning Round the World | 11.00% | ~942 |
-| Switcheroo | 11.00% | ~942 |
-| Spinning Around | 11.00% | ~942 |
-| Friendly Competition | 10.00% | ~856 |
-| Recycle | 9.00% | ~771 |
-| Undisputed Winner | 8.00% | ~685 |
-| Tinkerer | 8.00% | ~685 |
-| For all Those Back at the Factory | 5.00% | ~428 |
-| Living up to Expectations | 5.00% | ~428 |
-| Smooth Operator | 5.00% | ~428 |
-| Loyal Bond | 4.00% | ~343 |
-| Peak Performance | 4.00% | ~343 |
-| Seasoned Rookie | 3.00% | ~257 |
-| Hitting a Century | 3.00% | ~257 |
-| Wait, I know you? | 2.00% | ~171 |
-| Filling in the Gaps | 2.00% | ~171 |
+| Getting on the Step | 91.00% | ~7,820 |
+| On the Top Step | 83.00% | ~7,132 |
+| Setting up for Success | 71.00% | ~6,101 |
+| Team Orders | 69.00% | ~5,929 |
+| Engineer | 49.00% | ~4,211 |
+| Familiar Faces | 44.00% | ~3,781 |
+| Going the Extra Mile | 38.00% | ~3,265 |
+| Sharing the Love | 36.00% | ~3,093 |
+| Hitting a Season | 31.00% | ~2,664 |
+| A Dozen Pieces | 28.00% | ~2,406 |
+| Challenge Yourself | 27.00% | ~2,320 |
+| Making History | 27.00% | ~2,320 |
+| Network Success | 24.00% | ~2,062 |
+| Writing a new Chapter | 21.00% | ~1,805 |
+| Spring Cleaning | 20.00% | ~1,719 |
+| Reduce | 17.00% | ~1,461 |
+| Ups and Downs | 17.00% | ~1,461 |
+| Crucial Combo | 16.00% | ~1,375 |
+| Reuse | 14.00% | ~1,203 |
+| Proving Them Wrong | 14.00% | ~1,203 |
+| Gathering Dust | 13.00% | ~1,117 |
+| One for the Book | 13.00% | ~1,117 |
+| Oil and Water | 12.00% | ~1,031 |
+| Hitting a Bullseye | 12.00% | ~1,031 |
+| Eagle Eye | 11.00% | ~945 |
+| All in a Weekend's Work | 11.00% | ~945 |
+| Lightning Round the World | 11.00% | ~945 |
+| Switcheroo | 11.00% | ~945 |
+| Spinning Around | 11.00% | ~945 |
+| Friendly Competition | 10.00% | ~859 |
+| Recycle | 9.00% | ~773 |
+| Undisputed Winner | 8.00% | ~687 |
+| Tinkerer | 8.00% | ~687 |
+| For all Those Back at the Factory | 5.00% | ~430 |
+| Living up to Expectations | 5.00% | ~430 |
+| Smooth Operator | 5.00% | ~430 |
+| Loyal Bond | 4.00% | ~344 |
+| Peak Performance | 4.00% | ~344 |
+| Seasoned Rookie | 3.00% | ~258 |
+| Hitting a Century | 3.00% | ~258 |
+| Wait, I know you? | 2.00% | ~172 |
+| Filling in the Gaps | 2.00% | ~172 |
 | Saturday Night Drama | 1.00% | ~86 |
 | Media Darling | 1.00% | ~86 |
 | Under the Microscope | 0.80% | ~69 |
@@ -55,7 +55,7 @@ Rating: 4.69 (Ranked 233)
 | Shot in the Dark | 0.10% | ~9 |
 | Elite Racer | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,564 (Ranked 178)  
+Progressed: 8,593 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,16 +150,16 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 6,647 | 0 |
 | 2023-12-15 | 7,252 | 0 |
 | 2023-12-16 | 7,967 | 0 |
-| 2023-12-17 | 8,564 | 0 |
+| 2023-12-17 | 8,593 | 0 |
 ## Awards
 Max (Diverse Characters): 43  (Ranked 460)  
-Sum: 244 (Ranked 392)  
-Diff (max vs sum): 68  
+Sum: 245 (Ranked 391)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 43 |
 | This game is Great for Beginners | 36 |
-| This game has a Competitive Community | 33 |
+| This game has a Competitive Community | 34 |
 | This game is Highly Recommended | 28 |
 | This game is Extremely Fun | 28 |
 | This game has Challenging Combat | 25 |
@@ -267,4 +267,4 @@ Diff (max vs sum): 68
 | 2023-12-14 | 4.68 | 39 | 195 |
 | 2023-12-15 | 4.69 | 40 | 197 |
 | 2023-12-16 | 4.69 | 40 | 198 |
-| 2023-12-17 | 4.69 | 43 | 244 |
+| 2023-12-17 | 4.69 | 43 | 245 |

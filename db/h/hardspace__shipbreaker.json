@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -2269,9 +2269,9 @@
       "ID": "ACH_I_CAN_FIX_IT",
       "SetID": "108h92c",
       "Name": "I can fix it!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 613
+      "UsersEstimate": 623
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -2342,8 +2342,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-11-20T03:58:42.1118377+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:09:18.7522378+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:09:03.9604209+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:08.6185668+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:58:55.2646411+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:09:18.7522597+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:58:19.9651346+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:09:03.9604434+00:00"
 }

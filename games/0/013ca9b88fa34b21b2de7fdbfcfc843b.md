@@ -5,7 +5,7 @@ Rating: 4.61 (Ranked 392)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Thorny Situation | 0.90% | ~76 |
+| A Thorny Situation | 0.90% | ~77 |
 | Azoria Beckons | 0.70% | ~59 |
 | Break-Net Speed | 0.60% | ~51 |
 | ... And Spit Back Out | 0.60% | ~51 |
@@ -17,12 +17,12 @@ Rating: 4.61 (Ranked 392)
 | Search for the Hairy Grell | 0.40% | ~34 |
 | Humble Collector | 0.40% | ~34 |
 | Mist Walker | 0.40% | ~34 |
-| Lumberjack | 0.30% | ~25 |
-| Higher Tax Bracket | 0.30% | ~25 |
-| Oui, Chef! | 0.30% | ~25 |
-| Azorian Anniversary | 0.30% | ~25 |
-| Skilled | 0.30% | ~25 |
-| Exit Through The Gift Shop | 0.30% | ~3 |
+| Exit Through The Gift Shop | 0.40% | ~4 |
+| Lumberjack | 0.30% | ~26 |
+| Higher Tax Bracket | 0.30% | ~26 |
+| Oui, Chef! | 0.30% | ~26 |
+| Azorian Anniversary | 0.30% | ~26 |
+| Skilled | 0.30% | ~26 |
 | Flaming Hot Completos | 0.20% | ~17 |
 | Fae Farmer | 0.20% | ~17 |
 | Beach Comber | 0.20% | ~17 |
@@ -49,7 +49,7 @@ Rating: 4.61 (Ranked 392)
 | Going Down | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,498 (Ranked 179)  
+Progressed: 8,500 (Ranked 179)  
 Completed: 1 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 1 (0.01%) (Ranked 356)
 | 2023-12-14 | 8,437 | 1 |
 | 2023-12-15 | 8,445 | 1 |
 | 2023-12-16 | 8,476 | 1 |
-| 2023-12-17 | 8,498 | 1 |
+| 2023-12-17 | 8,500 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

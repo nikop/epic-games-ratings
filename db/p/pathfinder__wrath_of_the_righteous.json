@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4625,9 +4625,9 @@
       "Count": 403
     }
   ],
-  "EOS_Progressed": 12454,
+  "EOS_Progressed": 12457,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17205,6 +17205,11 @@
       "Time": "2023-12-17T19:09:33.1832626+00:00",
       "NumProgressed": 12454,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T22:09:47.5276457+00:00",
+      "NumProgressed": 12457,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17352,7 +17357,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "19_EqualToAroden",
@@ -17416,7 +17421,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "28_GreatUpstart",
@@ -17584,7 +17589,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2366
+      "UsersEstimate": 2367
     },
     {
       "ID": "49_Flame",
@@ -18143,21 +18148,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11236,
+      "Progressed": 11239,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12454,
+      "Progressed": 12457,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-17T17:59:32.4724351+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:10:18.035368+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:09:47.5276456+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:00:59.1985327+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:10:18.0355441+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:59:42.8628896+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:09:47.5278+00:00"
 }

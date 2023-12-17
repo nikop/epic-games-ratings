@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 446,
+  "EOS_Progressed": 447,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1384,6 +1384,11 @@
       "Time": "2023-12-17T19:04:50.1023635+00:00",
       "NumProgressed": 446,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T22:04:49.4266235+00:00",
+      "NumProgressed": 447,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1460,7 +1465,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "REMAKE_004",
@@ -1492,7 +1497,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Remake_008",
@@ -1619,14 +1624,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 446,
+      "Progressed": 447,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:05:43.582117+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:04:49.426623+00:00",
   "LastUpdate_AppInfo": "2023-12-11T23:56:59.5421023+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:57:04.9447585+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:05:43.5821407+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:57:04.8189794+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:04:49.4266463+00:00"
 }

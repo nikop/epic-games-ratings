@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~29,161 |
-| A Better Idea | 24.00% | ~7,367 |
-| Safety in the Storm | 23.00% | ~7,060 |
-| Begin the Ceremony | 20.00% | ~6,139 |
-| Mission Accomplished | 18.00% | ~5,525 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~4,604 |
-| Asset Secured | 13.00% | ~3,990 |
-| A Starfighter of Your Own | 13.00% | ~3,990 |
-| Unkillable | 7.00% | ~2,149 |
-| Together, Vanguard | 7.00% | ~2,149 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~1,842 |
-| Sound Strategy | 6.00% | ~1,842 |
+| Fracture at Fostar Haven | 95.00% | ~29,174 |
+| A Better Idea | 24.00% | ~7,370 |
+| Safety in the Storm | 23.00% | ~7,063 |
+| Begin the Ceremony | 20.00% | ~6,142 |
+| Mission Accomplished | 18.00% | ~5,528 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~4,606 |
+| Asset Secured | 13.00% | ~3,992 |
+| A Starfighter of Your Own | 13.00% | ~3,992 |
+| Unkillable | 7.00% | ~2,150 |
+| Together, Vanguard | 7.00% | ~2,150 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~1,843 |
+| Sound Strategy | 6.00% | ~1,843 |
 | Stomped | 5.00% | ~1,535 |
 | A Promising Career | 5.00% | ~1,535 |
 | Great Shot, Kid | 4.00% | ~1,228 |
@@ -34,7 +34,7 @@
 | Against the Current | 0.90% | ~276 |
 | Denied | 0.70% | ~215 |
 | Found Your Place | 0.60% | ~184 |
-| Unstoppable Ace | 0.50% | ~153 |
+| Unstoppable Ace | 0.50% | ~154 |
 | Seasoned Star Pilot | 0.40% | ~123 |
 | The Trap is Set | 0.40% | ~123 |
 | The Galaxy's Finest (Veteran) | 0.40% | ~123 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~31 |
 | The Galaxy's Finest (Ace) | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,696 (Ranked 129)  
+Progressed: 30,709 (Ranked 129)  
 Completed: 2 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 2 (0.01%) (Ranked 356)
 | 2023-12-14 | 29,418 | 2 |
 | 2023-12-15 | 29,754 | 2 |
 | 2023-12-16 | 30,243 | 2 |
-| 2023-12-17 | 30,696 | 2 |
+| 2023-12-17 | 30,709 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

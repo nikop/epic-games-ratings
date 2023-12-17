@@ -6,15 +6,15 @@ Rating: 4.60 (Ranked 423)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Beginner | 93.00% | ~85 |
-| Map reader | 74.00% | ~67 |
-| Philanthropist | 67.00% | ~61 |
-| Adventurer | 65.00% | ~59 |
+| Map reader | 75.00% | ~68 |
+| Philanthropist | 69.00% | ~63 |
+| Adventurer | 66.00% | ~60 |
 | The brave little tailor | 49.00% | ~45 |
 | Archer | 49.00% | ~45 |
 | Field hand | 44.00% | ~40 |
-| Samaritan | 42.00% | ~38 |
+| Samaritan | 43.00% | ~39 |
+| The merciful one | 40.00% | ~36 |
 | Well-to-do | 40.00% | ~36 |
-| The merciful one | 38.00% | ~35 |
 | Ladies' man | 37.00% | ~34 |
 | Ferocious wild boars | 29.00% | ~26 |
 | Idiot | 27.00% | ~25 |

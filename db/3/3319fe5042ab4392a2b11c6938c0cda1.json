@@ -4,7 +4,7 @@
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -360,9 +360,9 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "ae95dh3",
       "Name": "All That Glitters",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -527,8 +527,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:05:48.7954303+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:04:53.3057076+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184739+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:59:49.8543501+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:05:48.7954545+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:58:57.0094991+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:04:53.305731+00:00"
 }

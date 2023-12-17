@@ -2977,9 +2977,9 @@
       "ID": "Achievement_026",
       "SetID": "6b34g18",
       "Name": "Fly Fisher",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 96
     },
     {
       "ID": "Achievement_027",
@@ -3322,8 +3322,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-17T18:59:50.7372616+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:07:55.4037802+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:06:24.2773025+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:00:43.3249157+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:07:55.4038369+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:59:32.4022171+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:06:24.277384+00:00"
 }

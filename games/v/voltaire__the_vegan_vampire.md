@@ -20,16 +20,16 @@
 | Holy Crops! | 8.00% | ~10 |
 | Do you wanna build a snowboiii? | 7.00% | ~8 |
 | It gets everywhere | 7.00% | ~8 |
-| Who let the pets out? | 4.00% | ~5 |
+| Who let the pets out? | 5.00% | ~6 |
 | It's a bug's life | 4.00% | ~5 |
 | V is for Vegan | 4.00% | ~5 |
 | Groovy! | 3.00% | ~4 |
 | Zap! | 3.00% | ~4 |
 | Veggie Master | 2.00% | ~2 |
 | Homecoming | 2.00% | ~2 |
+| Free Spirit | 2.00% | ~2 |
 | I am Root! | 2.00% | ~2 |
 | Tururururu! | 2.00% | ~2 |
-| Free Spirit | 0.80% | ~1 |
 | Yeehaw! | 0.80% | ~1 |
 | Yeetus Deletus | 0.80% | ~1 |
 | Best in the field | 0.80% | ~1 |

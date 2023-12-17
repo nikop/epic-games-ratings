@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 320)  
+Rating: 4.65 (Ranked 321)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -213,6 +213,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kmt Golden Age | 0.20% | ~32 |
 | Glory to The Aten | 0.20% | ~32 |
 | Akhenaten's Legacy | 0.20% | ~32 |
+| Qadesh Victory | 0.20% | ~32 |
 | Centenarian | 0.10% | ~16 |
 | Alexander the Great | 0.10% | ~16 |
 | Alexander the who? | 0.10% | ~16 |
@@ -323,7 +324,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Qadesh Defeat | 0.10% | ~16 |
 | Destruction at Qadesh | 0.10% | ~16 |
 | Ramesses II The Great | 0.10% | ~16 |
-| Qadesh Victory | 0.10% | ~16 |
 | Muwatalli II KIA | 0.10% | ~16 |
 | Pharaonic Ramesses II The Great | 0.10% | ~16 |
 | Pharaonic Qadesh Victory | 0.10% | ~16 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,803 (Ranked 155)  
+Progressed: 15,805 (Ranked 155)  
 Completed: 5 (0.03%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -590,7 +590,7 @@ Completed: 5 (0.03%) (Ranked 341)
 | 2023-12-14 | 15,760 | 5 |
 | 2023-12-15 | 15,768 | 5 |
 | 2023-12-16 | 15,789 | 5 |
-| 2023-12-17 | 15,803 | 5 |
+| 2023-12-17 | 15,805 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 278)  
 Sum: 1,901 (Ranked 220)  

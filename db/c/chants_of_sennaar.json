@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1294,
+  "EOS_Progressed": 1295,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 5.33,
   "EosHistory": [
@@ -4372,6 +4372,11 @@
       "Time": "2023-12-17T21:06:54.2205979+00:00",
       "NumProgressed": 1294,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-17T22:05:40.5343501+00:00",
+      "NumProgressed": 1295,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 25,
@@ -4413,9 +4418,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 285
     },
     {
       "ID": "META_HALF_LINK",
@@ -4455,7 +4460,7 @@
       "Name": "A great audience",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "META_RESULT_2-4",
@@ -4463,7 +4468,7 @@
       "Name": "For its own good",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "META_RESULT_3-4",
@@ -4527,7 +4532,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -4549,9 +4554,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 440
     },
     {
       "ID": "PROGRESS_N3",
@@ -4559,7 +4564,7 @@
       "Name": "A new dawn",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "PROGRESS_N4",
@@ -4582,7 +4587,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1294,
+      "Progressed": 1295,
       "Completed": 69
     }
   ],
@@ -4590,8 +4595,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-17T17:02:33.5506237+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:06:54.2205976+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:05:40.5343497+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:01:58.8792306+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:06:54.2206332+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:00:23.0840503+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:05:40.5343793+00:00"
 }

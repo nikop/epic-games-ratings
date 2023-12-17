@@ -2,9 +2,9 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 306,
+  "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -2188,9 +2188,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "7pimpda",
       "Name": "Beginner Cook",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 225
+      "UsersEstimate": 232
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -2228,9 +2228,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 326
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2396,9 +2396,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 338
+      "UsersEstimate": 344
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2412,9 +2412,9 @@
       "ID": "ACHIEVEMENT_7",
       "SetID": "7pimpda",
       "Name": "Apostle of Flame",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 238
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2445,8 +2445,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:09:03.3092477+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:08:52.9843566+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:00.9363361+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:00:35.7738801+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:09:03.3092859+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:59:26.9774657+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:08:52.9843947+00:00"
 }

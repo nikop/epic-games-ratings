@@ -198,9 +198,9 @@
       "ID": "_03",
       "SetID": "670ak8f",
       "Name": "Strategist",
-      "Percentage": 37,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "_04",
@@ -214,9 +214,9 @@
       "ID": "_05",
       "SetID": "670ak8f",
       "Name": "Lazy bones",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "_06",
@@ -269,8 +269,8 @@
   ],
   "FirstSeen": "2023-10-05T01:45:17.1796579+00:00",
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:08:49.4489357+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:08:42.9906327+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:39.2529604+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:00:34.6084487+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:08:49.4489432+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:59:26.249471+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:08:42.9906414+00:00"
 }

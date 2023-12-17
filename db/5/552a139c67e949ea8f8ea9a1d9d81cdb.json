@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1404,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3458,9 +3458,9 @@
       "ID": "ML_ACHIEVEMENT_18",
       "SetID": "5k00jcd",
       "Name": "International license",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -3703,8 +3703,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:06:43.2229153+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:05:32.3321539+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:59:37.2026616+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:06:43.2229646+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:58:48.6385488+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:05:32.3321912+00:00"
 }

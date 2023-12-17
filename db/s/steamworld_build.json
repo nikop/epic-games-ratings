@@ -2,9 +2,9 @@
   "ID": "974d75969ed043489745f61eb0a25baf",
   "Name": "SteamWorld Build",
   "ProductSlug": "steamworld-build-71ee6c",
-  "Ranking_EOS_Progress": 431,
+  "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -526,9 +526,9 @@
       "ID": "ConductedTrade",
       "SetID": "4bd750m",
       "Name": "Conducted Trade",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "DiggingAHole",
@@ -598,9 +598,9 @@
       "ID": "Mathematic",
       "SetID": "4bd750m",
       "Name": "Mathematic",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "MineSweeper",
@@ -622,9 +622,9 @@
       "ID": "RealPurdy",
       "SetID": "4bd750m",
       "Name": "Real Purdy",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "RollOut",
@@ -694,9 +694,9 @@
       "ID": "UpUpAndAway",
       "SetID": "4bd750m",
       "Name": "Up, Up And Away!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "Whoa",
@@ -725,8 +725,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:07:32.8325479+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:06:08.2244922+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.7183942+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:03:16.9112812+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:07:32.8325625+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:03:04.2098909+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:06:08.2245113+00:00"
 }

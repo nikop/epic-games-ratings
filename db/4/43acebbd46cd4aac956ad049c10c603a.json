@@ -5,9 +5,9 @@
   "Ranking_Rating": 17,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
-  "Ranking_EOS_Progress": 274,
+  "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1035,
+  "EOS_Progressed": 1038,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2657,6 +2657,11 @@
       "Time": "2023-12-17T18:03:30.8551096+00:00",
       "NumProgressed": 1035,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T22:03:42.7036796+00:00",
+      "NumProgressed": 1038,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2677,7 +2682,7 @@
       "Name": "Ab Initio",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "AnthropicHills",
@@ -2709,7 +2714,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "BreakTheLoop",
@@ -2717,7 +2722,7 @@
       "Name": "Break the Loop",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "BridgeBuilder",
@@ -2725,7 +2730,7 @@
       "Name": "Bridge Builder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ChasingTheLight",
@@ -2749,15 +2754,15 @@
       "Name": "Circular Oasis",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "DesolateIsland",
       "SetID": "1n308hc",
       "Name": "Desolate Island",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 83
     },
     {
       "ID": "Discovery",
@@ -2765,7 +2770,7 @@
       "Name": "Discovery",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "EasternWetlands",
@@ -2789,7 +2794,7 @@
       "Name": "Excellent",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "FloodedValley",
@@ -2805,7 +2810,7 @@
       "Name": "Gnothi Seauton",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "GoodCitizen",
@@ -2827,9 +2832,9 @@
       "ID": "HighPlain",
       "SetID": "1n308hc",
       "Name": "High Plain",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 52
     },
     {
       "ID": "IntoTheMachine",
@@ -2837,7 +2842,7 @@
       "Name": "Into the Machine",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "JustOneLap",
@@ -2885,7 +2890,7 @@
       "Name": "Museum Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "MuseumVisitor",
@@ -2893,7 +2898,7 @@
       "Name": "Museum Visitor",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "NewBeginning",
@@ -2901,7 +2906,7 @@
       "Name": "A New Beginning",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "NewMorality",
@@ -2917,7 +2922,7 @@
       "Name": "Not What It Seems",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Overload",
@@ -2925,7 +2930,7 @@
       "Name": "Overload",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "Persistent",
@@ -2933,7 +2938,7 @@
       "Name": "Persistent",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "PrometheusUnbound",
@@ -2973,7 +2978,7 @@
       "Name": "Scientia Vincere Tenebras",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Signatory",
@@ -2981,7 +2986,7 @@
       "Name": "Signatory",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "SingleRod",
@@ -3077,7 +3082,7 @@
       "Name": "The Word Endures",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "TouchGrass",
@@ -3101,7 +3106,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Wanderers",
@@ -3109,7 +3114,7 @@
       "Name": "Wanderers",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "WesternDelta",
@@ -3117,7 +3122,7 @@
       "Name": "Western Delta",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "WoodedPlateau",
@@ -3140,7 +3145,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1035,
+      "Progressed": 1038,
       "Completed": 1
     }
   ],
@@ -3148,8 +3153,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:04:11.1071106+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:03:42.7036793+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:58:39.8220137+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:04:11.107189+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:58:10.1295548+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:03:42.7037275+00:00"
 }

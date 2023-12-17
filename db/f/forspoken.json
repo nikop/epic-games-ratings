@@ -498,9 +498,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 44256,
+  "EOS_Progressed": 44262,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 740,
+  "EOS_NewPlayers": 741,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15473,6 +15473,11 @@
       "Time": "2023-12-17T21:08:39.5921076+00:00",
       "NumProgressed": 44256,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T22:08:35.4339134+00:00",
+      "NumProgressed": 44262,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15676,7 +15681,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -15772,7 +15777,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -15796,7 +15801,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -15820,7 +15825,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "SPRING_ALL",
@@ -15836,7 +15841,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "STAYING_AIR",
@@ -15907,22 +15912,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44256,
+      "Progressed": 44262,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9093,
-      "Completed": 9093
+      "Progressed": 9099,
+      "Completed": 9099
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-17T13:59:35.4745541+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:08:39.5921073+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:08:35.433913+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:59:31.0825557+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:08:39.5922097+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:58:44.537387+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:08:35.4339981+00:00"
 }

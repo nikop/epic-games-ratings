@@ -8,13 +8,13 @@
 | Training Simulation | 79.00% | ~495 |
 | Kuku Bird Hunter | 65.00% | ~407 |
 | Storm Traveller | 60.00% | ~376 |
-| Wolf King Killer | 54.00% | ~338 |
-| Fashion Connoisseur | 52.00% | ~326 |
+| Wolf King Killer | 55.00% | ~344 |
+| Fashion Connoisseur | 53.00% | ~332 |
 | Arms Mechanic | 48.00% | ~300 |
 | Flower Thief | 44.00% | ~275 |
+| Apostle of Flame | 39.00% | ~244 |
 | Beginner Artificer | 38.00% | ~238 |
-| Apostle of Flame | 38.00% | ~238 |
-| Beginner Cook | 36.00% | ~225 |
+| Beginner Cook | 37.00% | ~232 |
 | Seal Breaker | 31.00% | ~194 |
 | Handyman | 28.00% | ~175 |
 | Giant Lizard Killer | 26.00% | ~163 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 626 (Ranked 306)  
+Progressed: 626 (Ranked 307)  
 Completed: 1 (0.16%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |

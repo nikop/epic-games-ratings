@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | New Recruit | 89.00% | ~1,646 |
 | Off to a good start | 65.00% | ~1,202 |
-| Do... or do not. There is no try | 51.00% | ~943 |
+| Do... or do not. There is no try | 51.00% | ~944 |
 | A good blaster at your side | 28.00% | ~518 |
 | I suggest a new strategy | 18.00% | ~333 |
 | Scrap collector | 17.00% | ~314 |
@@ -20,8 +20,8 @@
 | Best star-pilot in the galaxy | 9.00% | ~166 |
 | Never tell me the odds! | 8.00% | ~148 |
 | Survivor | 8.00% | ~148 |
-| What's the cargo? | 7.00% | ~129 |
-| A cunning warrior | 7.00% | ~129 |
+| What's the cargo? | 7.00% | ~130 |
+| A cunning warrior | 7.00% | ~130 |
 | Impressive. Most impressive. | 6.00% | ~111 |
 | Judge me by my size, do you? | 6.00% | ~111 |
 | "Gonk? Gonk!" | 5.00% | ~92 |
@@ -31,11 +31,11 @@
 | Safety ain't the point of a joyride | 4.00% | ~74 |
 | Not bad for a little furball | 4.00% | ~74 |
 | Patience you must have | 4.00% | ~74 |
-| I've been waiting for you | 3.00% | ~55 |
-| When 900 years old you reach... | 3.00% | ~55 |
-| Your journey has only started | 3.00% | ~55 |
-| On the ball | 3.00% | ~55 |
-| Don't underestimate the Force | 3.00% | ~55 |
+| I've been waiting for you | 3.00% | ~56 |
+| When 900 years old you reach... | 3.00% | ~56 |
+| Your journey has only started | 3.00% | ~56 |
+| On the ball | 3.00% | ~56 |
+| Don't underestimate the Force | 3.00% | ~56 |
 | The Force is strong with this one | 2.00% | ~37 |
 | Determined | 2.00% | ~37 |
 | Precision shot | 2.00% | ~37 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~4 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,849 (Ranked 237)  
+Progressed: 1,850 (Ranked 237)  
 Completed: 1 (0.05%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 1 (0.05%) (Ranked 328)
 | 2023-12-14 | 1,726 | 1 |
 | 2023-12-15 | 1,755 | 1 |
 | 2023-12-16 | 1,815 | 1 |
-| 2023-12-17 | 1,849 | 1 |
+| 2023-12-17 | 1,850 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

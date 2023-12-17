@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 130,
+  "EOS_Progressed": 131,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -599,6 +599,11 @@
       "Time": "2023-12-17T21:08:36.3619554+00:00",
       "NumProgressed": 130,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T22:08:33.0463814+00:00",
+      "NumProgressed": 131,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -617,9 +622,9 @@
       "ID": "SG_ACROSSTHESTYX",
       "SetID": "bj5g0n4",
       "Name": "Across The Styx",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 31
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -627,7 +632,7 @@
       "Name": "Against All Odds",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SG_ALLTHEHELPYOUNEED",
@@ -681,9 +686,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -747,7 +752,7 @@
       "Name": "Meant To Be",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -755,15 +760,15 @@
       "Name": "My Time To Shine",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -819,7 +824,7 @@
       "Name": "The Answer Is You",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SG_THECHOICEISYOURS",
@@ -833,9 +838,9 @@
       "ID": "SG_THEDEEPEND",
       "SetID": "bj5g0n4",
       "Name": "The Deep End",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -867,7 +872,7 @@
       "Name": "The Queen Of The Dead",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SG_THEULTIMATESACRIFICE",
@@ -906,14 +911,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 130,
+      "Progressed": 131,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:08:36.3619551+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:08:33.046381+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.0565697+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:59:20.440401+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:08:36.3619788+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:58:37.5343906+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:08:33.0464072+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 3744,
+  "Ranking_EOS_NewCompleters": 3745,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3485,9 +3485,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18527,
+  "EOS_Progressed": 18532,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 626,
+  "EOS_NewPlayers": 625,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16110,6 +16110,11 @@
       "Time": "2023-12-17T21:05:48.5030883+00:00",
       "NumProgressed": 18527,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-17T22:04:53.1208351+00:00",
+      "NumProgressed": 18532,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16192,9 +16197,9 @@
       "ID": "MetalChain",
       "SetID": "cfbk359",
       "Name": "Refinery",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 93
     },
     {
       "ID": "Win5Years",
@@ -16224,9 +16229,9 @@
       "ID": "WinImpossible",
       "SetID": "cfbk359",
       "Name": "Against All Odds",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 130
     },
     {
       "ID": "WinNearArmory",
@@ -16522,7 +16527,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "WinNearFrosts",
@@ -16546,7 +16551,7 @@
       "Name": "Overgrown Library",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "WinNearPetrified",
@@ -16554,7 +16559,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "WinNearPresence",
@@ -16593,15 +16598,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18527,
+      "Progressed": 18532,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-17T16:58:16.5971694+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:05:48.5030878+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:04:53.1208347+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:58:08.4996257+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:05:48.5031774+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:57:48.4177915+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:04:53.1209157+00:00"
 }

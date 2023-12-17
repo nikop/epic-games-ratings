@@ -10,16 +10,16 @@
 | The field base | 40.00% | ~296 |
 | Survivors | 34.00% | ~252 |
 | The Condor | 32.00% | ~237 |
+| The End | 32.00% | ~237 |
 | The Alliance | 31.00% | ~230 |
-| The End | 31.00% | ~230 |
+| Krauta is alive | 25.00% | ~185 |
 | The Necroevolution | 25.00% | ~185 |
-| Krauta is alive | 24.00% | ~178 |
 | Peacemaker | 21.00% | ~156 |
 | Volcanologist | 20.00% | ~148 |
 | On her own | 18.00% | ~133 |
 | Evacuation | 17.00% | ~126 |
+| Beyond divisions | 17.00% | ~126 |
 | Fierce fight | 16.00% | ~119 |
-| Beyond divisions | 16.00% | ~119 |
 | Flying Objects Operator | 14.00% | ~104 |
 | I remember everything! | 12.00% | ~89 |
 | Another giant | 11.00% | ~82 |

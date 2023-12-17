@@ -3,7 +3,7 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 233,
-  "Ranking_Popularity": 519,
+  "Ranking_Popularity": 520,
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 380,
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 541,
+  "EOS_Progressed": 543,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2208,6 +2208,11 @@
       "Time": "2023-12-17T21:08:26.9623732+00:00",
       "NumProgressed": 541,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T22:08:26.2205664+00:00",
+      "NumProgressed": 543,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2322,9 +2327,9 @@
       "ID": "DamageThreshold",
       "SetID": "71c0n9i",
       "Name": "Critical Hit",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 92
     },
     {
       "ID": "Deepstrike",
@@ -2362,9 +2367,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 168
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2428,7 +2433,7 @@
       "Name": "Multi Kill",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "MultiplayerWins",
@@ -2524,7 +2529,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "TrojanHorse",
@@ -2548,15 +2553,15 @@
       "Name": "Adept",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 92
     },
     {
       "ID": "WielderLevel3",
@@ -2564,7 +2569,7 @@
       "Name": "Master",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "WielderLevel4",
@@ -2651,15 +2656,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 541,
+      "Progressed": 543,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:08:26.9623729+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:08:26.2205661+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:01:37.1730418+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:08:26.9624214+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:00:08.2390519+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:08:26.2206038+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 598,
+  "Ranking_Rating": 599,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 68,
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237344,
+  "EOS_Progressed": 237347,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -25607,6 +25607,11 @@
       "Time": "2023-12-17T21:07:05.4982689+00:00",
       "NumProgressed": 237344,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-17T22:05:48.5913846+00:00",
+      "NumProgressed": 237347,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -25634,7 +25639,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66456
+      "UsersEstimate": 66457
     },
     {
       "ID": "CENTAUR",
@@ -25754,7 +25759,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78324
+      "UsersEstimate": 78325
     },
     {
       "ID": "NOBUNAGA",
@@ -25882,22 +25887,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97311
+      "UsersEstimate": 97312
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 237344,
+      "Progressed": 237347,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:07:05.4982686+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:05:48.5913841+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:19.1296374+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:57:52.4079851+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:07:05.4984054+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:57:36.9182323+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:05:48.5915163+00:00"
 }

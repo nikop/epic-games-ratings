@@ -2,9 +2,9 @@
   "ID": "ba878400ac4f4833af4729cc8adde4f1",
   "Name": "Overloop",
   "ProductSlug": "overloop-f572c8",
-  "Ranking_EOS_Progress": 672,
+  "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 539,
+  "Ranking_EOS_NewPlayers": 541,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-08-26T12:00:00+00:00",
@@ -214,8 +214,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:29.5545439+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:08:31.1433417+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:08:29.0490284+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:06.9499883+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:00:53.4999446+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:08:31.1433526+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:59:39.0449418+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:08:29.0490409+00:00"
 }

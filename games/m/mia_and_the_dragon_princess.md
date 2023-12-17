@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Glass Act | 39.00% | ~37 |
+| Glass Act | 40.00% | ~38 |
 | Relight my Cannon | 38.00% | ~36 |
-| Tour Guide Extraordinaire | 36.00% | ~34 |
+| Tour Guide Extraordinaire | 37.00% | ~35 |
 | Explosive End | 24.00% | ~23 |
-| Snitch | 23.00% | ~22 |
+| Snitch | 24.00% | ~23 |
 | A Box of Tricks | 22.00% | ~21 |
 | Puzzle Prodigy | 22.00% | ~21 |
-| Codebreaker | 19.00% | ~18 |
-| Finger-Lickin' Bad | 19.00% | ~18 |
-| Set Sail | 19.00% | ~18 |
+| Codebreaker | 20.00% | ~19 |
+| Finger-Lickin' Bad | 20.00% | ~19 |
+| Set Sail | 20.00% | ~19 |
 | Bathroom Brawler | 17.00% | ~16 |
 | Breathless End | 17.00% | ~16 |
 | Backstory Buff | 16.00% | ~15 |
@@ -23,7 +23,7 @@
 | Fool's Gold | 3.00% | ~3 |
 | Escape Artist | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94 (Ranked 465)  
+Progressed: 94 (Ranked 466)  
 Completed: 2 (2.13%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |

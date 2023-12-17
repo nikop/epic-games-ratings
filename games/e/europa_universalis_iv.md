@@ -289,6 +289,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | We bled for this | 0.10% | ~478 |
 | Where the heart is | 0.10% | ~478 |
 | The White Elephant | 0.10% | ~478 |
+| Why is the Rûm gone!? | 0.10% | ~478 |
 | Winged Hussars | 0.10% | ~478 |
 | Wonderful | 0.10% | ~478 |
 | World Conqueror | 0.10% | ~478 |
@@ -365,12 +366,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Venetian Sea | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
 | Where are the penguins? | 0.00% | ~0 |
-| Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478,068 (Ranked 40)  
+Progressed: 478,108 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -611,7 +611,7 @@ Completed: 1 (0.00%) (Ranked 380)
 | 2023-12-14 | 474,899 | 1 |
 | 2023-12-15 | 475,873 | 1 |
 | 2023-12-16 | 477,098 | 1 |
-| 2023-12-17 | 478,068 | 1 |
+| 2023-12-17 | 478,108 | 1 |
 ## Awards
 Max (Educational): 7,422  (Ranked 54)  
 Sum: 61,252 (Ranked 24)  

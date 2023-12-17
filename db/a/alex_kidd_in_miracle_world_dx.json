@@ -2,9 +2,9 @@
   "ID": "de876d33cd8742ab90988913097c4ade",
   "Name": "Alex Kidd in Miracle World DX",
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
-  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 349,
+  "EOS_Progressed": 352,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.15,
+  "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -614,6 +614,11 @@
       "Time": "2023-12-17T18:05:14.1430721+00:00",
       "NumProgressed": 349,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-17T22:05:26.1751147+00:00",
+      "NumProgressed": 352,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -625,7 +630,7 @@
       "Name": "Collector",
       "Percentage": 1,
       "XP": 120,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ALL_NPC",
@@ -641,7 +646,7 @@
       "Name": "Champion",
       "Percentage": 1,
       "XP": 120,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BEAT_REMAKE_MODE",
@@ -657,15 +662,15 @@
       "Name": "Second Commander",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "EGLE_FREED",
       "SetID": "7im05fi",
       "Name": "Prisoner",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 77
     },
     {
       "ID": "GOOSEKA_DEFEATED",
@@ -673,7 +678,7 @@
       "Name": "First Commander",
       "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "GRIZZLY_DEFEATED",
@@ -681,7 +686,7 @@
       "Name": "Assailants",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -705,7 +710,7 @@
       "Name": "Pacifist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "NO_PURCHASES",
@@ -719,9 +724,9 @@
       "ID": "OX_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Wild Ox",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 154
+      "UsersEstimate": 151
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -737,7 +742,7 @@
       "Name": "Overwhelmed Beast",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "TELEPATHY_BALL_OBTAINED",
@@ -745,14 +750,14 @@
       "Name": "Magic Ball",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 349,
+      "Progressed": 352,
       "Completed": 4
     }
   ],
@@ -760,8 +765,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:06:34.6575116+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:05:26.1751143+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.260114+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:59:53.5377204+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:06:34.657526+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:58:59.6857236+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:05:26.1751349+00:00"
 }

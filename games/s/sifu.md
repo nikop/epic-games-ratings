@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~21,989 |
-| The Assault | 2.00% | ~14,659 |
-| Life is your teacher | 2.00% | ~14,659 |
-| Lightning Hands | 2.00% | ~14,659 |
+| The Old Grandmaster | 3.00% | ~21,990 |
+| The Assault | 2.00% | ~14,660 |
+| Life is your teacher | 2.00% | ~14,660 |
+| Lightning Hands | 2.00% | ~14,660 |
 | The Hateful Pole Fighter | 1.00% | ~7,330 |
 | A Lady's Blood in the Snow | 1.00% | ~7,330 |
 | Stuntmaster | 1.00% | ~7,330 |
@@ -22,11 +22,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 1.00% | ~423 |
 | Kill Nil | 0.90% | ~6,597 |
 | Path of the Prospect | 0.90% | ~6,597 |
-| Project Arena | 0.90% | ~380 |
+| Project Arena | 0.90% | ~381 |
 | Lady Wing Chun | 0.80% | ~5,864 |
 | Furious Fists | 0.80% | ~5,864 |
+| I know Kung-Fu | 0.80% | ~5,864 |
 | Qi Gong: Mind | 0.70% | ~5,131 |
-| I know Kung-Fu | 0.70% | ~5,131 |
 | Take damage to save time | 0.70% | ~5,131 |
 | Scareless | 0.60% | ~4,398 |
 | Dance of the Praying Mantis | 0.60% | ~4,398 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~42 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,963 (Ranked 24)  
+Progressed: 732,995 (Ranked 24)  
 Completed: 12,955 (1.77%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 12,955 (1.77%) (Ranked 138)
 | 2023-12-14 | 722,433 | 12,953 |
 | 2023-12-15 | 726,562 | 12,953 |
 | 2023-12-16 | 730,184 | 12,954 |
-| 2023-12-17 | 732,963 | 12,955 |
+| 2023-12-17 | 732,995 | 12,955 |
 ## Awards
 Max (Great Boss Battles): 6,944  (Ranked 55)  
 Sum: 12,182 (Ranked 84)  

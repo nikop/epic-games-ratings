@@ -4,7 +4,7 @@
   "ProductSlug": "bosorka-c0e6b6",
   "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 539,
+  "Ranking_EOS_NewPlayers": 499,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 121,
+  "EOS_Progressed": 122,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -396,6 +396,11 @@
       "Time": "2023-12-17T19:05:21.8372797+00:00",
       "NumProgressed": 121,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T22:05:18.0493614+00:00",
+      "NumProgressed": 122,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -469,7 +474,7 @@
       "ID": "RUNE_DROPEXTRAHEART",
       "SetID": "9433p49",
       "Name": "First time, yes?",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 55,
       "UsersEstimate": 70
     },
@@ -477,7 +482,7 @@
       "ID": "RUNE_DROPFIRSTAIDKIT",
       "SetID": "9433p49",
       "Name": "Witch\u0027s duty",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 55,
       "UsersEstimate": 71
     },
@@ -487,7 +492,7 @@
       "Name": "Devil\u0027s dozen",
       "Percentage": 26,
       "XP": 55,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "RUNE_LIGHTNINGSTUN",
@@ -503,30 +508,30 @@
       "Name": "A small victory",
       "Percentage": 16,
       "XP": 75,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "RUNE_STORM",
       "SetID": "9433p49",
       "Name": "Path of purity",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 55,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "RUNE_STUNHIT",
       "SetID": "9433p49",
       "Name": "Kind heart",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     }
   ],
   "AchievementSets": [
     {
       "ID": "9433p49",
       "IsBase": true,
-      "Progressed": 121,
+      "Progressed": 122,
       "Completed": 0
     }
   ],
@@ -534,8 +539,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:06:23.278681+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:05:18.0493608+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:28.7448357+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:59:01.9280003+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:06:23.2786911+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:58:24.6110613+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:05:18.0493727+00:00"
 }

@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 102,
+  "EOS_Progressed": 103,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -691,6 +691,11 @@
       "Time": "2023-12-17T19:08:15.9659613+00:00",
       "NumProgressed": 102,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T22:08:38.1571684+00:00",
+      "NumProgressed": 103,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -701,7 +706,7 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
       "UsersEstimate": 63
     },
@@ -773,7 +778,7 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -837,7 +842,7 @@
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 25,
       "UsersEstimate": 68
     },
@@ -869,7 +874,7 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -957,7 +962,7 @@
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -1045,7 +1050,7 @@
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "4n84pon",
       "Name": "Pimp My Raid",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
       "UsersEstimate": 19
     }
@@ -1054,7 +1059,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 102,
+      "Progressed": 103,
       "Completed": 0
     }
   ],
@@ -1062,8 +1067,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:08:42.817211+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:08:38.157168+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:01:33.0391476+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:08:42.8172344+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:00:05.3667244+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:08:38.1571922+00:00"
 }

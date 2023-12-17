@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 612,
+  "EOS_Progressed": 613,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.31,
   "EosHistory": [
@@ -2228,6 +2228,11 @@
       "Time": "2023-12-17T21:09:03.3025213+00:00",
       "NumProgressed": 612,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-17T22:08:52.955247+00:00",
+      "NumProgressed": 613,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -2240,7 +2245,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "achievement_10",
@@ -2286,9 +2291,9 @@
       "ID": "achievement_15",
       "SetID": "2cpn27e",
       "Name": "Memory Rouser",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 288
     },
     {
       "ID": "achievement_16",
@@ -2296,7 +2301,7 @@
       "Name": "Distance Devourer",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "achievement_17",
@@ -2352,7 +2357,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "achievement_23",
@@ -2376,7 +2381,7 @@
       "Name": "Volatile Vocation",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "achievement_26",
@@ -2392,7 +2397,7 @@
       "Name": "Mighty Marmelizer",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_28",
@@ -2408,7 +2413,7 @@
       "Name": "Fair Means or Foul",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_3",
@@ -2456,7 +2461,7 @@
       "Name": "Kemono at Heart",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "achievement_35",
@@ -2520,7 +2525,7 @@
       "Name": "Tsukumo Whisperer",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_42",
@@ -2576,7 +2581,7 @@
       "Name": "Haven Hunter",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "achievement_5",
@@ -2592,7 +2597,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "achievement_7",
@@ -2600,7 +2605,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "achievement_8",
@@ -2614,22 +2619,22 @@
       "ID": "achievement_9",
       "SetID": "2cpn27e",
       "Name": "Karakuri Minato",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 98
     }
   ],
   "AchievementSets": [
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 612,
+      "Progressed": 613,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:09:03.302521+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:08:52.9552464+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:59:59.110643+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:09:03.3025612+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:59:03.5797258+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:08:52.9552904+00:00"
 }

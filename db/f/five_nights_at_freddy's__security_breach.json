@@ -3,11 +3,11 @@
   "Name": "Five Nights at Freddy\u0027s: Security Breach",
   "ProductSlug": "five-nights-at-freddys-security-breach-8dee2a",
   "Ranking_Rating": 392,
-  "Ranking_Popularity": 486,
+  "Ranking_Popularity": 483,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 539,
+  "Ranking_EOS_NewPlayers": 541,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-03-01T00:00:00+00:00",
@@ -992,18 +992,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 221,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-12-17T21:59:14.331487+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 225,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 221,
-  "NumberOfAwardsMax": 34,
-  "MaxAwardTitle": "Amazing Characters",
+  "NumberOfAwards": 225,
+  "NumberOfAwardsMax": 35,
+  "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 32
+      "Count": 35
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1021,7 +1027,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1071,8 +1077,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:10.1176223+00:00",
-  "LastChanged": "2023-12-16T01:43:34.6350818+00:00",
+  "LastChanged": "2023-12-17T21:59:14.3314868+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:54.6565328+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:00:17.5197444+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:05:40.1642216+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:59:14.3314873+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:04:46.8735633+00:00"
 }

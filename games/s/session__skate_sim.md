@@ -6,24 +6,24 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,972 |
-| Keeping it classy | 28.00% | ~905 |
-| Welcome to the family | 22.00% | ~711 |
+| You're free now! | 61.00% | ~1,975 |
+| Keeping it classy | 28.00% | ~906 |
+| Welcome to the family | 22.00% | ~712 |
 | The finer things in life | 20.00% | ~647 |
 | Backpacker | 14.00% | ~453 |
 | Go with the Flow | 14.00% | ~453 |
 | The flip trick crown jewel | 11.00% | ~356 |
-| Keep the dream alive | 10.00% | ~323 |
-| Plastic Surgeon | 10.00% | ~323 |
-| The hard way | 10.00% | ~323 |
-| Upfront shredder | 10.00% | ~323 |
+| Keep the dream alive | 10.00% | ~324 |
+| Plastic Surgeon | 10.00% | ~324 |
+| The hard way | 10.00% | ~324 |
+| Upfront shredder | 10.00% | ~324 |
 | Good vibes | 9.00% | ~291 |
 | That pinch! | 8.00% | ~259 |
 | Tight lipslides | 8.00% | ~259 |
-| Bottom ply killer | 7.00% | ~226 |
-| Fashionista | 7.00% | ~226 |
-| Finally he zips it | 7.00% | ~226 |
-| G'Day Mate! | 7.00% | ~226 |
+| Bottom ply killer | 7.00% | ~227 |
+| Fashionista | 7.00% | ~227 |
+| Finally he zips it | 7.00% | ~227 |
+| G'Day Mate! | 7.00% | ~227 |
 | Commence the Hijinx! | 6.00% | ~194 |
 | DIY Boss | 6.00% | ~194 |
 | Fulfilled the dream | 6.00% | ~194 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,233 (Ranked 216)  
+Progressed: 3,237 (Ranked 216)  
 Completed: 2 (0.06%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,10 +271,10 @@ Completed: 2 (0.06%) (Ranked 321)
 | 2023-12-14 | 3,148 | 2 |
 | 2023-12-15 | 3,179 | 2 |
 | 2023-12-16 | 3,212 | 2 |
-| 2023-12-17 | 3,233 | 2 |
+| 2023-12-17 | 3,237 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 420)  
-Sum: 566 (Ranked 321)  
+Sum: 567 (Ranked 321)  
 Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
@@ -286,7 +286,7 @@ Diff (max vs sum): 99
 | This game has Amazing Characters | 49 |
 | This game is Extremely Fun | 47 |
 | This game has Amazing Storytelling | 46 |
-| This game is Relaxing | 44 |
+| This game is Relaxing | 45 |
 | This game has Quickly Understood Controls | 39 |
 | This game is Educational | 39 |
 | This game has Challenging Combat | 31 |
@@ -477,3 +477,4 @@ Diff (max vs sum): 99
 | 2023-12-14 | 4.69 | - | 59 | 563 |
 | 2023-12-15 | 4.69 | - | 59 | 564 |
 | 2023-12-16 | 4.69 | - | 59 | 566 |
+| 2023-12-17 | 4.69 | - | 59 | 567 |

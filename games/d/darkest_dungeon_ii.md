@@ -6,10 +6,11 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 7.00% | ~210 |
+| Malpractice Assurance | 7.00% | ~211 |
 | This guy... again? | 4.00% | ~120 |
 | Lost and Found | 4.00% | ~120 |
 | This Belongs in a Museum | 3.00% | ~3,844 |
+| Creep and Sleep | 3.00% | ~3,844 |
 | Overdue Notice | 3.00% | ~3,844 |
 | Escape from the Black Hole | 3.00% | ~3,844 |
 | Autodidact | 3.00% | ~3,844 |
@@ -19,7 +20,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Serenity Now! | 2.00% | ~2,563 |
 | It Rings a Bell | 2.00% | ~2,563 |
 | Not Today! | 2.00% | ~2,563 |
-| Creep and Sleep | 2.00% | ~2,563 |
 | Meat and Greet | 2.00% | ~2,563 |
 | Catch and Decease | 2.00% | ~2,563 |
 | It Happens | 2.00% | ~2,563 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,126 (Ranked 85)  
+Progressed: 128,139 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 3 (0.00%) (Ranked 380)
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
-| 2023-12-17 | 128,126 | 3 |
+| 2023-12-17 | 128,139 | 3 |
 ## Awards
 Max (Character Customization): 7,763  (Ranked 50)  
 Sum: 20,673 (Ranked 58)  

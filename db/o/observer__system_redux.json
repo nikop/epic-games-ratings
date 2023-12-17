@@ -2,12 +2,12 @@
   "ID": "71e66acf6bb34733bd98514ebf9fcaf8",
   "Name": "Observer: System Redux",
   "ProductSlug": "observer-system-redux",
-  "Ranking_Rating": 800,
+  "Ranking_Rating": 799,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 539,
+  "Ranking_EOS_NewPlayers": 541,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-11-10T17:00:00+00:00",
@@ -127,6 +127,6 @@
   "FirstSeenRating": "2022-10-25T15:33:31.63586+00:00",
   "LastChanged": "2023-11-26T07:57:10.1954071+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:15.7608769+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:57:15.1105886+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:04:04.5378164+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:57:11.234401+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:03:37.8751956+00:00"
 }

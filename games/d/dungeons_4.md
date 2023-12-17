@@ -14,7 +14,7 @@
 | Thalya's Concentrated Fury | 68.00% | ~398 |
 | Bad Elves Go Everywhere | 68.00% | ~398 |
 | Heroes’ Gorge | 64.00% | ~375 |
-| Master of Magic | 62.00% | ~363 |
+| Master of Magic | 63.00% | ~369 |
 | Unicorn steaks – fresh off the hoof! | 61.00% | ~357 |
 | Magic Accidents | 59.00% | ~346 |
 | The Ascent | 58.00% | ~340 |
@@ -26,14 +26,14 @@
 | “… like son” | 51.00% | ~299 |
 | YOU SHALL NOT PASS! | 50.00% | ~293 |
 | The Cathedral of Light | 47.00% | ~275 |
+| Shame! Shame! Shame! | 47.00% | ~275 |
 | Dungeonlord Gorgu | 46.00% | ~270 |
-| Shame! Shame! Shame! | 46.00% | ~270 |
 | Pure Dynamite! | 45.00% | ~264 |
 | Tanos' Crusade Against Thalya | 44.00% | ~258 |
 | Mana Cannon | 41.00% | ~240 |
 | All’s Well That Ends Evil | 38.00% | ~223 |
+| The Duel | 35.00% | ~205 |
 | Unstoppable Horde | 34.00% | ~199 |
-| The Duel | 34.00% | ~199 |
 | Master of the Undead | 33.00% | ~193 |
 | If Looks Could Kill | 32.00% | ~188 |
 | The Finitude Drill | 30.00% | ~176 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 9.00% | ~53 |
 | I Don't Need Any Help | 8.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 586 (Ranked 317)  
+Progressed: 586 (Ranked 316)  
 Completed: 17 (2.90%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |

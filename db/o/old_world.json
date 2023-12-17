@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 320,
+  "Ranking_Rating": 321,
   "Ranking_Popularity": 278,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 155,
@@ -2154,9 +2154,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15803,
+  "EOS_Progressed": 15805,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17829,6 +17829,11 @@
       "Time": "2023-12-17T20:09:36.4486781+00:00",
       "NumProgressed": 15803,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-17T22:09:15.9803242+00:00",
+      "NumProgressed": 15805,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -20382,9 +20387,9 @@
       "ID": "ACHIEVEMENT_EGYPT4_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Qadesh Victory",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_EGYPT4_MUWATALLI_DEFEAT",
@@ -20575,21 +20580,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15803,
+      "Progressed": 15805,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15803,
+      "Progressed": 15805,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-15T15:02:40.4686922+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:09:34.3173611+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:09:15.9803238+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:02:54.4606324+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:09:34.3182357+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:02:49.6343144+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:09:15.981198+00:00"
 }

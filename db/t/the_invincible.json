@@ -2111,9 +2111,9 @@
       "ID": "AchvKrautaAlive",
       "SetID": "1hj060c",
       "Name": "Krauta is alive",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 185
     },
     {
       "ID": "AchvLava",
@@ -2231,17 +2231,17 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 55,
-      "UsersEstimate": 230
+      "UsersEstimate": 237
     },
     {
       "ID": "AchvUnity",
       "SetID": "1hj060c",
       "Name": "Beyond divisions",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 126
     }
   ],
   "AchievementSets": [
@@ -2254,8 +2254,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-17T21:09:28.4507599+00:00",
+  "LastChanged_Achievements": "2023-12-17T22:09:11.1379858+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-17T20:57:08.7954769+00:00",
-  "LastUpdate_Achievements": "2023-12-17T21:09:28.4507807+00:00"
+  "LastUpdate_Ratings": "2023-12-17T21:57:07.1442035+00:00",
+  "LastUpdate_Achievements": "2023-12-17T22:09:11.1380117+00:00"
 }

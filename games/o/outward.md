@@ -1,27 +1,27 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 513)  
+Rating: 4.55 (Ranked 512)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~2,944 |
-| Ready for Winter | 64.00% | ~2,547 |
-| Ready for Summer | 51.00% | ~2,029 |
-| Cordon Bleu | 43.00% | ~1,711 |
-| Tapped! | 37.00% | ~1,472 |
-| Eureka | 32.00% | ~1,273 |
+| Venture Outward | 74.00% | ~2,946 |
+| Ready for Winter | 64.00% | ~2,548 |
+| Ready for Summer | 51.00% | ~2,030 |
+| Cordon Bleu | 43.00% | ~1,712 |
+| Tapped! | 37.00% | ~1,473 |
+| Eureka | 32.00% | ~1,274 |
 | Scourge Slayer | 25.00% | ~995 |
-| Science, Troglodyte! | 23.00% | ~915 |
-| Exceptional Skill | 22.00% | ~875 |
-| Home Sweet Home | 22.00% | ~875 |
+| Science, Troglodyte! | 23.00% | ~916 |
+| Exceptional Skill | 22.00% | ~876 |
+| Home Sweet Home | 22.00% | ~876 |
 | Encyclopedic! | 19.00% | ~756 |
-| The Power of Family | 17.00% | ~676 |
+| The Power of Family | 17.00% | ~677 |
 | A Fortress Toppled! | 16.00% | ~637 |
 | Apex Predator | 16.00% | ~637 |
-| Strange amalgams | 12.00% | ~477 |
-| The Power of Faith | 12.00% | ~477 |
+| Strange amalgams | 12.00% | ~478 |
+| The Power of Faith | 12.00% | ~478 |
 | The Power of Freedom | 9.00% | ~358 |
 | Ace Detective | 8.00% | ~318 |
 | Gift from the Ancestors | 8.00% | ~318 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~16 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,979 (Ranked 205)  
+Progressed: 3,981 (Ranked 205)  
 Completed: 5 (0.13%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 5 (0.13%) (Ranked 286)
 | 2023-12-14 | 3,790 | 4 |
 | 2023-12-15 | 3,863 | 5 |
 | 2023-12-16 | 3,940 | 5 |
-| 2023-12-17 | 3,979 | 5 |
+| 2023-12-17 | 3,981 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 483)  
 Sum: 246 (Ranked 389)  
