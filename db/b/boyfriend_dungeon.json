@@ -4,7 +4,7 @@
   "ProductSlug": "boyfriend-dungeon",
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-08-11T17:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:21.1103556+00:00",
   "LastChanged": "2023-03-31T05:58:21.1103558+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.6306489+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:59:54.1745302+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:03:51.4053379+00:00"
+  "LastUpdate_Ratings": "2023-12-17T12:01:31.0409843+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:04:44.3222973+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3771,9 +3771,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32352,
+  "EOS_Progressed": 32359,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -22596,6 +22596,11 @@
       "Time": "2023-12-17T08:03:58.2240694+00:00",
       "NumProgressed": 32352,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-17T12:04:45.0147743+00:00",
+      "NumProgressed": 32359,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -22719,7 +22724,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2588
+      "UsersEstimate": 2589
     },
     {
       "ID": "Escape_Artist",
@@ -22911,7 +22916,7 @@
       "Name": "Stylish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3235
+      "UsersEstimate": 3236
     },
     {
       "ID": "Summoner",
@@ -22935,7 +22940,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "Teamwork",
@@ -23014,7 +23019,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32352,
+      "Progressed": 32359,
       "Completed": 69
     }
   ],
@@ -23022,8 +23027,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-17T05:57:38.4660594+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:03:51.8481816+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:04:45.0147738+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.1146147+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:57:29.8331934+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:03:51.8483158+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:58:01.0971276+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:04:45.0148876+00:00"
 }

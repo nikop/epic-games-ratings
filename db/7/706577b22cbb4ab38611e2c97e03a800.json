@@ -4,7 +4,7 @@
   "ProductSlug": "geometric-sniper-z-ef97ef",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-09-08T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -594,6 +594,11 @@
       "Time": "2023-12-17T08:04:53.4463222+00:00",
       "NumProgressed": 162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T12:05:58.723036+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-28T19:04:41.1727076+00:00",
@@ -606,7 +611,7 @@
       "Name": "MISSION 01",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT_AV_02",
@@ -614,15 +619,15 @@
       "Name": "MISSION 02",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACHIEVEMENT_AV_03",
       "SetID": "b50kim2",
       "Name": "MISSION 03",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_AV_04",
@@ -830,7 +835,7 @@
       "Name": "MY 4TH REWARD",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_MR_05",
@@ -886,7 +891,7 @@
       "Name": "RUNAWAY 04",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_RW_05",
@@ -964,9 +969,9 @@
       "ID": "ACHIEVEMENT_SURV_01",
       "SetID": "b50kim2",
       "Name": "SURVIVE MAP 01",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_SURV_02",
@@ -1005,14 +1010,14 @@
     {
       "ID": "b50kim2",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:04:47.3545677+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:05:58.7230357+00:00",
   "LastUpdate_AppInfo": "2023-12-12T07:57:15.5904158+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:59:24.5704618+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:04:47.3546066+00:00"
+  "LastUpdate_Ratings": "2023-12-17T12:00:48.5016311+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:05:58.7230677+00:00"
 }

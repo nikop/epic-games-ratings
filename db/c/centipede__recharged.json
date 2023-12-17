@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -335,9 +335,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23541,
+  "EOS_Progressed": 23542,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 546,
+  "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -20125,6 +20125,11 @@
       "Time": "2023-12-17T11:05:43.8479793+00:00",
       "NumProgressed": 23541,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-12-17T12:07:10.1463696+00:00",
+      "NumProgressed": 23542,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 16,
@@ -20184,7 +20189,7 @@
       "Name": "Fireworks",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 7062
+      "UsersEstimate": 7063
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -20192,7 +20197,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "I_Am_The_Storm",
@@ -20240,7 +20245,7 @@
       "Name": "Sole Survivor",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 8239
+      "UsersEstimate": 8240
     },
     {
       "ID": "Still_Burning",
@@ -20256,22 +20261,22 @@
       "Name": "The Reaper",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 23541,
+      "Progressed": 23542,
       "Completed": 117
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-12-12T11:59:02.4722779+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:05:43.8479791+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:07:10.1463692+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:14.2267698+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:02:38.8625891+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:05:43.8480802+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:57:06.8456068+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:07:10.1464756+00:00"
 }

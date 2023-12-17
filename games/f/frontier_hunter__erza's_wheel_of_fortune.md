@@ -7,7 +7,7 @@
 | Travel Streamer | 92.00% | ~571 |
 | Training Simulation | 78.00% | ~484 |
 | Kuku Bird Hunter | 65.00% | ~404 |
-| Storm Traveller | 59.00% | ~366 |
+| Storm Traveller | 60.00% | ~373 |
 | Wolf King Killer | 54.00% | ~335 |
 | Fashion Connoisseur | 52.00% | ~323 |
 | Arms Mechanic | 48.00% | ~298 |
@@ -16,10 +16,10 @@
 | Beginner Artificer | 37.00% | ~230 |
 | Beginner Cook | 36.00% | ~224 |
 | Seal Breaker | 31.00% | ~193 |
-| Handyman | 27.00% | ~168 |
+| Handyman | 28.00% | ~174 |
 | Giant Lizard Killer | 26.00% | ~161 |
 | Guardian | 25.00% | ~155 |
-| Nosebleeder | 24.00% | ~149 |
+| Nosebleeder | 25.00% | ~155 |
 | Trader | 21.00% | ~130 |
 | Weapon Boost | 21.00% | ~130 |
 | Flying Kobold Killer | 18.00% | ~112 |
@@ -34,9 +34,9 @@
 | Face Slapper | 14.00% | ~87 |
 | Boss challenge | 10.00% | ~62 |
 | Berserker Slayer | 10.00% | ~62 |
+| Master Cook | 9.00% | ~56 |
 | Giantess Slayer | 9.00% | ~56 |
 | Warden Slayer | 9.00% | ~56 |
-| Master Cook | 8.00% | ~50 |
 | Silver Moon Wolf King Challenge | 3.00% | ~19 |
 | Rebellious | 2.00% | ~12 |
 | Blade Mantis Challenge | 2.00% | ~12 |

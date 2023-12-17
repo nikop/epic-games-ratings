@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237308,
+  "EOS_Progressed": 237310,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -25557,6 +25557,11 @@
       "Time": "2023-12-17T11:05:33.6000709+00:00",
       "NumProgressed": 237308,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-17T12:06:57.4494072+00:00",
+      "NumProgressed": 237310,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -25584,7 +25589,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66446
+      "UsersEstimate": 66447
     },
     {
       "ID": "CENTAUR",
@@ -25760,7 +25765,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11865
+      "UsersEstimate": 11866
     },
     {
       "ID": "RESPWND",
@@ -25808,7 +25813,7 @@
       "Name": "TAKATORA",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11865
+      "UsersEstimate": 11866
     },
     {
       "ID": "TRICKUPYOURSLEEVE",
@@ -25832,22 +25837,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97296
+      "UsersEstimate": 97297
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 237308,
+      "Progressed": 237310,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:05:33.6000706+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:06:57.4494068+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:19.1296374+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:57:16.0139956+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:05:33.600204+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:57:44.6899102+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:06:57.4495885+00:00"
 }

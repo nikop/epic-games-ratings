@@ -4,7 +4,7 @@
   "ProductSlug": "bursthero-dd5a56",
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-12-23T00:00:00+00:00",
@@ -28,9 +28,563 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-12-17T12:04:51.9829669+00:00",
+  "TotalAchievements": 69,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACED",
+      "SetID": "1fek4an",
+      "Name": "ACED!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHALLENGER",
+      "SetID": "1fek4an",
+      "Name": "New Challenger",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHALLENGER_CHAOS",
+      "SetID": "1fek4an",
+      "Name": "Chaos Challenger",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMBO_BULLETSIZE",
+      "SetID": "1fek4an",
+      "Name": "Hands Up",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMBO_CRIT",
+      "SetID": "1fek4an",
+      "Name": "Lock the Head",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMBO_DODGE",
+      "SetID": "1fek4an",
+      "Name": "Invincible",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMBO_DRONE",
+      "SetID": "1fek4an",
+      "Name": "Skynet",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMBO_HP",
+      "SetID": "1fek4an",
+      "Name": "Steel Egg",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMBO_SWORD",
+      "SetID": "1fek4an",
+      "Name": "Demon Sword",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DISASTER_5CARDS",
+      "SetID": "1fek4an",
+      "Name": "Disaster Strikes",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DISASTER_SUDDENDEATH",
+      "SetID": "1fek4an",
+      "Name": "Glass Cannon",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DISASTER_THUNDER",
+      "SetID": "1fek4an",
+      "Name": "Thunder",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FROG_KILLER",
+      "SetID": "1fek4an",
+      "Name": "Frog Killer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLDENWEAPON_1",
+      "SetID": "1fek4an",
+      "Name": "Collector",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLDENWEAPON_10",
+      "SetID": "1fek4an",
+      "Name": "Arms Dealer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLDENWEAPON_30",
+      "SetID": "1fek4an",
+      "Name": "Lord of War",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEROSTAR_A",
+      "SetID": "1fek4an",
+      "Name": "Graduate(Android)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEROSTAR_B",
+      "SetID": "1fek4an",
+      "Name": "Graduate(Bones)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEROSTAR_C",
+      "SetID": "1fek4an",
+      "Name": "Graduate(Cowboy)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEROSTAR_D",
+      "SetID": "1fek4an",
+      "Name": "Graduate(Demon)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEROSTAR_G",
+      "SetID": "1fek4an",
+      "Name": "Graduate(Geisha)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEROSTAR_H",
+      "SetID": "1fek4an",
+      "Name": "Graduate(Hunter)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEROSTAR_J",
+      "SetID": "1fek4an",
+      "Name": "Graduate(Joes)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEROSTAR_K",
+      "SetID": "1fek4an",
+      "Name": "Graduate(Knight)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEROSTAR_M",
+      "SetID": "1fek4an",
+      "Name": "Graduate(Merc)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEROSTAR_N",
+      "SetID": "1fek4an",
+      "Name": "Graduate(Nerd)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEROSTAR_P",
+      "SetID": "1fek4an",
+      "Name": "Graduate(Pirate)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEROSTAR_S",
+      "SetID": "1fek4an",
+      "Name": "Graduate(Smith)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEROSTAR_T",
+      "SetID": "1fek4an",
+      "Name": "Graduate(Tough)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEROSTAR_V",
+      "SetID": "1fek4an",
+      "Name": "Graduate(Vampire)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEROSTAR_W",
+      "SetID": "1fek4an",
+      "Name": "Graduate(Witch)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEROSTAR_Y",
+      "SetID": "1fek4an",
+      "Name": "Graduate(Ying)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEROSTAR_Z",
+      "SetID": "1fek4an",
+      "Name": "Graduate(Zen)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILL_DEMON_SWORD",
+      "SetID": "1fek4an",
+      "Name": "Physical Purification",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_0_0",
+      "SetID": "1fek4an",
+      "Name": "Grass",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_0_12",
+      "SetID": "1fek4an",
+      "Name": "Grass(L12)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_0_16",
+      "SetID": "1fek4an",
+      "Name": "Grass(L16)",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_0_20",
+      "SetID": "1fek4an",
+      "Name": "Grass(L20)",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_0_4",
+      "SetID": "1fek4an",
+      "Name": "Grass(L4)",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_0_8",
+      "SetID": "1fek4an",
+      "Name": "Grass(L8)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_1_0",
+      "SetID": "1fek4an",
+      "Name": "Boneyard",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_1_12",
+      "SetID": "1fek4an",
+      "Name": "Boneyard(L12)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_1_16",
+      "SetID": "1fek4an",
+      "Name": "Boneyard(L16)",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_1_20",
+      "SetID": "1fek4an",
+      "Name": "Boneyard(L20)",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_1_4",
+      "SetID": "1fek4an",
+      "Name": "Boneyard(L4)",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_1_8",
+      "SetID": "1fek4an",
+      "Name": "Boneyard(L8)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_2_0",
+      "SetID": "1fek4an",
+      "Name": "Castle",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_2_12",
+      "SetID": "1fek4an",
+      "Name": "Castle(L12)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_2_16",
+      "SetID": "1fek4an",
+      "Name": "Castle(L16)",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_2_20",
+      "SetID": "1fek4an",
+      "Name": "Castle(L20)",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_2_4",
+      "SetID": "1fek4an",
+      "Name": "Castle(L4)",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_2_8",
+      "SetID": "1fek4an",
+      "Name": "Castle(L8)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_3_0",
+      "SetID": "1fek4an",
+      "Name": "\u5730\u72F1",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_3_12",
+      "SetID": "1fek4an",
+      "Name": "\u5730\u72F1(L12)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_3_16",
+      "SetID": "1fek4an",
+      "Name": "\u5730\u72F1(L16)",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_3_20",
+      "SetID": "1fek4an",
+      "Name": "\u5730\u72F1(L20)",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_3_4",
+      "SetID": "1fek4an",
+      "Name": "\u5730\u72F1(L4)",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_COMPLETE_3_8",
+      "SetID": "1fek4an",
+      "Name": "\u5730\u72F1(L8)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MAP_CANDLE",
+      "SetID": "1fek4an",
+      "Name": "This is not Castlevania",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MAP_ZOMBIE",
+      "SetID": "1fek4an",
+      "Name": "Restless Nights",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MISS",
+      "SetID": "1fek4an",
+      "Name": "MISS!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NERD_PERFECT_GUN",
+      "SetID": "1fek4an",
+      "Name": "Perfect",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NERD_PERFECT_GUN_ADVANCED",
+      "SetID": "1fek4an",
+      "Name": "Ultimate",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NO_HURT",
+      "SetID": "1fek4an",
+      "Name": "No Damage",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SHOP_LEVEL_UP_COMBO_2",
+      "SetID": "1fek4an",
+      "Name": "Level Skip",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SHOP_LEVEL_UP_COMBO_MAX",
+      "SetID": "1fek4an",
+      "Name": "One Step",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SHOW_ALL",
+      "SetID": "1fek4an",
+      "Name": "Perfect Show",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TEAMWORK",
+      "SetID": "1fek4an",
+      "Name": "Teamwork",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UPGRADE_DONE",
+      "SetID": "1fek4an",
+      "Name": "Ready for Battle",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "1fek4an",
@@ -40,8 +594,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:03:57.0333922+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:04:51.9829651+00:00",
   "LastUpdate_AppInfo": "2023-12-13T11:57:08.7489614+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:59:44.5379524+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:03:57.0333936+00:00"
+  "LastUpdate_Ratings": "2023-12-17T12:01:16.1166522+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:04:52.0154622+00:00"
 }

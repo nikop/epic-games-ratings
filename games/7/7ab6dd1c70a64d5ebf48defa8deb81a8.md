@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 42.00% | ~286 |
-| Trinity | 16.00% | ~109 |
-| I Found It | 13.00% | ~89 |
-| A Taste of Wrath | 12.00% | ~82 |
-| Shatter Them All | 12.00% | ~82 |
-| Find Allies | 11.00% | ~75 |
-| Geared Up | 11.00% | ~75 |
-| Fashion Victim | 11.00% | ~75 |
-| The Collector | 11.00% | ~75 |
-| Adventurer | 10.00% | ~68 |
-| Tributes of Caladrias | 9.00% | ~61 |
+| Break Out | 42.00% | ~289 |
+| Trinity | 16.00% | ~110 |
+| I Found It | 13.00% | ~90 |
+| A Taste of Wrath | 12.00% | ~83 |
+| Shatter Them All | 12.00% | ~83 |
+| The Collector | 12.00% | ~83 |
+| Find Allies | 11.00% | ~76 |
+| Geared Up | 11.00% | ~76 |
+| Fashion Victim | 11.00% | ~76 |
+| Adventurer | 9.00% | ~62 |
+| Tributes of Caladrias | 9.00% | ~62 |
 | Scholar | 8.00% | ~55 |
 | Stone Collection | 8.00% | ~55 |
 | Powerful Allies | 7.00% | ~48 |
 | Big Bazar | 7.00% | ~48 |
 | Essence Blow | 5.00% | ~34 |
-| Calm before the Storm | 4.00% | ~27 |
-| The Mentor | 4.00% | ~27 |
-| Alchemist | 4.00% | ~27 |
-| To Battle | 3.00% | ~20 |
-| Godslayer | 3.00% | ~20 |
-| Airborne | 3.00% | ~20 |
-| Shatterer | 3.00% | ~20 |
-| Fine Feathers Make Fine Birds | 3.00% | ~20 |
+| Calm before the Storm | 4.00% | ~28 |
+| The Mentor | 4.00% | ~28 |
+| Alchemist | 4.00% | ~28 |
+| To Battle | 3.00% | ~21 |
+| Godslayer | 3.00% | ~21 |
+| Airborne | 3.00% | ~21 |
+| Shatterer | 3.00% | ~21 |
+| Fine Feathers Make Fine Birds | 3.00% | ~21 |
 | Clear Sight | 2.00% | ~14 |
 | Miner | 2.00% | ~14 |
 | A Queen's Tale | 2.00% | ~14 |
@@ -41,7 +41,7 @@
 | Shardbearer | 0.60% | ~4 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682 (Ranked 296)  
+Progressed: 689 (Ranked 296)  
 Completed: 3 (0.44%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,4 +107,4 @@ Completed: 3 (0.44%) (Ranked 218)
 | 2023-12-14 | 376 | 3 |
 | 2023-12-15 | 486 | 3 |
 | 2023-12-16 | 621 | 3 |
-| 2023-12-17 | 682 | 3 |
+| 2023-12-17 | 689 | 3 |

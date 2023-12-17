@@ -353,9 +353,9 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "g2",
@@ -433,9 +433,9 @@
       "ID": "jk2",
       "SetID": "b1ggf28",
       "Name": "Saving Lives",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "jk3",
@@ -664,8 +664,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:04:39.3663954+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:05:48.4060641+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-17T11:02:39.4206336+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:04:39.3664221+00:00"
+  "LastUpdate_Ratings": "2023-12-17T12:03:06.2368673+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:05:48.4060922+00:00"
 }

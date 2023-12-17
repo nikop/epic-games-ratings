@@ -5,38 +5,38 @@ Rating: 4.35 (Ranked 799)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 89.00% | ~407 |
-| Luc Piette | 76.00% | ~347 |
-| Angeline Van den Bosch | 74.00% | ~338 |
-| Elizabeth Padget | 70.00% | ~320 |
-| Little Grey Cells | 69.00% | ~315 |
+| It Wasn’t a Burglary | 89.00% | ~408 |
+| Luc Piette | 76.00% | ~348 |
+| Angeline Van den Bosch | 73.00% | ~334 |
+| Elizabeth Padget | 70.00% | ~321 |
+| Little Grey Cells | 69.00% | ~316 |
 | The Bracelet | 66.00% | ~302 |
 | Fine-toothed Comb | 54.00% | ~247 |
 | The Blackmail | 54.00% | ~247 |
 | Florette Duval | 54.00% | ~247 |
 | Major Felix Hagen | 54.00% | ~247 |
 | Order and Method | 52.00% | ~238 |
-| The Altercation | 50.00% | ~228 |
-| Truth from Within | 48.00% | ~219 |
+| The Altercation | 50.00% | ~229 |
+| Truth from Within | 48.00% | ~220 |
 | The Major | 47.00% | ~215 |
 | Comtesse Margaux de Vos | 45.00% | ~206 |
-| Curious and Beautiful | 44.00% | ~201 |
-| Jacqueline “Jackie” Conrad | 44.00% | ~201 |
-| The Interrogations | 44.00% | ~201 |
-| Well-acquainted | 42.00% | ~192 |
-| Zakariya Demir | 41.00% | ~187 |
-| Well-read | 39.00% | ~178 |
+| Curious and Beautiful | 44.00% | ~202 |
+| Jacqueline “Jackie” Conrad | 44.00% | ~202 |
+| The Interrogations | 44.00% | ~202 |
+| Well-acquainted | 41.00% | ~188 |
+| Zakariya Demir | 41.00% | ~188 |
+| Well-read | 39.00% | ~179 |
 | Cassandra Van den Bosch | 38.00% | ~174 |
 | The Secret | 37.00% | ~169 |
 | Gedeon Demir | 35.00% | ~160 |
-| Rehana Piette | 34.00% | ~155 |
+| Rehana Piette | 34.00% | ~156 |
 | Instinct is Marvellous | 33.00% | ~151 |
 | Ernesto da Silva | 33.00% | ~151 |
 | Inge Frank | 31.00% | ~142 |
 | The Search | 31.00% | ~142 |
 | Hugo Beckers | 30.00% | ~137 |
 | The Family | 28.00% | ~128 |
-| Well-travelled | 27.00% | ~123 |
+| Well-travelled | 27.00% | ~124 |
 | Thinking of Everything | 26.00% | ~119 |
 | Viscount Edwin Van den Bosch | 26.00% | ~119 |
 | Exquisite Artwork | 25.00% | ~114 |
@@ -52,7 +52,7 @@ Rating: 4.35 (Ranked 799)
 | Room with a View | 7.00% | ~32 |
 | Work-life Balance | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457 (Ranked 332)  
+Progressed: 458 (Ranked 332)  
 Completed: 6 (1.31%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,6 +138,7 @@ Completed: 6 (1.31%) (Ranked 150)
 | 2023-12-14 | 451 | 6 |
 | 2023-12-15 | 454 | 6 |
 | 2023-12-16 | 457 | 6 |
+| 2023-12-17 | 458 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

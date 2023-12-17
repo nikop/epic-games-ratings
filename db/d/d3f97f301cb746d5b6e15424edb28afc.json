@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -3463,9 +3463,9 @@
       "ID": "GSS_ACH_18_ALIENS",
       "SetID": "5fn8ia4",
       "Name": "ALIENS!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 575
+      "UsersEstimate": 588
     },
     {
       "ID": "GSS_ACH_19_RUDY",
@@ -3647,9 +3647,9 @@
       "ID": "GSS_ACH_42_CARAVAN_01",
       "SetID": "5fn8ia4",
       "Name": "Help Wanted!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 863
     },
     {
       "ID": "GSS_ACH_43_CARAVAN_02",
@@ -3984,8 +3984,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-15T16:57:11.4281266+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:04:58.1821373+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:06:12.581633+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:58:05.1992814+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:04:58.1822151+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:58:51.1104148+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:06:12.5817362+00:00"
 }

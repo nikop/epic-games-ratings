@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5773,
+  "EOS_Progressed": 5775,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8275,6 +8275,11 @@
       "Time": "2023-12-17T11:03:38.447766+00:00",
       "NumProgressed": 5773,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-17T12:04:27.5394559+00:00",
+      "NumProgressed": 5775,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8286,7 +8291,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "10",
@@ -8334,7 +8339,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "16",
@@ -8374,7 +8379,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "20",
@@ -8438,7 +8443,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "28",
@@ -8486,7 +8491,7 @@
       "Name": "My Final Form",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "33",
@@ -8518,7 +8523,7 @@
       "Name": "Fiery Friend",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "37",
@@ -8542,7 +8547,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "4",
@@ -8558,7 +8563,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "41",
@@ -8638,7 +8643,7 @@
       "Name": "Here be Dragons",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "46",
@@ -8646,7 +8651,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "47",
@@ -8668,9 +8673,9 @@
       "ID": "49",
       "SetID": "7132754",
       "Name": "Mighty Hoard",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 116
     },
     {
       "ID": "50",
@@ -8686,7 +8691,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "52",
@@ -8694,7 +8699,7 @@
       "Name": "Sehiran Oasis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "53",
@@ -8710,7 +8715,7 @@
       "Name": "Chaos Surge",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "55",
@@ -8734,7 +8739,7 @@
       "Name": "Spoils of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "58",
@@ -8765,13 +8770,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5773,
+      "Progressed": 5775,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5773,
+      "Progressed": 5775,
       "Completed": 7
     }
   ],
@@ -8779,8 +8784,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:03:38.4477657+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:04:27.5394556+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:58:09.9161784+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:03:38.4478368+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:58:57.7178217+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:04:27.5395289+00:00"
 }

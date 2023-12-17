@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9828,9 +9828,9 @@
       "Count": 1018
     }
   ],
-  "EOS_Progressed": 127973,
+  "EOS_Progressed": 127985,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1975,
+  "EOS_NewPlayers": 1981,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35473,6 +35473,11 @@
       "Time": "2023-12-17T11:08:45.7752303+00:00",
       "NumProgressed": 127973,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T12:09:39.8537634+00:00",
+      "NumProgressed": 127985,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35484,7 +35489,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -35492,7 +35497,7 @@
       "Name": "Serenity Now!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -35500,7 +35505,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -35514,9 +35519,9 @@
       "ID": "altar_of_hope_unlock_hero_flagellant",
       "SetID": "64l4lke",
       "Name": "Resurrection",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1280
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -35612,7 +35617,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3839
+      "UsersEstimate": 3840
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35636,7 +35641,7 @@
       "Name": "Not Today!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35644,7 +35649,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35684,7 +35689,7 @@
       "Name": "Meat and Greet",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35700,7 +35705,7 @@
       "Name": "Catch and Decease",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "combat_kill_librarian",
@@ -35708,7 +35713,7 @@
       "Name": "Overdue Notice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35724,7 +35729,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35762,9 +35767,9 @@
       "ID": "combat_run_kill_three_lair_bosses",
       "SetID": "64l4lke",
       "Name": "Hat Trick",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 384
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -35780,7 +35785,7 @@
       "Name": "Rush Hour",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -35804,7 +35809,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "driving_distance_easy",
@@ -35836,7 +35841,7 @@
       "Name": "Autodidact",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3839
+      "UsersEstimate": 3840
     },
     {
       "ID": "hero_story_complete_all",
@@ -35892,7 +35897,7 @@
       "Name": "FNG",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "inn_visit_all_variants",
@@ -36020,7 +36025,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "combat_kill_collector",
@@ -36076,7 +36081,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "quest_complete_crusader",
@@ -36115,21 +36120,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127973,
+      "Progressed": 127985,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2842,
+      "Progressed": 2854,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-17T10:57:39.1040645+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:08:45.7752301+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:09:39.853763+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:57:39.1040649+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:08:45.7753878+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:58:14.138581+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:09:39.8539652+00:00"
 }

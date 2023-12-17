@@ -2,9 +2,9 @@
   "ID": "e9543b5d696d4129af27a26b22ceeaff",
   "Name": "International Basketball Manager 23",
   "ProductSlug": "international-basketball-manager-23-561576",
-  "Ranking_EOS_Progress": 558,
+  "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
@@ -366,9 +366,9 @@
       "ID": "ACH_STAR_IS_BORN",
       "SetID": "1lnhagg",
       "Name": "A Star is Born",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_TRIPLE_DOUBLE",
@@ -390,9 +390,9 @@
       "ID": "ACH_WINNER_STREAK",
       "SetID": "1lnhagg",
       "Name": "Keep the Streak Up!",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_WIN_BY_40",
@@ -437,8 +437,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:05:13.3815599+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:06:32.4909192+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:15.0404929+00:00",
-  "LastUpdate_Ratings": "2023-12-17T11:02:41.4249555+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:05:13.381574+00:00"
+  "LastUpdate_Ratings": "2023-12-17T12:03:09.1048837+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:06:32.4909338+00:00"
 }

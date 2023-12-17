@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8815,7 +8815,7 @@
       "Count": 3578
     }
   ],
-  "EOS_Progressed": 241351,
+  "EOS_Progressed": 241362,
   "EOS_Completed": 2537,
   "EOS_NewPlayers": 2123,
   "EOS_NewCompleters": 27,
@@ -35990,6 +35990,11 @@
       "Time": "2023-12-17T11:09:42.1319357+00:00",
       "NumProgressed": 241351,
       "NumCompleted": 2537
+    },
+    {
+      "Time": "2023-12-17T12:10:51.5121957+00:00",
+      "NumProgressed": 241362,
+      "NumCompleted": 2537
     }
   ],
   "TotalAchievements": 546,
@@ -40311,9 +40316,9 @@
       "ID": "objective_completed_1563",
       "SetID": "415jc5c",
       "Name": "Chaos Theory",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 623
     },
     {
       "ID": "objective_completed_598",
@@ -40368,21 +40373,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 207625,
-      "Completed": 4021
+      "Progressed": 207636,
+      "Completed": 4023
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 241351,
+      "Progressed": 241362,
       "Completed": 2537
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-17T08:59:33.5460748+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:09:42.1319356+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:10:51.5121954+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:58:47.271654+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:09:42.1341582+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:59:54.2481431+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:10:51.5145083+00:00"
 }

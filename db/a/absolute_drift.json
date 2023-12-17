@@ -2,13 +2,13 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 719,
+  "Ranking_Rating": 699,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 216,
   "RatingHistory": [
     {
@@ -469,15 +469,21 @@
       "Rating": 4.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-17T11:57:05.6881595+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1556693,
+  "EOS_Progressed": 1556701,
   "EOS_Completed": 748,
-  "EOS_NewPlayers": 1361,
+  "EOS_NewPlayers": 1365,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -28035,6 +28041,11 @@
       "Time": "2023-12-17T11:03:59.9245313+00:00",
       "NumProgressed": 1556693,
       "NumCompleted": 748
+    },
+    {
+      "Time": "2023-12-17T12:04:55.8851661+00:00",
+      "NumProgressed": 1556701,
+      "NumCompleted": 748
     }
   ],
   "TotalAchievements": 20,
@@ -28070,7 +28081,7 @@
       "Name": "Double Rainbow",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7783
+      "UsersEstimate": 7784
     },
     {
       "ID": "ACH_DRIFT_LINE_APPRENTICE",
@@ -28094,7 +28105,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 140102
+      "UsersEstimate": 140103
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -28142,7 +28153,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 155669
+      "UsersEstimate": 155670
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -28158,7 +28169,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 140102
+      "UsersEstimate": 140103
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -28205,15 +28216,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1556693,
+      "Progressed": 1556701,
       "Completed": 748
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
-  "LastChanged": "2023-12-08T12:00:51.5497062+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:03:59.9245311+00:00",
+  "LastChanged": "2023-12-17T11:57:05.6881594+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:04:55.8851655+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.8814559+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:02:37.7237711+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:03:59.9246896+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:57:05.6881598+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:04:55.8853168+00:00"
 }

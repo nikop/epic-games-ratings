@@ -2,12 +2,12 @@
   "ID": "4966d5da285c4f2c876937844b0e23ee",
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
-  "Ranking_Rating": 46,
+  "Ranking_Rating": 45,
   "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 25037,
+  "EOS_Progressed": 25063,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1352,
+  "EOS_NewPlayers": 1377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -10840,6 +10840,11 @@
       "Time": "2023-12-17T11:09:15.1842627+00:00",
       "NumProgressed": 25037,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-17T12:10:18.3528807+00:00",
+      "NumProgressed": 25063,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10897,9 +10902,9 @@
       "ID": "AllSkills",
       "SetID": "3ojhj46",
       "Name": "Looks Familiar",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 175
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -10915,7 +10920,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -10923,7 +10928,7 @@
       "Name": "For Glory",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "BossCastleDefeated",
@@ -10931,7 +10936,7 @@
       "Name": "Spells and Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1003
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -10947,7 +10952,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -10963,7 +10968,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -10995,7 +11000,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -11043,7 +11048,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "EndTimerFail",
@@ -11107,7 +11112,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "RogueMode",
@@ -11162,21 +11167,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 25037,
+      "Progressed": 25063,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 3967,
+      "Progressed": 3993,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:09:15.1842624+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:10:18.3528802+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:59:48.4122492+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:09:15.1843168+00:00"
+  "LastUpdate_Ratings": "2023-12-17T12:01:22.198624+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:10:18.3529603+00:00"
 }

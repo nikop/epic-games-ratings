@@ -6,7 +6,7 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 26.00% | ~1,453 |
+| Faceroll the Bones | 26.00% | ~1,454 |
 | Hit 'Em Where It Hurts | 25.00% | ~1,398 |
 | Debuff Dogpile | 24.00% | ~1,342 |
 | Perk Shard Punch Card | 24.00% | ~1,342 |
@@ -15,7 +15,7 @@ Number of Ratings: 285  (23.09.2022)
 | First Strike | 20.00% | ~1,118 |
 | Spending Spree | 19.00% | ~1,062 |
 | Horder Better Faster Stronger | 18.00% | ~1,006 |
-| Ten Steps from the Grave | 15.00% | ~838 |
+| Ten Steps from the Grave | 15.00% | ~839 |
 | Everything Must Go! | 14.00% | ~783 |
 | Next Time on MythForce... | 14.00% | ~783 |
 | Cold-Blooded Critters | 10.00% | ~559 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.50% | ~28 |
 | Deadalus and Loving It | 0.20% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,590 (Ranked 192)  
+Progressed: 5,591 (Ranked 192)  
 Completed: 4 (0.07%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,11 +185,11 @@ Completed: 4 (0.07%) (Ranked 313)
 | 2023-12-14 | 5,506 | 4 |
 | 2023-12-15 | 5,538 | 4 |
 | 2023-12-16 | 5,569 | 4 |
-| 2023-12-17 | 5,590 | 4 |
+| 2023-12-17 | 5,591 | 4 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 480)  
-Sum: 264 (Ranked 381)  
-Diff (max vs sum): 99  
+Sum: 294 (Ranked 370)  
+Diff (max vs sum): 110  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |
@@ -197,7 +197,7 @@ Diff (max vs sum): 99
 | This game has Diverse Characters | 32 |
 | This game has Amazing Characters | 31 |
 | This game has Quickly Understood Controls | 31 |
-| This game has Unique Visuals | 28 |
+| This game has Unique Visuals | 30 |
 | This game has Challenging Combat | 28 |
 | This game has Amazing Storytelling | 27 |
 | This game is Extremely Fun | 24 |
@@ -309,3 +309,4 @@ Diff (max vs sum): 99
 | 2023-12-06 | 4.48 | - | 36 | 291 |
 | 2023-12-11 | 4.47 | - | 36 | 291 |
 | 2023-12-15 | 4.47 | - | 36 | 292 |
+| 2023-12-17 | 4.47 | - | 36 | 294 |

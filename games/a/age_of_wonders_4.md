@@ -18,26 +18,26 @@ Rating: 4.62 (Ranked 370)
 | Magical Synergy | 3.00% | ~173 |
 | Seat of Power | 3.00% | ~173 |
 | In a Liege of Your Own | 3.00% | ~173 |
-| Valley of Wonders | 2.00% | ~115 |
-| Return of the Wizard King | 2.00% | ~115 |
-| Enchanted Archipelago | 2.00% | ~115 |
-| Digging for Treasure | 2.00% | ~115 |
-| My Final Form | 2.00% | ~115 |
-| Fiery Friend | 2.00% | ~115 |
-| Impenetrable Fortress | 2.00% | ~115 |
-| Intimidation Tactics | 2.00% | ~115 |
-| Here be Dragons | 2.00% | ~115 |
-| Tipping the Scales | 2.00% | ~115 |
-| Freed Lands of Manuhari | 2.00% | ~115 |
-| Sehiran Oasis | 2.00% | ~115 |
-| Chaos Surge | 2.00% | ~115 |
-| Spoils of War | 2.00% | ~115 |
+| Valley of Wonders | 2.00% | ~116 |
+| Return of the Wizard King | 2.00% | ~116 |
+| Enchanted Archipelago | 2.00% | ~116 |
+| Digging for Treasure | 2.00% | ~116 |
+| My Final Form | 2.00% | ~116 |
+| Fiery Friend | 2.00% | ~116 |
+| Impenetrable Fortress | 2.00% | ~116 |
+| Intimidation Tactics | 2.00% | ~116 |
+| Here be Dragons | 2.00% | ~116 |
+| Tipping the Scales | 2.00% | ~116 |
+| Mighty Hoard | 2.00% | ~116 |
+| Freed Lands of Manuhari | 2.00% | ~116 |
+| Sehiran Oasis | 2.00% | ~116 |
+| Chaos Surge | 2.00% | ~116 |
+| Spoils of War | 2.00% | ~116 |
 | Arch Mage | 1.00% | ~58 |
 | The Creator | 1.00% | ~58 |
 | Crimson Caldera | 1.00% | ~58 |
 | Preparation Is Everything | 1.00% | ~58 |
 | Blood of the Dragon | 1.00% | ~58 |
-| Mighty Hoard | 1.00% | ~58 |
 | Prometheus Avenged | 1.00% | ~58 |
 | Seal the Deal | 1.00% | ~58 |
 | A Conqueror's Cohort | 1.00% | ~58 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 370)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,773 (Ranked 190)  
+Progressed: 5,775 (Ranked 190)  
 Completed: 7 (0.12%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 7 (0.12%) (Ranked 289)
 | 2023-12-14 | 5,643 | 7 |
 | 2023-12-15 | 5,702 | 7 |
 | 2023-12-16 | 5,752 | 7 |
-| 2023-12-17 | 5,773 | 7 |
+| 2023-12-17 | 5,775 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 479)  
 Sum: 93 (Ranked 461)  

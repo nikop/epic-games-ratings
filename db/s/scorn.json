@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 58,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
     "PcReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2665,
+  "EOS_Progressed": 2666,
   "EOS_Completed": 188,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 7.05,
   "EosHistory": [
@@ -3995,6 +3995,11 @@
       "Time": "2023-12-17T11:06:25.7463063+00:00",
       "NumProgressed": 2665,
       "NumCompleted": 188
+    },
+    {
+      "Time": "2023-12-17T12:08:34.6134421+00:00",
+      "NumProgressed": 2666,
+      "NumCompleted": 188
     }
   ],
   "TotalAchievements": 12,
@@ -4030,7 +4035,7 @@
       "Name": "004",
       "Percentage": 16,
       "XP": 80,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "005",
@@ -4046,7 +4051,7 @@
       "Name": "006",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "007",
@@ -4101,7 +4106,7 @@
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2665,
+      "Progressed": 2666,
       "Completed": 188
     }
   ],
@@ -4109,8 +4114,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-11-28T11:59:38.0602265+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:06:25.7463061+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:08:34.6134418+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.1188589+00:00",
-  "LastUpdate_Ratings": "2023-12-17T11:02:31.7946669+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:06:25.7463308+00:00"
+  "LastUpdate_Ratings": "2023-12-17T12:02:57.4877155+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:08:34.6134663+00:00"
 }

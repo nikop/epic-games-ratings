@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69385,
+  "EOS_Progressed": 69388,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17823,6 +17823,11 @@
       "Time": "2023-12-17T11:05:02.5204598+00:00",
       "NumProgressed": 69385,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-17T12:06:18.466453+00:00",
+      "NumProgressed": 69388,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -17970,7 +17975,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2775
+      "UsersEstimate": 2776
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -17993,7 +17998,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 69385,
+      "Progressed": 69388,
       "Completed": 18
     }
   ],
@@ -18001,8 +18006,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:05:02.5204597+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:06:18.4664528+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:13.0571911+00:00",
-  "LastUpdate_Ratings": "2023-12-17T11:00:11.7884189+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:05:02.520554+00:00"
+  "LastUpdate_Ratings": "2023-12-17T12:02:45.9675531+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:06:18.4665268+00:00"
 }

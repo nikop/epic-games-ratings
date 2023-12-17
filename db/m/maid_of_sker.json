@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 230,
+  "EOS_Progressed": 231,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -535,6 +535,11 @@
       "Time": "2023-12-16T19:04:39.2137247+00:00",
       "NumProgressed": 230,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T12:05:57.0872665+00:00",
+      "NumProgressed": 231,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -546,7 +551,7 @@
       "Name": "Animal Lover",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "axe_of_kindness",
@@ -600,9 +605,9 @@
       "ID": "dont_breath",
       "SetID": "3j2phem",
       "Name": "Don\u0027t Breathe",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "easy_listening",
@@ -730,7 +735,7 @@
       "Name": "Rapturous Applause!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "scholar",
@@ -754,7 +759,7 @@
       "Name": "Smooth Operator",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "the_long_night",
@@ -785,7 +790,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 230,
+      "Progressed": 231,
       "Completed": 0
     }
   ],
@@ -793,8 +798,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:04:46.0412506+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:05:57.087266+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:12.385492+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:57:06.8806053+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:04:46.0412696+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:57:30.8555587+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:05:57.0872827+00:00"
 }

@@ -39,6 +39,7 @@ Number of Ratings: 45  (23.09.2022)
 | In Soil, In Smoke | 0.50% | ~8 |
 | All My Birds, Safely Home | 0.50% | ~8 |
 | Wingknight's Prowess | 0.40% | ~6 |
+| Tempest | 0.40% | ~6 |
 | Lochias's Hunger | 0.40% | ~6 |
 | We Emerge Changed | 0.30% | ~5 |
 | Worldwalker | 0.30% | ~5 |
@@ -47,7 +48,6 @@ Number of Ratings: 45  (23.09.2022)
 | Fight Like a Bird | 0.30% | ~5 |
 | Grillmaster | 0.30% | ~5 |
 | Into Mulch | 0.30% | ~5 |
-| Tempest | 0.30% | ~5 |
 | I'm Not Smiling | 0.20% | ~3 |
 | Overwhelming Monstrosity | 0.10% | ~2 |
 | A Lowly Crust of Beef | 0.10% | ~2 |

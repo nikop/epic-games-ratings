@@ -8,7 +8,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 5.00% | ~923 |
 | Overgrown Library | 5.00% | ~923 |
-| Petrified Necropolis | 4.00% | ~738 |
+| Petrified Necropolis | 4.00% | ~739 |
 | Taking Action | 3.00% | ~554 |
 | No Deaths | 3.00% | ~554 |
 | Frosts | 3.00% | ~554 |
@@ -26,14 +26,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruined Armory | 1.00% | ~185 |
 | Bandit Camp | 1.00% | ~185 |
 | Fertile Meadows | 1.00% | ~185 |
+| Levitating Monument | 1.00% | ~185 |
 | Monastery of the Holy Flame | 1.00% | ~185 |
 | Lost Colonies | 1.00% | ~185 |
 | Watchtower | 1.00% | ~185 |
 | A Real Challenge | 1.00% | ~185 |
-| Levitating Monument | 0.90% | ~166 |
+| Trade Baron | 1.00% | ~185 |
 | Corrosive Torrent | 0.90% | ~166 |
 | Cursed Lands | 0.90% | ~166 |
-| Trade Baron | 0.90% | ~166 |
 | Barren Lands | 0.80% | ~148 |
 | Ancient Battleground | 0.80% | ~148 |
 | Statue of the Forefathers | 0.80% | ~148 |
@@ -46,11 +46,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory Through Prosperity | 0.50% | ~92 |
 | Defying the Crown | 0.50% | ~92 |
 | Into the Forest | 0.50% | ~92 |
+| Efficient Explorer | 0.40% | ~74 |
 | Refinery | 0.40% | ~74 |
 | Dangerous Lands | 0.40% | ~74 |
 | Forsaken Gods Temple | 0.40% | ~74 |
 | Fox Utopia | 0.40% | ~74 |
-| Efficient Explorer | 0.30% | ~55 |
 | Forbidden Lands | 0.30% | ~55 |
 | Feeding The People | 0.20% | ~37 |
 | Prestigious Expedition | 0.20% | ~37 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,455 (Ranked 147)  
+Progressed: 18,464 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,10 +307,10 @@ Completed: 39 (0.21%) (Ranked 261)
 | 2023-12-14 | 18,153 | 40 |
 | 2023-12-15 | 18,272 | 39 |
 | 2023-12-16 | 18,388 | 39 |
-| 2023-12-17 | 18,455 | 40 |
+| 2023-12-17 | 18,464 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 227)  
-Sum: 3,264 (Ranked 174)  
+Sum: 3,265 (Ranked 174)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -318,7 +318,7 @@ Diff (max vs sum): 53
 | This game is Relaxing | 436 |
 | This game is Great for Beginners | 428 |
 | This game is Extremely Fun | 410 |
-| This game is Highly Recommended | 391 |
+| This game is Highly Recommended | 392 |
 | This game has Unique Visuals | 332 |
 | This game has Amazing Storytelling | 321 |
 | This game has Amazing Characters | 288 |
@@ -583,3 +583,4 @@ Diff (max vs sum): 53
 | 2023-12-14 | 4.82 | - | 442 | 3,258 |
 | 2023-12-15 | 4.82 | - | 442 | 3,262 |
 | 2023-12-16 | 4.82 | - | 442 | 3,264 |
+| 2023-12-17 | 4.82 | - | 442 | 3,265 |

@@ -11,8 +11,8 @@
 | The Hellwoods | 77.00% | ~446 |
 | The Plains of Strothalm | 71.00% | ~411 |
 | Experienced Thalya | 71.00% | ~411 |
+| Bad Elves Go Everywhere | 69.00% | ~400 |
 | Thalya's Concentrated Fury | 68.00% | ~394 |
-| Bad Elves Go Everywhere | 68.00% | ~394 |
 | Heroes’ Gorge | 65.00% | ~376 |
 | Master of Magic | 63.00% | ~365 |
 | Unicorn steaks – fresh off the hoof! | 61.00% | ~353 |
@@ -25,9 +25,9 @@
 | The Big Eaty | 53.00% | ~307 |
 | “… like son” | 51.00% | ~295 |
 | YOU SHALL NOT PASS! | 50.00% | ~290 |
+| The Cathedral of Light | 47.00% | ~272 |
 | Shame! Shame! Shame! | 47.00% | ~272 |
 | Dungeonlord Gorgu | 46.00% | ~266 |
-| The Cathedral of Light | 46.00% | ~266 |
 | Pure Dynamite! | 45.00% | ~261 |
 | Tanos' Crusade Against Thalya | 44.00% | ~255 |
 | Mana Cannon | 41.00% | ~237 |

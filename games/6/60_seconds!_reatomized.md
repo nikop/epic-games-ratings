@@ -32,8 +32,8 @@ Rating: 4.54 (Ranked 535)
 | Rescue time! | 19.00% | ~1,104 |
 | New order | 18.00% | ~1,046 |
 | New species | 17.00% | ~988 |
+| A New Hope | 16.00% | ~930 |
 | Enigma | 16.00% | ~930 |
-| A New Hope | 15.00% | ~872 |
 | Challenger | 13.00% | ~756 |
 | Men in Black | 13.00% | ~756 |
 | No stone unturned | 12.00% | ~698 |

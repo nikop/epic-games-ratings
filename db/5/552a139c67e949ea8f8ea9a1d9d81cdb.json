@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -3412,9 +3412,9 @@
       "ID": "ML_ACHIEVEMENT_16",
       "SetID": "5k00jcd",
       "Name": "Stage animal",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ML_ACHIEVEMENT_17",
@@ -3673,8 +3673,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:05:16.1121207+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:06:36.2317262+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:58:28.2091599+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:05:16.1121686+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:59:24.4253766+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:06:36.231775+00:00"
 }

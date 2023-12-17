@@ -14,11 +14,11 @@
 | Captain Mustache | 33.00% | ~14 |
 | Final Showdown | 31.00% | ~13 |
 | The End of an Outlaw | 31.00% | ~13 |
+| Steal Her Away | 31.00% | ~13 |
 | Sewer Rat | 31.00% | ~13 |
+| Demon Slayer | 29.00% | ~12 |
 | Urban Explorer | 29.00% | ~12 |
-| Steal Her Away | 29.00% | ~12 |
 | Tour Guide | 26.00% | ~11 |
-| Demon Slayer | 26.00% | ~11 |
 | Fight Fire With Fire | 26.00% | ~11 |
 | Big Eater | 21.00% | ~9 |
 | Not Today | 21.00% | ~9 |
@@ -32,7 +32,7 @@
 | Taoist | 5.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 42 (Ranked 533)  
-Completed: 2 (4.76%) (Ranked 77)  
+Completed: 2 (4.76%) (Ranked 76)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

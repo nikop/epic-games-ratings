@@ -6,7 +6,7 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 95.00% | ~20,490 |
+| First money | 95.00% | ~20,491 |
 | Strongman | 31.00% | ~6,686 |
 | Just Enough | 20.00% | ~4,314 |
 | Alpha Male | 20.00% | ~4,314 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Do it ASAP | 0.60% | ~129 |
 | Senior Estate Agent | 0.60% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,568 (Ranked 144)  
+Progressed: 21,569 (Ranked 144)  
 Completed: 21 (0.10%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,10 +270,10 @@ Completed: 21 (0.10%) (Ranked 297)
 | 2023-12-14 | 21,514 | 21 |
 | 2023-12-15 | 21,535 | 21 |
 | 2023-12-16 | 21,560 | 21 |
-| 2023-12-17 | 21,568 | 21 |
+| 2023-12-17 | 21,569 | 21 |
 ## Awards
 Max (Great for Beginners): 328  (Ranked 250)  
-Sum: 2,271 (Ranked 206)  
+Sum: 2,272 (Ranked 206)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -284,7 +284,7 @@ Diff (max vs sum): 44
 | This game has Quickly Understood Controls | 221 |
 | This game has a Creative Community | 221 |
 | This game is Highly Recommended | 220 |
-| This game has Amazing Storytelling | 216 |
+| This game has Amazing Storytelling | 217 |
 | This game has Amazing Characters | 192 |
 | This game has Obsessive Gameplay | 173 |
 | This game has Easy Combat | 166 |
@@ -478,3 +478,4 @@ Diff (max vs sum): 44
 | 2023-12-10 | 4.69 | - | 327 | 2,268 |
 | 2023-12-15 | 4.69 | - | 328 | 2,270 |
 | 2023-12-16 | 4.69 | - | 328 | 2,271 |
+| 2023-12-17 | 4.69 | - | 328 | 2,272 |

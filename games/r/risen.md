@@ -30,9 +30,9 @@ Rating: 4.60 (Ranked 423)
 | Sidelined | 22.00% | ~19 |
 | Pandora's box | 20.00% | ~17 |
 | Ghost hunter | 20.00% | ~17 |
+| Fence | 20.00% | ~17 |
 | Master detective | 20.00% | ~17 |
 | Peacekeeper | 18.00% | ~16 |
-| Fence | 18.00% | ~16 |
 | Defender | 16.00% | ~14 |
 | Showdown | 15.00% | ~13 |
 | Workaholic | 15.00% | ~13 |

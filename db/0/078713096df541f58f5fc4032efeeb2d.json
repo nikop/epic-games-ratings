@@ -2,9 +2,9 @@
   "ID": "078713096df541f58f5fc4032efeeb2d",
   "Name": "Creepy Tale 3 - Ingrid Penance",
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
-  "Ranking_EOS_Progress": 541,
+  "Ranking_EOS_Progress": 538,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38,
+  "EOS_Progressed": 39,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -209,6 +209,11 @@
       "Time": "2023-12-17T11:05:04.5450242+00:00",
       "NumProgressed": 38,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T12:06:21.0133827+00:00",
+      "NumProgressed": 39,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:05:23.4224547+00:00",
@@ -235,7 +240,7 @@
       "ID": "creepytale3_ach_11",
       "SetID": "7idcjbn",
       "Name": "Dexterity",
-      "Percentage": 74,
+      "Percentage": 72,
       "XP": 30,
       "UsersEstimate": 28
     },
@@ -243,7 +248,7 @@
       "ID": "creepytale3_ach_12",
       "SetID": "7idcjbn",
       "Name": "Exchange of pleasantries",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -251,7 +256,7 @@
       "ID": "creepytale3_ach_14",
       "SetID": "7idcjbn",
       "Name": "Dinner is served!",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
       "UsersEstimate": 11
     },
@@ -259,7 +264,7 @@
       "ID": "creepytale3_ach_15",
       "SetID": "7idcjbn",
       "Name": "Bathing time!",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 30,
       "UsersEstimate": 21
     },
@@ -267,7 +272,7 @@
       "ID": "creepytale3_ach_17",
       "SetID": "7idcjbn",
       "Name": "Pain lover",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -307,7 +312,7 @@
       "ID": "creepytale3_ach_21",
       "SetID": "7idcjbn",
       "Name": "Larva",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -323,7 +328,7 @@
       "ID": "creepytale3_ach_23",
       "SetID": "7idcjbn",
       "Name": "Who wrote this stuff?",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -331,7 +336,7 @@
       "ID": "creepytale3_ach_24",
       "SetID": "7idcjbn",
       "Name": "Boring book!",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -347,7 +352,7 @@
       "ID": "creepytale3_ach_27",
       "SetID": "7idcjbn",
       "Name": "Mimic",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -371,7 +376,7 @@
       "ID": "creepytale3_ach_32",
       "SetID": "7idcjbn",
       "Name": "Classic",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -443,7 +448,7 @@
       "ID": "creepytale3_ach_5",
       "SetID": "7idcjbn",
       "Name": "Bloodthirsty",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 35,
       "UsersEstimate": 13
     },
@@ -467,7 +472,7 @@
       "ID": "creepytale3_ach_8",
       "SetID": "7idcjbn",
       "Name": "Save mission",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
       "UsersEstimate": 14
     },
@@ -484,14 +489,14 @@
     {
       "ID": "7idcjbn",
       "IsBase": true,
-      "Progressed": 38,
+      "Progressed": 39,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:05:04.5450239+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:06:21.0133821+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.5738942+00:00",
-  "LastUpdate_Ratings": "2023-12-17T11:00:17.0251819+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:05:04.5450503+00:00"
+  "LastUpdate_Ratings": "2023-12-17T12:02:53.1846844+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:06:21.013405+00:00"
 }

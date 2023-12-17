@@ -1271,10 +1271,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 364,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2023-12-17T11:57:53.3395291+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 365,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 364,
+  "NumberOfAwards": 365,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1300,7 +1306,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1339,7 +1345,7 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259428,
+  "EOS_Progressed": 259429,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
@@ -24339,6 +24345,11 @@
       "Time": "2023-12-17T11:05:12.6612746+00:00",
       "NumProgressed": 259428,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T12:06:31.5403898+00:00",
+      "NumProgressed": 259429,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -24638,7 +24649,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59668
+      "UsersEstimate": 59669
     },
     {
       "ID": "KillOthers2",
@@ -24797,16 +24808,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259428,
+      "Progressed": 259429,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-12-16T05:02:52.416752+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:05:12.6612743+00:00",
+  "LastChanged": "2023-12-17T11:57:53.3395289+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:06:31.5403896+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.6293608+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:57:24.1013715+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:05:12.6613851+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:57:53.3395296+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:06:31.5405107+00:00"
 }

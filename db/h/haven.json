@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1616,
+  "EOS_Progressed": 1619,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2493,6 +2493,11 @@
       "Time": "2023-12-17T11:03:28.9565281+00:00",
       "NumProgressed": 1616,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-17T12:04:14.7816123+00:00",
+      "NumProgressed": 1619,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2504,7 +2509,7 @@
       "Name": "Lovebirds",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "10",
@@ -2512,7 +2517,7 @@
       "Name": "Perfect timing",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "11",
@@ -2528,7 +2533,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "13",
@@ -2560,7 +2565,7 @@
       "Name": "My little pony",
       "Percentage": 19,
       "XP": 70,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "17",
@@ -2568,7 +2573,7 @@
       "Name": "Balding bloot!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1247
     },
     {
       "ID": "18",
@@ -2576,7 +2581,7 @@
       "Name": "Like new!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "19",
@@ -2624,15 +2629,15 @@
       "Name": "Pearls before Birble",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "24",
       "SetID": "n50no0",
       "Name": "In my shoes",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 259
     },
     {
       "ID": "25",
@@ -2664,7 +2669,7 @@
       "Name": "Hug therapy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "30",
@@ -2672,7 +2677,7 @@
       "Name": "Self-sustainability",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "31",
@@ -2712,7 +2717,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "7",
@@ -2720,7 +2725,7 @@
       "Name": "Ain\u0027t no mountain high enough",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "8",
@@ -2728,7 +2733,7 @@
       "Name": "Over my dead body",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "9",
@@ -2736,22 +2741,22 @@
       "Name": "Last minute",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     }
   ],
   "AchievementSets": [
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1616,
+      "Progressed": 1619,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:03:28.9565279+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:04:14.7816118+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.3116727+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:57:22.9485398+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:03:28.9565598+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:57:51.7487157+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:04:14.7816391+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -436,9 +436,9 @@
       "ID": "Ach-02-zlo",
       "SetID": "2pjo9pi",
       "Name": "Zlo A",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Ach-03-jepice",
@@ -700,9 +700,9 @@
       "ID": "Ach-level-2",
       "SetID": "2pjo9pi",
       "Name": "Level 2",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Ach-level-3",
@@ -755,8 +755,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:08:18.8709186+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:09:04.0336781+00:00",
   "LastUpdate_AppInfo": "2023-12-13T18:57:10.2639848+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:58:55.6388981+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:08:18.8709485+00:00"
+  "LastUpdate_Ratings": "2023-12-17T12:00:05.6106041+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:09:04.0337102+00:00"
 }

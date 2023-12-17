@@ -4,10 +4,10 @@
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 646,
   "Ranking_Popularity": 480,
-  "Ranking_PopularitySum": 381,
+  "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -768,10 +768,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 264,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-12-17T11:57:49.7030505+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 294,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 264,
+  "NumberOfAwards": 294,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -815,7 +821,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 28
+      "Count": 30
     },
     {
       "Text": "This game has Challenging Combat",
@@ -836,9 +842,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5590,
+  "EOS_Progressed": 5591,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11241,6 +11247,11 @@
       "Time": "2023-12-17T11:06:04.8494945+00:00",
       "NumProgressed": 5590,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-17T12:07:38.0362142+00:00",
+      "NumProgressed": 5591,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11301,7 +11312,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11413,7 +11424,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -11436,15 +11447,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5590,
+      "Progressed": 5591,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
-  "LastChanged": "2023-12-15T05:01:12.5073089+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:06:04.8494943+00:00",
+  "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:07:38.0362138+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:57:21.2201885+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:06:04.8495428+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:57:49.7030509+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:07:38.0362802+00:00"
 }

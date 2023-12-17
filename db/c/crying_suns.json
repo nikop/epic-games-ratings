@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -673,9 +673,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 472379,
+  "EOS_Progressed": 472381,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25588,6 +25588,11 @@
       "Time": "2023-12-17T11:09:38.1598681+00:00",
       "NumProgressed": 472379,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-17T12:10:47.8793542+00:00",
+      "NumProgressed": 472381,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -25623,7 +25628,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103923
+      "UsersEstimate": 103924
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -25687,7 +25692,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311770
+      "UsersEstimate": 311771
     },
     {
       "ID": "achievement_story_landa",
@@ -25783,7 +25788,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160609
+      "UsersEstimate": 160610
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -26023,7 +26028,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207847
+      "UsersEstimate": 207848
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -26047,7 +26052,7 @@
       "Name": "Plan for the worst",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56685
+      "UsersEstimate": 56686
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -26055,7 +26060,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184228
+      "UsersEstimate": 184229
     },
     {
       "ID": "achievement_win_run_hard",
@@ -26111,7 +26116,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103923
+      "UsersEstimate": 103924
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -26230,21 +26235,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16313,
+      "Progressed": 16315,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472379,
+      "Progressed": 472381,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-16T01:44:08.2225132+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:09:38.1598676+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:10:47.879354+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.1940108+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:59:26.93213+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:09:38.1600096+00:00"
+  "LastUpdate_Ratings": "2023-12-17T12:00:51.9700658+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:10:47.8795073+00:00"
 }

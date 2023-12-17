@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2781,9 +2781,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 222
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3021,9 +3021,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 222
     },
     {
       "ID": "ParryRepeated1",
@@ -3206,8 +3206,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:09:22.0744853+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:10:27.4051763+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:57:18.3134588+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:09:22.0745288+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:57:48.0194133+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:10:27.4052339+00:00"
 }

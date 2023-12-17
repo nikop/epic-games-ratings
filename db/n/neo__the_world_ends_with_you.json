@@ -2,12 +2,12 @@
   "ID": "9c8ca95368b84b6fb5f2192e7f7484a3",
   "Name": "NEO: The World Ends with You",
   "ProductSlug": "neo-the-world-ends-with-you",
-  "Ranking_Rating": 35,
+  "Ranking_Rating": 45,
   "Ranking_Popularity": 370,
   "Ranking_PopularitySum": 426,
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-09-28T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.86,
+  "Rating": 4.85,
   "NumberOfRatings": 214,
   "RatingHistory": [
     {
@@ -370,6 +370,12 @@
       "Rating": 4.86,
       "NumberOfAwards": 164,
       "NumberOfAwardsMax": 98
+    },
+    {
+      "Time": "2023-12-17T12:03:26.5164887+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 164,
+      "NumberOfAwardsMax": 98
     }
   ],
   "ReviewsDisabled": false,
@@ -401,8 +407,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:59.3741762+00:00",
-  "LastChanged": "2023-10-28T07:02:02.2783272+00:00",
+  "LastChanged": "2023-12-17T12:03:26.5164886+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.8280439+00:00",
-  "LastUpdate_Ratings": "2023-12-17T11:02:53.8915689+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:04:55.2098922+00:00"
+  "LastUpdate_Ratings": "2023-12-17T12:03:26.5164891+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:06:08.5960634+00:00"
 }

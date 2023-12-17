@@ -18,26 +18,26 @@
 | Pulp! Adventures into the Unknown | 15.00% | ~9 |
 | Diagnosis: fear | 15.00% | ~9 |
 | Ambition is... blind | 15.00% | ~9 |
+| A rival with no options | 14.00% | ~8 |
 | The seer | 14.00% | ~8 |
 | You have two wishes left | 14.00% | ~8 |
-| A rival with no options | 12.00% | ~7 |
 | Et in arcadia ego | 10.00% | ~6 |
+| Kirlian's best disciple | 10.00% | ~6 |
 | You've awakened the beast | 8.00% | ~5 |
 | Hate is... addictive | 8.00% | ~5 |
 | You had one wish left | 8.00% | ~5 |
 | The bully | 8.00% | ~5 |
-| Kirlian's best disciple | 8.00% | ~5 |
 | Welcome to Hellville | 8.00% | ~5 |
+| The adventurer | 7.00% | ~4 |
+| Blood Red Island | 5.00% | ~3 |
 | Bread and bocaua | 5.00% | ~3 |
 | Fanatacism is... poisonous | 5.00% | ~3 |
 | The scholar | 5.00% | ~3 |
-| The adventurer | 5.00% | ~3 |
 | Pulp! The Beyond | 5.00% | ~3 |
 | ECO mode | 5.00% | ~3 |
 | Vaccine fans | 5.00% | ~3 |
 | Blessed antennas | 3.00% | ~2 |
 | The beast in the Oval Office | 3.00% | ~2 |
-| Blood Red Island | 3.00% | ~2 |
 | Pulp! True Adventures | 3.00% | ~2 |
 | Pulp! Weird Science | 2.00% | ~1 |
 | Pulp! Heart Throbs | 2.00% | ~1 |
@@ -46,11 +46,11 @@
 | The barbarian invasions | 2.00% | ~1 |
 | America had no Faith | 2.00% | ~1 |
 | Troy is burning! | 2.00% | ~1 |
+| A new Hindenburg | 2.00% | ~1 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Mister Mystery | 0.00% | ~0 |
 | Pulp! Skeleton Hand | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
-| A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 59 (Ranked 506)  
 Completed: 0 (0.00%) (Ranked 379)  

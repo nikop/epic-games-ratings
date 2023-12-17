@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110,
+  "EOS_Progressed": 112,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -504,6 +504,11 @@
       "Time": "2023-12-17T11:03:31.5429705+00:00",
       "NumProgressed": 110,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T12:04:18.1799358+00:00",
+      "NumProgressed": 112,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -514,7 +519,7 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 20,
       "UsersEstimate": 65
     },
@@ -578,9 +583,9 @@
       "ID": "17",
       "SetID": "6bgoh8g",
       "Name": "Master Chess",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "18",
@@ -594,9 +599,9 @@
       "ID": "19",
       "SetID": "6bgoh8g",
       "Name": "I am speed",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "2",
@@ -626,9 +631,9 @@
       "ID": "22",
       "SetID": "6bgoh8g",
       "Name": "I know kung fu",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "23",
@@ -666,7 +671,7 @@
       "ID": "27",
       "SetID": "6bgoh8g",
       "Name": "Dessert Connoisseur!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 40,
       "UsersEstimate": 16
     },
@@ -674,7 +679,7 @@
       "ID": "3",
       "SetID": "6bgoh8g",
       "Name": "It was not in the book",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -684,7 +689,7 @@
       "Name": "A simple mistake leads to grave consequences",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "5",
@@ -722,23 +727,23 @@
       "ID": "9",
       "SetID": "6bgoh8g",
       "Name": "Encore!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 110,
+      "Progressed": 112,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:03:31.5429703+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:04:18.1799354+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:22.4243212+00:00",
-  "LastUpdate_Ratings": "2023-12-17T11:02:50.4150912+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:03:31.542992+00:00"
+  "LastUpdate_Ratings": "2023-12-17T12:03:21.2189332+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:04:18.1799546+00:00"
 }

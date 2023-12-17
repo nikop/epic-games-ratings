@@ -5,32 +5,32 @@ Rating: 4.56 (Ranked 498)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 9.00% | ~8,107 |
-| I've Had Enough! | 8.00% | ~7,206 |
-| Fists, Fury & a lot of Rage | 5.00% | ~4,504 |
-| Seasoned Fighter | 5.00% | ~4,504 |
-| All For One and One For All | 4.00% | ~3,603 |
-| A New Age | 3.00% | ~2,702 |
-| Home Sweet Home? | 3.00% | ~2,702 |
-| Oh Baby, A Triple | 2.00% | ~1,802 |
-| Battle Hardened | 1.00% | ~901 |
-| Master of Disguise | 1.00% | ~901 |
-| It's Mayhem! | 1.00% | ~901 |
-| Symbiotic | 1.00% | ~901 |
-| Right back at'cha | 0.90% | ~811 |
-| Double Punch! | 0.80% | ~721 |
-| Spectacular Finisher | 0.80% | ~721 |
-| Martyrdom | 0.70% | ~631 |
-| Cautious Veteran | 0.60% | ~540 |
-| Katamari | 0.50% | ~450 |
-| Zero-sum Game | 0.50% | ~450 |
-| Ninja Reflex | 0.40% | ~360 |
-| Taste Your Own Medicine | 0.40% | ~360 |
-| Eye of the Titan | 0.20% | ~180 |
-| Just Getting Warmed Up | 0.20% | ~180 |
-| This is GigaBash! | 0.20% | ~180 |
-| Sidetracked... | 0.20% | ~180 |
-| Top of the Food Chain | 0.20% | ~180 |
+| All Grown Up! | 9.00% | ~8,125 |
+| I've Had Enough! | 8.00% | ~7,222 |
+| Fists, Fury & a lot of Rage | 6.00% | ~5,417 |
+| Seasoned Fighter | 5.00% | ~4,514 |
+| All For One and One For All | 4.00% | ~3,611 |
+| A New Age | 3.00% | ~2,708 |
+| Home Sweet Home? | 3.00% | ~2,708 |
+| Oh Baby, A Triple | 2.00% | ~1,806 |
+| Battle Hardened | 1.00% | ~903 |
+| Master of Disguise | 1.00% | ~903 |
+| It's Mayhem! | 1.00% | ~903 |
+| Symbiotic | 1.00% | ~903 |
+| Right back at'cha | 0.90% | ~812 |
+| Double Punch! | 0.80% | ~722 |
+| Spectacular Finisher | 0.80% | ~722 |
+| Martyrdom | 0.70% | ~632 |
+| Cautious Veteran | 0.60% | ~542 |
+| Katamari | 0.50% | ~451 |
+| Zero-sum Game | 0.50% | ~451 |
+| Ninja Reflex | 0.40% | ~361 |
+| Taste Your Own Medicine | 0.40% | ~361 |
+| Eye of the Titan | 0.20% | ~181 |
+| Just Getting Warmed Up | 0.20% | ~181 |
+| This is GigaBash! | 0.20% | ~181 |
+| Sidetracked... | 0.20% | ~181 |
+| Top of the Food Chain | 0.20% | ~181 |
 | 5 Stages of Grief | 0.10% | ~90 |
 | Bastion of Humanity | 0.10% | ~90 |
 | Let Them Fight | 0.10% | ~90 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 498)
 | Signature Look | 0.00% | ~0 |
 | What's Mine is Yours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,080 (Ranked 95)  
+Progressed: 90,276 (Ranked 95)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,7 +53,7 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 80,003 | 0 |
 | 2023-12-15 | 84,190 | 0 |
 | 2023-12-16 | 88,472 | 0 |
-| 2023-12-17 | 90,080 | 0 |
+| 2023-12-17 | 90,276 | 0 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 525)  
 Sum: 26 (Ranked 534)  

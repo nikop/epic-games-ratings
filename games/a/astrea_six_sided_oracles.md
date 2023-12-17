@@ -5,23 +5,23 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meissa's Savior | 72.00% | ~122 |
-| Purification Pioneer | 67.00% | ~113 |
-| Mechanical Buddy | 62.00% | ~105 |
+| Purification Pioneer | 68.00% | ~116 |
+| Mechanical Buddy | 63.00% | ~107 |
 | Dicesmithing Time! | 56.00% | ~95 |
-| Sanctuary Guardian | 50.00% | ~84 |
+| Sanctuary Guardian | 51.00% | ~87 |
 | Endless Tricks | 49.00% | ~83 |
-| Mind Illuminator | 43.00% | ~73 |
-| Wild's Keeper | 43.00% | ~73 |
-| Stellar Dismantler | 34.00% | ~57 |
+| Mind Illuminator | 44.00% | ~75 |
+| Wild's Keeper | 44.00% | ~75 |
+| Stellar Dismantler | 35.00% | ~59 |
 | Noctuan Champion | 33.00% | ~56 |
-| Anomaly Destroyer | 28.00% | ~47 |
-| Astral Adventurer | 28.00% | ~47 |
-| Star Killer | 27.00% | ~46 |
+| Anomaly Destroyer | 28.00% | ~48 |
+| Astral Adventurer | 28.00% | ~48 |
+| Star Killer | 26.00% | ~44 |
 | Eridanian Champion | 26.00% | ~44 |
 | Lacertian Champion | 24.00% | ~41 |
 | Loyal Partner | 22.00% | ~37 |
-| Apian Champion | 21.00% | ~35 |
-| Shard Spender | 20.00% | ~34 |
+| Apian Champion | 21.00% | ~36 |
+| Shard Spender | 19.00% | ~32 |
 | Unbeatable | 17.00% | ~29 |
 | Behenian Champion | 16.00% | ~27 |
 | Sadistic Plan | 14.00% | ~24 |
@@ -34,9 +34,9 @@
 | The Corruption Goddess | 8.00% | ~14 |
 | The Goddes Avatar | 8.00% | ~14 |
 | Wave Bender | 8.00% | ~14 |
-| Can't touch this | 7.00% | ~12 |
-| Apian Hero | 7.00% | ~12 |
 | Anomaly Control | 6.00% | ~10 |
+| Can't touch this | 6.00% | ~10 |
+| Apian Hero | 6.00% | ~10 |
 | Artificer | 5.00% | ~8 |
 | Denying Destiny | 5.00% | ~8 |
 | The Chaos Artisan | 5.00% | ~8 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169 (Ranked 410)  
+Progressed: 170 (Ranked 410)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,4 +155,4 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 121 | 0 |
 | 2023-12-15 | 139 | 0 |
 | 2023-12-16 | 161 | 0 |
-| 2023-12-17 | 169 | 0 |
+| 2023-12-17 | 170 | 0 |

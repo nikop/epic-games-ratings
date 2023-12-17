@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 58.00% | ~125 |
+| A Second Chance | 58.00% | ~126 |
 | Press-ganged | 42.00% | ~91 |
 | The Package | 26.00% | ~56 |
 | Conquered | 19.00% | ~41 |
@@ -12,16 +12,16 @@
 | Scribe | 12.00% | ~26 |
 | Breached | 12.00% | ~26 |
 | Tactician | 11.00% | ~24 |
-| Conciliator | 9.00% | ~19 |
-| Fight Another Day | 9.00% | ~19 |
+| Conciliator | 9.00% | ~20 |
+| Fight Another Day | 9.00% | ~20 |
 | Acquaintance | 8.00% | ~17 |
 | Taskmaster | 8.00% | ~17 |
 | Scholar | 7.00% | ~15 |
 | The More the Merrier | 7.00% | ~15 |
 | Tail-wind | 7.00% | ~15 |
+| Strategist | 6.00% | ~13 |
 | Harbinger | 6.00% | ~13 |
 | Courier | 6.00% | ~13 |
-| Strategist | 5.00% | ~11 |
 | Deputized | 5.00% | ~11 |
 | Spiritual Journey | 5.00% | ~11 |
 | Pilgrimage's End | 5.00% | ~11 |
@@ -33,12 +33,12 @@
 | Inquisitions of Discord | 4.00% | ~9 |
 | Trouble at Fort Larius | 4.00% | ~9 |
 | Unseen Patterns | 4.00% | ~9 |
-| Bounty Hunter | 3.00% | ~6 |
-| Potential Unlocked | 3.00% | ~6 |
-| Xevarian Gambit | 3.00% | ~6 |
-| A Terrible Will | 3.00% | ~6 |
-| Life... Finds a Way | 3.00% | ~6 |
-| Insectoid Propagator | 3.00% | ~6 |
+| Bounty Hunter | 3.00% | ~7 |
+| Potential Unlocked | 3.00% | ~7 |
+| Xevarian Gambit | 3.00% | ~7 |
+| A Terrible Will | 3.00% | ~7 |
+| Life... Finds a Way | 3.00% | ~7 |
+| Insectoid Propagator | 3.00% | ~7 |
 | Supercargo | 2.00% | ~4 |
 | Talent Nurtured | 2.00% | ~4 |
 | Huntress Unbound | 2.00% | ~4 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216 (Ranked 396)  
+Progressed: 217 (Ranked 395)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 209 | 0 |
 | 2023-12-15 | 211 | 0 |
 | 2023-12-16 | 215 | 0 |
-| 2023-12-17 | 216 | 0 |
+| 2023-12-17 | 217 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

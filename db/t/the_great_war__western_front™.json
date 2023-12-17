@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 659,
+  "EOS_Progressed": 660,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2938,6 +2938,11 @@
       "Time": "2023-12-17T11:04:12.8104297+00:00",
       "NumProgressed": 659,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T12:05:12.8845597+00:00",
+      "NumProgressed": 660,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -3021,7 +3026,7 @@
       "Name": "La Der des Ders",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -3029,7 +3034,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -3044,7 +3049,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 659,
+      "Progressed": 660,
       "Completed": 0
     }
   ],
@@ -3052,8 +3057,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:04:12.8104294+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:05:12.8845593+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.8922403+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:59:07.9803173+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:04:12.8104564+00:00"
+  "LastUpdate_Ratings": "2023-12-17T12:00:22.7891129+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:05:12.8845811+00:00"
 }

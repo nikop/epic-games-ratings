@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 355,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58290,
+  "EOS_Progressed": 58291,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
@@ -14246,6 +14246,11 @@
       "Time": "2023-12-17T09:06:25.7117519+00:00",
       "NumProgressed": 58290,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-17T12:06:55.3657821+00:00",
+      "NumProgressed": 58291,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -14329,7 +14334,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2914
+      "UsersEstimate": 2915
     },
     {
       "ID": "FlyingPresentMaster",
@@ -14569,7 +14574,7 @@
       "Name": "Sunflower Master",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2914
+      "UsersEstimate": 2915
     },
     {
       "ID": "Teamwork",
@@ -14648,7 +14653,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58290,
+      "Progressed": 58291,
       "Completed": 6
     }
   ],
@@ -14656,8 +14661,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:05:30.8677712+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:06:55.3657817+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:49.0606835+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:58:42.4316458+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:05:30.8678749+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:59:46.9243451+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:06:55.3658887+00:00"
 }

@@ -6,26 +6,27 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 7.00% | ~199 |
+| Malpractice Assurance | 7.00% | ~200 |
 | This guy... again? | 4.00% | ~114 |
 | Lost and Found | 4.00% | ~114 |
-| This Belongs in a Museum | 3.00% | ~3,839 |
-| Autodidact | 3.00% | ~3,839 |
-| Bloody Graduation | 3.00% | ~85 |
-| Don't Make Me Turn This Coach Around | 2.00% | ~2,559 |
-| Serenity Now! | 2.00% | ~2,559 |
-| It Rings a Bell | 2.00% | ~2,559 |
-| Not Today! | 2.00% | ~2,559 |
-| Creep and Sleep | 2.00% | ~2,559 |
-| Meat and Greet | 2.00% | ~2,559 |
-| Catch and Decease | 2.00% | ~2,559 |
-| Overdue Notice | 2.00% | ~2,559 |
-| Escape from the Black Hole | 2.00% | ~2,559 |
-| Rush Hour | 2.00% | ~2,559 |
-| To Grandmother's House | 2.00% | ~2,559 |
-| FNG | 2.00% | ~2,559 |
+| This Belongs in a Museum | 3.00% | ~3,840 |
+| Autodidact | 3.00% | ~3,840 |
+| Bloody Graduation | 3.00% | ~86 |
+| Don't Make Me Turn This Coach Around | 2.00% | ~2,560 |
+| Serenity Now! | 2.00% | ~2,560 |
+| It Rings a Bell | 2.00% | ~2,560 |
+| Not Today! | 2.00% | ~2,560 |
+| Creep and Sleep | 2.00% | ~2,560 |
+| Meat and Greet | 2.00% | ~2,560 |
+| Catch and Decease | 2.00% | ~2,560 |
+| Overdue Notice | 2.00% | ~2,560 |
+| Escape from the Black Hole | 2.00% | ~2,560 |
+| Rush Hour | 2.00% | ~2,560 |
+| To Grandmother's House | 2.00% | ~2,560 |
+| FNG | 2.00% | ~2,560 |
 | Ploughshares to Swords | 2.00% | ~57 |
 | Friends 'Til the End | 2.00% | ~57 |
+| Resurrection | 1.00% | ~1,280 |
 | Unleash Hell | 1.00% | ~1,280 |
 | Funny Guy | 1.00% | ~1,280 |
 | Long Live the King | 1.00% | ~1,280 |
@@ -46,7 +47,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 1.00% | ~1,280 |
 | Unshackled | 1.00% | ~1,280 |
 | Road Trip | 1.00% | ~1,280 |
-| Resurrection | 0.90% | ~1,152 |
 | Wyrdly Reconstructed | 0.90% | ~1,152 |
 | Boxcar Kid | 0.90% | ~1,152 |
 | Predator | 0.90% | ~1,152 |
@@ -67,11 +67,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 0.40% | ~512 |
 | Clearing the Ledger | 0.30% | ~384 |
 | Bacon Bits | 0.30% | ~384 |
+| Hat Trick | 0.30% | ~384 |
 | Triage | 0.30% | ~384 |
 | Maître De La Lame | 0.30% | ~9 |
 | A Life Well Lived | 0.20% | ~256 |
 | The World As It Was | 0.20% | ~256 |
-| Hat Trick | 0.20% | ~256 |
 | Eidetic | 0.20% | ~256 |
 | Battle Hardened | 0.20% | ~6 |
 | No Mercy | 0.20% | ~6 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 | On This Long Road, We Found Redemption | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,973 (Ranked 85)  
+Progressed: 127,985 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 3 (0.00%) (Ranked 379)
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
-| 2023-12-17 | 127,973 | 3 |
+| 2023-12-17 | 127,985 | 3 |
 ## Awards
 Max (Character Customization): 7,763  (Ranked 50)  
 Sum: 20,652 (Ranked 58)  

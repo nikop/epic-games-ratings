@@ -2,9 +2,9 @@
   "ID": "9a3d3cc7c85f4664943bfe6fca977d03",
   "Name": "My Friend Peppa Pig",
   "ProductSlug": "my-friend-peppa-pig-2de0dc",
-  "Ranking_EOS_Progress": 468,
-  "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 492,
+  "Ranking_EOS_Progress": 466,
+  "Ranking_EOS_Completed": 83,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91,
+  "EOS_Progressed": 92,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.4,
+  "EOS_Completed_Percentage": 4.35,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:28.924727+00:00",
@@ -171,6 +171,11 @@
       "Time": "2023-12-16T13:11:58.0200098+00:00",
       "NumProgressed": 91,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-17T12:10:05.043476+00:00",
+      "NumProgressed": 92,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 11,
@@ -182,13 +187,13 @@
       "Name": "Daddy\u2019s Glasses",
       "Percentage": 52,
       "XP": 80,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "10",
       "SetID": "5jd5jfm",
       "Name": "Collecting Sticks For the Campfire.",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 80,
       "UsersEstimate": 36
     },
@@ -196,7 +201,7 @@
       "ID": "11",
       "SetID": "5jd5jfm",
       "Name": "Rocket to the Moon!",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 80,
       "UsersEstimate": 49
     },
@@ -269,7 +274,7 @@
     {
       "ID": "5jd5jfm",
       "IsBase": true,
-      "Progressed": 91,
+      "Progressed": 92,
       "Completed": 4
     }
   ],
@@ -277,8 +282,8 @@
   "FirstSeenRating": "2023-03-31T05:57:56.0490903+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:28.9247276+00:00",
   "LastChanged": "2023-03-31T05:57:56.0490904+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:09:04.9776702+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:10:05.0434756+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:28.145083+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:57:34.4037961+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:09:04.9776756+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:58:07.6856943+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:10:05.0434823+00:00"
 }

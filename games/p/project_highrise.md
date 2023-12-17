@@ -11,9 +11,9 @@
 | Dinner Dash | 41.00% | ~159 |
 | Campaign Launch | 40.00% | ~156 |
 | Need a Consult | 37.00% | ~144 |
-| It's Technical | 36.00% | ~140 |
+| It's Technical | 37.00% | ~144 |
 | Upgrade Unlock | 35.00% | ~136 |
-| Delegate Maintenance | 33.00% | ~128 |
+| Delegate Maintenance | 34.00% | ~132 |
 | Proper Walls | 31.00% | ~121 |
 | Destination Destiny | 31.00% | ~121 |
 | Happy Tenants | 25.00% | ~97 |

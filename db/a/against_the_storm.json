@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 3744,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3399,10 +3399,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3264,
       "NumberOfAwardsMax": 442
+    },
+    {
+      "Time": "2023-12-17T11:58:00.2007522+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3265,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3264,
+  "NumberOfAwards": 3265,
   "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3422,7 +3428,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 391
+      "Count": 392
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3467,9 +3473,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18455,
+  "EOS_Progressed": 18464,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 618,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16042,6 +16048,11 @@
       "Time": "2023-12-17T11:04:35.6928713+00:00",
       "NumProgressed": 18455,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-17T12:05:43.3869297+00:00",
+      "NumProgressed": 18464,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16116,9 +16127,9 @@
       "ID": "ManyEvents",
       "SetID": "cfbk359",
       "Name": "Efficient Explorer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 74
     },
     {
       "ID": "MetalChain",
@@ -16244,9 +16255,9 @@
       "ID": "WinNearLevitating",
       "SetID": "cfbk359",
       "Name": "Levitating Monument",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 185
     },
     {
       "ID": "WinNearMines",
@@ -16420,9 +16431,9 @@
       "ID": "WinWithTradeRoutes",
       "SetID": "cfbk359",
       "Name": "Trade Baron",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 185
     },
     {
       "ID": "WinWithoutDeath",
@@ -16486,7 +16497,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "WinNearPresence",
@@ -16525,15 +16536,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18455,
+      "Progressed": 18464,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-16T06:56:59.7467087+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:04:35.692871+00:00",
+  "LastChanged": "2023-12-17T11:58:00.200752+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:05:43.3869292+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:57:29.186028+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:04:35.6929678+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:58:00.2007527+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:05:43.3870158+00:00"
 }

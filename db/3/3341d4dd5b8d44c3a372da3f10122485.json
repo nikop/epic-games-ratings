@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -1184,9 +1184,9 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 80,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "Intro",
@@ -1240,41 +1240,41 @@
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 75,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 80,
-      "UsersEstimate": 109
+      "UsersEstimate": 111
     },
     {
       "ID": "Poklop",
       "SetID": "823jm6g",
       "Name": "Hatch",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 75,
-      "UsersEstimate": 147
+      "UsersEstimate": 149
     },
     {
       "ID": "Snekoun",
       "SetID": "823jm6g",
       "Name": "Snailman",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 80,
-      "UsersEstimate": 145
+      "UsersEstimate": 147
     },
     {
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 75,
-      "UsersEstimate": 138
+      "UsersEstimate": 140
     },
     {
       "ID": "Tuleni",
@@ -1295,8 +1295,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:08:27.3269684+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:09:15.2751227+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9761332+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:57:24.1756693+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:08:27.3269858+00:00"
+  "LastUpdate_Ratings": "2023-12-17T11:57:53.4985435+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:09:15.2751378+00:00"
 }

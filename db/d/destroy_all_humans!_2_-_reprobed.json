@@ -691,9 +691,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -723,9 +723,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -763,9 +763,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -819,9 +819,9 @@
       "ID": "ACH_ENTER_ALBION",
       "SetID": "4n84pon",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -843,9 +843,9 @@
       "ID": "ACH_ENTER_TAKOSHIMA",
       "SetID": "4n84pon",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -859,9 +859,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -939,17 +939,17 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1052,8 +1052,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:08:23.5737081+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:09:10.1738233+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:59:44.6556268+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:08:23.5737309+00:00"
+  "LastUpdate_Ratings": "2023-12-17T12:01:16.2922682+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:09:10.1738533+00:00"
 }

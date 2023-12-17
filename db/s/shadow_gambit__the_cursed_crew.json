@@ -6,7 +6,7 @@
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 263,
-  "Ranking_EOS_Completed": 116,
+  "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
@@ -149,11 +149,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1186,
+  "EOS_Progressed": 1188,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.7,
+  "EOS_Completed_Percentage": 2.69,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3979,6 +3979,11 @@
       "Time": "2023-12-17T10:07:26.0837613+00:00",
       "NumProgressed": 1186,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-17T12:07:28.9459026+00:00",
+      "NumProgressed": 1188,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3991,7 +3996,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -3999,7 +4004,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "_03_FinishAct1",
@@ -4007,7 +4012,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4015,7 +4020,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "_05_FinishAct2",
@@ -4031,7 +4036,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "_07_FinishAct3",
@@ -4047,7 +4052,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "_09_Completion_20",
@@ -4055,7 +4060,7 @@
       "Name": "Powder Monkey",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "_10_Completion_30",
@@ -4069,9 +4074,9 @@
       "ID": "_11_Completion_40",
       "SetID": "8a1io5d",
       "Name": "Seadog",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 166
     },
     {
       "ID": "_12_Completion_50",
@@ -4095,7 +4100,7 @@
       "Name": "Freebooter",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "_15_Completion_80",
@@ -4119,7 +4124,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4143,7 +4148,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -4151,7 +4156,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -4175,7 +4180,7 @@
       "Name": "Jaded Judge",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -4183,7 +4188,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -4198,7 +4203,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1186,
+      "Progressed": 1188,
       "Completed": 32
     }
   ],
@@ -4206,8 +4211,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-17T11:05:58.0646039+00:00",
+  "LastChanged_Achievements": "2023-12-17T12:07:28.9459021+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-17T10:59:39.9090853+00:00",
-  "LastUpdate_Achievements": "2023-12-17T11:05:58.0646356+00:00"
+  "LastUpdate_Ratings": "2023-12-17T12:01:09.7683706+00:00",
+  "LastUpdate_Achievements": "2023-12-17T12:07:28.9459367+00:00"
 }
