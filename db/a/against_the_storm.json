@@ -6,7 +6,7 @@
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 147,
-  "Ranking_EOS_Completed": 261,
+  "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 3744,
   "Store": {
@@ -3405,10 +3405,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3265,
       "NumberOfAwardsMax": 442
+    },
+    {
+      "Time": "2023-12-17T13:58:09.0475525+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3266,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3265,
+  "NumberOfAwards": 3266,
   "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3422,7 +3428,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 436
+      "Count": 437
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3473,9 +3479,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18472,
+  "EOS_Progressed": 18481,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 625,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16058,6 +16064,11 @@
       "Time": "2023-12-17T13:07:26.972752+00:00",
       "NumProgressed": 18472,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-17T14:06:01.1696744+00:00",
+      "NumProgressed": 18481,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16158,7 +16169,7 @@
       "Name": "First Real Expedition",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "WinHard",
@@ -16166,7 +16177,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "WinImpossible",
@@ -16286,7 +16297,7 @@
       "Name": "Royal Outpost",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "WinNearRuins",
@@ -16334,7 +16345,7 @@
       "Name": "Coral Forest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "WinOnCursed",
@@ -16350,7 +16361,7 @@
       "Name": "The Marshlands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "WinOnMoorlands",
@@ -16358,7 +16369,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "WinPrestige10",
@@ -16452,9 +16463,9 @@
       "ID": "WinWithoutOrders",
       "SetID": "cfbk359",
       "Name": "Defying the Crown",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 111
     },
     {
       "ID": "Year1Dangerous",
@@ -16526,7 +16537,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "WinWithFoxes",
@@ -16541,15 +16552,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18472,
+      "Progressed": 18481,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-17T11:58:00.200752+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:07:26.9727517+00:00",
+  "LastChanged": "2023-12-17T13:58:09.0475523+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:06:01.1696737+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:00:28.9853325+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:07:26.9728352+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:58:09.0475529+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:06:01.1697994+00:00"
 }

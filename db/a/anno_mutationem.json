@@ -5,10 +5,10 @@
   "Ranking_Rating": 536,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
-  "Ranking_EOS_Progress": 287,
-  "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_Progress": 286,
+  "Ranking_EOS_Completed": 380,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 784,
+  "EOS_Progressed": 785,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1023,6 +1023,11 @@
       "Time": "2023-12-16T14:03:33.403755+00:00",
       "NumProgressed": 784,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T14:04:33.7791388+00:00",
+      "NumProgressed": 785,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1122,7 +1127,7 @@
       "Name": "I just love stuff!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "I_think_its_broke",
@@ -1146,7 +1151,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "Lady_Luck",
@@ -1202,7 +1207,7 @@
       "Name": "Tell me your story",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -1210,7 +1215,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "The Traveler",
@@ -1258,7 +1263,7 @@
       "Name": "The truth is out there",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "This_cant_be_right",
@@ -1298,7 +1303,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "posters",
@@ -1321,7 +1326,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 784,
+      "Progressed": 785,
       "Completed": 0
     }
   ],
@@ -1329,8 +1334,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-09T07:59:55.495838+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:06:24.8024876+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:04:33.7791384+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:41.3639651+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:02:30.4397183+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:06:24.8025222+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:01:15.7984086+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:04:33.7791679+00:00"
 }

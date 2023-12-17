@@ -18,10 +18,10 @@
 | Pulp! Adventures into the Unknown | 15.00% | ~9 |
 | Diagnosis: fear | 15.00% | ~9 |
 | Ambition is... blind | 15.00% | ~9 |
+| You have two wishes left | 15.00% | ~9 |
 | A rival with no options | 13.00% | ~8 |
 | The seer | 13.00% | ~8 |
-| You have two wishes left | 13.00% | ~8 |
-| Et in arcadia ego | 10.00% | ~6 |
+| Et in arcadia ego | 12.00% | ~7 |
 | Kirlian's best disciple | 10.00% | ~6 |
 | You've awakened the beast | 8.00% | ~5 |
 | Hate is... addictive | 8.00% | ~5 |
@@ -52,8 +52,8 @@
 | Pulp! Skeleton Hand | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60 (Ranked 505)  
-Completed: 0 (0.00%) (Ranked 379)  
+Progressed: 60 (Ranked 506)  
+Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

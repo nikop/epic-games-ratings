@@ -6,9 +6,9 @@
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 236,
-  "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_Completed": 294,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1858,
+  "EOS_Progressed": 1859,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4439,6 +4439,11 @@
       "Time": "2023-12-17T12:09:52.8411951+00:00",
       "NumProgressed": 1858,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T14:09:54.4111642+00:00",
+      "NumProgressed": 1859,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4530,7 +4535,7 @@
       "Name": "E1M1",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "Everyone_is_here",
@@ -4578,7 +4583,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "High_noon",
@@ -4689,15 +4694,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1858,
+      "Progressed": 1859,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:11:32.4539319+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:09:54.4111635+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.5557319+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:05:28.2772629+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:11:32.4539737+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:03:09.5790172+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:09:54.4112183+00:00"
 }

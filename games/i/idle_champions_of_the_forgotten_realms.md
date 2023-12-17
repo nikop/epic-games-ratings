@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Arcane Suppression | 0.10% | ~208 |
 | Welcome to the Vrocks | 0.10% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,382 (Ranked 65)  
-Completed: 2,537 (1.05%) (Ranked 168)  
+Progressed: 241,394 (Ranked 65)  
+Completed: 2,537 (1.05%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -794,7 +794,7 @@ Completed: 2,537 (1.05%) (Ranked 168)
 | 2023-12-14 | 240,414 | 2,526 |
 | 2023-12-15 | 240,802 | 2,532 |
 | 2023-12-16 | 241,195 | 2,536 |
-| 2023-12-17 | 241,382 | 2,537 |
+| 2023-12-17 | 241,394 | 2,537 |
 ## Awards
 Max (Great for Beginners): 5,654  (Ranked 70)  
 Sum: 32,928 (Ranked 41)  

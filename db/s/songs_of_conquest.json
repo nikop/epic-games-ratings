@@ -6,9 +6,9 @@
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 324,
-  "Ranking_EOS_Completed": 379,
+  "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 531,
+  "EOS_Progressed": 532,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2173,6 +2173,11 @@
       "Time": "2023-12-17T13:10:49.076614+00:00",
       "NumProgressed": 531,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T14:08:53.4217785+00:00",
+      "NumProgressed": 532,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2191,9 +2196,9 @@
       "ID": "ArleonCampaign",
       "SetID": "71c0n9i",
       "Name": "The Song of Stoutheart",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -2209,7 +2214,7 @@
       "Name": "Dressed For Success",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "AttackCount",
@@ -2513,7 +2518,7 @@
       "Name": "Adept",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "WielderLevel2",
@@ -2545,7 +2550,7 @@
       "Name": "Humiliation",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -2616,15 +2621,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 531,
+      "Progressed": 532,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:10:49.0766138+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:08:53.4217782+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:02:48.0960536+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:10:49.0766589+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:01:42.6859204+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:08:53.4218176+00:00"
 }

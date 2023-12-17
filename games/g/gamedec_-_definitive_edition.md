@@ -6,27 +6,27 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~73,915 |
-| Powergamer | 27.00% | ~68,817 |
-| Write that down | 25.00% | ~63,720 |
-| Barely scratched the surface | 25.00% | ~63,720 |
-| Guns, lots of guns | 13.00% | ~33,134 |
-| Collector | 12.00% | ~30,585 |
-| Elementary! | 9.00% | ~22,939 |
-| Griever | 8.00% | ~20,390 |
-| Pumpkin Jack | 8.00% | ~20,390 |
-| Wake up! | 8.00% | ~20,390 |
+| I will finish what you started | 29.00% | ~73,918 |
+| Powergamer | 27.00% | ~68,820 |
+| Write that down | 25.00% | ~63,722 |
+| Barely scratched the surface | 25.00% | ~63,722 |
+| Guns, lots of guns | 13.00% | ~33,135 |
+| Collector | 12.00% | ~30,587 |
+| Elementary! | 9.00% | ~22,940 |
+| Griever | 8.00% | ~20,391 |
+| Pumpkin Jack | 8.00% | ~20,391 |
+| Wake up! | 8.00% | ~20,391 |
 | It's honest work | 7.00% | ~17,842 |
 | Me smart | 6.00% | ~15,293 |
 | Trash compactor | 6.00% | ~15,293 |
 | Valedictorian | 6.00% | ~15,293 |
 | Good listener | 5.00% | ~12,744 |
-| BOY! | 4.00% | ~10,195 |
-| Ka-ching! | 4.00% | ~10,195 |
-| So you like to read? | 4.00% | ~10,195 |
-| Hoarder | 3.00% | ~7,646 |
-| I like to sniff around | 3.00% | ~7,646 |
-| Mind reader | 3.00% | ~7,646 |
+| BOY! | 4.00% | ~10,196 |
+| Ka-ching! | 4.00% | ~10,196 |
+| So you like to read? | 4.00% | ~10,196 |
+| Hoarder | 3.00% | ~7,647 |
+| I like to sniff around | 3.00% | ~7,647 |
+| Mind reader | 3.00% | ~7,647 |
 | Catnip | 2.00% | ~5,098 |
 | Gentleman's classic | 2.00% | ~5,098 |
 | Is that a rift? | 2.00% | ~5,098 |
@@ -59,8 +59,8 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~510 |
 | Memory 5 | 0.10% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,879 (Ranked 61)  
-Completed: 7 (0.00%) (Ranked 379)  
+Progressed: 254,888 (Ranked 61)  
+Completed: 7 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -300,7 +300,7 @@ Completed: 7 (0.00%) (Ranked 379)
 | 2023-12-14 | 254,640 | 7 |
 | 2023-12-15 | 254,725 | 7 |
 | 2023-12-16 | 254,828 | 7 |
-| 2023-12-17 | 254,879 | 7 |
+| 2023-12-17 | 254,888 | 7 |
 ## Awards
 Max (Character Customization): 92  (Ranked 382)  
 Sum: 92 (Ranked 462)  

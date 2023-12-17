@@ -3,9 +3,9 @@
   "Name": "Merchant of the Skies",
   "ProductSlug": "merchant-of-the-skies",
   "Ranking_EOS_Progress": 278,
-  "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 493,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_Completed": 147,
+  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-04-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-30T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 953,
+  "EOS_Progressed": 954,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
@@ -182,6 +182,11 @@
       "Time": "2023-12-16T15:08:21.6800467+00:00",
       "NumProgressed": 953,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-17T14:08:44.3210532+00:00",
+      "NumProgressed": 954,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 12,
@@ -193,7 +198,7 @@
       "Name": "Thrifty",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "achievement_botanical",
@@ -225,7 +230,7 @@
       "Name": "Wealthy",
       "Percentage": 14,
       "XP": 150,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "achievement_inn_supplier",
@@ -241,7 +246,7 @@
       "Name": "Real Estate",
       "Percentage": 64,
       "XP": 35,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "achievement_lighthouse",
@@ -257,7 +262,7 @@
       "Name": "A man of his word",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "achievement_ship_bought",
@@ -273,7 +278,7 @@
       "Name": "Energizer",
       "Percentage": 99,
       "XP": 10,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "achievement_too_big_to_fail",
@@ -288,7 +293,7 @@
     {
       "ID": "7171fo0",
       "IsBase": true,
-      "Progressed": 953,
+      "Progressed": 954,
       "Completed": 14
     }
   ],
@@ -296,8 +301,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.9474468+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.0879809+00:00",
   "LastChanged": "2023-03-31T05:58:14.9474469+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:10:42.7579374+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:08:44.3210528+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.6754542+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:02:46.069335+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:10:42.7579517+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:01:39.4634938+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:08:44.3210636+00:00"
 }

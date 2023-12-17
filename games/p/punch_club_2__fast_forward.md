@@ -42,11 +42,11 @@
 | Guiding on the right path | 44.00% | ~176 |
 | No blades in the gym | 42.00% | ~168 |
 | Champion – no way back | 40.00% | ~160 |
-| Underground dwellers | 39.00% | ~156 |
+| Underground dwellers | 40.00% | ~160 |
 | Responsible approach | 39.00% | ~156 |
+| Mom got better | 38.00% | ~152 |
 | Deal with life | 38.00% | ~152 |
 | GYM professional | 38.00% | ~152 |
-| Mom got better | 37.00% | ~148 |
 | Poisoned fighter | 37.00% | ~148 |
 | The die is cast | 37.00% | ~148 |
 | Get out of my apartment! | 36.00% | ~144 |
@@ -72,7 +72,7 @@
 | The only right decision | 28.00% | ~112 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 401 (Ranked 340)  
-Completed: 9 (2.24%) (Ranked 129)  
+Completed: 9 (2.24%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

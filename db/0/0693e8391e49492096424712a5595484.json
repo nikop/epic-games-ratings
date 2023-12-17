@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 582,
-  "EOS_Completed": 43,
+  "EOS_Completed": 44,
   "EOS_NewPlayers": 48,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 7.39,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 7.56,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -2324,6 +2324,11 @@
       "Time": "2023-12-17T13:08:13.2782954+00:00",
       "NumProgressed": 582,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-17T14:07:06.6973765+00:00",
+      "NumProgressed": 582,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 45,
@@ -2413,9 +2418,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 413
+      "UsersEstimate": 419
     },
     {
       "ID": "BroomAmanita",
@@ -2605,9 +2610,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 332
     },
     {
       "ID": "RogueEat",
@@ -2695,13 +2700,13 @@
       "ID": "db30heh",
       "IsBase": true,
       "Progressed": 582,
-      "Completed": 43
+      "Completed": 44
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:08:13.2782951+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:07:06.697376+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:40.9635354+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:03:01.6154866+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:08:13.2783292+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:02:32.4488238+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:07:06.6974325+00:00"
 }

@@ -51,7 +51,7 @@ Number of Ratings: 58  (23.09.2022)
 | At Least You Tried | 2.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,318 (Ranked 253)  
-Completed: 17 (1.29%) (Ranked 152)  
+Completed: 17 (1.29%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

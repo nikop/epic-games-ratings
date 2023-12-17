@@ -3,9 +3,9 @@
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 330,
-  "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_Completed": 219,
+  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 465,
+  "EOS_Progressed": 466,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1232,6 +1232,11 @@
       "Time": "2023-12-17T05:05:44.8667094+00:00",
       "NumProgressed": 465,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T14:06:22.3044057+00:00",
+      "NumProgressed": 466,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1348,15 +1353,15 @@
       "Name": "Unknown Threat",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 210
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1364,7 +1369,7 @@
       "Name": "Superior Ranking",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1396,7 +1401,7 @@
       "Name": "The Beginning",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1434,9 +1439,9 @@
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 247
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1452,7 +1457,7 @@
       "Name": "Kronos Island Memories",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -1563,14 +1568,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 465,
+      "Progressed": 466,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:07:41.9114414+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:06:22.3044049+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:06.567221+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:05:39.3331884+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:07:41.9114718+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:03:27.1602674+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:06:22.3044413+00:00"
 }

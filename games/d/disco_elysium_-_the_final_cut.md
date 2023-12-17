@@ -6,49 +6,49 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~37,379 |
-| Biggest Communism Builder | 24.00% | ~32,040 |
-| The World's Most Laughable Centrist | 20.00% | ~26,700 |
-| Il Coppo Del'Arte! | 18.00% | ~24,030 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,360 |
-| Hyperstellar Law Official | 16.00% | ~21,360 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,690 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,690 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,355 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,685 |
-| Unbelievably Boring **** | 9.00% | ~12,015 |
-| The Figurines Won't Win Her Back | 9.00% | ~12,015 |
-| Enemy Of The Physical Realm | 8.00% | ~10,680 |
-| Hardie's Heroes | 6.00% | ~8,010 |
-| The Lawbringer | 4.00% | ~5,340 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,340 |
-| The Opener Of The Eighth Seal | 3.00% | ~4,005 |
-| Bother Kim After Hours | 3.00% | ~4,005 |
-| Baddest Of the Bad Cops | 2.00% | ~2,670 |
-| Expert Advanced Remote Viewer | 2.00% | ~2,670 |
-| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,670 |
-| Wheel of Pleasure and Light | 2.00% | ~2,670 |
+| Goodest Of The Good Cops | 28.00% | ~37,387 |
+| Biggest Communism Builder | 24.00% | ~32,046 |
+| The World's Most Laughable Centrist | 20.00% | ~26,705 |
+| Il Coppo Del'Arte! | 18.00% | ~24,035 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,364 |
+| Hyperstellar Law Official | 16.00% | ~21,364 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,694 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,694 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,358 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,688 |
+| Unbelievably Boring **** | 9.00% | ~12,017 |
+| The Figurines Won't Win Her Back | 9.00% | ~12,017 |
+| Enemy Of The Physical Realm | 8.00% | ~10,682 |
+| Hardie's Heroes | 6.00% | ~8,012 |
+| The Lawbringer | 4.00% | ~5,341 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,341 |
+| The Opener Of The Eighth Seal | 3.00% | ~4,006 |
+| Bother Kim After Hours | 3.00% | ~4,006 |
+| Baddest Of the Bad Cops | 2.00% | ~2,671 |
+| Expert Advanced Remote Viewer | 2.00% | ~2,671 |
+| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,671 |
+| Wheel of Pleasure and Light | 2.00% | ~2,671 |
 | Massive Torque Dork | 1.00% | ~1,335 |
 | Avowed Inframaterialist | 1.00% | ~1,335 |
-| Committee of la Responsabilité | 0.90% | ~1,201 |
-| Venture into the HARDCORE | 0.90% | ~1,201 |
-| Real Musor | 0.90% | ~1,201 |
+| Committee of la Responsabilité | 0.90% | ~1,202 |
+| Venture into the HARDCORE | 0.90% | ~1,202 |
+| Real Musor | 0.90% | ~1,202 |
 | Baddest Brow in Town | 0.80% | ~1,068 |
-| Networthy Individual | 0.70% | ~934 |
+| Networthy Individual | 0.70% | ~935 |
 | Leopard Mindset | 0.60% | ~801 |
-| Modus: Mullen | 0.30% | ~400 |
-| Palerunner | 0.30% | ~400 |
+| Modus: Mullen | 0.30% | ~401 |
+| Palerunner | 0.30% | ~401 |
 | Cause a ****storm | 0.20% | ~267 |
 | True Detective | 0.20% | ~267 |
 | The Icebreaker | 0.20% | ~267 |
-| The Most Honourable Cop in The Land | 0.10% | ~133 |
-| Gluten-Free Topping Pie | 0.10% | ~133 |
-| Get Kim to Wear *The Jacket* | 0.10% | ~133 |
-| Medal dispenser | 0.10% | ~133 |
-| What body? | 0.10% | ~133 |
+| The Most Honourable Cop in The Land | 0.10% | ~134 |
+| Gluten-Free Topping Pie | 0.10% | ~134 |
+| Get Kim to Wear *The Jacket* | 0.10% | ~134 |
+| Medal dispenser | 0.10% | ~134 |
+| What body? | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,498 (Ranked 84)  
-Completed: 28 (0.02%) (Ranked 347)  
+Progressed: 133,526 (Ranked 84)  
+Completed: 28 (0.02%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -288,7 +288,7 @@ Completed: 28 (0.02%) (Ranked 347)
 | 2023-12-14 | 132,283 | 28 |
 | 2023-12-15 | 132,724 | 28 |
 | 2023-12-16 | 133,249 | 28 |
-| 2023-12-17 | 133,498 | 28 |
+| 2023-12-17 | 133,526 | 28 |
 ## Awards
 Max (Character Customization): 748  (Ranked 183)  
 Sum: 1,142 (Ranked 256)  

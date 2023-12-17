@@ -3,9 +3,9 @@
   "Name": "Epic World - Hunt For Quest",
   "ProductSlug": "epic-world-hunt-for-quest-4500b1",
   "Ranking_EOS_Progress": 734,
-  "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 531,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_Completed": 380,
+  "Ranking_EOS_NewPlayers": 534,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-12-07T18:30:00+00:00",
     "PcReleaseDate": "2019-06-20T18:30:00+00:00",
@@ -128,8 +128,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-03T05:03:06.3410136+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:08:23.6691539+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:07:21.2443521+00:00",
   "LastUpdate_AppInfo": "2023-12-17T05:57:07.5939957+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:00:21.251114+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:08:23.6691588+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:57:58.669929+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:07:21.2443611+00:00"
 }

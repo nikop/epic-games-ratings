@@ -6,12 +6,12 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~2,933 |
-| Ready for Winter | 64.00% | ~2,537 |
+| Venture Outward | 74.00% | ~2,934 |
+| Ready for Winter | 64.00% | ~2,538 |
 | Ready for Summer | 51.00% | ~2,022 |
 | Cordon Bleu | 43.00% | ~1,705 |
 | Tapped! | 37.00% | ~1,467 |
-| Eureka | 32.00% | ~1,268 |
+| Eureka | 32.00% | ~1,269 |
 | Scourge Slayer | 25.00% | ~991 |
 | Science, Troglodyte! | 23.00% | ~912 |
 | Exceptional Skill | 22.00% | ~872 |
@@ -26,9 +26,9 @@ Number of Ratings: 266  (23.09.2022)
 | Ace Detective | 8.00% | ~317 |
 | Gift from the Ancestors | 8.00% | ~317 |
 | Magic is a science | 8.00% | ~317 |
-| House of Cards | 7.00% | ~277 |
-| Let ‘em eat magma! | 7.00% | ~277 |
-| The power of ambition | 7.00% | ~277 |
+| House of Cards | 7.00% | ~278 |
+| Let ‘em eat magma! | 7.00% | ~278 |
+| The power of ambition | 7.00% | ~278 |
 | Hold my Mead and Watch This | 6.00% | ~238 |
 | The stuff of legends. | 6.00% | ~238 |
 | Blood and justice | 5.00% | ~198 |
@@ -49,8 +49,8 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~16 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,964 (Ranked 205)  
-Completed: 5 (0.13%) (Ranked 285)  
+Progressed: 3,965 (Ranked 205)  
+Completed: 5 (0.13%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -276,7 +276,7 @@ Completed: 5 (0.13%) (Ranked 285)
 | 2023-12-14 | 3,790 | 4 |
 | 2023-12-15 | 3,863 | 5 |
 | 2023-12-16 | 3,940 | 5 |
-| 2023-12-17 | 3,964 | 5 |
+| 2023-12-17 | 3,965 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 483)  
 Sum: 246 (Ranked 388)  

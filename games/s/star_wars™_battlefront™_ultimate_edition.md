@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,631 |
-| Off to a good start | 65.00% | ~1,191 |
+| New Recruit | 89.00% | ~1,632 |
+| Off to a good start | 65.00% | ~1,192 |
 | Do... or do not. There is no try | 51.00% | ~935 |
-| A good blaster at your side | 28.00% | ~513 |
+| A good blaster at your side | 28.00% | ~514 |
 | I suggest a new strategy | 18.00% | ~330 |
 | Scrap collector | 17.00% | ~312 |
 | All right, I'll give it a try | 17.00% | ~312 |
@@ -51,7 +51,7 @@
 | Alternative solution | 1.00% | ~18 |
 | Onwards! | 1.00% | ~18 |
 | The circle is now complete | 1.00% | ~18 |
-| When surrounded by war... | 0.90% | ~16 |
+| When surrounded by war... | 0.90% | ~17 |
 | A New Hope | 0.80% | ~15 |
 | Walker defender | 0.80% | ~15 |
 | Stop that Droid | 0.80% | ~15 |
@@ -60,16 +60,16 @@
 | I’ll take that bet | 0.50% | ~9 |
 | Stay on target | 0.40% | ~7 |
 | Greed can be a very powerful ally | 0.40% | ~7 |
-| in a galaxy far, far away.... | 0.30% | ~5 |
-| Don't get cocky | 0.30% | ~5 |
-| Master | 0.30% | ~5 |
+| in a galaxy far, far away.... | 0.30% | ~6 |
+| Don't get cocky | 0.30% | ~6 |
+| Master | 0.30% | ~6 |
 | That got him! | 0.20% | ~4 |
 | Stay in attack formation | 0.20% | ~4 |
 | I never doubted you! | 0.20% | ~4 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,833 (Ranked 237)  
-Completed: 1 (0.05%) (Ranked 327)  
+Progressed: 1,834 (Ranked 237)  
+Completed: 1 (0.05%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -160,7 +160,7 @@ Completed: 1 (0.05%) (Ranked 327)
 | 2023-12-14 | 1,726 | 1 |
 | 2023-12-15 | 1,755 | 1 |
 | 2023-12-16 | 1,815 | 1 |
-| 2023-12-17 | 1,833 | 1 |
+| 2023-12-17 | 1,834 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

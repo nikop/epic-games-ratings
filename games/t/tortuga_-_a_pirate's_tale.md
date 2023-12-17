@@ -33,7 +33,7 @@ Rating: 3.79 (Ranked 1,053)
 | Pufferfish | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,241 (Ranked 150)  
-Completed: 1 (0.01%) (Ranked 355)  
+Completed: 1 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

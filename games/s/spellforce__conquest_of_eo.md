@@ -19,7 +19,7 @@
 | The Circle | 44.00% | ~24 |
 | Friend of Lyraine | 42.00% | ~23 |
 | Alchemist's Apprentice | 40.00% | ~22 |
-| Redecorating | 35.00% | ~19 |
+| Redecorating | 36.00% | ~20 |
 | Bad JuJu | 27.00% | ~15 |
 | Friend of Sevenkeeps | 25.00% | ~14 |
 | Slave to the rhythm | 24.00% | ~13 |
@@ -76,7 +76,7 @@
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 55 (Ranked 511)  
-Completed: 0 (0.00%) (Ranked 379)  
+Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

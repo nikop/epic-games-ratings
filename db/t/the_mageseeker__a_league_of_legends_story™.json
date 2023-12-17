@@ -2,13 +2,13 @@
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
-  "Ranking_Rating": 85,
+  "Ranking_Rating": 99,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 218,
-  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.81,
+  "Rating": 4.79,
   "RatingHistory": [
     {
       "Time": "2023-04-18T18:57:53.9681459+00:00",
@@ -131,6 +131,12 @@
     {
       "Time": "2023-12-10T13:58:41.8193761+00:00",
       "Rating": 4.81,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-17T13:59:07.4077371+00:00",
+      "Rating": 4.79,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -4541,9 +4547,9 @@
       "ID": "STB_COLISSEUM_FIRST",
       "SetID": "3pe2bac",
       "Name": "Whispers in the Woods I",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 789
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -4965,9 +4971,9 @@
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
-  "LastChanged": "2023-12-10T13:58:41.8193759+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:08:19.3778745+00:00",
+  "LastChanged": "2023-12-17T13:59:07.4077367+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:07:15.2913423+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:24.9335177+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:01:06.4121562+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:08:19.3779236+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:59:07.4077374+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:07:15.2914264+00:00"
 }

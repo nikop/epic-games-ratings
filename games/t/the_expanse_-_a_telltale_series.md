@@ -5,21 +5,21 @@ Rating: 4.54 (Ranked 536)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 13.00% | ~2,160 |
+| Oyedang, Kopengs | 13.00% | ~2,161 |
 | Bosmang | 9.00% | ~1,496 |
 | Captain Drummer | 9.00% | ~1,496 |
-| The Pit and the Pirates | 8.00% | ~1,329 |
-| Martian Music | 8.00% | ~1,329 |
-| Drone Dodger | 8.00% | ~1,329 |
-| Celebrations are in Order | 8.00% | ~1,329 |
-| Impossible Objects | 8.00% | ~1,329 |
-| Stogie for Fogey | 7.00% | ~1,163 |
-| Spore Taste | 7.00% | ~1,163 |
+| The Pit and the Pirates | 8.00% | ~1,330 |
+| Martian Music | 8.00% | ~1,330 |
+| Drone Dodger | 8.00% | ~1,330 |
+| Celebrations are in Order | 8.00% | ~1,330 |
+| Impossible Objects | 8.00% | ~1,330 |
+| Stogie for Fogey | 7.00% | ~1,164 |
+| Spore Taste | 7.00% | ~1,164 |
 | Safe Cracker | 7.00% | ~180 |
 | Zen Master | 7.00% | ~180 |
 | Madame Undersecretary | 7.00% | ~180 |
 | Call it Even | 6.00% | ~997 |
-| Keep Arjun in Check | 6.00% | ~154 |
+| Keep Arjun in Check | 6.00% | ~155 |
 | Data Archivist | 5.00% | ~831 |
 | Drug Gifter | 5.00% | ~831 |
 | Heal Thy Medic | 5.00% | ~831 |
@@ -41,8 +41,8 @@ Rating: 4.54 (Ranked 536)
 | Scavenger Star | 0.20% | ~33 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,617 (Ranked 152)  
-Completed: 43 (0.26%) (Ranked 251)  
+Progressed: 16,624 (Ranked 152)  
+Completed: 43 (0.26%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -189,7 +189,7 @@ Completed: 43 (0.26%) (Ranked 251)
 | 2023-12-14 | 16,263 | 43 |
 | 2023-12-15 | 16,416 | 43 |
 | 2023-12-16 | 16,565 | 43 |
-| 2023-12-17 | 16,617 | 43 |
+| 2023-12-17 | 16,624 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

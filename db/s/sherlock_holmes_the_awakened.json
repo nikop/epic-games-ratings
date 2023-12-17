@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -135,7 +135,7 @@
   "Tags": [],
   "EOS_Progressed": 1220,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.54,
   "EosHistory": [
@@ -4217,9 +4217,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 756
+      "UsersEstimate": 769
     },
     {
       "ID": "MQ01_2",
@@ -4450,8 +4450,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-17T11:02:53.3877614+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:07:32.9002388+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:06:09.6224643+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:05:41.7142888+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:07:32.9002776+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:03:30.2167621+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:06:09.6225062+00:00"
 }

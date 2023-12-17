@@ -3,9 +3,9 @@
   "Name": "Lost Station",
   "ProductSlug": "lost-station-35092c",
   "Ranking_EOS_Progress": 801,
-  "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 531,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_Completed": 380,
+  "Ranking_EOS_NewPlayers": 534,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-05-24T07:00:00+00:00",
     "PcReleaseDate": "2023-05-24T07:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-13T02:20:45.5838541+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:01:52.476784+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:06:32.7573693+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:00:17.7700703+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:04:44.7796449+00:00"
 }

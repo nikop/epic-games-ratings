@@ -4,11 +4,11 @@
   "ProductSlug": "slain-aea303",
   "Ranking_Rating": 856,
   "Ranking_Popularity": 339,
-  "Ranking_PopularitySum": 438,
+  "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 313,
+  "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -244,9 +244,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 42198,
+  "EOS_Progressed": 42202,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -26399,6 +26399,11 @@
       "Time": "2023-12-17T13:08:15.5629322+00:00",
       "NumProgressed": 42198,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-12-17T14:07:09.793674+00:00",
+      "NumProgressed": 42202,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 29,
@@ -26641,7 +26646,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 42198,
+      "Progressed": 42202,
       "Completed": 29
     }
   ],
@@ -26649,8 +26654,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-02T18:57:45.107059+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:08:15.5629317+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:07:09.7936736+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:31.5071316+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:00:59.879328+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:08:15.5630604+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:58:56.9646745+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:07:09.7938893+00:00"
 }

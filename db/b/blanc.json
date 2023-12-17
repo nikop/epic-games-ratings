@@ -3,9 +3,9 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 210,
-  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3565,
+  "EOS_Progressed": 3567,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5566,6 +5566,11 @@
       "Time": "2023-12-17T13:06:13.495018+00:00",
       "NumProgressed": 3565,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-17T14:04:18.7238405+00:00",
+      "NumProgressed": 3567,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5585,7 +5590,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "FALLEN_TREE",
@@ -5649,7 +5654,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "THE_END",
@@ -5673,14 +5678,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3565,
+      "Progressed": 3567,
       "Completed": 6
     }
   ],
@@ -5688,8 +5693,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:06:13.4950177+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:04:18.7238401+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.2126403+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:00:49.7926482+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:06:13.4950561+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:58:41.4468256+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:04:18.7238791+00:00"
 }

@@ -10,19 +10,19 @@
 | Phantom Kunoichi | 48.00% | ~20 |
 | Killing Machine | 48.00% | ~20 |
 | Divine Retribution | 38.00% | ~16 |
+| Dispel Rumors | 36.00% | ~15 |
 | Captain Mustache | 36.00% | ~15 |
-| Dispel Rumors | 33.00% | ~14 |
 | Final Showdown | 31.00% | ~13 |
 | The End of an Outlaw | 31.00% | ~13 |
 | Steal Her Away | 31.00% | ~13 |
 | Sewer Rat | 31.00% | ~13 |
 | Demon Slayer | 29.00% | ~12 |
 | Urban Explorer | 29.00% | ~12 |
+| Fight Fire With Fire | 29.00% | ~12 |
 | Tour Guide | 26.00% | ~11 |
-| Fight Fire With Fire | 26.00% | ~11 |
+| Coward | 24.00% | ~10 |
 | Big Eater | 21.00% | ~9 |
 | Not Today | 21.00% | ~9 |
-| Coward | 21.00% | ~9 |
 | The Real O.G. | 19.00% | ~8 |
 | Tomb Raider | 19.00% | ~8 |
 | Talk to the Fist | 14.00% | ~6 |
@@ -32,7 +32,7 @@
 | Taoist | 5.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 42 (Ranked 533)  
-Completed: 2 (4.76%) (Ranked 76)  
+Completed: 2 (4.76%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

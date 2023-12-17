@@ -6,46 +6,46 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 76.00% | ~1,531 |
-| First cargo item on board | 70.00% | ~1,410 |
-| First cargo item waiting | 70.00% | ~1,410 |
-| First bus stop | 69.00% | ~1,390 |
-| First passenger on board | 66.00% | ~1,330 |
-| First passenger waiting | 66.00% | ~1,330 |
-| First bus arrived | 65.00% | ~1,310 |
-| First train station | 62.00% | ~1,249 |
-| First steam train arrived | 58.00% | ~1,169 |
-| First industry upgraded | 55.00% | ~1,108 |
-| Transport millionaire | 54.00% | ~1,088 |
-| Cadet | 53.00% | ~1,068 |
-| Transport master | 51.00% | ~1,028 |
-| Cargo hub | 51.00% | ~1,028 |
-| Settled down | 48.00% | ~967 |
-| Sculpturer | 48.00% | ~967 |
-| First electric train arrived | 46.00% | ~927 |
-| Now what? | 45.00% | ~907 |
-| First ship arrived | 44.00% | ~887 |
-| Exemplary student | 42.00% | ~846 |
-| High speed | 41.00% | ~826 |
-| Transport shark | 40.00% | ~806 |
-| First aircraft arrived | 40.00% | ~806 |
-| Mass production | 34.00% | ~685 |
-| Aircraft entrepreneur | 33.00% | ~665 |
-| The future is now, old man | 31.00% | ~625 |
-| Crowd in a train | 30.00% | ~604 |
-| Not in my backyard | 29.00% | ~584 |
-| The king of the sea | 28.00% | ~564 |
-| City | 27.00% | ~544 |
-| Transport tycoon | 23.00% | ~463 |
-| Old timer | 22.00% | ~443 |
-| The ugly smell of success | 22.00% | ~443 |
-| Climate change | 21.00% | ~423 |
-| Heavily loaded | 20.00% | ~403 |
-| Bob Ross | 15.00% | ~302 |
+| First line | 76.00% | ~1,534 |
+| First cargo item on board | 70.00% | ~1,413 |
+| First cargo item waiting | 70.00% | ~1,413 |
+| First bus stop | 69.00% | ~1,392 |
+| First passenger on board | 66.00% | ~1,332 |
+| First passenger waiting | 66.00% | ~1,332 |
+| First bus arrived | 65.00% | ~1,312 |
+| First train station | 62.00% | ~1,251 |
+| First steam train arrived | 58.00% | ~1,170 |
+| First industry upgraded | 55.00% | ~1,110 |
+| Transport millionaire | 54.00% | ~1,090 |
+| Cadet | 53.00% | ~1,070 |
+| Transport master | 51.00% | ~1,029 |
+| Cargo hub | 51.00% | ~1,029 |
+| Settled down | 48.00% | ~969 |
+| Sculpturer | 48.00% | ~969 |
+| First electric train arrived | 46.00% | ~928 |
+| Now what? | 45.00% | ~908 |
+| First ship arrived | 44.00% | ~888 |
+| Exemplary student | 42.00% | ~848 |
+| High speed | 41.00% | ~827 |
+| Transport shark | 40.00% | ~807 |
+| First aircraft arrived | 40.00% | ~807 |
+| Mass production | 34.00% | ~686 |
+| Aircraft entrepreneur | 33.00% | ~666 |
+| The future is now, old man | 31.00% | ~626 |
+| Crowd in a train | 30.00% | ~605 |
+| Not in my backyard | 29.00% | ~585 |
+| The king of the sea | 28.00% | ~565 |
+| City | 27.00% | ~545 |
+| Transport tycoon | 23.00% | ~464 |
+| Old timer | 22.00% | ~444 |
+| The ugly smell of success | 22.00% | ~444 |
+| Climate change | 21.00% | ~424 |
+| Heavily loaded | 20.00% | ~404 |
+| Bob Ross | 15.00% | ~303 |
 | Campaign expert | 11.00% | ~222 |
 | Truck Fever | 11.00% | ~222 |
 | No free seats | 10.00% | ~202 |
-| Penny pincher | 9.00% | ~181 |
+| Penny pincher | 9.00% | ~182 |
 | Back to the future | 8.00% | ~161 |
 | Transport belt | 8.00% | ~161 |
 | Campaign shark | 5.00% | ~101 |
@@ -53,8 +53,8 @@ Number of Ratings: 180  (23.09.2022)
 | Transport shark (Hard mode) | 4.00% | ~81 |
 | Antique | 4.00% | ~81 |
 | Transport corporation | 4.00% | ~81 |
-| Cannot get enough | 3.00% | ~60 |
-| Industrialist | 3.00% | ~60 |
+| Cannot get enough | 3.00% | ~61 |
+| Industrialist | 3.00% | ~61 |
 | Transport tycoon (Hard mode) | 2.00% | ~40 |
 | No country for old trains | 2.00% | ~40 |
 | Charles Alton Ellis | 2.00% | ~40 |
@@ -68,8 +68,8 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~4 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,015 (Ranked 234)  
-Completed: 1 (0.05%) (Ranked 327)  
+Progressed: 2,018 (Ranked 234)  
+Completed: 1 (0.05%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -294,7 +294,7 @@ Completed: 1 (0.05%) (Ranked 327)
 | 2023-12-14 | 1,954 | 1 |
 | 2023-12-15 | 1,976 | 1 |
 | 2023-12-16 | 2,003 | 1 |
-| 2023-12-17 | 2,015 | 1 |
+| 2023-12-17 | 2,018 | 1 |
 ## Awards
 Max (Great for Beginners): 46  (Ranked 451)  
 Sum: 322 (Ranked 364)  

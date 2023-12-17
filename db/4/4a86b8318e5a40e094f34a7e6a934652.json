@@ -3,9 +3,9 @@
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 370,
-  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 295,
+  "EOS_Progressed": 296,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.02,
+  "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -1299,6 +1299,11 @@
       "Time": "2023-12-17T13:06:37.8852004+00:00",
       "NumProgressed": 295,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T14:04:52.1093616+00:00",
+      "NumProgressed": 296,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1319,7 +1324,7 @@
       "Name": "Design Engineer",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "BRING_MARY",
@@ -1351,7 +1356,7 @@
       "Name": "Fisherman",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1421,33 +1426,33 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 154
     },
     {
       "ID": "REPAIR_BRIDGE",
       "SetID": "aniflfk",
       "Name": "Bridge Builder",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 139
     },
     {
       "ID": "SLEEP_50_HOURS",
       "SetID": "aniflfk",
       "Name": "Sleepyhead",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 104
     },
     {
       "ID": "TAKE_LEECH",
@@ -1455,7 +1460,7 @@
       "Name": "Uppies!",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1463,21 +1468,21 @@
       "Name": "Strong Signal",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 295,
+      "Progressed": 296,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:06:37.8852001+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:04:52.1093611+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.1278188+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:00:12.8634052+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:06:37.8852159+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:57:45.9467051+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:04:52.1093902+00:00"
 }

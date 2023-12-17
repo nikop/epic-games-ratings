@@ -3,9 +3,9 @@
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 492,
-  "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_Completed": 380,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -938,9 +938,9 @@
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "soccer_hattrick",
@@ -1049,8 +1049,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:07:34.461219+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:06:11.8312181+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:19.378274+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:00:54.7285577+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:07:34.4612881+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:58:49.061905+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:06:11.8313422+00:00"
 }

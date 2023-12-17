@@ -3,9 +3,9 @@
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 267,
-  "Ranking_EOS_Completed": 379,
+  "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1126,
+  "EOS_Progressed": 1127,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2944,6 +2944,11 @@
       "Time": "2023-12-17T13:12:15.7259614+00:00",
       "NumProgressed": 1126,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T14:10:53.5269434+00:00",
+      "NumProgressed": 1127,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2963,7 +2968,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2971,7 +2976,7 @@
       "Name": "FULLCLIP",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -3027,7 +3032,7 @@
       "Name": "Capraphobia",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3195,7 +3200,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -3235,7 +3240,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3259,7 +3264,7 @@
       "Name": "Call The Winchester",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -3395,7 +3400,7 @@
       "Name": "Beep Beep Boop",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -3482,14 +3487,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1126,
+      "Progressed": 1127,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:12:15.725961+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:10:53.526943+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:08.9329051+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:01:17.9520063+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:12:15.7260256+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:59:24.7470132+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:10:53.5270382+00:00"
 }

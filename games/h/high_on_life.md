@@ -1,7 +1,7 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.65 (Ranked 318)  
+Rating: 4.65 (Ranked 319)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,7 +26,7 @@ Rating: 4.65 (Ranked 318)
 | Fallout Doesn't Let You Do This | 2.00% | ~495 |
 | Spent 15 Hours At The Alien Strip Club | 2.00% | ~495 |
 | Series Wrap on Suit-O | 2.00% | ~495 |
-| Bathe With A Giant Nude Alien | 2.00% | ~40 |
+| Bathe With A Giant Nude Alien | 2.00% | ~41 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~20 |
 | Gunning For Your Job | 0.80% | ~198 |
 | Mux Ado About Shipping | 0.80% | ~16 |
@@ -50,8 +50,8 @@ Rating: 4.65 (Ranked 318)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,732 (Ranked 139)  
-Completed: 14 (0.06%) (Ranked 320)  
+Progressed: 24,734 (Ranked 139)  
+Completed: 14 (0.06%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -290,7 +290,7 @@ Completed: 14 (0.06%) (Ranked 320)
 | 2023-12-14 | 24,696 | 14 |
 | 2023-12-15 | 24,710 | 14 |
 | 2023-12-16 | 24,727 | 14 |
-| 2023-12-17 | 24,732 | 14 |
+| 2023-12-17 | 24,734 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

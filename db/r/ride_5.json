@@ -3,9 +3,9 @@
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 221,
-  "Ranking_EOS_Completed": 379,
+  "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2659,
+  "EOS_Progressed": 2661,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6502,6 +6502,11 @@
       "Time": "2023-12-17T13:07:13.291276+00:00",
       "NumProgressed": 2659,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T14:05:41.9204109+00:00",
+      "NumProgressed": 2661,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6514,7 +6519,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -6546,7 +6551,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -6602,7 +6607,7 @@
       "Name": "Legendary!!!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -6618,7 +6623,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -6722,7 +6727,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -6810,7 +6815,7 @@
       "Name": "Eat My Dust",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -6864,9 +6869,9 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "c7hf6a4",
       "Name": "Rivals to the End",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 745
+      "UsersEstimate": 772
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -6905,14 +6910,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2659,
+      "Progressed": 2661,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:07:13.2912756+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:05:41.9204105+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:00:04.8142294+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:07:13.2913767+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:57:33.7611214+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:05:41.920488+00:00"
 }

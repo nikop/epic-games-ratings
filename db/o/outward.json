@@ -6,7 +6,7 @@
   "Ranking_Popularity": 483,
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 205,
-  "Ranking_EOS_Completed": 285,
+  "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3964,
+  "EOS_Progressed": 3965,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6291,6 +6291,11 @@
       "Time": "2023-12-17T13:06:38.6182411+00:00",
       "NumProgressed": 3964,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-17T14:04:53.2567969+00:00",
+      "NumProgressed": 3965,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6366,7 +6371,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -6414,7 +6419,7 @@
       "Name": "House of Cards",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
@@ -6430,7 +6435,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "LightofLevant_18",
@@ -6494,7 +6499,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2537
+      "UsersEstimate": 2538
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6550,7 +6555,7 @@
       "Name": "The power of ambition",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ThePowerofFaith_4",
@@ -6622,7 +6627,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2933
+      "UsersEstimate": 2934
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6637,15 +6642,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3964,
+      "Progressed": 3965,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:06:38.6182407+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:04:53.2567965+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:05:27.0772393+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:06:38.6183085+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:03:07.9904091+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:04:53.2568682+00:00"
 }

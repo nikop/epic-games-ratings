@@ -6,9 +6,9 @@
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 289,
-  "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_Completed": 252,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 762,
+  "EOS_Progressed": 763,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -2635,6 +2635,11 @@
       "Time": "2023-12-17T03:05:49.8883014+00:00",
       "NumProgressed": 762,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T14:08:05.7909588+00:00",
+      "NumProgressed": 763,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2646,7 +2651,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "cool-shirts",
@@ -2662,7 +2667,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "dont-miss-calls",
@@ -2670,7 +2675,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "female-conqueror",
@@ -2694,7 +2699,7 @@
       "Name": "Our Man",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "kill-lieutenants",
@@ -2710,7 +2715,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "play-at-night",
@@ -2797,15 +2802,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 762,
+      "Progressed": 763,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-12T19:59:33.5091909+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:08:54.4636208+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:08:05.7909584+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.4837395+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:01:22.1845192+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:08:54.4636435+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:59:31.3641194+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:08:05.7909897+00:00"
 }

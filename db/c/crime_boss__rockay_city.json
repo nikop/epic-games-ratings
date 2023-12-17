@@ -6,9 +6,9 @@
   "Ranking_Popularity": 207,
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 94,
-  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5085,7 +5085,7 @@
       "Count": 515
     }
   ],
-  "EOS_Progressed": 92060,
+  "EOS_Progressed": 92064,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
@@ -28185,6 +28185,11 @@
       "Time": "2023-12-17T13:07:20.507821+00:00",
       "NumProgressed": 92060,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-17T14:05:52.0257201+00:00",
+      "NumProgressed": 92064,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -28308,7 +28313,7 @@
       "Name": "Headhunter",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "ACH_0101",
@@ -28523,13 +28528,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92060,
+      "Progressed": 92064,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20407,
+      "Progressed": 20411,
       "Completed": 15585
     }
   ],
@@ -28537,8 +28542,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-17T02:59:36.9660812+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:07:20.5078206+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:05:52.0257198+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:15.2774722+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:02:36.8209689+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:07:20.507965+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:01:25.7355596+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:05:52.0258451+00:00"
 }

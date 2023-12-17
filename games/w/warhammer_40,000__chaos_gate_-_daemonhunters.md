@@ -12,8 +12,8 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 9.00% | ~310 |
 | An Ill Omen | 9.00% | ~310 |
 | Purging Spree | 7.00% | ~241 |
-| Blood for the Blood God! | 6.00% | ~206 |
-| Bloodless | 6.00% | ~206 |
+| Blood for the Blood God! | 6.00% | ~207 |
+| Bloodless | 6.00% | ~207 |
 | Honoured Battle-Brother | 4.00% | ~138 |
 | Surgical Excision | 4.00% | ~138 |
 | Friendly Fire | 4.00% | ~138 |
@@ -43,8 +43,8 @@ Number of Ratings: 371  (23.09.2022)
 | Patron of Deimos | 0.80% | ~28 |
 | Engine Kill | 0.80% | ~28 |
 | Harvest No More | 0.80% | ~28 |
+| Hands-On Research | 0.70% | ~24 |
 | Strike Force | 0.60% | ~21 |
-| Hands-On Research | 0.60% | ~21 |
 | True Mastery | 0.50% | ~17 |
 | Suffer Not the Mutant | 0.50% | ~17 |
 | Exercise in Restraint | 0.40% | ~14 |
@@ -75,8 +75,8 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,441 (Ranked 214)  
-Completed: 0 (0.00%) (Ranked 379)  
+Progressed: 3,443 (Ranked 214)  
+Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -285,7 +285,7 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 3,379 | 0 |
 | 2023-12-15 | 3,402 | 0 |
 | 2023-12-16 | 3,433 | 0 |
-| 2023-12-17 | 3,441 | 0 |
+| 2023-12-17 | 3,443 | 0 |
 ## Awards
 Max (Character Customization): 229  (Ranked 277)  
 Sum: 490 (Ranked 332)  

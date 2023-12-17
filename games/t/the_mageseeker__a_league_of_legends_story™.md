@@ -1,7 +1,7 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.81 (Ranked 85)  
+Rating: 4.79 (Ranked 99)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,7 +23,7 @@ Rating: 4.81 (Ranked 85)
 | Old friend | 31.00% | ~874 |
 | Hijack | 30.00% | ~846 |
 | Devineur | 30.00% | ~846 |
-| Whispers in the Woods I | 27.00% | ~761 |
+| Whispers in the Woods I | 28.00% | ~789 |
 | I chose my shackles | 26.00% | ~733 |
 | Ancient power | 26.00% | ~733 |
 | Sacred Woods | 24.00% | ~677 |
@@ -60,7 +60,7 @@ Rating: 4.81 (Ranked 85)
 | The Unshackled | 1.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,819 (Ranked 218)  
-Completed: 16 (0.57%) (Ranked 200)  
+Completed: 16 (0.57%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -270,3 +270,4 @@ Completed: 16 (0.57%) (Ranked 200)
 | 2023-07-07 | 4.81 | 0 | 0 |
 | 2023-08-06 | 4.82 | 0 | 0 |
 | 2023-12-10 | 4.81 | 0 | 0 |
+| 2023-12-17 | 4.79 | 0 | 0 |

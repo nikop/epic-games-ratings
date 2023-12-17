@@ -6,35 +6,35 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 2.00% | ~14,644 |
-| The Assault | 2.00% | ~14,644 |
-| Life is your teacher | 2.00% | ~14,644 |
-| Lightning Hands | 2.00% | ~14,644 |
-| The Hateful Pole Fighter | 1.00% | ~7,322 |
-| A Lady's Blood in the Snow | 1.00% | ~7,322 |
-| Stuntmaster | 1.00% | ~7,322 |
-| Street Fighting | 1.00% | ~7,322 |
-| State of constant learning | 1.00% | ~7,322 |
-| Qi Gong: Breath | 1.00% | ~7,322 |
-| Qi Gong: Essence | 1.00% | ~7,322 |
-| Old Child | 1.00% | ~7,322 |
-| Rumble in the Hangar | 1.00% | ~7,322 |
-| Diligence as a goal | 1.00% | ~415 |
-| Path of the Prospect | 0.90% | ~6,590 |
-| Project Arena | 0.90% | ~373 |
-| Lady Wing Chun | 0.80% | ~5,857 |
-| Kill Nil | 0.80% | ~5,857 |
-| Furious Fists | 0.70% | ~5,125 |
-| Qi Gong: Mind | 0.70% | ~5,125 |
-| I know Kung-Fu | 0.70% | ~5,125 |
-| Take damage to save time | 0.70% | ~5,125 |
-| Scareless | 0.60% | ~4,393 |
-| Kung-Fu Tussle | 0.60% | ~4,393 |
-| Fight the way you practice | 0.60% | ~249 |
-| Dance of the Praying Mantis | 0.50% | ~3,661 |
-| Bloody Sport | 0.50% | ~207 |
-| Martial Hub | 0.50% | ~207 |
-| Muk Yan Master | 0.40% | ~2,929 |
+| The Old Grandmaster | 2.00% | ~14,648 |
+| The Assault | 2.00% | ~14,648 |
+| Life is your teacher | 2.00% | ~14,648 |
+| Lightning Hands | 2.00% | ~14,648 |
+| The Hateful Pole Fighter | 1.00% | ~7,324 |
+| A Lady's Blood in the Snow | 1.00% | ~7,324 |
+| Stuntmaster | 1.00% | ~7,324 |
+| Street Fighting | 1.00% | ~7,324 |
+| State of constant learning | 1.00% | ~7,324 |
+| Qi Gong: Breath | 1.00% | ~7,324 |
+| Qi Gong: Essence | 1.00% | ~7,324 |
+| Old Child | 1.00% | ~7,324 |
+| Rumble in the Hangar | 1.00% | ~7,324 |
+| Diligence as a goal | 1.00% | ~417 |
+| Kill Nil | 0.90% | ~6,592 |
+| Path of the Prospect | 0.90% | ~6,592 |
+| Project Arena | 0.90% | ~375 |
+| Lady Wing Chun | 0.80% | ~5,859 |
+| Furious Fists | 0.70% | ~5,127 |
+| Qi Gong: Mind | 0.70% | ~5,127 |
+| I know Kung-Fu | 0.70% | ~5,127 |
+| Take damage to save time | 0.70% | ~5,127 |
+| Scareless | 0.60% | ~4,394 |
+| Kung-Fu Tussle | 0.60% | ~4,394 |
+| Fight the way you practice | 0.60% | ~250 |
+| Dance of the Praying Mantis | 0.50% | ~3,662 |
+| Bloody Sport | 0.50% | ~208 |
+| Martial Hub | 0.50% | ~208 |
+| Muk Yan Master | 0.40% | ~2,930 |
 | Tiger on Fire | 0.30% | ~2,197 |
 | Source of Flying Daggers | 0.30% | ~2,197 |
 | Iron Money | 0.30% | ~2,197 |
@@ -43,12 +43,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Detective Story | 0.30% | ~2,197 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,197 |
 | Sword Stained With Blood | 0.30% | ~2,197 |
-| The best strikes are the ones we avoid | 0.30% | ~124 |
-| Drunken Fighter | 0.20% | ~1,464 |
-| Martial Artist | 0.20% | ~1,464 |
-| Knowledge Greed | 0.20% | ~1,464 |
-| The Pit Protector | 0.20% | ~1,464 |
-| Come Snap With Me | 0.20% | ~1,464 |
+| The best strikes are the ones we avoid | 0.30% | ~125 |
+| Drunken Fighter | 0.20% | ~1,465 |
+| Martial Artist | 0.20% | ~1,465 |
+| Knowledge Greed | 0.20% | ~1,465 |
+| The Pit Protector | 0.20% | ~1,465 |
+| Come Snap With Me | 0.20% | ~1,465 |
 | Deadly Venom | 0.20% | ~83 |
 | A Touch of Acumen | 0.20% | ~83 |
 | Skill and an even stronger will | 0.20% | ~83 |
@@ -58,17 +58,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~732 |
 | Be like water my friend | 0.10% | ~732 |
 | Warriors from the Mountain | 0.10% | ~732 |
-| Secure, Protect, Leave | 0.10% | ~41 |
-| Crouching Tiger | 0.10% | ~41 |
-| Hidden Dragon | 0.10% | ~41 |
-| Master of the Flying Assassins | 0.10% | ~41 |
-| Here Cometh the Iceman | 0.10% | ~41 |
-| Fighter in the Pond | 0.10% | ~41 |
-| Bonus Stage | 0.10% | ~41 |
-| A Bit Of Everything, Simultaneously | 0.10% | ~41 |
+| Secure, Protect, Leave | 0.10% | ~42 |
+| Crouching Tiger | 0.10% | ~42 |
+| Hidden Dragon | 0.10% | ~42 |
+| Master of the Flying Assassins | 0.10% | ~42 |
+| Here Cometh the Iceman | 0.10% | ~42 |
+| Fighter in the Pond | 0.10% | ~42 |
+| Bonus Stage | 0.10% | ~42 |
+| A Bit Of Everything, Simultaneously | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,179 (Ranked 24)  
-Completed: 12,955 (1.77%) (Ranked 137)  
+Progressed: 732,391 (Ranked 24)  
+Completed: 12,955 (1.77%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -308,7 +308,7 @@ Completed: 12,955 (1.77%) (Ranked 137)
 | 2023-12-14 | 722,433 | 12,953 |
 | 2023-12-15 | 726,562 | 12,953 |
 | 2023-12-16 | 730,184 | 12,954 |
-| 2023-12-17 | 732,179 | 12,955 |
+| 2023-12-17 | 732,391 | 12,955 |
 ## Awards
 Max (Great Boss Battles): 6,944  (Ranked 55)  
 Sum: 12,182 (Ranked 84)  

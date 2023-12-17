@@ -6,9 +6,9 @@
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 196,
-  "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4940,
+  "EOS_Progressed": 4943,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3616,6 +3616,11 @@
       "Time": "2023-12-17T13:07:36.5382257+00:00",
       "NumProgressed": 4940,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-17T14:06:14.5436446+00:00",
+      "NumProgressed": 4943,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3627,7 +3632,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -3635,7 +3640,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -3643,7 +3648,7 @@
       "Name": "Big Sister",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -3675,7 +3680,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4150
+      "UsersEstimate": 4152
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3683,7 +3688,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4644
+      "UsersEstimate": 4646
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3691,7 +3696,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3804
+      "UsersEstimate": 3806
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -3699,7 +3704,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -3707,7 +3712,7 @@
       "Name": "CREO Killed the Video Star",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ID_ACHIEV_12",
@@ -3731,7 +3736,7 @@
       "Name": "Who\u0027s in Charge Here?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ID_ACHIEV_15",
@@ -3787,7 +3792,7 @@
       "Name": "Shall Not Pass",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -3811,7 +3816,7 @@
       "Name": "Core Power",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -3843,7 +3848,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3754
+      "UsersEstimate": 3757
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3875,7 +3880,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2717
+      "UsersEstimate": 2719
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -3891,7 +3896,7 @@
       "Name": "Most Wanted",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -3899,7 +3904,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -3907,7 +3912,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -3915,7 +3920,7 @@
       "Name": "I Choose You",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -3947,7 +3952,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -3963,7 +3968,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -3971,7 +3976,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -3979,7 +3984,7 @@
       "Name": "SENTINEL",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -4011,7 +4016,7 @@
       "Name": "Carbon Cat",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ID_ACHIEV_51",
@@ -4041,9 +4046,9 @@
       "ID": "ID_ACHIEV_54",
       "SetID": "98bke8c",
       "Name": "No More Marching",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 395
     },
     {
       "ID": "ID_ACHIEV_55",
@@ -4162,15 +4167,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4940,
+      "Progressed": 4943,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:07:36.5382254+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:06:14.5436442+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:00:22.256449+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:07:36.5382941+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:58:00.0253106+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:06:14.5437022+00:00"
 }

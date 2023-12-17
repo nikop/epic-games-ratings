@@ -12,7 +12,7 @@ Number of Ratings: 90  (23.09.2022)
 | Furon Fashion | 36.00% | ~35 |
 | Shop Til They Drop | 29.00% | ~28 |
 | Earthly Pleasures | 27.00% | ~26 |
-| Bodied Sattva | 21.00% | ~20 |
+| Bodied Sattva | 22.00% | ~21 |
 | Pimp My Raid | 20.00% | ~19 |
 | Cult Following | 19.00% | ~18 |
 | Upgreatest | 18.00% | ~17 |
@@ -52,7 +52,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 97 (Ranked 462)  
-Completed: 0 (0.00%) (Ranked 379)  
+Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

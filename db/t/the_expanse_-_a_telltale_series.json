@@ -6,8 +6,8 @@
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_Completed": 252,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16617,
+  "EOS_Progressed": 16624,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -14148,6 +14148,11 @@
       "Time": "2023-12-17T13:06:04.2896578+00:00",
       "NumProgressed": 16617,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-17T14:04:05.9856925+00:00",
+      "NumProgressed": 16624,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14176,7 +14181,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "12",
@@ -14192,7 +14197,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "14",
@@ -14208,7 +14213,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "16",
@@ -14224,7 +14229,7 @@
       "Name": "Spore Taste",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "18",
@@ -14240,7 +14245,7 @@
       "Name": "Martian Music",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "2",
@@ -14264,7 +14269,7 @@
       "Name": "Drone Dodger",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "22",
@@ -14368,7 +14373,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "7",
@@ -14392,7 +14397,7 @@
       "Name": "Impossible Objects",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "31",
@@ -14400,7 +14405,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "32",
@@ -14439,22 +14444,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16617,
+      "Progressed": 16624,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2571,
-      "Completed": 914
+      "Progressed": 2578,
+      "Completed": 917
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-16T18:58:26.9677078+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:06:04.2896572+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:04:05.9856919+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:01:28.4949544+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:06:04.2897682+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:59:40.2568039+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:04:05.9858556+00:00"
 }

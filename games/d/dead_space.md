@@ -1,60 +1,60 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.65 (Ranked 318)  
+Rating: 4.65 (Ranked 319)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 95.00% | ~5,098 |
-| Welcome Aboard | 78.00% | ~4,185 |
-| Lab Rat | 59.00% | ~3,166 |
-| All Systems Go | 46.00% | ~2,468 |
-| Raise the Stakes | 44.00% | ~2,361 |
-| Brute Force | 44.00% | ~2,361 |
-| Cannon Fodder | 39.00% | ~2,093 |
-| Autofire | 38.00% | ~2,039 |
-| True Believer | 35.00% | ~1,878 |
-| Story Teller | 34.00% | ~1,824 |
-| Surgeon | 31.00% | ~1,663 |
-| Freeze | 31.00% | ~1,663 |
-| Exterminator | 31.00% | ~1,663 |
-| Greenhouse Effect | 30.00% | ~1,610 |
-| Full Arsenal | 27.00% | ~1,449 |
-| Live with the Hot Ones | 26.00% | ~1,395 |
-| S.O.S. | 26.00% | ~1,395 |
-| Get Off My Ship! | 24.00% | ~1,288 |
-| Strange Transmissions | 24.00% | ~1,288 |
-| Wreckage | 23.00% | ~1,234 |
-| Keeper of the Faith | 21.00% | ~1,127 |
-| Betrayed | 20.00% | ~1,073 |
-| Exodus | 19.00% | ~1,020 |
-| A Cut Above | 19.00% | ~1,020 |
-| Legend Teller | 19.00% | ~1,020 |
-| There's Always Peng! | 19.00% | ~1,020 |
-| Mindless Prey | 19.00% | ~1,020 |
-| Front Toward Enemy | 18.00% | ~966 |
-| Whole Again | 15.00% | ~805 |
-| Set A Benchmark | 15.00% | ~805 |
-| Full Contact | 14.00% | ~751 |
-| Final Regeneration | 13.00% | ~698 |
-| Pack Rat | 13.00% | ~698 |
-| Full Clearance | 13.00% | ~698 |
-| Pusher | 12.00% | ~644 |
-| Z-Baller | 11.00% | ~590 |
-| Eviscerator | 10.00% | ~537 |
-| Marked | 10.00% | ~537 |
-| Backbreaker | 8.00% | ~429 |
-| Wishbone | 5.00% | ~268 |
-| Trusted Contractor | 3.00% | ~161 |
-| Built To Order | 3.00% | ~161 |
-| Merchant | 2.00% | ~107 |
-| Reunion | 2.00% | ~107 |
+| Marksman | 95.00% | ~5,165 |
+| Welcome Aboard | 78.00% | ~4,241 |
+| Lab Rat | 59.00% | ~3,208 |
+| All Systems Go | 46.00% | ~2,501 |
+| Raise the Stakes | 44.00% | ~2,392 |
+| Brute Force | 44.00% | ~2,392 |
+| Cannon Fodder | 40.00% | ~2,175 |
+| Autofire | 38.00% | ~2,066 |
+| True Believer | 35.00% | ~1,903 |
+| Story Teller | 34.00% | ~1,849 |
+| Surgeon | 31.00% | ~1,685 |
+| Freeze | 31.00% | ~1,685 |
+| Exterminator | 31.00% | ~1,685 |
+| Greenhouse Effect | 30.00% | ~1,631 |
+| Full Arsenal | 26.00% | ~1,414 |
+| Live with the Hot Ones | 26.00% | ~1,414 |
+| S.O.S. | 26.00% | ~1,414 |
+| Get Off My Ship! | 24.00% | ~1,305 |
+| Strange Transmissions | 24.00% | ~1,305 |
+| Wreckage | 23.00% | ~1,251 |
+| Keeper of the Faith | 21.00% | ~1,142 |
+| Betrayed | 20.00% | ~1,087 |
+| Exodus | 19.00% | ~1,033 |
+| A Cut Above | 19.00% | ~1,033 |
+| Legend Teller | 19.00% | ~1,033 |
+| There's Always Peng! | 19.00% | ~1,033 |
+| Mindless Prey | 19.00% | ~1,033 |
+| Front Toward Enemy | 18.00% | ~979 |
+| Whole Again | 15.00% | ~816 |
+| Set A Benchmark | 15.00% | ~816 |
+| Full Contact | 14.00% | ~761 |
+| Final Regeneration | 13.00% | ~707 |
+| Pack Rat | 13.00% | ~707 |
+| Full Clearance | 13.00% | ~707 |
+| Pusher | 12.00% | ~652 |
+| Z-Baller | 11.00% | ~598 |
+| Eviscerator | 10.00% | ~544 |
+| Marked | 10.00% | ~544 |
+| Backbreaker | 8.00% | ~435 |
+| Wishbone | 5.00% | ~272 |
+| Trusted Contractor | 3.00% | ~163 |
+| Built To Order | 3.00% | ~163 |
+| Merchant | 2.00% | ~109 |
 | Untouchable | 1.00% | ~54 |
 | One Gun | 1.00% | ~54 |
 | Maxed Out | 1.00% | ~54 |
+| Reunion | 1.00% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,366 (Ranked 194)  
-Completed: 15 (0.28%) (Ranked 245)  
+Progressed: 5,437 (Ranked 194)  
+Completed: 15 (0.28%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -147,7 +147,7 @@ Completed: 15 (0.28%) (Ranked 245)
 | 2023-12-14 | 2,942 | 15 |
 | 2023-12-15 | 3,764 | 15 |
 | 2023-12-16 | 4,750 | 15 |
-| 2023-12-17 | 5,366 | 15 |
+| 2023-12-17 | 5,437 | 15 |
 ## Awards
 Max (Great Boss Battles): 123  (Ranked 346)  
 Sum: 123 (Ranked 444)  

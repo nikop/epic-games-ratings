@@ -15,13 +15,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Land of Greed | 3.00% | ~554 |
 | Ominous Presence | 3.00% | ~554 |
 | Gathering Storm | 3.00% | ~554 |
-| First Real Expedition | 2.00% | ~369 |
-| Overcoming Difficulty | 2.00% | ~369 |
-| Royal Outpost | 2.00% | ~369 |
-| Coral Forest | 2.00% | ~369 |
-| The Marshlands | 2.00% | ~369 |
-| The Scarlet Orchard | 2.00% | ~369 |
-| Untamed Wilds | 2.00% | ~369 |
+| First Real Expedition | 2.00% | ~370 |
+| Overcoming Difficulty | 2.00% | ~370 |
+| Royal Outpost | 2.00% | ~370 |
+| Coral Forest | 2.00% | ~370 |
+| The Marshlands | 2.00% | ~370 |
+| The Scarlet Orchard | 2.00% | ~370 |
+| Untamed Wilds | 2.00% | ~370 |
 | Homesick | 1.00% | ~185 |
 | Ruined Armory | 1.00% | ~185 |
 | Bandit Camp | 1.00% | ~185 |
@@ -41,10 +41,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Haunted Forest | 0.70% | ~129 |
 | Flooded Mines | 0.70% | ~129 |
 | Against All Odds | 0.60% | ~111 |
+| Defying the Crown | 0.60% | ~111 |
 | Serving Ale | 0.50% | ~92 |
 | Fishmen Ritual Site | 0.50% | ~92 |
 | Victory Through Prosperity | 0.50% | ~92 |
-| Defying the Crown | 0.50% | ~92 |
 | Into the Forest | 0.50% | ~92 |
 | Efficient Explorer | 0.40% | ~74 |
 | Refinery | 0.40% | ~74 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,472 (Ranked 147)  
-Completed: 39 (0.21%) (Ranked 261)  
+Progressed: 18,481 (Ranked 147)  
+Completed: 39 (0.21%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -307,15 +307,15 @@ Completed: 39 (0.21%) (Ranked 261)
 | 2023-12-14 | 18,153 | 40 |
 | 2023-12-15 | 18,272 | 39 |
 | 2023-12-16 | 18,388 | 39 |
-| 2023-12-17 | 18,472 | 40 |
+| 2023-12-17 | 18,481 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 227)  
-Sum: 3,265 (Ranked 174)  
+Sum: 3,266 (Ranked 174)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 442 |
-| This game is Relaxing | 436 |
+| This game is Relaxing | 437 |
 | This game is Great for Beginners | 428 |
 | This game is Extremely Fun | 410 |
 | This game is Highly Recommended | 392 |
@@ -583,4 +583,4 @@ Diff (max vs sum): 53
 | 2023-12-14 | 4.82 | - | 442 | 3,258 |
 | 2023-12-15 | 4.82 | - | 442 | 3,262 |
 | 2023-12-16 | 4.82 | - | 442 | 3,264 |
-| 2023-12-17 | 4.82 | - | 442 | 3,265 |
+| 2023-12-17 | 4.82 | - | 442 | 3,266 |

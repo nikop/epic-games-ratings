@@ -6,9 +6,9 @@
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1009,
+  "EOS_Progressed": 1010,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2764,6 +2764,11 @@
       "Time": "2023-12-17T10:10:05.5682723+00:00",
       "NumProgressed": 1009,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-17T14:10:31.5587037+00:00",
+      "NumProgressed": 1010,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2781,9 +2786,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 212
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2895,7 +2900,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2941,9 +2946,9 @@
       "ID": "HexlockGift",
       "SetID": "a9e499d",
       "Name": "Hexlock for Protection",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 61
     },
     {
       "ID": "InxChromaInTheatre",
@@ -2965,9 +2970,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 232
     },
     {
       "ID": "MapCompletion1",
@@ -3053,9 +3058,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 232
     },
     {
       "ID": "RewindDamage1",
@@ -3063,7 +3068,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "RewindParry",
@@ -3198,7 +3203,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1009,
+      "Progressed": 1010,
       "Completed": 6
     }
   ],
@@ -3206,8 +3211,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:11:58.9700727+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:10:31.5587034+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:00:19.1533772+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:11:58.9701402+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:57:55.777832+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:10:31.558746+00:00"
 }

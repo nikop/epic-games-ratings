@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 318)  
+Rating: 4.65 (Ranked 319)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -80,6 +80,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 2.00% | ~316 |
 | Acropolis | 2.00% | ~316 |
 | Circus Maximus | 2.00% | ~316 |
+| Hagia Sophia | 2.00% | ~316 |
 | Temple of Solomon | 2.00% | ~316 |
 | Mausoleum | 2.00% | ~316 |
 | Via Recta Souk | 2.00% | ~316 |
@@ -89,6 +90,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 2.00% | ~316 |
 | Building Wonders | 2.00% | ~316 |
 | Economic Reform | 2.00% | ~316 |
+| Military Prestige | 2.00% | ~316 |
 | Legalism | 2.00% | ~316 |
 | Mythology | 2.00% | ~316 |
 | Double Victory | 2.00% | ~316 |
@@ -107,7 +109,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 1.00% | ~158 |
 | Statesmen | 1.00% | ~158 |
 | Hittite Iron | 1.00% | ~158 |
-| Hagia Sophia | 1.00% | ~158 |
 | Church of the Holy Sepulchre | 1.00% | ~158 |
 | Pantheon | 1.00% | ~158 |
 | Learn to Play 4 | 1.00% | ~158 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 1.00% | ~158 |
 | Hittite Paganism | 1.00% | ~158 |
 | Industrial Progress | 1.00% | ~158 |
-| Military Prestige | 1.00% | ~158 |
 | Dualism | 1.00% | ~158 |
 | Enlightenment | 1.00% | ~158 |
 | Gnosticism | 1.00% | ~158 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,794 (Ranked 155)  
-Completed: 5 (0.03%) (Ranked 340)  
+Progressed: 15,796 (Ranked 155)  
+Completed: 5 (0.03%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -590,7 +590,7 @@ Completed: 5 (0.03%) (Ranked 340)
 | 2023-12-14 | 15,760 | 5 |
 | 2023-12-15 | 15,768 | 5 |
 | 2023-12-16 | 15,789 | 5 |
-| 2023-12-17 | 15,794 | 5 |
+| 2023-12-17 | 15,796 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 278)  
 Sum: 1,901 (Ranked 220)  

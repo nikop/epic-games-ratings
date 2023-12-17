@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 69.00% | ~18 |
-| Sea Legs | 65.00% | ~17 |
-| What?! | 42.00% | ~11 |
-| Frogs Legs | 31.00% | ~8 |
-| Mad Scientist | 23.00% | ~6 |
+| Shipwrecked! | 70.00% | ~19 |
+| Sea Legs | 67.00% | ~18 |
+| What?! | 41.00% | ~11 |
+| Frogs Legs | 30.00% | ~8 |
+| Mad Scientist | 22.00% | ~6 |
 | Socialite | 19.00% | ~5 |
 | Hoist the Sails | 19.00% | ~5 |
 | Secure the Sheets | 19.00% | ~5 |
 | Couch-surfing | 15.00% | ~4 |
 | Hands on the Helm | 15.00% | ~4 |
-| Who Even Needs Keys | 12.00% | ~3 |
-| Shrub-Seeing: Townlife | 12.00% | ~3 |
-| Shrub-Seeing: Silly Birbs | 12.00% | ~3 |
-| Sailor Swift | 12.00% | ~3 |
-| No Evil | 12.00% | ~3 |
-| Replace the Rudder | 12.00% | ~3 |
-| Shrub-Seeing: Ruins of old | 8.00% | ~2 |
-| Yeet! | 8.00% | ~2 |
-| Caught Ya! | 8.00% | ~2 |
-| Safe Investment | 8.00% | ~2 |
-| Bank of Me | 8.00% | ~2 |
-| Honey, I'm Home | 8.00% | ~2 |
-| Fantastic Fungi | 8.00% | ~2 |
-| Home Sweet Home | 8.00% | ~2 |
-| The Journey Continues | 8.00% | ~2 |
+| Who Even Needs Keys | 11.00% | ~3 |
+| Shrub-Seeing: Townlife | 11.00% | ~3 |
+| Shrub-Seeing: Silly Birbs | 11.00% | ~3 |
+| Sailor Swift | 11.00% | ~3 |
+| No Evil | 11.00% | ~3 |
+| Replace the Rudder | 11.00% | ~3 |
+| Shrub-Seeing: Ruins of old | 7.00% | ~2 |
+| Yeet! | 7.00% | ~2 |
+| Caught Ya! | 7.00% | ~2 |
+| Safe Investment | 7.00% | ~2 |
+| Bank of Me | 7.00% | ~2 |
+| Honey, I'm Home | 7.00% | ~2 |
+| Fantastic Fungi | 7.00% | ~2 |
+| Home Sweet Home | 7.00% | ~2 |
+| The Journey Continues | 7.00% | ~2 |
 | Crunch Time | 4.00% | ~1 |
 | One with the frogs | 4.00% | ~1 |
 | Shrub-Seeing: Lights in the sky | 4.00% | ~1 |
@@ -40,8 +40,8 @@
 | Falling with Style | 4.00% | ~1 |
 | Froggy Friendship | 4.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26 (Ranked 567)  
-Completed: 1 (3.85%) (Ranked 94)  
+Progressed: 27 (Ranked 561)  
+Completed: 1 (3.70%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,6 +67,7 @@ Completed: 1 (3.85%) (Ranked 94)
 | 2023-12-14 | 23 | 1 |
 | 2023-12-15 | 24 | 1 |
 | 2023-12-16 | 26 | 1 |
+| 2023-12-17 | 27 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

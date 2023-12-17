@@ -6,43 +6,43 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,329 |
-| Gun Fu | 8.00% | ~78,220 |
-| Right Back At Ya | 6.00% | ~58,665 |
-| The Fool | 6.00% | ~58,665 |
-| The Lovers | 5.00% | ~48,887 |
-| Full Body Conversion | 4.00% | ~39,110 |
-| Stanislavski's Method | 4.00% | ~39,110 |
-| The Hermit | 4.00% | ~39,110 |
-| The Wheel of Fortune | 4.00% | ~39,110 |
-| True Soldier | 4.00% | ~39,110 |
-| All the President's Men | 4.00% | ~4,255 |
-| Arachnophobia | 4.00% | ~4,255 |
-| Christmas Tree Attack | 3.00% | ~29,332 |
-| Life of the Road | 3.00% | ~29,332 |
-| The High Priestess | 3.00% | ~29,332 |
-| True Warrior | 3.00% | ~29,332 |
-| Legend of The Afterlife | 3.00% | ~29,332 |
-| Relic Ruler | 3.00% | ~3,191 |
-| Bushido and Chill | 2.00% | ~19,555 |
-| To Protect and Serve | 2.00% | ~19,555 |
-| Master Crafter | 2.00% | ~19,555 |
-| I Am The Law | 2.00% | ~19,555 |
-| The Quick and the Dead | 2.00% | ~19,555 |
-| The World | 2.00% | ~19,555 |
-| Two Heads, One Bullet | 2.00% | ~19,555 |
-| Judy vs Night City | 2.00% | ~19,555 |
-| The Wandering Fool | 1.00% | ~9,777 |
+| V for Vendetta | 12.00% | ~117,335 |
+| Gun Fu | 8.00% | ~78,223 |
+| Right Back At Ya | 6.00% | ~58,667 |
+| The Fool | 6.00% | ~58,667 |
+| The Lovers | 5.00% | ~48,889 |
+| Full Body Conversion | 4.00% | ~39,112 |
+| Stanislavski's Method | 4.00% | ~39,112 |
+| The Hermit | 4.00% | ~39,112 |
+| The Wheel of Fortune | 4.00% | ~39,112 |
+| True Soldier | 4.00% | ~39,112 |
+| All the President's Men | 4.00% | ~4,256 |
+| Arachnophobia | 4.00% | ~4,256 |
+| Christmas Tree Attack | 3.00% | ~29,334 |
+| Life of the Road | 3.00% | ~29,334 |
+| The High Priestess | 3.00% | ~29,334 |
+| True Warrior | 3.00% | ~29,334 |
+| Legend of The Afterlife | 3.00% | ~29,334 |
+| Relic Ruler | 3.00% | ~3,192 |
+| Bushido and Chill | 2.00% | ~19,556 |
+| To Protect and Serve | 2.00% | ~19,556 |
+| Master Crafter | 2.00% | ~19,556 |
+| I Am The Law | 2.00% | ~19,556 |
+| The Quick and the Dead | 2.00% | ~19,556 |
+| The World | 2.00% | ~19,556 |
+| Two Heads, One Bullet | 2.00% | ~19,556 |
+| Judy vs Night City | 2.00% | ~19,556 |
+| The Wandering Fool | 1.00% | ~9,778 |
 | Spin Doctor | 1.00% | ~1,064 |
 | King of Wands | 1.00% | ~1,064 |
 | Easy Come, Easy Go | 1.00% | ~1,064 |
 | Ten out of Ten | 0.90% | ~8,800 |
 | The Sun | 0.90% | ~8,800 |
-| Dirty Deeds | 0.90% | ~957 |
+| Dirty Deeds | 0.90% | ~958 |
 | To Bad Decisions! | 0.80% | ~7,822 |
-| Breathtaking | 0.70% | ~6,844 |
-| The Star | 0.70% | ~6,844 |
-| Autojock | 0.60% | ~5,866 |
+| Breathtaking | 0.70% | ~6,845 |
+| The Star | 0.70% | ~6,845 |
+| Autojock | 0.60% | ~5,867 |
 | Judgement Day | 0.60% | ~638 |
 | The Tower | 0.60% | ~638 |
 | Must Be Rats | 0.50% | ~4,889 |
@@ -52,14 +52,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Swords | 0.50% | ~532 |
 | City Lights | 0.30% | ~2,933 |
 | King of Cups | 0.30% | ~319 |
-| Gunslinger | 0.20% | ~1,955 |
-| Mean Streets | 0.20% | ~1,955 |
-| Little Tokyo | 0.20% | ~1,955 |
-| The Wasteland | 0.20% | ~1,955 |
-| The Devil | 0.20% | ~1,955 |
-| Greetings from Pacifica! | 0.20% | ~1,955 |
-| The Jungle | 0.20% | ~1,955 |
-| It's Elementary | 0.20% | ~1,955 |
+| Gunslinger | 0.20% | ~1,956 |
+| Mean Streets | 0.20% | ~1,956 |
+| Little Tokyo | 0.20% | ~1,956 |
+| The Wasteland | 0.20% | ~1,956 |
+| The Devil | 0.20% | ~1,956 |
+| Greetings from Pacifica! | 0.20% | ~1,956 |
+| The Jungle | 0.20% | ~1,956 |
+| It's Elementary | 0.20% | ~1,956 |
 | Frequent Flyer | 0.10% | ~978 |
 | Daemon In The Shell | 0.10% | ~978 |
 | Rough Landing | 0.10% | ~978 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 977,745 (Ranked 16)  
-Completed: 2,926 (0.30%) (Ranked 242)  
+Progressed: 977,789 (Ranked 16)  
+Completed: 2,926 (0.30%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -315,7 +315,7 @@ Completed: 2,926 (0.30%) (Ranked 242)
 | 2023-12-14 | 976,057 | 2,907 |
 | 2023-12-15 | 976,625 | 2,913 |
 | 2023-12-16 | 977,366 | 2,924 |
-| 2023-12-17 | 977,745 | 2,926 |
+| 2023-12-17 | 977,789 | 2,926 |
 ## Awards
 Max (Character Customization): 123,963  (Ranked 8)  
 Sum: 425,518 (Ranked 9)  

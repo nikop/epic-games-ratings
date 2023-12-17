@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mighty Powers | 80.00% | ~37 |
-| Grand Re-Opening | 67.00% | ~31 |
+| Grand Re-Opening | 70.00% | ~32 |
 | Pup Pup Boogie | 67.00% | ~31 |
 | Summer Day | 63.00% | ~29 |
 | Mr. Porter | 54.00% | ~25 |
 | Risky Rescue | 52.00% | ~24 |
 | Carlos Is Tangled | 50.00% | ~23 |
+| Clear the Road | 43.00% | ~20 |
 | Mandy Family | 43.00% | ~20 |
-| Clear the Road | 41.00% | ~19 |
 | Paw patrol member | 41.00% | ~19 |
 | Robot Out of Control | 41.00% | ~19 |
 | Break Time | 35.00% | ~16 |
@@ -36,7 +36,7 @@
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 46 (Ranked 524)  
-Completed: 0 (0.00%) (Ranked 379)  
+Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

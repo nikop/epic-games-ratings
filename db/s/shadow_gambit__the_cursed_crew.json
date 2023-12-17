@@ -6,9 +6,9 @@
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 263,
-  "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_Completed": 118,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -149,9 +149,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1189,
+  "EOS_Progressed": 1190,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.69,
   "EosHistory": [
@@ -3989,6 +3989,11 @@
       "Time": "2023-12-17T13:08:46.7892544+00:00",
       "NumProgressed": 1189,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-17T14:07:54.678868+00:00",
+      "NumProgressed": 1190,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4025,7 +4030,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "_05_FinishAct2",
@@ -4121,7 +4126,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4208,7 +4213,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1189,
+      "Progressed": 1190,
       "Completed": 32
     }
   ],
@@ -4216,8 +4221,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-17T13:08:46.7892537+00:00",
+  "LastChanged_Achievements": "2023-12-17T14:07:54.6788676+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-17T13:02:41.0995673+00:00",
-  "LastUpdate_Achievements": "2023-12-17T13:08:46.7892915+00:00"
+  "LastUpdate_Ratings": "2023-12-17T14:01:32.0160265+00:00",
+  "LastUpdate_Achievements": "2023-12-17T14:07:54.6789146+00:00"
 }
