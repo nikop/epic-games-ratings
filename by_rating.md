@@ -849,7 +849,7 @@
 | 843 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.31 | 71 | 405 |
 | 843 | [Hellpoint](games/h/hellpoint.md) | 4.31 | 0 | 565 |
 | 843 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 992 | 157 |
-| 850 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.30 | 1,016 | 154 |
+| 850 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.30 | 1,037 | 154 |
 | 850 | [ELEX II](games/e/elex_ii.md) | 4.30 | 0 | 565 |
 | 850 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.30 | 0 | 565 |
 | 850 | [Neverwinter](games/n/neverwinter.md) | 4.30 | 779 | 175 |

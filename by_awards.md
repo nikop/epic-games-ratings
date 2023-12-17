@@ -153,7 +153,7 @@
 | 151 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,057 | 4.40 | 745 |
 | 152 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 1,049 | 4.48 | 637 |
 | 153 | [Ooblets](games/o/ooblets.md) | 1,048 | 4.88 | 16 |
-| 154 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 1,016 | 4.30 | 850 |
+| 154 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 1,037 | 4.30 | 850 |
 | 155 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 908 |
 | 156 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 997 | 4.54 | 535 |
 | 157 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 992 | 4.31 | 843 |

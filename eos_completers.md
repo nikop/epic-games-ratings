@@ -14,12 +14,12 @@
 | 12 | [Volley Pals](games/v/volley_pals.md) | 31.25% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.26% |
 | 14 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 26.09% |
-| 15 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 25.88% |
+| 15 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 25.58% |
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.71% |
 | 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 20 | [The Riflemen](games/t/the_riflemen.md) | 20.91% |
+| 20 | [The Riflemen](games/t/the_riflemen.md) | 20.90% |
 | 21 | [Doodle Devil](games/d/doodle_devil.md) | 20.69% |
 | 22 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 22 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
@@ -63,12 +63,12 @@
 | 61 | [Time Loader](games/t/time_loader.md) | 6.82% |
 | 62 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.67% |
 | 62 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 6.67% |
-| 64 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.36% |
-| 65 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 66 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
-| 67 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.93% |
-| 68 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 5.88% |
-| 69 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.79% |
+| 64 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.61% |
+| 65 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.36% |
+| 66 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 67 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
+| 68 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.93% |
+| 69 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 5.88% |
 | 70 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 71 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.54% |
 | 72 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.46% |
@@ -80,11 +80,11 @@
 | 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.72% |
 | 79 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.69% |
 | 80 | [ZZT!](games/z/zzt!.md) | 4.67% |
-| 81 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.41% |
-| 82 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.40% |
-| 83 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
-| 84 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.33% |
-| 85 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.29% |
+| 81 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.40% |
+| 81 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.40% |
+| 83 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.36% |
+| 84 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
+| 85 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.33% |
 | 86 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.23% |
 | 87 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.20% |
 | 88 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 4.17% |
@@ -146,8 +146,8 @@
 | 143 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.57% |
 | 145 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
 | 146 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.47% |
-| 147 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.44% |
-| 148 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.43% |
+| 147 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.43% |
+| 147 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.43% |
 | 149 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.39% |
 | 150 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.31% |
 | 151 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
