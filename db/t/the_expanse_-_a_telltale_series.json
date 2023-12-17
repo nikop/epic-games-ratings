@@ -2,12 +2,12 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 535,
+  "Ranking_Rating": 536,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -283,7 +283,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16614,
+  "EOS_Progressed": 16617,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 1,
@@ -14143,6 +14143,11 @@
       "Time": "2023-12-17T12:03:55.8195271+00:00",
       "NumProgressed": 16614,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-17T13:06:04.2896578+00:00",
+      "NumProgressed": 16617,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14243,7 +14248,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "20",
@@ -14283,7 +14288,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "25",
@@ -14307,7 +14312,7 @@
       "Name": "Bosmang",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1496
     },
     {
       "ID": "28",
@@ -14331,7 +14336,7 @@
       "Name": "Captain Drummer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1496
     },
     {
       "ID": "30",
@@ -14434,22 +14439,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16614,
+      "Progressed": 16617,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2568,
-      "Completed": 911
+      "Progressed": 2571,
+      "Completed": 914
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-16T18:58:26.9677078+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:03:55.8195266+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:06:04.2896572+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-17T11:59:23.1658332+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:03:55.8196068+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:01:28.4949544+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:06:04.2897682+00:00"
 }

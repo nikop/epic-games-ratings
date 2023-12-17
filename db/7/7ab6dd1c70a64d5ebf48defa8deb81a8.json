@@ -2,7 +2,7 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 296,
+  "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 100,
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 689,
+  "EOS_Progressed": 694,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.44,
+  "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -1520,6 +1520,11 @@
       "Time": "2023-12-17T12:10:43.7760636+00:00",
       "NumProgressed": 689,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T13:12:11.2102142+00:00",
+      "NumProgressed": 694,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1531,15 +1536,15 @@
       "Name": "Break Out",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_03",
@@ -1547,7 +1552,7 @@
       "Name": "Powerful Allies",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_04",
@@ -1603,7 +1608,7 @@
       "Name": "Trinity",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_11",
@@ -1625,9 +1630,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_14",
@@ -1651,7 +1656,7 @@
       "Name": "Essence Blow",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_17",
@@ -1691,7 +1696,7 @@
       "Name": "Big Bazar",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_22",
@@ -1729,9 +1734,9 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_27",
@@ -1745,9 +1750,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_29",
@@ -1771,7 +1776,7 @@
       "Name": "Stone Collection",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_33",
@@ -1818,14 +1823,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 689,
+      "Progressed": 694,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:10:43.7760632+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:12:11.2102141+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-17T12:00:11.6781636+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:10:43.7761149+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:02:01.2681611+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:12:11.2102384+00:00"
 }

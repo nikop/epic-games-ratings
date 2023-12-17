@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 97.00% | ~106 |
-| A bottomless pit | 82.00% | ~89 |
-| Pigeon | 78.00% | ~85 |
-| Baited | 67.00% | ~73 |
+| A path of no return | 98.00% | ~107 |
+| A bottomless pit | 83.00% | ~90 |
+| Pigeon | 79.00% | ~86 |
+| Baited | 68.00% | ~74 |
 | "Swoosh" | 59.00% | ~64 |
 | The light at the end of the tunnel | 58.00% | ~63 |
 | Masochistic | 52.00% | ~57 |
@@ -29,8 +29,8 @@
 | Full power | 23.00% | ~25 |
 | "Ah sh*t... Here we go again!" | 23.00% | ~25 |
 | Compulsive hoarder | 22.00% | ~24 |
-| GG EZ | 16.00% | ~17 |
-| Comeback | 16.00% | ~17 |
+| GG EZ | 17.00% | ~19 |
+| Comeback | 17.00% | ~19 |
 | MayDay! MayDay! | 11.00% | ~12 |
 | Gooooooaaaaal!!! | 8.00% | ~9 |
 | Sadistic | 2.00% | ~2 |

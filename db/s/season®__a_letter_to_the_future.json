@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1465,
+  "EOS_Progressed": 1470,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 4.3,
+  "EOS_Completed_Percentage": 4.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -3079,6 +3079,11 @@
       "Time": "2023-12-17T12:10:22.8675187+00:00",
       "NumProgressed": 1465,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-12-17T13:11:55.3571576+00:00",
+      "NumProgressed": 1470,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 16,
@@ -3090,7 +3095,7 @@
       "Name": "Artist Assistant",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -3098,7 +3103,7 @@
       "Name": "Deep Listener",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 410
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -3106,7 +3111,7 @@
       "Name": "Dream Listener",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -3114,7 +3119,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -3122,7 +3127,7 @@
       "Name": "Goodbye Tieng Valley",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_GRAFFITIARTIST",
@@ -3138,7 +3143,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -3146,7 +3151,7 @@
       "Name": "Home Leaver",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1191
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -3154,7 +3159,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1191
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -3162,7 +3167,7 @@
       "Name": "Love Uncoverer",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_MUSICFORCOWS",
@@ -3170,7 +3175,7 @@
       "Name": "Music for Cows",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -3178,7 +3183,7 @@
       "Name": "Outside World Seer",
       "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 938
+      "UsersEstimate": 941
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -3186,7 +3191,7 @@
       "Name": "Shrine Arriver",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -3194,15 +3199,15 @@
       "Name": "Stranger Encounterer",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 586
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH_THEEND",
       "SetID": "7pam6gn",
       "Name": "The End",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 190
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_TOURDETIENG",
@@ -3217,7 +3222,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1465,
+      "Progressed": 1470,
       "Completed": 63
     }
   ],
@@ -3225,8 +3230,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:10:22.8675183+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:11:55.3571574+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:50.4706145+00:00",
-  "LastUpdate_Ratings": "2023-12-17T11:59:50.7642544+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:10:22.8675426+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:01:46.3911886+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:11:55.3571831+00:00"
 }

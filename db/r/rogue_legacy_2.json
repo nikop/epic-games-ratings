@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 25063,
+  "EOS_Progressed": 25091,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1377,
+  "EOS_NewPlayers": 1405,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -10845,6 +10845,11 @@
       "Time": "2023-12-17T12:10:18.3528807+00:00",
       "NumProgressed": 25063,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-17T13:11:52.0331702+00:00",
+      "NumProgressed": 25091,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10864,7 +10869,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "AllEquipment",
@@ -10888,7 +10893,7 @@
       "Name": "Pillow Investments",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "AllScarsBronze",
@@ -10902,9 +10907,9 @@
       "ID": "AllSkills",
       "SetID": "3ojhj46",
       "Name": "Looks Familiar",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 151
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -10920,7 +10925,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -10936,7 +10941,7 @@
       "Name": "Spells and Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -10984,7 +10989,7 @@
       "Name": "Harvest and Home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -11016,7 +11021,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -11032,7 +11037,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "BoxerBoss",
@@ -11048,7 +11053,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "EndTimerFail",
@@ -11104,7 +11109,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "PrequelReveal",
@@ -11167,21 +11172,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 25063,
+      "Progressed": 25091,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 3993,
+      "Progressed": 4021,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:10:18.3528802+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:11:52.0331696+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-17T12:01:22.198624+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:10:18.3529603+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:02:49.2176773+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:11:52.033231+00:00"
 }

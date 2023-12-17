@@ -4,8 +4,8 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 266,
+  "EOS_Progressed": 267,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.63,
+  "EOS_Completed_Percentage": 2.62,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -496,6 +496,11 @@
       "Time": "2023-12-17T11:05:51.797012+00:00",
       "NumProgressed": 266,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-17T13:08:40.5163099+00:00",
+      "NumProgressed": 267,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 17,
@@ -563,7 +568,7 @@
       "Name": "No One Is Safe",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "off_his_meds",
@@ -635,14 +640,14 @@
       "Name": "Will This Help?",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 266,
+      "Progressed": 267,
       "Completed": 7
     }
   ],
@@ -650,8 +655,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:07:20.5270377+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:08:40.5163093+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:54.4004321+00:00",
-  "LastUpdate_Ratings": "2023-12-17T11:58:34.0330503+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:07:20.5270507+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:00:53.3763479+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:08:40.5163236+00:00"
 }

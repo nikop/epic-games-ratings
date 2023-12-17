@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1407,
+  "EOS_Progressed": 1408,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3368,6 +3368,11 @@
       "Time": "2023-12-17T11:09:28.1285318+00:00",
       "NumProgressed": 1407,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T13:12:04.9904031+00:00",
+      "NumProgressed": 1408,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3435,7 +3440,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "EXPERT_1",
@@ -3537,9 +3542,9 @@
       "ID": "ONE_SHOT_ONE_KILL_1",
       "SetID": "bf13m8j",
       "Name": "One shot, one kill",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 380
     },
     {
       "ID": "PACIFIST",
@@ -3651,7 +3656,7 @@
       "Name": "Wanderer",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "WISHMASTER_1",
@@ -3666,15 +3671,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1407,
+      "Progressed": 1408,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:10:35.8653828+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:12:04.9904029+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.4071615+00:00",
-  "LastUpdate_Ratings": "2023-12-17T12:01:17.3370442+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:10:35.8654148+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:02:46.1885323+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:12:04.990436+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 5.00% | ~923 |
-| Overgrown Library | 5.00% | ~923 |
+| Abandoned Settlement | 5.00% | ~924 |
+| Overgrown Library | 5.00% | ~924 |
 | Petrified Necropolis | 4.00% | ~739 |
 | Taking Action | 3.00% | ~554 |
 | No Deaths | 3.00% | ~554 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,464 (Ranked 147)  
+Progressed: 18,472 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 39 (0.21%) (Ranked 261)
 | 2023-12-14 | 18,153 | 40 |
 | 2023-12-15 | 18,272 | 39 |
 | 2023-12-16 | 18,388 | 39 |
-| 2023-12-17 | 18,464 | 40 |
+| 2023-12-17 | 18,472 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 227)  
 Sum: 3,265 (Ranked 174)  

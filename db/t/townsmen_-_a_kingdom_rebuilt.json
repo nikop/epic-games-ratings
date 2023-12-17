@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4383,
+  "EOS_Progressed": 4385,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1732,6 +1732,11 @@
       "Time": "2023-12-17T08:10:06.0056545+00:00",
       "NumProgressed": 4383,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-17T13:12:17.3951384+00:00",
+      "NumProgressed": 4385,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -1791,7 +1796,7 @@
       "Name": "Bread for the people III",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_BREWS",
@@ -1839,7 +1844,7 @@
       "Name": "I like to build stuff... V",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_BURNEDDOWN1",
@@ -1863,7 +1868,7 @@
       "Name": "The King\u0027s new clothes II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_CLOTHES3",
@@ -1903,7 +1908,7 @@
       "Name": "Saint Florian",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_FOUR_DESASTERS",
@@ -1927,7 +1932,7 @@
       "Name": "My precious... II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_JEWELS3",
@@ -1959,7 +1964,7 @@
       "Name": "Cosmas and Damian",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_PLAGEAFFLICTED1",
@@ -1991,7 +1996,7 @@
       "Name": "Builder III",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_POPULATION4",
@@ -2431,7 +2436,7 @@
       "Name": "A time consuming game I",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACHIEVEMENT_TIME2",
@@ -2455,7 +2460,7 @@
       "Name": "A time consuming game IV",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_TIME5",
@@ -2535,7 +2540,7 @@
       "Name": "Out of the frying pan",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_YOUSHALLNOTPASS",
@@ -2550,15 +2555,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4383,
+      "Progressed": 4385,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-04T22:59:34.0965429+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:10:50.8600199+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:12:17.3951382+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.0701157+00:00",
-  "LastUpdate_Ratings": "2023-12-17T12:00:19.8998736+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:10:50.8601119+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:02:08.3096904+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:12:17.395262+00:00"
 }

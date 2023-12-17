@@ -2,13 +2,13 @@
   "ID": "be886d9db65047a89b24cd4317695f18",
   "Name": "Frostpunk",
   "ProductSlug": "frostpunk",
-  "Ranking_Rating": 162,
+  "Ranking_Rating": 161,
   "Ranking_Popularity": 172,
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-06-03T15:00:00+00:00",
     "PcReleaseDate": "2021-06-03T15:00:00+00:00",
@@ -6631,8 +6631,8 @@
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
   "LastChanged": "2023-12-16T21:58:57.5796117+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:09:33.7046361+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:11:17.6965852+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.3357387+00:00",
-  "LastUpdate_Ratings": "2023-12-17T12:00:09.4032664+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:09:33.7046395+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:01:59.6165813+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:11:17.696587+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 6.00% | ~401 |
+| A Friend in Need... | 6.00% | ~402 |
 | Smooth Operator: Madison | 5.00% | ~335 |
 | The Brahdyssey | 3.00% | ~201 |
 | Caught in the Act | 3.00% | ~201 |
@@ -46,11 +46,11 @@ Number of Ratings: 177  (23.09.2022)
 | Drunk and Disorderly: Madison | 0.30% | ~20 |
 | Do Not Burn | 0.30% | ~20 |
 | First Impressions | 0.30% | ~20 |
+| The Harder They Fall...Dood | 0.30% | ~20 |
 | Do You Smell Blood? | 0.30% | ~20 |
 | The Muse: Derek | 0.30% | ~20 |
 | Derezzed | 0.30% | ~20 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~7 |
-| The Harder They Fall...Dood | 0.20% | ~13 |
 | Ronin | 0.20% | ~13 |
 | A Striking Resemblance | 0.20% | ~13 |
 | Howz It Goin Dood | 0.20% | ~13 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,691 (Ranked 187)  
+Progressed: 6,693 (Ranked 187)  
 Completed: 3 (0.04%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 3 (0.04%) (Ranked 336)
 | 2023-12-14 | 6,605 | 3 |
 | 2023-12-15 | 6,637 | 3 |
 | 2023-12-16 | 6,670 | 3 |
-| 2023-12-17 | 6,691 | 3 |
+| 2023-12-17 | 6,693 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

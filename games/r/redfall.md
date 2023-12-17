@@ -35,8 +35,8 @@ Rating: 3.50 (Ranked 1,062)
 | I Spit On Your Grave | 1.00% | ~19 |
 | Contingency Plans | 0.80% | ~15 |
 | You Clean It Up | 0.80% | ~15 |
+| Check, Please! | 0.80% | ~15 |
 | Nice Try | 0.80% | ~15 |
-| Check, Please! | 0.70% | ~13 |
 | Blacklight Down | 0.70% | ~13 |
 | Revelations | 0.60% | ~11 |
 | Block Party | 0.60% | ~11 |
@@ -49,13 +49,13 @@ Rating: 3.50 (Ranked 1,062)
 | Neighborhood Watch | 0.30% | ~6 |
 | Blood Brother | 0.30% | ~6 |
 | Friendgineering | 0.30% | ~6 |
+| Empty Nest Syndrome | 0.30% | ~6 |
 | So Anyway I Started Blasting | 0.30% | ~6 |
 | Under a Bushel | 0.30% | ~6 |
 | Bob’s Final Hour | 0.30% | ~6 |
 | Good Samaritan | 0.30% | ~6 |
 | Scream Team | 0.20% | ~4 |
 | Monster Hunters Club | 0.20% | ~4 |
-| Empty Nest Syndrome | 0.20% | ~4 |
 | Enemy of My Enemy | 0.20% | ~4 |
 | Faith Healer | 0.10% | ~2 |
 | Someplace to Be | 0.10% | ~2 |

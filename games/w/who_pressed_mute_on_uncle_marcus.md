@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sorry, kiddo | 96.00% | ~244 |
+| Sorry, kiddo | 97.00% | ~246 |
 | And away we go! | 88.00% | ~224 |
 | Job one. DONE! | 62.00% | ~157 |
 | You are Carol Vorderman | 59.00% | ~150 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -5397,17 +5397,17 @@
       "ID": "achAccumulate1M",
       "SetID": "dgl390n",
       "Name": "Transport millionaire",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1088
     },
     {
       "ID": "achAircraftEarnings",
       "SetID": "dgl390n",
       "Name": "Aircraft entrepreneur",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 645
+      "UsersEstimate": 665
     },
     {
       "ID": "achAllClimates",
@@ -5853,8 +5853,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-12-16T13:58:31.345825+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:07:33.5173441+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:08:50.2691834+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:42.3173295+00:00",
-  "LastUpdate_Ratings": "2023-12-17T11:59:28.0158888+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:07:33.5174003+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:01:31.9504417+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:08:50.269263+00:00"
 }

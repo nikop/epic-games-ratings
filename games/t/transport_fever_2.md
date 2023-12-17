@@ -16,7 +16,7 @@ Number of Ratings: 180  (23.09.2022)
 | First train station | 62.00% | ~1,249 |
 | First steam train arrived | 58.00% | ~1,169 |
 | First industry upgraded | 55.00% | ~1,108 |
-| Transport millionaire | 53.00% | ~1,068 |
+| Transport millionaire | 54.00% | ~1,088 |
 | Cadet | 53.00% | ~1,068 |
 | Transport master | 51.00% | ~1,028 |
 | Cargo hub | 51.00% | ~1,028 |
@@ -30,7 +30,7 @@ Number of Ratings: 180  (23.09.2022)
 | Transport shark | 40.00% | ~806 |
 | First aircraft arrived | 40.00% | ~806 |
 | Mass production | 34.00% | ~685 |
-| Aircraft entrepreneur | 32.00% | ~645 |
+| Aircraft entrepreneur | 33.00% | ~665 |
 | The future is now, old man | 31.00% | ~625 |
 | Crowd in a train | 30.00% | ~604 |
 | Not in my backyard | 29.00% | ~584 |

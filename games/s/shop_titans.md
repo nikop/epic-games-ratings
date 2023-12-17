@@ -6,21 +6,21 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,683 |
-| Basic in Bulk | 8.00% | ~11,683 |
-| Titan's First Steps | 8.00% | ~11,683 |
-| Tinkle of Coins | 7.00% | ~10,222 |
-| Disintermediation | 6.00% | ~8,762 |
-| Capitalism Ho! | 6.00% | ~8,762 |
+| Sponsored by Argon | 8.00% | ~11,684 |
+| Basic in Bulk | 8.00% | ~11,684 |
+| Titan's First Steps | 8.00% | ~11,684 |
+| Tinkle of Coins | 7.00% | ~10,223 |
+| Disintermediation | 6.00% | ~8,763 |
+| Capitalism Ho! | 6.00% | ~8,763 |
 | Another Satisfied Customer | 5.00% | ~7,302 |
 | It's Free Real Estate | 5.00% | ~7,302 |
 | Budding Merchant | 5.00% | ~7,302 |
-| One Easy Payment | 4.00% | ~5,841 |
-| Some Assembly Required | 4.00% | ~5,841 |
-| Pretty Penny | 4.00% | ~5,841 |
-| One-Armed Bandit | 4.00% | ~5,841 |
-| Through Repetition, Perfection | 4.00% | ~5,841 |
-| Own the Means of Production | 4.00% | ~5,841 |
+| One Easy Payment | 4.00% | ~5,842 |
+| Some Assembly Required | 4.00% | ~5,842 |
+| Pretty Penny | 4.00% | ~5,842 |
+| One-Armed Bandit | 4.00% | ~5,842 |
+| Through Repetition, Perfection | 4.00% | ~5,842 |
+| Own the Means of Production | 4.00% | ~5,842 |
 | The Daily Grind | 3.00% | ~4,381 |
 | On the Path to Greatness | 3.00% | ~4,381 |
 | Ascended | 3.00% | ~4,381 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~584 |
 | Capitalist Camaraderie | 0.20% | ~292 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,034 (Ranked 80)  
-Completed: 319 (0.22%) (Ranked 259)  
+Progressed: 146,046 (Ranked 80)  
+Completed: 320 (0.22%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -360,7 +360,7 @@ Completed: 319 (0.22%) (Ranked 259)
 | 2023-12-14 | 145,474 | 307 |
 | 2023-12-15 | 145,699 | 316 |
 | 2023-12-16 | 145,933 | 319 |
-| 2023-12-17 | 146,034 | 319 |
+| 2023-12-17 | 146,046 | 320 |
 ## Awards
 Max (Great for Beginners): 4,898  (Ranked 75)  
 Sum: 27,756 (Ranked 51)  

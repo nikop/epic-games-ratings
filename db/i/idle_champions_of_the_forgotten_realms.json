@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8815,10 +8815,10 @@
       "Count": 3578
     }
   ],
-  "EOS_Progressed": 241362,
+  "EOS_Progressed": 241382,
   "EOS_Completed": 2537,
-  "EOS_NewPlayers": 2123,
-  "EOS_NewCompleters": 27,
+  "EOS_NewPlayers": 2132,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -35995,6 +35995,11 @@
       "Time": "2023-12-17T12:10:51.5121957+00:00",
       "NumProgressed": 241362,
       "NumCompleted": 2537
+    },
+    {
+      "Time": "2023-12-17T13:12:18.65543+00:00",
+      "NumProgressed": 241382,
+      "NumCompleted": 2537
     }
   ],
   "TotalAchievements": 546,
@@ -40364,30 +40369,30 @@
       "ID": "objective_completed_865",
       "SetID": "415jc5c",
       "Name": "Mind Spike",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 415
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 207636,
+      "Progressed": 207656,
       "Completed": 4023
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 241362,
+      "Progressed": 241382,
       "Completed": 2537
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-17T08:59:33.5460748+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:10:51.5121954+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:12:18.6554296+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-17T11:59:54.2481431+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:10:51.5145083+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:01:48.9727206+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:12:18.6580892+00:00"
 }

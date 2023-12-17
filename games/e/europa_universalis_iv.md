@@ -247,6 +247,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Continuation of Diplomacy | 0.10% | ~478 |
 | The Five Colonies | 0.10% | ~478 |
 | The Grand Armada | 0.10% | ~478 |
+| The Great Khan | 0.10% | ~478 |
 | The League of Mayapan | 0.10% | ~478 |
 | The Navigator | 0.10% | ~478 |
 | The Ostenders | 0.10% | ~478 |
@@ -354,7 +355,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's No Mon | 0.00% | ~0 |
 | The Burgundian Conquest | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
-| The Great Khan | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
 | The Three Mountains | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 477,550 (Ranked 41)  
+Progressed: 477,611 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -611,10 +611,10 @@ Completed: 1 (0.00%) (Ranked 379)
 | 2023-12-14 | 474,899 | 1 |
 | 2023-12-15 | 475,873 | 1 |
 | 2023-12-16 | 477,098 | 1 |
-| 2023-12-17 | 477,550 | 1 |
+| 2023-12-17 | 477,611 | 1 |
 ## Awards
 Max (Educational): 7,422  (Ranked 54)  
-Sum: 61,187 (Ranked 24)  
+Sum: 61,197 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -623,7 +623,7 @@ Diff (max vs sum): 30
 | This game is Highly Recommended | 7,132 |
 | This game has Challenging Combat | 7,054 |
 | This game is Extremely Fun | 6,968 |
-| This game is Relaxing | 6,820 |
+| This game is Relaxing | 6,830 |
 | This game has Competitive Players | 6,659 |
 | This game has Amazing Storytelling | 6,182 |
 | This game has Amazing Characters | 5,739 |
@@ -965,4 +965,4 @@ Diff (max vs sum): 30
 | 2023-12-14 | 4.69 | - | 7,379 | 60,850 |
 | 2023-12-15 | 4.69 | - | 7,396 | 60,976 |
 | 2023-12-16 | 4.69 | - | 7,396 | 61,143 |
-| 2023-12-17 | 4.69 | - | 7,422 | 61,187 |
+| 2023-12-17 | 4.69 | - | 7,422 | 61,197 |

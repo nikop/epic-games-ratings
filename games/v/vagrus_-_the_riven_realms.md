@@ -27,6 +27,7 @@
 | Pilgrimage's End | 5.00% | ~11 |
 | Merchant | 5.00% | ~11 |
 | Quartermaster | 4.00% | ~9 |
+| Potential Unlocked | 4.00% | ~9 |
 | The Voice of Hereafter | 4.00% | ~9 |
 | Despised | 4.00% | ~9 |
 | Been There | 4.00% | ~9 |
@@ -34,7 +35,6 @@
 | Trouble at Fort Larius | 4.00% | ~9 |
 | Unseen Patterns | 4.00% | ~9 |
 | Bounty Hunter | 3.00% | ~7 |
-| Potential Unlocked | 3.00% | ~7 |
 | Xevarian Gambit | 3.00% | ~7 |
 | A Terrible Will | 3.00% | ~7 |
 | Life... Finds a Way | 3.00% | ~7 |
@@ -50,16 +50,17 @@
 | Merchant Lord | 2.00% | ~4 |
 | Making Contact | 1.00% | ~2 |
 | Loremaster | 1.00% | ~2 |
+| Adept | 1.00% | ~2 |
 | Moving At Odd Angles | 1.00% | ~2 |
 | Wyrmslayer | 1.00% | ~2 |
 | Glorious leader | 1.00% | ~2 |
 | Voracity Confronted | 1.00% | ~2 |
 | Watcher | 0.90% | ~2 |
 | Executor | 0.90% | ~2 |
-| Adept | 0.90% | ~2 |
 | Embellished | 0.90% | ~2 |
 | Ever After | 0.90% | ~2 |
 | Trailblazer | 0.90% | ~2 |
+| Huntsmaster | 0.90% | ~2 |
 | Escort | 0.90% | ~2 |
 | Ruiner | 0.90% | ~2 |
 | What Lies Below | 0.90% | ~2 |
@@ -72,7 +73,6 @@
 | Forager | 0.50% | ~1 |
 | Forged in Battle | 0.50% | ~1 |
 | Manticore | 0.50% | ~1 |
-| Huntsmaster | 0.50% | ~1 |
 | Chromatic Collector | 0.50% | ~1 |
 | Loader | 0.50% | ~1 |
 | Mercenary | 0.50% | ~1 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4619,9 +4619,9 @@
       "Count": 401
     }
   ],
-  "EOS_Progressed": 12435,
+  "EOS_Progressed": 12440,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17169,6 +17169,11 @@
       "Time": "2023-12-17T12:10:42.0287315+00:00",
       "NumProgressed": 12435,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T13:12:09.8679142+00:00",
+      "NumProgressed": 12440,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17180,7 +17185,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3357
+      "UsersEstimate": 3359
     },
     {
       "ID": "02_BurningCity",
@@ -17188,7 +17193,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -17196,7 +17201,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "04_FithCrusade",
@@ -17204,7 +17209,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -17212,7 +17217,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -17220,7 +17225,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "07_FinalThreshold",
@@ -17236,7 +17241,7 @@
       "Name": "Path of the Angel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "09_PathOfDemon",
@@ -17316,7 +17321,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "19_EqualToAroden",
@@ -17380,7 +17385,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "28_GreatUpstart",
@@ -17412,7 +17417,7 @@
       "Name": "Divide and Rule",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "32_MythicReinforcements",
@@ -17420,7 +17425,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "33_DefendersHeart",
@@ -17548,7 +17553,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2363
+      "UsersEstimate": 2364
     },
     {
       "ID": "49_Flame",
@@ -17564,7 +17569,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -17572,7 +17577,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -18107,21 +18112,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11217,
+      "Progressed": 11222,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12435,
+      "Progressed": 12440,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-17T00:00:07.3191372+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:10:42.0287309+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:12:09.867914+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-17T12:00:44.1712289+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:10:42.0288917+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:02:23.4199304+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:12:09.8680806+00:00"
 }

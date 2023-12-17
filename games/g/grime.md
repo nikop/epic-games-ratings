@@ -19,6 +19,7 @@ Number of Ratings: 46  (23.09.2022)
 | Jawcrab | 0.30% | ~489 |
 | Jawstag | 0.30% | ~489 |
 | Feast | 0.30% | ~489 |
+| Watcher | 0.30% | ~489 |
 | Yank | 0.30% | ~489 |
 | Assimilation | 0.20% | ~326 |
 | Hunt Down | 0.20% | ~326 |
@@ -27,7 +28,6 @@ Number of Ratings: 46  (23.09.2022)
 | Host | 0.20% | ~325 |
 | Celebration | 0.20% | ~326 |
 | Inevitable | 0.20% | ~326 |
-| Watcher | 0.20% | ~326 |
 | Predator | 0.20% | ~326 |
 | Spiral Heart | 0.10% | ~161 |
 | Bloodhunter | 0.10% | ~163 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~163 |
 | Intensify | 0.10% | ~163 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 162,990 (Ranked 78)  
+Progressed: 163,000 (Ranked 78)  
 Completed: 337 (0.21%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,17 +271,17 @@ Completed: 337 (0.21%) (Ranked 261)
 | 2023-12-14 | 162,555 | 324 |
 | 2023-12-15 | 162,701 | 330 |
 | 2023-12-16 | 162,892 | 333 |
-| 2023-12-17 | 162,990 | 337 |
+| 2023-12-17 | 163,000 | 337 |
 ## Awards
 Max (Highly Recommended): 56  (Ranked 424)  
-Sum: 404 (Ranked 345)  
-Diff (max vs sum): 79  
+Sum: 405 (Ranked 344)  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 56 |
 | This game has Unique Visuals | 56 |
 | This game has Quickly Understood Controls | 55 |
-| This game has Amazing Storytelling | 54 |
+| This game has Amazing Storytelling | 55 |
 | This game is Extremely Fun | 52 |
 | This game has Challenging Combat | 50 |
 | This game has Amazing Characters | 42 |
@@ -449,3 +449,4 @@ Diff (max vs sum): 79
 | 2023-12-10 | 4.59 | - | 55 | 401 |
 | 2023-12-12 | 4.59 | - | 56 | 402 |
 | 2023-12-15 | 4.59 | - | 56 | 404 |
+| 2023-12-17 | 4.59 | - | 56 | 405 |

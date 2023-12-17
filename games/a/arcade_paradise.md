@@ -5,27 +5,27 @@ Rating: 4.58 (Ranked 456)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~680 |
-| Fetch Quest Complete | 90.00% | ~637 |
-| I can't wait! | 83.00% | ~588 |
-| Swish | 56.00% | ~396 |
-| Clean up on Aisle 9 | 40.00% | ~283 |
-| Machine Maxed | 30.00% | ~212 |
-| Bug Fixer | 26.00% | ~184 |
-| Existential dread | 26.00% | ~184 |
-| Gerald of Riviera | 25.00% | ~177 |
+| Pushing a pull door | 96.00% | ~682 |
+| Fetch Quest Complete | 90.00% | ~639 |
+| I can't wait! | 83.00% | ~589 |
+| Swish | 56.00% | ~398 |
+| Clean up on Aisle 9 | 40.00% | ~284 |
+| Machine Maxed | 29.00% | ~206 |
+| Existential dread | 26.00% | ~185 |
+| Bug Fixer | 25.00% | ~178 |
+| Gerald of Riviera | 25.00% | ~178 |
 | Goal | 22.00% | ~156 |
 | I ran the numbers | 15.00% | ~106 |
 | Taking the plunge | 13.00% | ~92 |
 | Hidden Packages | 11.00% | ~78 |
 | GOOOAAAL | 10.00% | ~71 |
 | Ahoy Hoy | 7.00% | ~50 |
-| Bombscare | 6.00% | ~42 |
-| Rhythm is a dancer | 6.00% | ~42 |
-| New Kid on the Block | 6.00% | ~42 |
-| Jimmy Goldman Would be Proud | 6.00% | ~42 |
-| You Spin Me Round | 6.00% | ~42 |
-| Your Bloody Valentine | 5.00% | ~35 |
+| Rhythm is a dancer | 6.00% | ~43 |
+| New Kid on the Block | 6.00% | ~43 |
+| Jimmy Goldman Would be Proud | 6.00% | ~43 |
+| You Spin Me Round | 6.00% | ~43 |
+| Bombscare | 5.00% | ~36 |
+| Your Bloody Valentine | 5.00% | ~36 |
 | Crowning achievement | 4.00% | ~28 |
 | GoldGuy Jr | 4.00% | ~28 |
 | Nose to the Grindstone | 4.00% | ~28 |
@@ -60,7 +60,7 @@ Rating: 4.58 (Ranked 456)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708 (Ranked 293)  
+Progressed: 710 (Ranked 293)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 700 | 0 |
 | 2023-12-15 | 703 | 0 |
 | 2023-12-16 | 706 | 0 |
-| 2023-12-17 | 708 | 0 |
+| 2023-12-17 | 710 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

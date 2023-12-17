@@ -4,8 +4,8 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 278,
+  "EOS_Progressed": 279,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.16,
+  "EOS_Completed_Percentage": 2.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -654,6 +654,11 @@
       "Time": "2023-12-16T16:05:57.3746714+00:00",
       "NumProgressed": 278,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-17T13:08:51.5510203+00:00",
+      "NumProgressed": 279,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -687,9 +692,9 @@
       "ID": "CHAPTER1_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Off to a Good Start",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 75,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "CHAPTER2_COMPLETE",
@@ -705,7 +710,7 @@
       "Name": "Eyes Yet To Open",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "CHAPTER4_COMPLETE",
@@ -727,9 +732,9 @@
       "ID": "COLLECT_20_EVIDENCE",
       "SetID": "2lk004m",
       "Name": "Small-time Finder",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "DIE_1_TIME",
@@ -737,7 +742,7 @@
       "Name": "So it goes",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "DISPOSE_15_BODIES",
@@ -856,13 +861,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 278,
+      "Progressed": 279,
       "Completed": 6
     }
   ],
@@ -870,8 +875,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:07:35.402239+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:08:51.5510197+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:54.371463+00:00",
-  "LastUpdate_Ratings": "2023-12-17T12:00:01.0741528+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:07:35.4022543+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:01:53.7502788+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:08:51.5510454+00:00"
 }

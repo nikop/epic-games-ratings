@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -673,9 +673,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 472381,
+  "EOS_Progressed": 472384,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25593,6 +25593,11 @@
       "Time": "2023-12-17T12:10:47.8793542+00:00",
       "NumProgressed": 472381,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-17T13:12:14.7477455+00:00",
+      "NumProgressed": 472384,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -25604,7 +25609,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70857
+      "UsersEstimate": 70858
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -25612,7 +25617,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70857
+      "UsersEstimate": 70858
     },
     {
       "ID": "achievement_first_death",
@@ -25620,7 +25625,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113371
+      "UsersEstimate": 113372
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -25636,7 +25641,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70857
+      "UsersEstimate": 70858
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -25652,7 +25657,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37790
+      "UsersEstimate": 37791
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -25692,7 +25697,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311771
+      "UsersEstimate": 311773
     },
     {
       "ID": "achievement_story_landa",
@@ -25716,7 +25721,7 @@
       "Name": "Through the mirror",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37790
+      "UsersEstimate": 37791
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -25724,7 +25729,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118095
+      "UsersEstimate": 118096
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -25764,7 +25769,7 @@
       "Name": "General Vivar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37790
+      "UsersEstimate": 37791
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -25772,7 +25777,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70857
+      "UsersEstimate": 70858
     },
     {
       "ID": "achievement_story_neon_child",
@@ -25780,7 +25785,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94476
+      "UsersEstimate": 94477
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -25788,7 +25793,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160610
+      "UsersEstimate": 160611
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -25796,7 +25801,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37790
+      "UsersEstimate": 37791
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -26028,7 +26033,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207848
+      "UsersEstimate": 207849
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -26036,7 +26041,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141714
+      "UsersEstimate": 141715
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -26060,7 +26065,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184229
+      "UsersEstimate": 184230
     },
     {
       "ID": "achievement_win_run_hard",
@@ -26076,7 +26081,7 @@
       "Name": "Geno Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14171
+      "UsersEstimate": 14172
     },
     {
       "ID": "achievement_win_run_with_church",
@@ -26092,7 +26097,7 @@
       "Name": "Hammer Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14171
+      "UsersEstimate": 14172
     },
     {
       "ID": "achievement_win_run_with_pirate",
@@ -26108,7 +26113,7 @@
       "Name": "Kaos Rule",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37790
+      "UsersEstimate": 37791
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -26235,21 +26240,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16315,
+      "Progressed": 16318,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472381,
+      "Progressed": 472384,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-16T01:44:08.2225132+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:10:47.879354+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:12:14.7477452+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.1940108+00:00",
-  "LastUpdate_Ratings": "2023-12-17T12:00:51.9700658+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:10:47.8795073+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:02:28.5561117+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:12:14.7479362+00:00"
 }

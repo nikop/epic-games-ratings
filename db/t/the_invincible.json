@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -1993,17 +1993,17 @@
       "ID": "AchvAllMemories",
       "SetID": "1hj060c",
       "Name": "I remember everything!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 94
     },
     {
       "ID": "AchvAssertive",
       "SetID": "1hj060c",
       "Name": "On her own",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 131
     },
     {
       "ID": "AchvBattleScore",
@@ -2185,9 +2185,9 @@
       "ID": "AchvSurvivors",
       "SetID": "1hj060c",
       "Name": "Survivors",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 247
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -2224,8 +2224,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:09:55.1578986+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:11:34.1362743+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
   "LastUpdate_Ratings": "2023-12-17T12:02:56.5465232+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:09:55.1579191+00:00"
+  "LastUpdate_Achievements": "2023-12-17T13:11:34.1362973+00:00"
 }

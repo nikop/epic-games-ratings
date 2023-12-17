@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 708,
+  "EOS_Progressed": 710,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -743,6 +743,11 @@
       "Time": "2023-12-17T09:04:16.0366371+00:00",
       "NumProgressed": 708,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T13:06:09.4460334+00:00",
+      "NumProgressed": 710,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -802,7 +807,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 639
     },
     {
       "ID": "AhoyTrophy",
@@ -840,9 +845,9 @@
       "ID": "BombTrophy",
       "SetID": "32aeje8",
       "Name": "Bombscare",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 36
     },
     {
       "ID": "BorkTrophy",
@@ -866,15 +871,15 @@
       "Name": "Rhythm is a dancer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "DebugTrophy",
       "SetID": "32aeje8",
       "Name": "Bug Fixer",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 178
     },
     {
       "ID": "DreadTrophy",
@@ -882,7 +887,7 @@
       "Name": "Existential dread",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "DropBallTrophy",
@@ -898,7 +903,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 680
+      "UsersEstimate": 682
     },
     {
       "ID": "Ext4Trophy",
@@ -906,7 +911,7 @@
       "Name": "New Kid on the Block",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "FatTrophy",
@@ -922,15 +927,15 @@
       "Name": "Your Bloody Valentine",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "GoalMachineTrophy",
       "SetID": "32aeje8",
       "Name": "Machine Maxed",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 206
     },
     {
       "ID": "GoldGuyTrophy",
@@ -1034,7 +1039,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "MaxPriceTrophy",
@@ -1042,7 +1047,7 @@
       "Name": "Jimmy Goldman Would be Proud",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "MergeBallsTrophy",
@@ -1114,7 +1119,7 @@
       "Name": "You Spin Me Round",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "SwishTrophy",
@@ -1122,7 +1127,7 @@
       "Name": "Swish",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 398
     },
     {
       "ID": "TerrorTrophy",
@@ -1154,7 +1159,7 @@
       "Name": "Clean up on Aisle 9",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -1162,7 +1167,7 @@
       "Name": "Gerald of Riviera",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "YouthTrophy",
@@ -1185,7 +1190,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 708,
+      "Progressed": 710,
       "Completed": 0
     }
   ],
@@ -1193,8 +1198,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-10-15T06:02:18.0550602+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:04:02.8229039+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:06:09.446033+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:28.3598294+00:00",
-  "LastUpdate_Ratings": "2023-12-17T11:58:47.9406893+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:04:02.8229648+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:01:03.2798972+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:06:09.4461103+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4937,
+  "EOS_Progressed": 4940,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3611,6 +3611,11 @@
       "Time": "2023-12-17T12:05:56.160823+00:00",
       "NumProgressed": 4937,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-17T13:07:36.5382257+00:00",
+      "NumProgressed": 4940,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3622,7 +3627,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -3630,7 +3635,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -3646,7 +3651,7 @@
       "Name": "The Black Cerberus",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ID_ACHIEV_05",
@@ -3662,7 +3667,7 @@
       "Name": "For the Good of Mankind",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ID_ACHIEV_07",
@@ -3670,7 +3675,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4147
+      "UsersEstimate": 4150
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3678,7 +3683,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4641
+      "UsersEstimate": 4644
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3686,7 +3691,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3801
+      "UsersEstimate": 3804
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -3694,7 +3699,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -3718,7 +3723,7 @@
       "Name": "Watchman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ID_ACHIEV_14",
@@ -3766,7 +3771,7 @@
       "Name": "Melting Down",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -3836,9 +3841,9 @@
       "ID": "ID_ACHIEV_28",
       "SetID": "98bke8c",
       "Name": "First Day on the Job",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3801
+      "UsersEstimate": 3754
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3854,7 +3859,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -3870,7 +3875,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2717
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -3886,7 +3891,7 @@
       "Name": "Most Wanted",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -3902,7 +3907,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1630
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -3950,7 +3955,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -3966,7 +3971,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1778
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -3982,7 +3987,7 @@
       "Name": "Sniffing Around",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ID_ACHIEV_48",
@@ -4038,7 +4043,7 @@
       "Name": "No More Marching",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ID_ACHIEV_55",
@@ -4054,7 +4059,7 @@
       "Name": "Rusty Rat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ID_ACHIEV_57",
@@ -4070,7 +4075,7 @@
       "Name": "Is This Real Life?",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -4142,7 +4147,7 @@
       "Name": "Desecration",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ID_ACHIEV_68",
@@ -4157,15 +4162,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4937,
+      "Progressed": 4940,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:05:56.1608227+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:07:36.5382254+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-17T11:57:52.1032176+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:05:56.1608896+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:00:22.256449+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:07:36.5382941+00:00"
 }

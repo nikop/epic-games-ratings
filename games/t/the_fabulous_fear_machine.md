@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 39.00% | ~23 |
-| You have three wishes left | 34.00% | ~20 |
+| Master trainee | 40.00% | ~24 |
+| You have three wishes left | 35.00% | ~21 |
 | Jung's dream | 27.00% | ~16 |
 | The battle of Great Britain | 27.00% | ~16 |
-| Pulp! Where Monsters Dwell | 24.00% | ~14 |
+| Pulp! Where Monsters Dwell | 23.00% | ~14 |
 | A continent with chemistry | 20.00% | ~12 |
-| Giant | 19.00% | ~11 |
-| The happy farmer girl | 19.00% | ~11 |
+| Giant | 18.00% | ~11 |
+| The happy farmer girl | 18.00% | ~11 |
 | Pulp! Out of this World | 17.00% | ~10 |
 | The artist | 15.00% | ~9 |
 | Pulp! Terror Tales in the Night | 15.00% | ~9 |
 | Pulp! Adventures into the Unknown | 15.00% | ~9 |
 | Diagnosis: fear | 15.00% | ~9 |
 | Ambition is... blind | 15.00% | ~9 |
-| A rival with no options | 14.00% | ~8 |
-| The seer | 14.00% | ~8 |
-| You have two wishes left | 14.00% | ~8 |
+| A rival with no options | 13.00% | ~8 |
+| The seer | 13.00% | ~8 |
+| You have two wishes left | 13.00% | ~8 |
 | Et in arcadia ego | 10.00% | ~6 |
 | Kirlian's best disciple | 10.00% | ~6 |
 | You've awakened the beast | 8.00% | ~5 |
@@ -28,13 +28,13 @@
 | You had one wish left | 8.00% | ~5 |
 | The bully | 8.00% | ~5 |
 | Welcome to Hellville | 8.00% | ~5 |
+| Bread and bocaua | 7.00% | ~4 |
+| Fanatacism is... poisonous | 7.00% | ~4 |
 | The adventurer | 7.00% | ~4 |
+| ECO mode | 7.00% | ~4 |
 | Blood Red Island | 5.00% | ~3 |
-| Bread and bocaua | 5.00% | ~3 |
-| Fanatacism is... poisonous | 5.00% | ~3 |
 | The scholar | 5.00% | ~3 |
 | Pulp! The Beyond | 5.00% | ~3 |
-| ECO mode | 5.00% | ~3 |
 | Vaccine fans | 5.00% | ~3 |
 | Blessed antennas | 3.00% | ~2 |
 | The beast in the Oval Office | 3.00% | ~2 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59 (Ranked 506)  
+Progressed: 60 (Ranked 505)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,4 +87,4 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 51 | 0 |
 | 2023-12-15 | 55 | 0 |
 | 2023-12-16 | 58 | 0 |
-| 2023-12-17 | 59 | 0 |
+| 2023-12-17 | 60 | 0 |

@@ -5,27 +5,27 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 12.00% | ~2,112 |
-| Get a Grip | 12.00% | ~2,112 |
-| Paper Jams | 11.00% | ~1,936 |
-| The Outer Way | 11.00% | ~1,936 |
-| Desperate Times | 10.00% | ~1,760 |
-| Chew 'Em Up | 9.00% | ~1,584 |
-| Float Like A Butterfly | 9.00% | ~1,584 |
-| Reforged | 8.00% | ~1,408 |
-| Workplace Hazard | 7.00% | ~1,232 |
-| If the SHU Fits... | 7.00% | ~1,232 |
-| Two Heads Are Better Than One | 6.00% | ~1,056 |
-| Without A Paddle | 6.00% | ~1,056 |
-| In the Pipe, Five by Five | 6.00% | ~1,056 |
-| Crash Site | 6.00% | ~1,056 |
-| Full Circle | 6.00% | ~1,056 |
-| Power Up | 6.00% | ~1,056 |
+| Flesh Wound | 12.00% | ~2,113 |
+| Get a Grip | 12.00% | ~2,113 |
+| Paper Jams | 11.00% | ~1,937 |
+| The Outer Way | 11.00% | ~1,937 |
+| Desperate Times | 10.00% | ~1,761 |
+| Chew 'Em Up | 9.00% | ~1,585 |
+| Float Like A Butterfly | 9.00% | ~1,585 |
+| Reforged | 8.00% | ~1,409 |
+| Workplace Hazard | 7.00% | ~1,233 |
+| If the SHU Fits... | 7.00% | ~1,233 |
+| Two Heads Are Better Than One | 6.00% | ~1,057 |
+| Without A Paddle | 6.00% | ~1,057 |
+| In the Pipe, Five by Five | 6.00% | ~1,057 |
+| Crash Site | 6.00% | ~1,057 |
+| Full Circle | 6.00% | ~1,057 |
+| Power Up | 6.00% | ~1,057 |
 | Keep Fighting | 6.00% | ~332 |
-| You Need a Gun | 5.00% | ~880 |
-| I Do Belong Here | 5.00% | ~880 |
-| Terminated | 5.00% | ~880 |
-| What Lies Beneath | 5.00% | ~880 |
+| You Need a Gun | 5.00% | ~881 |
+| I Do Belong Here | 5.00% | ~881 |
+| Terminated | 5.00% | ~881 |
+| What Lies Beneath | 5.00% | ~881 |
 | Giving Back | 4.00% | ~704 |
 | It's Time | 4.00% | ~221 |
 | In Striking Distance | 3.00% | ~528 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,602 (Ranked 149)  
+Progressed: 17,611 (Ranked 149)  
 Completed: 82 (0.47%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 82 (0.47%) (Ranked 215)
 | 2023-12-14 | 16,823 | 81 |
 | 2023-12-15 | 17,123 | 82 |
 | 2023-12-16 | 17,442 | 82 |
-| 2023-12-17 | 17,602 | 82 |
+| 2023-12-17 | 17,611 | 82 |
 ## Awards
 Max (Amazing Storytelling): 87  (Ranked 388)  
 Sum: 515 (Ranked 328)  

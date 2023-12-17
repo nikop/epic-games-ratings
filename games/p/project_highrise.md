@@ -42,8 +42,8 @@
 | 28 Days Later | 11.00% | ~43 |
 | Swimming in Surplus | 11.00% | ~43 |
 | Aestheticly Pleased | 10.00% | ~39 |
+| Master of Puppets | 10.00% | ~39 |
 | Plaza Plan | 9.00% | ~35 |
-| Master of Puppets | 9.00% | ~35 |
 | Refined Palates | 9.00% | ~35 |
 | First 100 Days | 8.00% | ~31 |
 | Water Features | 8.00% | ~31 |

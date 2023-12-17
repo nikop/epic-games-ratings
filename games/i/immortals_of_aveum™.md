@@ -5,19 +5,19 @@ Rating: 4.15 (Ranked 963)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~859 |
-| Battlefields Have Memories | 79.00% | ~780 |
-| Enlisted | 72.00% | ~711 |
-| Maybe Engage a Little | 66.00% | ~651 |
-| No More Names | 47.00% | ~464 |
-| Initiate | 31.00% | ~306 |
-| Thrada-Kul | 27.00% | ~266 |
-| Socialite | 21.00% | ~207 |
-| Gravity-Challenged Rocks | 21.00% | ~207 |
-| Soldier | 18.00% | ~178 |
-| All the Major Food Groups | 17.00% | ~168 |
-| Beggars Would Ride | 15.00% | ~148 |
-| Control is an Illusion | 14.00% | ~138 |
+| Unforeseen | 88.00% | ~873 |
+| Battlefields Have Memories | 79.00% | ~784 |
+| Enlisted | 73.00% | ~724 |
+| Maybe Engage a Little | 66.00% | ~655 |
+| No More Names | 47.00% | ~466 |
+| Initiate | 31.00% | ~308 |
+| Thrada-Kul | 27.00% | ~268 |
+| Socialite | 21.00% | ~208 |
+| Gravity-Challenged Rocks | 21.00% | ~208 |
+| Soldier | 18.00% | ~179 |
+| All the Major Food Groups | 17.00% | ~169 |
+| Beggars Would Ride | 15.00% | ~149 |
+| Control is an Illusion | 14.00% | ~139 |
 | The Means to Save It | 11.00% | ~109 |
 | Resilience to Sin | 10.00% | ~99 |
 | A Familiar Nest | 10.00% | ~99 |
@@ -26,11 +26,11 @@ Rating: 4.15 (Ranked 963)
 | A Perfect Cycle | 8.00% | ~79 |
 | Recruit | 8.00% | ~79 |
 | Armsman | 7.00% | ~69 |
-| Lights Army | 5.00% | ~49 |
-| Periapt Cerulean | 5.00% | ~49 |
-| Good Boy | 5.00% | ~49 |
-| Periapt Viridian | 4.00% | ~39 |
-| Shroudfane Explorer | 4.00% | ~39 |
+| Lights Army | 5.00% | ~50 |
+| Periapt Cerulean | 5.00% | ~50 |
+| Good Boy | 5.00% | ~50 |
+| Periapt Viridian | 4.00% | ~40 |
+| Shroudfane Explorer | 4.00% | ~40 |
 | Kitted Out | 3.00% | ~30 |
 | Best Dressed | 3.00% | ~30 |
 | Armaments Azure | 3.00% | ~30 |
@@ -53,7 +53,7 @@ Rating: 4.15 (Ranked 963)
 | Out of Time | 0.20% | ~2 |
 | Fowl Play | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 987 (Ranked 276)  
+Progressed: 992 (Ranked 276)  
 Completed: 2 (0.20%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 2 (0.20%) (Ranked 266)
 | 2023-12-14 | 532 | 2 |
 | 2023-12-15 | 689 | 2 |
 | 2023-12-16 | 908 | 2 |
-| 2023-12-17 | 987 | 2 |
+| 2023-12-17 | 992 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

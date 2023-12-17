@@ -25,8 +25,8 @@ Rating: 4.62 (Ranked 370)
 | The Betrayer | 20.00% | ~202 |
 | Golem Chaser | 20.00% | ~202 |
 | Right On Time | 19.00% | ~192 |
+| Check Your Pulse | 19.00% | ~192 |
 | The Loose Cannon | 18.00% | ~182 |
-| Check Your Pulse | 18.00% | ~182 |
 | The Family Fortune | 18.00% | ~182 |
 | Street Style | 17.00% | ~172 |
 | The Man Who Shattered Time | 17.00% | ~172 |
@@ -38,10 +38,10 @@ Rating: 4.62 (Ranked 370)
 | Ask Questions Later | 12.00% | ~121 |
 | Chaincrawler Explorer | 11.00% | ~111 |
 | Syron for Hope | 11.00% | ~111 |
+| Factorywood Explorer | 10.00% | ~101 |
 | Sump Explorer | 10.00% | ~101 |
 | Theater Explorer | 10.00% | ~101 |
 | Cultivair Explorer | 9.00% | ~91 |
-| Factorywood Explorer | 9.00% | ~91 |
 | Fairgrounds Explorer | 9.00% | ~91 |
 | Corin Goes Home | 8.00% | ~81 |
 | Sartorialist | 8.00% | ~81 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 370)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,009 (Ranked 273)  
+Progressed: 1,009 (Ranked 274)  
 Completed: 6 (0.59%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |

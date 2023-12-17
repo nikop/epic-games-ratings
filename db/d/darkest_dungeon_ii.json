@@ -9828,9 +9828,9 @@
       "Count": 1018
     }
   ],
-  "EOS_Progressed": 127985,
+  "EOS_Progressed": 128002,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1981,
+  "EOS_NewPlayers": 1996,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35478,6 +35478,11 @@
       "Time": "2023-12-17T12:09:39.8537634+00:00",
       "NumProgressed": 127985,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T13:11:22.4045569+00:00",
+      "NumProgressed": 128002,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35591,9 +35596,9 @@
       "ID": "altar_of_hope_upgrade_total_quarter",
       "SetID": "64l4lke",
       "Name": "Hope Rekindled",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 896
+      "UsersEstimate": 1024
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -35711,9 +35716,9 @@
       "ID": "combat_kill_librarian",
       "SetID": "64l4lke",
       "Name": "Overdue Notice",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2560
+      "UsersEstimate": 3840
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35727,9 +35732,9 @@
       "ID": "combat_kill_shambler",
       "SetID": "64l4lke",
       "Name": "Escape from the Black Hole",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2560
+      "UsersEstimate": 3840
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35879,9 +35884,9 @@
       "ID": "inn_first_time",
       "SetID": "64l4lke",
       "Name": "A Place to Lay Your Head",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1280
+      "UsersEstimate": 2560
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -35967,9 +35972,9 @@
       "ID": "run_victory_act04",
       "SetID": "64l4lke",
       "Name": "Handled",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 512
+      "UsersEstimate": 640
     },
     {
       "ID": "run_victory_act05",
@@ -36025,7 +36030,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "combat_kill_collector",
@@ -36033,7 +36038,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36089,7 +36094,7 @@
       "Name": "Lost and Found",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36120,21 +36125,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127985,
+      "Progressed": 128002,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2854,
+      "Progressed": 2871,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-17T10:57:39.1040645+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:09:39.853763+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:11:22.4045567+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-17T11:58:14.138581+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:09:39.8539652+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:00:38.9944322+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:11:22.4047433+00:00"
 }

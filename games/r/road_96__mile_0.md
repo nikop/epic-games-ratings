@@ -10,7 +10,7 @@
 | Souvenirs | 30.00% | ~147 |
 | Welcome to the Garage | 19.00% | ~93 |
 | This is Not Heavy Metal! | 17.00% | ~83 |
-| Truthseeker | 16.00% | ~78 |
+| Truthseeker | 16.00% | ~79 |
 | Freedom | 9.00% | ~44 |
 | 86's Nightmare | 9.00% | ~44 |
 | Partners in Crime | 9.00% | ~44 |
@@ -20,7 +20,7 @@
 | Song Harvester | 1.00% | ~5 |
 | Try Harder | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 490 (Ranked 327)  
+Progressed: 491 (Ranked 327)  
 Completed: 2 (0.41%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 2 (0.41%) (Ranked 222)
 | 2023-12-14 | 463 | 2 |
 | 2023-12-15 | 475 | 2 |
 | 2023-12-16 | 487 | 2 |
-| 2023-12-17 | 490 | 2 |
+| 2023-12-17 | 491 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

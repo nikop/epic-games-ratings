@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 752,
+  "EOS_Progressed": 753,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
@@ -1925,6 +1925,11 @@
       "Time": "2023-12-17T09:10:08.0195834+00:00",
       "NumProgressed": 752,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-17T13:11:30.7097387+00:00",
+      "NumProgressed": 753,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -1936,7 +1941,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2024,7 +2029,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "GOOD_KARMA",
@@ -2095,7 +2100,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 752,
+      "Progressed": 753,
       "Completed": 9
     }
   ],
@@ -2103,8 +2108,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:09:50.7896768+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:11:30.7097384+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.4540531+00:00",
-  "LastUpdate_Ratings": "2023-12-17T12:01:30.3487084+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:09:50.7896948+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:02:54.9782608+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:11:30.709763+00:00"
 }

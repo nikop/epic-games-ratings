@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -150,9 +150,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 513,
+  "EOS_Progressed": 514,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1735,6 +1735,11 @@
       "Time": "2023-12-17T04:08:48.9426153+00:00",
       "NumProgressed": 513,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T13:11:19.6769357+00:00",
+      "NumProgressed": 514,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1794,7 +1799,7 @@
       "Name": "Mushroom Picker",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -1808,9 +1813,9 @@
       "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Blacksmith",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_COLLECT_30_BLUE_BOOKS",
@@ -1834,7 +1839,7 @@
       "Name": "Scrap Gatherer",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_COOK",
@@ -1882,7 +1887,7 @@
       "Name": "My New Home",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACH_KILL_100",
@@ -1914,7 +1919,7 @@
       "Name": "Prepper",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_MAKE_FUEL",
@@ -1970,7 +1975,7 @@
       "Name": "Advanced Survivalist",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -1993,7 +1998,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 513,
+      "Progressed": 514,
       "Completed": 1
     }
   ],
@@ -2001,8 +2006,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-11-17T17:00:24.0955126+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:09:36.2092593+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:11:19.6769352+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.762988+00:00",
-  "LastUpdate_Ratings": "2023-12-17T11:57:05.5654644+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:09:36.2092857+00:00"
+  "LastUpdate_Ratings": "2023-12-17T12:59:49.4026272+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:11:19.6769663+00:00"
 }

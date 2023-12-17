@@ -6,10 +6,12 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 7.00% | ~200 |
-| This guy... again? | 4.00% | ~114 |
-| Lost and Found | 4.00% | ~114 |
+| Malpractice Assurance | 7.00% | ~201 |
+| This guy... again? | 4.00% | ~115 |
+| Lost and Found | 4.00% | ~115 |
 | This Belongs in a Museum | 3.00% | ~3,840 |
+| Overdue Notice | 3.00% | ~3,840 |
+| Escape from the Black Hole | 3.00% | ~3,840 |
 | Autodidact | 3.00% | ~3,840 |
 | Bloody Graduation | 3.00% | ~86 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,560 |
@@ -19,10 +21,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Creep and Sleep | 2.00% | ~2,560 |
 | Meat and Greet | 2.00% | ~2,560 |
 | Catch and Decease | 2.00% | ~2,560 |
-| Overdue Notice | 2.00% | ~2,560 |
-| Escape from the Black Hole | 2.00% | ~2,560 |
 | Rush Hour | 2.00% | ~2,560 |
 | To Grandmother's House | 2.00% | ~2,560 |
+| A Place to Lay Your Head | 2.00% | ~2,560 |
 | FNG | 2.00% | ~2,560 |
 | Ploughshares to Swords | 2.00% | ~57 |
 | Friends 'Til the End | 2.00% | ~57 |
@@ -42,7 +43,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Harvest Festival | 1.00% | ~1,280 |
 | Ramble On | 1.00% | ~1,280 |
 | Whale | 1.00% | ~1,280 |
-| A Place to Lay Your Head | 1.00% | ~1,280 |
 | Worldly Traveller | 1.00% | ~1,280 |
 | Nope | 1.00% | ~1,280 |
 | Unshackled | 1.00% | ~1,280 |
@@ -53,17 +53,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 0.90% | ~1,152 |
 | When You Want Something Done Right | 0.90% | ~1,152 |
 | Utopia | 0.90% | ~1,152 |
-| Hope Rekindled | 0.70% | ~896 |
+| Hope Rekindled | 0.80% | ~1,024 |
 | Ichthyophobic | 0.70% | ~896 |
 | No More Mouths to Feed | 0.70% | ~896 |
 | Slap on the Wrist | 0.70% | ~20 |
 | This Looks Familiar | 0.60% | ~768 |
 | Hot Air | 0.60% | ~768 |
 | Eyes Up | 0.60% | ~768 |
+| Handled | 0.50% | ~640 |
 | Et Tu, Riposte? | 0.50% | ~14 |
 | For Old Time' Sake | 0.50% | ~14 |
 | Shrine of Reflection | 0.40% | ~512 |
-| Handled | 0.40% | ~512 |
 | Body of Work | 0.40% | ~512 |
 | Clearing the Ledger | 0.30% | ~384 |
 | Bacon Bits | 0.30% | ~384 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 | On This Long Road, We Found Redemption | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,985 (Ranked 85)  
+Progressed: 128,002 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 3 (0.00%) (Ranked 379)
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
-| 2023-12-17 | 127,985 | 3 |
+| 2023-12-17 | 128,002 | 3 |
 ## Awards
 Max (Character Customization): 7,763  (Ranked 50)  
 Sum: 20,652 (Ranked 58)  

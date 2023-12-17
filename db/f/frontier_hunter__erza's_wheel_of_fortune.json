@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -2051,9 +2051,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "7pimpda",
       "Name": "Travel Streamer",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 571
+      "UsersEstimate": 578
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2139,9 +2139,9 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "7pimpda",
       "Name": "Training Simulation",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 484
+      "UsersEstimate": 491
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2379,9 +2379,9 @@
       "ID": "ACHIEVEMENT_6",
       "SetID": "7pimpda",
       "Name": "Flower Thief",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 267
+      "UsersEstimate": 273
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2420,8 +2420,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:09:31.0646165+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:11:15.715906+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:00.9363361+00:00",
-  "LastUpdate_Ratings": "2023-12-17T12:00:19.7131594+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:09:31.0646757+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:02:08.188907+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:11:15.7159525+00:00"
 }

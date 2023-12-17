@@ -8,7 +8,7 @@
 | The Teleprobe | 49.00% | ~356 |
 | The City | 44.00% | ~319 |
 | The field base | 40.00% | ~290 |
-| Survivors | 33.00% | ~240 |
+| Survivors | 34.00% | ~247 |
 | The Condor | 31.00% | ~225 |
 | The End | 31.00% | ~225 |
 | The Alliance | 30.00% | ~218 |
@@ -16,12 +16,12 @@
 | Krauta is alive | 24.00% | ~174 |
 | Peacemaker | 21.00% | ~152 |
 | Volcanologist | 19.00% | ~138 |
-| On her own | 17.00% | ~123 |
+| On her own | 18.00% | ~131 |
 | Evacuation | 16.00% | ~116 |
 | Beyond divisions | 16.00% | ~116 |
 | Fierce fight | 15.00% | ~109 |
 | Flying Objects Operator | 14.00% | ~102 |
-| I remember everything! | 12.00% | ~87 |
+| I remember everything! | 13.00% | ~94 |
 | Another giant | 10.00% | ~73 |
 | Violent solution | 9.00% | ~65 |
 | Innate curiosity | 8.00% | ~58 |

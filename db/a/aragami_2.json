@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44362,
+  "EOS_Progressed": 44363,
   "EOS_Completed": 247,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -19155,6 +19155,11 @@
       "Time": "2023-12-17T12:04:58.0177595+00:00",
       "NumProgressed": 44362,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2023-12-17T13:06:52.6521013+00:00",
+      "NumProgressed": 44363,
+      "NumCompleted": 247
     }
   ],
   "TotalAchievements": 44,
@@ -19166,7 +19171,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25286
+      "UsersEstimate": 25287
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -19174,7 +19179,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13752
+      "UsersEstimate": 13753
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -19206,7 +19211,7 @@
       "Name": "Ruse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5323
+      "UsersEstimate": 5324
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -19254,7 +19259,7 @@
       "Name": "Left Behind",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -19262,7 +19267,7 @@
       "Name": "Secrets of the Earth",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -19278,7 +19283,7 @@
       "Name": "Heart of Fire",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -19374,7 +19379,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8872
+      "UsersEstimate": 8873
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -19390,7 +19395,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24399
+      "UsersEstimate": 24400
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -19406,7 +19411,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27948
+      "UsersEstimate": 27949
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -19430,7 +19435,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26617
+      "UsersEstimate": 26618
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -19502,7 +19507,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41257
+      "UsersEstimate": 41258
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -19510,14 +19515,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23068
+      "UsersEstimate": 23069
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44362,
+      "Progressed": 44363,
       "Completed": 247
     }
   ],
@@ -19525,8 +19530,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-03T18:02:47.0707275+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:04:58.017759+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:06:52.6521009+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.9639492+00:00",
-  "LastUpdate_Ratings": "2023-12-17T12:03:26.3615208+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:04:58.0178654+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:05:42.1584741+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:06:52.6522594+00:00"
 }

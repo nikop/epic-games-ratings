@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13285,10 +13285,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 61187,
       "NumberOfAwardsMax": 7422
+    },
+    {
+      "Time": "2023-12-17T13:02:02.1227222+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 61197,
+      "NumberOfAwardsMax": 7422
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 61187,
+  "NumberOfAwards": 61197,
   "NumberOfAwardsMax": 7422,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13338,7 +13344,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 6820
+      "Count": 6830
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -13359,9 +13365,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 477550,
+  "EOS_Progressed": 477611,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5160,
+  "EOS_NewPlayers": 5189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41079,6 +41085,11 @@
       "Time": "2023-12-17T12:08:21.3160879+00:00",
       "NumProgressed": 477550,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T13:09:03.9960817+00:00",
+      "NumProgressed": 477611,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -43456,9 +43467,9 @@
       "ID": "achievement_the_great_khan",
       "SetID": "8p2n7he",
       "Name": "The Great Khan",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 478
     },
     {
       "ID": "achievement_the_league_of_mayapan",
@@ -43993,21 +44004,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 477550,
+      "Progressed": 477611,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 477550,
+      "Progressed": 477611,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-17T07:59:20.3669428+00:00",
-  "LastChanged_Achievements": "2023-12-17T12:08:21.3160863+00:00",
+  "LastChanged": "2023-12-17T13:02:02.1227218+00:00",
+  "LastChanged_Achievements": "2023-12-17T13:09:03.9960814+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.9920534+00:00",
-  "LastUpdate_Ratings": "2023-12-17T12:00:13.0796406+00:00",
-  "LastUpdate_Achievements": "2023-12-17T12:08:21.317128+00:00"
+  "LastUpdate_Ratings": "2023-12-17T13:02:02.1227227+00:00",
+  "LastUpdate_Achievements": "2023-12-17T13:09:03.9971072+00:00"
 }

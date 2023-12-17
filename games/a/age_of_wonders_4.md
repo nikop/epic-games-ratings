@@ -5,12 +5,13 @@ Rating: 4.62 (Ranked 370)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 6.00% | ~346 |
+| Secret Technique | 6.00% | ~347 |
 | Realm Estate | 5.00% | ~289 |
 | A Wonderful Discovery | 5.00% | ~289 |
 | Walls Cannot Stop Us | 5.00% | ~289 |
 | But this one is mine | 5.00% | ~289 |
 | From Friends to Family | 4.00% | ~231 |
+| Valley of Wonders | 3.00% | ~173 |
 | There Can Only Be One! | 3.00% | ~173 |
 | Full Ascension | 3.00% | ~173 |
 | Bone Peddler | 3.00% | ~173 |
@@ -18,7 +19,6 @@ Rating: 4.62 (Ranked 370)
 | Magical Synergy | 3.00% | ~173 |
 | Seat of Power | 3.00% | ~173 |
 | In a Liege of Your Own | 3.00% | ~173 |
-| Valley of Wonders | 2.00% | ~116 |
 | Return of the Wizard King | 2.00% | ~116 |
 | Enchanted Archipelago | 2.00% | ~116 |
 | Digging for Treasure | 2.00% | ~116 |
@@ -52,8 +52,8 @@ Rating: 4.62 (Ranked 370)
 | Grexolis | 0.70% | ~40 |
 | One for All, All for One | 0.70% | ~40 |
 | I've Got Everything I Need Right Here | 0.60% | ~35 |
+| Pruning for Progress | 0.60% | ~35 |
 | Duality | 0.60% | ~35 |
-| Pruning for Progress | 0.50% | ~29 |
 | Snap Out of It! | 0.30% | ~17 |
 | The Magic That Empowers Me! | 0.30% | ~17 |
 | Jack of All Tomes | 0.30% | ~17 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 370)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,775 (Ranked 190)  
+Progressed: 5,777 (Ranked 190)  
 Completed: 7 (0.12%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 7 (0.12%) (Ranked 289)
 | 2023-12-14 | 5,643 | 7 |
 | 2023-12-15 | 5,702 | 7 |
 | 2023-12-16 | 5,752 | 7 |
-| 2023-12-17 | 5,775 | 7 |
+| 2023-12-17 | 5,777 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 479)  
 Sum: 93 (Ranked 461)  

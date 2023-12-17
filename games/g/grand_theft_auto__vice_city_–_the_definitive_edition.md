@@ -5,42 +5,42 @@ Rating: 4.53 (Ranked 550)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~5,722 |
-| Greasy Palms | 42.00% | ~5,224 |
-| South American Connection | 26.00% | ~3,234 |
-| Life of the Party | 20.00% | ~2,488 |
-| Big Heat from Little Havana | 15.00% | ~1,866 |
-| Chauffeur | 15.00% | ~1,866 |
-| Tommy Two-Wheels | 15.00% | ~1,866 |
-| Salutations My Little Friend | 11.00% | ~1,368 |
-| Iron-y | 10.00% | ~1,244 |
-| Gun for Hire | 9.00% | ~1,120 |
-| Mischief Managed | 9.00% | ~1,120 |
-| Vice City Mogul | 7.00% | ~871 |
-| Catch Me if You Can | 6.00% | ~746 |
-| Bloodstained Hands | 6.00% | ~746 |
-| Not my First Time | 5.00% | ~622 |
-| Grand Theft Auto | 5.00% | ~622 |
+| Legal Counsel | 46.00% | ~5,728 |
+| Greasy Palms | 42.00% | ~5,230 |
+| South American Connection | 26.00% | ~3,238 |
+| Life of the Party | 20.00% | ~2,490 |
+| Big Heat from Little Havana | 15.00% | ~1,868 |
+| Chauffeur | 15.00% | ~1,868 |
+| Tommy Two-Wheels | 15.00% | ~1,868 |
+| Salutations My Little Friend | 11.00% | ~1,370 |
+| Iron-y | 10.00% | ~1,245 |
+| Gun for Hire | 9.00% | ~1,121 |
+| Mischief Managed | 9.00% | ~1,121 |
+| Vice City Mogul | 7.00% | ~872 |
+| Catch Me if You Can | 6.00% | ~747 |
+| Bloodstained Hands | 6.00% | ~747 |
+| Not my First Time | 5.00% | ~623 |
+| Grand Theft Auto | 5.00% | ~623 |
 | Pie Guy | 4.00% | ~498 |
-| Running Rampant | 3.00% | ~373 |
-| Point A to Point B | 3.00% | ~373 |
-| High Quality H2O | 3.00% | ~373 |
-| Bull in a China Shop | 3.00% | ~373 |
-| Somebody Call the Wambulance? | 3.00% | ~373 |
-| Just Like the Real Thing | 3.00% | ~373 |
-| Don't Need Roads | 3.00% | ~373 |
+| Running Rampant | 3.00% | ~374 |
+| Point A to Point B | 3.00% | ~374 |
+| High Quality H2O | 3.00% | ~374 |
+| Bull in a China Shop | 3.00% | ~374 |
+| Somebody Call the Wambulance? | 3.00% | ~374 |
+| Just Like the Real Thing | 3.00% | ~374 |
+| Don't Need Roads | 3.00% | ~374 |
 | One is Better Than Two | 2.00% | ~249 |
 | Take the Cannoli | 2.00% | ~249 |
 | Chopper’d Up | 2.00% | ~249 |
 | City Sleuth | 2.00% | ~249 |
-| Born in the 80’s | 1.00% | ~124 |
-| Keepie-Uppy Okie Dokie | 1.00% | ~124 |
-| I'm Famous! | 1.00% | ~124 |
-| Daredevil | 1.00% | ~124 |
+| Born in the 80’s | 1.00% | ~125 |
+| Keepie-Uppy Okie Dokie | 1.00% | ~125 |
+| I'm Famous! | 1.00% | ~125 |
+| Daredevil | 1.00% | ~125 |
 | Done it All | 0.90% | ~112 |
 | Kingpin | 0.50% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,439 (Ranked 166)  
+Progressed: 12,452 (Ranked 166)  
 Completed: 68 (0.55%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 68 (0.55%) (Ranked 203)
 | 2023-12-14 | 11,726 | 68 |
 | 2023-12-15 | 12,023 | 68 |
 | 2023-12-16 | 12,320 | 68 |
-| 2023-12-17 | 12,439 | 68 |
+| 2023-12-17 | 12,452 | 68 |
 ## Awards
 Max (Great Boss Battles): 127  (Ranked 340)  
 Sum: 127 (Ranked 440)  

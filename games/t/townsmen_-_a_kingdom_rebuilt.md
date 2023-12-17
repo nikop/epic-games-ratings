@@ -11,7 +11,7 @@ Number of Ratings: 37  (23.09.2022)
 | A new beginning | 13.00% | ~570 |
 | Friends from the past | 11.00% | ~482 |
 | I like to build stuff... I | 10.00% | ~438 |
-| A time consuming game I | 9.00% | ~394 |
+| A time consuming game I | 9.00% | ~395 |
 | Builder I | 8.00% | ~351 |
 | An honorable Governor I | 8.00% | ~351 |
 | Full-time job I | 8.00% | ~351 |
@@ -41,15 +41,15 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man IV | 4.00% | ~175 |
 | A time consuming game III | 4.00% | ~175 |
 | Tools of the trade II | 4.00% | ~175 |
-| Bread for the people III | 3.00% | ~131 |
-| I like to build stuff... V | 3.00% | ~131 |
-| The King's new clothes II | 3.00% | ~131 |
-| Saint Florian | 3.00% | ~131 |
-| My precious... II | 3.00% | ~131 |
-| Cosmas and Damian | 3.00% | ~131 |
-| Builder III | 3.00% | ~131 |
-| A time consuming game IV | 3.00% | ~131 |
-| Out of the frying pan | 3.00% | ~131 |
+| Bread for the people III | 3.00% | ~132 |
+| I like to build stuff... V | 3.00% | ~132 |
+| The King's new clothes II | 3.00% | ~132 |
+| Saint Florian | 3.00% | ~132 |
+| My precious... II | 3.00% | ~132 |
+| Cosmas and Damian | 3.00% | ~132 |
+| Builder III | 3.00% | ~132 |
+| A time consuming game IV | 3.00% | ~132 |
+| Out of the frying pan | 3.00% | ~132 |
 | The Art of War | 2.00% | ~88 |
 | Five brews are a schnitzel | 2.00% | ~88 |
 | The King's new clothes III | 2.00% | ~88 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,383 (Ranked 201)  
+Progressed: 4,385 (Ranked 201)  
 Completed: 4 (0.09%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 4 (0.09%) (Ranked 305)
 | 2023-12-14 | 4,371 | 4 |
 | 2023-12-15 | 4,377 | 4 |
 | 2023-12-16 | 4,382 | 4 |
-| 2023-12-17 | 4,383 | 4 |
+| 2023-12-17 | 4,385 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -19,6 +19,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flames of Avernus | 0.20% | ~415 |
 | Mental Gymnastics | 0.20% | ~415 |
 | Don't Lose Your Head | 0.20% | ~415 |
+| Mind Spike | 0.20% | ~415 |
 | Maddening | 0.10% | ~241 |
 | Pros and CONs | 0.10% | ~241 |
 | Upholding the Law | 0.10% | ~241 |
@@ -551,9 +552,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Brains of an Illithid's Desire | 0.10% | ~208 |
 | Arcane Suppression | 0.10% | ~208 |
 | Welcome to the Vrocks | 0.10% | ~208 |
-| Mind Spike | 0.10% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,362 (Ranked 65)  
+Progressed: 241,382 (Ranked 65)  
 Completed: 2,537 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -794,7 +794,7 @@ Completed: 2,537 (1.05%) (Ranked 168)
 | 2023-12-14 | 240,414 | 2,526 |
 | 2023-12-15 | 240,802 | 2,532 |
 | 2023-12-16 | 241,195 | 2,536 |
-| 2023-12-17 | 241,362 | 2,537 |
+| 2023-12-17 | 241,382 | 2,537 |
 ## Awards
 Max (Great for Beginners): 5,654  (Ranked 70)  
 Sum: 32,928 (Ranked 41)  

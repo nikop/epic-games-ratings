@@ -20,7 +20,7 @@ Rating: 3.95 (Ranked 1,027)
 | Case Closed | 1.00% | ~921 |
 | True Player | 1.00% | ~921 |
 | Rockay Rex | 1.00% | ~921 |
-| Track Star | 0.90% | ~828 |
+| Track Star | 0.90% | ~829 |
 | Headhunter | 0.80% | ~736 |
 | I Like Trains | 0.70% | ~644 |
 | Freebooter | 0.70% | ~644 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,027)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,053 (Ranked 94)  
+Progressed: 92,060 (Ranked 94)  
 Completed: 58 (0.06%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 58 (0.06%) (Ranked 320)
 | 2023-12-14 | 91,905 | 58 |
 | 2023-12-15 | 91,931 | 58 |
 | 2023-12-16 | 92,018 | 58 |
-| 2023-12-17 | 92,053 | 58 |
+| 2023-12-17 | 92,060 | 58 |
 ## Awards
 Max (Diverse Characters): 565  (Ranked 207)  
 Sum: 2,679 (Ranked 190)  
