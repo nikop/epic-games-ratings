@@ -709,6 +709,7 @@
 | [Five Dates](../games/f/five_dates.md) | 15 | 1,000 |
 | [Fusion Paradox](../games/f/fusion_paradox.md) | 15 | 1,000 |
 | [Grim Nights](../games/g/grim_nights.md) | 15 | 1,000 |
+| [Hero Battle Fantasy Arena](../games/4/4d936d45ca14450c86d6472c3c494181.md) | 15 | 1,000 |
 | [I Saw Black Clouds](../games/i/i_saw_black_clouds.md) | 15 | 1,000 |
 | [JYDGE](../games/j/jydge.md) | 15 | 1,000 |
 | [Kaichu - The Kaiju Dating Sim](../games/k/kaichu_-_the_kaiju_dating_sim.md) | 15 | 1,000 |
