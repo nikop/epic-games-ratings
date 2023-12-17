@@ -3,7 +3,7 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 237,
-  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1815,
+  "EOS_Progressed": 1819,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.06,
+  "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
     {
       "Time": "2023-09-21T19:05:03.9870233+00:00",
@@ -5359,6 +5359,11 @@
       "Time": "2023-12-16T23:10:06.2413005+00:00",
       "NumProgressed": 1815,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T02:02:55.0745767+00:00",
+      "NumProgressed": 1819,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5427,7 +5432,7 @@
       "Name": "I\u0027ve been waiting for you",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_17",
@@ -5451,7 +5456,7 @@
       "Name": "When 900 years old you reach...",
       "Percentage": 3,
       "XP": 55,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_2",
@@ -5475,7 +5480,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_22",
@@ -5523,7 +5528,7 @@
       "Name": "Your journey has only started",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_28",
@@ -5539,7 +5544,7 @@
       "Name": "On the ball",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_3",
@@ -5547,7 +5552,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_30",
@@ -5587,7 +5592,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_35",
@@ -5595,7 +5600,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1619
     },
     {
       "ID": "achievement_36",
@@ -5611,7 +5616,7 @@
       "Name": "Off to a good start",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1182
     },
     {
       "ID": "achievement_38",
@@ -5619,7 +5624,7 @@
       "Name": "Survivor",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_39",
@@ -5643,7 +5648,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 926
+      "UsersEstimate": 928
     },
     {
       "ID": "achievement_41",
@@ -5675,7 +5680,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "achievement_45",
@@ -5723,7 +5728,7 @@
       "Name": "Shoot first",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "achievement_50",
@@ -5753,9 +5758,9 @@
       "ID": "achievement_53",
       "SetID": "cemm4l8",
       "Name": "I\u2019ll take that bet",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_54",
@@ -5849,9 +5854,9 @@
       "ID": "achievement_7",
       "SetID": "271ol84",
       "Name": "A cunning warrior",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 127
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_8",
@@ -5859,7 +5864,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_9",
@@ -5874,13 +5879,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1815,
+      "Progressed": 1819,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1815,
+      "Progressed": 1819,
       "Completed": 1
     }
   ],
@@ -5888,8 +5893,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:10:34.8372783+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T23:58:12.6035488+00:00",
-  "LastUpdate_Ratings": "2023-12-17T00:00:06.7929366+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:10:34.8373589+00:00"
+  "LastChanged_Achievements": "2023-12-17T02:02:55.0745764+00:00",
+  "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
+  "LastUpdate_Ratings": "2023-12-17T01:52:19.8764808+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:02:55.0746456+00:00"
 }

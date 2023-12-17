@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3717,
+  "EOS_Progressed": 3718,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1887,6 +1887,11 @@
       "Time": "2023-12-15T23:03:32.5901457+00:00",
       "NumProgressed": 3717,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T01:56:59.8658238+00:00",
+      "NumProgressed": 3718,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1938,7 +1943,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -1954,7 +1959,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -1970,7 +1975,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -2018,7 +2023,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -2034,7 +2039,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -2105,7 +2110,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3717,
+      "Progressed": 3718,
       "Completed": 0
     }
   ],
@@ -2113,8 +2118,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:04:54.6849683+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T23:57:46.6955721+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:58:54.751811+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:04:54.6850062+00:00"
+  "LastChanged_Achievements": "2023-12-17T01:56:59.8658233+00:00",
+  "LastUpdate_AppInfo": "2023-12-17T01:48:35.6151583+00:00",
+  "LastUpdate_Ratings": "2023-12-17T01:51:13.3424333+00:00",
+  "LastUpdate_Achievements": "2023-12-17T01:56:59.8658471+00:00"
 }

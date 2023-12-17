@@ -40,6 +40,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Toxic | 0.50% | ~1,206 |
 | Sneaky | 0.50% | ~1,206 |
 | Shadow Walker | 0.50% | ~1,206 |
+| Flesh Wound | 0.50% | ~1,206 |
 | Expensive Look | 0.50% | ~13 |
 | What Doesn't Kill You | 0.50% | ~13 |
 | Consecutive Curses | 0.40% | ~965 |
@@ -52,7 +53,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Doing Time | 0.40% | ~965 |
 | Acid Bath | 0.40% | ~965 |
 | New Perspectives | 0.40% | ~965 |
-| Flesh Wound | 0.40% | ~965 |
 | Shapeshifting | 0.40% | ~965 |
 | Thank You, Friend | 0.30% | ~723 |
 | Shadow Spreads | 0.30% | ~723 |
@@ -65,6 +65,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Chain Reaction | 0.30% | ~723 |
 | Spreading Plague | 0.30% | ~723 |
 | Antivenom | 0.30% | ~723 |
+| Snake Sneak | 0.30% | ~723 |
 | The Long Run | 0.30% | ~723 |
 | Who Needs Luck? | 0.30% | ~8 |
 | Achievement Hunter | 0.20% | ~482 |
@@ -82,7 +83,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Just Looking Around | 0.20% | ~482 |
 | Decisions, Decisions | 0.20% | ~482 |
 | Fragile Mortality | 0.20% | ~482 |
-| Snake Sneak | 0.20% | ~482 |
 | Fire Away! | 0.20% | ~482 |
 | Defuser | 0.20% | ~482 |
 | Obsessed | 0.20% | ~482 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,164 (Ranked 66)  
+Progressed: 241,165 (Ranked 66)  
 Completed: 299 (0.12%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -386,7 +386,7 @@ Completed: 299 (0.12%) (Ranked 290)
 | 2023-12-14 | 241,040 | 298 |
 | 2023-12-15 | 241,093 | 299 |
 | 2023-12-16 | 241,163 | 299 |
-| 2023-12-17 | 241,164 | 299 |
+| 2023-12-17 | 241,165 | 299 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,742 (Ranked 87)  

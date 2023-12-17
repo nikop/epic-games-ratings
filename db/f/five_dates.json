@@ -3,8 +3,8 @@
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 919,
+  "EOS_Progressed": 932,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.2,
+  "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.144074+00:00",
@@ -2060,6 +2060,11 @@
       "Time": "2023-12-17T00:10:18.2281313+00:00",
       "NumProgressed": 919,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-17T02:02:39.6064334+00:00",
+      "NumProgressed": 932,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -2071,7 +2076,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 901
+      "UsersEstimate": 913
     },
     {
       "ID": "booty_call",
@@ -2079,15 +2084,15 @@
       "Name": "Booty Call",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 221
+      "UsersEstimate": 224
     },
     {
       "ID": "crash_and_burn",
       "SetID": "c4ipj3h",
       "Name": "Crash and Burn",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 19
     },
     {
       "ID": "digital_casanova",
@@ -2095,15 +2100,15 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 882
+      "UsersEstimate": 895
     },
     {
       "ID": "hold_my_beer",
       "SetID": "c4ipj3h",
       "Name": "Hold my Beer",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 579
+      "UsersEstimate": 596
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -2111,7 +2116,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 221
+      "UsersEstimate": 224
     },
     {
       "ID": "interrogation",
@@ -2119,7 +2124,7 @@
       "Name": "Interrogation",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "light_sleepers",
@@ -2127,7 +2132,7 @@
       "Name": "Light Sleepers",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "not_alone",
@@ -2135,7 +2140,7 @@
       "Name": "Not Alone",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 239
+      "UsersEstimate": 242
     },
     {
       "ID": "nueva_beginnings",
@@ -2143,7 +2148,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 285
+      "UsersEstimate": 289
     },
     {
       "ID": "only_thyme_will_tell",
@@ -2151,15 +2156,15 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 267
+      "UsersEstimate": 270
     },
     {
       "ID": "planting_the_seed",
       "SetID": "c4ipj3h",
       "Name": "Planting the Seed",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 175
+      "UsersEstimate": 168
     },
     {
       "ID": "smooth_criminal",
@@ -2167,7 +2172,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "sore_loser",
@@ -2175,22 +2180,22 @@
       "Name": "Sore Loser",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "we_go_again",
       "SetID": "c4ipj3h",
       "Name": "We Go Again",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 257
+      "UsersEstimate": 252
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 919,
+      "Progressed": 932,
       "Completed": 11
     }
   ],
@@ -2198,8 +2203,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:10:18.2281308+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T23:58:00.3976276+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:59:54.3108901+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:10:18.2281496+00:00"
+  "LastChanged_Achievements": "2023-12-17T02:02:39.6064331+00:00",
+  "LastUpdate_AppInfo": "2023-12-17T01:49:02.6209919+00:00",
+  "LastUpdate_Ratings": "2023-12-17T01:52:08.7504765+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:02:39.6064531+00:00"
 }

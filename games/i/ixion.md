@@ -5,14 +5,14 @@ Rating: 4.58 (Ranked 455)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 30.00% | ~1,056 |
-| Sputnik 2049 | 26.00% | ~915 |
-| Infinite Growth... | 25.00% | ~880 |
-| Without Breaking Some Eggs... | 24.00% | ~845 |
+| Wakey Wakey | 30.00% | ~1,057 |
+| Sputnik 2049 | 26.00% | ~916 |
+| Infinite Growth... | 25.00% | ~881 |
+| Without Breaking Some Eggs... | 24.00% | ~846 |
 | A Thousand Strong | 18.00% | ~634 |
 | Ready for a New World | 18.00% | ~634 |
 | Space Society | 17.00% | ~599 |
-| Permanent Redesigns | 16.00% | ~563 |
+| Permanent Redesigns | 16.00% | ~564 |
 | Fully Recycled | 14.00% | ~493 |
 | Ain't Nobody Got Time for That | 14.00% | ~493 |
 | The Ship of Theseus | 14.00% | ~493 |
@@ -20,14 +20,14 @@ Rating: 4.58 (Ranked 455)
 | Exceeding Capacity | 12.00% | ~423 |
 | Breaking Protocol | 12.00% | ~423 |
 | Hope Seeker | 12.00% | ~423 |
-| A Hunk of Junk | 11.00% | ~387 |
+| A Hunk of Junk | 11.00% | ~388 |
 | Man's Best Friend | 9.00% | ~317 |
 | Power Outage | 8.00% | ~282 |
 | Convenient Transport | 8.00% | ~282 |
 | Please Make it Stop! | 8.00% | ~282 |
-| Sightseeing | 7.00% | ~246 |
-| Necessary Enhancement | 7.00% | ~246 |
-| From the Past | 7.00% | ~246 |
+| Sightseeing | 7.00% | ~247 |
+| Necessary Enhancement | 7.00% | ~247 |
+| From the Past | 7.00% | ~247 |
 | Access Granted | 6.00% | ~211 |
 | All in Good Health | 6.00% | ~211 |
 | Oats | 5.00% | ~176 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 455)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,521 (Ranked 211)  
+Progressed: 3,523 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 3,460 | 0 |
 | 2023-12-15 | 3,496 | 0 |
 | 2023-12-16 | 3,519 | 0 |
-| 2023-12-17 | 3,521 | 0 |
+| 2023-12-17 | 3,523 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

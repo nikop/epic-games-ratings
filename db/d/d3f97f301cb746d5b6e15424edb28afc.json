@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -3464,17 +3464,17 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1110
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1110
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -3624,9 +3624,9 @@
       "ID": "GSS_ACH_41_PARTY_BUS",
       "SetID": "5fn8ia4",
       "Name": "Party Bus",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 823
+      "UsersEstimate": 835
     },
     {
       "ID": "GSS_ACH_42_CARAVAN_01",
@@ -3704,9 +3704,9 @@
       "ID": "GSS_ACH_51_UPGRADE_WORKSHOP_01",
       "SetID": "5fn8ia4",
       "Name": "Workshop Obtained!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 973
+      "UsersEstimate": 985
     },
     {
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
@@ -3792,9 +3792,9 @@
       "ID": "GSS_ACH_62_POPULARITY_02",
       "SetID": "5fn8ia4",
       "Name": "Heard in Whispers",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 985
+      "UsersEstimate": 998
     },
     {
       "ID": "GSS_ACH_63_POPULARITY_03",
@@ -3969,8 +3969,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-15T16:57:11.4281266+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:05:43.3369276+00:00",
+  "LastChanged_Achievements": "2023-12-17T01:57:44.4030725+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:58:41.7422642+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:05:43.337012+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:51:01.9343008+00:00",
+  "LastUpdate_Achievements": "2023-12-17T01:57:44.403153+00:00"
 }

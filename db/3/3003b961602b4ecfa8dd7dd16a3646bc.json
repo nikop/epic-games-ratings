@@ -530,9 +530,9 @@
       "ID": "ACH_25_BEACH",
       "SetID": "9dl0ei6",
       "Name": "Surfer",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_26_SIDEQUEST",
@@ -561,8 +561,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:10:28.140393+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:02:48.7555916+00:00",
   "LastUpdate_AppInfo": "2023-12-11T01:45:33.6720715+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:57:39.862989+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:10:28.1404114+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:50:07.1246713+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:02:48.7556106+00:00"
 }

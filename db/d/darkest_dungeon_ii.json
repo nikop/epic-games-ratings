@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9724,10 +9724,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20595,
       "NumberOfAwardsMax": 7744
+    },
+    {
+      "Time": "2023-12-17T01:50:35.3026961+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20608,
+      "NumberOfAwardsMax": 7744
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20595,
+  "NumberOfAwards": 20608,
   "NumberOfAwardsMax": 7744,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9759,7 +9765,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1592
+      "Count": 1599
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9795,7 +9801,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1378
+      "Count": 1384
     },
     {
       "Text": "This game has a Creative Community",
@@ -9804,9 +9810,9 @@
       "Count": 1018
     }
   ],
-  "EOS_Progressed": 127834,
+  "EOS_Progressed": 127860,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1880,
+  "EOS_NewPlayers": 1897,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35394,6 +35400,11 @@
       "Time": "2023-12-17T00:09:36.8359414+00:00",
       "NumProgressed": 127834,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T02:02:01.944959+00:00",
+      "NumProgressed": 127860,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35421,7 +35432,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -35485,7 +35496,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -35533,7 +35544,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3835
+      "UsersEstimate": 3836
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35541,7 +35552,7 @@
       "Name": "Dissector",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "combat_kill_cosmic",
@@ -35549,7 +35560,7 @@
       "Name": "Banishment",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "combat_kill_death",
@@ -35573,7 +35584,7 @@
       "Name": "Deprogramming",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -35587,9 +35598,9 @@
       "ID": "combat_kill_gaunts",
       "SetID": "64l4lke",
       "Name": "Now Stay Dead",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1279
     },
     {
       "ID": "combat_kill_gentry",
@@ -35677,7 +35688,7 @@
       "Name": "It Happens",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -35693,7 +35704,7 @@
       "Name": "Spelunker",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "driving_biome_clear_city",
@@ -35709,7 +35720,7 @@
       "Name": "Merry Time",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -35717,7 +35728,7 @@
       "Name": "Harvest Festival",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -35733,7 +35744,7 @@
       "Name": "Ramble On",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "driving_distance_hard",
@@ -35757,7 +35768,7 @@
       "Name": "Autodidact",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3835
+      "UsersEstimate": 3836
     },
     {
       "ID": "hero_story_complete_all",
@@ -35781,7 +35792,7 @@
       "Name": "Whale",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "hospital_full_service",
@@ -35797,7 +35808,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -35821,7 +35832,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -35853,7 +35864,7 @@
       "Name": "Nope",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "run_victory_act01",
@@ -35861,7 +35872,7 @@
       "Name": "Unshackled",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "run_victory_act02",
@@ -35917,7 +35928,7 @@
       "Name": "Road Trip",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -35941,7 +35952,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 191
     },
     {
       "ID": "combat_kill_collector",
@@ -35949,7 +35960,7 @@
       "Name": "This guy... again?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -35989,7 +36000,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -35997,7 +36008,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "quest_complete_crusader",
@@ -36005,7 +36016,7 @@
       "Name": "Lost and Found",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36013,7 +36024,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -36036,21 +36047,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127834,
+      "Progressed": 127860,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2703,
+      "Progressed": 2729,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-16T22:57:47.5795166+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:09:36.8359408+00:00",
+  "LastChanged": "2023-12-17T01:50:35.302696+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:02:01.9449587+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:58:11.5046165+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:09:36.8360964+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:50:35.3026966+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:02:01.9451208+00:00"
 }

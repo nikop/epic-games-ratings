@@ -14,7 +14,7 @@ Number of Ratings: 46  (23.09.2022)
 | Devourer | 0.50% | ~815 |
 | Harmless | 0.40% | ~652 |
 | Silenced Whispers | 0.40% | ~652 |
-| Scion | 0.30% | ~487 |
+| Scion | 0.30% | ~488 |
 | Jawcrab | 0.30% | ~489 |
 | Jawstag | 0.30% | ~489 |
 | Feast | 0.30% | ~489 |
@@ -26,35 +26,35 @@ Number of Ratings: 46  (23.09.2022)
 | Glare | 0.20% | ~325 |
 | Host | 0.20% | ~325 |
 | Celebration | 0.20% | ~326 |
+| Inevitable | 0.20% | ~326 |
 | Watcher | 0.20% | ~326 |
 | Predator | 0.20% | ~326 |
 | Spiral Heart | 0.10% | ~161 |
 | Bloodhunter | 0.10% | ~163 |
 | Skinmaker | 0.10% | ~163 |
 | Instruments | 0.10% | ~163 |
-| Zygote | 0.10% | ~162 |
+| Zygote | 0.10% | ~163 |
 | Breath | 0.10% | ~163 |
 | Artisan | 0.10% | ~163 |
 | Hush | 0.10% | ~163 |
-| Inevitable | 0.10% | ~163 |
 | All-Seeing | 0.10% | ~163 |
 | Kinship | 0.10% | ~163 |
 | Weakness | 0.10% | ~163 |
 | Breathsmith | 0.10% | ~163 |
 | Unwrap the Gift | 0.10% | ~163 |
 | Passage | 0.10% | ~163 |
-| Dream | 0.10% | ~162 |
+| Dream | 0.10% | ~163 |
 | Generous | 0.10% | ~163 |
-| Kin | 0.10% | ~162 |
-| Listen | 0.10% | ~162 |
+| Kin | 0.10% | ~163 |
+| Listen | 0.10% | ~163 |
 | Proportions | 0.10% | ~163 |
-| The Nightmare | 0.10% | ~162 |
-| Touch of Otherwhere | 0.10% | ~162 |
-| Enrich | 0.10% | ~162 |
-| Intensify | 0.10% | ~162 |
+| The Nightmare | 0.10% | ~163 |
+| Touch of Otherwhere | 0.10% | ~163 |
+| Enrich | 0.10% | ~163 |
+| Intensify | 0.10% | ~163 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 162,901 (Ranked 78)  
-Completed: 333 (0.20%) (Ranked 266)  
+Progressed: 162,920 (Ranked 78)  
+Completed: 334 (0.21%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -271,7 +271,7 @@ Completed: 333 (0.20%) (Ranked 266)
 | 2023-12-14 | 162,555 | 324 |
 | 2023-12-15 | 162,701 | 330 |
 | 2023-12-16 | 162,892 | 333 |
-| 2023-12-17 | 162,901 | 333 |
+| 2023-12-17 | 162,920 | 334 |
 ## Awards
 Max (Highly Recommended): 56  (Ranked 424)  
 Sum: 404 (Ranked 345)  

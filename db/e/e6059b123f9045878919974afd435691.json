@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1120,
+  "EOS_Progressed": 1121,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2919,6 +2919,11 @@
       "Time": "2023-12-16T23:10:06.5652865+00:00",
       "NumProgressed": 1120,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T02:02:55.5359895+00:00",
+      "NumProgressed": 1121,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2954,7 +2959,7 @@
       "Name": "Out Of Stock",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -2970,7 +2975,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3162,7 +3167,7 @@
       "Name": "End of Rest",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -3170,7 +3175,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -3186,7 +3191,7 @@
       "Name": "Free Like Birds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -3218,7 +3223,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -3304,9 +3309,9 @@
       "ID": "MARY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Hostage of the Elderly",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 291
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -3322,7 +3327,7 @@
       "Name": "Night Snack",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -3330,7 +3335,7 @@
       "Name": "To Get Stronger",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "MEAT_ACHIEVEMENT_3",
@@ -3408,9 +3413,9 @@
       "ID": "SCAN_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Let the Medical Exams Begin",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 22
     },
     {
       "ID": "SING_ACHIEVEMENT_1",
@@ -3457,14 +3462,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1120,
+      "Progressed": 1121,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:10:35.3905706+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:02:55.5359891+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:08.9329051+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:58:54.7900938+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:10:35.3906459+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:51:13.4312883+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:02:55.5360438+00:00"
 }

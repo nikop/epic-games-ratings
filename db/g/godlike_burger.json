@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 386196,
+  "EOS_Progressed": 386235,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 3451,
+  "EOS_NewPlayers": 3454,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9931,6 +9931,11 @@
       "Time": "2023-12-17T00:04:05.8806331+00:00",
       "NumProgressed": 386196,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-17T01:56:15.3837754+00:00",
+      "NumProgressed": 386235,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 28,
@@ -9942,7 +9947,7 @@
       "Name": "BUTCHER",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 23172
+      "UsersEstimate": 23174
     },
     {
       "ID": "GB_CELEBRITY",
@@ -9950,7 +9955,7 @@
       "Name": "CELEBRITY",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 11586
+      "UsersEstimate": 11587
     },
     {
       "ID": "GB_CORRUPTIONIST",
@@ -9966,7 +9971,7 @@
       "Name": "CRIMINAL",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 77239
+      "UsersEstimate": 77247
     },
     {
       "ID": "GB_DEBTOR",
@@ -9990,7 +9995,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 154478
+      "UsersEstimate": 154494
     },
     {
       "ID": "GB_GOURMET",
@@ -10006,7 +10011,7 @@
       "Name": "GRANDMA WOULD BE PROUD",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 42482
+      "UsersEstimate": 42486
     },
     {
       "ID": "GB_GRATITUDE",
@@ -10014,7 +10019,7 @@
       "Name": "GRATITUDE",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 7724
+      "UsersEstimate": 7725
     },
     {
       "ID": "GB_HELLS_KITCHEN",
@@ -10022,7 +10027,7 @@
       "Name": "HELL\u0027S KITCHEN",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 15448
+      "UsersEstimate": 15449
     },
     {
       "ID": "GB_HIGH_TECHNOLOGIES",
@@ -10030,7 +10035,7 @@
       "Name": "HIGH TECHNOLOGIES",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 2703
+      "UsersEstimate": 2704
     },
     {
       "ID": "GB_HONORS_STUDENT",
@@ -10038,7 +10043,7 @@
       "Name": "HONORS STUDENT",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 30896
+      "UsersEstimate": 30899
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -10046,7 +10051,7 @@
       "Name": "INDIVIDUAL APPROACH",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 19310
+      "UsersEstimate": 19312
     },
     {
       "ID": "GB_IVE_SEEN_SOME",
@@ -10062,7 +10067,7 @@
       "Name": "JACK OF ALL TRADES",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 88825
+      "UsersEstimate": 88834
     },
     {
       "ID": "GB_KEVIN",
@@ -10070,7 +10075,7 @@
       "Name": "KEVIN!",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 115859
+      "UsersEstimate": 115870
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -10086,7 +10091,7 @@
       "Name": "MARTYR",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 11586
+      "UsersEstimate": 11587
     },
     {
       "ID": "GB_MASTER_CHEF",
@@ -10094,7 +10099,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 173788
+      "UsersEstimate": 173806
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -10110,7 +10115,7 @@
       "Name": "PATTY-KILLER",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 7724
+      "UsersEstimate": 7725
     },
     {
       "ID": "GB_PRUDENT",
@@ -10126,7 +10131,7 @@
       "Name": "RAMBO",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 19310
+      "UsersEstimate": 19312
     },
     {
       "ID": "GB_SCATTERBRAIN",
@@ -10158,14 +10163,14 @@
       "Name": "WITHOUT BREAKING A SWEAT",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 34758
+      "UsersEstimate": 34761
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 386196,
+      "Progressed": 386235,
       "Completed": 49
     }
   ],
@@ -10173,8 +10178,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-10-28T12:59:45.1014127+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:04:05.8806326+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T23:59:11.9153486+00:00",
-  "LastUpdate_Ratings": "2023-12-17T00:03:44.8863272+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:04:05.8807028+00:00"
+  "LastChanged_Achievements": "2023-12-17T01:56:15.383775+00:00",
+  "LastUpdate_AppInfo": "2023-12-17T01:49:55.5616495+00:00",
+  "LastUpdate_Ratings": "2023-12-17T01:55:55.6513971+00:00",
+  "LastUpdate_Achievements": "2023-12-17T01:56:15.3838237+00:00"
 }

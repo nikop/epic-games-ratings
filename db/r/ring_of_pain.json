@@ -3688,9 +3688,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241164,
+  "EOS_Progressed": 241165,
   "EOS_Completed": 299,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -28463,6 +28463,11 @@
       "Time": "2023-12-17T00:10:36.7035579+00:00",
       "NumProgressed": 241164,
       "NumCompleted": 299
+    },
+    {
+      "Time": "2023-12-17T02:02:56.8125993+00:00",
+      "NumProgressed": 241165,
+      "NumCompleted": 299
     }
   ],
   "TotalAchievements": 138,
@@ -29208,9 +29213,9 @@
       "ID": "SNAKESTEALTH",
       "SetID": "5l8oe0h",
       "Name": "Snake Sneak",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 723
     },
     {
       "ID": "SPECIALROOMS1",
@@ -29256,9 +29261,9 @@
       "ID": "SURVIVEON1",
       "SetID": "5l8oe0h",
       "Name": "Flesh Wound",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 1206
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -29577,13 +29582,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241164,
+      "Progressed": 241165,
       "Completed": 299
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2644,
+      "Progressed": 2645,
       "Completed": 406
     }
   ],
@@ -29591,8 +29596,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-16T10:57:08.4508717+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:10:36.7035575+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:02:56.8125989+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.1397919+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:57:59.277796+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:10:36.7038273+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:50:24.0254239+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:02:56.8128318+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 800,
+  "Ranking_Rating": 799,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 223,
-  "Ranking_EOS_Progress": 154,
+  "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 139,
@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 16244,
+  "EOS_Progressed": 16252,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 821,
+  "EOS_NewPlayers": 825,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -13845,6 +13845,11 @@
       "Time": "2023-12-17T00:09:59.2515619+00:00",
       "NumProgressed": 16244,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-17T02:02:22.2885047+00:00",
+      "NumProgressed": 16252,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -13857,7 +13862,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "a_10",
@@ -13889,7 +13894,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "a_16",
@@ -13905,7 +13910,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 6822
+      "UsersEstimate": 6826
     },
     {
       "ID": "a_19",
@@ -13921,7 +13926,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "a_20",
@@ -13961,7 +13966,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "a_26",
@@ -13977,7 +13982,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "a_28",
@@ -13985,7 +13990,7 @@
       "Name": "Pastry Chef",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "a_3",
@@ -13993,7 +13998,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "a_30",
@@ -14001,7 +14006,7 @@
       "Name": "King of red wines",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "a_31",
@@ -14009,7 +14014,7 @@
       "Name": "King of white wines",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "a_32",
@@ -14017,7 +14022,7 @@
       "Name": "Sales Expert",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "a_33",
@@ -14057,7 +14062,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "a_5",
@@ -14073,7 +14078,7 @@
       "Name": "Gem of Monferrato",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "a_7",
@@ -14089,7 +14094,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "a_9",
@@ -14104,7 +14109,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 16244,
+      "Progressed": 16252,
       "Completed": 12
     }
   ],
@@ -14112,8 +14117,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:09:59.2515616+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:02:22.2885042+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:03.7853176+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:57:43.4949202+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:09:59.2516626+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:50:10.4322423+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:02:22.2885877+00:00"
 }

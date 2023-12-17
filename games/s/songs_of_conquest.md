@@ -6,23 +6,23 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 39.00% | ~201 |
-| Double Kill | 30.00% | ~154 |
+| Adept | 39.00% | ~202 |
+| Double Kill | 31.00% | ~161 |
 | Critical Hit | 17.00% | ~88 |
-| Veteran | 16.00% | ~82 |
+| Veteran | 16.00% | ~83 |
 | Dressed For Success | 11.00% | ~57 |
-| Humiliation | 8.00% | ~41 |
+| Humiliation | 8.00% | ~42 |
 | Multi Kill | 7.00% | ~36 |
 | Sorcerous Spree | 7.00% | ~36 |
 | Veni, Vidi, Vici | 7.00% | ~36 |
 | Landlord Extraordinaire | 5.00% | ~26 |
 | Master | 5.00% | ~26 |
 | Whoops! | 4.00% | ~21 |
-| Don't Touch My Stuff | 3.00% | ~15 |
-| Trojan Horse | 3.00% | ~15 |
-| Pyrrhic Victory | 3.00% | ~15 |
-| Expert Essence Employment | 3.00% | ~15 |
-| Venisti, Vidisti, Perdidisti | 3.00% | ~15 |
+| Don't Touch My Stuff | 3.00% | ~16 |
+| Trojan Horse | 3.00% | ~16 |
+| Pyrrhic Victory | 3.00% | ~16 |
+| Expert Essence Employment | 3.00% | ~16 |
+| Venisti, Vidisti, Perdidisti | 3.00% | ~16 |
 | The Song of Stoutheart | 2.00% | ~10 |
 | This Spot's Taken | 2.00% | ~10 |
 | Versatile Wielder | 2.00% | ~10 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 515 (Ranked 323)  
+Progressed: 519 (Ranked 324)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,10 +98,11 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 474 | 0 |
 | 2023-12-15 | 488 | 0 |
 | 2023-12-16 | 515 | 0 |
+| 2023-12-17 | 519 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 519)  
-Sum: 194 (Ranked 410)  
-Diff (max vs sum): 109  
+Sum: 194 (Ranked 411)  
+Diff (max vs sum): 108  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 27 |

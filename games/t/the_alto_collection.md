@@ -6,16 +6,16 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~13,633 |
-| Finding Your Footing | 25.00% | ~12,623 |
-| Nomad | 17.00% | ~8,584 |
-| Picking Up Speed | 15.00% | ~7,574 |
-| Welcome Maya | 14.00% | ~7,069 |
-| Scout | 11.00% | ~5,554 |
-| Sightseer | 11.00% | ~5,554 |
-| Amateur | 10.00% | ~5,049 |
-| Unlock Maya | 8.00% | ~4,039 |
-| Wanderer | 8.00% | ~4,039 |
+| Rookie | 27.00% | ~13,636 |
+| Finding Your Footing | 25.00% | ~12,626 |
+| Nomad | 17.00% | ~8,586 |
+| Picking Up Speed | 15.00% | ~7,576 |
+| Welcome Maya | 14.00% | ~7,071 |
+| Scout | 11.00% | ~5,556 |
+| Sightseer | 11.00% | ~5,556 |
+| Amateur | 10.00% | ~5,050 |
+| Unlock Maya | 8.00% | ~4,040 |
+| Wanderer | 8.00% | ~4,040 |
 | Enter Paz | 7.00% | ~3,535 |
 | Aviator | 6.00% | ~3,030 |
 | My Little Friend | 5.00% | ~2,525 |
@@ -36,17 +36,17 @@ Number of Ratings: 332  (23.09.2022)
 | Daredevil | 1.00% | ~505 |
 | Introducing Sumara | 1.00% | ~505 |
 | Vandal | 1.00% | ~505 |
-| Unlock Felipe | 0.90% | ~454 |
+| Unlock Felipe | 0.90% | ~455 |
 | Adventurer | 0.80% | ~404 |
-| Unlock Tupa | 0.50% | ~252 |
-| Master Of The Sands | 0.30% | ~151 |
+| Unlock Tupa | 0.50% | ~253 |
+| Master Of The Sands | 0.30% | ~152 |
 | Master | 0.20% | ~101 |
 | Survivalist | 0.20% | ~101 |
-| Life Aquatic | 0.10% | ~50 |
-| The Ultimate Challenge | 0.10% | ~50 |
-| Windswept | 0.10% | ~50 |
+| Life Aquatic | 0.10% | ~51 |
+| The Ultimate Challenge | 0.10% | ~51 |
+| Windswept | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,493 (Ranked 115)  
+Progressed: 50,505 (Ranked 115)  
 Completed: 5 (0.01%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,11 +287,11 @@ Completed: 5 (0.01%) (Ranked 355)
 | 2023-12-14 | 50,164 | 5 |
 | 2023-12-15 | 50,320 | 5 |
 | 2023-12-16 | 50,490 | 5 |
-| 2023-12-17 | 50,493 | 5 |
+| 2023-12-17 | 50,505 | 5 |
 ## Awards
-Max (Great for Quick Sessions): 49  (Ranked 444)  
+Max (Great for Quick Sessions): 49  (Ranked 445)  
 Sum: 387 (Ranked 352)  
-Diff (max vs sum): 92  
+Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 49 |

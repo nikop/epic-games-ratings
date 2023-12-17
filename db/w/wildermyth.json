@@ -2139,9 +2139,9 @@
       "ID": "achievement_3hookQuestsResolved",
       "SetID": "95dc8p",
       "Name": "Storied Past",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_5petsReceived",
@@ -2299,9 +2299,9 @@
       "ID": "achievement_mythwalker",
       "SetID": "95dc8p",
       "Name": "Legends Never Die",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_rivalStuntAbility5Times",
@@ -2347,9 +2347,9 @@
       "ID": "completedStory_ecthis",
       "SetID": "95dc8p",
       "Name": "Everfading",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "completedStory_enduringWar",
@@ -2411,9 +2411,9 @@
       "ID": "ecthis_all5PlotCharacters",
       "SetID": "95dc8p",
       "Name": "All My Birds, Safely Home",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "enduringWar_destroyCores",
@@ -2571,8 +2571,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:10:33.0788612+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:02:53.3737012+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:42.9077467+00:00",
-  "LastUpdate_Ratings": "2023-12-17T00:00:28.3846687+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:10:33.0789257+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:52:40.0582289+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:02:53.3737425+00:00"
 }

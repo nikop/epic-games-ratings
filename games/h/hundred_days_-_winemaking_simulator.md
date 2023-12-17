@@ -1,24 +1,24 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 800)  
+Rating: 4.35 (Ranked 799)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 42.00% | ~6,822 |
-| It's a good start | 10.00% | ~1,624 |
+| Bye Bye | 42.00% | ~6,826 |
+| It's a good start | 10.00% | ~1,625 |
 | Bonjour! | 8.00% | ~1,300 |
 | Quack | 8.00% | ~1,300 |
 | The Assistant | 6.00% | ~975 |
 | The Blue Marl | 6.00% | ~975 |
-| Ostinata | 5.00% | ~812 |
-| Better than nothing? | 5.00% | ~812 |
+| Ostinata | 5.00% | ~813 |
+| Better than nothing? | 5.00% | ~813 |
 | A long journey | 4.00% | ~650 |
-| Big Money | 3.00% | ~487 |
-| Keep the doctor away | 3.00% | ~487 |
-| Surprise of Langhe | 3.00% | ~487 |
-| Famous | 3.00% | ~487 |
+| Big Money | 3.00% | ~488 |
+| Keep the doctor away | 3.00% | ~488 |
+| Surprise of Langhe | 3.00% | ~488 |
+| Famous | 3.00% | ~488 |
 | What is that? A castle? | 2.00% | ~325 |
 | A lot of space | 2.00% | ~325 |
 | A big garage | 2.00% | ~325 |
@@ -26,19 +26,19 @@ Number of Ratings: 7,669  (23.09.2022)
 | Exotic | 2.00% | ~325 |
 | Welcome to the club | 2.00% | ~325 |
 | Very Important Winemaker | 2.00% | ~325 |
-| Pastry Chef | 1.00% | ~162 |
-| King of Langhe | 1.00% | ~162 |
-| Gem of Monferrato | 1.00% | ~162 |
+| Pastry Chef | 1.00% | ~163 |
+| King of Langhe | 1.00% | ~163 |
+| Gem of Monferrato | 1.00% | ~163 |
 | Treasure of Roero | 0.70% | ~114 |
 | Knight of Langhe | 0.50% | ~81 |
-| King of red wines | 0.20% | ~32 |
-| King of white wines | 0.20% | ~32 |
-| Sales Expert | 0.20% | ~32 |
+| King of red wines | 0.20% | ~33 |
+| King of white wines | 0.20% | ~33 |
+| Sales Expert | 0.20% | ~33 |
 | Big deals | 0.10% | ~16 |
 | Master Winemaker | 0.10% | ~16 |
 | Unsuitable Terroir | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,244 (Ranked 154)  
+Progressed: 16,252 (Ranked 153)  
 Completed: 12 (0.07%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 12 (0.07%) (Ranked 313)
 | 2023-12-14 | 15,945 | 12 |
 | 2023-12-15 | 16,079 | 12 |
 | 2023-12-16 | 16,240 | 12 |
-| 2023-12-17 | 16,244 | 12 |
+| 2023-12-17 | 16,252 | 12 |
 ## Awards
 Max (Relaxing): 207  (Ranked 287)  
 Sum: 1,730 (Ranked 223)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -643,9 +643,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4034,
+  "EOS_Progressed": 4035,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8688,6 +8688,11 @@
       "Time": "2023-12-16T23:08:56.420747+00:00",
       "NumProgressed": 4034,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-17T02:01:51.1247174+00:00",
+      "NumProgressed": 4035,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8819,7 +8824,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -8851,7 +8856,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -8859,7 +8864,7 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -8867,7 +8872,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8891,7 +8896,7 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -8899,7 +8904,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -8955,7 +8960,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -8963,7 +8968,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -9075,7 +9080,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -9107,7 +9112,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -9266,13 +9271,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3985,
+      "Progressed": 3986,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4034,
+      "Progressed": 4035,
       "Completed": 11
     }
   ],
@@ -9280,8 +9285,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:09:24.9954202+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:01:51.1247171+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:53.9169066+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:57:48.5205922+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:09:24.9954985+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:50:14.9422096+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:01:51.1247997+00:00"
 }

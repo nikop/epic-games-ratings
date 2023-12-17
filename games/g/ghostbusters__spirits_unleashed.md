@@ -5,21 +5,21 @@ Rating: 4.50 (Ranked 600)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 10.00% | ~3,233 |
+| Stylish | 10.00% | ~3,234 |
 | Meticulously Efficient | 8.00% | ~2,587 |
-| Advancement | 7.00% | ~2,263 |
+| Advancement | 7.00% | ~2,264 |
 | Swift Rift Removers | 6.00% | ~1,940 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,617 |
 | Discovery | 5.00% | ~1,617 |
 | Fully Upgraded | 5.00% | ~1,617 |
 | Solo Capture | 5.00% | ~1,617 |
 | Teamwork | 5.00% | ~1,617 |
-| Clutch Capture | 4.00% | ~1,293 |
-| Cultured | 4.00% | ~1,293 |
-| Daily Dose | 4.00% | ~1,293 |
-| There you are! | 4.00% | ~1,293 |
-| Vaporous Expansion | 4.00% | ~1,293 |
-| Whoopsie | 4.00% | ~1,293 |
+| Clutch Capture | 4.00% | ~1,294 |
+| Cultured | 4.00% | ~1,294 |
+| Daily Dose | 4.00% | ~1,294 |
+| There you are! | 4.00% | ~1,294 |
+| Vaporous Expansion | 4.00% | ~1,294 |
+| Whoopsie | 4.00% | ~1,294 |
 | Animated | 3.00% | ~970 |
 | We have the best insurance | 3.00% | ~970 |
 | Ectoplasmic Entity | 3.00% | ~970 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 600)
 | Ultimate Defense | 0.20% | ~65 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,333 (Ranked 127)  
+Progressed: 32,338 (Ranked 127)  
 Completed: 69 (0.21%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,10 +298,10 @@ Completed: 69 (0.21%) (Ranked 263)
 | 2023-12-14 | 32,251 | 69 |
 | 2023-12-15 | 32,291 | 69 |
 | 2023-12-16 | 32,332 | 69 |
-| 2023-12-17 | 32,333 | 69 |
+| 2023-12-17 | 32,338 | 69 |
 ## Awards
 Max (Great for Beginners): 323  (Ranked 251)  
-Sum: 2,909 (Ranked 179)  
+Sum: 2,910 (Ranked 179)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
@@ -310,7 +310,7 @@ Diff (max vs sum): 72
 | This game has Diverse Characters | 305 |
 | This game has Amazing Storytelling | 290 |
 | This game is Highly Recommended | 288 |
-| This game has Competitive Players | 283 |
+| This game has Competitive Players | 284 |
 | This game is Extremely Fun | 282 |
 | This game is Relaxing | 281 |
 | This game has Amazing Characters | 271 |
@@ -561,3 +561,4 @@ Diff (max vs sum): 72
 | 2023-12-14 | 4.50 | 323 | 2,906 |
 | 2023-12-15 | 4.50 | 323 | 2,908 |
 | 2023-12-16 | 4.50 | 323 | 2,909 |
+| 2023-12-17 | 4.50 | 323 | 2,910 |

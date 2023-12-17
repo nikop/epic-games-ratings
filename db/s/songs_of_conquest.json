@@ -4,10 +4,10 @@
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 233,
   "Ranking_Popularity": 519,
-  "Ranking_PopularitySum": 410,
-  "Ranking_EOS_Progress": 323,
+  "Ranking_PopularitySum": 411,
+  "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 515,
+  "EOS_Progressed": 519,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2128,6 +2128,11 @@
       "Time": "2023-12-16T23:08:33.1249983+00:00",
       "NumProgressed": 515,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T02:01:28.6876436+00:00",
+      "NumProgressed": 519,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2282,9 +2287,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 161
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2404,7 +2409,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -2452,7 +2457,7 @@
       "Name": "Trojan Horse",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "UltraKill",
@@ -2468,7 +2473,7 @@
       "Name": "Adept",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "WielderLevel2",
@@ -2476,7 +2481,7 @@
       "Name": "Veteran",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "WielderLevel3",
@@ -2500,7 +2505,7 @@
       "Name": "Humiliation",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -2508,7 +2513,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "WinBattleWithoutAttacking",
@@ -2516,7 +2521,7 @@
       "Name": "Expert Essence Employment",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "WinSiegeAsAttacker",
@@ -2532,7 +2537,7 @@
       "Name": "Venisti, Vidisti, Perdidisti",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "WinsWithFactionArleon",
@@ -2571,15 +2576,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 515,
+      "Progressed": 519,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:09:00.2909812+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:01:28.6876433+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-17T00:00:34.2737211+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:09:00.2910313+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:52:45.4519661+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:01:28.6876901+00:00"
 }

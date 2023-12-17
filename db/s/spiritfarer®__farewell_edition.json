@@ -4,10 +4,10 @@
   "ProductSlug": "spiritfarer",
   "Ranking_Rating": 16,
   "Ranking_Popularity": 543,
-  "Ranking_PopularitySum": 501,
+  "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 527,
+  "Ranking_EOS_NewPlayers": 528,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -417,7 +417,7 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:28.7454672+00:00",
   "LastChanged": "2023-12-07T17:02:37.7172767+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T23:57:37.342739+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:58:09.2461409+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:05:11.0062312+00:00"
+  "LastUpdate_AppInfo": "2023-12-17T01:48:17.7858442+00:00",
+  "LastUpdate_Ratings": "2023-12-17T01:50:33.2999689+00:00",
+  "LastUpdate_Achievements": "2023-12-17T01:57:14.6266166+00:00"
 }

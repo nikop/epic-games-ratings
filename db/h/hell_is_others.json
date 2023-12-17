@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1339,9 +1339,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259414,
+  "EOS_Progressed": 259419,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24304,6 +24304,11 @@
       "Time": "2023-12-17T00:05:59.3322513+00:00",
       "NumProgressed": 259414,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T01:57:58.9174245+00:00",
+      "NumProgressed": 259419,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -24363,7 +24368,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80418
+      "UsersEstimate": 80420
     },
     {
       "ID": "BackHomeNTimes",
@@ -24395,7 +24400,7 @@
       "Name": "A major purchase",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "BuyNWeapons",
@@ -24419,7 +24424,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25941
+      "UsersEstimate": 25942
     },
     {
       "ID": "CreditLevel2",
@@ -24427,7 +24432,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7782
+      "UsersEstimate": 7783
     },
     {
       "ID": "CreditLevel3",
@@ -24547,7 +24552,7 @@
       "Name": "Interior designer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "KillCrawlingThing",
@@ -24555,7 +24560,7 @@
       "Name": "It took a while",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7782
+      "UsersEstimate": 7783
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -24587,7 +24592,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7782
+      "UsersEstimate": 7783
     },
     {
       "ID": "KillOtherWithMine",
@@ -24603,7 +24608,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59665
+      "UsersEstimate": 59666
     },
     {
       "ID": "KillOthers2",
@@ -24611,7 +24616,7 @@
       "Name": "Predator II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7782
+      "UsersEstimate": 7783
     },
     {
       "ID": "KillOthers3",
@@ -24707,7 +24712,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25941
+      "UsersEstimate": 25942
     },
     {
       "ID": "ReachNDays2",
@@ -24762,7 +24767,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259414,
+      "Progressed": 259419,
       "Completed": 3
     }
   ],
@@ -24770,8 +24775,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-16T05:02:52.416752+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:05:59.332251+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T23:57:52.9725586+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:57:54.5514664+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:05:59.3323786+00:00"
+  "LastChanged_Achievements": "2023-12-17T01:57:58.9174241+00:00",
+  "LastUpdate_AppInfo": "2023-12-17T01:48:14.6293608+00:00",
+  "LastUpdate_Ratings": "2023-12-17T01:50:20.1978988+00:00",
+  "LastUpdate_Achievements": "2023-12-17T01:57:58.9175374+00:00"
 }

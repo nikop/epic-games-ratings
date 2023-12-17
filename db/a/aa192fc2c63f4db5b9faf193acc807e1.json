@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -585,9 +585,9 @@
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "creepytaleach12",
@@ -657,17 +657,17 @@
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "creepytaleach9",
       "SetID": "bnif31p",
       "Name": "Idler",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
@@ -680,8 +680,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:10:25.6971322+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:02:46.4428923+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.952085+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:59:02.2112335+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:10:25.6971432+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:51:19.8836561+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:02:46.4429049+00:00"
 }

@@ -27,12 +27,12 @@
 | Workout professional | 58.00% | ~231 |
 | Little hacker | 57.00% | ~227 |
 | Handyman | 57.00% | ~227 |
+| Champion – starter pack | 57.00% | ~227 |
 | It's good to be alive | 57.00% | ~227 |
 | Intriguing candies | 57.00% | ~227 |
-| Champion – starter pack | 56.00% | ~223 |
+| Fight for life | 56.00% | ~223 |
 | Own four walls | 56.00% | ~223 |
 | Employee of the year | 56.00% | ~223 |
-| Fight for life | 55.00% | ~219 |
 | Legal courier | 52.00% | ~207 |
 | Extreme neuropower! | 52.00% | ~207 |
 | Escaped from a big trouble | 49.00% | ~196 |

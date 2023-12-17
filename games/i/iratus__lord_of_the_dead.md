@@ -1,37 +1,37 @@
 # Iratus: Lord of the Dead
 [Store](https://store.epicgames.com/en-US/p/iratus-d0e5ba)  
 [View Rawdata](../../db/i/iratus__lord_of_the_dead.json)  
-Rating: 4.37 (Ranked 779)  
+Rating: 4.37 (Ranked 778)  
 Number of Ratings: 10,109  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~40,033 |
-| Blood Moon | 73.00% | ~34,382 |
-| Path of the Necromancer | 65.00% | ~30,614 |
-| Chainbreaker - I | 60.00% | ~28,259 |
-| Cursed Creature | 57.00% | ~26,846 |
-| Extraction | 57.00% | ~26,846 |
-| Chainbreaker - II | 55.00% | ~25,904 |
-| Necromancer's Apprentice | 51.00% | ~24,020 |
-| Keeper of Keys | 47.00% | ~22,136 |
-| Distillation | 43.00% | ~20,252 |
-| Transmutation | 42.00% | ~19,781 |
-| Mountain King - I | 41.00% | ~19,310 |
-| Prepared Necromancer | 40.00% | ~18,839 |
-| Mountain King - II | 39.00% | ~18,368 |
-| Blind Rage | 38.00% | ~17,897 |
-| Mad Genius | 35.00% | ~16,484 |
-| Cannon Fodder - I | 34.00% | ~16,013 |
-| Soul of Lies | 34.00% | ~16,013 |
-| Bane of Mercenaries - I | 32.00% | ~15,071 |
-| Bane of Mercenaries - II | 31.00% | ~14,600 |
-| Cannon Fodder - II | 29.00% | ~13,658 |
-| Shadow Between Worlds | 29.00% | ~13,658 |
-| Bane of Monsters | 28.00% | ~13,187 |
-| Chainbreaker - III | 28.00% | ~13,187 |
-| Revealed Secrets - I | 26.00% | ~12,245 |
-| Revealed Secrets - II | 25.00% | ~11,774 |
+| Improvement | 85.00% | ~40,037 |
+| Blood Moon | 73.00% | ~34,384 |
+| Path of the Necromancer | 65.00% | ~30,616 |
+| Chainbreaker - I | 60.00% | ~28,261 |
+| Cursed Creature | 57.00% | ~26,848 |
+| Extraction | 57.00% | ~26,848 |
+| Chainbreaker - II | 55.00% | ~25,906 |
+| Necromancer's Apprentice | 51.00% | ~24,022 |
+| Keeper of Keys | 47.00% | ~22,138 |
+| Distillation | 43.00% | ~20,254 |
+| Transmutation | 42.00% | ~19,783 |
+| Mountain King - I | 41.00% | ~19,312 |
+| Prepared Necromancer | 40.00% | ~18,841 |
+| Mountain King - II | 39.00% | ~18,370 |
+| Blind Rage | 38.00% | ~17,899 |
+| Mad Genius | 35.00% | ~16,486 |
+| Cannon Fodder - I | 34.00% | ~16,015 |
+| Soul of Lies | 34.00% | ~16,015 |
+| Bane of Mercenaries - I | 32.00% | ~15,073 |
+| Bane of Mercenaries - II | 31.00% | ~14,602 |
+| Cannon Fodder - II | 29.00% | ~13,660 |
+| Shadow Between Worlds | 29.00% | ~13,660 |
+| Bane of Monsters | 28.00% | ~13,189 |
+| Chainbreaker - III | 28.00% | ~13,189 |
+| Revealed Secrets - I | 26.00% | ~12,247 |
+| Revealed Secrets - II | 25.00% | ~11,776 |
 | Blood Elemental | 24.00% | ~11,304 |
 | Unholy Bones | 23.00% | ~10,833 |
 | Lord of Fire | 23.00% | ~10,833 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.60% | ~283 |
 | Renowned Researcher | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,098 (Ranked 116)  
+Progressed: 47,102 (Ranked 116)  
 Completed: 26 (0.06%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,10 +323,10 @@ Completed: 26 (0.06%) (Ranked 320)
 | 2023-12-14 | 46,955 | 26 |
 | 2023-12-15 | 47,028 | 26 |
 | 2023-12-16 | 47,094 | 26 |
-| 2023-12-17 | 47,098 | 26 |
+| 2023-12-17 | 47,102 | 26 |
 ## Awards
 Max (Character Customization): 2,163  (Ranked 111)  
-Sum: 4,213 (Ranked 153)  
+Sum: 4,214 (Ranked 153)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -337,7 +337,7 @@ Diff (max vs sum): -42
 | This game has Challenging Combat | 221 |
 | This game has Diverse Characters | 219 |
 | This game is Extremely Fun | 215 |
-| This game has Amazing Characters | 213 |
+| This game has Amazing Characters | 214 |
 | This game has Quickly Understood Controls | 203 |
 | This game has Unique Visuals | 193 |
 | This game has a Creative Community | 104 |
@@ -488,3 +488,4 @@ Diff (max vs sum): -42
 | 2023-12-14 | 4.37 | - | 2,163 | 4,211 |
 | 2023-12-15 | 4.37 | - | 2,163 | 4,212 |
 | 2023-12-16 | 4.37 | - | 2,163 | 4,213 |
+| 2023-12-17 | 4.37 | - | 2,163 | 4,214 |

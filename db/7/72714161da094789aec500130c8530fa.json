@@ -590,9 +590,9 @@
       "ID": "_cannon",
       "SetID": "2d5739o",
       "Name": "Cannon",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "_cannon_sentinel",
@@ -614,9 +614,9 @@
       "ID": "_double_item",
       "SetID": "2d5739o",
       "Name": "Double item",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "_elite_battlecruiser",
@@ -718,9 +718,9 @@
       "ID": "_magnet",
       "SetID": "2d5739o",
       "Name": "Magnet",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "_minigun",
@@ -734,9 +734,9 @@
       "ID": "_missile",
       "SetID": "2d5739o",
       "Name": "Missile",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "_mothership",
@@ -774,9 +774,9 @@
       "ID": "_resistence",
       "SetID": "2d5739o",
       "Name": "Resistence",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "_riflegun",
@@ -885,8 +885,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:08:54.3958694+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:01:23.2682116+00:00",
   "LastUpdate_AppInfo": "2023-12-14T01:44:00.3813416+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:58:32.8708511+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:08:54.3959009+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:50:54.5423725+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:01:23.268243+00:00"
 }

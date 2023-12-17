@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -357,9 +357,9 @@
       "ID": "Circle_Page",
       "SetID": "7b9f97e",
       "Name": "The Circle",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Craft_First_Glyph",
@@ -878,8 +878,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:09:33.3670943+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:01:58.61435+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.2965751+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:58:48.1114309+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:09:33.3671437+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:51:07.2162172+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:01:58.6144081+00:00"
 }

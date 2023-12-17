@@ -17,8 +17,8 @@ Rating: 4.59 (Ranked 443)
 | Moneyball | 60.00% | ~709 |
 | No Bites | 55.00% | ~650 |
 | Iceborn | 55.00% | ~650 |
+| Tear of Freedom | 52.00% | ~615 |
 | Boom Things | 52.00% | ~615 |
-| Tear of Freedom | 51.00% | ~603 |
 | My Darkest Day | 48.00% | ~567 |
 | Rhythm Of Willump | 46.00% | ~544 |
 | The Relentless Storm | 46.00% | ~544 |
@@ -27,7 +27,7 @@ Rating: 4.59 (Ranked 443)
 | So Close | 42.00% | ~496 |
 | The Finisher | 42.00% | ~496 |
 | You Get Used To It | 41.00% | ~485 |
-| Family | 39.00% | ~461 |
+| Family | 40.00% | ~473 |
 | Biggest Snowball Ever | 39.00% | ~461 |
 | Freeze The Ice Witch | 39.00% | ~461 |
 | True Legends | 39.00% | ~461 |
@@ -36,7 +36,7 @@ Rating: 4.59 (Ranked 443)
 | It Is Not Over | 36.00% | ~426 |
 | Bullseye | 36.00% | ~426 |
 | On The Rocks | 35.00% | ~414 |
-| Snowy Poro | 31.00% | ~366 |
+| Snowy Poro | 32.00% | ~378 |
 | Never Gets Old | 31.00% | ~366 |
 | Vertical Power | 27.00% | ~319 |
 | One From The Heart | 14.00% | ~165 |

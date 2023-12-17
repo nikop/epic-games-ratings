@@ -2,12 +2,12 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 759,
+  "Ranking_Rating": 826,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.39,
+  "Rating": 4.33,
   "RatingHistory": [
     {
       "Time": "2023-03-30T21:57:33.3986384+00:00",
@@ -215,15 +215,21 @@
       "Rating": 4.39,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-17T01:52:20.9654058+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1209,
+  "EOS_Progressed": 1210,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.49,
   "EosHistory": [
@@ -2611,6 +2617,11 @@
       "Time": "2023-12-17T00:04:25.5415595+00:00",
       "NumProgressed": 1209,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-17T01:56:33.4753465+00:00",
+      "NumProgressed": 1210,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -2646,7 +2657,7 @@
       "Name": "Roll with it",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -2654,7 +2665,7 @@
       "Name": "Kaboom",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -2710,7 +2721,7 @@
       "Name": "Memento",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -2718,7 +2729,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -2726,7 +2737,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -2756,9 +2767,9 @@
       "ID": "ACH_POWER_OUTRAGE_FIXED",
       "SetID": "7k95e4n",
       "Name": "Let there be light",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 701
+      "UsersEstimate": 714
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -2774,15 +2785,15 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "ACH_STAR_2",
       "SetID": "7k95e4n",
       "Name": "Moving up",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_STAR_3",
@@ -2798,7 +2809,7 @@
       "Name": "Nearly there",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_STAR_5",
@@ -2822,7 +2833,7 @@
       "Name": "Excellent service",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -2837,16 +2848,16 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1209,
+      "Progressed": 1210,
       "Completed": 18
     }
   ],
   "FirstSeen": "2023-03-07T20:57:17.7123218+00:00",
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
-  "LastChanged": "2023-12-16T01:44:03.2880025+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:04:25.541559+00:00",
+  "LastChanged": "2023-12-17T01:52:20.9654056+00:00",
+  "LastChanged_Achievements": "2023-12-17T01:56:33.4753461+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:13.8800884+00:00",
-  "LastUpdate_Ratings": "2023-12-17T00:00:08.0091091+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:04:25.5415877+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:52:20.9654063+00:00",
+  "LastUpdate_Achievements": "2023-12-17T01:56:33.4753753+00:00"
 }

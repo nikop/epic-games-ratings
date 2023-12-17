@@ -4,7 +4,7 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 264,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.66,
+  "EOS_Completed_Percentage": 2.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -481,6 +481,11 @@
       "Time": "2023-12-17T00:06:40.5022269+00:00",
       "NumProgressed": 263,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-17T01:58:36.1290559+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 17,
@@ -508,7 +513,7 @@
       "Name": "Deal Or No Deal",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "hopeful",
@@ -548,7 +553,7 @@
       "Name": "No One Is Safe",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "off_his_meds",
@@ -556,7 +561,7 @@
       "Name": "He\u0027s Off His Meds",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "on_your_bike",
@@ -564,7 +569,7 @@
       "Name": "On Your Bike",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "pearce",
@@ -580,7 +585,7 @@
       "Name": "Personal Life",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "save_dad",
@@ -627,7 +632,7 @@
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 264,
       "Completed": 7
     }
   ],
@@ -635,8 +640,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:06:40.5022265+00:00",
+  "LastChanged_Achievements": "2023-12-17T01:58:36.1290554+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:54.4004321+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:58:26.7771457+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:06:40.5022395+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:50:49.6098613+00:00",
+  "LastUpdate_Achievements": "2023-12-17T01:58:36.1290732+00:00"
 }

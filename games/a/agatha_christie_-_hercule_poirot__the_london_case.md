@@ -9,12 +9,12 @@
 | The Ship | 67.00% | ~30 |
 | Seeking the truth | 58.00% | ~26 |
 | An old friend | 56.00% | ~25 |
-| The Gala | 51.00% | ~23 |
-| A curious gathering | 51.00% | ~23 |
-| Little grey cells | 49.00% | ~22 |
-| Impossible is possible | 49.00% | ~22 |
-| The Missing Magdalene | 49.00% | ~22 |
-| Arthur Hastings | 49.00% | ~22 |
+| The Gala | 53.00% | ~24 |
+| A curious gathering | 53.00% | ~24 |
+| Little grey cells | 51.00% | ~23 |
+| Impossible is possible | 51.00% | ~23 |
+| The Missing Magdalene | 51.00% | ~23 |
+| Arthur Hastings | 51.00% | ~23 |
 | Everything matters | 44.00% | ~20 |
 | An expert mediator | 42.00% | ~19 |
 | DI Hardwicke | 42.00% | ~19 |

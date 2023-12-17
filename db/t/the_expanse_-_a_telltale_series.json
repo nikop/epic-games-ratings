@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16572,
+  "EOS_Progressed": 16579,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 558,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -14088,6 +14088,11 @@
       "Time": "2023-12-17T00:08:55.1310801+00:00",
       "NumProgressed": 16572,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-17T02:01:23.9173913+00:00",
+      "NumProgressed": 16579,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14132,7 +14137,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "14",
@@ -14148,7 +14153,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "16",
@@ -14164,7 +14169,7 @@
       "Name": "Spore Taste",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "18",
@@ -14244,7 +14249,7 @@
       "Name": "Call it Even",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "27",
@@ -14252,7 +14257,7 @@
       "Name": "Bosmang",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "28",
@@ -14276,7 +14281,7 @@
       "Name": "Captain Drummer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "30",
@@ -14300,7 +14305,7 @@
       "Name": "Data Master",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "6",
@@ -14379,22 +14384,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16572,
+      "Progressed": 16579,
       "Completed": 43
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2526,
-      "Completed": 907
+      "Progressed": 2533,
+      "Completed": 908
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-16T18:58:26.9677078+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:08:55.1310796+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T23:57:55.6339104+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:59:06.6501735+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:08:55.1311765+00:00"
+  "LastChanged_Achievements": "2023-12-17T02:01:23.9173909+00:00",
+  "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
+  "LastUpdate_Ratings": "2023-12-17T01:51:23.8071935+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:01:23.9174787+00:00"
 }

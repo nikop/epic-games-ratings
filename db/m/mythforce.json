@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -836,7 +836,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5572,
+  "EOS_Progressed": 5573,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
@@ -11201,6 +11201,11 @@
       "Time": "2023-12-17T00:06:54.7687398+00:00",
       "NumProgressed": 5572,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-17T01:58:48.8564228+00:00",
+      "NumProgressed": 5573,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11245,7 +11250,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -11269,7 +11274,7 @@
       "Name": "First Strike",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -11349,7 +11354,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -11381,7 +11386,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -11396,15 +11401,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5572,
+      "Progressed": 5573,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-15T05:01:12.5073089+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:06:54.7687394+00:00",
+  "LastChanged_Achievements": "2023-12-17T01:58:48.8564224+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:57:51.7544722+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:06:54.7687964+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:50:17.7694602+00:00",
+  "LastUpdate_Achievements": "2023-12-17T01:58:48.8564806+00:00"
 }

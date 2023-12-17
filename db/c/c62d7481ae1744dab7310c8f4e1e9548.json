@@ -660,25 +660,25 @@
       "ID": "Destilat",
       "SetID": "ag48e8e",
       "Name": "Distilled Spirits",
-      "Percentage": 8,
-      "XP": 30,
-      "UsersEstimate": 10
-    },
-    {
-      "ID": "Dusici",
-      "SetID": "ag48e8e",
-      "Name": "Young Spirits",
       "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 11
     },
     {
+      "ID": "Dusici",
+      "SetID": "ag48e8e",
+      "Name": "Young Spirits",
+      "Percentage": 10,
+      "XP": 30,
+      "UsersEstimate": 12
+    },
+    {
       "ID": "Fletny",
       "SetID": "ag48e8e",
       "Name": "Four Flutes",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Houby",
@@ -788,9 +788,9 @@
       "ID": "Prstenec",
       "SetID": "ag48e8e",
       "Name": "Cosmic Ring",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Rybka",
@@ -891,8 +891,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:04:49.7034686+00:00",
+  "LastChanged_Achievements": "2023-12-17T01:56:55.2365002+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9485544+00:00",
-  "LastUpdate_Ratings": "2023-12-17T00:03:24.8714251+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:04:49.7034967+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:55:36.9561891+00:00",
+  "LastUpdate_Achievements": "2023-12-17T01:56:55.2365187+00:00"
 }

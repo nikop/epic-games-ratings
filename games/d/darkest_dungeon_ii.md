@@ -6,12 +6,12 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 7.00% | ~189 |
-| Lost and Found | 4.00% | ~108 |
-| This Belongs in a Museum | 3.00% | ~3,835 |
-| Autodidact | 3.00% | ~3,835 |
-| This guy... again? | 3.00% | ~81 |
-| Bloody Graduation | 3.00% | ~81 |
+| Malpractice Assurance | 7.00% | ~191 |
+| Lost and Found | 4.00% | ~109 |
+| This Belongs in a Museum | 3.00% | ~3,836 |
+| Autodidact | 3.00% | ~3,836 |
+| This guy... again? | 3.00% | ~82 |
+| Bloody Graduation | 3.00% | ~82 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,557 |
 | Serenity Now! | 2.00% | ~2,557 |
 | Not Today! | 2.00% | ~2,557 |
@@ -23,30 +23,30 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 2.00% | ~2,557 |
 | To Grandmother's House | 2.00% | ~2,557 |
 | FNG | 2.00% | ~2,557 |
-| Ploughshares to Swords | 2.00% | ~54 |
-| Friends 'Til the End | 2.00% | ~54 |
-| It Rings a Bell | 1.00% | ~1,278 |
-| Unfulfilled Desires | 1.00% | ~1,278 |
-| Dissector | 1.00% | ~1,278 |
-| Banishment | 1.00% | ~1,278 |
-| Deprogramming | 1.00% | ~1,278 |
-| It Happens | 1.00% | ~1,278 |
-| Spelunker | 1.00% | ~1,278 |
-| Merry Time | 1.00% | ~1,278 |
-| Harvest Festival | 1.00% | ~1,278 |
-| Ramble On | 1.00% | ~1,278 |
-| Whale | 1.00% | ~1,278 |
-| A Place to Lay Your Head | 1.00% | ~1,278 |
-| Worldly Traveller | 1.00% | ~1,278 |
-| Nope | 1.00% | ~1,278 |
-| Unshackled | 1.00% | ~1,278 |
-| Road Trip | 1.00% | ~1,278 |
+| Ploughshares to Swords | 2.00% | ~55 |
+| Friends 'Til the End | 2.00% | ~55 |
+| It Rings a Bell | 1.00% | ~1,279 |
+| Unfulfilled Desires | 1.00% | ~1,279 |
+| Dissector | 1.00% | ~1,279 |
+| Banishment | 1.00% | ~1,279 |
+| Deprogramming | 1.00% | ~1,279 |
+| Now Stay Dead | 1.00% | ~1,279 |
+| It Happens | 1.00% | ~1,279 |
+| Spelunker | 1.00% | ~1,279 |
+| Merry Time | 1.00% | ~1,279 |
+| Harvest Festival | 1.00% | ~1,279 |
+| Ramble On | 1.00% | ~1,279 |
+| Whale | 1.00% | ~1,279 |
+| A Place to Lay Your Head | 1.00% | ~1,279 |
+| Worldly Traveller | 1.00% | ~1,279 |
+| Nope | 1.00% | ~1,279 |
+| Unshackled | 1.00% | ~1,279 |
+| Road Trip | 1.00% | ~1,279 |
 | Resurrection | 0.90% | ~1,151 |
 | Unleash Hell | 0.90% | ~1,151 |
 | Funny Guy | 0.90% | ~1,151 |
 | Long Live the King | 0.90% | ~1,151 |
 | Predator | 0.90% | ~1,151 |
-| Now Stay Dead | 0.90% | ~1,151 |
 | Reverse Banditry | 0.90% | ~1,151 |
 | A Clear Conscience | 0.90% | ~1,151 |
 | Wyrdly Reconstructed | 0.80% | ~1,023 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 | On This Long Road, We Found Redemption | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,834 (Ranked 85)  
+Progressed: 127,860 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,20 +317,20 @@ Completed: 3 (0.00%) (Ranked 379)
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
-| 2023-12-17 | 127,834 | 3 |
+| 2023-12-17 | 127,860 | 3 |
 ## Awards
 Max (Character Customization): 7,744  (Ranked 51)  
-Sum: 20,595 (Ranked 58)  
+Sum: 20,608 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,744 |
 | This game has Diverse Characters | 1,711 |
-| This game has Challenging Combat | 1,592 |
+| This game has Challenging Combat | 1,599 |
 | This game is Highly Recommended | 1,525 |
 | This game has Amazing Characters | 1,461 |
 | This game is Extremely Fun | 1,457 |
-| This game has Amazing Storytelling | 1,378 |
+| This game has Amazing Storytelling | 1,384 |
 | This game has Unique Visuals | 1,359 |
 | This game has Quickly Understood Controls | 1,350 |
 | This game has a Creative Community | 1,018 |
@@ -662,3 +662,4 @@ Diff (max vs sum): -7
 | 2023-12-14 | 4.68 | - | 7,689 | 20,427 |
 | 2023-12-15 | 4.68 | - | 7,718 | 20,517 |
 | 2023-12-16 | 4.68 | - | 7,744 | 20,595 |
+| 2023-12-17 | 4.68 | - | 7,744 | 20,608 |

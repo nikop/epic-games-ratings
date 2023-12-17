@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67564,
+  "EOS_Progressed": 67591,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 2220,
+  "EOS_NewPlayers": 2223,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3828,6 +3828,11 @@
       "Time": "2023-12-17T00:06:25.4220337+00:00",
       "NumProgressed": 67564,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-12-17T01:58:22.9555021+00:00",
+      "NumProgressed": 67591,
+      "NumCompleted": 81
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -3840,7 +3845,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 24999
+      "UsersEstimate": 25009
     },
     {
       "ID": "Achievement_10",
@@ -3872,7 +3877,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "Achievement_14",
@@ -3880,7 +3885,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "Achievement_15",
@@ -3912,7 +3917,7 @@
       "Name": "Champions of Umbra",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "Achievement_19",
@@ -3928,7 +3933,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 18242
+      "UsersEstimate": 18250
     },
     {
       "ID": "Achievement_20",
@@ -3952,7 +3957,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "Achievement_23",
@@ -3960,7 +3965,7 @@
       "Name": "Festival Masters",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "Achievement_24",
@@ -3968,7 +3973,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2703
+      "UsersEstimate": 2704
     },
     {
       "ID": "Achievement_25",
@@ -4016,7 +4021,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8108
+      "UsersEstimate": 8111
     },
     {
       "ID": "Achievement_30",
@@ -4064,7 +4069,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6081
+      "UsersEstimate": 6083
     },
     {
       "ID": "Achievement_5",
@@ -4072,7 +4077,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4054
+      "UsersEstimate": 4055
     },
     {
       "ID": "Achievement_6",
@@ -4080,7 +4085,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2703
+      "UsersEstimate": 2704
     },
     {
       "ID": "Achievement_7",
@@ -4088,7 +4093,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "Achievement_8",
@@ -4096,7 +4101,7 @@
       "Name": "House In Order",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "Achievement_9",
@@ -4111,7 +4116,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 67564,
+      "Progressed": 67591,
       "Completed": 81
     }
   ],
@@ -4119,8 +4124,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-16T14:03:10.9080463+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:06:25.4220331+00:00",
+  "LastChanged_Achievements": "2023-12-17T01:58:22.9555019+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:14.9583048+00:00",
-  "LastUpdate_Ratings": "2023-12-17T00:03:37.9056686+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:06:25.4220659+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:55:49.3218915+00:00",
+  "LastUpdate_Achievements": "2023-12-17T01:58:22.9555365+00:00"
 }

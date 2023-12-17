@@ -2,9 +2,9 @@
   "ID": "269f94247b4f471b9381fd4052bf1fad",
   "Name": "Born of Bread",
   "ProductSlug": "born-of-bread-008e66",
-  "Ranking_EOS_Progress": 565,
+  "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26,
+  "EOS_Progressed": 27,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -154,6 +154,11 @@
       "Time": "2023-12-15T22:08:39.6624601+00:00",
       "NumProgressed": 26,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T02:01:33.0495426+00:00",
+      "NumProgressed": 27,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T15:04:34.1379111+00:00",
@@ -172,7 +177,7 @@
       "ID": "ACH_ATLAS",
       "SetID": "6lg1p1e",
       "Name": "Atlas",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -212,9 +217,9 @@
       "ID": "ACH_COSPLAY",
       "SetID": "6lg1p1e",
       "Name": "Cosplay",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_DADDY-ISSUES",
@@ -236,7 +241,7 @@
       "ID": "ACH_EXOTIC-ARSENAL",
       "SetID": "6lg1p1e",
       "Name": "Exotic Arsenal",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -244,7 +249,7 @@
       "ID": "ACH_FIRST-PAYCHECK",
       "SetID": "6lg1p1e",
       "Name": "First Paycheck",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -252,7 +257,7 @@
       "ID": "ACH_FRIENEMY",
       "SetID": "6lg1p1e",
       "Name": "Frienemy",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -284,7 +289,7 @@
       "ID": "ACH_HOUSE-ARREST",
       "SetID": "6lg1p1e",
       "Name": "House Arrest",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -300,15 +305,15 @@
       "ID": "ACH_LITTLE-ARSONIST",
       "SetID": "6lg1p1e",
       "Name": "Little Arsonist",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_LOREMASTER",
       "SetID": "6lg1p1e",
       "Name": "Lore Master",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 90,
       "UsersEstimate": 2
     },
@@ -316,7 +321,7 @@
       "ID": "ACH_MISCHIEVOUS-BREAD",
       "SetID": "6lg1p1e",
       "Name": "Mischievous Bread",
-      "Percentage": 50,
+      "Percentage": 48,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -350,7 +355,7 @@
       "Name": "Partner",
       "Percentage": 85,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_PHOTOGRAPHIC-MEMORY",
@@ -372,7 +377,7 @@
       "ID": "ACH_PRIVATE-EYE",
       "SetID": "6lg1p1e",
       "Name": "Private Eye",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -396,7 +401,7 @@
       "ID": "ACH_RACER-CHAMPION",
       "SetID": "6lg1p1e",
       "Name": "Break a Sweat",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -412,7 +417,7 @@
       "ID": "ACH_ROYAL-PARDON",
       "SetID": "6lg1p1e",
       "Name": "Royal Pardon",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -436,7 +441,7 @@
       "ID": "ACH_WHACK-A-MOLE",
       "SetID": "6lg1p1e",
       "Name": "Whack-a-mole",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -453,14 +458,14 @@
     {
       "ID": "6lg1p1e",
       "IsBase": true,
-      "Progressed": 26,
+      "Progressed": 27,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:09:05.0225149+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:01:33.0495413+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.3604769+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:58:06.0724114+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:09:05.022535+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:50:30.4071293+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:01:33.0495644+00:00"
 }

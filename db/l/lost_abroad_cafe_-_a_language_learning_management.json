@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 623,
+  "EOS_Progressed": 624,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
@@ -2869,6 +2869,11 @@
       "Time": "2023-12-16T22:05:30.9846968+00:00",
       "NumProgressed": 623,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-17T01:58:34.3166518+00:00",
+      "NumProgressed": 624,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 8,
@@ -2912,7 +2917,7 @@
       "Name": "Get Lost!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "tea_10",
@@ -2920,7 +2925,7 @@
       "Name": "Tea-ser",
       "Percentage": 40,
       "XP": 75,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "tea_100",
@@ -2943,14 +2948,14 @@
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 623,
+      "Progressed": 624,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:06:38.4315594+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T23:57:40.8424706+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:58:09.8872327+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:06:38.4315832+00:00"
+  "LastChanged_Achievements": "2023-12-17T01:58:34.3166511+00:00",
+  "LastUpdate_AppInfo": "2023-12-17T01:48:18.128256+00:00",
+  "LastUpdate_Ratings": "2023-12-17T01:50:33.902666+00:00",
+  "LastUpdate_Achievements": "2023-12-17T01:58:34.3166711+00:00"
 }

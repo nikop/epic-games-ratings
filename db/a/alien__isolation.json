@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 527,
+  "Ranking_EOS_NewPlayers": 528,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-12-21T16:00:00+00:00",
@@ -2306,10 +2306,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1001,
       "NumberOfAwardsMax": 138
+    },
+    {
+      "Time": "2023-12-17T01:52:58.9441523+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1002,
+      "NumberOfAwardsMax": 138
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1001,
+  "NumberOfAwards": 1002,
   "NumberOfAwardsMax": 138,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2365,7 +2371,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 76
+      "Count": 77
     }
   ],
   "EOS_Progressed": 0,
@@ -2379,8 +2385,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:09.3145857+00:00",
-  "LastChanged": "2023-12-16T17:59:53.9159703+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T23:58:41.7497769+00:00",
-  "LastUpdate_Ratings": "2023-12-17T00:00:49.5973971+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:06:08.5728563+00:00"
+  "LastChanged": "2023-12-17T01:52:58.9441521+00:00",
+  "LastUpdate_AppInfo": "2023-12-17T01:49:28.0233852+00:00",
+  "LastUpdate_Ratings": "2023-12-17T01:52:58.9441527+00:00",
+  "LastUpdate_Achievements": "2023-12-17T01:58:07.6500015+00:00"
 }

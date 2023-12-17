@@ -26,18 +26,18 @@ Number of Ratings: 45  (23.09.2022)
 | Turncoat | 0.90% | ~14 |
 | Another Tale to Tell | 0.80% | ~12 |
 | A Story of Heroes | 0.80% | ~12 |
+| Legends Never Die | 0.70% | ~11 |
 | No Time for Clawmonsters | 0.70% | ~11 |
-| Legends Never Die | 0.60% | ~9 |
 | Chain Reaction | 0.60% | ~9 |
+| Everfading | 0.60% | ~9 |
 | Some Say I'm Too Flashy | 0.60% | ~9 |
 | Astrology | 0.60% | ~9 |
+| Storied Past | 0.50% | ~8 |
 | Empty the Caves | 0.50% | ~8 |
 | Bonebreakers | 0.50% | ~8 |
 | Plague Doctor | 0.50% | ~8 |
-| Everfading | 0.50% | ~8 |
-| Storied Past | 0.40% | ~6 |
+| All My Birds, Safely Home | 0.50% | ~8 |
 | In Soil, In Smoke | 0.40% | ~6 |
-| All My Birds, Safely Home | 0.40% | ~6 |
 | Lochias's Hunger | 0.40% | ~6 |
 | We Emerge Changed | 0.30% | ~5 |
 | Worldwalker | 0.30% | ~5 |

@@ -282,9 +282,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2261,
+  "EOS_Progressed": 2262,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3432,6 +3432,11 @@
       "Time": "2023-12-16T19:03:56.0759333+00:00",
       "NumProgressed": 2261,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-17T01:56:48.6875733+00:00",
+      "NumProgressed": 2262,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3451,7 +3456,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "ACHV_03",
@@ -3475,7 +3480,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ACHV_06",
@@ -3523,7 +3528,7 @@
       "Name": "Denying Prophecy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACHV_12",
@@ -3579,7 +3584,7 @@
       "Name": "True Survivor",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACHV_19",
@@ -3619,7 +3624,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "ACHV_24",
@@ -3635,7 +3640,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACHV_26",
@@ -3643,7 +3648,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "ACHV_27",
@@ -3747,7 +3752,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     },
     {
       "ID": "ACHV_40",
@@ -3795,7 +3800,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACHV_46",
@@ -3898,7 +3903,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2261,
+      "Progressed": 2262,
       "Completed": 13
     }
   ],
@@ -3906,8 +3911,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-22T02:25:03.2214817+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:04:42.2057355+00:00",
+  "LastChanged_Achievements": "2023-12-17T01:56:48.6875728+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:57:00.284762+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:58:18.5613259+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:04:42.2058254+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:50:41.8332626+00:00",
+  "LastUpdate_Achievements": "2023-12-17T01:56:48.6876287+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1002,
+  "EOS_Progressed": 1003,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2739,6 +2739,11 @@
       "Time": "2023-12-17T00:10:16.6131795+00:00",
       "NumProgressed": 1002,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-17T02:02:38.4061181+00:00",
+      "NumProgressed": 1003,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2758,7 +2763,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2782,7 +2787,7 @@
       "Name": "Right On Time",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2798,7 +2803,7 @@
       "Name": "Like Clockwork",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ClovemaryGift",
@@ -2822,7 +2827,7 @@
       "Name": "Street Style",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "CultivairChests1",
@@ -2878,7 +2883,7 @@
       "Name": "The Betrayer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2886,7 +2891,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "GadgetCompletion1",
@@ -2934,7 +2939,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "LacunaCompleted",
@@ -2942,7 +2947,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "MapCompletion1",
@@ -2990,7 +2995,7 @@
       "Name": "Time Flies",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ParryBoss",
@@ -2998,7 +3003,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ParryRepeated1",
@@ -3006,7 +3011,7 @@
       "Name": "No, Thanks!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3014,7 +3019,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3022,7 +3027,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "PidgeDefeated",
@@ -3030,7 +3035,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "RewindDamage1",
@@ -3046,7 +3051,7 @@
       "Name": "Honest Mistake",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ScrambotCompletion1",
@@ -3062,7 +3067,7 @@
       "Name": "Golem Chaser",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "SkillCompletion1",
@@ -3078,7 +3083,7 @@
       "Name": "Fast Learner",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "SpeedRun",
@@ -3110,7 +3115,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "TheaterChests1",
@@ -3126,7 +3131,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "WarwickDefeated",
@@ -3134,7 +3139,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "WatcherFought",
@@ -3158,7 +3163,7 @@
       "Name": "The Brass Boss",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3166,14 +3171,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1002,
+      "Progressed": 1003,
       "Completed": 6
     }
   ],
@@ -3181,8 +3186,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:10:16.613179+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:57:50.2712074+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:10:16.613223+00:00"
+  "LastChanged_Achievements": "2023-12-17T02:02:38.4061177+00:00",
+  "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
+  "LastUpdate_Ratings": "2023-12-17T01:50:16.5006111+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:02:38.406166+00:00"
 }

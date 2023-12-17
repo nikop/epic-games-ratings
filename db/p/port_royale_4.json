@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1089,
+  "EOS_Progressed": 1090,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2971,6 +2971,11 @@
       "Time": "2023-12-16T19:08:17.5663376+00:00",
       "NumProgressed": 1089,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T02:01:19.4374778+00:00",
+      "NumProgressed": 1090,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2982,15 +2987,15 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "ACH001",
       "SetID": "69nfp41",
       "Name": "Seafarer",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 566
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH002",
@@ -2998,7 +3003,7 @@
       "Name": "Conquistador",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH003",
@@ -3038,7 +3043,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "ACH008",
@@ -3070,7 +3075,7 @@
       "Name": "Intangible",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH012",
@@ -3078,7 +3083,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACH013",
@@ -3198,7 +3203,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH028",
@@ -3238,7 +3243,7 @@
       "Name": "Pirates!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH033",
@@ -3270,7 +3275,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "ACH037",
@@ -3286,7 +3291,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACH039",
@@ -3334,7 +3339,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH045",
@@ -3381,15 +3386,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1089,
+      "Progressed": 1090,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:08:50.212975+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T23:58:45.6816391+00:00",
-  "LastUpdate_Ratings": "2023-12-17T00:01:01.1595533+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:08:50.2130252+00:00"
+  "LastChanged_Achievements": "2023-12-17T02:01:19.4374775+00:00",
+  "LastUpdate_AppInfo": "2023-12-17T01:49:34.3980229+00:00",
+  "LastUpdate_Ratings": "2023-12-17T01:53:09.9438966+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:01:19.4375168+00:00"
 }

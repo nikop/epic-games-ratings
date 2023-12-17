@@ -5,26 +5,26 @@ Rating: 4.20 (Ranked 929)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~7,853 |
-| Disposing of the Evidence | 38.00% | ~3,595 |
-| Without a Scratch | 34.00% | ~3,217 |
-| Wreckless Driving | 28.00% | ~2,649 |
-| A Marked Man | 25.00% | ~2,365 |
-| Street Sweeper | 18.00% | ~1,703 |
-| Liberty City Minute | 17.00% | ~1,608 |
-| Offshore Delivery | 13.00% | ~1,230 |
-| Dirty Money | 12.00% | ~1,135 |
-| By a Mile | 10.00% | ~946 |
-| Not So Fast | 10.00% | ~946 |
-| Right-hand Man | 10.00% | ~946 |
-| A Gift from the King | 7.00% | ~662 |
-| Full Artillery | 4.00% | ~378 |
+| First Day on the Job | 83.00% | ~7,866 |
+| Disposing of the Evidence | 38.00% | ~3,601 |
+| Without a Scratch | 34.00% | ~3,222 |
+| Wreckless Driving | 28.00% | ~2,654 |
+| A Marked Man | 25.00% | ~2,369 |
+| Street Sweeper | 18.00% | ~1,706 |
+| Liberty City Minute | 17.00% | ~1,611 |
+| Offshore Delivery | 13.00% | ~1,232 |
+| Dirty Money | 12.00% | ~1,137 |
+| By a Mile | 10.00% | ~948 |
+| Not So Fast | 10.00% | ~948 |
+| Right-hand Man | 10.00% | ~948 |
+| A Gift from the King | 7.00% | ~663 |
+| Full Artillery | 4.00% | ~379 |
 | Mob Boss | 3.00% | ~284 |
-| Escape Artist | 2.00% | ~189 |
-| Where To? | 2.00% | ~189 |
-| Splish Splash | 2.00% | ~189 |
-| Playing Doctor | 2.00% | ~189 |
-| Liberty City Secrets | 2.00% | ~189 |
+| Escape Artist | 2.00% | ~190 |
+| Where To? | 2.00% | ~190 |
+| Splish Splash | 2.00% | ~190 |
+| Playing Doctor | 2.00% | ~190 |
+| Liberty City Secrets | 2.00% | ~190 |
 | Planned Ahead | 1.00% | ~95 |
 | Got This Figured Out | 1.00% | ~95 |
 | Wheels Up | 1.00% | ~95 |
@@ -35,7 +35,7 @@ Rating: 4.20 (Ranked 929)
 | Is That All You've Got? | 0.90% | ~85 |
 | King of Liberty City | 0.60% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,461 (Ranked 173)  
+Progressed: 9,477 (Ranked 173)  
 Completed: 60 (0.63%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 60 (0.63%) (Ranked 192)
 | 2023-12-14 | 9,067 | 60 |
 | 2023-12-15 | 9,263 | 60 |
 | 2023-12-16 | 9,453 | 60 |
-| 2023-12-17 | 9,461 | 60 |
+| 2023-12-17 | 9,477 | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

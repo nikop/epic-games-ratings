@@ -15,7 +15,7 @@ Rating: 4.81 (Ranked 86)
 | Powder Monkey | 27.00% | ~320 |
 | Mirror Mirror on the Wall | 26.00% | ~308 |
 | Pirates Assemble! | 24.00% | ~284 |
-| Buccaneer | 20.00% | ~237 |
+| Buccaneer | 21.00% | ~249 |
 | Fishy Fish | 20.00% | ~237 |
 | All Good Things | 17.00% | ~201 |
 | Persistent Parasite | 16.00% | ~189 |
@@ -33,7 +33,7 @@ Rating: 4.81 (Ranked 86)
 | Welcome Back Jester | 3.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,184 (Ranked 262)  
-Completed: 32 (2.70%) (Ranked 117)  
+Completed: 32 (2.70%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

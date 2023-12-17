@@ -2,9 +2,9 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 423,
+  "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -644,6 +644,11 @@
       "Time": "2023-12-16T22:05:24.3639139+00:00",
       "NumProgressed": 133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T01:58:27.460609+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -670,9 +675,9 @@
       "ID": "assemble_puzzles",
       "SetID": "f2im8d",
       "Name": "The Big Picture",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "breaking_free",
@@ -686,9 +691,9 @@
       "ID": "casting_finished",
       "SetID": "f2im8d",
       "Name": "Casting Finished",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "collect_items_mother",
@@ -734,15 +739,15 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 58
     },
     {
       "ID": "decrypt_one_myth",
       "SetID": "f2im8d",
       "Name": "You Can\u2019t Handle the Truth",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -758,9 +763,9 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 46
     },
     {
       "ID": "do_what_you_have_to",
@@ -768,7 +773,7 @@
       "Name": "Do what you have to",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "earn_all_trophies",
@@ -838,17 +843,17 @@
       "ID": "finished_it",
       "SetID": "f2im8d",
       "Name": "Finished it",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "first_step",
       "SetID": "f2im8d",
       "Name": "First steps",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "hear_most_of_interviews",
@@ -862,25 +867,25 @@
       "ID": "hear_one_interview",
       "SetID": "f2im8d",
       "Name": "Sound Bite",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "heavy_burden",
       "SetID": "f2im8d",
       "Name": "Heavy Burden",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "in_one_take",
       "SetID": "f2im8d",
       "Name": "In One Take",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "inheritance",
@@ -918,9 +923,9 @@
       "ID": "perfect_storm",
       "SetID": "f2im8d",
       "Name": "The Perfect Storm",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "piece_of_story",
@@ -928,7 +933,7 @@
       "Name": "A piece of the story",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "playtime",
@@ -950,9 +955,9 @@
       "ID": "rocket_science",
       "SetID": "f2im8d",
       "Name": "Rocket Science",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "save_all_rats",
@@ -966,7 +971,7 @@
       "ID": "secret_ending",
       "SetID": "f2im8d",
       "Name": "The Tree and the Apple",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -990,7 +995,7 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 5,
       "UsersEstimate": 105
     },
@@ -1006,7 +1011,7 @@
       "ID": "sword_of_the_serpent",
       "SetID": "f2im8d",
       "Name": "Sword of the Serpent",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1056,7 +1061,7 @@
       "Name": "Wanderer",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1071,14 +1076,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:06:30.8687228+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T23:59:01.5800746+00:00",
-  "LastUpdate_Ratings": "2023-12-17T00:00:46.0177097+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:06:30.8687597+00:00"
+  "LastChanged_Achievements": "2023-12-17T01:58:27.4606086+00:00",
+  "LastUpdate_AppInfo": "2023-12-17T01:49:26.5525701+00:00",
+  "LastUpdate_Ratings": "2023-12-17T01:52:55.7479594+00:00",
+  "LastUpdate_Achievements": "2023-12-17T01:58:27.4606424+00:00"
 }

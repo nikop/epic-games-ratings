@@ -40,7 +40,7 @@
 | Satchel Hero | 0.00% | ~0 |
 | Tote Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 733)  
+Progressed: 1 (Ranked 734)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |

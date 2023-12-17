@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,615 |
-| Off to a good start | 65.00% | ~1,180 |
-| Do... or do not. There is no try | 51.00% | ~926 |
-| A good blaster at your side | 28.00% | ~508 |
+| New Recruit | 89.00% | ~1,619 |
+| Off to a good start | 65.00% | ~1,182 |
+| Do... or do not. There is no try | 51.00% | ~928 |
+| A good blaster at your side | 28.00% | ~509 |
 | I suggest a new strategy | 18.00% | ~327 |
 | Scrap collector | 17.00% | ~309 |
 | All right, I'll give it a try | 17.00% | ~309 |
 | Great shot, kid! | 17.00% | ~309 |
-| Shoot first | 14.00% | ~254 |
+| Shoot first | 14.00% | ~255 |
 | The power of the Force | 13.00% | ~236 |
 | Collector | 13.00% | ~236 |
 | Together we can rule the galaxy | 13.00% | ~236 |
-| Tell Jabba that I've got his money | 9.00% | ~163 |
-| Best star-pilot in the galaxy | 9.00% | ~163 |
-| Survivor | 9.00% | ~163 |
-| Never tell me the odds! | 8.00% | ~145 |
+| Tell Jabba that I've got his money | 9.00% | ~164 |
+| Best star-pilot in the galaxy | 9.00% | ~164 |
+| Survivor | 9.00% | ~164 |
+| Never tell me the odds! | 8.00% | ~146 |
+| A cunning warrior | 8.00% | ~146 |
 | What's the cargo? | 7.00% | ~127 |
-| A cunning warrior | 7.00% | ~127 |
 | Impressive. Most impressive. | 6.00% | ~109 |
 | Judge me by my size, do you? | 6.00% | ~109 |
 | "Gonk? Gonk!" | 5.00% | ~91 |
@@ -31,11 +31,11 @@
 | Safety ain't the point of a joyride | 4.00% | ~73 |
 | Not bad for a little furball | 4.00% | ~73 |
 | Patience you must have | 4.00% | ~73 |
-| I've been waiting for you | 3.00% | ~54 |
-| When 900 years old you reach... | 3.00% | ~54 |
-| Your journey has only started | 3.00% | ~54 |
-| On the ball | 3.00% | ~54 |
-| Don't underestimate the Force | 3.00% | ~54 |
+| I've been waiting for you | 3.00% | ~55 |
+| When 900 years old you reach... | 3.00% | ~55 |
+| Your journey has only started | 3.00% | ~55 |
+| On the ball | 3.00% | ~55 |
+| Don't underestimate the Force | 3.00% | ~55 |
 | The Force is strong with this one | 2.00% | ~36 |
 | Determined | 2.00% | ~36 |
 | Precision shot | 2.00% | ~36 |
@@ -57,7 +57,7 @@
 | Stop that Droid | 0.80% | ~15 |
 | No such thing as luck | 0.70% | ~13 |
 | Do we take prisoners? | 0.70% | ~13 |
-| I’ll take that bet | 0.60% | ~11 |
+| I’ll take that bet | 0.50% | ~9 |
 | Stay on target | 0.40% | ~7 |
 | Greed can be a very powerful ally | 0.40% | ~7 |
 | in a galaxy far, far away.... | 0.30% | ~5 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.20% | ~4 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,815 (Ranked 237)  
-Completed: 1 (0.06%) (Ranked 320)  
+Progressed: 1,819 (Ranked 237)  
+Completed: 1 (0.05%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -160,6 +160,7 @@ Completed: 1 (0.06%) (Ranked 320)
 | 2023-12-14 | 1,726 | 1 |
 | 2023-12-15 | 1,755 | 1 |
 | 2023-12-16 | 1,815 | 1 |
+| 2023-12-17 | 1,819 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

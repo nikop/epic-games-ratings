@@ -5,7 +5,7 @@
   "Ranking_Rating": 35,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 198,
+  "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_NewCompleters": 139,
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4513,
+  "EOS_Progressed": 4534,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3262,
+  "EOS_NewPlayers": 3253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1215,6 +1215,11 @@
       "Time": "2023-12-17T00:10:03.1179216+00:00",
       "NumProgressed": 4513,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T02:02:25.7608053+00:00",
+      "NumProgressed": 4534,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1227,7 +1232,7 @@
       "Name": "Conspiracy",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 496
+      "UsersEstimate": 499
     },
     {
       "ID": "03_TheStolenStar",
@@ -1331,7 +1336,7 @@
       "Name": "Pentakill",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "16_TheRise",
@@ -1387,7 +1392,7 @@
       "Name": "Perfect Timing",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "23_DynastyRestored",
@@ -1435,7 +1440,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -1443,7 +1448,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "30_The GreatestExploration",
@@ -1451,15 +1456,15 @@
       "Name": "Greatest Exploration",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "31_DontTouchThis",
       "SetID": "37a94m8",
       "Name": "Don\u0027t Touch This",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 41
     },
     {
       "ID": "32_AviationSaviour",
@@ -1539,7 +1544,7 @@
       "Name": "Jungle Heat",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "42_TheIronJudgement",
@@ -1579,7 +1584,7 @@
       "Name": "A Spark",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "47_AFlame",
@@ -1746,7 +1751,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 4513,
+      "Progressed": 4534,
       "Completed": 0
     }
   ],
@@ -1754,8 +1759,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-16T18:59:01.4154357+00:00",
-  "LastChanged_Achievements": "2023-12-17T00:10:03.1179211+00:00",
+  "LastChanged_Achievements": "2023-12-17T02:02:25.760805+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:59:44.4369461+00:00",
-  "LastUpdate_Achievements": "2023-12-17T00:10:03.1180106+00:00"
+  "LastUpdate_Ratings": "2023-12-17T01:51:59.2918063+00:00",
+  "LastUpdate_Achievements": "2023-12-17T02:02:25.7608803+00:00"
 }
