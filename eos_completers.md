@@ -9,7 +9,7 @@
 | 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 44.51% |
 | 8 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 38.10% |
-| 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 36.82% |
+| 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 36.65% |
 | 11 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 33.33% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 31.25% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.26% |
@@ -20,7 +20,7 @@
 | 18 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.64% |
 | 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 20 | [Doodle Devil](games/d/doodle_devil.md) | 20.69% |
-| 21 | [The Riflemen](games/t/the_riflemen.md) | 20.64% |
+| 21 | [The Riflemen](games/t/the_riflemen.md) | 20.63% |
 | 22 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 22 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
 | 24 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.16% |
@@ -73,9 +73,9 @@
 | 71 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
 | 71 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 5.88% |
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 74 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 5.54% |
+| 74 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 5.52% |
 | 75 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.33% |
-| 76 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.26% |
+| 76 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.13% |
 | 77 | [Bugsnax](games/b/bugsnax.md) | 4.86% |
 | 78 | [JARS](games/j/jars.md) | 4.81% |
 | 79 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.72% |
@@ -129,7 +129,7 @@
 | 127 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.44% |
 | 128 | [Lamentum](games/l/lamentum.md) | 2.40% |
 | 129 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.39% |
-| 130 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.21% |
+| 130 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.20% |
 | 131 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.17% |
 | 132 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.14% |
 | 133 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
@@ -141,7 +141,7 @@
 | 139 | [Frogun](games/f/frogun.md) | 1.76% |
 | 140 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.66% |
 | 141 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.65% |
-| 142 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.60% |
+| 142 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.59% |
 | 143 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
 | 144 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.56% |
 | 145 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.55% |
@@ -162,8 +162,8 @@
 | 160 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.18% |
 | 161 | [Late Shift](games/l/late_shift.md) | 1.16% |
 | 161 | [Lemon Cake](games/l/lemon_cake.md) | 1.16% |
-| 163 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.14% |
 | 163 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.14% |
+| 164 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.13% |
 | 165 | [Ten Dates](games/t/ten_dates.md) | 1.12% |
 | 165 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
 | 167 | [Adios](games/a/adios.md) | 1.09% |
@@ -179,7 +179,7 @@
 | 177 | [A Musical Story](games/a/a_musical_story.md) | 0.92% |
 | 178 | [Hades](games/h/hades.md) | 0.91% |
 | 179 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.89% |
-| 180 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.87% |
+| 180 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.86% |
 | 181 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.85% |
 | 182 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.84% |
 | 183 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
@@ -221,8 +221,8 @@
 | 219 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.43% |
 | 219 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.43% |
 | 219 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.43% |
-| 219 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.43% |
-| 223 | [Tchia](games/t/tchia.md) | 0.42% |
+| 222 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.42% |
+| 222 | [Tchia](games/t/tchia.md) | 0.42% |
 | 224 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.40% |
 | 224 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.40% |
 | 224 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
@@ -243,9 +243,9 @@
 | 240 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.32% |
 | 242 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 242 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.31% |
-| 242 | [Them and Us](games/t/them_and_us.md) | 0.31% |
-| 245 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
-| 245 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
+| 244 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
+| 244 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
+| 244 | [Them and Us](games/t/them_and_us.md) | 0.30% |
 | 247 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.28% |
 | 247 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.28% |
 | 249 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
