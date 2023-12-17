@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.5,
+  "Rating": 3.51,
   "RatingHistory": [
     {
       "Time": "2023-05-02T02:57:49.0820146+00:00",
@@ -259,15 +259,21 @@
       "Rating": 3.5,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-17T18:59:50.7372617+00:00",
+      "Rating": 3.51,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1908,
+  "EOS_Progressed": 1910,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2755,6 +2761,11 @@
       "Time": "2023-12-17T17:08:13.4930487+00:00",
       "NumProgressed": 1908,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T19:06:37.8172661+00:00",
+      "NumProgressed": 1910,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2782,7 +2793,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Achievement_004",
@@ -2990,7 +3001,7 @@
       "Name": "ICU",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Achievement_031",
@@ -3014,7 +3025,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Achievement_034",
@@ -3022,7 +3033,7 @@
       "Name": "Catch and Release",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "Achievement_035",
@@ -3164,9 +3175,9 @@
       "ID": "Achievement_055",
       "SetID": "6b34g18",
       "Name": "Blacklight Down",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "Achievement_056",
@@ -3196,9 +3207,9 @@
       "ID": "Achievement_059",
       "SetID": "6b34g18",
       "Name": "Dexterity Save",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement_060",
@@ -3293,16 +3304,16 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1908,
+      "Progressed": 1910,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-02T02:57:49.0820129+00:00",
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
-  "LastChanged": "2023-12-17T07:59:30.0053245+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:06:13.8085031+00:00",
+  "LastChanged": "2023-12-17T18:59:50.7372616+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:06:37.8172657+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:59:22.0954593+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:06:13.8085685+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:59:50.7372621+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:06:37.8173448+00:00"
 }

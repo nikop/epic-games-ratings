@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4528,
+  "EOS_Progressed": 4529,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -11615,6 +11615,11 @@
       "Time": "2023-12-17T18:04:09.4685101+00:00",
       "NumProgressed": 4528,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-17T19:04:18.9423617+00:00",
+      "NumProgressed": 4529,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 16,
@@ -11674,7 +11679,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "ach_bomb",
@@ -11722,7 +11727,7 @@
       "Name": "Game opened",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3441
+      "UsersEstimate": 3442
     },
     {
       "ID": "ach_magic_wand",
@@ -11730,7 +11735,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "ach_no_boosters",
@@ -11753,7 +11758,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4528,
+      "Progressed": 4529,
       "Completed": 38
     }
   ],
@@ -11761,8 +11766,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:04:09.4685096+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:04:18.9423614+00:00",
   "LastUpdate_AppInfo": "2023-12-15T21:57:12.1320242+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:58:30.0401556+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:04:09.4686181+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:58:52.4673043+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:04:18.9424159+00:00"
 }

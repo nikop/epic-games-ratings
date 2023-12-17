@@ -28,14 +28,14 @@
 | The bully | 10.00% | ~6 |
 | Kirlian's best disciple | 10.00% | ~6 |
 | Welcome to Hellville | 10.00% | ~6 |
-| Bread and bocaua | 7.00% | ~4 |
-| Fanatacism is... poisonous | 7.00% | ~4 |
+| Bread and bocaua | 8.00% | ~5 |
+| Fanatacism is... poisonous | 8.00% | ~5 |
+| ECO mode | 8.00% | ~5 |
+| Blood Red Island | 7.00% | ~4 |
 | The adventurer | 7.00% | ~4 |
 | Pulp! The Beyond | 7.00% | ~4 |
-| ECO mode | 7.00% | ~4 |
 | Blessed antennas | 5.00% | ~3 |
 | The beast in the Oval Office | 5.00% | ~3 |
-| Blood Red Island | 5.00% | ~3 |
 | The scholar | 5.00% | ~3 |
 | Pulp! True Adventures | 5.00% | ~3 |
 | Vaccine fans | 5.00% | ~3 |

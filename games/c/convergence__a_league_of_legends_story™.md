@@ -12,13 +12,13 @@ Rating: 4.62 (Ranked 370)
 | Make Up For Lost Time | 23.00% | ~234 |
 | The Prince in Heels | 23.00% | ~234 |
 | The Brass Boss | 23.00% | ~234 |
+| The Steel Shadow | 22.00% | ~224 |
 | Time Flies | 22.00% | ~224 |
 | The Harder They Fall | 22.00% | ~224 |
 | No, Thanks! | 22.00% | ~224 |
 | Honest Mistake | 22.00% | ~224 |
 | Fast Learner | 22.00% | ~224 |
 | Immaculate Aim | 22.00% | ~224 |
-| The Steel Shadow | 21.00% | ~214 |
 | Breaking Down Barriers | 21.00% | ~214 |
 | The Wicked Twins | 21.00% | ~214 |
 | Like Clockwork | 20.00% | ~203 |

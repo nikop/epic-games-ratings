@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,7 +261,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1094,
+  "EOS_Progressed": 1095,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -2996,6 +2996,11 @@
       "Time": "2023-12-17T18:08:02.5203297+00:00",
       "NumProgressed": 1094,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T19:07:56.6380172+00:00",
+      "NumProgressed": 1095,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3007,7 +3012,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "ACH001",
@@ -3063,7 +3068,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "ACH008",
@@ -3095,7 +3100,7 @@
       "Name": "Intangible",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH012",
@@ -3119,7 +3124,7 @@
       "Name": "Christening",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH015",
@@ -3127,7 +3132,7 @@
       "Name": "Groundskeeper",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH016",
@@ -3159,7 +3164,7 @@
       "Name": "Just a scratch",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH020",
@@ -3175,7 +3180,7 @@
       "Name": "Collectionitis",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH022",
@@ -3223,7 +3228,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH028",
@@ -3287,15 +3292,15 @@
       "Name": "All mine!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH036",
       "SetID": "69nfp41",
       "Name": "Every beginning is difficult",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 679
     },
     {
       "ID": "ACH037",
@@ -3351,7 +3356,7 @@
       "Name": "Your vessel, my vessel",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH044",
@@ -3359,7 +3364,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACH045",
@@ -3391,7 +3396,7 @@
       "Name": "Megalomania",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH049",
@@ -3406,15 +3411,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1094,
+      "Progressed": 1095,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:08:02.5203295+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:07:56.6380169+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:34.3980229+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:57:05.9217355+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:08:02.5203666+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:57:12.8353604+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:07:56.6380648+00:00"
 }

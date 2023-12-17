@@ -33,10 +33,10 @@ Number of Ratings: 177  (23.09.2022)
 | Te Amo Lety | 0.70% | ~47 |
 | Deck the Balls | 0.60% | ~22 |
 | Now It's a Party! | 0.60% | ~40 |
-| Ashley | 0.50% | ~33 |
-| Benedict Brahrnold | 0.50% | ~33 |
-| I'll Be Back | 0.50% | ~33 |
-| Love Conquers All | 0.50% | ~33 |
+| Ashley | 0.50% | ~34 |
+| Benedict Brahrnold | 0.50% | ~34 |
+| I'll Be Back | 0.50% | ~34 |
+| Love Conquers All | 0.50% | ~34 |
 | Rule 34 | 0.40% | ~27 |
 | Rachael | 0.40% | ~27 |
 | The Elder Brahs | 0.40% | ~27 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,699 (Ranked 187)  
+Progressed: 6,700 (Ranked 187)  
 Completed: 3 (0.04%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 3 (0.04%) (Ranked 337)
 | 2023-12-14 | 6,605 | 3 |
 | 2023-12-15 | 6,637 | 3 |
 | 2023-12-16 | 6,670 | 3 |
-| 2023-12-17 | 6,699 | 3 |
+| 2023-12-17 | 6,700 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

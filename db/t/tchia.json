@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8072,
+  "EOS_Progressed": 8074,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9327,6 +9327,11 @@
       "Time": "2023-12-17T18:03:55.2891202+00:00",
       "NumProgressed": 8072,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-17T19:04:03.1410041+00:00",
+      "NumProgressed": 8074,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9386,7 +9391,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -9442,7 +9447,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "LIBERATOR",
@@ -9505,7 +9510,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8072,
+      "Progressed": 8074,
       "Completed": 34
     }
   ],
@@ -9513,8 +9518,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-17T08:57:44.8415466+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:03:55.28912+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:04:03.1410039+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.5620941+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:57:12.6313807+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:03:55.2891599+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:57:20.3119567+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:04:03.1410667+00:00"
 }

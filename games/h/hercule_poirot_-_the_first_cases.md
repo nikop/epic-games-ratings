@@ -11,8 +11,8 @@ Rating: 4.35 (Ranked 800)
 | Elizabeth Padget | 70.00% | ~321 |
 | Little Grey Cells | 69.00% | ~317 |
 | The Bracelet | 66.00% | ~303 |
+| The Blackmail | 55.00% | ~252 |
 | Fine-toothed Comb | 54.00% | ~248 |
-| The Blackmail | 54.00% | ~248 |
 | Florette Duval | 54.00% | ~248 |
 | Major Felix Hagen | 54.00% | ~248 |
 | Order and Method | 52.00% | ~239 |
@@ -53,7 +53,7 @@ Rating: 4.35 (Ranked 800)
 | Work-life Balance | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 459 (Ranked 332)  
-Completed: 6 (1.31%) (Ranked 151)  
+Completed: 6 (1.31%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

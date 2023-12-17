@@ -2,13 +2,13 @@
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
-  "Ranking_Rating": 551,
+  "Ranking_Rating": 550,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 513,
-  "Ranking_EOS_Progress": 462,
+  "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 98,
+  "EOS_Progressed": 102,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -686,6 +686,11 @@
       "Time": "2023-12-17T17:09:05.6663146+00:00",
       "NumProgressed": 98,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T19:08:15.9659613+00:00",
+      "NumProgressed": 102,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -698,7 +703,7 @@
       "Name": "Mash Machine",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -728,9 +733,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -808,9 +813,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -832,9 +837,9 @@
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -864,9 +869,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -896,9 +901,9 @@
       "ID": "ACH_KILL_PONSONBY",
       "SetID": "4n84pon",
       "Name": "Die Nasty",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -944,7 +949,7 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 26
     },
@@ -1032,9 +1037,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1049,7 +1054,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 98,
+      "Progressed": 102,
       "Completed": 0
     }
   ],
@@ -1057,8 +1062,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:08:20.0414885+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:08:15.965961+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:59:54.0826639+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:08:20.0415116+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:00:27.9384112+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:08:15.9659916+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1003,
+  "EOS_Progressed": 1004,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3869,6 +3869,11 @@
       "Time": "2023-12-17T16:09:42.3589848+00:00",
       "NumProgressed": 1003,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T19:09:35.1007498+00:00",
+      "NumProgressed": 1004,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3928,7 +3933,7 @@
       "Name": "That Was Close!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "Creator",
@@ -3976,7 +3981,7 @@
       "Name": "Game Started",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "FullCompletion",
@@ -4016,7 +4021,7 @@
       "Name": "Large Airport",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "LargeTerritories",
@@ -4040,7 +4045,7 @@
       "Name": "Linear Network",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "LongDistance",
@@ -4064,7 +4069,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Millionaire",
@@ -4080,7 +4085,7 @@
       "Name": "New Record",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "NoTimeForModernization",
@@ -4088,7 +4093,7 @@
       "Name": "No Time for Modernization",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "NoWayBack",
@@ -4096,7 +4101,7 @@
       "Name": "No Way Back",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "NotPlanned",
@@ -4200,7 +4205,7 @@
       "Name": "Time for Management",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "TransportHub",
@@ -4215,14 +4220,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1003,
+      "Progressed": 1004,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:09:32.3096845+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:09:35.1007496+00:00",
   "LastUpdate_AppInfo": "2023-12-12T19:56:58.9295156+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:00:01.0677069+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:09:32.3097258+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:00:36.0581465+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:09:35.1007954+00:00"
 }

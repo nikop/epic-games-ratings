@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2801,9 +2801,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 224
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3226,8 +3226,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:09:18.7764977+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:09:21.0484629+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:57:31.4290708+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:09:18.7765495+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:57:42.6836682+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:09:21.0485203+00:00"
 }

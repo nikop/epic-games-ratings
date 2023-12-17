@@ -2,10 +2,10 @@
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
-  "Ranking_EOS_Progress": 322,
+  "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 550,
+  "EOS_Progressed": 551,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1294,6 +1294,11 @@
       "Time": "2023-12-17T17:10:39.5479257+00:00",
       "NumProgressed": 550,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T19:09:35.3173713+00:00",
+      "NumProgressed": 551,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1305,7 +1310,7 @@
       "Name": "Arrive Home",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ArtCollector",
@@ -1321,7 +1326,7 @@
       "Name": "Artifact Collector",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Assassin",
@@ -1337,7 +1342,7 @@
       "Name": "Boss Killer",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "BugHunter",
@@ -1369,7 +1374,7 @@
       "Name": "Ghost Buster",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Gladiator",
@@ -1401,7 +1406,7 @@
       "Name": "Holy Knight",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Horder",
@@ -1417,7 +1422,7 @@
       "Name": "Iconoclasm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Inquisitor",
@@ -1449,7 +1454,7 @@
       "Name": "Marksman",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MeatLover",
@@ -1505,7 +1510,7 @@
       "Name": "Reincarnation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Roughneck",
@@ -1545,7 +1550,7 @@
       "Name": "Spell Master",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "SwordMaster",
@@ -1561,7 +1566,7 @@
       "Name": "The End",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "TheFallen",
@@ -1585,7 +1590,7 @@
       "Name": "Trap Master",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "TreasureHunter",
@@ -1601,7 +1606,7 @@
       "Name": "Troubleshooter",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "WeaponMaster",
@@ -1624,7 +1629,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 550,
+      "Progressed": 551,
       "Completed": 1
     }
   ],
@@ -1632,8 +1637,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:09:32.4225716+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:09:35.317371+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:58:18.7669388+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:09:32.422607+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:58:37.7955628+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:09:35.3174034+00:00"
 }

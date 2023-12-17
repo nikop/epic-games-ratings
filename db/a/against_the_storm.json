@@ -3485,9 +3485,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18510,
+  "EOS_Progressed": 18517,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 631,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16095,6 +16095,11 @@
       "Time": "2023-12-17T18:04:40.5788804+00:00",
       "NumProgressed": 18510,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-17T19:04:53.8581704+00:00",
+      "NumProgressed": 18517,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16195,7 +16200,7 @@
       "Name": "First Real Expedition",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "WinHard",
@@ -16443,7 +16448,7 @@
       "Name": "Taking Action",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "WinWithResolve",
@@ -16483,7 +16488,7 @@
       "Name": "No Deaths",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "WinWithoutOrders",
@@ -16515,7 +16520,7 @@
       "Name": "Frosts",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "WinNearGreed",
@@ -16523,7 +16528,7 @@
       "Name": "Land of Greed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "WinNearLibrary",
@@ -16539,7 +16544,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "WinNearPresence",
@@ -16547,7 +16552,7 @@
       "Name": "Ominous Presence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "WinNearStorms",
@@ -16555,7 +16560,7 @@
       "Name": "Gathering Storm",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -16578,15 +16583,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18510,
+      "Progressed": 18517,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-17T16:58:16.5971694+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:04:40.5788803+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:04:53.8581701+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:57:40.1071303+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:04:40.5789623+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:57:52.5862325+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:04:53.8582609+00:00"
 }

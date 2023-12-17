@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 738,
+  "EOS_Progressed": 740,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1995,6 +1995,11 @@
       "Time": "2023-12-17T18:08:53.434355+00:00",
       "NumProgressed": 738,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T19:08:53.0178704+00:00",
+      "NumProgressed": 740,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -2007,7 +2012,7 @@
       "Name": "The Teleprobe",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "AchvAllMemories",
@@ -2047,7 +2052,7 @@
       "Name": "Violent solution",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "AchvConvoyList",
@@ -2087,7 +2092,7 @@
       "Name": "Evacuation",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "AchvInvShip",
@@ -2103,15 +2108,15 @@
       "Name": "Krauta is alive",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "AchvLava",
       "SetID": "1hj060c",
       "Name": "Volcanologist",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 141
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -2135,7 +2140,7 @@
       "Name": "The Necroevolution",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "AchvNest",
@@ -2173,9 +2178,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 296
     },
     {
       "ID": "AchvReachCamp",
@@ -2183,7 +2188,7 @@
       "Name": "The Camp",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "AchvReachCity",
@@ -2191,7 +2196,7 @@
       "Name": "The City",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "AchvReachCondor",
@@ -2199,7 +2204,7 @@
       "Name": "The Condor",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "AchvSurvivors",
@@ -2207,7 +2212,7 @@
       "Name": "Survivors",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -2215,7 +2220,7 @@
       "Name": "Flying Objects Operator",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "AchvTheEnd",
@@ -2238,14 +2243,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 738,
+      "Progressed": 740,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:08:53.4343547+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:08:53.0178701+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:56:59.4321401+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:08:53.4343791+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:57:05.810399+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:08:53.017896+00:00"
 }

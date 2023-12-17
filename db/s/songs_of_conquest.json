@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 537,
+  "EOS_Progressed": 539,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
@@ -2193,6 +2193,11 @@
       "Time": "2023-12-17T18:08:08.625327+00:00",
       "NumProgressed": 537,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T19:08:03.2200927+00:00",
+      "NumProgressed": 539,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2445,7 +2450,7 @@
       "Name": "Whoops!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "RanaCampaign",
@@ -2533,7 +2538,7 @@
       "Name": "Adept",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "WielderLevel2",
@@ -2541,7 +2546,7 @@
       "Name": "Veteran",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "WielderLevel3",
@@ -2636,15 +2641,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 537,
+      "Progressed": 539,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:08:08.6253268+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:08:03.2200925+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:59:57.0848757+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:08:08.6253637+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:00:31.3312584+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:08:03.2201288+00:00"
 }

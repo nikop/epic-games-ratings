@@ -2,10 +2,10 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
-  "Ranking_EOS_Progress": 447,
+  "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116,
+  "EOS_Progressed": 117,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.59,
+  "EOS_Completed_Percentage": 2.56,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -269,6 +269,11 @@
       "Time": "2023-12-17T16:04:42.6687982+00:00",
       "NumProgressed": 116,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T19:04:55.0643982+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -296,7 +301,7 @@
       "Name": "No Place to Hide",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ClubTurretsHack",
@@ -328,7 +333,7 @@
       "Name": "Tough Decision",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "FirstAutoSkillUnlock",
@@ -350,7 +355,7 @@
       "ID": "GunUnlock",
       "SetID": "9e3d06k",
       "Name": "Symbiotic Weapon",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
       "UsersEstimate": 67
     },
@@ -374,7 +379,7 @@
       "ID": "KyklosPlan",
       "SetID": "9e3d06k",
       "Name": "The Red Herring",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 39
     },
@@ -384,7 +389,7 @@
       "Name": "Lifter",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LiftEnemies_1",
@@ -406,7 +411,7 @@
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 5,
       "UsersEstimate": 75
     },
@@ -416,7 +421,7 @@
       "Name": "A Voice in the Dark",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "StealthDefeat_0",
@@ -432,7 +437,7 @@
       "Name": "Brain-hacker",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "StoryEnd",
@@ -456,7 +461,7 @@
       "Name": "Gravity Bender",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ThirdAutoSkillUnlock",
@@ -464,14 +469,14 @@
       "Name": "Telekinesis",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 116,
+      "Progressed": 117,
       "Completed": 3
     }
   ],
@@ -479,8 +484,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:04:41.6444923+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:04:55.064398+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:43.8867802+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:58:43.7614043+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:04:41.6445114+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:59:07.6151485+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:04:55.064412+00:00"
 }

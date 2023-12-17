@@ -2,13 +2,13 @@
   "ID": "05ae696a3c5f49af91a7433547460c21",
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
-  "Ranking_Rating": 599,
+  "Ranking_Rating": 598,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -1618,8 +1618,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-11-23T19:59:23.2109032+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:04:31.1806576+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:04:43.2186105+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.1837394+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:02:51.8658803+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:04:31.1806933+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:02:50.1229274+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:04:43.2186431+00:00"
 }

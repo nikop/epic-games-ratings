@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 16,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8307,10 +8307,10 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 732868,
+  "EOS_Progressed": 732906,
   "EOS_Completed": 12955,
-  "EOS_NewPlayers": 14922,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 14959,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.77,
   "EosHistory": [
     {
@@ -29752,6 +29752,11 @@
       "Time": "2023-12-17T18:08:17.9853691+00:00",
       "NumProgressed": 732868,
       "NumCompleted": 12955
+    },
+    {
+      "Time": "2023-12-17T19:08:13.5438+00:00",
+      "NumProgressed": 732906,
+      "NumCompleted": 12955
     }
   ],
   "TotalAchievements": 60,
@@ -29763,7 +29768,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 21986
+      "UsersEstimate": 21987
     },
     {
       "ID": "02_Vengeance_H1",
@@ -29771,7 +29776,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14657
+      "UsersEstimate": 14658
     },
     {
       "ID": "03_Vengeance_H2",
@@ -29811,7 +29816,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2931
+      "UsersEstimate": 2932
     },
     {
       "ID": "08_Wude_H2",
@@ -29923,7 +29928,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3664
+      "UsersEstimate": 3665
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -29939,7 +29944,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14657
+      "UsersEstimate": 14658
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30027,7 +30032,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14657
+      "UsersEstimate": 14658
     },
     {
       "ID": "35_WideStrike",
@@ -30242,21 +30247,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 42169,
+      "Progressed": 42207,
       "Completed": 10775
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 732868,
+      "Progressed": 732906,
       "Completed": 12955
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-17T10:02:57.0497323+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:08:17.9853688+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:08:13.5437997+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:02:44.9803829+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:08:17.9854781+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:02:42.5640071+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:08:13.543913+00:00"
 }

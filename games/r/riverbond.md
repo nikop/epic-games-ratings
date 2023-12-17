@@ -1,35 +1,35 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 646)  
+Rating: 4.47 (Ranked 645)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~373,328 |
-| Now You're Talking | 62.00% | ~330,662 |
-| Steel Yourself | 62.00% | ~330,662 |
-| Window Dressing | 50.00% | ~266,662 |
-| Trigger Happy | 46.00% | ~245,330 |
-| Riverborn | 45.00% | ~239,996 |
-| Starry Eyed | 34.00% | ~181,330 |
-| Poking Around | 34.00% | ~181,330 |
-| Talk of the Town | 24.00% | ~127,998 |
-| AAARR! | 23.00% | ~122,665 |
-| Hello Darkness | 23.00% | ~122,665 |
-| Wind At Our Backs | 22.00% | ~117,332 |
-| To the Beat | 20.00% | ~106,665 |
-| Sunny Shores | 17.00% | ~90,665 |
-| Sunday Best | 16.00% | ~85,332 |
-| To Victory! | 15.00% | ~79,999 |
+| First Step | 70.00% | ~373,332 |
+| Now You're Talking | 62.00% | ~330,665 |
+| Steel Yourself | 62.00% | ~330,665 |
+| Window Dressing | 50.00% | ~266,666 |
+| Trigger Happy | 46.00% | ~245,332 |
+| Riverborn | 45.00% | ~239,999 |
+| Starry Eyed | 34.00% | ~181,333 |
+| Poking Around | 34.00% | ~181,333 |
+| Talk of the Town | 24.00% | ~127,999 |
+| AAARR! | 23.00% | ~122,666 |
+| Hello Darkness | 23.00% | ~122,666 |
+| Wind At Our Backs | 22.00% | ~117,333 |
+| To the Beat | 20.00% | ~106,666 |
+| Sunny Shores | 17.00% | ~90,666 |
+| Sunday Best | 16.00% | ~85,333 |
+| To Victory! | 15.00% | ~80,000 |
 | Two of a Kind | 14.00% | ~74,666 |
-| Keep On Trucking | 13.00% | ~69,332 |
+| Keep On Trucking | 13.00% | ~69,333 |
 | Going on an Adventure | 11.00% | ~58,666 |
 | Make Peace, Not War | 11.00% | ~58,666 |
-| Walking The Line | 10.00% | ~53,332 |
-| Not So Cute Anymore | 10.00% | ~53,332 |
-| Road Less Travelled | 9.00% | ~47,999 |
-| Lost and Found | 9.00% | ~47,999 |
+| Walking The Line | 10.00% | ~53,333 |
+| Not So Cute Anymore | 10.00% | ~53,333 |
+| Road Less Travelled | 9.00% | ~48,000 |
+| Lost and Found | 9.00% | ~48,000 |
 | Under the Radar | 8.00% | ~42,666 |
 | Partner in Crime | 7.00% | ~37,333 |
 | Hard to Hear | 7.00% | ~37,333 |
@@ -39,9 +39,9 @@ Number of Ratings: 617  (23.09.2022)
 | Oh, Romeo! | 6.00% | ~32,000 |
 | Dressed to Kill | 6.00% | ~32,000 |
 | Beast Mode | 6.00% | ~32,000 |
-| Noble Intentions | 5.00% | ~26,666 |
-| Rising Star | 5.00% | ~26,666 |
-| Slime Slayer | 5.00% | ~26,666 |
+| Noble Intentions | 5.00% | ~26,667 |
+| Rising Star | 5.00% | ~26,667 |
+| Slime Slayer | 5.00% | ~26,667 |
 | Privacy, Please! | 4.00% | ~21,333 |
 | Silky Smooth | 4.00% | ~21,333 |
 | Hash It Over | 4.00% | ~21,333 |
@@ -54,17 +54,17 @@ Number of Ratings: 617  (23.09.2022)
 | Page Turner | 3.00% | ~16,000 |
 | Spinal Adjustment | 3.00% | ~16,000 |
 | The Knowledge | 3.00% | ~16,000 |
-| Seek the Rainbow | 2.00% | ~10,666 |
-| Words of Truth | 2.00% | ~10,666 |
-| Star Power | 2.00% | ~10,666 |
-| Justice Served | 2.00% | ~10,666 |
+| Seek the Rainbow | 2.00% | ~10,667 |
+| Words of Truth | 2.00% | ~10,667 |
+| Star Power | 2.00% | ~10,667 |
+| Justice Served | 2.00% | ~10,667 |
 | Written in the Stars | 1.00% | ~5,333 |
 | Don't Care | 1.00% | ~5,333 |
 | Don’t Get Crabby | 1.00% | ~5,333 |
 | Boss of All Bosses | 0.30% | ~1,600 |
 | Point Taken | 0.20% | ~1,067 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533,325 (Ranked 35)  
+Progressed: 533,331 (Ranked 35)  
 Completed: 510 (0.10%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 510 (0.10%) (Ranked 298)
 | 2023-12-14 | 533,142 | 509 |
 | 2023-12-15 | 533,198 | 509 |
 | 2023-12-16 | 533,271 | 510 |
-| 2023-12-17 | 533,325 | 510 |
+| 2023-12-17 | 533,331 | 510 |
 ## Awards
 Max (Relaxing): 21  (Ranked 554)  
 Sum: 21 (Ranked 556)  

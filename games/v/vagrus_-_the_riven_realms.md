@@ -24,6 +24,7 @@
 | Courier | 6.00% | ~13 |
 | Pilgrimage's End | 6.00% | ~13 |
 | Deputized | 5.00% | ~11 |
+| Been There | 5.00% | ~11 |
 | Spiritual Journey | 5.00% | ~11 |
 | Merchant | 5.00% | ~11 |
 | Trouble at Fort Larius | 5.00% | ~11 |
@@ -31,7 +32,6 @@
 | Potential Unlocked | 4.00% | ~9 |
 | The Voice of Hereafter | 4.00% | ~9 |
 | Despised | 4.00% | ~9 |
-| Been There | 4.00% | ~9 |
 | Inquisitions of Discord | 4.00% | ~9 |
 | Unseen Patterns | 4.00% | ~9 |
 | Bounty Hunter | 3.00% | ~7 |

@@ -12,7 +12,7 @@ Number of Ratings: 63  (23.09.2022)
 | There is No Escape | 71.00% | ~3,691 |
 | Fun, Flirty, and Thirty | 63.00% | ~3,275 |
 | Royal Flush | 62.00% | ~3,223 |
-| Timber! | 60.00% | ~3,119 |
+| Timber! | 61.00% | ~3,171 |
 | Survive the Bombsequences | 59.00% | ~3,067 |
 | Killed 20 Jerks | 54.00% | ~2,807 |
 | Death Defied | 54.00% | ~2,807 |

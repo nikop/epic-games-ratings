@@ -2,13 +2,13 @@
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
   "ProductSlug": "honkai-impact-3rd",
-  "Ranking_Rating": 599,
+  "Ranking_Rating": 598,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 537,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 538,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-10-27T06:00:00+00:00",
     "PcReleaseDate": null,
@@ -9557,10 +9557,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 11894,
       "NumberOfAwardsMax": 3166
+    },
+    {
+      "Time": "2023-12-17T18:59:20.5751689+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 11898,
+      "NumberOfAwardsMax": 3166
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11894,
+  "NumberOfAwards": 11898,
   "NumberOfAwardsMax": 3166,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9592,7 +9598,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 534
+      "Count": 536
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9640,7 +9646,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 618
+      "Count": 620
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -9661,8 +9667,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2023-12-17T17:58:54.9501526+00:00",
+  "LastChanged": "2023-12-17T18:59:20.5751688+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:50.0031913+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:58:54.9501531+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:06:13.5087665+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:59:20.5751693+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:06:37.446671+00:00"
 }

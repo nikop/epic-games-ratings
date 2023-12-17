@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Alone with Them | 72.00% | ~235 |
-| Forced to Kill | 69.00% | ~225 |
+| Forced to Kill | 69.00% | ~226 |
 | A Night To Remember | 41.00% | ~134 |
 | Safe...For now? | 35.00% | ~114 |
 | Open Sesame | 30.00% | ~98 |
@@ -16,7 +16,7 @@
 | Alone In The Dark | 14.00% | ~46 |
 | The Cultists | 14.00% | ~46 |
 | The Forgotten Tower | 14.00% | ~46 |
-| Parasite Exterminated | 13.00% | ~42 |
+| Parasite Exterminated | 13.00% | ~43 |
 | Trapped | 12.00% | ~39 |
 | Modern Player | 11.00% | ~36 |
 | Lover of classics | 10.00% | ~33 |
@@ -45,7 +45,7 @@
 | Nightmare Over | 0.30% | ~1 |
 | Survival Horror | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 326 (Ranked 361)  
+Progressed: 327 (Ranked 361)  
 Completed: 1 (0.31%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 1 (0.31%) (Ranked 242)
 | 2023-12-09 | 317 | 1 |
 | 2023-12-14 | 321 | 1 |
 | 2023-12-16 | 324 | 1 |
-| 2023-12-17 | 326 | 1 |
+| 2023-12-17 | 327 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

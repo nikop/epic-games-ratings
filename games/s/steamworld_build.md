@@ -13,7 +13,7 @@
 | Tutti Frutti | 54.00% | ~69 |
 | Gotta Go Fast | 42.00% | ~54 |
 | Slotting Machine | 38.00% | ~49 |
-| Systematic | 35.00% | ~45 |
+| Systematic | 36.00% | ~46 |
 | Mine Sweeper | 33.00% | ~42 |
 | Roll Out | 32.00% | ~41 |
 | Dopa-Miner | 23.00% | ~29 |

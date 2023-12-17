@@ -4,8 +4,8 @@
   "ProductSlug": "ghost-master-2-7b7040",
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 537,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 538,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-07-08T04:00:00+00:00",
     "PcReleaseDate": "2003-08-23T04:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:10.1197386+00:00",
   "LastChanged": "2023-03-31T05:57:10.1197387+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:11.6113872+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:02:46.1841423+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:03:51.8038727+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:57:00.7897686+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:03:59.1789044+00:00"
 }

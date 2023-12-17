@@ -2,10 +2,10 @@
   "ID": "0eb6d6e85bfe442b87cb1172415d35fb",
   "Name": "Airport CEO",
   "ProductSlug": "airport-ceo-442ecc",
-  "Ranking_EOS_Progress": 517,
+  "Ranking_EOS_Progress": 516,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 462,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 440,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 51,
+  "EOS_Progressed": 52,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -284,6 +284,11 @@
       "Time": "2023-12-16T11:07:54.6571931+00:00",
       "NumProgressed": 51,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T19:03:16.1077443+00:00",
+      "NumProgressed": 52,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
@@ -302,7 +307,7 @@
       "ID": "AndIWouldFly500Miles",
       "SetID": "d11cl5p",
       "Name": "And I would fly 500 miles",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -310,7 +315,7 @@
       "ID": "AvianVeterinarian",
       "SetID": "d11cl5p",
       "Name": "Avian veterinarian",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -334,7 +339,7 @@
       "ID": "DoABarrelRoll",
       "SetID": "d11cl5p",
       "Name": "Do a barrel roll!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -406,7 +411,7 @@
       "ID": "NouveauRiche",
       "SetID": "d11cl5p",
       "Name": "Nouveau riche",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -478,7 +483,7 @@
       "ID": "SmallAirfield",
       "SetID": "d11cl5p",
       "Name": "Small airfield",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 25,
       "UsersEstimate": 31
     },
@@ -486,7 +491,7 @@
       "ID": "TakeMeToYourHeaven",
       "SetID": "d11cl5p",
       "Name": "Take me to your heaven",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 10
     },
@@ -494,7 +499,7 @@
       "ID": "TakingOff",
       "SetID": "d11cl5p",
       "Name": "Taking off",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 10,
       "UsersEstimate": 39
     },
@@ -550,7 +555,7 @@
       "ID": "WhenIsTheNextDevBlog",
       "SetID": "d11cl5p",
       "Name": "\u0022When is the next dev blog?\u0022",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -567,14 +572,14 @@
     {
       "ID": "d11cl5p",
       "IsBase": true,
-      "Progressed": 51,
+      "Progressed": 52,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:03:13.1924349+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:03:16.107744+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.0865753+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:57:16.986958+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:03:13.1924653+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:57:25.7623392+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:03:16.10777+00:00"
 }

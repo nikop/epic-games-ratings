@@ -4,8 +4,8 @@
   "ProductSlug": "tangles-e99298",
   "Ranking_EOS_Progress": 672,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 462,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-21T14:30:00+00:00",
     "PcReleaseDate": "2023-12-21T14:30:00+00:00",
@@ -81,25 +81,25 @@
       "ID": "Document3",
       "SetID": "ao2gjap",
       "Name": "Secrets Revealer",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Document4",
       "SetID": "ao2gjap",
       "Name": "Truth Seeker",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Document5",
       "SetID": "ao2gjap",
       "Name": "Master of Secrets",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Perservant",
@@ -127,8 +127,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:08:45.2395857+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:08:44.1859002+00:00",
   "LastUpdate_AppInfo": "2023-12-10T19:56:58.5544762+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:58:49.9830853+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:08:45.2395905+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:59:15.1644929+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:08:44.1859065+00:00"
 }

@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's going on here? | 87.00% | ~231 |
-| Brute force | 81.00% | ~215 |
-| Nimble fingers | 77.00% | ~205 |
-| Room 104 | 77.00% | ~205 |
-| Face to face | 76.00% | ~202 |
-| Now or never | 73.00% | ~194 |
+| What's going on here? | 87.00% | ~232 |
+| Brute force | 81.00% | ~216 |
+| Nimble fingers | 76.00% | ~203 |
+| Room 104 | 76.00% | ~203 |
+| Face to face | 76.00% | ~203 |
+| Now or never | 73.00% | ~195 |
 | Let's play a game… | 72.00% | ~192 |
-| Soundtrack | 61.00% | ~162 |
-| First aid | 58.00% | ~154 |
-| Antidote | 52.00% | ~138 |
-| Pick the right door | 25.00% | ~66 |
+| Soundtrack | 61.00% | ~163 |
+| First aid | 58.00% | ~155 |
+| Antidote | 52.00% | ~139 |
+| Pick the right door | 25.00% | ~67 |
 | The third floor | 18.00% | ~48 |
-| One-way | 17.00% | ~45 |
 | On the right path | 16.00% | ~43 |
+| One-way | 16.00% | ~43 |
 | It can't be true | 15.00% | ~40 |
 | He who seeks, finds! | 13.00% | ~35 |
 | I'm close now | 12.00% | ~32 |
@@ -25,19 +25,19 @@
 | The real escape | 12.00% | ~32 |
 | Good choice | 12.00% | ~32 |
 | Take the long way round | 12.00% | ~32 |
-| Nightmare in the kitchen | 11.00% | ~29 |
-| Born again | 8.00% | ~21 |
+| Nightmare in the kitchen | 10.00% | ~27 |
+| Born again | 7.00% | ~19 |
 | 373 | 6.00% | ~16 |
 | The experiment | 6.00% | ~16 |
 | Matthew's revenge | 6.00% | ~16 |
 | Eva's diary | 2.00% | ~5 |
 | Horror book | 2.00% | ~5 |
-| A dark past | 2.00% | ~5 |
+| A dark past | 1.00% | ~3 |
 | Matthew's mistakes | 0.40% | ~1 |
 | Sly as a fox | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266 (Ranked 380)  
-Completed: 1 (0.38%) (Ranked 229)  
+Progressed: 267 (Ranked 380)  
+Completed: 1 (0.37%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -138,4 +138,4 @@ Completed: 1 (0.38%) (Ranked 229)
 | 2023-12-14 | 258 | 1 |
 | 2023-12-15 | 260 | 1 |
 | 2023-12-16 | 263 | 1 |
-| 2023-12-17 | 266 | 1 |
+| 2023-12-17 | 267 | 1 |

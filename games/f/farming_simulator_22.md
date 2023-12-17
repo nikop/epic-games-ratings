@@ -6,51 +6,51 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 73.00% | ~41,148 |
-| I read Shakespeare and stuff | 61.00% | ~34,384 |
-| Just a sprinkle | 60.00% | ~33,820 |
-| I'm stumped | 58.00% | ~32,693 |
-| Plant get enough | 58.00% | ~32,693 |
-| This is just my weekend vehicle | 56.00% | ~31,566 |
-| It's just the beginning | 56.00% | ~31,566 |
-| Hard work pays off | 51.00% | ~28,747 |
-| It's never too late to farm | 48.00% | ~27,056 |
-| All out of Land | 43.00% | ~24,238 |
-| Field Trip | 42.00% | ~23,674 |
-| I like to switch it up | 39.00% | ~21,983 |
-| Help me to help you | 37.00% | ~20,856 |
-| Ultimutt Pawesomeness | 27.00% | ~15,219 |
-| Van Gogh | 24.00% | ~13,528 |
-| Vehicle fleet | 22.00% | ~12,401 |
-| You wood not believe it | 21.00% | ~11,837 |
-| Clucky Streak | 15.00% | ~8,455 |
-| The plot thickens | 15.00% | ~8,455 |
-| Large-scale supplier | 15.00% | ~8,455 |
-| Well-Oiled Machine | 15.00% | ~8,455 |
-| Long haul | 15.00% | ~8,455 |
-| That's a wrap | 14.00% | ~7,891 |
-| Fix me up | 12.00% | ~6,764 |
-| It's sow easy | 11.00% | ~6,200 |
-| Rock on | 11.00% | ~6,200 |
-| Highly cultivated | 10.00% | ~5,637 |
-| Giddy-up! | 9.00% | ~5,073 |
+| Own use | 73.00% | ~41,156 |
+| I read Shakespeare and stuff | 61.00% | ~34,391 |
+| Just a sprinkle | 60.00% | ~33,827 |
+| I'm stumped | 58.00% | ~32,699 |
+| Plant get enough | 58.00% | ~32,699 |
+| This is just my weekend vehicle | 56.00% | ~31,572 |
+| It's just the beginning | 56.00% | ~31,572 |
+| Hard work pays off | 51.00% | ~28,753 |
+| It's never too late to farm | 48.00% | ~27,061 |
+| All out of Land | 43.00% | ~24,243 |
+| Field Trip | 42.00% | ~23,679 |
+| I like to switch it up | 39.00% | ~21,987 |
+| Help me to help you | 37.00% | ~20,860 |
+| Ultimutt Pawesomeness | 27.00% | ~15,222 |
+| Van Gogh | 24.00% | ~13,531 |
+| Vehicle fleet | 22.00% | ~12,403 |
+| You wood not believe it | 21.00% | ~11,839 |
+| Clucky Streak | 15.00% | ~8,457 |
+| The plot thickens | 15.00% | ~8,457 |
+| Large-scale supplier | 15.00% | ~8,457 |
+| Well-Oiled Machine | 15.00% | ~8,457 |
+| Long haul | 15.00% | ~8,457 |
+| That's a wrap | 14.00% | ~7,893 |
+| Fix me up | 12.00% | ~6,765 |
+| It's sow easy | 11.00% | ~6,202 |
+| Rock on | 11.00% | ~6,202 |
+| Highly cultivated | 10.00% | ~5,638 |
+| Giddy-up! | 9.00% | ~5,074 |
 | Cowherd | 7.00% | ~3,946 |
-| Fluffyness | 6.00% | ~3,382 |
-| Road Trip | 5.00% | ~2,818 |
-| Helper A does not stop … ever | 5.00% | ~2,818 |
-| Bringing in the Honey | 5.00% | ~2,818 |
+| Fluffyness | 6.00% | ~3,383 |
+| Road Trip | 5.00% | ~2,819 |
+| Helper A does not stop … ever | 5.00% | ~2,819 |
+| Bringing in the Honey | 5.00% | ~2,819 |
 | Three little piggies… | 4.00% | ~2,255 |
 | Game on | 4.00% | ~2,255 |
 | Pretty colourful | 0.80% | ~451 |
 | Original grain | 0.80% | ~451 |
 | Thoroughbred! | 0.60% | ~338 |
 | Gone but not for cotton | 0.50% | ~282 |
-| Cheese it | 0.40% | ~225 |
-| Olea europaea | 0.40% | ~225 |
-| You are not a kangaroo | 0.40% | ~225 |
+| Cheese it | 0.40% | ~226 |
+| Olea europaea | 0.40% | ~226 |
+| You are not a kangaroo | 0.40% | ~226 |
 | Raisin the stakes | 0.30% | ~169 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,367 (Ranked 113)  
+Progressed: 56,378 (Ranked 113)  
 Completed: 6 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,23 +291,23 @@ Completed: 6 (0.01%) (Ranked 356)
 | 2023-12-14 | 55,776 | 6 |
 | 2023-12-15 | 55,945 | 6 |
 | 2023-12-16 | 56,176 | 6 |
-| 2023-12-17 | 56,367 | 6 |
+| 2023-12-17 | 56,378 | 6 |
 ## Awards
-Max (Great for Beginners): 5,823  (Ranked 67)  
-Sum: 44,264 (Ranked 34)  
-Diff (max vs sum): 33  
+Max (Great for Beginners): 5,834  (Ranked 66)  
+Sum: 44,286 (Ranked 34)  
+Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,823 |
+| This game is Great for Beginners | 5,834 |
 | This game has Diverse Characters | 4,741 |
 | This game is Educational | 4,460 |
 | This game is Highly Recommended | 4,420 |
-| This game has Quickly Understood Controls | 4,359 |
+| This game has Quickly Understood Controls | 4,363 |
 | This game is Relaxing | 4,350 |
 | This game is Extremely Fun | 4,279 |
 | This game has Amazing Storytelling | 4,180 |
 | This game has Amazing Characters | 3,855 |
-| This game has a Creative Community | 3,797 |
+| This game has a Creative Community | 3,804 |
 | This game has Obsessive Gameplay | 2,386 |
 | This game has Easy Combat | 1,816 |
 ## Ratings History
@@ -647,4 +647,4 @@ Diff (max vs sum): 33
 | 2023-12-14 | 4.68 | - | 5,808 | 44,164 |
 | 2023-12-15 | 4.68 | - | 5,815 | 44,206 |
 | 2023-12-16 | 4.68 | - | 5,823 | 44,254 |
-| 2023-12-17 | 4.68 | - | 5,823 | 44,264 |
+| 2023-12-17 | 4.68 | - | 5,834 | 44,286 |

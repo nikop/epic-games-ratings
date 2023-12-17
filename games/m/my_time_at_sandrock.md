@@ -25,8 +25,8 @@ Number of Ratings: 892  (23.09.2022)
 | Elementary, My Dear | 68.00% | ~404 |
 | Chatterbox | 68.00% | ~404 |
 | Unboxing | 68.00% | ~404 |
+| Better Late than Never | 67.00% | ~398 |
 | Financially Secure | 66.00% | ~392 |
-| Better Late than Never | 66.00% | ~392 |
 | Big Game Hunter | 65.00% | ~386 |
 | Got Served | 64.00% | ~380 |
 | Lifeline Pipeline | 63.00% | ~374 |

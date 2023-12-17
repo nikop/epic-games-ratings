@@ -3,9 +3,9 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 237,
-  "Ranking_EOS_Completed": 329,
+  "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1842,
+  "EOS_Progressed": 1844,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5434,6 +5434,11 @@
       "Time": "2023-12-17T18:09:35.4057849+00:00",
       "NumProgressed": 1842,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T19:09:38.5453421+00:00",
+      "NumProgressed": 1844,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5518,7 +5523,7 @@
       "Name": "The power of the Force",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "achievement_19",
@@ -5542,7 +5547,7 @@
       "Name": "Collector",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "achievement_21",
@@ -5590,7 +5595,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "achievement_27",
@@ -5622,7 +5627,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "achievement_30",
@@ -5670,7 +5675,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1641
     },
     {
       "ID": "achievement_36",
@@ -5686,7 +5691,7 @@
       "Name": "Off to a good start",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1199
     },
     {
       "ID": "achievement_38",
@@ -5718,7 +5723,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "achievement_41",
@@ -5949,13 +5954,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1842,
+      "Progressed": 1844,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1842,
+      "Progressed": 1844,
       "Completed": 1
     }
   ],
@@ -5963,8 +5968,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:09:35.4057845+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:09:38.5453419+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:59:32.087395+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:09:35.4058474+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:00:02.299754+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:09:38.5454029+00:00"
 }

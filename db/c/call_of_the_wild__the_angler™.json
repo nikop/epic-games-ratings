@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -961,9 +961,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7123,
+  "EOS_Progressed": 7126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11401,6 +11401,11 @@
       "Time": "2023-12-17T18:04:58.4970991+00:00",
       "NumProgressed": 7123,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T19:05:13.5827183+00:00",
+      "NumProgressed": 7126,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11452,7 +11457,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -11484,7 +11489,7 @@
       "Name": "License to Gill",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -11492,7 +11497,7 @@
       "Name": "More than a Tourist",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -11514,9 +11519,9 @@
       "ID": "ACHIEVEMENT_014",
       "SetID": "1a05lfd",
       "Name": "Goldfish?",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -11524,7 +11529,7 @@
       "Name": "Going for Gold",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -11532,7 +11537,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -11588,7 +11593,7 @@
       "Name": "No Fin left to give",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_024",
@@ -11644,7 +11649,7 @@
       "Name": "Gonna Need a Bigger Boat",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -11731,13 +11736,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7123,
+      "Progressed": 7126,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6495,
+      "Progressed": 6498,
       "Completed": 113
     }
   ],
@@ -11745,8 +11750,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-15T01:46:12.7842715+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:04:58.4970988+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:05:13.5827181+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:58:40.2553443+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:04:58.4971688+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:59:03.7988882+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:05:13.5827902+00:00"
 }

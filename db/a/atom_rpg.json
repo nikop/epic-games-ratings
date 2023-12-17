@@ -2,13 +2,13 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
-  "Ranking_Rating": 646,
+  "Ranking_Rating": 645,
   "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1411,
+  "EOS_Progressed": 1413,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3383,6 +3383,11 @@
       "Time": "2023-12-17T17:10:30.625302+00:00",
       "NumProgressed": 1411,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T19:09:27.5783155+00:00",
+      "NumProgressed": 1413,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3450,7 +3455,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1399
     },
     {
       "ID": "EXPERT_1",
@@ -3498,7 +3503,7 @@
       "Name": "Indy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "KORALOV",
@@ -3546,7 +3551,7 @@
       "Name": "One HIT wonder",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3554,7 +3559,7 @@
       "Name": "One shot, one kill",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "PACIFIST",
@@ -3610,7 +3615,7 @@
       "Name": "Sacrifice",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "SAVANT_1",
@@ -3681,15 +3686,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1411,
+      "Progressed": 1413,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:09:25.25555+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:09:27.5783153+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.4071615+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:59:54.8108953+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:09:25.2555838+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:00:28.7174784+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:09:27.5783478+00:00"
 }

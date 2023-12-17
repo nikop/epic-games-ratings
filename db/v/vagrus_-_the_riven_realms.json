@@ -4,8 +4,8 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -1244,9 +1244,9 @@
       "ID": "Vanilla_FourCorners",
       "SetID": "27kik8p",
       "Name": "Been There",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "Vanilla_Garrik",
@@ -1661,8 +1661,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:03:32.5634253+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:03:37.6191499+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.1376509+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:57:23.2391174+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:03:32.5635183+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:57:33.2017241+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:03:37.6192463+00:00"
 }

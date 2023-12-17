@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 7.00% | ~207 |
-| This guy... again? | 4.00% | ~118 |
-| Lost and Found | 4.00% | ~118 |
+| Malpractice Assurance | 7.00% | ~208 |
+| This guy... again? | 4.00% | ~119 |
+| Lost and Found | 4.00% | ~119 |
 | This Belongs in a Museum | 3.00% | ~3,843 |
 | Overdue Notice | 3.00% | ~3,843 |
 | Escape from the Black Hole | 3.00% | ~3,843 |
@@ -26,6 +26,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 2.00% | ~2,562 |
 | A Place to Lay Your Head | 2.00% | ~2,562 |
 | FNG | 2.00% | ~2,562 |
+| Nope | 2.00% | ~2,562 |
 | Ploughshares to Swords | 2.00% | ~59 |
 | Friends 'Til the End | 2.00% | ~59 |
 | Resurrection | 1.00% | ~1,281 |
@@ -48,7 +49,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 1.00% | ~1,281 |
 | Whale | 1.00% | ~1,281 |
 | Worldly Traveller | 1.00% | ~1,281 |
-| Nope | 1.00% | ~1,281 |
 | Unshackled | 1.00% | ~1,281 |
 | Road Trip | 1.00% | ~1,281 |
 | When You Want Something Done Right | 0.90% | ~1,153 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,085 (Ranked 85)  
+Progressed: 128,099 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,10 +317,10 @@ Completed: 3 (0.00%) (Ranked 380)
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
-| 2023-12-17 | 128,085 | 3 |
+| 2023-12-17 | 128,099 | 3 |
 ## Awards
 Max (Character Customization): 7,763  (Ranked 50)  
-Sum: 20,669 (Ranked 58)  
+Sum: 20,673 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -329,7 +329,7 @@ Diff (max vs sum): -8
 | This game has Challenging Combat | 1,599 |
 | This game is Highly Recommended | 1,535 |
 | This game is Extremely Fun | 1,465 |
-| This game has Amazing Characters | 1,461 |
+| This game has Amazing Characters | 1,465 |
 | This game has Amazing Storytelling | 1,384 |
 | This game has Unique Visuals | 1,374 |
 | This game has Quickly Understood Controls | 1,350 |
@@ -662,4 +662,4 @@ Diff (max vs sum): -8
 | 2023-12-14 | 4.68 | - | 7,689 | 20,427 |
 | 2023-12-15 | 4.68 | - | 7,718 | 20,517 |
 | 2023-12-16 | 4.68 | - | 7,744 | 20,595 |
-| 2023-12-17 | 4.68 | - | 7,763 | 20,669 |
+| 2023-12-17 | 4.68 | - | 7,763 | 20,673 |

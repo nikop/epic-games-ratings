@@ -1,15 +1,15 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.50 (Ranked 1,063)  
+Rating: 3.51 (Ranked 1,063)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 8.00% | ~153 |
-| Catch and Release | 6.00% | ~114 |
-| Home Is Where the Heart Is | 5.00% | ~95 |
-| ICU | 5.00% | ~95 |
-| Wounded Whispers | 5.00% | ~95 |
+| Catch and Release | 6.00% | ~115 |
+| Home Is Where the Heart Is | 5.00% | ~96 |
+| ICU | 5.00% | ~96 |
+| Wounded Whispers | 5.00% | ~96 |
 | Blood Will Have Blood | 4.00% | ~76 |
 | Ne Plus Ultra | 4.00% | ~76 |
 | Fly Fisher | 4.00% | ~76 |
@@ -37,15 +37,15 @@ Rating: 3.50 (Ranked 1,063)
 | You Clean It Up | 0.80% | ~15 |
 | Check, Please! | 0.80% | ~15 |
 | Nice Try | 0.80% | ~15 |
-| Blacklight Down | 0.70% | ~13 |
+| Blacklight Down | 0.80% | ~15 |
 | Revelations | 0.60% | ~11 |
 | Block Party | 0.60% | ~11 |
 | Curious Finch | 0.60% | ~11 |
+| Dexterity Save | 0.50% | ~10 |
 | Sisterhood | 0.40% | ~8 |
 | What Lies Below | 0.40% | ~8 |
 | Bloody Initiate | 0.40% | ~8 |
 | Right This Way | 0.40% | ~8 |
-| Dexterity Save | 0.40% | ~8 |
 | Neighborhood Watch | 0.30% | ~6 |
 | Blood Brother | 0.30% | ~6 |
 | Friendgineering | 0.30% | ~6 |
@@ -72,7 +72,7 @@ Rating: 3.50 (Ranked 1,063)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,908 (Ranked 235)  
+Progressed: 1,910 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 1,810 | 0 |
 | 2023-12-15 | 1,843 | 0 |
 | 2023-12-16 | 1,886 | 0 |
-| 2023-12-17 | 1,908 | 0 |
+| 2023-12-17 | 1,910 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -13,7 +13,7 @@
 | Experienced Thalya | 71.00% | ~414 |
 | Thalya's Concentrated Fury | 68.00% | ~396 |
 | Bad Elves Go Everywhere | 68.00% | ~396 |
-| Heroes’ Gorge | 64.00% | ~373 |
+| Heroes’ Gorge | 65.00% | ~379 |
 | Master of Magic | 63.00% | ~367 |
 | Unicorn steaks – fresh off the hoof! | 61.00% | ~356 |
 | Magic Accidents | 59.00% | ~344 |
@@ -22,7 +22,7 @@
 | Trap Master | 55.00% | ~321 |
 | Minions, Minions! | 54.00% | ~315 |
 | The Big Eaty | 54.00% | ~315 |
-| Hard Work | 52.00% | ~303 |
+| Hard Work | 53.00% | ~309 |
 | “… like son” | 51.00% | ~297 |
 | YOU SHALL NOT PASS! | 50.00% | ~292 |
 | The Cathedral of Light | 47.00% | ~274 |
@@ -30,7 +30,7 @@
 | Shame! Shame! Shame! | 46.00% | ~268 |
 | Pure Dynamite! | 45.00% | ~262 |
 | Tanos' Crusade Against Thalya | 44.00% | ~257 |
-| Mana Cannon | 41.00% | ~239 |
+| Mana Cannon | 42.00% | ~245 |
 | All’s Well That Ends Evil | 38.00% | ~222 |
 | The Duel | 35.00% | ~204 |
 | Unstoppable Horde | 34.00% | ~198 |
@@ -52,9 +52,9 @@
 | The Last Stand - This Time For Real! | 20.00% | ~117 |
 | Rubble and Ashes | 19.00% | ~111 |
 | My Little Torture Chamber | 18.00% | ~105 |
+| To Infinity And Beyond! | 18.00% | ~105 |
 | Lavalumps on Ice! | 17.00% | ~99 |
 | To the Max! | 17.00% | ~99 |
-| To Infinity And Beyond! | 17.00% | ~99 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~93 |
 | Evilification | 15.00% | ~87 |
 | Mirror, Mirror | 14.00% | ~82 |

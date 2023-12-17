@@ -2,13 +2,13 @@
   "ID": "03ecca4e19a9483aa05b3d99948c43ce",
   "Name": "Tom Clancy\u0027s The Division",
   "ProductSlug": "the-division",
-  "Ranking_Rating": 442,
+  "Ranking_Rating": 443,
   "Ranking_Popularity": 235,
   "Ranking_PopularitySum": 257,
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 537,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 538,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2016-03-08T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2847,5 +2847,5 @@
   "LastChanged": "2023-12-17T13:03:08.1107777+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:31.6156235+00:00",
   "LastUpdate_Ratings": "2023-12-17T18:00:14.3200518+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:05:39.9371641+00:00"
+  "LastUpdate_Achievements": "2023-12-17T19:05:59.7226211+00:00"
 }

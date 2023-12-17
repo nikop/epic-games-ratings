@@ -2,13 +2,13 @@
   "ID": "d84e1be6c7764408b3d0f610c84cb8ea",
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
-  "Ranking_Rating": 1008,
+  "Ranking_Rating": 1007,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
-  "Ranking_EOS_Progress": 300,
+  "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 661,
+  "EOS_Progressed": 662,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2948,6 +2948,11 @@
       "Time": "2023-12-17T16:04:18.7798301+00:00",
       "NumProgressed": 661,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T19:04:27.9766818+00:00",
+      "NumProgressed": 662,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -3054,7 +3059,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 661,
+      "Progressed": 662,
       "Completed": 0
     }
   ],
@@ -3062,8 +3067,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:04:17.4810078+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:04:27.9766814+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.8922403+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:59:18.982749+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:04:17.4810332+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:59:47.4398465+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:04:27.9767068+00:00"
 }

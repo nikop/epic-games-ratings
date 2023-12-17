@@ -2,7 +2,7 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 684,
+  "Ranking_Rating": 683,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 122,
@@ -587,9 +587,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43943,
+  "EOS_Progressed": 43947,
   "EOS_Completed": 214,
-  "EOS_NewPlayers": 797,
+  "EOS_NewPlayers": 792,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -10937,6 +10937,11 @@
       "Time": "2023-12-17T18:08:46.6214373+00:00",
       "NumProgressed": 43943,
       "NumCompleted": 214
+    },
+    {
+      "Time": "2023-12-17T19:08:45.7194475+00:00",
+      "NumProgressed": 43947,
+      "NumCompleted": 214
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -10949,7 +10954,7 @@
       "Name": "Descendants",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6591
+      "UsersEstimate": 6592
     },
     {
       "ID": "ACH_BLUEEND",
@@ -10957,7 +10962,7 @@
       "Name": "The Flawed Teacher",
       "Percentage": 12,
       "XP": 120,
-      "UsersEstimate": 5273
+      "UsersEstimate": 5274
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -11085,7 +11090,7 @@
       "Name": "Infinity Loop",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 7470
+      "UsersEstimate": 7471
     },
     {
       "ID": "ACH_HUB1",
@@ -11093,7 +11098,7 @@
       "Name": "Mission Success",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 10107
+      "UsersEstimate": 10108
     },
     {
       "ID": "ACH_HUB2",
@@ -11101,7 +11106,7 @@
       "Name": "Path to Salvation",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7470
+      "UsersEstimate": 7471
     },
     {
       "ID": "ACH_OASIS",
@@ -11109,7 +11114,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22850
+      "UsersEstimate": 22852
     },
     {
       "ID": "ACH_PEAK",
@@ -11117,7 +11122,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 10107
+      "UsersEstimate": 10108
     },
     {
       "ID": "ACH_PROPELL",
@@ -11141,7 +11146,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 29881
+      "UsersEstimate": 29884
     },
     {
       "ID": "ACH_S4",
@@ -11149,7 +11154,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 21972
+      "UsersEstimate": 21974
     },
     {
       "ID": "ACH_S5",
@@ -11157,7 +11162,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 15819
+      "UsersEstimate": 15821
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -11165,7 +11170,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 32957
+      "UsersEstimate": 32960
     },
     {
       "ID": "ACH_STATUE",
@@ -11173,22 +11178,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 18895
+      "UsersEstimate": 18897
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 43943,
+      "Progressed": 43947,
       "Completed": 214
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-17T06:58:25.2845688+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:08:46.621437+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:08:45.7194472+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:08.0533856+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:58:26.8158757+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:08:46.6215008+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:58:47.4950911+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:08:45.7195182+00:00"
 }

@@ -1,12 +1,12 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.59 (Ranked 442)  
+Rating: 4.59 (Ranked 443)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Read Between The Lines | 63.00% | ~772 |
-| To Hell In A Handcart | 61.00% | ~747 |
+| To Hell In A Handcart | 62.00% | ~760 |
 | High Profile | 54.00% | ~662 |
 | Whispers In The Dark | 51.00% | ~625 |
 | Fond Memories | 50.00% | ~612 |
@@ -16,16 +16,16 @@ Rating: 4.59 (Ranked 442)
 | Gaze Into The Abyss | 43.00% | ~527 |
 | Open Sesame | 43.00% | ~527 |
 | Sticky Fingers | 43.00% | ~527 |
+| Knives Out | 43.00% | ~527 |
 | Lock, Stock, And Barrel | 42.00% | ~514 |
-| Knives Out | 42.00% | ~514 |
+| Back In The Saddle | 42.00% | ~514 |
 | Land, Ho! | 42.00% | ~514 |
-| Back In The Saddle | 41.00% | ~502 |
 | No Man Is An Island | 40.00% | ~490 |
 | At Wits' End | 39.00% | ~478 |
+| Bookworm | 37.00% | ~453 |
 | Up In Flames | 37.00% | ~453 |
 | Fhtagn! | 37.00% | ~453 |
 | Going Once... | 36.00% | ~441 |
-| Bookworm | 36.00% | ~441 |
 | Let Me Be Frank | 34.00% | ~417 |
 | No Stone Unturned | 31.00% | ~380 |
 | Brain Food | 30.00% | ~368 |
@@ -35,7 +35,7 @@ Rating: 4.59 (Ranked 442)
 | Reawakened | 3.00% | ~37 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,225 (Ranked 258)  
-Completed: 33 (2.69%) (Ranked 118)  
+Completed: 33 (2.69%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "ed8b8463b9a34638b64bb8e5575b8f4e",
   "Name": "The Isle Tide Hotel",
   "ProductSlug": "the-isle-tide-hotel-adf588",
-  "Ranking_EOS_Progress": 482,
+  "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81,
+  "EOS_Progressed": 82,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.23,
+  "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
     {
       "Time": "2023-09-12T13:07:07.5986891+00:00",
@@ -419,6 +419,11 @@
       "Time": "2023-12-17T07:09:15.9438179+00:00",
       "NumProgressed": 81,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T19:09:19.6926751+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:04:17.2869306+00:00",
@@ -437,7 +442,7 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
       "UsersEstimate": 62
     },
@@ -469,7 +474,7 @@
       "ID": "good_cop_bad_cop",
       "SetID": "7i36ba9",
       "Name": "Good Cop, Bad Cop",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -485,7 +490,7 @@
       "ID": "join_the_legal_team",
       "SetID": "7i36ba9",
       "Name": "Join the Legal Team",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -501,7 +506,7 @@
       "ID": "knock_knockout",
       "SetID": "7i36ba9",
       "Name": "Knock, Knockout",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -517,7 +522,7 @@
       "ID": "passive_fist",
       "SetID": "7i36ba9",
       "Name": "Passive Fist",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
       "UsersEstimate": 15
     },
@@ -605,7 +610,7 @@
       "ID": "the_price_is_right",
       "SetID": "7i36ba9",
       "Name": "The Price is Right",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
       "UsersEstimate": 56
     },
@@ -638,14 +643,14 @@
     {
       "ID": "7i36ba9",
       "IsBase": true,
-      "Progressed": 81,
+      "Progressed": 82,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:09:17.5574662+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:09:19.6926749+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:10.0587868+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:57:57.791041+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:09:17.5574789+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:58:12.6543874+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:09:19.6926987+00:00"
 }

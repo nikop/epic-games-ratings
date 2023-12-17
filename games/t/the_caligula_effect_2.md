@@ -1,32 +1,32 @@
 # The Caligula Effect 2
 [Store](https://store.epicgames.com/en-US/p/the-caligula-effect-2-a51f60)  
 [View Rawdata](../../db/t/the_caligula_effect_2.json)  
-Rating: 4.44 (Ranked 684)  
+Rating: 4.44 (Ranked 683)  
 Number of Ratings: 32  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 98.00% | ~237 |
-| Daily Life Begins Anew | 82.00% | ~198 |
-| Our World Now | 81.00% | ~196 |
-| Never Saw It Coming | 67.00% | ~162 |
-| Coup de Grace | 58.00% | ~140 |
+| Welcome to Redo | 98.00% | ~238 |
+| Daily Life Begins Anew | 81.00% | ~197 |
+| Our World Now | 81.00% | ~197 |
+| Never Saw It Coming | 66.00% | ~160 |
+| Coup de Grace | 58.00% | ~141 |
 | Go-Home Club Activities START! | 49.00% | ~119 |
-| Philanthropist | 39.00% | ~94 |
-| Test Your Luck | 34.00% | ~82 |
+| Philanthropist | 39.00% | ~95 |
+| Test Your Luck | 34.00% | ~83 |
 | Behind the Curtain | 33.00% | ~80 |
 | Master of Surprise | 30.00% | ~73 |
-| Be Who You Wanna Be | 27.00% | ~65 |
-| Investment Ban-χ-ing | 25.00% | ~60 |
-| Counter Champion | 25.00% | ~60 |
+| Be Who You Wanna Be | 27.00% | ~66 |
+| Investment Ban-χ-ing | 25.00% | ~61 |
+| Counter Champion | 25.00% | ~61 |
 | Friendly Neighborhood | 24.00% | ~58 |
 | Combo Commando | 24.00% | ~58 |
 | One-Track Mind | 23.00% | ~56 |
 | Nice Doing Business | 23.00% | ~56 |
 | Stay Winning | 23.00% | ~56 |
 | WIRE Guru | 21.00% | ~51 |
-| The Greater Good | 20.00% | ~48 |
-| Depths of the Heart | 20.00% | ~48 |
+| The Greater Good | 20.00% | ~49 |
+| Depths of the Heart | 20.00% | ~49 |
 | Selfish Decisions | 19.00% | ~46 |
 | Extracurricular Affair | 19.00% | ~46 |
 | Lost Souls For Sale | 19.00% | ~46 |
@@ -56,8 +56,8 @@ Number of Ratings: 32  (23.09.2022)
 | Topical Conversationalist | 1.00% | ~2 |
 | The Caligula Effect 2 | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242 (Ranked 388)  
-Completed: 2 (0.83%) (Ranked 183)  
+Progressed: 243 (Ranked 388)  
+Completed: 2 (0.82%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,6 +75,7 @@ Completed: 2 (0.83%) (Ranked 183)
 | 2023-11-23 | 240 | 2 |
 | 2023-11-28 | 241 | 2 |
 | 2023-12-15 | 242 | 2 |
+| 2023-12-17 | 243 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,11 +4,11 @@
   "ProductSlug": "far-cry-3",
   "Ranking_Rating": 200,
   "Ranking_Popularity": 217,
-  "Ranking_PopularitySum": 306,
+  "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 537,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 538,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2013-01-15T10:00:00+00:00",
     "PcReleaseDate": null,
@@ -1572,10 +1572,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 690,
       "NumberOfAwardsMax": 479
+    },
+    {
+      "Time": "2023-12-17T18:59:02.5327452+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 691,
+      "NumberOfAwardsMax": 479
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 690,
+  "NumberOfAwards": 691,
   "NumberOfAwardsMax": 479,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1595,7 +1601,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1645,8 +1651,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2023-12-17T02:23:24.1885983+00:00",
+  "LastChanged": "2023-12-17T18:59:02.532745+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.9287627+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:58:38.8854727+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:08:36.142902+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:59:02.5327456+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:08:33.6856065+00:00"
 }

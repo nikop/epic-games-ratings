@@ -5,33 +5,33 @@ Rating: 3.83 (Ranked 1,044)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,682 |
-| The First Step | 89.00% | ~1,527 |
-| Moonbury Traveller | 64.00% | ~1,098 |
-| Rookie Chemist | 62.00% | ~1,064 |
-| Great Doctor | 51.00% | ~875 |
-| Dog Whisperer | 49.00% | ~841 |
+| Welcome to Moonbury | 98.00% | ~1,684 |
+| The First Step | 88.00% | ~1,512 |
+| Moonbury Traveller | 64.00% | ~1,100 |
+| Rookie Chemist | 62.00% | ~1,065 |
+| Great Doctor | 51.00% | ~876 |
+| Dog Whisperer | 49.00% | ~842 |
 | Friendly | 47.00% | ~807 |
-| K.O.! | 44.00% | ~755 |
-| The Capitalist | 44.00% | ~755 |
-| Intermediate Chemist | 40.00% | ~686 |
-| Decorative Mind | 32.00% | ~549 |
-| Lumber Specialist | 32.00% | ~549 |
-| Kind-hearted | 26.00% | ~446 |
-| Catch of the Day | 25.00% | ~429 |
+| The Capitalist | 44.00% | ~756 |
+| K.O.! | 43.00% | ~739 |
+| Intermediate Chemist | 40.00% | ~687 |
+| Decorative Mind | 32.00% | ~550 |
+| Lumber Specialist | 32.00% | ~550 |
+| Kind-hearted | 26.00% | ~447 |
+| Catch of the Day | 25.00% | ~430 |
 | Amateur Chef | 23.00% | ~395 |
-| Fishing Guru | 21.00% | ~360 |
+| Fishing Guru | 21.00% | ~361 |
 | Spark of Love | 18.00% | ~309 |
 | Community Helper | 18.00% | ~309 |
-| Expert Chemist | 15.00% | ~257 |
-| Stone Specialist | 14.00% | ~240 |
+| Expert Chemist | 15.00% | ~258 |
+| Stone Specialist | 14.00% | ~241 |
 | Sociable | 13.00% | ~223 |
 | Ablutomaniac | 13.00% | ~223 |
 | Line Cook | 12.00% | ~206 |
 | Good Samaritan | 11.00% | ~189 |
 | Production Sorter | 11.00% | ~189 |
 | Acrobatic Adventurer | 10.00% | ~172 |
-| Animal Exterminator | 9.00% | ~154 |
+| Animal Exterminator | 9.00% | ~155 |
 | Adolescent Love | 6.00% | ~103 |
 | Mail Carrier | 6.00% | ~103 |
 | Plantation Exterminator | 5.00% | ~86 |
@@ -44,7 +44,7 @@ Rating: 3.83 (Ranked 1,044)
 | Moonbury Navigator | 1.00% | ~17 |
 | Being a donut... | 0.70% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,716 (Ranked 240)  
+Progressed: 1,718 (Ranked 240)  
 Completed: 10 (0.58%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 10 (0.58%) (Ranked 199)
 | 2023-12-14 | 1,687 | 10 |
 | 2023-12-15 | 1,695 | 10 |
 | 2023-12-16 | 1,708 | 10 |
-| 2023-12-17 | 1,716 | 10 |
+| 2023-12-17 | 1,718 | 10 |
 ## Awards
 Max (Character Customization): 69  (Ranked 410)  
 Sum: 69 (Ranked 478)  

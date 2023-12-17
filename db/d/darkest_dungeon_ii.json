@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9760,10 +9760,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20669,
       "NumberOfAwardsMax": 7763
+    },
+    {
+      "Time": "2023-12-17T18:58:03.9657789+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20673,
+      "NumberOfAwardsMax": 7763
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20669,
+  "NumberOfAwards": 20673,
   "NumberOfAwardsMax": 7763,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9807,7 +9813,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1461
+      "Count": 1465
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9840,9 +9846,9 @@
       "Count": 1018
     }
   ],
-  "EOS_Progressed": 128085,
+  "EOS_Progressed": 128099,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2043,
+  "EOS_NewPlayers": 2051,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35520,6 +35526,11 @@
       "Time": "2023-12-17T18:08:42.1444005+00:00",
       "NumProgressed": 128085,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T19:08:40.8375312+00:00",
+      "NumProgressed": 128099,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35977,9 +35988,9 @@
       "ID": "run_end_abandon",
       "SetID": "64l4lke",
       "Name": "Nope",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1281
+      "UsersEstimate": 2562
     },
     {
       "ID": "run_victory_act01",
@@ -36067,7 +36078,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "combat_kill_collector",
@@ -36075,7 +36086,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36131,7 +36142,7 @@
       "Name": "Lost and Found",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36162,21 +36173,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128085,
+      "Progressed": 128099,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2954,
+      "Progressed": 2968,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-17T17:57:50.1204647+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:08:42.1444002+00:00",
+  "LastChanged": "2023-12-17T18:58:03.9657788+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:08:40.8375308+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:57:50.1204656+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:08:42.1445967+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:58:03.9657795+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:08:40.8376829+00:00"
 }

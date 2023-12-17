@@ -1,15 +1,15 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.04 (Ranked 1,008)  
+Rating: 4.04 (Ranked 1,007)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,249 |
-| World Map | 78.00% | ~2,725 |
-| Temple of Eternals | 56.00% | ~1,957 |
-| Prestigious | 53.00% | ~1,852 |
-| Fellowship Power | 42.00% | ~1,467 |
+| Victor | 93.00% | ~3,251 |
+| World Map | 78.00% | ~2,727 |
+| Temple of Eternals | 56.00% | ~1,958 |
+| Prestigious | 53.00% | ~1,853 |
+| Fellowship Power | 42.00% | ~1,468 |
 | Full Party | 24.00% | ~839 |
 | Guild Power | 23.00% | ~804 |
 | Prestigious x10 | 21.00% | ~734 |
@@ -22,17 +22,17 @@ Rating: 4.04 (Ranked 1,008)
 | Dragon Master | 13.00% | ~454 |
 | Enlightenment | 13.00% | ~454 |
 | Lieutenant | 13.00% | ~454 |
-| Milestone collector | 11.00% | ~384 |
-| Mysterious Rock | 11.00% | ~384 |
-| Natural Talent | 11.00% | ~384 |
-| Superior | 11.00% | ~384 |
-| The Unstoppable | 11.00% | ~384 |
-| Scientist | 10.00% | ~349 |
-| Challenger | 9.00% | ~314 |
-| Daily Quest Completionist | 9.00% | ~314 |
-| Doing My Part | 9.00% | ~314 |
-| Hunter | 9.00% | ~314 |
-| The power of Awakening | 9.00% | ~314 |
+| Milestone collector | 11.00% | ~385 |
+| Mysterious Rock | 11.00% | ~385 |
+| Natural Talent | 11.00% | ~385 |
+| Superior | 11.00% | ~385 |
+| The Unstoppable | 11.00% | ~385 |
+| Scientist | 10.00% | ~350 |
+| Challenger | 9.00% | ~315 |
+| Daily Quest Completionist | 9.00% | ~315 |
+| Doing My Part | 9.00% | ~315 |
+| Hunter | 9.00% | ~315 |
+| The power of Awakening | 9.00% | ~315 |
 | Frostfire Liberator | 8.00% | ~280 |
 | Mastery | 8.00% | ~280 |
 | Moving Up The Ladder | 8.00% | ~280 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 1,008)
 | Jewel Enchanting | 0.20% | ~7 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,494 (Ranked 212)  
+Progressed: 3,496 (Ranked 212)  
 Completed: 2 (0.06%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 2 (0.06%) (Ranked 321)
 | 2023-12-14 | 3,410 | 2 |
 | 2023-12-15 | 3,437 | 2 |
 | 2023-12-16 | 3,473 | 2 |
-| 2023-12-17 | 3,494 | 2 |
+| 2023-12-17 | 3,496 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 471)  
 Sum: 145 (Ranked 432)  

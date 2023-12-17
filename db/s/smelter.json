@@ -4,8 +4,8 @@
   "ProductSlug": "smelter-97a47b",
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 537,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 538,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-22T00:00:00+00:00",
     "PcReleaseDate": "2022-04-22T00:00:00+00:00",
@@ -451,9 +451,9 @@
       "ID": "SMELTER_SMELT_PART1",
       "SetID": "1g58k92",
       "Name": "Smeltastic!",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SMELTER_SMELT_PART2",
@@ -540,8 +540,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:09:08.4779803+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:09:09.41029+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:03.7391017+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:59:23.4334844+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:09:08.4780135+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:59:52.3003712+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:09:09.4103268+00:00"
 }

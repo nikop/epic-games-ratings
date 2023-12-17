@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 440,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -569,9 +569,9 @@
       "ID": "ADVENTURE",
       "SetID": "40o4f14",
       "Name": "Adventure awaits",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 100,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "BARON",
@@ -769,9 +769,9 @@
       "ID": "SKILLED",
       "SetID": "40o4f14",
       "Name": "Skilled Sentinel",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SNEAKY",
@@ -824,8 +824,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:08:13.4401746+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:08:08.4368347+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:18:55.6989256+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:59:50.4319143+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:08:13.4402053+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:00:23.9573216+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:08:08.4368511+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 646,
+  "Ranking_Rating": 645,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -11383,9 +11383,9 @@
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 1008
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -11479,8 +11479,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-17T18:06:06.7625666+00:00",
+  "LastChanged_Achievements": "2023-12-17T19:06:29.9980662+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
-  "LastUpdate_Ratings": "2023-12-17T17:57:32.806241+00:00",
-  "LastUpdate_Achievements": "2023-12-17T18:06:06.7626241+00:00"
+  "LastUpdate_Ratings": "2023-12-17T18:57:44.3668432+00:00",
+  "LastUpdate_Achievements": "2023-12-17T19:06:29.9981166+00:00"
 }
