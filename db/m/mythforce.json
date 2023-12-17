@@ -6,9 +6,9 @@
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 192,
-  "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_Completed": 313,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -836,9 +836,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5569,
+  "EOS_Progressed": 5572,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11196,6 +11196,11 @@
       "Time": "2023-12-16T23:06:01.6186601+00:00",
       "NumProgressed": 5569,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-17T00:06:54.7687398+00:00",
+      "NumProgressed": 5572,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11256,7 +11261,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11270,9 +11275,9 @@
       "ID": "MF_Ach_FlawlessVictory",
       "SetID": "9b9n573",
       "Name": "Flawless Victory",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 390
+      "UsersEstimate": 334
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -11296,7 +11301,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -11304,7 +11309,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -11320,7 +11325,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -11358,9 +11363,9 @@
       "ID": "MF_Ach_SpendingSpree",
       "SetID": "9b9n573",
       "Name": "Spending Spree",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1059
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -11368,7 +11373,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -11391,15 +11396,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5569,
+      "Progressed": 5572,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-15T05:01:12.5073089+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:06:01.6186596+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T22:57:11.410244+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:57:29.7580327+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:06:01.6187195+00:00"
+  "LastChanged_Achievements": "2023-12-17T00:06:54.7687394+00:00",
+  "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
+  "LastUpdate_Ratings": "2023-12-16T23:57:51.7544722+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:06:54.7687964+00:00"
 }

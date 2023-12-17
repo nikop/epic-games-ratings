@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What took you so long? | 90.00% | ~38 |
-| Welcome to the Rumbly Lands! | 88.00% | ~37 |
-| Time to Bash Some Heads! | 83.00% | ~35 |
-| Shiny! | 74.00% | ~31 |
-| Deep in the Mounds | 69.00% | ~29 |
+| What took you so long? | 91.00% | ~39 |
+| Welcome to the Rumbly Lands! | 88.00% | ~38 |
+| Time to Bash Some Heads! | 84.00% | ~36 |
+| Shiny! | 74.00% | ~32 |
+| Deep in the Mounds | 67.00% | ~29 |
 | Smeltastic! | 40.00% | ~17 |
-| Locked Away | 36.00% | ~15 |
+| Locked Away | 35.00% | ~15 |
 | A Little Renovating | 33.00% | ~14 |
-| It's a Sign! | 31.00% | ~13 |
-| Deflect This! | 29.00% | ~12 |
+| It's a Sign! | 30.00% | ~13 |
+| Deflect This! | 28.00% | ~12 |
 | My Precious Gems! | 21.00% | ~9 |
 | Just Some Improvements | 21.00% | ~9 |
 | An Unexpected Visitor | 21.00% | ~9 |
@@ -21,8 +21,8 @@
 | A Little Extra Love | 19.00% | ~8 |
 | A New Strategy | 19.00% | ~8 |
 | A Terrible Way to Go | 19.00% | ~8 |
-| Isn't It Beautiful? | 17.00% | ~7 |
-| A Generous Leader | 17.00% | ~7 |
+| Isn't It Beautiful? | 16.00% | ~7 |
+| A Generous Leader | 16.00% | ~7 |
 | Dr. Dreinstein III | 14.00% | ~6 |
 | Orcharion Boost | 14.00% | ~6 |
 | Case Closed | 14.00% | ~6 |
@@ -36,28 +36,28 @@
 | Remains of the Rumbly Lands | 12.00% | ~5 |
 | A Wingman Falls | 12.00% | ~5 |
 | With a Little Help from My Friends | 12.00% | ~5 |
-| Gotta Collect Them All | 10.00% | ~4 |
-| Keeping Things Tidy | 10.00% | ~4 |
-| Scheming Away | 10.00% | ~4 |
-| Eremagu Trial Extraordinaire | 10.00% | ~4 |
-| Scour the Eremagu Domain | 10.00% | ~4 |
-| An Electrifying Personality | 10.00% | ~4 |
-| Back for More? | 10.00% | ~4 |
-| Gurabi Trial Extraordinaire | 10.00% | ~4 |
-| Scour the Gurabi Domain | 10.00% | ~4 |
-| Isn't It Grand? | 10.00% | ~4 |
-| I am the Trial! | 10.00% | ~4 |
-| I Like Rocks! | 10.00% | ~4 |
-| Nutoro Trial Extraordinaire | 10.00% | ~4 |
-| Scour the Nutoro Domain | 10.00% | ~4 |
-| Let the Undershell Flow | 10.00% | ~4 |
-| He Who Smelt It Dealt It | 10.00% | ~4 |
-| Smelter's Got Your Back | 10.00% | ~4 |
-| In Her Prime | 10.00% | ~4 |
-| The More the Merrier | 10.00% | ~4 |
+| Gotta Collect Them All | 9.00% | ~4 |
+| Keeping Things Tidy | 9.00% | ~4 |
+| Scheming Away | 9.00% | ~4 |
+| Eremagu Trial Extraordinaire | 9.00% | ~4 |
+| Scour the Eremagu Domain | 9.00% | ~4 |
+| An Electrifying Personality | 9.00% | ~4 |
+| Back for More? | 9.00% | ~4 |
+| Gurabi Trial Extraordinaire | 9.00% | ~4 |
+| Scour the Gurabi Domain | 9.00% | ~4 |
+| Isn't It Grand? | 9.00% | ~4 |
+| I am the Trial! | 9.00% | ~4 |
+| I Like Rocks! | 9.00% | ~4 |
+| Nutoro Trial Extraordinaire | 9.00% | ~4 |
+| Scour the Nutoro Domain | 9.00% | ~4 |
+| Let the Undershell Flow | 9.00% | ~4 |
+| He Who Smelt It Dealt It | 9.00% | ~4 |
+| Smelter's Got Your Back | 9.00% | ~4 |
+| In Her Prime | 9.00% | ~4 |
+| The More the Merrier | 9.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 530)  
-Completed: 4 (9.52%) (Ranked 43)  
+Progressed: 43 (Ranked 529)  
+Completed: 4 (9.30%) (Ranked 46)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -76,6 +76,7 @@ Completed: 4 (9.52%) (Ranked 43)
 | 2023-09-16 | 40 | 4 |
 | 2023-10-29 | 41 | 4 |
 | 2023-11-28 | 42 | 4 |
+| 2023-12-17 | 43 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

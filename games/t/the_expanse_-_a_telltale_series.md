@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 13.00% | ~2,153 |
+| Oyedang, Kopengs | 13.00% | ~2,154 |
 | Bosmang | 9.00% | ~1,491 |
 | Captain Drummer | 9.00% | ~1,491 |
-| The Pit and the Pirates | 8.00% | ~1,325 |
-| Martian Music | 8.00% | ~1,325 |
-| Drone Dodger | 8.00% | ~1,325 |
-| Celebrations are in Order | 8.00% | ~1,325 |
-| Impossible Objects | 8.00% | ~1,325 |
+| The Pit and the Pirates | 8.00% | ~1,326 |
+| Martian Music | 8.00% | ~1,326 |
+| Drone Dodger | 8.00% | ~1,326 |
+| Celebrations are in Order | 8.00% | ~1,326 |
+| Impossible Objects | 8.00% | ~1,326 |
 | Stogie for Fogey | 7.00% | ~1,160 |
 | Spore Taste | 7.00% | ~1,160 |
-| Safe Cracker | 7.00% | ~176 |
-| Zen Master | 7.00% | ~176 |
-| Madame Undersecretary | 7.00% | ~176 |
+| Safe Cracker | 7.00% | ~177 |
+| Zen Master | 7.00% | ~177 |
+| Madame Undersecretary | 7.00% | ~177 |
 | Call it Even | 6.00% | ~994 |
-| Keep Arjun in Check | 6.00% | ~151 |
-| Data Archivist | 5.00% | ~828 |
-| Drug Gifter | 5.00% | ~828 |
-| Heal Thy Medic | 5.00% | ~828 |
-| Khan's Revenge | 5.00% | ~828 |
+| Keep Arjun in Check | 6.00% | ~152 |
+| Data Archivist | 5.00% | ~829 |
+| Drug Gifter | 5.00% | ~829 |
+| Heal Thy Medic | 5.00% | ~829 |
+| Khan's Revenge | 5.00% | ~829 |
 | Doctor Approved | 4.00% | ~663 |
 | Bottoms up! | 4.00% | ~663 |
 | Thorston Mayer | 4.00% | ~663 |
@@ -41,8 +41,8 @@ Rating: 4.54 (Ranked 535)
 | Scavenger Star | 0.20% | ~33 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,565 (Ranked 152)  
-Completed: 43 (0.26%) (Ranked 250)  
+Progressed: 16,572 (Ranked 152)  
+Completed: 43 (0.26%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -189,6 +189,7 @@ Completed: 43 (0.26%) (Ranked 250)
 | 2023-12-14 | 16,263 | 43 |
 | 2023-12-15 | 16,416 | 43 |
 | 2023-12-16 | 16,565 | 43 |
+| 2023-12-17 | 16,572 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

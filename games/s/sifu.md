@@ -20,10 +20,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 1.00% | ~395 |
 | A Lady's Blood in the Snow | 0.90% | ~6,572 |
 | Qi Gong: Breath | 0.90% | ~6,572 |
-| Project Arena | 0.90% | ~355 |
-| Lady Wing Chun | 0.80% | ~5,841 |
-| Kill Nil | 0.80% | ~5,841 |
-| Path of the Prospect | 0.80% | ~5,841 |
+| Project Arena | 0.90% | ~356 |
+| Lady Wing Chun | 0.80% | ~5,842 |
+| Kill Nil | 0.80% | ~5,842 |
+| Path of the Prospect | 0.80% | ~5,842 |
 | Furious Fists | 0.70% | ~5,111 |
 | I know Kung-Fu | 0.70% | ~5,111 |
 | Take damage to save time | 0.70% | ~5,111 |
@@ -32,8 +32,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 0.60% | ~4,381 |
 | Fight the way you practice | 0.60% | ~237 |
 | Dance of the Praying Mantis | 0.50% | ~3,651 |
-| Bloody Sport | 0.50% | ~197 |
-| Martial Hub | 0.50% | ~197 |
+| Bloody Sport | 0.50% | ~198 |
+| Martial Hub | 0.50% | ~198 |
 | Muk Yan Master | 0.30% | ~2,191 |
 | Tiger on Fire | 0.30% | ~2,191 |
 | Source of Flying Daggers | 0.30% | ~2,191 |
@@ -43,7 +43,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Detective Story | 0.30% | ~2,191 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,191 |
 | Sword Stained With Blood | 0.30% | ~2,191 |
-| The best strikes are the ones we avoid | 0.30% | ~118 |
+| The best strikes are the ones we avoid | 0.30% | ~119 |
 | Drunken Fighter | 0.20% | ~1,460 |
 | Martial Artist | 0.20% | ~1,460 |
 | Knowledge Greed | 0.20% | ~1,460 |
@@ -58,17 +58,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~730 |
 | Be like water my friend | 0.10% | ~730 |
 | Warriors from the Mountain | 0.10% | ~730 |
-| Secure, Protect, Leave | 0.10% | ~39 |
-| Crouching Tiger | 0.10% | ~39 |
-| Hidden Dragon | 0.10% | ~39 |
-| Master of the Flying Assassins | 0.10% | ~39 |
-| Here Cometh the Iceman | 0.10% | ~39 |
-| Fighter in the Pond | 0.10% | ~39 |
-| Bonus Stage | 0.10% | ~39 |
-| A Bit Of Everything, Simultaneously | 0.10% | ~39 |
+| Secure, Protect, Leave | 0.10% | ~40 |
+| Crouching Tiger | 0.10% | ~40 |
+| Hidden Dragon | 0.10% | ~40 |
+| Master of the Flying Assassins | 0.10% | ~40 |
+| Here Cometh the Iceman | 0.10% | ~40 |
+| Fighter in the Pond | 0.10% | ~40 |
+| Bonus Stage | 0.10% | ~40 |
+| A Bit Of Everything, Simultaneously | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,184 (Ranked 24)  
-Completed: 12,954 (1.77%) (Ranked 136)  
+Progressed: 730,208 (Ranked 24)  
+Completed: 12,954 (1.77%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -308,9 +308,10 @@ Completed: 12,954 (1.77%) (Ranked 136)
 | 2023-12-14 | 722,433 | 12,953 |
 | 2023-12-15 | 726,562 | 12,953 |
 | 2023-12-16 | 730,184 | 12,954 |
+| 2023-12-17 | 730,208 | 12,954 |
 ## Awards
 Max (Great Boss Battles): 6,935  (Ranked 55)  
-Sum: 12,172 (Ranked 84)  
+Sum: 12,173 (Ranked 84)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -319,7 +320,7 @@ Diff (max vs sum): -29
 | This game has Challenging Combat | 620 |
 | This game has Amazing Storytelling | 603 |
 | This game has Amazing Characters | 592 |
-| This game is Highly Recommended | 586 |
+| This game is Highly Recommended | 587 |
 | This game has Quickly Understood Controls | 584 |
 | This game is Extremely Fun | 573 |
 | This game has Unique Visuals | 568 |
@@ -662,3 +663,4 @@ Diff (max vs sum): -29
 | 2023-12-14 | 4.82 | - | 6,923 | 12,152 |
 | 2023-12-15 | 4.82 | - | 6,930 | 12,162 |
 | 2023-12-16 | 4.82 | - | 6,935 | 12,172 |
+| 2023-12-17 | 4.82 | - | 6,935 | 12,173 |

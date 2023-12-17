@@ -2,10 +2,10 @@
   "ID": "b022b60ee02545788d645fe353f5ddd6",
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
-  "Ranking_EOS_Progress": 312,
-  "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_Progress": 311,
+  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 585,
+  "EOS_Progressed": 586,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.2,
+  "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
     {
       "Time": "2023-06-26T18:04:48.9323975+00:00",
@@ -2549,6 +2549,11 @@
       "Time": "2023-12-15T22:04:45.140997+00:00",
       "NumProgressed": 585,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-17T00:06:10.4511225+00:00",
+      "NumProgressed": 586,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2568,7 +2573,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2608,7 +2613,7 @@
       "Name": "The path to enlightenment",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2648,7 +2653,7 @@
       "Name": "The court",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -2671,14 +2676,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 585,
+      "Progressed": 586,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:05:22.3403527+00:00",
+  "LastChanged_Achievements": "2023-12-17T00:06:10.4511223+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:05.7189556+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:59:09.5714845+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:05:22.340374+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:59:42.7619+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:06:10.4511372+00:00"
 }

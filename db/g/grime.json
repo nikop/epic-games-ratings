@@ -2,12 +2,12 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 442,
+  "Ranking_Rating": 443,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 78,
-  "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_Completed": 266,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1669,9 +1669,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 162892,
+  "EOS_Progressed": 162901,
   "EOS_Completed": 333,
-  "EOS_NewPlayers": 1005,
+  "EOS_NewPlayers": 1010,
   "EOS_NewCompleters": 60,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -19469,6 +19469,11 @@
       "Time": "2023-12-16T23:04:04.6541671+00:00",
       "NumProgressed": 162892,
       "NumCompleted": 333
+    },
+    {
+      "Time": "2023-12-17T00:04:46.7752264+00:00",
+      "NumProgressed": 162901,
+      "NumCompleted": 333
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -19681,7 +19686,7 @@
       "Name": "Devourer",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -19848,21 +19853,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 162475,
+      "Progressed": 162484,
       "Completed": 1239
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 162892,
+      "Progressed": 162901,
       "Completed": 333
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-15T19:00:09.2990933+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:04:04.6541666+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T23:57:10.1305474+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:57:36.049644+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:04:04.6543099+00:00"
+  "LastChanged_Achievements": "2023-12-17T00:04:46.7752259+00:00",
+  "LastUpdate_AppInfo": "2023-12-16T23:57:23.4801204+00:00",
+  "LastUpdate_Ratings": "2023-12-16T23:57:59.1732562+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:04:46.7753473+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 245,
-  "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1606,
+  "EOS_Progressed": 1608,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2463,6 +2463,11 @@
       "Time": "2023-12-16T23:03:28.2354191+00:00",
       "NumProgressed": 1606,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-17T00:04:06.8569772+00:00",
+      "NumProgressed": 1608,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2474,7 +2479,7 @@
       "Name": "Lovebirds",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "10",
@@ -2498,7 +2503,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "13",
@@ -2530,7 +2535,7 @@
       "Name": "My little pony",
       "Percentage": 19,
       "XP": 70,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "17",
@@ -2538,7 +2543,7 @@
       "Name": "Balding bloot!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "18",
@@ -2642,7 +2647,7 @@
       "Name": "Self-sustainability",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "31",
@@ -2690,7 +2695,7 @@
       "Name": "Ain\u0027t no mountain high enough",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "8",
@@ -2698,7 +2703,7 @@
       "Name": "Over my dead body",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "9",
@@ -2713,15 +2718,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1606,
+      "Progressed": 1608,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:03:28.2354188+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T23:57:06.0236888+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:57:31.2790617+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:03:28.2354469+00:00"
+  "LastChanged_Achievements": "2023-12-17T00:04:06.8569766+00:00",
+  "LastUpdate_AppInfo": "2023-12-16T23:57:21.3116727+00:00",
+  "LastUpdate_Ratings": "2023-12-16T23:57:53.2998331+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:04:06.8570207+00:00"
 }

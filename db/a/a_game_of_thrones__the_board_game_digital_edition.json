@@ -6,7 +6,7 @@
   "Ranking_Popularity": 340,
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 129,
-  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
@@ -1344,11 +1344,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 30542,
+  "EOS_Progressed": 30550,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 507,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.28,
+  "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:51.5611313+00:00",
@@ -27104,6 +27104,11 @@
       "Time": "2023-12-16T23:09:37.5992662+00:00",
       "NumProgressed": 30542,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-12-17T00:10:10.2484757+00:00",
+      "NumProgressed": 30550,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 22,
@@ -27115,7 +27120,7 @@
       "Name": "War of the Five Kings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "1016",
@@ -27139,7 +27144,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "1019",
@@ -27155,7 +27160,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "1021",
@@ -27163,7 +27168,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "1022",
@@ -27187,7 +27192,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "1025",
@@ -27211,7 +27216,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2749
+      "UsersEstimate": 2750
     },
     {
       "ID": "1028",
@@ -27219,7 +27224,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5498
+      "UsersEstimate": 5499
     },
     {
       "ID": "1029",
@@ -27227,7 +27232,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "1030",
@@ -27235,7 +27240,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6108
+      "UsersEstimate": 6110
     },
     {
       "ID": "1031",
@@ -27243,7 +27248,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3970
+      "UsersEstimate": 3972
     },
     {
       "ID": "1032",
@@ -27251,7 +27256,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12217
+      "UsersEstimate": 12220
     },
     {
       "ID": "1033",
@@ -27275,7 +27280,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3970
+      "UsersEstimate": 3972
     },
     {
       "ID": "1036",
@@ -27283,22 +27288,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 30542,
+      "Progressed": 30550,
       "Completed": 84
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-16T17:01:32.5385124+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:09:37.599266+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T22:57:17.8374063+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:00:32.9153882+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:09:37.5994129+00:00"
+  "LastChanged_Achievements": "2023-12-17T00:10:10.2484753+00:00",
+  "LastUpdate_AppInfo": "2023-12-16T23:57:33.5053041+00:00",
+  "LastUpdate_Ratings": "2023-12-17T00:01:15.0224183+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:10:10.2486089+00:00"
 }

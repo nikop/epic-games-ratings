@@ -6,8 +6,8 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 5.00% | ~919 |
-| Overgrown Library | 5.00% | ~919 |
+| Abandoned Settlement | 5.00% | ~920 |
+| Overgrown Library | 5.00% | ~920 |
 | Petrified Necropolis | 4.00% | ~736 |
 | Taking Action | 3.00% | ~552 |
 | Frosts | 3.00% | ~552 |
@@ -24,16 +24,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | Untamed Wilds | 2.00% | ~368 |
 | Homesick | 1.00% | ~184 |
 | Ruined Armory | 1.00% | ~184 |
+| Bandit Camp | 1.00% | ~184 |
 | Fertile Meadows | 1.00% | ~184 |
 | Monastery of the Holy Flame | 1.00% | ~184 |
 | Lost Colonies | 1.00% | ~184 |
 | Watchtower | 1.00% | ~184 |
 | A Real Challenge | 1.00% | ~184 |
-| Bandit Camp | 0.90% | ~165 |
-| Levitating Monument | 0.90% | ~165 |
-| Corrosive Torrent | 0.90% | ~165 |
-| Cursed Lands | 0.90% | ~165 |
-| Trade Baron | 0.90% | ~165 |
+| Levitating Monument | 0.90% | ~166 |
+| Corrosive Torrent | 0.90% | ~166 |
+| Cursed Lands | 0.90% | ~166 |
+| Trade Baron | 0.90% | ~166 |
 | Barren Lands | 0.80% | ~147 |
 | Statue of the Forefathers | 0.80% | ~147 |
 | Ancient Battleground | 0.70% | ~129 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,388 (Ranked 147)  
-Completed: 39 (0.21%) (Ranked 262)  
+Progressed: 18,392 (Ranked 147)  
+Completed: 39 (0.21%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -307,6 +307,7 @@ Completed: 39 (0.21%) (Ranked 262)
 | 2023-12-14 | 18,153 | 40 |
 | 2023-12-15 | 18,272 | 39 |
 | 2023-12-16 | 18,388 | 39 |
+| 2023-12-17 | 18,392 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 227)  
 Sum: 3,264 (Ranked 174)  

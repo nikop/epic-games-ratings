@@ -3,9 +3,9 @@
   "Name": "No Son Of Mine",
   "ProductSlug": "no-son-of-mine-d40aca",
   "Ranking_EOS_Progress": 648,
-  "Ranking_EOS_Completed": 378,
+  "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 527,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-06T15:00:00+00:00",
     "PcReleaseDate": "2023-09-06T15:00:00+00:00",
@@ -161,8 +161,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-26T10:03:17.7378826+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:04:20.0558092+00:00",
+  "LastChanged_Achievements": "2023-12-17T00:05:03.7135254+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:03.1427487+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:58:19.3827981+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:04:20.0558145+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:58:49.2327726+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:05:03.7135385+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Ad Infinitum",
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 469,
-  "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_Completed": 379,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -569,9 +569,9 @@
       "ID": "ACH_HUNGER",
       "SetID": "88d7anj",
       "Name": "Hunger",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_JIGSAW",
@@ -704,8 +704,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:03:23.4779303+00:00",
+  "LastChanged_Achievements": "2023-12-17T00:04:01.5964711+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:00.819001+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:59:05.4485252+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:03:23.4779499+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:59:38.0613531+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:04:01.5964934+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 66,
-  "Ranking_EOS_Completed": 289,
+  "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
@@ -3688,7 +3688,7 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241163,
+  "EOS_Progressed": 241164,
   "EOS_Completed": 299,
   "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 6,
@@ -28458,6 +28458,11 @@
       "Time": "2023-12-16T23:10:07.6908739+00:00",
       "NumProgressed": 241163,
       "NumCompleted": 299
+    },
+    {
+      "Time": "2023-12-17T00:10:36.7035579+00:00",
+      "NumProgressed": 241164,
+      "NumCompleted": 299
     }
   ],
   "TotalAchievements": 138,
@@ -28675,9 +28680,9 @@
       "ID": "ENDHEALTHY",
       "SetID": "5l8oe0h",
       "Name": "Well Prepared",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 965
     },
     {
       "ID": "ENDINGCHOICE",
@@ -28859,9 +28864,9 @@
       "ID": "INTIMIDATE250",
       "SetID": "5l8oe0h",
       "Name": "Become The Nightmare",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 482
     },
     {
       "ID": "KILL100",
@@ -29572,13 +29577,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241163,
+      "Progressed": 241164,
       "Completed": 299
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2643,
+      "Progressed": 2644,
       "Completed": 406
     }
   ],
@@ -29586,8 +29591,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-16T10:57:08.4508717+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:10:07.6908737+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T23:57:10.4929811+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:57:35.9256964+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:10:07.6911346+00:00"
+  "LastChanged_Achievements": "2023-12-17T00:10:36.7035575+00:00",
+  "LastUpdate_AppInfo": "2023-12-16T23:57:23.1397919+00:00",
+  "LastUpdate_Ratings": "2023-12-16T23:57:59.277796+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:10:36.7038273+00:00"
 }

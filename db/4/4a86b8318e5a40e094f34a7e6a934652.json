@@ -3,9 +3,9 @@
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 370,
-  "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1313,9 +1313,9 @@
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -1329,9 +1329,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 154
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1433,17 +1433,17 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 221
+      "UsersEstimate": 224
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 148
     }
   ],
   "AchievementSets": [
@@ -1456,8 +1456,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:03:47.1211699+00:00",
+  "LastChanged_Achievements": "2023-12-17T00:04:27.1949682+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.1278188+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:57:22.1349508+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:03:47.1211897+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:57:43.332692+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:04:27.1949899+00:00"
 }

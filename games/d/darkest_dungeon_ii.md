@@ -41,16 +41,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 1.00% | ~1,278 |
 | Unshackled | 1.00% | ~1,278 |
 | Road Trip | 1.00% | ~1,278 |
-| Resurrection | 0.90% | ~1,150 |
-| Unleash Hell | 0.90% | ~1,150 |
-| Funny Guy | 0.90% | ~1,150 |
-| Long Live the King | 0.90% | ~1,150 |
-| Predator | 0.90% | ~1,150 |
-| Now Stay Dead | 0.90% | ~1,150 |
-| Reverse Banditry | 0.90% | ~1,150 |
+| Resurrection | 0.90% | ~1,151 |
+| Unleash Hell | 0.90% | ~1,151 |
+| Funny Guy | 0.90% | ~1,151 |
+| Long Live the King | 0.90% | ~1,151 |
+| Predator | 0.90% | ~1,151 |
+| Now Stay Dead | 0.90% | ~1,151 |
+| Reverse Banditry | 0.90% | ~1,151 |
+| A Clear Conscience | 0.90% | ~1,151 |
 | Wyrdly Reconstructed | 0.80% | ~1,023 |
 | Boxcar Kid | 0.80% | ~1,023 |
-| A Clear Conscience | 0.80% | ~1,023 |
 | When You Want Something Done Right | 0.80% | ~1,023 |
 | Utopia | 0.80% | ~1,023 |
 | Hope Rekindled | 0.70% | ~895 |
@@ -60,18 +60,18 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 0.60% | ~16 |
 | This Looks Familiar | 0.50% | ~639 |
 | Eyes Up | 0.50% | ~639 |
-| For Old Time' Sake | 0.50% | ~13 |
+| For Old Time' Sake | 0.50% | ~14 |
 | Shrine of Reflection | 0.40% | ~511 |
 | Handled | 0.40% | ~511 |
 | Body of Work | 0.40% | ~511 |
 | Et Tu, Riposte? | 0.40% | ~11 |
-| Clearing the Ledger | 0.30% | ~383 |
+| Clearing the Ledger | 0.30% | ~384 |
+| Triage | 0.30% | ~384 |
 | Maître De La Lame | 0.30% | ~8 |
 | A Life Well Lived | 0.20% | ~256 |
 | The World As It Was | 0.20% | ~256 |
 | Bacon Bits | 0.20% | ~256 |
 | Hat Trick | 0.20% | ~256 |
-| Triage | 0.20% | ~256 |
 | Eidetic | 0.20% | ~256 |
 | Battle Hardened | 0.20% | ~5 |
 | No Mercy | 0.20% | ~5 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 | On This Long Road, We Found Redemption | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,826 (Ranked 85)  
-Completed: 3 (0.00%) (Ranked 378)  
+Progressed: 127,834 (Ranked 85)  
+Completed: 3 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -317,6 +317,7 @@ Completed: 3 (0.00%) (Ranked 378)
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
+| 2023-12-17 | 127,834 | 3 |
 ## Awards
 Max (Character Customization): 7,744  (Ranked 51)  
 Sum: 20,595 (Ranked 58)  

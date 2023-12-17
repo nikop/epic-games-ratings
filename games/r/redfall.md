@@ -9,11 +9,11 @@ Rating: 3.50 (Ranked 1,062)
 | ICU | 5.00% | ~94 |
 | Wounded Whispers | 5.00% | ~94 |
 | Catch and Release | 5.00% | ~94 |
-| Home Is Where the Heart Is | 4.00% | ~75 |
-| Blood Will Have Blood | 4.00% | ~75 |
-| Ne Plus Ultra | 4.00% | ~75 |
-| Fly Fisher | 4.00% | ~75 |
-| Peek-a-boo | 4.00% | ~75 |
+| Home Is Where the Heart Is | 4.00% | ~76 |
+| Blood Will Have Blood | 4.00% | ~76 |
+| Ne Plus Ultra | 4.00% | ~76 |
+| Fly Fisher | 4.00% | ~76 |
+| Peek-a-boo | 4.00% | ~76 |
 | Enter of Your Own Free Will | 3.00% | ~57 |
 | Welcome to the Neighborhood | 3.00% | ~57 |
 | Throw The First Stone | 3.00% | ~57 |
@@ -72,8 +72,8 @@ Rating: 3.50 (Ranked 1,062)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,886 (Ranked 235)  
-Completed: 0 (0.00%) (Ranked 378)  
+Progressed: 1,889 (Ranked 235)  
+Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -190,6 +190,7 @@ Completed: 0 (0.00%) (Ranked 378)
 | 2023-12-14 | 1,810 | 0 |
 | 2023-12-15 | 1,843 | 0 |
 | 2023-12-16 | 1,886 | 0 |
+| 2023-12-17 | 1,889 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

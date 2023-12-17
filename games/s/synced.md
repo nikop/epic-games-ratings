@@ -5,16 +5,16 @@ Rating: 4.15 (Ranked 963)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 37.00% | ~25,887 |
-| As Far Away As Possible | 18.00% | ~12,594 |
-| A Most Unstable Organism | 13.00% | ~9,096 |
-| No Time to Follow Protocol | 10.00% | ~6,997 |
-| Float Like a Butterfly... | 8.00% | ~5,597 |
-| Nano Connoisseur | 6.00% | ~4,198 |
-| In Two Places At Once | 6.00% | ~4,198 |
-| Pulling Your Weight | 3.00% | ~2,099 |
-| Reaping Rivals | 3.00% | ~2,099 |
-| More Power to You | 3.00% | ~2,099 |
+| Your Lucky Day | 37.00% | ~25,897 |
+| As Far Away As Possible | 18.00% | ~12,599 |
+| A Most Unstable Organism | 13.00% | ~9,099 |
+| No Time to Follow Protocol | 10.00% | ~6,999 |
+| Float Like a Butterfly... | 8.00% | ~5,599 |
+| Nano Connoisseur | 6.00% | ~4,200 |
+| In Two Places At Once | 6.00% | ~4,200 |
+| Pulling Your Weight | 3.00% | ~2,100 |
+| Reaping Rivals | 3.00% | ~2,100 |
+| More Power to You | 3.00% | ~2,100 |
 | fifteenth Time's the Charm | 1.00% | ~700 |
 | Gone Rogue | 0.50% | ~350 |
 | Memory Keeper | 0.40% | ~280 |
@@ -22,8 +22,8 @@ Rating: 4.15 (Ranked 963)
 | Past Master | 0.40% | ~280 |
 | Runs for Your Money | 0.30% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,966 (Ranked 104)  
-Completed: 57 (0.08%) (Ranked 310)  
+Progressed: 69,993 (Ranked 104)  
+Completed: 57 (0.08%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -134,13 +134,14 @@ Completed: 57 (0.08%) (Ranked 310)
 | 2023-12-14 | 68,865 | 49 |
 | 2023-12-15 | 69,330 | 57 |
 | 2023-12-16 | 69,966 | 57 |
+| 2023-12-17 | 69,993 | 57 |
 ## Awards
-Max (Great for Beginners): 107  (Ranked 358)  
-Sum: 427 (Ranked 341)  
-Diff (max vs sum): 17  
+Max (Great for Beginners): 109  (Ranked 356)  
+Sum: 429 (Ranked 341)  
+Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 107 |
+| This game is Great for Beginners | 109 |
 | This game has Diverse Characters | 75 |
 | This game has a Competitive Community | 54 |
 | This game is Highly Recommended | 54 |
@@ -243,3 +244,4 @@ Diff (max vs sum): 17
 | 2023-12-14 | 4.15 | 105 | 421 |
 | 2023-12-15 | 4.15 | 107 | 425 |
 | 2023-12-16 | 4.15 | 107 | 427 |
+| 2023-12-17 | 4.15 | 109 | 429 |

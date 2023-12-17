@@ -7,14 +7,15 @@ Rating: 4.61 (Ranked 389)
 | ---- | ---------- | ----- |
 | A Thorny Situation | 0.70% | ~59 |
 | Azoria Beckons | 0.60% | ~51 |
+| ... And Spit Back Out | 0.50% | ~42 |
 | Calm Sailing | 0.40% | ~34 |
 | Break-Net Speed | 0.40% | ~34 |
-| ... And Spit Back Out | 0.40% | ~34 |
 | Bramble Breaker | 0.40% | ~34 |
 | Open the Gate! | 0.30% | ~25 |
 | Clear the Air | 0.30% | ~25 |
 | Search for the Hairy Grell | 0.30% | ~25 |
 | Miner 49er | 0.30% | ~25 |
+| Humble Collector | 0.30% | ~25 |
 | Mist Walker | 0.30% | ~25 |
 | Azorian Anniversary | 0.30% | ~25 |
 | Exit Through The Gift Shop | 0.30% | ~3 |
@@ -22,7 +23,6 @@ Rating: 4.61 (Ranked 389)
 | Fae Farmer | 0.20% | ~17 |
 | Lumberjack | 0.20% | ~17 |
 | Beach Comber | 0.20% | ~17 |
-| Humble Collector | 0.20% | ~17 |
 | Higher Tax Bracket | 0.20% | ~17 |
 | I Now Pronounce You... | 0.20% | ~17 |
 | Chatty Neighbor | 0.20% | ~17 |
@@ -50,7 +50,7 @@ Rating: 4.61 (Ranked 389)
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,476 (Ranked 177)  
-Completed: 1 (0.01%) (Ranked 354)  
+Completed: 1 (0.01%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

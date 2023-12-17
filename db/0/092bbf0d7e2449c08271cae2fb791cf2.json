@@ -2,8 +2,8 @@
   "ID": "092bbf0d7e2449c08271cae2fb791cf2",
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
-  "Ranking_EOS_Progress": 426,
-  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_Progress": 425,
+  "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131,
+  "EOS_Progressed": 132,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -439,6 +439,11 @@
       "Time": "2023-12-16T21:04:52.0614448+00:00",
       "NumProgressed": 131,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T00:04:21.3043203+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -451,15 +456,15 @@
       "Name": "Good Morning",
       "Percentage": 11,
       "XP": 145,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 145,
-      "UsersEstimate": 60
+      "UsersEstimate": 59
     },
     {
       "ID": "ach3",
@@ -506,14 +511,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 131,
+      "Progressed": 132,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:03:41.5111856+00:00",
+  "LastChanged_Achievements": "2023-12-17T00:04:21.30432+00:00",
   "LastUpdate_AppInfo": "2023-12-13T18:57:12.2683005+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:57:39.4271259+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:03:41.5111932+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:58:03.1129866+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:04:21.3043303+00:00"
 }

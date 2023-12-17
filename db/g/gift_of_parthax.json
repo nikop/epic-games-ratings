@@ -3,9 +3,9 @@
   "Name": "Gift of Parthax",
   "ProductSlug": "gift-of-parthax-67ee4f",
   "Ranking_EOS_Progress": 799,
-  "Ranking_EOS_Completed": 378,
+  "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 527,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-09-09T08:00:00+00:00",
     "PcReleaseDate": "2016-09-12T17:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:39.9515798+00:00",
   "LastChanged": "2023-03-31T05:58:39.9515799+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:36.3302973+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:58:27.8002117+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:06:07.665764+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:58:57.9533562+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:07:01.6888441+00:00"
 }

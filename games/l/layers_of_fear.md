@@ -9,8 +9,8 @@
 | A piece of the story | 56.00% | ~74 |
 | It's covered up for a reason | 44.00% | ~59 |
 | Do what you have to | 43.00% | ~57 |
+| Scraps of love | 42.00% | ~56 |
 | The artist’s impression | 42.00% | ~56 |
-| Scraps of love | 41.00% | ~55 |
 | Refuse to look | 35.00% | ~47 |
 | Sign of weakness | 35.00% | ~47 |
 | Finished it | 29.00% | ~39 |
@@ -25,12 +25,12 @@
 | Sound Bite | 11.00% | ~15 |
 | The tragedy unfolds | 11.00% | ~15 |
 | A new way | 10.00% | ~13 |
+| True Reflection | 10.00% | ~13 |
 | Another perspective | 9.00% | ~12 |
 | Breaking free | 9.00% | ~12 |
 | Lights! Camera! Action! | 9.00% | ~12 |
-| True Reflection | 9.00% | ~12 |
+| Casting Finished | 8.00% | ~11 |
 | Heavy Burden | 8.00% | ~11 |
-| Casting Finished | 7.00% | ~9 |
 | Fisherman | 7.00% | ~9 |
 | We Are Not Alone | 5.00% | ~7 |
 | The Perfect Storm | 5.00% | ~7 |
@@ -58,7 +58,7 @@
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 133 (Ranked 423)  
-Completed: 0 (0.00%) (Ranked 378)  
+Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

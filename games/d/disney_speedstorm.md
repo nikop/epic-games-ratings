@@ -5,15 +5,15 @@ Rating: 4.40 (Ranked 745)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~41,096 |
-| IT MAKES BOOM! | 8.00% | ~27,397 |
-| EXTRA BOOST | 6.00% | ~20,548 |
-| PROTECTED | 5.00% | ~17,123 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~13,699 |
-| PRO | 4.00% | ~13,699 |
-| AGGRESSIVE RACER | 3.00% | ~10,274 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,849 |
-| A TIGER'S FEAR | 2.00% | ~6,849 |
+| ROOKIE | 12.00% | ~41,106 |
+| IT MAKES BOOM! | 8.00% | ~27,404 |
+| EXTRA BOOST | 6.00% | ~20,553 |
+| PROTECTED | 5.00% | ~17,127 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~13,702 |
+| PRO | 4.00% | ~13,702 |
+| AGGRESSIVE RACER | 3.00% | ~10,276 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,851 |
+| A TIGER'S FEAR | 2.00% | ~6,851 |
 | TRAINING HARD | 1.00% | ~3,425 |
 | RELEASE THE KRAKEN | 1.00% | ~3,425 |
 | BE OUR GUEST | 1.00% | ~3,425 |
@@ -21,17 +21,17 @@ Rating: 4.40 (Ranked 745)
 | FRIENDLY | 1.00% | ~3,425 |
 | MASTER | 1.00% | ~3,425 |
 | LEGENDARY HERO | 1.00% | ~3,425 |
-| DEFEAT OUR CHAMPION | 0.90% | ~3,082 |
+| DEFEAT OUR CHAMPION | 0.90% | ~3,083 |
 | ACE DEFENDER | 0.80% | ~2,740 |
 | THE EYE OF THE HUNTER | 0.80% | ~2,740 |
-| EXPERIENCED CREW | 0.70% | ~2,397 |
-| ACE BRAWLER | 0.70% | ~2,397 |
-| FRAMED! | 0.50% | ~1,712 |
-| ACE TRICKSTER | 0.50% | ~1,712 |
+| EXPERIENCED CREW | 0.70% | ~2,398 |
+| ACE BRAWLER | 0.70% | ~2,398 |
+| FRAMED! | 0.50% | ~1,713 |
+| ACE TRICKSTER | 0.50% | ~1,713 |
 | PERFECTLY POISED | 0.40% | ~1,370 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 342,463 (Ranked 50)  
-Completed: 875 (0.26%) (Ranked 250)  
+Progressed: 342,549 (Ranked 50)  
+Completed: 875 (0.26%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -267,6 +267,7 @@ Completed: 875 (0.26%) (Ranked 250)
 | 2023-12-14 | 338,838 | 725 |
 | 2023-12-15 | 340,579 | 818 |
 | 2023-12-16 | 342,463 | 875 |
+| 2023-12-17 | 342,549 | 875 |
 ## Awards
 Max (Great for Beginners): 138  (Ranked 328)  
 Sum: 900 (Ranked 274)  

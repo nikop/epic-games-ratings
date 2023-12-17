@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.59 (Ranked 442)  
+Rating: 4.59 (Ranked 443)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,16 +13,16 @@ Rating: 4.59 (Ranked 442)
 | He's Famous! | 66.00% | ~780 |
 | Cutie Poro | 66.00% | ~780 |
 | Krugmazing | 64.00% | ~756 |
+| The Fire Below the Mountain | 61.00% | ~721 |
 | Moneyball | 60.00% | ~709 |
-| The Fire Below the Mountain | 60.00% | ~709 |
 | No Bites | 55.00% | ~650 |
-| Iceborn | 54.00% | ~638 |
+| Iceborn | 55.00% | ~650 |
 | Boom Things | 52.00% | ~615 |
 | Tear of Freedom | 51.00% | ~603 |
 | My Darkest Day | 48.00% | ~567 |
 | Rhythm Of Willump | 46.00% | ~544 |
 | The Relentless Storm | 46.00% | ~544 |
-| A Tragic Reminder | 44.00% | ~520 |
+| A Tragic Reminder | 45.00% | ~532 |
 | 3000 Year Blackout | 44.00% | ~520 |
 | So Close | 42.00% | ~496 |
 | The Finisher | 42.00% | ~496 |
@@ -51,7 +51,7 @@ Rating: 4.59 (Ranked 442)
 | Sneaky Notai | 1.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,182 (Ranked 263)  
-Completed: 8 (0.68%) (Ranked 190)  
+Completed: 8 (0.68%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

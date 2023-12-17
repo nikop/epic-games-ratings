@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 40.00% | ~248 |
-| Trinity | 16.00% | ~99 |
-| I Found It | 12.00% | ~75 |
-| Find Allies | 11.00% | ~68 |
-| A Taste of Wrath | 11.00% | ~68 |
-| Shatter Them All | 11.00% | ~68 |
-| Fashion Victim | 11.00% | ~68 |
-| Geared Up | 10.00% | ~62 |
-| The Collector | 10.00% | ~62 |
-| Adventurer | 9.00% | ~56 |
-| Tributes of Caladrias | 9.00% | ~56 |
+| Break Out | 40.00% | ~252 |
+| Trinity | 16.00% | ~101 |
+| I Found It | 12.00% | ~76 |
+| A Taste of Wrath | 11.00% | ~69 |
+| Shatter Them All | 11.00% | ~69 |
+| Fashion Victim | 11.00% | ~69 |
+| The Collector | 11.00% | ~69 |
+| Find Allies | 10.00% | ~63 |
+| Geared Up | 10.00% | ~63 |
+| Adventurer | 9.00% | ~57 |
+| Tributes of Caladrias | 9.00% | ~57 |
+| Scholar | 8.00% | ~50 |
 | Stone Collection | 8.00% | ~50 |
-| Scholar | 7.00% | ~43 |
-| Powerful Allies | 6.00% | ~37 |
-| Big Bazar | 6.00% | ~37 |
-| Essence Blow | 5.00% | ~31 |
+| Powerful Allies | 6.00% | ~38 |
+| Big Bazar | 6.00% | ~38 |
+| Essence Blow | 5.00% | ~32 |
 | Calm before the Storm | 4.00% | ~25 |
 | The Mentor | 4.00% | ~25 |
 | Alchemist | 4.00% | ~25 |
@@ -28,9 +28,9 @@
 | Airborne | 3.00% | ~19 |
 | Shatterer | 3.00% | ~19 |
 | Fine Feathers Make Fine Birds | 3.00% | ~19 |
-| Clear Sight | 2.00% | ~12 |
-| Miner | 2.00% | ~12 |
-| A Queen's Tale | 2.00% | ~12 |
+| Clear Sight | 2.00% | ~13 |
+| Miner | 2.00% | ~13 |
+| A Queen's Tale | 2.00% | ~13 |
 | Slayer | 1.00% | ~6 |
 | All There Is | 1.00% | ~6 |
 | False God | 1.00% | ~6 |
@@ -41,8 +41,8 @@
 | Shardbearer | 0.60% | ~4 |
 | Feeling Fancy | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 621 (Ranked 306)  
-Completed: 3 (0.48%) (Ranked 211)  
+Progressed: 630 (Ranked 305)  
+Completed: 3 (0.48%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,3 +107,4 @@ Completed: 3 (0.48%) (Ranked 211)
 | 2023-12-14 | 376 | 3 |
 | 2023-12-15 | 486 | 3 |
 | 2023-12-16 | 621 | 3 |
+| 2023-12-17 | 630 | 3 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_Completed": 379,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252216,
+  "EOS_Progressed": 252217,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21442,6 +21442,11 @@
       "Time": "2023-12-16T22:09:25.8099381+00:00",
       "NumProgressed": 252216,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-17T00:10:16.870876+00:00",
+      "NumProgressed": 252217,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -21477,7 +21482,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52965
+      "UsersEstimate": 52966
     },
     {
       "ID": "blotbuster",
@@ -21525,7 +21530,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37832
+      "UsersEstimate": 37833
     },
     {
       "ID": "clearCut",
@@ -21605,7 +21610,7 @@
       "Name": "He Who Laughs Last",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7566
+      "UsersEstimate": 7567
     },
     {
       "ID": "hereWeGo",
@@ -21629,7 +21634,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133674
+      "UsersEstimate": 133675
     },
     {
       "ID": "indegestible",
@@ -21741,7 +21746,7 @@
       "Name": "Shoo, Cat!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7566
+      "UsersEstimate": 7567
     },
     {
       "ID": "talentScout",
@@ -21820,7 +21825,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252216,
+      "Progressed": 252217,
       "Completed": 6
     }
   ],
@@ -21828,8 +21833,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:09:44.3740622+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T23:57:05.3008765+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:57:31.5263585+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:09:44.3742281+00:00"
+  "LastChanged_Achievements": "2023-12-17T00:10:16.8708755+00:00",
+  "LastUpdate_AppInfo": "2023-12-16T23:57:21.4778344+00:00",
+  "LastUpdate_Ratings": "2023-12-16T23:57:53.7339841+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:10:16.8710148+00:00"
 }

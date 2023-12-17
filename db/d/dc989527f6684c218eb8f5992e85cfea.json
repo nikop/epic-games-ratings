@@ -3,9 +3,9 @@
   "Name": "Scribble It!",
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 160,
-  "Ranking_EOS_Completed": 378,
+  "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14499,
+  "EOS_Progressed": 14503,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16639,6 +16639,11 @@
       "Time": "2023-12-16T23:03:49.8403699+00:00",
       "NumProgressed": 14499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T00:04:29.9772529+00:00",
+      "NumProgressed": 14503,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -16682,7 +16687,7 @@
       "Name": "Shape Novice!",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_10_SECONDS_4_PLAYERS",
@@ -16706,7 +16711,7 @@
       "Name": "Michelangelo",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_HUNDRED_UPVOTES",
@@ -16722,7 +16727,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 6380
+      "UsersEstimate": 6381
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -16738,7 +16743,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -16762,7 +16767,7 @@
       "Name": "It\u0027s a guessing game...",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_WIN_10_GAMES_RATE_IT",
@@ -16770,7 +16775,7 @@
       "Name": "Medal Magnet!",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_WIN_10_GAMES_SCRIBBLE_IT",
@@ -16786,7 +16791,7 @@
       "Name": "Junior Artist",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_WIN_50_GAMES_GUESS_IT",
@@ -16802,7 +16807,7 @@
       "Name": "11 out of 10!",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_WIN_50_GAMES_SCRIBBLE_IT",
@@ -16818,7 +16823,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2900
+      "UsersEstimate": 2901
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -16826,7 +16831,7 @@
       "Name": "Got It!",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_WIN_A_GAME_RATE_IT",
@@ -16842,21 +16847,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 14499,
+      "Progressed": 14503,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:03:49.8403693+00:00",
+  "LastChanged_Achievements": "2023-12-17T00:04:29.9772524+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.2855631+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:00:17.3898601+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:03:49.8404544+00:00"
+  "LastUpdate_Ratings": "2023-12-17T00:00:56.0216131+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:04:29.9773424+00:00"
 }

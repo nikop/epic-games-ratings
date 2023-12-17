@@ -3,9 +3,9 @@
   "Name": "Grim Nights",
   "ProductSlug": "grim-nights-fa4c5a",
   "Ranking_EOS_Progress": 503,
-  "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_Completed": 379,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
     "PcReleaseDate": "2018-10-11T22:00:00+00:00",
@@ -433,17 +433,17 @@
       "ID": "ach_lose",
       "SetID": "c2c0fb6",
       "Name": "Lives lost",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_rich",
       "SetID": "c2c0fb6",
       "Name": "Bling bling!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_slay1000",
@@ -474,8 +474,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:06:05.4133397+00:00",
+  "LastChanged_Achievements": "2023-12-17T00:06:59.1712451+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:47.7726694+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:02:51.2576821+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:06:05.4133527+00:00"
+  "LastUpdate_Ratings": "2023-12-17T00:03:23.7622628+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:06:59.1712575+00:00"
 }

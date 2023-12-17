@@ -6,9 +6,9 @@
   "Ranking_Popularity": 486,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 252,
-  "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_Completed": 152,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -307,9 +307,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 1315,
+  "EOS_Progressed": 1316,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
@@ -2602,6 +2602,11 @@
       "Time": "2023-12-16T23:09:17.3338564+00:00",
       "NumProgressed": 1315,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-17T00:09:48.1938972+00:00",
+      "NumProgressed": 1316,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 43,
@@ -2611,9 +2616,9 @@
       "ID": "AllTrophies",
       "SetID": "a6c395p",
       "Name": "Demigod",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 150,
-      "UsersEstimate": 986
+      "UsersEstimate": 974
     },
     {
       "ID": "DieInPermadeath",
@@ -2637,7 +2642,7 @@
       "Name": "Helping Hand",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "FinishAllSideMissions",
@@ -2645,15 +2650,15 @@
       "Name": "Paragon",
       "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "GatlingVsArmor",
       "SetID": "a6c395p",
       "Name": "Controlled Demolition",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 711
     },
     {
       "ID": "Kill3InOneDrift",
@@ -2677,7 +2682,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "MasteryOfCombat",
@@ -2685,7 +2690,7 @@
       "Name": "Mastery of Combat",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "MasteryOfRites",
@@ -2693,7 +2698,7 @@
       "Name": "Mastery of Rites",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "MasteryOfWeapons",
@@ -2701,7 +2706,7 @@
       "Name": "Mastery of Weapons",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "MissionActivateDish",
@@ -2709,7 +2714,7 @@
       "Name": "The Crimson Void",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -2717,7 +2722,7 @@
       "Name": "Retaliate",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "MissionAncientRitual",
@@ -2757,7 +2762,7 @@
       "Name": "Full Arsenal",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "MissionEosReturn",
@@ -2781,7 +2786,7 @@
       "Name": "Disciple",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "MissionHelios",
@@ -2797,7 +2802,7 @@
       "Name": "Safe Home",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -2813,7 +2818,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -2861,7 +2866,7 @@
       "Name": "Disruption",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -2933,7 +2938,7 @@
       "Name": "Phoenix",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "VisitAllLocations",
@@ -2949,22 +2954,22 @@
       "Name": "Relentless",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1315,
+      "Progressed": 1316,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-10-05T08:58:55.3962263+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:09:17.3338561+00:00",
+  "LastChanged_Achievements": "2023-12-17T00:09:48.1938968+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:27.0283687+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:57:33.3991768+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:09:17.3338941+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:57:56.0846299+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:09:48.1939298+00:00"
 }

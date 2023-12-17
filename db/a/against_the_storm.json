@@ -6,8 +6,8 @@
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 147,
-  "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_Completed": 263,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 3744,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3467,9 +3467,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18388,
+  "EOS_Progressed": 18392,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15987,6 +15987,11 @@
       "Time": "2023-12-16T23:04:34.7542663+00:00",
       "NumProgressed": 18388,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-17T00:05:19.3950976+00:00",
+      "NumProgressed": 18392,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16117,9 +16122,9 @@
       "ID": "WinNearBandit",
       "SetID": "cfbk359",
       "Name": "Bandit Camp",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 184
     },
     {
       "ID": "WinNearBarren",
@@ -16191,7 +16196,7 @@
       "Name": "Levitating Monument",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "WinNearMines",
@@ -16247,7 +16252,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "WinNearWatchtower",
@@ -16271,7 +16276,7 @@
       "Name": "Cursed Lands",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "WinOnMarshlands",
@@ -16367,7 +16372,7 @@
       "Name": "Trade Baron",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "WinWithoutDeath",
@@ -16399,7 +16404,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "WinNearFrosts",
@@ -16423,7 +16428,7 @@
       "Name": "Overgrown Library",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "WinNearPetrified",
@@ -16470,15 +16475,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18388,
+      "Progressed": 18392,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-16T06:56:59.7467087+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:04:34.7542659+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T22:57:11.6221752+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:57:37.0228081+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:04:34.7543601+00:00"
+  "LastChanged_Achievements": "2023-12-17T00:05:19.3950972+00:00",
+  "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
+  "LastUpdate_Ratings": "2023-12-16T23:58:00.3687236+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:05:19.3951927+00:00"
 }

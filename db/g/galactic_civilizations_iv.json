@@ -4,11 +4,11 @@
   "ProductSlug": "galactic-civilizations-iv",
   "Ranking_Rating": 951,
   "Ranking_Popularity": 373,
-  "Ranking_PopularitySum": 303,
+  "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 184,
-  "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_Completed": 379,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -901,10 +901,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 693,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2023-12-17T00:00:16.0017781+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 694,
+      "NumberOfAwardsMax": 97
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 693,
+  "NumberOfAwards": 694,
   "NumberOfAwardsMax": 97,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -924,7 +930,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 86
+      "Count": 87
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9801,9 +9807,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
-  "LastChanged": "2023-12-16T02:19:42.6495696+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:09:38.9554514+00:00",
+  "LastChanged": "2023-12-17T00:00:16.001778+00:00",
+  "LastChanged_Achievements": "2023-12-17T00:10:11.8808891+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:41.5804615+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:59:39.7203713+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:09:38.9555376+00:00"
+  "LastUpdate_Ratings": "2023-12-17T00:00:16.0017785+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:10:11.880968+00:00"
 }

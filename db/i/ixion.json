@@ -6,9 +6,9 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 211,
-  "Ranking_EOS_Completed": 378,
+  "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3519,
+  "EOS_Progressed": 3521,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6506,6 +6506,11 @@
       "Time": "2023-12-16T23:05:26.0922021+00:00",
       "NumProgressed": 3519,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T00:06:14.597061+00:00",
+      "NumProgressed": 3521,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6597,7 +6602,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_BASE_21",
@@ -6621,7 +6626,7 @@
       "Name": "Space Society",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACH_BASE_24",
@@ -6669,7 +6674,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ACH_BASE_3",
@@ -6685,7 +6690,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACH_BASE_31",
@@ -6717,7 +6722,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ACH_BASE_35",
@@ -6725,7 +6730,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACH_BASE_36",
@@ -6901,7 +6906,7 @@
       "Name": "Hope Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACH_BASE_60",
@@ -6972,13 +6977,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1703,
+      "Progressed": 1705,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3519,
+      "Progressed": 3521,
       "Completed": 0
     }
   ],
@@ -6986,8 +6991,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:05:26.0922016+00:00",
+  "LastChanged_Achievements": "2023-12-17T00:06:14.5970607+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:35.4855137+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:58:29.7492923+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:05:26.092301+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:58:59.9014664+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:06:14.597121+00:00"
 }

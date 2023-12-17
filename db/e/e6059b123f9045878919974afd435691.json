@@ -3,9 +3,9 @@
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 267,
-  "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_Completed": 379,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -3448,9 +3448,9 @@
       "ID": "WINS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Do You Accept The Challenge?",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 11
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
@@ -3463,8 +3463,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:10:06.5652862+00:00",
+  "LastChanged_Achievements": "2023-12-17T00:10:35.3905706+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:08.9329051+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:58:24.6092455+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:10:06.5653642+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:58:54.7900938+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:10:35.3906459+00:00"
 }

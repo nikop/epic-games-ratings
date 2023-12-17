@@ -3,9 +3,9 @@
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 288,
-  "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_Completed": 379,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 782,
+  "EOS_Progressed": 783,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3422,6 +3422,11 @@
       "Time": "2023-12-16T23:09:19.7260055+00:00",
       "NumProgressed": 782,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T00:09:50.7970041+00:00",
+      "NumProgressed": 783,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3609,7 +3614,7 @@
       "Name": "The Big Day",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "Packing20",
@@ -3633,7 +3638,7 @@
       "Name": "Home Cook",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "RecipeDifferent30",
@@ -3752,7 +3757,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 782,
+      "Progressed": 783,
       "Completed": 0
     }
   ],
@@ -3760,8 +3765,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:09:19.7260052+00:00",
+  "LastChanged_Achievements": "2023-12-17T00:09:50.7970037+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:58:44.3806487+00:00",
-  "LastUpdate_Ratings": "2023-12-16T23:00:18.5332708+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:09:19.7260477+00:00"
+  "LastUpdate_Ratings": "2023-12-17T00:00:57.3052469+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:09:50.7970428+00:00"
 }

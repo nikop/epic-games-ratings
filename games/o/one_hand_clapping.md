@@ -34,7 +34,7 @@
 | Rondo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 838 (Ranked 283)  
-Completed: 0 (0.00%) (Ranked 378)  
+Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

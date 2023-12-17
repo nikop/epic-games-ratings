@@ -5,46 +5,46 @@ Rating: 4.12 (Ranked 976)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~790 |
-| Battlefields Have Memories | 79.00% | ~717 |
-| Enlisted | 73.00% | ~663 |
-| Maybe Engage a Little | 65.00% | ~590 |
-| No More Names | 46.00% | ~418 |
-| Initiate | 31.00% | ~281 |
-| Thrada-Kul | 27.00% | ~245 |
-| Gravity-Challenged Rocks | 21.00% | ~191 |
-| Socialite | 20.00% | ~182 |
-| Soldier | 17.00% | ~154 |
-| All the Major Food Groups | 17.00% | ~154 |
-| Beggars Would Ride | 15.00% | ~136 |
-| Control is an Illusion | 14.00% | ~127 |
-| The Means to Save It | 12.00% | ~109 |
-| Resilience to Sin | 10.00% | ~91 |
-| A Familiar Nest | 10.00% | ~91 |
-| Periapt Alizarin | 10.00% | ~91 |
-| Geas Aristeya | 9.00% | ~82 |
-| A Perfect Cycle | 9.00% | ~82 |
-| Recruit | 8.00% | ~73 |
-| Armsman | 8.00% | ~73 |
-| Lights Army | 6.00% | ~54 |
-| Periapt Cerulean | 5.00% | ~45 |
-| Good Boy | 5.00% | ~45 |
-| Periapt Viridian | 4.00% | ~36 |
-| Shroudfane Explorer | 4.00% | ~36 |
-| Kitted Out | 3.00% | ~27 |
-| Best Dressed | 3.00% | ~27 |
-| Armaments Azure | 3.00% | ~27 |
-| Armaments Gules | 3.00% | ~27 |
+| Unforeseen | 88.00% | ~809 |
+| Battlefields Have Memories | 79.00% | ~726 |
+| Enlisted | 73.00% | ~671 |
+| Maybe Engage a Little | 66.00% | ~607 |
+| No More Names | 46.00% | ~423 |
+| Initiate | 31.00% | ~285 |
+| Thrada-Kul | 27.00% | ~248 |
+| Gravity-Challenged Rocks | 21.00% | ~193 |
+| Socialite | 20.00% | ~184 |
+| Soldier | 17.00% | ~156 |
+| All the Major Food Groups | 17.00% | ~156 |
+| Beggars Would Ride | 15.00% | ~138 |
+| Control is an Illusion | 13.00% | ~119 |
+| The Means to Save It | 12.00% | ~110 |
+| Resilience to Sin | 10.00% | ~92 |
+| A Familiar Nest | 10.00% | ~92 |
+| Periapt Alizarin | 10.00% | ~92 |
+| Geas Aristeya | 9.00% | ~83 |
+| A Perfect Cycle | 9.00% | ~83 |
+| Recruit | 8.00% | ~74 |
+| Armsman | 8.00% | ~74 |
+| Lights Army | 6.00% | ~55 |
+| Periapt Cerulean | 5.00% | ~46 |
+| Good Boy | 5.00% | ~46 |
+| Periapt Viridian | 4.00% | ~37 |
+| Shroudfane Explorer | 4.00% | ~37 |
+| Kitted Out | 3.00% | ~28 |
+| Best Dressed | 3.00% | ~28 |
+| Armaments Azure | 3.00% | ~28 |
+| Armaments Gules | 3.00% | ~28 |
 | Scholar | 2.00% | ~18 |
 | Armaments Vert | 2.00% | ~18 |
 | Veteran | 2.00% | ~18 |
-| Master of Carmine | 0.90% | ~8 |
+| Master of Carmine | 1.00% | ~9 |
 | Shroudfane Surveyor | 0.90% | ~8 |
 | Tip of the Spear | 0.80% | ~7 |
 | Master of Ultramarine | 0.70% | ~6 |
 | Master of Malachite | 0.70% | ~6 |
 | Backtracker | 0.70% | ~6 |
-| Treasure Hunter | 0.60% | ~5 |
+| Treasure Hunter | 0.50% | ~5 |
 | Grand Magnus | 0.40% | ~4 |
 | Petite Bourgeoisie | 0.40% | ~4 |
 | Family Business | 0.20% | ~2 |
@@ -53,8 +53,8 @@ Rating: 4.12 (Ranked 976)
 | Out of Time | 0.20% | ~2 |
 | Fowl Play | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 908 (Ranked 278)  
-Completed: 2 (0.22%) (Ranked 259)  
+Progressed: 919 (Ranked 277)  
+Completed: 2 (0.22%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -133,6 +133,7 @@ Completed: 2 (0.22%) (Ranked 259)
 | 2023-12-14 | 532 | 2 |
 | 2023-12-15 | 689 | 2 |
 | 2023-12-16 | 908 | 2 |
+| 2023-12-17 | 919 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

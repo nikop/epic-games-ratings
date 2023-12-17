@@ -5,48 +5,48 @@ Rating: 4.69 (Ranked 233)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~7,250 |
-| On the Top Step | 83.00% | ~6,613 |
-| Setting up for Success | 72.00% | ~5,736 |
-| Team Orders | 71.00% | ~5,657 |
-| Engineer | 50.00% | ~3,984 |
-| Familiar Faces | 45.00% | ~3,585 |
-| Going the Extra Mile | 39.00% | ~3,107 |
-| Sharing the Love | 37.00% | ~2,948 |
-| Hitting a Season | 33.00% | ~2,629 |
-| A Dozen Pieces | 29.00% | ~2,310 |
-| Challenge Yourself | 28.00% | ~2,231 |
-| Making History | 28.00% | ~2,231 |
-| Network Success | 25.00% | ~1,992 |
-| Writing a new Chapter | 22.00% | ~1,753 |
-| Spring Cleaning | 21.00% | ~1,673 |
-| Reduce | 18.00% | ~1,434 |
-| Ups and Downs | 18.00% | ~1,434 |
-| Crucial Combo | 17.00% | ~1,354 |
-| Reuse | 15.00% | ~1,195 |
-| Gathering Dust | 14.00% | ~1,115 |
-| One for the Book | 14.00% | ~1,115 |
-| Proving Them Wrong | 14.00% | ~1,115 |
-| Oil and Water | 13.00% | ~1,036 |
-| Hitting a Bullseye | 13.00% | ~1,036 |
-| Lightning Round the World | 12.00% | ~956 |
-| Spinning Around | 12.00% | ~956 |
-| Eagle Eye | 11.00% | ~876 |
-| All in a Weekend's Work | 11.00% | ~876 |
-| Friendly Competition | 11.00% | ~876 |
-| Switcheroo | 11.00% | ~876 |
-| Recycle | 10.00% | ~797 |
-| Undisputed Winner | 8.00% | ~637 |
-| Tinkerer | 8.00% | ~637 |
-| For all Those Back at the Factory | 6.00% | ~478 |
-| Smooth Operator | 6.00% | ~478 |
-| Living up to Expectations | 5.00% | ~398 |
-| Loyal Bond | 4.00% | ~319 |
-| Peak Performance | 4.00% | ~319 |
-| Seasoned Rookie | 3.00% | ~239 |
-| Hitting a Century | 3.00% | ~239 |
-| Wait, I know you? | 2.00% | ~159 |
-| Filling in the Gaps | 2.00% | ~159 |
+| Getting on the Step | 91.00% | ~7,273 |
+| On the Top Step | 83.00% | ~6,633 |
+| Setting up for Success | 72.00% | ~5,754 |
+| Team Orders | 70.00% | ~5,594 |
+| Engineer | 50.00% | ~3,996 |
+| Familiar Faces | 45.00% | ~3,596 |
+| Going the Extra Mile | 39.00% | ~3,117 |
+| Sharing the Love | 37.00% | ~2,957 |
+| Hitting a Season | 33.00% | ~2,637 |
+| A Dozen Pieces | 29.00% | ~2,318 |
+| Challenge Yourself | 28.00% | ~2,238 |
+| Making History | 28.00% | ~2,238 |
+| Network Success | 25.00% | ~1,998 |
+| Writing a new Chapter | 22.00% | ~1,758 |
+| Spring Cleaning | 21.00% | ~1,678 |
+| Reduce | 18.00% | ~1,439 |
+| Ups and Downs | 18.00% | ~1,439 |
+| Crucial Combo | 17.00% | ~1,359 |
+| Reuse | 15.00% | ~1,199 |
+| Gathering Dust | 14.00% | ~1,119 |
+| One for the Book | 14.00% | ~1,119 |
+| Proving Them Wrong | 14.00% | ~1,119 |
+| Oil and Water | 13.00% | ~1,039 |
+| Hitting a Bullseye | 13.00% | ~1,039 |
+| Lightning Round the World | 12.00% | ~959 |
+| Spinning Around | 12.00% | ~959 |
+| Eagle Eye | 11.00% | ~879 |
+| All in a Weekend's Work | 11.00% | ~879 |
+| Friendly Competition | 11.00% | ~879 |
+| Switcheroo | 11.00% | ~879 |
+| Recycle | 10.00% | ~799 |
+| Undisputed Winner | 8.00% | ~639 |
+| Tinkerer | 8.00% | ~639 |
+| For all Those Back at the Factory | 6.00% | ~480 |
+| Smooth Operator | 6.00% | ~480 |
+| Living up to Expectations | 5.00% | ~400 |
+| Loyal Bond | 4.00% | ~320 |
+| Peak Performance | 4.00% | ~320 |
+| Seasoned Rookie | 3.00% | ~240 |
+| Hitting a Century | 3.00% | ~240 |
+| Wait, I know you? | 2.00% | ~160 |
+| Filling in the Gaps | 2.00% | ~160 |
 | Saturday Night Drama | 1.00% | ~80 |
 | Media Darling | 1.00% | ~80 |
 | Under the Microscope | 0.90% | ~72 |
@@ -55,8 +55,8 @@ Rating: 4.69 (Ranked 233)
 | Shot in the Dark | 0.10% | ~8 |
 | Elite Racer | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,967 (Ranked 180)  
-Completed: 0 (0.00%) (Ranked 378)  
+Progressed: 7,992 (Ranked 180)  
+Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -150,6 +150,7 @@ Completed: 0 (0.00%) (Ranked 378)
 | 2023-12-14 | 6,647 | 0 |
 | 2023-12-15 | 7,252 | 0 |
 | 2023-12-16 | 7,967 | 0 |
+| 2023-12-17 | 7,992 | 0 |
 ## Awards
 Max (Diverse Characters): 40  (Ranked 463)  
 Sum: 198 (Ranked 408)  

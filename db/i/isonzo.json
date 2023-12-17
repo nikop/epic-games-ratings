@@ -6,9 +6,9 @@
   "Ranking_Popularity": 466,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 174,
-  "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_Completed": 293,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -997,7 +997,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9436,
+  "EOS_Progressed": 9437,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
@@ -9467,6 +9467,11 @@
       "Time": "2023-12-16T23:08:53.4888354+00:00",
       "NumProgressed": 9436,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-17T00:09:21.8873541+00:00",
+      "NumProgressed": 9437,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9804,9 +9809,9 @@
       "ID": "ISONZO_ACH_TUTTI_EROI",
       "SetID": "akchbl3",
       "Name": "Tutti Eroi!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4718
+      "UsersEstimate": 4813
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -9830,14 +9835,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4812
+      "UsersEstimate": 4813
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9436,
+      "Progressed": 9437,
       "Completed": 10
     }
   ],
@@ -9845,8 +9850,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-12T17:02:56.6362998+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:08:53.4888349+00:00",
+  "LastChanged_Achievements": "2023-12-17T00:09:21.8873538+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:27.7823002+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:58:36.554298+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:08:53.4889219+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:59:07.4804739+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:09:21.8874139+00:00"
 }

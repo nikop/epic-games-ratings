@@ -44,6 +44,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | What Doesn't Kill You | 0.50% | ~13 |
 | Consecutive Curses | 0.40% | ~965 |
 | To The Death! | 0.40% | ~965 |
+| Well Prepared | 0.40% | ~965 |
 | Just Chilling | 0.40% | ~965 |
 | Save Our Souls | 0.40% | ~965 |
 | Destroy Your Fears | 0.40% | ~965 |
@@ -57,7 +58,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Spreads | 0.30% | ~723 |
 | Max Damage! | 0.30% | ~723 |
 | A Rough Road | 0.30% | ~723 |
-| Well Prepared | 0.30% | ~723 |
 | Berzerker | 0.30% | ~723 |
 | Don't Ignore Me! | 0.30% | ~723 |
 | All Consuming | 0.30% | ~723 |
@@ -76,6 +76,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Soul Stash | 0.20% | ~482 |
 | Juggernaut | 0.20% | ~482 |
 | Gigantic | 0.20% | ~482 |
+| Become The Nightmare | 0.20% | ~482 |
 | Clearing The Room | 0.20% | ~482 |
 | Path To Enlightenment | 0.20% | ~482 |
 | Just Looking Around | 0.20% | ~482 |
@@ -105,7 +106,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Predator | 0.10% | ~241 |
 | Here Comes The Airplane | 0.10% | ~241 |
 | Resourceful | 0.10% | ~241 |
-| Become The Nightmare | 0.10% | ~241 |
 | Trail Of Death | 0.10% | ~241 |
 | Blizzard | 0.10% | ~241 |
 | The Boulder | 0.10% | ~241 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,163 (Ranked 66)  
-Completed: 299 (0.12%) (Ranked 289)  
+Progressed: 241,164 (Ranked 66)  
+Completed: 299 (0.12%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -386,6 +386,7 @@ Completed: 299 (0.12%) (Ranked 289)
 | 2023-12-14 | 241,040 | 298 |
 | 2023-12-15 | 241,093 | 299 |
 | 2023-12-16 | 241,163 | 299 |
+| 2023-12-17 | 241,164 | 299 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,742 (Ranked 87)  

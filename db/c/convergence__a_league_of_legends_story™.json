@@ -6,9 +6,9 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 273,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1000,
+  "EOS_Progressed": 1002,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2734,6 +2734,11 @@
       "Time": "2023-12-16T22:09:25.6022367+00:00",
       "NumProgressed": 1000,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-17T00:10:16.6131795+00:00",
+      "NumProgressed": 1002,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2799,9 +2804,9 @@
       "ID": "ClovemaryGift",
       "SetID": "a9e499d",
       "Name": "Clovemary for Remembering",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 50
     },
     {
       "ID": "CosmeticCompletion1",
@@ -2847,17 +2852,17 @@
       "ID": "FactorywoodChests1",
       "SetID": "a9e499d",
       "Name": "Factorywood Explorer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 90
     },
     {
       "ID": "FairgroundsChests1",
       "SetID": "a9e499d",
       "Name": "Fairgrounds Explorer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 90
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -2865,7 +2870,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2879,9 +2884,9 @@
       "ID": "FutureEkko3Defeated",
       "SetID": "a9e499d",
       "Name": "The Man Who Shattered Time",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 170
     },
     {
       "ID": "GadgetCompletion1",
@@ -2905,7 +2910,7 @@
       "Name": "Rail Rat",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "HexlockGift",
@@ -2991,9 +2996,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 210
     },
     {
       "ID": "ParryRepeated1",
@@ -3033,7 +3038,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "RewindParry",
@@ -3055,9 +3060,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 190
     },
     {
       "ID": "SkillCompletion1",
@@ -3119,9 +3124,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 230
     },
     {
       "ID": "WarwickDefeated",
@@ -3168,7 +3173,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1000,
+      "Progressed": 1002,
       "Completed": 6
     }
   ],
@@ -3176,8 +3181,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:09:44.0298095+00:00",
+  "LastChanged_Achievements": "2023-12-17T00:10:16.613179+00:00",
   "LastUpdate_AppInfo": "2023-12-09T23:57:24.2090977+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:57:28.3072042+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:09:44.0299085+00:00"
+  "LastUpdate_Ratings": "2023-12-16T23:57:50.2712074+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:10:16.613223+00:00"
 }

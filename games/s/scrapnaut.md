@@ -17,7 +17,7 @@ Number of Ratings: 38  (23.09.2022)
 | Digger | 32.00% | ~164 |
 | Electro-Scrap Gatherer | 32.00% | ~164 |
 | Survivor | 31.00% | ~158 |
-| Lumberjack | 29.00% | ~148 |
+| Lumberjack | 30.00% | ~153 |
 | Robot Destroyer | 29.00% | ~148 |
 | Herbalist | 28.00% | ~143 |
 | Prepper | 26.00% | ~133 |
@@ -38,8 +38,8 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Killer | 2.00% | ~10 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 511 (Ranked 324)  
-Completed: 1 (0.20%) (Ranked 265)  
+Progressed: 511 (Ranked 325)  
+Completed: 1 (0.20%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

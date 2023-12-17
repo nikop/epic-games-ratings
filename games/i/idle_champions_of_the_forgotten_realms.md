@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Sigil | 0.60% | ~1,245 |
+| A Brief Tour of the Realms | 0.50% | ~1,206 |
 | Fast Food | 0.50% | ~1,037 |
-| A Brief Tour of the Realms | 0.40% | ~965 |
 | Misaligned in Sigil | 0.30% | ~622 |
 | Beast Intentions | 0.20% | ~482 |
 | The Cursed Farmer | 0.20% | ~482 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Vrocks | 0.10% | ~207 |
 | Mind Spike | 0.10% | ~207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,195 (Ranked 65)  
-Completed: 2,536 (1.05%) (Ranked 168)  
+Progressed: 241,212 (Ranked 65)  
+Completed: 2,536 (1.05%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -794,6 +794,7 @@ Completed: 2,536 (1.05%) (Ranked 168)
 | 2023-12-14 | 240,414 | 2,526 |
 | 2023-12-15 | 240,802 | 2,532 |
 | 2023-12-16 | 241,195 | 2,536 |
+| 2023-12-17 | 241,212 | 2,536 |
 ## Awards
 Max (Great for Beginners): 5,654  (Ranked 70)  
 Sum: 32,925 (Ranked 41)  

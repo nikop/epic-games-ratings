@@ -6,7 +6,7 @@
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 85,
-  "Ranking_EOS_Completed": 378,
+  "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
@@ -9804,9 +9804,9 @@
       "Count": 1018
     }
   ],
-  "EOS_Progressed": 127826,
+  "EOS_Progressed": 127834,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1876,
+  "EOS_NewPlayers": 1880,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35389,6 +35389,11 @@
       "Time": "2023-12-16T23:09:07.010107+00:00",
       "NumProgressed": 127826,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T00:09:36.8359414+00:00",
+      "NumProgressed": 127834,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35432,7 +35437,7 @@
       "Name": "Resurrection",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -35440,7 +35445,7 @@
       "Name": "Unleash Hell",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -35448,7 +35453,7 @@
       "Name": "Funny Guy",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -35456,7 +35461,7 @@
       "Name": "Long Live the King",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -35520,7 +35525,7 @@
       "Name": "Predator",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -35584,7 +35589,7 @@
       "Name": "Now Stay Dead",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "combat_kill_gentry",
@@ -35608,7 +35613,7 @@
       "Name": "Clearing the Ledger",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "combat_kill_leviathan",
@@ -35632,7 +35637,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "combat_kill_shambler",
@@ -35766,9 +35771,9 @@
       "ID": "hero_story_complete_any",
       "SetID": "64l4lke",
       "Name": "A Clear Conscience",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1151
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -35782,9 +35787,9 @@
       "ID": "hospital_full_service",
       "SetID": "64l4lke",
       "Name": "Triage",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 384
     },
     {
       "ID": "inn_first_time",
@@ -36016,7 +36021,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -36031,21 +36036,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127826,
+      "Progressed": 127834,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2695,
+      "Progressed": 2703,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-16T22:57:47.5795166+00:00",
-  "LastChanged_Achievements": "2023-12-16T23:09:07.0101066+00:00",
-  "LastUpdate_AppInfo": "2023-12-09T23:57:11.9335973+00:00",
-  "LastUpdate_Ratings": "2023-12-16T22:57:47.5795172+00:00",
-  "LastUpdate_Achievements": "2023-12-16T23:09:07.0103622+00:00"
+  "LastChanged_Achievements": "2023-12-17T00:09:36.8359408+00:00",
+  "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
+  "LastUpdate_Ratings": "2023-12-16T23:58:11.5046165+00:00",
+  "LastUpdate_Achievements": "2023-12-17T00:09:36.8360964+00:00"
 }

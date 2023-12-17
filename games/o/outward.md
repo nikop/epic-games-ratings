@@ -6,20 +6,20 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,955 |
-| Ready for Winter | 64.00% | ~2,522 |
-| Ready for Summer | 51.00% | ~2,009 |
-| Cordon Bleu | 43.00% | ~1,694 |
-| Tapped! | 37.00% | ~1,458 |
-| Eureka | 32.00% | ~1,261 |
-| Scourge Slayer | 26.00% | ~1,024 |
-| Science, Troglodyte! | 23.00% | ~906 |
+| Venture Outward | 75.00% | ~2,957 |
+| Ready for Winter | 64.00% | ~2,524 |
+| Ready for Summer | 51.00% | ~2,011 |
+| Cordon Bleu | 43.00% | ~1,695 |
+| Tapped! | 37.00% | ~1,459 |
+| Eureka | 32.00% | ~1,262 |
+| Scourge Slayer | 26.00% | ~1,025 |
+| Science, Troglodyte! | 23.00% | ~907 |
 | Exceptional Skill | 22.00% | ~867 |
 | Home Sweet Home | 22.00% | ~867 |
 | Encyclopedic! | 19.00% | ~749 |
 | The Power of Family | 17.00% | ~670 |
-| A Fortress Toppled! | 16.00% | ~630 |
-| Apex Predator | 16.00% | ~630 |
+| A Fortress Toppled! | 16.00% | ~631 |
+| Apex Predator | 16.00% | ~631 |
 | Strange amalgams | 12.00% | ~473 |
 | The Power of Faith | 12.00% | ~473 |
 | The Power of Freedom | 10.00% | ~394 |
@@ -29,9 +29,9 @@ Number of Ratings: 266  (23.09.2022)
 | House of Cards | 7.00% | ~276 |
 | Let ‘em eat magma! | 7.00% | ~276 |
 | The power of ambition | 7.00% | ~276 |
-| Blood and justice | 6.00% | ~236 |
-| Hold my Mead and Watch This | 6.00% | ~236 |
-| The stuff of legends. | 6.00% | ~236 |
+| Blood and justice | 6.00% | ~237 |
+| Hold my Mead and Watch This | 6.00% | ~237 |
+| The stuff of legends. | 6.00% | ~237 |
 | Ancestor's Pride | 4.00% | ~158 |
 | For All Aurai | 4.00% | ~158 |
 | Memory of a legend | 4.00% | ~158 |
@@ -49,8 +49,8 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~16 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,940 (Ranked 205)  
-Completed: 5 (0.13%) (Ranked 284)  
+Progressed: 3,943 (Ranked 205)  
+Completed: 5 (0.13%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -276,10 +276,11 @@ Completed: 5 (0.13%) (Ranked 284)
 | 2023-12-14 | 3,790 | 4 |
 | 2023-12-15 | 3,863 | 5 |
 | 2023-12-16 | 3,940 | 5 |
+| 2023-12-17 | 3,943 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 483)  
-Sum: 246 (Ranked 387)  
-Diff (max vs sum): 96  
+Sum: 246 (Ranked 388)  
+Diff (max vs sum): 95  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |
