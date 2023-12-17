@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 13.00% | ~2,156 |
+| Oyedang, Kopengs | 13.00% | ~2,157 |
 | Bosmang | 9.00% | ~1,493 |
 | Captain Drummer | 9.00% | ~1,493 |
 | The Pit and the Pirates | 8.00% | ~1,327 |
@@ -19,14 +19,14 @@ Rating: 4.54 (Ranked 535)
 | Zen Master | 7.00% | ~178 |
 | Madame Undersecretary | 7.00% | ~178 |
 | Call it Even | 6.00% | ~995 |
-| Keep Arjun in Check | 6.00% | ~152 |
+| Keep Arjun in Check | 6.00% | ~153 |
 | Data Archivist | 5.00% | ~829 |
 | Drug Gifter | 5.00% | ~829 |
 | Heal Thy Medic | 5.00% | ~829 |
 | Khan's Revenge | 5.00% | ~829 |
-| Doctor Approved | 4.00% | ~663 |
-| Bottoms up! | 4.00% | ~663 |
-| Thorston Mayer | 4.00% | ~663 |
+| Doctor Approved | 4.00% | ~664 |
+| Bottoms up! | 4.00% | ~664 |
+| Thorston Mayer | 4.00% | ~664 |
 | Master Negotiator | 4.00% | ~102 |
 | Data Logger | 3.00% | ~498 |
 | Miraculous Maya | 3.00% | ~498 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 535)
 | Scavenger Star | 0.20% | ~33 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,585 (Ranked 152)  
+Progressed: 16,589 (Ranked 152)  
 Completed: 43 (0.26%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 43 (0.26%) (Ranked 251)
 | 2023-12-14 | 16,263 | 43 |
 | 2023-12-15 | 16,416 | 43 |
 | 2023-12-16 | 16,565 | 43 |
-| 2023-12-17 | 16,585 | 43 |
+| 2023-12-17 | 16,589 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

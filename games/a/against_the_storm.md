@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 70)  
+Rating: 4.82 (Ranked 71)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,11 +9,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 5.00% | ~921 |
 | Overgrown Library | 5.00% | ~921 |
 | Petrified Necropolis | 4.00% | ~737 |
-| Taking Action | 3.00% | ~552 |
-| Frosts | 3.00% | ~552 |
-| Land of Greed | 3.00% | ~552 |
-| Ominous Presence | 3.00% | ~552 |
-| Gathering Storm | 3.00% | ~552 |
+| Taking Action | 3.00% | ~553 |
+| Frosts | 3.00% | ~553 |
+| Land of Greed | 3.00% | ~553 |
+| Ominous Presence | 3.00% | ~553 |
+| Gathering Storm | 3.00% | ~553 |
 | First Real Expedition | 2.00% | ~368 |
 | Overcoming Difficulty | 2.00% | ~368 |
 | Royal Outpost | 2.00% | ~368 |
@@ -24,12 +24,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Untamed Wilds | 2.00% | ~368 |
 | Homesick | 1.00% | ~184 |
 | Ruined Armory | 1.00% | ~184 |
-| Bandit Camp | 1.00% | ~184 |
 | Fertile Meadows | 1.00% | ~184 |
 | Monastery of the Holy Flame | 1.00% | ~184 |
 | Lost Colonies | 1.00% | ~184 |
 | Watchtower | 1.00% | ~184 |
 | A Real Challenge | 1.00% | ~184 |
+| Bandit Camp | 0.90% | ~166 |
 | Levitating Monument | 0.90% | ~166 |
 | Corrosive Torrent | 0.90% | ~166 |
 | Cursed Lands | 0.90% | ~166 |
@@ -40,7 +40,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 0.70% | ~129 |
 | Haunted Forest | 0.70% | ~129 |
 | Flooded Mines | 0.70% | ~129 |
-| Against All Odds | 0.60% | ~110 |
+| Against All Odds | 0.60% | ~111 |
 | Serving Ale | 0.50% | ~92 |
 | Fishmen Ritual Site | 0.50% | ~92 |
 | Victory Through Prosperity | 0.50% | ~92 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,416 (Ranked 147)  
+Progressed: 18,422 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 40 (0.22%) (Ranked 259)
 | 2023-12-14 | 18,153 | 40 |
 | 2023-12-15 | 18,272 | 39 |
 | 2023-12-16 | 18,388 | 39 |
-| 2023-12-17 | 18,416 | 40 |
+| 2023-12-17 | 18,422 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 227)  
 Sum: 3,264 (Ranked 174)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 937,
+  "EOS_Progressed": 938,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -2080,6 +2080,11 @@
       "Time": "2023-12-17T04:09:28.3756657+00:00",
       "NumProgressed": 937,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-17T05:10:15.0861925+00:00",
+      "NumProgressed": 938,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -2091,7 +2096,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "booty_call",
@@ -2123,7 +2128,7 @@
       "Name": "Hold my Beer",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -2147,7 +2152,7 @@
       "Name": "Light Sleepers",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "not_alone",
@@ -2163,7 +2168,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "only_thyme_will_tell",
@@ -2201,16 +2206,16 @@
       "ID": "we_go_again",
       "SetID": "c4ipj3h",
       "Name": "We Go Again",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 253
+      "UsersEstimate": 263
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 937,
+      "Progressed": 938,
       "Completed": 11
     }
   ],
@@ -2218,8 +2223,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-17T04:09:28.3756655+00:00",
+  "LastChanged_Achievements": "2023-12-17T05:10:15.0861921+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.6209919+00:00",
-  "LastUpdate_Ratings": "2023-12-17T03:59:13.8582096+00:00",
-  "LastUpdate_Achievements": "2023-12-17T04:09:28.3756924+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:00:11.6126257+00:00",
+  "LastUpdate_Achievements": "2023-12-17T05:10:15.086213+00:00"
 }

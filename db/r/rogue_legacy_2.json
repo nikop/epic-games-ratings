@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 24836,
+  "EOS_Progressed": 24863,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1153,
+  "EOS_NewPlayers": 1180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -10805,6 +10805,11 @@
       "Time": "2023-12-17T04:09:20.7903767+00:00",
       "NumProgressed": 24836,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-17T05:10:04.8833008+00:00",
+      "NumProgressed": 24863,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10880,7 +10885,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -10896,7 +10901,7 @@
       "Name": "Spells and Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 993
+      "UsersEstimate": 995
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -10912,7 +10917,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -10928,7 +10933,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -10960,15 +10965,15 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "BossStudyAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Love",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 75
     },
     {
       "ID": "BossStudyDefeated",
@@ -11072,7 +11077,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "RogueMode",
@@ -11118,30 +11123,30 @@
       "ID": "UnlockHighestUnity",
       "SetID": "3ojhj46",
       "Name": "Color Coordination",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 75
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 24836,
+      "Progressed": 24863,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 3766,
+      "Progressed": 3793,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-17T04:09:20.7903765+00:00",
+  "LastChanged_Achievements": "2023-12-17T05:10:04.8833004+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-17T03:59:51.8072469+00:00",
-  "LastUpdate_Achievements": "2023-12-17T04:09:20.7904933+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:01:07.0654223+00:00",
+  "LastUpdate_Achievements": "2023-12-17T05:10:04.8833785+00:00"
 }

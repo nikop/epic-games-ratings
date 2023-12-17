@@ -3,12 +3,12 @@
   "Name": "The Surge",
   "ProductSlug": "the-surge",
   "Ranking_Rating": 699,
-  "Ranking_Popularity": 505,
-  "Ranking_PopularitySum": 522,
-  "Ranking_EOS_Progress": 195,
+  "Ranking_Popularity": 506,
+  "Ranking_PopularitySum": 523,
+  "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4927,
+  "EOS_Progressed": 4928,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3586,6 +3586,11 @@
       "Time": "2023-12-17T01:57:32.3834481+00:00",
       "NumProgressed": 4927,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-17T05:05:37.9312297+00:00",
+      "NumProgressed": 4928,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3605,7 +3610,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -3645,7 +3650,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4139
+      "UsersEstimate": 4140
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3653,7 +3658,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4631
+      "UsersEstimate": 4632
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3661,7 +3666,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3794
+      "UsersEstimate": 3795
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -3741,7 +3746,7 @@
       "Name": "Melting Down",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -3813,7 +3818,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3794
+      "UsersEstimate": 3795
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3829,7 +3834,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -3861,7 +3866,7 @@
       "Name": "Most Wanted",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -3925,7 +3930,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -4013,7 +4018,7 @@
       "Name": "No More Marching",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ID_ACHIEV_55",
@@ -4045,7 +4050,7 @@
       "Name": "Is This Real Life?",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -4132,15 +4137,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4927,
+      "Progressed": 4928,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-17T04:04:38.6618726+00:00",
+  "LastChanged_Achievements": "2023-12-17T05:05:37.9312291+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-17T03:57:27.1485884+00:00",
-  "LastUpdate_Achievements": "2023-12-17T04:04:38.6619492+00:00"
+  "LastUpdate_Ratings": "2023-12-17T04:57:37.3342706+00:00",
+  "LastUpdate_Achievements": "2023-12-17T05:05:37.9313059+00:00"
 }

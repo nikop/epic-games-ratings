@@ -6,8 +6,8 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,786 |
-| Returning Home: Quick Learner | 26.00% | ~1,478 |
+| Level: Returning Home | 49.00% | ~2,787 |
+| Returning Home: Quick Learner | 26.00% | ~1,479 |
 | Level: Charlie's Circuits | 22.00% | ~1,251 |
 | Level: Rising Markets | 9.00% | ~512 |
 | Peddler | 8.00% | ~455 |
@@ -17,9 +17,9 @@ Number of Ratings: 75  (23.09.2022)
 | Millionaire | 6.00% | ~341 |
 | Data Churn Type II | 5.00% | ~284 |
 | Speedy | 5.00% | ~284 |
-| Extra Life: Wish Granted | 4.00% | ~227 |
-| High Five! | 4.00% | ~227 |
-| Modular Progress | 4.00% | ~227 |
+| Extra Life: Wish Granted | 4.00% | ~228 |
+| High Five! | 4.00% | ~228 |
+| Modular Progress | 4.00% | ~228 |
 | Campaign: Lesson Learned | 3.00% | ~171 |
 | Level: Bet On Bots | 3.00% | ~171 |
 | Modular Performance | 3.00% | ~171 |
@@ -43,9 +43,9 @@ Number of Ratings: 75  (23.09.2022)
 | Data Churn Type IV | 1.00% | ~57 |
 | Keen Eye | 1.00% | ~57 |
 | Level: Topple The Top | 0.90% | ~51 |
-| Bet On Bots: Safety First | 0.80% | ~45 |
-| Merry-Go-Around: Self-Made | 0.80% | ~45 |
-| Tycoon | 0.80% | ~45 |
+| Bet On Bots: Safety First | 0.80% | ~46 |
+| Merry-Go-Around: Self-Made | 0.80% | ~46 |
+| Tycoon | 0.80% | ~46 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~34 |
 | Trendsetter | 0.60% | ~34 |
 | Level: Heating-Up | 0.50% | ~28 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~6 |
 | Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,686 (Ranked 191)  
+Progressed: 5,688 (Ranked 191)  
 Completed: 1 (0.02%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,6 +318,7 @@ Completed: 1 (0.02%) (Ranked 347)
 | 2023-12-14 | 5,674 | 1 |
 | 2023-12-15 | 5,678 | 1 |
 | 2023-12-16 | 5,686 | 1 |
+| 2023-12-17 | 5,688 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,22 +6,22 @@ Rating: 4.25 (Ranked 892)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,810 |
-| Don't I Know You...? | 76.00% | ~1,719 |
-| Jailbreak | 66.00% | ~1,493 |
-| Suited and Booted | 39.00% | ~882 |
+| Don't I Know You...? | 76.00% | ~1,720 |
+| Jailbreak | 66.00% | ~1,494 |
+| Suited and Booted | 39.00% | ~883 |
 | HEADSHOT! | 38.00% | ~860 |
-| Sleeping With The Fishes | 36.00% | ~814 |
-| Overheated | 31.00% | ~701 |
-| High Performance | 31.00% | ~701 |
+| Sleeping With The Fishes | 36.00% | ~815 |
+| Overheated | 31.00% | ~702 |
+| High Performance | 31.00% | ~702 |
 | Powered Up | 29.00% | ~656 |
 | Studied The Blade | 25.00% | ~566 |
 | Home Invasion | 23.00% | ~520 |
 | Luminary | 23.00% | ~520 |
 | True Survivor | 22.00% | ~498 |
 | It's a Trap | 22.00% | ~498 |
-| Offensive Defense | 20.00% | ~452 |
-| Shocking | 20.00% | ~452 |
-| Unforeseeable Consequences | 20.00% | ~452 |
+| Offensive Defense | 20.00% | ~453 |
+| Shocking | 20.00% | ~453 |
+| Unforeseeable Consequences | 20.00% | ~453 |
 | Court Martial | 19.00% | ~430 |
 | Clean Cut | 19.00% | ~430 |
 | Dead Again | 18.00% | ~407 |
@@ -32,9 +32,9 @@ Rating: 4.25 (Ranked 892)
 | Where It All Began | 13.00% | ~294 |
 | Risk Tolerant | 13.00% | ~294 |
 | What A Catchy Song | 13.00% | ~294 |
-| Corrupted Beauty | 12.00% | ~271 |
-| Marked For Success | 12.00% | ~271 |
-| Sorry, Didn't See You There | 12.00% | ~271 |
+| Corrupted Beauty | 12.00% | ~272 |
+| Marked For Success | 12.00% | ~272 |
+| Sorry, Didn't See You There | 12.00% | ~272 |
 | Stimulating The Local Economy | 10.00% | ~226 |
 | Triplets | 10.00% | ~226 |
 | Denying Prophecy | 9.00% | ~204 |
@@ -50,9 +50,9 @@ Rating: 4.25 (Ranked 892)
 | Hello Darkness My Old Friend | 5.00% | ~113 |
 | Counter-Sniper | 5.00% | ~113 |
 | Shrimp Cocktail | 5.00% | ~113 |
-| Geronimo! | 4.00% | ~90 |
-| Homewrecker | 4.00% | ~90 |
-| Plank of Wood | 4.00% | ~90 |
+| Geronimo! | 4.00% | ~91 |
+| Homewrecker | 4.00% | ~91 |
+| Plank of Wood | 4.00% | ~91 |
 | It Lives! It Sniffs! It Conquers! | 3.00% | ~68 |
 | Gotta Craft 'em All | 3.00% | ~68 |
 | Own Medicine | 2.00% | ~45 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 892)
 | Loot, Pillage & Craft | 2.00% | ~45 |
 | Swiss Army Drone | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,262 (Ranked 227)  
+Progressed: 2,263 (Ranked 227)  
 Completed: 13 (0.57%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 13 (0.57%) (Ranked 200)
 | 2023-12-14 | 2,235 | 13 |
 | 2023-12-15 | 2,246 | 13 |
 | 2023-12-16 | 2,261 | 13 |
-| 2023-12-17 | 2,262 | 13 |
+| 2023-12-17 | 2,263 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "4158b699dd70447a981fee752d970a3e",
   "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
-  "Ranking_Rating": 70,
+  "Ranking_Rating": 71,
   "Ranking_Popularity": 161,
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
     "PcReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -9585,10 +9585,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 7359,
       "NumberOfAwardsMax": 959
+    },
+    {
+      "Time": "2023-12-17T05:02:41.2680758+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 7370,
+      "NumberOfAwardsMax": 959
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7359,
+  "NumberOfAwards": 7370,
   "NumberOfAwardsMax": 959,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9608,7 +9614,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 945
+      "Count": 952
     },
     {
       "Text": "This game is Great for Beginners",
@@ -9656,7 +9662,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 887
+      "Count": 891
     },
     {
       "Text": "This game has a Creative Community",
@@ -9676,8 +9682,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2023-12-17T02:27:35.5764823+00:00",
+  "LastChanged": "2023-12-17T05:02:41.2680756+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.6114009+00:00",
-  "LastUpdate_Ratings": "2023-12-17T04:02:32.3286191+00:00",
-  "LastUpdate_Achievements": "2023-12-17T04:03:13.3411168+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:02:41.2680762+00:00",
+  "LastUpdate_Achievements": "2023-12-17T05:03:41.836398+00:00"
 }

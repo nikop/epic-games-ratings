@@ -2,13 +2,13 @@
   "ID": "92d67652a4ca46c28507a29d6bc3db4d",
   "Name": "Karos",
   "ProductSlug": "karos-09de0a",
-  "Ranking_Rating": 389,
-  "Ranking_Popularity": 545,
-  "Ranking_PopularitySum": 548,
+  "Ranking_Rating": 371,
+  "Ranking_Popularity": 499,
+  "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-11-16T06:00:00+00:00",
     "PcReleaseDate": "2014-12-23T21:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-11-30T13:08:42.1369127+00:00",
@@ -179,18 +179,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-12-17T05:03:15.8484217+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 54,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22,
-  "NumberOfAwardsMax": 22,
-  "MaxAwardTitle": "Great Boss Battles",
+  "NumberOfAwards": 54,
+  "NumberOfAwardsMax": 32,
+  "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 28
+      "Count": 32
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -211,8 +217,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-16T17:57:12.71751+00:00",
   "FirstSeenRating": "2023-11-30T13:08:42.1369125+00:00",
-  "LastChanged": "2023-12-16T15:03:00.5861643+00:00",
+  "LastChanged": "2023-12-17T05:03:15.8484215+00:00",
   "LastUpdate_AppInfo": "2023-12-14T08:57:10.0602591+00:00",
-  "LastUpdate_Ratings": "2023-12-17T04:02:56.857666+00:00",
-  "LastUpdate_Achievements": "2023-12-17T04:05:11.3851908+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:03:15.848422+00:00",
+  "LastUpdate_Achievements": "2023-12-17T05:06:21.7941439+00:00"
 }

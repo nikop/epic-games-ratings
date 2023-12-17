@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1075,7 +1075,7 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 16260,
+  "EOS_Progressed": 16265,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 827,
   "EOS_NewCompleters": 0,
@@ -13865,6 +13865,11 @@
       "Time": "2023-12-17T04:09:11.2210794+00:00",
       "NumProgressed": 16260,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-17T05:09:51.9984787+00:00",
+      "NumProgressed": 16265,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -13925,7 +13930,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 6829
+      "UsersEstimate": 6831
     },
     {
       "ID": "a_19",
@@ -13965,7 +13970,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "a_23",
@@ -14124,7 +14129,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 16260,
+      "Progressed": 16265,
       "Completed": 12
     }
   ],
@@ -14132,8 +14137,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-17T04:09:11.2210787+00:00",
+  "LastChanged_Achievements": "2023-12-17T05:09:51.9984783+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:03.7853176+00:00",
-  "LastUpdate_Ratings": "2023-12-17T03:57:17.7802187+00:00",
-  "LastUpdate_Achievements": "2023-12-17T04:09:11.2211618+00:00"
+  "LastUpdate_Ratings": "2023-12-17T04:57:24.3597125+00:00",
+  "LastUpdate_Achievements": "2023-12-17T05:09:51.9985811+00:00"
 }

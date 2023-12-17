@@ -6,7 +6,7 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 39.00% | ~202 |
+| Adept | 39.00% | ~203 |
 | Double Kill | 31.00% | ~161 |
 | Critical Hit | 17.00% | ~88 |
 | Veteran | 16.00% | ~83 |
@@ -28,10 +28,10 @@ Number of Ratings: 292  (23.09.2022)
 | Versatile Wielder | 2.00% | ~10 |
 | Deepstrike | 2.00% | ~10 |
 | Infernal Influence | 1.00% | ~5 |
+| From the Ashes | 1.00% | ~5 |
 | Such A Fungi | 1.00% | ~5 |
 | Ultra Kill | 1.00% | ~5 |
 | Grand Master | 1.00% | ~5 |
-| From the Ashes | 0.80% | ~4 |
 | Get Over Here! | 0.80% | ~4 |
 | Death To Diplomacy | 0.60% | ~3 |
 | Unlimited Power! | 0.60% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 519 (Ranked 324)  
+Progressed: 520 (Ranked 324)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,11 +98,11 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 474 | 0 |
 | 2023-12-15 | 488 | 0 |
 | 2023-12-16 | 515 | 0 |
-| 2023-12-17 | 519 | 0 |
+| 2023-12-17 | 520 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 27  (Ranked 518)  
+Max (Quickly Understood Controls): 27  (Ranked 519)  
 Sum: 194 (Ranked 411)  
-Diff (max vs sum): 107  
+Diff (max vs sum): 108  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 27 |

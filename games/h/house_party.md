@@ -30,15 +30,16 @@ Number of Ratings: 177  (23.09.2022)
 | Stephanie | 0.70% | ~47 |
 | The Magic Number | 0.70% | ~47 |
 | Vickie | 0.70% | ~47 |
+| Te Amo Lety | 0.70% | ~47 |
 | Deck the Balls | 0.60% | ~22 |
 | Now It's a Party! | 0.60% | ~40 |
-| Te Amo Lety | 0.60% | ~40 |
 | Ashley | 0.50% | ~33 |
 | Benedict Brahrnold | 0.50% | ~33 |
 | I'll Be Back | 0.50% | ~33 |
 | Love Conquers All | 0.50% | ~33 |
 | Rule 34 | 0.40% | ~27 |
 | Rachael | 0.40% | ~27 |
+| The Elder Brahs | 0.40% | ~27 |
 | Good Ol' Days | 0.40% | ~27 |
 | Beyond the Call of Dude-y | 0.30% | ~20 |
 | The Bride | 0.30% | ~20 |
@@ -48,7 +49,6 @@ Number of Ratings: 177  (23.09.2022)
 | Do You Smell Blood? | 0.30% | ~20 |
 | The Muse: Derek | 0.30% | ~20 |
 | Derezzed | 0.30% | ~20 |
-| The Elder Brahs | 0.30% | ~20 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~7 |
 | The Harder They Fall...Dood | 0.20% | ~13 |
 | Ronin | 0.20% | ~13 |
@@ -76,8 +76,8 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,678 (Ranked 187)  
-Completed: 3 (0.04%) (Ranked 337)  
+Progressed: 6,681 (Ranked 187)  
+Completed: 3 (0.04%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -308,7 +308,7 @@ Completed: 3 (0.04%) (Ranked 337)
 | 2023-12-14 | 6,605 | 3 |
 | 2023-12-15 | 6,637 | 3 |
 | 2023-12-16 | 6,670 | 3 |
-| 2023-12-17 | 6,678 | 3 |
+| 2023-12-17 | 6,681 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

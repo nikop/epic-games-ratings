@@ -6,10 +6,10 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,387 |
-| One HIT wonder | 36.00% | ~504 |
-| Wanderer | 34.00% | ~476 |
-| One shot, one kill | 28.00% | ~392 |
+| Atom Agent | 99.00% | ~1,388 |
+| One HIT wonder | 36.00% | ~505 |
+| Wanderer | 34.00% | ~477 |
+| One shot, one kill | 28.00% | ~393 |
 | Traveler | 25.00% | ~350 |
 | Grave Robber | 18.00% | ~252 |
 | Head Burst | 18.00% | ~252 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.10% | ~1 |
 | Pacifist | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,401 (Ranked 249)  
+Progressed: 1,402 (Ranked 249)  
 Completed: 1 (0.07%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,11 +236,11 @@ Completed: 1 (0.07%) (Ranked 313)
 | 2023-12-14 | 1,362 | 1 |
 | 2023-12-15 | 1,375 | 1 |
 | 2023-12-16 | 1,398 | 1 |
-| 2023-12-17 | 1,401 | 1 |
+| 2023-12-17 | 1,402 | 1 |
 ## Awards
 Max (Character Customization): 52  (Ranked 433)  
-Sum: 52 (Ranked 488)  
-Diff (max vs sum): -55  
+Sum: 52 (Ranked 489)  
+Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 52 |

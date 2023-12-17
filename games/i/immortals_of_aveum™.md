@@ -5,40 +5,40 @@ Rating: 4.12 (Ranked 976)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~832 |
-| Battlefields Have Memories | 80.00% | ~756 |
-| Enlisted | 73.00% | ~690 |
-| Maybe Engage a Little | 66.00% | ~624 |
-| No More Names | 46.00% | ~435 |
-| Initiate | 31.00% | ~293 |
-| Thrada-Kul | 27.00% | ~255 |
-| Socialite | 21.00% | ~198 |
-| Gravity-Challenged Rocks | 21.00% | ~198 |
-| Soldier | 17.00% | ~161 |
-| All the Major Food Groups | 17.00% | ~161 |
-| Beggars Would Ride | 15.00% | ~142 |
-| Control is an Illusion | 13.00% | ~123 |
-| The Means to Save It | 11.00% | ~104 |
-| Resilience to Sin | 10.00% | ~94 |
-| A Familiar Nest | 10.00% | ~94 |
-| Periapt Alizarin | 10.00% | ~94 |
-| Geas Aristeya | 9.00% | ~85 |
-| A Perfect Cycle | 9.00% | ~85 |
+| Unforeseen | 88.00% | ~839 |
+| Battlefields Have Memories | 80.00% | ~762 |
+| Enlisted | 73.00% | ~696 |
+| Maybe Engage a Little | 66.00% | ~629 |
+| No More Names | 47.00% | ~448 |
+| Initiate | 31.00% | ~295 |
+| Thrada-Kul | 27.00% | ~257 |
+| Socialite | 21.00% | ~200 |
+| Gravity-Challenged Rocks | 21.00% | ~200 |
+| Soldier | 17.00% | ~162 |
+| All the Major Food Groups | 17.00% | ~162 |
+| Beggars Would Ride | 15.00% | ~143 |
+| Control is an Illusion | 13.00% | ~124 |
+| The Means to Save It | 11.00% | ~105 |
+| Resilience to Sin | 10.00% | ~95 |
+| A Familiar Nest | 10.00% | ~95 |
+| Periapt Alizarin | 10.00% | ~95 |
+| Geas Aristeya | 9.00% | ~86 |
+| A Perfect Cycle | 9.00% | ~86 |
 | Recruit | 8.00% | ~76 |
-| Armsman | 7.00% | ~66 |
+| Armsman | 7.00% | ~67 |
 | Lights Army | 6.00% | ~57 |
-| Periapt Cerulean | 5.00% | ~47 |
-| Good Boy | 5.00% | ~47 |
+| Periapt Cerulean | 5.00% | ~48 |
+| Good Boy | 5.00% | ~48 |
 | Periapt Viridian | 4.00% | ~38 |
-| Best Dressed | 3.00% | ~28 |
-| Armaments Azure | 3.00% | ~28 |
-| Armaments Gules | 3.00% | ~28 |
-| Shroudfane Explorer | 3.00% | ~28 |
+| Best Dressed | 3.00% | ~29 |
+| Armaments Azure | 3.00% | ~29 |
+| Armaments Gules | 3.00% | ~29 |
+| Shroudfane Explorer | 3.00% | ~29 |
 | Scholar | 2.00% | ~19 |
 | Kitted Out | 2.00% | ~19 |
 | Armaments Vert | 2.00% | ~19 |
 | Veteran | 2.00% | ~19 |
-| Master of Carmine | 1.00% | ~9 |
+| Master of Carmine | 0.90% | ~9 |
 | Shroudfane Surveyor | 0.80% | ~8 |
 | Tip of the Spear | 0.70% | ~7 |
 | Master of Ultramarine | 0.60% | ~6 |
@@ -53,7 +53,7 @@ Rating: 4.12 (Ranked 976)
 | Out of Time | 0.20% | ~2 |
 | Fowl Play | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 945 (Ranked 277)  
+Progressed: 953 (Ranked 276)  
 Completed: 2 (0.21%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 2 (0.21%) (Ranked 263)
 | 2023-12-14 | 532 | 2 |
 | 2023-12-15 | 689 | 2 |
 | 2023-12-16 | 908 | 2 |
-| 2023-12-17 | 945 | 2 |
+| 2023-12-17 | 953 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

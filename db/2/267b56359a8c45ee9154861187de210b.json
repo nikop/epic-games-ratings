@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -758,9 +758,9 @@
       "ID": "beat_mayhem",
       "SetID": "3448go",
       "Name": "Ultra Unlocked",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "beat_mayhem_diamond",
@@ -1029,8 +1029,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-12-17T04:04:35.7863459+00:00",
+  "LastChanged_Achievements": "2023-12-17T05:05:34.0628275+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:19.378274+00:00",
-  "LastUpdate_Ratings": "2023-12-17T03:57:58.4814237+00:00",
-  "LastUpdate_Achievements": "2023-12-17T04:04:35.7864117+00:00"
+  "LastUpdate_Ratings": "2023-12-17T04:58:23.0300073+00:00",
+  "LastUpdate_Achievements": "2023-12-17T05:05:34.0629215+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 187,
-  "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_Completed": 336,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6678,
+  "EOS_Progressed": 6681,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6992,6 +6992,11 @@
       "Time": "2023-12-17T04:04:55.4979686+00:00",
       "NumProgressed": 6678,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T05:06:00.5153554+00:00",
+      "NumProgressed": 6681,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -7513,9 +7518,9 @@
       "ID": "elderbrahs",
       "SetID": "bmkn7o4",
       "Name": "The Elder Brahs",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 27
     },
     {
       "ID": "geometry",
@@ -7545,30 +7550,30 @@
       "ID": "tal",
       "SetID": "bmkn7o4",
       "Name": "Te Amo Lety",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3717,
+      "Progressed": 3720,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6678,
+      "Progressed": 6681,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-17T04:04:55.4979683+00:00",
+  "LastChanged_Achievements": "2023-12-17T05:06:00.5153552+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:00.6837777+00:00",
-  "LastUpdate_Ratings": "2023-12-17T03:57:09.53303+00:00",
-  "LastUpdate_Achievements": "2023-12-17T04:04:55.498036+00:00"
+  "LastUpdate_Ratings": "2023-12-17T04:57:11.920119+00:00",
+  "LastUpdate_Achievements": "2023-12-17T05:06:00.51545+00:00"
 }

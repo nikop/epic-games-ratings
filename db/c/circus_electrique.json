@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -531,9 +531,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "631ndc2",
       "Name": "Grand Opening",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 206
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -940,8 +940,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-12-17T04:04:00.9311312+00:00",
+  "LastChanged_Achievements": "2023-12-17T05:04:46.8021686+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.7923718+00:00",
-  "LastUpdate_Ratings": "2023-12-17T03:59:50.7754+00:00",
-  "LastUpdate_Achievements": "2023-12-17T04:04:00.9311774+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:01:05.5029423+00:00",
+  "LastUpdate_Achievements": "2023-12-17T05:04:46.8022117+00:00"
 }

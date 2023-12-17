@@ -7609,9 +7609,9 @@
       "Count": 3799
     }
   ],
-  "EOS_Progressed": 145975,
+  "EOS_Progressed": 145979,
   "EOS_Completed": 319,
-  "EOS_NewPlayers": 1443,
+  "EOS_NewPlayers": 1441,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -32759,6 +32759,11 @@
       "Time": "2023-12-17T04:05:09.0521246+00:00",
       "NumProgressed": 145975,
       "NumCompleted": 319
+    },
+    {
+      "Time": "2023-12-17T05:06:18.6437035+00:00",
+      "NumProgressed": 145979,
+      "NumCompleted": 319
     }
   ],
   "TotalAchievements": 112,
@@ -33034,7 +33039,7 @@
       "Name": "Disintermediation",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8758
+      "UsersEstimate": 8759
     },
     {
       "ID": "craft02",
@@ -33242,7 +33247,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10218
+      "UsersEstimate": 10219
     },
     {
       "ID": "gold02",
@@ -33546,7 +33551,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8758
+      "UsersEstimate": 8759
     },
     {
       "ID": "sell02",
@@ -33665,15 +33670,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 145975,
+      "Progressed": 145979,
       "Completed": 319
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-17T04:02:58.7832088+00:00",
-  "LastChanged_Achievements": "2023-12-17T04:05:09.0521243+00:00",
+  "LastChanged_Achievements": "2023-12-17T05:06:18.6437032+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-17T04:02:58.7832094+00:00",
-  "LastUpdate_Achievements": "2023-12-17T04:05:09.0523279+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:03:18.7637723+00:00",
+  "LastUpdate_Achievements": "2023-12-17T05:06:18.6438961+00:00"
 }

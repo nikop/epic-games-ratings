@@ -3,12 +3,12 @@
   "Name": "Wildermyth",
   "ProductSlug": "wildermyth-593344",
   "Ranking_Rating": 112,
-  "Ranking_Popularity": 505,
-  "Ranking_PopularitySum": 522,
+  "Ranking_Popularity": 506,
+  "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -166,7 +166,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1527,
+  "EOS_Progressed": 1528,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
@@ -2106,6 +2106,11 @@
       "Time": "2023-12-16T23:10:04.3715669+00:00",
       "NumProgressed": 1527,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-17T05:10:33.675176+00:00",
+      "NumProgressed": 1528,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -2564,15 +2569,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1527,
+      "Progressed": 1528,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-17T04:09:42.5179022+00:00",
+  "LastChanged_Achievements": "2023-12-17T05:10:33.6751758+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:42.9077467+00:00",
-  "LastUpdate_Ratings": "2023-12-17T03:59:44.9497765+00:00",
-  "LastUpdate_Achievements": "2023-12-17T04:09:42.5179399+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:00:56.5228333+00:00",
+  "LastUpdate_Achievements": "2023-12-17T05:10:33.6752303+00:00"
 }

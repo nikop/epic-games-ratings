@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1449,9 +1449,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6440,
+  "EOS_Progressed": 6441,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14559,6 +14559,11 @@
       "Time": "2023-12-17T04:08:14.1023715+00:00",
       "NumProgressed": 6440,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T05:08:33.8927428+00:00",
+      "NumProgressed": 6441,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14610,7 +14615,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -14674,7 +14679,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -14714,7 +14719,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -14826,7 +14831,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2962
+      "UsersEstimate": 2963
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -14889,15 +14894,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6440,
+      "Progressed": 6441,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-16T18:58:39.8372052+00:00",
-  "LastChanged_Achievements": "2023-12-17T04:08:14.1023712+00:00",
+  "LastChanged_Achievements": "2023-12-17T05:08:33.8927425+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.7844638+00:00",
-  "LastUpdate_Ratings": "2023-12-17T03:58:44.0194581+00:00",
-  "LastUpdate_Achievements": "2023-12-17T04:08:14.102444+00:00"
+  "LastUpdate_Ratings": "2023-12-17T04:59:27.9513365+00:00",
+  "LastUpdate_Achievements": "2023-12-17T05:08:33.8928399+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 64.00% | ~227 |
-| Cartographer | 56.00% | ~198 |
-| A Strange Artefact | 52.00% | ~184 |
+| The Adventure Begins | 63.00% | ~224 |
+| Cartographer | 56.00% | ~199 |
+| A Strange Artefact | 52.00% | ~185 |
 | Insomnia | 48.00% | ~170 |
-| Lost & Found & Lost Again | 43.00% | ~152 |
+| Lost & Found & Lost Again | 43.00% | ~153 |
 | From Whence we Came | 42.00% | ~149 |
 | Fire and Flood | 40.00% | ~142 |
-| Spooky! | 36.00% | ~127 |
-| Shennong Herbalist | 34.00% | ~120 |
-| Treasure Hunt | 34.00% | ~120 |
+| Spooky! | 36.00% | ~128 |
+| Shennong Herbalist | 34.00% | ~121 |
+| Treasure Hunt | 34.00% | ~121 |
 | Good Mama | 31.00% | ~110 |
 | O Captain My Captain | 30.00% | ~106 |
-| Plunderer | 29.00% | ~103 |
+| Plunderer | 28.00% | ~99 |
 | Taxonomist | 27.00% | ~96 |
-| Traveller | 25.00% | ~88 |
-| Uncertain Loyalties | 25.00% | ~88 |
+| Traveller | 25.00% | ~89 |
+| Uncertain Loyalties | 25.00% | ~89 |
 | Nahua Seeker | 24.00% | ~85 |
 | Roll to Save | 22.00% | ~78 |
-| Veteran Explorer | 21.00% | ~74 |
+| Veteran Explorer | 21.00% | ~75 |
 | Red Flag Pirate | 19.00% | ~67 |
 | Iron Man | 17.00% | ~60 |
 | For the Club! | 16.00% | ~57 |
@@ -38,9 +38,9 @@ Number of Ratings: 20  (23.09.2022)
 | The Director is Dead | 13.00% | ~46 |
 | Discovery | 13.00% | ~46 |
 | Plays Well With Others | 13.00% | ~46 |
-| Very Classy | 12.00% | ~42 |
+| Very Classy | 12.00% | ~43 |
 | Under the Table | 11.00% | ~39 |
-| It's Complicated | 10.00% | ~35 |
+| It's Complicated | 10.00% | ~36 |
 | Cold Blood, Warm Heart | 9.00% | ~32 |
 | Errand Runner | 9.00% | ~32 |
 | SCHMETTERLING | 8.00% | ~28 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 354 (Ranked 349)  
+Progressed: 355 (Ranked 349)  
 Completed: 1 (0.28%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,6 +122,7 @@ Completed: 1 (0.28%) (Ranked 247)
 | 2023-12-14 | 345 | 1 |
 | 2023-12-15 | 350 | 1 |
 | 2023-12-16 | 354 | 1 |
+| 2023-12-17 | 355 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

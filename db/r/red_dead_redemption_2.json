@@ -2,13 +2,13 @@
   "ID": "b30b6d1b4dfd4dcc93b5490be5e094e5",
   "Name": "Red Dead Redemption 2",
   "ProductSlug": "red-dead-redemption-2",
-  "Ranking_Rating": 16,
+  "Ranking_Rating": 17,
   "Ranking_Popularity": 6,
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -18293,10 +18293,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 554141,
       "NumberOfAwardsMax": 210832
+    },
+    {
+      "Time": "2023-12-17T04:59:13.7462537+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 554621,
+      "NumberOfAwardsMax": 210832
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 554141,
+  "NumberOfAwards": 554621,
   "NumberOfAwardsMax": 210832,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -18310,13 +18316,13 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 118247
+      "Count": 118645
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 22934
+      "Count": 23016
     },
     {
       "Text": "This game has Amazing Characters",
@@ -18396,8 +18402,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-12-17T02:58:32.5312481+00:00",
+  "LastChanged": "2023-12-17T04:59:13.7462536+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.9953627+00:00",
-  "LastUpdate_Ratings": "2023-12-17T03:58:34.3691239+00:00",
-  "LastUpdate_Achievements": "2023-12-17T04:06:10.4988081+00:00"
+  "LastUpdate_Ratings": "2023-12-17T04:59:13.7462541+00:00",
+  "LastUpdate_Achievements": "2023-12-17T05:07:42.9415831+00:00"
 }

@@ -49,8 +49,10 @@ Number of Ratings: 15,086  (23.09.2022)
 | Just Chilling | 0.40% | ~965 |
 | Save Our Souls | 0.40% | ~965 |
 | Destroy Your Fears | 0.40% | ~965 |
+| All Consuming | 0.40% | ~965 |
 | Stop Hitting Yourself | 0.40% | ~965 |
 | Doing Time | 0.40% | ~965 |
+| Spreading Plague | 0.40% | ~965 |
 | Acid Bath | 0.40% | ~965 |
 | New Perspectives | 0.40% | ~965 |
 | Shapeshifting | 0.40% | ~965 |
@@ -60,10 +62,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Rough Road | 0.30% | ~724 |
 | Berzerker | 0.30% | ~724 |
 | Don't Ignore Me! | 0.30% | ~724 |
-| All Consuming | 0.30% | ~724 |
 | Illuminate, Eliminate | 0.30% | ~724 |
 | Chain Reaction | 0.30% | ~724 |
-| Spreading Plague | 0.30% | ~724 |
 | Antivenom | 0.30% | ~724 |
 | Snake Sneak | 0.30% | ~724 |
 | The Long Run | 0.30% | ~724 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,168 (Ranked 66)  
+Progressed: 241,169 (Ranked 66)  
 Completed: 299 (0.12%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -386,7 +386,7 @@ Completed: 299 (0.12%) (Ranked 290)
 | 2023-12-14 | 241,040 | 298 |
 | 2023-12-15 | 241,093 | 299 |
 | 2023-12-16 | 241,163 | 299 |
-| 2023-12-17 | 241,168 | 299 |
+| 2023-12-17 | 241,169 | 299 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,742 (Ranked 87)  

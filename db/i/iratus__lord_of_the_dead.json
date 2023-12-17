@@ -2,13 +2,13 @@
   "ID": "d250bdf072934b70ab080c6fcee77734",
   "Name": "Iratus: Lord of the Dead",
   "ProductSlug": "iratus-d0e5ba",
-  "Ranking_Rating": 778,
+  "Ranking_Rating": 779,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 153,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2413,7 +2413,7 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 47112,
+  "EOS_Progressed": 47113,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 0,
@@ -28563,6 +28563,11 @@
       "Time": "2023-12-17T04:03:21.4434364+00:00",
       "NumProgressed": 47112,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-12-17T05:03:52.6679688+00:00",
+      "NumProgressed": 47113,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 75,
@@ -28574,7 +28579,7 @@
       "Name": "That Was Easy!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9422
+      "UsersEstimate": 9423
     },
     {
       "ID": "achievements_10",
@@ -28630,7 +28635,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 16489
+      "UsersEstimate": 16490
     },
     {
       "ID": "achievements_19",
@@ -28638,7 +28643,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 13191
+      "UsersEstimate": 13192
     },
     {
       "ID": "achievements_2",
@@ -28678,7 +28683,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 28267
+      "UsersEstimate": 28268
     },
     {
       "ID": "achievements_24",
@@ -28694,7 +28699,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 13191
+      "UsersEstimate": 13192
     },
     {
       "ID": "achievements_26",
@@ -28766,7 +28771,7 @@
       "Name": "Cannon Fodder - II",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 13662
+      "UsersEstimate": 13663
     },
     {
       "ID": "achievements_34",
@@ -28830,7 +28835,7 @@
       "Name": "Silent Waters",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9422
+      "UsersEstimate": 9423
     },
     {
       "ID": "achievements_41",
@@ -28870,7 +28875,7 @@
       "Name": "Legendary Warrior",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 5653
+      "UsersEstimate": 5654
     },
     {
       "ID": "achievements_46",
@@ -28878,7 +28883,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 40045
+      "UsersEstimate": 40046
     },
     {
       "ID": "achievements_47",
@@ -28910,7 +28915,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 24027
+      "UsersEstimate": 24028
     },
     {
       "ID": "achievements_50",
@@ -28918,7 +28923,7 @@
       "Name": "Master of Destruction",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "achievements_51",
@@ -28950,7 +28955,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 20258
+      "UsersEstimate": 20259
     },
     {
       "ID": "achievements_55",
@@ -29006,7 +29011,7 @@
       "Name": "Head of Order",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9422
+      "UsersEstimate": 9423
     },
     {
       "ID": "achievements_62",
@@ -29158,7 +29163,7 @@
       "Name": "Shadow Between Worlds",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 13662
+      "UsersEstimate": 13663
     },
     {
       "ID": "achievements_9",
@@ -29173,15 +29178,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 47112,
+      "Progressed": 47113,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-12-17T01:51:44.8826939+00:00",
-  "LastChanged_Achievements": "2023-12-17T04:03:21.4434362+00:00",
+  "LastChanged_Achievements": "2023-12-17T05:03:52.6679684+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:51.7463976+00:00",
-  "LastUpdate_Ratings": "2023-12-17T03:58:50.9144575+00:00",
-  "LastUpdate_Achievements": "2023-12-17T04:03:21.4436424+00:00"
+  "LastUpdate_Ratings": "2023-12-17T04:59:38.9824662+00:00",
+  "LastUpdate_Achievements": "2023-12-17T05:03:52.6681249+00:00"
 }

@@ -6,32 +6,32 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~18,540 |
-| Sword Runner | 61.00% | ~14,881 |
-| Running out of breath | 53.00% | ~12,929 |
-| Wallrunner | 53.00% | ~12,929 |
-| Homerunner | 45.00% | ~10,978 |
-| Out of order | 44.00% | ~10,734 |
-| I call it luck | 43.00% | ~10,490 |
-| Where are my Keys? | 40.00% | ~9,758 |
-| Back to hell | 36.00% | ~8,782 |
-| Perfection | 32.00% | ~7,806 |
-| Why not both | 30.00% | ~7,318 |
-| Sword to a gunfight | 29.00% | ~7,075 |
-| Upgrades not mandatory | 29.00% | ~7,075 |
-| Artificial selection | 28.00% | ~6,831 |
-| Control freak | 27.00% | ~6,587 |
-| Finish line | 26.00% | ~6,343 |
-| Running Wild | 26.00% | ~6,343 |
-| Unstoppable force | 22.00% | ~5,367 |
-| Wave of mutilation | 21.00% | ~5,123 |
-| Can't Run Can't Hide | 16.00% | ~3,903 |
-| Dead in the air | 15.00% | ~3,659 |
-| R is for Running | 15.00% | ~3,659 |
-| Improvise, adapt, overrun | 12.00% | ~2,927 |
-| Pre-empative strike | 12.00% | ~2,927 |
-| Strike | 12.00% | ~2,927 |
-| More than human | 11.00% | ~2,683 |
+| Longrunner | 76.00% | ~18,543 |
+| Sword Runner | 61.00% | ~14,883 |
+| Running out of breath | 53.00% | ~12,931 |
+| Wallrunner | 53.00% | ~12,931 |
+| Homerunner | 45.00% | ~10,980 |
+| Out of order | 44.00% | ~10,736 |
+| I call it luck | 43.00% | ~10,492 |
+| Where are my Keys? | 40.00% | ~9,760 |
+| Back to hell | 36.00% | ~8,784 |
+| Perfection | 32.00% | ~7,808 |
+| Why not both | 30.00% | ~7,320 |
+| Sword to a gunfight | 29.00% | ~7,076 |
+| Upgrades not mandatory | 29.00% | ~7,076 |
+| Artificial selection | 28.00% | ~6,832 |
+| Control freak | 27.00% | ~6,588 |
+| Finish line | 26.00% | ~6,344 |
+| Running Wild | 26.00% | ~6,344 |
+| Unstoppable force | 22.00% | ~5,368 |
+| Wave of mutilation | 21.00% | ~5,124 |
+| Can't Run Can't Hide | 16.00% | ~3,904 |
+| Dead in the air | 15.00% | ~3,660 |
+| R is for Running | 15.00% | ~3,660 |
+| Improvise, adapt, overrun | 12.00% | ~2,928 |
+| Pre-empative strike | 12.00% | ~2,928 |
+| Strike | 12.00% | ~2,928 |
+| More than human | 11.00% | ~2,684 |
 | Triple A | 9.00% | ~2,196 |
 | Fine addition | 6.00% | ~1,464 |
 | One Of Those Days | 6.00% | ~1,464 |
@@ -52,8 +52,8 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~98 |
 | Up Close And Personal | 0.40% | ~98 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,395 (Ranked 141)  
-Completed: 93 (0.38%) (Ranked 228)  
+Progressed: 24,399 (Ranked 141)  
+Completed: 94 (0.39%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -293,7 +293,7 @@ Completed: 93 (0.38%) (Ranked 228)
 | 2023-12-14 | 24,160 | 93 |
 | 2023-12-15 | 24,264 | 93 |
 | 2023-12-16 | 24,376 | 93 |
-| 2023-12-17 | 24,395 | 93 |
+| 2023-12-17 | 24,399 | 94 |
 ## Awards
 Max (Great Boss Battles): 527  (Ranked 211)  
 Sum: 764 (Ranked 288)  

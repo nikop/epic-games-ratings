@@ -6,11 +6,11 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 7.00% | ~193 |
-| Lost and Found | 4.00% | ~110 |
+| Malpractice Assurance | 7.00% | ~194 |
+| This guy... again? | 4.00% | ~111 |
+| Lost and Found | 4.00% | ~111 |
 | This Belongs in a Museum | 3.00% | ~3,837 |
 | Autodidact | 3.00% | ~3,837 |
-| This guy... again? | 3.00% | ~83 |
 | Bloody Graduation | 3.00% | ~83 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,558 |
 | Serenity Now! | 2.00% | ~2,558 |
@@ -26,6 +26,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ploughshares to Swords | 2.00% | ~55 |
 | Friends 'Til the End | 2.00% | ~55 |
 | It Rings a Bell | 1.00% | ~1,279 |
+| Unleash Hell | 1.00% | ~1,279 |
 | Unfulfilled Desires | 1.00% | ~1,279 |
 | Dissector | 1.00% | ~1,279 |
 | Banishment | 1.00% | ~1,279 |
@@ -43,7 +44,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unshackled | 1.00% | ~1,279 |
 | Road Trip | 1.00% | ~1,279 |
 | Resurrection | 0.90% | ~1,151 |
-| Unleash Hell | 0.90% | ~1,151 |
 | Funny Guy | 0.90% | ~1,151 |
 | Long Live the King | 0.90% | ~1,151 |
 | Wyrdly Reconstructed | 0.90% | ~1,151 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 | On This Long Road, We Found Redemption | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,887 (Ranked 85)  
+Progressed: 127,896 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 3 (0.00%) (Ranked 379)
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
-| 2023-12-17 | 127,887 | 3 |
+| 2023-12-17 | 127,896 | 3 |
 ## Awards
 Max (Character Customization): 7,744  (Ranked 51)  
 Sum: 20,608 (Ranked 58)  

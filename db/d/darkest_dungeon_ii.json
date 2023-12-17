@@ -9810,9 +9810,9 @@
       "Count": 1018
     }
   ],
-  "EOS_Progressed": 127887,
+  "EOS_Progressed": 127896,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1919,
+  "EOS_NewPlayers": 1921,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35420,6 +35420,11 @@
       "Time": "2023-12-17T04:08:51.236946+00:00",
       "NumProgressed": 127887,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T05:09:24.4470038+00:00",
+      "NumProgressed": 127896,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35469,9 +35474,9 @@
       "ID": "altar_of_hope_unlock_hero_hellion",
       "SetID": "64l4lke",
       "Name": "Unleash Hell",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1279
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -35967,15 +35972,15 @@
       "Name": "Malpractice Assurance",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "combat_kill_collector",
       "SetID": "d3bcpc8",
       "Name": "This guy... again?",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 111
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36031,7 +36036,7 @@
       "Name": "Lost and Found",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36062,21 +36067,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127887,
+      "Progressed": 127896,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2756,
+      "Progressed": 2765,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-17T01:50:35.302696+00:00",
-  "LastChanged_Achievements": "2023-12-17T04:08:51.2369457+00:00",
+  "LastChanged_Achievements": "2023-12-17T05:09:24.4470036+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-17T03:57:42.9285045+00:00",
-  "LastUpdate_Achievements": "2023-12-17T04:08:51.2371399+00:00"
+  "LastUpdate_Ratings": "2023-12-17T04:57:59.8985366+00:00",
+  "LastUpdate_Achievements": "2023-12-17T05:09:24.4471753+00:00"
 }

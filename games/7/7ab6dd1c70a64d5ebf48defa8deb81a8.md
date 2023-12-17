@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 41.00% | ~264 |
-| Trinity | 16.00% | ~103 |
+| Break Out | 41.00% | ~266 |
+| Trinity | 16.00% | ~104 |
 | I Found It | 13.00% | ~84 |
-| Find Allies | 11.00% | ~71 |
-| A Taste of Wrath | 11.00% | ~71 |
-| Shatter Them All | 11.00% | ~71 |
-| Fashion Victim | 11.00% | ~71 |
-| The Collector | 11.00% | ~71 |
-| Geared Up | 10.00% | ~64 |
+| Find Allies | 11.00% | ~72 |
+| A Taste of Wrath | 11.00% | ~72 |
+| Shatter Them All | 11.00% | ~72 |
+| Fashion Victim | 11.00% | ~72 |
+| The Collector | 11.00% | ~72 |
+| Geared Up | 10.00% | ~65 |
 | Adventurer | 9.00% | ~58 |
 | Tributes of Caladrias | 9.00% | ~58 |
 | Scholar | 8.00% | ~52 |
 | Stone Collection | 8.00% | ~52 |
-| Powerful Allies | 7.00% | ~45 |
-| Big Bazar | 7.00% | ~45 |
+| Powerful Allies | 7.00% | ~46 |
+| Big Bazar | 7.00% | ~46 |
 | Essence Blow | 5.00% | ~32 |
 | Calm before the Storm | 4.00% | ~26 |
 | The Mentor | 4.00% | ~26 |
+| Airborne | 4.00% | ~26 |
 | Alchemist | 4.00% | ~26 |
-| To Battle | 3.00% | ~19 |
-| Godslayer | 3.00% | ~19 |
-| Airborne | 3.00% | ~19 |
+| To Battle | 3.00% | ~20 |
+| Godslayer | 3.00% | ~20 |
 | Clear Sight | 2.00% | ~13 |
 | Shatterer | 2.00% | ~13 |
 | Fine Feathers Make Fine Birds | 2.00% | ~13 |
@@ -34,15 +34,15 @@
 | Slayer | 1.00% | ~6 |
 | All There Is | 1.00% | ~6 |
 | False God | 1.00% | ~6 |
+| Flawless Victory | 0.90% | ~6 |
 | Summiter | 0.90% | ~6 |
 | Forgemaster | 0.80% | ~5 |
-| Flawless Victory | 0.80% | ~5 |
 | All That Gold | 0.80% | ~5 |
 | Shardbearer | 0.60% | ~4 |
 | Feeling Fancy | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 644 (Ranked 302)  
-Completed: 3 (0.47%) (Ranked 215)  
+Progressed: 650 (Ranked 300)  
+Completed: 3 (0.46%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,4 +107,4 @@ Completed: 3 (0.47%) (Ranked 215)
 | 2023-12-14 | 376 | 3 |
 | 2023-12-15 | 486 | 3 |
 | 2023-12-16 | 621 | 3 |
-| 2023-12-17 | 644 | 3 |
+| 2023-12-17 | 650 | 3 |

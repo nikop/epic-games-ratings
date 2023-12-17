@@ -1,20 +1,20 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 789)  
+Rating: 4.36 (Ranked 790)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 69.00% | ~53,124 |
-| INFUSED WITH LIGHT | 53.00% | ~40,806 |
+| A GUARDIAN FORGOTTEN | 69.00% | ~53,126 |
+| INFUSED WITH LIGHT | 53.00% | ~40,807 |
 | FOXIN' AROUND | 29.00% | ~22,328 |
 | FETCH | 28.00% | ~21,558 |
 | BLOOMS OF LIGHT | 26.00% | ~20,018 |
-| AWAKEN | 22.00% | ~16,938 |
-| BEST FRIENDS | 22.00% | ~16,938 |
-| ERADICATE | 21.00% | ~16,168 |
-| SPIRIT BARK | 21.00% | ~16,168 |
+| AWAKEN | 22.00% | ~16,939 |
+| BEST FRIENDS | 22.00% | ~16,939 |
+| ERADICATE | 21.00% | ~16,169 |
+| SPIRIT BARK | 21.00% | ~16,169 |
 | GARDEN OF LIGHT | 18.00% | ~13,859 |
 | SPIRIT FORM | 17.00% | ~13,089 |
 | UPROOTING DARKNESS | 16.00% | ~12,319 |
@@ -23,15 +23,15 @@ Number of Ratings: 1,175  (23.09.2022)
 | SPIRIT DASH | 11.00% | ~8,469 |
 | OLD COMPANION | 9.00% | ~6,929 |
 | PLAGUE DOCTOR | 9.00% | ~6,929 |
-| MATCH MAKER | 8.00% | ~6,159 |
-| NORTHERN LIGHTS | 8.00% | ~6,159 |
-| SPIRITED AWAY | 8.00% | ~6,159 |
+| MATCH MAKER | 8.00% | ~6,160 |
+| NORTHERN LIGHTS | 8.00% | ~6,160 |
+| SPIRITED AWAY | 8.00% | ~6,160 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~3,080 |
 | ANCIENT HISTORY | 3.00% | ~2,310 |
 | NONE FORGOTTEN | 2.00% | ~1,540 |
 | KINDRED SPIRITS | 0.60% | ~462 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,992 (Ranked 102)  
+Progressed: 76,994 (Ranked 102)  
 Completed: 413 (0.54%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,11 +272,11 @@ Completed: 413 (0.54%) (Ranked 204)
 | 2023-12-14 | 76,786 | 413 |
 | 2023-12-15 | 76,867 | 413 |
 | 2023-12-16 | 76,979 | 413 |
-| 2023-12-17 | 76,992 | 413 |
+| 2023-12-17 | 76,994 | 413 |
 ## Awards
-Max (Extremely Fun): 27  (Ranked 518)  
+Max (Extremely Fun): 27  (Ranked 519)  
 Sum: 116 (Ranked 448)  
-Diff (max vs sum): 70  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 27 |

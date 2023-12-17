@@ -1,53 +1,53 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.88 (Ranked 16)  
+Rating: 4.89 (Ranked 10)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 36.00% | ~2,856 |
-| Feeling the beat! | 36.00% | ~2,856 |
-| You can pet the cat! | 32.00% | ~2,539 |
-| Who put gears in there? | 24.00% | ~1,904 |
-| Cream of the Crop | 21.00% | ~1,666 |
-| Thanks for the free chip, Peppermint! | 20.00% | ~1,587 |
-| You got this, Peppermint? | 17.00% | ~1,349 |
-| Perfect Parry | 15.00% | ~1,190 |
-| Alright, that felt AWESOME! | 15.00% | ~1,190 |
-| I play my own way! | 14.00% | ~1,111 |
-| This will cost you big time | 12.00% | ~952 |
-| Uh, they were broken when I got here | 12.00% | ~952 |
-| Does that say weakpoint? | 12.00% | ~952 |
-| Z-shielding's got nothing on us! | 11.00% | ~873 |
-| Kissing the sky! | 10.00% | ~793 |
-| Whoa! There's ANOTHER health bar!? | 9.00% | ~714 |
-| The Negotiator | 8.00% | ~635 |
-| I look cool. But I can look COOLER. | 8.00% | ~635 |
-| You must like calling me in, Chai | 7.00% | ~555 |
-| Out in a puff of smoke | 7.00% | ~555 |
-| Headliner | 6.00% | ~476 |
-| Time to pay up! | 6.00% | ~476 |
-| Who's the boss now? | 6.00% | ~476 |
-| I have to read these things? | 6.00% | ~476 |
-| Perfecter Parry-er! | 6.00% | ~476 |
-| NOW we got a kickass hideout! | 5.00% | ~323 |
-| Well that was a rush! | 4.00% | ~317 |
-| That's a lot of junk metal… | 4.00% | ~317 |
-| There's such a thing as TOO helpful | 4.00% | ~317 |
-| Beat-hit mania | 3.00% | ~238 |
-| I told you I'd be fine, Peppermint! | 3.00% | ~238 |
+| Feeling the beat! | 37.00% | ~2,950 |
+| Start with a bang! | 36.00% | ~2,871 |
+| You can pet the cat! | 32.00% | ~2,552 |
+| Who put gears in there? | 24.00% | ~1,914 |
+| Cream of the Crop | 21.00% | ~1,675 |
+| Thanks for the free chip, Peppermint! | 21.00% | ~1,675 |
+| You got this, Peppermint? | 17.00% | ~1,356 |
+| Perfect Parry | 16.00% | ~1,276 |
+| Alright, that felt AWESOME! | 15.00% | ~1,196 |
+| I play my own way! | 14.00% | ~1,116 |
+| This will cost you big time | 12.00% | ~957 |
+| Uh, they were broken when I got here | 12.00% | ~957 |
+| Does that say weakpoint? | 12.00% | ~957 |
+| Z-shielding's got nothing on us! | 11.00% | ~877 |
+| Kissing the sky! | 10.00% | ~797 |
+| Whoa! There's ANOTHER health bar!? | 9.00% | ~718 |
+| The Negotiator | 8.00% | ~638 |
+| I look cool. But I can look COOLER. | 8.00% | ~638 |
+| You must like calling me in, Chai | 7.00% | ~558 |
+| Out in a puff of smoke | 7.00% | ~558 |
+| Headliner | 6.00% | ~478 |
+| Time to pay up! | 6.00% | ~478 |
+| Who's the boss now? | 6.00% | ~478 |
+| I have to read these things? | 6.00% | ~478 |
+| Perfecter Parry-er! | 6.00% | ~478 |
+| NOW we got a kickass hideout! | 5.00% | ~325 |
+| Well that was a rush! | 4.00% | ~319 |
+| That's a lot of junk metal… | 4.00% | ~319 |
+| There's such a thing as TOO helpful | 4.00% | ~319 |
+| Beat-hit mania | 3.00% | ~239 |
+| I told you I'd be fine, Peppermint! | 3.00% | ~239 |
 | Chip-tuned | 2.00% | ~159 |
 | Wanna hear my playlist? | 2.00% | ~159 |
 | Check out my moves! | 2.00% | ~159 |
-| I think I deserve some praise, here! | 1.00% | ~79 |
-| I think I found your calling, Macaron | 1.00% | ~79 |
-| This is a breeze! | 1.00% | ~79 |
-| We're Jammin' | 1.00% | ~79 |
-| First we parry, then we counter | 1.00% | ~79 |
-| I hit things with a guitar really well. | 1.00% | ~79 |
-| You ever parry a volcano? | 1.00% | ~79 |
+| I think I deserve some praise, here! | 1.00% | ~80 |
+| I think I found your calling, Macaron | 1.00% | ~80 |
+| This is a breeze! | 1.00% | ~80 |
+| We're Jammin' | 1.00% | ~80 |
+| First we parry, then we counter | 1.00% | ~80 |
+| I hit things with a guitar really well. | 1.00% | ~80 |
+| You ever parry a volcano? | 1.00% | ~80 |
 | Call me Turbo Chai | 1.00% | ~65 |
-| I'm not done with you yet | 0.90% | ~71 |
+| I'm not done with you yet | 0.90% | ~72 |
 | New bad guys? No problem! | 0.70% | ~45 |
 | OK, well THEY came after ME! | 0.60% | ~48 |
 | Easy Listening | 0.50% | ~40 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 16)
 | Voices from within | 0.10% | ~6 |
 | Low budget finish | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,934 (Ranked 181)  
+Progressed: 7,974 (Ranked 181)  
 Completed: 8 (0.10%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 8 (0.10%) (Ranked 297)
 | 2023-12-14 | 5,878 | 8 |
 | 2023-12-15 | 6,923 | 8 |
 | 2023-12-16 | 7,817 | 8 |
-| 2023-12-17 | 7,934 | 8 |
+| 2023-12-17 | 7,974 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -335,3 +335,4 @@ Completed: 8 (0.10%) (Ranked 297)
 | 2023-10-25 | 4.86 | 0 | 0 |
 | 2023-11-19 | 4.87 | 0 | 0 |
 | 2023-12-14 | 4.88 | 0 | 0 |
+| 2023-12-17 | 4.89 | 0 | 0 |
