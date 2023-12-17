@@ -4,7 +4,7 @@
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -530,9 +530,9 @@
       "ID": "ACH_ENEMY_LEDGE_FALL",
       "SetID": "5akmpni",
       "Name": "Watch your Step!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_ENEMY_LEDGE_THROW",
@@ -554,9 +554,9 @@
       "ID": "ACH_EQUIP_ARTIFACT",
       "SetID": "5akmpni",
       "Name": "Treasure Hunter",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_EVO_MOMENT_37",
@@ -682,9 +682,9 @@
       "ID": "ACH_MONEY_TO_POOR",
       "SetID": "5akmpni",
       "Name": "The Altruist",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_NO_SIBLINGS",
@@ -801,8 +801,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-17T09:05:15.7706357+00:00",
+  "LastChanged_Achievements": "2023-12-17T10:05:09.8804366+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:38.8820495+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:01:05.9880497+00:00",
-  "LastUpdate_Achievements": "2023-12-17T09:05:15.7706859+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:02:34.5986889+00:00",
+  "LastUpdate_Achievements": "2023-12-17T10:05:09.8804808+00:00"
 }

@@ -1,11 +1,11 @@
 # FINAL FANTASY VII REMAKE INTERGRADE
 [Store](https://store.epicgames.com/en-US/p/final-fantasy-vii-remake-intergrade)  
 [View Rawdata](../../db/f/final_fantasy_vii_remake_intergrade.json)  
-Rating: 4.85 (Ranked 47)  
+Rating: 4.85 (Ranked 46)  
 Number of Ratings: 15,120  (23.09.2022)  
 ## Awards
 Max (Character Customization): 5,753  (Ranked 69)  
-Sum: 12,641 (Ranked 81)  
+Sum: 12,642 (Ranked 81)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): -12
 | This game is Extremely Fun | 322 |
 | This game is Relaxing | 316 |
 | This game has Quickly Understood Controls | 316 |
-| This game is Highly Recommended | 314 |
+| This game is Highly Recommended | 315 |
 | This game has Diverse Characters | 311 |
 | This game has Beautiful Visuals | 298 |
 | This game has Obsessive Gameplay | 284 |
@@ -296,4 +296,4 @@ Diff (max vs sum): -12
 | 2023-12-14 | 4.85 | - | 5,732 | 12,598 |
 | 2023-12-15 | 4.85 | - | 5,745 | 12,625 |
 | 2023-12-16 | 4.85 | - | 5,753 | 12,639 |
-| 2023-12-17 | 4.85 | - | 5,753 | 12,641 |
+| 2023-12-17 | 4.85 | - | 5,753 | 12,642 |

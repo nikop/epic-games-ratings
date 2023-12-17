@@ -7,7 +7,7 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 39.00% | ~205 |
-| Double Kill | 31.00% | ~163 |
+| Double Kill | 32.00% | ~168 |
 | Critical Hit | 17.00% | ~89 |
 | Veteran | 16.00% | ~84 |
 | Dressed For Success | 11.00% | ~58 |
@@ -16,17 +16,17 @@ Number of Ratings: 292  (23.09.2022)
 | Veni, Vidi, Vici | 7.00% | ~37 |
 | Multi Kill | 6.00% | ~32 |
 | Landlord Extraordinaire | 6.00% | ~32 |
-| Master | 5.00% | ~26 |
+| Master | 6.00% | ~32 |
 | Whoops! | 4.00% | ~21 |
 | Don't Touch My Stuff | 3.00% | ~16 |
 | Trojan Horse | 3.00% | ~16 |
 | Expert Essence Employment | 3.00% | ~16 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~16 |
-| The Song of Stoutheart | 2.00% | ~10 |
-| This Spot's Taken | 2.00% | ~10 |
-| Versatile Wielder | 2.00% | ~10 |
-| Deepstrike | 2.00% | ~10 |
-| Pyrrhic Victory | 2.00% | ~10 |
+| The Song of Stoutheart | 2.00% | ~11 |
+| This Spot's Taken | 2.00% | ~11 |
+| Versatile Wielder | 2.00% | ~11 |
+| Deepstrike | 2.00% | ~11 |
+| Pyrrhic Victory | 2.00% | ~11 |
 | Infernal Influence | 1.00% | ~5 |
 | From the Ashes | 1.00% | ~5 |
 | Such A Fungi | 1.00% | ~5 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525 (Ranked 324)  
+Progressed: 526 (Ranked 324)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 474 | 0 |
 | 2023-12-15 | 488 | 0 |
 | 2023-12-16 | 515 | 0 |
-| 2023-12-17 | 525 | 0 |
+| 2023-12-17 | 526 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 519)  
 Sum: 194 (Ranked 411)  

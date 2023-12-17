@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Alone with Them | 71.00% | ~231 |
-| Forced to Kill | 68.00% | ~221 |
-| A Night To Remember | 42.00% | ~136 |
+| Forced to Kill | 68.00% | ~222 |
+| A Night To Remember | 41.00% | ~134 |
 | Safe...For now? | 35.00% | ~114 |
 | Open Sesame | 30.00% | ~98 |
 | What have I done!? | 19.00% | ~62 |
-| Them and Us | 18.00% | ~58 |
-| OUTRAGE | 18.00% | ~58 |
+| Them and Us | 18.00% | ~59 |
+| OUTRAGE | 18.00% | ~59 |
 | This Coffin Has Your Name On It! | 15.00% | ~49 |
 | Alone In The Dark | 14.00% | ~46 |
 | The Cultists | 14.00% | ~46 |
@@ -19,20 +19,20 @@
 | Parasite Exterminated | 13.00% | ~42 |
 | Trapped | 12.00% | ~39 |
 | Modern Player | 11.00% | ~36 |
-| Lover of classics | 10.00% | ~32 |
-| Rest In Peace | 10.00% | ~32 |
-| The Curse Is Real | 10.00% | ~32 |
+| Lover of classics | 10.00% | ~33 |
+| Rest In Peace | 10.00% | ~33 |
+| The Curse Is Real | 10.00% | ~33 |
 | What A Mansion | 9.00% | ~29 |
 | I Am The Gate Keeper! | 7.00% | ~23 |
 | Researcher | 6.00% | ~20 |
 | This Mansion Is Clean | 5.00% | ~16 |
 | Armed To The Teeth | 4.00% | ~13 |
 | The bus stop | 3.00% | ~10 |
-| Back In Time | 2.00% | ~6 |
-| Spiritual essence well spent | 2.00% | ~6 |
-| Run and Gun | 2.00% | ~6 |
-| Pet The Dog | 2.00% | ~6 |
-| The 5th Element | 2.00% | ~6 |
+| Back In Time | 2.00% | ~7 |
+| Spiritual essence well spent | 2.00% | ~7 |
+| Run and Gun | 2.00% | ~7 |
+| Pet The Dog | 2.00% | ~7 |
+| The 5th Element | 2.00% | ~7 |
 | Retro Player | 1.00% | ~3 |
 | Before The Eclipse | 0.90% | ~3 |
 | Box Of Ploutus | 0.60% | ~2 |
@@ -45,7 +45,7 @@
 | Nightmare Over | 0.30% | ~1 |
 | Survival Horror | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 325 (Ranked 360)  
+Progressed: 326 (Ranked 360)  
 Completed: 1 (0.31%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 1 (0.31%) (Ranked 240)
 | 2023-12-09 | 317 | 1 |
 | 2023-12-14 | 321 | 1 |
 | 2023-12-16 | 324 | 1 |
-| 2023-12-17 | 325 | 1 |
+| 2023-12-17 | 326 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

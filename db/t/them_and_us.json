@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 325,
+  "EOS_Progressed": 326,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1426,6 +1426,11 @@
       "Time": "2023-12-17T04:04:57.5114546+00:00",
       "NumProgressed": 325,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T10:06:14.4228239+00:00",
+      "NumProgressed": 326,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1437,7 +1442,7 @@
       "Name": "Lover of classics",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ETUA_AloneInTheDark",
@@ -1469,7 +1474,7 @@
       "Name": "Back In Time",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ETUA_BeforeTheEclipse",
@@ -1525,7 +1530,7 @@
       "Name": "Spiritual essence well spent",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ETUA_ForcedtoKill",
@@ -1533,7 +1538,7 @@
       "Name": "Forced to Kill",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1541,7 +1546,7 @@
       "Name": "Them and Us",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -1557,7 +1562,7 @@
       "Name": "Run and Gun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ETUA_ModernPlayer",
@@ -1597,7 +1602,7 @@
       "Name": "OUTRAGE",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ETUA_PTD",
@@ -1605,7 +1610,7 @@
       "Name": "Pet The Dog",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ETUA_ParasiteExterminated",
@@ -1629,7 +1634,7 @@
       "Name": "Rest In Peace",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ETUA_SUPER",
@@ -1669,7 +1674,7 @@
       "Name": "The 5th Element",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ETUA_TheBusStop",
@@ -1693,7 +1698,7 @@
       "Name": "The Curse Is Real",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ETUA_TheForgottenTower",
@@ -1723,9 +1728,9 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 134
     },
     {
       "ID": "ETUA_Trapped",
@@ -1756,7 +1761,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 325,
+      "Progressed": 326,
       "Completed": 1
     }
   ],
@@ -1764,8 +1769,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-12-17T09:06:00.4684919+00:00",
+  "LastChanged_Achievements": "2023-12-17T10:06:14.4228235+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:15.4863673+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:57:53.7003015+00:00",
-  "LastUpdate_Achievements": "2023-12-17T09:06:00.4685263+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:57:21.0216769+00:00",
+  "LastUpdate_Achievements": "2023-12-17T10:06:14.4228653+00:00"
 }

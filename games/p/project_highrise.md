@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~226 |
+| In the Black | 59.00% | ~230 |
 | Starting Skyward | 52.00% | ~202 |
 | Grime is Not Good | 46.00% | ~179 |
 | Floor Galore | 41.00% | ~159 |
@@ -20,8 +20,8 @@
 | Potent Potables | 25.00% | ~97 |
 | Smooth Service | 25.00% | ~97 |
 | Your Prestige is Rising | 24.00% | ~93 |
+| Don't Feel a Loan | 23.00% | ~89 |
 | Retail Revenue | 23.00% | ~89 |
-| Don't Feel a Loan | 22.00% | ~86 |
 | People Mover | 21.00% | ~82 |
 | Lux Living | 20.00% | ~78 |
 | Artfully Done | 20.00% | ~78 |

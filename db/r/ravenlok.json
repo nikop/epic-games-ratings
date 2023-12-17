@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1149,
+  "EOS_Progressed": 1150,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.66,
+  "EOS_Completed_Percentage": 7.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -3205,6 +3205,11 @@
       "Time": "2023-12-17T03:06:06.2341699+00:00",
       "NumProgressed": 1149,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-12-17T10:07:57.9748988+00:00",
+      "NumProgressed": 1150,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 50,
@@ -3216,7 +3221,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "10",
@@ -3240,7 +3245,7 @@
       "Name": "Spellbound",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "13",
@@ -3248,7 +3253,7 @@
       "Name": "Extinct Again!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "14",
@@ -3296,7 +3301,7 @@
       "Name": "A Grand Visit",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "2",
@@ -3304,7 +3309,7 @@
       "Name": "Waff!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "20",
@@ -3392,7 +3397,7 @@
       "Name": "Vibing",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "30",
@@ -3408,7 +3413,7 @@
       "Name": "Little Shop",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "32",
@@ -3416,7 +3421,7 @@
       "Name": "The Guardian",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "33",
@@ -3440,7 +3445,7 @@
       "Name": "Teacups for Toppy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "36",
@@ -3454,9 +3459,9 @@
       "ID": "37",
       "SetID": "d0g98p",
       "Name": "Stronger!",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 460
+      "UsersEstimate": 448
     },
     {
       "ID": "38",
@@ -3472,7 +3477,7 @@
       "Name": "All Skilled Up!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "4",
@@ -3480,7 +3485,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "40",
@@ -3496,7 +3501,7 @@
       "Name": "Bombs Away!",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "42",
@@ -3520,7 +3525,7 @@
       "Name": "It\u0027s Pointy!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "45",
@@ -3528,7 +3533,7 @@
       "Name": "Extraordinary!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "46",
@@ -3600,7 +3605,7 @@
       "Name": "Tragic Brave",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "9",
@@ -3608,14 +3613,14 @@
       "Name": "Curtain Call",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 1149,
+      "Progressed": 1150,
       "Completed": 88
     }
   ],
@@ -3623,8 +3628,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-12-17T09:07:13.7834952+00:00",
+  "LastChanged_Achievements": "2023-12-17T10:07:57.9748985+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:36.3434081+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:59:54.5720927+00:00",
-  "LastUpdate_Achievements": "2023-12-17T09:07:13.7835362+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:00:20.4861319+00:00",
+  "LastUpdate_Achievements": "2023-12-17T10:07:57.97495+00:00"
 }

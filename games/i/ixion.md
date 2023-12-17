@@ -16,7 +16,7 @@ Rating: 4.58 (Ranked 455)
 | Fully Recycled | 14.00% | ~495 |
 | Ain't Nobody Got Time for That | 14.00% | ~495 |
 | The Ship of Theseus | 14.00% | ~495 |
-| Guy de Borderlands | 13.00% | ~459 |
+| Guy de Borderlands | 13.00% | ~460 |
 | Exceeding Capacity | 12.00% | ~424 |
 | Breaking Protocol | 12.00% | ~424 |
 | Hope Seeker | 12.00% | ~424 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 455)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,534 (Ranked 211)  
+Progressed: 3,535 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 3,460 | 0 |
 | 2023-12-15 | 3,496 | 0 |
 | 2023-12-16 | 3,519 | 0 |
-| 2023-12-17 | 3,534 | 0 |
+| 2023-12-17 | 3,535 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

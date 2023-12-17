@@ -6,7 +6,7 @@ Rating: 4.62 (Ranked 370)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 36.00% | ~363 |
-| Rail Rat | 28.00% | ~282 |
+| Rail Rat | 28.00% | ~283 |
 | The Mysterious Stranger | 27.00% | ~272 |
 | Immaculate Aim | 24.00% | ~242 |
 | The Brass Boss | 23.00% | ~232 |
@@ -16,27 +16,27 @@ Rating: 4.62 (Ranked 370)
 | The Prince in Heels | 22.00% | ~222 |
 | Honest Mistake | 22.00% | ~222 |
 | Immaculate Aim | 22.00% | ~222 |
-| The Steel Shadow | 21.00% | ~211 |
-| The Harder They Fall | 21.00% | ~211 |
-| Breaking Down Barriers | 21.00% | ~211 |
-| The Wicked Twins | 21.00% | ~211 |
-| Fast Learner | 21.00% | ~211 |
-| The Betrayer | 20.00% | ~201 |
-| Right On Time | 19.00% | ~191 |
-| Like Clockwork | 19.00% | ~191 |
-| Golem Chaser | 19.00% | ~191 |
-| The Loose Cannon | 18.00% | ~181 |
-| Check Your Pulse | 18.00% | ~181 |
-| The Family Fortune | 18.00% | ~181 |
-| Street Style | 17.00% | ~171 |
-| The Man Who Shattered Time | 17.00% | ~171 |
+| The Steel Shadow | 21.00% | ~212 |
+| The Harder They Fall | 21.00% | ~212 |
+| Breaking Down Barriers | 21.00% | ~212 |
+| The Wicked Twins | 21.00% | ~212 |
+| Fast Learner | 21.00% | ~212 |
+| The Betrayer | 20.00% | ~202 |
+| Right On Time | 19.00% | ~192 |
+| Like Clockwork | 19.00% | ~192 |
+| Golem Chaser | 19.00% | ~192 |
+| The Loose Cannon | 18.00% | ~182 |
+| Check Your Pulse | 18.00% | ~182 |
+| The Family Fortune | 18.00% | ~182 |
+| Street Style | 17.00% | ~172 |
+| The Man Who Shattered Time | 17.00% | ~172 |
 | Treasure Trove | 14.00% | ~141 |
 | Whiz Kid | 14.00% | ~141 |
 | Cartographer | 14.00% | ~141 |
 | Good Neighbor | 13.00% | ~131 |
-| Chaincrawler Explorer | 12.00% | ~121 |
 | Family Memories | 12.00% | ~121 |
 | Ask Questions Later | 12.00% | ~121 |
+| Chaincrawler Explorer | 11.00% | ~111 |
 | Syron for Hope | 11.00% | ~111 |
 | Sump Explorer | 10.00% | ~101 |
 | Theater Explorer | 10.00% | ~101 |
@@ -46,7 +46,7 @@ Rating: 4.62 (Ranked 370)
 | Corin Goes Home | 8.00% | ~81 |
 | Sartorialist | 8.00% | ~81 |
 | Entresol Explorer | 8.00% | ~81 |
-| Golem Hunter | 6.00% | ~60 |
+| Golem Hunter | 6.00% | ~61 |
 | Clovemary for Remembering | 5.00% | ~50 |
 | Hexlock for Protection | 5.00% | ~50 |
 | Rungs Was Right | 5.00% | ~50 |
@@ -59,8 +59,8 @@ Rating: 4.62 (Ranked 370)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,007 (Ranked 273)  
-Completed: 6 (0.60%) (Ranked 195)  
+Progressed: 1,009 (Ranked 273)  
+Completed: 6 (0.59%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -206,7 +206,7 @@ Completed: 6 (0.60%) (Ranked 195)
 | 2023-12-14 | 963 | 6 |
 | 2023-12-15 | 978 | 6 |
 | 2023-12-16 | 1,000 | 6 |
-| 2023-12-17 | 1,007 | 6 |
+| 2023-12-17 | 1,009 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

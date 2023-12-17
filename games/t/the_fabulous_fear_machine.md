@@ -23,11 +23,11 @@
 | A rival with no options | 10.00% | ~6 |
 | Et in arcadia ego | 10.00% | ~6 |
 | You've awakened the beast | 8.00% | ~5 |
+| Hate is... addictive | 8.00% | ~5 |
 | You had one wish left | 8.00% | ~5 |
 | The bully | 8.00% | ~5 |
 | Kirlian's best disciple | 8.00% | ~5 |
 | Welcome to Hellville | 8.00% | ~5 |
-| Hate is... addictive | 7.00% | ~4 |
 | Bread and bocaua | 5.00% | ~3 |
 | Fanatacism is... poisonous | 5.00% | ~3 |
 | The adventurer | 5.00% | ~3 |

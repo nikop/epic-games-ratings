@@ -3,7 +3,7 @@
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 371,
-  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 289,
+  "EOS_Progressed": 290,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.35,
+  "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
       "Time": "2023-10-13T10:03:19.5665873+00:00",
@@ -1119,6 +1119,11 @@
       "Time": "2023-12-17T09:06:13.7966457+00:00",
       "NumProgressed": 289,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T10:06:33.5003346+00:00",
+      "NumProgressed": 290,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1129,9 +1134,9 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 52
+      "UsersEstimate": 55
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -1226,14 +1231,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 289,
+      "Progressed": 290,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-17T09:06:13.7966453+00:00",
+  "LastChanged_Achievements": "2023-12-17T10:06:33.5003334+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.6680838+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:00:03.1268811+00:00",
-  "LastUpdate_Achievements": "2023-12-17T09:06:13.7966608+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:00:32.3032639+00:00",
+  "LastUpdate_Achievements": "2023-12-17T10:06:33.5003543+00:00"
 }

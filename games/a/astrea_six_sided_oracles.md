@@ -9,7 +9,7 @@
 | Mechanical Buddy | 62.00% | ~104 |
 | Dicesmithing Time! | 55.00% | ~92 |
 | Sanctuary Guardian | 51.00% | ~86 |
-| Endless Tricks | 48.00% | ~81 |
+| Endless Tricks | 49.00% | ~82 |
 | Wild's Keeper | 43.00% | ~72 |
 | Mind Illuminator | 42.00% | ~71 |
 | Stellar Dismantler | 33.00% | ~55 |
@@ -20,16 +20,16 @@
 | Eridanian Champion | 26.00% | ~44 |
 | Lacertian Champion | 24.00% | ~40 |
 | Loyal Partner | 22.00% | ~37 |
+| Apian Champion | 21.00% | ~35 |
 | Shard Spender | 20.00% | ~34 |
-| Apian Champion | 20.00% | ~34 |
 | Unbeatable | 17.00% | ~29 |
 | Behenian Champion | 15.00% | ~25 |
 | Sadistic Plan | 14.00% | ~24 |
+| Stellar Haste | 11.00% | ~18 |
 | Astral Seeker | 10.00% | ~17 |
-| Stellar Haste | 10.00% | ~17 |
+| Heavy Purger | 10.00% | ~17 |
 | Aquarian Champion | 10.00% | ~17 |
 | Heart Gate | 9.00% | ~15 |
-| Heavy Purger | 9.00% | ~15 |
 | Favored by the Cosmos | 8.00% | ~13 |
 | The Corruption Goddess | 8.00% | ~13 |
 | The Goddes Avatar | 8.00% | ~13 |
@@ -53,6 +53,7 @@
 | Prestidigitation | 3.00% | ~5 |
 | Aquarian Hero | 3.00% | ~5 |
 | Critical Twist | 2.00% | ~3 |
+| Pocket Astrarium | 2.00% | ~3 |
 | Reflexive Mind | 2.00% | ~3 |
 | Sentinelphobic | 2.00% | ~3 |
 | The Ardent Prince | 2.00% | ~3 |
@@ -65,7 +66,6 @@
 | Astral Tinkerer | 1.00% | ~2 |
 | Astromancer | 1.00% | ~2 |
 | Plague Doctor | 1.00% | ~2 |
-| Pocket Astrarium | 1.00% | ~2 |
 | Royal Choir | 1.00% | ~2 |
 | Anomaly Master | 0.60% | ~1 |
 | Arch-Oracle | 0.60% | ~1 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2264,
+  "EOS_Progressed": 2265,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3453,6 +3453,11 @@
       "Time": "2023-12-17T09:04:57.8486129+00:00",
       "NumProgressed": 2264,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-17T10:04:44.6549571+00:00",
+      "NumProgressed": 2265,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3472,7 +3477,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "ACHV_03",
@@ -3552,7 +3557,7 @@
       "Name": "Reverse Engineering",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACHV_13",
@@ -3640,7 +3645,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "ACHV_24",
@@ -3664,7 +3669,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "ACHV_27",
@@ -3919,7 +3924,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2264,
+      "Progressed": 2265,
       "Completed": 13
     }
   ],
@@ -3927,8 +3932,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-17T09:04:57.8486126+00:00",
+  "LastChanged_Achievements": "2023-12-17T10:04:44.6549568+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:57:00.284762+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:58:30.0606478+00:00",
-  "LastUpdate_Achievements": "2023-12-17T09:04:57.8486598+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:58:15.8312931+00:00",
+  "LastUpdate_Achievements": "2023-12-17T10:04:44.6550319+00:00"
 }

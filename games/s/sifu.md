@@ -1,63 +1,63 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 71)  
+Rating: 4.82 (Ranked 70)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 2.00% | ~14,628 |
-| The Assault | 2.00% | ~14,628 |
-| Life is your teacher | 2.00% | ~14,628 |
-| Lightning Hands | 2.00% | ~14,628 |
-| The Hateful Pole Fighter | 1.00% | ~7,314 |
-| Stuntmaster | 1.00% | ~7,314 |
-| Street Fighting | 1.00% | ~7,314 |
-| State of constant learning | 1.00% | ~7,314 |
-| Qi Gong: Breath | 1.00% | ~7,314 |
-| Qi Gong: Essence | 1.00% | ~7,314 |
-| Old Child | 1.00% | ~7,314 |
-| Rumble in the Hangar | 1.00% | ~7,314 |
-| Diligence as a goal | 1.00% | ~407 |
-| A Lady's Blood in the Snow | 0.90% | ~6,582 |
-| Path of the Prospect | 0.90% | ~6,582 |
-| Project Arena | 0.90% | ~366 |
-| Lady Wing Chun | 0.80% | ~5,851 |
-| Kill Nil | 0.80% | ~5,851 |
-| Furious Fists | 0.70% | ~5,120 |
-| Qi Gong: Mind | 0.70% | ~5,120 |
-| I know Kung-Fu | 0.70% | ~5,120 |
-| Take damage to save time | 0.70% | ~5,120 |
-| Scareless | 0.60% | ~4,388 |
-| Kung-Fu Tussle | 0.60% | ~4,388 |
-| Fight the way you practice | 0.60% | ~244 |
-| Dance of the Praying Mantis | 0.50% | ~3,657 |
-| Bloody Sport | 0.50% | ~203 |
-| Martial Hub | 0.50% | ~203 |
+| The Old Grandmaster | 2.00% | ~14,631 |
+| The Assault | 2.00% | ~14,631 |
+| Life is your teacher | 2.00% | ~14,631 |
+| Lightning Hands | 2.00% | ~14,631 |
+| The Hateful Pole Fighter | 1.00% | ~7,316 |
+| Stuntmaster | 1.00% | ~7,316 |
+| Street Fighting | 1.00% | ~7,316 |
+| State of constant learning | 1.00% | ~7,316 |
+| Qi Gong: Breath | 1.00% | ~7,316 |
+| Qi Gong: Essence | 1.00% | ~7,316 |
+| Old Child | 1.00% | ~7,316 |
+| Rumble in the Hangar | 1.00% | ~7,316 |
+| Diligence as a goal | 1.00% | ~409 |
+| A Lady's Blood in the Snow | 0.90% | ~6,584 |
+| Path of the Prospect | 0.90% | ~6,584 |
+| Project Arena | 0.90% | ~368 |
+| Lady Wing Chun | 0.80% | ~5,853 |
+| Kill Nil | 0.80% | ~5,853 |
+| Furious Fists | 0.70% | ~5,121 |
+| Qi Gong: Mind | 0.70% | ~5,121 |
+| I know Kung-Fu | 0.70% | ~5,121 |
+| Take damage to save time | 0.70% | ~5,121 |
+| Scareless | 0.60% | ~4,389 |
+| Kung-Fu Tussle | 0.60% | ~4,389 |
+| Fight the way you practice | 0.60% | ~245 |
+| Dance of the Praying Mantis | 0.50% | ~3,658 |
+| Bloody Sport | 0.50% | ~204 |
+| Martial Hub | 0.50% | ~204 |
 | Muk Yan Master | 0.40% | ~2,926 |
-| Tiger on Fire | 0.30% | ~2,194 |
-| Source of Flying Daggers | 0.30% | ~2,194 |
-| Iron Money | 0.30% | ~2,194 |
-| Legendary Talismans of Wuxing | 0.30% | ~2,194 |
-| Prodigal Child | 0.30% | ~2,194 |
-| Detective Story | 0.30% | ~2,194 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,194 |
-| Sword Stained With Blood | 0.30% | ~2,194 |
-| The best strikes are the ones we avoid | 0.30% | ~122 |
+| Tiger on Fire | 0.30% | ~2,195 |
+| Source of Flying Daggers | 0.30% | ~2,195 |
+| Iron Money | 0.30% | ~2,195 |
+| Legendary Talismans of Wuxing | 0.30% | ~2,195 |
+| Prodigal Child | 0.30% | ~2,195 |
+| Detective Story | 0.30% | ~2,195 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,195 |
+| Sword Stained With Blood | 0.30% | ~2,195 |
+| The best strikes are the ones we avoid | 0.30% | ~123 |
 | Drunken Fighter | 0.20% | ~1,463 |
 | Martial Artist | 0.20% | ~1,463 |
 | Knowledge Greed | 0.20% | ~1,463 |
 | The Pit Protector | 0.20% | ~1,463 |
 | Come Snap With Me | 0.20% | ~1,463 |
-| Deadly Venom | 0.20% | ~81 |
-| A Touch of Acumen | 0.20% | ~81 |
-| Skill and an even stronger will | 0.20% | ~81 |
-| Beatmaker | 0.20% | ~81 |
-| Healing Memory | 0.10% | ~731 |
-| Master of the Phoenix Eye Fist | 0.10% | ~731 |
-| Ferocity, speed, strength, accuracy | 0.10% | ~731 |
-| Be like water my friend | 0.10% | ~731 |
-| Warriors from the Mountain | 0.10% | ~731 |
+| Deadly Venom | 0.20% | ~82 |
+| A Touch of Acumen | 0.20% | ~82 |
+| Skill and an even stronger will | 0.20% | ~82 |
+| Beatmaker | 0.20% | ~82 |
+| Healing Memory | 0.10% | ~732 |
+| Master of the Phoenix Eye Fist | 0.10% | ~732 |
+| Ferocity, speed, strength, accuracy | 0.10% | ~732 |
+| Be like water my friend | 0.10% | ~732 |
+| Warriors from the Mountain | 0.10% | ~732 |
 | Secure, Protect, Leave | 0.10% | ~41 |
 | Crouching Tiger | 0.10% | ~41 |
 | Hidden Dragon | 0.10% | ~41 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~41 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,388 (Ranked 24)  
+Progressed: 731,574 (Ranked 24)  
 Completed: 12,954 (1.77%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,14 +308,14 @@ Completed: 12,954 (1.77%) (Ranked 137)
 | 2023-12-14 | 722,433 | 12,953 |
 | 2023-12-15 | 726,562 | 12,953 |
 | 2023-12-16 | 730,184 | 12,954 |
-| 2023-12-17 | 731,388 | 12,954 |
+| 2023-12-17 | 731,574 | 12,954 |
 ## Awards
-Max (Great Boss Battles): 6,935  (Ranked 55)  
-Sum: 12,173 (Ranked 84)  
+Max (Great Boss Battles): 6,944  (Ranked 55)  
+Sum: 12,182 (Ranked 84)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,935 |
+| This game has Great Boss Battles | 6,944 |
 | This game has Diverse Characters | 678 |
 | This game has Challenging Combat | 620 |
 | This game has Amazing Storytelling | 603 |
@@ -663,4 +663,4 @@ Diff (max vs sum): -29
 | 2023-12-14 | 4.82 | - | 6,923 | 12,152 |
 | 2023-12-15 | 4.82 | - | 6,930 | 12,162 |
 | 2023-12-16 | 4.82 | - | 6,935 | 12,172 |
-| 2023-12-17 | 4.82 | - | 6,935 | 12,173 |
+| 2023-12-17 | 4.82 | - | 6,944 | 12,182 |

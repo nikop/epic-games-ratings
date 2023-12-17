@@ -6,8 +6,8 @@
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 273,
-  "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,11 +39,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1007,
+  "EOS_Progressed": 1009,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.6,
+  "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
     {
       "Time": "2023-05-23T23:05:09.8369672+00:00",
@@ -2759,6 +2759,11 @@
       "Time": "2023-12-17T07:09:16.4641734+00:00",
       "NumProgressed": 1007,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-17T10:10:05.5682723+00:00",
+      "NumProgressed": 1009,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2778,15 +2783,15 @@
       "Name": "The Steel Shadow",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ChaincrawlerChests1",
       "SetID": "a9e499d",
       "Name": "Chaincrawler Explorer",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 111
     },
     {
       "ID": "ChestCompletion1",
@@ -2802,7 +2807,7 @@
       "Name": "Right On Time",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2818,7 +2823,7 @@
       "Name": "Like Clockwork",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ClovemaryGift",
@@ -2842,7 +2847,7 @@
       "Name": "Street Style",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "CultivairChests1",
@@ -2898,7 +2903,7 @@
       "Name": "The Betrayer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2906,7 +2911,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "GadgetCompletion1",
@@ -2930,7 +2935,7 @@
       "Name": "Rail Rat",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "HexlockGift",
@@ -2954,7 +2959,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "LacunaCompleted",
@@ -3018,7 +3023,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ParryRepeated1",
@@ -3034,7 +3039,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3042,7 +3047,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "PidgeDefeated",
@@ -3074,7 +3079,7 @@
       "Name": "Golem Hunter",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ScrambotProgress1",
@@ -3082,7 +3087,7 @@
       "Name": "Golem Chaser",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "SkillCompletion1",
@@ -3098,7 +3103,7 @@
       "Name": "Fast Learner",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "SpeedRun",
@@ -3130,7 +3135,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "TheaterChests1",
@@ -3186,14 +3191,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1007,
+      "Progressed": 1009,
       "Completed": 6
     }
   ],
@@ -3201,8 +3206,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-17T09:10:36.023372+00:00",
+  "LastChanged_Achievements": "2023-12-17T10:10:05.568272+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:58:04.6141599+00:00",
-  "LastUpdate_Achievements": "2023-12-17T09:10:36.0234564+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:57:36.8751176+00:00",
+  "LastUpdate_Achievements": "2023-12-17T10:10:05.5683517+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "jaguar",
   "Name": "Subnautica",
   "ProductSlug": "subnautica",
-  "Ranking_Rating": 47,
+  "Ranking_Rating": 46,
   "Ranking_Popularity": 178,
   "Ranking_PopularitySum": 131,
   "Ranking_EOS_Progress": 801,
@@ -6151,10 +6151,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 5970,
       "NumberOfAwardsMax": 774
+    },
+    {
+      "Time": "2023-12-17T10:00:11.8024557+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 5971,
+      "NumberOfAwardsMax": 774
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5970,
+  "NumberOfAwards": 5971,
   "NumberOfAwardsMax": 774,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6210,7 +6216,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 591
+      "Count": 592
     },
     {
       "Text": "This game has a Creative Community",
@@ -6236,8 +6242,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2023-12-16T17:58:56.2950191+00:00",
+  "LastChanged": "2023-12-17T10:00:11.8024555+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:59.2888186+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:59:48.2817759+00:00",
-  "LastUpdate_Achievements": "2023-12-17T09:09:23.7085106+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:00:11.8024561+00:00",
+  "LastUpdate_Achievements": "2023-12-17T10:08:23.628374+00:00"
 }

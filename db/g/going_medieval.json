@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1595,7 +1595,7 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 7313,
+  "EOS_Progressed": 7314,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
@@ -14760,6 +14760,11 @@
       "Time": "2023-12-17T08:08:25.3045616+00:00",
       "NumProgressed": 7313,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-17T10:08:10.0445304+00:00",
+      "NumProgressed": 7314,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -14771,7 +14776,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5558
+      "UsersEstimate": 5559
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -14811,7 +14816,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5558
+      "UsersEstimate": 5559
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -14819,7 +14824,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5338
+      "UsersEstimate": 5339
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -14891,7 +14896,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 4534
+      "UsersEstimate": 4535
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -14931,7 +14936,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5119
+      "UsersEstimate": 5120
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -14971,7 +14976,7 @@
       "Name": "The First Week",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4096
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -14979,7 +14984,7 @@
       "Name": "Novice Researcher",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 4973
+      "UsersEstimate": 4974
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -15018,15 +15023,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7313,
+      "Progressed": 7314,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-15T21:58:16.7656965+00:00",
-  "LastChanged_Achievements": "2023-12-17T09:09:13.626126+00:00",
+  "LastChanged_Achievements": "2023-12-17T10:08:10.0445299+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.8691665+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:59:25.040596+00:00",
-  "LastUpdate_Achievements": "2023-12-17T09:09:13.6262327+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:59:37.8229593+00:00",
+  "LastUpdate_Achievements": "2023-12-17T10:08:10.0446178+00:00"
 }

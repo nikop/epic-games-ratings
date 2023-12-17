@@ -1,33 +1,33 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.15 (Ranked 963)  
+Rating: 4.14 (Ranked 971)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,417 |
-| Unlocked Potential | 9.00% | ~3,975 |
+| Attachments | 10.00% | ~4,418 |
+| Unlocked Potential | 9.00% | ~3,976 |
 | Tinkerer | 7.00% | ~3,092 |
 | Knock 'Em Dead | 7.00% | ~3,092 |
 | Leapfrogger | 6.00% | ~2,650 |
 | Pilgrimage: Initiate | 6.00% | ~2,650 |
 | Hell of a Run | 6.00% | ~2,650 |
 | Call of the Fount: Baptized | 6.00% | ~2,650 |
-| No Mercy | 5.00% | ~2,208 |
-| Explorer: Seeker | 5.00% | ~2,208 |
-| Help Me Out Here | 5.00% | ~2,208 |
+| No Mercy | 5.00% | ~2,209 |
+| Explorer: Seeker | 5.00% | ~2,209 |
+| Help Me Out Here | 5.00% | ~2,209 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,767 |
 | Stuck | 4.00% | ~1,767 |
 | Outdoorsperson | 3.00% | ~1,325 |
 | The Interloper | 3.00% | ~1,325 |
 | Hop, Step, Jump | 3.00% | ~1,325 |
 | Endless Runner | 3.00% | ~1,325 |
-| What Must Be Done | 2.00% | ~883 |
-| Might and Main | 2.00% | ~883 |
-| Damned If You Do... | 2.00% | ~883 |
-| Explorer: Pathfinder | 2.00% | ~883 |
-| Shocker | 2.00% | ~883 |
-| From Every Angle | 2.00% | ~883 |
+| What Must Be Done | 2.00% | ~884 |
+| Might and Main | 2.00% | ~884 |
+| Damned If You Do... | 2.00% | ~884 |
+| Explorer: Pathfinder | 2.00% | ~884 |
+| Shocker | 2.00% | ~884 |
+| From Every Angle | 2.00% | ~884 |
 | The Hue of Blue | 1.00% | ~442 |
 | The Truth Will Out | 1.00% | ~442 |
 | Breaking Point | 1.00% | ~442 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 963)
 | Remembrance | 0.10% | ~44 |
 | Cat Person | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,168 (Ranked 120)  
+Progressed: 44,175 (Ranked 120)  
 Completed: 3 (0.01%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 3 (0.01%) (Ranked 355)
 | 2023-12-14 | 43,783 | 3 |
 | 2023-12-15 | 43,925 | 3 |
 | 2023-12-16 | 44,114 | 3 |
-| 2023-12-17 | 44,168 | 3 |
+| 2023-12-17 | 44,175 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -390,3 +390,4 @@ Completed: 3 (0.01%) (Ranked 355)
 | 2023-12-12 | 4.13 | 30 | 30 |
 | 2023-12-15 | 4.14 | 30 | 30 |
 | 2023-12-16 | 4.15 | 30 | 30 |
+| 2023-12-17 | 4.14 | 0 | 0 |

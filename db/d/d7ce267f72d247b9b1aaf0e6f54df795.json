@@ -2,7 +2,7 @@
   "ID": "d7ce267f72d247b9b1aaf0e6f54df795",
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
-  "Ranking_Rating": 54,
+  "Ranking_Rating": 53,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 801,
@@ -171,6 +171,6 @@
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
   "LastChanged": "2023-12-17T08:59:58.7764148+00:00",
   "LastUpdate_AppInfo": "2023-12-13T11:57:08.2416629+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:59:58.7764153+00:00",
-  "LastUpdate_Achievements": "2023-12-17T09:05:33.2587994+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:00:26.8789513+00:00",
+  "LastUpdate_Achievements": "2023-12-17T10:05:35.1127419+00:00"
 }

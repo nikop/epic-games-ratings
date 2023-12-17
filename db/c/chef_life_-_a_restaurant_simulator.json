@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 788,
+  "EOS_Progressed": 790,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3442,6 +3442,11 @@
       "Time": "2023-12-17T07:08:52.651689+00:00",
       "NumProgressed": 788,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T10:09:32.3436341+00:00",
+      "NumProgressed": 790,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3589,7 +3594,7 @@
       "Name": "Sous-Chef",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Level20",
@@ -3621,7 +3626,7 @@
       "Name": "Rolling in Dough",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "OpenRestaurant",
@@ -3629,7 +3634,7 @@
       "Name": "The Big Day",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 506
     },
     {
       "ID": "Packing20",
@@ -3772,7 +3777,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 788,
+      "Progressed": 790,
       "Completed": 0
     }
   ],
@@ -3780,8 +3785,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-17T09:10:11.8484276+00:00",
+  "LastChanged_Achievements": "2023-12-17T10:09:32.3436338+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:31.9021331+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:00:54.8221553+00:00",
-  "LastUpdate_Achievements": "2023-12-17T09:10:11.848479+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:01:47.5298473+00:00",
+  "LastUpdate_Achievements": "2023-12-17T10:09:32.3436808+00:00"
 }

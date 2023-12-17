@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 121,
+  "EOS_Progressed": 122,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.61,
+  "EOS_Completed_Percentage": 6.56,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -639,6 +639,11 @@
       "Time": "2023-12-17T02:29:14.3283173+00:00",
       "NumProgressed": 121,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-17T10:04:53.2468117+00:00",
+      "NumProgressed": 122,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -657,9 +662,9 @@
       "ID": "Cikady",
       "SetID": "ag48e8e",
       "Name": "Cicadas",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 24
     },
     {
       "ID": "Destilat",
@@ -689,17 +694,17 @@
       "ID": "Houby",
       "SetID": "ag48e8e",
       "Name": "Mushrooms",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "Kamzik",
@@ -715,7 +720,7 @@
       "Name": "Spiral Smoke",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "KrabiPyramida",
@@ -833,9 +838,9 @@
       "ID": "Stonozka",
       "SetID": "ag48e8e",
       "Name": "Centipede",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 24
     },
     {
       "ID": "Strom",
@@ -843,7 +848,7 @@
       "Name": "Sprouting Tree",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Termit",
@@ -851,7 +856,7 @@
       "Name": "Saint Termite",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Truhlice",
@@ -865,9 +870,9 @@
       "ID": "Xicht",
       "SetID": "ag48e8e",
       "Name": "Rockheads",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "Zelvak",
@@ -875,29 +880,29 @@
       "Name": "Goldbug",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ZpivajiciHouba",
       "SetID": "ag48e8e",
       "Name": "Dancing Fungus",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 37
     }
   ],
   "AchievementSets": [
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 121,
+      "Progressed": 122,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-17T09:05:04.0103451+00:00",
+  "LastChanged_Achievements": "2023-12-17T10:04:53.2468113+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9485544+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:03:35.2187753+00:00",
-  "LastUpdate_Achievements": "2023-12-17T09:05:04.0103863+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:02:46.1123008+00:00",
+  "LastUpdate_Achievements": "2023-12-17T10:04:53.2468393+00:00"
 }

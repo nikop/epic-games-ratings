@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 963,
+  "Ranking_Rating": 971,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 120,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "SA"
     }
   },
-  "Rating": 4.15,
+  "Rating": 4.14,
   "RatingHistory": [
     {
       "Time": "2023-01-28T02:09:06.4755934+00:00",
@@ -473,6 +473,12 @@
       "Rating": 4.15,
       "NumberOfAwards": 30,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-12-17T09:59:13.8706135+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -486,9 +492,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 44168,
+  "EOS_Progressed": 44175,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 673,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15401,6 +15407,11 @@
       "Time": "2023-12-17T09:09:36.4734677+00:00",
       "NumProgressed": 44168,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T10:08:41.2510133+00:00",
+      "NumProgressed": 44175,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15460,7 +15471,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4417
+      "UsersEstimate": 4418
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -15484,7 +15495,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -15492,7 +15503,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -15500,7 +15511,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -15572,7 +15583,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2208
+      "UsersEstimate": 2209
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -15612,7 +15623,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -15628,7 +15639,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2208
+      "UsersEstimate": 2209
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -15660,7 +15671,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -15668,7 +15679,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2208
+      "UsersEstimate": 2209
     },
     {
       "ID": "MAGIC_IVY",
@@ -15684,7 +15695,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "MONUMENT_ALL",
@@ -15748,7 +15759,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3975
+      "UsersEstimate": 3976
     },
     {
       "ID": "SPRING_ALL",
@@ -15835,22 +15846,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44168,
+      "Progressed": 44175,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9005,
-      "Completed": 9005
+      "Progressed": 9012,
+      "Completed": 9012
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2023-12-16T02:18:37.9301013+00:00",
-  "LastChanged_Achievements": "2023-12-17T09:09:36.4734676+00:00",
+  "LastChanged": "2023-12-17T09:59:13.8706133+00:00",
+  "LastChanged_Achievements": "2023-12-17T10:08:41.2510131+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:59:09.0555972+00:00",
-  "LastUpdate_Achievements": "2023-12-17T09:09:36.4735704+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:59:13.8706139+00:00",
+  "LastUpdate_Achievements": "2023-12-17T10:08:41.251145+00:00"
 }

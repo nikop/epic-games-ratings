@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Enough rooms to swing a cat | 87.00% | ~47 |
-| Home Sweet Home | 87.00% | ~47 |
-| First to the post | 85.00% | ~46 |
-| A kind of Magic | 80.00% | ~43 |
-| Connected | 74.00% | ~40 |
-| Expansion | 72.00% | ~39 |
-| Harvest Time | 65.00% | ~35 |
-| Mine! | 65.00% | ~35 |
-| Artificer's Apprentice | 61.00% | ~33 |
-| Fly the friendly Sky | 52.00% | ~28 |
-| Necromancer's Apprentice | 50.00% | ~27 |
-| Get out of here! | 50.00% | ~27 |
+| Enough rooms to swing a cat | 85.00% | ~47 |
+| Home Sweet Home | 85.00% | ~47 |
+| First to the post | 84.00% | ~46 |
+| A kind of Magic | 78.00% | ~43 |
+| Connected | 73.00% | ~40 |
+| Expansion | 71.00% | ~39 |
+| Harvest Time | 64.00% | ~35 |
+| Mine! | 64.00% | ~35 |
+| Artificer's Apprentice | 60.00% | ~33 |
+| Fly the friendly Sky | 51.00% | ~28 |
+| Necromancer's Apprentice | 49.00% | ~27 |
+| Get out of here! | 49.00% | ~27 |
 | The Circle | 44.00% | ~24 |
-| Friend of Lyraine | 43.00% | ~23 |
-| Alchemist's Apprentice | 41.00% | ~22 |
+| Friend of Lyraine | 42.00% | ~23 |
+| Alchemist's Apprentice | 40.00% | ~22 |
 | Redecorating | 35.00% | ~19 |
-| Friend of Sevenkeeps | 26.00% | ~14 |
-| Bad JuJu | 26.00% | ~14 |
+| Friend of Sevenkeeps | 25.00% | ~14 |
+| Bad JuJu | 25.00% | ~14 |
 | Slave to the rhythm | 24.00% | ~13 |
 | Castle Meldec | 20.00% | ~11 |
 | Sevenkeeps Seat of Kings | 20.00% | ~11 |
-| Friend of Alluvyan | 17.00% | ~9 |
-| Friend of Gillyshire | 17.00% | ~9 |
-| Friend of Connach | 17.00% | ~9 |
+| Friend of Alluvyan | 16.00% | ~9 |
+| Friend of Gillyshire | 16.00% | ~9 |
+| Friend of Connach | 16.00% | ~9 |
 | Philo's Tale | 15.00% | ~8 |
 | Stormwatch Faste | 15.00% | ~8 |
 | Friend of Bastion | 15.00% | ~8 |
@@ -53,15 +53,15 @@
 | Crypt of the Revenant | 7.00% | ~4 |
 | Balanced | 7.00% | ~4 |
 | Friend of Grey Dusk Vale | 7.00% | ~4 |
-| Defeat Ianna | 6.00% | ~3 |
-| Defeat Rohen | 6.00% | ~3 |
-| Defeat Yria | 6.00% | ~3 |
-| Lytra's Tale | 6.00% | ~3 |
-| Tuscari Sea Portal | 6.00% | ~3 |
-| Master Alchemist | 6.00% | ~3 |
-| A Monopoly of Might | 6.00% | ~3 |
-| Heroes | 6.00% | ~3 |
-| Friend of Uram Gor | 6.00% | ~3 |
+| Defeat Ianna | 5.00% | ~3 |
+| Defeat Rohen | 5.00% | ~3 |
+| Defeat Yria | 5.00% | ~3 |
+| Lytra's Tale | 5.00% | ~3 |
+| Tuscari Sea Portal | 5.00% | ~3 |
+| Master Alchemist | 5.00% | ~3 |
+| A Monopoly of Might | 5.00% | ~3 |
+| Heroes | 5.00% | ~3 |
+| Friend of Uram Gor | 5.00% | ~3 |
 | Defeat Raith | 4.00% | ~2 |
 | Fireforge | 4.00% | ~2 |
 | Master Artificer | 4.00% | ~2 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54 (Ranked 512)  
+Progressed: 55 (Ranked 511)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,6 +110,7 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 47 | 0 |
 | 2023-12-15 | 51 | 0 |
 | 2023-12-16 | 54 | 0 |
+| 2023-12-17 | 55 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

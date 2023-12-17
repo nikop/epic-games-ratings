@@ -7,25 +7,25 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 27.00% | ~3,356 |
-| A Spark | 19.00% | ~2,361 |
-| Burning City | 18.00% | ~2,237 |
-| Defender's Heart | 16.00% | ~1,988 |
-| Mythic Choices | 15.00% | ~1,864 |
+| A Spark | 19.00% | ~2,362 |
+| Burning City | 18.00% | ~2,238 |
+| Defender's Heart | 16.00% | ~1,989 |
+| Mythic Choices | 15.00% | ~1,865 |
 | Banner over the Citadel | 14.00% | ~1,740 |
-| Queen's Gratitude | 12.00% | ~1,491 |
+| Queen's Gratitude | 12.00% | ~1,492 |
 | Fifth Crusade | 9.00% | ~1,119 |
 | Embrace of the Abyss | 7.00% | ~870 |
 | Path of the Angel | 7.00% | ~870 |
 | Demonic and Divine | 7.00% | ~870 |
 | Great Upstart | 6.00% | ~746 |
 | All Paths Open | 6.00% | ~746 |
-| Path of the Azata | 5.00% | ~621 |
-| Transformation | 5.00% | ~621 |
-| The Legacy | 5.00% | ~621 |
-| Voice from Your Dreams | 5.00% | ~621 |
-| A Flame | 5.00% | ~621 |
-| Next-Door Play | 5.00% | ~621 |
-| Get the Toad | 5.00% | ~621 |
+| Path of the Azata | 5.00% | ~622 |
+| Transformation | 5.00% | ~622 |
+| The Legacy | 5.00% | ~622 |
+| Voice from Your Dreams | 5.00% | ~622 |
+| A Flame | 5.00% | ~622 |
+| Next-Door Play | 5.00% | ~622 |
+| Get the Toad | 5.00% | ~622 |
 | Heart of the Fallen Land | 4.00% | ~497 |
 | Divide and Rule | 4.00% | ~497 |
 | Mythic Reinforcements | 4.00% | ~497 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,428 (Ranked 166)  
+Progressed: 12,431 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -364,7 +364,7 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 12,326 | 0 |
 | 2023-12-15 | 12,356 | 0 |
 | 2023-12-16 | 12,405 | 0 |
-| 2023-12-17 | 12,428 | 0 |
+| 2023-12-17 | 12,431 | 0 |
 ## Awards
 Max (Character Customization): 1,761  (Ranked 124)  
 Sum: 7,144 (Ranked 122)  

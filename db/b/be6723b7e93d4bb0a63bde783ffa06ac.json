@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100,
+  "EOS_Progressed": 101,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -484,6 +484,11 @@
       "Time": "2023-12-17T09:05:49.4326464+00:00",
       "NumProgressed": 100,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T10:05:58.4036056+00:00",
+      "NumProgressed": 101,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:03:22.1103385+00:00",
@@ -646,7 +651,7 @@
       "ID": "ach27",
       "SetID": "baneh2j",
       "Name": "Preparation",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 35,
       "UsersEstimate": 78
     },
@@ -654,7 +659,7 @@
       "ID": "ach28",
       "SetID": "baneh2j",
       "Name": "Start",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 35,
       "UsersEstimate": 90
     },
@@ -712,7 +717,7 @@
       "Name": "On the style",
       "Percentage": 68,
       "XP": 35,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ach7",
@@ -743,14 +748,14 @@
     {
       "ID": "baneh2j",
       "IsBase": true,
-      "Progressed": 100,
+      "Progressed": 101,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-12-17T09:05:49.4326462+00:00",
+  "LastChanged_Achievements": "2023-12-17T10:05:58.4036052+00:00",
   "LastUpdate_AppInfo": "2023-12-13T08:56:58.3281162+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:58:54.1360437+00:00",
-  "LastUpdate_Achievements": "2023-12-17T09:05:49.432667+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:58:52.048122+00:00",
+  "LastUpdate_Achievements": "2023-12-17T10:05:58.4036253+00:00"
 }

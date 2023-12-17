@@ -311,7 +311,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3534,
+  "EOS_Progressed": 3535,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
@@ -6546,6 +6546,11 @@
       "Time": "2023-12-17T09:06:22.2662774+00:00",
       "NumProgressed": 3534,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T10:06:45.1983954+00:00",
+      "NumProgressed": 3535,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6637,7 +6642,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_BASE_21",
@@ -7012,13 +7017,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1718,
+      "Progressed": 1719,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3534,
+      "Progressed": 3535,
       "Completed": 0
     }
   ],
@@ -7026,8 +7031,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-17T09:06:22.266277+00:00",
+  "LastChanged_Achievements": "2023-12-17T10:06:45.198395+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:59:06.5071332+00:00",
-  "LastUpdate_Achievements": "2023-12-17T09:06:22.2663562+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:59:10.0645929+00:00",
+  "LastUpdate_Achievements": "2023-12-17T10:06:45.198474+00:00"
 }

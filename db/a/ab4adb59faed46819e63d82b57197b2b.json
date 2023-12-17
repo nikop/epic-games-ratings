@@ -198,9 +198,9 @@
       "ID": "DIE_N_TIMES_IN_ROOM",
       "SetID": "dcng643",
       "Name": "Dead Weight",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DIE_WHILE_TRYING_TO_REVIVE",
@@ -454,9 +454,9 @@
       "ID": "KILL_BOSS_2",
       "SetID": "dcng643",
       "Name": "Sludge Cleaner",
-      "Percentage": 26,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KILL_BOSS_3",
@@ -574,9 +574,9 @@
       "ID": "MAKE_10_MISTAKES_IN_DUEL",
       "SetID": "dcng643",
       "Name": "You are sh\u0026$! at QTE",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MAX_OUT_COUNTER_ROOM",
@@ -646,17 +646,17 @@
       "ID": "REVIVE_FRIEND",
       "SetID": "dcng643",
       "Name": "I Need A Hero",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SELL_GOLDEN_GUN",
       "SetID": "dcng643",
       "Name": "Shifty",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SELL_N_WEAPONS",
@@ -670,9 +670,9 @@
       "ID": "SELL_WEAPON",
       "SetID": "dcng643",
       "Name": "Free Marketer",
-      "Percentage": 26,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SPEND_N_IN_SHOP",
@@ -797,8 +797,8 @@
   ],
   "FirstSeen": "2023-09-28T16:00:28.1613796+00:00",
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-12-17T09:09:13.3333222+00:00",
+  "LastChanged_Achievements": "2023-12-17T10:08:09.6390511+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:11.0747481+00:00",
-  "LastUpdate_Ratings": "2023-12-17T09:00:32.8193928+00:00",
-  "LastUpdate_Achievements": "2023-12-17T09:09:13.3333954+00:00"
+  "LastUpdate_Ratings": "2023-12-17T10:01:14.0201733+00:00",
+  "LastUpdate_Achievements": "2023-12-17T10:08:09.6391166+00:00"
 }

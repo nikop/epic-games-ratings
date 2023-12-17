@@ -1,7 +1,7 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.59 (Ranked 443)  
+Rating: 4.59 (Ranked 442)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,10 +14,10 @@ Number of Ratings: 401  (23.09.2022)
 | Correspondent | 12.00% | ~5,085 |
 | Lose Your Mind | 12.00% | ~5,085 |
 | Sound Mind? | 12.00% | ~5,085 |
-| Salt's Curse | 11.00% | ~4,661 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,661 |
-| The Fall of the House | 11.00% | ~4,661 |
-| Shipmate | 11.00% | ~4,661 |
+| Salt's Curse | 11.00% | ~4,662 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,662 |
+| The Fall of the House | 11.00% | ~4,662 |
+| Shipmate | 11.00% | ~4,662 |
 | One Year at Zee | 8.00% | ~3,390 |
 | Pupil | 7.00% | ~2,966 |
 | Salvager | 7.00% | ~2,966 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~42 |
 | Ten Years at Zee | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,377 (Ranked 124)  
+Progressed: 42,378 (Ranked 124)  
 Completed: 4 (0.01%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 4 (0.01%) (Ranked 355)
 | 2023-12-14 | 42,202 | 4 |
 | 2023-12-15 | 42,261 | 4 |
 | 2023-12-16 | 42,346 | 4 |
-| 2023-12-17 | 42,377 | 4 |
+| 2023-12-17 | 42,378 | 4 |
 ## Awards
 Max (Character Customization): 219  (Ranked 285)  
 Sum: 313 (Ranked 365)  

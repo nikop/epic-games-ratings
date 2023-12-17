@@ -89,7 +89,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2041,
+  "EOS_Progressed": 2042,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -7789,6 +7789,11 @@
       "Time": "2023-12-17T01:58:09.1227203+00:00",
       "NumProgressed": 2041,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T10:06:39.4530102+00:00",
+      "NumProgressed": 2042,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7872,7 +7877,7 @@
       "Name": "Silver Achiever",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "objective_headquarters_10",
@@ -7888,7 +7893,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "objective_headquarters_20",
@@ -7968,7 +7973,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -8103,7 +8108,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2041,
+      "Progressed": 2042,
       "Completed": 1
     }
   ],
@@ -8111,8 +8116,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-17T09:06:18.1183616+00:00",
+  "LastChanged_Achievements": "2023-12-17T10:06:39.4530098+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:15.2562842+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:58:09.8742782+00:00",
-  "LastUpdate_Achievements": "2023-12-17T09:06:18.1184226+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:57:45.163322+00:00",
+  "LastUpdate_Achievements": "2023-12-17T10:06:39.4531041+00:00"
 }

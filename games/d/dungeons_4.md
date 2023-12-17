@@ -13,7 +13,7 @@
 | Experienced Thalya | 71.00% | ~411 |
 | Thalya's Concentrated Fury | 68.00% | ~394 |
 | Bad Elves Go Everywhere | 68.00% | ~394 |
-| Heroes’ Gorge | 64.00% | ~371 |
+| Heroes’ Gorge | 65.00% | ~376 |
 | Master of Magic | 63.00% | ~365 |
 | Unicorn steaks – fresh off the hoof! | 61.00% | ~353 |
 | Magic Accidents | 60.00% | ~347 |
@@ -24,7 +24,7 @@
 | Hard Work | 53.00% | ~307 |
 | The Big Eaty | 53.00% | ~307 |
 | “… like son” | 51.00% | ~295 |
-| YOU SHALL NOT PASS! | 49.00% | ~284 |
+| YOU SHALL NOT PASS! | 50.00% | ~290 |
 | Dungeonlord Gorgu | 46.00% | ~266 |
 | The Cathedral of Light | 46.00% | ~266 |
 | Shame! Shame! Shame! | 46.00% | ~266 |
@@ -43,8 +43,8 @@
 | Doom Hill | 27.00% | ~156 |
 | Hungry, Hungry Gorgu! | 26.00% | ~151 |
 | Stop Tanos! | 25.00% | ~145 |
+| Sabotage! | 25.00% | ~145 |
 | Brimstone Shaken, Not Stirred | 25.00% | ~145 |
-| Sabotage! | 24.00% | ~139 |
 | Raiders of the Lost Stone | 23.00% | ~133 |
 | The Rune Sockets of Finitude (Part 1) | 23.00% | ~133 |
 | Bonus Evilness | 22.00% | ~127 |
@@ -59,7 +59,7 @@
 | Evilification | 15.00% | ~87 |
 | Mirror, Mirror | 14.00% | ~81 |
 | Untouchable | 14.00% | ~81 |
-| Heal Heal Blessing | 13.00% | ~75 |
+| Heal Heal Blessing | 14.00% | ~81 |
 | Laser Eyes Are So Useless | 11.00% | ~64 |
 | Hands Off My Stones | 11.00% | ~64 |
 | Gorgu is in the Best of Health | 10.00% | ~58 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 680,
+  "EOS_Progressed": 681,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.09,
+  "EOS_Completed_Percentage": 3.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -1200,6 +1200,11 @@
       "Time": "2023-12-16T18:09:24.7523181+00:00",
       "NumProgressed": 680,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-17T10:09:35.6575499+00:00",
+      "NumProgressed": 681,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1219,7 +1224,7 @@
       "Name": "Blast From The Past",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "deadly_secret",
@@ -1227,15 +1232,15 @@
       "Name": "Deadly Secret",
       "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ending_1",
       "SetID": "d4f4pll",
       "Name": "The Nano Glitches And The Martyr",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 48
     },
     {
       "ID": "ending_2",
@@ -1299,7 +1304,7 @@
       "Name": "Falling For You",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "free_champagne",
@@ -1315,7 +1320,7 @@
       "Name": "Kamikaze",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "kindar_surprise",
@@ -1363,14 +1368,14 @@
       "Name": "Tough Decision",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 680,
+      "Progressed": 681,
       "Completed": 21
     }
   ],
@@ -1378,8 +1383,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-17T09:10:14.6712247+00:00",
+  "LastChanged_Achievements": "2023-12-17T10:09:35.6575496+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:08.7462011+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:58:45.1673084+00:00",
-  "LastUpdate_Achievements": "2023-12-17T09:10:14.6712677+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:58:38.2752213+00:00",
+  "LastUpdate_Achievements": "2023-12-17T10:09:35.6575707+00:00"
 }
