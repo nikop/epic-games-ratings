@@ -4,8 +4,8 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 264,
+  "EOS_Progressed": 265,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.65,
+  "EOS_Completed_Percentage": 2.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -486,6 +486,11 @@
       "Time": "2023-12-17T01:58:36.1290559+00:00",
       "NumProgressed": 264,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-17T03:05:36.078958+00:00",
+      "NumProgressed": 265,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 17,
@@ -505,7 +510,7 @@
       "Name": "Career Woman",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "deal_or_no_deal",
@@ -529,7 +534,7 @@
       "Name": "Horrific",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "impress_theron",
@@ -537,7 +542,7 @@
       "Name": "Impress Theron",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "marriage_is_off",
@@ -553,7 +558,7 @@
       "Name": "No One Is Safe",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "off_his_meds",
@@ -625,14 +630,14 @@
       "Name": "Will This Help?",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 264,
+      "Progressed": 265,
       "Completed": 7
     }
   ],
@@ -640,8 +645,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:30:54.1657274+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:05:36.0789577+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:54.4004321+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:22:49.2172049+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:30:54.1657391+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:57:57.3430252+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:05:36.0789705+00:00"
 }

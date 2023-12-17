@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5017,10 +5017,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 2677,
       "NumberOfAwardsMax": 565
+    },
+    {
+      "Time": "2023-12-17T02:59:36.9660814+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 2679,
+      "NumberOfAwardsMax": 565
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2677,
+  "NumberOfAwards": 2679,
   "NumberOfAwardsMax": 565,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5076,12 +5082,12 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 513
+      "Count": 515
     }
   ],
-  "EOS_Progressed": 92026,
+  "EOS_Progressed": 92028,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28134,6 +28140,11 @@
       "Time": "2023-12-17T02:29:34.9919116+00:00",
       "NumProgressed": 92026,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-17T03:04:17.8424248+00:00",
+      "NumProgressed": 92028,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -28441,7 +28452,7 @@
       "Name": "All that Glitters",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_1020",
@@ -28472,22 +28483,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92026,
+      "Progressed": 92028,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20373,
+      "Progressed": 20375,
       "Completed": 15585
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-12-16T13:59:45.4572278+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:29:34.9919112+00:00",
+  "LastChanged": "2023-12-17T02:59:36.9660812+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:04:17.8424244+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:15.2774722+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:24:31.8881107+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:29:34.9920658+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:59:36.9660818+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:04:17.8425427+00:00"
 }

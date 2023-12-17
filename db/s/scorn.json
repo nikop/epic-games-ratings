@@ -3,12 +3,12 @@
   "Name": "Scorn",
   "ProductSlug": "scorn",
   "Ranking_Rating": 655,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 564,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
     "PcReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -215,11 +215,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2657,
+  "EOS_Progressed": 2658,
   "EOS_Completed": 188,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 7.08,
+  "EOS_Completed_Percentage": 7.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.2661107+00:00",
@@ -3965,6 +3965,11 @@
       "Time": "2023-12-17T01:59:11.5446727+00:00",
       "NumProgressed": 2657,
       "NumCompleted": 188
+    },
+    {
+      "Time": "2023-12-17T03:06:10.8712759+00:00",
+      "NumProgressed": 2658,
+      "NumCompleted": 188
     }
   ],
   "TotalAchievements": 12,
@@ -4071,7 +4076,7 @@
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2657,
+      "Progressed": 2658,
       "Completed": 188
     }
   ],
@@ -4079,8 +4084,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-11-28T11:59:38.0602265+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:31:29.2432969+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:06:10.8712754+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.1188589+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:27:37.1007392+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:31:29.2433311+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:00:30.4965339+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:06:10.8713016+00:00"
 }

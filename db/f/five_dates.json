@@ -2,10 +2,10 @@
   "ID": "e966687f61fa4c40b1e53b45b6e4eb75",
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
-  "Ranking_EOS_Progress": 277,
+  "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 935,
+  "EOS_Progressed": 936,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -2070,6 +2070,11 @@
       "Time": "2023-12-17T02:34:34.9855213+00:00",
       "NumProgressed": 935,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-17T03:09:23.6345777+00:00",
+      "NumProgressed": 936,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -2081,15 +2086,15 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "booty_call",
       "SetID": "c4ipj3h",
       "Name": "Booty Call",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 224
+      "UsersEstimate": 234
     },
     {
       "ID": "crash_and_burn",
@@ -2105,15 +2110,15 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "hold_my_beer",
       "SetID": "c4ipj3h",
       "Name": "Hold my Beer",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 598
+      "UsersEstimate": 590
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -2121,7 +2126,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "interrogation",
@@ -2177,7 +2182,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "sore_loser",
@@ -2193,14 +2198,14 @@
       "Name": "We Go Again",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 935,
+      "Progressed": 936,
       "Completed": 11
     }
   ],
@@ -2208,8 +2213,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:34:34.9855208+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:09:23.6345774+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.6209919+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:24:05.7246595+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:34:34.9855396+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:59:12.5577223+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:09:23.6345956+00:00"
 }

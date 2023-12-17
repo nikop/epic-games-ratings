@@ -8301,9 +8301,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 730361,
+  "EOS_Progressed": 730413,
   "EOS_Completed": 12954,
-  "EOS_NewPlayers": 12438,
+  "EOS_NewPlayers": 12490,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.77,
   "EosHistory": [
@@ -29666,6 +29666,11 @@
       "Time": "2023-12-17T02:33:34.8964075+00:00",
       "NumProgressed": 730361,
       "NumCompleted": 12954
+    },
+    {
+      "Time": "2023-12-17T03:08:23.9761477+00:00",
+      "NumProgressed": 730413,
+      "NumCompleted": 12954
     }
   ],
   "TotalAchievements": 60,
@@ -29677,7 +29682,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14607
+      "UsersEstimate": 14608
     },
     {
       "ID": "02_Vengeance_H1",
@@ -29685,7 +29690,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14607
+      "UsersEstimate": 14608
     },
     {
       "ID": "03_Vengeance_H2",
@@ -29701,7 +29706,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6573
+      "UsersEstimate": 6574
     },
     {
       "ID": "05_Vengeance_H4",
@@ -29853,7 +29858,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14607
+      "UsersEstimate": 14608
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -29877,7 +29882,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6573
+      "UsersEstimate": 6574
     },
     {
       "ID": "27_ShrineBody",
@@ -29941,7 +29946,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14607
+      "UsersEstimate": 14608
     },
     {
       "ID": "35_WideStrike",
@@ -30029,7 +30034,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -30037,7 +30042,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -30156,21 +30161,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 39662,
+      "Progressed": 39714,
       "Completed": 10775
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 730361,
+      "Progressed": 730413,
       "Completed": 12954
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-17T00:03:34.5802936+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:33:34.8964067+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:08:23.9761473+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:28:02.9312151+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:33:34.8965281+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:02:44.7088249+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:08:23.9762831+00:00"
 }

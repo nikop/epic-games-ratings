@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -717,9 +717,9 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "AnomalyMaster",
@@ -797,9 +797,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "AstralSeeker",
@@ -1133,9 +1133,9 @@
       "ID": "PurificationPioneer",
       "SetID": "1jeo1g7",
       "Name": "Purification Pioneer",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "ReflexiveMind",
@@ -1165,9 +1165,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "Sentinelphobic",
@@ -1309,9 +1309,9 @@
       "ID": "Unbeatable",
       "SetID": "1jeo1g7",
       "Name": "Unbeatable",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "UnepicHero",
@@ -1469,9 +1469,9 @@
       "ID": "NoctuanChampion",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Champion",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "NoctuanHero",
@@ -1500,8 +1500,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:33:16.4991095+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:06:26.4353626+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:09.6615872+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:24:18.8805104+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:33:16.4991846+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:59:25.0352375+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:06:26.4354384+00:00"
 }

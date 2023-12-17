@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 536,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -264,9 +264,9 @@
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "ae95dh3",
       "Name": "Happy Birthday",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -487,8 +487,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:29:42.229984+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:04:24.6890125+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184739+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:23:32.5376562+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:29:42.2300011+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:58:39.2336966+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:04:24.6890461+00:00"
 }

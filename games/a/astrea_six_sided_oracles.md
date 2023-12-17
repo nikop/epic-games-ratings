@@ -5,24 +5,24 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meissa's Savior | 71.00% | ~114 |
-| Purification Pioneer | 66.00% | ~106 |
+| Purification Pioneer | 67.00% | ~108 |
 | Mechanical Buddy | 61.00% | ~98 |
 | Dicesmithing Time! | 55.00% | ~89 |
+| Sanctuary Guardian | 49.00% | ~79 |
 | Endless Tricks | 48.00% | ~77 |
-| Sanctuary Guardian | 48.00% | ~77 |
 | Wild's Keeper | 43.00% | ~69 |
 | Mind Illuminator | 40.00% | ~64 |
 | Stellar Dismantler | 34.00% | ~55 |
-| Noctuan Champion | 33.00% | ~53 |
-| Anomaly Destroyer | 28.00% | ~45 |
-| Astral Adventurer | 27.00% | ~43 |
+| Noctuan Champion | 34.00% | ~55 |
+| Anomaly Destroyer | 29.00% | ~47 |
+| Astral Adventurer | 28.00% | ~45 |
 | Star Killer | 27.00% | ~43 |
 | Eridanian Champion | 27.00% | ~43 |
 | Lacertian Champion | 24.00% | ~39 |
 | Loyal Partner | 22.00% | ~35 |
 | Apian Champion | 20.00% | ~32 |
 | Shard Spender | 19.00% | ~31 |
-| Unbeatable | 16.00% | ~26 |
+| Unbeatable | 17.00% | ~27 |
 | Behenian Champion | 16.00% | ~26 |
 | Sadistic Plan | 14.00% | ~23 |
 | Aquarian Champion | 11.00% | ~18 |

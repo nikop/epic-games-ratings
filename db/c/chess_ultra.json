@@ -3,12 +3,12 @@
   "Name": "Chess Ultra",
   "ProductSlug": "chess-ultra-91bba3",
   "Ranking_Rating": 843,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 564,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
     "PcReleaseDate": "2017-06-21T00:00:00+00:00",
@@ -455,9 +455,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 222379,
+  "EOS_Progressed": 222382,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1045,
+  "EOS_NewPlayers": 1043,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27910,6 +27910,11 @@
       "Time": "2023-12-17T02:28:25.6224835+00:00",
       "NumProgressed": 222379,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T03:03:08.3957011+00:00",
+      "NumProgressed": 222382,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -27921,7 +27926,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 104518
+      "UsersEstimate": 104520
     },
     {
       "ID": "AlekhinesGun",
@@ -27969,7 +27974,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 122308
+      "UsersEstimate": 122310
     },
     {
       "ID": "Checkmate",
@@ -27977,7 +27982,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 66714
+      "UsersEstimate": 66715
     },
     {
       "ID": "ChessChampion",
@@ -27993,7 +27998,7 @@
       "Name": "Chop Wood",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 157889
+      "UsersEstimate": 157891
     },
     {
       "ID": "DoubleCheck",
@@ -28009,7 +28014,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 126756
+      "UsersEstimate": 126758
     },
     {
       "ID": "Elo",
@@ -28089,7 +28094,7 @@
       "Name": "O-O",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 53371
+      "UsersEstimate": 53372
     },
     {
       "ID": "O-O-O",
@@ -28097,7 +28102,7 @@
       "Name": "O-O-O",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 28909
+      "UsersEstimate": 28910
     },
     {
       "ID": "Octopus",
@@ -28105,7 +28110,7 @@
       "Name": "Octopus",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 28909
+      "UsersEstimate": 28910
     },
     {
       "ID": "PieceCollector",
@@ -28137,7 +28142,7 @@
       "Name": "Promotion",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 68937
+      "UsersEstimate": 68938
     },
     {
       "ID": "QueenSacrifice",
@@ -28169,7 +28174,7 @@
       "Name": "Stalemate",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 40028
+      "UsersEstimate": 40029
     },
     {
       "ID": "StrangerDanger",
@@ -28177,7 +28182,7 @@
       "Name": "Stranger Danger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 26685
+      "UsersEstimate": 26686
     },
     {
       "ID": "TournamentAmateur",
@@ -28224,7 +28229,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 222379,
+      "Progressed": 222382,
       "Completed": 2
     }
   ],
@@ -28232,8 +28237,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-12-16T18:59:30.1904477+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:28:25.6224833+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:03:08.3957007+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:57.4118976+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:24:26.6525788+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:28:25.6226483+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:59:31.4637086+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:03:08.3958319+00:00"
 }

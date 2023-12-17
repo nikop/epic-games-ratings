@@ -2,10 +2,10 @@
   "ID": "8900287f0941428abcdd1b92af29abce",
   "Name": "Miniland Adventure",
   "ProductSlug": "miniland-adventure-ee81ff",
-  "Ranking_EOS_Progress": 597,
+  "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-12-07T14:00:00+00:00",
     "PcReleaseDate": "2023-04-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 19,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -119,6 +119,11 @@
       "Time": "2023-12-16T21:10:11.835983+00:00",
       "NumProgressed": 18,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T03:08:57.1739612+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-27T06:05:39.2666293+00:00",
@@ -137,7 +142,7 @@
       "ID": "ach-bomb",
       "SetID": "6aph42m",
       "Name": "Pyrotechnist",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -145,7 +150,7 @@
       "ID": "ach-bone-meal",
       "SetID": "6aph42m",
       "Name": "I don\u0027t have the time to wait",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -153,7 +158,7 @@
       "ID": "ach-broccoli",
       "SetID": "6aph42m",
       "Name": "I don\u0027t even like it...",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -177,7 +182,7 @@
       "ID": "ach-bucket-of-salt-water",
       "SetID": "6aph42m",
       "Name": "Now I can drink that",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -201,7 +206,7 @@
       "ID": "ach-carpenter-table",
       "SetID": "6aph42m",
       "Name": "Time to build a house",
-      "Percentage": 61,
+      "Percentage": 58,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -209,7 +214,7 @@
       "ID": "ach-chest",
       "SetID": "6aph42m",
       "Name": "I\u0027ve got no place in inventory",
-      "Percentage": 56,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -217,7 +222,7 @@
       "ID": "ach-cooked-mutton",
       "SetID": "6aph42m",
       "Name": "Getting nutritions!",
-      "Percentage": 44,
+      "Percentage": 42,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -225,7 +230,7 @@
       "ID": "ach-cooked-ostrich-egg",
       "SetID": "6aph42m",
       "Name": "Once an egg, once a...",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -233,7 +238,7 @@
       "ID": "ach-copper",
       "SetID": "6aph42m",
       "Name": "Harder materials",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -249,7 +254,7 @@
       "ID": "ach-dark-pepper",
       "SetID": "6aph42m",
       "Name": "That\u0027s a big pepper!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -257,7 +262,7 @@
       "ID": "ach-enchanted-mushroom",
       "SetID": "6aph42m",
       "Name": "Enchanted farmer",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -273,7 +278,7 @@
       "ID": "ach-farmer-goblin",
       "SetID": "6aph42m",
       "Name": "Farmer\u0027s friend",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -297,7 +302,7 @@
       "ID": "ach-furnace",
       "SetID": "6aph42m",
       "Name": "Time to smelt",
-      "Percentage": 61,
+      "Percentage": 58,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -305,7 +310,7 @@
       "ID": "ach-furniture-table",
       "SetID": "6aph42m",
       "Name": "Time to furnish",
-      "Percentage": 61,
+      "Percentage": 58,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -313,7 +318,7 @@
       "ID": "ach-goblin-bed",
       "SetID": "6aph42m",
       "Name": "Helping a friend",
-      "Percentage": 28,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -321,7 +326,7 @@
       "ID": "ach-goblin-bed-destroy",
       "SetID": "6aph42m",
       "Name": "Give and take",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -345,7 +350,7 @@
       "ID": "ach-ladder",
       "SetID": "6aph42m",
       "Name": "It\u0027s dark here!",
-      "Percentage": 56,
+      "Percentage": 53,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -361,7 +366,7 @@
       "ID": "ach-monolith",
       "SetID": "6aph42m",
       "Name": "The encounter",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -369,7 +374,7 @@
       "ID": "ach-obsidian",
       "SetID": "6aph42m",
       "Name": "The strongest!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -401,7 +406,7 @@
       "ID": "ach-portal",
       "SetID": "6aph42m",
       "Name": "Strange place",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -409,7 +414,7 @@
       "ID": "ach-pumpkin-slice",
       "SetID": "6aph42m",
       "Name": "Advanced farmer",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -441,7 +446,7 @@
       "ID": "ach-ruby",
       "SetID": "6aph42m",
       "Name": "Shiny!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -449,7 +454,7 @@
       "ID": "ach-saddle",
       "SetID": "6aph42m",
       "Name": "Alpaca rider",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -513,7 +518,7 @@
       "ID": "ach-tool-table",
       "SetID": "6aph42m",
       "Name": "I\u0027m tired of sharp stone",
-      "Percentage": 67,
+      "Percentage": 63,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -521,7 +526,7 @@
       "ID": "ach-torch",
       "SetID": "6aph42m",
       "Name": "I can see in the dark now!",
-      "Percentage": 44,
+      "Percentage": 42,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -529,7 +534,7 @@
       "ID": "ach-wool",
       "SetID": "6aph42m",
       "Name": "A naked sheep",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -537,7 +542,7 @@
       "ID": "ach-workbench",
       "SetID": "6aph42m",
       "Name": "I can craft more!",
-      "Percentage": 78,
+      "Percentage": 74,
       "XP": 5,
       "UsersEstimate": 14
     }
@@ -546,14 +551,14 @@
     {
       "ID": "6aph42m",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 19,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-09T20:59:53.605626+00:00",
   "FirstSeenAchievements": "2023-09-27T06:05:39.2666292+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:34:08.6988184+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:08:57.1739608+00:00",
   "LastUpdate_AppInfo": "2023-12-13T11:57:08.2416501+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:24:15.5270933+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:34:08.6988483+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:59:22.0948084+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:08:57.1739906+00:00"
 }

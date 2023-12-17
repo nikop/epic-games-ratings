@@ -3,12 +3,12 @@
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
   "Ranking_Rating": 455,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 564,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -7001,8 +7001,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:30:31.5785581+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:05:13.5441355+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:23:17.0748033+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:30:31.5786178+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:58:24.2294865+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:05:13.544202+00:00"
 }

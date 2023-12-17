@@ -3,12 +3,12 @@
   "Name": "Song of Nunu: A League of Legends Story",
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_Rating": 443,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 564,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1182,
+  "EOS_Progressed": 1183,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -2820,6 +2820,11 @@
       "Time": "2023-12-16T21:11:05.4831069+00:00",
       "NumProgressed": 1182,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-17T03:09:37.9413207+00:00",
+      "NumProgressed": 1183,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -2832,7 +2837,7 @@
       "Name": "Blue Dreams",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "EV_ACH02",
@@ -2840,7 +2845,7 @@
       "Name": "My Darkest Day",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "EV_ACH03",
@@ -2848,7 +2853,7 @@
       "Name": "He\u0027s Famous!",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "EV_ACH04",
@@ -2856,23 +2861,23 @@
       "Name": "No Bites",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "EV_ACH05",
       "SetID": "6jeac23",
       "Name": "Tear of Freedom",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 615
+      "UsersEstimate": 603
     },
     {
       "ID": "EV_ACH06",
       "SetID": "6jeac23",
       "Name": "A Tragic Reminder",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 532
+      "UsersEstimate": 521
     },
     {
       "ID": "EV_ACH07",
@@ -2880,7 +2885,7 @@
       "Name": "3000 Year Blackout",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "EV_ACH08",
@@ -2888,7 +2893,7 @@
       "Name": "So Close",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "EV_ACH09",
@@ -2902,9 +2907,9 @@
       "ID": "EV_ACH10",
       "SetID": "6jeac23",
       "Name": "Family",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 461
     },
     {
       "ID": "EV_ACH11",
@@ -2952,7 +2957,7 @@
       "Name": "Krugmazing",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "EV_ACH17",
@@ -2960,7 +2965,7 @@
       "Name": "Iceborn",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "EV_ACH18",
@@ -2968,7 +2973,7 @@
       "Name": "Snowy Poro",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "EV_ACH19",
@@ -3016,7 +3021,7 @@
       "Name": "Never Gets Old",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "EV_ACH25",
@@ -3032,7 +3037,7 @@
       "Name": "Moneyball",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "EV_ACH27",
@@ -3040,7 +3045,7 @@
       "Name": "I Broke It",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "EV_ACH28",
@@ -3056,7 +3061,7 @@
       "Name": "Cutie Poro",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "EV_ACH30",
@@ -3072,7 +3077,7 @@
       "Name": "Feels Familiar",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "EV_ACH32",
@@ -3088,7 +3093,7 @@
       "Name": "Notai Notes",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "EV_ACH34",
@@ -3096,7 +3101,7 @@
       "Name": "One From The Heart",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "EV_ACH35",
@@ -3104,7 +3109,7 @@
       "Name": "The Fire Below the Mountain",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "EV_ACH36",
@@ -3120,7 +3125,7 @@
       "Name": "The Finisher",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "EV_ACH38",
@@ -3183,7 +3188,7 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 1182,
+      "Progressed": 1183,
       "Completed": 8
     }
   ],
@@ -3191,8 +3196,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-16T18:58:29.1702148+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:34:49.6702216+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:09:37.9413203+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.6283728+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:23:25.1655991+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:34:49.6702671+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:58:32.3461095+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:09:37.941361+00:00"
 }

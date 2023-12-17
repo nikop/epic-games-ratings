@@ -7,7 +7,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Matching | 1.00% | ~26 |
-| First Steps | 0.90% | ~2,170 |
+| First Steps | 0.90% | ~2,171 |
 | Uncharted Territory | 0.80% | ~1,929 |
 | Getting A Glimpse | 0.70% | ~1,688 |
 | Defeat The Dark | 0.70% | ~1,688 |
@@ -54,19 +54,19 @@ Number of Ratings: 15,086  (23.09.2022)
 | Acid Bath | 0.40% | ~965 |
 | New Perspectives | 0.40% | ~965 |
 | Shapeshifting | 0.40% | ~965 |
-| Thank You, Friend | 0.30% | ~723 |
-| Shadow Spreads | 0.30% | ~723 |
-| Max Damage! | 0.30% | ~723 |
-| A Rough Road | 0.30% | ~723 |
-| Berzerker | 0.30% | ~723 |
-| Don't Ignore Me! | 0.30% | ~723 |
-| All Consuming | 0.30% | ~723 |
-| Illuminate, Eliminate | 0.30% | ~723 |
-| Chain Reaction | 0.30% | ~723 |
-| Spreading Plague | 0.30% | ~723 |
-| Antivenom | 0.30% | ~723 |
-| Snake Sneak | 0.30% | ~723 |
-| The Long Run | 0.30% | ~723 |
+| Thank You, Friend | 0.30% | ~724 |
+| Shadow Spreads | 0.30% | ~724 |
+| Max Damage! | 0.30% | ~724 |
+| A Rough Road | 0.30% | ~724 |
+| Berzerker | 0.30% | ~724 |
+| Don't Ignore Me! | 0.30% | ~724 |
+| All Consuming | 0.30% | ~724 |
+| Illuminate, Eliminate | 0.30% | ~724 |
+| Chain Reaction | 0.30% | ~724 |
+| Spreading Plague | 0.30% | ~724 |
+| Antivenom | 0.30% | ~724 |
+| Snake Sneak | 0.30% | ~724 |
+| The Long Run | 0.30% | ~724 |
 | Who Needs Luck? | 0.30% | ~8 |
 | Achievement Hunter | 0.20% | ~482 |
 | Challenge Increases | 0.20% | ~482 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,166 (Ranked 66)  
+Progressed: 241,167 (Ranked 66)  
 Completed: 299 (0.12%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -386,7 +386,7 @@ Completed: 299 (0.12%) (Ranked 290)
 | 2023-12-14 | 241,040 | 298 |
 | 2023-12-15 | 241,093 | 299 |
 | 2023-12-16 | 241,163 | 299 |
-| 2023-12-17 | 241,166 | 299 |
+| 2023-12-17 | 241,167 | 299 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,742 (Ranked 87)  

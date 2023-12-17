@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 30,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -689,9 +689,9 @@
       "ID": "BADGE_THUNDER_COUNT",
       "SetID": "ak6pfjk",
       "Name": "Thunderstorm",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "BADGE_TOWER_UPGRADE",
@@ -722,8 +722,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:30:06.6102276+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:04:48.6185835+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.324384+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:28:09.6901437+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:30:06.6102633+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:02:51.4137856+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:04:48.6186151+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1383,
+  "EOS_Progressed": 1384,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3257,6 +3257,11 @@
       "Time": "2023-12-17T02:30:20.2993021+00:00",
       "NumProgressed": 1383,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T03:05:02.4041195+00:00",
+      "NumProgressed": 1384,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3413,7 +3418,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -3605,7 +3610,7 @@
       "Name": "Mission complete",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -3636,20 +3641,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1383,
+      "Progressed": 1384,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1051,
+      "Progressed": 1052,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:30:20.2993017+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:05:02.4041191+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:23:23.6873671+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:30:20.2993403+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:58:30.6553887+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:05:02.404159+00:00"
 }

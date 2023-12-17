@@ -29,7 +29,7 @@
 | Brilliant: Holy Mountain | 64.00% | ~116 |
 | Combo Breaker | 64.00% | ~116 |
 | Tastes Like Chicken | 64.00% | ~116 |
-| Thunderstorm | 63.00% | ~115 |
+| Thunderstorm | 64.00% | ~116 |
 | Clean Forests | 62.00% | ~113 |
 | Starry: Meadowshire | 58.00% | ~106 |
 | Lieutenant of the Evil | 58.00% | ~106 |

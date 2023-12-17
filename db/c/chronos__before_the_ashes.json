@@ -3,12 +3,12 @@
   "Name": "Chronos: Before the Ashes",
   "ProductSlug": "chronos-before-the-ashes",
   "Ranking_Rating": 981,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 564,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2020-12-01T18:00:00+00:00",
     "PcReleaseDate": "2020-12-01T18:00:00+00:00",
@@ -119,6 +119,6 @@
   "FirstSeenRating": "2022-10-20T18:00:38.5119535+00:00",
   "LastChanged": "2023-10-19T21:01:33.7341876+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.9068955+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:23:17.4592617+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:29:19.262087+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:58:24.5834934+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:04:01.6664195+00:00"
 }

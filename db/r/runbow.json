@@ -3,12 +3,12 @@
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
   "Ranking_Rating": 655,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 564,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252223,
+  "EOS_Progressed": 252225,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21457,6 +21457,11 @@
       "Time": "2023-12-17T02:34:33.8820848+00:00",
       "NumProgressed": 252223,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-17T03:09:22.6641336+00:00",
+      "NumProgressed": 252225,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -21516,7 +21521,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15133
+      "UsersEstimate": 15134
     },
     {
       "ID": "canYouDigIt",
@@ -21540,7 +21545,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37833
+      "UsersEstimate": 37834
     },
     {
       "ID": "clearCut",
@@ -21644,7 +21649,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133678
+      "UsersEstimate": 133679
     },
     {
       "ID": "indegestible",
@@ -21700,7 +21705,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35311
+      "UsersEstimate": 35312
     },
     {
       "ID": "myFirstRunbow",
@@ -21772,7 +21777,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55489
+      "UsersEstimate": 55490
     },
     {
       "ID": "thunderstruck",
@@ -21835,7 +21840,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252223,
+      "Progressed": 252225,
       "Completed": 6
     }
   ],
@@ -21843,8 +21848,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:34:33.8820844+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:09:22.6641333+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.4778344+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:22:18.4766666+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:34:33.8822065+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:57:27.4193441+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:09:22.6642368+00:00"
 }

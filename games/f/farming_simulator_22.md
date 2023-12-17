@@ -6,20 +6,20 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 73.00% | ~41,025 |
-| I read Shakespeare and stuff | 62.00% | ~34,843 |
-| Just a sprinkle | 60.00% | ~33,719 |
-| I'm stumped | 58.00% | ~32,595 |
-| Plant get enough | 58.00% | ~32,595 |
-| This is just my weekend vehicle | 56.00% | ~31,471 |
-| It's just the beginning | 56.00% | ~31,471 |
-| Hard work pays off | 51.00% | ~28,661 |
-| It's never too late to farm | 48.00% | ~26,975 |
-| All out of Land | 43.00% | ~24,165 |
-| Field Trip | 42.00% | ~23,603 |
-| I like to switch it up | 39.00% | ~21,917 |
-| Help me to help you | 37.00% | ~20,793 |
-| Ultimutt Pawesomeness | 27.00% | ~15,173 |
+| Own use | 73.00% | ~41,026 |
+| I read Shakespeare and stuff | 62.00% | ~34,844 |
+| Just a sprinkle | 60.00% | ~33,720 |
+| I'm stumped | 58.00% | ~32,596 |
+| Plant get enough | 58.00% | ~32,596 |
+| This is just my weekend vehicle | 56.00% | ~31,472 |
+| It's just the beginning | 56.00% | ~31,472 |
+| Hard work pays off | 51.00% | ~28,662 |
+| It's never too late to farm | 48.00% | ~26,976 |
+| All out of Land | 43.00% | ~24,166 |
+| Field Trip | 42.00% | ~23,604 |
+| I like to switch it up | 39.00% | ~21,918 |
+| Help me to help you | 37.00% | ~20,794 |
+| Ultimutt Pawesomeness | 27.00% | ~15,174 |
 | Van Gogh | 24.00% | ~13,488 |
 | Vehicle fleet | 22.00% | ~12,364 |
 | You wood not believe it | 21.00% | ~11,802 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~225 |
 | Raisin the stakes | 0.30% | ~169 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,198 (Ranked 113)  
+Progressed: 56,200 (Ranked 113)  
 Completed: 6 (0.01%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 6 (0.01%) (Ranked 355)
 | 2023-12-14 | 55,776 | 6 |
 | 2023-12-15 | 55,945 | 6 |
 | 2023-12-16 | 56,176 | 6 |
-| 2023-12-17 | 56,198 | 6 |
+| 2023-12-17 | 56,200 | 6 |
 ## Awards
 Max (Great for Beginners): 5,823  (Ranked 67)  
 Sum: 44,254 (Ranked 34)  

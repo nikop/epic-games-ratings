@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1495,7 +1495,7 @@
   ],
   "EOS_Progressed": 429649,
   "EOS_Completed": 553,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -17340,9 +17340,9 @@
       "ID": "ACH_CHALLENGE_CRIT",
       "SetID": "231ghgk",
       "Name": "Quick Draw",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 124598
+      "UsersEstimate": 128895
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -17588,8 +17588,8 @@
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-12-17T01:52:52.0072587+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:30:14.9363502+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:04:56.9890712+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.1713393+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:24:49.4169139+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:30:14.9364341+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:59:54.3873003+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:04:56.9891514+00:00"
 }

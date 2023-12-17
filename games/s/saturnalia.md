@@ -8,9 +8,9 @@ Rating: 4.26 (Ranked 880)
 | Out of Shape | 4.00% | ~2,775 |
 | Bonfire Lit | 3.00% | ~2,081 |
 | Survival Expert | 3.00% | ~2,081 |
-| Denial | 2.00% | ~1,387 |
-| Acceptance | 2.00% | ~1,387 |
-| Bargaining | 2.00% | ~1,387 |
+| Denial | 2.00% | ~1,388 |
+| Acceptance | 2.00% | ~1,388 |
+| Bargaining | 2.00% | ~1,388 |
 | Anger | 1.00% | ~694 |
 | Fear Of The Dark | 1.00% | ~694 |
 | Detective of the occult | 1.00% | ~694 |
@@ -21,12 +21,12 @@ Rating: 4.26 (Ranked 880)
 | Chain Breaker | 0.70% | ~486 |
 | Let there be light | 0.50% | ~347 |
 | Silent Advisor | 0.50% | ~347 |
-| Soda addiction | 0.40% | ~277 |
-| Paparazzi | 0.40% | ~277 |
-| Are you still there? | 0.40% | ~277 |
+| Soda addiction | 0.40% | ~278 |
+| Paparazzi | 0.40% | ~278 |
+| Are you still there? | 0.40% | ~278 |
 | Ear Ringing | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,373 (Ranked 105)  
+Progressed: 69,375 (Ranked 105)  
 Completed: 18 (0.03%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 18 (0.03%) (Ranked 340)
 | 2023-12-14 | 69,291 | 18 |
 | 2023-12-15 | 69,325 | 18 |
 | 2023-12-16 | 69,371 | 18 |
-| 2023-12-17 | 69,373 | 18 |
+| 2023-12-17 | 69,375 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

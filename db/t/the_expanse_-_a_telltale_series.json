@@ -3,11 +3,11 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 535,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 564,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -14405,6 +14405,6 @@
   "LastChanged": "2023-12-16T18:58:26.9677078+00:00",
   "LastChanged_Achievements": "2023-12-17T02:33:20.1660111+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:23:22.8326097+00:00",
+  "LastUpdate_Ratings": "2023-12-17T02:58:29.7889014+00:00",
   "LastUpdate_Achievements": "2023-12-17T02:33:20.1661016+00:00"
 }

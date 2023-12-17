@@ -4,7 +4,7 @@
   "ProductSlug": "shop-titans-d95c1c",
   "Ranking_Rating": 1018,
   "Ranking_Popularity": 75,
-  "Ranking_PopularitySum": 50,
+  "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 79,
@@ -7603,9 +7603,9 @@
       "Count": 3799
     }
   ],
-  "EOS_Progressed": 145962,
+  "EOS_Progressed": 145966,
   "EOS_Completed": 319,
-  "EOS_NewPlayers": 1438,
+  "EOS_NewPlayers": 1441,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -32743,6 +32743,11 @@
       "Time": "2023-12-17T02:30:21.0471294+00:00",
       "NumProgressed": 145962,
       "NumCompleted": 319
+    },
+    {
+      "Time": "2023-12-17T03:05:03.2186977+00:00",
+      "NumProgressed": 145966,
+      "NumCompleted": 319
     }
   ],
   "TotalAchievements": 112,
@@ -32834,7 +32839,7 @@
       "Name": "One Easy Payment",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5838
+      "UsersEstimate": 5839
     },
     {
       "ID": "bigsale02",
@@ -32858,7 +32863,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5838
+      "UsersEstimate": 5839
     },
     {
       "ID": "blueprint02",
@@ -32984,9 +32989,9 @@
       "ID": "commonres01",
       "SetID": "anfd17p",
       "Name": "Basic in Bulk",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10217
+      "UsersEstimate": 11677
     },
     {
       "ID": "commonres02",
@@ -33226,7 +33231,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10217
+      "UsersEstimate": 10218
     },
     {
       "ID": "gold02",
@@ -33234,7 +33239,7 @@
       "Name": "Pretty Penny",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5838
+      "UsersEstimate": 5839
     },
     {
       "ID": "gold03",
@@ -33306,7 +33311,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5838
+      "UsersEstimate": 5839
     },
     {
       "ID": "jackslot02",
@@ -33410,7 +33415,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5838
+      "UsersEstimate": 5839
     },
     {
       "ID": "master02",
@@ -33618,7 +33623,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5838
+      "UsersEstimate": 5839
     },
     {
       "ID": "workers02",
@@ -33649,15 +33654,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 145962,
+      "Progressed": 145966,
       "Completed": 319
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-16T23:03:11.3873522+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:30:21.0471291+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:05:03.2186972+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:28:13.1085867+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:30:21.0473999+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:02:54.2568028+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:05:03.218892+00:00"
 }

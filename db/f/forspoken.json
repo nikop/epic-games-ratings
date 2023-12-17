@@ -3,12 +3,12 @@
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
   "Ranking_Rating": 963,
-  "Ranking_Popularity": 503,
-  "Ranking_PopularitySum": 521,
+  "Ranking_Popularity": 564,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 355,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -476,9 +476,8 @@
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30,
-  "NumberOfAwardsMax": 30,
-  "MaxAwardTitle": "Character Customization",
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -487,9 +486,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 44128,
+  "EOS_Progressed": 44131,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 633,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15367,6 +15366,11 @@
       "Time": "2023-12-17T02:33:35.1240688+00:00",
       "NumProgressed": 44128,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T03:08:24.1112468+00:00",
+      "NumProgressed": 44131,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15538,7 +15542,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2206
+      "UsersEstimate": 2207
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -15594,7 +15598,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2206
+      "UsersEstimate": 2207
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -15801,22 +15805,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44128,
+      "Progressed": 44131,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8965,
-      "Completed": 8965
+      "Progressed": 8968,
+      "Completed": 8968
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-16T02:18:37.9301013+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:33:35.1240686+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:08:24.1112464+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:23:19.821505+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:33:35.1241583+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:58:26.8620697+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:08:24.1113305+00:00"
 }

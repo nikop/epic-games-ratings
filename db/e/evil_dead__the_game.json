@@ -4,11 +4,11 @@
   "ProductSlug": "evil-dead-the-game",
   "Ranking_Rating": 789,
   "Ranking_Popularity": 33,
-  "Ranking_PopularitySum": 45,
+  "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-05-13T07:00:00+00:00",
     "PcReleaseDate": "2022-05-13T07:00:00+00:00",
@@ -7775,6 +7775,6 @@
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
   "LastChanged": "2023-12-16T15:58:43.8174908+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:55.103982+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:23:50.7538152+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:34:23.8802197+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:58:57.8125558+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:09:12.8788074+00:00"
 }

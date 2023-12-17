@@ -3,11 +3,11 @@
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 789,
-  "Ranking_Popularity": 519,
+  "Ranking_Popularity": 518,
   "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 76987,
+  "EOS_Progressed": 76988,
   "EOS_Completed": 413,
-  "EOS_NewPlayers": 561,
+  "EOS_NewPlayers": 560,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -26834,6 +26834,11 @@
       "Time": "2023-12-17T02:34:18.3793833+00:00",
       "NumProgressed": 76987,
       "NumCompleted": 413
+    },
+    {
+      "Time": "2023-12-17T03:09:06.7056012+00:00",
+      "NumProgressed": 76988,
+      "NumCompleted": 413
     }
   ],
   "TotalAchievements": 24,
@@ -26861,7 +26866,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 53121
+      "UsersEstimate": 53122
     },
     {
       "ID": "BEST_FRIENDS",
@@ -26893,7 +26898,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21556
+      "UsersEstimate": 21557
     },
     {
       "ID": "FOXIN_AROUND",
@@ -26901,7 +26906,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 22326
+      "UsersEstimate": 22327
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -26909,7 +26914,7 @@
       "Name": "FOX? OR FLYING SQUIRREL?",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3079
+      "UsersEstimate": 3080
     },
     {
       "ID": "GARDEN_OF_LIGHT",
@@ -26925,7 +26930,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 40803
+      "UsersEstimate": 40804
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -27021,7 +27026,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 9238
+      "UsersEstimate": 9239
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -27036,7 +27041,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 76987,
+      "Progressed": 76988,
       "Completed": 413
     }
   ],
@@ -27044,8 +27049,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:34:18.3793831+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:09:06.7056008+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.1287529+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:27:57.2156942+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:34:18.3795389+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:00:39.5189737+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:09:06.7057116+00:00"
 }

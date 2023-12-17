@@ -6,7 +6,7 @@ Rating: 4.33 (Ranked 826)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start | 76.00% | ~920 |
-| And so it begins | 72.00% | ~871 |
+| And so it begins | 73.00% | ~883 |
 | No pressure | 70.00% | ~847 |
 | Memento | 61.00% | ~738 |
 | Let there be light | 59.00% | ~714 |
@@ -33,7 +33,7 @@ Rating: 4.33 (Ranked 826)
 | King of hospitality | 11.00% | ~133 |
 | Top spot in town | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,210 (Ranked 260)  
+Progressed: 1,210 (Ranked 261)  
 Completed: 18 (1.49%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |

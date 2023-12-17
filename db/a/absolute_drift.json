@@ -3,8 +3,8 @@
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
   "Ranking_Rating": 720,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 564,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 83,
@@ -475,9 +475,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1556641,
+  "EOS_Progressed": 1556646,
   "EOS_Completed": 746,
-  "EOS_NewPlayers": 1361,
+  "EOS_NewPlayers": 1365,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -27990,6 +27990,11 @@
       "Time": "2023-12-17T02:29:06.1920031+00:00",
       "NumProgressed": 1556641,
       "NumCompleted": 746
+    },
+    {
+      "Time": "2023-12-17T03:03:48.5152525+00:00",
+      "NumProgressed": 1556646,
+      "NumCompleted": 746
     }
   ],
   "TotalAchievements": 20,
@@ -28097,7 +28102,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 155664
+      "UsersEstimate": 155665
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -28160,15 +28165,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1556641,
+      "Progressed": 1556646,
       "Completed": 746
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-12-08T12:00:51.5497062+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:29:06.1920027+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:03:48.5152521+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.8814559+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:27:35.7818342+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:29:06.192163+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:00:28.423291+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:03:48.5153854+00:00"
 }

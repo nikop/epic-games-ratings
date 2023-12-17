@@ -2,10 +2,10 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_EOS_Progress": 293,
+  "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 706,
+  "EOS_Progressed": 707,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1935,6 +1935,11 @@
       "Time": "2023-12-17T02:34:09.4843818+00:00",
       "NumProgressed": 706,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T03:08:57.9671204+00:00",
+      "NumProgressed": 707,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -2043,7 +2048,7 @@
       "Name": "Krauta is alive",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "AchvLava",
@@ -2075,15 +2080,15 @@
       "Name": "The Necroevolution",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "AchvNest",
       "SetID": "1hj060c",
       "Name": "Innate curiosity",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 56
+      "UsersEstimate": 49
     },
     {
       "ID": "AchvNoHoles",
@@ -2115,7 +2120,7 @@
       "Name": "The field base",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "AchvReachCamp",
@@ -2178,14 +2183,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 706,
+      "Progressed": 707,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:34:09.4843815+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:08:57.96712+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:27:34.7789038+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:34:09.4844056+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:00:27.1066343+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:08:57.9671415+00:00"
 }

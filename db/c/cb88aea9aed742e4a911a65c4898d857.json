@@ -3,12 +3,12 @@
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 35,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 564,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4539,
+  "EOS_Progressed": 4550,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3253,
+  "EOS_NewPlayers": 3258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1225,6 +1225,11 @@
       "Time": "2023-12-17T02:34:21.1909311+00:00",
       "NumProgressed": 4539,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T03:09:09.518712+00:00",
+      "NumProgressed": 4550,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1235,9 +1240,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 546
     },
     {
       "ID": "03_TheStolenStar",
@@ -1253,7 +1258,7 @@
       "Name": "Trade Empire",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -1373,7 +1378,7 @@
       "Name": "Void Wolf",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -1405,7 +1410,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "24_TheHighrise",
@@ -1453,7 +1458,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "30_The GreatestExploration",
@@ -1557,7 +1562,7 @@
       "Name": "Iron Judgement",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -1565,7 +1570,7 @@
       "Name": "No Place Like Home",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -1589,7 +1594,7 @@
       "Name": "A Spark",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "47_AFlame",
@@ -1756,7 +1761,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 4539,
+      "Progressed": 4550,
       "Completed": 0
     }
   ],
@@ -1764,8 +1769,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-16T18:59:01.4154357+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:34:21.1909309+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:09:09.5187116+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:23:56.9131464+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:34:21.1909881+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:59:03.7472621+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:09:09.5187568+00:00"
 }

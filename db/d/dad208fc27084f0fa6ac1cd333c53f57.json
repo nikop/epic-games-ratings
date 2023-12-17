@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5542,
+  "EOS_Progressed": 5543,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -5194,6 +5194,11 @@
       "Time": "2023-12-17T02:33:35.7218186+00:00",
       "NumProgressed": 5542,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-17T03:08:24.7083203+00:00",
+      "NumProgressed": 5543,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -5222,7 +5227,7 @@
       "Name": "Collect the mask",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
@@ -5230,7 +5235,7 @@
       "Name": "Unlock the gate",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
@@ -5254,7 +5259,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 3159
+      "UsersEstimate": 3160
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -5333,14 +5338,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 5542,
+      "Progressed": 5543,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:33:35.7218182+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:08:24.7083198+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:07.8033204+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:22:31.5130557+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:33:35.7218525+00:00"
+  "LastUpdate_Ratings": "2023-12-17T02:57:41.1016055+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:08:24.7083525+00:00"
 }

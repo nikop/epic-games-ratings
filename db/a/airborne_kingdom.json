@@ -3,12 +3,12 @@
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
   "Ranking_Rating": 317,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 564,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7622,
+  "EOS_Progressed": 7623,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6288,6 +6288,11 @@
       "Time": "2023-12-16T23:05:51.8026114+00:00",
       "NumProgressed": 7622,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-17T03:05:38.8200535+00:00",
+      "NumProgressed": 7623,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -6379,7 +6384,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -6427,7 +6432,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -6451,7 +6456,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4268
+      "UsersEstimate": 4269
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6467,7 +6472,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2591
+      "UsersEstimate": 2592
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -6491,7 +6496,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -6514,15 +6519,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7622,
+      "Progressed": 7623,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-12-17T02:30:56.8936642+00:00",
+  "LastChanged_Achievements": "2023-12-17T03:05:38.8200532+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:12.2358899+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:28:17.1680139+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:30:56.89371+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:02:58.1015274+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:05:38.8200993+00:00"
 }

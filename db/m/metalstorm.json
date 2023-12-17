@@ -3,12 +3,12 @@
   "Name": "Metalstorm",
   "ProductSlug": "metalstorm",
   "Ranking_Rating": 789,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 564,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 799,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-11-14T19:00:00+00:00",
     "PcReleaseDate": "2023-11-14T19:00:00+00:00",
@@ -206,6 +206,6 @@
   "FirstSeenRating": "2023-11-25T02:17:36.1236475+00:00",
   "LastChanged": "2023-12-16T20:01:37.4956999+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.6063391+00:00",
-  "LastUpdate_Ratings": "2023-12-17T02:25:01.2543873+00:00",
-  "LastUpdate_Achievements": "2023-12-17T02:33:34.0694128+00:00"
+  "LastUpdate_Ratings": "2023-12-17T03:00:06.6204304+00:00",
+  "LastUpdate_Achievements": "2023-12-17T03:08:23.091536+00:00"
 }
