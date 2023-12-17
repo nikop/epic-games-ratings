@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 371,
+  "Ranking_Rating": 370,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 190,
@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5767,
+  "EOS_Progressed": 5769,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8260,6 +8260,11 @@
       "Time": "2023-12-17T08:03:45.1126717+00:00",
       "NumProgressed": 5767,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-17T09:04:34.6425761+00:00",
+      "NumProgressed": 5769,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8405,9 +8410,9 @@
       "ID": "25",
       "SetID": "3aa2279",
       "Name": "Walls Cannot Stop Us",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 288
     },
     {
       "ID": "26",
@@ -8750,13 +8755,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5767,
+      "Progressed": 5769,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5767,
+      "Progressed": 5769,
       "Completed": 7
     }
   ],
@@ -8764,8 +8769,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:03:45.1126713+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:04:34.6425758+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:58:27.1458822+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:03:45.1127426+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:58:54.0124688+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:04:34.6426958+00:00"
 }

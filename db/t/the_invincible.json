@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 716,
+  "EOS_Progressed": 717,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1960,6 +1960,11 @@
       "Time": "2023-12-17T08:09:22.7249376+00:00",
       "NumProgressed": 716,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T09:10:11.3547541+00:00",
+      "NumProgressed": 717,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1996,15 +2001,15 @@
       "Name": "Fierce fight",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "AchvBombStop",
       "SetID": "1hj060c",
       "Name": "Peacemaker",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 143
+      "UsersEstimate": 151
     },
     {
       "ID": "AchvBombing",
@@ -2012,7 +2017,7 @@
       "Name": "Violent solution",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "AchvConvoyList",
@@ -2106,9 +2111,9 @@
       "ID": "AchvNest",
       "SetID": "1hj060c",
       "Name": "Innate curiosity",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 50
+      "UsersEstimate": 57
     },
     {
       "ID": "AchvNoHoles",
@@ -2140,7 +2145,7 @@
       "Name": "The field base",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "AchvReachCamp",
@@ -2148,7 +2153,7 @@
       "Name": "The Camp",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "AchvReachCity",
@@ -2172,7 +2177,7 @@
       "Name": "Survivors",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -2186,9 +2191,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 55,
-      "UsersEstimate": 215
+      "UsersEstimate": 222
     },
     {
       "ID": "AchvUnity",
@@ -2203,14 +2208,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 716,
+      "Progressed": 717,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:09:22.7249371+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:10:11.3547538+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:02:40.3017844+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:09:22.7249617+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:01:06.8200867+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:10:11.3547776+00:00"
 }

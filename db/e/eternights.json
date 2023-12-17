@@ -2,8 +2,8 @@
   "ID": "0bb1bf6df5784815a0c62120f8a82b25",
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
-  "Ranking_EOS_Progress": 322,
-  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_Progress": 323,
+  "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
@@ -1949,9 +1949,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 420
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -1965,9 +1965,9 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -2037,7 +2037,7 @@
       "ID": "ACHIEVEMENT_20_TruePlayer",
       "SetID": "9bke6f1",
       "Name": "True Player",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -2156,8 +2156,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:08:54.4503422+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:09:42.9875144+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:14.9985646+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:57:21.9484767+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:08:54.4503668+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:57:50.0559037+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:09:42.9875415+00:00"
 }

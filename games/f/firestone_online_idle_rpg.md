@@ -5,23 +5,23 @@ Rating: 4.04 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,236 |
-| World Map | 78.00% | ~2,714 |
-| Temple of Eternals | 56.00% | ~1,949 |
-| Prestigious | 53.00% | ~1,844 |
+| Victor | 93.00% | ~3,238 |
+| World Map | 78.00% | ~2,716 |
+| Temple of Eternals | 56.00% | ~1,950 |
+| Prestigious | 53.00% | ~1,845 |
 | Fellowship Power | 42.00% | ~1,462 |
-| Full Party | 24.00% | ~835 |
-| Guild Power | 23.00% | ~800 |
+| Full Party | 24.00% | ~836 |
+| Guild Power | 23.00% | ~801 |
 | Prestigious x10 | 21.00% | ~731 |
-| The game is on | 18.00% | ~626 |
+| The game is on | 18.00% | ~627 |
 | Exotic Merchant | 16.00% | ~557 |
 | Dragon Clicker | 15.00% | ~522 |
 | Miner Clicker | 15.00% | ~522 |
 | Hero inspection | 14.00% | ~487 |
 | Inspection | 14.00% | ~487 |
-| Dragon Master | 13.00% | ~452 |
-| Enlightenment | 13.00% | ~452 |
-| Lieutenant | 13.00% | ~452 |
+| Dragon Master | 13.00% | ~453 |
+| Enlightenment | 13.00% | ~453 |
+| Lieutenant | 13.00% | ~453 |
 | Milestone collector | 11.00% | ~383 |
 | Mysterious Rock | 11.00% | ~383 |
 | Natural Talent | 11.00% | ~383 |
@@ -33,11 +33,11 @@ Rating: 4.04 (Ranked 1,008)
 | Doing My Part | 9.00% | ~313 |
 | Hunter | 9.00% | ~313 |
 | The power of Awakening | 9.00% | ~313 |
-| Frostfire Liberator | 8.00% | ~278 |
-| Mastery | 8.00% | ~278 |
-| Moving Up The Ladder | 8.00% | ~278 |
-| Relic Of The Past | 8.00% | ~278 |
-| Scroll Master | 8.00% | ~278 |
+| Frostfire Liberator | 8.00% | ~279 |
+| Mastery | 8.00% | ~279 |
+| Moving Up The Ladder | 8.00% | ~279 |
+| Relic Of The Past | 8.00% | ~279 |
+| Scroll Master | 8.00% | ~279 |
 | Four Leaf Clover | 7.00% | ~244 |
 | Here We Go Again | 7.00% | ~244 |
 | Master Enchanter | 7.00% | ~244 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 1,008)
 | Jewel Enchanting | 0.20% | ~7 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,480 (Ranked 213)  
+Progressed: 3,482 (Ranked 213)  
 Completed: 2 (0.06%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,15 +317,15 @@ Completed: 2 (0.06%) (Ranked 320)
 | 2023-12-14 | 3,410 | 2 |
 | 2023-12-15 | 3,437 | 2 |
 | 2023-12-16 | 3,473 | 2 |
-| 2023-12-17 | 3,480 | 2 |
+| 2023-12-17 | 3,482 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 471)  
-Sum: 144 (Ranked 431)  
+Sum: 145 (Ranked 431)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |
-| This game is Great for Quick Sessions | 31 |
+| This game is Great for Quick Sessions | 32 |
 | This game has Diverse Characters | 28 |
 | This game has Playful Visuals | 26 |
 | This game is Highly Recommended | 21 |
@@ -409,3 +409,4 @@ Diff (max vs sum): 40
 | 2023-12-12 | 4.03 | 38 | 142 |
 | 2023-12-14 | 4.03 | 38 | 144 |
 | 2023-12-16 | 4.04 | 38 | 144 |
+| 2023-12-17 | 4.04 | 38 | 145 |

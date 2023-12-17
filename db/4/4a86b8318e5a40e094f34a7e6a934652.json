@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 293,
+  "EOS_Progressed": 294,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -1289,6 +1289,11 @@
       "Time": "2023-12-17T07:03:53.1479231+00:00",
       "NumProgressed": 293,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T09:04:43.5237865+00:00",
+      "NumProgressed": 294,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1301,7 +1306,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1317,7 +1322,7 @@
       "Name": "Retro Diva",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1339,9 +1344,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 153
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1357,7 +1362,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -1371,9 +1376,9 @@
       "ID": "HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "A Party to Remember!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "LUNCH_LEECH",
@@ -1413,7 +1418,7 @@
       "Name": "Weed Warrior",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -1453,21 +1458,21 @@
       "Name": "Strong Signal",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 293,
+      "Progressed": 294,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:03:54.0482328+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:04:43.5237862+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.1278188+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:57:29.9728131+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:03:54.0482481+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:57:58.3393443+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:04:43.523811+00:00"
 }

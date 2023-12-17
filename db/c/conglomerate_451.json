@@ -2,9 +2,9 @@
   "ID": "f5527514b1e04cbaa0a68aa10a6b8378",
   "Name": "Conglomerate 451",
   "ProductSlug": "conglomerate-451-6570f5",
-  "Ranking_EOS_Progress": 800,
+  "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.5253389+00:00",
   "LastChanged": "2023-03-31T05:58:18.525339+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:29.48351+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:58:22.3150236+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:09:10.4830951+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:58:49.5109368+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:09:58.9250421+00:00"
 }

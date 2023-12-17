@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3438,
+  "EOS_Progressed": 3439,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4365,6 +4365,11 @@
       "Time": "2023-12-17T06:04:23.0580627+00:00",
       "NumProgressed": 3438,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T09:05:14.2110276+00:00",
+      "NumProgressed": 3439,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4392,7 +4397,7 @@
       "Name": "Look Over There!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "BloodAndIron",
@@ -4544,7 +4549,7 @@
       "Name": "Not So Fast...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Kills_Bleed",
@@ -4600,7 +4605,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Kills_Streak",
@@ -4624,7 +4629,7 @@
       "Name": "An Ill Omen",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -4919,21 +4924,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3438,
+      "Progressed": 3439,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3438,
+      "Progressed": 3439,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:04:24.3131365+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:05:14.2110273+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.7152084+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:03:04.3836481+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:04:24.3132111+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:03:51.0557638+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:05:14.2111081+00:00"
 }

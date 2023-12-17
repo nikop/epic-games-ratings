@@ -3361,9 +3361,9 @@
       "Count": 261
     }
   ],
-  "EOS_Progressed": 86382,
+  "EOS_Progressed": 86383,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 760,
+  "EOS_NewPlayers": 757,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30251,6 +30251,11 @@
       "Time": "2023-12-17T08:05:06.1416263+00:00",
       "NumProgressed": 86382,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-12-17T09:05:55.9854314+00:00",
+      "NumProgressed": 86383,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 30,
@@ -30310,7 +30315,7 @@
       "Name": "Biggest Reward",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 12093
+      "UsersEstimate": 12094
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -30342,7 +30347,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 31961
+      "UsersEstimate": 31962
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -30358,7 +30363,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 27642
+      "UsersEstimate": 27643
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -30398,7 +30403,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 22459
+      "UsersEstimate": 22460
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -30501,15 +30506,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 86382,
+      "Progressed": 86383,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-12-17T03:59:59.1555348+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:05:06.1416261+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:05:55.9854311+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:25.3489016+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:00:14.5752903+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:05:06.1417396+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:00:43.1395564+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:05:55.9855919+00:00"
 }

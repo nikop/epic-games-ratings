@@ -17,9 +17,9 @@ Number of Ratings: 90  (23.09.2022)
 | Cult Following | 18.00% | ~17 |
 | Upgreatest | 17.00% | ~16 |
 | I Look Up As I Walk to Takoshima | 16.00% | ~15 |
-| Lie Back and Think of Albion | 14.00% | ~13 |
-| Perfect Probulator | 10.00% | ~10 |
-| Freshly Squeezed | 10.00% | ~10 |
+| Lie Back and Think of Albion | 15.00% | ~14 |
+| Perfect Probulator | 11.00% | ~11 |
+| Freshly Squeezed | 11.00% | ~11 |
 | Die Nasty | 8.00% | ~8 |
 | Transmitting From Sol-3 | 7.00% | ~7 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 6.00% | ~6 |

@@ -9730,10 +9730,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20608,
       "NumberOfAwardsMax": 7744
+    },
+    {
+      "Time": "2023-12-17T08:58:23.2982436+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20623,
+      "NumberOfAwardsMax": 7744
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20608,
+  "NumberOfAwards": 20623,
   "NumberOfAwardsMax": 7744,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9795,7 +9801,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1359
+      "Count": 1374
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9810,9 +9816,9 @@
       "Count": 1018
     }
   ],
-  "EOS_Progressed": 127934,
+  "EOS_Progressed": 127946,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1948,
+  "EOS_NewPlayers": 1956,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35440,6 +35446,11 @@
       "Time": "2023-12-17T08:09:11.2217322+00:00",
       "NumProgressed": 127934,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T09:09:59.7332362+00:00",
+      "NumProgressed": 127946,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35483,7 +35494,7 @@
       "Name": "Resurrection",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -35499,15 +35510,15 @@
       "Name": "Funny Guy",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
       "SetID": "64l4lke",
       "Name": "Long Live the King",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1279
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -35515,7 +35526,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -35523,7 +35534,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -35571,7 +35582,7 @@
       "Name": "Predator",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -35683,7 +35694,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "combat_kill_shambler",
@@ -35819,7 +35830,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -35851,7 +35862,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -35883,7 +35894,7 @@
       "Name": "Utopia",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -35987,7 +35998,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "combat_kill_collector",
@@ -35995,7 +36006,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36017,9 +36028,9 @@
       "ID": "combat_land_riposte_dmg_threshold_duelist",
       "SetID": "d3bcpc8",
       "Name": "Slap on the Wrist",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -36051,7 +36062,7 @@
       "Name": "Lost and Found",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36082,21 +36093,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127934,
+      "Progressed": 127946,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2803,
+      "Progressed": 2815,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-17T01:50:35.302696+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:09:11.2217317+00:00",
+  "LastChanged": "2023-12-17T08:58:23.2982435+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:09:59.7332357+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:57:54.6624982+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:09:11.2218848+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:58:23.2982439+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:09:59.7334407+00:00"
 }

@@ -5,9 +5,9 @@ Rating: 4.58 (Ranked 455)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~679 |
-| Fetch Quest Complete | 90.00% | ~636 |
-| I can't wait! | 83.00% | ~587 |
+| Pushing a pull door | 96.00% | ~680 |
+| Fetch Quest Complete | 90.00% | ~637 |
+| I can't wait! | 83.00% | ~588 |
 | Swish | 56.00% | ~396 |
 | Clean up on Aisle 9 | 40.00% | ~283 |
 | Machine Maxed | 30.00% | ~212 |
@@ -19,11 +19,11 @@ Rating: 4.58 (Ranked 455)
 | Taking the plunge | 13.00% | ~92 |
 | Hidden Packages | 11.00% | ~78 |
 | GOOOAAAL | 10.00% | ~71 |
-| Ahoy Hoy | 7.00% | ~49 |
-| New Kid on the Block | 7.00% | ~49 |
-| Jimmy Goldman Would be Proud | 7.00% | ~49 |
+| Ahoy Hoy | 7.00% | ~50 |
 | Bombscare | 6.00% | ~42 |
 | Rhythm is a dancer | 6.00% | ~42 |
+| New Kid on the Block | 6.00% | ~42 |
+| Jimmy Goldman Would be Proud | 6.00% | ~42 |
 | You Spin Me Round | 6.00% | ~42 |
 | Your Bloody Valentine | 5.00% | ~35 |
 | Crowning achievement | 4.00% | ~28 |
@@ -60,7 +60,7 @@ Rating: 4.58 (Ranked 455)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707 (Ranked 293)  
+Progressed: 708 (Ranked 293)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 700 | 0 |
 | 2023-12-15 | 703 | 0 |
 | 2023-12-16 | 706 | 0 |
-| 2023-12-17 | 707 | 0 |
+| 2023-12-17 | 708 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

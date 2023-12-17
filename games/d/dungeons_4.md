@@ -31,7 +31,7 @@
 | Pure Dynamite! | 45.00% | ~261 |
 | Tanos' Crusade Against Thalya | 44.00% | ~255 |
 | Mana Cannon | 41.00% | ~237 |
-| All’s Well That Ends Evil | 38.00% | ~220 |
+| All’s Well That Ends Evil | 39.00% | ~226 |
 | Unstoppable Horde | 34.00% | ~197 |
 | Master of the Undead | 34.00% | ~197 |
 | The Duel | 34.00% | ~197 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 9.00% | ~52 |
 | I Don't Need Any Help | 8.00% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 579 (Ranked 315)  
+Progressed: 579 (Ranked 316)  
 Completed: 17 (2.94%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |

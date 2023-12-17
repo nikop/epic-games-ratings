@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -643,9 +643,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4038,
+  "EOS_Progressed": 4039,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8708,6 +8708,11 @@
       "Time": "2023-12-17T08:09:00.409886+00:00",
       "NumProgressed": 4038,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-17T09:09:48.8654131+00:00",
+      "NumProgressed": 4039,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8719,7 +8724,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -8775,7 +8780,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -8903,7 +8908,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -8927,7 +8932,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -8943,7 +8948,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8951,7 +8956,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -9111,7 +9116,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -9207,7 +9212,7 @@
       "Name": "Last Resort",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -9215,7 +9220,7 @@
       "Name": "Siegebreaker",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -9223,7 +9228,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -9286,13 +9291,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3989,
+      "Progressed": 3990,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4038,
+      "Progressed": 4039,
       "Completed": 11
     }
   ],
@@ -9300,8 +9305,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:09:00.4098854+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:09:48.8654128+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:53.9169066+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:57:34.83654+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:09:00.4099809+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:58:03.0207666+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:09:48.8655365+00:00"
 }

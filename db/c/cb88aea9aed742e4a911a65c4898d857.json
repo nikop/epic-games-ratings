@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4630,
+  "EOS_Progressed": 4643,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3262,
+  "EOS_NewPlayers": 3255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1255,6 +1255,11 @@
       "Time": "2023-12-17T08:09:34.388976+00:00",
       "NumProgressed": 4630,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T09:10:23.6239346+00:00",
+      "NumProgressed": 4643,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1267,7 +1272,7 @@
       "Name": "Conspiracy",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 604
     },
     {
       "ID": "03_TheStolenStar",
@@ -1291,15 +1296,15 @@
       "Name": "Commorragh Survivors",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "06_TheExpanseCalamity",
       "SetID": "37a94m8",
       "Name": "Expanse Calamity",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "07_TheGrandFinale",
@@ -1385,9 +1390,9 @@
       "ID": "17_TheExemplar",
       "SetID": "37a94m8",
       "Name": "Exemplar",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 37
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -1427,7 +1432,7 @@
       "Name": "Perfect Timing",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "23_DynastyRestored",
@@ -1483,7 +1488,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "30_The GreatestExploration",
@@ -1513,9 +1518,9 @@
       "ID": "33_TzeentchCleaning",
       "SetID": "37a94m8",
       "Name": "Cleening Out the Tzeentch",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 232
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -1619,7 +1624,7 @@
       "Name": "A Spark",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "47_AFlame",
@@ -1786,7 +1791,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 4630,
+      "Progressed": 4643,
       "Completed": 0
     }
   ],
@@ -1794,8 +1799,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-16T18:59:01.4154357+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:09:34.3889755+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:10:23.6239343+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:59:19.9995572+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:09:34.3890213+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:59:46.3775023+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:10:23.6239959+00:00"
 }

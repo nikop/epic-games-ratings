@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 7.00% | ~196 |
-| This guy... again? | 4.00% | ~112 |
-| Lost and Found | 4.00% | ~112 |
+| Malpractice Assurance | 7.00% | ~197 |
+| This guy... again? | 4.00% | ~113 |
+| Lost and Found | 4.00% | ~113 |
 | This Belongs in a Museum | 3.00% | ~3,838 |
 | Autodidact | 3.00% | ~3,838 |
 | Bloody Graduation | 3.00% | ~84 |
@@ -27,6 +27,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ploughshares to Swords | 2.00% | ~56 |
 | Friends 'Til the End | 2.00% | ~56 |
 | Unleash Hell | 1.00% | ~1,279 |
+| Long Live the King | 1.00% | ~1,279 |
 | Unfulfilled Desires | 1.00% | ~1,279 |
 | Dissector | 1.00% | ~1,279 |
 | Banishment | 1.00% | ~1,279 |
@@ -43,23 +44,22 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 1.00% | ~1,279 |
 | Unshackled | 1.00% | ~1,279 |
 | Road Trip | 1.00% | ~1,279 |
-| Resurrection | 0.90% | ~1,151 |
-| Funny Guy | 0.90% | ~1,151 |
-| Long Live the King | 0.90% | ~1,151 |
-| Wyrdly Reconstructed | 0.90% | ~1,151 |
-| Boxcar Kid | 0.90% | ~1,151 |
-| Predator | 0.90% | ~1,151 |
-| Reverse Banditry | 0.90% | ~1,151 |
-| A Clear Conscience | 0.90% | ~1,151 |
-| When You Want Something Done Right | 0.90% | ~1,151 |
-| Utopia | 0.90% | ~1,151 |
+| Resurrection | 0.90% | ~1,152 |
+| Funny Guy | 0.90% | ~1,152 |
+| Wyrdly Reconstructed | 0.90% | ~1,152 |
+| Boxcar Kid | 0.90% | ~1,152 |
+| Predator | 0.90% | ~1,152 |
+| Reverse Banditry | 0.90% | ~1,152 |
+| A Clear Conscience | 0.90% | ~1,152 |
+| When You Want Something Done Right | 0.90% | ~1,152 |
+| Utopia | 0.90% | ~1,152 |
 | Hope Rekindled | 0.70% | ~896 |
 | Ichthyophobic | 0.70% | ~896 |
 | No More Mouths to Feed | 0.70% | ~896 |
+| Slap on the Wrist | 0.70% | ~20 |
 | This Looks Familiar | 0.60% | ~768 |
 | Hot Air | 0.60% | ~768 |
 | Eyes Up | 0.60% | ~768 |
-| Slap on the Wrist | 0.60% | ~17 |
 | Et Tu, Riposte? | 0.50% | ~14 |
 | For Old Time' Sake | 0.50% | ~14 |
 | Shrine of Reflection | 0.40% | ~512 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 | On This Long Road, We Found Redemption | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,934 (Ranked 85)  
+Progressed: 127,946 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,10 +317,10 @@ Completed: 3 (0.00%) (Ranked 379)
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
-| 2023-12-17 | 127,934 | 3 |
+| 2023-12-17 | 127,946 | 3 |
 ## Awards
 Max (Character Customization): 7,744  (Ranked 51)  
-Sum: 20,608 (Ranked 58)  
+Sum: 20,623 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -331,7 +331,7 @@ Diff (max vs sum): -7
 | This game has Amazing Characters | 1,461 |
 | This game is Extremely Fun | 1,457 |
 | This game has Amazing Storytelling | 1,384 |
-| This game has Unique Visuals | 1,359 |
+| This game has Unique Visuals | 1,374 |
 | This game has Quickly Understood Controls | 1,350 |
 | This game has a Creative Community | 1,018 |
 | This game has Obsessive Gameplay | 585 |
@@ -662,4 +662,4 @@ Diff (max vs sum): -7
 | 2023-12-14 | 4.68 | - | 7,689 | 20,427 |
 | 2023-12-15 | 4.68 | - | 7,718 | 20,517 |
 | 2023-12-16 | 4.68 | - | 7,744 | 20,595 |
-| 2023-12-17 | 4.68 | - | 7,744 | 20,608 |
+| 2023-12-17 | 4.68 | - | 7,744 | 20,623 |

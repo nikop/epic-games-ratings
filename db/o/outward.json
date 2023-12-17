@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3954,
+  "EOS_Progressed": 3955,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6266,6 +6266,11 @@
       "Time": "2023-12-17T08:03:54.6043088+00:00",
       "NumProgressed": 3954,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-17T09:04:44.0312223+00:00",
+      "NumProgressed": 3955,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6317,7 +6322,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "CrowdPleaser",
@@ -6341,7 +6346,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -6477,7 +6482,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -6485,7 +6490,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -6493,7 +6498,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "Tapped_22",
@@ -6533,7 +6538,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -6549,7 +6554,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "TheStuffOfLegends",
@@ -6612,15 +6617,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3954,
+      "Progressed": 3955,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:03:54.6043085+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:04:44.031222+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:02:50.1145367+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:03:54.6043524+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:03:36.2173963+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:04:44.031336+00:00"
 }

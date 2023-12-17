@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 356,
+  "EOS_Progressed": 357,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -405,6 +405,11 @@
       "Time": "2023-12-17T08:10:03.7527309+00:00",
       "NumProgressed": 356,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T09:10:52.4545959+00:00",
+      "NumProgressed": 357,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -488,7 +493,7 @@
       "Name": "SCHMETTERLING",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach-campaign-allEndings",
@@ -512,7 +517,7 @@
       "Name": "Traveller",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -528,7 +533,7 @@
       "Name": "Adventurer",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach-campaign-noDeath",
@@ -552,7 +557,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ach-campaign-story2",
@@ -560,15 +565,15 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ach-campaign-story3",
       "SetID": "17ih7ma",
       "Name": "O Captain My Captain",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 111
     },
     {
       "ID": "ach-cartography-complete",
@@ -584,7 +589,7 @@
       "Name": "Roll to Save",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ach-discover-locations",
@@ -592,7 +597,7 @@
       "Name": "Cartographer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ach-discover-locations-high",
@@ -616,7 +621,7 @@
       "Name": "Fire and Flood",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ach-find-treasure",
@@ -640,7 +645,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ach-hardExpeditions",
@@ -688,7 +693,7 @@
       "Name": "No Laughing Matter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach-kill-sandworm",
@@ -728,7 +733,7 @@
       "Name": "The Great Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach-maxLevelCharacter",
@@ -744,7 +749,7 @@
       "Name": "Spooky!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ach-noEquipment",
@@ -768,7 +773,7 @@
       "Name": "Nahua Seeker",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach-paleMask-cure",
@@ -800,7 +805,7 @@
       "Name": "Level Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach-raiseDino",
@@ -888,14 +893,14 @@
       "Name": "Dapper",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     }
   ],
   "AchievementSets": [
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 356,
+      "Progressed": 357,
       "Completed": 1
     }
   ],
@@ -903,8 +908,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:10:03.7527305+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:10:52.4545956+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:58:06.1960589+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:10:03.7527759+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:58:33.6738408+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:10:52.4546389+00:00"
 }

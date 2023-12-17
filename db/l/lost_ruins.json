@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 546,
+  "EOS_Progressed": 547,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1274,6 +1274,11 @@
       "Time": "2023-12-17T08:10:00.9417057+00:00",
       "NumProgressed": 546,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T09:10:49.6616543+00:00",
+      "NumProgressed": 547,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1323,9 +1328,9 @@
       "ID": "BugHunter",
       "SetID": "82505mn",
       "Name": "Bug Hunter",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 131
     },
     {
       "ID": "Cryomancer",
@@ -1365,7 +1370,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "Hardboiled",
@@ -1403,9 +1408,9 @@
       "ID": "Inquisitor",
       "SetID": "82505mn",
       "Name": "Inquisitor",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 202
     },
     {
       "ID": "Librarian",
@@ -1443,9 +1448,9 @@
       "ID": "MoneySwag",
       "SetID": "82505mn",
       "Name": "Money Swag",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 38
     },
     {
       "ID": "Necromancer",
@@ -1547,9 +1552,9 @@
       "ID": "TheFallen",
       "SetID": "82505mn",
       "Name": "The Fallen",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 109
     },
     {
       "ID": "TheTrio",
@@ -1563,9 +1568,9 @@
       "ID": "TrapMaster",
       "SetID": "82505mn",
       "Name": "Trap Master",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 104
     },
     {
       "ID": "TreasureHunter",
@@ -1604,7 +1609,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 546,
+      "Progressed": 547,
       "Completed": 1
     }
   ],
@@ -1612,8 +1617,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:10:00.9417052+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:10:49.6616538+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:58:24.9198161+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:10:00.9417658+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:58:52.1583677+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:10:49.6616994+00:00"
 }

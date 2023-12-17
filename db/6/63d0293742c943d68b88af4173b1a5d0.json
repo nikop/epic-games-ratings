@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -1428,9 +1428,9 @@
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 322
     },
     {
       "ID": "REMAKE_004",
@@ -1595,8 +1595,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:04:38.6783934+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:05:28.4066286+00:00",
   "LastUpdate_AppInfo": "2023-12-11T23:56:59.5421023+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:00:29.4824341+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:04:38.6784153+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:00:57.5525553+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:05:28.4066541+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "95f3bd44c8394061aca3eb1ce4b1f0fb",
   "Name": "Tabletop Playground",
   "ProductSlug": "tabletop-playground-9623f1",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-06-15T19:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 132,
+  "EOS_Progressed": 133,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -614,6 +614,11 @@
       "Time": "2023-12-17T00:09:29.7332683+00:00",
       "NumProgressed": 132,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T09:09:52.9928181+00:00",
+      "NumProgressed": 133,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 5,
@@ -633,7 +638,7 @@
       "Name": "Creator",
       "Percentage": 14,
       "XP": 200,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "FourPlayers",
@@ -657,21 +662,21 @@
       "Name": "Friendship",
       "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ajogia",
       "IsBase": true,
-      "Progressed": 132,
+      "Progressed": 133,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T04:57:23.9027898+00:00",
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:09:04.5997987+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:09:52.9928178+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:07.5202705+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:02:55.0578275+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:09:04.5998094+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:03:41.686091+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:09:52.9928251+00:00"
 }

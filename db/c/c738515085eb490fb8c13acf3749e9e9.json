@@ -2,9 +2,9 @@
   "ID": "c738515085eb490fb8c13acf3749e9e9",
   "Name": "Almost Formula",
   "ProductSlug": "almost-formula-e9a738",
-  "Ranking_EOS_Progress": 800,
+  "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-16T13:57:06.9981955+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:58:06.3233122+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:04:17.4695912+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:58:33.7923626+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:05:07.0689297+00:00"
 }

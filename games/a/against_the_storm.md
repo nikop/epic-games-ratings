@@ -8,8 +8,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 5.00% | ~922 |
 | Overgrown Library | 5.00% | ~922 |
-| Petrified Necropolis | 4.00% | ~737 |
+| Petrified Necropolis | 4.00% | ~738 |
 | Taking Action | 3.00% | ~553 |
+| No Deaths | 3.00% | ~553 |
 | Frosts | 3.00% | ~553 |
 | Land of Greed | 3.00% | ~553 |
 | Ominous Presence | 3.00% | ~553 |
@@ -20,7 +21,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Coral Forest | 2.00% | ~369 |
 | The Marshlands | 2.00% | ~369 |
 | The Scarlet Orchard | 2.00% | ~369 |
-| No Deaths | 2.00% | ~369 |
 | Untamed Wilds | 2.00% | ~369 |
 | Homesick | 1.00% | ~184 |
 | Ruined Armory | 1.00% | ~184 |
@@ -34,9 +34,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 0.90% | ~166 |
 | Cursed Lands | 0.90% | ~166 |
 | Trade Baron | 0.90% | ~166 |
-| Barren Lands | 0.80% | ~147 |
-| Statue of the Forefathers | 0.80% | ~147 |
-| Ancient Battleground | 0.70% | ~129 |
+| Barren Lands | 0.80% | ~148 |
+| Ancient Battleground | 0.80% | ~148 |
+| Statue of the Forefathers | 0.80% | ~148 |
 | Sparkdew Crystals | 0.70% | ~129 |
 | Haunted Forest | 0.70% | ~129 |
 | Flooded Mines | 0.70% | ~129 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,436 (Ranked 147)  
+Progressed: 18,445 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 39 (0.21%) (Ranked 262)
 | 2023-12-14 | 18,153 | 40 |
 | 2023-12-15 | 18,272 | 39 |
 | 2023-12-16 | 18,388 | 39 |
-| 2023-12-17 | 18,436 | 40 |
+| 2023-12-17 | 18,445 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 227)  
 Sum: 3,264 (Ranked 174)  

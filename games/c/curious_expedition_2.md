@@ -6,24 +6,24 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 63.00% | ~224 |
-| Cartographer | 56.00% | ~199 |
-| A Strange Artefact | 52.00% | ~185 |
+| The Adventure Begins | 63.00% | ~225 |
+| Cartographer | 56.00% | ~200 |
+| A Strange Artefact | 52.00% | ~186 |
 | Insomnia | 48.00% | ~171 |
-| Lost & Found & Lost Again | 43.00% | ~153 |
+| Lost & Found & Lost Again | 43.00% | ~154 |
 | From Whence we Came | 42.00% | ~150 |
-| Fire and Flood | 40.00% | ~142 |
-| Spooky! | 36.00% | ~128 |
+| Fire and Flood | 40.00% | ~143 |
+| Spooky! | 36.00% | ~129 |
 | Shennong Herbalist | 34.00% | ~121 |
 | Treasure Hunt | 34.00% | ~121 |
 | Good Mama | 32.00% | ~114 |
-| O Captain My Captain | 30.00% | ~107 |
+| O Captain My Captain | 31.00% | ~111 |
 | Plunderer | 28.00% | ~100 |
 | Taxonomist | 27.00% | ~96 |
 | Uncertain Loyalties | 25.00% | ~89 |
-| Traveller | 24.00% | ~85 |
-| Nahua Seeker | 24.00% | ~85 |
-| Roll to Save | 22.00% | ~78 |
+| Traveller | 24.00% | ~86 |
+| Nahua Seeker | 24.00% | ~86 |
+| Roll to Save | 22.00% | ~79 |
 | Veteran Explorer | 21.00% | ~75 |
 | Red Flag Pirate | 19.00% | ~68 |
 | Iron Man | 17.00% | ~61 |
@@ -31,8 +31,8 @@ Number of Ratings: 20  (23.09.2022)
 | Shortening of the Way | 16.00% | ~57 |
 | A Gentle Beast | 16.00% | ~57 |
 | Practical Palaeontology | 16.00% | ~57 |
-| Adventurer | 15.00% | ~53 |
-| Dapper | 15.00% | ~53 |
+| Adventurer | 15.00% | ~54 |
+| Dapper | 15.00% | ~54 |
 | The New Director | 13.00% | ~46 |
 | The Director is Dead | 13.00% | ~46 |
 | And Here Is Your Statue | 13.00% | ~46 |
@@ -43,10 +43,10 @@ Number of Ratings: 20  (23.09.2022)
 | It's Complicated | 10.00% | ~36 |
 | Cold Blood, Warm Heart | 9.00% | ~32 |
 | Errand Runner | 9.00% | ~32 |
-| SCHMETTERLING | 8.00% | ~28 |
-| No Laughing Matter | 8.00% | ~28 |
-| The Great Library | 8.00% | ~28 |
-| Level Up | 8.00% | ~28 |
+| SCHMETTERLING | 8.00% | ~29 |
+| No Laughing Matter | 8.00% | ~29 |
+| The Great Library | 8.00% | ~29 |
+| Level Up | 8.00% | ~29 |
 | The Workshop | 7.00% | ~25 |
 | Zookeeper | 6.00% | ~21 |
 | Islander Understanding | 6.00% | ~21 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 356 (Ranked 348)  
+Progressed: 357 (Ranked 348)  
 Completed: 1 (0.28%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 1 (0.28%) (Ranked 247)
 | 2023-12-14 | 345 | 1 |
 | 2023-12-15 | 350 | 1 |
 | 2023-12-16 | 354 | 1 |
-| 2023-12-17 | 356 | 1 |
+| 2023-12-17 | 357 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

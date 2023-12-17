@@ -2,9 +2,9 @@
   "ID": "6c09dd49cbb348d5ae4d4c9c308890b8",
   "Name": "LakeSide",
   "ProductSlug": "lakeside-d653d3",
-  "Ranking_EOS_Progress": 800,
+  "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2024-02-29T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-14T10:57:19.7736079+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:58:58.2712274+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:03:52.7613895+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:59:25.6917076+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:04:42.2117601+00:00"
 }

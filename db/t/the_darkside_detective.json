@@ -2,9 +2,9 @@
   "ID": "29857990e5434b7db5dd026ef18dbc96",
   "Name": "The Darkside Detective",
   "ProductSlug": "the-darkside-detective-02fd5a",
-  "Ranking_EOS_Progress": 800,
+  "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-12-07T08:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:54.2770325+00:00",
   "LastChanged": "2023-03-31T05:57:54.2770326+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:28.8674481+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:00:21.3231783+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:09:16.9291154+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:00:49.4234919+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:10:05.3805341+00:00"
 }

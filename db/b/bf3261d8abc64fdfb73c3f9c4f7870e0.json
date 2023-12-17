@@ -4,7 +4,7 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
@@ -367,9 +367,9 @@
       "ID": "achievement_last_word",
       "SetID": "bngbnfb",
       "Name": "The last word",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_madman",
@@ -423,17 +423,17 @@
       "ID": "achievement_not_energetic",
       "SetID": "bngbnfb",
       "Name": "Not energetic",
-      "Percentage": 43,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_not_risky",
       "SetID": "bngbnfb",
       "Name": "Not a daredevil",
-      "Percentage": 43,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_rush",
@@ -566,8 +566,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:09:01.5219765+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:09:49.8948999+00:00",
   "LastUpdate_AppInfo": "2023-12-13T14:57:06.6138532+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:59:55.2930484+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:09:01.5220048+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:00:24.0453635+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:09:49.8949266+00:00"
 }

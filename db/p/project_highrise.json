@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 388,
+  "EOS_Progressed": 389,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1120,6 +1120,11 @@
       "Time": "2023-12-17T05:06:18.2357464+00:00",
       "NumProgressed": 388,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T09:06:11.7647096+00:00",
+      "NumProgressed": 389,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1219,7 +1224,7 @@
       "Name": "Campaign Launch",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ach_campaigns_1",
@@ -1273,9 +1278,9 @@
       "ID": "ach_consultant_1",
       "SetID": "b8gh1fi",
       "Name": "Upgrade Unlock",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 136
     },
     {
       "ID": "ach_consultants_a",
@@ -1299,7 +1304,7 @@
       "Name": "Smooth Operator",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_contracts_1",
@@ -1339,7 +1344,7 @@
       "Name": "Proper Walls",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ach_drones",
@@ -1467,15 +1472,15 @@
       "Name": "Grime is Not Good",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ach_grime_1",
       "SetID": "b8gh1fi",
       "Name": "Delegate Maintenance",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 128
     },
     {
       "ID": "ach_grime_2",
@@ -1489,9 +1494,9 @@
       "ID": "ach_happy",
       "SetID": "b8gh1fi",
       "Name": "Happy Tenants",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 97
     },
     {
       "ID": "ach_loan",
@@ -1499,7 +1504,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_mod_1",
@@ -1555,7 +1560,7 @@
       "Name": "People Mover",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ach_pop_2",
@@ -1593,9 +1598,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 226
     },
     {
       "ID": "ach_profit_1",
@@ -1699,7 +1704,7 @@
       "Name": "Boutique Benefits",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_revs_1",
@@ -1763,7 +1768,7 @@
       "Name": "Terrifically Trashed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_tutorial",
@@ -1819,7 +1824,7 @@
       "Name": "Thrilled Tenants",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_visitors_1",
@@ -1827,14 +1832,14 @@
       "Name": "Destination Destiny",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 388,
+      "Progressed": 389,
       "Completed": 0
     }
   ],
@@ -1842,8 +1847,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:05:21.7063415+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:06:11.7647094+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.491222+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:57:33.011859+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:05:21.7064298+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:58:01.3138846+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:06:11.7647799+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -129,7 +129,7 @@
   "Tags": [],
   "EOS_Progressed": 1217,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.55,
   "EosHistory": [
@@ -4196,9 +4196,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 755
+      "UsersEstimate": 767
     },
     {
       "ID": "MQ01_2",
@@ -4308,9 +4308,9 @@
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 511
+      "UsersEstimate": 523
     },
     {
       "ID": "MQ05_2",
@@ -4429,8 +4429,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-14T11:03:29.6730885+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:04:47.9081797+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:05:37.5316325+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:03:04.6385917+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:04:47.9082451+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:03:51.3022577+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:05:37.5316722+00:00"
 }

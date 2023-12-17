@@ -2,9 +2,9 @@
   "ID": "46f62203901b4742bf782ac8c4fe9356",
   "Name": "NEVERMORE",
   "ProductSlug": "nevermore-294488",
-  "Ranking_EOS_Progress": 800,
+  "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-12-24T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-10T09:56:50.4893815+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:59:10.9447291+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:05:31.4997596+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:59:38.947493+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:06:21.4854703+00:00"
 }

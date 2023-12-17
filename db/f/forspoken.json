@@ -5,7 +5,7 @@
   "Ranking_Rating": 963,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
-  "Ranking_EOS_Progress": 119,
+  "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 355,
   "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 144,
@@ -486,9 +486,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 44162,
+  "EOS_Progressed": 44168,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 663,
+  "EOS_NewPlayers": 667,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15396,6 +15396,11 @@
       "Time": "2023-12-17T08:08:48.0617076+00:00",
       "NumProgressed": 44162,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T09:09:36.4734677+00:00",
+      "NumProgressed": 44168,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15415,7 +15420,7 @@
       "Name": "Archivist",
       "Percentage": 0.3,
       "XP": 105,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "CAMP",
@@ -15439,7 +15444,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1767
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -15455,7 +15460,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4416
+      "UsersEstimate": 4417
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -15463,7 +15468,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1767
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -15551,7 +15556,7 @@
       "Name": "Craftsperson",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "CRAFT_FIRST",
@@ -15559,7 +15564,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3091
+      "UsersEstimate": 3092
     },
     {
       "ID": "CUFF_ATTACK",
@@ -15591,7 +15596,7 @@
       "Name": "Tit for Tat",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "LEAPFROG",
@@ -15647,7 +15652,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3091
+      "UsersEstimate": 3092
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -15807,7 +15812,7 @@
       "Name": "Promises",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "SUBQUEST_CIPAL",
@@ -15830,22 +15835,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44162,
+      "Progressed": 44168,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8999,
-      "Completed": 8999
+      "Progressed": 9005,
+      "Completed": 9005
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-16T02:18:37.9301013+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:08:48.0617071+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:09:36.4734676+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:58:41.0689085+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:08:48.0617949+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:59:09.0555972+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:09:36.4735704+00:00"
 }

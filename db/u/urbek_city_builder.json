@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -1863,9 +1863,9 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -2120,8 +2120,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:10:03.3564031+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:10:51.9992201+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.321847+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:58:35.7043626+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:10:03.3564798+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:59:03.5478627+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:10:51.9993303+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "fee7e9420cd849c3a8e7d09b2622f9b3",
   "Name": "Risen",
   "ProductSlug": "risen-e8e55e",
-  "Ranking_Rating": 424,
+  "Ranking_Rating": 423,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 470,
@@ -501,9 +501,9 @@
       "ID": "id_10",
       "SetID": "bk9jib6",
       "Name": "The merciful one",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "id_11",
@@ -910,8 +910,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-15T05:01:07.5728894+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:09:51.0244553+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:10:39.5895496+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:12.9761539+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:57:21.4481759+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:09:51.0245209+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:57:49.5377097+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:10:39.5895886+00:00"
 }

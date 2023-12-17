@@ -2,9 +2,9 @@
   "ID": "49cd2d3bc2fb416984bee5533ceb5d88",
   "Name": "Tales of Kenzera\u2122: ZAU Standard Edition",
   "ProductSlug": "tales-of-kenzera",
-  "Ranking_EOS_Progress": 800,
+  "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2024-04-23T16:00:00+00:00",
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-15T05:57:05.552796+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:02:47.3974148+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:03:33.1271218+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:03:33.8796047+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:04:22.3844196+00:00"
 }

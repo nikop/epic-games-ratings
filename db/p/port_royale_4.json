@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1090,
+  "EOS_Progressed": 1091,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2976,6 +2976,11 @@
       "Time": "2023-12-17T02:01:19.4374778+00:00",
       "NumProgressed": 1090,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T09:09:19.5677714+00:00",
+      "NumProgressed": 1091,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2987,7 +2992,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "ACH001",
@@ -3011,7 +3016,7 @@
       "Name": "Buccaneer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH004",
@@ -3019,7 +3024,7 @@
       "Name": "Flying Dutchman",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH005",
@@ -3091,7 +3096,7 @@
       "Name": "In a mint condition",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ACH014",
@@ -3107,7 +3112,7 @@
       "Name": "Groundskeeper",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACH016",
@@ -3171,7 +3176,7 @@
       "Name": "Gofer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH024",
@@ -3219,7 +3224,7 @@
       "Name": "Licence to Kill",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACH030",
@@ -3386,15 +3391,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1090,
+      "Progressed": 1091,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:08:30.7677012+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:09:19.567771+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:34.3980229+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:00:20.2870165+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:08:30.7677496+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:57:37.8326078+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:09:19.5678269+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -1251,9 +1251,9 @@
       "ID": "Poklop",
       "SetID": "823jm6g",
       "Name": "Hatch",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 75,
-      "UsersEstimate": 144
+      "UsersEstimate": 146
     },
     {
       "ID": "Snekoun",
@@ -1290,8 +1290,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:08:53.0994082+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:09:41.5581713+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9761332+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:57:40.0929598+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:08:53.0994247+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:58:08.4268357+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:09:41.558186+00:00"
 }

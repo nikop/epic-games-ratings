@@ -6,7 +6,7 @@
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 319,
-  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
@@ -1465,9 +1465,9 @@
       "ID": "02_collector",
       "SetID": "chb1m60",
       "Name": "Collector",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 243
     },
     {
       "ID": "03_philatelist",
@@ -1777,8 +1777,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-03T05:59:23.5685326+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:04:14.115843+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:05:03.789476+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2539038+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:00:08.888719+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:04:14.1159004+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:00:37.531832+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:05:03.7895097+00:00"
 }

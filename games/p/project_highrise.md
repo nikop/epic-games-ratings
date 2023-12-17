@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~229 |
+| In the Black | 58.00% | ~226 |
 | Starting Skyward | 52.00% | ~202 |
-| Grime is Not Good | 46.00% | ~178 |
+| Grime is Not Good | 46.00% | ~179 |
 | Floor Galore | 41.00% | ~159 |
 | Dinner Dash | 41.00% | ~159 |
-| Campaign Launch | 40.00% | ~155 |
+| Campaign Launch | 40.00% | ~156 |
 | Need a Consult | 37.00% | ~144 |
-| Upgrade Unlock | 36.00% | ~140 |
 | It's Technical | 36.00% | ~140 |
-| Delegate Maintenance | 34.00% | ~132 |
-| Proper Walls | 31.00% | ~120 |
-| Destination Destiny | 31.00% | ~120 |
-| Happy Tenants | 26.00% | ~101 |
+| Upgrade Unlock | 35.00% | ~136 |
+| Delegate Maintenance | 33.00% | ~128 |
+| Proper Walls | 31.00% | ~121 |
+| Destination Destiny | 31.00% | ~121 |
+| Happy Tenants | 25.00% | ~97 |
 | Potent Potables | 25.00% | ~97 |
 | Smooth Service | 25.00% | ~97 |
 | Your Prestige is Rising | 24.00% | ~93 |
 | Retail Revenue | 23.00% | ~89 |
-| Don't Feel a Loan | 22.00% | ~85 |
-| People Mover | 21.00% | ~81 |
+| Don't Feel a Loan | 22.00% | ~86 |
+| People Mover | 21.00% | ~82 |
 | Lux Living | 20.00% | ~78 |
 | Artfully Done | 20.00% | ~78 |
 | Emporium Empire | 20.00% | ~78 |
@@ -35,10 +35,10 @@
 | Under One Roof | 16.00% | ~62 |
 | Cashflow Chief | 16.00% | ~62 |
 | Starred Dining | 15.00% | ~58 |
-| Smooth Operator | 13.00% | ~50 |
-| Boutique Benefits | 13.00% | ~50 |
-| Terrifically Trashed | 13.00% | ~50 |
-| Thrilled Tenants | 13.00% | ~50 |
+| Smooth Operator | 13.00% | ~51 |
+| Boutique Benefits | 13.00% | ~51 |
+| Terrifically Trashed | 13.00% | ~51 |
+| Thrilled Tenants | 13.00% | ~51 |
 | 28 Days Later | 11.00% | ~43 |
 | Swimming in Surplus | 11.00% | ~43 |
 | Aestheticly Pleased | 10.00% | ~39 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388 (Ranked 342)  
+Progressed: 389 (Ranked 342)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-14 | 367 | 0 |
 | 2023-12-15 | 372 | 0 |
 | 2023-12-16 | 385 | 0 |
-| 2023-12-17 | 388 | 0 |
+| 2023-12-17 | 389 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

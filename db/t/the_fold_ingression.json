@@ -2,9 +2,9 @@
   "ID": "c4c8b38cb92a4da6b72e4cfb295fa596",
   "Name": "The Fold Ingression",
   "ProductSlug": "the-fold-ingression-05a854",
-  "Ranking_EOS_Progress": 800,
+  "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.0604103+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:58:25.8875686+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:09:45.1401219+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:58:53.137277+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:10:34.1461299+00:00"
 }

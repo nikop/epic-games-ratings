@@ -2,12 +2,12 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 371,
+  "Ranking_Rating": 370,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -3144,9 +3144,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 242
     },
     {
       "ID": "WarwickDefeated",
@@ -3201,8 +3201,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:09:47.3614968+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:10:36.023372+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:57:36.3109882+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:09:47.3615515+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:58:04.6141599+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:10:36.0234564+00:00"
 }

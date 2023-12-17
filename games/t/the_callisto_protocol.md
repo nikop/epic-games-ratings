@@ -5,32 +5,32 @@ Rating: 4.20 (Ranked 930)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 12.00% | ~2,105 |
-| Get a Grip | 12.00% | ~2,105 |
-| Paper Jams | 11.00% | ~1,929 |
-| The Outer Way | 11.00% | ~1,929 |
-| Desperate Times | 10.00% | ~1,754 |
-| Chew 'Em Up | 9.00% | ~1,578 |
-| Float Like A Butterfly | 9.00% | ~1,578 |
-| Reforged | 8.00% | ~1,403 |
-| Workplace Hazard | 7.00% | ~1,228 |
-| If the SHU Fits... | 7.00% | ~1,228 |
-| Two Heads Are Better Than One | 6.00% | ~1,052 |
-| Without A Paddle | 6.00% | ~1,052 |
-| In the Pipe, Five by Five | 6.00% | ~1,052 |
-| Crash Site | 6.00% | ~1,052 |
-| Full Circle | 6.00% | ~1,052 |
-| Power Up | 6.00% | ~1,052 |
-| Keep Fighting | 6.00% | ~328 |
-| You Need a Gun | 5.00% | ~877 |
-| I Do Belong Here | 5.00% | ~877 |
-| Terminated | 5.00% | ~877 |
-| What Lies Beneath | 5.00% | ~877 |
+| Flesh Wound | 12.00% | ~2,107 |
+| Get a Grip | 12.00% | ~2,107 |
+| Paper Jams | 11.00% | ~1,931 |
+| The Outer Way | 11.00% | ~1,931 |
+| Desperate Times | 10.00% | ~1,756 |
+| Chew 'Em Up | 9.00% | ~1,580 |
+| Float Like A Butterfly | 9.00% | ~1,580 |
+| Reforged | 8.00% | ~1,405 |
+| Workplace Hazard | 7.00% | ~1,229 |
+| If the SHU Fits... | 7.00% | ~1,229 |
+| Two Heads Are Better Than One | 6.00% | ~1,053 |
+| Without A Paddle | 6.00% | ~1,053 |
+| In the Pipe, Five by Five | 6.00% | ~1,053 |
+| Crash Site | 6.00% | ~1,053 |
+| Full Circle | 6.00% | ~1,053 |
+| Power Up | 6.00% | ~1,053 |
+| Keep Fighting | 6.00% | ~329 |
+| You Need a Gun | 5.00% | ~878 |
+| I Do Belong Here | 5.00% | ~878 |
+| Terminated | 5.00% | ~878 |
+| What Lies Beneath | 5.00% | ~878 |
 | Giving Back | 4.00% | ~702 |
 | It's Time | 4.00% | ~219 |
-| In Striking Distance | 3.00% | ~526 |
-| The Commonality | 3.00% | ~526 |
-| One Last Job | 2.00% | ~109 |
+| In Striking Distance | 3.00% | ~527 |
+| The Commonality | 3.00% | ~527 |
+| One Last Job | 2.00% | ~110 |
 | Big Spender | 1.00% | ~55 |
 | This Isn't About Escape | 1.00% | ~55 |
 | Armed to the Teeth | 0.90% | ~49 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 930)
 | Bear Trap | 0.10% | ~5 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,538 (Ranked 149)  
+Progressed: 17,557 (Ranked 149)  
 Completed: 82 (0.47%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 82 (0.47%) (Ranked 215)
 | 2023-12-14 | 16,823 | 81 |
 | 2023-12-15 | 17,123 | 82 |
 | 2023-12-16 | 17,442 | 82 |
-| 2023-12-17 | 17,538 | 82 |
+| 2023-12-17 | 17,557 | 82 |
 ## Awards
 Max (Amazing Storytelling): 87  (Ranked 387)  
 Sum: 515 (Ranked 328)  

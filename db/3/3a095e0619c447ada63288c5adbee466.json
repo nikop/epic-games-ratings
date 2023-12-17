@@ -2,9 +2,9 @@
   "ID": "3a095e0619c447ada63288c5adbee466",
   "Name": "Cooking Trip Collectors Edition",
   "ProductSlug": "cooking-trip-d45abd",
-  "Ranking_EOS_Progress": 800,
+  "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-10-22T09:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-22T19:57:59.7107426+00:00",
   "LastUpdate_AppInfo": "2023-12-15T09:57:06.8429043+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:58:46.9050486+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:08:36.1157988+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:59:15.2870088+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:09:24.6338413+00:00"
 }

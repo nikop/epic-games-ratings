@@ -2,13 +2,13 @@
   "ID": "277e364d24ec43069f4ee3c4414d5096",
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
-  "Ranking_Rating": 424,
+  "Ranking_Rating": 423,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116924,
+  "EOS_Progressed": 116927,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 618,
+  "EOS_NewPlayers": 619,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21564,6 +21564,11 @@
       "Time": "2023-12-17T08:09:50.885338+00:00",
       "NumProgressed": 116924,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-17T09:10:39.5320746+00:00",
+      "NumProgressed": 116927,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 49,
@@ -21583,7 +21588,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 90031
+      "UsersEstimate": 90034
     },
     {
       "ID": "EAwards_10",
@@ -21599,7 +21604,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 30400
+      "UsersEstimate": 30401
     },
     {
       "ID": "EAwards_12",
@@ -21631,7 +21636,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11692
+      "UsersEstimate": 11693
     },
     {
       "ID": "EAwards_16",
@@ -21647,7 +21652,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43262
+      "UsersEstimate": 43263
     },
     {
       "ID": "EAwards_18",
@@ -21663,7 +21668,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7015
+      "UsersEstimate": 7016
     },
     {
       "ID": "EAwards_2",
@@ -21671,7 +21676,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 57293
+      "UsersEstimate": 57294
     },
     {
       "ID": "EAwards_20",
@@ -21695,7 +21700,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7015
+      "UsersEstimate": 7016
     },
     {
       "ID": "EAwards_23",
@@ -21735,7 +21740,7 @@
       "Name": "One down...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11692
+      "UsersEstimate": 11693
     },
     {
       "ID": "EAwards_28",
@@ -21791,7 +21796,7 @@
       "Name": "Mr. Worldwide",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2338
+      "UsersEstimate": 2339
     },
     {
       "ID": "EAwards_34",
@@ -21815,7 +21820,7 @@
       "Name": "Legend of the Timelines",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2338
+      "UsersEstimate": 2339
     },
     {
       "ID": "EAwards_37",
@@ -21847,7 +21852,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15200
+      "UsersEstimate": 15201
     },
     {
       "ID": "EAwards_40",
@@ -21927,7 +21932,7 @@
       "Name": "Prickly Pair",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11692
+      "UsersEstimate": 11693
     },
     {
       "ID": "EAwards_6",
@@ -21966,7 +21971,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 116924,
+      "Progressed": 116927,
       "Completed": 53
     }
   ],
@@ -21974,8 +21979,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:09:50.8853374+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:10:39.5320742+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:07.3909986+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:57:40.8241326+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:09:50.8854482+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:58:09.1874951+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:10:39.5322235+00:00"
 }

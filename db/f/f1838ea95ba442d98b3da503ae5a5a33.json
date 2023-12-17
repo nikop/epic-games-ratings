@@ -2,9 +2,9 @@
   "ID": "f1838ea95ba442d98b3da503ae5a5a33",
   "Name": "Under a Rock",
   "ProductSlug": "under-a-rock-3c8f61",
-  "Ranking_EOS_Progress": 800,
+  "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-14T14:57:12.8975575+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:59:39.9848289+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:05:51.9730078+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:00:07.683005+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:06:41.8643182+00:00"
 }

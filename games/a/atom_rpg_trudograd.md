@@ -26,10 +26,10 @@ Rating: 4.55 (Ranked 516)
 | Sixth Sense | 0.70% | ~9 |
 | Baby Eater | 0.60% | ~8 |
 | Admiral | 0.40% | ~5 |
+| Incompetence | 0.40% | ~5 |
 | Bronzovka | 0.30% | ~4 |
 | Commando | 0.30% | ~4 |
 | Holy Mountain | 0.30% | ~4 |
-| Incompetence | 0.30% | ~4 |
 | Goose Sacrifice | 0.30% | ~4 |
 | Second Thought | 0.30% | ~4 |
 | Sick Freak | 0.30% | ~4 |

@@ -9,8 +9,8 @@
 | Amateur Mechanic | 28.00% | ~117 |
 | Pushover | 28.00% | ~117 |
 | A Forest Walk | 28.00% | ~117 |
+| Multiply that! | 26.00% | ~109 |
 | C-C-C-Combo! | 25.00% | ~104 |
-| Multiply that! | 25.00% | ~104 |
 | Fore! | 23.00% | ~96 |
 | The Collector | 23.00% | ~96 |
 | Snow Fun! | 23.00% | ~96 |

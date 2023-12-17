@@ -2,9 +2,9 @@
   "ID": "1b4d97cb697f4ac09ff053738f7716e4",
   "Name": "The Fabled Woods",
   "ProductSlug": "the-fabled-woods",
-  "Ranking_EOS_Progress": 800,
+  "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-03-25T16:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:32.9344091+00:00",
   "LastChanged": "2023-03-31T05:58:32.9344092+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:03.4170794+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:59:30.496948+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:08:39.6457861+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:59:57.2829042+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:09:27.9677505+00:00"
 }

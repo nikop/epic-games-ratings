@@ -9,7 +9,7 @@ Rating: 4.50 (Ranked 600)
 | Rookie No More | 27.00% | ~319 |
 | Enter the Speed Gauntlet | 25.00% | ~296 |
 | I just can't choose | 25.00% | ~296 |
-| A Cheese Grater to the Face | 20.00% | ~236 |
+| A Cheese Grater to the Face | 20.00% | ~237 |
 | Put it on a shelf | 18.00% | ~213 |
 | It's like an haircut | 17.00% | ~201 |
 | Ride in the rising sun | 16.00% | ~189 |
@@ -58,7 +58,7 @@ Rating: 4.50 (Ranked 600)
 | I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,182 (Ranked 264)  
+Progressed: 1,183 (Ranked 264)  
 Completed: 0 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,6 +193,7 @@ Completed: 0 (0.00%) (Ranked 379)
 | 2023-12-11 | 1,179 | 0 |
 | 2023-12-12 | 1,180 | 0 |
 | 2023-12-16 | 1,182 | 0 |
+| 2023-12-17 | 1,183 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

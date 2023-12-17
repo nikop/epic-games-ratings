@@ -5,24 +5,24 @@ Rating: 4.15 (Ranked 963)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 37.00% | ~25,951 |
-| As Far Away As Possible | 18.00% | ~12,625 |
-| A Most Unstable Organism | 13.00% | ~9,118 |
-| No Time to Follow Protocol | 10.00% | ~7,014 |
-| Float Like a Butterfly... | 8.00% | ~5,611 |
-| Nano Connoisseur | 6.00% | ~4,208 |
-| In Two Places At Once | 6.00% | ~4,208 |
+| Your Lucky Day | 37.00% | ~25,957 |
+| As Far Away As Possible | 18.00% | ~12,628 |
+| A Most Unstable Organism | 13.00% | ~9,120 |
+| No Time to Follow Protocol | 10.00% | ~7,015 |
+| Float Like a Butterfly... | 8.00% | ~5,612 |
+| Nano Connoisseur | 6.00% | ~4,209 |
+| In Two Places At Once | 6.00% | ~4,209 |
 | More Power to You | 4.00% | ~2,806 |
-| Pulling Your Weight | 3.00% | ~2,104 |
-| Reaping Rivals | 3.00% | ~2,104 |
-| fifteenth Time's the Charm | 1.00% | ~701 |
+| Pulling Your Weight | 3.00% | ~2,105 |
+| Reaping Rivals | 3.00% | ~2,105 |
+| fifteenth Time's the Charm | 1.00% | ~702 |
 | Gone Rogue | 0.50% | ~351 |
 | Memory Keeper | 0.40% | ~281 |
 | Completely Customizable | 0.40% | ~281 |
 | Past Master | 0.40% | ~281 |
 | Runs for Your Money | 0.30% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,138 (Ranked 104)  
+Progressed: 70,153 (Ranked 104)  
 Completed: 57 (0.08%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,15 +134,15 @@ Completed: 57 (0.08%) (Ranked 311)
 | 2023-12-14 | 68,865 | 49 |
 | 2023-12-15 | 69,330 | 57 |
 | 2023-12-16 | 69,966 | 57 |
-| 2023-12-17 | 70,138 | 57 |
+| 2023-12-17 | 70,153 | 57 |
 ## Awards
 Max (Great for Beginners): 109  (Ranked 356)  
-Sum: 430 (Ranked 341)  
+Sum: 431 (Ranked 341)  
 Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 109 |
-| This game has Diverse Characters | 75 |
+| This game has Diverse Characters | 76 |
 | This game has a Competitive Community | 54 |
 | This game is Highly Recommended | 54 |
 | This game has Amazing Characters | 54 |
@@ -244,4 +244,4 @@ Diff (max vs sum): 15
 | 2023-12-14 | 4.15 | 105 | 421 |
 | 2023-12-15 | 4.15 | 107 | 425 |
 | 2023-12-16 | 4.15 | 107 | 427 |
-| 2023-12-17 | 4.15 | 109 | 430 |
+| 2023-12-17 | 4.15 | 109 | 431 |

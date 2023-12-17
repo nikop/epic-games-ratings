@@ -2,7 +2,7 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 317,
+  "Ranking_Rating": 297,
   "Ranking_Popularity": 364,
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 188,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 398,
   "RatingHistory": [
     {
@@ -1375,10 +1375,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 740,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2023-12-17T08:59:24.7574781+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 741,
+      "NumberOfAwardsMax": 104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 740,
+  "NumberOfAwards": 741,
   "NumberOfAwardsMax": 104,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1416,7 +1422,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 102
+      "Count": 103
     },
     {
       "Text": "This game is Educational",
@@ -1449,9 +1455,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6449,
+  "EOS_Progressed": 6450,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14579,6 +14585,11 @@
       "Time": "2023-12-17T08:08:33.6338328+00:00",
       "NumProgressed": 6449,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T09:09:22.4043468+00:00",
+      "NumProgressed": 6450,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14622,7 +14633,7 @@
       "Name": "Been there, Done That",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_EP_BALLGAME",
@@ -14630,7 +14641,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -14646,7 +14657,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -14662,7 +14673,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -14710,7 +14721,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -14726,7 +14737,7 @@
       "Name": "Apocalypso",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -14734,7 +14745,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -14750,7 +14761,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4772
+      "UsersEstimate": 4773
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14782,7 +14793,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_MYWAYS",
@@ -14798,7 +14809,7 @@
       "Name": "Narcissist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_PROMISINGENDEAVORS",
@@ -14854,7 +14865,7 @@
       "Name": "The Time For Wonders",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_TRADEISMYTRAIT",
@@ -14870,7 +14881,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -14894,7 +14905,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -14909,15 +14920,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6449,
+      "Progressed": 6450,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-12-16T18:58:39.8372052+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:08:33.6338323+00:00",
+  "LastChanged": "2023-12-17T08:59:24.7574779+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:09:22.4043466+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.7844638+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:58:57.0214699+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:08:33.6339002+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:59:24.7574783+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:09:22.4044382+00:00"
 }

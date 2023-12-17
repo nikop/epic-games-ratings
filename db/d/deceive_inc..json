@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19073,
+  "EOS_Progressed": 19074,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13754,6 +13754,11 @@
       "Time": "2023-12-17T02:29:14.9901343+00:00",
       "NumProgressed": 19073,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-17T09:05:04.9244183+00:00",
+      "NumProgressed": 19074,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13781,7 +13786,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3242
+      "UsersEstimate": 3243
     },
     {
       "ID": "0004",
@@ -13989,7 +13994,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "0030",
@@ -14052,7 +14057,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19073,
+      "Progressed": 19074,
       "Completed": 4
     }
   ],
@@ -14060,8 +14065,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:04:15.2622604+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:05:04.9244179+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:23.0079073+00:00",
-  "LastUpdate_Ratings": "2023-12-17T08:00:10.4089816+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:04:15.2623262+00:00"
+  "LastUpdate_Ratings": "2023-12-17T09:00:39.0170942+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:05:04.9245137+00:00"
 }

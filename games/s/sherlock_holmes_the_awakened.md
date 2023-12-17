@@ -5,7 +5,7 @@ Rating: 4.58 (Ranked 455)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 62.00% | ~755 |
+| Read Between The Lines | 63.00% | ~767 |
 | To Hell In A Handcart | 62.00% | ~755 |
 | High Profile | 54.00% | ~657 |
 | Whispers In The Dark | 51.00% | ~621 |
@@ -14,8 +14,8 @@ Rating: 4.58 (Ranked 455)
 | History Check | 46.00% | ~560 |
 | The New World | 44.00% | ~535 |
 | Gaze Into The Abyss | 43.00% | ~523 |
+| Open Sesame | 43.00% | ~523 |
 | Lock, Stock, And Barrel | 42.00% | ~511 |
-| Open Sesame | 42.00% | ~511 |
 | Sticky Fingers | 42.00% | ~511 |
 | Knives Out | 42.00% | ~511 |
 | Back In The Saddle | 41.00% | ~499 |

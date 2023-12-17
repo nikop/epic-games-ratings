@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New arm | 78.00% | ~415 |
+| New arm | 79.00% | ~420 |
 | Shelter Escape | 77.00% | ~410 |
 | The First Bond | 67.00% | ~356 |
 | Novice Scavenger | 60.00% | ~319 |
@@ -13,7 +13,7 @@
 | Piggyback Expert | 46.00% | ~245 |
 | Second wall | 34.00% | ~181 |
 | Expert Scavenger | 33.00% | ~176 |
-| Their Rock | 28.00% | ~149 |
+| Their Rock | 29.00% | ~154 |
 | Yuna's Promise | 28.00% | ~149 |
 | Stone Retriever | 27.00% | ~144 |
 | Find myself | 25.00% | ~133 |
@@ -26,12 +26,12 @@
 | Flawless | 5.00% | ~27 |
 | Plushyboy | 4.00% | ~21 |
 | LOVEassistant | 4.00% | ~21 |
+| True Player | 1.00% | ~5 |
 | Dreamboat | 1.00% | ~5 |
-| True Player | 0.90% | ~5 |
 | Bond Lord | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 532 (Ranked 322)  
-Completed: 2 (0.38%) (Ranked 229)  
+Progressed: 532 (Ranked 323)  
+Completed: 2 (0.38%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

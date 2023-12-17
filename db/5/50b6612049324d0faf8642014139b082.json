@@ -2,7 +2,7 @@
   "ID": "50b6612049324d0faf8642014139b082",
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
-  "Ranking_Rating": 799,
+  "Ranking_Rating": 779,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 286,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.35,
+  "Rating": 4.37,
   "RatingHistory": [
     {
       "Time": "2023-11-25T01:40:43.9281936+00:00",
@@ -155,6 +155,12 @@
     {
       "Time": "2023-12-15T09:57:18.6814429+00:00",
       "Rating": 4.35,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-17T08:58:46.58426+00:00",
+      "Rating": 4.37,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2264,9 +2270,9 @@
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged": "2023-12-15T09:57:18.6814427+00:00",
-  "LastChanged_Achievements": "2023-12-17T08:09:57.411538+00:00",
+  "LastChanged": "2023-12-17T08:58:46.5842598+00:00",
+  "LastChanged_Achievements": "2023-12-17T09:10:46.2215711+00:00",
   "LastUpdate_AppInfo": "2023-12-12T21:57:15.1465415+00:00",
-  "LastUpdate_Ratings": "2023-12-17T07:58:19.0898993+00:00",
-  "LastUpdate_Achievements": "2023-12-17T08:09:57.4115654+00:00"
+  "LastUpdate_Ratings": "2023-12-17T08:58:46.5842603+00:00",
+  "LastUpdate_Achievements": "2023-12-17T09:10:46.2215983+00:00"
 }
