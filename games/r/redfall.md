@@ -5,7 +5,7 @@ Rating: 3.50 (Ranked 1,063)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 8.00% | ~152 |
+| I Like My Stakes Rare! | 8.00% | ~153 |
 | Catch and Release | 6.00% | ~114 |
 | Home Is Where the Heart Is | 5.00% | ~95 |
 | ICU | 5.00% | ~95 |
@@ -14,10 +14,10 @@ Rating: 3.50 (Ranked 1,063)
 | Ne Plus Ultra | 4.00% | ~76 |
 | Fly Fisher | 4.00% | ~76 |
 | Peek-a-boo | 4.00% | ~76 |
+| Throw The First Stone | 4.00% | ~76 |
 | Sucks To Be You | 4.00% | ~76 |
 | Enter of Your Own Free Will | 3.00% | ~57 |
 | Welcome to the Neighborhood | 3.00% | ~57 |
-| Throw The First Stone | 3.00% | ~57 |
 | Heart Attack | 3.00% | ~57 |
 | Skin of Their Teeth | 3.00% | ~57 |
 | Neighborhood Revitalization | 2.00% | ~38 |
@@ -72,7 +72,7 @@ Rating: 3.50 (Ranked 1,063)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,905 (Ranked 235)  
+Progressed: 1,908 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 1,810 | 0 |
 | 2023-12-15 | 1,843 | 0 |
 | 2023-12-16 | 1,886 | 0 |
-| 2023-12-17 | 1,905 | 0 |
+| 2023-12-17 | 1,908 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

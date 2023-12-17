@@ -13,9 +13,9 @@
 | We're Going to Need a Bigger Garage | 25.00% | ~666 |
 | Champagne Spray | 25.00% | ~666 |
 | I Want One Too! | 20.00% | ~533 |
-| Restored and Ready | 19.00% | ~506 |
-| Legendary!!! | 19.00% | ~506 |
-| Quick Pit Stop | 19.00% | ~506 |
+| Restored and Ready | 19.00% | ~507 |
+| Legendary!!! | 19.00% | ~507 |
+| Quick Pit Stop | 19.00% | ~507 |
 | Go-Faster Stripes | 17.00% | ~453 |
 | I'm Here Too! | 15.00% | ~400 |
 | We've Just Begun | 12.00% | ~320 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,665 (Ranked 221)  
+Progressed: 2,666 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,4 +161,4 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 2,522 | 0 |
 | 2023-12-15 | 2,579 | 0 |
 | 2023-12-16 | 2,636 | 0 |
-| 2023-12-17 | 2,665 | 0 |
+| 2023-12-17 | 2,666 | 0 |

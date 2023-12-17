@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1838,
+  "EOS_Progressed": 1840,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5424,6 +5424,11 @@
       "Time": "2023-12-17T16:09:45.3846963+00:00",
       "NumProgressed": 1838,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T17:10:43.1787976+00:00",
+      "NumProgressed": 1840,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5540,7 +5545,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "achievement_22",
@@ -5628,7 +5633,7 @@
       "Name": "Scrap collector",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "achievement_32",
@@ -5636,7 +5641,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "achievement_33",
@@ -5652,7 +5657,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "achievement_35",
@@ -5660,7 +5665,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1638
     },
     {
       "ID": "achievement_36",
@@ -5676,15 +5681,15 @@
       "Name": "Off to a good start",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "achievement_38",
       "SetID": "271ol84",
       "Name": "Survivor",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 166
     },
     {
       "ID": "achievement_39",
@@ -5708,7 +5713,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "achievement_41",
@@ -5788,7 +5793,7 @@
       "Name": "Shoot first",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_50",
@@ -5876,7 +5881,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "achievement_60",
@@ -5939,13 +5944,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1838,
+      "Progressed": 1840,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1838,
+      "Progressed": 1840,
       "Completed": 1
     }
   ],
@@ -5953,8 +5958,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:09:45.384696+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:10:43.1787974+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:59:26.4851002+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:09:45.3847743+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:00:54.9068797+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:10:43.1788648+00:00"
 }

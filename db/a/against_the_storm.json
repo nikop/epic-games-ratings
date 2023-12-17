@@ -3411,10 +3411,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3266,
       "NumberOfAwardsMax": 442
+    },
+    {
+      "Time": "2023-12-17T16:58:16.5971696+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3267,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3266,
+  "NumberOfAwards": 3267,
   "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3452,7 +3458,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 428
+      "Count": 429
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3479,9 +3485,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18501,
+  "EOS_Progressed": 18506,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 634,
+  "EOS_NewPlayers": 633,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16079,6 +16085,11 @@
       "Time": "2023-12-17T16:04:41.5046315+00:00",
       "NumProgressed": 18501,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-17T17:05:40.396714+00:00",
+      "NumProgressed": 18506,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16177,9 +16188,9 @@
       "ID": "WinFirstGame",
       "SetID": "cfbk359",
       "Name": "First Real Expedition",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 555
     },
     {
       "ID": "WinHard",
@@ -16562,15 +16573,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18501,
+      "Progressed": 18506,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-17T13:58:09.0475523+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:04:41.5046303+00:00",
+  "LastChanged": "2023-12-17T16:58:16.5971694+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:05:40.3967135+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:57:37.2388126+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:04:41.5047241+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:58:16.5971702+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:05:40.3968619+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9748,10 +9748,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20652,
       "NumberOfAwardsMax": 7763
+    },
+    {
+      "Time": "2023-12-17T16:58:30.615194+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20660,
+      "NumberOfAwardsMax": 7763
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20652,
+  "NumberOfAwards": 20660,
   "NumberOfAwardsMax": 7763,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9777,7 +9783,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1457
+      "Count": 1465
     },
     {
       "Text": "This game has Challenging Combat",
@@ -9828,9 +9834,9 @@
       "Count": 1018
     }
   ],
-  "EOS_Progressed": 128067,
+  "EOS_Progressed": 128076,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2045,
+  "EOS_NewPlayers": 2043,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35498,6 +35504,11 @@
       "Time": "2023-12-17T16:08:53.6104677+00:00",
       "NumProgressed": 128067,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T17:09:34.4869069+00:00",
+      "NumProgressed": 128076,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35509,7 +35520,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -35517,7 +35528,7 @@
       "Name": "Serenity Now!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -35525,7 +35536,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -35661,7 +35672,7 @@
       "Name": "Not Today!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35669,7 +35680,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35685,7 +35696,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "combat_kill_gaunts",
@@ -35701,7 +35712,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -35709,7 +35720,7 @@
       "Name": "Meat and Greet",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35725,7 +35736,7 @@
       "Name": "Catch and Decease",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "combat_kill_librarian",
@@ -35781,7 +35792,7 @@
       "Name": "It Happens",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -35805,7 +35816,7 @@
       "Name": "Rush Hour",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -35829,7 +35840,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "driving_distance_easy",
@@ -35901,7 +35912,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -35917,7 +35928,7 @@
       "Name": "FNG",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "inn_visit_all_variants",
@@ -35995,9 +36006,9 @@
       "ID": "run_victory_act05",
       "SetID": "64l4lke",
       "Name": "Body of Work",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 512
+      "UsersEstimate": 640
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -36053,7 +36064,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36109,7 +36120,7 @@
       "Name": "Lost and Found",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36140,21 +36151,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128067,
+      "Progressed": 128076,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2936,
+      "Progressed": 2945,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-17T10:57:39.1040645+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:08:53.6104673+00:00",
+  "LastChanged": "2023-12-17T16:58:30.6151938+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:09:34.4869064+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:57:46.8674363+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:08:53.6106305+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:58:30.6151944+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:09:34.4870968+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -796,9 +796,9 @@
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "earn_all_trophies",
@@ -812,9 +812,9 @@
       "ID": "face_your_fears",
       "SetID": "f2im8d",
       "Name": "Face your fears",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -860,9 +860,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "finished_it",
@@ -956,9 +956,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "playtime",
@@ -1012,17 +1012,17 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 111
     },
     {
       "ID": "spy_one_item",
@@ -1036,7 +1036,7 @@
       "ID": "sword_of_the_serpent",
       "SetID": "f2im8d",
       "Name": "Sword of the Serpent",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1107,8 +1107,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:05:47.9382695+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:07:06.5738247+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:26.5525701+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:00:01.1972699+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:05:47.9383035+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:01:44.721146+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:07:06.5738765+00:00"
 }

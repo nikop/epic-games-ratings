@@ -18,7 +18,7 @@ Rating: 4.60 (Ranked 423)
 | Ladies' man | 39.00% | ~34 |
 | Ferocious wild boars | 30.00% | ~26 |
 | Idiot | 27.00% | ~24 |
-| Beast slayer | 25.00% | ~22 |
+| Beast slayer | 26.00% | ~23 |
 | Family man | 24.00% | ~21 |
 | The fourth triplet | 24.00% | ~21 |
 | Wise man | 23.00% | ~20 |

@@ -2,10 +2,10 @@
   "ID": "63afbcc46a714796af53032c2b3ed4b3",
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
-  "Ranking_EOS_Progress": 316,
+  "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 582,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.92,
   "EosHistory": [
@@ -1920,9 +1920,9 @@
       "ID": "ach_main13tanos_completed",
       "SetID": "4hg22ll",
       "Name": "The Duel",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 204
     },
     {
       "ID": "ach_main13tanos_dungeonlord",
@@ -2119,8 +2119,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:08:05.6870307+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:08:26.1801124+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.5802782+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:58:19.4905167+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:08:05.687077+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:59:17.3396393+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:08:26.1801611+00:00"
 }

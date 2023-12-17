@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1394,
+  "EOS_Progressed": 1397,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3292,6 +3292,11 @@
       "Time": "2023-12-17T14:06:57.7548192+00:00",
       "NumProgressed": 1394,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T17:06:32.6576243+00:00",
+      "NumProgressed": 1397,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3446,9 +3451,9 @@
       "ID": "ML_ACHIEVEMENT_19",
       "SetID": "5k00jcd",
       "Name": "Well begun\u2026",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 56
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -3478,9 +3483,9 @@
       "ID": "ML_ACHIEVEMENT_23",
       "SetID": "5k00jcd",
       "Name": "The Scorpion",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -3671,20 +3676,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1394,
+      "Progressed": 1397,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1062,
+      "Progressed": 1065,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:05:23.1543558+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:06:32.657624+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:58:35.0370011+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:05:23.1544171+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:59:39.3833162+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:06:32.6576721+00:00"
 }

@@ -1,7 +1,7 @@
 # Scrapnaut
 [Store](https://store.epicgames.com/en-US/p/scrapnaut)  
 [View Rawdata](../../db/s/scrapnaut.json)  
-Rating: 4.28 (Ranked 866)  
+Rating: 4.29 (Ranked 856)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,7 +13,7 @@ Number of Ratings: 38  (23.09.2022)
 | Teleport | 45.00% | ~232 |
 | Cook | 44.00% | ~227 |
 | Scrap Master | 38.00% | ~196 |
-| Smelter | 35.00% | ~181 |
+| Smelter | 36.00% | ~186 |
 | Digger | 32.00% | ~165 |
 | Electro-Scrap Gatherer | 32.00% | ~165 |
 | Survivor | 31.00% | ~160 |
@@ -24,10 +24,10 @@ Number of Ratings: 38  (23.09.2022)
 | Electro-Scrap Master | 24.00% | ~124 |
 | Robot Hunter | 21.00% | ~108 |
 | Advanced Survivalist | 19.00% | ~98 |
-| Master Of Technology | 16.00% | ~83 |
+| Master Of Technology | 17.00% | ~88 |
 | Treasure Hunter | 16.00% | ~83 |
 | Mythical Smelter | 14.00% | ~72 |
-| Blacksmith | 11.00% | ~57 |
+| Blacksmith | 12.00% | ~62 |
 | Master Of Management | 10.00% | ~52 |
 | Forest Lord | 10.00% | ~52 |
 | Fuel | 10.00% | ~52 |
@@ -39,7 +39,7 @@ Number of Ratings: 38  (23.09.2022)
 | Invincible | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 516 (Ranked 325)  
-Completed: 2 (0.39%) (Ranked 227)  
+Completed: 3 (0.58%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -194,7 +194,7 @@ Completed: 2 (0.39%) (Ranked 227)
 | 2023-12-14 | 502 | 1 |
 | 2023-12-15 | 508 | 1 |
 | 2023-12-16 | 511 | 1 |
-| 2023-12-17 | 516 | 2 |
+| 2023-12-17 | 516 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -224,3 +224,4 @@ Completed: 2 (0.39%) (Ranked 227)
 | 2023-06-01 | 4.31 | - | 0 | 0 |
 | 2023-10-28 | 4.27 | - | 0 | 0 |
 | 2023-11-17 | 4.28 | - | 0 | 0 |
+| 2023-12-17 | 4.29 | - | 0 | 0 |

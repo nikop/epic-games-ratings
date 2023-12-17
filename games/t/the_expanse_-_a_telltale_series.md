@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 536)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 13.00% | ~2,162 |
+| Oyedang, Kopengs | 13.00% | ~2,163 |
 | Bosmang | 9.00% | ~1,497 |
 | Captain Drummer | 9.00% | ~1,497 |
 | Celebrations are in Order | 9.00% | ~1,497 |
@@ -13,8 +13,8 @@ Rating: 4.54 (Ranked 536)
 | Martian Music | 8.00% | ~1,331 |
 | Drone Dodger | 8.00% | ~1,331 |
 | Impossible Objects | 8.00% | ~1,331 |
-| Stogie for Fogey | 7.00% | ~1,164 |
-| Spore Taste | 7.00% | ~1,164 |
+| Stogie for Fogey | 7.00% | ~1,165 |
+| Spore Taste | 7.00% | ~1,165 |
 | Safe Cracker | 7.00% | ~181 |
 | Zen Master | 7.00% | ~181 |
 | Madame Undersecretary | 7.00% | ~181 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 536)
 | Scavenger Star | 0.20% | ~33 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,634 (Ranked 152)  
+Progressed: 16,637 (Ranked 152)  
 Completed: 43 (0.26%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 43 (0.26%) (Ranked 253)
 | 2023-12-14 | 16,263 | 43 |
 | 2023-12-15 | 16,416 | 43 |
 | 2023-12-16 | 16,565 | 43 |
-| 2023-12-17 | 16,634 | 43 |
+| 2023-12-17 | 16,637 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

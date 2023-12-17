@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -842,9 +842,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5598,
+  "EOS_Progressed": 5602,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11272,6 +11272,11 @@
       "Time": "2023-12-17T16:06:08.2029753+00:00",
       "NumProgressed": 5598,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-17T17:07:34.0689299+00:00",
+      "NumProgressed": 5602,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11332,7 +11337,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1457
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11378,9 +11383,9 @@
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 952
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -11467,15 +11472,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5598,
+      "Progressed": 5602,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:06:08.2029749+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:07:34.0689295+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:57:30.0975746+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:06:08.2030372+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:58:05.6365987+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:07:34.0689891+00:00"
 }

@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 77.00% | ~109 |
+| Something important | 78.00% | ~111 |
 | Wanderer | 63.00% | ~89 |
-| A piece of the story | 56.00% | ~80 |
+| A piece of the story | 57.00% | ~81 |
 | It's covered up for a reason | 44.00% | ~62 |
 | Scraps of love | 42.00% | ~60 |
-| Do what you have to | 40.00% | ~57 |
-| The artist’s impression | 40.00% | ~57 |
-| Sign of weakness | 33.00% | ~47 |
+| The artist’s impression | 42.00% | ~60 |
+| Do what you have to | 41.00% | ~58 |
+| Sign of weakness | 34.00% | ~48 |
 | Refuse to look | 32.00% | ~45 |
 | Finished it | 27.00% | ~38 |
-| Face your fears | 25.00% | ~36 |
+| Face your fears | 26.00% | ~37 |
 | Whispers long forgotten | 14.00% | ~20 |
 | A Slice of Life | 11.00% | ~16 |
 | Debut | 11.00% | ~16 |
@@ -48,9 +48,9 @@
 | The Big Picture | 1.00% | ~1 |
 | In One Take | 1.00% | ~1 |
 | Rocket Science | 1.00% | ~1 |
+| Sword of the Serpent | 1.00% | ~1 |
 | You Can’t Handle the Truth | 0.70% | ~1 |
 | The Tree and the Apple | 0.70% | ~1 |
-| Sword of the Serpent | 0.70% | ~1 |
 | The whole story | 0.00% | ~0 |
 | You might have a problem | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |

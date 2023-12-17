@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 535,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
     "PcReleaseDate": "2023-03-09T14:00:00+00:00",
@@ -352,9 +352,9 @@
       "ID": "achievements.completemission.master.04",
       "SetID": "1kd1942",
       "Name": "Copper Mission Impossible",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievements.firstchain",
@@ -384,9 +384,9 @@
       "ID": "achievements.researches.constructions50",
       "SetID": "1kd1942",
       "Name": "Even side of the street",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievements.researches.constructionsall",
@@ -439,8 +439,8 @@
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:03:46.8994762+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:04:25.9872476+00:00",
   "LastUpdate_AppInfo": "2023-12-15T17:57:10.6970743+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:57:27.8554698+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:03:46.8994915+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:58:01.3855282+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:04:25.9872577+00:00"
 }

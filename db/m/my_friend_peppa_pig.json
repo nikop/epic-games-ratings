@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 86,
   "Ranking_EOS_NewPlayers": 439,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
     "PcReleaseDate": "2021-10-21T23:00:00+00:00",
@@ -206,9 +206,9 @@
       "ID": "11",
       "SetID": "5jd5jfm",
       "Name": "Rocket to the Moon!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 80,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "2",
@@ -222,17 +222,17 @@
       "ID": "3",
       "SetID": "5jd5jfm",
       "Name": "Whose tracks are these?",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 80,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "4",
       "SetID": "5jd5jfm",
       "Name": "The Best Snowman Ever!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "5",
@@ -287,8 +287,8 @@
   "FirstSeenRating": "2023-03-31T05:57:56.0490903+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:28.9247276+00:00",
   "LastChanged": "2023-03-31T05:57:56.0490904+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:09:12.4664261+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:09:59.5504376+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:28.145083+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:57:42.2088875+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:09:12.4664339+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:58:24.0643495+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:09:59.5504465+00:00"
 }

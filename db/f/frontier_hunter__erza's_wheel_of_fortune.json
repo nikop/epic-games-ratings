@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -2149,9 +2149,9 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "7pimpda",
       "Name": "Training Simulation",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 486
+      "UsersEstimate": 492
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2205,9 +2205,9 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "7pimpda",
       "Name": "Master Artificer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -2430,8 +2430,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:08:47.1968734+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:09:25.5778853+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:00.9363361+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:59:12.1487082+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:08:47.1969142+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:00:33.8789777+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:09:25.5779258+00:00"
 }

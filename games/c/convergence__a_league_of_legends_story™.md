@@ -9,9 +9,9 @@ Rating: 4.62 (Ranked 370)
 | Rail Rat | 28.00% | ~284 |
 | The Mysterious Stranger | 27.00% | ~274 |
 | Immaculate Aim | 24.00% | ~244 |
+| Make Up For Lost Time | 23.00% | ~233 |
 | The Prince in Heels | 23.00% | ~233 |
 | The Brass Boss | 23.00% | ~233 |
-| Make Up For Lost Time | 22.00% | ~223 |
 | Time Flies | 22.00% | ~223 |
 | The Harder They Fall | 22.00% | ~223 |
 | No, Thanks! | 22.00% | ~223 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 370)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,015 (Ranked 274)  
+Progressed: 1,015 (Ranked 275)  
 Completed: 6 (0.59%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |

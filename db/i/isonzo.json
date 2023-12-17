@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -997,9 +997,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9453,
+  "EOS_Progressed": 9454,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9512,6 +9512,11 @@
       "Time": "2023-12-17T16:08:39.8559712+00:00",
       "NumProgressed": 9453,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-17T17:09:15.9213474+00:00",
+      "NumProgressed": 9454,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9539,7 +9544,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4160
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -9667,7 +9672,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -9715,7 +9720,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4348
+      "UsersEstimate": 4349
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -9771,7 +9776,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -9819,7 +9824,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -9849,9 +9854,9 @@
       "ID": "ISONZO_ACH_TUTTI_EROI",
       "SetID": "akchbl3",
       "Name": "Tutti Eroi!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4726
+      "UsersEstimate": 4822
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -9875,14 +9880,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4821
+      "UsersEstimate": 4822
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9453,
+      "Progressed": 9454,
       "Completed": 10
     }
   ],
@@ -9890,8 +9895,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-12T17:02:56.6362998+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:08:39.8559709+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:09:15.9213471+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:27.7823002+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:58:34.7897447+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:08:39.856029+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:59:39.2107268+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:09:15.9214112+00:00"
 }

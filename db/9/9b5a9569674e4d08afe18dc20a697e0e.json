@@ -2,10 +2,10 @@
   "ID": "9b5a9569674e4d08afe18dc20a697e0e",
   "Name": "Aron\u0027s Adventure: Magic Reborn",
   "ProductSlug": "arons-adventure-1e76cd",
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141,
+  "EOS_Progressed": 142,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -554,6 +554,11 @@
       "Time": "2023-12-14T22:09:11.6266108+00:00",
       "NumProgressed": 141,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T17:08:56.614948+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -566,15 +571,15 @@
       "Name": "Adventure awaits",
       "Percentage": 80,
       "XP": 100,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "BARON",
       "SetID": "40o4f14",
       "Name": "Baron",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "CHAIR",
@@ -582,7 +587,7 @@
       "Name": "A nice view",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CRASHING",
@@ -646,7 +651,7 @@
       "Name": "The Rescue",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "GREEDY",
@@ -694,7 +699,7 @@
       "Name": "Lover\u0027s dream",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "MERCENARY",
@@ -782,7 +787,7 @@
       "Name": "A restless soul",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "WASHING",
@@ -813,14 +818,14 @@
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:08:25.4298826+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:08:56.6149476+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:18:55.6989256+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:59:44.8900606+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:08:25.4299007+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:01:21.5644582+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:08:56.614969+00:00"
 }

@@ -7,25 +7,25 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 7.00% | ~206 |
-| This guy... again? | 4.00% | ~117 |
-| Lost and Found | 4.00% | ~117 |
+| This guy... again? | 4.00% | ~118 |
+| Lost and Found | 4.00% | ~118 |
 | This Belongs in a Museum | 3.00% | ~3,842 |
 | Overdue Notice | 3.00% | ~3,842 |
 | Escape from the Black Hole | 3.00% | ~3,842 |
 | Autodidact | 3.00% | ~3,842 |
 | Bloody Graduation | 3.00% | ~88 |
-| Don't Make Me Turn This Coach Around | 2.00% | ~2,561 |
-| Serenity Now! | 2.00% | ~2,561 |
-| It Rings a Bell | 2.00% | ~2,561 |
-| Not Today! | 2.00% | ~2,561 |
-| Creep and Sleep | 2.00% | ~2,561 |
-| Meat and Greet | 2.00% | ~2,561 |
-| Catch and Decease | 2.00% | ~2,561 |
-| It Happens | 2.00% | ~2,561 |
-| Rush Hour | 2.00% | ~2,561 |
-| To Grandmother's House | 2.00% | ~2,561 |
-| A Place to Lay Your Head | 2.00% | ~2,561 |
-| FNG | 2.00% | ~2,561 |
+| Don't Make Me Turn This Coach Around | 2.00% | ~2,562 |
+| Serenity Now! | 2.00% | ~2,562 |
+| It Rings a Bell | 2.00% | ~2,562 |
+| Not Today! | 2.00% | ~2,562 |
+| Creep and Sleep | 2.00% | ~2,562 |
+| Meat and Greet | 2.00% | ~2,562 |
+| Catch and Decease | 2.00% | ~2,562 |
+| It Happens | 2.00% | ~2,562 |
+| Rush Hour | 2.00% | ~2,562 |
+| To Grandmother's House | 2.00% | ~2,562 |
+| A Place to Lay Your Head | 2.00% | ~2,562 |
+| FNG | 2.00% | ~2,562 |
 | Ploughshares to Swords | 2.00% | ~59 |
 | Friends 'Til the End | 2.00% | ~59 |
 | Resurrection | 1.00% | ~1,281 |
@@ -54,17 +54,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | When You Want Something Done Right | 0.90% | ~1,153 |
 | Utopia | 0.90% | ~1,153 |
 | Hope Rekindled | 0.80% | ~1,025 |
-| Ichthyophobic | 0.70% | ~896 |
-| No More Mouths to Feed | 0.70% | ~896 |
+| Ichthyophobic | 0.70% | ~897 |
+| No More Mouths to Feed | 0.70% | ~897 |
 | Slap on the Wrist | 0.70% | ~21 |
 | This Looks Familiar | 0.60% | ~768 |
 | Hot Air | 0.60% | ~768 |
 | Eyes Up | 0.60% | ~768 |
 | For Old Time' Sake | 0.60% | ~18 |
 | Handled | 0.50% | ~640 |
+| Body of Work | 0.50% | ~640 |
 | Et Tu, Riposte? | 0.50% | ~15 |
 | Shrine of Reflection | 0.40% | ~512 |
-| Body of Work | 0.40% | ~512 |
 | Clearing the Ledger | 0.30% | ~384 |
 | Bacon Bits | 0.30% | ~384 |
 | Hat Trick | 0.30% | ~384 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,067 (Ranked 85)  
+Progressed: 128,076 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,10 +317,10 @@ Completed: 3 (0.00%) (Ranked 380)
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
-| 2023-12-17 | 128,067 | 3 |
+| 2023-12-17 | 128,076 | 3 |
 ## Awards
 Max (Character Customization): 7,763  (Ranked 50)  
-Sum: 20,652 (Ranked 58)  
+Sum: 20,660 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -328,8 +328,8 @@ Diff (max vs sum): -8
 | This game has Diverse Characters | 1,711 |
 | This game has Challenging Combat | 1,599 |
 | This game is Highly Recommended | 1,535 |
+| This game is Extremely Fun | 1,465 |
 | This game has Amazing Characters | 1,461 |
-| This game is Extremely Fun | 1,457 |
 | This game has Amazing Storytelling | 1,384 |
 | This game has Unique Visuals | 1,374 |
 | This game has Quickly Understood Controls | 1,350 |
@@ -662,4 +662,4 @@ Diff (max vs sum): -8
 | 2023-12-14 | 4.68 | - | 7,689 | 20,427 |
 | 2023-12-15 | 4.68 | - | 7,718 | 20,517 |
 | 2023-12-16 | 4.68 | - | 7,744 | 20,595 |
-| 2023-12-17 | 4.68 | - | 7,763 | 20,652 |
+| 2023-12-17 | 4.68 | - | 7,763 | 20,660 |

@@ -6,15 +6,15 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 9.00% | ~640 |
+| Fish Just Got Reel | 9.00% | ~641 |
 | Can you smell what the Rod is Hooking | 7.00% | ~498 |
 | Hey Good Hookin | 7.00% | ~498 |
 | More Fish in the Sea | 7.00% | ~498 |
+| Scaling up | 7.00% | ~498 |
 | I'm on a Boat! | 6.00% | ~427 |
-| Scaling up | 6.00% | ~427 |
 | Ready to Rod and Roll | 5.00% | ~356 |
-| Fish Out of Water | 3.00% | ~213 |
-| Things that go Splash in the Night | 3.00% | ~213 |
+| Fish Out of Water | 3.00% | ~214 |
+| Things that go Splash in the Night | 3.00% | ~214 |
 | License to Gill | 2.00% | ~142 |
 | Goldfish? | 2.00% | ~142 |
 | Going for Gold | 2.00% | ~142 |
@@ -29,11 +29,11 @@ Number of Ratings: 281  (23.09.2022)
 | Gonna Need a Bigger Boat | 0.40% | ~28 |
 | Live by the Rod, Diez by the Rod! | 0.30% | ~19 |
 | Aguas Claras Conquistador | 0.30% | ~19 |
+| All Good Kings Must Come to an End | 0.30% | ~19 |
 | The Beetles | 0.20% | ~14 |
 | Lake Me up Before You Go Go | 0.20% | ~14 |
 | Big Fish Small Pond | 0.20% | ~14 |
 | Golden Ridge Ranger | 0.20% | ~14 |
-| All Good Kings Must Come to an End | 0.20% | ~13 |
 | Three Square Meals | 0.20% | ~13 |
 | Head for Heights | 0.10% | ~7 |
 | Taylor Made | 0.10% | ~7 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,115 (Ranked 186)  
+Progressed: 7,120 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 6,897 | 0 |
 | 2023-12-15 | 6,981 | 0 |
 | 2023-12-16 | 7,057 | 0 |
-| 2023-12-17 | 7,115 | 0 |
+| 2023-12-17 | 7,120 | 0 |
 ## Awards
 Max (Relaxing): 39  (Ranked 467)  
 Sum: 202 (Ranked 404)  

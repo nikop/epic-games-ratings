@@ -4,8 +4,8 @@
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -490,9 +490,9 @@
       "ID": "ACH_ACTOFCOMPASSION",
       "SetID": "88d7anj",
       "Name": "An act of compassion",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_ACTOFCOURAGE",
@@ -546,9 +546,9 @@
       "ID": "ACH_AWAKEN",
       "SetID": "88d7anj",
       "Name": "Awaken",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_CLARITY",
@@ -578,9 +578,9 @@
       "ID": "ACH_HEALTH",
       "SetID": "88d7anj",
       "Name": "Health",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_HOPE",
@@ -594,17 +594,17 @@
       "ID": "ACH_HUNGER",
       "SetID": "88d7anj",
       "Name": "Hunger",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_JIGSAW",
       "SetID": "88d7anj",
       "Name": "Jigsaw",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_LOST",
@@ -658,9 +658,9 @@
       "ID": "ACH_PATHOFCORRUPTION",
       "SetID": "88d7anj",
       "Name": "Path of Corruption",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_PATHOFDESPAIR",
@@ -682,9 +682,9 @@
       "ID": "ACH_PEACE",
       "SetID": "88d7anj",
       "Name": "Peace",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_RAGE",
@@ -698,9 +698,9 @@
       "ID": "ACH_REFLECTIONS",
       "SetID": "88d7anj",
       "Name": "Reflections",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_THEIRNAMES",
@@ -729,8 +729,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:03:31.1288773+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:04:04.833482+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:55.2807884+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:59:01.6237059+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:03:31.1289008+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:00:18.3858202+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:04:04.8335078+00:00"
 }

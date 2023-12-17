@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 684,
+  "EOS_Progressed": 686,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.07,
+  "EOS_Completed_Percentage": 3.06,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -1220,6 +1220,11 @@
       "Time": "2023-12-17T15:08:55.6970648+00:00",
       "NumProgressed": 684,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-17T17:09:52.9074694+00:00",
+      "NumProgressed": 686,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1231,7 +1236,7 @@
       "Name": "Beat It",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "blast_from_the_past",
@@ -1239,7 +1244,7 @@
       "Name": "Blast From The Past",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "deadly_secret",
@@ -1271,7 +1276,7 @@
       "Name": "Get Out Of This Alive",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ending_4",
@@ -1285,9 +1290,9 @@
       "ID": "ending_5",
       "SetID": "d4f4pll",
       "Name": "Lab Rat",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 165
     },
     {
       "ID": "ending_6",
@@ -1319,7 +1324,7 @@
       "Name": "Falling For You",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "free_champagne",
@@ -1327,7 +1332,7 @@
       "Name": "Free Champagne",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "kamikaze",
@@ -1335,7 +1340,7 @@
       "Name": "Kamikaze",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "kindar_surprise",
@@ -1343,7 +1348,7 @@
       "Name": "Kindar Surprise",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "not_a_people_person",
@@ -1367,7 +1372,7 @@
       "Name": "Storage Hunter",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -1375,7 +1380,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 58,
       "XP": 100,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "tough_decision",
@@ -1383,14 +1388,14 @@
       "Name": "Tough Decision",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 636
+      "UsersEstimate": 638
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 684,
+      "Progressed": 686,
       "Completed": 21
     }
   ],
@@ -1398,8 +1403,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:09:07.0795161+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:09:52.9074691+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:08.7462011+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:58:07.6841448+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:09:07.0795352+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:59:00.8964019+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:09:52.9074876+00:00"
 }

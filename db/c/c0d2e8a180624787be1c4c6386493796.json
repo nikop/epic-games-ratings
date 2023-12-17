@@ -4,8 +4,8 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 152,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -834,9 +834,9 @@
       "ID": "KR4_ACHIEVEMENT_DESTROY_MINE_CARTS",
       "SetID": "caeik3h",
       "Name": "Final Destination",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "KR4_ACHIEVEMENT_DWARVES_KINGDOM_FULL",
@@ -906,9 +906,9 @@
       "ID": "KR4_ACHIEVEMENT_GOLLUM",
       "SetID": "caeik3h",
       "Name": "My Precious!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "KR4_ACHIEVEMENT_GOOD_DINOSAUR",
@@ -1010,9 +1010,9 @@
       "ID": "KR4_ACHIEVEMENT_JOKULL",
       "SetID": "caeik3h",
       "Name": "How To Tame Your Dragon",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "KR4_ACHIEVEMENT_KERMIT",
@@ -1242,9 +1242,9 @@
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
       "SetID": "caeik3h",
       "Name": "We Are Legion!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
@@ -1343,8 +1343,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:03:30.6397981+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:04:04.367+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.9365218+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:59:16.0651007+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:03:30.6398628+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:00:39.5395544+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:04:04.3670791+00:00"
 }

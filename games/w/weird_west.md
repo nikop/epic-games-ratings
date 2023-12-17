@@ -6,16 +6,16 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,791 |
-| Self-Improvement | 71.00% | ~1,445 |
+| Unforgiven | 88.00% | ~1,792 |
+| Self-Improvement | 71.00% | ~1,446 |
 | Perky | 65.00% | ~1,323 |
 | Let’s Ride | 59.00% | ~1,201 |
 | Welcome to the Weird West | 56.00% | ~1,140 |
-| Dead or Alive | 55.00% | ~1,119 |
+| Dead or Alive | 55.00% | ~1,120 |
 | Full House | 37.00% | ~753 |
 | Off the Trail | 34.00% | ~692 |
-| Justice Served | 30.00% | ~610 |
-| Chain Reaction | 27.00% | ~549 |
+| Justice Served | 30.00% | ~611 |
+| Chain Reaction | 27.00% | ~550 |
 | Through Their Eyes | 26.00% | ~529 |
 | Dishonored | 25.00% | ~509 |
 | Rain of Death | 25.00% | ~509 |
@@ -42,7 +42,7 @@ Number of Ratings: 125  (23.09.2022)
 | Gold Digger | 8.00% | ~163 |
 | Monster Hunter | 8.00% | ~163 |
 | Knuckle Sandwich | 8.00% | ~163 |
-| Getting the Gang Back Together | 7.00% | ~142 |
+| Getting the Gang Back Together | 7.00% | ~143 |
 | Who You Gonna Call? | 6.00% | ~122 |
 | Healing Old Wounds | 5.00% | ~102 |
 | This Is Sparta | 5.00% | ~102 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~10 |
 | Winter Has Come | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,035 (Ranked 233)  
+Progressed: 2,036 (Ranked 233)  
 Completed: 7 (0.34%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 7 (0.34%) (Ranked 236)
 | 2023-12-12 | 2,028 | 7 |
 | 2023-12-13 | 2,029 | 7 |
 | 2023-12-15 | 2,034 | 7 |
-| 2023-12-17 | 2,035 | 7 |
+| 2023-12-17 | 2,036 | 7 |
 ## Awards
 Max (Impact the Story): 29  (Ranked 506)  
 Sum: 29 (Ranked 523)  

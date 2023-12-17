@@ -2,10 +2,10 @@
   "ID": "0407f287e7574d88b7c00895f14628d8",
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
-  "Ranking_EOS_Progress": 499,
+  "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -259,6 +259,11 @@
       "Time": "2023-12-17T16:04:45.1570802+00:00",
       "NumProgressed": 66,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T17:05:45.0549366+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -277,7 +282,7 @@
       "ID": "c1",
       "SetID": "b1ggf28",
       "Name": "Thorough Cleaning",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -301,9 +306,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "dl2",
@@ -325,15 +330,15 @@
       "ID": "f1",
       "SetID": "b1ggf28",
       "Name": "Agriculture Tycoon",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "f2",
       "SetID": "b1ggf28",
       "Name": "Tasty Food",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -349,15 +354,15 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 42,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "fw2",
       "SetID": "b1ggf28",
       "Name": "Administrator",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -365,7 +370,7 @@
       "ID": "fw3",
       "SetID": "b1ggf28",
       "Name": "The Sacrifice",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -373,9 +378,9 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "g2",
@@ -389,7 +394,7 @@
       "ID": "g3",
       "SetID": "b1ggf28",
       "Name": "Handcart",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -405,7 +410,7 @@
       "ID": "j2",
       "SetID": "b1ggf28",
       "Name": "Well-Read",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -413,7 +418,7 @@
       "ID": "j3",
       "SetID": "b1ggf28",
       "Name": "Knowledge is Infinite",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -421,15 +426,15 @@
       "ID": "jg1",
       "SetID": "b1ggf28",
       "Name": "Infrastructure",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "jg2",
       "SetID": "b1ggf28",
       "Name": "Waterpower",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -453,7 +458,7 @@
       "ID": "jk2",
       "SetID": "b1ggf28",
       "Name": "Saving Lives",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -461,7 +466,7 @@
       "ID": "jk3",
       "SetID": "b1ggf28",
       "Name": "Robust Settlers",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -469,7 +474,7 @@
       "ID": "jz1",
       "SetID": "b1ggf28",
       "Name": "Builder",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -493,7 +498,7 @@
       "ID": "k1",
       "SetID": "b1ggf28",
       "Name": "Advanced Technology",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
       "UsersEstimate": 21
     },
@@ -509,7 +514,7 @@
       "ID": "k3",
       "SetID": "b1ggf28",
       "Name": "Technology Town",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -517,7 +522,7 @@
       "ID": "m1",
       "SetID": "b1ggf28",
       "Name": "Animal Imports",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -549,7 +554,7 @@
       "ID": "r2",
       "SetID": "b1ggf28",
       "Name": "A Welcoming Settlement",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -565,7 +570,7 @@
       "ID": "storya1",
       "SetID": "b1ggf28",
       "Name": "World-Renowned",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -581,7 +586,7 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 20,
       "UsersEstimate": 41
     },
@@ -597,7 +602,7 @@
       "ID": "w3",
       "SetID": "b1ggf28",
       "Name": "Luxury Clothes",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -605,7 +610,7 @@
       "ID": "x1",
       "SetID": "b1ggf28",
       "Name": "Happiness Maintainer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -621,7 +626,7 @@
       "ID": "x3",
       "SetID": "b1ggf28",
       "Name": "Happiness",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -629,7 +634,7 @@
       "ID": "zf1",
       "SetID": "b1ggf28",
       "Name": "Cozy Houses",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -678,14 +683,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:04:45.1570798+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:05:45.0549362+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:02:44.8770848+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:04:45.1571092+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:02:57.626027+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:05:45.0549773+00:00"
 }

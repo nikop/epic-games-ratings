@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3542,
+  "EOS_Progressed": 3543,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6561,6 +6561,11 @@
       "Time": "2023-12-17T13:08:17.8026967+00:00",
       "NumProgressed": 3542,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T17:06:46.7319501+00:00",
+      "NumProgressed": 3543,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6652,7 +6657,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_BASE_21",
@@ -7002,9 +7007,9 @@
       "ID": "ACH_BASE_7",
       "SetID": "92iocjf",
       "Name": "From the Past",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 213
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_BASE_8",
@@ -7027,13 +7032,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1726,
+      "Progressed": 1727,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3542,
+      "Progressed": 3543,
       "Completed": 0
     }
   ],
@@ -7041,8 +7046,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:05:33.4662118+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:06:46.7319497+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:58:28.2649775+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:05:33.4662733+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:59:30.2484711+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:06:46.7320311+00:00"
 }

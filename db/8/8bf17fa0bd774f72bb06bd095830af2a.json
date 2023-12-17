@@ -4,8 +4,8 @@
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
   "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 496,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
     "PcReleaseDate": "2022-09-01T15:00:00+00:00",
@@ -340,9 +340,9 @@
       "ID": "SteamAchievment_CompleteOneChallenge",
       "SetID": "b8gj0ip",
       "Name": "First One",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SteamAchievment_CompleteQuest02",
@@ -468,9 +468,9 @@
       "ID": "SteamAchievment_CompleteStoryQuest01",
       "SetID": "b8gj0ip",
       "Name": "Hunger Buster",
-      "Percentage": 59,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "SteamAchievment_CompleteThirtyChallenges",
@@ -507,8 +507,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:03:15.8013613+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:03:43.7161223+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:42.1986517+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:57:07.032759+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:03:15.8013954+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:57:30.4425141+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:03:43.7161487+00:00"
 }

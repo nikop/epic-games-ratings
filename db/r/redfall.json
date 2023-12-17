@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1905,
+  "EOS_Progressed": 1908,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2750,6 +2750,11 @@
       "Time": "2023-12-17T14:08:14.4478506+00:00",
       "NumProgressed": 1905,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T17:08:13.4930487+00:00",
+      "NumProgressed": 1908,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2897,7 +2902,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Achievement_020",
@@ -2975,9 +2980,9 @@
       "ID": "Achievement_029",
       "SetID": "6b34g18",
       "Name": "Throw The First Stone",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 76
     },
     {
       "ID": "Achievement_030",
@@ -3288,7 +3293,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1905,
+      "Progressed": 1908,
       "Completed": 0
     }
   ],
@@ -3296,8 +3301,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-17T07:59:30.0053245+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:06:15.2958136+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:08:13.4930483+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:59:16.8424477+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:06:15.2958736+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:00:40.7201452+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:08:13.49312+00:00"
 }

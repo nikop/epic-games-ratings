@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4525,
+  "EOS_Progressed": 4526,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -11605,6 +11605,11 @@
       "Time": "2023-12-17T16:04:10.770162+00:00",
       "NumProgressed": 4525,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-17T17:04:58.2462491+00:00",
+      "NumProgressed": 4526,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 16,
@@ -11648,7 +11653,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     },
     {
       "ID": "ach_architecture_completed",
@@ -11656,7 +11661,7 @@
       "Name": "Architecture - completed",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ach_architecture_unlocked",
@@ -11664,7 +11669,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "ach_bomb",
@@ -11688,7 +11693,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3665
+      "UsersEstimate": 3666
     },
     {
       "ID": "ach_food_completed",
@@ -11712,7 +11717,7 @@
       "Name": "Game opened",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3439
+      "UsersEstimate": 3440
     },
     {
       "ID": "ach_magic_wand",
@@ -11743,7 +11748,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4525,
+      "Progressed": 4526,
       "Completed": 38
     }
   ],
@@ -11751,8 +11756,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:04:10.7701617+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:04:58.2462487+00:00",
   "LastUpdate_AppInfo": "2023-12-15T21:57:12.1320242+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:58:26.4842778+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:04:10.7702113+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:59:27.5928811+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:04:58.2463201+00:00"
 }

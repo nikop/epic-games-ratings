@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5784,
+  "EOS_Progressed": 5787,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8295,6 +8295,11 @@
       "Time": "2023-12-17T15:03:53.4692342+00:00",
       "NumProgressed": 5784,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-17T17:04:24.1921244+00:00",
+      "NumProgressed": 5787,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8362,7 +8367,7 @@
       "Name": "God Emperor",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "17",
@@ -8402,7 +8407,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "21",
@@ -8546,7 +8551,7 @@
       "Name": "Against the Odds",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "38",
@@ -8554,7 +8559,7 @@
       "Name": "Manufactured War",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "39",
@@ -8618,7 +8623,7 @@
       "Name": "Grexolis",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "6",
@@ -8626,7 +8631,7 @@
       "Name": "One for All, All for One",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "7",
@@ -8785,13 +8790,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5784,
+      "Progressed": 5787,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5784,
+      "Progressed": 5787,
       "Completed": 7
     }
   ],
@@ -8799,8 +8804,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:03:45.529659+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:04:24.192124+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:58:16.7010845+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:03:45.5297347+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:59:13.4220485+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:04:24.1922467+00:00"
 }

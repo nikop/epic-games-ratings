@@ -4,46 +4,46 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 78.00% | ~35 |
-| Little ideas | 73.00% | ~33 |
-| The Ship | 67.00% | ~30 |
-| Seeking the truth | 58.00% | ~26 |
-| An old friend | 56.00% | ~25 |
-| The Gala | 53.00% | ~24 |
-| A curious gathering | 53.00% | ~24 |
-| Little grey cells | 51.00% | ~23 |
-| Impossible is possible | 51.00% | ~23 |
-| The Missing Magdalene | 51.00% | ~23 |
-| Arthur Hastings | 51.00% | ~23 |
-| Everything matters | 47.00% | ~21 |
-| An expert mediator | 42.00% | ~19 |
-| DI Hardwicke | 42.00% | ~19 |
-| Order and method | 40.00% | ~18 |
-| Betty Allen | 38.00% | ~17 |
-| The Investigation Begins | 38.00% | ~17 |
+| Marc Allard | 76.00% | ~35 |
+| Little ideas | 72.00% | ~33 |
+| The Ship | 65.00% | ~30 |
+| Seeking the truth | 57.00% | ~26 |
+| An old friend | 54.00% | ~25 |
+| The Gala | 52.00% | ~24 |
+| A curious gathering | 52.00% | ~24 |
+| Little grey cells | 50.00% | ~23 |
+| Impossible is possible | 50.00% | ~23 |
+| The Missing Magdalene | 50.00% | ~23 |
+| Arthur Hastings | 50.00% | ~23 |
+| Everything matters | 46.00% | ~21 |
+| An expert mediator | 41.00% | ~19 |
+| DI Hardwicke | 41.00% | ~19 |
+| Order and method | 39.00% | ~18 |
+| Betty Allen | 37.00% | ~17 |
+| The Investigation Begins | 37.00% | ~17 |
 | Ms. Camilla B. Culsham | 33.00% | ~15 |
 | Irene Court-Smyth | 33.00% | ~15 |
-| An odd series of events | 31.00% | ~14 |
-| The Apartment | 31.00% | ~14 |
-| Nathaniel Dryden | 29.00% | ~13 |
-| Well-acquainted | 27.00% | ~12 |
-| Truth from within | 27.00% | ~12 |
-| A rude awakening | 27.00% | ~12 |
-| Anastasia Babanin | 27.00% | ~12 |
-| Zakariya Demir | 27.00% | ~12 |
-| Bartholomew | 27.00% | ~12 |
-| The Scheme | 27.00% | ~12 |
+| An odd series of events | 30.00% | ~14 |
+| The Apartment | 30.00% | ~14 |
+| Nathaniel Dryden | 28.00% | ~13 |
+| Well-acquainted | 26.00% | ~12 |
+| Truth from within | 26.00% | ~12 |
+| A rude awakening | 26.00% | ~12 |
+| Anastasia Babanin | 26.00% | ~12 |
+| Zakariya Demir | 26.00% | ~12 |
+| Bartholomew | 26.00% | ~12 |
+| The Scheme | 26.00% | ~12 |
 | A curious phrase | 22.00% | ~10 |
 | Evelyn Lakshmi Warbeck | 22.00% | ~10 |
 | The Suspects | 22.00% | ~10 |
-| Horace Mountjoy | 18.00% | ~8 |
-| Johan Kristiansen | 18.00% | ~8 |
-| The Secrets | 18.00% | ~8 |
-| Well-travelled | 16.00% | ~7 |
-| A peculiar fellow | 16.00% | ~7 |
-| Florence Farquhar | 16.00% | ~7 |
-| Mortimer Ailsworth | 16.00% | ~7 |
-| The Investigation Starts Anew | 16.00% | ~7 |
+| Horace Mountjoy | 17.00% | ~8 |
+| Johan Kristiansen | 17.00% | ~8 |
+| The Secrets | 17.00% | ~8 |
+| Well-travelled | 15.00% | ~7 |
+| A peculiar fellow | 15.00% | ~7 |
+| Florence Farquhar | 15.00% | ~7 |
+| Mortimer Ailsworth | 15.00% | ~7 |
+| The Investigation Starts Anew | 15.00% | ~7 |
 | The Denouement | 13.00% | ~6 |
 | A treasured heirloom | 13.00% | ~6 |
 | A perilous journey | 13.00% | ~6 |
@@ -51,8 +51,8 @@
 | A true performance | 13.00% | ~6 |
 | Perkins | 7.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45 (Ranked 527)  
-Completed: 1 (2.22%) (Ranked 131)  
+Progressed: 46 (Ranked 524)  
+Completed: 1 (2.17%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -93,3 +93,4 @@ Completed: 1 (2.22%) (Ranked 131)
 | 2023-12-14 | 43 | 1 |
 | 2023-12-15 | 44 | 1 |
 | 2023-12-16 | 45 | 1 |
+| 2023-12-17 | 46 | 1 |

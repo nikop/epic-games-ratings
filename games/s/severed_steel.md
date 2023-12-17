@@ -5,32 +5,32 @@ Rating: 4.69 (Ranked 233)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 32.00% | ~217,334 |
-| 50 HEADSHOTS | 29.00% | ~196,959 |
-| SCIENCE AND INDUSTRY | 28.00% | ~190,167 |
-| FINISHED CHAPTER 1 | 27.00% | ~183,375 |
-| FINISHED CHAPTER 2 | 20.00% | ~135,834 |
-| 200 HEADSHOTS | 18.00% | ~122,250 |
-| FINISHED CHAPTER 3 | 17.00% | ~115,459 |
-| FINISHED CHAPTER 4 | 15.00% | ~101,875 |
-| FINISH CHAPTER 5 | 12.00% | ~81,500 |
-| FINISH CHAPTER 6 | 11.00% | ~74,708 |
-| CATHARTIC ESCAPISM | 11.00% | ~74,708 |
-| 1000 KILLS | 9.00% | ~61,125 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,167 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,583 |
-| FIRST BLOOD | 2.00% | ~13,583 |
-| OUT OF ORDER | 1.00% | ~6,792 |
-| PACEMAKER | 1.00% | ~6,792 |
-| TIME PARADOX | 1.00% | ~6,792 |
-| FIREFIGHT LEVEL 30 | 0.90% | ~6,113 |
+| 100 KILLS | 32.00% | ~217,315 |
+| 50 HEADSHOTS | 29.00% | ~196,942 |
+| SCIENCE AND INDUSTRY | 28.00% | ~190,151 |
+| FINISHED CHAPTER 1 | 27.00% | ~183,359 |
+| FINISHED CHAPTER 2 | 20.00% | ~135,822 |
+| 200 HEADSHOTS | 18.00% | ~122,240 |
+| FINISHED CHAPTER 3 | 17.00% | ~115,449 |
+| FINISHED CHAPTER 4 | 15.00% | ~101,866 |
+| FINISH CHAPTER 5 | 12.00% | ~81,493 |
+| FINISH CHAPTER 6 | 11.00% | ~74,702 |
+| CATHARTIC ESCAPISM | 11.00% | ~74,702 |
+| 1000 KILLS | 9.00% | ~61,120 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,164 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,582 |
+| FIRST BLOOD | 2.00% | ~13,582 |
+| OUT OF ORDER | 1.00% | ~6,791 |
+| PACEMAKER | 1.00% | ~6,791 |
+| TIME PARADOX | 1.00% | ~6,791 |
+| FIREFIGHT LEVEL 30 | 0.90% | ~6,112 |
 | PARTYHARD | 0.80% | ~5,433 |
 | NEW GAME PLUS | 0.70% | ~4,754 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,396 |
-| CHURCH | 0.40% | ~2,717 |
-| FIREFIGHT LEVEL 50 | 0.30% | ~2,038 |
-| REMEMBER THE ARMORY | 0.30% | ~2,038 |
-| 5 RUNS | 0.30% | ~2,038 |
+| CHURCH | 0.40% | ~2,716 |
+| FIREFIGHT LEVEL 50 | 0.30% | ~2,037 |
+| REMEMBER THE ARMORY | 0.30% | ~2,037 |
+| 5 RUNS | 0.30% | ~2,037 |
 | CHALET | 0.20% | ~1,358 |
 | FIREFIGHT LEVEL 60 | 0.20% | ~1,358 |
 | SOUL - HORIZONS | 0.20% | ~1,358 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 233)
 | THE GAMBLER | 0.10% | ~679 |
 | WARRIOR IN A GARDEN | 0.10% | ~679 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,168 (Ranked 28)  
+Progressed: 679,109 (Ranked 28)  
 Completed: 70 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,12 +301,12 @@ Completed: 70 (0.01%) (Ranked 356)
 | 2023-12-16 | 680,761 | 70 |
 | 2023-12-17 | 679,829 | 70 |
 ## Awards
-Max (Great Boss Battles): 444  (Ranked 225)  
-Sum: 465 (Ranked 336)  
-Diff (max vs sum): -111  
+Max (Great Boss Battles): 446  (Ranked 224)  
+Sum: 467 (Ranked 336)  
+Diff (max vs sum): -112  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 444 |
+| This game has Great Boss Battles | 446 |
 | This game is Great for Beginners | 21 |
 | This game is Great for Quick Sessions | 21 |
 ## Ratings History
@@ -452,3 +452,4 @@ Diff (max vs sum): -111
 | 2023-12-13 | 4.69 | 442 | 462 |
 | 2023-12-15 | 4.69 | 442 | 463 |
 | 2023-12-16 | 4.69 | 444 | 465 |
+| 2023-12-17 | 4.69 | 446 | 467 |

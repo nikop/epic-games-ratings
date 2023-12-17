@@ -4,8 +4,8 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -683,9 +683,9 @@
       "ID": "interactBerry10",
       "SetID": "ci65fo0",
       "Name": "Gourmand",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "interactChest10",
@@ -763,9 +763,9 @@
       "ID": "killGrave10",
       "SetID": "ci65fo0",
       "Name": "Gravedigger",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "killLeshy30",
@@ -1208,8 +1208,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:09:08.4689071+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:09:54.695187+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.21897+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:57:14.3228563+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:09:08.4689623+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:57:41.276774+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:09:54.6952579+00:00"
 }

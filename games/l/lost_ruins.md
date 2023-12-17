@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Inquisitor | 37.00% | ~203 |
-| Goblin Tales | 29.00% | ~159 |
+| Inquisitor | 37.00% | ~204 |
+| Goblin Tales | 29.00% | ~160 |
 | Bug Hunter | 24.00% | ~132 |
 | Boss Killer | 23.00% | ~126 |
 | The Fallen | 20.00% | ~110 |
@@ -14,18 +14,18 @@
 | Ghost Buster | 15.00% | ~82 |
 | Iconoclasm | 15.00% | ~82 |
 | Reincarnation | 15.00% | ~82 |
-| Librarian | 13.00% | ~71 |
+| Librarian | 13.00% | ~72 |
 | Gladiator | 12.00% | ~66 |
 | Lumberjack | 12.00% | ~66 |
 | Orcs Must Die! | 12.00% | ~66 |
 | The End | 11.00% | ~60 |
 | Troubleshooter | 11.00% | ~60 |
-| Money Swag | 7.00% | ~38 |
-| Oops | 7.00% | ~38 |
-| Shield Crusher | 7.00% | ~38 |
-| Treasure Hunter | 7.00% | ~38 |
+| Money Swag | 7.00% | ~39 |
+| Oops | 7.00% | ~39 |
+| Shield Crusher | 7.00% | ~39 |
+| Treasure Hunter | 7.00% | ~39 |
 | Trio | 6.00% | ~33 |
-| Explorer | 5.00% | ~27 |
+| Explorer | 5.00% | ~28 |
 | Pyromancer | 4.00% | ~22 |
 | Arrive Home | 3.00% | ~16 |
 | Holy Knight | 3.00% | ~16 |
@@ -34,18 +34,18 @@
 | Hoarder | 2.00% | ~11 |
 | Meat Lover | 2.00% | ~11 |
 | Sling of David | 2.00% | ~11 |
-| Roughneck | 1.00% | ~5 |
-| Rune Master | 1.00% | ~5 |
-| Sword Master | 1.00% | ~5 |
-| Weapon Master | 1.00% | ~5 |
-| Witch | 1.00% | ~5 |
+| Roughneck | 1.00% | ~6 |
+| Rune Master | 1.00% | ~6 |
+| Sword Master | 1.00% | ~6 |
+| Weapon Master | 1.00% | ~6 |
+| Witch | 1.00% | ~6 |
 | Assassin | 0.90% | ~5 |
 | Art Collector | 0.50% | ~3 |
 | Necromancer | 0.50% | ~3 |
 | Cryomancer | 0.40% | ~2 |
 | Hardboiled | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 549 (Ranked 322)  
+Progressed: 550 (Ranked 322)  
 Completed: 1 (0.18%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 1 (0.18%) (Ranked 271)
 | 2023-12-14 | 517 | 1 |
 | 2023-12-15 | 529 | 1 |
 | 2023-12-16 | 540 | 1 |
-| 2023-12-17 | 549 | 1 |
+| 2023-12-17 | 550 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

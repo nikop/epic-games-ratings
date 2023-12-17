@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8490,
+  "EOS_Progressed": 8492,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8623,6 +8623,11 @@
       "Time": "2023-12-17T16:09:43.1148009+00:00",
       "NumProgressed": 8490,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T17:10:40.492352+00:00",
+      "NumProgressed": 8492,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8721,9 +8726,9 @@
       "ID": "COLLECT_LOGS",
       "SetID": "9eia0f5",
       "Name": "Lumberjack",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -8978,13 +8983,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8490,
+      "Progressed": 8492,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1107,
+      "Progressed": 1109,
       "Completed": 1050
     }
   ],
@@ -8992,8 +8997,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-15T16:03:24.8361061+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:09:43.1148006+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:10:40.4923517+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:03:01.7092188+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:09:43.1148588+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:03:21.3011231+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:10:40.4924185+00:00"
 }

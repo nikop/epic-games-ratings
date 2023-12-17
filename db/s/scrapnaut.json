@@ -2,13 +2,13 @@
   "ID": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
-  "Ranking_Rating": 866,
+  "Ranking_Rating": 856,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 325,
-  "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.28,
+  "Rating": 4.29,
   "NumberOfRatings": 38,
   "RatingHistory": [
     {
@@ -144,6 +144,12 @@
       "Rating": 4.28,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-17T16:57:21.5175596+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -151,10 +157,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 516,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 23,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.39,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.3117405+00:00",
@@ -1745,6 +1751,11 @@
       "Time": "2023-12-17T16:08:50.8379243+00:00",
       "NumProgressed": 516,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T17:09:30.66157+00:00",
+      "NumProgressed": 516,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 31,
@@ -1810,17 +1821,17 @@
       "ID": "ACH_COLLECT_20_RED_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Master Of Technology",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Blacksmith",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_COLLECT_30_BLUE_BOOKS",
@@ -1962,9 +1973,9 @@
       "ID": "ACH_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Smelter",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -2004,15 +2015,15 @@
       "ID": "7c4cldc",
       "IsBase": true,
       "Progressed": 516,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:32:19.6180607+00:00",
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
-  "LastChanged": "2023-11-17T17:00:24.0955126+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:08:50.8379238+00:00",
+  "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:09:30.6615696+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.762988+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:57:00.2199805+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:08:50.8379454+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:57:21.51756+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:09:30.6615934+00:00"
 }

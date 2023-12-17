@@ -10,12 +10,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overgrown Library | 5.00% | ~925 |
 | Petrified Necropolis | 4.00% | ~740 |
 | Gathering Storm | 4.00% | ~740 |
+| First Real Expedition | 3.00% | ~555 |
 | Taking Action | 3.00% | ~555 |
 | No Deaths | 3.00% | ~555 |
 | Frosts | 3.00% | ~555 |
 | Land of Greed | 3.00% | ~555 |
 | Ominous Presence | 3.00% | ~555 |
-| First Real Expedition | 2.00% | ~370 |
 | Overcoming Difficulty | 2.00% | ~370 |
 | Royal Outpost | 2.00% | ~370 |
 | Coral Forest | 2.00% | ~370 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,501 (Ranked 147)  
+Progressed: 18,506 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,16 +307,16 @@ Completed: 39 (0.21%) (Ranked 263)
 | 2023-12-14 | 18,153 | 40 |
 | 2023-12-15 | 18,272 | 39 |
 | 2023-12-16 | 18,388 | 39 |
-| 2023-12-17 | 18,501 | 40 |
+| 2023-12-17 | 18,506 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 227)  
-Sum: 3,266 (Ranked 174)  
+Sum: 3,267 (Ranked 174)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 442 |
 | This game is Relaxing | 437 |
-| This game is Great for Beginners | 428 |
+| This game is Great for Beginners | 429 |
 | This game is Extremely Fun | 410 |
 | This game is Highly Recommended | 392 |
 | This game has Unique Visuals | 332 |
@@ -583,4 +583,4 @@ Diff (max vs sum): 53
 | 2023-12-14 | 4.82 | - | 442 | 3,258 |
 | 2023-12-15 | 4.82 | - | 442 | 3,262 |
 | 2023-12-16 | 4.82 | - | 442 | 3,264 |
-| 2023-12-17 | 4.82 | - | 442 | 3,266 |
+| 2023-12-17 | 4.82 | - | 442 | 3,267 |

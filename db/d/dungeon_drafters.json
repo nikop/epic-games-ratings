@@ -4,8 +4,8 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107,
+  "EOS_Progressed": 108,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -526,6 +526,11 @@
       "Time": "2023-12-17T12:08:22.4037044+00:00",
       "NumProgressed": 107,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T17:08:17.6648882+00:00",
+      "NumProgressed": 108,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -553,7 +558,7 @@
       "Name": "Treasure Hunting",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "InnkeeperQuestlineLast",
@@ -561,7 +566,7 @@
       "Name": "Braving Miasma",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "InnkeeperQuestlineThird",
@@ -569,7 +574,7 @@
       "Name": "Dungeon Mastery",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "LW_complete",
@@ -601,7 +606,7 @@
       "Name": "Riddlesolver",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "MasterOracleQuestlineLast",
@@ -856,7 +861,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 107,
+      "Progressed": 108,
       "Completed": 0
     }
   ],
@@ -864,8 +869,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:06:18.5429757+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:08:17.6648879+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:00.4120511+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:57:06.112494+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:06:18.5430031+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:57:29.0080858+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:08:17.6649205+00:00"
 }

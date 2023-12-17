@@ -5,17 +5,17 @@ Rating: 4.58 (Ranked 456)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,725 |
-| Mainframe Hacker | 23.00% | ~4,389 |
-| The Spy who eliminated me | 23.00% | ~4,389 |
-| Tomorrow Never Dyes | 22.00% | ~4,198 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,726 |
+| Mainframe Hacker | 23.00% | ~4,390 |
+| The Spy who eliminated me | 23.00% | ~4,390 |
+| Tomorrow Never Dyes | 22.00% | ~4,199 |
 | From the Vault with Love | 18.00% | ~3,435 |
 | Never Say Loser Again | 18.00% | ~3,435 |
 | Tailor-Made | 18.00% | ~3,435 |
 | For your Eyes only | 18.00% | ~3,435 |
 | Assistant Accountant | 17.00% | ~3,244 |
-| You Only Live Twice | 16.00% | ~3,053 |
-| Fully Decked Out | 16.00% | ~3,053 |
+| You Only Live Twice | 16.00% | ~3,054 |
+| Fully Decked Out | 16.00% | ~3,054 |
 | A view to Win | 13.00% | ~2,481 |
 | The Living Portrait | 12.00% | ~2,290 |
 | Smells Like Trouble | 12.00% | ~2,290 |
@@ -25,12 +25,12 @@ Rating: 4.58 (Ranked 456)
 | Hostile Takeover | 11.00% | ~2,099 |
 | Keycards Royale | 10.00% | ~1,908 |
 | Dr. No Kill | 10.00% | ~1,908 |
-| In It to Win It | 9.00% | ~1,717 |
+| In It to Win It | 9.00% | ~1,718 |
 | Security Supervisor | 6.00% | ~1,145 |
 | License to Thrill | 5.00% | ~954 |
 | Social of Solace | 4.00% | ~763 |
-| Live and let lie | 3.00% | ~572 |
-| Safe Withdrawal | 3.00% | ~572 |
+| Live and let lie | 3.00% | ~573 |
+| Safe Withdrawal | 3.00% | ~573 |
 | Branch Manager | 2.00% | ~382 |
 | Call Me Maybe | 2.00% | ~382 |
 | PHD in VIP | 2.00% | ~382 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 456)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,083 (Ranked 146)  
+Progressed: 19,085 (Ranked 146)  
 Completed: 4 (0.02%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 4 (0.02%) (Ranked 348)
 | 2023-12-14 | 19,048 | 4 |
 | 2023-12-15 | 19,057 | 4 |
 | 2023-12-16 | 19,070 | 4 |
-| 2023-12-17 | 19,083 | 4 |
+| 2023-12-17 | 19,085 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

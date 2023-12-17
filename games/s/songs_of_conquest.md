@@ -6,14 +6,14 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 40.00% | ~213 |
-| Double Kill | 32.00% | ~171 |
+| Adept | 40.00% | ~214 |
+| Double Kill | 32.00% | ~172 |
 | Critical Hit | 18.00% | ~96 |
-| Veteran | 16.00% | ~85 |
+| Veteran | 17.00% | ~91 |
 | Dressed For Success | 11.00% | ~59 |
 | Humiliation | 8.00% | ~43 |
-| Sorcerous Spree | 7.00% | ~37 |
-| Veni, Vidi, Vici | 7.00% | ~37 |
+| Sorcerous Spree | 7.00% | ~38 |
+| Veni, Vidi, Vici | 7.00% | ~38 |
 | Multi Kill | 6.00% | ~32 |
 | Landlord Extraordinaire | 6.00% | ~32 |
 | Master | 5.00% | ~27 |
@@ -24,15 +24,15 @@ Number of Ratings: 292  (23.09.2022)
 | Expert Essence Employment | 3.00% | ~16 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~16 |
 | This Spot's Taken | 2.00% | ~11 |
-| Versatile Wielder | 2.00% | ~11 |
 | Deepstrike | 2.00% | ~11 |
 | Pyrrhic Victory | 2.00% | ~11 |
+| Versatile Wielder | 1.00% | ~5 |
 | Infernal Influence | 1.00% | ~5 |
 | Such A Fungi | 1.00% | ~5 |
 | Ultra Kill | 1.00% | ~5 |
 | From the Ashes | 0.90% | ~5 |
 | Grand Master | 0.90% | ~5 |
-| Get Over Here! | 0.80% | ~4 |
+| Get Over Here! | 0.70% | ~4 |
 | Death To Diplomacy | 0.60% | ~3 |
 | Unlimited Power! | 0.60% | ~3 |
 | Together For Her | 0.60% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533 (Ranked 324)  
+Progressed: 536 (Ranked 324)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 474 | 0 |
 | 2023-12-15 | 488 | 0 |
 | 2023-12-16 | 515 | 0 |
-| 2023-12-17 | 533 | 0 |
+| 2023-12-17 | 536 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 519)  
 Sum: 194 (Ranked 411)  

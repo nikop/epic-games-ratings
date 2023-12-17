@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -961,9 +961,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7115,
+  "EOS_Progressed": 7120,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11391,6 +11391,11 @@
       "Time": "2023-12-17T16:04:59.0407497+00:00",
       "NumProgressed": 7115,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T17:06:03.8142755+00:00",
+      "NumProgressed": 7120,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11402,7 +11407,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -11434,7 +11439,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -11456,9 +11461,9 @@
       "ID": "ACHIEVEMENT_008",
       "SetID": "1a05lfd",
       "Name": "Scaling up",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 427
+      "UsersEstimate": 498
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -11466,7 +11471,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -11704,9 +11709,9 @@
       "ID": "ACHIEVEMENT_040",
       "SetID": "6jk25od",
       "Name": "All Good Kings Must Come to an End",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_041",
@@ -11721,13 +11726,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7115,
+      "Progressed": 7120,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6487,
+      "Progressed": 6492,
       "Completed": 113
     }
   ],
@@ -11735,8 +11740,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-15T01:46:12.7842715+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:04:59.0407495+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:06:03.8142752+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:58:36.7122614+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:04:59.0408239+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:59:41.8606279+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:06:03.814349+00:00"
 }

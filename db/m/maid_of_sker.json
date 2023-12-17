@@ -4,8 +4,8 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 232,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -540,6 +540,11 @@
       "Time": "2023-12-17T12:05:57.0872665+00:00",
       "NumProgressed": 231,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T17:05:53.8139175+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -589,9 +594,9 @@
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 102
     },
     {
       "ID": "dodgy_geezer",
@@ -790,7 +795,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 232,
       "Completed": 0
     }
   ],
@@ -798,8 +803,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:04:51.5440681+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:05:53.8139171+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:12.385492+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:57:17.8902723+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:04:51.5440903+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:57:46.3780697+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:05:53.8139403+00:00"
 }

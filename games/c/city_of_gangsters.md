@@ -1,25 +1,25 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 855)  
+Rating: 4.29 (Ranked 856)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~164,257 |
-| Copacetic Coordination | 16.00% | ~57,133 |
-| Fronting the Money | 15.00% | ~53,562 |
-| The Dawn of Automation | 14.00% | ~49,991 |
-| Extraordinary Logistics | 14.00% | ~49,991 |
+| Corner Clout | 46.00% | ~164,260 |
+| Copacetic Coordination | 16.00% | ~57,134 |
+| Fronting the Money | 15.00% | ~53,563 |
+| The Dawn of Automation | 14.00% | ~49,992 |
+| Extraordinary Logistics | 14.00% | ~49,992 |
 | Dirty Money | 13.00% | ~46,421 |
 | Family First | 13.00% | ~46,421 |
 | Cleaning House | 12.00% | ~42,850 |
 | Room in the Back | 12.00% | ~42,850 |
-| Beating the Heat | 11.00% | ~39,279 |
-| Booze Baron | 11.00% | ~39,279 |
-| Friends on the Force | 10.00% | ~35,708 |
-| Neighborhood Watch | 10.00% | ~35,708 |
-| Core Corps | 8.00% | ~28,566 |
-| Sizeable Stash | 8.00% | ~28,566 |
+| Beating the Heat | 11.00% | ~39,280 |
+| Booze Baron | 11.00% | ~39,280 |
+| Friends on the Force | 10.00% | ~35,709 |
+| Neighborhood Watch | 10.00% | ~35,709 |
+| Core Corps | 8.00% | ~28,567 |
+| Sizeable Stash | 8.00% | ~28,567 |
 | Street Fighter | 7.00% | ~24,996 |
 | Friendly Gestures | 7.00% | ~24,996 |
 | People Person | 7.00% | ~24,996 |
@@ -42,12 +42,12 @@ Rating: 4.29 (Ranked 855)
 | Friends from Back Home | 4.00% | ~14,283 |
 | Bees Knees Bootlegger | 4.00% | ~14,283 |
 | Half Century Mark | 4.00% | ~14,283 |
-| Corner Opportunities | 3.00% | ~10,712 |
-| 2122 North Clark Street | 3.00% | ~10,712 |
-| Copious Cabbage | 3.00% | ~10,712 |
-| Sockdolager | 3.00% | ~10,712 |
-| Still Stalwart | 3.00% | ~10,712 |
-| Tighten the Screws | 3.00% | ~10,712 |
+| Corner Opportunities | 3.00% | ~10,713 |
+| 2122 North Clark Street | 3.00% | ~10,713 |
+| Copious Cabbage | 3.00% | ~10,713 |
+| Sockdolager | 3.00% | ~10,713 |
+| Still Stalwart | 3.00% | ~10,713 |
+| Tighten the Screws | 3.00% | ~10,713 |
 | One of Us | 2.00% | ~7,142 |
 | Baker’s Dozen | 2.00% | ~7,142 |
 | Dropping the Dime | 2.00% | ~7,142 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 855)
 | High Pillow | 0.10% | ~357 |
 | Station Master | 0.10% | ~357 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 357,081 (Ranked 49)  
+Progressed: 357,087 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 7 (0.00%) (Ranked 380)
 | 2023-12-14 | 356,633 | 7 |
 | 2023-12-15 | 356,779 | 7 |
 | 2023-12-16 | 356,959 | 7 |
-| 2023-12-17 | 357,081 | 7 |
+| 2023-12-17 | 357,087 | 7 |
 ## Awards
 Max (Great for Beginners): 52  (Ranked 433)  
 Sum: 252 (Ranked 386)  

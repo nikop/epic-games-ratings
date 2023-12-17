@@ -9,11 +9,11 @@
 | First to the post | 82.00% | ~47 |
 | A kind of Magic | 81.00% | ~46 |
 | Connected | 74.00% | ~42 |
-| Expansion | 70.00% | ~40 |
+| Expansion | 72.00% | ~41 |
 | Harvest Time | 65.00% | ~37 |
-| Mine! | 61.00% | ~35 |
+| Mine! | 63.00% | ~36 |
 | Artificer's Apprentice | 60.00% | ~34 |
-| Fly the friendly Sky | 49.00% | ~28 |
+| Fly the friendly Sky | 51.00% | ~29 |
 | Necromancer's Apprentice | 47.00% | ~27 |
 | Get out of here! | 47.00% | ~27 |
 | The Circle | 42.00% | ~24 |

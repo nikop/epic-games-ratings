@@ -5,19 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Might be useful… | 37.00% | ~40 |
-| Treasure Hunting | 35.00% | ~37 |
+| Treasure Hunting | 35.00% | ~38 |
 | Shine! | 30.00% | ~32 |
 | Friend! | 29.00% | ~31 |
 | Uncut Gem | 29.00% | ~31 |
 | Clear as Water | 25.00% | ~27 |
 | Setting Off | 24.00% | ~26 |
 | Card Collector | 23.00% | ~25 |
-| Riddlesolver | 21.00% | ~22 |
-| Dungeon Mastery | 19.00% | ~20 |
+| Riddlesolver | 21.00% | ~23 |
+| Dungeon Mastery | 19.00% | ~21 |
 | The Steed | 9.00% | ~10 |
 | A Strange Proposition | 9.00% | ~10 |
 | Card Completionist | 8.00% | ~9 |
-| Braving Miasma | 7.00% | ~7 |
+| Braving Miasma | 7.00% | ~8 |
 | The Bodyguard | 6.00% | ~6 |
 | The Apprentice | 6.00% | ~6 |
 | The Familiar | 6.00% | ~6 |
@@ -45,7 +45,7 @@
 | Gladiator | 0.90% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107 (Ranked 453)  
+Progressed: 108 (Ranked 453)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-11-28 | 97 | 0 |
 | 2023-12-14 | 101 | 0 |
 | 2023-12-16 | 104 | 0 |
-| 2023-12-17 | 107 | 0 |
+| 2023-12-17 | 108 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

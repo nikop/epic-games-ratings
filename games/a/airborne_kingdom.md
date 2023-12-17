@@ -1,7 +1,7 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 318)  
+Rating: 4.65 (Ranked 319)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,12 +11,12 @@ Number of Ratings: 74  (23.09.2022)
 | Fields Watered | 41.00% | ~3,127 |
 | Seekers Found | 41.00% | ~3,127 |
 | Settling the Skies | 41.00% | ~3,127 |
-| Wind Powered | 40.00% | ~3,050 |
+| Wind Powered | 40.00% | ~3,051 |
 | It Takes a Village | 34.00% | ~2,593 |
-| On the Town | 28.00% | ~2,135 |
+| On the Town | 28.00% | ~2,136 |
 | Daylight Found | 26.00% | ~1,983 |
-| Irons Scorched | 25.00% | ~1,906 |
-| Islands Connected | 25.00% | ~1,906 |
+| Irons Scorched | 25.00% | ~1,907 |
+| Islands Connected | 25.00% | ~1,907 |
 | Harp Tuned | 23.00% | ~1,754 |
 | Pyre Ignited | 23.00% | ~1,754 |
 | Travelers Returned | 23.00% | ~1,754 |
@@ -25,8 +25,8 @@ Number of Ratings: 74  (23.09.2022)
 | Relic Finder | 20.00% | ~1,525 |
 | Worthy of the Title | 19.00% | ~1,449 |
 | A Peaceful Respite | 14.00% | ~1,068 |
-| A Learned Scholar | 13.00% | ~991 |
-| Prophecy Fulfilled | 13.00% | ~991 |
+| A Learned Scholar | 13.00% | ~992 |
+| Prophecy Fulfilled | 13.00% | ~992 |
 | A Wanderer’s Guide | 11.00% | ~839 |
 | Knowledge Seeker | 6.00% | ~458 |
 | The Cycle Continues | 3.00% | ~229 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~153 |
 | A True Challenge | 2.00% | ~153 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,626 (Ranked 182)  
+Progressed: 7,627 (Ranked 182)  
 Completed: 58 (0.76%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 58 (0.76%) (Ranked 188)
 | 2023-12-14 | 7,610 | 58 |
 | 2023-12-15 | 7,616 | 58 |
 | 2023-12-16 | 7,622 | 58 |
-| 2023-12-17 | 7,626 | 58 |
+| 2023-12-17 | 7,627 | 58 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

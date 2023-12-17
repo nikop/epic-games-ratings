@@ -4,8 +4,8 @@
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -350,9 +350,9 @@
       "ID": "GunUnlock",
       "SetID": "9e3d06k",
       "Name": "Symbiotic Weapon",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Headshots_0",
@@ -406,9 +406,9 @@
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "SecretEnding",
@@ -479,8 +479,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:04:42.6687977+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:05:41.7608465+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:43.8867802+00:00",
-  "LastUpdate_Ratings": "2023-12-17T15:58:39.9319393+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:04:42.6688144+00:00"
+  "LastUpdate_Ratings": "2023-12-17T16:59:46.6962743+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:05:41.7608621+00:00"
 }

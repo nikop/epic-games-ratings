@@ -1,12 +1,12 @@
 # Rogue Legacy 2
 [Store](https://store.epicgames.com/en-US/p/rogue-legacy-2)  
 [View Rawdata](../../db/r/rogue_legacy_2.json)  
-Rating: 4.85 (Ranked 45)  
+Rating: 4.85 (Ranked 46)  
 Number of Ratings: 1,331  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spells and Swords | 4.00% | ~1,006 |
+| Spells and Swords | 4.00% | ~1,007 |
 | Captain and Crew | 3.00% | ~755 |
 | No Harm in Looking | 3.00% | ~755 |
 | Harvest and Home | 2.00% | ~503 |
@@ -25,12 +25,12 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Survival | 0.40% | ~101 |
 | For Love | 0.40% | ~101 |
 | Jack of all Trades | 0.40% | ~101 |
-| For Wrath | 0.30% | ~75 |
-| For Pride | 0.30% | ~75 |
-| K.O. | 0.30% | ~75 |
-| Just the Beginning | 0.30% | ~75 |
-| Wasted Betrayal | 0.30% | ~75 |
-| Color Coordination | 0.30% | ~75 |
+| For Wrath | 0.30% | ~76 |
+| For Pride | 0.30% | ~76 |
+| K.O. | 0.30% | ~76 |
+| Just the Beginning | 0.30% | ~76 |
+| Wasted Betrayal | 0.30% | ~76 |
+| Color Coordination | 0.30% | ~76 |
 | Black-shoppe | 0.20% | ~50 |
 | For Greed | 0.20% | ~50 |
 | For Penance | 0.20% | ~50 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,161 (Ranked 138)  
+Progressed: 25,171 (Ranked 138)  
 Completed: 35 (0.14%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 35 (0.14%) (Ranked 285)
 | 2023-12-14 | 24,104 | 35 |
 | 2023-12-15 | 24,454 | 35 |
 | 2023-12-16 | 24,777 | 35 |
-| 2023-12-17 | 25,161 | 35 |
+| 2023-12-17 | 25,171 | 35 |
 ## Awards
 Max (Extremely Fun): 223  (Ranked 283)  
 Sum: 1,704 (Ranked 225)  

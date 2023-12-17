@@ -4,8 +4,8 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 128,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -502,17 +502,17 @@
       "ID": "Aristocratic",
       "SetID": "4bd750m",
       "Name": "Aristocratic",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Botropolis",
       "SetID": "4bd750m",
       "Name": "Botropolis",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ClickEmAll",
@@ -526,17 +526,17 @@
       "ID": "ConductedTrade",
       "SetID": "4bd750m",
       "Name": "Conducted Trade",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 81
     },
     {
       "ID": "DiggingAHole",
       "SetID": "4bd750m",
       "Name": "Digging a Hole",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "DopaMiner",
@@ -550,17 +550,17 @@
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "GottaGoFast",
       "SetID": "4bd750m",
       "Name": "Gotta Go Fast",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 90,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "ImALumberbot",
@@ -582,9 +582,9 @@
       "ID": "ItsYoursMyFriend",
       "SetID": "4bd750m",
       "Name": "It\u0027s Yours, My Friend",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ManicMechanic",
@@ -725,8 +725,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-17T16:05:58.1028066+00:00",
+  "LastChanged_Achievements": "2023-12-17T17:07:20.6167809+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.7183942+00:00",
-  "LastUpdate_Ratings": "2023-12-17T16:03:01.9659511+00:00",
-  "LastUpdate_Achievements": "2023-12-17T16:05:58.1028252+00:00"
+  "LastUpdate_Ratings": "2023-12-17T17:03:21.6484587+00:00",
+  "LastUpdate_Achievements": "2023-12-17T17:07:20.6167966+00:00"
 }
