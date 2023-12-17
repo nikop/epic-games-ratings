@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -633,9 +633,9 @@
       "ID": "ach-firstExpedition",
       "SetID": "17ih7ma",
       "Name": "The Adventure Begins",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 227
     },
     {
       "ID": "ach-hardExpeditions",
@@ -801,9 +801,9 @@
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 114
     },
     {
       "ID": "ach-redElk",
@@ -898,8 +898,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-17T05:10:35.4584596+00:00",
+  "LastChanged_Achievements": "2023-12-17T06:09:51.5384221+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-17T04:58:15.0058085+00:00",
-  "LastUpdate_Achievements": "2023-12-17T05:10:35.4585057+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:57:57.4999692+00:00",
+  "LastUpdate_Achievements": "2023-12-17T06:09:51.5384938+00:00"
 }

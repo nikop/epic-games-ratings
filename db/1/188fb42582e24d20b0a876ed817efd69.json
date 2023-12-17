@@ -2,9 +2,9 @@
   "ID": "188fb42582e24d20b0a876ed817efd69",
   "Name": "SOULVARS",
   "ProductSlug": "soulvars-e95ea5",
-  "Ranking_EOS_Progress": 799,
+  "Ranking_EOS_Progress": 800,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-06-26T18:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-07-01T15:57:28.7704335+00:00",
   "FirstSeenAchievements": "2023-05-20T11:01:05.4884846+00:00",
-  "LastChanged_Achievements": "2023-12-17T05:05:17.6733807+00:00",
+  "LastChanged_Achievements": "2023-12-17T06:04:35.1027545+00:00",
   "LastUpdate_AppInfo": "2023-12-10T07:56:50.0640792+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:00:30.2119942+00:00",
-  "LastUpdate_Achievements": "2023-12-17T05:05:17.6733824+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:59:33.1942984+00:00",
+  "LastUpdate_Achievements": "2023-12-17T06:04:35.1027572+00:00"
 }

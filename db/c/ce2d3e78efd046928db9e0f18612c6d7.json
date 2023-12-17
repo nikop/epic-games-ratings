@@ -2,10 +2,10 @@
   "ID": "ce2d3e78efd046928db9e0f18612c6d7",
   "Name": "Hanoi Puzzles - Solid Match",
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
-  "Ranking_EOS_Progress": 477,
-  "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Progress": 475,
+  "Ranking_EOS_Completed": 34,
+  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
     "PcReleaseDate": "2020-12-16T14:30:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84,
-  "EOS_Completed": 11,
-  "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 13.1,
+  "EOS_Progressed": 85,
+  "EOS_Completed": 12,
+  "EOS_NewPlayers": 3,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 14.12,
   "EosHistory": [
     {
       "Time": "2023-11-02T21:11:02.0754149+00:00",
@@ -434,6 +434,11 @@
       "Time": "2023-12-15T01:59:12.971564+00:00",
       "NumProgressed": 84,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-17T06:09:43.1750567+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-11-02T15:09:10.4117013+00:00",
@@ -446,13 +451,13 @@
       "Name": "First tower built",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "02_ACHIEVEMENT_Level_10",
       "SetID": "6opd2eg",
       "Name": "Hanoi beginner",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 10,
       "UsersEstimate": 63
     },
@@ -524,23 +529,23 @@
       "ID": "11_ACHIEVEMENT_Shortcut_Master",
       "SetID": "6opd2eg",
       "Name": "Shortcut Master",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 200,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "6opd2eg",
       "IsBase": true,
-      "Progressed": 84,
-      "Completed": 11
+      "Progressed": 85,
+      "Completed": 12
     }
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-12-17T05:10:24.779668+00:00",
+  "LastChanged_Achievements": "2023-12-17T06:09:43.1750564+00:00",
   "LastUpdate_AppInfo": "2023-12-12T07:57:15.5906005+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:01:17.9775721+00:00",
-  "LastUpdate_Achievements": "2023-12-17T05:10:24.779681+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:00:05.8133546+00:00",
+  "LastUpdate_Achievements": "2023-12-17T06:09:43.1750649+00:00"
 }

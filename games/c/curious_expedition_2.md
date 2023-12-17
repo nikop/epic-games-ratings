@@ -6,7 +6,7 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 63.00% | ~224 |
+| The Adventure Begins | 64.00% | ~227 |
 | Cartographer | 56.00% | ~199 |
 | A Strange Artefact | 52.00% | ~185 |
 | Insomnia | 48.00% | ~170 |
@@ -16,7 +16,7 @@ Number of Ratings: 20  (23.09.2022)
 | Spooky! | 36.00% | ~128 |
 | Shennong Herbalist | 34.00% | ~121 |
 | Treasure Hunt | 34.00% | ~121 |
-| Good Mama | 31.00% | ~110 |
+| Good Mama | 32.00% | ~114 |
 | O Captain My Captain | 30.00% | ~106 |
 | Plunderer | 28.00% | ~99 |
 | Taxonomist | 27.00% | ~96 |

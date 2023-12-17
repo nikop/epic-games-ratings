@@ -8,7 +8,7 @@
 | Purification Pioneer | 67.00% | ~111 |
 | Mechanical Buddy | 62.00% | ~103 |
 | Dicesmithing Time! | 55.00% | ~91 |
-| Sanctuary Guardian | 49.00% | ~81 |
+| Sanctuary Guardian | 50.00% | ~83 |
 | Endless Tricks | 48.00% | ~80 |
 | Wild's Keeper | 43.00% | ~71 |
 | Mind Illuminator | 41.00% | ~68 |

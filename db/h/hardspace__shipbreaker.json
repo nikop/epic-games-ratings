@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -303,9 +303,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 985,
+  "EOS_Progressed": 986,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2088,6 +2088,11 @@
       "Time": "2023-12-16T09:08:54.0803319+00:00",
       "NumProgressed": 985,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T06:09:05.0656849+00:00",
+      "NumProgressed": 986,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2147,7 +2152,7 @@
       "Name": "A Tucked Tale",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_BEST_THING_MONEY_CAN_BUY",
@@ -2155,7 +2160,7 @@
       "Name": "The best thing money can buy",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_BING_BANG_BOOM",
@@ -2179,7 +2184,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -2233,9 +2238,9 @@
       "ID": "ACH_ITS_HEATING_UP",
       "SetID": "108h92c",
       "Name": "It\u2019s Heating up!",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 690
+      "UsersEstimate": 680
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2259,7 +2264,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2314,7 +2319,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 985,
+      "Progressed": 986,
       "Completed": 0
     }
   ],
@@ -2322,8 +2327,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-11-20T03:58:42.1118377+00:00",
-  "LastChanged_Achievements": "2023-12-17T05:09:30.414615+00:00",
+  "LastChanged_Achievements": "2023-12-17T06:09:05.0656846+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:08.6185668+00:00",
-  "LastUpdate_Ratings": "2023-12-17T04:58:30.4813316+00:00",
-  "LastUpdate_Achievements": "2023-12-17T05:09:30.4146463+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:58:09.3382309+00:00",
+  "LastUpdate_Achievements": "2023-12-17T06:09:05.0657078+00:00"
 }

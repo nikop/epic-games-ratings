@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,678 |
-| Basic in Bulk | 8.00% | ~11,678 |
-| Titan's First Steps | 8.00% | ~11,678 |
+| Sponsored by Argon | 8.00% | ~11,679 |
+| Basic in Bulk | 8.00% | ~11,679 |
+| Titan's First Steps | 8.00% | ~11,679 |
 | Tinkle of Coins | 7.00% | ~10,219 |
 | Disintermediation | 6.00% | ~8,759 |
 | Capitalism Ho! | 6.00% | ~8,759 |
@@ -21,22 +21,22 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 4.00% | ~5,839 |
 | Through Repetition, Perfection | 4.00% | ~5,839 |
 | Own the Means of Production | 4.00% | ~5,839 |
-| The Daily Grind | 3.00% | ~4,379 |
-| On the Path to Greatness | 3.00% | ~4,379 |
-| Ascended | 3.00% | ~4,379 |
-| Vanity, Verily | 3.00% | ~4,379 |
-| Bounty Hunters | 3.00% | ~4,379 |
-| Blank Page Syndrome | 3.00% | ~4,379 |
-| Demand for Supplies | 3.00% | ~4,379 |
-| Flooding the Market | 3.00% | ~4,379 |
-| Where it Hurts | 3.00% | ~4,379 |
-| Efficient Floor Space | 3.00% | ~4,379 |
-| Gem Expert | 3.00% | ~4,379 |
-| Gild-Gotten Goods | 3.00% | ~4,379 |
-| Accomplished Merchant | 3.00% | ~4,379 |
-| Dungeon Imports | 3.00% | ~4,379 |
-| Did we pack lunch? | 3.00% | ~4,379 |
-| Arcane Industries | 3.00% | ~4,379 |
+| The Daily Grind | 3.00% | ~4,380 |
+| On the Path to Greatness | 3.00% | ~4,380 |
+| Ascended | 3.00% | ~4,380 |
+| Vanity, Verily | 3.00% | ~4,380 |
+| Bounty Hunters | 3.00% | ~4,380 |
+| Blank Page Syndrome | 3.00% | ~4,380 |
+| Demand for Supplies | 3.00% | ~4,380 |
+| Flooding the Market | 3.00% | ~4,380 |
+| Where it Hurts | 3.00% | ~4,380 |
+| Efficient Floor Space | 3.00% | ~4,380 |
+| Gem Expert | 3.00% | ~4,380 |
+| Gild-Gotten Goods | 3.00% | ~4,380 |
+| Accomplished Merchant | 3.00% | ~4,380 |
+| Dungeon Imports | 3.00% | ~4,380 |
+| Did we pack lunch? | 3.00% | ~4,380 |
+| Arcane Industries | 3.00% | ~4,380 |
 | A Notch Above the Rest | 2.00% | ~2,920 |
 | Cream of the Crop | 2.00% | ~2,920 |
 | Proud Paladin | 2.00% | ~2,920 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~584 |
 | Capitalist Camaraderie | 0.20% | ~292 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,979 (Ranked 80)  
+Progressed: 145,986 (Ranked 80)  
 Completed: 319 (0.22%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -360,7 +360,7 @@ Completed: 319 (0.22%) (Ranked 259)
 | 2023-12-14 | 145,474 | 307 |
 | 2023-12-15 | 145,699 | 316 |
 | 2023-12-16 | 145,933 | 319 |
-| 2023-12-17 | 145,979 | 319 |
+| 2023-12-17 | 145,986 | 319 |
 ## Awards
 Max (Great for Beginners): 4,896  (Ranked 75)  
 Sum: 27,754 (Ranked 51)  

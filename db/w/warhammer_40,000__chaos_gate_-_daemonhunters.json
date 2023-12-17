@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3436,
+  "EOS_Progressed": 3438,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4360,6 +4360,11 @@
       "Time": "2023-12-17T05:05:00.7750071+00:00",
       "NumProgressed": 3436,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T06:04:23.0580627+00:00",
+      "NumProgressed": 3438,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4435,7 +4440,7 @@
       "Name": "Patron of Deimos",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Dominus",
@@ -4459,7 +4464,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ExtractorSkullUses",
@@ -4467,7 +4472,7 @@
       "Name": "Surgical Excision",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -4521,9 +4526,9 @@
       "ID": "KadexCaptured",
       "SetID": "3jha1np",
       "Name": "Daemonkeeper",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 69
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -4579,7 +4584,7 @@
       "Name": "Friendly Fire",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Kills_Interactable",
@@ -4635,7 +4640,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -4739,7 +4744,7 @@
       "Name": "A Foul Creche",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -4771,7 +4776,7 @@
       "Name": "Engine Kill",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ReaperDefeated_Mortus",
@@ -4779,7 +4784,7 @@
       "Name": "Harvest No More",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ReaperDefeated_Necrosus",
@@ -4817,9 +4822,9 @@
       "ID": "SkilledKnight",
       "SetID": "3jha1np",
       "Name": "True Mastery",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "StrategicCommand",
@@ -4914,21 +4919,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3436,
+      "Progressed": 3438,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3436,
+      "Progressed": 3438,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-17T05:05:00.7750068+00:00",
+  "LastChanged_Achievements": "2023-12-17T06:04:23.0580625+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.7152084+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:03:15.3476819+00:00",
-  "LastUpdate_Achievements": "2023-12-17T05:05:00.775071+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:03:07.7189497+00:00",
+  "LastUpdate_Achievements": "2023-12-17T06:04:23.0581595+00:00"
 }

@@ -24,16 +24,16 @@ Number of Ratings: 90  (23.09.2022)
 | Transmitting From Sol-3 | 6.00% | ~6 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 6.00% | ~6 |
 | Dusted | 6.00% | ~6 |
-| Fly Me to the Moon Base | 4.00% | ~4 |
+| Fly Me to the Moon Base | 5.00% | ~5 |
 | Kaijuiced | 4.00% | ~4 |
 | Scuttled | 4.00% | ~4 |
 | Lobster Blisque | 2.00% | ~2 |
+| Deincarnated | 2.00% | ~2 |
 | Yettisoned | 2.00% | ~2 |
 | Re-Return of the Clone of the Invasion II-2 | 2.00% | ~2 |
 | Arkvoodle Doodle | 2.00% | ~2 |
 | Arty Facts | 1.00% | ~1 |
 | Forbidden Donut | 1.00% | ~1 |
-| Deincarnated | 1.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
 | PK Slam Dunk | 0.00% | ~0 |
 | Gotta Catch All the Pop Art | 0.00% | ~0 |

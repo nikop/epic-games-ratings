@@ -129,7 +129,7 @@
   "Tags": [],
   "EOS_Progressed": 1215,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.55,
   "EosHistory": [
@@ -4191,9 +4191,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 753
+      "UsersEstimate": 765
     },
     {
       "ID": "MQ01_2",
@@ -4424,8 +4424,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-14T11:03:29.6730885+00:00",
-  "LastChanged_Achievements": "2023-12-17T05:05:32.8785207+00:00",
+  "LastChanged_Achievements": "2023-12-17T06:04:46.1096676+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:03:15.7061819+00:00",
-  "LastUpdate_Achievements": "2023-12-17T05:05:32.8785607+00:00"
+  "LastUpdate_Ratings": "2023-12-17T06:03:07.9578926+00:00",
+  "LastUpdate_Achievements": "2023-12-17T06:04:46.1097129+00:00"
 }

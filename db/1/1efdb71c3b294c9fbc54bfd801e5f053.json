@@ -2,9 +2,9 @@
   "ID": "1efdb71c3b294c9fbc54bfd801e5f053",
   "Name": "Mars4",
   "ProductSlug": "mars4-d7e8b4",
-  "Ranking_EOS_Progress": 799,
+  "Ranking_EOS_Progress": 800,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.9851802+00:00",
-  "LastUpdate_Ratings": "2023-12-17T04:57:09.0006424+00:00",
-  "LastUpdate_Achievements": "2023-12-17T05:10:06.734351+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:57:12.4397292+00:00",
+  "LastUpdate_Achievements": "2023-12-17T06:09:30.5264977+00:00"
 }

@@ -1,27 +1,27 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.31 (Ranked 843)  
+Rating: 4.31 (Ranked 842)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 71.00% | ~157,898 |
-| Doubled Pawn | 57.00% | ~126,763 |
-| Check | 55.00% | ~122,315 |
-| Absolute pin | 47.00% | ~104,524 |
-| Promotion | 31.00% | ~68,941 |
-| Checkmate | 30.00% | ~66,717 |
-| O-O | 24.00% | ~53,374 |
-| Spanish Bishop | 21.00% | ~46,702 |
-| Queen Sacrifice | 20.00% | ~44,478 |
-| Stalemate | 18.00% | ~40,030 |
+| Chop Wood | 71.00% | ~157,900 |
+| Doubled Pawn | 57.00% | ~126,765 |
+| Check | 55.00% | ~122,317 |
+| Absolute pin | 47.00% | ~104,525 |
+| Promotion | 31.00% | ~68,942 |
+| Checkmate | 30.00% | ~66,718 |
+| O-O | 24.00% | ~53,375 |
+| Spanish Bishop | 21.00% | ~46,703 |
+| Queen Sacrifice | 20.00% | ~44,479 |
+| Stalemate | 18.00% | ~40,031 |
 | O-O-O | 13.00% | ~28,911 |
 | Octopus | 13.00% | ~28,911 |
 | Stranger Danger | 12.00% | ~26,687 |
 | En Passant | 9.00% | ~20,015 |
-| Double Check | 7.00% | ~15,567 |
-| Family Fork | 6.00% | ~13,343 |
-| Piece Collector | 6.00% | ~13,343 |
+| Double Check | 7.00% | ~15,568 |
+| Family Fork | 6.00% | ~13,344 |
+| Piece Collector | 6.00% | ~13,344 |
 | ELO | 5.00% | ~11,120 |
 | Friendly Fire | 5.00% | ~11,120 |
 | Underpromote | 4.00% | ~8,896 |
@@ -44,7 +44,7 @@ Rating: 4.31 (Ranked 843)
 | Tournament Master | 0.10% | ~222 |
 | Tournament Pro | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,391 (Ranked 71)  
+Progressed: 222,394 (Ranked 71)  
 Completed: 2 (0.00%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 2 (0.00%) (Ranked 379)
 | 2023-12-14 | 222,006 | 2 |
 | 2023-12-15 | 222,175 | 2 |
 | 2023-12-16 | 222,362 | 2 |
-| 2023-12-17 | 222,391 | 2 |
+| 2023-12-17 | 222,394 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

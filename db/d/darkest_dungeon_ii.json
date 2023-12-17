@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9810,9 +9810,9 @@
       "Count": 1018
     }
   ],
-  "EOS_Progressed": 127896,
+  "EOS_Progressed": 127909,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1921,
+  "EOS_NewPlayers": 1931,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35425,6 +35425,11 @@
       "Time": "2023-12-17T05:09:24.4470038+00:00",
       "NumProgressed": 127896,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T06:09:00.7470594+00:00",
+      "NumProgressed": 127909,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35866,9 +35871,9 @@
       "ID": "relationships_all_positive_mountain",
       "SetID": "64l4lke",
       "Name": "Utopia",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1151
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -36020,7 +36025,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -36044,7 +36049,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -36067,21 +36072,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 127896,
+      "Progressed": 127909,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2765,
+      "Progressed": 2778,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-17T01:50:35.302696+00:00",
-  "LastChanged_Achievements": "2023-12-17T05:09:24.4470036+00:00",
+  "LastChanged_Achievements": "2023-12-17T06:09:00.7470592+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-17T04:57:59.8985366+00:00",
-  "LastUpdate_Achievements": "2023-12-17T05:09:24.4471753+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:57:47.7659233+00:00",
+  "LastUpdate_Achievements": "2023-12-17T06:09:00.7472348+00:00"
 }

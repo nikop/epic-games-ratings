@@ -5657,9 +5657,9 @@
       "ID": "achLandscape",
       "SetID": "dgl390n",
       "Name": "Sculpturer",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 964
+      "UsersEstimate": 984
     },
     {
       "ID": "achLongestTrain",
@@ -5833,8 +5833,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-12-16T13:58:31.345825+00:00",
-  "LastChanged_Achievements": "2023-12-17T05:07:15.9521475+00:00",
+  "LastChanged_Achievements": "2023-12-17T06:06:02.4989677+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:42.3173295+00:00",
-  "LastUpdate_Ratings": "2023-12-17T04:59:14.6563837+00:00",
-  "LastUpdate_Achievements": "2023-12-17T05:07:15.9522482+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:58:40.3370562+00:00",
+  "LastUpdate_Achievements": "2023-12-17T06:06:02.499038+00:00"
 }

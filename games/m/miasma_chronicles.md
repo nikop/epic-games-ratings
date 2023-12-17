@@ -31,8 +31,8 @@ Rating: 4.41 (Ranked 730)
 | Pushing Daisy | 33.00% | ~533 |
 | Endgame | 28.00% | ~452 |
 | Savior | 28.00% | ~452 |
+| Silent but Violent | 27.00% | ~436 |
 | There Can Be Only One! | 27.00% | ~436 |
-| Silent but Violent | 26.00% | ~420 |
 | Chain Killer | 23.00% | ~371 |
 | The Watchers | 22.00% | ~355 |
 | Commando | 17.00% | ~274 |

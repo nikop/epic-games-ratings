@@ -2,9 +2,9 @@
   "ID": "e8839f9a57414fc4b631fe02b97b655e",
   "Name": "RhythmicTypeX",
   "ProductSlug": "rhythmictypex-bebc3b",
-  "Ranking_EOS_Progress": 799,
+  "Ranking_EOS_Progress": 800,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-12-02T00:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-11T11:58:29.4219334+00:00",
   "LastUpdate_AppInfo": "2023-12-15T21:57:12.1321373+00:00",
-  "LastUpdate_Ratings": "2023-12-17T04:58:28.406543+00:00",
-  "LastUpdate_Achievements": "2023-12-17T05:07:07.3422839+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:58:08.0206739+00:00",
+  "LastUpdate_Achievements": "2023-12-17T06:05:56.4032403+00:00"
 }

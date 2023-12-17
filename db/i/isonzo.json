@@ -997,9 +997,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9437,
+  "EOS_Progressed": 9438,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9472,6 +9472,11 @@
       "Time": "2023-12-17T00:09:21.8873541+00:00",
       "NumProgressed": 9437,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-17T06:08:47.4704806+00:00",
+      "NumProgressed": 9438,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9499,7 +9504,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4152
+      "UsersEstimate": 4153
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -9547,7 +9552,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -9563,7 +9568,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -9603,7 +9608,7 @@
       "Name": "Generalissimo",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ISONZO_ACH_INSUBORDINATION",
@@ -9667,7 +9672,7 @@
       "Name": "\u0022O La Vittoria, O Tutti Accoppati\u0022",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ISONZO_ACH_PEAK_PERFORMANCE",
@@ -9723,7 +9728,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -9842,7 +9847,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9437,
+      "Progressed": 9438,
       "Completed": 10
     }
   ],
@@ -9850,8 +9855,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-12T17:02:56.6362998+00:00",
-  "LastChanged_Achievements": "2023-12-17T05:09:06.0364076+00:00",
+  "LastChanged_Achievements": "2023-12-17T06:08:47.4704803+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:27.7823002+00:00",
-  "LastUpdate_Ratings": "2023-12-17T04:59:10.875616+00:00",
-  "LastUpdate_Achievements": "2023-12-17T05:09:06.0364716+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:58:37.6444042+00:00",
+  "LastUpdate_Achievements": "2023-12-17T06:08:47.47058+00:00"
 }

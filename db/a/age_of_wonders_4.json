@@ -4,10 +4,10 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 371,
   "Ranking_Popularity": 479,
-  "Ranking_PopularitySum": 460,
+  "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5764,
+  "EOS_Progressed": 5766,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8250,6 +8250,11 @@
       "Time": "2023-12-17T05:04:07.6976881+00:00",
       "NumProgressed": 5764,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-17T06:03:45.0328667+00:00",
+      "NumProgressed": 5766,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8475,9 +8480,9 @@
       "ID": "34",
       "SetID": "3aa2279",
       "Name": "In a Liege of Your Own",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 173
     },
     {
       "ID": "35",
@@ -8740,13 +8745,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5764,
+      "Progressed": 5766,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5764,
+      "Progressed": 5766,
       "Completed": 7
     }
   ],
@@ -8754,8 +8759,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-17T05:04:07.6976877+00:00",
+  "LastChanged_Achievements": "2023-12-17T06:03:45.0328665+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-17T04:58:45.0455045+00:00",
-  "LastUpdate_Achievements": "2023-12-17T05:04:07.6977698+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:58:18.8687035+00:00",
+  "LastUpdate_Achievements": "2023-12-17T06:03:45.0329581+00:00"
 }

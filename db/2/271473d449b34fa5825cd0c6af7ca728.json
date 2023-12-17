@@ -2,9 +2,9 @@
   "ID": "271473d449b34fa5825cd0c6af7ca728",
   "Name": "Big Walk",
   "ProductSlug": "big-walk-7a4b8f",
-  "Ranking_EOS_Progress": 799,
+  "Ranking_EOS_Progress": 800,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2025-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-15T01:45:31.1683192+00:00",
-  "LastUpdate_Ratings": "2023-12-17T04:58:45.5736413+00:00",
-  "LastUpdate_Achievements": "2023-12-17T05:03:59.6116695+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:58:19.2268975+00:00",
+  "LastUpdate_Achievements": "2023-12-17T06:03:39.0739327+00:00"
 }

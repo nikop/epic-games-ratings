@@ -24,12 +24,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Untamed Wilds | 2.00% | ~368 |
 | Homesick | 1.00% | ~184 |
 | Ruined Armory | 1.00% | ~184 |
+| Bandit Camp | 1.00% | ~184 |
 | Fertile Meadows | 1.00% | ~184 |
 | Monastery of the Holy Flame | 1.00% | ~184 |
 | Lost Colonies | 1.00% | ~184 |
 | Watchtower | 1.00% | ~184 |
 | A Real Challenge | 1.00% | ~184 |
-| Bandit Camp | 0.90% | ~166 |
 | Levitating Monument | 0.90% | ~166 |
 | Corrosive Torrent | 0.90% | ~166 |
 | Cursed Lands | 0.90% | ~166 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,422 (Ranked 147)  
+Progressed: 18,423 (Ranked 147)  
 Completed: 40 (0.22%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 40 (0.22%) (Ranked 259)
 | 2023-12-14 | 18,153 | 40 |
 | 2023-12-15 | 18,272 | 39 |
 | 2023-12-16 | 18,388 | 39 |
-| 2023-12-17 | 18,422 | 40 |
+| 2023-12-17 | 18,423 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 227)  
 Sum: 3,264 (Ranked 174)  

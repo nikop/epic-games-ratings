@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1269,
+  "EOS_Progressed": 1270,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4494,6 +4494,11 @@
       "Time": "2023-12-16T20:10:46.9024509+00:00",
       "NumProgressed": 1269,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T06:09:50.2624989+00:00",
+      "NumProgressed": 1270,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4553,7 +4558,7 @@
       "Name": "Call of Mana 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "call_of_mana_2",
@@ -4623,9 +4628,9 @@
       "ID": "conqueror_1",
       "SetID": "53c1p3k",
       "Name": "Conqueror 1",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 140
     },
     {
       "ID": "conqueror_2",
@@ -4673,7 +4678,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "elemental_stones_2",
@@ -4721,7 +4726,7 @@
       "Name": "From Day to Day 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "from_day_to_day_2",
@@ -4745,7 +4750,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "glitter_of_gold_2",
@@ -5032,14 +5037,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1269,
+      "Progressed": 1270,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-12-17T05:10:33.9385541+00:00",
+  "LastChanged_Achievements": "2023-12-17T06:09:50.2624987+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:27.95796+00:00",
-  "LastUpdate_Ratings": "2023-12-17T05:00:54.7162643+00:00",
-  "LastUpdate_Achievements": "2023-12-17T05:10:33.9386292+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:59:50.4826056+00:00",
+  "LastUpdate_Achievements": "2023-12-17T06:09:50.2625907+00:00"
 }

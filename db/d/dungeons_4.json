@@ -2,7 +2,7 @@
   "ID": "63afbcc46a714796af53032c2b3ed4b3",
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
-  "Ranking_EOS_Progress": 314,
+  "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 60,
@@ -1873,9 +1873,9 @@
       "ID": "ach_main11blessing_undeadonly",
       "SetID": "4hg22ll",
       "Name": "Master of the Undead",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 197
     },
     {
       "ID": "ach_main12race_completed",
@@ -2104,8 +2104,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-17T05:07:47.9057922+00:00",
+  "LastChanged_Achievements": "2023-12-17T06:06:25.4308305+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.5802782+00:00",
-  "LastUpdate_Ratings": "2023-12-17T04:58:48.9854489+00:00",
-  "LastUpdate_Achievements": "2023-12-17T05:07:47.9058341+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:58:21.5240061+00:00",
+  "LastUpdate_Achievements": "2023-12-17T06:06:25.4309079+00:00"
 }

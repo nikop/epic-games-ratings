@@ -1449,9 +1449,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6441,
+  "EOS_Progressed": 6445,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14564,6 +14564,11 @@
       "Time": "2023-12-17T05:08:33.8927428+00:00",
       "NumProgressed": 6441,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T06:08:24.2022481+00:00",
+      "NumProgressed": 6445,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14583,7 +14588,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -14591,7 +14596,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -14631,7 +14636,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -14647,7 +14652,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -14663,7 +14668,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -14671,7 +14676,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2834
+      "UsersEstimate": 2836
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -14695,7 +14700,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -14703,7 +14708,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -14727,7 +14732,7 @@
       "Name": "The Governator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -14735,7 +14740,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4766
+      "UsersEstimate": 4769
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14759,7 +14764,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -14831,7 +14836,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2963
+      "UsersEstimate": 2965
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -14847,7 +14852,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2383
+      "UsersEstimate": 2385
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -14894,15 +14899,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6441,
+      "Progressed": 6445,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-16T18:58:39.8372052+00:00",
-  "LastChanged_Achievements": "2023-12-17T05:08:33.8927425+00:00",
+  "LastChanged_Achievements": "2023-12-17T06:08:24.2022479+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.7844638+00:00",
-  "LastUpdate_Ratings": "2023-12-17T04:59:27.9513365+00:00",
-  "LastUpdate_Achievements": "2023-12-17T05:08:33.8928399+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:58:49.0849442+00:00",
+  "LastUpdate_Achievements": "2023-12-17T06:08:24.2023285+00:00"
 }

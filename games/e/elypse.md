@@ -21,14 +21,14 @@
 | Rooftop | 31.00% | ~33 |
 | Hard Rock | 31.00% | ~33 |
 | Homeless | 29.00% | ~31 |
-| Big badaboom! | 28.00% | ~30 |
+| Big badaboom! | 29.00% | ~31 |
+| Bookworm | 25.00% | ~27 |
+| Payback | 25.00% | ~27 |
+| Nokron tower | 24.00% | ~26 |
 | Magnitude 5 | 24.00% | ~26 |
-| Bookworm | 24.00% | ~26 |
-| Payback | 24.00% | ~26 |
-| Nokron tower | 23.00% | ~25 |
 | Full power | 22.00% | ~24 |
 | "Ah sh*t... Here we go again!" | 22.00% | ~24 |
-| Compulsive hoarder | 21.00% | ~23 |
+| Compulsive hoarder | 22.00% | ~24 |
 | GG EZ | 16.00% | ~17 |
 | Comeback | 16.00% | ~17 |
 | MayDay! MayDay! | 11.00% | ~12 |

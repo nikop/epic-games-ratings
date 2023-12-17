@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 42,
+  "Ranking_EOS_NewPlayers": 43,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -425,9 +425,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 330153,
+  "EOS_Progressed": 330176,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3507,
+  "EOS_NewPlayers": 3511,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9905,6 +9905,11 @@
       "Time": "2023-12-17T05:04:41.9941725+00:00",
       "NumProgressed": 330153,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-17T06:04:09.4375683+00:00",
+      "NumProgressed": 330176,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -9925,7 +9930,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6603
+      "UsersEstimate": 6604
     },
     {
       "ID": "S03_OTWA",
@@ -10125,7 +10130,7 @@
       "Name": "Their fate is sealed",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "S28_CTHB",
@@ -10221,7 +10226,7 @@
       "Name": "I took a risk",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "S40_BONUS",
@@ -10236,7 +10241,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 330153,
+      "Progressed": 330176,
       "Completed": 5
     }
   ],
@@ -10244,8 +10249,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-16T11:59:39.7470392+00:00",
-  "LastChanged_Achievements": "2023-12-17T05:04:41.9941722+00:00",
+  "LastChanged_Achievements": "2023-12-17T06:04:09.4375681+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-17T04:59:52.4088882+00:00",
-  "LastUpdate_Achievements": "2023-12-17T05:04:41.9942512+00:00"
+  "LastUpdate_Ratings": "2023-12-17T05:59:05.9399625+00:00",
+  "LastUpdate_Achievements": "2023-12-17T06:04:09.4376452+00:00"
 }

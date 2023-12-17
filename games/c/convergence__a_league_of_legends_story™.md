@@ -5,10 +5,10 @@ Rating: 4.62 (Ranked 371)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 36.00% | ~361 |
-| Rail Rat | 28.00% | ~281 |
-| The Mysterious Stranger | 27.00% | ~271 |
-| Immaculate Aim | 24.00% | ~241 |
+| Time Heals All Wounds | 36.00% | ~362 |
+| Rail Rat | 28.00% | ~282 |
+| The Mysterious Stranger | 27.00% | ~272 |
+| Immaculate Aim | 23.00% | ~231 |
 | The Brass Boss | 23.00% | ~231 |
 | Make Up For Lost Time | 22.00% | ~221 |
 | Time Flies | 22.00% | ~221 |
@@ -34,15 +34,15 @@ Rating: 4.62 (Ranked 371)
 | Whiz Kid | 14.00% | ~141 |
 | Cartographer | 14.00% | ~141 |
 | Good Neighbor | 13.00% | ~131 |
-| Chaincrawler Explorer | 12.00% | ~120 |
-| Family Memories | 12.00% | ~120 |
-| Ask Questions Later | 12.00% | ~120 |
-| Syron for Hope | 11.00% | ~110 |
-| Sump Explorer | 10.00% | ~100 |
-| Theater Explorer | 10.00% | ~100 |
-| Cultivair Explorer | 9.00% | ~90 |
-| Factorywood Explorer | 9.00% | ~90 |
-| Fairgrounds Explorer | 9.00% | ~90 |
+| Chaincrawler Explorer | 12.00% | ~121 |
+| Family Memories | 12.00% | ~121 |
+| Ask Questions Later | 12.00% | ~121 |
+| Syron for Hope | 11.00% | ~111 |
+| Sump Explorer | 10.00% | ~101 |
+| Theater Explorer | 10.00% | ~101 |
+| Cultivair Explorer | 9.00% | ~91 |
+| Factorywood Explorer | 9.00% | ~91 |
+| Fairgrounds Explorer | 9.00% | ~91 |
 | Corin Goes Home | 8.00% | ~80 |
 | Sartorialist | 8.00% | ~80 |
 | Entresol Explorer | 8.00% | ~80 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 371)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,004 (Ranked 273)  
+Progressed: 1,006 (Ranked 273)  
 Completed: 6 (0.60%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 6 (0.60%) (Ranked 195)
 | 2023-12-14 | 963 | 6 |
 | 2023-12-15 | 978 | 6 |
 | 2023-12-16 | 1,000 | 6 |
-| 2023-12-17 | 1,004 | 6 |
+| 2023-12-17 | 1,006 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
