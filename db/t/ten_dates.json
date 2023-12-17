@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 356,
+  "EOS_Progressed": 357,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -836,6 +836,11 @@
       "Time": "2023-12-17T20:09:35.6528195+00:00",
       "NumProgressed": 356,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-17T23:09:58.3064489+00:00",
+      "NumProgressed": 357,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 19,
@@ -879,7 +884,7 @@
       "Name": "Let it begin",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "profile_ryan",
@@ -887,7 +892,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ryan_date2_all",
@@ -998,7 +1003,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 356,
+      "Progressed": 357,
       "Completed": 4
     }
   ],
@@ -1006,8 +1011,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:09:14.7642642+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:09:58.3064486+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:10.0190099+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:58:39.9802126+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:09:14.7642769+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:59:39.1594344+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:09:58.3064656+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 543,
+  "EOS_Progressed": 544,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
@@ -2213,6 +2213,11 @@
       "Time": "2023-12-17T22:08:26.2205664+00:00",
       "NumProgressed": 543,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T23:08:51.3822615+00:00",
+      "NumProgressed": 544,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2327,9 +2332,9 @@
       "ID": "DamageThreshold",
       "SetID": "71c0n9i",
       "Name": "Critical Hit",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 98
     },
     {
       "ID": "Deepstrike",
@@ -2367,9 +2372,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 174
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2585,7 +2590,7 @@
       "Name": "Humiliation",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -2656,15 +2661,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 543,
+      "Progressed": 544,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:08:26.2205661+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:08:51.3822613+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:00:08.2390519+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:08:26.2206038+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:01:50.6654102+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:08:51.3823298+00:00"
 }

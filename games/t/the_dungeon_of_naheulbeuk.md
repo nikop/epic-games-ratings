@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,601 |
-| Alt+F4 | 10.00% | ~24,334 |
-| Where's that freaking Dwarf? | 8.00% | ~19,467 |
+| Sowwy! | 36.00% | ~87,605 |
+| Alt+F4 | 10.00% | ~24,335 |
+| Where's that freaking Dwarf? | 8.00% | ~19,468 |
 | Déjà vu | 7.00% | ~17,034 |
-| Sock! SOCK! | 6.00% | ~14,600 |
+| Sock! SOCK! | 6.00% | ~14,601 |
 | A beer, two curses, three companions | 5.00% | ~12,167 |
 | GG EZ | 5.00% | ~12,167 |
 | Speedrun | 5.00% | ~12,167 |
-| DM intervention | 4.00% | ~9,733 |
-| Fireproof Wizardess | 4.00% | ~9,733 |
+| DM intervention | 4.00% | ~9,734 |
+| Fireproof Wizardess | 4.00% | ~9,734 |
 | Livin' in a dwarven paradise | 3.00% | ~7,300 |
 | Way of the Wimp | 3.00% | ~7,300 |
 | The plot thickens... At the tavern | 3.00% | ~7,300 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~243 |
 | Dwarf Candy | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,337 (Ranked 64)  
+Progressed: 243,348 (Ranked 64)  
 Completed: 7 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,14 +295,14 @@ Completed: 7 (0.00%) (Ranked 380)
 | 2023-12-14 | 242,763 | 7 |
 | 2023-12-15 | 242,956 | 7 |
 | 2023-12-16 | 243,151 | 7 |
-| 2023-12-17 | 243,337 | 7 |
+| 2023-12-17 | 243,348 | 7 |
 ## Awards
-Max (Character Customization): 246  (Ranked 272)  
-Sum: 518 (Ranked 327)  
+Max (Character Customization): 247  (Ranked 272)  
+Sum: 519 (Ranked 327)  
 Diff (max vs sum): -55  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 246 |
+| This game has Inclusive Character Customization | 247 |
 | This game is Relaxing | 39 |
 | This game is Great for Beginners | 35 |
 | This game has Quickly Understood Controls | 33 |
@@ -509,3 +509,4 @@ Diff (max vs sum): -55
 | 2023-12-07 | 4.58 | - | 244 | 495 |
 | 2023-12-10 | 4.58 | - | 245 | 497 |
 | 2023-12-12 | 4.58 | - | 246 | 518 |
+| 2023-12-17 | 4.58 | - | 247 | 519 |

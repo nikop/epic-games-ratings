@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 72.00% | ~235 |
+| Alone with Them | 72.00% | ~236 |
 | Forced to Kill | 69.00% | ~226 |
 | A Night To Remember | 41.00% | ~134 |
-| Safe...For now? | 35.00% | ~114 |
+| Safe...For now? | 34.00% | ~112 |
 | Open Sesame | 30.00% | ~98 |
 | What have I done!? | 19.00% | ~62 |
 | Them and Us | 18.00% | ~59 |
@@ -22,7 +22,7 @@
 | Lover of classics | 10.00% | ~33 |
 | Rest In Peace | 10.00% | ~33 |
 | The Curse Is Real | 10.00% | ~33 |
-| What A Mansion | 9.00% | ~29 |
+| What A Mansion | 9.00% | ~30 |
 | I Am The Gate Keeper! | 7.00% | ~23 |
 | Researcher | 6.00% | ~20 |
 | This Mansion Is Clean | 5.00% | ~16 |
@@ -45,8 +45,8 @@
 | Nightmare Over | 0.30% | ~1 |
 | Survival Horror | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327 (Ranked 361)  
-Completed: 1 (0.31%) (Ranked 242)  
+Progressed: 328 (Ranked 361)  
+Completed: 1 (0.30%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -148,7 +148,7 @@ Completed: 1 (0.31%) (Ranked 242)
 | 2023-12-09 | 317 | 1 |
 | 2023-12-14 | 321 | 1 |
 | 2023-12-16 | 324 | 1 |
-| 2023-12-17 | 327 | 1 |
+| 2023-12-17 | 328 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.42 (Ranked 720)  
+Rating: 4.42 (Ranked 721)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,7 +19,7 @@ Rating: 4.42 (Ranked 720)
 | Right through the middle | 59.00% | ~1,433 |
 | Facility Manager | 54.00% | ~1,311 |
 | Poor Devil | 54.00% | ~1,311 |
-| Producer | 50.00% | ~1,214 |
+| Producer | 51.00% | ~1,238 |
 | Apprentice | 42.00% | ~1,020 |
 | Bridge Builder | 42.00% | ~1,020 |
 | Going once, going twice, sold | 36.00% | ~874 |
@@ -28,16 +28,16 @@ Rating: 4.42 (Ranked 720)
 | Stoker | 33.00% | ~801 |
 | Full Steam ahead | 32.00% | ~777 |
 | All mine | 31.00% | ~753 |
+| Financial Shark | 31.00% | ~753 |
 | Mole | 30.00% | ~728 |
-| Financial Shark | 30.00% | ~728 |
 | Socializer | 30.00% | ~728 |
 | General Manager | 28.00% | ~680 |
 | Country Life | 28.00% | ~680 |
 | Hostile Takeover | 25.00% | ~607 |
 | Seven at one stroke | 24.00% | ~583 |
+| Traffic Junction | 22.00% | ~534 |
 | Breaking Ground | 22.00% | ~534 |
 | Trailblazer | 21.00% | ~510 |
-| Traffic Junction | 21.00% | ~510 |
 | Traffic Jam | 19.00% | ~461 |
 | Networker | 18.00% | ~437 |
 | Resistance is futile | 17.00% | ~413 |

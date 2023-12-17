@@ -9,8 +9,8 @@ Number of Ratings: 281  (23.09.2022)
 | Fish Just Got Reel | 9.00% | ~642 |
 | Hey Good Hookin | 8.00% | ~571 |
 | More Fish in the Sea | 8.00% | ~571 |
-| Can you smell what the Rod is Hooking | 7.00% | ~499 |
-| Scaling up | 7.00% | ~499 |
+| Can you smell what the Rod is Hooking | 7.00% | ~500 |
+| Scaling up | 7.00% | ~500 |
 | I'm on a Boat! | 6.00% | ~428 |
 | Ready to Rod and Roll | 5.00% | ~357 |
 | Fish Out of Water | 3.00% | ~214 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,135 (Ranked 186)  
+Progressed: 7,136 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,16 +288,16 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 6,897 | 0 |
 | 2023-12-15 | 6,981 | 0 |
 | 2023-12-16 | 7,057 | 0 |
-| 2023-12-17 | 7,135 | 0 |
+| 2023-12-17 | 7,136 | 0 |
 ## Awards
 Max (Relaxing): 39  (Ranked 467)  
-Sum: 204 (Ranked 402)  
-Diff (max vs sum): 65  
+Sum: 206 (Ranked 401)  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 39 |
 | This game is Great for Beginners | 39 |
-| This game is Highly Recommended | 36 |
+| This game is Highly Recommended | 38 |
 | This game has Amazing Storytelling | 35 |
 | This game is Extremely Fun | 31 |
 | This game has Quickly Understood Controls | 24 |
@@ -402,4 +402,4 @@ Diff (max vs sum): 65
 | 2023-12-12 | 4.20 | - | 38 | 200 |
 | 2023-12-13 | 4.20 | - | 38 | 201 |
 | 2023-12-15 | 4.20 | - | 39 | 202 |
-| 2023-12-17 | 4.20 | - | 39 | 204 |
+| 2023-12-17 | 4.20 | - | 39 | 206 |

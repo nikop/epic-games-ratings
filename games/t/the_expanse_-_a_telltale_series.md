@@ -1,23 +1,23 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.54 (Ranked 534)  
+Rating: 4.53 (Ranked 549)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 14.00% | ~2,335 |
+| Oyedang, Kopengs | 14.00% | ~2,336 |
 | Bosmang | 9.00% | ~1,501 |
 | Captain Drummer | 9.00% | ~1,501 |
 | Celebrations are in Order | 9.00% | ~1,501 |
-| The Pit and the Pirates | 8.00% | ~1,334 |
-| Martian Music | 8.00% | ~1,334 |
-| Drone Dodger | 8.00% | ~1,334 |
-| Impossible Objects | 8.00% | ~1,334 |
-| Stogie for Fogey | 7.00% | ~1,167 |
-| Spore Taste | 7.00% | ~1,167 |
-| Safe Cracker | 7.00% | ~184 |
-| Zen Master | 7.00% | ~184 |
-| Madame Undersecretary | 7.00% | ~184 |
+| The Pit and the Pirates | 8.00% | ~1,335 |
+| Martian Music | 8.00% | ~1,335 |
+| Drone Dodger | 8.00% | ~1,335 |
+| Impossible Objects | 8.00% | ~1,335 |
+| Zen Master | 8.00% | ~211 |
+| Stogie for Fogey | 7.00% | ~1,168 |
+| Spore Taste | 7.00% | ~1,168 |
+| Safe Cracker | 7.00% | ~185 |
+| Madame Undersecretary | 7.00% | ~185 |
 | Call it Even | 6.00% | ~1,001 |
 | Keep Arjun in Check | 6.00% | ~158 |
 | Data Archivist | 5.00% | ~834 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 534)
 | Scavenger Star | 0.20% | ~33 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,677 (Ranked 152)  
+Progressed: 16,683 (Ranked 152)  
 Completed: 44 (0.26%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 44 (0.26%) (Ranked 253)
 | 2023-12-14 | 16,263 | 43 |
 | 2023-12-15 | 16,416 | 43 |
 | 2023-12-16 | 16,565 | 43 |
-| 2023-12-17 | 16,677 | 44 |
+| 2023-12-17 | 16,683 | 44 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -235,3 +235,4 @@ Completed: 44 (0.26%) (Ranked 253)
 | 2023-12-10 | 4.52 | 0 | 0 |
 | 2023-12-11 | 4.53 | 0 | 0 |
 | 2023-12-16 | 4.54 | 0 | 0 |
+| 2023-12-17 | 4.53 | 0 | 0 |

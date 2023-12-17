@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2154,9 +2154,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15805,
+  "EOS_Progressed": 15807,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17834,6 +17834,11 @@
       "Time": "2023-12-17T22:09:15.9803242+00:00",
       "NumProgressed": 15805,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-17T23:10:00.2725678+00:00",
+      "NumProgressed": 15807,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -18469,7 +18474,7 @@
       "Name": "Settler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -19597,7 +19602,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -20155,9 +20160,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_GREAT_MAGE",
       "SetID": "9201eeb",
       "Name": "The Great Mage",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST",
@@ -20580,21 +20585,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15805,
+      "Progressed": 15807,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15805,
+      "Progressed": 15807,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-15T15:02:40.4686922+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:09:15.9803238+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:10:00.2725677+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:02:49.6343144+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:09:15.981198+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:03:14.962718+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:10:00.2737968+00:00"
 }

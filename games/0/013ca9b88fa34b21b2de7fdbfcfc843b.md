@@ -6,9 +6,9 @@ Rating: 4.61 (Ranked 392)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Thorny Situation | 0.90% | ~77 |
-| Azoria Beckons | 0.70% | ~59 |
+| Azoria Beckons | 0.80% | ~68 |
+| ... And Spit Back Out | 0.70% | ~59 |
 | Break-Net Speed | 0.60% | ~51 |
-| ... And Spit Back Out | 0.60% | ~51 |
 | Bramble Breaker | 0.60% | ~51 |
 | Calm Sailing | 0.50% | ~42 |
 | Open the Gate! | 0.50% | ~42 |

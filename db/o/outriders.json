@@ -2,12 +2,12 @@
   "ID": "c6e54ebd92da4ee8819c1c0956cebdc4",
   "Name": "OUTRIDERS",
   "ProductSlug": "outriders",
-  "Ranking_Rating": 720,
+  "Ranking_Rating": 699,
   "Ranking_Popularity": 140,
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 541,
+  "Ranking_EOS_NewPlayers": 542,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-04-15T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 1201,
   "RatingHistory": [
     {
@@ -3248,10 +3248,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 2678,
       "NumberOfAwardsMax": 1274
+    },
+    {
+      "Time": "2023-12-17T23:00:23.1557393+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2679,
+      "NumberOfAwardsMax": 1274
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2678,
+  "NumberOfAwards": 2679,
   "NumberOfAwardsMax": 1274,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3313,7 +3319,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 151
+      "Count": 152
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3333,8 +3339,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
-  "LastChanged": "2023-12-17T10:58:48.6250033+00:00",
+  "LastChanged": "2023-12-17T23:00:23.1557392+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.7250399+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:59:09.8704664+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:05:08.688083+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:00:23.1557395+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:06:32.2199261+00:00"
 }

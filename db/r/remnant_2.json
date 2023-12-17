@@ -5715,10 +5715,10 @@
       "Count": 437
     }
   ],
-  "EOS_Progressed": 252091,
-  "EOS_Completed": 597,
-  "EOS_NewPlayers": 13865,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 252137,
+  "EOS_Completed": 598,
+  "EOS_NewPlayers": 13890,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -23500,6 +23500,11 @@
       "Time": "2023-12-17T22:09:14.5778648+00:00",
       "NumProgressed": 252091,
       "NumCompleted": 597
+    },
+    {
+      "Time": "2023-12-17T23:09:58.0703268+00:00",
+      "NumProgressed": 252137,
+      "NumCompleted": 598
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -23512,7 +23517,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7563
+      "UsersEstimate": 7564
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -23544,7 +23549,7 @@
       "Name": "Only Human",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "Defeat_Corrupted_Ravager",
@@ -23560,7 +23565,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5042
+      "UsersEstimate": 5043
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -23592,7 +23597,7 @@
       "Name": "The Killing Jar",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12605
+      "UsersEstimate": 12607
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -23632,7 +23637,7 @@
       "Name": "Quest for Survival",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5042
+      "UsersEstimate": 5043
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -23640,7 +23645,7 @@
       "Name": "Red Room",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "Discover_Letos_Lab",
@@ -23656,7 +23661,7 @@
       "Name": "Not a Janitor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5042
+      "UsersEstimate": 5043
     },
     {
       "ID": "Meet_Flautist",
@@ -23664,7 +23669,7 @@
       "Name": "Familiar Face",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5042
+      "UsersEstimate": 5043
     },
     {
       "ID": "Meet_Meidra",
@@ -23680,7 +23685,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "Meet_Nimue",
@@ -23696,7 +23701,7 @@
       "Name": "First of Many",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10084
+      "UsersEstimate": 10085
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -23744,7 +23749,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5042
+      "UsersEstimate": 5043
     },
     {
       "ID": "Obtain_Guns_A",
@@ -23768,7 +23773,7 @@
       "Name": "Edgelord",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "Obtain_Melee_Weapons_B",
@@ -23816,7 +23821,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7563
+      "UsersEstimate": 7564
     },
     {
       "ID": "Obtain_Traits_B",
@@ -23840,7 +23845,7 @@
       "Name": "Carnage in C-Minor",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "Upgrade_Boss_Weapon_A",
@@ -23888,7 +23893,7 @@
       "Name": "Trait Chaser",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5042
+      "UsersEstimate": 5043
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -23904,7 +23909,7 @@
       "Name": "Transmutate",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "DLC1_Defeat_OneTrueKing",
@@ -23928,7 +23933,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -23951,13 +23956,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 252091,
-      "Completed": 597
+      "Progressed": 252137,
+      "Completed": 598
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 31256,
+      "Progressed": 31302,
       "Completed": 274
     }
   ],
@@ -23965,8 +23970,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-17T20:03:16.9081185+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:09:14.5778644+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:09:58.0703266+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:50:01.3962237+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:03:11.7162409+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:09:14.5779615+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:03:47.8299453+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:09:58.0705169+00:00"
 }

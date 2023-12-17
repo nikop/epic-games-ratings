@@ -2015,9 +2015,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 378
     },
     {
       "ID": "AchvAllMemories",
@@ -2183,9 +2183,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 304
     },
     {
       "ID": "AchvReachCamp",
@@ -2254,8 +2254,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:09:11.1379858+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:09:53.0718293+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:57:07.1442035+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:09:11.1380117+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:57:20.886031+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:09:53.071872+00:00"
 }

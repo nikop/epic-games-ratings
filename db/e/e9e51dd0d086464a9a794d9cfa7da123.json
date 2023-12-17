@@ -2,9 +2,9 @@
   "ID": "e9e51dd0d086464a9a794d9cfa7da123",
   "Name": "Desktop Girlfriend NEO",
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
-  "Ranking_EOS_Progress": 495,
+  "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 379,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71,
+  "EOS_Progressed": 73,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -374,6 +374,11 @@
       "Time": "2023-12-16T14:10:07.1868163+00:00",
       "NumProgressed": 71,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T23:10:49.9341703+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-16T10:08:21.0101681+00:00",
@@ -408,7 +413,7 @@
       "ID": "Cremation",
       "SetID": "2621k8c",
       "Name": "Cremation",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -416,7 +421,7 @@
       "ID": "Curse",
       "SetID": "2621k8c",
       "Name": "Curse",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -488,7 +493,7 @@
       "ID": "EI",
       "SetID": "2621k8c",
       "Name": "Exceptional intelligence",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -528,7 +533,7 @@
       "ID": "Flattery",
       "SetID": "2621k8c",
       "Name": "Flattery",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -536,7 +541,7 @@
       "ID": "Foodie",
       "SetID": "2621k8c",
       "Name": "Foodie",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -552,7 +557,7 @@
       "ID": "GE",
       "SetID": "2621k8c",
       "Name": "Gender equality",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -560,7 +565,7 @@
       "ID": "GTDIC",
       "SetID": "2621k8c",
       "Name": "Get too deep into character",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -592,7 +597,7 @@
       "ID": "HH",
       "SetID": "2621k8c",
       "Name": "High Heels",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -624,7 +629,7 @@
       "ID": "IC",
       "SetID": "2621k8c",
       "Name": "Intimate Contact",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -656,7 +661,7 @@
       "ID": "Indifferent",
       "SetID": "2621k8c",
       "Name": "Indifferent",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -696,7 +701,7 @@
       "ID": "LP",
       "SetID": "2621k8c",
       "Name": "Lazy person",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -704,7 +709,7 @@
       "ID": "LTW",
       "SetID": "2621k8c",
       "Name": "Good Bye",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -720,7 +725,7 @@
       "ID": "LYALBM",
       "SetID": "2621k8c",
       "Name": "Love you a little bit more",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -736,7 +741,7 @@
       "ID": "MAB",
       "SetID": "2621k8c",
       "Name": "Have a baby",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -776,7 +781,7 @@
       "ID": "Merged",
       "SetID": "2621k8c",
       "Name": "Merged",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -784,7 +789,7 @@
       "ID": "Mistress",
       "SetID": "2621k8c",
       "Name": "Sweetheart",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -824,7 +829,7 @@
       "ID": "POGB",
       "SetID": "2621k8c",
       "Name": "Pain",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -872,7 +877,7 @@
       "ID": "Preaching",
       "SetID": "2621k8c",
       "Name": "Preaching",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -888,7 +893,7 @@
       "ID": "Regret",
       "SetID": "2621k8c",
       "Name": "Regret",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -920,7 +925,7 @@
       "ID": "SL",
       "SetID": "2621k8c",
       "Name": "Selfish Love",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -960,7 +965,7 @@
       "ID": "Shopaholic",
       "SetID": "2621k8c",
       "Name": "Shopaholic",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -976,7 +981,7 @@
       "ID": "Sneakerhead",
       "SetID": "2621k8c",
       "Name": "Sneakerhead",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -1032,7 +1037,7 @@
       "ID": "THOASOK",
       "SetID": "2621k8c",
       "Name": "To have only a smattering of knowledge",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -1040,7 +1045,7 @@
       "ID": "TMBM",
       "SetID": "2621k8c",
       "Name": "The most beautiful memory",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 24
     },
@@ -1056,7 +1061,7 @@
       "ID": "Takeout",
       "SetID": "2621k8c",
       "Name": "Takeout",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -1088,7 +1093,7 @@
       "ID": "Unreasonable",
       "SetID": "2621k8c",
       "Name": "Unreasonable",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -1096,7 +1101,7 @@
       "ID": "VG",
       "SetID": "2621k8c",
       "Name": "Virtual Girl",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -1129,14 +1134,14 @@
     {
       "ID": "2621k8c",
       "IsBase": true,
-      "Progressed": 71,
+      "Progressed": 73,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:09:52.8751988+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:10:49.9341701+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.0306936+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:59:51.0632159+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:09:52.8752747+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:01:25.1124745+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:10:49.9343014+00:00"
 }

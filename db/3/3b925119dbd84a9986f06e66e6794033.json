@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 363,
+  "EOS_Progressed": 364,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1239,6 +1239,11 @@
       "Time": "2023-12-17T21:09:50.2027001+00:00",
       "NumProgressed": 363,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T23:10:15.4069395+00:00",
+      "NumProgressed": 364,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1315,7 +1320,7 @@
       "Name": "FixyText: Pump It Up",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -1339,7 +1344,7 @@
       "Name": "FixyText: Co-author",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "TIME_JINX",
@@ -1347,7 +1352,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "TIME_ORWELL",
@@ -1410,14 +1415,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 363,
+      "Progressed": 364,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:09:27.1207777+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:10:15.4069393+00:00",
   "LastUpdate_AppInfo": "2023-12-16T01:42:15.0489028+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:02:43.8659374+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:09:27.1207917+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:03:07.1568321+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:10:15.4069589+00:00"
 }

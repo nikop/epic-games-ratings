@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17150,
+  "EOS_Progressed": 17152,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -16355,6 +16355,11 @@
       "Time": "2023-12-17T21:03:40.7384895+00:00",
       "NumProgressed": 17150,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-17T23:04:02.7499168+00:00",
+      "NumProgressed": 17152,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16382,7 +16387,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3944
+      "UsersEstimate": 3945
     },
     {
       "ID": "tpote_achievement_12",
@@ -16414,7 +16419,7 @@
       "Name": "Care, like a brother cares",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "tpote_achievement_16",
@@ -16486,7 +16491,7 @@
       "Name": "A brush with death",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "tpote_achievement_24",
@@ -16542,7 +16547,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5316
+      "UsersEstimate": 5317
     },
     {
       "ID": "tpote_achievement_30",
@@ -16590,7 +16595,7 @@
       "Name": "Self-defense",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "tpote_achievement_36",
@@ -16630,7 +16635,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6860
+      "UsersEstimate": 6861
     },
     {
       "ID": "tpote_achievement_40",
@@ -16662,7 +16667,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3944
+      "UsersEstimate": 3945
     },
     {
       "ID": "tpote_achievement_7",
@@ -16686,22 +16691,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5831
+      "UsersEstimate": 5832
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17150,
+      "Progressed": 17152,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:03:20.83054+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:04:02.7499166+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:57:39.137648+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:03:20.8306226+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:58:08.9202701+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:04:02.7501093+00:00"
 }

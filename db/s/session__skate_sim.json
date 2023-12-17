@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1279,9 +1279,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 3237,
+  "EOS_Progressed": 3239,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6394,6 +6394,11 @@
       "Time": "2023-12-17T22:05:02.2661245+00:00",
       "NumProgressed": 3237,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T23:06:23.3705584+00:00",
+      "NumProgressed": 3239,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -6517,7 +6522,7 @@
       "Name": "G.O.A.T. status",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_GOLDEN",
@@ -6533,7 +6538,7 @@
       "Name": "Good vibes",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACH_HOARDER",
@@ -6541,7 +6546,7 @@
       "Name": "Hoarder",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_KEEP-THE-DREAM-ALIVE",
@@ -6557,7 +6562,7 @@
       "Name": "Keeping it classy",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -6613,7 +6618,7 @@
       "Name": "Pew-Pew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_PLASTIC-SURGEON",
@@ -6629,7 +6634,7 @@
       "Name": "Prince of Philly",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_PURPLE-PASSION",
@@ -6709,7 +6714,7 @@
       "Name": "The finer things in life",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -6773,7 +6778,7 @@
       "Name": "Welcome to the family",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -6781,22 +6786,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1975
+      "UsersEstimate": 1976
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3237,
+      "Progressed": 3239,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-17T22:00:24.6037626+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:05:02.2661241+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:06:23.3705582+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:11.20318+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:00:24.603763+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:05:02.2661919+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:02:55.1884174+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:06:23.3706227+00:00"
 }

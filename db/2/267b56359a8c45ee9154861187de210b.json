@@ -4,7 +4,7 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -484,17 +484,17 @@
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "beat_c1a_bronze",
@@ -1059,8 +1059,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:05:00.75884+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:06:21.154899+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:19.378274+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:58:14.745526+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:05:00.7589065+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:59:00.8489884+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:06:21.154992+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1344,9 +1344,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 30651,
+  "EOS_Progressed": 30656,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 533,
+  "EOS_NewPlayers": 532,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -27204,6 +27204,11 @@
       "Time": "2023-12-17T22:09:29.2890532+00:00",
       "NumProgressed": 30651,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-12-17T23:10:18.6176495+00:00",
+      "NumProgressed": 30656,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 22,
@@ -27319,7 +27324,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5517
+      "UsersEstimate": 5518
     },
     {
       "ID": "1029",
@@ -27335,7 +27340,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6130
+      "UsersEstimate": 6131
     },
     {
       "ID": "1031",
@@ -27351,7 +27356,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12260
+      "UsersEstimate": 12262
     },
     {
       "ID": "1033",
@@ -27390,15 +27395,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 30651,
+      "Progressed": 30656,
       "Completed": 84
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-16T17:01:32.5385124+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:09:29.2890528+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:10:18.6176493+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:33.5053041+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:02:40.4512397+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:09:29.2891878+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:57:05.4453149+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:10:18.6178816+00:00"
 }

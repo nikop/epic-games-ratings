@@ -4,7 +4,7 @@
   "ProductSlug": "human-resource-machine",
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 541,
+  "Ranking_EOS_NewPlayers": 542,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2015-10-15T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:48.6149288+00:00",
   "LastChanged": "2023-03-31T05:57:48.6149289+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:36.486067+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:00:28.2012318+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:03:56.2394788+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:03:00.7445091+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:04:51.4547923+00:00"
 }

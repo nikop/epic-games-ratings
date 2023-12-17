@@ -14,10 +14,10 @@
 | Codebreaker | 20.00% | ~19 |
 | Finger-Lickin' Bad | 20.00% | ~19 |
 | Set Sail | 20.00% | ~19 |
-| Bathroom Brawler | 17.00% | ~16 |
-| Breathless End | 17.00% | ~16 |
+| Bathroom Brawler | 18.00% | ~17 |
+| Breathless End | 18.00% | ~17 |
+| Flying High | 17.00% | ~16 |
 | Backstory Buff | 16.00% | ~15 |
-| Flying High | 16.00% | ~15 |
 | Freedum Fighter | 4.00% | ~4 |
 | Key Keeper's Curse | 4.00% | ~4 |
 | Fool's Gold | 3.00% | ~3 |

@@ -4,7 +4,7 @@
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 929,
   "Ranking_Popularity": 467,
-  "Ranking_PopularitySum": 402,
+  "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 152,
@@ -929,10 +929,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 204,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-12-17T22:59:54.6292431+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 206,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 204,
+  "NumberOfAwards": 206,
   "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -952,7 +958,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 36
+      "Count": 38
     },
     {
       "Text": "This game is Extremely Fun",
@@ -973,7 +979,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7135,
+  "EOS_Progressed": 7136,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
@@ -11433,6 +11439,11 @@
       "Time": "2023-12-17T22:05:10.6340349+00:00",
       "NumProgressed": 7135,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T23:06:34.9607525+00:00",
+      "NumProgressed": 7136,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11452,7 +11463,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -11500,7 +11511,7 @@
       "Name": "Scaling up",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -11763,22 +11774,22 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7135,
+      "Progressed": 7136,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6507,
+      "Progressed": 6508,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
-  "LastChanged": "2023-12-17T20:59:39.8150051+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:05:10.6340344+00:00",
+  "LastChanged": "2023-12-17T22:59:54.6292429+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:06:34.9607523+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:58:50.4092155+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:05:10.6341063+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:59:54.6292433+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:06:34.9608722+00:00"
 }

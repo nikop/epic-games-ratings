@@ -8,7 +8,7 @@
 | Thalya – Simply Immortal | 88.00% | ~516 |
 | For the Horde! | 83.00% | ~486 |
 | Hammer Time, Round Two | 81.00% | ~475 |
-| The Hellwoods | 76.00% | ~445 |
+| The Hellwoods | 77.00% | ~451 |
 | The Plains of Strothalm | 71.00% | ~416 |
 | Experienced Thalya | 71.00% | ~416 |
 | Thalya's Concentrated Fury | 68.00% | ~398 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 9.00% | ~53 |
 | I Don't Need Any Help | 8.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 586 (Ranked 316)  
+Progressed: 586 (Ranked 317)  
 Completed: 17 (2.90%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |

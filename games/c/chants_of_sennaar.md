@@ -10,9 +10,9 @@ Rating: 4.86 (Ranked 35)
 | The great escape | 34.00% | ~440 |
 | The Preacher's fate | 32.00% | ~414 |
 | A new dawn | 26.00% | ~337 |
+| Scholar | 23.00% | ~298 |
 | A good beginning | 22.00% | ~285 |
 | True G3M4R | 22.00% | ~285 |
-| Scholar | 22.00% | ~285 |
 | The darkness | 22.00% | ~285 |
 | One last step | 20.00% | ~259 |
 | Cable guy | 19.00% | ~246 |
@@ -22,7 +22,7 @@ Rating: 4.86 (Ranked 35)
 | Peace walker | 18.00% | ~233 |
 | Champollion | 18.00% | ~233 |
 | Rascal | 17.00% | ~220 |
-| Open door | 15.00% | ~194 |
+| Open door | 16.00% | ~207 |
 | Feels like springtime | 15.00% | ~194 |
 | Alchemists Express | 15.00% | ~194 |
 | Free at last | 13.00% | ~168 |

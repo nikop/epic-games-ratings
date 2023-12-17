@@ -2,13 +2,13 @@
   "ID": "ad43401ad02840c2b2bee5f1f1a59988",
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
-  "Ranking_Rating": 720,
+  "Ranking_Rating": 721,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -288,10 +288,10 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 25555,
+  "EOS_Progressed": 25557,
   "EOS_Completed": 161,
-  "EOS_NewPlayers": 1021,
-  "EOS_NewCompleters": 15,
+  "EOS_NewPlayers": 1016,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
     {
@@ -7238,6 +7238,11 @@
       "Time": "2023-12-17T22:09:42.2512063+00:00",
       "NumProgressed": 25555,
       "NumCompleted": 161
+    },
+    {
+      "Time": "2023-12-17T23:10:36.335162+00:00",
+      "NumProgressed": 25557,
+      "NumCompleted": 161
     }
   ],
   "TotalAchievements": 24,
@@ -7377,7 +7382,7 @@
       "Name": "Sector 1",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 7155
+      "UsersEstimate": 7156
     },
     {
       "ID": "ACH_Sector2",
@@ -7401,7 +7406,7 @@
       "Name": "Sector 4",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 4344
+      "UsersEstimate": 4345
     },
     {
       "ID": "ACH_Sector5",
@@ -7440,7 +7445,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 25555,
+      "Progressed": 25557,
       "Completed": 161
     }
   ],
@@ -7448,8 +7453,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-12-11T17:59:07.2531282+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:09:42.251206+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:10:36.3351618+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.5220859+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:58:17.9825773+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:09:42.2512404+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:59:05.809293+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:10:36.3352201+00:00"
 }

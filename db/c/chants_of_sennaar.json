@@ -4434,9 +4434,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 207
     },
     {
       "ID": "META_RESULT_1-3",
@@ -4538,9 +4538,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 285
+      "UsersEstimate": 298
     },
     {
       "ID": "PROGRESS_N1",
@@ -4595,8 +4595,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-17T17:02:33.5506237+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:05:40.5343497+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:07:16.4386443+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:00:23.0840503+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:05:40.5343793+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:02:52.6923341+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:07:16.4386969+00:00"
 }

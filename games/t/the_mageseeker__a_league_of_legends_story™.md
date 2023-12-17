@@ -5,61 +5,61 @@ Rating: 4.79 (Ranked 99)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,691 |
-| No more cages! | 91.00% | ~2,578 |
-| Everfrost | 78.00% | ~2,210 |
-| Pentakill | 77.00% | ~2,181 |
-| Dark Forest | 77.00% | ~2,181 |
-| The use of petricite | 74.00% | ~2,096 |
-| You can pet the dog | 61.00% | ~1,728 |
-| Thornbarrow | 40.00% | ~1,133 |
-| Big Helmet Bro | 39.00% | ~1,105 |
-| Clarion Cove | 39.00% | ~1,105 |
-| Past trauma | 37.00% | ~1,048 |
-| Ternmoat Headquarters | 37.00% | ~1,048 |
-| Elemental master | 36.00% | ~1,020 |
-| Cypress Glen Headquarters | 34.00% | ~963 |
-| Petricite Burst | 33.00% | ~935 |
-| Old friend | 31.00% | ~878 |
-| Hijack | 30.00% | ~850 |
-| Devineur | 30.00% | ~850 |
-| Whispers in the Woods I | 27.00% | ~765 |
+| For Demacia | 95.00% | ~2,694 |
+| No more cages! | 91.00% | ~2,581 |
+| Everfrost | 78.00% | ~2,212 |
+| Pentakill | 77.00% | ~2,184 |
+| Dark Forest | 77.00% | ~2,184 |
+| The use of petricite | 74.00% | ~2,099 |
+| You can pet the dog | 61.00% | ~1,730 |
+| Thornbarrow | 40.00% | ~1,134 |
+| Big Helmet Bro | 39.00% | ~1,106 |
+| Clarion Cove | 39.00% | ~1,106 |
+| Past trauma | 37.00% | ~1,049 |
+| Ternmoat Headquarters | 37.00% | ~1,049 |
+| Elemental master | 36.00% | ~1,021 |
+| Cypress Glen Headquarters | 33.00% | ~936 |
+| Petricite Burst | 33.00% | ~936 |
+| Old friend | 31.00% | ~879 |
+| Hijack | 30.00% | ~851 |
+| Devineur | 30.00% | ~851 |
+| Whispers in the Woods I | 27.00% | ~766 |
 | I chose my shackles | 26.00% | ~737 |
 | Ancient power | 26.00% | ~737 |
-| Sacred Woods | 24.00% | ~680 |
+| Sacred Woods | 24.00% | ~681 |
 | Little light | 23.00% | ~652 |
 | Capelworth | 23.00% | ~652 |
 | Full equipped | 23.00% | ~652 |
-| Glyndemere | 22.00% | ~623 |
-| Iffighain Headquarters | 22.00% | ~623 |
-| Whispers in the Woods II | 19.00% | ~538 |
-| Quickmoore Headquarters | 19.00% | ~538 |
+| Glyndemere | 22.00% | ~624 |
+| Iffighain Headquarters | 22.00% | ~624 |
+| Whispers in the Woods II | 19.00% | ~539 |
+| Quickmoore Headquarters | 19.00% | ~539 |
 | No more holding back | 18.00% | ~510 |
 | Terbisia | 18.00% | ~510 |
 | Whispers in the Woods III | 17.00% | ~482 |
 | Friendly fire | 17.00% | ~482 |
 | The Central Headquarters | 17.00% | ~482 |
-| My heart and sword always for Demacia | 16.00% | ~453 |
-| True power | 16.00% | ~453 |
-| Meltridge | 16.00% | ~453 |
-| Cloven Dell Headquarters | 16.00% | ~453 |
+| My heart and sword always for Demacia | 16.00% | ~454 |
+| True power | 16.00% | ~454 |
+| Meltridge | 16.00% | ~454 |
+| Cloven Dell Headquarters | 16.00% | ~454 |
 | Whispers in the Woods IV | 14.00% | ~397 |
 | I smell fear | 14.00% | ~397 |
-| Embrace the darkness | 13.00% | ~368 |
-| The end of the experiments | 13.00% | ~368 |
-| The Great City of Demacia | 13.00% | ~368 |
-| Truth is a dark mirror | 13.00% | ~368 |
-| Call it 'redistribution of magic | 13.00% | ~368 |
-| Do you trust me? | 12.00% | ~340 |
+| Embrace the darkness | 13.00% | ~369 |
+| The end of the experiments | 13.00% | ~369 |
+| The Great City of Demacia | 13.00% | ~369 |
+| Truth is a dark mirror | 13.00% | ~369 |
+| Call it 'redistribution of magic | 13.00% | ~369 |
 | Back to sleep, then... | 12.00% | ~340 |
+| Do you trust me? | 11.00% | ~312 |
 | Chains master | 11.00% | ~312 |
 | The great mage rebellion starts now | 11.00% | ~312 |
 | You can pet the... horse | 11.00% | ~312 |
-| Spellcrafting | 10.00% | ~283 |
+| Spellcrafting | 10.00% | ~284 |
 | Silverwing nest | 2.00% | ~57 |
 | The Unshackled | 1.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,833 (Ranked 218)  
+Progressed: 2,836 (Ranked 218)  
 Completed: 16 (0.56%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 16 (0.56%) (Ranked 203)
 | 2023-12-14 | 2,731 | 16 |
 | 2023-12-15 | 2,774 | 16 |
 | 2023-12-16 | 2,805 | 16 |
-| 2023-12-17 | 2,833 | 16 |
+| 2023-12-17 | 2,836 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

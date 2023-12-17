@@ -2,12 +2,12 @@
   "ID": "e4a2a414d46849f49a35c0f80df2903a",
   "Name": "Verdun",
   "ProductSlug": "verdun",
-  "Ranking_Rating": 550,
+  "Ranking_Rating": 549,
   "Ranking_Popularity": 363,
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1901,9 +1901,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 66673,
+  "EOS_Progressed": 66676,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 640,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28471,6 +28471,11 @@
       "Time": "2023-12-17T22:03:18.634489+00:00",
       "NumProgressed": 66673,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-17T23:03:59.6326646+00:00",
+      "NumProgressed": 66676,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -28482,7 +28487,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 36670
+      "UsersEstimate": 36672
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -28546,7 +28551,7 @@
       "Name": "Bronze x100",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "VERDUN_ACH_CANADIANS",
@@ -28674,7 +28679,7 @@
       "Name": "Shoot, Cover, Reload, Repeat",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "VERDUN_ACH_GOLD10_KILLSTREAK",
@@ -28714,7 +28719,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17335
+      "UsersEstimate": 17336
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -28738,7 +28743,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21335
+      "UsersEstimate": 21336
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -28746,7 +28751,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 26669
+      "UsersEstimate": 26670
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -28770,7 +28775,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 42004
+      "UsersEstimate": 42006
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -28826,7 +28831,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16668
+      "UsersEstimate": 16669
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -28850,7 +28855,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 52005
+      "UsersEstimate": 52007
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -28898,7 +28903,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8667
+      "UsersEstimate": 8668
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -28946,22 +28951,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 24669
+      "UsersEstimate": 24670
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 66673,
+      "Progressed": 66676,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-16T22:00:11.5437359+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:03:18.6344885+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:03:59.6326644+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:33.1495851+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:00:25.6892226+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:03:18.6346247+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:02:56.9900789+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:03:59.632905+00:00"
 }

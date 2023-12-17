@@ -3,11 +3,11 @@
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
   "Ranking_Rating": 920,
-  "Ranking_Popularity": 410,
+  "Ranking_Popularity": 409,
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 46,
+  "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -405,11 +405,17 @@
       "Rating": 4.21,
       "NumberOfAwards": 69,
       "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2023-12-17T23:00:34.9131334+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 70,
+      "NumberOfAwardsMax": 70
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 69,
-  "NumberOfAwardsMax": 69,
+  "NumberOfAwards": 70,
+  "NumberOfAwardsMax": 70,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -422,12 +428,12 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 69
+      "Count": 70
     }
   ],
-  "EOS_Progressed": 330641,
+  "EOS_Progressed": 330670,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3501,
+  "EOS_NewPlayers": 3503,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9990,6 +9996,11 @@
       "Time": "2023-12-17T22:04:20.5579827+00:00",
       "NumProgressed": 330641,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-17T23:05:25.843154+00:00",
+      "NumProgressed": 330670,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10002,7 +10013,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9919
+      "UsersEstimate": 9920
     },
     {
       "ID": "S02_BRDA",
@@ -10026,7 +10037,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2314
+      "UsersEstimate": 2315
     },
     {
       "ID": "S05_SWRA",
@@ -10138,7 +10149,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9919
+      "UsersEstimate": 9920
     },
     {
       "ID": "S19_CHALLENGES",
@@ -10194,7 +10205,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2314
+      "UsersEstimate": 2315
     },
     {
       "ID": "S26_CRTA",
@@ -10314,23 +10325,23 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3306
+      "UsersEstimate": 3307
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 330641,
+      "Progressed": 330670,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-28T19:01:10.9639356+00:00",
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
-  "LastChanged": "2023-12-16T11:59:39.7470392+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:04:20.5579823+00:00",
+  "LastChanged": "2023-12-17T23:00:34.9131333+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:05:25.8431538+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:59:17.1989698+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:04:20.5580429+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:00:34.9131341+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:05:25.8432479+00:00"
 }

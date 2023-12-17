@@ -5,16 +5,16 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 5.00% | ~12,605 |
-| First of Many | 4.00% | ~10,084 |
-| Expanding Horizons | 3.00% | ~7,563 |
-| Not Your Average Trait | 3.00% | ~7,563 |
-| Gleaming the Cube | 2.00% | ~5,042 |
-| Quest for Survival | 2.00% | ~5,042 |
-| Not a Janitor | 2.00% | ~5,042 |
-| Familiar Face | 2.00% | ~5,042 |
-| Boss'n Up | 2.00% | ~5,042 |
-| Trait Chaser | 2.00% | ~5,042 |
+| The Killing Jar | 5.00% | ~12,607 |
+| First of Many | 4.00% | ~10,085 |
+| Expanding Horizons | 3.00% | ~7,564 |
+| Not Your Average Trait | 3.00% | ~7,564 |
+| Gleaming the Cube | 2.00% | ~5,043 |
+| Quest for Survival | 2.00% | ~5,043 |
+| Not a Janitor | 2.00% | ~5,043 |
+| Familiar Face | 2.00% | ~5,043 |
+| Boss'n Up | 2.00% | ~5,043 |
+| Trait Chaser | 2.00% | ~5,043 |
 | Not So Special Now | 1.00% | ~2,521 |
 | Equal Measures | 1.00% | ~2,521 |
 | Blue Goddess | 1.00% | ~2,521 |
@@ -30,7 +30,7 @@ Rating: 4.75 (Ranked 150)
 | Power Surge | 0.90% | ~2,269 |
 | The God Gambit | 0.90% | ~2,269 |
 | Dark Designs | 0.90% | ~2,269 |
-| Master of the Dark Arts | 0.90% | ~281 |
+| Master of the Dark Arts | 0.90% | ~282 |
 | Am I Seeing This? | 0.80% | ~2,017 |
 | Traitor | 0.80% | ~2,017 |
 | Madman's Paradise | 0.80% | ~2,017 |
@@ -44,12 +44,12 @@ Rating: 4.75 (Ranked 150)
 | All These Traits� | 0.60% | ~1,513 |
 | The Ultimate Weapon | 0.60% | ~1,513 |
 | No One Should Have All That Power | 0.60% | ~1,513 |
-| Edgelord | 0.50% | ~1,260 |
-| Carnage in C-Minor | 0.50% | ~1,260 |
-| Transmutate | 0.50% | ~1,260 |
-| Only Human | 0.40% | ~1,008 |
-| Red Room | 0.40% | ~1,008 |
-| Tall Tales | 0.40% | ~1,008 |
+| Edgelord | 0.50% | ~1,261 |
+| Carnage in C-Minor | 0.50% | ~1,261 |
+| Transmutate | 0.50% | ~1,261 |
+| Only Human | 0.40% | ~1,009 |
+| Red Room | 0.40% | ~1,009 |
+| Tall Tales | 0.40% | ~1,009 |
 | Crafty | 0.30% | ~756 |
 | Ghost in the Machine | 0.30% | ~756 |
 | The Trigger | 0.30% | ~756 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 150)
 | A Foul Feast | 0.20% | ~63 |
 | You Shall Pass | 0.20% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,091 (Ranked 63)  
-Completed: 597 (0.24%) (Ranked 258)  
+Progressed: 252,137 (Ranked 63)  
+Completed: 598 (0.24%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -215,7 +215,7 @@ Completed: 597 (0.24%) (Ranked 258)
 | 2023-12-14 | 242,166 | 585 |
 | 2023-12-15 | 245,556 | 588 |
 | 2023-12-16 | 249,241 | 590 |
-| 2023-12-17 | 252,091 | 597 |
+| 2023-12-17 | 252,137 | 598 |
 ## Awards
 Max (Great Boss Battles): 2,917  (Ranked 100)  
 Sum: 7,182 (Ranked 122)  

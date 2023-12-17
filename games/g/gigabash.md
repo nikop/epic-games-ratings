@@ -5,21 +5,21 @@ Rating: 4.55 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 10.00% | ~9,151 |
-| I've Had Enough! | 8.00% | ~7,321 |
-| Fists, Fury & a lot of Rage | 6.00% | ~5,490 |
-| All For One and One For All | 5.00% | ~4,575 |
-| Seasoned Fighter | 5.00% | ~4,575 |
-| A New Age | 3.00% | ~2,745 |
-| Home Sweet Home? | 3.00% | ~2,745 |
-| Oh Baby, A Triple | 2.00% | ~1,830 |
-| Symbiotic | 2.00% | ~1,830 |
-| Battle Hardened | 1.00% | ~915 |
-| Master of Disguise | 1.00% | ~915 |
-| It's Mayhem! | 1.00% | ~915 |
-| Right back at'cha | 1.00% | ~915 |
-| Double Punch! | 0.80% | ~732 |
-| Spectacular Finisher | 0.80% | ~732 |
+| All Grown Up! | 10.00% | ~9,159 |
+| I've Had Enough! | 8.00% | ~7,327 |
+| Fists, Fury & a lot of Rage | 6.00% | ~5,495 |
+| All For One and One For All | 5.00% | ~4,579 |
+| Seasoned Fighter | 5.00% | ~4,579 |
+| A New Age | 3.00% | ~2,748 |
+| Home Sweet Home? | 3.00% | ~2,748 |
+| Oh Baby, A Triple | 2.00% | ~1,832 |
+| Symbiotic | 2.00% | ~1,832 |
+| Battle Hardened | 1.00% | ~916 |
+| Master of Disguise | 1.00% | ~916 |
+| It's Mayhem! | 1.00% | ~916 |
+| Right back at'cha | 1.00% | ~916 |
+| Double Punch! | 0.80% | ~733 |
+| Spectacular Finisher | 0.80% | ~733 |
 | Cautious Veteran | 0.70% | ~641 |
 | Martyrdom | 0.70% | ~641 |
 | Katamari | 0.50% | ~458 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 512)
 | Signature Look | 0.00% | ~0 |
 | What's Mine is Yours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,508 (Ranked 95)  
+Progressed: 91,589 (Ranked 95)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,11 +53,11 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 80,003 | 0 |
 | 2023-12-15 | 84,190 | 0 |
 | 2023-12-16 | 88,472 | 0 |
-| 2023-12-17 | 91,508 | 0 |
+| 2023-12-17 | 91,589 | 0 |
 ## Awards
-Max (Great Boss Battles): 30  (Ranked 504)  
+Max (Great Boss Battles): 30  (Ranked 505)  
 Sum: 30 (Ranked 522)  
-Diff (max vs sum): -18  
+Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 30 |

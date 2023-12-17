@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Potomac Computer Systems | 100.00% | ~3,492 |
-| Traveler | 7.00% | ~244 |
+| Potomac Computer Systems | 100.00% | ~3,493 |
+| Traveler | 7.00% | ~245 |
 | Explorer | 6.00% | ~210 |
 | Adventurer | 5.00% | ~175 |
 | Hero | 5.00% | ~175 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,492 (Ranked 213)  
+Progressed: 3,493 (Ranked 213)  
 Completed: 163 (4.67%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 163 (4.67%) (Ranked 81)
 | 2023-12-14 | 3,486 | 163 |
 | 2023-12-15 | 3,489 | 163 |
 | 2023-12-16 | 3,491 | 163 |
-| 2023-12-17 | 3,492 | 163 |
+| 2023-12-17 | 3,493 | 163 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

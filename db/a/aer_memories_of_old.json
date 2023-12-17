@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26470,
+  "EOS_Progressed": 26471,
   "EOS_Completed": 495,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.87,
   "EosHistory": [
@@ -26379,6 +26379,11 @@
       "Time": "2023-12-17T22:05:44.0626555+00:00",
       "NumProgressed": 26470,
       "NumCompleted": 495
+    },
+    {
+      "Time": "2023-12-17T23:07:21.4157979+00:00",
+      "NumProgressed": 26471,
+      "NumCompleted": 495
     }
   ],
   "TotalAchievements": 20,
@@ -26446,7 +26451,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3176
+      "UsersEstimate": 3177
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -26502,7 +26507,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3176
+      "UsersEstimate": 3177
     },
     {
       "ID": "INTRO_FINISHED",
@@ -26510,7 +26515,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20117
+      "UsersEstimate": 20118
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -26549,15 +26554,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26470,
+      "Progressed": 26471,
       "Completed": 495
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:05:44.0626551+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:07:21.4157976+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.7195881+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:59:29.0275969+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:05:44.0627809+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:00:51.7010343+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:07:21.4160181+00:00"
 }

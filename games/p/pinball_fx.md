@@ -30,6 +30,7 @@ Number of Ratings: 756  (23.09.2022)
 | Customizer | 0.10% | ~284 |
 | I know the Rules | 0.10% | ~284 |
 | Catomic Bomb | 0.10% | ~2 |
+| Terraformer | 0.10% | ~2 |
 | Did It for the Dowry | 0.10% | ~2 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
@@ -38,7 +39,6 @@ Number of Ratings: 756  (23.09.2022)
 | Royale Family | 0.00% | ~0 |
 | Mythic Toy | 0.00% | ~0 |
 | Fully Involved | 0.00% | ~0 |
-| Terraformer | 0.00% | ~0 |
 | The Captain | 0.00% | ~0 |
 | To boldly go… | 0.00% | ~0 |
 | Battle of Cardassia | 0.00% | ~0 |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 283,974 (Ranked 58)  
+Progressed: 283,988 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 283,148 | 0 |
 | 2023-12-15 | 283,377 | 0 |
 | 2023-12-16 | 283,697 | 0 |
-| 2023-12-17 | 283,974 | 0 |
+| 2023-12-17 | 283,988 | 0 |
 ## Awards
 Max (Great for Beginners): 209  (Ranked 288)  
 Sum: 1,620 (Ranked 230)  

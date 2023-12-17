@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 16387,
+  "EOS_Progressed": 16390,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 843,
+  "EOS_NewPlayers": 845,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -13955,6 +13955,11 @@
       "Time": "2023-12-17T22:09:19.8638887+00:00",
       "NumProgressed": 16387,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-17T23:10:05.372196+00:00",
+      "NumProgressed": 16390,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -14015,7 +14020,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 6883
+      "UsersEstimate": 6884
     },
     {
       "ID": "a_19",
@@ -14031,7 +14036,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "a_20",
@@ -14055,7 +14060,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "a_23",
@@ -14071,7 +14076,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "a_26",
@@ -14214,7 +14219,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 16387,
+      "Progressed": 16390,
       "Completed": 12
     }
   ],
@@ -14222,8 +14227,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:09:19.8638883+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:10:05.3721958+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:03.7853176+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:57:33.0250232+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:09:19.863949+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:57:59.7213857+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:10:05.3722651+00:00"
 }

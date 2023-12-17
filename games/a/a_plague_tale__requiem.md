@@ -5,17 +5,17 @@ Rating: 4.73 (Ranked 174)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~13,308 |
+| Under a New Sun | 92.00% | ~13,309 |
 | Newcomers | 78.00% | ~11,283 |
-| A Burden of Blood | 73.00% | ~10,559 |
+| A Burden of Blood | 73.00% | ~10,560 |
 | Protector's Duty | 70.00% | ~10,126 |
-| In our Wake | 68.00% | ~9,836 |
-| Alchemist | 68.00% | ~9,836 |
-| Leaving all Behind | 65.00% | ~9,402 |
-| Felons | 62.00% | ~8,968 |
+| In our Wake | 68.00% | ~9,837 |
+| Alchemist | 68.00% | ~9,837 |
+| Leaving all Behind | 65.00% | ~9,403 |
+| Felons | 62.00% | ~8,969 |
 | A Sea of Promises | 61.00% | ~8,824 |
-| Tales and Revelations | 57.00% | ~8,245 |
-| Bloodline | 53.00% | ~7,666 |
+| Tales and Revelations | 57.00% | ~8,246 |
+| Bloodline | 53.00% | ~7,667 |
 | The Cradle of Centuries | 49.00% | ~7,088 |
 | The Life We Deserve | 46.00% | ~6,654 |
 | Night guard | 43.00% | ~6,220 |
@@ -26,10 +26,10 @@ Rating: 4.73 (Ranked 174)
 | King Hugo | 25.00% | ~3,616 |
 | Mercy | 24.00% | ~3,472 |
 | Perfect shot | 23.00% | ~3,327 |
-| Effective instruments | 22.00% | ~3,182 |
+| Effective instruments | 22.00% | ~3,183 |
 | Knights! | 21.00% | ~3,038 |
 | Perfect throw | 21.00% | ~3,038 |
-| Handful of pockets | 13.00% | ~1,880 |
+| Handful of pockets | 13.00% | ~1,881 |
 | Pocket laboratory | 12.00% | ~1,736 |
 | Not a toy anymore | 11.00% | ~1,591 |
 | Herbalist | 8.00% | ~1,157 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 174)
 | Old protector | 2.00% | ~289 |
 | Malignant | 1.00% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,465 (Ranked 161)  
+Progressed: 14,466 (Ranked 161)  
 Completed: 58 (0.40%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 58 (0.40%) (Ranked 224)
 | 2023-12-14 | 14,178 | 58 |
 | 2023-12-15 | 14,260 | 58 |
 | 2023-12-16 | 14,360 | 58 |
-| 2023-12-17 | 14,465 | 58 |
+| 2023-12-17 | 14,466 | 58 |
 ## Awards
 Max (Great Boss Battles): 436  (Ranked 229)  
 Sum: 691 (Ranked 305)  

@@ -32,12 +32,12 @@
 | Potential Unlocked | 4.00% | ~9 |
 | The Voice of Hereafter | 4.00% | ~9 |
 | Despised | 4.00% | ~9 |
+| A Terrible Will | 4.00% | ~9 |
 | Inquisitions of Discord | 4.00% | ~9 |
 | Unseen Patterns | 4.00% | ~9 |
 | Bounty Hunter | 3.00% | ~7 |
 | Huntress Unbound | 3.00% | ~7 |
 | Xevarian Gambit | 3.00% | ~7 |
-| A Terrible Will | 3.00% | ~7 |
 | Life... Finds a Way | 3.00% | ~7 |
 | Insectoid Propagator | 3.00% | ~7 |
 | Supercargo | 2.00% | ~4 |

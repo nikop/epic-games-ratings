@@ -27,17 +27,17 @@
 | The Apartment | 33.00% | ~15 |
 | Nathaniel Dryden | 30.00% | ~14 |
 | Well-acquainted | 28.00% | ~13 |
+| Truth from within | 28.00% | ~13 |
 | A rude awakening | 28.00% | ~13 |
 | Anastasia Babanin | 28.00% | ~13 |
 | Zakariya Demir | 28.00% | ~13 |
 | Bartholomew | 28.00% | ~13 |
 | The Scheme | 28.00% | ~13 |
-| Truth from within | 26.00% | ~12 |
-| A curious phrase | 22.00% | ~10 |
-| Evelyn Lakshmi Warbeck | 22.00% | ~10 |
-| The Suspects | 22.00% | ~10 |
+| A curious phrase | 24.00% | ~11 |
+| Evelyn Lakshmi Warbeck | 24.00% | ~11 |
+| The Suspects | 24.00% | ~11 |
+| Johan Kristiansen | 20.00% | ~9 |
 | Horace Mountjoy | 17.00% | ~8 |
-| Johan Kristiansen | 17.00% | ~8 |
 | The Secrets | 17.00% | ~8 |
 | Well-travelled | 15.00% | ~7 |
 | A peculiar fellow | 15.00% | ~7 |

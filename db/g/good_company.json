@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5693,
+  "EOS_Progressed": 5695,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4783,6 +4783,11 @@
       "Time": "2023-12-17T20:05:44.9753116+00:00",
       "NumProgressed": 5693,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T23:07:00.7893734+00:00",
+      "NumProgressed": 5695,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4850,7 +4855,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "ach_campaign_progress10",
@@ -4906,7 +4911,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2790
+      "UsersEstimate": 2791
     },
     {
       "ID": "ach_campaign_progress6",
@@ -4914,7 +4919,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ach_campaign_progress7",
@@ -4946,7 +4951,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "ach_campaign_special10",
@@ -5178,7 +5183,7 @@
       "Name": "Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ach_frp_many_products2",
@@ -5401,15 +5406,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5693,
+      "Progressed": 5695,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:05:29.1304983+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:07:00.7893732+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:04.2667134+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:59:34.5728416+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:05:29.1305839+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:00:59.9893055+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:07:00.7894837+00:00"
 }

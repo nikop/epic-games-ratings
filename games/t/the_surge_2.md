@@ -5,16 +5,16 @@ Rating: 4.26 (Ranked 881)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,819 |
-| Don't I Know You...? | 76.00% | ~1,728 |
-| Jailbreak | 66.00% | ~1,501 |
+| Rigged And Ready | 80.00% | ~1,820 |
+| Don't I Know You...? | 76.00% | ~1,729 |
+| Jailbreak | 66.00% | ~1,502 |
 | Suited and Booted | 39.00% | ~887 |
 | HEADSHOT! | 38.00% | ~864 |
 | Sleeping With The Fishes | 36.00% | ~819 |
 | High Performance | 31.00% | ~705 |
 | Overheated | 30.00% | ~682 |
-| Powered Up | 29.00% | ~659 |
-| Studied The Blade | 25.00% | ~568 |
+| Powered Up | 29.00% | ~660 |
+| Studied The Blade | 25.00% | ~569 |
 | Home Invasion | 23.00% | ~523 |
 | Luminary | 23.00% | ~523 |
 | True Survivor | 22.00% | ~500 |
@@ -24,19 +24,19 @@ Rating: 4.26 (Ranked 881)
 | Unforeseeable Consequences | 20.00% | ~455 |
 | Court Martial | 19.00% | ~432 |
 | Clean Cut | 19.00% | ~432 |
-| Dead Again | 18.00% | ~409 |
+| Dead Again | 18.00% | ~410 |
 | Full Arsenal | 17.00% | ~387 |
 | Can't Trust Banks | 15.00% | ~341 |
-| Mommy Dearest | 14.00% | ~318 |
-| Bad Dog | 14.00% | ~318 |
+| Mommy Dearest | 14.00% | ~319 |
+| Bad Dog | 13.00% | ~296 |
 | Where It All Began | 13.00% | ~296 |
 | Risk Tolerant | 13.00% | ~296 |
 | What A Catchy Song | 13.00% | ~296 |
 | Corrupted Beauty | 12.00% | ~273 |
 | Marked For Success | 12.00% | ~273 |
 | Sorry, Didn't See You There | 12.00% | ~273 |
-| Stimulating The Local Economy | 10.00% | ~227 |
-| Triplets | 10.00% | ~227 |
+| Stimulating The Local Economy | 10.00% | ~228 |
+| Triplets | 10.00% | ~228 |
 | Denying Prophecy | 9.00% | ~205 |
 | A Little Banged Up | 8.00% | ~182 |
 | Following In Their Footsteps | 8.00% | ~182 |
@@ -55,15 +55,15 @@ Rating: 4.26 (Ranked 881)
 | Plank of Wood | 4.00% | ~91 |
 | It Lives! It Sniffs! It Conquers! | 3.00% | ~68 |
 | Gotta Craft 'em All | 3.00% | ~68 |
-| Own Medicine | 2.00% | ~45 |
-| Box Office Smash | 2.00% | ~45 |
-| Going Postal | 2.00% | ~45 |
-| Loot, Pillage & Craft | 2.00% | ~45 |
+| Own Medicine | 2.00% | ~46 |
+| Box Office Smash | 2.00% | ~46 |
+| Going Postal | 2.00% | ~46 |
+| Loot, Pillage & Craft | 2.00% | ~46 |
 | Swiss Army Drone | 1.00% | ~23 |
 | Three Birds With One Stone | 1.00% | ~23 |
 | The Easy Way Out | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,274 (Ranked 227)  
+Progressed: 2,275 (Ranked 227)  
 Completed: 13 (0.57%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 13 (0.57%) (Ranked 202)
 | 2023-12-14 | 2,235 | 13 |
 | 2023-12-15 | 2,246 | 13 |
 | 2023-12-16 | 2,261 | 13 |
-| 2023-12-17 | 2,274 | 13 |
+| 2023-12-17 | 2,275 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

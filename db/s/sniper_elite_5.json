@@ -643,9 +643,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4048,
+  "EOS_Progressed": 4049,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8743,6 +8743,11 @@
       "Time": "2023-12-17T22:08:49.2468878+00:00",
       "NumProgressed": 4048,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-17T23:09:23.0086739+00:00",
+      "NumProgressed": 4049,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8920,9 +8925,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1660
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8962,7 +8967,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9066,7 +9071,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9321,13 +9326,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3999,
+      "Progressed": 4000,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4048,
+      "Progressed": 4049,
       "Completed": 11
     }
   ],
@@ -9335,8 +9340,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:08:49.2468874+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:09:23.0086736+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:53.9169066+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:57:37.7475362+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:08:49.2469642+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:58:06.7920936+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:09:23.0088169+00:00"
 }

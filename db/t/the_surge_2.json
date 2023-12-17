@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2274,
+  "EOS_Progressed": 2275,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3493,6 +3493,11 @@
       "Time": "2023-12-17T21:05:00.8993838+00:00",
       "NumProgressed": 2274,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-17T23:05:23.1979058+00:00",
+      "NumProgressed": 2275,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3512,7 +3517,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "ACHV_03",
@@ -3520,7 +3525,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACHV_04",
@@ -3536,7 +3541,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ACHV_06",
@@ -3560,15 +3565,15 @@
       "Name": "Mommy Dearest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACHV_09",
       "SetID": "8p5mlmc",
       "Name": "Bad Dog",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 296
     },
     {
       "ID": "ACHV_10",
@@ -3600,7 +3605,7 @@
       "Name": "Own Medicine",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHV_14",
@@ -3664,7 +3669,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACHV_22",
@@ -3704,7 +3709,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "ACHV_27",
@@ -3728,7 +3733,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACHV_30",
@@ -3736,7 +3741,7 @@
       "Name": "Powered Up",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "ACHV_31",
@@ -3808,7 +3813,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "ACHV_40",
@@ -3888,7 +3893,7 @@
       "Name": "Box Office Smash",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHV_50",
@@ -3920,7 +3925,7 @@
       "Name": "Going Postal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHV_54",
@@ -3952,14 +3957,14 @@
       "Name": "Loot, Pillage \u0026 Craft",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2274,
+      "Progressed": 2275,
       "Completed": 13
     }
   ],
@@ -3967,8 +3972,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:04:18.6479667+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:05:23.1979056+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:57:00.284762+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:58:05.3739852+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:04:18.6480129+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:58:47.8806432+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:05:23.1980199+00:00"
 }

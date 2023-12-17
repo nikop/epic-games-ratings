@@ -1435,18 +1435,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 518,
       "NumberOfAwardsMax": 246
+    },
+    {
+      "Time": "2023-12-17T23:01:26.263771+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 519,
+      "NumberOfAwardsMax": 247
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 518,
-  "NumberOfAwardsMax": 246,
+  "NumberOfAwards": 519,
+  "NumberOfAwardsMax": 247,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 246
+      "Count": 247
     },
     {
       "Text": "This game is Relaxing",
@@ -1503,9 +1509,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 243337,
+  "EOS_Progressed": 243348,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1127,
+  "EOS_NewPlayers": 1133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22653,6 +22659,11 @@
       "Time": "2023-12-17T22:09:37.2128569+00:00",
       "NumProgressed": 243337,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-17T23:10:29.4198438+00:00",
+      "NumProgressed": 243348,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -23064,7 +23075,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19467
+      "UsersEstimate": 19468
     },
     {
       "ID": "DwarfElf15Support",
@@ -23096,7 +23107,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14600
+      "UsersEstimate": 14601
     },
     {
       "ID": "ElfEpic",
@@ -23112,7 +23123,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87601
+      "UsersEstimate": 87605
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23136,7 +23147,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9733
+      "UsersEstimate": 9734
     },
     {
       "ID": "EndGameCursed",
@@ -23160,7 +23171,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24334
+      "UsersEstimate": 24335
     },
     {
       "ID": "FollowBraztok",
@@ -23360,28 +23371,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9733
+      "UsersEstimate": 9734
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 243337,
+      "Progressed": 243348,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 243337,
+      "Progressed": 243348,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-12-12T21:57:44.3633431+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:09:37.2128563+00:00",
+  "LastChanged": "2023-12-17T23:01:26.2637708+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:10:29.4198436+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:08.5726178+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:59:51.7986919+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:09:37.2130264+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:01:26.2637713+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:10:29.4200743+00:00"
 }

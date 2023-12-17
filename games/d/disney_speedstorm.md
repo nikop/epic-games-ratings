@@ -5,15 +5,15 @@ Rating: 4.40 (Ranked 745)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~41,287 |
-| IT MAKES BOOM! | 8.00% | ~27,525 |
-| EXTRA BOOST | 6.00% | ~20,644 |
-| PROTECTED | 5.00% | ~17,203 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~13,762 |
-| PRO | 4.00% | ~13,762 |
-| AGGRESSIVE RACER | 3.00% | ~10,322 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,881 |
-| A TIGER'S FEAR | 2.00% | ~6,881 |
+| ROOKIE | 12.00% | ~41,296 |
+| IT MAKES BOOM! | 8.00% | ~27,531 |
+| EXTRA BOOST | 6.00% | ~20,648 |
+| PROTECTED | 5.00% | ~17,207 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~13,765 |
+| PRO | 4.00% | ~13,765 |
+| AGGRESSIVE RACER | 3.00% | ~10,324 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,883 |
+| A TIGER'S FEAR | 2.00% | ~6,883 |
 | TRAINING HARD | 1.00% | ~3,441 |
 | RELEASE THE KRAKEN | 1.00% | ~3,441 |
 | BE OUR GUEST | 1.00% | ~3,441 |
@@ -22,16 +22,16 @@ Rating: 4.40 (Ranked 745)
 | MASTER | 1.00% | ~3,441 |
 | LEGENDARY HERO | 1.00% | ~3,441 |
 | DEFEAT OUR CHAMPION | 0.90% | ~3,097 |
-| ACE DEFENDER | 0.80% | ~2,752 |
-| THE EYE OF THE HUNTER | 0.80% | ~2,752 |
-| EXPERIENCED CREW | 0.70% | ~2,408 |
-| ACE BRAWLER | 0.70% | ~2,408 |
-| PERFECTLY POISED | 0.50% | ~1,720 |
-| FRAMED! | 0.50% | ~1,720 |
-| ACE TRICKSTER | 0.50% | ~1,720 |
+| ACE DEFENDER | 0.80% | ~2,753 |
+| THE EYE OF THE HUNTER | 0.80% | ~2,753 |
+| EXPERIENCED CREW | 0.70% | ~2,409 |
+| ACE BRAWLER | 0.70% | ~2,409 |
+| PERFECTLY POISED | 0.50% | ~1,721 |
+| FRAMED! | 0.50% | ~1,721 |
+| ACE TRICKSTER | 0.50% | ~1,721 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 344,059 (Ranked 50)  
-Completed: 916 (0.27%) (Ranked 249)  
+Progressed: 344,133 (Ranked 50)  
+Completed: 919 (0.27%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -267,7 +267,7 @@ Completed: 916 (0.27%) (Ranked 249)
 | 2023-12-14 | 338,838 | 725 |
 | 2023-12-15 | 340,579 | 818 |
 | 2023-12-16 | 342,463 | 875 |
-| 2023-12-17 | 344,059 | 916 |
+| 2023-12-17 | 344,133 | 919 |
 ## Awards
 Max (Great for Beginners): 138  (Ranked 328)  
 Sum: 916 (Ranked 272)  

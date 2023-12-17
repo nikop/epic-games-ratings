@@ -5,37 +5,37 @@ Rating: 4.58 (Ranked 456)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 30.00% | ~1,064 |
-| Sputnik 2049 | 26.00% | ~922 |
-| Without Breaking Some Eggs... | 25.00% | ~887 |
-| Infinite Growth... | 25.00% | ~887 |
-| A Thousand Strong | 18.00% | ~639 |
+| Wakey Wakey | 30.00% | ~1,065 |
+| Sputnik 2049 | 26.00% | ~923 |
+| Without Breaking Some Eggs... | 25.00% | ~888 |
+| Infinite Growth... | 25.00% | ~888 |
 | Ready for a New World | 18.00% | ~639 |
-| Space Society | 17.00% | ~603 |
+| Space Society | 17.00% | ~604 |
+| A Thousand Strong | 17.00% | ~604 |
 | Permanent Redesigns | 15.00% | ~532 |
 | Fully Recycled | 14.00% | ~497 |
 | Ain't Nobody Got Time for That | 14.00% | ~497 |
 | The Ship of Theseus | 14.00% | ~497 |
-| Guy de Borderlands | 13.00% | ~461 |
+| Guy de Borderlands | 13.00% | ~462 |
 | Exceeding Capacity | 12.00% | ~426 |
 | Breaking Protocol | 12.00% | ~426 |
 | Hope Seeker | 12.00% | ~426 |
 | A Hunk of Junk | 11.00% | ~390 |
-| Man's Best Friend | 9.00% | ~319 |
+| Man's Best Friend | 9.00% | ~320 |
 | Power Outage | 8.00% | ~284 |
 | Convenient Transport | 8.00% | ~284 |
 | Please Make it Stop! | 8.00% | ~284 |
-| Sightseeing | 7.00% | ~248 |
-| Necessary Enhancement | 7.00% | ~248 |
-| From the Past | 7.00% | ~248 |
+| Sightseeing | 7.00% | ~249 |
+| Necessary Enhancement | 7.00% | ~249 |
+| From the Past | 7.00% | ~249 |
 | Access Granted | 6.00% | ~213 |
 | All in Good Health | 6.00% | ~213 |
-| Oats | 5.00% | ~177 |
-| What They Hide From Us | 5.00% | ~177 |
-| ...  in a finite world | 5.00% | ~177 |
-| BRAWL! | 5.00% | ~177 |
-| Drill-dozer | 5.00% | ~177 |
-| What the Ruins Teach Us | 5.00% | ~177 |
+| Oats | 5.00% | ~178 |
+| What They Hide From Us | 5.00% | ~178 |
+| ...  in a finite world | 5.00% | ~178 |
+| BRAWL! | 5.00% | ~178 |
+| Drill-dozer | 5.00% | ~178 |
+| What the Ruins Teach Us | 5.00% | ~178 |
 | Sustainable Energy | 4.00% | ~142 |
 | In Dolos We Trust | 4.00% | ~142 |
 | Pedal to the Metal | 4.00% | ~142 |
@@ -48,11 +48,11 @@ Rating: 4.58 (Ranked 456)
 | Catastrophe Avoided | 2.00% | ~71 |
 | Space Greenhouse | 2.00% | ~71 |
 | Tiqqun Unchained | 2.00% | ~71 |
-| Better Him Than Me | 1.00% | ~35 |
-| Remember the Dead | 1.00% | ~35 |
-| You Had One Job... | 1.00% | ~35 |
-| Gregor Spinoza | 1.00% | ~35 |
-| Scientifically Accurate | 1.00% | ~35 |
+| Better Him Than Me | 1.00% | ~36 |
+| Remember the Dead | 1.00% | ~36 |
+| You Had One Job... | 1.00% | ~36 |
+| Gregor Spinoza | 1.00% | ~36 |
+| Scientifically Accurate | 1.00% | ~36 |
 | Work Harder | 0.60% | ~21 |
 | Crunch Culture | 0.40% | ~14 |
 | Soylent Green | 0.40% | ~14 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 456)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,548 (Ranked 211)  
+Progressed: 3,550 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 3,460 | 0 |
 | 2023-12-15 | 3,496 | 0 |
 | 2023-12-16 | 3,519 | 0 |
-| 2023-12-17 | 3,548 | 0 |
+| 2023-12-17 | 3,550 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

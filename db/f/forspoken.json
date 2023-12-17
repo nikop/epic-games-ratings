@@ -498,9 +498,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 44262,
+  "EOS_Progressed": 44267,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 741,
+  "EOS_NewPlayers": 746,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15478,6 +15478,11 @@
       "Time": "2023-12-17T22:08:35.4339134+00:00",
       "NumProgressed": 44262,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T23:09:04.1353229+00:00",
+      "NumProgressed": 44267,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15521,7 +15526,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -15537,7 +15542,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4426
+      "UsersEstimate": 4427
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -15545,7 +15550,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -15641,7 +15646,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3098
+      "UsersEstimate": 3099
     },
     {
       "ID": "CUFF_ATTACK",
@@ -15729,7 +15734,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3098
+      "UsersEstimate": 3099
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -15912,22 +15917,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44262,
+      "Progressed": 44267,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9099,
-      "Completed": 9099
+      "Progressed": 9104,
+      "Completed": 9104
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-17T13:59:35.4745541+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:08:35.433913+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:09:04.1353226+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:58:44.537387+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:08:35.4339981+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:59:46.0496357+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:09:04.135491+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,860 |
-| Man of politics | 34.00% | ~5,831 |
+| Tattletale | 40.00% | ~6,861 |
+| Man of politics | 34.00% | ~5,832 |
 | Friends of sorts | 33.00% | ~5,660 |
 | Yet another secret | 33.00% | ~5,660 |
-| Let there be darkness | 31.00% | ~5,316 |
+| Let there be darkness | 31.00% | ~5,317 |
 | End of Book One | 29.00% | ~4,974 |
 | Garden of Eden | 24.00% | ~4,116 |
-| Wannabe knight | 23.00% | ~3,944 |
-| Full house | 23.00% | ~3,944 |
+| Wannabe knight | 23.00% | ~3,945 |
+| Full house | 23.00% | ~3,945 |
 | Help an old friend | 21.00% | ~3,602 |
 | Two of us | 20.00% | ~3,430 |
 | Negotiation skills | 18.00% | ~3,087 |
@@ -43,12 +43,12 @@ Number of Ratings: 368  (23.09.2022)
 | Vox Populi | 5.00% | ~858 |
 | Revenge | 4.00% | ~686 |
 | Countess Aliena | 4.00% | ~686 |
-| Care, like a brother cares | 3.00% | ~514 |
-| A brush with death | 3.00% | ~514 |
-| Self-defense | 3.00% | ~514 |
+| Care, like a brother cares | 3.00% | ~515 |
+| A brush with death | 3.00% | ~515 |
+| Self-defense | 3.00% | ~515 |
 | Boy of mystery | 2.00% | ~343 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,150 (Ranked 151)  
+Progressed: 17,152 (Ranked 151)  
 Completed: 119 (0.69%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 119 (0.69%) (Ranked 189)
 | 2023-12-14 | 17,039 | 119 |
 | 2023-12-15 | 17,058 | 119 |
 | 2023-12-16 | 17,109 | 119 |
-| 2023-12-17 | 17,150 | 119 |
+| 2023-12-17 | 17,152 | 119 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 320)  
 Sum: 200 (Ranked 407)  

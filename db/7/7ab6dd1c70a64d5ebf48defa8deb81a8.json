@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 750,
+  "EOS_Progressed": 752,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1570,6 +1570,11 @@
       "Time": "2023-12-17T22:09:48.5564693+00:00",
       "NumProgressed": 750,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T23:10:44.5030862+00:00",
+      "NumProgressed": 752,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1613,7 +1618,7 @@
       "Name": "To Battle",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_06",
@@ -1621,7 +1626,7 @@
       "Name": "Godslayer",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_07",
@@ -1677,7 +1682,7 @@
       "Name": "Adventurer",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_14",
@@ -1685,15 +1690,15 @@
       "Name": "Airborne",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_16",
@@ -1709,7 +1714,7 @@
       "Name": "Shatterer",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_18",
@@ -1779,9 +1784,9 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_27",
@@ -1797,7 +1802,7 @@
       "Name": "I Found It",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_29",
@@ -1819,9 +1824,9 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_33",
@@ -1868,14 +1873,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 750,
+      "Progressed": 752,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:09:48.5564688+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:10:44.503086+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:59:21.2321078+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:09:48.5564975+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:00:40.6393114+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:10:44.5031291+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3548,
+  "EOS_Progressed": 3550,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6581,6 +6581,11 @@
       "Time": "2023-12-17T21:06:57.8131223+00:00",
       "NumProgressed": 3548,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T23:07:20.1378195+00:00",
+      "NumProgressed": 3550,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6592,7 +6597,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "ACH_BASE_10",
@@ -6600,7 +6605,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH_BASE_11",
@@ -6616,7 +6621,7 @@
       "Name": "Better Him Than Me",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_BASE_14",
@@ -6624,7 +6629,7 @@
       "Name": "Oats",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_BASE_15",
@@ -6648,7 +6653,7 @@
       "Name": "What They Hide From Us",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_BASE_18",
@@ -6656,7 +6661,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "ACH_BASE_19",
@@ -6664,7 +6669,7 @@
       "Name": "...  in a finite world",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_BASE_2",
@@ -6672,7 +6677,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ACH_BASE_21",
@@ -6680,7 +6685,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "ACH_BASE_22",
@@ -6696,7 +6701,7 @@
       "Name": "Space Society",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ACH_BASE_24",
@@ -6704,7 +6709,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "ACH_BASE_25",
@@ -6712,7 +6717,7 @@
       "Name": "Remember the Dead",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_BASE_26",
@@ -6720,7 +6725,7 @@
       "Name": "Sightseeing",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_BASE_27",
@@ -6742,9 +6747,9 @@
       "ID": "ACH_BASE_29",
       "SetID": "92iocjf",
       "Name": "A Thousand Strong",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 639
+      "UsersEstimate": 604
     },
     {
       "ID": "ACH_BASE_3",
@@ -6816,7 +6821,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_BASE_38",
@@ -6824,7 +6829,7 @@
       "Name": "You Had One Job...",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_BASE_4",
@@ -6832,7 +6837,7 @@
       "Name": "Gregor Spinoza",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_BASE_40",
@@ -6928,7 +6933,7 @@
       "Name": "BRAWL!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_BASE_53",
@@ -6960,7 +6965,7 @@
       "Name": "Drill-dozer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_BASE_59",
@@ -6992,7 +6997,7 @@
       "Name": "Scientifically Accurate",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_BASE_62",
@@ -7024,7 +7029,7 @@
       "Name": "From the Past",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_BASE_8",
@@ -7032,7 +7037,7 @@
       "Name": "What the Ruins Teach Us",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_BASE_9",
@@ -7047,13 +7052,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1732,
+      "Progressed": 1734,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3548,
+      "Progressed": 3550,
       "Completed": 0
     }
   ],
@@ -7061,8 +7066,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:05:43.1533364+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:07:20.1378194+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:58:41.8197887+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:05:43.153396+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:59:41.999789+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:07:20.1378849+00:00"
 }

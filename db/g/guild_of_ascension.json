@@ -4,7 +4,7 @@
   "ProductSlug": "guild-of-ascension",
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 541,
+  "Ranking_EOS_NewPlayers": 542,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-09-21T14:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:11.7589471+00:00",
   "LastChanged": "2023-03-31T05:58:11.7589641+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:21.2214347+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:58:05.531779+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:03:58.0985041+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:58:48.1320439+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:04:54.1160825+00:00"
 }

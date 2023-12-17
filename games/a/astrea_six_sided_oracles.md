@@ -8,32 +8,32 @@
 | Purification Pioneer | 69.00% | ~121 |
 | Mechanical Buddy | 63.00% | ~110 |
 | Dicesmithing Time! | 58.00% | ~102 |
+| Endless Tricks | 51.00% | ~89 |
 | Sanctuary Guardian | 51.00% | ~89 |
-| Endless Tricks | 50.00% | ~88 |
 | Wild's Keeper | 46.00% | ~80 |
-| Mind Illuminator | 43.00% | ~75 |
-| Stellar Dismantler | 36.00% | ~63 |
-| Noctuan Champion | 34.00% | ~60 |
-| Anomaly Destroyer | 29.00% | ~51 |
+| Mind Illuminator | 44.00% | ~77 |
+| Stellar Dismantler | 37.00% | ~65 |
+| Noctuan Champion | 35.00% | ~61 |
+| Anomaly Destroyer | 30.00% | ~52 |
 | Astral Adventurer | 29.00% | ~51 |
 | Star Killer | 27.00% | ~47 |
-| Eridanian Champion | 25.00% | ~44 |
-| Lacertian Champion | 24.00% | ~42 |
-| Loyal Partner | 23.00% | ~40 |
+| Eridanian Champion | 26.00% | ~46 |
+| Lacertian Champion | 25.00% | ~44 |
+| Loyal Partner | 24.00% | ~42 |
 | Apian Champion | 21.00% | ~37 |
-| Shard Spender | 19.00% | ~33 |
+| Shard Spender | 20.00% | ~35 |
 | Unbeatable | 18.00% | ~32 |
-| Behenian Champion | 16.00% | ~28 |
-| Sadistic Plan | 13.00% | ~23 |
+| Behenian Champion | 17.00% | ~30 |
+| Sadistic Plan | 14.00% | ~25 |
+| Stellar Haste | 11.00% | ~19 |
+| Aquarian Champion | 11.00% | ~19 |
+| Astral Seeker | 10.00% | ~18 |
 | Heavy Purger | 10.00% | ~18 |
-| Stellar Haste | 10.00% | ~18 |
-| Aquarian Champion | 10.00% | ~18 |
-| Astral Seeker | 9.00% | ~16 |
 | Heart Gate | 9.00% | ~16 |
+| The Corruption Goddess | 9.00% | ~16 |
+| The Goddes Avatar | 9.00% | ~16 |
 | Wave Bender | 9.00% | ~16 |
 | Favored by the Cosmos | 8.00% | ~14 |
-| The Corruption Goddess | 8.00% | ~14 |
-| The Goddes Avatar | 8.00% | ~14 |
 | Anomaly Control | 6.00% | ~10 |
 | Artificer | 6.00% | ~10 |
 | Can't touch this | 6.00% | ~10 |
@@ -45,13 +45,13 @@
 | Behenian Hero | 5.00% | ~9 |
 | Lacertian Hero | 5.00% | ~9 |
 | Purification Avatar | 4.00% | ~7 |
+| Noctuan Hero | 4.00% | ~7 |
 | Astrarium of Holding | 3.00% | ~5 |
 | If I Had Failed... | 3.00% | ~5 |
 | Prestidigitation | 3.00% | ~5 |
 | The Abyssal Terror | 3.00% | ~5 |
 | Aquarian Hero | 3.00% | ~5 |
 | Behenian Mastery | 3.00% | ~5 |
-| Noctuan Hero | 3.00% | ~5 |
 | Critical Twist | 2.00% | ~4 |
 | Pocket Astrarium | 2.00% | ~4 |
 | Reflexive Mind | 2.00% | ~4 |

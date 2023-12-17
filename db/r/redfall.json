@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1912,
+  "EOS_Progressed": 1914,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2776,6 +2776,11 @@
       "Time": "2023-12-17T21:07:55.4037806+00:00",
       "NumProgressed": 1912,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T23:08:18.3609292+00:00",
+      "NumProgressed": 1914,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2835,7 +2840,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Achievement_009",
@@ -2843,7 +2848,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Achievement_010",
@@ -2987,7 +2992,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Achievement_028",
@@ -3003,7 +3008,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Achievement_030",
@@ -3019,7 +3024,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Achievement_032",
@@ -3314,7 +3319,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1912,
+      "Progressed": 1914,
       "Completed": 0
     }
   ],
@@ -3322,8 +3327,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-17T18:59:50.7372616+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:06:24.2773025+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:08:18.360929+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:59:32.4022171+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:06:24.277384+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:00:56.7313734+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:08:18.3609821+00:00"
 }

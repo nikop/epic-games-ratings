@@ -257,9 +257,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 9951,
+  "EOS_Progressed": 9957,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 2273,
+  "EOS_NewPlayers": 2278,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -6902,6 +6902,11 @@
       "Time": "2023-12-17T22:09:43.7792891+00:00",
       "NumProgressed": 9951,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-17T23:10:38.2809312+00:00",
+      "NumProgressed": 9957,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -6922,7 +6927,7 @@
       "Name": "Baby Steps",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 2985
+      "UsersEstimate": 2987
     },
     {
       "ID": "BeLikeWater",
@@ -6954,7 +6959,7 @@
       "Name": "Connection Lost",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "Eavesdropper",
@@ -6986,7 +6991,7 @@
       "Name": "First Time?",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 4179
+      "UsersEstimate": 4182
     },
     {
       "ID": "FuneralForTheDeath",
@@ -7058,7 +7063,7 @@
       "Name": "Nasty!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2090
+      "UsersEstimate": 2091
     },
     {
       "ID": "NoMoreTotems",
@@ -7066,7 +7071,7 @@
       "Name": "No More Totems",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "NotLikeTheOthers",
@@ -7106,7 +7111,7 @@
       "Name": "The Old-School Way",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "TheQuarterback",
@@ -7114,7 +7119,7 @@
       "Name": "The Quarterback",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 3184
+      "UsersEstimate": 3186
     },
     {
       "ID": "ThisIsDharma",
@@ -7130,7 +7135,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "UnResurrected",
@@ -7154,7 +7159,7 @@
       "Name": "Digestive Issues",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -7185,7 +7190,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 9951,
+      "Progressed": 9957,
       "Completed": 18
     }
   ],
@@ -7193,8 +7198,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-17T21:58:16.4878665+00:00",
-  "LastChanged_Achievements": "2023-12-17T22:09:43.7792887+00:00",
+  "LastChanged_Achievements": "2023-12-17T23:10:38.280931+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:14.4379471+00:00",
-  "LastUpdate_Ratings": "2023-12-17T21:58:16.487867+00:00",
-  "LastUpdate_Achievements": "2023-12-17T22:09:43.7793461+00:00"
+  "LastUpdate_Ratings": "2023-12-17T22:59:03.5376107+00:00",
+  "LastUpdate_Achievements": "2023-12-17T23:10:38.281014+00:00"
 }
