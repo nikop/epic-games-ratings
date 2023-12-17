@@ -6,24 +6,24 @@
 | ---- | ---------- | ----- |
 | Home Sweet Home | 88.00% | ~53 |
 | Enough rooms to swing a cat | 85.00% | ~51 |
-| First to the post | 83.00% | ~50 |
-| A kind of Magic | 77.00% | ~46 |
-| Connected | 70.00% | ~42 |
-| Expansion | 68.00% | ~41 |
-| Harvest Time | 62.00% | ~37 |
-| Mine! | 62.00% | ~37 |
-| Artificer's Apprentice | 57.00% | ~34 |
+| First to the post | 85.00% | ~51 |
+| A kind of Magic | 80.00% | ~48 |
+| Connected | 72.00% | ~43 |
+| Expansion | 70.00% | ~42 |
+| Harvest Time | 63.00% | ~38 |
+| Mine! | 63.00% | ~38 |
+| Artificer's Apprentice | 58.00% | ~35 |
 | Fly the friendly Sky | 48.00% | ~29 |
 | Necromancer's Apprentice | 45.00% | ~27 |
 | Get out of here! | 45.00% | ~27 |
 | Alchemist's Apprentice | 42.00% | ~25 |
+| Friend of Lyraine | 42.00% | ~25 |
 | The Circle | 40.00% | ~24 |
-| Friend of Lyraine | 40.00% | ~24 |
 | Redecorating | 33.00% | ~20 |
 | Bad JuJu | 25.00% | ~15 |
 | Friend of Sevenkeeps | 23.00% | ~14 |
 | Slave to the rhythm | 22.00% | ~13 |
-| Castle Meldec | 18.00% | ~11 |
+| Castle Meldec | 20.00% | ~12 |
 | Sevenkeeps Seat of Kings | 18.00% | ~11 |
 | Friend of Alluvyan | 15.00% | ~9 |
 | Friend of Gillyshire | 15.00% | ~9 |

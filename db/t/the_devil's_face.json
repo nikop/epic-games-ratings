@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewPlayers": 377,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 587,
+  "EOS_Progressed": 588,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
@@ -2559,6 +2559,11 @@
       "Time": "2023-12-17T18:05:27.3424993+00:00",
       "NumProgressed": 587,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-17T20:05:55.8789116+00:00",
+      "NumProgressed": 588,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2602,7 +2607,7 @@
       "Name": "Hubris",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -2626,15 +2631,15 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "296pn27",
       "Name": "This looks really bad",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 141
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2681,14 +2686,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 587,
+      "Progressed": 588,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:05:45.432171+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:05:55.8789111+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:05.7189556+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:59:37.2413589+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:05:45.4321936+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:59:41.3947704+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:05:55.8789339+00:00"
 }

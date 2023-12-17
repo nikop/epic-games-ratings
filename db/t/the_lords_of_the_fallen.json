@@ -2,12 +2,12 @@
   "ID": "f2d5f78997994c9891b8f23d962be28e",
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen",
-  "Ranking_Rating": 916,
-  "Ranking_Popularity": 292,
+  "Ranking_Rating": 920,
+  "Ranking_Popularity": 294,
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.22,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2023-10-15T11:58:59.8898367+00:00",
@@ -913,10 +913,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 524,
       "NumberOfAwardsMax": 201
+    },
+    {
+      "Time": "2023-12-17T20:02:38.9901173+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 530,
+      "NumberOfAwardsMax": 201
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 524,
+  "NumberOfAwards": 530,
   "NumberOfAwardsMax": 201,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -930,7 +936,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 148
+      "Count": 154
     },
     {
       "Text": "This game has Diverse Characters",
@@ -975,9 +981,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4821,
+  "EOS_Progressed": 4858,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2501,
+  "EOS_NewPlayers": 2537,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5145,6 +5151,11 @@
       "Time": "2023-12-17T19:08:16.9734645+00:00",
       "NumProgressed": 4821,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T20:08:56.3086322+00:00",
+      "NumProgressed": 4858,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -5309,7 +5320,7 @@
       "Name": "Comrades",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_021",
@@ -5660,16 +5671,16 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 4821,
+      "Progressed": 4858,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2023-12-17T07:00:24.363428+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:08:16.9734643+00:00",
+  "LastChanged": "2023-12-17T20:02:38.990117+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:08:56.3086318+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:35.9560906+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:02:26.0698891+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:08:16.973519+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:02:38.9901177+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:08:56.3086893+00:00"
 }

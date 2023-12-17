@@ -6,23 +6,23 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~2,938 |
-| Ready for Winter | 64.00% | ~2,541 |
-| Ready for Summer | 51.00% | ~2,025 |
-| Cordon Bleu | 43.00% | ~1,707 |
-| Tapped! | 37.00% | ~1,469 |
-| Eureka | 32.00% | ~1,270 |
-| Scourge Slayer | 25.00% | ~992 |
-| Science, Troglodyte! | 23.00% | ~913 |
-| Exceptional Skill | 22.00% | ~873 |
-| Home Sweet Home | 22.00% | ~873 |
-| Encyclopedic! | 19.00% | ~754 |
-| The Power of Family | 17.00% | ~675 |
-| A Fortress Toppled! | 16.00% | ~635 |
-| Apex Predator | 16.00% | ~635 |
-| Strange amalgams | 12.00% | ~476 |
-| The Power of Faith | 12.00% | ~476 |
-| The Power of Freedom | 9.00% | ~357 |
+| Venture Outward | 74.00% | ~2,942 |
+| Ready for Winter | 64.00% | ~2,544 |
+| Ready for Summer | 51.00% | ~2,027 |
+| Cordon Bleu | 43.00% | ~1,709 |
+| Tapped! | 37.00% | ~1,471 |
+| Eureka | 32.00% | ~1,272 |
+| Scourge Slayer | 25.00% | ~994 |
+| Science, Troglodyte! | 23.00% | ~914 |
+| Exceptional Skill | 22.00% | ~874 |
+| Home Sweet Home | 22.00% | ~874 |
+| Encyclopedic! | 19.00% | ~755 |
+| The Power of Family | 17.00% | ~676 |
+| A Fortress Toppled! | 16.00% | ~636 |
+| Apex Predator | 16.00% | ~636 |
+| Strange amalgams | 12.00% | ~477 |
+| The Power of Faith | 12.00% | ~477 |
+| The Power of Freedom | 10.00% | ~398 |
 | Ace Detective | 8.00% | ~318 |
 | Gift from the Ancestors | 8.00% | ~318 |
 | Magic is a science | 8.00% | ~318 |
@@ -37,10 +37,10 @@ Number of Ratings: 266  (23.09.2022)
 | Memory of a legend | 4.00% | ~159 |
 | Light of Levant | 3.00% | ~119 |
 | This was a mistake... | 3.00% | ~119 |
-| Crowd Pleaser. | 2.00% | ~79 |
-| Perfect Defense | 2.00% | ~79 |
-| Power! To! The People! | 2.00% | ~79 |
-| Your actions define you | 2.00% | ~79 |
+| Crowd Pleaser. | 2.00% | ~80 |
+| Perfect Defense | 2.00% | ~80 |
+| Power! To! The People! | 2.00% | ~80 |
+| Your actions define you | 2.00% | ~80 |
 | The blood is life | 1.00% | ~40 |
 | They'll Tell Stories About This | 1.00% | ~40 |
 | Vanquisher of nightmares | 1.00% | ~40 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~16 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,970 (Ranked 205)  
+Progressed: 3,975 (Ranked 205)  
 Completed: 5 (0.13%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 5 (0.13%) (Ranked 286)
 | 2023-12-14 | 3,790 | 4 |
 | 2023-12-15 | 3,863 | 5 |
 | 2023-12-16 | 3,940 | 5 |
-| 2023-12-17 | 3,970 | 5 |
+| 2023-12-17 | 3,975 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 483)  
 Sum: 246 (Ranked 389)  

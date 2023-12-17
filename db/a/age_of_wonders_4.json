@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5791,
+  "EOS_Progressed": 5794,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8310,6 +8310,11 @@
       "Time": "2023-12-17T19:03:50.4206946+00:00",
       "NumProgressed": 5791,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-17T20:04:02.9596757+00:00",
+      "NumProgressed": 5794,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8449,7 +8454,7 @@
       "Name": "Secret Technique",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "25",
@@ -8559,9 +8564,9 @@
       "ID": "37",
       "SetID": "3aa2279",
       "Name": "Against the Odds",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 46
     },
     {
       "ID": "38",
@@ -8800,13 +8805,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5791,
+      "Progressed": 5794,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5791,
+      "Progressed": 5794,
       "Completed": 7
     }
   ],
@@ -8814,8 +8819,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:03:50.4206944+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:04:02.9596752+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:58:39.8348017+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:03:50.4207629+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:58:45.0351661+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:04:02.9597681+00:00"
 }

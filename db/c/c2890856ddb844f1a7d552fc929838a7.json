@@ -3,8 +3,8 @@
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
   "Ranking_Rating": 26,
-  "Ranking_Popularity": 533,
-  "Ranking_PopularitySum": 539,
+  "Ranking_Popularity": 534,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 162,
@@ -3402,9 +3402,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 648
+      "UsersEstimate": 662
     },
     {
       "ID": "AC10",
@@ -3707,8 +3707,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-13T22:00:21.7018049+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:03:31.4786001+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:03:44.7074699+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:44.5606116+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:58:54.8852859+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:03:31.478657+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:58:59.4875124+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:03:44.7075215+00:00"
 }

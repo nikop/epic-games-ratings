@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 63.00% | ~466 |
-| The Teleprobe | 49.00% | ~363 |
-| The City | 44.00% | ~326 |
+| The Teleprobe | 50.00% | ~370 |
+| The City | 45.00% | ~333 |
 | The field base | 40.00% | ~296 |
 | Survivors | 34.00% | ~252 |
 | The Condor | 32.00% | ~237 |
@@ -15,7 +15,7 @@
 | The Necroevolution | 25.00% | ~185 |
 | Krauta is alive | 24.00% | ~178 |
 | Peacemaker | 21.00% | ~155 |
-| Volcanologist | 19.00% | ~141 |
+| Volcanologist | 20.00% | ~148 |
 | On her own | 18.00% | ~133 |
 | Evacuation | 17.00% | ~126 |
 | Fierce fight | 16.00% | ~118 |
@@ -31,7 +31,7 @@
 | Strong objection | 5.00% | ~37 |
 | Got lost again | 4.00% | ~30 |
 | I leave no man behind (no exceptions) | 2.00% | ~15 |
-| Convoy list | 0.80% | ~6 |
+| Convoy list | 0.90% | ~7 |
 | No more mistakes | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 740 (Ranked 292)  

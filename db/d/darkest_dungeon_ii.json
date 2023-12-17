@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9846,9 +9846,9 @@
       "Count": 1018
     }
   ],
-  "EOS_Progressed": 128099,
+  "EOS_Progressed": 128109,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2051,
+  "EOS_NewPlayers": 2054,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35531,6 +35531,11 @@
       "Time": "2023-12-17T19:08:40.8375312+00:00",
       "NumProgressed": 128099,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T20:09:19.6169247+00:00",
+      "NumProgressed": 128109,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36022,7 +36027,7 @@
       "Name": "Handled",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "run_victory_act05",
@@ -36030,7 +36035,7 @@
       "Name": "Body of Work",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -36126,7 +36131,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -36150,7 +36155,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -36173,21 +36178,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128099,
+      "Progressed": 128109,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 2968,
+      "Progressed": 2978,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-17T18:58:03.9657788+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:08:40.8375308+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:09:19.6169242+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:58:03.9657795+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:08:40.8376829+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:58:09.9915893+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:09:19.617096+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -249,9 +249,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5818,
+  "EOS_Progressed": 5819,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7904,6 +7904,11 @@
       "Time": "2023-12-17T19:04:42.6542061+00:00",
       "NumProgressed": 5818,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T20:04:54.2450904+00:00",
+      "NumProgressed": 5819,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -8043,7 +8048,7 @@
       "Name": "One way ticket",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "ACH_DEEDEE",
@@ -8131,7 +8136,7 @@
       "Name": "Family guy",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 4480
+      "UsersEstimate": 4481
     },
     {
       "ID": "ACH_FIRE_POLICE",
@@ -8163,7 +8168,7 @@
       "Name": "Rescue time!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "ACH_HARD",
@@ -8179,7 +8184,7 @@
       "Name": "What goes around...",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2618
+      "UsersEstimate": 2619
     },
     {
       "ID": "ACH_HOLIDAYS",
@@ -8211,7 +8216,7 @@
       "Name": "Home, sweet home",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "ACH_MADHATTER",
@@ -8249,9 +8254,9 @@
       "ID": "ACH_NORMAL",
       "SetID": "5nj1ea3",
       "Name": "Manhattan Project",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_NOT_MADE_IT",
@@ -8259,7 +8264,7 @@
       "Name": "Duck and cover!",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 3840
+      "UsersEstimate": 3841
     },
     {
       "ID": "ACH_PANZER",
@@ -8331,7 +8336,7 @@
       "Name": "I will survive!",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5411
+      "UsersEstimate": 5412
     },
     {
       "ID": "ACH_SURVIVE_111_DAYS",
@@ -8347,7 +8352,7 @@
       "Name": "Survivalist",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 5236
+      "UsersEstimate": 5237
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -8355,7 +8360,7 @@
       "Name": "Last man standing",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 4654
+      "UsersEstimate": 4655
     },
     {
       "ID": "ACH_SURVIVE_5_DAYS",
@@ -8363,7 +8368,7 @@
       "Name": "Prepper",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5469
+      "UsersEstimate": 5470
     },
     {
       "ID": "ACH_TOILET_BUSTER",
@@ -8394,7 +8399,7 @@
     {
       "ID": "5nj1ea3",
       "IsBase": true,
-      "Progressed": 5818,
+      "Progressed": 5819,
       "Completed": 1
     }
   ],
@@ -8402,8 +8407,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-12-16T21:02:29.6896541+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:04:42.6542059+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:04:54.2450895+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:40.8323499+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:57:15.6078221+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:04:42.6543011+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:57:21.4447759+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:04:54.2451629+00:00"
 }

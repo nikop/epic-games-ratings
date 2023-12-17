@@ -8,7 +8,7 @@
 | Play It Again Sam | 90.00% | ~241 |
 | Play Me By The Hour | 69.00% | ~185 |
 | Patient Listener | 47.00% | ~126 |
-| Video Saved The Radio Star | 39.00% | ~105 |
+| Video Saved The Radio Star | 40.00% | ~107 |
 | Hashtag Winning | 38.00% | ~102 |
 | A Woman Scorned | 28.00% | ~75 |
 | Look Mum I'm A Detective | 22.00% | ~59 |
@@ -26,8 +26,8 @@
 | The Big Sleep | 5.00% | ~13 |
 | Bullseye | 4.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 268 (Ranked 378)  
-Completed: 3 (1.12%) (Ranked 166)  
+Progressed: 268 (Ranked 379)  
+Completed: 3 (1.12%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

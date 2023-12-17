@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~580 |
-| Training Simulation | 79.00% | ~493 |
+| Travel Streamer | 92.00% | ~575 |
+| Training Simulation | 79.00% | ~494 |
 | Kuku Bird Hunter | 65.00% | ~406 |
-| Storm Traveller | 60.00% | ~374 |
-| Wolf King Killer | 54.00% | ~337 |
-| Fashion Connoisseur | 53.00% | ~331 |
+| Storm Traveller | 60.00% | ~375 |
+| Wolf King Killer | 55.00% | ~344 |
+| Fashion Connoisseur | 52.00% | ~325 |
 | Arms Mechanic | 48.00% | ~300 |
 | Flower Thief | 44.00% | ~275 |
-| Apostle of Flame | 38.00% | ~237 |
-| Beginner Artificer | 37.00% | ~231 |
+| Apostle of Flame | 39.00% | ~244 |
+| Beginner Artificer | 38.00% | ~238 |
 | Beginner Cook | 36.00% | ~225 |
-| Seal Breaker | 31.00% | ~193 |
+| Seal Breaker | 31.00% | ~194 |
 | Handyman | 28.00% | ~175 |
 | Giant Lizard Killer | 26.00% | ~162 |
 | Guardian | 25.00% | ~156 |
@@ -25,13 +25,13 @@
 | Flying Kobold Killer | 18.00% | ~112 |
 | Youth Magnet | 18.00% | ~112 |
 | Furious Scorpion Killer | 17.00% | ~106 |
-| Master Artificer | 17.00% | ~106 |
 | Lethal Blade Mantis Killer | 16.00% | ~100 |
 | Squeaky Clean | 16.00% | ~100 |
+| Master Artificer | 16.00% | ~100 |
 | Kind Adventurer | 15.00% | ~94 |
-| Mermaid Killer | 14.00% | ~87 |
-| Cave Master | 14.00% | ~87 |
-| Face Slapper | 14.00% | ~87 |
+| Mermaid Killer | 14.00% | ~88 |
+| Cave Master | 14.00% | ~88 |
+| Face Slapper | 14.00% | ~88 |
 | Boss challenge | 10.00% | ~62 |
 | Berserker Slayer | 10.00% | ~62 |
 | Master Cook | 9.00% | ~56 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 624 (Ranked 307)  
+Progressed: 625 (Ranked 307)  
 Completed: 1 (0.16%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 1 (0.16%) (Ranked 278)
 | 2023-12-14 | 600 | 1 |
 | 2023-12-15 | 603 | 1 |
 | 2023-12-16 | 617 | 1 |
-| 2023-12-17 | 624 | 1 |
+| 2023-12-17 | 625 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

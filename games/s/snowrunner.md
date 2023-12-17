@@ -1,11 +1,11 @@
 # SnowRunner
 [Store](https://store.epicgames.com/en-US/p/snowrunner)  
 [View Rawdata](../../db/s/snowrunner.json)  
-Rating: 4.76 (Ranked 131)  
+Rating: 4.76 (Ranked 130)  
 Number of Ratings: 21,349  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 13,144  (Ranked 32)  
-Sum: 86,782 (Ranked 21)  
+Sum: 86,808 (Ranked 21)  
 Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 11
 | This game has Quickly Understood Controls | 10,751 |
 | This game is Extremely Fun | 10,383 |
 | This game has Amazing Storytelling | 9,434 |
-| This game has Challenging Combat | 7,612 |
+| This game has Challenging Combat | 7,638 |
 | This game has Amazing Characters | 6,861 |
 | This game has a Creative Community | 6,792 |
 | This game has Obsessive Gameplay | 4,064 |
@@ -347,4 +347,4 @@ Diff (max vs sum): 11
 | 2023-12-14 | 4.76 | - | 13,046 | 86,305 |
 | 2023-12-15 | 4.76 | - | 13,084 | 86,473 |
 | 2023-12-16 | 4.76 | - | 13,105 | 86,640 |
-| 2023-12-17 | 4.76 | - | 13,144 | 86,782 |
+| 2023-12-17 | 4.76 | - | 13,144 | 86,808 |

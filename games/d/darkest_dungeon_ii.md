@@ -27,8 +27,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 2.00% | ~2,562 |
 | FNG | 2.00% | ~2,562 |
 | Nope | 2.00% | ~2,562 |
-| Ploughshares to Swords | 2.00% | ~59 |
-| Friends 'Til the End | 2.00% | ~59 |
+| Ploughshares to Swords | 2.00% | ~60 |
+| Friends 'Til the End | 2.00% | ~60 |
 | Resurrection | 1.00% | ~1,281 |
 | Unleash Hell | 1.00% | ~1,281 |
 | Funny Guy | 1.00% | ~1,281 |
@@ -61,8 +61,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Looks Familiar | 0.60% | ~769 |
 | Eyes Up | 0.60% | ~769 |
 | For Old Time' Sake | 0.60% | ~18 |
-| Handled | 0.50% | ~640 |
-| Body of Work | 0.50% | ~640 |
+| Handled | 0.50% | ~641 |
+| Body of Work | 0.50% | ~641 |
 | Et Tu, Riposte? | 0.50% | ~15 |
 | Shrine of Reflection | 0.40% | ~512 |
 | Clearing the Ledger | 0.30% | ~384 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,099 (Ranked 85)  
+Progressed: 128,109 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 3 (0.00%) (Ranked 380)
 | 2023-12-14 | 127,096 | 3 |
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
-| 2023-12-17 | 128,099 | 3 |
+| 2023-12-17 | 128,109 | 3 |
 ## Awards
 Max (Character Customization): 7,763  (Ranked 50)  
 Sum: 20,673 (Ranked 58)  

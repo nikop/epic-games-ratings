@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1291,
+  "EOS_Progressed": 1293,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 5.34,
   "EosHistory": [
@@ -4362,6 +4362,11 @@
       "Time": "2023-12-17T19:05:47.0335398+00:00",
       "NumProgressed": 1291,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-17T20:05:57.3243399+00:00",
+      "NumProgressed": 1293,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 25,
@@ -4373,7 +4378,7 @@
       "Name": "I did it",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "END_GOOD",
@@ -4381,7 +4386,7 @@
       "Name": "In this together",
       "Percentage": 18,
       "XP": 200,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "META_ALL_LINK",
@@ -4389,7 +4394,7 @@
       "Name": "Peace walker",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -4397,7 +4402,7 @@
       "Name": "Cable guy",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "META_FIRST_LINK",
@@ -4405,7 +4410,7 @@
       "Name": "A good beginning",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "META_HALF_LINK",
@@ -4413,7 +4418,7 @@
       "Name": "Half the way",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "META_RESULT_1-2",
@@ -4493,7 +4498,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -4509,7 +4514,7 @@
       "Name": "Champollion",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -4517,15 +4522,15 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 284
+      "UsersEstimate": 297
     },
     {
       "ID": "PROGRESS_N1",
@@ -4533,7 +4538,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "PROGRESS_N2",
@@ -4541,7 +4546,7 @@
       "Name": "The great escape",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "PROGRESS_N3",
@@ -4563,16 +4568,16 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 245
+      "UsersEstimate": 259
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1291,
+      "Progressed": 1293,
       "Completed": 69
     }
   ],
@@ -4580,8 +4585,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-17T17:02:33.5506237+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:05:47.0335395+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:05:57.3243395+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:00:49.3605563+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:05:47.033573+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:02:32.9922436+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:05:57.3243786+00:00"
 }

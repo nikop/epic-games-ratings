@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 355,
+  "EOS_Progressed": 356,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.13,
+  "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.5545173+00:00",
@@ -831,6 +831,11 @@
       "Time": "2023-12-17T19:08:56.9280829+00:00",
       "NumProgressed": 355,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-17T20:09:35.6528195+00:00",
+      "NumProgressed": 356,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 19,
@@ -856,9 +861,9 @@
       "ID": "misha_date2_all",
       "SetID": "6h5h9ho",
       "Name": "Playing the field",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 14
     },
     {
       "ID": "misha_date3_all",
@@ -874,7 +879,7 @@
       "Name": "Let it begin",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "profile_ryan",
@@ -882,7 +887,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ryan_date2_all",
@@ -993,7 +998,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 355,
+      "Progressed": 356,
       "Completed": 4
     }
   ],
@@ -1001,8 +1006,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:08:56.9280827+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:09:35.652819+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:10.0190099+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:58:51.2966908+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:08:56.9280972+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:58:56.5365054+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:09:35.65284+00:00"
 }

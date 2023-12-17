@@ -4,7 +4,7 @@
   "ProductSlug": "i-saw-black-clouds-67008d",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 360,
+  "EOS_Progressed": 361,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.67,
+  "EOS_Completed_Percentage": 1.66,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.1686756+00:00",
@@ -656,6 +656,11 @@
       "Time": "2023-12-17T19:03:50.1084527+00:00",
       "NumProgressed": 360,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-17T20:04:02.5714403+00:00",
+      "NumProgressed": 361,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -675,7 +680,7 @@
       "Name": "Believer",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "clear",
@@ -689,9 +694,9 @@
       "ID": "denial",
       "SetID": "8b5dfcp",
       "Name": "Denial",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 7
     },
     {
       "ID": "end",
@@ -729,9 +734,9 @@
       "ID": "jack",
       "SetID": "8b5dfcp",
       "Name": "Jack",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 54
+      "UsersEstimate": 58
     },
     {
       "ID": "nonconsensual",
@@ -747,7 +752,7 @@
       "Name": "Origin",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "realist",
@@ -777,16 +782,16 @@
       "ID": "wrong",
       "SetID": "8b5dfcp",
       "Name": "Wrong",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 69
     }
   ],
   "AchievementSets": [
     {
       "ID": "8b5dfcp",
       "IsBase": true,
-      "Progressed": 360,
+      "Progressed": 361,
       "Completed": 6
     }
   ],
@@ -794,8 +799,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:03:50.1084523+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:04:02.5714397+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.9938054+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:58:38.9521396+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:03:50.1084632+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:58:44.1832933+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:04:02.5714572+00:00"
 }

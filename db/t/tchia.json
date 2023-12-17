@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8074,
+  "EOS_Progressed": 8076,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9332,6 +9332,11 @@
       "Time": "2023-12-17T19:04:03.1410041+00:00",
       "NumProgressed": 8074,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-17T20:04:15.9136192+00:00",
+      "NumProgressed": 8076,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9343,7 +9348,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "ARRR",
@@ -9351,7 +9356,7 @@
       "Name": "Arrr!",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "AUDIOPHILE",
@@ -9431,7 +9436,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ICONOCLAST",
@@ -9439,7 +9444,7 @@
       "Name": "Iconoclast",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "IN_A_PINCH",
@@ -9479,7 +9484,7 @@
       "Name": "Snip Snip",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "SOUL_CANON",
@@ -9487,7 +9492,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -9495,7 +9500,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "THING",
@@ -9510,7 +9515,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8074,
+      "Progressed": 8076,
       "Completed": 34
     }
   ],
@@ -9518,8 +9523,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-17T08:57:44.8415466+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:04:03.1410039+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:04:15.9136189+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.5620941+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:57:20.3119567+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:04:03.1410667+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:57:26.1475223+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:04:15.9136726+00:00"
 }

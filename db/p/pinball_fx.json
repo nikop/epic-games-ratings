@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2131,9 +2131,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 283923,
+  "EOS_Progressed": 283943,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1149,
+  "EOS_NewPlayers": 1163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29721,6 +29721,11 @@
       "Time": "2023-12-17T19:07:54.3329689+00:00",
       "NumProgressed": 283923,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T20:08:32.8371653+00:00",
+      "NumProgressed": 283943,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -29954,9 +29959,9 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "83b4cpd",
       "Name": "Ball Launched",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1420
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -30043,21 +30048,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 283923,
+      "Progressed": 283943,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 2082,
+      "Progressed": 2102,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-12-17T19:03:03.2857328+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:07:54.3329687+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:08:32.8371648+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:50:00.8574994+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:03:03.2857335+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:07:54.3331077+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:03:15.5823407+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:08:32.8372893+00:00"
 }

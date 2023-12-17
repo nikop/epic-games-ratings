@@ -5,10 +5,10 @@ Rating: 4.50 (Ranked 598)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 10.00% | ~3,237 |
+| Stylish | 10.00% | ~3,238 |
 | Meticulously Efficient | 8.00% | ~2,590 |
 | Advancement | 7.00% | ~2,266 |
-| Swift Rift Removers | 6.00% | ~1,942 |
+| Swift Rift Removers | 6.00% | ~1,943 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,619 |
 | Discovery | 5.00% | ~1,619 |
 | Fully Upgraded | 5.00% | ~1,619 |
@@ -30,15 +30,15 @@ Rating: 4.50 (Ranked 598)
 | Right back at ya | 3.00% | ~971 |
 | Side Hustle | 3.00% | ~971 |
 | Summoner | 3.00% | ~971 |
-| Back Off | 2.00% | ~647 |
-| Collector | 2.00% | ~647 |
-| Escape Artist | 2.00% | ~647 |
-| Rift Destroyer | 2.00% | ~647 |
-| Seasoned | 2.00% | ~647 |
-| Skilled | 2.00% | ~647 |
-| Stunner | 2.00% | ~647 |
-| Tobin's Prodigy | 2.00% | ~647 |
-| Welcome to the Crew | 2.00% | ~647 |
+| Back Off | 2.00% | ~648 |
+| Collector | 2.00% | ~648 |
+| Escape Artist | 2.00% | ~648 |
+| Rift Destroyer | 2.00% | ~648 |
+| Seasoned | 2.00% | ~648 |
+| Skilled | 2.00% | ~648 |
+| Stunner | 2.00% | ~648 |
+| Tobin's Prodigy | 2.00% | ~648 |
+| Welcome to the Crew | 2.00% | ~648 |
 | Diabolical | 1.00% | ~324 |
 | Fragile Panes | 1.00% | ~324 |
 | Liability | 1.00% | ~324 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 598)
 | Ultimate Defense | 0.20% | ~65 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,374 (Ranked 127)  
+Progressed: 32,378 (Ranked 127)  
 Completed: 69 (0.21%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,11 +298,11 @@ Completed: 69 (0.21%) (Ranked 263)
 | 2023-12-14 | 32,251 | 69 |
 | 2023-12-15 | 32,291 | 69 |
 | 2023-12-16 | 32,332 | 69 |
-| 2023-12-17 | 32,374 | 69 |
+| 2023-12-17 | 32,378 | 69 |
 ## Awards
 Max (Great for Beginners): 324  (Ranked 251)  
-Sum: 2,912 (Ranked 180)  
-Diff (max vs sum): 71  
+Sum: 2,912 (Ranked 181)  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 324 |

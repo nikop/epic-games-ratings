@@ -5,21 +5,21 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 89.00% | ~12,027 |
-| I Challenge You To Save More Money! | 82.00% | ~11,081 |
-| I Love How Tough You Are | 67.00% | ~9,054 |
-| Wanna Come To My Place For Dinner? | 60.00% | ~8,108 |
+| Last Night...Did We... | 89.00% | ~12,028 |
+| I Challenge You To Save More Money! | 82.00% | ~11,082 |
+| I Love How Tough You Are | 67.00% | ~9,055 |
+| Wanna Come To My Place For Dinner? | 60.00% | ~8,109 |
 | What I Want Is You | 55.00% | ~7,433 |
-| To Be Or Not To Be | 52.00% | ~7,027 |
+| To Be Or Not To Be | 52.00% | ~7,028 |
 | Are You Alright? | 47.00% | ~6,352 |
 | Love Actually | 43.00% | ~5,811 |
-| Drama King | 38.00% | ~5,135 |
+| Drama King | 38.00% | ~5,136 |
 | Go Clean up In Your Own Way | 34.00% | ~4,595 |
 | You're Really Something Else | 34.00% | ~4,595 |
-| Drama CP: Reel to Real | 32.00% | ~4,324 |
-| Worthless Speech | 32.00% | ~4,324 |
-| Happy Family | 31.00% | ~4,189 |
-| FIRST LOVE | 31.00% | ~4,189 |
+| Drama CP: Reel to Real | 32.00% | ~4,325 |
+| Worthless Speech | 32.00% | ~4,325 |
+| Happy Family | 31.00% | ~4,190 |
+| FIRST LOVE | 31.00% | ~4,190 |
 | ONE PUNCH | 30.00% | ~4,054 |
 | Absolutely Elegant | 29.00% | ~3,919 |
 | Still Single | 29.00% | ~3,919 |
@@ -37,7 +37,7 @@ Rating: 4.75 (Ranked 150)
 | Can You Do This Or Not? | 14.00% | ~1,892 |
 | Doesn't Matter I'll Handle It | 12.00% | ~1,622 |
 | The Flash | 11.00% | ~1,487 |
-| New Yoga Pose Unlocked | 10.00% | ~1,351 |
+| New Yoga Pose Unlocked | 10.00% | ~1,352 |
 | My Dear Love! | 8.00% | ~1,081 |
 | Life Is A Rollercoaster | 8.00% | ~1,081 |
 | Counting Sheep? | 8.00% | ~1,081 |
@@ -48,7 +48,7 @@ Rating: 4.75 (Ranked 150)
 | Tall; Grande; Venti | 2.00% | ~270 |
 | Limerence | 2.00% | ~270 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,514 (Ranked 163)  
+Progressed: 13,515 (Ranked 163)  
 Completed: 223 (1.65%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,14 +119,14 @@ Completed: 223 (1.65%) (Ranked 141)
 | 2023-12-14 | 11,591 | 205 |
 | 2023-12-15 | 12,236 | 211 |
 | 2023-12-16 | 12,949 | 216 |
-| 2023-12-17 | 13,514 | 223 |
+| 2023-12-17 | 13,515 | 223 |
 ## Awards
-Max (Impact the Story): 24  (Ranked 533)  
-Sum: 24 (Ranked 539)  
-Diff (max vs sum): -6  
+Max (Impact the Story): 26  (Ranked 525)  
+Sum: 26 (Ranked 534)  
+Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
-| In this game, your choices Impact the Story | 24 |
+| In this game, your choices Impact the Story | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -156,3 +156,4 @@ Diff (max vs sum): -6
 | 2023-12-01 | 4.74 | 23 | 23 |
 | 2023-12-10 | 4.75 | 23 | 23 |
 | 2023-12-16 | 4.75 | 24 | 24 |
+| 2023-12-17 | 4.75 | 26 | 26 |

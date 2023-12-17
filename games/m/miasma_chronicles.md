@@ -5,23 +5,23 @@ Rating: 4.41 (Ranked 729)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,485 |
-| Ranidaphobia | 77.00% | ~1,243 |
-| Aspiring Editor | 75.00% | ~1,210 |
+| First Blood | 92.00% | ~1,486 |
+| Ranidaphobia | 77.00% | ~1,244 |
+| Aspiring Editor | 75.00% | ~1,211 |
 | Gun for Hire | 70.00% | ~1,130 |
-| I am the law! | 64.00% | ~1,033 |
+| I am the law! | 64.00% | ~1,034 |
 | Lumberjack | 54.00% | ~872 |
 | Croaked | 49.00% | ~791 |
 | Limp Richard | 49.00% | ~791 |
-| Exorcist | 49.00% | ~791 |
 | Editor Adept | 48.00% | ~775 |
+| Exorcist | 48.00% | ~775 |
 | From Darkness to Light | 48.00% | ~775 |
-| Giant Killer | 46.00% | ~742 |
-| Sensei | 44.00% | ~710 |
+| Giant Killer | 46.00% | ~743 |
+| Sensei | 44.00% | ~711 |
 | Firestarter | 43.00% | ~694 |
 | The meaning of Kain | 42.00% | ~678 |
-| Recycler | 41.00% | ~662 |
 | Technophobe | 41.00% | ~662 |
+| Recycler | 40.00% | ~646 |
 | Are you not entertained? | 36.00% | ~581 |
 | Ganglord | 36.00% | ~581 |
 | Jarhead | 36.00% | ~581 |
@@ -35,8 +35,8 @@ Rating: 4.41 (Ranked 729)
 | There Can Be Only One! | 27.00% | ~436 |
 | Chain Killer | 23.00% | ~371 |
 | The Watchers | 22.00% | ~355 |
-| Commando | 17.00% | ~274 |
-| Dr Jones | 17.00% | ~274 |
+| Commando | 17.00% | ~275 |
+| Dr Jones | 17.00% | ~275 |
 | Chaos Theory | 16.00% | ~258 |
 | Newtonian Knockout | 16.00% | ~258 |
 | Ruthless | 14.00% | ~226 |
@@ -57,7 +57,7 @@ Rating: 4.41 (Ranked 729)
 | Goaaaaal! | 0.90% | ~15 |
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,614 (Ranked 245)  
+Progressed: 1,615 (Ranked 245)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,6 +206,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 1,607 | 0 |
 | 2023-12-15 | 1,612 | 0 |
 | 2023-12-16 | 1,614 | 0 |
+| 2023-12-17 | 1,615 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

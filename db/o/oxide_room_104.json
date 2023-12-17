@@ -4,7 +4,7 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 267,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1406,9 +1406,9 @@
       "ID": "ACH_PICKLOCK",
       "SetID": "511e31d",
       "Name": "Nimble fingers",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_RESTAURANT",
@@ -1430,9 +1430,9 @@
       "ID": "ACH_ROOM104",
       "SetID": "511e31d",
       "Name": "Room 104",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_ROOM203",
@@ -1493,8 +1493,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:05:35.4026493+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:05:46.1694337+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.3257713+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:59:14.3388066+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:05:35.4026728+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:59:18.3872078+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:05:46.1694584+00:00"
 }

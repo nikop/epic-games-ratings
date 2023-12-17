@@ -6,16 +6,16 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 8.00% | ~11,688 |
-| Basic in Bulk | 8.00% | ~11,688 |
-| Titan's First Steps | 8.00% | ~11,688 |
-| Tinkle of Coins | 7.00% | ~10,227 |
-| Disintermediation | 6.00% | ~8,766 |
-| Capitalism Ho! | 6.00% | ~8,766 |
-| Another Satisfied Customer | 5.00% | ~7,305 |
-| It's Free Real Estate | 5.00% | ~7,305 |
-| Budding Merchant | 5.00% | ~7,305 |
-| Own the Means of Production | 5.00% | ~7,305 |
+| Sponsored by Argon | 8.00% | ~11,689 |
+| Basic in Bulk | 8.00% | ~11,689 |
+| Titan's First Steps | 8.00% | ~11,689 |
+| Tinkle of Coins | 7.00% | ~10,228 |
+| Disintermediation | 6.00% | ~8,767 |
+| Capitalism Ho! | 6.00% | ~8,767 |
+| Another Satisfied Customer | 5.00% | ~7,306 |
+| It's Free Real Estate | 5.00% | ~7,306 |
+| Budding Merchant | 5.00% | ~7,306 |
+| Own the Means of Production | 5.00% | ~7,306 |
 | One Easy Payment | 4.00% | ~5,844 |
 | Some Assembly Required | 4.00% | ~5,844 |
 | Pretty Penny | 4.00% | ~5,844 |
@@ -113,13 +113,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.60% | ~877 |
 | Unleashed Potential | 0.60% | ~877 |
 | JACKPOT!!! | 0.60% | ~877 |
-| Oligarch Monarch | 0.50% | ~730 |
-| Merchant Extraordinaire | 0.50% | ~730 |
+| Oligarch Monarch | 0.50% | ~731 |
+| Merchant Extraordinaire | 0.50% | ~731 |
 | To Hell and Back | 0.40% | ~584 |
 | Cash Only Please | 0.40% | ~584 |
 | Capitalist Camaraderie | 0.20% | ~292 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,100 (Ranked 80)  
+Progressed: 146,111 (Ranked 80)  
 Completed: 322 (0.22%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -360,7 +360,7 @@ Completed: 322 (0.22%) (Ranked 261)
 | 2023-12-14 | 145,474 | 307 |
 | 2023-12-15 | 145,699 | 316 |
 | 2023-12-16 | 145,933 | 319 |
-| 2023-12-17 | 146,100 | 322 |
+| 2023-12-17 | 146,111 | 322 |
 ## Awards
 Max (Great for Beginners): 4,898  (Ranked 75)  
 Sum: 27,756 (Ranked 51)  

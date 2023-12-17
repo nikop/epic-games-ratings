@@ -1450,9 +1450,9 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 134
     },
     {
       "ID": "REMAKE_002",
@@ -1466,9 +1466,9 @@
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 263
+      "UsersEstimate": 268
     },
     {
       "ID": "Remake_005",
@@ -1625,8 +1625,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:04:50.1023632+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:05:01.585996+00:00",
   "LastUpdate_AppInfo": "2023-12-11T23:56:59.5421023+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:57:03.240483+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:04:50.1023842+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:57:09.3887465+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:05:01.5860197+00:00"
 }

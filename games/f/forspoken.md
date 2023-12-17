@@ -5,10 +5,10 @@ Rating: 4.15 (Ranked 964)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,424 |
+| Attachments | 10.00% | ~4,425 |
 | Unlocked Potential | 9.00% | ~3,982 |
-| Tinkerer | 7.00% | ~3,097 |
-| Knock 'Em Dead | 7.00% | ~3,097 |
+| Tinkerer | 7.00% | ~3,098 |
+| Knock 'Em Dead | 7.00% | ~3,098 |
 | Leapfrogger | 6.00% | ~2,655 |
 | Pilgrimage: Initiate | 6.00% | ~2,655 |
 | Hell of a Run | 6.00% | ~2,655 |
@@ -18,10 +18,10 @@ Rating: 4.15 (Ranked 964)
 | Help Me Out Here | 5.00% | ~2,212 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,770 |
 | Stuck | 4.00% | ~1,770 |
-| Outdoorsperson | 3.00% | ~1,327 |
-| The Interloper | 3.00% | ~1,327 |
-| Hop, Step, Jump | 3.00% | ~1,327 |
-| Endless Runner | 3.00% | ~1,327 |
+| Outdoorsperson | 3.00% | ~1,328 |
+| The Interloper | 3.00% | ~1,328 |
+| Hop, Step, Jump | 3.00% | ~1,328 |
+| Endless Runner | 3.00% | ~1,328 |
 | What Must Be Done | 2.00% | ~885 |
 | Might and Main | 2.00% | ~885 |
 | Damned If You Do... | 2.00% | ~885 |
@@ -35,9 +35,9 @@ Rating: 4.15 (Ranked 964)
 | Forspoken | 1.00% | ~442 |
 | Pilgrimage: Novice | 1.00% | ~442 |
 | Wildfire | 0.70% | ~310 |
-| Awakening | 0.60% | ~265 |
-| Explorer: Trailblazer | 0.60% | ~265 |
-| Realized Potential | 0.60% | ~265 |
+| Awakening | 0.60% | ~266 |
+| Explorer: Trailblazer | 0.60% | ~266 |
+| Realized Potential | 0.60% | ~266 |
 | Through the Eyes of Another: Seer | 0.40% | ~177 |
 | Archivist | 0.30% | ~133 |
 | Craftsperson | 0.30% | ~133 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 964)
 | Remembrance | 0.10% | ~44 |
 | Cat Person | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,244 (Ranked 120)  
+Progressed: 44,250 (Ranked 120)  
 Completed: 3 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 3 (0.01%) (Ranked 356)
 | 2023-12-14 | 43,783 | 3 |
 | 2023-12-15 | 43,925 | 3 |
 | 2023-12-16 | 44,114 | 3 |
-| 2023-12-17 | 44,244 | 3 |
+| 2023-12-17 | 44,250 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

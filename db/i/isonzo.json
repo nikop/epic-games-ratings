@@ -997,7 +997,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9458,
+  "EOS_Progressed": 9459,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
@@ -9527,6 +9527,11 @@
       "Time": "2023-12-17T19:08:24.643267+00:00",
       "NumProgressed": 9458,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-17T20:09:03.6383227+00:00",
+      "NumProgressed": 9459,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9538,7 +9543,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -9706,7 +9711,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3310
+      "UsersEstimate": 3311
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -9818,7 +9823,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -9897,7 +9902,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9458,
+      "Progressed": 9459,
       "Completed": 10
     }
   ],
@@ -9905,8 +9910,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-12T17:02:56.6362998+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:08:24.6432667+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:09:03.6383222+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:27.7823002+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:59:01.7280221+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:08:24.6433248+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:59:06.0558857+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:09:03.6383942+00:00"
 }

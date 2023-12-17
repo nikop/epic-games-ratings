@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~226 |
-| Starting Skyward | 53.00% | ~207 |
-| Grime is Not Good | 47.00% | ~183 |
+| In the Black | 58.00% | ~227 |
+| Starting Skyward | 52.00% | ~203 |
+| Grime is Not Good | 47.00% | ~184 |
 | Floor Galore | 41.00% | ~160 |
 | Dinner Dash | 41.00% | ~160 |
 | Campaign Launch | 40.00% | ~156 |
-| Need a Consult | 37.00% | ~144 |
-| It's Technical | 37.00% | ~144 |
-| Upgrade Unlock | 36.00% | ~140 |
+| Need a Consult | 37.00% | ~145 |
+| It's Technical | 37.00% | ~145 |
+| Upgrade Unlock | 36.00% | ~141 |
 | Delegate Maintenance | 34.00% | ~133 |
 | Destination Destiny | 32.00% | ~125 |
 | Proper Walls | 31.00% | ~121 |
-| Happy Tenants | 26.00% | ~101 |
+| Happy Tenants | 26.00% | ~102 |
 | Potent Potables | 25.00% | ~98 |
 | Smooth Service | 25.00% | ~98 |
 | Your Prestige is Rising | 24.00% | ~94 |
@@ -32,9 +32,9 @@
 | Rehab Expert | 18.00% | ~70 |
 | Tasty Profits | 18.00% | ~70 |
 | Established Fame | 17.00% | ~66 |
-| Under One Roof | 16.00% | ~62 |
-| Cashflow Chief | 16.00% | ~62 |
-| Starred Dining | 15.00% | ~58 |
+| Under One Roof | 16.00% | ~63 |
+| Cashflow Chief | 16.00% | ~63 |
+| Starred Dining | 15.00% | ~59 |
 | Smooth Operator | 13.00% | ~51 |
 | Boutique Benefits | 13.00% | ~51 |
 | Terrifically Trashed | 13.00% | ~51 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 390 (Ranked 341)  
+Progressed: 391 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 367 | 0 |
 | 2023-12-15 | 372 | 0 |
 | 2023-12-16 | 385 | 0 |
-| 2023-12-17 | 390 | 0 |
+| 2023-12-17 | 391 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,38 +6,38 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 76.00% | ~1,240 |
-| Lovebirds | 48.00% | ~783 |
-| Life’s short, ride long | 43.00% | ~702 |
-| Hug therapy | 42.00% | ~685 |
-| Over my dead body | 38.00% | ~620 |
-| Shake the rust off their feet | 20.00% | ~326 |
-| My little pony | 19.00% | ~310 |
-| Strike! | 18.00% | ~294 |
-| A love supreme | 18.00% | ~294 |
-| In my shoes | 16.00% | ~261 |
-| Like new! | 14.00% | ~228 |
-| Heartstrings | 13.00% | ~212 |
-| Head in the clouds | 13.00% | ~212 |
-| Back to rust | 12.00% | ~196 |
-| Don't look back | 12.00% | ~196 |
-| Flower Powered | 11.00% | ~180 |
-| Perfect timing | 9.00% | ~147 |
-| Unstoppable | 9.00% | ~147 |
+| Balding bloot! | 76.00% | ~1,247 |
+| Lovebirds | 47.00% | ~771 |
+| Life’s short, ride long | 43.00% | ~706 |
+| Hug therapy | 42.00% | ~689 |
+| Over my dead body | 38.00% | ~624 |
+| Shake the rust off their feet | 20.00% | ~328 |
+| My little pony | 19.00% | ~312 |
+| Strike! | 18.00% | ~295 |
+| A love supreme | 18.00% | ~295 |
+| In my shoes | 16.00% | ~263 |
+| Like new! | 14.00% | ~230 |
+| Heartstrings | 13.00% | ~213 |
+| Head in the clouds | 13.00% | ~213 |
+| Back to rust | 12.00% | ~197 |
+| Don't look back | 12.00% | ~197 |
+| Flower Powered | 11.00% | ~181 |
+| Perfect timing | 9.00% | ~148 |
+| Unstoppable | 9.00% | ~148 |
 | Self-sustainability | 8.00% | ~131 |
 | Ain't no mountain high enough | 8.00% | ~131 |
 | Can't get wetter... | 5.00% | ~82 |
 | Spring cleaning | 5.00% | ~82 |
 | An eye for an eye | 5.00% | ~82 |
-| Second thoughts | 4.00% | ~65 |
-| Mooning the moon | 4.00% | ~65 |
-| Strip-a-bobble | 4.00% | ~65 |
+| Second thoughts | 4.00% | ~66 |
+| Mooning the moon | 4.00% | ~66 |
+| Strip-a-bobble | 4.00% | ~66 |
 | Pearls before Birble | 3.00% | ~49 |
 | Last minute | 3.00% | ~49 |
 | Thar she blows | 2.00% | ~33 |
 | À la carte | 2.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,632 (Ranked 244)  
+Progressed: 1,641 (Ranked 244)  
 Completed: 10 (0.61%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 10 (0.61%) (Ranked 195)
 | 2023-12-14 | 1,576 | 10 |
 | 2023-12-15 | 1,586 | 10 |
 | 2023-12-16 | 1,606 | 10 |
-| 2023-12-17 | 1,632 | 10 |
+| 2023-12-17 | 1,641 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

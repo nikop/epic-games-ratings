@@ -1,47 +1,47 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.19 (Ranked 939)  
+Rating: 4.19 (Ranked 938)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~900 |
-| Battlefields Have Memories | 79.00% | ~818 |
-| Enlisted | 73.00% | ~756 |
-| Maybe Engage a Little | 66.00% | ~683 |
-| No More Names | 47.00% | ~486 |
-| Initiate | 32.00% | ~331 |
-| Thrada-Kul | 28.00% | ~290 |
-| Gravity-Challenged Rocks | 22.00% | ~228 |
-| Socialite | 21.00% | ~217 |
-| Soldier | 18.00% | ~186 |
-| All the Major Food Groups | 17.00% | ~176 |
-| Beggars Would Ride | 15.00% | ~155 |
-| Control is an Illusion | 14.00% | ~145 |
-| The Means to Save It | 11.00% | ~114 |
+| Unforeseen | 88.00% | ~918 |
+| Battlefields Have Memories | 79.00% | ~824 |
+| Enlisted | 73.00% | ~761 |
+| Maybe Engage a Little | 67.00% | ~699 |
+| No More Names | 48.00% | ~501 |
+| Initiate | 32.00% | ~334 |
+| Thrada-Kul | 28.00% | ~292 |
+| Gravity-Challenged Rocks | 22.00% | ~229 |
+| Socialite | 21.00% | ~219 |
+| Soldier | 18.00% | ~188 |
+| All the Major Food Groups | 17.00% | ~177 |
+| Beggars Would Ride | 15.00% | ~156 |
+| Control is an Illusion | 14.00% | ~146 |
+| The Means to Save It | 11.00% | ~115 |
 | Resilience to Sin | 10.00% | ~104 |
-| A Familiar Nest | 9.00% | ~93 |
-| Geas Aristeya | 9.00% | ~93 |
-| Periapt Alizarin | 9.00% | ~93 |
+| A Familiar Nest | 9.00% | ~94 |
+| Geas Aristeya | 9.00% | ~94 |
+| Periapt Alizarin | 9.00% | ~94 |
 | A Perfect Cycle | 8.00% | ~83 |
-| Recruit | 8.00% | ~83 |
-| Armsman | 7.00% | ~72 |
+| Recruit | 7.00% | ~73 |
+| Armsman | 7.00% | ~73 |
 | Lights Army | 5.00% | ~52 |
 | Periapt Cerulean | 5.00% | ~52 |
 | Good Boy | 5.00% | ~52 |
-| Periapt Viridian | 4.00% | ~41 |
-| Kitted Out | 3.00% | ~31 |
+| Periapt Viridian | 4.00% | ~42 |
+| Shroudfane Explorer | 4.00% | ~42 |
 | Best Dressed | 3.00% | ~31 |
 | Armaments Azure | 3.00% | ~31 |
 | Armaments Gules | 3.00% | ~31 |
-| Shroudfane Explorer | 3.00% | ~31 |
 | Scholar | 2.00% | ~21 |
+| Kitted Out | 2.00% | ~21 |
 | Armaments Vert | 2.00% | ~21 |
 | Veteran | 2.00% | ~21 |
 | Master of Carmine | 1.00% | ~10 |
+| Master of Ultramarine | 0.80% | ~8 |
 | Shroudfane Surveyor | 0.80% | ~8 |
 | Tip of the Spear | 0.80% | ~8 |
-| Master of Ultramarine | 0.70% | ~7 |
 | Backtracker | 0.70% | ~7 |
 | Master of Malachite | 0.60% | ~6 |
 | Treasure Hunter | 0.50% | ~5 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Witch-Taker | 0.20% | ~2 |
 | Out of Time | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,035 (Ranked 273)  
+Progressed: 1,043 (Ranked 272)  
 Completed: 2 (0.19%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 2 (0.19%) (Ranked 269)
 | 2023-12-14 | 532 | 2 |
 | 2023-12-15 | 689 | 2 |
 | 2023-12-16 | 908 | 2 |
-| 2023-12-17 | 1,035 | 2 |
+| 2023-12-17 | 1,043 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

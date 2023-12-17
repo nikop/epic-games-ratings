@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1614,
+  "EOS_Progressed": 1615,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3977,6 +3977,11 @@
       "Time": "2023-12-16T19:09:51.5192242+00:00",
       "NumProgressed": 1614,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T20:10:16.8138842+00:00",
+      "NumProgressed": 1615,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4004,7 +4009,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4060,7 +4065,7 @@
       "Name": "Commando",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "CROAKED",
@@ -4124,7 +4129,7 @@
       "Name": "Dr Jones",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "EDITOR_ADEPT",
@@ -4146,9 +4151,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 791
+      "UsersEstimate": 775
     },
     {
       "ID": "EXPERIENCED",
@@ -4172,7 +4177,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4204,7 +4209,7 @@
       "Name": "Giant Killer",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "GOAL",
@@ -4236,7 +4241,7 @@
       "Name": "I am the law!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "INFILTRATOR",
@@ -4292,15 +4297,15 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "RECYCLER",
       "SetID": "9a4jnji",
       "Name": "Recycler",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 662
+      "UsersEstimate": 646
     },
     {
       "ID": "RUTHLESS",
@@ -4324,7 +4329,7 @@
       "Name": "Sensei",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "SHADOW_BOXING",
@@ -4395,7 +4400,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1614,
+      "Progressed": 1615,
       "Completed": 0
     }
   ],
@@ -4403,8 +4408,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-10T19:02:39.9378585+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:09:37.7254732+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:10:16.8138835+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:53.0198818+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:02:47.6669434+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:09:37.7255138+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:03:00.0592221+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:10:16.8139275+00:00"
 }

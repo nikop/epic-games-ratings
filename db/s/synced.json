@@ -1359,9 +1359,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 70489,
+  "EOS_Progressed": 70524,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 2091,
+  "EOS_NewPlayers": 2121,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12999,6 +12999,11 @@
       "Time": "2023-12-17T19:07:44.9560342+00:00",
       "NumProgressed": 70489,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-17T20:08:23.4001644+00:00",
+      "NumProgressed": 70524,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -13011,7 +13016,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 26081
+      "UsersEstimate": 26094
     },
     {
       "ID": "10",
@@ -13027,7 +13032,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "12",
@@ -13035,7 +13040,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "13",
@@ -13051,7 +13056,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 4229
+      "UsersEstimate": 4231
     },
     {
       "ID": "15",
@@ -13059,7 +13064,7 @@
       "Name": "Gone Rogue",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "16",
@@ -13075,7 +13080,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12688
+      "UsersEstimate": 12694
     },
     {
       "ID": "3",
@@ -13083,7 +13088,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 9164
+      "UsersEstimate": 9168
     },
     {
       "ID": "4",
@@ -13091,7 +13096,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 7049
+      "UsersEstimate": 7052
     },
     {
       "ID": "5",
@@ -13099,7 +13104,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5639
+      "UsersEstimate": 5642
     },
     {
       "ID": "6",
@@ -13107,7 +13112,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4229
+      "UsersEstimate": 4231
     },
     {
       "ID": "7",
@@ -13115,7 +13120,7 @@
       "Name": "More Power to You",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 2820
+      "UsersEstimate": 2821
     },
     {
       "ID": "8",
@@ -13123,7 +13128,7 @@
       "Name": "Runs for Your Money",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "9",
@@ -13138,7 +13143,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 70489,
+      "Progressed": 70524,
       "Completed": 57
     }
   ],
@@ -13146,8 +13151,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-12-17T08:57:37.681321+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:07:44.956034+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:08:23.4001639+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:09.497208+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:57:12.5918646+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:07:44.9560986+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:57:18.5371897+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:08:23.4002319+00:00"
 }

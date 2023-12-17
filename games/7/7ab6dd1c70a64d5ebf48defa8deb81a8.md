@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 44.00% | ~323 |
+| Break Out | 44.00% | ~325 |
 | Trinity | 17.00% | ~125 |
-| I Found It | 15.00% | ~110 |
-| Find Allies | 13.00% | ~95 |
-| A Taste of Wrath | 13.00% | ~95 |
-| Shatter Them All | 12.00% | ~88 |
-| The Collector | 12.00% | ~88 |
+| I Found It | 15.00% | ~111 |
+| Find Allies | 13.00% | ~96 |
+| A Taste of Wrath | 13.00% | ~96 |
+| Shatter Them All | 12.00% | ~89 |
+| Geared Up | 12.00% | ~89 |
+| The Collector | 12.00% | ~89 |
 | Adventurer | 11.00% | ~81 |
-| Geared Up | 11.00% | ~81 |
 | Fashion Victim | 11.00% | ~81 |
-| Tributes of Caladrias | 10.00% | ~73 |
+| Tributes of Caladrias | 10.00% | ~74 |
 | Scholar | 9.00% | ~66 |
 | Stone Collection | 9.00% | ~66 |
-| Powerful Allies | 7.00% | ~51 |
-| Big Bazar | 7.00% | ~51 |
+| Powerful Allies | 7.00% | ~52 |
+| Big Bazar | 7.00% | ~52 |
 | Essence Blow | 5.00% | ~37 |
-| Calm before the Storm | 4.00% | ~29 |
-| The Mentor | 4.00% | ~29 |
-| Alchemist | 4.00% | ~29 |
+| Calm before the Storm | 4.00% | ~30 |
+| The Mentor | 4.00% | ~30 |
+| Alchemist | 4.00% | ~30 |
 | To Battle | 3.00% | ~22 |
 | Godslayer | 3.00% | ~22 |
 | Airborne | 3.00% | ~22 |
@@ -30,10 +30,10 @@
 | Clear Sight | 2.00% | ~15 |
 | Fine Feathers Make Fine Birds | 2.00% | ~15 |
 | Miner | 2.00% | ~15 |
-| A Queen's Tale | 2.00% | ~15 |
 | Slayer | 1.00% | ~7 |
 | All There Is | 1.00% | ~7 |
 | False God | 1.00% | ~7 |
+| A Queen's Tale | 1.00% | ~7 |
 | Flawless Victory | 0.80% | ~6 |
 | Summiter | 0.80% | ~6 |
 | Forgemaster | 0.70% | ~5 |
@@ -41,7 +41,7 @@
 | Shardbearer | 0.50% | ~4 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733 (Ranked 293)  
+Progressed: 738 (Ranked 293)  
 Completed: 3 (0.41%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,4 +107,4 @@ Completed: 3 (0.41%) (Ranked 224)
 | 2023-12-14 | 376 | 3 |
 | 2023-12-15 | 486 | 3 |
 | 2023-12-16 | 621 | 3 |
-| 2023-12-17 | 733 | 3 |
+| 2023-12-17 | 738 | 3 |

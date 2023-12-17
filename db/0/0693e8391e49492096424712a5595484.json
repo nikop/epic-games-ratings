@@ -2,9 +2,9 @@
   "ID": "0693e8391e49492096424712a5595484",
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
-  "Ranking_EOS_Progress": 314,
+  "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -2622,9 +2622,9 @@
       "ID": "PrincessThrone",
       "SetID": "db30heh",
       "Name": "New Order",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 118
     },
     {
       "ID": "RogueChest",
@@ -2646,9 +2646,9 @@
       "ID": "RogueKing",
       "SetID": "db30heh",
       "Name": "Long Live The King",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 183
     },
     {
       "ID": "RogueNaked",
@@ -2670,9 +2670,9 @@
       "ID": "SleepingBasiliskAmanita",
       "SetID": "db30heh",
       "Name": "Wild Dreams",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 112
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -2725,8 +2725,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:05:45.0871193+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:05:55.5346324+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:40.9635354+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:00:45.5746699+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:05:45.0871572+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:00:49.7037569+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:05:55.5346709+00:00"
 }

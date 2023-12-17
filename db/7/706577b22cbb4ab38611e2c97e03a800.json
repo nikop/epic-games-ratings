@@ -2,9 +2,9 @@
   "ID": "706577b22cbb4ab38611e2c97e03a800",
   "Name": "Geometric Sniper - Z",
   "ProductSlug": "geometric-sniper-z-ef97ef",
-  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-08T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 163,
+  "EOS_Progressed": 164,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -599,6 +599,11 @@
       "Time": "2023-12-17T12:05:58.723036+00:00",
       "NumProgressed": 163,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T20:05:17.5655518+00:00",
+      "NumProgressed": 164,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-28T19:04:41.1727076+00:00",
@@ -609,9 +614,9 @@
       "ID": "ACHIEVEMENT_AV_01",
       "SetID": "b50kim2",
       "Name": "MISSION 01",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 156
     },
     {
       "ID": "ACHIEVEMENT_AV_02",
@@ -619,7 +624,7 @@
       "Name": "MISSION 02",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_AV_03",
@@ -627,7 +632,7 @@
       "Name": "MISSION 03",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHIEVEMENT_AV_04",
@@ -1010,14 +1015,14 @@
     {
       "ID": "b50kim2",
       "IsBase": true,
-      "Progressed": 163,
+      "Progressed": 164,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:05:06.3170026+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:05:17.5655514+00:00",
   "LastUpdate_AppInfo": "2023-12-12T07:57:15.5904158+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:00:06.1333174+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:05:06.3170416+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:00:10.1103228+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:05:17.5655824+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "tabletop-playground-9623f1",
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-15T19:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -619,6 +619,11 @@
       "Time": "2023-12-17T09:09:52.9928181+00:00",
       "NumProgressed": 133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T20:09:11.4155844+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 5,
@@ -636,9 +641,9 @@
       "ID": "CreateTemplate",
       "SetID": "9ajogia",
       "Name": "Creator",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "FourPlayers",
@@ -652,7 +657,7 @@
       "ID": "NotPermitted",
       "SetID": "9ajogia",
       "Name": "Caged",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -660,23 +665,23 @@
       "ID": "WithFriend",
       "SetID": "9ajogia",
       "Name": "Friendship",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 200,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ajogia",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T04:57:23.9027898+00:00",
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:08:32.5310297+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:09:11.415584+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:07.5202705+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:02:40.9917814+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:08:32.5310412+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:02:53.6178241+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:09:11.4155927+00:00"
 }

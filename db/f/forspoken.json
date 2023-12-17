@@ -498,9 +498,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 44244,
+  "EOS_Progressed": 44250,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 730,
+  "EOS_NewPlayers": 734,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15463,6 +15463,11 @@
       "Time": "2023-12-17T19:08:13.6128416+00:00",
       "NumProgressed": 44244,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-17T20:08:52.6126684+00:00",
+      "NumProgressed": 44250,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15490,7 +15495,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -15522,7 +15527,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4424
+      "UsersEstimate": 4425
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -15538,7 +15543,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -15610,7 +15615,7 @@
       "Name": "Awakening",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "CRAFT_ALL",
@@ -15626,7 +15631,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3097
+      "UsersEstimate": 3098
     },
     {
       "ID": "CUFF_ATTACK",
@@ -15650,7 +15655,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "JUSTCOUNTER",
@@ -15682,7 +15687,7 @@
       "Name": "Explorer: Trailblazer",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "LOCATION_TEN",
@@ -15714,7 +15719,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3097
+      "UsersEstimate": 3098
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -15778,7 +15783,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "PARKOUR_TIME",
@@ -15802,7 +15807,7 @@
       "Name": "Realized Potential",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -15897,22 +15902,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44244,
+      "Progressed": 44250,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9081,
-      "Completed": 9081
+      "Progressed": 9087,
+      "Completed": 9087
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-17T13:59:35.4745541+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:08:13.6128413+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:08:52.6126679+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:58:56.9729984+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:08:13.6129228+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:59:01.6719039+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:08:52.6127777+00:00"
 }

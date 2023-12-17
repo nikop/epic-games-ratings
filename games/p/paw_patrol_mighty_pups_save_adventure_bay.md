@@ -25,8 +25,8 @@
 | Don’t Miss Any | 26.00% | ~12 |
 | You Have Been Everywhere | 22.00% | ~10 |
 | Adventure Bay’s Citizen | 22.00% | ~10 |
+| Everything Under Control | 17.00% | ~8 |
 | Mountain and Ice | 17.00% | ~8 |
-| Everything Under Control | 15.00% | ~7 |
 | Nothing Can Stop You | 11.00% | ~5 |
 | A Great Explorer | 9.00% | ~4 |
 | King of the Mountain | 4.00% | ~2 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1017,
+  "EOS_Progressed": 1019,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2784,6 +2784,11 @@
       "Time": "2023-12-17T18:09:18.7764982+00:00",
       "NumProgressed": 1017,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-17T20:10:00.3102913+00:00",
+      "NumProgressed": 1019,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2801,17 +2806,17 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 214
     },
     {
       "ID": "ChaincrawlerChests1",
       "SetID": "a9e499d",
       "Name": "Chaincrawler Explorer",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 112
     },
     {
       "ID": "ChestCompletion1",
@@ -2819,15 +2824,15 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 204
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2835,7 +2840,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ClockworkProgress1",
@@ -2843,15 +2848,15 @@
       "Name": "Like Clockwork",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ClovemaryGift",
       "SetID": "a9e499d",
       "Name": "Clovemary for Remembering",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 51
     },
     {
       "ID": "CosmeticCompletion1",
@@ -2859,7 +2864,7 @@
       "Name": "Sartorialist",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "CosmeticProgress1",
@@ -2883,7 +2888,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -2923,7 +2928,7 @@
       "Name": "The Betrayer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2947,7 +2952,7 @@
       "Name": "Whiz Kid",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "GrindingTime1",
@@ -2995,7 +3000,7 @@
       "Name": "Cartographer",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "NoCritterSump",
@@ -3081,9 +3086,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 377
     },
     {
       "ID": "RewindParry",
@@ -3107,7 +3112,7 @@
       "Name": "Golem Chaser",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "SkillCompletion1",
@@ -3171,7 +3176,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "WarwickDefeated",
@@ -3218,7 +3223,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1017,
+      "Progressed": 1019,
       "Completed": 6
     }
   ],
@@ -3226,8 +3231,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:09:21.0484629+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:10:00.3102912+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:57:42.6836682+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:09:21.0485203+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:57:48.1599178+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:10:00.3103328+00:00"
 }

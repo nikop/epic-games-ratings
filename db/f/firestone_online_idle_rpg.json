@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -637,9 +637,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3496,
+  "EOS_Progressed": 3497,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10067,6 +10067,11 @@
       "Time": "2023-12-17T19:05:24.1936645+00:00",
       "NumProgressed": 3496,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-17T20:05:34.9909029+00:00",
+      "NumProgressed": 3497,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -10182,7 +10187,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "dragonmaster",
@@ -10190,7 +10195,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "dragonslayer",
@@ -10246,7 +10251,7 @@
       "Name": "Enlightenment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "exoticmerchant",
@@ -10254,7 +10259,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "fellowshippower",
@@ -10262,7 +10267,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "fourleafclover",
@@ -10326,7 +10331,7 @@
       "Name": "Hero inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "howdoyouturnthison",
@@ -10350,7 +10355,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "jewelenchanting",
@@ -10374,7 +10379,7 @@
       "Name": "Lieutenant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "lockandload",
@@ -10414,7 +10419,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "missionsdedication",
@@ -10638,7 +10643,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "warmachinesarmy",
@@ -10670,14 +10675,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2727
+      "UsersEstimate": 2728
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3496,
+      "Progressed": 3497,
       "Completed": 2
     }
   ],
@@ -10685,8 +10690,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-17T09:00:20.6514627+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:05:24.1936641+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:05:34.9909025+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.7887636+00:00",
-  "LastUpdate_Ratings": "2023-12-17T19:00:15.5603853+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:05:24.1937771+00:00"
+  "LastUpdate_Ratings": "2023-12-17T20:00:19.2979246+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:05:34.990994+00:00"
 }

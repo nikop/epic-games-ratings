@@ -24,6 +24,7 @@ Rating: 3.51 (Ranked 1,063)
 | Neighborhood Revitalization | 2.00% | ~38 |
 | Bad Wiring | 2.00% | ~38 |
 | Radio Silence | 2.00% | ~38 |
+| I Spit On Your Grave | 2.00% | ~38 |
 | Sic Transit Umbra | 1.00% | ~19 |
 | Bell-ringer | 1.00% | ~19 |
 | Silence Is Golden | 1.00% | ~19 |
@@ -32,9 +33,8 @@ Rating: 3.51 (Ranked 1,063)
 | Starve the Beast | 1.00% | ~19 |
 | Harvest’s End | 1.00% | ~19 |
 | Helping Hand | 1.00% | ~19 |
-| I Spit On Your Grave | 1.00% | ~19 |
+| You Clean It Up | 0.90% | ~17 |
 | Contingency Plans | 0.80% | ~15 |
-| You Clean It Up | 0.80% | ~15 |
 | Check, Please! | 0.80% | ~15 |
 | Nice Try | 0.80% | ~15 |
 | Blacklight Down | 0.80% | ~15 |
@@ -72,7 +72,7 @@ Rating: 3.51 (Ranked 1,063)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,910 (Ranked 235)  
+Progressed: 1,911 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 1,810 | 0 |
 | 2023-12-15 | 1,843 | 0 |
 | 2023-12-16 | 1,886 | 0 |
-| 2023-12-17 | 1,910 | 0 |
+| 2023-12-17 | 1,911 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

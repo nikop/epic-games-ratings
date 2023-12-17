@@ -13303,10 +13303,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 61233,
       "NumberOfAwardsMax": 7422
+    },
+    {
+      "Time": "2023-12-17T19:59:43.847296+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 61252,
+      "NumberOfAwardsMax": 7422
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 61233,
+  "NumberOfAwards": 61252,
   "NumberOfAwardsMax": 7422,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13314,7 +13320,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 7132
+      "Count": 7151
     },
     {
       "Text": "This game has Challenging Combat",
@@ -13377,9 +13383,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 477965,
+  "EOS_Progressed": 478020,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5322,
+  "EOS_NewPlayers": 5350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41132,6 +41138,11 @@
       "Time": "2023-12-17T19:07:41.8848674+00:00",
       "NumProgressed": 477965,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-17T20:08:20.5492897+00:00",
+      "NumProgressed": 478020,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -43805,9 +43816,9 @@
       "ID": "achievement_until_death_do_us_apart",
       "SetID": "8p2n7he",
       "Name": "Until death do us apart",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1912
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -44046,21 +44057,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 477965,
+      "Progressed": 478020,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 477965,
+      "Progressed": 478020,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-17T17:59:12.1783313+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:07:41.884867+00:00",
+  "LastChanged": "2023-12-17T19:59:43.8472957+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:08:20.5492892+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.9920534+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:59:39.3958986+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:07:41.8859299+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:59:43.8472966+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:08:20.5503591+00:00"
 }

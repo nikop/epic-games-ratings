@@ -1,38 +1,38 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 939)  
+Rating: 4.19 (Ranked 938)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 12.00% | ~2,126 |
-| Get a Grip | 12.00% | ~2,126 |
-| The Outer Way | 12.00% | ~2,126 |
-| Paper Jams | 11.00% | ~1,949 |
-| Desperate Times | 10.00% | ~1,772 |
-| Chew 'Em Up | 9.00% | ~1,595 |
-| Float Like A Butterfly | 9.00% | ~1,595 |
-| Reforged | 8.00% | ~1,417 |
-| Workplace Hazard | 7.00% | ~1,240 |
-| If the SHU Fits... | 7.00% | ~1,240 |
-| Two Heads Are Better Than One | 6.00% | ~1,063 |
-| Without A Paddle | 6.00% | ~1,063 |
-| In the Pipe, Five by Five | 6.00% | ~1,063 |
-| Crash Site | 6.00% | ~1,063 |
-| Full Circle | 6.00% | ~1,063 |
-| Power Up | 6.00% | ~1,063 |
+| Flesh Wound | 12.00% | ~2,128 |
+| Get a Grip | 12.00% | ~2,128 |
+| Paper Jams | 12.00% | ~2,128 |
+| The Outer Way | 12.00% | ~2,128 |
+| Desperate Times | 11.00% | ~1,951 |
+| Chew 'Em Up | 9.00% | ~1,596 |
+| Float Like A Butterfly | 9.00% | ~1,596 |
+| Reforged | 8.00% | ~1,419 |
+| Workplace Hazard | 7.00% | ~1,241 |
+| If the SHU Fits... | 7.00% | ~1,241 |
+| Two Heads Are Better Than One | 6.00% | ~1,064 |
+| Without A Paddle | 6.00% | ~1,064 |
+| In the Pipe, Five by Five | 6.00% | ~1,064 |
+| Crash Site | 6.00% | ~1,064 |
+| Full Circle | 6.00% | ~1,064 |
+| Power Up | 6.00% | ~1,064 |
 | Keep Fighting | 6.00% | ~339 |
-| Giving Back | 5.00% | ~886 |
-| You Need a Gun | 5.00% | ~886 |
-| I Do Belong Here | 5.00% | ~886 |
-| Terminated | 5.00% | ~886 |
-| What Lies Beneath | 5.00% | ~886 |
+| Giving Back | 5.00% | ~887 |
+| You Need a Gun | 5.00% | ~887 |
+| I Do Belong Here | 5.00% | ~887 |
+| Terminated | 5.00% | ~887 |
+| What Lies Beneath | 5.00% | ~887 |
 | It's Time | 4.00% | ~226 |
 | In Striking Distance | 3.00% | ~532 |
 | The Commonality | 3.00% | ~532 |
 | One Last Job | 2.00% | ~113 |
-| Big Spender | 1.00% | ~56 |
-| This Isn't About Escape | 1.00% | ~56 |
+| Big Spender | 1.00% | ~57 |
+| This Isn't About Escape | 1.00% | ~57 |
 | Armed to the Teeth | 0.90% | ~51 |
 | Grim Reaper | 0.80% | ~142 |
 | Parole Denied | 0.80% | ~45 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,718 (Ranked 149)  
+Progressed: 17,732 (Ranked 149)  
 Completed: 82 (0.46%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 82 (0.46%) (Ranked 217)
 | 2023-12-14 | 16,823 | 81 |
 | 2023-12-15 | 17,123 | 82 |
 | 2023-12-16 | 17,442 | 82 |
-| 2023-12-17 | 17,718 | 82 |
+| 2023-12-17 | 17,732 | 82 |
 ## Awards
 Max (Amazing Storytelling): 87  (Ranked 388)  
 Sum: 516 (Ranked 328)  

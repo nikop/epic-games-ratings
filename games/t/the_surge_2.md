@@ -6,12 +6,12 @@ Rating: 4.26 (Ranked 880)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,818 |
-| Don't I Know You...? | 76.00% | ~1,727 |
+| Don't I Know You...? | 77.00% | ~1,750 |
 | Jailbreak | 66.00% | ~1,500 |
 | Suited and Booted | 39.00% | ~886 |
-| HEADSHOT! | 38.00% | ~863 |
+| HEADSHOT! | 38.00% | ~864 |
 | Sleeping With The Fishes | 36.00% | ~818 |
-| High Performance | 31.00% | ~704 |
+| High Performance | 31.00% | ~705 |
 | Overheated | 30.00% | ~682 |
 | Powered Up | 29.00% | ~659 |
 | Studied The Blade | 25.00% | ~568 |
@@ -19,9 +19,9 @@ Rating: 4.26 (Ranked 880)
 | Luminary | 23.00% | ~523 |
 | True Survivor | 22.00% | ~500 |
 | It's a Trap | 22.00% | ~500 |
-| Offensive Defense | 20.00% | ~454 |
-| Shocking | 20.00% | ~454 |
-| Unforeseeable Consequences | 20.00% | ~454 |
+| Offensive Defense | 20.00% | ~455 |
+| Shocking | 20.00% | ~455 |
+| Unforeseeable Consequences | 20.00% | ~455 |
 | Court Martial | 19.00% | ~432 |
 | Clean Cut | 19.00% | ~432 |
 | Dead Again | 18.00% | ~409 |
@@ -37,7 +37,7 @@ Rating: 4.26 (Ranked 880)
 | Sorry, Didn't See You There | 12.00% | ~273 |
 | Stimulating The Local Economy | 10.00% | ~227 |
 | Triplets | 10.00% | ~227 |
-| Denying Prophecy | 9.00% | ~204 |
+| Denying Prophecy | 9.00% | ~205 |
 | A Little Banged Up | 8.00% | ~182 |
 | Following In Their Footsteps | 8.00% | ~182 |
 | Defense in Depth | 8.00% | ~182 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 880)
 | Three Birds With One Stone | 1.00% | ~23 |
 | The Easy Way Out | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,272 (Ranked 227)  
+Progressed: 2,273 (Ranked 227)  
 Completed: 13 (0.57%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 13 (0.57%) (Ranked 202)
 | 2023-12-14 | 2,235 | 13 |
 | 2023-12-15 | 2,246 | 13 |
 | 2023-12-16 | 2,261 | 13 |
-| 2023-12-17 | 2,272 | 13 |
+| 2023-12-17 | 2,273 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

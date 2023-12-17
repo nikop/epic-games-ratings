@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1910,
+  "EOS_Progressed": 1911,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2766,6 +2766,11 @@
       "Time": "2023-12-17T19:06:37.8172661+00:00",
       "NumProgressed": 1910,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-17T20:08:17.1510388+00:00",
+      "NumProgressed": 1911,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2983,9 +2988,9 @@
       "ID": "Achievement_028",
       "SetID": "6b34g18",
       "Name": "You Clean It Up",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "Achievement_029",
@@ -3295,16 +3300,16 @@
       "ID": "Achievement_071",
       "SetID": "6b34g18",
       "Name": "I Spit On Your Grave",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1910,
+      "Progressed": 1911,
       "Completed": 0
     }
   ],
@@ -3312,8 +3317,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-17T18:59:50.7372616+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:06:37.8172657+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:08:17.1510384+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:59:50.7372621+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:06:37.8173448+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:59:55.5084475+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:08:17.1510933+00:00"
 }

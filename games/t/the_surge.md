@@ -1,26 +1,26 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.43 (Ranked 698)  
+Rating: 4.43 (Ranked 699)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,654 |
-| I'll Be Back | 84.00% | ~4,159 |
-| Sorry, I Dropped This | 77.00% | ~3,812 |
-| First Day on the Job | 77.00% | ~3,812 |
-| Butcher's Bill | 55.00% | ~2,723 |
-| P.A.X | 37.00% | ~1,832 |
-| Hey Listen | 37.00% | ~1,832 |
-| OPERATOR | 36.00% | ~1,782 |
+| On My Own Two Feet | 94.00% | ~4,656 |
+| I'll Be Back | 84.00% | ~4,161 |
+| Sorry, I Dropped This | 77.00% | ~3,814 |
+| First Day on the Job | 76.00% | ~3,764 |
+| Butcher's Bill | 55.00% | ~2,724 |
+| P.A.X | 37.00% | ~1,833 |
+| Hey Listen | 37.00% | ~1,833 |
+| OPERATOR | 36.00% | ~1,783 |
 | It's Blue Light | 33.00% | ~1,634 |
-| Most Wanted | 26.00% | ~1,287 |
+| Most Wanted | 27.00% | ~1,337 |
 | Infidel | 23.00% | ~1,139 |
 | GOLIATH | 21.00% | ~1,040 |
-| Firebug | 20.00% | ~990 |
-| I Choose You | 18.00% | ~891 |
-| Nothing to Lose | 18.00% | ~891 |
+| Firebug | 20.00% | ~991 |
+| I Choose You | 18.00% | ~892 |
+| Nothing to Lose | 18.00% | ~892 |
 | Big Sister | 16.00% | ~792 |
 | SENTINEL | 16.00% | ~792 |
 | Gear Up | 15.00% | ~743 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~30 |
 | The Surge | 0.40% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,951 (Ranked 196)  
+Progressed: 4,953 (Ranked 196)  
 Completed: 18 (0.36%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 18 (0.36%) (Ranked 233)
 | 2023-12-14 | 4,883 | 18 |
 | 2023-12-15 | 4,898 | 18 |
 | 2023-12-16 | 4,924 | 18 |
-| 2023-12-17 | 4,951 | 18 |
+| 2023-12-17 | 4,953 | 18 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 506)  
 Sum: 29 (Ranked 523)  

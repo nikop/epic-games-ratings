@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -2662,9 +2662,9 @@
       "ID": "Detector",
       "SetID": "5lok9mm",
       "Name": "Chest Detector",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1328
     },
     {
       "ID": "Down",
@@ -3014,8 +3014,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-12-07T21:58:24.3208537+00:00",
-  "LastChanged_Achievements": "2023-12-17T19:03:13.3912394+00:00",
+  "LastChanged_Achievements": "2023-12-17T20:03:26.7343953+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:59.82+00:00",
-  "LastUpdate_Ratings": "2023-12-17T18:59:42.0493594+00:00",
-  "LastUpdate_Achievements": "2023-12-17T19:03:13.3912853+00:00"
+  "LastUpdate_Ratings": "2023-12-17T19:59:47.338272+00:00",
+  "LastUpdate_Achievements": "2023-12-17T20:03:26.7344458+00:00"
 }

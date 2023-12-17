@@ -12,12 +12,12 @@
 | Kingdom Party Time | 26.00% | ~10 |
 | Festival Fever | 21.00% | ~8 |
 | Entering New Territory | 18.00% | ~7 |
+| Just One More Go | 10.00% | ~4 |
 | Lecturer | 10.00% | ~4 |
 | Gotta Adopt Them All! | 8.00% | ~3 |
 | Landscaper | 8.00% | ~3 |
-| Just One More Go | 8.00% | ~3 |
+| Dream Big | 8.00% | ~3 |
 | Diamonds in the Rough | 5.00% | ~2 |
-| Dream Big | 5.00% | ~2 |
 | Kindred Spirits | 5.00% | ~2 |
 | Protected Nature Reserve | 3.00% | ~1 |
 | Paving the Way | 3.00% | ~1 |
