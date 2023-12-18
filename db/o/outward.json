@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3988,
+  "EOS_Progressed": 3989,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6351,6 +6351,11 @@
       "Time": "2023-12-18T06:04:14.3786452+00:00",
       "NumProgressed": 3988,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-18T07:04:15.5833212+00:00",
+      "NumProgressed": 3989,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6434,7 +6439,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "ForAllAurai_8",
@@ -6466,7 +6471,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "HouseofCards_19",
@@ -6554,7 +6559,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6682,7 +6687,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2951
+      "UsersEstimate": 2952
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6697,15 +6702,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3988,
+      "Progressed": 3989,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-18T06:04:14.3786448+00:00",
+  "LastChanged_Achievements": "2023-12-18T07:04:15.5833209+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:02:41.4699591+00:00",
-  "LastUpdate_Achievements": "2023-12-18T06:04:14.3787142+00:00"
+  "LastUpdate_Ratings": "2023-12-18T07:02:47.2790498+00:00",
+  "LastUpdate_Achievements": "2023-12-18T07:04:15.5833661+00:00"
 }

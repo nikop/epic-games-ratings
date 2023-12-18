@@ -4,8 +4,8 @@
   "ProductSlug": "survival-advanced-7e4545",
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 543,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-10T16:03:08.0634838+00:00",
-  "LastChanged_Achievements": "2023-12-18T06:06:37.3095672+00:00",
+  "LastChanged_Achievements": "2023-12-18T07:06:27.106263+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:55.4585848+00:00",
-  "LastUpdate_Ratings": "2023-12-18T05:57:40.6975603+00:00",
-  "LastUpdate_Achievements": "2023-12-18T06:06:37.3095704+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:57:39.8761922+00:00",
+  "LastUpdate_Achievements": "2023-12-18T07:06:27.1062679+00:00"
 }

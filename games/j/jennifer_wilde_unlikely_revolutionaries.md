@@ -10,8 +10,8 @@
 | Bedtime Storyteller | 19.00% | ~12 |
 | Exorcist | 17.00% | ~11 |
 | Electrician | 17.00% | ~11 |
-| Card Sharp | 13.00% | ~8 |
-| I Ain't Afraid of No Ghost | 11.00% | ~7 |
+| Card Sharp | 14.00% | ~9 |
+| I Ain't Afraid of No Ghost | 13.00% | ~8 |
 | Joyrider | 8.00% | ~5 |
 | Top Detective | 5.00% | ~3 |
 ## Popularity (Based on EOS Achievements)

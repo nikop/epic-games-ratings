@@ -1,22 +1,22 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 619)  
+Rating: 4.49 (Ranked 620)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 87.00% | ~8,699 |
-| Photogenic | 83.00% | ~8,299 |
-| Surge Gauntlet Jockey | 80.00% | ~7,999 |
-| Plug It In | 79.00% | ~7,899 |
-| Adventure Time | 75.00% | ~7,499 |
-| Playing With Power | 73.00% | ~7,299 |
-| Coup d'Etat | 56.00% | ~5,599 |
-| You're Fired | 54.00% | ~5,399 |
-| Get Furious | 53.00% | ~5,299 |
-| Hacks In Stacks | 53.00% | ~5,299 |
-| Gunplay And Cosplay | 52.00% | ~5,199 |
+| Let's Get This Party Started | 87.00% | ~8,700 |
+| Photogenic | 83.00% | ~8,300 |
+| Surge Gauntlet Jockey | 80.00% | ~8,000 |
+| Plug It In | 79.00% | ~7,900 |
+| Adventure Time | 75.00% | ~7,500 |
+| Playing With Power | 73.00% | ~7,300 |
+| Coup d'Etat | 56.00% | ~5,600 |
+| You're Fired | 54.00% | ~5,400 |
+| Get Furious | 53.00% | ~5,300 |
+| Hacks In Stacks | 53.00% | ~5,300 |
+| Gunplay And Cosplay | 52.00% | ~5,200 |
 | Meching Enemies | 46.00% | ~4,600 |
 | Ticket Toddler | 42.00% | ~4,200 |
 | Booty Bashing | 37.00% | ~3,700 |
@@ -29,7 +29,7 @@ Number of Ratings: 801  (23.09.2022)
 | Poppin Noggins | 23.00% | ~2,300 |
 | Clips and Crits | 18.00% | ~1,800 |
 | Grey Goo | 16.00% | ~1,600 |
-| Boss of Bosses | 15.00% | ~1,500 |
+| Boss of Bosses | 14.00% | ~1,400 |
 | The Final Blow | 14.00% | ~1,400 |
 | To Be Continued | 13.00% | ~1,300 |
 | Light My Fire | 11.00% | ~1,100 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~40 |
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,999 (Ranked 171)  
+Progressed: 10,000 (Ranked 171)  
 Completed: 2 (0.02%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 2 (0.02%) (Ranked 348)
 | 2023-12-15 | 9,939 | 2 |
 | 2023-12-16 | 9,973 | 2 |
 | 2023-12-17 | 9,992 | 2 |
-| 2023-12-18 | 9,999 | 2 |
+| 2023-12-18 | 10,000 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 416)  
 Sum: 465 (Ranked 337)  

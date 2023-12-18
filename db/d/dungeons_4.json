@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1676,9 +1676,9 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 481
+      "UsersEstimate": 487
     },
     {
       "ID": "ach_main02horde_traps",
@@ -2139,8 +2139,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-18T06:06:48.802381+00:00",
+  "LastChanged_Achievements": "2023-12-18T07:08:17.4231559+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.5802782+00:00",
-  "LastUpdate_Ratings": "2023-12-18T05:58:53.2636608+00:00",
-  "LastUpdate_Achievements": "2023-12-18T06:06:48.8024245+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:58:45.0431667+00:00",
+  "LastUpdate_Achievements": "2023-12-18T07:08:17.4232011+00:00"
 }

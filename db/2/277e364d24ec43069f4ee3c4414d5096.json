@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117038,
+  "EOS_Progressed": 117039,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 650,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21674,6 +21674,11 @@
       "Time": "2023-12-18T06:09:41.2870003+00:00",
       "NumProgressed": 117038,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-18T07:09:40.3313025+00:00",
+      "NumProgressed": 117039,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 49,
@@ -21693,7 +21698,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 90119
+      "UsersEstimate": 90120
     },
     {
       "ID": "EAwards_10",
@@ -21765,7 +21770,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10533
+      "UsersEstimate": 10534
     },
     {
       "ID": "EAwards_19",
@@ -21917,7 +21922,7 @@
       "Name": "Nacho Libre",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10533
+      "UsersEstimate": 10534
     },
     {
       "ID": "EAwards_36",
@@ -22045,7 +22050,7 @@
       "Name": "Severed 2",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10533
+      "UsersEstimate": 10534
     },
     {
       "ID": "EAwards_7",
@@ -22076,7 +22081,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 117038,
+      "Progressed": 117039,
       "Completed": 53
     }
   ],
@@ -22084,8 +22089,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-18T06:09:41.2869999+00:00",
+  "LastChanged_Achievements": "2023-12-18T07:09:40.3313021+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:07.3909986+00:00",
-  "LastUpdate_Ratings": "2023-12-18T05:57:59.4420497+00:00",
-  "LastUpdate_Achievements": "2023-12-18T06:09:41.287136+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:57:56.9515779+00:00",
+  "LastUpdate_Achievements": "2023-12-18T07:09:40.3314478+00:00"
 }

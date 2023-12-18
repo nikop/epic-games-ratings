@@ -33,10 +33,10 @@ Number of Ratings: 21,990  (23.09.2022)
 | Wayfarer | 0.40% | ~2,685 |
 | Advanced Wayfarer | 0.40% | ~2,685 |
 | Tough Nut! | 0.40% | ~2,685 |
-| Trans-Siberian Railway | 0.30% | ~2,013 |
-| Engineer | 0.30% | ~2,013 |
-| Satan's Minion | 0.30% | ~2,013 |
-| Snowman's Land | 0.30% | ~2,013 |
+| Trans-Siberian Railway | 0.30% | ~2,014 |
+| Engineer | 0.30% | ~2,014 |
+| Satan's Minion | 0.30% | ~2,014 |
+| Snowman's Land | 0.30% | ~2,014 |
 | Expert Wayfarer | 0.20% | ~1,342 |
 | Explorer | 0.10% | ~671 |
 | Advanced Explorer | 0.10% | ~671 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~671 |
 | 20 Miles under the Sea | 0.10% | ~671 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 671,166 (Ranked 29)  
+Progressed: 671,167 (Ranked 29)  
 Completed: 12 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 12 (0.00%) (Ranked 380)
 | 2023-12-15 | 670,355 | 12 |
 | 2023-12-16 | 670,752 | 12 |
 | 2023-12-17 | 671,091 | 12 |
-| 2023-12-18 | 671,166 | 12 |
+| 2023-12-18 | 671,167 | 12 |
 ## Awards
 Max (Great for Beginners): 204  (Ranked 291)  
 Sum: 1,613 (Ranked 232)  

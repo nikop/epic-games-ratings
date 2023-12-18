@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15637,
+  "EOS_Progressed": 15640,
   "EOS_Completed": 68,
   "EOS_NewPlayers": 1831,
   "EOS_NewCompleters": 18,
@@ -4777,6 +4777,11 @@
       "Time": "2023-12-18T06:05:36.7266408+00:00",
       "NumProgressed": 15637,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-12-18T07:05:31.7334317+00:00",
+      "NumProgressed": 15640,
+      "NumCompleted": 68
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -4821,7 +4826,7 @@
       "Name": "Savior",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -4837,7 +4842,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1877
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -4868,7 +4873,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 15637,
+      "Progressed": 15640,
       "Completed": 68
     }
   ],
@@ -4876,8 +4881,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-18T03:58:42.6359817+00:00",
-  "LastChanged_Achievements": "2023-12-18T06:05:36.7266405+00:00",
+  "LastChanged_Achievements": "2023-12-18T07:05:31.7334312+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:09.5453569+00:00",
-  "LastUpdate_Ratings": "2023-12-18T05:58:20.3325242+00:00",
-  "LastUpdate_Achievements": "2023-12-18T06:05:36.7266676+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:58:15.7712354+00:00",
+  "LastUpdate_Achievements": "2023-12-18T07:05:31.733459+00:00"
 }

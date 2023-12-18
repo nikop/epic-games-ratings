@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -431,9 +431,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 330782,
+  "EOS_Progressed": 330789,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3524,
+  "EOS_NewPlayers": 3521,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10036,6 +10036,11 @@
       "Time": "2023-12-18T06:04:30.7119022+00:00",
       "NumProgressed": 330782,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-18T07:04:30.4004694+00:00",
+      "NumProgressed": 330789,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10048,7 +10053,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9923
+      "UsersEstimate": 9924
     },
     {
       "ID": "S02_BRDA",
@@ -10072,7 +10077,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2315
+      "UsersEstimate": 2316
     },
     {
       "ID": "S05_SWRA",
@@ -10184,7 +10189,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9923
+      "UsersEstimate": 9924
     },
     {
       "ID": "S19_CHALLENGES",
@@ -10367,7 +10372,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 330782,
+      "Progressed": 330789,
       "Completed": 5
     }
   ],
@@ -10375,8 +10380,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-17T23:00:34.9131333+00:00",
-  "LastChanged_Achievements": "2023-12-18T06:04:30.7119019+00:00",
+  "LastChanged_Achievements": "2023-12-18T07:04:30.400469+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-18T05:59:41.0641671+00:00",
-  "LastUpdate_Achievements": "2023-12-18T06:04:30.7119719+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:59:29.7710915+00:00",
+  "LastUpdate_Achievements": "2023-12-18T07:04:30.4005309+00:00"
 }

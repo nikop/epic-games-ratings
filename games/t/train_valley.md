@@ -1,23 +1,23 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.49 (Ranked 619)  
+Rating: 4.50 (Ranked 599)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 78.00% | ~435 |
-| Close call! | 71.00% | ~396 |
-| Builder | 53.00% | ~296 |
-| Living it large! | 46.00% | ~257 |
-| Pangs of conscience | 45.00% | ~251 |
+| Getting started | 78.00% | ~436 |
+| Close call! | 71.00% | ~397 |
+| Builder | 52.00% | ~291 |
+| Pangs of conscience | 45.00% | ~252 |
+| Living it large! | 45.00% | ~252 |
 | Collector | 43.00% | ~240 |
 | Need to think | 43.00% | ~240 |
 | Completely nuts! | 41.00% | ~229 |
-| Just in time! | 34.00% | ~190 |
 | Europe | 33.00% | ~184 |
+| Just in time! | 33.00% | ~184 |
 | Madness! | 32.00% | ~179 |
-| It's no coincidence. | 30.00% | ~167 |
+| It's no coincidence. | 30.00% | ~168 |
 | Philatelist | 27.00% | ~151 |
 | Let's roll! | 27.00% | ~151 |
 | Ouroboros | 25.00% | ~140 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 558 (Ranked 320)  
+Progressed: 559 (Ranked 318)  
 Completed: 2 (0.36%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 2 (0.36%) (Ranked 233)
 | 2023-12-15 | 545 | 2 |
 | 2023-12-16 | 553 | 2 |
 | 2023-12-17 | 556 | 2 |
-| 2023-12-18 | 558 | 2 |
+| 2023-12-18 | 559 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -199,3 +199,4 @@ Completed: 2 (0.36%) (Ranked 233)
 | 2023-08-26 | 4.46 | - | 0 | 0 |
 | 2023-09-23 | 4.48 | - | 0 | 0 |
 | 2023-12-03 | 4.49 | - | 0 | 0 |
+| 2023-12-18 | 4.50 | - | 0 | 0 |

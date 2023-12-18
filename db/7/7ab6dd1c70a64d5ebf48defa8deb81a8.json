@@ -2,9 +2,9 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 291,
+  "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 773,
+  "EOS_Progressed": 775,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 510,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1610,6 +1610,11 @@
       "Time": "2023-12-18T06:09:50.531973+00:00",
       "NumProgressed": 773,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T07:09:48.7446207+00:00",
+      "NumProgressed": 775,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1619,17 +1624,17 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_03",
@@ -1669,7 +1674,7 @@
       "Name": "Clear Sight",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_08",
@@ -1693,7 +1698,7 @@
       "Name": "Trinity",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_11",
@@ -1715,9 +1720,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_14",
@@ -1757,7 +1762,7 @@
       "Name": "Shatter Them All",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_19",
@@ -1789,7 +1794,7 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_23",
@@ -1797,7 +1802,7 @@
       "Name": "Geared Up",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_24",
@@ -1821,7 +1826,7 @@
       "Name": "Scholar",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_27",
@@ -1861,7 +1866,7 @@
       "Name": "Stone Collection",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_33",
@@ -1869,7 +1874,7 @@
       "Name": "Miner",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_34",
@@ -1877,7 +1882,7 @@
       "Name": "The Collector",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_35",
@@ -1908,14 +1913,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 773,
+      "Progressed": 775,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-18T06:09:50.5319727+00:00",
+  "LastChanged_Achievements": "2023-12-18T07:09:48.7446204+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-18T05:59:45.3529469+00:00",
-  "LastUpdate_Achievements": "2023-12-18T06:09:50.5319976+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:59:33.6315449+00:00",
+  "LastUpdate_Achievements": "2023-12-18T07:09:48.7446497+00:00"
 }

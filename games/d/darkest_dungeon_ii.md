@@ -6,31 +6,31 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 8.00% | ~246 |
-| Lost and Found | 5.00% | ~154 |
-| This guy... again? | 4.00% | ~123 |
-| This Belongs in a Museum | 3.00% | ~3,846 |
-| Creep and Sleep | 3.00% | ~3,846 |
-| Catch and Decease | 3.00% | ~3,846 |
-| Overdue Notice | 3.00% | ~3,846 |
-| Escape from the Black Hole | 3.00% | ~3,846 |
-| Autodidact | 3.00% | ~3,846 |
-| Ploughshares to Swords | 3.00% | ~92 |
-| Bloody Graduation | 3.00% | ~92 |
-| Don't Make Me Turn This Coach Around | 2.00% | ~2,564 |
-| Serenity Now! | 2.00% | ~2,564 |
-| It Rings a Bell | 2.00% | ~2,564 |
-| Not Today! | 2.00% | ~2,564 |
-| Meat and Greet | 2.00% | ~2,564 |
-| It Happens | 2.00% | ~2,564 |
-| Rush Hour | 2.00% | ~2,564 |
-| Merry Time | 2.00% | ~2,564 |
-| Harvest Festival | 2.00% | ~2,564 |
-| To Grandmother's House | 2.00% | ~2,564 |
-| Whale | 2.00% | ~2,564 |
-| A Place to Lay Your Head | 2.00% | ~2,564 |
-| FNG | 2.00% | ~2,564 |
-| Nope | 2.00% | ~2,564 |
+| Malpractice Assurance | 8.00% | ~248 |
+| Lost and Found | 5.00% | ~155 |
+| This guy... again? | 4.00% | ~124 |
+| This Belongs in a Museum | 3.00% | ~3,847 |
+| Creep and Sleep | 3.00% | ~3,847 |
+| Catch and Decease | 3.00% | ~3,847 |
+| Overdue Notice | 3.00% | ~3,847 |
+| Escape from the Black Hole | 3.00% | ~3,847 |
+| Autodidact | 3.00% | ~3,847 |
+| Ploughshares to Swords | 3.00% | ~93 |
+| Bloody Graduation | 3.00% | ~93 |
+| Don't Make Me Turn This Coach Around | 2.00% | ~2,565 |
+| Serenity Now! | 2.00% | ~2,565 |
+| It Rings a Bell | 2.00% | ~2,565 |
+| Not Today! | 2.00% | ~2,565 |
+| Meat and Greet | 2.00% | ~2,565 |
+| It Happens | 2.00% | ~2,565 |
+| Rush Hour | 2.00% | ~2,565 |
+| Merry Time | 2.00% | ~2,565 |
+| Harvest Festival | 2.00% | ~2,565 |
+| To Grandmother's House | 2.00% | ~2,565 |
+| Whale | 2.00% | ~2,565 |
+| A Place to Lay Your Head | 2.00% | ~2,565 |
+| FNG | 2.00% | ~2,565 |
+| Nope | 2.00% | ~2,565 |
 | Friends 'Til the End | 2.00% | ~62 |
 | Resurrection | 1.00% | ~1,282 |
 | Unleash Hell | 1.00% | ~1,282 |
@@ -56,11 +56,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hope Rekindled | 0.80% | ~1,026 |
 | Ichthyophobic | 0.80% | ~1,026 |
 | No More Mouths to Feed | 0.80% | ~1,026 |
-| This Looks Familiar | 0.70% | ~897 |
-| Hot Air | 0.70% | ~897 |
-| Eyes Up | 0.70% | ~897 |
+| This Looks Familiar | 0.70% | ~898 |
+| Hot Air | 0.70% | ~898 |
+| Eyes Up | 0.70% | ~898 |
 | Slap on the Wrist | 0.70% | ~22 |
-| For Old Time' Sake | 0.60% | ~18 |
+| For Old Time' Sake | 0.60% | ~19 |
 | Handled | 0.50% | ~641 |
 | Body of Work | 0.50% | ~641 |
 | Et Tu, Riposte? | 0.50% | ~15 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,212 (Ranked 85)  
+Progressed: 128,226 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 3 (0.00%) (Ranked 380)
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
-| 2023-12-18 | 128,212 | 3 |
+| 2023-12-18 | 128,226 | 3 |
 ## Awards
 Max (Character Customization): 7,763  (Ranked 50)  
 Sum: 20,695 (Ranked 58)  

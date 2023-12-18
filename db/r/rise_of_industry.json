@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2019-05-01T23:00:00+00:00",
@@ -306,7 +306,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 760158,
+  "EOS_Progressed": 760160,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 1668,
   "EOS_NewCompleters": 0,
@@ -28106,6 +28106,11 @@
       "Time": "2023-12-18T06:06:23.2064883+00:00",
       "NumProgressed": 760158,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-18T07:06:13.8960579+00:00",
+      "NumProgressed": 760160,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -28141,7 +28146,7 @@
       "Name": "Penniless",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 45609
+      "UsersEstimate": 45610
     },
     {
       "ID": "ach_build_bridge",
@@ -28181,7 +28186,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 281258
+      "UsersEstimate": 281259
     },
     {
       "ID": "ach_demolish_trees",
@@ -28213,7 +28218,7 @@
       "Name": "Massive Gains",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 45609
+      "UsersEstimate": 45610
     },
     {
       "ID": "ach_max_truck_distance",
@@ -28245,7 +28250,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 364876
+      "UsersEstimate": 364877
     },
     {
       "ID": "ach_produced",
@@ -28261,7 +28266,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 121625
+      "UsersEstimate": 121626
     },
     {
       "ID": "ach_raise_money",
@@ -28332,7 +28337,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 760158,
+      "Progressed": 760160,
       "Completed": 4
     }
   ],
@@ -28340,8 +28345,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-12-01T16:00:20.573033+00:00",
-  "LastChanged_Achievements": "2023-12-18T06:06:23.206488+00:00",
+  "LastChanged_Achievements": "2023-12-18T07:06:13.8960572+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:28.6229748+00:00",
-  "LastUpdate_Ratings": "2023-12-18T05:57:09.0060234+00:00",
-  "LastUpdate_Achievements": "2023-12-18T06:06:23.206623+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:57:11.6310171+00:00",
+  "LastUpdate_Achievements": "2023-12-18T07:06:13.8961684+00:00"
 }

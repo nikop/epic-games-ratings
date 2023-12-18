@@ -2,13 +2,13 @@
   "ID": "a93cd6111251461c953776a0c4ea4d80",
   "Name": "Ghostwire: Tokyo",
   "ProductSlug": "ghostwire-tokyo",
-  "Ranking_Rating": 548,
+  "Ranking_Rating": 565,
   "Ranking_Popularity": 132,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 543,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-03-25T04:00:00+00:00",
     "PcReleaseDate": "2022-03-25T04:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.53,
+  "Rating": 4.52,
   "NumberOfRatings": 1100,
   "RatingHistory": [
     {
@@ -2656,10 +2656,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 2228,
       "NumberOfAwardsMax": 1554
+    },
+    {
+      "Time": "2023-12-18T06:59:19.4958853+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 2230,
+      "NumberOfAwardsMax": 1554
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2228,
+  "NumberOfAwards": 2230,
   "NumberOfAwardsMax": 1554,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2697,7 +2703,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 75
+      "Count": 76
     },
     {
       "Text": "This game is Relaxing",
@@ -2727,7 +2733,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 65
+      "Count": 66
     }
   ],
   "EOS_Progressed": 0,
@@ -2741,8 +2747,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2023-12-17T21:00:04.9809112+00:00",
+  "LastChanged": "2023-12-18T06:59:19.4958852+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:51.8243083+00:00",
-  "LastUpdate_Ratings": "2023-12-18T05:59:31.035361+00:00",
-  "LastUpdate_Achievements": "2023-12-18T06:06:37.7674494+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:59:19.4958857+00:00",
+  "LastUpdate_Achievements": "2023-12-18T07:06:27.5339799+00:00"
 }

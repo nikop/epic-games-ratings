@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8858,
+  "EOS_Progressed": 8859,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8927,6 +8927,11 @@
       "Time": "2023-12-18T06:09:55.7961982+00:00",
       "NumProgressed": 8858,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T07:09:53.6584594+00:00",
+      "NumProgressed": 8859,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8979,7 +8984,7 @@
       "Name": "Upgraded Cybernetic Enhancement to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "CreditsEarned50000",
@@ -9259,7 +9264,7 @@
       "Name": "Dealt 30000 Damage in a single match",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "MaxHealingDone30000",
@@ -9299,7 +9304,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "MaxTowersKilled3",
@@ -9467,7 +9472,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -9483,7 +9488,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "TGPurchased1",
@@ -9530,7 +9535,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8858,
+      "Progressed": 8859,
       "Completed": 1
     }
   ],
@@ -9538,8 +9543,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-14T20:58:55.0819028+00:00",
-  "LastChanged_Achievements": "2023-12-18T06:09:55.7961977+00:00",
+  "LastChanged_Achievements": "2023-12-18T07:09:53.6584593+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:27.9940225+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:00:42.5415742+00:00",
-  "LastUpdate_Achievements": "2023-12-18T06:09:55.7962836+00:00"
+  "LastUpdate_Ratings": "2023-12-18T07:02:31.3993383+00:00",
+  "LastUpdate_Achievements": "2023-12-18T07:09:53.6585443+00:00"
 }

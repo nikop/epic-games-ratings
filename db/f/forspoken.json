@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 965,
+  "Ranking_Rating": 966,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -498,9 +498,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 44295,
+  "EOS_Progressed": 44299,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 764,
+  "EOS_NewPlayers": 768,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15518,6 +15518,11 @@
       "Time": "2023-12-18T06:08:32.6349669+00:00",
       "NumProgressed": 44295,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T07:08:37.2354938+00:00",
+      "NumProgressed": 44299,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15952,22 +15957,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44295,
+      "Progressed": 44299,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9132,
-      "Completed": 9132
+      "Progressed": 9136,
+      "Completed": 9136
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-17T13:59:35.4745541+00:00",
-  "LastChanged_Achievements": "2023-12-18T06:08:32.6349663+00:00",
+  "LastChanged_Achievements": "2023-12-18T07:08:37.2354936+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-18T05:59:06.1209459+00:00",
-  "LastUpdate_Achievements": "2023-12-18T06:08:32.6350812+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:58:56.7577861+00:00",
+  "LastUpdate_Achievements": "2023-12-18T07:08:37.2355847+00:00"
 }

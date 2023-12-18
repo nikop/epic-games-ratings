@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 392,
+  "EOS_Progressed": 393,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1140,6 +1140,11 @@
       "Time": "2023-12-17T21:06:44.6718071+00:00",
       "NumProgressed": 392,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T07:05:43.6052614+00:00",
+      "NumProgressed": 393,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1167,7 +1172,7 @@
       "Name": "Lux Living",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_apartments_2",
@@ -1199,7 +1204,7 @@
       "Name": "Artfully Done",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_art_large",
@@ -1485,9 +1490,9 @@
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 185
     },
     {
       "ID": "ach_grime_1",
@@ -1495,7 +1500,7 @@
       "Name": "Delegate Maintenance",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ach_grime_2",
@@ -1559,7 +1564,7 @@
       "Name": "Meet Me at HQ",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_plaza",
@@ -1575,7 +1580,7 @@
       "Name": "People Mover",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ach_pop_2",
@@ -1613,9 +1618,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 232
     },
     {
       "ID": "ach_profit_1",
@@ -1703,7 +1708,7 @@
       "Name": "Emporium Empire",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_retail_3",
@@ -1711,7 +1716,7 @@
       "Name": "Leveled Up Shops",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_retail_4",
@@ -1735,7 +1740,7 @@
       "Name": "Revenue Royalty",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_revs_3",
@@ -1751,7 +1756,7 @@
       "Name": "Golden Opportunity",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_scenarios_2",
@@ -1781,9 +1786,9 @@
       "ID": "ach_trash_1",
       "SetID": "b8gh1fi",
       "Name": "Terrifically Trashed",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_tutorial",
@@ -1791,7 +1796,7 @@
       "Name": "We Don\u0027t Need No Education",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_util_cable",
@@ -1823,7 +1828,7 @@
       "Name": "Get Electrified",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_util_water",
@@ -1831,7 +1836,7 @@
       "Name": "Pipe Up",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_veryhappy",
@@ -1847,14 +1852,14 @@
       "Name": "Destination Destiny",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 392,
+      "Progressed": 393,
       "Completed": 0
     }
   ],
@@ -1862,8 +1867,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-18T06:05:49.5644191+00:00",
+  "LastChanged_Achievements": "2023-12-18T07:05:43.6052612+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.491222+00:00",
-  "LastUpdate_Ratings": "2023-12-18T05:57:50.1592409+00:00",
-  "LastUpdate_Achievements": "2023-12-18T06:05:49.5644938+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:57:48.7479256+00:00",
+  "LastUpdate_Achievements": "2023-12-18T07:05:43.6053338+00:00"
 }

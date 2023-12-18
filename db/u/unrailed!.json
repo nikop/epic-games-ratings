@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2891,9 +2891,9 @@
       "Count": 150
     }
   ],
-  "EOS_Progressed": 671166,
+  "EOS_Progressed": 671167,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 2055,
+  "EOS_NewPlayers": 2054,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30581,6 +30581,11 @@
       "Time": "2023-12-18T06:09:50.6152432+00:00",
       "NumProgressed": 671166,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-18T07:09:48.711667+00:00",
+      "NumProgressed": 671167,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -30728,7 +30733,7 @@
       "Name": "Trans-Siberian Railway",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "_01_23_TRACKS_4000",
@@ -30784,7 +30789,7 @@
       "Name": "Engineer",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "_02_03_DESTRUCTIONIST",
@@ -30864,7 +30869,7 @@
       "Name": "Satan\u0027s Minion",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "_03_04_APPOLLO_13",
@@ -30960,7 +30965,7 @@
       "Name": "Snowman\u0027s Land",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "_12_00_TOUGH_NUT",
@@ -31007,15 +31012,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 671166,
+      "Progressed": 671167,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-12-17T07:02:31.3935889+00:00",
-  "LastChanged_Achievements": "2023-12-18T06:09:50.6152428+00:00",
+  "LastChanged_Achievements": "2023-12-18T07:09:48.7116666+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:01.1134977+00:00",
-  "LastUpdate_Ratings": "2023-12-18T05:57:17.8707099+00:00",
-  "LastUpdate_Achievements": "2023-12-18T06:09:50.6154202+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:57:19.5591238+00:00",
+  "LastUpdate_Achievements": "2023-12-18T07:09:48.7118427+00:00"
 }

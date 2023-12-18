@@ -5,24 +5,24 @@ Rating: 4.29 (Ranked 855)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~164,301 |
-| Copacetic Coordination | 16.00% | ~57,148 |
-| Fronting the Money | 15.00% | ~53,576 |
+| Corner Clout | 46.00% | ~164,303 |
+| Copacetic Coordination | 16.00% | ~57,149 |
+| Fronting the Money | 15.00% | ~53,577 |
 | The Dawn of Automation | 14.00% | ~50,005 |
 | Extraordinary Logistics | 14.00% | ~50,005 |
-| Dirty Money | 13.00% | ~46,433 |
-| Family First | 13.00% | ~46,433 |
-| Cleaning House | 12.00% | ~42,861 |
-| Room in the Back | 12.00% | ~42,861 |
-| Beating the Heat | 11.00% | ~39,289 |
-| Booze Baron | 11.00% | ~39,289 |
+| Dirty Money | 13.00% | ~46,434 |
+| Family First | 13.00% | ~46,434 |
+| Cleaning House | 12.00% | ~42,862 |
+| Room in the Back | 12.00% | ~42,862 |
+| Beating the Heat | 11.00% | ~39,290 |
+| Booze Baron | 11.00% | ~39,290 |
 | Friends on the Force | 10.00% | ~35,718 |
 | Neighborhood Watch | 10.00% | ~35,718 |
 | Core Corps | 8.00% | ~28,574 |
 | Sizeable Stash | 8.00% | ~28,574 |
-| Street Fighter | 7.00% | ~25,002 |
-| Friendly Gestures | 7.00% | ~25,002 |
-| People Person | 7.00% | ~25,002 |
+| Street Fighter | 7.00% | ~25,003 |
+| Friendly Gestures | 7.00% | ~25,003 |
+| People Person | 7.00% | ~25,003 |
 | Liquor Lord | 6.00% | ~21,431 |
 | Safety in Numbers | 6.00% | ~21,431 |
 | Moving Experiences | 6.00% | ~21,431 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 855)
 | High Pillow | 0.10% | ~357 |
 | Station Master | 0.10% | ~357 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 357,176 (Ranked 49)  
+Progressed: 357,181 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 7 (0.00%) (Ranked 380)
 | 2023-12-15 | 356,779 | 7 |
 | 2023-12-16 | 356,959 | 7 |
 | 2023-12-17 | 357,141 | 7 |
-| 2023-12-18 | 357,176 | 7 |
+| 2023-12-18 | 357,181 | 7 |
 ## Awards
 Max (Great for Beginners): 55  (Ranked 429)  
 Sum: 255 (Ranked 386)  

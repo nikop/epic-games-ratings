@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -229,10 +229,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1116,
+  "EOS_Progressed": 1118,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 785,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 787,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
@@ -2194,6 +2194,11 @@
       "Time": "2023-12-18T06:09:25.853377+00:00",
       "NumProgressed": 1116,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-18T07:09:26.6516951+00:00",
+      "NumProgressed": 1118,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -2204,9 +2209,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 971
+      "UsersEstimate": 984
     },
     {
       "ID": "achievement_10",
@@ -2214,7 +2219,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "achievement_11",
@@ -2238,7 +2243,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_14",
@@ -2246,7 +2251,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_15",
@@ -2286,7 +2291,7 @@
       "Name": "Socialite",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "achievement_2",
@@ -2294,7 +2299,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "achievement_20",
@@ -2350,7 +2355,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "achievement_36",
@@ -2366,7 +2371,7 @@
       "Name": "Kitted Out",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_38",
@@ -2374,7 +2379,7 @@
       "Name": "Best Dressed",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_4",
@@ -2390,7 +2395,7 @@
       "Name": "Armaments Azure",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_42",
@@ -2398,7 +2403,7 @@
       "Name": "Armaments Gules",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_43",
@@ -2422,7 +2427,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_46",
@@ -2438,7 +2443,7 @@
       "Name": "Enlisted",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "achievement_49",
@@ -2454,7 +2459,7 @@
       "Name": "Initiate",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "achievement_50",
@@ -2502,7 +2507,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "achievement_60",
@@ -2574,14 +2579,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 1116,
+      "Progressed": 1118,
       "Completed": 2
     }
   ],
@@ -2589,8 +2594,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-17T23:58:03.3779297+00:00",
-  "LastChanged_Achievements": "2023-12-18T06:09:25.8533766+00:00",
+  "LastChanged_Achievements": "2023-12-18T07:09:26.6516946+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:30.3074422+00:00",
-  "LastUpdate_Ratings": "2023-12-18T05:58:16.3740713+00:00",
-  "LastUpdate_Achievements": "2023-12-18T06:09:25.8534234+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:58:12.2115478+00:00",
+  "LastUpdate_Achievements": "2023-12-18T07:09:26.6517644+00:00"
 }

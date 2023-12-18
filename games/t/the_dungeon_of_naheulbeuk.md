@@ -16,12 +16,12 @@ Number of Ratings: 118  (23.09.2022)
 | Speedrun | 5.00% | ~12,169 |
 | DM intervention | 4.00% | ~9,735 |
 | Fireproof Wizardess | 4.00% | ~9,735 |
-| Livin' in a dwarven paradise | 3.00% | ~7,301 |
-| Way of the Wimp | 3.00% | ~7,301 |
-| The plot thickens... At the tavern | 3.00% | ~7,301 |
-| The demons' feast | 3.00% | ~7,301 |
-| The Woman in the High Castle | 3.00% | ~7,301 |
-| Oh, when I'll be level 10... | 3.00% | ~7,301 |
+| Livin' in a dwarven paradise | 3.00% | ~7,302 |
+| Way of the Wimp | 3.00% | ~7,302 |
+| The plot thickens... At the tavern | 3.00% | ~7,302 |
+| The demons' feast | 3.00% | ~7,302 |
+| The Woman in the High Castle | 3.00% | ~7,302 |
+| Oh, when I'll be level 10... | 3.00% | ~7,302 |
 | Shiny and Crôm | 2.00% | ~4,868 |
 | The Great Library | 2.00% | ~4,868 |
 | Torture and Sensibility | 2.00% | ~4,868 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~243 |
 | Dwarf Candy | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,382 (Ranked 64)  
+Progressed: 243,384 (Ranked 64)  
 Completed: 7 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 7 (0.00%) (Ranked 380)
 | 2023-12-15 | 242,956 | 7 |
 | 2023-12-16 | 243,151 | 7 |
 | 2023-12-17 | 243,348 | 7 |
-| 2023-12-18 | 243,382 | 7 |
+| 2023-12-18 | 243,384 | 7 |
 ## Awards
 Max (Character Customization): 247  (Ranked 272)  
 Sum: 519 (Ranked 327)  

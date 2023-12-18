@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1707,
+  "EOS_Progressed": 1708,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 7.32,
   "EosHistory": [
@@ -4164,6 +4164,11 @@
       "Time": "2023-12-18T06:09:47.4266657+00:00",
       "NumProgressed": 1707,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-18T07:09:46.0796434+00:00",
+      "NumProgressed": 1708,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 30,
@@ -4175,7 +4180,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "LEVEL_002",
@@ -4223,7 +4228,7 @@
       "Name": "Animals in the farm",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "LEVEL_008",
@@ -4263,7 +4268,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "LEVEL_013",
@@ -4375,7 +4380,7 @@
       "Name": "Hiking, camping, picnics... you choose",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "LEVEL_027",
@@ -4383,7 +4388,7 @@
       "Name": "A farm island lost in time...",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "LEVEL_028",
@@ -4391,15 +4396,15 @@
       "Name": "What is the country?",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "LEVEL_029",
       "SetID": "212bg48",
       "Name": "Bridges connect us",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 119
+      "UsersEstimate": 102
     },
     {
       "ID": "LEVEL_030",
@@ -4414,14 +4419,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1707,
+      "Progressed": 1708,
       "Completed": 125
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-12-18T06:09:47.4266652+00:00",
+  "LastChanged_Achievements": "2023-12-18T07:09:46.0796432+00:00",
   "LastUpdate_AppInfo": "2023-12-12T04:57:10.8541257+00:00",
-  "LastUpdate_Ratings": "2023-12-18T05:58:39.1267594+00:00",
-  "LastUpdate_Achievements": "2023-12-18T06:09:47.4266965+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:58:32.0943774+00:00",
+  "LastUpdate_Achievements": "2023-12-18T07:09:46.0796823+00:00"
 }

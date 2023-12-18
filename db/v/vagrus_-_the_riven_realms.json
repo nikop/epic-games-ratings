@@ -2,10 +2,10 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 395,
+  "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 219,
+  "EOS_Progressed": 220,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -856,6 +856,11 @@
       "Time": "2023-12-18T04:04:21.3185061+00:00",
       "NumProgressed": 219,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T07:03:54.6159025+00:00",
+      "NumProgressed": 220,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -867,7 +872,7 @@
       "Name": "Randomized",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -1009,9 +1014,9 @@
       "ID": "Vanilla_CombatStrenghtTier1",
       "SetID": "27kik8p",
       "Name": "Tactician",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "Vanilla_CombatStrenghtTier2",
@@ -1483,7 +1488,7 @@
       "Name": "A Second Chance",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1658,7 +1663,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 219,
+      "Progressed": 220,
       "Completed": 0
     }
   ],
@@ -1666,8 +1671,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-18T06:03:51.3364823+00:00",
+  "LastChanged_Achievements": "2023-12-18T07:03:54.6159023+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.1376509+00:00",
-  "LastUpdate_Ratings": "2023-12-18T05:57:44.6449908+00:00",
-  "LastUpdate_Achievements": "2023-12-18T06:03:51.3365772+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:57:43.8392374+00:00",
+  "LastUpdate_Achievements": "2023-12-18T07:03:54.6160089+00:00"
 }

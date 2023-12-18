@@ -4,8 +4,8 @@
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
   "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
     "PcReleaseDate": "2022-09-01T15:00:00+00:00",
@@ -260,9 +260,9 @@
       "ID": "SteamAchievement_WinBattles01",
       "SetID": "b8gj0ip",
       "Name": "Battle Commander",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SteamAchievement_WinBattles02",
@@ -507,8 +507,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-12-18T06:03:30.7777565+00:00",
+  "LastChanged_Achievements": "2023-12-18T07:03:35.3661955+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:42.1986517+00:00",
-  "LastUpdate_Ratings": "2023-12-18T05:57:28.2269755+00:00",
-  "LastUpdate_Achievements": "2023-12-18T06:03:30.7777839+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:57:29.1279523+00:00",
+  "LastUpdate_Achievements": "2023-12-18T07:03:35.3662236+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2681,9 +2681,9 @@
       "Count": 218
     }
   ],
-  "EOS_Progressed": 27163,
+  "EOS_Progressed": 27166,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1396,
+  "EOS_NewPlayers": 1398,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13441,6 +13441,11 @@
       "Time": "2023-12-18T06:09:01.5419765+00:00",
       "NumProgressed": 27163,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T07:09:04.0874695+00:00",
+      "NumProgressed": 27166,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -13629,7 +13634,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 4074
+      "UsersEstimate": 4075
     },
     {
       "ID": "Achievement_Trophy24",
@@ -13637,7 +13642,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 10865
+      "UsersEstimate": 10866
     },
     {
       "ID": "Achievement_Trophy25",
@@ -13653,7 +13658,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 9235
+      "UsersEstimate": 9236
     },
     {
       "ID": "Achievement_Trophy27",
@@ -13669,7 +13674,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 8692
+      "UsersEstimate": 8693
     },
     {
       "ID": "Achievement_Trophy29",
@@ -13693,7 +13698,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 8149
+      "UsersEstimate": 8150
     },
     {
       "ID": "Achievement_Trophy32",
@@ -13709,7 +13714,7 @@
       "Name": "Pack leader",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "Achievement_Trophy34",
@@ -13741,7 +13746,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 6519
+      "UsersEstimate": 6520
     },
     {
       "ID": "Achievement_Trophy38",
@@ -13757,7 +13762,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 5161
+      "UsersEstimate": 5162
     },
     {
       "ID": "Achievement_Trophy40",
@@ -13773,7 +13778,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3531
+      "UsersEstimate": 3532
     },
     {
       "ID": "Achievement_Trophy42",
@@ -13789,7 +13794,7 @@
       "Name": "Light of my life",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3531
+      "UsersEstimate": 3532
     },
     {
       "ID": "Achievement_Trophy44",
@@ -13829,7 +13834,7 @@
       "Name": "Doom and gloom",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2716
+      "UsersEstimate": 2717
     },
     {
       "ID": "Achievement_Trophy49",
@@ -13940,7 +13945,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 27163,
+      "Progressed": 27166,
       "Completed": 1
     }
   ],
@@ -13948,8 +13953,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-17T20:59:18.3074128+00:00",
-  "LastChanged_Achievements": "2023-12-18T06:09:01.5419761+00:00",
+  "LastChanged_Achievements": "2023-12-18T07:09:04.0874692+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:35.1754464+00:00",
-  "LastUpdate_Ratings": "2023-12-18T05:58:56.7268267+00:00",
-  "LastUpdate_Achievements": "2023-12-18T06:09:01.542059+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:58:48.1757523+00:00",
+  "LastUpdate_Achievements": "2023-12-18T07:09:04.0875487+00:00"
 }

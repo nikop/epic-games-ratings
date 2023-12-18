@@ -22,12 +22,12 @@ Number of Ratings: 892  (23.09.2022)
 | Can We Keep It? | 74.00% | ~442 |
 | Officially Official | 74.00% | ~442 |
 | First Love | 72.00% | ~430 |
+| Unboxing | 69.00% | ~412 |
 | Better Late than Never | 68.00% | ~406 |
 | Elementary, My Dear | 68.00% | ~406 |
 | Chatterbox | 68.00% | ~406 |
-| Unboxing | 68.00% | ~406 |
 | Financially Secure | 67.00% | ~400 |
-| Big Game Hunter | 65.00% | ~388 |
+| Big Game Hunter | 66.00% | ~394 |
 | Got Served | 64.00% | ~382 |
 | Mole Masher | 64.00% | ~382 |
 | Panda-kin | 63.00% | ~376 |

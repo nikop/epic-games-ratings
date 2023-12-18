@@ -6,22 +6,22 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~32,008 |
-| Final touch | 34.00% | ~29,412 |
-| Prop-M Rover | 32.00% | ~27,682 |
-| Changing the Planet | 28.00% | ~24,222 |
-| Sojourner | 26.00% | ~22,492 |
-| New Home | 23.00% | ~19,897 |
-| Beagle 2 | 23.00% | ~19,897 |
-| Winner Winner Terraformer | 21.00% | ~18,166 |
-| Project Manager | 19.00% | ~16,436 |
-| Curiosity | 19.00% | ~16,436 |
-| Collector | 19.00% | ~16,436 |
-| No Longer Red | 18.00% | ~15,571 |
-| Master | 18.00% | ~15,571 |
-| Self-sufficient | 17.00% | ~14,706 |
-| Money money | 15.00% | ~12,976 |
-| Biggest Reward | 14.00% | ~12,111 |
+| It's a steal! | 37.00% | ~32,009 |
+| Final touch | 34.00% | ~29,414 |
+| Prop-M Rover | 32.00% | ~27,684 |
+| Changing the Planet | 28.00% | ~24,223 |
+| Sojourner | 26.00% | ~22,493 |
+| New Home | 23.00% | ~19,898 |
+| Beagle 2 | 23.00% | ~19,898 |
+| Winner Winner Terraformer | 21.00% | ~18,167 |
+| Project Manager | 19.00% | ~16,437 |
+| Curiosity | 19.00% | ~16,437 |
+| Collector | 19.00% | ~16,437 |
+| No Longer Red | 18.00% | ~15,572 |
+| Master | 18.00% | ~15,572 |
+| Self-sufficient | 17.00% | ~14,707 |
+| Money money | 15.00% | ~12,977 |
+| Biggest Reward | 14.00% | ~12,112 |
 | First Journey | 13.00% | ~11,246 |
 | Acquired knowledge | 12.00% | ~10,381 |
 | Landlord | 11.00% | ~9,516 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,595 |
 | Opportunity | 3.00% | ~2,595 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,507 (Ranked 97)  
+Progressed: 86,511 (Ranked 97)  
 Completed: 174 (0.20%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 174 (0.20%) (Ranked 267)
 | 2023-12-15 | 86,208 | 174 |
 | 2023-12-16 | 86,342 | 174 |
 | 2023-12-17 | 86,483 | 174 |
-| 2023-12-18 | 86,507 | 174 |
+| 2023-12-18 | 86,511 | 174 |
 ## Awards
 Max (Relaxing): 530  (Ranked 211)  
 Sum: 3,296 (Ranked 173)  
