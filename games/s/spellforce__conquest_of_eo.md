@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 87.00% | ~53 |
-| Enough rooms to swing a cat | 84.00% | ~51 |
-| First to the post | 84.00% | ~51 |
+| Home Sweet Home | 89.00% | ~54 |
+| Enough rooms to swing a cat | 85.00% | ~52 |
+| First to the post | 85.00% | ~52 |
 | A kind of Magic | 79.00% | ~48 |
 | Connected | 70.00% | ~43 |
 | Expansion | 69.00% | ~42 |

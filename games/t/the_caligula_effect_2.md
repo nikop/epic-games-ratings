@@ -10,7 +10,7 @@ Number of Ratings: 32  (23.09.2022)
 | Daily Life Begins Anew | 82.00% | ~200 |
 | Our World Now | 82.00% | ~200 |
 | Never Saw It Coming | 66.00% | ~161 |
-| Coup de Grace | 57.00% | ~139 |
+| Coup de Grace | 58.00% | ~142 |
 | Go-Home Club Activities START! | 48.00% | ~117 |
 | Philanthropist | 39.00% | ~95 |
 | Test Your Luck | 34.00% | ~83 |

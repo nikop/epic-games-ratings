@@ -2,7 +2,7 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 557,
+  "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 153,
@@ -203,9 +203,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "7on801h",
       "Name": "Between Technology and the Divine",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -227,9 +227,9 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "7on801h",
       "Name": "The Golden Rookery",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_16",
@@ -435,9 +435,9 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "7on801h",
       "Name": "I Can Only Fight Enemies I Can See",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_10",
@@ -840,8 +840,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-18T13:12:45.8854047+00:00",
+  "LastChanged_Achievements": "2023-12-18T14:05:20.3946516+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184844+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:06:38.3027742+00:00",
-  "LastUpdate_Achievements": "2023-12-18T13:12:45.8854705+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:59:19.8530714+00:00",
+  "LastUpdate_Achievements": "2023-12-18T14:05:20.3947237+00:00"
 }

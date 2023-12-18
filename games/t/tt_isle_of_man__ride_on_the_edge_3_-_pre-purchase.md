@@ -26,6 +26,7 @@
 | Seven-League Boots | 3.00% | ~6 |
 | Say My Name | 3.00% | ~6 |
 | First Things First | 3.00% | ~6 |
+| Tailor-Made for Two | 3.00% | ~6 |
 | Tempus Fugit | 3.00% | ~6 |
 | Déjà-Vu | 2.00% | ~4 |
 | The Joy of Discovery | 2.00% | ~4 |
@@ -37,7 +38,6 @@
 | Made Father Proud | 2.00% | ~4 |
 | Win-Win! | 2.00% | ~4 |
 | Supersport Superfan | 2.00% | ~4 |
-| Tailor-Made for Two | 2.00% | ~4 |
 | Golden Ratio | 1.00% | ~2 |
 | Checklist | 1.00% | ~2 |
 | Time Is of the Essence | 1.00% | ~2 |

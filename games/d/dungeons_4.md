@@ -32,8 +32,8 @@
 | Tanos' Crusade Against Thalya | 44.00% | ~258 |
 | Mana Cannon | 41.00% | ~241 |
 | All’s Well That Ends Evil | 39.00% | ~229 |
+| Unstoppable Horde | 35.00% | ~205 |
 | The Duel | 35.00% | ~205 |
-| Unstoppable Horde | 34.00% | ~200 |
 | Master of the Undead | 33.00% | ~194 |
 | If Looks Could Kill | 33.00% | ~194 |
 | The Finitude Drill | 30.00% | ~176 |
@@ -42,7 +42,7 @@
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~158 |
 | Doom Hill | 27.00% | ~158 |
 | Hungry, Hungry Gorgu! | 26.00% | ~153 |
-| Stop Tanos! | 25.00% | ~147 |
+| Stop Tanos! | 26.00% | ~153 |
 | Sabotage! | 25.00% | ~147 |
 | Brimstone Shaken, Not Stirred | 25.00% | ~147 |
 | Raiders of the Lost Stone | 23.00% | ~135 |

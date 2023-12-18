@@ -9,11 +9,11 @@
 | First winning | 84.00% | ~348 |
 | Good Person Chip | 84.00% | ~348 |
 | Your first job | 82.00% | ~339 |
+| Fitness professional | 77.00% | ~319 |
 | Old movies enjoyer | 77.00% | ~319 |
 | Depressed visitor | 77.00% | ~319 |
-| Fitness professional | 76.00% | ~315 |
-| Neurotrainer – power gainer! | 76.00% | ~315 |
-| Employee of the week | 75.00% | ~310 |
+| Neurotrainer – power gainer! | 77.00% | ~319 |
+| Employee of the week | 76.00% | ~315 |
 | Your own amateur gym | 71.00% | ~294 |
 | First defeat | 70.00% | ~290 |
 | Run K, run! | 70.00% | ~290 |
@@ -23,9 +23,9 @@
 | Pal of your father? | 64.00% | ~265 |
 | Spirit of the past | 62.00% | ~257 |
 | Employee of the month | 61.00% | ~253 |
-| Law student | 58.00% | ~240 |
+| Law student | 59.00% | ~244 |
+| Little hacker | 57.00% | ~236 |
 | Workout professional | 56.00% | ~232 |
-| Little hacker | 56.00% | ~232 |
 | Handyman | 56.00% | ~232 |
 | Intriguing candies | 56.00% | ~232 |
 | Fight for life | 55.00% | ~228 |
@@ -43,7 +43,7 @@
 | No blades in the gym | 41.00% | ~170 |
 | Champion – no way back | 39.00% | ~161 |
 | Underground dwellers | 39.00% | ~161 |
-| Responsible approach | 38.00% | ~157 |
+| Responsible approach | 39.00% | ~161 |
 | Mom got better | 37.00% | ~153 |
 | Deal with life | 37.00% | ~153 |
 | GYM professional | 37.00% | ~153 |

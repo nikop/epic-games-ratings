@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6711,
+  "EOS_Progressed": 6712,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7097,6 +7097,11 @@
       "Time": "2023-12-18T12:06:49.7502316+00:00",
       "NumProgressed": 6711,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T14:05:42.1820458+00:00",
+      "NumProgressed": 6712,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -7220,7 +7225,7 @@
       "Name": "Deck the Balls",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "DnD_Ashley",
@@ -7388,7 +7393,7 @@
       "Name": "Life Found a Way",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "MoneyShot",
@@ -7659,21 +7664,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3750,
+      "Progressed": 3751,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6711,
+      "Progressed": 6712,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-18T13:13:16.5505325+00:00",
+  "LastChanged_Achievements": "2023-12-18T14:05:42.1820453+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:00.6837777+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:04:20.3556389+00:00",
-  "LastUpdate_Achievements": "2023-12-18T13:13:16.5506194+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:57:47.1419842+00:00",
+  "LastUpdate_Achievements": "2023-12-18T14:05:42.1821448+00:00"
 }

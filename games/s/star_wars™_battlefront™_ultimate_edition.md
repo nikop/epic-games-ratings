@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,663 |
-| Off to a good start | 65.00% | ~1,215 |
-| Do... or do not. There is no try | 51.00% | ~953 |
-| A good blaster at your side | 28.00% | ~523 |
-| I suggest a new strategy | 18.00% | ~336 |
+| New Recruit | 89.00% | ~1,664 |
+| Off to a good start | 65.00% | ~1,216 |
+| Do... or do not. There is no try | 51.00% | ~954 |
+| A good blaster at your side | 28.00% | ~524 |
+| I suggest a new strategy | 18.00% | ~337 |
 | Scrap collector | 17.00% | ~318 |
 | All right, I'll give it a try | 17.00% | ~318 |
 | Great shot, kid! | 17.00% | ~318 |
@@ -24,10 +24,10 @@
 | A cunning warrior | 7.00% | ~131 |
 | Impressive. Most impressive. | 6.00% | ~112 |
 | Judge me by my size, do you? | 6.00% | ~112 |
-| "Gonk? Gonk!" | 5.00% | ~93 |
-| Distinguished | 5.00% | ~93 |
-| A tremor in the Force | 5.00% | ~93 |
-| Support the troops | 5.00% | ~93 |
+| "Gonk? Gonk!" | 5.00% | ~94 |
+| Distinguished | 5.00% | ~94 |
+| A tremor in the Force | 5.00% | ~94 |
+| Support the troops | 5.00% | ~94 |
 | Safety ain't the point of a joyride | 4.00% | ~75 |
 | Not bad for a little furball | 4.00% | ~75 |
 | I've been waiting for you | 3.00% | ~56 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~4 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,869 (Ranked 236)  
+Progressed: 1,870 (Ranked 236)  
 Completed: 1 (0.05%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 1 (0.05%) (Ranked 329)
 | 2023-12-15 | 1,755 | 1 |
 | 2023-12-16 | 1,815 | 1 |
 | 2023-12-17 | 1,853 | 1 |
-| 2023-12-18 | 1,869 | 1 |
+| 2023-12-18 | 1,870 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

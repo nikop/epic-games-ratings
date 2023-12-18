@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8508,
+  "EOS_Progressed": 8509,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8673,6 +8673,11 @@
       "Time": "2023-12-18T13:16:54.6470199+00:00",
       "NumProgressed": 8508,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T14:09:49.5541361+00:00",
+      "NumProgressed": 8509,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9021,20 +9026,20 @@
       "Name": "Exit Through The Gift Shop",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8508,
+      "Progressed": 8509,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1125,
+      "Progressed": 1126,
       "Completed": 1050
     }
   ],
@@ -9042,8 +9047,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-15T16:03:24.8361061+00:00",
-  "LastChanged_Achievements": "2023-12-18T13:16:54.6470193+00:00",
+  "LastChanged_Achievements": "2023-12-18T14:09:49.5541359+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:09:47.6449006+00:00",
-  "LastUpdate_Achievements": "2023-12-18T13:16:54.6470917+00:00"
+  "LastUpdate_Ratings": "2023-12-18T14:03:12.4581095+00:00",
+  "LastUpdate_Achievements": "2023-12-18T14:09:49.5541899+00:00"
 }

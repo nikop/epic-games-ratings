@@ -12,6 +12,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Not Touching You | 0.80% | ~22 |
 | Getting A Glimpse | 0.70% | ~1,689 |
 | That Was Quick | 0.70% | ~1,689 |
+| Colorful Corpse | 0.70% | ~1,689 |
 | Defeat The Dark | 0.70% | ~1,689 |
 | A Quick Escape | 0.70% | ~1,689 |
 | Explorer | 0.70% | ~1,689 |
@@ -20,7 +21,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Heavy Hitter | 0.60% | ~1,447 |
 | Delving Deeper | 0.60% | ~1,447 |
 | R.I.P | 0.60% | ~1,447 |
-| Colorful Corpse | 0.60% | ~1,447 |
 | Goodbye, Frog Friend | 0.60% | ~1,447 |
 | Heartless | 0.60% | ~1,447 |
 | What's Yours Is Mine | 0.60% | ~1,447 |
@@ -42,6 +42,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Toxic | 0.50% | ~1,206 |
 | Shadow Walker | 0.50% | ~1,206 |
 | Flesh Wound | 0.50% | ~1,206 |
+| Shapeshifting | 0.50% | ~1,206 |
 | Expensive Look | 0.50% | ~14 |
 | What Doesn't Kill You | 0.50% | ~14 |
 | Consecutive Curses | 0.40% | ~965 |
@@ -56,7 +57,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Spreading Plague | 0.40% | ~965 |
 | Acid Bath | 0.40% | ~965 |
 | New Perspectives | 0.40% | ~965 |
-| Shapeshifting | 0.40% | ~965 |
 | Thank You, Friend | 0.30% | ~724 |
 | Shadow Spreads | 0.30% | ~724 |
 | Max Damage! | 0.30% | ~724 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,245 (Ranked 66)  
+Progressed: 241,248 (Ranked 66)  
 Completed: 299 (0.12%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -387,7 +387,7 @@ Completed: 299 (0.12%) (Ranked 290)
 | 2023-12-15 | 241,093 | 299 |
 | 2023-12-16 | 241,163 | 299 |
 | 2023-12-17 | 241,211 | 299 |
-| 2023-12-18 | 241,245 | 299 |
+| 2023-12-18 | 241,248 | 299 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,743 (Ranked 87)  

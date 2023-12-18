@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 89.00% | ~39 |
-| Eat the Rich | 59.00% | ~26 |
-| Death Battle | 45.00% | ~20 |
-| Phantom Kunoichi | 45.00% | ~20 |
-| Killing Machine | 45.00% | ~20 |
+| Hero Arrives | 89.00% | ~40 |
+| Eat the Rich | 58.00% | ~26 |
+| Death Battle | 44.00% | ~20 |
+| Phantom Kunoichi | 44.00% | ~20 |
+| Killing Machine | 44.00% | ~20 |
 | Divine Retribution | 36.00% | ~16 |
-| Dispel Rumors | 34.00% | ~15 |
-| Captain Mustache | 34.00% | ~15 |
-| Final Showdown | 32.00% | ~14 |
-| The End of an Outlaw | 32.00% | ~14 |
-| Demon Slayer | 30.00% | ~13 |
-| Steal Her Away | 30.00% | ~13 |
-| Sewer Rat | 30.00% | ~13 |
+| Dispel Rumors | 33.00% | ~15 |
+| Captain Mustache | 33.00% | ~15 |
+| Final Showdown | 31.00% | ~14 |
+| The End of an Outlaw | 31.00% | ~14 |
+| Demon Slayer | 29.00% | ~13 |
+| Steal Her Away | 29.00% | ~13 |
+| Sewer Rat | 29.00% | ~13 |
 | Urban Explorer | 27.00% | ~12 |
 | Fight Fire With Fire | 27.00% | ~12 |
-| Tour Guide | 25.00% | ~11 |
-| Big Eater | 23.00% | ~10 |
-| Not Today | 23.00% | ~10 |
-| Coward | 23.00% | ~10 |
-| The Real O.G. | 20.00% | ~9 |
+| Tour Guide | 24.00% | ~11 |
+| Big Eater | 22.00% | ~10 |
+| The Real O.G. | 22.00% | ~10 |
+| Not Today | 22.00% | ~10 |
+| Coward | 22.00% | ~10 |
 | Tomb Raider | 20.00% | ~9 |
-| The Hero of the People | 14.00% | ~6 |
-| Talk to the Fist | 14.00% | ~6 |
+| The Hero of the People | 13.00% | ~6 |
+| Talk to the Fist | 13.00% | ~6 |
 | Collector | 7.00% | ~3 |
 | The Legend | 7.00% | ~3 |
 | Taoist | 7.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 529)  
-Completed: 3 (6.82%) (Ranked 62)  
+Progressed: 45 (Ranked 528)  
+Completed: 3 (6.67%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,7 +70,7 @@ Completed: 3 (6.82%) (Ranked 62)
 | 2023-12-14 | 38 | 2 |
 | 2023-12-16 | 40 | 2 |
 | 2023-12-17 | 42 | 3 |
-| 2023-12-18 | 44 | 3 |
+| 2023-12-18 | 45 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 73.00% | ~128 |
+| Meissa's Savior | 73.00% | ~129 |
 | Purification Pioneer | 68.00% | ~120 |
-| Mechanical Buddy | 63.00% | ~111 |
-| Dicesmithing Time! | 58.00% | ~102 |
-| Sanctuary Guardian | 52.00% | ~92 |
+| Mechanical Buddy | 63.00% | ~112 |
+| Dicesmithing Time! | 58.00% | ~103 |
 | Endless Tricks | 51.00% | ~90 |
-| Wild's Keeper | 47.00% | ~83 |
-| Mind Illuminator | 44.00% | ~77 |
-| Stellar Dismantler | 36.00% | ~63 |
+| Sanctuary Guardian | 51.00% | ~90 |
+| Wild's Keeper | 46.00% | ~81 |
+| Mind Illuminator | 44.00% | ~78 |
+| Stellar Dismantler | 36.00% | ~64 |
 | Noctuan Champion | 35.00% | ~62 |
 | Anomaly Destroyer | 31.00% | ~55 |
-| Astral Adventurer | 30.00% | ~53 |
+| Astral Adventurer | 29.00% | ~51 |
 | Star Killer | 27.00% | ~48 |
 | Eridanian Champion | 26.00% | ~46 |
-| Lacertian Champion | 26.00% | ~46 |
+| Lacertian Champion | 25.00% | ~44 |
 | Loyal Partner | 24.00% | ~42 |
-| Apian Champion | 22.00% | ~39 |
+| Apian Champion | 21.00% | ~37 |
 | Shard Spender | 20.00% | ~35 |
 | Unbeatable | 18.00% | ~32 |
 | Behenian Champion | 17.00% | ~30 |
@@ -30,10 +30,10 @@
 | Astral Seeker | 10.00% | ~18 |
 | Heavy Purger | 10.00% | ~18 |
 | Heart Gate | 9.00% | ~16 |
-| The Corruption Goddess | 9.00% | ~16 |
-| The Goddes Avatar | 9.00% | ~16 |
 | Wave Bender | 9.00% | ~16 |
 | Favored by the Cosmos | 8.00% | ~14 |
+| The Corruption Goddess | 8.00% | ~14 |
+| The Goddes Avatar | 8.00% | ~14 |
 | Anomaly Control | 6.00% | ~11 |
 | Artificer | 6.00% | ~11 |
 | Can't touch this | 6.00% | ~11 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176 (Ranked 405)  
+Progressed: 177 (Ranked 404)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,4 +156,4 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-15 | 139 | 0 |
 | 2023-12-16 | 161 | 0 |
 | 2023-12-17 | 175 | 0 |
-| 2023-12-18 | 176 | 0 |
+| 2023-12-18 | 177 | 0 |

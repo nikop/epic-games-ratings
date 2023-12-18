@@ -36,7 +36,7 @@
 | Berserker Slayer | 10.00% | ~63 |
 | Master Cook | 9.00% | ~57 |
 | Giantess Slayer | 9.00% | ~57 |
-| Warden Slayer | 8.00% | ~50 |
+| Warden Slayer | 9.00% | ~57 |
 | Silver Moon Wolf King Challenge | 3.00% | ~19 |
 | Rebellious | 2.00% | ~13 |
 | Blade Mantis Challenge | 2.00% | ~13 |

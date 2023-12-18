@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -149,11 +149,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1200,
+  "EOS_Progressed": 1201,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.67,
+  "EOS_Completed_Percentage": 2.66,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -4044,6 +4044,11 @@
       "Time": "2023-12-18T12:07:54.9503471+00:00",
       "NumProgressed": 1200,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-18T14:08:02.7819024+00:00",
+      "NumProgressed": 1201,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4064,7 +4069,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "_03_FinishAct1",
@@ -4182,17 +4187,17 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 432
     },
     {
       "ID": "_18_UpgradeAllCharacters",
       "SetID": "8a1io5d",
       "Name": "Fully Decked",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 125,
-      "UsersEstimate": 84
+      "UsersEstimate": 72
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -4263,7 +4268,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1200,
+      "Progressed": 1201,
       "Completed": 32
     }
   ],
@@ -4271,8 +4276,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-18T13:14:27.1374867+00:00",
+  "LastChanged_Achievements": "2023-12-18T14:08:02.7819021+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:08:51.1499176+00:00",
-  "LastUpdate_Achievements": "2023-12-18T13:14:27.13752+00:00"
+  "LastUpdate_Ratings": "2023-12-18T14:02:33.4635946+00:00",
+  "LastUpdate_Achievements": "2023-12-18T14:08:02.781934+00:00"
 }

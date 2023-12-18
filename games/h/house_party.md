@@ -11,7 +11,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Brahdyssey | 3.00% | ~201 |
 | Caught in the Act | 3.00% | ~201 |
 | Katherine | 3.00% | ~201 |
-| Life Found a Way | 3.00% | ~112 |
+| Life Found a Way | 3.00% | ~113 |
 | Relentless | 3.00% | ~201 |
 | If at First You Don't Succeed... | 3.00% | ~201 |
 | Drunk and Disorderly: Stephanie | 2.00% | ~134 |
@@ -31,7 +31,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Magic Number | 0.70% | ~47 |
 | Vickie | 0.70% | ~47 |
 | Te Amo Lety | 0.70% | ~47 |
-| Deck the Balls | 0.60% | ~22 |
+| Deck the Balls | 0.60% | ~23 |
 | Now It's a Party! | 0.60% | ~40 |
 | Ashley | 0.50% | ~34 |
 | Benedict Brahrnold | 0.50% | ~34 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,711 (Ranked 187)  
+Progressed: 6,712 (Ranked 187)  
 Completed: 3 (0.04%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 3 (0.04%) (Ranked 337)
 | 2023-12-15 | 6,637 | 3 |
 | 2023-12-16 | 6,670 | 3 |
 | 2023-12-17 | 6,705 | 3 |
-| 2023-12-18 | 6,711 | 3 |
+| 2023-12-18 | 6,712 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

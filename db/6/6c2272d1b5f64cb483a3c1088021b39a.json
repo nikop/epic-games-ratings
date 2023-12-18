@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1272,
+  "EOS_Progressed": 1273,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4509,6 +4509,11 @@
       "Time": "2023-12-18T04:10:23.8039861+00:00",
       "NumProgressed": 1272,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T14:09:50.4986887+00:00",
+      "NumProgressed": 1273,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4814,9 +4819,9 @@
       "ID": "invincible_2",
       "SetID": "53c1p3k",
       "Name": "Invincible 2",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "invincible_3",
@@ -5006,9 +5011,9 @@
       "ID": "taste_of_victory_2",
       "SetID": "53c1p3k",
       "Name": "Taste of Victory 2",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "taste_of_victory_3",
@@ -5047,14 +5052,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1272,
+      "Progressed": 1273,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-12-18T13:16:55.8695831+00:00",
+  "LastChanged_Achievements": "2023-12-18T14:09:50.4986883+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:27.95796+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:08:51.3747815+00:00",
-  "LastUpdate_Achievements": "2023-12-18T13:16:55.8696428+00:00"
+  "LastUpdate_Ratings": "2023-12-18T14:02:33.9368428+00:00",
+  "LastUpdate_Achievements": "2023-12-18T14:09:50.4987454+00:00"
 }

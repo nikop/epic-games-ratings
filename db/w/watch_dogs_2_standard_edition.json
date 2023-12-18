@@ -3,9 +3,9 @@
   "Name": "Watch Dogs 2 Standard Edition",
   "ProductSlug": "watch-dogs-2",
   "Ranking_Rating": 392,
-  "Ranking_Popularity": 195,
+  "Ranking_Popularity": 194,
   "Ranking_PopularitySum": 149,
-  "Ranking_EOS_Progress": 807,
+  "Ranking_EOS_Progress": 808,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 153,
@@ -8365,11 +8365,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 4620,
       "NumberOfAwardsMax": 619
+    },
+    {
+      "Time": "2023-12-18T13:58:08.1465192+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4625,
+      "NumberOfAwardsMax": 624
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4620,
-  "NumberOfAwardsMax": 619,
+  "NumberOfAwards": 4625,
+  "NumberOfAwardsMax": 624,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8424,7 +8430,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 619
+      "Count": 624
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8444,8 +8450,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-12-18T13:04:52.0352919+00:00",
+  "LastChanged": "2023-12-18T13:58:08.1465191+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:22.5126526+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:04:52.0352924+00:00",
-  "LastUpdate_Achievements": "2023-12-18T13:15:25.5110597+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:58:08.1465197+00:00",
+  "LastUpdate_Achievements": "2023-12-18T14:08:44.3094881+00:00"
 }

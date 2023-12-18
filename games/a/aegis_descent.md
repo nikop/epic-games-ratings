@@ -8,7 +8,7 @@
 | Scavenger | 73.00% | ~314 |
 | Line of Duty | 72.00% | ~310 |
 | Gunner | 57.00% | ~245 |
-| DocKing | 45.00% | ~194 |
+| DocKing | 46.00% | ~198 |
 | What-A-Shot | 43.00% | ~185 |
 | Batteries Included | 38.00% | ~163 |
 | Death from Above | 34.00% | ~146 |

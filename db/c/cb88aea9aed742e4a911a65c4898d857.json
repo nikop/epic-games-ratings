@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5084,
+  "EOS_Progressed": 5093,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2980,
+  "EOS_NewPlayers": 2958,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1406,6 +1406,11 @@
       "Time": "2023-12-18T13:16:19.3727599+00:00",
       "NumProgressed": 5084,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T14:09:23.3586664+00:00",
+      "NumProgressed": 5093,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1418,7 +1423,7 @@
       "Name": "Conspiracy",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 915
+      "UsersEstimate": 917
     },
     {
       "ID": "03_TheStolenStar",
@@ -1522,7 +1527,7 @@
       "Name": "Pentakill",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "16_TheRise",
@@ -1546,7 +1551,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "19_TheVoidWolf",
@@ -1578,7 +1583,7 @@
       "Name": "Perfect Timing",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "23_DynastyRestored",
@@ -1626,7 +1631,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -1642,7 +1647,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "31_DontTouchThis",
@@ -1666,7 +1671,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -1730,7 +1735,7 @@
       "Name": "Jungle Heat",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "42_TheIronJudgement",
@@ -1856,9 +1861,9 @@
       "ID": "57_TheBurningHeritage",
       "SetID": "37a94m8",
       "Name": "Burning Inheritance",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 31
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -1937,7 +1942,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 5084,
+      "Progressed": 5093,
       "Completed": 0
     }
   ],
@@ -1945,8 +1950,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-17T10:00:08.9925028+00:00",
-  "LastChanged_Achievements": "2023-12-18T13:16:19.3727595+00:00",
+  "LastChanged_Achievements": "2023-12-18T14:09:23.3586659+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:07:14.8097396+00:00",
-  "LastUpdate_Achievements": "2023-12-18T13:16:19.3728161+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:59:45.0317392+00:00",
+  "LastUpdate_Achievements": "2023-12-18T14:09:23.3587256+00:00"
 }

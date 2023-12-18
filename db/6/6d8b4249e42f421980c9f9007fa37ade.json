@@ -2,9 +2,9 @@
   "ID": "6d8b4249e42f421980c9f9007fa37ade",
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
-  "Ranking_EOS_Progress": 447,
+  "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117,
+  "EOS_Progressed": 118,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -519,6 +519,11 @@
       "Time": "2023-12-17T15:05:04.4917086+00:00",
       "NumProgressed": 117,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T14:05:22.6287656+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -528,7 +533,7 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
       "UsersEstimate": 83
     },
@@ -538,13 +543,13 @@
       "Name": "End Day",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Epic_Brand_25",
       "SetID": "ba1m2fc",
       "Name": "Pilgrim",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
       "UsersEstimate": 37
     },
@@ -552,15 +557,15 @@
       "ID": "Epic_ChainSaw_1",
       "SetID": "ba1m2fc",
       "Name": "Maimed Bodies",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "Epic_Challenger_1",
       "SetID": "ba1m2fc",
       "Name": "Abyss Lone Fighter",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -584,7 +589,7 @@
       "ID": "Epic_DangerousDrive_1",
       "SetID": "ba1m2fc",
       "Name": "Dangerous Driving",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -634,7 +639,7 @@
       "Name": "Stars\u0027 Shimmer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Epic_Formula_12",
@@ -690,15 +695,15 @@
       "Name": "Exorcism",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "Epic_HomeRun_1",
       "SetID": "ba1m2fc",
       "Name": "Home Run",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
@@ -706,15 +711,15 @@
       "Name": "Wrecking Ball",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Epic_InnerWorld_1",
       "SetID": "ba1m2fc",
       "Name": "Pseudo-redemption",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 22
     },
     {
       "ID": "Epic_KillBoss_25",
@@ -762,7 +767,7 @@
       "Name": "Knife Out",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Epic_Parasitic_1",
@@ -776,7 +781,7 @@
       "ID": "Epic_Pedometer_1000000",
       "SetID": "ba1m2fc",
       "Name": "Endless Journey",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -784,9 +789,9 @@
       "ID": "Epic_PickProps_50",
       "SetID": "ba1m2fc",
       "Name": "Deus Ex Machina",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "Epic_Purgatory_1",
@@ -794,13 +799,13 @@
       "Name": "Paradise Lost",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Epic_Revenge_1",
       "SetID": "ba1m2fc",
       "Name": "Karma",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -832,9 +837,9 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Epic_SmallBell_1",
@@ -850,7 +855,7 @@
       "Name": "God of Wealth",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Epic_SwampPet_1",
@@ -864,7 +869,7 @@
       "ID": "Epic_Swamp_1",
       "SetID": "ba1m2fc",
       "Name": "Fallen Eden",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 37
     },
@@ -880,7 +885,7 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
       "UsersEstimate": 71
     },
@@ -896,9 +901,9 @@
       "ID": "Epic_WildFire_1",
       "SetID": "ba1m2fc",
       "Name": "Spark Starts Prairie Fire",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Epic_WinTimes_500",
@@ -913,14 +918,14 @@
     {
       "ID": "ba1m2fc",
       "IsBase": true,
-      "Progressed": 117,
+      "Progressed": 118,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-12-18T13:12:49.1002979+00:00",
+  "LastChanged_Achievements": "2023-12-18T14:05:22.6287653+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:10.2907152+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:05:33.6317038+00:00",
-  "LastUpdate_Achievements": "2023-12-18T13:12:49.1003293+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:58:37.3652066+00:00",
+  "LastUpdate_Achievements": "2023-12-18T14:05:22.6287956+00:00"
 }

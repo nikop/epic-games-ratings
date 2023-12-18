@@ -196,9 +196,9 @@
       "ID": "EARN_CURRENCY",
       "SetID": "1oh5c4a",
       "Name": "Numismatist",
-      "Percentage": 100,
+      "Percentage": 200,
       "XP": 45,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FIND_ALL_CHALLENGES",
@@ -220,9 +220,9 @@
       "ID": "OVERHEAT_WEAPON",
       "SetID": "1oh5c4a",
       "Name": "Release the pressure",
-      "Percentage": 100,
+      "Percentage": 200,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ULTIMATE_BRAINY",
@@ -332,9 +332,9 @@
       "ID": "WEAR_SKIN",
       "SetID": "1oh5c4a",
       "Name": "Vanities",
-      "Percentage": 100,
+      "Percentage": 200,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -347,8 +347,8 @@
   ],
   "FirstSeen": "2023-11-04T17:03:44.9852977+00:00",
   "FirstSeenAchievements": "2023-10-12T16:06:09.4130672+00:00",
-  "LastChanged_Achievements": "2023-12-18T13:15:29.3388364+00:00",
+  "LastChanged_Achievements": "2023-12-18T14:08:47.314701+00:00",
   "LastUpdate_AppInfo": "2023-12-14T08:57:08.5944413+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:06:20.2783763+00:00",
-  "LastUpdate_Achievements": "2023-12-18T13:15:29.3388542+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:59:07.4272179+00:00",
+  "LastUpdate_Achievements": "2023-12-18T14:08:47.314717+00:00"
 }

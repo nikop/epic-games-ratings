@@ -263,9 +263,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 10133,
+  "EOS_Progressed": 10153,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 2437,
+  "EOS_NewPlayers": 2455,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -6983,6 +6983,11 @@
       "Time": "2023-12-18T13:16:46.3233101+00:00",
       "NumProgressed": 10133,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-18T14:09:43.1077546+00:00",
+      "NumProgressed": 10153,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -7003,7 +7008,7 @@
       "Name": "Baby Steps",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 3141
+      "UsersEstimate": 3147
     },
     {
       "ID": "BeLikeWater",
@@ -7011,7 +7016,7 @@
       "Name": "Be Like Water",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "Bikemaggedon",
@@ -7019,7 +7024,7 @@
       "Name": "Bikemaggedon",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ChewingTheScenery",
@@ -7035,7 +7040,7 @@
       "Name": "Connection Lost",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1624
     },
     {
       "ID": "Eavesdropper",
@@ -7051,7 +7056,7 @@
       "Name": "Explosive Personality",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1320
     },
     {
       "ID": "FasterThanLight",
@@ -7067,7 +7072,7 @@
       "Name": "First Time?",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 4357
+      "UsersEstimate": 4366
     },
     {
       "ID": "FuneralForTheDeath",
@@ -7075,7 +7080,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 912
+      "UsersEstimate": 914
     },
     {
       "ID": "GarbageMan",
@@ -7099,7 +7104,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1421
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -7107,7 +7112,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "JackOfAllTrades",
@@ -7139,7 +7144,7 @@
       "Name": "Nasty!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2132
     },
     {
       "ID": "NoMoreTotems",
@@ -7147,7 +7152,7 @@
       "Name": "No More Totems",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "NotLikeTheOthers",
@@ -7171,7 +7176,7 @@
       "Name": "Scorch Squaaad!",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "TheFloorIsLava",
@@ -7179,7 +7184,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "TheOldSchoolWay",
@@ -7187,7 +7192,7 @@
       "Name": "The Old-School Way",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1929
     },
     {
       "ID": "TheQuarterback",
@@ -7195,7 +7200,7 @@
       "Name": "The Quarterback",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 3344
+      "UsersEstimate": 3350
     },
     {
       "ID": "ThisIsDharma",
@@ -7203,7 +7208,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1117
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -7211,7 +7216,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1523
     },
     {
       "ID": "UnResurrected",
@@ -7219,7 +7224,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -7227,7 +7232,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1421
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -7235,7 +7240,7 @@
       "Name": "Digestive Issues",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1015
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -7243,7 +7248,7 @@
       "Name": "You\u0027re Starting To Get It",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "YouveReachedTheRightNumber",
@@ -7251,7 +7256,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 709
+      "UsersEstimate": 711
     },
     {
       "ID": "k01101110",
@@ -7259,14 +7264,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 10133,
+      "Progressed": 10153,
       "Completed": 18
     }
   ],
@@ -7274,8 +7279,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-18T13:05:36.9627748+00:00",
-  "LastChanged_Achievements": "2023-12-18T13:16:46.3233096+00:00",
+  "LastChanged_Achievements": "2023-12-18T14:09:43.1077542+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:14.4379471+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:05:36.9627753+00:00",
-  "LastUpdate_Achievements": "2023-12-18T13:16:46.3233615+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:58:39.4687503+00:00",
+  "LastUpdate_Achievements": "2023-12-18T14:09:43.1077968+00:00"
 }

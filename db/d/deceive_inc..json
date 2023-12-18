@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19093,
+  "EOS_Progressed": 19095,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13829,6 +13829,11 @@
       "Time": "2023-12-18T13:12:01.0086658+00:00",
       "NumProgressed": 19093,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-18T14:04:48.1747977+00:00",
+      "NumProgressed": 19095,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13904,7 +13909,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "0010",
@@ -13936,7 +13941,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "0014",
@@ -13976,7 +13981,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     },
     {
       "ID": "0019",
@@ -13992,7 +13997,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "0021",
@@ -14024,7 +14029,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4200
+      "UsersEstimate": 4201
     },
     {
       "ID": "0025",
@@ -14056,7 +14061,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "0029",
@@ -14127,7 +14132,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19093,
+      "Progressed": 19095,
       "Completed": 4
     }
   ],
@@ -14135,8 +14140,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-18T13:12:01.0086641+00:00",
+  "LastChanged_Achievements": "2023-12-18T14:04:48.1747973+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:23.0079073+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:09:01.8778372+00:00",
-  "LastUpdate_Achievements": "2023-12-18T13:12:01.0087563+00:00"
+  "LastUpdate_Ratings": "2023-12-18T14:02:40.6970352+00:00",
+  "LastUpdate_Achievements": "2023-12-18T14:04:48.1748696+00:00"
 }

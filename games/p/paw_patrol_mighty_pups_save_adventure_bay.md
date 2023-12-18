@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Mighty Powers | 81.00% | ~38 |
 | Grand Re-Opening | 68.00% | ~32 |
-| Pup Pup Boogie | 66.00% | ~31 |
+| Pup Pup Boogie | 68.00% | ~32 |
 | Summer Day | 62.00% | ~29 |
 | Mr. Porter | 53.00% | ~25 |
 | Risky Rescue | 51.00% | ~24 |

@@ -44,7 +44,7 @@ Number of Ratings: 371  (23.09.2022)
 | Engine Kill | 0.80% | ~28 |
 | Harvest No More | 0.80% | ~28 |
 | Hands-On Research | 0.70% | ~24 |
-| Strike Force | 0.50% | ~17 |
+| Strike Force | 0.60% | ~21 |
 | True Mastery | 0.50% | ~17 |
 | Suffer Not the Mutant | 0.50% | ~17 |
 | Exercise in Restraint | 0.40% | ~14 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,455 (Ranked 214)  
+Progressed: 3,456 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-15 | 3,402 | 0 |
 | 2023-12-16 | 3,433 | 0 |
 | 2023-12-17 | 3,449 | 0 |
-| 2023-12-18 | 3,455 | 0 |
+| 2023-12-18 | 3,456 | 0 |
 ## Awards
 Max (Character Customization): 229  (Ranked 278)  
 Sum: 490 (Ranked 332)  

@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewPlayers": 469,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -323,9 +323,9 @@
       "ID": "14",
       "SetID": "38ide56",
       "Name": "Pup Pup Boogie",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "15",
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-12-18T13:11:17.4236097+00:00",
+  "LastChanged_Achievements": "2023-12-18T14:04:16.4663521+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:49.2024353+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:06:48.2058688+00:00",
-  "LastUpdate_Achievements": "2023-12-18T13:11:17.4236263+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:59:27.1629471+00:00",
+  "LastUpdate_Achievements": "2023-12-18T14:04:16.4663758+00:00"
 }

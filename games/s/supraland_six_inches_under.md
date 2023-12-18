@@ -19,8 +19,8 @@ Number of Ratings: 209  (23.09.2022)
 | Cage Town | 93.00% | ~2,207 |
 | Surprise | 93.00% | ~2,207 |
 | Force Beam | 92.00% | ~2,183 |
+| Industrial Area | 90.00% | ~2,136 |
 | Magnet | 90.00% | ~2,136 |
-| Industrial Area | 89.00% | ~2,112 |
 | Magnet Repel | 88.00% | ~2,088 |
 | You feel middle classy | 87.00% | ~2,065 |
 | Boomeraxe | 87.00% | ~2,065 |
