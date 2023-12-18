@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 649,
+  "EOS_Progressed": 650,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.54,
   "EosHistory": [
@@ -2325,6 +2325,11 @@
       "Time": "2023-12-18T01:58:00.76239+00:00",
       "NumProgressed": 649,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-18T05:09:37.0985589+00:00",
+      "NumProgressed": 650,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2337,7 +2342,7 @@
       "Name": "The Ultimate Prize",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "achievement_10",
@@ -2345,7 +2350,7 @@
       "Name": "Holey Moley",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "achievement_11",
@@ -2353,7 +2358,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "achievement_12",
@@ -2401,15 +2406,15 @@
       "Name": "Clean Sheet",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "achievement_18",
       "SetID": "7ldgi7j",
       "Name": "Perfect Round",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 279
+      "UsersEstimate": 273
     },
     {
       "ID": "achievement_2",
@@ -2417,7 +2422,7 @@
       "Name": "A Tradition Unlike Any Other",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_3",
@@ -2441,7 +2446,7 @@
       "Name": "Golf\u0027s Original Championship",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_6",
@@ -2455,9 +2460,9 @@
       "ID": "achievement_7",
       "SetID": "7ldgi7j",
       "Name": "Makin\u0027 the Cut",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 403
     },
     {
       "ID": "achievement_8",
@@ -2480,13 +2485,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 649,
+      "Progressed": 650,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-18T04:09:48.6763917+00:00",
+  "LastChanged_Achievements": "2023-12-18T05:09:37.0985584+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:04.0623721+00:00",
-  "LastUpdate_Ratings": "2023-12-18T03:57:59.5837354+00:00",
-  "LastUpdate_Achievements": "2023-12-18T04:09:48.6764338+00:00"
+  "LastUpdate_Ratings": "2023-12-18T04:57:45.7670735+00:00",
+  "LastUpdate_Achievements": "2023-12-18T05:09:37.0985804+00:00"
 }

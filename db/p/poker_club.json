@@ -4,11 +4,11 @@
   "ProductSlug": "poker-club-6e18ee",
   "Ranking_Rating": 1045,
   "Ranking_Popularity": 417,
-  "Ranking_PopularitySum": 414,
+  "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -1033,9 +1033,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 543976,
+  "EOS_Progressed": 543977,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1392,
+  "EOS_NewPlayers": 1388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28523,6 +28523,11 @@
       "Time": "2023-12-18T04:09:01.4618397+00:00",
       "NumProgressed": 543976,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-18T05:09:02.7371939+00:00",
+      "NumProgressed": 543977,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -28630,7 +28635,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 217590
+      "UsersEstimate": 217591
     },
     {
       "ID": "DeadlyAssassin",
@@ -28782,7 +28787,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 413422
+      "UsersEstimate": 413423
     },
     {
       "ID": "ProPlayer",
@@ -28862,7 +28867,7 @@
       "Name": "Three Way",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 103355
+      "UsersEstimate": 103356
     },
     {
       "ID": "TopDog",
@@ -28893,7 +28898,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 543976,
+      "Progressed": 543977,
       "Completed": 2
     }
   ],
@@ -28901,8 +28906,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-12-16T21:58:35.1980129+00:00",
-  "LastChanged_Achievements": "2023-12-18T04:09:01.4618395+00:00",
+  "LastChanged_Achievements": "2023-12-18T05:09:02.7371935+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:44.9850602+00:00",
-  "LastUpdate_Ratings": "2023-12-18T04:00:01.3805485+00:00",
-  "LastUpdate_Achievements": "2023-12-18T04:09:01.4619571+00:00"
+  "LastUpdate_Ratings": "2023-12-18T04:59:07.016776+00:00",
+  "LastUpdate_Achievements": "2023-12-18T05:09:02.7373533+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -244,9 +244,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 42241,
+  "EOS_Progressed": 42243,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -26469,6 +26469,11 @@
       "Time": "2023-12-18T03:07:12.8753151+00:00",
       "NumProgressed": 42241,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-12-18T05:05:48.4356162+00:00",
+      "NumProgressed": 42243,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 29,
@@ -26632,7 +26637,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2534
+      "UsersEstimate": 2535
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -26640,7 +26645,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2534
+      "UsersEstimate": 2535
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -26711,7 +26716,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 42241,
+      "Progressed": 42243,
       "Completed": 29
     }
   ],
@@ -26719,8 +26724,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-02T18:57:45.107059+00:00",
-  "LastChanged_Achievements": "2023-12-18T04:07:02.9969251+00:00",
+  "LastChanged_Achievements": "2023-12-18T05:05:48.4356157+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:31.5071316+00:00",
-  "LastUpdate_Ratings": "2023-12-18T03:59:07.625003+00:00",
-  "LastUpdate_Achievements": "2023-12-18T04:07:02.9970652+00:00"
+  "LastUpdate_Ratings": "2023-12-18T04:58:32.1220493+00:00",
+  "LastUpdate_Achievements": "2023-12-18T05:05:48.4357665+00:00"
 }

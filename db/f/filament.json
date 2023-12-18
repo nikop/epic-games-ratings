@@ -6,7 +6,7 @@
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 74,
-  "Ranking_EOS_Completed": 254,
+  "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
@@ -372,9 +372,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 207264,
+  "EOS_Progressed": 207267,
   "EOS_Completed": 543,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -26187,6 +26187,11 @@
       "Time": "2023-12-18T02:28:04.6720211+00:00",
       "NumProgressed": 207264,
       "NumCompleted": 543
+    },
+    {
+      "Time": "2023-12-18T05:04:20.7213992+00:00",
+      "NumProgressed": 207267,
+      "NumCompleted": 543
     }
   ],
   "TotalAchievements": 29,
@@ -26222,7 +26227,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 194828
+      "UsersEstimate": 194831
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -26382,7 +26387,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20726
+      "UsersEstimate": 20727
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -26429,7 +26434,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 207264,
+      "Progressed": 207267,
       "Completed": 543
     }
   ],
@@ -26437,8 +26442,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-12-14T16:59:49.3073331+00:00",
-  "LastChanged_Achievements": "2023-12-18T04:05:00.876601+00:00",
+  "LastChanged_Achievements": "2023-12-18T05:04:20.7213986+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:10.7680666+00:00",
-  "LastUpdate_Ratings": "2023-12-18T03:57:48.8703582+00:00",
-  "LastUpdate_Achievements": "2023-12-18T04:05:00.8767361+00:00"
+  "LastUpdate_Ratings": "2023-12-18T04:57:38.3342091+00:00",
+  "LastUpdate_Achievements": "2023-12-18T05:04:20.7215319+00:00"
 }

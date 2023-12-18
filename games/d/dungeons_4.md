@@ -11,8 +11,8 @@
 | The Hellwoods | 77.00% | ~451 |
 | The Plains of Strothalm | 71.00% | ~416 |
 | Experienced Thalya | 71.00% | ~416 |
+| Bad Elves Go Everywhere | 69.00% | ~404 |
 | Thalya's Concentrated Fury | 68.00% | ~398 |
-| Bad Elves Go Everywhere | 68.00% | ~398 |
 | Heroes’ Gorge | 64.00% | ~375 |
 | Master of Magic | 63.00% | ~369 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~363 |
@@ -49,8 +49,8 @@
 | The Rune Sockets of Finitude (Part 1) | 23.00% | ~135 |
 | Bonus Evilness | 22.00% | ~129 |
 | The Rune Sockets of Finitude (Part 2) | 21.00% | ~123 |
+| The Last Stand - This Time For Real! | 20.00% | ~117 |
 | Rubble and Ashes | 19.00% | ~111 |
-| The Last Stand - This Time For Real! | 19.00% | ~111 |
 | My Little Torture Chamber | 18.00% | ~105 |
 | To Infinity And Beyond! | 18.00% | ~105 |
 | Lavalumps on Ice! | 17.00% | ~100 |

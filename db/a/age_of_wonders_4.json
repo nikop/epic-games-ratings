@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 370,
+  "Ranking_Rating": 371,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5808,
+  "EOS_Progressed": 5810,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8345,6 +8345,11 @@
       "Time": "2023-12-18T03:04:45.1665267+00:00",
       "NumProgressed": 5808,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-18T05:04:04.0680997+00:00",
+      "NumProgressed": 5810,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8484,7 +8489,7 @@
       "Name": "Secret Technique",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "25",
@@ -8835,13 +8840,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5808,
+      "Progressed": 5810,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5808,
+      "Progressed": 5810,
       "Completed": 7
     }
   ],
@@ -8849,8 +8854,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-18T04:04:37.237298+00:00",
+  "LastChanged_Achievements": "2023-12-18T05:04:04.0680992+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-18T03:59:23.0010136+00:00",
-  "LastUpdate_Achievements": "2023-12-18T04:04:37.2373964+00:00"
+  "LastUpdate_Ratings": "2023-12-18T04:58:41.9790699+00:00",
+  "LastUpdate_Achievements": "2023-12-18T05:04:04.0681914+00:00"
 }

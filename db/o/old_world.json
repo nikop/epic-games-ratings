@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2160,9 +2160,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15808,
+  "EOS_Progressed": 15810,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17850,6 +17850,11 @@
       "Time": "2023-12-18T04:09:38.0730735+00:00",
       "NumProgressed": 15808,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-18T05:09:29.477965+00:00",
+      "NumProgressed": 15810,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -18349,7 +18354,7 @@
       "Name": "Intrepid",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -18627,9 +18632,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
       "SetID": "7l38kb8",
       "Name": "Just Difficulty",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 474
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
@@ -18773,7 +18778,7 @@
       "Name": "Friendly Family",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -20596,21 +20601,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15808,
+      "Progressed": 15810,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15808,
+      "Progressed": 15810,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-18T02:26:39.2860853+00:00",
-  "LastChanged_Achievements": "2023-12-18T04:09:38.0730732+00:00",
+  "LastChanged_Achievements": "2023-12-18T05:09:29.4779644+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-18T04:02:57.0116662+00:00",
-  "LastUpdate_Achievements": "2023-12-18T04:09:38.0740566+00:00"
+  "LastUpdate_Ratings": "2023-12-18T05:02:53.2828855+00:00",
+  "LastUpdate_Achievements": "2023-12-18T05:09:29.4789287+00:00"
 }

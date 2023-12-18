@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -584,9 +584,9 @@
       "ID": "InterstellarPerformance",
       "SetID": "4bd750m",
       "Name": "Interstellar Performance",
-      "Percentage": 0.8,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ItsYoursMyFriend",
@@ -735,8 +735,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-18T04:07:40.8546547+00:00",
+  "LastChanged_Achievements": "2023-12-18T05:06:15.6993035+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.7183942+00:00",
-  "LastUpdate_Ratings": "2023-12-18T04:03:18.1164736+00:00",
-  "LastUpdate_Achievements": "2023-12-18T04:07:40.8546703+00:00"
+  "LastUpdate_Ratings": "2023-12-18T05:03:08.2684409+00:00",
+  "LastUpdate_Achievements": "2023-12-18T05:06:15.6993179+00:00"
 }

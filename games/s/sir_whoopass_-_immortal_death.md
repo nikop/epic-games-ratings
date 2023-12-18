@@ -40,16 +40,16 @@
 | Karaoke king | 32.00% | ~43 |
 | Another one bites the iron | 29.00% | ~39 |
 | A Megapint...? | 26.00% | ~35 |
+| Your daily dose of Vitamin C. | 26.00% | ~35 |
 | Ripe Meat Off The Bone! | 26.00% | ~35 |
 | Kleptomaniac | 26.00% | ~35 |
 | You're not so Big anymore, Boi! | 25.00% | ~33 |
-| Your daily dose of Vitamin C. | 25.00% | ~33 |
 | Hovering around | 25.00% | ~33 |
-| I cant stand still! | 22.00% | ~29 |
+| I cant stand still! | 23.00% | ~31 |
 | Slimy... yet satisfying | 20.00% | ~27 |
 | Master Butcher | 18.00% | ~24 |
 | Just wing it! | 18.00% | ~24 |
-| Deal with it | 17.00% | ~23 |
+| Deal with it | 18.00% | ~24 |
 | Yeehaw!!! | 15.00% | ~20 |
 | You're looking mozzare-hella good! | 14.00% | ~19 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~19 |

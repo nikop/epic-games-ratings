@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Mega City | 22.00% | ~8 |
-| Licence To Kill | 14.00% | ~5 |
+| Welcome to Mega City | 24.00% | ~9 |
+| Licence To Kill | 16.00% | ~6 |
 | Vintage Collector | 11.00% | ~4 |
 | Overkill | 8.00% | ~3 |
 | The Hunt | 8.00% | ~3 |
 | Law and Order | 8.00% | ~3 |
 | Hammer Time | 8.00% | ~3 |
-| Gibbing Love | 6.00% | ~2 |
-| Feel the Spark | 6.00% | ~2 |
-| Escape From M.C. | 6.00% | ~2 |
+| Gibbing Love | 5.00% | ~2 |
+| Feel the Spark | 5.00% | ~2 |
+| Escape From M.C. | 5.00% | ~2 |
 | Head of the Snake | 3.00% | ~1 |
 | Barbecue Time | 3.00% | ~1 |
 | Vehicular Mayhem | 3.00% | ~1 |
@@ -32,8 +32,8 @@
 | Lieutenant | 0.00% | ~0 |
 | Knife Juggler | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 548)  
-Completed: 1 (2.78%) (Ranked 115)  
+Progressed: 37 (Ranked 546)  
+Completed: 1 (2.70%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -54,3 +54,4 @@ Completed: 1 (2.78%) (Ranked 115)
 | 2023-09-24 | 34 | 1 |
 | 2023-10-01 | 35 | 1 |
 | 2023-11-25 | 36 | 1 |
+| 2023-12-18 | 37 | 1 |

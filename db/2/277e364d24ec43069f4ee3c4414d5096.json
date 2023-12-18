@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117034,
+  "EOS_Progressed": 117035,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21664,6 +21664,11 @@
       "Time": "2023-12-18T04:10:09.417729+00:00",
       "NumProgressed": 117034,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-18T05:09:52.0552411+00:00",
+      "NumProgressed": 117035,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 49,
@@ -21683,7 +21688,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 90116
+      "UsersEstimate": 90117
     },
     {
       "ID": "EAwards_10",
@@ -21731,7 +21736,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11703
+      "UsersEstimate": 11704
     },
     {
       "ID": "EAwards_16",
@@ -21819,7 +21824,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22236
+      "UsersEstimate": 22237
     },
     {
       "ID": "EAwards_26",
@@ -21835,7 +21840,7 @@
       "Name": "One down...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11703
+      "UsersEstimate": 11704
     },
     {
       "ID": "EAwards_28",
@@ -21947,7 +21952,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15214
+      "UsersEstimate": 15215
     },
     {
       "ID": "EAwards_40",
@@ -22027,7 +22032,7 @@
       "Name": "Prickly Pair",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11703
+      "UsersEstimate": 11704
     },
     {
       "ID": "EAwards_6",
@@ -22066,7 +22071,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 117034,
+      "Progressed": 117035,
       "Completed": 53
     }
   ],
@@ -22074,8 +22079,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-18T04:10:09.4177288+00:00",
+  "LastChanged_Achievements": "2023-12-18T05:09:52.0552407+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:07.3909986+00:00",
-  "LastUpdate_Ratings": "2023-12-18T03:58:14.5967809+00:00",
-  "LastUpdate_Achievements": "2023-12-18T04:10:09.4178665+00:00"
+  "LastUpdate_Ratings": "2023-12-18T04:57:56.034323+00:00",
+  "LastUpdate_Achievements": "2023-12-18T05:09:52.0553657+00:00"
 }

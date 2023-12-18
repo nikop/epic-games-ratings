@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 8.00% | ~245 |
+| Malpractice Assurance | 8.00% | ~246 |
 | Lost and Found | 5.00% | ~153 |
-| This guy... again? | 4.00% | ~122 |
+| This guy... again? | 4.00% | ~123 |
 | This Belongs in a Museum | 3.00% | ~3,846 |
 | Creep and Sleep | 3.00% | ~3,846 |
 | Catch and Decease | 3.00% | ~3,846 |
@@ -64,8 +64,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Handled | 0.50% | ~641 |
 | Body of Work | 0.50% | ~641 |
 | Et Tu, Riposte? | 0.50% | ~15 |
+| Clearing the Ledger | 0.40% | ~513 |
 | Shrine of Reflection | 0.40% | ~513 |
-| Clearing the Ledger | 0.30% | ~385 |
 | Bacon Bits | 0.30% | ~385 |
 | Hat Trick | 0.30% | ~385 |
 | Triage | 0.30% | ~385 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,190 (Ranked 85)  
+Progressed: 128,200 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 3 (0.00%) (Ranked 380)
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
-| 2023-12-18 | 128,190 | 3 |
+| 2023-12-18 | 128,200 | 3 |
 ## Awards
 Max (Character Customization): 7,763  (Ranked 50)  
 Sum: 20,695 (Ranked 58)  

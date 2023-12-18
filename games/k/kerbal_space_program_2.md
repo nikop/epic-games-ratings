@@ -4,8 +4,8 @@
 Rating: 4.14 (Ranked 972)  
 ## Awards
 Max (Diverse Characters): 30  (Ranked 505)  
-Sum: 199 (Ranked 408)  
-Diff (max vs sum): 97  
+Sum: 199 (Ranked 410)  
+Diff (max vs sum): 95  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 30 |

@@ -6,12 +6,12 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,946 |
-| keep it tidy | 78.00% | ~8,081 |
-| podium | 72.00% | ~7,459 |
-| medium attack | 60.00% | ~6,216 |
-| brail | 57.00% | ~5,905 |
-| good drivers have dead flies on the side windows | 44.00% | ~4,558 |
+| light attack | 96.00% | ~9,947 |
+| keep it tidy | 78.00% | ~8,082 |
+| podium | 72.00% | ~7,460 |
+| medium attack | 60.00% | ~6,217 |
+| brail | 57.00% | ~5,906 |
+| good drivers have dead flies on the side windows | 44.00% | ~4,559 |
 | grocery-getter | 40.00% | ~4,144 |
 | rwd only | 27.00% | ~2,797 |
 | food tour: pasta | 27.00% | ~2,797 |
@@ -23,10 +23,10 @@ Number of Ratings: 56  (23.09.2022)
 | car wash | 16.00% | ~1,658 |
 | bicycle race | 15.00% | ~1,554 |
 | the artist | 15.00% | ~1,554 |
-| perkele | 14.00% | ~1,450 |
-| monster | 14.00% | ~1,450 |
-| night ride | 14.00% | ~1,450 |
-| snorkel | 14.00% | ~1,450 |
+| perkele | 14.00% | ~1,451 |
+| monster | 14.00% | ~1,451 |
+| night ride | 14.00% | ~1,451 |
+| snorkel | 14.00% | ~1,451 |
 | where is the stage? | 13.00% | ~1,347 |
 | maximum attack | 11.00% | ~1,140 |
 | espresso | 10.00% | ~1,036 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.40% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,360 (Ranked 169)  
+Progressed: 10,361 (Ranked 169)  
 Completed: 10 (0.10%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 10 (0.10%) (Ranked 298)
 | 2023-12-15 | 10,352 | 10 |
 | 2023-12-16 | 10,355 | 10 |
 | 2023-12-17 | 10,359 | 10 |
-| 2023-12-18 | 10,360 | 10 |
+| 2023-12-18 | 10,361 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

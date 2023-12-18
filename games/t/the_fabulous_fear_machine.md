@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Master trainee | 41.00% | ~25 |
 | You have three wishes left | 36.00% | ~22 |
+| Jung's dream | 28.00% | ~17 |
 | The battle of Great Britain | 28.00% | ~17 |
-| Jung's dream | 26.00% | ~16 |
-| Pulp! Where Monsters Dwell | 23.00% | ~14 |
+| Pulp! Where Monsters Dwell | 25.00% | ~15 |
 | A continent with chemistry | 20.00% | ~12 |
 | Giant | 18.00% | ~11 |
 | The happy farmer girl | 18.00% | ~11 |

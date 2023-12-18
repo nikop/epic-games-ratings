@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 233732,
+  "EOS_Progressed": 233734,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24810,6 +24810,11 @@
       "Time": "2023-12-18T04:09:15.9939917+00:00",
       "NumProgressed": 233732,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-18T05:09:13.3213698+00:00",
+      "NumProgressed": 233734,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -24965,7 +24970,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79469
+      "UsersEstimate": 79470
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -25029,7 +25034,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39734
+      "UsersEstimate": 39735
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -25044,7 +25049,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 233732,
+      "Progressed": 233734,
       "Completed": 5
     }
   ],
@@ -25052,8 +25057,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-17T08:58:28.3947518+00:00",
-  "LastChanged_Achievements": "2023-12-18T04:09:15.9939914+00:00",
+  "LastChanged_Achievements": "2023-12-18T05:09:13.3213695+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:20.0893293+00:00",
-  "LastUpdate_Ratings": "2023-12-18T03:58:43.303776+00:00",
-  "LastUpdate_Achievements": "2023-12-18T04:09:15.9941214+00:00"
+  "LastUpdate_Ratings": "2023-12-18T04:58:15.2245465+00:00",
+  "LastUpdate_Achievements": "2023-12-18T05:09:13.3215152+00:00"
 }

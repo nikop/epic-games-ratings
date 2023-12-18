@@ -1,18 +1,18 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.62 (Ranked 370)  
+Rating: 4.62 (Ranked 371)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 37.00% | ~379 |
-| The Mysterious Stranger | 28.00% | ~286 |
-| Rail Rat | 28.00% | ~286 |
+| The Mysterious Stranger | 28.00% | ~287 |
+| Rail Rat | 28.00% | ~287 |
 | Immaculate Aim | 24.00% | ~246 |
-| Make Up For Lost Time | 23.00% | ~235 |
-| Time Flies | 23.00% | ~235 |
-| The Prince in Heels | 23.00% | ~235 |
-| The Brass Boss | 23.00% | ~235 |
+| Make Up For Lost Time | 23.00% | ~236 |
+| Time Flies | 23.00% | ~236 |
+| The Prince in Heels | 23.00% | ~236 |
+| The Brass Boss | 23.00% | ~236 |
 | The Steel Shadow | 22.00% | ~225 |
 | The Harder They Fall | 22.00% | ~225 |
 | No, Thanks! | 22.00% | ~225 |
@@ -25,7 +25,7 @@ Rating: 4.62 (Ranked 370)
 | Like Clockwork | 20.00% | ~205 |
 | The Betrayer | 20.00% | ~205 |
 | Golem Chaser | 20.00% | ~205 |
-| Check Your Pulse | 19.00% | ~194 |
+| Check Your Pulse | 19.00% | ~195 |
 | The Loose Cannon | 18.00% | ~184 |
 | The Family Fortune | 18.00% | ~184 |
 | Street Style | 17.00% | ~174 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 370)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,023 (Ranked 275)  
+Progressed: 1,024 (Ranked 275)  
 Completed: 6 (0.59%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 6 (0.59%) (Ranked 197)
 | 2023-12-15 | 978 | 6 |
 | 2023-12-16 | 1,000 | 6 |
 | 2023-12-17 | 1,021 | 6 |
-| 2023-12-18 | 1,023 | 6 |
+| 2023-12-18 | 1,024 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

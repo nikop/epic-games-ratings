@@ -5,34 +5,34 @@ Rating: 4.76 (Ranked 130)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 69.00% | ~252,401 |
-| The Player Whisperer | 68.00% | ~248,743 |
-| One of Us, One of Us! | 62.00% | ~226,795 |
-| First Victory | 55.00% | ~201,189 |
-| Clean Sheet | 54.00% | ~197,531 |
-| #DoneDeal | 54.00% | ~197,531 |
-| Off the Books | 52.00% | ~190,215 |
-| Super-Sub | 52.00% | ~190,215 |
-| Hat-trick | 46.00% | ~168,268 |
-| Planned Signing | 44.00% | ~160,952 |
-| "I Would Love It If We Beat Them" | 43.00% | ~157,294 |
-| Scoring Streak | 40.00% | ~146,320 |
-| Wheeler Dealer | 40.00% | ~146,320 |
-| Thumping | 39.00% | ~142,662 |
-| People Pleaser | 39.00% | ~142,662 |
-| Unbeatable! | 38.00% | ~139,004 |
-| One Of Our Own | 36.00% | ~131,688 |
-| Record Signing | 32.00% | ~117,056 |
-| They're a Natural | 31.00% | ~113,398 |
-| Team Performance | 30.00% | ~109,740 |
-| Star Player | 29.00% | ~106,082 |
-| The Only Stat That Matters | 29.00% | ~106,082 |
-| Parked The Bus | 27.00% | ~98,766 |
-| Full Faith | 27.00% | ~98,766 |
-| Goal Rush | 27.00% | ~98,766 |
-| Squad Goals | 27.00% | ~98,766 |
-| The People's Champion | 27.00% | ~98,766 |
-| Beating Expectations | 26.00% | ~95,108 |
+| Motivational Speaker | 69.00% | ~252,403 |
+| The Player Whisperer | 68.00% | ~248,745 |
+| One of Us, One of Us! | 62.00% | ~226,797 |
+| First Victory | 55.00% | ~201,191 |
+| Clean Sheet | 54.00% | ~197,533 |
+| #DoneDeal | 54.00% | ~197,533 |
+| Off the Books | 52.00% | ~190,217 |
+| Super-Sub | 52.00% | ~190,217 |
+| Hat-trick | 46.00% | ~168,269 |
+| Planned Signing | 44.00% | ~160,953 |
+| "I Would Love It If We Beat Them" | 43.00% | ~157,295 |
+| Scoring Streak | 40.00% | ~146,321 |
+| Wheeler Dealer | 40.00% | ~146,321 |
+| Thumping | 39.00% | ~142,663 |
+| People Pleaser | 39.00% | ~142,663 |
+| Unbeatable! | 38.00% | ~139,005 |
+| One Of Our Own | 36.00% | ~131,689 |
+| Record Signing | 32.00% | ~117,057 |
+| They're a Natural | 31.00% | ~113,399 |
+| Team Performance | 30.00% | ~109,741 |
+| Star Player | 29.00% | ~106,083 |
+| The Only Stat That Matters | 29.00% | ~106,083 |
+| Parked The Bus | 27.00% | ~98,767 |
+| Full Faith | 27.00% | ~98,767 |
+| Goal Rush | 27.00% | ~98,767 |
+| Squad Goals | 27.00% | ~98,767 |
+| The People's Champion | 27.00% | ~98,767 |
+| Beating Expectations | 26.00% | ~95,109 |
 | You're on Fire | 25.00% | ~91,450 |
 | Tremendous Trio | 25.00% | ~91,450 |
 | Unstoppable Force | 25.00% | ~91,450 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 130)
 | 200 Club | 0.10% | ~366 |
 | Draft Value | 0.10% | ~366 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 365,799 (Ranked 48)  
+Progressed: 365,802 (Ranked 48)  
 Completed: 28 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 28 (0.01%) (Ranked 356)
 | 2023-12-15 | 365,219 | 28 |
 | 2023-12-16 | 365,516 | 28 |
 | 2023-12-17 | 365,779 | 28 |
-| 2023-12-18 | 365,799 | 28 |
+| 2023-12-18 | 365,802 | 28 |
 ## Awards
 Max (Diverse Characters): 1,284  (Ranked 139)  
 Sum: 8,872 (Ranked 98)  

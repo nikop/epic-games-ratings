@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -9357,9 +9357,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 813101,
+  "EOS_Progressed": 813102,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 1079,
+  "EOS_NewPlayers": 1077,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -36622,6 +36622,11 @@
       "Time": "2023-12-18T04:09:56.9373654+00:00",
       "NumProgressed": 813101,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-18T05:09:43.0363659+00:00",
+      "NumProgressed": 813102,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -36713,7 +36718,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 260192
+      "UsersEstimate": 260193
     },
     {
       "ID": "Bookworm",
@@ -36745,7 +36750,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 203275
+      "UsersEstimate": 203276
     },
     {
       "ID": "Chivalrous",
@@ -37288,15 +37293,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 813101,
+      "Progressed": 813102,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-12-18T01:46:33.2067519+00:00",
-  "LastChanged_Achievements": "2023-12-18T04:09:56.9373651+00:00",
+  "LastChanged_Achievements": "2023-12-18T05:09:43.0363651+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.6961501+00:00",
-  "LastUpdate_Ratings": "2023-12-18T03:58:26.4518573+00:00",
-  "LastUpdate_Achievements": "2023-12-18T04:09:56.9375815+00:00"
+  "LastUpdate_Ratings": "2023-12-18T04:58:03.8798536+00:00",
+  "LastUpdate_Achievements": "2023-12-18T05:09:43.0365493+00:00"
 }

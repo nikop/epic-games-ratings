@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1813,10 +1813,10 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 15235,
+  "EOS_Progressed": 15237,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 1303,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 1302,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
     {
@@ -16528,6 +16528,11 @@
       "Time": "2023-12-18T04:10:01.6292921+00:00",
       "NumProgressed": 15235,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-12-18T05:09:46.5128988+00:00",
+      "NumProgressed": 15237,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 35,
@@ -16539,7 +16544,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 12340
+      "UsersEstimate": 12342
     },
     {
       "ID": "ACH02",
@@ -16547,7 +16552,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "ACH03",
@@ -16635,7 +16640,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "ACH14",
@@ -16707,7 +16712,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2285
+      "UsersEstimate": 2286
     },
     {
       "ID": "ACH23",
@@ -16763,7 +16768,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2285
+      "UsersEstimate": 2286
     },
     {
       "ID": "ACH30",
@@ -16818,7 +16823,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 15235,
+      "Progressed": 15237,
       "Completed": 59
     }
   ],
@@ -16826,8 +16831,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-17T20:00:43.0101303+00:00",
-  "LastChanged_Achievements": "2023-12-18T04:10:01.6292919+00:00",
+  "LastChanged_Achievements": "2023-12-18T05:09:46.5128983+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.5920887+00:00",
-  "LastUpdate_Ratings": "2023-12-18T04:02:27.5316915+00:00",
-  "LastUpdate_Achievements": "2023-12-18T04:10:01.6293894+00:00"
+  "LastUpdate_Ratings": "2023-12-18T05:00:23.6108838+00:00",
+  "LastUpdate_Achievements": "2023-12-18T05:09:46.5130074+00:00"
 }

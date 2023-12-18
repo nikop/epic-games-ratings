@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3777,9 +3777,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32393,
+  "EOS_Progressed": 32396,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -22677,6 +22677,11 @@
       "Time": "2023-12-18T04:04:55.3078235+00:00",
       "NumProgressed": 32393,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-18T05:04:16.8673054+00:00",
+      "NumProgressed": 32396,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -22800,7 +22805,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2591
+      "UsersEstimate": 2592
     },
     {
       "ID": "Escape_Artist",
@@ -22992,7 +22997,7 @@
       "Name": "Stylish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3239
+      "UsersEstimate": 3240
     },
     {
       "ID": "Summoner",
@@ -23095,7 +23100,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32393,
+      "Progressed": 32396,
       "Completed": 69
     }
   ],
@@ -23103,8 +23108,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-18T01:46:28.5402152+00:00",
-  "LastChanged_Achievements": "2023-12-18T04:04:55.3078232+00:00",
+  "LastChanged_Achievements": "2023-12-18T05:04:16.8673048+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.1146147+00:00",
-  "LastUpdate_Ratings": "2023-12-18T03:58:21.8642164+00:00",
-  "LastUpdate_Achievements": "2023-12-18T04:04:55.3079536+00:00"
+  "LastUpdate_Ratings": "2023-12-18T04:58:00.8052662+00:00",
+  "LastUpdate_Achievements": "2023-12-18T05:04:16.8674121+00:00"
 }

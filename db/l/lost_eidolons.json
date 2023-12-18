@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 440,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1144,
+  "EOS_Progressed": 1143,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1746,6 +1746,11 @@
       "Time": "2023-12-18T04:07:13.2269369+00:00",
       "NumProgressed": 1144,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T05:05:55.8714405+00:00",
+      "NumProgressed": 1143,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -1789,7 +1794,7 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 778
+      "UsersEstimate": 777
     },
     {
       "ID": "06",
@@ -1797,7 +1802,7 @@
       "Name": "First Blood",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 744
+      "UsersEstimate": 743
     },
     {
       "ID": "07",
@@ -1813,7 +1818,7 @@
       "Name": "Monster Slayer",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 331
     },
     {
       "ID": "09",
@@ -1829,7 +1834,7 @@
       "Name": "Huntmaster",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 251
     },
     {
       "ID": "11",
@@ -1925,7 +1930,7 @@
       "Name": "House Vulisica\u0027s Heirloom",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 171
     },
     {
       "ID": "23",
@@ -1940,7 +1945,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1144,
+      "Progressed": 1143,
       "Completed": 1
     }
   ],
@@ -1948,8 +1953,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2023-12-18T04:07:13.2269366+00:00",
+  "LastChanged_Achievements": "2023-12-18T05:05:55.8714403+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:06.8516374+00:00",
-  "LastUpdate_Ratings": "2023-12-18T03:59:03.0856497+00:00",
-  "LastUpdate_Achievements": "2023-12-18T04:07:13.2269568+00:00"
+  "LastUpdate_Ratings": "2023-12-18T04:58:28.8077891+00:00",
+  "LastUpdate_Achievements": "2023-12-18T05:05:55.8714571+00:00"
 }

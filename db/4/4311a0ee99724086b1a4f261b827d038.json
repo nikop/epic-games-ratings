@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -749,9 +749,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 238233,
+  "EOS_Progressed": 238235,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1153,
+  "EOS_NewPlayers": 1149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17834,6 +17834,11 @@
       "Time": "2023-12-18T04:10:16.5917946+00:00",
       "NumProgressed": 238233,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T05:09:57.6155257+00:00",
+      "NumProgressed": 238235,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -18102,7 +18107,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59558
+      "UsersEstimate": 59559
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -18117,7 +18122,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 238233,
+      "Progressed": 238235,
       "Completed": 0
     }
   ],
@@ -18125,8 +18130,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-17T22:57:40.9765895+00:00",
-  "LastChanged_Achievements": "2023-12-18T04:10:16.5917939+00:00",
+  "LastChanged_Achievements": "2023-12-18T05:09:57.6155249+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:59.9211133+00:00",
-  "LastUpdate_Ratings": "2023-12-18T03:57:40.3767371+00:00",
-  "LastUpdate_Achievements": "2023-12-18T04:10:16.5918693+00:00"
+  "LastUpdate_Ratings": "2023-12-18T04:57:32.5819182+00:00",
+  "LastUpdate_Achievements": "2023-12-18T05:09:57.6156524+00:00"
 }

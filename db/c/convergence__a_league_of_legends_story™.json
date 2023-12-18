@@ -2,13 +2,13 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 370,
+  "Ranking_Rating": 371,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1023,
+  "EOS_Progressed": 1024,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2809,6 +2809,11 @@
       "Time": "2023-12-18T04:10:05.2133993+00:00",
       "NumProgressed": 1023,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-18T05:09:49.0076187+00:00",
+      "NumProgressed": 1024,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2940,7 +2945,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2980,7 +2985,7 @@
       "Name": "Rail Rat",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "HexlockGift",
@@ -3012,7 +3017,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "MapCompletion1",
@@ -3060,7 +3065,7 @@
       "Name": "Time Flies",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ParryBoss",
@@ -3100,7 +3105,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "RewindDamage1",
@@ -3180,7 +3185,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "TheaterChests1",
@@ -3228,7 +3233,7 @@
       "Name": "The Brass Boss",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3243,7 +3248,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1023,
+      "Progressed": 1024,
       "Completed": 6
     }
   ],
@@ -3251,8 +3256,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-18T04:10:05.2133991+00:00",
+  "LastChanged_Achievements": "2023-12-18T05:09:49.0076183+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-18T03:58:08.2070336+00:00",
-  "LastUpdate_Achievements": "2023-12-18T04:10:05.2134557+00:00"
+  "LastUpdate_Ratings": "2023-12-18T04:57:51.8610992+00:00",
+  "LastUpdate_Achievements": "2023-12-18T05:09:49.0076679+00:00"
 }
