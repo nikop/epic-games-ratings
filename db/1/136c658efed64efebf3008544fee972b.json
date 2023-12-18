@@ -2,10 +2,10 @@
   "ID": "136c658efed64efebf3008544fee972b",
   "Name": "Dark Life Excalibur",
   "ProductSlug": "dark-life-excalibur-ed4c96",
-  "Ranking_EOS_Progress": 808,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-16T05:57:10.6076205+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:59:09.0204101+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:07:55.2220764+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:00:17.30612+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:08:15.4363051+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "4b7032faef9f4152afeac58dfe13c3f2",
   "Name": "ART IS RIFLE",
   "ProductSlug": "art-is-rifle-897224",
-  "Ranking_EOS_Progress": 808,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-16T03:00:00+00:00",
     "PcReleaseDate": "2023-08-16T12:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-13T02:20:45.6740498+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:59:20.4238312+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:03:38.5058943+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:00:33.737319+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:04:24.6551346+00:00"
 }

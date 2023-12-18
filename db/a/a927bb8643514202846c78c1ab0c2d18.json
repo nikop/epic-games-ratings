@@ -2,10 +2,10 @@
   "ID": "a927bb8643514202846c78c1ab0c2d18",
   "Name": "Elementals Beta",
   "ProductSlug": "elementals-beta-942693",
-  "Ranking_EOS_Progress": 808,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-17T04:57:02.0483486+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:00:21.3795501+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:04:45.9422498+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:02:35.8450716+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:05:59.0165914+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Quest Hunter",
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 432,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -749,9 +749,9 @@
       "ID": "killGoldSkeleton10",
       "SetID": "ci65fo0",
       "Name": "Skeletons Fighter",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "killGolem1",
@@ -853,9 +853,9 @@
       "ID": "killZombie10",
       "SetID": "ci65fo0",
       "Name": "Paladin",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "killZombie50",
@@ -1189,9 +1189,9 @@
       "ID": "questWellCleaner",
       "SetID": "ci65fo0",
       "Name": "Cleaner of the Horrible Well",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "survivalGraveyard",
@@ -1218,8 +1218,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:09:04.4926421+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:09:49.2634058+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.21897+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:57:46.8779627+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:09:04.4926995+00:00"
+  "LastUpdate_Ratings": "2023-12-18T15:58:17.5181247+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:09:49.2634616+00:00"
 }

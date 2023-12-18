@@ -26,12 +26,12 @@ Rating: 4.26 (Ranked 882)
 | Hating Them Tin Cans | 0.00% | ~0 |
 | Maniac Driver | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 609)  
-Completed: 0 (0.00%) (Ranked 381)  
+Progressed: 20 (Ranked 593)  
+Completed: 0 (0.00%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-12-18 | 16 | 0 |
+| 2023-12-18 | 20 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 92.00% | ~50,752 |
-| Enemy Attrition | 67.00% | ~36,961 |
-| Grim Reaper | 64.00% | ~35,306 |
-| Heads Down | 62.00% | ~34,202 |
-| Not On My Watch | 58.00% | ~31,996 |
-| Combat Engineer | 38.00% | ~20,963 |
-| Call ’em in! | 28.00% | ~15,446 |
-| Eager Beaver | 27.00% | ~14,895 |
-| Lovely | 27.00% | ~14,895 |
-| Store fuglar fanga ingi flugor | 16.00% | ~8,826 |
-| Ou La Mort | 14.00% | ~7,723 |
-| Elite | 13.00% | ~7,171 |
-| Fender Bender | 8.00% | ~4,413 |
-| Globetrotter | 7.00% | ~3,862 |
-| Jack of All Trades | 6.00% | ~3,310 |
-| Storyteller | 4.00% | ~2,207 |
-| Off-hand | 3.00% | ~1,655 |
-| Death from Above | 2.00% | ~1,103 |
-| Veteran | 0.70% | ~386 |
-| Hoist the Flag | 0.30% | ~165 |
-| Sins of the Fathers | 0.20% | ~110 |
+| Last Man Standing | 92.00% | ~50,974 |
+| Enemy Attrition | 67.00% | ~37,123 |
+| Grim Reaper | 64.00% | ~35,460 |
+| Heads Down | 62.00% | ~34,352 |
+| Not On My Watch | 58.00% | ~32,136 |
+| Combat Engineer | 38.00% | ~21,055 |
+| Call ’em in! | 28.00% | ~15,514 |
+| Eager Beaver | 27.00% | ~14,960 |
+| Lovely | 27.00% | ~14,960 |
+| Store fuglar fanga ingi flugor | 16.00% | ~8,865 |
+| Ou La Mort | 14.00% | ~7,757 |
+| Elite | 13.00% | ~7,203 |
+| Fender Bender | 8.00% | ~4,433 |
+| Globetrotter | 7.00% | ~3,878 |
+| Jack of All Trades | 6.00% | ~3,324 |
+| Storyteller | 4.00% | ~2,216 |
+| Off-hand | 3.00% | ~1,662 |
+| Death from Above | 2.00% | ~1,108 |
+| Veteran | 0.70% | ~388 |
+| Hoist the Flag | 0.30% | ~166 |
+| Sins of the Fathers | 0.20% | ~111 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,165 (Ranked 114)  
-Completed: 0 (0.00%) (Ranked 381)  
+Progressed: 55,407 (Ranked 114)  
+Completed: 0 (0.00%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -119,4 +119,4 @@ Completed: 0 (0.00%) (Ranked 381)
 | 2023-12-15 | 38,229 | 0 |
 | 2023-12-16 | 45,856 | 0 |
 | 2023-12-17 | 52,029 | 0 |
-| 2023-12-18 | 55,165 | 0 |
+| 2023-12-18 | 55,407 | 0 |

@@ -5,9 +5,9 @@
   "Ranking_Rating": 35,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 253,
+  "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -37,11 +37,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1342,
+  "EOS_Progressed": 1345,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 17,
-  "EOS_Completed_Percentage": 5.29,
+  "EOS_Completed_Percentage": 5.28,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -4457,6 +4457,11 @@
       "Time": "2023-12-18T15:05:52.1048767+00:00",
       "NumProgressed": 1342,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-12-18T16:07:30.7681266+00:00",
+      "NumProgressed": 1345,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 25,
@@ -4468,7 +4473,7 @@
       "Name": "I did it",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "END_GOOD",
@@ -4492,7 +4497,7 @@
       "Name": "Cable guy",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "META_FIRST_LINK",
@@ -4500,7 +4505,7 @@
       "Name": "A good beginning",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "META_HALF_LINK",
@@ -4508,7 +4513,7 @@
       "Name": "Half the way",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "META_RESULT_1-2",
@@ -4524,7 +4529,7 @@
       "Name": "Free at last",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "META_RESULT_1-4",
@@ -4532,7 +4537,7 @@
       "Name": "Feels like springtime",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "META_RESULT_2-3",
@@ -4564,7 +4569,7 @@
       "Name": "Alchemists Express",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -4572,7 +4577,7 @@
       "Name": "Rascal",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -4588,7 +4593,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -4612,15 +4617,15 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 619
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 309
+      "UsersEstimate": 323
     },
     {
       "ID": "PROGRESS_N1",
@@ -4628,7 +4633,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "PROGRESS_N2",
@@ -4636,7 +4641,7 @@
       "Name": "The great escape",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "PROGRESS_N3",
@@ -4644,7 +4649,7 @@
       "Name": "A new dawn",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "PROGRESS_N4",
@@ -4660,14 +4665,14 @@
       "Name": "One last step",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1342,
+      "Progressed": 1345,
       "Completed": 71
     }
   ],
@@ -4675,8 +4680,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-17T17:02:33.5506237+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:05:52.1048765+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:07:30.768126+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:57:12.763721+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:05:52.1049018+00:00"
+  "LastUpdate_Ratings": "2023-12-18T15:57:25.7074554+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:07:30.7681602+00:00"
 }

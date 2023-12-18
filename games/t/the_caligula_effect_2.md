@@ -11,7 +11,7 @@ Number of Ratings: 32  (23.09.2022)
 | Our World Now | 82.00% | ~200 |
 | Never Saw It Coming | 66.00% | ~161 |
 | Coup de Grace | 58.00% | ~142 |
-| Go-Home Club Activities START! | 48.00% | ~117 |
+| Go-Home Club Activities START! | 49.00% | ~120 |
 | Philanthropist | 39.00% | ~95 |
 | Test Your Luck | 34.00% | ~83 |
 | Behind the Curtain | 33.00% | ~81 |
@@ -57,7 +57,7 @@ Number of Ratings: 32  (23.09.2022)
 | The Caligula Effect 2 | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 244 (Ranked 388)  
-Completed: 2 (0.82%) (Ranked 184)  
+Completed: 2 (0.82%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

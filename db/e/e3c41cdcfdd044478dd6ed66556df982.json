@@ -2,10 +2,10 @@
   "ID": "e3c41cdcfdd044478dd6ed66556df982",
   "Name": "Battle Planet - Judgement Day",
   "ProductSlug": "battle-planet-judgement-day-1f3c51",
-  "Ranking_EOS_Progress": 808,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 740,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-15T00:00:00+00:00",
     "PcReleaseDate": "2019-10-17T10:00:00+00:00",
@@ -22,12 +22,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-12-18T16:05:55.982579+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-12-18T11:06:07.4358846+00:00",
   "TotalAchievements": 13,
   "TotalAchievementsXP": 1000,
@@ -36,118 +42,118 @@
       "ID": "BOSS_KILL_BOSSBOMB",
       "SetID": "26018g2",
       "Name": "Battle Master",
-      "Percentage": 0,
+      "Percentage": 300,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "BOSS_KILL_JETPACKTWINS",
       "SetID": "26018g2",
       "Name": "Double Trouble",
-      "Percentage": 0,
+      "Percentage": 300,
       "XP": 70,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "BOSS_KILL_SPIDER",
       "SetID": "26018g2",
       "Name": "Exterminator",
-      "Percentage": 0,
+      "Percentage": 300,
       "XP": 70,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "BOSS_KILL_WORMOTH",
       "SetID": "26018g2",
       "Name": "Annihilator",
-      "Percentage": 0,
+      "Percentage": 300,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "PROGRESSION_DEFUSE_BOMBS",
       "SetID": "26018g2",
       "Name": "Bomb Specialist",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 95,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PROGRESSION_ESCAPE_FIRST_PLANET",
       "SetID": "26018g2",
       "Name": "Survivalist",
-      "Percentage": 0,
+      "Percentage": 400,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "PROGRESSION_KILL_ENEMIES",
       "SetID": "26018g2",
       "Name": "Warmonger",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PROGRESSION_UNLOCK_MECHA",
       "SetID": "26018g2",
       "Name": "Warmachinist",
-      "Percentage": 0,
+      "Percentage": 300,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "PROGRESSION_UNLOCK_PSYCHO",
       "SetID": "26018g2",
       "Name": "Maniac",
-      "Percentage": 0,
+      "Percentage": 200,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "PROGRESSION_UNLOCK_SPY",
       "SetID": "26018g2",
       "Name": "Technician",
-      "Percentage": 0,
+      "Percentage": 300,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "UPGRADES_ITEMS_ALL_FULLY",
       "SetID": "26018g2",
       "Name": "Craftsman",
-      "Percentage": 0,
+      "Percentage": 200,
       "XP": 95,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "UPGRADES_PERMAUPGRADES_ALL_FULLY",
       "SetID": "26018g2",
       "Name": "Perfectionist",
-      "Percentage": 0,
+      "Percentage": 200,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "UPGRADES_WEAPONS_ALL_FULLY",
       "SetID": "26018g2",
       "Name": "Weapon Specialist",
-      "Percentage": 0,
+      "Percentage": 200,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "26018g2",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-14T16:03:34.2764174+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:04:43.7984005+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:05:55.9825785+00:00",
   "LastUpdate_AppInfo": "2023-12-14T15:56:57.3782694+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:58:55.6327373+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:04:43.7984113+00:00"
+  "LastUpdate_Ratings": "2023-12-18T15:59:57.8748994+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:05:55.9825911+00:00"
 }

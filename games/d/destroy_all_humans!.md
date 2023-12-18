@@ -1,34 +1,34 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 354)  
+Rating: 4.63 (Ranked 352)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lie Back and Think of Albion | 60.00% | ~6 |
-| Kaijuiced | 50.00% | ~5 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 50.00% | ~5 |
-| Lobster Blisque | 50.00% | ~5 |
-| Yettisoned | 40.00% | ~4 |
-| Forbidden Donut | 30.00% | ~3 |
-| I Look Up As I Walk to Takoshima | 30.00% | ~3 |
-| Upgreatest | 30.00% | ~3 |
-| Perfect Probulator | 30.00% | ~3 |
-| Trans-Siberian Express | 30.00% | ~3 |
-| Fly Me to the Moon Base | 20.00% | ~2 |
-| Freshly Squeezed | 20.00% | ~2 |
-| Re-Return of the Clone of the Invasion II-2 | 20.00% | ~2 |
-| Ducks in a Row, Fish in a Barrel | 20.00% | ~2 |
-| Arkvoodle Doodle | 10.00% | ~1 |
-| Deincarnated | 10.00% | ~1 |
-| Furon Fashion | 10.00% | ~1 |
-| Path of the Furon | 10.00% | ~1 |
-| Earthly Pleasures | 10.00% | ~1 |
-| Die Nasty | 10.00% | ~1 |
-| Hidden Human Hive Harvest | 10.00% | ~1 |
-| Mash Machine | 10.00% | ~1 |
-| Dusted | 10.00% | ~1 |
+| Lie Back and Think of Albion | 73.00% | ~8 |
+| Kaijuiced | 55.00% | ~6 |
+| Lobster Blisque | 55.00% | ~6 |
+| Yettisoned | 45.00% | ~5 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 45.00% | ~5 |
+| I Look Up As I Walk to Takoshima | 36.00% | ~4 |
+| Freshly Squeezed | 36.00% | ~4 |
+| Forbidden Donut | 27.00% | ~3 |
+| Upgreatest | 27.00% | ~3 |
+| Perfect Probulator | 27.00% | ~3 |
+| Trans-Siberian Express | 27.00% | ~3 |
+| Fly Me to the Moon Base | 18.00% | ~2 |
+| Re-Return of the Clone of the Invasion II-2 | 18.00% | ~2 |
+| Ducks in a Row, Fish in a Barrel | 18.00% | ~2 |
+| Arkvoodle Doodle | 9.00% | ~1 |
+| Deincarnated | 9.00% | ~1 |
+| Furon Fashion | 9.00% | ~1 |
+| Path of the Furon | 9.00% | ~1 |
+| Earthly Pleasures | 9.00% | ~1 |
+| Die Nasty | 9.00% | ~1 |
+| Hidden Human Hive Harvest | 9.00% | ~1 |
+| Mash Machine | 9.00% | ~1 |
+| Dusted | 9.00% | ~1 |
 | Scuttled | 0.00% | ~0 |
 | Transmitting From Sol-3 | 0.00% | ~0 |
 | Cult Following | 0.00% | ~0 |
@@ -47,12 +47,12 @@ Number of Ratings: 85  (23.09.2022)
 | Bodied Sattva | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 638)  
-Completed: 0 (0.00%) (Ranked 381)  
+Progressed: 11 (Ranked 634)  
+Completed: 0 (0.00%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-12-18 | 10 | 0 |
+| 2023-12-18 | 11 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 489)  
 Sum: 34 (Ranked 515)  

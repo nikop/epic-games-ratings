@@ -35,7 +35,7 @@ Number of Ratings: 74  (23.09.2022)
 | A True Challenge | 2.00% | ~153 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,632 (Ranked 182)  
-Completed: 58 (0.76%) (Ranked 189)  
+Completed: 58 (0.76%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

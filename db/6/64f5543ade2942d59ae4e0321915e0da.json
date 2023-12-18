@@ -3,9 +3,9 @@
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 415,
-  "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 159,
+  "EOS_Progressed": 160,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.63,
+  "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
     {
       "Time": "2023-10-17T15:03:17.566478+00:00",
@@ -649,6 +649,11 @@
       "Time": "2023-12-18T15:05:51.4332869+00:00",
       "NumProgressed": 159,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T16:07:29.7275296+00:00",
+      "NumProgressed": 160,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -667,9 +672,9 @@
       "ID": "AC_ALL_COLUMNS",
       "SetID": "16i2akc",
       "Name": "Empire",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "AC_ALL_MONEYSACKS",
@@ -715,9 +720,9 @@
       "ID": "AC_BLACKJACK_GAMES_1",
       "SetID": "16i2akc",
       "Name": "Gambler",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -733,7 +738,7 @@
       "Name": "Hunger",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "AC_BOSS_01",
@@ -741,7 +746,7 @@
       "Name": "Misery",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "AC_BOSS_02",
@@ -749,7 +754,7 @@
       "Name": "Downfall",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "AC_BOSS_03",
@@ -773,7 +778,7 @@
       "Name": "Pack",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "AC_COMBO_2",
@@ -803,9 +808,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "AC_DEATH_2",
@@ -883,9 +888,9 @@
       "ID": "AC_FLASHBACK_01",
       "SetID": "16i2akc",
       "Name": "Creation",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -963,9 +968,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 70
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -996,14 +1001,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 159,
+      "Progressed": 160,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:05:51.4332866+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:07:29.727529+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:56.8907916+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:59:00.083027+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:05:51.4333225+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:00:04.0899362+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:07:29.7275526+00:00"
 }

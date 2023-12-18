@@ -5,18 +5,18 @@ Rating: 4.58 (Ranked 455)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 30.00% | ~1,067 |
+| Wakey Wakey | 30.00% | ~1,068 |
 | Sputnik 2049 | 26.00% | ~925 |
-| Without Breaking Some Eggs... | 25.00% | ~889 |
-| Infinite Growth... | 25.00% | ~889 |
-| A Thousand Strong | 18.00% | ~640 |
-| Ready for a New World | 18.00% | ~640 |
+| Without Breaking Some Eggs... | 25.00% | ~890 |
+| Infinite Growth... | 25.00% | ~890 |
+| A Thousand Strong | 18.00% | ~641 |
+| Ready for a New World | 18.00% | ~641 |
 | Space Society | 17.00% | ~605 |
 | Permanent Redesigns | 15.00% | ~534 |
 | Fully Recycled | 14.00% | ~498 |
 | Ain't Nobody Got Time for That | 14.00% | ~498 |
 | The Ship of Theseus | 14.00% | ~498 |
-| Guy de Borderlands | 13.00% | ~462 |
+| Guy de Borderlands | 13.00% | ~463 |
 | Exceeding Capacity | 12.00% | ~427 |
 | Breaking Protocol | 12.00% | ~427 |
 | Hope Seeker | 12.00% | ~427 |
@@ -28,8 +28,8 @@ Rating: 4.58 (Ranked 455)
 | Sightseeing | 7.00% | ~249 |
 | Necessary Enhancement | 7.00% | ~249 |
 | From the Past | 7.00% | ~249 |
-| Access Granted | 6.00% | ~213 |
-| All in Good Health | 6.00% | ~213 |
+| Access Granted | 6.00% | ~214 |
+| All in Good Health | 6.00% | ~214 |
 | Oats | 5.00% | ~178 |
 | What They Hide From Us | 5.00% | ~178 |
 | ...  in a finite world | 5.00% | ~178 |
@@ -63,8 +63,8 @@ Rating: 4.58 (Ranked 455)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,557 (Ranked 211)  
-Completed: 0 (0.00%) (Ranked 381)  
+Progressed: 3,559 (Ranked 211)  
+Completed: 0 (0.00%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -295,7 +295,7 @@ Completed: 0 (0.00%) (Ranked 381)
 | 2023-12-15 | 3,496 | 0 |
 | 2023-12-16 | 3,519 | 0 |
 | 2023-12-17 | 3,550 | 0 |
-| 2023-12-18 | 3,557 | 0 |
+| 2023-12-18 | 3,559 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "17514f68442f4cb19f6219f45309142b",
   "Name": "Geometric Sniper",
   "ProductSlug": "geometric-sniper-82e0e0",
-  "Ranking_EOS_Progress": 808,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2024-01-31T00:00:00+00:00",
     "PcReleaseDate": "2020-12-17T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-12T02:57:11.0470479+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:00:06.6555582+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:05:39.0203246+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:01:41.8325413+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:07:12.2750765+00:00"
 }

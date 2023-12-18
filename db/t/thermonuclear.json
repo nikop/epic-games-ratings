@@ -2,10 +2,10 @@
   "ID": "7d4338795df4427ea19fa48d211c8f92",
   "Name": "Thermonuclear",
   "ProductSlug": "thermonuclear-30a1d0",
-  "Ranking_EOS_Progress": 808,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-01-17T17:00:00+00:00",
     "PcReleaseDate": "2021-11-11T17:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:57:54.3783002+00:00",
   "LastChanged": "2023-03-31T05:57:54.3783004+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:09.9167869+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:00:07.90359+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:06:08.8721213+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:01:43.5744079+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:07:54.298781+00:00"
 }

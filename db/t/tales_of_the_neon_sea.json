@@ -2,13 +2,13 @@
   "ID": "37e6d41ce91e44988190c2f10108d4e9",
   "Name": "Tales of the Neon Sea",
   "ProductSlug": "tales-of-the-neon-sea",
-  "Ranking_Rating": 512,
+  "Ranking_Rating": 532,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 808,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-04-01T15:00:00+00:00",
     "PcReleaseDate": "2018-11-14T10:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "NumberOfRatings": 251,
   "RatingHistory": [
     {
@@ -412,6 +412,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-18T16:03:07.8269003+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -429,8 +435,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:14.4267103+00:00",
-  "LastChanged": "2023-12-07T15:58:51.9891381+00:00",
+  "LastChanged": "2023-12-18T16:03:07.8269001+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:48.4505882+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:02:45.1358456+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:04:22.2963366+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:03:07.8269006+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:05:26.2119762+00:00"
 }

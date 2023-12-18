@@ -9,9 +9,9 @@
 | Good Person Chip | 84.00% | ~349 |
 | First winning | 83.00% | ~345 |
 | Your first job | 82.00% | ~341 |
+| Old movies enjoyer | 77.00% | ~320 |
 | Depressed visitor | 77.00% | ~320 |
 | Fitness professional | 76.00% | ~316 |
-| Old movies enjoyer | 76.00% | ~316 |
 | Neurotrainer – power gainer! | 76.00% | ~316 |
 | Employee of the week | 75.00% | ~312 |
 | Your own amateur gym | 71.00% | ~295 |
@@ -21,7 +21,7 @@
 | No bullying more | 67.00% | ~279 |
 | Fighting is cool | 66.00% | ~275 |
 | Pal of your father? | 64.00% | ~266 |
-| Spirit of the past | 62.00% | ~258 |
+| Spirit of the past | 63.00% | ~262 |
 | Employee of the month | 61.00% | ~254 |
 | Law student | 58.00% | ~241 |
 | Workout professional | 56.00% | ~233 |
@@ -56,15 +56,15 @@
 | Problems of cyborgs | 32.00% | ~133 |
 | Not little hacker | 32.00% | ~133 |
 | Absolute Champion! | 32.00% | ~133 |
+| Your own way | 32.00% | ~133 |
+| Another world | 31.00% | ~129 |
 | The lonesome road | 31.00% | ~129 |
 | Keep nature safe | 31.00% | ~129 |
 | Family comes first | 31.00% | ~129 |
 | Key memories | 31.00% | ~129 |
 | Careerist | 31.00% | ~129 |
 | The heart of the Resistance | 31.00% | ~129 |
-| Your own way | 31.00% | ~129 |
 | Trap disarmed | 30.00% | ~125 |
-| Another world | 30.00% | ~125 |
 | Anyone can resist | 30.00% | ~125 |
 | The last bell ring | 29.00% | ~121 |
 | Silver’s past | 27.00% | ~112 |

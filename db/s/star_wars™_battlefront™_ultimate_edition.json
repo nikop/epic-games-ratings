@@ -3,9 +3,9 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 236,
-  "Ranking_EOS_Completed": 330,
+  "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1872,
+  "EOS_Progressed": 1873,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
@@ -5514,6 +5514,11 @@
       "Time": "2023-12-18T15:09:40.5259261+00:00",
       "NumProgressed": 1872,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T16:10:38.3327819+00:00",
+      "NumProgressed": 1873,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5630,7 +5635,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "achievement_22",
@@ -5742,7 +5747,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "achievement_35",
@@ -5750,15 +5755,15 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "achievement_36",
       "SetID": "271ol84",
       "Name": "Impressive. Most impressive.",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_37",
@@ -6029,13 +6034,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1872,
+      "Progressed": 1873,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1872,
+      "Progressed": 1873,
       "Completed": 1
     }
   ],
@@ -6043,8 +6048,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:09:40.5259258+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:10:38.3327816+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:00:05.2395313+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:09:40.5259877+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:01:39.7345759+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:10:38.3328443+00:00"
 }

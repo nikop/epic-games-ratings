@@ -5,10 +5,10 @@
   "Ranking_Rating": 548,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 513,
-  "Ranking_EOS_Progress": 450,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 446,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 116,
+  "EOS_Progressed": 118,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -741,6 +741,11 @@
       "Time": "2023-12-18T15:08:26.8853073+00:00",
       "NumProgressed": 116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T16:08:57.8153637+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -753,13 +758,13 @@
       "Name": "Mash Machine",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
       "SetID": "4n84pon",
       "Name": "Ultimate Smoothie",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -783,15 +788,15 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
       "SetID": "4n84pon",
       "Name": "Arty Facts",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -825,7 +830,7 @@
       "Name": "Cult Following",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -839,7 +844,7 @@
       "ID": "ACH_COP_THROUGH_DONUT",
       "SetID": "4n84pon",
       "Name": "Forbidden Donut",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -863,7 +868,7 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
       "UsersEstimate": 44
     },
@@ -889,7 +894,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -903,9 +908,9 @@
       "ID": "ACH_ENTER_TAKOSHIMA",
       "SetID": "4n84pon",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -919,9 +924,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -937,7 +942,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_KILL_ORANCHOV",
@@ -977,7 +982,7 @@
       "Name": "Scuttled",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_KILL_YETI",
@@ -991,7 +996,7 @@
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
       "SetID": "4n84pon",
       "Name": "The Optional Mandate",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -999,9 +1004,9 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1089,22 +1094,22 @@
       "Name": "Shop Til They Drop",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "4n84pon",
       "Name": "Pimp My Raid",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 116,
+      "Progressed": 118,
       "Completed": 0
     }
   ],
@@ -1112,8 +1117,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:08:26.8853072+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:08:57.8153634+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:57:07.3337978+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:08:26.88533+00:00"
+  "LastUpdate_Ratings": "2023-12-18T15:57:17.6332443+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:08:57.8153879+00:00"
 }

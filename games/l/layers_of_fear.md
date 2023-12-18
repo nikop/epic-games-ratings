@@ -13,7 +13,7 @@
 | The artist’s impression | 42.00% | ~63 |
 | Sign of weakness | 35.00% | ~52 |
 | Refuse to look | 33.00% | ~49 |
-| Face your fears | 26.00% | ~39 |
+| Face your fears | 27.00% | ~40 |
 | Finished it | 26.00% | ~39 |
 | Whispers long forgotten | 13.00% | ~19 |
 | Debut | 11.00% | ~16 |
@@ -58,7 +58,7 @@
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 149 (Ranked 421)  
-Completed: 0 (0.00%) (Ranked 381)  
+Completed: 0 (0.00%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

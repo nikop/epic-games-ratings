@@ -2,10 +2,10 @@
   "ID": "43d72bd8df464178bb223c5270303efe",
   "Name": "Banishers: Ghosts of New Eden",
   "ProductSlug": "banishers-ghosts-of-new-eden-f9e3f2",
-  "Ranking_EOS_Progress": 808,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2024-02-12T23:00:00+00:00",
     "PcReleaseDate": "2024-02-12T23:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-15T16:03:15.009525+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:03:38.353578+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:04:24.5318628+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.8989459+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:59:29.9387817+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:03:38.3535818+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:00:48.0202147+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:04:24.5318647+00:00"
 }

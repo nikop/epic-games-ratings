@@ -639,9 +639,9 @@
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -704,8 +704,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:04:06.561325+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:05:03.9300469+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:59.0408325+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:03:02.9599973+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:04:06.5613355+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:03:33.3138396+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:05:03.9300577+00:00"
 }

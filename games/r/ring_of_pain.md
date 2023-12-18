@@ -68,26 +68,26 @@ Number of Ratings: 15,086  (23.09.2022)
 | Snake Sneak | 0.30% | ~724 |
 | The Long Run | 0.30% | ~724 |
 | Who Needs Luck? | 0.30% | ~8 |
-| Achievement Hunter | 0.20% | ~482 |
-| Challenge Increases | 0.20% | ~482 |
-| A Long Climb | 0.20% | ~482 |
-| New Game+ | 0.20% | ~482 |
-| Barbecue | 0.20% | ~482 |
-| Grave Digger | 0.20% | ~482 |
-| Soul Stash | 0.20% | ~482 |
-| Juggernaut | 0.20% | ~482 |
-| Gigantic | 0.20% | ~482 |
-| Become The Nightmare | 0.20% | ~482 |
-| Clearing The Room | 0.20% | ~482 |
-| Path To Enlightenment | 0.20% | ~482 |
-| Just Looking Around | 0.20% | ~482 |
-| Decisions, Decisions | 0.20% | ~482 |
-| Fragile Mortality | 0.20% | ~482 |
-| Fire Away! | 0.20% | ~482 |
-| Defuser | 0.20% | ~482 |
-| Obsessed | 0.20% | ~482 |
-| Sentimental Value | 0.20% | ~482 |
-| Precious | 0.20% | ~482 |
+| Achievement Hunter | 0.20% | ~483 |
+| Challenge Increases | 0.20% | ~483 |
+| A Long Climb | 0.20% | ~483 |
+| New Game+ | 0.20% | ~483 |
+| Barbecue | 0.20% | ~483 |
+| Grave Digger | 0.20% | ~483 |
+| Soul Stash | 0.20% | ~483 |
+| Juggernaut | 0.20% | ~483 |
+| Gigantic | 0.20% | ~483 |
+| Become The Nightmare | 0.20% | ~483 |
+| Clearing The Room | 0.20% | ~483 |
+| Path To Enlightenment | 0.20% | ~483 |
+| Just Looking Around | 0.20% | ~483 |
+| Decisions, Decisions | 0.20% | ~483 |
+| Fragile Mortality | 0.20% | ~483 |
+| Fire Away! | 0.20% | ~483 |
+| Defuser | 0.20% | ~483 |
+| Obsessed | 0.20% | ~483 |
+| Sentimental Value | 0.20% | ~483 |
+| Precious | 0.20% | ~483 |
 | Diviner | 0.20% | ~5 |
 | Nuclear | 0.20% | ~5 |
 | Raw Power | 0.20% | ~5 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,250 (Ranked 66)  
-Completed: 299 (0.12%) (Ranked 290)  
+Progressed: 241,251 (Ranked 66)  
+Completed: 299 (0.12%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -387,7 +387,7 @@ Completed: 299 (0.12%) (Ranked 290)
 | 2023-12-15 | 241,093 | 299 |
 | 2023-12-16 | 241,163 | 299 |
 | 2023-12-17 | 241,211 | 299 |
-| 2023-12-18 | 241,250 | 299 |
+| 2023-12-18 | 241,251 | 299 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,743 (Ranked 87)  

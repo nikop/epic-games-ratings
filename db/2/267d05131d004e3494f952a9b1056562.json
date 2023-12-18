@@ -2,10 +2,10 @@
   "ID": "267d05131d004e3494f952a9b1056562",
   "Name": "Bandle Tale: A League of Legends Story",
   "ProductSlug": "bandle-tale-a-league-of-legends-story",
-  "Ranking_EOS_Progress": 808,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -39,8 +39,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-27T11:05:00.7152408+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:08:51.8546727+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:09:32.0907792+00:00",
   "LastUpdate_AppInfo": "2023-12-14T22:57:20.2485208+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:02:55.3583581+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:08:51.8546739+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:03:21.7414972+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:09:32.0907823+00:00"
 }

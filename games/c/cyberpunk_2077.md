@@ -6,24 +6,24 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,395 |
-| Gun Fu | 8.00% | ~78,263 |
-| The Fool | 7.00% | ~68,480 |
-| Right Back At Ya | 6.00% | ~58,697 |
-| The Lovers | 5.00% | ~48,915 |
-| Full Body Conversion | 4.00% | ~39,132 |
-| Stanislavski's Method | 4.00% | ~39,132 |
-| The Hermit | 4.00% | ~39,132 |
-| The Wheel of Fortune | 4.00% | ~39,132 |
-| True Soldier | 4.00% | ~39,132 |
-| All the President's Men | 4.00% | ~4,277 |
-| Arachnophobia | 4.00% | ~4,277 |
-| Christmas Tree Attack | 3.00% | ~29,349 |
-| Life of the Road | 3.00% | ~29,349 |
-| The High Priestess | 3.00% | ~29,349 |
-| True Warrior | 3.00% | ~29,349 |
-| Legend of The Afterlife | 3.00% | ~29,349 |
-| Relic Ruler | 3.00% | ~3,207 |
+| V for Vendetta | 12.00% | ~117,399 |
+| Gun Fu | 8.00% | ~78,266 |
+| The Fool | 7.00% | ~68,483 |
+| Right Back At Ya | 6.00% | ~58,699 |
+| The Lovers | 5.00% | ~48,916 |
+| Full Body Conversion | 4.00% | ~39,133 |
+| Stanislavski's Method | 4.00% | ~39,133 |
+| The Hermit | 4.00% | ~39,133 |
+| The Wheel of Fortune | 4.00% | ~39,133 |
+| True Soldier | 4.00% | ~39,133 |
+| All the President's Men | 4.00% | ~4,278 |
+| Arachnophobia | 4.00% | ~4,278 |
+| Christmas Tree Attack | 3.00% | ~29,350 |
+| Life of the Road | 3.00% | ~29,350 |
+| The High Priestess | 3.00% | ~29,350 |
+| True Warrior | 3.00% | ~29,350 |
+| Legend of The Afterlife | 3.00% | ~29,350 |
+| Relic Ruler | 3.00% | ~3,208 |
 | Bushido and Chill | 2.00% | ~19,566 |
 | To Protect and Serve | 2.00% | ~19,566 |
 | Master Crafter | 2.00% | ~19,566 |
@@ -36,18 +36,18 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Sun | 1.00% | ~9,783 |
 | Spin Doctor | 1.00% | ~1,069 |
 | King of Wands | 1.00% | ~1,069 |
+| Dirty Deeds | 1.00% | ~1,069 |
 | Easy Come, Easy Go | 1.00% | ~1,069 |
 | Ten out of Ten | 0.90% | ~8,805 |
-| Dirty Deeds | 0.90% | ~962 |
-| To Bad Decisions! | 0.80% | ~7,826 |
+| To Bad Decisions! | 0.80% | ~7,827 |
+| The Star | 0.80% | ~7,827 |
 | Breathtaking | 0.70% | ~6,848 |
-| The Star | 0.70% | ~6,848 |
 | Autojock | 0.60% | ~5,870 |
-| The APB is Not Enough | 0.60% | ~641 |
-| Judgement Day | 0.60% | ~641 |
-| The Tower | 0.60% | ~641 |
-| Must Be Rats | 0.50% | ~4,891 |
-| Temperance | 0.50% | ~4,891 |
+| The APB is Not Enough | 0.60% | ~642 |
+| Judgement Day | 0.60% | ~642 |
+| The Tower | 0.60% | ~642 |
+| Must Be Rats | 0.50% | ~4,892 |
+| Temperance | 0.50% | ~4,892 |
 | King of Pentacles | 0.50% | ~535 |
 | King of Swords | 0.50% | ~535 |
 | City Lights | 0.30% | ~2,935 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 978,291 (Ranked 16)  
-Completed: 2,934 (0.30%) (Ranked 246)  
+Progressed: 978,323 (Ranked 16)  
+Completed: 2,935 (0.30%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -316,16 +316,16 @@ Completed: 2,934 (0.30%) (Ranked 246)
 | 2023-12-15 | 976,625 | 2,913 |
 | 2023-12-16 | 977,366 | 2,924 |
 | 2023-12-17 | 978,015 | 2,930 |
-| 2023-12-18 | 978,291 | 2,934 |
+| 2023-12-18 | 978,323 | 2,935 |
 ## Awards
 Max (Character Customization): 124,505  (Ranked 8)  
-Sum: 428,358 (Ranked 9)  
+Sum: 428,631 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 124,505 |
 | This game has Great Boss Battles | 91,570 |
-| This game is Great for Beginners | 26,451 |
+| This game is Great for Beginners | 26,630 |
 | This game has Diverse Characters | 25,978 |
 | This game is Highly Recommended | 24,874 |
 | This game has Amazing Storytelling | 24,510 |
@@ -333,7 +333,7 @@ Diff (max vs sum): -1
 | This game has Amazing Characters | 23,928 |
 | This game has Quickly Understood Controls | 23,183 |
 | This game is Relaxing | 23,173 |
-| This game has a Creative Community | 16,026 |
+| This game has a Creative Community | 16,120 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -670,4 +670,4 @@ Diff (max vs sum): -1
 | 2023-12-15 | 4.66 | - | 123,411 | 421,451 |
 | 2023-12-16 | 4.66 | - | 123,963 | 424,262 |
 | 2023-12-17 | 4.66 | - | 124,505 | 427,247 |
-| 2023-12-18 | 4.66 | - | 124,505 | 428,358 |
+| 2023-12-18 | 4.66 | - | 124,505 | 428,631 |

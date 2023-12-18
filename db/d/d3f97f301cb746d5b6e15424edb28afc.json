@@ -6,9 +6,9 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 257,
-  "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 314,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -3684,9 +3684,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 874
+      "UsersEstimate": 887
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -3780,9 +3780,9 @@
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 4",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 659
+      "UsersEstimate": 672
     },
     {
       "ID": "GSS_ACH_50_UPGRADE_STATION_04",
@@ -4061,8 +4061,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-18T13:05:51.5719117+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:05:26.5819622+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:06:55.0777435+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:58:48.0581239+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:05:26.5820424+00:00"
+  "LastUpdate_Ratings": "2023-12-18T15:59:46.3371704+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:06:55.0778263+00:00"
 }

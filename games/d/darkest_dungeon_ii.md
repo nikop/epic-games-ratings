@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 8.00% | ~254 |
+| Malpractice Assurance | 8.00% | ~255 |
 | Lost and Found | 5.00% | ~159 |
 | This guy... again? | 4.00% | ~127 |
 | This Belongs in a Museum | 3.00% | ~3,849 |
@@ -15,8 +15,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 3.00% | ~3,849 |
 | Escape from the Black Hole | 3.00% | ~3,849 |
 | Autodidact | 3.00% | ~3,849 |
-| Ploughshares to Swords | 3.00% | ~95 |
-| Bloody Graduation | 3.00% | ~95 |
+| Ploughshares to Swords | 3.00% | ~96 |
+| Bloody Graduation | 3.00% | ~96 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,566 |
 | Serenity Now! | 2.00% | ~2,566 |
 | It Rings a Bell | 2.00% | ~2,566 |
@@ -54,8 +54,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unshackled | 1.00% | ~1,283 |
 | Road Trip | 1.00% | ~1,283 |
 | Hope Rekindled | 0.90% | ~1,155 |
-| Ichthyophobic | 0.80% | ~1,026 |
-| No More Mouths to Feed | 0.80% | ~1,026 |
+| Ichthyophobic | 0.80% | ~1,027 |
+| No More Mouths to Feed | 0.80% | ~1,027 |
 | This Looks Familiar | 0.70% | ~898 |
 | Hot Air | 0.70% | ~898 |
 | Eyes Up | 0.70% | ~898 |
@@ -66,13 +66,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 0.50% | ~642 |
 | Et Tu, Riposte? | 0.50% | ~16 |
 | Clearing the Ledger | 0.40% | ~513 |
+| The World As It Was | 0.30% | ~385 |
 | Bacon Bits | 0.30% | ~385 |
 | Hat Trick | 0.30% | ~385 |
 | Triage | 0.30% | ~385 |
 | Maître De La Lame | 0.30% | ~10 |
 | No Mercy | 0.30% | ~10 |
 | A Life Well Lived | 0.20% | ~257 |
-| The World As It Was | 0.20% | ~257 |
 | Tears in the Rain | 0.20% | ~257 |
 | Eidetic | 0.20% | ~257 |
 | Battle Hardened | 0.20% | ~6 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,306 (Ranked 85)  
-Completed: 3 (0.00%) (Ranked 381)  
+Progressed: 128,316 (Ranked 85)  
+Completed: 3 (0.00%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -318,7 +318,7 @@ Completed: 3 (0.00%) (Ranked 381)
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
-| 2023-12-18 | 128,306 | 3 |
+| 2023-12-18 | 128,316 | 3 |
 ## Awards
 Max (Character Customization): 7,784  (Ranked 50)  
 Sum: 20,737 (Ranked 58)  

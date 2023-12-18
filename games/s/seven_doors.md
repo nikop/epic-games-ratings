@@ -9,9 +9,9 @@
 | Diogenes Syndrome | 48.00% | ~11 |
 | Egyptologist | 48.00% | ~11 |
 | No Fear of the Dark | 43.00% | ~10 |
+| The Last Skull | 43.00% | ~10 |
 | They’re Watching | 39.00% | ~9 |
 | Art Connoisseur | 39.00% | ~9 |
-| The Last Skull | 39.00% | ~9 |
 | A Cautious Man Is Worth Two of His Kind | 35.00% | ~8 |
 | Survivor | 35.00% | ~8 |
 | Master of Riddles | 35.00% | ~8 |
@@ -23,7 +23,7 @@
 | Oh... You didn't think to bring it? | 17.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 23 (Ranked 579)  
-Completed: 3 (13.04%) (Ranked 35)  
+Completed: 4 (17.39%) (Ranked 27)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -46,6 +46,7 @@ Completed: 3 (13.04%) (Ranked 35)
 | 2023-11-26 | 22 | 2 |
 | 2023-11-29 | 22 | 3 |
 | 2023-12-14 | 23 | 3 |
+| 2023-12-18 | 23 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

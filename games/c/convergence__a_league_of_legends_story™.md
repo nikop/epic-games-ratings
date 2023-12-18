@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.64 (Ranked 340)  
+Rating: 4.64 (Ranked 339)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,10 +16,10 @@ Rating: 4.64 (Ranked 340)
 | The Steel Shadow | 22.00% | ~226 |
 | The Harder They Fall | 22.00% | ~226 |
 | No, Thanks! | 22.00% | ~226 |
+| Breaking Down Barriers | 22.00% | ~226 |
 | Honest Mistake | 22.00% | ~226 |
 | Fast Learner | 22.00% | ~226 |
 | Immaculate Aim | 22.00% | ~226 |
-| Breaking Down Barriers | 21.00% | ~216 |
 | The Wicked Twins | 21.00% | ~216 |
 | Right On Time | 20.00% | ~205 |
 | Like Clockwork | 20.00% | ~205 |
@@ -60,7 +60,7 @@ Rating: 4.64 (Ranked 340)
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,027 (Ranked 275)  
-Completed: 6 (0.58%) (Ranked 199)  
+Completed: 6 (0.58%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

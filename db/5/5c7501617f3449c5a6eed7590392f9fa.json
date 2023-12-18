@@ -3,9 +3,9 @@
   "Name": "Botanicula",
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 488,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2012-04-19T11:00:00+00:00",
@@ -357,9 +357,9 @@
       "ID": "Ach-01-brambora",
       "SetID": "2pjo9pi",
       "Name": "Brambora",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Ach-01-bzukavec",
@@ -669,9 +669,9 @@
       "ID": "Ach-05-loutky",
       "SetID": "2pjo9pi",
       "Name": "Loutky",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Ach-05-nosatec",
@@ -701,9 +701,9 @@
       "ID": "Ach-05-zelva",
       "SetID": "2pjo9pi",
       "Name": "Zelva",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Ach-05-zloC",
@@ -717,9 +717,9 @@
       "ID": "Ach-level-1",
       "SetID": "2pjo9pi",
       "Name": "Level 1",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Ach-level-2",
@@ -765,9 +765,9 @@
       "ID": "Ach-mytologie",
       "SetID": "2pjo9pi",
       "Name": "Mythology",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -780,8 +780,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:08:21.1778853+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:08:50.9695974+00:00",
   "LastUpdate_AppInfo": "2023-12-13T18:57:10.2639848+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:59:40.0155865+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:08:21.1779153+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:01:02.5597621+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:08:50.9696378+00:00"
 }

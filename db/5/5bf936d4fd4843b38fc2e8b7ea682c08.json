@@ -2,10 +2,10 @@
   "ID": "5bf936d4fd4843b38fc2e8b7ea682c08",
   "Name": "Below the Stone",
   "ProductSlug": "below-the-stone-2be6fa",
-  "Ranking_EOS_Progress": 808,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-19T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T20:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-24T01:42:24.2160397+00:00",
   "LastUpdate_AppInfo": "2023-12-14T01:44:00.090189+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:58:54.8471018+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:03:37.1215582+00:00"
+  "LastUpdate_Ratings": "2023-12-18T15:59:56.6053766+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:04:22.8153658+00:00"
 }

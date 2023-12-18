@@ -45,9 +45,9 @@
 | Stop Tanos! | 26.00% | ~153 |
 | Sabotage! | 25.00% | ~147 |
 | Brimstone Shaken, Not Stirred | 25.00% | ~147 |
+| Bonus Evilness | 23.00% | ~135 |
 | Raiders of the Lost Stone | 23.00% | ~135 |
 | The Rune Sockets of Finitude (Part 1) | 23.00% | ~135 |
-| Bonus Evilness | 22.00% | ~129 |
 | The Rune Sockets of Finitude (Part 2) | 21.00% | ~123 |
 | The Last Stand - This Time For Real! | 20.00% | ~117 |
 | Rubble and Ashes | 19.00% | ~112 |

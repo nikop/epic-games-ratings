@@ -6,7 +6,7 @@
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 85,
-  "Ranking_EOS_Completed": 381,
+  "Ranking_EOS_Completed": 382,
   "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
@@ -9876,9 +9876,9 @@
       "Count": 1026
     }
   ],
-  "EOS_Progressed": 128306,
+  "EOS_Progressed": 128316,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2172,
+  "EOS_NewPlayers": 2179,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35661,6 +35661,11 @@
       "Time": "2023-12-18T15:08:49.1890992+00:00",
       "NumProgressed": 128306,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T16:09:28.6682916+00:00",
+      "NumProgressed": 128316,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35758,9 +35763,9 @@
       "ID": "altar_of_hope_upgrade_total_full",
       "SetID": "64l4lke",
       "Name": "The World As It Was",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 385
     },
     {
       "ID": "altar_of_hope_upgrade_total_half",
@@ -35848,7 +35853,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "combat_kill_gaunts",
@@ -35864,7 +35869,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -36208,7 +36213,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "combat_kill_collector",
@@ -36256,7 +36261,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -36264,7 +36269,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "quest_complete_crusader",
@@ -36303,21 +36308,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128306,
+      "Progressed": 128316,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3175,
+      "Progressed": 3185,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-18T11:58:57.5808577+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:08:49.1890989+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:09:28.6682911+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:58:21.1958628+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:08:49.1892595+00:00"
+  "LastUpdate_Ratings": "2023-12-18T15:59:07.8463483+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:09:28.6684485+00:00"
 }

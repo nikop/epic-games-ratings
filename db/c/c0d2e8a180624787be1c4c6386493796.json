@@ -3,9 +3,9 @@
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 416,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -750,9 +750,9 @@
       "ID": "KR4_ACHIEVEMENT_BARNY",
       "SetID": "caeik3h",
       "Name": "BUUURP!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "KR4_ACHIEVEMENT_BILBO_DOOR",
@@ -798,9 +798,9 @@
       "ID": "KR4_ACHIEVEMENT_BUILD_TOWERS_EASY",
       "SetID": "caeik3h",
       "Name": "We Can Build It!",
-      "Percentage": 80,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 130
     },
     {
       "ID": "KR4_ACHIEVEMENT_CALL_EARLY_WAVES",
@@ -862,9 +862,9 @@
       "ID": "KR4_ACHIEVEMENT_DWARVES_KINGDOM_FULL",
       "SetID": "caeik3h",
       "Name": "No More Parties In DK",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "KR4_ACHIEVEMENT_ELITEHARASSERS",
@@ -990,9 +990,9 @@
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
       "SetID": "caeik3h",
       "Name": "Glory To The Hypnotoad",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
@@ -1046,9 +1046,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_DWARF_ENGINEERS",
       "SetID": "caeik3h",
       "Name": "Can\u0027t Touch This",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 128
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_EASY",
@@ -1062,9 +1062,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_HARD",
       "SetID": "caeik3h",
       "Name": "No Survivors III",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
@@ -1142,9 +1142,9 @@
       "ID": "KR4_ACHIEVEMENT_MOUSETHON",
       "SetID": "caeik3h",
       "Name": "Mouserthon",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 139
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLAF",
@@ -1294,9 +1294,9 @@
       "ID": "KR4_ACHIEVEMENT_T800",
       "SetID": "caeik3h",
       "Name": "I\u0027ll Be Back",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "KR4_ACHIEVEMENT_THE_GILLMAN",
@@ -1363,8 +1363,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:03:52.6482147+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:04:44.8366124+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.9365218+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:59:54.1974092+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:03:52.6482861+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:01:23.7314183+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:04:44.8366868+00:00"
 }

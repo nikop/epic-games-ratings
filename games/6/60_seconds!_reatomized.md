@@ -1,7 +1,7 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.54 (Ranked 533)  
+Rating: 4.54 (Ranked 532)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -66,8 +66,8 @@ Rating: 4.54 (Ranked 533)
 | Tora! Tora! Tora! | 0.20% | ~12 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,829 (Ranked 190)  
-Completed: 1 (0.02%) (Ranked 349)  
+Progressed: 5,829 (Ranked 191)  
+Completed: 1 (0.02%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

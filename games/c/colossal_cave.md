@@ -25,12 +25,12 @@
 | Who dat? | 8.00% | ~8 |
 | Batteries not Included | 7.00% | ~7 |
 | What a Winner! | 5.00% | ~5 |
+| Colossal Cave Explorer | 4.00% | ~4 |
 | Master Cave Plunderer | 4.00% | ~4 |
-| Colossal Cave Explorer | 3.00% | ~3 |
 | Perfect 350 pt score | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 100 (Ranked 459)  
-Completed: 0 (0.00%) (Ranked 381)  
+Completed: 1 (1.00%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -59,6 +59,7 @@ Completed: 0 (0.00%) (Ranked 381)
 | 2023-11-30 | 98 | 0 |
 | 2023-12-04 | 99 | 0 |
 | 2023-12-09 | 100 | 0 |
+| 2023-12-18 | 100 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

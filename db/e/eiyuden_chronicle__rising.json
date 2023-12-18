@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 751,
+  "EOS_Progressed": 752,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.99,
+  "EOS_Completed_Percentage": 7.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -596,6 +596,11 @@
       "Time": "2023-12-18T14:04:39.0427097+00:00",
       "NumProgressed": 751,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-18T16:05:33.8571449+00:00",
+      "NumProgressed": 752,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -607,7 +612,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -631,7 +636,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -639,7 +644,7 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -695,7 +700,7 @@
       "Name": "The Go-To Girl",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -735,7 +740,7 @@
       "Name": "Adept, for an Acting Mayor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACHIEVEMENT018",
@@ -791,7 +796,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -799,7 +804,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -815,7 +820,7 @@
       "Name": "Natural Born Monster-Killer",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACHIEVEMENT028",
@@ -871,7 +876,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACHIEVEMENT035",
@@ -935,7 +940,7 @@
       "Name": "The Quarry...On Foot!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACHIEVEMENT043",
@@ -943,7 +948,7 @@
       "Name": "The Snowpeak...On Foot!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACHIEVEMENT044",
@@ -951,7 +956,7 @@
       "Name": "The Lava Ruins...On Foot!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACHIEVEMENT045",
@@ -959,7 +964,7 @@
       "Name": "The Runebarrows...On Foot!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACHIEVEMENT046",
@@ -1006,15 +1011,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 751,
+      "Progressed": 752,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:04:27.8796989+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:05:33.8571448+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:14.9591133+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:00:17.9185773+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:04:27.8797272+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:01:58.54166+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:05:33.8571738+00:00"
 }

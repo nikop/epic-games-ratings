@@ -2,10 +2,10 @@
   "ID": "720b4f9b718c4bdba3547b680607c4c0",
   "Name": "Ambulance Life: A Paramedic Simulator",
   "ProductSlug": "ambulance-life-a-paramedic-simulator",
-  "Ranking_EOS_Progress": 808,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-02-01T16:00:00+00:00",
     "PcReleaseDate": "2099-02-01T16:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-14T17:57:09.7089649+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:58:24.4655666+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:08:02.1242503+00:00"
+  "LastUpdate_Ratings": "2023-12-18T15:59:12.8791722+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:08:25.0913138+00:00"
 }

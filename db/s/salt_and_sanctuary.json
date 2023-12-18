@@ -2,13 +2,13 @@
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
-  "Ranking_Rating": 392,
+  "Ranking_Rating": 393,
   "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 34,
-  "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2868,10 +2868,10 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 541215,
-  "EOS_Completed": 1646,
-  "EOS_NewPlayers": 694,
-  "EOS_NewCompleters": 5,
+  "EOS_Progressed": 541216,
+  "EOS_Completed": 1648,
+  "EOS_NewPlayers": 692,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -29623,6 +29623,11 @@
       "Time": "2023-12-18T15:04:40.9137609+00:00",
       "NumProgressed": 541215,
       "NumCompleted": 1646
+    },
+    {
+      "Time": "2023-12-18T16:05:52.0742415+00:00",
+      "NumProgressed": 541216,
+      "NumCompleted": 1648
     }
   ],
   "TotalAchievements": 37,
@@ -29690,7 +29695,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 449208
+      "UsersEstimate": 449209
     },
     {
       "ID": "HONED",
@@ -29929,15 +29934,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 541215,
-      "Completed": 1646
+      "Progressed": 541216,
+      "Completed": 1648
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-12-17T11:59:11.0107157+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:04:40.9137608+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:05:52.0742412+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.3607432+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:59:02.2306478+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:04:40.9138713+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:00:07.1401317+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:05:52.0744038+00:00"
 }

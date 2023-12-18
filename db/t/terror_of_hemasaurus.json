@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 470,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -330,9 +330,9 @@
       "ID": "ACH_100_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Brain Chopper",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_100_STAGES_ENDLESS",
@@ -410,9 +410,9 @@
       "ID": "ACH_25_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Chopper Stopper",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_40_STAGES_ENDLESS",
@@ -442,9 +442,9 @@
       "ID": "ACH_50_CHOPPER_BLADES",
       "SetID": "aio76gp",
       "Name": "Aerosolized",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_50_MILITARY_CARS",
@@ -563,8 +563,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:05:45.5279669+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:07:21.2247864+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:25.6506261+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:58:11.8137895+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:05:45.5279801+00:00"
+  "LastUpdate_Ratings": "2023-12-18T15:58:54.1486633+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:07:21.2248018+00:00"
 }

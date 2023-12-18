@@ -2,10 +2,10 @@
   "ID": "c3ee706f06354a7ca940a71fc28aa887",
   "Name": "Tents and Trees",
   "ProductSlug": "tents-and-trees-7e66fd",
-  "Ranking_EOS_Progress": 808,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-12T19:56:59.0743439+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:02:46.1384603+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:07:59.540506+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:03:09.3037192+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:08:21.7235965+00:00"
 }

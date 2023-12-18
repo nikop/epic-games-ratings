@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 87.00% | ~54 |
+| Home Sweet Home | 89.00% | ~55 |
+| First to the post | 85.00% | ~53 |
 | Enough rooms to swing a cat | 84.00% | ~52 |
-| First to the post | 84.00% | ~52 |
 | A kind of Magic | 77.00% | ~48 |
 | Connected | 69.00% | ~43 |
 | Expansion | 68.00% | ~42 |
@@ -76,7 +76,7 @@
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 62 (Ranked 504)  
-Completed: 0 (0.00%) (Ranked 381)  
+Completed: 0 (0.00%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

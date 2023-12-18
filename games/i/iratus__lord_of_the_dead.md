@@ -6,84 +6,84 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~40,140 |
-| Blood Moon | 73.00% | ~34,474 |
-| Path of the Necromancer | 65.00% | ~30,696 |
-| Chainbreaker - I | 60.00% | ~28,334 |
-| Cursed Creature | 57.00% | ~26,918 |
-| Extraction | 57.00% | ~26,918 |
-| Chainbreaker - II | 55.00% | ~25,973 |
-| Necromancer's Apprentice | 50.00% | ~23,612 |
-| Keeper of Keys | 47.00% | ~22,195 |
-| Distillation | 43.00% | ~20,306 |
-| Transmutation | 42.00% | ~19,834 |
-| Mountain King - I | 41.00% | ~19,362 |
-| Prepared Necromancer | 40.00% | ~18,890 |
-| Mountain King - II | 39.00% | ~18,417 |
-| Blind Rage | 38.00% | ~17,945 |
-| Mad Genius | 35.00% | ~16,528 |
-| Cannon Fodder - I | 34.00% | ~16,056 |
-| Soul of Lies | 34.00% | ~16,056 |
-| Bane of Mercenaries - I | 32.00% | ~15,112 |
-| Bane of Mercenaries - II | 31.00% | ~14,639 |
-| Cannon Fodder - II | 29.00% | ~13,695 |
-| Shadow Between Worlds | 29.00% | ~13,695 |
-| Bane of Monsters | 28.00% | ~13,223 |
-| Chainbreaker - III | 28.00% | ~13,223 |
-| Revealed Secrets - I | 26.00% | ~12,278 |
-| Revealed Secrets - II | 25.00% | ~11,806 |
-| Blood Elemental | 24.00% | ~11,334 |
-| Unholy Bones | 23.00% | ~10,862 |
-| Lord of Fire | 23.00% | ~10,862 |
-| Uncommon Warrior | 23.00% | ~10,862 |
-| Cannon Fodder - III | 22.00% | ~10,389 |
-| Spiritual Attraction | 22.00% | ~10,389 |
-| Nightmare of the Humanity - I | 22.00% | ~10,389 |
-| Nightmare of the Humanity - II | 21.00% | ~9,917 |
-| That Was Easy! | 20.00% | ~9,445 |
-| Silent Waters | 20.00% | ~9,445 |
-| Head of Order | 20.00% | ~9,445 |
-| Calcination | 19.00% | ~8,973 |
-| Blood Mage | 17.00% | ~8,028 |
-| Wild Hunger | 16.00% | ~7,556 |
-| Rage Concentrated | 16.00% | ~7,556 |
+| Improvement | 85.00% | ~40,146 |
+| Blood Moon | 73.00% | ~34,478 |
+| Path of the Necromancer | 65.00% | ~30,700 |
+| Chainbreaker - I | 60.00% | ~28,338 |
+| Cursed Creature | 57.00% | ~26,921 |
+| Extraction | 57.00% | ~26,921 |
+| Chainbreaker - II | 55.00% | ~25,977 |
+| Necromancer's Apprentice | 50.00% | ~23,615 |
+| Keeper of Keys | 47.00% | ~22,198 |
+| Distillation | 43.00% | ~20,309 |
+| Transmutation | 42.00% | ~19,837 |
+| Mountain King - I | 41.00% | ~19,364 |
+| Prepared Necromancer | 40.00% | ~18,892 |
+| Mountain King - II | 39.00% | ~18,420 |
+| Blind Rage | 38.00% | ~17,947 |
+| Mad Genius | 35.00% | ~16,530 |
+| Cannon Fodder - I | 34.00% | ~16,058 |
+| Soul of Lies | 34.00% | ~16,058 |
+| Bane of Mercenaries - I | 32.00% | ~15,114 |
+| Bane of Mercenaries - II | 31.00% | ~14,641 |
+| Cannon Fodder - II | 29.00% | ~13,697 |
+| Shadow Between Worlds | 29.00% | ~13,697 |
+| Bane of Monsters | 28.00% | ~13,224 |
+| Chainbreaker - III | 28.00% | ~13,224 |
+| Revealed Secrets - I | 26.00% | ~12,280 |
+| Revealed Secrets - II | 25.00% | ~11,808 |
+| Blood Elemental | 24.00% | ~11,335 |
+| Unholy Bones | 23.00% | ~10,863 |
+| Lord of Fire | 23.00% | ~10,863 |
+| Uncommon Warrior | 23.00% | ~10,863 |
+| Cannon Fodder - III | 22.00% | ~10,391 |
+| Spiritual Attraction | 22.00% | ~10,391 |
+| Nightmare of the Humanity - I | 22.00% | ~10,391 |
+| Nightmare of the Humanity - II | 21.00% | ~9,918 |
+| That Was Easy! | 20.00% | ~9,446 |
+| Silent Waters | 20.00% | ~9,446 |
+| Head of Order | 20.00% | ~9,446 |
+| Calcination | 19.00% | ~8,974 |
+| Blood Mage | 17.00% | ~8,029 |
+| Wild Hunger | 16.00% | ~7,557 |
+| Rage Concentrated | 16.00% | ~7,557 |
 | Mountain King - III | 15.00% | ~7,084 |
 | Rare Warrior | 15.00% | ~7,084 |
-| Grand Arena | 14.00% | ~6,611 |
-| Blood Madness | 13.00% | ~6,139 |
-| First Sacrifice | 13.00% | ~6,139 |
-| Master of Alchemy | 13.00% | ~6,139 |
-| Legendary Warrior | 12.00% | ~5,667 |
-| Bane of Mercenaries - III | 10.00% | ~4,722 |
-| Monument to Greatness | 10.00% | ~4,722 |
-| Ancient Burial | 10.00% | ~4,722 |
-| More Mortal Suffering! | 9.00% | ~4,250 |
-| Forbidden Knowledge | 9.00% | ~4,250 |
-| Live Operation | 9.00% | ~4,250 |
+| Grand Arena | 14.00% | ~6,612 |
+| Blood Madness | 13.00% | ~6,140 |
+| First Sacrifice | 13.00% | ~6,140 |
+| Master of Alchemy | 13.00% | ~6,140 |
+| Legendary Warrior | 12.00% | ~5,668 |
+| Bane of Mercenaries - III | 10.00% | ~4,723 |
+| Monument to Greatness | 10.00% | ~4,723 |
+| Ancient Burial | 10.00% | ~4,723 |
+| More Mortal Suffering! | 9.00% | ~4,251 |
+| Forbidden Knowledge | 9.00% | ~4,251 |
+| Live Operation | 9.00% | ~4,251 |
 | Master of Rage | 8.00% | ~3,778 |
 | Icy Incursion | 8.00% | ~3,778 |
 | Arachnophobia | 8.00% | ~3,778 |
 | Revealed Secrets - III | 8.00% | ~3,778 |
 | Nightmare of the Humanity - III | 7.00% | ~3,306 |
-| Means of Recovery | 6.00% | ~2,833 |
-| Master of Magic | 6.00% | ~2,833 |
+| Means of Recovery | 6.00% | ~2,834 |
+| Master of Magic | 6.00% | ~2,834 |
 | Master of Destruction | 4.00% | ~1,889 |
 | Dungeon Queen | 3.00% | ~1,417 |
 | Mek Brothers | 3.00% | ~1,417 |
 | The Hunter Becomes... | 3.00% | ~1,417 |
-| Evil Always Wins! | 2.00% | ~944 |
-| Graveyard Call - I | 2.00% | ~944 |
-| Graveyard Call - II | 2.00% | ~944 |
-| Sweet Revenge | 2.00% | ~944 |
-| Experimenter | 2.00% | ~944 |
+| Evil Always Wins! | 2.00% | ~945 |
+| Graveyard Call - I | 2.00% | ~945 |
+| Graveyard Call - II | 2.00% | ~945 |
+| Sweet Revenge | 2.00% | ~945 |
+| Experimenter | 2.00% | ~945 |
 | Graveyard Call - III | 0.90% | ~425 |
 | I'll Be Back! | 0.80% | ~378 |
 | Doctorate in Potion Brewing | 0.70% | ~331 |
 | Unrivaled | 0.60% | ~283 |
 | Renowned Researcher | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,224 (Ranked 118)  
-Completed: 26 (0.06%) (Ranked 322)  
+Progressed: 47,230 (Ranked 118)  
+Completed: 26 (0.06%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -324,7 +324,7 @@ Completed: 26 (0.06%) (Ranked 322)
 | 2023-12-15 | 47,028 | 26 |
 | 2023-12-16 | 47,094 | 26 |
 | 2023-12-17 | 47,191 | 26 |
-| 2023-12-18 | 47,224 | 26 |
+| 2023-12-18 | 47,230 | 26 |
 ## Awards
 Max (Character Customization): 2,163  (Ranked 111)  
 Sum: 4,216 (Ranked 154)  

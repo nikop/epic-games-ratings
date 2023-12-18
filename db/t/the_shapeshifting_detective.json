@@ -2,9 +2,9 @@
   "ID": "7509a5c8feb744ae866d9e3326d52d3b",
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
-  "Ranking_EOS_Progress": 380,
-  "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_Progress": 379,
+  "Ranking_EOS_Completed": 166,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 269,
+  "EOS_Progressed": 271,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.12,
+  "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:57.7196507+00:00",
@@ -600,6 +600,11 @@
       "Time": "2023-12-18T10:08:37.0640103+00:00",
       "NumProgressed": 269,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T16:08:37.9275145+00:00",
+      "NumProgressed": 271,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -611,7 +616,7 @@
       "Name": "A Woman Scorned",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "book_em_danny",
@@ -635,7 +640,7 @@
       "Name": "Chameleon",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "chicken",
@@ -651,7 +656,7 @@
       "Name": "Hashtag Winning",
       "Percentage": 38,
       "XP": 90,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "heavy_rayne",
@@ -667,15 +672,15 @@
       "Name": "Highlander",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "look_mum_im_a_detective",
       "SetID": "2db2j74",
       "Name": "Look Mum I\u0027m A Detective",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 59
+      "UsersEstimate": 57
     },
     {
       "ID": "oscar_winning_performance",
@@ -691,7 +696,7 @@
       "Name": "Patient Listener",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "play_it_again_sam",
@@ -699,7 +704,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 244
     },
     {
       "ID": "play_me_by_the_hour",
@@ -707,7 +712,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "poetent",
@@ -731,7 +736,7 @@
       "Name": "Show Me Some Skin",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "strong_silent_type",
@@ -739,7 +744,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 244
     },
     {
       "ID": "the_big_sleep",
@@ -747,7 +752,7 @@
       "Name": "The Big Sleep",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "video_saved_the_radio_star",
@@ -755,7 +760,7 @@
       "Name": "Video Saved The Radio Star",
       "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "voyeur",
@@ -778,7 +783,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 269,
+      "Progressed": 271,
       "Completed": 3
     }
   ],
@@ -786,8 +791,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:08:11.0967887+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:08:37.9275142+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.0210156+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:02:54.1572338+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:08:11.0968094+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:03:20.6184947+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:08:37.9275287+00:00"
 }

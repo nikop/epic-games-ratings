@@ -13,10 +13,10 @@ Number of Ratings: 371  (23.09.2022)
 | An Ill Omen | 9.00% | ~311 |
 | Blood for the Blood God! | 7.00% | ~242 |
 | Purging Spree | 7.00% | ~242 |
-| Bloodless | 6.00% | ~207 |
+| Bloodless | 6.00% | ~208 |
+| Friendly Fire | 5.00% | ~173 |
 | Honoured Battle-Brother | 4.00% | ~138 |
 | Surgical Excision | 4.00% | ~138 |
-| Friendly Fire | 4.00% | ~138 |
 | The Emperor Protects | 4.00% | ~138 |
 | A Foul Creche | 4.00% | ~138 |
 | Nemesis Master | 3.00% | ~104 |
@@ -27,6 +27,7 @@ Number of Ratings: 371  (23.09.2022)
 | Corruption Cleanser | 2.00% | ~69 |
 | Efficient Killer | 2.00% | ~69 |
 | A Gift Spurned | 2.00% | ~69 |
+| Execution Force | 2.00% | ~69 |
 | Hive Exterminator | 2.00% | ~69 |
 | Fleetmaster | 1.00% | ~35 |
 | Exterminator | 1.00% | ~35 |
@@ -36,7 +37,6 @@ Number of Ratings: 371  (23.09.2022)
 | Junk Banishment | 1.00% | ~35 |
 | Long Distance Call | 1.00% | ~35 |
 | Tactical Flexibility | 1.00% | ~35 |
-| Execution Force | 1.00% | ~35 |
 | Tactical Sabotage | 1.00% | ~35 |
 | For the Machine God | 0.90% | ~31 |
 | Death Comes For All | 0.90% | ~31 |
@@ -75,8 +75,8 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,456 (Ranked 214)  
-Completed: 0 (0.00%) (Ranked 381)  
+Progressed: 3,459 (Ranked 214)  
+Completed: 0 (0.00%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -286,11 +286,11 @@ Completed: 0 (0.00%) (Ranked 381)
 | 2023-12-15 | 3,402 | 0 |
 | 2023-12-16 | 3,433 | 0 |
 | 2023-12-17 | 3,449 | 0 |
-| 2023-12-18 | 3,456 | 0 |
+| 2023-12-18 | 3,459 | 0 |
 ## Awards
 Max (Character Customization): 229  (Ranked 278)  
-Sum: 490 (Ranked 332)  
-Diff (max vs sum): -54  
+Sum: 490 (Ranked 333)  
+Diff (max vs sum): -55  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 229 |

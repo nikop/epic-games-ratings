@@ -4,11 +4,11 @@
   "ProductSlug": "this-war-of-mine",
   "Ranking_Rating": 162,
   "Ranking_Popularity": 385,
-  "Ranking_PopularitySum": 297,
-  "Ranking_EOS_Progress": 808,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_PopularitySum": 298,
+  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2014-11-14T15:00:00+00:00",
     "PcReleaseDate": "2014-11-14T15:00:00+00:00",
@@ -1711,10 +1711,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 711,
       "NumberOfAwardsMax": 90
+    },
+    {
+      "Time": "2023-12-18T16:00:02.1542402+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 712,
+      "NumberOfAwardsMax": 90
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 711,
+  "NumberOfAwards": 712,
   "NumberOfAwardsMax": 90,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1746,7 +1752,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 71
+      "Count": 72
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1798,9 +1804,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:40.68032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.8551694+00:00",
-  "LastChanged": "2023-12-17T15:58:22.5906706+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:06:17.8534339+00:00",
+  "LastChanged": "2023-12-18T16:00:02.15424+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:08:06.8227694+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:34.9513161+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:58:58.5952726+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:06:17.8534356+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:00:02.1542407+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:08:06.8227738+00:00"
 }

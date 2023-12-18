@@ -35,8 +35,8 @@ Rating: 3.56 (Ranked 1,061)
 | Helping Hand | 1.00% | ~19 |
 | Contingency Plans | 0.90% | ~17 |
 | You Clean It Up | 0.90% | ~17 |
+| Nice Try | 0.90% | ~17 |
 | Check, Please! | 0.80% | ~15 |
-| Nice Try | 0.80% | ~15 |
 | Blacklight Down | 0.80% | ~15 |
 | Revelations | 0.60% | ~12 |
 | Block Party | 0.60% | ~12 |
@@ -73,7 +73,7 @@ Rating: 3.56 (Ranked 1,061)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,921 (Ranked 235)  
-Completed: 0 (0.00%) (Ranked 381)  
+Completed: 0 (0.00%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

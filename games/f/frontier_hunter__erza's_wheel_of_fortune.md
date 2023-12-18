@@ -8,7 +8,7 @@
 | Training Simulation | 78.00% | ~493 |
 | Kuku Bird Hunter | 65.00% | ~411 |
 | Storm Traveller | 60.00% | ~379 |
-| Wolf King Killer | 54.00% | ~341 |
+| Wolf King Killer | 55.00% | ~348 |
 | Fashion Connoisseur | 52.00% | ~329 |
 | Arms Mechanic | 48.00% | ~303 |
 | Flower Thief | 44.00% | ~278 |
@@ -51,7 +51,7 @@
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 632 (Ranked 308)  
-Completed: 1 (0.16%) (Ranked 279)  
+Completed: 1 (0.16%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "fedf1e38d23f4652894f73bc4c28122d",
   "Name": "Star\u2605Vaders",
   "ProductSlug": "starvaders-f96a21",
-  "Ranking_EOS_Progress": 808,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-17T01:49:48.4622812+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:02:44.999075+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:03:39.9444324+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:03:07.6376224+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:04:26.9972456+00:00"
 }

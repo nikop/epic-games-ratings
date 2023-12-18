@@ -6,9 +6,9 @@
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 66,
-  "Ranking_EOS_Completed": 290,
+  "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3694,9 +3694,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241250,
+  "EOS_Progressed": 241251,
   "EOS_Completed": 299,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -28649,6 +28649,11 @@
       "Time": "2023-12-18T15:09:42.4628818+00:00",
       "NumProgressed": 241250,
       "NumCompleted": 299
+    },
+    {
+      "Time": "2023-12-18T16:10:40.7661772+00:00",
+      "NumProgressed": 241251,
+      "NumCompleted": 299
     }
   ],
   "TotalAchievements": 138,
@@ -28668,7 +28673,7 @@
       "Name": "Achievement Hunter",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ATTACKOWL",
@@ -28732,7 +28737,7 @@
       "Name": "Challenge Increases",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "DEAL25DAMAGE",
@@ -28764,7 +28769,7 @@
       "Name": "A Long Climb",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "DEPTH12MEDIUM",
@@ -28828,7 +28833,7 @@
       "Name": "New Game\u002B",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "DIEIN30SEC",
@@ -28900,7 +28905,7 @@
       "Name": "Barbecue",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "FIREBREEDEXPLOSION",
@@ -28948,7 +28953,7 @@
       "Name": "Grave Digger",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "HAVE2000SOULS",
@@ -28956,7 +28961,7 @@
       "Name": "Soul Stash",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "HEAL50POTION",
@@ -28996,7 +29001,7 @@
       "Name": "Juggernaut",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "HIGHHEALTH",
@@ -29004,7 +29009,7 @@
       "Name": "Gigantic",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "HIGHSCORE",
@@ -29052,7 +29057,7 @@
       "Name": "Become The Nightmare",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "KILL100",
@@ -29084,7 +29089,7 @@
       "Name": "Clearing The Room",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "KILL20TYPES",
@@ -29228,7 +29233,7 @@
       "Name": "Path To Enlightenment",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "LOTSOFHATS",
@@ -29300,7 +29305,7 @@
       "Name": "Just Looking Around",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "PASSIVEROOM",
@@ -29372,7 +29377,7 @@
       "Name": "Decisions, Decisions",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "SHRINETO1",
@@ -29380,7 +29385,7 @@
       "Name": "Fragile Mortality",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "SHUFFLE10TIMES",
@@ -29452,7 +29457,7 @@
       "Name": "Fire Away!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "TRANSFORM20TIMES",
@@ -29468,7 +29473,7 @@
       "Name": "Defuser",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "USESHRINE",
@@ -29516,7 +29521,7 @@
       "Name": "Obsessed",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "WIN5MAXHEALTH",
@@ -29604,7 +29609,7 @@
       "Name": "Sentimental Value",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "WINWITHNOARMOR",
@@ -29620,7 +29625,7 @@
       "Name": "Precious",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "WINWITHSPOON",
@@ -29763,13 +29768,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241250,
+      "Progressed": 241251,
       "Completed": 299
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2730,
+      "Progressed": 2731,
       "Completed": 406
     }
   ],
@@ -29777,8 +29782,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-17T13:00:27.9873686+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:09:42.4628816+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:10:40.766177+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.1397919+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:58:09.7181498+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:09:42.4631189+00:00"
+  "LastUpdate_Ratings": "2023-12-18T15:58:51.0436195+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:10:40.7664238+00:00"
 }

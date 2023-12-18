@@ -1,7 +1,7 @@
 # Tales of the Neon Sea
 [Store](https://store.epicgames.com/en-US/p/tales-of-the-neon-sea)  
 [View Rawdata](../../db/t/tales_of_the_neon_sea.json)  
-Rating: 4.55 (Ranked 512)  
+Rating: 4.54 (Ranked 532)  
 Number of Ratings: 251  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -82,3 +82,4 @@ Number of Ratings: 251  (23.09.2022)
 | 2023-10-20 | 4.55 | - | 0 | 0 |
 | 2023-11-18 | 4.54 | - | 0 | 0 |
 | 2023-12-07 | 4.55 | - | 0 | 0 |
+| 2023-12-18 | 4.54 | - | 0 | 0 |

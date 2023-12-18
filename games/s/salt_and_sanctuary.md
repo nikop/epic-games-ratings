@@ -1,12 +1,12 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 392)  
+Rating: 4.61 (Ranked 393)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~449,208 |
+| Find Sanctuary | 83.00% | ~449,209 |
 | The Three | 64.00% | ~346,378 |
 | The Banquet | 40.00% | ~216,486 |
 | Devara's Light | 31.00% | ~167,777 |
@@ -44,8 +44,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,824 |
 | Fading Fast | 1.00% | ~5,412 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 541,215 (Ranked 34)  
-Completed: 1,646 (0.30%) (Ranked 246)  
+Progressed: 541,216 (Ranked 34)  
+Completed: 1,648 (0.30%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -286,7 +286,7 @@ Completed: 1,646 (0.30%) (Ranked 246)
 | 2023-12-15 | 540,878 | 1,643 |
 | 2023-12-16 | 541,020 | 1,644 |
 | 2023-12-17 | 541,146 | 1,646 |
-| 2023-12-18 | 541,215 | 1,646 |
+| 2023-12-18 | 541,216 | 1,648 |
 ## Awards
 Max (Challenging Combat): 294  (Ranked 257)  
 Sum: 2,011 (Ranked 215)  

@@ -6,18 +6,18 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 70.00% | ~81 |
-| Mash Machine | 64.00% | ~74 |
-| Ducks in a Row, Fish in a Barrel | 38.00% | ~44 |
-| Furon Fashion | 35.00% | ~41 |
-| Shop Til They Drop | 28.00% | ~32 |
-| Earthly Pleasures | 27.00% | ~31 |
-| Bodied Sattva | 22.00% | ~26 |
-| Cult Following | 20.00% | ~23 |
+| Rock of the Bay | 70.00% | ~83 |
+| Mash Machine | 64.00% | ~76 |
+| Furon Fashion | 37.00% | ~44 |
+| Ducks in a Row, Fish in a Barrel | 37.00% | ~44 |
+| Earthly Pleasures | 28.00% | ~33 |
+| Shop Til They Drop | 28.00% | ~33 |
+| Bodied Sattva | 23.00% | ~27 |
+| Cult Following | 20.00% | ~24 |
 | Upgreatest | 18.00% | ~21 |
 | Lie Back and Think of Albion | 17.00% | ~20 |
-| I Look Up As I Walk to Takoshima | 16.00% | ~19 |
-| Pimp My Raid | 16.00% | ~19 |
+| Pimp My Raid | 17.00% | ~20 |
+| I Look Up As I Walk to Takoshima | 15.00% | ~18 |
 | Perfect Probulator | 12.00% | ~14 |
 | Freshly Squeezed | 12.00% | ~14 |
 | Die Nasty | 10.00% | ~12 |
@@ -26,16 +26,16 @@ Number of Ratings: 90  (23.09.2022)
 | Transmitting From Sol-3 | 6.00% | ~7 |
 | Fly Me to the Moon Base | 4.00% | ~5 |
 | Kaijuiced | 4.00% | ~5 |
-| Lobster Blisque | 3.00% | ~3 |
-| Scuttled | 3.00% | ~3 |
+| Lobster Blisque | 3.00% | ~4 |
+| Scuttled | 3.00% | ~4 |
 | Deincarnated | 2.00% | ~2 |
 | Yettisoned | 2.00% | ~2 |
 | Re-Return of the Clone of the Invasion II-2 | 2.00% | ~2 |
 | Arkvoodle Doodle | 2.00% | ~2 |
-| Ultimate Smoothie | 0.90% | ~1 |
-| Arty Facts | 0.90% | ~1 |
-| Forbidden Donut | 0.90% | ~1 |
-| The Optional Mandate | 0.90% | ~1 |
+| Ultimate Smoothie | 0.80% | ~1 |
+| Arty Facts | 0.80% | ~1 |
+| Forbidden Donut | 0.80% | ~1 |
+| The Optional Mandate | 0.80% | ~1 |
 | PK Slam Dunk | 0.00% | ~0 |
 | Gotta Catch All the Pop Art | 0.00% | ~0 |
 | This Is Earth Radio | 0.00% | ~0 |
@@ -51,8 +51,8 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 450)  
-Completed: 0 (0.00%) (Ranked 381)  
+Progressed: 118 (Ranked 446)  
+Completed: 0 (0.00%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 381)
 | 2023-12-15 | 75 | 0 |
 | 2023-12-16 | 92 | 0 |
 | 2023-12-17 | 103 | 0 |
-| 2023-12-18 | 116 | 0 |
+| 2023-12-18 | 118 | 0 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 480)  
 Sum: 36 (Ranked 513)  

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 186,
-  "Ranking_EOS_Completed": 381,
+  "Ranking_EOS_Completed": 382,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -979,9 +979,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7182,
+  "EOS_Progressed": 7186,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11514,6 +11514,11 @@
       "Time": "2023-12-18T15:05:22.1068155+00:00",
       "NumProgressed": 7182,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T16:06:48.6228872+00:00",
+      "NumProgressed": 7186,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11525,7 +11530,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -11557,7 +11562,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -11629,15 +11634,15 @@
       "Name": "Goldfish?",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHIEVEMENT_015",
       "SetID": "1a05lfd",
       "Name": "Going for Gold",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 144
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -11844,13 +11849,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7182,
+      "Progressed": 7186,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6554,
+      "Progressed": 6558,
       "Completed": 113
     }
   ],
@@ -11858,8 +11863,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-17T22:59:54.6292429+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:05:22.1068152+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:06:48.6228869+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:59:13.4993208+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:05:22.1068723+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:00:23.4274144+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:06:48.6229656+00:00"
 }

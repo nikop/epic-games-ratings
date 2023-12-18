@@ -2,10 +2,10 @@
   "ID": "93526c99c8d14d708b0c858e55b1aea1",
   "Name": "Jack Move",
   "ProductSlug": "jack-move-8f3b25",
-  "Ranking_EOS_Progress": 808,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-08T17:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:37.7826925+00:00",
   "LastChanged": "2023-03-31T05:57:37.7826926+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:07.0089986+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:58:40.9844318+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:05:41.8585982+00:00"
+  "LastUpdate_Ratings": "2023-12-18T15:59:35.6739334+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:07:16.1481344+00:00"
 }

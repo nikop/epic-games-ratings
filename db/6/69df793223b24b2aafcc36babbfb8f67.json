@@ -2,10 +2,10 @@
   "ID": "69df793223b24b2aafcc36babbfb8f67",
   "Name": "Kingdom Karnage",
   "ProductSlug": "kingdom-karnage-0c5e0a",
-  "Ranking_EOS_Progress": 808,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2020-08-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-14T02:18:56.2006677+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:02:53.4320438+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:05:15.2808378+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:03:19.4151215+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:06:39.359835+00:00"
 }

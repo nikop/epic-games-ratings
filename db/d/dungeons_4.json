@@ -1961,9 +1961,9 @@
       "ID": "ach_main13tanos_evilbosses",
       "SetID": "4hg22ll",
       "Name": "Bonus Evilness",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 135
     },
     {
       "ID": "ach_main14run_completed",
@@ -2144,8 +2144,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-18T15:08:03.3462864+00:00",
+  "LastChanged_Achievements": "2023-12-18T16:08:26.9094446+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.5802782+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:58:55.5547267+00:00",
-  "LastUpdate_Achievements": "2023-12-18T15:08:03.3463262+00:00"
+  "LastUpdate_Ratings": "2023-12-18T15:59:57.7309463+00:00",
+  "LastUpdate_Achievements": "2023-12-18T16:08:26.9095161+00:00"
 }

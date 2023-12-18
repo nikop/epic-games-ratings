@@ -11,7 +11,7 @@
 | Sanctuary Guardian | 52.00% | ~95 |
 | Endless Tricks | 51.00% | ~93 |
 | Wild's Keeper | 46.00% | ~84 |
-| Mind Illuminator | 43.00% | ~78 |
+| Mind Illuminator | 44.00% | ~80 |
 | Stellar Dismantler | 36.00% | ~66 |
 | Noctuan Champion | 35.00% | ~64 |
 | Anomaly Destroyer | 31.00% | ~56 |
@@ -38,8 +38,8 @@
 | Can't touch this | 6.00% | ~11 |
 | Apian Hero | 6.00% | ~11 |
 | Anomaly Control | 5.00% | ~9 |
+| Denying Destiny | 5.00% | ~9 |
 | The Dark Moon | 5.00% | ~9 |
-| Denying Destiny | 4.00% | ~7 |
 | Prestidigitation | 4.00% | ~7 |
 | Purification Avatar | 4.00% | ~7 |
 | The Chaos Artisan | 4.00% | ~7 |
@@ -104,7 +104,7 @@
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 182 (Ranked 403)  
-Completed: 0 (0.00%) (Ranked 381)  
+Completed: 0 (0.00%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
