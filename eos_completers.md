@@ -74,7 +74,7 @@
 | 71 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 5.88% |
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 74 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 5.46% |
-| 75 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.31% |
+| 75 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.30% |
 | 76 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.13% |
 | 77 | [Bugsnax](games/b/bugsnax.md) | 4.86% |
 | 78 | [JARS](games/j/jars.md) | 4.81% |
@@ -87,12 +87,12 @@
 | 83 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 86 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.33% |
 | 87 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.26% |
-| 88 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
-| 89 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.23% |
+| 88 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.23% |
+| 88 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.23% |
 | 90 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.20% |
 | 91 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 4.17% |
 | 92 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.03% |
-| 93 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.95% |
+| 93 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.92% |
 | 94 | [The Bunker](games/t/the_bunker.md) | 3.90% |
 | 95 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 3.70% |
 | 95 | [Time on Frog Island](games/t/time_on_frog_island.md) | 3.70% |
@@ -152,7 +152,7 @@
 | 150 | [Chorus](games/c/chorus.md) | 1.36% |
 | 151 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.31% |
 | 152 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
-| 152 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.30% |
+| 153 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.29% |
 | 154 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.28% |
 | 155 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.22% |
 | 155 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.22% |
@@ -163,9 +163,9 @@
 | 161 | [Late Shift](games/l/late_shift.md) | 1.16% |
 | 161 | [Lemon Cake](games/l/lemon_cake.md) | 1.16% |
 | 163 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.14% |
-| 164 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.13% |
-| 165 | [Ten Dates](games/t/ten_dates.md) | 1.12% |
-| 165 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
+| 164 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.12% |
+| 164 | [Ten Dates](games/t/ten_dates.md) | 1.12% |
+| 164 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
 | 167 | [Adios](games/a/adios.md) | 1.09% |
 | 168 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
 | 169 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
@@ -224,12 +224,12 @@
 | 222 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.42% |
 | 222 | [Tchia](games/t/tchia.md) | 0.42% |
 | 224 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.40% |
-| 224 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.40% |
 | 224 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
 | 224 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.40% |
-| 228 | [Wildermyth](games/w/wildermyth.md) | 0.39% |
-| 229 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
-| 229 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
+| 227 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.39% |
+| 227 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.39% |
+| 227 | [Wildermyth](games/w/wildermyth.md) | 0.39% |
+| 230 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 231 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.37% |
 | 232 | [Eternights](games/e/eternights.md) | 0.36% |
 | 232 | [The Surge](games/t/the_surge.md) | 0.36% |

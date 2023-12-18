@@ -268,7 +268,7 @@
 | 261 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 565 |
 | 261 | [Coromon](games/c/coromon.md) | 4.68 | 43 | 460 |
 | 261 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,763 | 50 |
-| 261 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,092 | 85 |
+| 261 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,098 | 85 |
 | 261 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 762 | 180 |
 | 261 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.68 | 5,834 | 66 |
 | 261 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 319,196 | 3 |
@@ -569,7 +569,7 @@
 | 566 | [Everything](games/e/everything.md) | 4.52 | 0 | 565 |
 | 566 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 565 |
 | 566 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 107 | 359 |
-| 566 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 130 | 336 |
+| 566 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 130 | 337 |
 | 566 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 202 | 294 |
 | 566 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 565 |
 | 566 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.52 | 0 | 565 |
@@ -608,7 +608,7 @@
 | 599 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.50 | 0 | 565 |
 | 599 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.50 | 0 | 565 |
 | 599 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 324 | 251 |
-| 599 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 3,166 | 97 |
+| 599 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 3,171 | 97 |
 | 599 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 565 |
 | 599 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 565 |
 | 599 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 657 | 191 |
@@ -797,7 +797,7 @@
 | 790 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 27 | 520 |
 | 790 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.36 | 226 | 280 |
 | 790 | [The Riflemen](games/t/the_riflemen.md) | 4.36 | 0 | 565 |
-| 790 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 130 | 336 |
+| 790 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 131 | 335 |
 | 790 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.36 | 32 | 500 |
 | 800 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 565 |
 | 800 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 565 |
@@ -930,7 +930,7 @@
 | 920 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.21 | 70 | 409 |
 | 920 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 396 |
 | 930 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 127 | 340 |
-| 930 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 130 | 336 |
+| 930 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 130 | 337 |
 | 930 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.20 | 39 | 467 |
 | 930 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 565 |
 | 930 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.20 | 34 | 488 |
@@ -1040,18 +1040,18 @@
 | 1,037 | [Warface: Clutch](games/w/warface.md) | 3.90 | 464 | 221 |
 | 1,039 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 34 | 488 |
 | 1,040 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 3.88 | 0 | 565 |
+| 1,041 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 3.86 | 0 | 565 |
 | 1,041 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 565 |
 | 1,041 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.86 | 0 | 565 |
-| 1,043 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 565 |
-| 1,044 | [Poker Club](games/p/poker_club.md) | 3.83 | 63 | 417 |
-| 1,044 | [Potion Permit](games/p/potion_permit.md) | 3.83 | 69 | 411 |
-| 1,044 | [To The Rescue](games/t/to_the_rescue.md) | 3.83 | 0 | 565 |
-| 1,047 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.82 | 0 | 565 |
-| 1,047 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.82 | 0 | 565 |
-| 1,047 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.82 | 95 | 379 |
-| 1,047 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 565 |
-| 1,051 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 3.81 | 0 | 565 |
-| 1,051 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 0 | 565 |
+| 1,044 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 565 |
+| 1,045 | [Poker Club](games/p/poker_club.md) | 3.83 | 63 | 417 |
+| 1,045 | [Potion Permit](games/p/potion_permit.md) | 3.83 | 69 | 411 |
+| 1,045 | [To The Rescue](games/t/to_the_rescue.md) | 3.83 | 0 | 565 |
+| 1,048 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.82 | 0 | 565 |
+| 1,048 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.82 | 0 | 565 |
+| 1,048 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.82 | 95 | 379 |
+| 1,048 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 565 |
+| 1,052 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 0 | 565 |
 | 1,053 | [Spelldrifter](games/s/spelldrifter.md) | 3.80 | 0 | 565 |
 | 1,054 | [Saints Row](games/s/saints_row.md) | 3.79 | 1,081 | 147 |
 | 1,054 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 0 | 565 |

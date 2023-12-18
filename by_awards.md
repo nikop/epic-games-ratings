@@ -84,7 +84,7 @@
 | 82 | [God of War](games/g/god_of_war.md) | 4,458 | 4.88 | 17 |
 | 83 | [Trackmania](games/t/trackmania.md) | 4,195 | 4.66 | 297 |
 | 84 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,158 | 4.51 | 577 |
-| 85 | [Days Gone](games/d/days_gone.md) | 4,092 | 4.68 | 261 |
+| 85 | [Days Gone](games/d/days_gone.md) | 4,098 | 4.68 | 261 |
 | 86 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,977 | 4.68 | 261 |
 | 87 | [Paladins](games/p/paladins.md) | 3,926 | 4.32 | 833 |
 | 88 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,888 | 4.27 | 874 |
@@ -96,7 +96,7 @@
 | 94 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,415 | 4.76 | 130 |
 | 95 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,393 | 4.68 | 261 |
 | 96 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,390 | 4.57 | 483 |
-| 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,166 | 4.50 | 599 |
+| 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,171 | 4.50 | 599 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 3,022 | 4.18 | 947 |
 | 99 | [Among Us](games/a/among_us.md) | 2,931 | 4.57 | 483 |
 | 100 | [Remnant 2](games/r/remnant_2.md) | 2,917 | 4.75 | 150 |
@@ -335,9 +335,9 @@
 | 333 | [Going Medieval](games/g/going_medieval.md) | 132 | 4.60 | 423 |
 | 333 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 132 | 4.58 | 456 |
 | 335 | [Sonic Origins](games/s/sonic_origins.md) | 131 | 4.59 | 443 |
-| 336 | [Aven Colony](games/a/aven_colony.md) | 130 | 4.20 | 930 |
-| 336 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 130 | 4.52 | 566 |
-| 336 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 130 | 4.36 | 790 |
+| 335 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 131 | 4.36 | 790 |
+| 337 | [Aven Colony](games/a/aven_colony.md) | 130 | 4.20 | 930 |
+| 337 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 130 | 4.52 | 566 |
 | 339 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 128 | 4.29 | 855 |
 | 340 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 127 | 4.20 | 930 |
 | 340 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 127 | 4.53 | 549 |
@@ -378,7 +378,7 @@
 | 376 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 96 | 4.41 | 730 |
 | 376 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 947 |
 | 376 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 96 | 4.67 | 280 |
-| 379 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 95 | 3.82 | 1,047 |
+| 379 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 95 | 3.82 | 1,048 |
 | 379 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 95 | 4.58 | 456 |
 | 381 | [RAILGRADE](games/r/railgrade.md) | 93 | 4.55 | 512 |
 | 382 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 92 | 4.29 | 855 |
@@ -410,7 +410,7 @@
 | 406 | [DOOM 3](games/d/doom_3.md) | 71 | 4.59 | 443 |
 | 409 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 70 | 4.41 | 730 |
 | 409 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 70 | 4.21 | 920 |
-| 411 | [Potion Permit](games/p/potion_permit.md) | 69 | 3.83 | 1,044 |
+| 411 | [Potion Permit](games/p/potion_permit.md) | 69 | 3.83 | 1,045 |
 | 411 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 69 | 4.51 | 577 |
 | 413 | [Symphony of War](games/s/symphony_of_war.md) | 68 | 4.64 | 340 |
 | 414 | [Aimlabs](games/a/aimlabs.md) | 66 | 4.62 | 370 |
@@ -418,7 +418,7 @@
 | 416 | [Arcadegeddon](games/a/arcadegeddon.md) | 65 | 4.49 | 619 |
 | 417 | [Heavy Rain](games/h/heavy_rain.md) | 63 | 4.59 | 443 |
 | 417 | [In Sound Mind](games/i/in_sound_mind.md) | 63 | 4.61 | 392 |
-| 417 | [Poker Club](games/p/poker_club.md) | 63 | 3.83 | 1,044 |
+| 417 | [Poker Club](games/p/poker_club.md) | 63 | 3.83 | 1,045 |
 | 420 | [Session: Skate Sim](games/s/session__skate_sim.md) | 59 | 4.69 | 233 |
 | 420 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 59 | 4.61 | 392 |
 | 420 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.43 | 699 |
