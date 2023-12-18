@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2284,
+  "EOS_Progressed": 2286,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3538,6 +3538,11 @@
       "Time": "2023-12-18T11:05:49.3609642+00:00",
       "NumProgressed": 2284,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-18T12:05:30.9357055+00:00",
+      "NumProgressed": 2286,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3557,7 +3562,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1509
     },
     {
       "ID": "ACHV_03",
@@ -3573,7 +3578,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ACHV_05",
@@ -3581,7 +3586,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ACHV_06",
@@ -3589,7 +3594,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACHV_07",
@@ -3709,7 +3714,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACHV_22",
@@ -3725,7 +3730,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "ACHV_24",
@@ -3741,7 +3746,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACHV_26",
@@ -3749,7 +3754,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1829
     },
     {
       "ID": "ACHV_27",
@@ -3757,7 +3762,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ACHV_28",
@@ -3773,7 +3778,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACHV_30",
@@ -3821,7 +3826,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "ACHV_36",
@@ -3835,9 +3840,9 @@
       "ID": "ACHV_37",
       "SetID": "8p5mlmc",
       "Name": "Luminary",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 503
     },
     {
       "ID": "ACHV_38",
@@ -3853,7 +3858,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "ACHV_40",
@@ -3869,7 +3874,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "ACHV_42",
@@ -3901,7 +3906,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "ACHV_46",
@@ -4004,7 +4009,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2284,
+      "Progressed": 2286,
       "Completed": 13
     }
   ],
@@ -4012,8 +4017,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-18T11:05:49.3609637+00:00",
+  "LastChanged_Achievements": "2023-12-18T12:05:30.9357052+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:57:00.284762+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:59:20.976723+00:00",
-  "LastUpdate_Achievements": "2023-12-18T11:05:49.3610355+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:59:06.6796281+00:00",
+  "LastUpdate_Achievements": "2023-12-18T12:05:30.9357537+00:00"
 }

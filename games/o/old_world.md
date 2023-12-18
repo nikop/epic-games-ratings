@@ -36,33 +36,33 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 4.00% | ~633 |
 | Naming Landmarks | 4.00% | ~633 |
 | Trade Caravan | 4.00% | ~633 |
-| Regicide | 3.00% | ~474 |
-| Drillmaster | 3.00% | ~474 |
-| Brilliant | 3.00% | ~474 |
-| Fountainhead | 3.00% | ~474 |
-| Great | 3.00% | ~474 |
-| Magnificent | 3.00% | ~474 |
-| Valiant | 3.00% | ~474 |
-| Wise | 3.00% | ~474 |
-| Legendary Cities | 3.00% | ~474 |
-| Able Difficulty | 3.00% | ~474 |
-| Just Difficulty | 3.00% | ~474 |
-| Artisans | 3.00% | ~474 |
-| Furious Family | 3.00% | ~474 |
-| Apadana | 3.00% | ~474 |
-| Colossus | 3.00% | ~474 |
-| Great Ziggurat | 3.00% | ~474 |
-| Lighthouse | 3.00% | ~474 |
-| Musaeum | 3.00% | ~474 |
-| Necropolis | 3.00% | ~474 |
-| Learn to Play 1 | 3.00% | ~474 |
-| Learn to Play 2 | 3.00% | ~474 |
-| Christianity | 3.00% | ~474 |
-| Manichaeism | 3.00% | ~474 |
-| Carthaginian Paganism | 3.00% | ~474 |
-| Egyptian Paganism | 3.00% | ~474 |
-| Roman Paganism | 3.00% | ~474 |
-| Zoroastrianism | 3.00% | ~474 |
+| Regicide | 3.00% | ~475 |
+| Drillmaster | 3.00% | ~475 |
+| Brilliant | 3.00% | ~475 |
+| Fountainhead | 3.00% | ~475 |
+| Great | 3.00% | ~475 |
+| Magnificent | 3.00% | ~475 |
+| Valiant | 3.00% | ~475 |
+| Wise | 3.00% | ~475 |
+| Legendary Cities | 3.00% | ~475 |
+| Able Difficulty | 3.00% | ~475 |
+| Just Difficulty | 3.00% | ~475 |
+| Artisans | 3.00% | ~475 |
+| Furious Family | 3.00% | ~475 |
+| Apadana | 3.00% | ~475 |
+| Colossus | 3.00% | ~475 |
+| Great Ziggurat | 3.00% | ~475 |
+| Lighthouse | 3.00% | ~475 |
+| Musaeum | 3.00% | ~475 |
+| Necropolis | 3.00% | ~475 |
+| Learn to Play 1 | 3.00% | ~475 |
+| Learn to Play 2 | 3.00% | ~475 |
+| Christianity | 3.00% | ~475 |
+| Manichaeism | 3.00% | ~475 |
+| Carthaginian Paganism | 3.00% | ~475 |
+| Egyptian Paganism | 3.00% | ~475 |
+| Roman Paganism | 3.00% | ~475 |
+| Zoroastrianism | 3.00% | ~475 |
 | Hanging Gardens in Babylon | 2.00% | ~316 |
 | Beloved | 2.00% | ~316 |
 | Conqueror | 2.00% | ~316 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,816 (Ranked 155)  
+Progressed: 15,817 (Ranked 155)  
 Completed: 5 (0.03%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -591,7 +591,7 @@ Completed: 5 (0.03%) (Ranked 341)
 | 2023-12-15 | 15,768 | 5 |
 | 2023-12-16 | 15,789 | 5 |
 | 2023-12-17 | 15,807 | 5 |
-| 2023-12-18 | 15,816 | 5 |
+| 2023-12-18 | 15,817 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 279)  
 Sum: 1,902 (Ranked 220)  

@@ -1,7 +1,7 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.39 (Ranked 759)  
+Rating: 4.40 (Ranked 746)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -37,10 +37,10 @@ Rating: 4.39 (Ranked 759)
 | Run the Economy | 1.00% | ~2,595 |
 | Committed Relationship | 0.80% | ~2,076 |
 | Number 1 | 0.80% | ~2,076 |
+| A major purchase | 0.60% | ~1,557 |
 | Interior designer | 0.60% | ~1,557 |
 | The Gamble | 0.50% | ~1,297 |
 | The Descent | 0.50% | ~1,297 |
-| A major purchase | 0.50% | ~1,297 |
 | Expert Hunter | 0.40% | ~1,038 |
 | Fungi hunter | 0.40% | ~1,038 |
 | Predator III | 0.40% | ~1,038 |
@@ -504,3 +504,4 @@ Diff (max vs sum): 75
 | 2023-12-15 | 4.39 | 52 | 363 |
 | 2023-12-16 | 4.39 | 53 | 364 |
 | 2023-12-17 | 4.39 | 53 | 365 |
+| 2023-12-18 | 4.40 | 53 | 365 |

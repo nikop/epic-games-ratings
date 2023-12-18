@@ -1,26 +1,26 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 599)  
+Rating: 4.50 (Ranked 600)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~311,803 |
+| The Shutdown | 66.00% | ~311,804 |
 | Jeef Skeejj | 44.00% | ~207,869 |
-| Careful planning | 39.00% | ~184,247 |
+| Careful planning | 39.00% | ~184,248 |
 | Second Coming | 34.00% | ~160,626 |
 | Jeef Skagg | 30.00% | ~141,729 |
-| Mother | 25.00% | ~118,107 |
+| Mother | 25.00% | ~118,108 |
 | In space, no one can hear you scream | 24.00% | ~113,383 |
-| Chapter I: Echoes | 22.00% | ~103,934 |
-| Excelsior Rule | 22.00% | ~103,934 |
+| Chapter I: Echoes | 22.00% | ~103,935 |
+| Excelsior Rule | 22.00% | ~103,935 |
 | Things persisted in not being what they seemed | 20.00% | ~94,486 |
 | Knightmare Frames | 15.00% | ~70,864 |
 | May His passing cleanse the world | 15.00% | ~70,864 |
 | Chapter II: Fallible Flesh | 15.00% | ~70,864 |
 | Pope Zenon | 15.00% | ~70,864 |
-| Plan for the worst | 12.00% | ~56,691 |
+| Plan for the worst | 12.00% | ~56,692 |
 | Tetsuo | 11.00% | ~51,967 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,243 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,794 |
@@ -45,10 +45,10 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~28,346 |
 | The Crazy Repairman | 6.00% | ~28,346 |
 | The Weasel | 6.00% | ~28,346 |
-| Kill the Doctor | 5.00% | ~23,621 |
-| Forsaken | 5.00% | ~23,621 |
-| Mercy | 5.00% | ~23,621 |
-| Jericho Rule | 5.00% | ~23,621 |
+| Kill the Doctor | 5.00% | ~23,622 |
+| Forsaken | 5.00% | ~23,622 |
+| Mercy | 5.00% | ~23,622 |
+| Jericho Rule | 5.00% | ~23,622 |
 | Geno Rule | 3.00% | ~14,173 |
 | Hammer Rule | 3.00% | ~14,173 |
 | Survivor | 2.00% | ~9,449 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~16 |
 | Kronos Rule | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,429 (Ranked 42)  
+Progressed: 472,430 (Ranked 42)  
 Completed: 20 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 20 (0.00%) (Ranked 380)
 | 2023-12-15 | 472,301 | 20 |
 | 2023-12-16 | 472,356 | 20 |
 | 2023-12-17 | 472,410 | 20 |
-| 2023-12-18 | 472,429 | 20 |
+| 2023-12-18 | 472,430 | 20 |
 ## Awards
 Max (Character Customization): 226  (Ranked 281)  
 Sum: 250 (Ranked 387)  

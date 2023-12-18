@@ -5,7 +5,7 @@ Rating: 4.15 (Ranked 966)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,431 |
+| Attachments | 10.00% | ~4,432 |
 | Unlocked Potential | 9.00% | ~3,988 |
 | Tinkerer | 7.00% | ~3,102 |
 | Knock 'Em Dead | 7.00% | ~3,102 |
@@ -13,11 +13,11 @@ Rating: 4.15 (Ranked 966)
 | Pilgrimage: Initiate | 6.00% | ~2,659 |
 | Hell of a Run | 6.00% | ~2,659 |
 | Call of the Fount: Baptized | 6.00% | ~2,659 |
-| No Mercy | 5.00% | ~2,215 |
-| Explorer: Seeker | 5.00% | ~2,215 |
-| Help Me Out Here | 5.00% | ~2,215 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,772 |
-| Stuck | 4.00% | ~1,772 |
+| No Mercy | 5.00% | ~2,216 |
+| Explorer: Seeker | 5.00% | ~2,216 |
+| Help Me Out Here | 5.00% | ~2,216 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,773 |
+| Stuck | 4.00% | ~1,773 |
 | Outdoorsperson | 3.00% | ~1,329 |
 | The Interloper | 3.00% | ~1,329 |
 | Hop, Step, Jump | 3.00% | ~1,329 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 966)
 | Remembrance | 0.10% | ~44 |
 | Cat Person | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,309 (Ranked 120)  
+Progressed: 44,316 (Ranked 120)  
 Completed: 3 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 3 (0.01%) (Ranked 356)
 | 2023-12-15 | 43,925 | 3 |
 | 2023-12-16 | 44,114 | 3 |
 | 2023-12-17 | 44,267 | 3 |
-| 2023-12-18 | 44,309 | 3 |
+| 2023-12-18 | 44,316 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -852,9 +852,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "AstralSeeker",
@@ -1396,9 +1396,9 @@
       "ID": "WildsKeeper",
       "SetID": "1jeo1g7",
       "Name": "Wild\u0027s Keeper",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "ApianChampion",
@@ -1555,8 +1555,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-18T11:04:18.0727663+00:00",
+  "LastChanged_Achievements": "2023-12-18T12:04:05.375785+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:09.6615872+00:00",
-  "LastUpdate_Ratings": "2023-12-18T11:01:47.4307747+00:00",
-  "LastUpdate_Achievements": "2023-12-18T11:04:18.0728596+00:00"
+  "LastUpdate_Ratings": "2023-12-18T12:01:22.6894998+00:00",
+  "LastUpdate_Achievements": "2023-12-18T12:04:05.3759113+00:00"
 }

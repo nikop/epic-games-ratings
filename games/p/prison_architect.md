@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~51,143 |
-| Get Busy Living | 16.00% | ~32,732 |
-| Samuel Norton | 9.00% | ~18,411 |
+| Stone Walls | 25.00% | ~51,146 |
+| Get Busy Living | 16.00% | ~32,734 |
+| Samuel Norton | 9.00% | ~18,413 |
 | Spare The Rod | 5.00% | ~10,229 |
-| Don't Put Me In The Dark | 3.00% | ~6,137 |
-| Wait and Hope | 3.00% | ~6,137 |
-| I May Have Found A Way Out Of Here | 3.00% | ~6,137 |
-| Throw The Book At Them | 2.00% | ~4,091 |
-| Iron Bars | 2.00% | ~4,091 |
+| Don't Put Me In The Dark | 3.00% | ~6,138 |
+| Wait and Hope | 3.00% | ~6,138 |
+| I May Have Found A Way Out Of Here | 3.00% | ~6,138 |
+| Throw The Book At Them | 2.00% | ~4,092 |
+| Iron Bars | 2.00% | ~4,092 |
 | D.B. Cooper | 1.00% | ~2,046 |
-| Reformation | 0.60% | ~1,227 |
+| Reformation | 0.60% | ~1,228 |
 | Crowd Control | 0.50% | ~1,023 |
 | Freedom | 0.40% | ~818 |
 | Confined | 0.30% | ~614 |
 | It's Not What You Know... | 0.10% | ~205 |
 | ... It's What You Can Prove | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,572 (Ranked 75)  
+Progressed: 204,585 (Ranked 75)  
 Completed: 11 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,10 +265,10 @@ Completed: 11 (0.01%) (Ranked 356)
 | 2023-12-15 | 203,614 | 11 |
 | 2023-12-16 | 204,038 | 11 |
 | 2023-12-17 | 204,450 | 11 |
-| 2023-12-18 | 204,572 | 11 |
+| 2023-12-18 | 204,585 | 11 |
 ## Awards
 Max (Great for Beginners): 606  (Ranked 200)  
-Sum: 4,637 (Ranked 148)  
+Sum: 4,639 (Ranked 148)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -278,7 +278,7 @@ Diff (max vs sum): 52
 | This game has Quickly Understood Controls | 548 |
 | This game is Relaxing | 537 |
 | This game has Diverse Characters | 507 |
-| This game has Amazing Storytelling | 495 |
+| This game has Amazing Storytelling | 497 |
 | This game is Educational | 459 |
 | This game has Amazing Characters | 445 |
 | This game has a Creative Community | 357 |
@@ -615,4 +615,4 @@ Diff (max vs sum): 52
 | 2023-12-15 | 4.61 | - | 602 | 4,611 |
 | 2023-12-16 | 4.61 | - | 603 | 4,626 |
 | 2023-12-17 | 4.61 | - | 603 | 4,627 |
-| 2023-12-18 | 4.61 | - | 606 | 4,637 |
+| 2023-12-18 | 4.61 | - | 606 | 4,639 |

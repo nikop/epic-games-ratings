@@ -1,24 +1,24 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 577)  
+Rating: 4.51 (Ranked 578)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~571,379 |
-| Error: Stack Overflow | 66.00% | ~405,495 |
-| We need more gold | 61.00% | ~374,775 |
-| The dawn of civilization | 53.00% | ~325,625 |
-| More FPS for the FPS god! | 50.00% | ~307,193 |
-| Beauty and harmony | 48.00% | ~294,905 |
-| One more! | 44.00% | ~270,330 |
+| First.. Bit? | 93.00% | ~571,381 |
+| Error: Stack Overflow | 66.00% | ~405,496 |
+| We need more gold | 61.00% | ~374,777 |
+| The dawn of civilization | 53.00% | ~325,626 |
+| More FPS for the FPS god! | 50.00% | ~307,194 |
+| Beauty and harmony | 48.00% | ~294,906 |
+| One more! | 44.00% | ~270,331 |
 | Overmind | 24.00% | ~147,453 |
-| RNG is my best friend now | 18.00% | ~110,589 |
+| RNG is my best friend now | 18.00% | ~110,590 |
 | Cosplay | 14.00% | ~86,014 |
 | Evolution in progress... | 13.00% | ~79,870 |
 | Step by step | 8.00% | ~49,151 |
-| README reader | 4.00% | ~24,575 |
+| README reader | 4.00% | ~24,576 |
 | Data scientist | 3.00% | ~18,432 |
 | One small step for a man... | 3.00% | ~18,432 |
 | To see it all, to learn it all | 2.00% | ~12,288 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,843 |
 | The Scrooge | 0.10% | ~614 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 614,386 (Ranked 31)  
+Progressed: 614,388 (Ranked 31)  
 Completed: 556 (0.09%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 556 (0.09%) (Ranked 305)
 | 2023-12-15 | 614,019 | 556 |
 | 2023-12-16 | 614,185 | 556 |
 | 2023-12-17 | 614,342 | 556 |
-| 2023-12-18 | 614,386 | 556 |
+| 2023-12-18 | 614,388 | 556 |
 ## Awards
 Max (Challenging Puzzles): 139  (Ranked 327)  
 Sum: 139 (Ranked 436)  

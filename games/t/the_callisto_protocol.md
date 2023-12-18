@@ -5,23 +5,23 @@ Rating: 4.19 (Ranked 940)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~2,318 |
+| Flesh Wound | 13.00% | ~2,319 |
 | Get a Grip | 12.00% | ~2,140 |
 | Paper Jams | 12.00% | ~2,140 |
 | The Outer Way | 12.00% | ~2,140 |
-| Desperate Times | 11.00% | ~1,961 |
-| Chew 'Em Up | 10.00% | ~1,783 |
-| Float Like A Butterfly | 10.00% | ~1,783 |
+| Desperate Times | 11.00% | ~1,962 |
+| Chew 'Em Up | 10.00% | ~1,784 |
+| Float Like A Butterfly | 10.00% | ~1,784 |
 | Reforged | 9.00% | ~1,605 |
-| Workplace Hazard | 8.00% | ~1,426 |
-| If the SHU Fits... | 7.00% | ~1,248 |
+| Workplace Hazard | 8.00% | ~1,427 |
+| If the SHU Fits... | 8.00% | ~1,427 |
 | Without A Paddle | 7.00% | ~1,248 |
 | Two Heads Are Better Than One | 6.00% | ~1,070 |
 | In the Pipe, Five by Five | 6.00% | ~1,070 |
 | Crash Site | 6.00% | ~1,070 |
 | Full Circle | 6.00% | ~1,070 |
 | Power Up | 6.00% | ~1,070 |
-| Keep Fighting | 6.00% | ~345 |
+| Keep Fighting | 6.00% | ~346 |
 | Giving Back | 5.00% | ~892 |
 | You Need a Gun | 5.00% | ~892 |
 | I Do Belong Here | 5.00% | ~892 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 940)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,830 (Ranked 149)  
+Progressed: 17,835 (Ranked 149)  
 Completed: 82 (0.46%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,10 +287,10 @@ Completed: 82 (0.46%) (Ranked 217)
 | 2023-12-15 | 17,123 | 82 |
 | 2023-12-16 | 17,442 | 82 |
 | 2023-12-17 | 17,760 | 82 |
-| 2023-12-18 | 17,830 | 82 |
+| 2023-12-18 | 17,835 | 82 |
 ## Awards
 Max (Amazing Storytelling): 88  (Ranked 388)  
-Sum: 517 (Ranked 328)  
+Sum: 518 (Ranked 328)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -298,7 +298,7 @@ Diff (max vs sum): 60
 | This game has Quickly Understood Controls | 86 |
 | This game is Highly Recommended | 85 |
 | This game has Amazing Characters | 83 |
-| This game is Extremely Fun | 79 |
+| This game is Extremely Fun | 80 |
 | This game has Challenging Combat | 64 |
 | This game has a Creative Community | 32 |
 ## Ratings History
@@ -478,4 +478,4 @@ Diff (max vs sum): 60
 | 2023-12-15 | 4.20 | 85 | 509 |
 | 2023-12-16 | 4.20 | 85 | 512 |
 | 2023-12-17 | 4.20 | 87 | 516 |
-| 2023-12-18 | 4.19 | 88 | 517 |
+| 2023-12-18 | 4.19 | 88 | 518 |

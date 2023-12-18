@@ -1841,9 +1841,9 @@
       "ID": "get_tape",
       "SetID": "69co12a",
       "Name": "Old movies enjoyer",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 318
     },
     {
       "ID": "gpp_chip",
@@ -1881,9 +1881,9 @@
       "ID": "huey_win",
       "SetID": "69co12a",
       "Name": "No bullying more",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 277
     },
     {
       "ID": "intro_dream",
@@ -1977,9 +1977,9 @@
       "ID": "nero_basic",
       "SetID": "69co12a",
       "Name": "Neurotrainer \u2013 power gainer!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 318
     },
     {
       "ID": "nero_extrime",
@@ -1993,9 +1993,9 @@
       "ID": "not_ok",
       "SetID": "69co12a",
       "Name": "Run K, run!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 289
     },
     {
       "ID": "own_home",
@@ -2184,8 +2184,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-18T11:10:11.1489936+00:00",
+  "LastChanged_Achievements": "2023-12-18T12:09:46.4633912+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:32.3459278+00:00",
-  "LastUpdate_Ratings": "2023-12-18T11:01:04.6403407+00:00",
-  "LastUpdate_Achievements": "2023-12-18T11:10:11.1490575+00:00"
+  "LastUpdate_Ratings": "2023-12-18T12:00:42.5867203+00:00",
+  "LastUpdate_Achievements": "2023-12-18T12:09:46.463441+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "TT Isle of Man: Ride on the Edge 3",
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 401,
-  "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_Completed": 170,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 196,
+  "EOS_Progressed": 197,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -955,6 +955,11 @@
       "Time": "2023-12-18T07:03:53.7542513+00:00",
       "NumProgressed": 196,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-18T12:04:44.4047398+00:00",
+      "NumProgressed": 197,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -982,7 +987,7 @@
       "Name": "To Each Their Own",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -1198,7 +1203,7 @@
       "Name": "Onwards and Upwards",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -1230,7 +1235,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1277,14 +1282,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 196,
+      "Progressed": 197,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-12-18T11:04:59.5280742+00:00",
+  "LastChanged_Achievements": "2023-12-18T12:04:44.4047395+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:23.9007171+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:59:32.1059465+00:00",
-  "LastUpdate_Achievements": "2023-12-18T11:04:59.5281031+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:59:16.9724325+00:00",
+  "LastUpdate_Achievements": "2023-12-18T12:04:44.4047673+00:00"
 }

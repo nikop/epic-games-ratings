@@ -5,10 +5,10 @@ Rating: 4.81 (Ranked 85)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 67.00% | ~803 |
+| A New Journey | 67.00% | ~804 |
 | The Adventure Begins | 49.00% | ~588 |
 | Swabbie | 37.00% | ~444 |
-| With Great Power… | 36.00% | ~432 |
+| With Great Power… | 37.00% | ~444 |
 | This Belongs in a Museum | 33.00% | ~396 |
 | The Gambit Has Begun | 30.00% | ~360 |
 | Somewhere Deep in the Lost Caribbean | 27.00% | ~324 |
@@ -19,7 +19,7 @@ Rating: 4.81 (Ranked 85)
 | Fishy Fish | 20.00% | ~240 |
 | All Good Things | 17.00% | ~204 |
 | Persistent Parasite | 16.00% | ~192 |
-| Seadog | 15.00% | ~180 |
+| Seadog | 14.00% | ~168 |
 | Jaded Judge | 12.00% | ~144 |
 | Tobacco Travesty | 11.00% | ~132 |
 | Rustic Recipe | 11.00% | ~132 |
@@ -32,7 +32,7 @@ Rating: 4.81 (Ranked 85)
 | Marauder | 3.00% | ~36 |
 | Welcome Back Jester | 3.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,199 (Ranked 263)  
+Progressed: 1,200 (Ranked 263)  
 Completed: 32 (2.67%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 32 (2.67%) (Ranked 119)
 | 2023-12-15 | 1,166 | 32 |
 | 2023-12-16 | 1,184 | 32 |
 | 2023-12-17 | 1,193 | 32 |
-| 2023-12-18 | 1,199 | 32 |
+| 2023-12-18 | 1,200 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

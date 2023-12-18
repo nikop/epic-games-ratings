@@ -6,8 +6,8 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 143,
-  "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23043,
+  "EOS_Progressed": 23044,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 642,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -20503,6 +20503,11 @@
       "Time": "2023-12-18T11:04:12.5372861+00:00",
       "NumProgressed": 23043,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-18T12:04:00.0312603+00:00",
+      "NumProgressed": 23044,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 14,
@@ -20514,7 +20519,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 17743
+      "UsersEstimate": 17744
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -20570,7 +20575,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 52,
       "XP": 90,
-      "UsersEstimate": 11982
+      "UsersEstimate": 11983
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -20625,15 +20630,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 23043,
+      "Progressed": 23044,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-12-18T11:04:12.5372852+00:00",
+  "LastChanged_Achievements": "2023-12-18T12:04:00.0312598+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:16.5568567+00:00",
-  "LastUpdate_Ratings": "2023-12-18T11:02:49.6814293+00:00",
-  "LastUpdate_Achievements": "2023-12-18T11:04:12.5374034+00:00"
+  "LastUpdate_Ratings": "2023-12-18T12:01:42.2430049+00:00",
+  "LastUpdate_Achievements": "2023-12-18T12:04:00.0313687+00:00"
 }

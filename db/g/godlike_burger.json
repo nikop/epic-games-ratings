@@ -2,7 +2,7 @@
   "ID": "beb7e64d3da74ae780405da48cccb581",
   "Name": "Godlike Burger",
   "ProductSlug": "godlike-burger-4150a0",
-  "Ranking_Rating": 577,
+  "Ranking_Rating": 578,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 47,
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 386950,
+  "EOS_Progressed": 386965,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 3473,
+  "EOS_NewPlayers": 3470,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10106,6 +10106,11 @@
       "Time": "2023-12-18T11:05:01.2933396+00:00",
       "NumProgressed": 386950,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-12-18T12:04:45.9678497+00:00",
+      "NumProgressed": 386965,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 28,
@@ -10117,7 +10122,7 @@
       "Name": "BUTCHER",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 23217
+      "UsersEstimate": 23218
     },
     {
       "ID": "GB_CELEBRITY",
@@ -10125,7 +10130,7 @@
       "Name": "CELEBRITY",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 11608
+      "UsersEstimate": 11609
     },
     {
       "ID": "GB_CORRUPTIONIST",
@@ -10141,7 +10146,7 @@
       "Name": "CRIMINAL",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 77390
+      "UsersEstimate": 77393
     },
     {
       "ID": "GB_DEBTOR",
@@ -10165,7 +10170,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 154780
+      "UsersEstimate": 154786
     },
     {
       "ID": "GB_GOURMET",
@@ -10181,7 +10186,7 @@
       "Name": "GRANDMA WOULD BE PROUD",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 42564
+      "UsersEstimate": 42566
     },
     {
       "ID": "GB_GRATITUDE",
@@ -10197,7 +10202,7 @@
       "Name": "HELL\u0027S KITCHEN",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 15478
+      "UsersEstimate": 15479
     },
     {
       "ID": "GB_HIGH_TECHNOLOGIES",
@@ -10213,7 +10218,7 @@
       "Name": "HONORS STUDENT",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 30956
+      "UsersEstimate": 30957
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -10237,7 +10242,7 @@
       "Name": "JACK OF ALL TRADES",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 88998
+      "UsersEstimate": 89002
     },
     {
       "ID": "GB_KEVIN",
@@ -10245,7 +10250,7 @@
       "Name": "KEVIN!",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 116085
+      "UsersEstimate": 116090
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -10261,7 +10266,7 @@
       "Name": "MARTYR",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 11608
+      "UsersEstimate": 11609
     },
     {
       "ID": "GB_MASTER_CHEF",
@@ -10269,7 +10274,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 174128
+      "UsersEstimate": 174134
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -10333,14 +10338,14 @@
       "Name": "WITHOUT BREAKING A SWEAT",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 34826
+      "UsersEstimate": 34827
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 386950,
+      "Progressed": 386965,
       "Completed": 50
     }
   ],
@@ -10348,8 +10353,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-10-28T12:59:45.1014127+00:00",
-  "LastChanged_Achievements": "2023-12-18T11:05:01.2933393+00:00",
+  "LastChanged_Achievements": "2023-12-18T12:04:45.9678494+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:55.5616495+00:00",
-  "LastUpdate_Ratings": "2023-12-18T11:03:42.46075+00:00",
-  "LastUpdate_Achievements": "2023-12-18T11:05:01.2934402+00:00"
+  "LastUpdate_Ratings": "2023-12-18T12:03:31.2996032+00:00",
+  "LastUpdate_Achievements": "2023-12-18T12:04:45.96791+00:00"
 }

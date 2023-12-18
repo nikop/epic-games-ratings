@@ -9790,10 +9790,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20725,
       "NumberOfAwardsMax": 7784
+    },
+    {
+      "Time": "2023-12-18T11:58:57.5808579+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20737,
+      "NumberOfAwardsMax": 7784
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20725,
+  "NumberOfAwards": 20737,
   "NumberOfAwardsMax": 7784,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9855,7 +9861,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1374
+      "Count": 1386
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9870,9 +9876,9 @@
       "Count": 1026
     }
   ],
-  "EOS_Progressed": 128261,
+  "EOS_Progressed": 128272,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2144,
+  "EOS_NewPlayers": 2151,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35635,6 +35641,11 @@
       "Time": "2023-12-18T11:10:03.5633604+00:00",
       "NumProgressed": 128261,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T12:09:39.4494716+00:00",
+      "NumProgressed": 128272,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35748,9 +35759,9 @@
       "ID": "altar_of_hope_upgrade_total_quarter",
       "SetID": "64l4lke",
       "Name": "Hope Rekindled",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1154
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -36182,7 +36193,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "combat_kill_collector",
@@ -36190,7 +36201,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36246,7 +36257,7 @@
       "Name": "Lost and Found",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36277,21 +36288,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128261,
+      "Progressed": 128272,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3130,
+      "Progressed": 3141,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-18T10:59:11.5833339+00:00",
-  "LastChanged_Achievements": "2023-12-18T11:10:03.5633599+00:00",
+  "LastChanged": "2023-12-18T11:58:57.5808577+00:00",
+  "LastChanged_Achievements": "2023-12-18T12:09:39.4494712+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:59:11.5833344+00:00",
-  "LastUpdate_Achievements": "2023-12-18T11:10:03.563507+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:58:57.5808585+00:00",
+  "LastUpdate_Achievements": "2023-12-18T12:09:39.4496357+00:00"
 }

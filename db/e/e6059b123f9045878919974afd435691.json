@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1140,
+  "EOS_Progressed": 1141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2979,6 +2979,11 @@
       "Time": "2023-12-18T04:10:25.963486+00:00",
       "NumProgressed": 1140,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T12:10:46.2011345+00:00",
+      "NumProgressed": 1141,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2990,7 +2995,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3006,7 +3011,7 @@
       "Name": "FULLCLIP",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -3014,7 +3019,7 @@
       "Name": "Out Of Stock",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -3198,7 +3203,7 @@
       "Name": "Think Bullets Will Affect Her?",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -3206,7 +3211,7 @@
       "Name": "Fire Alarm",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -3222,7 +3227,7 @@
       "Name": "End of Rest",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -3230,7 +3235,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -3308,9 +3313,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 377
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -3366,7 +3371,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -3414,7 +3419,7 @@
       "Name": "Buy A Book",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -3517,14 +3522,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1140,
+      "Progressed": 1141,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-18T11:11:13.7400244+00:00",
+  "LastChanged_Achievements": "2023-12-18T12:10:46.2011341+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:08.9329051+00:00",
-  "LastUpdate_Ratings": "2023-12-18T11:00:08.4748743+00:00",
-  "LastUpdate_Achievements": "2023-12-18T11:11:13.7400772+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:59:49.9129588+00:00",
+  "LastUpdate_Achievements": "2023-12-18T12:10:46.2011937+00:00"
 }

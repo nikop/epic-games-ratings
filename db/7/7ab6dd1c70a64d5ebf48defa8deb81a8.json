@@ -2,7 +2,7 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 287,
+  "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 100,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 785,
+  "EOS_Progressed": 788,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 522,
+  "EOS_NewPlayers": 525,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1635,6 +1635,11 @@
       "Time": "2023-12-18T11:11:08.3970522+00:00",
       "NumProgressed": 785,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T12:10:41.0332495+00:00",
+      "NumProgressed": 788,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1646,7 +1651,7 @@
       "Name": "Break Out",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH_02",
@@ -1670,7 +1675,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_05",
@@ -1710,15 +1715,15 @@
       "Name": "The Mentor",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_11",
@@ -1742,7 +1747,7 @@
       "Name": "Adventurer",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_14",
@@ -1758,7 +1763,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_16",
@@ -1838,15 +1843,15 @@
       "Name": "Fashion Victim",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_27",
@@ -1878,7 +1883,7 @@
       "Name": "Alchemist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_31",
@@ -1886,7 +1891,7 @@
       "Name": "Stone Collection",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_33",
@@ -1900,9 +1905,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_35",
@@ -1933,14 +1938,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 785,
+      "Progressed": 788,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-18T11:11:08.3970517+00:00",
+  "LastChanged_Achievements": "2023-12-18T12:10:41.0332489+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-18T11:01:13.4257504+00:00",
-  "LastUpdate_Achievements": "2023-12-18T11:11:08.3970885+00:00"
+  "LastUpdate_Ratings": "2023-12-18T12:00:51.2223745+00:00",
+  "LastUpdate_Achievements": "2023-12-18T12:10:41.0332742+00:00"
 }

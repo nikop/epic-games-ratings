@@ -1344,7 +1344,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 30679,
+  "EOS_Progressed": 30680,
   "EOS_Completed": 84,
   "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 1,
@@ -27254,6 +27254,11 @@
       "Time": "2023-12-18T11:10:43.0558366+00:00",
       "NumProgressed": 30679,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-12-18T12:10:16.7613512+00:00",
+      "NumProgressed": 30680,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 22,
@@ -27383,9 +27388,9 @@
       "ID": "1030",
       "SetID": "9l3d3cl",
       "Name": "Battering Crew",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5829
+      "UsersEstimate": 6136
     },
     {
       "ID": "1031",
@@ -27440,15 +27445,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 30679,
+      "Progressed": 30680,
       "Completed": 84
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-16T17:01:32.5385124+00:00",
-  "LastChanged_Achievements": "2023-12-18T11:10:43.055836+00:00",
+  "LastChanged_Achievements": "2023-12-18T12:10:16.7613506+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:33.5053041+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:57:38.7909295+00:00",
-  "LastUpdate_Achievements": "2023-12-18T11:10:43.0559968+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:57:32.7785503+00:00",
+  "LastUpdate_Achievements": "2023-12-18T12:10:16.7614957+00:00"
 }

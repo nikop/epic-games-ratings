@@ -8,32 +8,32 @@
 | The Routine | 80.00% | ~123 |
 | Mother | 79.00% | ~122 |
 | Failure | 76.00% | ~117 |
-| Replace Fuse | 67.00% | ~103 |
+| Replace Fuse | 68.00% | ~105 |
 | Alarm | 66.00% | ~102 |
 | Air Filtration | 62.00% | ~95 |
 | Broken | 60.00% | ~92 |
-| Radiation | 58.00% | ~89 |
+| Radiation | 59.00% | ~91 |
 | Descent | 56.00% | ~86 |
 | Awakenings | 56.00% | ~86 |
 | Cold Storage | 56.00% | ~86 |
 | Sam | 56.00% | ~86 |
 | Commissioner | 51.00% | ~79 |
-| Soldier | 50.00% | ~77 |
+| Soldier | 51.00% | ~79 |
 | Leave | 49.00% | ~75 |
 | Churchill | 49.00% | ~75 |
-| Engineer | 48.00% | ~74 |
-| Doctor | 47.00% | ~72 |
+| Engineer | 49.00% | ~75 |
+| Doctor | 48.00% | ~74 |
 | Press Play | 34.00% | ~52 |
 | General | 27.00% | ~42 |
 | Bookworm | 25.00% | ~38 |
-| Floppy Disk Finder | 14.00% | ~22 |
+| Floppy Disk Finder | 15.00% | ~23 |
 | Stay | 13.00% | ~20 |
 | Nurse | 10.00% | ~15 |
 | No Page Unturned | 6.00% | ~9 |
 | The Missing Piece | 6.00% | ~9 |
 | Friends | 5.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154 (Ranked 416)  
+Progressed: 154 (Ranked 417)  
 Completed: 6 (3.90%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |

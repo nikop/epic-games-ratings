@@ -4,7 +4,7 @@
   "ProductSlug": "figment2-creed-valley",
   "Ranking_EOS_Progress": 536,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -254,9 +254,9 @@
       "ID": "combat_thought_block_friendly_fire",
       "SetID": "7e96e7l",
       "Name": "Heavy Thoughts",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "fluff_arguing_opinions_conviction_lane",
@@ -399,8 +399,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-12-18T11:11:06.2560457+00:00",
+  "LastChanged_Achievements": "2023-12-18T12:10:38.8527094+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:25.2965916+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:58:56.5474118+00:00",
-  "LastUpdate_Achievements": "2023-12-18T11:11:06.2560563+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:58:43.4782068+00:00",
+  "LastUpdate_Achievements": "2023-12-18T12:10:38.8527209+00:00"
 }

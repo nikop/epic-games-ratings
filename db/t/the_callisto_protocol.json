@@ -1617,10 +1617,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 517,
       "NumberOfAwardsMax": 88
+    },
+    {
+      "Time": "2023-12-18T12:03:34.7303748+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 518,
+      "NumberOfAwardsMax": 88
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 517,
+  "NumberOfAwards": 518,
   "NumberOfAwardsMax": 88,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1634,7 +1640,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 79
+      "Count": 80
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1667,9 +1673,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 17830,
+  "EOS_Progressed": 17835,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1305,
+  "EOS_NewPlayers": 1310,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -10127,6 +10133,11 @@
       "Time": "2023-12-18T11:10:09.1918202+00:00",
       "NumProgressed": 17830,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-18T12:09:44.670455+00:00",
+      "NumProgressed": 17835,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10170,7 +10181,7 @@
       "Name": "Flesh Wound",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -10266,7 +10277,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "KILL_ROBOT",
@@ -10282,7 +10293,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -10298,7 +10309,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -10336,9 +10347,9 @@
       "ID": "STORY_ESCAPE",
       "SetID": "4hj6d86",
       "Name": "If the SHU Fits...",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1427
     },
     {
       "ID": "STORY_HABITAT",
@@ -10370,7 +10381,7 @@
       "Name": "Desperate Times",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -10490,7 +10501,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -10513,22 +10524,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 17830,
+      "Progressed": 17835,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 5756,
+      "Progressed": 5761,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-12-18T06:03:00.946699+00:00",
-  "LastChanged_Achievements": "2023-12-18T11:10:09.1918196+00:00",
+  "LastChanged": "2023-12-18T12:03:34.7303747+00:00",
+  "LastChanged_Achievements": "2023-12-18T12:09:44.6704545+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-18T11:03:46.1159671+00:00",
-  "LastUpdate_Achievements": "2023-12-18T11:10:09.1918837+00:00"
+  "LastUpdate_Ratings": "2023-12-18T12:03:34.7303755+00:00",
+  "LastUpdate_Achievements": "2023-12-18T12:09:44.6705259+00:00"
 }

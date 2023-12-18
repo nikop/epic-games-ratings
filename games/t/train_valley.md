@@ -1,25 +1,25 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.50 (Ranked 599)  
+Rating: 4.50 (Ranked 600)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting started | 78.00% | ~438 |
-| Close call! | 71.00% | ~398 |
-| Builder | 53.00% | ~297 |
-| Pangs of conscience | 45.00% | ~252 |
-| Living it large! | 45.00% | ~252 |
-| Collector | 43.00% | ~241 |
-| Need to think | 43.00% | ~241 |
+| Close call! | 72.00% | ~405 |
+| Builder | 53.00% | ~298 |
+| Pangs of conscience | 45.00% | ~253 |
+| Living it large! | 45.00% | ~253 |
+| Collector | 43.00% | ~242 |
+| Need to think | 43.00% | ~242 |
 | Completely nuts! | 41.00% | ~230 |
 | Europe | 33.00% | ~185 |
 | Just in time! | 33.00% | ~185 |
 | Madness! | 32.00% | ~180 |
 | It's no coincidence. | 29.00% | ~163 |
-| Philatelist | 27.00% | ~151 |
-| Let's roll! | 27.00% | ~151 |
+| Philatelist | 27.00% | ~152 |
+| Let's roll! | 27.00% | ~152 |
 | Ouroboros | 25.00% | ~140 |
 | Non Stop! | 24.00% | ~135 |
 | Foreman | 21.00% | ~118 |
@@ -31,7 +31,7 @@ Number of Ratings: 28  (23.09.2022)
 | Japan | 11.00% | ~62 |
 | Woodcutter | 11.00% | ~62 |
 | Engineer | 10.00% | ~56 |
-| Tycoon | 9.00% | ~50 |
+| Tycoon | 9.00% | ~51 |
 | Germany | 7.00% | ~39 |
 | Chuck Norris | 5.00% | ~28 |
 | Сhancellor | 4.00% | ~22 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 561 (Ranked 318)  
+Progressed: 562 (Ranked 318)  
 Completed: 2 (0.36%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 2 (0.36%) (Ranked 233)
 | 2023-12-15 | 545 | 2 |
 | 2023-12-16 | 553 | 2 |
 | 2023-12-17 | 556 | 2 |
-| 2023-12-18 | 561 | 2 |
+| 2023-12-18 | 562 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

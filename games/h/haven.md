@@ -6,38 +6,38 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 76.00% | ~1,253 |
-| Lovebirds | 47.00% | ~775 |
-| Life’s short, ride long | 42.00% | ~693 |
-| Hug therapy | 41.00% | ~676 |
-| Over my dead body | 38.00% | ~627 |
+| Balding bloot! | 76.00% | ~1,256 |
+| Lovebirds | 47.00% | ~776 |
+| Life’s short, ride long | 42.00% | ~694 |
+| Hug therapy | 41.00% | ~677 |
+| Over my dead body | 38.00% | ~628 |
 | Shake the rust off their feet | 20.00% | ~330 |
-| My little pony | 19.00% | ~313 |
+| My little pony | 19.00% | ~314 |
 | Strike! | 18.00% | ~297 |
 | A love supreme | 18.00% | ~297 |
 | In my shoes | 16.00% | ~264 |
 | Like new! | 14.00% | ~231 |
-| Heartstrings | 13.00% | ~214 |
-| Head in the clouds | 13.00% | ~214 |
+| Heartstrings | 13.00% | ~215 |
+| Head in the clouds | 13.00% | ~215 |
 | Back to rust | 12.00% | ~198 |
 | Don't look back | 12.00% | ~198 |
-| Flower Powered | 11.00% | ~181 |
-| Perfect timing | 9.00% | ~148 |
-| Unstoppable | 9.00% | ~148 |
+| Flower Powered | 11.00% | ~182 |
+| Perfect timing | 9.00% | ~149 |
+| Unstoppable | 9.00% | ~149 |
 | Self-sustainability | 8.00% | ~132 |
 | Ain't no mountain high enough | 8.00% | ~132 |
-| Can't get wetter... | 5.00% | ~82 |
-| Spring cleaning | 5.00% | ~82 |
-| An eye for an eye | 5.00% | ~82 |
+| Can't get wetter... | 5.00% | ~83 |
+| Spring cleaning | 5.00% | ~83 |
+| An eye for an eye | 5.00% | ~83 |
 | Second thoughts | 4.00% | ~66 |
 | Mooning the moon | 4.00% | ~66 |
 | Strip-a-bobble | 4.00% | ~66 |
-| Pearls before Birble | 3.00% | ~49 |
-| Last minute | 3.00% | ~49 |
+| Pearls before Birble | 3.00% | ~50 |
+| Last minute | 3.00% | ~50 |
 | Thar she blows | 2.00% | ~33 |
 | À la carte | 2.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,649 (Ranked 244)  
+Progressed: 1,652 (Ranked 243)  
 Completed: 10 (0.61%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 10 (0.61%) (Ranked 195)
 | 2023-12-15 | 1,586 | 10 |
 | 2023-12-16 | 1,606 | 10 |
 | 2023-12-17 | 1,647 | 10 |
-| 2023-12-18 | 1,649 | 10 |
+| 2023-12-18 | 1,652 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 759,
+  "Ranking_Rating": 746,
   "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 59,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.39,
+  "Rating": 4.4,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -1277,6 +1277,12 @@
       "Rating": 4.39,
       "NumberOfAwards": 365,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2023-12-18T11:58:36.2981099+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 365,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
@@ -1347,7 +1353,7 @@
   ],
   "EOS_Progressed": 259464,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24534,9 +24540,9 @@
       "ID": "BuyHighValueFurniture",
       "SetID": "3l9dm1h",
       "Name": "A major purchase",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1557
     },
     {
       "ID": "BuyNWeapons",
@@ -24910,9 +24916,9 @@
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-12-17T11:57:53.3395289+00:00",
-  "LastChanged_Achievements": "2023-12-18T11:07:26.0913246+00:00",
+  "LastChanged": "2023-12-18T11:58:36.2981098+00:00",
+  "LastChanged_Achievements": "2023-12-18T12:07:01.9960602+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.6293608+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:58:48.4620066+00:00",
-  "LastUpdate_Achievements": "2023-12-18T11:07:26.0914527+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:58:36.2981101+00:00",
+  "LastUpdate_Achievements": "2023-12-18T12:07:01.9962077+00:00"
 }

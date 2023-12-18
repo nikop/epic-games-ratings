@@ -50,7 +50,7 @@ Number of Ratings: 177  (23.09.2022)
 | Do You Smell Blood? | 0.30% | ~20 |
 | The Muse: Derek | 0.30% | ~20 |
 | Derezzed | 0.30% | ~20 |
-| Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~7 |
+| Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~8 |
 | Ronin | 0.20% | ~13 |
 | A Striking Resemblance | 0.20% | ~13 |
 | Howz It Goin Dood | 0.20% | ~13 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,710 (Ranked 187)  
+Progressed: 6,711 (Ranked 187)  
 Completed: 3 (0.04%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 3 (0.04%) (Ranked 337)
 | 2023-12-15 | 6,637 | 3 |
 | 2023-12-16 | 6,670 | 3 |
 | 2023-12-17 | 6,705 | 3 |
-| 2023-12-18 | 6,710 | 3 |
+| 2023-12-18 | 6,711 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

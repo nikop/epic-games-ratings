@@ -6,41 +6,41 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 98.00% | ~238 |
-| Daily Life Begins Anew | 82.00% | ~199 |
-| Our World Now | 81.00% | ~197 |
-| Never Saw It Coming | 66.00% | ~160 |
-| Coup de Grace | 58.00% | ~141 |
-| Go-Home Club Activities START! | 49.00% | ~119 |
+| Welcome to Redo | 98.00% | ~239 |
+| Daily Life Begins Anew | 82.00% | ~200 |
+| Our World Now | 81.00% | ~198 |
+| Never Saw It Coming | 66.00% | ~161 |
+| Coup de Grace | 57.00% | ~139 |
+| Go-Home Club Activities START! | 48.00% | ~117 |
 | Philanthropist | 39.00% | ~95 |
 | Test Your Luck | 34.00% | ~83 |
-| Behind the Curtain | 33.00% | ~80 |
+| Behind the Curtain | 33.00% | ~81 |
 | Master of Surprise | 30.00% | ~73 |
 | Be Who You Wanna Be | 27.00% | ~66 |
 | Investment Ban-χ-ing | 25.00% | ~61 |
 | Counter Champion | 25.00% | ~61 |
-| Friendly Neighborhood | 24.00% | ~58 |
-| Combo Commando | 24.00% | ~58 |
+| Friendly Neighborhood | 24.00% | ~59 |
+| Combo Commando | 24.00% | ~59 |
 | One-Track Mind | 23.00% | ~56 |
 | Nice Doing Business | 23.00% | ~56 |
 | Stay Winning | 23.00% | ~56 |
 | WIRE Guru | 21.00% | ~51 |
 | The Greater Good | 20.00% | ~49 |
 | Depths of the Heart | 20.00% | ~49 |
-| Selfish Decisions | 19.00% | ~46 |
-| Extracurricular Affair | 19.00% | ~46 |
 | Lost Souls For Sale | 19.00% | ~46 |
-| Trigger Finger | 19.00% | ~46 |
+| Selfish Decisions | 18.00% | ~44 |
 | Pulling Heartstrings | 18.00% | ~44 |
+| Extracurricular Affair | 18.00% | ~44 |
+| Trigger Finger | 18.00% | ~44 |
 | Hopes Rewarded | 17.00% | ~41 |
 | Guarding Guru | 17.00% | ~41 |
-| Hustled and Bustled | 12.00% | ~29 |
 | To Each Their Own | 11.00% | ~27 |
+| Hustled and Bustled | 11.00% | ~27 |
 | Eat Your Heart Out | 10.00% | ~24 |
 | Extra! Extra! Journalism Club Showdown | 9.00% | ~22 |
-| Redo Redone | 8.00% | ~19 |
-| Prince of Lettuce | 8.00% | ~19 |
-| Love, Loss, and the Omega Nebula | 8.00% | ~19 |
+| Redo Redone | 8.00% | ~20 |
+| Prince of Lettuce | 8.00% | ~20 |
+| Love, Loss, and the Omega Nebula | 8.00% | ~20 |
 | The Part-Time Tyrant | 7.00% | ~17 |
 | Songstress Unleashed | 7.00% | ~17 |
 | Executive Privilege | 7.00% | ~17 |
@@ -56,7 +56,7 @@ Number of Ratings: 32  (23.09.2022)
 | Topical Conversationalist | 1.00% | ~2 |
 | The Caligula Effect 2 | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243 (Ranked 388)  
+Progressed: 244 (Ranked 388)  
 Completed: 2 (0.82%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,6 +76,7 @@ Completed: 2 (0.82%) (Ranked 183)
 | 2023-11-28 | 241 | 2 |
 | 2023-12-15 | 242 | 2 |
 | 2023-12-17 | 243 | 2 |
+| 2023-12-18 | 244 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

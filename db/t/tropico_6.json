@@ -1455,9 +1455,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6481,
+  "EOS_Progressed": 6482,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14670,6 +14670,11 @@
       "Time": "2023-12-18T11:04:13.2587963+00:00",
       "NumProgressed": 6481,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-18T12:04:00.6980849+00:00",
+      "NumProgressed": 6482,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14697,7 +14702,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -14809,7 +14814,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -14841,7 +14846,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4796
+      "UsersEstimate": 4797
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14937,7 +14942,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2981
+      "UsersEstimate": 2982
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -14953,7 +14958,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -15000,15 +15005,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6481,
+      "Progressed": 6482,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-17T08:59:24.7574779+00:00",
-  "LastChanged_Achievements": "2023-12-18T11:04:13.2587959+00:00",
+  "LastChanged_Achievements": "2023-12-18T12:04:00.6980845+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.7844638+00:00",
-  "LastUpdate_Ratings": "2023-12-18T11:00:43.8166626+00:00",
-  "LastUpdate_Achievements": "2023-12-18T11:04:13.2589017+00:00"
+  "LastUpdate_Ratings": "2023-12-18T12:00:22.7542139+00:00",
+  "LastUpdate_Achievements": "2023-12-18T12:04:00.6981965+00:00"
 }

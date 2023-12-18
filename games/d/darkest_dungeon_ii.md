@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 8.00% | ~250 |
-| Lost and Found | 5.00% | ~156 |
-| This guy... again? | 4.00% | ~125 |
+| Malpractice Assurance | 8.00% | ~251 |
+| Lost and Found | 5.00% | ~157 |
+| This guy... again? | 4.00% | ~126 |
 | This Belongs in a Museum | 3.00% | ~3,848 |
 | Creep and Sleep | 3.00% | ~3,848 |
 | Catch and Decease | 3.00% | ~3,848 |
@@ -53,7 +53,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 1.00% | ~1,283 |
 | Unshackled | 1.00% | ~1,283 |
 | Road Trip | 1.00% | ~1,283 |
-| Hope Rekindled | 0.80% | ~1,026 |
+| Hope Rekindled | 0.90% | ~1,154 |
 | Ichthyophobic | 0.80% | ~1,026 |
 | No More Mouths to Feed | 0.80% | ~1,026 |
 | This Looks Familiar | 0.70% | ~898 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,261 (Ranked 85)  
+Progressed: 128,272 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,10 +318,10 @@ Completed: 3 (0.00%) (Ranked 380)
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
-| 2023-12-18 | 128,261 | 3 |
+| 2023-12-18 | 128,272 | 3 |
 ## Awards
 Max (Character Customization): 7,784  (Ranked 50)  
-Sum: 20,725 (Ranked 58)  
+Sum: 20,737 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -332,7 +332,7 @@ Diff (max vs sum): -8
 | This game is Extremely Fun | 1,465 |
 | This game has Amazing Characters | 1,465 |
 | This game has Amazing Storytelling | 1,392 |
-| This game has Unique Visuals | 1,374 |
+| This game has Unique Visuals | 1,386 |
 | This game has Quickly Understood Controls | 1,356 |
 | This game has a Creative Community | 1,026 |
 | This game has Obsessive Gameplay | 585 |
@@ -664,4 +664,4 @@ Diff (max vs sum): -8
 | 2023-12-15 | 4.68 | - | 7,718 | 20,517 |
 | 2023-12-16 | 4.68 | - | 7,744 | 20,595 |
 | 2023-12-17 | 4.68 | - | 7,763 | 20,673 |
-| 2023-12-18 | 4.68 | - | 7,784 | 20,725 |
+| 2023-12-18 | 4.68 | - | 7,784 | 20,737 |
