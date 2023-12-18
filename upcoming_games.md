@@ -318,6 +318,7 @@
 | [Entropic Decay](games/6/634b4057b29d483a9f3d6541b362f681.md) | 2099-01-01 | - |  | - | - |
 | [Eternal Damnation](games/f/f804fcc3063f467699936dbd544d9e9a.md) | 2099-01-01 | - |  | - | - |
 | [Eternity Convergence](games/e/eternity_convergence.md) | 2099-01-01 | - |  | - | - |
+| [Eternium](games/7/7957c388e44f4467a33496ce06d11020.md) | 2099-01-01 | - |  | - | - |
 | [Everholm](games/e/everholm.md) | 2099-01-01 | - |  | - | - |
 | [Exovoid](games/3/328e727b886d48ecbc8e00f79e858653.md) | 2099-01-01 | - |  | - | - |
 | [Expedition: Crushing Depth](games/0/0757d1c06c08401f9c02b88bcfb47f42.md) | 2099-01-01 | - |  | - | - |
