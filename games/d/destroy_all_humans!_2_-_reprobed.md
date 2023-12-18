@@ -6,27 +6,27 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 69.00% | ~77 |
+| Rock of the Bay | 68.00% | ~77 |
 | Mash Machine | 64.00% | ~72 |
 | Ducks in a Row, Fish in a Barrel | 38.00% | ~43 |
-| Furon Fashion | 35.00% | ~39 |
-| Shop Til They Drop | 29.00% | ~32 |
-| Earthly Pleasures | 25.00% | ~28 |
-| Bodied Sattva | 22.00% | ~25 |
+| Furon Fashion | 35.00% | ~40 |
+| Shop Til They Drop | 28.00% | ~32 |
+| Earthly Pleasures | 26.00% | ~29 |
+| Bodied Sattva | 23.00% | ~26 |
 | Cult Following | 19.00% | ~21 |
-| Lie Back and Think of Albion | 17.00% | ~19 |
-| Upgreatest | 17.00% | ~19 |
+| Lie Back and Think of Albion | 18.00% | ~20 |
+| Upgreatest | 18.00% | ~20 |
 | Pimp My Raid | 17.00% | ~19 |
 | I Look Up As I Walk to Takoshima | 15.00% | ~17 |
-| Perfect Probulator | 13.00% | ~15 |
-| Freshly Squeezed | 13.00% | ~15 |
+| Perfect Probulator | 12.00% | ~14 |
+| Freshly Squeezed | 12.00% | ~14 |
 | Die Nasty | 10.00% | ~11 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 7.00% | ~8 |
 | Dusted | 7.00% | ~8 |
 | Transmitting From Sol-3 | 6.00% | ~7 |
-| Fly Me to the Moon Base | 4.00% | ~4 |
-| Kaijuiced | 4.00% | ~4 |
-| Scuttled | 4.00% | ~4 |
+| Fly Me to the Moon Base | 4.00% | ~5 |
+| Kaijuiced | 4.00% | ~5 |
+| Scuttled | 4.00% | ~5 |
 | Lobster Blisque | 3.00% | ~3 |
 | Deincarnated | 2.00% | ~2 |
 | Yettisoned | 2.00% | ~2 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 112 (Ranked 451)  
+Progressed: 113 (Ranked 450)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-15 | 75 | 0 |
 | 2023-12-16 | 92 | 0 |
 | 2023-12-17 | 103 | 0 |
-| 2023-12-18 | 112 | 0 |
+| 2023-12-18 | 113 | 0 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 480)  
 Sum: 36 (Ranked 513)  

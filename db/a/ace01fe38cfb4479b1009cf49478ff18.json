@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 313,
+  "EOS_Progressed": 314,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1194,6 +1194,11 @@
       "Time": "2023-12-18T07:05:44.4093118+00:00",
       "NumProgressed": 313,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T11:07:33.383984+00:00",
+      "NumProgressed": 314,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1206,7 +1211,7 @@
       "Name": "Chapter I - Complete",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -1260,9 +1265,9 @@
       "ID": "ach_defeat_great_unclean_one",
       "SetID": "d499apg",
       "Name": "Defeat a Great Unclean One",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 38
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -1301,14 +1306,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 313,
+      "Progressed": 314,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:07:18.5465535+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:07:33.3839837+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.6680838+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:01:01.231811+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:07:18.5465689+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:01:37.4742481+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:07:33.3839973+00:00"
 }

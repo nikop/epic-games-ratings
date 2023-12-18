@@ -2,12 +2,12 @@
   "ID": "37ed871e17ab4466b4d5da28e9576ea6",
   "Name": "R-Type Final 2",
   "ProductSlug": "r-type-final-2",
-  "Ranking_Rating": 874,
+  "Ranking_Rating": 849,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 805,
+  "Ranking_EOS_Progress": 806,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 543,
+  "Ranking_EOS_NewPlayers": 548,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-04-30T17:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.27,
+  "Rating": 4.3,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:05.4593044+00:00",
@@ -45,6 +45,12 @@
       "Rating": 4.27,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-18T11:03:51.5967612+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -63,8 +69,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:14.0717301+00:00",
   "FirstSeenRating": "2023-03-31T05:57:05.459304+00:00",
-  "LastChanged": "2023-10-29T05:03:10.7684947+00:00",
+  "LastChanged": "2023-12-18T11:03:51.596761+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:16.9736594+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:03:37.8554874+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:05:06.3048041+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:03:51.5967621+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:05:20.2795213+00:00"
 }

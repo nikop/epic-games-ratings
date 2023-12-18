@@ -31,11 +31,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 1.00% | ~186 |
 | Corrosive Torrent | 1.00% | ~186 |
 | Watchtower | 1.00% | ~186 |
+| Cursed Lands | 1.00% | ~186 |
 | A Real Challenge | 1.00% | ~186 |
 | Trade Baron | 1.00% | ~186 |
 | Ancient Battleground | 0.90% | ~167 |
 | Statue of the Forefathers | 0.90% | ~167 |
-| Cursed Lands | 0.90% | ~167 |
 | Barren Lands | 0.80% | ~149 |
 | Flooded Mines | 0.80% | ~149 |
 | Against All Odds | 0.70% | ~130 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,563 (Ranked 147)  
+Progressed: 18,568 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 39 (0.21%) (Ranked 263)
 | 2023-12-15 | 18,272 | 39 |
 | 2023-12-16 | 18,388 | 39 |
 | 2023-12-17 | 18,534 | 40 |
-| 2023-12-18 | 18,563 | 39 |
+| 2023-12-18 | 18,568 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,267 (Ranked 175)  

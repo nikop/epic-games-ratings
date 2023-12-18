@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 148,
+  "EOS_Progressed": 149,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
@@ -694,6 +694,11 @@
       "Time": "2023-12-18T10:07:51.8159902+00:00",
       "NumProgressed": 148,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T11:08:27.1125736+00:00",
+      "NumProgressed": 149,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -786,7 +791,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "decrypt_one_myth",
@@ -810,7 +815,7 @@
       "Name": "Refuse to look",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "do_what_you_have_to",
@@ -818,7 +823,7 @@
       "Name": "Do what you have to",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "earn_all_trophies",
@@ -834,7 +839,7 @@
       "Name": "Face your fears",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -882,7 +887,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "finished_it",
@@ -890,7 +895,7 @@
       "Name": "Finished it",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "first_step",
@@ -1040,9 +1045,9 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 121
     },
     {
       "ID": "spy_one_item",
@@ -1104,31 +1109,31 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 89
     },
     {
       "ID": "whispers_long_forgotten",
       "SetID": "f2im8d",
       "Name": "Whispers long forgotten",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 148,
+      "Progressed": 149,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:07:51.8159897+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:08:27.1125731+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:26.5525701+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:57:10.8450456+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:07:51.8160295+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:57:34.0127613+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:08:27.1126047+00:00"
 }

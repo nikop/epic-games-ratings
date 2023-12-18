@@ -6,44 +6,44 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~33,094 |
-| It wakes | 3.00% | ~33,094 |
-| Skillful | 3.00% | ~33,094 |
-| The Grand Sacrifice | 2.00% | ~22,062 |
-| No one left behind | 2.00% | ~22,062 |
-| Medic | 2.00% | ~22,062 |
-| Handyman | 2.00% | ~22,062 |
-| Not half bad | 2.00% | ~22,062 |
-| Bloody Millionaire | 2.00% | ~22,062 |
-| Apt Survivor | 2.00% | ~22,062 |
-| Survival Treasures | 2.00% | ~22,062 |
-| I | 2.00% | ~22,062 |
-| Sorted | 2.00% | ~22,062 |
-| Healthy Obsession | 2.00% | ~22,062 |
-| Resurgence | 2.00% | ~22,062 |
-| Preemptive Strike | 2.00% | ~22,062 |
-| Humanitarian | 2.00% | ~22,062 |
-| Make Some Noise | 2.00% | ~22,062 |
-| Agonizing Escape | 1.00% | ~11,031 |
-| Backdoor Escape | 1.00% | ~11,031 |
-| I've got your back | 1.00% | ~11,031 |
-| Perfect Escape | 1.00% | ~11,031 |
-| Perfect Killing | 1.00% | ~11,031 |
-| Apt Killer | 1.00% | ~11,031 |
-| Risk it all | 1.00% | ~11,031 |
-| Vulture | 1.00% | ~11,031 |
-| II | 1.00% | ~11,031 |
-| III | 1.00% | ~11,031 |
-| Engineer | 1.00% | ~11,031 |
-| Wounded Healer | 1.00% | ~11,031 |
-| Close Shave | 1.00% | ~11,031 |
-| Second Act | 1.00% | ~11,031 |
-| Escape Artist | 0.90% | ~9,928 |
-| First to the Punch | 0.90% | ~9,928 |
-| Operation: Survival | 0.90% | ~9,928 |
-| Every Last Drop | 0.90% | ~9,928 |
-| With Scars to Show | 0.90% | ~9,928 |
-| Lifting The Fog | 0.90% | ~9,928 |
+| Zealous | 3.00% | ~33,096 |
+| It wakes | 3.00% | ~33,096 |
+| Skillful | 3.00% | ~33,096 |
+| The Grand Sacrifice | 2.00% | ~22,064 |
+| No one left behind | 2.00% | ~22,064 |
+| Medic | 2.00% | ~22,064 |
+| Handyman | 2.00% | ~22,064 |
+| Not half bad | 2.00% | ~22,064 |
+| Bloody Millionaire | 2.00% | ~22,064 |
+| Apt Survivor | 2.00% | ~22,064 |
+| Survival Treasures | 2.00% | ~22,064 |
+| I | 2.00% | ~22,064 |
+| Sorted | 2.00% | ~22,064 |
+| Healthy Obsession | 2.00% | ~22,064 |
+| Resurgence | 2.00% | ~22,064 |
+| Preemptive Strike | 2.00% | ~22,064 |
+| Humanitarian | 2.00% | ~22,064 |
+| Make Some Noise | 2.00% | ~22,064 |
+| Agonizing Escape | 1.00% | ~11,032 |
+| Backdoor Escape | 1.00% | ~11,032 |
+| I've got your back | 1.00% | ~11,032 |
+| Perfect Escape | 1.00% | ~11,032 |
+| Perfect Killing | 1.00% | ~11,032 |
+| Apt Killer | 1.00% | ~11,032 |
+| Risk it all | 1.00% | ~11,032 |
+| Vulture | 1.00% | ~11,032 |
+| II | 1.00% | ~11,032 |
+| III | 1.00% | ~11,032 |
+| Engineer | 1.00% | ~11,032 |
+| Wounded Healer | 1.00% | ~11,032 |
+| Close Shave | 1.00% | ~11,032 |
+| Second Act | 1.00% | ~11,032 |
+| Escape Artist | 0.90% | ~9,929 |
+| First to the Punch | 0.90% | ~9,929 |
+| Operation: Survival | 0.90% | ~9,929 |
+| Every Last Drop | 0.90% | ~9,929 |
+| With Scars to Show | 0.90% | ~9,929 |
+| Lifting The Fog | 0.90% | ~9,929 |
 | Blood on your hands | 0.80% | ~8,825 |
 | Raccoon City Recruit | 0.80% | ~8,825 |
 | Flight to Freedom | 0.80% | ~8,825 |
@@ -85,25 +85,25 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrun the Overlap | 0.50% | ~5,516 |
 | Rebuilding The Borgo | 0.50% | ~5,516 |
 | Extraterrestrial | 0.50% | ~5,516 |
-| Jump Scares | 0.40% | ~4,412 |
-| Deep Cleansing | 0.40% | ~4,412 |
-| Texas BBQ | 0.40% | ~4,412 |
-| Serial Killer | 0.40% | ~4,412 |
-| Game Over | 0.40% | ~4,412 |
-| Party Crasher | 0.40% | ~4,412 |
-| Outrage | 0.40% | ~4,412 |
-| Broken Bodies | 0.40% | ~4,412 |
-| I See You | 0.40% | ~4,412 |
-| High Speed Pursuit | 0.40% | ~4,412 |
-| Complete the Evolution | 0.40% | ~4,412 |
-| Blood in your mouth | 0.30% | ~3,309 |
-| Whiffing to Success | 0.30% | ~3,309 |
-| Heavy Burden | 0.30% | ~3,309 |
-| Power Moves | 0.30% | ~3,309 |
-| Punch Drunk | 0.30% | ~3,309 |
-| Prowler | 0.30% | ~3,309 |
-| Triage | 0.30% | ~3,309 |
-| Kitted Out | 0.30% | ~3,309 |
+| Jump Scares | 0.40% | ~4,413 |
+| Deep Cleansing | 0.40% | ~4,413 |
+| Texas BBQ | 0.40% | ~4,413 |
+| Serial Killer | 0.40% | ~4,413 |
+| Game Over | 0.40% | ~4,413 |
+| Party Crasher | 0.40% | ~4,413 |
+| Outrage | 0.40% | ~4,413 |
+| Broken Bodies | 0.40% | ~4,413 |
+| I See You | 0.40% | ~4,413 |
+| High Speed Pursuit | 0.40% | ~4,413 |
+| Complete the Evolution | 0.40% | ~4,413 |
+| Blood in your mouth | 0.30% | ~3,310 |
+| Whiffing to Success | 0.30% | ~3,310 |
+| Heavy Burden | 0.30% | ~3,310 |
+| Power Moves | 0.30% | ~3,310 |
+| Punch Drunk | 0.30% | ~3,310 |
+| Prowler | 0.30% | ~3,310 |
+| Triage | 0.30% | ~3,310 |
+| Kitted Out | 0.30% | ~3,310 |
 | A feast for the Entity | 0.20% | ~2,206 |
 | Mad House | 0.20% | ~2,206 |
 | Looter | 0.20% | ~2,206 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,103 |
 | Adept Good Guy | 0.10% | ~1,103 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,103,123 (Ranked 12)  
+Progressed: 1,103,184 (Ranked 12)  
 Completed: 63 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -481,10 +481,10 @@ Completed: 63 (0.01%) (Ranked 356)
 | 2023-12-15 | 1,097,468 | 62 |
 | 2023-12-16 | 1,099,953 | 62 |
 | 2023-12-17 | 1,102,441 | 63 |
-| 2023-12-18 | 1,103,123 | 63 |
+| 2023-12-18 | 1,103,184 | 63 |
 ## Awards
 Max (Diverse Characters): 38,160  (Ranked 15)  
-Sum: 288,481 (Ranked 12)  
+Sum: 288,527 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -492,7 +492,7 @@ Diff (max vs sum): 3
 | This game is Highly Recommended | 33,041 |
 | This game has Amazing Characters | 32,490 |
 | This game has Competitive Players | 32,276 |
-| This game is Extremely Fun | 31,941 |
+| This game is Extremely Fun | 31,987 |
 | This game has Challenging Combat | 31,890 |
 | This game has Quickly Understood Controls | 31,067 |
 | This game has Amazing Storytelling | 29,414 |
@@ -830,4 +830,4 @@ Diff (max vs sum): 3
 | 2023-12-15 | 4.51 | - | 37,936 | 287,393 |
 | 2023-12-16 | 4.51 | - | 38,017 | 287,918 |
 | 2023-12-17 | 4.51 | - | 38,094 | 288,337 |
-| 2023-12-18 | 4.51 | - | 38,160 | 288,481 |
+| 2023-12-18 | 4.51 | - | 38,160 | 288,527 |

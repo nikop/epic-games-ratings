@@ -4,7 +4,7 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -268,25 +268,25 @@
       "ID": "ach_picklock12",
       "SetID": "753ghg2",
       "Name": "Sewing factory",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 45,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_picklock13",
       "SetID": "753ghg2",
       "Name": "Butcher shop",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_picklock14",
       "SetID": "753ghg2",
       "Name": "Cinema",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_picklock15",
@@ -412,9 +412,9 @@
       "ID": "ach_picklock7",
       "SetID": "753ghg2",
       "Name": "Good movie",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_picklock8",
@@ -443,8 +443,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:10:20.1256465+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:10:56.5709254+00:00",
   "LastUpdate_AppInfo": "2023-12-13T08:56:58.7290951+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:03:15.4395991+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:10:20.1256887+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:03:30.253029+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:10:56.5709532+00:00"
 }

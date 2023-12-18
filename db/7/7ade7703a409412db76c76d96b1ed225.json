@@ -2,9 +2,9 @@
   "ID": "7ade7703a409412db76c76d96b1ed225",
   "Name": "Reef Escape",
   "ProductSlug": "reef-escape-22dfdd",
-  "Ranking_EOS_Progress": 805,
+  "Ranking_EOS_Progress": 806,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 543,
+  "Ranking_EOS_NewPlayers": 548,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-15T04:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-16T21:57:10.0473443+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:57:42.8295141+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:07:04.5757884+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:58:08.5894342+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:07:19.295869+00:00"
 }

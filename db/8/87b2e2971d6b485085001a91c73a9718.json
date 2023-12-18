@@ -4,7 +4,7 @@
   "ProductSlug": "kaze-and-the-wild-masks-94a27d",
   "Ranking_EOS_Progress": 592,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewPlayers": 427,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-30T08:00:00+00:00",
@@ -153,9 +153,9 @@
       "ID": "12",
       "SetID": "279eo25",
       "Name": "Flawless!",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "13",
@@ -177,9 +177,9 @@
       "ID": "15",
       "SetID": "279eo25",
       "Name": "Run, Rabbit! Run!",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "16",
@@ -273,9 +273,9 @@
       "ID": "3",
       "SetID": "279eo25",
       "Name": "Best Friend",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "4",
@@ -336,8 +336,8 @@
   ],
   "FirstSeen": "2023-12-03T09:57:17.9885642+00:00",
   "FirstSeenAchievements": "2023-11-20T15:03:30.7239426+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:09:27.6006596+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:10:04.0436364+00:00",
   "LastUpdate_AppInfo": "2023-12-11T16:57:10.5624045+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:58:25.413288+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:09:27.6006766+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:58:53.5674913+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:10:04.0436519+00:00"
 }

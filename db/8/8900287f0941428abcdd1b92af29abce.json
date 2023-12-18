@@ -187,9 +187,9 @@
       "ID": "ach-bucket-of-salt-water",
       "SetID": "6aph42m",
       "Name": "Now I can drink that",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach-cactus",
@@ -243,9 +243,9 @@
       "ID": "ach-copper",
       "SetID": "6aph42m",
       "Name": "Harder materials",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach-copper-watering-can",
@@ -323,17 +323,17 @@
       "ID": "ach-goblin-bed",
       "SetID": "6aph42m",
       "Name": "Helping a friend",
-      "Percentage": 25,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach-goblin-bed-destroy",
       "SetID": "6aph42m",
       "Name": "Give and take",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach-gold-bookcase",
@@ -355,9 +355,9 @@
       "ID": "ach-ladder",
       "SetID": "6aph42m",
       "Name": "It\u0027s dark here!",
-      "Percentage": 50,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach-lava-lamp",
@@ -531,17 +531,17 @@
       "ID": "ach-torch",
       "SetID": "6aph42m",
       "Name": "I can see in the dark now!",
-      "Percentage": 40,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach-wool",
       "SetID": "6aph42m",
       "Name": "A naked sheep",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach-workbench",
@@ -562,8 +562,8 @@
   ],
   "FirstSeen": "2023-12-09T20:59:53.605626+00:00",
   "FirstSeenAchievements": "2023-09-27T06:05:39.2666292+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:09:41.3650736+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:10:17.682223+00:00",
   "LastUpdate_AppInfo": "2023-12-13T11:57:08.2416501+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:01:05.8356428+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:09:41.3651049+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:01:42.5847099+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:10:17.6822607+00:00"
 }

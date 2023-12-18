@@ -2,7 +2,7 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 419,
+  "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 153,
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150,
+  "EOS_Progressed": 154,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.67,
+  "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
       "Time": "2023-10-17T15:03:17.566478+00:00",
@@ -629,6 +629,11 @@
       "Time": "2023-12-18T10:07:25.5845502+00:00",
       "NumProgressed": 150,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T11:07:40.6204176+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -647,9 +652,9 @@
       "ID": "AC_ALL_COLUMNS",
       "SetID": "16i2akc",
       "Name": "Empire",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "AC_ALL_MONEYSACKS",
@@ -657,7 +662,7 @@
       "Name": "Bowels",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AC_ALL_RECIPES",
@@ -665,7 +670,7 @@
       "Name": "Cookbook",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AC_ALL_TOYS",
@@ -673,7 +678,7 @@
       "Name": "Gift",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AC_ALL_WEAPONS",
@@ -703,17 +708,17 @@
       "ID": "AC_BLACKJACK_GAMES_2",
       "SetID": "16i2akc",
       "Name": "Ludopath",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "AC_BOSS_01",
@@ -721,7 +726,7 @@
       "Name": "Misery",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "AC_BOSS_02",
@@ -751,7 +756,7 @@
       "ID": "AC_COMBO_1",
       "SetID": "16i2akc",
       "Name": "Pack",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
       "UsersEstimate": 40
     },
@@ -761,7 +766,7 @@
       "Name": "Flock",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AC_COMBO_3",
@@ -775,7 +780,7 @@
       "ID": "AC_CROSSBOW_MAX",
       "SetID": "16i2akc",
       "Name": "Bolt",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -785,7 +790,7 @@
       "Name": "Corpse",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "AC_DEATH_2",
@@ -807,7 +812,7 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
       "UsersEstimate": 74
     },
@@ -815,31 +820,31 @@
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 49
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
       "SetID": "16i2akc",
       "Name": "Genocide",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 45,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 122
     },
     {
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 25,
       "UsersEstimate": 72
     },
@@ -847,7 +852,7 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 45,
       "UsersEstimate": 54
     },
@@ -857,7 +862,7 @@
       "Name": "Player",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -865,7 +870,7 @@
       "Name": "Creation",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -879,9 +884,9 @@
       "ID": "AC_FLASHBACK_03",
       "SetID": "16i2akc",
       "Name": "Schooling",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "AC_FULL_MAP",
@@ -905,7 +910,7 @@
       "Name": "Band",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AC_PISTOL_MAX",
@@ -919,7 +924,7 @@
       "ID": "AC_RECIPES_DONE_1",
       "SetID": "16i2akc",
       "Name": "Cook",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -929,7 +934,7 @@
       "Name": "Cheff",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AC_ROCKET_MAX",
@@ -943,7 +948,7 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
       "UsersEstimate": 68
     },
@@ -961,7 +966,7 @@
       "Name": "Crosshair",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AC_UZI_MAX",
@@ -969,21 +974,21 @@
       "Name": "Machine",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 150,
+      "Progressed": 154,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:07:25.5845498+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:07:40.6204173+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:56.8907916+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:59:35.6916142+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:07:25.5845748+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:00:08.2599507+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:07:40.62044+00:00"
 }

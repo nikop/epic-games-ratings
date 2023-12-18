@@ -5,21 +5,21 @@ Rating: 4.21 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~979 |
-| Battlefields Have Memories | 79.00% | ~889 |
-| Enlisted | 72.00% | ~810 |
+| Unforeseen | 88.00% | ~991 |
+| Battlefields Have Memories | 79.00% | ~890 |
+| Enlisted | 72.00% | ~811 |
 | Maybe Engage a Little | 67.00% | ~754 |
 | No More Names | 47.00% | ~529 |
 | Initiate | 32.00% | ~360 |
 | Thrada-Kul | 28.00% | ~315 |
 | Gravity-Challenged Rocks | 22.00% | ~248 |
 | Socialite | 21.00% | ~236 |
-| Soldier | 18.00% | ~202 |
+| Soldier | 18.00% | ~203 |
 | All the Major Food Groups | 17.00% | ~191 |
 | Beggars Would Ride | 15.00% | ~169 |
 | Control is an Illusion | 14.00% | ~158 |
 | The Means to Save It | 11.00% | ~124 |
-| Resilience to Sin | 10.00% | ~112 |
+| Resilience to Sin | 10.00% | ~113 |
 | A Familiar Nest | 9.00% | ~101 |
 | Geas Aristeya | 9.00% | ~101 |
 | Periapt Alizarin | 9.00% | ~101 |
@@ -35,25 +35,25 @@ Rating: 4.21 (Ranked 920)
 | Best Dressed | 3.00% | ~34 |
 | Armaments Azure | 3.00% | ~34 |
 | Armaments Gules | 3.00% | ~34 |
-| Scholar | 2.00% | ~22 |
-| Armaments Vert | 2.00% | ~22 |
-| Veteran | 2.00% | ~22 |
+| Scholar | 2.00% | ~23 |
+| Armaments Vert | 2.00% | ~23 |
+| Veteran | 2.00% | ~23 |
 | Master of Carmine | 1.00% | ~11 |
 | Master of Ultramarine | 0.80% | ~9 |
 | Shroudfane Surveyor | 0.70% | ~8 |
 | Tip of the Spear | 0.70% | ~8 |
 | Master of Malachite | 0.60% | ~7 |
 | Backtracker | 0.60% | ~7 |
-| Grand Magnus | 0.40% | ~4 |
-| Petite Bourgeoisie | 0.40% | ~4 |
-| Treasure Hunter | 0.40% | ~4 |
+| Grand Magnus | 0.40% | ~5 |
+| Petite Bourgeoisie | 0.40% | ~5 |
+| Treasure Hunter | 0.40% | ~5 |
 | Diplomat | 0.30% | ~3 |
 | Witch-Taker | 0.30% | ~3 |
 | Out of Time | 0.30% | ~3 |
 | Fowl Play | 0.30% | ~3 |
 | Family Business | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,125 (Ranked 269)  
+Progressed: 1,126 (Ranked 269)  
 Completed: 2 (0.18%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 2 (0.18%) (Ranked 270)
 | 2023-12-15 | 689 | 2 |
 | 2023-12-16 | 908 | 2 |
 | 2023-12-17 | 1,065 | 2 |
-| 2023-12-18 | 1,125 | 2 |
+| 2023-12-18 | 1,126 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

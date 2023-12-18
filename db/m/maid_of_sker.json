@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewPlayers": 371,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233,
+  "EOS_Progressed": 234,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -550,6 +550,11 @@
       "Time": "2023-12-18T08:05:12.9907486+00:00",
       "NumProgressed": 233,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T11:06:49.7146544+00:00",
+      "NumProgressed": 234,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -559,9 +564,9 @@
       "ID": "animal_lover",
       "SetID": "3j2phem",
       "Name": "Animal Lover",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 82
     },
     {
       "ID": "axe_of_kindness",
@@ -599,9 +604,9 @@
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 103
     },
     {
       "ID": "dodgy_geezer",
@@ -615,9 +620,9 @@
       "ID": "dont_breath",
       "SetID": "3j2phem",
       "Name": "Don\u0027t Breathe",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 75
     },
     {
       "ID": "easy_listening",
@@ -800,7 +805,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 233,
+      "Progressed": 234,
       "Completed": 0
     }
   ],
@@ -808,8 +813,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:06:35.1845597+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:06:49.7146539+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:12.385492+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:57:59.1033929+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:06:35.1845815+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:58:26.0636072+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:06:49.714676+00:00"
 }

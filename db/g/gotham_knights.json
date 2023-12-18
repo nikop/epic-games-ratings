@@ -4647,10 +4647,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 5169,
       "NumberOfAwardsMax": 3022
+    },
+    {
+      "Time": "2023-12-18T10:58:33.5261901+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 5170,
+      "NumberOfAwardsMax": 3022
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5169,
+  "NumberOfAwards": 5170,
   "NumberOfAwardsMax": 3022,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4694,7 +4700,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 269
+      "Count": 270
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4715,9 +4721,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 78594,
+  "EOS_Progressed": 78598,
   "EOS_Completed": 126,
-  "EOS_NewPlayers": 709,
+  "EOS_NewPlayers": 713,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26480,6 +26486,11 @@
       "Time": "2023-12-18T10:07:02.5309041+00:00",
       "NumProgressed": 78594,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2023-12-18T11:07:17.3285649+00:00",
+      "NumProgressed": 78598,
+      "NumCompleted": 126
     }
   ],
   "TotalAchievements": 61,
@@ -26491,7 +26502,7 @@
       "Name": "Hammer and Icicle",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "AC1_HA_BREAK_BUFFS",
@@ -26515,7 +26526,7 @@
       "Name": "Renewable Enemy Source",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "AC1_HA_RESERVOIR",
@@ -26523,7 +26534,7 @@
       "Name": "Crime Is a Terrible Thing to Waste",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "AC1_HA_STARLABS",
@@ -26539,7 +26550,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17291
+      "UsersEstimate": 17292
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -26555,7 +26566,7 @@
       "Name": "Showdown Sovereign",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ALL_TRAINING_ROOMS",
@@ -26571,7 +26582,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9431
+      "UsersEstimate": 9432
     },
     {
       "ID": "APPLY_STATUS",
@@ -26579,7 +26590,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11789
+      "UsersEstimate": 11790
     },
     {
       "ID": "CHALLENGES_1",
@@ -26587,7 +26598,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 12575
+      "UsersEstimate": 12576
     },
     {
       "ID": "CLAYFACE_1",
@@ -26595,7 +26606,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16505
+      "UsersEstimate": 16506
     },
     {
       "ID": "CLAYFACE_2",
@@ -26603,7 +26614,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 14147
+      "UsersEstimate": 14148
     },
     {
       "ID": "CLAYFACE_3",
@@ -26611,7 +26622,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 11003
+      "UsersEstimate": 11004
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -26651,7 +26662,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 10217
+      "UsersEstimate": 10218
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -26667,7 +26678,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9431
+      "UsersEstimate": 9432
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -26675,7 +26686,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7073
+      "UsersEstimate": 7074
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -26699,7 +26710,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10217
+      "UsersEstimate": 10218
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -26707,7 +26718,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7859
+      "UsersEstimate": 7860
     },
     {
       "ID": "FREEZE_1",
@@ -26715,7 +26726,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 22006
+      "UsersEstimate": 22007
     },
     {
       "ID": "FREEZE_1_5",
@@ -26723,7 +26734,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15719
+      "UsersEstimate": 15720
     },
     {
       "ID": "FREEZE_2",
@@ -26731,7 +26742,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14933
+      "UsersEstimate": 14934
     },
     {
       "ID": "FREEZE_3",
@@ -26739,7 +26750,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 11003
+      "UsersEstimate": 11004
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -26795,7 +26806,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26722
+      "UsersEstimate": 26723
     },
     {
       "ID": "HARLEY_2",
@@ -26803,7 +26814,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19648
+      "UsersEstimate": 19650
     },
     {
       "ID": "HARLEY_3",
@@ -26811,7 +26822,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15719
+      "UsersEstimate": 15720
     },
     {
       "ID": "HARLEY_4",
@@ -26819,7 +26830,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12575
+      "UsersEstimate": 12576
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -26835,7 +26846,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 39297
+      "UsersEstimate": 39299
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -26859,7 +26870,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15719
+      "UsersEstimate": 15720
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -26867,7 +26878,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 21220
+      "UsersEstimate": 21221
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -26883,7 +26894,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 25936
+      "UsersEstimate": 25937
     },
     {
       "ID": "MYSTERY_02",
@@ -26891,7 +26902,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 18863
+      "UsersEstimate": 18864
     },
     {
       "ID": "MYSTERY_03",
@@ -26899,7 +26910,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17291
+      "UsersEstimate": 17292
     },
     {
       "ID": "MYSTERY_04",
@@ -26907,7 +26918,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15719
+      "UsersEstimate": 15720
     },
     {
       "ID": "MYSTERY_05",
@@ -26915,7 +26926,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13361
+      "UsersEstimate": 13362
     },
     {
       "ID": "MYSTERY_06",
@@ -26923,7 +26934,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11789
+      "UsersEstimate": 11790
     },
     {
       "ID": "MYSTERY_07",
@@ -26931,7 +26942,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 11003
+      "UsersEstimate": 11004
     },
     {
       "ID": "MYSTERY_08",
@@ -26939,7 +26950,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9431
+      "UsersEstimate": 9432
     },
     {
       "ID": "SECRET_CACHE",
@@ -26947,7 +26958,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8645
+      "UsersEstimate": 8646
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -26955,7 +26966,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7073
+      "UsersEstimate": 7074
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -26978,22 +26989,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 78594,
+      "Progressed": 78598,
       "Completed": 126
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48874,
+      "Progressed": 48878,
       "Completed": 2675
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-12-17T21:57:33.1507464+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:07:02.5309035+00:00",
+  "LastChanged": "2023-12-18T10:58:33.5261899+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:07:17.3285644+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:16.1599271+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:58:06.5180786+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:07:02.5310178+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:58:33.5261904+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:07:17.3287215+00:00"
 }

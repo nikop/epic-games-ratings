@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15655,
+  "EOS_Progressed": 15663,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 1826,
+  "EOS_NewPlayers": 1827,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -4797,6 +4797,11 @@
       "Time": "2023-12-18T10:07:00.8532792+00:00",
       "NumProgressed": 15655,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-12-18T11:07:15.5352415+00:00",
+      "NumProgressed": 15663,
+      "NumCompleted": 68
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -4841,7 +4846,7 @@
       "Name": "Savior",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -4857,7 +4862,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -4873,7 +4878,7 @@
       "Name": "Locksmith",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -4888,7 +4893,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 15655,
+      "Progressed": 15663,
       "Completed": 68
     }
   ],
@@ -4896,8 +4901,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-18T03:58:42.6359817+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:07:00.8532789+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:07:15.5352403+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:09.5453569+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:58:48.8100244+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:07:00.853307+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:59:18.1639559+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:07:15.5352723+00:00"
 }

@@ -9784,10 +9784,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20716,
       "NumberOfAwardsMax": 7784
+    },
+    {
+      "Time": "2023-12-18T10:59:11.5833341+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20725,
+      "NumberOfAwardsMax": 7784
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20716,
+  "NumberOfAwards": 20725,
   "NumberOfAwardsMax": 7784,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9807,7 +9813,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1535
+      "Count": 1544
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9864,9 +9870,9 @@
       "Count": 1026
     }
   ],
-  "EOS_Progressed": 128252,
+  "EOS_Progressed": 128261,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2140,
+  "EOS_NewPlayers": 2144,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35624,6 +35630,11 @@
       "Time": "2023-12-18T10:09:27.1452969+00:00",
       "NumProgressed": 128252,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T11:10:03.5633604+00:00",
+      "NumProgressed": 128261,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35993,9 +36004,9 @@
       "ID": "hero_story_complete_all",
       "SetID": "64l4lke",
       "Name": "Shrine of Reflection",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 513
+      "UsersEstimate": 641
     },
     {
       "ID": "hero_story_complete_any",
@@ -36243,7 +36254,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -36266,21 +36277,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128252,
+      "Progressed": 128261,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3121,
+      "Progressed": 3130,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-18T09:58:42.3848696+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:09:27.1452962+00:00",
+  "LastChanged": "2023-12-18T10:59:11.5833339+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:10:03.5633599+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:58:42.3848705+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:09:27.1454425+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:59:11.5833344+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:10:03.563507+00:00"
 }

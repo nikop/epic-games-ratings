@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 2.00% | ~2,565 |
 | FNG | 2.00% | ~2,565 |
 | Nope | 2.00% | ~2,565 |
-| Friends 'Til the End | 2.00% | ~62 |
+| Friends 'Til the End | 2.00% | ~63 |
 | Resurrection | 1.00% | ~1,283 |
 | Unleash Hell | 1.00% | ~1,283 |
 | Funny Guy | 1.00% | ~1,283 |
@@ -61,11 +61,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 0.70% | ~898 |
 | Slap on the Wrist | 0.70% | ~22 |
 | For Old Time' Sake | 0.60% | ~19 |
+| Shrine of Reflection | 0.50% | ~641 |
 | Handled | 0.50% | ~641 |
 | Body of Work | 0.50% | ~641 |
 | Et Tu, Riposte? | 0.50% | ~16 |
 | Clearing the Ledger | 0.40% | ~513 |
-| Shrine of Reflection | 0.40% | ~513 |
 | Bacon Bits | 0.30% | ~385 |
 | Hat Trick | 0.30% | ~385 |
 | Triage | 0.30% | ~385 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,252 (Ranked 85)  
+Progressed: 128,261 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,17 +318,17 @@ Completed: 3 (0.00%) (Ranked 380)
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
-| 2023-12-18 | 128,252 | 3 |
+| 2023-12-18 | 128,261 | 3 |
 ## Awards
 Max (Character Customization): 7,784  (Ranked 50)  
-Sum: 20,716 (Ranked 58)  
+Sum: 20,725 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,784 |
 | This game has Diverse Characters | 1,720 |
 | This game has Challenging Combat | 1,599 |
-| This game is Highly Recommended | 1,535 |
+| This game is Highly Recommended | 1,544 |
 | This game is Extremely Fun | 1,465 |
 | This game has Amazing Characters | 1,465 |
 | This game has Amazing Storytelling | 1,392 |
@@ -664,4 +664,4 @@ Diff (max vs sum): -8
 | 2023-12-15 | 4.68 | - | 7,718 | 20,517 |
 | 2023-12-16 | 4.68 | - | 7,744 | 20,595 |
 | 2023-12-17 | 4.68 | - | 7,763 | 20,673 |
-| 2023-12-18 | 4.68 | - | 7,784 | 20,716 |
+| 2023-12-18 | 4.68 | - | 7,784 | 20,725 |

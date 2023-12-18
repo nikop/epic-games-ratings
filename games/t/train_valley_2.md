@@ -6,22 +6,22 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~309,883 |
-| Full garage | 61.00% | ~258,943 |
-| To the eyeballs! | 51.00% | ~216,493 |
-| Individual delivery | 47.00% | ~199,514 |
-| Non-Stop | 45.00% | ~191,024 |
-| Juggler | 36.00% | ~152,819 |
-| Forgot something | 35.00% | ~148,574 |
-| Close call! | 30.00% | ~127,349 |
-| Get out my way | 28.00% | ~118,859 |
-| Common cause | 26.00% | ~110,369 |
-| Critical care | 26.00% | ~110,369 |
-| Mega-railroad | 23.00% | ~97,634 |
-| Upgrade complete | 23.00% | ~97,634 |
-| Just in time! | 18.00% | ~76,409 |
-| Builder | 17.00% | ~72,164 |
-| Long Haul | 17.00% | ~72,052 |
+| Dealmaker | 73.00% | ~309,887 |
+| Full garage | 61.00% | ~258,947 |
+| To the eyeballs! | 51.00% | ~216,497 |
+| Individual delivery | 47.00% | ~199,516 |
+| Non-Stop | 45.00% | ~191,026 |
+| Juggler | 36.00% | ~152,821 |
+| Forgot something | 35.00% | ~148,576 |
+| Close call! | 30.00% | ~127,351 |
+| Get out my way | 28.00% | ~118,861 |
+| Common cause | 26.00% | ~110,371 |
+| Critical care | 26.00% | ~110,371 |
+| Mega-railroad | 23.00% | ~97,636 |
+| Upgrade complete | 23.00% | ~97,636 |
+| Just in time! | 18.00% | ~76,411 |
+| Builder | 17.00% | ~72,166 |
+| Long Haul | 17.00% | ~72,053 |
 | Steam Age | 16.00% | ~67,920 |
 | Multilevel road | 15.00% | ~63,675 |
 | Bridgemania | 14.00% | ~59,430 |
@@ -32,7 +32,7 @@ Number of Ratings: 87  (23.09.2022)
 | One way | 10.00% | ~42,450 |
 | Relocation | 10.00% | ~42,450 |
 | Industrial Age | 9.00% | ~38,205 |
-| Just One More Valley | 9.00% | ~38,145 |
+| Just One More Valley | 9.00% | ~38,146 |
 | Prick of conscience | 8.00% | ~33,960 |
 | Missed it! | 7.00% | ~29,715 |
 | At the last moment! | 6.00% | ~25,470 |
@@ -65,11 +65,11 @@ Number of Ratings: 87  (23.09.2022)
 | BBQ | 0.80% | ~3,396 |
 | Miscalculation | 0.80% | ~3,396 |
 | Voyager | 0.60% | ~2,547 |
-| Railroad tycoon | 0.50% | ~2,122 |
+| Railroad tycoon | 0.50% | ~2,123 |
 | It's no coincidence | 0.40% | ~1,698 |
 | Miner | 0.30% | ~1,272 |
 | Pink Ruby | 0.30% | ~1,272 |
-| The Hare with an espresso | 0.30% | ~1,273 |
+| The Hare with an espresso | 0.30% | ~1,274 |
 | Trapiche Emerald | 0.30% | ~1,272 |
 | Alchemist | 0.20% | ~849 |
 | Star Sapphire | 0.20% | ~848 |
@@ -77,10 +77,10 @@ Number of Ratings: 87  (23.09.2022)
 | Urbanization Age | 0.20% | ~849 |
 | Arcturus | 0.10% | ~424 |
 | Astrochemist | 0.10% | ~424 |
-| Astrophysicist | 0.10% | ~424 |
+| Astrophysicist | 0.10% | ~425 |
 | Atomic Age | 0.10% | ~424 |
 | Digital Age | 0.10% | ~424 |
-| Forgotten | 0.10% | ~424 |
+| Forgotten | 0.10% | ~425 |
 | Gemologist | 0.10% | ~424 |
 | Information Age | 0.10% | ~424 |
 | Jeweller | 0.10% | ~424 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~424 |
 | World Zapper | 0.10% | ~424 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 424,497 (Ranked 45)  
+Progressed: 424,503 (Ranked 45)  
 Completed: 23 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,18 +300,18 @@ Completed: 23 (0.01%) (Ranked 356)
 | 2023-12-15 | 423,800 | 23 |
 | 2023-12-16 | 424,114 | 23 |
 | 2023-12-17 | 424,424 | 23 |
-| 2023-12-18 | 424,497 | 23 |
+| 2023-12-18 | 424,503 | 23 |
 ## Awards
 Max (Challenging Puzzles): 969  (Ranked 161)  
-Sum: 1,984 (Ranked 217)  
+Sum: 1,985 (Ranked 217)  
 Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 969 |
 | This game is Great for Beginners | 194 |
 | This game has Playful Visuals | 112 |
+| This game is Extremely Fun | 107 |
 | This game has Quickly Understood Controls | 106 |
-| This game is Extremely Fun | 106 |
 | This game is Relaxing | 106 |
 | This game is Highly Recommended | 102 |
 | This game has Challenging Combat | 86 |
@@ -529,4 +529,4 @@ Diff (max vs sum): -56
 | 2023-12-15 | 4.44 | - | 963 | 1,965 |
 | 2023-12-16 | 4.44 | - | 969 | 1,976 |
 | 2023-12-17 | 4.44 | - | 969 | 1,982 |
-| 2023-12-18 | 4.44 | - | 969 | 1,984 |
+| 2023-12-18 | 4.44 | - | 969 | 1,985 |

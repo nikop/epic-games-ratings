@@ -229,9 +229,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1125,
+  "EOS_Progressed": 1126,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 794,
+  "EOS_NewPlayers": 795,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2209,6 +2209,11 @@
       "Time": "2023-12-18T10:10:01.9084513+00:00",
       "NumProgressed": 1125,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-18T11:10:38.1657664+00:00",
+      "NumProgressed": 1126,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -2219,9 +2224,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 979
+      "UsersEstimate": 991
     },
     {
       "ID": "achievement_10",
@@ -2245,7 +2250,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_13",
@@ -2293,7 +2298,7 @@
       "Name": "Grand Magnus",
       "Percentage": 0.4,
       "XP": 80,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_19",
@@ -2309,7 +2314,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "achievement_20",
@@ -2333,7 +2338,7 @@
       "Name": "Petite Bourgeoisie",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_23",
@@ -2357,7 +2362,7 @@
       "Name": "Scholar",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_3",
@@ -2421,7 +2426,7 @@
       "Name": "Armaments Vert",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_44",
@@ -2453,7 +2458,7 @@
       "Name": "Enlisted",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "achievement_49",
@@ -2461,7 +2466,7 @@
       "Name": "Soldier",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_5",
@@ -2477,7 +2482,7 @@
       "Name": "Veteran",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_54",
@@ -2541,7 +2546,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_64",
@@ -2596,7 +2601,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 1125,
+      "Progressed": 1126,
       "Completed": 2
     }
   ],
@@ -2604,8 +2609,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-17T23:58:03.3779297+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:10:01.9084509+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:10:38.165766+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:30.3074422+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:58:43.6370244+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:10:01.9084902+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:59:12.8849652+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:10:38.1658066+00:00"
 }

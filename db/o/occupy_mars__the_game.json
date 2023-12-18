@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1792,
+  "EOS_Progressed": 1793,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4614,6 +4614,11 @@
       "Time": "2023-12-18T07:08:58.8154368+00:00",
       "NumProgressed": 1792,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T11:09:59.7915583+00:00",
+      "NumProgressed": 1793,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4745,7 +4750,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -4777,7 +4782,7 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -4801,7 +4806,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -5008,7 +5013,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1792,
+      "Progressed": 1793,
       "Completed": 0
     }
   ],
@@ -5016,8 +5021,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-14T23:59:39.4991795+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:09:23.4869536+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:09:59.7915578+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:59.196607+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:02:46.7744668+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:09:23.4870066+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:03:02.6112628+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:09:59.7916062+00:00"
 }

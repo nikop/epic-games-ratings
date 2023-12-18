@@ -2,9 +2,9 @@
   "ID": "e3c41cdcfdd044478dd6ed66556df982",
   "Name": "Battle Planet - Judgement Day",
   "ProductSlug": "battle-planet-judgement-day-1f3c51",
-  "Ranking_EOS_Progress": 805,
+  "Ranking_EOS_Progress": 806,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 543,
+  "Ranking_EOS_NewPlayers": 548,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-15T00:00:00+00:00",
@@ -28,9 +28,115 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-12-18T11:06:07.4358846+00:00",
+  "TotalAchievements": 13,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BOSS_KILL_BOSSBOMB",
+      "SetID": "26018g2",
+      "Name": "Battle Master",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOSS_KILL_JETPACKTWINS",
+      "SetID": "26018g2",
+      "Name": "Double Trouble",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOSS_KILL_SPIDER",
+      "SetID": "26018g2",
+      "Name": "Exterminator",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOSS_KILL_WORMOTH",
+      "SetID": "26018g2",
+      "Name": "Annihilator",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROGRESSION_DEFUSE_BOMBS",
+      "SetID": "26018g2",
+      "Name": "Bomb Specialist",
+      "Percentage": 0,
+      "XP": 95,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROGRESSION_ESCAPE_FIRST_PLANET",
+      "SetID": "26018g2",
+      "Name": "Survivalist",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROGRESSION_KILL_ENEMIES",
+      "SetID": "26018g2",
+      "Name": "Warmonger",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROGRESSION_UNLOCK_MECHA",
+      "SetID": "26018g2",
+      "Name": "Warmachinist",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROGRESSION_UNLOCK_PSYCHO",
+      "SetID": "26018g2",
+      "Name": "Maniac",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROGRESSION_UNLOCK_SPY",
+      "SetID": "26018g2",
+      "Name": "Technician",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UPGRADES_ITEMS_ALL_FULLY",
+      "SetID": "26018g2",
+      "Name": "Craftsman",
+      "Percentage": 0,
+      "XP": 95,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UPGRADES_PERMAUPGRADES_ALL_FULLY",
+      "SetID": "26018g2",
+      "Name": "Perfectionist",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UPGRADES_WEAPONS_ALL_FULLY",
+      "SetID": "26018g2",
+      "Name": "Weapon Specialist",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "26018g2",
@@ -40,8 +146,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-14T16:03:34.2764174+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:05:53.1674835+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:06:07.4358836+00:00",
   "LastUpdate_AppInfo": "2023-12-14T15:56:57.3782694+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:59:30.1379971+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:05:53.1674864+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:00:01.8484062+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:06:07.4683867+00:00"
 }

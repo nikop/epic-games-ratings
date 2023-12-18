@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,659 |
-| Off to a good start | 65.00% | ~1,212 |
-| Do... or do not. There is no try | 51.00% | ~951 |
-| A good blaster at your side | 28.00% | ~522 |
+| New Recruit | 89.00% | ~1,662 |
+| Off to a good start | 65.00% | ~1,214 |
+| Do... or do not. There is no try | 51.00% | ~952 |
+| A good blaster at your side | 28.00% | ~523 |
 | I suggest a new strategy | 18.00% | ~336 |
 | Scrap collector | 17.00% | ~317 |
 | All right, I'll give it a try | 17.00% | ~317 |
 | Great shot, kid! | 17.00% | ~317 |
 | Shoot first | 14.00% | ~261 |
-| The power of the Force | 13.00% | ~242 |
-| Collector | 13.00% | ~242 |
-| Together we can rule the galaxy | 13.00% | ~242 |
+| The power of the Force | 13.00% | ~243 |
+| Collector | 13.00% | ~243 |
+| Together we can rule the galaxy | 13.00% | ~243 |
 | Tell Jabba that I've got his money | 9.00% | ~168 |
 | Best star-pilot in the galaxy | 9.00% | ~168 |
 | Never tell me the odds! | 8.00% | ~149 |
 | Survivor | 8.00% | ~149 |
-| What's the cargo? | 7.00% | ~130 |
-| A cunning warrior | 7.00% | ~130 |
+| What's the cargo? | 7.00% | ~131 |
+| A cunning warrior | 7.00% | ~131 |
 | Impressive. Most impressive. | 6.00% | ~112 |
 | Judge me by my size, do you? | 6.00% | ~112 |
 | "Gonk? Gonk!" | 5.00% | ~93 |
@@ -54,9 +54,9 @@
 | When surrounded by war... | 0.90% | ~17 |
 | A New Hope | 0.80% | ~15 |
 | Walker defender | 0.80% | ~15 |
-| Stop that Droid | 0.80% | ~15 |
 | No such thing as luck | 0.70% | ~13 |
 | Do we take prisoners? | 0.70% | ~13 |
+| Stop that Droid | 0.70% | ~13 |
 | I’ll take that bet | 0.50% | ~9 |
 | Stay on target | 0.40% | ~7 |
 | Greed can be a very powerful ally | 0.40% | ~7 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~4 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,864 (Ranked 236)  
+Progressed: 1,867 (Ranked 236)  
 Completed: 1 (0.05%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 1 (0.05%) (Ranked 329)
 | 2023-12-15 | 1,755 | 1 |
 | 2023-12-16 | 1,815 | 1 |
 | 2023-12-17 | 1,853 | 1 |
-| 2023-12-18 | 1,864 | 1 |
+| 2023-12-18 | 1,867 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

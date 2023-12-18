@@ -2,9 +2,9 @@
   "ID": "3f3f083f10d04dc6b9ec846825432273",
   "Name": "Tom Clancy\u0027s EndWar",
   "ProductSlug": "endwar",
-  "Ranking_EOS_Progress": 805,
+  "Ranking_EOS_Progress": 806,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 543,
+  "Ranking_EOS_NewPlayers": 548,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-02T16:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.4687223+00:00",
   "LastChanged": "2023-03-31T05:58:42.4687224+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.69467+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:00:51.5782283+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:09:56.4800113+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:01:27.743103+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:10:32.5535751+00:00"
 }

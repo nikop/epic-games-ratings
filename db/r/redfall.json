@@ -2,7 +2,7 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 1063,
+  "Ranking_Rating": 1062,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 235,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.51,
+  "Rating": 3.56,
   "RatingHistory": [
     {
       "Time": "2023-05-02T02:57:49.0820146+00:00",
@@ -265,15 +265,21 @@
       "Rating": 3.51,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-18T11:01:29.078849+00:00",
+      "Rating": 3.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1919,
+  "EOS_Progressed": 1920,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2801,6 +2807,11 @@
       "Time": "2023-12-18T09:08:28.4537696+00:00",
       "NumProgressed": 1919,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T11:08:54.7859458+00:00",
+      "NumProgressed": 1920,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3339,16 +3350,16 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1919,
+      "Progressed": 1920,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-02T02:57:49.0820129+00:00",
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
-  "LastChanged": "2023-12-17T18:59:50.7372616+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:08:19.0149933+00:00",
+  "LastChanged": "2023-12-18T11:01:29.0788489+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:08:54.7859453+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:00:53.1776028+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:08:19.01505+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:01:29.0788493+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:08:54.7860431+00:00"
 }

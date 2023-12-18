@@ -5,9 +5,9 @@
   "Ranking_Rating": 354,
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 515,
-  "Ranking_EOS_Progress": 738,
+  "Ranking_EOS_Progress": 674,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 543,
+  "Ranking_EOS_NewPlayers": 441,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -299,15 +299,20 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T11:04:52.4545084+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -407,7 +412,7 @@
       "ID": "ACH_ABILITY_WITHWEAPON",
       "SetID": "cefn62b",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 100,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -640,15 +645,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:04:38.3586256+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:04:52.4545081+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.3369877+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:02:53.6635848+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:04:38.3914117+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:03:09.5925755+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:04:52.4545302+00:00"
 }

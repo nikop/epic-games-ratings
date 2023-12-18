@@ -5,9 +5,9 @@
   "Ranking_Rating": 548,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 513,
-  "Ranking_EOS_Progress": 451,
+  "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -726,6 +726,11 @@
       "Time": "2023-12-18T10:08:56.8327124+00:00",
       "NumProgressed": 112,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T11:09:32.8636095+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -752,9 +757,9 @@
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -770,7 +775,7 @@
       "Name": "Furon Fashion",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -864,15 +869,15 @@
       "ID": "ACH_ENTER_ALBION",
       "SetID": "4n84pon",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 25,
       "UsersEstimate": 77
     },
@@ -882,7 +887,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -904,9 +909,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -914,7 +919,7 @@
       "Name": "Kaijuiced",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -928,9 +933,9 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -962,7 +967,7 @@
       "Name": "Scuttled",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_KILL_YETI",
@@ -984,17 +989,17 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1072,7 +1077,7 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 32
     },
@@ -1089,7 +1094,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 0
     }
   ],
@@ -1097,8 +1102,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:08:56.8327118+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:09:32.863609+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:56:57.6175844+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:08:56.832743+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:57:19.4735058+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:09:32.8636387+00:00"
 }

@@ -5,18 +5,18 @@ Rating: 4.53 (Ranked 548)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~5,825 |
-| Greasy Palms | 42.00% | ~5,318 |
-| South American Connection | 25.00% | ~3,166 |
+| Legal Counsel | 46.00% | ~5,827 |
+| Greasy Palms | 42.00% | ~5,320 |
+| South American Connection | 25.00% | ~3,167 |
 | Life of the Party | 20.00% | ~2,533 |
-| Big Heat from Little Havana | 15.00% | ~1,899 |
-| Tommy Two-Wheels | 15.00% | ~1,899 |
+| Big Heat from Little Havana | 15.00% | ~1,900 |
+| Tommy Two-Wheels | 15.00% | ~1,900 |
 | Chauffeur | 14.00% | ~1,773 |
 | Salutations My Little Friend | 11.00% | ~1,393 |
-| Iron-y | 10.00% | ~1,266 |
+| Iron-y | 10.00% | ~1,267 |
 | Gun for Hire | 9.00% | ~1,140 |
 | Mischief Managed | 8.00% | ~1,013 |
-| Vice City Mogul | 7.00% | ~886 |
+| Vice City Mogul | 7.00% | ~887 |
 | Catch Me if You Can | 6.00% | ~760 |
 | Bloodstained Hands | 6.00% | ~760 |
 | Not my First Time | 5.00% | ~633 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 548)
 | Done it All | 0.90% | ~114 |
 | Kingpin | 0.60% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,663 (Ranked 166)  
+Progressed: 12,667 (Ranked 166)  
 Completed: 70 (0.55%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,14 +282,14 @@ Completed: 70 (0.55%) (Ranked 205)
 | 2023-12-15 | 12,023 | 68 |
 | 2023-12-16 | 12,320 | 68 |
 | 2023-12-17 | 12,602 | 68 |
-| 2023-12-18 | 12,663 | 70 |
+| 2023-12-18 | 12,667 | 70 |
 ## Awards
-Max (Great Boss Battles): 127  (Ranked 340)  
-Sum: 127 (Ranked 440)  
-Diff (max vs sum): -100  
+Max (Great Boss Battles): 130  (Ranked 337)  
+Sum: 130 (Ranked 439)  
+Diff (max vs sum): -102  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 127 |
+| This game has Great Boss Battles | 130 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -442,3 +442,4 @@ Diff (max vs sum): -100
 | 2023-12-14 | 4.53 | 121 | 121 |
 | 2023-12-15 | 4.53 | 126 | 126 |
 | 2023-12-16 | 4.53 | 127 | 127 |
+| 2023-12-18 | 4.53 | 130 | 130 |

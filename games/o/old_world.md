@@ -21,21 +21,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 5.00% | ~791 |
 | Hanging Gardens | 5.00% | ~791 |
 | Oracle | 5.00% | ~791 |
-| Ambitious | 4.00% | ~632 |
-| Enlightened | 4.00% | ~632 |
-| Glorious | 4.00% | ~632 |
-| Just | 4.00% | ~632 |
-| Keystone | 4.00% | ~632 |
-| Warrior | 4.00% | ~632 |
-| Developing Cities | 4.00% | ~632 |
-| Strong Cities | 4.00% | ~632 |
-| Ishtar Gate | 4.00% | ~632 |
-| Pyramids | 4.00% | ~632 |
-| Judaism | 4.00% | ~632 |
-| Babylonian Paganism | 4.00% | ~632 |
-| Greek Paganism | 4.00% | ~632 |
-| Naming Landmarks | 4.00% | ~632 |
-| Trade Caravan | 4.00% | ~632 |
+| Ambitious | 4.00% | ~633 |
+| Enlightened | 4.00% | ~633 |
+| Glorious | 4.00% | ~633 |
+| Just | 4.00% | ~633 |
+| Keystone | 4.00% | ~633 |
+| Warrior | 4.00% | ~633 |
+| Developing Cities | 4.00% | ~633 |
+| Strong Cities | 4.00% | ~633 |
+| Ishtar Gate | 4.00% | ~633 |
+| Pyramids | 4.00% | ~633 |
+| Judaism | 4.00% | ~633 |
+| Babylonian Paganism | 4.00% | ~633 |
+| Greek Paganism | 4.00% | ~633 |
+| Naming Landmarks | 4.00% | ~633 |
+| Trade Caravan | 4.00% | ~633 |
 | Regicide | 3.00% | ~474 |
 | Drillmaster | 3.00% | ~474 |
 | Brilliant | 3.00% | ~474 |
@@ -139,13 +139,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.90% | ~142 |
 | Adur Burzen-Mihr | 0.90% | ~142 |
 | Deposed Tribe | 0.90% | ~142 |
-| Ishtar Gate in Babylon | 0.80% | ~126 |
-| Carthage - Ox Hide | 0.80% | ~126 |
-| Learn to Play 5 | 0.80% | ~126 |
-| Cataphract Archer | 0.80% | ~126 |
-| The Great Mage | 0.80% | ~126 |
-| Kmt Unified | 0.80% | ~126 |
-| Beja Archer | 0.80% | ~126 |
+| Ishtar Gate in Babylon | 0.80% | ~127 |
+| Carthage - Ox Hide | 0.80% | ~127 |
+| Learn to Play 5 | 0.80% | ~127 |
+| Cataphract Archer | 0.80% | ~127 |
+| The Great Mage | 0.80% | ~127 |
+| Kmt Unified | 0.80% | ~127 |
+| Beja Archer | 0.80% | ~127 |
 | Old | 0.70% | ~111 |
 | Old World Order | 0.70% | ~111 |
 | No Undo | 0.70% | ~111 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,812 (Ranked 155)  
+Progressed: 15,816 (Ranked 155)  
 Completed: 5 (0.03%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -591,7 +591,7 @@ Completed: 5 (0.03%) (Ranked 341)
 | 2023-12-15 | 15,768 | 5 |
 | 2023-12-16 | 15,789 | 5 |
 | 2023-12-17 | 15,807 | 5 |
-| 2023-12-18 | 15,812 | 5 |
+| 2023-12-18 | 15,816 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 279)  
 Sum: 1,902 (Ranked 220)  

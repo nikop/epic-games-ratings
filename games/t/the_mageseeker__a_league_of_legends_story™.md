@@ -5,20 +5,20 @@ Rating: 4.79 (Ranked 99)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,703 |
-| No more cages! | 91.00% | ~2,589 |
-| Everfrost | 78.00% | ~2,219 |
+| For Demacia | 95.00% | ~2,704 |
+| No more cages! | 91.00% | ~2,590 |
+| Everfrost | 78.00% | ~2,220 |
 | Pentakill | 77.00% | ~2,191 |
 | Dark Forest | 77.00% | ~2,191 |
-| The use of petricite | 74.00% | ~2,105 |
-| You can pet the dog | 61.00% | ~1,735 |
+| The use of petricite | 74.00% | ~2,106 |
+| You can pet the dog | 61.00% | ~1,736 |
 | Thornbarrow | 40.00% | ~1,138 |
 | Big Helmet Bro | 39.00% | ~1,110 |
 | Clarion Cove | 39.00% | ~1,110 |
 | Past trauma | 37.00% | ~1,053 |
 | Ternmoat Headquarters | 37.00% | ~1,053 |
-| Elemental master | 36.00% | ~1,024 |
-| Cypress Glen Headquarters | 34.00% | ~967 |
+| Elemental master | 36.00% | ~1,025 |
+| Cypress Glen Headquarters | 34.00% | ~968 |
 | Petricite Burst | 33.00% | ~939 |
 | Old friend | 31.00% | ~882 |
 | Hijack | 30.00% | ~854 |
@@ -27,9 +27,9 @@ Rating: 4.79 (Ranked 99)
 | I chose my shackles | 26.00% | ~740 |
 | Ancient power | 26.00% | ~740 |
 | Sacred Woods | 24.00% | ~683 |
-| Little light | 23.00% | ~654 |
-| Capelworth | 23.00% | ~654 |
-| Full equipped | 23.00% | ~654 |
+| Little light | 23.00% | ~655 |
+| Capelworth | 23.00% | ~655 |
+| Full equipped | 23.00% | ~655 |
 | Glyndemere | 22.00% | ~626 |
 | Iffighain Headquarters | 22.00% | ~626 |
 | Whispers in the Woods II | 19.00% | ~541 |
@@ -50,16 +50,16 @@ Rating: 4.79 (Ranked 99)
 | The Great City of Demacia | 13.00% | ~370 |
 | Truth is a dark mirror | 13.00% | ~370 |
 | Call it 'redistribution of magic | 13.00% | ~370 |
-| Back to sleep, then... | 12.00% | ~341 |
+| Back to sleep, then... | 12.00% | ~342 |
 | Do you trust me? | 11.00% | ~313 |
 | Chains master | 11.00% | ~313 |
 | The great mage rebellion starts now | 11.00% | ~313 |
 | You can pet the... horse | 11.00% | ~313 |
-| Spellcrafting | 10.00% | ~284 |
+| Spellcrafting | 10.00% | ~285 |
 | Silverwing nest | 2.00% | ~57 |
 | The Unshackled | 1.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,845 (Ranked 218)  
+Progressed: 2,846 (Ranked 218)  
 Completed: 16 (0.56%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 16 (0.56%) (Ranked 203)
 | 2023-12-15 | 2,774 | 16 |
 | 2023-12-16 | 2,805 | 16 |
 | 2023-12-17 | 2,836 | 16 |
-| 2023-12-18 | 2,845 | 16 |
+| 2023-12-18 | 2,846 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

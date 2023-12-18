@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1419,
+  "EOS_Progressed": 1420,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3413,6 +3413,11 @@
       "Time": "2023-12-18T10:10:24.106761+00:00",
       "NumProgressed": 1419,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T11:11:00.7922823+00:00",
+      "NumProgressed": 1420,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3480,7 +3485,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "EXPERT_1",
@@ -3512,7 +3517,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "HEAD_BURST_1",
@@ -3520,7 +3525,7 @@
       "Name": "Head Burst",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "INDY_1",
@@ -3696,7 +3701,7 @@
       "Name": "Wanderer",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "WISHMASTER_1",
@@ -3711,15 +3716,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1419,
+      "Progressed": 1420,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:10:24.1067606+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:11:00.7922819+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.4071615+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:01:39.7841705+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:10:24.1068071+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:02:56.6439437+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:11:00.792318+00:00"
 }

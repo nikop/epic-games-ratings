@@ -3,8 +3,8 @@
   "Name": "Anna\u0027s Quest",
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 473,
-  "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 543,
+  "Ranking_EOS_Completed": 59,
+  "Ranking_EOS_NewPlayers": 548,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
@@ -508,9 +508,9 @@
       "ID": "aq_achievement_24",
       "SetID": "7jh86ne",
       "Name": "Book Worm",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "aq_achievement_25",
@@ -701,8 +701,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:05:40.3106617+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:05:54.6804403+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.0844151+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:01:34.9485959+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:05:40.3106901+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:02:51.7304379+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:05:54.6804614+00:00"
 }

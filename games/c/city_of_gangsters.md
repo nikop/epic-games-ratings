@@ -1,25 +1,25 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 855)  
+Rating: 4.29 (Ranked 856)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~164,312 |
-| Copacetic Coordination | 16.00% | ~57,152 |
-| Fronting the Money | 15.00% | ~53,580 |
-| The Dawn of Automation | 14.00% | ~50,008 |
-| Extraordinary Logistics | 14.00% | ~50,008 |
-| Dirty Money | 13.00% | ~46,436 |
-| Family First | 13.00% | ~46,436 |
-| Cleaning House | 12.00% | ~42,864 |
-| Room in the Back | 12.00% | ~42,864 |
-| Beating the Heat | 11.00% | ~39,292 |
-| Booze Baron | 11.00% | ~39,292 |
-| Friends on the Force | 10.00% | ~35,720 |
-| Neighborhood Watch | 10.00% | ~35,720 |
-| Core Corps | 8.00% | ~28,576 |
-| Sizeable Stash | 8.00% | ~28,576 |
+| Corner Clout | 46.00% | ~164,315 |
+| Copacetic Coordination | 16.00% | ~57,153 |
+| Fronting the Money | 15.00% | ~53,581 |
+| The Dawn of Automation | 14.00% | ~50,009 |
+| Extraordinary Logistics | 14.00% | ~50,009 |
+| Dirty Money | 13.00% | ~46,437 |
+| Family First | 13.00% | ~46,437 |
+| Cleaning House | 12.00% | ~42,865 |
+| Room in the Back | 12.00% | ~42,865 |
+| Beating the Heat | 11.00% | ~39,293 |
+| Booze Baron | 11.00% | ~39,293 |
+| Friends on the Force | 10.00% | ~35,721 |
+| Neighborhood Watch | 10.00% | ~35,721 |
+| Core Corps | 8.00% | ~28,577 |
+| Sizeable Stash | 8.00% | ~28,577 |
 | Street Fighter | 7.00% | ~25,004 |
 | Friendly Gestures | 7.00% | ~25,004 |
 | People Person | 7.00% | ~25,004 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 855)
 | High Pillow | 0.10% | ~357 |
 | Station Master | 0.10% | ~357 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 357,201 (Ranked 49)  
+Progressed: 357,207 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 7 (0.00%) (Ranked 380)
 | 2023-12-15 | 356,779 | 7 |
 | 2023-12-16 | 356,959 | 7 |
 | 2023-12-17 | 357,141 | 7 |
-| 2023-12-18 | 357,201 | 7 |
+| 2023-12-18 | 357,207 | 7 |
 ## Awards
 Max (Great for Beginners): 55  (Ranked 429)  
 Sum: 255 (Ranked 386)  

@@ -2,9 +2,9 @@
   "ID": "f5a9dcb6642c4a569a3fd458e023000b",
   "Name": "Awesome Pea 2",
   "ProductSlug": "awesome-pea-2-45617a",
-  "Ranking_EOS_Progress": 805,
+  "Ranking_EOS_Progress": 806,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 543,
+  "Ranking_EOS_NewPlayers": 548,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-20T13:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-28T06:59:06.0873593+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:10.4473312+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:57:41.2165197+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:05:40.0375284+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:58:06.2770846+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:05:54.3795668+00:00"
 }

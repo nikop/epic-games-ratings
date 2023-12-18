@@ -2,9 +2,9 @@
   "ID": "b5ab16ebd552476688116e187acd2151",
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
-  "Ranking_EOS_Progress": 351,
+  "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 357,
+  "EOS_Progressed": 358,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -841,6 +841,11 @@
       "Time": "2023-12-17T23:09:58.3064489+00:00",
       "NumProgressed": 357,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-18T11:10:22.4651803+00:00",
+      "NumProgressed": 358,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 19,
@@ -930,17 +935,17 @@
       "ID": "success_brandy",
       "SetID": "6h5h9ho",
       "Name": "The boss",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 86
+      "UsersEstimate": 82
     },
     {
       "ID": "success_derek",
       "SetID": "6h5h9ho",
       "Name": "The debonair",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 36
+      "UsersEstimate": 32
     },
     {
       "ID": "success_hazel",
@@ -948,7 +953,7 @@
       "Name": "The individualist",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "success_jake",
@@ -964,7 +969,7 @@
       "Name": "The intellectual",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "success_lucas",
@@ -980,7 +985,7 @@
       "Name": "The athlete",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "success_ty",
@@ -1003,7 +1008,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 357,
+      "Progressed": 358,
       "Completed": 4
     }
   ],
@@ -1011,8 +1016,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:09:46.1609513+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:10:22.4651799+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:10.0190099+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:59:39.8615942+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:09:46.1609677+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:00:12.4977581+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:10:22.4651963+00:00"
 }

@@ -648,9 +648,9 @@
       "ID": "ach-firstExpedition",
       "SetID": "17ih7ma",
       "Name": "The Adventure Begins",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 229
     },
     {
       "ID": "ach-hardExpeditions",
@@ -913,8 +913,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:10:36.3420768+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:11:12.7285439+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:58:56.6295266+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:10:36.342118+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:59:26.36504+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:11:12.7285911+00:00"
 }

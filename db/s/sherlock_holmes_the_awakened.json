@@ -2,7 +2,7 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 443,
+  "Ranking_Rating": 455,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 258,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "RatingHistory": [
     {
       "Time": "2023-04-12T21:57:08.1785831+00:00",
@@ -127,6 +127,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-18T11:03:40.79553+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -135,7 +141,7 @@
   "Tags": [],
   "EOS_Progressed": 1232,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.76,
   "EosHistory": [
@@ -4302,9 +4308,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 628
+      "UsersEstimate": 641
     },
     {
       "ID": "MQ03_1",
@@ -4406,9 +4412,9 @@
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 370
+      "UsersEstimate": 382
     },
     {
       "ID": "MQ06_2",
@@ -4494,9 +4500,9 @@
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
-  "LastChanged": "2023-12-17T11:02:53.3877614+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:06:29.0891601+00:00",
+  "LastChanged": "2023-12-18T11:03:40.7955298+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:06:43.6369985+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:03:26.6438802+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:06:29.0892007+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:03:40.7955303+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:06:43.6370343+00:00"
 }

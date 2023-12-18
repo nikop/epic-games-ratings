@@ -4,7 +4,7 @@
   "ProductSlug": "born-of-bread-008e66",
   "Ranking_EOS_Progress": 557,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -336,9 +336,9 @@
       "ID": "ACH_MISCHIEVOUS-BREAD",
       "SetID": "6lg1p1e",
       "Name": "Mischievous Bread",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_MYSTERY-SOLVED",
@@ -456,9 +456,9 @@
       "ID": "ACH_WHACK-A-MOLE",
       "SetID": "6lg1p1e",
       "Name": "Whack-a-mole",
-      "Percentage": 33,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_ZEN-MASTER",
@@ -479,8 +479,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:08:46.6852732+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:09:22.6329696+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.3604769+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:58:35.1180597+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:08:46.6852927+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:59:03.7979712+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:09:22.6329925+00:00"
 }

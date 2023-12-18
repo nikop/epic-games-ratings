@@ -6,8 +6,8 @@ Rating: 4.64 (Ranked 340)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 37.00% | ~380 |
+| Rail Rat | 29.00% | ~298 |
 | The Mysterious Stranger | 28.00% | ~287 |
-| Rail Rat | 28.00% | ~287 |
 | Immaculate Aim | 24.00% | ~246 |
 | Make Up For Lost Time | 23.00% | ~236 |
 | Time Flies | 23.00% | ~236 |
@@ -33,9 +33,9 @@ Rating: 4.64 (Ranked 340)
 | Treasure Trove | 14.00% | ~144 |
 | Whiz Kid | 14.00% | ~144 |
 | Cartographer | 14.00% | ~144 |
+| Family Memories | 13.00% | ~133 |
 | Good Neighbor | 13.00% | ~133 |
 | Chaincrawler Explorer | 12.00% | ~123 |
-| Family Memories | 12.00% | ~123 |
 | Ask Questions Later | 12.00% | ~123 |
 | Sump Explorer | 11.00% | ~113 |
 | Syron for Hope | 11.00% | ~113 |

@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 469,
+  "EOS_Progressed": 470,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1252,6 +1252,11 @@
       "Time": "2023-12-18T10:06:41.8983177+00:00",
       "NumProgressed": 469,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-18T11:06:56.5747671+00:00",
+      "NumProgressed": 470,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1312,7 +1317,7 @@
       "Name": "Easy Prey",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "FIRST_ACCEL_COMBO",
@@ -1320,15 +1325,15 @@
       "Name": "Combo Convert",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
       "SetID": "apihg0e",
       "Name": "Perfect Run",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 146
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1350,9 +1355,9 @@
       "ID": "FIRST_KODAMA_HERMIT_TALK",
       "SetID": "apihg0e",
       "Name": "Hermit Koco Encounter",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 174
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1366,9 +1371,9 @@
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 376
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1392,7 +1397,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1440,7 +1445,7 @@
       "Name": "Hope Across Ages",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "MAIN_CLEAR_LAST",
@@ -1454,9 +1459,9 @@
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 249
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1504,7 +1509,7 @@
       "Name": "Herculean Hedgehog",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "RING_LIMIT_REACH_NUM",
@@ -1512,7 +1517,7 @@
       "Name": "Hearty Hedgehog",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SKILL_ALL_OBTAINED",
@@ -1576,21 +1581,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 469,
+      "Progressed": 470,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:06:41.8983173+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:06:56.5747665+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:06.567221+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:03:23.4202717+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:06:41.8983432+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:03:37.8240847+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:06:56.5747992+00:00"
 }

@@ -10,7 +10,7 @@
 | How Far 3 ? | 100.00% | ~1 |
 | EOS Latest Updates | 100.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 738)  
+Progressed: 1 (Ranked 739)  
 Completed: 1 (100.00%) (Ranked 1)  
 ## EOS Players History
 | Date | Progressed | Completed |

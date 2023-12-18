@@ -5,9 +5,9 @@
   "Ranking_Rating": 825,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 261,
+  "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1222,
+  "EOS_Progressed": 1223,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
@@ -2672,6 +2672,11 @@
       "Time": "2023-12-18T09:04:25.461705+00:00",
       "NumProgressed": 1222,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-18T11:05:26.4142388+00:00",
+      "NumProgressed": 1223,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -2691,7 +2696,7 @@
       "Name": "King of hospitality",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_CHICKEN_ENCOUNTERED",
@@ -2707,7 +2712,7 @@
       "Name": "Roll with it",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -2723,7 +2728,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -2731,7 +2736,7 @@
       "Name": "Love is in the air",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -2771,7 +2776,7 @@
       "Name": "Memento",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -2779,15 +2784,15 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "ACH_HOTEL_NAMED",
       "SetID": "7k95e4n",
       "Name": "And so it begins",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 892
+      "UsersEstimate": 881
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -2898,7 +2903,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1222,
+      "Progressed": 1223,
       "Completed": 18
     }
   ],
@@ -2906,8 +2911,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-17T01:52:20.9654056+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:05:12.5600178+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:05:26.4142384+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:13.8800884+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:01:08.8058598+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:05:12.5600484+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:01:45.7313695+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:05:26.4142752+00:00"
 }

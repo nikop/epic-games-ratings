@@ -1,14 +1,14 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.59 (Ranked 443)  
+Rating: 4.58 (Ranked 455)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Read Between The Lines | 63.00% | ~776 |
 | To Hell In A Handcart | 62.00% | ~764 |
 | High Profile | 55.00% | ~678 |
-| Whispers In The Dark | 51.00% | ~628 |
+| Whispers In The Dark | 52.00% | ~641 |
 | Fond Memories | 50.00% | ~616 |
 | A Method To His Madness | 47.00% | ~579 |
 | History Check | 46.00% | ~567 |
@@ -28,7 +28,7 @@ Rating: 4.59 (Ranked 443)
 | Going Once... | 36.00% | ~444 |
 | Let Me Be Frank | 34.00% | ~419 |
 | No Stone Unturned | 32.00% | ~394 |
-| Brain Food | 30.00% | ~370 |
+| Brain Food | 31.00% | ~382 |
 | Read It And Weep | 19.00% | ~234 |
 | Curiosity Killed The Cat | 18.00% | ~222 |
 | Big Breakthrough | 12.00% | ~148 |
@@ -254,3 +254,4 @@ Completed: 34 (2.76%) (Ranked 115)
 | 2023-12-12 | 4.57 | 0 | 0 |
 | 2023-12-14 | 4.58 | 0 | 0 |
 | 2023-12-17 | 4.59 | 0 | 0 |
+| 2023-12-18 | 4.58 | 0 | 0 |

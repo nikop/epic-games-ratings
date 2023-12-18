@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2224,7 +2224,7 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 689050,
+  "EOS_Progressed": 689057,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 1694,
   "EOS_NewCompleters": 0,
@@ -29994,6 +29994,11 @@
       "Time": "2023-12-18T10:10:34.0685869+00:00",
       "NumProgressed": 689050,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-18T11:11:10.5356368+00:00",
+      "NumProgressed": 689057,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -30005,7 +30010,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 544350
+      "UsersEstimate": 544355
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -30021,7 +30026,7 @@
       "Name": "Earn your stripes",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6201
+      "UsersEstimate": 6202
     },
     {
       "ID": "ALL_AMATEUR_CHALLENGES",
@@ -30093,7 +30098,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 248058
+      "UsersEstimate": 248061
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -30109,7 +30114,7 @@
       "Name": "Lawn \u0026 Order",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6201
+      "UsersEstimate": 6202
     },
     {
       "ID": "CONTRACT_SMALL_DECK",
@@ -30245,7 +30250,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 213606
+      "UsersEstimate": 213608
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -30285,7 +30290,7 @@
       "Name": "The grass is always greener",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6201
+      "UsersEstimate": 6202
     },
     {
       "ID": "ONE_OF_EACH_CONTRACT",
@@ -30293,7 +30298,7 @@
       "Name": "Jack of all trades",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6201
+      "UsersEstimate": 6202
     },
     {
       "ID": "OWN_ALL_ORIGINAL_MOWERS",
@@ -30309,7 +30314,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 103358
+      "UsersEstimate": 103359
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -30333,7 +30338,7 @@
       "Name": "All hands on deck",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6201
+      "UsersEstimate": 6202
     },
     {
       "ID": "PURCHASE_FORTH_HQ",
@@ -30397,7 +30402,7 @@
       "Name": "Professional",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6201
+      "UsersEstimate": 6202
     },
     {
       "ID": "RP_RANK_UP",
@@ -30405,7 +30410,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 124029
+      "UsersEstimate": 124030
     },
     {
       "ID": "RP_TRUSTED",
@@ -30421,7 +30426,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 62014
+      "UsersEstimate": 62015
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -30436,15 +30441,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 689050,
+      "Progressed": 689057,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-12-15T23:57:11.8160512+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:10:34.0685865+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:11:10.5356363+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:21.409328+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:58:51.8542756+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:10:34.0687835+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:59:21.3406906+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:11:10.5357821+00:00"
 }

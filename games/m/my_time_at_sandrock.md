@@ -12,7 +12,7 @@ Number of Ratings: 892  (23.09.2022)
 | Greeno-B-Gone | 125.00% | ~749 |
 | The Little Wood that Could | 118.00% | ~707 |
 | Your Especially Earned Trajectory | 104.00% | ~623 |
-| On that Grindset | 87.00% | ~521 |
+| On that Grindset | 88.00% | ~527 |
 | One of the Cool Kids | 84.00% | ~503 |
 | No Mountain Wide Enough | 83.00% | ~497 |
 | Yakmel Whisperer | 78.00% | ~467 |
@@ -22,10 +22,10 @@ Number of Ratings: 892  (23.09.2022)
 | Officially Official | 74.00% | ~443 |
 | Can We Keep It? | 73.00% | ~437 |
 | First Love | 72.00% | ~431 |
+| Unboxing | 69.00% | ~413 |
 | Better Late than Never | 68.00% | ~407 |
 | Elementary, My Dear | 68.00% | ~407 |
 | Chatterbox | 68.00% | ~407 |
-| Unboxing | 68.00% | ~407 |
 | Financially Secure | 67.00% | ~401 |
 | Big Game Hunter | 65.00% | ~389 |
 | Got Served | 64.00% | ~383 |
@@ -33,8 +33,8 @@ Number of Ratings: 892  (23.09.2022)
 | Panda-kin | 63.00% | ~377 |
 | Lifeline Pipeline | 63.00% | ~377 |
 | Builder of the Month | 62.00% | ~371 |
+| Knowledge is Power | 61.00% | ~365 |
 | Waste Not Want Not | 61.00% | ~365 |
-| Knowledge is Power | 60.00% | ~359 |
 | Martle's Dream | 60.00% | ~359 |
 | Happier-est Place on Earth | 60.00% | ~359 |
 | Anti-Santa | 60.00% | ~359 |
@@ -59,8 +59,8 @@ Number of Ratings: 892  (23.09.2022)
 | Pro Gamer | 33.00% | ~198 |
 | Do Your Part | 33.00% | ~198 |
 | Newton | 33.00% | ~198 |
+| Winner and Still Champeen | 24.00% | ~144 |
 | Cardistry | 23.00% | ~138 |
-| Winner and Still Champeen | 23.00% | ~138 |
 | It's High Noon... | 16.00% | ~96 |
 | Strong Arms | 16.00% | ~96 |
 | Got the Receipt? | 16.00% | ~96 |

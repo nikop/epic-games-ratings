@@ -6,7 +6,7 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lie Back and Think of Albion | 100.00% | ~1 |
+| Lie Back and Think of Albion | 25.00% | ~1 |
 | Fly Me to the Moon Base | 0.00% | ~0 |
 | Arkvoodle Doodle | 0.00% | ~0 |
 | Scuttled | 0.00% | ~0 |
@@ -47,12 +47,12 @@ Number of Ratings: 85  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 738)  
+Progressed: 4 (Ranked 674)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-12-18 | 1 | 0 |
+| 2023-12-18 | 4 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 489)  
 Sum: 34 (Ranked 515)  

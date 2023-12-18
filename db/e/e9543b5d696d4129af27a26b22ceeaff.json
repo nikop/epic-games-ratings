@@ -269,9 +269,9 @@
       "ID": "ACH_FIRST_WIN",
       "SetID": "1lnhagg",
       "Name": "The First of Many to Come",
-      "Percentage": 72,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_FIVE_STARS_MANAGER",
@@ -452,8 +452,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:07:11.6175194+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:07:26.543102+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:15.0404929+00:00",
-  "LastUpdate_Ratings": "2023-12-18T10:03:09.4730299+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:07:11.6175366+00:00"
+  "LastUpdate_Ratings": "2023-12-18T11:03:24.2483254+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:07:26.5431255+00:00"
 }

@@ -5,14 +5,14 @@ Rating: 4.19 (Ranked 940)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~2,317 |
-| Get a Grip | 12.00% | ~2,139 |
-| Paper Jams | 12.00% | ~2,139 |
-| The Outer Way | 12.00% | ~2,139 |
+| Flesh Wound | 13.00% | ~2,318 |
+| Get a Grip | 12.00% | ~2,140 |
+| Paper Jams | 12.00% | ~2,140 |
+| The Outer Way | 12.00% | ~2,140 |
 | Desperate Times | 11.00% | ~1,961 |
-| Chew 'Em Up | 10.00% | ~1,782 |
-| Float Like A Butterfly | 10.00% | ~1,782 |
-| Reforged | 9.00% | ~1,604 |
+| Chew 'Em Up | 10.00% | ~1,783 |
+| Float Like A Butterfly | 10.00% | ~1,783 |
+| Reforged | 9.00% | ~1,605 |
 | Workplace Hazard | 8.00% | ~1,426 |
 | If the SHU Fits... | 7.00% | ~1,248 |
 | Without A Paddle | 7.00% | ~1,248 |
@@ -22,11 +22,11 @@ Rating: 4.19 (Ranked 940)
 | Full Circle | 6.00% | ~1,070 |
 | Power Up | 6.00% | ~1,070 |
 | Keep Fighting | 6.00% | ~345 |
-| Giving Back | 5.00% | ~891 |
-| You Need a Gun | 5.00% | ~891 |
-| I Do Belong Here | 5.00% | ~891 |
-| Terminated | 5.00% | ~891 |
-| What Lies Beneath | 5.00% | ~891 |
+| Giving Back | 5.00% | ~892 |
+| You Need a Gun | 5.00% | ~892 |
+| I Do Belong Here | 5.00% | ~892 |
+| Terminated | 5.00% | ~892 |
+| What Lies Beneath | 5.00% | ~892 |
 | It's Time | 4.00% | ~230 |
 | In Striking Distance | 3.00% | ~535 |
 | The Commonality | 3.00% | ~535 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 940)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,825 (Ranked 149)  
+Progressed: 17,830 (Ranked 149)  
 Completed: 82 (0.46%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 82 (0.46%) (Ranked 217)
 | 2023-12-15 | 17,123 | 82 |
 | 2023-12-16 | 17,442 | 82 |
 | 2023-12-17 | 17,760 | 82 |
-| 2023-12-18 | 17,825 | 82 |
+| 2023-12-18 | 17,830 | 82 |
 ## Awards
 Max (Amazing Storytelling): 88  (Ranked 388)  
 Sum: 517 (Ranked 328)  

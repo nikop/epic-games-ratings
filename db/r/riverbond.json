@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -503,7 +503,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 533376,
+  "EOS_Progressed": 533377,
   "EOS_Completed": 510,
   "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 4,
@@ -26118,6 +26118,11 @@
       "Time": "2023-12-18T10:06:32.5803378+00:00",
       "NumProgressed": 533376,
       "NumCompleted": 510
+    },
+    {
+      "Time": "2023-12-18T11:06:47.159356+00:00",
+      "NumProgressed": 533377,
+      "NumCompleted": 510
     }
   ],
   "TotalAchievements": 57,
@@ -26129,7 +26134,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 122676
+      "UsersEstimate": 122677
     },
     {
       "ID": "10",
@@ -26137,7 +26142,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 240019
+      "UsersEstimate": 240020
     },
     {
       "ID": "11",
@@ -26145,7 +26150,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 373363
+      "UsersEstimate": 373364
     },
     {
       "ID": "12",
@@ -26201,7 +26206,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80006
+      "UsersEstimate": 80007
     },
     {
       "ID": "19",
@@ -26209,7 +26214,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 330693
+      "UsersEstimate": 330694
     },
     {
       "ID": "2",
@@ -26457,7 +26462,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 330693
+      "UsersEstimate": 330694
     },
     {
       "ID": "48",
@@ -26513,7 +26518,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 122676
+      "UsersEstimate": 122677
     },
     {
       "ID": "54",
@@ -26584,15 +26589,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 533376,
+      "Progressed": 533377,
       "Completed": 510
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:06:32.5803373+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:06:47.1593554+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:12.0766655+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:57:55.3533331+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:06:32.5804841+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:58:22.6454207+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:06:47.1595194+00:00"
 }

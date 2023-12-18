@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1040,
+  "EOS_Progressed": 1042,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2672,6 +2672,11 @@
       "Time": "2023-12-18T09:04:05.9545918+00:00",
       "NumProgressed": 1040,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T11:04:59.2172498+00:00",
+      "NumProgressed": 1042,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2700,7 +2705,7 @@
       "Name": "Anthropic Hills",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Archaeologist",
@@ -2740,7 +2745,7 @@
       "Name": "Bridge Builder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ChasingTheLight",
@@ -2748,7 +2753,7 @@
       "Name": "Chasing the Light",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "Chicken",
@@ -2788,7 +2793,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "EcstaticTruth",
@@ -2844,7 +2849,7 @@
       "Name": "High Plain",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "IntoTheMachine",
@@ -2908,7 +2913,7 @@
       "Name": "Museum Visitor",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "NewBeginning",
@@ -2930,9 +2935,9 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 73
     },
     {
       "ID": "Overload",
@@ -2940,7 +2945,7 @@
       "Name": "Overload",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "Persistent",
@@ -3028,7 +3033,7 @@
       "Name": "Team Spirit",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "TextAdventurer",
@@ -3108,7 +3113,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "VerdantCanyon",
@@ -3124,7 +3129,7 @@
       "Name": "Wanderers",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "WesternDelta",
@@ -3155,7 +3160,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1040,
+      "Progressed": 1042,
       "Completed": 1
     }
   ],
@@ -3163,8 +3168,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-18T10:04:45.16484+00:00",
+  "LastChanged_Achievements": "2023-12-18T11:04:59.2172495+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:58:56.9842885+00:00",
-  "LastUpdate_Achievements": "2023-12-18T10:04:45.1649415+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:59:26.7714229+00:00",
+  "LastUpdate_Achievements": "2023-12-18T11:04:59.2172992+00:00"
 }
