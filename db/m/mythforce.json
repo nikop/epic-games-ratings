@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -842,9 +842,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5616,
+  "EOS_Progressed": 5617,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11302,6 +11302,11 @@
       "Time": "2023-12-18T00:06:17.4090295+00:00",
       "NumProgressed": 5616,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-18T01:56:04.519716+00:00",
+      "NumProgressed": 5617,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11408,9 +11413,9 @@
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 955
+      "UsersEstimate": 1011
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -11418,7 +11423,7 @@
       "Name": "We\u0027ve Got a Kaiju on the Field",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "MF_Ach_MushroomMadness",
@@ -11474,7 +11479,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -11497,15 +11502,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5616,
+      "Progressed": 5617,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:06:17.4090293+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:56:04.5197155+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:57:45.5848136+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:06:17.4090911+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:46:16.9258353+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:56:04.5197637+00:00"
 }

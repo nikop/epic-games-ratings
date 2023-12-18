@@ -15,7 +15,7 @@
 | Bad Elves Go Everywhere | 68.00% | ~398 |
 | Heroes’ Gorge | 64.00% | ~375 |
 | Master of Magic | 63.00% | ~369 |
-| Unicorn steaks – fresh off the hoof! | 61.00% | ~357 |
+| Unicorn steaks – fresh off the hoof! | 62.00% | ~363 |
 | Magic Accidents | 59.00% | ~346 |
 | The Ascent | 58.00% | ~340 |
 | It's Warm and Cozy at Home | 58.00% | ~340 |
@@ -27,15 +27,15 @@
 | YOU SHALL NOT PASS! | 50.00% | ~293 |
 | The Cathedral of Light | 47.00% | ~275 |
 | Shame! Shame! Shame! | 47.00% | ~275 |
+| Pure Dynamite! | 46.00% | ~270 |
 | Dungeonlord Gorgu | 46.00% | ~270 |
-| Pure Dynamite! | 45.00% | ~264 |
 | Tanos' Crusade Against Thalya | 44.00% | ~258 |
 | Mana Cannon | 41.00% | ~240 |
-| All’s Well That Ends Evil | 38.00% | ~223 |
+| All’s Well That Ends Evil | 39.00% | ~229 |
 | The Duel | 35.00% | ~205 |
 | Unstoppable Horde | 34.00% | ~199 |
 | Master of the Undead | 33.00% | ~193 |
-| If Looks Could Kill | 32.00% | ~188 |
+| If Looks Could Kill | 33.00% | ~193 |
 | The Finitude Drill | 30.00% | ~176 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~170 |
 | Forbidden Knowledge | 28.00% | ~164 |
@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 8.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 586 (Ranked 317)  
-Completed: 17 (2.90%) (Ranked 110)  
+Completed: 17 (2.90%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

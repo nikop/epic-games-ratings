@@ -2,13 +2,13 @@
   "ID": "3928fd8975b2437d894bbc5cd21de9a0",
   "Name": "Saints Row\u00AE: The Third\u2122  Remastered",
   "ProductSlug": "saints-row-the-third-remastered",
-  "Ranking_Rating": 729,
+  "Ranking_Rating": 730,
   "Ranking_Popularity": 109,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 542,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-05-22T08:00:00+00:00",
     "PcReleaseDate": "2020-05-22T08:00:00+00:00",
@@ -2504,6 +2504,6 @@
   "FirstSeen": "2022-07-22T20:28:06.5840635+00:00",
   "LastChanged": "2023-12-17T22:00:12.9350337+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.5267031+00:00",
-  "LastUpdate_Ratings": "2023-12-18T00:00:09.5366746+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:04:02.6608985+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:49:59.115866+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:52:49.8557296+00:00"
 }

@@ -1,28 +1,28 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.15 (Ranked 964)  
+Rating: 4.16 (Ranked 956)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 37.00% | ~26,139 |
-| As Far Away As Possible | 18.00% | ~12,716 |
-| A Most Unstable Organism | 13.00% | ~9,184 |
-| No Time to Follow Protocol | 10.00% | ~7,065 |
-| Float Like a Butterfly... | 8.00% | ~5,652 |
-| Nano Connoisseur | 6.00% | ~4,239 |
-| In Two Places At Once | 6.00% | ~4,239 |
-| More Power to You | 4.00% | ~2,826 |
-| Pulling Your Weight | 3.00% | ~2,119 |
-| Reaping Rivals | 3.00% | ~2,119 |
-| fifteenth Time's the Charm | 1.00% | ~706 |
+| Your Lucky Day | 37.00% | ~26,154 |
+| As Far Away As Possible | 18.00% | ~12,723 |
+| A Most Unstable Organism | 13.00% | ~9,189 |
+| No Time to Follow Protocol | 10.00% | ~7,069 |
+| Float Like a Butterfly... | 8.00% | ~5,655 |
+| Nano Connoisseur | 6.00% | ~4,241 |
+| In Two Places At Once | 6.00% | ~4,241 |
+| More Power to You | 5.00% | ~3,534 |
+| Pulling Your Weight | 3.00% | ~2,121 |
+| Reaping Rivals | 3.00% | ~2,121 |
+| fifteenth Time's the Charm | 1.00% | ~707 |
 | Gone Rogue | 0.50% | ~353 |
 | Memory Keeper | 0.40% | ~283 |
 | Completely Customizable | 0.40% | ~283 |
 | Past Master | 0.40% | ~283 |
 | Runs for Your Money | 0.30% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,646 (Ranked 104)  
+Progressed: 70,686 (Ranked 104)  
 Completed: 57 (0.08%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 57 (0.08%) (Ranked 312)
 | 2023-12-15 | 69,330 | 57 |
 | 2023-12-16 | 69,966 | 57 |
 | 2023-12-17 | 70,623 | 57 |
-| 2023-12-18 | 70,646 | 57 |
+| 2023-12-18 | 70,686 | 57 |
 ## Awards
 Max (Great for Beginners): 109  (Ranked 357)  
 Sum: 431 (Ranked 341)  
@@ -246,3 +246,4 @@ Diff (max vs sum): 16
 | 2023-12-15 | 4.15 | 107 | 425 |
 | 2023-12-16 | 4.15 | 107 | 427 |
 | 2023-12-17 | 4.15 | 109 | 431 |
+| 2023-12-18 | 4.16 | 109 | 431 |

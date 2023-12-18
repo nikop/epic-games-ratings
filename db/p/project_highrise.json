@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -1597,9 +1597,9 @@
       "ID": "ach_prestige_2",
       "SetID": "b8gh1fi",
       "Name": "Established Fame",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 71
     },
     {
       "ID": "ach_prestige_3",
@@ -1693,9 +1693,9 @@
       "ID": "ach_retail_1",
       "SetID": "b8gh1fi",
       "Name": "Retail Revenue",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "ach_retail_2",
@@ -1862,8 +1862,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:05:33.7326895+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:55:00.483673+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.491222+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:57:41.0989709+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:05:33.7327592+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:46:09.3661063+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:55:00.4837434+00:00"
 }

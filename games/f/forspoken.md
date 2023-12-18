@@ -1,18 +1,18 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.15 (Ranked 964)  
+Rating: 4.15 (Ranked 965)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,427 |
+| Attachments | 10.00% | ~4,428 |
 | Unlocked Potential | 9.00% | ~3,985 |
-| Tinkerer | 7.00% | ~3,099 |
-| Knock 'Em Dead | 7.00% | ~3,099 |
-| Leapfrogger | 6.00% | ~2,656 |
-| Pilgrimage: Initiate | 6.00% | ~2,656 |
-| Hell of a Run | 6.00% | ~2,656 |
-| Call of the Fount: Baptized | 6.00% | ~2,656 |
+| Tinkerer | 7.00% | ~3,100 |
+| Knock 'Em Dead | 7.00% | ~3,100 |
+| Leapfrogger | 6.00% | ~2,657 |
+| Pilgrimage: Initiate | 6.00% | ~2,657 |
+| Hell of a Run | 6.00% | ~2,657 |
+| Call of the Fount: Baptized | 6.00% | ~2,657 |
 | No Mercy | 5.00% | ~2,214 |
 | Explorer: Seeker | 5.00% | ~2,214 |
 | Help Me Out Here | 5.00% | ~2,214 |
@@ -22,12 +22,12 @@ Rating: 4.15 (Ranked 964)
 | The Interloper | 3.00% | ~1,328 |
 | Hop, Step, Jump | 3.00% | ~1,328 |
 | Endless Runner | 3.00% | ~1,328 |
-| What Must Be Done | 2.00% | ~885 |
-| Might and Main | 2.00% | ~885 |
-| Damned If You Do... | 2.00% | ~885 |
-| Explorer: Pathfinder | 2.00% | ~885 |
-| Shocker | 2.00% | ~885 |
-| From Every Angle | 2.00% | ~885 |
+| What Must Be Done | 2.00% | ~886 |
+| Might and Main | 2.00% | ~886 |
+| Damned If You Do... | 2.00% | ~886 |
+| Explorer: Pathfinder | 2.00% | ~886 |
+| Shocker | 2.00% | ~886 |
+| From Every Angle | 2.00% | ~886 |
 | The Hue of Blue | 1.00% | ~443 |
 | The Truth Will Out | 1.00% | ~443 |
 | Breaking Point | 1.00% | ~443 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 964)
 | Remembrance | 0.10% | ~44 |
 | Cat Person | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,274 (Ranked 120)  
+Progressed: 44,279 (Ranked 120)  
 Completed: 3 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 3 (0.01%) (Ranked 356)
 | 2023-12-15 | 43,925 | 3 |
 | 2023-12-16 | 44,114 | 3 |
 | 2023-12-17 | 44,267 | 3 |
-| 2023-12-18 | 44,274 | 3 |
+| 2023-12-18 | 44,279 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

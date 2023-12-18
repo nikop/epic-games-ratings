@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3451,
+  "EOS_Progressed": 3452,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4415,6 +4415,11 @@
       "Time": "2023-12-18T00:04:36.0882508+00:00",
       "NumProgressed": 3451,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T01:53:38.8101661+00:00",
+      "NumProgressed": 3452,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4648,9 +4653,9 @@
       "ID": "Kills_Knockback",
       "SetID": "3jha1np",
       "Name": "Watch Where You Step...",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 345
     },
     {
       "ID": "Kills_Streak",
@@ -4969,21 +4974,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3451,
+      "Progressed": 3452,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3451,
+      "Progressed": 3452,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:04:36.0882506+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:53:38.8101657+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.7152084+00:00",
-  "LastUpdate_Ratings": "2023-12-18T00:03:02.3370875+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:04:36.0883249+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:51:19.763629+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:53:38.8102367+00:00"
 }

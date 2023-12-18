@@ -6,11 +6,11 @@ Rating: 4.58 (Ranked 456)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Pushing a pull door | 96.00% | ~684 |
-| Fetch Quest Complete | 90.00% | ~641 |
-| I can't wait! | 83.00% | ~591 |
+| Fetch Quest Complete | 90.00% | ~642 |
+| I can't wait! | 83.00% | ~592 |
 | Swish | 56.00% | ~399 |
 | Clean up on Aisle 9 | 40.00% | ~285 |
-| Machine Maxed | 29.00% | ~206 |
+| Machine Maxed | 29.00% | ~207 |
 | Existential dread | 26.00% | ~185 |
 | Bug Fixer | 25.00% | ~178 |
 | Gerald of Riviera | 25.00% | ~178 |
@@ -26,10 +26,10 @@ Rating: 4.58 (Ranked 456)
 | You Spin Me Round | 6.00% | ~43 |
 | Bombscare | 5.00% | ~36 |
 | Your Bloody Valentine | 5.00% | ~36 |
-| Crowning achievement | 4.00% | ~28 |
-| GoldGuy Jr | 4.00% | ~28 |
-| Nose to the Grindstone | 4.00% | ~28 |
-| Waking nightmare | 4.00% | ~28 |
+| Crowning achievement | 4.00% | ~29 |
+| GoldGuy Jr | 4.00% | ~29 |
+| Nose to the Grindstone | 4.00% | ~29 |
+| Waking nightmare | 4.00% | ~29 |
 | To do. Done! | 3.00% | ~21 |
 | We come in peace | 3.00% | ~21 |
 | Hammer time | 3.00% | ~21 |
@@ -60,7 +60,7 @@ Rating: 4.58 (Ranked 456)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712 (Ranked 294)  
+Progressed: 713 (Ranked 294)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,6 +142,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-15 | 703 | 0 |
 | 2023-12-16 | 706 | 0 |
 | 2023-12-17 | 712 | 0 |
+| 2023-12-18 | 713 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

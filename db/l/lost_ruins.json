@@ -3,9 +3,9 @@
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 322,
-  "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 270,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -1564,17 +1564,17 @@
       "ID": "TheEnd",
       "SetID": "82505mn",
       "Name": "The End",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 66
     },
     {
       "ID": "TheFallen",
       "SetID": "82505mn",
       "Name": "The Fallen",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 116
     },
     {
       "ID": "TheTrio",
@@ -1637,8 +1637,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:09:42.638473+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:58:34.1892878+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:58:30.2164777+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:09:42.6385039+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:47:25.5389779+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:58:34.1893381+00:00"
 }

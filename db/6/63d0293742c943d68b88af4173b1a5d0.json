@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 448,
+  "EOS_Progressed": 449,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1394,6 +1394,11 @@
       "Time": "2023-12-18T00:04:49.6330722+00:00",
       "NumProgressed": 448,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T01:53:58.0840257+00:00",
+      "NumProgressed": 449,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1462,7 +1467,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "REMAKE_002",
@@ -1604,9 +1609,9 @@
       "ID": "Remake_20",
       "SetID": "5pi96jj",
       "Name": "Dug Straight Down",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 13
     },
     {
       "ID": "Remake_21",
@@ -1629,14 +1634,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 448,
+      "Progressed": 449,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:04:49.6330719+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:53:58.0840253+00:00",
   "LastUpdate_AppInfo": "2023-12-11T23:56:59.5421023+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:57:10.9904488+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:04:49.6330884+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:45:23.8648697+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:53:58.0840476+00:00"
 }

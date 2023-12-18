@@ -2,10 +2,10 @@
   "ID": "3eae9135a71f43a288f3b683fe83bc11",
   "Name": "Lemon Cake",
   "ProductSlug": "lemon-cake-c683d8",
-  "Ranking_EOS_Progress": 409,
+  "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 440,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
     "PcReleaseDate": "2021-02-18T01:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 172,
+  "EOS_Progressed": 173,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
@@ -330,6 +330,11 @@
       "Time": "2023-12-17T18:08:04.5389417+00:00",
       "NumProgressed": 172,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-18T01:56:36.1220716+00:00",
+      "NumProgressed": 173,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 17,
@@ -341,7 +346,7 @@
       "Name": "Proving Your Skills",
       "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "LC-02",
@@ -373,7 +378,7 @@
       "Name": "Apprentice Baker",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "LC-06",
@@ -437,7 +442,7 @@
       "Name": "The Kitchen Is On Fire",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "LC-14",
@@ -445,7 +450,7 @@
       "Name": "Gotta Go Fast",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "LC-15",
@@ -476,7 +481,7 @@
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 172,
+      "Progressed": 173,
       "Completed": 2
     }
   ],
@@ -484,8 +489,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:06:38.8400621+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:56:36.1220712+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:38.5761808+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:57:23.4832712+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:06:38.840073+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:45:43.1227608+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:56:36.1220822+00:00"
 }

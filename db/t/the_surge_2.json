@@ -2,13 +2,13 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 881,
+  "Ranking_Rating": 880,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -3977,8 +3977,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:04:19.9979164+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:53:15.5229043+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:57:00.284762+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:58:08.5305462+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:04:19.9979839+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:46:52.7090253+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:53:15.5229599+00:00"
 }

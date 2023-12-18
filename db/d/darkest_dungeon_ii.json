@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9766,10 +9766,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20673,
       "NumberOfAwardsMax": 7763
+    },
+    {
+      "Time": "2023-12-18T01:46:43.04342+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20687,
+      "NumberOfAwardsMax": 7763
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20673,
+  "NumberOfAwards": 20687,
   "NumberOfAwardsMax": 7763,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9807,7 +9813,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1350
+      "Count": 1356
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9837,7 +9843,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1384
+      "Count": 1392
     },
     {
       "Text": "This game has a Creative Community",
@@ -9846,9 +9852,9 @@
       "Count": 1018
     }
   ],
-  "EOS_Progressed": 128152,
+  "EOS_Progressed": 128170,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2078,
+  "EOS_NewPlayers": 2090,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35556,6 +35562,11 @@
       "Time": "2023-12-18T00:08:55.0628215+00:00",
       "NumProgressed": 128152,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T01:57:26.6156368+00:00",
+      "NumProgressed": 128170,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35757,9 +35768,9 @@
       "ID": "combat_kill_gentry",
       "SetID": "64l4lke",
       "Name": "No More Mouths to Feed",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 897
+      "UsersEstimate": 1025
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -35775,7 +35786,7 @@
       "Name": "Clearing the Ledger",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "combat_kill_leviathan",
@@ -35823,7 +35834,7 @@
       "Name": "Bacon Bits",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "combat_party_wipe_all_run_bosses",
@@ -35847,7 +35858,7 @@
       "Name": "Hat Trick",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -35869,9 +35880,9 @@
       "ID": "driving_biome_clear_coast",
       "SetID": "64l4lke",
       "Name": "Merry Time",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1282
+      "UsersEstimate": 2563
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -35951,7 +35962,7 @@
       "Name": "Triage",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "inn_first_time",
@@ -36103,7 +36114,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "combat_kill_collector",
@@ -36111,7 +36122,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36167,7 +36178,7 @@
       "Name": "Lost and Found",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36175,7 +36186,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -36198,21 +36209,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128152,
+      "Progressed": 128170,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3021,
+      "Progressed": 3039,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-17T18:58:03.9657788+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:08:55.0628214+00:00",
+  "LastChanged": "2023-12-18T01:46:43.0434198+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:57:26.6156363+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:58:02.4513967+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:08:55.0629644+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:46:43.0434205+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:57:26.6157964+00:00"
 }

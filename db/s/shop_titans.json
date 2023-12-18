@@ -7627,9 +7627,9 @@
       "Count": 3800
     }
   ],
-  "EOS_Progressed": 146138,
+  "EOS_Progressed": 146147,
   "EOS_Completed": 322,
-  "EOS_NewPlayers": 1476,
+  "EOS_NewPlayers": 1481,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -32877,6 +32877,11 @@
       "Time": "2023-12-18T00:05:34.2397779+00:00",
       "NumProgressed": 146138,
       "NumCompleted": 322
+    },
+    {
+      "Time": "2023-12-18T01:55:01.3228001+00:00",
+      "NumProgressed": 146147,
+      "NumCompleted": 322
     }
   ],
   "TotalAchievements": 112,
@@ -32886,9 +32891,9 @@
       "ID": "advlevel01",
       "SetID": "anfd17p",
       "Name": "The Daily Grind",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4384
+      "UsersEstimate": 5846
     },
     {
       "ID": "advlevel02",
@@ -33056,7 +33061,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11691
+      "UsersEstimate": 11692
     },
     {
       "ID": "chest02",
@@ -33120,7 +33125,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11691
+      "UsersEstimate": 11692
     },
     {
       "ID": "commonres02",
@@ -33152,7 +33157,7 @@
       "Name": "Disintermediation",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8768
+      "UsersEstimate": 8769
     },
     {
       "ID": "craft02",
@@ -33664,7 +33669,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8768
+      "UsersEstimate": 8769
     },
     {
       "ID": "sell02",
@@ -33704,7 +33709,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11691
+      "UsersEstimate": 11692
     },
     {
       "ID": "twinenchant01",
@@ -33783,15 +33788,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 146138,
+      "Progressed": 146147,
       "Completed": 322
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-17T22:03:02.900071+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:05:34.2397778+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:55:01.3227997+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-18T00:03:04.7189019+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:05:34.239965+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:51:23.5341304+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:55:01.3230599+00:00"
 }

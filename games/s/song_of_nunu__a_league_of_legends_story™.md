@@ -13,8 +13,8 @@ Rating: 4.43 (Ranked 699)
 | He's Famous! | 65.00% | ~784 |
 | Cutie Poro | 65.00% | ~784 |
 | Krugmazing | 64.00% | ~772 |
+| The Fire Below the Mountain | 61.00% | ~736 |
 | Moneyball | 60.00% | ~724 |
-| The Fire Below the Mountain | 60.00% | ~724 |
 | No Bites | 55.00% | ~663 |
 | Iceborn | 55.00% | ~663 |
 | Boom Things | 53.00% | ~639 |
@@ -28,10 +28,10 @@ Rating: 4.43 (Ranked 699)
 | So Close | 42.00% | ~507 |
 | You Get Used To It | 42.00% | ~507 |
 | Family | 40.00% | ~482 |
+| Boosted! | 40.00% | ~482 |
 | Biggest Snowball Ever | 39.00% | ~470 |
 | Freeze The Ice Witch | 39.00% | ~470 |
 | True Legends | 39.00% | ~470 |
-| Boosted! | 39.00% | ~470 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~470 |
 | It Is Not Over | 36.00% | ~434 |
 | Bullseye | 36.00% | ~434 |

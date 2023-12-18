@@ -41,18 +41,18 @@
 | The Secrets | 20.00% | ~9 |
 | Well-travelled | 17.00% | ~8 |
 | A peculiar fellow | 17.00% | ~8 |
+| Florence Farquhar | 17.00% | ~8 |
 | Mortimer Ailsworth | 17.00% | ~8 |
-| Florence Farquhar | 15.00% | ~7 |
-| The Investigation Starts Anew | 15.00% | ~7 |
-| The Denouement | 13.00% | ~6 |
-| A treasured heirloom | 13.00% | ~6 |
-| A perilous journey | 13.00% | ~6 |
-| The Penitent Magdalene | 13.00% | ~6 |
-| A true performance | 13.00% | ~6 |
-| Perkins | 7.00% | ~3 |
+| The Investigation Starts Anew | 17.00% | ~8 |
+| The Denouement | 15.00% | ~7 |
+| A treasured heirloom | 15.00% | ~7 |
+| A perilous journey | 15.00% | ~7 |
+| The Penitent Magdalene | 15.00% | ~7 |
+| A true performance | 15.00% | ~7 |
+| Perkins | 9.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 46 (Ranked 525)  
-Completed: 1 (2.17%) (Ranked 131)  
+Completed: 2 (4.35%) (Ranked 83)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,3 +94,4 @@ Completed: 1 (2.17%) (Ranked 131)
 | 2023-12-15 | 44 | 1 |
 | 2023-12-16 | 45 | 1 |
 | 2023-12-17 | 46 | 1 |
+| 2023-12-18 | 46 | 2 |

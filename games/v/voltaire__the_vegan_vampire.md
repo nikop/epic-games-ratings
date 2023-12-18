@@ -30,11 +30,11 @@
 | Free Spirit | 2.00% | ~2 |
 | I am Root! | 2.00% | ~2 |
 | Tururururu! | 2.00% | ~2 |
+| Daddy Issues | 0.80% | ~1 |
 | Yeehaw! | 0.80% | ~1 |
 | Yeetus Deletus | 0.80% | ~1 |
 | Best in the field | 0.80% | ~1 |
 | Fauna Connoisseur | 0.00% | ~0 |
-| Daddy Issues | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 119 (Ranked 442)  
 Completed: 0 (0.00%) (Ranked 380)  

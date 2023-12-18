@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 429,
+  "EOS_Progressed": 430,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -1480,6 +1480,11 @@
       "Time": "2023-12-17T14:10:52.5010291+00:00",
       "NumProgressed": 429,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T01:58:37.5328918+00:00",
+      "NumProgressed": 430,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1635,7 +1640,7 @@
       "Name": "I like books",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "CULTURE_2",
@@ -1819,7 +1824,7 @@
       "Name": "I like parks",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -2099,7 +2104,7 @@
       "Name": "Bucolic city",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "WELFARE_1",
@@ -2107,7 +2112,7 @@
       "Name": "Soviet town",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "WELFARE_2",
@@ -2122,7 +2127,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 429,
+      "Progressed": 430,
       "Completed": 0
     }
   ],
@@ -2130,8 +2135,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:09:45.2066306+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:58:37.5328912+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.321847+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:58:40.139505+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:09:45.2066911+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:47:41.1177299+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:58:37.5329532+00:00"
 }

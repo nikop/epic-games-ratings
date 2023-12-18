@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,651 |
-| Off to a good start | 65.00% | ~1,206 |
-| Do... or do not. There is no try | 51.00% | ~946 |
-| A good blaster at your side | 28.00% | ~519 |
-| I suggest a new strategy | 18.00% | ~334 |
-| Scrap collector | 17.00% | ~315 |
-| All right, I'll give it a try | 17.00% | ~315 |
-| Great shot, kid! | 17.00% | ~315 |
+| New Recruit | 89.00% | ~1,655 |
+| Off to a good start | 65.00% | ~1,208 |
+| Do... or do not. There is no try | 51.00% | ~948 |
+| A good blaster at your side | 28.00% | ~521 |
+| I suggest a new strategy | 18.00% | ~335 |
+| Scrap collector | 17.00% | ~316 |
+| All right, I'll give it a try | 17.00% | ~316 |
+| Great shot, kid! | 17.00% | ~316 |
 | Shoot first | 14.00% | ~260 |
-| The power of the Force | 13.00% | ~241 |
-| Collector | 13.00% | ~241 |
-| Together we can rule the galaxy | 13.00% | ~241 |
+| The power of the Force | 13.00% | ~242 |
+| Collector | 13.00% | ~242 |
+| Together we can rule the galaxy | 13.00% | ~242 |
 | Tell Jabba that I've got his money | 9.00% | ~167 |
 | Best star-pilot in the galaxy | 9.00% | ~167 |
-| Never tell me the odds! | 8.00% | ~148 |
-| Survivor | 8.00% | ~148 |
+| Never tell me the odds! | 8.00% | ~149 |
+| Survivor | 8.00% | ~149 |
 | What's the cargo? | 7.00% | ~130 |
 | A cunning warrior | 7.00% | ~130 |
-| Impressive. Most impressive. | 6.00% | ~111 |
-| Judge me by my size, do you? | 6.00% | ~111 |
+| Impressive. Most impressive. | 6.00% | ~112 |
+| Judge me by my size, do you? | 6.00% | ~112 |
 | "Gonk? Gonk!" | 5.00% | ~93 |
 | Distinguished | 5.00% | ~93 |
 | A tremor in the Force | 5.00% | ~93 |
 | Support the troops | 5.00% | ~93 |
 | Safety ain't the point of a joyride | 4.00% | ~74 |
 | Not bad for a little furball | 4.00% | ~74 |
-| Patience you must have | 4.00% | ~74 |
 | I've been waiting for you | 3.00% | ~56 |
 | When 900 years old you reach... | 3.00% | ~56 |
 | Your journey has only started | 3.00% | ~56 |
 | On the ball | 3.00% | ~56 |
+| Patience you must have | 3.00% | ~56 |
 | Don't underestimate the Force | 3.00% | ~56 |
 | The Force is strong with this one | 2.00% | ~37 |
 | Determined | 2.00% | ~37 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~4 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,855 (Ranked 237)  
+Progressed: 1,859 (Ranked 237)  
 Completed: 1 (0.05%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 1 (0.05%) (Ranked 328)
 | 2023-12-15 | 1,755 | 1 |
 | 2023-12-16 | 1,815 | 1 |
 | 2023-12-17 | 1,853 | 1 |
-| 2023-12-18 | 1,855 | 1 |
+| 2023-12-18 | 1,859 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

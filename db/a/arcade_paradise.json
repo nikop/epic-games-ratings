@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 712,
+  "EOS_Progressed": 713,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -758,6 +758,11 @@
       "Time": "2023-12-17T22:03:36.7081089+00:00",
       "NumProgressed": 712,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T01:52:16.4833704+00:00",
+      "NumProgressed": 713,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -817,7 +822,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "AhoyTrophy",
@@ -873,7 +878,7 @@
       "Name": "Crowning achievement",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "DancerTrophy",
@@ -945,7 +950,7 @@
       "Name": "Machine Maxed",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "GoldGuyTrophy",
@@ -953,7 +958,7 @@
       "Name": "GoldGuy Jr",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "GoreTrophy",
@@ -969,7 +974,7 @@
       "Name": "Nose to the Grindstone",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "GumTrophy",
@@ -1041,7 +1046,7 @@
       "Name": "Waking nightmare",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "MachineTrophy",
@@ -1049,7 +1054,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "MaxPriceTrophy",
@@ -1200,7 +1205,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 712,
+      "Progressed": 713,
       "Completed": 0
     }
   ],
@@ -1208,8 +1213,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-10-15T06:02:18.0550602+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:03:39.2344531+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:52:16.48337+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:28.3598294+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:58:25.6209551+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:03:39.2344913+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:47:18.1285461+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:52:16.4834216+00:00"
 }

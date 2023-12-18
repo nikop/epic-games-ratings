@@ -4,8 +4,8 @@
   "ProductSlug": "keywe-c3a70e",
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
     "PcReleaseDate": "2021-08-31T00:00:00+00:00",
@@ -418,9 +418,9 @@
       "ID": "beatOwnScore",
       "SetID": "cfe0fhi",
       "Name": "Practice Makes Postmasters",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "completeFall",
@@ -458,9 +458,9 @@
       "ID": "completeTheFirstWeek",
       "SetID": "cfe0fhi",
       "Name": "Learn the Ropes",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "findFirstCollectible",
@@ -545,8 +545,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:08:48.6014602+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:51:39.9340132+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:06.0598499+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:58:06.7326733+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:08:48.601473+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:46:49.8831209+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:51:39.9340355+00:00"
 }

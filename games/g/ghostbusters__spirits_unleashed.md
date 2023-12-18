@@ -5,21 +5,21 @@ Rating: 4.50 (Ranked 599)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 10.00% | ~3,238 |
+| Stylish | 10.00% | ~3,239 |
 | Meticulously Efficient | 8.00% | ~2,591 |
 | Advancement | 7.00% | ~2,267 |
 | Swift Rift Removers | 6.00% | ~1,943 |
-| I collect Spores, Molds, and Fungi | 5.00% | ~1,619 |
-| Discovery | 5.00% | ~1,619 |
-| Fully Upgraded | 5.00% | ~1,619 |
-| Solo Capture | 5.00% | ~1,619 |
-| Teamwork | 5.00% | ~1,619 |
-| Clutch Capture | 4.00% | ~1,295 |
-| Cultured | 4.00% | ~1,295 |
-| Daily Dose | 4.00% | ~1,295 |
-| There you are! | 4.00% | ~1,295 |
-| Vaporous Expansion | 4.00% | ~1,295 |
-| Whoopsie | 4.00% | ~1,295 |
+| I collect Spores, Molds, and Fungi | 5.00% | ~1,620 |
+| Discovery | 5.00% | ~1,620 |
+| Fully Upgraded | 5.00% | ~1,620 |
+| Solo Capture | 5.00% | ~1,620 |
+| Teamwork | 5.00% | ~1,620 |
+| Clutch Capture | 4.00% | ~1,296 |
+| Cultured | 4.00% | ~1,296 |
+| Daily Dose | 4.00% | ~1,296 |
+| There you are! | 4.00% | ~1,296 |
+| Vaporous Expansion | 4.00% | ~1,296 |
+| Whoopsie | 4.00% | ~1,296 |
 | Animated | 3.00% | ~972 |
 | We have the best insurance | 3.00% | ~972 |
 | Ectoplasmic Entity | 3.00% | ~972 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 599)
 | Ultimate Defense | 0.20% | ~65 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,385 (Ranked 127)  
+Progressed: 32,390 (Ranked 127)  
 Completed: 69 (0.21%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,10 +299,10 @@ Completed: 69 (0.21%) (Ranked 263)
 | 2023-12-15 | 32,291 | 69 |
 | 2023-12-16 | 32,332 | 69 |
 | 2023-12-17 | 32,383 | 69 |
-| 2023-12-18 | 32,385 | 69 |
+| 2023-12-18 | 32,390 | 69 |
 ## Awards
 Max (Great for Beginners): 324  (Ranked 251)  
-Sum: 2,912 (Ranked 181)  
+Sum: 2,915 (Ranked 181)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -311,9 +311,9 @@ Diff (max vs sum): 70
 | This game has Diverse Characters | 305 |
 | This game has Amazing Storytelling | 290 |
 | This game is Highly Recommended | 288 |
-| This game has Competitive Players | 284 |
+| This game has Competitive Players | 285 |
+| This game is Relaxing | 283 |
 | This game is Extremely Fun | 282 |
-| This game is Relaxing | 281 |
 | This game has Amazing Characters | 272 |
 | This game has Quickly Understood Controls | 268 |
 | This game has Playful Visuals | 94 |
@@ -563,3 +563,4 @@ Diff (max vs sum): 70
 | 2023-12-15 | 4.50 | 323 | 2,908 |
 | 2023-12-16 | 4.50 | 323 | 2,909 |
 | 2023-12-17 | 4.50 | 324 | 2,912 |
+| 2023-12-18 | 4.50 | 324 | 2,915 |

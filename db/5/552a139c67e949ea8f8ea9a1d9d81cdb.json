@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1408,
+  "EOS_Progressed": 1409,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3322,6 +3322,11 @@
       "Time": "2023-12-18T00:05:32.6932335+00:00",
       "NumProgressed": 1408,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T01:54:58.9683807+00:00",
+      "NumProgressed": 1409,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3334,7 +3339,7 @@
       "Name": "Rookie",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3388,9 +3393,9 @@
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "5k00jcd",
       "Name": "Versatile riding",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -3428,9 +3433,9 @@
       "ID": "ML_ACHIEVEMENT_13",
       "SetID": "5k00jcd",
       "Name": "Look, Mom! No track!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ML_ACHIEVEMENT_14",
@@ -3701,20 +3706,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1408,
+      "Progressed": 1409,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1076,
+      "Progressed": 1077,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:05:32.6932333+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:54:58.9683803+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:58:49.7574534+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:05:32.693281+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:47:55.6284568+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:54:58.968418+00:00"
 }

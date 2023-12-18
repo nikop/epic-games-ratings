@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19090,
+  "EOS_Progressed": 19091,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13814,6 +13814,11 @@
       "Time": "2023-12-17T23:05:32.9760136+00:00",
       "NumProgressed": 19090,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-18T01:53:25.2425723+00:00",
+      "NumProgressed": 19091,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13833,7 +13838,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "0003",
@@ -13913,7 +13918,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3054
+      "UsersEstimate": 3055
     },
     {
       "ID": "0013",
@@ -13929,7 +13934,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3054
+      "UsersEstimate": 3055
     },
     {
       "ID": "0015",
@@ -14112,7 +14117,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19090,
+      "Progressed": 19091,
       "Completed": 4
     }
   ],
@@ -14120,8 +14125,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:04:26.9056183+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:53:25.2425718+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:23.0079073+00:00",
-  "LastUpdate_Ratings": "2023-12-18T00:00:09.419687+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:04:26.905703+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:49:58.9317291+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:53:25.2426486+00:00"
 }

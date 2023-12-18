@@ -3,9 +3,9 @@
   "Name": "Agatha Christie - Hercule Poirot: The London Case",
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 525,
-  "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 83,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 46,
-  "EOS_Completed": 1,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 6,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.17,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 4.35,
   "EosHistory": [
     {
       "Time": "2023-08-28T17:08:21.3912781+00:00",
@@ -259,6 +259,11 @@
       "Time": "2023-12-17T17:09:49.4864842+00:00",
       "NumProgressed": 46,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T01:57:42.8097532+00:00",
+      "NumProgressed": 46,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-28T09:06:47.8073027+00:00",
@@ -277,9 +282,9 @@
       "ID": "ACH_010",
       "SetID": "7b646ck",
       "Name": "The Denouement",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_011",
@@ -349,9 +354,9 @@
       "ID": "ACH_019",
       "SetID": "7b646ck",
       "Name": "A treasured heirloom",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_02",
@@ -413,9 +418,9 @@
       "ID": "ACH_026",
       "SetID": "7b646ck",
       "Name": "A perilous journey",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_027",
@@ -437,9 +442,9 @@
       "ID": "ACH_029",
       "SetID": "7b646ck",
       "Name": "The Penitent Magdalene",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_03",
@@ -453,9 +458,9 @@
       "ID": "ACH_030",
       "SetID": "7b646ck",
       "Name": "A true performance",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_031",
@@ -501,9 +506,9 @@
       "ID": "ACH_036",
       "SetID": "7b646ck",
       "Name": "Florence Farquhar",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_037",
@@ -589,9 +594,9 @@
       "ID": "ACH_046",
       "SetID": "7b646ck",
       "Name": "Perkins",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_05",
@@ -629,9 +634,9 @@
       "ID": "ACH_09",
       "SetID": "7b646ck",
       "Name": "The Investigation Starts Anew",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
@@ -639,13 +644,13 @@
       "ID": "7b646ck",
       "IsBase": true,
       "Progressed": 46,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:09:06.0570538+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:57:42.8097527+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:34.2586624+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:02:54.9975461+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:09:06.0570859+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:45:07.940682+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:57:42.8097842+00:00"
 }

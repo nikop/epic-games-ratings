@@ -5,18 +5,18 @@ Rating: 4.51 (Ranked 577)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~174,053 |
-| FIRST BLOOD | 40.00% | ~154,714 |
-| KEVIN! | 30.00% | ~116,036 |
-| JACK OF ALL TRADES | 23.00% | ~88,961 |
-| CRIMINAL | 20.00% | ~77,357 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~42,546 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~34,811 |
-| HONORS STUDENT | 8.00% | ~30,943 |
-| BUTCHER | 6.00% | ~23,207 |
-| INDIVIDUAL APPROACH | 5.00% | ~19,339 |
-| RAMBO | 5.00% | ~19,339 |
-| HELL'S KITCHEN | 4.00% | ~15,471 |
+| MASTER CHEF | 45.00% | ~174,067 |
+| FIRST BLOOD | 40.00% | ~154,726 |
+| KEVIN! | 30.00% | ~116,044 |
+| JACK OF ALL TRADES | 23.00% | ~88,967 |
+| CRIMINAL | 20.00% | ~77,363 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~42,550 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~34,813 |
+| HONORS STUDENT | 8.00% | ~30,945 |
+| BUTCHER | 6.00% | ~23,209 |
+| INDIVIDUAL APPROACH | 5.00% | ~19,341 |
+| RAMBO | 5.00% | ~19,341 |
+| HELL'S KITCHEN | 4.00% | ~15,473 |
 | CELEBRITY | 3.00% | ~11,604 |
 | MARTYR | 3.00% | ~11,604 |
 | GRATITUDE | 2.00% | ~7,736 |
@@ -25,8 +25,8 @@ Rating: 4.51 (Ranked 577)
 | GOURMET | 1.00% | ~3,868 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,868 |
 | PRUDENT | 1.00% | ~3,868 |
-| SCATTERBRAIN | 0.80% | ~3,094 |
-| HIGH TECHNOLOGIES | 0.70% | ~2,707 |
+| SCATTERBRAIN | 0.80% | ~3,095 |
+| HIGH TECHNOLOGIES | 0.70% | ~2,708 |
 | TASTE UNTASTY | 0.50% | ~1,934 |
 | DEBTOR | 0.20% | ~774 |
 | I'VE SEEN SOME… | 0.20% | ~774 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 577)
 | MISTER ALL THUMBS | 0.10% | ~387 |
 | TRAVELER | 0.10% | ~387 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386,785 (Ranked 47)  
+Progressed: 386,815 (Ranked 47)  
 Completed: 49 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 49 (0.01%) (Ranked 356)
 | 2023-12-15 | 385,559 | 49 |
 | 2023-12-16 | 386,180 | 49 |
 | 2023-12-17 | 386,772 | 49 |
-| 2023-12-18 | 386,785 | 49 |
+| 2023-12-18 | 386,815 | 49 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

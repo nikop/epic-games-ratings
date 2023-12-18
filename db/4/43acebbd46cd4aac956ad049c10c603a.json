@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -224,7 +224,7 @@
   ],
   "EOS_Progressed": 1039,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2957,9 +2957,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 125
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3117,9 +3117,9 @@
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 166
     },
     {
       "ID": "WesternDelta",
@@ -3158,8 +3158,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:03:45.1433029+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:52:24.7589708+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:58:12.655678+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:03:45.1433878+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:46:58.5661789+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:52:24.759018+00:00"
 }

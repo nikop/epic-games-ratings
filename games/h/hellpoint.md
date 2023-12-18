@@ -1,7 +1,7 @@
 # Hellpoint
 [Store](https://store.epicgames.com/en-US/p/hellpoint)  
 [View Rawdata](../../db/h/hellpoint.json)  
-Rating: 4.31 (Ranked 841)  
+Rating: 4.24 (Ranked 898)  
 Number of Ratings: 20  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -20,3 +20,4 @@ Number of Ratings: 20  (23.09.2022)
 | 2023-04-26 | 4.30 | - | 0 | 0 |
 | 2023-11-04 | 4.29 | - | 0 | 0 |
 | 2023-11-12 | 4.31 | - | 0 | 0 |
+| 2023-12-18 | 4.24 | - | 0 | 0 |

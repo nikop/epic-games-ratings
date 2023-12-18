@@ -3,9 +3,9 @@
   "Name": "Rescue Party: Live!",
   "ProductSlug": "rescue-party-live",
   "Ranking_EOS_Progress": 387,
-  "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 379,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 114,
+  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
     "PcReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -579,9 +579,9 @@
       "ID": "ACH_SPEEDY",
       "SetID": "1p69hf1",
       "Name": "ASAP",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 242
     }
   ],
   "AchievementSets": [
@@ -596,8 +596,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:04:07.6471206+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:52:57.1914037+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:57:01.0783511+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:58:27.1394904+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:04:07.6471316+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:47:20.5768892+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:52:57.1914168+00:00"
 }

@@ -19,30 +19,30 @@
 | Oh, you're up to no gouda! | 65.00% | ~86 |
 | Make Love not War-Craft a Mistlefoe | 63.00% | ~84 |
 | Meat grinder | 62.00% | ~82 |
-| You're not going to blow me up! | 56.00% | ~74 |
-| Mushroom soup of the day | 53.00% | ~70 |
+| You're not going to blow me up! | 57.00% | ~76 |
+| Mushroom soup of the day | 54.00% | ~72 |
+| Cockadoodledoo! | 51.00% | ~68 |
 | Honk honk! | 50.00% | ~66 |
-| Cockadoodledoo! | 50.00% | ~66 |
-| Butcher | 49.00% | ~65 |
-| Spare Ribs | 49.00% | ~65 |
-| Thats disgusting! | 48.00% | ~64 |
+| Butcher | 50.00% | ~66 |
+| Spare Ribs | 50.00% | ~66 |
+| Thats disgusting! | 49.00% | ~65 |
 | Self assessed tax return | 44.00% | ~59 |
 | My pants squeak when I walk | 44.00% | ~59 |
 | Surprise!! | 43.00% | ~57 |
 | Haemochromatosis | 40.00% | ~53 |
-| Make America Grate Again | 37.00% | ~49 |
+| Make America Grate Again | 38.00% | ~51 |
+| Pasta Bolognese | 36.00% | ~48 |
+| You are no match for me, Billy! | 35.00% | ~47 |
 | You can't stop me, bro! | 35.00% | ~47 |
-| Pasta Bolognese | 35.00% | ~47 |
-| You are no match for me, Billy! | 34.00% | ~45 |
+| Catch the bus with me! | 33.00% | ~44 |
 | Meatballs, coming up! | 32.00% | ~43 |
-| Catch the bus with me! | 32.00% | ~43 |
+| I'm going to get a concussion | 32.00% | ~43 |
 | Karaoke king | 32.00% | ~43 |
-| I'm going to get a concussion | 31.00% | ~41 |
 | Another one bites the iron | 29.00% | ~39 |
+| A Megapint...? | 26.00% | ~35 |
 | Ripe Meat Off The Bone! | 26.00% | ~35 |
 | Kleptomaniac | 26.00% | ~35 |
 | You're not so Big anymore, Boi! | 25.00% | ~33 |
-| A Megapint...? | 25.00% | ~33 |
 | Your daily dose of Vitamin C. | 25.00% | ~33 |
 | Hovering around | 25.00% | ~33 |
 | I cant stand still! | 22.00% | ~29 |
@@ -56,9 +56,9 @@
 | Timber! | 11.00% | ~15 |
 | Free Of Chains | 11.00% | ~15 |
 | Spoiler alert! | 10.00% | ~13 |
+| I drink, but I'm not a drunk! | 10.00% | ~13 |
 | Grumpy Immortal | 10.00% | ~13 |
 | Ancient Ruins of Moist Overhangs | 9.00% | ~12 |
-| I drink, but I'm not a drunk! | 9.00% | ~12 |
 | I want to throw up! | 8.00% | ~11 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~9 |
 | Scrambled Eggs | 7.00% | ~9 |

@@ -4,8 +4,8 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14542,
+  "EOS_Progressed": 14546,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16739,6 +16739,11 @@
       "Time": "2023-12-18T00:04:08.6323712+00:00",
       "NumProgressed": 14542,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T01:52:58.7442436+00:00",
+      "NumProgressed": 14546,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -16750,7 +16755,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -16822,7 +16827,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 6398
+      "UsersEstimate": 6400
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -16918,7 +16923,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2908
+      "UsersEstimate": 2909
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -16949,14 +16954,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 14542,
+      "Progressed": 14546,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:04:08.6323711+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:52:58.7442431+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.2855631+00:00",
-  "LastUpdate_Ratings": "2023-12-18T00:00:19.1328901+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:04:08.6324383+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:50:44.4512409+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:52:58.744314+00:00"
 }

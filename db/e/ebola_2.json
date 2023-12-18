@@ -2,10 +2,10 @@
   "ID": "13ccc4892e284ddb898df3e3ee56880e",
   "Name": "EBOLA 2",
   "ProductSlug": "ebola-2-b61221",
-  "Ranking_EOS_Progress": 367,
+  "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -1335,9 +1335,9 @@
       "ID": "achSeif",
       "SetID": "1al1mjg",
       "Name": "Master of Unlocking \u2714",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "achStatue",
@@ -1374,8 +1374,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:09:29.9581344+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:58:16.555392+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:10.752196+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:58:49.4431731+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:09:29.9581561+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:47:55.2476561+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:58:16.555413+00:00"
 }

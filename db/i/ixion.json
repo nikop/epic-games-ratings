@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3550,
+  "EOS_Progressed": 3551,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6586,6 +6586,11 @@
       "Time": "2023-12-17T23:07:20.1378195+00:00",
       "NumProgressed": 3550,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T01:55:13.6937019+00:00",
+      "NumProgressed": 3551,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6733,7 +6738,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ACH_BASE_28",
@@ -6747,9 +6752,9 @@
       "ID": "ACH_BASE_29",
       "SetID": "92iocjf",
       "Name": "A Thousand Strong",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 604
+      "UsersEstimate": 639
     },
     {
       "ID": "ACH_BASE_3",
@@ -6781,7 +6786,7 @@
       "Name": "Praise the Hull!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_BASE_33",
@@ -6885,7 +6890,7 @@
       "Name": "Delivery!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_BASE_48",
@@ -6893,7 +6898,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "ACH_BASE_49",
@@ -7013,7 +7018,7 @@
       "Name": "Help of the Forgotten Member",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_BASE_64",
@@ -7045,20 +7050,20 @@
       "Name": "Pulsar Disciple",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1734,
+      "Progressed": 1735,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3550,
+      "Progressed": 3551,
       "Completed": 0
     }
   ],
@@ -7066,8 +7071,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:05:42.8774856+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:55:13.6937016+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:58:42.9198739+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:05:42.8775416+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:47:45.4743607+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:55:13.693765+00:00"
 }

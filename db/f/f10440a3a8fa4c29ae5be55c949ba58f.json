@@ -4,8 +4,8 @@
   "ProductSlug": "tangles-e99298",
   "Ranking_EOS_Progress": 661,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 440,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-21T14:30:00+00:00",
     "PcReleaseDate": "2023-12-21T14:30:00+00:00",
@@ -62,17 +62,17 @@
       "ID": "CompleteGame",
       "SetID": "ao2gjap",
       "Name": "Final Destination",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Document1",
       "SetID": "ao2gjap",
       "Name": "The Seeker in the Shadows",
-      "Percentage": 80,
+      "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Document2",
@@ -132,8 +132,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:08:57.9325121+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:57:30.8192674+00:00",
   "LastUpdate_AppInfo": "2023-12-17T19:57:03.2997714+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:59:00.8820012+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:08:57.9325157+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:48:13.2211242+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:57:30.8192747+00:00"
 }

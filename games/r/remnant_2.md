@@ -5,45 +5,45 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 5.00% | ~12,610 |
-| First of Many | 4.00% | ~10,088 |
-| Expanding Horizons | 3.00% | ~7,566 |
-| Not Your Average Trait | 3.00% | ~7,566 |
-| Gleaming the Cube | 2.00% | ~5,044 |
-| Quest for Survival | 2.00% | ~5,044 |
-| Not a Janitor | 2.00% | ~5,044 |
-| Familiar Face | 2.00% | ~5,044 |
-| Boss'n Up | 2.00% | ~5,044 |
-| Trait Chaser | 2.00% | ~5,044 |
-| Not So Special Now | 1.00% | ~2,522 |
-| Equal Measures | 1.00% | ~2,522 |
-| Blue Goddess | 1.00% | ~2,522 |
-| Duality | 1.00% | ~2,522 |
-| Top Performer | 1.00% | ~2,522 |
-| Shhh...It's a Secret | 1.00% | ~2,522 |
-| Was This Supposed To Happen? | 1.00% | ~2,522 |
-| Almost There | 1.00% | ~2,522 |
-| Make Some Room | 1.00% | ~2,522 |
-| Good, But Could Be Better! | 1.00% | ~2,522 |
-| Regicide | 1.00% | ~314 |
-| Chaos | 0.90% | ~2,270 |
-| Power Surge | 0.90% | ~2,270 |
-| The God Gambit | 0.90% | ~2,270 |
-| Dark Designs | 0.90% | ~2,270 |
-| Master of the Dark Arts | 0.90% | ~282 |
+| The Killing Jar | 5.00% | ~12,614 |
+| First of Many | 4.00% | ~10,092 |
+| Expanding Horizons | 3.00% | ~7,569 |
+| Not Your Average Trait | 3.00% | ~7,569 |
+| Gleaming the Cube | 2.00% | ~5,046 |
+| Quest for Survival | 2.00% | ~5,046 |
+| Not a Janitor | 2.00% | ~5,046 |
+| Familiar Face | 2.00% | ~5,046 |
+| Boss'n Up | 2.00% | ~5,046 |
+| Trait Chaser | 2.00% | ~5,046 |
+| Not So Special Now | 1.00% | ~2,523 |
+| Equal Measures | 1.00% | ~2,523 |
+| Blue Goddess | 1.00% | ~2,523 |
+| Duality | 1.00% | ~2,523 |
+| Top Performer | 1.00% | ~2,523 |
+| Shhh...It's a Secret | 1.00% | ~2,523 |
+| Was This Supposed To Happen? | 1.00% | ~2,523 |
+| Almost There | 1.00% | ~2,523 |
+| Make Some Room | 1.00% | ~2,523 |
+| Good, But Could Be Better! | 1.00% | ~2,523 |
+| Regicide | 1.00% | ~315 |
+| Chaos | 0.90% | ~2,271 |
+| Power Surge | 0.90% | ~2,271 |
+| The God Gambit | 0.90% | ~2,271 |
+| Dark Designs | 0.90% | ~2,271 |
+| Master of the Dark Arts | 0.90% | ~283 |
 | Am I Seeing This? | 0.80% | ~2,018 |
 | Traitor | 0.80% | ~2,018 |
 | Madman's Paradise | 0.80% | ~2,018 |
 | The Web | 0.80% | ~2,018 |
 | Scrap Collector | 0.80% | ~2,018 |
-| The Agenda | 0.70% | ~1,765 |
-| Forever is a Long Time Coming | 0.60% | ~1,513 |
-| Bad Moon Rising | 0.60% | ~1,513 |
-| Strapped | 0.60% | ~1,513 |
-| Scrap Hoarder | 0.60% | ~1,513 |
-| All These Traits� | 0.60% | ~1,513 |
-| The Ultimate Weapon | 0.60% | ~1,513 |
-| No One Should Have All That Power | 0.60% | ~1,513 |
+| The Agenda | 0.70% | ~1,766 |
+| Forever is a Long Time Coming | 0.60% | ~1,514 |
+| Bad Moon Rising | 0.60% | ~1,514 |
+| Strapped | 0.60% | ~1,514 |
+| Scrap Hoarder | 0.60% | ~1,514 |
+| All These Traits� | 0.60% | ~1,514 |
+| The Ultimate Weapon | 0.60% | ~1,514 |
+| No One Should Have All That Power | 0.60% | ~1,514 |
 | Edgelord | 0.50% | ~1,261 |
 | Carnage in C-Minor | 0.50% | ~1,261 |
 | Transmutate | 0.50% | ~1,261 |
@@ -55,13 +55,13 @@ Rating: 4.75 (Ranked 150)
 | The Trigger | 0.30% | ~757 |
 | Cutting Edge | 0.30% | ~757 |
 | The Collector | 0.30% | ~757 |
+| Proving Grounds | 0.30% | ~757 |
 | Maxed Out! | 0.30% | ~757 |
 | Succession | 0.30% | ~94 |
-| Proving Grounds | 0.20% | ~504 |
 | A Foul Feast | 0.20% | ~63 |
 | You Shall Pass | 0.20% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,190 (Ranked 63)  
+Progressed: 252,288 (Ranked 62)  
 Completed: 598 (0.24%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,10 +216,10 @@ Completed: 598 (0.24%) (Ranked 258)
 | 2023-12-15 | 245,556 | 588 |
 | 2023-12-16 | 249,241 | 590 |
 | 2023-12-17 | 252,137 | 598 |
-| 2023-12-18 | 252,190 | 598 |
+| 2023-12-18 | 252,288 | 598 |
 ## Awards
 Max (Great Boss Battles): 2,917  (Ranked 100)  
-Sum: 7,182 (Ranked 122)  
+Sum: 7,190 (Ranked 122)  
 Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
@@ -229,8 +229,8 @@ Diff (max vs sum): -22
 | This game has Challenging Combat | 449 |
 | This game has Quickly Understood Controls | 439 |
 | This game has Amazing Storytelling | 439 |
+| This game is Extremely Fun | 438 |
 | This game is Relaxing | 437 |
-| This game is Extremely Fun | 430 |
 | This game has Amazing Characters | 426 |
 | This game has Unique Visuals | 384 |
 | This game has a Creative Community | 319 |
@@ -382,3 +382,4 @@ Diff (max vs sum): -22
 | 2023-12-15 | 4.75 | 2,779 | 6,979 |
 | 2023-12-16 | 4.76 | 2,821 | 7,056 |
 | 2023-12-17 | 4.75 | 2,917 | 7,182 |
+| 2023-12-18 | 4.75 | 2,917 | 7,190 |

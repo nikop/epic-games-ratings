@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 74.00% | ~4,788 |
-| Un-Lonely Island | 46.00% | ~2,976 |
-| The Beginning of a Servantship | 44.00% | ~2,847 |
-| Trade Is My Trait | 36.00% | ~2,329 |
-| Number 18 | 23.00% | ~1,488 |
+| Just One...More...Term... | 74.00% | ~4,791 |
+| Un-Lonely Island | 46.00% | ~2,978 |
+| The Beginning of a Servantship | 44.00% | ~2,849 |
+| Trade Is My Trait | 36.00% | ~2,331 |
+| Number 18 | 23.00% | ~1,489 |
 | We Don't Have Time For That | 18.00% | ~1,165 |
-| The Governator | 17.00% | ~1,100 |
-| The Legend of Langostino | 16.00% | ~1,035 |
-| Caribbean Comrade | 15.00% | ~970 |
-| The Dreamer of Dreams | 15.00% | ~970 |
+| The Governator | 17.00% | ~1,101 |
+| The Legend of Langostino | 16.00% | ~1,036 |
+| Caribbean Comrade | 15.00% | ~971 |
+| The Dreamer of Dreams | 15.00% | ~971 |
 | Go Sovereigns! | 11.00% | ~712 |
 | For Science! | 11.00% | ~712 |
 | Happy Ending? | 10.00% | ~647 |
-| Of Seals And Men | 9.00% | ~582 |
-| Shackadelic | 9.00% | ~582 |
+| Of Seals And Men | 9.00% | ~583 |
+| Shackadelic | 9.00% | ~583 |
 | Double Trouble | 8.00% | ~518 |
 | Firestarter | 8.00% | ~518 |
 | I Owe You Nothing | 7.00% | ~453 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~52 |
 | My Ways | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,470 (Ranked 188)  
+Progressed: 6,474 (Ranked 188)  
 Completed: 2 (0.03%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,6 +289,7 @@ Completed: 2 (0.03%) (Ranked 341)
 | 2023-12-15 | 6,377 | 2 |
 | 2023-12-16 | 6,432 | 2 |
 | 2023-12-17 | 6,470 | 2 |
+| 2023-12-18 | 6,474 | 2 |
 ## Awards
 Max (Highly Recommended): 104  (Ranked 364)  
 Sum: 741 (Ranked 294)  

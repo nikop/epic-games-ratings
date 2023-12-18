@@ -4,11 +4,11 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 512,
   "Ranking_Popularity": 488,
-  "Ranking_PopularitySum": 400,
+  "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -749,9 +749,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 238212,
+  "EOS_Progressed": 238218,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1152,
+  "EOS_NewPlayers": 1147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17814,6 +17814,11 @@
       "Time": "2023-12-18T00:09:38.7956847+00:00",
       "NumProgressed": 238212,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T01:58:29.1196995+00:00",
+      "NumProgressed": 238218,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -17882,7 +17887,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50025
+      "UsersEstimate": 50026
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -17890,7 +17895,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21439
+      "UsersEstimate": 21440
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -17906,7 +17911,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9528
+      "UsersEstimate": 9529
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -17922,7 +17927,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7146
+      "UsersEstimate": 7147
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -17930,7 +17935,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7146
+      "UsersEstimate": 7147
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -17962,7 +17967,7 @@
       "Name": "Keepers of Sajuuk Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "HW2_MISSION11_COMPLETE",
@@ -17970,7 +17975,7 @@
       "Name": "Sacrifice Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "HW2_MISSION12_COMPLETE",
@@ -18010,7 +18015,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33350
+      "UsersEstimate": 33351
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -18058,7 +18063,7 @@
       "Name": "Derelicts Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "HW2_MISSION8_COMPLETE",
@@ -18066,7 +18071,7 @@
       "Name": "Dreadnaught Berth Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "HW2_MISSION9_COMPLETE",
@@ -18082,7 +18087,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59553
+      "UsersEstimate": 59554
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -18097,7 +18102,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 238212,
+      "Progressed": 238218,
       "Completed": 0
     }
   ],
@@ -18105,8 +18110,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-17T22:57:40.9765895+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:09:38.7956846+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:58:29.119699+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:59.9211133+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:57:26.0960966+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:09:38.7957644+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:45:46.7287803+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:58:29.1198031+00:00"
 }

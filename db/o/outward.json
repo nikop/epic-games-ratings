@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3983,
+  "EOS_Progressed": 3985,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6331,6 +6331,11 @@
       "Time": "2023-12-18T00:04:07.0530089+00:00",
       "NumProgressed": 3983,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-18T01:52:56.3761769+00:00",
+      "NumProgressed": 3985,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6342,7 +6347,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "AceDetective_9",
@@ -6366,7 +6371,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "BloodAndJustice_50",
@@ -6382,7 +6387,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "CrowdPleaser",
@@ -6414,7 +6419,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "ForAllAurai_8",
@@ -6446,7 +6451,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "HouseofCards_19",
@@ -6478,7 +6483,7 @@
       "Name": "Light of Levant",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "MagicIsaScience_58",
@@ -6526,7 +6531,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "ReadyforWinter_42",
@@ -6534,7 +6539,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2549
+      "UsersEstimate": 2550
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6542,7 +6547,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -6614,7 +6619,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "TheStuffOfLegends",
@@ -6638,7 +6643,7 @@
       "Name": "This was a mistake...",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ThroughFireAndFlame",
@@ -6662,7 +6667,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2947
+      "UsersEstimate": 2949
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6677,15 +6682,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3983,
+      "Progressed": 3985,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:04:07.0530086+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:52:56.3761766+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-18T00:02:49.1497742+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:04:07.0530725+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:50:57.9773143+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:52:56.3762408+00:00"
 }

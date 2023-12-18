@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1509,9 +1509,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 243356,
+  "EOS_Progressed": 243367,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1133,
+  "EOS_NewPlayers": 1134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22669,6 +22669,11 @@
       "Time": "2023-12-18T00:09:31.0957264+00:00",
       "NumProgressed": 243356,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-18T01:58:18.1408972+00:00",
+      "NumProgressed": 243367,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -22696,7 +22701,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1704
     },
     {
       "ID": "BarbarianEpic",
@@ -22728,7 +22733,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17035
+      "UsersEstimate": 17036
     },
     {
       "ID": "Chapter2",
@@ -23080,7 +23085,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19468
+      "UsersEstimate": 19469
     },
     {
       "ID": "DwarfElf15Support",
@@ -23112,7 +23117,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14601
+      "UsersEstimate": 14602
     },
     {
       "ID": "ElfEpic",
@@ -23128,7 +23133,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87608
+      "UsersEstimate": 87612
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23152,7 +23157,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9734
+      "UsersEstimate": 9735
     },
     {
       "ID": "EndGameCursed",
@@ -23176,7 +23181,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24336
+      "UsersEstimate": 24337
     },
     {
       "ID": "FollowBraztok",
@@ -23192,7 +23197,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1704
     },
     {
       "ID": "InsultLoose",
@@ -23376,28 +23381,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9734
+      "UsersEstimate": 9735
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 243356,
+      "Progressed": 243367,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 243356,
+      "Progressed": 243367,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-17T23:01:26.2637708+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:09:31.0957261+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:58:18.1408966+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:08.5726178+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:59:49.340818+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:09:31.0958805+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:49:28.008119+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:58:18.1410464+00:00"
 }

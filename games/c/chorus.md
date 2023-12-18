@@ -51,7 +51,7 @@ Number of Ratings: 58  (23.09.2022)
 | At Least You Tried | 2.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,321 (Ranked 253)  
-Completed: 17 (1.29%) (Ranked 153)  
+Completed: 18 (1.36%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -245,6 +245,7 @@ Completed: 17 (1.29%) (Ranked 153)
 | 2023-12-15 | 1,311 | 17 |
 | 2023-12-16 | 1,315 | 17 |
 | 2023-12-17 | 1,321 | 17 |
+| 2023-12-18 | 1,321 | 18 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 488)  
 Sum: 34 (Ranked 515)  

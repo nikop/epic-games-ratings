@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1215,9 +1215,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "Sentinelphobic",
@@ -1550,8 +1550,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:03:15.9120411+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:51:42.8278947+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:09.6615872+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:59:42.5183461+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:03:15.9121446+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:49:17.421554+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:51:42.8280022+00:00"
 }

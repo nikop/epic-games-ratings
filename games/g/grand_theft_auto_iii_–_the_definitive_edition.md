@@ -5,37 +5,37 @@ Rating: 4.20 (Ranked 930)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~8,006 |
-| Disposing of the Evidence | 38.00% | ~3,665 |
-| Without a Scratch | 34.00% | ~3,280 |
-| Wreckless Driving | 28.00% | ~2,701 |
-| A Marked Man | 25.00% | ~2,412 |
-| Street Sweeper | 18.00% | ~1,736 |
-| Liberty City Minute | 17.00% | ~1,640 |
-| Offshore Delivery | 13.00% | ~1,254 |
+| First Day on the Job | 83.00% | ~8,012 |
+| Disposing of the Evidence | 38.00% | ~3,668 |
+| Without a Scratch | 34.00% | ~3,282 |
+| Wreckless Driving | 28.00% | ~2,703 |
+| A Marked Man | 25.00% | ~2,413 |
+| Street Sweeper | 18.00% | ~1,738 |
+| Liberty City Minute | 17.00% | ~1,641 |
+| Offshore Delivery | 13.00% | ~1,255 |
 | Dirty Money | 12.00% | ~1,158 |
 | By a Mile | 10.00% | ~965 |
 | Not So Fast | 10.00% | ~965 |
 | Right-hand Man | 10.00% | ~965 |
-| A Gift from the King | 7.00% | ~675 |
+| A Gift from the King | 7.00% | ~676 |
 | Full Artillery | 4.00% | ~386 |
-| Mob Boss | 3.00% | ~289 |
+| Mob Boss | 3.00% | ~290 |
 | Escape Artist | 2.00% | ~193 |
 | Where To? | 2.00% | ~193 |
 | Splish Splash | 2.00% | ~193 |
 | Playing Doctor | 2.00% | ~193 |
 | Liberty City Secrets | 2.00% | ~193 |
-| Planned Ahead | 1.00% | ~96 |
-| Got This Figured Out | 1.00% | ~96 |
-| Wheels Up | 1.00% | ~96 |
-| Come Out to Play-y-y-y | 1.00% | ~96 |
-| Man Toyz | 1.00% | ~96 |
-| Going Rogue | 1.00% | ~96 |
-| Furious First Responder | 1.00% | ~96 |
+| Planned Ahead | 1.00% | ~97 |
+| Got This Figured Out | 1.00% | ~97 |
+| Wheels Up | 1.00% | ~97 |
+| Come Out to Play-y-y-y | 1.00% | ~97 |
+| Man Toyz | 1.00% | ~97 |
+| Going Rogue | 1.00% | ~97 |
+| Furious First Responder | 1.00% | ~97 |
 | Is That All You've Got? | 0.90% | ~87 |
 | King of Liberty City | 0.60% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,646 (Ranked 173)  
+Progressed: 9,653 (Ranked 173)  
 Completed: 61 (0.63%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 61 (0.63%) (Ranked 193)
 | 2023-12-15 | 9,263 | 60 |
 | 2023-12-16 | 9,453 | 60 |
 | 2023-12-17 | 9,639 | 61 |
-| 2023-12-18 | 9,646 | 61 |
+| 2023-12-18 | 9,653 | 61 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

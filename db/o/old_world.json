@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2156,7 +2156,7 @@
   ],
   "EOS_Progressed": 15807,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20576,9 +20576,9 @@
       "ID": "ACHIEVEMENT_UNIT_BEJA_ARCHER",
       "SetID": "9201eeb",
       "Name": "Beja Archer",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 126
     }
   ],
   "AchievementSets": [
@@ -20598,8 +20598,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-15T15:02:40.4686922+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:09:10.6291688+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:57:49.3146205+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-18T00:02:52.4624067+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:09:10.6300426+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:51:03.3087417+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:57:49.3155126+00:00"
 }

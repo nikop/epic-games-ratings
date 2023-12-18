@@ -3,9 +3,9 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 301,
-  "Ranking_EOS_Completed": 155,
+  "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 658,
+  "EOS_Progressed": 659,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.22,
+  "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -2230,6 +2230,11 @@
       "Time": "2023-12-17T23:08:38.4648896+00:00",
       "NumProgressed": 658,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-18T01:56:33.3162748+00:00",
+      "NumProgressed": 659,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2250,7 +2255,7 @@
       "Name": "Establish Communications",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACH_eou2",
@@ -2258,7 +2263,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_eou3",
@@ -2266,7 +2271,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_eou4",
@@ -2306,7 +2311,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_mg2",
@@ -2345,14 +2350,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 658,
+      "Progressed": 659,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:06:37.1333453+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:56:33.3162745+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:57.6157011+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:58:23.0953808+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:06:37.1333582+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:47:14.3979306+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:56:33.316294+00:00"
 }

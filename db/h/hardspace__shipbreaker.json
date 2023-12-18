@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -303,9 +303,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 989,
+  "EOS_Progressed": 990,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2108,6 +2108,11 @@
       "Time": "2023-12-17T18:08:46.2640557+00:00",
       "NumProgressed": 989,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T01:57:32.3083362+00:00",
+      "NumProgressed": 990,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2149,17 +2154,17 @@
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
       "SetID": "108h92c",
       "Name": "A drop in the Ocean",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
       "SetID": "108h92c",
       "Name": "A successful procedure!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_A_TUCKED_TALE",
@@ -2199,7 +2204,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -2255,7 +2260,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2263,7 +2268,7 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -2271,7 +2276,7 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -2279,7 +2284,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2334,7 +2339,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 989,
+      "Progressed": 990,
       "Completed": 0
     }
   ],
@@ -2342,8 +2347,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-11-20T03:58:42.1118377+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:08:58.9064702+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:57:32.3083358+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:08.6185668+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:58:22.6346272+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:08:58.9064937+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:47:13.657909+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:57:32.3083598+00:00"
 }

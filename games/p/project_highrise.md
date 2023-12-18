@@ -20,7 +20,7 @@
 | Potent Potables | 25.00% | ~98 |
 | Smooth Service | 25.00% | ~98 |
 | Your Prestige is Rising | 24.00% | ~94 |
-| Retail Revenue | 23.00% | ~90 |
+| Retail Revenue | 24.00% | ~94 |
 | Don't Feel a Loan | 22.00% | ~86 |
 | People Mover | 21.00% | ~82 |
 | Lux Living | 20.00% | ~78 |
@@ -30,8 +30,8 @@
 | We Don't Need No Education | 19.00% | ~74 |
 | Get Electrified | 19.00% | ~74 |
 | Rehab Expert | 18.00% | ~71 |
+| Established Fame | 18.00% | ~71 |
 | Tasty Profits | 18.00% | ~71 |
-| Established Fame | 17.00% | ~67 |
 | Under One Roof | 16.00% | ~63 |
 | Cashflow Chief | 16.00% | ~63 |
 | Starred Dining | 15.00% | ~59 |

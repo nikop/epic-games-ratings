@@ -8,7 +8,7 @@
 | Goblin Tales | 29.00% | ~160 |
 | Bug Hunter | 25.00% | ~138 |
 | Boss Killer | 23.00% | ~127 |
-| The Fallen | 20.00% | ~110 |
+| The Fallen | 21.00% | ~116 |
 | Artifact Collector | 19.00% | ~105 |
 | Trap Master | 19.00% | ~105 |
 | Ghost Buster | 15.00% | ~83 |
@@ -18,7 +18,7 @@
 | Gladiator | 12.00% | ~66 |
 | Lumberjack | 12.00% | ~66 |
 | Orcs Must Die! | 12.00% | ~66 |
-| The End | 11.00% | ~61 |
+| The End | 12.00% | ~66 |
 | Troubleshooter | 11.00% | ~61 |
 | Money Swag | 7.00% | ~39 |
 | Oops | 7.00% | ~39 |
@@ -46,7 +46,7 @@
 | Hardboiled | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 551 (Ranked 322)  
-Completed: 1 (0.18%) (Ranked 271)  
+Completed: 1 (0.18%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

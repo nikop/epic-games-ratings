@@ -20,9 +20,9 @@
 | Alchemist's Apprentice | 42.00% | ~25 |
 | Friend of Lyraine | 42.00% | ~25 |
 | Redecorating | 35.00% | ~21 |
+| Friend of Sevenkeeps | 25.00% | ~15 |
 | Bad JuJu | 25.00% | ~15 |
 | Slave to the rhythm | 23.00% | ~14 |
-| Friend of Sevenkeeps | 23.00% | ~14 |
 | Castle Meldec | 20.00% | ~12 |
 | Sevenkeeps Seat of Kings | 18.00% | ~11 |
 | Friend of Alluvyan | 15.00% | ~9 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60 (Ranked 506)  
+Progressed: 60 (Ranked 507)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |

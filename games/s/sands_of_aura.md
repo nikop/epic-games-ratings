@@ -18,10 +18,10 @@
 | Sovereignty of Irons | 5.00% | ~6 |
 | A Sandwyrm's Hoard | 5.00% | ~6 |
 | Twin Thorns | 5.00% | ~6 |
-| Sommelier | 4.00% | ~4 |
-| Let Me Solo Them | 4.00% | ~4 |
-| The River Styx | 4.00% | ~4 |
-| Frigid Winds | 4.00% | ~4 |
+| Sommelier | 4.00% | ~5 |
+| Let Me Solo Them | 4.00% | ~5 |
+| The River Styx | 4.00% | ~5 |
+| Frigid Winds | 4.00% | ~5 |
 | Missing Melodies | 2.00% | ~2 |
 | Smotherly Love | 2.00% | ~2 |
 | Transformative Nature | 0.90% | ~1 |
@@ -63,7 +63,7 @@
 | Holding Out | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 112 (Ranked 450)  
+Progressed: 113 (Ranked 450)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-13 | 108 | 0 |
 | 2023-12-16 | 109 | 0 |
 | 2023-12-17 | 112 | 0 |
+| 2023-12-18 | 113 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

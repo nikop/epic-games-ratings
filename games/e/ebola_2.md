@@ -10,12 +10,12 @@
 | Witch ✔ | 22.00% | ~67 |
 | Survival ✔ | 4.00% | ~12 |
 | Guardian angel ✔ | 2.00% | ~6 |
+| Master of Unlocking ✔ | 2.00% | ~6 |
 | Voodoo ✔ | 1.00% | ~3 |
 | Light will show the truth ✔ | 1.00% | ~3 |
 | Mask ✔ | 1.00% | ~3 |
 | Exterminate pests ✔ | 1.00% | ~3 |
 | Doctor ✔ | 1.00% | ~3 |
-| Master of Unlocking ✔ | 1.00% | ~3 |
 | Saved the planet ✔ | 1.00% | ~3 |
 | Recruit ✔ | 0.70% | ~2 |
 | Angel ✔ | 0.30% | ~1 |
@@ -23,7 +23,7 @@
 | Hardcore ✔ | 0.00% | ~0 |
 | King of survival ✔ | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303 (Ranked 367)  
+Progressed: 303 (Ranked 368)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |

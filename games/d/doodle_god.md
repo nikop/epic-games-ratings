@@ -28,7 +28,7 @@
 | God of Patience | 3.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 263 (Ranked 382)  
-Completed: 9 (3.42%) (Ranked 100)  
+Completed: 9 (3.42%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

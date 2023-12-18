@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -513,9 +513,9 @@
       "ID": "CgkInO_K3eIdEAIQDQ",
       "SetID": "6bj96in",
       "Name": "TEMPORAL ARCHITECT",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 40,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "CgkInO_K3eIdEAIQDg",
@@ -553,9 +553,9 @@
       "ID": "CgkInO_K3eIdEAIQEg",
       "SetID": "6bj96in",
       "Name": "HOARDER",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CgkInO_K3eIdEAIQEw",
@@ -632,8 +632,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:09:28.1921271+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:58:14.1440651+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.9435383+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:59:22.6465713+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:09:28.1921468+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:48:46.8432647+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:58:14.1440858+00:00"
 }

@@ -5,28 +5,28 @@ Rating: 4.53 (Ranked 549)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 14.00% | ~2,336 |
-| Bosmang | 9.00% | ~1,502 |
-| Captain Drummer | 9.00% | ~1,502 |
-| Celebrations are in Order | 9.00% | ~1,502 |
-| The Pit and the Pirates | 8.00% | ~1,335 |
-| Martian Music | 8.00% | ~1,335 |
-| Drone Dodger | 8.00% | ~1,335 |
-| Impossible Objects | 8.00% | ~1,335 |
-| Zen Master | 8.00% | ~211 |
-| Stogie for Fogey | 7.00% | ~1,168 |
-| Spore Taste | 7.00% | ~1,168 |
-| Safe Cracker | 7.00% | ~185 |
-| Madame Undersecretary | 7.00% | ~185 |
-| Call it Even | 6.00% | ~1,001 |
-| Keep Arjun in Check | 6.00% | ~158 |
-| Data Archivist | 5.00% | ~834 |
-| Drug Gifter | 5.00% | ~834 |
-| Heal Thy Medic | 5.00% | ~834 |
-| Khan's Revenge | 5.00% | ~834 |
-| Doctor Approved | 4.00% | ~667 |
-| Bottoms up! | 4.00% | ~667 |
-| Thorston Mayer | 4.00% | ~667 |
+| Oyedang, Kopengs | 14.00% | ~2,337 |
+| Bosmang | 9.00% | ~1,503 |
+| Captain Drummer | 9.00% | ~1,503 |
+| Celebrations are in Order | 9.00% | ~1,503 |
+| The Pit and the Pirates | 8.00% | ~1,336 |
+| Martian Music | 8.00% | ~1,336 |
+| Drone Dodger | 8.00% | ~1,336 |
+| Impossible Objects | 8.00% | ~1,336 |
+| Zen Master | 8.00% | ~212 |
+| Stogie for Fogey | 7.00% | ~1,169 |
+| Spore Taste | 7.00% | ~1,169 |
+| Safe Cracker | 7.00% | ~186 |
+| Madame Undersecretary | 7.00% | ~186 |
+| Call it Even | 6.00% | ~1,002 |
+| Keep Arjun in Check | 6.00% | ~159 |
+| Data Archivist | 5.00% | ~835 |
+| Drug Gifter | 5.00% | ~835 |
+| Heal Thy Medic | 5.00% | ~835 |
+| Khan's Revenge | 5.00% | ~835 |
+| Doctor Approved | 4.00% | ~668 |
+| Bottoms up! | 4.00% | ~668 |
+| Thorston Mayer | 4.00% | ~668 |
 | Master Negotiator | 4.00% | ~106 |
 | Data Logger | 3.00% | ~501 |
 | Miraculous Maya | 3.00% | ~501 |
@@ -35,14 +35,14 @@ Rating: 4.53 (Ranked 549)
 | No Belter Left Behind | 1.00% | ~167 |
 | Debris Spree | 1.00% | ~167 |
 | Data Recoverer | 1.00% | ~167 |
-| Urshanabi Hoarder | 0.80% | ~133 |
+| Urshanabi Hoarder | 0.80% | ~134 |
 | Data Miner | 0.40% | ~67 |
 | Grave Robber | 0.40% | ~67 |
 | Scavenger Star | 0.20% | ~33 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,685 (Ranked 152)  
-Completed: 44 (0.26%) (Ranked 253)  
+Progressed: 16,696 (Ranked 152)  
+Completed: 44 (0.26%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -190,7 +190,7 @@ Completed: 44 (0.26%) (Ranked 253)
 | 2023-12-15 | 16,416 | 43 |
 | 2023-12-16 | 16,565 | 43 |
 | 2023-12-17 | 16,683 | 44 |
-| 2023-12-18 | 16,685 | 44 |
+| 2023-12-18 | 16,696 | 44 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

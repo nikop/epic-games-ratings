@@ -2,10 +2,10 @@
   "ID": "de6aa04dd4a44154bef6f80c561d2553",
   "Name": "Xuan-Yuan Sword VII",
   "ProductSlug": "xuan-yuan-sword-7-22c442",
-  "Ranking_EOS_Progress": 564,
-  "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 440,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Progress": 565,
+  "Ranking_EOS_Completed": 95,
+  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
     "PcReleaseDate": "2020-10-28T16:00:00+00:00",
@@ -538,8 +538,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-12-18T00:09:43.0754829+00:00",
+  "LastChanged_Achievements": "2023-12-18T01:58:34.7242077+00:00",
   "LastUpdate_AppInfo": "2023-12-11T14:57:17.0674145+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:59:30.3928272+00:00",
-  "LastUpdate_Achievements": "2023-12-18T00:09:43.0755111+00:00"
+  "LastUpdate_Ratings": "2023-12-18T01:48:59.0108219+00:00",
+  "LastUpdate_Achievements": "2023-12-18T01:58:34.7242354+00:00"
 }

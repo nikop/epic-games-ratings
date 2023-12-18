@@ -7,12 +7,12 @@ Rating: 4.61 (Ranked 392)
 | ---- | ---------- | ----- |
 | A Thorny Situation | 0.90% | ~77 |
 | Azoria Beckons | 0.80% | ~68 |
-| ... And Spit Back Out | 0.70% | ~59 |
+| ... And Spit Back Out | 0.70% | ~60 |
+| Bramble Breaker | 0.70% | ~60 |
 | Calm Sailing | 0.60% | ~51 |
 | Break-Net Speed | 0.60% | ~51 |
-| Bramble Breaker | 0.60% | ~51 |
-| Open the Gate! | 0.50% | ~42 |
-| Miner 49er | 0.50% | ~42 |
+| Open the Gate! | 0.50% | ~43 |
+| Miner 49er | 0.50% | ~43 |
 | Clear the Air | 0.40% | ~34 |
 | Search for the Hairy Grell | 0.40% | ~34 |
 | Humble Collector | 0.40% | ~34 |
@@ -33,15 +33,15 @@ Rating: 4.61 (Ranked 392)
 | Captain of Cozy | 0.20% | ~17 |
 | House Proud | 0.20% | ~17 |
 | Azorian Hat Dance | 0.20% | ~2 |
-| Cloverfield Island | 0.10% | ~8 |
-| Got to Catch Them All | 0.10% | ~8 |
-| Angling Authority | 0.10% | ~8 |
-| Workaholic | 0.10% | ~8 |
-| Giving the People What They Want | 0.10% | ~8 |
-| Scattered Scroll Scrounger | 0.10% | ~8 |
-| Rumble in the Jumble | 0.10% | ~8 |
-| Fanatical Farmer | 0.10% | ~8 |
-| Very Skilled | 0.10% | ~8 |
+| Cloverfield Island | 0.10% | ~9 |
+| Got to Catch Them All | 0.10% | ~9 |
+| Angling Authority | 0.10% | ~9 |
+| Workaholic | 0.10% | ~9 |
+| Giving the People What They Want | 0.10% | ~9 |
+| Scattered Scroll Scrounger | 0.10% | ~9 |
+| Rumble in the Jumble | 0.10% | ~9 |
+| Fanatical Farmer | 0.10% | ~9 |
+| Very Skilled | 0.10% | ~9 |
 | A Pal To All | 0.10% | ~1 |
 | Scroll Hunter | 0.10% | ~1 |
 | Polyglot | 0.10% | ~1 |
@@ -49,7 +49,7 @@ Rating: 4.61 (Ranked 392)
 | Going Down | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,500 (Ranked 179)  
+Progressed: 8,501 (Ranked 179)  
 Completed: 1 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,6 +164,7 @@ Completed: 1 (0.01%) (Ranked 356)
 | 2023-12-15 | 8,445 | 1 |
 | 2023-12-16 | 8,476 | 1 |
 | 2023-12-17 | 8,500 | 1 |
+| 2023-12-18 | 8,501 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

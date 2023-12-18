@@ -145,11 +145,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.80% | ~126 |
 | The Great Mage | 0.80% | ~126 |
 | Kmt Unified | 0.80% | ~126 |
+| Beja Archer | 0.80% | ~126 |
 | Old | 0.70% | ~111 |
 | Old World Order | 0.70% | ~111 |
 | No Undo | 0.70% | ~111 |
 | Kush | 0.70% | ~111 |
-| Beja Archer | 0.70% | ~111 |
 | Glorious Difficulty | 0.60% | ~95 |
 | Hatti | 0.60% | ~95 |
 | Persia | 0.60% | ~95 |
