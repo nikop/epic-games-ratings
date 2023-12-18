@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -922,9 +922,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 357283,
+  "EOS_Progressed": 357285,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1032,
+  "EOS_NewPlayers": 1028,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28527,6 +28527,11 @@
       "Time": "2023-12-18T21:05:28.6504088+00:00",
       "NumProgressed": 357283,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-18T22:04:32.1266552+00:00",
+      "NumProgressed": 357285,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -28538,7 +28543,7 @@
       "Name": "Corner Opportunities",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10718
+      "UsersEstimate": 10719
     },
     {
       "ID": "ach002",
@@ -28570,7 +28575,7 @@
       "Name": "2122 North Clark Street",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10718
+      "UsersEstimate": 10719
     },
     {
       "ID": "ach006",
@@ -28642,7 +28647,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53592
+      "UsersEstimate": 53593
     },
     {
       "ID": "ach015",
@@ -28690,7 +28695,7 @@
       "Name": "Copious Cabbage",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 10718
+      "UsersEstimate": 10719
     },
     {
       "ID": "ach021",
@@ -28698,7 +28703,7 @@
       "Name": "Sockdolager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10718
+      "UsersEstimate": 10719
     },
     {
       "ID": "ach022",
@@ -28746,7 +28751,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 164350
+      "UsersEstimate": 164351
     },
     {
       "ID": "ach028",
@@ -28954,7 +28959,7 @@
       "Name": "Still Stalwart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10718
+      "UsersEstimate": 10719
     },
     {
       "ID": "ach054",
@@ -28994,7 +28999,7 @@
       "Name": "Tighten the Screws",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10718
+      "UsersEstimate": 10719
     },
     {
       "ID": "ach059",
@@ -29066,7 +29071,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57165
+      "UsersEstimate": 57166
     },
     {
       "ID": "ach069",
@@ -29177,7 +29182,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 357283,
+      "Progressed": 357285,
       "Completed": 7
     }
   ],
@@ -29185,8 +29190,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-17T21:59:11.727159+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:05:28.6504082+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:04:32.1266548+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:53.9882256+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:00:39.9964023+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:05:28.6506662+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:59:25.4750046+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:04:32.1268605+00:00"
 }

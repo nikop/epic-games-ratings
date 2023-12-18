@@ -15,8 +15,8 @@ Rating: 4.48 (Ranked 637)
 | Krugmazing | 64.00% | ~787 |
 | Moneyball | 60.00% | ~738 |
 | The Fire Below the Mountain | 60.00% | ~738 |
+| Iceborn | 55.00% | ~676 |
 | No Bites | 54.00% | ~664 |
-| Iceborn | 54.00% | ~664 |
 | Boom Things | 52.00% | ~640 |
 | Tear of Freedom | 51.00% | ~627 |
 | My Darkest Day | 48.00% | ~590 |
@@ -50,7 +50,7 @@ Rating: 4.48 (Ranked 637)
 | We Are Speed | 2.00% | ~25 |
 | Sneaky Notai | 1.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,230 (Ranked 259)  
+Progressed: 1,230 (Ranked 260)  
 Completed: 9 (0.73%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |

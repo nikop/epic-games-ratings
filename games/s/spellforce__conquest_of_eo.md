@@ -35,9 +35,9 @@
 | Friend of Orgash | 11.00% | ~7 |
 | Friend of Silver Drift Hollow | 11.00% | ~7 |
 | Friend of Windholme | 11.00% | ~7 |
+| Magic Academy | 11.00% | ~7 |
 | Defeat Gor | 10.00% | ~6 |
 | The Forge of Regan Gor | 10.00% | ~6 |
-| Magic Academy | 10.00% | ~6 |
 | Defeat Uram | 8.00% | ~5 |
 | Elynn's Tale | 8.00% | ~5 |
 | Lore's Tale | 8.00% | ~5 |

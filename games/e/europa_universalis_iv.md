@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478,765 (Ranked 40)  
+Progressed: 478,796 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -612,16 +612,16 @@ Completed: 1 (0.00%) (Ranked 383)
 | 2023-12-15 | 475,873 | 1 |
 | 2023-12-16 | 477,098 | 1 |
 | 2023-12-17 | 478,131 | 1 |
-| 2023-12-18 | 478,765 | 1 |
+| 2023-12-18 | 478,796 | 1 |
 ## Awards
 Max (Educational): 7,441  (Ranked 54)  
-Sum: 61,367 (Ranked 24)  
+Sum: 61,374 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,441 |
 | This game has Diverse Characters | 7,245 |
-| This game is Highly Recommended | 7,151 |
+| This game is Highly Recommended | 7,158 |
 | This game has Challenging Combat | 7,074 |
 | This game is Extremely Fun | 6,981 |
 | This game is Relaxing | 6,844 |
@@ -967,4 +967,4 @@ Diff (max vs sum): 30
 | 2023-12-15 | 4.69 | - | 7,396 | 60,976 |
 | 2023-12-16 | 4.69 | - | 7,396 | 61,143 |
 | 2023-12-17 | 4.69 | - | 7,422 | 61,308 |
-| 2023-12-18 | 4.69 | - | 7,441 | 61,367 |
+| 2023-12-18 | 4.69 | - | 7,441 | 61,374 |

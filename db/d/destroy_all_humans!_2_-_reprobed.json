@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -843,9 +843,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -883,9 +883,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -939,9 +939,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -971,9 +971,9 @@
       "ID": "ACH_KILL_PONSONBY",
       "SetID": "4n84pon",
       "Name": "Die Nasty",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1107,9 +1107,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1132,8 +1132,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:08:48.3381109+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:08:35.3787331+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-18T20:57:14.3348094+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:08:48.3381383+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:57:04.3463298+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:08:35.3787595+00:00"
 }

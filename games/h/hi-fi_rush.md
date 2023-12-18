@@ -5,21 +5,21 @@ Rating: 4.89 (Ranked 10)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 41.00% | ~3,770 |
-| Feeling the beat! | 41.00% | ~3,770 |
-| You can pet the cat! | 37.00% | ~3,402 |
+| Start with a bang! | 41.00% | ~3,771 |
+| Feeling the beat! | 41.00% | ~3,771 |
+| You can pet the cat! | 37.00% | ~3,403 |
 | Who put gears in there? | 29.00% | ~2,667 |
-| Cream of the Crop | 25.00% | ~2,299 |
-| Thanks for the free chip, Peppermint! | 24.00% | ~2,207 |
-| You got this, Peppermint? | 20.00% | ~1,839 |
-| Perfect Parry | 18.00% | ~1,655 |
-| Alright, that felt AWESOME! | 18.00% | ~1,655 |
-| I play my own way! | 16.00% | ~1,471 |
-| This will cost you big time | 14.00% | ~1,287 |
-| Uh, they were broken when I got here | 14.00% | ~1,287 |
-| Does that say weakpoint? | 13.00% | ~1,195 |
-| Z-shielding's got nothing on us! | 12.00% | ~1,103 |
-| Kissing the sky! | 12.00% | ~1,103 |
+| Cream of the Crop | 25.00% | ~2,300 |
+| Thanks for the free chip, Peppermint! | 24.00% | ~2,208 |
+| You got this, Peppermint? | 20.00% | ~1,840 |
+| Perfect Parry | 18.00% | ~1,656 |
+| Alright, that felt AWESOME! | 18.00% | ~1,656 |
+| I play my own way! | 16.00% | ~1,472 |
+| This will cost you big time | 14.00% | ~1,288 |
+| Uh, they were broken when I got here | 14.00% | ~1,288 |
+| Does that say weakpoint? | 13.00% | ~1,196 |
+| Z-shielding's got nothing on us! | 12.00% | ~1,104 |
+| Kissing the sky! | 12.00% | ~1,104 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~920 |
 | The Negotiator | 9.00% | ~828 |
 | I look cool. But I can look COOLER. | 9.00% | ~828 |
@@ -77,7 +77,7 @@ Rating: 4.89 (Ranked 10)
 | Voices from within | 0.10% | ~8 |
 | Low budget finish | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,195 (Ranked 175)  
+Progressed: 9,198 (Ranked 175)  
 Completed: 8 (0.09%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 8 (0.09%) (Ranked 308)
 | 2023-12-15 | 6,923 | 8 |
 | 2023-12-16 | 7,817 | 8 |
 | 2023-12-17 | 8,671 | 8 |
-| 2023-12-18 | 9,195 | 8 |
+| 2023-12-18 | 9,198 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

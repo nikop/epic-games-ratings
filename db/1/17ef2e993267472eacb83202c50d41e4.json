@@ -2,13 +2,13 @@
   "ID": "17ef2e993267472eacb83202c50d41e4",
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
-  "Ranking_Rating": 966,
+  "Ranking_Rating": 965,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8868,
+  "EOS_Progressed": 8869,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8963,6 +8963,11 @@
       "Time": "2023-12-18T21:10:23.398072+00:00",
       "NumProgressed": 8868,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T22:09:47.8757058+00:00",
+      "NumProgressed": 8869,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -9407,7 +9412,7 @@
       "Name": "10 Eliminations",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "PlayerKills100",
@@ -9535,7 +9540,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "TSUPurchased1",
@@ -9566,7 +9571,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8868,
+      "Progressed": 8869,
       "Completed": 1
     }
   ],
@@ -9574,8 +9579,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-18T09:02:43.8513268+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:10:23.3980716+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:09:47.8757053+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:27.9940225+00:00",
-  "LastUpdate_Ratings": "2023-12-18T20:57:00.770386+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:10:23.3981855+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:56:55.6729261+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:09:47.8758048+00:00"
 }

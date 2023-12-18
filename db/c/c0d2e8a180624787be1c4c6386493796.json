@@ -2,10 +2,10 @@
   "ID": "c0d2e8a180624787be1c4c6386493796",
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
-  "Ranking_EOS_Progress": 415,
+  "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -1027,9 +1027,9 @@
       "ID": "KR4_ACHIEVEMENT_IRON",
       "SetID": "caeik3h",
       "Name": "Ironborn",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "KR4_ACHIEVEMENT_JOKULL",
@@ -1368,8 +1368,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:04:37.4111759+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:03:54.9057481+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.9365218+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:01:07.9044591+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:04:37.4112574+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:59:44.0860335+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:03:54.9058174+00:00"
 }

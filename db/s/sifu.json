@@ -8325,9 +8325,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 734779,
+  "EOS_Progressed": 734799,
   "EOS_Completed": 12956,
-  "EOS_NewPlayers": 16811,
+  "EOS_NewPlayers": 16828,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -29905,6 +29905,11 @@
       "Time": "2023-12-18T21:08:46.2208038+00:00",
       "NumProgressed": 734779,
       "NumCompleted": 12956
+    },
+    {
+      "Time": "2023-12-18T22:08:33.7137417+00:00",
+      "NumProgressed": 734799,
+      "NumCompleted": 12956
     }
   ],
   "TotalAchievements": 60,
@@ -29916,7 +29921,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22043
+      "UsersEstimate": 22044
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30108,7 +30113,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5143
+      "UsersEstimate": 5144
     },
     {
       "ID": "26_ShrineSpirit",
@@ -30188,7 +30193,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5143
+      "UsersEstimate": 5144
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -30395,21 +30400,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 44080,
+      "Progressed": 44100,
       "Completed": 10775
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 734779,
+      "Progressed": 734799,
       "Completed": 12956
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-18T19:02:51.3747131+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:08:46.2208035+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:08:33.7137413+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:03:00.9318216+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:08:46.2209591+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:02:44.7796218+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:08:33.7138892+00:00"
 }

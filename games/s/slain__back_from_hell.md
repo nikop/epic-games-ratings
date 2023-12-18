@@ -1,12 +1,12 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.28 (Ranked 869)  
+Rating: 4.28 (Ranked 868)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 21.00% | ~8,878 |
-| A Good Day To Die | 16.00% | ~6,764 |
+| Man 'O War | 21.00% | ~8,879 |
+| A Good Day To Die | 16.00% | ~6,765 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,537 |
 | Right Back Atcha | 6.00% | ~2,537 |
 | Killed by Death | 5.00% | ~2,114 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 869)
 | Heart Of Steel | 0.10% | ~42 |
 | Death or Glory | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,278 (Ranked 125)  
+Progressed: 42,283 (Ranked 125)  
 Completed: 29 (0.07%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 29 (0.07%) (Ranked 317)
 | 2023-12-15 | 42,092 | 29 |
 | 2023-12-16 | 42,160 | 29 |
 | 2023-12-17 | 42,232 | 29 |
-| 2023-12-18 | 42,278 | 29 |
+| 2023-12-18 | 42,283 | 29 |
 ## Awards
 Max (Great Boss Battles): 128  (Ranked 340)  
 Sum: 128 (Ranked 440)  

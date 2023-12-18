@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -504,9 +504,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 44356,
+  "EOS_Progressed": 44358,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 803,
+  "EOS_NewPlayers": 802,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15599,6 +15599,11 @@
       "Time": "2023-12-18T21:08:45.5320313+00:00",
       "NumProgressed": 44356,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T22:08:33.0716805+00:00",
+      "NumProgressed": 44358,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15874,7 +15879,7 @@
       "Name": "Wildfire",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "MAGIC_TANTA",
@@ -16033,22 +16038,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44356,
+      "Progressed": 44358,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9193,
-      "Completed": 9193
+      "Progressed": 9195,
+      "Completed": 9195
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-18T13:59:07.4147796+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:08:45.5320308+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:08:33.0716801+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:00:01.9004146+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:08:45.532131+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:58:59.0435668+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:08:33.0717841+00:00"
 }

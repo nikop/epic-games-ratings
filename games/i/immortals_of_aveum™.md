@@ -5,36 +5,36 @@ Rating: 4.21 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,025 |
-| Battlefields Have Memories | 79.00% | ~931 |
-| Enlisted | 72.00% | ~848 |
-| Maybe Engage a Little | 66.00% | ~777 |
-| No More Names | 47.00% | ~554 |
-| Initiate | 33.00% | ~389 |
-| Thrada-Kul | 29.00% | ~342 |
-| Gravity-Challenged Rocks | 22.00% | ~259 |
-| Socialite | 21.00% | ~247 |
-| Soldier | 18.00% | ~212 |
-| All the Major Food Groups | 17.00% | ~200 |
-| Beggars Would Ride | 15.00% | ~177 |
-| Control is an Illusion | 13.00% | ~153 |
+| Unforeseen | 87.00% | ~1,030 |
+| Battlefields Have Memories | 79.00% | ~935 |
+| Enlisted | 72.00% | ~852 |
+| Maybe Engage a Little | 66.00% | ~781 |
+| No More Names | 47.00% | ~556 |
+| Initiate | 33.00% | ~391 |
+| Thrada-Kul | 29.00% | ~343 |
+| Gravity-Challenged Rocks | 22.00% | ~260 |
+| Socialite | 21.00% | ~249 |
+| Soldier | 18.00% | ~213 |
+| All the Major Food Groups | 17.00% | ~201 |
+| Beggars Would Ride | 15.00% | ~178 |
+| Control is an Illusion | 14.00% | ~166 |
 | The Means to Save It | 11.00% | ~130 |
 | Resilience to Sin | 10.00% | ~118 |
-| A Familiar Nest | 9.00% | ~106 |
-| Periapt Alizarin | 9.00% | ~106 |
-| Geas Aristeya | 8.00% | ~94 |
-| A Perfect Cycle | 8.00% | ~94 |
-| Recruit | 7.00% | ~82 |
-| Armsman | 7.00% | ~82 |
+| A Familiar Nest | 9.00% | ~107 |
+| Periapt Alizarin | 9.00% | ~107 |
+| Geas Aristeya | 8.00% | ~95 |
+| A Perfect Cycle | 8.00% | ~95 |
+| Recruit | 7.00% | ~83 |
+| Armsman | 7.00% | ~83 |
 | Lights Army | 5.00% | ~59 |
+| Periapt Cerulean | 5.00% | ~59 |
 | Good Boy | 5.00% | ~59 |
-| Periapt Cerulean | 4.00% | ~47 |
 | Periapt Viridian | 4.00% | ~47 |
-| Kitted Out | 3.00% | ~35 |
-| Best Dressed | 3.00% | ~35 |
-| Armaments Azure | 3.00% | ~35 |
-| Armaments Gules | 3.00% | ~35 |
-| Shroudfane Explorer | 3.00% | ~35 |
+| Kitted Out | 3.00% | ~36 |
+| Best Dressed | 3.00% | ~36 |
+| Armaments Azure | 3.00% | ~36 |
+| Armaments Gules | 3.00% | ~36 |
+| Shroudfane Explorer | 3.00% | ~36 |
 | Scholar | 2.00% | ~24 |
 | Armaments Vert | 2.00% | ~24 |
 | Veteran | 2.00% | ~24 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 920)
 | Fowl Play | 0.30% | ~4 |
 | Family Business | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,178 (Ranked 266)  
+Progressed: 1,184 (Ranked 265)  
 Completed: 2 (0.17%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 2 (0.17%) (Ranked 278)
 | 2023-12-15 | 689 | 2 |
 | 2023-12-16 | 908 | 2 |
 | 2023-12-17 | 1,065 | 2 |
-| 2023-12-18 | 1,178 | 2 |
+| 2023-12-18 | 1,184 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

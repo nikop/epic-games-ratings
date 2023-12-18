@@ -8,9 +8,9 @@
 | The Purpose Of Betrayal | 20.00% | ~721 |
 | Rightfully Yours | 17.00% | ~613 |
 | Like Swatting Flies | 16.00% | ~577 |
-| Moment Of Perfection | 10.00% | ~360 |
-| Even While Weakened | 10.00% | ~360 |
-| Balance Incarnate | 10.00% | ~360 |
+| Moment Of Perfection | 10.00% | ~361 |
+| Even While Weakened | 10.00% | ~361 |
+| Balance Incarnate | 10.00% | ~361 |
 | Purpose Lost | 7.00% | ~252 |
 | A Scarlet Mark | 7.00% | ~252 |
 | Hot Potato | 6.00% | ~216 |
@@ -40,7 +40,7 @@
 | Full Might Of The Armada | 0.10% | ~4 |
 | The Many Fates Of The Many | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,605 (Ranked 209)  
+Progressed: 3,606 (Ranked 209)  
 Completed: -28 (-0.78%) (Ranked 3,755)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,6 +139,7 @@ Completed: -28 (-0.78%) (Ranked 3,755)
 | 2023-12-15 | 3,587 | -28 |
 | 2023-12-16 | 3,598 | -28 |
 | 2023-12-17 | 3,605 | -28 |
+| 2023-12-18 | 3,606 | -28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -546,17 +546,17 @@
       "ID": "ConductedTrade",
       "SetID": "4bd750m",
       "Name": "Conducted Trade",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "DiggingAHole",
       "SetID": "4bd750m",
       "Name": "Digging a Hole",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "DopaMiner",
@@ -578,9 +578,9 @@
       "ID": "GottaGoFast",
       "SetID": "4bd750m",
       "Name": "Gotta Go Fast",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ImALumberbot",
@@ -626,9 +626,9 @@
       "ID": "MineSweeper",
       "SetID": "4bd750m",
       "Name": "Mine Sweeper",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "NothingButRoad",
@@ -745,8 +745,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:03:40.020177+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:03:12.872343+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.7183942+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:03:16.9552052+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:03:40.0202029+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:02:56.1197251+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:03:12.872372+00:00"
 }

@@ -1,16 +1,16 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.59 (Ranked 443)  
+Rating: 4.59 (Ranked 442)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~15,294 |
+| Sink Beneath the Waves | 36.00% | ~15,295 |
 | Sweet Sorrow | 18.00% | ~7,647 |
 | Rules the Waves | 17.00% | ~7,222 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,372 |
-| Rival | 14.00% | ~5,947 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,373 |
+| Rival | 14.00% | ~5,948 |
 | Correspondent | 12.00% | ~5,098 |
 | Lose Your Mind | 12.00% | ~5,098 |
 | Sound Mind? | 12.00% | ~5,098 |
@@ -26,9 +26,9 @@ Number of Ratings: 401  (23.09.2022)
 | Zee Fever | 5.00% | ~2,124 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,699 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,699 |
-| Storm's Curse | 3.00% | ~1,274 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~1,274 |
-| Come Closer | 3.00% | ~1,274 |
+| Storm's Curse | 3.00% | ~1,275 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~1,275 |
+| Come Closer | 3.00% | ~1,275 |
 | Roaring Rise | 2.00% | ~850 |
 | I am the Captain of my Soul | 2.00% | ~850 |
 | A buoyant escape | 1.00% | ~425 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~42 |
 | Ten Years at Zee | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,482 (Ranked 124)  
+Progressed: 42,485 (Ranked 124)  
 Completed: 4 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,11 +303,11 @@ Completed: 4 (0.01%) (Ranked 359)
 | 2023-12-15 | 42,261 | 4 |
 | 2023-12-16 | 42,346 | 4 |
 | 2023-12-17 | 42,431 | 4 |
-| 2023-12-18 | 42,482 | 4 |
+| 2023-12-18 | 42,485 | 4 |
 ## Awards
-Max (Character Customization): 219  (Ranked 285)  
+Max (Character Customization): 219  (Ranked 286)  
 Sum: 313 (Ranked 366)  
-Diff (max vs sum): -81  
+Diff (max vs sum): -80  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 219 |

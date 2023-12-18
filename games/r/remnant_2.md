@@ -5,11 +5,11 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 5.00% | ~12,699 |
-| First of Many | 5.00% | ~12,699 |
-| Expanding Horizons | 3.00% | ~7,619 |
-| Quest for Survival | 3.00% | ~7,619 |
-| Not Your Average Trait | 3.00% | ~7,619 |
+| The Killing Jar | 5.00% | ~12,701 |
+| First of Many | 5.00% | ~12,701 |
+| Not Your Average Trait | 4.00% | ~10,161 |
+| Expanding Horizons | 3.00% | ~7,621 |
+| Quest for Survival | 3.00% | ~7,621 |
 | Gleaming the Cube | 2.00% | ~5,080 |
 | Not So Special Now | 2.00% | ~5,080 |
 | Not a Janitor | 2.00% | ~5,080 |
@@ -31,12 +31,12 @@ Rating: 4.75 (Ranked 150)
 | The Web | 1.00% | ~2,540 |
 | Almost There | 1.00% | ~2,540 |
 | Good, But Could Be Better! | 1.00% | ~2,540 |
-| Regicide | 1.00% | ~331 |
+| Regicide | 1.00% | ~332 |
 | Am I Seeing This? | 0.90% | ~2,286 |
 | Madman's Paradise | 0.90% | ~2,286 |
 | The Agenda | 0.90% | ~2,286 |
 | Scrap Collector | 0.90% | ~2,286 |
-| Master of the Dark Arts | 0.90% | ~298 |
+| Master of the Dark Arts | 0.90% | ~299 |
 | Forever is a Long Time Coming | 0.70% | ~1,778 |
 | Bad Moon Rising | 0.70% | ~1,778 |
 | Strapped | 0.70% | ~1,778 |
@@ -57,11 +57,11 @@ Rating: 4.75 (Ranked 150)
 | Cutting Edge | 0.30% | ~762 |
 | The Collector | 0.30% | ~762 |
 | Proving Grounds | 0.30% | ~762 |
-| Succession | 0.30% | ~99 |
-| You Shall Pass | 0.30% | ~99 |
+| Succession | 0.30% | ~100 |
+| You Shall Pass | 0.30% | ~100 |
 | A Foul Feast | 0.20% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,978 (Ranked 62)  
+Progressed: 254,019 (Ranked 62)  
 Completed: 603 (0.24%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 603 (0.24%) (Ranked 261)
 | 2023-12-15 | 245,556 | 588 |
 | 2023-12-16 | 249,241 | 590 |
 | 2023-12-17 | 252,137 | 598 |
-| 2023-12-18 | 253,978 | 603 |
+| 2023-12-18 | 254,019 | 603 |
 ## Awards
 Max (Great Boss Battles): 3,014  (Ranked 99)  
 Sum: 7,317 (Ranked 119)  

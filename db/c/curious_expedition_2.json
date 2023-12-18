@@ -5,10 +5,10 @@
   "Ranking_Rating": 174,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
-  "Ranking_EOS_Progress": 351,
+  "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 361,
+  "EOS_Progressed": 362,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -430,6 +430,11 @@
       "Time": "2023-12-18T18:10:41.8727759+00:00",
       "NumProgressed": 361,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T22:09:45.6240144+00:00",
+      "NumProgressed": 362,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -561,7 +566,7 @@
       "Name": "Iron Man",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ach-campaign-pacifist",
@@ -609,15 +614,15 @@
       "Name": "Roll to Save",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ach-discover-locations",
       "SetID": "17ih7ma",
       "Name": "Cartographer",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 203
     },
     {
       "ID": "ach-discover-locations-high",
@@ -641,7 +646,7 @@
       "Name": "Fire and Flood",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ach-find-treasure",
@@ -665,7 +670,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ach-hardExpeditions",
@@ -705,7 +710,7 @@
       "Name": "Taxonomist",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ach-kill-hyenas",
@@ -785,7 +790,7 @@
       "Name": "Insomnia",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ach-pacifist-goals",
@@ -815,9 +820,9 @@
       "ID": "ach-portal-return",
       "SetID": "17ih7ma",
       "Name": "From Whence we Came",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 148
     },
     {
       "ID": "ach-promotion",
@@ -847,9 +852,9 @@
       "ID": "ach-rideDinosaur",
       "SetID": "17ih7ma",
       "Name": "Practical Palaeontology",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 54
     },
     {
       "ID": "ach-rob-shrines",
@@ -865,7 +870,7 @@
       "Name": "Cold Blood, Warm Heart",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach-spendNoMoney",
@@ -905,7 +910,7 @@
       "Name": "Errand Runner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach-wearHat",
@@ -920,7 +925,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 361,
+      "Progressed": 362,
       "Completed": 1
     }
   ],
@@ -928,8 +933,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:10:21.1969732+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:09:45.6240139+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-18T20:59:14.3875568+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:10:21.1970178+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:58:25.9582947+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:09:45.6240642+00:00"
 }

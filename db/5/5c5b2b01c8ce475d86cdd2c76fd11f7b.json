@@ -2,10 +2,10 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 558,
+  "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2016-08-23T05:00:00+00:00",
@@ -240,9 +240,9 @@
       "ID": "NEW_ACHIEVEMENT_1_16",
       "SetID": "7on801h",
       "Name": "Core Driller",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_17",
@@ -616,9 +616,9 @@
       "ID": "NEW_ACHIEVEMENT_2_3",
       "SetID": "7on801h",
       "Name": "K is for Kazdy",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_30",
@@ -845,8 +845,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:06:17.4403558+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:05:08.0446448+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184844+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:00:18.9770116+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:06:17.4404336+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:59:10.7712556+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:05:08.0447073+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-bunker-03b712",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewPlayers": 436,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -402,9 +402,9 @@
       "ID": "ALL_CASSETTES",
       "SetID": "bho0i1h",
       "Name": "Press Play",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 45,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "ALL_COMPUTERS",
@@ -434,33 +434,33 @@
       "ID": "CHAPTER_02_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Last Goodbye",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "CHAPTER_03_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "The Routine",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "CHAPTER_04_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Failure",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "CHAPTER_05_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Replace Fuse",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "CHAPTER_06_COMPLETE",
@@ -498,33 +498,33 @@
       "ID": "CHAPTER_10_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Descent",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "CHAPTER_11_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Awakenings",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "CHAPTER_12_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Cold Storage",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "LEAVE",
       "SetID": "bho0i1h",
       "Name": "Leave",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "MISSING_PIECE",
@@ -538,9 +538,9 @@
       "ID": "PEG_CHURCHILL",
       "SetID": "bho0i1h",
       "Name": "Churchill",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "PEG_COMMISSIONER",
@@ -562,17 +562,17 @@
       "ID": "PEG_ENGINEER",
       "SetID": "bho0i1h",
       "Name": "Engineer",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "PEG_GENERAL",
       "SetID": "bho0i1h",
       "Name": "General",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "PEG_MOTHER",
@@ -602,9 +602,9 @@
       "ID": "PEG_SOLDIER",
       "SetID": "bho0i1h",
       "Name": "Soldier",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "STAY",
@@ -627,8 +627,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:05:47.0767571+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:04:45.7748171+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:55.4022304+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:00:45.1801435+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:05:47.0767739+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:59:29.1057697+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:04:45.7748382+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.62 (Ranked 372)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Realm Estate | 6.00% | ~350 |
-| Secret Technique | 6.00% | ~350 |
+| Realm Estate | 6.00% | ~351 |
+| Secret Technique | 6.00% | ~351 |
 | A Wonderful Discovery | 5.00% | ~292 |
 | Walls Cannot Stop Us | 5.00% | ~292 |
 | But this one is mine | 5.00% | ~292 |
@@ -58,7 +58,7 @@ Rating: 4.62 (Ranked 372)
 | Snap Out of It! | 0.30% | ~18 |
 | The Magic That Empowers Me! | 0.30% | ~18 |
 | Jack of All Tomes | 0.30% | ~18 |
-| A Very Special Ring | 0.20% | ~12 |
+| A Very Special Ring | 0.30% | ~18 |
 | I Want to Break Free | 0.10% | ~6 |
 | Master of Evilness | 0.10% | ~6 |
 | The Grey Wizard | 0.10% | ~6 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 372)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,841 (Ranked 190)  
+Progressed: 5,842 (Ranked 190)  
 Completed: 7 (0.12%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 7 (0.12%) (Ranked 292)
 | 2023-12-15 | 5,702 | 7 |
 | 2023-12-16 | 5,752 | 7 |
 | 2023-12-17 | 5,798 | 7 |
-| 2023-12-18 | 5,841 | 7 |
+| 2023-12-18 | 5,842 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 479)  
 Sum: 93 (Ranked 461)  

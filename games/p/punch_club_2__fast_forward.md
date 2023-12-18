@@ -4,51 +4,51 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 89.00% | ~372 |
-| Your first fight | 86.00% | ~359 |
-| Good Person Chip | 84.00% | ~351 |
-| First winning | 83.00% | ~347 |
-| Your first job | 82.00% | ~343 |
-| Fitness professional | 77.00% | ~322 |
-| Old movies enjoyer | 77.00% | ~322 |
-| Depressed visitor | 77.00% | ~322 |
-| Neurotrainer – power gainer! | 77.00% | ~322 |
+| Such a strange dream… | 88.00% | ~369 |
+| Your first fight | 86.00% | ~360 |
+| Good Person Chip | 84.00% | ~352 |
+| First winning | 83.00% | ~348 |
+| Your first job | 82.00% | ~344 |
+| Fitness professional | 77.00% | ~323 |
+| Old movies enjoyer | 77.00% | ~323 |
+| Depressed visitor | 77.00% | ~323 |
+| Neurotrainer – power gainer! | 76.00% | ~318 |
 | Employee of the week | 76.00% | ~318 |
 | Your own amateur gym | 71.00% | ~297 |
 | First defeat | 70.00% | ~293 |
-| Run K, run! | 70.00% | ~293 |
-| Hello, world! | 68.00% | ~284 |
-| Fighting is cool | 67.00% | ~280 |
-| No bullying more | 67.00% | ~280 |
+| Run K, run! | 69.00% | ~289 |
+| Hello, world! | 68.00% | ~285 |
+| No bullying more | 67.00% | ~281 |
+| Fighting is cool | 66.00% | ~277 |
 | Pal of your father? | 64.00% | ~268 |
-| Spirit of the past | 62.00% | ~259 |
-| Employee of the month | 61.00% | ~255 |
-| Law student | 59.00% | ~247 |
-| Workout professional | 57.00% | ~238 |
-| Little hacker | 56.00% | ~234 |
-| Handyman | 56.00% | ~234 |
-| Champion – starter pack | 56.00% | ~234 |
-| It's good to be alive | 56.00% | ~234 |
-| Intriguing candies | 56.00% | ~234 |
-| Employee of the year | 56.00% | ~234 |
+| Spirit of the past | 62.00% | ~260 |
+| Employee of the month | 61.00% | ~256 |
+| Law student | 58.00% | ~243 |
+| Workout professional | 57.00% | ~239 |
+| Little hacker | 56.00% | ~235 |
+| Handyman | 56.00% | ~235 |
+| Champion – starter pack | 56.00% | ~235 |
+| Intriguing candies | 56.00% | ~235 |
 | Fight for life | 55.00% | ~230 |
+| It's good to be alive | 55.00% | ~230 |
 | Own four walls | 55.00% | ~230 |
-| Legal courier | 51.00% | ~213 |
-| Extreme neuropower! | 51.00% | ~213 |
-| Escaped from a big trouble | 47.00% | ~196 |
-| Now you are worthy | 45.00% | ~188 |
+| Employee of the year | 55.00% | ~230 |
+| Legal courier | 51.00% | ~214 |
+| Extreme neuropower! | 51.00% | ~214 |
+| Escaped from a big trouble | 47.00% | ~197 |
+| Now you are worthy | 45.00% | ~189 |
 | Fight is life | 43.00% | ~180 |
 | Mysterious voice | 43.00% | ~180 |
 | Guiding on the right path | 42.00% | ~176 |
-| No blades in the gym | 40.00% | ~167 |
+| No blades in the gym | 40.00% | ~168 |
 | Champion – no way back | 39.00% | ~163 |
-| Underground dwellers | 39.00% | ~163 |
+| Underground dwellers | 38.00% | ~159 |
 | Responsible approach | 38.00% | ~159 |
 | Deal with life | 37.00% | ~155 |
 | GYM professional | 37.00% | ~155 |
-| Mom got better | 36.00% | ~150 |
-| Poisoned fighter | 36.00% | ~150 |
-| The die is cast | 36.00% | ~150 |
+| Mom got better | 36.00% | ~151 |
+| Poisoned fighter | 36.00% | ~151 |
+| The die is cast | 36.00% | ~151 |
 | Get out of my apartment! | 34.00% | ~142 |
 | Gang wrangler | 33.00% | ~138 |
 | Seashell hunter | 33.00% | ~138 |
@@ -63,15 +63,15 @@
 | Key memories | 31.00% | ~130 |
 | Careerist | 31.00% | ~130 |
 | The heart of the Resistance | 31.00% | ~130 |
-| Trap disarmed | 30.00% | ~125 |
-| Another world | 30.00% | ~125 |
-| Anyone can resist | 30.00% | ~125 |
-| The only right decision | 28.00% | ~117 |
+| Trap disarmed | 30.00% | ~126 |
+| Another world | 30.00% | ~126 |
+| Anyone can resist | 30.00% | ~126 |
 | The last bell ring | 28.00% | ~117 |
 | Silver’s past | 27.00% | ~113 |
 | Better cooking at home | 27.00% | ~113 |
+| The only right decision | 27.00% | ~113 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 418 (Ranked 340)  
+Progressed: 419 (Ranked 339)  
 Completed: 9 (2.15%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,4 +168,4 @@ Completed: 9 (2.15%) (Ranked 132)
 | 2023-12-15 | 389 | 9 |
 | 2023-12-16 | 399 | 9 |
 | 2023-12-17 | 409 | 9 |
-| 2023-12-18 | 418 | 9 |
+| 2023-12-18 | 419 | 9 |

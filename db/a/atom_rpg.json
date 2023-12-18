@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1423,
+  "EOS_Progressed": 1425,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3433,6 +3433,11 @@
       "Time": "2023-12-18T19:09:35.8617145+00:00",
       "NumProgressed": 1423,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T22:09:36.7813911+00:00",
+      "NumProgressed": 1425,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3492,7 +3497,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -3500,7 +3505,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1411
     },
     {
       "ID": "EXPERT_1",
@@ -3596,7 +3601,7 @@
       "Name": "One HIT wonder",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3604,7 +3609,7 @@
       "Name": "One shot, one kill",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "PACIFIST",
@@ -3620,7 +3625,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "PRIVATE_EYE",
@@ -3708,7 +3713,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "WANDERER_1",
@@ -3716,7 +3721,7 @@
       "Name": "Wanderer",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "WISHMASTER_1",
@@ -3731,15 +3736,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1423,
+      "Progressed": 1425,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:10:10.5420082+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:09:36.7813908+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.4071615+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:02:35.8790967+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:10:10.5420419+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:00:07.6950803+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:09:36.7814516+00:00"
 }

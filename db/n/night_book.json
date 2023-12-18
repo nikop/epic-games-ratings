@@ -4,8 +4,8 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -580,9 +580,9 @@
       "ID": "impress_theron",
       "SetID": "a3kkelb",
       "Name": "Impress Theron",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "marriage_is_off",
@@ -636,9 +636,9 @@
       "ID": "save_dad",
       "SetID": "a3kkelb",
       "Name": "Save Dad",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "shady_truth",
@@ -685,8 +685,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:07:44.4129665+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:06:12.9490361+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:54.4004321+00:00",
-  "LastUpdate_Ratings": "2023-12-18T20:59:19.9901022+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:07:44.4129815+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:58:29.7271012+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:06:12.9490496+00:00"
 }

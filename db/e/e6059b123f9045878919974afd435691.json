@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -3258,17 +3258,17 @@
       "ID": "FREEM_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Where Is Houdini?",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 196
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "I\u0027ll Save You!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 218
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -3338,9 +3338,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 391
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -3394,9 +3394,9 @@
       "ID": "MARY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Hostage of the Elderly",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 310
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -3450,9 +3450,9 @@
       "ID": "OUT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Last of Us",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 345
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -3553,8 +3553,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:10:22.2435945+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:09:47.0877629+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:08.9329051+00:00",
-  "LastUpdate_Ratings": "2023-12-18T20:59:52.1220195+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:10:22.2437279+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:58:51.8111977+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:09:47.0878317+00:00"
 }

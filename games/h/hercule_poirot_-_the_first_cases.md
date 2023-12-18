@@ -47,7 +47,7 @@ Rating: 4.35 (Ranked 800)
 | Sunken Secrets | 18.00% | ~83 |
 | What Else Did I Miss? | 18.00% | ~83 |
 | The Denouement | 17.00% | ~78 |
-| Probably the Greatest Detective in the World | 12.00% | ~55 |
+| Probably the Greatest Detective in the World | 13.00% | ~60 |
 | Take a Break | 11.00% | ~51 |
 | Room with a View | 7.00% | ~32 |
 | Work-life Balance | 3.00% | ~14 |

@@ -4,11 +4,11 @@
   "ProductSlug": "maneater",
   "Ranking_Rating": 620,
   "Ranking_Popularity": 30,
-  "Ranking_PopularitySum": 62,
+  "Ranking_PopularitySum": 61,
   "Ranking_EOS_Progress": 809,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 551,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-05-22T09:00:00+00:00",
     "PcReleaseDate": "2020-05-22T09:00:00+00:00",
@@ -3900,10 +3900,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 18202,
       "NumberOfAwardsMax": 13859
+    },
+    {
+      "Time": "2023-12-18T21:58:51.0764563+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 18279,
+      "NumberOfAwardsMax": 13859
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18202,
+  "NumberOfAwards": 18279,
   "NumberOfAwardsMax": 13859,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3941,7 +3947,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 97
+      "Count": 98
     },
     {
       "Text": "This game is Educational",
@@ -3975,9 +3981,9 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Prefix": "",
-      "Type": "",
-      "Count": 68
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 76
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4003,8 +4009,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
-  "LastChanged": "2023-12-18T19:58:56.3829213+00:00",
+  "LastChanged": "2023-12-18T21:58:51.0764553+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:35.474736+00:00",
-  "LastUpdate_Ratings": "2023-12-18T20:59:51.0606697+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:05:27.6701147+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:58:51.0764567+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:04:31.3774884+00:00"
 }

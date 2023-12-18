@@ -8,11 +8,11 @@
 | Starting Skyward | 53.00% | ~211 |
 | Grime is Not Good | 46.00% | ~183 |
 | Floor Galore | 41.00% | ~163 |
+| Campaign Launch | 40.00% | ~159 |
 | Dinner Dash | 40.00% | ~159 |
-| Campaign Launch | 39.00% | ~155 |
 | Need a Consult | 37.00% | ~147 |
 | It's Technical | 37.00% | ~147 |
-| Upgrade Unlock | 35.00% | ~139 |
+| Upgrade Unlock | 36.00% | ~143 |
 | Delegate Maintenance | 33.00% | ~131 |
 | Proper Walls | 31.00% | ~123 |
 | Destination Destiny | 31.00% | ~123 |

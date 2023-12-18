@@ -2,13 +2,13 @@
   "ID": "752368fdba244e9386023cfb2b9d6ceb",
   "Name": "The Messenger",
   "ProductSlug": "the-messenger",
-  "Ranking_Rating": 85,
+  "Ranking_Rating": 84,
   "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 809,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 551,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2019-11-14T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -802,6 +802,6 @@
   "FirstSeen": "2022-07-22T20:18:54.3850647+00:00",
   "LastChanged": "2023-12-12T20:58:03.4344219+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:31.1660119+00:00",
-  "LastUpdate_Ratings": "2023-12-18T20:57:22.1008172+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:09:57.5193031+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:57:09.5993772+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:09:26.9472346+00:00"
 }

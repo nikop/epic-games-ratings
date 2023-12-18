@@ -4,8 +4,8 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37,
+  "EOS_Progressed": 38,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -188,6 +188,11 @@
     {
       "Time": "2023-12-18T18:09:22.8503071+00:00",
       "NumProgressed": 37,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T22:08:46.1115447+00:00",
+      "NumProgressed": 38,
       "NumCompleted": 0
     }
   ],
@@ -407,7 +412,7 @@
       "ID": "achievement_last_word",
       "SetID": "bngbnfb",
       "Name": "The last word",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -463,7 +468,7 @@
       "ID": "achievement_not_energetic",
       "SetID": "bngbnfb",
       "Name": "Not energetic",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -471,7 +476,7 @@
       "ID": "achievement_not_risky",
       "SetID": "bngbnfb",
       "Name": "Not a daredevil",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -600,14 +605,14 @@
     {
       "ID": "bngbnfb",
       "IsBase": true,
-      "Progressed": 37,
+      "Progressed": 38,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:09:03.0357641+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:08:46.1115444+00:00",
   "LastUpdate_AppInfo": "2023-12-13T14:57:06.6138532+00:00",
-  "LastUpdate_Ratings": "2023-12-18T20:57:06.5622511+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:09:03.0357998+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:56:59.2768772+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:08:46.1115739+00:00"
 }

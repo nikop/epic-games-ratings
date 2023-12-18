@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -141,7 +141,7 @@
   "Tags": [],
   "EOS_Progressed": 1241,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.74,
   "EosHistory": [
@@ -4338,9 +4338,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 633
+      "UsersEstimate": 645
     },
     {
       "ID": "MQ03_1",
@@ -4442,9 +4442,9 @@
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 372
+      "UsersEstimate": 385
     },
     {
       "ID": "MQ06_2",
@@ -4498,9 +4498,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 459
+      "UsersEstimate": 472
     },
     {
       "ID": "MQ08_3",
@@ -4531,8 +4531,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-18T11:03:40.7955298+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:06:18.6545165+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:05:08.8876484+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:03:12.0695942+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:06:18.6545651+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:02:52.7848132+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:05:08.8876776+00:00"
 }

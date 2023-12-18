@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -275,9 +275,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17250,
+  "EOS_Progressed": 17251,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7355,6 +7355,11 @@
       "Time": "2023-12-18T17:03:40.0866006+00:00",
       "NumProgressed": 17250,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T22:03:39.3856769+00:00",
+      "NumProgressed": 17251,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -7374,7 +7379,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14835
+      "UsersEstimate": 14836
     },
     {
       "ID": "ACH0010",
@@ -7398,7 +7403,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8452
+      "UsersEstimate": 8453
     },
     {
       "ID": "ACH0013",
@@ -7438,7 +7443,7 @@
       "Name": "Fishing for Compliments",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "ACH0018",
@@ -7462,7 +7467,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12420
+      "UsersEstimate": 12421
     },
     {
       "ID": "ACH0020",
@@ -7470,7 +7475,7 @@
       "Name": "A New Legend Awaits",
       "Percentage": 1,
       "XP": 110,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH0021",
@@ -7518,7 +7523,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 9315
+      "UsersEstimate": 9316
     },
     {
       "ID": "ACH004",
@@ -7566,14 +7571,14 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 0.2,
       "XP": 110,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17250,
+      "Progressed": 17251,
       "Completed": 1
     }
   ],
@@ -7581,8 +7586,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-12-17T00:00:58.734993+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:04:16.7074168+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:03:39.3856764+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:32.8773696+00:00",
-  "LastUpdate_Ratings": "2023-12-18T20:57:40.6998098+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:04:16.7074643+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:57:22.7830267+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:03:39.3857303+00:00"
 }

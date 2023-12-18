@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1415,9 +1415,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 202
+      "UsersEstimate": 205
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -1431,9 +1431,9 @@
       "ID": "HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "A Party to Remember!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "LUNCH_LEECH",
@@ -1526,8 +1526,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:05:06.6390534+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:04:15.9631271+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.1278188+00:00",
-  "LastUpdate_Ratings": "2023-12-18T20:58:22.8397898+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:05:06.6390881+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:57:51.8606024+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:04:15.9631436+00:00"
 }

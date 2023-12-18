@@ -5,10 +5,10 @@
   "Ranking_Rating": 855,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
-  "Ranking_EOS_Progress": 262,
+  "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1225,
+  "EOS_Progressed": 1226,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2399,6 +2399,11 @@
       "Time": "2023-12-18T20:04:48.1929808+00:00",
       "NumProgressed": 1225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T22:04:36.7402383+00:00",
+      "NumProgressed": 1226,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2426,7 +2431,7 @@
       "Name": "The First King",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "CHALLENGE_FEWBUTGOOD",
@@ -2530,7 +2535,7 @@
       "Name": "Manipulating Fate",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "DIE_MAX_POWER",
@@ -2586,7 +2591,7 @@
       "Name": "The Unruly Ones",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "FIND_ATTACKS_SOURCE",
@@ -2634,7 +2639,7 @@
       "Name": "We made it",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -2769,7 +2774,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1225,
+      "Progressed": 1226,
       "Completed": 0
     }
   ],
@@ -2777,8 +2782,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:05:34.808865+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:04:36.7402379+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:49.3421858+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:03:02.5578276+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:05:34.8088999+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:02:45.8809648+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:04:36.7402705+00:00"
 }

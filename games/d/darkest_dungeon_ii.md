@@ -6,18 +6,18 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 8.00% | ~260 |
-| Lost and Found | 5.00% | ~162 |
+| Malpractice Assurance | 8.00% | ~261 |
+| Lost and Found | 5.00% | ~163 |
 | This guy... again? | 4.00% | ~130 |
-| This Belongs in a Museum | 3.00% | ~3,851 |
-| Not Today! | 3.00% | ~3,851 |
-| Creep and Sleep | 3.00% | ~3,851 |
-| Catch and Decease | 3.00% | ~3,851 |
-| Overdue Notice | 3.00% | ~3,851 |
-| Escape from the Black Hole | 3.00% | ~3,851 |
-| Autodidact | 3.00% | ~3,851 |
-| Ploughshares to Swords | 3.00% | ~97 |
-| Bloody Graduation | 3.00% | ~97 |
+| This Belongs in a Museum | 3.00% | ~3,852 |
+| Not Today! | 3.00% | ~3,852 |
+| Creep and Sleep | 3.00% | ~3,852 |
+| Catch and Decease | 3.00% | ~3,852 |
+| Overdue Notice | 3.00% | ~3,852 |
+| Escape from the Black Hole | 3.00% | ~3,852 |
+| Autodidact | 3.00% | ~3,852 |
+| Ploughshares to Swords | 3.00% | ~98 |
+| Bloody Graduation | 3.00% | ~98 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,568 |
 | Serenity Now! | 2.00% | ~2,568 |
 | It Rings a Bell | 2.00% | ~2,568 |
@@ -53,7 +53,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 1.00% | ~1,284 |
 | Unshackled | 1.00% | ~1,284 |
 | Road Trip | 1.00% | ~1,284 |
-| Hope Rekindled | 0.90% | ~1,155 |
+| Hope Rekindled | 0.90% | ~1,156 |
 | Ichthyophobic | 0.80% | ~1,027 |
 | No More Mouths to Feed | 0.80% | ~1,027 |
 | Hot Air | 0.80% | ~1,027 |
@@ -75,8 +75,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Life Well Lived | 0.20% | ~257 |
 | Tears in the Rain | 0.20% | ~257 |
 | Eidetic | 0.20% | ~257 |
-| Battle Hardened | 0.20% | ~6 |
-| On This Long Road, We Found Redemption | 0.20% | ~6 |
+| Battle Hardened | 0.20% | ~7 |
+| On This Long Road, We Found Redemption | 0.20% | ~7 |
 | Loop Year | 0.10% | ~128 |
 | Circle of Life | 0.10% | ~128 |
 | No Gravestone Left Unturned | 0.10% | ~128 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,380 (Ranked 85)  
+Progressed: 128,389 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,16 +318,16 @@ Completed: 3 (0.00%) (Ranked 383)
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
-| 2023-12-18 | 128,380 | 3 |
+| 2023-12-18 | 128,389 | 3 |
 ## Awards
 Max (Character Customization): 7,784  (Ranked 50)  
-Sum: 20,743 (Ranked 58)  
+Sum: 20,750 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,784 |
 | This game has Diverse Characters | 1,720 |
-| This game has Challenging Combat | 1,599 |
+| This game has Challenging Combat | 1,606 |
 | This game is Highly Recommended | 1,544 |
 | This game is Extremely Fun | 1,471 |
 | This game has Amazing Characters | 1,465 |
@@ -664,4 +664,4 @@ Diff (max vs sum): -8
 | 2023-12-15 | 4.68 | - | 7,718 | 20,517 |
 | 2023-12-16 | 4.68 | - | 7,744 | 20,595 |
 | 2023-12-17 | 4.68 | - | 7,763 | 20,673 |
-| 2023-12-18 | 4.68 | - | 7,784 | 20,743 |
+| 2023-12-18 | 4.68 | - | 7,784 | 20,750 |

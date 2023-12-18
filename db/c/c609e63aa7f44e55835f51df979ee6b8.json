@@ -2,10 +2,10 @@
   "ID": "c609e63aa7f44e55835f51df979ee6b8",
   "Name": "Batora: Lost Haven",
   "ProductSlug": "batora-lost-haven-1773c3",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 623,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-12T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -89,6 +89,11 @@
       "Time": "2023-12-17T11:09:34.0645991+00:00",
       "NumProgressed": 13,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T22:09:40.9896601+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-12T17:03:09.6040716+00:00",
@@ -99,7 +104,7 @@
       "ID": "ACH_ARMONIA",
       "SetID": "715gm5d",
       "Name": "Armonia",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -115,7 +120,7 @@
       "ID": "ACH_CHILDELIKE_SPIRIT",
       "SetID": "715gm5d",
       "Name": "Childelike Spirit",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -131,7 +136,7 @@
       "ID": "ACH_DANCING_IN_THE_RAIN",
       "SetID": "715gm5d",
       "Name": "Dancing in the Rain (of Bullets)",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -139,7 +144,7 @@
       "ID": "ACH_DONT_CALL_HER_BABY",
       "SetID": "715gm5d",
       "Name": "Don\u0027t Call her Baby",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -147,7 +152,7 @@
       "ID": "ACH_ECLIPSE_OF_THE_HEART",
       "SetID": "715gm5d",
       "Name": "Eclipse of the Heart",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -155,7 +160,7 @@
       "ID": "ACH_FEET_ON_THE_GROUND",
       "SetID": "715gm5d",
       "Name": "Feet on the Ground",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -163,7 +168,7 @@
       "ID": "ACH_FLAMING_WISDOM",
       "SetID": "715gm5d",
       "Name": "Flaming Wisdom",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -171,7 +176,7 @@
       "ID": "ACH_FROZEN_TEARDROP",
       "SetID": "715gm5d",
       "Name": "Frozen Teardrop",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -187,7 +192,7 @@
       "ID": "ACH_HEAD_IN_THE_CLOUDS",
       "SetID": "715gm5d",
       "Name": "Head in the Clouds",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -195,7 +200,7 @@
       "ID": "ACH_HERO_OF_LIGHT",
       "SetID": "715gm5d",
       "Name": "Hero of Light",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -203,7 +208,7 @@
       "ID": "ACH_INNER_DIVA",
       "SetID": "715gm5d",
       "Name": "Inner Diva",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -227,7 +232,7 @@
       "ID": "ACH_KEEPER_OF_BALANCE",
       "SetID": "715gm5d",
       "Name": "Keeper of Balance",
-      "Percentage": 62,
+      "Percentage": 57,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -235,7 +240,7 @@
       "ID": "ACH_LADY_OF_THE_NIGHT",
       "SetID": "715gm5d",
       "Name": "Lady of the Night",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -251,7 +256,7 @@
       "ID": "ACH_MUTUAL_RESPECT",
       "SetID": "715gm5d",
       "Name": "Mutual Respect",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -259,7 +264,7 @@
       "ID": "ACH_NO_LEFT_BEHIND",
       "SetID": "715gm5d",
       "Name": "No left behind",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -267,7 +272,7 @@
       "ID": "ACH_PRIDEFUL_SCARS",
       "SetID": "715gm5d",
       "Name": "Prideful Scars",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -283,7 +288,7 @@
       "ID": "ACH_STORMING_MEMORIES",
       "SetID": "715gm5d",
       "Name": "Storming Memories",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -291,7 +296,7 @@
       "ID": "ACH_TICKETS_FOR_3",
       "SetID": "715gm5d",
       "Name": "Tickets for 3",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -299,7 +304,7 @@
       "ID": "ACH_TOGETHER_AT_LAST",
       "SetID": "715gm5d",
       "Name": "Together at last",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -307,7 +312,7 @@
       "ID": "ACH_TYRANT_DETHRONER",
       "SetID": "715gm5d",
       "Name": "Tyrant Dethroner",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -315,7 +320,7 @@
       "ID": "ACH_UNEXPECTED_MINDFULLNESS",
       "SetID": "715gm5d",
       "Name": "Unexpected Mindfullness",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -323,7 +328,7 @@
       "ID": "ACH_UNUSUAL_ENCOUNTER",
       "SetID": "715gm5d",
       "Name": "Unusual Encounter",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -331,7 +336,7 @@
       "ID": "ACH_WHIMSICAL_BLESSING",
       "SetID": "715gm5d",
       "Name": "Whimsical Blessing",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 2
     }
@@ -340,14 +345,14 @@
     {
       "ID": "715gm5d",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-26T15:57:45.8918317+00:00",
   "FirstSeenAchievements": "2023-09-12T17:03:09.6040714+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:10:15.8805454+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:09:40.9896596+00:00",
   "LastUpdate_AppInfo": "2023-12-12T21:57:15.4566819+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:00:51.2502159+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:10:15.8805615+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:59:32.6967956+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:09:40.9896757+00:00"
 }

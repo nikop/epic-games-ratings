@@ -8,7 +8,7 @@ Rating: 4.58 (Ranked 455)
 | Read Between The Lines | 63.00% | ~782 |
 | To Hell In A Handcart | 62.00% | ~769 |
 | High Profile | 54.00% | ~670 |
-| Whispers In The Dark | 51.00% | ~633 |
+| Whispers In The Dark | 52.00% | ~645 |
 | Fond Memories | 50.00% | ~620 |
 | A Method To His Madness | 47.00% | ~583 |
 | History Check | 46.00% | ~571 |
@@ -22,13 +22,13 @@ Rating: 4.58 (Ranked 455)
 | Land, Ho! | 42.00% | ~521 |
 | No Man Is An Island | 40.00% | ~496 |
 | At Wits' End | 40.00% | ~496 |
+| Up In Flames | 38.00% | ~472 |
 | Fhtagn! | 38.00% | ~472 |
 | Bookworm | 37.00% | ~459 |
-| Up In Flames | 37.00% | ~459 |
 | Going Once... | 36.00% | ~447 |
 | Let Me Be Frank | 34.00% | ~422 |
 | No Stone Unturned | 32.00% | ~397 |
-| Brain Food | 30.00% | ~372 |
+| Brain Food | 31.00% | ~385 |
 | Read It And Weep | 19.00% | ~236 |
 | Curiosity Killed The Cat | 18.00% | ~223 |
 | Big Breakthrough | 12.00% | ~149 |

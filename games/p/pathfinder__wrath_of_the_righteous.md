@@ -6,13 +6,13 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,371 |
+| Devoured by Darkness | 27.00% | ~3,372 |
 | A Spark | 19.00% | ~2,373 |
 | Burning City | 18.00% | ~2,248 |
 | Defender's Heart | 16.00% | ~1,998 |
 | Mythic Choices | 15.00% | ~1,873 |
 | Banner over the Citadel | 14.00% | ~1,748 |
-| Queen's Gratitude | 12.00% | ~1,498 |
+| Queen's Gratitude | 12.00% | ~1,499 |
 | Fifth Crusade | 9.00% | ~1,124 |
 | Embrace of the Abyss | 7.00% | ~874 |
 | Path of the Angel | 7.00% | ~874 |
@@ -26,10 +26,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 5.00% | ~624 |
 | Next-Door Play | 5.00% | ~624 |
 | Get the Toad | 5.00% | ~624 |
-| Heart of the Fallen Land | 4.00% | ~499 |
-| Divide and Rule | 4.00% | ~499 |
-| Mythic Reinforcements | 4.00% | ~499 |
-| Hey, I Know You! | 4.00% | ~499 |
+| Heart of the Fallen Land | 4.00% | ~500 |
+| Divide and Rule | 4.00% | ~500 |
+| Mythic Reinforcements | 4.00% | ~500 |
+| Hey, I Know You! | 4.00% | ~500 |
 | Path of the Trickster | 3.00% | ~375 |
 | Path of the Lich | 3.00% | ~375 |
 | Heroic Victory | 3.00% | ~375 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,487 (Ranked 167)  
+Progressed: 12,489 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,7 +365,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-15 | 12,356 | 0 |
 | 2023-12-16 | 12,405 | 0 |
 | 2023-12-17 | 12,459 | 0 |
-| 2023-12-18 | 12,487 | 0 |
+| 2023-12-18 | 12,489 | 0 |
 ## Awards
 Max (Character Customization): 1,763  (Ranked 124)  
 Sum: 7,150 (Ranked 123)  

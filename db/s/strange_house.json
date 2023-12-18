@@ -4,8 +4,8 @@
   "ProductSlug": "strange-house-5fd1b5",
   "Ranking_EOS_Progress": 540,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 436,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
     "PcReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -227,6 +227,11 @@
       "Time": "2023-12-17T23:09:20.3081207+00:00",
       "NumProgressed": 40,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T22:08:43.3094173+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-08T22:03:43.7557522+00:00",
@@ -245,7 +250,7 @@
       "ID": "EndPrologue",
       "SetID": "a2ci5mh",
       "Name": "Chapter 1",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 150,
       "UsersEstimate": 5
     },
@@ -261,7 +266,7 @@
       "ID": "LostCat",
       "SetID": "a2ci5mh",
       "Name": "Lost Cat",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 200,
       "UsersEstimate": 5
     },
@@ -286,13 +291,13 @@
     {
       "ID": "a2ci5mh",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:08:59.3650681+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:08:43.309417+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.9857992+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:03:13.2777239+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:08:59.3650756+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:02:53.6338493+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:08:43.3094248+00:00"
 }

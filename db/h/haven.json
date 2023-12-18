@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1666,
+  "EOS_Progressed": 1668,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2583,6 +2583,11 @@
       "Time": "2023-12-18T21:04:42.6407367+00:00",
       "NumProgressed": 1666,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-18T22:03:58.6473171+00:00",
+      "NumProgressed": 1668,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2594,7 +2599,7 @@
       "Name": "Lovebirds",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "10",
@@ -2618,7 +2623,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "13",
@@ -2658,7 +2663,7 @@
       "Name": "Balding bloot!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "18",
@@ -2666,7 +2671,7 @@
       "Name": "Like new!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "19",
@@ -2704,9 +2709,9 @@
       "ID": "22",
       "SetID": "n50no0",
       "Name": "Can\u0027t get wetter...",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 67
     },
     {
       "ID": "23",
@@ -2754,7 +2759,7 @@
       "Name": "Hug therapy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "30",
@@ -2802,7 +2807,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "7",
@@ -2818,7 +2823,7 @@
       "Name": "Over my dead body",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "9",
@@ -2833,15 +2838,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1666,
+      "Progressed": 1668,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:04:42.6407361+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:03:58.6473167+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.3116727+00:00",
-  "LastUpdate_Ratings": "2023-12-18T20:58:34.966008+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:04:42.6407669+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:58:00.1133646+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:03:58.6473538+00:00"
 }

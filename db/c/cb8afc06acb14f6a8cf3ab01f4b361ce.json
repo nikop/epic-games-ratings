@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -431,9 +431,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 331092,
+  "EOS_Progressed": 331115,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3569,
+  "EOS_NewPlayers": 3568,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10111,6 +10111,11 @@
       "Time": "2023-12-18T21:05:28.0680823+00:00",
       "NumProgressed": 331092,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-18T22:04:31.7022737+00:00",
+      "NumProgressed": 331115,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10163,7 +10168,7 @@
       "Name": "They tricked me",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "S07_INWA",
@@ -10171,7 +10176,7 @@
       "Name": "We need to talk",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "S08_MNSA",
@@ -10259,7 +10264,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13244
+      "UsersEstimate": 13245
     },
     {
       "ID": "S19_CHALLENGES",
@@ -10291,7 +10296,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "S23_ETHEREAL",
@@ -10442,7 +10447,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 331092,
+      "Progressed": 331115,
       "Completed": 5
     }
   ],
@@ -10450,8 +10455,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-17T23:00:34.9131333+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:05:28.0680814+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:04:31.7022733+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:00:47.3299606+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:05:28.0681607+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:59:30.4865348+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:04:31.702352+00:00"
 }

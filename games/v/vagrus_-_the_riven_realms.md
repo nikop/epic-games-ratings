@@ -49,13 +49,13 @@
 | The Darkness Within | 2.00% | ~4 |
 | Merchant Lord | 2.00% | ~4 |
 | Making Contact | 1.00% | ~2 |
+| Watcher | 1.00% | ~2 |
 | Loremaster | 1.00% | ~2 |
 | Adept | 1.00% | ~2 |
 | Moving At Odd Angles | 1.00% | ~2 |
 | Wyrmslayer | 1.00% | ~2 |
 | Glorious leader | 1.00% | ~2 |
 | Voracity Confronted | 1.00% | ~2 |
-| Watcher | 0.90% | ~2 |
 | Executor | 0.90% | ~2 |
 | Embellished | 0.90% | ~2 |
 | Ever After | 0.90% | ~2 |

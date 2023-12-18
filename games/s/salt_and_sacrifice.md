@@ -14,7 +14,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | Stock Up | 75.00% | ~50,881 |
 | The Hydromancer | 73.00% | ~49,524 |
 | The Matriarch | 70.00% | ~47,489 |
-| The Aeromancer | 65.00% | ~44,097 |
+| The Aeromancer | 66.00% | ~44,775 |
 | The Huntsman | 65.00% | ~44,097 |
 | The Venomancer | 65.00% | ~44,097 |
 | Dawnlight Order | 64.00% | ~43,418 |

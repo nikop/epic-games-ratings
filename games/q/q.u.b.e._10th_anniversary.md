@@ -5,32 +5,32 @@ Rating: 4.42 (Ranked 721)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 28.00% | ~7,188 |
-| Sector 2 | 25.00% | ~6,418 |
-| Crush That Cube! | 21.00% | ~5,391 |
-| Sector 3 | 21.00% | ~5,391 |
-| Sector 4 | 17.00% | ~4,364 |
-| Crush That Ball! | 16.00% | ~4,107 |
-| Sector 5 | 11.00% | ~2,824 |
-| Sector 6 | 10.00% | ~2,567 |
+| Sector 1 | 28.00% | ~7,190 |
+| Sector 2 | 25.00% | ~6,420 |
+| Crush That Cube! | 21.00% | ~5,392 |
+| Sector 3 | 21.00% | ~5,392 |
+| Sector 4 | 17.00% | ~4,365 |
+| Crush That Ball! | 16.00% | ~4,108 |
+| Sector 5 | 11.00% | ~2,825 |
+| Sector 6 | 10.00% | ~2,568 |
 | Feeling the Blues | 7.00% | ~1,797 |
 | Squished | 7.00% | ~1,797 |
 | Finale | 7.00% | ~1,797 |
 | Sector 7 | 7.00% | ~1,797 |
-| Did That Work? -- No! | 6.00% | ~1,540 |
+| Did That Work? -- No! | 6.00% | ~1,541 |
 | Master Room | 4.00% | ~1,027 |
-| Bronze Trophy | 2.00% | ~513 |
-| Master Of The Collectables | 2.00% | ~513 |
-| Gold Trophy | 2.00% | ~513 |
-| Hopefully that's all of them! | 2.00% | ~513 |
-| Phew! | 2.00% | ~513 |
-| The Puzzle Master | 2.00% | ~513 |
-| Silver Trophy | 2.00% | ~513 |
-| Completed It. | 2.00% | ~513 |
+| Bronze Trophy | 2.00% | ~514 |
+| Master Of The Collectables | 2.00% | ~514 |
+| Gold Trophy | 2.00% | ~514 |
+| Hopefully that's all of them! | 2.00% | ~514 |
+| Phew! | 2.00% | ~514 |
+| The Puzzle Master | 2.00% | ~514 |
+| Silver Trophy | 2.00% | ~514 |
+| Completed It. | 2.00% | ~514 |
 | The Collector | 1.00% | ~257 |
 | Maxed Out | 1.00% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,671 (Ranked 137)  
+Progressed: 25,678 (Ranked 137)  
 Completed: 164 (0.64%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 164 (0.64%) (Ranked 194)
 | 2023-12-15 | 25,215 | 158 |
 | 2023-12-16 | 25,393 | 159 |
 | 2023-12-17 | 25,557 | 161 |
-| 2023-12-18 | 25,671 | 164 |
+| 2023-12-18 | 25,678 | 164 |
 ## Awards
 Max (Challenging Puzzles): 22  (Ranked 548)  
 Sum: 22 (Ranked 550)  

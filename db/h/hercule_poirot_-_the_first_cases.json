@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -873,9 +873,9 @@
       "ID": "ACH_030",
       "SetID": "72imik0",
       "Name": "Probably the Greatest Detective in the World",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_031",
@@ -1066,8 +1066,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:07:02.9513726+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:05:41.6497272+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:51.2766096+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:03:03.7621802+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:07:02.9514124+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:02:46.6664773+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:05:41.6497588+00:00"
 }

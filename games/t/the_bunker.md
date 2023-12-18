@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Goodbye | 90.00% | ~140 |
-| The Routine | 80.00% | ~124 |
+| Last Goodbye | 91.00% | ~141 |
+| The Routine | 81.00% | ~126 |
 | Mother | 79.00% | ~122 |
-| Failure | 76.00% | ~118 |
-| Replace Fuse | 67.00% | ~104 |
+| Failure | 77.00% | ~119 |
+| Replace Fuse | 68.00% | ~105 |
 | Alarm | 66.00% | ~102 |
 | Air Filtration | 63.00% | ~98 |
 | Broken | 61.00% | ~95 |
 | Radiation | 59.00% | ~91 |
-| Descent | 57.00% | ~88 |
-| Awakenings | 56.00% | ~87 |
-| Cold Storage | 56.00% | ~87 |
+| Descent | 58.00% | ~90 |
+| Awakenings | 57.00% | ~88 |
+| Cold Storage | 57.00% | ~88 |
 | Sam | 56.00% | ~87 |
 | Commissioner | 51.00% | ~79 |
-| Soldier | 50.00% | ~78 |
-| Leave | 49.00% | ~76 |
-| Churchill | 49.00% | ~76 |
+| Soldier | 51.00% | ~79 |
+| Leave | 50.00% | ~78 |
+| Churchill | 50.00% | ~78 |
+| Engineer | 49.00% | ~76 |
 | Doctor | 48.00% | ~74 |
-| Engineer | 48.00% | ~74 |
-| Press Play | 35.00% | ~54 |
-| General | 28.00% | ~43 |
+| Press Play | 36.00% | ~56 |
+| General | 29.00% | ~45 |
 | Bookworm | 26.00% | ~40 |
 | Floppy Disk Finder | 15.00% | ~23 |
 | Stay | 14.00% | ~22 |

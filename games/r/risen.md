@@ -9,7 +9,7 @@ Rating: 4.60 (Ranked 421)
 | Map reader | 74.00% | ~71 |
 | Philanthropist | 69.00% | ~66 |
 | Adventurer | 67.00% | ~64 |
-| Archer | 50.00% | ~48 |
+| Archer | 51.00% | ~49 |
 | The brave little tailor | 49.00% | ~47 |
 | Field hand | 44.00% | ~42 |
 | Samaritan | 42.00% | ~40 |
@@ -19,9 +19,9 @@ Rating: 4.60 (Ranked 421)
 | Ferocious wild boars | 29.00% | ~28 |
 | Idiot | 27.00% | ~26 |
 | Beast slayer | 25.00% | ~24 |
+| Family man | 23.00% | ~22 |
 | Death of a legend | 23.00% | ~22 |
 | Archaeologist | 23.00% | ~22 |
-| Family man | 22.00% | ~21 |
 | The fourth triplet | 22.00% | ~21 |
 | Wise man | 21.00% | ~20 |
 | Ogre friend | 21.00% | ~20 |

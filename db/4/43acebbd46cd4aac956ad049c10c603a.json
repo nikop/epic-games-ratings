@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -2717,9 +2717,9 @@
       "ID": "AbAeterno",
       "SetID": "1n308hc",
       "Name": "Ab Aeterno",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 42
     },
     {
       "ID": "AbInitio",
@@ -2981,9 +2981,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 136
     },
     {
       "ID": "PrometheusUnbound",
@@ -3013,9 +3013,9 @@
       "ID": "RenaissanceRobot",
       "SetID": "1n308hc",
       "Name": "Renaissance Robot",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 21
+      "UsersEstimate": 31
     },
     {
       "ID": "ScientiaVincereTenebras",
@@ -3101,9 +3101,9 @@
       "ID": "TheHardWay",
       "SetID": "1n308hc",
       "Name": "The Hard Way",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TheSpark",
@@ -3198,8 +3198,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:04:39.6522913+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:03:56.3494853+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-18T20:59:14.9446639+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:04:39.6523664+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:58:26.2783636+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:03:56.3495348+00:00"
 }

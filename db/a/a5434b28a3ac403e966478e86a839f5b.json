@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 668,
+  "EOS_Progressed": 669,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
@@ -2265,6 +2265,11 @@
       "Time": "2023-12-18T21:08:26.8290318+00:00",
       "NumProgressed": 668,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-18T22:08:18.907332+00:00",
+      "NumProgressed": 669,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2309,7 +2314,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_eou5",
@@ -2333,7 +2338,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_eou8",
@@ -2380,14 +2385,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 668,
+      "Progressed": 669,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-18T21:08:26.8290312+00:00",
+  "LastChanged_Achievements": "2023-12-18T22:08:18.9073317+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:57.6157011+00:00",
-  "LastUpdate_Ratings": "2023-12-18T20:59:29.357756+00:00",
-  "LastUpdate_Achievements": "2023-12-18T21:08:26.8290539+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:58:36.1885471+00:00",
+  "LastUpdate_Achievements": "2023-12-18T22:08:18.9073491+00:00"
 }

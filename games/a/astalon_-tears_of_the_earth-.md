@@ -19,7 +19,7 @@
 | Beast Knight | 30.00% | ~21 |
 | Snakehead! | 30.00% | ~21 |
 | Fly, you fool! | 28.00% | ~20 |
-| Relic Collector | 25.00% | ~18 |
+| Relic Collector | 27.00% | ~19 |
 | God of the Tower! | 24.00% | ~17 |
 | Cartographer | 24.00% | ~17 |
 | Wizard Mastery | 18.00% | ~13 |

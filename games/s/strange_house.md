@@ -7,11 +7,11 @@
 | Nice Glass | 20.00% | ~8 |
 | Alcoholic | 15.00% | ~6 |
 | Underground | 15.00% | ~6 |
-| Chapter 1 | 13.00% | ~5 |
-| Lost Cat | 13.00% | ~5 |
+| Chapter 1 | 12.00% | ~5 |
+| Lost Cat | 12.00% | ~5 |
 | Piglet | 10.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 540)  
+Progressed: 41 (Ranked 540)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -43,3 +43,4 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-12 | 37 | 0 |
 | 2023-12-16 | 38 | 0 |
 | 2023-12-17 | 40 | 0 |
+| 2023-12-18 | 41 | 0 |
