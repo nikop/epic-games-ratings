@@ -1279,9 +1279,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 3253,
+  "EOS_Progressed": 3254,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6444,6 +6444,11 @@
       "Time": "2023-12-18T16:06:37.7721154+00:00",
       "NumProgressed": 3253,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-18T17:05:29.8996688+00:00",
+      "NumProgressed": 3254,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -6455,7 +6460,7 @@
       "Name": "Backpacker",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_BING-BONG",
@@ -6559,7 +6564,7 @@
       "Name": "Go with the Flow",
       "Percentage": 14,
       "XP": 35,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -6831,22 +6836,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3253,
+      "Progressed": 3254,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-17T22:00:24.6037626+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:06:37.7721151+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:05:29.8996683+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:11.20318+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:57:33.0008354+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:06:37.7721596+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:57:22.697925+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:05:29.8997245+00:00"
 }

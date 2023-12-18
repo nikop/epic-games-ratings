@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 777,
+  "EOS_Progressed": 778,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2685,6 +2685,11 @@
       "Time": "2023-12-18T14:03:36.7211766+00:00",
       "NumProgressed": 777,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T17:03:27.7095228+00:00",
+      "NumProgressed": 778,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -2744,7 +2749,7 @@
       "Name": "Our Man",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "kill-lieutenants",
@@ -2760,7 +2765,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "play-at-night",
@@ -2808,7 +2813,7 @@
       "Name": "Spread",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "send-smuggling",
@@ -2816,7 +2821,7 @@
       "Name": "Camellos",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "unlock-residences",
@@ -2830,9 +2835,9 @@
       "ID": "upgrade-building",
       "SetID": "bed33dd",
       "Name": "Take-Off",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 629
+      "UsersEstimate": 622
     },
     {
       "ID": "use-submarine",
@@ -2847,15 +2852,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 777,
+      "Progressed": 778,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-12T19:59:33.5091909+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:04:06.5253867+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:03:27.7095223+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.4837395+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:00:10.5005578+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:04:06.5254083+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:59:09.3641736+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:03:27.7095504+00:00"
 }

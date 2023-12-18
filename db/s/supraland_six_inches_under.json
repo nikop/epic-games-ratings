@@ -2627,9 +2627,9 @@
       "ID": "Arrested",
       "SetID": "5lok9mm",
       "Name": "Arrested",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2041
     },
     {
       "ID": "Beam",
@@ -3019,8 +3019,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-12-07T21:58:24.3208537+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:04:18.9259824+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:03:37.0939515+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:59.82+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:01:14.0695111+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:04:18.9260373+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:59:52.0242078+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:03:37.0940146+00:00"
 }

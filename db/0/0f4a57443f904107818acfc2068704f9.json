@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -2191,9 +2191,9 @@
       "ID": "CompleteChapter10",
       "SetID": "52ail55",
       "Name": "You da Boss, Now",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 128
     },
     {
       "ID": "CompleteChapter11",
@@ -2430,8 +2430,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:05:55.1245876+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:04:58.670406+00:00",
   "LastUpdate_AppInfo": "2023-12-15T09:57:06.988595+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:01:01.2063429+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:05:55.1246159+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:59:43.2439414+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:04:58.6704404+00:00"
 }

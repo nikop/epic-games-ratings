@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,7 +222,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1043,
+  "EOS_Progressed": 1044,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
@@ -2682,6 +2682,11 @@
       "Time": "2023-12-18T15:03:54.7476908+00:00",
       "NumProgressed": 1043,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T17:03:59.4982346+00:00",
+      "NumProgressed": 1044,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2734,7 +2739,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "BreakTheLoop",
@@ -2750,7 +2755,7 @@
       "Name": "Bridge Builder",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ChasingTheLight",
@@ -2774,7 +2779,7 @@
       "Name": "Circular Oasis",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "DesolateIsland",
@@ -2788,9 +2793,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 188
     },
     {
       "ID": "EasternWetlands",
@@ -2822,7 +2827,7 @@
       "Name": "Flooded Valley",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "GnothiSeauton",
@@ -2876,9 +2881,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 240
     },
     {
       "ID": "LostMarshes",
@@ -2894,7 +2899,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Mnemosyne",
@@ -2942,7 +2947,7 @@
       "Name": "Not What It Seems",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Overload",
@@ -2950,7 +2955,7 @@
       "Name": "Overload",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "Persistent",
@@ -2966,7 +2971,7 @@
       "Name": "Prometheus Unbound",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "PuzzleFiend",
@@ -2998,7 +3003,7 @@
       "Name": "Scientia Vincere Tenebras",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Signatory",
@@ -3030,7 +3035,7 @@
       "Name": "Southern Coast",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "TeamSpirit",
@@ -3100,9 +3105,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 261
     },
     {
       "ID": "TouchGrass",
@@ -3148,9 +3153,9 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 115
     },
     {
       "ID": "YourBiggestFan",
@@ -3165,7 +3170,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1043,
+      "Progressed": 1044,
       "Completed": 1
     }
   ],
@@ -3173,8 +3178,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:04:47.5825553+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:03:59.4982341+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:59:23.0054828+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:04:47.5826379+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:58:37.9966705+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:03:59.4982879+00:00"
 }

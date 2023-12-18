@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1027,
+  "EOS_Progressed": 1028,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2835,6 +2835,11 @@
       "Time": "2023-12-18T13:16:37.4311153+00:00",
       "NumProgressed": 1027,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-18T17:09:28.1898366+00:00",
+      "NumProgressed": 1028,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2878,7 +2883,7 @@
       "Name": "Right On Time",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2894,7 +2899,7 @@
       "Name": "Like Clockwork",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ClovemaryGift",
@@ -2926,7 +2931,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "EntresolChests1",
@@ -2958,7 +2963,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -2974,7 +2979,7 @@
       "Name": "The Betrayer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3108,9 +3113,9 @@
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 216
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3148,9 +3153,9 @@
       "ID": "ScrambotCompletion1",
       "SetID": "a9e499d",
       "Name": "Golem Hunter",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 72
     },
     {
       "ID": "ScrambotProgress1",
@@ -3158,7 +3163,7 @@
       "Name": "Golem Chaser",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "SkillCompletion1",
@@ -3222,7 +3227,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "WarwickDefeated",
@@ -3269,7 +3274,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1027,
+      "Progressed": 1028,
       "Completed": 6
     }
   ],
@@ -3277,8 +3282,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-18T08:57:59.1291337+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:10:18.8684655+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:09:28.189836+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:58:40.1314565+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:10:18.8685432+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:58:09.0668481+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:09:28.1898849+00:00"
 }

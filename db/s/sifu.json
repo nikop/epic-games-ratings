@@ -8319,9 +8319,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 734578,
+  "EOS_Progressed": 734644,
   "EOS_Completed": 12956,
-  "EOS_NewPlayers": 16615,
+  "EOS_NewPlayers": 16680,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -29874,6 +29874,11 @@
       "Time": "2023-12-18T16:08:55.6014655+00:00",
       "NumProgressed": 734578,
       "NumCompleted": 12956
+    },
+    {
+      "Time": "2023-12-18T17:08:27.7987014+00:00",
+      "NumProgressed": 734644,
+      "NumCompleted": 12956
     }
   ],
   "TotalAchievements": 60,
@@ -29885,7 +29890,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22037
+      "UsersEstimate": 22039
     },
     {
       "ID": "02_Vengeance_H1",
@@ -29893,7 +29898,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14692
+      "UsersEstimate": 14693
     },
     {
       "ID": "03_Vengeance_H2",
@@ -29917,7 +29922,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "06_Vengeance_H5",
@@ -29933,7 +29938,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2938
+      "UsersEstimate": 2939
     },
     {
       "ID": "08_Wude_H2",
@@ -29973,7 +29978,7 @@
       "Name": "Scareless",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4407
+      "UsersEstimate": 4408
     },
     {
       "ID": "13_LowAge",
@@ -29989,7 +29994,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "15_Detective_H1",
@@ -29997,7 +30002,7 @@
       "Name": "Detective Story",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2938
+      "UsersEstimate": 2939
     },
     {
       "ID": "16_Detective_H2",
@@ -30045,7 +30050,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4407
+      "UsersEstimate": 4408
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -30061,7 +30066,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14692
+      "UsersEstimate": 14693
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30077,7 +30082,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5142
+      "UsersEstimate": 5143
     },
     {
       "ID": "26_ShrineSpirit",
@@ -30149,7 +30154,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14692
+      "UsersEstimate": 14693
     },
     {
       "ID": "35_WideStrike",
@@ -30157,7 +30162,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5142
+      "UsersEstimate": 5143
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -30221,7 +30226,7 @@
       "Name": "Project Arena",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -30237,7 +30242,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -30245,7 +30250,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -30349,7 +30354,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -30364,21 +30369,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 43879,
+      "Progressed": 43945,
       "Completed": 10775
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 734578,
+      "Progressed": 734644,
       "Completed": 12956
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-18T14:03:00.2465084+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:08:55.6014651+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:08:27.7987008+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:03:10.2902302+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:08:55.6016203+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:02:47.7124705+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:08:27.7988585+00:00"
 }

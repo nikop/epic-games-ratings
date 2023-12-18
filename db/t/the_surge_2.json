@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2289,
+  "EOS_Progressed": 2290,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3558,6 +3558,11 @@
       "Time": "2023-12-18T16:05:37.6669918+00:00",
       "NumProgressed": 2289,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-18T17:04:46.148272+00:00",
+      "NumProgressed": 2290,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3609,7 +3614,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "ACHV_07",
@@ -3625,7 +3630,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACHV_09",
@@ -3769,7 +3774,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "ACHV_27",
@@ -3849,7 +3854,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACHV_37",
@@ -3857,7 +3862,7 @@
       "Name": "Luminary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "ACHV_38",
@@ -4024,7 +4029,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2289,
+      "Progressed": 2290,
       "Completed": 13
     }
   ],
@@ -4032,8 +4037,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:05:37.6669916+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:04:46.1482716+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:57:00.284762+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:59:17.1866508+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:05:37.6670381+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:58:34.1587777+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:04:46.1483211+00:00"
 }

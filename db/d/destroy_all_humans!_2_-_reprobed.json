@@ -5,7 +5,7 @@
   "Ranking_Rating": 548,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 513,
-  "Ranking_EOS_Progress": 446,
+  "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 382,
   "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 157,
@@ -276,7 +276,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 118,
+  "EOS_Progressed": 119,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
@@ -746,6 +746,11 @@
       "Time": "2023-12-18T16:08:57.8153637+00:00",
       "NumProgressed": 118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T17:08:29.4457329+00:00",
+      "NumProgressed": 119,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -788,9 +793,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -828,9 +833,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -868,9 +873,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -892,9 +897,9 @@
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1109,7 +1114,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 118,
+      "Progressed": 119,
       "Completed": 0
     }
   ],
@@ -1117,8 +1122,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:08:57.8153634+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:08:29.4457326+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:57:17.6332443+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:08:57.8153879+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:57:12.8518136+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:08:29.4457584+00:00"
 }

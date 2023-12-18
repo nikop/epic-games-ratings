@@ -317,9 +317,9 @@
       "ID": "BeatBossTing",
       "SetID": "123m9l1",
       "Name": "Divine Retribution",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "BeatBossWang",
@@ -437,9 +437,9 @@
       "ID": "SaveMatsumoto",
       "SetID": "123m9l1",
       "Name": "Captain Mustache",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SewerExplorer",
@@ -502,8 +502,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:08:05.827194+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:06:32.4284984+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:41.0518809+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:58:05.1414199+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:08:05.8272108+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:57:43.5774403+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:06:32.4285127+00:00"
 }

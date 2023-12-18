@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 25469,
+  "EOS_Progressed": 25477,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1774,
+  "EOS_NewPlayers": 1782,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -10980,6 +10980,11 @@
       "Time": "2023-12-18T16:10:08.7508654+00:00",
       "NumProgressed": 25469,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-18T17:09:20.6597344+00:00",
+      "NumProgressed": 25477,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11071,7 +11076,7 @@
       "Name": "Spells and Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -11119,7 +11124,7 @@
       "Name": "Harvest and Home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -11151,7 +11156,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -11167,7 +11172,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "BoxerBoss",
@@ -11302,21 +11307,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 25469,
+      "Progressed": 25477,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 4399,
+      "Progressed": 4407,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:10:08.7508647+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:09:20.659734+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:57:21.6500275+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:10:08.7509475+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:57:15.5538233+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:09:20.6597983+00:00"
 }

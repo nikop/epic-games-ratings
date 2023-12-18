@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -599,9 +599,9 @@
       "ID": "leader_you_are_not",
       "SetID": "84ad177",
       "Name": "A leader, you are not",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "lootaphilia",
@@ -631,9 +631,9 @@
       "ID": "mission_complete",
       "SetID": "84ad177",
       "Name": "Mission Complete",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "super_seducer",
@@ -663,9 +663,9 @@
       "ID": "this_wont_end_well",
       "SetID": "84ad177",
       "Name": "This won\u0027t end well...",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "tried_to_warn_you",
@@ -679,9 +679,9 @@
       "ID": "um_ok",
       "SetID": "84ad177",
       "Name": "Um, ok...",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 124
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -704,8 +704,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:05:03.9300469+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:04:21.2911595+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:59.0408325+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:03:33.3138396+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:05:03.9300577+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:03:03.1162783+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:04:21.2911732+00:00"
 }

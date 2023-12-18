@@ -1,7 +1,7 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.30 (Ranked 849)  
+Rating: 4.30 (Ranked 850)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -57,12 +57,12 @@ Number of Ratings: 124  (23.09.2022)
 | Eternal Oblivion | 0.00% | ~0 |
 | Lover | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 653)  
+Progressed: 7 (Ranked 650)  
 Completed: 0 (0.00%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-12-18 | 6 | 0 |
+| 2023-12-18 | 7 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

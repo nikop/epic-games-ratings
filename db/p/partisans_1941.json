@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1860,
+  "EOS_Progressed": 1861,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4449,6 +4449,11 @@
       "Time": "2023-12-17T16:09:03.0045055+00:00",
       "NumProgressed": 1860,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-18T17:09:00.6676655+00:00",
+      "NumProgressed": 1861,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4508,7 +4513,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "Defense_Common",
@@ -4572,7 +4577,7 @@
       "Name": "Grenadier",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "Hard_Serpent",
@@ -4612,7 +4617,7 @@
       "Name": "Spice It Up",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "KillAllM2",
@@ -4636,7 +4641,7 @@
       "Name": "One by One",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "Miner",
@@ -4652,7 +4657,7 @@
       "Name": "Mosquito bite",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "Scout",
@@ -4676,7 +4681,7 @@
       "Name": "War Never Changes",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "We_were_not_here",
@@ -4699,15 +4704,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1860,
+      "Progressed": 1861,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:09:41.4470546+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:09:00.667665+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.5557319+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:03:02.5915559+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:09:41.4470862+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:02:42.4738165+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:09:00.667698+00:00"
 }

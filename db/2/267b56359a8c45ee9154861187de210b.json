@@ -4,7 +4,7 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 382,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -467,17 +467,17 @@
       "ID": "airtime_mid",
       "SetID": "3448go",
       "Name": "Red-eye Flight",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "airtime_short",
       "SetID": "3448go",
       "Name": "Glider",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "beat_c1_bronze",
@@ -635,9 +635,9 @@
       "ID": "beat_c3_silver",
       "SetID": "3448go",
       "Name": "Power-Ups and Downs",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "beat_c3a_bronze",
@@ -955,9 +955,9 @@
       "ID": "rolldist_mid",
       "SetID": "3448go",
       "Name": "Marathon",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "rolldist_short",
@@ -1074,8 +1074,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:06:36.4822015+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:05:28.9211043+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:19.378274+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:59:30.5996379+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:06:36.4822707+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:58:42.7338057+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:05:28.9211741+00:00"
 }

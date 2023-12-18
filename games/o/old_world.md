@@ -9,8 +9,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 8.00% | ~1,266 |
 | Play a Single Player Game | 8.00% | ~1,266 |
 | Explorer | 7.00% | ~1,107 |
+| Friendly Family | 7.00% | ~1,107 |
 | Intrepid | 6.00% | ~949 |
-| Friendly Family | 6.00% | ~949 |
 | Able | 5.00% | ~791 |
 | Architect | 5.00% | ~791 |
 | Good | 5.00% | ~791 |
@@ -162,6 +162,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.50% | ~79 |
 | Magnificent Difficulty | 0.50% | ~79 |
 | The Eternal Treaty | 0.50% | ~79 |
+| Assyria | 0.50% | ~79 |
 | Play a Network Game | 0.50% | ~79 |
 | Conquest Victory | 0.50% | ~79 |
 | Necropolis in Waset | 0.50% | ~79 |
@@ -174,7 +175,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Five Routs | 0.40% | ~63 |
 | Run, Pheidippides, Run! | 0.40% | ~63 |
 | Nenikekamen | 0.40% | ~63 |
-| Assyria | 0.40% | ~63 |
 | Apadana in Parsa | 0.40% | ~63 |
 | Play a Free-For-All Game (>2 Players) | 0.40% | ~63 |
 | Circus Maximus in Roma | 0.40% | ~63 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,819 (Ranked 155)  
+Progressed: 15,821 (Ranked 155)  
 Completed: 5 (0.03%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -591,7 +591,7 @@ Completed: 5 (0.03%) (Ranked 343)
 | 2023-12-15 | 15,768 | 5 |
 | 2023-12-16 | 15,789 | 5 |
 | 2023-12-17 | 15,807 | 5 |
-| 2023-12-18 | 15,819 | 5 |
+| 2023-12-18 | 15,821 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 279)  
 Sum: 1,902 (Ranked 220)  

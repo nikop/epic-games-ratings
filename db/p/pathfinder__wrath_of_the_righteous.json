@@ -4625,9 +4625,9 @@
       "Count": 403
     }
   ],
-  "EOS_Progressed": 12482,
+  "EOS_Progressed": 12484,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17265,6 +17265,11 @@
       "Time": "2023-12-18T16:10:33.0535757+00:00",
       "NumProgressed": 12482,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T17:09:38.904093+00:00",
+      "NumProgressed": 12484,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17276,7 +17281,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3370
+      "UsersEstimate": 3371
     },
     {
       "ID": "02_BurningCity",
@@ -17292,7 +17297,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1747
+      "UsersEstimate": 1748
     },
     {
       "ID": "04_FithCrusade",
@@ -17300,7 +17305,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -17364,7 +17369,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "13_PathOfLich",
@@ -17372,7 +17377,7 @@
       "Name": "Path of the Lich",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "14_PathOfSwarm",
@@ -17412,7 +17417,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "19_EqualToAroden",
@@ -17500,7 +17505,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "31_DivideAndRule",
@@ -17532,7 +17537,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -17548,7 +17553,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -18203,21 +18208,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11264,
+      "Progressed": 11266,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12482,
+      "Progressed": 12484,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-17T17:59:32.4724351+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:10:33.0535754+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:09:38.9040927+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:01:40.5143317+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:10:33.0537323+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:00:10.0985189+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:09:38.9042486+00:00"
 }

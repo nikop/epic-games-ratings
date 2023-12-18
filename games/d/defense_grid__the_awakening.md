@@ -6,18 +6,18 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~398,438 |
-| Happy Returns | 78.00% | ~383,681 |
-| Hey! That's mine! | 78.00% | ~383,681 |
-| Field Promotion | 74.00% | ~364,005 |
-| Leadhead | 71.00% | ~349,248 |
-| Eradicator | 67.00% | ~329,572 |
-| Surplus | 66.00% | ~324,653 |
-| I Spy | 64.00% | ~314,815 |
-| Burn Baby Burn | 59.00% | ~290,220 |
-| Yellow Beats Green | 56.00% | ~275,463 |
-| Salvage Rights | 53.00% | ~260,706 |
-| What IS that? | 51.00% | ~250,868 |
+| First Blood | 81.00% | ~398,439 |
+| Happy Returns | 78.00% | ~383,682 |
+| Hey! That's mine! | 78.00% | ~383,682 |
+| Field Promotion | 74.00% | ~364,006 |
+| Leadhead | 71.00% | ~349,249 |
+| Eradicator | 67.00% | ~329,573 |
+| Surplus | 66.00% | ~324,654 |
+| I Spy | 64.00% | ~314,816 |
+| Burn Baby Burn | 59.00% | ~290,221 |
+| Yellow Beats Green | 56.00% | ~275,464 |
+| Salvage Rights | 53.00% | ~260,707 |
+| What IS that? | 51.00% | ~250,869 |
 | Close Call | 50.00% | ~245,950 |
 | Pew Pew | 50.00% | ~245,950 |
 | Penny Pincher | 49.00% | ~241,031 |
@@ -63,8 +63,8 @@ Number of Ratings: 1,225  (23.09.2022)
 | Master Siege Breaker | 0.80% | ~3,935 |
 | Few and Proud | 0.80% | ~3,935 |
 | Shell-shocked | 0.70% | ~3,443 |
-| Alien Tears | 0.50% | ~2,459 |
-| Full House | 0.50% | ~2,459 |
+| Alien Tears | 0.50% | ~2,460 |
+| Full House | 0.50% | ~2,460 |
 | Kickstarter | 0.30% | ~1,476 |
 | Out of Bullets | 0.30% | ~1,476 |
 | The Container | 0.30% | ~1,476 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~492 |
 | You Monster | 0.10% | ~492 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 491,899 (Ranked 38)  
+Progressed: 491,900 (Ranked 38)  
 Completed: 5 (0.00%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 5 (0.00%) (Ranked 382)
 | 2023-12-15 | 491,667 | 5 |
 | 2023-12-16 | 491,746 | 5 |
 | 2023-12-17 | 491,855 | 5 |
-| 2023-12-18 | 491,899 | 5 |
+| 2023-12-18 | 491,900 | 5 |
 ## Awards
 Max (Great for Beginners): 262  (Ranked 268)  
 Sum: 1,736 (Ranked 222)  

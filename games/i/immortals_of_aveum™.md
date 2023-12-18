@@ -5,25 +5,25 @@ Rating: 4.21 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~994 |
-| Battlefields Have Memories | 79.00% | ~903 |
-| Enlisted | 72.00% | ~823 |
-| Maybe Engage a Little | 66.00% | ~754 |
-| No More Names | 47.00% | ~537 |
-| Initiate | 33.00% | ~377 |
-| Thrada-Kul | 29.00% | ~331 |
-| Gravity-Challenged Rocks | 22.00% | ~251 |
-| Socialite | 21.00% | ~240 |
+| Unforeseen | 87.00% | ~998 |
+| Battlefields Have Memories | 79.00% | ~906 |
+| Enlisted | 72.00% | ~826 |
+| Maybe Engage a Little | 66.00% | ~757 |
+| No More Names | 47.00% | ~539 |
+| Initiate | 33.00% | ~379 |
+| Thrada-Kul | 29.00% | ~333 |
+| Gravity-Challenged Rocks | 22.00% | ~252 |
+| Socialite | 21.00% | ~241 |
 | Soldier | 18.00% | ~206 |
-| All the Major Food Groups | 17.00% | ~194 |
-| Beggars Would Ride | 15.00% | ~171 |
-| Control is an Illusion | 14.00% | ~160 |
+| All the Major Food Groups | 17.00% | ~195 |
+| Beggars Would Ride | 15.00% | ~172 |
+| Control is an Illusion | 14.00% | ~161 |
 | The Means to Save It | 11.00% | ~126 |
-| Resilience to Sin | 10.00% | ~114 |
-| A Familiar Nest | 9.00% | ~103 |
+| Resilience to Sin | 10.00% | ~115 |
+| A Familiar Nest | 10.00% | ~115 |
 | Geas Aristeya | 9.00% | ~103 |
 | Periapt Alizarin | 9.00% | ~103 |
-| A Perfect Cycle | 8.00% | ~91 |
+| A Perfect Cycle | 8.00% | ~92 |
 | Recruit | 7.00% | ~80 |
 | Armsman | 7.00% | ~80 |
 | Lights Army | 5.00% | ~57 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 920)
 | Fowl Play | 0.30% | ~3 |
 | Family Business | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,143 (Ranked 268)  
+Progressed: 1,147 (Ranked 267)  
 Completed: 2 (0.17%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 2 (0.17%) (Ranked 277)
 | 2023-12-15 | 689 | 2 |
 | 2023-12-16 | 908 | 2 |
 | 2023-12-17 | 1,065 | 2 |
-| 2023-12-18 | 1,143 | 2 |
+| 2023-12-18 | 1,147 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

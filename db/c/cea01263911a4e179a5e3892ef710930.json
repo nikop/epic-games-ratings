@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -221,9 +221,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89942,
+  "EOS_Progressed": 89944,
   "EOS_Completed": 306,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 681,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -14741,6 +14741,11 @@
       "Time": "2023-12-18T16:05:07.9160907+00:00",
       "NumProgressed": 89942,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2023-12-18T17:04:24.5391003+00:00",
+      "NumProgressed": 89944,
+      "NumCompleted": 306
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -14753,7 +14758,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 71954
+      "UsersEstimate": 71955
     },
     {
       "ID": "grp_beet",
@@ -14769,7 +14774,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 69255
+      "UsersEstimate": 69257
     },
     {
       "ID": "grp_endless",
@@ -14841,7 +14846,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 48569
+      "UsersEstimate": 48570
     },
     {
       "ID": "grp_money_tree",
@@ -14849,7 +14854,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 66557
+      "UsersEstimate": 66559
     },
     {
       "ID": "grp_speed",
@@ -14857,7 +14862,7 @@
       "Name": "As the dodo flies",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 42273
+      "UsersEstimate": 42274
     },
     {
       "ID": "grp_stone",
@@ -14873,7 +14878,7 @@
       "Name": "Birds of a Feather",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 38675
+      "UsersEstimate": 38676
     },
     {
       "ID": "grp_weekly_beaten",
@@ -14888,7 +14893,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 89942,
+      "Progressed": 89944,
       "Completed": 306
     }
   ],
@@ -14896,8 +14901,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-12-16T14:00:50.6822682+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:05:07.9160906+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:04:24.5391+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:08.8356638+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:58:22.1885325+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:05:07.9161593+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:57:54.698054+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:04:24.5391762+00:00"
 }

@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Home Sweet Home | 89.00% | ~55 |
+| Enough rooms to swing a cat | 85.00% | ~53 |
 | First to the post | 85.00% | ~53 |
-| Enough rooms to swing a cat | 84.00% | ~52 |
-| A kind of Magic | 77.00% | ~48 |
-| Connected | 69.00% | ~43 |
+| A kind of Magic | 79.00% | ~49 |
+| Connected | 71.00% | ~44 |
 | Expansion | 68.00% | ~42 |
 | Mine! | 63.00% | ~39 |
 | Harvest Time | 61.00% | ~38 |
@@ -50,13 +50,13 @@
 | Defeat Hokan | 6.00% | ~4 |
 | Defeat Isgrimm | 6.00% | ~4 |
 | Defeat Undergast | 6.00% | ~4 |
+| Lytra's Tale | 6.00% | ~4 |
 | Crypt of the Revenant | 6.00% | ~4 |
 | Balanced | 6.00% | ~4 |
 | Friend of Grey Dusk Vale | 6.00% | ~4 |
 | Defeat Ianna | 5.00% | ~3 |
 | Defeat Rohen | 5.00% | ~3 |
 | Defeat Yria | 5.00% | ~3 |
-| Lytra's Tale | 5.00% | ~3 |
 | Tuscari Sea Portal | 5.00% | ~3 |
 | Master Alchemist | 5.00% | ~3 |
 | A Monopoly of Might | 5.00% | ~3 |

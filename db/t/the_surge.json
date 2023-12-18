@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4971,
+  "EOS_Progressed": 4973,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3691,6 +3691,11 @@
       "Time": "2023-12-18T16:06:37.25699+00:00",
       "NumProgressed": 4971,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-18T17:05:29.47728+00:00",
+      "NumProgressed": 4973,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3702,7 +3707,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -3710,7 +3715,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -3718,7 +3723,7 @@
       "Name": "Big Sister",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -3750,7 +3755,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4176
+      "UsersEstimate": 4177
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3758,7 +3763,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4673
+      "UsersEstimate": 4675
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3766,7 +3771,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3828
+      "UsersEstimate": 3829
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -3774,7 +3779,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -3846,7 +3851,7 @@
       "Name": "Melting Down",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -3918,7 +3923,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3778
+      "UsersEstimate": 3779
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3934,7 +3939,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -3950,7 +3955,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2734
+      "UsersEstimate": 2735
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -3966,7 +3971,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -3974,7 +3979,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -3982,15 +3987,15 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "ID_ACHIEV_38",
       "SetID": "98bke8c",
       "Name": "I Choose You",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 895
+      "UsersEstimate": 845
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -4030,7 +4035,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -4054,7 +4059,7 @@
       "Name": "SENTINEL",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -4150,7 +4155,7 @@
       "Name": "Is This Real Life?",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -4237,15 +4242,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4971,
+      "Progressed": 4973,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:06:37.2569894+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:05:29.4772796+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:58:44.1950769+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:06:37.2570494+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:58:11.6857617+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:05:29.477339+00:00"
 }

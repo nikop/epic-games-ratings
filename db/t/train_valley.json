@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -144,9 +144,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 562,
+  "EOS_Progressed": 563,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1499,6 +1499,11 @@
       "Time": "2023-12-18T12:05:38.0922059+00:00",
       "NumProgressed": 562,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-18T17:04:51.8118293+00:00",
+      "NumProgressed": 563,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1508,9 +1513,9 @@
       "ID": "01_gettingstarted",
       "SetID": "chb1m60",
       "Name": "Getting started",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 434
     },
     {
       "ID": "02_collector",
@@ -1524,9 +1529,9 @@
       "ID": "03_philatelist",
       "SetID": "chb1m60",
       "Name": "Philatelist",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 146
     },
     {
       "ID": "04_tycoon",
@@ -1558,7 +1563,7 @@
       "Name": "Europe",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "08_america",
@@ -1574,7 +1579,7 @@
       "Name": "Russia",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "10_japan",
@@ -1596,9 +1601,9 @@
       "ID": "12_roll",
       "SetID": "chb1m60",
       "Name": "Let\u0027s roll!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 146
     },
     {
       "ID": "13_bunkrupt",
@@ -1654,7 +1659,7 @@
       "Name": "Just in time!",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "20_sabotage",
@@ -1668,9 +1673,9 @@
       "ID": "21_missed",
       "SetID": "chb1m60",
       "Name": "Missed it!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 101
     },
     {
       "ID": "22_ouroboros",
@@ -1678,7 +1683,7 @@
       "Name": "Ouroboros",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "23_closecall",
@@ -1742,7 +1747,7 @@
       "Name": "Completely nuts!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "31_chancellor",
@@ -1750,7 +1755,7 @@
       "Name": "\u0421hancellor",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "32_engineer",
@@ -1766,15 +1771,15 @@
       "Name": "Peacemaker",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "34_needtothink",
       "SetID": "chb1m60",
       "Name": "Need to think",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 236
     },
     {
       "ID": "35_achtung",
@@ -1782,7 +1787,7 @@
       "Name": "Achtung!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "36_supercrash",
@@ -1790,7 +1795,7 @@
       "Name": "Supercrash!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "37_maniacvandal",
@@ -1821,15 +1826,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 562,
+      "Progressed": 563,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-18T07:02:31.8741871+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:05:45.2341171+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:04:51.8118287+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2539038+00:00",
   "LastUpdate_Ratings": "2023-12-18T16:02:43.3975348+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:05:45.2341428+00:00"
+  "LastUpdate_Achievements": "2023-12-18T17:04:51.8118625+00:00"
 }

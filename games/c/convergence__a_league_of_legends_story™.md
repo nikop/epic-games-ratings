@@ -8,7 +8,7 @@ Rating: 4.64 (Ranked 339)
 | Time Heals All Wounds | 37.00% | ~380 |
 | Rail Rat | 29.00% | ~298 |
 | The Mysterious Stranger | 28.00% | ~288 |
-| Immaculate Aim | 24.00% | ~246 |
+| Immaculate Aim | 24.00% | ~247 |
 | Make Up For Lost Time | 23.00% | ~236 |
 | Time Flies | 23.00% | ~236 |
 | The Prince in Heels | 23.00% | ~236 |
@@ -16,15 +16,15 @@ Rating: 4.64 (Ranked 339)
 | The Steel Shadow | 22.00% | ~226 |
 | The Harder They Fall | 22.00% | ~226 |
 | No, Thanks! | 22.00% | ~226 |
-| Breaking Down Barriers | 22.00% | ~226 |
 | Honest Mistake | 22.00% | ~226 |
 | Fast Learner | 22.00% | ~226 |
 | Immaculate Aim | 22.00% | ~226 |
+| Breaking Down Barriers | 21.00% | ~216 |
 | The Wicked Twins | 21.00% | ~216 |
-| Right On Time | 20.00% | ~205 |
-| Like Clockwork | 20.00% | ~205 |
-| The Betrayer | 20.00% | ~205 |
-| Golem Chaser | 20.00% | ~205 |
+| Right On Time | 20.00% | ~206 |
+| Like Clockwork | 20.00% | ~206 |
+| The Betrayer | 20.00% | ~206 |
+| Golem Chaser | 20.00% | ~206 |
 | Check Your Pulse | 19.00% | ~195 |
 | The Loose Cannon | 18.00% | ~185 |
 | The Family Fortune | 18.00% | ~185 |
@@ -41,13 +41,13 @@ Rating: 4.64 (Ranked 339)
 | Syron for Hope | 11.00% | ~113 |
 | Factorywood Explorer | 10.00% | ~103 |
 | Theater Explorer | 10.00% | ~103 |
-| Cultivair Explorer | 9.00% | ~92 |
-| Fairgrounds Explorer | 9.00% | ~92 |
+| Cultivair Explorer | 9.00% | ~93 |
+| Fairgrounds Explorer | 9.00% | ~93 |
 | Corin Goes Home | 8.00% | ~82 |
 | Sartorialist | 8.00% | ~82 |
 | Entresol Explorer | 8.00% | ~82 |
+| Golem Hunter | 7.00% | ~72 |
 | Hexlock for Protection | 6.00% | ~62 |
-| Golem Hunter | 6.00% | ~62 |
 | Clovemary for Remembering | 5.00% | ~51 |
 | Rungs Was Right | 5.00% | ~51 |
 | Wunderkind | 2.00% | ~21 |
@@ -59,7 +59,7 @@ Rating: 4.64 (Ranked 339)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,027 (Ranked 275)  
+Progressed: 1,028 (Ranked 275)  
 Completed: 6 (0.58%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 6 (0.58%) (Ranked 200)
 | 2023-12-15 | 978 | 6 |
 | 2023-12-16 | 1,000 | 6 |
 | 2023-12-17 | 1,021 | 6 |
-| 2023-12-18 | 1,027 | 6 |
+| 2023-12-18 | 1,028 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

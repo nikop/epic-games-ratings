@@ -861,9 +861,9 @@
       "ID": "killZombie50",
       "SetID": "ci65fo0",
       "Name": "Threat to the undead",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "locBanditBoss",
@@ -1181,9 +1181,9 @@
       "ID": "questTheft",
       "SetID": "ci65fo0",
       "Name": "Dark business",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "questWellCleaner",
@@ -1218,8 +1218,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:09:49.2634058+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:09:06.4229831+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.21897+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:58:17.5181247+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:09:49.2634616+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:57:51.6116253+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:09:06.423072+00:00"
 }

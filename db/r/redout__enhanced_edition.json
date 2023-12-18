@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237375,
+  "EOS_Progressed": 237377,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 0,
@@ -25687,6 +25687,11 @@
       "Time": "2023-12-18T16:07:42.6789284+00:00",
       "NumProgressed": 237375,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-18T17:06:16.295159+00:00",
+      "NumProgressed": 237377,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -25714,7 +25719,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66465
+      "UsersEstimate": 66466
     },
     {
       "ID": "CENTAUR",
@@ -25922,7 +25927,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52222
+      "UsersEstimate": 52223
     },
     {
       "ID": "TACTICIAN",
@@ -25946,7 +25951,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52222
+      "UsersEstimate": 52223
     },
     {
       "ID": "TUNINGMANIAC",
@@ -25962,22 +25967,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97324
+      "UsersEstimate": 97325
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 237375,
+      "Progressed": 237377,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:07:42.6789281+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:06:16.2951586+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:19.1296374+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:58:36.1908483+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:07:42.6790346+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:58:05.733334+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:06:16.2953028+00:00"
 }

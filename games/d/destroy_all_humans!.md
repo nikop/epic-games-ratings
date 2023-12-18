@@ -22,6 +22,7 @@ Number of Ratings: 85  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 18.00% | ~2 |
 | Arkvoodle Doodle | 9.00% | ~1 |
 | Deincarnated | 9.00% | ~1 |
+| Rock of the Bay | 9.00% | ~1 |
 | Furon Fashion | 9.00% | ~1 |
 | Path of the Furon | 9.00% | ~1 |
 | Earthly Pleasures | 9.00% | ~1 |
@@ -32,7 +33,6 @@ Number of Ratings: 85  (23.09.2022)
 | Scuttled | 0.00% | ~0 |
 | Transmitting From Sol-3 | 0.00% | ~0 |
 | Cult Following | 0.00% | ~0 |
-| Rock of the Bay | 0.00% | ~0 |
 | Ouch of Body Experience | 0.00% | ~0 |
 | To Russia With Love | 0.00% | ~0 |
 | PK Slam Dunk | 0.00% | ~0 |

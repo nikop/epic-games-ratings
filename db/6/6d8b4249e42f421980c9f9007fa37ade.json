@@ -2,7 +2,7 @@
   "ID": "6d8b4249e42f421980c9f9007fa37ade",
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
-  "Ranking_EOS_Progress": 446,
+  "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 382,
   "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 157,
@@ -629,9 +629,9 @@
       "ID": "Epic_Experience_100000000",
       "SetID": "ba1m2fc",
       "Name": "Sea of Chaos",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Epic_Firefly_1",
@@ -685,9 +685,9 @@
       "ID": "Epic_HeartlessBow_1",
       "SetID": "ba1m2fc",
       "Name": "Heart-aimed Arrow",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Epic_HolyLight_1",
@@ -869,9 +869,9 @@
       "ID": "Epic_Swamp_1",
       "SetID": "ba1m2fc",
       "Name": "Fallen Eden",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Epic_Times_100",
@@ -924,8 +924,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:06:34.3879048+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:05:27.3457206+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:10.2907152+00:00",
-  "LastUpdate_Ratings": "2023-12-18T15:59:29.8495557+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:06:34.3879409+00:00"
+  "LastUpdate_Ratings": "2023-12-18T16:58:42.3650865+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:05:27.3457503+00:00"
 }

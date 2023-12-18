@@ -3,8 +3,8 @@
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 438,
-  "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_Completed": 68,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.4,
+  "EOS_Completed_Percentage": 6.35,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -659,6 +659,11 @@
       "Time": "2023-12-18T12:05:38.3567238+00:00",
       "NumProgressed": 125,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-18T17:04:52.1476402+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -695,7 +700,7 @@
       "Name": "Young Spirits",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Fletny",
@@ -725,31 +730,31 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "Kour",
       "SetID": "ag48e8e",
       "Name": "Spiral Smoke",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "KrabiPyramida",
       "SetID": "ag48e8e",
       "Name": "Crab Pyramid",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 30,
       "UsersEstimate": 76
     },
@@ -759,7 +764,7 @@
       "Name": "Blossoms",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "MluviciPapouch",
@@ -767,7 +772,7 @@
       "Name": "Mimicking Parrot",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Myska",
@@ -791,7 +796,7 @@
       "Name": "Liana Bats",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Pejsek",
@@ -813,9 +818,9 @@
       "ID": "Prstenec",
       "SetID": "ag48e8e",
       "Name": "Cosmic Ring",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "Rybka",
@@ -829,9 +834,9 @@
       "ID": "Sova",
       "SetID": "ag48e8e",
       "Name": "Owl",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "SpiciPapouch",
@@ -839,7 +844,7 @@
       "Name": "Sleeping Parrot",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Sputnik2",
@@ -847,15 +852,15 @@
       "Name": "Sputnik",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Stonozka",
       "SetID": "ag48e8e",
       "Name": "Centipede",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "Strom",
@@ -869,9 +874,9 @@
       "ID": "Termit",
       "SetID": "ag48e8e",
       "Name": "Saint Termite",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 37
     },
     {
       "ID": "Truhlice",
@@ -885,9 +890,9 @@
       "ID": "Xicht",
       "SetID": "ag48e8e",
       "Name": "Rockheads",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "Zelvak",
@@ -910,14 +915,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-18T16:05:45.7131228+00:00",
+  "LastChanged_Achievements": "2023-12-18T17:04:52.1476397+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9485544+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:02:59.6848125+00:00",
-  "LastUpdate_Achievements": "2023-12-18T16:05:45.7131437+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:02:40.5914343+00:00",
+  "LastUpdate_Achievements": "2023-12-18T17:04:52.147659+00:00"
 }
