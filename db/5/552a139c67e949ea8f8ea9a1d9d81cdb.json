@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1409,
+  "EOS_Progressed": 1410,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3327,6 +3327,11 @@
       "Time": "2023-12-18T01:54:58.9683807+00:00",
       "NumProgressed": 1409,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T03:07:01.1331563+00:00",
+      "NumProgressed": 1410,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3393,9 +3398,9 @@
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "5k00jcd",
       "Name": "Versatile riding",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -3706,20 +3711,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1409,
+      "Progressed": 1410,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1077,
+      "Progressed": 1078,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-18T02:29:23.9113675+00:00",
+  "LastChanged_Achievements": "2023-12-18T03:07:01.1331561+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:22:33.0290041+00:00",
-  "LastUpdate_Achievements": "2023-12-18T02:29:23.9114359+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:59:56.0942279+00:00",
+  "LastUpdate_Achievements": "2023-12-18T03:07:01.1331966+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 78.00% | ~54,205 |
-| Initial Capital | 65.00% | ~45,170 |
-| Moneybags | 42.00% | ~29,187 |
-| Junior Supply Officer | 42.00% | ~29,187 |
-| Naval Warfare. Arson | 32.00% | ~22,238 |
-| Naval Warfare. Ramming | 31.00% | ~21,543 |
-| Amateur | 29.00% | ~20,153 |
-| Naval Warfare. Tactics | 29.00% | ~20,153 |
-| Naval Constructor | 29.00% | ~20,153 |
-| Naval Warfare. Weaponry Basics | 21.00% | ~14,594 |
-| Naval Warfare. Lucky Shot | 19.00% | ~13,204 |
-| Naval Warfare. Flooding | 18.00% | ~12,509 |
-| Business Magnate | 15.00% | ~10,424 |
-| Battle Hero | 14.00% | ~9,729 |
-| Supply Officer | 12.00% | ~8,339 |
-| Smooth Supply | 12.00% | ~8,339 |
-| Warrior | 11.00% | ~7,644 |
+| Junior Naval Designer | 78.00% | ~54,213 |
+| Initial Capital | 65.00% | ~45,178 |
+| Moneybags | 42.00% | ~29,192 |
+| Junior Supply Officer | 42.00% | ~29,192 |
+| Naval Warfare. Arson | 32.00% | ~22,241 |
+| Naval Warfare. Ramming | 31.00% | ~21,546 |
+| Amateur | 29.00% | ~20,156 |
+| Naval Warfare. Tactics | 29.00% | ~20,156 |
+| Naval Constructor | 29.00% | ~20,156 |
+| Naval Warfare. Weaponry Basics | 21.00% | ~14,596 |
+| Naval Warfare. Lucky Shot | 19.00% | ~13,206 |
+| Naval Warfare. Flooding | 18.00% | ~12,511 |
+| Business Magnate | 15.00% | ~10,426 |
+| Battle Hero | 14.00% | ~9,731 |
+| Supply Officer | 12.00% | ~8,340 |
+| Smooth Supply | 12.00% | ~8,340 |
+| Warrior | 11.00% | ~7,645 |
 | Veteran | 7.00% | ~4,865 |
 | Legend of the Seas | 3.00% | ~2,085 |
 | Chief Naval Architect | 3.00% | ~2,085 |
@@ -40,18 +40,18 @@ Number of Ratings: 4,733  (23.09.2022)
 | American Cruisers | 1.00% | ~695 |
 | Secret Instructions | 0.60% | ~417 |
 | Raider | 0.60% | ~417 |
-| Experienced One | 0.50% | ~347 |
-| Ravager | 0.30% | ~208 |
-| "Yamamoto Isoroku" | 0.30% | ~208 |
-| "Yamamoto Isoroku" | 0.30% | ~208 |
+| Experienced One | 0.50% | ~348 |
+| Ravager | 0.30% | ~209 |
+| "Yamamoto Isoroku" | 0.30% | ~209 |
+| "Yamamoto Isoroku" | 0.30% | ~209 |
 | "Honorable Service" | 0.20% | ~139 |
 | Hit Hard! Hit Fast! Hit Often! | 0.20% | ~139 |
-| "Science of Victory" with Honors | 0.10% | ~69 |
-| "Honorable Service" with Honors | 0.10% | ~69 |
-| "Yamamoto Isoroku" with Honors | 0.10% | ~69 |
-| Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~69 |
+| "Science of Victory" with Honors | 0.10% | ~70 |
+| "Honorable Service" with Honors | 0.10% | ~70 |
+| "Yamamoto Isoroku" with Honors | 0.10% | ~70 |
+| Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,493 (Ranked 105)  
+Progressed: 69,504 (Ranked 105)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-15 | 67,742 | 0 |
 | 2023-12-16 | 68,649 | 0 |
 | 2023-12-17 | 69,433 | 0 |
-| 2023-12-18 | 69,493 | 0 |
+| 2023-12-18 | 69,504 | 0 |
 ## Awards
 Max (Relaxing): 1,608  (Ranked 127)  
 Sum: 13,453 (Ranked 78)  

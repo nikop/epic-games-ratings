@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252275,
+  "EOS_Progressed": 252276,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21567,6 +21567,11 @@
       "Time": "2023-12-18T02:33:22.9813175+00:00",
       "NumProgressed": 252275,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-18T03:10:14.9456184+00:00",
+      "NumProgressed": 252276,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -21626,7 +21631,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15136
+      "UsersEstimate": 15137
     },
     {
       "ID": "canYouDigIt",
@@ -21810,7 +21815,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35318
+      "UsersEstimate": 35319
     },
     {
       "ID": "myFirstRunbow",
@@ -21882,7 +21887,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55500
+      "UsersEstimate": 55501
     },
     {
       "ID": "thunderstruck",
@@ -21945,7 +21950,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252275,
+      "Progressed": 252276,
       "Completed": 6
     }
   ],
@@ -21953,8 +21958,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-18T02:33:22.9813171+00:00",
+  "LastChanged_Achievements": "2023-12-18T03:10:14.9456181+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.4778344+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:21:27.2689133+00:00",
-  "LastUpdate_Achievements": "2023-12-18T02:33:22.9814434+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:58:18.3822684+00:00",
+  "LastUpdate_Achievements": "2023-12-18T03:10:14.9457421+00:00"
 }

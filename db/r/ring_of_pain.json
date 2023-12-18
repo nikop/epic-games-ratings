@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3694,7 +3694,7 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241213,
+  "EOS_Progressed": 241215,
   "EOS_Completed": 299,
   "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 6,
@@ -28584,6 +28584,11 @@
       "Time": "2023-12-18T01:58:40.867239+00:00",
       "NumProgressed": 241213,
       "NumCompleted": 299
+    },
+    {
+      "Time": "2023-12-18T03:10:39.759508+00:00",
+      "NumProgressed": 241215,
+      "NumCompleted": 299
     }
   ],
   "TotalAchievements": 138,
@@ -28715,7 +28720,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -28995,7 +29000,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "KILL1000",
@@ -29243,7 +29248,7 @@
       "Name": "A Quick Escape",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "PETRIFY50",
@@ -29347,7 +29352,7 @@
       "Name": "Explorer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "SPEEDRUN10",
@@ -29411,7 +29416,7 @@
       "Name": "An Offering",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -29698,13 +29703,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241213,
+      "Progressed": 241215,
       "Completed": 299
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2693,
+      "Progressed": 2695,
       "Completed": 406
     }
   ],
@@ -29712,8 +29717,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-17T13:00:27.9873686+00:00",
-  "LastChanged_Achievements": "2023-12-18T02:33:41.9312783+00:00",
+  "LastChanged_Achievements": "2023-12-18T03:10:39.7595077+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.1397919+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:21:32.0314373+00:00",
-  "LastUpdate_Achievements": "2023-12-18T02:33:41.9315187+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:58:25.5490261+00:00",
+  "LastUpdate_Achievements": "2023-12-18T03:10:39.7597543+00:00"
 }

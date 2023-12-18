@@ -269,7 +269,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 333187,
+  "EOS_Progressed": 333189,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 2068,
   "EOS_NewCompleters": 0,
@@ -14124,6 +14124,11 @@
       "Time": "2023-12-18T02:32:02.804901+00:00",
       "NumProgressed": 333187,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T03:08:22.8648359+00:00",
+      "NumProgressed": 333189,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -14160,7 +14165,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 146602
+      "UsersEstimate": 146603
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -14176,7 +14181,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 69969
+      "UsersEstimate": 69970
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -14192,7 +14197,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 39982
+      "UsersEstimate": 39983
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -14512,20 +14517,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 169925
+      "UsersEstimate": 169926
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 333187,
+      "Progressed": 333189,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 333176,
+      "Progressed": 333178,
       "Completed": 1
     }
   ],
@@ -14533,8 +14538,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-12-18T00:02:47.04489+00:00",
-  "LastChanged_Achievements": "2023-12-18T02:32:02.8049006+00:00",
+  "LastChanged_Achievements": "2023-12-18T03:08:22.8648356+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:14.2325481+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:26:33.4725539+00:00",
-  "LastUpdate_Achievements": "2023-12-18T02:32:02.8050177+00:00"
+  "LastUpdate_Ratings": "2023-12-18T03:02:54.1871165+00:00",
+  "LastUpdate_Achievements": "2023-12-18T03:08:22.8649135+00:00"
 }

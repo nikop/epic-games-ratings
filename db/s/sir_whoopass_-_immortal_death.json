@@ -800,9 +800,9 @@
       "ID": "COWBOY_1",
       "SetID": "9gfkh7c",
       "Name": "Yeehaw!!!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "DIE_1",
@@ -1271,8 +1271,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-12-18T02:33:38.7925866+00:00",
+  "LastChanged_Achievements": "2023-12-18T03:10:36.5184047+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2372178+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:26:50.8038116+00:00",
-  "LastUpdate_Achievements": "2023-12-18T02:33:38.7926651+00:00"
+  "LastUpdate_Ratings": "2023-12-18T03:03:20.7162629+00:00",
+  "LastUpdate_Achievements": "2023-12-18T03:10:36.5184684+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 629,
+  "EOS_Progressed": 630,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2082,6 +2082,11 @@
       "Time": "2023-12-18T01:57:16.8087309+00:00",
       "NumProgressed": 629,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T03:09:16.0673064+00:00",
+      "NumProgressed": 630,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -2093,7 +2098,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2109,7 +2114,7 @@
       "Name": "Guardian",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -2117,7 +2122,7 @@
       "Name": "Nosebleeder",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -2227,9 +2232,9 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 239
+      "UsersEstimate": 233
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2245,7 +2250,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2261,7 +2266,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2349,7 +2354,7 @@
       "Name": "Storm Traveller",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2452,7 +2457,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 629,
+      "Progressed": 630,
       "Completed": 1
     }
   ],
@@ -2460,8 +2465,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-18T02:32:41.247224+00:00",
+  "LastChanged_Achievements": "2023-12-18T03:09:16.0673059+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:00.9363361+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:23:11.0065368+00:00",
-  "LastUpdate_Achievements": "2023-12-18T02:32:41.2472629+00:00"
+  "LastUpdate_Ratings": "2023-12-18T03:00:52.9687872+00:00",
+  "LastUpdate_Achievements": "2023-12-18T03:09:16.0673398+00:00"
 }

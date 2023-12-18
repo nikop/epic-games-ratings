@@ -6,20 +6,20 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~309,846 |
+| Dealmaker | 73.00% | ~309,847 |
 | Full garage | 61.00% | ~258,913 |
 | To the eyeballs! | 51.00% | ~216,468 |
-| Individual delivery | 47.00% | ~199,490 |
-| Non-Stop | 45.00% | ~191,001 |
+| Individual delivery | 47.00% | ~199,491 |
+| Non-Stop | 45.00% | ~191,002 |
 | Juggler | 36.00% | ~152,801 |
-| Forgot something | 35.00% | ~148,556 |
+| Forgot something | 35.00% | ~148,557 |
 | Close call! | 30.00% | ~127,334 |
 | Get out my way | 28.00% | ~118,845 |
 | Common cause | 26.00% | ~110,356 |
 | Critical care | 26.00% | ~110,356 |
 | Mega-railroad | 23.00% | ~97,623 |
 | Upgrade complete | 23.00% | ~97,623 |
-| Just in time! | 18.00% | ~76,400 |
+| Just in time! | 18.00% | ~76,401 |
 | Builder | 17.00% | ~72,156 |
 | Long Haul | 17.00% | ~72,044 |
 | Steam Age | 16.00% | ~67,912 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~424 |
 | World Zapper | 0.10% | ~424 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 424,447 (Ranked 45)  
+Progressed: 424,448 (Ranked 45)  
 Completed: 23 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 23 (0.01%) (Ranked 356)
 | 2023-12-15 | 423,800 | 23 |
 | 2023-12-16 | 424,114 | 23 |
 | 2023-12-17 | 424,424 | 23 |
-| 2023-12-18 | 424,447 | 23 |
+| 2023-12-18 | 424,448 | 23 |
 ## Awards
 Max (Challenging Puzzles): 969  (Ranked 160)  
 Sum: 1,982 (Ranked 217)  

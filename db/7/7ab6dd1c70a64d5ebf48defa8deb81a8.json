@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 760,
+  "EOS_Progressed": 761,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 498,
+  "EOS_NewPlayers": 499,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1590,6 +1590,11 @@
       "Time": "2023-12-18T02:33:36.0044886+00:00",
       "NumProgressed": 760,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T03:10:32.7602238+00:00",
+      "NumProgressed": 761,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1599,17 +1604,17 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_03",
@@ -1657,7 +1662,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_09",
@@ -1775,9 +1780,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_24",
@@ -1888,14 +1893,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 760,
+      "Progressed": 761,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-18T02:33:36.0044883+00:00",
+  "LastChanged_Achievements": "2023-12-18T03:10:32.7602236+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:23:05.5466658+00:00",
-  "LastUpdate_Achievements": "2023-12-18T02:33:36.0045383+00:00"
+  "LastUpdate_Ratings": "2023-12-18T03:00:44.5357072+00:00",
+  "LastUpdate_Achievements": "2023-12-18T03:10:32.7602466+00:00"
 }

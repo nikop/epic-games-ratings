@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 746,
+  "EOS_Progressed": 747,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.04,
+  "EOS_Completed_Percentage": 8.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -571,6 +571,11 @@
       "Time": "2023-12-17T13:06:49.9387673+00:00",
       "NumProgressed": 746,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-18T03:05:13.7706144+00:00",
+      "NumProgressed": 747,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -598,7 +603,7 @@
       "Name": "...And Your Tax Money",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACHIEVEMENT004",
@@ -766,7 +771,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -774,7 +779,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -798,7 +803,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -838,7 +843,7 @@
       "Name": "Rune Scholar",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT034",
@@ -854,7 +859,7 @@
       "Name": "First Time Fishing",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -862,7 +867,7 @@
       "Name": "First Time Hunting",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -886,7 +891,7 @@
       "Name": "Meat Master",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT040",
@@ -894,7 +899,7 @@
       "Name": "Rune Wall Master",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACHIEVEMENT041",
@@ -926,7 +931,7 @@
       "Name": "The Lava Ruins...On Foot!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHIEVEMENT045",
@@ -981,15 +986,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 746,
+      "Progressed": 747,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-18T02:28:08.0774359+00:00",
+  "LastChanged_Achievements": "2023-12-18T03:05:13.770614+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:14.9591133+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:23:40.4852311+00:00",
-  "LastUpdate_Achievements": "2023-12-18T02:28:08.0774767+00:00"
+  "LastUpdate_Ratings": "2023-12-18T03:01:36.7892796+00:00",
+  "LastUpdate_Achievements": "2023-12-18T03:05:13.7706468+00:00"
 }

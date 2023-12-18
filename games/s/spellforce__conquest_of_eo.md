@@ -10,8 +10,8 @@
 | A kind of Magic | 80.00% | ~48 |
 | Connected | 72.00% | ~43 |
 | Expansion | 70.00% | ~42 |
+| Mine! | 65.00% | ~39 |
 | Harvest Time | 63.00% | ~38 |
-| Mine! | 63.00% | ~38 |
 | Artificer's Apprentice | 58.00% | ~35 |
 | Fly the friendly Sky | 48.00% | ~29 |
 | Get out of here! | 47.00% | ~28 |

@@ -10,7 +10,7 @@ Rating: 4.19 (Ranked 940)
 | Paper Jams | 12.00% | ~2,134 |
 | The Outer Way | 12.00% | ~2,134 |
 | Desperate Times | 11.00% | ~1,956 |
-| Float Like A Butterfly | 10.00% | ~1,778 |
+| Float Like A Butterfly | 10.00% | ~1,779 |
 | Chew 'Em Up | 9.00% | ~1,601 |
 | Reforged | 9.00% | ~1,601 |
 | Workplace Hazard | 8.00% | ~1,423 |
@@ -37,7 +37,7 @@ Rating: 4.19 (Ranked 940)
 | Grim Reaper | 0.80% | ~142 |
 | Information Overload | 0.80% | ~46 |
 | Parole Denied | 0.70% | ~40 |
-| Mugshot | 0.70% | ~124 |
+| Mugshot | 0.70% | ~125 |
 | Instigator | 0.70% | ~40 |
 | Quick Pick | 0.60% | ~34 |
 | Subject Alpha | 0.40% | ~23 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 940)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,785 (Ranked 149)  
+Progressed: 17,786 (Ranked 149)  
 Completed: 82 (0.46%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 82 (0.46%) (Ranked 217)
 | 2023-12-15 | 17,123 | 82 |
 | 2023-12-16 | 17,442 | 82 |
 | 2023-12-17 | 17,760 | 82 |
-| 2023-12-18 | 17,785 | 82 |
+| 2023-12-18 | 17,786 | 82 |
 ## Awards
 Max (Amazing Storytelling): 87  (Ranked 388)  
 Sum: 516 (Ranked 328)  

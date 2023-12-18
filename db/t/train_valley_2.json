@@ -3833,9 +3833,9 @@
       "Count": 57
     }
   ],
-  "EOS_Progressed": 424447,
+  "EOS_Progressed": 424448,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 1703,
+  "EOS_NewPlayers": 1698,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22833,6 +22833,11 @@
       "Time": "2023-12-18T02:29:35.2365927+00:00",
       "NumProgressed": 424447,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-12-18T03:07:16.9111152+00:00",
+      "NumProgressed": 424448,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 89,
@@ -22972,7 +22977,7 @@
       "Name": "Dealmaker",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 309846
+      "UsersEstimate": 309847
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -23012,7 +23017,7 @@
       "Name": "Forgot something",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 148556
+      "UsersEstimate": 148557
     },
     {
       "ID": "AchievementForgotten",
@@ -23068,7 +23073,7 @@
       "Name": "Individual delivery",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 199490
+      "UsersEstimate": 199491
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -23132,7 +23137,7 @@
       "Name": "Just in time!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 76400
+      "UsersEstimate": 76401
     },
     {
       "ID": "AchievementLargeConstruction",
@@ -23220,7 +23225,7 @@
       "Name": "Non-Stop",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 191001
+      "UsersEstimate": 191002
     },
     {
       "ID": "AchievementOneWay",
@@ -23555,21 +23560,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 423788,
+      "Progressed": 423789,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 424447,
+      "Progressed": 424448,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-12-17T17:02:52.9205309+00:00",
-  "LastChanged_Achievements": "2023-12-18T02:29:35.2365923+00:00",
+  "LastChanged_Achievements": "2023-12-18T03:07:16.9111144+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:13.6829076+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:26:32.9809522+00:00",
-  "LastUpdate_Achievements": "2023-12-18T02:29:35.2367496+00:00"
+  "LastUpdate_Ratings": "2023-12-18T03:02:53.2521885+00:00",
+  "LastUpdate_Achievements": "2023-12-18T03:07:16.9112537+00:00"
 }

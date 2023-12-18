@@ -6,22 +6,22 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~373,354 |
-| Now You're Talking | 62.00% | ~330,685 |
-| Steel Yourself | 62.00% | ~330,685 |
+| First Step | 70.00% | ~373,356 |
+| Now You're Talking | 62.00% | ~330,686 |
+| Steel Yourself | 62.00% | ~330,686 |
 | Window Dressing | 50.00% | ~266,682 |
-| Trigger Happy | 46.00% | ~245,347 |
-| Riverborn | 45.00% | ~240,013 |
-| Starry Eyed | 34.00% | ~181,343 |
-| Poking Around | 34.00% | ~181,343 |
-| Talk of the Town | 24.00% | ~128,007 |
-| AAARR! | 23.00% | ~122,673 |
-| Hello Darkness | 23.00% | ~122,673 |
+| Trigger Happy | 46.00% | ~245,348 |
+| Riverborn | 45.00% | ~240,014 |
+| Starry Eyed | 34.00% | ~181,344 |
+| Poking Around | 34.00% | ~181,344 |
+| Talk of the Town | 24.00% | ~128,008 |
+| AAARR! | 23.00% | ~122,674 |
+| Hello Darkness | 23.00% | ~122,674 |
 | Wind At Our Backs | 22.00% | ~117,340 |
 | To the Beat | 20.00% | ~106,673 |
 | Sunny Shores | 17.00% | ~90,672 |
 | Sunday Best | 16.00% | ~85,338 |
-| To Victory! | 15.00% | ~80,004 |
+| To Victory! | 15.00% | ~80,005 |
 | Two of a Kind | 14.00% | ~74,671 |
 | Keep On Trucking | 13.00% | ~69,337 |
 | Going on an Adventure | 11.00% | ~58,670 |
@@ -31,8 +31,8 @@ Number of Ratings: 617  (23.09.2022)
 | Road Less Travelled | 9.00% | ~48,003 |
 | Lost and Found | 9.00% | ~48,003 |
 | Under the Radar | 8.00% | ~42,669 |
-| Partner in Crime | 7.00% | ~37,335 |
-| Hard to Hear | 7.00% | ~37,335 |
+| Partner in Crime | 7.00% | ~37,336 |
+| Hard to Hear | 7.00% | ~37,336 |
 | Moving On Up | 6.00% | ~32,002 |
 | Owl Knows Best | 6.00% | ~32,002 |
 | Mind the Moose | 6.00% | ~32,002 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,600 |
 | Point Taken | 0.20% | ~1,067 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533,363 (Ranked 35)  
+Progressed: 533,365 (Ranked 35)  
 Completed: 510 (0.10%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 510 (0.10%) (Ranked 298)
 | 2023-12-15 | 533,198 | 509 |
 | 2023-12-16 | 533,271 | 510 |
 | 2023-12-17 | 533,354 | 510 |
-| 2023-12-18 | 533,363 | 510 |
+| 2023-12-18 | 533,365 | 510 |
 ## Awards
 Max (Relaxing): 21  (Ranked 555)  
 Sum: 21 (Ranked 557)  

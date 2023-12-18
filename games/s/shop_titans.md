@@ -9,35 +9,35 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 8.00% | ~11,692 |
 | Basic in Bulk | 8.00% | ~11,692 |
 | Titan's First Steps | 8.00% | ~11,692 |
-| Tinkle of Coins | 7.00% | ~10,230 |
+| Tinkle of Coins | 7.00% | ~10,231 |
 | Disintermediation | 6.00% | ~8,769 |
 | Capitalism Ho! | 6.00% | ~8,769 |
-| Another Satisfied Customer | 5.00% | ~7,307 |
-| It's Free Real Estate | 5.00% | ~7,307 |
-| Budding Merchant | 5.00% | ~7,307 |
-| Own the Means of Production | 5.00% | ~7,307 |
+| Another Satisfied Customer | 5.00% | ~7,308 |
+| It's Free Real Estate | 5.00% | ~7,308 |
+| Budding Merchant | 5.00% | ~7,308 |
+| Own the Means of Production | 5.00% | ~7,308 |
 | The Daily Grind | 4.00% | ~5,846 |
 | One Easy Payment | 4.00% | ~5,846 |
 | Some Assembly Required | 4.00% | ~5,846 |
 | Pretty Penny | 4.00% | ~5,846 |
 | One-Armed Bandit | 4.00% | ~5,846 |
 | Through Repetition, Perfection | 4.00% | ~5,846 |
-| On the Path to Greatness | 3.00% | ~4,384 |
-| Ascended | 3.00% | ~4,384 |
-| Vanity, Verily | 3.00% | ~4,384 |
-| Bounty Hunters | 3.00% | ~4,384 |
-| Blank Page Syndrome | 3.00% | ~4,384 |
-| Demand for Supplies | 3.00% | ~4,384 |
-| Flooding the Market | 3.00% | ~4,384 |
-| Where it Hurts | 3.00% | ~4,384 |
-| Efficient Floor Space | 3.00% | ~4,384 |
-| Gem Expert | 3.00% | ~4,384 |
-| Gild-Gotten Goods | 3.00% | ~4,384 |
-| Helping Hand | 3.00% | ~4,384 |
-| Accomplished Merchant | 3.00% | ~4,384 |
-| Dungeon Imports | 3.00% | ~4,384 |
-| Did we pack lunch? | 3.00% | ~4,384 |
-| Arcane Industries | 3.00% | ~4,384 |
+| On the Path to Greatness | 3.00% | ~4,385 |
+| Ascended | 3.00% | ~4,385 |
+| Vanity, Verily | 3.00% | ~4,385 |
+| Bounty Hunters | 3.00% | ~4,385 |
+| Blank Page Syndrome | 3.00% | ~4,385 |
+| Demand for Supplies | 3.00% | ~4,385 |
+| Flooding the Market | 3.00% | ~4,385 |
+| Where it Hurts | 3.00% | ~4,385 |
+| Efficient Floor Space | 3.00% | ~4,385 |
+| Gem Expert | 3.00% | ~4,385 |
+| Gild-Gotten Goods | 3.00% | ~4,385 |
+| Helping Hand | 3.00% | ~4,385 |
+| Accomplished Merchant | 3.00% | ~4,385 |
+| Dungeon Imports | 3.00% | ~4,385 |
+| Did we pack lunch? | 3.00% | ~4,385 |
+| Arcane Industries | 3.00% | ~4,385 |
 | A Notch Above the Rest | 2.00% | ~2,923 |
 | Cream of the Crop | 2.00% | ~2,923 |
 | Top of the World | 2.00% | ~2,923 |
@@ -96,15 +96,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 2.00% | ~2,923 |
 | Complete Monopoly | 2.00% | ~2,923 |
 | King's Blade | 2.00% | ~2,923 |
-| Constellated | 1.00% | ~1,461 |
-| The Free Encyclopedia | 1.00% | ~1,461 |
-| Fillin' the Bin | 1.00% | ~1,461 |
-| Industrial Evolution | 1.00% | ~1,461 |
-| Thank You Tom Nook | 1.00% | ~1,461 |
-| Jackpot! | 1.00% | ~1,461 |
-| Eternal Crusade | 1.00% | ~1,461 |
-| King's Shadow | 1.00% | ~1,461 |
-| Economy of Scarce | 1.00% | ~1,461 |
+| Constellated | 1.00% | ~1,462 |
+| The Free Encyclopedia | 1.00% | ~1,462 |
+| Fillin' the Bin | 1.00% | ~1,462 |
+| Industrial Evolution | 1.00% | ~1,462 |
+| Thank You Tom Nook | 1.00% | ~1,462 |
+| Jackpot! | 1.00% | ~1,462 |
+| Eternal Crusade | 1.00% | ~1,462 |
+| King's Shadow | 1.00% | ~1,462 |
+| Economy of Scarce | 1.00% | ~1,462 |
 | All or Nothing! | 0.90% | ~1,315 |
 | The Greatest Grind | 0.80% | ~1,169 |
 | Marvels from the World Over | 0.80% | ~1,169 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~585 |
 | Capitalist Camaraderie | 0.20% | ~292 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,149 (Ranked 81)  
+Progressed: 146,153 (Ranked 81)  
 Completed: 322 (0.22%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -361,7 +361,7 @@ Completed: 322 (0.22%) (Ranked 261)
 | 2023-12-15 | 145,699 | 316 |
 | 2023-12-16 | 145,933 | 319 |
 | 2023-12-17 | 146,136 | 322 |
-| 2023-12-18 | 146,149 | 322 |
+| 2023-12-18 | 146,153 | 322 |
 ## Awards
 Max (Great for Beginners): 4,898  (Ranked 75)  
 Sum: 27,759 (Ranked 51)  

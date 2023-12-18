@@ -850,9 +850,9 @@
       "ID": "KR4_ACHIEVEMENT_ELITEHARASSERS",
       "SetID": "caeik3h",
       "Name": "Ultra Instinct",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "KR4_ACHIEVEMENT_FARMER_JOE",
@@ -1290,9 +1290,9 @@
       "ID": "KR4_ACHIEVEMENT_THE_THING",
       "SetID": "caeik3h",
       "Name": "Get Away From That!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "KR4_ACHIEVEMENT_TROLL",
@@ -1343,8 +1343,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-18T02:27:33.005221+00:00",
+  "LastChanged_Achievements": "2023-12-18T03:04:24.2902355+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.9365218+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:23:15.1839922+00:00",
-  "LastUpdate_Achievements": "2023-12-18T02:27:33.0052871+00:00"
+  "LastUpdate_Ratings": "2023-12-18T03:00:59.6099122+00:00",
+  "LastUpdate_Achievements": "2023-12-18T03:04:24.2903036+00:00"
 }

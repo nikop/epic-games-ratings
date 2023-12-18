@@ -9858,9 +9858,9 @@
       "Count": 1026
     }
   ],
-  "EOS_Progressed": 128175,
+  "EOS_Progressed": 128182,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2087,
+  "EOS_NewPlayers": 2093,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35578,6 +35578,11 @@
       "Time": "2023-12-18T02:32:48.3596995+00:00",
       "NumProgressed": 128175,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T03:09:26.1979676+00:00",
+      "NumProgressed": 128182,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36173,7 +36178,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -36181,7 +36186,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "quest_complete_crusader",
@@ -36189,7 +36194,7 @@
       "Name": "Lost and Found",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36220,21 +36225,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128175,
+      "Progressed": 128182,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3044,
+      "Progressed": 3051,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-18T02:21:43.7847477+00:00",
-  "LastChanged_Achievements": "2023-12-18T02:32:48.3596991+00:00",
+  "LastChanged_Achievements": "2023-12-18T03:09:26.1979674+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:21:43.7847484+00:00",
-  "LastUpdate_Achievements": "2023-12-18T02:32:48.3598668+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:58:42.2843337+00:00",
+  "LastUpdate_Achievements": "2023-12-18T03:09:26.1981114+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -668,9 +668,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 60709,
+  "EOS_Progressed": 60712,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 1396,
+  "EOS_NewPlayers": 1395,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13613,6 +13613,11 @@
       "Time": "2023-12-18T02:30:09.4090337+00:00",
       "NumProgressed": 60709,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-18T03:08:05.3535525+00:00",
+      "NumProgressed": 60712,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -13649,7 +13654,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8499
+      "UsersEstimate": 8500
     },
     {
       "ID": "BAD_END",
@@ -13737,7 +13742,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 13356
+      "UsersEstimate": 13357
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -13801,7 +13806,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8499
+      "UsersEstimate": 8500
     },
     {
       "ID": "HERBS_2",
@@ -13937,7 +13942,7 @@
       "Name": "Susanin",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3035
+      "UsersEstimate": 3036
     },
     {
       "ID": "TALES_1",
@@ -13945,7 +13950,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 9106
+      "UsersEstimate": 9107
     },
     {
       "ID": "TALES_2",
@@ -13969,7 +13974,7 @@
       "Name": "Traveller",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3035
+      "UsersEstimate": 3036
     },
     {
       "ID": "WATER",
@@ -14001,7 +14006,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 9713
+      "UsersEstimate": 9714
     },
     {
       "ID": "ZNATKOST_2",
@@ -14024,15 +14029,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 60709,
+      "Progressed": 60712,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-18T02:30:09.4090334+00:00",
+  "LastChanged_Achievements": "2023-12-18T03:08:05.3535521+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:15.0116795+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:21:28.8943446+00:00",
-  "LastUpdate_Achievements": "2023-12-18T02:30:09.40913+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:58:20.6767697+00:00",
+  "LastUpdate_Achievements": "2023-12-18T03:08:05.353667+00:00"
 }

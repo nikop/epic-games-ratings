@@ -7,12 +7,12 @@ Rating: 4.76 (Ranked 130)
 | ---- | ---------- | ----- |
 | Motivational Speaker | 69.00% | ~252,399 |
 | The Player Whisperer | 68.00% | ~248,741 |
-| One of Us, One of Us! | 62.00% | ~226,793 |
-| First Victory | 55.00% | ~201,187 |
-| Clean Sheet | 54.00% | ~197,529 |
-| #DoneDeal | 54.00% | ~197,529 |
-| Off the Books | 52.00% | ~190,213 |
-| Super-Sub | 52.00% | ~190,213 |
+| One of Us, One of Us! | 62.00% | ~226,794 |
+| First Victory | 55.00% | ~201,188 |
+| Clean Sheet | 54.00% | ~197,530 |
+| #DoneDeal | 54.00% | ~197,530 |
+| Off the Books | 52.00% | ~190,214 |
+| Super-Sub | 52.00% | ~190,214 |
 | Hat-trick | 46.00% | ~168,266 |
 | Planned Signing | 44.00% | ~160,950 |
 | "I Would Love It If We Beat Them" | 43.00% | ~157,292 |
@@ -21,10 +21,10 @@ Rating: 4.76 (Ranked 130)
 | Thumping | 39.00% | ~142,660 |
 | People Pleaser | 39.00% | ~142,660 |
 | Unbeatable! | 38.00% | ~139,002 |
-| One Of Our Own | 36.00% | ~131,686 |
-| Record Signing | 32.00% | ~117,054 |
-| They're a Natural | 31.00% | ~113,396 |
-| Team Performance | 30.00% | ~109,738 |
+| One Of Our Own | 36.00% | ~131,687 |
+| Record Signing | 32.00% | ~117,055 |
+| They're a Natural | 31.00% | ~113,397 |
+| Team Performance | 30.00% | ~109,739 |
 | Star Player | 29.00% | ~106,081 |
 | The Only Stat That Matters | 29.00% | ~106,081 |
 | Parked The Bus | 27.00% | ~98,765 |
@@ -53,7 +53,7 @@ Rating: 4.76 (Ranked 130)
 | Top Form | 14.00% | ~51,211 |
 | Window Shopping | 14.00% | ~51,211 |
 | A Game of Two Halves | 13.00% | ~47,553 |
-| You're Up! | 12.00% | ~43,895 |
+| You're Up! | 12.00% | ~43,896 |
 | Money, Money, Money | 10.00% | ~36,580 |
 | Clean Sheet Network | 8.00% | ~29,264 |
 | First Goal Network | 8.00% | ~29,264 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 130)
 | 200 Club | 0.10% | ~366 |
 | Draft Value | 0.10% | ~366 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 365,795 (Ranked 48)  
+Progressed: 365,796 (Ranked 48)  
 Completed: 28 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 28 (0.01%) (Ranked 356)
 | 2023-12-15 | 365,219 | 28 |
 | 2023-12-16 | 365,516 | 28 |
 | 2023-12-17 | 365,779 | 28 |
-| 2023-12-18 | 365,795 | 28 |
+| 2023-12-18 | 365,796 | 28 |
 ## Awards
 Max (Diverse Characters): 1,284  (Ranked 139)  
 Sum: 8,872 (Ranked 98)  

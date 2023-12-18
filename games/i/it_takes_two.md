@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 85.00% | ~41,048 |
-| Struck A Pose | 83.00% | ~40,082 |
-| Look At Him Go | 67.00% | ~32,356 |
-| On Rails Experience | 43.00% | ~20,766 |
-| A Daring Devil | 43.00% | ~20,766 |
-| Break the Bank | 33.00% | ~15,936 |
-| It Took Two | 30.00% | ~14,488 |
-| Bug Sized Relaxation | 15.00% | ~7,244 |
-| Plastic Prison Breakers | 14.00% | ~6,761 |
-| Terror Of The Seven Seas | 11.00% | ~5,312 |
-| Realize Your Art | 9.00% | ~4,346 |
-| Force Triangulated | 8.00% | ~3,863 |
-| Meditation Maestro | 8.00% | ~3,863 |
-| Lost And Found | 7.00% | ~3,380 |
-| Something Fishy | 7.00% | ~3,380 |
-| Snackosaurus | 6.00% | ~2,898 |
-| Platforming Prodigy | 6.00% | ~2,898 |
-| Mood Swing | 5.00% | ~2,415 |
-| Faraway Frequencies | 3.00% | ~1,449 |
-| Minigame Megalomania | 2.00% | ~966 |
+| Fried Friendship | 85.00% | ~41,088 |
+| Struck A Pose | 83.00% | ~40,121 |
+| Look At Him Go | 67.00% | ~32,387 |
+| On Rails Experience | 43.00% | ~20,786 |
+| A Daring Devil | 43.00% | ~20,786 |
+| Break the Bank | 33.00% | ~15,952 |
+| It Took Two | 30.00% | ~14,502 |
+| Bug Sized Relaxation | 15.00% | ~7,251 |
+| Plastic Prison Breakers | 14.00% | ~6,767 |
+| Terror Of The Seven Seas | 11.00% | ~5,317 |
+| Realize Your Art | 9.00% | ~4,351 |
+| Force Triangulated | 8.00% | ~3,867 |
+| Meditation Maestro | 8.00% | ~3,867 |
+| Lost And Found | 7.00% | ~3,384 |
+| Something Fishy | 7.00% | ~3,384 |
+| Snackosaurus | 6.00% | ~2,900 |
+| Platforming Prodigy | 6.00% | ~2,900 |
+| Mood Swing | 5.00% | ~2,417 |
+| Faraway Frequencies | 3.00% | ~1,450 |
+| Minigame Megalomania | 2.00% | ~967 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,292 (Ranked 117)  
+Progressed: 48,339 (Ranked 117)  
 Completed: 131 (0.27%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,4 +119,4 @@ Completed: 131 (0.27%) (Ranked 250)
 | 2023-12-15 | 35,301 | 125 |
 | 2023-12-16 | 42,220 | 127 |
 | 2023-12-17 | 48,208 | 131 |
-| 2023-12-18 | 48,292 | 131 |
+| 2023-12-18 | 48,339 | 131 |

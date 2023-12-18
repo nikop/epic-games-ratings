@@ -50,9 +50,9 @@
 | Master Butcher | 18.00% | ~24 |
 | Just wing it! | 18.00% | ~24 |
 | Deal with it | 17.00% | ~23 |
+| Yeehaw!!! | 15.00% | ~20 |
 | You're looking mozzare-hella good! | 14.00% | ~19 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~19 |
-| Yeehaw!!! | 14.00% | ~19 |
 | Timber! | 11.00% | ~15 |
 | Free Of Chains | 11.00% | ~15 |
 | Spoiler alert! | 10.00% | ~13 |

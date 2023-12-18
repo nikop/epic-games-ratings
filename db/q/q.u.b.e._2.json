@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -587,9 +587,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43978,
+  "EOS_Progressed": 43979,
   "EOS_Completed": 214,
-  "EOS_NewPlayers": 792,
+  "EOS_NewPlayers": 790,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -10972,6 +10972,11 @@
       "Time": "2023-12-18T01:57:32.5389524+00:00",
       "NumProgressed": 43978,
       "NumCompleted": 214
+    },
+    {
+      "Time": "2023-12-18T03:09:31.9670328+00:00",
+      "NumProgressed": 43979,
+      "NumCompleted": 214
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -11176,7 +11181,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 29905
+      "UsersEstimate": 29906
     },
     {
       "ID": "ACH_S4",
@@ -11184,7 +11189,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 21989
+      "UsersEstimate": 21990
     },
     {
       "ID": "ACH_S5",
@@ -11215,15 +11220,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 43978,
+      "Progressed": 43979,
       "Completed": 214
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-17T06:58:25.2845688+00:00",
-  "LastChanged_Achievements": "2023-12-18T02:32:52.5005731+00:00",
+  "LastChanged_Achievements": "2023-12-18T03:09:31.9670326+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:08.0533856+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:22:21.0283272+00:00",
-  "LastUpdate_Achievements": "2023-12-18T02:32:52.5006313+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:59:38.4772219+00:00",
+  "LastUpdate_Achievements": "2023-12-18T03:09:31.9670875+00:00"
 }

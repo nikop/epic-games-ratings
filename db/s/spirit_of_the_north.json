@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 77111,
+  "EOS_Progressed": 77112,
   "EOS_Completed": 414,
-  "EOS_NewPlayers": 577,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -26949,6 +26949,11 @@
       "Time": "2023-12-18T01:57:54.3117557+00:00",
       "NumProgressed": 77111,
       "NumCompleted": 414
+    },
+    {
+      "Time": "2023-12-18T03:09:53.5302412+00:00",
+      "NumProgressed": 77112,
+      "NumCompleted": 414
     }
   ],
   "TotalAchievements": 24,
@@ -26968,7 +26973,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16964
+      "UsersEstimate": 16965
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -26984,7 +26989,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16964
+      "UsersEstimate": 16965
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -27000,7 +27005,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16193
+      "UsersEstimate": 16194
     },
     {
       "ID": "FETCH",
@@ -27104,7 +27109,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 16193
+      "UsersEstimate": 16194
     },
     {
       "ID": "SPIRIT_DASH",
@@ -27151,7 +27156,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 77111,
+      "Progressed": 77112,
       "Completed": 414
     }
   ],
@@ -27159,8 +27164,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2023-12-18T02:33:07.8922636+00:00",
+  "LastChanged_Achievements": "2023-12-18T03:09:53.5302403+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.1287529+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:26:37.9783379+00:00",
-  "LastUpdate_Achievements": "2023-12-18T02:33:07.8924074+00:00"
+  "LastUpdate_Ratings": "2023-12-18T03:03:01.2144714+00:00",
+  "LastUpdate_Achievements": "2023-12-18T03:09:53.5304045+00:00"
 }

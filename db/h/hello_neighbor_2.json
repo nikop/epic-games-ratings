@@ -6,9 +6,9 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 215,
-  "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_Completed": 91,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -477,9 +477,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3445,
+  "EOS_Progressed": 3446,
   "EOS_Completed": 139,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.03,
   "EosHistory": [
@@ -5567,6 +5567,11 @@
       "Time": "2023-12-18T01:53:30.6649414+00:00",
       "NumProgressed": 3445,
       "NumCompleted": 139
+    },
+    {
+      "Time": "2023-12-18T03:05:32.9110562+00:00",
+      "NumProgressed": 3446,
+      "NumCompleted": 139
     }
   ],
   "TotalAchievements": 14,
@@ -5586,7 +5591,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -5594,7 +5599,7 @@
       "Name": "Cat Person",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "ACH_CLIMBER",
@@ -5602,7 +5607,7 @@
       "Name": "Climber",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -5618,7 +5623,7 @@
       "Name": "Easy As Pie",
       "Percentage": 34,
       "XP": 55,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -5634,7 +5639,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -5642,7 +5647,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -5682,14 +5687,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 78,
       "XP": 35,
-      "UsersEstimate": 2687
+      "UsersEstimate": 2688
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3445,
+      "Progressed": 3446,
       "Completed": 139
     }
   ],
@@ -5697,8 +5702,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-16T18:57:24.1820131+00:00",
-  "LastChanged_Achievements": "2023-12-18T02:28:21.3795581+00:00",
+  "LastChanged_Achievements": "2023-12-18T03:05:32.9110557+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.5679965+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:21:25.9861673+00:00",
-  "LastUpdate_Achievements": "2023-12-18T02:28:21.3795953+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:58:16.4675253+00:00",
+  "LastUpdate_Achievements": "2023-12-18T03:05:32.9110886+00:00"
 }

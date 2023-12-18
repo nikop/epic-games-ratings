@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
     "PcReleaseDate": "2019-01-17T15:00:00+00:00",
@@ -517,9 +517,9 @@
       "Count": 139
     }
   ],
-  "EOS_Progressed": 614360,
+  "EOS_Progressed": 614361,
   "EOS_Completed": 556,
-  "EOS_NewPlayers": 902,
+  "EOS_NewPlayers": 901,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -27722,6 +27722,11 @@
       "Time": "2023-12-18T02:32:27.5337824+00:00",
       "NumProgressed": 614360,
       "NumCompleted": 556
+    },
+    {
+      "Time": "2023-12-18T03:08:57.2964782+00:00",
+      "NumProgressed": 614361,
+      "NumCompleted": 556
     }
   ],
   "TotalAchievements": 28,
@@ -27813,7 +27818,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 270318
+      "UsersEstimate": 270319
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -27829,7 +27834,7 @@
       "Name": "Cosplay",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 86010
+      "UsersEstimate": 86011
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -27861,7 +27866,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 571355
+      "UsersEstimate": 571356
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -27869,7 +27874,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 147446
+      "UsersEstimate": 147447
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -27956,15 +27961,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 614360,
+      "Progressed": 614361,
       "Completed": 556
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-12-14T08:59:50.8437194+00:00",
-  "LastChanged_Achievements": "2023-12-18T02:32:27.533782+00:00",
+  "LastChanged_Achievements": "2023-12-18T03:08:57.2964777+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:34.7183441+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:20:58.8542238+00:00",
-  "LastUpdate_Achievements": "2023-12-18T02:32:27.5339409+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:57:34.6612224+00:00",
+  "LastUpdate_Achievements": "2023-12-18T03:08:57.2966127+00:00"
 }

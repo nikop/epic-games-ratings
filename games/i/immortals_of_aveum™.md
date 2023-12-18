@@ -5,30 +5,30 @@ Rating: 4.21 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~958 |
-| Battlefields Have Memories | 79.00% | ~860 |
-| Enlisted | 72.00% | ~784 |
-| Maybe Engage a Little | 66.00% | ~719 |
-| No More Names | 47.00% | ~512 |
-| Initiate | 33.00% | ~359 |
-| Thrada-Kul | 29.00% | ~316 |
-| Gravity-Challenged Rocks | 22.00% | ~240 |
-| Socialite | 21.00% | ~229 |
-| Soldier | 18.00% | ~196 |
-| All the Major Food Groups | 17.00% | ~185 |
-| Beggars Would Ride | 15.00% | ~163 |
-| Control is an Illusion | 14.00% | ~152 |
+| Unforeseen | 87.00% | ~952 |
+| Battlefields Have Memories | 79.00% | ~864 |
+| Enlisted | 72.00% | ~788 |
+| Maybe Engage a Little | 66.00% | ~722 |
+| No More Names | 47.00% | ~514 |
+| Initiate | 33.00% | ~361 |
+| Thrada-Kul | 29.00% | ~317 |
+| Gravity-Challenged Rocks | 22.00% | ~241 |
+| Socialite | 21.00% | ~230 |
+| Soldier | 18.00% | ~197 |
+| All the Major Food Groups | 17.00% | ~186 |
+| Beggars Would Ride | 15.00% | ~164 |
+| Control is an Illusion | 14.00% | ~153 |
 | The Means to Save It | 12.00% | ~131 |
 | Resilience to Sin | 10.00% | ~109 |
 | A Familiar Nest | 9.00% | ~98 |
 | Geas Aristeya | 9.00% | ~98 |
 | Periapt Alizarin | 9.00% | ~98 |
-| A Perfect Cycle | 8.00% | ~87 |
-| Recruit | 8.00% | ~87 |
-| Armsman | 7.00% | ~76 |
-| Lights Army | 5.00% | ~54 |
-| Periapt Cerulean | 5.00% | ~54 |
-| Good Boy | 5.00% | ~54 |
+| A Perfect Cycle | 8.00% | ~88 |
+| Recruit | 7.00% | ~77 |
+| Armsman | 7.00% | ~77 |
+| Lights Army | 5.00% | ~55 |
+| Periapt Cerulean | 5.00% | ~55 |
+| Good Boy | 5.00% | ~55 |
 | Periapt Viridian | 4.00% | ~44 |
 | Shroudfane Explorer | 4.00% | ~44 |
 | Kitted Out | 3.00% | ~33 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 920)
 | Fowl Play | 0.30% | ~3 |
 | Family Business | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,089 (Ranked 270)  
+Progressed: 1,094 (Ranked 270)  
 Completed: 2 (0.18%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 2 (0.18%) (Ranked 270)
 | 2023-12-15 | 689 | 2 |
 | 2023-12-16 | 908 | 2 |
 | 2023-12-17 | 1,065 | 2 |
-| 2023-12-18 | 1,089 | 2 |
+| 2023-12-18 | 1,094 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

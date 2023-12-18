@@ -462,9 +462,9 @@
       "ID": "jg3",
       "SetID": "b1ggf28",
       "Name": "Full Load",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "jk1",
@@ -494,9 +494,9 @@
       "ID": "jz1",
       "SetID": "b1ggf28",
       "Name": "Builder",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "jz2",
@@ -574,9 +574,9 @@
       "ID": "r2",
       "SetID": "b1ggf28",
       "Name": "A Welcoming Settlement",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "r3",
@@ -709,8 +709,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-18T02:28:48.0542711+00:00",
+  "LastChanged_Achievements": "2023-12-18T03:06:10.3345037+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:26:36.3038911+00:00",
-  "LastUpdate_Achievements": "2023-12-18T02:28:48.0543049+00:00"
+  "LastUpdate_Ratings": "2023-12-18T03:02:58.5727893+00:00",
+  "LastUpdate_Achievements": "2023-12-18T03:06:10.3345322+00:00"
 }
